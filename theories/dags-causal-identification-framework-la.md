@@ -16,7 +16,7 @@ sources:
 # Directed acyclic graphs as a nonparametric framework for identifying causal effects in learning analytics
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 2 studies (2 theoretical), `q2` · 0 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 The article presents DAGs, pioneered by Pearl, as a way of visually encoding causal assumptions among variables of interest so researchers can reason about bias and identification. Unlike SEMs, "DAGs are nonparametric in that they make no assumptions about distribution or functional form"; their primary function is graphical identification of causal effects rather than estimation. Constructing a valid DAG requires domain knowledge supplied from outside the data, such as theory and experience.

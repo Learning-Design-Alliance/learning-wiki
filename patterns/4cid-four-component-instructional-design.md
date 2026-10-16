@@ -467,7 +467,7 @@ Merrill's First Principles is the short-form canonical target for task-centered 
 - [Scaffolding](../principles/scaffolding.md)
 
 ### Claims
-- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S]
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+M]
 
 ## Design
 

@@ -13,7 +13,7 @@ generated:
 # Check In
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 16 studies (6 quant-synthesis, 3 review, 2 causal, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 5 of 16 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 14 studies (4 quant-synthesis, 3 review, 2 causal, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 3 of 14 report an effect size · 1 claim rests on one study
 
 ## Description
 A check in is a short, deliberate touchpoint — a question, poll, one-minute paper, or brief conference — through which an instructor or system elicits learners' current state: their understanding, misconceptions, progress, or emotional readiness. It functions as a diagnostic and relational mechanism, feeding information forward so instruction can be adjusted rather than delivered blind.

@@ -225,7 +225,7 @@ Disciplinary literacy reframes content-area literacy from a set of generic strat
 - [Argumentation improves reasoning.](../claims/argumentation-improves-reasoning.md) [+M] — discipline-appropriate argument construction deepens reasoning about evidence
 - [AI literacy requires discipline-specific calibration beyond prompt-writing skills](../claims/ai-literacy-discipline-specific-calibration.md) [+W]
 - [Disciplinary variation emerged in communication assessment, with STEM teachers emphasizing technical precision and humanities teachers audience adaptation](../claims/disciplinary-variation-communication-assessment.md) [+W]
-- [Historical Imagination Evidence Constrained Reconstruction](../claims/historical-imagination-evidence-constrained-reconstruction.md) [+M]
+- [Historical Imagination Evidence Constrained Reconstruction](../claims/historical-imagination-evidence-constrained-reconstruction.md) [+W]
 - [Strategy Imagining Past Two Question Sets](../strategies/strategy-imagining-past-two-question-sets.md) [+M]
 - [Collingwood's ideas about how historical knowledge is produced offer teachers sound reasons for using constructivist approaches in their classrooms](../claims/collingwood-supports-constructivist-history-teaching.md) [+W]
 
@@ -285,7 +285,7 @@ The paper's concluding principle holds that history teaching should treat imagin
 
 ### Claims
 
-- [Historical Imagination Evidence Constrained Reconstruction](../claims/historical-imagination-evidence-constrained-reconstruction.md) [+M]
+- [Historical Imagination Evidence Constrained Reconstruction](../claims/historical-imagination-evidence-constrained-reconstruction.md) [+W]
 - [Strategy Imagining Past Two Question Sets](../strategies/strategy-imagining-past-two-question-sets.md) [+M]
 - [Collingwood's ideas about how historical knowledge is produced offer teachers sound reasons for using constructivist approaches in their classrooms](../claims/collingwood-supports-constructivist-history-teaching.md) [+W]
 

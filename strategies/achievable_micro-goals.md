@@ -47,7 +47,7 @@ Micro-goals work because perceived progress is one of the strongest drivers of m
 - **Streak-based:** platforms like Duolingo wrap micro-goals in daily streaks, adding a consistency incentive
 
 ### Target Learners
-- Novices and learners with low self-efficacy, for whom early mastery experiences are the primary source of confidence [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+S]
+- Novices and learners with low self-efficacy, for whom early mastery experiences are the primary source of confidence [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
 - Learners who are overwhelmed by large, ambiguous tasks; decomposition reduces avoidance and procrastination
 - Less necessary for experts, who typically self-decompose tasks; imposed micro-goals may feel constraining [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
 - Less beneficial for experts, who already set effective subgoals and may find prescribed micro-steps constraining
@@ -104,17 +104,17 @@ Micro-goals decompose a larger learning objective into small, concrete steps tha
 
 ## Design Implications
 
-Micro-goals exploit the finding that proximal subgoals sustain motivation and direct effort more effectively than distal goals alone, especially early in learning [Specific, difficult goals lead to higher performance than vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S]. Bandura's research showed that learners given proximal subgoals developed greater self-efficacy and faster skill gains than those given only a distal goal or no goal [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+S]. For novices, micro-goals should emphasize process (complete one practice set, draft one paragraph) rather than outcomes, since outcome goals can overwhelm learners who lack the knowledge to control results [Process goals outperform outcome goals for novices.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M]. Decomposition itself reduces perceived task complexity in the same way [Chunking](../principles/chunking.md) reduces working-memory load [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
+Micro-goals exploit the finding that proximal subgoals sustain motivation and direct effort more effectively than distal goals alone, especially early in learning [Specific, difficult goals lead to higher performance than vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+M]. Bandura's research showed that learners given proximal subgoals developed greater self-efficacy and faster skill gains than those given only a distal goal or no goal [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]. For novices, micro-goals should emphasize process (complete one practice set, draft one paragraph) rather than outcomes, since outcome goals can overwhelm learners who lack the knowledge to control results [Process goals outperform outcome goals for novices.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M]. Decomposition itself reduces perceived task complexity in the same way [Chunking](../principles/chunking.md) reduces working-memory load [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
 
 ### Context
 #### Requirements
 - A well-specified larger objective that can be meaningfully decomposed — micro-goals must visibly ladder up to it, or learners lose sight of purpose
-- Goals that are specific and measurable ("solve three two-step equations," not "get better at algebra") [Specific, difficult goals lead to higher performance than vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S]
+- Goals that are specific and measurable ("solve three two-step equations," not "get better at algebra") [Specific, difficult goals lead to higher performance than vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+M]
 - A tracking mechanism ([Check-Ins](../principles/check-ins.md), progress dashboards, or a simple checklist) so attainment is registered rather than lost
 - [Feedback](../elements/practice.md) after each step, so completion carries informational value, not just a checkmark
 
 #### Constraints
-- Goals set too low produce frequent success but little learning; the goal-setting literature shows performance gains come from *specific and difficult* goals, and trivially easy micro-goals forfeit this effect [Specific, difficult goals lead to higher performance than vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
+- Goals set too low produce frequent success but little learning; the goal-setting literature shows performance gains come from *specific and difficult* goals, and trivially easy micro-goals forfeit this effect [Specific, difficult goals lead to higher performance than vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M]
 - Over-fragmentation can undermine learning of integrated skills — decomposing a complex task into isolated steps can prevent learners from building a coherent schema of the whole; part-task sequencing should progress toward whole-task practice
 - Excessive external goal-setting can crowd out learner autonomy and undermine intrinsic motivation; pairing micro-goals with learner choice mitigates this [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [~M]
 - Learners new to goal-setting often set vague or miscalibrated micro-goals and need modeling and feedback on the goals themselves
@@ -138,7 +138,7 @@ Micro-goals exploit the finding that proximal subgoals sustain motivation and di
 
 ### Instructions
 1. Specify the distal goal in concrete, assessable terms ([State Objectives](../elements/state-objectives.md)).
-2. Decompose it into micro-goals completable in one sitting, each specific and slightly challenging — not trivially easy [Specific, difficult goals lead to higher performance than vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S].
+2. Decompose it into micro-goals completable in one sitting, each specific and slightly challenging — not trivially easy [Specific, difficult goals lead to higher performance than vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+M].
 3. Sequence micro-goals so early ones are attainable and later ones escalate, moving from part-task to whole-task performance ([Practice](../elements/practice.md)).
 4. After each micro-goal, provide or elicit [Feedback](../elements/practice.md) and have the learner record progress ([Check-Ins](../principles/check-ins.md)).
 5. Gradually transfer goal-setting and monitoring to the learner to build independent self-regulation [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M].

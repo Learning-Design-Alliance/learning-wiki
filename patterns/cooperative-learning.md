@@ -375,7 +375,7 @@ The chapter enumerates the key elements of a cooperative lesson: positive interd
 
 ### Claims
 
-- [Heterogeneous Teams More Benefits Than Homogeneous](../claims/heterogeneous-teams-more-benefits-than-homogeneous.md) [+M]
+- [Heterogeneous Teams More Benefits Than Homogeneous](../claims/heterogeneous-teams-more-benefits-than-homogeneous.md) [+W]
 - [Research in language classes suggested cooperative learning was better than whole-class instruction for language skills and produced more student turns than teacher-centered classes](../claims/cooperative-learning-language-class-outcomes.md) [+W]
 - [A meta-analysis of 352 studies found achievement was higher for students engaged in cooperative learning than in competitive or individualistic learning](../claims/cooperative-learning-higher-achievement-than-competitive-individualistic.md) [+M]
 - [Former capstone students' team-formation priorities centered on interesting topics, preferred teammates, and skill or career alignment](../claims/student-team-formation-priorities-survey.md) [~W]

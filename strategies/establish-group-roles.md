@@ -20,7 +20,7 @@ Establishing group roles means assigning each member of a collaborative group a 
 
 ## Design Implications
 
-Role assignment converts loose cooperation into structured collaboration, which is what distinguishes effective cooperative learning from mere groupwork [Cooperative learning with group rewards and individual accountability improves achievement.](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+S]. Roles work because they make each member's contribution visible and non-substitutable, preventing the free-riding and status hierarchies that undermine small-group outcomes [Small-group learning improves STEM achievement.](../claims/small-group-learning-improves-stem-achievement.md) [+S].
+Role assignment converts loose cooperation into structured collaboration, which is what distinguishes effective cooperative learning from mere groupwork [Cooperative learning with group rewards and individual accountability improves achievement.](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+S]. Roles work because they make each member's contribution visible and non-substitutable, preventing the free-riding and status hierarchies that undermine small-group outcomes [Small-group learning improves STEM achievement.](../claims/small-group-learning-improves-stem-achievement.md) [+M].
 
 ### Context
 #### Requirements
@@ -54,7 +54,7 @@ Role assignment converts loose cooperation into structured collaboration, which 
 
 ### Target Learners
 - Novice collaborators who lack norms for productive group interaction [+M]
-- Mixed-ability groups where status differences would otherwise silence some members [Small-group learning improves STEM achievement.](../claims/small-group-learning-improves-stem-achievement.md) [+S]
+- Mixed-ability groups where status differences would otherwise silence some members [Small-group learning improves STEM achievement.](../claims/small-group-learning-improves-stem-achievement.md) [+M]
 - Learners whose confidence is fragile — a defined role gives a legitimate, protected voice in the group, supporting participation [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [~M]
 - Novice collaborators who lack models for productive group behavior — explicit roles substitute for experience [+M]
 - Mixed-status or mixed-ability groups, where roles protect participation rights of lower-status members [~M]

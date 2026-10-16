@@ -51,7 +51,7 @@ When learners must read text and simultaneously view an animation, both compete 
 
 ### Instructions
 1. Identify the essential graphic or animation and the words that explain it.
-2. Convert explanatory text to concise, conversational narration; avoid verbatim duplication of on-screen text (redundancy harms learning) [Redundant on-screen text with narration hurts learning.](../claims/redundancy-principle.md) [+S].
+2. Convert explanatory text to concise, conversational narration; avoid verbatim duplication of on-screen text (redundancy harms learning) [Redundant on-screen text with narration hurts learning.](../claims/redundancy-principle.md) [+M].
 3. Synchronize narration with the corresponding visual events.
 4. Segment the presentation so learners can pause or replay ([Chunking](../principles/chunking.md)).
 5. Provide captions or a transcript for accessibility and noisy contexts.

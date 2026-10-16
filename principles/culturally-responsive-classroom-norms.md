@@ -350,7 +350,7 @@ The author proposes that educators and researchers consciously refuse to treat t
 
 ### Claims
 
-- [Sociocultural Sla Demonizes Socially Resistant Learners](../claims/sociocultural-sla-demonizes-socially-resistant-learners.md) [+M]
+- [Sociocultural Sla Demonizes Socially Resistant Learners](../claims/sociocultural-sla-demonizes-socially-resistant-learners.md) [+W]
 - [Within the CoP model, learners who do not progress toward the centre through nonparticipation are relegated to the fringes with invalidated identities](../claims/cop-nonparticipation-invalidates-learner-identities.md) [+W]
 - [The Good Language Learner metanarrative persists in sociocultural accounts by equating success with access to community conversations](../claims/gll-metanarrative-persists-sociocultural-theory.md) [+W]
 - [Review reports that reticent non-local students who resisted local classroom norms were academically superior on other performance kinds (Duff, 2002)](../claims/reticent-students-academically-superior-duff.md) [+W]

@@ -39,7 +39,7 @@ The authors state that "some three to five years are required in most districts 
 - Sustained implementation of a developmentally appropriate intermediate program
 
 ### Claims
-- [Committee Structure Sustains Change Despite Turnover](../claims/committee-structure-sustains-change-despite-turnover.md) [+M]
+- [Committee Structure Sustains Change Despite Turnover](../claims/committee-structure-sustains-change-despite-turnover.md) [+W]
 
 ## Related Principles
 - 

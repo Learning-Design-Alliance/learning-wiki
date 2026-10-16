@@ -20,7 +20,7 @@ Word study replaces rote spelling memorization with structured investigation of 
 
 ## Design Implications
 
-Word study operationalizes [Active Learning](../principles/active-learning.md) for orthography: learners induce the rule from sorted exemplars rather than receiving it as a stated fact to memorize. Its core activity — sorting words into categories and contrasting minimal pairs (e.g., *hop/hope*, *hard c/soft c*) — is a direct application of case comparison, which reliably improves discrimination and transfer [Comparing contrasting cases improves learning.](../claims/comparing-contrasting-cases-improves-learning.md) [+S]. Because pattern knowledge generalizes to untaught words, word study builds the automatic word recognition that frees working memory for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S].
+Word study operationalizes [Active Learning](../principles/active-learning.md) for orthography: learners induce the rule from sorted exemplars rather than receiving it as a stated fact to memorize. Its core activity — sorting words into categories and contrasting minimal pairs (e.g., *hop/hope*, *hard c/soft c*) — is a direct application of case comparison, which reliably improves discrimination and transfer [Comparing contrasting cases improves learning.](../claims/comparing-contrasting-cases-improves-learning.md) [+S]. Because pattern knowledge generalizes to untaught words, word study builds the automatic word recognition that frees working memory for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M].
 
 ### Context
 #### Requirements
@@ -64,7 +64,7 @@ Word study operationalizes [Active Learning](../principles/active-learning.md) f
 
 ### Target Learning Goals
 - Orthographic pattern knowledge: spelling generalizations that transfer to untaught words
-- Automatic word recognition supporting reading fluency and comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Automatic word recognition supporting reading fluency and comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Vocabulary and morphology: meaning-based sorts (prefixes, suffixes, Latin/Greek roots) at upper stages
 - Analytical habits: comparing, categorizing, and hypothesizing about linguistic evidence
 - Orthographic pattern knowledge: generalizable spelling rules rather than isolated word memorization

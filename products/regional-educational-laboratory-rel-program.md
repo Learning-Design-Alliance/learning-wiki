@@ -62,7 +62,7 @@ The article describes the research alliance model as a way of engaging with prac
 - Engaging practitioners and policymakers collaboratively throughout the research process
 
 ### Claims
-- [Rel Midwest Plc Collaborative Research Lessons](../claims/rel-midwest-plc-collaborative-research-lessons.md) [+M]
+- [Rel Midwest Plc Collaborative Research Lessons](../claims/rel-midwest-plc-collaborative-research-lessons.md) [+W]
 
 ## Related Theories
 

@@ -40,8 +40,8 @@ The presentation proposes a framework for intelligence augmentation (IA) in coll
 
 ### Claims
 
-- [Collaborative Situations Often Fail Productive](../claims/collaborative-situations-often-fail-productive.md) [+M]
-- [Edtech Ai Messaging Individual Vs Social Curricula](../claims/edtech-ai-messaging-individual-vs-social-curricula.md) [+M]
+- [Collaborative Situations Often Fail Productive](../claims/collaborative-situations-often-fail-productive.md) [+W]
+- [Edtech Ai Messaging Individual Vs Social Curricula](../claims/edtech-ai-messaging-individual-vs-social-curricula.md) [+W]
 - [Well-structured collaborative learning is extremely effective, especially for learning concepts and complex problem solving](../claims/well-structured-collaborative-learning-effective.md) [+W]
 
 ## Related Theories

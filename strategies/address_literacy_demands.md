@@ -19,7 +19,7 @@ Addressing literacy demands means auditing the reading, writing, and disciplinar
 
 ## Design Implications
 
-Reading comprehension depends heavily on prior knowledge and vocabulary; learners without automatic word recognition and domain vocabulary spend working-memory resources on decoding that experts devote to meaning-making [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Because text demands are largely invisible to fluent readers, instructors must deliberately identify where texts will exceed learners' current literacy and build in supports — vocabulary pre-teaching, structural guides, and mediated reading experiences — rather than simply assigning the text [Graphic organizers support novice comprehension.](../claims/graphic-organizers-support-novice-comprehension.md) [+M].
+Reading comprehension depends heavily on prior knowledge and vocabulary; learners without automatic word recognition and domain vocabulary spend working-memory resources on decoding that experts devote to meaning-making [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Because text demands are largely invisible to fluent readers, instructors must deliberately identify where texts will exceed learners' current literacy and build in supports — vocabulary pre-teaching, structural guides, and mediated reading experiences — rather than simply assigning the text [Graphic organizers support novice comprehension.](../claims/graphic-organizers-support-novice-comprehension.md) [+M].
 
 ### Context
 #### Requirements
@@ -43,7 +43,7 @@ Reading comprehension depends heavily on prior knowledge and vocabulary; learner
 
 ### Target Learners
 - Novices in a discipline who lack its specialized vocabulary and text conventions [Graphic organizers support novice comprehension.](../claims/graphic-organizers-support-novice-comprehension.md) [+M]
-- Learners reading below grade level or with decoding difficulties, for whom content-area texts impose double demands [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Learners reading below grade level or with decoding difficulties, for whom content-area texts impose double demands [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Multilingual learners navigating academic language alongside content
 - Less necessary for learners with strong disciplinary literacy, for whom heavy scaffolding can feel redundant and slow [~W]
 

@@ -41,7 +41,7 @@ Processing speed is a bottleneck resource: slow execution of basic operations co
 - **Output:** speech-to-text, scribing, or oral responses in place of timed written output
 
 ### Target Learners
-- Students with identified disabilities involving processing speed (ADHD, specific learning disabilities, autism spectrum conditions) — chronic time pressure erodes the confidence these learners need to persist [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+S]
+- Students with identified disabilities involving processing speed (ADHD, specific learning disabilities, autism spectrum conditions) — chronic time pressure erodes the confidence these learners need to persist [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
 - Second-language learners processing in a non-dominant language, for whom slower lexical access mimics low processing speed
 - Older adult learners, given the robust general slowing of processing with age [Salthouse, T. A. (1996). The processing-speed theory of adult age differences in cognition. *Psychological Review, 103*(3), 403–428](https://doi.org/10.1037/0033-295X.103.3.403) [+S]
 - Less beneficial for learners with high automaticity in the relevant skills, for whom extra time adds little [Expertise reversal: guidance becomes less effective as expertise grows.](../claims/expertise-reversal-effect.md) [~M]

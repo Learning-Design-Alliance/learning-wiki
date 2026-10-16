@@ -20,7 +20,7 @@ Discussion protocols are explicit, repeatable structures — turn-taking rules, 
 
 ## Design Implications
 
-Protocols work because they convert discussion from a social performance into a structured reasoning task: every learner is expected to produce and evaluate ideas, not merely listen [Active learning improves exam performance relative to lecture alone.](../claims/active-learning-improves-exam-performance.md) [+S]. Structure also raises the quality of peer talk — protocols that require learners to agree, disagree, or build on a prior turn push talk toward explanation and justification rather than unconnected opinions [Structured peer discussion improves conceptual understanding.](../claims/peer-discussion-improves-conceptual-understanding.md) [+S].
+Protocols work because they convert discussion from a social performance into a structured reasoning task: every learner is expected to produce and evaluate ideas, not merely listen [Active learning improves exam performance relative to lecture alone.](../claims/active-learning-improves-exam-performance.md) [+S]. Structure also raises the quality of peer talk — protocols that require learners to agree, disagree, or build on a prior turn push talk toward explanation and justification rather than unconnected opinions [Structured peer discussion improves conceptual understanding.](../claims/peer-discussion-improves-conceptual-understanding.md) [+M].
 
 ### Context
 #### Requirements

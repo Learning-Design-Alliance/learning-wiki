@@ -28,7 +28,7 @@ Hands-on learning is the element in which learners manipulate materials, tools, 
 #### Constraints
 - **Activity without conceptual framing can stay procedural**
 - **Resource and space demands may limit implementation**
-- **Which materials are used is not an interchangeable implementation detail** — material affordances and cultural coding shape both conceptual learning and who feels invited to participate [Material choice shapes conceptual learning and who feels invited to learn](../claims/material-choice-shapes-conceptual-learning-and-participation.md) [+S]
+- **Which materials are used is not an interchangeable implementation detail** — material affordances and cultural coding shape both conceptual learning and who feels invited to participate [Material choice shapes conceptual learning and who feels invited to learn](../claims/material-choice-shapes-conceptual-learning-and-participation.md) [+M]
 
 ### Target Learning Goals
 - Strengthen application, procedural fluency, and experiential understanding.

@@ -31,7 +31,7 @@ Combining words and pictures consistently outperforms words alone for transfer a
 #### Constraints
 - Redundant presentation — identical text spoken aloud and shown on screen — impairs learning compared with narration plus image [Redundant on-screen text with narration impairs learning.](../claims/redundancy-hurts-learning.md) [-S]
 - Decorative or seductive visuals unrelated to the learning goal reduce retention and transfer [Irrelevant graphics and text reduce learning by consuming working memory.](../claims/coherence-principle-irrelevant-material-hurts-learning.md) [-S]
-- Splitting related information across space or time (e.g., a legend far from a chart) forces costly visual search and reduces learning [Integrated presentation beats split-attention presentation.](../claims/split-attention-effect-degrades-learning.md) [+S]
+- Splitting related information across space or time (e.g., a legend far from a chart) forces costly visual search and reduces learning [Integrated presentation beats split-attention presentation.](../claims/split-attention-effect-degrades-learning.md) [+M]
 - Complex, high-element-interactivity content can overload the visual channel; [Chunking](../principles/chunking.md) and segmenting the visual into steps is required [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]
 
 #### Implementation Variability

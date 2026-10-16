@@ -154,7 +154,7 @@ Pre-teaching vocabulary involves explicitly introducing selected new words befor
 
 ## Design Implications
 
-Pre-teaching reduces the lexical processing burden during reading, freeing resources for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Meta-analytic evidence shows vocabulary instruction reliably improves passage-level comprehension, though effects are strongest when instruction goes beyond definitions to include multiple encounters and rich processing of each word [~M]. Selecting a small number of high-utility words and teaching them deeply outperforms teaching many words superficially.
+Pre-teaching reduces the lexical processing burden during reading, freeing resources for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Meta-analytic evidence shows vocabulary instruction reliably improves passage-level comprehension, though effects are strongest when instruction goes beyond definitions to include multiple encounters and rich processing of each word [~M]. Selecting a small number of high-utility words and teaching them deeply outperforms teaching many words superficially.
 
 ### Context
 #### Requirements

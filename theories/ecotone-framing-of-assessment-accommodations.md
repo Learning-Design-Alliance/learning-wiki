@@ -36,8 +36,8 @@ The article proposes a metaphorical framework in which accommodations sit "like 
 - Understanding the evolving role and status of accommodations in assessment policy
 
 ### Claims
-- [Accommodations Feel Transitional Not Fully Equal](../claims/accommodations-feel-transitional-not-fully-equal.md) [+M]
-- [Accommodation Policies Drift With Expectations And Technology](../claims/accommodation-policies-drift-with-expectations-and-technology.md) [+M]
+- [Accommodations Feel Transitional Not Fully Equal](../claims/accommodations-feel-transitional-not-fully-equal.md) [+W]
+- [Accommodation Policies Drift With Expectations And Technology](../claims/accommodation-policies-drift-with-expectations-and-technology.md) [+W]
 
 ## Related Theories
 - 

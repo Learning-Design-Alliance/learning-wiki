@@ -17,7 +17,7 @@ sources:
 # NWEA working paper on English Language Learners, self-efficacy, and the achievement gap
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (8 for) · 2 studies (2 associational), `q1`–`q2` · 0 of 2 report an effect size · 8 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 7 claims rest on one study
 
 ## Description
 An associated NWEA working paper titled "English Language Learners, self-efficacy, and the achievement gap: understanding the relationship between academic and social-emotional growth". The webinar page lists it under "Associated Research" as the extended research product accompanying the presentation, framing its focus as the link between academic and social-emotional growth for ELLs.

@@ -37,7 +37,7 @@ The paper frames cognitive flexibility in mathematics as the ability to select s
 
 ### Claims
 - [Mathia Students Hard To Adapt Strategies](../claims/mathia-students-hard-to-adapt-strategies.md) [+M]
-- [Bert Predicts Successful Unsuccessful Strategies](../claims/bert-predicts-successful-unsuccessful-strategies.md) [+M]
+- [Bert Predicts Successful Unsuccessful Strategies](../claims/bert-predicts-successful-unsuccessful-strategies.md) [+W]
 
 ## Related Theories
 - 

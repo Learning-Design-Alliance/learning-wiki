@@ -26,7 +26,7 @@ Errors carry diagnostic information that correct answers do not: they expose the
 - Instructor norms that treat wrong answers as contributions: respond to the reasoning, not the verdict ("What makes you say that?" rather than "No")
 - Time to analyze errors in depth rather than rushing to the correct answer
 - Structured routines for error analysis, such as [Erroneous Examples](../elements/erroneous-examples.md), [Cognitive Conflict](../elements/cognitive-conflict.md), and [Peer Discussion](../elements/peer-discussion.md)
-- Feedback that is actionable and forward-looking rather than evaluative [Feedback that answers where am I going, how am I doing, and where to next improves learning.](../claims/feedback-answers-three-questions-improves-learning.md) [+S]
+- Feedback that is actionable and forward-looking rather than evaluative [Feedback that answers where am I going, how am I doing, and where to next improves learning.](../claims/feedback-answers-three-questions-improves-learning.md) [+M]
 
 #### Constraints
 - Learners with strong entity (fixed) beliefs about ability may interpret public error analysis as exposure; mindset framing must precede error-focused routines [Growth mindset interventions improve achievement for at-risk students.](../claims/growth-mindset-improves-achievement.md) [~M]

@@ -19,7 +19,7 @@ A formative assessment loop is a repeating cycle: elicit evidence of learning (a
 
 ## Design Implications
 
-Formative loops work because they surface misconceptions while they are still correctable and because feedback arrives when learners can still use it [Feedback is most effective when it answers where am I going, how am I doing, and where to next.](../claims/feedback-answers-three-questions-improves-learning.md) [+S]. The design burden falls on the *act* step: each loop must specify in advance what evidence will be collected, what decision rule triggers a change, and what the change will be. Loops should be short and frequent rather than long and summative in disguise.
+Formative loops work because they surface misconceptions while they are still correctable and because feedback arrives when learners can still use it [Feedback is most effective when it answers where am I going, how am I doing, and where to next.](../claims/feedback-answers-three-questions-improves-learning.md) [+M]. The design burden falls on the *act* step: each loop must specify in advance what evidence will be collected, what decision rule triggers a change, and what the change will be. Loops should be short and frequent rather than long and summative in disguise.
 
 ### Context
 #### Requirements
@@ -30,7 +30,7 @@ Formative loops work because they surface misconceptions while they are still co
 
 #### Constraints
 - Grading loop artifacts converts them into summative events; students then hide confusion and the evidence dries up [-S]
-- Feedback without learner opportunity to act on it produces negligible gains [Feedback is most effective when it answers where am I going, how am I doing, and where to next.](../claims/feedback-answers-three-questions-improves-learning.md) [-S]
+- Feedback without learner opportunity to act on it produces negligible gains [Feedback is most effective when it answers where am I going, how am I doing, and where to next.](../claims/feedback-answers-three-questions-improves-learning.md) [-M]
 - Loops fail when the elicitation task is answerable without understanding (recall-only checks), producing false confidence in progress
 - Over-frequent checking without instructional response consumes time and erodes trust in the process [~M]
 

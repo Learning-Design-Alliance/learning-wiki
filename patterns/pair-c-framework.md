@@ -20,7 +20,7 @@ sources:
 # PAIR-C Framework (Pattern, Agents, Interactions, Relations, Causality)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 12 claims (5 for, 7 mixed) · 19 studies (7 causal, 5 quant-synthesis, 3 review, 2 qualitative, 1 design, 1 theoretical), `q2`–`q4` · 3 of 19 report an effect size · 7 claims rest on one study
+> **Evidence** · 11 claims (4 for, 7 mixed) · 19 studies (7 causal, 5 quant-synthesis, 3 review, 2 qualitative, 1 design, 1 theoretical), `q2`–`q4` · 3 of 19 report an effect size · 6 claims rest on one study
 
 ## Description and scope
 

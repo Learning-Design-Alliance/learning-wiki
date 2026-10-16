@@ -39,7 +39,7 @@ The paper applies Bandura's social cognitive theory, under which perceived self-
 
 ### Claims
 
-- [Student Educator Relationship Builds Self Efficacy And Belonging](../claims/student-educator-relationship-builds-self-efficacy-and-belonging.md) [+M]
+- [Student Educator Relationship Builds Self Efficacy And Belonging](../claims/student-educator-relationship-builds-self-efficacy-and-belonging.md) [+W]
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
 
 ## Related Theories

@@ -68,7 +68,7 @@ Its defining commitment is **derivation**: nothing enters the course that cannot
 #### Supporting
 - [Goal setting improves performance.](../claims/goal-setting-improves-performance.md) [+M] — the case for stating the target before designing toward it
 - [Feedback is most effective when directed at the task and process rather than the self.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S] — what makes formative evaluation a revision instrument
-- [Prior knowledge determines new learning.](../claims/prior-knowledge-determines-new-learning.md) [+S] — the premise of entry-behaviour analysis
+- [Prior knowledge determines new learning.](../claims/prior-knowledge-determines-new-learning.md) [+M] — the premise of entry-behaviour analysis
 
 #### Contradicting
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [-M] — a constraint on part-task decomposition, not on the process as a whole

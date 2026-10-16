@@ -19,7 +19,7 @@ Echo reading is an oral reading fluency strategy in which an expert reader (teac
 
 ## Design Implications
 
-Echo reading combines [modeling](../theories/social-learning-theory.md) with immediate, guided practice: the expert's rendition sets a target for rate, accuracy, and prosody, and the immediate echo forces active production rather than passive listening. Because learners do not have to decode every word from scratch on the first pass, the strategy reduces the working-memory burden of word recognition and frees attention for expression and meaning [Chunking text into short modeled segments reduces working-memory load during reading.](../claims/chunking-reduces-working-memory-load.md) [+M]. Its fluency benefits rest on the same mechanism as repeated reading: multiple successful oral exposures to the same words build automatic word recognition, which in turn frees resources for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S].
+Echo reading combines [modeling](../theories/social-learning-theory.md) with immediate, guided practice: the expert's rendition sets a target for rate, accuracy, and prosody, and the immediate echo forces active production rather than passive listening. Because learners do not have to decode every word from scratch on the first pass, the strategy reduces the working-memory burden of word recognition and frees attention for expression and meaning [Chunking text into short modeled segments reduces working-memory load during reading.](../claims/chunking-reduces-working-memory-load.md) [+M]. Its fluency benefits rest on the same mechanism as repeated reading: multiple successful oral exposures to the same words build automatic word recognition, which in turn frees resources for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M].
 
 ### Context
 #### Requirements
@@ -41,13 +41,13 @@ Echo reading combines [modeling](../theories/social-learning-theory.md) with imm
 - **Choral-to-echo hybrids** (as in the Neurological Impress Method) where teacher and student read simultaneously before echoing
 
 ### Target Learners
-- Beginning readers and struggling readers in elementary grades, who benefit most from a fluent model paired with immediate successful practice [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Beginning readers and struggling readers in elementary grades, who benefit most from a fluent model paired with immediate successful practice [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - English learners, who gain exposure to English prosody, phrasing, and intonation patterns they may not hear in print alone [+M]
 - Less appropriate for fluent readers, for whom the modeled reading adds little beyond what independent reading provides [~W]
 
 ### Target Learning Goals
 - Oral reading fluency: accuracy, rate, and prosody
-- Automaticity in word recognition, which underpins comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Automaticity in word recognition, which underpins comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Reading confidence and willingness to read aloud, especially when done chorally or in small groups [+W]
 
 ### Instructions

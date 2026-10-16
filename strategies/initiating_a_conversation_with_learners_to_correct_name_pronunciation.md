@@ -19,7 +19,7 @@ The instructor initiates a private, low-stakes conversation with the learner to 
 
 ## Design Implications
 
-Names are core to identity; repeated mispronunciation signals exclusion and depresses belonging, which in turn undermines engagement and persistence [~M]. Correcting pronunciation early functions as a small but concrete [belonging intervention](../theories/constructivism.md): it communicates that the learner is seen and valued, supporting the self-efficacy and classroom trust that predict persistence [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+S]. The strategy is less about phonetics than about signaling respect — the conversation itself, done well, carries most of the relational benefit.
+Names are core to identity; repeated mispronunciation signals exclusion and depresses belonging, which in turn undermines engagement and persistence [~M]. Correcting pronunciation early functions as a small but concrete [belonging intervention](../theories/constructivism.md): it communicates that the learner is seen and valued, supporting the self-efficacy and classroom trust that predict persistence [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]. The strategy is less about phonetics than about signaling respect — the conversation itself, done well, carries most of the relational benefit.
 
 ### Context
 #### Requirements

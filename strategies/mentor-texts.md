@@ -20,7 +20,7 @@ A mentor text is a short, high-quality exemplar — a published essay, poem, lab
 
 ## Design Implications
 
-Mentor texts are demonstrations of craft rather than content, and their effectiveness depends on making the expert's choices visible through guided noticing and annotation [Example-based learning benefits from integrating cognitive and social-cognitive perspectives.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. Imitation of a model followed by independent application outperforms either reading or instruction alone for writing skill [Explicit strategy instruction combined with modeling improves writing quality.](../claims/worked-example-problem-sequences.md) [+S]. Studying multiple contrasting mentor texts supports abstraction of the underlying technique rather than surface imitation [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
+Mentor texts are demonstrations of craft rather than content, and their effectiveness depends on making the expert's choices visible through guided noticing and annotation [Example-based learning benefits from integrating cognitive and social-cognitive perspectives.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. Imitation of a model followed by independent application outperforms either reading or instruction alone for writing skill [Explicit strategy instruction combined with modeling improves writing quality.](../claims/worked-example-problem-sequences.md) [+M]. Studying multiple contrasting mentor texts supports abstraction of the underlying technique rather than surface imitation [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -54,7 +54,7 @@ Mentor texts are demonstrations of craft rather than content, and their effectiv
 - **Multimodal texts**: song lyrics, comics, or infographics for genre and craft analysis beyond prose
 
 ### Target Learners
-- Novice writers and producers who lack a repertoire of structural and stylistic options [Explicit modeling of writing strategies improves quality.](../claims/worked-example-problem-sequences.md) [+S]
+- Novice writers and producers who lack a repertoire of structural and stylistic options [Explicit modeling of writing strategies improves quality.](../claims/worked-example-problem-sequences.md) [+M]
 - Learners who can comprehend the mentor text but cannot yet generate the moves independently
 - Less beneficial for advanced learners who already possess genre flexibility [Guidance becomes less effective as expertise grows.](../claims/expertise-reversal-effect.md) [~M]
 - English language learners, who benefit from concrete models of disciplinary and genre conventions [+M]

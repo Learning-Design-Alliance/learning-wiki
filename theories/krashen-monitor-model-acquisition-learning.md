@@ -16,7 +16,7 @@ sources:
 # Krashen's Monitor Model: acquisition versus learning as separate internal rule systems
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (1 causal, 1 theoretical), `q2` · 1 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 causal, 1 theoretical), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 Krashen's Monitor Model divides classroom activities into acquisition activities, which expose students to comprehensible target language samples, and learning activities, which focus on particular language forms through error correction, drills, and grammar explanation. Performance is initiated by acquired basic competence, while learned Monitor rules can modify output only when there is enough time, as on paper-and-pencil tests. The article retains this acquisition-learning distinction as Krashen's basic insight even while criticizing its absolute conscious/unconscious split.

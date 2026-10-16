@@ -19,7 +19,7 @@ High-frequency word lists (e.g., the Dolch list of 220 service words and the Fry
 
 ## Design Implications
 
-Automatic recognition of high-frequency words reduces the working-memory burden of reading, allowing comprehension processes to operate on meaning rather than word identification [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Words become sight words fastest when learners attend to letter–sound correspondences and spelling patterns, even for irregular words — mapping letters to sounds is more effective than visual memorization of word shapes [Ehri's phases of word reading](https://doi.org/10.1207/s1532799xssr0902_5) [+S]. Practice should be brief, frequent, and spaced rather than massed [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
+Automatic recognition of high-frequency words reduces the working-memory burden of reading, allowing comprehension processes to operate on meaning rather than word identification [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Words become sight words fastest when learners attend to letter–sound correspondences and spelling patterns, even for irregular words — mapping letters to sounds is more effective than visual memorization of word shapes [Ehri's phases of word reading](https://doi.org/10.1207/s1532799xssr0902_5) [+S]. Practice should be brief, frequent, and spaced rather than massed [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Automatic recognition of high-frequency words reduces the working-memory burden 
 - Decodable texts deliberately saturated with taught high-frequency words ([Assigned Readings](../elements/assigned-readings.md))
 
 ### Target Learners
-- Beginning readers (K–2) building a sight vocabulary [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Beginning readers (K–2) building a sight vocabulary [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Older struggling readers and learners with dyslexia who need targeted, structured practice on irregular words
 - English language learners, who benefit from pairing words with oral language and sentence contexts [~M]
 

@@ -41,7 +41,7 @@ The strongest evidence favors programs that go beyond supplying books or asking 
 - **Family literacy workshops with coaching cycles** — modeling, observed practice, and feedback rather than one-time information sessions
 
 ### Target Learners
-- Beginning readers (K–2) still developing decoding; home practice builds fluency through volume [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Beginning readers (K–2) still developing decoding; home practice builds fluency through volume [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Children from homes with limited print resources, where school-supplied materials meaningfully change the home literacy environment [+M]
 - Struggling readers needing additional practice minutes beyond what the school day allows [+M]
 - Less effective as a substitute for explicit classroom instruction in phonics; home support supplements but cannot replace systematic teaching [Phonics instruction outperforms whole-word approaches for generalization.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [~M]

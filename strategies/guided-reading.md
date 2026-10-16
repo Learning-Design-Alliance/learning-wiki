@@ -19,7 +19,7 @@ Guided reading is a small-group instructional format in which learners read a te
 
 ## Design Implications
 
-Guided reading operationalizes [Scaffolding](../principles/scaffolding.md) in the reading domain: support is contingent on observed learner behavior rather than pre-scripted [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M]. Text selection is the critical design decision — texts must sit in the learner's zone of proximal development, hard enough to require strategy use but not so hard that decoding consumes all working memory [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Fluent word recognition is a precondition: learners who must labor over every word lack the cognitive resources for comprehension work [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S].
+Guided reading operationalizes [Scaffolding](../principles/scaffolding.md) in the reading domain: support is contingent on observed learner behavior rather than pre-scripted [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M]. Text selection is the critical design decision — texts must sit in the learner's zone of proximal development, hard enough to require strategy use but not so hard that decoding consumes all working memory [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Fluent word recognition is a precondition: learners who must labor over every word lack the cognitive resources for comprehension work [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M].
 
 ### Context
 #### Requirements
@@ -43,13 +43,13 @@ Guided reading operationalizes [Scaffolding](../principles/scaffolding.md) in th
 - **Digital variants** — platforms such as [Raz-Kids](https://www.raz-kids.com) and [Reading A–Z](https://www.readinga-z.com) deliver leveled texts with audio support and comprehension checks
 
 ### Target Learners
-- Emergent and developing readers who can decode most words but need strategic support with meaning-making [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Emergent and developing readers who can decode most words but need strategic support with meaning-making [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Struggling readers in small groups, where contingent prompting can be calibrated to individual needs [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M]
 - English learners, when paired with [Accessible Vocabulary & Syntax](../principles/accessible-vocabulary-syntax.md) work before and during reading
 - Least appropriate for advanced readers working well above grade level, who benefit more from independent reading and discussion of complex texts [~W]
 
 ### Target Learning Goals
-- Fluency and automatic word recognition [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Fluency and automatic word recognition [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Comprehension strategy acquisition (predicting, inferring, summarizing, monitoring)
 - Self-regulated reading: internalizing the prompting language so learners prompt themselves [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M]
 

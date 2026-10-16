@@ -20,7 +20,7 @@ Explicit systematic phonics instruction teaches grapheme–phoneme correspondenc
 
 ## Design Implications
 
-Phonics instruction is one of the most consistently supported findings in educational research: systematic phonics programs outperform unsystematic or no-phonics comparison conditions on word reading, and the advantage for decoding underpins later comprehension [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. The mechanism is [Automaticity](../elements/automaticity.md): when decoding becomes effortless, working memory is released for meaning-making, consistent with [Cognitive Load Management](../principles/cognitive-load-management.md). Effectiveness depends on the instruction actually being explicit and systematic — teaching a few correspondences per lesson, modeling blending, and giving immediate practice with words containing only taught patterns.
+Phonics instruction is one of the most consistently supported findings in educational research: systematic phonics programs outperform unsystematic or no-phonics comparison conditions on word reading, and the advantage for decoding underpins later comprehension [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. The mechanism is [Automaticity](../elements/automaticity.md): when decoding becomes effortless, working memory is released for meaning-making, consistent with [Cognitive Load Management](../principles/cognitive-load-management.md). Effectiveness depends on the instruction actually being explicit and systematic — teaching a few correspondences per lesson, modeling blending, and giving immediate practice with words containing only taught patterns.
 
 ### Context
 #### Requirements
@@ -77,7 +77,7 @@ Phonics instruction is one of the most consistently supported findings in educat
 
 ### Target Learning Goals
 - Alphabetic principle: mapping letters to sounds
-- Decoding accuracy and automaticity of word recognition [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Decoding accuracy and automaticity of word recognition [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Foundational skill for reading fluency and, indirectly, comprehension
 - Alphabetic principle: understanding that letters map to sounds in a systematic way
 - Encoding (spelling) through the same correspondences taught in reverse
@@ -138,7 +138,7 @@ Explicit systematic phonics teaches letter–sound correspondences directly and 
 
 ## Design Implications
 
-Systematic phonics instruction produces reliably stronger word-reading outcomes than non-systematic or incidental approaches, with the largest gains for struggling readers [Ehri et al.'s meta-analysis found systematic phonics outperformed unsystematic and non-phonics comparison instruction.](https://doi.org/10.1598/RRQ.36.3.2) [+S]. The goal is automatic word recognition: once decoding is automatic, attentional resources are freed for comprehension [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Instruction must therefore build toward fluency, not just accuracy — each new correspondence needs cumulative review and repeated application until decoding is effortless ([Automaticity](../elements/automaticity.md)).
+Systematic phonics instruction produces reliably stronger word-reading outcomes than non-systematic or incidental approaches, with the largest gains for struggling readers [Ehri et al.'s meta-analysis found systematic phonics outperformed unsystematic and non-phonics comparison instruction.](https://doi.org/10.1598/RRQ.36.3.2) [+S]. The goal is automatic word recognition: once decoding is automatic, attentional resources are freed for comprehension [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Instruction must therefore build toward fluency, not just accuracy — each new correspondence needs cumulative review and repeated application until decoding is effortless ([Automaticity](../elements/automaticity.md)).
 
 ### Context
 #### Requirements
@@ -209,7 +209,7 @@ Systematic phonics instruction teaches grapheme–phoneme correspondences (GPCs)
 
 ## Design Implications
 
-Systematic phonics is one of the most strongly supported findings in reading research: meta-analyses show reliable positive effects on word reading, decoding, and text comprehension, with the largest gains for children in kindergarten and first grade [Ehri et al. meta-analysis of phonics instruction.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. The mechanism is automaticity: when decoding becomes effortless, working memory resources are freed for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Sequence matters — instruction should follow a scope and sequence that introduces high-utility correspondences first and cumulatively reviews prior learning, consistent with [Cognitive Load Management](../principles/cognitive-load-management.md) and [Chunking](../principles/chunking.md) of letter patterns into reusable units.
+Systematic phonics is one of the most strongly supported findings in reading research: meta-analyses show reliable positive effects on word reading, decoding, and text comprehension, with the largest gains for children in kindergarten and first grade [Ehri et al. meta-analysis of phonics instruction.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. The mechanism is automaticity: when decoding becomes effortless, working memory resources are freed for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Sequence matters — instruction should follow a scope and sequence that introduces high-utility correspondences first and cumulatively reviews prior learning, consistent with [Cognitive Load Management](../principles/cognitive-load-management.md) and [Chunking](../principles/chunking.md) of letter patterns into reusable units.
 
 ### Context
 #### Requirements
@@ -237,7 +237,7 @@ Systematic phonics is one of the most strongly supported findings in reading res
 
 ### Target Learning Goals
 - Alphabetic principle: mapping letters to sounds
-- Decoding accuracy and automaticity of word recognition [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Decoding accuracy and automaticity of word recognition [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Word reading fluency as a foundation for comprehension
 
 ### Instructions

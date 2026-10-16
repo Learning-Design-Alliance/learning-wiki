@@ -38,7 +38,7 @@ Drawing on third space theory, the paper argues that AI agents implemented "with
 - responsive assessment practice
 
 ### Claims
-- [Ai Agents Support Joyful Assessment](../claims/ai-agents-support-joyful-assessment.md) [~M]
+- [Ai Agents Support Joyful Assessment](../claims/ai-agents-support-joyful-assessment.md) [~W]
 
 ## Related Designs
 - Joyful Assessment Framework

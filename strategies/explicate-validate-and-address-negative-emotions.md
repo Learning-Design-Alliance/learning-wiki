@@ -42,7 +42,7 @@ Emotions are not noise around cognition; they are part of it. Control-value theo
 
 ### Target Learners
 - Students in courses with reputations for difficulty or irrelevance (gatekeeper math and science courses, required general-education offerings) [~S]
-- Learners with low self-efficacy for the subject, for whom anxiety and avoidance compound [Self-efficacy predicts persistence in the face of difficulty.](../claims/self-efficacy-predicts-academic-persistence.md) [+S]
+- Learners with low self-efficacy for the subject, for whom anxiety and avoidance compound [Self-efficacy predicts persistence in the face of difficulty.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
 - Adult learners returning after negative prior experiences with the subject
 - Utility-value reframing shows the largest benefits for students with low success expectations [+M]
 

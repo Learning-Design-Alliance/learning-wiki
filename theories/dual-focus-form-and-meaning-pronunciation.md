@@ -39,7 +39,7 @@ The dual-focus approach holds that effective pronunciation teaching must combine
 
 ### Claims
 - [Explicit Communicative Pronunciation Instruction Works](../claims/explicit-communicative-pronunciation-instruction-works.md) [+M]
-- [Form And Meaning Focus Beats Form Only](../claims/form-and-meaning-focus-beats-form-only.md) [+M]
+- [Form And Meaning Focus Beats Form Only](../claims/form-and-meaning-focus-beats-form-only.md) [+W]
 
 ## Related Theories
 

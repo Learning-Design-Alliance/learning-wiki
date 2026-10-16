@@ -37,7 +37,7 @@ The system allocates a bounded question budget per slide based on detected modal
 - balanced question coverage aligned with instructional importance across heterogeneous slide types
 
 ### Claims
-- [Reconciliation Zero Budgets Structural Slides](../claims/reconciliation-zero-budgets-structural-slides.md) [+M]
+- [Reconciliation Zero Budgets Structural Slides](../claims/reconciliation-zero-budgets-structural-slides.md) [+W]
 
 ## Related Designs
 - 

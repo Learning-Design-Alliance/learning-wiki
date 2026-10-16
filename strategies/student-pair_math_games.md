@@ -44,7 +44,7 @@ Pair games convert drill into a fast-paced social activity, increasing time-on-t
 - Rotate partners across rounds to vary peer interaction and equalize pairing strength
 
 ### Target Learners
-- Elementary students building fluency with basic number combinations; low-income and lower-achieving students benefit especially from structured number games [Number board game play produced broad, stable gains in low-income children's numerical knowledge.](../claims/number-board-games-improve-numerical-knowledge.md) [+S]
+- Elementary students building fluency with basic number combinations; low-income and lower-achieving students benefit especially from structured number games [Number board game play produced broad, stable gains in low-income children's numerical knowledge.](../claims/number-board-games-improve-numerical-knowledge.md) [+M]
 - Learners who need high-repetition practice but respond poorly to worksheets
 - Less suitable as an introduction to a *new* concept — games consolidate and strengthen existing skills rather than build initial understanding
 

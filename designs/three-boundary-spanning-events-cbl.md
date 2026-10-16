@@ -39,8 +39,8 @@ The CBL course is structured as three structured occasions traversing institutio
 - Aligning technical projects with sustainable development goals
 
 ### Claims
-- [Student Coauthorship Enacts Epistemic Equity](../claims/student-coauthorship-enacts-epistemic-equity.md) [+M]
-- [Community Presentation Created Accountability Pressure](../claims/community-presentation-created-accountability-pressure.md) [+M]
+- [Student Coauthorship Enacts Epistemic Equity](../claims/student-coauthorship-enacts-epistemic-equity.md) [+W]
+- [Community Presentation Created Accountability Pressure](../claims/community-presentation-created-accountability-pressure.md) [+W]
 
 ## Related Designs
 - 

@@ -63,7 +63,7 @@ The article introduces a framework combining semi-supervised learning with deep 
 
 ### Claims
 
-- [Semi Supervised Deep Learning Unbiased Ability Estimates](../claims/semi-supervised-deep-learning-unbiased-ability-estimates.md) [+M]
+- [Semi Supervised Deep Learning Unbiased Ability Estimates](../claims/semi-supervised-deep-learning-unbiased-ability-estimates.md) [+W]
 
 ## Related Theories
 - 

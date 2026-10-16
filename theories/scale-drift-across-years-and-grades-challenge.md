@@ -37,7 +37,7 @@ The article frames scale drift as the measurement-stability problem that arises 
 
 ### Claims
 
-- [Long Term Study Rasch Scale Stability Almost 40 Years](../claims/long-term-study-rasch-scale-stability-almost-40-years.md) [+M]
+- [Long Term Study Rasch Scale Stability Almost 40 Years](../claims/long-term-study-rasch-scale-stability-almost-40-years.md) [+W]
 - [Both item-level and test-level analyses indicate the MAP Growth measurement scales are remaining stable](../claims/map-growth-scales-remaining-stable.md) [+W]
 - [Meaningful longitudinal linking depends on the construct not changing across measurement occasions](../claims/construct-stability-assumption-longitudinal-linking.md) [~W]
 - [Average drift in MAP Growth item difficulty estimates is negligible across subjects, with original-new correlations above 0.99](../claims/map-growth-average-difficulty-drift-negligible.md) [+W]

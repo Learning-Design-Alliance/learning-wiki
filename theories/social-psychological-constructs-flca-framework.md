@@ -37,8 +37,8 @@ The article grounds its study of Foreign Language Classroom Anxiety in four soci
 
 ### Claims
 
-- [Flca Influences Outcomes Four Factors](../claims/flca-influences-outcomes-four-factors.md) [+M]
-- [Speaking Practice Reduced Flca Increased Self Efficacy](../claims/speaking-practice-reduced-flca-increased-self-efficacy.md) [+M]
+- [Flca Influences Outcomes Four Factors](../claims/flca-influences-outcomes-four-factors.md) [+W]
+- [Speaking Practice Reduced Flca Increased Self Efficacy](../claims/speaking-practice-reduced-flca-increased-self-efficacy.md) [+W]
 - [Anxiety in foreign language classroom learning experiences is linked with oral performance among Japanese EFL learners](../claims/flca-linked-with-oral-performance-japanese-efl.md) [+W]
 
 ## Related Theories

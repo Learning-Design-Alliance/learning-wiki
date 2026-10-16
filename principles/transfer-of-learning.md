@@ -212,7 +212,7 @@ Transfer of learning improves when learners encounter underlying structure acros
 
 ### Claims
 
-- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+S] — Learners transfer more effectively when they practice integrated tasks that preserve the structure of later performance.
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+M] — Learners transfer more effectively when they practice integrated tasks that preserve the structure of later performance.
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md)

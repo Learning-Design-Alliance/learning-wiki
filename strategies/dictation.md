@@ -19,7 +19,7 @@ Dictation asks learners to write down text spoken aloud by an instructor or audi
 
 ## Design Implications
 
-Dictation is a form of retrieval practice for orthographic knowledge: producing a spelling from memory strengthens phoneme-grapheme connections far more than re-reading or copying [Phonics instruction outperforms whole-word approaches for generalization to new words.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. Explicit spelling and encoding instruction of this kind measurably improves spelling performance, and spelling accuracy in turn supports reading development by consolidating word representations [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. The immediate feedback loop — writing, then checking against the source — is what makes the activity instructional rather than merely evaluative.
+Dictation is a form of retrieval practice for orthographic knowledge: producing a spelling from memory strengthens phoneme-grapheme connections far more than re-reading or copying [Phonics instruction outperforms whole-word approaches for generalization to new words.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. Explicit spelling and encoding instruction of this kind measurably improves spelling performance, and spelling accuracy in turn supports reading development by consolidating word representations [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. The immediate feedback loop — writing, then checking against the source — is what makes the activity instructional rather than merely evaluative.
 
 ### Context
 #### Requirements
@@ -50,7 +50,7 @@ Dictation is a form of retrieval practice for orthographic knowledge: producing 
 ### Target Learning Goals
 - Encoding and spelling accuracy: retrieving spellings from memory rather than recognizing them
 - Phonemic awareness and phoneme-grapheme mapping
-- Automatic word recognition, which supports comprehension downstream [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Automatic word recognition, which supports comprehension downstream [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Grammar and punctuation conventions (sentence-level variants)
 
 ### Instructions

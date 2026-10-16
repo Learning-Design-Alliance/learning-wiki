@@ -30,7 +30,7 @@ PBL aims to build flexible, usable knowledge by anchoring it in the context of a
 - Assessment aligned with the goals of reasoning, self-direction, and collaboration — not only content coverage
 
 #### Constraints
-- Novices in highly complex domains can be overwhelmed by ill-structured problems without worked structure; unguided variants produce inferior knowledge acquisition [Minimal guidance is less effective for novices than explicit instruction because search imposes extraneous load.](../claims/worked-example-problem-sequences.md) [-S]
+- Novices in highly complex domains can be overwhelmed by ill-structured problems without worked structure; unguided variants produce inferior knowledge acquisition [Minimal guidance is less effective for novices than explicit instruction because search imposes extraneous load.](../claims/worked-example-problem-sequences.md) [-M]
 - PBL groups without trained facilitators drift toward content-free discussion; facilitator expertise in questioning and steering is a major moderator of outcomes [~M]
 - Requires substantial curricular resources: problem development, facilitator time per small group, and library/information access for self-study
 - Assessment misalignment (e.g., high-stakes content-coverage exams) undermines the self-directed learning the method is meant to build

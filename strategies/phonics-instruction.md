@@ -20,7 +20,7 @@ Phonics instruction teaches the relationships between written letters (graphemes
 
 ## Design Implications
 
-Phonics works because it builds automatic word recognition, which frees limited working-memory resources for comprehension rather than laborious decoding [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Meta-analytic evidence shows systematic phonics outperforms non-phonics and incidental approaches, with the largest effects for kindergarten and first-grade learners [Ehri et al. meta-analysis of systematic phonics.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Effectiveness depends on explicitness and sequencing: teaching correspondences in isolation without blending practice, or teaching them out of utility order, sharply reduces gains [-M].
+Phonics works because it builds automatic word recognition, which frees limited working-memory resources for comprehension rather than laborious decoding [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Meta-analytic evidence shows systematic phonics outperforms non-phonics and incidental approaches, with the largest effects for kindergarten and first-grade learners [Ehri et al. meta-analysis of systematic phonics.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Effectiveness depends on explicitness and sequencing: teaching correspondences in isolation without blending practice, or teaching them out of utility order, sharply reduces gains [-M].
 
 ### Context
 #### Requirements
@@ -114,7 +114,7 @@ Phonics instruction teaches learners the correspondences between letters (graphe
 
 ## Design Implications
 
-Systematic phonics instruction produces reliably stronger word-reading outcomes than non-systematic or incidental approaches, with the largest effects for children in kindergarten and first grade [Ehri et al.'s meta-analysis of 38 studies.](https://doi.org/10.3102/00346543071003393) [+S]. Its ultimate purpose is automatic word recognition: once decoding becomes effortless, limited working-memory resources are freed for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Instruction should therefore move deliberately from accurate decoding to [Automaticity](../elements/automaticity.md) through high-volume, successful reading of decodable text.
+Systematic phonics instruction produces reliably stronger word-reading outcomes than non-systematic or incidental approaches, with the largest effects for children in kindergarten and first grade [Ehri et al.'s meta-analysis of 38 studies.](https://doi.org/10.3102/00346543071003393) [+S]. Its ultimate purpose is automatic word recognition: once decoding becomes effortless, limited working-memory resources are freed for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Instruction should therefore move deliberately from accurate decoding to [Automaticity](../elements/automaticity.md) through high-volume, successful reading of decodable text.
 
 ### Context
 #### Requirements
@@ -143,7 +143,7 @@ Systematic phonics instruction produces reliably stronger word-reading outcomes 
 ### Target Learning Goals
 - Accurate, automatic word recognition and decoding of unfamiliar words
 - Spelling and encoding through the same grapheme–phoneme knowledge
-- Building the orthographic representations that underpin fluent reading [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Building the orthographic representations that underpin fluent reading [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 
 ### Instructions
 1. Assess learners' existing letter–sound knowledge and phonemic awareness; begin instruction at the edge of what they know.

@@ -37,7 +37,7 @@ The article adopts Miranda Fricker's account of epistemic injustice, which focus
 - recognizing and redressing epistemic injustice in knowledge production and data practices
 
 ### Claims
-- [Data Construction Embeds Privilege In Data](../claims/data-construction-embeds-privilege-in-data.md) [+M]
+- [Data Construction Embeds Privilege In Data](../claims/data-construction-embeds-privilege-in-data.md) [+W]
 
 ## Related Theories
 - 

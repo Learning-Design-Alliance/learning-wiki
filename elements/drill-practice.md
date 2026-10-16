@@ -48,7 +48,7 @@ Drill and practice is the element in which learners repeatedly perform a focused
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Mechanical Drills Limited Use Meaning Form](../claims/mechanical-drills-limited-use-meaning-form.md) [+M]
+- [Mechanical Drills Limited Use Meaning Form](../claims/mechanical-drills-limited-use-meaning-form.md) [+W]
 - [Practice defined as meaningful language use plus effortful practice of difficult features is beneficial and even essential for second language acquisition](../claims/meaningful-effortful-practice-beneficial-essential-l2.md) [+W]
 - [Low-frequency or low-salience L2 elements are hard or impossible to learn through mere exposure and require extensive practice to proceduralize form-meaning mappings](../claims/low-salience-elements-need-extensive-practice.md) [+W]
 
@@ -94,7 +94,7 @@ The article presents systematic practice as "a house with many rooms": a spectru
 
 ### Claims
 
-- [Mechanical Drills Limited Use Meaning Form](../claims/mechanical-drills-limited-use-meaning-form.md) [+M]
+- [Mechanical Drills Limited Use Meaning Form](../claims/mechanical-drills-limited-use-meaning-form.md) [+W]
 - [Practice defined as meaningful language use plus effortful practice of difficult features is beneficial and even essential for second language acquisition](../claims/meaningful-effortful-practice-beneficial-essential-l2.md) [+W]
 - [Low-frequency or low-salience L2 elements are hard or impossible to learn through mere exposure and require extensive practice to proceduralize form-meaning mappings](../claims/low-salience-elements-need-extensive-practice.md) [+W]
 

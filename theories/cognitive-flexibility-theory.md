@@ -69,7 +69,7 @@ The pattern often relies on case collections, cross-linking, comparison, and rev
 - [Students reported similar perceived information quantity across conditions, indicating diverse explanations did not produce perceived information overload](../claims/diverse-explanations-no-perceived-information-overload.md) [+W]
 
 #### Supporting
-- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~S]
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~M]
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 #### Contradicting

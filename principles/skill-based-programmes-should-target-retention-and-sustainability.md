@@ -39,7 +39,7 @@ The protocol argues that skill-based training programmes delivered alongside the
 
 ### Claims
 
-- [Short Term Training Challenges Long Term Skill Retention](../claims/short-term-training-challenges-long-term-skill-retention.md) [+M]
+- [Short Term Training Challenges Long Term Skill Retention](../claims/short-term-training-challenges-long-term-skill-retention.md) [+W]
 - [Professional development needs roughly 50 hours in a specific area, and long-term content-specific support outperforms one-shot sessions](../claims/fifty-hours-content-specific-pd.md) [~W]
 - [AI training for pre-service primary teachers is predominantly short-term interventions embedded within existing courses rather than standalone AI courses](../claims/ai-training-short-term-embedded-existing-courses.md) [-W]
 

@@ -190,7 +190,7 @@ Problem-Based Learning uses an authentic or ill-structured problem to drive inqu
 - [Constructivism](../principles/cognitive-activation.md)
 
 ### Claims
-- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S]
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+M]
 
 ## Design
 
@@ -266,7 +266,7 @@ The pattern is strongest when the problem is authentic enough to matter and the 
 
 ### Claims
 #### Supporting
-- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S]
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+M]
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M]
 - [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](../claims/spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) [+W] — a single case study found that a teacher's in-the-moment departure from the written PBL sequence, to respond to an unplanned real-world event tied to the driving question, produced deeper student-initiated inquiry than the pre-designed ("contrived") authentic scenario

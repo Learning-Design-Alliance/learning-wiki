@@ -12,7 +12,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 33 claims (20 show a difference, 9 mixed, 4 no difference) · 35 studies (13 causal, 9 review, 6 quant-synthesis, 4 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 5 of 35 report an effect size · 29 claims rest on one study
+> **Evidence** · 35 claims (20 show a difference, 9 mixed, 4 no difference, 2 unmarked) · 36 studies (13 causal, 10 review, 6 quant-synthesis, 4 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 6 of 36 report an effect size · 31 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -40,7 +40,7 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 
 ## Claims
 - [Chunking reduces working memory load](../claims/chunking-reduces-working-memory-load.md) [+S] — grouping into fewer, larger units is the central mechanism for effective capacity
-- [Split attention effect degrades learning](../claims/split-attention-effect-degrades-learning.md) [-S] — forcing integration of two separated sources spends capacity on the integration
+- [Split attention effect degrades learning](../claims/split-attention-effect-degrades-learning.md) [-M] — forcing integration of two separated sources spends capacity on the integration
 - [Redundancy effect impairs learning](../claims/redundancy-principle.md) [-M] — duplicated information must be processed and reconciled before it can be discarded
 - [Presenting words as narration rather than on-screen text alongside graphics](../claims/modality-effect-narration-over-text.md) [+M] — splits input across channels instead of contending for the visual one; instruction changes it
 - [Segmentation benefits shrink with expertise](../claims/segmentation-benefits-shrink-with-expertise.md) [~M] — the boundary condition — the same segmentation stops paying as schemas form

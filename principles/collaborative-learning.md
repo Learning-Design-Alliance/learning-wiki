@@ -552,7 +552,7 @@ This principle, drawn from Mead's lectures as reconstructed in the article, hold
 - construction of meanings through the learner's own response in social interaction
 
 ### Claims
-- [Meanings Grow Out Of Social Intercourse](../claims/meanings-grow-out-of-social-intercourse.md) [+M]
+- [Meanings Grow Out Of Social Intercourse](../claims/meanings-grow-out-of-social-intercourse.md) [+W]
 
 ## Related Principles
 - 

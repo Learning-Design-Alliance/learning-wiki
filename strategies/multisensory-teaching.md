@@ -19,7 +19,7 @@ Multisensory teaching engages multiple sensory channels — typically visual, au
 
 ## Design Implications
 
-Multisensory instruction is best understood through dual coding: pairing verbal and visual representations creates two retrieval routes and richer encoding than either channel alone [Pairing verbal and visual input improves recall and retention over single-channel input.](../claims/media-combinations-affect-recall-and-retention.md) [+S]. However, the benefit comes from *complementary* representations of the same content, not from adding arbitrary sensory variety — redundant or decorative input can split attention and add extraneous load [~M]. The strongest evidence base is for structured, sequential literacy programs (e.g., Orton-Gillingham–derived approaches) with struggling readers [+W]; broader claims that "teaching to each learner's preferred modality" improves outcomes are not supported [X].
+Multisensory instruction is best understood through dual coding: pairing verbal and visual representations creates two retrieval routes and richer encoding than either channel alone [Pairing verbal and visual input improves recall and retention over single-channel input.](../claims/media-combinations-affect-recall-and-retention.md) [+M]. However, the benefit comes from *complementary* representations of the same content, not from adding arbitrary sensory variety — redundant or decorative input can split attention and add extraneous load [~M]. The strongest evidence base is for structured, sequential literacy programs (e.g., Orton-Gillingham–derived approaches) with struggling readers [+W]; broader claims that "teaching to each learner's preferred modality" improves outcomes are not supported [X].
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Multisensory instruction is best understood through dual coding: pairing verbal 
 
 ### Target Learners
 - Beginning readers and students with dyslexia or word-recognition difficulties, where VAKT letter-sound work is a core component of structured literacy interventions [+W]
-- Novices learning symbolic systems (letters, numerals, notation) who benefit from dual verbal–visual encoding [Pairing verbal and visual input improves recall and retention over single-channel input.](../claims/media-combinations-affect-recall-and-retention.md) [+S]
+- Novices learning symbolic systems (letters, numerals, notation) who benefit from dual verbal–visual encoding [Pairing verbal and visual input improves recall and retention over single-channel input.](../claims/media-combinations-affect-recall-and-retention.md) [+M]
 - Young learners for whom concrete manipulation supports abstraction before symbolic fluency develops
 - Less beneficial for advanced learners, who can often skip the concrete/multisensory stage [~M]
 

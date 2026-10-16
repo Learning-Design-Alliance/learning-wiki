@@ -40,7 +40,7 @@ The article frames a function as an encoding {F, x} relating a control parameter
 - relate thermodynamic potentials
 
 ### Claims
-- [Students Discomfort Legendre Transform General Tool](../claims/students-discomfort-legendre-transform-general-tool.md) [+M]
+- [Students Discomfort Legendre Transform General Tool](../claims/students-discomfort-legendre-transform-general-tool.md) [+W]
 
 ## Related Theories
 - 

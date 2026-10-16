@@ -19,7 +19,7 @@ Readers Theatre is a format in which learners convert a text (narrative, exposit
 
 ## Design Implications
 
-Readers Theatre operationalizes repeated oral reading with a purposeful audience, which is one of the most consistently supported approaches to building fluency [Repeating oral reading with feedback improves fluency and comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. The performance goal gives rereading an authentic purpose, and the absence of memorization lowers anxiety so struggling readers participate on equal footing. Script adaptation itself is a comprehension task: deciding what a character means requires inferring from the source text.
+Readers Theatre operationalizes repeated oral reading with a purposeful audience, which is one of the most consistently supported approaches to building fluency [Repeating oral reading with feedback improves fluency and comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. The performance goal gives rereading an authentic purpose, and the absence of memorization lowers anxiety so struggling readers participate on equal footing. Script adaptation itself is a comprehension task: deciding what a character means requires inferring from the source text.
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Readers Theatre operationalizes repeated oral reading with a purposeful audience
 - **Cross-curricular adaptation** — historical figures, science processes, or mathematical dialogues performed as scripts
 
 ### Target Learners
-- Developing readers in grades 2–8, especially those who decode accurately but read in a flat, word-by-word manner [Repeating oral reading with feedback improves fluency and comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Developing readers in grades 2–8, especially those who decode accurately but read in a flat, word-by-word manner [Repeating oral reading with feedback improves fluency and comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - English learners, who benefit from hearing and producing natural phrasing and intonation [+M]
 - Reluctant or anxious readers — holding a script removes the memorization burden and group performance dilutes individual exposure [+W]
 

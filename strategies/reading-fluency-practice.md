@@ -15,11 +15,11 @@ generated:
 > **Evidence** · 1 claim (1 for) · 2 studies (1 review, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size
 
 ## Description
-Reading fluency practice gives learners repeated, supported opportunities to read connected text aloud with feedback, targeting the three components of fluency: accuracy, automaticity (rate), and prosody. Core formats include repeated reading of the same passage until a criterion is met, paired or choral reading, and listening-while-reading with recorded models. The goal is not speed for its own sake but automatic word recognition, which releases working memory for meaning-making [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S].
+Reading fluency practice gives learners repeated, supported opportunities to read connected text aloud with feedback, targeting the three components of fluency: accuracy, automaticity (rate), and prosody. Core formats include repeated reading of the same passage until a criterion is met, paired or choral reading, and listening-while-reading with recorded models. The goal is not speed for its own sake but automatic word recognition, which releases working memory for meaning-making [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M].
 
 ## Design Implications
 
-Fluency practice works because oral reading with feedback provides high-density trials of accurate word recognition, driving the orthographic mapping that underlies automaticity [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Repeated reading of the *same* passage builds performance on that passage efficiently, but transfer to new text requires practice across multiple passages at an appropriate difficulty level [~M]. Text selection and feedback quality matter more than repetition alone.
+Fluency practice works because oral reading with feedback provides high-density trials of accurate word recognition, driving the orthographic mapping that underlies automaticity [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Repeated reading of the *same* passage builds performance on that passage efficiently, but transfer to new text requires practice across multiple passages at an appropriate difficulty level [~M]. Text selection and feedback quality matter more than repetition alone.
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Fluency practice works because oral reading with feedback provides high-density 
 - **Reader's Theater** — repeated rehearsal of a script for performance adds purpose and prosody focus [~M]
 
 ### Target Learners
-- Mid-elementary readers who decode accurately but slowly [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Mid-elementary readers who decode accurately but slowly [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Older struggling readers and adolescents with dyslexia, using age-respectful texts and recorded models [~M]
 - English learners, with attention to prosody patterns of English [~W]
 - Not appropriate for beginners still mastering letter–sound correspondences [-S]

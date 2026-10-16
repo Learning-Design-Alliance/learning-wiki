@@ -19,7 +19,7 @@ Partner Reading with Retell is the core fluency activity of Peer-Assisted Learni
 
 ## Design Implications
 
-The strategy combines two well-supported mechanisms: repeated and modeled oral reading builds automatic word recognition, which frees working-memory resources for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S], and requiring a retell forces generative processing of the text rather than passive decoding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. Peer feedback is most effective when it targets the task and the process (specific errors, missed main ideas) rather than the person [Feedback most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
+The strategy combines two well-supported mechanisms: repeated and modeled oral reading builds automatic word recognition, which frees working-memory resources for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M], and requiring a retell forces generative processing of the text rather than passive decoding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. Peer feedback is most effective when it targets the task and the process (specific errors, missed main ideas) rather than the person [Feedback most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
 
 ### Context
 #### Requirements

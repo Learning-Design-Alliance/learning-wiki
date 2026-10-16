@@ -16,7 +16,7 @@ sources:
 # Five Chicago school turnaround reform models mapped to four federal intervention models
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 7 claims rest on one study
+> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 4 studies (2 associational, 1 causal, 1 design), `q2`–`q3` · 0 of 4 report an effect size · 6 claims rest on one study
 
 ## Description
 The report organizes Chicago's 1997-2010 district-mandated interventions into five models—Reconstitution, School Closure and Restart, the School Turnaround Specialist Program, Academy for Urban School Leadership, and the Office of School Improvement—classified by three levers of change: staff replacement, leadership replacement, and governance replacement, plus changes in attendance rules. It maps these onto the four federal models, noting that "The AUSL model, the OSI model, and the earlier Reconstitution efforts, contain the elements of the federal turnaround model," STSP corresponds to the transformational model, and Closure and Restart is "analogous to the federal restart model."

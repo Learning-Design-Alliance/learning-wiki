@@ -19,7 +19,7 @@ Decoding drills are brief, high-frequency practice routines in which learners ap
 
 ## Design Implications
 
-Decoding drills convert explicit phonics instruction into the distributed, repeated practice needed for automatic word recognition, which frees working-memory resources for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Drills are most effective when they are short (5–10 minutes), frequent, and sequenced from isolated sounds to words to connected text, with immediate error correction [Practice](../elements/practice.md) delivered as corrective feedback rather than simple repetition.
+Decoding drills convert explicit phonics instruction into the distributed, repeated practice needed for automatic word recognition, which frees working-memory resources for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Drills are most effective when they are short (5–10 minutes), frequent, and sequenced from isolated sounds to words to connected text, with immediate error correction [Practice](../elements/practice.md) delivered as corrective feedback rather than simple repetition.
 
 ### Context
 #### Requirements
@@ -42,7 +42,7 @@ Decoding drills convert explicit phonics instruction into the distributed, repea
 - **Computer-assisted drills**: adaptive platforms individualize item difficulty and spacing
 
 ### Target Learners
-- Beginning readers (K–2) and older struggling readers who have not yet automatized grapheme–phoneme mapping [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Beginning readers (K–2) and older struggling readers who have not yet automatized grapheme–phoneme mapping [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Learners with dyslexia or other word-reading difficulties, for whom structured, cumulative, high-repetition practice is a core component of intervention
 - English learners, when drills are paired with oral vocabulary so that decoded words connect to meaning
 

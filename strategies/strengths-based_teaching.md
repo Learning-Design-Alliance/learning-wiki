@@ -19,7 +19,7 @@ Strengths-based teaching identifies what learners already do well — talents, i
 
 ## Design Implications
 
-Strengths-based teaching works primarily through motivational and self-belief channels: success experiences and recognition build self-efficacy, which in turn predicts persistence and achievement [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+S]. It is therefore best understood as a motivational frame layered onto sound instruction — it changes *how* learners are positioned and assessed, not *what* is taught. The academic payoff comes when strengths identification is paired with challenging goals and feedback, not when it substitutes for them [Specific difficult goals lead to higher performance.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M].
+Strengths-based teaching works primarily through motivational and self-belief channels: success experiences and recognition build self-efficacy, which in turn predicts persistence and achievement [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]. It is therefore best understood as a motivational frame layered onto sound instruction — it changes *how* learners are positioned and assessed, not *what* is taught. The academic payoff comes when strengths identification is paired with challenging goals and feedback, not when it substitutes for them [Specific difficult goals lead to higher performance.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M].
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Strengths-based teaching works primarily through motivational and self-belief ch
 - **Peer strengths mapping:** learners identify and publicly name one another's contributions, building a collaborative classroom culture
 
 ### Target Learners
-- Learners with low academic self-efficacy, including those with ADHD or learning disabilities, who have histories of deficit-framed feedback [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+S]
+- Learners with low academic self-efficacy, including those with ADHD or learning disabilities, who have histories of deficit-framed feedback [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
 - Disengaged adolescents at risk of school avoidance — strengths-based school programs report higher engagement and attendance [~M]
 - All learners benefit from accurate strengths awareness, but high-achievers need it less and may find it redundant [~W]
 

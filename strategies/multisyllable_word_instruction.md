@@ -19,7 +19,7 @@ Multisyllable word instruction teaches learners how to break words into syllable
 
 ## Design Implications
 
-Multisyllable word instruction reduces the working-memory burden of decoding long words by chunking them into pronounceable units [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]. It works best as explicit, teacher-led instruction with immediate application, consistent with the broader evidence that systematic phonics outperforms incidental or unsystematic approaches [+S]. Because fluent decoding of multisyllable words is a bottleneck for reading comprehension in grades 3 and up, this strategy directly supports the transition from [learning to read to reading to learn](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S].
+Multisyllable word instruction reduces the working-memory burden of decoding long words by chunking them into pronounceable units [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]. It works best as explicit, teacher-led instruction with immediate application, consistent with the broader evidence that systematic phonics outperforms incidental or unsystematic approaches [+S]. Because fluent decoding of multisyllable words is a bottleneck for reading comprehension in grades 3 and up, this strategy directly supports the transition from [learning to read to reading to learn](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M].
 
 ### Context
 #### Requirements
@@ -47,7 +47,7 @@ Multisyllable word instruction reduces the working-memory burden of decoding lon
 - Less appropriate for beginners still acquiring basic letter-sound correspondences [-M]
 
 ### Target Learning Goals
-- Decoding accuracy and automaticity on multisyllable words [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Decoding accuracy and automaticity on multisyllable words [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Spelling accuracy through knowledge of syllable types, doubling rules, and schwa patterns
 - Morphological awareness: recognizing and applying prefixes and suffixes to unlock meaning and spelling
 

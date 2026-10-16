@@ -19,7 +19,7 @@ Creating collaborative spaces means structuring the classroom — physically, so
 
 ## Design Implications
 
-Collaboration improves achievement when it is structured — with positive interdependence, individual accountability, and explicit interpersonal skills — rather than merely permitted [Cooperative learning with group rewards and individual accountability improves outcomes.](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+S]. Small-group learning produces reliable gains over lecture in undergraduate STEM settings [Small-group learning improves achievement and attitudes in undergraduate STEM.](../claims/small-group-learning-improves-stem-achievement.md) [+S], and active formats broadly outperform traditional lecture on exam performance and failure rates [Active learning improves exam performance.](../claims/active-learning-improves-exam-performance.md) [+S]. The environment must make collaboration the path of least resistance: seating, group size, and task design should make talking to peers easier than working alone.
+Collaboration improves achievement when it is structured — with positive interdependence, individual accountability, and explicit interpersonal skills — rather than merely permitted [Cooperative learning with group rewards and individual accountability improves outcomes.](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+S]. Small-group learning produces reliable gains over lecture in undergraduate STEM settings [Small-group learning improves achievement and attitudes in undergraduate STEM.](../claims/small-group-learning-improves-stem-achievement.md) [+M], and active formats broadly outperform traditional lecture on exam performance and failure rates [Active learning improves exam performance.](../claims/active-learning-improves-exam-performance.md) [+S]. The environment must make collaboration the path of least resistance: seating, group size, and task design should make talking to peers easier than working alone.
 
 ### Context
 #### Requirements
@@ -42,7 +42,7 @@ Collaboration improves achievement when it is structured — with positive inter
 - **Online collaborative spaces** — shared documents, breakout rooms, and discussion forums substituting spatial design for procedural design
 
 ### Target Learners
-- Undergraduate and secondary learners across achievement levels, with the largest gains for underrepresented and previously lower-achieving students [Small-group learning improves achievement and attitudes in undergraduate STEM.](../claims/small-group-learning-improves-stem-achievement.md) [+S]
+- Undergraduate and secondary learners across achievement levels, with the largest gains for underrepresented and previously lower-achieving students [Small-group learning improves achievement and attitudes in undergraduate STEM.](../claims/small-group-learning-improves-stem-achievement.md) [+M]
 - Learners who benefit from articulating reasoning aloud, since explaining to peers drives [self-explanation](../elements/self-explanation.md) [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
 - Less effective when groups are heterogeneous in a way that lets stronger students simply perform the task for others without dialogue [~M]
 

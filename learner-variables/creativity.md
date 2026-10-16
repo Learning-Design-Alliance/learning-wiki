@@ -12,6 +12,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
+> **Evidence** · 2 claims (2 unmarked) · 1 study (1 review), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.

@@ -49,7 +49,7 @@ Spelling practice works because producing a word from memory requires learners t
 
 ### Target Learning Goals
 - Orthographic representation: storing word-specific spellings in memory
-- Automatic word recognition, which frees resources for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Automatic word recognition, which frees resources for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Encoding accuracy: correct spelling in independent writing
 - Phoneme-grapheme mapping: applying sound-letter knowledge to new words
 

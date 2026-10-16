@@ -19,7 +19,7 @@ Phonemic awareness drills are brief, teacher-led oral routines in which learners
 
 ## Design Implications
 
-Phonemic awareness is a strong predictor of later reading achievement, and explicit instruction in phonemic manipulation produces reliable gains in reading and spelling, particularly when drills connect sounds to letters [Phonics instruction outperforms whole-word approaches for generalization.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. Drills work because they build automaticity at the sound level, freeing attentional resources for comprehension once decoding begins [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Keeping each drill short and each item small respects working-memory limits [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
+Phonemic awareness is a strong predictor of later reading achievement, and explicit instruction in phonemic manipulation produces reliable gains in reading and spelling, particularly when drills connect sounds to letters [Phonics instruction outperforms whole-word approaches for generalization.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. Drills work because they build automaticity at the sound level, freeing attentional resources for comprehension once decoding begins [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Keeping each drill short and each item small respects working-memory limits [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
 
 ### Context
 #### Requirements
@@ -47,7 +47,7 @@ Phonemic awareness is a strong predictor of later reading achievement, and expli
 
 ### Target Learning Goals
 - Foundational decoding: establishing the sound structure that the alphabetic principle maps onto
-- Automaticity: rapid, effortless phoneme access to support later word recognition [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Automaticity: rapid, effortless phoneme access to support later word recognition [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Generalization to spelling through sound-to-letter correspondence
 
 ### Instructions

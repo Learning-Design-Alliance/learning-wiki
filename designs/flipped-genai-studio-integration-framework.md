@@ -40,7 +40,7 @@ The article proposes a pedagogical framework that connects flipped preparation, 
 
 ### Claims
 - [Rubric Dimension Gains Creativity Design Problem Solving](../claims/rubric-dimension-gains-creativity-design-problem-solving.md) [+M]
-- [Interviews Flipped Readiness Genai Supplementary](../claims/interviews-flipped-readiness-genai-supplementary.md) [+M]
+- [Interviews Flipped Readiness Genai Supplementary](../claims/interviews-flipped-readiness-genai-supplementary.md) [+W]
 
 ## Related Designs
 - 

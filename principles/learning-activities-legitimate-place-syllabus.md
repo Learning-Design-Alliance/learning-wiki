@@ -17,7 +17,7 @@ sources:
 # Learning activities have a legitimate place in the language syllabus, but remain secondary to acquisition activities
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 theoretical), `q2` · 1 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 theoretical), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 If Labov's monitor model better represents the facts than Krashen's, the article argues, then learning activities such as error correction, drills, and grammar explanation have "a legitimate place in our syllabi." Yet they remain secondary: the author states learning activities are "not essential and are still very much secondary to learning-acquisition activities," and endorses Paulston and Bruder's rule of thumb that learning activities should be both present and brief.

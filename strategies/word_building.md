@@ -19,7 +19,7 @@ Word building (also called "making words" or letter-tile construction) asks lear
 
 ## Design Implications
 
-Word building converts the abstract mapping between sounds and spellings into a hands-on, manipulable task, which supports the phonemic awareness and letter-sound knowledge that underpin decoding [Systematic phonics instruction improves word reading and comprehension outcomes.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Because each word is built from discrete, visible units, the strategy externalizes the segmentation process and reduces the working-memory demands of holding sounds and letters in mind simultaneously [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Sequencing matters: building word families that differ by a single letter directs attention to the discriminating feature, which is where the learning occurs.
+Word building converts the abstract mapping between sounds and spellings into a hands-on, manipulable task, which supports the phonemic awareness and letter-sound knowledge that underpin decoding [Systematic phonics instruction improves word reading and comprehension outcomes.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Because each word is built from discrete, visible units, the strategy externalizes the segmentation process and reduces the working-memory demands of holding sounds and letters in mind simultaneously [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Sequencing matters: building word families that differ by a single letter directs attention to the discriminating feature, which is where the learning occurs.
 
 ### Context
 #### Requirements
@@ -48,7 +48,7 @@ Word building converts the abstract mapping between sounds and spellings into a 
 ### Target Learning Goals
 - Phonemic awareness: segmenting and blending sounds in words
 - Letter-sound correspondence and spelling patterns
-- Automatic word recognition, which frees attentional resources for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Automatic word recognition, which frees attentional resources for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 
 ### Instructions
 1. Select a letter set and a word ladder that isolates one target pattern.

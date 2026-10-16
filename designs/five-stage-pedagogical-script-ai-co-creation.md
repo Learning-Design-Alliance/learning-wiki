@@ -39,7 +39,7 @@ A structured session protocol tutors follow to move clients from an "Oracle" min
 - Prompting as specification, requirement decomposition, output verification, and ethical reflection on AI use
 
 ### Claims
-- [Oracle To Process Partner Shift](../claims/oracle-to-process-partner-shift.md) [+M]
+- [Oracle To Process Partner Shift](../claims/oracle-to-process-partner-shift.md) [+W]
 
 ## Related Designs
 - 

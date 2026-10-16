@@ -30,7 +30,7 @@ Varied repetition works because it exploits dual coding and elaboration: present
 #### Constraints
 - Verbatim repetition of an already-understood point wastes time and can reduce attention [-M] — learners disengage from what they perceive as redundant
 - Repeating too many points dilutes the effect; repetition of everything is repetition of nothing
-- Adding a second modality does not help if it duplicates rather than complements — redundant on-screen text narrated aloud can impair learning compared with narration plus a relevant graphic [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [~S]
+- Adding a second modality does not help if it duplicates rather than complements — redundant on-screen text narrated aloud can impair learning compared with narration plus a relevant graphic [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [~M]
 - Repetition within a single massed block produces short-lived gains; without spacing, retention decays quickly [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [-S]
 
 #### Implementation Variability

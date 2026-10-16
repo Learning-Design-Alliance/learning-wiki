@@ -239,7 +239,7 @@ Rhetorical skill development matters when learning requires more than having ide
 - [Critical Pedagogy As Rhetorical Education](../theories/critical-pedagogy-as-rhetorical-education.md) [+M]
 - [Some students expanded and generalized class tools and rhetorical concepts into their own activities beyond the course](../claims/expansion-generalization-beyond-classroom.md) [+W]
 - [Congruence Varies With Situation Importance And Relationship](../claims/congruence-varies-with-situation-importance-and-relationship.md) [+M]
-- [Style Teaching Reclaimed For Critical Pedagogy](../claims/style-teaching-reclaimed-for-critical-pedagogy.md) [+M]
+- [Style Teaching Reclaimed For Critical Pedagogy](../claims/style-teaching-reclaimed-for-critical-pedagogy.md) [+W]
 - [Style Analysis President Letter Critical Reading](../claims/style-analysis-president-letter-critical-reading.md) [+W]
 
 ## Related Principles
@@ -376,7 +376,7 @@ The article argues style should be taught as a viable element of writing instruc
 - writing discourse that succeeds in academic and professional contexts
 
 ### Claims
-- [Style Teaching Reclaimed For Critical Pedagogy](../claims/style-teaching-reclaimed-for-critical-pedagogy.md) [+M]
+- [Style Teaching Reclaimed For Critical Pedagogy](../claims/style-teaching-reclaimed-for-critical-pedagogy.md) [+W]
 - [Style Analysis President Letter Critical Reading](../claims/style-analysis-president-letter-critical-reading.md) [+W]
 
 ## Related Principles

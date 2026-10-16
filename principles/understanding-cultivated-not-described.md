@@ -275,7 +275,7 @@ The paper recommends CRITO as an affective strategy: because its demands appear 
 - critical attitude development
 
 ### Claims
-- [Critical Temper Weakest On Basic Prejudices](../claims/critical-temper-weakest-on-basic-prejudices.md) [+M]
+- [Critical Temper Weakest On Basic Prejudices](../claims/critical-temper-weakest-on-basic-prejudices.md) [+W]
 - [Objections Stage Most Difficult Crito](../claims/objections-stage-most-difficult-crito.md) [+W]
 
 ## Related Principles

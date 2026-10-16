@@ -36,7 +36,7 @@ The essay's central framework: each student is "judged solely in relation to the
 - mastery of pre-established course objectives
 
 ### Claims
-- [Grade Cutoffs Arbitrary Adjacent Scores](../claims/grade-cutoffs-arbitrary-adjacent-scores.md) [+M]
+- [Grade Cutoffs Arbitrary Adjacent Scores](../claims/grade-cutoffs-arbitrary-adjacent-scores.md) [+W]
 
 ## Related Theories
 

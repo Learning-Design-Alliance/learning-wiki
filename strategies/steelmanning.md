@@ -19,7 +19,7 @@ Steelmanning asks learners to articulate the most compelling, charitable version
 
 ## Design Implications
 
-Steelmanning leverages the finding that argumentation improves reasoning and conceptual understanding when learners must genuinely engage with counterpositions rather than dismiss them [Argumentation improves reasoning and conceptual understanding.](../claims/argumentation-improves-reasoning.md) [+M]. It also exploits the "consider the opposite" debiasing effect: prompting learners to generate reasons supporting an alternative hypothesis reduces overconfidence and one-sided reasoning [Considering the opposite reduces biased reasoning and overconfidence.](../claims/considering-the-opposite-reduces-bias.md) [+S]. Because it requires holding two competing frameworks in mind, it works best when the opposing view is presented as a coherent case rather than a list of isolated claims.
+Steelmanning leverages the finding that argumentation improves reasoning and conceptual understanding when learners must genuinely engage with counterpositions rather than dismiss them [Argumentation improves reasoning and conceptual understanding.](../claims/argumentation-improves-reasoning.md) [+M]. It also exploits the "consider the opposite" debiasing effect: prompting learners to generate reasons supporting an alternative hypothesis reduces overconfidence and one-sided reasoning [Considering the opposite reduces biased reasoning and overconfidence.](../claims/considering-the-opposite-reduces-bias.md) [+M]. Because it requires holding two competing frameworks in mind, it works best when the opposing view is presented as a coherent case rather than a list of isolated claims.
 
 ### Context
 #### Requirements
@@ -42,7 +42,7 @@ Steelmanning leverages the finding that argumentation improves reasoning and con
 
 ### Target Learners
 - Advanced secondary and post-secondary learners with sufficient domain knowledge to reconstruct arguments accurately
-- Learners prone to one-sided reasoning or confirmation bias; the "consider the opposite" prompt is most effective for those who initially hold a confident position [Considering the opposite reduces biased reasoning and overconfidence.](../claims/considering-the-opposite-reduces-bias.md) [+S]
+- Learners prone to one-sided reasoning or confirmation bias; the "consider the opposite" prompt is most effective for those who initially hold a confident position [Considering the opposite reduces biased reasoning and overconfidence.](../claims/considering-the-opposite-reduces-bias.md) [+M]
 - Less appropriate for novices who cannot yet distinguish strong from weak versions of a position [~W]
 
 ### Target Learning Goals

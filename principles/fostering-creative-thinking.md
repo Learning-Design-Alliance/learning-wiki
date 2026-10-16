@@ -343,7 +343,7 @@ The article argues that nurturing creativity in STEM requires "creating a non-th
 - evaluating existing heuristics and models
 
 ### Claims
-- [Anonymity Mitigates Evaluation Apprehension](../claims/anonymity-mitigates-evaluation-apprehension.md) [+M]
+- [Anonymity Mitigates Evaluation Apprehension](../claims/anonymity-mitigates-evaluation-apprehension.md) [+W]
 
 ## Related Principles
 - 

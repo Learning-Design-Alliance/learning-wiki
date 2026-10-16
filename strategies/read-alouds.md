@@ -49,7 +49,7 @@ Read-alouds work by removing the decoding burden so working memory is freed for 
 - Read-alouds do not by themselves build decoding skill; they must be paired with explicit phonics and independent reading practice
 - Oral reading of complex expository text can *impair* comprehension for struggling decoders: attention shifts to pronunciation at the expense of meaning [~S]
 - Round-robin classroom reading (students taking turns aloud on unseen text) produces minimal fluency gains and measurable anxiety for weak readers [-M]
-- The production effect shrinks when all items are read aloud — the benefit depends on contrast with silently read material [The production effect requires mixed aloud/silent conditions; uniform aloud reading eliminates the distinctiveness advantage.](../claims/media-combinations-affect-recall-and-retention.md) [~S]
+- The production effect shrinks when all items are read aloud — the benefit depends on contrast with silently read material [The production effect requires mixed aloud/silent conditions; uniform aloud reading eliminates the distinctiveness advantage.](../claims/media-combinations-affect-recall-and-retention.md) [~M]
 - Adds substantial time; inefficient for large volumes of text where gist suffices
 - Reading aloud is slower than silent reading; requiring it for long texts adds time cost without proportional benefit [~M]
 - Whole-class public reading can raise anxiety and consume instructional time for limited learning gain for proficient readers [~M]
@@ -177,7 +177,7 @@ A read-aloud is an instructional strategy in which the teacher reads a text alou
 
 ## Design Implications
 
-Read-alouds give learners access to ideas and language they could not yet decode independently, decoupling comprehension development from decoding skill [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Their effectiveness depends on interactivity: teacher-led discussion, questioning, and vocabulary elaboration during the read-aloud produce substantially larger vocabulary and comprehension gains than straight reading of the text [Activation improves learning.](../claims/activation-improves-learning.md) [+M]. The teacher's think-alouds during reading make invisible comprehension processes — inference, monitoring, re-reading — observable and imitable.
+Read-alouds give learners access to ideas and language they could not yet decode independently, decoupling comprehension development from decoding skill [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Their effectiveness depends on interactivity: teacher-led discussion, questioning, and vocabulary elaboration during the read-aloud produce substantially larger vocabulary and comprehension gains than straight reading of the text [Activation improves learning.](../claims/activation-improves-learning.md) [+M]. The teacher's think-alouds during reading make invisible comprehension processes — inference, monitoring, re-reading — observable and imitable.
 
 ### Context
 #### Requirements
@@ -243,11 +243,11 @@ Read-alouds give learners access to ideas and language they could not yet decode
 > **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies (2 causal, 2 review), `q2`–`q3` · 0 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
-Read Aloud asks learners to vocalize text — assigned reading, assessment questions, or their own drafts — rather than reading silently. It exploits the production effect: words spoken aloud are remembered better than words read silently, because producing speech creates a distinctive, multi-modal memory trace [The production effect: speaking words aloud improves memory for those words relative to silent reading.](../claims/media-combinations-affect-recall-and-retention.md) [+S]. In early literacy, teacher read-alouds also model fluent, expressive reading and build vocabulary and comprehension above learners' independent reading level.
+Read Aloud asks learners to vocalize text — assigned reading, assessment questions, or their own drafts — rather than reading silently. It exploits the production effect: words spoken aloud are remembered better than words read silently, because producing speech creates a distinctive, multi-modal memory trace [The production effect: speaking words aloud improves memory for those words relative to silent reading.](../claims/media-combinations-affect-recall-and-retention.md) [+M]. In early literacy, teacher read-alouds also model fluent, expressive reading and build vocabulary and comprehension above learners' independent reading level.
 
 ## Design Implications
 
-Reading aloud converts visual input into auditory output, adding a second encoding channel and a distinctive motor act that improves later recognition and recall [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [+S]. For fluent readers, the memory benefit is strongest for verbatim content (key terms, definitions, proofs) and weakest for deep comprehension, so it should be targeted at material requiring precise retention rather than conceptual integration. Reading one's own writing aloud is a powerful self-editing technique: hearing errors and awkward phrasing recruits self-monitoring that silent rereading misses [~M].
+Reading aloud converts visual input into auditory output, adding a second encoding channel and a distinctive motor act that improves later recognition and recall [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [+M]. For fluent readers, the memory benefit is strongest for verbatim content (key terms, definitions, proofs) and weakest for deep comprehension, so it should be targeted at material requiring precise retention rather than conceptual integration. Reading one's own writing aloud is a powerful self-editing technique: hearing errors and awkward phrasing recruits self-monitoring that silent rereading misses [~M].
 
 ### Context
 #### Requirements
@@ -258,7 +258,7 @@ Reading aloud converts visual input into auditory output, adding a second encodi
 #### Constraints
 - Oral reading of complex expository text can *impair* comprehension for struggling decoders: attention shifts to pronunciation at the expense of meaning [~S]
 - Round-robin classroom reading (students taking turns aloud on unseen text) produces minimal fluency gains and measurable anxiety for weak readers [-M]
-- The production effect shrinks when all items are read aloud — the benefit depends on contrast with silently read material [The production effect requires mixed aloud/silent conditions; uniform aloud reading eliminates the distinctiveness advantage.](../claims/media-combinations-affect-recall-and-retention.md) [~S]
+- The production effect shrinks when all items are read aloud — the benefit depends on contrast with silently read material [The production effect requires mixed aloud/silent conditions; uniform aloud reading eliminates the distinctiveness advantage.](../claims/media-combinations-affect-recall-and-retention.md) [~M]
 - Adds substantial time; inefficient for large volumes of text where gist suffices
 
 #### Implementation Variability
@@ -269,7 +269,7 @@ Reading aloud converts visual input into auditory output, adding a second encodi
 
 ### Target Learners
 - Beginning and striving readers, when the teacher reads aloud to build vocabulary, syntax knowledge, and motivation [+M]
-- Learners memorizing high-value verbatim content (terminology, formulas, quotations) — the production effect is robust across ages [The production effect: speaking words aloud improves memory for those words relative to silent reading.](../claims/media-combinations-affect-recall-and-retention.md) [+S]
+- Learners memorizing high-value verbatim content (terminology, formulas, quotations) — the production effect is robust across ages [The production effect: speaking words aloud improves memory for those words relative to silent reading.](../claims/media-combinations-affect-recall-and-retention.md) [+M]
 - Writers revising their own work — oral rereading surfaces errors silent review misses [~M]
 - Less suitable for learners whose decoding is so weak that oral reading overloads working memory [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [~M]
 
@@ -282,7 +282,7 @@ Reading aloud converts visual input into auditory output, adding a second encodi
 ### Instructions
 1. Select a short, high-value text segment or set of key terms; keep volume small since oral reading is slow.
 2. For modeled reading, the instructor reads aloud with expression, pausing to [Think-Aloud](../elements/think-aloud.md) about comprehension moves and vocabulary.
-3. For retention, have learners read *selected* items aloud while reading surrounding material silently — the contrast drives the production effect [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [+S].
+3. For retention, have learners read *selected* items aloud while reading surrounding material silently — the contrast drives the production effect [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [+M].
 4. For revision, have writers read their draft aloud slowly, marking problems as they hear them, then [Annotating](../principles/annotating.md) fixes before revising.
 5. Follow oral work with [Practice](../elements/practice.md) — silent rereading, retelling, or application — to consolidate beyond verbatim memory.
 
@@ -294,7 +294,7 @@ Reading aloud converts visual input into auditory output, adding a second encodi
 ## Examples
 - **National Reading Panel findings on guided oral reading** — repeated oral reading with feedback produced reliable fluency and comprehension gains, while silent independent reading alone did not (NICHD, 2000).
 - **Proofreading aloud in writing workshops** — a standard convention in process-writing curricula (e.g., Lucy Calkins' Units of Study) where students read drafts aloud to a partner before revision.
-- **Production-effect study techniques** — learners reading flashcard answers aloud (e.g., in Anki workflows) show better retention than silent review [The production effect: speaking words aloud improves memory for those words relative to silent reading.](../claims/media-combinations-affect-recall-and-retention.md) [+S].
+- **Production-effect study techniques** — learners reading flashcard answers aloud (e.g., in Anki workflows) show better retention than silent review [The production effect: speaking words aloud improves memory for those words relative to silent reading.](../claims/media-combinations-affect-recall-and-retention.md) [+M].
 
 ## Key Sources
 - MacLeod, C. M., Gopie, N., Hourihan, K. L., Neary, K. R., & Ozubko, J. D. (2010). The production effect: Delineation of a phenomenon. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 36*(3), 671–685. [doi:10.1037/a0018785](https://doi.org/10.1037/a0018785)
@@ -311,7 +311,7 @@ Reading aloud converts visual input into auditory output, adding a second encodi
 > **Evidence** · 1 claim (1 for) · 2 studies (1 review, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size
 
 ## Description
-Reading aloud asks learners to vocalize text — a question before answering it, a draft during revision, or a model text as a stylistic exemplar — rather than reading silently. Vocalization engages auditory and articulatory channels in addition to visual ones, and the act of producing speech creates a distinctive memory trace known as the production effect [Reading aloud improves memory.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. In writing instruction, hearing one's own prose exposes errors, awkward rhythm, and missing punctuation that silent reading glosses over.
+Reading aloud asks learners to vocalize text — a question before answering it, a draft during revision, or a model text as a stylistic exemplar — rather than reading silently. Vocalization engages auditory and articulatory channels in addition to visual ones, and the act of producing speech creates a distinctive memory trace known as the production effect [Reading aloud improves memory.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. In writing instruction, hearing one's own prose exposes errors, awkward rhythm, and missing punctuation that silent reading glosses over.
 
 ## Design Implications
 
@@ -326,7 +326,7 @@ Reading aloud converts reading from a purely visual task into a multimodal one; 
 #### Constraints
 - Reading aloud is slower than silent reading; requiring it for long texts adds time cost without proportional benefit [~M]
 - Whole-class public reading can raise anxiety and consume instructional time for limited learning gain for proficient readers [~M]
-- For students whose decoding is not yet automatic, vocalization consumes working memory needed for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [~S] — the strategy helps fluency practice but can *impede* comprehension of complex texts for struggling decoders
+- For students whose decoding is not yet automatic, vocalization consumes working memory needed for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [~M] — the strategy helps fluency practice but can *impede* comprehension of complex texts for struggling decoders
 - Little benefit for learners who already revise effectively through silent reading; the advantage diminishes with expertise [~W]
 
 #### Implementation Variability
@@ -338,7 +338,7 @@ Reading aloud converts reading from a purely visual task into a multimodal one; 
 ### Target Learners
 - Developing writers who need to externalize and diagnose their own prose [~M]
 - Early readers building fluency through repeated oral reading [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
-- Learners who benefit from multimodal encoding of key material (definitions, formulas, quotes to memorize) [Reading aloud improves memory.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Learners who benefit from multimodal encoding of key material (definitions, formulas, quotes to memorize) [Reading aloud improves memory.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Less useful for strong silent readers working through extended texts, where vocalization adds time without adding comprehension [~W]
 
 ### Target Learning Goals

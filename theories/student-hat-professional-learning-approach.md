@@ -38,7 +38,7 @@ The student hat is a professional learning approach in which teachers engage in 
 - planning and reflection on enactment
 
 ### Claims
-- [Student Hat Planning Tools Support Sensemaking](../claims/student-hat-planning-tools-support-sensemaking.md) [+M]
+- [Student Hat Planning Tools Support Sensemaking](../claims/student-hat-planning-tools-support-sensemaking.md) [+W]
 
 ## Related Theories
 

@@ -13,7 +13,7 @@ generated:
 # Automaticity
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (5 for) · 7 studies (3 review, 1 causal, 1 quant-synthesis, 1 design, 1 theoretical), `q1`–`q3` · 0 of 7 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 7 studies (3 review, 1 causal, 1 quant-synthesis, 1 design, 1 theoretical), `q1`–`q3` · 0 of 7 report an effect size · 2 claims rest on one study
 
 ## Description
 Automaticity is the state in which a component skill — decoding words, retrieving math facts, typing, parsing syntax — executes quickly, accurately, and with little conscious effort. It develops through repeated, spaced, and increasingly varied practice after initial accuracy is achieved. Its instructional significance lies in what it *releases*: when lower-level processes run without deliberate attention, working memory is available for comprehension, problem-solving, and composition.

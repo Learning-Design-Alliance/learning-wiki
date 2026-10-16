@@ -25,7 +25,7 @@ sources:
 # Framework of five essential supports and contextual resources for school improvement
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 48 claims (33 for, 15 mixed) · 35 studies (21 associational, 6 qualitative, 4 review, 3 design, 1 causal), `q1`–`q3` · 2 of 35 report an effect size · 47 claims rest on one study
+> **Evidence** · 46 claims (31 for, 15 mixed) · 35 studies (21 associational, 6 qualitative, 4 review, 3 design, 1 causal), `q1`–`q3` · 2 of 35 report an effect size · 45 claims rest on one study
 
 ## Description
 The CCSR framework holds that five in-school supports are all essential for improving student learning: leadership acting as a catalyst, parent-community ties, professional capacity, student-centered learning climate, and ambitious instruction. Leadership is inclusive, instruction-focused, and strategic, and it stimulates the other four supports; instruction is "the single most direct factor that affects student learning," but providing it depends on strength in the other supports. The supports are anchored in contextual resources: relational trust, structural factors such as school size and student stability, and local community social capital. The framework was developed with Chicago educators in the mid-1990s and used to guide CPS school-improvement planning and self-assessment.

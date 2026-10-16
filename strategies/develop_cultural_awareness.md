@@ -118,7 +118,7 @@ Developing cultural awareness is the deliberate, ongoing practice by which educa
 
 ## Design Implications
 
-Cultural awareness is a precondition for culturally responsive pedagogy: instruction that connects new content to learners' prior knowledge and lived experience produces stronger engagement and achievement than culturally neutral delivery [~S]. Because belonging and self-efficacy drive persistence, educators who actively affirm learners' identities support motivation as well as achievement [Learners' beliefs in their own capability predict persistence in academic tasks.](../claims/self-efficacy-predicts-academic-persistence.md) [+S]. The work is bidirectional — understanding others requires first surfacing one's own defaults, which is why structured self-examination outperforms one-off diversity training.
+Cultural awareness is a precondition for culturally responsive pedagogy: instruction that connects new content to learners' prior knowledge and lived experience produces stronger engagement and achievement than culturally neutral delivery [~S]. Because belonging and self-efficacy drive persistence, educators who actively affirm learners' identities support motivation as well as achievement [Learners' beliefs in their own capability predict persistence in academic tasks.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]. The work is bidirectional — understanding others requires first surfacing one's own defaults, which is why structured self-examination outperforms one-off diversity training.
 
 ### Context
 #### Requirements

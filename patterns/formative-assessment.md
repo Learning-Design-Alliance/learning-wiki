@@ -183,7 +183,7 @@ This is the article's described classroom pattern for formative assessment in la
 
 ### Claims
 
-- [Wireless Keypads Convert Passive Audience To Active Learners](../claims/wireless-keypads-convert-passive-audience-to-active-learners.md) [+M]
+- [Wireless Keypads Convert Passive Audience To Active Learners](../claims/wireless-keypads-convert-passive-audience-to-active-learners.md) [+W]
 
 ## Related Patterns
 - 

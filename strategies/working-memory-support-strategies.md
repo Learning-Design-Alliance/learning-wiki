@@ -37,7 +37,7 @@ Every instructional decision should be evaluated against the question: what must
 #### Implementation Variability
 - **Segmenting and pacing**: break animation or narration into learner-controlled segments [Clark & Mayer's segmenting principle.](https://doi.org/10.1002/9781119239086) [+S]
 - **Pretraining**: teach names and characteristics of key concepts before the main task
-- **Worked examples**: [Example-problem sequences reduce cognitive load.](../claims/worked-example-problem-sequences.md) [+S]
+- **Worked examples**: [Example-problem sequences reduce cognitive load.](../claims/worked-example-problem-sequences.md) [+M]
 - **External representations**: [Graphic organizers support novice comprehension.](../claims/graphic-organizers-support-novice-comprehension.md) [+M]; note that learner-constructed organizers can outperform provided ones once learners are capable [Learner-constructed graphic organizers outperform provided.](../claims/learner-constructed-graphic-organizers-outperform-provided.md) [~M]
 - **Language simplification**: [Accessible Vocabulary & Syntax](../principles/accessible-vocabulary-syntax.md) reduces decoding load for language learners
 

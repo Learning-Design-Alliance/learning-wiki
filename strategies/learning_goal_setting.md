@@ -24,12 +24,12 @@ Goal setting works because specific, difficult goals regulate effort, persistenc
 ### Context
 #### Requirements
 - Dedicated time before the experience to articulate and document goals in writing
-- Goals that are specific and challenging but attainable [Specific, difficult goals lead to higher performance.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S]
+- Goals that are specific and challenging but attainable [Specific, difficult goals lead to higher performance.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+M]
 - A structure for recording prior assumptions so they can be tested against observation rather than silently filtering it
 - A follow-up [reflection](../elements/act.md) or [check-in](../principles/check-ins.md) in which progress against the stated goals is reviewed
 
 #### Constraints
-- Vague or overly broad goals ("learn about teaching") provide no regulatory benefit; specificity is the active ingredient [Specific, difficult goals lead to higher performance.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [-S] when violated
+- Vague or overly broad goals ("learn about teaching") provide no regulatory benefit; specificity is the active ingredient [Specific, difficult goals lead to higher performance.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [-M] when violated
 - Outcome-oriented goals can *harm* novice performance and persistence after failure; learning-oriented goals are required for inexperienced learners [Process goals outperform outcome goals for novices.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [-M]
 - Pre-set goals can bias observation — learners may notice only what confirms their goals; explicitly documenting assumptions and counter-evidence questions mitigates this
 - Requires honest self-assessment; learners with low [self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) may set defensively easy goals that produce little growth [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [~M]

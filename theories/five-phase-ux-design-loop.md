@@ -39,8 +39,8 @@ The 5-Phase UX Design Loop is "a practical, iterative process for reducing uncer
 
 ### Claims
 
-- [Five Screenshare Sessions Beat Large Survey](../claims/five-screenshare-sessions-beat-large-survey.md) [+M]
-- [Ai Compression Frees Human Led Alignment](../claims/ai-compression-frees-human-led-alignment.md) [+M]
+- [Five Screenshare Sessions Beat Large Survey](../claims/five-screenshare-sessions-beat-large-survey.md) [+W]
+- [Ai Compression Frees Human Led Alignment](../claims/ai-compression-frees-human-led-alignment.md) [+W]
 - [AI-supported prototyping combined with educator feedback loops accelerated development and surfaced usability issues early in one K-2 literacy tool project](../claims/ai-prototyping-accelerates-development-with-feedback-loops.md) [+W]
 
 ## Related Theories

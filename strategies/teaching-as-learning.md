@@ -89,7 +89,7 @@ What determines size of benefit is what the tutor actually does while teaching. 
 - [Peer Tutoring](peer-tutoring.md) — the institutional form of this strategy, with the tutor as the intended beneficiary [Peer Tutoring Improves Achievement](../claims/peer-tutoring-improves-achievement.md) [+S]
 - [Cross-Age Tutoring](cross-age-tutoring.md) — an older learner teaches a younger one, raising accountability without raising peer exposure
 - [Jigsaw](jigsaw.md) — makes teaching structurally necessary by distributing content across group members
-- [Peer Instruction](peer-instruction.md) — the same explain-to-a-peer mechanism compressed into a lecture, around a concept question [Peer Discussion Improves Conceptual Understanding](../claims/peer-discussion-improves-conceptual-understanding.md) [+S]
+- [Peer Instruction](peer-instruction.md) — the same explain-to-a-peer mechanism compressed into a lecture, around a concept question [Peer Discussion Improves Conceptual Understanding](../claims/peer-discussion-improves-conceptual-understanding.md) [+M]
 - [Peer Feedback](peer_feedback.md) — a related arrangement where the assessor gains from evaluating, as the tutor gains from explaining [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](../claims/peer-assessment-benefits-assessor.md) [+M]
 
 ## Examples

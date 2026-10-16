@@ -19,7 +19,7 @@ Read aloud routines are scheduled, repeated episodes in which a more proficient 
 
 ## Design Implications
 
-Reading aloud exposes learners to language and text structures above their independent reading level, decoupling comprehension growth from decoding skill while decoding develops separately [Phonics instruction outperforms whole-word approaches for generalization.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. Interactive read alouds with explicit vocabulary work and open-ended questioning outperform passive listening; the discussion, not the exposure alone, drives vocabulary and comprehension gains [Joint book reading predicts later literacy success.](../claims/joint-book-reading-predicts-literacy-success.md) [+M]. Hearing fluent, expressive reading builds a model of prosody and supports automatic word recognition when paired with print access [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S].
+Reading aloud exposes learners to language and text structures above their independent reading level, decoupling comprehension growth from decoding skill while decoding develops separately [Phonics instruction outperforms whole-word approaches for generalization.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. Interactive read alouds with explicit vocabulary work and open-ended questioning outperform passive listening; the discussion, not the exposure alone, drives vocabulary and comprehension gains [Joint book reading predicts later literacy success.](../claims/joint-book-reading-predicts-literacy-success.md) [+M]. Hearing fluent, expressive reading builds a model of prosody and supports automatic word recognition when paired with print access [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M].
 
 ### Context
 #### Requirements
@@ -42,7 +42,7 @@ Reading aloud exposes learners to language and text structures above their indep
 
 ### Target Learners
 - Emergent and early readers (pre-K–grade 2), who gain vocabulary, print concepts, and narrative structure [Joint book reading predicts later literacy success.](../claims/joint-book-reading-predicts-literacy-success.md) [+M]
-- Struggling decoders at any age, for whom listening comprehension outpaces print comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Struggling decoders at any age, for whom listening comprehension outpaces print comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Multilingual learners, when paired with explicit vocabulary work and visual support [~M]
 - Less effective as a standalone intervention for learners whose bottleneck is decoding fluency rather than language [~M]
 

@@ -37,7 +37,7 @@ The page names an associated journal article, "Examining the state-trait composi
 
 ### Claims
 
-- [Sel Competencies Stability Over Time Question](../claims/sel-competencies-stability-over-time-question.md) [+M]
+- [Sel Competencies Stability Over Time Question](../claims/sel-competencies-stability-over-time-question.md) [+W]
 - [Little is known about how much variance in SEL constructs is stable over time versus specific to a given time or context](../claims/sel-stability-variance-unknown.md) [+W]
 - [SEL can be improved by both short-term targeted interventions and longer-term strategies to improve school contextual factors](../claims/sel-improvable-short-and-long-term.md) [+W]
 - [The rank ordering of math and reading skills is highly stable over time, while four SEL domains are more strongly influenced by contextual factors](../claims/sel-domains-less-stable-than-achievement.md) [+W]

@@ -37,7 +37,7 @@ The article organizes the debate around what a demographic variable is and wheth
 
 ### Claims
 
-- [Demographic Predictors Reduce Actionability](../claims/demographic-predictors-reduce-actionability.md) [+M]
+- [Demographic Predictors Reduce Actionability](../claims/demographic-predictors-reduce-actionability.md) [+W]
 - [The argument that excluding demographic predictors amounts to color-blind racism is contested: inclusion can also produce racist decision-making](../claims/colorblind-racism-argument-for-inclusion-contested.md) [+W]
 - [Heterogeneity within demographic categories means group variables as predictors can disadvantage atypical group members and underrepresented groups](../claims/demographic-category-heterogeneity-harms-atypical-members.md) [+W]
 - [Using demographic variables as predictors risks reinforcing biases embedded in training labels, including self-fulfilling prophecies](../claims/demographic-predictors-reinforce-training-label-bias.md) [+W]

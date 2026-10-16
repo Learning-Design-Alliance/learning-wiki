@@ -36,7 +36,7 @@ The article outlines key characteristics of a process for moving from data to ma
 - improving educational decision-making and student outcomes through systematic data use
 
 ### Claims
-- [Education Problems Lack Clear Definitions And Simple Solutions](../claims/education-problems-lack-clear-definitions-and-simple-solutions.md) [+M]
+- [Education Problems Lack Clear Definitions And Simple Solutions](../claims/education-problems-lack-clear-definitions-and-simple-solutions.md) [+W]
 
 ## Related Theories
 - 

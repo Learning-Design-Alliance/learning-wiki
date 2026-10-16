@@ -19,7 +19,7 @@ The Fry word list contains 1,000 high-frequency words divided into ten levels, f
 
 ## Design Implications
 
-The strategy rests on the premise that automatic word recognition frees attentional and working-memory resources for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Because high-frequency words recur constantly, rapid recognition of even the first few hundred words yields disproportionate fluency gains. However, sight-word drill works best when embedded in connected text rather than taught as isolated flashcards, and grouping words into sets of twenty-five is an application of [Chunking](../principles/chunking.md) that limits the load of each practice cycle [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
+The strategy rests on the premise that automatic word recognition frees attentional and working-memory resources for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Because high-frequency words recur constantly, rapid recognition of even the first few hundred words yields disproportionate fluency gains. However, sight-word drill works best when embedded in connected text rather than taught as isolated flashcards, and grouping words into sets of twenty-five is an application of [Chunking](../principles/chunking.md) that limits the load of each practice cycle [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
 
 ### Context
 #### Requirements
@@ -39,7 +39,7 @@ The strategy rests on the premise that automatic word recognition frees attentio
 - Individualized lists: teachers assess which words a student already knows and build a personal "working set" of 5–10 unknown words at a time
 
 ### Target Learners
-- Early readers (K–2) building a sight vocabulary that supports fluent first-pass reading [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Early readers (K–2) building a sight vocabulary that supports fluent first-pass reading [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Struggling readers who lack automaticity and laboriously decode common words, overloading working memory during text reading
 - English language learners, for whom high-frequency words provide the connective tissue of English sentences — though they may need explicit meaning support alongside recognition [~M]
 

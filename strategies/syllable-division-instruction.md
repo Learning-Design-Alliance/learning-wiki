@@ -19,7 +19,7 @@ Syllable division instruction teaches learners a set of rules and strategies for
 
 ## Design Implications
 
-Syllable division reduces the working-memory burden of decoding long words by converting an unfamiliar whole into familiar chunks [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]. Research with struggling readers shows that training in syllable segmentation improves decoding of multisyllabic words and, in some studies, reading comprehension [Bhattacharya & Ehri found syllable-division training improved adolescents' multisyllabic word reading.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. The strategy works best as part of systematic phonics or structured literacy instruction rather than as an isolated rule-drill activity [Systematic phonics instruction improves word reading more than unsystematic or non-phonics approaches.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S].
+Syllable division reduces the working-memory burden of decoding long words by converting an unfamiliar whole into familiar chunks [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]. Research with struggling readers shows that training in syllable segmentation improves decoding of multisyllabic words and, in some studies, reading comprehension [Bhattacharya & Ehri found syllable-division training improved adolescents' multisyllabic word reading.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. The strategy works best as part of systematic phonics or structured literacy instruction rather than as an isolated rule-drill activity [Systematic phonics instruction improves word reading more than unsystematic or non-phonics approaches.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M].
 
 ### Context
 #### Requirements
@@ -46,7 +46,7 @@ Syllable division reduces the working-memory burden of decoding long words by co
 - Not appropriate for beginners still mastering letter-sound correspondences
 
 ### Target Learning Goals
-- Decoding accuracy and automaticity for multisyllabic words [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Decoding accuracy and automaticity for multisyllabic words [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Spelling of longer words (division knowledge supports segmentation when writing)
 - Self-monitoring word-attack strategies for independent reading of content-area text
 

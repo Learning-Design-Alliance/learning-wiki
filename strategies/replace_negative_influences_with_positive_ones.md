@@ -19,7 +19,7 @@ This strategy asks learners to audit their social and informational environment 
 
 ## Design Implications
 
-The strategy rests on social learning theory: learners acquire attitudes, expectations, and behavioral patterns by observing the people around them, so the composition of one's environment functions as an implicit curriculum [Social models shape observer behavior, self-efficacy, and expectations.](../theories/social-learning-theory.md) [+S]. Because perceived self-efficacy strongly predicts persistence in the face of difficulty, environments that model success and provide encouragement measurably support learner persistence [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+S].
+The strategy rests on social learning theory: learners acquire attitudes, expectations, and behavioral patterns by observing the people around them, so the composition of one's environment functions as an implicit curriculum [Social models shape observer behavior, self-efficacy, and expectations.](../theories/social-learning-theory.md) [+S]. Because perceived self-efficacy strongly predicts persistence in the face of difficulty, environments that model success and provide encouragement measurably support learner persistence [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M].
 
 ### Context
 #### Requirements

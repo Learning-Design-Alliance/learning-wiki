@@ -19,7 +19,7 @@ These exercises develop learners' explicit awareness of the sound structure and 
 
 ## Design Implications
 
-Phonological awareness is one of the strongest predictors of early reading success, and explicit instruction in it reliably improves word reading, with effects strongest when instruction is systematic and paired with letter-sound work [Phonics instruction outperforms whole-word approaches for generalization.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. For second-language learners, cross-linguistic comparison leverages transfer: awareness of phonological structure in the L1 supports decoding in the L2, particularly when the two languages share phonological features [~M]. Once decoding becomes automatic, attentional resources are freed for comprehension, which is the ultimate payoff of these exercises [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S].
+Phonological awareness is one of the strongest predictors of early reading success, and explicit instruction in it reliably improves word reading, with effects strongest when instruction is systematic and paired with letter-sound work [Phonics instruction outperforms whole-word approaches for generalization.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. For second-language learners, cross-linguistic comparison leverages transfer: awareness of phonological structure in the L1 supports decoding in the L2, particularly when the two languages share phonological features [~M]. Once decoding becomes automatic, attentional resources are freed for comprehension, which is the ultimate payoff of these exercises [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M].
 
 ### Context
 #### Requirements
@@ -46,7 +46,7 @@ Phonological awareness is one of the strongest predictors of early reading succe
 - Less beneficial for fluent readers with strong decoding, for whom the exercises are redundant [~M]
 
 ### Target Learning Goals
-- Decoding and word recognition: building the phoneme-grapheme mappings that underpin reading [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Decoding and word recognition: building the phoneme-grapheme mappings that underpin reading [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Metalinguistic knowledge: understanding how languages encode meaning through sound and morphology
 - Transfer readiness: preparing L1 literacy skills to support L2 reading acquisition
 

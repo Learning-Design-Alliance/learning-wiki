@@ -19,7 +19,7 @@ Printable flash card sets covering the Dolch sight word list — the 220 most fr
 
 ## Design Implications
 
-Flash card drill targets automaticity, not initial word learning. The rationale is that high-frequency words recognized instantly free attention for comprehension rather than decoding [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Repeated retrieval from a visual prompt is a form of [Practice](../elements/practice.md) that strengthens word-specific memory traces, but the cards work best when embedded in a broader program that also includes connected-text reading and phonics instruction.
+Flash card drill targets automaticity, not initial word learning. The rationale is that high-frequency words recognized instantly free attention for comprehension rather than decoding [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Repeated retrieval from a visual prompt is a form of [Practice](../elements/practice.md) that strengthens word-specific memory traces, but the cards work best when embedded in a broader program that also includes connected-text reading and phonics instruction.
 
 ### Context
 #### Requirements
@@ -42,7 +42,7 @@ Flash card drill targets automaticity, not initial word learning. The rationale 
 - **Paired peer drill** with a script so the partner gives immediate confirmation or correction
 
 ### Target Learners
-- Early elementary students building a base of instantly recognizable high-frequency words [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Early elementary students building a base of instantly recognizable high-frequency words [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Struggling readers who need targeted, low-load repetition on a small word set
 - ESL/EFL learners, for whom the Dolch words' irregular spellings and grammatical function make explicit drill useful
 - Less appropriate for advanced readers, for whom the words are already automatic and drill is redundant

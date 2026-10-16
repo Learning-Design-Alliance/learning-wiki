@@ -36,9 +36,9 @@ The BICS/CALP distinction separates basic interpersonal communicative skills (co
 - academic language proficiency (CALP) development in a second language
 
 ### Claims
-- [Bics Acquired Faster Than Calc Immigrant Children](../claims/bics-acquired-faster-than-calc-immigrant-children.md) [+M]
-- [Bics Calp Intersect Not Identical](../claims/bics-calp-intersect-not-identical.md) [+M]
-- [Calp Can Precede Bics In Certain Situations](../claims/calp-can-precede-bics-in-certain-situations.md) [+M]
+- [Bics Acquired Faster Than Calc Immigrant Children](../claims/bics-acquired-faster-than-calc-immigrant-children.md) [+W]
+- [Bics Calp Intersect Not Identical](../claims/bics-calp-intersect-not-identical.md) [+W]
+- [Calp Can Precede Bics In Certain Situations](../claims/calp-can-precede-bics-in-certain-situations.md) [+W]
 
 ## Related Theories
 

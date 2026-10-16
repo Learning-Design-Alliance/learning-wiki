@@ -58,7 +58,7 @@ RPT converts review and practice into an active, social format: explaining mater
 - Elementary and secondary students, where structured RPT shows the most consistent achievement gains [+M]
 - Struggling learners who benefit from low-stakes, individualized practice and immediate feedback [Assessment for learning improves achievement.](../claims/assessment-for-learning-improves-achievement.md) [+M]
 - Less suitable for students who struggle to collaborate or who lack the baseline knowledge to explain anything to a partner [-M]
-- Elementary and secondary students across subjects; meta-analytic evidence is strongest in grades 2–6 [Peer-assisted learning interventions improve achievement for elementary students.](../claims/peer-assisted-learning-improves-achievement.md) [+S]
+- Elementary and secondary students across subjects; meta-analytic evidence is strongest in grades 2–6 [Peer-assisted learning interventions improve achievement for elementary students.](../claims/peer-assisted-learning-improves-achievement.md) [+M]
 - Students who benefit from low-stakes verbal rehearsal — including English learners and students who rarely speak in whole-class settings [+M]
 - Higher-ability students gain from the tutor role specifically; struggling students gain most from structured tutee experiences with frequent role switching [~M]
 
@@ -141,7 +141,7 @@ RPT works because preparing to teach forces deeper processing than preparing to 
 - Turn length ranges from 5–10 minutes per role in elementary settings to full-session alternation in higher education
 
 ### Target Learners
-- Elementary and secondary students across subjects; meta-analytic evidence is strongest in grades 2–6 [Peer-assisted learning interventions improve achievement for elementary students.](../claims/peer-assisted-learning-improves-achievement.md) [+S]
+- Elementary and secondary students across subjects; meta-analytic evidence is strongest in grades 2–6 [Peer-assisted learning interventions improve achievement for elementary students.](../claims/peer-assisted-learning-improves-achievement.md) [+M]
 - Students who benefit from low-stakes verbal rehearsal — including English learners and students who rarely speak in whole-class settings [+M]
 - Higher-ability students gain from the tutor role specifically; struggling students gain most from structured tutee experiences with frequent role switching [~M]
 

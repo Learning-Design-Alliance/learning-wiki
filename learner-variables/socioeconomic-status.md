@@ -12,7 +12,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 82 claims (50 show a difference, 19 mixed, 13 no difference) · 68 studies (37 associational, 16 causal, 8 review, 3 theoretical, 2 quant-synthesis, 1 qualitative, 1 design), `q1`–`q3` · 6 of 68 report an effect size · 81 claims rest on one study
+> **Evidence** · 81 claims (49 show a difference, 19 mixed, 13 no difference) · 68 studies (37 associational, 16 causal, 8 review, 3 theoretical, 2 quant-synthesis, 1 qualitative, 1 design), `q1`–`q3` · 6 of 68 report an effect size · 80 claims rest on one study
 
 ## How to read this page
 

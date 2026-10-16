@@ -45,7 +45,7 @@ The checklist operationalizes decades of research showing that the frequency and
 ### Target Learning Goals
 - Parent awareness: recognizing which resources and routines support emergent literacy
 - Behavioral goal-setting: converting awareness into specific, sustainable shared-reading and print-exposure routines
-- Child outcomes (indirect): vocabulary growth, print concepts, letter knowledge, and interest in reading — the mechanisms through which home literacy acts, including the pathway from fluent word recognition to comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Child outcomes (indirect): vocabulary growth, print concepts, letter knowledge, and interest in reading — the mechanisms through which home literacy acts, including the pathway from fluent word recognition to comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 
 ### Instructions
 1. Complete the checklist honestly, marking each statement true or false across the three categories (has / does / observes).

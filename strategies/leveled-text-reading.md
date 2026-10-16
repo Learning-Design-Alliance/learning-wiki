@@ -19,7 +19,7 @@ Leveled text reading assigns learners texts calibrated to their assessed reading
 
 ## Design Implications
 
-Leveled reading is an application of [Cognitive Load Management](../principles/cognitive-load-management.md): matching text difficulty to reader skill keeps decoding demands within working memory limits so comprehension processes can operate [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Its effectiveness depends on what "level" means — a text can be leveled by readability formula, by decodability against taught phonics patterns, or by conceptual demand, and these can diverge sharply. Fluency and automatic word recognition grow fastest when learners read texts they can decode accurately, freeing resources for meaning-making [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S].
+Leveled reading is an application of [Cognitive Load Management](../principles/cognitive-load-management.md): matching text difficulty to reader skill keeps decoding demands within working memory limits so comprehension processes can operate [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Its effectiveness depends on what "level" means — a text can be leveled by readability formula, by decodability against taught phonics patterns, or by conceptual demand, and these can diverge sharply. Fluency and automatic word recognition grow fastest when learners read texts they can decode accurately, freeing resources for meaning-making [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M].
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Leveled reading is an application of [Cognitive Load Management](../principles/c
 - **Instructional-level stretch**: pairing a challenging grade-level text with scaffolds ([Advance Organizers](../elements/advance-organizers.md), pre-teaching vocabulary) rather than substituting an easier text — the approach emphasized by standards such as the Common Core
 
 ### Target Learners
-- Beginning readers building decoding and automaticity, for whom decodable, accurately matched texts accelerate word reading [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Beginning readers building decoding and automaticity, for whom decodable, accurately matched texts accelerate word reading [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Struggling readers who need high-success reading to build fluency and confidence
 - Less beneficial as a permanent placement for older or striving readers, who need grade-level text exposure with scaffolds to close knowledge and vocabulary gaps [~M]
 

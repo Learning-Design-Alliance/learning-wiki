@@ -334,8 +334,8 @@ Following Dewey, the article argues character education should not be confined t
 - critical moral judgment in specific situations
 
 ### Claims
-- [Moral Knowledge Product Of Moral Inquiry](../claims/moral-knowledge-product-of-moral-inquiry.md) [+M]
-- [Character Education Didacticism Critique Dewey Bridge](../claims/character-education-didacticism-critique-dewey-bridge.md) [+M]
+- [Moral Knowledge Product Of Moral Inquiry](../claims/moral-knowledge-product-of-moral-inquiry.md) [+W]
+- [Character Education Didacticism Critique Dewey Bridge](../claims/character-education-didacticism-critique-dewey-bridge.md) [+W]
 
 ## Related Principles
 - 
@@ -416,7 +416,7 @@ The article argues that separate lecture-and-advice oriented value education cla
 - inculcation of social and personal values through integrated, process-based teaching
 
 ### Claims
-- [Lecturing On Values Does Not Transact Values Effectively](../claims/lecturing-on-values-does-not-transact-values-effectively.md) [+M]
+- [Lecturing On Values Does Not Transact Values Effectively](../claims/lecturing-on-values-does-not-transact-values-effectively.md) [+W]
 - [Rbt Process Dimensions Value Education Objectives](../theories/rbt-process-dimensions-value-education-objectives.md) [+M]
 
 ## Related Principles

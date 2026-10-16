@@ -13,7 +13,7 @@ generated:
 # Hypothesis Testing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 11 studies (6 quant-synthesis, 4 causal, 1 theoretical), `q2`–`q4` · 5 of 11 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 10 studies (6 quant-synthesis, 3 causal, 1 theoretical), `q2`–`q4` · 5 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Hypothesis testing asks learners to commit to an explicit, testable prediction before encountering evidence, then to evaluate that prediction against the outcome. The commitment step is critical: a stated hypothesis makes the learner's prior conception inspectable, so subsequent evidence is interpreted as confirmation or disconfirmation of something specific rather than absorbed passively.

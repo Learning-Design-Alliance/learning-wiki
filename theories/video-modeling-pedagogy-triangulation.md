@@ -38,7 +38,7 @@ Video modeling pedagogy (attributed to Brown, 2007-2010) has students create sim
 - self-directed learning
 
 ### Claims
-- [Video Modeling Suits Active Deep Learning](../claims/video-modeling-suits-active-deep-learning.md) [+M]
+- [Video Modeling Suits Active Deep Learning](../claims/video-modeling-suits-active-deep-learning.md) [+W]
 
 ## Related Theories
 - 

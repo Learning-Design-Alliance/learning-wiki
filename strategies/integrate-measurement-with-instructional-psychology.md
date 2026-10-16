@@ -37,7 +37,7 @@ The paper concludes that "for purposes of instruction and instructional decision
 - sound instructional decisions about individual competence and instructional adequacy
 
 ### Claims
-- [Criterion Referenced Tests Need Construct Validation](../claims/criterion-referenced-tests-need-construct-validation.md) [+M]
+- [Criterion Referenced Tests Need Construct Validation](../claims/criterion-referenced-tests-need-construct-validation.md) [+W]
 
 ## Related Principles
 - 

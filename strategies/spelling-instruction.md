@@ -20,7 +20,7 @@ Spelling instruction teaches learners to encode words accurately by making the o
 
 ## Design Implications
 
-Explicit, systematic spelling instruction produces measurable gains in spelling accuracy and contributes to reading and writing development, because accurate word encoding and decoding draw on the same orthographic knowledge [Explicit spelling instruction improves spelling and writing outcomes.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Instruction works best when it teaches *why* a word is spelled as it is — mapping sounds to letters, identifying morphemes, and noting etymology — so learners build generalizable knowledge instead of item-by-item memorization. Weekly word-list testing alone, without instruction and feedback, yields little durable learning.
+Explicit, systematic spelling instruction produces measurable gains in spelling accuracy and contributes to reading and writing development, because accurate word encoding and decoding draw on the same orthographic knowledge [Explicit spelling instruction improves spelling and writing outcomes.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Instruction works best when it teaches *why* a word is spelled as it is — mapping sounds to letters, identifying morphemes, and noting etymology — so learners build generalizable knowledge instead of item-by-item memorization. Weekly word-list testing alone, without instruction and feedback, yields little durable learning.
 
 ### Context
 #### Requirements

@@ -20,7 +20,7 @@ Research as an instructional element places learners in the role of investigator
 
 ## Design Implications
 
-Research tasks build analytical and information literacy skills by requiring learners to locate, evaluate, and synthesize evidence rather than receive it [Inquiry-based approaches with scaffolding outperform pure discovery learning.](../claims/whole-task-performance-improves-transfer.md) [+M]. Effectiveness depends on structure: guided research with clear questions, checkpoints, and feedback reliably improves achievement, while minimally guided "pure discovery" does not [Minimal guidance is less effective for novices than guided instruction.](../claims/worked-examples-reduce-novice-search.md) [~S]. Requiring learners to explain and justify their findings deepens conceptual understanding beyond simply producing an answer [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
+Research tasks build analytical and information literacy skills by requiring learners to locate, evaluate, and synthesize evidence rather than receive it [Inquiry-based approaches with scaffolding outperform pure discovery learning.](../claims/whole-task-performance-improves-transfer.md) [+M]. Effectiveness depends on structure: guided research with clear questions, checkpoints, and feedback reliably improves achievement, while minimally guided "pure discovery" does not [Minimal guidance is less effective for novices than guided instruction.](../claims/worked-examples-reduce-novice-search.md) [~M]. Requiring learners to explain and justify their findings deepens conceptual understanding beyond simply producing an answer [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
 
 ### Context
 #### Requirements
@@ -30,7 +30,7 @@ Research tasks build analytical and information literacy skills by requiring lea
 - Feedback loops where instructors or peers critique evidence quality and reasoning
 
 #### Constraints
-- Unguided research tasks overload novices, who lack the schemas to evaluate sources or structure an investigation [Minimal guidance is less effective for novices than guided instruction.](../claims/worked-examples-reduce-novice-search.md) [-S] — Kirschner, Sweller, and Clark's critique applies directly to open-ended research assignments
+- Unguided research tasks overload novices, who lack the schemas to evaluate sources or structure an investigation [Minimal guidance is less effective for novices than guided instruction.](../claims/worked-examples-reduce-novice-search.md) [-M] — Kirschner, Sweller, and Clark's critique applies directly to open-ended research assignments
 - Weak prior knowledge of a domain makes it difficult to judge source credibility or recognize relevant evidence; research tasks work best after foundational instruction, not as a substitute for it
 - Long-duration projects without checkpoints encourage procrastination and shallow, last-minute synthesis; interim deadlines and [Check-ins](../principles/check-ins.md) are needed
 - Assessment focused only on the final product invites plagiarism and surface compliance; process artifacts (search logs, annotated bibliographies, drafts) must be assessed

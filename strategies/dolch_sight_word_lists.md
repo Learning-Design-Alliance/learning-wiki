@@ -19,7 +19,7 @@ The Dolch Sight Word list, compiled by Edward William Dolch in 1936, contains th
 
 ## Design Implications
 
-Automatic recognition of high-frequency words frees working memory and attention for comprehension, since skilled reading depends on fast, effortless word identification [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Because the list is small and bounded, it lends itself to [Chunking](../principles/chunking.md) into grade-level sets and to spaced, distributed practice rather than massed drilling. Sight-word instruction is most effective as one component of a comprehensive phonics-based reading program, not a substitute for decoding instruction [~M].
+Automatic recognition of high-frequency words frees working memory and attention for comprehension, since skilled reading depends on fast, effortless word identification [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Because the list is small and bounded, it lends itself to [Chunking](../principles/chunking.md) into grade-level sets and to spaced, distributed practice rather than massed drilling. Sight-word instruction is most effective as one component of a comprehensive phonics-based reading program, not a substitute for decoding instruction [~M].
 
 ### Context
 #### Requirements
@@ -40,12 +40,12 @@ Automatic recognition of high-frequency words frees working memory and attention
 
 ### Target Learners
 - Beginning readers in kindergarten through grade 3 building foundational word recognition
-- Struggling readers who decode laboriously and need a bank of instantly recognized high-frequency words [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Struggling readers who decode laboriously and need a bank of instantly recognized high-frequency words [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - English language learners, for whom common function words are often low-salience in input and benefit from explicit teaching
 
 ### Target Learning Goals
 - Automatic word recognition and reading fluency
-- Reduced cognitive load during reading, freeing capacity for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Reduced cognitive load during reading, freeing capacity for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Foundational vocabulary supporting early [Assigned Readings](../elements/assigned-readings.md) of leveled texts
 
 ### Instructions

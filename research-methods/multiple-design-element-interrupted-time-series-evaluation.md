@@ -66,8 +66,8 @@ The article frames causal inference in augmented ITS designs as a pattern-matchi
 
 ### Claims
 
-- [Its Design Elements Collective Causal Warrant](../claims/its-design-elements-collective-causal-warrant.md) [+M]
-- [Adding Design Elements To Its Promotes Causal Inference](../claims/adding-design-elements-to-its-promotes-causal-inference.md) [+M]
+- [Its Design Elements Collective Causal Warrant](../claims/its-design-elements-collective-causal-warrant.md) [+W]
+- [Adding Design Elements To Its Promotes Causal Inference](../claims/adding-design-elements-to-its-promotes-causal-inference.md) [+W]
 - [Ambiguous preintervention functional forms and other factors affecting posttest means and slopes are common in ITS applications](../claims/its-ambiguous-preintervention-functional-forms-common.md) [+W]
 - [The single-group ITS design's counterfactual rests on the assumption that the pretest functional form can be validly estimated and extrapolated into the postintervention period, an assumption the authors call problematic](../claims/its-single-group-counterfactual-assumption-problematic.md) [+W]
 

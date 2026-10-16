@@ -18,7 +18,7 @@ sources:
 # Adaptive Difficulty
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (3 for, 3 mixed) · 7 studies (3 design, 2 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 7 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 6 studies (2 quant-synthesis, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 6 report an effect size · 4 claims rest on one study
 
 ## Description
 Adaptive difficulty adjusts task challenge in response to learner performance so work remains demanding enough to promote growth without becoming discouraging or trivial.

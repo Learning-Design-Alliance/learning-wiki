@@ -17,7 +17,7 @@ sources:
 # Form if-then implementation intentions (specifying when, where, and how) to support goal achievement
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 2 studies (1 causal, 1 quant-synthesis), `q3`–`q4` · 1 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (1 causal, 1 quant-synthesis), `q3`–`q4` · 1 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 A concrete, implementable self-regulation strategy: learners form plans in the format "If situation Y is encountered, then I will initiate goal-directed behavior X!", spelling out the when, where, and how of goal striving in advance. The meta-analysis supports this strategy with a medium-to-large pooled effect (d = .65) on goal attainment and shows it operates by making specified opportunities more accessible and automating the planned response.

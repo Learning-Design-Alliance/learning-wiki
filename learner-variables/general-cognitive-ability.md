@@ -12,7 +12,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 42 claims (23 show a difference, 11 mixed, 8 no difference) · 35 studies (14 causal, 6 quant-synthesis, 6 review, 6 associational, 3 theoretical), `q1`–`q4` · 9 of 35 report an effect size · 39 claims rest on one study
+> **Evidence** · 44 claims (23 show a difference, 11 mixed, 8 no difference, 2 unmarked) · 36 studies (14 causal, 7 review, 6 quant-synthesis, 6 associational, 3 theoretical), `q1`–`q4` · 10 of 36 report an effect size · 41 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.

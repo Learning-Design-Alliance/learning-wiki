@@ -38,7 +38,7 @@ A design recommendation for research synthesis methodology: because bias is inhe
 - rigorous, replicable research synthesis of learning-intervention effects
 
 ### Claims
-- [Meta Analysis Variation From Methodological Choices](../claims/meta-analysis-variation-from-methodological-choices.md) [+M]
+- [Meta Analysis Variation From Methodological Choices](../claims/meta-analysis-variation-from-methodological-choices.md) [+W]
 
 ## Related Principles
 - 

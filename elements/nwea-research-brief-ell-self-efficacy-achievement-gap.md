@@ -17,7 +17,7 @@ sources:
 # NWEA research brief on English Language Learners, self-efficacy, and the achievement gap
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (2 associational), `q1` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A short NWEA research brief titled "English Language Learners, self-efficacy, and the achievement gap", listed on the webinar page under "Associated Research" alongside the working paper. It serves as the accessible summary product for the same line of research on ELL self-efficacy and achievement gaps presented in the webinar.

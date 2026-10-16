@@ -37,8 +37,8 @@ A school-level organizational pattern in which principals delegate leadership fu
 - School-wide academic achievement, growth targets, and student support
 
 ### Claims
-- [Foxglove Decentralized Leadership Weak Coordination](../claims/foxglove-decentralized-leadership-weak-coordination.md) [~M]
-- [Ivy Teacher Led Goals Collective Decisions](../claims/ivy-teacher-led-goals-collective-decisions.md) [+M]
+- [Foxglove Decentralized Leadership Weak Coordination](../claims/foxglove-decentralized-leadership-weak-coordination.md) [~W]
+- [Ivy Teacher Led Goals Collective Decisions](../claims/ivy-teacher-led-goals-collective-decisions.md) [+W]
 
 ## Related Designs
 - 

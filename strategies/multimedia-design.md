@@ -29,7 +29,7 @@ Multimedia design is grounded in Cognitive Theory of Multimedia Learning: learne
 - Segmentation controls (pause, next) or pre-segmented chunks for complex material
 
 #### Constraints
-- Redundant on-screen text read aloud verbatim from narration hurts learning [Redundant on-screen text with narration hurts learning.](../claims/redundancy-principle.md) [~S] — the effect reverses when learners are non-native speakers or the text is short
+- Redundant on-screen text read aloud verbatim from narration hurts learning [Redundant on-screen text with narration hurts learning.](../claims/redundancy-principle.md) [~M] — the effect reverses when learners are non-native speakers or the text is short
 - Over-signaling (cuing everything) eliminates the benefit of signaling [~M]
 - Learner-paced segmentation helps novices but can be unnecessary overhead for experts [~M]
 - Decorative graphics and background music consume capacity without aiding learning [Irrelevant seductive details hurt learning.](../claims/coherence-principle-irrelevant-material-hurts-learning.md) [-S]

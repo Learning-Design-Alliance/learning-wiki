@@ -47,7 +47,7 @@ Scorecards operationalize culturally responsive pedagogy by making its criteria 
 
 ### Target Learning Goals
 - Equity of access: ensuring prerequisite knowledge activation is possible for all learners by making materials relatable and familiar
-- Identity and belonging: supporting engagement and persistence, which is predicted by learner self-efficacy [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+S]
+- Identity and belonging: supporting engagement and persistence, which is predicted by learner self-efficacy [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
 - Critical literacy: when students use the scorecard themselves, evaluating texts for perspective and representation becomes a learning objective in its own right
 
 ### Instructions

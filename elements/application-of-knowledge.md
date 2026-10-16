@@ -30,7 +30,7 @@ Application is where learning consolidates: retrieving and using knowledge in va
 - Variation across problems so learners abstract the underlying principle rather than memorizing one solution path [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 #### Constraints
-- Unguided application for novices can overload working memory and produce minimal learning; guidance or scaffolds must be present [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [-S]
+- Unguided application for novices can overload working memory and produce minimal learning; guidance or scaffolds must be present [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [-M]
 - Pure discovery-style application without feedback often entrenches errors and misconceptions
 - If all application tasks share one surface format, learners bind knowledge to that context and fail to transfer [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [~M]
 - Application tasks consume substantial time; for simple factual objectives, retrieval practice may be more efficient

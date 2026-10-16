@@ -41,7 +41,7 @@ sources:
 # Value-added modeling
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 40 claims (30 for, 9 mixed, 1 against) · 22 studies (18 associational, 2 review, 2 design), `q1`–`q3` · 0 of 22 report an effect size · 39 claims rest on one study
+> **Evidence** · 39 claims (29 for, 9 mixed, 1 against) · 22 studies (18 associational, 2 review, 2 design), `q1`–`q3` · 0 of 22 report an effect size · 38 claims rest on one study
 
 ## Description
 Value-added measures quantify a teacher's contribution to students' learning gains. The brief defines the approach: "'Value added' is a teacher's contribution to students' learning gains." It reports that newly emerging research uses these measures to shed light on disadvantaged students' access to effective teaching, and that variation in how researchers present such evidence complicates practitioner use.
@@ -230,7 +230,7 @@ The report treats value-added methods as an organizing framework for measuring e
 
 ### Claims
 
-- [Oklahoma Pilot Evaluation Value Added Model 2012 13](../claims/oklahoma-pilot-evaluation-value-added-model-2012-13.md) [+M]
+- [Oklahoma Pilot Evaluation Value Added Model 2012 13](../claims/oklahoma-pilot-evaluation-value-added-model-2012-13.md) [+W]
 - [The report explicitly discusses limitations of the Oklahoma value-added model](../claims/oklahoma-value-added-model-limitations-discussed.md) [~W]
 - [The report documents a value-added method combining nontechnical description of main features with data sources and technical statistical detail](../claims/dc-value-added-report-design-features.md) [+W]
 - [A value-added-style method was used to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia in the project's first year.](../claims/charter-consortium-effective-school-identification-method.md) [+W]

@@ -19,7 +19,7 @@ Decodable texts are beginning-reader texts in which the majority of words can be
 
 ## Design Implications
 
-Decodable texts operationalize the principle that reading practice should be done *by decoding*, not by guessing from pictures or context. When texts are decodable, students must apply letter–sound knowledge, which strengthens orthographic mapping and builds [automaticity](../elements/automaticity.md) in word recognition [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Systematic phonics instruction — which decodable texts are designed to accompany — produces reliable gains in word reading for early and struggling readers [Ehri et al.'s meta-analysis of systematic phonics.](https://doi.org/10.1598/RRQ.36.2.5) [+S]. If texts are *not* decodable, students default to prediction and memorization strategies that bypass the alphabetic mechanism the instruction is meant to build [~M].
+Decodable texts operationalize the principle that reading practice should be done *by decoding*, not by guessing from pictures or context. When texts are decodable, students must apply letter–sound knowledge, which strengthens orthographic mapping and builds [automaticity](../elements/automaticity.md) in word recognition [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Systematic phonics instruction — which decodable texts are designed to accompany — produces reliable gains in word reading for early and struggling readers [Ehri et al.'s meta-analysis of systematic phonics.](https://doi.org/10.1598/RRQ.36.2.5) [+S]. If texts are *not* decodable, students default to prediction and memorization strategies that bypass the alphabetic mechanism the instruction is meant to build [~M].
 
 ### Context
 #### Requirements
@@ -46,7 +46,7 @@ Decodable texts operationalize the principle that reading practice should be don
 
 ### Target Learning Goals
 - Alphabetic principle: applying grapheme–phoneme correspondences in connected text
-- Word-reading automaticity and fluency [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Word-reading automaticity and fluency [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Reading accuracy and self-correction, prior to comprehension-focused goals
 
 ### Instructions

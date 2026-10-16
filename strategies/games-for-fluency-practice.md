@@ -19,7 +19,7 @@ Games for fluency practice embed repeated, timed retrieval or execution of a alr
 
 ## Design Implications
 
-Fluency — fast, accurate, effortless execution — frees working memory for higher-order processing, which is why automatic word recognition predicts comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Games are effective fluency vehicles because they motivate the high response rates and repeated trials that fluency requires, and because immediate scoring functions as [feedback](../elements/feedback.md) on each trial [+M]. The critical design rule is that the *game mechanic must require the target skill*: if players can win through luck, strategy, or general knowledge, the game becomes entertainment rather than practice [-M].
+Fluency — fast, accurate, effortless execution — frees working memory for higher-order processing, which is why automatic word recognition predicts comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Games are effective fluency vehicles because they motivate the high response rates and repeated trials that fluency requires, and because immediate scoring functions as [feedback](../elements/feedback.md) on each trial [+M]. The critical design rule is that the *game mechanic must require the target skill*: if players can win through luck, strategy, or general knowledge, the game becomes entertainment rather than practice [-M].
 
 ### Context
 #### Requirements

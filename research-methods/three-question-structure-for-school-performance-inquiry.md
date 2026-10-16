@@ -62,7 +62,7 @@ The article presents a framework offering "an improved measurement strategy stat
 - School performance measurement and improvement decision-making
 
 ### Claims
-- [Grouping Outcomes Impacts Processes Yields Diagnostically Useful Information](../claims/grouping-outcomes-impacts-processes-yields-diagnostically-useful-information.md) [+M]
+- [Grouping Outcomes Impacts Processes Yields Diagnostically Useful Information](../claims/grouping-outcomes-impacts-processes-yields-diagnostically-useful-information.md) [+W]
 
 ## Related Theories
 - 

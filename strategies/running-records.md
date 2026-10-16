@@ -19,7 +19,7 @@ A running record is a standardized observational assessment in which a teacher l
 
 ## Design Implications
 
-Running records operationalize [Assessment for Learning](../principles/assessment-for-learning.md): the observation is only valuable insofar as it changes the next lesson's teaching [Formative assessment improves achievement.](../claims/assessment-for-learning-improves-achievement.md) [+S]. Accurate word recognition is the gateway to comprehension, because decoding that consumes working memory leaves fewer resources for meaning-making [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. The record is a form of contingent diagnosis — its power comes from matching the follow-up teaching to what the child actually did, not to a generic script [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M].
+Running records operationalize [Assessment for Learning](../principles/assessment-for-learning.md): the observation is only valuable insofar as it changes the next lesson's teaching [Formative assessment improves achievement.](../claims/assessment-for-learning-improves-achievement.md) [+S]. Accurate word recognition is the gateway to comprehension, because decoding that consumes working memory leaves fewer resources for meaning-making [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. The record is a form of contingent diagnosis — its power comes from matching the follow-up teaching to what the child actually did, not to a generic script [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Running records operationalize [Assessment for Learning](../principles/assessmen
 - **Digital capture** — apps that record audio alongside coding allow later verification of ambiguous errors
 
 ### Target Learners
-- Beginning readers (K–2) still building decoding [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Beginning readers (K–2) still building decoding [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Struggling readers in intervention settings, where error patterns guide targeted teaching
 - Less informative for fluent readers, whose errors are rare and often comprehension-driven rather than diagnostic of decoding [~M]
 

@@ -222,7 +222,7 @@ Applying Newton's third law as a metaphor, the essay argues every educational ch
 - [Language Subjective Emotional Aesthetic](../claims/language-subjective-emotional-aesthetic.md) [+W]
 - [Science Values Imposed On Language](../claims/science-values-imposed-on-language.md) [+W]
 - [Washington's insistence on the correctness of his Tuskegee method stifled the emergence of new ideas and narrowed his system's application](../claims/washington-tuskegee-method-stifled-new-ideas.md) [+W]
-- [Mead Rapid Change Obsoletes Knowledge](../claims/mead-rapid-change-obsoletes-knowledge.md) [+M]
+- [Mead Rapid Change Obsoletes Knowledge](../claims/mead-rapid-change-obsoletes-knowledge.md) [+W]
 - [Mead argued education functions as a mechanism of social and cultural change, not only cultural transmission](../claims/mead-education-as-mechanism-of-social-change.md) [+W]
 
 ## Related Principles
@@ -347,8 +347,8 @@ The address recommends that language arts teachers hold scientific and poetic tr
 - learning how to live and find life's purposes
 
 ### Claims
-- [Language Subjective Emotional Aesthetic](../claims/language-subjective-emotional-aesthetic.md) [+M]
-- [Science Values Imposed On Language](../claims/science-values-imposed-on-language.md) [+M]
+- [Language Subjective Emotional Aesthetic](../claims/language-subjective-emotional-aesthetic.md) [+W]
+- [Science Values Imposed On Language](../claims/science-values-imposed-on-language.md) [+W]
 
 ## Related Principles
 
@@ -389,7 +389,7 @@ Drawing on Mead's 1958-1959 essays, the report describes a shift from purely ver
 
 ### Claims
 
-- [Mead Rapid Change Obsoletes Knowledge](../claims/mead-rapid-change-obsoletes-knowledge.md) [+M]
+- [Mead Rapid Change Obsoletes Knowledge](../claims/mead-rapid-change-obsoletes-knowledge.md) [+W]
 - [Mead argued education functions as a mechanism of social and cultural change, not only cultural transmission](../claims/mead-education-as-mechanism-of-social-change.md) [+W]
 
 ## Related Principles

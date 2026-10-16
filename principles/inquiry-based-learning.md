@@ -51,7 +51,7 @@ sources:
 # Inquiry-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 44 claims (26 for, 12 mixed, 5 against, 1 unmarked) · 57 studies (15 quant-synthesis, 14 causal, 7 review, 7 design, 6 qualitative, 6 theoretical, 2 associational), `q1`–`q4` · 14 of 57 report an effect size · 31 claims rest on one study
+> **Evidence** · 43 claims (25 for, 12 mixed, 5 against, 1 unmarked) · 57 studies (15 quant-synthesis, 14 causal, 7 review, 7 design, 6 qualitative, 6 theoretical, 2 associational), `q1`–`q4` · 14 of 57 report an effect size · 30 claims rest on one study
 
 ## Conditional relationship
 
@@ -815,7 +815,7 @@ The pattern is useful when the goal is to build conceptual understanding through
 #### Supporting
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
-- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~S]
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~M]
 #### Contradicting
 
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M]

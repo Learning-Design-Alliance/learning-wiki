@@ -19,7 +19,7 @@ This strategy embeds vocabulary instruction within the texts learners are actual
 
 ## Design Implications
 
-Vocabulary learned in context is more durable because the surrounding text supplies semantic associations and usage constraints that a definition alone cannot [Stahl & Fairbanks' meta-analysis found context-based vocabulary instruction improves both word knowledge and comprehension.](../claims/activation-improves-learning.md) [+S]. Word selection matters more than word quantity: a small set of words chosen for their centrality to the text's meaning and their general utility outperforms exhaustive pre-teaching [~S]. Because working memory is limited, pre-teaching a handful of key terms before reading reduces the load of decoding unfamiliar words during comprehension [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M], and fluent word recognition frees attention for meaning-making [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S].
+Vocabulary learned in context is more durable because the surrounding text supplies semantic associations and usage constraints that a definition alone cannot [Stahl & Fairbanks' meta-analysis found context-based vocabulary instruction improves both word knowledge and comprehension.](../claims/activation-improves-learning.md) [+S]. Word selection matters more than word quantity: a small set of words chosen for their centrality to the text's meaning and their general utility outperforms exhaustive pre-teaching [~S]. Because working memory is limited, pre-teaching a handful of key terms before reading reduces the load of decoding unfamiliar words during comprehension [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M], and fluent word recognition frees attention for meaning-making [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M].
 
 ### Context
 #### Requirements
@@ -43,7 +43,7 @@ Vocabulary learned in context is more durable because the surrounding text suppl
 ### Target Learners
 - Elementary through secondary readers encountering academic language in content-area texts [+S]
 - English language learners, who benefit from explicit explanation paired with rich context rather than inference alone [+M]
-- Struggling readers, for whom unfamiliar vocabulary is a primary comprehension bottleneck [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Struggling readers, for whom unfamiliar vocabulary is a primary comprehension bottleneck [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Less beneficial for proficient readers with strong vocabulary, for whom pre-teaching is redundant [~M]
 
 ### Target Learning Goals

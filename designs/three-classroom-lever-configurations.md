@@ -39,7 +39,7 @@ The paper presents three full configurations of all seven levers drawn from clas
 - communication, ownership, meaning-making
 
 ### Claims
-- [Reach Organizing Question Unsupervised Ai Use](../claims/reach-organizing-question-unsupervised-ai-use.md) [+M]
+- [Reach Organizing Question Unsupervised Ai Use](../claims/reach-organizing-question-unsupervised-ai-use.md) [+W]
 
 ## Related Designs
 - 

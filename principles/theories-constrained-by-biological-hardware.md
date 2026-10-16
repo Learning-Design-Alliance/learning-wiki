@@ -37,7 +37,7 @@ The paper argues that cognitive psychology, unlike artificial intelligence, must
 - building biologically plausible theories of cognition, memory, and comprehension
 
 ### Claims
-- [Cognition Transient Distributed Functioning](../claims/cognition-transient-distributed-functioning.md) [+M]
+- [Cognition Transient Distributed Functioning](../claims/cognition-transient-distributed-functioning.md) [+W]
 
 ## Related Principles
 - 

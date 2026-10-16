@@ -23,7 +23,7 @@ sources:
 # Use computer tools that let students explore hypotheses and solutions faster so they can test many ideas without frustration
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (9 for, 8 mixed) · 10 studies (3 review, 2 causal, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 3 of 10 report an effect size · 16 claims rest on one study
+> **Evidence** · 16 claims (8 for, 8 mixed) · 10 studies (3 review, 2 causal, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 3 of 10 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 

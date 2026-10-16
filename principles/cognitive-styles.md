@@ -240,8 +240,8 @@ The article argues that teachers should recognize students' style preferences an
 - Optimizing application of intelligence in and out of school
 
 ### Claims
-- [Schools Reward Executive Styles](../claims/schools-reward-executive-styles.md) [+M]
-- [Styles Socialized And Modifiable](../claims/styles-socialized-and-modifiable.md) [+M]
+- [Schools Reward Executive Styles](../claims/schools-reward-executive-styles.md) [+W]
+- [Styles Socialized And Modifiable](../claims/styles-socialized-and-modifiable.md) [+W]
 
 ## Related Principles
 

@@ -30,7 +30,7 @@ Fluency in basic facts is a well-documented predictor of later mathematics achie
 - Immediate feedback on accuracy
 
 #### Constraints
-- Timed pressure before conceptual understanding is established produces anxiety and counting-based guessing rather than retrieval [Math anxiety consumes working memory and degrades performance under timed conditions.](../claims/math-anxiety-degrades-performance.md) [~S] — learners with high math anxiety are disproportionately harmed
+- Timed pressure before conceptual understanding is established produces anxiety and counting-based guessing rather than retrieval [Math anxiety consumes working memory and degrades performance under timed conditions.](../claims/math-anxiety-degrades-performance.md) [~M] — learners with high math anxiety are disproportionately harmed
 - Public speed comparisons (leaderboards, fastest-student norms) create negative affect and stereotype threat effects without improving fluency gains [-M]
 - Drills alone do not build number sense, estimation, or problem-solving; overuse displaces higher-order mathematics [-M]
 - Ineffective when learners can circumvent retrieval by finger-counting or skip-counting within the time limit [~M]

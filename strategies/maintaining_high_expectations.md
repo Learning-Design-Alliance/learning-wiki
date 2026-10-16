@@ -20,7 +20,7 @@ In culturally responsive instruction, achievement expectations are determined in
 
 ## Design Implications
 
-High expectations function as a motivational signal: students infer their own capability partly from the difficulty of the work and feedback they receive. Specific, challenging goals produce higher performance than vague or easy ones [Specific difficult goals lead to higher performance.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S], and self-efficacy built through mastery experiences predicts persistence [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]. The key is pairing demanding goals with process-level guidance, so that struggle is framed as solvable rather than as evidence of inability.
+High expectations function as a motivational signal: students infer their own capability partly from the difficulty of the work and feedback they receive. Specific, challenging goals produce higher performance than vague or easy ones [Specific difficult goals lead to higher performance.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+M], and self-efficacy built through mastery experiences predicts persistence [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]. The key is pairing demanding goals with process-level guidance, so that struggle is framed as solvable rather than as evidence of inability.
 
 ### Context
 #### Requirements
@@ -68,7 +68,7 @@ High expectations function as a motivational signal: students infer their own ca
 
 ### Instructions
 1. Establish each learner's current performance level through diagnostic or formative assessment ([Assess Performance](../elements/assess-performance.md)).
-2. Set a specific, challenging but attainable goal for each learner — difficult enough to require effort, close enough to current ability to be reachable [Specific difficult goals lead to higher performance.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S].
+2. Set a specific, challenging but attainable goal for each learner — difficult enough to require effort, close enough to current ability to be reachable [Specific difficult goals lead to higher performance.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+M].
 3. When the learner struggles, guide them through the initial steps — model, prompt, or break down the task — rather than reducing the goal ([Practice](../elements/practice.md)).
 4. Give praise proportional to genuine accomplishment, and make feedback process-focused: what the learner did and how to improve next [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
 5. Have learners reflect on progress toward their own goals ([Individual Reflection](../elements/individual-reflection.md)), reinforcing accurate self-evaluation.
@@ -116,7 +116,7 @@ Maintaining high expectations means holding every student accountable to demandi
 
 ## Design Implications
 
-High expectations work through the combination of demanding goals and strong support — the "warm demander" stance. Challenging, specific goals produce higher performance than easy or vague goals [Specific difficult goals lead to higher performance.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S], and teacher expectations shape student self-efficacy, which in turn predicts persistence [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]. The critical design condition is that expectations are paired with actionable feedback and scaffolding; demandingness without support produces disengagement rather than achievement.
+High expectations work through the combination of demanding goals and strong support — the "warm demander" stance. Challenging, specific goals produce higher performance than easy or vague goals [Specific difficult goals lead to higher performance.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+M], and teacher expectations shape student self-efficacy, which in turn predicts persistence [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]. The critical design condition is that expectations are paired with actionable feedback and scaffolding; demandingness without support produces disengagement rather than achievement.
 
 ### Context
 #### Requirements

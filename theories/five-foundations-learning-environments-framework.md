@@ -37,7 +37,7 @@ The paper classifies learning environments by five underlying foundations: psych
 
 ### Claims
 
-- [Foundation Integration Predicts Environment Success](../claims/foundation-integration-predicts-environment-success.md) [+M]
+- [Foundation Integration Predicts Environment Success](../claims/foundation-integration-predicts-environment-success.md) [+W]
 - [Underlying assumptions dictate how the five foundations are operationalized in a learning environment](../claims/assumptions-dictate-foundation-operationalization.md) [+W]
 
 ## Related Theories

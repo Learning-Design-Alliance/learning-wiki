@@ -28,8 +28,8 @@ Multisensory presentation works because separate processing channels for visual 
 - Modality choices that respect total working memory capacity, since each added channel can also add load [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [-S]
 
 #### Constraints
-- Redundant presentation — identical text spoken and displayed — hurts learning compared with narration alone [Redundant on-screen text with narration impairs learning.](../claims/redundancy-principle.md) [-S]
-- Splitting attention between two visual sources (diagram plus text describing it) forces costly integration [Split attention between sources impairs learning.](../claims/split-attention-effect-degrades-learning.md) [-S]
+- Redundant presentation — identical text spoken and displayed — hurts learning compared with narration alone [Redundant on-screen text with narration impairs learning.](../claims/redundancy-principle.md) [-M]
+- Splitting attention between two visual sources (diagram plus text describing it) forces costly integration [Split attention between sources impairs learning.](../claims/split-attention-effect-degrades-learning.md) [-M]
 - Benefits shrink for learners with strong prior knowledge, who can integrate representations on their own [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
 - For learners with sensory processing differences, added modalities can distract rather than support; modality choice must be adjustable
 
@@ -54,7 +54,7 @@ Multisensory presentation works because separate processing channels for visual 
 2. Create or select visuals that are essential, not decorative [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-S]
 3. Synchronize narration with the corresponding visual segment; avoid displaying the narration as on-screen text [Multimedia learning is improved by presenting words as narration rather than on-screen text.](../claims/modality-effect-narration-over-text.md) [+S]
 4. Add a learner activity that requires integrating the modalities, such as labeling a diagram or explaining the visual in words ([Annotating](../principles/annotating.md))
-5. Check total load; remove any channel that duplicates rather than complements [Redundant on-screen text with narration impairs learning.](../claims/redundancy-principle.md) [-S]
+5. Check total load; remove any channel that duplicates rather than complements [Redundant on-screen text with narration impairs learning.](../claims/redundancy-principle.md) [-M]
 
 ## Related Strategies
 

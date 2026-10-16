@@ -62,7 +62,7 @@ The Montebello project built on the 5E Instructional Model (Engage, Explore, Exp
 - academic language development
 
 ### Claims
-- [Inquiry Science Contextualized Authentic Language](../claims/inquiry-science-contextualized-authentic-language.md) [+M]
+- [Inquiry Science Contextualized Authentic Language](../claims/inquiry-science-contextualized-authentic-language.md) [+W]
 
 ## Related Designs
 - 

@@ -30,7 +30,7 @@ Attention-gaining events increase readiness to learn by creating an information 
 - Perceptual salience (contrast, movement, sound) used sparingly and pointed at the content
 
 #### Constraints
-- Irrelevant but interesting "seductive details" divert attention from the target content and reduce recall [Seductive details harm learning more than they help.](../claims/relevancy-of-emphasis-directs-attention.md) [-S]
+- Irrelevant but interesting "seductive details" divert attention from the target content and reduce recall [Seductive details harm learning more than they help.](../claims/relevancy-of-emphasis-directs-attention.md) [-M]
 - Novelty effects decay quickly; repeated use of the same hook type loses its effect within a few sessions [~M]
 - High-arousal hooks can overload working memory for novices, leaving fewer resources for encoding [~M]
 - In self-paced e-learning, attention gains from multimedia cues are modest and depend on the cue marking essential content [~M]

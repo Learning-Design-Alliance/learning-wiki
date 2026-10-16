@@ -55,7 +55,7 @@ Processing speed shares substantial variance with working memory and fluid reaso
 3. **Route content through the strength.** Provide graphic organizers, manipulatives, or verbal summaries matched to the stronger channel; pair new material with [advance organizers](../elements/advance-organizers.md) so intake has a structure to attach to.
 4. **Protect thinking time.** Build in explicit wait time after questions, allow re-reading, and separate speed from scoring on assessments.
 5. **Set achievable micro-goals.** Break multi-step tasks into [achievable micro-goals](achievable_micro-goals.md) so slow processors experience completion rather than accumulating backlog.
-6. **Give process-level feedback.** Feedback on strategy use rather than speed [feedback-most-effective-at-task-and-process-levels](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S], and fade supports as automaticity develops [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S].
+6. **Give process-level feedback.** Feedback on strategy use rather than speed [feedback-most-effective-at-task-and-process-levels](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S], and fade supports as automaticity develops [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M].
 
 ## Related Strategies
 - [Accommodating Processing Speed Challenges](accommodating_processing_speed_challenges.md) — the accommodation-focused sibling strategy; this page adds the strengths-routing dimension

@@ -37,7 +37,7 @@ The article recommends that evaluators apply the value-conflict taxonomy prospec
 - anticipating and managing value conflicts in evaluation design
 
 ### Claims
-- [Taxonomy Applied Salzburg Student Ratings](../claims/taxonomy-applied-salzburg-student-ratings.md) [+M]
+- [Taxonomy Applied Salzburg Student Ratings](../claims/taxonomy-applied-salzburg-student-ratings.md) [+W]
 
 ## Related Principles
 - 

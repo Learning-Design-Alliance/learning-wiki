@@ -38,7 +38,7 @@ The digest enumerates four teacher strategies for encouraging older language lea
 
 ### Claims
 
-- [No Evidence Older Adults Cannot Learn Language](../claims/no-evidence-older-adults-cannot-learn-language.md) [+M]
+- [No Evidence Older Adults Cannot Learn Language](../claims/no-evidence-older-adults-cannot-learn-language.md) [+W]
 - [Mental health, especially depression, is probably the single most decisive factor in refugee language learning](../claims/depression-decisive-factor-refugee-language-learning.md) [+W]
 
 ## Related Principles

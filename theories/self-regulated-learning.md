@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 53 claims (29 for, 21 mixed, 3 against) · 53 studies (18 associational, 12 causal, 9 quant-synthesis, 5 review, 4 theoretical, 3 qualitative, 2 design), `q1`–`q4` · 16 of 53 report an effect size · 39 claims rest on one study
+> **Evidence** · 53 claims (29 for, 21 mixed, 3 against) · 54 studies (18 associational, 13 causal, 9 quant-synthesis, 5 review, 4 theoretical, 3 qualitative, 2 design), `q1`–`q4` · 16 of 54 report an effect size · 38 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -52,7 +52,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 
 - [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [+M]
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M]
-- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S]
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+M]
 - [Argumentation quality is associated with denser co-occurrence of scientific reasoning and self-regulation processes](../claims/argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence.md) [~M]
 - [Early ability to delay gratification predicts later academic and social outcomes, but the association is weaker and more context-dependent than originally reported.](../claims/early-delay-of-gratification-predicts-later-outcomes.md) [~M] — self-control/delay of gratification is closely related to self-regulation, though the relationship to later outcomes is more context-dependent than the classic marshmallow-test framing suggests
 - [Students' SRL profile under automated scoring was uneven, and only Execution-and-Monitoring was significantly associated with score gains](../claims/srl-uneven-only-execution-monitoring-predicts-gains.md) [+M] — attached 2026-10-10 from Chen C et al. (2026), which proposed "Zimmerman's three-phase cyclical SRL model as a lens for locating which phases automated feedback reaches".

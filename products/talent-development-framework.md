@@ -105,8 +105,8 @@ The Talent Development Framework is a comprehensive model of the state policy an
 - Systemic improvement of educator quality and equitable student access to effective teachers and school leaders
 
 ### Claims
-- [Piecemeal Educator Policymaking Drains Talent](../claims/piecemeal-educator-policymaking-drains-talent.md) [+M]
-- [Unified Talent Data System Generates Prioritization Insights](../claims/unified-talent-data-system-generates-prioritization-insights.md) [+M]
+- [Piecemeal Educator Policymaking Drains Talent](../claims/piecemeal-educator-policymaking-drains-talent.md) [+W]
+- [Unified Talent Data System Generates Prioritization Insights](../claims/unified-talent-data-system-generates-prioritization-insights.md) [+W]
 
 ## Related Theories
 - 

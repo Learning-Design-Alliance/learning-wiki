@@ -41,7 +41,7 @@ Generating a question requires learners to identify the main ideas, gaps, and re
 - **Reciprocal Teaching full protocol:** questioning embedded with predicting, clarifying, and summarizing in small groups with [Coaching](../elements/coaching.md) that fades over time
 
 ### Target Learners
-- Middle-grade through adult readers; strongest effects documented for struggling readers in grades 3–8 [Reciprocal teaching improves comprehension for struggling readers.](../claims/reciprocal-teaching-improves-reading-comprehension.md) [+S]
+- Middle-grade through adult readers; strongest effects documented for struggling readers in grades 3–8 [Reciprocal teaching improves comprehension for struggling readers.](../claims/reciprocal-teaching-improves-reading-comprehension.md) [+M]
 - Learners who passively read but do not self-monitor; question generation forces active comprehension checking
 - Less effective for novices who lack enough domain knowledge to judge what is worth asking [~M]
 

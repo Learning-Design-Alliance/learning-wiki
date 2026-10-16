@@ -15,7 +15,7 @@ generated:
 > **Evidence** · 4 claims (3 for, 1 against) · 11 studies (4 causal, 4 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 4 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
-Multisensory memory strategies for irregular words involve using multiple senses (visual, auditory, kinesthetic, and tactile) to enhance memory and retention of irregularly spelled words. Typical techniques include grouping words with memorable similarities, calling attention to the "odd" parts of words, repeated practice through copying and saying letters while writing, discussing the irregularities explicitly, and using mnemonics. The approach exists because irregular words do not follow typical phoneme–grapheme correspondences and therefore cannot be fully decoded with standard phonics rules; they must be secured in memory as whole-unit orthographic representations [Ehri's orthographic mapping account.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S].
+Multisensory memory strategies for irregular words involve using multiple senses (visual, auditory, kinesthetic, and tactile) to enhance memory and retention of irregularly spelled words. Typical techniques include grouping words with memorable similarities, calling attention to the "odd" parts of words, repeated practice through copying and saying letters while writing, discussing the irregularities explicitly, and using mnemonics. The approach exists because irregular words do not follow typical phoneme–grapheme correspondences and therefore cannot be fully decoded with standard phonics rules; they must be secured in memory as whole-unit orthographic representations [Ehri's orthographic mapping account.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M].
 
 ## Design Implications
 
@@ -42,12 +42,12 @@ Multisensory encoding supports retention by giving learners redundant retrieval 
 - **Mnemonic embedding**: memorable sentences or images anchored to the word's spelling ("there is *a rat* in *separate*")
 
 ### Target Learners
-- Beginning readers in grades 1–3 who have not yet secured high-frequency irregular words [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Beginning readers in grades 1–3 who have not yet secured high-frequency irregular words [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Older struggling readers and students with dyslexia, for whom structured, explicit, multisensory instruction is a common component of remedial programs [+M]
 - Less necessary for learners who have already absorbed the word through reading volume; redundant for words already mapped [~M]
 
 ### Target Learning Goals
-- Automatic recognition of high-frequency irregular words, freeing working memory for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Automatic recognition of high-frequency irregular words, freeing working memory for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Spelling accuracy for non-phonetic words
 - Metalinguistic awareness: understanding that some spellings are historically irregular and must be memorized by attending to letter structure
 

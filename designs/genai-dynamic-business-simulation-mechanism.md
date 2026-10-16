@@ -38,7 +38,7 @@ The third of the article's three proposed mechanisms. The article states that "T
 - decision-making under uncertainty in complex business environments
 
 ### Claims
-- [Three Challenges Memorization Management Education](../claims/three-challenges-memorization-management-education.md) [+M]
+- [Three Challenges Memorization Management Education](../claims/three-challenges-memorization-management-education.md) [+W]
 
 ## Related Designs
 - 

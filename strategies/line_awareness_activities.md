@@ -19,7 +19,7 @@ Line awareness activities develop the visual–motor skill of placing letters co
 
 ## Design Implications
 
-Line awareness is a component of handwriting legibility, and explicit, structured handwriting instruction produces measurable gains in legibility for young writers [Explicit handwriting instruction improves legibility more than incidental exposure.](../claims/explicit-handwriting-instruction-improves-legibility.md) [+S]. Visual cues such as highlighted baselines or color-coded zones reduce the working-memory and perceptual demands of placement decisions, letting learners attend to letter formation [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Gains depend on repeated, distributed practice with feedback rather than a single remediation session [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
+Line awareness is a component of handwriting legibility, and explicit, structured handwriting instruction produces measurable gains in legibility for young writers [Explicit handwriting instruction improves legibility more than incidental exposure.](../claims/explicit-handwriting-instruction-improves-legibility.md) [+M]. Visual cues such as highlighted baselines or color-coded zones reduce the working-memory and perceptual demands of placement decisions, letting learners attend to letter formation [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Gains depend on repeated, distributed practice with feedback rather than a single remediation session [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ### Context
 #### Requirements

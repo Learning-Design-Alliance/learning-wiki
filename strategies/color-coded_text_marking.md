@@ -29,7 +29,7 @@ Color coding works because it forces learners to make classification decisions a
 - Modeling of the scheme on a sample passage ([Think-Aloud](../elements/think-aloud.md) or [Demonstration](../elements/demonstration.md)) before independent use
 
 #### Constraints
-- Unstructured highlighting — marking without categories or training — produces little benefit and can *reduce* performance by creating an illusion of mastery [Student-generated underlining is frequently superficial and less effective than experimenter-selected marking.](../claims/experimenter-underlining-effective-as-student-underlining.md) [-S]
+- Unstructured highlighting — marking without categories or training — produces little benefit and can *reduce* performance by creating an illusion of mastery [Student-generated underlining is frequently superficial and less effective than experimenter-selected marking.](../claims/experimenter-underlining-effective-as-student-underlining.md) [-M]
 - Over-marking (more than ~5 categories, or marking most of the text) eliminates the distinctiveness advantage and adds extraneous cognitive load [Cognitive overload from excessive marking degrades learning.](../claims/cognitive-overload-degrades-learning.md) [-M]
 - Color alone carries no meaning; purely decorative color use does not improve learning [Decorative color and illustration do not improve learning without relevant function.](../claims/seductive-details-effect.md) [~M]
 - Learners with certain visual impairments or color-vision deficiencies need non-color redundancies (symbols, underlining styles) as part of accessible design

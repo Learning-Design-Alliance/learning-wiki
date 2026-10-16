@@ -39,7 +39,7 @@ The paper proposes organizing educational content as bounded, modality-agnostic 
 - Preserving the intended learning objective across multiple interface representations
 
 ### Claims
-- [Runtime Genui Too Late Costly Inequitable](../claims/runtime-genui-too-late-costly-inequitable.md) [+M]
+- [Runtime Genui Too Late Costly Inequitable](../claims/runtime-genui-too-late-costly-inequitable.md) [+W]
 
 ## Related Designs
 - 

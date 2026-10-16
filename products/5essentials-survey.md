@@ -77,7 +77,7 @@ sources:
 # 5Essentials Survey
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 34 claims (31 for, 2 mixed, 1 against) · 16 studies (14 associational, 1 causal, 1 design), `q1`–`q3` · 0 of 16 report an effect size · 33 claims rest on one study
+> **Evidence** · 34 claims (31 for, 2 mixed, 1 against) · 18 studies (15 associational, 2 causal, 1 design), `q1`–`q3` · 0 of 18 report an effect size · 33 claims rest on one study
 
 ## Description
 The 5Essentials Survey is a statewide school-climate and organizational-conditions assessment developed by the University of Chicago Consortium on School Research and administered to Illinois students and teachers by the Illinois State Board of Education.

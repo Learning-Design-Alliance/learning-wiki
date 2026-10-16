@@ -20,7 +20,7 @@ Proximity (spatial contiguity) is the design principle that related pieces of in
 
 ## Design Implications
 
-Integrating text with corresponding graphics reduces extraneous cognitive load imposed by visual search and split attention, producing better learning than separated presentations [Integrating text and graphics near each other improves learning compared to separated presentation.](../claims/split-attention-effect-degrades-learning.md) [+S]. The effect is strongest when learners would otherwise need to hold one representation in memory while scanning for its referent — the classic split-attention condition [Split-attention between multiple sources degrades learning when integration is required.](../claims/split-attention-effect-degrades-learning.md) [+S]. Proximity applies at every scale: annotation placement on diagrams, captions under video frames, feedback adjacent to the error, and legend items positioned on the chart itself rather than in a remote key.
+Integrating text with corresponding graphics reduces extraneous cognitive load imposed by visual search and split attention, producing better learning than separated presentations [Integrating text and graphics near each other improves learning compared to separated presentation.](../claims/split-attention-effect-degrades-learning.md) [+M]. The effect is strongest when learners would otherwise need to hold one representation in memory while scanning for its referent — the classic split-attention condition [Split-attention between multiple sources degrades learning when integration is required.](../claims/split-attention-effect-degrades-learning.md) [+M]. Proximity applies at every scale: annotation placement on diagrams, captions under video frames, feedback adjacent to the error, and legend items positioned on the chart itself rather than in a remote key.
 
 ### Context
 #### Requirements
@@ -35,8 +35,8 @@ Integrating text with corresponding graphics reduces extraneous cognitive load i
 - When learners must mentally integrate *temporal* rather than spatial information, proximity alone is insufficient; synchronized presentation ([Modality](../strategies/modality.md), segmenting) is required [~S]
 
 ### Target Learners
-- Novices, who lack the prior knowledge to hold a separated representation in mind while searching for its referent [Integrating text and graphics near each other improves learning compared to separated presentation.](../claims/split-attention-effect-degrades-learning.md) [+S]
-- Low-working-memory learners, who are disproportionately harmed by split-attention layouts [Split-attention between multiple sources degrades learning when integration is required.](../claims/split-attention-effect-degrades-learning.md) [+S]
+- Novices, who lack the prior knowledge to hold a separated representation in mind while searching for its referent [Integrating text and graphics near each other improves learning compared to separated presentation.](../claims/split-attention-effect-degrades-learning.md) [+M]
+- Low-working-memory learners, who are disproportionately harmed by split-attention layouts [Split-attention between multiple sources degrades learning when integration is required.](../claims/split-attention-effect-degrades-learning.md) [+M]
 - Experts may not benefit and can suffer from over-integrated displays, consistent with the expertise-reversal pattern [Guidance that helps novices can hinder experts by forcing redundant processing.](../claims/expertise-reversal-effect.md) [~M]
 
 ### Target Learning Goals

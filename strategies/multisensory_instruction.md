@@ -61,7 +61,7 @@ Multisensory instruction is best understood as explicit, systematic phonics inst
 - Not uniquely beneficial for typical readers beyond what explicit phonics already provides; no evidence of advantage for proficient learners [~W]
 
 ### Target Learning Goals
-- Decoding, encoding (spelling), and word recognition — automatic word-level skill [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Decoding, encoding (spelling), and word recognition — automatic word-level skill [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Fluency and reading accuracy as prerequisites for comprehension
 - Retention of paired verbal–visual associations generally [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [~M]
 - Phoneme–grapheme correspondence and decoding (alphabetic principle)
@@ -116,7 +116,7 @@ Simultaneous multisensory instruction (VAKT: visual–auditory–kinesthetic–t
 
 ## Design Implications
 
-The strategy pairs naturally with [Dual Coding Theory](../theories/dual-coding-theory.md): verbal and nonverbal codes for the same item create two retrieval routes, and motor enactment adds a third [Clark & Paivio's dual coding account of verbal and imagistic processing.](../claims/seductive-details-effect.md) [~W]. However, the strongest evidence base is for the *explicit, systematic phonics* component that multisensory programs embed, not for the sensory pairing itself — meta-analytic support for systematic phonics is robust, while the added value of kinesthetic/tactile tracing over well-designed explicit instruction remains weakly supported [Ehri et al.'s meta-analysis of systematic phonics.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Practitioners should treat multisensory delivery as a vehicle for explicit instruction, not as a substitute for it.
+The strategy pairs naturally with [Dual Coding Theory](../theories/dual-coding-theory.md): verbal and nonverbal codes for the same item create two retrieval routes, and motor enactment adds a third [Clark & Paivio's dual coding account of verbal and imagistic processing.](../claims/seductive-details-effect.md) [~W]. However, the strongest evidence base is for the *explicit, systematic phonics* component that multisensory programs embed, not for the sensory pairing itself — meta-analytic support for systematic phonics is robust, while the added value of kinesthetic/tactile tracing over well-designed explicit instruction remains weakly supported [Ehri et al.'s meta-analysis of systematic phonics.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Practitioners should treat multisensory delivery as a vehicle for explicit instruction, not as a substitute for it.
 
 ### Context
 #### Requirements
@@ -126,7 +126,7 @@ The strategy pairs naturally with [Dual Coding Theory](../theories/dual-coding-t
 - Small enough group or 1:1 setting to monitor and correct each learner's responses
 
 #### Constraints
-- Adding sensory channels does not offset poor instructional content; weak or unsystematic phonics delivered multisensorily still underperforms [Systematic phonics effects depend on explicit, sequential delivery.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [-S]
+- Adding sensory channels does not offset poor instructional content; weak or unsystematic phonics delivered multisensorily still underperforms [Systematic phonics effects depend on explicit, sequential delivery.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [-M]
 - Sensory activity can become decorative — tracing sand letters without phoneme-level focus adds cognitive load without adding learning ([Cognitive Load Theory](../principles/cognitive-load-management.md)) [-W]
 - Evidence for kinesthetic/tactile components specifically is thin; most gains are attributable to explicitness, intensity, and feedback [~W]
 - Resource-intensive: typically requires trained specialists and 1:1 or very small-group delivery, limiting scalability [-W]
@@ -144,7 +144,7 @@ The strategy pairs naturally with [Dual Coding Theory](../theories/dual-coding-t
 
 ### Target Learning Goals
 - Phoneme–grapheme correspondence and decoding (alphabetic principle)
-- Orthographic mapping and automatic word recognition [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Orthographic mapping and automatic word recognition [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Encoding (spelling) through simultaneous dictation routines
 
 ### Instructions

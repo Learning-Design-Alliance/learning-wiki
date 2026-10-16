@@ -237,7 +237,7 @@ The report defines AI literacy as the knowledge and skills that enable people to
 - use AI safely and effectively
 
 ### Claims
-- [Black Box Ai Not For High Stakes Applications](../claims/black-box-ai-not-for-high-stakes-applications.md) [+M]
+- [Black Box Ai Not For High Stakes Applications](../claims/black-box-ai-not-for-high-stakes-applications.md) [+W]
 
 ## Related Theories
 

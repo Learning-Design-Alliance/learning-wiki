@@ -38,7 +38,7 @@ The article identifies a three-phase structure organizing parent-child math word
 - Mathematical word problem solving including interpretation, calculation, and reflection
 
 ### Claims
-- [Three Challenges Parent Child Math Tutoring](../claims/three-challenges-parent-child-math-tutoring.md) [+M]
+- [Three Challenges Parent Child Math Tutoring](../claims/three-challenges-parent-child-math-tutoring.md) [+W]
 
 ## Related Designs
 - 

@@ -19,7 +19,7 @@ Exercise contests organize physical activity into a time-bounded challenge — a
 
 ## Design Implications
 
-Contests leverage goal-setting and incentive structures: specific, difficult goals reliably outperform vague "do your best" goals for effortful tasks [Specific difficult goals lead to higher performance.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S]. However, the motivational mechanism matters as much as the prize. Contests framed around competence, progress, and team belonging support internalization; contests framed purely around winning can displace intrinsic motivation for activity itself [Extrinsic rewards can undermine intrinsic motivation, especially when perceived as controlling.](../theories/self-determination-theory.md) [~S]. Design should reward participation and personal improvement, not only top performance, and should fade external incentives as habits form.
+Contests leverage goal-setting and incentive structures: specific, difficult goals reliably outperform vague "do your best" goals for effortful tasks [Specific difficult goals lead to higher performance.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+M]. However, the motivational mechanism matters as much as the prize. Contests framed around competence, progress, and team belonging support internalization; contests framed purely around winning can displace intrinsic motivation for activity itself [Extrinsic rewards can undermine intrinsic motivation, especially when perceived as controlling.](../theories/self-determination-theory.md) [~S]. Design should reward participation and personal improvement, not only top performance, and should fade external incentives as habits form.
 
 ### Context
 #### Requirements
@@ -53,7 +53,7 @@ Contests leverage goal-setting and incentive structures: specific, difficult goa
 - Habit formation: establishing routines that persist after the contest ends (design-dependent)
 
 ### Instructions
-1. Set a specific, challenging but attainable goal (e.g., 30 active minutes, 5 days/week for 4 weeks) — vague goals produce weak effects [Specific difficult goals lead to higher performance.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S]
+1. Set a specific, challenging but attainable goal (e.g., 30 active minutes, 5 days/week for 4 weeks) — vague goals produce weak effects [Specific difficult goals lead to higher performance.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+M]
 2. Choose a tracking method matched to learners' age and resources; verify it cannot be trivially gamed
 3. Structure teams or improvement-based scoring so every student can experience success
 4. Launch with a clear explanation of rules, scoring, and how progress will be displayed

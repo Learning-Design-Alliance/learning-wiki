@@ -37,7 +37,7 @@ The article presents a framework for handling the multiple testing problem in so
 
 ### Claims
 
-- [Multiple Testing Spurious Impact Findings](../claims/multiple-testing-spurious-impact-findings.md) [+M]
+- [Multiple Testing Spurious Impact Findings](../claims/multiple-testing-spurious-impact-findings.md) [+W]
 - [Researchers disagree about using multiple testing procedures and the trade-off between type I error and statistical power (type II error)](../claims/researcher-disagreement-multiple-testing-tradeoff.md) [+W]
 - [Statistical procedures that correct for multiple testing typically reduce the statistical power of hypothesis tests in impact evaluations](../claims/multiple-testing-corrections-reduce-power.md) [+W]
 

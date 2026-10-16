@@ -51,7 +51,7 @@ Teacher expectations function as self-fulfilling prophecies: expectations shape 
 
 ### Instructions
 1. Define excellence concretely: publish rubrics and show annotated exemplars of strong prior work so the standard is visible, not implied.
-2. Launch projects with challenging, authentic goals; specific difficult goals outperform vague or easy ones [Specific difficult goals lead to higher performance.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S].
+2. Launch projects with challenging, authentic goals; specific difficult goals outperform vague or easy ones [Specific difficult goals lead to higher performance.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+M].
 3. Diagnose students' current realities — prior knowledge, language demands, constraints outside school — before assigning support.
 4. Scaffold toward the standard, fading support as competence grows [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M]; use [Coaching](../elements/coaching.md) during work time rather than front-loading all instruction.
 5. Build in structured critique and revision: use [Class Discussion](../elements/class-discussion.md) protocols (e.g., gallery critique) so peer expectations reinforce teacher expectations.

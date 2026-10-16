@@ -32,7 +32,7 @@ Because working memory is severely limited and attention is selective, instructi
 #### Constraints
 - Novelty and salience can backfire: emotionally interesting but irrelevant material draws attention away from the learning goal [Seductive details interfere with learning.](../claims/seductive-details-effect.md) [-S]
 - Sustained attention degrades over time; long unbroken expositions lose learners regardless of quality, so attention must be re-engaged periodically rather than assumed
-- Learners cannot attend to two demanding streams simultaneously — redundant on-screen text read while listening to narration splits attention [Redundant on-screen text with narration harms learning.](../claims/redundancy-principle.md) [-S]
+- Learners cannot attend to two demanding streams simultaneously — redundant on-screen text read while listening to narration splits attention [Redundant on-screen text with narration harms learning.](../claims/redundancy-principle.md) [-M]
 - Attention captured by extrinsic rewards or gamified cues can displace attention from the content itself when the reward becomes the focus [~M]
 
 ### Target Learners

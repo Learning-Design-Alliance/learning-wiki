@@ -16,7 +16,7 @@ sources:
 # Teach the conceptual underpinnings of L2 forms rather than only their structural aspects or formulaic units
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (8 for, 8 mixed, 2 against) · 16 studies (6 theoretical, 3 quant-synthesis, 2 causal, 2 review, 2 associational, 1 qualitative), `q1`–`q3` · 1 of 16 report an effect size · 15 claims rest on one study
+> **Evidence** · 18 claims (8 for, 8 mixed, 2 against) · 16 studies (6 theoretical, 3 quant-synthesis, 2 causal, 2 review, 2 associational, 1 qualitative), `q1`–`q3` · 0 of 16 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 

@@ -55,7 +55,7 @@ Self-knowledge is the precondition for the forethought and self-reflection phase
 2. Teach criteria explicitly ([Assessment](../elements/assessment.md) rubrics, exemplars) so learners have a standard against which to judge their own work
 3. Build recurring reflection points — exit tickets, journals, [Check-Ins](../principles/check-ins.md) — where learners compare their performance against criteria and name one strength and one growth area
 4. Pair self-judgments with external evidence: teacher feedback, peer review, or work samples, so self-views calibrate over time [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
-5. Convert insight into action: learners set a specific, challenging goal and select strategies ([Action Planning](../strategies/action_planning.md)), then review progress in the next cycle [Specific difficult goals lead to higher performance.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S]
+5. Convert insight into action: learners set a specific, challenging goal and select strategies ([Action Planning](../strategies/action_planning.md)), then review progress in the next cycle [Specific difficult goals lead to higher performance.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+M]
 
 ## Related Strategies
 - [Activities for Student Self-Reflection](activities_for_student_self-reflection.md) — the reflection routines through which self-knowledge is built

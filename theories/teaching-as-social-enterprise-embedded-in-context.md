@@ -37,8 +37,8 @@ The chapter's organizing framework holds that teaching and learning are "social 
 
 ### Claims
 
-- [Instruction Delivery Depends On School Context](../claims/instruction-delivery-depends-on-school-context.md) [+M]
-- [Reform Narrowly Focuses On Instruction](../claims/reform-narrowly-focuses-on-instruction.md) [+M]
+- [Instruction Delivery Depends On School Context](../claims/instruction-delivery-depends-on-school-context.md) [+W]
+- [Reform Narrowly Focuses On Instruction](../claims/reform-narrowly-focuses-on-instruction.md) [+W]
 - [School improvement is related to staff interactions, staff relationships with families, and ties to the broader school community](../claims/improvement-related-to-staff-family-community-relationships.md) [+W]
 - [Inclusive school leadership plays a critical role in building teachers' capacity for school improvement](../claims/inclusive-leadership-builds-teacher-capacity.md) [+W]
 

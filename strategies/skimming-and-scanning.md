@@ -19,7 +19,7 @@ Skimming is rapid reading to extract the gist of a text — typically by reading
 
 ## Design Implications
 
-Skimming and scanning depend on efficient eye-movement control and on text features that signal where relevant information lives; instruction that makes these signals explicit improves learners' search efficiency [Disciplinary literacy instruction improves comprehension by teaching text-specific reading moves.](../claims/disciplinary-literacy-instruction-improves-comprehension.md) [+M]. Because both techniques suppress deep processing, they should be positioned as *preparatory or search* phases — orienting to a text or locating a target — not as substitutes for careful reading when comprehension is the goal. Fluent word recognition is a prerequisite: learners who still decode effortfully cannot free capacity for rapid search [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S].
+Skimming and scanning depend on efficient eye-movement control and on text features that signal where relevant information lives; instruction that makes these signals explicit improves learners' search efficiency [Disciplinary literacy instruction improves comprehension by teaching text-specific reading moves.](../claims/disciplinary-literacy-instruction-improves-comprehension.md) [+M]. Because both techniques suppress deep processing, they should be positioned as *preparatory or search* phases — orienting to a text or locating a target — not as substitutes for careful reading when comprehension is the goal. Fluent word recognition is a prerequisite: learners who still decode effortfully cannot free capacity for rapid search [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M].
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Skimming and scanning depend on efficient eye-movement control and on text featu
 - **Discipline-specific variants**: skimming an empirical article (abstract → figures → conclusion) differs from skimming a narrative or a legal document
 
 ### Target Learners
-- Intermediate and advanced readers who already decode fluently [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Intermediate and advanced readers who already decode fluently [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Second-language learners preparing for academic reading loads, once decoding is automatic
 - Less appropriate for beginning readers, who need full-text reading practice to build fluency [-M]
 

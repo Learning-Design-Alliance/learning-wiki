@@ -13,7 +13,7 @@ generated:
 # Massachusetts DESE statewide K–3 early literacy screening dataset (2023/24)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 1 claim rests on one study
 
 ## Description
 A Massachusetts Department of Elementary and Secondary Education dataset of K–3 early literacy screening results collected from participating schools and districts to identify students at risk of reading difficulty and guide early intervention.

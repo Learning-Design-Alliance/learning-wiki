@@ -19,7 +19,7 @@ Timed practice with progress monitoring pairs brief, repeated, time-limited prac
 
 ## Design Implications
 
-Timed practice targets the shift from accurate to *fluent* performance: automatic execution frees working memory for higher-level processing [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Progress monitoring supplies the formative-evaluation loop that makes practice adaptive rather than repetitive — data on rate of improvement tells instructors when to raise goals, change methods, or move on [Assessment for learning improves achievement.](../claims/assessment-for-learning-improves-achievement.md) [+S]. Visible growth records also leverage self-regulated learning: learners who track their own performance against explicit goals show stronger persistence and strategy use.
+Timed practice targets the shift from accurate to *fluent* performance: automatic execution frees working memory for higher-level processing [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Progress monitoring supplies the formative-evaluation loop that makes practice adaptive rather than repetitive — data on rate of improvement tells instructors when to raise goals, change methods, or move on [Assessment for learning improves achievement.](../claims/assessment-for-learning-improves-achievement.md) [+S]. Visible growth records also leverage self-regulated learning: learners who track their own performance against explicit goals show stronger persistence and strategy use.
 
 ### Context
 #### Requirements

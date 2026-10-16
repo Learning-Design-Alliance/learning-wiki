@@ -32,7 +32,7 @@ Stamina is a capacity that develops through practice under manageable load, much
 - Sessions that outpace students' current stamina produce disengagement and reinforce avoidance rather than endurance [-M]
 - Time alone is insufficient: without access to books students can and want to read, extended independent reading time yields little growth [-M]
 - Gradual increase requires consistent daily implementation; sporadic sessions reset the stamina-building process [~M]
-- Some students (e.g., those with attention difficulties or still-developing [automatic word recognition](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]) may plateau earlier and need text-level support, not just more time
+- Some students (e.g., those with attention difficulties or still-developing [automatic word recognition](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]) may plateau earlier and need text-level support, not just more time
 
 #### Implementation Variability
 - **Fixed-increment schedules** (e.g., +2 minutes per week) vs. **criterion-based increases** (extend when the class sustains engagement at the current duration)
@@ -41,7 +41,7 @@ Stamina is a capacity that develops through practice under manageable load, much
 - Post-reading response (brief sharing, reading log) vs. pure silent reading
 
 ### Target Learners
-- Emerging readers in K–3 who are still building [automatic word recognition](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S] and tire quickly
+- Emerging readers in K–3 who are still building [automatic word recognition](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M] and tire quickly
 - Reluctant or struggling readers at any level who avoid sustained reading
 - Less beneficial as a standalone intervention for students whose difficulty is decoding rather than stamina — these need explicit phonics support alongside volume of reading
 

@@ -39,7 +39,7 @@ The first of the article's three proposed mechanisms for reconfiguring classroom
 - decision-making capabilities in complex business environments
 
 ### Claims
-- [Three Challenges Memorization Management Education](../claims/three-challenges-memorization-management-education.md) [+M]
+- [Three Challenges Memorization Management Education](../claims/three-challenges-memorization-management-education.md) [+W]
 
 ## Related Designs
 - 

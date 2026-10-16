@@ -19,7 +19,7 @@ Explicit instruction in decoding involves directly and systematically teaching g
 
 ## Design Implications
 
-Explicit, systematic phonics instruction produces stronger word-reading and generalization outcomes than non-systematic or whole-word approaches, because learners acquire a transferable set of correspondences rather than memorizing individual words [Phonics instruction outperforms whole-word instruction for generalization.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. The goal of decoding instruction is automaticity: once word recognition is automatic, attentional resources are freed for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Instruction should therefore be sequenced to manage load — introducing a small number of correspondences at a time and building to longer units (digraphs, morphemes) as automaticity develops [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
+Explicit, systematic phonics instruction produces stronger word-reading and generalization outcomes than non-systematic or whole-word approaches, because learners acquire a transferable set of correspondences rather than memorizing individual words [Phonics instruction outperforms whole-word instruction for generalization.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. The goal of decoding instruction is automaticity: once word recognition is automatic, attentional resources are freed for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Instruction should therefore be sequenced to manage load — introducing a small number of correspondences at a time and building to longer units (digraphs, morphemes) as automaticity develops [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
 
 ### Context
 #### Requirements
@@ -46,7 +46,7 @@ Explicit, systematic phonics instruction produces stronger word-reading and gene
 
 ### Target Learning Goals
 - Accurate, automatic word recognition and decoding of unfamiliar words
-- Reading fluency, which supports comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Reading fluency, which supports comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Spelling and encoding through reciprocal sound–letter knowledge
 
 ### Instructions

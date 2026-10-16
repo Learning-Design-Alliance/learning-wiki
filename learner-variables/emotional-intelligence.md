@@ -12,6 +12,7 @@ generated:
 # Emotional Intelligence
 
 > **Learner Variable** · [All learner variables](index.md)
+> **Evidence** · 2 claims (2 unmarked) · 1 study (1 review), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Emotional intelligence is the ability to perceive emotions accurately, use them to support thinking, understand them and manage them. It is measured either as an ability (performance tests) or as a self-reported trait. It correlates with academic achievement, more strongly in the humanities than in STEM subjects, and overlaps with [affect regulation](affect-regulation.md) and with social-emotional skills that programmes aim to build.

@@ -19,7 +19,7 @@ Systematic synthetic phonics (SSP) teaches grapheme–phoneme correspondences (G
 
 ## Design Implications
 
-SSP is the most strongly evidence-supported approach to early reading instruction: meta-analytic findings show systematic phonics outperforms unsystematic or no phonics across outcome measures [Systematic phonics instruction produces larger gains in word reading than non-systematic or no phonics.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Its effectiveness rests on building automatic word recognition, which frees working-memory and attentional resources for comprehension rather than decoding [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Because blending and segmenting impose heavy demands on novice working memory, lessons should introduce few new GPCs at a time and provide cumulative review [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
+SSP is the most strongly evidence-supported approach to early reading instruction: meta-analytic findings show systematic phonics outperforms unsystematic or no phonics across outcome measures [Systematic phonics instruction produces larger gains in word reading than non-systematic or no phonics.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Its effectiveness rests on building automatic word recognition, which frees working-memory and attentional resources for comprehension rather than decoding [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Because blending and segmenting impose heavy demands on novice working memory, lessons should introduce few new GPCs at a time and provide cumulative review [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
 
 ### Context
 #### Requirements
@@ -47,7 +47,7 @@ SSP is the most strongly evidence-supported approach to early reading instructio
 
 ### Target Learning Goals
 - Alphabetic principle: understanding that written spellings map systematically onto speech sounds
-- Word-level reading accuracy and, through repetition, automatic decoding [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Word-level reading accuracy and, through repetition, automatic decoding [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Encoding (spelling) through phoneme segmentation
 
 ### Instructions

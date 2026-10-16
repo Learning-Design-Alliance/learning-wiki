@@ -61,8 +61,8 @@ SPREE (Scaling Programs with Research Evidence and Effectiveness) is a process t
 - Identifying effective interventions ready to be scaled and building organizational capacity for measurement and evaluation
 
 ### Claims
-- [Foundations Scale By Supporting Ready Interventions](../claims/foundations-scale-by-supporting-ready-interventions.md) [+M]
-- [Spree Builds Measurement Culture](../claims/spree-builds-measurement-culture.md) [+M]
+- [Foundations Scale By Supporting Ready Interventions](../claims/foundations-scale-by-supporting-ready-interventions.md) [+W]
+- [Spree Builds Measurement Culture](../claims/spree-builds-measurement-culture.md) [+W]
 
 ## Related Theories
 - 

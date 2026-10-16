@@ -19,7 +19,7 @@ Word shape worksheets present Dolch sight words inside rectangular "boxes" that 
 
 ## Design Implications
 
-Word shape worksheets provide repeated, low-stakes [Practice](../elements/practice.md) on a closed set of high-frequency words, supporting the automatic word recognition that frees working memory for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. However, the shape cue itself is a weak mnemonic: fluent readers attend to letter–sound mappings, not overall word contour, and shape-only cues can encourage guessing between words with similar outlines (e.g., *look*/*like*, *then*/*them*) [~M]. The strategy works best when shape activities are paired with explicit letter–sound analysis and reading of the words in connected text, not as a standalone method.
+Word shape worksheets provide repeated, low-stakes [Practice](../elements/practice.md) on a closed set of high-frequency words, supporting the automatic word recognition that frees working memory for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. However, the shape cue itself is a weak mnemonic: fluent readers attend to letter–sound mappings, not overall word contour, and shape-only cues can encourage guessing between words with similar outlines (e.g., *look*/*like*, *then*/*them*) [~M]. The strategy works best when shape activities are paired with explicit letter–sound analysis and reading of the words in connected text, not as a standalone method.
 
 ### Context
 #### Requirements
@@ -41,12 +41,12 @@ Word shape worksheets provide repeated, low-stakes [Practice](../elements/practi
 
 ### Target Learners
 - Early elementary students (K–2) building a sight vocabulary of high-frequency words
-- Struggling readers who need structured, repeated exposure to irregular words [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Struggling readers who need structured, repeated exposure to irregular words [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - ESL/EFL learners, for whom high-frequency English words may not follow first-language orthographic patterns [~M]
 - Less appropriate for fluent readers, for whom the activity is redundant and low-yield [~W]
 
 ### Target Learning Goals
-- Automatic recognition of high-frequency irregular words [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Automatic recognition of high-frequency irregular words [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Visual discrimination of letter sequences and word orthography
 - Spelling accuracy for service words
 

@@ -13,7 +13,7 @@ generated:
 # Summarization and Synthesis
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 6 studies (3 causal, 3 quant-synthesis), `q2`–`q4` · 3 of 6 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (1 for, 2 mixed, 1 against) · 6 studies (3 causal, 3 quant-synthesis), `q2`–`q4` · 3 of 6 report an effect size · 2 claims rest on one study
 
 ## Description
 Summarization asks learners to condense material into their own words, selecting and restating the most important ideas. Synthesis goes further: learners integrate ideas across multiple sources or experiences into a new, coherent account. Both are generative activities — the learner must construct meaning rather than recognize it.

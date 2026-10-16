@@ -38,7 +38,7 @@ The second of the article's three proposed mechanisms. The article states that "
 - keeping course content current with contemporary business needs
 
 ### Claims
-- [Three Challenges Memorization Management Education](../claims/three-challenges-memorization-management-education.md) [+M]
+- [Three Challenges Memorization Management Education](../claims/three-challenges-memorization-management-education.md) [+W]
 
 ## Related Designs
 - 

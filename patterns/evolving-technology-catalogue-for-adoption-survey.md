@@ -37,7 +37,7 @@ The LoA instrument's technology list is treated as an evolving artifact: the aut
 - accurately representing current emergent educational technologies in collaborative adoption assessment
 
 ### Claims
-- [Loa Revised Ten Level Scale From Respondent Feedback](../claims/loa-revised-ten-level-scale-from-respondent-feedback.md) [+M]
+- [Loa Revised Ten Level Scale From Respondent Feedback](../claims/loa-revised-ten-level-scale-from-respondent-feedback.md) [+W]
 
 ## Related Patterns
 - 

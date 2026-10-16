@@ -19,7 +19,7 @@ Explicit phonics routines are structured, teacher-directed sequences for teachin
 
 ## Design Implications
 
-Systematic, explicit phonics produces stronger word-reading and generalization outcomes than incidental or whole-word approaches, because it teaches learners the alphabetic code rather than asking them to infer it [Systematic phonics instruction outperforms whole-word and incidental approaches for generalization to new words.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. As letter patterns become automatized, decoding consumes fewer working-memory resources, freeing capacity for comprehension [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Routines work because they manage intrinsic load: each lesson introduces one or two correspondences at a time [Chunking reduces working-memory load.](../claims/chunking-reduces-working-memory-load.md) [+M], and cumulative review distributes retrieval of earlier patterns over time [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
+Systematic, explicit phonics produces stronger word-reading and generalization outcomes than incidental or whole-word approaches, because it teaches learners the alphabetic code rather than asking them to infer it [Systematic phonics instruction outperforms whole-word and incidental approaches for generalization to new words.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. As letter patterns become automatized, decoding consumes fewer working-memory resources, freeing capacity for comprehension [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Routines work because they manage intrinsic load: each lesson introduces one or two correspondences at a time [Chunking reduces working-memory load.](../claims/chunking-reduces-working-memory-load.md) [+M], and cumulative review distributes retrieval of earlier patterns over time [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ### Context
 #### Requirements
@@ -47,7 +47,7 @@ Systematic, explicit phonics produces stronger word-reading and generalization o
 - Least beneficial for fluent readers who have already consolidated the code [Guidance that helps novices can be redundant or counterproductive for experts.](../theories/expertise-reversal-effect.md) [~M]
 
 ### Target Learning Goals
-- Accurate, automatic decoding of unfamiliar words [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Accurate, automatic decoding of unfamiliar words [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Encoding (spelling) aligned with taught patterns
 - Generalization: reading new words independently rather than memorizing a sight vocabulary [Systematic phonics instruction outperforms whole-word and incidental approaches for generalization to new words.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]
 
