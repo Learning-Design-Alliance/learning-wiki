@@ -15,18 +15,22 @@ sources:
     author: Wolf L.K., Bazargani N., Kilford E.J., Dumontheil I., Blakemore S.-J.
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
   - id: wolf-lk-2015-2
     resource: "https://doi.org/10.1016/j.adolescence.2015.05.003"
     title: "Wolf L.K., Bazargani N., Kilford E.J., Dumontheil I., Blakemore S.-J. (2015). The audience effect in adolescence depends on who's looking over your shoulder. Journal of Adolescence, 43, 5–14. https://doi.org/10.1016/j.adolescence.2015.05.003"
     author: Wolf L.K., Bazargani N., Kilford E.J., Dumontheil I., Blakemore S.-J.
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Older adolescents respond faster when observed by an experimenter than by a friend or when alone, while social condition does not affect younger adolescents' or adults' response times
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2`–`i3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2`–`i3`
 
 ## Subclaims
 `q3 i3` A two-way interaction between social condition and age group on response time was followed up by within-group ANOVAs; only the older adolescent group showed a significant social condition effect on RT. [→ Wolf L.K. 2015](#wolf-lk-2015)
@@ -38,7 +42,7 @@ sources:
 
 Wolf L.K., Bazargani N., Kilford E.J., Dumontheil I., Blakemore S.-J. (2015). The audience effect in adolescence depends on who's looking over your shoulder. Journal of Adolescence, 43, 5–14. https://doi.org/10.1016/j.adolescence.2015.05.003
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Mixed-design ANOVA on mean RT from correct trials in the same experiment. The social condition × age group interaction was significant (ηp2 = 0.09); the three-way interaction was not significant (p > 0.1).
 
@@ -48,7 +52,7 @@ Mixed-design ANOVA on mean RT from correct trials in the same experiment. The so
 
 Wolf L.K., Bazargani N., Kilford E.J., Dumontheil I., Blakemore S.-J. (2015). The audience effect in adolescence depends on who's looking over your shoulder. Journal of Adolescence, 43, 5–14. https://doi.org/10.1016/j.adolescence.2015.05.003
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Follow-up repeated-measures ANOVA within the older adolescent group (n = 20). The social condition effect on RT was significant (ηp2 = 0.16), with faster responses in the experimenter-present than the friend-present (r = 0.46) and alone (r = 0.44) conditions; alone and friend-present did not differ (p > 0.7).
 

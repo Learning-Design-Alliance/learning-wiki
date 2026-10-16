@@ -15,12 +15,14 @@ sources:
     author: "Jacqueline Phelps, Adam Attaheri & Mirjana Bozic"
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Monolingual and bilingual children perform the dichotic comprehension task equivalently, with both groups finding English–English interference hardest
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Comprehension scores did not differ by group; the only significant factor was condition, driven by lower performance in the English–English condition. [→ Jacqueline Phelps 2022](#jacqueline-phelps-2022)
@@ -31,7 +33,7 @@ sources:
 
 Jacqueline Phelps, Adam Attaheri & Mirjana Bozic. (2022). How bilingualism modulates selective attention in children. Scientific Reports 12:6381. https://doi.org/10.1038/s41598-022-09989-x
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Behavioural analysis of comprehension Z scores from 48 children (24 per group) across four conditions, with age and SES as predictors. Overall scores were 98.1% monolingual and 98.7% bilingual; the condition effect (η2 = 0.17) was driven by the English–English condition.
 

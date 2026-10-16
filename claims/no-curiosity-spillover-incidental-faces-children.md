@@ -15,12 +15,14 @@ sources:
     author: Fandakova Yana, Gruber Matthias J.
     q: 3
     i: 0
+    kind: associational
+    rigour: 1
 ---
 
 # High-curiosity states did not enhance recognition memory for incidental face images in children or adolescents
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · associational `r1` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i0` Recognition accuracy for faces shown during anticipation did not differ between high- and low-curiosity conditions, and no curiosity-by-age interaction emerged. [→ Fandakova Yana 2021](#fandakova-yana-2021)
@@ -31,7 +33,7 @@ sources:
 
 Fandakova Yana, Gruber Matthias J. (2021). States of curiosity and interest enhance memory differently in adolescents and in children. Developmental Science, 24(1), e13005. https://doi.org/10.1111/desc.13005
 
-`q3 · i0`
+`q3 · i0` · `associational · r1`
 
 ANOVA on face recognition accuracy (hits minus false alarms) with factors pre-answer curiosity and age group found "no significant effects of age group... curiosity... nor a curiosity-by-age group interaction"; exploratory analyses by confidence level also found no curiosity effects (all ps > .22 for high-confidence).
 

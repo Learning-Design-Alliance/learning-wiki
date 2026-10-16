@@ -15,12 +15,14 @@ sources:
     author: "López-Gil, J.F., Oriol-Granado, X., Izquierdo, M., Ramírez-Vélez, R., Fernández-Vergara, O., Olloquequi, J., & García-Hermoso, A."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children meeting more healthy lifestyle habits show higher self-regulation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Children who met two (p = 0.005) or three (p < 0.001) healthy lifestyle behaviors had higher SR than children who met none. [→ López-Gil 2020](#lopez-gil-2020)
@@ -31,7 +33,7 @@ sources:
 
 López-Gil, J.F., Oriol-Granado, X., Izquierdo, M., Ramírez-Vélez, R., Fernández-Vergara, O., Olloquequi, J., & García-Hermoso, A. (2020). Healthy Lifestyle Behaviors and Their Association with Self-Regulation in Chilean Children. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph17165676
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Comparison of mean self-regulation by number of healthy lifestyle habits met (PA, screen time, Mediterranean Diet) in 1561 children, adjusted for age, sex, BMI z-score and sleep quality. Meeting two or three habits was associated with higher SR than meeting none.
 

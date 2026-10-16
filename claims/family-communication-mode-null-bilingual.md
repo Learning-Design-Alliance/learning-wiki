@@ -15,12 +15,14 @@ sources:
     author: "Freel, B. L., Clark, M. D., Anderson, M. L., Gilbert, G. L., Musyoka, M. M., & Hauser, P. C."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Family communication mode and hearing status at birth were not significantly related to bilingual abilities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Family communication mode and hearing status at birth did not reach significance at p = 0.05 and were dropped from the regression model. [→ Freel 2011](#freel-2011)
@@ -31,7 +33,7 @@ sources:
 
 Freel, B. L., Clark, M. D., Anderson, M. L., Gilbert, G. L., Musyoka, M. M., & Hauser, P. C. (2011). Deaf Individuals’ Bilingual Abilities: American Sign Language Proficiency, Reading Skills, and Family Characteristics. Psychology, 2(1), 18-23. https://doi.org/10.4236/psych.2011.21003
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Secondary analysis within the same regression study of 55 deaf individuals: family communication mode and hearing status at birth failed to reach the p = 0.05 significance level and were excluded from the final model. No effect sizes are printed for these variables.
 

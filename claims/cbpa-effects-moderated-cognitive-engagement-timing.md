@@ -15,12 +15,14 @@ sources:
     author: Ruhland Stefanie, Lange Klaus W.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # In two reviewed studies, CB-PA improvements in attention measures were moderated by other variables such as cognitive engagement and timing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Two studies found improvement in attention/on-task measures moderated by other variables, such as cognitive engagement or timing of the CB-PA. [→ Ruhland Stefanie 2021](#ruhland-stefanie-2021)
@@ -31,7 +33,7 @@ sources:
 
 Ruhland Stefanie, Lange Klaus W. (2021). Effect of classroom-based physical activity interventions on attention and on-task behavior in schoolchildren: A systematic review. Sports Medicine and Health Science. https://doi.org/10.1016/j.smhs.2021.08.003
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative synthesis in the review's Results; it reports improvements "moderated by other variables, such as cognitive engagement48 or timing of the CB-PA.56" (Schmidt et al., 2016; Hill et al., 2010 per Table 2).
 

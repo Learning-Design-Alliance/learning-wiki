@@ -13,12 +13,14 @@ sources:
     title: Medeiros W 2016
     q: 2
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # Bully group children make more unfavorable Deck A choices on the Iowa Gambling Task than bully-victim children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Children classified as bullies chose more cards from disadvantageous Deck A than bully-victims (r = 0.50), suggesting difficulty in affective decision-making. [→ Medeiros W 2016](#medeiros-w-2016)
@@ -29,7 +31,7 @@ sources:
 
 Medeiros W, Torro-Alves N, Malloy-Diniz LF and Minervino CM (2016) Executive Functions in Children Who Experience Bullying Situations. Front. Psychol. 7:1197. https://doi.org/10.3389/fpsyg.2016.01197
 
-`q2 · i3`
+`q2 · i3` · `associational · r1`
 
 Cross-sectional quasi-experimental comparison of four PAVS-classified groups (n = 15 each) of 10–11-year-olds. Mann–Whitney tests showed that the bully group had "the highest score considering all choices from Deck A compared to the bully-victim group" with r = 0.50; bullies did not differ significantly from victims or controls.
 

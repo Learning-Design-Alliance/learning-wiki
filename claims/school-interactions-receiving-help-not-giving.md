@@ -15,12 +15,14 @@ sources:
     author: Jessup, G; Bundy, AC; Broom, A; Hancock, N.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # School interactions of students with visual impairments were dominated by receiving help, with few involving giving help
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` A large proportion of school interactions involved receiving help while few involved giving help. [→ Jessup 2018](#jessup-2018)
@@ -31,7 +33,7 @@ sources:
 
 Jessup, G; Bundy, AC; Broom, A; Hancock, N. (2018). Fitting in or feeling excluded: The experiences of high school students with visual impairments. https://doi.org/10.1177/0145482X1811200305
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 In the comparison of interaction frequencies across contexts, the study reports that "A large proportion of school interactions involved receiving help; few involved giving help." The authors draw from this the implication that staff may need to facilitate opportunities for students to reciprocate with peers.
 

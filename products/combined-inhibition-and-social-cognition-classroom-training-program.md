@@ -13,6 +13,7 @@ generated:
 # Combined inhibition and social cognition classroom training program
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 A classroom training programme for kindergarten and first-grade children that combines inhibition and executive-function activities with Theory of Mind and social-information-processing activities, delivered through 18 weekly sessions by a trained psychologist with teacher follow-up.

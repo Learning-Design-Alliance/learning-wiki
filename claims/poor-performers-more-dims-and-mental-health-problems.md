@@ -13,12 +13,14 @@ sources:
     title: Stormark KM 2019
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children with poor academic performance show more sleep problems, delayed pubertal development, poorer family economy, lower parental education and more mental health problems than average-to-good performers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The poor academic performance group had a larger proportion of children with DIMS and more internalizing and externalizing problems than the average-to-good group (all comparisons p < .001). [→ Stormark KM 2019](#stormark-km-2019)
@@ -29,7 +31,7 @@ sources:
 
 Stormark KM, Fosse HE, Pallesen S, Hysing M (2019) The association between sleep problems and academic performance in primary school-aged children: Findings from a Norwegian longitudinal population-based study. PLoS ONE 14(11): e0224139. https://doi.org/10.1371/journal.pone.0224139
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Bivariate comparisons (chi-square and Kruskal-Wallis tests) between the poor academic performance group (10.5% of the cohort) and the average-to-good group, reported in Table 1. All listed contrasts reached "p< .001".
 

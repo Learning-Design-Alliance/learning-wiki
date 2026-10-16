@@ -13,12 +13,14 @@ sources:
     title: Rodriguez-Gomez DA and Talero-Gutiérrez C 2022
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Only one identified study found improved visuospatial working memory after music training
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In an 8-month German RCT (n = 94), ANOVA revealed a significant group effect in visuospatial working memory subtests favoring music training. [→ Rodriguez-Gomez DA and Talero-Gutiérrez C 2022](#rodriguez-gomez-da-and-talero-gutierrez-c-2022)
@@ -29,7 +31,7 @@ sources:
 
 Rodriguez-Gomez DA and Talero-Gutiérrez C (2022) Eﬀects of music training in executive function performance in children: A systematic review. Front. Psychol. 13:968144. https://doi.org/10.3389/fpsyg.2022.968144
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports that in the Frischen et al. (2021) RCT, 25 children received a music arts program once weekly for 45 min for 8 months, and "ANOVA analysis revealed a signiﬁcant group eﬀect in inhibitory control and visuospatial working memory subtests."
 

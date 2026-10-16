@@ -12,6 +12,7 @@ generated:
 # Four-condition dichotic listening paradigm with mTRF speech-envelope reconstruction
 
 > **Research Method** · [All research methods](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A child-appropriate EEG paradigm in which participants attend to an English narrative in one ear while ignoring interference in the other across four conditions: Single talker (no interference), English–English, English–Latin, and English–Musical Rain. Backward mTRF decoding models reconstruct attended and unattended speech envelopes from 60-channel EEG, with reconstruction accuracy (Pearson's r) as the index of attentional encoding. The article notes the method "maps all available neural data simultaneously" and is suited to multi-channel EEG and natural speech.

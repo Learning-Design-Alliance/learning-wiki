@@ -15,18 +15,22 @@ sources:
     author: Chaput JP, Gray CE, Poitras VJ, Carson V, Gruber R, Birken CS, MacLean JE, Aubert S, Sampson M, Tremblay MS
     q: 2
     i: "?"
+    kind: associational
+    rigour: "?"
   - id: chaput-jp-2017-2
     resource: "https://doi.org/10.1186/s12889-017-4850-2"
     title: "Chaput JP, Gray CE, Poitras VJ, Carson V, Gruber R, Birken CS, MacLean JE, Aubert S, Sampson M, Tremblay MS. (2017). Systematic review of the relationships between sleep duration and health indicators in the early years (0–4 years). BMC Public Health 17(Suppl 5):855. https://doi.org/10.1186/s12889-017-4850-2"
     author: Chaput JP, Gray CE, Poitras VJ, Carson V, Gruber R, Birken CS, MacLean JE, Aubert S, Sampson M, Tremblay MS
     q: 2
     i: 2
+    kind: review
+    rigour: 3
 ---
 
 # Shorter sleep duration is associated with more screen time in children aged 0–4 years (5 of 5 studies)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · associational `r?` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i?` Sleep duration at age 4 was inversely associated with television viewing and computer use at age 6. [→ Chaput JP 2017](#chaput-jp-2017)
@@ -38,7 +42,7 @@ sources:
 
 Chaput JP, Gray CE, Poitras VJ, Carson V, Gruber R, Birken CS, MacLean JE, Aubert S, Sampson M, Tremblay MS. (2017). Systematic review of the relationships between sleep duration and health indicators in the early years (0–4 years). BMC Public Health 17(Suppl 5):855. https://doi.org/10.1186/s12889-017-4850-2
 
-`q2 · i?`
+`q2 · i?` · `associational · r?`
 
 Longitudinal study (n = 2984) in the review's sedentary behaviour section; GRADE "very low" due to parent-reported sleep. Printed β coefficients are unstandardised, so impact is null.
 
@@ -48,7 +52,7 @@ Longitudinal study (n = 2984) in the review's sedentary behaviour section; GRADE
 
 Chaput JP, Gray CE, Poitras VJ, Carson V, Gruber R, Birken CS, MacLean JE, Aubert S, Sampson M, Tremblay MS. (2017). Systematic review of the relationships between sleep duration and health indicators in the early years (0–4 years). BMC Public Health 17(Suppl 5):855. https://doi.org/10.1186/s12889-017-4850-2
 
-`q2 · i2`
+`q2 · i2` · `review · r3`
 
 One of four cross-sectional studies (42,751 participants combined) in the sedentary behaviour synthesis; GRADE "very low". Printed odds ratios OR = 1.91 and OR = 1.62 support impact 2.
 

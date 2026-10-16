@@ -13,6 +13,7 @@ generated:
 # Non-visual story-based behavioral ToM task
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A publicly available non-visual, story-based theory-of-mind assessment developed by Richardson et al. for verbally assessing children aged four to twelve, including blind and sighted children.

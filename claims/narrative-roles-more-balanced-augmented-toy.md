@@ -13,12 +13,14 @@ sources:
     title: Yuill N 2014
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Groups with the augmented toy used more balanced narrative roles, with more narrator and fewer metanarrator utterances
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Children in the AKC made significantly more narrator statements, F(1, 31) = 4.68, p < 0.05, η2 = 0.13, and significantly fewer metanarrator ones, F(1, 31) = 4.2, p < 0.05, η2 = 0.12, than those in the KC. [→ Yuill N 2014](#yuill-n-2014)
@@ -29,7 +31,7 @@ sources:
 
 Yuill N, Hinske S, Williams SE and Leith G (2014) How getting noticed helps getting on: successful attention capture doubles children's cooperative play. Front. Psychol. 5:418. https://doi.org/10.3389/fpsyg.2014.00418
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Study 2 narrative-role coding using Cassell and Ryokai's three-category scheme (narrative, character, metanarrator); a mixed ANOVA showed "a signiﬁcant effect of playset, [F(3, 29) = 2.95, p < 0.05]", with roles more balanced in the AKC condition (η2 = 0.13 and 0.12 for the pairwise contrasts).
 

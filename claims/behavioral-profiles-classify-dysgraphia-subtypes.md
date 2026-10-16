@@ -15,12 +15,14 @@ sources:
     author: Rapp, Brenda; Purcell, Jeremy; Hillis, Argye; Capasso, Rita; Miceli, Gabriele
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Behavioral profiles alone can identify dysgraphia cases with deficits selectively affecting orthographic long-term memory or working memory
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Individuals with dysgraphia were identified, on the basis of behavioral profiles alone, as having deficits affecting only orthographic long-term memory or only orthographic working memory, with others affected in both. [→ Rapp 2016](#rapp-2016)
@@ -31,7 +33,7 @@ sources:
 
 Rapp, Brenda; Purcell, Jeremy; Hillis, Argye; Capasso, Rita; Miceli, Gabriele. (2016). Neural bases of orthographic long-term memory and working memory in dysgraphia. BRAIN. https://doi.org/10.1093/brain/awv348
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Participant-classification component of the lesion-mapping study: 27 stroke survivors with dysgraphia were identified via behavioral profiles alone as having deficits affecting only one process, plus 6 with deficits affecting both sets of processes. The article prints these counts but no effect sizes.
 

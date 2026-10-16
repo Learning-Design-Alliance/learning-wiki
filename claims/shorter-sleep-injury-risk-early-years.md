@@ -15,12 +15,14 @@ sources:
     author: Chaput JP, Gray CE, Poitras VJ, Carson V, Gruber R, Birken CS, MacLean JE, Aubert S, Sampson M, Tremblay MS
     q: 2
     i: 2
+    kind: review
+    rigour: 3
 ---
 
 # Shorter sleep duration is associated with higher injury risk in children aged 0–4 years, though evidence is limited (2 of 3 studies)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · review `r3` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Sleep duration shorter than 8 h per day was associated with increased risk of accidental falls (OR = 2.7, 95% CI 1.2–6.1). [→ Chaput JP 2017](#chaput-jp-2017)
@@ -31,7 +33,7 @@ sources:
 
 Chaput JP, Gray CE, Poitras VJ, Carson V, Gruber R, Birken CS, MacLean JE, Aubert S, Sampson M, Tremblay MS. (2017). Systematic review of the relationships between sleep duration and health indicators in the early years (0–4 years). BMC Public Health 17(Suppl 5):855. https://doi.org/10.1186/s12889-017-4850-2
 
-`q2 · i2`
+`q2 · i2` · `review · r3`
 
 One of three cross-sectional studies (2,382 participants combined) in the review's risks/injuries synthesis; GRADE quality "low". Printed OR = 2.7 supports impact 2.
 

@@ -15,12 +15,14 @@ sources:
     author: "Könen, T., Dirk, J., & Schmiedek, F."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Elementary school children show substantial day-to-day within-person fluctuations in sleep quality, time in bed, daytime tiredness, and working memory performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Children's nightly sleep quality, time in bed, daytime tiredness, and daily working memory performance fluctuate substantially within persons across days. [→ Könen 2015](#konen-2015)
@@ -31,7 +33,7 @@ sources:
 
 Könen, T., Dirk, J., & Schmiedek, F. (2015). Cognitive benefits of last night's sleep: daily variations in children's sleep behavior are related to working memory fluctuations. Journal of Child Psychology and Psychiatry, 56(2), 171–182. https://doi.org/10.1111/jcpp.12296
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Micro-longitudinal ambulatory assessment in which 110 third- and fourth-graders reported sleep and completed working memory updating tasks on smartphones several times per day for 31 days. The authors report they "identified substantial fluctuations in the children's daily cognitive performance" and in all three sleep facets.
 

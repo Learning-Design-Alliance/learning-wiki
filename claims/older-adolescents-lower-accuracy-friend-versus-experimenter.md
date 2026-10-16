@@ -15,12 +15,14 @@ sources:
     author: Wolf L.K., Bazargani N., Kilford E.J., Dumontheil I., Blakemore S.-J.
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Older adolescents (14.9–17.8 years) show lower relational reasoning accuracy when observed by a friend than by an experimenter, across task difficulty levels
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` In the older adolescent group there was a main effect of social condition on accuracy, driven by lower accuracy in the friend-present than the experimenter-present condition across task-levels. [→ Wolf L.K. 2015](#wolf-lk-2015)
@@ -31,7 +33,7 @@ sources:
 
 Wolf L.K., Bazargani N., Kilford E.J., Dumontheil I., Blakemore S.-J. (2015). The audience effect in adolescence depends on who's looking over your shoulder. Journal of Adolescence, 43, 5–14. https://doi.org/10.1016/j.adolescence.2015.05.003
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Follow-up repeated-measures ANOVA within the older adolescent group (n = 20) from the same mixed-design experiment. The social condition main effect was significant (ηp2 = 0.20), with the friend-versus-experimenter pairwise contrast reaching r = 0.63; other post-hoc comparisons were not significant (ps > 0.1).
 

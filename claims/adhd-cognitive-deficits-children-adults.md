@@ -15,24 +15,30 @@ sources:
     author: Franke, B.; Michelini, G.; Asherson, P.; Banaschewski, T.; Bilbow, A.; Buitelaar, J.K.; Cormand, B.; Faraone, S.V; Ginsberg, Y.; Haavik, J.; Kuntsi, J.; Larsson, H.; Lesch, K.P.; Ramos-Quiroga, J.A.; Réthelyi, J.M.; Ribases, M.; Reif, A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: franke-2018-2
     resource: "https://doi.org/10.1016/j.euroneuro.2018.08.001"
     title: "Franke, B.; Michelini, G.; Asherson, P.; Banaschewski, T.; Bilbow, A.; Buitelaar, J.K.; Cormand, B.; Faraone, S.V; Ginsberg, Y.; Haavik, J.; Kuntsi, J.; Larsson, H.; Lesch, K.P.; Ramos-Quiroga, J.A.; Réthelyi, J.M.; Ribases, M.; Reif, A. (2018). Live fast, die young? A review on the developmental trajectories of ADHD across the lifespan. European Neuropsychopharmacology. https://doi.org/10.1016/j.euroneuro.2018.08.001"
     author: Franke, B.; Michelini, G.; Asherson, P.; Banaschewski, T.; Bilbow, A.; Buitelaar, J.K.; Cormand, B.; Faraone, S.V; Ginsberg, Y.; Haavik, J.; Kuntsi, J.; Larsson, H.; Lesch, K.P.; Ramos-Quiroga, J.A.; Réthelyi, J.M.; Ribases, M.; Reif, A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: franke-2018-3
     resource: "https://doi.org/10.1016/j.euroneuro.2018.08.001"
     title: "Franke, B.; Michelini, G.; Asherson, P.; Banaschewski, T.; Bilbow, A.; Buitelaar, J.K.; Cormand, B.; Faraone, S.V; Ginsberg, Y.; Haavik, J.; Kuntsi, J.; Larsson, H.; Lesch, K.P.; Ramos-Quiroga, J.A.; Réthelyi, J.M.; Ribases, M.; Reif, A. (2018). Live fast, die young? A review on the developmental trajectories of ADHD across the lifespan. European Neuropsychopharmacology. https://doi.org/10.1016/j.euroneuro.2018.08.001"
     author: Franke, B.; Michelini, G.; Asherson, P.; Banaschewski, T.; Bilbow, A.; Buitelaar, J.K.; Cormand, B.; Faraone, S.V; Ginsberg, Y.; Haavik, J.; Kuntsi, J.; Larsson, H.; Lesch, K.P.; Ramos-Quiroga, J.A.; Réthelyi, J.M.; Ribases, M.; Reif, A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Meta-analyses establish that ADHD is associated with poorer performance on tasks measuring inhibition, working memory, planning, and vigilance in children, with overall similar impairment patterns in adults and a strong association with reaction time variability
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Meta-analyses of cognitive studies in children establish ADHD to be associated with poorer performance on tasks measuring inhibition, working memory, planning, and vigilance. [→ Franke 2018](#franke-2018)
@@ -45,7 +51,7 @@ sources:
 
 Franke, B.; Michelini, G.; Asherson, P.; Banaschewski, T.; Bilbow, A.; Buitelaar, J.K.; Cormand, B.; Faraone, S.V; Ginsberg, Y.; Haavik, J.; Kuntsi, J.; Larsson, H.; Lesch, K.P.; Ramos-Quiroga, J.A.; Réthelyi, J.M.; Ribases, M.; Reif, A. (2018). Live fast, die young? A review on the developmental trajectories of ADHD across the lifespan. European Neuropsychopharmacology. https://doi.org/10.1016/j.euroneuro.2018.08.001
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative review of cognitive profiles across the lifespan, citing meta-analyses by Huang-Pollock et al. (2012) and Willcutt et al. (2005). The review reports poorer performance on "tasks measuring inhibition, work- ing memory, planning, and vigilance" in children. No effect sizes printed in the quoted sentence.
 
@@ -55,7 +61,7 @@ Narrative review of cognitive profiles across the lifespan, citing meta-analyses
 
 Franke, B.; Michelini, G.; Asherson, P.; Banaschewski, T.; Bilbow, A.; Buitelaar, J.K.; Cormand, B.; Faraone, S.V; Ginsberg, Y.; Haavik, J.; Kuntsi, J.; Larsson, H.; Lesch, K.P.; Ramos-Quiroga, J.A.; Réthelyi, J.M.; Ribases, M.; Reif, A. (2018). Live fast, die young? A review on the developmental trajectories of ADHD across the lifespan. European Neuropsychopharmacology. https://doi.org/10.1016/j.euroneuro.2018.08.001
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports, citing multiple adult studies including Coghill et al. (2014) and Hervey et al. (2004), that "Studies of adults with ADHD reveal overall similar patterns of cognitive impair- ments as found in children and adolescents". Qualitative statement; no effect size printed.
 
@@ -65,7 +71,7 @@ The review reports, citing multiple adult studies including Coghill et al. (2014
 
 Franke, B.; Michelini, G.; Asherson, P.; Banaschewski, T.; Bilbow, A.; Buitelaar, J.K.; Cormand, B.; Faraone, S.V; Ginsberg, Y.; Haavik, J.; Kuntsi, J.; Larsson, H.; Lesch, K.P.; Ramos-Quiroga, J.A.; Réthelyi, J.M.; Ribases, M.; Reif, A. (2018). Live fast, die young? A review on the developmental trajectories of ADHD across the lifespan. European Neuropsychopharmacology. https://doi.org/10.1016/j.euroneuro.2018.08.001
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports, citing Frazier-Wood et al. (2012), Karalunas et al. (2014) and Kuntsi et al. (2010), "a strong as- sociation of ADHD with reaction time variability (RTV), cap- turing lapses in attention". The word strong is the article's own; no coefficient is printed.
 

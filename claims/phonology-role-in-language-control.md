@@ -15,18 +15,22 @@ sources:
     author: "Mathieu Declerck & Andrea M. Philipp"
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: mathieu-declerck-andrea-m-philipp-2015-2
     resource: "https://doi.org/10.3758/s13423-015-0836-1"
     title: "Mathieu Declerck & Andrea M. Philipp. (2015). A review of control processes and their locus in language switching. Psychon Bull Rev. https://doi.org/10.3758/s13423-015-0836-1"
     author: "Mathieu Declerck & Andrea M. Philipp"
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Phonological processing is affected by and affects language control in switching, though effects are not uniform across studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Switch trials produce a more pronounced non-target-language accent, indicating phonological processing is affected by language switching. [→ Mathieu Declerck & Andrea M. Philipp 2015](#mathieu-declerck-andrea-m-philipp-2015)
@@ -38,7 +42,7 @@ sources:
 
 Mathieu Declerck & Andrea M. Philipp. (2015). A review of control processes and their locus in language switching. Psychon Bull Rev. https://doi.org/10.3758/s13423-015-0836-1
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports, citing Goldrick, Runnqvist, and Costa (2014), that "a more pronounced Spanish accent in switch trials than in repetition trials" occurred for English words, while Olson (2013) found the opposite pattern for Spanish words. Either pattern indicates phonological processing is affected by switching.
 
@@ -48,7 +52,7 @@ The review reports, citing Goldrick, Runnqvist, and Costa (2014), that "a more p
 
 Mathieu Declerck & Andrea M. Philipp. (2015). A review of control processes and their locus in language switching. Psychon Bull Rev. https://doi.org/10.3758/s13423-015-0836-1
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports, citing Declerck and Philipp (2015b) on words sharing the first two phonemes with the previous trial, that "phonological overlap changed the switch cost asymmetry between L1 and L2," supporting a phonological role in persisting control effects. Cognate effects also reversed between separate versus mixed blocks.
 

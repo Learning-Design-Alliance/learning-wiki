@@ -13,20 +13,26 @@ sources:
     title: Rodriguez-Gomez DA and Talero-Gutiérrez C 2022
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: rodriguez-gomez-da-and-talero-gutiérrez-c-2022-2
     title: Rodriguez-Gomez DA and Talero-Gutiérrez C 2022 (2)
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: rodriguez-gomez-da-and-talero-gutiérrez-c-2022-3
     title: Rodriguez-Gomez DA and Talero-Gutiérrez C 2022 (3)
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Music training is associated with improved inhibitory control in children, though the largest studies found no executive function differences
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2` quasi-experiment
+> **Evidence** · 3 studies · 3 review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Six of nine studies on preschoolers identified a significant improvement in inhibitory control after music training. [→ Rodriguez-Gomez DA and Talero-Gutiérrez C 2022](#rodriguez-gomez-da-and-talero-gutierrez-c-2022)
@@ -39,7 +45,7 @@ sources:
 
 Rodriguez-Gomez DA and Talero-Gutiérrez C (2022) Eﬀects of music training in executive function performance in children: A systematic review. Front. Psychol. 13:968144. https://doi.org/10.3389/fpsyg.2022.968144
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Narrative synthesis of nine preschool studies using Stroop, Go/No-Go, and NEPSY inhibition or statue subtests, with music education primarily non-instrumental rhythm or pitch training. The review reports that "Six of nine studies on preschoolers identiﬁed a signiﬁcant improvement in inhibitory control."
 
@@ -49,7 +55,7 @@ Narrative synthesis of nine preschool studies using Stroop, Go/No-Go, and NEPSY 
 
 Rodriguez-Gomez DA and Talero-Gutiérrez C (2022) Eﬀects of music training in executive function performance in children: A systematic review. Front. Psychol. 13:968144. https://doi.org/10.3389/fpsyg.2022.968144
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Narrative synthesis of twelve school-age studies, five case-control with prior instrumental learning, three instrument-based programs, and four orchestra-based interventions. The review reports that "Six studies observed signiﬁcantly improved performance in inhibition tasks" across Go/No-Go, Stroop, Simon, and NEPSY tests.
 
@@ -59,7 +65,7 @@ Narrative synthesis of twelve school-age studies, five case-control with prior i
 
 Rodriguez-Gomez DA and Talero-Gutiérrez C (2022) Eﬀects of music training in executive function performance in children: A systematic review. Front. Psychol. 13:968144. https://doi.org/10.3389/fpsyg.2022.968144
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports the Alemán et al. (2017) randomized trial of El Sistema in Venezuela: 2,914 children, music group n = 1,480, control n = 1,434. It "failed to identify a signiﬁcant diﬀerence in executive function testing among the groups," though guardian-reported self-control improved.
 

@@ -15,12 +15,14 @@ sources:
     author: Arán Filippetti, Vanessa; Krumm, Gabriela Liliana
     q: 3
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # The creativity-related component of flexibility is spontaneous flexibility, the ability to generate diverse responses driven by internal stimuli
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r?` · `q3`
 
 ## Subclaims
 `q3 i?` In Study 2, hierarchical regressions and SEM models consistently showed that the flexibility component related to creativity is spontaneous flexibility. [→ Arán Filippetti 2020](#aran-filippetti-2020)
@@ -31,7 +33,7 @@ sources:
 
 Arán Filippetti, Vanessa; Krumm, Gabriela Liliana (2020). A hierarchical model of cognitive flexibility in children: Extending the relationship between flexibility, creativity and academic achievement. Child Neuropsychology. https://doi.org/10.1080/09297049.2019.1711034
 
-`q3 · i?`
+`q3 · i?` · `associational · r?`
 
 Study 2 with 177 children aged 8 to 13 used hierarchical regressions and SEM models to relate flexibility components to creativity. Results "showed consistently" that the creativity-linked component is spontaneous flexibility, generation of diverse responses driven by internal stimuli.
 

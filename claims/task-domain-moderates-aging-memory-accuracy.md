@@ -15,18 +15,22 @@ sources:
     author: "Jaroslawska, A. J., & Rhodes, S."
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
   - id: jaroslawska-2019-2
     resource: "https://doi.org/10.1037/pag0000358"
     title: "Jaroslawska, A. J., & Rhodes, S. (2019). Adult Age Diﬀerences in the Eﬀects of Processing on Storage in Working Memory: A Meta-Analysis. Psychology & Aging. https://doi.org/10.1037/pag0000358"
     author: "Jaroslawska, A. J., & Rhodes, S."
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Age differences in memory accuracy are smaller for verbal than nonverbal storage tasks, and domain overlap between storage and processing tasks moderates dual-task age differences
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Single-task age differences are smaller for verbal storage tasks (g = 0.553) than nonverbal tasks (g = 0.859). [→ Jaroslawska 2019](#jaroslawska-2019)
@@ -38,7 +42,7 @@ sources:
 
 Jaroslawska, A. J., & Rhodes, S. (2019). Adult Age Diﬀerences in the Eﬀects of Processing on Storage in Working Memory: A Meta-Analysis. Psychology & Aging. https://doi.org/10.1037/pag0000358
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Meta-regression of single-task age differences by storage task domain (verbal vs nonverbal stimuli). Hedges' g was 0.553 for verbal and 0.859 for nonverbal tasks; the test of difference was "-0.306 [-0.569, -0.043] (z = -2.28, p < 0.05)".
 
@@ -48,7 +52,7 @@ Meta-regression of single-task age differences by storage task domain (verbal vs
 
 Jaroslawska, A. J., & Rhodes, S. (2019). Adult Age Diﬀerences in the Eﬀects of Processing on Storage in Working Memory: A Meta-Analysis. Psychology & Aging. https://doi.org/10.1037/pag0000358
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Meta-regression of dual-task age differences by domain overlap; overlap "had a moderating eﬀect, accounting for some of the variability in eﬀect sizes, Q(2) = 18.014, p < 0.01". Hedges' g ranged from 0.429 (no overlap) to 1.371 (nonverbal overlap). Dual task costs themselves were not significantly moderated by domain (Q(2) = 4.843, p = 0.089).
 

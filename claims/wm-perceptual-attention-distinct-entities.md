@@ -15,12 +15,14 @@ sources:
     author: Oberauer, K.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Perceptual attention and working memory are distinct entities that causally affect each other
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The extreme position that WM and perceptual attention are the same is almost certainly wrong, as attended stimuli can leave little trace in WM and perceptual attention to stimuli during retention leads to less interference than adding them to WM. [→ Oberauer 2019](#oberauer-2019)
@@ -31,7 +33,7 @@ sources:
 
 Oberauer, K. (2019). Working Memory and Attention – A Conceptual Analysis and Review. Journal of Cognition, 2(1): 36. https://doi.org/10.5334/joc.58
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review's assessment of the identity position that WM and perceptual attention are the same. Supporting evidence includes: perceptual attention during retention leads to less interference than adding stimuli to WM (Fougnie & Marois, 2006), attended stimuli leave hardly any trace in WM (Chen & Wyble; Oberauer, 2018), and only partial overlap in LPFC neurons responding to attended versus held features. The position is "almost certainly wrong".
 

@@ -15,12 +15,14 @@ sources:
     author: Chaput JP, Gray CE, Poitras VJ, Carson V, Gruber R, Birken CS, MacLean JE, Aubert S, Sampson M, Tremblay MS
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Sleep duration shows no association with gross and fine motor skills in children aged 0–4 years
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Both cross-sectional studies examining sleep duration and motor development reported no associations with gross or fine motor skills. [→ Chaput JP 2017](#chaput-jp-2017)
@@ -31,7 +33,7 @@ sources:
 
 Chaput JP, Gray CE, Poitras VJ, Carson V, Gruber R, Birken CS, MacLean JE, Aubert S, Sampson M, Tremblay MS. (2017). Systematic review of the relationships between sleep duration and health indicators in the early years (0–4 years). BMC Public Health 17(Suppl 5):855. https://doi.org/10.1186/s12889-017-4850-2
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Narrative synthesis of the review's motor development section: two cross-sectional studies (1,403 participants) using the Ages and Stages Questionnaire; GRADE quality "low". No effect size printed; equivalence was not tested.
 

@@ -13,6 +13,7 @@ generated:
 # FLUX smartphone ambulatory assessment application
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A dedicated smartphone application developed by the Technology Based Assessment Group at DIPF for the FLUX project to administer working-memory, sleep, and tiredness assessments to elementary-school children in daily-life settings.

@@ -15,12 +15,14 @@ sources:
     author: Szucs Denes, Devine Amy, Soltesz Fruzsina, Nobes Alison, Gabriel Florence
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Measures of the magnitude representation (ratio and distance effects) do not discriminate children with DD from matched controls
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` DD and control groups were practically indistinguishable on symbolic and non-symbolic magnitude comparison slope measures despite high trial numbers. [→ Szucs Denes 2013](#szucs-denes-2013)
@@ -31,7 +33,7 @@ sources:
 
 Szucs Denes, Devine Amy, Soltesz Fruzsina, Nobes Alison, Gabriel Florence. (2013). Developmental dyscalculia is related to visuo-spatial memory and inhibition impairment. Cortex, 49(10). https://doi.org/10.1016/j.cortex.2013.06.007
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 In the same case-control study, the between-group difference in the non-symbolic mean ratio effect was .1% and in the symbolic distance effect 2%, with the DD group slightly more accurate than controls on symbolic comparison; bootstrap confidence intervals were centered on zero.
 

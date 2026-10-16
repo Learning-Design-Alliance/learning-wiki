@@ -15,18 +15,22 @@ sources:
     author: Peadar Donohoe and Carmel O’Sullivan
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
   - id: peadar-donohoe-and-carmel-osullivan-2015-2
     resource: "https://doi.org/10.33178/scenario.9.1.6"
     title: "Peadar Donohoe and Carmel O’Sullivan. (2015). The Bullying Prevention Pack: Fostering Vocabulary and Knowledge on the Topic of Bullying and Prevention using Role-Play and Discussion to Reduce Primary School Bullying. Scenario, Volume 2015 · Issue 1. https://doi.org/10.33178/scenario.9.1.6"
     author: Peadar Donohoe and Carmel O’Sullivan
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # By the end of the study all learner focus groups understood bullying as repeated aggression and reported being confident defenders
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` All focus groups reported understanding bullying as repeated aggression, indicating the definitional knowledge had been successfully communicated. [→ Peadar Donohoe and Carmel O’Sullivan 2015](#peadar-donohoe-and-carmel-osullivan-2015)
@@ -38,7 +42,7 @@ sources:
 
 Peadar Donohoe and Carmel O’Sullivan. (2015). The Bullying Prevention Pack: Fostering Vocabulary and Knowledge on the Topic of Bullying and Prevention using Role-Play and Discussion to Reduce Primary School Bullying. Scenario, Volume 2015 · Issue 1. https://doi.org/10.33178/scenario.9.1.6
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Learner focus groups with six learners from each participating third, fourth, fifth and sixth class, transcribed and analysed against three objectives including topic knowledge. The article states this supports that the repetitive-aggression definition "had been successfully communicated to them".
 
@@ -48,7 +52,7 @@ Learner focus groups with six learners from each participating third, fourth, fi
 
 Peadar Donohoe and Carmel O’Sullivan. (2015). The Bullying Prevention Pack: Fostering Vocabulary and Knowledge on the Topic of Bullying and Prevention using Role-Play and Discussion to Reduce Primary School Bullying. Scenario, Volume 2015 · Issue 1. https://doi.org/10.33178/scenario.9.1.6
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Focus-group finding on the second objective, ability to defend. Learners commonly cited reporting to a teacher, with strengthened belief in teacher efficacy, e.g. "I know I can talk to the teacher who will do something about it".
 

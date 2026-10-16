@@ -15,12 +15,14 @@ sources:
     author: "López-Gil, J.F., Oriol-Granado, X., Izquierdo, M., Ramírez-Vélez, R., Fernández-Vergara, O., Olloquequi, J., & García-Hermoso, A."
     q: 3
     i: 1
+    kind: associational
+    rigour: 3
 ---
 
 # Screen time is negatively correlated with self-regulation in Chilean children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · associational `r3` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` After adjustment, screen time was negatively related to self-regulation (r = −0.125). [→ López-Gil 2020](#lopez-gil-2020)
@@ -31,7 +33,7 @@ sources:
 
 López-Gil, J.F., Oriol-Granado, X., Izquierdo, M., Ramírez-Vélez, R., Fernández-Vergara, O., Olloquequi, J., & García-Hermoso, A. (2020). Healthy Lifestyle Behaviors and Their Association with Self-Regulation in Chilean Children. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph17165676
 
-`q3 · i1`
+`q3 · i1` · `associational · r3`
 
 Partial correlation analysis in the same cross-sectional sample of 1561 children, fully adjusted for age, sex, BMI z-score and sleep quality. The article reports "ST was negatively related to this outcome (r = −0.125; p = 0.003)".
 

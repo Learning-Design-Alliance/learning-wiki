@@ -15,12 +15,14 @@ sources:
     author: Rubinsten O, Tannock R.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Math anxiety in DD is specific to the math context and occurs in the absence of generalized anxiety
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The DD and control groups did not differ on general anxiety (RCMAS-2) or baseline working memory, yet showed opposite priming patterns, which the authors attribute to math anxiety per se. [→ Rubinsten O 2010](#rubinsten-o-2010)
@@ -31,7 +33,7 @@ sources:
 
 Rubinsten O, Tannock R. (2010). Mathematics anxiety in children with developmental dyscalculia. Behavioral and Brain Functions 6:46. http://www.behavioralandbrainfunctions.com/content/6/1/46
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Authors' interpretation (Discussion) of the priming results. RCMAS-2 scores "were similar for the DD and control groups in our study, suggesting no general anxiety in either group", and the groups "did not differ in baseline working memory capacity", so priming differences were attributed to math anxiety per se.
 

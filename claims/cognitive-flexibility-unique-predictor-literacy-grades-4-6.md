@@ -15,12 +15,14 @@ sources:
     author: "Sofia Magalhães, Luísa Carneiro, Teresa Limpo & Marisa Filipe"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Cognitive flexibility uniquely predicts literacy achievement in Grades 4 and 6, above and beyond fluid intelligence, attention, inhibitory control, working memory, and planning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Grade 6, adding cognitive flexibility significantly increased explained variance in literacy achievement (ΔR² = .04), with flexibility a significant unique predictor (b = .24). [→ Sofia Magalhães 2020](#sofia-magalhaes-2020)
@@ -31,7 +33,7 @@ sources:
 
 Sofia Magalhães, Luísa Carneiro, Teresa Limpo & Marisa Filipe (2020). Executive functions predict literacy and mathematics achievements: The unique contribution of cognitive flexibility in grades 2, 4, and 6. Child Neuropsychology, 26(7), 934-952. https://doi.org/10.1080/09297049.2020.1740188
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Two-step hierarchical regression with 203 sixth graders predicting teacher-assigned Portuguese literacy marks; Step 2 added cognitive flexibility, yielding "ΔR2 = .04, Fchange(1, 196) = 10.88, p = .001" and b = .24.
 

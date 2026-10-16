@@ -15,12 +15,14 @@ sources:
     author: "van Dijk, M., Blom, E., Kroesbergen, E. H., & Leseman, P. P. M."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Children with better selective attention were more flexible (used more different conceptual categories) in the Alternative Uses Task
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Selective attention showed a significant main effect on flexibility, with no effect of stimulus condition and no interaction. [→ van Dijk 2020](#van-dijk-2020)
@@ -31,7 +33,7 @@ sources:
 
 van Dijk, M., Blom, E., Kroesbergen, E. H., & Leseman, P. P. M. (2020). The Influence of Situational Cues on Children’s Creativity in an Alternative Uses Task and the Moderating Effect of Selective Attention. Journal of Intelligence, 8(4), 37. https://doi.org/10.3390/jintelligence8040037
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 ANOVA on the decorrelated flexibility measure (fluency partialled out) in the same experiment. The "significant main effect for selective attention" had η2 = 0.12; condition and interaction were not significant.
 

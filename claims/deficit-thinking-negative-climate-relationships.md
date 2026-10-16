@@ -15,12 +15,14 @@ sources:
     author: Evelyn Ezikwelu
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # White teachers' deficit thinking about Black students produces a negative campus racial climate and unfriendly teacher-student relationships
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Deficit thinking about Black students by White teachers results in a negative campus racial climate, which is often the primary cause of unfriendly relationships between White teachers and Black students. [→ Evelyn Ezikwelu 2020](#evelyn-ezikwelu-2020)
@@ -31,7 +33,7 @@ sources:
 
 Evelyn Ezikwelu. (2020). Institutional Racism and Campus Racial Climate: Struggles for Sense of Belonging Among Black Students in K-12 Public Schools. Journal of Critical Thought and Praxis, 10(1). https://www.iastatedigitalpress.com/jctp/
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The review's synthesis of studies on White teacher perceptions (e.g., Rolón-Dow, 2005; Douglas et al., 2008) argues that "Deficit thinking about Black students by White teachers results in a negative campus racial climate" and drives unfriendly relationships. No effect sizes are printed.
 

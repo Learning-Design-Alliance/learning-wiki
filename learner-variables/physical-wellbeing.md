@@ -12,7 +12,7 @@ generated:
 # Physical Well-Being
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 24 claims (16 show a difference, 7 mixed, 1 no difference) · 20 studies (12 causal, 4 review, 2 quant-synthesis, 1 associational, 1 qualitative), `q2`–`q4` · 3 of 20 report an effect size · 21 claims rest on one study
+> **Evidence** · 23 claims (15 show a difference, 7 mixed, 1 no difference) · 19 studies (12 causal, 3 review, 2 quant-synthesis, 1 associational, 1 qualitative), `q2`–`q4` · 3 of 19 report an effect size · 20 claims rest on one study
 
 ## Description
 Physical well-being covers a learner's overall physical health: nutrition, regular physical activity and fitness, and good sleep. The LVN's case for it is that the benefits reach beyond the body: learners in good health benefit in cognitive skills, focus and mood, which can support academic performance, and in the early years it frames the same idea as physical fitness, with regular exercise strengthening cognitive skills. Exercise is described as particularly helpful for learners with ADHD. Physical activity tends to fall during adolescence, and for adults, education can itself improve health as health literacy grows and learners become better able to advocate for their needs. Body mass index is the one measure the LVN lists. It overlaps with [sleep](sleep.md), which is one of its components, and with [attention](attention.md) and [executive function](executive-function.md), which are among the outcomes exercise is linked to.
@@ -57,7 +57,6 @@ Physical well-being covers a learner's overall physical health: nutrition, regul
 - [Physical well-being — exercise, sleep, and nutrition — impacts learning](../claims/physical-wellbeing-impacts-learning.md) [+M] — learners who differ on it differ in outcomes
 - [Playworks showed significant impact on some measures of girls' physical activity but no significant impact on measures of boys' physical activity](../claims/playworks-gender-differential-impact.md) [~W] — instruction changes it
 - [Purpose-built AI chatbots show generally promising short-term improvements in physical activity and dietary behaviors](../claims/health-behavior-change-short-term-promising.md) [~M] — instruction changes it
-- [Sleep deprivation is associated with reduced psychomotor vigilance, impaired reaction time, and greater perceived workload and stress in astronauts](../claims/sleep-deprivation-impairst-astronaut-performance.md) [+M] — learners who differ on it differ in outcomes
 - [The percentage of students in the targeted Harlem Fitness Zone was significantly greater after two and three years of participation than at baseline](../claims/healthy-harlem-hfz-percentage-greater-than-baseline.md) [+M] — instruction changes it
 - [The timing of acute exercise relative to learning modulates memory consolidation](../claims/acute-exercise-timing-memory.md) [~M] — an instructional effect differs with it
 

@@ -15,12 +15,14 @@ sources:
     author: Arán Filippetti, Vanessa; Krumm, Gabriela Liliana
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Working memory and inhibition both contribute to spontaneous flexibility, whereas only inhibition contributes to reactive flexibility
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` When the joint contribution of working memory and inhibition was considered, both contributed to spontaneous flexibility, while only inhibition contributed to reactive flexibility. [→ Arán Filippetti 2020](#aran-filippetti-2020)
@@ -31,7 +33,7 @@ sources:
 
 Arán Filippetti, Vanessa; Krumm, Gabriela Liliana (2020). A hierarchical model of cognitive flexibility in children: Extending the relationship between flexibility, creativity and academic achievement. Child Neuropsychology. https://doi.org/10.1080/09297049.2019.1711034
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 In Study 1 (n = 112 children aged 8-12), the authors modeled the joint contribution of working memory and inhibition to the two flexibility factors. The analysis found "WM and inhibition contributed to SF, whereas only inhibition contributed to RF."
 

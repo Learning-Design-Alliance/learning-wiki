@@ -15,12 +15,14 @@ sources:
     author: "Freel, B. L., Clark, M. D., Anderson, M. L., Gilbert, G. L., Musyoka, M. M., & Hauser, P. C."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Deaf adults in this sample read on average at a 5.8 grade level, ranging from grade 1.7 to post-college
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Mean Passage Comprehension performance corresponded to a 5.8 grade reading level, with wide individual range. [→ Freel 2011](#freel-2011)
@@ -31,7 +33,7 @@ sources:
 
 Freel, B. L., Clark, M. D., Anderson, M. L., Gilbert, G. L., Musyoka, M. M., & Hauser, P. C. (2011). Deaf Individuals’ Bilingual Abilities: American Sign Language Proficiency, Reading Skills, and Family Characteristics. Psychology, 2(1), 18-23. https://doi.org/10.4236/psych.2011.21003
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Descriptive statistics for the WJ III Passage Comprehension subtest in the 55-participant sample (Table 2: raw-score mean 32.49, SD 5.73). The study reports the mean "falls at the 5.8 grade level" with a minimum at grade 1.7 and a maximum at post-college level; these are descriptive values, not test statistics.
 

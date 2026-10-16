@@ -15,12 +15,14 @@ sources:
     author: "Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The moderated-mediation effect of family resilience on the ACEs-curiosity-in-learning relationship is significantly greater for Black than for White children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Family resilience's moderated-mediation effect on the relationship between ACEs and curiosity in learning was statistically significantly greater for Black than for White children. [→ Goldstein 2021](#goldstein-2021)
@@ -31,7 +33,7 @@ sources:
 
 Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L. (2021). Influence of race/ethnicity and income on the link between adverse childhood experiences and child flourishing. Pediatric Research. https://doi.org/10.1038/s41390-020-01188-6
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Race/ethnicity moderation results (Table 3b indirect-effect differences) from the NSCH probit model; the article reports significance without a standardized effect size, so impact is null.
 

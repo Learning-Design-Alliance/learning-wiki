@@ -15,18 +15,22 @@ sources:
     author: "Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: goldstein-2021-2
     resource: "https://doi.org/10.1038/s41390-020-01188-6"
     title: "Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L. (2021). Influence of race/ethnicity and income on the link between adverse childhood experiences and child flourishing. Pediatric Research. https://doi.org/10.1038/s41390-020-01188-6"
     author: "Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Above-FPL children improved more in staying calm and in control as family resilience increased, but no significant FPL moderated-mediation effects emerged
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Compared to below-FPL children, above-FPL children were more likely to improve in staying calm and in control as family resilience increased. [→ Goldstein 2021](#goldstein-2021)
@@ -38,7 +42,7 @@ sources:
 
 Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L. (2021). Influence of race/ethnicity and income on the link between adverse childhood experiences and child flourishing. Pediatric Research. https://doi.org/10.1038/s41390-020-01188-6
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 FPL moderation results (Table 4, RESIL-to-RES pathway difference) from the NSCH probit model; reported as a significant parameter difference with no standardized effect size printed.
 
@@ -48,7 +52,7 @@ FPL moderation results (Table 4, RESIL-to-RES pathway difference) from the NSCH 
 
 Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L. (2021). Influence of race/ethnicity and income on the link between adverse childhood experiences and child flourishing. Pediatric Research. https://doi.org/10.1038/s41390-020-01188-6
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Null moderated-mediation finding for FPL groups in the same model; the article reports only non-significance with no effect size, so the finding is coded as no detected effect, not a measured null effect.
 

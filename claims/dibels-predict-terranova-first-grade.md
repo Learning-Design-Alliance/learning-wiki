@@ -15,18 +15,22 @@ sources:
     author: "Rouse, H. L., & Fantuzzo, J. W."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: rouse-2006-2
     resource: "https://doi.org/10.1080/02796015.2006.12087971"
     title: "Rouse, H. L., & Fantuzzo, J. W. (2006). Validity of the Dynamic Indicators for Basic Early Literacy Skills as an Indicator of Early Literacy for Urban Kindergarten Children. School Psychology Review, 35(3), 341-355. https://doi.org/10.1080/02796015.2006.12087971"
     author: "Rouse, H. L., & Fantuzzo, J. W."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Kindergarten DIBELS subtests significantly predict first-grade TerraNova vocabulary, language, and reading outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Regressions predicted Vocabulary (45.1% of variance), Language (41%), and Reading (32%), with Letter Naming Fluency the strongest predictor on each. [→ Rouse 2006](#rouse-2006)
@@ -38,7 +42,7 @@ sources:
 
 Rouse, H. L., & Fantuzzo, J. W. (2006). Validity of the Dynamic Indicators for Basic Early Literacy Skills as an Indicator of Early Literacy for Urban Kindergarten Children. School Psychology Review, 35(3), 341-355. https://doi.org/10.1080/02796015.2006.12087971
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Simultaneous regression on first-grade TerraNova Vocabulary found that "DIBELS dimensions accounted for 45.1% of the variance in Vocabulary"; Letter Naming Fluency was the strongest predictor, followed by Phoneme Segmentation Fluency.
 
@@ -48,7 +52,7 @@ Simultaneous regression on first-grade TerraNova Vocabulary found that "DIBELS d
 
 Rouse, H. L., & Fantuzzo, J. W. (2006). Validity of the Dynamic Indicators for Basic Early Literacy Skills as an Indicator of Early Literacy for Urban Kindergarten Children. School Psychology Review, 35(3), 341-355. https://doi.org/10.1080/02796015.2006.12087971
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Regression on first-grade TerraNova Reading found "Letter Naming Fluency and Phoneme Segmen- tation Huency were significant predictors of Reading, but Nonsense Word Fluency was not significant." The Language regression was also significant (F[3,285] = 65.31, p < .0001; 41% of variance).
 

@@ -13,6 +13,7 @@ generated:
 # CTTBE: Critical Thinking Test for Basic Education
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A 48-item visual- and text-based test developed by Silva et al. to assess Portuguese 4th-grade students' observation, interpretation, analysis, and argumentation skills.

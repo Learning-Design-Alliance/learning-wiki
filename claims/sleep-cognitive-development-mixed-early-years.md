@@ -15,18 +15,22 @@ sources:
     author: Chaput JP, Gray CE, Poitras VJ, Carson V, Gruber R, Birken CS, MacLean JE, Aubert S, Sampson M, Tremblay MS
     q: 3
     i: "?"
+    kind: review
+    rigour: 3
   - id: chaput-jp-2017-2
     resource: "https://doi.org/10.1186/s12889-017-4850-2"
     title: "Chaput JP, Gray CE, Poitras VJ, Carson V, Gruber R, Birken CS, MacLean JE, Aubert S, Sampson M, Tremblay MS. (2017). Systematic review of the relationships between sleep duration and health indicators in the early years (0–4 years). BMC Public Health 17(Suppl 5):855. https://doi.org/10.1186/s12889-017-4850-2"
     author: Chaput JP, Gray CE, Poitras VJ, Carson V, Gruber R, Birken CS, MacLean JE, Aubert S, Sampson M, Tremblay MS
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Evidence on sleep duration and cognitive development in children aged 0–4 years is mixed, with no consistent association
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2`–`q3`
+> **Evidence** · 1 study (2 entries) · review `r3` · `q2`–`q3`
 
 ## Subclaims
 `q3 i?` One randomized trial found explicit recognition memory was better after naps than wake, while implicit memory did not differ. [→ Chaput JP 2017](#chaput-jp-2017)
@@ -38,7 +42,7 @@ sources:
 
 Chaput JP, Gray CE, Poitras VJ, Carson V, Gruber R, Birken CS, MacLean JE, Aubert S, Sampson M, Tremblay MS. (2017). Systematic review of the relationships between sleep duration and health indicators in the early years (0–4 years). BMC Public Health 17(Suppl 5):855. https://doi.org/10.1186/s12889-017-4850-2
 
-`q3 · i?`
+`q3 · i?` · `review · r3`
 
 Randomized cross-over trial (n = 23) in the review's cognitive development section; GRADE quality "high". Only significance is printed, no effect size, so impact is null.
 
@@ -48,7 +52,7 @@ Randomized cross-over trial (n = 23) in the review's cognitive development secti
 
 Chaput JP, Gray CE, Poitras VJ, Carson V, Gruber R, Birken CS, MacLean JE, Aubert S, Sampson M, Tremblay MS. (2017). Systematic review of the relationships between sleep duration and health indicators in the early years (0–4 years). BMC Public Health 17(Suppl 5):855. https://doi.org/10.1186/s12889-017-4850-2
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Narrative synthesis of 11 cross-sectional studies (10,838 participants); GRADE quality "low". The review characterises overall cognitive evidence as mixed with mainly favourable or null longitudinal findings.
 

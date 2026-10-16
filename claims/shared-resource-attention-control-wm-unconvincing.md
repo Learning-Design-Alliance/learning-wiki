@@ -15,12 +15,14 @@ sources:
     author: Oberauer, K.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # There is no convincing evidence that loading WM depletes a resource needed for the control of attention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Experimental dual-task evidence speaks against competition between WM maintenance and attention control for a shared resource. [→ Oberauer 2019](#oberauer-2019)
@@ -31,7 +33,7 @@ sources:
 
 Oberauer, K. (2019). Working Memory and Attention – A Conceptual Analysis and Review. Journal of Cognition, 2(1): 36. https://doi.org/10.5334/joc.58
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review's synthesis of dual-task studies loading WM during attention-control tasks. WM load effects on distractibility are inconsistent (verbal load increases flanker effect, visual load decreases it), and concurrent processing costs on memory are accounted for by response-selection duration rather than attention-control demand. The review finds "no convincing evidence" for resource depletion.
 

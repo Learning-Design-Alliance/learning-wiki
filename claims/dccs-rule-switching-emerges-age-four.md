@@ -15,12 +15,14 @@ sources:
     author: Buttelmann F and Karbach J
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Children typically perseverate on the Dimensional Change Card Sort at age 3 but can switch sorting rules from age 4
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Three-year-olds typically keep applying the first sorting rule when they should switch, whereas children from age 4 can switch rules on the DCCS. [→ Buttelmann F and Karbach J 2017](#buttelmann-f-and-karbach-j-2017)
@@ -31,7 +33,7 @@ sources:
 
 Buttelmann F and Karbach J (2017). Development and Plasticity of Cognitive Flexibility in Early and Middle Childhood. Front. Psychol. 8:1040. https://doi.org/10.3389/fpsyg.2017.01040
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative review of DCCS studies of preschoolers, citing Zelazo and Doebel and Zelazo. The review reports that "3-years-old typically perseverate" while children from age 4 switch rules; no effect size is printed.
 

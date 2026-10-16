@@ -15,12 +15,14 @@ sources:
     author: Bert De Smedt, Bart Boets
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Adults with developmental dyslexia are slower than controls at speeded digit identification
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Participants with dyslexia were significantly slower in identifying digits than controls, with a large effect size. [→ Bert De Smedt 2010](#bert-de-smedt-2010)
@@ -31,7 +33,7 @@ sources:
 
 Bert De Smedt, Bart Boets. (2010). Phonological processing and arithmetic fact retrieval: Evidence from developmental dyslexia. Neuropsychologia, 48, 3973–3981. https://doi.org/10.1016/j.neuropsychologia.2010.10.018
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Speeded digit identification control task (20 trials, digits 0–9) in the dyslexia-control study, with accuracy above 99% in both groups. The dyslexia group's slower digit naming (d = 1.32) motivated including digit identification speed as a covariate in arithmetic reaction-time analyses.
 

@@ -13,16 +13,20 @@ sources:
     title: Doyle C 2018
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
   - id: doyle-c-2018-2
     title: Doyle C 2018 (2)
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children with developmental dyslexia show a significant updating impairment at the error z-mean composite level, which remains after controlling for processing speed
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 2 studies · 2 associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Dyslexia is associated with a significantly higher updating z-mean error composite score than controls (Cohen's d = 0.86). [→ Doyle C 2018](#doyle-c-2018)
@@ -34,7 +38,7 @@ sources:
 
 Doyle C, Smeaton AF, Roche RAP and Boran L (2018) Inhibition and Updating, but Not Switching, Predict Developmental Dyslexia and Individual Variation in Reading Ability. Front. Psychol. 9:795. https://doi.org/10.3389/fpsyg.2018.00795
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Case-control ANOVA in the same 27 dyslexia vs 29 control sample on updating z-mean error composites from Letter, Picture and Phoneme 2-back tasks. Dyslexia showed "a significantly higher updating z-mean error score" with Cohen's d = 0.86.
 
@@ -44,7 +48,7 @@ Case-control ANOVA in the same 27 dyslexia vs 29 control sample on updating z-me
 
 Doyle C, Smeaton AF, Roche RAP and Boran L (2018) Inhibition and Updating, but Not Switching, Predict Developmental Dyslexia and Individual Variation in Reading Ability. Front. Psychol. 9:795. https://doi.org/10.3389/fpsyg.2018.00795
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 ANCOVA controlling for processing speed in the same sample. The updating error composite difference remained significant, F(1, 53) = 5.68, p = 0.021, as did the Letter 2-back error difference, F(1, 53) = 15.41, p = 0.000; no effect size is printed for this analysis.
 

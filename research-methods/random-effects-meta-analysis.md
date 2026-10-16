@@ -12,6 +12,7 @@ generated:
 # Random-effects meta-analysis
 
 > **Research Method** · [All research methods](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 This element is the quantitative synthesis itself: studies reporting effects of physical exercise on motor skills and executive functions in children with ADHD were identified "through Cochrane, PsycInfo, PubMed, Web of Science databases" and "Ten publications were selected." A "Random-effects model was used to calculate effect sizes", yielding the pooled estimates and moderator analyses reported in the article.

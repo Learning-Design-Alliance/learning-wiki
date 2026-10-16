@@ -15,18 +15,22 @@ sources:
     author: Adolphus, K., Lawton, C. L., and Dye, L.
     q: 3
     i: "?"
+    kind: review
+    rigour: 3
   - id: adolphus-2013-2
     resource: "https://doi.org/10.3389/fnhum.2013.00425"
     title: "Adolphus, K., Lawton, C. L., and Dye, L. (2013). The effects of breakfast on behavior and academic performance in children and adolescents. Frontiers in Human Neuroscience. https://doi.org/10.3389/fnhum.2013.00425"
     author: Adolphus, K., Lawton, C. L., and Dye, L.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Robust RCTs of school breakfast programs failed to find behavioral benefits, with low and variable attendance and a shift from at-home to at-school consumption limiting impact
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2`–`q3`
+> **Evidence** · 1 study (2 entries) · review `r3` · `q2`–`q3`
 
 ## Subclaims
 `q3 i?` Three recent RCTs found no significant effect of a 1-year SBP on SDQ-measured school behavior compared with control. [→ Adolphus 2013](#adolphus-2013)
@@ -38,7 +42,7 @@ sources:
 
 Adolphus, K., Lawton, C. L., and Dye, L. (2013). The effects of breakfast on behavior and academic performance in children and adolescents. Frontiers in Human Neuroscience. https://doi.org/10.3389/fnhum.2013.00425
 
-`q3 · i?`
+`q3 · i?` · `review · r3`
 
 The review's synthesis of three randomized control trials using the Strength and Difficulties Questionnaire after 1-year SBP interventions: "Both Ni Mhurchu et al. (2013) and Murphy et al. (2011) reported no signiﬁcant effects of a 1 year SBP" on the five SDQ behavioral dimensions; equivalence was not tested.
 
@@ -48,7 +52,7 @@ The review's synthesis of three randomized control trials using the Strength and
 
 Adolphus, K., Lawton, C. L., and Dye, L. (2013). The effects of breakfast on behavior and academic performance in children and adolescents. Frontiers in Human Neuroscience. https://doi.org/10.3389/fnhum.2013.00425
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review attributes the null RCT findings partly to implementation: "SBP attendance was low and variable, limiting the potential impact on behavior," with barriers including lack of parental and teaching support, social stigma, and transport issues.
 

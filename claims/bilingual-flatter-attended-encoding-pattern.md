@@ -15,12 +15,14 @@ sources:
     author: "Jacqueline Phelps, Adam Attaheri & Mirjana Bozic"
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Bilingual children show a flatter pattern of attended-speech encoding across conditions, driven by weaker encoding in low- or no-interference conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Monolinguals encoded attended streams more strongly than bilinguals in the Single talker and English–MuR conditions, with no group difference in the two linguistic interference conditions. [→ Jacqueline Phelps 2022](#jacqueline-phelps-2022)
@@ -31,7 +33,7 @@ sources:
 
 Jacqueline Phelps, Adam Attaheri & Mirjana Bozic. (2022). How bilingualism modulates selective attention in children. Scientific Reports 12:6381. https://doi.org/10.1038/s41598-022-09989-x
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Pairwise between-group comparisons of attended-stream reconstruction accuracy per condition in the EEG study of 48 children. The group-by-condition interaction [F(3, 18,283.7) = 3.59, p < 0.05] was explored via these per-condition tests.
 

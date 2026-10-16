@@ -13,7 +13,7 @@ generated:
 # Bullying Prevention and Intervention
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (20 for, 6 mixed) · 15 studies (5 causal, 5 review, 3 associational, 1 design, 1 theoretical), `q1`–`q3` · 3 of 15 report an effect size · 26 claims rest on one study
+> **Evidence** · 27 claims (21 for, 6 mixed) · 16 studies (6 causal, 5 review, 3 associational, 1 design, 1 theoretical), `q1`–`q3` · 3 of 16 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 

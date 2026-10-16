@@ -15,18 +15,22 @@ sources:
     author: Rubinsten O, Tannock R.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
   - id: rubinsten-o-2010-2
     resource: "http://www.behavioralandbrainfunctions.com/content/6/1/46"
     title: "Rubinsten O, Tannock R. (2010). Mathematics anxiety in children with developmental dyscalculia. Behavioral and Brain Functions 6:46. http://www.behavioralandbrainfunctions.com/content/6/1/46"
     author: Rubinsten O, Tannock R.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Math-related word primes facilitate arithmetic processing in children with DD but inhibit it in typically-developing controls
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` In the DD group, math primes and negative primes did not differ significantly for addition and multiplication, and math primes facilitated processing in all four operations. [→ Rubinsten O 2010](#rubinsten-o-2010)
@@ -38,7 +42,7 @@ sources:
 
 Rubinsten O, Tannock R. (2010). Mathematics anxiety in children with developmental dyscalculia. Behavioral and Brain Functions 6:46. http://www.behavioralandbrainfunctions.com/content/6/1/46
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Planned comparisons in the priming experiment (Results section). The article reports "no significant difference between negative and math primes for addition and multiplication" in DD, and that "in all 4 arithmetic procedures, math prime words significantly facilitated processing compared to positive prime words".
 
@@ -48,7 +52,7 @@ Planned comparisons in the priming experiment (Results section). The article rep
 
 Rubinsten O, Tannock R. (2010). Mathematics anxiety in children with developmental dyscalculia. Behavioral and Brain Functions 6:46. http://www.behavioralandbrainfunctions.com/content/6/1/46
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Same experiment, control group. Math primes were slower than positive primes in addition, multiplication and subtraction, and in division "math prime words inhibited processing", acting as affectively unrelated to targets.
 

@@ -15,18 +15,22 @@ sources:
     author: "Devine, A., Hill, F., Carey, E., & Szűcs, D."
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
   - id: devine-2017-2
     resource: "https://doi.org/10.1037/edu0000222"
     title: "Devine, A., Hill, F., Carey, E., & Szűcs, D. (2017). Cognitive and Emotional Math Problems Largely Dissociate: Prevalence of Developmental Dyscalculia and Mathematics Anxiety. https://doi.org/10.1037/edu0000222"
     author: "Devine, A., Hill, F., Carey, E., & Szűcs, D."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # MA correlates negatively with mathematics performance in the whole sample (rs = -.30) but not within the DD or DD+RD groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` In the whole sample MA was significantly negatively correlated with mathematics performance (rs = -.30). [→ Devine 2017](#devine-2017)
@@ -38,7 +42,7 @@ sources:
 
 Devine, A., Hill, F., Carey, E., & Szűcs, D. (2017). Cognitive and Emotional Math Problems Largely Dissociate: Prevalence of Developmental Dyscalculia and Mathematics Anxiety. https://doi.org/10.1037/edu0000222
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 Spearman rank correlation in the full 1757-child sample showed "MA was significantly and negatively correlated with mathematics performance (rs = -.30, p < .001, BcaCI: -.34, -.25)", matching prior meta-analytic estimates of about r = -.30.
 
@@ -48,7 +52,7 @@ Spearman rank correlation in the full 1757-child sample showed "MA was significa
 
 Devine, A., Hill, F., Carey, E., & Szűcs, D. (2017). Cognitive and Emotional Math Problems Largely Dissociate: Prevalence of Developmental Dyscalculia and Mathematics Anxiety. https://doi.org/10.1037/edu0000222
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Within-group Spearman correlations in the DD (n = 99) and DD+RD (n = 140) subsamples were not significant; the article attributes this to the narrow range of mathematics scores in these groups, noting power of .93-.95 to detect rs = -.30.
 

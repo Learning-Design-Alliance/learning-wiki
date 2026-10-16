@@ -15,12 +15,14 @@ sources:
     author: "Gemma Muncer, Philip A. Higham, Corentin J. Gosling, Samuele Cortese, Henry Wood-Downie, & Julie A. Hadwin"
     q: 4
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # The combination of online metacognition measures with complex math assessments is associated with the largest effect sizes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q4` pre-registered or meta-analytic
+> **Evidence** · 1 study · quant-synthesis `r3` · `q4`
 
 ## Subclaims
 `q4 i?` The combination of online metacognition measurement and complex math assessment was associated with larger effect sizes than other measure combinations. [→ Gemma Muncer 2021](#gemma-muncer-2021)
@@ -31,7 +33,7 @@ sources:
 
 Gemma Muncer, Philip A. Higham, Corentin J. Gosling, Samuele Cortese, Henry Wood-Downie, & Julie A. Hadwin. (2021). A Meta-Analysis Investigating the Association Between Metacognition and Math Performance in Adolescence. Educational Psychology Review. https://doi.org/10.1007/s10648-021-09620-x
 
-`q4 · i?`
+`q4 · i?` · `quant-synthesis · r3`
 
 An exploratory meta-regression combined math complexity and metacognition measure type into a six-modality moderator; five combinations were explored and four were represented by at least two studies/research groups. The combination of online and complex "was associated with larger effect sizes".
 

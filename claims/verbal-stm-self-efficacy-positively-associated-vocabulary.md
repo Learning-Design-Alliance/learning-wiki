@@ -15,12 +15,14 @@ sources:
     author: E. de Bree, M. Zee
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Verbal short-term memory and academic self-efficacy are positively associated with children's vocabulary
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the best-fitting indirect SEM model, verbal short-term memory and self-efficacy were each positively associated with children's vocabulary. [→ E. de Bree 2021](#e-de-bree-2021)
@@ -31,7 +33,7 @@ sources:
 
 E. de Bree, M. Zee. (2021). The unique role of verbal memory, vocabulary, concentration and self-efficacy in children's listening comprehension in upper elementary grades. First Language. https://doi.org/10.1177/0142723720941680
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Structural equation models tested direct and indirect associations in 442 children aged 9-12; model comparison showed "The best-fitting model was an indirect model in which verbal short-term memory and self-efficacy were positively associated with children's vocabulary."
 

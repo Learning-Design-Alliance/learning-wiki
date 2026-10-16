@@ -15,18 +15,22 @@ sources:
     author: Peadar Donohoe and Carmel O’Sullivan
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
   - id: peadar-donohoe-and-carmel-osullivan-2015-2
     resource: "https://doi.org/10.33178/scenario.9.1.6"
     title: "Peadar Donohoe and Carmel O’Sullivan. (2015). The Bullying Prevention Pack: Fostering Vocabulary and Knowledge on the Topic of Bullying and Prevention using Role-Play and Discussion to Reduce Primary School Bullying. Scenario, Volume 2015 · Issue 1. https://doi.org/10.33178/scenario.9.1.6"
     author: Peadar Donohoe and Carmel O’Sullivan
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Role-plays and ensuing discussions fostered bullying vocabulary, knowledge, metacognition and empathy that the authors credit for the reduction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Teachers in both strands reported that discussions following the role-plays were a positive strategy for talking about feelings and fostering empathy. [→ Peadar Donohoe and Carmel O’Sullivan 2015](#peadar-donohoe-and-carmel-osullivan-2015)
@@ -38,7 +42,7 @@ sources:
 
 Peadar Donohoe and Carmel O’Sullivan. (2015). The Bullying Prevention Pack: Fostering Vocabulary and Knowledge on the Topic of Bullying and Prevention using Role-Play and Discussion to Reduce Primary School Bullying. Scenario, Volume 2015 · Issue 1. https://doi.org/10.33178/scenario.9.1.6
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Qualitative analysis of weekly written teacher feedback and interviews in year two, analysed by emergent themes across junior and senior strands. Teachers reported the post-role-play discussions fostered empathy; this is reported perception, not a measured effect.
 
@@ -48,7 +52,7 @@ Qualitative analysis of weekly written teacher feedback and interviews in year t
 
 Peadar Donohoe and Carmel O’Sullivan. (2015). The Bullying Prevention Pack: Fostering Vocabulary and Knowledge on the Topic of Bullying and Prevention using Role-Play and Discussion to Reduce Primary School Bullying. Scenario, Volume 2015 · Issue 1. https://doi.org/10.33178/scenario.9.1.6
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Teacher-feedback theme from the senior strand (second to sixth class) in the year-two qualitative data. One teacher stated "Getting to act it out and empathise with their character that was very important for their understanding of bullying".
 

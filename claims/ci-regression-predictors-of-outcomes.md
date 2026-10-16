@@ -15,18 +15,22 @@ sources:
     author: "Punch, R., & Hyde, M. B."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: punch-2011-2
     resource: "https://doi.org/10.1155/2011/573280"
     title: "Punch, R., & Hyde, M. B. (2011). Communication, Psychosocial, and Educational Outcomes of Children with Cochlear Implants and Challenges Remaining for Professionals and Parents. International Journal of Otolaryngology. https://doi.org/10.1155/2011/573280"
     author: "Punch, R., & Hyde, M. B."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Regression analyses identified oral communication, mainstream placement, younger age at implantation, and bilateral implantation as predictors of positive outcomes, with additional disabilities strongly predicting less positive outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In step-wise regression analyses of parent survey data, oral communication and mainstream placement predicted positive outcomes in many domains, younger age at implantation predicted positive communication and social outcomes, and bilateral implantation predicted positive communication, social, and academic outcomes. [→ Punch 2011](#punch-2011)
@@ -38,7 +42,7 @@ sources:
 
 Punch, R., & Hyde, M. B. (2011). Communication, Psychosocial, and Educational Outcomes of Children with Cochlear Implants and Challenges Remaining for Professionals and Parents. International Journal of Otolaryngology. https://doi.org/10.1155/2011/573280
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Step-wise regression analyses of parent survey data (reported in full in Hyde et al. [15]) examining associations among four outcome variables and family, child, educational, and decision-making variables. No regression coefficients are printed in this synthesis paper.
 
@@ -48,7 +52,7 @@ Step-wise regression analyses of parent survey data (reported in full in Hyde et
 
 Punch, R., & Hyde, M. B. (2011). Communication, Psychosocial, and Educational Outcomes of Children with Cochlear Implants and Challenges Remaining for Professionals and Parents. International Journal of Otolaryngology. https://doi.org/10.1155/2011/573280
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Same regression analyses of parent survey data. The authors state they cannot know whether additional disabilities limited implant benefit or affected outcomes regardless of CI; approximately 25% of children in both surveys had additional disabilities or difficulties.
 

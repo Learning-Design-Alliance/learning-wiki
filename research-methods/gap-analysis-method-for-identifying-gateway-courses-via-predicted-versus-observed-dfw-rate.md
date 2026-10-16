@@ -12,7 +12,7 @@ generated:
 # Gap-analysis method for identifying gateway courses via predicted versus observed DFW rates and persistence gaps
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A learning-analytics method using institutional student records. A binary logistic regression predicts the probability a student posts a D, F, or W grade using Student Type, life-cycle stage, prior cumulative GPA, and prior DFW fraction; predicted and observed rates are recorded per course and "the difference (Gap) between them calculated." A second gap compares persistence of students in a course to students in all courses of the same type at the same degree-path point, by student type and stage.

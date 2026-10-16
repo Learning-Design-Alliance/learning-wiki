@@ -13,16 +13,20 @@ sources:
     title: Poon K 2018
     q: 2
     i: 1
+    kind: associational
+    rigour: 2
   - id: poon-k-2018-2
     title: Poon K 2018 (2)
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Cool EF measures correlate with each other, but no association is found between cool and hot EF measures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i1` small
+> **Evidence** · 2 studies · 2 associational `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` Backward digit span correlates positively with CNT attentional control after controlling age, IQ, and SES. [→ Poon K 2018](#poon-k-2018)
@@ -34,7 +38,7 @@ sources:
 
 Poon K (2018) Hot and Cool Executive Functions in Adolescence: Development and Contributions to Important Developmental Outcomes. Front. Psychol. 8:2311. https://doi.org/10.3389/fpsyg.2017.02311
 
-`q2 · i1`
+`q2 · i1` · `associational · r2`
 
 Partial Pearson's correlations controlling age, general intellectual ability, and SES variables among EF measures. The article reports a significant positive correlation between Backward Digit Span and CNT attentional control, r = 0.180, p < 0.05, and a trend between Stroop and CNT attentional control (p = 0.07).
 
@@ -44,7 +48,7 @@ Partial Pearson's correlations controlling age, general intellectual ability, an
 
 Poon K (2018) Hot and Cool Executive Functions in Adolescence: Development and Contributions to Important Developmental Outcomes. Front. Psychol. 8:2311. https://doi.org/10.3389/fpsyg.2017.02311
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Same partial correlation analysis (Table 4). The article reports that none of the hot EF measures were significantly or marginally inter-correlated or correlated with the cool measures, supporting the hypothesized separability of hot and cool EF domains.
 

@@ -15,12 +15,14 @@ sources:
     author: Fuhrmann D., Casey C.S., Speekenbrink M., Blakemore S.-J.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Social exclusion has no significant effect on visuo-spatial dot-matrix working memory accuracy in any age group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Neither the main effect of Cyberball condition nor its interaction with age group was significant for dot-matrix accuracy, and no age group showed a significant inclusion-exclusion difference. [→ Fuhrmann D. 2019](#fuhrmann-d-2019)
@@ -31,7 +33,7 @@ sources:
 
 Fuhrmann D., Casey C.S., Speekenbrink M., Blakemore S.-J. (2019). Social exclusion affects working memory performance in young adolescent girls. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2019.100718
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 GLMM analysis of dot-matrix visuo-spatial working memory accuracy in the same 98-participant experiment found no main effect (χ2(1) = 0.42, p = 0.516) and no condition-by-age interaction (χ2(2) = 0.44, p = 0.802); equivalence was not tested and no effect size was printed.
 

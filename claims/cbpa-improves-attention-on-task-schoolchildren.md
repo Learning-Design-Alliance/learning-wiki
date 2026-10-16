@@ -15,12 +15,14 @@ sources:
     author: Ruhland Stefanie, Lange Klaus W.
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Classroom-based physical activity interventions improve attention and/or on-task behavior in most reviewed studies of schoolchildren aged 4–18
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Of 20 included studies, 16 found significant improvement in attention parameters and/or on-task behavior after classroom-based physical activity interventions. [→ Ruhland Stefanie 2021](#ruhland-stefanie-2021)
@@ -31,7 +33,7 @@ sources:
 
 Ruhland Stefanie, Lange Klaus W. (2021). Effect of classroom-based physical activity interventions on attention and on-task behavior in schoolchildren: A systematic review. Sports Medicine and Health Science. https://doi.org/10.1016/j.smhs.2021.08.003
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Systematic review (PRISMA) of 20 prospective studies with 6032 students aged 7–16; the review reports that "The 16 remaining studies found significant improvement in attention parameters and/or on-task behavior after PA interventions." No pooled effect size was computed.
 

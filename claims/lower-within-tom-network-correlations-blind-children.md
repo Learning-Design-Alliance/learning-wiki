@@ -15,18 +15,22 @@ sources:
     author: Richardson H., Saxe R., Bedny M.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: richardson-h-2023-2
     resource: "https://doi.org/10.1016/j.dcn.2023.101285"
     title: "Richardson H., Saxe R., Bedny M. (2023). Neural correlates of theory of mind reasoning in congenitally blind children. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2023.101285"
     author: Richardson H., Saxe R., Bedny M.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Inter-region correlations within the ToM network are lower in blind children, while ToM and language networks remain functionally distinct
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Within-ToM inter-region correlations were significantly lower among blind children relative to all sighted children (b=−0.72, t=−2.7, p=.008), while within-language and across-network correlations did not differ. [→ Richardson H. 2023](#richardson-h-2023)
@@ -38,7 +42,7 @@ sources:
 
 Richardson H., Saxe R., Bedny M. (2023). Neural correlates of theory of mind reasoning in congenitally blind children. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2023.101285
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Inter-region correlation analysis of fMRI timecourses from ToM and language ROIs in 17 blind and 114 sighted children. Within-ToM correlations were "significantly lower among blind children"; language-network correlations did not differ (p=.51). No effect size printed.
 
@@ -48,7 +52,7 @@ Inter-region correlation analysis of fMRI timecourses from ToM and language ROIs
 
 Richardson H., Saxe R., Bedny M. (2023). Neural correlates of theory of mind reasoning in congenitally blind children. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2023.101285
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 One-tailed paired t-tests within the blind group (n=17) comparing within- versus across-network correlations. Within-ToM M(SE)=0.23(0.03) exceeded across-network M(SE)=0.18(0.02); sighted children showed the same pattern. No effect size printed.
 

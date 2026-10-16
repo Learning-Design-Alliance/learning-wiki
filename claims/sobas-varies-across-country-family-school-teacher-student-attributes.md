@@ -15,12 +15,14 @@ sources:
     author: M.M. Chiu, B.W.Y. Chow, C. McBride, S.T. Mol
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # SOBAS differs across attributes of countries, families, schools, teachers, and students in 41 countries
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Students' sense of belonging at school differed across attributes of countries, families, schools, teachers, and students. [→ M.M. Chiu 2016](#mm-chiu-2016)
@@ -31,7 +33,7 @@ sources:
 
 M.M. Chiu, B.W.Y. Chow, C. McBride, S.T. Mol. (2016). Students’ sense of belonging at school in 41 countries: cross-cultural variability. Journal of Cross-Cultural Psychology. https://doi.org/10.1177/0022022115617031
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 The study's overall question was tested with multilevel analyses of survey and test data from 193,073 15-year-old students in 41 countries, examining whether SOBAS "differed across attributes of countries, families, schools, teachers, or students". No effect size is printed in the available text.
 

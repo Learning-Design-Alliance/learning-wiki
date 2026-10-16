@@ -15,12 +15,14 @@ sources:
     author: "Burton, S., Knibb, G., & Jones, A."
     q: 4
     i: 1
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # The prospect of reward for successful inhibition significantly improves inhibitory control (SMD = 0.429) compared with no-reward conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i1` small
+> **Evidence** · 1 study · quant-synthesis `r3` · `q4` · `i1` small
 
 ## Subclaims
 `q4 i1` Across 80 effect sizes from 73 articles, the prospect of reward for successful inhibition significantly improved inhibitory control compared with no-reward conditions (SMD = 0.429, 95% CI = 0.288, 0.570). [→ Burton 2021](#burton-2021)
@@ -31,7 +33,7 @@ sources:
 
 Burton, S., Knibb, G., & Jones, A. (2021). A meta-analytic investigation of the role of reward on inhibitory control. Quarterly Journal of Experimental Psychology. https://doi.org/10.1177/17470218211008895
 
-`q4 · i1`
+`q4 · i1` · `quant-synthesis · r3`
 
 Pre-registered random-effects meta-analysis of 80 effect sizes from 73 articles (1997-2020) comparing rewarded versus non-rewarded inhibition trials. The pooled effect was "SMD = 0.429" with very high heterogeneity (I2 = 96.7%).
 

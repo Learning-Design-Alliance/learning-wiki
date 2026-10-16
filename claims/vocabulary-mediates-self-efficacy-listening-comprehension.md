@@ -15,12 +15,14 @@ sources:
     author: E. de Bree, M. Zee
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Vocabulary mediates the association between academic self-efficacy and listening comprehension
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Bias-corrected bootstrap procedures indicated vocabulary mediated the association between academic self-efficacy and listening comprehension. [→ E. de Bree 2021](#e-de-bree-2021)
@@ -31,7 +33,7 @@ sources:
 
 E. de Bree, M. Zee. (2021). The unique role of verbal memory, vocabulary, concentration and self-efficacy in children's listening comprehension in upper elementary grades. First Language. https://doi.org/10.1177/0142723720941680
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Mediation testing within the SEM analysis of 442 upper elementary children: "Using bias-corrected bootstrap procedures, however, vocabulary appeared to mediate the association between academic self-efficacy and listening comprehension."
 

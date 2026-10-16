@@ -15,18 +15,22 @@ sources:
     author: "López-Gil, J.F., Oriol-Granado, X., Izquierdo, M., Ramírez-Vélez, R., Fernández-Vergara, O., Olloquequi, J., & García-Hermoso, A."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: lópez-gil-2020-2
     resource: "https://doi.org/10.3390/ijerph17165676"
     title: "López-Gil, J.F., Oriol-Granado, X., Izquierdo, M., Ramírez-Vélez, R., Fernández-Vergara, O., Olloquequi, J., & García-Hermoso, A. (2020). Healthy Lifestyle Behaviors and Their Association with Self-Regulation in Chilean Children. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph17165676"
     author: "López-Gil, J.F., Oriol-Granado, X., Izquierdo, M., Ramírez-Vélez, R., Fernández-Vergara, O., Olloquequi, J., & García-Hermoso, A."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Mediterranean Diet adherence alone shows no significant association with self-regulation, but helps in combination with other habits
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The study found no statistically significant differences between MD adherence and SR score in the category comparison. [→ López-Gil 2020](#lopez-gil-2020)
@@ -38,7 +42,7 @@ sources:
 
 López-Gil, J.F., Oriol-Granado, X., Izquierdo, M., Ramírez-Vélez, R., Fernández-Vergara, O., Olloquequi, J., & García-Hermoso, A. (2020). Healthy Lifestyle Behaviors and Their Association with Self-Regulation in Chilean Children. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph17165676
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 ANCOVA comparison of self-regulation across Mediterranean Diet adherence categories in 1561 children, adjusted for age, sex, BMI z-score and sleep quality. The authors state they "did not find statistically significant differences between MD adherence and SR score"; equivalence was not tested.
 
@@ -48,7 +52,7 @@ ANCOVA comparison of self-regulation across Mediterranean Diet adherence categor
 
 López-Gil, J.F., Oriol-Granado, X., Izquierdo, M., Ramírez-Vélez, R., Fernández-Vergara, O., Olloquequi, J., & García-Hermoso, A. (2020). Healthy Lifestyle Behaviors and Their Association with Self-Regulation in Chilean Children. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph17165676
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 ANCOVA with Bonferroni pairwise post-hoc comparisons across combined PA and MD groups in the same sample. Active children with MD adherence "had higher SR compared to inactive and non-adherence peers" (p = 0.006).
 

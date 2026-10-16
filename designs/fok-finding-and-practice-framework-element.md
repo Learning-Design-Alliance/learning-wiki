@@ -17,6 +17,7 @@ sources:
 # Framework for finding students' funds of knowledge and categorising FoK/I-related teaching practices
 
 > **Design** · [All designs](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A framework produced by the project's analyses that serves two functions: it "suggests ways to find students’ FoK" and it categorises FoK/I-related teaching practices along two dimensions — (1) individual students' resources vs. collective resources and (2) scope of the teaching activities. It is the article's central artifact for supporting teachers in superdiverse primary classrooms.

@@ -15,12 +15,14 @@ sources:
     author: "Burton, S., Knibb, G., & Jones, A."
     q: 4
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # The effect of reward on inhibitory control is not moderated by participant age (children vs adults)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q4` pre-registered or meta-analytic
+> **Evidence** · 1 study · quant-synthesis `r3` · `q4`
 
 ## Subclaims
 `q4 i?` Exploratory moderation found no evidence that age moderates the reward effect on IC: child samples (k = 28, SMD = 0.515) and adult samples (k = 50, SMD = 0.396) did not differ significantly. [→ Burton 2021](#burton-2021)
@@ -31,7 +33,7 @@ sources:
 
 Burton, S., Knibb, G., & Jones, A. (2021). A meta-analytic investigation of the role of reward on inhibitory control. Quarterly Journal of Experimental Psychology. https://doi.org/10.1177/17470218211008895
 
-`q4 · i?`
+`q4 · i?` · `quant-synthesis · r3`
 
 Exploratory moderator analysis comparing child (younger than 18) versus adult samples. Both subgroups showed significant positive reward effects, but the test found "no evidence of moderation, χ2(1) = 0.877, p = .349".
 

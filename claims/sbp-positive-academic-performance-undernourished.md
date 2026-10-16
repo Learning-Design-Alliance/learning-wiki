@@ -15,18 +15,22 @@ sources:
     author: Adolphus, K., Lawton, C. L., and Dye, L.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: adolphus-2013-2
     resource: "https://doi.org/10.3389/fnhum.2013.00425"
     title: "Adolphus, K., Lawton, C. L., and Dye, L. (2013). The effects of breakfast on behavior and academic performance in children and adolescents. Frontiers in Human Neuroscience. https://doi.org/10.3389/fnhum.2013.00425"
     author: Adolphus, K., Lawton, C. L., and Dye, L.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # School breakfast programs show suggestive positive effects on academic performance, with clearest effects on mathematics and arithmetic grades in undernourished children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Twenty-one of twenty-two studies indicated habitual breakfast and SBPs positively affect academic performance, with three studies observing clearest effects on mathematics grades. [→ Adolphus 2013](#adolphus-2013)
@@ -38,7 +42,7 @@ sources:
 
 Adolphus, K., Lawton, C. L., and Dye, L. (2013). The effects of breakfast on behavior and academic performance in children and adolescents. Frontiers in Human Neuroscience. https://doi.org/10.3389/fnhum.2013.00425
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review's synthesis of 22 studies employing academic performance measures (school grades or standardized achievement tests). It reports "Twenty-one studies demonstrated that habitual breakfast (frequency and quality) and SBPs have a positive effect on children and adolescents’ academic performance."
 
@@ -48,7 +52,7 @@ The review's synthesis of 22 studies employing academic performance measures (sc
 
 Adolphus, K., Lawton, C. L., and Dye, L. (2013). The effects of breakfast on behavior and academic performance in children and adolescents. Frontiers in Human Neuroscience. https://doi.org/10.3389/fnhum.2013.00425
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review's synthesis of SBP intervention evaluations (attributed to Rahmani et al., 2011; Kleinman et al., 2002; Murphy et al., 1998): "Effects were demonstrable after an intervention period of 3–6 months," with mathematics grades the clearest outcome.
 

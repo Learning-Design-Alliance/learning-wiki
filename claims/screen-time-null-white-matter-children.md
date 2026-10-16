@@ -15,18 +15,22 @@ sources:
     author: Marciano Laura, Camerini Anne-Linda, Morese Rosalba
     q: 3
     i: "?"
+    kind: review
+    rigour: 3
   - id: marciano-laura-2021-2
     resource: "https://doi.org/10.3389/fpsyg.2021.671817"
     title: "Marciano Laura, Camerini Anne-Linda, Morese Rosalba. (2021). The Developing Brain in the Digital Era: A Scoping Review of Structural and Functional Correlates of Screen Time in Adolescence. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2021.671817"
     author: Marciano Laura, Camerini Anne-Linda, Morese Rosalba
     q: 3
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Screen time is not significantly associated with white matter microstructure (FA, MD) in 10-year-olds, while sports participation is positively associated with FA
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · review `r3` · `q3`
 
 ## Subclaims
 `q3 i?` In a large sample of 10-year-olds, screen time was not significantly associated with any global DTI metrics including FA and MD. [→ Marciano Laura 2021](#marciano-laura-2021)
@@ -38,7 +42,7 @@ sources:
 
 Marciano Laura, Camerini Anne-Linda, Morese Rosalba. (2021). The Developing Brain in the Digital Era: A Scoping Review of Structural and Functional Correlates of Screen Time in Adolescence. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2021.671817
 
-`q3 · i?`
+`q3 · i?` · `review · r3`
 
 DTI analysis of parent-reported television, computer, and video game use in a sample of 2532 10-year-olds; the study found no significant association between screen time and white matter microstructure. Equivalence was not tested; no effect size printed.
 
@@ -48,7 +52,7 @@ DTI analysis of parent-reported television, computer, and video game use in a sa
 
 Marciano Laura, Camerini Anne-Linda, Morese Rosalba. (2021). The Developing Brain in the Digital Era: A Scoping Review of Structural and Functional Correlates of Screen Time in Adolescence. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2021.671817
 
-`q3 · i?`
+`q3 · i?` · `review · r3`
 
 Same DTI study: physical activity associations with white matter remained "after adjusting for levels of screen time," which the authors read as benefits of sports participation and outdoor play not neutralized by screen exposure. No effect size printed.
 

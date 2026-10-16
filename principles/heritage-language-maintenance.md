@@ -13,7 +13,7 @@ generated:
 # Preserve Heritage Language While Acquiring an Additional Language
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (16 for, 5 mixed) · 19 studies (5 review, 5 theoretical, 3 quant-synthesis, 3 qualitative, 2 causal, 1 associational), `q1`–`q3` · 1 of 19 report an effect size · 19 claims rest on one study
+> **Evidence** · 22 claims (17 for, 5 mixed) · 20 studies (5 review, 5 theoretical, 3 quant-synthesis, 3 qualitative, 2 causal, 2 associational), `q1`–`q3` · 2 of 20 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 

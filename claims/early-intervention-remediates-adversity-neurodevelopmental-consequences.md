@@ -15,12 +15,14 @@ sources:
     author: Bick, J., Nelson, C.
     q: 2
     i: "?"
+    kind: review
+    rigour: "?"
 ---
 
 # Early intervention can remediate neurodevelopmental consequences associated with maltreatment or institutional rearing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Emerging data indicate that early intervention is effective in remediating neurodevelopmental consequences of maltreatment or institutional rearing. [→ Bick 2016](#bick-2016)
@@ -31,7 +33,7 @@ sources:
 
 Bick, J., Nelson, C. (2016). Early Adverse Experiences and the Developing Brain. Neuropsychopharmacol. https://doi.org/10.1038/npp.2015.252
 
-`q2 · i?`
+`q2 · i?` · `review · r?`
 
 The review reports that it reviews "emerging data pointing to the effectiveness of early intervention" for remediating neurodevelopmental consequences of both focal adversity forms. The supplied text prints no effect sizes for these intervention findings.
 

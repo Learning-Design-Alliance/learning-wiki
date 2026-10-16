@@ -13,16 +13,20 @@ sources:
     title: Liu S 2020
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 3
   - id: liu-s-2020-2
     title: Liu S 2020 (2)
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Open-skill exercises yield larger executive function benefits than closed-skill exercises for inhibitory control and working memory
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 2 studies · 2 quant-synthesis `r2`–`r3` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Open motor skill interventions show a significantly larger effect on inhibitory control (SMD = −0.56) than closed motor skills (SMD = −0.11). [→ Liu S 2020](#liu-s-2020)
@@ -34,7 +38,7 @@ sources:
 
 Liu S, Yu Q, Li Z, Cunha PM, Zhang Y, Kong Z, Lin W, Chen S and Cai Y (2020) Effects of Acute and Chronic Exercises on Executive Function in Children and Adolescents: A Systemic Review and Meta-Analysis. Front. Psychol. 11:554915. https://doi.org/10.3389/fpsyg.2020.554915
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r3`
 
 Subgroup analysis of chronic exercise effects on inhibitory control by skill type (Q = 14.49, p = 0.001), showing open motor skills (e.g., physical education, basketball, ping-pong) outperformed closed-skill exercises (e.g., yoga, running).
 
@@ -44,7 +48,7 @@ Subgroup analysis of chronic exercise effects on inhibitory control by skill typ
 
 Liu S, Yu Q, Li Z, Cunha PM, Zhang Y, Kong Z, Lin W, Chen S and Cai Y (2020) Effects of Acute and Chronic Exercises on Executive Function in Children and Adolescents: A Systemic Review and Meta-Analysis. Front. Psychol. 11:554915. https://doi.org/10.3389/fpsyg.2020.554915
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Subgroup analysis of chronic exercise effects on working memory by intervention classification, showing open motor skills produced a larger effect than closed motor skills.
 

@@ -13,16 +13,20 @@ sources:
     title: Brookman-Byrne A 2018
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: brookman-byrne-a-2018-2
     title: Brookman-Byrne A 2018 (2)
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Adolescents show lower accuracy and longer reaction times on counterintuitive misconception trials than on matched control trials in science and maths
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 2 studies · 2 associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Accuracy was lower on misconception trials (54.7%) than control trials (82.2%) in the science and maths misconceptions task. [→ Brookman-Byrne A 2018](#brookman-byrne-a-2018)
@@ -34,7 +38,7 @@ sources:
 
 Brookman-Byrne A, Mareschal D, Tolmie AK, Dumontheil I (2018) Inhibitory control and counterintuitive science and maths reasoning in adolescence. PLoS ONE 13(6): e0198973. https://doi.org/10.1371/journal.pone.0198973
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Mixed-model repeated measures ANOVA on accuracy in the science and maths misconceptions task (final N = 87) showed a main effect of Trial type, F(1, 83) = 816.73, p< .001, ηp2 = .908, with "a mean accuracy of 82.2%" in control versus 54.7% in misconception trials.
 
@@ -44,7 +48,7 @@ Mixed-model repeated measures ANOVA on accuracy in the science and maths misconc
 
 Brookman-Byrne A, Mareschal D, Tolmie AK, Dumontheil I (2018) Inhibitory control and counterintuitive science and maths reasoning in adolescence. PLoS ONE 13(6): e0198973. https://doi.org/10.1371/journal.pone.0198973
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 The same ANOVA on RT (N = 87) showed main effects of Trial type, F(1, 83) = 310.32, p< .001, ηp2 = .789, and Discipline, F(1, 83) = 55.73, p< .001, ηp2 = .402, "with longer RTs in maths compared to science, misconception compared to control trials".
 

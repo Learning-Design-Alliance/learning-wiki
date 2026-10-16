@@ -15,12 +15,14 @@ sources:
     author: "Walsh, K., Pink, E., Ayling, N., Sondergeld, A., Dallaston, E., Tournas, P., Serry, E., Trotter, S., Spanos, T., & Rogic, N."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Existing digital citizenship and online safety frameworks were appraised as too broad and not addressing serious online risks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The review's appraisal concluded existing international frameworks were broad, touched lightly on low-level risks, and did not address serious risks such as cyberbullying and online sexual exploitation. [→ Walsh 2022](#walsh-2022)
@@ -31,7 +33,7 @@ sources:
 
 Walsh, K., Pink, E., Ayling, N., Sondergeld, A., Dallaston, E., Tournas, P., Serry, E., Trotter, S., Spanos, T., & Rogic, N. (2022). Best Practice Framework for Online Safety Education: Results from a rapid review of the international literature, expert review, and stakeholder consultation. International Journal of Child-Computer Interaction, 33, Article number: 100474. https://doi.org/10.1016/j.ijcci.2022.100474
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Stage 1 rapid review appraisal of eight internationally developed frameworks (e.g., UKCCIS, DQ Institute, Council of Europe, Common Sense, Ribble, iKeepSafe). The authors report the frameworks clustered into four digital citizenship themes but conclude they "did not address more serious risks such as cyberbullying". No effect size applies.
 

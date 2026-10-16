@@ -13,12 +13,14 @@ sources:
     title: Rivas SF 2022
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # The ARDESOS-DIAPROVE intervention significantly improved critical thinking skills, with higher PENCRISAL medians after intervention in the total score and all five factors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Critical thinking performance medians rose after intervention in the PENCRISAL total and in all five factors (deductive reasoning, inductive reasoning, practical reasoning, decision-making, problem-solving). [→ Rivas SF 2022](#rivas-sf-2022)
@@ -29,7 +31,7 @@ sources:
 
 Rivas SF, Saiz C and Ossa C (2022) Metacognitive Strategies and Development of Critical Thinking in Higher Education. Front. Psychol. 13:913219. https://doi.org/10.3389/fpsyg.2022.913219
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Pre-post comparison on the PENCRISAL test (35 open-answer items across five factors) in the same 89-student quasi-experimental study; the article reports "significant differences in the scale total and in the five factors" with rising medians.
 

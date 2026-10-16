@@ -15,18 +15,22 @@ sources:
     author: "Xu, E., Wang, W., & Wang, Q."
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
   - id: xu-2023-2
     resource: "https://doi.org/10.1057/s41599-023-01508-1"
     title: "Xu, E., Wang, W., & Wang, Q. (2023). The effectiveness of collaborative problem solving in promoting students' critical thinking: A meta-analysis based on empirical literature. Humanities and Social Sciences Communications. https://doi.org/10.1057/s41599-023-01508-1"
     author: "Xu, E., Wang, W., & Wang, Q."
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Teacher-supported learning scaffolds show the largest effect (ES = 0.92), and longer intervention durations yield larger effects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2`–`r3` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Among learning scaffolds, the teacher-supported scaffold had the largest effect (ES = 0.92, P < 0.01), compared with resource-supported (ES = 0.69) and technique-supported (ES = 0.63). [→ Xu 2023](#xu-2023)
@@ -38,7 +42,7 @@ sources:
 
 Xu, E., Wang, W., & Wang, Q. (2023). The effectiveness of collaborative problem solving in promoting students' critical thinking: A meta-analysis based on empirical literature. Humanities and Social Sciences Communications. https://doi.org/10.1057/s41599-023-01508-1
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Subgroup analysis by learning scaffold (Table 4): teacher-supported (62 effect quantities, ES = 0.92), resource-supported (44, ES = 0.69), technique-supported (49, ES = 0.63); all three scaffold types enhanced critical thinking significantly.
 
@@ -48,7 +52,7 @@ Subgroup analysis by learning scaffold (Table 4): teacher-supported (62 effect q
 
 Xu, E., Wang, W., & Wang, Q. (2023). The effectiveness of collaborative problem solving in promoting students' critical thinking: A meta-analysis based on empirical literature. Humanities and Social Sciences Communications. https://doi.org/10.1057/s41599-023-01508-1
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r3`
 
 Subgroup analysis by intervention duration (Table 4): 1–4 weeks (4 effect quantities, ES = 0.64, CI crossing zero), 4–12 weeks (13, ES = 0.79), more than 12 weeks (62, ES = 0.85); intergroup difference significant (chi2 = 12.18, P < 0.01).
 

@@ -15,12 +15,14 @@ sources:
     author: "Silva, H., Lopes, J., Dominguez, C., & Morais, E."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Cooperative learning reduced disparities between students' critical thinking scores, with lower performers gaining most
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In the experimental class the spread of total CTTBE scores decreased from pretest to posttest, while in the control class individual differences increased; the authors attribute this to lower-performing students obtaining greater gains. [→ Silva 2022](#silva-2022)
@@ -31,7 +33,7 @@ sources:
 
 Silva, H., Lopes, J., Dominguez, C., & Morais, E. (2022). Think-Pair-Share and Roundtable: Two Cooperative Learning Structures to Enhance Critical Thinking Skills of 4th Graders. International Electronic Journal of Elementary Education, 15(1), 11-21. https://doi.org/10.26822/iejee.2022.274
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Figure 1 shows distributions of pre and posttest total scores for both classes; the text states the intervention "led to smaller disparities between the students of that class" and that lower performers gained most.
 

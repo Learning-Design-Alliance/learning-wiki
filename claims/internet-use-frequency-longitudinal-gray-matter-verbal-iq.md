@@ -15,18 +15,22 @@ sources:
     author: Marciano Laura, Camerini Anne-Linda, Morese Rosalba
     q: 3
     i: "?"
+    kind: review
+    rigour: 3
   - id: marciano-laura-2021-2
     resource: "https://doi.org/10.3389/fpsyg.2021.671817"
     title: "Marciano Laura, Camerini Anne-Linda, Morese Rosalba. (2021). The Developing Brain in the Digital Era: A Scoping Review of Structural and Functional Correlates of Screen Time in Adolescence. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2021.671817"
     author: Marciano Laura, Camerini Anne-Linda, Morese Rosalba
     q: 3
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Frequency of Internet use negatively predicts longitudinal change in gray and white matter volumes and in verbal IQ in early adolescents
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · review `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Longitudinal VBM analyses showed frequency of Internet use negatively predicted change (smaller volume increase) in regional gray and white matter volumes of a widespread anatomical cluster. [→ Marciano Laura 2021](#marciano-laura-2021)
@@ -38,7 +42,7 @@ sources:
 
 Marciano Laura, Camerini Anne-Linda, Morese Rosalba. (2021). The Developing Brain in the Digital Era: A Scoping Review of Structural and Functional Correlates of Screen Time in Adolescence. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2021.671817
 
-`q3 · i?`
+`q3 · i?` · `review · r3`
 
 Longitudinal VBM study of 284 early adolescents aged 11 years with follow-up around age 14; cross-sectional analyses found no correlations between regional gray and white matter volumes and Internet use frequency. No effect size printed.
 
@@ -48,7 +52,7 @@ Longitudinal VBM study of 284 early adolescents aged 11 years with follow-up aro
 
 Marciano Laura, Camerini Anne-Linda, Morese Rosalba. (2021). The Developing Brain in the Digital Era: A Scoping Review of Structural and Functional Correlates of Screen Time in Adolescence. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2021.671817
 
-`q3 · i?`
+`q3 · i?` · `review · r3`
 
 Same longitudinal study: the review reports the negative correlation with verbal IQ change measured by the Wechsler IQ test, which the authors link to smaller development in the affected regions. No effect size printed.
 

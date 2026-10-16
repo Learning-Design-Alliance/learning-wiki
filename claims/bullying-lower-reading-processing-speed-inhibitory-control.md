@@ -15,18 +15,22 @@ sources:
     author: Menken Miriam S., Rodriguez Rivera Pedro J., Isaiah Amal, Ernst Thomas, Cloak Christine C., Chang Linda
     q: 3
     i: 1
+    kind: associational
+    rigour: 3
   - id: menken-miriam-s-2023-2
     resource: "https://doi.org/10.1016/j.dcn.2023.101247"
     title: "Menken Miriam S., Rodriguez Rivera Pedro J., Isaiah Amal, Ernst Thomas, Cloak Christine C., Chang Linda. (2023). Longitudinal alterations in brain morphometry mediated the effects of bullying victimization on cognitive development in preadolescents. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2023.101247"
     author: Menken Miriam S., Rodriguez Rivera Pedro J., Isaiah Amal, Ernst Thomas, Cloak Christine C., Chang Linda
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Bullied preadolescents score lower than matched non-bullied peers on reading, processing speed, and inhibitory control/attention over two years
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Bullied children had significantly lower reading (d = -0.33), processing speed (d = -0.31), and inhibitory control and attention (d = -0.20) scores than matched non-bullied children. [→ Menken Miriam S. 2023](#menken-miriam-s-2023)
@@ -38,7 +42,7 @@ sources:
 
 Menken Miriam S., Rodriguez Rivera Pedro J., Isaiah Amal, Ernst Thomas, Cloak Christine C., Chang Linda. (2023). Longitudinal alterations in brain morphometry mediated the effects of bullying victimization on cognitive development in preadolescents. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2023.101247
 
-`q3 · i1`
+`q3 · i1` · `associational · r3`
 
 Linear mixed-effects models on the matched ABCD sample (323 bullied vs 322 non-bullied, ages ~9.9 years at baseline, two annual visits) with covariates including sex, age, race/ethnicity, income, CBCL scores, BMI and ICV. The article reports "lower scores than non-bullied children" with the printed Cohen's d values and CIs above.
 
@@ -48,7 +52,7 @@ Linear mixed-effects models on the matched ABCD sample (323 bullied vs 322 non-b
 
 Menken Miriam S., Rodriguez Rivera Pedro J., Isaiah Amal, Ernst Thomas, Cloak Christine C., Chang Linda. (2023). Longitudinal alterations in brain morphometry mediated the effects of bullying victimization on cognitive development in preadolescents. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2023.101247
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Same matched longitudinal LMM analysis of NIH Toolbox scores. The article reports no statistically significant group differences on the crystallized composite, episodic memory, or vocabulary measures; equivalence was not tested.
 

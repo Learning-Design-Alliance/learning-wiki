@@ -13,12 +13,14 @@ sources:
     title: Stormark KM 2019
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Transitory sleep problems (DIMS at age 7–9 only) do not increase the risk of later poor academic performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Transitory DIMS showed no increased risk of poor academic performance at T2 (fully adjusted OR 0.50, 95% CI 0.25–1.02), with a non-significant trend toward lower risk. [→ Stormark KM 2019](#stormark-km-2019)
@@ -29,7 +31,7 @@ sources:
 
 Stormark KM, Fosse HE, Pallesen S, Hysing M (2019) The association between sleep problems and academic performance in primary school-aged children: Findings from a Norwegian longitudinal population-based study. PLoS ONE 14(11): e0224139. https://doi.org/10.1371/journal.pone.0224139
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Logistic regression contrasting the Transitory DIMS group (DIMS at T1 only) with the No DIMS group in the longitudinal cohort. The fully adjusted "OR 0.50; 95% CI 0.25–1.02" did not reach significance.
 

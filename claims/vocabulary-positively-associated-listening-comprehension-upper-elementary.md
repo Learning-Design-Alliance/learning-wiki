@@ -15,12 +15,14 @@ sources:
     author: E. de Bree, M. Zee
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Vocabulary is positively associated with listening comprehension in upper elementary children (9-12 years)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Vocabulary was positively associated with children's listening comprehension in structural equation models of 442 upper elementary children. [→ E. de Bree 2021](#e-de-bree-2021)
@@ -31,7 +33,7 @@ sources:
 
 E. de Bree, M. Zee. (2021). The unique role of verbal memory, vocabulary, concentration and self-efficacy in children's listening comprehension in upper elementary grades. First Language. https://doi.org/10.1177/0142723720941680
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Structural equation modeling of concurrent measures in a sample of 442 upper elementary school children (9- to 12-year-olds) assessed oral text comprehension alongside vocabulary, memory, self-efficacy and concentration; the best-fitting model found "Vocabulary, in turn, was positively associated with children's listening comprehension."
 

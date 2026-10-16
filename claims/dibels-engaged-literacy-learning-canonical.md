@@ -15,12 +15,14 @@ sources:
     author: "Rouse, H. L., & Fantuzzo, J. W."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # DIBELS subtests form a significant multivariate pair with peer-play and learning-behavior dimensions (Engaged Literacy Learning variate)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Canonical analysis yielded one significant variate pair, Engaged Literacy Learning (Rc = .26), with positive loadings for Play Interaction and negative loadings for Play Disconnection. [→ Rouse 2006](#rouse-2006)
@@ -31,7 +33,7 @@ sources:
 
 Rouse, H. L., & Fantuzzo, J. W. (2006). Validity of the Dynamic Indicators for Basic Early Literacy Skills as an Indicator of Early Literacy for Urban Kindergarten Children. School Psychology Review, 35(3), 341-355. https://doi.org/10.1080/02796015.2006.12087971
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Canonical variance analysis relating PIPPS and LBS dimensions to DIBELS subtests (N = 289) produced one significant variate pair, "En- gaged Literacy Leaming {Re = .26)"; redundancy analysis showed social-behavioral dimensions explained 14% of DIBELS variance and DIBELS 21% of theirs.
 

@@ -13,6 +13,7 @@ generated:
 # Working Memory Power Test for Children (WMPT)
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A computer-administered assessment developed by ebilities that measures children's working-memory accuracy and confidence-based metacognitive monitoring across increasing difficulty levels.

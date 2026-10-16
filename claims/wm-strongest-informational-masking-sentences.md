@@ -15,18 +15,22 @@ sources:
     author: Dryden Adam, Allen Harriet A., Henshaw Helen, Heinrich Antje
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
   - id: dryden-adam-2017-2
     resource: "https://doi.org/10.1177/2331216517744675"
     title: "Dryden Adam, Allen Harriet A., Henshaw Helen, Heinrich Antje. (2017). The Association Between Cognitive Performance and Speech-in-Noise Perception for Adult Listeners: A Systematic Literature Review and Meta-Analysis. Trends in Hearing. https://doi.org/10.1177/2331216517744675"
     author: Dryden Adam, Allen Harriet A., Henshaw Helen, Heinrich Antje
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Working-memory associations with SiN perception appear strongest under informational masking and sentence targets (r up to .43)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` WM associations with masker types ranged from .26 (unmodulated noise) to .39 (>2-talker babble), appearing to increase with informational masking. [→ Dryden Adam 2017](#dryden-adam-2017)
@@ -38,7 +42,7 @@ sources:
 
 Dryden Adam, Allen Harriet A., Henshaw Helen, Heinrich Antje. (2017). The Association Between Cognitive Performance and Speech-in-Noise Perception for Adult Listeners: A Systematic Literature Review and Meta-Analysis. Trends in Hearing. https://doi.org/10.1177/2331216517744675
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Meta-analyses of WM by masker type (Table 6): unmodulated noise r = .26, modulated noise r = .31, >2-talker babble r = .39. The review notes association strength "appeared to increase with an increasing amount of informational masking".
 
@@ -48,7 +52,7 @@ Meta-analyses of WM by masker type (Table 6): unmodulated noise r = .26, modulat
 
 Dryden Adam, Allen Harriet A., Henshaw Helen, Heinrich Antje. (2017). The Association Between Cognitive Performance and Speech-in-Noise Perception for Adult Listeners: A Systematic Literature Review and Meta-Analysis. Trends in Hearing. https://doi.org/10.1177/2331216517744675
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r?`
 
 Meta-analyses of specific target–masker combinations (Table 7): WM–sentences–unmodulated noise r = .35, WM–sentences–modulated noise r = .32, WM–sentences–>2-talker babble r = .43; episodic memory–sentences–unmodulated noise r = .31. All reached significance.
 

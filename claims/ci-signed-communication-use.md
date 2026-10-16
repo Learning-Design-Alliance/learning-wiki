@@ -15,18 +15,22 @@ sources:
     author: "Punch, R., & Hyde, M. B."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: punch-2011-2
     resource: "https://doi.org/10.1155/2011/573280"
     title: "Punch, R., & Hyde, M. B. (2011). Communication, Psychosocial, and Educational Outcomes of Children with Cochlear Implants and Challenges Remaining for Professionals and Parents. International Journal of Otolaryngology. https://doi.org/10.1155/2011/573280"
     author: "Punch, R., & Hyde, M. B."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # A substantial proportion of children with cochlear implants used some form of signed communication despite parents' initial expectations otherwise
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Between 20% and 30% of children were reported by both teachers and parents to use some form of signed communication, and 19 of the 27 interviewed parents used signed communication to some extent with their children. [→ Punch 2011](#punch-2011)
@@ -38,7 +42,7 @@ sources:
 
 Punch, R., & Hyde, M. B. (2011). Communication, Psychosocial, and Educational Outcomes of Children with Cochlear Implants and Challenges Remaining for Professionals and Parents. International Journal of Otolaryngology. https://doi.org/10.1155/2011/573280
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Survey findings from parents (N = 247) and teachers (N = 151) on communication modes, elaborated by interviews in which 19 of 27 interviewed parents used signing. Parents valued signing for device-off communication, spoken language support, and Deaf community connection.
 
@@ -48,7 +52,7 @@ Survey findings from parents (N = 247) and teachers (N = 151) on communication m
 
 Punch, R., & Hyde, M. B. (2011). Communication, Psychosocial, and Educational Outcomes of Children with Cochlear Implants and Challenges Remaining for Professionals and Parents. International Journal of Otolaryngology. https://doi.org/10.1155/2011/573280
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 From the step-wise regression analyses of parent survey data. The authors call for further research examining the impact of bimodal and bilingual communication with deaf students with CI.
 

@@ -15,12 +15,14 @@ sources:
     author: Bidzan-Bluma Ilona, Lipowska Małgorzata
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Intervention studies show stronger physical-activity effects on children's cognition than correlational studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across attention, thinking, and language, correlational and associational studies showed much weaker effects than studies which included interventions. [→ Bidzan-Bluma Ilona 2018](#bidzan-bluma-ilona-2018)
@@ -31,7 +33,7 @@ sources:
 
 Bidzan-Bluma Ilona, Lipowska Małgorzata. (2018). Physical Activity and Cognitive Functioning of Children: A Systematic Review. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph15040800
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review's synthesis of its 58 included studies states that interventions "are effective" with only two studies not confirming the positive influence, and that the relationship is "stronger, and the effect size is larger" for interventions. No numeric effect size is printed.
 

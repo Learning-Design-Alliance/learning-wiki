@@ -13,12 +13,14 @@ sources:
     title: Brookman-Byrne A 2018
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Better response inhibition (complex No-Go accuracy) is associated with longer reaction times on counterintuitive misconception trials, not better performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Complex No-Go accuracy uniquely accounted for 1% of variance in misconception RT, with greater accuracy associated with longer RT, contrary to the hypothesis that better response inhibition would improve performance. [→ Brookman-Byrne A 2018](#brookman-byrne-a-2018)
@@ -29,7 +31,7 @@ sources:
 
 Brookman-Byrne A, Mareschal D, Tolmie AK, Dumontheil I (2018) Inhibitory control and counterintuitive science and maths reasoning in adolescence. PLoS ONE 13(6): e0198973. https://doi.org/10.1371/journal.pone.0198973
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Hierarchical multiple regression (N = 81) predicting misconception RT; model 2b added complex No-Go accuracy, R2 = 85%, ΔR2 = 1.0%, β = .10, p = .027. "Greater complex No-Go accuracy was associated with higher misconception RT".
 

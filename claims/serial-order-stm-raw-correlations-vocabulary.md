@@ -15,12 +15,14 @@ sources:
     author: "Leclercq, A.-L., & Majerus, S."
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Serial order STM shows raw concurrent and longitudinal correlations with vocabulary at both ages
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Raw correlations between the serial order reconstruction task and vocabulary were significant at Age 4 (r = .48, p<.01) and Age 5 (r = .54, p<.001), and the delayed nonword repetition task also correlated with vocabulary at both ages (r = .34 and r = .40). [→ Leclercq 2010](#leclercq-2010)
@@ -31,7 +33,7 @@ sources:
 
 Leclercq, A.-L., & Majerus, S. (2010). Serial Order Short-Term Memory Predicts Vocabulary Development: Evidence from a Longitudinal Study. Developmental Psychology. https://doi.org/10.1037/a0018540
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Zero-order correlation analyses in the longitudinal cohort at both assessment periods. The article reports "serial order reconstruction task at Age 4: r = .48, p<.01" and "serial order reconstruction task at Age 5: r = .54, p<.001", with nonword repetition correlations of r = .34 and r = .40.
 

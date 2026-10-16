@@ -1,15 +1,15 @@
 {
 "counts":{
 "claim":16681,
-"design":768,
+"design":771,
 "element":1066,
 "learner-variable":74,
 "method":38,
 "pattern":65,
 "principle":213,
 "process":18,
-"product":1595,
-"research-method":454,
+"product":1612,
+"research-method":457,
 "strategy":5770,
 "theory":1361
 },
@@ -150942,6 +150942,14 @@
 "type":"design"
 },
 {
+"description":"The Augmented Knights' Castle is \\\"an audio-enhanced Playmobil® medieval castle playset designed to let play ﬁgures 'come alive.'\\\" Play figures carry RFID tags identifying their location, so placing a figure in a speci...",
+"id":"augmented-knights-castle-akc",
+"path":"designs/augmented-knights-castle-akc.md",
+"status":"review",
+"title":"Augmented Knights' Castle (AKC): an RFID-augmented Playmobil playset producing context-relevant sounds",
+"type":"design"
+},
+{
 "description":"The study responds to a call for \\\"more ecologically valid psycholinguistic research\\\" by examining how readers incidentally acquire \\\"multifaceted vocabulary knowledge while reading a long, authentic text\\\".",
 "id":"authentic-long-texts-ecological-vocabulary-research",
 "path":"designs/authentic-long-texts-ecological-vocabulary-research.md",
@@ -151101,6 +151109,14 @@
 "path":"designs/brt-six-phase-assignment-process.md",
 "status":"review",
 "title":"Six-phase assignment process mapped to BRT cognitive steps",
+"type":"design"
+},
+{
+"description":"The BPP teaches that \\\"Bullying is often a group process which can involve various participant players\\\": children are not just bullies or victims but can act as assistants who encourage bullying, lookouts who watch for...",
+"id":"bullying-circle-participant-roles",
+"path":"designs/bullying-circle-participant-roles.md",
+"status":"review",
+"title":"The Bullying Circle of participant player roles",
 "type":"design"
 },
 {
@@ -152672,6 +152688,14 @@
 "path":"designs/focus-on-freshmen-study.md",
 "status":"review",
 "title":"Focus on Freshmen Study",
+"type":"design"
+},
+{
+"description":"A framework produced by the project's analyses that serves two functions: it \\\"suggests ways to find students’ FoK\\\" and it categorises FoK/I-related teaching practices along two dimensions — (1) individual students' re...",
+"id":"fok-finding-and-practice-framework-element",
+"path":"designs/fok-finding-and-practice-framework-element.md",
+"status":"review",
+"title":"Framework for finding students' funds of knowledge and categorising FoK/I-related teaching practices",
 "type":"design"
 },
 {
@@ -169590,6 +169614,14 @@
 "type":"product"
 },
 {
+"description":"The World Health Organization Adult ADHD Self-Report Scale (ASRS v1.1) is a six-item self-report screening assessment for probable adult ADHD symptoms.",
+"id":"adult-adhd-self-report-scale-asrs-v11",
+"path":"products/adult-adhd-self-report-scale-asrs-v11.md",
+"status":"review",
+"title":"Adult ADHD Self-Report Scale (ASRS v1.1)",
+"type":"product"
+},
+{
 "description":"A Lumina Foundation multiyear state-grant program launched in 2017 to engage and support adults ages 25 to 64 in postsecondary education, with Mathematica serving as its learning and evaluation partner from 2017 to 2021.",
 "id":"adult-promise-initiative",
 "path":"products/adult-promise-initiative.md",
@@ -170015,6 +170047,14 @@
 "type":"product"
 },
 {
+"description":"A 16-week classroom programme developed by the ARDESOS-DIAPROVE team that teaches critical thinking through problem-based and cooperative learning activities, contextualized problems, rubrics, and feedback.",
+"id":"ardesos-diaprove-program",
+"path":"products/ardesos-diaprove-program.md",
+"status":"review",
+"title":"ARDESOS-DIAPROVE program",
+"type":"product"
+},
+{
 "description":"Argus is a static-analysis triage tool developed by David Racovan et al.",
 "id":"argus",
 "path":"products/argus.md",
@@ -170319,6 +170359,14 @@
 "type":"product"
 },
 {
+"description":"A national framework developed by Walsh et al.",
+"id":"best-practice-framework-for-online-safety-education",
+"path":"products/best-practice-framework-for-online-safety-education.md",
+"status":"review",
+"title":"Best Practice Framework for Online Safety Education",
+"type":"product"
+},
+{
 "description":"BFpack is an R package developed by Mulder and colleagues that provides Bayesian factor hypothesis-testing functions for common statistical models and exploratory or confirmatory tests with equality and order constraints.",
 "id":"bfpack",
 "path":"products/bfpack.md",
@@ -170388,6 +170436,14 @@
 "path":"products/bnl-bayesian-networks-with-logistic-regression-nodes.md",
 "status":"review",
 "title":"BNL (Bayesian networks with logistic regression nodes)",
+"type":"product"
+},
+{
+"description":"A child-completed picture-book familiarity assessment developed by Davidse et al.",
+"id":"book-cover-recognition-test",
+"path":"products/book-cover-recognition-test.md",
+"status":"review",
+"title":"Book-cover recognition test",
 "type":"product"
 },
 {
@@ -171290,6 +171346,14 @@
 "type":"product"
 },
 {
+"description":"A classroom training programme for kindergarten and first-grade children that combines inhibition and executive-function activities with Theory of Mind and social-information-processing activities, delivered through 18 weekly sessions by a trained psychologist with teacher follow-up.",
+"id":"combined-inhibition-and-social-cognition-classroom-training-program",
+"path":"products/combined-inhibition-and-social-cognition-classroom-training-program.md",
+"status":"review",
+"title":"Combined inhibition and social cognition classroom training program",
+"type":"product"
+},
+{
 "description":"A teacher-and-staff survey instrument assembled by Tommy Wells et al.",
 "id":"combined-trust-and-panorama-teacher-and-staff-survey-instrument",
 "path":"products/combined-trust-and-panorama-teacher-and-staff-survey-instrument.md",
@@ -171767,6 +171831,14 @@
 "path":"products/ctpck-survey.md",
 "status":"review",
 "title":"CT–PCK Survey",
+"type":"product"
+},
+{
+"description":"A 48-item visual- and text-based test developed by Silva et al.",
+"id":"cttbe-critical-thinking-test-for-basic-education",
+"path":"products/cttbe-critical-thinking-test-for-basic-education.md",
+"status":"review",
+"title":"CTTBE: Critical Thinking Test for Basic Education",
 "type":"product"
 },
 {
@@ -173430,6 +173502,14 @@
 "path":"products/fluency-formula.md",
 "status":"review",
 "title":"Fluency Formula™",
+"type":"product"
+},
+{
+"description":"A dedicated smartphone application developed by the Technology Based Assessment Group at DIPF for the FLUX project to administer working-memory, sleep, and tiredness assessments to elementary-school children in daily-life settings.",
+"id":"flux-smartphone-ambulatory-assessment-application",
+"path":"products/flux-smartphone-ambulatory-assessment-application.md",
+"status":"review",
+"title":"FLUX smartphone ambulatory assessment application",
 "type":"product"
 },
 {
@@ -176318,6 +176398,14 @@
 "type":"product"
 },
 {
+"description":"A framework devised by Mirenda for teachers to assess a child's classroom participation across integration, academic participation, independence, and social participation.",
+"id":"mirendas-four-aspect-framework-for-classroom-participation",
+"path":"products/mirendas-four-aspect-framework-for-classroom-participation.md",
+"status":"review",
+"title":"Mirenda's four-aspect framework for classroom participation",
+"type":"product"
+},
+{
 "description":"MISE's nine-component systemic reform strategy is a district-level framework for improving science teaching through coordinated leadership, curriculum, assessment, professional development, and instructional-support systems.",
 "id":"mise",
 "path":"products/mise.md",
@@ -176427,6 +176515,14 @@
 "path":"products/motivation-for-incidental-vocabulary-learning-scale-mivls-incidental-vocabulary-learning-a.md",
 "status":"review",
 "title":"Motivation for Incidental Vocabulary Learning Scale (MIVLS), Incidental Vocabulary Learning Anxiety Scale (IVLAS), and Mastery of Incidental Vocabulary Learning Strategies Scale (MIVLSS)",
+"type":"product"
+},
+{
+"description":"A framework developed by Wlodkowski and Ginsberg for designing culturally responsive instruction through the motivational conditions of inclusion, attitude, meaning, and competence.",
+"id":"motivational-framework-for-culturally-responsive-teaching-mfcrt",
+"path":"products/motivational-framework-for-culturally-responsive-teaching-mfcrt.md",
+"status":"review",
+"title":"Motivational Framework for Culturally Responsive Teaching (MFCRT)",
 "type":"product"
 },
 {
@@ -176899,6 +176995,14 @@
 "path":"products/nih-undergraduate-scholarship-program.md",
 "status":"review",
 "title":"NIH Undergraduate Scholarship Program",
+"type":"product"
+},
+{
+"description":"A publicly available non-visual, story-based theory-of-mind assessment developed by Richardson et al.",
+"id":"non-visual-story-based-behavioral-tom-task",
+"path":"products/non-visual-story-based-behavioral-tom-task.md",
+"status":"review",
+"title":"Non-visual story-based behavioral ToM task",
 "type":"product"
 },
 {
@@ -177526,6 +177630,14 @@
 "type":"product"
 },
 {
+"description":"A peer-report sociometric assessment developed by Moreno and adapted by Coie et al.",
+"id":"peer-nomination-procedure",
+"path":"products/peer-nomination-procedure.md",
+"status":"review",
+"title":"Peer nomination procedure",
+"type":"product"
+},
+{
 "description":"PeerWise is a freely available online tool developed at the University of Auckland that enables students to author, answer, rate, comment on, and follow peers' multiple-choice questions.",
 "id":"peerwise",
 "path":"products/peerwise.md",
@@ -177667,6 +177779,14 @@
 "path":"products/persuasion-across-time-and-space.md",
 "status":"review",
 "title":"Persuasion Across Time and Space",
+"type":"product"
+},
+{
+"description":"A PERTS Likert-style student self-report assessment measuring individual mindset, classroom belonging, task relevance, and classroom-task self-efficacy in grades 3–8.",
+"id":"perts-15-item-academic-mindset-survey-with-four-subscales",
+"path":"products/perts-15-item-academic-mindset-survey-with-four-subscales.md",
+"status":"review",
+"title":"PERTS 15-item academic mindset survey with four subscales",
 "type":"product"
 },
 {
@@ -178100,6 +178220,14 @@
 "path":"products/pslc-datashop.md",
 "status":"review",
 "title":"PSLC DataShop",
+"type":"product"
+},
+{
+"description":"PSP-1 is a Croatian standardized behavioral test battery developed for screening auditory processing skills and auditory processing disorder in children aged 5.5–11.5 years.",
+"id":"psp-1",
+"path":"products/psp-1.md",
+"status":"review",
+"title":"PSP-1",
 "type":"product"
 },
 {
@@ -179120,6 +179248,14 @@
 "type":"product"
 },
 {
+"description":"The Sensory Profile is a parent-reported standardized questionnaire developed by Winnie Dunn for assessing children's sensory processing in everyday activities, including auditory, visual, tactile, movement, and social-emotional responses.",
+"id":"sensory-profile",
+"path":"products/sensory-profile.md",
+"status":"review",
+"title":"Sensory Profile",
+"type":"product"
+},
+{
 "description":"A sentence-level corpus of ThinkARM-annotated Omni-MATH reasoning traces with a RoBERTa classifier for automatically labeling problem-solving episodes, developed by Chenguang Wang et al.",
 "id":"sentence-level-episode-labeling-corpus-and-roberta-classifier-trained-on-thinkarm-annotati",
 "path":"products/sentence-level-episode-labeling-corpus-and-roberta-classifier-trained-on-thinkarm-annotati.md",
@@ -179573,6 +179709,14 @@
 "path":"products/southwest-english-learner-literacy-swell-partnership.md",
 "status":"review",
 "title":"Southwest English Learner Literacy (SWELL) Partnership",
+"type":"product"
+},
+{
+"description":"A child memory assessment battery developed and administered by Robert Kail and colleagues, combining simple- and complex-span tasks with reading and processing-speed measures for children aged 7 to 13.",
+"id":"span-task-battery-distinguishing-stm-simple-span-from-wm-complex-span-in-children",
+"path":"products/span-task-battery-distinguishing-stm-simple-span-from-wm-complex-span-in-children.md",
+"status":"review",
+"title":"Span-task battery distinguishing STM (simple span) from WM (complex span) in children",
 "type":"product"
 },
 {
@@ -180681,6 +180825,14 @@
 "type":"product"
 },
 {
+"description":"A five-week, teacher-led primary-school bullying-prevention programme developed by Peadar Donohoe and colleagues that uses discussions, literature-based definitions, role-play, defending-behaviour coaching, an anti-bullying contract, and monthly follow-up check-ups.",
+"id":"the-bullying-prevention-pack-bpp",
+"path":"products/the-bullying-prevention-pack-bpp.md",
+"status":"review",
+"title":"The Bullying Prevention Pack (BPP)",
+"type":"product"
+},
+{
 "description":"The Collaborative is a branded initiative run by its organizing collaborative to support state leaders through participatory design, relationship-building, collaboration, and leadership development.",
 "id":"the-collaborative",
 "path":"products/the-collaborative.md",
@@ -181728,6 +181880,14 @@
 "path":"products/workforce-readiness-level-wrl.md",
 "status":"review",
 "title":"Workforce Readiness Level (WRL)",
+"type":"product"
+},
+{
+"description":"A computer-administered assessment developed by ebilities that measures children's working-memory accuracy and confidence-based metacognitive monitoring across increasing difficulty levels.",
+"id":"working-memory-power-test-for-children-wmpt",
+"path":"products/working-memory-power-test-for-children-wmpt.md",
+"status":"review",
+"title":"Working Memory Power Test for Children (WMPT)",
 "type":"product"
 },
 {
@@ -183117,6 +183277,14 @@
 "type":"research-method"
 },
 {
+"description":"A child-appropriate EEG paradigm in which participants attend to an English narrative in one ear while ignoring interference in the other across four conditions: Single talker (no interference), English–English, English–Latin, and English–Musical Rain.",
+"id":"four-condition-dichotic-listening-paradigm-with-mtrf-speech-envelope-reconstruction",
+"path":"research-methods/four-condition-dichotic-listening-paradigm-with-mtrf-speech-envelope-reconstruction.md",
+"status":"review",
+"title":"Four-condition dichotic listening paradigm with mTRF speech-envelope reconstruction",
+"type":"research-method"
+},
+{
 "description":"The study adopted Liu et al.'s (2023) TCP assessment framework comprising four dimensions: \\\"novelty, relevance, user experience, and sustainability.\\\" Novelty assesses originality and innovation; relevance focuses on practical applicability; user experience evaluates engagement through authenticity, ",
 "id":"four-dimension-team-creative-performance-framework-for-dst-evaluation",
 "path":"research-methods/four-dimension-team-creative-performance-framework-for-dst-evaluation.md",
@@ -184277,6 +184445,14 @@
 "type":"research-method"
 },
 {
+"description":"This element is the quantitative synthesis itself: studies reporting effects of physical exercise on motor skills and executive functions in children with ADHD were identified \\\"through Cochrane, PsycInfo, PubMed, Web of Science databases\\\" and \\\"Ten publications were selected.\\\" A \\\"Random-effects model",
+"id":"random-effects-meta-analysis",
+"path":"research-methods/random-effects-meta-analysis.md",
+"status":"review",
+"title":"Random-effects meta-analysis",
+"type":"research-method"
+},
+{
 "description":"Rapid-cycle evaluation is presented as an approach organizations can use when decision-makers 'often lack timely and reliable evidence of whether such changes produce the expected results.' The page frames it as a 'decision support tool for continuous program and quality improvement,' applied to 'sm",
 "id":"rapid-cycle-evaluation",
 "path":"research-methods/rapid-cycle-evaluation.md",
@@ -184778,6 +184954,14 @@
 "path":"research-methods/student-momentum-indicator.md",
 "status":"review",
 "title":"Student Momentum Indicator",
+"type":"research-method"
+},
+{
+"description":"The meta-analysis organises its outcome measures into a taxonomy of cognitive and academic subdomains: \\\"Four subdomains of executive functions (inhibition, working memory, cognitive flexibility and planning), three subdomains of attention (selective, divided and sustained) and three subdomains of ac",
+"id":"subdomain-taxonomy-for-physical-activity-effects-four-executive-function-three-attention-a",
+"path":"research-methods/subdomain-taxonomy-for-physical-activity-effects-four-executive-function-three-attention-a.md",
+"status":"review",
+"title":"Subdomain taxonomy for physical activity effects: four executive function, three attention and three academic performance subdomains",
 "type":"research-method"
 },
 {
@@ -260227,6 +260411,7 @@
 "auditability-principle-seven-part-workflow-anatomy":"auditability-principle-seven-part-workflow-anatomy",
 "augmented-bow-hold-aid-force-mapping":"augmented-bow-hold-aid-force-mapping",
 "augmented-bow-track-graded-friction":"augmented-bow-track-graded-friction",
+"augmented-knights-castle-akc":"augmented-knights-castle-akc",
 "authentic-long-texts-ecological-vocabulary-research":"authentic-long-texts-ecological-vocabulary-research",
 "avp-state-generation-separation-framework":"avp-state-generation-separation-framework",
 "banking-onboarding-teaching-case":"banking-onboarding-teaching-case",
@@ -260247,6 +260432,7 @@
 "bronxdale-whole-school-design-pattern":"bronxdale-whole-school-design-pattern",
 "brt-interdisciplinary-studio-schedule-2d-to-3d":"brt-interdisciplinary-studio-schedule-2d-to-3d",
 "brt-six-phase-assignment-process":"brt-six-phase-assignment-process",
+"bullying-circle-participant-roles":"bullying-circle-participant-roles",
 "cal-well-referral-pathways-community-of-practice":"cal-well-referral-pathways-community-of-practice",
 "cal-well-universal-mental-health-screening":"cal-well-universal-mental-health-screening",
 "calibrated-hybrid-feedback-model-eap":"calibrated-hybrid-feedback-model-eap",
@@ -260443,6 +260629,7 @@
 "flexible-individualistic-pjbl-course-e":"flexible-individualistic-pjbl-course-e",
 "flipped-genai-studio-integration-framework":"flipped-genai-studio-integration-framework",
 "focus-on-freshmen-study":"focus-on-freshmen-study",
+"fok-finding-and-practice-framework-element":"fok-finding-and-practice-framework-element",
 "four-condition-communicative-task-treatment":"four-condition-communicative-task-treatment",
 "four-condition-computerized-l2-rule-training":"four-condition-computerized-l2-rule-training",
 "four-design-goals-process-visualization-teachers":"four-design-goals-process-visualization-teachers",
@@ -262779,6 +262966,7 @@
 "adapted-tpack-21-questionnaire-for-genai-infused-higher-education-instruction":"adapted-tpack-21-questionnaire-for-genai-infused-higher-education-instruction",
 "adaptive-through-year-assessment-atya":"adaptive-through-year-assessment-atya",
 "admiral-squad":"admiral-squad",
+"adult-adhd-self-report-scale-asrs-v11":"adult-adhd-self-report-scale-asrs-v11",
 "adult-promise-initiative":"adult-promise-initiative",
 "adventure-therapy-outcome-meta-analytic-dataset-and-coding-manual":"adventure-therapy-outcome-meta-analytic-dataset-and-coding-manual",
 "agent4edu":"agent4edu",
@@ -262833,6 +263021,7 @@
 "anvil":"anvil",
 "aplus-artificial-peer-learning-using-simstudent":"aplus-artificial-peer-learning-using-simstudent",
 "arc-core":"arc-core",
+"ardesos-diaprove-program":"ardesos-diaprove-program",
 "argus":"argus",
 "arizona-linked-educationchild-welfare-student-database":"arizona-linked-educationchild-welfare-student-database",
 "arpg-dual-process-real-time-coaching-system":"arpg-dual-process-real-time-coaching-system",
@@ -262871,6 +263060,7 @@
 "becoming-effective-learners-student-survey-bel-s":"becoming-effective-learners-student-survey-bel-s",
 "berea-college-promise-neighborhood-initiative":"berea-college-promise-neighborhood-initiative",
 "bernauer-and-tomeis-integrated-matrix-of-five-faculty-integrator-quadrants":"bernauer-and-tomeis-integrated-matrix-of-five-faculty-integrator-quadrants",
+"best-practice-framework-for-online-safety-education":"best-practice-framework-for-online-safety-education",
 "bfpack":"bfpack",
 "bilearn-cs":"bilearn-cs",
 "bilingual-benchmark-of-1107-chinese-english-childrens-stories-with-silver-developmental-re":"bilingual-benchmark-of-1107-chinese-english-childrens-stories-with-silver-developmental-re",
@@ -262880,6 +263070,7 @@
 "blueprint-math-fellows-program":"blueprint-math-fellows-program",
 "bmed-2300-benchmark-corpus-and-evaluation-harness":"bmed-2300-benchmark-corpus-and-evaluation-harness",
 "bnl-bayesian-networks-with-logistic-regression-nodes":"bnl-bayesian-networks-with-logistic-regression-nodes",
+"book-cover-recognition-test":"book-cover-recognition-test",
 "booknook":"booknook",
 "bottom-line":"bottom-line",
 "bottom-line-college-advising-program":"bottom-line-college-advising-program",
@@ -262995,6 +263186,7 @@
 "college-track":"college-track",
 "colorado-educational-stability-grant-program-hb-18-1306":"colorado-educational-stability-grant-program-hb-18-1306",
 "colorado-learning-attitudes-about-science-survey":"colorado-learning-attitudes-about-science-survey",
+"combined-inhibition-and-social-cognition-classroom-training-program":"combined-inhibition-and-social-cognition-classroom-training-program",
 "combined-trust-and-panorama-teacher-and-staff-survey-instrument":"combined-trust-and-panorama-teacher-and-staff-survey-instrument",
 "community-ecocycle":"community-ecocycle",
 "community-of-inquiry-survey-and-metacognition-questionnaire":"community-of-inquiry-survey-and-metacognition-questionnaire",
@@ -263057,6 +263249,7 @@
 "ctat-computational-thinking-in-ai-training-test":"ctat-computational-thinking-in-ai-training-test",
 "ctc-teacher-preparation-program-completer-survey-system":"ctc-teacher-preparation-program-completer-survey-system",
 "ctpck-survey":"ctpck-survey",
+"cttbe-critical-thinking-test-for-basic-education":"cttbe-critical-thinking-test-for-basic-education",
 "cultivate-framework":"cultivate-framework",
 "cultivate-survey":"cultivate-survey",
 "culturaied":"culturaied",
@@ -263268,6 +263461,7 @@
 "flowcode":"flowcode",
 "flowcomposer-and-the-continuator":"flowcomposer-and-the-continuator",
 "fluency-formula":"fluency-formula",
+"flux-smartphone-ambulatory-assessment-application":"flux-smartphone-ambulatory-assessment-application",
 "focus-on-high-schools":"focus-on-high-schools",
 "for-our-babies-campaign":"for-our-babies-campaign",
 "forap-framework-for-organizing-reusable-and-adaptable-pjbl-projects":"forap-framework-for-organizing-reusable-and-adaptable-pjbl-projects",
@@ -263633,6 +263827,7 @@
 "mindsets-mathematics-program":"mindsets-mathematics-program",
 "minnesota-north-star-promise-scholarship-nsp-and-minnesota-state-grant":"minnesota-north-star-promise-scholarship-nsp-and-minnesota-state-grant",
 "minority-teachers-of-illinois-scholarship-program":"minority-teachers-of-illinois-scholarship-program",
+"mirendas-four-aspect-framework-for-classroom-participation":"mirendas-four-aspect-framework-for-classroom-participation",
 "mise":"mise",
 "missouri-teacher-career-ladder-program":"missouri-teacher-career-ladder-program",
 "missouri-teacher-equity-plan":"missouri-teacher-equity-plan",
@@ -263647,6 +263842,7 @@
 "motibo":"motibo",
 "motivated-strategies-for-learning-questionnaire-mslq":"motivated-strategies-for-learning-questionnaire-mslq",
 "motivation-for-incidental-vocabulary-learning-scale-mivls-incidental-vocabulary-learning-a":"motivation-for-incidental-vocabulary-learning-scale-mivls-incidental-vocabulary-learning-a",
+"motivational-framework-for-culturally-responsive-teaching-mfcrt":"motivational-framework-for-culturally-responsive-teaching-mfcrt",
 "multi-payer-school-linked-fee-schedule":"multi-payer-school-linked-fee-schedule",
 "multi-scale-portfolio-of-14-adoption-ready-computing-pjbl-project-packages":"multi-scale-portfolio-of-14-adoption-ready-computing-pjbl-project-packages",
 "multi-season-math-and-reading-score-dataset-for-over-seven-million-k-8-students-2016-17":"multi-season-math-and-reading-score-dataset-for-over-seven-million-k-8-students-2016-17",
@@ -263706,6 +263902,7 @@
 "ngss-implementation-leadership-framework":"ngss-implementation-leadership-framework",
 "nih-intramural-loan-repayment-program":"nih-intramural-loan-repayment-program",
 "nih-undergraduate-scholarship-program":"nih-undergraduate-scholarship-program",
+"non-visual-story-based-behavioral-tom-task":"non-visual-story-based-behavioral-tom-task",
 "north-carolina-generative-ai-implementation-recommendations":"north-carolina-generative-ai-implementation-recommendations",
 "north-lawndale-cluster-initiative-nlci":"north-lawndale-cluster-initiative-nlci",
 "northside-achievement-zone-naz":"northside-achievement-zone-naz",
@@ -263785,6 +263982,7 @@
 "pecas-mediator":"pecas-mediator",
 "pedaco-a-dual-gatekeeping-human-ai-video-co-creation-system":"pedaco-a-dual-gatekeeping-human-ai-video-co-creation-system",
 "peer-assisted-learning-strategies-pals":"peer-assisted-learning-strategies-pals",
+"peer-nomination-procedure":"peer-nomination-procedure",
 "peerwise":"peerwise",
 "pefk-prosocial-and-effective-facilitation-in-konversations":"pefk-prosocial-and-effective-facilitation-in-konversations",
 "pell-grant-graduation-rate-database-and-institution-profile-tool":"pell-grant-graduation-rate-database-and-institution-profile-tool",
@@ -263803,6 +264001,7 @@
 "persona-problem-builder-ppb":"persona-problem-builder-ppb",
 "personapath-benchmark-for-knowledge-centric-learning-path-planning":"personapath-benchmark-for-knowledge-centric-learning-path-planning",
 "persuasion-across-time-and-space":"persuasion-across-time-and-space",
+"perts-15-item-academic-mindset-survey-with-four-subscales":"perts-15-item-academic-mindset-survey-with-four-subscales",
 "phinetuned":"phinetuned",
 "phonological-awareness-lessons":"phonological-awareness-lessons",
 "physicsmate-benchmark-of-1834-curriculum-grounded-bengali-physics-qa-pairs":"physicsmate-benchmark-of-1834-curriculum-grounded-bengali-physics-qa-pairs",
@@ -263859,6 +264058,7 @@
 "proxy-labeled-ai-detection-error-analysis-corpus-and-released-evaluation-pipeline":"proxy-labeled-ai-detection-error-analysis-corpus-and-released-evaluation-pipeline",
 "ps2-pal":"ps2-pal",
 "pslc-datashop":"pslc-datashop",
+"psp-1":"psp-1",
 "psrbvbq":"psrbvbq",
 "psychology-mooc-gt-spring-2013-dataset":"psychology-mooc-gt-spring-2013-dataset",
 "psyscore":"psyscore",
@@ -263987,6 +264187,7 @@
 "self-regulated-strategy-development-srsd":"self-regulated-strategy-development-srsd",
 "selfcode20-dataset-of-student-and-expert-line-by-line-code-explanations":"selfcode20-dataset-of-student-and-expert-line-by-line-code-explanations",
 "sensenablr":"sensenablr",
+"sensory-profile":"sensory-profile",
 "sentence-level-episode-labeling-corpus-and-roberta-classifier-trained-on-thinkarm-annotati":"sentence-level-episode-labeling-corpus-and-roberta-classifier-trained-on-thinkarm-annotati",
 "sentinel-ai-powered-security-game-platform":"sentinel-ai-powered-security-game-platform",
 "serie-leamos":"serie-leamos",
@@ -264044,6 +264245,7 @@
 "south-australian-well-being-and-engagement-collection-wec":"south-australian-well-being-and-engagement-collection-wec",
 "south-fayette-school-district-cssteam-pathway":"south-fayette-school-district-cssteam-pathway",
 "southwest-english-learner-literacy-swell-partnership":"southwest-english-learner-literacy-swell-partnership",
+"span-task-battery-distinguishing-stm-simple-span-from-wm-complex-span-in-children":"span-task-battery-distinguishing-stm-simple-span-from-wm-complex-span-in-children",
 "spanish-map-growth-reading":"spanish-map-growth-reading",
 "spanish-map-reading-fluency":"spanish-map-reading-fluency",
 "spanish-map-reading-fluency-foundational-skills":"spanish-map-reading-fluency-foundational-skills",
@@ -264183,6 +264385,7 @@
 "the-ai-assessment-scale-aias":"the-ai-assessment-scale-aias",
 "the-ai-house":"the-ai-house",
 "the-arcs-self-determination-scale":"the-arcs-self-determination-scale",
+"the-bullying-prevention-pack-bpp":"the-bullying-prevention-pack-bpp",
 "the-collaborative":"the-collaborative",
 "the-design-helper":"the-design-helper",
 "the-electric-company-summer-learning-program":"the-electric-company-summer-learning-program",
@@ -264319,6 +264522,7 @@
 "wordstream-maker":"wordstream-maker",
 "workforce-ai-literacy-framework-of-six-skill-and-competency-domains":"workforce-ai-literacy-framework-of-six-skill-and-competency-domains",
 "workforce-readiness-level-wrl":"workforce-readiness-level-wrl",
+"working-memory-power-test-for-children-wmpt":"working-memory-power-test-for-children-wmpt",
 "working-students-success-network-wssn":"working-students-success-network-wssn",
 "world-history-project-curriculum":"world-history-project-curriculum",
 "world-of-words-wow":"world-of-words-wow",
@@ -264496,6 +264700,7 @@
 "four-category-functional-classification-of-student-genai-use-learning-formatting-doing-tas":"four-category-functional-classification-of-student-genai-use-learning-formatting-doing-tas",
 "four-category-functional-taxonomy-of-ai-tools-shaping-collaborative-learning-in-higher-edu":"four-category-functional-taxonomy-of-ai-tools-shaping-collaborative-learning-in-higher-edu",
 "four-category-taxonomy-of-classroom-management-strategy-foci-teacher-student-behavior-soci":"four-category-taxonomy-of-classroom-management-strategy-foci-teacher-student-behavior-soci",
+"four-condition-dichotic-listening-paradigm-with-mtrf-speech-envelope-reconstruction":"four-condition-dichotic-listening-paradigm-with-mtrf-speech-envelope-reconstruction",
 "four-dimension-team-creative-performance-framework-for-dst-evaluation":"four-dimension-team-creative-performance-framework-for-dst-evaluation",
 "four-layer-model-of-pedagogical-safety-for-educational-rl-with-the-reward-hacking-severity":"four-layer-model-of-pedagogical-safety-for-educational-rl-with-the-reward-hacking-severity",
 "four-level-response-safety-classification-for-evaluating-educational-llm-safety":"four-level-response-safety-classification-for-evaluating-educational-llm-safety",
@@ -264641,6 +264846,7 @@
 "quasi-mixed-methods-llm-human-workflow-for-analyzing-qualitative-reflection-data":"quasi-mixed-methods-llm-human-workflow-for-analyzing-qualitative-reflection-data",
 "races-reward-aligned-consistent-essay-scoring-framework":"races-reward-aligned-consistent-essay-scoring-framework",
 "raise-reporting-ai-studies-in-education":"raise-reporting-ai-studies-in-education",
+"random-effects-meta-analysis":"random-effects-meta-analysis",
 "rapid-cycle-evaluation":"rapid-cycle-evaluation",
 "rapid-cycle-product-efficacy-assessment-and-feedback-loop-for-ed-tech-pilots":"rapid-cycle-product-efficacy-assessment-and-feedback-loop-for-ed-tech-pilots",
 "rapid-guessing-as-a-behavioral-proxy-for-test-effort":"rapid-guessing-as-a-behavioral-proxy-for-test-effort",
@@ -264704,6 +264910,7 @@
 "student-development-agents":"student-development-agents",
 "student-digital-twin":"student-digital-twin",
 "student-momentum-indicator":"student-momentum-indicator",
+"subdomain-taxonomy-for-physical-activity-effects-four-executive-function-three-attention-a":"subdomain-taxonomy-for-physical-activity-effects-four-executive-function-three-attention-a",
 "subject-level-demographic-mae-gap-fairness-regularization-for-multimodal-attention-models":"subject-level-demographic-mae-gap-fairness-regularization-for-multimodal-attention-models",
 "suitability-and-feasibility-framework-for-deciding-whether-to-use-state-tests-in-education":"suitability-and-feasibility-framework-for-deciding-whether-to-use-state-tests-in-education",
 "summer-dip-measurement-of-educational-chatgpt-use":"summer-dip-measurement-of-educational-chatgpt-use",

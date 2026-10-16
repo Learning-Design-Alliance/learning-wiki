@@ -15,24 +15,30 @@ sources:
     author: Buttelmann F and Karbach J
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: buttelmann-f-and-karbach-j-2017-2
     resource: "https://doi.org/10.3389/fpsyg.2017.01040"
     title: "Buttelmann F and Karbach J (2017). Development and Plasticity of Cognitive Flexibility in Early and Middle Childhood. Front. Psychol. 8:1040. https://doi.org/10.3389/fpsyg.2017.01040"
     author: Buttelmann F and Karbach J
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
   - id: buttelmann-f-and-karbach-j-2017-3
     resource: "https://doi.org/10.3389/fpsyg.2017.01040"
     title: "Buttelmann F and Karbach J (2017). Development and Plasticity of Cognitive Flexibility in Early and Middle Childhood. Front. Psychol. 8:1040. https://doi.org/10.3389/fpsyg.2017.01040"
     author: Buttelmann F and Karbach J
     q: 2
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Metacognitive reflection training improves young children's DCCS performance, with behavioral and neural changes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · associational `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Training with corrective feedback and instructions to reflect on the task led to substantial DCCS improvements in 2- to 4-year-olds, greater untrained-DCCS gains than controls, reduced N2 amplitude and increased reaction time. [→ Buttelmann F and Karbach J 2017](#buttelmann-f-and-karbach-j-2017)
@@ -45,7 +51,7 @@ sources:
 
 Buttelmann F and Karbach J (2017). Development and Plasticity of Cognitive Flexibility in Early and Middle Childhood. Front. Psychol. 8:1040. https://doi.org/10.3389/fpsyg.2017.01040
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports, citing Espinet et al. (2013), three experiments showing reflection training gains in 2- to 4-year-olds, plus "a significant reduction of the N2 amplitude" and increased reaction time during DCCS performance.
 
@@ -55,7 +61,7 @@ The review reports, citing Espinet et al. (2013), three experiments showing refl
 
 Buttelmann F and Karbach J (2017). Development and Plasticity of Cognitive Flexibility in Early and Middle Childhood. Front. Psychol. 8:1040. https://doi.org/10.3389/fpsyg.2017.01040
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 The review reports, citing Moriguchi et al. (2015), two experiments in which 3- to 5-year-olds explained task rules to a puppet to foster metacognitive reflection; the trained group "performed significantly better than the control group at post-test."
 
@@ -65,7 +71,7 @@ The review reports, citing Moriguchi et al. (2015), two experiments in which 3- 
 
 Buttelmann F and Karbach J (2017). Development and Plasticity of Cognitive Flexibility in Early and Middle Childhood. Front. Psychol. 8:1040. https://doi.org/10.3389/fpsyg.2017.01040
 
-`q2 · i?`
+`q2 · i?` · `associational · r?`
 
 The review reports, citing Chevalier and Blaye (2016), a study recording gaze position during a self-paced task-switching paradigm in 6- to 10-year-olds; "older children were better prepared than younger ones when they responded."
 

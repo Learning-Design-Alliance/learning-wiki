@@ -17,6 +17,7 @@ sources:
 # Augmented Knights' Castle (AKC): an RFID-augmented Playmobil playset producing context-relevant sounds
 
 > **Design** · [All designs](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The Augmented Knights' Castle is "an audio-enhanced Playmobil® medieval castle playset designed to let play ﬁgures 'come alive.'" Play figures carry RFID tags identifying their location, so placing a figure in a specific location produces a previously-programmed context-relevant sound, such as a knight saying "Shall we watch the jousting?" in the courtyard or "Defend the castle!" on the drawbridge. The Study 2 version had around 20 characters with 9 speaking roles at 12 positions, making 55 location-character combinations of sounds, including factual information, sound effects, conversational turns and suggestions. The article uses the AKC both as a play environment and as an experimental instrument for manipulating attention capture.

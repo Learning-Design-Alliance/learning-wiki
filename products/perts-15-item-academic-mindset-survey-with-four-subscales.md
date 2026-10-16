@@ -13,6 +13,7 @@ generated:
 # PERTS 15-item academic mindset survey with four subscales
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A PERTS Likert-style student self-report assessment measuring individual mindset, classroom belonging, task relevance, and classroom-task self-efficacy in grades 3–8.

@@ -15,12 +15,14 @@ sources:
     author: Vetter, Nora C.; Altgassen, Mareike; Phillips, Louise; Mahy, Caitlin; Kliegel, Matthias
     q: 3
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Affective theory of mind is positively related to inhibition, updating, and shifting
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Affective theory of mind relates positively to each of the three measured executive-function subcomponents: inhibition, updating, and shifting. [→ Vetter 2013](#vetter-2013)
@@ -31,7 +33,7 @@ sources:
 
 Vetter, Nora C.; Altgassen, Mareike; Phillips, Louise; Mahy, Caitlin; Kliegel, Matthias. (2013). Development of Affective Theory of Mind Across Adolescence: Disentangling the Role of Executive Functions. Developmental Neuropsychology. https://doi.org/10.1080/87565641.2012.733786
 
-`q3 · i?`
+`q3 · i?` · `associational · r?`
 
 The study measured affective theory of mind together with inhibition, updating, and shifting, and reports it "was positively related to age, and all three executive functions". No effect sizes are printed in the available text.
 

@@ -15,18 +15,22 @@ sources:
     author: "Mathieu Declerck & Andrea M. Philipp"
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: mathieu-declerck-andrea-m-philipp-2015-2
     resource: "https://doi.org/10.3758/s13423-015-0836-1"
     title: "Mathieu Declerck & Andrea M. Philipp. (2015). A review of control processes and their locus in language switching. Psychon Bull Rev. https://doi.org/10.3758/s13423-015-0836-1"
     author: "Mathieu Declerck & Andrea M. Philipp"
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Sentence-level (lemma) processing affects language switching: switch costs occur between sentences and depend on syntactic structure
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Language switch costs can be obtained when switching between sentences, with asymmetry depending on phrase type (progressive vs. perfective). [→ Mathieu Declerck & Andrea M. Philipp 2015](#mathieu-declerck-andrea-m-philipp-2015)
@@ -38,7 +42,7 @@ sources:
 
 Mathieu Declerck & Andrea M. Philipp. (2015). A review of control processes and their locus in language switching. Psychon Bull Rev. https://doi.org/10.3758/s13423-015-0836-1
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports, citing Tarlowski, Wodniecka, et al. (2013) with Polish-English bilinguals describing pictures in present progressive or perfective phrases, that "language switch costs can be ob- tained when switching between sentences," with asymmetry depending on phrase type. No effect sizes are printed.
 
@@ -48,7 +52,7 @@ The review reports, citing Tarlowski, Wodniecka, et al. (2013) with Polish-Engli
 
 Mathieu Declerck & Andrea M. Philipp. (2015). A review of control processes and their locus in language switching. Psychon Bull Rev. https://doi.org/10.3758/s13423-015-0836-1
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports, citing Declerck and Philipp (2015a), that "no switch costs with the SBLS paradigm" occurred for word-to-word syntactically correct sentences, while substantial switch costs remained for scrambled or syntactically incorrect sentences, supporting syntactic (lemma-level) influence on switching.
 

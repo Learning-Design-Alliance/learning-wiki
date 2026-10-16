@@ -15,18 +15,22 @@ sources:
     author: "Van den Driessche, C., Chevrier, F., Cleeremans, A. & Sackur, J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
   - id: van-den-driessche-2019-2
     resource: "https://doi.org/10.1038/s41598-019-46761-0"
     title: "Van den Driessche, C., Chevrier, F., Cleeremans, A. & Sackur, J. (2019). Lower Attentional Skills predict increased exploratory foraging patterns. Scientific Reports 9:10948. https://doi.org/10.1038/s41598-019-46761-0"
     author: "Van den Driessche, C., Chevrier, F., Cleeremans, A. & Sackur, J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Higher ADHD rating-scale scores predict better semantic fluency performance and more immediate repetitions in children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3`
 
 ## Subclaims
 `q3 i?` ADHD-rs scores were positively correlated with total items produced and with the number of different animals named in a semantic fluency task. [→ Van den Driessche 2019](#van-den-driessche-2019)
@@ -38,7 +42,7 @@ sources:
 
 Van den Driessche, C., Chevrier, F., Cleeremans, A. & Sackur, J. (2019). Lower Attentional Skills predict increased exploratory foraging patterns. Scientific Reports 9:10948. https://doi.org/10.1038/s41598-019-46761-0
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Poisson regressions on semantic fluency (animal naming, 2 minutes) from the same 87-child study: ADHD score predicted total production (β = 0.005, z = 3.477, p < 0.001) and number of different animals (β = 0.004, z = 2.49, p < 0.02); unstandardised coefficients only, so no effect size is coded.
 
@@ -48,7 +52,7 @@ Poisson regressions on semantic fluency (animal naming, 2 minutes) from the same
 
 Van den Driessche, C., Chevrier, F., Cleeremans, A. & Sackur, J. (2019). Lower Attentional Skills predict increased exploratory foraging patterns. Scientific Reports 9:10948. https://doi.org/10.1038/s41598-019-46761-0
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Poisson regression on counts of immediate repetitions with ADHD score and performance as predictors; both effects positive and significant, meaning "the increased number of repetitions is present even while controlling for number of items produced". There was no effect on distant repetitions (p > 0.2).
 

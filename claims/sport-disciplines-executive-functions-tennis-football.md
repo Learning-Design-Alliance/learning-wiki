@@ -15,18 +15,22 @@ sources:
     author: Bidzan-Bluma Ilona, Lipowska Małgorzata
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: bidzan-bluma-ilona-2018-2
     resource: "https://doi.org/10.3390/ijerph15040800"
     title: "Bidzan-Bluma Ilona, Lipowska Małgorzata. (2018). Physical Activity and Cognitive Functioning of Children: A Systematic Review. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph15040800"
     author: Bidzan-Bluma Ilona, Lipowska Małgorzata
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Sport-specific disciplines relate to distinct executive functions: tennis and football with inhibitory control and working memory, with a larger tennis association in males
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Plan-structured sport activities such as tennis play are associated with the development of inhibitory control, and the association appears larger in males even though inhibitory control and cognitive flexibility develop more slowly in males. [→ Bidzan-Bluma Ilona 2018](#bidzan-bluma-ilona-2018)
@@ -38,7 +42,7 @@ sources:
 
 Bidzan-Bluma Ilona, Lipowska Małgorzata. (2018). Physical Activity and Cognitive Functioning of Children: A Systematic Review. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph15040800
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports cross-sectional findings on tennis play and executive function, noting the association "appears to be larger in males". No effect size is printed.
 
@@ -48,7 +52,7 @@ The review reports cross-sectional findings on tennis play and executive functio
 
 Bidzan-Bluma Ilona, Lipowska Małgorzata. (2018). Physical Activity and Cognitive Functioning of Children: A Systematic Review. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph15040800
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports an intervention in which children attending a Football Exercise Program for at least six months showed more developed planning processes than sedentary control peers. No effect size is printed.
 

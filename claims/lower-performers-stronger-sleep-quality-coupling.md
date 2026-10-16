@@ -15,12 +15,14 @@ sources:
     author: "Könen, T., Dirk, J., & Schmiedek, F."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children with lower average working memory performance show stronger within-person coupling between nightly sleep quality and morning performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Mean performance level predicted the random effect of morning sleep quality on performance, indicating the sleep quality effect was particularly pronounced for children with lower average performance. [→ Könen 2015](#konen-2015)
@@ -31,7 +33,7 @@ sources:
 
 Könen, T., Dirk, J., & Schmiedek, F. (2015). Cognitive benefits of last night's sleep: daily variations in children's sleep behavior are related to working memory fluctuations. Journal of Child Psychology and Psychiatry, 56(2), 171–182. https://doi.org/10.1111/jcpp.12296
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Level-2 analysis predicting the significant random effect of morning sleep quality from between-person variables (age, mean time in bed, bedtimes, ease of getting up, sleep-debt propensity). Only mean performance was predictive; the other predictors were not (ps > .23).
 

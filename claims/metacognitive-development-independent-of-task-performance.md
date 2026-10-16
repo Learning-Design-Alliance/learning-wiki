@@ -15,12 +15,14 @@ sources:
     author: Weil L.G., Fleming S.M., Dumontheil I., Kilford E.J., Weil R.S., Rees G., Dolan R.J., Blakemore S.-J.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The adolescent improvement in metacognitive ability is independent of perceptual task performance, which was clamped and uncorrelated with age
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Psychophysical threshold (mean contrast) and d′ were not correlated with age across the whole sample or within the adolescent group, showing the metacognitive change was not driven by performance changes. [→ Weil L.G. 2013](#weil-lg-2013)
@@ -31,7 +33,7 @@ sources:
 
 Weil L.G., Fleming S.M., Dumontheil I., Kilford E.J., Weil R.S., Rees G., Dolan R.J., Blakemore S.-J. (2013). The development of metacognitive ability in adolescence. Consciousness and Cognition. https://doi.org/10.1016/j.concog.2013.01.004
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Null correlational analysis in the same 56-participant sample, using a 2-down 1-up staircase to hold accuracy at around 71%. No correlation of contrast or d′ with age supports that "metacognitive ability increased during adolescence and remained stable in adulthood" independently of performance.
 

@@ -15,12 +15,14 @@ sources:
     author: Cook, Claire, Noah D. Goodman, and Laura E. Schulz
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Given ambiguous evidence, preschoolers select informative interventions in their exploratory play (Experiment 1)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` When evidence was ambiguous, preschoolers selected informative interventions during exploratory play. [→ Cook 2011](#cook-2011)
@@ -31,7 +33,7 @@ sources:
 
 Cook, Claire, Noah D. Goodman, and Laura E. Schulz. (2011). Where Science Starts: Spontaneous Experiments in Preschoolers' Exploratory Play. Cognition. https://doi.org/10.1016/j.cognition.2011.03.003
 
-`q3 · i?`
+`q3 · i?` · `causal · r?`
 
 The article reports Experiment 1 with preschoolers (mean: 54 months), in which "given ambiguous evidence, children both selected (Experiment 1) and designed (Experiment 2) informative interventions"; the selection result is attributed to Experiment 1. No effect size is printed in the available text.
 

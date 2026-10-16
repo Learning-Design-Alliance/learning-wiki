@@ -15,18 +15,22 @@ sources:
     author: Iva I. Hrastinski, Ana M. Bonetti, Mladen A. Hedjever
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: iva-i-hrastinski-2023-2
     resource: "https://doi.org/10.5937/specedreh22-37415"
     title: "Iva I. Hrastinski, Ana M. Bonetti, Mladen A. Hedjever. (2023). Relationship between auditory processing skills and academic achievement of elementary school children. Specijalna edukacija i rehabilitacija, 22(2), 95-116. https://doi.org/10.5937/specedreh22-37415"
     author: Iva I. Hrastinski, Ana M. Bonetti, Mladen A. Hedjever
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # A right-ear advantage appears in both dichotic listening tasks and decreases with age on the Dichotic Sentences subtest
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Significantly better right-ear results (right-ear advantage) were found on the Dichotic Words and Dichotic Sentences subtests. [→ Iva I. Hrastinski 2023](#iva-i-hrastinski-2023)
@@ -38,7 +42,7 @@ sources:
 
 Iva I. Hrastinski, Ana M. Bonetti, Mladen A. Hedjever. (2023). Relationship between auditory processing skills and academic achievement of elementary school children. Specijalna edukacija i rehabilitacija, 22(2), 95-116. https://doi.org/10.5937/specedreh22-37415
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Wilcoxon signed rank tests of ear differences across the sample. The article reports "significantly better results in the right ear, or a right-ear-advantage (REA), was noted for Dichotic Words (Z = -8.60, p  = 0.00 1 ) and Dichotic Sentences (Z = -7.22, p = 0.001) subtests."
 
@@ -48,7 +52,7 @@ Wilcoxon signed rank tests of ear differences across the sample. The article rep
 
 Iva I. Hrastinski, Ana M. Bonetti, Mladen A. Hedjever. (2023). Relationship between auditory processing skills and academic achievement of elementary school children. Specijalna edukacija i rehabilitacija, 22(2), 95-116. https://doi.org/10.5937/specedreh22-37415
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Age-specific ear analysis on the Dichotic Sentences subtest. The article reports "the right ear advantage decreased with increasing age," while for Dichotic Words a similar trend was observed but without statistically significant differences.
 

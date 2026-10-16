@@ -15,12 +15,14 @@ sources:
     author: Wolf L.K., Bazargani N., Kilford E.J., Dumontheil I., Blakemore S.-J.
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Being observed by a friend or an experimenter affects relational reasoning accuracy in adolescents but not in adults
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` A significant three-way interaction between social condition, task-level and age group shows the audience effect on relational reasoning accuracy depends on age, whereas adults' accuracy was unaffected by social condition. [→ Wolf L.K. 2015](#wolf-lk-2015)
@@ -31,7 +33,7 @@ sources:
 
 Wolf L.K., Bazargani N., Kilford E.J., Dumontheil I., Blakemore S.-J. (2015). The audience effect in adolescence depends on who's looking over your shoulder. Journal of Adolescence, 43, 5–14. https://doi.org/10.1016/j.adolescence.2015.05.003
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Mixed-design ANOVA on accuracy data from 24 younger adolescents, 20 older adolescents and 18 adult females performing a relational reasoning task under alone, friend-present and experimenter-present conditions. The three-way interaction was significant (ηp2 = 0.09); "The adult group showed neither a main effect of social condition nor an interaction between social condition and task-level".
 

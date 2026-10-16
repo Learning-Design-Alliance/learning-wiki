@@ -15,12 +15,14 @@ sources:
     author: Buttelmann F and Karbach J
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Lower-baseline participants often benefit more from executive-function training (compensation effects), and individual differences moderate training gains
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` EF training often produced compensation effects, with participants with lower baseline performance benefiting more; age, fluid intelligence, motivation, and training gain amount also contributed to intervention success. [→ Buttelmann F and Karbach J 2017](#buttelmann-f-and-karbach-j-2017)
@@ -31,7 +33,7 @@ sources:
 
 Buttelmann F and Karbach J (2017). Development and Plasticity of Cognitive Flexibility in Early and Middle Childhood. Front. Psychol. 8:1040. https://doi.org/10.3389/fpsyg.2017.01040
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports, citing prior studies (e.g., Cepeda et al., 2001; Karbach and Kray, 2009; Zinke et al., 2012), that "participants with lower baseline performances beneﬁtted more"; it notes underlying mechanisms remain largely unknown, especially in early childhood.
 

@@ -13,16 +13,20 @@ sources:
     title: Honoré N 2020
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
   - id: honoré-n-2020-2
     title: Honoré N 2020 (2)
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Children with lower pre-test executive function and social cognition skills improve more, while attendance, teacher involvement, age and school year do not predict gains
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Change in the EF factor correlated negatively with EF factor at pre-test (r = −0.457) and change in the social cognition factor with social cognition at pre-test (r = −0.535), both p < 0.001. [→ Honoré N 2020](#honore-n-2020)
@@ -34,7 +38,7 @@ sources:
 
 Honoré N, Houssa M, Volckaert A, Noël M-P and Nader-Grosbois N (2020) Training Inhibition and Social Cognition in the Classrooms. Front. Psychol. 11:1974. https://doi.org/10.3389/fpsyg.2020.01974
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Correlational analysis on factorial change scores computed from pre-test principal component analyses of four EF tasks and two social cognition tasks (KMO = 0.56 and 0.50); Table 10 prints r = −0.457 and r = −0.535, both p < 0.001.
 
@@ -44,7 +48,7 @@ Correlational analysis on factorial change scores computed from pre-test princip
 
 Honoré N, Houssa M, Volckaert A, Noël M-P and Nader-Grosbois N (2020) Training Inhibition and Social Cognition in the Classrooms. Front. Psychol. 11:1974. https://doi.org/10.3389/fpsyg.2020.01974
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 The same correlational analysis tested teacher and child characteristics as moderators of gain; none besides pre-test level was significant, so neither attendance nor teacher involvement predicted improvement.
 

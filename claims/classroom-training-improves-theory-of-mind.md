@@ -13,12 +13,14 @@ sources:
     title: Honoré N 2020
     q: 3
     i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # The classroom training improves Theory of Mind performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Improvement on the ToM task battery was significantly greater in the experimental group (2.09 ± 2.24) than in the control group (1.52 ± 2.25; interaction η² = 0.016). [→ Honoré N 2020](#honore-n-2020)
@@ -29,7 +31,7 @@ sources:
 
 Honoré N, Houssa M, Volckaert A, Noël M-P and Nader-Grosbois N (2020) Training Inhibition and Social Cognition in the Classrooms. Front. Psychol. 11:1974. https://doi.org/10.3389/fpsyg.2020.01974
 
-`q3 · i1`
+`q3 · i1` · `causal · r2`
 
 Repeated-measures ANOVA on 121 experimental and 120 control children; the group×time interaction on the 15-question ToM battery was significant (F = 3.95, p = 0.048, η² = 0.016), a small effect.
 

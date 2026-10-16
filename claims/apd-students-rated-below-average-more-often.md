@@ -15,12 +15,14 @@ sources:
     author: Iva I. Hrastinski, Ana M. Bonetti, Mladen A. Hedjever
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Students with APD were rated below average by teachers far more often than non-APD peers, especially in reading and language skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Approximately 40%–50% of students with APD were rated below average in reading and language skills, compared to only 8%–11% of non-APD students. [→ Iva I. Hrastinski 2023](#iva-i-hrastinski-2023)
@@ -31,7 +33,7 @@ sources:
 
 Iva I. Hrastinski, Ana M. Bonetti, Mladen A. Hedjever. (2023). Relationship between auditory processing skills and academic achievement of elementary school children. Specijalna edukacija i rehabilitacija, 22(2), 95-116. https://doi.org/10.5937/specedreh22-37415
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Comparison of teacher three-point-scale ratings between the 12 participants with APD and non-APD peers (Figure 2). The article reports "Approximately 40% – 50% of students with APD were rated as below average in these skills, compared to only 8% – 11% of non-APD students."
 

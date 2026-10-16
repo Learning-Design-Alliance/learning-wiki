@@ -13,6 +13,7 @@ generated:
 # Sensory Profile
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The Sensory Profile is a parent-reported standardized questionnaire developed by Winnie Dunn for assessing children's sensory processing in everyday activities, including auditory, visual, tactile, movement, and social-emotional responses.

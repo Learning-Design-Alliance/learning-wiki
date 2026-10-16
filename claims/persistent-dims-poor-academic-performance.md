@@ -13,12 +13,14 @@ sources:
     title: Stormark KM 2019
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Persistent sleep problems (DIMS at both ages 7–9 and 11–13) increase the risk of poor academic performance even after adjusting for mental health, gender, pubertal status and SES
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Children with persistent DIMS had elevated odds of poor teacher-rated academic performance in the fully adjusted model (OR 1.87, 95% CI 1.19–2.95). [→ Stormark KM 2019](#stormark-km-2019)
@@ -29,7 +31,7 @@ sources:
 
 Stormark KM, Fosse HE, Pallesen S, Hysing M (2019) The association between sleep problems and academic performance in primary school-aged children: Findings from a Norwegian longitudinal population-based study. PLoS ONE 14(11): e0224139. https://doi.org/10.1371/journal.pone.0224139
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Logistic regression in the Bergen Child Study longitudinal cohort (N = 3453) comparing DIMS groups against the No DIMS reference for teacher-rated poor academic performance at T2. The fully adjusted model retained a significant association, with "OR 1.87; 95% CI 1.19–2.95".
 

@@ -15,12 +15,14 @@ sources:
     author: "Rouse, H. L., & Fantuzzo, J. W."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Kindergarten DIBELS subtests show significant concurrent positive relationships with standardized early literacy measures in urban kindergartners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Each DIBELS subtest correlated significantly and positively with each early literacy construct, with the strongest relationship to DRA instructional reading level. [→ Rouse 2006](#rouse-2006)
@@ -31,7 +33,7 @@ sources:
 
 Rouse, H. L., & Fantuzzo, J. W. (2006). Validity of the Dynamic Indicators for Basic Early Literacy Skills as an Indicator of Early Literacy for Urban Kindergarten Children. School Psychology Review, 35(3), 341-355. https://doi.org/10.1080/02796015.2006.12087971
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Bivariate correlational analysis in a stratified random sample of 330 urban kindergarten children compared DIBELS subtests with DRA, TERA, and other measures, finding "significant positive relationships be- tween each DIBELS subtest and each early literacy construct."
 

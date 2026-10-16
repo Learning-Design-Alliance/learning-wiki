@@ -15,12 +15,14 @@ sources:
     author: Jiao Chen and Chunhui Liu
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Mothers' initial growth mindset positively predicted children's growth mindset two-and-a-half years later
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` In the unconditional parallel process model, maternal initial growth mindset positively predicted children's growth mindset at Time 5 (β = 0.127, p = 0.03); after demographic controls the path was marginally significant (β = 0.109, p = 0.064). [→ Jiao Chen and Chunhui Liu 2023](#jiao-chen-and-chunhui-liu-2023)
@@ -31,7 +33,7 @@ sources:
 
 Jiao Chen and Chunhui Liu. (2023). The longitudinal association between children’s growth mindset in senior primary school and their parents’ growth mindset. Front. Psychol. 14:1110944. https://doi.org/10.3389/fpsyg.2023.1110944
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Parallel process latent growth curve model linking mothers' and children's growth mindset trajectories. The unconditional model showed a significant intercept-to-intercept path (β = 0.127, p = 0.03); in the conditional model controlling for child gender and age and parental education and income, the path was marginally significant (β = 0.109, p = 0.064).
 

@@ -15,12 +15,14 @@ sources:
     author: Francis, D. A.; Caruana, N.; Hudson, J. L.; McArthur, G. M.
     q: 3
     i: 1
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Poor readers show a small but significant elevation in depression compared to typical readers (d = 0.23)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Poor readers show a very small but statistically significant elevation in depression relative to typical readers (d = 0.23), with high and significant heterogeneity between studies. [→ Francis 2019](#francis-2019)
@@ -31,7 +33,7 @@ sources:
 
 Francis, D. A.; Caruana, N.; Hudson, J. L.; McArthur, G. M. (2019). The association between poor reading and internalising problems: A systematic review and meta-analysis. Clinical Psychology Review. https://doi.org/10.1016/j.cpr.2018.09.002
 
-`q3 · i1`
+`q3 · i1` · `quant-synthesis · r3`
 
 Random-effects meta-analysis of 23 studies comparing poor reading and control groups on depression measures (n poor reading groups = 23, sample size = 1950). The pooled effect was "very small but signi ﬁcant ( d = 0.23)" with high heterogeneity (I2 = 74.51).
 

@@ -15,12 +15,14 @@ sources:
     author: Robert Kail and Lynda K. Hall
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Processing speed is linked to working memory in both studies, but its link to short-term memory is inconsistent across studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` PS was linked to WM in both studies; Study 1 showed equal links from PS to STM and WM, but Study 2 showed a link from PS only to WM. [→ Robert Kail and Lynda K. Hall 2001](#robert-kail-and-lynda-k-hall-2001)
@@ -31,7 +33,7 @@ sources:
 
 Robert Kail and Lynda K. Hall. (2001). Distinguishing short-term memory from working memory. Memory & Cognition, 29(1), 1-9. https://link.springer.com/journal/13421/29/1
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Structural equation models compared four configurations linking processing speed (Visual Matching and Cross-Out) to memory. In Study 1, removing either PS path worsened fit (c2s(1) = 9.86 and 14.29, p < .01); in Study 2, the PS-to-STM-only model fit poorly (c2(1) = 33.76, p < .01). "Study 1 yielded equal links from PS to STM and WM, but Study 2 resulted in a link from PS to WM only."
 

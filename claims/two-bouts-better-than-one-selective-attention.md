@@ -15,12 +15,14 @@ sources:
     author: Ruhland Stefanie, Lange Klaus W.
     q: 3
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Two 20-min MVPA bouts in a school morning yielded better selective attention than one bout or remaining seated (B = −0.26; 95% CI [−0.52, −0.00])
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r3` · `q3`
 
 ## Subclaims
 `q3 i?` In Altenburg, Chinapaw & Singh (2016), two 20-min bouts of MVPA led to significantly better Sky Search scores than one bout or remaining seated. [→ Ruhland Stefanie 2021](#ruhland-stefanie-2021)
@@ -31,7 +33,7 @@ sources:
 
 Ruhland Stefanie, Lange Klaus W. (2021). Effect of classroom-based physical activity interventions on attention and on-task behavior in schoolchildren: A systematic review. Sports Medicine and Health Science. https://doi.org/10.1016/j.smhs.2021.08.003
 
-`q3 · i?`
+`q3 · i?` · `review · r3`
 
 Randomized controlled trial within the review (Altenburg et al., 2016; n = 56, ages 10–13, Netherlands); "Two 20-min bouts of MVPA led to significantly better Sky Search scores compared to children who performed one physical activity bout or remained seated (B = −0.26; 95% CI = [-0.52; −0.00])". B is an unstandardised coefficient; no standardised effect size printed.
 

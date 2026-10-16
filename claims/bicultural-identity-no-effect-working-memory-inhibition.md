@@ -13,12 +13,14 @@ sources:
     title: Spiegler O and Leyendecker B 2017
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Balanced bicultural identity showed no relation to working memory or inhibitory control performance in congruent and incongruent Dot Task trials
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Turkish and German identity were neither independently nor interactively related to accuracy in the congruent and incongruent trials. [→ Spiegler O and Leyendecker B 2017](#spiegler-o-and-leyendecker-b-2017)
@@ -29,7 +31,7 @@ sources:
 
 Spiegler O and Leyendecker B (2017) Balanced Cultural Identities Promote Cognitive Flexibility among Immigrant Children. Front. Psychol. 8:1579. https://doi.org/10.3389/fpsyg.2017.01579
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 In the same moderation analyses of 225 children, identity measures showed no independent or interactive relation with congruent-trial (working memory) or incongruent-trial (inhibition) accuracy; Table 1 reports non-significant coefficients for both identity terms in those models.
 

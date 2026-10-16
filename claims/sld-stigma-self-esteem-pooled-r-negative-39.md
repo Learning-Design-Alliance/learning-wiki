@@ -15,12 +15,14 @@ sources:
     author: Haft Stephanie L., Greiner de Magalhães Caroline, Hoeft Fumiko
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Greater SLD stigma is associated with lower self-esteem, with a pooled medium-sized correlation (r = −.39) across nine effect sizes from six studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Across six studies pooling nine effect sizes, greater endorsement of SLD stigma was significantly associated with less reported self-esteem (r = −.39, 95% CI [−.60, −.24], p = .002), with moderate heterogeneity (I2 = 42.2%). [→ Haft Stephanie L. 2023](#haft-stephanie-l-2023)
@@ -31,7 +33,7 @@ sources:
 
 Haft Stephanie L., Greiner de Magalhães Caroline, Hoeft Fumiko. (2023). A Systematic Review of the Consequences of Stigma and Stereotype Threat for Individuals With Specific Learning Disabilities. Journal of Learning Disabilities. https://doi.org/10.1177/00222194221087383
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r3`
 
 Meta-analysis using robust variance estimation with a random-effects model pooled nine correlation coefficients from six studies of SLD stigma and self-esteem (including one self-worth measure). The pooled association was "statistically significant and negative overall association (r = −.39, 95% CI = [−.60, −.24], p = .002)" with moderate heterogeneity (I2 = 42.2%, τ2 = 0.014); sensitivity analyses found no outliers.
 

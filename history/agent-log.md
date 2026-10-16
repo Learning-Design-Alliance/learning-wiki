@@ -32,6 +32,15 @@ at the top, under this paragraph.
   citation parser read only "(2021)"; Chicago, dated APA and IEEE citations had fallen back to extraction anchors
   as headings ("formative-dk-1") on 14 pages, now repaired. The harness hung an hour on one judge request after
   generation; a `--resume` rerun finished it.
+- **lvn-wave-1** (the first 250 of 960 screened Navigator references): 102 fetched, 101 ingested, no wrong
+  documents. 90 failures were PMC pages: most are NIH author manuscripts, which the PMC Article Datasets on AWS
+  publish under `license_code: TDM`; `fetch_article` now accepts those as well as the open-access subset (66 of 80
+  sampled PMC rows). The maintainer's Zotero library (read through its API, key held outside the repo) gave 131
+  synced PDFs the wiki did not cite, queued as `eval/runs/queues/zotero-library.ndjson`; Zotero's Find Available PDF
+  found 5 of 113 paywalled articles, so without institutional access those are left out (maintainer).
+- **Maintainer decisions**: the Navigator's Core Academic Literacies is general achievement across subjects and sits
+  on `prior-knowledge`, not `academic-and-critical-literacy`; an astronaut sleep-deprivation study is unlinked from
+  `sleep` and `physical-wellbeing` as too remote from learning.
 
 ## 2026-10-16 — citation chase, no drafts, duplicate folds, twelve learner variables, study tables for 249 pages
 

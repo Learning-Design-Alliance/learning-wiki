@@ -15,18 +15,22 @@ sources:
     author: Sebastian Skalski, Grzegorz Pochwatko, Robert Balas
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: sebastian-skalski-2021-2
     resource: "https://doi.org/10.1007/s10578-020-01042-0"
     title: "Sebastian Skalski, Grzegorz Pochwatko, Robert Balas. (2021). Impact of Motivation on Selected Aspects of Attention in Children with ADHD. Child Psychiatry & Human Development. https://doi.org/10.1007/s10578-020-01042-0"
     author: Sebastian Skalski, Grzegorz Pochwatko, Robert Balas
     q: 3
     i: 2
+    kind: causal
+    rigour: 1
 ---
 
 # Increased motivation eliminated ADHD–TD differences on most attention measures but differences persisted in complex multitasking and commission errors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i?` Under increased motivation, no significant ADHD–TD differences remained for omission errors, visual search RT, RT slope or single-tasking RT. [→ Sebastian Skalski 2021](#sebastian-skalski-2021)
@@ -38,7 +42,7 @@ sources:
 
 Sebastian Skalski, Grzegorz Pochwatko, Robert Balas. (2021). Impact of Motivation on Selected Aspects of Attention in Children with ADHD. Child Psychiatry & Human Development. https://doi.org/10.1007/s10578-020-01042-0
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Simple main effects analysis in the same quasi-experiment; under increased motivation the ADHD–TD contrasts on omission errors, visual search RT and RT slope, and single-tasking RT were not significant, though no equivalence test was reported.
 
@@ -48,7 +52,7 @@ Simple main effects analysis in the same quasi-experiment; under increased motiv
 
 Sebastian Skalski, Grzegorz Pochwatko, Robert Balas. (2021). Impact of Motivation on Selected Aspects of Attention in Children with ADHD. Child Psychiatry & Human Development. https://doi.org/10.1007/s10578-020-01042-0
 
-`q3 · i2`
+`q3 · i2` · `causal · r1`
 
 Simple main effects under increased motivation in the same study; the multitasking RT difference remained significant with r = 0.28, and commission errors showed no motivational impact in children with ADHD (t = 0.81, p = 0.423, r = 0.11).
 

@@ -15,18 +15,22 @@ sources:
     author: "Mathieu Declerck & Andrea M. Philipp"
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: mathieu-declerck-andrea-m-philipp-2015-2
     resource: "https://doi.org/10.3758/s13423-015-0836-1"
     title: "Mathieu Declerck & Andrea M. Philipp. (2015). A review of control processes and their locus in language switching. Psychon Bull Rev. https://doi.org/10.3758/s13423-015-0836-1"
     author: "Mathieu Declerck & Andrea M. Philipp"
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Asymmetrical switch costs are not an unambiguous marker of inhibition: they depend on task type and bilingual profile, and admit non-inhibitory explanations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Several studies did not find asymmetrical switch costs, especially in comprehension and with highly proficient bilinguals, so the effect depends on task and bilinguals. [→ Mathieu Declerck & Andrea M. Philipp 2015](#mathieu-declerck-andrea-m-philipp-2015)
@@ -38,7 +42,7 @@ sources:
 
 Mathieu Declerck & Andrea M. Philipp. (2015). A review of control processes and their locus in language switching. Psychon Bull Rev. https://doi.org/10.3758/s13423-015-0836-1
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports, citing multiple studies, that "several studies did not find asymmetrical switch costs," including reversed asymmetries, and that this is especially marked in comprehension studies. The review concludes asymmetrical switch costs "seem to depend on the type of task and on the bilinguals."
 
@@ -48,7 +52,7 @@ The review reports, citing multiple studies, that "several studies did not find 
 
 Mathieu Declerck & Andrea M. Philipp. (2015). A review of control processes and their locus in language switching. Psychon Bull Rev. https://doi.org/10.3758/s13423-015-0836-1
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports, citing studies such as Declerck, Koch, and Philipp (2012), that "there have also been studies that found faster overall L1 than L2 naming and symmetrical switch costs," and other combinations (faster L2 with asymmetrical costs), making the reactive-inhibition prediction inconsistent. No effect sizes are printed.
 

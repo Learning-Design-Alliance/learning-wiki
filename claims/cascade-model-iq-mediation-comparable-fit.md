@@ -15,12 +15,14 @@ sources:
     author: Schneider Wolfgang, Niklas Frank
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Cascade models in which IQ mediates the WM-to-achievement path fit comparably to, but not significantly better than, the original correlated models
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Alternative cascade SEM models with IQ mediating between WM and achievement showed slightly worse but comparable fit indices, with WM strongly predicting IQ. [→ Schneider Wolfgang 2017](#schneider-wolfgang-2017)
@@ -31,7 +33,7 @@ sources:
 
 Schneider Wolfgang, Niklas Frank. (2017). Intelligence and Verbal Short-Term Memory/Working Memory: Their Interrelationships from Childhood to Young Adulthood and Their Impact on Academic Achievement. Journal of Intelligence. https://doi.org/10.3390/jintelligence5020026
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Final analytic step of the LOGIC reanalysis: correlations between WM and IQ latent variables were replaced by paths predicting IQ from WM in all three SEM models. The article reports the cascade models' fit was "slightly worse, but comparable" and that IQ mediated WM's impact.
 

@@ -13,16 +13,20 @@ sources:
     title: Russell AE 2015
     q: 2
     i: 2
+    kind: associational
+    rigour: 2
   - id: russell-ae-2015-2
     title: Russell AE 2015 (2)
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Perceived financial difficulty in early childhood is the socioeconomic indicator most strongly associated with a research diagnosis of ADHD at age 7
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 2 studies · 2 associational `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Children whose families reported financial difficulty when the child was an infant were over twice as likely to have an ADHD diagnosis at age 7 (OR = 2.23). [→ Russell AE 2015](#russell-ae-2015)
@@ -34,7 +38,7 @@ sources:
 
 Russell AE, Ford T, Russell G (2015) Socioeconomic Associations with ADHD: Findings from a Mediation Analysis. PLoS ONE 10(6): e0128248. https://doi.org/10.1371/journal.pone.0128248
 
-`q2 · i2`
+`q2 · i2` · `associational · r2`
 
 Unadjusted logistic regression in the ALSPAC birth cohort (N = 8,132) of each socioeconomic predictor on ADHD diagnosis at age 7. The article reports children were "over twice as likely to have ADHD" with an odds ratio of OR = 2.23 (95% CI 1.57–3.16), p < 0.001.
 
@@ -44,7 +48,7 @@ Unadjusted logistic regression in the ALSPAC birth cohort (N = 8,132) of each so
 
 Russell AE, Ford T, Russell G (2015) Socioeconomic Associations with ADHD: Findings from a Mediation Analysis. PLoS ONE 10(6): e0128248. https://doi.org/10.1371/journal.pone.0128248
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Multivariable regression (Table 3) entering the significant unadjusted predictors; financial difficulties retained significance (OR 2.06, 95% CI 1.44–2.94, p < 0.001) while housing tenure, marital status and maternal age did not, so it was "used in as the predictor in the mediation analysis".
 

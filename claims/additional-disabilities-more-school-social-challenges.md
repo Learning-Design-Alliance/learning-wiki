@@ -15,12 +15,14 @@ sources:
     author: Jessup, G; Bundy, AC; Broom, A; Hancock, N.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Students with visual impairments and additional disabilities reported more school social challenges than peers who were only visually impaired
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Participants with additional disabilities reported more school social challenges than peers with visual impairment only. [→ Jessup 2018](#jessup-2018)
@@ -31,7 +33,7 @@ sources:
 
 Jessup, G; Bundy, AC; Broom, A; Hancock, N. (2018). Fitting in or feeling excluded: The experiences of high school students with visual impairments. https://doi.org/10.1177/0145482X1811200305
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 In the comparison across participant subgroups in the experience-sampling study, "Participants with additional disabilities reported more school social challenges than their peers who were only visually impaired."
 

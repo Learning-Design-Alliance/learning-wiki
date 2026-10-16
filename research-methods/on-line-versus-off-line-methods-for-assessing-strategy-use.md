@@ -12,7 +12,7 @@ generated:
 # On-line versus off-line methods for assessing strategy use
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q4` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article distinguishes two families of strategy-use assessment. On-line methods, such as thinking aloud, observation, eye-movement registration, and logfile registration, take "measurements taken concurrent to task performance" and code actual behavior against externally defined criteria. Off-line methods, such as questionnaires (e.g., MSLQ) and interviews, ask learners about strategy use before or after performance, so answers rest on reconstruction from memory of past experiences. The article uses this framework to evaluate the five special-issue instruments.

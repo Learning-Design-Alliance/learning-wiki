@@ -15,12 +15,14 @@ sources:
     author: Evelyn Ezikwelu
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Racism has negative psychological implications for Black students' sense of belonging, self-identity, and academic success in schools
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Racism has negative psychological implications for Black students' sense of belonging, self-identity, and academic success in schools, per racial battle fatigue research. [→ Evelyn Ezikwelu 2020](#evelyn-ezikwelu-2020)
@@ -31,7 +33,7 @@ sources:
 
 Evelyn Ezikwelu. (2020). Institutional Racism and Campus Racial Climate: Struggles for Sense of Belonging Among Black Students in K-12 Public Schools. Journal of Critical Thought and Praxis, 10(1). https://www.iastatedigitalpress.com/jctp/
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 Synthesis of racial battle fatigue research within the review's analysis section. The review reports that "racism has several negative psychological implications for Black students' sense of belonging and academic success"; no effect sizes are printed.
 

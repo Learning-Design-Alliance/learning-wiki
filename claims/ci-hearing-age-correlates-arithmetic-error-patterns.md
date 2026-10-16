@@ -15,18 +15,22 @@ sources:
     author: Pixner, S., Leyrer, M., and Moeller, K.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: pixner-2014-2
     resource: "https://doi.org/10.3389/fpsyg.2014.01479"
     title: "Pixner, S., Leyrer, M., and Moeller, K. (2014). Number processing and arithmetic skills in children with cochlear implants. Frontiers in Psychology 5:1479. https://doi.org/10.3389/fpsyg.2014.01479"
     author: Pixner, S., Leyrer, M., and Moeller, K.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # In children with cochlear implants, hearing age correlates with fewer non-table multiplication errors and faster borrow subtraction, unlike in hearing peers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The percentage of non-table errors in multiplication correlated negatively with hearing age in children with CI (r(45) = −0.30, p < 0.05) but not in controls (r(49) = 0.11, n.s.), with a significant Fisher's Z difference (Z = 1.97, p < 0.05). [→ Pixner 2014](#pixner-2014)
@@ -38,7 +42,7 @@ sources:
 
 Pixner, S., Leyrer, M., and Moeller, K. (2014). Number processing and arithmetic skills in children with cochlear implants. Frontiers in Psychology 5:1479. https://doi.org/10.3389/fpsyg.2014.01479
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Correlational analysis within the CI group on multiplication error types; "the percentage of non-table errors was correlated significantly with hearing age in children with CI", consistent with increasing automaticity of fact retrieval. The control-group correlation was not reliable and the between-group difference was significant by Fisher's Z-test.
 
@@ -48,7 +52,7 @@ Correlational analysis within the CI group on multiplication error types; "the p
 
 Pixner, S., Leyrer, M., and Moeller, K. (2014). Number processing and arithmetic skills in children with cochlear implants. Frontiers in Psychology 5:1479. https://doi.org/10.3389/fpsyg.2014.01479
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Correlational analysis linking CI children's hearing age to borrow-subtraction latencies; "with increasing hearing age borrow subtraction problems were solved faster", while the control-group correlation was not reliable and the difference between correlations was significant (Z = 2.01, p < 0.05).
 

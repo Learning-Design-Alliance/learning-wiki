@@ -17,6 +17,7 @@ sources:
 # The Bullying Circle of participant player roles
 
 > **Design** · [All designs](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The BPP teaches that "Bullying is often a group process which can involve various participant players": children are not just bullies or victims but can act as assistants who encourage bullying, lookouts who watch for intervening teachers, or defenders who try to stop it. Roles are fluid, with students playing multiple positions across incidents. The pack uses an adapted Bullying Circle (Donohoe and Dummigan 2015, adapted from Olweus 1993) and asks learners to relate these roles to their own experiences, naming the types of players involved in school incidents without naming or blaming any peer.

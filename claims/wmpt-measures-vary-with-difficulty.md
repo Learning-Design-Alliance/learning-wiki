@@ -15,18 +15,22 @@ sources:
     author: Freeman, Emily E.; Karayanidis, Frini; Chalmers, Kerry A.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: freeman-2017-2
     resource: "http://dx.doi.org/10.1016/j.lindif.2017.06.003"
     title: "Freeman, Emily E.; Karayanidis, Frini; Chalmers, Kerry A. (2017). Metacognitive monitoring of working memory performance and its relationship to academic achievement in Grade 4 children. Learning and Individual Differences, Vol. 57. http://dx.doi.org/10.1016/j.lindif.2017.06.003"
     author: Freeman, Emily E.; Karayanidis, Frini; Chalmers, Kerry A.
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # WMPT accuracy, confidence, Bias Index and Absolute Accuracy Index all change significantly with task difficulty
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i?` Accuracy and confidence decreased significantly with WMPT difficulty, while Bias and Absolute Accuracy Indexes increased significantly, per repeated-measures ANOVAs. [→ Freeman 2017](#freeman-2017)
@@ -38,7 +42,7 @@ sources:
 
 Freeman, Emily E.; Karayanidis, Frini; Chalmers, Kerry A. (2017). Metacognitive monitoring of working memory performance and its relationship to academic achievement in Grade 4 children. Learning and Individual Differences, Vol. 57. http://dx.doi.org/10.1016/j.lindif.2017.06.003
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 One-way repeated measures ANOVAs on 73 children's WMPT data across five difficulty levels confirmed significant decreases in accuracy and confidence; the article also reports significant increases in the Bias and Absolute Accuracy Indexes with difficulty.
 
@@ -48,7 +52,7 @@ One-way repeated measures ANOVAs on 73 children's WMPT data across five difficul
 
 Freeman, Emily E.; Karayanidis, Frini; Chalmers, Kerry A. (2017). Metacognitive monitoring of working memory performance and its relationship to academic achievement in Grade 4 children. Learning and Individual Differences, Vol. 57. http://dx.doi.org/10.1016/j.lindif.2017.06.003
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 Pearson correlation on the same sample found a small positive accuracy–confidence association (r = .259), which the authors interpret as the two measures being yoked per trial yet "tapping different constructs".
 

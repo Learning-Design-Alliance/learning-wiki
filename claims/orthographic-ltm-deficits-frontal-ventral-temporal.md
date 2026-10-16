@@ -15,12 +15,14 @@ sources:
     author: Rapp, Brenda; Purcell, Jeremy; Hillis, Argye; Capasso, Rita; Miceli, Gabriele
     q: 2
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Orthographic long-term memory deficits in dysgraphia are centered in the left posterior inferior frontal region or left ventral temporal cortex
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Lesion mapping of individuals with dysgraphia localized orthographic long-term memory deficits to either the left posterior inferior frontal region or left ventral temporal cortex. [→ Rapp 2016](#rapp-2016)
@@ -31,7 +33,7 @@ sources:
 
 Rapp, Brenda; Purcell, Jeremy; Hillis, Argye; Capasso, Rita; Miceli, Gabriele. (2016). Neural bases of orthographic long-term memory and working memory in dysgraphia. BRAIN. https://doi.org/10.1093/brain/awv348
 
-`q2 · i?`
+`q2 · i?` · `associational · r?`
 
 Voxel-based lesion-mapping analysis of 27 stroke survivors with dysgraphia, identified on behavioral profiles alone as having deficits affecting only orthographic long-term or working memory, plus 6 with both. The article reports "orthographic long-term memory deficits centered in either the left posterior inferior frontal region or left ventral temporal cortex." No effect size is printed.
 

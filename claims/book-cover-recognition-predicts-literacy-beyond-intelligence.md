@@ -15,18 +15,22 @@ sources:
     author: "Davidse, N. J., de Jong, M. T., Bus, A. G., Huijbregts, S. C. J., & Swaab, H."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: davidse-2010-2
     resource: "https://doi.org/10.1007/s11145-010-9233-3"
     title: "Davidse, N. J., de Jong, M. T., Bus, A. G., Huijbregts, S. C. J., & Swaab, H. (2010). Cognitive and environmental predictors of early literacy skills. Read Writ 24, 395–412. https://doi.org/10.1007/s11145-010-9233-3"
     author: "Davidse, N. J., de Jong, M. T., Bus, A. G., Huijbregts, S. C. J., & Swaab, H."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Book-cover recognition predicts vocabulary and letter knowledge even after controlling for intelligence and cognitive control
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Book-cover recognition remained a significant, albeit weaker, vocabulary predictor (β = .22) after entering child cognitive measures. [→ Davidse 2010](#davidse-2010)
@@ -38,7 +42,7 @@ sources:
 
 Davidse, N. J., de Jong, M. T., Bus, A. G., Huijbregts, S. C. J., & Swaab, H. (2010). Cognitive and environmental predictors of early literacy skills. Read Writ 24, 395–412. https://doi.org/10.1007/s11145-010-9233-3
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Model 3 of the vocabulary regression (N = 174): book-cover recognition remained significant (β = .22) after SON subtests and cognitive control measures were entered.
 
@@ -48,7 +52,7 @@ Model 3 of the vocabulary regression (N = 174): book-cover recognition remained 
 
 Davidse, N. J., de Jong, M. T., Bus, A. G., Huijbregts, S. C. J., & Swaab, H. (2010). Cognitive and environmental predictors of early literacy skills. Read Writ 24, 395–412. https://doi.org/10.1007/s11145-010-9233-3
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Model 3 of the letter-knowledge regression (N = 174): book-cover recognition remained significant, accounting for "5.29% of the variance"; SON patterns added 4.41%.
 

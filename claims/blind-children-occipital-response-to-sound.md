@@ -15,12 +15,14 @@ sources:
     author: Bedny, M., H. Richardson, and R. Saxe
     q: 3
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # The "visual" cortices of young blind children, but not sighted children, respond to sound
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r?` · `q3`
 
 ## Subclaims
 `q3 i?` In young children, occipital cortices respond to sound in blind but not sighted children. [→ Bedny 2015](#bedny-2015)
@@ -31,7 +33,7 @@ sources:
 
 Bedny, M., H. Richardson, and R. Saxe. (2015). "Visual" Cortex Responds to Spoken Language in Blind Children. Journal of Neuroscience. https://doi.org/10.1523/jneurosci.0634-15.2015
 
-`q3 · i?`
+`q3 · i?` · `associational · r?`
 
 A neuroimaging study comparing blind and sighted children listening to auditory stimuli found that "visual" cortices of young blind (but not sighted) children respond to sound. No effect size is printed for this group contrast.
 

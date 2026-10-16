@@ -15,12 +15,14 @@ sources:
     author: "Gemma Muncer, Philip A. Higham, Corentin J. Gosling, Samuele Cortese, Henry Wood-Downie, & Julie A. Hadwin"
     q: 4
     i: 3
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Metacognition is significantly positively correlated with math performance in adolescence (pooled r = .37)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r3` · `q4` · `i3` large
 
 ## Subclaims
 `q4 i3` Across 74 effect sizes from 29 studies (30 independent populations), metacognition and math performance in 11–16-year-olds show a significantly positive pooled correlation of r = .37. [→ Gemma Muncer 2021](#gemma-muncer-2021)
@@ -31,7 +33,7 @@ sources:
 
 Gemma Muncer, Philip A. Higham, Corentin J. Gosling, Samuele Cortese, Henry Wood-Downie, & Julie A. Hadwin. (2021). A Meta-Analysis Investigating the Association Between Metacognition and Math Performance in Adolescence. Educational Psychology Review. https://doi.org/10.1007/s10648-021-09620-x
 
-`q4 · i3`
+`q4 · i3` · `quant-synthesis · r3`
 
 A pre-registered multivariate random-effects meta-analysis (Campbell Collaboration registration 19-009) pooling 74 effect sizes from 29 studies of 11–16-year-olds found "a significantly positive correlation between metacognition and math performance in adolescence (r = .37, 95% CI = [.29, .44], p < .001)".
 

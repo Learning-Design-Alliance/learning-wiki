@@ -13,12 +13,14 @@ sources:
     title: Spiegler O and Leyendecker B 2017
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Turkish and German identity interactively predicted accuracy on mixed Dot Task trials requiring cognitive flexibility among immigrant-origin children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Children's Turkish and German identity interactively predicted performance in the mixed trials of the Dot Task, with a positive interaction coefficient. [→ Spiegler O and Leyendecker B 2017](#spiegler-o-and-leyendecker-b-2017)
@@ -29,7 +31,7 @@ sources:
 
 Spiegler O and Leyendecker B (2017) Balanced Cultural Identities Promote Cognitive Flexibility among Immigrant Children. Front. Psychol. 8:1579. https://doi.org/10.3389/fpsyg.2017.01579
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Moderation analyses with 225 Turkish-German children (M = 11 years, SD = 1.6) controlling gender, age, family income and prior-block performance found the Turkish × German identity interaction predicted mixed-trial accuracy; Table 1 reports an interaction coefficient of 3.05 (SE 1.23), p < 0.05, model R2 = 0.29.
 

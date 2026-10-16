@@ -15,12 +15,14 @@ sources:
     author: Bert De Smedt, Bart Boets
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Adults with developmental dyslexia use arithmetic fact retrieval less frequently than matched controls during single-digit multiplication and subtraction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Adults with dyslexia showed significantly less frequent retrieval use than matched controls across single-digit multiplication and subtraction. [→ Bert De Smedt 2010](#bert-de-smedt-2010)
@@ -31,7 +33,7 @@ sources:
 
 Bert De Smedt, Bart Boets. (2010). Phonological processing and arithmetic fact retrieval: Evidence from developmental dyslexia. Neuropsychologia, 48, 3973–3981. https://doi.org/10.1016/j.neuropsychologia.2010.10.018
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Strategy-frequency ANOVA (2 operations × 2 groups) in a matched-groups study of 25 university students with dyslexia and 25 controls, with trial-by-trial verbal strategy reports on 28 problems per operation. The group main effect on retrieval frequency was significant, ηp² = .19; the Operation × Group interaction was not significant (F(1, 47) = 2.18, p = .15).
 

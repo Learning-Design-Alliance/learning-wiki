@@ -15,12 +15,14 @@ sources:
     author: Francis, D. A.; Caruana, N.; Hudson, J. L.; McArthur, G. M.
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Planned moderator subgroup analyses could not be conducted because fewer than 10 studies per subgroup were available
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 
 ## Subclaims
 `q3 i?` For general internalising problems, anxiety, and depression, none of the eight planned moderator subgroup analyses could be run reliably because there were fewer than 10 studies per subgroup; narrative synthesis was substituted. [→ Francis 2019](#francis-2019)
@@ -31,7 +33,7 @@ sources:
 
 Francis, D. A.; Caruana, N.; Hudson, J. L.; McArthur, G. M. (2019). The association between poor reading and internalising problems: A systematic review and meta-analysis. Clinical Psychology Review. https://doi.org/10.1016/j.cpr.2018.09.002
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Subgroup-analysis stage of the meta-analysis (Results, §3.5.2). The authors report that "there were fewer than 10 studies per subgroup" for each potential moderator, so a narrative synthesis of moderator evidence was provided in the Discussion instead.
 

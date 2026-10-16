@@ -15,12 +15,14 @@ sources:
     author: Weil L.G., Fleming S.M., Dumontheil I., Kilford E.J., Weil R.S., Rees G., Dolan R.J., Blakemore S.-J.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Female participants showed higher metacognitive ability than male participants
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Females tended to have greater Aroc than males (females mean 0.71, SD 0.051; males mean 0.68, SD 0.034; t(54) = 2.2, p = .032). [→ Weil L.G. 2013](#weil-lg-2013)
@@ -31,7 +33,7 @@ sources:
 
 Weil L.G., Fleming S.M., Dumontheil I., Kilford E.J., Weil R.S., Rees G., Dolan R.J., Blakemore S.-J. (2013). The development of metacognitive ability in adolescence. Consciousness and Cognition. https://doi.org/10.1016/j.concog.2013.01.004
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Independent t-test comparing male and female participants in the 56-participant cross-sectional sample. The authors state the study "was not designed to investigate gender differences" and that this relationship was not observed in their previous study.
 

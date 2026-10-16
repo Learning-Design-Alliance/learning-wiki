@@ -13,16 +13,20 @@ sources:
     title: Doyle C 2018
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: doyle-c-2018-2
     title: Doyle C 2018 (2)
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Task-level executive function differences in dyslexia on the Phoneme Go No-Go and Picture 2-back tasks are no longer significant after controlling for processing speed
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 2 studies · 2 associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Group differences in Phoneme Go No-Go commission errors and Picture 2-back errors were no longer significant after controlling for processing speed. [→ Doyle C 2018](#doyle-c-2018)
@@ -34,7 +38,7 @@ sources:
 
 Doyle C, Smeaton AF, Roche RAP and Boran L (2018) Inhibition and Updating, but Not Switching, Predict Developmental Dyslexia and Individual Variation in Reading Ability. Front. Psychol. 9:795. https://doi.org/10.3389/fpsyg.2018.00795
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 ANCOVA controlling for processing speed in the dyslexia vs control sample. Phoneme Go No-Go commission error differences were "no longer signiﬁcant after controlling for individual variation in processing speed," F(1, 53) = 2.59, p = 0.114.
 
@@ -44,7 +48,7 @@ ANCOVA controlling for processing speed in the dyslexia vs control sample. Phone
 
 Doyle C, Smeaton AF, Roche RAP and Boran L (2018) Inhibition and Updating, but Not Switching, Predict Developmental Dyslexia and Individual Variation in Reading Ability. Front. Psychol. 9:795. https://doi.org/10.3389/fpsyg.2018.00795
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 ANCOVA controlling for processing speed in the same sample. Picture 2-back error differences were "no longer signiﬁcant," F(1, 53) = 3.88, p = 0.054; equivalence was not tested.
 

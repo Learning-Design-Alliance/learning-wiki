@@ -15,18 +15,22 @@ sources:
     author: Menken Miriam S., Rodriguez Rivera Pedro J., Isaiah Amal, Ernst Thomas, Cloak Christine C., Chang Linda
     q: 3
     i: 1
+    kind: associational
+    rigour: 2
   - id: menken-miriam-s-2023-2
     resource: "https://doi.org/10.1016/j.dcn.2023.101247"
     title: "Menken Miriam S., Rodriguez Rivera Pedro J., Isaiah Amal, Ernst Thomas, Cloak Christine C., Chang Linda. (2023). Longitudinal alterations in brain morphometry mediated the effects of bullying victimization on cognitive development in preadolescents. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2023.101247"
     author: Menken Miriam S., Rodriguez Rivera Pedro J., Isaiah Amal, Ernst Thomas, Cloak Christine C., Chang Linda
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Bullied preadolescents show larger cortical volumes in left entorhinal, left superior parietal, and right fusiform regions than matched non-bullied peers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Bullied children had larger cortical volumes in the left entorhinal (d = 0.39), left superior parietal (d = 0.51), and right fusiform (d = 0.60) regions than non-bullied children. [→ Menken Miriam S. 2023](#menken-miriam-s-2023)
@@ -38,7 +42,7 @@ sources:
 
 Menken Miriam S., Rodriguez Rivera Pedro J., Isaiah Amal, Ernst Thomas, Cloak Christine C., Chang Linda. (2023). Longitudinal alterations in brain morphometry mediated the effects of bullying victimization on cognitive development in preadolescents. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2023.101247
 
-`q3 · i1`
+`q3 · i1` · `associational · r2`
 
 LMM analysis of Desikan-Killiany parcellated cortical volumes in the matched ABCD sample across two visits. The article reports larger volumes in the three named regions in bullied children, with the printed effect sizes including "d=0.39" for the left entorhinal region.
 
@@ -48,7 +52,7 @@ LMM analysis of Desikan-Killiany parcellated cortical volumes in the matched ABC
 
 Menken Miriam S., Rodriguez Rivera Pedro J., Isaiah Amal, Ernst Thomas, Cloak Christine C., Chang Linda. (2023). Longitudinal alterations in brain morphometry mediated the effects of bullying victimization on cognitive development in preadolescents. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2023.101247
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Mediation/association analyses of the three bullying-impacted cortical volume regions against cognitive scores. The article reports no effect on cognition (P range 0.09–0.81); the left entorhinal bullying-by-visit interaction was also not significant (P = 1.00).
 

@@ -15,12 +15,14 @@ sources:
     author: Sebastian Skalski, Grzegorz Pochwatko, Robert Balas
     q: 3
     i: 3
+    kind: causal
+    rigour: 1
 ---
 
 # Children with ADHD exhibit a higher theta/beta power ratio than typically developing children at C3, Cz and C4 in the midline
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r1` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Children with ADHD showed significantly higher TBR than TD children at each controlled midline location, with medium-to-large effects. [→ Sebastian Skalski 2021](#sebastian-skalski-2021)
@@ -31,7 +33,7 @@ sources:
 
 Sebastian Skalski, Grzegorz Pochwatko, Robert Balas. (2021). Impact of Motivation on Selected Aspects of Attention in Children with ADHD. Child Psychiatry & Human Development. https://doi.org/10.1007/s10578-020-01042-0
 
-`q3 · i3`
+`q3 · i3` · `causal · r1`
 
 Resting-state EEG in the group comparison of 30 children with ADHD and 30 TD children; Student's t-tests showed significant TBR differences, with printed effect sizes ranging from r = 0.41 to r = 0.55 across C3, Cz and C4, which the article calls "medium or large".
 

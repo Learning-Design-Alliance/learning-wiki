@@ -13,12 +13,14 @@ sources:
     title: Honoré N 2020
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # The classroom training improves inhibitory control as measured by the Tongue Task
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Duration holding the candy increased more in the experimental group than in the control group (interaction η² = 0.160). [→ Honoré N 2020](#honore-n-2020)
@@ -29,7 +31,7 @@ sources:
 
 Honoré N, Houssa M, Volckaert A, Noël M-P and Nader-Grosbois N (2020) Training Inhibition and Social Cognition in the Classrooms. Front. Psychol. 11:1974. https://doi.org/10.3389/fpsyg.2020.01974
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Repeated-measures ANOVA on children who did not reach the 40-s ceiling at pre-test (30 experimental, 17 control); the group×time interaction was significant (F = 8.57, p = 0.005, η² = 0.160), the largest effect in the study.
 

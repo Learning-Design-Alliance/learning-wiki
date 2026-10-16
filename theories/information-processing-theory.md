@@ -17,7 +17,7 @@ sources:
 # Information Processing Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 11 claims (7 for, 4 mixed) · 12 studies (6 causal, 3 quant-synthesis, 2 review, 1 design), `q1`–`q4` · 2 of 12 report an effect size · 9 claims rest on one study
+> **Evidence** · 18 claims (12 for, 6 mixed) · 15 studies (7 causal, 3 quant-synthesis, 2 review, 2 associational, 1 design), `q1`–`q4` · 4 of 15 report an effect size · 16 claims rest on one study
 
 ## Description
 Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval. In broad terms, the theory asks what learners notice, how much they can actively process at once, how they organize new information, and how it becomes retrievable later.

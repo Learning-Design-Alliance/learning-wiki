@@ -15,12 +15,14 @@ sources:
     author: Bert De Smedt, Bart Boets
     q: 3
     i: 0
+    kind: associational
+    rigour: 2
 ---
 
 # The association between phonological awareness and fact retrieval is prominent in multiplication but largely absent in subtraction at the subgroup level
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · associational `r2` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i0` After removing two individuals with very high subtraction retrieval frequencies, the association between phonological awareness and subtraction fact retrieval disappeared (r(23) = .11, p = .61), in line with the control group. [→ Bert De Smedt 2010](#bert-de-smedt-2010)
@@ -31,7 +33,7 @@ sources:
 
 Bert De Smedt, Bart Boets. (2010). Phonological processing and arithmetic fact retrieval: Evidence from developmental dyslexia. Neuropsychologia, 48, 3973–3981. https://doi.org/10.1016/j.neuropsychologia.2010.10.018
 
-`q3 · i0`
+`q3 · i0` · `associational · r2`
 
 Subgroup correlational analyses of retrieval frequency against phonological composites in the dyslexia-control study. The dyslexia subgroup's trend-level subtraction association (r(25) = .37, p = .07) was driven by two individuals with very high subtraction retrieval frequencies; control subgroup subtraction correlations were near zero (r = .06).
 

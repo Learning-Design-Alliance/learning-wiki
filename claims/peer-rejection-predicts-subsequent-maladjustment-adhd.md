@@ -15,18 +15,22 @@ sources:
     author: "Mikami, A. Y., & Normand, S."
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
   - id: mikami-2015-2
     resource: "https://doi.org/10.1007/s40474-014-0036-0"
     title: "Mikami, A. Y., & Normand, S. (2015). The Importance of Social Contextual Factors in Peer Relationships of Children with ADHD. Curr Dev Disord Rep. https://doi.org/10.1007/s40474-014-0036-0"
     author: "Mikami, A. Y., & Normand, S."
     q: 3
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Peer rejection incrementally predicts subsequent behavioral, emotional, and academic maladjustment in children with ADHD beyond ADHD status itself
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q3`
 
 ## Subclaims
 `q3 i?` Peer rejection augments the risk associated with ADHD diagnostic status for depression, anxiety, delinquency, academic failure, eating pathology, and substance abuse in adolescence. [→ Mikami 2015](#mikami-2015)
@@ -38,7 +42,7 @@ sources:
 
 Mikami, A. Y., & Normand, S. (2015). The Importance of Social Contextual Factors in Peer Relationships of Children with ADHD. Curr Dev Disord Rep. https://doi.org/10.1007/s40474-014-0036-0
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 The review synthesizes prospective investigations showing peer rejection adds risk beyond ADHD diagnostic status for adolescent maladjustment outcomes, including "depression, anxiety, delinquency, academic failure, eating pathology, and substance abuse".
 
@@ -48,7 +52,7 @@ The review synthesizes prospective investigations showing peer rejection adds ri
 
 Mikami, A. Y., & Normand, S. (2015). The Importance of Social Contextual Factors in Peer Relationships of Children with ADHD. Curr Dev Disord Rep. https://doi.org/10.1007/s40474-014-0036-0
 
-`q3 · i?`
+`q3 · i?` · `review · r3`
 
 One cited study found independent longitudinal contributions of peer rejection and ADHD status to later academic achievement controlling baseline achievement and IQ; another found classroom peer victimization predicted restricted growth in reading achievement.
 

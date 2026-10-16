@@ -15,18 +15,22 @@ sources:
     author: "Rouse, H. L., & Fantuzzo, J. W."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: rouse-2006-2
     resource: "https://doi.org/10.1080/02796015.2006.12087971"
     title: "Rouse, H. L., & Fantuzzo, J. W. (2006). Validity of the Dynamic Indicators for Basic Early Literacy Skills as an Indicator of Early Literacy for Urban Kindergarten Children. School Psychology Review, 35(3), 341-355. https://doi.org/10.1080/02796015.2006.12087971"
     author: "Rouse, H. L., & Fantuzzo, J. W."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Kindergarten DIBELS subtests correlate significantly with early mathematics ability and with behavioral approaches to learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Children's early mathematics ability was significantly related to all three DIBELS subtests, supporting convergent validity with other cognitive competencies. [→ Rouse 2006](#rouse-2006)
@@ -38,7 +42,7 @@ sources:
 
 Rouse, H. L., & Fantuzzo, J. W. (2006). Validity of the Dynamic Indicators for Basic Early Literacy Skills as an Indicator of Early Literacy for Urban Kindergarten Children. School Psychology Review, 35(3), 341-355. https://doi.org/10.1080/02796015.2006.12087971
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Bivariate correlations with the Test of Early Mathematics Ability in the urban kindergarten sample showed "early mathemat- ics ability was significantly related" to all three DIBELS subtests, which the authors interpret as supporting the integrated nature of early cognitive development.
 
@@ -48,7 +52,7 @@ Bivariate correlations with the Test of Early Mathematics Ability in the urban k
 
 Rouse, H. L., & Fantuzzo, J. W. (2006). Validity of the Dynamic Indicators for Basic Early Literacy Skills as an Indicator of Early Literacy for Urban Kindergarten Children. School Psychology Review, 35(3), 341-355. https://doi.org/10.1080/02796015.2006.12087971
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Bivariate correlations with the Learning Behaviors Scale showed "Significant associations" between early literacy and approaches to learning; within these constructs, Competence Motivation had the strongest relationship with the literacy subtests.
 

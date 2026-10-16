@@ -15,12 +15,14 @@ sources:
     author: "Gemma Muncer, Philip A. Higham, Corentin J. Gosling, Samuele Cortese, Henry Wood-Downie, & Julie A. Hadwin"
     q: 4
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Online (versus offline) measures of metacognition are associated with larger metacognition–math effect sizes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q4` pre-registered or meta-analytic
+> **Evidence** · 1 study · quant-synthesis `r3` · `q4`
 
 ## Subclaims
 `q4 i?` Studies measuring metacognition with online (versus offline) measures showed larger pooled effect sizes for the metacognition–math association. [→ Gemma Muncer 2021](#gemma-muncer-2021)
@@ -31,7 +33,7 @@ sources:
 
 Gemma Muncer, Philip A. Higham, Corentin J. Gosling, Samuele Cortese, Henry Wood-Downie, & Julie A. Hadwin. (2021). A Meta-Analysis Investigating the Association Between Metacognition and Math Performance in Adolescence. Educational Psychology Review. https://doi.org/10.1007/s10648-021-09620-x
 
-`q4 · i?`
+`q4 · i?` · `quant-synthesis · r3`
 
 The meta-analysis's moderation analysis compared pooled effect sizes for online versus offline metacognition measures (categorised per Veenman and van Cleef 2019, with four alternative classifications tested) and found online measures "was associated with larger effect sizes". No subgroup effect size is printed in the available text.
 

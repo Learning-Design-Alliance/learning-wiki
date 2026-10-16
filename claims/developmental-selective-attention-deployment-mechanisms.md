@@ -15,12 +15,14 @@ sources:
     author: Stevens, Courtney; Bavelier, Daphné
     q: 2
     i: "?"
+    kind: review
+    rigour: "?"
 ---
 
 # Developmental differences in selective attention are related to neural systems for deploying attention and managing response conflict, while deployed selective attention acts through similar neural mechanisms across ages
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Developmental differences in selective attention are attributed to the neural systems important for deploying selective attention and managing response conflict. [→ Stevens 2012](#stevens-2012)
@@ -32,7 +34,7 @@ sources:
 
 Stevens, Courtney; Bavelier, Daphné. (2012). The role of selective attention on academic foundations: A cognitive neuroscience perspective. Developmental cognitive neuroscience, vol. 2S, p. S30–S48. https://doi.org/10.1016/j.dcn.2011.11.001
 
-`q2 · i?`
+`q2 · i?` · `review · r?`
 
 The review's second section, on the developmental time course of selective attention, argues this two-part account: developmental differences reflect deployment and response-conflict systems, whereas "once effectively deployed, selective attention acts through very similar neural mechanisms across ages." No effect sizes are printed in the available text.
 

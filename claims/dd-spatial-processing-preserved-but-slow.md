@@ -15,12 +15,14 @@ sources:
     author: Szucs Denes, Devine Amy, Soltesz Fruzsina, Nobes Alison, Gabriel Florence
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Spatial processing is preserved but slower in developmental dyscalculia, with slow trail-making and mental rotation speed attributed to WM/inhibition impairment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` DD children matched controls on spatial symmetry and mental rotation accuracy but were slower on trail-making A and mental rotation. [→ Szucs Denes 2013](#szucs-denes-2013)
@@ -31,7 +33,7 @@ sources:
 
 Szucs Denes, Devine Amy, Soltesz Fruzsina, Nobes Alison, Gabriel Florence. (2013). Developmental dyscalculia is related to visuo-spatial memory and inhibition impairment. Cortex, 49(10). https://doi.org/10.1016/j.cortex.2013.06.007
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 In the case-control study, accuracy equaled between groups on the spatial symmetry and mental rotation tasks while solution times were longer in DD (mental rotation: DD 66.7 ± 4.4 sec vs Control 56.0 ± 3.5 sec; trail-making A: 58.3 ± 5.4 vs 41.3 ± 2.0 sec).
 

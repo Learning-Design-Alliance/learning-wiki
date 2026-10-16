@@ -13,6 +13,7 @@ generated:
 # The Bullying Prevention Pack (BPP)
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A five-week, teacher-led primary-school bullying-prevention programme developed by Peadar Donohoe and colleagues that uses discussions, literature-based definitions, role-play, defending-behaviour coaching, an anti-bullying contract, and monthly follow-up check-ups.

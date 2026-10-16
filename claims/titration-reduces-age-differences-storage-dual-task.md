@@ -15,18 +15,22 @@ sources:
     author: "Jaroslawska, A. J., & Rhodes, S."
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
   - id: jaroslawska-2019-2
     resource: "https://doi.org/10.1037/pag0000358"
     title: "Jaroslawska, A. J., & Rhodes, S. (2019). Adult Age Diﬀerences in the Eﬀects of Processing on Storage in Working Memory: A Meta-Analysis. Psychology & Aging. https://doi.org/10.1037/pag0000358"
     author: "Jaroslawska, A. J., & Rhodes, S."
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Titration of storage task difficulty substantially reduces age differences in both single-task and dual-task memory accuracy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Age differences in single-task storage accuracy are smaller in titrated studies (g = 0.225) than non-titrated studies (g = 0.776), and the same holds for storage+processing tasks (0.249 vs 0.845). [→ Jaroslawska 2019](#jaroslawska-2019)
@@ -38,7 +42,7 @@ sources:
 
 Jaroslawska, A. J., & Rhodes, S. (2019). Adult Age Diﬀerences in the Eﬀects of Processing on Storage in Working Memory: A Meta-Analysis. Psychology & Aging. https://doi.org/10.1037/pag0000358
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Meta-regression of single-task age differences with titration as a moderator; including titration "accounted for signiﬁcant variability in eﬀect sizes, Q(1) = 7.538, p < 0.01". Hedges' g fell from 0.776 to 0.225, and the titrated effect size was not significantly different from zero.
 
@@ -48,7 +52,7 @@ Meta-regression of single-task age differences with titration as a moderator; in
 
 Jaroslawska, A. J., & Rhodes, S. (2019). Adult Age Diﬀerences in the Eﬀects of Processing on Storage in Working Memory: A Meta-Analysis. Psychology & Aging. https://doi.org/10.1037/pag0000358
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r?`
 
 Meta-regression comparing studies titrating both tasks (19 observations) versus storage only (18) against no titration; the moderator estimates on the Hedges' g scale (-0.638 and -0.551) were significant and of similar magnitude, indicating storage-task titration drives the reduction.
 

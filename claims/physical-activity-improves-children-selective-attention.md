@@ -15,18 +15,22 @@ sources:
     author: Bidzan-Bluma Ilona, Lipowska Małgorzata
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: bidzan-bluma-ilona-2018-2
     resource: "https://doi.org/10.3390/ijerph15040800"
     title: "Bidzan-Bluma Ilona, Lipowska Małgorzata. (2018). Physical Activity and Cognitive Functioning of Children: A Systematic Review. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph15040800"
     author: Bidzan-Bluma Ilona, Lipowska Małgorzata
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Physical activity, including brief aerobic exercise sessions, improves children's selective attention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Even a 12 min session of aerobic exercise improved the selective attention of children. [→ Bidzan-Bluma Ilona 2018](#bidzan-bluma-ilona-2018)
@@ -38,7 +42,7 @@ sources:
 
 Bidzan-Bluma Ilona, Lipowska Małgorzata. (2018). Physical Activity and Cognitive Functioning of Children: A Systematic Review. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph15040800
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports intervention trials on attention, stating that "Even a 12 min session of aerobic exercise improved the selective attention of children". No effect size is printed for this finding.
 
@@ -48,7 +52,7 @@ The review reports intervention trials on attention, stating that "Even a 12 min
 
 Bidzan-Bluma Ilona, Lipowska Małgorzata. (2018). Physical Activity and Cognitive Functioning of Children: A Systematic Review. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph15040800
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Cross-sectional evidence cited by the review contrasts sport-participating children with sedentary children: "better speed times and visual selective attention" favor the sport group. No effect size is printed.
 

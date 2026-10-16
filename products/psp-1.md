@@ -13,6 +13,7 @@ generated:
 # PSP-1
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 PSP-1 is a Croatian standardized behavioral test battery developed for screening auditory processing skills and auditory processing disorder in children aged 5.5–11.5 years.

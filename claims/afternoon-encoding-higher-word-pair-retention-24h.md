@@ -15,18 +15,22 @@ sources:
     author: Holz J, Piosczyk H, Landmann N, Feige B, Spiegelhalder K, Riemann D, Nissen C, Voderholzer U.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: holz-j-2012-2
     resource: "https://doi.org/10.1371/journal.pone.0040963"
     title: "Holz J, Piosczyk H, Landmann N, Feige B, Spiegelhalder K, Riemann D, Nissen C, Voderholzer U. (2012). The Timing of Learning before Night-Time Sleep Differentially Affects Declarative and Procedural Long-Term Memory Consolidation in Adolescents. PLoS ONE 7(7): e40963. https://doi.org/10.1371/journal.pone.0040963"
     author: Holz J, Piosczyk H, Landmann N, Feige B, Spiegelhalder K, Riemann D, Nissen C, Voderholzer U.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Adolescents trained on word pairs in the afternoon show higher word-pair retention after 24 hours than evening-trained adolescents, but the difference is not sustained at 7 days
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Afternoon-group adolescents showed a significantly elevated word-pair retention rate from Day 1 to Day 2 compared to the evening group. [→ Holz J 2012](#holz-j-2012)
@@ -38,7 +42,7 @@ sources:
 
 Holz J, Piosczyk H, Landmann N, Feige B, Spiegelhalder K, Riemann D, Nissen C, Voderholzer U. (2012). The Timing of Learning before Night-Time Sleep Differentially Affects Declarative and Procedural Long-Term Memory Consolidation in Adolescents. PLoS ONE 7(7): e40963. https://doi.org/10.1371/journal.pone.0040963
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Randomized parallel-group experiment with 25 adolescents per group trained at 3 PM or 9 PM on 46 semantically related word pairs. The afternoon group's "significantly elevated retention rate from Day 1 to Day 2" was significant (Table 1 reports P = 0.016); no effect size is printed.
 
@@ -48,7 +52,7 @@ Randomized parallel-group experiment with 25 adolescents per group trained at 3 
 
 Holz J, Piosczyk H, Landmann N, Feige B, Spiegelhalder K, Riemann D, Nissen C, Voderholzer U. (2012). The Timing of Learning before Night-Time Sleep Differentially Affects Declarative and Procedural Long-Term Memory Consolidation in Adolescents. PLoS ONE 7(7): e40963. https://doi.org/10.1371/journal.pone.0040963
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Same randomized two-group experiment, second retention interval. The Day 1 to Day 8 word-pair retention difference between afternoon and evening groups was non-significant (Table 1 reports P = 0.053); equivalence was not tested.
 

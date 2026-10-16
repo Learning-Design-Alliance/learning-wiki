@@ -13,12 +13,14 @@ sources:
     title: Spiegler O and Leyendecker B 2017
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The link between Turkish identity and mixed-trial accuracy was negative when German identity was low and marginally positive when German identity was high
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The link between Turkish identity and mixed-trial accuracy was significantly negative (β = −0.02, p = 0.05) when German identity was ≤ 2.36 (40.1% of children) and marginally positive (β = 0.05, p = 0.06) at a German identity level of five (5.5% of children). [→ Spiegler O and Leyendecker B 2017](#spiegler-o-and-leyendecker-b-2017)
@@ -29,7 +31,7 @@ sources:
 
 Spiegler O and Leyendecker B (2017) Balanced Cultural Identities Promote Cognitive Flexibility among Immigrant Children. Front. Psychol. 8:1579. https://doi.org/10.3389/fpsyg.2017.01579
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Johnson–Neyman probing of the interaction in the moderation analyses defined regions of significance on the German-identity moderator; for children with German identity at or below 2.36 (40.1%), higher Turkish identity was linked to poorer mixed-trial performance, while at the maximum value of five (5.5%) the link was marginally positive.
 

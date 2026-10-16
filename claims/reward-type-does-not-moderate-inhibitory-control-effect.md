@@ -15,12 +15,14 @@ sources:
     author: "Burton, S., Knibb, G., & Jones, A."
     q: 4
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # The effect of reward on inhibitory control is not moderated by reward type (monetary vs points vs other)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q4` pre-registered or meta-analytic
+> **Evidence** · 1 study · quant-synthesis `r3` · `q4`
 
 ## Subclaims
 `q4 i?` Exploratory moderation found no evidence that reward type moderates the reward effect on IC across monetary (k = 62), points (k = 13), and other (k = 3) reward categories. [→ Burton 2021](#burton-2021)
@@ -31,7 +33,7 @@ sources:
 
 Burton, S., Knibb, G., & Jones, A. (2021). A meta-analytic investigation of the role of reward on inhibitory control. Quarterly Journal of Experimental Psychology. https://doi.org/10.1177/17470218211008895
 
-`q4 · i?`
+`q4 · i?` · `quant-synthesis · r3`
 
 Exploratory moderator analysis on reward type. All three reward categories showed significant positive effects; the article reports "no evidence of moderation, χ2(2) = 2.863, p = .239".
 

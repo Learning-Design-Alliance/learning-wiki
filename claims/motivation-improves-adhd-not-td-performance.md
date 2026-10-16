@@ -15,12 +15,14 @@ sources:
     author: Sebastian Skalski, Grzegorz Pochwatko, Robert Balas
     q: 3
     i: 3
+    kind: causal
+    rigour: 1
 ---
 
 # The motivation manipulation improved attention performance in children with ADHD but did not change TD children's performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r1` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` The motivation factor significantly differentiated attention indicators in children with ADHD, while TD children's indicators were similar across conditions. [→ Sebastian Skalski 2021](#sebastian-skalski-2021)
@@ -31,7 +33,7 @@ sources:
 
 Sebastian Skalski, Grzegorz Pochwatko, Robert Balas. (2021). Impact of Motivation on Selected Aspects of Attention in Children with ADHD. Child Psychiatry & Human Development. https://doi.org/10.1007/s10578-020-01042-0
 
-`q3 · i3`
+`q3 · i3` · `causal · r1`
 
 Simple main effects of the motivation factor in the quasi-experiment; for children with ADHD all indicators except commission errors improved significantly (also RT slope r = 0.38, single-tasking r = 0.51, multi-tasking r = 0.49), whereas for TD children all indicators were similar across conditions.
 

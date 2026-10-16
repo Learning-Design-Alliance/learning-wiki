@@ -15,12 +15,14 @@ sources:
     author: Sanderud K., Murphy S., Elklit A.
     q: 1
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The authors interpret the maltreatment–ADHD association as partly complicated by symptom overlap between ADHD and PTSD, which may make the two conditions difficult to distinguish
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · associational `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The authors argue that symptom domains of attention, impulse control, and hyperactivity are comparable in both ADHD and PTSD, making it difficult to decipher whether symptoms result from PTSD or ADHD. [→ Sanderud K. 2016](#sanderud-k-2016)
@@ -31,7 +33,7 @@ sources:
 
 Sanderud K., Murphy S., Elklit A. (2016). Child maltreatment and ADHD symptoms in a sample of young adults. European Journal of Psychotraumatology. https://doi.org/10.3402/ejpt.v7.32061
 
-`q1 · i?`
+`q1 · i?` · `associational · r2`
 
 Authors' interpretation in the Discussion, attributed to Ford & Connor (2009); this is an explanatory account, not a tested result of the present study. The study itself could not determine whether responses would lead to an ADHD diagnosis.
 

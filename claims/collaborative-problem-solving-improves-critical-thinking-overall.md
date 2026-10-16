@@ -15,12 +15,14 @@ sources:
     author: "Xu, E., Wang, W., & Wang, Q."
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Collaborative problem-solving significantly improves students' critical thinking overall (ES = 0.82)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Across 79 effect quantities from 36 studies, collaborative problem-solving has a statistically significant positive overall effect on students' critical thinking (ES = 0.82, 95% CI [0.69, 0.95]). [→ Xu 2023](#xu-2023)
@@ -31,7 +33,7 @@ sources:
 
 Xu, E., Wang, W., & Wang, Q. (2023). The effectiveness of collaborative problem solving in promoting students' critical thinking: A meta-analysis based on empirical literature. Humanities and Social Sciences Communications. https://doi.org/10.1057/s41599-023-01508-1
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Random-effects meta-analysis of 79 effect quantities from 36 experimental or quasi-experimental studies published 2000–2021, analyzed in Rev-Man 5.4. The pooled effect size was ES = 0.82, "statistically significant (z = 12.78, P < 0.01, 95% CI [0.69, 0.95])". Heterogeneity was high (I2 = 86%), requiring a random effect model.
 

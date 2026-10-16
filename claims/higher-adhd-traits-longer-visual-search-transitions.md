@@ -15,12 +15,14 @@ sources:
     author: "Van den Driessche, C., Chevrier, F., Cleeremans, A. & Sackur, J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children with higher ADHD rating-scale scores make longer transitions between consecutively retrieved items in a visual search task
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the Bells Test, ADHD score positively and significantly predicted both the mean and the standard deviation of distances between consecutively found targets. [→ Van den Driessche 2019](#van-den-driessche-2019)
@@ -31,7 +33,7 @@ sources:
 
 Van den Driessche, C., Chevrier, F., Cleeremans, A. & Sackur, J. (2019). Lower Attentional Skills predict increased exploratory foraging patterns. Scientific Reports 9:10948. https://doi.org/10.1038/s41598-019-46761-0
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Observational analysis of search paths from 87 children performing the Bells Test (35 targets, 2 minutes). Mixed models showed "a positive and significant effect of the ADHD score" on mean and SD of inter-target distances; no effect size was printed.
 

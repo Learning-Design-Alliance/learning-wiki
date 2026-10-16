@@ -13,12 +13,14 @@ sources:
     title: Mercader J 2018
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Working memory shows a moderate average correlation with mathematics (r = 0.35), stronger for calculation and problem solving than geometry, per a meta-analysis of 110 studies cited in the article
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The article reports, citing Peng et al. (2015), a meta-analysis of 110 studies finding an average WM–mathematics correlation of r = 0.35, with stronger associations for calculation and problem solving than geometry. [→ Mercader J 2018](#mercader-j-2018)
@@ -29,7 +31,7 @@ sources:
 
 Mercader J, Miranda A, Presentación MJ, Siegenthaler R and Rosel JF (2018) Contributions of Motivation, Early Numeracy Skills, and Executive Functioning to Mathematical Performance. A Longitudinal Study. Front. Psychol. 8:2375. https://doi.org/10.3389/fpsyg.2017.02375
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Background-literature report: the article attributes this meta-analytic finding to Peng et al. (2015), noting associations were higher in children with mathematical difficulties and other unrelated disorders, and that "WM had a stronger association with calculation and problem solving, but not with geometry."
 

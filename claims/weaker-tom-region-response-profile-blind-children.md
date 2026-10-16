@@ -15,12 +15,14 @@ sources:
     author: Richardson H., Saxe R., Bedny M.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The condition-dependent response profile of ToM brain regions is quantitatively weaker in blind than sighted children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Sighted children showed the expected Mental > Social > Physical response profile in ToM ROIs, but this profile was not apparent among blind children, with significant condition-by-group interactions (all ToM ROIs: bs<−0.2, ts<−2.2, ps<0.05). [→ Richardson H. 2023](#richardson-h-2023)
@@ -31,7 +33,7 @@ sources:
 
 Richardson H., Saxe R., Bedny M. (2023). Neural correlates of theory of mind reasoning in congenitally blind children. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2023.101285
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 fMRI ROI analysis of beta values per story condition in group-defined ToM ROIs for 17 blind and 114 sighted children, controlling for age, handedness, motion, and head coil. Condition differences were "larger among sighted children"; no standardized effect size printed.
 

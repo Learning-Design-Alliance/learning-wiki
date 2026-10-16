@@ -15,18 +15,22 @@ sources:
     author: "Mikami, A. Y., & Normand, S."
     q: 3
     i: "?"
+    kind: review
+    rigour: 3
   - id: mikami-2015-2
     resource: "https://doi.org/10.1007/s40474-014-0036-0"
     title: "Mikami, A. Y., & Normand, S. (2015). The Importance of Social Contextual Factors in Peer Relationships of Children with ADHD. Curr Dev Disord Rep. https://doi.org/10.1007/s40474-014-0036-0"
     author: "Mikami, A. Y., & Normand, S."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Existing child-focused treatments for ADHD, including the MTA's intensive behavioral management and medication, and clinic-based social skills training, have not improved peers' liking of children with ADHD
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2`–`q3`
+> **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`–`q3`
 
 ## Subclaims
 `q3 i?` In the MTA, despite improved disruptive and prosocial behaviors after 14 months of intensive behavioral management and/or medication, children with ADHD did not improve in peer rejection and friendlessness by sociometric nomination. [→ Mikami 2015](#mikami-2015)
@@ -38,7 +42,7 @@ sources:
 
 Mikami, A. Y., & Normand, S. (2015). The Importance of Social Contextual Factors in Peer Relationships of Children with ADHD. Curr Dev Disord Rep. https://doi.org/10.1007/s40474-014-0036-0
 
-`q3 · i?`
+`q3 · i?` · `review · r3`
 
 The review describes the MTA, the most comprehensive intervention study in this population, comparing 14 months of intensive behavioral management and/or intensive medication to a control group; behaviors improved but "children with ADHD did not demonstrate improvements in their peer rejection and friendlessness".
 
@@ -48,7 +52,7 @@ The review describes the MTA, the most comprehensive intervention study in this 
 
 Mikami, A. Y., & Normand, S. (2015). The Importance of Social Contextual Factors in Peer Relationships of Children with ADHD. Curr Dev Disord Rep. https://doi.org/10.1007/s40474-014-0036-0
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports that three recent major reviews concluded social skills training is ineffective for ADHD populations "at least as is provided in traditional clinic-based settings", based on studies finding no benefit for peer relationships.
 

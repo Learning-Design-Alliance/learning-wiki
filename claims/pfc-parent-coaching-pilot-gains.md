@@ -15,12 +15,14 @@ sources:
     author: "Mikami, A. Y., & Normand, S."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # In a pilot randomized trial, children whose parents received Parental Friendship Coaching were reported by parents and by blind teachers to show better social behaviors and greater peer acceptance than control children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Children whose parents received PFC showed better social behaviors by parent report, and were reported by teachers unaware of assignment to be more accepted and less rejected by peers, relative to controls. [→ Mikami 2015](#mikami-2015)
@@ -31,7 +33,7 @@ sources:
 
 Mikami, A. Y., & Normand, S. (2015). The Importance of Social Contextual Factors in Peer Relationships of Children with ADHD. Curr Dev Disord Rep. https://doi.org/10.1007/s40474-014-0036-0
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports its pilot study in which families of 62 children with ADHD were randomly assigned to PFC or no-treatment control; observed warm, non-critical, instructive parental coaching behaviors partially mediated intervention effects on children's peer relationships.
 

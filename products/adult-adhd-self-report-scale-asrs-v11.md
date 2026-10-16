@@ -13,6 +13,7 @@ generated:
 # Adult ADHD Self-Report Scale (ASRS v1.1)
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The World Health Organization Adult ADHD Self-Report Scale (ASRS v1.1) is a six-item self-report screening assessment for probable adult ADHD symptoms.

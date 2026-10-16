@@ -15,18 +15,22 @@ sources:
     author: Oberauer, K.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: oberauer-2019-2
     resource: "https://doi.org/10.5334/joc.58"
     title: "Oberauer, K. (2019). Working Memory and Attention – A Conceptual Analysis and Review. Journal of Cognition, 2(1): 36. https://doi.org/10.5334/joc.58"
     author: Oberauer, K.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # A shared attentional resource for storage and processing is the best supported resource theory of WM capacity but faces empirical challenges
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Considerable evidence confirms that storage and processing compete for a shared content-general attentional resource, lending support to the notion that WM capacity is limited by an attentional resource. [→ Oberauer 2019](#oberauer-2019)
@@ -38,7 +42,7 @@ sources:
 
 Oberauer, K. (2019). Working Memory and Attention – A Conceptual Analysis and Review. Journal of Cognition, 2(1): 36. https://doi.org/10.5334/joc.58
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review's narrative synthesis of dual-task studies combining WM storage and processing demands from very different contents, which found dual-task costs as predicted by a single content-general resource. The review reports "considerable evidence confirming this prediction" across multiple studies.
 
@@ -48,7 +52,7 @@ The review's narrative synthesis of dual-task studies combining WM storage and p
 
 Oberauer, K. (2019). Working Memory and Attention – A Conceptual Analysis and Review. Journal of Cognition, 2(1): 36. https://doi.org/10.5334/joc.58
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review identifies a challenge from dual-task studies showing the cost of memory load on response selection "diminishes substantially over the first few seconds" of retention, inconsistent with continuous resource demand for maintenance throughout the interval.
 

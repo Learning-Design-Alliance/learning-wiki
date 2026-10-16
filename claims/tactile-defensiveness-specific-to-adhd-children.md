@@ -15,12 +15,14 @@ sources:
     author: Ghanizadeh A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Tactile defensiveness in ADHD is specific to affected children, more frequent in females, and not due to tactile perception impairment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Tactile defensiveness is specific to children with ADHD and not their siblings without ADHD, is higher in females with ADHD, and reflects impaired central processing rather than perception impairment. [→ Ghanizadeh A 2011](#ghanizadeh-a-2011)
@@ -31,7 +33,7 @@ sources:
 
 Ghanizadeh A. (2011). Sensory Processing Problems in Children with ADHD, a Systematic Review. Psychiatry Investig 2011;8:89-94. https://doi.org/10.4306/pi.2011.8.2.89
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review's discussion of tactile sensory findings states tactile defensiveness "is not part of a familial risk for ADHD because it is specific to children with ADHD and not to their sibling without ADHD" and attributes it to central processing impairment. One study found higher defensiveness in girls with ADHD than boys.
 

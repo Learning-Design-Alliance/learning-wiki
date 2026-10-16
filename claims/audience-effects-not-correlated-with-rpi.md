@@ -15,12 +15,14 @@ sources:
     author: Wolf L.K., Bazargani N., Kilford E.J., Dumontheil I., Blakemore S.-J.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Individual differences in audience effects are not correlated with self-reported resistance to peer influence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` None of the significant audience effects from the main analysis correlated with participants' RPI scores. [→ Wolf L.K. 2015](#wolf-lk-2015)
@@ -31,7 +33,7 @@ sources:
 
 Wolf L.K., Bazargani N., Kilford E.J., Dumontheil I., Blakemore S.-J. (2015). The audience effect in adolescence depends on who's looking over your shoulder. Journal of Adolescence, 43, 5–14. https://doi.org/10.1016/j.adolescence.2015.05.003
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Correlation analysis within the same experiment relating the resistance to peer influence questionnaire (α = 0.65) to the significant audience effects. No correlation reached significance (ps > 0.3); no effect sizes are printed, so the null is reported without an equivalence claim.
 

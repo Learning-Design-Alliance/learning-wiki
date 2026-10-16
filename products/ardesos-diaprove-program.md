@@ -13,6 +13,7 @@ generated:
 # ARDESOS-DIAPROVE program
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A 16-week classroom programme developed by the ARDESOS-DIAPROVE team that teaches critical thinking through problem-based and cooperative learning activities, contextualized problems, rubrics, and feedback.

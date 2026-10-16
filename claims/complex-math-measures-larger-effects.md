@@ -15,12 +15,14 @@ sources:
     author: "Gemma Muncer, Philip A. Higham, Corentin J. Gosling, Samuele Cortese, Henry Wood-Downie, & Julie A. Hadwin"
     q: 4
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # More complex (versus simple) math performance measures are associated with larger metacognition–math effect sizes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q4` pre-registered or meta-analytic
+> **Evidence** · 1 study · quant-synthesis `r3` · `q4`
 
 ## Subclaims
 `q4 i?` Studies using more complex (versus simple) math assessments showed larger pooled effect sizes for the metacognition–math association. [→ Gemma Muncer 2021](#gemma-muncer-2021)
@@ -31,7 +33,7 @@ sources:
 
 Gemma Muncer, Philip A. Higham, Corentin J. Gosling, Samuele Cortese, Henry Wood-Downie, & Julie A. Hadwin. (2021). A Meta-Analysis Investigating the Association Between Metacognition and Math Performance in Adolescence. Educational Psychology Review. https://doi.org/10.1007/s10648-021-09620-x
 
-`q4 · i?`
+`q4 · i?` · `quant-synthesis · r3`
 
 The moderation analysis compared pooled effect sizes for complex versus simple math assessments (e.g. multi-step word problems versus standardised computation scales) and found complex measures "was associated with larger effect sizes". No subgroup effect size is printed in the available text.
 

@@ -15,12 +15,14 @@ sources:
     author: Fu W, Wang C, Chai H, Xue R.
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Adolescents' empathy is significantly positively correlated with prosocial behavior (r = 0.333)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Among Chinese adolescents, empathy showed a significant positive correlation with prosocial behavior (r = 0.333, p < 0.01). [→ Fu W 2022](#fu-w-2022)
@@ -31,7 +33,7 @@ sources:
 
 Fu W, Wang C, Chai H, Xue R. (2022). Examining the relationship of empathy, social support, and prosocial behavior of adolescents in China: a structural equation modeling approach. Humanities and Social Sciences Communications. https://doi.org/10.1057/s41599-022-01296-0
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 Pearson correlation analysis of self-report questionnaire data from 1171 adolescents in nine elementary schools in Henan Province, China. The study reports "a signi ﬁcant positive correlation between empathy and ... prosocial behavior ( r = 0.333, p < 0.01)"; r = 0.333 is a medium-strength correlation.
 

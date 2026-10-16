@@ -15,12 +15,14 @@ sources:
     author: Hanson, J.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Belonging, task relevance, and individual mindset together predict classroom self-efficacy, with belonging the strongest predictor
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The three PERTS independent variables explained a significant proportion of variance in self-efficacy (R2 = .276), with belonging the strongest predictor (β = .335), followed by task relevance (β = .222) and individual mindset (β = .157). [→ Hanson 2017](#hanson-2017)
@@ -31,7 +33,7 @@ sources:
 
 Hanson, J. (2017). Testing the Difference between School Level and Academic Mindset in the Classroom: Implications for Developing Student Psycho-Social Skills in Secondary School Classrooms. Journal of Educational Issues, 3(1). https://doi.org/10.5296/jei.v3i1.10479
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Multiple regression on the district PERTS survey data with belonging, task relevance, and individual mindset entered simultaneously as IVs and self-efficacy as the dependent variable. The article reports "β = .335" for belonging, "β = .222" for task relevance, and "β = .157" for individual mindset, all p < .001.
 

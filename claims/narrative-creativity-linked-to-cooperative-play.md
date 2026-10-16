@@ -13,12 +13,14 @@ sources:
     title: Yuill N 2014
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Joint narratives after augmented play were rated more creative, and per-child creativity correlated with cooperative play (r = 0.72) and negatively with parallel play
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Creativity of the joint narrative correlated positively with amount of cooperative play per child, r(33) = 0.72, p < 0.001, and negatively with parallel play, r(33) = −0.42, p < 0.05. [→ Yuill N 2014](#yuill-n-2014)
@@ -29,7 +31,7 @@ sources:
 
 Yuill N, Hinske S, Williams SE and Leith G (2014) How getting noticed helps getting on: successful attention capture doubles children's cooperative play. Front. Psychol. 5:418. https://doi.org/10.3389/fpsyg.2014.00418
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Study 2 correlational analysis assigning each child the group's narrative creativity score; cooperative play per child was strongly positively related to creativity (r = 0.72), parallel play negatively related (r = −0.42).
 

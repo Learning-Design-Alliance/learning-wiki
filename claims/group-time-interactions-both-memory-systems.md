@@ -15,18 +15,22 @@ sources:
     author: Holz J, Piosczyk H, Landmann N, Feige B, Spiegelhalder K, Riemann D, Nissen C, Voderholzer U.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: holz-j-2012-2
     resource: "https://doi.org/10.1371/journal.pone.0040963"
     title: "Holz J, Piosczyk H, Landmann N, Feige B, Spiegelhalder K, Riemann D, Nissen C, Voderholzer U. (2012). The Timing of Learning before Night-Time Sleep Differentially Affects Declarative and Procedural Long-Term Memory Consolidation in Adolescents. PLoS ONE 7(7): e40963. https://doi.org/10.1371/journal.pone.0040963"
     author: Holz J, Piosczyk H, Landmann N, Feige B, Spiegelhalder K, Riemann D, Nissen C, Voderholzer U.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Learning timing produces Group X Time interactions in both memory systems: declarative consolidation time courses differ between afternoon and evening groups, and finger-tapping speed and accuracy show highly significant Group X Time interactions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The declarative word-pair ANOVA showed a significant Time X Group interaction (F = 3.3, P = 0.040), indicating different consolidation time courses between groups. [→ Holz J 2012](#holz-j-2012)
@@ -38,7 +42,7 @@ sources:
 
 Holz J, Piosczyk H, Landmann N, Feige B, Spiegelhalder K, Riemann D, Nissen C, Voderholzer U. (2012). The Timing of Learning before Night-Time Sleep Differentially Affects Declarative and Procedural Long-Term Memory Consolidation in Adolescents. PLoS ONE 7(7): e40963. https://doi.org/10.1371/journal.pone.0040963
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Omnibus 3x2 repeated-measures ANOVA (Time: Days 1, 2, 8; Group: AG vs EG) on correctly retrieved word-pairs in the randomized experiment. The significant Time X Group interaction (F = 3.3, P = 0.040) motivated the interval-wise retention-rate comparisons.
 
@@ -48,7 +52,7 @@ Omnibus 3x2 repeated-measures ANOVA (Time: Days 1, 2, 8; Group: AG vs EG) on cor
 
 Holz J, Piosczyk H, Landmann N, Feige B, Spiegelhalder K, Riemann D, Nissen C, Voderholzer U. (2012). The Timing of Learning before Night-Time Sleep Differentially Affects Declarative and Procedural Long-Term Memory Consolidation in Adolescents. PLoS ONE 7(7): e40963. https://doi.org/10.1371/journal.pone.0040963
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Omnibus repeated-measures ANOVA on finger-tapping performance in the same randomized experiment: overall Time effect (F = 144.7, P < 0.001), no Group effect (F = 1.5, P = 0.220), and highly significant Group X Time interactions for speed and accuracy.
 

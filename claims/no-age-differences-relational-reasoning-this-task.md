@@ -15,12 +15,14 @@ sources:
     author: Wolf L.K., Bazargani N., Kilford E.J., Dumontheil I., Blakemore S.-J.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The study found no evidence of age differences in relational reasoning performance, possibly due to design choices maximising sensitivity to audience effects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` As a secondary aim, the study found no main effect of age group and no age group by task-level interaction on accuracy or RT. [→ Wolf L.K. 2015](#wolf-lk-2015)
@@ -31,7 +33,7 @@ sources:
 
 Wolf L.K., Bazargani N., Kilford E.J., Dumontheil I., Blakemore S.-J. (2015). The audience effect in adolescence depends on who's looking over your shoulder. Journal of Adolescence, 43, 5–14. https://doi.org/10.1016/j.adolescence.2015.05.003
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Omnibus ANOVA results from the same experiment's accuracy analysis: no main effect of age group and no age group × task-level interaction (ps > 0.9). The article attributes this to long response windows and trial-by-trial feedback, which reduced sensitivity to developmental differences usually seen under limited response time.
 

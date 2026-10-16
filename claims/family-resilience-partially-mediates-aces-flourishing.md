@@ -15,18 +15,22 @@ sources:
     author: "Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: goldstein-2021-2
     resource: "https://doi.org/10.1038/s41390-020-01188-6"
     title: "Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L. (2021). Influence of race/ethnicity and income on the link between adverse childhood experiences and child flourishing. Pediatric Research. https://doi.org/10.1038/s41390-020-01188-6"
     author: "Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Family resilience partially mediates the association between ACEs and child flourishing, with mediation proportions varying by race/ethnicity and income
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Indirect effects showed average partial mediation of family resilience on the ACEs-flourishing relationship for Black (37.5%) and Hispanic (30.6%) children. [→ Goldstein 2021](#goldstein-2021)
@@ -38,7 +42,7 @@ sources:
 
 Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L. (2021). Influence of race/ethnicity and income on the link between adverse childhood experiences and child flourishing. Pediatric Research. https://doi.org/10.1038/s41390-020-01188-6
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Probit moderated-mediation estimates by race/ethnicity in the NSCH sample; the printed percentages are proportions of the total effect explained by family resilience, not standardized effect sizes, so impact is null.
 
@@ -48,7 +52,7 @@ Probit moderated-mediation estimates by race/ethnicity in the NSCH sample; the p
 
 Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L. (2021). Influence of race/ethnicity and income on the link between adverse childhood experiences and child flourishing. Pediatric Research. https://doi.org/10.1038/s41390-020-01188-6
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 FPL-stratified indirect-effect estimates from the same probit model; all direct, indirect, and total effect parameter estimates were reported statistically significant, with no standardized effect size printed.
 

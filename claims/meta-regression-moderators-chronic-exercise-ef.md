@@ -13,16 +13,20 @@ sources:
     title: Liu S 2020
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
   - id: liu-s-2020-2
     title: Liu S 2020 (2)
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Meta-regression identifies exercise type, age, and study quality as significant moderators of chronic exercise effects on executive function
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 2 studies · 2 quant-synthesis `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Open motor skill interventions (β = 0.451645, p = 0.007) and age (β = −0.608123, p = 0.029) are significantly associated with inhibitory control effects. [→ Liu S 2020](#liu-s-2020)
@@ -34,7 +38,7 @@ sources:
 
 Liu S, Yu Q, Li Z, Cunha PM, Zhang Y, Kong Z, Lin W, Chen S and Cai Y (2020) Effects of Acute and Chronic Exercises on Executive Function in Children and Adolescents: A Systemic Review and Meta-Analysis. Front. Psychol. 11:554915. https://doi.org/10.3389/fpsyg.2020.554915
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r3`
 
 Meta-regression of chronic exercise studies on inhibitory control across seven variables, showing open motor skill interventions and age were significant; composite interventions were not (p = 0.064).
 
@@ -44,7 +48,7 @@ Meta-regression of chronic exercise studies on inhibitory control across seven v
 
 Liu S, Yu Q, Li Z, Cunha PM, Zhang Y, Kong Z, Lin W, Chen S and Cai Y (2020) Effects of Acute and Chronic Exercises on Executive Function in Children and Adolescents: A Systemic Review and Meta-Analysis. Front. Psychol. 11:554915. https://doi.org/10.3389/fpsyg.2020.554915
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r3`
 
 Meta-regression of chronic exercise studies on working memory, showing type and study quality significantly influenced the effect size, and age also moderated it significantly (p = 0.033).
 

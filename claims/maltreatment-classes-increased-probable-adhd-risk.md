@@ -15,12 +15,14 @@ sources:
     author: Sanderud K., Murphy S., Elklit A.
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # In a national sample of young Danish adults, all three maltreatment latent classes showed significantly increased risk of probable ADHD relative to the non-abused class, strongest for the overall abuse class (OR=5.08), then emotional abuse (OR=3.09) and sexual abuse (OR=2.07)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` The overall abuse class showed over a fivefold increase in probable ADHD relative to the non-abused class (OR=5.08). [→ Sanderud K. 2016](#sanderud-k-2016)
@@ -32,7 +34,7 @@ sources:
 
 Sanderud K., Murphy S., Elklit A. (2016). Child maltreatment and ADHD symptoms in a sample of young adults. European Journal of Psychotraumatology. https://doi.org/10.3402/ejpt.v7.32061
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Binary logistic regression in the Danish national survey (2,980 interviews, 63% response rate) with probable ADHD as dependent variable, gender and three abuse latent classes as predictors, non-abuse class as reference. Table 3 prints OR=5.08 (overall), OR=3.09 (emotional), OR=2.07 (sexual); the "strongest effect was evident in the overall abuse class".
 

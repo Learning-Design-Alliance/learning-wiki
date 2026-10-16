@@ -15,12 +15,14 @@ sources:
     author: "Vysniauske, R., Verburgh, L., Oosterlaan, J., & Molendijk, M. L."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # Longer exercise intervention duration is consistently associated with larger effect sizes on ADHD functional outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r1` · `q3`
 
 ## Subclaims
 `q3 i?` In the meta-analysis, longer exercise intervention duration was consistently associated with larger effect sizes. [→ Vysniauske 2020](#vysniauske-2020)
@@ -31,7 +33,7 @@ sources:
 
 Vysniauske, R., Verburgh, L., Oosterlaan, J., & Molendijk, M. L. (2020). The Effects of Physical Exercise on Functional Outcomes in the Treatment of ADHD: A Meta-Analysis. Journal of attention disorders, 24(5), 644-654. https://doi.org/10.1177/1087054715627489
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r1`
 
 Moderator analysis within the random-effects meta-analysis of ten publications on exercise and ADHD functional outcomes. The article reports that "Longer exercise intervention duration was consistently associated with larger effect sizes." No effect size for this moderator is printed.
 

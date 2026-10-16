@@ -15,12 +15,14 @@ sources:
     author: Marciano Laura, Camerini Anne-Linda, Morese Rosalba
     q: 3
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Internet-addicted adolescents show deficient response inhibition, failing to recruit the frontal-basal ganglia pathway engaged by controls
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r3` · `q3`
 
 ## Subclaims
 `q3 i?` During a Go-Stop task, the indirect frontal-basal ganglia pathway was involved in response inhibition in controls but not in Internet-addicted adolescents, who instead activated the left superior frontal gyrus. [→ Marciano Laura 2021](#marciano-laura-2021)
@@ -31,7 +33,7 @@ sources:
 
 Marciano Laura, Camerini Anne-Linda, Morese Rosalba. (2021). The Developing Brain in the Digital Era: A Scoping Review of Structural and Functional Correlates of Screen Time in Adolescence. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2021.671817
 
-`q3 · i?`
+`q3 · i?` · `review · r3`
 
 Task-based fMRI Go-Stop study of 18 Internet-addicted and 23 control adolescents aged 15; the review reports the authors' conclusion that Internet-addicted adolescents "showed a deficient response in inhibition because they most likely failed to recruit the neural correlates." No effect size printed.
 

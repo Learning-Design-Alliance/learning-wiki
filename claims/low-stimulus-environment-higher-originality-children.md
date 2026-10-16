@@ -15,12 +15,14 @@ sources:
     author: "van Dijk, M., Blom, E., Kroesbergen, E. H., & Leseman, P. P. M."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Children produced more original alternative uses (net of fluency and flexibility) in a low stimulus environment than in a high stimulus environment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Children in the low stimulus condition outperformed children in the high stimulus condition on decorrelated originality, with a medium effect size. [→ van Dijk 2020](#van-dijk-2020)
@@ -31,7 +33,7 @@ sources:
 
 van Dijk, M., Blom, E., Kroesbergen, E. H., & Leseman, P. P. M. (2020). The Influence of Situational Cues on Children’s Creativity in an Alternative Uses Task and the Moderating Effect of Selective Attention. Journal of Intelligence, 8(4), 37. https://doi.org/10.3390/jintelligence8040037
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 ANOVA on the decorrelated originality measure (fluency and flexibility partialled out) in a between-subjects experiment with 70 children randomly assigned within classes to low (n = 36) or high (n = 34) stimulus conditions. The "main effect of condition was statistically significant with a medium effect size" (η2 = 0.08).
 

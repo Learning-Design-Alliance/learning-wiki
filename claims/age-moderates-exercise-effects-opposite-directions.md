@@ -13,16 +13,20 @@ sources:
     title: Liu S 2020
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 3
   - id: liu-s-2020-2
     title: Liu S 2020 (2)
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Age moderates exercise effects in opposite directions: adolescents benefit more for inhibitory control, younger children more for working memory
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 2 studies · 2 quant-synthesis `r3` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` For chronic exercise, adolescents aged 12–18 show a larger inhibitory control effect (SMD = −0.81) than children aged 5–12 (SMD = −0.19). [→ Liu S 2020](#liu-s-2020)
@@ -34,7 +38,7 @@ sources:
 
 Liu S, Yu Q, Li Z, Cunha PM, Zhang Y, Kong Z, Lin W, Chen S and Cai Y (2020) Effects of Acute and Chronic Exercises on Executive Function in Children and Adolescents: A Systemic Review and Meta-Analysis. Front. Psychol. 11:554915. https://doi.org/10.3389/fpsyg.2020.554915
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r3`
 
 Subgroup analysis of chronic exercise effects on inhibitory control by age (Q = 12.23, p = 0.01), showing adolescents 12–18 years old had a larger effect than children 5–12 years old.
 
@@ -44,7 +48,7 @@ Subgroup analysis of chronic exercise effects on inhibitory control by age (Q = 
 
 Liu S, Yu Q, Li Z, Cunha PM, Zhang Y, Kong Z, Lin W, Chen S and Cai Y (2020) Effects of Acute and Chronic Exercises on Executive Function in Children and Adolescents: A Systemic Review and Meta-Analysis. Front. Psychol. 11:554915. https://doi.org/10.3389/fpsyg.2020.554915
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r3`
 
 Subgroup analysis of chronic exercise effects on working memory by age (Q = 18.06, p = 0.001), showing children 5–12 years old improved more than adolescents 12–18 years old.
 

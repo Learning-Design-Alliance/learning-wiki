@@ -15,12 +15,14 @@ sources:
     author: "Van den Driessche, C., Chevrier, F., Cleeremans, A. & Sackur, J."
     q: 1
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # The exploration advantage in semantic search is interpreted as context-dependent, potentially beneficial in sparsely distributed target environments
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · associational `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The authors argue the same exploration bias may help or hinder performance depending on the search environment's target distribution. [→ Van den Driessche 2019](#van-den-driessche-2019)
@@ -31,7 +33,7 @@ sources:
 
 Van den Driessche, C., Chevrier, F., Cleeremans, A. & Sackur, J. (2019). Lower Attentional Skills predict increased exploratory foraging patterns. Scientific Reports 9:10948. https://doi.org/10.1038/s41598-019-46761-0
 
-`q1 · i?`
+`q1 · i?` · `associational · r1`
 
 Authors' interpretation (type e) from the Discussion: the visual task had uniformly distributed targets while semantic targets are "plausibly more sparsely and unevenly distributed", which they speculate resembles natural foraging. This is a stated interpretation, not a tested manipulation.
 

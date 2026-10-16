@@ -15,18 +15,22 @@ sources:
     author: "Mikami, A. Y., & Normand, S."
     q: 3
     i: "?"
+    kind: review
+    rigour: 3
   - id: mikami-2015-2
     resource: "https://doi.org/10.1007/s40474-014-0036-0"
     title: "Mikami, A. Y., & Normand, S. (2015). The Importance of Social Contextual Factors in Peer Relationships of Children with ADHD. Curr Dev Disord Rep. https://doi.org/10.1007/s40474-014-0036-0"
     author: "Mikami, A. Y., & Normand, S."
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Children with ADHD show marked peer rejection and friendship impairment: approximately four times more likely to be rejected, 52–82% scoring over 1 SD above the classroom mean in rejection, and nearly twice as likely to have no classroom friends
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q3`
 
 ## Subclaims
 `q3 i?` Children with ADHD are approximately four times more likely to be rejected by peers than typical children, and 52–82% score greater than 1 SD above the classroom mean in peer rejection. [→ Mikami 2015](#mikami-2015)
@@ -38,7 +42,7 @@ sources:
 
 Mikami, A. Y., & Normand, S. (2015). The Importance of Social Contextual Factors in Peer Relationships of Children with ADHD. Curr Dev Disord Rep. https://doi.org/10.1007/s40474-014-0036-0
 
-`q3 · i?`
+`q3 · i?` · `review · r3`
 
 The review reports sociometric nomination findings: children with ADHD receive many "like least" nominations and few "like most" nominations, and "52 – 82 % of children with ADHD score greater than 1 standard deviation above their classroom mean in peer rejection". No standardized effect size is printed for these rates.
 
@@ -48,7 +52,7 @@ The review reports sociometric nomination findings: children with ADHD receive m
 
 Mikami, A. Y., & Normand, S. (2015). The Importance of Social Contextual Factors in Peer Relationships of Children with ADHD. Curr Dev Disord Rep. https://doi.org/10.1007/s40474-014-0036-0
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 The review reports friendship impairment: nearly twofold higher likelihood of having no classroom friends, and 76% of children with ADHD and comorbid conduct problems lacking "a single reciprocated friend in their class". Observational studies suggest less sensitivity to friends' needs.
 

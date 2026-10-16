@@ -15,12 +15,14 @@ sources:
     author: Gilmore C, Attridge N, Clayton S, Cragg L, Johnson S, Marlow N, Simms V, Inglis M.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Reanalysis of previously-published data replicates the incongruent-trial pattern in children, with a marginal effect in adults
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In reanalysed data from Inglis and colleagues, children's incongruent-trial correlation with mathematics was significant (r = .34) while the congruent correlation was nonsignificant and negative (r = -.22); for adults the difference was only marginally significant. [→ Gilmore C 2013](#gilmore-c-2013)
@@ -31,7 +33,7 @@ sources:
 
 Gilmore C, Attridge N, Clayton S, Cragg L, Johnson S, Marlow N, Simms V, Inglis M. (2013). Individual Differences in Inhibitory Control, Not Non-Verbal Number Acuity, Correlate with Mathematics Achievement. PLoS ONE 8(6): e67374. https://doi.org/10.1371/journal.pone.0067374
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Reanalysis of previously-published data from Inglis and colleagues involving children aged 7-9 and adults on similar tasks. The child correlations were marginally significantly different (t(35) = 1.88, p = .068); for adults the difference was marginally significant (t(97) = 1.75, p = .08).
 

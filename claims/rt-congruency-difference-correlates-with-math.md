@@ -15,12 +15,14 @@ sources:
     author: Gilmore C, Attridge N, Clayton S, Cragg L, Johnson S, Marlow N, Simms V, Inglis M.
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Smaller response-time differences between incongruent and congruent trials (better inhibition) correlate with higher mathematics scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Children with a smaller RT difference between correctly answered incongruent and congruent trials scored higher on the mathematics achievement test (r = -.27). [→ Gilmore C 2013](#gilmore-c-2013)
@@ -31,7 +33,7 @@ sources:
 
 Gilmore C, Attridge N, Clayton S, Cragg L, Johnson S, Marlow N, Simms V, Inglis M. (2013). Individual Differences in Inhibitory Control, Not Non-Verbal Number Acuity, Correlate with Mathematics Achievement. PLoS ONE 8(6): e67374. https://doi.org/10.1371/journal.pone.0067374
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 Experiment 1 correlational analysis treating the RT difference between trial types as an index of inhibition skill. Children with "good inhibition skills" showed higher Woodcock-Johnson III calculation scores (r = -.27, p = .015).
 

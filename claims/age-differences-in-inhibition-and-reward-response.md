@@ -15,18 +15,22 @@ sources:
     author: "Sinopoli, K.J., Schachar, R., & Dennis, M."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
   - id: sinopoli-2011-2
     resource: "https://doi.org/10.1037/a0024440"
     title: "Sinopoli, K.J., Schachar, R., & Dennis, M. (2011). Reward Improves Cancellation and Restraint Inhibition Across Childhood and Adolescence. Developmental Psychology, 47(5), 1479-89. https://doi.org/10.1037/a0024440"
     author: "Sinopoli, K.J., Schachar, R., & Dennis, M."
     q: 3
     i: 2
+    kind: causal
+    rigour: 1
 ---
 
 # Adolescents showed faster, more accurate, and less variable performance than children, with reward effects on inhibition accuracy differing by age
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2`–`i3`
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3` · `i2`–`i3`
 
 ## Subclaims
 `q3 i3` The TEEN group exhibited faster SSRT than the CHILD group on both tasks. [→ Sinopoli 2011](#sinopoli-2011)
@@ -38,7 +42,7 @@ sources:
 
 Sinopoli, K.J., Schachar, R., & Dennis, M. (2011). Reward Improves Cancellation and Restraint Inhibition Across Childhood and Adolescence. Developmental Psychology, 47(5), 1479-89. https://doi.org/10.1037/a0024440
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Repeated measures ANOVA comparing TEEN (13-17 years) and CHILD (7-12 years) groups on SSRT. The article reports faster SSRT for adolescents with partial η2=0.322, evident on both tasks.
 
@@ -48,7 +52,7 @@ Repeated measures ANOVA comparing TEEN (13-17 years) and CHILD (7-12 years) grou
 
 Sinopoli, K.J., Schachar, R., & Dennis, M. (2011). Reward Improves Cancellation and Restraint Inhibition Across Childhood and Adolescence. Developmental Psychology, 47(5), 1479-89. https://doi.org/10.1037/a0024440
 
-`q3 · i2`
+`q3 · i2` · `causal · r1`
 
 Repeated measures ANOVA of percent inhibition by age group and reward condition. The article reports a reward by age group interaction with partial η2=0.086; adolescents out-inhibited children in NO and LOW conditions, with similar commission errors in HIGH.
 

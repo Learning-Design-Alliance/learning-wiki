@@ -15,12 +15,14 @@ sources:
     author: Jessup, G; Bundy, AC; Broom, A; Hancock, N.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Students with visual impairments rated leisure and structured recreation in other locations as their most enjoyable activities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Leisure and structured recreation in locations outside home and school received the highest enjoyment ratings. [→ Jessup 2018](#jessup-2018)
@@ -31,7 +33,7 @@ sources:
 
 Jessup, G; Bundy, AC; Broom, A; Hancock, N. (2018). Fitting in or feeling excluded: The experiences of high school students with visual impairments. https://doi.org/10.1177/0145482X1811200305
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 In the same seven-day experience-sampling comparison of activities across contexts, participants "rated leisure and structured recreation in “other” locations as their most enjoyable activities." The authors note adolescents highly value activities with friends out of home.
 

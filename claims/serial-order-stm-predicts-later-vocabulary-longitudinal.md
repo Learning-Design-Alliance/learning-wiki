@@ -15,18 +15,22 @@ sources:
     author: "Leclercq, A.-L., & Majerus, S."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: leclercq-2010-2
     resource: "https://doi.org/10.1037/a0018540"
     title: "Leclercq, A.-L., & Majerus, S. (2010). Serial Order Short-Term Memory Predicts Vocabulary Development: Evidence from a Longitudinal Study. Developmental Psychology. https://doi.org/10.1037/a0018540"
     author: "Leclercq, A.-L., & Majerus, S."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Serial order STM at Age 4 predicts vocabulary knowledge at Age 5 over and above initial vocabulary, item STM, age and nonverbal reasoning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Serial order reconstruction performance at Age 4 accounted for significant variance in vocabulary at Age 5 after controlling for age, nonverbal reasoning and initial vocabulary (12% of variance), and a further 7% of independent variance once variance shared with nonword repetition was removed. [→ Leclercq 2010](#leclercq-2010)
@@ -37,7 +41,7 @@ sources:
 
 Leclercq, A.-L., & Majerus, S. (2010). Serial Order Short-Term Memory Predicts Vocabulary Development: Evidence from a Longitudinal Study. Developmental Psychology. https://doi.org/10.1037/a0018540
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Hierarchical multiple regression in the longitudinal study of 60 children tested at Age 4 and Age 5, predicting Age 5 vocabulary from Age 4 STM measures. The article reports "nonword repetition accounted for 8 % of variance and serial order reconstruction accounted for 12 % of variance".
 
@@ -47,7 +51,7 @@ Hierarchical multiple regression in the longitudinal study of 60 children tested
 
 Leclercq, A.-L., & Majerus, S. (2010). Serial Order Short-Term Memory Predicts Vocabulary Development: Evidence from a Longitudinal Study. Developmental Psychology. https://doi.org/10.1037/a0018540
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Same longitudinal regression set: when entered after the nonword task, the serial order task explained "a further 7 % of independent variance in vocabulary scores", whereas the nonword task added none when entered after serial order STM.
 

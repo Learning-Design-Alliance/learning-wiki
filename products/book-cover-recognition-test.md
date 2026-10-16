@@ -13,6 +13,7 @@ generated:
 # Book-cover recognition test
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A child-completed picture-book familiarity assessment developed by Davidse et al. that uses book covers and coded story knowledge to measure young children's exposure to books.

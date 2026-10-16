@@ -15,18 +15,22 @@ sources:
     author: Menken Miriam S., Rodriguez Rivera Pedro J., Isaiah Amal, Ernst Thomas, Cloak Christine C., Chang Linda
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: menken-miriam-s-2023-2
     resource: "https://doi.org/10.1016/j.dcn.2023.101247"
     title: "Menken Miriam S., Rodriguez Rivera Pedro J., Isaiah Amal, Ernst Thomas, Cloak Christine C., Chang Linda. (2023). Longitudinal alterations in brain morphometry mediated the effects of bullying victimization on cognitive development in preadolescents. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2023.101247"
     author: Menken Miriam S., Rodriguez Rivera Pedro J., Isaiah Amal, Ernst Thomas, Cloak Christine C., Chang Linda
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Sex moderates bullying-related cognitive and brain differences, with effects in boys and girls appearing in different regions and tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Bullied girls performed worse than non-bullied girls on the processing speed task, while boys performed similarly regardless of bullying status; no bullying-by-sex interaction was significant. [→ Menken Miriam S. 2023](#menken-miriam-s-2023)
@@ -38,7 +42,7 @@ sources:
 
 Menken Miriam S., Rodriguez Rivera Pedro J., Isaiah Amal, Ernst Thomas, Cloak Christine C., Chang Linda. (2023). Longitudinal alterations in brain morphometry mediated the effects of bullying victimization on cognitive development in preadolescents. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2023.101247
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Sex-stratified LMM contrasts on NIH Toolbox processing speed in the matched ABCD sample. The article reports the group difference only among girls with the printed p-values and a non-significant bullying-by-sex interaction.
 
@@ -48,7 +52,7 @@ Sex-stratified LMM contrasts on NIH Toolbox processing speed in the matched ABCD
 
 Menken Miriam S., Rodriguez Rivera Pedro J., Isaiah Amal, Ernst Thomas, Cloak Christine C., Chang Linda. (2023). Longitudinal alterations in brain morphometry mediated the effects of bullying victimization on cognitive development in preadolescents. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2023.101247
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Sex-stratified LMM contrasts on subcortical volumes in the matched ABCD sample. The article reports the hippocampal group difference only among boys with the printed p-values and a non-significant interaction.
 

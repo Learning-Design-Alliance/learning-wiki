@@ -15,18 +15,22 @@ sources:
     author: Schneider Wolfgang, Niklas Frank
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: schneider-wolfgang-2017-2
     resource: "https://doi.org/10.3390/jintelligence5020026"
     title: "Schneider Wolfgang, Niklas Frank. (2017). Intelligence and Verbal Short-Term Memory/Working Memory: Their Interrelationships from Childhood to Young Adulthood and Their Impact on Academic Achievement. Journal of Intelligence. https://doi.org/10.3390/jintelligence5020026"
     author: Schneider Wolfgang, Niklas Frank
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # In latent-variable SEM models, intelligence — not working memory — is the significant direct predictor of academic outcomes in both childhood and early adulthood
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In SEM models for Grade 2 outcomes, intelligence was the only significant predictor of all academic outcomes, although WMC and intelligence were highly intercorrelated latent variables. [→ Schneider Wolfgang 2017](#schneider-wolfgang-2017)
@@ -38,7 +42,7 @@ sources:
 
 Schneider Wolfgang, Niklas Frank. (2017). Intelligence and Verbal Short-Term Memory/Working Memory: Their Interrelationships from Childhood to Young Adulthood and Their Impact on Academic Achievement. Journal of Intelligence. https://doi.org/10.3390/jintelligence5020026
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Full-forward latent variable SEM (FIML estimation) predicting Grade 2 achievement from WMC, intelligence, and controls; the model showed a very close and good fit. The article states "intelligence was the only significant predictor of all academic outcomes in Grade 2".
 
@@ -48,7 +52,7 @@ Full-forward latent variable SEM (FIML estimation) predicting Grade 2 achievemen
 
 Schneider Wolfgang, Niklas Frank. (2017). Intelligence and Verbal Short-Term Memory/Working Memory: Their Interrelationships from Childhood to Young Adulthood and Their Impact on Academic Achievement. Journal of Intelligence. https://doi.org/10.3390/jintelligence5020026
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 SEM models for the t4/t5 wave of the LOGIC sample, including academic precursors assessed at t2/t3, again showing good fit. The article reports "WMC did not predict any of the outcome measures" while intelligence predicted later reading.
 

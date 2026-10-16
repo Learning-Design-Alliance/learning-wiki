@@ -15,18 +15,22 @@ sources:
     author: "Master, A., Meltzoff, A. N., & Cheryan, S."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
   - id: master-2021-2
     resource: "https://doi.org/10.1073/pnas.2100030118"
     title: "Master, A., Meltzoff, A. N., & Cheryan, S. (2021). Gender stereotypes about interests start early and cause gender disparities in computer science and engineering. Proceedings of the National Academy of Sciences, 118(48), e2100030118. https://doi.org/10.1073/pnas.2100030118"
     author: "Master, A., Meltzoff, A. N., & Cheryan, S."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The more girls endorse gender-interest stereotypes favoring boys, the lower their own interest in computer science and engineering, and interest stereotypes predict girls' interest more strongly than ability stereotypes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Girls' endorsement of gender-interest stereotypes correlated negatively with their own interest in computer science (r = −0.26 in Study 1; r = −0.25 in Study 2) and engineering (r = −0.32). [→ Master 2021](#master-2021)
@@ -38,7 +42,7 @@ sources:
 
 Master, A., Meltzoff, A. N., & Cheryan, S. (2021). Gender stereotypes about interests start early and cause gender disparities in computer science and engineering. Proceedings of the National Academy of Sciences, 118(48), e2100030118. https://doi.org/10.1073/pnas.2100030118
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Correlational analysis in the Study 1 survey (n = 733). The article prints the effect size r = −0.26 for computer science and, in Study 2, r = −0.25 for computer science and r = −0.32 for engineering, with negative correlations for Black, Asian, Latina, and White girls.
 
@@ -48,7 +52,7 @@ Correlational analysis in the Study 1 survey (n = 733). The article prints the e
 
 Master, A., Meltzoff, A. N., & Cheryan, S. (2021). Gender stereotypes about interests start early and cause gender disparities in computer science and engineering. Proceedings of the National Academy of Sciences, 118(48), e2100030118. https://doi.org/10.1073/pnas.2100030118
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Regression comparison in Study 1 with both stereotype types as simultaneous predictors; the difference between the two predictors was significant, Z = 2.48, P = 0.013. In Study 2 the same comparison was significant for computer science (Z = 2.04, P = 0.04) and engineering (Z = 2.86, P = 0.004).
 

@@ -15,18 +15,22 @@ sources:
     author: Schneider Wolfgang, Niklas Frank
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: schneider-wolfgang-2017-2
     resource: "https://doi.org/10.3390/jintelligence5020026"
     title: "Schneider Wolfgang, Niklas Frank. (2017). Intelligence and Verbal Short-Term Memory/Working Memory: Their Interrelationships from Childhood to Young Adulthood and Their Impact on Academic Achievement. Journal of Intelligence. https://doi.org/10.3390/jintelligence5020026"
     author: Schneider Wolfgang, Niklas Frank
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Previous domain knowledge accounts for most of the variance in later achievement, considerably reducing the predictive impact of IQ and WM
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In more comprehensive regression and SEM models, preceding domain knowledge accounted for most of the variance in achievement, reducing the impact of IQ and WM considerably. [→ Schneider Wolfgang 2017 (2)](#schneider-wolfgang-2017-2)
@@ -38,7 +42,7 @@ sources:
 
 Schneider Wolfgang, Niklas Frank. (2017). Intelligence and Verbal Short-Term Memory/Working Memory: Their Interrelationships from Childhood to Young Adulthood and Their Impact on Academic Achievement. Journal of Intelligence. https://doi.org/10.3390/jintelligence5020026
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Regression and SEM analyses of the LOGIC sample in which preceding achievement in reading, spelling, and math was entered before IQ and WMC. The article reports domain knowledge "accounted for most of the variance in more comprehensive regression models".
 
@@ -48,7 +52,7 @@ Regression and SEM analyses of the LOGIC sample in which preceding achievement i
 
 Schneider Wolfgang, Niklas Frank. (2017). Intelligence and Verbal Short-Term Memory/Working Memory: Their Interrelationships from Childhood to Young Adulthood and Their Impact on Academic Achievement. Journal of Intelligence. https://doi.org/10.3390/jintelligence5020026
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 SEM models including academic precursors (Figures 3 and 4) showed spelling and math at ages 8/10 predicted spelling and math at ages 18/23; the article concludes IQ and WM "no longer played a significant role" once domain knowledge was estimated.
 

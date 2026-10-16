@@ -13,6 +13,7 @@ generated:
 # Peer nomination procedure
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A peer-report sociometric assessment developed by Moreno and adapted by Coie et al. in which children nominate liked and disliked peers to derive acceptance, rejection, social impact, social preference, and sociometric-status groups.

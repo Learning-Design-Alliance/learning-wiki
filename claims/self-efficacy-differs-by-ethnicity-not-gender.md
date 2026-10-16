@@ -15,18 +15,22 @@ sources:
     author: Hanson, J.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: hanson-2017-2
     resource: "https://doi.org/10.5296/jei.v3i1.10479"
     title: "Hanson, J. (2017). Testing the Difference between School Level and Academic Mindset in the Classroom: Implications for Developing Student Psycho-Social Skills in Secondary School Classrooms. Journal of Educational Issues, 3(1). https://doi.org/10.5296/jei.v3i1.10479"
     author: Hanson, J.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Self-efficacy scores differ by cultural identification, while gender shows no significant effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students identifying as White and Asian self-scored significantly higher on self-efficacy for classroom tasks than other subcategories of students' culture. [→ Hanson 2017](#hanson-2017)
@@ -38,7 +42,7 @@ sources:
 
 Hanson, J. (2017). Testing the Difference between School Level and Academic Mindset in the Classroom: Implications for Developing Student Psycho-Social Skills in Secondary School Classrooms. Journal of Educational Issues, 3(1). https://doi.org/10.5296/jei.v3i1.10479
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 ANOVA tests on the district PERTS data categories revealed significant differences between PERTS scale factor mean scores by cultural identification; no effect size is printed for this contrast.
 
@@ -48,7 +52,7 @@ ANOVA tests on the district PERTS data categories revealed significant differenc
 
 Hanson, J. (2017). Testing the Difference between School Level and Academic Mindset in the Classroom: Implications for Developing Student Psycho-Social Skills in Secondary School Classrooms. Journal of Educational Issues, 3(1). https://doi.org/10.5296/jei.v3i1.10479
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 In the same regression analysis of PERTS subscale means on self-efficacy, gender was tested and found non-significant; no effect size is printed, so the null is reported as a non-detection only.
 

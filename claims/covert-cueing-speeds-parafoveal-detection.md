@@ -15,12 +15,14 @@ sources:
     author: Poletti Martina, Rucci Michele, Carrasco Marisa
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Endogenous spatial cueing speeds detection at the attended parafoveal location and slows it at the unattended location
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` In a parafoveal spatial cueing task, attention produced faster detection at the attended location and slower detection at the unattended location relative to neutral, with no speed-accuracy trade-off. [→ Poletti Martina 2017](#poletti-martina-2017)
@@ -31,7 +33,7 @@ sources:
 
 Poletti Martina, Rucci Michele, Carrasco Marisa. (2017). Selective attention within the foveola. Nature Neuroscience. https://doi.org/10.1038/nn.4622
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Experiment 1, a central spatial cueing detection task with targets at 3° eccentricity in five observers. The article reports the attention benefit and cost with "ANOVA F(2,4) = 23.6; p=0.0004" and notes accuracy slightly increased, ruling out speed-accuracy trade-offs.
 

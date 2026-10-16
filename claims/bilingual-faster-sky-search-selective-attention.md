@@ -13,12 +13,14 @@ sources:
     title: Giovannoli J 2020
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Bilingual children solve the Sky Search selective attention task faster than monolinguals across the studies using it
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In the three reviewed studies using the Sky Search task, bilingual participants took less time to solve the task than monolinguals. [→ Giovannoli J 2020](#giovannoli-j-2020)
@@ -29,7 +31,7 @@ sources:
 
 Giovannoli J, Martella D, Federico F, Pirchio S and Casagrande M (2020) The Impact of Bilingualism on Executive Functions in Children and Adolescents: A Systematic Review Based on the PRISMA Method. Front. Psychol. 11:574789. https://doi.org/10.3389/fpsyg.2020.574789
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Review narrative of the Results section on attention (n = 11 studies): three studies (Engel de Abreu et al., 2012, 2014; Blom et al., 2017) used the Sky Search task of the Test of Everyday Attention for Children, and "In all studies, bilingual participants took less time to solvethe task compared to monolinguals." No effect size printed.
 

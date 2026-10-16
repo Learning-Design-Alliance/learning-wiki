@@ -15,12 +15,14 @@ sources:
     author: "Devine, A., Hill, F., Carey, E., & Szűcs, D."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children with developmental dyscalculia are twice as likely to have high mathematics anxiety as children with typical mathematics performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` 22% of children with DD had high MA versus 10% of children with typical mathematics performance, a significant difference. [→ Devine 2017](#devine-2017)
@@ -31,7 +33,7 @@ sources:
 
 Devine, A., Hill, F., Carey, E., & Szűcs, D. (2017). Cognitive and Emotional Math Problems Largely Dissociate: Prevalence of Developmental Dyscalculia and Mathematics Anxiety. https://doi.org/10.1037/edu0000222
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Cross-sectional study of 1757 primary and secondary school children assessed with the mAMAS and MaLT tests. The frequency of high MA differed significantly between the DD and TM groups (χ2 = 14.42, p < 001; φ = .094), with "22% percent of students in the DD group had high MA" versus 10% of the TM group.
 

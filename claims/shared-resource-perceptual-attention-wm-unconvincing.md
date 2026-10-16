@@ -15,12 +15,14 @@ sources:
     author: Oberauer, K.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Evidence that perceptual attention and WM maintenance share a limited resource is not yet convincing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Although attending to perceptual information and maintaining information in WM have much in common, the evidence that they share a limited resource is not yet convincing. [→ Oberauer 2019](#oberauer-2019)
@@ -31,7 +33,7 @@ sources:
 
 Oberauer, K. (2019). Working Memory and Attention – A Conceptual Analysis and Review. Journal of Cognition, 2(1): 36. https://doi.org/10.5334/joc.58
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review's narrative assessment of dual-task studies combining visual WM with visual attention tasks. Some found load-dependent costs (Fougnie & Marois, 2006) while others found only negligible costs (Souza & Oberauer, 2017), and costs between WM and visual search increase with load only for spatial WM contents. The two functions "have much in common" but resource sharing is unproven.
 

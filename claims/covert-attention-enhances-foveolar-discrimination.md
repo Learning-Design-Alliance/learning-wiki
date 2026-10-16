@@ -15,18 +15,22 @@ sources:
     author: Poletti Martina, Rucci Michele, Carrasco Marisa
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
   - id: poletti-martina-2017-2
     resource: "https://doi.org/10.1038/nn.4622"
     title: "Poletti Martina, Rucci Michele, Carrasco Marisa. (2017). Selective attention within the foveola. Nature Neuroscience. https://doi.org/10.1038/nn.4622"
     author: Poletti Martina, Rucci Michele, Carrasco Marisa
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Covert attention enhances fine spatial discrimination (orientation d′) within the foveola with high selectivity across 20′ separations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` In a foveolar orientation-discrimination cueing task, d′ was significantly higher in valid than neutral and invalid trials, and reaction times were faster in valid trials. [→ Poletti Martina 2017](#poletti-martina-2017)
@@ -38,7 +42,7 @@ sources:
 
 Poletti Martina, Rucci Michele, Carrasco Marisa. (2017). Selective attention within the foveola. Nature Neuroscience. https://doi.org/10.1038/nn.4622
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Experiment 3: five observers reported the tilt of a tiny bar at one of four boxes 14′ from fixation under a central cue. The article also reports faster reaction times in valid trials (ANOVA F(2,4) = 51; p<0.0001) and significant individual-level differences for all observers.
 
@@ -48,7 +52,7 @@ Experiment 3: five observers reported the tilt of a tiny bar at one of four boxe
 
 Poletti Martina, Rucci Michele, Carrasco Marisa. (2017). Selective attention within the foveola. Nature Neuroscience. https://doi.org/10.1038/nn.4622
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Same Experiment 3 analysis comparing invalid-cue costs across hemifield configurations; the article concludes "attentional shifts retained a very high degree of selectivity even for locations separated by only 20′ within the same hemifield."
 

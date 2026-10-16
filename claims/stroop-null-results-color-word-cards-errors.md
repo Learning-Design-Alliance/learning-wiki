@@ -13,12 +13,14 @@ sources:
     title: Medeiros W 2016
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # No significant group differences in Stroop color and word card times or in error rates on any Stroop card
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Groups did not differ significantly on Stroop color card time, word card time, or error counts on any card; no effect sizes were printed for these null results. [→ Medeiros W 2016](#medeiros-w-2016)
@@ -29,7 +31,7 @@ sources:
 
 Medeiros W, Torro-Alves N, Malloy-Diniz LF and Minervino CM (2016) Executive Functions in Children Who Experience Bullying Situations. Front. Psychol. 7:1197. https://doi.org/10.3389/fpsyg.2016.01197
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Kruskal–Wallis analyses of the Victoria Stroop test across the four groups found "no diﬀerences between groups with regard to Stroop word (time; χ2= 4.587, p= 0.205)" and no differences in color card time (p = 0.126) or any error measure; the article also notes victims presented longer execution time on the color card descriptively. Equivalence was not tested.
 

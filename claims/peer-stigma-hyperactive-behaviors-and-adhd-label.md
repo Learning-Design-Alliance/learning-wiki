@@ -15,12 +15,14 @@ sources:
     author: "Mikami, A. Y., & Normand, S."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Peers hold the most negative automatic judgments about children displaying hyperactive/impulsive behaviors, and the ADHD label itself evokes social devaluation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Even when behaviors are held constant, peers make more negative social judgments about targets whose behaviors are labeled as due to ADHD. [→ Mikami 2015](#mikami-2015)
@@ -31,7 +33,7 @@ sources:
 
 Mikami, A. Y., & Normand, S. (2015). The Importance of Social Contextual Factors in Peer Relationships of Children with ADHD. Curr Dev Disord Rep. https://doi.org/10.1007/s40474-014-0036-0
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports label effects from cited studies: with behaviors held constant, an ADHD label produced "more negative social judgments about targets" than no label, indicating stigma beyond the behaviors themselves.
 

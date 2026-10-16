@@ -15,12 +15,14 @@ sources:
     author: "Vezzali, L., Goclowska, M., Crisp, R. J., & Stathi, S."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Working in culturally diverse groups on a cooperative task increases schoolchildren's creativity (originality) compared with homogeneous groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Italian elementary schoolchildren randomly assigned to diverse groups (with immigrant peers) showed higher originality than those in all-Italian groups, F(1, 50) = 5.84, p = .017, η2p = .04. [→ Vezzali 2016](#vezzali-2016)
@@ -31,7 +33,7 @@ sources:
 
 Vezzali, L., Goclowska, M., Crisp, R. J., & Stathi, S. (2016). On the Relationship between Cultural Diversity and Creativity in Education: The Moderating Role of Communal versus Divisional Mindset. http://creativecommons.org/licenses/by-nc-nd/4.0/
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Randomized 2×2 between-subjects experiment with 149 Italian elementary schoolchildren (mean age 9 years 11 months) working on a cooperative story-creation task; originality measured one week after the last session via an alternative-uses task. The article reports "creativity was higher among participants in the condition where diversity was present" (M = 0.56 vs 0.51).
 

@@ -15,12 +15,14 @@ sources:
     author: Franke, B.; Michelini, G.; Asherson, P.; Banaschewski, T.; Bilbow, A.; Buitelaar, J.K.; Cormand, B.; Faraone, S.V; Ginsberg, Y.; Haavik, J.; Kuntsi, J.; Larsson, H.; Lesch, K.P.; Ramos-Quiroga, J.A.; Réthelyi, J.M.; Ribases, M.; Reif, A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # ADHD is associated with poor academic outcomes, including lower grade point average, increased grade retention, and lower rates of high-school graduation and post-secondary education
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Longitudinal clinically-based follow-up studies report that ADHD is associated with lower grade point average, increased rates of grade retention, and lower rates of high-school graduation and post-secondary education. [→ Franke 2018](#franke-2018)
@@ -31,7 +33,7 @@ sources:
 
 Franke, B.; Michelini, G.; Asherson, P.; Banaschewski, T.; Bilbow, A.; Buitelaar, J.K.; Cormand, B.; Faraone, S.V; Ginsberg, Y.; Haavik, J.; Kuntsi, J.; Larsson, H.; Lesch, K.P.; Ramos-Quiroga, J.A.; Réthelyi, J.M.; Ribases, M.; Reif, A. (2018). Live fast, die young? A review on the developmental trajectories of ADHD across the lifespan. European Neuropsychopharmacology. https://doi.org/10.1016/j.euroneuro.2018.08.001
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative review section on disease outcome, summarising clinically-based longitudinal follow-up studies of pre-adolescents with ADHD into adulthood, citing Galera et al. (2009), Klein et al. (2012) and Mannuzza et al. (1993). The review reports "lower grade point average and increased rates of grade retention" and lower graduation and post-secondary education rates. No effect sizes printed.
 

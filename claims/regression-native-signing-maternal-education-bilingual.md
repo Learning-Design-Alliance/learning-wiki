@@ -15,12 +15,14 @@ sources:
     author: "Freel, B. L., Clark, M. D., Anderson, M. L., Gilbert, G. L., Musyoka, M. M., & Hauser, P. C."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Native signing and maternal education jointly predict bilingual ability, accounting for 38.4% of variance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` A regression model with native/non-native signing and maternal education significantly predicted Bilingual Abilities (R² = 0.384). [→ Freel 2011](#freel-2011)
@@ -31,7 +33,7 @@ sources:
 
 Freel, B. L., Clark, M. D., Anderson, M. L., Gilbert, G. L., Musyoka, M. M., & Hauser, P. C. (2011). Deaf Individuals’ Bilingual Abilities: American Sign Language Proficiency, Reading Skills, and Family Characteristics. Psychology, 2(1), 18-23. https://doi.org/10.4236/psych.2011.21003
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Multiple regression in the 55-participant sample testing native/non-native signing and maternal education as predictors of the combined Bilingual Ability score. The study reports "R2 = 0.384" and "F (3, 50) = 10.395, p = 0.000"; R² is variance explained, not a standardized effect size.
 

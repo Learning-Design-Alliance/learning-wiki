@@ -15,12 +15,14 @@ sources:
     author: Fandakova Yana, Gruber Matthias J.
     q: 2
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Children with greater curiosity-related trivia memory benefits also show greater curiosity-related incidental face memory benefits
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Exploratory correlation: the curiosity-based enhancement of trivia recall correlated positively with the curiosity-based enhancement of face recognition. [→ Fandakova Yana 2021](#fandakova-yana-2021)
@@ -31,7 +33,7 @@ sources:
 
 Fandakova Yana, Gruber Matthias J. (2021). States of curiosity and interest enhance memory differently in adolescents and in children. Developmental Science, 24(1), e13005. https://doi.org/10.1111/desc.13005
 
-`q2 · i2`
+`q2 · i2` · `associational · r2`
 
 Exploratory correlational analysis relating individual curiosity-based enhancement of trivia answer recall to curiosity-based enhancement of face recognition. The study reports "a significant positive correlation (Pearson’s r = .23, pone-tailed = .036)"; controlling for age did not change the result (r = .23, pone-tailed = .04).
 

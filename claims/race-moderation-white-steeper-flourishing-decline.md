@@ -15,18 +15,22 @@ sources:
     author: "Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: goldstein-2021-2
     resource: "https://doi.org/10.1038/s41390-020-01188-6"
     title: "Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L. (2021). Influence of race/ethnicity and income on the link between adverse childhood experiences and child flourishing. Pediatric Research. https://doi.org/10.1038/s41390-020-01188-6"
     author: "Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Moderation by race/ethnicity: White children show significantly greater flourishing decrements as ACEs increase, while Black and Hispanic children show steeper declines in family resilience
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` White children experienced significantly greater decrements in flourishing compared to Black and Hispanic children as ACEs increased, including a steeper decline in interest and curiosity in learning. [→ Goldstein 2021](#goldstein-2021)
@@ -38,7 +42,7 @@ sources:
 
 Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L. (2021). Influence of race/ethnicity and income on the link between adverse childhood experiences and child flourishing. Pediatric Research. https://doi.org/10.1038/s41390-020-01188-6
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Moderation effect parameter estimate differences from Table 3b of the probit model; the contrast names White versus Black and Hispanic children. No standardized effect size is printed, so impact is null.
 
@@ -48,7 +52,7 @@ Moderation effect parameter estimate differences from Table 3b of the probit mod
 
 Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L. (2021). Influence of race/ethnicity and income on the link between adverse childhood experiences and child flourishing. Pediatric Research. https://doi.org/10.1038/s41390-020-01188-6
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Race/ethnicity moderation results for the ACE-to-family-resilience pathway in the same NSCH moderated-mediation model; reported as significant parameter differences without an effect size.
 

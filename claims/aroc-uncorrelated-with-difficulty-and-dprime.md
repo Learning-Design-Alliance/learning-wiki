@@ -15,12 +15,14 @@ sources:
     author: Weil L.G., Fleming S.M., Dumontheil I., Kilford E.J., Weil R.S., Rees G., Dolan R.J., Blakemore S.-J.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Metacognitive ability was not correlated with task difficulty or perceptual sensitivity (d′)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Aroc showed no significant correlation with mean stimulus contrast (r = −.09, p = .50) or with d′ (r = .21, p = .12). [→ Weil L.G. 2013](#weil-lg-2013)
@@ -31,7 +33,7 @@ sources:
 
 Weil L.G., Fleming S.M., Dumontheil I., Kilford E.J., Weil R.S., Rees G., Dolan R.J., Blakemore S.-J. (2013). The development of metacognitive ability in adolescence. Consciousness and Cognition. https://doi.org/10.1016/j.concog.2013.01.004
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Pearson correlations between Aroc and performance measures in the 56-participant sample, where accuracy was staircase-maintained at around 71% (mean 70.9%, SD 1.2%) and Aroc ranged between 0.60 and 0.80.
 

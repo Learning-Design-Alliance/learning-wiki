@@ -13,6 +13,7 @@ generated:
 # Mirenda's four-aspect framework for classroom participation
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A framework devised by Mirenda for teachers to assess a child's classroom participation across integration, academic participation, independence, and social participation.

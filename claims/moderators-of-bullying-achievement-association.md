@@ -10,16 +10,19 @@ generated:
 evidence_strength: moderate
 sources:
   - id: muthanna-2021
-    title: Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health.
+    resource: "https://doi.org/10.3390/ijerph18052209"
+    title: "Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health. [doi:10.3390/ijerph18052209](https://doi.org/10.3390/ijerph18052209)"
     author: Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # The bullying-achievement and mediation associations are moderated by design, assessment method, country, age and bullying type
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 
 ## Subclaims
 `q3 i?` The bullying-achievement relationship was stronger in longitudinal (OR = 0.43) than cross-sectional (OR = 0.85) studies, and moderated by age, bullying assessment method, country and bullying type (all Qb significant). [→ Muthanna 2021](#muthanna-2021)
@@ -28,9 +31,9 @@ sources:
 
 ### Muthanna 2021
 
-Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health.
+Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health. [doi:10.3390/ijerph18052209](https://doi.org/10.3390/ijerph18052209)
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Meta-ANOVA moderator analysis for the bullying-achievement relationship. Design was a significant moderator (Qb = 11.26, p = 0.001), with longitudinal studies showing a stronger effect (OR = 0.43) than cross-sectional studies (OR = 0.85); age, assessment method, country and bullying type were also significant moderators.
 

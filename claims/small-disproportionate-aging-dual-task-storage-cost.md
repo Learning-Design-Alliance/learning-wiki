@@ -15,12 +15,14 @@ sources:
     author: "Jaroslawska, A. J., & Rhodes, S."
     q: 3
     i: 0
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Older adults show a small but disproportionate age-related cost of concurrent processing on storage accuracy in working memory dual tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i0` The paired standardized mean difference (Hedges' g) in the single-versus-dual task cost is -0.182, indicating the single-dual difference is smaller for younger adults than older adults. [→ Jaroslawska 2019](#jaroslawska-2019)
@@ -31,7 +33,7 @@ sources:
 
 Jaroslawska, A. J., & Rhodes, S. (2019). Adult Age Diﬀerences in the Eﬀects of Processing on Storage in Working Memory: A Meta-Analysis. Psychology & Aging. https://doi.org/10.1037/pag0000358
 
-`q3 · i0`
+`q3 · i0` · `quant-synthesis · r3`
 
 Random-effects meta-analysis of published dual-task studies comparing younger and older adults' storage accuracy, assuming a between-task correlation of 0.5. The paired standardized mean difference (Hedges' g = -0.182 [-0.282, -0.082]) was "-0.182 [-0.282, -0.082]", a small significant effect; Cochran's Q indicated residual heterogeneity.
 

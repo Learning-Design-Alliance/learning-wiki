@@ -15,18 +15,22 @@ sources:
     author: Chaput JP, Gray CE, Poitras VJ, Carson V, Gruber R, Birken CS, MacLean JE, Aubert S, Sampson M, Tremblay MS
     q: 3
     i: 2
+    kind: review
+    rigour: 3
   - id: chaput-jp-2017-2
     resource: "https://doi.org/10.1186/s12889-017-4850-2"
     title: "Chaput JP, Gray CE, Poitras VJ, Carson V, Gruber R, Birken CS, MacLean JE, Aubert S, Sampson M, Tremblay MS. (2017). Systematic review of the relationships between sleep duration and health indicators in the early years (0–4 years). BMC Public Health 17(Suppl 5):855. https://doi.org/10.1186/s12889-017-4850-2"
     author: Chaput JP, Gray CE, Poitras VJ, Carson V, Gruber R, Birken CS, MacLean JE, Aubert S, Sampson M, Tremblay MS
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Sleep restriction impairs emotional self-regulation in toddlers, with randomized-trial evidence of moderate-to-large effects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2`–`q3` · `i2` medium
+> **Evidence** · 1 study (2 entries) · review `r3` · `q2`–`q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Two randomized cross-over trials showed better self-regulation and emotional responses in routine-sleep versus sleep-restriction conditions, with printed effect sizes d = 0.50 to 0.92. [→ Chaput JP 2017](#chaput-jp-2017)
@@ -38,7 +42,7 @@ sources:
 
 Chaput JP, Gray CE, Poitras VJ, Carson V, Gruber R, Birken CS, MacLean JE, Aubert S, Sampson M, Tremblay MS. (2017). Systematic review of the relationships between sleep duration and health indicators in the early years (0–4 years). BMC Public Health 17(Suppl 5):855. https://doi.org/10.1186/s12889-017-4850-2
 
-`q3 · i2`
+`q3 · i2` · `review · r3`
 
 Two randomized cross-over trials (combined n = 22 per Table 2) of nap deprivation in toddlers; GRADE quality "high". Printed effects include "d = 0.77", "d = 0.92" and "d = 0.68" on self-regulation strategies.
 
@@ -48,7 +52,7 @@ Two randomized cross-over trials (combined n = 22 per Table 2) of nap deprivatio
 
 Chaput JP, Gray CE, Poitras VJ, Carson V, Gruber R, Birken CS, MacLean JE, Aubert S, Sampson M, Tremblay MS. (2017). Systematic review of the relationships between sleep duration and health indicators in the early years (0–4 years). BMC Public Health 17(Suppl 5):855. https://doi.org/10.1186/s12889-017-4850-2
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Narrative synthesis of 17 cross-sectional analyses (16,536 participants); GRADE downgraded to "very low" for "serious inconsistency in the findings". No effect sizes printed.
 

@@ -15,12 +15,14 @@ sources:
     author: Freeman, Emily E.; Karayanidis, Frini; Chalmers, Kerry A.
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # WMPT accuracy is positively correlated with reading, numeracy, spelling and composite achievement scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` WMPT accuracy showed large positive correlations with Word Reading (r = .532), Numerical Operations (r = .507) and Composite Score (r = .555), and a moderate correlation with Spelling (r = .359). [→ Freeman 2017](#freeman-2017)
@@ -31,7 +33,7 @@ sources:
 
 Freeman, Emily E.; Karayanidis, Frini; Chalmers, Kerry A. (2017). Metacognitive monitoring of working memory performance and its relationship to academic achievement in Grade 4 children. Learning and Individual Differences, Vol. 57. http://dx.doi.org/10.1016/j.lindif.2017.06.003
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Pearson correlations in the Grade 4 sample (n = 73) linked WMPT accuracy to all WIAT-II outcomes; "Higher WMPT accuracy scores were associated with higher scores in academic achievement", consistent with prior working-memory–achievement findings.
 

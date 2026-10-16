@@ -15,12 +15,14 @@ sources:
     author: Borella, Erika, Ghisletta, Paolo, De Ribaupierre, Anik
     q: 2
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Age differences in text processing are examined in terms of the roles of working memory, inhibition, and processing speed
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r?` · `q2`
 
 ## Subclaims
 `q2 i?` The article addresses age differences in text processing. [→ Borella 2011](#borella-2011)
@@ -32,7 +34,7 @@ sources:
 
 Borella, Erika, Ghisletta, Paolo, De Ribaupierre, Anik. (2011). Age Differences in Text Processing: The Role of Working Memory, Inhibition, and Processing Speed. The journals of gerontology. Series B, Psychological sciences and social sciences, vol. 66, n° 3, p. 311–320. https://doi.org/10.1093/geronb/gbr002
 
-`q2 · i?`
+`q2 · i?` · `associational · r?`
 
 The article's own title and citation line, as printed on the publication record, state its focus: "Age Differences in Text Processing: The Role of Working Memory, Inhibition, and Processing Speed", published in The journals of gerontology. Series B in 2011. No design, sample, or statistics are printed in the supplied text, so no effect size is reported.
 

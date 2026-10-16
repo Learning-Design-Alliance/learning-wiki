@@ -15,12 +15,14 @@ sources:
     author: Evelyn Ezikwelu
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Positive campus racial climate is vital for Black students' success, while negative climate remains detrimental to students of color in predominantly White schools
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Positive campus racial climate is vital for Black students' success, and negative campus racial climate is detrimental to the academic success of students of color in predominantly White schools. [→ Evelyn Ezikwelu 2020](#evelyn-ezikwelu-2020)
@@ -31,7 +33,7 @@ sources:
 
 Evelyn Ezikwelu. (2020). Institutional Racism and Campus Racial Climate: Struggles for Sense of Belonging Among Black Students in K-12 Public Schools. Journal of Critical Thought and Praxis, 10(1). https://www.iastatedigitalpress.com/jctp/
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 Narrative literature review of peer-reviewed articles from 1990 to 2020 synthesizing campus racial climate research. The review reports that "positive campus racial climate is vital for the success of the Black students" while negative climate harms students of color academically; no effect sizes are printed.
 
