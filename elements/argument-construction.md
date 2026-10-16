@@ -58,6 +58,10 @@ Argument construction supports learning because generating and defending a posit
 - [Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction](../claims/unstructured-llm-use-cognitive-offloading.md) [~W]
 - [Argument quality gains favored the PS-GenAI-PF group over the PF group, while elaboration gains favored the GenAI-PF group](../claims/genai-peer-feedback-raises-argument-quality.md) [~W]
 
+## The evidence by question
+- *Does structured argument with peers improve learners' individual argument and content learning?* [Argumentation Improves Reasoning](../claims/argumentation-improves-reasoning.md) [+S]
+- *Does AI feedback or AI support improve learners' arguments and justifications, and in which designs?* [Direct GenAI-supported feedback improves immediate argument-quality gain over peer feedback, while reflective and hybrid designs outperform direct GenAI feedback](../claims/genai-feedback-design-argument-quality-gain.md) [+M]
+
 ## Related Elements
 - [Research](research.md) — supplies the evidence base; arguments without sourced grounds collapse into opinion
 - [Rebuttals](rebuttals.md) — the component learners most often omit; explicit rebuttal tasks build the strongest reasoning gains
