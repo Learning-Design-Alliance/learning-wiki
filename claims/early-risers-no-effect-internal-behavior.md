@@ -42,6 +42,9 @@ Randomized effectiveness study in two neighborhood family centers and 10 element
 ## Discussion
 
 
+## Learner Variables
+- [Emotional Intelligence](../learner-variables/emotional-intelligence.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Early Risers shows no discernible effects on external behavior for children at risk of emotional disturbance classification](early-risers-no-effect-external-behavior.md) — related
 - [FBA-based interventions show potentially positive effects on school engagement for children identified with or at risk for an emotional disturbance](fba-potentially-positive-school-engagement.md) — related

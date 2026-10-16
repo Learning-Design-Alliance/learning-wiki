@@ -60,6 +60,9 @@ Narrative synthesis of immersive-technology studies in Results §4.2.6, includin
 
 ## Discussion
 
+## Learner Variables
+- [Spatial Ability](../learner-variables/spatial-ability.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — the general claim this finding bears on, with the studies behind it

@@ -42,6 +42,9 @@ Structural equation modeling of survey data from 758 Chinese university EFL lear
 ## Discussion
 
 
+## Learner Variables
+- [Achievement Goal Orientation](../learner-variables/achievement-goal-orientation.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Mastery-approach, performance-approach, and performance-avoidance goals positively predict engagement, while mastery-avoidance goals do not, in AI-assisted English learning](goal-orientations-predict-engagement-ai-efl.md) — related
 - [Teacher support correlates with mastery-approach and performance-approach goals and engagement, but not with avoidance-oriented goals](teacher-support-correlations-avoidance-goals-null.md) — related

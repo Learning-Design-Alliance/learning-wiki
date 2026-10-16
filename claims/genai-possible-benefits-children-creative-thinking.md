@@ -41,6 +41,7 @@ The review's narrative synthesis of 22 primary empirical studies, summarized des
 
 ## Learner Variables
 - [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
+- [Creativity](../learner-variables/creativity.md) — outcome: instruction changes it
 
 ## Related Claims
 

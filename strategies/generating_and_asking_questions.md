@@ -42,7 +42,7 @@ Question generation is one of the better-supported comprehension strategies: int
 
 ### Target Learners
 - Upper elementary through adult readers; effects are documented across grade levels but are strongest for students who already have decoding fluency [+M]
-- Struggling comprehenders benefit substantially when the strategy is embedded in [Reciprocal Teaching](../elements/reciprocal-teaching.md)-style dialogue with coaching [Palincsar & Brown reciprocal teaching study.](https://doi.org/10.1207/s1532690xci0202_1) [+S]
+- Struggling comprehenders benefit substantially when the strategy is embedded in [Reciprocal Teaching](../elements/reciprocal-teaching.md)-style dialogue with coaching [Palincsar & Brown reciprocal teaching study.](https://doi.org/10.1207/s1532690xci0102_1) [+S]
 - Less effective for beginning decoders, whose working memory is consumed by word recognition [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 
 ### Target Learning Goals

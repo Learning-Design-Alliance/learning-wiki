@@ -43,6 +43,9 @@ The review compiles zero-order correlations from published meta-analyses (each w
 
 The authors call the size surprising, since creativity is usually stressed at later stages of talent development, and note that divergent thinking (many solutions) and convergent thinking (one solution) both seem to be needed in mathematical problem solving. The correlation is stronger in mathematics than in Hattie's cross-domain synthesis.
 
+## Learner Variables
+- [Creativity](../learner-variables/creativity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)

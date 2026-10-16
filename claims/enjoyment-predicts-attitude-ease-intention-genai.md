@@ -43,6 +43,7 @@ PLS-SEM bootstrapped path analysis (5,000 subsamples) in the 434-teacher sample 
 
 ## Learner Variables
 - [Interest](../learner-variables/interest.md) — predictor: learners who differ on it differ in outcomes
+- [Achievement Emotions](../learner-variables/achievement-emotions.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 

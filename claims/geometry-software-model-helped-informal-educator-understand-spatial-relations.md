@@ -43,6 +43,9 @@ Identification stage of the narrative inquiry; the informal educator's own repor
 ## Discussion
 
 
+## Learner Variables
+- [Spatial Ability](../learner-variables/spatial-ability.md) — outcome: instruction changes it
+
 ## Related Claims
 - In one narrative inquiry, boundary crossing collaboration between a mathematics education researcher and an informal educator created a space for a new understanding of mathematics as normal human practice — related
 - [When a real-life quilt problem was turned into a contextualized mathematics task, its context dropped out during solving and both designers judged it too school-like](contextualized-real-life-task-reverted-to-pure-mathematics-and-felt-too-school.md) — related

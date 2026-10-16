@@ -44,6 +44,7 @@ A quasi-experiment in a courseware project compared two classes: one randomly as
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
+- [Creativity](../learner-variables/creativity.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Providing all students with instant personalised guidance at the same time is a challenge for flipped learning that ChatGPT-FLGA was designed to address](flipped-learning-personalised-guidance-gap.md) — related

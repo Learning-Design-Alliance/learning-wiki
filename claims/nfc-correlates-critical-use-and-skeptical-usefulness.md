@@ -43,6 +43,9 @@ Exploratory correlation analyses in the same correlational study (N = 67) using 
 ## Discussion
 
 
+## Learner Variables
+- [Need for Cognition](../learner-variables/need-for-cognition.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Students’ actual genAI use correlates with interest and perceived usefulness of genAI but not with knowledge or critical-thinking dispositions](actual-genai-use-tied-to-interest-and-usefulness.md) — related
 - [Students’ knowledge about genAI, measured both by self-report and performance test, positively predicts their critical use of genAI](genai-knowledge-predicts-critical-use.md) — related

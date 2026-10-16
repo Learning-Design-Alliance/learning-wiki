@@ -42,6 +42,9 @@ Exploratory affect modeling within the PFA-based logistic regression: confusion 
 
 ## Discussion
 
+## Learner Variables
+- [Achievement Emotions](../learner-variables/achievement-emotions.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 
 - [Pre-tests reduced adult learners' persistence in a MOOC, though they improved post-test scores among those who completed it](pretesting-can-harm-motivation.md) — the general claim this finding bears on, with the studies behind it

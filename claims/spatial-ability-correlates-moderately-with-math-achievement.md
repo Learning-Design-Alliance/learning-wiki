@@ -43,6 +43,9 @@ The review compiles zero-order correlations from published meta-analyses (each w
 
 The authors suggest spatial representation is one of several routes to solving mathematics problems and can be compensated by others, and that spatial ability may matter more at high levels of mathematics, where it marks talent. See [Spatial training improves math performance](spatial-training-improves-math-performance.md) for the intervention evidence.
 
+## Learner Variables
+- [Spatial Ability](../learner-variables/spatial-ability.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)

@@ -65,6 +65,7 @@ Study 2 evaluated a behavioural-based coaching program with trainee accountants.
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
 - [Academic Anxiety](../learner-variables/academic-anxiety.md) — outcome: instruction changes it
+- [Academic Self-Concept](../learner-variables/academic-self-concept.md) — outcome: instruction changes it
 
 ## Related Claims
 - A combined cognitive and behavioural coaching program outperformed cognitive-only and behavioural-only programs for academic performance, with gains maintained at follow-up only for the combined program. — related

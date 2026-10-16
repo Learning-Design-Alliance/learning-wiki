@@ -44,6 +44,7 @@ In the same RCT, survey data from 139 students with complete survey data measure
 
 ## Learner Variables
 - [Interest](../learner-variables/interest.md) — outcome: instruction changes it
+- [Achievement Emotions](../learner-variables/achievement-emotions.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Math confidence increased slightly among students completing both baseline and end-of-year surveys, but the difference was not statistically significant](breakthrough-tutoring-confidence-gain-not-significant.md) — related

@@ -42,6 +42,9 @@ Participant-level d' estimates clustered near zero (mean d' = −0.012, SD = 0.6
 ## Discussion
 
 
+## Learner Variables
+- [Personality Traits](../learner-variables/personality-traits.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Participants fail to distinguish undisclosed AI teammates from human teammates above chance in synchronous text-based group interaction](chance-level-ai-identity-detection-undisclosed-teammates.md) — a broader claim this one bears on
 - [Gender is associated with small differences in GenAI use, literacy, and monitoring, while educational level shows no significant differences](gender-small-differences-genai-use.md) — related

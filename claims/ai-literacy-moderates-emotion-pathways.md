@@ -57,6 +57,9 @@ Bootstrapped moderated mediation indices (5,000 resamples) for the three emotion
 ## Discussion
 
 
+## Learner Variables
+- [Achievement Emotions](../learner-variables/achievement-emotions.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Academic emotions—enjoyment, anxiety, and boredom—mediate the association between perceived AI-adaptive environments and SRL, accounting for 54.8% of the total effect](academic-emotions-mediate-ai-environment-srl.md) — related
 - [Perceived AI-adaptive learning environments are negatively associated with college students' self-regulated learning in a three-wave longitudinal survey](ai-adaptive-environment-negative-srl-longitudinal.md) — related

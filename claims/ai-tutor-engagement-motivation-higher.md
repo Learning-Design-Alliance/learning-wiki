@@ -44,6 +44,7 @@ Five-point Likert perception ratings after each lesson in the crossover RCT (Fig
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
 - [Interest](../learner-variables/interest.md) — outcome: instruction changes it
+- [Achievement Emotions](../learner-variables/achievement-emotions.md) — outcome: instruction changes it
 
 ## Related Claims
 

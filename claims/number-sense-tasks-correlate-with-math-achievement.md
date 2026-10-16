@@ -43,6 +43,9 @@ The review compiles zero-order correlations from published meta-analyses (each w
 
 The authors note that these correlations run against the expectation that numerical magnitude skills matter most early in talent development and that they may still help identify mathematics-specific strengths, being somewhat uniquely mathematical where intelligence and self-regulation are not.
 
+## Learner Variables
+- [Number Sense](../learner-variables/number-sense.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)

@@ -36,6 +36,14 @@ Number sense is a learner's grasp of how large numbers are and how they relate t
 
 ## Claims
 <!-- Claims reporting findings about this variable, with evidence tags -->
+- [Contrary to the science comprehension thesis, political polarization of data interpretation did not abate among the most numerate subjects but increased](../claims/polarization-increases-with-numeracy.md) [+M] — learners who differ on it differ in outcomes
+- [DreamBox effects on the Problem Solving, Number Sense, and Statistics and Probability subtests were not statistically significant](../claims/dreambox-problem-solving-number-sense-statistics-null.md) [-M] — instruction changes it
+- [Early numeracy mastery at 54 months predicts college attendance](../claims/early-numeracy-mastery-predicts-college-attendance.md) [+W] — learners who differ on it differ in outcomes
+- [Early numeracy mastery at 54 months predicts high school math course-taking](../claims/early-numeracy-mastery-predicts-hs-math-course-taking.md) [+W] — learners who differ on it differ in outcomes
+- [Number Board Games Improve Numerical Knowledge](../claims/number-board-games-improve-numerical-knowledge.md) [+M] — instruction changes it
+- [Numerical routines individualize through a three-stage sequence of vertical and horizontal bonding](../claims/numerical-routines-individualize-through-bonding.md) [+W] — instruction changes it
+- [Students in the TEC Summer Learning Program showed a 20% pre-to-post gain in numeracy skills](../claims/tec-summer-20-percent-numeracy-gain.md) [+W] — instruction changes it
+- [Vision is not required for developing number sense and math skills in BVI learners](../claims/vision-not-required-for-number-sense-bvi.md) [+W] — instruction changes it
 
 ## Related Learner Variables
 

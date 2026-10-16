@@ -62,6 +62,7 @@ Effect-size evaluation of the structural model in the 434-teacher PLS-SEM study,
 ## Learner Variables
 - [Interest](../learner-variables/interest.md) — outcome: instruction changes it
 - [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
+- [Achievement Emotions](../learner-variables/achievement-emotions.md) — outcome: instruction changes it
 
 ## Related Claims
 

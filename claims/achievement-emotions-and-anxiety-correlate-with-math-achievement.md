@@ -43,6 +43,9 @@ The review compiles zero-order correlations from published meta-analyses (each w
 
 Correlations only, and the authors expect the relationship to run both ways: achievement shapes emotions as well as the reverse. See [Math anxiety and math achievement](math-anxiety-degrades-performance.md) for the anxiety meta-analysis itself.
 
+## Learner Variables
+- [Achievement Emotions](../learner-variables/achievement-emotions.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)

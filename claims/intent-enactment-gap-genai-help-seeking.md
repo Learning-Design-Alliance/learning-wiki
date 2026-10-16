@@ -61,6 +61,9 @@ Same correlational intent-enactment analysis, reporting null associations for le
 ## Discussion
 
 
+## Learner Variables
+- [Achievement Goal Orientation](../learner-variables/achievement-goal-orientation.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Adolescent students' stated pre-chat intentions with an AI math tutor tilt strongly toward scaffolded support rather than answer offloading](forethought-intentions-learning-oriented-genai-tutor.md) — related
 - [Students' help requests to the AI tutor were predominantly instrumental rather than executive, with procedural content and low verification](instrumental-help-seeking-procedural-low-verification.md) — related

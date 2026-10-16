@@ -50,6 +50,9 @@ Boundary conditions and open questions remain. Gains are expected to be largest 
 
 **Evidence gap.** One randomized study is recorded above; replications and meta-analyses are not yet recorded here. The subclaims above — particularly the linear-layout advantage and the durability of gains — should be treated as hypotheses until experimental and meta-analytic evidence is added.
 
+## Learner Variables
+- [Number Sense](../learner-variables/number-sense.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Game design, not learner age or linguistic background, determines DGBL effectiveness; adventure games outperform non-adventure games](game-design-moderates-dgbl-effectiveness.md) — the general claim this finding bears on, with the studies behind it

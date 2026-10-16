@@ -63,6 +63,7 @@ Same logistic regression analysis of 13,578 students. The null finding for perfo
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
 - [Mindset](../learner-variables/mindset.md) — predictor: learners who differ on it differ in outcomes
+- [Achievement Goal Orientation](../learner-variables/achievement-goal-orientation.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 

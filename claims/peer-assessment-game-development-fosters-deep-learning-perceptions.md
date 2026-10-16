@@ -42,5 +42,8 @@ Analysis of open-ended question responses from the experiment found that "most o
 ## Discussion
 
 
+## Learner Variables
+- [Creativity](../learner-variables/creativity.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Peer assessment-based game development improves students' perceptions of the use of educational computer games](peer-assessment-game-development-improves-perceptions-of-educational-games.md) — related

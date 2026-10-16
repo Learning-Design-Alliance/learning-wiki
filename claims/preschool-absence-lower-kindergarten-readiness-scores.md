@@ -76,6 +76,9 @@ Null result from the same PLS analysis (n=1,265): the pre-literacy subscale show
 
 ## Discussion
 
+## Learner Variables
+- [Emotional Intelligence](../learner-variables/emotional-intelligence.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Children who attend pre-kindergarten are more ready for kindergarten at the end of their pre-k year than children who do not attend](prek-attendance-kindergarten-readiness.md) — the general claim this finding bears on, with the studies behind it

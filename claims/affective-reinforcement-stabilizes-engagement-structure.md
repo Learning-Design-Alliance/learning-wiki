@@ -43,6 +43,9 @@ Qualitative analysis of one episode in which the teacher watched Dema without sp
 ## Discussion
 
 
+## Learner Variables
+- [Achievement Emotions](../learner-variables/achievement-emotions.md) — outcome: instruction changes it
+
 ## Related Claims
 - [A negative-emotion alert followed by cognitive-affective reframing of the task coincided with branching of one student's engagement structure from completion-oriented to exploratory engagement](alert-reframing-branches-engagement-structure.md) — related
 - [Repeated negative alerts for one student prompted the teacher to revisit her and shift from explanation to inquiry, and reorganization of her engagement occurred only after this second intervention](repeated-alerts-prompt-iterative-instructional-revision.md) — related

@@ -96,6 +96,9 @@ Two further open questions for the evidence base: (1) durability — most rubric
 
 <!-- deprecated (2026-10-05, misapplied claim: the CRAAP checklist claim tests source-evaluation instruction, not rubrics, and does not show compliance or shortcutting): A related caution: criterion-based self-evaluation does not automatically succeed. The finding that [checklist evaluation is ineffective online](checklist-evaluation-ineffective-online.md) suggests that handing learners a list of criteria, without training or scaffolding in how to apply it, can fail to improve — and may even shortcut — genuine evaluative judgment. Rubric designs should therefore pair criteria with exemplars, modeled application, or structured self-scoring rather than distribution alone. --> A related caution: criterion-based self-evaluation does not automatically succeed. In Panadero & Romero (2014) the rubric group also reported more difficulty coping with stress and a higher performance/avoidance orientation. Both recorded studies paired the rubric with active self-scoring (and, in Andrade et al. 2010, a model essay and learner-generated criteria), so whether distributing a rubric alone helps is untested here; pairing criteria with exemplars, modelled application or structured self-scoring is a design proposal, not a tested comparison.
 
+## Learner Variables
+- [Achievement Goal Orientation](../learner-variables/achievement-goal-orientation.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Students who accessed exemplar examination answers on the LMS achieved higher grades than those who did not](lms-exemplar-access-associated-with-higher-grades.md) — the general claim this finding bears on, with the studies behind it

@@ -37,6 +37,12 @@ Spatial ability covers mental rotation, visualising objects from other viewpoint
 
 ## Claims
 <!-- Claims reporting findings about this variable, with evidence tags -->
+- [A dynamic geometry model of the quilt problem helped an informal educator understand its spatial relations](../claims/geometry-software-model-helped-informal-educator-understand-spatial-relations.md) [+W] — instruction changes it
+- [CCT yields small significant gains in nonverbal memory, working memory, and visuospatial skills, but only weak evidence for verbal memory](../claims/cct-domain-gains-nonverbal-wm-visuospatial-verbal-weak.md) [+M] — instruction changes it
+- [Immersive technologies are rarely adopted in robotics GBL/gamification but studies using them report heightened engagement, improved spatial reasoning, and enhanced perceived realism](../claims/immersive-tech-underused-positive-outcomes-robotics.md) [+M] — instruction changes it
+- [Spatial Skills Improve Through Block Building](../claims/spatial-skills-improve-through-block-building.md) [+W] — instruction changes it
+- [Spatial thinking and generative activity reduced monitoring error while higher interest increased it](../claims/spatial-generative-reduce-error-interest-increases.md) [+M] — learners who differ on it differ in outcomes
+- [The program showed no significant overall math difference, though items on visual-spatial vocabulary and nonstandard measurement improved for the treatment condition](../claims/nico-nor-math-null-with-item-gains.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

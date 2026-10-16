@@ -36,6 +36,9 @@ Need for cognition is a stable disposition to seek out and enjoy cognitively dem
 
 ## Claims
 <!-- Claims reporting findings about this variable, with evidence tags -->
+- [Need for cognition correlates positively with critical genAI use and negatively with perceived usefulness of genAI](../claims/nfc-correlates-critical-use-and-skeptical-usefulness.md) [+M] — learners who differ on it differ in outcomes
+- [Need for cognition negatively moderates the trust–appropriate reliance relationship, with the trust slope becoming more negative as need for cognition increases](../claims/need-for-cognition-moderates-trust-reliance.md) [~M] — an instructional effect differs with it
+- [The effectiveness of reflective AI-engagement mechanisms varies across users, depending on Need for Cognition, expertise, domain familiarity, and task difficulty](../claims/reflective-support-effects-vary-by-user.md) [~W] — an instructional effect differs with it
 
 ## Related Learner Variables
 

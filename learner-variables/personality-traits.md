@@ -36,6 +36,18 @@ Personality traits are relatively stable individual differences, most often meas
 
 ## Claims
 <!-- Claims reporting findings about this variable, with evidence tags -->
+- [Academic behaviors have the most immediate effect on course grades; directly targeting grit is not an evidenced lever](../claims/academic-behaviors-most-immediate-effect-grades.md) [-M] — learners who differ on it differ in outcomes
+- [Agreeableness is unexpectedly a weak risk factor for well-being decline in wartime students](../claims/agreeableness-risk-factor-wartime-wellbeing.md) [+W] — learners who differ on it differ in outcomes
+- [Chance-level identity discrimination is uniform across participants and not associated with AI literacy, personality, or demographics](../claims/detection-failure-uniform-not-tied-to-individual-differences.md) [-M] — learners who differ on it differ in outcomes
+- [Conscientiousness and tolerance for novelty show small negative associations with well-being decline; other uncertainty-tolerance facets do not](../claims/conscientiousness-novelty-tolerance-small-protective-associations.md) [+W] — learners who differ on it differ in outcomes
+- [Conscientiousness exploratorily moderated the effect of ITS condition on subjective difficulty and enjoyment](../claims/conscientiousness-moderates-difficulty-enjoyment-adaptive-its.md) [+W] — an instructional effect differs with it
+- [Emotional stability shows the strongest negative association with decline in students' subjective well-being under martial law](../claims/emotional-stability-strongest-protective-wellbeing-wartime.md) [+M] — learners who differ on it differ in outcomes
+- [Extraversion correlates negatively with well-being decline in wartime students, though less strongly than emotional stability](../claims/extraversion-protective-wellbeing-wartime.md) [+W] — learners who differ on it differ in outcomes
+- [Extraversion's protective effect on well-being declines with age, significant only for younger students](../claims/age-moderates-extraversion-wellbeing-effect.md) [~M] — learners who differ on it differ in outcomes
+- [In a Chicago middle-grades study, the combination of grades and attendance provided the best prediction of high school on-track rates, and adding test scores and grit measures did not further improve prediction](../claims/middle-grades-grades-attendance-best-prediction.md) [-M] — learners who differ on it differ in outcomes
+- [On study habits, grit, and promotion to tenth grade, charter students performed similarly to or slightly below comparable non-charter students, with the promotion gap possibly reflecting charters' higher promotion requirements](../claims/cps-charter-similar-or-lower-behaviors-promotion.md) [-W] — instruction changes it
+- [Openness partially mediates effects of extraversion and novelty tolerance, and fully mediates general uncertainty tolerance, on well-being decline](../claims/openness-mediates-personality-wellbeing-pathways.md) [+M] — learners who differ on it differ in outcomes
+- [Openness protects against well-being decline only when emotional stability is average or high](../claims/openness-protects-only-with-emotional-stability.md) [~M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

@@ -42,5 +42,8 @@ Findings from the Conduct Problems Prevention Research Group (1999a) randomized 
 ## Discussion
 
 
+## Learner Variables
+- [Emotional Intelligence](../learner-variables/emotional-intelligence.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Fast Track showed positive, statistically significant effects on some external behavior measures after one year, with no significant differences on eight other measures](fast-track-external-behavior-mixed-measures.md) — related

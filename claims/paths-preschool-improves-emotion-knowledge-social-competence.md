@@ -43,6 +43,9 @@ Randomized clinical trial of Preschool PATHS in Head Start: "Twenty classrooms i
 ## Discussion
 
 
+## Learner Variables
+- [Emotional Intelligence](../learner-variables/emotional-intelligence.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Teachers implemented Preschool PATHS with high fidelity and positive engagement in the trial](paths-preschool-high-implementation-fidelity.md) — related
 - [Teachers rated PATHS intervention children as less socially withdrawn than controls at year end](paths-preschool-reduces-social-withdrawal-teacher-rated.md) — related

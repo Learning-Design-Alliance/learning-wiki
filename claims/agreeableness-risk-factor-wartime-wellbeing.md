@@ -42,6 +42,9 @@ Pearson correlation in the 147-student wartime sample. The authors attribute the
 ## Discussion
 
 
+## Learner Variables
+- [Personality Traits](../learner-variables/personality-traits.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Emotional stability shows the strongest negative association with decline in students' subjective well-being under martial law](emotional-stability-strongest-protective-wellbeing-wartime.md) — related

@@ -47,6 +47,7 @@ The comparison is between two non-randomised cohorts, medical students in the or
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
 - [Academic Anxiety](../learner-variables/academic-anxiety.md) — outcome: instruction changes it
+- [Achievement Emotions](../learner-variables/achievement-emotions.md) — outcome: instruction changes it
 
 ## Related Claims
 

@@ -93,6 +93,7 @@ Intrinsic interest is less reliably shapeable in the short term than utility val
 
 ## Learner Variables
 - [Interest](../learner-variables/interest.md) — predictor: learners who differ on it differ in outcomes
+- [Achievement Emotions](../learner-variables/achievement-emotions.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — intrinsic value and autonomous motivation often co-occur: tasks learners find interesting are also those they pursue for internal reasons

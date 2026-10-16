@@ -40,6 +40,9 @@ Quasi-experimental study comparing an experimental group receiving AI-supported 
 ## Discussion
 
 
+## Learner Variables
+- [Creativity](../learner-variables/creativity.md) — outcome: instruction changes it
+
 ## Related Claims
 - [AI-supported inquiry-based learning significantly improved secondary students' attitudes toward mathematics compared with traditional instruction](ai-ibi-improves-attitudes-toward-mathematics.md) — related
 - [AI-supported inquiry-based learning did not produce a statistically significant improvement in students' critical problem-solving skills](ai-ibi-no-significant-gain-critical-problem-solving.md) — related

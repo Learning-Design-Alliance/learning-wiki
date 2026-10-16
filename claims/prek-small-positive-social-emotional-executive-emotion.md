@@ -57,6 +57,7 @@ The summary reports, citing Gormley et al. (2011) and Weiland and Yoshikawa (201
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
 - [Executive Function](../learner-variables/executive-function.md) — outcome: instruction changes it
+- [Emotional Intelligence](../learner-variables/emotional-intelligence.md) — outcome: instruction changes it
 
 ## Related Claims
 - [KIPP Pre-K combined with KIPP early elementary school may also have a positive impact on students' executive function](kipp-prek-possible-executive-function-impact.md) — related

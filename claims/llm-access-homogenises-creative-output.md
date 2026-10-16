@@ -43,6 +43,7 @@ The review attributes to Doshi and Hauser (2024) that LLM access "boosts individ
 
 ## Learner Variables
 - [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
+- [Creativity](../learner-variables/creativity.md) — outcome: instruction changes it
 
 ## Related Claims
 

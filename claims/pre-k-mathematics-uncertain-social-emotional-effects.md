@@ -40,6 +40,9 @@ WWC synthesis of one measure, the Social Skills Rating System teacher report (Kl
 ## Discussion
 
 
+## Learner Variables
+- [Emotional Intelligence](../learner-variables/emotional-intelligence.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Pre-K Mathematics shows uncertain effects on preschool language outcomes](pre-k-mathematics-uncertain-language-effects.md) — related
 - [Pre-K Mathematics shows uncertain effects on preschool self-regulation skills](pre-k-mathematics-uncertain-self-regulation-effects.md) — related

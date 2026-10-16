@@ -43,6 +43,9 @@ The review compiles zero-order correlations from published meta-analyses (each w
 
 The authors read the pattern through the internal/external frame of reference model: students compare their mathematics achievement with other students' and with their own verbal achievement, so verbal self-concept stays nearly unrelated to mathematics achievement even though verbal and mathematics achievement correlate strongly. They describe a reciprocal relationship between self-concept and achievement, and cite an earlier meta-analysis (O'Mara et al. 2006) in which domain-specific self-concept interventions were effective; that evidence is not part of this review.
 
+## Learner Variables
+- [Academic Self-Concept](../learner-variables/academic-self-concept.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)

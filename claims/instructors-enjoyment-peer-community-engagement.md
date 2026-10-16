@@ -44,6 +44,7 @@ Study 1 thematic network analysis (Attride-Stirling method) of instructor interv
 
 ## Learner Variables
 - [Interest](../learner-variables/interest.md) — outcome: instruction changes it
+- [Achievement Emotions](../learner-variables/achievement-emotions.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Students perceive that interacting with others in experiential learning fosters empathy and a sense of community by enhancing perspective-taking (beauty)](students-interaction-empathy-perspective-taking.md) — related

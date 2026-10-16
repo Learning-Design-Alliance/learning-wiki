@@ -43,6 +43,9 @@ The review compiles zero-order correlations from published meta-analyses (each w
 
 The authors relate it to engagement with cognitively demanding material; need for cognition also correlates with intelligence, academic self-concept and intrinsic motivation, so the estimate is not unique to it. It rests on twelve effect sizes.
 
+## Learner Variables
+- [Need for Cognition](../learner-variables/need-for-cognition.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)

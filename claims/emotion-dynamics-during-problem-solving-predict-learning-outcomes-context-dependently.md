@@ -48,6 +48,9 @@ Sinha, T. (2022). Enriching problem-solving followed by instruction with explana
 ## Discussion
 The paper's most important methodological caution is built into its own framing: correlations between emotion incidence and posttest scores are not causal evidence that manipulating emotion would change learning, even though the scaffolding conditions themselves were randomized. The context-dependent reversal of the disgust/contempt-outcome relationship across conditions is the paper's most novel and best-supported finding, and argues against treating any emotion as uniformly facilitative or debilitating for learning. Self-report data (PANAS, state curiosity, cognitive dissonance) converges with the automated coding in ordering the three conditions, which increases confidence that the facial-coding measure is capturing something real rather than an artifact of the classifier.
 
+## Learner Variables
+- [Achievement Emotions](../learner-variables/achievement-emotions.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 
 - [PF design fidelity predicts larger PS-I effects, with four fidelity criteria showing significant subgroup differences](pf-fidelity-predicts-psi-effect-size.md) — the general claim this finding bears on, with the studies behind it

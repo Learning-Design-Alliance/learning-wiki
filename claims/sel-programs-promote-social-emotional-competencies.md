@@ -42,6 +42,9 @@ The report's synthesis of 12 independently conducted meta-analyses of school-bas
 ## Discussion
 
 
+## Learner Variables
+- [Emotional Intelligence](../learner-variables/emotional-intelligence.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Social and emotional learning programs promote competencies, reduce behavior problems, and improve engagement and achievement, with sustained longer-term benefits](sel-programs-improve-behavior-engagement-achievement.md) — a broader claim this one bears on
 - [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — possibly the same claim (merge candidate)

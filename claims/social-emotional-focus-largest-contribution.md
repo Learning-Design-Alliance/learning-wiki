@@ -42,6 +42,9 @@ Moderator analysis across the 54 included studies, with programs coded for prese
 ## Discussion
 
 
+## Learner Variables
+- [Emotional Intelligence](../learner-variables/emotional-intelligence.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Classroom management interventions in primary education show small but significant average effects (g = 0.22) on academic, behavioral, and social-emotional outcomes but not on motivational outcomes](classroom-management-small-significant-effects-g022.md) — related
 - [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — related

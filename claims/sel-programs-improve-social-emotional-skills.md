@@ -94,6 +94,9 @@ A systematic review of experimental and quasi-experimental studies of universal 
 
 **Open questions.** Effects for adolescents appear weaker than for elementary students in much of the literature, and long-term maintenance of skill gains after program end is under-studied. Cultural fit and linguistic accessibility of curricula are also open design questions; see [Accessible vocabulary and syntax](../principles/accessible-vocabulary-syntax.md) for the broader accessibility concern.
 
+## Learner Variables
+- [Emotional Intelligence](../learner-variables/emotional-intelligence.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Belonging interventions improve outcomes](belonging-interventions-improve-outcomes.md) — social-emotional context and belonging jointly shape engagement and achievement

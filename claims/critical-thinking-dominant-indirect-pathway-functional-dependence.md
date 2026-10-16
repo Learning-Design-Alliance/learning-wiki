@@ -40,6 +40,9 @@ Bootstrap mediation results (5,000 resamples) for the functional dependence mode
 ## Discussion
 
 
+## Learner Variables
+- [Creativity](../learner-variables/creativity.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Both functional and existential GenAI dependence are positively associated with research creativity, each with significant direct and total effects](both-dependence-forms-positively-associated-creativity.md) — related
 - [Critical thinking and human–AI collaboration quality jointly form a significant serial indirect pathway from GenAI dependence to research creativity, larger for functional than existential dependence](serial-mediation-critical-thinking-collaboration-quality.md) — related

@@ -43,6 +43,8 @@ Exploratory moderation analyses in the N = 132 field experiment with conscientio
 
 ## Learner Variables
 - [Interest](../learner-variables/interest.md) — outcome: instruction changes it
+- [Achievement Emotions](../learner-variables/achievement-emotions.md) — outcome: instruction changes it
+- [Personality Traits](../learner-variables/personality-traits.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 

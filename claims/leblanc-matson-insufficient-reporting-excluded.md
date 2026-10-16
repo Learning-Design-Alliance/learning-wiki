@@ -42,6 +42,9 @@ Randomized trial in a preschool for children with developmental delays (16 inter
 ## Discussion
 
 
+## Learner Variables
+- [Emotional Intelligence](../learner-variables/emotional-intelligence.md) — outcome: instruction changes it
+
 ## Related Claims
 - [In Ferentino (1991), social skills training produced a large significant effect on teacher-rated Vineland Socialization but not on four other social-emotional measures](ferentino-vabs-c-socialization-significant-effect.md) — related
 - [Social skills training has positive effects on social-emotional development and behavior for preschool children with disabilities in early education settings](social-skills-training-positive-social-emotional-effects-preschool-disabilities.md) — a broader claim this one bears on

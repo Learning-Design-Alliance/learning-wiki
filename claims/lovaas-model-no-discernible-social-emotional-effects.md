@@ -42,6 +42,9 @@ WWC review of Sallows and Graupner (2005), which examined three outcomes in this
 ## Discussion
 
 
+## Learner Variables
+- [Emotional Intelligence](../learner-variables/emotional-intelligence.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The Lovaas Model has no discernible effects on communication/language competencies for children with disabilities](lovaas-model-no-discernible-communication-effects.md) — related
 - [The Lovaas Model has no discernible effects on functional abilities for children with disabilities](lovaas-model-no-discernible-functional-abilities-effects.md) — related

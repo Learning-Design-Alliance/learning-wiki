@@ -42,6 +42,9 @@ Reflexive thematic analysis of the same 11 teachers' written responses (Table 2 
 ## Discussion
 
 
+## Learner Variables
+- [Achievement Emotions](../learner-variables/achievement-emotions.md) — outcome: instruction changes it
+
 ## Related Claims
 - Mathematics teachers appreciate ChatGPT-generated generative learning activities as hands-on, collaborative, engaging, open-ended, differentiated, and using multiple representations — reports the opposite
 - [Teachers report ChatGPT-generated math questions misalign with grade level and topic, are unreliable or unanswerable, and cost time](chatgpt-brainstorming-concerns-misalignment-reliability.md) — related

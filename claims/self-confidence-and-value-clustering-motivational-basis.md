@@ -42,6 +42,9 @@ Interpretation of the Factor 2 composition (task-value and self-efficacy items) 
 ## Discussion
 
 
+## Learner Variables
+- [Academic Self-Concept](../learner-variables/academic-self-concept.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Belief factors are positively intercorrelated: a social-dynamic view of mathematics co-occurs with higher task value and confidence (r = .48) and more positive teacher beliefs (r = .41)](mrbq-factor-correlations-positive.md) — related
 - A four-factor principal component model of the MRBQ provides some empirical ground for the proposed structure of students' mathematics-related beliefs — a broader claim this one bears on

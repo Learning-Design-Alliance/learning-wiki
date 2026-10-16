@@ -42,6 +42,9 @@ Results section on shaming oneself and others: the interview study found "Shamin
 ## Discussion
 
 
+## Learner Variables
+- [Achievement Emotions](../learner-variables/achievement-emotions.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Shame and guilt regulate the visibility of AI use: students engage in hiding behaviors and selective disclosure rather than open disclosure](shame-guilt-regulate-ai-use-visibility.md) — related
 - [Shame and guilt coexist with continued AI use, creating self-reinforcing cycles of reliance, concealment, and self-critique rather than behavior change](shame-guilt-cycles-continued-ai-use.md) — related

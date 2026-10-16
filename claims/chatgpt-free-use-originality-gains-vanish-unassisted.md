@@ -78,6 +78,9 @@ The paper reports this secondhand, citing Wong and Qiu (2026): university studen
 
 ## Discussion
 
+## Learner Variables
+- [Creativity](../learner-variables/creativity.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [The educational value of GAI is contingent on pedagogical integration, not on the technology itself](gai-value-contingent-on-pedagogical-integration.md) — the general claim this finding bears on, with the studies behind it

@@ -61,6 +61,9 @@ In the urban randomized effectiveness study, the WWC confirmed no statistically 
 ## Discussion
 
 
+## Learner Variables
+- [Emotional Intelligence](../learner-variables/emotional-intelligence.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Early Risers shows no discernible effects on external behavior for children at risk of emotional disturbance classification](early-risers-no-effect-external-behavior.md) — related
 - [Early Risers has potentially positive effects on academic performance, driven by a significant Academic Achievement Composite effect in one of two studies](early-risers-potentially-positive-academic-performance.md) — related

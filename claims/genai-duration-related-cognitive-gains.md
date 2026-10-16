@@ -42,6 +42,9 @@ Cross-sectional subgroup comparison by GenAI use duration (Figure 2c). The artic
 ## Discussion
 
 
+## Learner Variables
+- [Creativity](../learner-variables/creativity.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Perceived GenAI gains differ by discipline: arts and economics/management students report stronger cognitive and motivational gains than education and law students](genai-disciplinary-differences-hss.md) — related
 - [Among students, longer AI-use experience is monotonically associated with higher perceived usefulness (Spearman's r = 0.327), though self-selection may explain part of the pattern](experience-usefulness-association-students.md) — related

@@ -42,6 +42,9 @@ Conditional process modelling (Hayes Model 4, 5,000 bootstrap resamples) on the 
 ## Discussion
 
 
+## Learner Variables
+- [Personality Traits](../learner-variables/personality-traits.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Extraversion's protective effect on well-being declines with age, significant only for younger students](age-moderates-extraversion-wellbeing-effect.md) — related

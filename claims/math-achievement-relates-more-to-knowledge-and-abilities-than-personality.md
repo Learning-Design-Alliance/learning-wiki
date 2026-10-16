@@ -43,6 +43,11 @@ The review compiles zero-order correlations from published meta-analyses (each w
 
 **Zero-order and overlapping.** The authors stress that the variables are intercorrelated (intelligence overlaps with creativity, language with vocabulary and phonological processing), so the rank order describes association, not unique contribution. **Malleable correlates.** They note that many of the large correlates, such as self-regulation, reading, mathematics self-concept and achievement emotions, are generally considered responsive to instruction, which makes them candidate targets for support; this review itself tests no intervention. **Compared with achievement in general,** self-concept, creativity, prior knowledge and self-regulation correlated more strongly with mathematics than in Hattie's (2023) cross-domain synthesis.
 
+## Learner Variables
+- [Achievement Emotions](../learner-variables/achievement-emotions.md) — predictor: learners who differ on it differ in outcomes
+- [Achievement Goal Orientation](../learner-variables/achievement-goal-orientation.md) — predictor: learners who differ on it differ in outcomes
+- [Personality Traits](../learner-variables/personality-traits.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Prior mathematical knowledge correlates very strongly with later mathematics achievement (r = .63), largely reflecting stable differences between learners](prior-knowledge-correlates-very-strongly-with-later-math-achievement.md)

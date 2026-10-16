@@ -50,6 +50,9 @@ Kircanski, K., Lieberman, M. D., & Craske, M. G. (2012). Feelings into words: Co
 
 **Open questions.** It remains open whether the benefit accrues from the act of labeling itself or from the regulation strategies that labeling makes available, and whether effects hold across age groups — younger learners may need scaffolds such as emotion word banks or visual mood meters to label accurately. Controlled studies with learners in educational settings are needed before this claim can be treated as established for them.
 
+## Learner Variables
+- [Emotional Intelligence](../learner-variables/emotional-intelligence.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Brief expressive writing before an exam can raise test-anxious students' scores, but across the wider literature its effect on test performance is negligible](expressive-writing-improves-exam-performance.md) — the general claim this finding bears on, with the studies behind it

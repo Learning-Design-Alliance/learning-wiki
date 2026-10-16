@@ -43,6 +43,9 @@ Quasi-experimental study (Bacon, 2001b) with 394 students in 11 classrooms in on
 ## Discussion
 
 
+## Learner Variables
+- [Emotional Intelligence](../learner-variables/emotional-intelligence.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Building Decision Skills combined with service learning has potentially positive effects on high school students' knowledge, attitudes, and values](bds-service-learning-potentially-positive-kav.md) — related
 - [The WWC rated Too Good for Drugs and Violence as having positive effects on knowledge, attitudes, and values, with a cross-study domain-average effect size of 0.42](tgfdv-positive-effects-rating.md) — related

@@ -50,6 +50,9 @@ Boundary conditions and open questions remain. It is not established whether gai
 
 **Design implications if the effect holds.** Guided building goals, adult spatial talk, and prompts to plan or describe assemblies before building are the most commonly hypothesized active ingredients; free-form play without spatial language may exercise these processes far less. Any block-based activity should keep the spatial demand within learners' capacity, consistent with [cognitive load theory](../theories/cognitive-load-theory.md), since complex assemblies can overload novice builders rather than train them. Where assemblies are complex, breaking them into grouped sub-assemblies can help, consistent with the claim that [chunking reduces working memory load](chunking-reduces-working-memory-load.md).
 
+## Learner Variables
+- [Spatial Ability](../learner-variables/spatial-ability.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Block play predicts math achievement](block-play-predicts-math-achievement.md) — correlational link between block play and later math outcomes; complements the causal spatial-skills claim

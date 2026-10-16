@@ -42,6 +42,9 @@ A consensus statement of evidence from the Council of Distinguished Scientists a
 ## Discussion
 
 
+## Learner Variables
+- [Emotional Intelligence](../learner-variables/emotional-intelligence.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - The review reports Bowlby's proposed natural sequence from attachment through separation distress to healthy exploration — related
 - Affective competence at age five is characterized by twelve observable skills — related

@@ -36,6 +36,18 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 
 ## Claims
 <!-- Claims reporting findings about this variable, with evidence tags -->
+- [Cognitive-only coaching increased deep and achieving learning approaches, academic self-concept, and reduced test anxiety and anxiety/depression, but academic performance declined relative to control; behavioural-only coaching decreased test anxiety and increased academic performance with no other effects.](../claims/cognitive-versus-behavioural-coaching-differential-effects.md) [+M] — instruction changes it
+- [Early math exposure in young children is linked to development, math confidence, and later math use (authors' assertion)](../claims/early-math-exposure-supports-development-confidence-later-use.md) [+W] — instruction changes it
+- [Female students show stronger academic self-confidence, more positive attitudes, higher achievement, and fewer absences, but this advantage diminishes almost completely under mastery learning](../claims/sex-advantage-diminishes-under-mastery-learning.md) [~M] — learners who differ on it differ in outcomes
+- [Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders](../claims/girls-confidence-interest-gap-self-concept-predicts-choices.md) [+M] — learners who differ on it differ in outcomes
+- [Interpersonal audio discussions with feedback and self-assessment elicit a statistically significant increase in introductory L2 learners' perceived pronunciation ability](../claims/audio-discussions-increase-perceived-pronunciation-ability.md) [+W] — instruction changes it
+- [Lack of confidence and inappropriate language use were observed obstacles to students' mathematical communication during the experiment](../claims/confidence-obstacles-math-communication.md) [+M] — learners who differ on it differ in outcomes
+- [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](../claims/self-efficacy-predicts-academic-persistence.md) [+M] — learners who differ on it differ in outcomes
+- [Pre-service primary teachers' science teaching self-efficacy beliefs correlate weakly but positively with their ability to determine suitable taxonomy, strategy, and method-techniques](../claims/self-efficacy-weakly-correlates-objective-aligned-instructional-planning.md) [+W] — learners who differ on it differ in outcomes
+- [Project-based and experiential learning approaches are reported as most effective for AI literacy education, and early exposure enhances learners' self-efficacy](../claims/early-exposure-enhances-ai-self-efficacy.md) [+W] — instruction changes it
+- [Prolonged reading failure leads students to attribute failure to fixed low ability and define reading as a failure situation](../claims/reading-failure-fixed-ability-attribution.md) [+M] — instruction changes it
+- [Students confident about their mathematical ability are mostly also convinced of the relevance of mathematics, forming a motivational basis; low-confidence students are hard to motivate](../claims/self-confidence-and-value-clustering-motivational-basis.md) [+M] — learners who differ on it differ in outcomes
+- [Students reported significantly less difficulty with comprehensibility and accuracy of pronunciation between the first and final audio discussion activity](../claims/decreased-perceived-pronunciation-difficulty.md) [+W] — instruction changes it
 
 ## Related Learner Variables
 

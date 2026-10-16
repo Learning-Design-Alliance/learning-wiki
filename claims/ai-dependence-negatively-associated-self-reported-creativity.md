@@ -43,6 +43,9 @@ Cross-sectional survey of 5764 Chinese university students; observed-variable pa
 ## Discussion
 
 
+## Learner Variables
+- [Creativity](../learner-variables/creativity.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Escape motivation carries a significant negative indirect association between AI dependence and self-reported creativity](escape-motivation-negative-indirect-pathway.md) — related
 - [Instrumental motivation shows a small negative indirect association in the moderated model, contrary to the hypothesized positive pathway, with sign reversal across model specifications](instrumental-motivation-sign-reversal-indirect-pathway.md) — related

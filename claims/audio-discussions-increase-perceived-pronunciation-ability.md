@@ -45,6 +45,7 @@ Wilcoxon signed-rank test on self-assessment forms from 36 consenting students i
 
 ## Learner Variables
 - [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
+- [Academic Self-Concept](../learner-variables/academic-self-concept.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Students reported significantly less difficulty with comprehensibility and accuracy of pronunciation between the first and final audio discussion activity](decreased-perceived-pronunciation-difficulty.md) — related
