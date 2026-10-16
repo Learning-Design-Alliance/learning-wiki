@@ -3,7 +3,7 @@ type: claim
 title: "Bulk negotiation with the Kahoot! provider reduced the per-teacher price from $149.99 to $44.60, saving the district over $25,000 on licenses"
 description: "Bulk negotiation with the Kahoot!"
 id: dps-kahoot-bulk-price-saving-25000
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

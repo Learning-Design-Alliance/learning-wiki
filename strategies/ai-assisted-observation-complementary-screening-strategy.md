@@ -3,7 +3,7 @@ type: strategy
 id: ai-assisted-observation-complementary-screening-strategy
 title: Deploy AI-assisted classroom observation as a complementary first-pass screening and reflection tool, with raters retaining interpretive judgment
 description: The article recommends positioning AI-assisted observation as a complement to, not a replacement for, trained human observers.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -61,4 +61,4 @@ The article recommends positioning AI-assisted observation as a complement to, n
 -
 
 ## Key Sources
-- Fong, Y., Xiang, J., Chan, T.-Y. D., Lee, K., & Lau, E. Y. H. (2026). I Code or AI Code: A Comparative Evaluation of AI-rated Scores in Classroom Observations. The Education University of Hong Kong. https://arxiv.org/abs/2609.18274
+- Fong, Y., Xiang, J., Chan, T.-Y. D., Lee, K., & Lau, E. Y. H. (2026). I Code or AI Code: A Comparative Evaluation of AI-rated Scores in Classroom Observations. The Education University of Hong Kong. https://arxiv.org/abs/2609.18274. [doi:10.48550/arxiv.2609.18274](https://doi.org/10.48550/arxiv.2609.18274)

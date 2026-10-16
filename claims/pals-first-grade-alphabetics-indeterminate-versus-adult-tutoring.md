@@ -3,7 +3,7 @@ type: claim
 title: For first-grade nonresponders, PALS showed no statistically significant effects on seven alphabetics outcomes compared with adult tutoring
 description: For first-grade nonresponders, PALS showed no statistically significant effects on seven alphabetics outcomes compared with adult tutoring
 id: pals-first-grade-alphabetics-indeterminate-versus-adult-tutoring
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

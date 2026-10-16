@@ -4,7 +4,7 @@ id: academiclaw
 title: AcademiClaw
 description: AcademiClaw is an 80-task bilingual benchmark dataset with rubrics and evaluation code for assessing OpenClaw AI agents on complex academic workflows, created by its article authors.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

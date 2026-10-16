@@ -3,7 +3,7 @@ type: claim
 title: "By 2023–24, CCSPP Cohort 1 community schools' math and ELA scores exceeded their prepandemic achievement levels, an outcome not observed in comparable non-CCSPP schools"
 description: "By 2023–24, CCSPP Cohort 1 community schools' math and ELA scores exceeded their prepandemic achievement levels, an outcome not observed in comparable non-CCSPP schools"
 id: ccspp-cohort1-exceeded-prepandemic
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

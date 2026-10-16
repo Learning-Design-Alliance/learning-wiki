@@ -3,7 +3,7 @@ type: claim
 title: READ 180 shows a modest average effect size of +0.08 across five studies, qualifying it for a Strong evidence rating
 description: READ 180 shows a modest average effect size of +0.08 across five studies, qualifying it for a Strong evidence rating
 id: read-180-average-effect-size-008
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

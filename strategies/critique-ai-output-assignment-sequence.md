@@ -3,7 +3,7 @@ type: strategy
 id: critique-ai-output-assignment-sequence
 title: Scaffolded critique-of-AI-output assignment sequence with paired verification of individual understanding
 description: "A strategy from the Evaluating & Fixing AI-Produced Work room in which the object of study is output the student did not write: students read, test, critique, debug, and repair AI-produced code."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

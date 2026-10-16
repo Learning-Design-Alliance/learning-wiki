@@ -3,7 +3,7 @@ type: claim
 title: Schools varied considerably in how much their absence rates increased after the pandemic, with some showing little or no change
 description: Schools varied considerably in how much their absence rates increased after the pandemic, with some showing little or no change
 id: schools-varied-in-absence-rate-increases
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

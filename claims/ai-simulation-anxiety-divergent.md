@@ -3,7 +3,7 @@ type: claim
 title: AI simulation induced higher state anxiety than standardized patient simulation in one RCT, while qualitative studies reported reduced anxiety
 description: AI simulation induced higher state anxiety than standardized patient simulation in one RCT, while qualitative studies reported reduced anxiety
 id: ai-simulation-anxiety-divergent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

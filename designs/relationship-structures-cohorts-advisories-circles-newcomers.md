@@ -3,7 +3,7 @@ type: design
 id: relationship-structures-cohorts-advisories-circles-newcomers
 title: Build trusting relationships through stable cohorts, advisories, restorative circles, and peer buddy structures
 description: "The report identifies relationships as the foundation of the school's learning culture, supported by concrete structures: each new student is paired with a buddy from a similar linguistic and cultural background, stud..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

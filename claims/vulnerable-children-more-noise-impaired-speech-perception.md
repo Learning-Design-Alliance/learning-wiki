@@ -3,7 +3,7 @@ type: claim
 title: Children with language or attention disorders and second-language learners are more impaired by noise in speech perception than age-matched controls
 description: Children with language or attention disorders and second-language learners are more impaired by noise in speech perception than age-matched controls
 id: vulnerable-children-more-noise-impaired-speech-perception
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

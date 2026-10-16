@@ -4,7 +4,7 @@ id: reference-implementation-of-the-classroom-feedback-mediation-layer
 title: Reference implementation of the classroom feedback mediation layer
 description: A lightweight GitHub-hosted demonstration implementation by Junsoo Park et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

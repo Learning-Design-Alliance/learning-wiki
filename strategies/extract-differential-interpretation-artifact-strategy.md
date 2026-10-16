@@ -3,7 +3,7 @@ type: strategy
 id: extract-differential-interpretation-artifact-strategy
 title: Use latent variable models to extract differential interpretation as a methodological artifact from measurement models
 description: This strategy uses certain latent variable models to separate a methodological artifact—differential interpretation of vague quantifiers—from measurement models that are intended to be purely substantive.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: The ICC and LDF methods identify substantially different sets of items as exhibiting DIF on a state science performance assessment
 description: The ICC and LDF methods identify substantially different sets of items as exhibiting DIF on a state science performance assessment
 id: icc-and-ldf-methods-identify-different-dif-items
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: The effect of context awareness on perceived task-completion support depends on the pedagogical guidance style it is paired with
 description: The effect of context awareness on perceived task-completion support depends on the pedagogical guidance style it is paired with
 id: context-effect-depends-on-guidance-style
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

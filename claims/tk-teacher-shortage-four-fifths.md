@@ -3,7 +3,7 @@ type: claim
 title: Approximately four fifths of LEAs reported not having enough qualified staff to teach TK
 description: Approximately four fifths of LEAs reported not having enough qualified staff to teach TK
 id: tk-teacher-shortage-four-fifths
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

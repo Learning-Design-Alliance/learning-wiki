@@ -3,7 +3,7 @@ type: claim
 title: Students unsure about their gender identity or sexual orientation fall between LGBTQ and non-LGBTQ peers on supports and well-being
 description: Students unsure about their gender identity or sexual orientation fall between LGBTQ and non-LGBTQ peers on supports and well-being
 id: not-sure-students-intermediate-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

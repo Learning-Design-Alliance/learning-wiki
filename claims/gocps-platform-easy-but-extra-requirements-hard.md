@@ -3,7 +3,7 @@ type: claim
 title: Students found the GoCPS application platform logistically easy to use, but applications to schools with additional requirements caused difficulties
 description: Students found the GoCPS application platform logistically easy to use, but applications to schools with additional requirements caused difficulties
 id: gocps-platform-easy-but-extra-requirements-hard
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Working with imperfect AI outputs under mentor supervision was followed by students developing skepticism and independent debugging skills
 description: Working with imperfect AI outputs under mentor supervision was followed by students developing skepticism and independent debugging skills
 id: ai-error-debugging-builds-student-skepticism
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

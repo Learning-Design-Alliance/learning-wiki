@@ -4,7 +4,7 @@ id: erwc
 title: ERWC
 description: "The Expository Reading and Writing Course is a curriculum and associated teacher professional-learning and coaching programme developed and implemented to support secondary students' expository reading and writing."
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

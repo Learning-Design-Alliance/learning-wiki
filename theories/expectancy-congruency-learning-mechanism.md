@@ -2,7 +2,7 @@
 type: theory
 title: Expectancy-congruency learning mechanism updating lexical representations from context fit
 description: "The chapter proposes that lexical organization is driven by an expectancy-congruency mechanism: the learner updates a word's lexical representation based on how well the current contents of memory match the informatio..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

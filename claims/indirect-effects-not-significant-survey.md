@@ -3,7 +3,7 @@ type: claim
 title: Hypothesized indirect effects from technology acceptance to engagement through reflective use, PSE, and the serial RU–PSE path are not significant (null result)
 description: Hypothesized indirect effects from technology acceptance to engagement through reflective use, PSE, and the serial RU–PSE path are not significant (null result)
 id: indirect-effects-not-significant-survey
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

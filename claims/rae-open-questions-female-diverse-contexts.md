@@ -3,7 +3,7 @@ type: claim
 title: RAE mechanisms and generalization to female and culturally diverse contexts remain unconfirmed research needs
 description: RAE mechanisms and generalization to female and culturally diverse contexts remain unconfirmed research needs
 id: rae-open-questions-female-diverse-contexts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

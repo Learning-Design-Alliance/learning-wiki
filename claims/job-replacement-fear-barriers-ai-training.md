@@ -3,7 +3,7 @@ type: claim
 title: Fear that AI will replace jobs creates significant barriers to workforce engagement in AI literacy training
 description: Fear that AI will replace jobs creates significant barriers to workforce engagement in AI literacy training
 id: job-replacement-fear-barriers-ai-training
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

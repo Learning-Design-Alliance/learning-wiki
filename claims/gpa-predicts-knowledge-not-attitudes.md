@@ -3,7 +3,7 @@ type: claim
 title: GPA predicts procedural knowledge and intellectual skills but not attitudes toward learning
 description: GPA predicts procedural knowledge and intellectual skills but not attitudes toward learning
 id: gpa-predicts-knowledge-not-attitudes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

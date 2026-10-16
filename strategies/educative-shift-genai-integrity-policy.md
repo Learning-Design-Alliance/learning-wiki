@@ -3,7 +3,7 @@ type: strategy
 id: educative-shift-genai-integrity-policy
 title: Shift from punitive detection to proactive educative approaches, co-created detailed guidelines, and assessment designs GenAI cannot do well
 description: The reviewed studies collectively call for higher education to move from reactive, punitive, top-down measures toward proactive, educative, student-centred approaches.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

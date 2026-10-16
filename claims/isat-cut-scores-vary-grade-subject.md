@@ -3,7 +3,7 @@ type: claim
 title: ISAT cut scores differ by grade and subject, with eighth-grade mathematics requiring a high score and eighth-grade reading a relatively low one to meet standards
 description: ISAT cut scores differ by grade and subject, with eighth-grade mathematics requiring a high score and eighth-grade reading a relatively low one to meet standards
 id: isat-cut-scores-vary-grade-subject
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

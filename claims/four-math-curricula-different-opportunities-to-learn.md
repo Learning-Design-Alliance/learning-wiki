@@ -3,7 +3,7 @@ type: claim
 title: A comparative documentary analysis of four US mathematics curricula found substantially different types of opportunities to learn across the curricula
 description: A comparative documentary analysis of four US mathematics curricula found substantially different types of opportunities to learn across the curricula
 id: four-math-curricula-different-opportunities-to-learn
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: element
 id: measures-description-checklist
 title: "Checklist 1: describing the study's measures"
 description: "The first of the brief's five checklists helps researchers \"provide complete information describing (1) their study's measures.\" It prompts authors to report what measures were used in a study so readers can understan..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: early-indicators-online-system-process-data
 title: Build early-warning indicators and leverage online-learning-system process data to support students before gaps widen in Grade 3
 description: The authors recommend creating indicators to alert educators to students needing different levels of support, especially for first graders starting below grade level, to minimize widening gaps before Grade 3.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "A single 30-minute session co-authoring math word problems with AMPT significantly increased students' sense of belonging in mathematics"
 description: "A single 30-minute session co-authoring math word problems with AMPT significantly increased students' sense of belonging in mathematics"
 id: ampt-session-increased-math-belonging
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

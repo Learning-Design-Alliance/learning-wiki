@@ -3,7 +3,7 @@ type: claim
 title: "JOBSTART's positive completion effect held across gender and parenthood subgroups, with the largest effect for women living with their own children"
 description: "JOBSTART's positive completion effect held across gender and parenthood subgroups, with the largest effect for women living with their own children"
 id: jobstart-completion-subgroup-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

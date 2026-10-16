@@ -3,7 +3,7 @@ type: claim
 title: Las transiciones en el aprendizaje de estudiantes y trabajadores de comunidades HSE son interseccionales, dinámicas y no lineales, con múltiples cambios simultáneos
 description: Las transiciones en el aprendizaje de estudiantes y trabajadores de comunidades HSE son interseccionales, dinámicas y no lineales, con múltiples cambios simultáneos
 id: transiciones-aprendizaje-interseccionales-no-lineales
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Reviewed GenAI literacy literature concentrates on knowledge and skills while equity and agency receive thin treatment
 description: Reviewed GenAI literacy literature concentrates on knowledge and skills while equity and agency receive thin treatment
 id: genai-literature-equity-agency-thin
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Forceful, assertive concern language was associated with fewer steps per day and lower moderate-intensity activity, while work-oriented language was positively associated with steps
 description: Forceful, assertive concern language was associated with fewer steps per day and lower moderate-intensity activity, while work-oriented language was positively associated with steps
 id: forceful-language-lower-activity-association
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

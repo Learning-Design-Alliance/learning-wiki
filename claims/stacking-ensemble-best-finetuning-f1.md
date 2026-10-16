@@ -3,7 +3,7 @@ type: claim
 title: A stacking ensemble of LG, SVM, NB, KNN and XGB achieved the best fine-tuning F1-score (0.88), outperforming individual models such as SVM (0.86)
 description: A stacking ensemble of LG, SVM, NB, KNN and XGB achieved the best fine-tuning F1-score (0.88), outperforming individual models such as SVM (0.86)
 id: stacking-ensemble-best-finetuning-f1
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

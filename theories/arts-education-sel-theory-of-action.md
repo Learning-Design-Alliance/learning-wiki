@@ -2,7 +2,7 @@
 type: theory
 title: "Theory of action: art practices carry social-emotional components that, cultivated over time, build social-emotional competencies"
 description: "The report's central framework holds that each large-scale art education process is composed of many small-scale art practices, and that each practice simultaneously contains a social-emotional component."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

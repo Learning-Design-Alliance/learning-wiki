@@ -3,7 +3,7 @@ type: claim
 title: DCMP has positive effects on progressing in developmental education, based on three studies meeting WWC standards
 description: DCMP has positive effects on progressing in developmental education, based on three studies meeting WWC standards
 id: dcmp-positive-effects-progressing-developmental-education
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

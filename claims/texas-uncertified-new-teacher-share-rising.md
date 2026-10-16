@@ -3,7 +3,7 @@ type: claim
 title: "The share of uncertified teachers among new Texas entrants rose from 16% in 2018–19 to 49% in 2023–24"
 description: "The share of uncertified teachers among new Texas entrants rose from 16% in 2018–19 to 49% in 2023–24"
 id: texas-uncertified-new-teacher-share-rising
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Most respondents found grant training useful, applied the information in their school, and shared it with others
 description: Most respondents found grant training useful, applied the information in their school, and shared it with others
 id: grant-training-useful-applied-shared
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

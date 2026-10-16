@@ -3,7 +3,7 @@ type: claim
 title: The effect on SAT math scores was positive but not statistically significant, though large enough to be substantively important (effect size at least 0.25)
 description: The effect on SAT math scores was positive but not statistically significant, though large enough to be substantively important (effect size at least 0.25)
 id: core-plus-sat-math-substantively-important
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

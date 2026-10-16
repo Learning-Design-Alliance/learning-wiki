@@ -3,7 +3,7 @@ type: claim
 title: "The article interprets Frequent Switchers' balanced AI-note coordination as achieving the best performance, with multiple pathways to adequate performance in CACI"
 description: "The article interprets Frequent Switchers' balanced AI-note coordination as achieving the best performance, with multiple pathways to adequate performance in CACI"
 id: frequent-switchers-best-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

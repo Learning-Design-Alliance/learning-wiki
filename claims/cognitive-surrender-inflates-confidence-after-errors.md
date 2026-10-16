@@ -3,7 +3,7 @@ type: claim
 title: AI assistance can inflate confidence even after errors and reduce accuracy when AI is faulty (cognitive surrender)
 description: AI assistance can inflate confidence even after errors and reduce accuracy when AI is faulty (cognitive surrender)
 id: cognitive-surrender-inflates-confidence-after-errors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -2,7 +2,7 @@
 type: theory
 title: A three-stage framework for promoting noticing through collaborative feedback tasks (pre-noticing, while-noticing, post-noticing)
 description: The article proposes a framework in which noticing in EFL writing is promoted through three sequenced, interrelated collaborative feedback task (CFT) stages.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

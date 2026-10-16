@@ -3,7 +3,7 @@ type: claim
 title: Only 12.9 percent of students without prior college experience graduated within five years, putting them at risk of credit expiration
 description: Only 12.9 percent of students without prior college experience graduated within five years, putting them at risk of credit expiration
 id: no-prior-experience-low-five-year-graduation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

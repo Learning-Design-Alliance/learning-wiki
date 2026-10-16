@@ -3,7 +3,7 @@ type: strategy
 id: document-context-and-measure-contrast
 title: Document the implementation context and measure the intervention-control contrast
 description: "The guide directs researchers to 'document the context in which the intervention is implemented' and to 'measure the difference between the intervention and what members of the control group receive'."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

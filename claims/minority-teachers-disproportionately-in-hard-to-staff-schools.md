@@ -3,7 +3,7 @@ type: claim
 title: Minority teachers are disproportionately employed in high-poverty, high-minority, urban public schools
 description: Minority teachers are disproportionately employed in high-poverty, high-minority, urban public schools
 id: minority-teachers-disproportionately-in-hard-to-staff-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

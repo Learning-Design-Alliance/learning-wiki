@@ -3,7 +3,7 @@ type: claim
 title: RPP workshops on concrete equity mechanisms influenced instructor practice within one term
 description: RPP workshops on concrete equity mechanisms influenced instructor practice within one term
 id: rpp-equity-workshops-influenced-instructor-practice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

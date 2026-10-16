@@ -4,7 +4,7 @@ id: nextgen-educators-program
 title: NextGen Educators Program
 description: A Connecticut educator-pipeline programme run through a partnership between the state education department and Central Connecticut State University that places teacher candidates in K–12 classrooms with professional mentors.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -2,7 +2,7 @@
 type: theory
 title: "360 Degree Global Education Model: a framework for interdisciplinary international service learning"
 description: The 360 Global Ed Model is an evolving education model for an international service-learning class that brings together a theoretical framework, educational environment, academic coursework, and evidence-based outcomes.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

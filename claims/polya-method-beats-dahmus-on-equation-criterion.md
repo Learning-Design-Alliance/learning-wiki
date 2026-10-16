@@ -3,7 +3,7 @@ type: claim
 title: Polya Method students outscore Dahmus Method students on the equation criterion for verbal problems
 description: Polya Method students outscore Dahmus Method students on the equation criterion for verbal problems
 id: polya-method-beats-dahmus-on-equation-criterion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

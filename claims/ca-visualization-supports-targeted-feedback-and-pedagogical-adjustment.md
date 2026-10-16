@@ -3,7 +3,7 @@ type: claim
 title: CA tool-based assessment and visualization of learning outcomes enables targeted feedback and evidence-based adjustment of pedagogical practices in higher education
 description: CA tool-based assessment and visualization of learning outcomes enables targeted feedback and evidence-based adjustment of pedagogical practices in higher education
 id: ca-visualization-supports-targeted-feedback-and-pedagogical-adjustment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

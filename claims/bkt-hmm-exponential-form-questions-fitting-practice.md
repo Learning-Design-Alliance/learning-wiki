@@ -3,7 +3,7 @@ type: claim
 title: The exponential functional form of the BKT HMM calls into question the popular practice of fitting that model form to student data
 description: The exponential functional form of the BKT HMM calls into question the popular practice of fitting that model form to student data
 id: bkt-hmm-exponential-form-questions-fitting-practice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

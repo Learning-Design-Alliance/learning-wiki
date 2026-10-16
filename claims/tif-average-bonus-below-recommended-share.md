@@ -3,7 +3,7 @@ type: claim
 title: "The average TIF bonus was about 4% of average teacher salary, below the 5% recommended by TIF grant guidance for substantial bonuses"
 description: "The average TIF bonus was about 4% of average teacher salary, below the 5% recommended by TIF grant guidance for substantial bonuses"
 id: tif-average-bonus-below-recommended-share
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

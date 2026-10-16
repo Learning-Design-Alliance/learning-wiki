@@ -3,7 +3,7 @@ type: claim
 title: Pre-policy, classroom average ability related positively to test scores but positively to failure, with effects strongest for high-ability students
 description: Pre-policy, classroom average ability related positively to test scores but positively to failure, with effects strongest for high-ability students
 id: pre-policy-composition-test-scores-failure-opposite
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

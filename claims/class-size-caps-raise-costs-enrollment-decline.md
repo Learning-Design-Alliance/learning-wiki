@@ -3,7 +3,7 @@ type: claim
 title: Strict class size caps raise per-student staffing costs as enrollment shrinks—a worked example shows a 44 percent cost increase when 1st grade enrollment falls from 75 to 52 students
 description: Strict class size caps raise per-student staffing costs as enrollment shrinks—a worked example shows a 44 percent cost increase when 1st grade enrollment falls from 75 to 52 students
 id: class-size-caps-raise-costs-enrollment-decline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

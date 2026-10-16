@@ -3,7 +3,7 @@ type: claim
 title: "GenAI models' grades differ significantly across models, with GPTo1 grading more leniently than Llama2, Mistral7B and Cohere"
 description: "GenAI models' grades differ significantly across models, with GPTo1 grading more leniently than Llama2, Mistral7B and Cohere"
 id: genai-grade-differences-wilcoxon
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

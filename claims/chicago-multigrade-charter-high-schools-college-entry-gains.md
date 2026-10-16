@@ -3,7 +3,7 @@ type: claim
 title: Chicago multi-grade charter high schools appear to increase the probability of enrolling in college
 description: Chicago multi-grade charter high schools appear to increase the probability of enrolling in college
 id: chicago-multigrade-charter-high-schools-college-entry-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

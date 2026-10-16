@@ -3,7 +3,7 @@ type: claim
 title: Rewarded SFT produces the most stable outputs among the SFT designs, nearly free of hallucinations and story-irrelevant material
 description: Rewarded SFT produces the most stable outputs among the SFT designs, nearly free of hallucinations and story-irrelevant material
 id: rewarded-sft-most-stable-outputs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

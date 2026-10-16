@@ -3,7 +3,7 @@ type: claim
 title: Placing a full cohort of 25 residents as co-teachers in one high-need elementary school coincided with schoolwide achievement gains in ELA and mathematics within one year.
 description: Placing a full cohort of 25 residents as co-teachers in one high-need elementary school coincided with schoolwide achievement gains in ELA and mathematics within one year.
 id: fresno-wishon-residency-cohort-achievement-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

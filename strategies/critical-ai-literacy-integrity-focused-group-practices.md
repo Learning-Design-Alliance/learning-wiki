@@ -3,7 +3,7 @@ type: strategy
 id: critical-ai-literacy-integrity-focused-group-practices
 title: "Cultivate learners' critical AI literacy and integrity-focused group practices for GenAI-supported group work"
 description: "The review frames responsible GenAI use in group work as a matter of academic integrity and collaborative accountability, urging that learners develop critical AI literacy and apply it through \"integrity-focused group..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

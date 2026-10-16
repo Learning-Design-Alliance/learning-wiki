@@ -3,7 +3,7 @@ type: claim
 title: NLTS 2012 is the third in a series of federally sponsored studies of youth with disabilities under IDEA
 description: NLTS 2012 is the third in a series of federally sponsored studies of youth with disabilities under IDEA
 id: nlts-2012-third-in-series-idea-youth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

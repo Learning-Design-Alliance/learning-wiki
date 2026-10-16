@@ -3,7 +3,7 @@ type: design
 id: five-sites-ai-policy-framework
 title: Five-sites framework of AI-use expectations in a course
 description: "The article proposes that for any given course, concepts of appropriate AI use for academic writing are housed in five distinct sites: faculty intention, formal policy, student interpretation, student self-policy, and..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11
@@ -47,4 +47,4 @@ The article proposes that for any given course, concepts of appropriate AI use f
 -
 
 ## Key Sources
-- Kim, Jiyoon; Toyama, Kentaro; Kim, Sangmi; Carroll, John. (2026). "It's OK Because...": The Wild West of Student Rationalization of AI Use in Academic Writing. https://arxiv.org/abs/2605.29090
+- Kim, Jiyoon; Toyama, Kentaro; Kim, Sangmi; Carroll, John. (2026). "It's OK Because...": The Wild West of Student Rationalization of AI Use in Academic Writing. https://arxiv.org/abs/2605.29090. [doi:10.48550/arxiv.2605.29090](https://doi.org/10.48550/arxiv.2605.29090)

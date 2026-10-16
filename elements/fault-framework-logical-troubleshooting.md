@@ -3,7 +3,7 @@ type: element
 id: fault-framework-logical-troubleshooting
 title: "FAULT: Framework for Aiding the Understanding of Logical Troubleshooting"
 description: "FAULT is the article's context-specific fault diagnosis simulation, named because \"an excellent acronym was FAULT which stands for Framework for Aiding the Understanding of Logical Troubleshooting.\" Subjects receive g..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

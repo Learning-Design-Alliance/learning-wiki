@@ -3,7 +3,7 @@ type: strategy
 id: compensated-worker-advisory-councils-co-design
 title: Establish formal, compensated worker advisory councils and co-design teams in skills-first system design
 description: "The report recommends establishing \"formal, compensated mechanisms (e.g., Worker Advisory Councils, co-design teams) to authentically integrate the lived experiences and insights of frontline workers, opportunity yout..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: behavior-social-skills-programs-strategy
 title: "Implement programs to improve students' classroom behavior and social skills"
 description: "The guide's fourth recommendation has students 'establish attainable academic and behavioral goals and be recognized when they accomplish them,' teaches strategies to strengthen problem-solving and decision-making ski..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

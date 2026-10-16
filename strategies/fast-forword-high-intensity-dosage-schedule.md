@@ -3,7 +3,7 @@ type: strategy
 id: fast-forword-high-intensity-dosage-schedule
 title: Implement Fast ForWord Language at high intensity over a compressed period (100 minutes a day for four to six weeks, or 50 minutes a day for 8 to 12 weeks)
 description: "The program prescribes intensive daily use: \"Intensity of the program ranges from 100 minutes a day for four to six weeks to 50 minutes a day for 8 to 12 weeks.\" In the reviewed studies, treatment groups used the prog..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

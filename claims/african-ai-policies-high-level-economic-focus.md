@@ -3,7 +3,7 @@ type: claim
 title: "African countries' AI policies are high-level and more focused on economic goals than on establishing specific regulatory requirements"
 description: "African countries' AI policies are high-level and more focused on economic goals than on establishing specific regulatory requirements"
 id: african-ai-policies-high-level-economic-focus
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

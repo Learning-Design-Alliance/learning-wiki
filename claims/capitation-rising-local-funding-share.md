@@ -3,7 +3,7 @@ type: claim
 title: Capitation-based special education finance was associated with a rising share of local funding
 description: Capitation-based special education finance was associated with a rising share of local funding
 id: capitation-rising-local-funding-share
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Prospective teachers can identify and script computational processes across all knowledge domains, including humanities and social sciences
 description: Prospective teachers can identify and script computational processes across all knowledge domains, including humanities and social sciences
 id: ct-process-scripts-feasible-across-fields
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -2,7 +2,7 @@
 type: theory
 title: Cognitive flexibility theory applied to early literacy acquisition
 description: "The article draws on Spiro, Vispoel, Schmitz, Samarapungavan, and Boerger's (1987) cognitive flexibility theory, which \"propose[s] that information from different knowledge sources is needed to construct meaning in a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

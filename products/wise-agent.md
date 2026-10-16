@@ -4,7 +4,7 @@ id: wise-agent
 title: WISE Agent
 description: WISE Agent (Writing Improvement and Smart Evaluation Agent) is an LLM-based writing-feedback tool developed by Qi Zhu et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

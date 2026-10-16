@@ -3,7 +3,7 @@ type: claim
 title: RAE effect size increases linearly with relative age differences
 description: RAE effect size increases linearly with relative age differences
 id: rae-effect-size-increases-with-relative-age-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

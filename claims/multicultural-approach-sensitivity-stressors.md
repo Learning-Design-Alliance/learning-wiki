@@ -3,7 +3,7 @@ type: claim
 title: Multicultural approach to education may increase cultural sensitivity and reduce race-related stressors (review attribution)
 description: Multicultural approach to education may increase cultural sensitivity and reduce race-related stressors (review attribution)
 id: multicultural-approach-sensitivity-stressors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

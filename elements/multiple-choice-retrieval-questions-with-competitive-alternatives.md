@@ -4,7 +4,7 @@ id: multiple-choice-retrieval-questions-with-competitive-alternatives
 title: Multiple-choice retrieval practice questions with competitive alternatives
 description: "A recognition-format retrieval practice item: a multiple-choice question whose incorrect options are competitive alternatives, intended to make recognition practice demand retrieval comparable to short-answer production."
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

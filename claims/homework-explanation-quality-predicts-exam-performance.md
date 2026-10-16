@@ -3,7 +3,7 @@ type: claim
 title: Homework explanations demonstrating understanding predict better isomorphic exam performance across all quartiles
 description: Homework explanations demonstrating understanding predict better isomorphic exam performance across all quartiles
 id: homework-explanation-quality-predicts-exam-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

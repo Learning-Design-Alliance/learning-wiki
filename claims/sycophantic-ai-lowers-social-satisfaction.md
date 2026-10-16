@@ -3,7 +3,7 @@ type: claim
 title: Sycophantic AI reduces satisfaction with real-world social interactions without reducing social time, via narrowing the perceived understanding gap between AI and humans
 description: Sycophantic AI reduces satisfaction with real-world social interactions without reducing social time, via narrowing the perceived understanding gap between AI and humans
 id: sycophantic-ai-lowers-social-satisfaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

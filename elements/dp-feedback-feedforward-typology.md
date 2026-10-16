@@ -3,7 +3,7 @@ type: element
 id: dp-feedback-feedforward-typology
 title: Feedback and feedforward typology for deliberate language practice
 description: "A core component of the framework is a differentiated account of feedback: depending on the learner's current task performance and linguistic proficiency, \"feedback can be affirmatory (used to confirm a desired action..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

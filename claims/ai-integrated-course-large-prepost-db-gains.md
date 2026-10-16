@@ -3,7 +3,7 @@ type: claim
 title: Students in the AI-integrated database course showed large, statistically significant pre/post gains on seven identical database assessment questions
 description: Students in the AI-integrated database course showed large, statistically significant pre/post gains on seven identical database assessment questions
 id: ai-integrated-course-large-prepost-db-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -18,8 +18,8 @@ sources:
     kind: design
     rigour: 2
   - id: hosseini-2026-2
-    resource: "https://arxiv.org/abs/2605.05472"
-    title: "Hosseini, H. (2026). The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking. https://arxiv.org/abs/2605.05472"
+    resource: "https://doi.org/10.48550/arxiv.2605.05472"
+    title: "Hosseini, H. (2026). The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking. https://arxiv.org/abs/2605.05472. [doi:10.48550/arxiv.2605.05472](https://doi.org/10.48550/arxiv.2605.05472)"
     author: Hosseini, H.
     q: 2
     i: 3
@@ -30,7 +30,7 @@ sources:
 # Students in the AI-integrated database course showed large, statistically significant pre/post gains on seven identical database assessment questions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2` · `i3` large
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i?` Pre/post assessment scores improved from a mean of 4.25 to 6.83 out of 7, a highly significant increase (t(12)≈5.10, p < .001) with a mean score increase of 2.58 points. [→ Hosseini 2026](#hosseini-2026)
@@ -50,7 +50,7 @@ Pre/post assessment in an asynchronous undergraduate database design course (n =
 
 ### Hosseini 2026 (2)
 
-Hosseini, H. (2026). The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking. https://arxiv.org/abs/2605.05472
+Hosseini, H. (2026). The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking. https://arxiv.org/abs/2605.05472. [doi:10.48550/arxiv.2605.05472](https://doi.org/10.48550/arxiv.2605.05472)
 
 `q2 · i3` · `design · r2`
 

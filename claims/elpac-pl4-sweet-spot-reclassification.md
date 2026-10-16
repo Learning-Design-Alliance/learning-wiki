@@ -3,7 +3,7 @@ type: claim
 title: "ELPAC overall Performance Level 4 is the most robust indicator that language is no longer the primary driver of academic achievement differences among California's reclassification criteria"
 description: "ELPAC overall Performance Level 4 is the most robust indicator that language is no longer the primary driver of academic achievement differences among California's reclassification criteria"
 id: elpac-pl4-sweet-spot-reclassification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

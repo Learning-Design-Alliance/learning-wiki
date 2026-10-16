@@ -3,7 +3,7 @@ type: strategy
 id: micro-units-conversational-analysis-strategy
 title: Break conversation into micro-units to study the structure of interaction
 description: "Goffman suggested studying conversational phenomena in \"micro-units,\" which the essay lists as naturally bounded units, basic interaction units, concrete units of interaction, natural units of social organization, and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

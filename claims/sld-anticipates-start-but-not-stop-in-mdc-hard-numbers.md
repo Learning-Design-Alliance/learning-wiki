@@ -3,7 +3,7 @@ type: claim
 title: A student with learning difficulties independently anticipated where to start a coordinated count but failed to anticipate where to stop the unit-rate count with harder numbers
 description: A student with learning difficulties independently anticipated where to start a coordinated count but failed to anticipate where to stop the unit-rate count with harder numbers
 id: sld-anticipates-start-but-not-stop-in-mdc-hard-numbers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

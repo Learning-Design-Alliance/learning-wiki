@@ -3,7 +3,7 @@ type: claim
 title: Geographical region significantly moderates AI literacy intervention effects, with Europe and East Asia outperforming North America
 description: Geographical region significantly moderates AI literacy intervention effects, with Europe and East Asia outperforming North America
 id: geographic-region-moderates-ai-literacy-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

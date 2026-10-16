@@ -3,7 +3,7 @@ type: strategy
 id: berthoff-style-variation-exercises
 title: Berthoff-style sentence and paragraph variation exercises to connect what students write with how they write it
 description: "The article describes classroom practices from Berthoff's Forming, Thinking, Writing that ask student writers to study, analyze, and construct multiple variations of sentences and paragraphs in order to recognize a go..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

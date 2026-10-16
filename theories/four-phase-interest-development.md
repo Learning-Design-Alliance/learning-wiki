@@ -3,7 +3,7 @@ type: theory
 title: Four-Phase Model of Interest Development
 description: Hidi and Renninger's model holds that interest develops in four phases, from a transient situational spark through to a stable, well-developed personal interest, with only some situational interest ever making that transition.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29
@@ -67,6 +67,6 @@ The model is widely cited but only partially validated: it has received limited 
 - Hidi, S. (2001). Interest, reading, and learning: Theoretical and practical considerations. *Educational Psychology Review, 13*(3), 191-209.
 - Hidi, S., & Renninger, K. A. (2006). The four-phase model of interest development. *Educational Psychologist, 41*(2), 111-127. [doi:10.1207/s15326985ep4102_4](https://doi.org/10.1207/s15326985ep4102_4)
 - Reynolds, R. E., & Symons, S. (2001). Text relevance and learning from text. In R. K. Sawyer (Ed.), *Handbook of the learning sciences*. Cambridge University Press.
-- Guthrie, J. T., Wigfield, A., & Humenick, N. M. (2006). Influences of stimulating tasks on reading motivation and comprehension. *The Journal of Educational Research, 99*(4), 232-246. [doi:10.3200/joer.99.4.232-246](https://doi.org/10.3200/joer.99.4.232-246)
+- Guthrie, J. T., Wigfield, A., Humenick, N. M., Perencevich, K. C., Taboada, A., & Barbosa, P. (2006). Influences of stimulating tasks on reading motivation and comprehension. *The Journal of Educational Research, 99*(4), 232–246. [doi:10.3200/joer.99.4.232-246](https://doi.org/10.3200/joer.99.4.232-246)
 - Sanchez, C. A., & Wiley, J. (2006). An examination of the seductive details effect in terms of working memory capacity. *Memory & Cognition, 34*(2), 344-355.
 - Arduini-Van Hoose, N. (2020). Interest as motivation. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

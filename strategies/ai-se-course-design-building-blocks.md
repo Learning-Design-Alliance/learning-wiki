@@ -3,7 +3,7 @@ type: strategy
 id: ai-se-course-design-building-blocks
 title: Design AI-assisted software engineering courses around AI-assisted projects, programming-intensive assignments, collaboration, evaluation and testing, and reflection on AI use
 description: "The article distills common building blocks for instructors designing AI-assisted software engineering courses: \"AI-assisted projects, programming-intensive assignments, collaborative development, evaluation and testi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

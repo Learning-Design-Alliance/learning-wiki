@@ -3,7 +3,7 @@ type: claim
 title: Attendance in pre-kindergarten and kindergarten is important for young learners
 description: Attendance in pre-kindergarten and kindergarten is important for young learners
 id: prek-kindergarten-attendance-importance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

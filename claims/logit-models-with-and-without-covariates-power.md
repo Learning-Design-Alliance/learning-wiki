@@ -3,7 +3,7 @@ type: claim
 title: The sample size approach handles logit models both with and without baseline covariates
 description: The sample size approach handles logit models both with and without baseline covariates
 id: logit-models-with-and-without-covariates-power
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

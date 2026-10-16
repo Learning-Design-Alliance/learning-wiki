@@ -3,7 +3,7 @@ type: claim
 title: A flexible hypertext course group averaged 76% on achievement tests against 59% for a direct-design group that studied different software, so the contrast confounds design with content
 description: A flexible hypertext course group averaged 76% on achievement tests against 59% for a direct-design group that studied different software, so the contrast confounds design with content
 id: cft-hypertext-design-higher-achievement-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

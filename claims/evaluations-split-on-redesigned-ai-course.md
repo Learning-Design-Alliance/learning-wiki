@@ -3,7 +3,7 @@ type: claim
 title: "Aggregate course evaluations moved modestly against the 2023 offering and written comments split, with a share of the cohort critiquing the instructor's own AI use"
 description: "Aggregate course evaluations moved modestly against the 2023 offering and written comments split, with a share of the cohort critiquing the instructor's own AI use"
 id: evaluations-split-on-redesigned-ai-course
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

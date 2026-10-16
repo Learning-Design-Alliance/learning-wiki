@@ -3,7 +3,7 @@ type: claim
 title: "LDA topic modeling of 242 LDT syntheses reveals eight thematic areas, with computational tools most prevalent (21.7%) and generative AI integration emerging (8.2%)"
 description: "LDA topic modeling of 242 LDT syntheses reveals eight thematic areas, with computational tools most prevalent (21.7%) and generative AI integration emerging (8.2%)"
 id: lda-eight-thematic-areas-ldt-syntheses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

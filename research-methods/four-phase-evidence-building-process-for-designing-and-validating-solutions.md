@@ -3,7 +3,7 @@ type: research-method
 id: four-phase-evidence-building-process-for-designing-and-validating-solutions
 title: Four-phase evidence-building process for designing and validating solutions
 description: "The checklist organizes evidence building into four sequential phases: Design the Solution (Phase 1), Refine the Solution (Phase 2), Assess for Early Evidence of Success (Phase 3), and Validate Effectiveness (Phase 4)."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

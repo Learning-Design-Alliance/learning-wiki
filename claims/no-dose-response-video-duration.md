@@ -3,7 +3,7 @@ type: claim
 title: "No dose-response effect: video benefits do not systematically increase with intervention length"
 description: "No dose-response effect: video benefits do not systematically increase with intervention length"
 id: no-dose-response-video-duration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

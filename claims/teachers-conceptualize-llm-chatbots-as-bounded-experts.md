@@ -3,7 +3,7 @@ type: claim
 title: Secondary teachers conceptualize LLM-powered chatbots as bounded experts operating under human supervision
 description: Secondary teachers conceptualize LLM-powered chatbots as bounded experts operating under human supervision
 id: teachers-conceptualize-llm-chatbots-as-bounded-experts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

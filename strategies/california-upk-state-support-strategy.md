@@ -3,7 +3,7 @@ type: strategy
 id: california-upk-state-support-strategy
 title: "State supports for UPK expansion: fund facilities and ratio implementation, update reimbursement rates, offer curriculum and assessment technical assistance, and expand professional development and inclusive-classroom supports"
 description: The report closes with a set of state-level actions to sustain UPK quality as TK expansion finishes.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

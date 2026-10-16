@@ -3,7 +3,7 @@ type: claim
 title: Schools with stronger Instructional Improvement Support Systems supported teacher improvement regardless of whether efforts originated from evaluation data or elsewhere
 description: Schools with stronger Instructional Improvement Support Systems supported teacher improvement regardless of whether efforts originated from evaluation data or elsewhere
 id: stronger-iiss-supports-improvement-regardless-of-origin
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

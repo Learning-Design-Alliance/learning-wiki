@@ -3,7 +3,7 @@ type: claim
 title: Participants report career transitions, certifications, networking gains, financial and social gains from tech-centered education and training programs
 description: Participants report career transitions, certifications, networking gains, financial and social gains from tech-centered education and training programs
 id: tech-program-accomplishments-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

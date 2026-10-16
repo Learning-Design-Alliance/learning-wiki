@@ -3,7 +3,7 @@ type: strategy
 id: routines-monitor-course-maps-unit-plans
 title: Use established routines such as course-map and unit-plan review cycles to monitor and sustain instructional work
 description: The schools used established and repeated activities to guide and sustain instructional improvement, setting common expectations, providing guidelines, and creating feedback mechanisms.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

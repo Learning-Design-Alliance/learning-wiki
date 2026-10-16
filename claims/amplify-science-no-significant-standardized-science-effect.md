@@ -3,7 +3,7 @@ type: claim
 title: Amplify Science intervention showed only a small, non-significant effect on a standardized science assessment distal to the NGSS (g = 0.09)
 description: Amplify Science intervention showed only a small, non-significant effect on a standardized science assessment distal to the NGSS (g = 0.09)
 id: amplify-science-no-significant-standardized-science-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

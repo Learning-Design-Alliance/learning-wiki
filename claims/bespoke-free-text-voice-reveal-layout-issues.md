@@ -3,7 +3,7 @@ type: claim
 title: Reviewer free-text comments identified synthetic voice, slide–narration reveal timing, and slide layout as the main remaining quality issues
 description: Reviewer free-text comments identified synthetic voice, slide–narration reveal timing, and slide layout as the main remaining quality issues
 id: bespoke-free-text-voice-reveal-layout-issues
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Applying skill theory to grammar conflates constructs: pedagogical rules are not what exists in learners' mental representation"
 description: "Applying skill theory to grammar conflates constructs: pedagogical rules are not what exists in learners' mental representation"
 id: grammar-as-skill-is-a-conflation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: The review reports that the isolated-elements mixed instructional method benefits novices but the benefit disappears for experienced learners, and that the imagination effect reverses with expertise
 description: The review reports that the isolated-elements mixed instructional method benefits novices but the benefit disappears for experienced learners, and that the imagination effect reverses with expertise
 id: expertise-reversal-isolated-elements-and-imagination-review
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
@@ -49,3 +49,5 @@ The review attributes this to Cooper, Tindall-Ford, Chandler, and Sweller (2001)
 -
 - Experiment 5 showed superior performance for learners who had previously studied isolated elements followed by interacting elements instruction, supporting expertise as the key factor in the technique's benefits — related
 - For novice learners of complex information, the isolated-interacting elements instructional method produces superior learning compared with conventional instruction presenting all interacting information throughout — related
+- [The expertise reversal effect relies on changes in relative levels of element interactivity due to changes in relative levels of expertise](expertise-reversal-changes-from-expertise-levels.md) — a broader claim this one bears on
+- [The relative effectiveness of instructional methods reverses as levels of learner knowledge in a domain change (the expertise reversal effect)](expertise-reversal-effect-definition.md) — a broader claim this one bears on

@@ -3,7 +3,7 @@ type: claim
 title: "A design-based study with 42 undergraduates reported a 15% improvement in rubric alignment and faster correction cycles from proactive agentic feedback loops"
 description: "A design-based study with 42 undergraduates reported a 15% improvement in rubric alignment and faster correction cycles from proactive agentic feedback loops"
 id: agentic-feedback-42-undergrads-rubric-alignment-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

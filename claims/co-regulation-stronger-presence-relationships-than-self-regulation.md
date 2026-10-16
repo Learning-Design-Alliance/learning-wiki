@@ -3,7 +3,7 @@ type: claim
 title: Co-regulation shows stronger relationships with the three CoI presences than self-regulation in an online case-based course
 description: Co-regulation shows stronger relationships with the three CoI presences than self-regulation in an online case-based course
 id: co-regulation-stronger-presence-relationships-than-self-regulation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

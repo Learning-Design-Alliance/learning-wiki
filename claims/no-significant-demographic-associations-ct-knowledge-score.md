@@ -3,7 +3,7 @@ type: claim
 title: CT-specific qualification, experience and workload were not significantly associated with high CT centring knowledge scores in the international sample
 description: CT-specific qualification, experience and workload were not significantly associated with high CT centring knowledge scores in the international sample
 id: no-significant-demographic-associations-ct-knowledge-score
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

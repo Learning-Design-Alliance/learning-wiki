@@ -4,7 +4,7 @@ id: production-based-learning-model
 title: Production-Based Learning Model
 description: A named vocational-education instructional framework developed by the article’s authors that organizes lessons around a nine-step production cycle for solving authentic product and troubleshooting problems.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

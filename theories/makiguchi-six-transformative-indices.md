@@ -3,7 +3,7 @@ type: theory
 id: makiguchi-six-transformative-indices
 title: Six transformative indices for evaluating value-creating education, from self-centeredness toward well-being in the greater social good
 description: Makiguchi delineates six transformative indices whereby the results of value-creating education can be evaluated.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

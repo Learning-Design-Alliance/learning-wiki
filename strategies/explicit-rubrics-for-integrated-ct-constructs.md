@@ -3,7 +3,7 @@ type: strategy
 id: explicit-rubrics-for-integrated-ct-constructs
 title: Design CT rubrics and prompts to explicitly operationalize integrated constructs and demand parameter-interaction reasoning
 description: Based on the finding that both humans and the LLM were least reliable on multi-component constructs, the authors recommend rubric and prompt revisions.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

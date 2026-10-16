@@ -3,7 +3,7 @@ type: strategy
 id: prioritize-autonomous-motivation-concept-focused-ai-support
 title: Prioritize autonomous motivation and scaffold concept-focused AI support tailored to learner trajectories rather than providing uniform access alone
 description: "The article's design recommendation is that integrating GenAI in higher education requires moving beyond simply giving every learner access to the same tool."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

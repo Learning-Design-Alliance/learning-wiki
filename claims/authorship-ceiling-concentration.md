@@ -3,7 +3,7 @@ type: claim
 title: Authorship scores were highly concentrated near the maximum of the rubric scale
 description: Authorship scores were highly concentrated near the maximum of the rubric scale
 id: authorship-ceiling-concentration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

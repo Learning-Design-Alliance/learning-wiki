@@ -3,7 +3,7 @@ type: claim
 title: The optimal interstudy interval increases as the retention interval increases
 description: The optimal interstudy interval increases as the retention interval increases
 id: optimal-isi-increases-with-retention-interval
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

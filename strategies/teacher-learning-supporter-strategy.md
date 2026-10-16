@@ -3,7 +3,7 @@ type: strategy
 id: teacher-learning-supporter-strategy
 title: Act as a learning supporter during multimedia production
 description: During multimedia production, the teacher provides good examples of products and research findings, offers alternatives for themes and methodologies, provides varied learning materials, prepares flexible open space an...
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

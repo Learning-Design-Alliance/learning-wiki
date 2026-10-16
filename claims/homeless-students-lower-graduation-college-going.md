@@ -3,7 +3,7 @@ type: claim
 title: "California students experiencing homelessness graduate at lower rates (69% vs. 83%) and enroll in college at lower rates (50% vs. 64%) than peers statewide"
 description: "California students experiencing homelessness graduate at lower rates (69% vs."
 id: homeless-students-lower-graduation-college-going
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

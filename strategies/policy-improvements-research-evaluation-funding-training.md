@@ -3,7 +3,7 @@ type: strategy
 id: policy-improvements-research-evaluation-funding-training
 title: Update research evaluation, funding, and training policies to address AI-driven changes in team assembly
 description: The article recommends that science policy adapt to the AI-driven shift toward younger, smaller, but highly impactful teams.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

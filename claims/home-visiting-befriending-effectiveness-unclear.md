@@ -3,7 +3,7 @@ type: claim
 title: The effectiveness of home visiting and befriending schemes for social isolation and loneliness among older people remains unclear
 description: The effectiveness of home visiting and befriending schemes for social isolation and loneliness among older people remains unclear
 id: home-visiting-befriending-effectiveness-unclear
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

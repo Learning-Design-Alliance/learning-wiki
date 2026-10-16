@@ -3,7 +3,7 @@ type: claim
 title: Reported outcomes of AI-supported university physics education are mixed and context-dependent, and the evidence does not support a conclusion that AI is uniformly effective
 description: Reported outcomes of AI-supported university physics education are mixed and context-dependent, and the evidence does not support a conclusion that AI is uniformly effective
 id: ai-physics-outcomes-mixed-context-dependent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

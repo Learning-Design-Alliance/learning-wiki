@@ -3,7 +3,7 @@ type: claim
 title: Implicit demographic conditioning inflates AES scores in some models, with Llama-70B scores rising 1.57 points over its own default, while GPT models remain stable
 description: Implicit demographic conditioning inflates AES scores in some models, with Llama-70B scores rising 1.57 points over its own default, while GPT models remain stable
 id: implicit-conditioning-inflates-aes-scores-llama-70b
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

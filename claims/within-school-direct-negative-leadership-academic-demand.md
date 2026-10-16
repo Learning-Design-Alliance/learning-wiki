@@ -3,7 +3,7 @@ type: claim
 title: Within schools, principal leadership shows a negative direct relationship with classroom academic demands net of mediating factors
 description: Within schools, principal leadership shows a negative direct relationship with classroom academic demands net of mediating factors
 id: within-school-direct-negative-leadership-academic-demand
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

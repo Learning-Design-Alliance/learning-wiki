@@ -3,7 +3,7 @@ type: claim
 title: People lose confidence more quickly in algorithms than in humans after seeing the same kind of mistakes
 description: People lose confidence more quickly in algorithms than in humans after seeing the same kind of mistakes
 id: faster-confidence-loss-algorithms-than-humans
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

@@ -4,7 +4,7 @@ id: reading-partners
 title: Reading Partners
 description: Reading Partners is a community-volunteer one-to-one tutoring programme run by Reading Partners, with staff and AmeriCorps members recruiting, training, and supporting tutors in school-based reading centers.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Parliamentary rules ban published evidence and omit cross examination, which the author argues undermines argumentation training
 description: Parliamentary rules ban published evidence and omit cross examination, which the author argues undermines argumentation training
 id: parliamentary-rules-ban-evidence-and-omit-cross-examination
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

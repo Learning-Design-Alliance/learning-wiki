@@ -3,7 +3,7 @@ type: design
 id: push-in-short-burst-personalized-tutoring
 title: Push-in short-burst tutoring with personalized dosage
 description: "The program's instructional pattern places tutors inside the regular classroom rather than pulling students out: tutors \"work with individual students in 5-10 minute increment sessions during blocks of reading instruc..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: strategy
 id: evaluate-ai-outputs-verify-override
 title: Support learners to evaluate AI outputs by verifying sources, reporting errors, and overriding recommendations
 description: "Under Encourage Evaluation of Emerging Technologies, the framework recommends providing \"opportunities to verify sources and cross-check information as well as opportunities for users to report errors or bias in gener..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

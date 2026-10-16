@@ -3,7 +3,7 @@ type: claim
 title: PN-RCTs arise when treatment students are clustered but control students receive the protocol individually
 description: PN-RCTs arise when treatment students are clustered but control students receive the protocol individually
 id: pn-rct-arises-from-clustered-treatment-individual-control
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

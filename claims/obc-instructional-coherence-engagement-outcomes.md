@@ -3,7 +3,7 @@ type: claim
 title: The OBC model enabled districts to better establish instructional coherence, support increased student engagement, and assess associated outcomes.
 description: The OBC model enabled districts to better establish instructional coherence, support increased student engagement, and assess associated outcomes.
 id: obc-instructional-coherence-engagement-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

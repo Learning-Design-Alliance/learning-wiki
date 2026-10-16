@@ -3,7 +3,7 @@ type: claim
 title: "Prior work has elucidated factors contributing to middle and high school students' perceptions, but less is known about elementary students' perceptions"
 description: "Prior work has elucidated factors contributing to middle and high school students' perceptions, but less is known about elementary students' perceptions"
 id: less-known-about-elementary-students-perceptions-of-teacher-interactions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

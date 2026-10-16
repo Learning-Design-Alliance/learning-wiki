@@ -3,7 +3,7 @@ type: claim
 title: Students of university-prepared Texas teachers gained 2.2 additional months of 9th-grade ELA learning and 1.8 additional months of 9th-grade math learning versus students of alternatively prepared teachers
 description: Students of university-prepared Texas teachers gained 2.2 additional months of 9th-grade ELA learning and 1.8 additional months of 9th-grade math learning versus students of alternatively prepared teachers
 id: university-prepared-teachers-higher-student-learning-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

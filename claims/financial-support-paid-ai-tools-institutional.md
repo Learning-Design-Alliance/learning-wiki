@@ -3,7 +3,7 @@ type: claim
 title: Over one-third of PGR participants emphasised financial support for paid AI tools as necessary institutional support for responsible GenAI use
 description: Over one-third of PGR participants emphasised financial support for paid AI tools as necessary institutional support for responsible GenAI use
 id: financial-support-paid-ai-tools-institutional
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

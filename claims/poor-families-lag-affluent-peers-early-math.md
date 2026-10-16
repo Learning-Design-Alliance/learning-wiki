@@ -3,7 +3,7 @@ type: claim
 title: Students from poor families lag behind more affluent peers in early elementary math performance
 description: Students from poor families lag behind more affluent peers in early elementary math performance
 id: poor-families-lag-affluent-peers-early-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

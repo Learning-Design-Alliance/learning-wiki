@@ -3,7 +3,7 @@ type: strategy
 id: multimedia-gloss-design-guidelines
 title: Guidelines for designing and deploying multimedia glosses in reading texts
 description: "The article enumerates guidelines for instructors, program developers and designers: train learners unaccustomed to multimedia glosses in the software; tailor gloss language to proficiency, using L1 glosses for learne..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

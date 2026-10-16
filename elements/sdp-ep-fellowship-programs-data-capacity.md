@@ -3,7 +3,7 @@ type: element
 id: sdp-ep-fellowship-programs-data-capacity
 title: Strategic Data Project and Education Pioneers fellowship programs placing data-skilled fellows in education agencies
 description: "The Gates Foundation invested in two programs, the Strategic Data Project (SDP) and Education Pioneers (EP), that \"seek to provide, train, and support staff (known as fellows) who can enhance the capacity of school di..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: restorative-discipline-ban-harmful-practices
 title: Adopt positive, restorative discipline approaches and ban harmful exclusionary practices
 description: "The brief recommends states influence district discipline by setting clear goals to reduce disparities and overuses in discipline, ensuring transparent data, and \"adopting more positive approaches to discipline, such..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

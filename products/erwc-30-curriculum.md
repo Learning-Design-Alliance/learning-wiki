@@ -4,7 +4,7 @@ id: erwc-30-curriculum
 title: ERWC 3.0 curriculum
 description: A California State University-developed college-preparatory English language arts curriculum comprising 67 selectable modules for grade 11–12 courses, with integrated reading, writing, discussion, English Language Development, and Universal Design for Learning features.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

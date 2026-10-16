@@ -3,7 +3,7 @@ type: claim
 title: NWEA reports positive recovery trends in K-2 academic recovery following the COVID pandemic
 description: NWEA reports positive recovery trends in K-2 academic recovery following the COVID pandemic
 id: k2-academic-recovery-positive-trends-post-covid
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: chatbot-collaborative-activity-support-strategies
 title: Support collaborative learning activities through sharing, problem-solving scaffolding, social regulation, and immediate feedback
 description: "This strategy covers the chatbot's pedagogical support during collaborative learning: promoting sharing via visualization tools and real-time shared workspaces; enhancing collaborative problem-solving with step-by-ste..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -45,6 +45,7 @@ This strategy covers the chatbot's pedagogical support during collaborative lear
 ## Related Strategies
 
 - [Support affective cohesion through positive atmosphere and empathy formation in chatbot dialogue](chatbot-affective-cohesion-positive-atmosphere-empathy.md)
+- [Teach AI through holistic, active, collaborative pedagogical strategies starting from real problem solving](active-real-problem-solving-ai-teaching.md)
 
 ## Examples
 -

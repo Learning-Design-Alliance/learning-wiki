@@ -3,7 +3,7 @@ type: claim
 title: CBE practices at the consortium colleges were identified through document review, site visits, and stakeholder interviews
 description: CBE practices at the consortium colleges were identified through document review, site visits, and stakeholder interviews
 id: cbe-practices-identified-via-review-visits-interviews
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

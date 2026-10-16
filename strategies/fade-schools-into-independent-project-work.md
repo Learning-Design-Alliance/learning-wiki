@@ -3,7 +3,7 @@ type: strategy
 id: fade-schools-into-independent-project-work
 title: Fade structured teaching sessions into independent project work over the semester
 description: The article schedules instruction so that guided teaching dominates early and independent project work dominates late.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

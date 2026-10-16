@@ -3,7 +3,7 @@ type: claim
 title: Physical Strain, reported by 120 participants, comprises visual fatigue and session exhaustion from reading and verifying AI outputs
 description: Physical Strain, reported by 120 participants, comprises visual fatigue and session exhaustion from reading and verifying AI outputs
 id: physical-strain-visual-fatigue-session-exhaustion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

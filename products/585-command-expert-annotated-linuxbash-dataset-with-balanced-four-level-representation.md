@@ -4,7 +4,7 @@ id: 585-command-expert-annotated-linuxbash-dataset-with-balanced-four-level-repr
 title: 585-command expert-annotated Linux/bash dataset with balanced four-level representation
 description: A dataset created by Alonso-Carracedo et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10
@@ -27,4 +27,4 @@ A dataset created by Alonso-Carracedo et al. containing 585 Linux/bash commands,
 -
 
 ## Key Sources
-- Alonso-Carracedo, M., Fernandez-Boullon, R., Celard, P., Rodríguez-Martínez, F. J., & Otero-Cerdeira, L. (2026). CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education. arXiv. https://arxiv.org/abs/2607.00140
+- Alonso-Carracedo, M., Fernandez-Boullon, R., Celard, P., Rodríguez-Martínez, F. J., & Otero-Cerdeira, L. (2026). CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education. arXiv. https://arxiv.org/abs/2607.00140. [doi:10.48550/arxiv.2607.00140](https://doi.org/10.48550/arxiv.2607.00140)

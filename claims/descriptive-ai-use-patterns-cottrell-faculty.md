@@ -3,7 +3,7 @@ type: claim
 title: Most surveyed faculty report some AI use, primarily chatbots, with research use exceeding teaching use
 description: Most surveyed faculty report some AI use, primarily chatbots, with research use exceeding teaching use
 id: descriptive-ai-use-patterns-cottrell-faculty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

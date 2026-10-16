@@ -4,7 +4,7 @@ title: "SDP and EP programs aim to enhance education agencies' data capacity thr
 description: "SDP and EP programs aim to enhance education agencies' data capacity through support, training, and staff placement"
 id: sdp-ep-aim-enhance-data-capacity
 aliases: [sdp-ep-staff-placement-capacity-theory-of-action]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

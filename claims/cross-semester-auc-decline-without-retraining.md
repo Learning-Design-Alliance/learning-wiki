@@ -3,7 +3,7 @@ type: claim
 title: "Random-forest models trained on a prior semester showed significantly lower AUC when tested on a new semester's data without retraining"
 description: "Random-forest models trained on a prior semester showed significantly lower AUC when tested on a new semester's data without retraining"
 id: cross-semester-auc-decline-without-retraining
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

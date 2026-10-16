@@ -3,7 +3,7 @@ type: claim
 title: The study is the first to examine whether PARCC assessments identify students who are ready for college
 description: The study is the first to examine whether PARCC assessments identify students who are ready for college
 id: first-study-parcc-college-readiness-goal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

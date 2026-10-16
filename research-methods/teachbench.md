@@ -3,7 +3,7 @@ type: research-method
 id: teachbench
 title: TeachBench
 description: TeachBench evaluates LLMs as teacher agents by having them conduct multi-turn instruction over structured knowledge points derived from an exam syllabus, with a fixed-capability student agent as a learner proxy.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -4,7 +4,7 @@ id: team-pennsylvania-foundation-teacher-and-principal-evaluation-pilot-project
 title: Team Pennsylvania Foundation teacher and principal evaluation pilot project
 description: A Team Pennsylvania Foundation statewide pilot that developed value-added estimates and informed the design of a comprehensive teacher and principal evaluation system in Pennsylvania.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

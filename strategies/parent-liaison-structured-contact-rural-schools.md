@@ -3,7 +3,7 @@ type: strategy
 id: parent-liaison-structured-contact-rural-schools
 title: SIG-funded parent liaisons paired with structured parent contact practices to increase family engagement
 description: A strategy in which rural SIG schools used SIG funds to hire or expand parent liaison positions and instituted structured outreach to families.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

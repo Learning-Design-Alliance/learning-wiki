@@ -3,7 +3,7 @@ type: claim
 title: Discourse on AI in education peaked sharply in 2023 with the rise of generative AI tools such as ChatGPT before declining in 2024
 description: Discourse on AI in education peaked sharply in 2023 with the rise of generative AI tools such as ChatGPT before declining in 2024
 id: aied-topic-peaked-2023-declined-2024
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -66,3 +66,4 @@ Numerical temporal trend analysis shown in Figure 4 of yearly topic volumes 2019
 - AIED 2024 shows educators as prominent stakeholders, with more papers in the middle of the end-user axis — related
 - Research on generative AI-powered agentic AI in education expanded rapidly from 2025 onward, with 58.6% of the 474 reviewed studies published in 2025 — related
 - Publication output on metacognition in STEM education increased steadily since 2005, with notable growth after 2015 — related
+- [The K-12 AI literacy literature grew slowly until 2016 and increased sharply in 2020, with most contributions published as conference papers](k12-ai-literacy-bibliometric-growth.md) — related

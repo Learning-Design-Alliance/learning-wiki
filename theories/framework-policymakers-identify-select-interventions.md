@@ -2,7 +2,7 @@
 type: theory
 title: Framework for policymakers to identify and select among candidate transition interventions
 description: "The report's organizing framework is \"designed to help policymakers identify and select an intervention across an array of potential programs and policies.\" It was used \"to assess the ideas proposed in these papers,\"..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

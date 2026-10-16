@@ -3,7 +3,7 @@ type: claim
 title: At the median cutoff, proactive and reactive tutoring show no significant difference in MAP growth, with proactive benefits increasing for students farther below the cutoff
 description: At the median cutoff, proactive and reactive tutoring show no significant difference in MAP growth, with proactive benefits increasing for students farther below the cutoff
 id: didc-cutoff-null-proactive-benefit-increases-below-cutoff
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

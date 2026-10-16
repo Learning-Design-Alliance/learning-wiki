@@ -3,7 +3,7 @@ type: claim
 title: A smaller percentage of classes in rural Utah districts were taught by highly qualified teachers than in non-rural districts, and rural teacher transfer-out rates were lower, from 2012 to 2017
 description: A smaller percentage of classes in rural Utah districts were taught by highly qualified teachers than in non-rural districts, and rural teacher transfer-out rates were lower, from 2012 to 2017
 id: utah-rural-teacher-qualification-turnover-patterns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

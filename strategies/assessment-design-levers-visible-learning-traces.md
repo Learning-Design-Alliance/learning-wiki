@@ -3,7 +3,7 @@ type: strategy
 id: assessment-design-levers-visible-learning-traces
 title: Assessment design levers that make learning visible and reduce the payoff from generic generated text
 description: "The article recommends concrete levers: staged submissions (proposal, outline, annotated bibliography, draft, final) that create a record of development; short oral or in-class verification with standardised prompts a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

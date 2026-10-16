@@ -3,7 +3,7 @@ type: claim
 title: Red Light, Purple Light shows uncertain effects on preschool language outcomes
 description: Red Light, Purple Light shows uncertain effects on preschool language outcomes
 id: red-light-purple-light-uncertain-language
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

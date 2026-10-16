@@ -3,7 +3,7 @@ type: strategy
 id: continuing-one-to-one-specialist-skill-transfer
 title: Establish continuing one-to-one specialist relationships so expert skills transfer to the tribe
 description: "A specific implementable recipe for skill transfer: the report recommends that \"Sound and capable individuals should be employed under technical assistance contracts to develop a continuing one-to-one rela- tionship w..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: research-method
 id: three-paradigms-of-ai-integration-in-education-ai-directed-ai-supported-and-ai-empowered
 title: "Three paradigms of AI integration in education: AI-directed, AI-supported, and AI-empowered"
 description: "The review adopts Ouyang and Jiao's (2021) framework, which \"frames the educational role of AI along three paradigms that reflect increasing levels of learner agency\": AI-directed (learner-as-receiver, rooted in behaviorism, with AI structuring content and giving prescriptive feedback), AI-supported"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

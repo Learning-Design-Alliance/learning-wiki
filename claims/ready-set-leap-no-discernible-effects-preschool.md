@@ -3,7 +3,7 @@ type: claim
 title: "Ready, Set, Leap!® shows no discernible effects on oral language, print knowledge, phonological processing, early reading/writing, or math in preschoolers"
 description: "Ready, Set, Leap!® shows no discernible effects on oral language, print knowledge, phonological processing, early reading/writing, or math in preschoolers"
 id: ready-set-leap-no-discernible-effects-preschool
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

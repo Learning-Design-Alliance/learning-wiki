@@ -3,7 +3,7 @@ type: claim
 title: Monetary incentives for accuracy improve answer correctness specifically when AI advice is available, by reducing reliance on that advice
 description: Monetary incentives for accuracy improve answer correctness specifically when AI advice is available, by reducing reliance on that advice
 id: stakes-improve-accuracy-specifically-with-ai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

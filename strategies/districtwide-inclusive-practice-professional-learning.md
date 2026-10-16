@@ -3,7 +3,7 @@ type: strategy
 id: districtwide-inclusive-practice-professional-learning
 title: Engage educators and classified staff districtwide in shared professional learning on welcoming, inclusive practices
 description: "LAUSD's CSI drove adoption of welcoming and inclusive classroom practices through professional development sessions reaching staff from nearly all district community schools, deliberately including classified (out-of-..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

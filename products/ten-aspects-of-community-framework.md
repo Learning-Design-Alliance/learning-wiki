@@ -4,7 +4,7 @@ id: ten-aspects-of-community-framework
 title: Ten Aspects of Community framework
 description: A Forum for Youth Investment framework that categorizes community features and assets affecting youth across ten domains.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

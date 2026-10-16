@@ -3,7 +3,7 @@ type: research-method
 id: embedded-experimental-designs-in-digital-learning-platforms
 title: Embedded experimental designs in digital learning platforms
 description: This pattern describes embedding interventions directly within platform infrastructure—modifying problem formats, feedback types, or visual scaffolds—and observing effects during authentic learning activities.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

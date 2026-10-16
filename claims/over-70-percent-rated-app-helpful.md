@@ -3,7 +3,7 @@ type: claim
 title: "Over 70% of participants in the field and station studies rated the app a 4 or 5 for supporting children's science learning"
 description: "Over 70% of participants in the field and station studies rated the app a 4 or 5 for supporting children's science learning"
 id: over-70-percent-rated-app-helpful
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

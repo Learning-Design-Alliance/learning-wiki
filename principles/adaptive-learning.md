@@ -35,7 +35,7 @@ sources:
 # Adaptive Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 55 claims (29 for, 22 mixed, 4 against) · 55 studies (22 causal, 13 review, 6 quant-synthesis, 6 design, 4 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 10 of 55 report an effect size · 48 claims rest on one study
+> **Evidence** · 56 claims (30 for, 22 mixed, 4 against) · 56 studies (22 causal, 14 review, 6 quant-synthesis, 6 design, 4 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 10 of 56 report an effect size · 49 claims rest on one study
 
 ## Conditional relationship
 
@@ -130,6 +130,7 @@ Re-read 2026-10-15: the claims below were read against the model above and do no
 - [Propdec Colinear With Student Intercept](../claims/propdec-colinear-with-student-intercept.md) [+M] — read 2026-10-15, bears only on how a learner model represents individual differences (model fit across datasets); no routing decision or learner outcome, so it does not test the diagnostic step.
 - [Kt Encoders Entity Isolated Deterministic Limits](../claims/kt-encoders-entity-isolated-deterministic-limits.md) [+W]
 - [Adaptive G Ukt Competitive Performance Sparse Regimes](../claims/adaptive-g-ukt-competitive-performance-sparse-regimes.md) [+M]
+- [Identifying learners' difficulties with visual displays is an important basis for selecting appropriate support procedures](../claims/learner-difficulties-basis-for-support-selection.md) [+M] — attached 2026-10-15 from Renkl et al. (2017), which proposed "Choose support procedures for visual displays based on knowledge of the difficulties learners have with them".
 
 ## Objective and learner-valued goal
 
@@ -209,7 +210,7 @@ Within-system performance, aligned achievement, standardised achievement, delaye
 ### Illustrative
 - **[Adaptive Difficulty](../elements/adaptive-difficulty.md)** — The core element: dynamically raising or lowering task difficulty based on performance signals such as accuracy, latency, and error patterns.
 - **[Adaptive Mastery Learning](../elements/adaptive-mastery-learning.md)** — Combines mastery criteria with adaptive routing so learners who fail an assessment are routed to remediation rather than the next unit.
-- **Duolingo** — Language-learning app that adapts item scheduling using a spaced-repetition and learner-error model, reinserting items the learner is predicted to forget.
+- **[Duolingo](../products/duolingo.md)** — Language-learning app that adapts item scheduling using a spaced-repetition and learner-error model, reinserting items the learner is predicted to forget.
 
 ## Key Sources
 - VanLehn, K. (2011). The relative effectiveness of human tutoring, intelligent tutoring systems, and other tutoring systems. *Educational Psychologist, 46*(4), 197-221. [doi:10.1080/00461520.2011.611369](https://doi.org/10.1080/00461520.2011.611369)

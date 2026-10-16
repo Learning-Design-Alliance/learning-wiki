@@ -3,7 +3,7 @@ type: strategy
 id: llm-feedback-design-tone-gaming-load
 title: Design LLM feedback systems to retain encouraging tone, constrain behavioral gaming, and reduce overwhelming cognitive load
 description: The article derives three design directions for future LLM-generated feedback systems in online higher education.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

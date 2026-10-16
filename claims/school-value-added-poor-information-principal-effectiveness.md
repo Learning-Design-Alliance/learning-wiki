@@ -3,7 +3,7 @@ type: claim
 title: "School value added provides very poor information for revealing principals' persistent levels of effectiveness"
 description: "School value added provides very poor information for revealing principals' persistent levels of effectiveness"
 id: school-value-added-poor-information-principal-effectiveness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

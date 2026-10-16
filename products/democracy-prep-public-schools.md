@@ -4,7 +4,7 @@ id: democracy-prep-public-schools
 title: Democracy Prep Public Schools
 description: A charter-school network operated by Democracy Prep that serves middle- and high-school students through a civic-education-focused school model intended to prepare them for effective citizenship.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

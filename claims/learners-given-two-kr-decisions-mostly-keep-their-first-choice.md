@@ -3,7 +3,7 @@ type: claim
 title: Learners allowed to make a knowledge-of-results decision before a trial and revise it after (Self-Both) mostly kept their original choice but sometimes changed it after seeing their own performance.
 description: Learners allowed to make a knowledge-of-results decision before a trial and revise it after (Self-Both) mostly kept their original choice but sometimes changed it after seeing their own performance.
 id: learners-given-two-kr-decisions-mostly-keep-their-first-choice
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

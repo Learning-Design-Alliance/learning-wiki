@@ -3,7 +3,7 @@ type: strategy
 id: offer-instructional-choices-engagement-agency
 title: Offer instructional choices to students to increase engagement and agency
 description: Recommendation 4 has teachers offer students instructional choices during learning activities.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: rigorous-experimental-studies-of-school-based-law-enforcement
 title: Strengthen the evidence base on school-based law enforcement through rigorous experimental studies, including random assignment designs
 description: "The brief recommends improving the quality of available evidence on school-based law enforcement's effectiveness, noting that the U.S."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

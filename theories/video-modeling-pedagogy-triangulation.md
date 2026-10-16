@@ -2,7 +2,7 @@
 type: theory
 title: "Video modeling pedagogy: progressively triangulating understanding by building dynamic particle models on video clips"
 description: "Video modeling pedagogy (attributed to Brown, 2007-2010) has students create simple dynamic particle models on a video clip, which the authors argue makes learning connected to real life and powerful because it \"provi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

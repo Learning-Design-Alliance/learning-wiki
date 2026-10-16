@@ -3,7 +3,7 @@ type: claim
 title: Greater amounts of participation in afterschool programs show little relation to academic, behavioral, or socio-emotional outcomes
 description: Greater amounts of participation in afterschool programs show little relation to academic, behavioral, or socio-emotional outcomes
 id: afterschool-dose-little-support-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

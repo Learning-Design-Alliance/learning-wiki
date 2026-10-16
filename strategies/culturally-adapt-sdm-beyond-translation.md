@@ -3,7 +3,7 @@ type: strategy
 id: culturally-adapt-sdm-beyond-translation
 title: Culturally adapt shared decision-making interventions by attending to language, communication style, relationship-building, fear, and visual design — beyond direct translation
 description: "The article recommends that culturally adapted shared decision-making interventions \"attend not only to language but also to communication style and relationship-building.\" Concretely, this means plain-language explan..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: In a paired exploratory comparison, extensive machine rewriting by a commercial humanizer materially degraded the manuscript while changing the detection score only slightly
 description: In a paired exploratory comparison, extensive machine rewriting by a commercial humanizer materially degraded the manuscript while changing the detection score only slightly
 id: humanizer-rewriting-small-score-change
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

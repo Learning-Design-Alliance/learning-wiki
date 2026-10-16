@@ -3,7 +3,7 @@ type: claim
 title: Former English Learners had higher Freshman OnTrack and graduation rates than the district average in Chicago Public Schools
 description: Former English Learners had higher Freshman OnTrack and graduation rates than the district average in Chicago Public Schools
 id: former-els-outperform-district-average-high-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

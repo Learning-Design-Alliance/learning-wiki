@@ -3,7 +3,7 @@ type: claim
 title: Schools with high suspension rates are less safe than schools with lower suspension rates serving similar students
 description: Schools with high suspension rates are less safe than schools with lower suspension rates serving similar students
 id: high-suspension-rates-less-safe
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

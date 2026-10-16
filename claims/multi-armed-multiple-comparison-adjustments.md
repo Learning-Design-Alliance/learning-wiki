@@ -3,7 +3,7 @@ type: claim
 title: Multiple comparison adjustments are needed when conducting hypothesis tests across pairwise contrasts to identify the most effective interventions
 description: Multiple comparison adjustments are needed when conducting hypothesis tests across pairwise contrasts to identify the most effective interventions
 id: multi-armed-multiple-comparison-adjustments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "A deployed reflection agent followed its prompt's countable rules but broke its dispositional rules about manner"
 description: "A deployed reflection agent followed its prompt's countable rules but broke its dispositional rules about manner"
 id: agent-followed-countable-not-dispositional-rules
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

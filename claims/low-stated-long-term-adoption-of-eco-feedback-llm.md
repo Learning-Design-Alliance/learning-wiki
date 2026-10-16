@@ -3,7 +3,7 @@ type: claim
 title: Most participants expressed reluctance to adopt an eco-feedback LLM for regular use, with nearly two-thirds reporting some degree of unwillingness
 description: Most participants expressed reluctance to adopt an eco-feedback LLM for regular use, with nearly two-thirds reporting some degree of unwillingness
 id: low-stated-long-term-adoption-of-eco-feedback-llm
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

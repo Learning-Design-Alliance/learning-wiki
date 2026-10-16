@@ -2,7 +2,7 @@
 type: theory
 title: Empirical Bayes shrinkage as a precision-based adjustment to teacher value-added estimates in accountability systems
 description: "The article describes empirical Bayes shrinkage as a procedure \"common in the implementation of teacher accountability systems\" that is used \"to adjust teacher value-added estimates by their level of precision.\" Estim..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

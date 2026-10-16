@@ -3,7 +3,7 @@ type: claim
 title: Edtech coaches significantly supported administrators by providing teacher PD and implementing LMS tools during closures
 description: Edtech coaches significantly supported administrators by providing teacher PD and implementing LMS tools during closures
 id: coach-support-to-administrators-closures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Simulated Human-in-the-Loop workflow reduces required full human scoring of written productions by at least 50%"
 description: "Simulated Human-in-the-Loop workflow reduces required full human scoring of written productions by at least 50%"
 id: hitl-workflow-reduces-human-scoring-workload-50-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

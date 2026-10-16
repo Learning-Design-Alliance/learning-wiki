@@ -3,7 +3,7 @@ type: strategy
 id: acoustic-finishes-and-mandatory-carpeting-specification
 title: Specify acoustic, durable finishes and mandatory carpeting in quiet and severe-disorder spaces
 description: The common-facilities section gives implementable material specifications, treating acoustics and maintenance as the major considerations when choosing finishes.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: Learning ability does not decline with age in healthy older adults
 description: Learning ability does not decline with age in healthy older adults
 id: learning-ability-does-not-decline-with-age
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

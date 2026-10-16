@@ -3,7 +3,7 @@ type: claim
 title: "A random assignment study examined how providing coaching and support to schools to help them use student data to inform teachers' instruction affects teachers' practices and student achievement"
 description: "A random assignment study examined how providing coaching and support to schools to help them use student data to inform teachers' instruction affects teachers' practices and student achievement"
 id: random-assignment-study-data-use-coaching-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

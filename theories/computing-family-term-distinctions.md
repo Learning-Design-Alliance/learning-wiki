@@ -2,7 +2,7 @@
 type: theory
 title: Distinguishing computing, computer science, computational thinking, and programming
 description: "The guide's primer distinguishes four related terms to demystify computational thinking for educators."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

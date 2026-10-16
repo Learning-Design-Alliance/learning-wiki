@@ -3,7 +3,7 @@ type: claim
 title: The Kauffman School evaluation used a matched comparison group design to estimate impacts on achievement, attendance, and suspensions
 description: The Kauffman School evaluation used a matched comparison group design to estimate impacts on achievement, attendance, and suspensions
 id: kauffman-school-matched-comparison-group-design
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

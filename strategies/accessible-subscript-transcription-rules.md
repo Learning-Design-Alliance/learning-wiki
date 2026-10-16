@@ -3,7 +3,7 @@ type: strategy
 id: accessible-subscript-transcription-rules
 title: "Accessible subscript transcription rules: math-code single elements, text-code multi-letter labels, unstack stacked subscripts"
 description: "The v6m system instructions encode subscript elements semantically: bare numbers, single symbols, and single letters are coded as math so a screen reader reads them separately, while multi-letter labels are coded as t..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -45,4 +45,4 @@ The v6m system instructions encode subscript elements semantically: bare numbers
 -
 
 ## Key Sources
-- Looney, C. W., & Duston, C. L. (2026). Using Gemini and LuaLaTeX to transcribe physics videos into PDF/UA-2 and ISO 32005 math-accessible PDFs. https://arxiv.org/abs/2608.20733
+- Looney, C. W., & Duston, C. L. (2026). Using Gemini and LuaLaTeX to transcribe physics videos into PDF/UA-2 and ISO 32005 math-accessible PDFs. https://arxiv.org/abs/2608.20733. [doi:10.48550/arxiv.2608.20733](https://doi.org/10.48550/arxiv.2608.20733)

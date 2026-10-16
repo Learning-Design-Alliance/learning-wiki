@@ -3,7 +3,7 @@ type: claim
 title: A specific civic education subject provides valuable knowledge but is insufficient on its own to develop civic competence
 description: A specific civic education subject provides valuable knowledge but is insufficient on its own to develop civic competence
 id: civic-subject-alone-insufficient
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

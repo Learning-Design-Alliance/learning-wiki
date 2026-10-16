@@ -3,7 +3,7 @@ type: claim
 title: Eight AI-driven factors positively influence learner satisfaction and engagement in online higher education
 description: Eight AI-driven factors positively influence learner satisfaction and engagement in online higher education
 id: eight-ai-factors-positive-engagement-satisfaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
@@ -50,3 +50,4 @@ Systematic review of 30 studies (2020–2025) identified via PRISMA screening of
 - [Interest in AI for feedback in higher education is driven by workload reduction and feedback timeliness amid massification](ai-feedback-interest-workload-timeliness.md) — related
 - [Pedagogical considerations and workload reduction potential are additional factors influencing teachers' acceptance of AI-EdTech, beyond trust](pedagogical-considerations-workload-reduction-acceptance-factors.md) — related
 - [BERTopic analysis of 1,048 AIOL publications identifies research themes including adaptive learning systems, sentiment analysis, and predictive analytics](bertopic-aiol-major-research-themes.md) — related
+- [Learners in fully online courses reported positive perceived usefulness and perceived ease of use of both a goal-setting chatbot and a learning buddy chatbot](chatbots-positive-usefulness-ease-of-use-online.md) — a narrower finding that bears on this claim

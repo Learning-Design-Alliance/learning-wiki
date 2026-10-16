@@ -3,7 +3,7 @@ type: element
 id: tpi-conceptual-map-artifact
 title: TPI conceptual map with associated resources, published online for navigation
 description: "The final TPI model is materialized as a conceptual map whose key concepts have the resources needed for the TPI procedure associated with them, \"with the ultimate aim of making it easier to understand the aforesaid p..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

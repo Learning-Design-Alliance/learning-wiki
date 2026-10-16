@@ -3,7 +3,7 @@ type: claim
 title: In Experiment 1, participants in both groups were significantly biased towards excessive reminder use relative to the optimal strategy
 description: In Experiment 1, participants in both groups were significantly biased towards excessive reminder use relative to the optimal strategy
 id: excessive-reminder-bias-both-groups-exp1
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -46,3 +46,5 @@ One-sample t-tests against zero reminder bias in Experiment 1 (N = 164). "both g
 - [In Experiment 1, lower confidence predicted greater offloading beyond objective performance in the no-feedback group, but not in the feedback group](confidence-predicts-offloading-no-feedback-only.md) — related
 - [In Experiment 1, a five-trial metacognitive prediction-plus-feedback intervention significantly reduced reminder bias, producing more optimal reminder-setting behaviour](metacognitive-feedback-reduces-reminder-bias.md) — related
 - [Individuals systematically overuse reminders relative to the optimal offloading level, and reminder bias correlates with confidence and metacognitive bias](reminder-bias-overuse-external-aids.md) — a broader claim this one bears on
+- [Older adults show reduced reminder bias relative to objective need despite setting more reminders](ageing-reminder-bias-reduced.md) — related
+- [Effort avoidance contributes to reminder overuse beyond metacognitive error](effort-avoidance-reminder-bias.md) — related

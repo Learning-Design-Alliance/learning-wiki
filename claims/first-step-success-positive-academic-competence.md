@@ -3,7 +3,7 @@ type: claim
 title: First Step to Success shows potentially positive effects on other academic performance (SSRS Academic Competence, effect size 0.32)
 description: First Step to Success shows potentially positive effects on other academic performance (SSRS Academic Competence, effect size 0.32)
 id: first-step-success-positive-academic-competence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

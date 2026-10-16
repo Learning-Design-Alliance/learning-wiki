@@ -3,7 +3,7 @@ type: claim
 title: Student generative AI use rose sharply while institutional support lagged, per a 2025 survey the article cites
 description: Student generative AI use rose sharply while institutional support lagged, per a 2025 survey the article cites
 id: student-genai-use-92-percent-institutional-support-lag
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

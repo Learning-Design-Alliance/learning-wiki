@@ -3,7 +3,7 @@ type: claim
 title: Students rate the Socratic + Full Context AI TA significantly lowest for perceived support of task completion
 description: Students rate the Socratic + Full Context AI TA significantly lowest for perceived support of task completion
 id: socratic-full-context-ai-ta-lowest-task-completion-rating
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

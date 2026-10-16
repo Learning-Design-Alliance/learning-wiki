@@ -3,7 +3,7 @@ type: claim
 title: Reflective methods carry inherent dangers of overanalysis and of becoming ends rather than means, and can go wrong
 description: Reflective methods carry inherent dangers of overanalysis and of becoming ends rather than means, and can go wrong
 id: reflective-methods-overanalysis-limits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: strategy
 id: chatbot-support-reinforces-effort-and-strategy
 title: Chatbot support should reinforce that learning ability develops through effort, strategy use, feedback, and reflection
 description: "Drawing on the Axis 5 (source of ability to learn) findings, the authors recommend that when students seek support, \"custom-built chatbots can be designed to recommend a different representation, prompt students to re..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

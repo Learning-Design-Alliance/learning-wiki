@@ -3,7 +3,7 @@ type: strategy
 id: self-assess-partnership-systems-change-strengths
 title: Use a place-based systems-change self-assessment across sectors
 description: The authors recommend that partnerships use this self-assessment to examine multi-sector collective efforts.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

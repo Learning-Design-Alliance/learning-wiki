@@ -3,7 +3,7 @@ type: claim
 title: Low engagement with assessment lowered grades at all levels of the 2007-08 Physics 1Y grade distribution
 description: Low engagement with assessment lowered grades at all levels of the 2007-08 Physics 1Y grade distribution
 id: absenteeism-lowers-grades-all-levels
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

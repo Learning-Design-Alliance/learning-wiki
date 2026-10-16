@@ -3,7 +3,7 @@ type: claim
 title: "Children's understanding of teaching predicts changes in literacy scores over time"
 description: "Children's understanding of teaching predicts changes in literacy scores over time"
 id: understanding-of-teaching-predicts-literacy-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

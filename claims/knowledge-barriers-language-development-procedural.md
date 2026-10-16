@@ -3,7 +3,7 @@ type: claim
 title: Limited teacher knowledge of language development and curriculum procedures was the third key implementation barrier
 description: Limited teacher knowledge of language development and curriculum procedures was the third key implementation barrier
 id: knowledge-barriers-language-development-procedural
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

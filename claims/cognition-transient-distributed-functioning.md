@@ -3,7 +3,7 @@ type: claim
 title: Cognition is a transient phenomenon created by the functioning of distributed components of the nervous system
 description: Cognition is a transient phenomenon created by the functioning of distributed components of the nervous system
 id: cognition-transient-distributed-functioning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

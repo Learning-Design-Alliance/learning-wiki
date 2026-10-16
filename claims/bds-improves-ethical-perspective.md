@@ -3,7 +3,7 @@ type: claim
 title: "Building Decision Skills plus service learning significantly improved twelfth-graders' ethical perspective relative to a no-character-education comparison"
 description: "Building Decision Skills plus service learning significantly improved twelfth-graders' ethical perspective relative to a no-character-education comparison"
 id: bds-improves-ethical-perspective
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

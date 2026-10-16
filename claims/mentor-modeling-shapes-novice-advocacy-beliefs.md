@@ -3,7 +3,7 @@ type: claim
 title: "Witnessing mentor teachers model advocacy actions shaped novice ESL teachers' advocacy beliefs and practices"
 description: "Witnessing mentor teachers model advocacy actions shaped novice ESL teachers' advocacy beliefs and practices"
 id: mentor-modeling-shapes-novice-advocacy-beliefs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Specialisation is strongly associated with sorting into higher-wage occupations but only weakly related to adaptive outcomes
 description: Specialisation is strongly associated with sorting into higher-wage occupations but only weakly related to adaptive outcomes
 id: specialisation-predicts-wage-sorting-not-adaptation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

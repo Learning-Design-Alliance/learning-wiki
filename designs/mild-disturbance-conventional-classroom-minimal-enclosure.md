@@ -3,7 +3,7 @@ type: design
 id: mild-disturbance-conventional-classroom-minimal-enclosure
 title: Mild-disturbance classrooms approach conventional classrooms with minimal enclosed space
 description: "At the mildest level the booklet reduces special provisions: \"In classrooms for mildly disturbed children there is less need for enclosed spaces such as quiet rooms and study carrels.\" Drawing 7 is fully open with no..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

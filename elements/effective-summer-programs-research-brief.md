@@ -3,7 +3,7 @@ type: element
 id: effective-summer-programs-research-brief
 title: Effective summer programs research brief for district leaders
 description: A research brief from NWEA Research, dated June 2024, that reviews research on summer programs and distills practical guidance.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

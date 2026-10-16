@@ -3,7 +3,7 @@ type: claim
 title: "Open ChatGPT support increases college students' final decision confidence relative to independent decision-making, and reflection attenuates the boost"
 description: "Open ChatGPT support increases college students' final decision confidence relative to independent decision-making, and reflection attenuates the boost"
 id: chatgpt-support-increases-final-confidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

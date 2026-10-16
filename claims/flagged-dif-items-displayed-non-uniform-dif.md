@@ -3,7 +3,7 @@ type: claim
 title: Items flagged as DIF in booklet comparisons displayed non-uniform DIF in their item characteristic curves
 description: Items flagged as DIF in booklet comparisons displayed non-uniform DIF in their item characteristic curves
 id: flagged-dif-items-displayed-non-uniform-dif
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

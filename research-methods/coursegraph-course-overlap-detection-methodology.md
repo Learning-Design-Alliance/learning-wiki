@@ -3,7 +3,7 @@ type: research-method
 id: coursegraph-course-overlap-detection-methodology
 title: CourseGraph course-overlap detection methodology
 description: CourseGraph is a four-step methodology for automatically assessing whether an external course overlaps with courses in a home curriculum.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

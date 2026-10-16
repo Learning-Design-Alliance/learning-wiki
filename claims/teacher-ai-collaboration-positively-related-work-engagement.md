@@ -3,7 +3,7 @@ type: claim
 title: "Teacher–AI collaboration is positively related to university teachers' work engagement"
 description: "Teacher–AI collaboration is positively related to university teachers' work engagement"
 id: teacher-ai-collaboration-positively-related-work-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

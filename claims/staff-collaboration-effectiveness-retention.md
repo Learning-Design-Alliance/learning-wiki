@@ -3,7 +3,7 @@ type: claim
 title: Schools where staff maintain strong relationships and collaborate frequently are more effective in supporting student learning and well-being, and collaboration and teacher leadership approaches contribute to staff retention
 description: Schools where staff maintain strong relationships and collaborate frequently are more effective in supporting student learning and well-being, and collaboration and teacher leadership approaches contribute to staff re...
 id: staff-collaboration-effectiveness-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

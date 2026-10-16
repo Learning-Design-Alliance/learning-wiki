@@ -3,7 +3,7 @@ type: strategy
 id: strategic-recommendations-ai-literacy-across-settings
 title: Four strategic recommendations for supporting AI literacy across settings
 description: "The briefs issue four strategic recommendations for leaders: \"Build AI literacy skills and competencies across all disciplines and audiences\"; \"Collaborate with community members to develop transparent and dynamic AI..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

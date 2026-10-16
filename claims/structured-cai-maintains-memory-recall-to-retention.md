@@ -3,7 +3,7 @@ type: claim
 title: Learners using structured CAI maintained their level of memory from recall to retention, while unstructured CAI learners did not
 description: Learners using structured CAI maintained their level of memory from recall to retention, while unstructured CAI learners did not
 id: structured-cai-maintains-memory-recall-to-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

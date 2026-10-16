@@ -3,7 +3,7 @@ type: claim
 title: Reading Apprenticeship® shows uncertain effects on life sciences achievement in one study
 description: Reading Apprenticeship® shows uncertain effects on life sciences achievement in one study
 id: reading-apprenticeship-uncertain-life-sciences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

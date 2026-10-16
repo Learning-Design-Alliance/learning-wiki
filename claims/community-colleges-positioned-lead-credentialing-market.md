@@ -3,7 +3,7 @@ type: claim
 title: Community colleges are well positioned to lead the emerging credentialing market for three stated reasons
 description: Community colleges are well positioned to lead the emerging credentialing market for three stated reasons
 id: community-colleges-positioned-lead-credentialing-market
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

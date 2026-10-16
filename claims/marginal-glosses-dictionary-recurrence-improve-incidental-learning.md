@@ -3,7 +3,7 @@ type: claim
 title: Marginal glosses, dictionary use, and repeated occurrence of unknown words each positively affect incidental vocabulary learning
 description: Marginal glosses, dictionary use, and repeated occurrence of unknown words each positively affect incidental vocabulary learning
 id: marginal-glosses-dictionary-recurrence-improve-incidental-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -49,3 +49,4 @@ Hulstijn et al.'s (1996) empirical study randomly assigned 78 advanced universit
 - [Reading with marginal glosses is the most beneficial task condition for incidental vocabulary acquisition gains](marginal-glosses-most-beneficial-task.md) — related
 - [L2 learners pick up vocabulary incidentally from meaning-focused input, with reading the most-studied mode and listening yielding similar proportions of words learned](incidental-vocabulary-learning-through-reading-for-meaning.md) — a broader claim this one bears on
 - [Task-essentialness and productive use of new words in goal-directed activity may positively affect vocabulary learning and retention](task-essentialness-goal-directed-vocabulary-retention.md) — related
+- [Incidental vocabulary learning through viewing TV was affected by frequency of occurrence, prior vocabulary knowledge, and cognateness](viewing-vocabulary-learning-affected-by-frequency-prior-knowledge-cognateness.md) — related

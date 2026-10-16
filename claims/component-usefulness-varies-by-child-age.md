@@ -3,7 +3,7 @@ type: claim
 title: "The usefulness of app components varied by child's age: conversation starters were too advanced for some younger children but helpful for older children"
 description: "The usefulness of app components varied by child's age: conversation starters were too advanced for some younger children but helpful for older children"
 id: component-usefulness-varies-by-child-age
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

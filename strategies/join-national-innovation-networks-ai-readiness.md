@@ -3,7 +3,7 @@ type: strategy
 id: join-national-innovation-networks-ai-readiness
 title: Join national innovation networks and build internal leadership academies to advance responsible district AI adoption
 description: "The report describes how Orcutt Union School District joined Digital Promise's League of Innovative Schools and created an internal AI Leadership Academy of classroom teachers and Teachers on Special Assignment to ope..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

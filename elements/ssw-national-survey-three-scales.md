@@ -3,7 +3,7 @@ type: element
 id: ssw-national-survey-three-scales
 title: National survey of school social workers with three reliability-tested scales
 description: An anonymous online Qualtrics survey administered to a national sample of school social workers between November 2019 and June 2020 (N = 517), with 11 open-ended questions yielding 1,738 comments.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

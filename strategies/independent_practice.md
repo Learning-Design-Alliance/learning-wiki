@@ -76,7 +76,7 @@ Independent practice consolidates what guided instruction established, but its e
 ## Examples
 - **[Reflex](https://www.explorelearning.com/reflex/)** — game-based math fact practice that adapts item selection to individual fluency gaps and schedules review of facts on the verge of forgetting.
 - **[Khan Academy](https://www.khanacademy.org)** — independent problem sets with hints and mastery tracking; the mastery system spaces skill review across sessions.
-- **Duolingo** — spaced-repetition scheduling of vocabulary review, resurfacing items as they approach forgetting thresholds.
+- **[Duolingo](../products/duolingo.md)** — spaced-repetition scheduling of vocabulary review, resurfacing items as they approach forgetting thresholds.
 - **Daily review openers in Direct Instruction programs** (e.g., *Reading Mastery*) — each lesson begins with independent retrieval of previously taught content before new material.
 
 ## Key Sources

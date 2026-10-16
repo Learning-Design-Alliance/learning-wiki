@@ -3,7 +3,7 @@ type: claim
 title: "Bootstrap stability of LoRA gains is not uniform: the ROUGE-1 confidence interval crossed zero at 7B-r4, so that increase is a trend rather than a stable improvement"
 description: "Bootstrap stability of LoRA gains is not uniform: the ROUGE-1 confidence interval crossed zero at 7B-r4, so that increase is a trend rather than a stable improvement"
 id: bootstrap-stability-lora-gains-7b-r4-rouge1
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

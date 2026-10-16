@@ -3,7 +3,7 @@ type: claim
 title: Guided written reflection yields more analytic and integrative paragraphs than free reflection in service learning
 description: Guided written reflection yields more analytic and integrative paragraphs than free reflection in service learning
 id: guided-reflection-yields-more-higher-order-paragraphs-than-free
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: One year after the intervention, Reading Mastery showed a statistically significant effect on word attack for English language learners, with positive but non-significant differences on other reading measures
 description: One year after the intervention, Reading Mastery showed a statistically significant effect on word attack for English language learners, with positive but non-significant differences on other reading measures
 id: reading-mastery-followup-word-attack-significant-ell
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

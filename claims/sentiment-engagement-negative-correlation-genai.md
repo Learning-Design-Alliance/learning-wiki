@@ -3,7 +3,7 @@ type: claim
 title: Sentiment is strongly negatively correlated with community engagement across GenAI education themes (ρ=−0.72)
 description: Sentiment is strongly negatively correlated with community engagement across GenAI education themes (ρ=−0.72)
 id: sentiment-engagement-negative-correlation-genai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "LLMs struggle most with Chemistry riddles, with best EM accuracy at or below 75% versus above 90% in other subjects"
 description: "LLMs struggle most with Chemistry riddles, with best EM accuracy at or below 75% versus above 90% in other subjects"
 id: llms-struggle-most-chemistry-nsmq-riddles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

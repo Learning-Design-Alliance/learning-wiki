@@ -3,7 +3,7 @@ type: claim
 title: The dashboard primarily focuses on grades 3 through 8 because remote and in-person MAP Growth results are largely comparable for grades 3 and up
 description: The dashboard primarily focuses on grades 3 through 8 because remote and in-person MAP Growth results are largely comparable for grades 3 and up
 id: grades-3-8-focus-remote-testing-comparability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Hispanic adults preferred clear, friendly, direct, and nonjudgmental communication for lung cancer screening shared decision-making
 description: Hispanic adults preferred clear, friendly, direct, and nonjudgmental communication for lung cancer screening shared decision-making
 id: hispanic-adults-prefer-clear-friendly-sdm-communication
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

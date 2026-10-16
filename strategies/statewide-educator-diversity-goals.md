@@ -3,7 +3,7 @@ type: strategy
 id: statewide-educator-diversity-goals
 title: Set clear numeric educator-diversity goals at the state, district, and teacher preparation levels with public progress reporting
 description: "The second policy lever is to \"Create statewide goals to strengthen the teacher workforce\" that districts can align with and report progress against, while encouraging educator preparation programs to set recruitment..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

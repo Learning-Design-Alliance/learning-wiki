@@ -3,7 +3,7 @@ type: claim
 title: Classroom-relativized delayed start shows stronger predictive power and model fit than raw minutes, especially for ELA outcomes
 description: Classroom-relativized delayed start shows stronger predictive power and model fit than raw minutes, especially for ELA outcomes
 id: relative-delayed-start-stronger-fit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Localizing word-problem character names improved MATHia performance only for specific subgroup-majority schools, with no improvement in sense of belonging overall
 description: Localizing word-problem character names improved MATHia performance only for specific subgroup-majority schools, with no improvement in sense of belonging overall
 id: localized-names-personalization-subgroup-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

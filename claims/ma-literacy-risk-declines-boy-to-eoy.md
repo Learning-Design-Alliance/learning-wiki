@@ -3,7 +3,7 @@ type: claim
 title: The percentage of Massachusetts K–3 students identified as significantly below benchmark decreased from 36 percent at BOY to 29 percent at EOY in 2022/23
 description: The percentage of Massachusetts K–3 students identified as significantly below benchmark decreased from 36 percent at BOY to 29 percent at EOY in 2022/23
 id: ma-literacy-risk-declines-boy-to-eoy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

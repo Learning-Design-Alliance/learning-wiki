@@ -3,7 +3,7 @@ type: claim
 title: Microblogging and mobile blogging promote target-language interaction, cultural understanding, and a sense of community among language learners
 description: Microblogging and mobile blogging promote target-language interaction, cultural understanding, and a sense of community among language learners
 id: microblogging-promotes-interaction-community-language-learners
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

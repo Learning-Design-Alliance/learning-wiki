@@ -3,7 +3,7 @@ type: strategy
 id: creative-listening-combination-springboard
 title: Use existing class combinations as springboards for creative self-listening studies
 description: The article recommends devoting a small but consistent period of technique class to the creative voice by using locomotor or culminating center-floor combinations as springboards.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -47,4 +47,4 @@ The article recommends devoting a small but consistent period of technique class
 -
 
 ## Key Sources
-- Enghauser, R. (2007). Developing Listening Bodies in the Dance Technique Class. JOPERD, 78(6). https://eric.ed.gov/?id=EJ795590
+- Enghauser, R. (2007). Developing Listening Bodies in the Dance Technique Class. JOPERD, 78(6). https://eric.ed.gov/?id=EJ795590. [doi:10.1080/07303084.2007.10598039](https://doi.org/10.1080/07303084.2007.10598039)

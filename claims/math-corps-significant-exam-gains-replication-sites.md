@@ -3,7 +3,7 @@ type: claim
 title: Math Corps students made large and statistically significant gains on the Math Corps exam between the start and end of camp in all three replication sites
 description: Math Corps students made large and statistically significant gains on the Math Corps exam between the start and end of camp in all three replication sites
 id: math-corps-significant-exam-gains-replication-sites
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: element
 id: tpi-student-followup-instruments
 title: "Student follow-up instruments: initial card, follow-up card, and work diary"
 description: "The TPI procedure includes three follow-up instruments developed \"in the form of a 'card'\" to support monitoring of the trainee researcher."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

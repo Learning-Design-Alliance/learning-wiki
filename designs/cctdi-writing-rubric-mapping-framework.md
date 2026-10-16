@@ -3,7 +3,7 @@ type: design
 id: cctdi-writing-rubric-mapping-framework
 title: CCTDI-to-writing-rubric mapping framework linking critical thinking dispositions to writing performance indicators
 description: The study establishes a conceptual mapping between the California Critical Thinking Disposition Inventory (CCTDI) framework and a customized writing rubric, so that cognitive dispositions are measured through writing...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: A program-wide standard online course template heightens teaching presence and supports learner intentions in accelerated online courses
 description: A program-wide standard online course template heightens teaching presence and supports learner intentions in accelerated online courses
 id: course-template-supports-learner-presence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

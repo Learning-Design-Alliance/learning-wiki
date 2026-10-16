@@ -3,7 +3,7 @@ type: claim
 title: Principals most commonly cited time for teacher planning, difficulty removing poor teachers, community social problems, apathetic parents, test-score pressure, and problem students as roadblocks
 description: Principals most commonly cited time for teacher planning, difficulty removing poor teachers, community social problems, apathetic parents, test-score pressure, and problem students as roadblocks
 id: principals-roadblocks-to-school-improvement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

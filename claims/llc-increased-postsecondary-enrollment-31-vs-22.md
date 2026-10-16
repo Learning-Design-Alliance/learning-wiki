@@ -3,7 +3,7 @@ type: claim
 title: "LLC increased postsecondary education enrollment: 31 percent of participants enrolled versus 22 percent of the control group"
 description: "LLC increased postsecondary education enrollment: 31 percent of participants enrolled versus 22 percent of the control group"
 id: llc-increased-postsecondary-enrollment-31-vs-22
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: The admission-probability effect of contact is increasing in applicant SAT score, particularly when contact is costly
 description: The admission-probability effect of contact is increasing in applicant SAT score, particularly when contact is costly
 id: contact-effect-increasing-in-sat-score
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

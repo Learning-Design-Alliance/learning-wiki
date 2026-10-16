@@ -3,7 +3,7 @@ type: claim
 title: "Three factors influenced adoption of the SST agenda tool: lack of guided practice, inconsistent routines, and value not visible to teachers"
 description: "Three factors influenced adoption of the SST agenda tool: lack of guided practice, inconsistent routines, and value not visible to teachers"
 id: three-factors-sst-tool-adoption
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

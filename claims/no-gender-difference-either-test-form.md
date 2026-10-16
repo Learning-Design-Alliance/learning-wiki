@@ -3,7 +3,7 @@ type: claim
 title: No significant gender difference in word-problem performance on either formatted or unformatted test forms
 description: No significant gender difference in word-problem performance on either formatted or unformatted test forms
 id: no-gender-difference-either-test-form
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Effects of inclusion are heterogeneous and single-factor subgroup moderator analyses were inconclusive
 description: Effects of inclusion are heterogeneous and single-factor subgroup moderator analyses were inconclusive
 id: inclusion-effects-heterogeneous-moderator-analyses-inconclusive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -48,3 +48,4 @@ Across the review's random effects meta-analyses, the authors report "a moderate
 - [Individually analyzed method and approach studies show widely varying effects, with analogy-enhanced teaching rated most effective and two studies insignificant](method-approach-effect-sizes-vary-analogy-largest.md) — related
 - [Inclusion in general is very unlikely to increase or decrease learning and psychosocial adjustment of children with special needs](inclusion-general-no-increase-or-decrease-learning-psychosocial.md) — related
 - [The review planned meta‐analytic synthesis but could not use it because only one study met the inclusion criteria](planned-meta-analysis-unavailable-single-study.md) — related
+- [Meta-analysis offers additional strengths of increased statistical power, moderator analyses, and model testing](meta-analysis-strengths-power-moderators-model-testing.md) — a broader claim this one bears on

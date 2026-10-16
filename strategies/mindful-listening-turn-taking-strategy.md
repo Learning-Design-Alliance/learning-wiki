@@ -3,7 +3,7 @@ type: strategy
 id: mindful-listening-turn-taking-strategy
 title: Use mindful listening turn-taking to build communication and constructive feedback between students
 description: The brief describes integrating mindful listening into the curriculum for elementary and secondary students.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

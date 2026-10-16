@@ -3,7 +3,7 @@ type: element
 id: actsat-test-preparation-coaching-programs-element
 title: ACT/SAT test preparation and coaching programs (test preparation programs)
 description: Test preparation or coaching programs for the SAT and ACT, created by test developers, educational organizations, and businesses, that generally (a) familiarize students with the format of the test; (b) introduce gene...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

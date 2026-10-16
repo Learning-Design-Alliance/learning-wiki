@@ -3,7 +3,7 @@ type: claim
 title: Participants held an unresolved epistemological dissensus over whether frequency-based encoding can represent qualitative meaning, ranging from skepticism to enthusiasm
 description: Participants held an unresolved epistemological dissensus over whether frequency-based encoding can represent qualitative meaning, ranging from skepticism to enthusiasm
 id: epistemological-dissensus-frequency-encoding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

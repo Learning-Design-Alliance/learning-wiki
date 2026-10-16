@@ -3,7 +3,7 @@ type: element
 id: preschool-math-development-checklists
 title: Developmental checklists for one-to-one correspondence, classification, and seriation as teacher assessment and curriculum-planning tools
 description: Three appended checklists (Appendices I–III) trace staged development of matching and one-to-one correspondence, sets and classification, and order and seriation, with dated observation columns (Sept.–Oct., Dec.–Jan.,...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
@@ -48,7 +48,7 @@ Three appended checklists (Appendices I–III) trace staged development of match
 ## Related Elements
 
 - [Selected-Response Assessment Items](selected-response-assessment-items.md)
-- [Building Blocks preschool mathematics curriculum](../products/building-blocks.md)
+- [Building Blocks preschool mathematics curriculum](../products/building-blocks-for-math.md)
 
 ## Examples
 

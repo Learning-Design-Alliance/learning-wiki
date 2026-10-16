@@ -3,7 +3,7 @@ type: claim
 title: Unregistered apprenticeship programs had positive, statistically significant impacts on ninth-quarter employment, ranging from 3.9 to 4.8 percentage points
 description: Unregistered apprenticeship programs had positive, statistically significant impacts on ninth-quarter employment, ranging from 3.9 to 4.8 percentage points
 id: unregistered-apprenticeship-ninth-quarter-employment-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: element
 id: evidence-synthesis-education-scoping-review-protocol
 title: Registered scoping review protocol on evidence synthesis education for pharmacy students
 description: "A protocol for a scoping review registered in the Open Science Framework (registration DOI:10.17605/OSF.IO/ZQVGY), designed per PRISMA-P and to be reported per PRISMA-ScR."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

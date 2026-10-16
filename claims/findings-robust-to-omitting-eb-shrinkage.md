@@ -3,7 +3,7 @@ type: claim
 title: Findings on the distribution of highest-performing teachers are robust to omitting empirical Bayes shrinkage of the value-added estimates
 description: Findings on the distribution of highest-performing teachers are robust to omitting empirical Bayes shrinkage of the value-added estimates
 id: findings-robust-to-omitting-eb-shrinkage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

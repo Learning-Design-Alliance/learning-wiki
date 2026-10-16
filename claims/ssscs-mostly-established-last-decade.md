@@ -3,7 +3,7 @@ type: claim
 title: "Most state school safety centers are recent: 62% were established between 2010 and 2020"
 description: "Most state school safety centers are recent: 62% were established between 2010 and 2020"
 id: ssscs-mostly-established-last-decade
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

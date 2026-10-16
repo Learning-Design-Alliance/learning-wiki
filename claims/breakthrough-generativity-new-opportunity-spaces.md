@@ -3,7 +3,7 @@ type: claim
 title: "Generativity: breakthroughs enable follow-on innovations, adaptation, and scaling through recombination"
 description: "Generativity: breakthroughs enable follow-on innovations, adaptation, and scaling through recombination"
 id: breakthrough-generativity-new-opportunity-spaces
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

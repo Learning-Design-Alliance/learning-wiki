@@ -3,7 +3,7 @@ type: claim
 title: Unfunded pension debt diverts state spending from current students, reaching roughly $16,000 per student in California, $10,000 in Texas, and $15,500 in Florida
 description: Unfunded pension debt diverts state spending from current students, reaching roughly $16,000 per student in California, $10,000 in Texas, and $15,500 in Florida
 id: pension-debt-per-student-ca-tx-fl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

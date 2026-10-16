@@ -3,7 +3,7 @@ type: claim
 title: When classes are sorted by skill level, low-skilled students are at higher risk of being in disruptive classrooms, weakening their instructional environment
 description: When classes are sorted by skill level, low-skilled students are at higher risk of being in disruptive classrooms, weakening their instructional environment
 id: sorting-puts-low-skilled-in-disruptive-classrooms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

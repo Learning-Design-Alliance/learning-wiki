@@ -3,7 +3,7 @@ type: claim
 title: Enhanced discovery learning produces greater learning than other forms of instruction
 description: Enhanced discovery learning produces greater learning than other forms of instruction
 id: enhanced-discovery-beats-other-instruction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

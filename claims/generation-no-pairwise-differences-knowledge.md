@@ -3,7 +3,7 @@ type: claim
 title: Bonferroni-corrected pairwise comparisons show no significant generation-versus-baseline differences at any test point for Knowledge scores
 description: Bonferroni-corrected pairwise comparisons show no significant generation-versus-baseline differences at any test point for Knowledge scores
 id: generation-no-pairwise-differences-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

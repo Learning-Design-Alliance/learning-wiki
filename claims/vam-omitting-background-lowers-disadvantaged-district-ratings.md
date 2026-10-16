@@ -3,7 +3,7 @@ type: claim
 title: Teachers in districts with large fractions of disadvantaged students receive lower value-added ratings when student background characteristics are omitted
 description: Teachers in districts with large fractions of disadvantaged students receive lower value-added ratings when student background characteristics are omitted
 id: vam-omitting-background-lowers-disadvantaged-district-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

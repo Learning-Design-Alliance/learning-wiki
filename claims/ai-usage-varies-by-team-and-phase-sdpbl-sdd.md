@@ -3,7 +3,7 @@ type: claim
 title: In SDPBL with SDD introduced, AI usage varies greatly by team and phase, with all teams using AI in Implementation and Debugging but large team differences in Investigation and Planning
 description: In SDPBL with SDD introduced, AI usage varies greatly by team and phase, with all teams using AI in Implementation and Debugging but large team differences in Investigation and Planning
 id: ai-usage-varies-by-team-and-phase-sdpbl-sdd
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

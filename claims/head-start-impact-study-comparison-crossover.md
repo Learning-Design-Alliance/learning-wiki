@@ -3,7 +3,7 @@ type: claim
 title: "Substantial crossover occurred in the Head Start impact study comparison group, with 17.3% of the 3-year-old and 13.9% of the 4-year-old comparison groups enrolling in non-study Head Start programs"
 description: "Substantial crossover occurred in the Head Start impact study comparison group, with 17.3% of the 3-year-old and 13.9% of the 4-year-old comparison groups enrolling in non-study Head Start programs"
 id: head-start-impact-study-comparison-crossover
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

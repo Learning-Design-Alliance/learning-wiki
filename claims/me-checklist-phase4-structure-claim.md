@@ -3,7 +3,7 @@ type: claim
 title: "The M&E Checklist structures validation as stakeholder-collaborative evidence building culminating in a large pilot study"
 description: "The M&E Checklist structures validation as stakeholder-collaborative evidence building culminating in a large pilot study"
 id: me-checklist-phase4-structure-claim
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

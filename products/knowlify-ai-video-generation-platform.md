@@ -4,7 +4,7 @@ id: knowlify-ai-video-generation-platform
 title: Knowlify AI video generation platform
 description: Knowlify is an AI video-generation platform that creates editable explainer videos from natural-language prompts and source documents.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

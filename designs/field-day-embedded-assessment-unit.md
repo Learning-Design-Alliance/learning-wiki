@@ -3,7 +3,7 @@ type: design
 id: field-day-embedded-assessment-unit
 title: Authentic project unit (Field Day) with embedded assessment tasks mapped to critical objectives
 description: The Type 3 assessment is organized as a project unit (a class Field Day, including a cookie-selling sub-project) whose everyday activities double as assessment occasions.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

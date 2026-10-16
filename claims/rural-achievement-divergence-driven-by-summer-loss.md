@@ -3,7 +3,7 @@ type: claim
 title: The rural–nonrural achievement divergence is driven by larger summer losses for rural students
 description: The rural–nonrural achievement divergence is driven by larger summer losses for rural students
 id: rural-achievement-divergence-driven-by-summer-loss
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

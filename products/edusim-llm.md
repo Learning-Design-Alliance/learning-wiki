@@ -4,7 +4,7 @@ id: edusim-llm
 title: EduSim-LLM
 description: EduSim-LLM is a zero-coding educational robotics platform developed by Shenqi Lu et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

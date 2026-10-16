@@ -3,7 +3,7 @@ type: claim
 title: Four distinct LLM learner profiles emerge from latent class analysis of learning contexts, tasks, and devices
 description: Four distinct LLM learner profiles emerge from latent class analysis of learning contexts, tasks, and devices
 id: four-llm-learner-profiles-lca
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

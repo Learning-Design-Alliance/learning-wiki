@@ -3,7 +3,7 @@ type: claim
 title: In the first assessment stage, peer group and ChatGPT-4o feedback showed no significant difference in quality
 description: In the first assessment stage, peer group and ChatGPT-4o feedback showed no significant difference in quality
 id: stage1-no-significant-difference-peer-ai-feedback-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -46,3 +46,4 @@ Mixed methods study comparing 13 undergraduate peer groups (39 students) with Ch
 - [In the second assessment stage, ChatGPT-4o feedback was significantly higher than peer group feedback in constructiveness, accuracy and concreteness](stage2-chatgpt-feedback-higher-constructiveness-accuracy-concreteness.md) — related
 - [Students perceived peer group feedback as contextually rich but sometimes subjective, and ChatGPT-4o feedback as more objective and well structured but occasionally lacking contextual sensitivity](student-perceptions-human-contextual-ai-objective-structured.md) — related
 - [GPT-4o-mini natural language feedback was overwhelmingly helpful and never harmful in quality annotation](nl-feedback-quality-92-percent-helpful.md) — related
+- [Undergraduates learning IoT tasks in VR with ChatGPT-integrated feedback reached significantly higher cognitive levels on memory, understanding, and application tasks than peers receiving traditional VR feedback](gpt-feedback-vr-higher-cognitive-levels.md) — related

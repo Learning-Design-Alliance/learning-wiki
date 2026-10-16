@@ -3,7 +3,7 @@ type: claim
 title: "Belongingness is among the factors that most strongly and reliably affect learners' academic motivation and achievement"
 description: "Belongingness is among the factors that most strongly and reliably affect learners' academic motivation and achievement"
 id: belongingness-strongly-affects-motivation-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

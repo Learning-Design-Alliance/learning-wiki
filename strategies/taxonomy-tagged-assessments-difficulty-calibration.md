@@ -3,7 +3,7 @@ type: strategy
 id: taxonomy-tagged-assessments-difficulty-calibration
 title: Tag assessments with explicit taxonomy levels to analyse whether exam difficulty distribution matches instructional intent
 description: The article recommends that assessments carry explicit taxonomy-level tags so instructors can calibrate examination difficulty and construct parallel versions using explicit criteria rather than subjective judgment.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -44,4 +44,4 @@ The article recommends that assessments carry explicit taxonomy-level tags so in
 -
 
 ## Key Sources
-- Alonso-Carracedo, M., Fernandez-Boullon, R., Celard, P., Rodríguez-Martínez, F. J., & Otero-Cerdeira, L. (2026). CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education. arXiv. https://arxiv.org/abs/2607.00140
+- Alonso-Carracedo, M., Fernandez-Boullon, R., Celard, P., Rodríguez-Martínez, F. J., & Otero-Cerdeira, L. (2026). CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education. arXiv. https://arxiv.org/abs/2607.00140. [doi:10.48550/arxiv.2607.00140](https://doi.org/10.48550/arxiv.2607.00140)

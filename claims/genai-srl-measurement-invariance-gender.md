@@ -3,7 +3,7 @@ type: claim
 title: The GenAI-SRL scale achieves measurement invariance across gender groups at metric and scalar levels
 description: The GenAI-SRL scale achieves measurement invariance across gender groups at metric and scalar levels
 id: genai-srl-measurement-invariance-gender
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: element
 id: nine-talk-moves-four-goals
 title: Nine talk moves addressing four goals for productive discussion
 description: The primer describes talk moves as specific, adaptable prompts and actions such as wait time and hand signaling that teachers use to guide discussion flow, encourage participation, and promote deeper reasoning.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

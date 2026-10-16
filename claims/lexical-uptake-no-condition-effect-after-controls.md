@@ -3,7 +3,7 @@ type: claim
 title: Lexical adoption shows no significant condition effect after controlling for input volume, but AI-first participants adopted more words at the second dialogue position
 description: Lexical adoption shows no significant condition effect after controlling for input volume, but AI-first participants adopted more words at the second dialogue position
 id: lexical-uptake-no-condition-effect-after-controls
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

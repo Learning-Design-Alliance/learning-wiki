@@ -3,7 +3,7 @@ type: claim
 title: LLMs use fewer extreme grades than human examiners, with grade-dependent opposing biases compressing grades toward the middle
 description: LLMs use fewer extreme grades than human examiners, with grade-dependent opposing biases compressing grades toward the middle
 id: llm-central-tendency-grade-compression
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

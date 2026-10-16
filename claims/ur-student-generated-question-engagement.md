@@ -3,7 +3,7 @@ type: claim
 title: Students who generate their own research question are apt to be more invested and more engaged
 description: Students who generate their own research question are apt to be more invested and more engaged
 id: ur-student-generated-question-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

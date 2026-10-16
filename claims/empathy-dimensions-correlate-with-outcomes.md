@@ -3,7 +3,7 @@ type: claim
 title: LLM-annotated empathy dimensions correlate positively with intention to follow, self-efficacy, and chatbot usefulness despite participants not preferring empathetic chatbots
 description: LLM-annotated empathy dimensions correlate positively with intention to follow, self-efficacy, and chatbot usefulness despite participants not preferring empathetic chatbots
 id: empathy-dimensions-correlate-with-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

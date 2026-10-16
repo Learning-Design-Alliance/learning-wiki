@@ -67,9 +67,9 @@ Cross-age tutoring is one of the most consistently supported peer-learning forma
 - [Peer tutoring reading strategy instruction with tutor selection, tutor training, and reading scenarios](peer-tutoring-reading-strategy-instruction-steps.md)
 
 ## Examples
-- **Reading Partners** (https://readingpartners.org) — a structured cross-age and volunteer tutoring program in which trained tutors deliver scripted, evidence-based reading sessions to elementary students; rigorous evaluations show significant gains in reading proficiency.
+- **[Reading Partners](../products/reading-partners.md)** (https://readingpartners.org) — a structured cross-age and volunteer tutoring program in which trained tutors deliver scripted, evidence-based reading sessions to elementary students; rigorous evaluations show significant gains in reading proficiency.
 - **Cross-age reading buddies** — a common elementary practice where upper-grade students read with early-grade students, building fluency for the younger reader and expression/motivation for the older one.
-- **Number Rockets** (IES/NCII early-numeracy intervention) — small-group tutoring with structured practice routines illustrating how scripted materials support less-experienced tutors.
+- **[Number Rockets](../products/number-rockets.md)** (IES/NCII early-numeracy intervention) — small-group tutoring with structured practice routines illustrating how scripted materials support less-experienced tutors.
 
 ## Key Sources
 - Cohen, P. A., Kulik, J. A., & Kulik, C.-L. C. (1982). Educational outcomes of tutoring: A meta-analysis of findings. *American Educational Research Journal, 19*(2), 237–248. [doi:10.3102/00028312019002237](https://doi.org/10.3102/00028312019002237)

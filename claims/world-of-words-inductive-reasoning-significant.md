@@ -3,7 +3,7 @@ type: claim
 title: World of Words produced a statistically significant medium-to-large effect on a researcher-developed vocabulary inductive reasoning test (effect size 0.66)
 description: World of Words produced a statistically significant medium-to-large effect on a researcher-developed vocabulary inductive reasoning test (effect size 0.66)
 id: world-of-words-inductive-reasoning-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
@@ -45,3 +45,4 @@ Cluster randomized controlled trial (meets WWC standards without reservations) o
 - [World of Words showed no statistically significant effects on the Woodcock-Johnson Picture Vocabulary Subtest or the PPVT-IV](world-of-words-null-standardized-vocabulary-measures.md) — related
 - [World of Words produced a statistically significant medium effect on expressive vocabulary (Expressive One-Word Picture Vocabulary Test, 4th Edition; effect size 0.43) in a scaled-up 12-site study](world-of-words-expressive-vocabulary-significant.md) — related
 - [World of Words produced a large, statistically significant effect on taught-word sorting performance (effect size 0.94) in a two-site Head Start study](world-of-words-sorting-task-large-effect.md) — related
+- [The intervention produced significant effects on researcher-developed measures of vocabulary depth but not vocabulary breadth](intervention-vocabulary-depth-significant-breadth-not.md) — related

@@ -3,7 +3,7 @@ type: research-method
 id: architecturally-enforced-novice-like-student-simulation
 title: Architecturally enforced novice-like student simulation
 description: "The article's central design recommendation is that realistic synthetic student behavior cannot be elicited from preference-tuned LLMs by persona prompting or context injection alone; it requires architectural enforcement."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

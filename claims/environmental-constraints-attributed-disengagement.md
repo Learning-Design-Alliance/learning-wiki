@@ -3,7 +3,7 @@ type: claim
 title: Interviewed teachers attributed disengagement to technical, institutional, and social-relational environmental constraints rather than capability deficits
 description: Interviewed teachers attributed disengagement to technical, institutional, and social-relational environmental constraints rather than capability deficits
 id: environmental-constraints-attributed-disengagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

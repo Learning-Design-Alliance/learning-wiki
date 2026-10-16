@@ -3,7 +3,7 @@ type: claim
 title: Most ESA statutes require data collection and public reporting, and many states publish annual report data beyond statutory requirements
 description: Most ESA statutes require data collection and public reporting, and many states publish annual report data beyond statutory requirements
 id: esa-data-reporting-beyond-statute
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

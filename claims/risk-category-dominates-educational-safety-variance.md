@@ -3,7 +3,7 @@ type: claim
 title: Risk category explains the largest share of variation in educational attack success, far more than LLM usage context or curriculum topic
 description: Risk category explains the largest share of variation in educational attack success, far more than LLM usage context or curriculum topic
 id: risk-category-dominates-educational-safety-variance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

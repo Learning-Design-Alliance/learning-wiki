@@ -3,7 +3,7 @@ type: claim
 title: SWCPM score ranges corresponding to ARM performance levels show monotonic progression across terms within grades, except in first grade
 description: SWCPM score ranges corresponding to ARM performance levels show monotonic progression across terms within grades, except in first grade
 id: swcpm-arm-range-monotonic-except-grade-1
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

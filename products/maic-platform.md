@@ -4,7 +4,7 @@ id: maic-platform
 title: MAIC platform
 description: "An online learning environment developed by the article's authors that combines course-preparation workflows, multi-agent classrooms, customizable classmate agents, and large-model learning-analytics tools for instructors and university students."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

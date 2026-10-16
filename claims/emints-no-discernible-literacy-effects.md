@@ -3,7 +3,7 @@ type: claim
 title: eMINTS shows no discernible effects on general literacy achievement
 description: eMINTS shows no discernible effects on general literacy achievement
 id: emints-no-discernible-literacy-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

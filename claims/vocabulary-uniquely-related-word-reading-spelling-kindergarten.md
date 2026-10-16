@@ -3,7 +3,7 @@ type: claim
 title: Vocabulary is uniquely and positively related to word reading and spelling in kindergartners after accounting for phonological awareness, alphabet knowledge fluency, and letter writing automaticity
 description: Vocabulary is uniquely and positively related to word reading and spelling in kindergartners after accounting for phonological awareness, alphabet knowledge fluency, and letter writing automaticity
 id: vocabulary-uniquely-related-word-reading-spelling-kindergarten
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: design
 id: shard-elevator-acceleration-ai-task
 title: Shard elevator ride smartphone acceleration dataset with AIRIS-structured student guide
 description: A concrete classroom task in which a smartphone recorded vertical acceleration during a downward elevator ride in the Shard (London) from floor 34 to the ground floor, held vertically against the elevator wall so only...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

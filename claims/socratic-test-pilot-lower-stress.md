@@ -3,7 +3,7 @@ type: claim
 title: "In a Spring 2026 pilot (N=98), 52% of students reported lower stress during the AI-mediated Socratic Test than in traditional exams"
 description: "In a Spring 2026 pilot (N=98), 52% of students reported lower stress during the AI-mediated Socratic Test than in traditional exams"
 id: socratic-test-pilot-lower-stress
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

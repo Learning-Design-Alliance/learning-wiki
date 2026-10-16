@@ -3,7 +3,7 @@ type: strategy
 id: growth-mindset-explicit-and-implicit-practices
 title: Reinforce growth mindsets through explicit messages plus implicit classroom practices
 description: Teachers encouraged growth mindsets both explicitly and implicitly.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

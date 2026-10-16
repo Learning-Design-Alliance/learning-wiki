@@ -3,7 +3,7 @@ type: claim
 title: Most partner professional development relied on traditional short-term workshops with little classroom-level intensive assistance
 description: Most partner professional development relied on traditional short-term workshops with little classroom-level intensive assistance
 id: probation-support-relies-on-traditional-workshops
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

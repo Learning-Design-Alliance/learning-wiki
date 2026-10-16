@@ -3,7 +3,7 @@ type: strategy
 id: differentiate-facilitation-by-culture-and-past-performance
 title: "Differentiate root-cause facilitation, protocols and tools according to the school's organizational culture and past performance results"
 description: "The recommended process is not one-size-fits-all: as printed, \"The process differentiates the facilitation, protocols and tools to be employed based on the school’s existing organizational culture and its past perform..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

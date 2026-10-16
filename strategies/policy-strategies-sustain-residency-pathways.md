@@ -3,7 +3,7 @@ type: strategy
 id: policy-strategies-sustain-residency-pathways
 title: Sustain and expand residency pathways through maintained state grant funding, financial aid, apprenticeship structures, and technical assistance
 description: "The report recommends that California policymakers maintain funding for the Teacher Residency Grant Program beyond its 2026–27 expiration, renew or replace the Golden State Teacher Grant Program's $20,000 tuition supp..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

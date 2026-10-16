@@ -3,14 +3,14 @@ type: design
 id: element-dynamic-pairing-co-orchestration-ecosystem
 title: A co-orchestration technology ecosystem combining intelligent tutoring systems, peer tutoring, and a teacher-facing orchestration tool.
 description: The article describes a technology ecosystem for dynamic combinations of individual and collaborative learning.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12
 sources:
   - id: kexin-bella-yang-2026
-    resource: "https://scholar.google.com/scholar?q=Balancing+Teacher+and+Student+Agency+Co-Orchestration+Tool+Design+Supporting+Real-Time+Dynamic+Pairing"
-    title: "Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, and Vincent Aleven. (2026). Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing. https://scholar.google.com/scholar?q=Balancing+Teacher+and+Student+Agency+Co-Orchestration+Tool+Design+Supporting+Real-Time+Dynamic+Pairing"
+    resource: "https://doi.org/10.1145/3816902"
+    title: "Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, and Vincent Aleven. (2026). Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing. https://doi.org/10.1145/3816902"
     author: Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, and Vincent Aleven
 ---
 
@@ -52,4 +52,4 @@ The article describes a technology ecosystem for dynamic combinations of individ
 -
 
 ## Key Sources
-- Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, and Vincent Aleven. (2026). Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing. https://scholar.google.com/scholar?q=Balancing+Teacher+and+Student+Agency+Co-Orchestration+Tool+Design+Supporting+Real-Time+Dynamic+Pairing
+- Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, and Vincent Aleven. (2026). Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing. https://doi.org/10.1145/3816902

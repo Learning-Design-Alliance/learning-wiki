@@ -3,7 +3,7 @@ type: research-method
 id: reliance-calibration-as-an-output-contingent-classification-of-reliance-decisions
 title: Reliance calibration as an output-contingent classification of reliance decisions
 description: "The review defines reliance calibration as \"an item-level, output-contingent classification of whether a reliance decision was appropriate given AI-output quality\", distinguishing it from trust (a psychological attitude) and reliance (an observable decision)."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

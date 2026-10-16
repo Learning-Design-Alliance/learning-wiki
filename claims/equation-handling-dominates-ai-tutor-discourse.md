@@ -3,7 +3,7 @@ type: claim
 title: Equation-handling and symbolic execution dominate the head of the student-discourse distribution, with roughly a third of top-20 turns involving equation work
 description: Equation-handling and symbolic execution dominate the head of the student-discourse distribution, with roughly a third of top-20 turns involving equation work
 id: equation-handling-dominates-ai-tutor-discourse
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

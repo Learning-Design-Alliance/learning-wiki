@@ -3,7 +3,7 @@ type: claim
 title: Transportation costs and catchment size led rural SIG schools to increase learning time within the existing schedule rather than extend the school day
 description: Transportation costs and catchment size led rural SIG schools to increase learning time within the existing schedule rather than extend the school day
 id: rural-transportation-shapes-learning-time-expansion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -2,7 +2,7 @@
 type: theory
 title: "Theory of expansive learning: seven learning actions forming an expansive cycle, grounded in ascending from the abstract to the concrete"
 description: "The theory of expansive learning holds that learners \"learn something that is not yet there\": they construct a new object and concept for their collective activity and implement it in practice."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

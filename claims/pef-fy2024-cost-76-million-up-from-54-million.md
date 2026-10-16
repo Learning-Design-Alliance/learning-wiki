@@ -3,7 +3,7 @@ type: claim
 title: "The PEF's total FY 2024 cost was $76 million, up from $54 million in FY 2023, reflecting larger educator payments and new facility administrative costs"
 description: "The PEF's total FY 2024 cost was $76 million, up from $54 million in FY 2023, reflecting larger educator payments and new facility administrative costs"
 id: pef-fy2024-cost-76-million-up-from-54-million
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

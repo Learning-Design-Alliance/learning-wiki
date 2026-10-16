@@ -3,7 +3,7 @@ type: claim
 title: Perceived trust mediates the relationship between social influence and generative AI dependence
 description: Perceived trust mediates the relationship between social influence and generative AI dependence
 id: trust-mediation-social-influence-ai-dependence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

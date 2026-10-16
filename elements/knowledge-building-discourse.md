@@ -70,7 +70,7 @@ Structured discourse deepens conceptual understanding because articulating and d
 
 ## Examples
 - **Knowledge Forum** (https://www.knowledgeforum.com) — Scardamalia and Bereiter's platform for asynchronous knowledge building; learners post, revise, and link written "notes" that rise-and-improve over time.
-- **Accountable Talk** (University of Pittsburgh, Institute for Learning) — a set of talk moves and norms (press for reasoning, accountability to community and evidence) for classroom discourse.
+- **[Accountable Talk](../strategies/accountable_talk.md)** (University of Pittsburgh, Institute for Learning) — a set of talk moves and norms (press for reasoning, accountability to community and evidence) for classroom discourse.
 - **Paideia Seminar** (National Paideia Center) — scripted seminar cycles pairing reading with structured dialogue.
 
 ## Key Sources

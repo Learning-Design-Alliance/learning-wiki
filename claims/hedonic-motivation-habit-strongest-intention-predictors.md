@@ -3,7 +3,7 @@ type: claim
 title: Hedonic motivation and habit were the strongest predictors of behavioral intention, and habit also substantially predicted use behavior
 description: Hedonic motivation and habit were the strongest predictors of behavioral intention, and habit also substantially predicted use behavior
 id: hedonic-motivation-habit-strongest-intention-predictors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

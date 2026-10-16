@@ -3,7 +3,7 @@ type: claim
 title: Applications to the summer school increased up to double the available positions, which the authors attribute to its active and cooperative learning
 description: Applications to the summer school increased up to double the available positions, which the authors attribute to its active and cooperative learning
 id: pigelleto-applications-doubled-positions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

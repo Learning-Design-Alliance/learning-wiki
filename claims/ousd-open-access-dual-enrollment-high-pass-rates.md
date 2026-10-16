@@ -3,7 +3,7 @@ type: claim
 title: "OUSD's open-access dual enrollment program maintains an 82 percent course pass rate among predominantly first-generation, low-income students and students of color"
 description: "OUSD's open-access dual enrollment program maintains an 82 percent course pass rate among predominantly first-generation, low-income students and students of color"
 id: ousd-open-access-dual-enrollment-high-pass-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

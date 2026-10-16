@@ -4,7 +4,7 @@ id: sea-turtle-trek
 title: Sea Turtle Trek
 description: A 124-page environmental-education curriculum packet for grades 6–8, developed for Hammocks Beach State Park and providing hands-on sea-turtle and conservation activities aligned with North Carolina standards.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

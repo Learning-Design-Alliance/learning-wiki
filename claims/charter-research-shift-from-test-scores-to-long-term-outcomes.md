@@ -3,7 +3,7 @@ type: claim
 title: Charter school research has historically focused on test scores, with longer-term outcomes only recently examined
 description: Charter school research has historically focused on test scores, with longer-term outcomes only recently examined
 id: charter-research-shift-from-test-scores-to-long-term-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

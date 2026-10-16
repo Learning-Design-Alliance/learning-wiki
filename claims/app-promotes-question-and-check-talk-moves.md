@@ -3,7 +3,7 @@ type: claim
 title: Intervention families used the talk moves asks-a-question and checks-for-understanding more frequently than comparison families, especially after viewing
 description: Intervention families used the talk moves asks-a-question and checks-for-understanding more frequently than comparison families, especially after viewing
 id: app-promotes-question-and-check-talk-moves
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

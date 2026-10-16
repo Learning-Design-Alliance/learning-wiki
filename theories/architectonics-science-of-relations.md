@@ -2,7 +2,7 @@
 type: theory
 title: "Architectonics: the philosophical tradition of building and relating meaning, knowledge, and experience"
 description: "Architectonics is presented as a concept permeating the Western philosophical tradition, defined by Holquist as \"the science of relations\" and by the article as \"a means of contemplating the various ways that we build..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -54,4 +54,4 @@ Architectonics is presented as a concept permeating the Western philosophical tr
 -
 
 ## Key Sources
-- Dennis, J. (2020). Languaging Network Learning: The Emergence of Connectivism in Architectonic Thought. International Review of Research in Open and Distributed Learning, 21(3). https://www.irrodl.org/
+- Dennis, J. (2020). Languaging Network Learning: The Emergence of Connectivism in Architectonic Thought. International Review of Research in Open and Distributed Learning, 21(3). https://www.irrodl.org/. [doi:10.19173/irrodl.v21i3.4718](https://doi.org/10.19173/irrodl.v21i3.4718)

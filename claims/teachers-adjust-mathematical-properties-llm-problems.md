@@ -3,7 +3,7 @@ type: claim
 title: Mathematical hallucinations were rare but teachers used professional knowledge to adjust mathematical properties
 description: Mathematical hallucinations were rare but teachers used professional knowledge to adjust mathematical properties
 id: teachers-adjust-mathematical-properties-llm-problems
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

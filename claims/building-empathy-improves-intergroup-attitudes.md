@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Building Empathy Improves Intergroup Attitudes
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

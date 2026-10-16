@@ -3,7 +3,7 @@ type: claim
 title: Single instances of help-seeking actions (answer requested, explanation requested) carry more predictive information than single correct or open responses (ISA)
 description: Single instances of help-seeking actions (answer requested, explanation requested) carry more predictive information than single correct or open responses (ISA)
 id: isa-help-seeking-more-informative-than-correct-response
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: "Predictive models trained on one semester's offering of a course identified at-risk students in the subsequent semester with high prediction accuracy"
 description: "Predictive models trained on one semester's offering of a course identified at-risk students in the subsequent semester with high prediction accuracy"
 id: cross-semester-at-risk-prediction-high-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

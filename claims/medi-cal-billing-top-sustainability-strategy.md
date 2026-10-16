@@ -3,7 +3,7 @@ type: claim
 title: "LEAs' most frequent sustainability strategy in SBHIP project plans was Medi-Cal billing, despite many LEAs lacking billing infrastructure"
 description: "LEAs' most frequent sustainability strategy in SBHIP project plans was Medi-Cal billing, despite many LEAs lacking billing infrastructure"
 id: medi-cal-billing-top-sustainability-strategy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

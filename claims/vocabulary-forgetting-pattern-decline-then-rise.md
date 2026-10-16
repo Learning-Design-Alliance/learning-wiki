@@ -3,7 +3,7 @@ type: claim
 title: Vocabulary retention declines between immediate and first delayed recall, then rises slightly between the first and second delayed tests
 description: Vocabulary retention declines between immediate and first delayed recall, then rises slightly between the first and second delayed tests
 id: vocabulary-forgetting-pattern-decline-then-rise
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

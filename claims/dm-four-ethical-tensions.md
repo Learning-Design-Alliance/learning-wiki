@@ -3,7 +3,7 @@ type: claim
 title: In the direct method, teachers perceive conversational ventriloquism, autonomy shifts, authority challenges, and memory erosion
 description: In the direct method, teachers perceive conversational ventriloquism, autonomy shifts, authority challenges, and memory erosion
 id: dm-four-ethical-tensions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

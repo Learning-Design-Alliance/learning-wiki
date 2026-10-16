@@ -3,7 +3,7 @@ type: strategy
 id: wholetheme-thematic-organizer-teaching
 title: Organize instruction thematically with a thematic organizer rather than presenting knowledge piecemeal
 description: "Wholetheme teaching structures instruction around an overarching theme so students can 'reflectively develop intuitive knowledge of the whole before focusing on the parts'."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: "Families used multiple sections of the Splash and Bubbles for Parents app, with Dive In the most used and Let's Talk About It conversation starters rated most helpful within it"
 description: "Families used multiple sections of the Splash and Bubbles for Parents app, with Dive In the most used and Let's Talk About It conversation starters rated most helpful within it"
 id: splash-bubbles-app-section-use-dive-in-conversation-starters
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

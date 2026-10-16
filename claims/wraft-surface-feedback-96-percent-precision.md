@@ -3,7 +3,7 @@ type: claim
 title: "Directly prompted GPT-4o surface-level corrective edits were judged necessary and effective in 96.14% of 2049 identified edits"
 description: "Directly prompted GPT-4o surface-level corrective edits were judged necessary and effective in 96.14% of 2049 identified edits"
 id: wraft-surface-feedback-96-percent-precision
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

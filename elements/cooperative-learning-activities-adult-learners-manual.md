@@ -4,7 +4,7 @@ id: cooperative-learning-activities-adult-learners-manual
 title: Cooperative Learning Activities for Adult Learners manual with instructor-contributed scripts and handouts
 description: "A cooperative learning manual developed through the project, containing activities scripted by the Adult Learners' Training and Assistance Program instructors, with structures and techniques based on the cooperative l..."
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: School designs supporting caring, continuous student-teacher relationships better address trauma and strengthen achievement than traditional factory-model schools
 description: School designs supporting caring, continuous student-teacher relationships better address trauma and strengthen achievement than traditional factory-model schools
 id: relationship-centered-designs-beat-factory-model
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

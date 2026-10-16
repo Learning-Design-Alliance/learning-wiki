@@ -3,7 +3,7 @@ type: claim
 title: "Overreliance on AWE may lower learners' critical thinking and creativity"
 description: "Overreliance on AWE may lower learners' critical thinking and creativity"
 id: awe-overreliance-lowers-critical-thinking-creativity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

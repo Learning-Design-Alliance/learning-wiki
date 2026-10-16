@@ -3,7 +3,7 @@ type: claim
 title: Strong early-warning monitoring systems paired with strong norms and routines help students recover emotionally and engage academically
 description: Strong early-warning monitoring systems paired with strong norms and routines help students recover emotionally and engage academically
 id: early-warning-systems-norms-routines-support-recovery
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

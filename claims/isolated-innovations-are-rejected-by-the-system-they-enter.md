@@ -4,7 +4,7 @@ title: An innovation foreign to the rest of its system tends to be rejected; las
 id: isolated-innovations-are-rejected-by-the-system-they-enter
 aliases: [innovation-bundle-coherence-beats-single-innovation]
 description: Ellsworth's survey of educational change models concludes that a single innovation incompatible with the system it enters may be rejected, and that success depends on a coordinated bundle of innovations, usually affecting several stakeholder groups, that leaves a coherent system.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

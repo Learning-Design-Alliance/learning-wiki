@@ -3,7 +3,7 @@ type: strategy
 id: multi-institution-tutoring-evaluation-strategy
 title: Evaluate tutoring outcomes at multiple institutions and compare effectiveness across tutoring forms
 description: "The article's stated next steps for tutoring-effectiveness research are that \"similar evaluations of student outcomes must occur at other institutions that provide tutoring services\" and that, as the literature grows,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -44,4 +44,4 @@ The article's stated next steps for tutoring-effectiveness research are that "si
 -
 
 ## Key Sources
-- Cooper, E. (2010). Tutoring Center Effectiveness: The Effect of Drop-In Tutoring. Journal of College Reading and Learning, 40(2). https://eric.ed.gov/?id=EJ887303
+- Cooper, E. (2010). Tutoring Center Effectiveness: The Effect of Drop-In Tutoring. Journal of College Reading and Learning, 40(2). https://eric.ed.gov/?id=EJ887303. [doi:10.1080/10790195.2010.10850328](https://doi.org/10.1080/10790195.2010.10850328)

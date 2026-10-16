@@ -3,7 +3,7 @@ type: claim
 title: Fold-local top-20 feature selection had mixed effects across model families, supporting the complete 166-dimensional representation as the primary analysis
 description: Fold-local top-20 feature selection had mixed effects across model families, supporting the complete 166-dimensional representation as the primary analysis
 id: feature-selection-effects-mixed-across-families
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

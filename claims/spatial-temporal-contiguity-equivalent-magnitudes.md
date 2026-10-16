@@ -3,7 +3,7 @@ type: claim
 title: Spatial and temporal contiguity effects do not differ significantly in mean magnitude
 description: Spatial and temporal contiguity effects do not differ significantly in mean magnitude
 id: spatial-temporal-contiguity-equivalent-magnitudes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

@@ -3,7 +3,7 @@ type: strategy
 id: varied-materials-and-environmental-awareness-encourage-literacy
 title: Encourage cognition and literacy by providing varied reading, writing, and drawing materials and building environmental awareness
 description: The article recommends that parents and teachers support cognition and literacy by supplying children with a wide variety of materials and by building environmental awareness.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

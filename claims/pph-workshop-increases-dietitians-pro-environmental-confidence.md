@@ -3,7 +3,7 @@ type: claim
 title: "A half-day workshop featuring the PPH framework significantly increased dietitians' confidence to undertake pro-environmental change in their personal and professional lives"
 description: "A half-day workshop featuring the PPH framework significantly increased dietitians' confidence to undertake pro-environmental change in their personal and professional lives"
 id: pph-workshop-increases-dietitians-pro-environmental-confidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

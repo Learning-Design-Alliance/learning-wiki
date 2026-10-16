@@ -3,7 +3,7 @@ type: claim
 title: "Feedback topology matters differentially across development: novices use simpler external topologies while experts use richer connectivity"
 description: "Feedback topology matters differentially across development: novices use simpler external topologies while experts use richer connectivity"
 id: feedback-topology-differential-across-development
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

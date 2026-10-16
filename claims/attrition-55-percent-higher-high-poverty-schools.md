@@ -3,7 +3,7 @@ type: claim
 title: "Teacher attrition is approximately 55% higher in high-poverty schools than in lower-poverty schools"
 description: "Teacher attrition is approximately 55% higher in high-poverty schools than in lower-poverty schools"
 id: attrition-55-percent-higher-high-poverty-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,8 @@ type: claim
 title: Long-term memory is effectively unlimited and holds schemas that vary in their degree of automation
 description: Long-term memory is effectively unlimited and holds schemas that vary in their degree of automation
 id: long-term-memory-schemas-automation
-status: draft
+aliases: [long-term-memory-schemas-varying-automation]
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
@@ -25,7 +26,10 @@ sources:
 > **Evidence** · 1 study · review `r?` · `q1`
 
 ## Subclaims
+
 `q1 i?` Long-term memory is effectively unlimited and holds schemas varying in degree of automation. [→ Sweller 1998](#sweller-1998)
+
+`q2 i?` Long-term memory is effectively unlimited and holds schemas varying in degree of automation. [→ Sweller 1998](#sweller-1998)
 
 ## Evidence
 
@@ -39,8 +43,20 @@ Theoretical assumption from the article's abstract describing the long-term memo
 
 > "as well as an effectively unlimited long-term memory, holding schemas that vary in their degree of automation"
 
+<!-- merged 2026-10-15 from long-term-memory-schemas-varying-automation: that page's entry for this study, which differed from the one above, kept verbatim.
+### Sweller 1998
+
+Sweller, J., van Merrienboer, J.J.G. & Paas, F.G.W.C. (1998). Cognitive Architecture and Instructional Design. Educational Psychology Review. https://doi.org/10.1023/A:1022193728205
+
+`q2 · i?` · `review · r2`
+
+The review's abstract states the long-term memory side of the cognitive architecture: "an effectively unlimited long-term memory, holding schemas that vary in their degree of automation." This is the review's assertion of the theory's assumption; no effect size is printed.
+
+> "as well as an effectively unlimited long-term memory, holding schemas that vary in their degree of automation"
+-->
+
 ## Discussion
 
 
+
 ## Related Claims
--

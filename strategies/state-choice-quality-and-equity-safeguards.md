@@ -3,7 +3,7 @@ type: strategy
 id: state-choice-quality-and-equity-safeguards
 title: State policymakers should pair any choice expansion with quality controls, equitable access safeguards, integration management, and research and evaluation requirements
 description: "The report's Key Policy Considerations section lays out implementable state actions across sectors: ensure many high-quality options with consolidated, accessible applications and free transportation; authorize charte..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

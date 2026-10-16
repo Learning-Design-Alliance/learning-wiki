@@ -3,7 +3,7 @@ type: strategy
 id: use-early-adopter-experiences-to-guide-implementation
 title: "Use early-adopting districts' experiences to decide whether and how to implement alternative teacher-effectiveness measures"
 description: The report positions its district profiles as implementation guidance for other systems.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

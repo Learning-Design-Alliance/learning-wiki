@@ -3,7 +3,7 @@ type: claim
 title: "Habit shows the strongest direct and competence-mediated associations with teachers' AI use"
 description: "Habit shows the strongest direct and competence-mediated associations with teachers' AI use"
 id: habit-strongest-association-teacher-ai-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

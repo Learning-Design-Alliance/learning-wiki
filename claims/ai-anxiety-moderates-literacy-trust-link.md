@@ -3,7 +3,7 @@ type: claim
 title: AI anxiety attenuates the positive association between AI literacy and trust in AI
 description: AI anxiety attenuates the positive association between AI literacy and trust in AI
 id: ai-anxiety-moderates-literacy-trust-link
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

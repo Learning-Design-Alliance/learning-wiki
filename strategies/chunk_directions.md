@@ -85,7 +85,7 @@ Working memory can hold only a few novel elements at a time, and long instructio
 ## Examples
 - **Elementary transitions:** A teacher gives directions in three chunks ("First, put your crayons in the basket… show me when you're ready. Next, move to the carpet…"), waiting for a readiness signal between each.
 - **Science labs:** Lab manuals that present each procedure stage on its own page with a checkpoint question, rather than a single paragraph of ten steps.
-- **Duolingo (https://www.duolingo.com)** — presents one instruction or prompt per screen, releasing the next only after the learner responds.
+- **[Duolingo](../products/duolingo.md) (https://www.duolingo.com)** — presents one instruction or prompt per screen, releasing the next only after the learner responds.
 - **Recipe and DIY apps (e.g., Tasty's step mode)** — one step at a time with a timer, replacing the full ingredient-plus-method wall of text.
 - **Elementary classroom routines:** a teacher gives a three-part art task as "First, fold your paper in half and wait" — then releases each subsequent step only when all students reach the checkpoint.
 - **Lab instruction:** chemistry curricula such as [ChemCollective](https://chemcollective.org) present virtual lab procedures step-by-step, with each step's instructions visible only for the current stage.

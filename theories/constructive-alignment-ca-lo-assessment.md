@@ -2,7 +2,7 @@
 type: theory
 title: Constructive alignment as the theoretical foundation linking LO definitions, assessment strategies, and continuous improvement
 description: "The article adopts Biggs's (1996) concept of constructive alignment, which \"emphasizes the systematic integration of intended LOs, teaching and learning activities, and assessment tasks.\" It provides the theoretical f..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "The TA ground truth was produced under a one-rater-per-item design with co-grading, an exceptions log, instructor audit, and student review, with an estimated grading-error rate of about 0.1% in the student-inspected subsample"
 description: "The TA ground truth was produced under a one-rater-per-item design with co-grading, an exceptions log, instructor audit, and student review, with an estimated grading-error rate of about 0.1% in the student-inspected..."
 id: ta-ground-truth-one-rater-per-item-error-rate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

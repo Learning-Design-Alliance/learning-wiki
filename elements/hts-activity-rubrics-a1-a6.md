@@ -3,7 +3,7 @@ type: element
 id: hts-activity-rubrics-a1-a6
 title: Historical Thinking Skills Activity Rubrics (A1-A6) for assessing learning opportunities in world history assignments
 description: A set of six rubric dimensions (A1-A6) meant to study the extent to which high school world history classroom activities provide opportunities for students to engage in historical thinking practices.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

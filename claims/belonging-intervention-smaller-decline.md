@@ -3,7 +3,7 @@ type: claim
 title: A belonging-enhancing intervention produced a smaller decline in sense of belonging over the first year than the control groups
 description: A belonging-enhancing intervention produced a smaller decline in sense of belonging over the first year than the control groups
 id: belonging-intervention-smaller-decline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

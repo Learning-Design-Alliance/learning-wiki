@@ -3,7 +3,7 @@ type: claim
 title: "All four detection tools classified 100% of fully human-written papers as true negatives, with false positives nearly absent"
 description: "All four detection tools classified 100% of fully human-written papers as true negatives, with false positives nearly absent"
 id: all-tools-accurate-on-human-written-papers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

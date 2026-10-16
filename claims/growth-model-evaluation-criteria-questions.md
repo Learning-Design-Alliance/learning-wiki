@@ -3,7 +3,7 @@ type: claim
 title: The volume addresses criteria for evaluating growth models and how outputs from growth models should be utilized
 description: The volume addresses criteria for evaluating growth models and how outputs from growth models should be utilized
 id: growth-model-evaluation-criteria-questions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

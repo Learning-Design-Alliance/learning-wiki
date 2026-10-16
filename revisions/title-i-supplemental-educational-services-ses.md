@@ -3,7 +3,7 @@ type: revisions
 page: ../products/title-i-supplemental-educational-services-ses.md
 ---
 
-# Revision history: [products/title-i-supplemental-educational-services-ses](../products/title-i-supplemental-educational-services-ses.md)
+# Revision history: [products/title-i-supplemental-educational-services-ses](../products/supplemental-educational-services.md)
 
 Recorded as elements/title-i-ses-tutoring-program before it was renamed, re-filed or merged.
 

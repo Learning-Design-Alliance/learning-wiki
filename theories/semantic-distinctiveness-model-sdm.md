@@ -2,7 +2,7 @@
 type: theory
 title: Semantic Distinctiveness Model (SDM)
 description: "The SDM is a distributional model of lexical semantics that incorporates an attention-weighting mechanism when encoding a new context entry in a word's vector."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Students who are deaf or hard of hearing continue to grow and acquire literacy skills well into middle school when tracked across grades 2-8
 description: Students who are deaf or hard of hearing continue to grow and acquire literacy skills well into middle school when tracked across grades 2-8
 id: dhh-students-continue-literacy-growth-into-middle-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -2,7 +2,7 @@
 type: claim
 title: Attending to affect in co-design supports community formation and cross-scale transfer
 id: attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

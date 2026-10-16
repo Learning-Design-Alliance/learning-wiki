@@ -3,7 +3,7 @@ type: claim
 title: Colorado uses a local-first, state-supported model in which districts and local providers initiate cross-sector work and state policy scales successful innovations
 description: Colorado uses a local-first, state-supported model in which districts and local providers initiate cross-sector work and state policy scales successful innovations
 id: colorado-local-first-state-supported-model
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Automatization of the phonological component through pronunciation practice improves ESP students' reading comprehension more than traditional translation-based instruction"
 description: "Automatization of the phonological component through pronunciation practice improves ESP students' reading comprehension more than traditional translation-based instruction"
 id: phonological-automatization-improves-esp-reading-comprehension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

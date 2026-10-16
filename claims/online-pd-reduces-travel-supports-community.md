@@ -3,7 +3,7 @@ type: claim
 title: Online professional development offers potential advantages of reduced travel costs, increased convenience, and community building among participants
 description: Online professional development offers potential advantages of reduced travel costs, increased convenience, and community building among participants
 id: online-pd-reduces-travel-supports-community
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

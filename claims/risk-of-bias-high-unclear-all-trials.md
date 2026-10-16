@@ -3,7 +3,7 @@ type: claim
 title: Risk of bias was high or unclear in all included trials, but no criterion significantly moderated effects
 description: Risk of bias was high or unclear in all included trials, but no criterion significantly moderated effects
 id: risk-of-bias-high-unclear-all-trials
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

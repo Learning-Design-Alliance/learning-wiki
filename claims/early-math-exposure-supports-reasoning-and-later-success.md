@@ -3,7 +3,7 @@ type: claim
 title: Exposing young children to early math concepts supports reasoning, problem solving, and later success in and out of school
 description: Exposing young children to early math concepts supports reasoning, problem solving, and later success in and out of school
 id: early-math-exposure-supports-reasoning-and-later-success
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

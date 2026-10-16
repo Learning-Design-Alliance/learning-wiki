@@ -3,7 +3,7 @@ type: claim
 title: "Cheating hidden variables can violate Bell about 85% of the time only by sacrificing anti-correlation"
 description: "Cheating hidden variables can violate Bell about 85% of the time only by sacrificing anti-correlation"
 id: cheating-hidden-variables-85-percent-lose-anticorrelation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

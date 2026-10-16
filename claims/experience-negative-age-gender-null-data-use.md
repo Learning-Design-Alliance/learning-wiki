@@ -3,7 +3,7 @@ type: claim
 title: Teaching experience is a minor negative predictor of digital data use, while age and gender show no significant effect
 description: Teaching experience is a minor negative predictor of digital data use, while age and gender show no significant effect
 id: experience-negative-age-gender-null-data-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

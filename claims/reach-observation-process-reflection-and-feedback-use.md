@@ -3,7 +3,7 @@ type: claim
 title: Teachers report the REACH observation process encouraged reflection and that they used observation feedback to improve their teaching
 description: Teachers report the REACH observation process encouraged reflection and that they used observation feedback to improve their teaching
 id: reach-observation-process-reflection-and-feedback-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

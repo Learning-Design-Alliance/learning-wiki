@@ -3,7 +3,7 @@ type: claim
 title: School mindfulness programs show high acceptability among students and teachers, but home practice adherence is low
 description: School mindfulness programs show high acceptability among students and teachers, but home practice adherence is low
 id: mindfulness-schools-acceptability-high-home-practice-low
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

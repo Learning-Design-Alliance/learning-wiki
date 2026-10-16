@@ -3,7 +3,7 @@ type: claim
 title: Active participation in a community has a more significant impact on learning than mere membership
 description: Active participation in a community has a more significant impact on learning than mere membership
 id: active-participation-beats-mere-membership-for-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

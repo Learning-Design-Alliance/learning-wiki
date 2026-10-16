@@ -3,7 +3,7 @@ type: claim
 title: Criterion-referenced tests indicate whether a particular skill or objective has been achieved rather than comparing performance to other test takers
 description: Criterion-referenced tests indicate whether a particular skill or objective has been achieved rather than comparing performance to other test takers
 id: criterion-referenced-tests-measure-mastery-not-relative-standing
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

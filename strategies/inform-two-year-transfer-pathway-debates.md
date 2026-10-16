@@ -3,7 +3,7 @@ type: strategy
 id: inform-two-year-transfer-pathway-debates
 title: Use findings on gender and GPA among two-year black transfers to inform debates on the two-year transfer pathway in engineering
 description: The authors position their results as input to policy discussions about the two-year transfer route into engineering for black and other minority students.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

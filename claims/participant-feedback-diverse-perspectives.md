@@ -3,7 +3,7 @@ type: claim
 title: Participants reported that diverse perspectives raised new questions and affirmed educator contributions
 description: Participants reported that diverse perspectives raised new questions and affirmed educator contributions
 id: participant-feedback-diverse-perspectives
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Sensitivity is better for the frequentist GLASSO than for the Bayesian GLASSO, though Bayesian GLASSO performance is usually close
 description: Sensitivity is better for the frequentist GLASSO than for the Bayesian GLASSO, though Bayesian GLASSO performance is usually close
 id: frequentist-glasso-higher-sensitivity-network-estimation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Staff recognise substantial opportunities to use GenAI to enhance teaching through streamlined administrative processes, improved curriculum and assessment design, and student-centred learning activities.
 description: Staff recognise substantial opportunities to use GenAI to enhance teaching through streamlined administrative processes, improved curriculum and assessment design, and student-centred learning activities.
 id: staff-see-genai-opportunities-teaching-enhancement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

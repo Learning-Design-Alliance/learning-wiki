@@ -3,7 +3,7 @@ type: claim
 title: Academic self-efficacy is negatively associated with AI dependency among university students
 description: Academic self-efficacy is negatively associated with AI dependency among university students
 id: self-efficacy-negatively-associated-ai-dependency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

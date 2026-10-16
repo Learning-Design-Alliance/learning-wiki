@@ -3,7 +3,7 @@ type: claim
 title: Rationale-first evaluation improves depth alignment under the initial rubric but yields only limited gains for openness
 description: Rationale-first evaluation improves depth alignment under the initial rubric but yields only limited gains for openness
 id: rationale-first-limited-gains-openness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

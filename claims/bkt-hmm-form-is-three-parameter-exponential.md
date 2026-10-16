@@ -3,7 +3,7 @@ type: claim
 title: The HMM form of BKT, solved analytically, is a three-parameter exponential in opportunity number
 description: The HMM form of BKT, solved analytically, is a three-parameter exponential in opportunity number
 id: bkt-hmm-form-is-three-parameter-exponential
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

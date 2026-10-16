@@ -3,7 +3,7 @@ type: claim
 title: Across three studies of Achieve3000 (35,070 students), the average effect size was 0.00
 description: Across three studies of Achieve3000 (35,070 students), the average effect size was 0.00
 id: achieve3000-average-effect-size-zero
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

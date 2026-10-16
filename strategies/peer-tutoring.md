@@ -89,10 +89,10 @@ Peer tutoring works largely because explaining material to another person forces
 - [Train students in tutor and group roles before routine use of peer tutoring or response groups](train-students-before-peer-tutoring-roles.md)
 
 ## Examples
-- **Classwide Peer Tutoring** (Juniper Gardens Children's Project, University of Kansas) — weekly role switching, point systems, and teacher monitoring; extensively validated in elementary reading and math, including with students with disabilities.
+- **[Classwide Peer Tutoring](../products/classwide-peer-tutoring.md)** (Juniper Gardens Children's Project, University of Kansas) — weekly role switching, point systems, and teacher monitoring; extensively validated in elementary reading and math, including with students with disabilities.
 - **Peer-Led Team Learning (PLTL)** — trained undergraduate peer leaders run weekly problem-solving workshops attached to large chemistry and biology lectures; associated with higher course pass rates in published evaluations.
-- **Reciprocal Teaching** (Palincsar & Brown) — pairs or small groups alternate leading dialogue using predicting, questioning, clarifying, and summarizing roles.
-- **Classwide Peer Tutoring (CWPT)** — a well-researched reciprocal routine in which entire class pairs alternate weekly as tutor and tutee, with points, materials, and switching rules specified by the program; widely used in elementary reading and math.
+- **[Reciprocal Teaching](reciprocal_teaching.md)** (Palincsar & Brown) — pairs or small groups alternate leading dialogue using predicting, questioning, clarifying, and summarizing roles.
+- **[Classwide Peer Tutoring](../products/classwide-peer-tutoring.md) (CWPT)** — a well-researched reciprocal routine in which entire class pairs alternate weekly as tutor and tutee, with points, materials, and switching rules specified by the program; widely used in elementary reading and math.
 - **Peer-Assisted Learning Strategies (PALS)** — a structured reading and math tutoring curriculum developed at Vanderbilt University ([https://iris.peabody.vanderbilt.edu](https://iris.peabody.vanderbilt.edu)), with scripted partner reading and summarization routines.
 - **Cross-age math tutoring programs** — middle schoolers tutoring elementary students on arithmetic fluency, with tutor training sessions preceding each cycle.
 

@@ -3,7 +3,7 @@ type: strategy
 id: deliberate-university-support-strategies-cps-graduates
 title: Universities can support CPS graduate retention through deliberate support strategies such as scholarships, test-free admission, billing and hold policy changes, and tutoring
 description: The article highlights institutional actions that universities can take to bring in and retain CPS graduates.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

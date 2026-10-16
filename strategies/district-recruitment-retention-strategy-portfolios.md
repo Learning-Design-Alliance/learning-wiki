@@ -3,7 +3,7 @@ type: strategy
 id: district-recruitment-retention-strategy-portfolios
 title: Districts use financial, personnel management, and working-conditions strategies to recruit and retain teachers, including leadership compensation, mentoring, and collaboration time
 description: "Districts report adopting financial strategies (74%), personnel management strategies (55%), and working-conditions strategies (40%)."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

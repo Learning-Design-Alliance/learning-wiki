@@ -3,7 +3,7 @@ type: claim
 title: GenAI effects on externally assessed learning are highly heterogeneous and conditional on prior knowledge, scaffolding, verification, and task design, with pooled effects unstable under publication-bias correction
 description: GenAI effects on externally assessed learning are highly heterogeneous and conditional on prior knowledge, scaffolding, verification, and task design, with pooled effects unstable under publication-bias correction
 id: genai-learning-effects-heterogeneous-conditional
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

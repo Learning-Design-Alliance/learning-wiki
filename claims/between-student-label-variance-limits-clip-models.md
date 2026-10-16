@@ -3,7 +3,7 @@ type: claim
 title: Between-student differences explain a large fraction of CASED label variance, limiting what any clip-level visual model can learn
 description: Between-student differences explain a large fraction of CASED label variance, limiting what any clip-level visual model can learn
 id: between-student-label-variance-limits-clip-models
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

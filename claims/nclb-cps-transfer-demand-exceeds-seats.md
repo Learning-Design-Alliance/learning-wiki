@@ -3,7 +3,7 @@ type: claim
 title: Under NCLB, CPS transfer demand far exceeded available seats, and school classifications were unstable
 description: Under NCLB, CPS transfer demand far exceeded available seats, and school classifications were unstable
 id: nclb-cps-transfer-demand-exceeds-seats
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

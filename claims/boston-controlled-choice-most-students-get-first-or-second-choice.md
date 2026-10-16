@@ -3,7 +3,7 @@ type: claim
 title: "Under Boston's Controlled Choice plan, 90 percent of students received a first- or second-choice school and fewer than 10 percent were mandatorily assigned"
 description: "Under Boston's Controlled Choice plan, 90 percent of students received a first- or second-choice school and fewer than 10 percent were mandatorily assigned"
 id: boston-controlled-choice-most-students-get-first-or-second-choice
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

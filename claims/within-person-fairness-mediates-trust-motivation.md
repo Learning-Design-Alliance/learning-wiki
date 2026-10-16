@@ -3,7 +3,7 @@ type: claim
 title: Within-person change in perceived fairness mediates the longitudinal association between trust and learning motivation
 description: Within-person change in perceived fairness mediates the longitudinal association between trust and learning motivation
 id: within-person-fairness-mediates-trust-motivation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

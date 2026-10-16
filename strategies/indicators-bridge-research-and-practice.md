@@ -3,7 +3,7 @@ type: strategy
 id: indicators-bridge-research-and-practice
 title: Use research-based indicators to bridge research and practice in college access work
 description: The chapter presents indicator development as a critical mechanism for connecting research findings to front-line practice.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

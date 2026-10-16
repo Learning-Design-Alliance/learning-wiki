@@ -3,7 +3,7 @@ type: claim
 title: Essay position did not affect essay scores, but essay-last students wrote essays of similar quality in less time using fewer words
 description: Essay position did not affect essay scores, but essay-last students wrote essays of similar quality in less time using fewer words
 id: essay-position-no-score-effect-less-time-fewer-words
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

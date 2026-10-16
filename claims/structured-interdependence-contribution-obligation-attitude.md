@@ -3,7 +3,7 @@ type: claim
 title: "All three structured interdependence conditions produce higher agreement that team members' sense of obligation to contribute aided learning, compared with no structured interdependence"
 description: "All three structured interdependence conditions produce higher agreement that team members' sense of obligation to contribute aided learning, compared with no structured interdependence"
 id: structured-interdependence-contribution-obligation-attitude
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

@@ -3,7 +3,7 @@ type: claim
 title: Faculty Professional Competence shows the largest gap between perceived importance and current satisfaction among the five dimensions
 description: Faculty Professional Competence shows the largest gap between perceived importance and current satisfaction among the five dimensions
 id: faculty-competence-largest-importance-performance-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

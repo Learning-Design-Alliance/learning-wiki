@@ -3,7 +3,7 @@ type: claim
 title: In reading, dual language participants grew slightly more slowly during school years but lost less learning during summers, closing the gap with the national average
 description: In reading, dual language participants grew slightly more slowly during school years but lost less learning during summers, closing the gap with the national average
 id: dual-language-reading-slower-school-year-growth-less-summer-loss
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

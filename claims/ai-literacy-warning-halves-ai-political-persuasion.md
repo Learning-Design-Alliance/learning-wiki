@@ -3,7 +3,7 @@ type: claim
 title: "AI literacy warnings reduce LLM political persuasion by roughly one-half (meta-analytic -48.1%)"
 description: "AI literacy warnings reduce LLM political persuasion by roughly one-half (meta-analytic -48.1%)"
 id: ai-literacy-warning-halves-ai-political-persuasion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

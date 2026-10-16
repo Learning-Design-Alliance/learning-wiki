@@ -3,7 +3,7 @@ type: claim
 title: "Non-tested outcomes are predicted by teaching practices most proximal to these measures, including teachers' emotional support and classroom organization"
 description: "Non-tested outcomes are predicted by teaching practices most proximal to these measures, including teachers' emotional support and classroom organization"
 id: proximal-practices-predict-behaviors-mindsets
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

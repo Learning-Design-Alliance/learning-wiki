@@ -3,7 +3,7 @@ type: claim
 title: Task condition (decision-making vs. opinion-exchange) did not significantly moderate the amount of meaning negotiation
 description: Task condition (decision-making vs.
 id: task-condition-did-not-moderate-meaning-negotiation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

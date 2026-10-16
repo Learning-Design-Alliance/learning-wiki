@@ -3,7 +3,7 @@ type: strategy
 id: technology-facilitates-not-replaces-face-to-face
 title: Use technology to facilitate active participation rather than replace face-to-face learning, potentially creating greater synchronicity between modes
 description: The article recommends deploying online technologies within experiential pedagogy as a means of enabling student activity, not as a substitute for campus learning.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

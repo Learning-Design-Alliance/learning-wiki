@@ -3,7 +3,7 @@ type: claim
 title: "Students mostly used the workflow as an early-stage scaffold, and 73.4% of target-level changes after early-stage exits incorporated the hidden target without explicit correction being disclosed"
 description: "Students mostly used the workflow as an early-stage scaffold, and 73.4% of target-level changes after early-stage exits incorporated the hidden target without explicit correction being disclosed"
 id: early-stage-exit-incorporation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

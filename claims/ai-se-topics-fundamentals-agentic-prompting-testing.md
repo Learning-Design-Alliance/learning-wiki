@@ -3,7 +3,7 @@ type: claim
 title: AI/ML fundamentals, agentic development, prompting, and testing are the most commonly documented topics in AI-assisted software engineering courses
 description: AI/ML fundamentals, agentic development, prompting, and testing are the most commonly documented topics in AI-assisted software engineering courses
 id: ai-se-topics-fundamentals-agentic-prompting-testing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Principal turnover is associated with lower student achievement, worse climate, and higher teacher attrition, with effects lasting up to 5 years
 description: Principal turnover is associated with lower student achievement, worse climate, and higher teacher attrition, with effects lasting up to 5 years
 id: principal-turnover-harms-achievement-climate-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

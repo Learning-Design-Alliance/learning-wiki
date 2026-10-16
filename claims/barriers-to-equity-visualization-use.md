@@ -3,7 +3,7 @@ type: claim
 title: "Barriers to using equity visualizations included lack of classroom diversity and teachers' own equity beliefs"
 description: "Barriers to using equity visualizations included lack of classroom diversity and teachers' own equity beliefs"
 id: barriers-to-equity-visualization-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

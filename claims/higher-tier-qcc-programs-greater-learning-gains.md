@@ -3,14 +3,15 @@ type: claim
 title: Children in Tier 4 and Tier 5 preschool programs gained more learning and development from fall to spring than children in Tier 3 programs
 description: Children in Tier 4 and Tier 5 preschool programs gained more learning and development from fall to spring than children in Tier 3 programs
 id: higher-tier-qcc-programs-greater-learning-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
 sources:
   - id: sussman-2022
-    title: "Sussman, J., Melnick, H., Newton, E., Kriener-Althen, K., Draney, K., Mangione, P., & Gochyyev, P. (2022). Preschool quality and child development: How are learning gains related to program ratings? Learning Policy Institute."
+    resource: "https://learningpolicyinstitute.org/product/california-preschool-quality-ratings"
+    title: "Sussman, J., Melnick, H., Newton, E., Kriener-Althen, K., Draney, K., Mangione, P., & Gochyyev, P. (2022). Preschool quality and child development: How are learning gains related to program ratings? Learning Policy Institute. https://learningpolicyinstitute.org/product/california-preschool-quality-ratings"
     author: "Sussman, J., Melnick, H., Newton, E., Kriener-Althen, K., Draney, K., Mangione, P., & Gochyyev, P."
     q: 3
     i: 1
@@ -30,7 +31,7 @@ sources:
 
 ### Sussman 2022
 
-Sussman, J., Melnick, H., Newton, E., Kriener-Althen, K., Draney, K., Mangione, P., & Gochyyev, P. (2022). Preschool quality and child development: How are learning gains related to program ratings? Learning Policy Institute.
+Sussman, J., Melnick, H., Newton, E., Kriener-Althen, K., Draney, K., Mangione, P., & Gochyyev, P. (2022). Preschool quality and child development: How are learning gains related to program ratings? Learning Policy Institute. https://learningpolicyinstitute.org/product/california-preschool-quality-ratings
 
 `q3 · i1` · `associational · r2`
 

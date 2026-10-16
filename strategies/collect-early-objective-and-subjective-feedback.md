@@ -3,7 +3,7 @@ type: strategy
 id: collect-early-objective-and-subjective-feedback
 title: Collect early objective and subjective program feedback
 description: "This strategy calls for gathering both objective and subjective feedback early in a program's implementation, including internal and external graduate program reviews."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

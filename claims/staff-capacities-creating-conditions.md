@@ -3,7 +3,7 @@ type: claim
 title: Evaluator staff capacities centered on creating conditions for participation rather than technical control
 description: Evaluator staff capacities centered on creating conditions for participation rather than technical control
 id: staff-capacities-creating-conditions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

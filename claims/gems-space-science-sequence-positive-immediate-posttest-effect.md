@@ -3,7 +3,7 @@ type: claim
 title: GEMS® Space Science Sequence produces a statistically significant positive immediate-posttest effect on the Space Science Content test for grades 4–5 students
 description: GEMS® Space Science Sequence produces a statistically significant positive immediate-posttest effect on the Space Science Content test for grades 4–5 students
 id: gems-space-science-sequence-positive-immediate-posttest-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

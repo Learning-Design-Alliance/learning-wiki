@@ -3,7 +3,7 @@ type: claim
 title: The overall WEC well-being index has a weak positive association with academic outcomes, with effect sizes no larger than 0.1 SD
 description: The overall WEC well-being index has a weak positive association with academic outcomes, with effect sizes no larger than 0.1 SD
 id: wec-index-weak-positive-association-academic-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

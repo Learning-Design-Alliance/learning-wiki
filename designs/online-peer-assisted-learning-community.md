@@ -3,7 +3,7 @@ type: design
 id: online-peer-assisted-learning-community
 title: Online Peer Assisted Learning Community
 description: A reusable lesson- and course-level design in which an online learning community is built on peer assisted learning, blended learning, and knowledge management.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: strategy
 id: match-causal-elements-to-sport-situations
 title: Direct future attribution research at which causal elements apply most often to which sport situations
 description: In its conclusions, the review recommends that although attribution research has become more complex since Heider and Weiner, their original hypotheses should not be ignored.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

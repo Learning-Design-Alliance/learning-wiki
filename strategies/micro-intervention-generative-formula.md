@@ -3,7 +3,7 @@ type: strategy
 id: micro-intervention-generative-formula
 title: "Use the generative formula to craft new micro-interventions: observe a cue, connect it to a deeper need, and bridge with a reframe plus a tiny prescribed action"
 description: "Rather than memorizing scripts, instructors develop a generative capacity using the formula: \"When you observe [STUDENT BEHAVIOR/EMOTIONAL CUES], connect it to the [DEEPER HUMAN OR PROFESSIONAL NEED], using a bridge t..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: strategy
 id: target-support-by-school-recovery-patterns
 title: Use school-level recovery patterns to target support and long-term improvement investments where they are needed most
 description: The brief positions analysis of diverging recovery patterns as a decision aid for education leaders.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

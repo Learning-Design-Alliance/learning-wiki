@@ -3,7 +3,7 @@ type: claim
 title: Cheating tendency mediates the effects of procrastination, learned helplessness, and self-efficacy on AI-assisted dishonesty, with indirect effects stronger at higher AI use
 description: Cheating tendency mediates the effects of procrastination, learned helplessness, and self-efficacy on AI-assisted dishonesty, with indirect effects stronger at higher AI use
 id: cheating-tendency-mediated-indirect-effects-stronger-high-ai-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

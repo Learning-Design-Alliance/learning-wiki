@@ -3,7 +3,7 @@ type: research-method
 id: history-conditioned-student-simulation-two-component-profile-generator-plus-simulator-fram
 title: "History-conditioned student simulation: two-component profile-generator-plus-simulator framework"
 description: "The article establishes the task of history-conditioned student simulation, where a model predicts a student's next tutoring-dialogue turn conditioned on their prior question-answering and dialogue history."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

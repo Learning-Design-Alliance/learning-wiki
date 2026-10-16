@@ -3,7 +3,7 @@ type: strategy
 id: structure-consistency-distance-learning-schedules
 title: Create structure and consistency through schedules, regular communication, and clear instructions in distance learning
 description: "To help students feel settled, the brief advises educators to \"Create structure and consistency through lesson schedules, regularly scheduled communication, and clear, concise instructions.\" For virtual settings this..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Adult learners perceive AI as supporting consolidation-phase comparison, knowledge reorganization, and transfer
 description: Adult learners perceive AI as supporting consolidation-phase comparison, knowledge reorganization, and transfer
 id: ai-supports-consolidation-comparison-reorganization-transfer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

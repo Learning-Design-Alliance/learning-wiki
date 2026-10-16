@@ -3,7 +3,7 @@ type: claim
 title: Only two intercultural communication items (IC1, IC2) were removed from the global competence model, attributed to limited intercultural exposure
 description: Only two intercultural communication items (IC1, IC2) were removed from the global competence model, attributed to limited intercultural exposure
 id: global-competence-model-ic-items-removed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

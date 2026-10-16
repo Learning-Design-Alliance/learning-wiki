@@ -3,7 +3,7 @@ type: strategy
 id: teach-learners-app-evaluation-criteria
 title: Spend class time presenting the app evaluation framework so learners can make better-informed app choices
 description: Drawing on workshop feedback, the article recommends that teachers present the evaluation framework to students in class.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

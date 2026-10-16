@@ -3,7 +3,7 @@ type: element
 id: online-algebra-i-credit-recovery-course-element
 title: Online Algebra I credit recovery course offered the summer after ninth grade (Back on Track Study)
 description: An online credit recovery version of Algebra I offered the summer after ninth grade, evaluated in the Back on Track Study against a standard face-to-face version in 17 Chicago Public Schools high schools.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: ACT/SAT test preparation and coaching programs have positive effects on general academic achievement (high school), based on six studies averaging a +9 improvement index
 description: ACT/SAT test preparation and coaching programs have positive effects on general academic achievement (high school), based on six studies averaging a +9 improvement index
 id: actsat-prep-positive-effects-high-school-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

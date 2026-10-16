@@ -3,7 +3,7 @@ type: claim
 title: In the first deployment, exam scores on the induction question were visibly lower than in previous semesters taught without the tool
 description: In the first deployment, exam scores on the induction question were visibly lower than in previous semesters taught without the tool
 id: first-deployment-exam-scores-lower
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: element
 id: nwea-2021-22-achievement-technical-appendix
 title: Technical appendix document detailing sample and methods for the Student achievement in 2021-22 brief
 description: A technical appendix document accompanying the NWEA Research brief on student achievement in 2021-22, authored by Megan Kuhfeld and Karyn Lewis and dated July 2022.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

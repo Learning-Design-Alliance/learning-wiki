@@ -3,7 +3,7 @@ type: claim
 title: Full college-sequence completion rose from 9.6 to 15.8 percent, with about 75 percent of the unadjusted increase due to factors other than student composition
 description: Full college-sequence completion rose from 9.6 to 15.8 percent, with about 75 percent of the unadjusted increase due to factors other than student composition
 id: chicago-college-sequence-completion-rose-mostly-other-factors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

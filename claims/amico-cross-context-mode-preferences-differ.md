@@ -3,7 +3,7 @@ type: claim
 title: "Preferred emphasis between the two Amico modes differed by context: Italian participants emphasized reflective dialogue while Chinese participants emphasized relational harmony, with AmicoMio valued for technical reliability"
 description: "Preferred emphasis between the two Amico modes differed by context: Italian participants emphasized reflective dialogue while Chinese participants emphasized relational harmony, with AmicoMio valued for technical reli..."
 id: amico-cross-context-mode-preferences-differ
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

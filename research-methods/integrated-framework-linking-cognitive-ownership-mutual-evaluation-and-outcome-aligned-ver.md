@@ -3,7 +3,7 @@ type: research-method
 id: integrated-framework-linking-cognitive-ownership-mutual-evaluation-and-outcome-aligned-ver
 title: Integrated framework linking cognitive ownership, mutual evaluation, and outcome-aligned verification for assessing AI-assisted work
 description: The article develops a conceptual framework connecting cognitive ownership, mutual evaluation, and selected verification performances so that institutions can make bounded claims about learner capability.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

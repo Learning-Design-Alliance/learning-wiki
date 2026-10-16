@@ -3,7 +3,7 @@ type: claim
 title: Pooled AI tutoring produces statistically equivalent GRE learning gains to expert human tutoring
 description: Pooled AI tutoring produces statistically equivalent GRE learning gains to expert human tutoring
 id: pooled-ai-tutoring-equivalent-gre-learning-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: expose-girls-female-math-science-role-models
 title: Expose girls to female role models who have succeeded in math and science
 description: "Teachers should expose girls to female role models who have achieved in math or science to promote positive beliefs about women's abilities, because even in elementary school girls are aware of the stereotype that men..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: improve-llm-reasoning-under-uncertainty-ai-tutors
 title: "Improve LLMs' scientific and mathematical reasoning under uncertainty to enable AI tutors for science and maths learning"
 description: "The authors propose that the benchmark's findings motivate targeted improvement of LLMs on scientific and mathematical reasoning in contexts of uncertainty, where answers must be given from incomplete, progressively r..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

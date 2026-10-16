@@ -3,7 +3,7 @@ type: claim
 title: The school-entry-age findings were produced with a multi-state regression discontinuity analysis covering academic growth through second grade
 description: The school-entry-age findings were produced with a multi-state regression discontinuity analysis covering academic growth through second grade
 id: school-entry-age-multistate-regression-discontinuity-analysis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

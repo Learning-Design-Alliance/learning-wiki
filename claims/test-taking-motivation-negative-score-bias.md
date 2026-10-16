@@ -3,7 +3,7 @@ type: claim
 title: One measurement article argues that low test-taking motivation biases an individual student's achievement test score downward
 description: "One measurement article argues that low test-taking motivation biases an individual student's achievement test score downward"
 id: test-taking-motivation-negative-score-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: element
 id: mathematica-108-school-situation-model
 title: Simulation model of 108 school situations predicting infections and in-person attendance under opening, quarantining, and closing strategies
 description: A modeling tool developed by Mathematica to support school reopening decisions during the COVID-19 pandemic.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

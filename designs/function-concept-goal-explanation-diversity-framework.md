@@ -3,7 +3,7 @@ type: design
 id: function-concept-goal-explanation-diversity-framework
 title: Three-dimension semantic diversity framework for LLM code explanations (function, concept, goal)
 description: "The article operationalizes explanation diversity as three distinct semantic dimensions drawn from prior work on code comprehension: function, concept, and goal."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

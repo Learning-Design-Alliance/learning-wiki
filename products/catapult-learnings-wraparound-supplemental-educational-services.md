@@ -4,7 +4,7 @@ id: catapult-learnings-wraparound-supplemental-educational-services
 title: "Catapult Learning's Wraparound Supplemental Educational Services"
 description: A Catapult Learning supplemental-education programme that delivers AchieveLiteracy and AchieveMath curricula through structured, low-ratio small-group instruction in literacy and mathematics.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
@@ -111,7 +111,7 @@ Beyond academic instruction, the Wraparound program offers counseling services t
 
 ## Related Elements
 
-- [Title I Supplemental Educational Services (SES) tutoring program](../products/title-i-supplemental-educational-services-ses.md)
+- [Title I Supplemental Educational Services (SES) tutoring program](supplemental-educational-services.md)
 
 ## Examples
 -

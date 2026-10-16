@@ -3,7 +3,7 @@ type: design
 id: three-variant-ai-collaborative-text-editor
 title: Three-variant AI-assisted collaborative writing text editor
 description: A custom web-based text editor in which an LLM-backed artificial agent acts as a peer editor offering replacement suggestions and comments in an Editing Pane.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

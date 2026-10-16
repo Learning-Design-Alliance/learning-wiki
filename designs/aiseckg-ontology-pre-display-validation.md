@@ -3,7 +3,7 @@ type: design
 id: aiseckg-ontology-pre-display-validation
 title: AISecKG ontology as a pre-display validation layer for agent-generated content
 description: "CyberAGENTS integrates the AISecKG cybersecurity ontology, which \"defines valid entity types (e.g., tool, technique, attack, vulnerability, defense, system) and permissible relations among them (e.g., exploits, detect..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10
@@ -50,4 +50,4 @@ CyberAGENTS integrates the AISecKG cybersecurity ontology, which "defines valid 
 -
 
 ## Key Sources
-- Hornung, I., Marasinghe Arachchige, D., Kumarage, T., Agrawal, G., Deng, Y., Chen, Y.-C., & Liu, H. (2026). CyberAGENTS: Structured Autonomy for Agentic Gamified Learning in Cybersecurity. Preprint. https://arxiv.org/abs/2608.07965
+- Hornung, I., Marasinghe Arachchige, D., Kumarage, T., Agrawal, G., Deng, Y., Chen, Y.-C., & Liu, H. (2026). CyberAGENTS: Structured Autonomy for Agentic Gamified Learning in Cybersecurity. Preprint. https://arxiv.org/abs/2608.07965. [doi:10.48550/arxiv.2608.07965](https://doi.org/10.48550/arxiv.2608.07965)

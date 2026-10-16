@@ -3,7 +3,7 @@ type: claim
 title: LLM agreement with human examiners is limited in fast mode and improves in reasoning or thinking modes
 description: LLM agreement with human examiners is limited in fast mode and improves in reasoning or thinking modes
 id: llm-fast-mode-limited-thinking-mode-better-agreement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Effect sizes across GenAI studies are highly heterogeneous, requiring random-effects pooling
 description: Effect sizes across GenAI studies are highly heterogeneous, requiring random-effects pooling
 id: genai-effect-heterogeneity-random-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

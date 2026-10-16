@@ -3,7 +3,7 @@ type: principle
 id: integrated-ef-sel-digital-literacy-intervention
 title: Combine executive function training, social-emotional learning, and constructive digital literacy rather than relying on broad screen-time reduction alone
 description: The article proposes that intervention for adolescents in digital environments should integrate cognitive and affective components rather than target screen time alone.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

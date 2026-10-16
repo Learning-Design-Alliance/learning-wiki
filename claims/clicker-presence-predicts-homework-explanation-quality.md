@@ -3,7 +3,7 @@ type: claim
 title: Being present for a clicker question predicts a higher likelihood of providing a homework explanation demonstrating understanding, except in the lowest quartile
 description: Being present for a clicker question predicts a higher likelihood of providing a homework explanation demonstrating understanding, except in the lowest quartile
 id: clicker-presence-predicts-homework-explanation-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

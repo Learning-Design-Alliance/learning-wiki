@@ -3,7 +3,7 @@ type: research-method
 id: curriculum-instruction-assessment-triad-taxonomy-of-ai-educational-purposes-in-vet
 title: Curriculum-Instruction-Assessment triad taxonomy of AI educational purposes in VET
 description: Building on Wang et al.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

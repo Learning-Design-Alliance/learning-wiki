@@ -3,7 +3,7 @@ type: design
 id: addie-orchestration-framework-llm-lesson-generation
 title: ADDIE-based orchestration framework for curriculum-aligned LLM lesson generation with teacher validation gates
 description: "ConnectED uses the ADDIE instructional design model as a unifying orchestration layer, using \"ADDIE to structure instructional reasoning, decompose pedagogical goals, and control generation flow\" rather than treating..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

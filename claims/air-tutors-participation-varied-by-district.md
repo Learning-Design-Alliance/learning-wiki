@@ -3,7 +3,7 @@ type: claim
 title: "Student participation in Air Tutors varied greatly across districts: 93 percent of District A students met the 24-hour threshold versus 16 percent in District B, where 62 percent received 15 or fewer hours"
 description: "Student participation in Air Tutors varied greatly across districts: 93 percent of District A students met the 24-hour threshold versus 16 percent in District B, where 62 percent received 15 or fewer hours"
 id: air-tutors-participation-varied-by-district
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -4,7 +4,7 @@ id: cognitive-modifiability-battery-cmb
 title: Cognitive Modifiability Battery (CMB)
 description: A dynamic assessment and intervention instrument developed by Tzuriel for evaluating and supporting cognitive modifiability in young children, including children with complex learning difficulties.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: strategy
 id: identify-two-three-portfolio-pause-points
 title: Identify 2-3 intentional pause points for collecting and reflecting on artifacts
 description: Before implementing portfolios, educators analyze the most meaningful engagement points during the year or unit and select a small number of moments to pause.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

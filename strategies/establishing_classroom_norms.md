@@ -68,7 +68,7 @@ Norms function as procedural scaffolding: they reduce the cognitive and social u
 
 ## Examples
 - **Intensive Summer institutes (e.g., HILT/Harvard Bok Center teaching consultations)** recommend posting 3–5 discussion norms and rehearsing them with a first-day pair-share before the first graded discussion.
-- **Responsive Classroom** (https://www.responsiveclassroom.org) — K–8 program in which teachers and students co-create "classroom agreements" in the first six weeks, with interactive modeling of each routine.
+- **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveclassroom.org) — K–8 program in which teachers and students co-create "classroom agreements" in the first six weeks, with interactive modeling of each routine.
 - **Project Zero thinking routines** (https://pz.harvard.edu) — norms such as "make thinking visible" embedded in routines like *Claim–Support–Question*, giving discussion norms a concrete enactment.
 
 ## Key Sources

@@ -3,7 +3,7 @@ type: strategy
 id: explicit-subzone-classification-instruction
 title: Teach subzone classification explicitly as a teachable, assessable cognitive skill in clinical curricula
 description: The article recommends treating subzone classification as a teachable and assessable cognitive skill rather than policing AI use.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -52,4 +52,4 @@ The article recommends treating subzone classification as a teachable and assess
 -
 
 ## Key Sources
-- Tsim, F., Gutoreva, A., Weiss, A., & Dubosh, N. (2026). AI as Teammate: Rethinking Task Distribution in Medical Training. Correspondence: fenditsim@gmail.com. https://arxiv.org/abs/2608.28373
+- Tsim, F., Gutoreva, A., Weiss, A., & Dubosh, N. (2026). AI as Teammate: Rethinking Task Distribution in Medical Training. Correspondence: fenditsim@gmail.com. https://arxiv.org/abs/2608.28373. [doi:10.48550/arxiv.2608.28373](https://doi.org/10.48550/arxiv.2608.28373)

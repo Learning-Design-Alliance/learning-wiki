@@ -3,7 +3,7 @@ type: claim
 title: Rapid guesses on computer-based tests reflect a construct-irrelevant response process rather than the tested knowledge, skills, and abilities
 description: Rapid guesses on computer-based tests reflect a construct-irrelevant response process rather than the tested knowledge, skills, and abilities
 id: rapid-guessing-construct-irrelevant-response-process
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

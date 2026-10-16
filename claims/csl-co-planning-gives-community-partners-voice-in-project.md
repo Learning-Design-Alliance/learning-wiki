@@ -3,7 +3,7 @@ type: claim
 title: Community partners report that co-planning under the CSL model gives them a voice in what the service project will be and how it is implemented
 description: Community partners report that co-planning under the CSL model gives them a voice in what the service project will be and how it is implemented
 id: csl-co-planning-gives-community-partners-voice-in-project
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

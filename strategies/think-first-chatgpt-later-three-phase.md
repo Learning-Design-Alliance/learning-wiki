@@ -3,7 +3,7 @@ type: strategy
 id: think-first-chatgpt-later-three-phase
 title: "Think first, ChatGPT later: a three-phase approach for guided human–AI collaboration in creative problem-solving"
 description: A structured approach guiding learners to interact collaboratively with ChatGPT during creative problem-solving.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

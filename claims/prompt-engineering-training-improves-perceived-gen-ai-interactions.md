@@ -3,7 +3,7 @@ type: claim
 title: "A majority of physics students (76%) perceived a positive change in their Gen AI interactions after prompt-engineering training"
 description: "A majority of physics students (76%) perceived a positive change in their Gen AI interactions after prompt-engineering training"
 id: prompt-engineering-training-improves-perceived-gen-ai-interactions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

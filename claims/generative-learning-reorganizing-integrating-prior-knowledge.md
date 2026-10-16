@@ -3,7 +3,7 @@ type: claim
 title: Generative learning involves mentally reorganizing and integrating to-be-learned information with prior knowledge, enabling application to new situations
 description: Generative learning involves mentally reorganizing and integrating to-be-learned information with prior knowledge, enabling application to new situations
 id: generative-learning-reorganizing-integrating-prior-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

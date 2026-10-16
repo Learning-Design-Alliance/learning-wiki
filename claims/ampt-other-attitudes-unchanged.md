@@ -3,7 +3,7 @@ type: claim
 title: After the AMPT co-authoring session, attitudes towards mathematics other than sense of belonging remained unchanged
 description: After the AMPT co-authoring session, attitudes towards mathematics other than sense of belonging remained unchanged
 id: ampt-other-attitudes-unchanged
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Networking opportunities were the most valued feature of the network, with 20 of 24 interviewed teachers crediting them as playing the greatest role in changing their instruction
 description: Networking opportunities were the most valued feature of the network, with 20 of 24 interviewed teachers crediting them as playing the greatest role in changing their instruction
 id: networking-opportunities-greatest-instructional-influence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: K-12 educators report little direct involvement in DLP research while higher education participants are evenly split, and report higher-oversight roles
 description: K-12 educators report little direct involvement in DLP research while higher education participants are evenly split, and report higher-oversight roles
 id: k12-lower-dlp-research-participation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

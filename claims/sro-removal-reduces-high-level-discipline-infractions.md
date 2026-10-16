@@ -3,7 +3,7 @@ type: claim
 title: Full removal of SROs from CPS high schools was associated with a statistically significant reduction in high-level behavioral infractions at both the student and school levels
 description: Full removal of SROs from CPS high schools was associated with a statistically significant reduction in high-level behavioral infractions at both the student and school levels
 id: sro-removal-reduces-high-level-discipline-infractions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Items flagged as DIF were generally positioned at considerably different places between booklets, suggesting position-related DIF
 description: Items flagged as DIF were generally positioned at considerably different places between booklets, suggesting position-related DIF
 id: dif-items-differently-positioned-across-booklets
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: element
 id: technology-enhanced-items-tei-element
 title: Technology-enhanced items (TEIs) as an assessment format adaptable to learning styles
 description: "Technology-enhanced items (TEIs) are an assessment item format that the article proposes developing based on students' learning styles."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

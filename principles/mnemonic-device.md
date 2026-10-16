@@ -136,7 +136,7 @@ Recall with the cue, recall without it, delayed recall, use in a task and unders
 - [Dual Coding](dual-coding.md) — pairing words with a depicted structure; an imagery mnemonic uses an image as a cue instead.
 
 ## Examples
-- **Acronyms and acrostics**: Learners use a compressed cue to remember components of a process or classification.
+- **[Acronyms and acrostics](../strategies/acronyms_and_acrostics.md)**: Learners use a compressed cue to remember components of a process or classification.
 - **Method-of-loci or imagery cues**: Learners attach items to vivid locations or images to improve recall.
 - **Category labels**: Learners group items into meaningful clusters before memorizing.
 - **Formula or sequence reminders**: A mnemonic cue helps retrieve an ordered set of steps once the underlying process is understood.

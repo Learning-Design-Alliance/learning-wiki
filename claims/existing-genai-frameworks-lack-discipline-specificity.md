@@ -3,7 +3,7 @@ type: claim
 title: Existing GenAI assessment frameworks (traffic light, two-lane, AIAS) remain broad, lack discipline-specific applicability, and are unvalidated in authentic settings
 description: Existing GenAI assessment frameworks (traffic light, two-lane, AIAS) remain broad, lack discipline-specific applicability, and are unvalidated in authentic settings
 id: existing-genai-frameworks-lack-discipline-specificity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

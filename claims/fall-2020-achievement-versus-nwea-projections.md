@@ -3,7 +3,7 @@ type: claim
 title: The visualizations compare observed fall 2020 student achievement to NWEA’s projections
 description: The visualizations compare observed fall 2020 student achievement to NWEA’s projections
 id: fall-2020-achievement-versus-nwea-projections
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

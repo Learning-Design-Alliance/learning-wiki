@@ -3,7 +3,7 @@ type: claim
 title: Subjectively oriented reasoning emerged in the giving-birth context but disappeared in the die-rolling task
 description: Subjectively oriented reasoning emerged in the giving-birth context but disappeared in the die-rolling task
 id: subjective-reasoning-context-dependent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

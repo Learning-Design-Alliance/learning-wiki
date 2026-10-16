@@ -3,7 +3,7 @@ type: claim
 title: Black students in engineering are more likely to transfer from other four-year institutions than from two-year institutions
 description: Black students in engineering are more likely to transfer from other four-year institutions than from two-year institutions
 id: black-engineering-students-transfer-more-from-four-year
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

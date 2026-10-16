@@ -4,7 +4,7 @@ id: eight-proposed-cresst-assessment-tools
 title: Eight proposed CRESST assessment tools
 description: A suite of eight assessment tools proposed by the National Center for Research on Evaluation, Standards, and Student Testing (CRESST) to measure learning processes and performance through concept mapping, simulation, outlining, problem solving, and related tasks.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

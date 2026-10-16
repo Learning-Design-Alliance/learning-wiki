@@ -3,7 +3,7 @@ type: claim
 title: Task condition (decision-making vs. opinion-exchange) did not significantly moderate negotiation strategy use
 description: Task condition (decision-making vs.
 id: task-condition-did-not-moderate-strategy-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: "The majority (63%) of kindergartners hold naïve mental models of the day and night cycle, with the distance model the most common"
 description: "The majority (63%) of kindergartners hold naïve mental models of the day and night cycle, with the distance model the most common"
 id: kindergartners-majority-naive-day-night-models
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

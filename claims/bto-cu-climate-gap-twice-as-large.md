@@ -3,7 +3,7 @@ type: claim
 title: The school climate gap between beating-the-odds and chronically underperforming schools is more than twice as large as the gap between BTO and other schools
 description: The school climate gap between beating-the-odds and chronically underperforming schools is more than twice as large as the gap between BTO and other schools
 id: bto-cu-climate-gap-twice-as-large
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "The author of a 1997 conference paper reports finding no research supporting reverse transfer of skills from literacy to oral language"
 description: The author of a 1997 conference paper reports finding no research supporting reverse transfer of skills from literacy to oral language
 id: reverse-transfer-literacy-to-oral-unsupported
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

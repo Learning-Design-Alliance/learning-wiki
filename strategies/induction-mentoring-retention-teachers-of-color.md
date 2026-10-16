@@ -3,7 +3,7 @@ type: strategy
 id: induction-mentoring-retention-teachers-of-color
 title: Invest in high-quality induction and mentoring programs, which are associated with higher retention particularly for teachers of color
 description: "The brief recommends retention programming that provides ongoing support and growth opportunities: \"High-quality induction programs are associated with higher retention rates among early-career teachers for all teache..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

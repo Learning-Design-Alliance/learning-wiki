@@ -3,7 +3,7 @@ type: claim
 title: Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction
 description: Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction
 id: unstructured-llm-use-cognitive-offloading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

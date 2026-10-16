@@ -3,7 +3,7 @@ type: claim
 title: "Adults' past enjoyment of education-related epistemic freedom is between moderate and high, and their tendency toward it is high"
 description: "Adults' past enjoyment of education-related epistemic freedom is between moderate and high, and their tendency toward it is high"
 id: adults-past-freedom-moderate-high-tendency-high
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

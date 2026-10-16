@@ -2,7 +2,7 @@
 type: theory
 title: Learner-centered reinterpretation of the CoI framework placing learner presence at the intersection of the three presences
 description: The authors propose a graphic reinterpretation of the original CoI framework in which learner presence replaces educational experience at the center of the overlapping teaching, social, and cognitive presences.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

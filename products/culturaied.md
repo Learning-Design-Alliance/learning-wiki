@@ -4,7 +4,7 @@ id: culturaied
 title: CulturAIEd
 description: CulturAIEd is an LLM-powered Streamlit tool developed by Jiayi Wang et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

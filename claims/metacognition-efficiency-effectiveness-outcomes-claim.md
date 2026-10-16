@@ -3,7 +3,7 @@ type: claim
 title: The paper reports that metacognition—students thinking about how they understand their own learning—supports more efficient and effective learning and improved outcomes
 description: The paper reports that metacognition—students thinking about how they understand their own learning—supports more efficient and effective learning and improved outcomes
 id: metacognition-efficiency-effectiveness-outcomes-claim
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

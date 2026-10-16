@@ -3,7 +3,7 @@ type: claim
 title: Reliance type membership significantly predicts all ten writing-process and outcome variables, supporting criterion validity of the typology
 description: Reliance type membership significantly predicts all ten writing-process and outcome variables, supporting criterion validity of the typology
 id: reliance-type-predicts-writing-process-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

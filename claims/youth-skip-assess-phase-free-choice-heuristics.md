@@ -3,7 +3,7 @@ type: claim
 title: Youth engaged free-choice learning heuristics in everyday problem-solving but typically skipped the assess phase
 description: Youth engaged free-choice learning heuristics in everyday problem-solving but typically skipped the assess phase
 id: youth-skip-assess-phase-free-choice-heuristics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

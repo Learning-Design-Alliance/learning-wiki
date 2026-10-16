@@ -3,7 +3,7 @@ type: claim
 title: The relationship between professional identity and innovative behavior is stronger among teachers with lower reported frequencies of GenAI tool use
 description: The relationship between professional identity and innovative behavior is stronger among teachers with lower reported frequencies of GenAI tool use
 id: professional-identity-innovation-link-stronger-among-low-frequency-genai-users
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Cognitive constructivism has strong empirical support and suggests new directions for science education, and must be distinguished from metaphysical constructivism
 description: Cognitive constructivism has strong empirical support and suggests new directions for science education, and must be distinguished from metaphysical constructivism
 id: grandy-cognitive-vs-metaphysical-constructivism
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

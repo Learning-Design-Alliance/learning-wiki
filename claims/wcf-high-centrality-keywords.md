@@ -3,7 +3,7 @@ type: claim
 title: The highest-centrality keywords in WCF-in-L2-writing research were student, corrective feedback, accuracy, acquisition and L2 writing
 description: The highest-centrality keywords in WCF-in-L2-writing research were student, corrective feedback, accuracy, acquisition and L2 writing
 id: wcf-high-centrality-keywords
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

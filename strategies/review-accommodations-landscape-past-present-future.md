@@ -3,7 +3,7 @@ type: strategy
 id: review-accommodations-landscape-past-present-future
 title: Review the accommodations landscape across past developments, present progress, and new areas to explore
 description: "The article's stated approach is to \"review the accommodations landscape— discover the past, highlight our present progress, and uncover new areas to explore.\" This three-part review strategy — historical development,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

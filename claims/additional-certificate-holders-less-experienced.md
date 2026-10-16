@@ -3,7 +3,7 @@ type: claim
 title: Additional certificate holders had fewer years of teaching experience on average (7 years) than teachers who did not earn additional certificates (15 years)
 description: Additional certificate holders had fewer years of teaching experience on average (7 years) than teachers who did not earn additional certificates (15 years)
 id: additional-certificate-holders-less-experienced
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

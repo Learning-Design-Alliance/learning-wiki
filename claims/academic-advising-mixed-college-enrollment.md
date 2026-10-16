@@ -3,7 +3,7 @@ type: claim
 title: Of six academic advising programs with studies meeting WWC standards, two (Talent Search and Sponsor-a-Scholar) improved college enrollment and four had no impact
 description: Of six academic advising programs with studies meeting WWC standards, two (Talent Search and Sponsor-a-Scholar) improved college enrollment and four had no impact
 id: academic-advising-mixed-college-enrollment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

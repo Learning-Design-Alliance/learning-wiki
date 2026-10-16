@@ -3,7 +3,7 @@ type: claim
 title: Using a stair-step pattern of solar wind input conditions in the simulation portion of the lab led to much better student results than linearly varying conditions
 description: Using a stair-step pattern of solar wind input conditions in the simulation portion of the lab led to much better student results than linearly varying conditions
 id: stair-step-solar-wind-inputs-improve-lab-results
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
@@ -18,8 +18,8 @@ sources:
     kind: design
     rigour: 2
   - id: crumley-2015-2
-    resource: "https://arxiv.org/abs/0706.1985"
-    title: "Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985"
+    resource: "https://doi.org/10.48550/arxiv.0706.1985"
+    title: "Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985. [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)"
     author: Crumley, Palczewski, and Kaster
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Using a stair-step pattern of solar wind input conditions in the simulation portion of the lab led to much better student results than linearly varying conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Having solar wind parameters vary linearly with time leads to poor results because changes take time to propagate through the magnetosphere. [→ Crumley 2015](#crumley-2015)
@@ -50,7 +50,7 @@ Instructor-reported outcome from the lab-development section describing early ve
 
 ### Crumley 2015 (2)
 
-Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985
+Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985. [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)
 
 `q2 · i? · the article prints no effect size for this finding` · `design · r2`
 

@@ -2,7 +2,7 @@
 type: claim
 title: Media comparison studies produce uninterpretable "no significant difference" findings.
 id: media-comparison-studies-produce-uninterpretable-results
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

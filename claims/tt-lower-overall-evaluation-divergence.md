@@ -3,7 +3,7 @@ type: claim
 title: The teacher–teacher format received a significantly lower overall evaluation than the teacher–student format despite raising motivation, with no significant learner-characteristic interactions
 description: The teacher–teacher format received a significantly lower overall evaluation than the teacher–student format despite raising motivation, with no significant learner-characteristic interactions
 id: tt-lower-overall-evaluation-divergence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

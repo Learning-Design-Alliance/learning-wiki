@@ -3,7 +3,7 @@ type: strategy
 id: ai-math-safeguard-strategy-set
 title: "Implement a coordinated set of safeguards: data-protection policies, fairness-oriented algorithms, assessment redesign, teacher professional development, subsidised tools, and infrastructure investment"
 description: The review consolidates the strategic approaches recommended by recent research to reduce AI risks in mathematics education.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

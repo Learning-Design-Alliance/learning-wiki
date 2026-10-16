@@ -3,7 +3,7 @@ type: claim
 title: "Learning-technique effects do not shrink across test delays from the same day to six months"
 description: "Effects were d = 0.58 under a day, 0.59 from a day to a week, 0.56 from a week to a month and 0.51 from one to six months, with no overall differences; 68% of effects were measured within a day."
 id: learning-technique-effects-stable-over-test-delays-up-to-six-months
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-10-13

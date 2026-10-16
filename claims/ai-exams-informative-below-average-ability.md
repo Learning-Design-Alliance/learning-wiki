@@ -3,7 +3,7 @@ type: claim
 title: For all θ < 0.75, AI-generated exams were on average more informative than the standardized exams, with I(0) = 3.36 versus 2.5
 description: For all θ < 0.75, AI-generated exams were on average more informative than the standardized exams, with I(0) = 3.36 versus 2.5
 id: ai-exams-informative-below-average-ability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

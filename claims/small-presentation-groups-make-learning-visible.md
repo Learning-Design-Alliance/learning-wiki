@@ -3,7 +3,7 @@ type: claim
 title: "Reducing the number of children in a presentation and letting them describe similarities and differences made children's knowledge visible to the teacher"
 description: "Reducing the number of children in a presentation and letting them describe similarities and differences made children's knowledge visible to the teacher"
 id: small-presentation-groups-make-learning-visible
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

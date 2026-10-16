@@ -3,7 +3,7 @@ type: claim
 title: Performance improvements from generative AI assistance diminished once the assistance was removed
 description: Performance improvements from generative AI assistance diminished once the assistance was removed
 id: genai-performance-gains-diminish-without-assistance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

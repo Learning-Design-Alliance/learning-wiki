@@ -3,7 +3,7 @@ type: claim
 title: "Reading proficiency level moderates incidental vocabulary gains: higher-proficiency readers gained more, consistent with i+1"
 description: "Reading proficiency level moderates incidental vocabulary gains: higher-proficiency readers gained more, consistent with i+1"
 id: proficiency-level-moderates-incidental-vocabulary-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

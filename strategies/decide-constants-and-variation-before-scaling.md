@@ -3,7 +3,7 @@ type: strategy
 id: decide-constants-and-variation-before-scaling
 title: Decide what stays constant and what varies, based on the research goal, before scaling across contexts
 description: "The article recommends that \"Scalable implementation requires thoughtful decisions about which aspects of the learning environment should remain constant and which should vary, based on the research goal, before imple..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

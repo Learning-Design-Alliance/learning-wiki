@@ -3,7 +3,7 @@ type: claim
 title: Random Forest using nine interpretable stylometric features detects GPT-assisted student writing with held-out ROC-AUC of 0.870 and F1 of 0.842
 description: Random Forest using nine interpretable stylometric features detects GPT-assisted student writing with held-out ROC-AUC of 0.870 and F1 of 0.842
 id: stylometric-features-detect-gpt-assisted-writing-rf-auc-0870
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

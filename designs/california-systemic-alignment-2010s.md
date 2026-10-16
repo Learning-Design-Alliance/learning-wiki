@@ -3,7 +3,7 @@ type: design
 id: california-systemic-alignment-2010s
 title: "California's 2010s systemic alignment of standards, curriculum frameworks, instructional materials, assessments, teacher education, equitable funding, and multiple measures accountability"
 description: "The paper presents California's 2010s reforms, enacted while the author was State Board of Education president, as a promising example of systemic standards-based reform."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

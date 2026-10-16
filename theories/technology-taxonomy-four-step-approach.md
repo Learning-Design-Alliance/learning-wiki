@@ -2,7 +2,7 @@
 type: theory
 title: "Taxonomy development for technology: a four-step research approach to visualize the totality of technology"
 description: The report proposes that taxonomies must be developed for the technologies, since other disciplines have developed them but this has never been done in the technologies, leaving contemporary efforts fragmented.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -119,16 +119,16 @@ Routines convert recurring logistical decisions into automatic behavior, reducin
 - [Timers and pacing](../strategies/timers_and_pacing.md) — tools that support transition routines
 
 ## Examples
-- **Responsive Classroom** (https://www.responsiveclassroom.org) — the "Interactive Modeling" routine teaches procedures through a seven-step model-practice-feedback cycle used across thousands of elementary schools.
+- **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveclassroom.org) — the "Interactive Modeling" routine teaches procedures through a seven-step model-practice-feedback cycle used across thousands of elementary schools.
 - **KIPP schools' "SLANT" routine** — a cued procedure (Sit up, Listen, Ask and answer questions, Nod, Track the speaker) for attention during instruction.
 - **Rosenshine's "daily review"** — beginning each lesson with a short review of prior material, a routine with strong process-product research support.
-- **Responsive Classroom** (https://www.responsiveworkplace.org / https://www.responsiveclassroom.org) — teacher-language and routine-teaching practices (Interactive Modeling) in which procedures are demonstrated, practiced, and debriefed.
+- **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveworkplace.org / https://www.responsiveclassroom.org) — teacher-language and routine-teaching practices (Interactive Modeling) in which procedures are demonstrated, practiced, and debriefed.
 - **KIPP charter network** — highly codified SLANT-style behavioral routines; effective at maximizing time on task, though criticized when applied without student rationale or autonomy.
 - **Direct Instruction programs** (e.g., *Reading Mastery*) — signal-based response routines that automate turn-taking and pacing so instructional density stays high.
-- **Responsive Classroom** (https://www.responsiveclassroom.org) — the "Morning Meeting" routine structures entry with greeting, sharing, and a group activity, building community and predictable start-of-day structure.
+- **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveclassroom.org) — the "Morning Meeting" routine structures entry with greeting, sharing, and a group activity, building community and predictable start-of-day structure.
 - **CHAMPS** (Safe & Civil Schools) — explicit, posted expectations for each activity type (Conversation, Help, Activity, Movement, Participation, Success), taught as routines at the start of each task.
 - **Elementary math number talks** — a daily discourse routine (problem posed, silent think time, multiple solutions shared and defended) that automates participation structures so attention goes to reasoning.
-- **Responsive Classroom** (https://www.responsiveclassroom.org) — the "Morning Meeting" routine structures entry with greeting, sharing, and activity, building community and predictability in elementary classrooms.
+- **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveclassroom.org) — the "Morning Meeting" routine structures entry with greeting, sharing, and activity, building community and predictability in elementary classrooms.
 - **KIPP schools' SLANT routines** — rehearsed attention routines (Sit up, Listen, Ask questions, Nod, Track the speaker) taught explicitly at school entry.
 - **Wong & Wong, *The First Days of School*** — widely used protocol of teaching entry, homework, and dismissal procedures during the first week of class.
 

@@ -3,7 +3,7 @@ type: claim
 title: Coursework hour requirements varied widely across certification programs and did not consistently differ by route
 description: Coursework hour requirements varied widely across certification programs and did not consistently differ by route
 id: coursework-hours-vary-by-route-and-state
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

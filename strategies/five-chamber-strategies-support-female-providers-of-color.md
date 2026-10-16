@@ -3,7 +3,7 @@ type: strategy
 id: five-chamber-strategies-support-female-providers-of-color
 title: Five ways state and local chambers can support working families by supporting female providers of color
 description: "The report recommends five strategies for state and local chambers of commerce, derived from its interviews: share resources and information about \"funding opportunities, health insurance, and COVID-19-related health..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Principals in improving schools actively reach out to teachers, parents, and community leaders and coordinate programs strategically
 description: Principals in improving schools actively reach out to teachers, parents, and community leaders and coordinate programs strategically
 id: improving-school-principals-reach-out-coordinate-programs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

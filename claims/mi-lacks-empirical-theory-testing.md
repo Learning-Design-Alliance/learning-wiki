@@ -3,7 +3,7 @@ type: claim
 title: MI theory lacks empirical theory-testing research supporting its intelligences as autonomous faculties
 description: MI theory lacks empirical theory-testing research supporting its intelligences as autonomous faculties
 id: mi-lacks-empirical-theory-testing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

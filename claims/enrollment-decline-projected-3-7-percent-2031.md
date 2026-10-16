@@ -3,7 +3,7 @@ type: claim
 title: K-12 public school enrollment is declining and projected to fall 3.7 percent by 2031, reducing funding in the 35 states and DC that use student-based funding formulas
 description: K-12 public school enrollment is declining and projected to fall 3.7 percent by 2031, reducing funding in the 35 states and DC that use student-based funding formulas
 id: enrollment-decline-projected-3-7-percent-2031
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

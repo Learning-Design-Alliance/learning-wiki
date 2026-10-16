@@ -3,7 +3,7 @@ type: claim
 title: Ninth-grade on-track status predicts graduation more strongly than prior achievement, with a 55 percentage point gap after controls
 description: Ninth-grade on-track status predicts graduation more strongly than prior achievement, with a 55 percentage point gap after controls
 id: ontrack-predicts-graduation-beyond-prior-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

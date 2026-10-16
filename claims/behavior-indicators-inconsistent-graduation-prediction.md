@@ -3,7 +3,7 @@ type: claim
 title: "Behavior indicators show inconsistent predictive strength for high school graduation: several studies find them strongly predictive, but behavior was not predictive in Chicago above and beyond grades and attendance"
 description: "Behavior indicators show inconsistent predictive strength for high school graduation: several studies find them strongly predictive, but behavior was not predictive in Chicago above and beyond grades and attendance"
 id: behavior-indicators-inconsistent-graduation-prediction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Group-based mastery learning programs yield positive achievement effects in every included study, but effect sizes vary so widely that an average was deemed inappropriate
 description: Group-based mastery learning programs yield positive achievement effects in every included study, but effect sizes vary so widely that an average was deemed inappropriate
 id: group-mastery-positive-achievement-all-studies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

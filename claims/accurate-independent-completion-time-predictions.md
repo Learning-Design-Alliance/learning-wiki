@@ -3,7 +3,7 @@ type: claim
 title: People are well-calibrated about their own independent completion times
 description: People are well-calibrated about their own independent completion times
 id: accurate-independent-completion-time-predictions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Colorado's financial incentives for community alternatives and an interagency agreement were followed by a decline in residential institutional placements"
 description: "Colorado's financial incentives for community alternatives and an interagency agreement were followed by a decline in residential institutional placements"
 id: colorado-deinstitutionalization-incentives-declined-placements
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

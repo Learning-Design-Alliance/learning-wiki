@@ -3,7 +3,7 @@ type: claim
 title: Youth with an IEP are more likely than youth without an IEP to struggle academically, yet less likely to receive some forms of school-based support
 description: Youth with an IEP are more likely than youth without an IEP to struggle academically, yet less likely to receive some forms of school-based support
 id: iep-youth-academic-struggle-less-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

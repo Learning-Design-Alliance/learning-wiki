@@ -3,7 +3,7 @@ type: claim
 title: "Teacher-guided matching activities and peer scaffolding during grid and path games advanced preschool children's one-to-one correspondence and counting skills"
 description: "Teacher-guided matching activities and peer scaffolding during grid and path games advanced preschool children's one-to-one correspondence and counting skills"
 id: guided-matching-and-peer-scaffolding-build-correspondence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

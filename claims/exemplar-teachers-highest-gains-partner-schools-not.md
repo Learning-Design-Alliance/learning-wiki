@@ -3,7 +3,7 @@ type: claim
 title: "Achievement gains were highest for PLI Exemplar teachers, while PLI Partner school teachers' gains were not higher than non-PLI teachers districtwide"
 description: "Achievement gains were highest for PLI Exemplar teachers, while PLI Partner school teachers' gains were not higher than non-PLI teachers districtwide"
 id: exemplar-teachers-highest-gains-partner-schools-not
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

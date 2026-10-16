@@ -3,7 +3,7 @@ type: claim
 title: Combined latent scores are highly predictive of third grade assessment scores in pre-pandemic years, with correlations from 0.67 to 0.82
 description: Combined latent scores are highly predictive of third grade assessment scores in pre-pandemic years, with correlations from 0.67 to 0.82
 id: latent-scores-predict-third-grade-assessment-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

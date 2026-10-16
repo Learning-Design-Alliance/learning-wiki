@@ -3,7 +3,7 @@ type: strategy
 id: one-week-stem-career-academies
 title: Run one-week summer STEM career academies combining a project-based learning unit, an industry tour, and a family showcase
 description: "A CAC member described a summer career-exploration model in which students \"try out our different pathways\" through a week-long project-based learning unit, an industry tour, and a closing showcase for families."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Candidate selection is a second bottleneck: an oracle ranker over proposed candidates substantially raises proportional match, and plausibility checks reject some valid distractors"
 description: "Candidate selection is a second bottleneck: an oracle ranker over proposed candidates substantially raises proportional match, and plausibility checks reject some valid distractors"
 id: candidate-selection-loss-oracle-ranker
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

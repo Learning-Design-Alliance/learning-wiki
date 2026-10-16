@@ -3,7 +3,7 @@ type: strategy
 id: professional-learning-pathways-standards-operationalization
 title: Operationalize the faculty standards through structured professional learning pathways with modules, microcredentials, and peer review
 description: The article recommends embedding the standards into structured professional learning pathways that include orientation sessions, mentoring, and ongoing microcredential opportunities.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

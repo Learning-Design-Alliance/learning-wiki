@@ -3,7 +3,7 @@ type: claim
 title: Privacy capacity was unevenly distributed, distinguishing resource scarcity from strategic deprioritization of privacy
 description: Privacy capacity was unevenly distributed, distinguishing resource scarcity from strategic deprioritization of privacy
 id: uneven-privacy-capacity-scarcity-versus-deprioritization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

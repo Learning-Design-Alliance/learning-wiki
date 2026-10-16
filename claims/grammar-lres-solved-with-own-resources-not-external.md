@@ -3,7 +3,7 @@ type: claim
 title: Learners resolve grammar-related noticing with intuition, reasoning, rephrasing and explicit rules rather than external resources
 description: Learners resolve grammar-related noticing with intuition, reasoning, rephrasing and explicit rules rather than external resources
 id: grammar-lres-solved-with-own-resources-not-external
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

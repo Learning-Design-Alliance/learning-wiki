@@ -2,7 +2,7 @@
 type: theory
 title: Cognitive Flexibility Theory and its five instructional principles for complex, ill-structured knowledge domains
 description: Cognitive flexibility theory (CFT) is a constructivist theory of designing instruction for case-based learning, proposed by Spiro and co-workers to address acquisition and transfer of complex and ill-structured knowle...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

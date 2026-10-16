@@ -3,7 +3,7 @@ type: strategy
 id: introduce-acrl-framework-early-capstone
 title: Introduce the ACRL Framework early in the capstone cycle to allow time to digest and connect it to research work
 description: The authors recommend introducing the ACRL Framework at the beginning of the capstone project rather than mid-cycle, so participants can explore and reflect on it throughout the research process.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

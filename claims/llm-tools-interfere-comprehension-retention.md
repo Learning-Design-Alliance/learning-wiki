@@ -3,7 +3,7 @@ type: claim
 title: LLM-based tools may interfere with reading comprehension and retention despite learners finding them helpful
 description: LLM-based tools may interfere with reading comprehension and retention despite learners finding them helpful
 id: llm-tools-interfere-comprehension-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

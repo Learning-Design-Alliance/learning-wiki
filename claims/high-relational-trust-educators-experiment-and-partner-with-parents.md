@@ -3,7 +3,7 @@ type: claim
 title: In schools characterized by high relational trust, educators were more likely to experiment with new practices and work together with parents to advance improvements
 description: In schools characterized by high relational trust, educators were more likely to experiment with new practices and work together with parents to advance improvements
 id: high-relational-trust-educators-experiment-and-partner-with-parents
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

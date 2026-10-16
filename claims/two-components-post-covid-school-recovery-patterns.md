@@ -3,7 +3,7 @@ type: claim
 title: The “From loss to recovery” brief examines two components of school recovery post-COVID to understand diverging recovery patterns across schools
 description: The “From loss to recovery” brief examines two components of school recovery post-COVID to understand diverging recovery patterns across schools
 id: two-components-post-covid-school-recovery-patterns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

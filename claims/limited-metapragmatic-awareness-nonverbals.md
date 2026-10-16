@@ -3,7 +3,7 @@ type: claim
 title: Participants showed little metapragmatic awareness of their own nonverbal attention-getting devices in immediate recall
 description: Participants showed little metapragmatic awareness of their own nonverbal attention-getting devices in immediate recall
 id: limited-metapragmatic-awareness-nonverbals
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

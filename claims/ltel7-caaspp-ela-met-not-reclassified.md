@@ -3,7 +3,7 @@ type: claim
 title: Students designated as LTEL7 who reached the recommended CAASPP ELA achievement cut point were not yet reclassified as fluent English proficient
 description: Students designated as LTEL7 who reached the recommended CAASPP ELA achievement cut point were not yet reclassified as fluent English proficient
 id: ltel7-caaspp-ela-met-not-reclassified
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -44,5 +44,5 @@ Analysis of CAASPP ELA performance data for 2022–23. The report states "some s
 
 ## Related Claims
 - Policy adherence is high across states (96-98 percent of eligible students reclassified) but is relatively lower in the state mandating end-of-grade assessment proficiency — related
-- [Despite improvements in English proficiency, only about half of K-cohort ELs were reclassified by the end of elementary school, revealing a gap between proficiency and reclassification](proficiency-reclassification-gap-ltels.md) — related
+- Despite improvements in English proficiency, only about half of K-cohort ELs were reclassified by the end of elementary school, revealing a gap between proficiency and reclassification — related
 - [Large performance gaps on grades 6–8 and grade 11 CAASPP ELA and math tests, with LTEL7 students performing at lower levels than other ever-ELs](ltel7-caaspp-performance-gaps.md) — related

@@ -4,7 +4,7 @@ id: professional-learning-communities-at-work-plc-at-work
 title: Professional Learning Communities at Work (PLC at Work)
 description: "Solution Tree's school-improvement programme organizes recurring cycles of educator collaboration, assessment, and targeted intervention around collective responsibility for student learning."
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

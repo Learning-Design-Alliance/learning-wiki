@@ -3,7 +3,7 @@ type: claim
 title: Per-pupil costs for TLTS averaged $242 per year
 description: Per-pupil costs for TLTS averaged $242 per year
 id: tlts-per-pupil-cost-242
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: ground-ai-ethics-inquiry-in-teaching-practice
 title: Ground ethical inquiry into AI in the realities of teaching, assessment, leadership, and professional judgement rather than treating it as external compliance
 description: "Based on the bibliometric finding that AI ethics research is reorienting toward practice-based, interpretive, and relational frameworks, the article recommends that \"ethical inquiry into AI must be grounded in the rea..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

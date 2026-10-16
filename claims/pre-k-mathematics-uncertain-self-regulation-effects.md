@@ -3,7 +3,7 @@ type: claim
 title: Pre-K Mathematics shows uncertain effects on preschool self-regulation skills
 description: Pre-K Mathematics shows uncertain effects on preschool self-regulation skills
 id: pre-k-mathematics-uncertain-self-regulation-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

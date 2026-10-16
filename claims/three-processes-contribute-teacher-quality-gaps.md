@@ -3,7 +3,7 @@ type: claim
 title: Teacher attrition, mobility, and hiring jointly contribute to teacher quality gaps between students of color and other students
 description: Teacher attrition, mobility, and hiring jointly contribute to teacher quality gaps between students of color and other students
 id: three-processes-contribute-teacher-quality-gaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

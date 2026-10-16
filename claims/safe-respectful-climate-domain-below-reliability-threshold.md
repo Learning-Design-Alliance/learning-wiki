@@ -3,7 +3,7 @@ type: claim
 title: The safe and respectful school climate domain of the elementary student survey fell short of the established reliability threshold
 description: The safe and respectful school climate domain of the elementary student survey fell short of the established reliability threshold
 id: safe-respectful-climate-domain-below-reliability-threshold
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

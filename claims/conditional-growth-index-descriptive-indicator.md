@@ -3,7 +3,7 @@ type: claim
 title: The conditional growth index serves as a descriptive indicator of student learning progress
 description: The conditional growth index serves as a descriptive indicator of student learning progress
 id: conditional-growth-index-descriptive-indicator
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

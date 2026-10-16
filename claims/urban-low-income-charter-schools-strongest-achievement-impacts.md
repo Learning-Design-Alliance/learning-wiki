@@ -3,7 +3,7 @@ type: claim
 title: Urban charter schools and charters serving low-achieving, low-income students show the strongest positive achievement impacts
 description: Urban charter schools and charters serving low-achieving, low-income students show the strongest positive achievement impacts
 id: urban-low-income-charter-schools-strongest-achievement-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

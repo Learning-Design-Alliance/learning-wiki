@@ -3,7 +3,7 @@ type: design
 id: deterministic-pedagogical-orchestration-architecture
 title: Deterministic pedagogical orchestration architecture with the LLM as linguistic executor
 description: "The architecture separates pedagogical orchestration from text generation: instructional decisions (intent recognition, concept selection, chunk typing, prompt structure) are handled by deterministic modules, and the..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

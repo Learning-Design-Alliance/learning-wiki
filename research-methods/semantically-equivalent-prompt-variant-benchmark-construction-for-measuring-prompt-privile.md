@@ -3,7 +3,7 @@ type: research-method
 id: semantically-equivalent-prompt-variant-benchmark-construction-for-measuring-prompt-privile
 title: Semantically equivalent prompt-variant benchmark construction for measuring prompt privilege
 description: "A benchmark construction methodology that instantiates prompt privilege on the MedQA benchmark: for each original MedQA question, four additional semantically equivalent prompt variants are generated representing distinct user cohorts — Low Literacy, Everyday User, Educated User, and Prompt Engineer"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

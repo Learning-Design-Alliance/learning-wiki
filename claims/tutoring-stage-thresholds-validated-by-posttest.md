@@ -3,7 +3,7 @@ type: claim
 title: "Posttest scores increase monotonically across the tutoring algorithm's acquisition stages, supporting its stage criteria, though control-group items did not differ from items still in active acquisition"
 description: "Posttest scores increase monotonically across the tutoring algorithm's acquisition stages, supporting its stage criteria, though control-group items did not differ from items still in active acquisition"
 id: tutoring-stage-thresholds-validated-by-posttest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

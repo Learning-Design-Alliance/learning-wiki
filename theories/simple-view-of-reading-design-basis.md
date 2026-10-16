@@ -2,7 +2,7 @@
 type: theory
 title: Simple View of Reading as the design basis for MAP Reading Fluency
 description: "The assessment's test design is explicitly grounded in the Simple View of Reading model (Gough & Tunmer, 1986), which the report describes as \"a research-validated model of reading development that proposes that two b..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

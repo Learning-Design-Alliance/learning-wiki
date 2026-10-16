@@ -3,7 +3,7 @@ type: claim
 title: Early-adopting districts used alternative student growth measures alongside other measures in formal teacher evaluations
 description: Early-adopting districts used alternative student growth measures alongside other measures in formal teacher evaluations
 id: early-adopters-used-alternative-growth-measures-in-formal-evaluations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

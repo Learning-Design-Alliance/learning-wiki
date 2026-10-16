@@ -3,7 +3,7 @@ type: strategy
 id: reporting-template-appendix-recommendations
 title: Include recommended appendices with solution details, findings relative to targets, and study methods
 description: The template recommends a set of appendices to accompany the short report.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

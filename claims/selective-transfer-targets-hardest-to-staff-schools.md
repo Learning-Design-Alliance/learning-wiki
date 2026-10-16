@@ -3,7 +3,7 @@ type: claim
 title: The transfer incentive targeted high-performing teachers into the hardest-to-staff schools within their own districts
 description: The transfer incentive targeted high-performing teachers into the hardest-to-staff schools within their own districts
 id: selective-transfer-targets-hardest-to-staff-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

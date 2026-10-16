@@ -4,7 +4,7 @@ id: a-wearable-exam-stress-dataset-for-predicting-cognitive-performance-in-real-
 title: A Wearable Exam Stress Dataset for Predicting Cognitive Performance in Real-World Settings
 description: An open-access PhysioNet dataset of Empatica E4 physiological signals collected from college students during exams, released for studying stress and predicting cognitive performance.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

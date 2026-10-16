@@ -3,7 +3,7 @@ type: claim
 title: An AI-supported reading progress tool produced large effect sizes for speed and accuracy but not significant prosody gains for third-grade EFL learners
 description: An AI-supported reading progress tool produced large effect sizes for speed and accuracy but not significant prosody gains for third-grade EFL learners
 id: ai-reading-progress-speed-accuracy-large-effects-prosody-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

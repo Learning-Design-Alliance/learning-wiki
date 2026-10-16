@@ -3,7 +3,7 @@ type: strategy
 id: personalize-family-texts-to-developmental-level
 title: "Personalize and differentiate family text messages to each child's developmental level"
 description: "The kindergarten follow-up tested whether \"personalized and differentiated messaging based on each child’s developmental level would enhance outcomes compared to general literacy messages.\" The personalized text arm s..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

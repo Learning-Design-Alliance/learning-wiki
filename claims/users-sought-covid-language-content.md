@@ -3,7 +3,7 @@ type: claim
 title: Duolingo users sought COVID-19 vocabulary in foreign languages and shared their own translations, with 17 users requesting pandemic-related lesson content
 description: Duolingo users sought COVID-19 vocabulary in foreign languages and shared their own translations, with 17 users requesting pandemic-related lesson content
 id: users-sought-covid-language-content
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

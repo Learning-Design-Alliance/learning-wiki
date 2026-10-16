@@ -3,7 +3,7 @@ type: claim
 title: "91% of UAT participants rated the Taklif.AI user interface as intuitive"
 description: "91% of UAT participants rated the Taklif.AI user interface as intuitive"
 id: uat-91-percent-rate-interface-intuitive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

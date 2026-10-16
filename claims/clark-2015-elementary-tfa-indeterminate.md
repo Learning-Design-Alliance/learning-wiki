@@ -3,7 +3,7 @@ type: claim
 title: An elementary-school RCT found no statistically significant difference between TFA and non-TFA teachers in mathematics or reading achievement
 description: An elementary-school RCT found no statistically significant difference between TFA and non-TFA teachers in mathematics or reading achievement
 id: clark-2015-elementary-tfa-indeterminate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: "Mastery learning gains persist at follow-up examinations about eight weeks after instruction"
 description: "In the 11 studies with follow-up examinations, given on average about 8 weeks after instruction, the mean effect was 0.71 SD, against 0.60 at the end of instruction in the same studies; the increase is not significant."
 id: mastery-learning-gains-persist-at-follow-up
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-10-13

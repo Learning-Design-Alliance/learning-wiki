@@ -3,7 +3,7 @@ type: claim
 title: PATHS spiral sequencing treats basic emotions as prerequisites for complex emotions across four levels of complexity
 description: PATHS spiral sequencing treats basic emotions as prerequisites for complex emotions across four levels of complexity
 id: paths-basic-to-complex-hierarchical-spiral-sequencing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

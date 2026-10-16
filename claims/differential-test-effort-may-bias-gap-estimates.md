@@ -3,7 +3,7 @@ type: claim
 title: Differential student test effort may bias achievement gap estimates
 description: Differential student test effort may bias achievement gap estimates
 id: differential-test-effort-may-bias-gap-estimates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

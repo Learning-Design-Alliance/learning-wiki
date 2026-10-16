@@ -3,7 +3,7 @@ type: claim
 title: "In UCI/SEDET's first year under the method (2025), average processing time fell 50%, cases processed rose 31%, documents 67%, technical reports 85%, and dispatches 60%"
 description: "In UCI/SEDET's first year under the method (2025), average processing time fell 50%, cases processed rose 31%, documents 67%, technical reports 85%, and dispatches 60%"
 id: uci-sedet-simultaneous-gains-2025
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

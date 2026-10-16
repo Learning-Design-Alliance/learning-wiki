@@ -3,7 +3,7 @@ type: claim
 title: Interleaving effects are stronger when material is more similar between categories, less similar within categories, and more complex
 description: Interleaving effects are stronger when material is more similar between categories, less similar within categories, and more complex
 id: similarity-and-complexity-moderate-interleaving
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

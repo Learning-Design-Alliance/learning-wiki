@@ -3,7 +3,7 @@ type: strategy
 id: disaggregate-edai-evaluation-by-student-error
 title: Disaggregate evaluation of educational AI by student error and proficiency before classroom deployment
 description: The article recommends that evaluation of AI in education report performance separately for student subgroups defined by demonstrated proficiency and error status, rather than only aggregate accuracy.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

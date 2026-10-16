@@ -4,7 +4,7 @@ id: windowdash
 title: WindowDash
 description: WindowDash is a synthetic food-delivery teaching-case dataset and accompanying instructional materials developed by Bang An et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -4,7 +4,7 @@ id: uc-berkeley-course-transaction-dataset-and-publicly-released-analysis-code
 title: UC Berkeley course transaction dataset and publicly released analysis code
 description: A UC Berkeley dataset of over 11 million timestamped student course-enrollment transactions from Fall 2016 through Spring 2022, released with public analysis code by Borchers et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

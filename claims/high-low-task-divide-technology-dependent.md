@@ -3,7 +3,7 @@ type: claim
 title: The high/low-task divide in computational journalism is a relationship shaped by available technologies rather than a fixed property of tasks
 description: The high/low-task divide in computational journalism is a relationship shaped by available technologies rather than a fixed property of tasks
 id: high-low-task-divide-technology-dependent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

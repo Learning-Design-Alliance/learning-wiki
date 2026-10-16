@@ -3,7 +3,7 @@ type: claim
 title: GPA treatment effects among lower-achieving students were larger in schools whose peer norms supported challenge-seeking
 description: GPA treatment effects among lower-achieving students were larger in schools whose peer norms supported challenge-seeking
 id: peer-norms-sustain-mindset-gpa-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

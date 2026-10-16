@@ -3,7 +3,7 @@ type: claim
 title: In a 2013 Denver RCT, LLI showed a statistically significant positive effect on BAS reading achievement, a negative but non-significant difference on DRA2, and a positive but non-significant difference on STAR for female students in grades 1–2
 description: In a 2013 Denver RCT, LLI showed a statistically significant positive effect on BAS reading achievement, a negative but non-significant difference on DRA2, and a positive but non-significant difference on STAR for fem...
 id: lli-2013-denver-rct-mixed-measure-results
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

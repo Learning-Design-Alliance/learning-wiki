@@ -4,7 +4,7 @@ id: framework-for-teaching
 title: Framework for Teaching
 description: The Charlotte Danielson Framework for Teaching is a framework developed by Charlotte Danielson for evaluating and supporting classroom teaching through observable components across four domains and four performance levels.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

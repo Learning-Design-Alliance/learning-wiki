@@ -3,7 +3,7 @@ type: claim
 title: Undermatch occurs when students attend a college less selective than their high school academic achievement would allow
 description: Undermatch occurs when students attend a college less selective than their high school academic achievement would allow
 id: undermatch-defined-less-selective-college-attendance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

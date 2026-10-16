@@ -3,7 +3,7 @@ type: claim
 title: Courses with higher-order learning objectives use and emphasize GAI skills more across its roles
 description: Courses with higher-order learning objectives use and emphasize GAI skills more across its roles
 id: higher-order-objectives-courses-emphasize-gai-skills-more
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: The effect of cooperative learning differs by the location of the meta-analysis studies, with single-country studies showing higher effects than mixed-country studies
 description: The effect of cooperative learning differs by the location of the meta-analysis studies, with single-country studies showing higher effects than mixed-country studies
 id: cooperative-learning-location-moderator
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
@@ -46,3 +46,4 @@ Moderator analysis grouping the 23 meta-analyses by research location. The betwe
 - [The effect of cooperative learning did not differ statistically by teaching style, outcome type, publication quality, bias status, or report type](cooperative-learning-nonsignificant-moderators.md) — the general claim this finding bears on, with the studies behind it
 - [Cooperative learning models have a moderate average effect on student learning outcomes across 23 first-order meta-analyses](cooperative-learning-moderate-overall-effect-second-order.md) — a broader claim this one bears on
 - [Students rated peers' work from their own country 3.6% higher than work from elsewhere](in-group-favoritism-peer-grading-country.md) — related
+- [Meta-analysis offers additional strengths of increased statistical power, moderator analyses, and model testing](meta-analysis-strengths-power-moderators-model-testing.md) — a broader claim this one bears on

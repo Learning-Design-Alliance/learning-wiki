@@ -3,7 +3,7 @@ type: element
 id: ecological-affordance-profile
 title: "Ecological Affordance Profile: integrating micro-level observations, formative records, and summative accounts"
 description: "The Ecological Affordance Profile is the paper's proposed reporting artifact, integrating micro-level observations, formative records, and summative accounts into a coherent developmental history."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

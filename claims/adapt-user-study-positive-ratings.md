@@ -3,7 +3,7 @@ type: claim
 title: In a user study with 12 participants, teachers rated AdaPT positively across all dimensions, with mean ratings above the neutral baseline of 4
 description: In a user study with 12 participants, teachers rated AdaPT positively across all dimensions, with mean ratings above the neutral baseline of 4
 id: adapt-user-study-positive-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Few CPS graduates who delay college entry or first enroll in a two-year college go on to earn a four-year degree
 description: Few CPS graduates who delay college entry or first enroll in a two-year college go on to earn a four-year degree
 id: cps-delayed-and-two-year-paths-low-degree-completion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: home-language-supplement-english-instruction
 title: "Use students' home language (Marshallese) to supplement English instruction in entry-level ELA courses"
 description: "This strategy recommends supplementing English-medium instruction with students' home language to support multilingual learners in developmental coursework."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

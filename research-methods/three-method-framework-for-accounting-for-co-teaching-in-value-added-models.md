@@ -3,7 +3,7 @@ type: research-method
 id: three-method-framework-for-accounting-for-co-teaching-in-value-added-models
 title: Three-method framework for accounting for co-teaching in value-added models
 description: "The article organizes the problem of modeling value added \"when the same student is taught the same subject by multiple teachers\" into three named methods: the Partial Credit Method, the Teacher Team Method, and the Full Roster Method."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

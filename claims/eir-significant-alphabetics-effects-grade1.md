@@ -3,7 +3,7 @@ type: claim
 title: EIR® produced statistically significant positive effects on first-grade alphabetics outcomes (segmentation and blending, vowel sounds)
 description: EIR® produced statistically significant positive effects on first-grade alphabetics outcomes (segmentation and blending, vowel sounds)
 id: eir-significant-alphabetics-effects-grade1
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

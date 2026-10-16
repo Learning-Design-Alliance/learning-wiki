@@ -3,7 +3,7 @@ type: claim
 title: Early childhood education attendance is associated with decreased high school disciplinary measures including juvenile incarceration compared to similar non-attending children
 description: Early childhood education attendance is associated with decreased high school disciplinary measures including juvenile incarceration compared to similar non-attending children
 id: ece-decreased-discipline-incarceration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

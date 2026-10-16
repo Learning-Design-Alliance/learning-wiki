@@ -3,7 +3,7 @@ type: design
 id: celebratory-traditions-school-community
 title: "Community-building through celebratory traditions: quarterly awards, bridging ceremonies, and staff-family-student recognition"
 description: This pattern uses recurring celebratory events to build school community and reinforce culture.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

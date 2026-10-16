@@ -3,7 +3,7 @@ type: strategy
 id: chatbot-familiarity-personification-inducing-conversation
 title: Induce conversation through familiarity and personification to make the chatbot approachable
 description: "This strategy addresses the interface element: designing learners' feelings, attitudes, and behaviors toward the chatbot."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

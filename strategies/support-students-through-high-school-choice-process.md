@@ -3,7 +3,7 @@ type: strategy
 id: support-students-through-high-school-choice-process
 title: Provide students consistent GoCPS messaging, accessible school information, experiential learning opportunities, and adult support throughout the choice process
 description: "The brief's Insights and Implications sections enumerate what students need from educators and platforms during high school choice: easy linkable information on GoCPS searchable on phones, up-to-date details on offeri..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

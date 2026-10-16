@@ -3,7 +3,7 @@ type: claim
 title: The TEFA-T model produces significantly higher learning achievement than teacher-based instruction in automotive vocational courses
 description: The TEFA-T model produces significantly higher learning achievement than teacher-based instruction in automotive vocational courses
 id: tefa-t-higher-achievement-than-teacher-based
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

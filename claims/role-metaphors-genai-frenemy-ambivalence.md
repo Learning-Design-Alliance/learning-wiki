@@ -3,7 +3,7 @@ type: claim
 title: Role metaphors positioned GenAI as helper, learning partner, and friend/foe, with a high proportion combining friend and foe
 description: Role metaphors positioned GenAI as helper, learning partner, and friend/foe, with a high proportion combining friend and foe
 id: role-metaphors-genai-frenemy-ambivalence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

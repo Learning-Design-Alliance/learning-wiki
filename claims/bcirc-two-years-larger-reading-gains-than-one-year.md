@@ -3,7 +3,7 @@ type: claim
 title: Two years of BCIRC exposure is associated with larger reading gains than one year (effect size 0.87 significant versus 0.33 non-significant)
 description: Two years of BCIRC exposure is associated with larger reading gains than one year (effect size 0.87 significant versus 0.33 non-significant)
 id: bcirc-two-years-larger-reading-gains-than-one-year
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

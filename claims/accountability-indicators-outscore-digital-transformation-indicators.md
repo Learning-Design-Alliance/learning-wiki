@@ -3,7 +3,7 @@ type: claim
 title: "Accountability management system indicator scores average higher than elementary schools' digital transformation capability indicator scores"
 description: "Accountability management system indicator scores average higher than elementary schools' digital transformation capability indicator scores"
 id: accountability-indicators-outscore-digital-transformation-indicators
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

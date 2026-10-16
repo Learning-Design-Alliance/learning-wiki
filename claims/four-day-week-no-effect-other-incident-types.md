@@ -3,7 +3,7 @@ type: claim
 title: Four-day school weeks have no detectable effect on disciplinary incident types other than bullying and fighting
 description: Four-day school weeks have no detectable effect on disciplinary incident types other than bullying and fighting
 id: four-day-week-no-effect-other-incident-types
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

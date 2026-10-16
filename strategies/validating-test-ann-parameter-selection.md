@@ -3,7 +3,7 @@ type: strategy
 id: validating-test-ann-parameter-selection
 title: Choose ANN parameters with a validating test instead of typical statistical criteria such as AIC or BIC
 description: The article recommends selecting the appropriate parameters for the ANNs using a validating test rather than typical statistical criteria such as AIC or BIC.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

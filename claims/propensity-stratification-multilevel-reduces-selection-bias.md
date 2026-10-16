@@ -3,7 +3,7 @@ type: claim
 title: Propensity score stratification using multilevel models reduces selection bias from confounding variables and improves accuracy of charter school effect estimations
 description: Propensity score stratification using multilevel models reduces selection bias from confounding variables and improves accuracy of charter school effect estimations
 id: propensity-stratification-multilevel-reduces-selection-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

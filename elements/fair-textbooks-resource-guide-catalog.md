@@ -3,7 +3,7 @@ type: element
 id: fair-textbooks-resource-guide-catalog
 title: "Fair Textbooks: A Resource Guide, a centralized catalog of bias-free education resources"
 description: "Fair Textbooks: A Resource Guide is a U.S."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Tutored students reported positive relationships with Cignition tutors, with little variation in relationship quality across tutors
 description: Tutored students reported positive relationships with Cignition tutors, with little variation in relationship quality across tutors
 id: cignition-tutor-relationships-positive-uniform
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

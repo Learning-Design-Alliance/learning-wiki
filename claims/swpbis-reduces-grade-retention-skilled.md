@@ -3,7 +3,7 @@ type: claim
 title: Socially-emotionally skilled children in SWPBIS schools were less often held back a grade than skilled peers in comparison schools (1.8% vs 4.2%, d = 0.39)
 description: Socially-emotionally skilled children in SWPBIS schools were less often held back a grade than skilled peers in comparison schools (1.8% vs 4.2%, d = 0.39)
 id: swpbis-reduces-grade-retention-skilled
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

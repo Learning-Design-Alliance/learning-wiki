@@ -2,7 +2,7 @@
 type: theory
 title: Self-reflexive justificatory strategy
 description: A justificatory strategy in which a theory or commitment is justified by applying to itself the very standards it endorses, without vicious circularity or question-begging.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

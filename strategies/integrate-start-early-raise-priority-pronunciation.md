@@ -3,7 +3,7 @@ type: strategy
 id: integrate-start-early-raise-priority-pronunciation
 title: "Three-pronged approach to the time obstacle: integrate pronunciation, start early, and increase its priority via assessment"
 description: "To work around the time obstacle, the article recommends a three-pronged approach: \"Integrate, start early, and increase its priority (e.g., via assessment).\" Teachers integrate pronunciation into every lesson (e.g.,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

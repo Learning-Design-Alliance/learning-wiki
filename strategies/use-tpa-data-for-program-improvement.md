@@ -3,7 +3,7 @@ type: strategy
 id: use-tpa-data-for-program-improvement
 title: Use TPA results and completer-survey data to target programmatic support and continuous improvement
 description: The report recommends that state agencies and preparation programs use TPA data alongside program completer survey data for continuous improvement.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

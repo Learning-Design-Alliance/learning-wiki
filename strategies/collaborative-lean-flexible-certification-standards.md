@@ -3,7 +3,7 @@ type: strategy
 id: collaborative-lean-flexible-certification-standards
 title: Develop collaboratively built, lean, and flexible standards with judicious data demands for community schools certification
 description: "The report recommends that certification standards be \"lean and focused—capturing the essential elements of implementation with clearly defined nonnegotiables and sufficient flexibility to allow for different contexts..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

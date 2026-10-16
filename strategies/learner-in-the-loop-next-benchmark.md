@@ -3,7 +3,7 @@ type: strategy
 id: learner-in-the-loop-next-benchmark
 title: Pair a contamination-resistant static benchmark core with a learner-in-the-loop layer for next-generation education evaluation
 description: The article recommends that because static single-turn question answering reaches a construct-validity ceiling for measuring teaching, future education benchmarks should combine a fixed, contamination-resistant core w...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

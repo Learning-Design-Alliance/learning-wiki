@@ -3,7 +3,7 @@ type: element
 id: film-based-anticipation-simulation-paradigm
 title: Film-based simulation paradigm for training and testing anticipation and decision making
 description: "A laboratory paradigm in which an action sequence (e.g., tennis serves) is filmed from the player's perspective and replayed, occluded at various time intervals before, at or after ball-racket contact."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

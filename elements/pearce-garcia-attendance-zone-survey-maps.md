@@ -3,7 +3,7 @@ type: element
 id: pearce-garcia-attendance-zone-survey-maps
 title: Map set of Pearce and Garcia attendance zones documenting survey response, support, and respondent ethnicity
 description: A set of six maps supplementing the Fall 2012 telephone survey of the Pearce and Garcia Middle School attendance zones.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

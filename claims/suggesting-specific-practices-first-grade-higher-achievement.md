@@ -3,7 +3,7 @@ type: claim
 title: "Teachers suggesting specific practices in response to students' work is associated with higher math achievement in 1st grade only"
 description: "Teachers suggesting specific practices in response to students' work is associated with higher math achievement in 1st grade only"
 id: suggesting-specific-practices-first-grade-higher-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

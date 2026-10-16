@@ -3,7 +3,7 @@ type: strategy
 id: intrusive-data-driven-advising-usc
 title: "Intrusive, data-driven advising: track unregistered students, audit degree plans, and bring advising directly to students"
 description: "USC's approach centers on systematically identifying students at risk of not graduating and intervening before they ask for help."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

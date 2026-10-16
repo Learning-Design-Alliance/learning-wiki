@@ -3,7 +3,7 @@ type: claim
 title: "Student teaching in higher- or lower-achieving CPS schools made no difference in teachers' first-year REACH ratings"
 description: "Student teaching in higher- or lower-achieving CPS schools made no difference in teachers' first-year REACH ratings"
 id: cps-placement-school-characteristics-unrelated-first-year-effectiveness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

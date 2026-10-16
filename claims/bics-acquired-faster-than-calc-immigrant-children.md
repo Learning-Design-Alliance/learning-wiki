@@ -3,7 +3,7 @@ type: claim
 title: Immigrant children acquire peer-appropriate conversational fluency in English within about 2 years but require considerably longer (5-10 years) to catch up academically in English
 description: Immigrant children acquire peer-appropriate conversational fluency in English within about 2 years but require considerably longer (5-10 years) to catch up academically in English
 id: bics-acquired-faster-than-calc-immigrant-children
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: strategy
 id: structural-support-educator-wellbeing-ai
 title: "Address educator wellbeing structurally: institutional policies and collective responsibility rather than individual enforcement"
 description: "The article's third recommendation treats the affective toll of AI-era grading as a structural rather than personal issue."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

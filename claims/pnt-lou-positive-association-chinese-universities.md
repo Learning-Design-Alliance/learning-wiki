@@ -3,7 +3,7 @@ type: claim
 title: Perceived teacher-referenced GenAI normative tension is positively associated with self-reported learning-oriented GenAI use among Chinese university students
 description: Perceived teacher-referenced GenAI normative tension is positively associated with self-reported learning-oriented GenAI use among Chinese university students
 id: pnt-lou-positive-association-chinese-universities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

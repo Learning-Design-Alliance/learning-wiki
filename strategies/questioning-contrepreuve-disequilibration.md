@@ -3,7 +3,7 @@ type: strategy
 id: questioning-contrepreuve-disequilibration
 title: Use questioning and counter-suggestions (contrepreuve) to produce disequilibration and support cognitive growth
 description: "The handbook recommends turning children's \"Why?\" questions back on them (\"Why do you think?\") and using questioning or \"contrepreuve\" — examples offered that are counter to the child's suggestions — to produce disequ..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

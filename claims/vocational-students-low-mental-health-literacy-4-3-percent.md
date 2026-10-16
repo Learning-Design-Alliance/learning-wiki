@@ -3,7 +3,7 @@ type: claim
 title: "Only 4.3% of surveyed secondary vocational students meet mental health knowledge standards"
 description: "Only 4.3% of surveyed secondary vocational students meet mental health knowledge standards"
 id: vocational-students-low-mental-health-literacy-4-3-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

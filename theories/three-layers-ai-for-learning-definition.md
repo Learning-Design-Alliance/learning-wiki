@@ -2,7 +2,7 @@
 type: theory
 title: "Three-layer definition of AI for learning: computational intelligence, specific capabilities, and a futures toolkit"
 description: "The report frames AI for educators through three layers: AI as computational intelligence brought to bear on educational challenges as an additional resource; AI as a set of specific rapidly advancing capabilities (pe..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -50,4 +50,4 @@ The report frames AI for educators through three layers: AI as computational int
 -
 
 ## Key Sources
-- Roschelle, J., Lester, J. & Fusco, J. (Eds.) (2020). AI and the future of learning: Expert panel report [Report]. Digital Promise. https://circls.org/reports/ai-report
+- Roschelle, J., Lester, J. & Fusco, J. (Eds.) (2020). AI and the future of learning: Expert panel report [Report]. Digital Promise. https://circls.org/reports/ai-report. [doi:10.51388/20.500.12265/106](https://doi.org/10.51388/20.500.12265/106)

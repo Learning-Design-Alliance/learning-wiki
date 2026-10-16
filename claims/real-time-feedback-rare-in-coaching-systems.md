@@ -3,7 +3,7 @@ type: claim
 title: Real-time in-session feedback remains rare among presentation-coaching systems
 description: Real-time in-session feedback remains rare among presentation-coaching systems
 id: real-time-feedback-rare-in-coaching-systems
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

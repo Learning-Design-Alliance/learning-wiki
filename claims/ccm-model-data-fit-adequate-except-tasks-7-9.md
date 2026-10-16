@@ -3,7 +3,7 @@ type: claim
 title: CCM showed adequate model-data fit for game log data, except for infrequent tasks 7 and 9
 description: CCM showed adequate model-data fit for game log data, except for infrequent tasks 7 and 9
 id: ccm-model-data-fit-adequate-except-tasks-7-9
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

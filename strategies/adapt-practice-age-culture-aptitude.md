@@ -3,7 +3,7 @@ type: strategy
 id: adapt-practice-age-culture-aptitude
 title: "Adapt practice activities to learners' age, cultural background, and aptitudes"
 description: "The article recommends that teachers adapt practice to their learners, since \"Not all forms of practice will work equally well under all circumstances\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

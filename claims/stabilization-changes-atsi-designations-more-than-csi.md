@@ -3,7 +3,7 @@ type: claim
 title: Stabilization changed ATSI designations more than CSI designations, with the median lowest-performing subgroup larger under stabilized indicators
 description: Stabilization changed ATSI designations more than CSI designations, with the median lowest-performing subgroup larger under stabilized indicators
 id: stabilization-changes-atsi-designations-more-than-csi
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

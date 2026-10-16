@@ -3,7 +3,7 @@ type: claim
 title: The group taught by synthetic phonics showed better word reading, spelling, and reading comprehension overall than the analytic phonics group
 description: The group taught by synthetic phonics showed better word reading, spelling, and reading comprehension overall than the analytic phonics group
 id: synthetic-phonics-group-better-overall-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

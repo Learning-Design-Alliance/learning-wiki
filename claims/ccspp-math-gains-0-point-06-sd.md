@@ -3,7 +3,7 @@ type: claim
 title: CCSPP community schools improved math achievement by 0.06 standard deviations, roughly 43 additional days of learning
 description: CCSPP community schools improved math achievement by 0.06 standard deviations, roughly 43 additional days of learning
 id: ccspp-math-gains-0-point-06-sd
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

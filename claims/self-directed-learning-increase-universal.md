@@ -3,7 +3,7 @@ type: claim
 title: Self-directed and blended learning time increased for nearly all New York charter schools during remote instruction, regardless of whether those modes were part of their prior models
 description: Self-directed and blended learning time increased for nearly all New York charter schools during remote instruction, regardless of whether those modes were part of their prior models
 id: self-directed-learning-increase-universal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

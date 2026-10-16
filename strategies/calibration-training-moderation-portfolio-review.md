@@ -3,7 +3,7 @@ type: strategy
 id: calibration-training-moderation-portfolio-review
 title: Calibration training and moderation to ensure reliable rubric-based portfolio review
 description: A reader-capacity strategy in which the admissions director hires, trains, and coordinates 20 to 25 short-term contractual professionals who apply rubrics to applications.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

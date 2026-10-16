@@ -2,7 +2,7 @@
 type: theory
 title: Critical Pedagogy Model of Civic Competence through Service-Learning
 description: A pedagogical model representing the relationship between community-based learning pedagogy and civic competence, with four components (knowledge, skills, attitudes, actions) comprising eight overlapping and interacti...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

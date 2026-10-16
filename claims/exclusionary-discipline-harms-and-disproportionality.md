@@ -3,7 +3,7 @@ type: claim
 title: Exclusionary discipline harms students and disproportionately affects students of color, so tracking suspension data can promote positive interventions
 description: Exclusionary discipline harms students and disproportionately affects students of color, so tracking suspension data can promote positive interventions
 id: exclusionary-discipline-harms-and-disproportionality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

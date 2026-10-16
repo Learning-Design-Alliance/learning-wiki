@@ -3,7 +3,7 @@ type: claim
 title: Early Risers has potentially positive effects on academic performance, driven by a significant Academic Achievement Composite effect in one of two studies
 description: Early Risers has potentially positive effects on academic performance, driven by a significant Academic Achievement Composite effect in one of two studies
 id: early-risers-potentially-positive-academic-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: design
 id: ekt-program-evaluation-study-element
 title: Early kindergarten transition (EKT) program evaluation study conducted by the university–district partnership
 description: The early kindergarten transition (EKT) program evaluation is the concrete research project through which the Multnomah County university–district partnership operated.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: design
 id: five-unit-field-trip-arc-riparian
 title: Five-unit arc building classroom skills toward a community field trip and public sharing
 description: "The curriculum is organized as five sequential units of roughly two to six hours each: Get a Clear Picture, Solve the Puzzle (four science stations), Get into the Zone (a field trip), Putting the Pieces Together, and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

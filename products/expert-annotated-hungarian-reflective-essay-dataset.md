@@ -4,7 +4,7 @@ id: expert-annotated-hungarian-reflective-essay-dataset
 title: Expert-annotated Hungarian reflective essay dataset
 description: A corpus of approximately 1,954 Hungarian reflective essays from Early Childhood Education students, expert-annotated on a four-level reflection scale by Zsolt Csibi and colleagues.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

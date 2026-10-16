@@ -4,7 +4,7 @@ id: nasa-cognition-battery
 title: NASA Cognition battery
 description: The NASA Cognition battery is a NASA-developed cognitive assessment battery that measures multiple cognitive domains relevant to astronaut performance.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

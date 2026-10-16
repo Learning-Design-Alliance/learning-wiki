@@ -3,7 +3,7 @@ type: strategy
 id: aitutor-prioritized-improvements
 title: "Five prioritized improvements for AI tutoring prototypes: instant core-strategy layer, curriculum tags, dynamic geometry, step-specific buttons, automated wrong-book"
 description: "Based on field findings and participants' explicit requests, the authors list five improvements: a dual-mode structure where the \"Answer + Core Idea\" layer loads instantly; explicit junior-high syllabus tags; automati..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

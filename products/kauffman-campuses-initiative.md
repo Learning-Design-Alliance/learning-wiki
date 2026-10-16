@@ -4,7 +4,7 @@ id: kauffman-campuses-initiative
 title: Kauffman Campuses Initiative
 description: A programme run by the Ewing Marion Kauffman Foundation that funds and supports the campuswide expansion of entrepreneurship education at universities.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
@@ -33,7 +33,7 @@ A programme run by the Ewing Marion Kauffman Foundation that funds and supports 
 -
 
 ## Key Sources
-- Hulsey, L., Rosenberg, L., & Kim, B. (2006). Seeding Entrepreneurship Across Campus: Early Implementation Experiences of the Kauffman Campuses Initiative. Princeton, NJ: Mathematica Policy Research. https://www.mathematica.org/publications/seeding-entrepreneurship-across-campus-early-implementation-experiences-of-the-kauffman-campuses-initiative
+- Hulsey, L., Rosenberg, L., & Kim, B. (2006). Seeding Entrepreneurship Across Campus: Early Implementation Experiences of the Kauffman Campuses Initiative. Princeton, NJ: Mathematica Policy Research. https://www.mathematica.org/publications/seeding-entrepreneurship-across-campus-early-implementation-experiences-of-the-kauffman-campuses-initiative. [doi:10.2139/ssrn.981057](https://doi.org/10.2139/ssrn.981057)
 
 <!-- merged 2026-10-10 from elements/kauffman-campuses-initiative-element ("Kauffman Campuses Initiative: foundation grants to eight universities for campuswide entrepreneurship education"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -70,5 +70,5 @@ The Kauffman Campuses Initiative is a grant-funded program of the Ewing Marion K
 -
 
 ## Key Sources
-- Hulsey, L., Rosenberg, L., & Kim, B. (2006). Seeding Entrepreneurship Across Campus: Early Implementation Experiences of the Kauffman Campuses Initiative. Princeton, NJ: Mathematica Policy Research. https://www.mathematica.org/publications/seeding-entrepreneurship-across-campus-early-implementation-experiences-of-the-kauffman-campuses-initiative
+- Hulsey, L., Rosenberg, L., & Kim, B. (2006). Seeding Entrepreneurship Across Campus: Early Implementation Experiences of the Kauffman Campuses Initiative. Princeton, NJ: Mathematica Policy Research. https://www.mathematica.org/publications/seeding-entrepreneurship-across-campus-early-implementation-experiences-of-the-kauffman-campuses-initiative. [doi:10.2139/ssrn.981057](https://doi.org/10.2139/ssrn.981057)
 -->

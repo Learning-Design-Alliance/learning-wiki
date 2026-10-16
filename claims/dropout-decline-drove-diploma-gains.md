@@ -3,7 +3,7 @@ type: claim
 title: The rise in diploma earning came from declining dropout rates, which fell from 35 to 11 percent, not from declines in other outcomes
 description: The rise in diploma earning came from declining dropout rates, which fell from 35 to 11 percent, not from declines in other outcomes
 id: dropout-decline-drove-diploma-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

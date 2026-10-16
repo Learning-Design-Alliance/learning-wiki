@@ -3,7 +3,7 @@ type: claim
 title: Animated videos were the easiest and most engaging Hero Elementary component to implement virtually, providing an accessible shared entry point for students with IEPs and English learners
 description: Animated videos were the easiest and most engaging Hero Elementary component to implement virtually, providing an accessible shared entry point for students with IEPs and English learners
 id: animated-videos-easiest-engaging-virtual-component
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

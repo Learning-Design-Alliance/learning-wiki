@@ -3,7 +3,7 @@ type: design
 id: japan-decoupled-python-dncl-reform
 title: "Japan's decoupled reform: universal Python instruction with DNCL pseudocode examination"
 description: "Japan's 2022 Information I reform standardizes \"Python for classroom instruction across all secondary schools\" while a domain-specific pseudocode (DNCL) is used for the national university entrance examination."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

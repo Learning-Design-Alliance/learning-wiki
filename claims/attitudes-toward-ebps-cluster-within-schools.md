@@ -3,7 +3,7 @@ type: claim
 title: Implementers within the same school share similar attitudes toward EBPs, with intra-class correlations of 0.06 to 0.13 across four attitudinal dimensions
 description: Implementers within the same school share similar attitudes toward EBPs, with intra-class correlations of 0.06 to 0.13 across four attitudinal dimensions
 id: attitudes-toward-ebps-cluster-within-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

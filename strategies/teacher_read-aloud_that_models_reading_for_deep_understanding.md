@@ -67,7 +67,7 @@ Read-alouds work because they decouple comprehension modeling from decoding: lea
 - Vocabulary Instruction in Context — the vocabulary pathway the read-aloud opens
 
 ## Examples
-- **Text Talk** (Beck & McKeown, 2001) — a published read-aloud program in which teachers read narrative texts, ask decontextualized questions after segments, and follow with explicit vocabulary instruction on words from the story.
+- **[Text Talk](text-talk.md)** (Beck & McKeown, 2001) — a published read-aloud program in which teachers read narrative texts, ask decontextualized questions after segments, and follow with explicit vocabulary instruction on words from the story.
 - **Interactive read-aloud in Fountas & Pinnell classroom systems** — daily read-alouds with planned discussion and strategy demonstrations that feed into guided reading groups.
 - **A kindergarten teacher reading *The Gruffalo*** — pausing to think aloud ("I wonder why the mouse says that… I'm going to keep that in mind"), then having learners predict and justify before turning the page.
 

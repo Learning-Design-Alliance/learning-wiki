@@ -3,7 +3,7 @@ type: claim
 title: Pre-K benefits were studied among children from low-income homes in a large and diverse county (n = 2,581)
 description: Pre-K benefits were studied among children from low-income homes in a large and diverse county (n = 2,581)
 id: pre-k-benefits-study-low-income-county-sample-2581
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

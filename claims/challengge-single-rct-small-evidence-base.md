@@ -3,7 +3,7 @@ type: claim
 title: The evidence base for the program is a single RCT of 3,074 randomly assigned youth, with 1,196 in the follow-up analysis sample, and the WWC rates the extent of evidence as small
 description: The evidence base for the program is a single RCT of 3,074 randomly assigned youth, with 1,196 in the follow-up analysis sample, and the WWC rates the extent of evidence as small
 id: challengge-single-rct-small-evidence-base
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

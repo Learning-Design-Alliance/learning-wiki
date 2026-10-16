@@ -3,7 +3,7 @@ type: strategy
 id: variant-problem-probe-the-gap-follow-ups
 title: Generate targeted diagnostic follow-up questions using variant-problem and probe-the-gap strategies for ambiguous cases
 description: For correct-answer cases the model routes to needs-clarification, the system generates a targeted diagnostic follow-up question using either a variant-problem strategy, presenting a near-transfer problem where the sus...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

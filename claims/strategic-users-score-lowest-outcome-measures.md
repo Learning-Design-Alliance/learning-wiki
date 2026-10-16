@@ -3,7 +3,7 @@ type: claim
 title: Strategic users score lowest on standard AI-outcome measures, reflecting instrument validity limits that reward AI-driven outcomes over writing quality
 description: Strategic users score lowest on standard AI-outcome measures, reflecting instrument validity limits that reward AI-driven outcomes over writing quality
 id: strategic-users-score-lowest-outcome-measures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

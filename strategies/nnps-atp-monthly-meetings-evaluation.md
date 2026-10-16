@@ -3,7 +3,7 @@ type: strategy
 id: nnps-atp-monthly-meetings-evaluation
 title: Monthly Action Team meetings with shared leadership and activity-quality evaluation
 description: "An implementable operating routine for school-family partnership teams: ATP members meet monthly, work together, and share leadership while conducting activities that engage all families in their children's education."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: design
 id: rag-conversational-ai-tutor-modular-coaching-routines
 title: Retrieval-augmented Conversational AI Tutor with modular GROW-aligned coaching routines
 description: "The Conversational AI Tutor is a retrieval-grounded conversational module built on GPT-4.1 with a RAG layer that anchors each response in the learner's own multimodal records (transcripts, BARS scores, emotion descrip..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Read Naturally® shows no discernible effects on comprehension for beginning readers
 description: Read Naturally® shows no discernible effects on comprehension for beginning readers
 id: read-naturally-no-discernible-effects-comprehension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

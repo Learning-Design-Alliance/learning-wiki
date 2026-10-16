@@ -3,7 +3,7 @@ type: claim
 title: The GenAI-SRL scale shows satisfactory reliability, convergent validity, and discriminant validity across its six dimensions
 description: The GenAI-SRL scale shows satisfactory reliability, convergent validity, and discriminant validity across its six dimensions
 id: genai-srl-scale-reliability-validity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

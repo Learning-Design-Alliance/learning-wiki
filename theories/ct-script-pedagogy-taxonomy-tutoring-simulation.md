@@ -2,7 +2,7 @@
 type: theory
 title: "Taxonomy of pedagogical approaches in scripts of computational processes: tutoring vs. simulation, each with two sub-categories"
 description: "The article derives a two-branch taxonomy classifying prospective teachers' Scratch scripts of computational processes by the pedagogical approach they reflect."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

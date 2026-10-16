@@ -3,7 +3,7 @@ type: strategy
 id: personalized-subject-specific-data-use-support
 title: Personalized, subject-specific professional support combining teacher characteristics with school-level collaboration and leadership support
 description: "Based on the finding that data use depends on both teacher characteristics and school factors, the authors recommend \"personalized support, tailored to teacher characteristics and addressing subject -specific differen..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

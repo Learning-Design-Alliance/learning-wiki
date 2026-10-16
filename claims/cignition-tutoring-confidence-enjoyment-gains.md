@@ -3,7 +3,7 @@ type: claim
 title: Cignition group tutoring produced slightly higher math confidence and enjoyment than control in an RCT
 description: Cignition group tutoring produced slightly higher math confidence and enjoyment than control in an RCT
 id: cignition-tutoring-confidence-enjoyment-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

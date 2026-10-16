@@ -3,7 +3,7 @@ type: claim
 title: Freshmen in the three case-study schools had higher on-track rates and/or GPAs than similar students at similar schools, despite entering with below-average achievement
 description: Freshmen in the three case-study schools had higher on-track rates and/or GPAs than similar students at similar schools, despite entering with below-average achievement
 id: chsri-freshmen-better-than-predicted
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Student demographics were not significantly related to civic commitment among Chicago public high school students
 description: Student demographics were not significantly related to civic commitment among Chicago public high school students
 id: demographics-not-destiny-civic-commitment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -2,7 +2,7 @@
 type: theory
 title: Self-Other Orientation Theory of interpersonal conflict
 description: "The article proposes that conflict arises from the interrelationship of the self and significant others: 'A condition of conflict exists when the relationship between self and Other is such that the theory of behavior..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

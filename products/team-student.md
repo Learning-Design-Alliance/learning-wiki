@@ -4,7 +4,7 @@ id: team-student
 title: TEAM Student
 description: A branded whole-school framework that centers students and families in school decisions through individualized academic, social, and emotional support and family partnership.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

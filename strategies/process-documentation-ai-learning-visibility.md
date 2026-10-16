@@ -3,7 +3,7 @@ type: strategy
 id: process-documentation-ai-learning-visibility
 title: "Design activities that make students' AI-supported learning processes visible through reflection prompts and process documentation"
 description: Because submitted code provides limited evidence of what students did after receiving AI-generated assistance, the article recommends reflection prompts and process documentation asking students to explain how they us...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

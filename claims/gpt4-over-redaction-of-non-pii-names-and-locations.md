@@ -3,7 +3,7 @@ type: claim
 title: GPT-4 over-redacts famous names, locations, and mythological creatures that are not PII in educational forum discussions
 description: GPT-4 over-redacts famous names, locations, and mythological creatures that are not PII in educational forum discussions
 id: gpt4-over-redaction-of-non-pii-names-and-locations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

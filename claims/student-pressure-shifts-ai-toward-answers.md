@@ -3,7 +3,7 @@ type: claim
 title: "Direct student requests for answers significantly increased the AI's provision of direct answers (26.1% vs. 12.5% baseline; r = 0.14), though the AI maintained scaffolding in most cases"
 description: "Direct student requests for answers significantly increased the AI's provision of direct answers (26.1% vs."
 id: student-pressure-shifts-ai-toward-answers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

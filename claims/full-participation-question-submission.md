@@ -3,7 +3,7 @@ type: claim
 title: Every student present submitted at least one question response for each simulation, without external incentives
 description: Every student present submitted at least one question response for each simulation, without external incentives
 id: full-participation-question-submission
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: ProPRL is sensitive to learning rate but comparatively insensitive to its structural hyperparameters, with propagation depth around 5 capturing most multi-hop benefit
 description: ProPRL is sensitive to learning rate but comparatively insensitive to its structural hyperparameters, with propagation depth around 5 capturing most multi-hop benefit
 id: proprl-hyperparameter-sensitivity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

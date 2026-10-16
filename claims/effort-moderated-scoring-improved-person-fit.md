@@ -3,7 +3,7 @@ type: claim
 title: Effort-moderated scoring exhibits improved person fit statistics compared with traditional scoring
 description: Effort-moderated scoring exhibits improved person fit statistics compared with traditional scoring
 id: effort-moderated-scoring-improved-person-fit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Beginning teachers are more positive about REACH than teachers with more years of experience
 description: Beginning teachers are more positive about REACH than teachers with more years of experience
 id: reach-beginning-teachers-more-positive-than-veterans
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

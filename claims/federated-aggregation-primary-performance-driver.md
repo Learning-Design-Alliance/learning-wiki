@@ -3,7 +3,7 @@ type: claim
 title: "Federated aggregation is the primary driver of performance gains, contributing an average 11.99% improvement"
 description: "Federated aggregation is the primary driver of performance gains, contributing an average 11.99% improvement"
 id: federated-aggregation-primary-performance-driver
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

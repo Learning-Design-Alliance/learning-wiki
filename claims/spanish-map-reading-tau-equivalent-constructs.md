@@ -3,7 +3,7 @@ type: claim
 title: Goodness-of-fit results indicate Spanish MAP Growth Reading constructs are at least tau-equivalent across language background groups
 description: Goodness-of-fit results indicate Spanish MAP Growth Reading constructs are at least tau-equivalent across language background groups
 id: spanish-map-reading-tau-equivalent-constructs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

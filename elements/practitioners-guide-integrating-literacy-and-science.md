@@ -3,7 +3,7 @@ type: element
 id: practitioners-guide-integrating-literacy-and-science
 title: "Practitioner's Guide to Integrating Literacy and Science"
 description: "A companion guide listed under Associated Research for this brief, titled \"Practitioner's Guide to Integrating Literacy and Science\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

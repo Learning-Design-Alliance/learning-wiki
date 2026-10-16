@@ -3,7 +3,7 @@ type: claim
 title: Perceived warmth and perceived competence partially mediate the negative association between GenAI use and interpersonal trust
 description: Perceived warmth and perceived competence partially mediate the negative association between GenAI use and interpersonal trust
 id: warmth-competence-partially-mediate-genai-trust
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

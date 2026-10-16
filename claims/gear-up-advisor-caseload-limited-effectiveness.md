@@ -3,7 +3,7 @@ type: claim
 title: Broad advisor caseloads may have limited the effectiveness of the GEAR UP messaging by preventing college-specific guidance
 description: Broad advisor caseloads may have limited the effectiveness of the GEAR UP messaging by preventing college-specific guidance
 id: gear-up-advisor-caseload-limited-effectiveness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

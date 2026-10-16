@@ -3,7 +3,7 @@ type: claim
 title: Among two objects with the same signalling, participants focused more on the arrow-cued object, and the change occurred in the un-cued object
 description: Among two objects with the same signalling, participants focused more on the arrow-cued object, and the change occurred in the un-cued object
 id: cueing-outcompetes-signalling-alone-for-attention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

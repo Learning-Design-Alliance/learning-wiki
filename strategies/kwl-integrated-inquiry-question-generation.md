@@ -3,7 +3,7 @@ type: strategy
 id: kwl-integrated-inquiry-question-generation
 title: Embed the KWL strategy across inquiry phases to guide question generation and question-quality monitoring
 description: This strategy integrates the Know–Want–Learn chart into the phases of inquiry-based learning so that questioning is scaffolded throughout the lesson.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

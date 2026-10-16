@@ -3,7 +3,7 @@ type: claim
 title: Multimedia design interventions yield small average improvements in cognitive load management (g = 0.22), with personalisation and modality showing the largest effects
 description: Multimedia design interventions yield small average improvements in cognitive load management (g = 0.22), with personalisation and modality showing the largest effects
 id: design-principles-improve-cognitive-load-management
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

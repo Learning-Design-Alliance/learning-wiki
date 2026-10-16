@@ -3,7 +3,7 @@ type: claim
 title: Introjected regulation was low among Chinese ESP learners except for an identity-maintenance item
 description: Introjected regulation was low among Chinese ESP learners except for an identity-maintenance item
 id: low-introjected-regulation-esp-learners
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

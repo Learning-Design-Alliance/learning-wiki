@@ -3,7 +3,7 @@ type: claim
 title: There was no clear pattern to the relationship between student, teacher, and school characteristics and the effectiveness of the interventions.
 description: There was no clear pattern to the relationship between student, teacher, and school characteristics and the effectiveness of the interventions.
 id: no-clear-pattern-characteristics-and-effectiveness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

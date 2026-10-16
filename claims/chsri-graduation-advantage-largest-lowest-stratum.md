@@ -3,7 +3,7 @@ type: claim
 title: The CHSRI graduation advantage was concentrated among students least likely to graduate, exceeding six percentage points in the lowest stratum versus about two in the highest
 description: The CHSRI graduation advantage was concentrated among students least likely to graduate, exceeding six percentage points in the lowest stratum versus about two in the highest
 id: chsri-graduation-advantage-largest-lowest-stratum
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

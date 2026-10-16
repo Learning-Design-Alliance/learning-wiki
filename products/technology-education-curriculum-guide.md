@@ -4,7 +4,7 @@ id: technology-education-curriculum-guide
 title: Technology Education Curriculum Guide
 description: A curriculum guide issued by an education authority that specifies technology-education content, instructional approaches, course sequences, and time allocations for junior- and senior-high programmes.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -4,7 +4,7 @@ id: selfcode20-dataset-of-student-and-expert-line-by-line-code-explanations
 title: SelfCode2.0 dataset of student and expert line-by-line code explanations
 description: A corpus of line-level code explanations produced by novice programming students and experts, annotated for correctness and released for evaluating code-explanation and semantic-similarity systems.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

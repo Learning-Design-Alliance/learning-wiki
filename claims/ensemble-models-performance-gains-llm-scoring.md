@@ -3,7 +3,7 @@ type: claim
 title: Ensemble modeling of multiple LLM scorers yields performance gains in automated divergent thinking scoring
 description: Ensemble modeling of multiple LLM scorers yields performance gains in automated divergent thinking scoring
 id: ensemble-models-performance-gains-llm-scoring
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

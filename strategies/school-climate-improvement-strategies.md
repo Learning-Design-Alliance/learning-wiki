@@ -3,7 +3,7 @@ type: strategy
 id: school-climate-improvement-strategies
 title: School-level strategies for improving school climate
 description: "The report names commonly employed school-level strategies for improving climate: \"schoolwide prevention approaches that involve all staff in the installation of a behavior management system,\" and \"student social and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

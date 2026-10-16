@@ -3,7 +3,7 @@ type: strategy
 id: pre-study-stakeholder-engagement-strategy
 title: Before a study, researchers should present the proposal to district administration, hold conversations with administrators and teachers, and host parent events to build buy-in
 description: "This strategy has researchers invest in relationships before data collection: present the proposal to district administration, hold many conversations with school administrators and teachers, and host parent events to..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

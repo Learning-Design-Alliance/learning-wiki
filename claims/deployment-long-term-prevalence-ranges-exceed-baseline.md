@@ -3,7 +3,7 @@ type: claim
 title: Long-term prevalence of post-deployment mental health problems is expected to exceed pre-deployed/non-deployed baseline ranges across all four outcome domains
 description: Long-term prevalence of post-deployment mental health problems is expected to exceed pre-deployed/non-deployed baseline ranges across all four outcome domains
 id: deployment-long-term-prevalence-ranges-exceed-baseline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

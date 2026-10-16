@@ -3,7 +3,7 @@ type: claim
 title: Students expect AI to help their test scores, but control students overestimate the effect relative to the experimental estimate
 description: Students expect AI to help their test scores, but control students overestimate the effect relative to the experimental estimate
 id: genai-student-beliefs-overestimate-control
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

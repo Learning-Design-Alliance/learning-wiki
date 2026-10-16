@@ -18,6 +18,12 @@ work; this reads backwards from the evidence that has already proved itself.
    paper are dropped. The rest are ranked: syntheses and trials first (by their registered title),
    then by how many seeds cite them.
 
+5. With `--open-only`, each kept candidate is looked up on Unpaywall and queued only if a legal open
+   copy exists (a repository copy, PMC, or the publisher's own open version); its fetch URL is that copy.
+   The first 500-paper chase lost 369 papers at the fetch step to paywalls, so queueing what cannot be
+   read only spends a batch run finding that out again. Papers already attempted (in the manifest or
+   `fetch-failed.ndjson`) are skipped unless an open copy is now known.
+
 Decisions go to `eval/citation-chase/candidates.ndjson` (committed: what was found and why), and the
 top `--take` go to a batch queue in the `eval/runs/queues/` format for
 `run_scrape_batch.py --queue`. Nothing touches a wiki page.
@@ -61,7 +67,17 @@ METHODS_TITLE = re.compile(r"publication bias|heterogeneity|inconsistency in met
                            r"robust variance|dependent effect sizes|small-study|meta-analytic models|tutorial|primary, secondary, and meta|"
                            r"quantitative synthesis of single|meta-analysis: (a|an) (guide|introduction)|how to (do|conduct)|fail-safe|file-drawer|methodolog|statistical methods|"
                            r"quantitative methods|complex research designs|confounded moderators|dichotomization|"
-                           r"response ratios|in clinical trials", re.I)
+                           r"response ratios|in clinical trials|p-curve|p-hacking|discriminant validity|structural equation|"
+                           r"crowdsourc|mechanical turk|thematic analysis|cross-lagged|risk of bias|homogeneity tests", re.I)
+RETRACTED = re.compile(r"^\s*(retracted|withdrawn)\b", re.I)
+
+
+def retracted(msg: dict, title: str) -> bool:
+    """A retracted or withdrawn work, by its Crossref update record or its title. One got into the
+    first chase (2026-10-15: nine pages from "RETRACTED ARTICLE: The effect of ChatGPT on ...")."""
+    updates = (msg.get("updated-by") or []) + (msg.get("relation", {}).get("is-retracted-by") or [])
+    return bool(RETRACTED.search(title)) or any(
+        str(u.get("type", "")).lower() in ("retraction", "withdrawal", "removal") for u in updates if isinstance(u, dict))
 
 
 def crossref(doi: str):
@@ -77,6 +93,39 @@ def crossref(doi: str):
         except requests.RequestException:
             time.sleep(3)
     return None
+
+
+def unpaywall(doi: str):
+    """The best legal open copy of a work, or None. Unpaywall needs only a contact address."""
+    for attempt in range(3):
+        try:
+            r = requests.get(f"https://api.unpaywall.org/v2/{doi}", params={"email": MAILTO}, timeout=30)
+            if r.status_code == 200:
+                loc = r.json().get("best_oa_location") or {}
+                url = loc.get("url_for_pdf") or loc.get("url")
+                return {"url": url, "host": loc.get("host_type"), "version": loc.get("version")} if url else None
+            if r.status_code in (429, 503):
+                time.sleep(5 * (attempt + 1))
+                continue
+            return None
+        except requests.RequestException:
+            time.sleep(3)
+    return None
+
+
+def attempted() -> set:
+    """DOIs a batch has already tried to fetch and could not."""
+    out = set()
+    f = WIKI_ROOT / "eval" / "runs" / "queues" / "fetch-failed.ndjson"
+    if f.exists():
+        for line in f.read_text(encoding="utf-8").splitlines():
+            try:
+                d = json.loads(line).get("doi")
+            except json.JSONDecodeError:
+                continue
+            if d:
+                out.add(d.lower())
+    return out
 
 
 def seeds() -> dict:
@@ -103,6 +152,7 @@ def main() -> None:
     ap.add_argument("--take", type=int, default=400)
     ap.add_argument("--queue", default=str(WIKI_ROOT / "eval" / "runs" / "queues" / "citation-chase.ndjson"))
     ap.add_argument("--workers", type=int, default=6)
+    ap.add_argument("--open-only", action="store_true", help="queue only works with a legal open copy (Unpaywall)")
     args = ap.parse_args()
 
     seed = seeds()
@@ -138,8 +188,10 @@ def main() -> None:
                    "synthesis": bool(SYNTHESIS.search(title)), "trial": bool(TRIAL.search(title))}
             methods = (row["venue"].replace("&amp;", "&").lower() in METHODS_VENUES
                        or bool(METHODS_TITLE.search(title)))
-            row["kept"] = kind in KEEP_TYPES and bool(title) and not methods
-            row["why"] = ("kept" if row["kept"] else "research-methods literature" if methods else f"type {kind}")
+            gone = retracted(msg, title)
+            row["kept"] = kind in KEEP_TYPES and bool(title) and not methods and not gone
+            row["why"] = ("kept" if row["kept"] else "retracted" if gone else
+                          "research-methods literature" if methods else f"type {kind}")
             rows.append(row)
     kept = sorted((r for r in rows if r["kept"]),
                   key=lambda r: (-(2 * r["synthesis"] + r["trial"]), -r["seeds"], -(r["year"] or 0)))
@@ -147,6 +199,18 @@ def main() -> None:
     with OUT.open("w", encoding="utf-8") as fh:
         for r in sorted(rows, key=lambda r: r["doi"]):
             fh.write(json.dumps(r, ensure_ascii=False) + "\n")
+    if args.open_only:
+        with concurrent.futures.ThreadPoolExecutor(args.workers) as ex:
+            for r, oa in zip(kept, ex.map(unpaywall, [r["doi"] for r in kept])):
+                r["open_copy"] = oa
+        tried = attempted()
+        kept = [r for r in kept if r.get("open_copy")]
+        print(f"{len(kept)} have a legal open copy ({sum(r['doi'] in tried for r in kept)} of them failed a fetch before)")
+        by_doi = {r["doi"]: r for r in kept}
+        with OUT.open("w", encoding="utf-8") as fh:
+            for r in sorted(rows, key=lambda r: r["doi"]):
+                r.setdefault("open_copy", by_doi.get(r["doi"], {}).get("open_copy"))
+                fh.write(json.dumps(r, ensure_ascii=False) + "\n")
     q = Path(args.queue)
     q.parent.mkdir(parents=True, exist_ok=True)
     with q.open("w", encoding="utf-8") as fh:
@@ -154,7 +218,8 @@ def main() -> None:
             slug = re.sub(r"[^a-z0-9]+", "-", f"{(r['authors'] or ['anon'])[0]}-{r['year']}-{r['title']}".lower())[:70].strip("-")
             fh.write(json.dumps({"id": f"cc-{slug}", "source": "web", "title": r["title"],
                                  "authors": ", ".join(r["authors"]), "year": r["year"],
-                                 "url": f"https://doi.org/{r['doi']}", "fetch_url": f"https://doi.org/{r['doi']}",
+                                 "url": f"https://doi.org/{r['doi']}",
+                                 "fetch_url": (r.get("open_copy") or {}).get("url") or f"https://doi.org/{r['doi']}",
                                  "doi": r["doi"], "topic_hint": f"citation chase: cited by {r['seeds']} strong studies",
                                  "list_key": f"cc-{slug}"}, ensure_ascii=False) + "\n")
     c = Counter((r["synthesis"], r["trial"]) for r in kept)

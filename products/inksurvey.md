@@ -4,7 +4,7 @@ id: inksurvey
 title: InkSurvey
 description: InkSurvey is free, web-based software developed for educators that collects keyed or digital-ink student responses in real time and enables anonymous display to a class.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
@@ -41,7 +41,7 @@ InkSurvey is free, web-based software developed for educators that collects keye
 -
 
 ## Key Sources
-- Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H. (2013). Technology-Enabled Nurturing of Creativity and Innovation: A Specific Illustration from an Undergraduate Engineering Physics Course. https://arxiv.org/abs/1308.2434
+- Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H. (2013). Technology-Enabled Nurturing of Creativity and Innovation: A Specific Illustration from an Undergraduate Engineering Physics Course. https://arxiv.org/abs/1308.2434. [doi:10.48550/arxiv.1308.2434](https://doi.org/10.48550/arxiv.1308.2434)
 - F.V. Kowalski and S.E. Kowalski. (2013). Enhancing Curiosity Using Interactive Simulations Combined with Real-Time Formative Assessment Facilitated by Open-Format Questions on Tablet Computers. https://arxiv.org/abs/1308.1110
 
 <!-- merged 2026-10-10 from elements/inksurvey-pen-enabled-brainstorming ("InkSurvey with pen-enabled mobile devices for anonymous real-time electronic brainstorming"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
@@ -84,7 +84,7 @@ InkSurvey is "free, web-based software that allows students to use keyed input o
 - [Solicit open-format curiosity questions after interactive simulations and use responses as a springboard for instruction](../strategies/open-format-simulation-questions-springboard.md)
 
 ## Key Sources
-- Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H. (2013). Technology-Enabled Nurturing of Creativity and Innovation: A Specific Illustration from an Undergraduate Engineering Physics Course. https://arxiv.org/abs/1308.2434
+- Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H. (2013). Technology-Enabled Nurturing of Creativity and Innovation: A Specific Illustration from an Undergraduate Engineering Physics Course. https://arxiv.org/abs/1308.2434. [doi:10.48550/arxiv.1308.2434](https://doi.org/10.48550/arxiv.1308.2434)
 -->
 
 <!-- merged 2026-10-10 from elements/inksurvey-tablet-formative-assessment ("InkSurvey real-time formative assessment with pen-enabled tablet computers"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.

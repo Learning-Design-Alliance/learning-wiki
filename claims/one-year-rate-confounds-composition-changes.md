@@ -3,7 +3,7 @@ type: claim
 title: One-year dropout rates confound changing student composition and movement through high school, unlike cohort rates
 description: One-year dropout rates confound changing student composition and movement through high school, unlike cohort rates
 id: one-year-rate-confounds-composition-changes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

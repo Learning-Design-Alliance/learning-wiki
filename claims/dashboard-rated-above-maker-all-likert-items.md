@@ -3,7 +3,7 @@ type: claim
 title: STEM instructor-researchers rated the Journal Data Dashboard at or above WordStream Maker on every perceived ease-of-use and usefulness item (descriptive, n=10)
 description: STEM instructor-researchers rated the Journal Data Dashboard at or above WordStream Maker on every perceived ease-of-use and usefulness item (descriptive, n=10)
 id: dashboard-rated-above-maker-all-likert-items
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

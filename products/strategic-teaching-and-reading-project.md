@@ -4,7 +4,7 @@ id: strategic-teaching-and-reading-project
 title: Strategic Teaching and Reading Project
 description: "A North Central Regional Educational Laboratory professional-development programme that trains teachers to use five reading-comprehension strategies: metacognition, prior knowledge, inferencing, word meaning, and text structure."
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Long school days or years are among the policies most consistently associated with positive charter-school impacts
 description: Long school days or years are among the policies most consistently associated with positive charter-school impacts
 id: long-school-days-years-charter-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

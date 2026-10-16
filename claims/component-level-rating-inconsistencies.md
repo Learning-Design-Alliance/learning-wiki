@@ -3,7 +3,7 @@ type: claim
 title: Principals rated some instruction components inconsistently, rating communicating with students, using assessment in instruction, and organizing physical space lower than observers, and student engagement higher
 description: Principals rated some instruction components inconsistently, rating communicating with students, using assessment in instruction, and organizing physical space lower than observers, and student engagement higher
 id: component-level-rating-inconsistencies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

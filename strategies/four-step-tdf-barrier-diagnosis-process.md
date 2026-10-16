@@ -3,7 +3,7 @@ type: strategy
 id: four-step-tdf-barrier-diagnosis-process
 title: Four-step TDF process for diagnosing and remediating curriculum implementation barriers
 description: The article outlines a four-step process for education researchers to apply the TDF to implementation problems.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

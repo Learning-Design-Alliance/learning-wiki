@@ -3,7 +3,7 @@ type: strategy
 id: distinguish-learner-research-from-user-research
 title: Distinguish learner research from user research and choose success metrics tied to educational outcomes rather than engagement
 description: "The report's EnGen case study recommends that developers not conflate metrics meaningful in consumer tech with evidence of learning."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

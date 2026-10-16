@@ -3,7 +3,7 @@ type: claim
 title: Learning-oriented video groups differ significantly from the productivity-oriented group on the primary ENA axis, with large effect sizes
 description: Learning-oriented video groups differ significantly from the productivity-oriented group on the primary ENA axis, with large effect sizes
 id: ena-group-differences-large-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

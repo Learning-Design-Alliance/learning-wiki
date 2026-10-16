@@ -3,7 +3,7 @@ type: claim
 title: "The proportion of eligible 4-year-olds enrolled in TK declined from 64% in 2021–22 to 59% in 2023–24 because eligibility grew faster than enrollment"
 description: "The proportion of eligible 4-year-olds enrolled in TK declined from 64% in 2021–22 to 59% in 2023–24 because eligibility grew faster than enrollment"
 id: tk-uptake-rate-declined-as-eligibility-expanded
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

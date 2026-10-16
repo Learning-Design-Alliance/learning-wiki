@@ -3,7 +3,7 @@ type: claim
 title: YOUmedia registration increased steadily across Year 1, reaching 1,593 registered teens by August 2010
 description: YOUmedia registration increased steadily across Year 1, reaching 1,593 registered teens by August 2010
 id: youmedia-registration-increased-year-one
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

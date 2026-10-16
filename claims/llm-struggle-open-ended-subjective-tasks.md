@@ -3,7 +3,7 @@ type: claim
 title: LLMs perform worse on complex, open-ended, or subjective assignments than on short, clearly formulated answers
 description: LLMs perform worse on complex, open-ended, or subjective assignments than on short, clearly formulated answers
 id: llm-struggle-open-ended-subjective-tasks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

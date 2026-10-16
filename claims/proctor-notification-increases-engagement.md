@@ -3,7 +3,7 @@ type: claim
 title: After a proctor notification triggered by rapid-guessing detection, test-taking engagement tended to increase
 description: After a proctor notification triggered by rapid-guessing detection, test-taking engagement tended to increase
 id: proctor-notification-increases-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

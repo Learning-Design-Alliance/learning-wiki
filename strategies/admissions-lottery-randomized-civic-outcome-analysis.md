@@ -3,7 +3,7 @@ type: strategy
 id: admissions-lottery-randomized-civic-outcome-analysis
 title: Use school admissions lotteries as randomized experiments to estimate long-term civic outcomes
 description: "The report's design strategy is to exploit oversubscribed school admissions lotteries as a source of randomization: it matches \"records from Democracy Prep's admissions lotteries to a national database of registration..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

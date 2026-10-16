@@ -3,14 +3,14 @@ type: strategy
 id: interpretive-grounding-before-ai-use
 title: Reinforce interpretive grounding by having learners engage primary materials before using AI tools
 description: "A pedagogical implication the article draws for SSH education in AI-mediated contexts: ensure that learners engage directly with primary materials before using AI tools, in line with hermeneutic principles emphasizing..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 sources:
   - id: voicu-2026
     resource: "https://doi.org/10.61071/jdp.2665"
-    title: "Voicu, C.-G. (2026). AI-Mediated Learning and the Restructuring of Interpretive Cognition: A Developmental-Critical Model for Social Sciences and Humanities Education. Journal of Digital Pedagogy, 5(1) 37-51. https://doi.org/10.61071/jdp.2665 .2665"
+    title: "Voicu, C.-G. (2026). AI-Mediated Learning and the Restructuring of Interpretive Cognition: A Developmental-Critical Model for Social Sciences and Humanities Education. Journal of Digital Pedagogy, 5(1), 37–51. https://doi.org/10.61071/jdp.2665"
     author: Voicu, C.-G
 ---
 
@@ -50,4 +50,4 @@ A pedagogical implication the article draws for SSH education in AI-mediated con
 -
 
 ## Key Sources
-- Voicu, C.-G. (2026). AI-Mediated Learning and the Restructuring of Interpretive Cognition: A Developmental-Critical Model for Social Sciences and Humanities Education. Journal of Digital Pedagogy, 5(1) 37-51. https://doi.org/10.61071/jdp.2665 .2665
+- Voicu, C.-G. (2026). AI-Mediated Learning and the Restructuring of Interpretive Cognition: A Developmental-Critical Model for Social Sciences and Humanities Education. Journal of Digital Pedagogy, 5(1), 37–51. https://doi.org/10.61071/jdp.2665

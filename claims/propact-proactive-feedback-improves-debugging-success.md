@@ -3,7 +3,7 @@ type: claim
 title: Proactive multimodal feedback significantly increases debugging success in pair programming compared to no-feedback control
 description: Proactive multimodal feedback significantly increases debugging success in pair programming compared to no-feedback control
 id: propact-proactive-feedback-improves-debugging-success
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

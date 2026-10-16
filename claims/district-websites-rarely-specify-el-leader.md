@@ -3,7 +3,7 @@ type: claim
 title: District websites rarely specify which department or administrator oversees services for English Learners
 description: District websites rarely specify which department or administrator oversees services for English Learners
 id: district-websites-rarely-specify-el-leader
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

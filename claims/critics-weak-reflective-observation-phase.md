@@ -3,7 +3,7 @@ type: claim
 title: "Critics argue experiential learning's weaknesses lie in the reflective observation phase; the authors counter that trainers can develop observation skills"
 description: "Critics argue experiential learning's weaknesses lie in the reflective observation phase; the authors counter that trainers can develop observation skills"
 id: critics-weak-reflective-observation-phase
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

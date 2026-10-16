@@ -4,7 +4,7 @@ id: design-research-plan-template
 title: Design Research Plan Template
 description: "Mathematica's Design Research Plan Template is a planning tool that helps organizations document theories of change, objectives, research activities, timelines, findings, and design adjustments while incorporating community needs."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

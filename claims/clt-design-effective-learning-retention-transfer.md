@@ -3,7 +3,7 @@ type: claim
 title: The CLT-based design produced higher effective learning scores at retention and transfer, while achievement effective learning scores were nearly equal between groups
 description: The CLT-based design produced higher effective learning scores at retention and transfer, while achievement effective learning scores were nearly equal between groups
 id: clt-design-effective-learning-retention-transfer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

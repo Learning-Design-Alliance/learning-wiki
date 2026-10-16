@@ -3,7 +3,7 @@ type: strategy
 id: age-segmented-security-training-content
 title: Segment security-training content by learner age group to maximize personal relevance
 description: "Rather than a one-size-fits-all approach, this strategy tailors scam scenarios to each demographic's everyday digital life: simple game-based interactions for children, dating-app and AI-generated-media scenarios for..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: principle
 id: learning-activity-selection-principles
 title: General principles for selecting learning activities
 description: "Chapter V states five general principles for selecting learning activities: activities should provide practice of the behavior implied by the competency or objective, the student should acquire satisfaction from carry..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

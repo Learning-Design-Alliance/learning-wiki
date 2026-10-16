@@ -3,7 +3,7 @@ type: claim
 title: Analysis of 52 higher-education assessment plans found outcome-based orientation dominant, with dynamic elements subsumed under summative scoring
 description: Analysis of 52 higher-education assessment plans found outcome-based orientation dominant, with dynamic elements subsumed under summative scoring
 id: assessment-plans-outcome-based-dominant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

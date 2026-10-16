@@ -3,7 +3,7 @@ type: claim
 title: Teens with ASD are described as vulnerable to compulsive internet use that limits in-person social interaction
 description: Teens with ASD are described as vulnerable to compulsive internet use that limits in-person social interaction
 id: asd-teens-vulnerable-compulsive-internet-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

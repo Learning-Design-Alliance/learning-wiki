@@ -3,7 +3,7 @@ type: claim
 title: Only mastery-approach and performance-approach goals mediate the relationship between teacher support and engagement in AI-assisted English learning
 description: Only mastery-approach and performance-approach goals mediate the relationship between teacher support and engagement in AI-assisted English learning
 id: approach-goals-mediate-support-engagement-ai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

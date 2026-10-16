@@ -3,7 +3,7 @@ type: strategy
 id: fragility-differentiated-enrollment-thresholds
 title: Differentiated enrollment thresholds for school autonomy based on territorial fragility
 description: The framework sets asymmetric minimum enrollment thresholds for schools to retain administrative autonomy, calibrated to the territorial criticality level of their municipality.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

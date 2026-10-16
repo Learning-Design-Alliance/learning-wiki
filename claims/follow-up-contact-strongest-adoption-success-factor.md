@@ -3,7 +3,7 @@ type: claim
 title: Follow-up or post-implementation contact by change agents relates most strongly to adoption success; without it adoption falters
 description: Follow-up or post-implementation contact by change agents relates most strongly to adoption success; without it adoption falters
 id: follow-up-contact-strongest-adoption-success-factor
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

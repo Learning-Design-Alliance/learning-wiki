@@ -3,7 +3,7 @@ type: claim
 title: IPSD set an equity goal of increasing computing opportunities in five Title I elementary schools to reach all students district-wide
 description: IPSD set an equity goal of increasing computing opportunities in five Title I elementary schools to reach all students district-wide
 id: ipsd-title-i-computing-equity-goal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

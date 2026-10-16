@@ -3,7 +3,7 @@ type: strategy
 id: generative-strategy-implementation-recommendations
 title: Provide practical implementation recommendations for each generative learning strategy
 description: "For each of the eight generative learning strategies, the article commits to providing \"practical recommendations for implementation\" alongside the research review."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

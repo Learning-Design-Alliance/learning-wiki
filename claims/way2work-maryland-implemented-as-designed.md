@@ -3,7 +3,7 @@ type: claim
 title: The vocational rehabilitation agency and the University of Maryland implemented the Way2Work Maryland model as designed, and participants received the model services as intended
 description: The vocational rehabilitation agency and the University of Maryland implemented the Way2Work Maryland model as designed, and participants received the model services as intended
 id: way2work-maryland-implemented-as-designed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

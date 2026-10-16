@@ -3,7 +3,7 @@ type: claim
 title: "A 2024 global survey found 86% of students use AI tools while 80% report institutional policies are unclear or inadequate"
 description: "A 2024 global survey found 86% of students use AI tools while 80% report institutional policies are unclear or inadequate"
 id: survey-86-percent-students-use-ai-80-percent-policies-unclear
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

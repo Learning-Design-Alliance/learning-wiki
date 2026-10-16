@@ -3,7 +3,7 @@ type: claim
 title: Youth-led action research found that many California high school students did not feel cared for by adults at school
 description: Youth-led action research found that many California high school students did not feel cared for by adults at school
 id: youth-survey-adult-care-deficit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

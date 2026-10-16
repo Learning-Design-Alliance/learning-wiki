@@ -3,7 +3,7 @@ type: claim
 title: "Dual-track comparison of manual estimation with AI prediction activated students' isomorphism awareness in a Grade 5 lesson"
 description: "Dual-track comparison of manual estimation with AI prediction activated students' isomorphism awareness in a Grade 5 lesson"
 id: dual-track-comparison-activates-isomorphism-awareness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

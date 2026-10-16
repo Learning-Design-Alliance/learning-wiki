@@ -3,7 +3,7 @@ type: strategy
 id: computer-based-metacognitive-instruction-enhances-srl-in-maths
 title: Use computer-based instruction with observation, collaboration, and semi-structured guidance, plus online metacognitive guidance, to enhance SRL in mathematics
 description: The review identifies computer-based and online instructional methods as viable routes to enhancing self-regulated learning in mathematics.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

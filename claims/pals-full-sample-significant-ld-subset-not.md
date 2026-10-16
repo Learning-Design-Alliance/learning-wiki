@@ -3,7 +3,7 @@ type: claim
 title: PALS effects were statistically significant for the full diverse sample but not for the learning-disability subsets analyzed separately
 description: PALS effects were statistically significant for the full diverse sample but not for the learning-disability subsets analyzed separately
 id: pals-full-sample-significant-ld-subset-not
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

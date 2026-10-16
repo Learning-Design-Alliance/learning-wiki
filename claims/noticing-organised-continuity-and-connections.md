@@ -3,7 +3,7 @@ type: claim
 title: Noticing in AI-based simulations was organised through both within-dimension continuity and between-dimension connections rather than a linear sequence
 description: Noticing in AI-based simulations was organised through both within-dimension continuity and between-dimension connections rather than a linear sequence
 id: noticing-organised-continuity-and-connections
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

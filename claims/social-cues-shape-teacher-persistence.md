@@ -3,7 +3,7 @@ type: claim
 title: Race, ethnicity, and class affect teacher perceptions and teacher behavior, including persistence with struggling students
 description: Race, ethnicity, and class affect teacher perceptions and teacher behavior, including persistence with struggling students
 id: social-cues-shape-teacher-persistence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

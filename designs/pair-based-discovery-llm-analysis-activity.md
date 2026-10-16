@@ -3,7 +3,7 @@ type: design
 id: pair-based-discovery-llm-analysis-activity
 title: Pair-based, discovery-oriented LLM analysis activity following an eight-week disciplinary module
 description: "The intervention's design combined two pedagogical principles: Vygotsky's Zone of Proximal Development, realized through paired work, and Dewey's learning through experience, realized as an authentic discovery-oriente..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

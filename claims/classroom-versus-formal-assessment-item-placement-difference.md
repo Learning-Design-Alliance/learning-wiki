@@ -3,7 +3,7 @@ type: claim
 title: Classroom reading comprehension practice differs from formal assessment in item placement relative to the passage
 description: Classroom reading comprehension practice differs from formal assessment in item placement relative to the passage
 id: classroom-versus-formal-assessment-item-placement-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

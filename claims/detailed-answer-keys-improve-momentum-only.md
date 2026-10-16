@@ -3,7 +3,7 @@ type: claim
 title: Detailed written answer keys at checkpoints significantly improved momentum post-test scores over brief answers, but not kinetic energy scores
 description: Detailed written answer keys at checkpoints significantly improved momentum post-test scores over brief answers, but not kinetic energy scores
 id: detailed-answer-keys-improve-momentum-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

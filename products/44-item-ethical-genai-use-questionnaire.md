@@ -4,7 +4,7 @@ id: 44-item-ethical-genai-use-questionnaire
 title: 44-item ethical GenAI use questionnaire
 description: A self-administered five-point Likert questionnaire developed by Tabares-Cruz et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

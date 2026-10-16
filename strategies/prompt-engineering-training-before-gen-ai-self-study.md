@@ -3,7 +3,7 @@ type: strategy
 id: prompt-engineering-training-before-gen-ai-self-study
 title: Introduce prompt-engineering training before students use Gen AI for structured self-study techniques
 description: "The authors recommend training students on prompt engineering before deploying Gen AI within structured study techniques such as problem posing, stating that \"The results of this study additionally support the introdu..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

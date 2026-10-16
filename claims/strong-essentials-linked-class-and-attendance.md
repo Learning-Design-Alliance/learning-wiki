@@ -3,7 +3,7 @@ type: claim
 title: Programs with strong essential supports are more likely to have higher teacher-child interactions and better child attendance than programs with very weak supports
 description: Programs with strong essential supports are more likely to have higher teacher-child interactions and better child attendance than programs with very weak supports
 id: strong-essentials-linked-class-and-attendance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

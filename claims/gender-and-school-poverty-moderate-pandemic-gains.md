@@ -3,7 +3,7 @@ type: claim
 title: Male BIPOC students and BIPOC students in high-poverty schools made the lowest percentage of typical learning gains during the pandemic
 description: Male BIPOC students and BIPOC students in high-poverty schools made the lowest percentage of typical learning gains during the pandemic
 id: gender-and-school-poverty-moderate-pandemic-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

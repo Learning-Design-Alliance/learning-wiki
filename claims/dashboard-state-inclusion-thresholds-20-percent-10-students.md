@@ -3,7 +3,7 @@ type: claim
 title: "State-level dashboard results are reported only when at least 20% of students were tested across most grades and the sample contains at least 10 students"
 description: "State-level dashboard results are reported only when at least 20% of students were tested across most grades and the sample contains at least 10 students"
 id: dashboard-state-inclusion-thresholds-20-percent-10-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

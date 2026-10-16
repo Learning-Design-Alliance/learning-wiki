@@ -3,7 +3,7 @@ type: claim
 title: Parents more often report initial difficulty accepting AAC than continued difficulty after time has passed
 description: Parents more often report initial difficulty accepting AAC than continued difficulty after time has passed
 id: aac-acceptance-difficulty-declines-over-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

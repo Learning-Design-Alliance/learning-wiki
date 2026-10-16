@@ -3,7 +3,7 @@ type: claim
 title: "PLC in mathematics in prior research pursue three distinct objects, with developing teachers' repertoire of teaching actions the most common"
 description: "PLC in mathematics in prior research pursue three distinct objects, with developing teachers' repertoire of teaching actions the most common"
 id: plc-mathematics-three-objects-repertoire-most-common
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

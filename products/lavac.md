@@ -4,7 +4,7 @@ id: lavac
 title: LAVAC
 description: LAVAC (Laboratoire Audio-Visuel Actif-Comparatif) is a networked multimedia language-laboratory system developed for language instruction, providing linked student terminals, courseware-authoring tools, multimedia courseware, and teacher tutoring controls.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

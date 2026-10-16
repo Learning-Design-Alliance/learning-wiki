@@ -3,7 +3,7 @@ type: claim
 title: Some SSWs hold deficit-based racial attitudes, conflating structural constraints with immigrant cultural values and misreading trauma responses
 description: Some SSWs hold deficit-based racial attitudes, conflating structural constraints with immigrant cultural values and misreading trauma responses
 id: ssws-deficit-racial-attitudes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

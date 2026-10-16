@@ -3,7 +3,7 @@ type: claim
 title: Narrative inquiry uses research puzzles rather than research problems because it is a searching again rather than a problem with a clear solution
 description: Narrative inquiry uses research puzzles rather than research problems because it is a searching again rather than a problem with a clear solution
 id: narrative-inquiry-puzzles-not-problems
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -2,7 +2,7 @@
 type: theory
 title: "CRESST model of learning: five families of cognitive learning as assessment targets"
 description: "The CRESST model of learning organizes assessment around five types of learning: content understanding, problem solving, communication, collaboration, and metacognition."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

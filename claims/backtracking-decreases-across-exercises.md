@@ -3,7 +3,7 @@ type: claim
 title: Student backtracking before setting up the correct induction decreased across exercises in both deployments, indicating a learning curve
 description: Student backtracking before setting up the correct induction decreased across exercises in both deployments, indicating a learning curve
 id: backtracking-decreases-across-exercises
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

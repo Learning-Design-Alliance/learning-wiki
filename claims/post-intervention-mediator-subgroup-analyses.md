@@ -3,7 +3,7 @@ type: claim
 title: "Subgroup analyses in education impact evaluations can also be based on participants' experiences, mediators, and outcomes measured after program implementation"
 description: "Subgroup analyses in education impact evaluations can also be based on participants' experiences, mediators, and outcomes measured after program implementation"
 id: post-intervention-mediator-subgroup-analyses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

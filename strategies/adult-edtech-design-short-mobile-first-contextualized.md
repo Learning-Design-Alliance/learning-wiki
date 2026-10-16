@@ -4,7 +4,7 @@ id: adult-edtech-design-short-mobile-first-contextualized
 aliases: [design-adult-edtech-short-mobile-contextualized]
 title: Design adult learning products with short lessons, visualizations, mobile-first simplicity, and contextualized content integrating basic and job skills
 description: Based on interviews with entrepreneurs, investors, and providers, the guide recommends three product-feature priorities for adult learners.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

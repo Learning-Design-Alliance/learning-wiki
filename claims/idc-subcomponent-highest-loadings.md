@@ -3,7 +3,7 @@ type: claim
 title: Design of learning activities and measurement/evaluation load highest among knowledge and ability components; systematic thinking highest among personal attributes
 description: Design of learning activities and measurement/evaluation load highest among knowledge and ability components; systematic thinking highest among personal attributes
 id: idc-subcomponent-highest-loadings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

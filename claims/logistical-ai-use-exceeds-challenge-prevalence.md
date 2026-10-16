@@ -3,7 +3,7 @@ type: claim
 title: "AI use for logistical challenges far exceeds the reported prevalence of logistical difficulties (86% usage vs 29% prevalence)"
 description: "AI use for logistical challenges far exceeds the reported prevalence of logistical difficulties (86% usage vs 29% prevalence)"
 id: logistical-ai-use-exceeds-challenge-prevalence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

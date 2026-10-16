@@ -3,7 +3,7 @@ type: claim
 title: The findings contradict claims that alternative teacher preparation programs such as Teach For America harm students
 description: The findings contradict claims that alternative teacher preparation programs such as Teach For America harm students
 id: tfa-findings-contradict-harm-claims
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

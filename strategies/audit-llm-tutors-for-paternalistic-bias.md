@@ -3,7 +3,7 @@ type: strategy
 id: audit-llm-tutors-for-paternalistic-bias
 title: Audit educational LLM deployments for differential treatment before serving marginalized learners
 description: "The authors recommend that \"Educational deployments require urgent auditing, as safety alignment may actively harm vulnerable populations.\" Concretely, they propose \"developing culturally-equitable alignment to mainta..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

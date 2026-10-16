@@ -3,7 +3,7 @@ type: strategy
 id: integrate-mr-visualization-physical-interaction
 title: Integrate mixed-reality visualization with physical interaction rather than relying on a single modality
 description: "The article's first design guideline recommends combining tangibility and mixed reality in engineering learning tools, because participants valued the combination and reported improved conceptual understanding and han..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -46,4 +46,4 @@ The article's first design guideline recommends combining tangibility and mixed 
 -
 
 ## Key Sources
-- Rakib, M. A. N., Akter, S., Sridhar, E. P., Biswas, S., Raihan, M. R., & Rahman, M. (2025). Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning. Manuscript under review at Ergonomics in Design: The Quarterly of Human Factors Applications. https://arxiv.org/abs/2607.00979
+- Rakib, M. A. N., Akter, S., Sridhar, E. P., Biswas, S., Raihan, M. R., & Rahman, M. (2025). Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning. Manuscript under review at Ergonomics in Design: The Quarterly of Human Factors Applications. https://arxiv.org/abs/2607.00979. [doi:10.48550/arxiv.2607.00979](https://doi.org/10.48550/arxiv.2607.00979)

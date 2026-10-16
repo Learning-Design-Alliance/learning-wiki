@@ -3,7 +3,7 @@ type: claim
 title: The Cal-Learn evaluation met WWC evidence standards only with reservations because survey exclusions were based on conditions that could have been affected by the financial incentives
 description: The Cal-Learn evaluation met WWC evidence standards only with reservations because survey exclusions were based on conditions that could have been affected by the financial incentives
 id: cal-learn-evidence-standards-reservations-attrition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

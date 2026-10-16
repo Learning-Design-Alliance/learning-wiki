@@ -3,7 +3,7 @@ type: strategy
 id: varied-partitioning-problems-for-comparison-equivalence
 title: Use varied equal-partitioning problems to develop fraction comparison and equivalence
 description: Teachers help children compare fractional parts and explore equivalence by trying different ways to partition objects.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

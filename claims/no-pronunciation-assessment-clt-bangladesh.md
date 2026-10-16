@@ -3,7 +3,7 @@ type: claim
 title: "Absence of focused pronunciation assessment within the CLT framework hinders monitoring of learners' pronunciation progress"
 description: "Absence of focused pronunciation assessment within the CLT framework hinders monitoring of learners' pronunciation progress"
 id: no-pronunciation-assessment-clt-bangladesh
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

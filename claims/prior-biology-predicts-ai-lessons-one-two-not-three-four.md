@@ -3,7 +3,7 @@ type: claim
 title: Prior biology knowledge predicted new AI knowledge in Lessons 1 and 2 but not in Lessons 3 and 4
 description: Prior biology knowledge predicted new AI knowledge in Lessons 1 and 2 but not in Lessons 3 and 4
 id: prior-biology-predicts-ai-lessons-one-two-not-three-four
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

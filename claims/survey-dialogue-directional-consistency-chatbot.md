@@ -3,7 +3,7 @@ type: claim
 title: "Survey scores show directional consistency with dialogue behavior: students with higher knowledge-based survey scores tended to have above-average question specificity and higher expected grades"
 description: "Survey scores show directional consistency with dialogue behavior: students with higher knowledge-based survey scores tended to have above-average question specificity and higher expected grades"
 id: survey-dialogue-directional-consistency-chatbot
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

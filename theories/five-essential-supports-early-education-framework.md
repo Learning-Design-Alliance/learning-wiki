@@ -3,7 +3,7 @@ type: theory
 title: "The five essential supports framework: five mutually reinforcing organizational dimensions that enable or inhibit improvement in classroom practices"
 description: The five essential supports framework specifies five school- or center-level organizational subsystems—effective leaders, collaborative teachers, involved families, supportive environment, and ambitious instruction—th...
 canonical: true
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -66,10 +66,9 @@ The five essential supports framework specifies five school- or center-level org
 
 - [The Five Essential Supports framework identifies five organizational conditions for school improvement](five-essential-supports-framework-illinois.md)
 - [The Early Education Essentials framework: six organizational essential supports for ECE programs](early-education-essentials-six-essential-supports-framework.md)
-- [Five essentials framework of organizational supports for school improvement](five-essentials-framework-early-education-adaptation.md)
+- [Five essentials framework of organizational supports for school improvement](five-essential-supports-framework-ccsr.md)
 - [Five Essential Supports framework for improving student learning](five-essential-supports-framework-uchicago-consortium.md)
 - [Five Essential Supports for School Improvement (5Es) framework](../products/5essentials.md)
-- [Framework of five essential supports and contextual resources for school improvement](five-essential-supports-framework-ccsr.md)
 - [Four organizational supports mediating leadership effects on instruction and learning](four-organizational-supports-leadership-pathways.md)
 - [The Five Essential Supports framework organizes school development measures](../products/5essentials-survey.md)
 - [Model of Essential Supports for Student Learning](../products/model-of-essential-supports-for-student-learning.md)

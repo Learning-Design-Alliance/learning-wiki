@@ -3,7 +3,7 @@ type: design
 id: phase-in-schedule-resident-responsibility
 title: Phase-in schedule pacing resident responsibility and Danielson Clusters across the residency year
 description: "A reusable program-level design in which the clinical year is broken into 2-week increments that specify residents' coteaching roles, responsibilities, and strategies, plus focal Danielson Clusters that coursework rei..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Demographic and psychiatric-history variables are largely unrelated to treatment acceptability, with counseling history the exception
 description: Demographic and psychiatric-history variables are largely unrelated to treatment acceptability, with counseling history the exception
 id: demographics-unrelated-to-acceptability-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

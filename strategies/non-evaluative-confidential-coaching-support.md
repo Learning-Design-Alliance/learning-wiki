@@ -3,7 +3,7 @@ type: strategy
 id: non-evaluative-confidential-coaching-support
 title: Protect confidentiality and a non-evaluative stance so teachers trust the coach-teacher relationship
 description: "The report's second recommended administrator action is to respect confidentiality in the coach-teacher relationship and keep coaching non-evaluative."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

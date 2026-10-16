@@ -3,7 +3,7 @@ type: design
 id: ai-teaching-tech-stack-dash-pytorch-qwen
 title: "AI teaching technology stack: dashboard, reinforcement-learning feedback, and LLM-based semantic assessment"
 description: The article specifies the implemented technologies behind the smart teaching ecosystem.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

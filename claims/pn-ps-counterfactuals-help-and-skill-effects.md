@@ -3,7 +3,7 @@ type: claim
 title: Counterfactual probabilities of necessity and sufficiency quantify the causal effect of hints and skills on task performance
 description: Counterfactual probabilities of necessity and sufficiency quantify the causal effect of hints and skills on task performance
 id: pn-ps-counterfactuals-help-and-skill-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -4,7 +4,7 @@ id: ollie
 title: Ollie
 description: Ollie is a gaze-informed GPT-4o storytelling assistant developed by Wu et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

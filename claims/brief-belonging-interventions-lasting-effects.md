@@ -3,7 +3,7 @@ type: claim
 title: Short belonging interventions in college settings can produce significant and lasting effects
 description: Short belonging interventions in college settings can produce significant and lasting effects
 id: brief-belonging-interventions-lasting-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Prospective teachers value constructivist teaching/learning and assessment for learning more than they practise, and practise traditional teaching and performance orientation more than they value
 description: Prospective teachers value constructivist teaching/learning and assessment for learning more than they practise, and practise traditional teaching and performance orientation more than they value
 id: prospective-teachers-value-constructivist-more-than-practised
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

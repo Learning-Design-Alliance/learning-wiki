@@ -3,7 +3,7 @@ type: strategy
 id: pals-teacher-training-workshop-modeling-role-play
 title: Train teachers to implement peer-tutoring programs through an all-day modeling and role-playing workshop plus a program manual
 description: PALS prepares teachers through a one-day training event followed by written support materials.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Benchmark success on human-designed assessments may not establish that the underlying abilities are being measured
 description: Benchmark success on human-designed assessments may not establish that the underlying abilities are being measured
 id: benchmark-scores-may-not-transfer-construct-interpretation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

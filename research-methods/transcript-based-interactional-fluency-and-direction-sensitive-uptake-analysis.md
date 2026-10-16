@@ -3,7 +3,7 @@ type: research-method
 id: transcript-based-interactional-fluency-and-direction-sensitive-uptake-analysis
 title: Transcript-based interactional fluency and direction-sensitive uptake analysis
 description: "A reusable analysis pipeline that operationalizes interactional fluency and direction-sensitive linguistic uptake for spoken AI practice \"using metrics extractable from diarized ASR output without manual linguistic annotation.\" The fluency component extracts seven features from word-level timestamps"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

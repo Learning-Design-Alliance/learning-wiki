@@ -3,7 +3,7 @@ type: strategy
 id: job-embedded-school-based-professional-learning
 title: Deliver school-based, job-embedded professional learning in varied well-matched formats
 description: "The blueprint's professional learning dimension specifies that high-quality professional learning is school-based and job-embedded, for example in grade-level or discipline-specific professional learning communities w..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

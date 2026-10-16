@@ -3,7 +3,7 @@ type: strategy
 id: feedback-revision-admissions-interview
 title: Equity-leveling admissions interview with lesson delivery, feedback, and revision
 description: "Alder's admissions process includes an interview in which candidates deliver a lesson plan, receive feedback, and then revise and deliver the lesson again."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

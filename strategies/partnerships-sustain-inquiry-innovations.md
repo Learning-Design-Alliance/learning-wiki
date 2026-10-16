@@ -3,7 +3,7 @@ type: strategy
 id: partnerships-sustain-inquiry-innovations
 title: Sustain inquiry innovations through partnerships with business, universities, thought leadership, or institutional policy adoption
 description: The chapter distinguishes scale (spreading a practice) from sustainability (keeping it in use), noting sustainability requires a mechanism for covering recurring costs.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -44,4 +44,4 @@ The chapter distinguishes scale (spreading a practice) from sustainability (keep
 -
 
 ## Key Sources
-- Roschelle, J., Mazziotti, C. & Means, B. (2021). Scaling Up Design of Inquiry Environments. In C. Chinn & R.G. Duncan et al (Eds.), International Handbook on Learning and Inquiry. Routledge. ISBN 9781138922600. https://isbnsearch.org/isbn/9781138922600
+- Roschelle, J., Mazziotti, C. & Means, B. (2021). Scaling Up Design of Inquiry Environments. In C. Chinn & R.G. Duncan et al (Eds.), International Handbook on Learning and Inquiry. Routledge. ISBN 9781138922600. https://isbnsearch.org/isbn/9781138922600. [doi:10.4324/9781315685779-7](https://doi.org/10.4324/9781315685779-7)

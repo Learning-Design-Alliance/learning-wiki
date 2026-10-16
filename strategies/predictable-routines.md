@@ -65,8 +65,8 @@ Routines reduce extraneous cognitive load by eliminating the need to process nov
 - [Chunking](../principles/chunking.md) — the same load-reduction logic applied to information rather than procedure
 
 ## Examples
-- **Responsive Classroom** (https://www.responsiveclassroom.org) — the "Morning Meeting" routine: greeting, sharing, activity, and message in the same four-phase structure daily, building community and transition readiness.
-- **Workshop model** (Teachers College Reading & Writing Project) — a fixed minilesson → independent work → conferring → share cycle repeated across units so learners invest attention in writing, not logistics.
+- **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveclassroom.org) — the "Morning Meeting" routine: greeting, sharing, activity, and message in the same four-phase structure daily, building community and transition readiness.
+- **[Workshop model](../patterns/workshop-model.md)** (Teachers College Reading & Writing Project) — a fixed minilesson → independent work → conferring → share cycle repeated across units so learners invest attention in writing, not logistics.
 - **Standard LMS course template** — many universities (e.g., Penn State's course-design templates) mandate identical weekly module structure (overview → readings → activity → assessment) so navigation becomes automatic.
 
 ## Key Sources

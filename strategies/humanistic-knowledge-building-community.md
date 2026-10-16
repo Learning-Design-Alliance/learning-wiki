@@ -3,7 +3,7 @@ type: strategy
 id: humanistic-knowledge-building-community
 title: Humanistic Knowledge Building Community
 description: A four-phase, multi-month collaborative knowledge-building design in which students progressively take on more collective cognitive responsibility, working with deliberately contradictory materials and personal-identity prompts inside an online knowledge-building platform.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

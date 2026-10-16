@@ -3,7 +3,7 @@ type: claim
 title: Multi-turn teaching by LLM teacher agents yields larger student gains than knowledge-point exposure alone
 description: Multi-turn teaching by LLM teacher agents yields larger student gains than knowledge-point exposure alone
 id: multi-turn-teaching-beats-knowledge-point-exposure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: nmsa-five-implementation-recommendations
 title: Schools adopting learning sciences research should start small, be explicit with students, track progress with classroom data, and share learnings
 description: "The article closes with five recommendations from NMSA: connect the science of learning to the school's mission, start small with a single strategy, be explicit with students about the brain and why strategies are use..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

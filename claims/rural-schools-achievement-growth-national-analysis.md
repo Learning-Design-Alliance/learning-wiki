@@ -3,7 +3,7 @@ type: claim
 title: "Rural students' math and reading achievement can be characterized nationally using data from over 2,300 rural schools"
 description: "Rural students' math and reading achievement can be characterized nationally using data from over 2,300 rural schools"
 id: rural-schools-achievement-growth-national-analysis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

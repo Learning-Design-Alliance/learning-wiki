@@ -3,7 +3,7 @@ type: strategy
 id: empathy-interviews-inclusive-computing-pathways
 title: Use empathy interviews with students to identify and address systemic inequities in computing participation
 description: "The report's equity commitment goes beyond equal access to designing inclusive opportunities for students historically marginalized from computing."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

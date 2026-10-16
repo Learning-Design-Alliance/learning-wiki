@@ -3,7 +3,7 @@ type: claim
 title: Prompt design significantly influences LLM accuracy on IVDA MCQs, with slide context reducing smaller-model accuracy but improving GPT models, while persona effects are inconsistent
 description: Prompt design significantly influences LLM accuracy on IVDA MCQs, with slide context reducing smaller-model accuracy but improving GPT models, while persona effects are inconsistent
 id: prompt-design-affects-mcq-accuracy-asymmetrically
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

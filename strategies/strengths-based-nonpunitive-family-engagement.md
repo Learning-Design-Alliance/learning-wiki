@@ -3,7 +3,7 @@ type: strategy
 id: strengths-based-nonpunitive-family-engagement
 title: Use strengths-based, nonpunitive framing in recruitment and family engagement for attendance programs
 description: The article recommends recruiting and engaging families by leading with support rather than deficit framing.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

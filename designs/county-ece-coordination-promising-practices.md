@@ -3,7 +3,7 @@ type: design
 id: county-ece-coordination-promising-practices
 title: "Promising county-level coordination practices: centralized eligibility lists, streamlined multi-agency collaboration, and pooled QRIS resources"
 description: Across its county case studies, the report identifies a recurring pattern of local practices that partially offset state-level fragmentation.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

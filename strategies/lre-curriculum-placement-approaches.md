@@ -3,7 +3,7 @@ type: strategy
 id: lre-curriculum-placement-approaches
 title: Place LRE in the curriculum through special events, separate units or courses, or infusion
 description: "The digest describes three approaches to including LRE in the curriculum (Naylor 1984): special events about the law such as Law Day, mock trial competitions, and courtroom field trips; a separate unit or course, typi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

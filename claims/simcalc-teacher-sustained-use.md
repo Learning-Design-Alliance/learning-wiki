@@ -3,7 +3,7 @@ type: claim
 title: "More than 50% of participating teachers continued using the SimCalc intervention a year after the research ended, with perceived coherence and unique value predicting continued use"
 description: "More than 50% of participating teachers continued using the SimCalc intervention a year after the research ended, with perceived coherence and unique value predicting continued use"
 id: simcalc-teacher-sustained-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

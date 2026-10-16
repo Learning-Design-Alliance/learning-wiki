@@ -3,7 +3,7 @@ type: claim
 title: Heavy weighting of achievement data in U.S. school evaluation clouds how much learning is actually occurring, particularly in high-poverty communities
 description: Heavy weighting of achievement data in U.S.
 id: achievement-weighting-clouds-learning-high-poverty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

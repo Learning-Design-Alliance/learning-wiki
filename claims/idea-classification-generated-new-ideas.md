@@ -3,7 +3,7 @@ type: claim
 title: Classifying and combining group ideas generated new ideas in the quarry problem, including acoustic volume measurement
 description: Classifying and combining group ideas generated new ideas in the quarry problem, including acoustic volume measurement
 id: idea-classification-generated-new-ideas
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

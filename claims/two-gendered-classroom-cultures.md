@@ -3,7 +3,7 @@ type: claim
 title: "Two gendered classroom cultures coexisted: rule-following vocal girls and disruptive boys receiving disproportionate time and space"
 description: "Two gendered classroom cultures coexisted: rule-following vocal girls and disruptive boys receiving disproportionate time and space"
 id: two-gendered-classroom-cultures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

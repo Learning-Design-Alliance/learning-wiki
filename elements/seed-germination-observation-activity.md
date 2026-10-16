@@ -3,7 +3,7 @@ type: element
 id: seed-germination-observation-activity
 title: Seed germination observation activity for K-2 data collection
 description: Seed germination is presented as a K-2 activity in which students observe and record changes over time, producing data for analysis.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

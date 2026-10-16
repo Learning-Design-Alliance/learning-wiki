@@ -3,7 +3,7 @@ type: claim
 title: "GenAI communication benefits depend on integration: embedded agents enhance communication more than external tools, but efficiency can reduce the need for human communication"
 description: "GenAI communication benefits depend on integration: embedded agents enhance communication more than external tools, but efficiency can reduce the need for human communication"
 id: genai-communication-benefits-depend-on-integration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

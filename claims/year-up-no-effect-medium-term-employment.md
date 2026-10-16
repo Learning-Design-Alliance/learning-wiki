@@ -3,7 +3,7 @@ type: claim
 title: Year Up may result in little to no change in medium-term employment
 description: Year Up may result in little to no change in medium-term employment
 id: year-up-no-effect-medium-term-employment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

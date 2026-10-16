@@ -3,7 +3,7 @@ type: claim
 title: Learning agility, digital literacy, future work self salience, and perceived university digital support prospectively differentiate AI-attitude profile membership, especially separating Low-Perception Detached from engaged profiles
 description: Learning agility, digital literacy, future work self salience, and perceived university digital support prospectively differentiate AI-attitude profile membership, especially separating Low-Perception Detached from en...
 id: resources-prospectively-differentiate-ai-profile-membership
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

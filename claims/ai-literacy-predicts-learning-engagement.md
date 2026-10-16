@@ -3,7 +3,7 @@ type: claim
 title: AI literacy directly and positively predicts learning engagement among university students
 description: AI literacy directly and positively predicts learning engagement among university students
 id: ai-literacy-predicts-learning-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

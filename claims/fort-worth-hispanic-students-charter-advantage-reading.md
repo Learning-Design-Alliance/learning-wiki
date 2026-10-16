@@ -3,7 +3,7 @@ type: claim
 title: Fort Worth charter school Hispanic students significantly outgrew Fort Worth district school Hispanic students in reading growth
 description: Fort Worth charter school Hispanic students significantly outgrew Fort Worth district school Hispanic students in reading growth
 id: fort-worth-hispanic-students-charter-advantage-reading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: element
 id: labov-phonologization-segment
 title: "Phonologization: final segment applying phonology to the bracketed utterance"
 description: "Phonologization is the last of the five segments in Labov's production model."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

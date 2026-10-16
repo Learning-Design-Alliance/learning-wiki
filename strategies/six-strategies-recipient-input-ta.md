@@ -3,7 +3,7 @@ type: strategy
 id: six-strategies-recipient-input-ta
 title: Use six concrete strategies to incorporate recipient input and make training and TA engaging
 description: "An implementable strategy set for TA designers and providers: \"using written training and technical assistance requests, assessing recipients’ needs and assets, developing individual training and technical assistance..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

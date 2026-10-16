@@ -3,7 +3,7 @@ type: claim
 title: Achievement disparities remained wider in spring 2022 than before the pandemic, and constant-gain trends imply recovery timelines extending past federal recovery-fund spending deadlines
 description: Achievement disparities remained wider in spring 2022 than before the pandemic, and constant-gain trends imply recovery timelines extending past federal recovery-fund spending deadlines
 id: disparities-wider-recovery-past-funding-deadlines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: superkids-no-cost-pd-support-strategy
 title: Provide no-cost initial training, coaching visits, administrator overviews, and year-round support when implementing Superkids
 description: "The program's implementation model bundles professional development and support at no charge: \"Superkids teachers receive initial training, provided as either a half-day session or a 90-minute webinar,\" each teacher r..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

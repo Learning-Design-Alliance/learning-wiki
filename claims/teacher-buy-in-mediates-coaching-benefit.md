@@ -3,7 +3,7 @@ type: claim
 title: Teacher buy-in and willingness to engage are viewed as strong mediators of coaching benefits
 description: Teacher buy-in and willingness to engage are viewed as strong mediators of coaching benefits
 id: teacher-buy-in-mediates-coaching-benefit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

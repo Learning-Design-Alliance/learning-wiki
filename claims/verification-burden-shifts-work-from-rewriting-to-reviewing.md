@@ -3,7 +3,7 @@ type: claim
 title: "Low comment rewriting does not imply a smooth process: students describe the main effort as verifying generated code rather than revising prompts"
 description: "Low comment rewriting does not imply a smooth process: students describe the main effort as verifying generated code rather than revising prompts"
 id: verification-burden-shifts-work-from-rewriting-to-reviewing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

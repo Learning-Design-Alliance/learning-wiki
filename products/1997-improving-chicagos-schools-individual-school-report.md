@@ -4,7 +4,7 @@ id: 1997-improving-chicagos-schools-individual-school-report
 title: "1997 Improving Chicago's Schools Individual School Report"
 description: A school-level reporting instrument developed by Anthony Bryk and colleagues that synthesizes student and teacher survey responses for comparison, self-analysis, and school-improvement planning.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Children’s SSI applications were about 15 percent lower in counties with virtual learning than in counties where all learning was in person during the 2020–21 school year
 description: Children’s SSI applications were about 15 percent lower in counties with virtual learning than in counties where all learning was in person during the 2020–21 school year
 id: virtual-learning-counties-lower-child-ssi-applications
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

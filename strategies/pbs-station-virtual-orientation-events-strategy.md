@@ -3,7 +3,7 @@ type: strategy
 id: pbs-station-virtual-orientation-events-strategy
 title: PBS station-led virtual orientation events to familiarize families with a new digital learning tool
 description: The research team partnered with local PBS stations to deliver virtual orientation events addressing the field study finding that parents needed support using the app.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

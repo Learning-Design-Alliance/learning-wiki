@@ -3,7 +3,7 @@ type: claim
 title: Across 38 countries, external control is highest in assessment and lowest in curriculum and budget
 description: Across 38 countries, external control is highest in assessment and lowest in curriculum and budget
 id: external-control-highest-assessment-lowest-curriculum
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

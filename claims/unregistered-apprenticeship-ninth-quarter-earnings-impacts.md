@@ -3,7 +3,7 @@ type: claim
 title: Unregistered apprenticeship programs had positive, statistically significant impacts on ninth-quarter earnings, ranging from $3,368 to $3,490
 description: Unregistered apprenticeship programs had positive, statistically significant impacts on ninth-quarter earnings, ranging from $3,368 to $3,490
 id: unregistered-apprenticeship-ninth-quarter-earnings-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

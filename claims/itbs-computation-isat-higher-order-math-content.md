@@ -3,7 +3,7 @@ type: claim
 title: ITBS mathematics is heavily weighted toward computation while ISAT contains up to three times as many items on algebra, geometry, measurement, and probability and statistics
 description: ITBS mathematics is heavily weighted toward computation while ISAT contains up to three times as many items on algebra, geometry, measurement, and probability and statistics
 id: itbs-computation-isat-higher-order-math-content
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: story-retelling-sequencing-familiar-books
 title: Story retelling with familiar picture books to practice sequencing
 description: Students put a story in the correct order using an enclosed worksheet, with suggested books including The 3 Pigs, The 3 Bears, If You Give a Mouse a Cookie, The Napping House, and There Was an Old Woman who Swallowed...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

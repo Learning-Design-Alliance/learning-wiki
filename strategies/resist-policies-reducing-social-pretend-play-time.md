@@ -3,7 +3,7 @@ type: strategy
 id: resist-policies-reducing-social-pretend-play-time
 title: Resist policies that reduce time for social pretend play in preschool and primary grades
 description: "The article recommends that educators protect time for social pretend play, which \"requires extended uninterrupted time periods to develop complexity,\" and articulate to policy makers that the cognitive skills demonst..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: An analysis of 69 district Portraits of a Graduate finds six Skill Sets that capture 90 percent of the attributes districts articulate
 description: An analysis of 69 district Portraits of a Graduate finds six Skill Sets that capture 90 percent of the attributes districts articulate
 id: six-skill-sets-capture-90-percent-portrait-attributes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

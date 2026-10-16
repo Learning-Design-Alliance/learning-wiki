@@ -3,7 +3,7 @@ type: claim
 title: Across 201 observed K–8 math lessons, the majority (108, or 54 percent) did not receive a High/Expert rating on any of the eight observation dimensions
 description: Across 201 observed K–8 math lessons, the majority (108, or 54 percent) did not receive a High/Expert rating on any of the eight observation dimensions
 id: majority-lessons-no-high-expert-rating
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -2,7 +2,7 @@
 type: theory
 title: "MAP Growth norms taxonomy: ten norms per subject, level, and grade, spanning achievement, within-year growth, and between-year growth"
 description: "The manual organizes MAP Growth norms as a taxonomy producing \"10 distinct norms for a given subject,level, and grade\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

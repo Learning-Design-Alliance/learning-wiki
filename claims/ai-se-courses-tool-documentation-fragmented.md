@@ -3,7 +3,7 @@ type: claim
 title: Only 9 of 23 courses publicly named AI tools, with Claude Code, Cursor, and GitHub Copilot most frequent and a fragmented long tail
 description: Only 9 of 23 courses publicly named AI tools, with Claude Code, Cursor, and GitHub Copilot most frequent and a fragmented long tail
 id: ai-se-courses-tool-documentation-fragmented
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

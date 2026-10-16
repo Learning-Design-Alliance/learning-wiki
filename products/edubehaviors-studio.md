@@ -4,7 +4,7 @@ id: edubehaviors-studio
 title: EduBehaviors-Studio
 description: EduBehaviors-Studio is a self-hosted web application developed by Julian Bernado et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

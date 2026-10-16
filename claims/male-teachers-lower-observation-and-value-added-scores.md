@@ -4,7 +4,7 @@ title: Male teachers have lower observation and value-added scores than female t
 description: Male teachers have lower observation and value-added scores than female teachers
 id: male-teachers-lower-observation-and-value-added-scores
 aliases: [male-teachers-lower-evaluation-scores]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

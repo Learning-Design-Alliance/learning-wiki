@@ -4,7 +4,7 @@ id: open-source-pytorch-dkt-implementation
 title: Open-source PyTorch DKT implementation
 description: "An open-source PyTorch implementation created by the article's authors for fitting Deep Knowledge Tracing to DataShop-format data and using it in online knowledge-tracing settings."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

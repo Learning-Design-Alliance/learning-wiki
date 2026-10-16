@@ -3,7 +3,7 @@ type: claim
 title: LLM-human factor-structure similarity is consistently lower than human-human similarity on both assessments
 description: LLM-human factor-structure similarity is consistently lower than human-human similarity on both assessments
 id: llm-human-factor-congruence-lower-than-human-human
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

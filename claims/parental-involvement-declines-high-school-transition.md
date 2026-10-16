@@ -3,7 +3,7 @@ type: claim
 title: Parental involvement declines as students move from eighth to tenth grade in Chicago and nationally
 description: Parental involvement declines as students move from eighth to tenth grade in Chicago and nationally
 id: parental-involvement-declines-high-school-transition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

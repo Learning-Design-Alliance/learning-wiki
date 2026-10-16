@@ -3,7 +3,7 @@ type: claim
 title: Teachers perceive their role shifting from knowledge transmitters to facilitators, co-investigators, and ethical supervisors of AI use
 description: Teachers perceive their role shifting from knowledge transmitters to facilitators, co-investigators, and ethical supervisors of AI use
 id: teacher-role-shift-facilitator-ethical-supervisor
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

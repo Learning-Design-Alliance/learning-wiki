@@ -3,7 +3,7 @@ type: claim
 title: "Across all four challenge domains, students' intent to continue using AI significantly exceeds their current satisfaction with it"
 description: "Across all four challenge domains, students' intent to continue using AI significantly exceeds their current satisfaction with it"
 id: intent-to-continue-exceeds-satisfaction-all-domains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

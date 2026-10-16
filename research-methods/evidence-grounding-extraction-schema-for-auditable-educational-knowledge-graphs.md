@@ -3,7 +3,7 @@ type: research-method
 id: evidence-grounding-extraction-schema-for-auditable-educational-knowledge-graphs
 title: Evidence-grounding extraction schema for auditable educational knowledge graphs
 description: "The paper's organizing framework is an extraction schema in which every extracted item retains \"evidence, confidence, modality, lecture, timestamp, frame, and anchor identifiers.\" A concept records name, definition, evidence quotation, source modality, and confidence; a relationship records source, "
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

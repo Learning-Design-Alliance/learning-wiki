@@ -3,7 +3,7 @@ type: claim
 title: Personalization reduced time spent on hard expression-writing steps, and students who had received it were still faster at writing expressions in a later non-personalized unit
 description: Personalization reduced time spent on hard expression-writing steps, and students who had received it were still faster at writing expressions in a later non-personalized unit
 id: personalization-reduces-solution-time-efficiency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

@@ -4,7 +4,7 @@ id: practice-driven-data
 title: Practice-driven data
 description: A five-lesson, context-sensitive framework for using data in school improvement—prepare, focus, make meaning, strategize, and disrupt—developed through the University of Chicago’s partnership with Chicago Public Schools.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

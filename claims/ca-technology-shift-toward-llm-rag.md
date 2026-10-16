@@ -3,7 +3,7 @@ type: claim
 title: CA prototype technologies shifted from rule-based and deterministic systems toward open-source tools, pre-trained LLMs, and retrieval-augmented generation pipelines
 description: CA prototype technologies shifted from rule-based and deterministic systems toward open-source tools, pre-trained LLMs, and retrieval-augmented generation pipelines
 id: ca-technology-shift-toward-llm-rag
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

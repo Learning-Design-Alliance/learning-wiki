@@ -3,7 +3,7 @@ type: claim
 title: "The proportion of ever-EL students designated as LTEL7 decreases progressively after 6th grade, from about 30% in 7th grade to about 17% in 12th grade"
 description: "The proportion of ever-EL students designated as LTEL7 decreases progressively after 6th grade, from about 30% in 7th grade to about 17% in 12th grade"
 id: ltel7-proportion-decreases-after-sixth-grade
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

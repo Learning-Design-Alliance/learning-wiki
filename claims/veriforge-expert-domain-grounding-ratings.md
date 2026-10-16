@@ -3,7 +3,7 @@ type: claim
 title: Blind expert raters judged VeriForge passages as conveying stronger perceived authorial domain competence, with other quality dimensions showing uncorrected trends
 description: Blind expert raters judged VeriForge passages as conveying stronger perceived authorial domain competence, with other quality dimensions showing uncorrected trends
 id: veriforge-expert-domain-grounding-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

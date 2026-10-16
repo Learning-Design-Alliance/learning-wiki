@@ -4,7 +4,7 @@ title: "TTI transfer incentives increased elementary school students' math and r
 description: "TTI transfer incentives increased elementary school students' math and reading test scores by an estimated 4 to 10 percentile points"
 id: tti-increased-elementary-test-scores
 aliases: [tti-elementary-test-score-gains]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

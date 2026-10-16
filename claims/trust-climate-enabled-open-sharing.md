@@ -3,7 +3,7 @@ type: claim
 title: Participants reported that the trust-building collaborative environment enabled open and vulnerable sharing
 description: Participants reported that the trust-building collaborative environment enabled open and vulnerable sharing
 id: trust-climate-enabled-open-sharing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

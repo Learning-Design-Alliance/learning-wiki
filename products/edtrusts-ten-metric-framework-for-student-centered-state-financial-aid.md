@@ -4,7 +4,7 @@ id: edtrusts-ten-metric-framework-for-student-centered-state-financial-aid
 title: "EdTrust's ten-metric framework for student-centered state financial aid"
 description: A framework developed by EdTrust for evaluating whether state financial-aid programs meet ten student-centered criteria related to access, affordability, eligibility, and grant design.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: counterfactual-prescriptive-feedback
 title: Generate prescriptive feedback via counterfactual modelling constrained to actionable features
 description: "For students predicted high-risk, the dashboard models a minimal set of changes to the student's input values that would flip the prediction to low risk, using counterfactual modelling."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

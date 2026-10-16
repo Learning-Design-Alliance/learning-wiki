@@ -3,7 +3,7 @@ type: claim
 title: Agency experiences with data practices were documented through interviews covering collection, use, analysis, and reporting
 description: Agency experiences with data practices were documented through interviews covering collection, use, analysis, and reporting
 id: agency-profiles-interview-data-practices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

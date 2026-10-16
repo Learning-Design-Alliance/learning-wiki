@@ -86,7 +86,6 @@ The strategy is most distinctive when it runs *before* instruction. Schwartz and
 
 ## Related Strategies
 - [Comparing Contrasting Cases](comparing-contrasting-cases.md) — the same move framed around the comparison activity rather than the design of the case set
-- [Comparing Cases](comparing_cases.md) — comparison of cases that are not necessarily engineered to isolate a single dimension
 - [Analogical Encoding](analogical-encoding.md) — comparison of structurally parallel cases to abstract a shared relational schema, rather than to detect a difference
 - [Comparing Multiple Solution Methods](comparing_multiple_solution_methods.md) — contrasting cases applied to procedures instead of concepts
 - [Worked Examples](worked-examples-first.md) — the alternative when the goal is fluent execution rather than discrimination; example–problem pairs and contrast sets often alternate [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-example-problem-sequences.md) [+S]

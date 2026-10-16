@@ -3,7 +3,7 @@ type: claim
 title: Current ideas about the home/school relation and parent involvement may inhibit justice, equity, and excellence in education
 description: Current ideas about the home/school relation and parent involvement may inhibit justice, equity, and excellence in education
 id: parent-involvement-ideas-inhibit-equity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Longitudinal within-student analysis of a mathematics mastery learning platform replicates positive effects on standardized math test scores
 description: Longitudinal within-student analysis of a mathematics mastery learning platform replicates positive effects on standardized math test scores
 id: mastery-platform-longitudinal-positive-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

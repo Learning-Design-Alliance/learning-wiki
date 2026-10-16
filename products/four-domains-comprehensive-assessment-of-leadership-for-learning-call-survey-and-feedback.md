@@ -4,7 +4,7 @@ id: four-domains-comprehensive-assessment-of-leadership-for-learning-call-survey
 title: Four Domains Comprehensive Assessment of Leadership for Learning (CALL) survey and feedback system
 description: A leadership-team survey, diagnostic, and feedback-reporting system developed for schools and districts using the Four Domains framework to identify leadership-practice needs and guide improvement planning.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

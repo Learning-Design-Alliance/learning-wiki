@@ -3,7 +3,7 @@ type: strategy
 id: future-webgl-uef-ai-hypergamification-pathways
 title: "Future integration pathways: WebGL builds, the Ultra Extension Framework, and AI-generated personalized hypergamifications"
 description: "The paper's forward-looking recommendations for extending the prototype: building Unity games for WebGL, leveraging Blackboard's Ultra Extension Framework premium APIs for navigation and behavior data and UI modificat..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

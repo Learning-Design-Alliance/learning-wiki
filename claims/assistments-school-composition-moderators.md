@@ -3,7 +3,7 @@ type: claim
 title: Effects were larger in intervention schools with a higher percentage of economically disadvantaged students or a lower percentage of White students
 description: Effects were larger in intervention schools with a higher percentage of economically disadvantaged students or a lower percentage of White students
 id: assistments-school-composition-moderators
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

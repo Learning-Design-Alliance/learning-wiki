@@ -3,7 +3,7 @@ type: claim
 title: Performance is best at moderate difficulty granularity and a limited recent window for domain transitions
 description: Performance is best at moderate difficulty granularity and a limited recent window for domain transitions
 id: moderate-difficulty-granularity-window-optimal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Eighth-grade graduates fared better in the transition to high school over time, but Freshman OnTrack rates were not consistently higher than at similar schools
 description: Eighth-grade graduates fared better in the transition to high school over time, but Freshman OnTrack rates were not consistently higher than at similar schools
 id: nlci-freshman-ontrack-not-consistently-higher
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

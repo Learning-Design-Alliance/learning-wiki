@@ -4,7 +4,7 @@ id: chapter-one
 title: Chapter One
 description: Chapter One is a push-in, one-on-one early-literacy tutoring programme that embeds interventionists in K–1 classrooms and provides aligned digital practice, operated by Chapter One.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

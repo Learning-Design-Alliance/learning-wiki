@@ -3,7 +3,7 @@ type: claim
 title: "Scaffolding must be balanced: too little led to confusion and overload, while too much reduced opportunities for critical thinking"
 description: "Scaffolding must be balanced: too little led to confusion and overload, while too much reduced opportunities for critical thinking"
 id: scaffolding-balance-confusion-versus-critical-thinking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

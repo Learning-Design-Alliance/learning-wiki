@@ -3,7 +3,7 @@ type: design
 id: tutoring-plus-family-engagement-partnership-pattern
 title: School-community-family partnership pattern pairing tutoring dosage with regular family contact
 description: "The program's design pattern combines a minimum tutoring dosage with structured family outreach: \"FF sites are expected to provide students with a minimum of three 30-minute tutoring sessions per week and to communica..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-07

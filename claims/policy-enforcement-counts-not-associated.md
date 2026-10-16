@@ -3,7 +3,7 @@ type: claim
 title: Policy and enforcement counts were not strongly associated across systems
 description: Policy and enforcement counts were not strongly associated across systems
 id: policy-enforcement-counts-not-associated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

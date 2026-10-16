@@ -4,7 +4,7 @@ title: Beating-the-odds schools have substantially more positive school climate 
 description: Beating-the-odds schools have substantially more positive school climate than other California middle and high schools
 id: bto-schools-higher-school-climate-percentile
 aliases: [bto-schools-more-positive-school-climates]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

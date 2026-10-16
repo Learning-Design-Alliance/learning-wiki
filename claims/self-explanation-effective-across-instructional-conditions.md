@@ -3,7 +3,7 @@ type: claim
 title: Self-explanation prompting is potentially effective across a range of instructional conditions
 description: Self-explanation prompting is potentially effective across a range of instructional conditions
 id: self-explanation-effective-across-instructional-conditions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
@@ -47,3 +47,4 @@ The meta-analysis authors' summary conclusion from analyzing the 69 effect sizes
 - [Elaborative Encoding Improves Retention](generative-processing-improves-learning.md) — possibly the same claim (merge candidate)
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — related
 - [Elaborative Interrogation Improves Learning](elaborative-interrogation-improves-learning.md) — related
+- [The assisting self-explanation prompt effect: assisting prompts elicit high-quality self-explanations and deep understanding](assisting-self-explanation-prompt-effect.md) — a narrower finding that bears on this claim

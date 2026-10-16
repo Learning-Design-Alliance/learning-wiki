@@ -3,7 +3,7 @@ type: claim
 title: The 2007 DC reforms aimed to improve student achievement by hiring and retaining higher quality teachers and providing families more public school choices
 description: The 2007 DC reforms aimed to improve student achievement by hiring and retaining higher quality teachers and providing families more public school choices
 id: dc-2007-reforms-teacher-quality-and-school-choice-aims
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

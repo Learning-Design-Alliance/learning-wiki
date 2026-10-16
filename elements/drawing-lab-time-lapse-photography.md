@@ -3,7 +3,7 @@ type: element
 id: drawing-lab-time-lapse-photography
 title: Drawing laboratory with time-lapse photography of drawing evolution
 description: "A purpose-built laboratory for collecting in-process records of drawing: a neutral white room with a fixed tilt-top drawing board, a front-surface mirror, and a camera outside the studio area."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

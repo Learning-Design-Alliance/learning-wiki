@@ -3,7 +3,7 @@ type: strategy
 id: lcff-district-funded-residency-stipends
 title: District investment of LCFF funds in residency stipends written into Local Control and Accountability Plans as a workforce development strategy
 description: A financial sustainability strategy in which partner districts write the residency into their LCAPs and allocate Local Control Funding Formula funds toward resident stipends and program support staff, recouping costs...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

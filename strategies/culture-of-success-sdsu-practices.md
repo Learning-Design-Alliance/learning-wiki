@@ -3,7 +3,7 @@ type: strategy
 id: culture-of-success-sdsu-practices
 title: Foster a culture of success with mandatory orientation, gateway-course registration, and full-credit loads
 description: "San Diego State University leaders attribute their gains in Hispanic graduation and gap-closing to \"fostering a culture of success that raised expectations of students (by making orientation mandatory, force-registeri..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

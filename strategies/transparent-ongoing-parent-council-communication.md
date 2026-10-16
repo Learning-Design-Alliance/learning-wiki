@@ -3,7 +3,7 @@ type: strategy
 id: transparent-ongoing-parent-council-communication
 title: Maintain transparent, ongoing communication through consistent schedules, agendas, and multiple channels
 description: The brief identifies regular communication as essential for member success in parent councils.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: FLIGHT shows no discernible effects on general high school academic achievement (GPA)
 description: FLIGHT shows no discernible effects on general high school academic achievement (GPA)
 id: flight-no-discernible-effect-high-school-gpa
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

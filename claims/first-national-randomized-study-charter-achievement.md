@@ -3,7 +3,7 @@ type: claim
 title: A national randomized study of the impacts of charter schools on student achievement was conducted (2003-2010), prepared for the U.S. Department of Education
 description: A national randomized study of the impacts of charter schools on student achievement was conducted (2003-2010), prepared for the U.S.
 id: first-national-randomized-study-charter-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

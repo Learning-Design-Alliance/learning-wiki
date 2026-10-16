@@ -4,7 +4,7 @@ id: too-good-for-drugs
 title: Too Good for Drugs
 description: Too Good for Drugs is a classroom-delivered K–8 drug-prevention and character-education curriculum developed by the Mendez Foundation, with scripted lessons, role-play, cooperative activities, and skill-building exercises.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

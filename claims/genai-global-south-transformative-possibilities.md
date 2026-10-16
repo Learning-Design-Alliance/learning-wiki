@@ -3,7 +3,7 @@ type: claim
 title: GenAI offers transformative possibilities for personalised learning, research support and administrative efficiency in Global South higher education
 description: GenAI offers transformative possibilities for personalised learning, research support and administrative efficiency in Global South higher education
 id: genai-global-south-transformative-possibilities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: The article argues traditional learning formats have six limitations that make them ill-suited for interactive, evolving skills like prompt engineering
 description: The article argues traditional learning formats have six limitations that make them ill-suited for interactive, evolving skills like prompt engineering
 id: traditional-learning-formats-six-limitations-prompt-engineering
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

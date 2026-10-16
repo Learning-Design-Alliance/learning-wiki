@@ -4,7 +4,7 @@ id: multimodal-mathematics-item-response-corpus-970-item-models-4848-items-1388-
 title: "Multimodal mathematics item-response corpus: 970 item models, 4,848 items, 13.88 million responses"
 description: A corpus of multimodal multiple-choice mathematics items and 13.88 million student responses created by Christopher Ormerod et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

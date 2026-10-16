@@ -3,7 +3,7 @@ type: claim
 title: At each level of freshman course performance, students with disabilities and students two or more years below grade level are less likely to graduate than their non-disabled peers
 description: At each level of freshman course performance, students with disabilities and students two or more years below grade level are less likely to graduate than their non-disabled peers
 id: on-track-disabled-students-still-at-risk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

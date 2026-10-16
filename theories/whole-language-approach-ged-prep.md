@@ -2,7 +2,7 @@
 type: theory
 title: "Whole language approach: simultaneous teaching of language skills strengthens reading and writing together"
 description: The whole language approach is the simultaneous teaching and learning of different language skills, used in adult literacy and basic education.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

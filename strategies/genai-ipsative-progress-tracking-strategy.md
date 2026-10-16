@@ -3,7 +3,7 @@ type: strategy
 id: genai-ipsative-progress-tracking-strategy
 title: Deploy GenAI for continuous longitudinal analysis of student development to enable ipsative feedback, and scaffold feedback literacies for all students
 description: The authors recommend starting from known feedback challenges and asking what role GenAI can play.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

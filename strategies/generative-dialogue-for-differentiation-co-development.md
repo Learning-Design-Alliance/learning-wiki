@@ -3,7 +3,7 @@ type: strategy
 id: generative-dialogue-for-differentiation-co-development
 title: Use generative dialogue within DBIR to guide collaboratively developed differentiation practices
 description: Generative dialogue is a tool the article recommends for guiding collaboratively developed practices within the DBIR approach.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

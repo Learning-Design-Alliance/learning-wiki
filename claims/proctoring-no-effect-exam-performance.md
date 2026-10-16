@@ -3,7 +3,7 @@ type: claim
 title: "Proctored online exams show no effect on students' exam performance"
 description: "Proctored online exams show no effect on students' exam performance"
 id: proctoring-no-effect-exam-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Positive adaptation showed the highest temporal stability while maladaptive adaptation was the least stable profile across the semester
 description: Positive adaptation showed the highest temporal stability while maladaptive adaptation was the least stable profile across the semester
 id: positive-adaptation-highest-stability-maladaptive-least
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

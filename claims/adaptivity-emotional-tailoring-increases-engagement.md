@@ -3,7 +3,7 @@ type: claim
 title: "Included studies suggest engagement increases when adaptive platform activities are tailored to learners' personal needs and emotional state"
 description: "Included studies suggest engagement increases when adaptive platform activities are tailored to learners' personal needs and emotional state"
 id: adaptivity-emotional-tailoring-increases-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: "A cube-tower instructional sequence instantiated concreteness fading in an elaborated form for two preservice teachers' combinatorial reasoning"
 description: "A cube-tower instructional sequence instantiated concreteness fading in an elaborated form for two preservice teachers' combinatorial reasoning"
 id: cube-tower-sequence-elaborated-cf-instantiation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

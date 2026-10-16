@@ -3,7 +3,7 @@ type: claim
 title: Principal supervisors in PSI districts supervised fewer principals than those in other urban districts
 description: Principal supervisors in PSI districts supervised fewer principals than those in other urban districts
 id: psi-supervisors-supervised-fewer-principals
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

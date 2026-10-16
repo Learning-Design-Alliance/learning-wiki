@@ -3,7 +3,7 @@ type: strategy
 id: preserve-critical-stance-while-reducing-debilitating-anxiety
 title: Address debilitating technology anxiety through supportive low-stakes introductory experiences while preserving the critical stance that accompanies it
 description: "The article recommends against undifferentiated anxiety reduction: because residual anxiety was positively associated with critical appraisal and ethical judgement dimensions of AI literacy, removing apprehension whol..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

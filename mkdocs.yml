@@ -17,8 +17,8 @@ site_dir: site
 
 theme:
   name: material
-  logo: branding/lazuli-monogram-lapis.svg
-  favicon: branding/lazuli-favicon.svg
+  logo: branding/lda-monogram-lapis.svg
+  favicon: branding/lda-favicon.png
   icon:
     repo: fontawesome/brands/github
   palette:
@@ -37,7 +37,6 @@ theme:
   features:
     - navigation.sections
     - navigation.top
-    - navigation.indexes
     - navigation.tracking
     - navigation.path
     - navigation.prune
@@ -55,7 +54,8 @@ hooks:
   - docs_hooks/page_metadata.py
   - docs_hooks/two_tier.py
 
-# Search is Pagefind's, built over both tiers by scripts/build_site.sh; the
+# Search is Pagefind's, built over both tiers by scripts/build_site.sh, and reached from the
+# search box in every page's header (docs_hooks/two_tier.py), not from the nav; the
 # built-in lunr index had reached 20 MB at 18,800 pages.
 plugins: []
 
@@ -75,18 +75,21 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Search: search.md
-  - Principles: principles/index.md
-  - Elements: elements/index.md
-  - Patterns: patterns/index.md
-  - Designs: designs/index.md
-  - Products & Programmes: products/index.md
-  - Strategies: strategies/index.md
-  - Design Processes: processes/index.md
-  - Design Methods: methods/index.md
-  - Research Methods: research-methods/index.md
-  - Theories: theories/index.md
-  - Learner Variables: learner-variables/index.md
-  - Claims: claims/index.md
-  - State of the Evidence: evidence.md
-  - Schema & Guide: CLAUDE.md
+  - Application:
+      - Principles: principles/index.md
+      - Patterns: patterns/index.md
+      - Elements: elements/index.md
+      - Strategies: strategies/index.md
+      - Designs: designs/index.md
+      - Products & Programmes: products/index.md
+  - Research:
+      - Claims: claims/index.md
+      - Theories: theories/index.md
+      - Learner Variables: learner-variables/index.md
+  - Methods:
+      - Design Processes: processes/index.md
+      - Design Methods: methods/index.md
+      - Research Methods: research-methods/index.md
+  - About:
+      - State of the Evidence: evidence.md
+      - Schema & Guide: CLAUDE.md

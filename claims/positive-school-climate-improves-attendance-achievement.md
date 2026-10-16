@@ -3,7 +3,7 @@ type: claim
 title: Positive school climate, which principals shape, improves attendance, behavior, graduation, and achievement and buffers poverty effects
 description: Positive school climate, which principals shape, improves attendance, behavior, graduation, and achievement and buffers poverty effects
 id: positive-school-climate-improves-attendance-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: differentiated-assistance-school-improvement
 title: Target differentiated leadership assistance at schools and districts designated as needing improvement
 description: Five states target leadership programming toward leaders in federally designated improvement schools or schools receiving state differentiated assistance.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

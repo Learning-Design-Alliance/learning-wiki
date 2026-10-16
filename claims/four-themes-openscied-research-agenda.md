@@ -3,7 +3,7 @@ type: claim
 title: Working-group synthesis identified four crosscutting research themes for OpenSciEd
 description: Working-group synthesis identified four crosscutting research themes for OpenSciEd
 id: four-themes-openscied-research-agenda
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

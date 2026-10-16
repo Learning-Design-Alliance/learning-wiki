@@ -3,7 +3,7 @@ type: claim
 title: "Students' overall AI knowledge improved significantly after four integrated AI-biology lessons"
 description: "Students' overall AI knowledge improved significantly after four integrated AI-biology lessons"
 id: ai-knowledge-significant-gain-integrated-biology-lessons
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

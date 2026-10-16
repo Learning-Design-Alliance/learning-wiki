@@ -3,7 +3,7 @@ type: strategy
 id: llm-grading-alignment-optimization-strategies
 title: Improve LLM grading alignment through LLM-optimized guidelines, calibration examples, and median-of-parallels grading
 description: "The article recommends concrete steps for future LLM-assisted grading: writing grading guidelines that are easier for LLMs to comprehend with no prior course knowledge, converting qualitative qualities into observable..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: First year experience courses show potentially positive effects on credit accumulation, with two of three qualifying studies showing statistically significant positive retention effects and one showing no significant effect
 description: First year experience courses show potentially positive effects on credit accumulation, with two of three qualifying studies showing statistically significant positive retention effects and one showing no significant...
 id: fye-courses-potentially-positive-credit-accumulation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

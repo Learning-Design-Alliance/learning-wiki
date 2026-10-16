@@ -3,7 +3,7 @@ type: design
 id: evolving-artifact-module-chain
 title: "Evolving-artifact course organization: each module's output becomes the next module's input"
 description: A course-level structural pattern in which module deliverables chain across the lifecycle so that students revisit AI-related decisions repeatedly with accumulating evidence.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

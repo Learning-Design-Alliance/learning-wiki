@@ -3,7 +3,7 @@ type: claim
 title: "Only 46% of principals reported a preparation internship involving real leadership responsibilities, and few in-service principals had coaching or mentoring"
 description: "Only 46% of principals reported a preparation internship involving real leadership responsibilities, and few in-service principals had coaching or mentoring"
 id: limited-access-job-based-principal-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

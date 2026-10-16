@@ -3,7 +3,7 @@ type: claim
 title: Viewers of learning-oriented content describe ChatGPT as a tutor or thinking partner, while viewers of output-oriented content raise over-reliance and cognitive-offloading concerns
 description: Viewers of learning-oriented content describe ChatGPT as a tutor or thinking partner, while viewers of output-oriented content raise over-reliance and cognitive-offloading concerns
 id: viewer-comments-diverge-by-framing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

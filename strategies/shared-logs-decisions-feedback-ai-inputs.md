@@ -3,7 +3,7 @@ type: strategy
 id: shared-logs-decisions-feedback-ai-inputs
 title: Maintain shared logs of decisions, feedback, and AI inputs to make design decisions visible
 description: The team introduced a decision log recording what changed and why, a feedback log recording what users said over time, and clear rules for AI inputs recording what sources informed outputs.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

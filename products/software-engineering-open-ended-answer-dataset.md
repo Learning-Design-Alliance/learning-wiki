@@ -4,7 +4,7 @@ id: software-engineering-open-ended-answer-dataset
 title: Software engineering open-ended answer dataset
 description: An anonymized dataset created by Pecuchova et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

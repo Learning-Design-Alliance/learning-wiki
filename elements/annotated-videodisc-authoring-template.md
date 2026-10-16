@@ -3,7 +3,7 @@ type: element
 id: annotated-videodisc-authoring-template
 title: Annotated videodisc authoring template (Marario)
 description: An authoring template developed at the McKay Institute that permitted annotating an existing film (Marario) transferred to videodisc.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

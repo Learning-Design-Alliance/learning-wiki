@@ -3,7 +3,7 @@ type: claim
 title: "Residency graduates show high retention rates of roughly 80-90% after three years and 70-80% after five years"
 description: "Residency graduates show high retention rates of roughly 80-90% after three years and 70-80% after five years"
 id: residency-graduates-high-retention-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

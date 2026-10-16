@@ -3,7 +3,7 @@ type: claim
 title: IF-AT-scored physics midterm and final exams yield good test reliability (α = 0.71 and 0.82; α50 = 0.86 and 0.90)
 description: IF-AT-scored physics midterm and final exams yield good test reliability (α = 0.71 and 0.82; α50 = 0.86 and 0.90)
 id: if-at-exams-good-reliability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

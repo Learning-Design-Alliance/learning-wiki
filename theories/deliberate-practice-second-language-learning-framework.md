@@ -2,7 +2,7 @@
 type: theory
 title: Deliberate Practice for Second Language Learning Framework
 description: The article proposes a framework guiding educators to design classroom-based deliberate practice (DP) and out-of-class purposeful practice (PP) protocols for language learning.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

@@ -3,7 +3,7 @@ type: claim
 title: Children were equally likely to be homeschooled in the elementary, middle, and high school grades
 description: Children were equally likely to be homeschooled in the elementary, middle, and high school grades
 id: homeschooling-equal-across-grade-levels
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

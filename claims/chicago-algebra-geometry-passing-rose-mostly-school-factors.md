@@ -3,7 +3,7 @@ type: claim
 title: Algebra/geometry sequence passing rose from 36.5 to 49.7 percent, with changes in incoming students accounting for only 17.8 percent of the improvement
 description: Algebra/geometry sequence passing rose from 36.5 to 49.7 percent, with changes in incoming students accounting for only 17.8 percent of the improvement
 id: chicago-algebra-geometry-passing-rose-mostly-school-factors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

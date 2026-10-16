@@ -3,7 +3,7 @@ type: claim
 title: "Secondary school suspension rates varied greatly across states in 2017–18, from 15% in Mississippi, South Carolina, and Washington, DC to 3% in Utah"
 description: "Secondary school suspension rates varied greatly across states in 2017–18, from 15% in Mississippi, South Carolina, and Washington, DC to 3% in Utah"
 id: state-variation-secondary-suspension-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

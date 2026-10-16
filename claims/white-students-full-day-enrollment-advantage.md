@@ -3,7 +3,7 @@ type: claim
 title: Pre-policy, White students were far more likely to enroll in full-day pre-k than other racial/ethnic groups regardless of distance
 description: Pre-policy, White students were far more likely to enroll in full-day pre-k than other racial/ethnic groups regardless of distance
 id: white-students-full-day-enrollment-advantage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

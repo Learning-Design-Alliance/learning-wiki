@@ -3,7 +3,7 @@ type: research-method
 id: five-cumulative-implementation-disclosure-levels-with-a-consequence-sensitive-evaluation-o
 title: Five cumulative implementation-disclosure levels with a consequence-sensitive evaluation override
 description: "PRISMA-LLM organizes implementation disclosure into five cumulative levels: off-the-shelf software; prompt-only LLM; structured/engineered workflows; retrieval/adapted/single-agent workflows; and multi-agent/swarm systems, each adding the technical detail needed to reconstruct the workflow."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11
@@ -28,4 +28,4 @@ PRISMA-LLM organizes implementation disclosure into five cumulative levels: off-
 -
 
 ## Key Sources
-- Zabaleta, M. & Lin, B. (2026). PRISMA-LLM: An Empirical Reporting Framework for AI-Assisted Systematic Reviews. https://arxiv.org/abs/2609.11559
+- Zabaleta, M. & Lin, B. (2026). PRISMA-LLM: An Empirical Reporting Framework for AI-Assisted Systematic Reviews. https://arxiv.org/abs/2609.11559. [doi:10.48550/arxiv.2609.11559](https://doi.org/10.48550/arxiv.2609.11559)

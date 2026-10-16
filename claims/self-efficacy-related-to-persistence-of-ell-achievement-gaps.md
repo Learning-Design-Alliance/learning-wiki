@@ -3,7 +3,7 @@ type: claim
 title: Self-efficacy is related to the persistence of achievement gaps for English Language Learners
 description: Self-efficacy is related to the persistence of achievement gaps for English Language Learners
 id: self-efficacy-related-to-persistence-of-ell-achievement-gaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

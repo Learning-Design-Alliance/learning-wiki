@@ -3,7 +3,7 @@ type: strategy
 id: multilevel-policy-support-for-magnet-diversity
 title: Create and foster diverse, effective magnet schools through coordinated federal, state, district, and school policies
 description: The report recommends a multilevel policy approach so that diverse magnet schools incorporating evidence-based components can be created and sustained.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

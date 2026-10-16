@@ -3,7 +3,7 @@ type: claim
 title: Automated grading systems may produce systematically inequitable outcomes for international and non-Western students
 description: Automated grading systems may produce systematically inequitable outcomes for international and non-Western students
 id: automated-grading-bias-non-native-english
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

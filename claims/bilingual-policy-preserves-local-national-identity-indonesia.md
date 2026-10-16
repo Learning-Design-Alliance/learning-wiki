@@ -3,7 +3,7 @@ type: claim
 title: Bilingual language policy implementation in Indonesian higher education is categorized as the preservation of local and national identity
 description: Bilingual language policy implementation in Indonesian higher education is categorized as the preservation of local and national identity
 id: bilingual-policy-preserves-local-national-identity-indonesia
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

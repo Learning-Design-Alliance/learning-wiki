@@ -3,7 +3,7 @@ type: claim
 title: Collaboration spread outside formal grant activities via the observational effect of collaboration in three grantee sites but did not extend beyond the grant in other sites
 description: Collaboration spread outside formal grant activities via the observational effect of collaboration in three grantee sites but did not extend beyond the grant in other sites
 id: observational-effect-spread-collaboration-three-sites
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: TK classrooms used a wide range of curricula, with most LEAs using one to four approaches and nearly 1 in 5 still using kindergarten curriculum
 description: TK classrooms used a wide range of curricula, with most LEAs using one to four approaches and nearly 1 in 5 still using kindergarten curriculum
 id: tk-curricula-range-and-kindergarten-curriculum-concern
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

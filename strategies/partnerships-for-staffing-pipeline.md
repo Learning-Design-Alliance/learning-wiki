@@ -3,7 +3,7 @@ type: strategy
 id: partnerships-for-staffing-pipeline
 title: Form partnerships with community organizations, higher education, and CTE programs to expand emergency staffing and build the talent pipeline
 description: The brief recommends partnerships with child-serving organizations and postsecondary institutions to both broaden the emergency candidate pool and cultivate a longer-term talent pipeline.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

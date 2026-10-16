@@ -2,7 +2,7 @@
 type: theory
 title: Interpersonal dimension of teacher feedback on student writing
 description: "The article frames feedback on student writing as more than an instructional or informational phenomenon: each paper has a real human author, and the way feedback is received and processed may be influenced by interpe..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

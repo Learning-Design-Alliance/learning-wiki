@@ -3,7 +3,7 @@ type: claim
 title: Worker and jobseeker input on skills-first pathway design and implementation is far too often limited or missing
 description: Worker and jobseeker input on skills-first pathway design and implementation is far too often limited or missing
 id: worker-input-on-skills-first-pathways-limited-or-missing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

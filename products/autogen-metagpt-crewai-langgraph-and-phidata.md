@@ -4,7 +4,7 @@ id: autogen-metagpt-crewai-langgraph-and-phidata
 title: AutoGen, MetaGPT, CrewAI, LangGraph, and Phidata
 description: A set of software platforms developed by their respective makers for building, orchestrating, and deploying agentic AI systems, including multi-agent workflows and role-based delegation.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

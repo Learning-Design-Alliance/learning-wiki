@@ -106,7 +106,7 @@ Shadowing functions as professional learning through perspective-taking: direct,
 - Davis, M. H. (1983). Measuring individual differences in empathy: Evidence for a multidimensional approach. *Journal of Personality and Social Psychology, 44*(1), 113–126. [doi:10.1037/0022-3514.44.1.113](https://doi.org/10.1037/0022-3514.44.1.113)
 - School Retool. (n.d.). *Shadow a Student Challenge*. Stanford d.school. [shadowastudent.org](http://shadowastudent.org)
 - Cook-Sather, A. (2002). Authorizing students' perspectives: Toward trust, dialogue, and change in education. *Educational Researcher, 31*(4), 3-14. [doi:10.3102/0013189x031004003](https://doi.org/10.3102/0013189x031004003)
-- Mitra, D. L. (2004). The significance of students: Can increasing "student voice" lead to gains in youth development? *Teachers College Record, 106*(4), 651–688. [doi:10.1111/j.1467-9620.2004.00354.x](https://doi.org/10.1111/j.1467-9620.2004.00354.x)
+- Mitra, D. L. (2004). The significance of students: Can increasing "student voice" in schools lead to gains in youth development? *Teachers College Record: The Voice of Scholarship in Education, 106*(4), 651–688. [doi:10.1111/j.1467-9620.2004.00354.x](https://doi.org/10.1111/j.1467-9620.2004.00354.x)
 - Patton, M. Q. (2002). *Qualitative research and evaluation methods* (3rd ed.). Sage.
 - School Retool. *Shadow a Student Challenge*. [https://www.shadowastudent.org](https://www.shadowastudent.org)
 
@@ -171,7 +171,7 @@ Shadowing is a professional-learning strategy for educators rather than a direct
 
 ## Key Sources
 - Cook-Sather, A. (2002). Authorizing students' perspectives: Toward trust, dialogue, and change in education. *Educational Researcher, 31*(4), 3-14. [doi:10.3102/0013189x031004003](https://doi.org/10.3102/0013189x031004003)
-- Mitra, D. L. (2004). The significance of students: Can increasing "student voice" lead to gains in youth development? *Teachers College Record, 106*(4), 651–688. [doi:10.1111/j.1467-9620.2004.00354.x](https://doi.org/10.1111/j.1467-9620.2004.00354.x)
+- Mitra, D. L. (2004). The significance of students: Can increasing "student voice" in schools lead to gains in youth development? *Teachers College Record: The Voice of Scholarship in Education, 106*(4), 651–688. [doi:10.1111/j.1467-9620.2004.00354.x](https://doi.org/10.1111/j.1467-9620.2004.00354.x)
 - Patton, M. Q. (2002). *Qualitative research and evaluation methods* (3rd ed.). Sage.
 - School Retool. *Shadow a Student Challenge*. [https://www.shadowastudent.org](https://www.shadowastudent.org)
 -->

@@ -3,7 +3,7 @@ type: claim
 title: Cancer-related fear and fatalism shape lung cancer screening decisions, and Hispanic adults preferred balanced risk communication that minimizes fear
 description: Cancer-related fear and fatalism shape lung cancer screening decisions, and Hispanic adults preferred balanced risk communication that minimizes fear
 id: fear-fatalism-shape-lcs-decisions-balanced-risk-communication
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

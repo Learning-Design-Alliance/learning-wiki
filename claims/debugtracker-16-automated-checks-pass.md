@@ -3,7 +3,7 @@ type: claim
 title: "DebugTracker's automated test suite passes all 16 checks covering session, capture, mode-policy, and reporting mechanisms"
 description: "DebugTracker's automated test suite passes all 16 checks covering session, capture, mode-policy, and reporting mechanisms"
 id: debugtracker-16-automated-checks-pass
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

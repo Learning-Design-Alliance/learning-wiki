@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' dyslexia knowledge differs depending on whether an item presents a term or an explanation of the term"
 description: "Teachers' dyslexia knowledge differs depending on whether an item presents a term or an explanation of the term"
 id: dyslexia-knowledge-term-versus-explanation-items
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: cimi-m-deployment-screening-strategy
 title: Screen with the MIOS before administering the CIMI-M and deploy it at intake or before trauma treatment
 description: "The authors give concrete deployment guidance: the CIMI-M complements intake procedures and should be administered only when a patient reports a PMIE, with a brief self-report screen first."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

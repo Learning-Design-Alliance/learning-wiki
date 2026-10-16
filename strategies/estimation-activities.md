@@ -90,17 +90,17 @@ Estimation works as a form of [activation](../principles/activation.md): committ
 - **Fermi problems in physics classrooms** — "How many atoms are in a human body?" Students decompose the question, estimate each part, then compare against the accepted value; widely used in University of Maryland's Physics Education Research Group materials ([Einstein Project Fermi problems](https://www.physics.umd.edu/perg/)).
 - **Estimation 180** ([estimation180.com](https://estimation180.com)) — Andrew Stadel's daily image-based estimation routine for math classes: learners estimate a quantity from a photo, state a "too low" and "too high" bound, then see the answer.
 - **Predict–Observe–Explain chemistry demos** — students predict whether a solution will change color before the demonstration, then reconcile their prediction with observation.
-- **Number Talks (Parrish, 2010)** — daily classroom routines in which learners mentally compute and share strategies; estimation variants ("Is the answer closer to 50 or 500?") build magnitude reasoning before exact calculation.
+- **[Number Talks](math-talks-number-talks.md) (Parrish, 2010)** — daily classroom routines in which learners mentally compute and share strategies; estimation variants ("Is the answer closer to 50 or 500?") build magnitude reasoning before exact calculation.
 - **Fermi problems in physics and engineering courses** — e.g., "Estimate the energy used by all the elevators in this city in a day," requiring decomposition into estimable sub-quantities before any formal calculation.
 - **Estimation 180 (Andrew Stadel)** — a free sequence of daily estimation prompts with images (https://estimation180.com), where learners record a "too low," "too high," and actual estimate, then verify with a reveal.
 - **Measurement prediction in science labs** — students record predicted mass, volume, or temperature before measuring, then reconcile prediction and observation in their lab notebooks.
 
 ## Key Sources
-- Siegler, R. S., & Booth, J. L. (2005). Development of numerical estimation in young children. *Child Development, 75*(2), 428–444. [doi:10.1111/j.1467-8624.2004.00684.x](https://doi.org/10.1111/j.1467-8624.2004.00684.x)
+- Siegler, R. S., & Booth, J. L. (2004). Development of numerical estimation in young children. *Child Development, 75*(2), 428–444. [doi:10.1111/j.1467-8624.2004.00684.x](https://doi.org/10.1111/j.1467-8624.2004.00684.x)
 - Bohr, N. (1948). On the notions of causality and complementarity. *Dialectica, 2*(3–4), 312–319. [doi:10.1111/j.1746-8361.1948.tb00703.x](https://doi.org/10.1111/j.1746-8361.1948.tb00703.x)
 - Crouch, C. H., & Mazur, E. (2001). Peer instruction: Ten years of experience and results. *American Journal of Physics, 69*(9), 970–977. [doi:10.1119/1.1374249](https://doi.org/10.1119/1.1374249)
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
-- Siegler, R. S., & Booth, J. L. (2005). Development of numerical estimation: A review. In J. I. D. Campbell (Ed.), *Handbook of mathematical cognition* (pp. 197–212). Psychology Press. [doi:10.4324/9780203998045-20](https://doi.org/10.4324/9780203998045-20)
+- Siegler, R. S., & Booth, J. L. (2005). Development of numerical estimation: A review. In J. I. D. Campbell (Ed.), *Handbook of mathematical cognition* (pp. 215–230). Psychology Press. [doi:10.4324/9780203998045-20](https://doi.org/10.4324/9780203998045-20)
 - Booth, J. L., & Siegler, R. S. (2006). Developmental and individual differences in pure numerical estimation. *Developmental Psychology, 42*(1), 189–201. [doi:10.1037/0012-1649.41.6.189](https://doi.org/10.1037/0012-1649.41.6.189)
 - Dowker, A. (1997). Young children's addition estimates. *Mathematical Cognition, 3*(1), 59–82.
 - Ramani, G. B., & Siegler, R. S. (2008). Promoting broad and stable improvements in low-income children's numerical knowledge through playing number board games. *Child Development, 79*(2), 375–394. [doi:10.1111/j.1467-8624.2007.01131.x](https://doi.org/10.1111/j.1467-8624.2007.01131.x)
@@ -170,7 +170,7 @@ Estimation forces learners to activate prior knowledge and reason about magnitud
 - **Measurement prediction in science labs** — students record predicted mass, volume, or temperature before measuring, then reconcile prediction and observation in their lab notebooks.
 
 ## Key Sources
-- Siegler, R. S., & Booth, J. L. (2005). Development of numerical estimation: A review. In J. I. D. Campbell (Ed.), *Handbook of mathematical cognition* (pp. 197–212). Psychology Press. [doi:10.4324/9780203998045-20](https://doi.org/10.4324/9780203998045-20)
+- Siegler, R. S., & Booth, J. L. (2005). Development of numerical estimation: A review. In J. I. D. Campbell (Ed.), *Handbook of mathematical cognition* (pp. 215–230). Psychology Press. [doi:10.4324/9780203998045-20](https://doi.org/10.4324/9780203998045-20)
 - Booth, J. L., & Siegler, R. S. (2006). Developmental and individual differences in pure numerical estimation. *Developmental Psychology, 42*(1), 189–201. [doi:10.1037/0012-1649.41.6.189](https://doi.org/10.1037/0012-1649.41.6.189)
 - Dowker, A. (1997). Young children's addition estimates. *Mathematical Cognition, 3*(1), 59–82.
 - Ramani, G. B., & Siegler, R. S. (2008). Promoting broad and stable improvements in low-income children's numerical knowledge through playing number board games. *Child Development, 79*(2), 375–394. [doi:10.1111/j.1467-8624.2007.01131.x](https://doi.org/10.1111/j.1467-8624.2007.01131.x)

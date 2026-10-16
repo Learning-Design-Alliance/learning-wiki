@@ -3,7 +3,7 @@ type: claim
 title: Schools with high teacher turnover and large proportions of underprepared teachers are associated with lower achievement for all students and for students experiencing homelessness, after accounting for other factors
 description: Schools with high teacher turnover and large proportions of underprepared teachers are associated with lower achievement for all students and for students experiencing homelessness, after accounting for other factors
 id: teacher-turnover-underprepared-teachers-lower-achievement-homeless
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

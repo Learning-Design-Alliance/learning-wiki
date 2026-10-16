@@ -3,7 +3,7 @@ type: claim
 title: Fewer than 10 percent of elementary schools with a sustained weakness in one essential support showed improvements in student outcomes (attributed to Bryk et al., 2010)
 description: Fewer than 10 percent of elementary schools with a sustained weakness in one essential support showed improvements in student outcomes (attributed to Bryk et al., 2010)
 id: sustained-weakness-one-support-few-improve
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: develop-ct-skills-younger-grades
 title: Build computational thinking skills in the younger grades through plugged and unplugged activities
 description: "The report recommends developing CT skills early: \"In younger grades (K–3), students will likely be engaging primarily in computational skills in application to relevant problems in the classroom.\" It describes both u..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

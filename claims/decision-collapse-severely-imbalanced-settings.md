@@ -3,7 +3,7 @@ type: claim
 title: Decision quality collapses toward the majority action in severely imbalanced settings
 description: Decision quality collapses toward the majority action in severely imbalanced settings
 id: decision-collapse-severely-imbalanced-settings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

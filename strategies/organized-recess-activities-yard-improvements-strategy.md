@@ -3,7 +3,7 @@ type: strategy
 id: organized-recess-activities-yard-improvements-strategy
 title: Guide students in organized activities during recess and improve the recess play yard to raise physical activity, especially for girls
 description: "The article recommends school-based recess programs that structure student activity and improve the play yard as a route to increasing children's physical activity."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: A prefer-harder problem-selection constraint reduces overpractice for the risk-averse strategy in the equation-solving dataset
 description: A prefer-harder problem-selection constraint reduces overpractice for the risk-averse strategy in the equation-solving dataset
 id: prefer-harder-constraint-reduces-overpractice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

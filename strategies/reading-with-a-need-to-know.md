@@ -3,7 +3,7 @@ type: strategy
 id: reading-with-a-need-to-know
 title: Schedule reading after experimentation so students read with a genuine need to know
 description: "The guide places text reading (Lesson 7) after students have run experiments and encountered disagreements in their findings, so that \"When students have different results in their experiments, they will be motivated..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

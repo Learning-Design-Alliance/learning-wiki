@@ -3,7 +3,7 @@ type: claim
 title: In Ohio, charter schools authorized by nonprofits are less effective in promoting student achievement than other charter schools
 description: In Ohio, charter schools authorized by nonprofits are less effective in promoting student achievement than other charter schools
 id: nonprofit-authorized-charters-less-effective-ohio
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

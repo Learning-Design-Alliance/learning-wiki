@@ -3,7 +3,7 @@ type: claim
 title: A single Tipping Point explains dropout patterns in only about a quarter of online courses, so lesson-level dropout behavior is more complex than one critical lesson
 description: A single Tipping Point explains dropout patterns in only about a quarter of online courses, so lesson-level dropout behavior is more complex than one critical lesson
 id: tipping-point-hypothesis-insufficient-online-dropout
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

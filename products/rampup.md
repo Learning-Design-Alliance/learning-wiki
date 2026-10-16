@@ -4,7 +4,7 @@ id: rampup
 title: RAMPUP
 description: RAMPUP is a named mathematics-learning programme developed and run by its project team, using contextualized activity structures to support students’ equivalence reasoning.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

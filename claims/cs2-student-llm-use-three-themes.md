@@ -3,7 +3,7 @@ type: claim
 title: "Students' LLM use in CS2 fell into three themes: understanding, assisting code writing, and writing code, with only a few using LLMs to write code"
 description: "Students' LLM use in CS2 fell into three themes: understanding, assisting code writing, and writing code, with only a few using LLMs to write code"
 id: cs2-student-llm-use-three-themes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

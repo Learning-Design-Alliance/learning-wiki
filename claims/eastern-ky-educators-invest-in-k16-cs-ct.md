@@ -3,7 +3,7 @@ type: claim
 title: Eastern Kentucky educators and organizations have focused attention on CS and CT education for K-16 students as part of regional revitalization
 description: Eastern Kentucky educators and organizations have focused attention on CS and CT education for K-16 students as part of regional revitalization
 id: eastern-ky-educators-invest-in-k16-cs-ct
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

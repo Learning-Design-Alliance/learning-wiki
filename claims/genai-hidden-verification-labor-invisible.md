@@ -3,7 +3,7 @@ type: claim
 title: GenAI use involves substantial hidden labor of prompting, verification, and correction that remains invisible in productivity evaluation
 description: GenAI use involves substantial hidden labor of prompting, verification, and correction that remains invisible in productivity evaluation
 id: genai-hidden-verification-labor-invisible
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

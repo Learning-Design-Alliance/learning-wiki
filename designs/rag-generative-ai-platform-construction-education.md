@@ -3,7 +3,7 @@ type: design
 id: rag-generative-ai-platform-construction-education
 title: Retrieval-augmented generative AI learning platform for construction education
 description: "A web-based generative AI–supported learning platform developed for construction education that \"enables document-grounded interaction with course materials and generates source-linked responses aligned with curated i..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Access to an LLM assistant during practice did not significantly lower subsequent unaided test performance
 description: Access to an LLM assistant during practice did not significantly lower subsequent unaided test performance
 id: llm-access-no-significant-lower-unaided-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

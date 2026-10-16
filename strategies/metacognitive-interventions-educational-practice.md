@@ -3,7 +3,7 @@ type: strategy
 id: metacognitive-interventions-educational-practice
 title: Incorporate metacognitive interventions such as mindfulness, feedback, and problem-based programs into educational practice to support adaptive offloading
 description: "The review recommends introducing metacognitive interventions into educational practice to enhance students' self-monitoring and regulation, helping them accurately assess task difficulty and cognitive load before dec..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -40,7 +40,8 @@ The review recommends introducing metacognitive interventions into educational p
 - [Dynamic Metacognitive Model Cognitive Offloading](../theories/metacognition.md)
 
 ## Related Strategies
-- 
+
+- [Use metacognitive interventions to promote adaptive use of cognitive tools](metacognitive-interventions-adaptive-offloading.md)
 
 ## Examples
 -

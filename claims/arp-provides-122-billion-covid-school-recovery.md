@@ -3,7 +3,7 @@ type: claim
 title: The American Rescue Plan provides $122 billion for COVID recovery in schools
 description: The American Rescue Plan provides $122 billion for COVID recovery in schools
 id: arp-provides-122-billion-covid-school-recovery
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

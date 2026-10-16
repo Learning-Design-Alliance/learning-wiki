@@ -3,7 +3,7 @@ type: claim
 title: "Healthy Harlem increased students' nutrition knowledge and physical-activity self-efficacy, with gains sustained over three years"
 description: "Healthy Harlem increased students' nutrition knowledge and physical-activity self-efficacy, with gains sustained over three years"
 id: healthy-harlem-sustained-nutrition-knowledge-self-efficacy-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

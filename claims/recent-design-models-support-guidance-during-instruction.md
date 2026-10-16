@@ -3,7 +3,7 @@ type: claim
 title: Recent developments in instructional research and instructional design models support guidance during instruction
 description: Recent developments in instructional research and instructional design models support guidance during instruction
 id: recent-design-models-support-guidance-during-instruction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

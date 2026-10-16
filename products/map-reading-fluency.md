@@ -4,7 +4,7 @@ id: map-reading-fluency
 title: MAP Reading Fluency
 description: "MAP Reading Fluency is NWEA's online adaptive assessment for pre-K through grade 5 reading skills and oral reading fluency, with benchmark testing, progress monitoring, and an optional K–3 dyslexia screener in English and Spanish."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: element
 id: video-based-lesson-debrief-cycles-teams
 title: Video-based lesson-debrief cycles with teacher teams in schools
 description: "Within a research-practice partnership with a professional development organization for secondary mathematics teachers, the team designed \"a system for video-based feedback on teachers' instruction,\" facilitating and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -50,4 +50,4 @@ Within a research-practice partnership with a professional development organizat
 - [Reflection with Others](../strategies/reflection_with_others.md)
 
 ## Key Sources
-- Ehrenfeld, N., McGugan, K. S., Marshall, S. A., & Garner, B. (2020). Reconciling local contexts and external conceptual resources in mathematics teachers' collaborative sensemaking. In Mathematics Education Across Cultures: Proceedings of the 42nd Meeting of the North American Chapter of PME-NA.
+- Ehrenfeld, N., McGugan, K. S., Marshall, S. A., & Garner, B. (2020). Reconciling local contexts and external conceptual resources in mathematics teachers' collaborative sensemaking. In Mathematics Education Across Cultures: Proceedings of the 42nd Meeting of the North American Chapter of PME-NA. [doi:10.51272/pmena.42.2020-295](https://doi.org/10.51272/pmena.42.2020-295)

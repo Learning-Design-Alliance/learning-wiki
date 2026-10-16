@@ -3,7 +3,7 @@ type: claim
 title: In many NCLB waiver states, performance against improvement and gap-closing goals does not factor into school accountability ratings
 description: In many NCLB waiver states, performance against improvement and gap-closing goals does not factor into school accountability ratings
 id: waiver-states-goals-dont-count-in-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

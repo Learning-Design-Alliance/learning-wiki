@@ -3,7 +3,7 @@ type: claim
 title: "Second graders' 2021–22 fall–spring growth in math and reading paralleled prepandemic achievement gains"
 description: "Second graders' 2021–22 fall–spring growth in math and reading paralleled prepandemic achievement gains"
 id: second-graders-2021-22-growth-paralleled-prepandemic
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

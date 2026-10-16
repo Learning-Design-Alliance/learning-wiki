@@ -3,7 +3,7 @@ type: claim
 title: AIfred and ChatGPT produce comparable math scores while assistance is available
 description: AIfred and ChatGPT produce comparable math scores while assistance is available
 id: aifred-chatgpt-comparable-assisted-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

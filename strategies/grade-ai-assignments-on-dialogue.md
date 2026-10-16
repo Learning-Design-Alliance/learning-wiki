@@ -3,7 +3,7 @@ type: strategy
 id: grade-ai-assignments-on-dialogue
 title: "Grade AI-dialogue assignments on evidence of sustained dialogue, and explicitly teach students to answer the AI's questions"
 description: "From implementation, the authors recommend that if the goal is dialogue, then the grading criteria should reflect dialogue: students should provide the main contextual prompt and enough follow-up interaction to demons..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -2,7 +2,7 @@
 type: theory
 title: "Bandura's four self-efficacy building experiences framework"
 description: "The article organizes its synthesis around Bandura's four experiences critical to developing self-efficacy: mastery experiences (successfully accomplishing a task), vicarious experiences (observing another succeed), s..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

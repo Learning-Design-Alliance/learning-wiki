@@ -70,7 +70,7 @@ Stamina is a capacity that develops through practice under manageable load, much
 
 ## Examples
 - **Daily 5 / The Two Sisters (Gail Boushey & Joan Moser)** — the "Read to Self" component explicitly builds stamina with class-generated stamina charts, starting at ~3 minutes and extending as students demonstrate focus (https://www.thedailycafe.com).
-- **Reading Workshop (Lucy Calkins / Teachers College)** — independent reading blocks that begin short in early fall and lengthen across the year, paired with minilessons and conferring.
+- **[Reading Workshop](reading-workshop.md) (Lucy Calkins / Teachers College)** — independent reading blocks that begin short in early fall and lengthen across the year, paired with minilessons and conferring.
 - **First-grade classroom implementation** — teacher starts with 5 minutes of Read to Self, charts stamina publicly, and extends by 1–2 minutes whenever the class meets its engagement criteria, reaching 20+ minutes by mid-year.
 
 ## Key Sources

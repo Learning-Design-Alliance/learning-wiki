@@ -3,7 +3,7 @@ type: claim
 title: More experienced teachers confer benefits to their colleagues and to the school as a whole, as well as to their own students
 description: More experienced teachers confer benefits to their colleagues and to the school as a whole, as well as to their own students
 id: experienced-teachers-spillover-colleagues-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

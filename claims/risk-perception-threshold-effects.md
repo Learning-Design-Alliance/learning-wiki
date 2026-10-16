@@ -3,7 +3,7 @@ type: claim
 title: Security and technical risk perception exhibit threshold effects on perceived benefits, with positive associations becoming significant only above critical risk levels
 description: Security and technical risk perception exhibit threshold effects on perceived benefits, with positive associations becoming significant only above critical risk levels
 id: risk-perception-threshold-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

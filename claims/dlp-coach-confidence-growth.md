@@ -3,7 +3,7 @@ type: claim
 title: Coaches reported significantly greater confidence in their coaching skills by year end, rising from 62 to 89 percent rating themselves high or extremely high
 description: Coaches reported significantly greater confidence in their coaching skills by year end, rising from 62 to 89 percent rating themselves high or extremely high
 id: dlp-coach-confidence-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

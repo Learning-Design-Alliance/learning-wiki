@@ -3,7 +3,7 @@ type: design
 id: banking-onboarding-teaching-case
 title: Banking customer-onboarding teaching case with AI-constrained fraud-screening agent
 description: A fictitious retail-bank customer onboarding process (registration, fraud assessment, approval) facing a scalability crisis, deliberately rich in regulatory constraints, knowledge-intensive work, and heterogeneous dat...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Four remedial reading interventions combined improved phonemic decoding, word reading accuracy and fluency, and reading comprehension for third-grade struggling readers one year after the interventions ended, though not on all measures
 description: Four remedial reading interventions combined improved phonemic decoding, word reading accuracy and fluency, and reading comprehension for third-grade struggling readers one year after the interventions ended, though n...
 id: four-reading-interventions-improved-third-grade-reading-one-year-later
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

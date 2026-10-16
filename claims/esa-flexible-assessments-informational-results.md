@@ -3,7 +3,7 @@ type: claim
 title: Most ESA programs have flexible assessment requirements, and testing results are largely informational with only West Virginia imposing explicit performance benchmarks
 description: Most ESA programs have flexible assessment requirements, and testing results are largely informational with only West Virginia imposing explicit performance benchmarks
 id: esa-flexible-assessments-informational-results
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

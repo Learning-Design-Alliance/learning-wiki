@@ -3,7 +3,7 @@ type: claim
 title: Project Cal-Well training at SCOE reached 833 mental health workforce members and 3,104 individuals outside the workforce
 description: Project Cal-Well training at SCOE reached 833 mental health workforce members and 3,104 individuals outside the workforce
 id: scoe-cal-well-training-833-and-3104
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

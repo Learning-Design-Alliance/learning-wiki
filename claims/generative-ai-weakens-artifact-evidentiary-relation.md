@@ -3,7 +3,7 @@ type: claim
 title: "Generative AI weakens the evidentiary relation between assessment artifacts and learner capacity, so institutions must assess the learner's accountable relation to AI-mediated work"
 description: "Generative AI weakens the evidentiary relation between assessment artifacts and learner capacity, so institutions must assess the learner's accountable relation to AI-mediated work"
 id: generative-ai-weakens-artifact-evidentiary-relation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

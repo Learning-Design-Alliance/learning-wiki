@@ -3,7 +3,7 @@ type: claim
 title: Teachers had abundant student data but most needed help translating data into instructional steps
 description: Teachers had abundant student data but most needed help translating data into instructional steps
 id: teachers-need-help-translating-data-to-instruction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

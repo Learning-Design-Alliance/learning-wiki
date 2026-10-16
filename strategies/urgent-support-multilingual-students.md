@@ -3,7 +3,7 @@ type: strategy
 id: urgent-support-multilingual-students
 title: Provide urgent, strengthened academic support for multilingual students, especially dually-identified students
 description: "Based on the finding of expanding middle-grade achievement gaps, the author recommends that \"better academic support is urgently needed for all multilingual students, especially dually-identified students.\" The recomm..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

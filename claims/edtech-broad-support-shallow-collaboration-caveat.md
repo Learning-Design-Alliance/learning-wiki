@@ -3,7 +3,7 @@ type: claim
 title: "Majorities say edtech improves students' learning experiences, but few think it does so greatly, and a plurality of teachers say it hurts collaboration"
 description: "Majorities say edtech improves students' learning experiences, but few think it does so greatly, and a plurality of teachers say it hurts collaboration"
 id: edtech-broad-support-shallow-collaboration-caveat
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

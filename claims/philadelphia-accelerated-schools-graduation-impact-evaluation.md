@@ -3,7 +3,7 @@ type: claim
 title: "Philadelphia's accelerated schools are evaluated for their impacts on enrollees' graduation rates"
 description: "Philadelphia's accelerated schools are evaluated for their impacts on enrollees' graduation rates"
 id: philadelphia-accelerated-schools-graduation-impact-evaluation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

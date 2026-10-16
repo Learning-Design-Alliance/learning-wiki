@@ -3,7 +3,7 @@ type: strategy
 id: address-staff-technology-reluctance-empowerment
 title: Address staff technology reluctance by building an empowerment mindset that educators model daily for learners
 description: "Hughes said the hardest thing SPICE had to address was the staff's approach to technology, including her own."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

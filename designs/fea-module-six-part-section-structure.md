@@ -3,7 +3,7 @@ type: design
 id: fea-module-six-part-section-structure
 title: Six-part section structure for FEA-based experiential learning modules
 description: "Each section of the FEA-based learning module followed a fixed internal structure of six sub-sections: \"Educational objective, Problem description and objective analysis, Mathematical equation, General steps of the FE..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

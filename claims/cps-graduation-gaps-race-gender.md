@@ -3,7 +3,7 @@ type: claim
 title: CPS high school graduation rates show large gaps by race/ethnicity and gender, with young men graduating at lower rates than young women within every race/ethnicity group
 description: CPS high school graduation rates show large gaps by race/ethnicity and gender, with young men graduating at lower rates than young women within every race/ethnicity group
 id: cps-graduation-gaps-race-gender
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

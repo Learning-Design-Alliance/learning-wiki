@@ -3,7 +3,7 @@ type: claim
 title: Most alternatively certified teachers completed some coursework before entering the classroom, though this varied by state
 description: Most alternatively certified teachers completed some coursework before entering the classroom, though this varied by state
 id: alt-cert-coursework-timing-varies-by-state
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

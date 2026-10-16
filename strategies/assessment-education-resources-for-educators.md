@@ -3,7 +3,7 @@ type: strategy
 id: assessment-education-resources-for-educators
 title: Provide teachers, administrators, and educational leaders with practical resources and strategies for assessment use
 description: "The book's approach is to supply practical resources and strategies to education practitioners."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -47,4 +47,4 @@ The book's approach is to supply practical resources and strategies to education
 -
 
 ## Key Sources
-- Tarasawa, B., Gotwals, A., & Jackson, C. (2020). Assessment education: Bridging research, theory, and practice to promote equity and student learning. Rowman & Littlefield. https://www.nwea.org/research/publication/assessment-education-bridging-research-theory-and-practice-to-promote-equity-and-student-learning/
+- Tarasawa, B., Gotwals, A., & Jackson, C. (2020). Assessment education: Bridging research, theory, and practice to promote equity and student learning. Rowman & Littlefield. https://www.nwea.org/research/publication/assessment-education-bridging-research-theory-and-practice-to-promote-equity-and-student-learning/. [doi:10.5771/9781475851069](https://doi.org/10.5771/9781475851069)

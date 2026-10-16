@@ -3,7 +3,7 @@ type: element
 id: rc-lc-subskills-source-corpus
 title: Cross-compared corpus of subskills from applied linguistics theory, nine international EFL/ESL proficiency tests, and five coursebook series
 description: "The study assembles its evidence base from three source types: subskills named in theoretical and empirical applied linguistics papers; the manuals of nine internationally popular EFL/ESL tests, including \"Test of Eng..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

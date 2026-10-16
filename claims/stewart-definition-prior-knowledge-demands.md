@@ -3,7 +3,7 @@ type: claim
 title: "Understanding Stewart's formal definition of the definite integral demands mobilizing a system of prior knowledge across a network of semiotic functions"
 description: "Understanding Stewart's formal definition of the definite integral demands mobilizing a system of prior knowledge across a network of semiotic functions"
 id: stewart-definition-prior-knowledge-demands
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

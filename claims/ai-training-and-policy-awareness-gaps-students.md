@@ -3,7 +3,7 @@ type: claim
 title: Students report gaps in AI training and awareness of institutional AI policies despite widespread adoption
 description: Students report gaps in AI training and awareness of institutional AI policies despite widespread adoption
 id: ai-training-and-policy-awareness-gaps-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

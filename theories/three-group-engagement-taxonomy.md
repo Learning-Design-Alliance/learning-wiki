@@ -2,7 +2,7 @@
 type: theory
 title: Three-group engagement taxonomy of level 1 physics students based on attendance and responsiveness
 description: The article breaks the student population into three broad categories by absenteeism from compulsory continuous assessment and responsiveness to contact.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

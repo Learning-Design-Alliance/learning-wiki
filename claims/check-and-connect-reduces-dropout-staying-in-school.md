@@ -3,7 +3,7 @@ type: claim
 title: "Check & Connect has statistically significant positive effects on staying in school for high school students with disabilities"
 description: "Check & Connect has statistically significant positive effects on staying in school for high school students with disabilities"
 id: check-and-connect-reduces-dropout-staying-in-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

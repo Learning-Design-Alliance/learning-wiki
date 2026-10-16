@@ -3,7 +3,7 @@ type: claim
 title: In the SWEET pediatric registry, centres with ready access to psychological services showed lower rates of ketoacidosis and slightly lower HbA1c levels
 description: In the SWEET pediatric registry, centres with ready access to psychological services showed lower rates of ketoacidosis and slightly lower HbA1c levels
 id: sweet-registry-psychological-access-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

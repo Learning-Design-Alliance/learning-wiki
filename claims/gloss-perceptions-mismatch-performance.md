@@ -3,7 +3,7 @@ type: claim
 title: Learners hold positive attitudes toward glosses, but their perceptions of which gloss type works best do not match measured performance
 description: Learners hold positive attitudes toward glosses, but their perceptions of which gloss type works best do not match measured performance
 id: gloss-perceptions-mismatch-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

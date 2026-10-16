@@ -3,7 +3,7 @@ type: claim
 title: A small set of mathematics-only studies gives existence proof that teacher participation in a mathematics PLC can enhance student learning, but evidence is insufficient to link formal assessment results to PLC participation
 description: A small set of mathematics-only studies gives existence proof that teacher participation in a mathematics PLC can enhance student learning, but evidence is insufficient to link formal assessment results to PLC partici...
 id: stem-plc-math-student-learning-existence-proof
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -66,8 +66,8 @@ Skimming works because it activates relevant prior knowledge and gives readers a
 - [Offer a structured advance organizer before the full article for readers who benefit from one](structured-advance-organizer-appendix-strategy.md)
 
 ## Examples
-- **SQ3R (Robinson, 1946)** — the classic study routine whose first two steps (Survey, Question) are a structured pre-reading skim; still widely taught in academic study-skills courses.
-- **Reading Apprenticeship (WestEd)** — metacognitive reading routines in which students survey a text and talk through what they notice about its structure before reading. https://readingapprenticeship.org
+- **[SQ3R](sq3r.md) (Robinson, 1946)** — the classic study routine whose first two steps (Survey, Question) are a structured pre-reading skim; still widely taught in academic study-skills courses.
+- **[Reading Apprenticeship](../products/reading-apprenticeship.md) (WestEd)** — metacognitive reading routines in which students survey a text and talk through what they notice about its structure before reading. https://readingapprenticeship.org
 - **Academic reading in EAP courses** — English for Academic Purposes curricula routinely train skimming/scanning as a paired skill before assigning journal articles.
 
 ## Key Sources

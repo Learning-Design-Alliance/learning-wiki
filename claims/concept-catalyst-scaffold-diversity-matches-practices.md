@@ -3,7 +3,7 @@ type: claim
 title: The concept-map interface let teachers generate scaffolds matching their content focuses, class activities, and teaching styles
 description: The concept-map interface let teachers generate scaffolds matching their content focuses, class activities, and teaching styles
 id: concept-catalyst-scaffold-diversity-matches-practices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

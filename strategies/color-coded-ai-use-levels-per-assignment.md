@@ -3,7 +3,7 @@ type: strategy
 id: color-coded-ai-use-levels-per-assignment
 title: Designate permitted AI use per assignment using color-coded levels (red, yellow, green, blue)
 description: The article describes an institutional recommendation under consideration at NC State to designate appropriate AI use not only as a general syllabus policy but by assignment or problem, using color-coded levels.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -46,4 +46,4 @@ The article describes an institutional recommendation under consideration at NC 
 -
 
 ## Key Sources
-- Liu, J. P., & Levy, R. (2026). Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education. North Carolina State University. https://arxiv.org/abs/2606.00038
+- Liu, J. P., & Levy, R. (2026). Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education. North Carolina State University. https://arxiv.org/abs/2606.00038. [doi:10.48550/arxiv.2606.00038](https://doi.org/10.48550/arxiv.2606.00038)

@@ -3,7 +3,7 @@ type: claim
 title: "The Coach's hint budget was managed poorly: students split into early-spenders and savers, and within the Coach condition only those with a deliberate hint strategy scored higher"
 description: "The Coach's hint budget was managed poorly: students split into early-spenders and savers, and within the Coach condition only those with a deliberate hint strategy scored higher"
 id: hint-budget-mismanaged-two-patterns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -18,8 +18,8 @@ sources:
     kind: causal
     rigour: 1
   - id: azimi-2026-2
-    resource: "https://arxiv.org/abs/2609.16784"
-    title: "Azimi, S. (2026). AI Literacy over Tool Design: A Mixed-Methods Study of Scaffolded versus Unrestricted Generative AI in Programming Education. Delft University of Technology. https://arxiv.org/abs/2609.16784"
+    resource: "https://doi.org/10.48550/arxiv.2609.16784"
+    title: "Azimi, S. (2026). AI Literacy over Tool Design: A Mixed-Methods Study of Scaffolded versus Unrestricted Generative AI in Programming Education. Delft University of Technology. https://arxiv.org/abs/2609.16784. [doi:10.48550/arxiv.2609.16784](https://doi.org/10.48550/arxiv.2609.16784)"
     author: Azimi, S.
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # The Coach's hint budget was managed poorly: students split into early-spenders and savers, and within the Coach condition only those with a deliberate hint strategy scored higher
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Interaction logs showed two distinct hint-budget patterns: spending most hints early on first problems, or saving hints and finishing with most of the budget unused. [→ Azimi 2026](#azimi-2026)
@@ -50,7 +50,7 @@ Log analysis of Coach interactions in the pilot, examining how students distribu
 
 ### Azimi 2026 (2)
 
-Azimi, S. (2026). AI Literacy over Tool Design: A Mixed-Methods Study of Scaffolded versus Unrestricted Generative AI in Programming Education. Delft University of Technology. https://arxiv.org/abs/2609.16784
+Azimi, S. (2026). AI Literacy over Tool Design: A Mixed-Methods Study of Scaffolded versus Unrestricted Generative AI in Programming Education. Delft University of Technology. https://arxiv.org/abs/2609.16784. [doi:10.48550/arxiv.2609.16784](https://doi.org/10.48550/arxiv.2609.16784)
 
 `q2 · i?` · `causal · r1`
 

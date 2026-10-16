@@ -3,7 +3,7 @@ type: claim
 title: When engagement with partners is relatively limited, researchers should be especially thoughtful about how findings translate to action-oriented recommendations
 description: When engagement with partners is relatively limited, researchers should be especially thoughtful about how findings translate to action-oriented recommendations
 id: limited-engagement-requires-careful-action-oriented-recommendations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

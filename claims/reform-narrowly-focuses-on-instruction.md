@@ -3,7 +3,7 @@ type: claim
 title: School reform efforts often narrowly focus on instruction, curriculum and pedagogy while overlooking organizational and community conditions
 description: School reform efforts often narrowly focus on instruction, curriculum and pedagogy while overlooking organizational and community conditions
 id: reform-narrowly-focuses-on-instruction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

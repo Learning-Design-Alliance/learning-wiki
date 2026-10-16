@@ -3,7 +3,7 @@ type: strategy
 id: themed-token-rewards-moon-rocks
 title: Use a themed token-reward system (moon rocks) to motivate on-task behavior during tutoring
 description: "Galaxy Math embeds motivation in its space theme: \"students can earn 'moon rocks' by completing work and staying on task.\" This token system ties rewards to both work completion and on-task behavior within one-to-one..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

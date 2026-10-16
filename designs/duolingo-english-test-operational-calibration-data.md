@@ -3,7 +3,7 @@ type: design
 id: duolingo-english-test-operational-calibration-data
 title: Duolingo English Test operational calibration data used for the empirical evaluation
 description: "The evaluation applied consensus calibration to operational response data from the Duolingo English Test, described as \"a high-volume, continuously evolving language assessment\" measuring two latent dimensions with it..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

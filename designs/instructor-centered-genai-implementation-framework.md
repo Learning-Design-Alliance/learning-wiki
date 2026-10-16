@@ -3,7 +3,7 @@ type: design
 id: instructor-centered-genai-implementation-framework
 title: Instructor-centered framework for translating institutional GenAI guidance into course implementation via three mediating factors
 description: The authors propose a framework that guides the translation of institutional guidance to course implementation by placing the instructor at the center of the process and considering mediating factors (Figure 3).
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

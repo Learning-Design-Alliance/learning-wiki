@@ -3,7 +3,7 @@ type: strategy
 id: action-cycle-cross-institutional-planning
 title: Three-session action cycle process for cross-institutional workforce planning
 description: "The Collaborative organizes its work in action cycles grounded in continuous improvement methods: defining and understanding a pressing teacher workforce issue with data, experts, and practitioners; collaboratively pl..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

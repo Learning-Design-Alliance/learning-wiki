@@ -4,7 +4,7 @@ id: k12-kgraph
 title: K12-KGraph
 description: "A heterogeneous, curriculum-aligned knowledge graph extracted and expert-verified from official Chinese People's Education Press K–12 mathematics, physics, chemistry, and biology textbooks, created by Hao Liang et al."
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

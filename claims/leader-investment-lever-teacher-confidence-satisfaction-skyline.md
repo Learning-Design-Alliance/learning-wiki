@@ -3,7 +3,7 @@ type: claim
 title: Teachers whose leaders prioritized at least one organizational capacity lever reported greater confidence and satisfaction with Skyline materials
 description: Teachers whose leaders prioritized at least one organizational capacity lever reported greater confidence and satisfaction with Skyline materials
 id: leader-investment-lever-teacher-confidence-satisfaction-skyline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -2,7 +2,7 @@
 type: claim
 title: Identity-centered making supports simultaneous STEM engagement and identity affirmation for queer youth
 id: identity-centered-making-supports-stem-engagement-and-identity-affirmation
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

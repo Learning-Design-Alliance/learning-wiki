@@ -3,7 +3,7 @@ type: claim
 title: Perceived employability negatively predicts career decision-making anxiety among Chinese college students
 description: Perceived employability negatively predicts career decision-making anxiety among Chinese college students
 id: perceived-employability-negatively-predicts-career-anxiety
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

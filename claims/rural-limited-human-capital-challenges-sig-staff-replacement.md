@@ -3,7 +3,7 @@ type: claim
 title: Limited human capital is one of the biggest challenges in rural school turnaround, making SIG staff-replacement requirements often neither possible nor desirable
 description: Limited human capital is one of the biggest challenges in rural school turnaround, making SIG staff-replacement requirements often neither possible nor desirable
 id: rural-limited-human-capital-challenges-sig-staff-replacement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

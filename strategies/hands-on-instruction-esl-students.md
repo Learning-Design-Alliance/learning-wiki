@@ -3,7 +3,7 @@ type: strategy
 id: hands-on-instruction-esl-students
 title: Use hands-on practice and immediate feedback in bibliographic instruction for ESL students
 description: For students learning English, the paper recommends emphasizing hands-on instruction because verbal directions alone are often not enough, and many international students are too shy to approach the reference desk.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Persistently high chronic absenteeism rates are associated with slower academic recovery in math and reading after COVID-era disruptions
 description: Persistently high chronic absenteeism rates are associated with slower academic recovery in math and reading after COVID-era disruptions
 id: chronic-absenteeism-associated-slower-covid-recovery
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: pair-norm-metrics-with-grade-level-progress-evidence
 title: Pair norm-referenced metrics with evidence of progress toward grade-level expectations in accountability decisions
 description: The paper recommends that leaders using MAP Growth in screening, evaluation, or authorization choose deliberately between anchoring decisions to grade-level expectations and preserving relative percentile benchmarks,...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

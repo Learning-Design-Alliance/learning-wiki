@@ -3,7 +3,7 @@ type: claim
 title: "CREDO's new race/ethnicity approach estimates full annual growth per group without benchmarking against any race/ethnicity"
 description: "CREDO's new race/ethnicity approach estimates full annual growth per group without benchmarking against any race/ethnicity"
 id: credo-race-ethnicity-growth-without-benchmark
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Principals and teachers increasingly agree that school and district support for TPE implementation is helpful, with principals more positive than teachers
 description: Principals and teachers increasingly agree that school and district support for TPE implementation is helpful, with principals more positive than teachers
 id: school-district-support-tpe-helpful
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

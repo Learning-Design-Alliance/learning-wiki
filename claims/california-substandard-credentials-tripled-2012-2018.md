@@ -3,7 +3,7 @@ type: claim
 title: California issued more than 13,000 intern credentials, permits, and waivers in 2017–18, nearly triple the 2012–13 number
 description: California issued more than 13,000 intern credentials, permits, and waivers in 2017–18, nearly triple the 2012–13 number
 id: california-substandard-credentials-tripled-2012-2018
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

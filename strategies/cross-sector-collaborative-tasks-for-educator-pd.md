@@ -3,7 +3,7 @@ type: strategy
 id: cross-sector-collaborative-tasks-for-educator-pd
 title: Use cross-sector collaborative tasks (classroom observation, operations alignment, curriculum development) as vehicles for educator professional development
 description: This strategy organizes educator professional development around joint work between district and charter school staff on concrete shared tasks.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

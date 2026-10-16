@@ -3,7 +3,7 @@ type: claim
 title: The prototype maintains total end-to-end latency of 3-5 seconds between query completion and RAG-generated response delivery
 description: The prototype maintains total end-to-end latency of 3-5 seconds between query completion and RAG-generated response delivery
 id: hdr-vr-platform-3-5-second-latency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

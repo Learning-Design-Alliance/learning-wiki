@@ -3,7 +3,7 @@ type: strategy
 id: delayed-start-subgroup-interventions
 title: "Use delayed start sub-group membership to target classroom interventions: mentor roles for early starters and nudges for chronic delayers"
 description: The authors recommend operationalizing the delayed start detector to target interventions aligned with what teachers already do when telling students it is time to get started.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

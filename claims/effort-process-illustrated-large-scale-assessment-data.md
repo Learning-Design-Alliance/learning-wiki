@@ -3,7 +3,7 @@ type: claim
 title: The general effort-measurement process is illustrated with data from a large-scale assessment program
 description: The general effort-measurement process is illustrated with data from a large-scale assessment program
 id: effort-process-illustrated-large-scale-assessment-data
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

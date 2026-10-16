@@ -4,7 +4,7 @@ id: the-nomads
 title: The Nomads
 description: The Nomads is a 3D mathematics game developed by Jiaqi Yu and colleagues to train adaptive expertise in rational-number arithmetic through resource management, trading, and other variable-answer tasks.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

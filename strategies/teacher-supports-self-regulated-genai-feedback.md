@@ -3,7 +3,7 @@ type: strategy
 id: teacher-supports-self-regulated-genai-feedback
 title: Teacher supports for self-regulated GenAI feedback engagement
 description: "The paper recommends concrete teacher actions to operationalise the cyclical model: 'teachers should assist students in defining their individual feedback goals before seeking feedback', teach metacognitive strategies..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

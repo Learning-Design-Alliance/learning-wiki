@@ -3,7 +3,7 @@ type: strategy
 id: fh2t-differentiation-and-content-expansion-strategy
 title: Add a gestures-teaching world to enable differentiated starting points, and expand content beyond linear equations
 description: "Educators recommended that FH2T allow differentiation \"by allowing students to start with different worlds based on the students' prior knowledge and/or the content the class is currently working on.\" The research tea..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

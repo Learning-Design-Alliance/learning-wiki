@@ -4,7 +4,7 @@ id: 360-filmmakers-challenge
 title: 360 Filmmakers Challenge
 description: A programme run through Oculus VR for Good in which young people produce 360-degree films using emerging technology, educator support, professional mentors, prompts, and an authentic audience.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

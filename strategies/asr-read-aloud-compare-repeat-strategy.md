@@ -3,7 +3,7 @@ type: strategy
 id: asr-read-aloud-compare-repeat-strategy
 title: ASR read-aloud compare-and-repeat self-study strategy for pronunciation practice
 description: A self-study routine in which learners select a sentence from a set passage, activate ASR (e.g., the microphone icon in Google Documents or the Google Translate and Papago keyboards), speak the sentence, and compare t...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

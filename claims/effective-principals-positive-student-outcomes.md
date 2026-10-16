@@ -3,7 +3,7 @@ type: claim
 title: Effective principals have positive effects on student outcomes including grades, test scores, attendance, discipline, and long-term attainment
 description: Effective principals have positive effects on student outcomes including grades, test scores, attendance, discipline, and long-term attainment
 id: effective-principals-positive-student-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

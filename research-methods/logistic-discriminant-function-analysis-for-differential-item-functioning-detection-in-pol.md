@@ -3,7 +3,7 @@ type: research-method
 id: logistic-discriminant-function-analysis-for-differential-item-functioning-detection-in-pol
 title: Logistic discriminant function analysis for differential item functioning detection in polytomously scored items
 description: "LDF is a DIF-detection method, drawn from Miller and Spray (1993), in which the probability of group membership is modeled from total score plus item score, and \"the response variable, U, need not be restricted to only two categories...but can take on any one of the J values associated with each ite"
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

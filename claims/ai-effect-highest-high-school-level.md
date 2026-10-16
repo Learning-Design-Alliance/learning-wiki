@@ -3,7 +3,7 @@ type: claim
 title: AI-supported instruction is most effective at the high school level, with between-level differences statistically significant
 description: AI-supported instruction is most effective at the high school level, with between-level differences statistically significant
 id: ai-effect-highest-high-school-level
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

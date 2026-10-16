@@ -3,7 +3,7 @@ type: design
 id: bilingual-community-outreach-assistant-element
 title: Bilingual Community Outreach Assistant (BCOA) position
 description: The BCOA was a new staff position created to promote engagement of Spanish-language-dominant parents of English learners.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

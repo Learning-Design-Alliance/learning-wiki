@@ -3,7 +3,7 @@ type: claim
 title: Lesson-plan quality grows steadily across three iterative design rounds, but no product reaches the excellent grade
 description: Lesson-plan quality grows steadily across three iterative design rounds, but no product reaches the excellent grade
 id: iterative-design-steady-growth-no-excellent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

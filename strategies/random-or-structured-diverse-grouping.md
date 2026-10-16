@@ -3,7 +3,7 @@ type: strategy
 id: random-or-structured-diverse-grouping
 title: Form diverse groups through random or structured grouping rather than student self-selection
 description: "The digest presents two basic ways to set up cooperative groups: random grouping (counting off, jigsawing cut-up pictures or worksheets, dealing cards, or colored stickers) and structured grouping, in which the teache..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

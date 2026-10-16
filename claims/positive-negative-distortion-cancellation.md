@@ -3,7 +3,7 @@ type: claim
 title: Disengagement produced both positive and negative distortion of individual student scores, which tended to cancel out much of the net distortive effect on school means
 description: Disengagement produced both positive and negative distortion of individual student scores, which tended to cancel out much of the net distortive effect on school means
 id: positive-negative-distortion-cancellation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: stemscopes-layered-professional-development
 title: Layered professional development for curriculum implementation (webinars, workshops, coaching)
 description: Implementation is supported through multiple professional development formats rather than a single training event.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

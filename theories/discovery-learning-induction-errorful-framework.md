@@ -2,7 +2,7 @@
 type: theory
 title: "Discovery learning defined by two identifying characteristics: induction and errorful learning"
 description: "Glaser's conceptual framework decomposes the label \"discovery learning\" into two analyzable processes."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

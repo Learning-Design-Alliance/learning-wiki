@@ -2,7 +2,7 @@
 type: theory
 title: Seven-element framework for effective professional development
 description: "The report organizes its professional learning analysis around seven elements that a meta-analysis by Darling-Hammond, Hyler, and Gardner (2017) identified in effective PD: content focus, active learning, collaboratio..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -50,4 +50,4 @@ The report organizes its professional learning analysis around seven elements th
 - [Design professional learning with seven research-supported features](../strategies/seven-features-effective-professional-learning.md)
 
 ## Key Sources
-- Peters, V., Means, B., Langworthy, M., Neufeld, P., Coe, R., Meehan, K., & Smith, S. (2018). Enabling Analytics for Improvement: Lessons from Year 2 of Fresno's Personalized Learning Initiative. Digital Promise. https://digitalpromise.dspacedirect.org/items/f5ad25ac-1bc9-4a05-9a4e-24c25ab19e8d
+- Peters, V., Means, B., Langworthy, M., Neufeld, P., Coe, R., Meehan, K., & Smith, S. (2018). Enabling Analytics for Improvement: Lessons from Year 2 of Fresno's Personalized Learning Initiative. Digital Promise. https://digitalpromise.dspacedirect.org/items/f5ad25ac-1bc9-4a05-9a4e-24c25ab19e8d. [doi:10.51388/20.500.12265/53](https://doi.org/10.51388/20.500.12265/53)

@@ -3,7 +3,7 @@ type: claim
 title: The Web-based learning literature supports the assumption that interaction is important for a successful online course, while questions remain about its nature, extent, and effects on performance.
 description: The Web-based learning literature supports the assumption that interaction is important for a successful online course, while questions remain about its nature, extent, and effects on performance.
 id: interaction-assumed-important-online-course-questions-remain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

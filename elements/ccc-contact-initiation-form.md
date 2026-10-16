@@ -3,7 +3,7 @@ type: element
 id: ccc-contact-initiation-form
 title: Contact Initiation Form (CIF)
 description: "The Contact Initiation Form is the entry asset of the CCC Chancellor's Office evaluation system."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

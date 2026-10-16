@@ -3,7 +3,7 @@ type: claim
 title: "The CPM definition of slope is verbose, mentioning the unit-rate essence of slope only at the end of a long paragraph, which is unlikely to enhance English Learners' access"
 description: "The CPM definition of slope is verbose, mentioning the unit-rate essence of slope only at the end of a long paragraph, which is unlikely to enhance English Learners' access"
 id: verbose-slope-definition-buries-unit-rate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

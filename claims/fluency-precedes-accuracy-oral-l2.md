@@ -3,7 +3,7 @@ type: claim
 title: Fluency can have a high effect on accuracy, whereas accuracy will not lead to fluency
 description: Fluency can have a high effect on accuracy, whereas accuracy will not lead to fluency
 id: fluency-precedes-accuracy-oral-l2
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

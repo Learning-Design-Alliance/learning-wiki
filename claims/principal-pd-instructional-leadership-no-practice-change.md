@@ -3,7 +3,7 @@ type: claim
 title: "An intensive principal professional development program did not change principals' practices in the ways intended by the program"
 description: "An intensive principal professional development program did not change principals' practices in the ways intended by the program"
 id: principal-pd-instructional-leadership-no-practice-change
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

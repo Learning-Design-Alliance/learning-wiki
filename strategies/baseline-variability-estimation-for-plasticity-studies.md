@@ -3,7 +3,7 @@ type: strategy
 id: baseline-variability-estimation-for-plasticity-studies
 title: Use dense repeated-measurement datasets to estimate baseline brain-measure variability before interpreting intervention-related plasticity
 description: The authors recommend using dense longitudinal MRI datasets to estimate the baseline variability of brain parameters so that plastic changes observed in intervention studies can be compared against naturally occurring...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

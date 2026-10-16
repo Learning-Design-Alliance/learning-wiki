@@ -3,7 +3,7 @@ type: claim
 title: The four lessons rated highest on both student explanations and agency, authority, and identity featured Math Talks, but their strongest features often ended when the Math Talks did
 description: The four lessons rated highest on both student explanations and agency, authority, and identity featured Math Talks, but their strongest features often ended when the Math Talks did
 id: math-talks-support-explanations-agency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

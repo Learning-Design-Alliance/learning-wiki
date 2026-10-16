@@ -3,7 +3,7 @@ type: claim
 title: The article is situated within research on self-regulated learning strategies in educational contexts
 description: The article is situated within research on self-regulated learning strategies in educational contexts
 id: self-regulated-learning-strategies-educational-contexts-veenman-2006
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

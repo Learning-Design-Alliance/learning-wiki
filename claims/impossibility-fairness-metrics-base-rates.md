@@ -3,7 +3,7 @@ type: claim
 title: When demographic groups have different base rates, no method can satisfy calibration, equalized odds, and statistical parity simultaneously
 description: When demographic groups have different base rates, no method can satisfy calibration, equalized odds, and statistical parity simultaneously
 id: impossibility-fairness-metrics-base-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

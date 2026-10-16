@@ -3,7 +3,7 @@ type: claim
 title: AlgoRAG answered all 179 TCS exam-style questions successfully with a mean response time of 38.0 seconds and a pedagogical quality score of 0.7620
 description: AlgoRAG answered all 179 TCS exam-style questions successfully with a mean response time of 38.0 seconds and a pedagogical quality score of 0.7620
 id: algorag-100-success-179-tcs-questions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

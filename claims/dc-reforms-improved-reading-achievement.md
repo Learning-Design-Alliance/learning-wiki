@@ -3,7 +3,7 @@ type: claim
 title: The 2007 DC school reforms improved student learning in reading, per testimony based on NAEP data through 2017
 description: The 2007 DC school reforms improved student learning in reading, per testimony based on NAEP data through 2017
 id: dc-reforms-improved-reading-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

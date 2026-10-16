@@ -3,7 +3,7 @@ type: claim
 title: "Profile sizes: 29.4% low, 41.2% moderate, and 29.4% high academic self-efficacy among students with motor disabilities"
 description: "Profile sizes: 29.4% low, 41.2% moderate, and 29.4% high academic self-efficacy among students with motor disabilities"
 id: self-efficacy-profile-distribution-102-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

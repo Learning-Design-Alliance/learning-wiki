@@ -3,7 +3,7 @@ type: strategy
 id: cross-source-app-search-strategy
 title: "Parents and educators should search multiple sources — app stores, expert review sites, and producers' websites — when selecting literacy apps"
 description: "Because information posted about apps is inconsistent and different sites promote different apps, the report advises that \"parents and educators need to do some extra legwork to identify quality language- and literacy..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

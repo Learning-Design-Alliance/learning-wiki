@@ -3,7 +3,7 @@ type: claim
 title: Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer
 description: Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer
 id: resource-mismatch-and-support-discontinuity-constrain-transfer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

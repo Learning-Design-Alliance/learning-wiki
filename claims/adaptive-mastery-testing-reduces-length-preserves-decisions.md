@@ -3,7 +3,7 @@ type: claim
 title: "An adaptive mastery testing strategy reduces test length by 30% to 81% while reaching the same mastery decision as the conventional test for 96% of trainees"
 description: "An adaptive mastery testing strategy reduces test length by 30% to 81% while reaching the same mastery decision as the conventional test for 96% of trainees"
 id: adaptive-mastery-testing-reduces-length-preserves-decisions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

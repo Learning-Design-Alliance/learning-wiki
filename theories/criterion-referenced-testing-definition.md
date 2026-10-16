@@ -2,7 +2,7 @@
 type: theory
 title: "Criterion-referenced testing: tests deliberately constructed so scores tell what behaviors individuals can demonstrate"
 description: "The paper defines criterion-referenced testing as an approach whose tests are \"deliberately constructed to give scores that tell what kinds of behavior individuals with those scores can demonstrate\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

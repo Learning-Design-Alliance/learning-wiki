@@ -3,7 +3,7 @@ type: claim
 title: Dewey grounds morality in everyday problems, making administrative practice chiefly an ethical undertaking resolved by reflective appraisal of competing values
 description: Dewey grounds morality in everyday problems, making administrative practice chiefly an ethical undertaking resolved by reflective appraisal of competing values
 id: dewey-morality-in-everyday-problems
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Exploratory ANCOVA controlling for mastery probability favored the adaptive condition, but is not interpretable as a causal treatment effect
 description: Exploratory ANCOVA controlling for mastery probability favored the adaptive condition, but is not interpretable as a causal treatment effect
 id: mastery-probability-covariate-ancova-favors-adaptive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

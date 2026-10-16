@@ -3,7 +3,7 @@ type: claim
 title: "The sycophancy-focused intervention significantly reduced the assistant's positional mirroring of incorrect user rankings and rank-order alignment"
 description: "The sycophancy-focused intervention significantly reduced the assistant's positional mirroring of incorrect user rankings and rank-order alignment"
 id: intervention-reduced-positional-mimicry
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

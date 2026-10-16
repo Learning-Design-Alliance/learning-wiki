@@ -3,7 +3,7 @@ type: claim
 title: AI availability led some students to question the long-term value of programming skills, while others saw programming as equally or more valuable
 description: AI availability led some students to question the long-term value of programming skills, while others saw programming as equally or more valuable
 id: ai-availability-questions-programming-skill-utility
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

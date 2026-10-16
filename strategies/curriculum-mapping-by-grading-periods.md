@@ -3,7 +3,7 @@ type: strategy
 id: curriculum-mapping-by-grading-periods
 title: Map the curriculum by grading periods to eliminate gaps and redundancy and enable interdisciplinary planning
 description: The authors use a modified curriculum-mapping process in which subject-area committees identify their purpose in terms of the board design, their standards, and how the area teaches general learning skills, then outli...
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

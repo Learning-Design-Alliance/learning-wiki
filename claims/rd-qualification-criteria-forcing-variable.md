@@ -3,7 +3,7 @@ type: claim
 title: A study qualifies as an RD design only if assignment uses an ordinal forcing variable with at least four unique values on each side of the cutoff and no confounding factor
 description: A study qualifies as an RD design only if assignment uses an ordinal forcing variable with at least four unique values on each side of the cutoff and no confounding factor
 id: rd-qualification-criteria-forcing-variable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

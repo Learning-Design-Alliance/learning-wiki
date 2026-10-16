@@ -3,7 +3,7 @@ type: strategy
 id: practice-rounds-dual-extraction-consensus
 title: Use practice rounds with independent dual extraction and third-reviewer consensus to strengthen data extraction consistency
 description: "To strengthen consensus in data extraction, the team \"first conducted practice rounds in which multiple researchers independently extracted data from a set of articles, followed by structured discussions to reconcile..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

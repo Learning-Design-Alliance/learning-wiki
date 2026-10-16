@@ -3,7 +3,7 @@ type: strategy
 id: three-state-approaches-community-schools-support
 title: "Three state approaches to supporting community schools: ongoing school funding formula allocations, competitive grant funding, and capacity-building supports"
 description: "The report highlights \"three potential approaches to state support for community schools: (1) ongoing support through school funding formulas, (2) competitive grant funding, and (3) capacity-building supports (such as..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

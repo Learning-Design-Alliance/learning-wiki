@@ -3,7 +3,7 @@ type: claim
 title: Implementing ASSISTments above business-as-usual cost about $207,794 across the study, or about $46.23 per student
 description: Implementing ASSISTments above business-as-usual cost about $207,794 across the study, or about $46.23 per student
 id: assistments-incremental-cost-46-per-student
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

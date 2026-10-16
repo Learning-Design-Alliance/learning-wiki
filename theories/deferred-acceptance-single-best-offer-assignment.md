@@ -2,7 +2,7 @@
 type: theory
 title: Deferred acceptance assignment with strategy-proof ranking
 description: "GoCPS assigns students via a deferred acceptance process: each student is temporarily placed in their top-ranked program, programs order eligible applicants by priority group and then lottery number or application sco..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

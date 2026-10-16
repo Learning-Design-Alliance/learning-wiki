@@ -3,7 +3,7 @@ type: claim
 title: Habitual self-formative dialogue with a synthetic position tends to absorb the integrative authorship of the meta- and promoter positions (synthetic promotion)
 description: Habitual self-formative dialogue with a synthetic position tends to absorb the integrative authorship of the meta- and promoter positions (synthetic promotion)
 id: synthetic-promotion-cedes-promoter-function
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

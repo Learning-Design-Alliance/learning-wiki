@@ -3,7 +3,7 @@ type: strategy
 id: explicit-reading-strategy-instruction-steps
 title: "Explicit reading strategy instruction following the WWW&H rule: explain, model, and support strategy implementation with guided practice"
 description: "The article describes explicit instruction as teaching where \"the teacher clearly teaches students about a strategy by explaining and demonstrating how to implement a particular strategy, explaining the benefits of st..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

@@ -3,7 +3,7 @@ type: claim
 title: In CPS ninth-grade math sections using mastery-based or weekly grading, those categories determined nearly all of the final grade; otherwise assessments carried the highest weight, with a median of 60 percent exceeding the CPS/CTU 50 percent recommendation
 description: In CPS ninth-grade math sections using mastery-based or weekly grading, those categories determined nearly all of the final grade; otherwise assessments carried the highest weight, with a median of 60 percent exceedin...
 id: cps-gradebook-category-weights-assessments-dominate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

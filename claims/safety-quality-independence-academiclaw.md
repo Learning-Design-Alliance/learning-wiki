@@ -3,7 +3,7 @@ type: claim
 title: Safety and task quality are largely independent across models, implying safety guardrails impose no measurable performance tax
 description: Safety and task quality are largely independent across models, implying safety guardrails impose no measurable performance tax
 id: safety-quality-independence-academiclaw
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

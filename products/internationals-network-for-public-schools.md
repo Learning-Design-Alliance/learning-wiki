@@ -4,7 +4,7 @@ id: internationals-network-for-public-schools
 title: Internationals Network for Public Schools
 description: The Internationals Network for Public Schools framework guides a network of schools serving recent immigrant and English-learner students through five principles covering collaboration, experiential learning, language–content integration, local autonomy, and a common learning model.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

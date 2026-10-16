@@ -2,7 +2,7 @@
 type: theory
 title: "Technology-as-amplifier: learning technology intensifies and scales the impacts of design tradeoffs in either direction"
 description: "The report's central framing metaphor holds that technology amplifies whatever design choices surround it: \"learning technology can take an aspect of a learning process and emphasize it, refine it, intensify it, and s..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -49,4 +49,4 @@ The report's central framing metaphor holds that technology amplifies whatever d
 - [Position AI as an instrumental adjunct that amplifies, rather than attenuates, students' direct experiential engagement](../strategies/ai-as-instrumental-adjunct-not-cognitive-surrogate.md)
 
 ## Key Sources
-- Roschelle, J., Lester, J. & Fusco, J. (Eds.) (2020). AI and the future of learning: Expert panel report [Report]. Digital Promise. https://circls.org/reports/ai-report
+- Roschelle, J., Lester, J. & Fusco, J. (Eds.) (2020). AI and the future of learning: Expert panel report [Report]. Digital Promise. https://circls.org/reports/ai-report. [doi:10.51388/20.500.12265/106](https://doi.org/10.51388/20.500.12265/106)

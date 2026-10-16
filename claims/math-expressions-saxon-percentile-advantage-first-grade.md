@@ -3,7 +3,7 @@ type: claim
 title: Math Expressions and Saxon Math raise first-grade math percentile rank 9 to 12 points more than Investigations and SFAW
 description: Math Expressions and Saxon Math raise first-grade math percentile rank 9 to 12 points more than Investigations and SFAW
 id: math-expressions-saxon-percentile-advantage-first-grade
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

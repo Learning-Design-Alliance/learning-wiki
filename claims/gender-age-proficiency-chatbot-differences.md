@@ -3,7 +3,7 @@ type: claim
 title: Gender, age and English proficiency show nuanced group differences in chatbot attitudes and concerns
 description: Gender, age and English proficiency show nuanced group differences in chatbot attitudes and concerns
 id: gender-age-proficiency-chatbot-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -78,3 +78,4 @@ Age ANOVA on concern about being accused of breaching academic integrity (F = 2.
 - [Chatbot design carries a documented female-by-default gender bias](chatbot-female-default-gender-bias.md) — related
 - [LLM learners are younger, more likely male, and score higher on technology affinity than non-learners](llm-learners-younger-male-higher-tech-affinity.md) — related
 - [No statistically significant gender differences in perceived learning outcomes across any dimension among higher vocational students](no-gender-differences-perceived-learning-outcomes-vocational.md) — related
+- [Male and female students used ChatGPT differently: females used it more frequently and for questions, males more sporadically and to check answers](gender-differences-chatgpt-use-patterns.md) — related

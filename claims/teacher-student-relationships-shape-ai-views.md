@@ -3,7 +3,7 @@ type: claim
 title: How students and teachers want to interact with classroom AI largely depends on the teacher-student relationships that exist outside of AI use
 description: How students and teachers want to interact with classroom AI largely depends on the teacher-student relationships that exist outside of AI use
 id: teacher-student-relationships-shape-ai-views
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

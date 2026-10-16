@@ -3,7 +3,7 @@ type: claim
 title: Taking a course online instead of in person reduces student success and progress in college
 description: Taking a course online instead of in person reduces student success and progress in college
 id: online-course-taking-reduces-college-success
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

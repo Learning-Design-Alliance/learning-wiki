@@ -3,7 +3,7 @@ type: claim
 title: Academics who never use AI report higher guilt than users, with significant differences on anticipated remorse and research-writing guilt
 description: Academics who never use AI report higher guilt than users, with significant differences on anticipated remorse and research-writing guilt
 id: ai-non-users-report-higher-guilt-than-users
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

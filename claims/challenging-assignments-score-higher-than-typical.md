@@ -3,7 +3,7 @@ type: claim
 title: Assignments teachers designated as challenging tended to score higher on intellectual quality than typical assignments
 description: Assignments teachers designated as challenging tended to score higher on intellectual quality than typical assignments
 id: challenging-assignments-score-higher-than-typical
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

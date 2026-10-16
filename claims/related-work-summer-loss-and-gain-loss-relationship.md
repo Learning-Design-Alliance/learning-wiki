@@ -3,7 +3,7 @@ type: claim
 title: The research program includes related work on summer learning loss and the relationship between school-year gains and summer loss
 description: The research program includes related work on summer learning loss and the relationship between school-year gains and summer loss
 id: related-work-summer-loss-and-gain-loss-relationship
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

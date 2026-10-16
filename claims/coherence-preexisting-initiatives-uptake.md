@@ -3,7 +3,7 @@ type: claim
 title: Coherence with preexisting initiatives made relationship-centered change more readily embraced
 description: Coherence with preexisting initiatives made relationship-centered change more readily embraced
 id: coherence-preexisting-initiatives-uptake
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

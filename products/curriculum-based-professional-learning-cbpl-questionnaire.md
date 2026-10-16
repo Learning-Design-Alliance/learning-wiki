@@ -4,7 +4,7 @@ id: curriculum-based-professional-learning-cbpl-questionnaire
 title: Curriculum-Based Professional Learning (CBPL) Questionnaire
 description: The Curriculum-Based Professional Learning (CBPL) Questionnaire is a survey instrument for districts and schools to characterize professional-learning structures, CBPL features, and implementation of high-quality instructional materials; its maker is not identified in the page description.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: institutional-support-genai-tpk-development
 title: "Institutional and professional support for teacher educators' GenAI-specific TPK through practical training, policy clarity, and ethical guidelines"
 description: The review recommends that teacher educators be supported institutionally and professionally through practical training, clear policies, and ethical guidelines for GenAI adoption.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

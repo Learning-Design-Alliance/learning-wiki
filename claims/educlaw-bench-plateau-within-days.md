@@ -3,7 +3,7 @@ type: claim
 title: Almost no model-and-harness combination sustains tutoring over the full 30-day horizon, as learning plateaus within 5–10 days
 description: Almost no model-and-harness combination sustains tutoring over the full 30-day horizon, as learning plateaus within 5–10 days
 id: educlaw-bench-plateau-within-days
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -18,8 +18,8 @@ sources:
     kind: design
     rigour: 2
   - id: lee-2026-2
-    resource: "https://arxiv.org/abs/2608.03206"
-    title: "Lee, U.; Lee, S.; Jeong, Y.; Lee, E.; Shin, M.; Kwon, H. (2026). EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners. https://arxiv.org/abs/2608.03206"
+    resource: "https://doi.org/10.48550/arxiv.2608.03206"
+    title: "Lee, U.; Lee, S.; Jeong, Y.; Lee, E.; Shin, M.; Kwon, H. (2026). EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners. https://arxiv.org/abs/2608.03206. [doi:10.48550/arxiv.2608.03206](https://doi.org/10.48550/arxiv.2608.03206)"
     author: Lee, U.; Lee, S.; Jeong, Y.; Lee, E.; Shin, M.; Kwon, H.
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Almost no model-and-harness combination sustains tutoring over the full 30-day horizon, as learning plateaus within 5–10 days
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Every agent plateaus in per-day student accuracy within 5–10 virtual days far below the ideal-learning reference, so almost no combination converts the full 30 days into sustained gain. [→ Lee 2026](#lee-2026)
@@ -50,7 +50,7 @@ Per-day student accuracy trajectories over 30 virtual days on the Codex tier wit
 
 ### Lee 2026 (2)
 
-Lee, U.; Lee, S.; Jeong, Y.; Lee, E.; Shin, M.; Kwon, H. (2026). EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners. https://arxiv.org/abs/2608.03206
+Lee, U.; Lee, S.; Jeong, Y.; Lee, E.; Shin, M.; Kwon, H. (2026). EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners. https://arxiv.org/abs/2608.03206. [doi:10.48550/arxiv.2608.03206](https://doi.org/10.48550/arxiv.2608.03206)
 
 `q2 · i?` · `design · r2`
 

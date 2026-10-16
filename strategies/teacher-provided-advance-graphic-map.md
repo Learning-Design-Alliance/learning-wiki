@@ -3,7 +3,7 @@ type: strategy
 id: teacher-provided-advance-graphic-map
 title: Teacher-provided graphic map as review
 description: "The instructor supplies a completed graphic map of key concepts and interrelationships as a review of content, conveying the expert's knowledge structure directly to learners."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

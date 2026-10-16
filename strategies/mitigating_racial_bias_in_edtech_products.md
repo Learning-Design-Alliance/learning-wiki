@@ -80,7 +80,7 @@ Bias in educational AI is well documented: automated systems can encode racial d
 
 ## Examples
 - **Gender Shades (Buolamwini & Gebru, 2018)** — the canonical demonstration that commercial facial analysis systems showed far higher error rates for darker-skinned women than lighter-skinned men; it established subgroup testing as standard practice and is directly relevant to face-based proctoring and identity tools in edtech.
-- **AI in Education Toolkit for Racial Equity** — provides stage-by-stage actions for edtech teams: examining data, assumptions, and algorithmic design, with the explicit stance of designing for Black and Brown students' success.
+- **[AI in Education Toolkit for Racial Equity](ai_in_education_toolkit_for_racial_equity.md)** — provides stage-by-stage actions for edtech teams: examining data, assumptions, and algorithmic design, with the explicit stance of designing for Black and Brown students' success.
 - **Proctoring software reviews** — remote proctoring tools have faced documented complaints that face-detection and gaze-tracking fail more often for students with darker skin tones, prompting districts to require vendor subgroup performance data before procurement.
 
 ## Key Sources

@@ -3,7 +3,7 @@ type: claim
 title: School districts that rely more heavily on state revenue experience more revenue volatility, and 24 states received at least half their revenue from state sources in 2019-20
 description: School districts that rely more heavily on state revenue experience more revenue volatility, and 24 states received at least half their revenue from state sources in 2019-20
 id: state-revenue-reliance-increases-volatility
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

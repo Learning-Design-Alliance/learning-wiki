@@ -3,7 +3,7 @@ type: claim
 title: Per-question pre/post analysis showed significant improvement on almost all questions, with Q1 (DBMS use) and Q4 (basic normalization) as exceptions due to high pre-test scores
 description: Per-question pre/post analysis showed significant improvement on almost all questions, with Q1 (DBMS use) and Q4 (basic normalization) as exceptions due to high pre-test scores
 id: per-question-prepost-gains-five-of-seven
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

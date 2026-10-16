@@ -3,7 +3,7 @@ type: claim
 title: Engaging students in defining new words during or after reading a text is among the practices most consistently related to student growth in language and comprehension
 description: Engaging students in defining new words during or after reading a text is among the practices most consistently related to student growth in language and comprehension
 id: word-defining-during-after-reading-related-to-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

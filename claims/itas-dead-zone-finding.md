@@ -3,7 +3,7 @@ type: claim
 title: The analytics agent surfaced a Module 2 dead zone — students stopping around the 42-minute lecture mark where exercises ended — and the instructor revised the exercise set in response
 description: The analytics agent surfaced a Module 2 dead zone — students stopping around the 42-minute lecture mark where exercises ended — and the instructor revised the exercise set in response
 id: itas-dead-zone-finding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

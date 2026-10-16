@@ -3,7 +3,7 @@ type: claim
 title: "CAI-in-education research shows a framework gap: no end-to-end design guidance, weak CAI-specific usability methods, unclear pedagogical guidance, and limited AI literacy support"
 description: "CAI-in-education research shows a framework gap: no end-to-end design guidance, weak CAI-specific usability methods, unclear pedagogical guidance, and limited AI literacy support"
 id: cai-framework-gaps-design-guidance-usability-ai-literacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

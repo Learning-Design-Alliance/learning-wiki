@@ -3,7 +3,7 @@ type: claim
 title: Digital transformation permeates all levels of the education system as an interdependent structure
 description: Digital transformation permeates all levels of the education system as an interdependent structure
 id: digital-transformation-interdependent-multi-level-structure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

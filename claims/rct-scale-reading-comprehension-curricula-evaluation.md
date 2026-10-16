@@ -3,7 +3,7 @@ type: claim
 title: The evaluation was a large-scale randomized control trial spanning 268 teachers, 6,350 students, 89 schools, 10 districts, and 8 states
 description: The evaluation was a large-scale randomized control trial spanning 268 teachers, 6,350 students, 89 schools, 10 districts, and 8 states
 id: rct-scale-reading-comprehension-curricula-evaluation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: theory
 id: lica-guiding-precepts
 title: Ten guiding precepts for school-wide languaging-oriented reading programs
 description: "The LICA thesis embraces instruction, learning, school-wide programming and social/community concerns, and the authors state \"Ten of the most fundamental\" recurring themes or guiding precepts."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

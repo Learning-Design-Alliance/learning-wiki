@@ -3,7 +3,7 @@ type: strategy
 id: study-sustaining-and-beat-the-odds-schools-strategy
 title: Investigate schools that sustain outperformance or beat the odds using qualitative methods and engagement data to identify amenable growth factors
 description: "The authors propose a forward-looking research strategy: add Grade 3 data, then study two types of schools — those maintaining the outperforming status and those beating the odds — to formulate hypotheses about change..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

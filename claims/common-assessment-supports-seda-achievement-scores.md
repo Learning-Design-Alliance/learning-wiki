@@ -3,7 +3,7 @@ type: claim
 title: Validation research via a common assessment supports SEDA achievement scores
 description: Validation research via a common assessment supports SEDA achievement scores
 id: common-assessment-supports-seda-achievement-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

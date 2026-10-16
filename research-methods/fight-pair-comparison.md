@@ -3,7 +3,7 @@ type: research-method
 id: fight-pair-comparison
 title: Fight-pair comparison
 description: "The article's methodological framework is a within-pair comparison design: rather than comparing discipline outcomes across schools or students generally, it compares the punishments given to the two participants in the same fight, one Black or poor and one White or nonpoor."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

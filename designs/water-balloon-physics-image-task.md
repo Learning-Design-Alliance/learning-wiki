@@ -3,7 +3,7 @@ type: design
 id: water-balloon-physics-image-task
 title: Water Balloon Physics Image Require-GenAI task
 description: "A second Require-GenAI task in which GenAI has a dual role: \"it is simultaneously the source of the artifact being analyzed and the tool students use to correct it.\" Students receive a GenAI-generated image of a child..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11
@@ -45,4 +45,4 @@ A second Require-GenAI task in which GenAI has a dual role: "it is simultaneousl
 -
 
 ## Key Sources
-- Gao, Y., Chen, Z., Li, M., & Zhai, X. (2026). Generative AI as a Design Variable: An Evidence-Centered Framework for Principled Governance in STEM Assessment.
+- Gao, Y., Chen, Z., Li, M., & Zhai, X. (2026). Generative AI as a Design Variable: An Evidence-Centered Framework for Principled Governance in STEM Assessment. [doi:10.48550/arxiv.2605.24837](https://doi.org/10.48550/arxiv.2605.24837)

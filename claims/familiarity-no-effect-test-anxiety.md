@@ -3,7 +3,7 @@ type: claim
 title: Familiarity with online and proctored exams, approximated by exam quartile, shows no effect on test anxiety
 description: Familiarity with online and proctored exams, approximated by exam quartile, shows no effect on test anxiety
 id: familiarity-no-effect-test-anxiety
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

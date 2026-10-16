@@ -3,7 +3,7 @@ type: claim
 title: Teach For America teachers had no impacts on other outcomes such as attendance, promotion, or disciplinary incidents
 description: Teach For America teachers had no impacts on other outcomes such as attendance, promotion, or disciplinary incidents
 id: tfa-no-impacts-attendance-promotion-discipline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

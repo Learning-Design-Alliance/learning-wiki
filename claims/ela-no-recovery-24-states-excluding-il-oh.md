@@ -3,7 +3,7 @@ type: claim
 title: After excluding Illinois and Ohio, ELA scores showed essentially no recovery from 2022 to 2023 in the remaining 24 ERS states
 description: After excluding Illinois and Ohio, ELA scores showed essentially no recovery from 2022 to 2023 in the remaining 24 ERS states
 id: ela-no-recovery-24-states-excluding-il-oh
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Leave-one-out sensitivity analysis confirms the pooled productivity effect is robust (g = 0.24–0.38, all p < 0.05), with two studies (P002, P004) exerting disproportionate influence.
 description: Leave-one-out sensitivity analysis confirms the pooled productivity effect is robust (g = 0.24–0.38, all p < 0.05), with two studies (P002, P004) exerting disproportionate influence.
 id: leave-one-out-productivity-robustness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

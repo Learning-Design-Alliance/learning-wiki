@@ -3,7 +3,7 @@ type: claim
 title: "Micro-credentials incorporate prominent features of effective professional development: they are content-focused, job-embedded, and incorporate active learning"
 description: "Micro-credentials incorporate prominent features of effective professional development: they are content-focused, job-embedded, and incorporate active learning"
 id: micro-credentials-features-of-effective-professional-development
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

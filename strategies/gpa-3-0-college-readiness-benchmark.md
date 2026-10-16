@@ -3,7 +3,7 @@ type: strategy
 id: gpa-3-0-college-readiness-benchmark
 title: Use an unweighted GPA of 3.0 as a college readiness benchmark signaling a high probability of four-year college graduation
 description: "The article recommends that high schools and districts treat an unweighted GPA of 3.0 as a validated readiness standard: \"a cutoff that gave students a 50 percent or greater likelihood of graduating from a four-year c..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

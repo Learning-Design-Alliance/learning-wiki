@@ -3,7 +3,7 @@ type: strategy
 id: praxis-future-evaluation-sequence
 title: Sequence future adult-learning evaluation from usability observation to assistance-condition comparison with supervised independent assessment
 description: "The report recommends that a future adult-learning study \"should first examine whether the workflow is understandable and usable in the intended course\", distinguishing interface difficulties from workplace-problem di..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

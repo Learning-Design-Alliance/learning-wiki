@@ -3,7 +3,7 @@ type: claim
 title: Districts serving higher shares of Black, Hispanic/Latino, and economically disadvantaged students had significantly lower teacher certification rates
 description: Districts serving higher shares of Black, Hispanic/Latino, and economically disadvantaged students had significantly lower teacher certification rates
 id: demographic-disparities-certification-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

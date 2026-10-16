@@ -3,7 +3,7 @@ type: claim
 title: High-poverty schools are overrepresented among closed schools across the study period
 description: High-poverty schools are overrepresented among closed schools across the study period
 id: high-poverty-schools-overrepresented-closures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

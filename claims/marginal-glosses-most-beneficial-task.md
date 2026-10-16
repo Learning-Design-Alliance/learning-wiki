@@ -3,7 +3,7 @@ type: claim
 title: Reading with marginal glosses is the most beneficial task condition for incidental vocabulary acquisition gains
 description: Reading with marginal glosses is the most beneficial task condition for incidental vocabulary acquisition gains
 id: marginal-glosses-most-beneficial-task
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

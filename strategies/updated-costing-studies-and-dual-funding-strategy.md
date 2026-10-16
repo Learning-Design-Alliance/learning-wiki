@@ -3,7 +3,7 @@ type: strategy
 id: updated-costing-studies-and-dual-funding-strategy
 title: States should undertake updated costing studies and consider dual funding to meet the needs of EL and low-income students
 description: The report recommends that state policymakers assessing funding adequacy commission updated costing studies and consider dual funding.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

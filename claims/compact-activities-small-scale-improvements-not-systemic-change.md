@@ -3,7 +3,7 @@ type: claim
 title: Compact collaboration activities did not yield systemic change within the grant period but were perceived to have produced small-scale improvements in instructional quality and human capital practices and increased availability of school effectiveness information
 description: Compact collaboration activities did not yield systemic change within the grant period but were perceived to have produced small-scale improvements in instructional quality and human capital practices and increased av...
 id: compact-activities-small-scale-improvements-not-systemic-change
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

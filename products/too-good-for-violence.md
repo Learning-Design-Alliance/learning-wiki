@@ -4,7 +4,7 @@ id: too-good-for-violence
 title: Too Good for Violence
 description: A scripted K–8 school-based character-education curriculum developed by the Mendez Foundation, using role-playing, cooperative learning, group activities, and classroom discussions to promote character values and social-emotional skills.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

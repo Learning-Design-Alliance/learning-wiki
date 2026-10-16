@@ -3,7 +3,7 @@ type: claim
 title: The brief reports that online tools can engage prospective adult learners and make enrollment convenient given work and family demands
 description: The brief reports that online tools can engage prospective adult learners and make enrollment convenient given work and family demands
 id: online-tools-convenient-enrollment-adult-learners
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

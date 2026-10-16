@@ -3,7 +3,7 @@ type: claim
 title: Heterogeneously grouped teams show more benefits than homogeneously formed teams
 description: Heterogeneously grouped teams show more benefits than homogeneously formed teams
 id: heterogeneous-teams-more-benefits-than-homogeneous
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

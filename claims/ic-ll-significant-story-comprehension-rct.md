@@ -3,7 +3,7 @@ type: claim
 title: Instructional Conversations and Literature Logs produce statistically significant positive effects on factual and interpretive story comprehension in a short-term randomized trial with English language learners
 description: Instructional Conversations and Literature Logs produce statistically significant positive effects on factual and interpretive story comprehension in a short-term randomized trial with English language learners
 id: ic-ll-significant-story-comprehension-rct
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

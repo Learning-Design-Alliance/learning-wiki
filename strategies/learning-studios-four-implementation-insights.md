@@ -3,7 +3,7 @@ type: strategy
 id: learning-studios-four-implementation-insights
 title: "Four implementation insights for design-centered learning programs: time with technology, extended professional development, intentional instruction, and starting small"
 description: The report distills its exploratory findings into four recommendations for future Learning Studio implementations.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

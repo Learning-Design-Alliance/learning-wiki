@@ -3,7 +3,7 @@ type: claim
 title: A teacher whose home culture was excluded from school brought her home culture into her teaching so students could express and maintain their identities
 description: A teacher whose home culture was excluded from school brought her home culture into her teaching so students could express and maintain their identities
 id: teacher-brings-home-culture-into-teaching
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: Fine-tuned PLMs measure high-inference teaching practices better when the variable requires less pedagogical expertise, matching human-rater agreement on lexical variables but degrading on inference-heavy ones
 description: Fine-tuned PLMs measure high-inference teaching practices better when the variable requires less pedagogical expertise, matching human-rater agreement on lexical variables but degrading on inference-heavy ones
 id: plm-performance-depends-on-pedagogical-expertise-required
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

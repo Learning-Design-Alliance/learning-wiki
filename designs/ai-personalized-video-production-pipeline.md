@@ -3,7 +3,7 @@ type: design
 id: ai-personalized-video-production-pipeline
 title: Human-supervised AI video production pipeline for personalized instructional videos
 description: "A custom software pipeline produced 300 AI-generated personalized videos (100 topics × three interest variants: business, technology, society/biology) for a large online undergraduate course."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

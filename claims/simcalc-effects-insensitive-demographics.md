@@ -3,7 +3,7 @@ type: claim
 title: "SimCalc treatment effects were not sensitive to school socioeconomic status or percentage of Hispanic students, and 91% of 7th-grade treatment classrooms exceeded the control-group mean gain"
 description: "SimCalc treatment effects were not sensitive to school socioeconomic status or percentage of Hispanic students, and 91% of 7th-grade treatment classrooms exceeded the control-group mean gain"
 id: simcalc-effects-insensitive-demographics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

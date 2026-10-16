@@ -3,7 +3,7 @@ type: claim
 title: "Neighborhood poverty concentration and parental press for academic achievement each had negative effects on students' civic commitments"
 description: "Neighborhood poverty concentration and parental press for academic achievement each had negative effects on students' civic commitments"
 id: poverty-concentration-and-parental-academic-press-negative-civic-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

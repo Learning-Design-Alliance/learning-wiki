@@ -3,7 +3,7 @@ type: claim
 title: "Using Colorado Growth Model growth percentiles in place of value added would have altered evaluation consequences for 14% of DCPS teachers"
 description: "Using Colorado Growth Model growth percentiles in place of value added would have altered evaluation consequences for 14% of DCPS teachers"
 id: cgm-versus-value-added-changed-evaluation-14-percent-dcps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

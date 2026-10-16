@@ -3,7 +3,7 @@ type: claim
 title: Idaho charter school students show stronger reading growth than matched TPS peers, with no significant difference in math growth
 description: Idaho charter school students show stronger reading growth than matched TPS peers, with no significant difference in math growth
 id: idaho-charter-reading-advantage-math-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Learning deficits during the pandemic are larger in maths than in reading
 description: Learning deficits during the pandemic are larger in maths than in reading
 id: covid-deficits-larger-maths-than-reading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

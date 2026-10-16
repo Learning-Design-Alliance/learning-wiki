@@ -3,7 +3,7 @@ type: claim
 title: Newark magnet school special education students showed large above-state-average math growth in 2018-19
 description: Newark magnet school special education students showed large above-state-average math growth in 2018-19
 id: newark-magnet-special-ed-math-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

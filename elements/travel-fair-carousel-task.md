@@ -3,7 +3,7 @@ type: element
 id: travel-fair-carousel-task
 title: "Travel fair carousel task: pairs present a destination to rotating visitors across immediate repetition cycles"
 description: Adapted from Lynch and Maclean (2001), pairs act as travel consultants persuading visitors to visit a chosen destination.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

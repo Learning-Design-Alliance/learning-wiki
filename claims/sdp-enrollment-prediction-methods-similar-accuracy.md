@@ -3,7 +3,7 @@ type: claim
 title: Four statistical techniques for predicting school-by-grade fall enrollment in SDP differ little in accuracy, with predicted cohort size off by roughly six students across all methods
 description: Four statistical techniques for predicting school-by-grade fall enrollment in SDP differ little in accuracy, with predicted cohort size off by roughly six students across all methods
 id: sdp-enrollment-prediction-methods-similar-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: A formative study with 7 students and 3 instructors identified five key challenges impeding exploratory learning in existing supply chain simulations.
 description: A formative study with 7 students and 3 instructors identified five key challenges impeding exploratory learning in existing supply chain simulations.
 id: five-barriers-exploratory-scm-simulation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

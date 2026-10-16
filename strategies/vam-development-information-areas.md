@@ -3,7 +3,7 @@ type: strategy
 id: vam-development-information-areas
 title: Organize VAM development information around data elements, modeling considerations, role-specific features, and implementation features
 description: "The report structures the information needed to develop a value-added evaluation system into four areas: \"typical data elements, important modeling considerations, features specific to teachers or principals, and broa..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

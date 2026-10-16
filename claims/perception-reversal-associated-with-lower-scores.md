@@ -3,7 +3,7 @@ type: claim
 title: Teams whose perception of who uses more AI reversed between t1 and t3 achieved lower scores than teams with stable perceptions
 description: Teams whose perception of who uses more AI reversed between t1 and t3 achieved lower scores than teams with stable perceptions
 id: perception-reversal-associated-with-lower-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

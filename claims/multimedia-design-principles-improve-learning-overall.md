@@ -3,7 +3,7 @@ type: claim
 title: "Multimedia design principles improve learning by g = 0.38 on average across the 11 largest reviews, an effect the authors call moderate, with large differences between principles"
 description: "Multimedia design principles improve learning by g = 0.38 on average across the 11 largest reviews, an effect the authors call moderate, with large differences between principles"
 id: multimedia-design-principles-improve-learning-overall
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

@@ -3,7 +3,7 @@ type: strategy
 id: survey-learners-devices-and-home-access
 title: Survey adult learners about devices and home access before choosing instructional technology
 description: "Briya's Digital Literacy Coordinator surveys adult learners each year \"to determine the access and devices they have at home,\" finding most have a tablet and/or smartphone."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

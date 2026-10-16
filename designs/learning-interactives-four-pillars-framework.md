@@ -3,7 +3,7 @@ type: design
 id: learning-interactives-four-pillars-framework
 title: "Four-pillar conceptual framework for tailoring generative UI to learning: curriculum alignment, agency and motivation, guidance and scaffolding, formative feedback"
 description: "The article develops a conceptual framework of four pillars for tailoring generative interfaces to learning: \"curriculum alignment; agency and motivation; guidance and scaffolding; formative feedback.\" Each pillar is..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

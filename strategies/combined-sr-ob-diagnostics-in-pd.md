@@ -3,7 +3,7 @@ type: strategy
 id: combined-sr-ob-diagnostics-in-pd
 title: Use SR and OB measures together as diagnostic tools in AI literacy professional development, before and after training
 description: Because SR and OB measures are weakly correlated and cannot be used interchangeably, the authors recommend embedding both validated instruments into AI literacy PD programs to monitor growth and detect calibration iss...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

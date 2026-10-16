@@ -3,7 +3,7 @@ type: claim
 title: "The attention-guiding effect of narration-plus-animation is phase-dependent: target-language attention drops significantly after the animation ends"
 description: "The attention-guiding effect of narration-plus-animation is phase-dependent: target-language attention drops significantly after the animation ends"
 id: animation-phase-dependent-attention-to-print
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

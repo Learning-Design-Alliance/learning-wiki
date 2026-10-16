@@ -3,7 +3,7 @@ type: strategy
 id: genai-pronunciation-tools-low-stakes-speaking-opportunities
 title: Incorporate GenAI-based pronunciation tools to give anxious learners additional low-stakes speaking opportunities outside the classroom
 description: "The authors recommend that, in contexts where corrective pronunciation feedback is limited, delayed, or avoided to preserve face, \"educators may consider incorporating generative AI–based pronunciation tools to provid..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

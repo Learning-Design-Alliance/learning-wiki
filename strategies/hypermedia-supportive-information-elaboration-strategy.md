@@ -3,7 +3,7 @@ type: strategy
 id: hypermedia-supportive-information-elaboration-strategy
 title: Present supportive information in hypermedia systems to support elaboration and mindful abstraction
 description: For the supportive-information component, the chapter recommends hypermedia systems as the delivery environment.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -2,7 +2,7 @@
 type: theory
 title: "Five-factor mentoring model: personal attributes, system requirements, pedagogical knowledge, modelling, and feedback"
 description: "The five-factor mentoring model is an empirically derived framework for describing effective mentoring practices, organised into five factors: \"personal attributes, system requirements, pedagogical knowledge, modellin..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -47,4 +47,4 @@ The five-factor mentoring model is an empirically derived framework for describi
 -
 
 ## Key Sources
-- Sempowicz, T., & Hudson, P. (2011). Analysing mentoring dialogues for developing a preservice teacher's classroom management practices. Australian Journal of Teacher Education, 36(8). https://ro.ecu.edu.au/ajte/vol36/iss8/1
+- Sempowicz, T., & Hudson, P. (2011). Analysing mentoring dialogues for developing a preservice teacher's classroom management practices. Australian Journal of Teacher Education, 36(8). https://ro.ecu.edu.au/ajte/vol36/iss8/1. [doi:10.14221/ajte.2011v36n8.4](https://doi.org/10.14221/ajte.2011v36n8.4)

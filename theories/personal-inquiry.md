@@ -3,7 +3,7 @@ type: theory
 title: Personal Inquiry
 description: A model of technology-supported science inquiry organized as an 8-phase cycle (Find My Topic through Reflect on My Experience) that is deliberately designed to move seamlessly between classroom, home, and field settings, guided by "scripted orchestration" rather than moment-to-moment teacher scaffolding.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

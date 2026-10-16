@@ -2,7 +2,7 @@
 type: theory
 title: "Generative stylistics: writing instruction as the presentation and application of usable criteria for decisions about language use"
 description: "The paper names and advocates 'generative stylistics', an approach to writing instruction built on the view that style is 'the manifetation and result of the choices nade by-the speaker/writer'."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Multimedia motivational introductory messages produce better immediate knowledge-test outcomes than traditional teaching aids in elementary Nature and Society lessons
 description: Multimedia motivational introductory messages produce better immediate knowledge-test outcomes than traditional teaching aids in elementary Nature and Society lessons
 id: multimedia-introductory-message-better-immediate-tests
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

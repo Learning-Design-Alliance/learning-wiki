@@ -3,7 +3,7 @@ type: claim
 title: The explainable feature-based model with LLM-extracted features outperforms the closed-track encoder baseline by a wide margin
 description: The explainable feature-based model with LLM-extracted features outperforms the closed-track encoder baseline by a wide margin
 id: explainable-model-outperforms-closed-track-baseline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

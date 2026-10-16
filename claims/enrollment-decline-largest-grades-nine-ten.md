@@ -3,7 +3,7 @@ type: claim
 title: High school enrollment declined most in grades nine and ten, by about 15 percent between 1995-96 and 1998-99
 description: High school enrollment declined most in grades nine and ten, by about 15 percent between 1995-96 and 1998-99
 id: enrollment-decline-largest-grades-nine-ten
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

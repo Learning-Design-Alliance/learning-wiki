@@ -3,7 +3,7 @@ type: claim
 title: The survey states that deep learning knowledge tracing models exhibit superior performance to Bayesian and logistic models but have significant room for improvement in interpretability.
 description: The survey states that deep learning knowledge tracing models exhibit superior performance to Bayesian and logistic models but have significant room for improvement in interpretability.
 id: deep-learning-knowledge-tracing-outperforms-but-lacks-interpretability
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

@@ -3,7 +3,7 @@ type: claim
 title: "Tacoma's progressive inclusion program pervaded district operations and limited out-of-district placements to two over twenty years"
 description: "Tacoma's progressive inclusion program pervaded district operations and limited out-of-district placements to two over twenty years"
 id: progressive-inclusion-limited-out-of-district-placements
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

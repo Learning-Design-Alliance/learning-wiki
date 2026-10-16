@@ -3,7 +3,7 @@ type: element
 id: pippi-longstocking-series-case-artifact
 title: The Pippi Longstocking book series as a case artifact for analyzing educational philosophies
 description: "The three classic Pippi Longstocking books by Astrid Lindgren (written in Swedish in 1945, translated into many languages and countries) serve as the data source for the study's document analysis."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

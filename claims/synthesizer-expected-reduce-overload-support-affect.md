@@ -3,7 +3,7 @@ type: claim
 title: The Synthesizer is expected to reduce perceived overload and support affect relative to unstructured comment lists
 description: The Synthesizer is expected to reduce perceived overload and support affect relative to unstructured comment lists
 id: synthesizer-expected-reduce-overload-support-affect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

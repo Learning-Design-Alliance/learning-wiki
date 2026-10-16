@@ -3,7 +3,7 @@ type: claim
 title: Teacher-AI design collaboration faces recurring challenges including prompt literacy, curriculum misalignment, epistemic uncertainty, and explainability barriers
 description: Teacher-AI design collaboration faces recurring challenges including prompt literacy, curriculum misalignment, epistemic uncertainty, and explainability barriers
 id: teacher-ai-codesign-challenges-prompt-literacy-alignment-trust
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

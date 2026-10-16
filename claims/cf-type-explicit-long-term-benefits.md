@@ -3,7 +3,7 @@ type: claim
 title: All four written CF types, including metalinguistic code CF, outperformed the control group on the delayed posttest of explicit L2 knowledge two weeks later.
 description: All four written CF types, including metalinguistic code CF, outperformed the control group on the delayed posttest of explicit L2 knowledge two weeks later.
 id: cf-type-explicit-long-term-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
@@ -47,3 +47,4 @@ Delayed posttest results of the error correction test in the four-session experi
 - [Corrective feedback facilitates L2 grammatical development, with explicit feedback stronger immediately and implicit feedback better maintained over time](cf-facilitates-l2-grammar-explicit-implicit-durability.md) — a broader claim this one bears on
 - [All four written CF types, including metalinguistic code CF, outperformed the control group on the delayed posttest of implicit L2 knowledge.](cf-type-implicit-long-term-benefits.md) — related
 - [Metalinguistic written CF was equivalent, not superior, to non-metalinguistic direct CF, contrasting with previous studies whose metalinguistic CF also contained correct forms.](metalinguistic-cf-equivalent-not-superior-to-direct.md) — related
+- [Explicit instruction facilitates the acquisition of L2 grammar](explicit-instruction-facilitates-l2-grammar-acquisition.md) — related

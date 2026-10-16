@@ -3,7 +3,7 @@ type: claim
 title: InsideTrack© Coaching costs roughly $390–$500 per student per semester depending on program scale and intensity
 description: InsideTrack© Coaching costs roughly $390–$500 per student per semester depending on program scale and intensity
 id: insidetrack-coaching-cost-per-student-semester
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

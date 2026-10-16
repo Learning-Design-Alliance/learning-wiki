@@ -4,7 +4,7 @@ id: nsf-proposal-analytic-dataset
 title: NSF proposal analytic dataset
 description: An analytic dataset assembled by Fesler et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

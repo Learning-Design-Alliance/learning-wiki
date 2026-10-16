@@ -3,7 +3,7 @@ type: claim
 title: In one middle-school quasi-experiment on electricity, spoken-text groups outperform written-text groups with both abstract and concrete animation (d = .35)
 description: "The modality effect holds for middle school students learning electricity with multimedia animation in real school settings: spoken-text groups significantly outperform written-text groups with both abstract and concr..."
 id: modality-effect-holds-middle-school-electricity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

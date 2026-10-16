@@ -3,7 +3,7 @@ type: strategy
 id: tdhs-read-aloud-think-aloud-modeling
 title: Model comprehension with read-aloud/think-aloud demonstrations and strategy mini-lessons
 description: Teachers model the comprehension process using read-aloud/think-aloud demonstrations and provide mini-lessons on specific comprehension strategies.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

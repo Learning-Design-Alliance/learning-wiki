@@ -3,7 +3,7 @@ type: claim
 title: AI integration shifted staff roles from direct instruction to facilitation and increased workload
 description: AI integration shifted staff roles from direct instruction to facilitation and increased workload
 id: ai-integration-shifted-staff-roles-facilitation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: All student groups preferred deductive over inductive grammar instruction
 description: All student groups preferred deductive over inductive grammar instruction
 id: efl-students-prefer-deductive-over-inductive-grammar-instruction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

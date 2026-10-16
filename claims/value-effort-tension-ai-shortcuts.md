@@ -3,7 +3,7 @@ type: claim
 title: Nearly all students valued learning through effort while feeling drawn toward AI, and split into those who limited use and those whose use conflicted with stated values
 description: Nearly all students valued learning through effort while feeling drawn toward AI, and split into those who limited use and those whose use conflicted with stated values
 id: value-effort-tension-ai-shortcuts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

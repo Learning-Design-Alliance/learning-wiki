@@ -3,7 +3,7 @@ type: claim
 title: Students’ actual genAI use correlates with interest and perceived usefulness of genAI but not with knowledge or critical-thinking dispositions
 description: Students’ actual genAI use correlates with interest and perceived usefulness of genAI but not with knowledge or critical-thinking dispositions
 id: actual-genai-use-tied-to-interest-and-usefulness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

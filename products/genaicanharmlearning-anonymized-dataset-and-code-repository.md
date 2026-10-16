@@ -4,7 +4,7 @@ id: genaicanharmlearning-anonymized-dataset-and-code-repository
 title: GenAICanHarmLearning anonymized dataset and code repository
 description: A GitHub release by Bastani Hamsa et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

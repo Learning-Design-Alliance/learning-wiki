@@ -3,7 +3,7 @@ type: claim
 title: Substitutive offloaders show severe performance decline when external stores become unavailable, while duplicative offloaders maintain accuracy
 description: Substitutive offloaders show severe performance decline when external stores become unavailable, while duplicative offloaders maintain accuracy
 id: substitutive-duplicative-offloading-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Field-independent subjects more accurately reconstruct spatial arrays than field-dependent subjects
 description: Field-independent subjects more accurately reconstruct spatial arrays than field-dependent subjects
 id: field-independent-better-map-feature-placement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

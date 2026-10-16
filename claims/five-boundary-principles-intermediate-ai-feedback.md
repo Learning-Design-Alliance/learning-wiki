@@ -3,7 +3,7 @@ type: claim
 title: AI involvement at the intermediate feedback level is appropriate only if five non-negotiable boundary principles hold simultaneously
 description: AI involvement at the intermediate feedback level is appropriate only if five non-negotiable boundary principles hold simultaneously
 id: five-boundary-principles-intermediate-ai-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

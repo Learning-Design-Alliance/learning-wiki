@@ -3,7 +3,7 @@ type: claim
 title: "A school's School Climate Index is more strongly associated with its probability of beating the achievement odds than its personnel resources"
 description: "A school's School Climate Index is more strongly associated with its probability of beating the achievement odds than its personnel resources"
 id: sci-stronger-than-personnel-resources-for-bto
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

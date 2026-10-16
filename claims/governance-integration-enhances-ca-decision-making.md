@@ -3,7 +3,7 @@ type: claim
 title: Integrating governance criteria and regulatory frameworks into CA-supported LO assessment enhanced decision-making effectiveness
 description: Integrating governance criteria and regulatory frameworks into CA-supported LO assessment enhanced decision-making effectiveness
 id: governance-integration-enhances-ca-decision-making
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

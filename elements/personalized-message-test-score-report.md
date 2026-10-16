@@ -3,7 +3,7 @@ type: element
 id: personalized-message-test-score-report
 title: Personalized message added to a test score report
 description: "A behavioral-science-informed intervention in which a personalized message about a student's potential to succeed in Advanced Placement coursework is added to a test score report."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

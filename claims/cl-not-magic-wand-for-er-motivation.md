@@ -3,7 +3,7 @@ type: claim
 title: The article cautions that CL-structured group activities are only a potential part of the solution for ER motivation, not a guarantee
 description: The article cautions that CL-structured group activities are only a potential part of the solution for ER motivation, not a guarantee
 id: cl-not-magic-wand-for-er-motivation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

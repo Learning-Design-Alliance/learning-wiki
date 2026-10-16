@@ -3,7 +3,7 @@ type: design
 id: georgia-doe-lead-certification-pilot
 title: Georgia Department of Education LEAD staged certification and recognition pilot for whole child education model schools
 description: From 2021 to 2023, the Georgia Department of Education piloted a certification and recognition process for community schools implementing a whole child education model.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

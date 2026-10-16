@@ -3,7 +3,7 @@ type: claim
 title: AI assistance provides no significant overall time savings and can slow completion on easy task variants, with chat-interface friction (prompting time) dominating on trivial tasks
 description: AI assistance provides no significant overall time savings and can slow completion on easy task variants, with chat-interface friction (prompting time) dominating on trivial tasks
 id: ai-no-efficiency-gain-simple-tasks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -72,3 +72,4 @@ Study 1 (N=498) recorded hidden-timer completion times and NASA-TLX effort per t
 - [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related
 - [Chat-log analysis indicates lower-education participants obtain substantial assistance from AI while higher-education participants use the tool somewhat more effectively across several margins, explaining why the gap narrows but does not disappear](chat-logs-explain-gap-narrows-but-persists.md) — related
 - [The most significant reported benefit of AI in instructional design is assistance with administrative and repetitive tasks (18 of 28 studies, 64.2%)](ai-benefit-administrative-repetitive-tasks.md) — related
+- [Educators benefit from AI chatbots through time-saving administrative assistance and improved pedagogy](chatbot-educator-time-saving-pedagogy.md) — reports the opposite

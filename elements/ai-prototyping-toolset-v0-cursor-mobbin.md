@@ -3,7 +3,7 @@ type: element
 id: ai-prototyping-toolset-v0-cursor-mobbin
 title: "AI prototyping and research toolset: V0, Cursor, Mobbin, Figma, and Great Question"
 description: The field note names a toolset supporting the Design Loop.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: element
 id: four-comparison-group-approaches-charter-evaluation
 title: Four comparison group approaches evaluated as alternatives to random assignment in the charter school evaluation
 description: The study evaluates four distinct comparison group approaches, which serve as the nonexperimental methods under test.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

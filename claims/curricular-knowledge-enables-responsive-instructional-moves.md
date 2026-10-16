@@ -2,7 +2,7 @@
 type: claim
 title: Developing curricular design knowledge enables small-scale responsive adaptations within a structured curriculum
 id: curricular-knowledge-enables-responsive-instructional-moves
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

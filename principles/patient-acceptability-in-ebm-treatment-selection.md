@@ -3,7 +3,7 @@ type: principle
 id: patient-acceptability-in-ebm-treatment-selection
 title: Incorporate patient acceptability preferences into evidence-based treatment selection for older adults
 description: The article frames treatment acceptability within evidence-based medicine, which combines research evidence, clinical skills, and patient values.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

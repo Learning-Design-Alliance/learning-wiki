@@ -3,7 +3,7 @@ type: design
 id: newcomer-school-leadership-practices
 title: Staff newcomer schools with skilled, purposeful, visionary leaders who build teams and innovate
 description: "The report's second promising practice holds that effective newcomer schools depend on leaders who are instrumental to realizing the vision of student success."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

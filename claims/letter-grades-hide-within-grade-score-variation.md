@@ -3,7 +3,7 @@ type: claim
 title: Reading score distributions within A–F letter grades overlap heavily, so letter grades misrepresent the achievement of many individual students
 description: Reading score distributions within A–F letter grades overlap heavily, so letter grades misrepresent the achievement of many individual students
 id: letter-grades-hide-within-grade-score-variation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

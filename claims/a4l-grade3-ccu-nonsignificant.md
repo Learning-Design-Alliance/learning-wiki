@@ -3,7 +3,7 @@ type: claim
 title: Grade 3 students showed small positive but statistically non-significant CCU impacts across all three study years
 description: Grade 3 students showed small positive but statistically non-significant CCU impacts across all three study years
 id: a4l-grade3-ccu-nonsignificant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Under the mean-recall approximation, the optimal Leitner Queue Network review schedule spends more time on lower decks than on higher decks.
 description: Under the mean-recall approximation, the optimal Leitner Queue Network review schedule spends more time on lower decks than on higher decks.
 id: optimal-leitner-schedule-reviews-lower-decks-more-often
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

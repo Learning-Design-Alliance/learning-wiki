@@ -3,7 +3,7 @@ type: element
 id: decision-making-restaurant-task
 title: "Decision-making restaurant-choice task: pairs merge into larger groups across cycles while re-choosing a restaurant"
 description: Adapted from a textbook task, pairs compare three real English menus and must agree on one restaurant, then merged groups of four and eight re-run the choice with the previously chosen and rejected menus, creating imm...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

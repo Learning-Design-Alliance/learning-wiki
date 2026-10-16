@@ -3,7 +3,7 @@ type: strategy
 id: evaluate-ai-fairness-across-learner-groups
 title: Evaluate AI systems in DLPs for fairness across learner groups, not just overall accuracy
 description: "The paper recommends that researchers studying AI-enhanced DLPs go beyond aggregate accuracy: evaluate models for how they perform across different learner groups and contexts, ensure studies reflect diverse student p..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

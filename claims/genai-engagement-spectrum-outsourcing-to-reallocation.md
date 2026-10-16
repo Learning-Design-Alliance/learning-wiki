@@ -3,7 +3,7 @@ type: claim
 title: Student engagement with generative AI in unsupervised assessments forms a spectrum bounded by cognitive outsourcing and cognitive reallocation
 description: Student engagement with generative AI in unsupervised assessments forms a spectrum bounded by cognitive outsourcing and cognitive reallocation
 id: genai-engagement-spectrum-outsourcing-to-reallocation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
@@ -47,3 +47,4 @@ Qualitative study analysing 38 undergraduate students from Japan and China, exam
 - [GenAI functions as productive self-scaffolding when students retain executive control, and becomes unproductive when reasoning is outsourced](genai-self-scaffold-versus-outsourcing.md) — a broader claim this one bears on
 - [Outsourcing productive struggle to AI risks cognitive debt, and reactive compliance-focused approaches are insufficient](cognitive-debt-reactive-ai-approaches-insufficient.md) — related
 - [78.8% of student-GenAI turns lack mastery-oriented aims and reliable epistemic strategies](low-epistemic-engagement-788-percent-non-mastery.md) — related
+- [Documented GenAI-related challenges to active learning include cognitive debt, metacognitive laziness, unreflected acceptance, and overreliance on GenAI access](genai-risks-cognitive-debt-deskilling-overreliance.md) — related

@@ -3,7 +3,7 @@ type: claim
 title: Academic and behavioral classroom factors, not student demographics, drive the effect of composition on evaluator ratings
 description: Academic and behavioral classroom factors, not student demographics, drive the effect of composition on evaluator ratings
 id: academic-behavioral-factors-drive-rating-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

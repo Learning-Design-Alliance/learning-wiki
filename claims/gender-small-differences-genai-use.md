@@ -3,7 +3,7 @@ type: claim
 title: Gender is associated with small differences in GenAI use, literacy, and monitoring, while educational level shows no significant differences
 description: Gender is associated with small differences in GenAI use, literacy, and monitoring, while educational level shows no significant differences
 id: gender-small-differences-genai-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

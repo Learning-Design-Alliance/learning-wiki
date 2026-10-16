@@ -3,7 +3,7 @@ type: claim
 title: "A bias-free experimental-probability subcategory (o**) emerged only in the die-rolling task"
 description: "A bias-free experimental-probability subcategory (o**) emerged only in the die-rolling task"
 id: o-star-star-law-of-large-numbers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

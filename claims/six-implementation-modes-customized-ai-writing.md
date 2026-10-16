@@ -3,7 +3,7 @@ type: claim
 title: Six implementation modes operationalize customized AI writing systems, with standalone evaluation most common
 description: Six implementation modes operationalize customized AI writing systems, with standalone evaluation most common
 id: six-implementation-modes-customized-ai-writing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

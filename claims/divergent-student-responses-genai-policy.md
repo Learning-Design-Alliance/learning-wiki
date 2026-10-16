@@ -3,7 +3,7 @@ type: claim
 title: Students at the same university interpreted and responded to GenAI policy in markedly different ways, from embracing adoption to principled resistance
 description: Students at the same university interpreted and responded to GenAI policy in markedly different ways, from embracing adoption to principled resistance
 id: divergent-student-responses-genai-policy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

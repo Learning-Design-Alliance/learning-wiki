@@ -3,7 +3,7 @@ type: claim
 title: Algorithmically inferred measurement functions may intensify, rather than resolve, the problem of nomic measurement in analyzing student learning
 description: Algorithmically inferred measurement functions may intensify, rather than resolve, the problem of nomic measurement in analyzing student learning
 id: ai-intensifies-nomic-measurement-problem
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

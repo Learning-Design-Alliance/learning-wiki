@@ -3,7 +3,7 @@ type: claim
 title: Without clear quality signals, district boards default to the lowest bid when comparing edtech products
 description: Without clear quality signals, district boards default to the lowest bid when comparing edtech products
 id: lowest-bid-default-without-quality-signals
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

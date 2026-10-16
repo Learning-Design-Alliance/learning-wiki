@@ -3,7 +3,7 @@ type: claim
 title: Project Cal-Well in Stanislaus County trained 1,750 mental health workforce members and more than 12,000 non-workforce individuals between fall 2019 and December 2023
 description: Project Cal-Well in Stanislaus County trained 1,750 mental health workforce members and more than 12,000 non-workforce individuals between fall 2019 and December 2023
 id: cal-well-stanislaus-training-reach
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

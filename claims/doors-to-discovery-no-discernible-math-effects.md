@@ -3,7 +3,7 @@ type: claim
 title: Doors to Discovery™ shows no discernible effects on preschool math (domain-average effect size 0.01)
 description: Doors to Discovery™ shows no discernible effects on preschool math (domain-average effect size 0.01)
 id: doors-to-discovery-no-discernible-math-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

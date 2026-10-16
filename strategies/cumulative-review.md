@@ -90,7 +90,7 @@ Cumulative review works because each retrieval strengthens memory and slows forg
 - A language course revisits earlier grammar structures through ongoing writing tasks rather than isolated grammar drills, so old structures are retrieved in authentic use.
 - **Anki** ([https://apps.ankiweb.net](https://apps.ankiweb.net)) and similar spaced-repetition systems schedule individual review items at expanding intervals based on each learner's recall performance.
 - **Khan Academy** ([https://www.khanacademy.org](https://www.khanacademy.org)) mastery system requires learners to maintain proficiency on earlier skills as they progress, automatically surfacing review exercises when mastery decays.
-- **ASSISTments** (https://www.assistments.org) — math homework platform that interleaves prior-skill review problems into assignment sets; field studies show improved year-end retention.
+- **[ASSISTments](../products/assistments.md)** (https://www.assistments.org) — math homework platform that interleaves prior-skill review problems into assignment sets; field studies show improved year-end retention.
 - **Anki** (https://apps.ankiweb.net) — spaced-repetition flashcard system implementing expanding review intervals; widely used in medical education.
 - **Spiral curricula in Everyday Mathematics** — elementary math program that revisits each strand repeatedly across the year rather than in single units.
 - Cumulative final exams and "do now" warm-up problems drawn from all prior weeks — low-tech versions common in direct-instruction programs such as [Direct Instruction](../patterns/direct-instruction.md) tracks.

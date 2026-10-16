@@ -3,7 +3,7 @@ type: claim
 title: Faculty corroborate data-driven identification of challenging topics as consistent with their classroom observations
 description: Faculty corroborate data-driven identification of challenging topics as consistent with their classroom observations
 id: faculty-corroborate-data-driven-challenging-topics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

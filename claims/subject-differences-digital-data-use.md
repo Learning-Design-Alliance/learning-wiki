@@ -3,7 +3,7 @@ type: claim
 title: "Digital data use differs by teaching subject: STEM teachers report lower use than languages/arts/humanities and vocational teachers, and vocational teachers report the highest use"
 description: "Digital data use differs by teaching subject: STEM teachers report lower use than languages/arts/humanities and vocational teachers, and vocational teachers report the highest use"
 id: subject-differences-digital-data-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Treatment effect interacts with exam sub-section, with oral comprehension showing the largest LWPA advantage
 description: Treatment effect interacts with exam sub-section, with oral comprehension showing the largest LWPA advantage
 id: lwpa-by-exam-subsection-interaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

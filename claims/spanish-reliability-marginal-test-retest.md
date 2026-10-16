@@ -3,7 +3,7 @@ type: claim
 title: Spanish Math and Reading scores show high marginal reliability and moderate-to-strong test-retest stability, lowest for fall–spring and kindergarten
 description: Spanish Math and Reading scores show high marginal reliability and moderate-to-strong test-retest stability, lowest for fall–spring and kindergarten
 id: spanish-reliability-marginal-test-retest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

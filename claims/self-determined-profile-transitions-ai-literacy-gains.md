@@ -3,7 +3,7 @@ type: claim
 title: Students who transitioned into or remained in the Self-Determined profile showed the greatest improvements in AI literacy
 description: Students who transitioned into or remained in the Self-Determined profile showed the greatest improvements in AI literacy
 id: self-determined-profile-transitions-ai-literacy-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

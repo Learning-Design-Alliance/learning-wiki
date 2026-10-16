@@ -3,7 +3,7 @@ type: design
 id: outreach-through-trusted-community-channels
 title: "Share early care information through trusted community channels and in families' routine settings and languages"
 description: The report presents strategic communication as both an engine and a by-product of alignment and coherence, and recommends bidirectional communication that builds awareness while gathering timely, honest feedback.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: design
 id: camelot-jr-backtracking-solver-agent
 title: Camelot Jr. recursive backtracking solver agent
 description: A game-playing agent for Camelot Jr.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: research-method
 id: helpneed-classification
 title: HelpNeed classification
 description: "The HelpNeed classification labels each problem-solving step using two data-driven dimensions: step duration (Quick vs Long, thresholded at the 75th percentile of historical per-problem step time) and step efficiency (derived from Hint Factory state quality and progress)."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

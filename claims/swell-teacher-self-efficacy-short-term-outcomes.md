@@ -3,7 +3,7 @@ type: claim
 title: The SWELL logic model posits that participating teachers will increase self-efficacy in literacy instruction and in supporting English learner students
 description: The SWELL logic model posits that participating teachers will increase self-efficacy in literacy instruction and in supporting English learner students
 id: swell-teacher-self-efficacy-short-term-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

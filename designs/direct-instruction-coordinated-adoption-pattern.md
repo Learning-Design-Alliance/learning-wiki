@@ -3,7 +3,7 @@ type: design
 id: direct-instruction-coordinated-adoption-pattern
 title: Schoolwide coherence through coordinated adoption of a structured direct instruction program
 description: Ackerman Elementary achieved the highest coherence ratings among the 11 field study schools by adopting a Direct Instruction program providing scripted lessons and matching assessments in mathematics and reading for g...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-08

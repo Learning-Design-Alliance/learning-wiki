@@ -3,7 +3,7 @@ type: claim
 title: "A pedagogically informed Tutor Prompt yields higher Success@N and lower Telling@N than MathDial's Base Prompt in simulated tutor-student dialogues"
 description: "A pedagogically informed Tutor Prompt yields higher Success@N and lower Telling@N than MathDial's Base Prompt in simulated tutor-student dialogues"
 id: tutor-prompt-outperforms-base-prompt-mathdial
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Receiving an offer of admission to a KIPP middle school increases enrollment in 4-year college programs by 6.9 percentage points
 description: Receiving an offer of admission to a KIPP middle school increases enrollment in 4-year college programs by 6.9 percentage points
 id: kipp-middle-offer-increases-four-year-college-enrollment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

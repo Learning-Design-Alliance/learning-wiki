@@ -3,7 +3,7 @@ type: design
 id: three-boundary-spanning-events-cbl
 title: Three boundary-spanning events linking field data to community impact (field co-design, collaborative alignment, mutual validation)
 description: "The CBL course is structured as three structured occasions traversing institutional interfaces: Week 3 field co-design generating museum digital assets, Week 4 collaborative alignment of proposals with four SDGs (4, 8..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

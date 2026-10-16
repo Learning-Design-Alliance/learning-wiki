@@ -3,7 +3,7 @@ type: claim
 title: Classroom testing (quizzing) significantly boosts student academic achievement to a medium extent (g = 0.499).
 description: Classroom testing (quizzing) significantly boosts student academic achievement to a medium extent (g = 0.499).
 id: classroom-quizzing-medium-effect-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

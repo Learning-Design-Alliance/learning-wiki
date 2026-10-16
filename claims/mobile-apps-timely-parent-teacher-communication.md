@@ -3,7 +3,7 @@ type: claim
 title: Mobile apps increased timely, direct communication between parents and educators during remote schooling
 description: Mobile apps increased timely, direct communication between parents and educators during remote schooling
 id: mobile-apps-timely-parent-teacher-communication
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

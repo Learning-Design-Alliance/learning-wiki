@@ -4,7 +4,7 @@ id: lt-nlp-set-pub
 title: LT_NLP_SET_pub
 description: A GitHub repository maintained by the review authors containing the code, study lists, prompts, codebooks, frozen response bases, and adjudication materials needed to audit and reconstruct the SET-NLP evidence map.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11
@@ -29,4 +29,4 @@ A GitHub repository maintained by the review authors containing the code, study 
 - [LLM-queries](llm-queries.md)
 
 ## Key Sources
-- Eicher, J., & da Silva, R. (2026). From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026. arXiv. https://arxiv.org/abs/2609.27939
+- Eicher, J., & da Silva, R. (2026). From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026. arXiv. https://arxiv.org/abs/2609.27939. [doi:10.48550/arxiv.2609.27939](https://doi.org/10.48550/arxiv.2609.27939)

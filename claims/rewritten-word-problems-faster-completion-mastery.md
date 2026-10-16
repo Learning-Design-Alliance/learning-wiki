@@ -3,7 +3,7 @@ type: claim
 title: "Rewriting MATHia word problems for struggling readers, by human experts or LLMs, sped completion by 30% and improved mastery rate"
 description: "Rewriting MATHia word problems for struggling readers, by human experts or LLMs, sped completion by 30% and improved mastery rate"
 id: rewritten-word-problems-faster-completion-mastery
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

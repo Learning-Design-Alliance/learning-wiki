@@ -3,7 +3,7 @@ type: claim
 title: Answering history explanation questions often requires causal inferences because causal relationships are frequently left implicit in textbooks
 description: Answering history explanation questions often requires causal inferences because causal relationships are frequently left implicit in textbooks
 id: causal-links-implicit-in-history-textbooks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

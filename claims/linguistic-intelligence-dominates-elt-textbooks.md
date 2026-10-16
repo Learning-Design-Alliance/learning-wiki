@@ -3,7 +3,7 @@ type: claim
 title: Linguistic intelligence dominated both series while natural intelligence was least frequent
 description: Linguistic intelligence dominated both series while natural intelligence was least frequent
 id: linguistic-intelligence-dominates-elt-textbooks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

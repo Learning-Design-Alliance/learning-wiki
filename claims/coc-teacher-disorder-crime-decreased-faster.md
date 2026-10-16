@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' reports of disorder and crime decreased at a faster rate in Culture of Calm schools than in non-CoC schools between 2009 and 2011 (d = 0.4)"
 description: "Teachers' reports of disorder and crime decreased at a faster rate in Culture of Calm schools than in non-CoC schools between 2009 and 2011 (d = 0.4)"
 id: coc-teacher-disorder-crime-decreased-faster
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

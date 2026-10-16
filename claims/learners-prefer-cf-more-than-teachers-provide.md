@@ -3,7 +3,7 @@ type: claim
 title: Learners prefer receiving corrective feedback more than teachers feel they should provide it
 description: Learners prefer receiving corrective feedback more than teachers feel they should provide it
 id: learners-prefer-cf-more-than-teachers-provide
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

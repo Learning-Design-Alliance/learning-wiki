@@ -2,7 +2,7 @@
 type: theory
 title: "Learning cycle instructional model: exploration, concept introduction, concept application"
 description: "The guide grounds its activities in the learning cycle, a sequence science educators have identified as \"an effective means for learning concepts and processes of science\" that is \"also..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: "Focal math teachers relied primarily on their own observations of student behavior to understand students' feelings about math, supplemented by surveys, with disaggregated data rare"
 description: "Focal math teachers relied primarily on their own observations of student behavior to understand students' feelings about math, supplemented by surveys, with disaggregated data rare"
 id: teacher-observation-primary-perception-data-source
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "CHSRI freshman on-track rates were typically higher than similar students' but the difference was not statistically significant and converged by 2007-08"
 description: "CHSRI freshman on-track rates were typically higher than similar students' but the difference was not statistically significant and converged by 2007-08"
 id: chsri-on-track-rates-converged
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "In one study of repeated LLM scoring of 60 IELTS essays, Gemini 2.5 Flash was moderately reliable (ICC 0.63-0.75) while Claude Sonnet 4 and DeepSeek R1 stayed below 0.70 in most dimensions"
 description: In one study of repeated LLM scoring of 60 IELTS essays, Gemini 2.5 Flash was moderately reliable (ICC 0.63-0.75) while Claude Sonnet 4 and DeepSeek R1 stayed below 0.70 in most dimensions
 id: llm-essay-scoring-reliability-stratification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

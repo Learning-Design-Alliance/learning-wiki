@@ -3,7 +3,7 @@ type: theory
 title: "The world as an interconnected system: replacing simple cause and effect with complex interaction"
 description: Dimension 4 argues the world is best conceived as a system of interconnected elements rather than a machine or organism.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: strategy
 id: match-llm-role-to-assessed-proficiency
 title: "Match LLM deployment role in language education to the model's assessed proficiency level"
 description: "Based on the stratification of model proficiency on CSEBench, the article recommends differentiated roles for LLMs in educational applications: \"higher-proficiency systems may function as effective scaffolding agents..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: The general-AI group most often dictated ChatGPT to directly generate solutions while the regulated-AI group more frequently collaborated to improve self-generated ideas
 description: The general-AI group most often dictated ChatGPT to directly generate solutions while the regulated-AI group more frequently collaborated to improve self-generated ideas
 id: prompt-type-differences-general-vs-regulated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

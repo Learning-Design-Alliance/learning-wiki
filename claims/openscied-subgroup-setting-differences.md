@@ -3,7 +3,7 @@ type: claim
 title: High school teachers report more OpenSciEd engagement challenges than middle school teachers, and urban respondents rate challenges as occurring more often than suburban and rural respondents.
 description: High school teachers report more OpenSciEd engagement challenges than middle school teachers, and urban respondents rate challenges as occurring more often than suburban and rural respondents.
 id: openscied-subgroup-setting-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

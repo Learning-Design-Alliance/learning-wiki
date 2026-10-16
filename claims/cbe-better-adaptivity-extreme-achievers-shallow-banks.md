@@ -3,7 +3,7 @@ type: claim
 title: Adaptivity and score reliability of both engines depend on item-pool depth; the CBE often performed better than COLO for extreme low or high achievers when item banks were shallow
 description: Adaptivity and score reliability of both engines depend on item-pool depth; the CBE often performed better than COLO for extreme low or high achievers when item banks were shallow
 id: cbe-better-adaptivity-extreme-achievers-shallow-banks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

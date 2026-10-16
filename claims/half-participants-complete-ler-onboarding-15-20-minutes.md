@@ -3,7 +3,7 @@ type: claim
 title: Roughly half of co-design participants completed LER technology onboarding within an allotted 15–20 minute window
 description: Roughly half of co-design participants completed LER technology onboarding within an allotted 15–20 minute window
 id: half-participants-complete-ler-onboarding-15-20-minutes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

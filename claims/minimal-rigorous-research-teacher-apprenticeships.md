@@ -3,7 +3,7 @@ type: claim
 title: Minimal rigorous research is available on the development and implementation of teacher apprenticeship programs
 description: Minimal rigorous research is available on the development and implementation of teacher apprenticeship programs
 id: minimal-rigorous-research-teacher-apprenticeships
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

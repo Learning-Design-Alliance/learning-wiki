@@ -3,7 +3,7 @@ type: element
 id: pa-lea-pandemic-instruction-survey-200
 title: Representative online survey of 200 Pennsylvania LEAs on pandemic-era instruction
 description: An online survey the Pennsylvania Department of Education and Mathematica distributed to a representative sample of 200 LEAs during the summer and fall of 2021.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

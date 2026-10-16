@@ -3,7 +3,7 @@ type: claim
 title: Computing students learn cybersecurity mainly from informal sources outside the classroom, with word of mouth, social media, and financial institutions most common
 description: Computing students learn cybersecurity mainly from informal sources outside the classroom, with word of mouth, social media, and financial institutions most common
 id: cybersecurity-knowledge-informal-sources-dominate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -18,8 +18,8 @@ sources:
     kind: associational
     rigour: 2
   - id: adama-2026-2
-    resource: "https://arxiv.org/abs/2606.18541"
-    title: "Adama, V., Biddle, R., Arachchilage, N., & Lottridge, D. (2026). Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity. https://arxiv.org/abs/2606.18541"
+    resource: "https://doi.org/10.48550/arxiv.2606.18541"
+    title: "Adama, V., Biddle, R., Arachchilage, N., & Lottridge, D. (2026). Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity. https://arxiv.org/abs/2606.18541. [doi:10.48550/arxiv.2606.18541](https://doi.org/10.48550/arxiv.2606.18541)"
     author: "Adama, V., Biddle, R., Arachchilage, N., & Lottridge, D."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Computing students learn cybersecurity mainly from informal sources outside the classroom, with word of mouth, social media, and financial institutions most common
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Word of mouth (51%), social media (45%), and financial institutions (44%) were the most common sources of cybersecurity knowledge among computing students. [→ Adama 2026](#adama-2026)
@@ -50,7 +50,7 @@ Survey distribution question on knowledge sources among 236 computing students, 
 
 ### Adama 2026 (2)
 
-Adama, V., Biddle, R., Arachchilage, N., & Lottridge, D. (2026). Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity. https://arxiv.org/abs/2606.18541
+Adama, V., Biddle, R., Arachchilage, N., & Lottridge, D. (2026). Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity. https://arxiv.org/abs/2606.18541. [doi:10.48550/arxiv.2606.18541](https://doi.org/10.48550/arxiv.2606.18541)
 
 `q2 · i?` · `associational · r1`
 

@@ -3,7 +3,7 @@ type: claim
 title: Students show a large epistemological split between classroom and research contexts on thinking up their own questions
 description: Students show a large epistemological split between classroom and research contexts on thinking up their own questions
 id: eclass-epistemological-split-own-questions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

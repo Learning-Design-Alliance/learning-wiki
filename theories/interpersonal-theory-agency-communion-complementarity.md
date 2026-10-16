@@ -2,7 +2,7 @@
 type: theory
 title: "Interpersonal theory: Agency and Communion dimensions and the principle of complementarity"
 description: "The article uses interpersonal theory (Kiesler, 1996) to map interpersonal behavior and styles on two orthogonal dimensions: Agency, manifesting in strivings for power or control, and Communion, manifesting in strivin..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -48,4 +48,4 @@ The article uses interpersonal theory (Kiesler, 1996) to map interpersonal behav
 -
 
 ## Key Sources
-- Pennings, H. J. M. (2017). Using a Complexity Approach to Study the Interpersonal Dynamics in Teacher-Student Interactions: A Case Study of Two Teachers. Complicity: An International Journal of Complexity and Education, 14(2). https://complicityjournal.org
+- Pennings, H. J. M. (2017). Using a Complexity Approach to Study the Interpersonal Dynamics in Teacher-Student Interactions: A Case Study of Two Teachers. Complicity: An International Journal of Complexity and Education, 14(2). https://complicityjournal.org. [doi:10.29173/cmplct29338](https://doi.org/10.29173/cmplct29338)

@@ -4,7 +4,7 @@ id: kpe
 title: KPE
 description: KPE is a KP-Lab collaborative knowledge-creation platform that provides shared workspaces and tools for planning, producing, organizing, annotating, versioning, commenting on, and reflecting on shared knowledge objects.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

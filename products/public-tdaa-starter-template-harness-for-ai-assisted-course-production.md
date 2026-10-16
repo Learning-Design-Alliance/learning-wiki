@@ -4,7 +4,7 @@ id: public-tdaa-starter-template-harness-for-ai-assisted-course-production
 title: Public TDAA starter-template harness for AI-assisted course production
 description: A version-controlled starter workspace released by Jin-Guo Liu et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

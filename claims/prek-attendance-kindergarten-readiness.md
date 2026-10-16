@@ -3,7 +3,7 @@ type: claim
 title: Children who attend pre-kindergarten are more ready for kindergarten at the end of their pre-k year than children who do not attend
 description: Children who attend pre-kindergarten are more ready for kindergarten at the end of their pre-k year than children who do not attend
 id: prek-attendance-kindergarten-readiness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Students described knowledge gained through PBL group work in terms of generation, application, and dissemination of knowledge, plus pedagogical knowledge for future teaching
 description: Students described knowledge gained through PBL group work in terms of generation, application, and dissemination of knowledge, plus pedagogical knowledge for future teaching
 id: pbl-knowledge-generation-application-dissemination
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

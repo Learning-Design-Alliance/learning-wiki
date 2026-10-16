@@ -3,7 +3,7 @@ type: claim
 title: The Teacher Potential Project produced positive impacts on specific Common Core-aligned instructional practices, including engaging students with texts, supporting text evidence use, and supporting higher order thinking
 description: The Teacher Potential Project produced positive impacts on specific Common Core-aligned instructional practices, including engaging students with texts, supporting text evidence use, and supporting higher order thinking
 id: tpp-positive-impacts-ccss-aligned-practices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

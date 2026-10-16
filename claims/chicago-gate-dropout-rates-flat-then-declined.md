@@ -3,7 +3,7 @@ type: claim
 title: Dropout rates at age 17 remained at prepolicy levels for the first two cohorts through the promotion gate, then declined to 25 percent with the fourth cohort
 description: Dropout rates at age 17 remained at prepolicy levels for the first two cohorts through the promotion gate, then declined to 25 percent with the fourth cohort
 id: chicago-gate-dropout-rates-flat-then-declined
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

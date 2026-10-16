@@ -3,7 +3,7 @@ type: claim
 title: Without step-level supervision, neither the student model nor the tutor model can acquire misconceptions regardless of training data size
 description: Without step-level supervision, neither the student model nor the tutor model can acquire misconceptions regardless of training data size
 id: step-level-supervision-essential-misconception-acquisition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

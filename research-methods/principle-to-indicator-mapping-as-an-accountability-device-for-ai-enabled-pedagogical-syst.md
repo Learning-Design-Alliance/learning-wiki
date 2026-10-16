@@ -3,7 +3,7 @@ type: research-method
 id: principle-to-indicator-mapping-as-an-accountability-device-for-ai-enabled-pedagogical-syst
 title: Principle-to-indicator mapping as an accountability device for AI-enabled pedagogical systems
 description: "The framework translates pedagogical design principles into observable indicators using a compact mapping (Table I) from principle to indicator to observation method: transparency of identity and limits (misinterpretation rate via survey/observation), scaffolding toward humans (transition-to-human p"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

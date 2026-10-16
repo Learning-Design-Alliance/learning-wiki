@@ -3,7 +3,7 @@ type: strategy
 id: closure-transition-support-planning-merging-communities
 title: Districts considering school closures should provide substantial planning time, transition support for merging communities, and integration supports
 description: "Based on the study's mixed-methods findings, the report's interpretive considerations point districts toward adequate planning and community-merging support."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

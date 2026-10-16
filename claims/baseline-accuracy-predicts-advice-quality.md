@@ -3,7 +3,7 @@ type: claim
 title: "Users' baseline ranking accuracy significantly predicts the quality of the AI assistant's advice"
 description: "Users' baseline ranking accuracy significantly predicts the quality of the AI assistant's advice"
 id: baseline-accuracy-predicts-advice-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

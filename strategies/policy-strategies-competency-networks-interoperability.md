@@ -3,7 +3,7 @@ type: strategy
 id: policy-strategies-competency-networks-interoperability
 title: "Policy strategies to personalize learning: competency-based progressions, phased implementation, networks, and interoperability"
 description: "The paper's policy section recommends that districts support personalized learning plans, equitable technology access, personalized professional learning, phased implementation, and networks; that states promote compe..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Behavioral science research shows accountability comes in many forms that activate different mechanisms
 description: Behavioral science research shows accountability comes in many forms that activate different mechanisms
 id: accountability-many-forms-different-mechanisms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

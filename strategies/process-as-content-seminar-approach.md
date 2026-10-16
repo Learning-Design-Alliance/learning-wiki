@@ -3,7 +3,7 @@ type: strategy
 id: process-as-content-seminar-approach
 title: Use a process-as-content seminar approach in which learners read, analyze, synthesize, apply, and evaluate individually chosen problems
 description: "In a group context such as a seminar, the report recommends a process approach in which the learner engages a number of intellectual processes: choosing information sources, analyzing acquired information, synthesizin..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

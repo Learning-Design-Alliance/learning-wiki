@@ -3,7 +3,7 @@ type: claim
 title: Increases in school funding can improve student outcomes when funds support the specific needs of students
 description: Increases in school funding can improve student outcomes when funds support the specific needs of students
 id: school-funding-improves-outcomes-when-targeted
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

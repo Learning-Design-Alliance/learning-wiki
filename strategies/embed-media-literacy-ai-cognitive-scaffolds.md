@@ -3,7 +3,7 @@ type: strategy
 id: embed-media-literacy-ai-cognitive-scaffolds
 title: Embed media literacy across disciplines from early education and position AI tools as cognitive scaffolds
 description: "The article's recommendations section proposes pedagogical and policy strategies following the study's findings."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

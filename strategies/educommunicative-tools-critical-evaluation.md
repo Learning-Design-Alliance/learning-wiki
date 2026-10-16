@@ -3,7 +3,7 @@ type: strategy
 id: educommunicative-tools-critical-evaluation
 title: "Use educommunicative tools — the Critical Media Literacy Framework, the dialogic–critical method, and critical pedagogies — to build students' critical evaluation of information"
 description: "The article recommends specific educommunicative tools for the classroom: the Critical Media Literacy Framework (Kellner and Share, 2019), the dialogic–critical method in educommunication (Bermejo Berros, 2021), and c..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

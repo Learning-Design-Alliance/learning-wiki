@@ -3,7 +3,7 @@ type: claim
 title: In schoolwide grant-activity cities, about half of surveyed educators collaborated with educators from the opposite sector
 description: In schoolwide grant-activity cities, about half of surveyed educators collaborated with educators from the opposite sector
 id: schoolwide-grant-half-collaborated-across-sector
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

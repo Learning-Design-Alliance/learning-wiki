@@ -3,7 +3,7 @@ type: claim
 title: Teachers in the lowest achieving schools are more likely to report that reform has changed and will change their classroom practices, though differences are modest
 description: Teachers in the lowest achieving schools are more likely to report that reform has changed and will change their classroom practices, though differences are modest
 id: instructional-change-highest-in-lowest-achieving-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

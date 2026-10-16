@@ -3,7 +3,7 @@ type: claim
 title: A learner's first language predicts L2 phoneme perception more strongly than their proficiency level does.
 id: l1-predicts-l2-phoneme-perception-more-than-proficiency
 description: Which first language a learner brings predicts how accurately they perceive a second-language phonemic contrast better than their proficiency level does — 89.8% for Finnish speakers against 64% for German on the same Italian contrast.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-03

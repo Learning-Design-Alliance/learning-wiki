@@ -3,7 +3,7 @@ type: claim
 title: California saw a modest increase in newly prepared teachers beginning in 2020, though completers remain about half the 2004 peak
 description: California saw a modest increase in newly prepared teachers beginning in 2020, though completers remain about half the 2004 peak
 id: california-modest-increase-teacher-completers-2020-2021
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

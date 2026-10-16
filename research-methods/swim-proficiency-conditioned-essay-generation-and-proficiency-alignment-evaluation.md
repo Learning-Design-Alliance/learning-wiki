@@ -3,7 +3,7 @@ type: research-method
 id: swim-proficiency-conditioned-essay-generation-and-proficiency-alignment-evaluation
 title: "SWIM: proficiency-conditioned essay generation and proficiency-alignment evaluation"
 description: "SWIM formalizes student writing simulation as proficiency-conditioned essay generation: given a writing prompt and a target trait-score profile, a generator produces an essay exhibiting the specified writing behavior, and \"an AES-based evaluation framework for\" measuring profile alignment scores the"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

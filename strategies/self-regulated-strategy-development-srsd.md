@@ -111,7 +111,7 @@ SRSD is one of the most strongly supported writing interventions available: meta
 - **SRSD for persuasive writing in middle school** — De La Paz and Graham combined planning strategy instruction with genre knowledge lessons, producing essays with more elements and higher quality scores than comparison instruction.
 - **POW+TREE in elementary persuasive writing** — students learn to Pick an idea, Organize notes, Write and say more, then plan essays with Topic sentence, Reasons, Explanations, and Ending; extensively validated by Harris, Graham, and Mason with students in grades 2–6.
 - **SRSD for revising (CDO)** — Compare, Diagnose, Operate: students compare their draft against a rubric, diagnose problems, and operate to fix them, improving revision quality in adolescents.
-- **ThinkSRSD** — a widely used teacher-facing implementation framework and lesson materials (https://www.thinksrsd.com) supporting whole-class SRSD across grade levels.
+- **[ThinkSRSD](../products/thinksrsd.md)** — a widely used teacher-facing implementation framework and lesson materials (https://www.thinksrsd.com) supporting whole-class SRSD across grade levels.
 
 ## Key Sources
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)

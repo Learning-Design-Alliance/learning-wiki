@@ -3,7 +3,7 @@ type: claim
 title: The top-performing exercise intervention offered microrewards for returning to the gym after a missed workout
 description: The top-performing exercise intervention offered microrewards for returning to the gym after a missed workout
 id: microrewards-after-missed-workout-top-intervention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

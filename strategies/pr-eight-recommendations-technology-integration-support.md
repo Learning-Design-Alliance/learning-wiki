@@ -3,7 +3,7 @@ type: strategy
 id: pr-eight-recommendations-technology-integration-support
 title: "Eight recommendations for supporting teachers' technology integration, including personalized professional learning and formalized coaching"
 description: "The report's discussion offers eight recommendations for education decision-makers: improve pre-service technology training, personalize professional learning, support ongoing micro-credential rollout, develop recogni..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

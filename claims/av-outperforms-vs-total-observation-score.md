@@ -3,7 +3,7 @@ type: claim
 title: In the initial skill acquisition phase, authentic video yielded higher overall observation assignment scores than virtual simulation
 description: In the initial skill acquisition phase, authentic video yielded higher overall observation assignment scores than virtual simulation
 id: av-outperforms-vs-total-observation-score
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: "Red Light, Purple Light has potentially positive effects on preschool children's self-regulation, with moderate evidence"
 description: "Red Light, Purple Light has potentially positive effects on preschool children's self-regulation, with moderate evidence"
 id: red-light-purple-light-potentially-positive-self-regulation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: On the ASSISTments 2020 dataset, StanBKT inference methods achieve nearly identical predictive performance while differing mainly in fit time
 description: On the ASSISTments 2020 dataset, StanBKT inference methods achieve nearly identical predictive performance while differing mainly in fit time
 id: stanbkt-methods-comparable-predictive-performance-assistments-2020
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: The pathway from full-day pre-k to better second-grade outcomes was especially strong among Black students, lowest-income students, and students living in mostly-Black neighborhoods
 description: The pathway from full-day pre-k to better second-grade outcomes was especially strong among Black students, lowest-income students, and students living in mostly-Black neighborhoods
 id: prek-pathway-strongest-high-priority-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

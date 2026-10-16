@@ -4,7 +4,7 @@ id: e3sense
 title: E3Sense
 description: E3Sense is a research platform developed by Sidharth Anupkrishnan et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

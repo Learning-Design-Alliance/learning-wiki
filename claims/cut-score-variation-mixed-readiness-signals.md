@@ -3,7 +3,7 @@ type: claim
 title: Cut scores for transfer-level mathematics placement vary considerably across California community colleges, sending mixed signals about college readiness
 description: Cut scores for transfer-level mathematics placement vary considerably across California community colleges, sending mixed signals about college readiness
 id: cut-score-variation-mixed-readiness-signals
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

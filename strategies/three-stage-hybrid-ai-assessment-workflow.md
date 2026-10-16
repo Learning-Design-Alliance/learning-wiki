@@ -3,7 +3,7 @@ type: strategy
 id: three-stage-hybrid-ai-assessment-workflow
 title: "Three-stage hybrid workflow: API batch review, identification of doubtful cases, focused conversational teacher review"
 description: "For large courses, the article proposes a combined workflow in three stages: (1) a first AI-assisted review via batch API processing generating structured feedback by rubric criterion; (2) identification of cases requ..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

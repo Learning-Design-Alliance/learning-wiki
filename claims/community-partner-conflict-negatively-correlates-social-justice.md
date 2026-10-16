@@ -3,7 +3,7 @@ type: claim
 title: Conflict and antagonism with community partners negatively correlate with social justice and diversity attitudes
 description: Conflict and antagonism with community partners negatively correlate with social justice and diversity attitudes
 id: community-partner-conflict-negatively-correlates-social-justice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

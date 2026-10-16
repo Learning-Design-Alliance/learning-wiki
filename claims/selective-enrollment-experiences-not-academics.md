@@ -3,7 +3,7 @@ type: claim
 title: Selective enrollment high schools improve student experiences but do not change academic outcomes, on average, compared with high-performing non-selective schools
 description: Selective enrollment high schools improve student experiences but do not change academic outcomes, on average, compared with high-performing non-selective schools
 id: selective-enrollment-experiences-not-academics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: booster-training-and-coaching-sustain-swpbis
 title: Sustain whole-school reform through annual booster training and ongoing coaching
 description: "The article indicates that sustainability of SWPBIS depends on \"strong leadership at the school and district levels, onsite and ongoing coaching to support high quality implementation, evidence that SWPBIS can be impl..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

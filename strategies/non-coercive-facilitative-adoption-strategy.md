@@ -3,7 +3,7 @@ type: strategy
 id: non-coercive-facilitative-adoption-strategy
 title: Employ a non-coercive, facilitative organizational change strategy that lets teachers pursue individualized adoption at their own pace, supported by training aimed at informational and management concerns
 description: The article reports that a non-coercive, facilitative organizational strategy for change allowed teachers to pursue highly individualized approaches to adoption at their own pace and under their own control.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

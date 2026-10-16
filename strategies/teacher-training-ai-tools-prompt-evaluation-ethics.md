@@ -3,7 +3,7 @@ type: strategy
 id: teacher-training-ai-tools-prompt-evaluation-ethics
 title: Train teachers in prompt engineering, evaluating AI-generated responses, ethical and privacy considerations, and integrating AI outputs into pedagogical decision-making
 description: "For policymakers incorporating AI tools such as ChatGPT into the English language curriculum, the article states it \"is essential to provide teachers with training and professional development on eﬀectively utilizing..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -58,6 +58,7 @@ For policymakers incorporating AI tools such as ChatGPT into the English languag
 - [Provide explicit instruction in AI prompting and information verification alongside AI integration in laboratory courses](explicit-ai-prompting-verification-instruction.md)
 - [Privacy-conscious, teacher-mediated GenAI implementation: anonymized feedback, pre-programmed prompts, and accessible original comments](privacy-conscious-teacher-mediated-genai-feedback-workflow.md)
 - [Automated assessment outputs must retain human monitoring and never serve as official grades or sole decision bases](human-monitoring-automated-assessment.md)
+- [Implement preventative measures: student awareness programs and regular professional development training for educators](chatbot-preventative-measures-strategy.md)
 
 ## Examples
 -

@@ -3,7 +3,7 @@ type: claim
 title: Curiosity balanced against knowledge-gap overwhelm drives prolonged engagement and memory
 description: Curiosity balanced against knowledge-gap overwhelm drives prolonged engagement and memory
 id: curiosity-knowledge-gap-balance-engagement-memory
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

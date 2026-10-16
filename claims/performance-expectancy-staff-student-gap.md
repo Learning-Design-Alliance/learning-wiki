@@ -3,7 +3,7 @@ type: claim
 title: Students were more positive than staff that GAI use enhances academic performance, with staff means below the scale midpoint
 description: Students were more positive than staff that GAI use enhances academic performance, with staff means below the scale midpoint
 id: performance-expectancy-staff-student-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

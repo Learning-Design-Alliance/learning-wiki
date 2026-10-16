@@ -3,7 +3,7 @@ type: strategy
 id: governance-beyond-prohibition-detection
 title: Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection
 description: The article recommends that effective institutional governance extend beyond prohibition, detection, or general guidance toward establishing practical conditions that support AI literacy, learner agency, privacy prote...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -89,6 +89,8 @@ The article recommends that effective institutional governance extend beyond pro
 - [Tripartite institutional response: AI literacy, ethical infrastructure, and competence-based educator training](tripartite-agentic-ai-institutional-response.md)
 - [Institutions should move toward deliberate, transparent policies governing AI use in admissions and reconsider what application essays should assess](deliberate-transparent-ai-policies-for-admissions.md)
 - [Deploy soft barriers transparently: institutional approval, policy-level disclosure, and accessibility testing](transparent-disclosed-soft-barrier-deployment.md)
+- [Develop student AI literacy and institutional GenAI policies, guidelines and safeguards for responsible integration](genai-literacy-and-institutional-policy-strategy.md)
+- [Universities should provide vivid guidelines and education on how and where ChatGPT may be used for learning](university-guidelines-education-chatgpt-use.md)
 
 ## Examples
 -

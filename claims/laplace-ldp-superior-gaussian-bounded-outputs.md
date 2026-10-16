@@ -3,7 +3,7 @@ type: claim
 title: "Laplace-based local differential privacy outperforms Gaussian noise under Rényi-DP accounting for bounded [0,1]K prediction outputs"
 description: "Laplace-based local differential privacy outperforms Gaussian noise under Rényi-DP accounting for bounded [0,1]K prediction outputs"
 id: laplace-ldp-superior-gaussian-bounded-outputs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

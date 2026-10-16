@@ -3,7 +3,7 @@ type: claim
 title: "Restorative practices outcomes follow a slow trajectory: quick low-level successes after training, high-level success in three to five years or more"
 description: "Restorative practices outcomes follow a slow trajectory: quick low-level successes after training, high-level success in three to five years or more"
 id: restorative-practices-three-to-five-year-timeline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

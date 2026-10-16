@@ -3,7 +3,7 @@ type: strategy
 id: instructor-in-loop-ai-difficulty-reports
 title: Position the instructor as human-in-the-loop reviewer of AI-generated difficulty reports before any feedback reaches students
 description: "In this strategy, the instructor first reviews the student's raw attempt history, then optionally invokes AI-assisted analysis to obtain a labeled difficulty report, and approves it before feedback reaches the student."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: staged-teacher-ai-teaming-implementation
 title: "Staged institutional implementation: audit interactions, map to teaming levels, build AI literacy, co-design, and evaluate iteratively"
 description: The chapter recommends institutions translate the teaming framework into practice as a staged, capacity-building process rather than a technical deployment challenge.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

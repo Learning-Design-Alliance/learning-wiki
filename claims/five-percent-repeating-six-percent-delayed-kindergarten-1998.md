@@ -3,7 +3,7 @@ type: claim
 title: In fall 1998, five percent of children were repeating kindergarten and six percent were attending kindergarten for the first time despite being age-eligible a year earlier
 description: In fall 1998, five percent of children were repeating kindergarten and six percent were attending kindergarten for the first time despite being age-eligible a year earlier
 id: five-percent-repeating-six-percent-delayed-kindergarten-1998
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

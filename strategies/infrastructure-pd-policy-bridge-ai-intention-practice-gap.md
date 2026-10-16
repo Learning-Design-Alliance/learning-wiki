@@ -3,7 +3,7 @@ type: strategy
 id: infrastructure-pd-policy-bridge-ai-intention-practice-gap
 title: Bridge the AI intention-practice gap through digital infrastructure, professional development, and supportive institutional policies
 description: The article recommends that effective AI integration in science education requires systemic support rather than attitude change alone.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

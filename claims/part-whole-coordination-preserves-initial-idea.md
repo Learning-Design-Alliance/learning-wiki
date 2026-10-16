@@ -3,7 +3,7 @@ type: claim
 title: Coordinating attention between whole-strip length and dot spacing does not disrupt and may stabilize the idea that shorter strips take less time
 description: Coordinating attention between whole-strip length and dot spacing does not disrupt and may stabilize the idea that shorter strips take less time
 id: part-whole-coordination-preserves-initial-idea
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

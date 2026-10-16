@@ -3,7 +3,7 @@ type: claim
 title: AI-driven methodologies in chemistry laboratory classes foster deeper understanding of chemical phenomena while raising questions about human intuition and creativity
 description: AI-driven methodologies in chemistry laboratory classes foster deeper understanding of chemical phenomena while raising questions about human intuition and creativity
 id: ai-lab-methodologies-deeper-understanding-questions-intuition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

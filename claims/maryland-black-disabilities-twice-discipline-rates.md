@@ -3,7 +3,7 @@ type: claim
 title: Black students and students with disabilities in Maryland were suspended and expelled at more than twice the rates of other students
 description: Black students and students with disabilities in Maryland were suspended and expelled at more than twice the rates of other students
 id: maryland-black-disabilities-twice-discipline-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

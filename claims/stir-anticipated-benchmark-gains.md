@@ -3,7 +3,7 @@ type: claim
 title: The STIR partnership anticipates that schools will report more students at or above early literacy benchmarks relative to prior years
 description: The STIR partnership anticipates that schools will report more students at or above early literacy benchmarks relative to prior years
 id: stir-anticipated-benchmark-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Fine-tuning with INSIDE internal dialogue achieves the lowest Wasserstein distances to real student code distributions on test_OP across all action-fidelity metrics
 description: Fine-tuning with INSIDE internal dialogue achieves the lowest Wasserstein distances to real student code distributions on test_OP across all action-fidelity metrics
 id: inside-lowest-wasserstein-action-fidelity-test-op
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

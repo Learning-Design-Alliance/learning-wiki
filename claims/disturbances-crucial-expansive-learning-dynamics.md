@@ -3,7 +3,7 @@ type: claim
 title: Transitions and disturbances were crucial for the dynamics of expansive learning in the meeting
 description: Transitions and disturbances were crucial for the dynamics of expansive learning in the meeting
 id: disturbances-crucial-expansive-learning-dynamics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

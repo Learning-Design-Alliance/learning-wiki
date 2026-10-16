@@ -4,7 +4,7 @@ id: fine-tuned-gemma-e2b-offline-deployment-with-dashboard-and-conversational-in
 title: Fine-tuned Gemma E2B offline deployment with dashboard and conversational interfaces
 description: "Chenguang Pan et al.'s offline educational-intervention-effect explanation system, combining a LoRA-adapted Gemma E2B model with dashboard and conversational interfaces for parents, students, counselors, and other stakeholders."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

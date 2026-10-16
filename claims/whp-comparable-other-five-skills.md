@@ -3,7 +3,7 @@ type: claim
 title: An evaluation of the World History Project detected no statistically significant difference from comparison students in the other five historical thinking skills
 description: "An evaluation of the World History Project detected no statistically significant difference from comparison students in the other five historical thinking skills"
 id: whp-comparable-other-five-skills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

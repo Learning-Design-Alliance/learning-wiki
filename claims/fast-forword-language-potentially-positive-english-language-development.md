@@ -3,7 +3,7 @@ type: claim
 title: Fast ForWord Language has potentially positive effects on English language development of elementary school English language learners
 description: Fast ForWord Language has potentially positive effects on English language development of elementary school English language learners
 id: fast-forword-language-potentially-positive-english-language-development
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

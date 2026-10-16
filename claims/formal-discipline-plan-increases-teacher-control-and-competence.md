@@ -3,7 +3,7 @@ type: claim
 title: Teachers feel more in control and more competent when they have a formal plan for discipline and procedures
 description: Teachers feel more in control and more competent when they have a formal plan for discipline and procedures
 id: formal-discipline-plan-increases-teacher-control-and-competence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

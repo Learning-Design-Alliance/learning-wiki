@@ -3,7 +3,7 @@ type: strategy
 id: formative-friction-proportionate-accessible
 title: "Formative friction: require goal statements, alternative comparison, and justification before high-stakes delegation, kept proportionate and accessible"
 description: This strategy distinguishes exclusionary friction from formative friction in AI-mediated workflows.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

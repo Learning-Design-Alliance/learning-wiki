@@ -3,7 +3,7 @@ type: claim
 title: "Student discourse with a Socratic AI physics tutor concentrates sharply: of 357 consolidated categories, the top 25 cover roughly half of all student turns"
 description: "Student discourse with a Socratic AI physics tutor concentrates sharply: of 357 consolidated categories, the top 25 cover roughly half of all student turns"
 id: ai-tutor-discourse-concentrates-top-categories
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

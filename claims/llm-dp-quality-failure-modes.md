@@ -3,7 +3,7 @@ type: claim
 title: Half of LLM-generated design problems received perfect expert ratings, though common failure modes included scenarios too similar to the original project and ambiguous scope
 description: Half of LLM-generated design problems received perfect expert ratings, though common failure modes included scenarios too similar to the original project and ambiguous scope
 id: llm-dp-quality-failure-modes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

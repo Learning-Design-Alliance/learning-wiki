@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Guided play outperforms direct instruction or free play on a few early-childhood outcomes, with no reliable difference on most others, in one meta-analysis
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

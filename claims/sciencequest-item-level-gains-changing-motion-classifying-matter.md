@@ -3,7 +3,7 @@ type: claim
 title: Item-level analysis found significant post-intervention improvement on five ScienceQuest items corresponding to the Changing Motion and Classifying Matter playlists
 description: Item-level analysis found significant post-intervention improvement on five ScienceQuest items corresponding to the Changing Motion and Classifying Matter playlists
 id: sciencequest-item-level-gains-changing-motion-classifying-matter
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

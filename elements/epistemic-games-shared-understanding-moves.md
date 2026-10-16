@@ -4,7 +4,7 @@ id: epistemic-games-shared-understanding-moves
 title: "Epistemic Games: Shared-Understanding Moves"
 description: Five recurring, teachable interaction moves — knowledge sharing, perspective-taking, simulation, knowledge validation, and negotiation — that interdisciplinary teams use to construct a shared problem understanding.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

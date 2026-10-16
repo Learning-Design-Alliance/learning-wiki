@@ -3,7 +3,7 @@ type: strategy
 id: within-school-random-assignment-design-strategy
 title: Use within-school random assignment of students as an evaluation design for school-based programs, learning implementation lessons from the TFA experiment
 description: The article treats random assignment of students within schools as a study design worth using despite its difficulties.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

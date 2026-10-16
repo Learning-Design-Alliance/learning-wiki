@@ -3,7 +3,7 @@ type: claim
 title: None of the three key organizational characteristics is individually sufficient for strong freshman course performance in CHSRI small schools
 description: None of the three key organizational characteristics is individually sufficient for strong freshman course performance in CHSRI small schools
 id: individual-conditions-insufficient-course-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

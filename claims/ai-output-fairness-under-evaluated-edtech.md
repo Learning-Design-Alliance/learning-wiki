@@ -3,7 +3,7 @@ type: claim
 title: Fairness of AI outputs remains under-evaluated in edtech research
 description: Fairness of AI outputs remains under-evaluated in edtech research
 id: ai-output-fairness-under-evaluated-edtech
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

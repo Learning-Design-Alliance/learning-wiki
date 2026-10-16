@@ -64,7 +64,7 @@ Diverse resources do their work through two mechanisms: representational (learne
 - [Case-Based Learning](case-based-learning.md) — a natural vehicle for diverse, authentic cases
 
 ## Examples
-- **Facing History and Ourselves** (https://www.facinghistory.org) — curriculum built on diverse primary sources and testimony, pairing materials with structured discussion of identity and choice.
+- **[Facing History and Ourselves](../products/facing-history-and-ourselves.md)** (https://www.facinghistory.org) — curriculum built on diverse primary sources and testimony, pairing materials with structured discussion of identity and choice.
 - **Rudine Sims Bishop's "Mirrors, Windows, and Sliding Glass Doors"** framework — widely used to audit classroom libraries for representation; texts serve as mirrors, windows, or doors learners step through.
 - **Cognitive Flexibility Hypertext** — Spiro's ill-structured domain approach, presenting the same complex topic from multiple thematic criss-crossings so learners build flexible representations.
 

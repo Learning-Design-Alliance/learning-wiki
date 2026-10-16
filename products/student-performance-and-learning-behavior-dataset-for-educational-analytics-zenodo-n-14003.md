@@ -4,7 +4,7 @@ id: student-performance-and-learning-behavior-dataset-for-educational-analytics-
 title: Student Performance and Learning Behavior Dataset for Educational Analytics (Zenodo, N = 14,003)
 description: A CC0 Zenodo dataset of 14,003 anonymized higher-education student records compiled from two public Kaggle datasets for behavioral profiling, educational analytics, and adaptive-learning recommendation research.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

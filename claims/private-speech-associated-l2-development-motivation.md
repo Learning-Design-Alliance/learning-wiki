@@ -3,7 +3,7 @@ type: claim
 title: "Second language learners' private speech is associated with L2 development and motivation to learn the language"
 description: "Second language learners' private speech is associated with L2 development and motivation to learn the language"
 id: private-speech-associated-l2-development-motivation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

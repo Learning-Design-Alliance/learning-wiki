@@ -3,7 +3,7 @@ type: claim
 title: Growth in academic self-efficacy is significantly associated with growth in mathematics achievement when modeled jointly
 description: Growth in academic self-efficacy is significantly associated with growth in mathematics achievement when modeled jointly
 id: self-efficacy-growth-associated-with-math-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

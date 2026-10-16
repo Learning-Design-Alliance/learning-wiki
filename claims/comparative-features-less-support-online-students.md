@@ -3,7 +3,7 @@ type: claim
 title: Comparative dashboard features found less support among online students than recommendations and contact features
 description: Comparative dashboard features found less support among online students than recommendations and contact features
 id: comparative-features-less-support-online-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

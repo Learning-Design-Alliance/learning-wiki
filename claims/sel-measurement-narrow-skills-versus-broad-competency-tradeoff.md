@@ -3,7 +3,7 @@ type: claim
 title: Measuring SEL involves a tradeoff between measuring narrower discrete skills and measuring broader competencies
 description: Measuring SEL involves a tradeoff between measuring narrower discrete skills and measuring broader competencies
 id: sel-measurement-narrow-skills-versus-broad-competency-tradeoff
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

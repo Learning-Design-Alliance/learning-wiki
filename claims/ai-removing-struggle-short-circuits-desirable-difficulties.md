@@ -3,7 +3,7 @@ type: claim
 title: Struggling to encode, retrieve, and reorganize information produces deeper comprehension and retention, and AI-supplied ready-made solutions short-circuit these processes
 description: Struggling to encode, retrieve, and reorganize information produces deeper comprehension and retention, and AI-supplied ready-made solutions short-circuit these processes
 id: ai-removing-struggle-short-circuits-desirable-difficulties
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

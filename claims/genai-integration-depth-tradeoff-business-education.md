@@ -3,7 +3,7 @@ type: claim
 title: In first-year GenAI adoption in business higher education, curriculum-integrated modules reported enhanced student engagement, performance and employability, while fragmented approaches were more susceptible to ethical concerns, overreliance and inequality
 description: In first-year GenAI adoption in business higher education, curriculum-integrated modules reported enhanced student engagement, performance and employability, while fragmented approaches were more susceptible to ethica...
 id: genai-integration-depth-tradeoff-business-education
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

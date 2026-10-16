@@ -3,7 +3,7 @@ type: strategy
 id: zwick-mislevy-pilot-testing-standardization-strategy
 title: Use pilot and field testing to evaluate psychometric complexity, and standardize testing policies for comparability
 description: "Zwick and Mislevy's recommendations to Smarter Balanced and PARCC, quoted in the review, urge designers to \"Recognize the tradeoffs between inferential demands and procedural simplicity,\" to use pilot and field test p..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

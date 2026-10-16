@@ -3,7 +3,7 @@ type: claim
 title: Learning gains were uncorrelated with prior self-reported AI literacy and database literacy, suggesting AI integration benefited students irrespective of prior perceptions
 description: Learning gains were uncorrelated with prior self-reported AI literacy and database literacy, suggesting AI integration benefited students irrespective of prior perceptions
 id: gains-uncorrelated-with-prior-literacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -46,3 +46,4 @@ Secondary correlational analysis comparing baseline self-reported proficiency ac
 - [Professional commitment is essentially uncorrelated with AI literacy and shows no significant bivariate correlation with learning engagement](professional-commitment-null-bivariate-correlations.md) — related
 - [AI Interaction Competence, not GPA or prior knowledge, is the decisive moderator of LLM-assisted learning gains](aic-moderates-llm-learning-gains.md) — reports the opposite
 - [Teachers' self-reported AI literacy correlates only weakly with their objectively measured performance (r = 0.07–0.24)](weak-sr-ob-correlation-ai-literacy.md) — related
+- [Students' self-reported perception of peer assessment's benefit is virtually uncorrelated with their actual measured benefit](perception-of-peer-assessment-benefit-uncorrelated-with-actual-benefit.md) — related

@@ -3,7 +3,7 @@ type: claim
 title: Item parameter estimation methods were almost never reported in the reviewed IRT scale development studies
 description: Item parameter estimation methods were almost never reported in the reviewed IRT scale development studies
 id: estimation-method-rarely-reported-irt-studies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: "Boys are disproportionately represented among students designated as LTEL7 in California (56% vs. 51% of other ever-ELs)"
 description: "Boys are disproportionately represented among students designated as LTEL7 in California (56% vs."
 id: boys-disproportionately-represented-ltel7-california
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

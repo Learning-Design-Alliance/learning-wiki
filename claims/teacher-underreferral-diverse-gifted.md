@@ -3,7 +3,7 @@ type: claim
 title: Teachers underrefer culturally and linguistically diverse students for gifted identification
 description: Teachers underrefer culturally and linguistically diverse students for gifted identification
 id: teacher-underreferral-diverse-gifted
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

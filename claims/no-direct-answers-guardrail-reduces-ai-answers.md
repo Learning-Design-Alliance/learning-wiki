@@ -3,7 +3,7 @@ type: claim
 title: "Explicit no-direct-answers guardrails in teacher prompts reduced the AI's final-answer provision rate by 8.5 percentage points (16.2% to 7.7%)"
 description: "Explicit no-direct-answers guardrails in teacher prompts reduced the AI's final-answer provision rate by 8.5 percentage points (16.2% to 7.7%)"
 id: no-direct-answers-guardrail-reduces-ai-answers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

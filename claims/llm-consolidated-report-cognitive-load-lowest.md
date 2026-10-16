@@ -3,7 +3,7 @@ type: claim
 title: Students rate LLM-generated consolidated reports favourably, with cognitive load rated lowest
 description: Students rate LLM-generated consolidated reports favourably, with cognitive load rated lowest
 id: llm-consolidated-report-cognitive-load-lowest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

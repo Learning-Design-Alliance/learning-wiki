@@ -3,7 +3,7 @@ type: element
 id: aps-turnaround-strategy-year2-evaluation
 title: Atlanta Public Schools Turnaround Strategy evaluation (Year 2 impact report)
 description: A Mathematica Policy Research evaluation of the Atlanta Public Schools Turnaround Strategy, prepared for the district for the 2016-2019 time frame.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Case study districts' staffing for English Learners falls well below Ohio cost-study recommendations for instructors and bilingual paraprofessionals"
 description: "Case study districts' staffing for English Learners falls well below Ohio cost-study recommendations for instructors and bilingual paraprofessionals"
 id: el-staffing-gaps-below-ohio-recommendations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Students' key areas of interest in GenAI are real-world business applications, ethical considerations, and future technological advancements"
 description: "Students' key areas of interest in GenAI are real-world business applications, ethical considerations, and future technological advancements"
 id: student-genai-interest-areas-applications-ethics-advancements
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

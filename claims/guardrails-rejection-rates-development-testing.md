@@ -3,7 +3,7 @@ type: claim
 title: "During development testing, Taklif.AI guardrails rejected roughly 12% of interests, 8% of input documents, and 3% of generated assignments"
 description: "During development testing, Taklif.AI guardrails rejected roughly 12% of interests, 8% of input documents, and 3% of generated assignments"
 id: guardrails-rejection-rates-development-testing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

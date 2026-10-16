@@ -3,7 +3,7 @@ type: claim
 title: A guided posthumanist writing experiment showed a student internalizing a posthumanist ontology, yet her evaluative criteria remained human-centric
 description: A guided posthumanist writing experiment showed a student internalizing a posthumanist ontology, yet her evaluative criteria remained human-centric
 id: asuka-posthumanist-experiment-human-centric-evaluation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: In a prior Wizard-of-Oz study, K-12 engineering teachers reported positive feedback on the efficiency, quality, and diversity of scaffold content produced with the Concept Catalyst framework
 description: In a prior Wizard-of-Oz study, K-12 engineering teachers reported positive feedback on the efficiency, quality, and diversity of scaffold content produced with the Concept Catalyst framework
 id: woz-study-positive-teacher-feedback-concept-catalyst-framework
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

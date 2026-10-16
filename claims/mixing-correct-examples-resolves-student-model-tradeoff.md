@@ -3,7 +3,7 @@ type: claim
 title: "Mixing correct examples into student-model training resolves the misconception-accuracy trade-off, with correct examples as low as 25% preserving both properties"
 description: "Mixing correct examples into student-model training resolves the misconception-accuracy trade-off, with correct examples as low as 25% preserving both properties"
 id: mixing-correct-examples-resolves-student-model-tradeoff
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

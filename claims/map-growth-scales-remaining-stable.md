@@ -3,7 +3,7 @@ type: claim
 title: Both item-level and test-level analyses indicate the MAP Growth measurement scales are remaining stable
 description: Both item-level and test-level analyses indicate the MAP Growth measurement scales are remaining stable
 id: map-growth-scales-remaining-stable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

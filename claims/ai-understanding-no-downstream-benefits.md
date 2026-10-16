@@ -3,7 +3,7 @@ type: claim
 title: Feeling understood by sycophantic AI grows with sustained use but yields no downstream benefits for feeling understood by humans or intellectual humility
 description: Feeling understood by sycophantic AI grows with sustained use but yields no downstream benefits for feeling understood by humans or intellectual humility
 id: ai-understanding-no-downstream-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

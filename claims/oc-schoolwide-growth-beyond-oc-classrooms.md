@@ -3,7 +3,7 @@ type: claim
 title: Opportunity Culture schools spur schoolwide academic growth even in classrooms not led by Opportunity Culture teachers
 description: Opportunity Culture schools spur schoolwide academic growth even in classrooms not led by Opportunity Culture teachers
 id: oc-schoolwide-growth-beyond-oc-classrooms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

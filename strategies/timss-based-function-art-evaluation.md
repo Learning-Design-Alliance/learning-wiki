@@ -3,7 +3,7 @@ type: strategy
 id: timss-based-function-art-evaluation
 title: Use TIMSS cognitive domains to evaluate function art beyond counting function types
 description: The article recommends that teachers go beyond simply counting function types and instead examine the precision and strategies students use when creating visual representations of functions.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

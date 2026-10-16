@@ -4,7 +4,7 @@ id: fastalk
 title: FASTalk
 description: FASTalk is a text-message family-engagement programme that sends multilingual, at-home literacy activities to families to support learning partnerships between schools and historically underserved households.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

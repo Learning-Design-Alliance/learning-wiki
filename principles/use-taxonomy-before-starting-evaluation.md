@@ -3,7 +3,7 @@ type: principle
 id: use-taxonomy-before-starting-evaluation
 title: Use the taxonomy of value conflicts before starting an evaluation
 description: The article recommends that evaluators apply the value-conflict taxonomy prospectively rather than only retrospectively.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

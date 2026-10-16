@@ -3,7 +3,7 @@ type: claim
 title: Houston charter school students outperformed Houston other district school students in both reading and math in 2018-19
 description: Houston charter school students outperformed Houston other district school students in both reading and math in 2018-19
 id: houston-charter-beats-district-reading-and-math-2018-19
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

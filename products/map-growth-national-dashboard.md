@@ -4,7 +4,7 @@ id: map-growth-national-dashboard
 title: MAP Growth National Dashboard
 description: "NWEA's dashboard software product that presents national student achievement and growth trend data from MAP Growth assessments."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
@@ -323,7 +323,7 @@ The MAP Growth National Dashboard is a NWEA data product that releases national 
 - [MAP Growth National Dashboard with user guide and technical appendix](../products/map-growth-national-dashboard.md)
 - [MAP Growth assessment product](../elements/map-growth-assessment-product-element.md)
 - [MAP Growth Specialty School National Dashboard technical appendix](../products/map-growth-specialty-school-national-dashboard.md)
-- [NWEA longitudinal growth database used to track top students' achievement trends](../products/nwea-map-growth.md)
+- [NWEA longitudinal growth database used to track top students' achievement trends](map-growth.md)
 - [Specialty Schools National Dashboard: interactive tool for achievement and growth patterns in US private and charter schools](../products/specialty-schools-national-dashboard.md)
 - [Interactive data visualizations of COVID-19 reading and math achievement and growth](../elements/covid-learning-data-visualizations-nwea.md)
 

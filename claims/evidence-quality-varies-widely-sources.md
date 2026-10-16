@@ -3,7 +3,7 @@ type: claim
 title: The quality of evidence about technology effectiveness varies widely across information sources
 description: The quality of evidence about technology effectiveness varies widely across information sources
 id: evidence-quality-varies-widely-sources
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

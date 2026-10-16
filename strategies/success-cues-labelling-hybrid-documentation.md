@@ -3,7 +3,7 @@ type: strategy
 id: success-cues-labelling-hybrid-documentation
 title: Provide success cues, component labelling, and hybrid documentation combining video, still images, and step-by-step diagrams for buildable robot kits
 description: The article recommends three concrete design moves for open hardware learning platforms.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

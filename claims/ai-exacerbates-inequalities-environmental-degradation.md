@@ -3,7 +3,7 @@ type: claim
 title: Contrary to claims that AI will automatically engender a more democratic, equal, and sustainable world, the editorial argues these technologies tend to exacerbate existing inequalities, environmental degradation, and labour precarity
 description: Contrary to claims that AI will automatically engender a more democratic, equal, and sustainable world, the editorial argues these technologies tend to exacerbate existing inequalities, environmental degradation, and...
 id: ai-exacerbates-inequalities-environmental-degradation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

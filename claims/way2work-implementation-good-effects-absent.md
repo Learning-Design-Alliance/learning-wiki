@@ -3,7 +3,7 @@ type: claim
 title: Despite apparent strong implementation, Way2Work Maryland did not generate its intended effects; the report lists five possible reasons
 description: Despite apparent strong implementation, Way2Work Maryland did not generate its intended effects; the report lists five possible reasons
 id: way2work-implementation-good-effects-absent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

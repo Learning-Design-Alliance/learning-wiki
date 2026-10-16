@@ -3,7 +3,7 @@ type: claim
 title: Fort Worth charter school students in poverty significantly outgrew district-school students in poverty in reading growth
 description: Fort Worth charter school students in poverty significantly outgrew district-school students in poverty in reading growth
 id: fort-worth-poverty-students-charter-advantage-reading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

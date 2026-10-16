@@ -3,7 +3,7 @@ type: strategy
 id: guided-support-emotional-safety-recovery-narratives
 title: Provide guided support and emotional safety mechanisms when delivering digital recovery narratives
 description: Based on low engagement and mixed emotional responses in the pilot, the authors recommend guided use of STORY MINE supported by mental health professionals or lived-experience experts, plus harm-minimization mechanisms.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

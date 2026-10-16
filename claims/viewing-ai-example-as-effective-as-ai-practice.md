@@ -3,7 +3,7 @@ type: claim
 title: Merely viewing an AI-generated writing example improved writing skill as much as actively practicing with the AI tool, with benefits persisting one day later
 description: Merely viewing an AI-generated writing example improved writing skill as much as actively practicing with the AI tool, with benefits persisting one day later
 id: viewing-ai-example-as-effective-as-ai-practice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

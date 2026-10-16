@@ -3,7 +3,7 @@ type: claim
 title: "Co-occurrence of fabricated references with interview admissions grew from 3.1% to 15% of cases, reaching about 1 in 7 cases by 2025"
 description: "Co-occurrence of fabricated references with interview admissions grew from 3.1% to 15% of cases, reaching about 1 in 7 cases by 2025"
 id: fabricated-references-co-occur-with-admissions-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

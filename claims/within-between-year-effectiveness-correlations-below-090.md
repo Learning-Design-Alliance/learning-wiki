@@ -3,7 +3,7 @@ type: claim
 title: School effectiveness estimates from fall-to-spring versus spring-to-spring growth correlate only moderately to strongly (.399 to .705), below the .90 threshold at which rank orderings diverge in accountability
 description: School effectiveness estimates from fall-to-spring versus spring-to-spring growth correlate only moderately to strongly (.399 to .705), below the .90 threshold at which rank orderings diverge in accountability
 id: within-between-year-effectiveness-correlations-below-090
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

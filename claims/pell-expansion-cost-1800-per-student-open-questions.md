@@ -3,7 +3,7 @@ type: claim
 title: Expanding Pell Grant eligibility cost on average about $1,800 per student, and labor-market returns relative to cost remain open questions
 description: Expanding Pell Grant eligibility cost on average about $1,800 per student, and labor-market returns relative to cost remain open questions
 id: pell-expansion-cost-1800-per-student-open-questions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

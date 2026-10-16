@@ -3,7 +3,7 @@ type: claim
 title: A quarter of first-year students reported their academic work was often or very often adversely affected by time spent on Facebook.
 description: A quarter of first-year students reported their academic work was often or very often adversely affected by time spent on Facebook.
 id: facebook-time-detriment-academic-work
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

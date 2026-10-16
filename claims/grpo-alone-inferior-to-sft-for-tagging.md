@@ -3,7 +3,7 @@ type: claim
 title: Applying GRPO alone to LLMs for tagging yields significantly lower performance than supervised fine-tuning
 description: Applying GRPO alone to LLMs for tagging yields significantly lower performance than supervised fine-tuning
 id: grpo-alone-inferior-to-sft-for-tagging
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

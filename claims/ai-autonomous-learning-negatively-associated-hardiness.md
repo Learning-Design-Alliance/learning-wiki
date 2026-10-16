@@ -3,7 +3,7 @@ type: claim
 title: AI-assisted autonomous learning is negatively associated with hardiness among vocational college students
 description: AI-assisted autonomous learning is negatively associated with hardiness among vocational college students
 id: ai-autonomous-learning-negatively-associated-hardiness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: diary-recall-reflection-verification-strategy
 title: Diary recording with recall, reflection and delayed verification as a self-directed learning strategy
 description: "The learner keeps a daily journal of communication problems and dubious utterances, then recalls and verifies them with native speakers when the chance arises, as when he memorized \"things are eased out now\" from a ph..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

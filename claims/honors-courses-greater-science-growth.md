@@ -3,7 +3,7 @@ type: claim
 title: Students flagged as honors courses demonstrated greater than expected science growth
 description: Students flagged as honors courses demonstrated greater than expected science growth
 id: honors-courses-greater-science-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

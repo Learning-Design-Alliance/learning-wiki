@@ -3,7 +3,7 @@ type: claim
 title: A trial Spanish-language NAEP mathematics assessment was administered to Puerto Rico public school students in grades 4 and 8 in 2003
 description: A trial Spanish-language NAEP mathematics assessment was administered to Puerto Rico public school students in grades 4 and 8 in 2003
 id: trial-spanish-naep-math-puerto-rico-2003
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

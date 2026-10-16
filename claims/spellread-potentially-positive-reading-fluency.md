@@ -3,7 +3,7 @@ type: claim
 title: SpellRead™ shows potentially positive effects on reading fluency for adolescent readers, with an average improvement index of +14
 description: SpellRead™ shows potentially positive effects on reading fluency for adolescent readers, with an average improvement index of +14
 id: spellread-potentially-positive-reading-fluency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

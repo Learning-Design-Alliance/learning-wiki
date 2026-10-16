@@ -3,7 +3,7 @@ type: claim
 title: Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics
 description: Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics
 id: stp-low-reliability-complex-construct
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

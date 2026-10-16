@@ -3,7 +3,7 @@ type: design
 id: human-ai-co-mentorship-complementary-roles
 title: Human-AI co-mentorship model with complementary tactical and strategic roles
 description: The article proposes a co-mentorship model in which AI tools and human mentors play fundamentally different, complementary roles in project-based learning.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

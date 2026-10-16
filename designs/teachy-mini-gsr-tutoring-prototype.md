@@ -3,7 +3,7 @@ type: design
 id: teachy-mini-gsr-tutoring-prototype
 title: "Teachy Mini: a knowledge-based generative social robot tutoring prototype on the Reachy Mini platform"
 description: Teachy Mini is a generative social robot tutoring prototype built on the open-source Reachy Mini desktop platform, supporting spoken dialogue and head/antenna social cues via the OpenAI Realtime API.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

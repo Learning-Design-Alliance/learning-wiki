@@ -2,7 +2,7 @@
 type: theory
 title: Four-phase teaching process for developing mathematical communication skills
 description: A lesson-level teaching process the article uses to develop mathematical communication skills while teaching congruent triangles.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

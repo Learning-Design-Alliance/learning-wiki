@@ -3,7 +3,7 @@ type: strategy
 id: service-scholarship-design-recommendations
 title: Design service scholarships that cover a substantial portion of preparation costs, with stable multiyear funding and linked data systems
 description: "The report's policy recommendations for service scholarship programs: benchmark funding so the grant \"covers a substantial portion of candidates' preparation costs\"; ensure stable, multiyear funding and consistent adm..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

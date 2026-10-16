@@ -3,7 +3,7 @@ type: research-method
 id: revealed-comparative-advantage-measure-of-teacher-equity-impact
 title: Revealed comparative advantage measure of teacher equity impact
 description: "The article introduces \"a novel measure of teacher quality—called revealed comparative advantage—that estimates teachers' impact on racial achievement differences.\" A teacher's comparative advantage for Black students is their differential impact on Black students relative to non-Black students; a p"
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

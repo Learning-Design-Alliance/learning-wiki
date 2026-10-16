@@ -3,7 +3,7 @@ type: claim
 title: "RAIL-Ed's integrative commitment holds that the absence of any pillar produces a characteristic pedagogical failure"
 description: "RAIL-Ed's integrative commitment holds that the absence of any pillar produces a characteristic pedagogical failure"
 id: rail-ed-integrative-failure-modes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: ies-turnaround-practice-guide-recommendations
 title: Build organizational strength over time using staff changes as one of many mechanisms, per the IES School Turnaround Practice Guide recommendations
 description: The report endorses the IES Practice Guide on School Turnaround, whose recommendations—drawn from case studies of substantially improved schools—include establishing strong leadership focused on school climate and ins...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

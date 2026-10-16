@@ -3,7 +3,7 @@ type: claim
 title: Feedback engagement indirectly associates GAA-LS scores with academic integrity intention in a cross-sectional structural model
 description: Feedback engagement indirectly associates GAA-LS scores with academic integrity intention in a cross-sectional structural model
 id: gaa-ls-feedback-engagement-indirect-association
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: The dashboard supports comparisons of achievement trends between student groups, including by school poverty level, with a recommendation to compare similar groups
 description: The dashboard supports comparisons of achievement trends between student groups, including by school poverty level, with a recommendation to compare similar groups
 id: student-group-comparisons-poverty-categories
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

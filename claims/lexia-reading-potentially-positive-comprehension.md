@@ -3,7 +3,7 @@ type: claim
 title: Lexia Reading has potentially positive effects on comprehension
 description: Lexia Reading has potentially positive effects on comprehension
 id: lexia-reading-potentially-positive-comprehension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

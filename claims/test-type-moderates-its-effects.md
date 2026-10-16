@@ -3,7 +3,7 @@ type: claim
 title: "ITS evaluation results depend strongly on test type: effects are large on locally developed tests (ES = 0.73) and small on standardized tests (ES = 0.13)"
 description: "ITS evaluation results depend strongly on test type: effects are large on locally developed tests (ES = 0.73) and small on standardized tests (ES = 0.13)"
 id: test-type-moderates-its-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

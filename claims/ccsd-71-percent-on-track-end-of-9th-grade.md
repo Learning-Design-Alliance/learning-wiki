@@ -3,7 +3,7 @@ type: claim
 title: 71 percent of CCSD 8th graders were on track for graduation at the end of 9th grade in 2015/16
 description: 71 percent of CCSD 8th graders were on track for graduation at the end of 9th grade in 2015/16
 id: ccsd-71-percent-on-track-end-of-9th-grade
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

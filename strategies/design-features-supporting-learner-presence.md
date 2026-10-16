@@ -3,7 +3,7 @@ type: strategy
 id: design-features-supporting-learner-presence
 title: Design online courses with predictable structure, professionally relevant choice, and substantive instructor discussion facilitation to support learner presence
 description: Based on interview and survey findings, the authors recommend course designs that provide coherent, predictable structure (via templates), meaningful trigger assignments allowing choice in researching subjects of prof...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

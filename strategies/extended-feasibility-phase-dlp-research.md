@@ -3,7 +3,7 @@ type: strategy
 id: extended-feasibility-phase-dlp-research
 title: Plan an extended feasibility phase in which research and platform teams jointly refine design, implementation, and logistics
 description: A key SEERNet learning is the benefit of an extended feasibility process involving the research team, platform team, and stakeholders to finalize questions, design, experimental contrasts, and data collection.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: design
 id: black-male-teacher-fellowship-program
 title: Black Male Teacher Fellowship Program
 description: "One LEA created a fellowship for all of its Black male teachers, administrators, and staff in service of a goal to increase Black men in LEA teaching positions \"by 25 in the next 5 years.\" The program creates \"a very..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

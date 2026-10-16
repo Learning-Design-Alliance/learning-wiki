@@ -3,7 +3,7 @@ type: claim
 title: Light verbs drive construction-based sorting in intermediate-level but not beginner or advanced EFL learners
 description: Light verbs drive construction-based sorting in intermediate-level but not beginner or advanced EFL learners
 id: light-verbs-modulate-intermediate-sorting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

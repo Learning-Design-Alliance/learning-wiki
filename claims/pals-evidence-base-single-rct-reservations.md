@@ -3,7 +3,7 @@ type: claim
 title: The evidence base for PALS in the Adolescent Literacy review rests on a single randomized trial of 120 students across 12 schools, rated as meeting standards with reservations
 description: The evidence base for PALS in the Adolescent Literacy review rests on a single randomized trial of 120 students across 12 schools, rated as meeting standards with reservations
 id: pals-evidence-base-single-rct-reservations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

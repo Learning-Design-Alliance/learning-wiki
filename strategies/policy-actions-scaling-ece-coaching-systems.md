@@ -3,7 +3,7 @@ type: strategy
 id: policy-actions-scaling-ece-coaching-systems
 title: Eight policy and practice actions for scaling early childhood coaching systems, from dedicated funding to data collection
 description: "The report recommends eight actions for state, county, and local policymakers: \"Provide dedicated funding for site-based coaching\"; provide specialized coaching for site leaders in addition to early educators; \"Create..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

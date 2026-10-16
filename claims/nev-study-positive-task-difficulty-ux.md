@@ -3,7 +3,7 @@ type: claim
 title: A qualitative study with 14 students found very positive perceived task-difficulty and user-experience assessments for the Nemo+nev environment
 description: A qualitative study with 14 students found very positive perceived task-difficulty and user-experience assessments for the Nemo+nev environment
 id: nev-study-positive-task-difficulty-ux
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

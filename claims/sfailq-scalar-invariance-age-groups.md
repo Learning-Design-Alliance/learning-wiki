@@ -3,7 +3,7 @@ type: claim
 title: SFAILQ shows scalar measurement invariance across adolescents, young adults, and middle-aged adults
 description: SFAILQ shows scalar measurement invariance across adolescents, young adults, and middle-aged adults
 id: sfailq-scalar-invariance-age-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

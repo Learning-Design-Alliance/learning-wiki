@@ -3,7 +3,7 @@ type: claim
 title: "Sharing experiences in class discussion modifies learners' attitudes and interpretations"
 description: "Sharing experiences in class discussion modifies learners' attitudes and interpretations"
 id: sharing-experiences-modifies-attitudes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: New research examined academic growth trends of students with disabilities in special education during the school year compared to the summer before the pandemic
 description: New research examined academic growth trends of students with disabilities in special education during the school year compared to the summer before the pandemic
 id: special-education-growth-school-year-versus-summer-before-pandemic
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: CLARA annotations align with blinded educator judgments, with 0.81 pairwise agreement and highest-rated educational interpretability
 description: CLARA annotations align with blinded educator judgments, with 0.81 pairwise agreement and highest-rated educational interpretability
 id: clara-educator-agreement-interpretability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Actors internalized the AI's questioning style, self-generating similar questions after the tool was removed"
 description: "Actors internalized the AI's questioning style, self-generating similar questions after the tool was removed"
 id: questioning-habits-internalized-after-ai-removal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

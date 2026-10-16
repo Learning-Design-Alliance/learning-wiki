@@ -69,7 +69,7 @@ Difficult dialogues work because productive discomfort — not comfort — drive
 ## Examples
 - **University of Michigan Program on Intergroup Relations** ([igr.umich.edu](https://igr.umich.edu)) — semester-long intergroup dialogue courses pairing identity groups with trained facilitators; the most-studied implementation of the strategy
 - **Facing History & Ourselves** ([facinghistory.org](https://www.facinghistory.org)) — published curriculum using structured dialogue on historical atrocities and identity to build civic reasoning in secondary classrooms
-- **Structured Academic Controversy** in a civics class — students research and argue both sides of a policy question in pairs before open discussion, converting positional debate into joint reasoning
+- **[Structured Academic Controversy](../patterns/structured-academic-controversy.md)** in a civics class — students research and argue both sides of a policy question in pairs before open discussion, converting positional debate into joint reasoning
 
 ## Key Sources
 - Gurin, P., Nagda, B. A., & Zúñiga, X. (2013). *Dialogue across difference: Practice, theory, and research on intergroup dialogue*. Russell Sage Foundation.

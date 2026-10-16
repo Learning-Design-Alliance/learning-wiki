@@ -3,7 +3,7 @@ type: claim
 title: Student access to devices and internet rose from about 60 percent in March 2020 to at least 98 percent by March 2021
 description: Student access to devices and internet rose from about 60 percent in March 2020 to at least 98 percent by March 2021
 id: student-device-internet-access-near-universal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Teacher perceived workload was negatively associated with student learning gains, especially for Mental Demand and Effort
 description: Teacher perceived workload was negatively associated with student learning gains, especially for Mental Demand and Effort
 id: teacher-workload-negatively-associated-learning-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

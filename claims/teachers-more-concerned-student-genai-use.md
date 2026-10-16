@@ -3,7 +3,7 @@ type: claim
 title: "Teachers are more concerned about students' use of GenAI than about their own use"
 description: "Teachers are more concerned about students' use of GenAI than about their own use"
 id: teachers-more-concerned-student-genai-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: A substantial proportion of distance students (44,035 of 76,485) used the AI-based learning assistant Syntea during one observation month
 description: A substantial proportion of distance students (44,035 of 76,485) used the AI-based learning assistant Syntea during one observation month
 id: syntea-substantial-adoption-distance-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

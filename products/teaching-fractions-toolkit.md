@@ -4,7 +4,7 @@ id: teaching-fractions-toolkit
 title: Teaching Fractions Toolkit
 description: "REL Midwest's Teaching Fractions Toolkit is a grade 6 mathematics professional-development and support package featuring teacher learning modules, reflection tools, formative-assessment probes, and resources for educational leaders."
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

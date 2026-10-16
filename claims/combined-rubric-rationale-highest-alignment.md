@@ -3,7 +3,7 @@ type: claim
 title: Combining the revised rubric with rationale-first evaluation yields the highest human–machine alignment, with dimension-specific gains
 description: Combining the revised rubric with rationale-first evaluation yields the highest human–machine alignment, with dimension-specific gains
 id: combined-rubric-rationale-highest-alignment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

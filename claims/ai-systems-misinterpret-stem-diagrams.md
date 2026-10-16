@@ -3,7 +3,7 @@ type: claim
 title: Current AI tutoring systems misinterpret complex STEM engineering diagrams, omitting edges, misclassifying component connections, and flattening hierarchical topologies
 description: Current AI tutoring systems misinterpret complex STEM engineering diagrams, omitting edges, misclassifying component connections, and flattening hierarchical topologies
 id: ai-systems-misinterpret-stem-diagrams
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -4,7 +4,7 @@ id: the-k-16-square
 title: The K-16 Square
 description: A K-16 education-system alignment framework drafted by state education CEOs with the National Association of System Heads and The Education Trust to coordinate standards for graduation, college admission, teaching, and teacher preparation.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

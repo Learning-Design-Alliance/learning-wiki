@@ -3,7 +3,7 @@ type: claim
 title: Most Turkish IRT-based scale development studies did not check the unidimensionality or local independence assumptions
 description: Most Turkish IRT-based scale development studies did not check the unidimensionality or local independence assumptions
 id: irt-assumptions-often-unchecked-turkey
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

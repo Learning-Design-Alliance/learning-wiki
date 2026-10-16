@@ -3,7 +3,7 @@ type: claim
 title: "Perceived instructor fluency, not instruction type, predicted students' feeling of learning (0.51 SD, P < 0.001)"
 description: "Perceived instructor fluency, not instruction type, predicted students' feeling of learning (0.51 SD, P < 0.001)"
 id: perceived-instructor-fluency-predicts-feeling-of-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

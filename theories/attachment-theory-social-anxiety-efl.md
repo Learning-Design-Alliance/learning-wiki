@@ -2,7 +2,7 @@
 type: theory
 title: Attachment Theory account of social anxiety in language learning
 description: In its recommendations, the article invokes Attachment Theory (citing Erozkan, 2009) to explain and address the social-anxiety component of foreign language speaking anxiety.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

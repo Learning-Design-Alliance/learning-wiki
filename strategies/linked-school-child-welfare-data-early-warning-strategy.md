@@ -3,7 +3,7 @@ type: strategy
 id: linked-school-child-welfare-data-early-warning-strategy
 title: Use linked school and child welfare data to flag students at academic risk in the coming quarter or semester
 description: This strategy combines administrative school records with child welfare data to predict which students will encounter academic problems in the near term.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

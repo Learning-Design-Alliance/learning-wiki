@@ -3,7 +3,7 @@ type: strategy
 id: support-teachers-after-weather-disruption-strategy
 title: "Provide teachers with support to meet students' varied needs after weather-related disruptions"
 description: "The brief recommends that schools and systems support teachers following severe weather disruptions, because its findings indicate \"teachers need support to meet students' varied needs following a weather-related disr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

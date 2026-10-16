@@ -3,7 +3,7 @@ type: element
 id: oms-modeling-media
 title: "Over My Shoulder (OMS) media: screen-capture videos, Flash animations and text instructions modeling instructor problem-solving"
 description: "OMS materials were videos of the instructor's computer screen with a think-aloud soundtrack, plus Flash animations using thought balloons, plus text-based instructions."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

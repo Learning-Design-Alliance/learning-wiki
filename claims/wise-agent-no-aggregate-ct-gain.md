@@ -3,7 +3,7 @@ type: claim
 title: "A three-month WISE Agent intervention did not significantly increase sixth-graders' aggregate critical thinking disposition scores"
 description: "A three-month WISE Agent intervention did not significantly increase sixth-graders' aggregate critical thinking disposition scores"
 id: wise-agent-no-aggregate-ct-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

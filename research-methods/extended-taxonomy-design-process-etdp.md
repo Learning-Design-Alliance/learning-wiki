@@ -3,7 +3,7 @@ type: research-method
 id: extended-taxonomy-design-process-etdp
 title: Extended Taxonomy Design Process (ETDP)
 description: The ETDP, described by Kundisch et al.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

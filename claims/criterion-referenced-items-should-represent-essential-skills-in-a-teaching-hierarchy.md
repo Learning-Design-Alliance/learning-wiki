@@ -3,7 +3,7 @@ type: claim
 title: Criterion-referenced test items should represent skills essential to learning to read and be arranged in the hierarchy used for teaching
 description: Criterion-referenced test items should represent skills essential to learning to read and be arranged in the hierarchy used for teaching
 id: criterion-referenced-items-should-represent-essential-skills-in-a-teaching-hierarchy
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

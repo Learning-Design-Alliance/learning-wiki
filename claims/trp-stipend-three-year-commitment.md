@@ -3,7 +3,7 @@ type: claim
 title: TRP participants could accept a stipend in exchange for committing to teach in the same district for at least three years
 description: TRP participants could accept a stipend in exchange for committing to teach in the same district for at least three years
 id: trp-stipend-three-year-commitment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

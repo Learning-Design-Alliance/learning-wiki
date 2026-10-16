@@ -2,7 +2,7 @@
 type: theory
 title: PETs as dual technical and social technologies for protecting data while preserving utility
 description: The article defines Privacy Enhancing Technologies as tools that aim to increase the protection of individual data while retaining its utility.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

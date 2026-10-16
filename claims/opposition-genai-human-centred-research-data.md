@@ -3,7 +3,7 @@ type: claim
 title: PGR students strongly opposed uploading human-participant or sensitive qualitative data to GenAI platforms or using GenAI to interpret such data
 description: PGR students strongly opposed uploading human-participant or sensitive qualitative data to GenAI platforms or using GenAI to interpret such data
 id: opposition-genai-human-centred-research-data
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

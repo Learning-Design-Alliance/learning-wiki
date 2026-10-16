@@ -2,7 +2,7 @@
 type: theory
 title: "Four types of R&D enabling conditions in school systems: mindsets, behaviors and routines, structures and tools, and systems supports"
 description: "The report's framework identifies four condition types that school systems must shift to sustain R&D beyond isolated pilots."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -41,7 +41,7 @@ The report's framework identifies four condition types that school systems must 
 ## Related Theories
 
 - [Rd Practice Dimensions Six Rubric](../products/six-rd-practice-dimensions-framework.md)
-- [Five essentials framework of organizational supports for school improvement](five-essentials-framework-early-education-adaptation.md)
+- [Five essentials framework of organizational supports for school improvement](five-essential-supports-framework-ccsr.md)
 - [The five essential supports framework: five mutually reinforcing organizational dimensions that enable or inhibit improvement in classroom practices](five-essential-supports-early-education-framework.md)
 
 ## Examples

@@ -3,7 +3,7 @@ type: claim
 title: The 2018 review reported a larger pooled effect (SMD = 0.30) that was not sustained at longer-term follow-up
 description: The 2018 review reported a larger pooled effect (SMD = 0.30) that was not sustained at longer-term follow-up
 id: prior-review-larger-unsustained-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

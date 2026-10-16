@@ -3,7 +3,7 @@ type: claim
 title: The average effect of verified AI materials attenuates when the lowest pre-intervention marks are removed, while the threshold effect at the upper-second boundary is robust
 description: The average effect of verified AI materials attenuates when the lowest pre-intervention marks are removed, while the threshold effect at the upper-second boundary is robust
 id: average-effect-fragile-threshold-robust
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -18,8 +18,8 @@ sources:
     kind: causal
     rigour: 2
   - id: dang-2026-2
-    resource: "https://arxiv.org/abs/2610.07097"
-    title: "Dang, C. T., & Nguyen, A. (2026). Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course. https://arxiv.org/abs/2610.07097"
+    resource: "https://doi.org/10.48550/arxiv.2610.07097"
+    title: "Dang, C. T., & Nguyen, A. (2026). Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course. https://arxiv.org/abs/2610.07097. [doi:10.48550/arxiv.2610.07097](https://doi.org/10.48550/arxiv.2610.07097)"
     author: "Dang, C. T., & Nguyen, A."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # The average effect of verified AI materials attenuates when the lowest pre-intervention marks are removed, while the threshold effect at the upper-second boundary is robust
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Dropping the three lowest-scoring students in the pre-intervention treated cell reduces the average effect from 2.34 to 1.88 marks (HC1 p = 0.099; clustered p = 0.041); dropping eight reduces it to 1.41 (clustered p = 0.127). [→ Dang 2026](#dang-2026)
@@ -50,7 +50,7 @@ Sensitivity re-estimation of the difference-in-differences average effect after 
 
 ### Dang 2026 (2)
 
-Dang, C. T., & Nguyen, A. (2026). Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course. https://arxiv.org/abs/2610.07097
+Dang, C. T., & Nguyen, A. (2026). Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course. https://arxiv.org/abs/2610.07097. [doi:10.48550/arxiv.2610.07097](https://doi.org/10.48550/arxiv.2610.07097)
 
 `q2 · i?` · `causal · r2`
 

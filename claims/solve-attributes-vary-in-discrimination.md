@@ -3,7 +3,7 @@ type: claim
 title: "Solve attributes differ in discrimination: the environment attribute strongly separated proficiency groups while the learned-procedure attribute did not"
 description: "Solve attributes differ in discrimination: the environment attribute strongly separated proficiency groups while the learned-procedure attribute did not"
 id: solve-attributes-vary-in-discrimination
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

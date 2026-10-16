@@ -3,7 +3,7 @@ type: claim
 title: Talent Search participants were more likely than comparison students to enroll in public postsecondary institutions
 description: Talent Search participants were more likely than comparison students to enroll in public postsecondary institutions
 id: talent-search-more-likely-enroll-public-postsecondary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

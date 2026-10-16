@@ -3,7 +3,7 @@ type: claim
 title: The high school SAILS remedial math course did not improve math achievement more than a typical senior year math course
 description: The high school SAILS remedial math course did not improve math achievement more than a typical senior year math course
 id: sails-no-math-achievement-gain-rd
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

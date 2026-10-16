@@ -3,7 +3,7 @@ type: claim
 title: Integrated schools are most likely to keep pace with ITBS norms while predominantly minority and African-American schools are most likely to lag
 description: Integrated schools are most likely to keep pace with ITBS norms while predominantly minority and African-American schools are most likely to lag
 id: racial-composition-pacing-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

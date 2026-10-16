@@ -3,7 +3,7 @@ type: strategy
 id: ewims-training-and-technical-assistance-strategy
 title: Implement EWIMS through combined in-person and online training with ongoing technical assistance liaisons
 description: "The article describes a blended professional development model for implementing EWIMS: \"A combination of in-person trainings (regional training, early warning data tool training, and 3 site visits) and online training..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

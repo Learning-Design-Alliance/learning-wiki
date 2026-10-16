@@ -3,7 +3,7 @@ type: claim
 title: Across repetition cycles, attention can shift from message meaning to linguistic form, enabling recycled language and self-correction
 description: Across repetition cycles, attention can shift from message meaning to linguistic form, enabling recycled language and self-correction
 id: attention-shift-meaning-to-form-over-cycles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

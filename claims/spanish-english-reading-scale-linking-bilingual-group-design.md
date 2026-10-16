@@ -3,7 +3,7 @@ type: claim
 title: English and Spanish MAP Growth Reading scales were statistically linked via a bilingual group design despite measuring similar but not identical constructs
 description: English and Spanish MAP Growth Reading scales were statistically linked via a bilingual group design despite measuring similar but not identical constructs
 id: spanish-english-reading-scale-linking-bilingual-group-design
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

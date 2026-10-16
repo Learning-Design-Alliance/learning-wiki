@@ -3,7 +3,7 @@ type: claim
 title: LLMs redistributed educational labor while family and institutional rules left parents and professionals responsible for interpreting outputs and deciding how they entered practice
 description: LLMs redistributed educational labor while family and institutional rules left parents and professionals responsible for interpreting outputs and deciding how they entered practice
 id: llm-redistributed-labor-rules-leave-interpretation-responsibility
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: certification-questionnaire-filters-vendor-pitches
 title: Require a brief certification questionnaire to filter vendor pitches
 description: Because vendors bombard decision makers with pitches that consume enormous time and lead leaders to disregard many of them, the report recommends requiring vendors to respond to a brief questionnaire asking which Prod...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

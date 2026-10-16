@@ -3,7 +3,7 @@ type: claim
 title: "Most state ESSA plans emphasized the district's role in school improvement over the state agency's role, a shift from No Child Left Behind."
 description: "Most state ESSA plans emphasized the district's role in school improvement over the state agency's role, a shift from No Child Left Behind."
 id: districts-emphasized-over-seas-in-essa-plans
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

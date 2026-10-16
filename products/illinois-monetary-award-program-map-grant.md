@@ -4,7 +4,7 @@ id: illinois-monetary-award-program-map-grant
 title: Illinois Monetary Award Program (MAP) grant
 description: "Illinois's need-based higher-education grant programme, administered by the Illinois Student Assistance Commission to help eligible Illinois residents afford in-state postsecondary education."
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

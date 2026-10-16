@@ -3,7 +3,7 @@ type: claim
 title: Teacher agency development proceeds through temporal phases in which different subsystems dominate
 description: Teacher agency development proceeds through temporal phases in which different subsystems dominate
 id: agency-subsystems-dominate-temporally
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

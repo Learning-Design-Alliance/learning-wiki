@@ -3,7 +3,7 @@ type: claim
 title: Rescoring with new item parameters changed average ability estimates negligibly, with new and original scores correlated above 0.99
 description: Rescoring with new item parameters changed average ability estimates negligibly, with new and original scores correlated above 0.99
 id: drift-impact-ability-estimates-negligible
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

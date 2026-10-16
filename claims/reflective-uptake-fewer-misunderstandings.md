@@ -3,7 +3,7 @@ type: claim
 title: Diagnostic Review reflection records contained fewer misunderstanding codes and higher reflection quality than Control follow-up records
 description: Diagnostic Review reflection records contained fewer misunderstanding codes and higher reflection quality than Control follow-up records
 id: reflective-uptake-fewer-misunderstandings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

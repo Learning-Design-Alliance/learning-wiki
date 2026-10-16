@@ -4,7 +4,7 @@ id: hdr-vc-brachytherapy-immersive-vr-training-platform
 title: HDR VC brachytherapy immersive VR training platform
 description: A Meta Quest 3 and edge-cloud-based virtual-reality platform developed by Ronghua Xu et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

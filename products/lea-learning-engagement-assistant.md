@@ -4,7 +4,7 @@ id: lea-learning-engagement-assistant
 title: LEA (Learning Engagement Assistant)
 description: LEA is a course-configurable agentic AI tutoring system developed by Rumble et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11
@@ -32,4 +32,4 @@ LEA is a course-configurable agentic AI tutoring system developed by Rumble et a
 -
 
 ## Key Sources
-- Rumble, T., Zarrin, J., Lovell, P. G., Falconer, R. (2026). Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System. arXiv. https://arxiv.org/abs/2607.13370
+- Rumble, T., Zarrin, J., Lovell, P. G., Falconer, R. (2026). Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System. arXiv. https://arxiv.org/abs/2607.13370. [doi:10.48550/arxiv.2607.13370](https://doi.org/10.48550/arxiv.2607.13370)

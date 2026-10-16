@@ -3,7 +3,7 @@ type: strategy
 id: intentional-alternative-strategy-choice-sequenced-after-fluency
 title: Teach students to intentionally choose from alternative algebraic strategies when solving problems, after they have procedural fluency
 description: This strategy has students recognize and generate multiple solution strategies, articulate the reasoning and mathematical validity behind their strategy choice, and evaluate and compare different strategies for the sa...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

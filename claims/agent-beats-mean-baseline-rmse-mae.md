@@ -3,7 +3,7 @@ type: claim
 title: In the MAIC case study, student development agent predictions (Concept and Scales methods) outperformed the mean baseline across all five non-cognitive dimensions on RMSE and MAE
 description: In the MAIC case study, student development agent predictions (Concept and Scales methods) outperformed the mean baseline across all five non-cognitive dimensions on RMSE and MAE
 id: agent-beats-mean-baseline-rmse-mae
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

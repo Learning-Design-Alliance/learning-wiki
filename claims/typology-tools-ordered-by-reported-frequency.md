@@ -3,7 +3,7 @@ type: claim
 title: Typology tools are ordered by educator-reported frequency of use within each category
 description: Typology tools are ordered by educator-reported frequency of use within each category
 id: typology-tools-ordered-by-reported-frequency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

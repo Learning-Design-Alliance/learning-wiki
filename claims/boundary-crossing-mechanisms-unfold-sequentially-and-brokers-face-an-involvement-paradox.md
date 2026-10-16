@@ -2,7 +2,7 @@
 type: claim
 title: Boundary-crossing mechanisms unfold sequentially across levels, and broker centrality creates an involvement paradox
 id: boundary-crossing-mechanisms-unfold-sequentially-and-brokers-face-an-involvement-paradox
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29
@@ -58,3 +58,4 @@ This is a rigorous single-case study, not a comparative or experimental design �
 - [Multivoiced boundary crossing supports holistic nature connection and ethical reflection](multivoiced-boundary-crossing-supports-holistic-nature-connection-and-ethical-reflection.md) — related
 - [PD support type and salience depends on a teacher team's current phase in the adaptive learning cycle](pd-support-salience-depends-on-adaptive-cycle-phase.md) — related
 - [Relational trust and rapid-response adaptation help research-practice partnerships survive acute disruption](rpp-adaptive-practices-sustain-partnerships-during-disruption.md) — related
+- [The Discussion phase, comprising Reflection and Communication, can occur at any point during inquiry-based learning and connects to all other phases](discussion-phase-occurs-at-any-point.md) — related

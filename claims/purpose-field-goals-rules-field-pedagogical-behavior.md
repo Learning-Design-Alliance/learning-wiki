@@ -3,7 +3,7 @@ type: claim
 title: Teachers used the Purpose field primarily for instructional goals and content focus while Rules specified pedagogical behavior, guardrails, and learner-specific adaptations
 description: Teachers used the Purpose field primarily for instructional goals and content focus while Rules specified pedagogical behavior, guardrails, and learner-specific adaptations
 id: purpose-field-goals-rules-field-pedagogical-behavior
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

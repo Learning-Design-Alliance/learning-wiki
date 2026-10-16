@@ -3,7 +3,7 @@ type: claim
 title: Skilled EFL writers possess audience awareness, keeping readers in mind to judge whether their writing is understandable and coherent.
 description: Skilled EFL writers possess audience awareness, keeping readers in mind to judge whether their writing is understandable and coherent.
 id: skilled-writers-audience-awareness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

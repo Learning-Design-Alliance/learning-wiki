@@ -3,7 +3,7 @@ type: claim
 title: "TNTP achieved fidelity for TLTS's two key program components across Cohorts 2 and 3"
 description: "TNTP achieved fidelity for TLTS's two key program components across Cohorts 2 and 3"
 id: tlts-fidelity-two-key-components
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "A review of 50 studies reports that AWE tools can improve the organization and overall quality of writing and encourage self-directed learning"
 description: A review of 50 studies reports that AWE tools can improve the organization and overall quality of writing and encourage self-directed learning
 id: awe-enhance-organization-quality-self-directed-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

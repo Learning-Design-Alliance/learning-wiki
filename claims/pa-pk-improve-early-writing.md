@@ -3,7 +3,7 @@ type: claim
 title: Teaching phonological awareness and print knowledge improved early writing performance with or without early writing instruction
 description: Teaching phonological awareness and print knowledge improved early writing performance with or without early writing instruction
 id: pa-pk-improve-early-writing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

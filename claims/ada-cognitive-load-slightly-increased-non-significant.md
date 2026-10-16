@@ -3,7 +3,7 @@ type: claim
 title: ADA use shows a modest non-significant tendency toward increased intrinsic and extrinsic cognitive load, contrary to prior chatbot research
 description: ADA use shows a modest non-significant tendency toward increased intrinsic and extrinsic cognitive load, contrary to prior chatbot research
 id: ada-cognitive-load-slightly-increased-non-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

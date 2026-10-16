@@ -3,7 +3,7 @@ type: claim
 title: Expert teachers interpret complex classroom phenomena more accurately and fluidly than novices and postulants
 description: Expert teachers interpret complex classroom phenomena more accurately and fluidly than novices and postulants
 id: expert-teachers-interpret-classroom-phenomena-better
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

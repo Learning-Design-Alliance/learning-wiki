@@ -4,7 +4,7 @@ id: agentic-data-engagement-positions
 title: Agentic Data-Engagement Positions
 description: A set of four proactive roles — active researcher/consumer, analyst, author, and socio-scientific communicator — that learners can take up when engaging with real-world data, rather than being positioned as passive recipients of official data.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

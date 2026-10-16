@@ -3,7 +3,7 @@ type: research-method
 id: three-facet-behavior-management-framework-decomposition-used-for-expert-evaluation
 title: Three-facet Behavior Management Framework decomposition used for expert evaluation
 description: "To assess interventions, five educational experts decomposed classroom behavior management into three facets drawn from Behavior Management Frameworks: \"(1) Humanistic orientation, reflecting emphasis on empathy, dialogue, and student needs versus reinforced control; (2) Reactivity, capturing reacti"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

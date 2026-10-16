@@ -3,7 +3,7 @@ type: strategy
 id: four-operational-criteria-transcription-only-use
 title: Apply four operational criteria—fidelity, non-augmentation, traceability, attestation—to identify transcription-only AI use
 description: "The paper proposes four operational criteria as a structured evidential framework for misconduct panels assessing whether tool use was transcription-only: fidelity (output verifiably equivalent to the handwritten orig..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

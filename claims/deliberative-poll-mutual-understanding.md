@@ -3,7 +3,7 @@ type: claim
 title: Mutual understanding on the euro prevailed among participants in the Danish Deliberative Poll
 description: Mutual understanding on the euro prevailed among participants in the Danish Deliberative Poll
 id: deliberative-poll-mutual-understanding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

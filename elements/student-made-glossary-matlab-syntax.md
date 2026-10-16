@@ -3,7 +3,7 @@ type: element
 id: student-made-glossary-matlab-syntax
 title: Student-made glossary assignment for MATLAB syntax
 description: "A homework intervention in which students complete a five-column glossary form: \"syntax, overview of the syntax, student developed test case(s) based on instructor guidelines, hand computations to predict results of t..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

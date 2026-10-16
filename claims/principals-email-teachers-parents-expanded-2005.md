@@ -3,7 +3,7 @@ type: claim
 title: "Principals' email communication with teachers and parents expanded substantially by 2005, though most elementary principals still never emailed parents"
 description: "Principals' email communication with teachers and parents expanded substantially by 2005, though most elementary principals still never emailed parents"
 id: principals-email-teachers-parents-expanded-2005
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

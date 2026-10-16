@@ -3,7 +3,7 @@ type: claim
 title: "Expert Q-matrix coding closely matched DINA-recovered structure, with only 2.7% of item-LO codings changed during validation"
 description: "Expert Q-matrix coding closely matched DINA-recovered structure, with only 2.7% of item-LO codings changed during validation"
 id: qmatrix-validation-low-change-rate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

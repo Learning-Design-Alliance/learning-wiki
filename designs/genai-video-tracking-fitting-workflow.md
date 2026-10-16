@@ -3,7 +3,7 @@ type: design
 id: genai-video-tracking-fitting-workflow
 title: "Four-phase generative-AI physics workflow: video generation, Tracker tracking, Excel Solver curve fitting, parameter validation"
 description: A replicable instructional workflow combining generative-AI video platforms (PixVerse.ai, Grok Imagine, Pippit), the open-source Tracker video analysis tool, and the Microsoft Excel Solver GRG Nonlinear algorithm.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

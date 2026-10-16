@@ -3,7 +3,7 @@ type: claim
 title: Students reported recognizing writing improvements after revising in response to AI feedback, with observed rubric-score gains on resubmission
 description: Students reported recognizing writing improvements after revising in response to AI feedback, with observed rubric-score gains on resubmission
 id: students-recognize-writing-improvement-ai-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

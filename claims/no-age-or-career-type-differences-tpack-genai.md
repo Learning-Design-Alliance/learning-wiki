@@ -3,7 +3,7 @@ type: claim
 title: Self-perceived TPACK-21 domain scores do not differ significantly by faculty age group or appointment type
 description: Self-perceived TPACK-21 domain scores do not differ significantly by faculty age group or appointment type
 id: no-age-or-career-type-differences-tpack-genai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

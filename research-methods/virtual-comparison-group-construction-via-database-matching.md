@@ -3,7 +3,7 @@ type: research-method
 id: virtual-comparison-group-construction-via-database-matching
 title: Virtual comparison group construction via database matching
 description: "The VCG approach creates an equivalent virtual comparison for each treatment student: each treatment student was matched with up to 51 real students from NWEA's national MAP test database based on school locale, school-level FRL percentage, test-taking dates, grade level, and pretest scores; aggrega"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

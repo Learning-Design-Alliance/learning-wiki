@@ -3,7 +3,7 @@ type: claim
 title: Only the 200740F high-use group showed a significantly higher rate of good academic standing compared to non-visitors
 description: Only the 200740F high-use group showed a significantly higher rate of good academic standing compared to non-visitors
 id: tutoring-good-standing-significant-only-one-cohort
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Model-data fit evaluation in IRT is claimed to be crucial for both linear and adaptive tests because item response model goodness-of-fit is relevant to any test purpose
 description: Model-data fit evaluation in IRT is claimed to be crucial for both linear and adaptive tests because item response model goodness-of-fit is relevant to any test purpose
 id: irt-model-fit-crucial-any-test-purpose
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

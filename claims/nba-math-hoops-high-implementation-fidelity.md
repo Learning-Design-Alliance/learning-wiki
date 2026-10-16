@@ -3,7 +3,7 @@ type: claim
 title: "NBA Math Hoops was implemented with high fidelity: teachers completed an average of 8.31 of 10 lessons and played 14.5 games per classroom over roughly 15 days"
 description: "NBA Math Hoops was implemented with high fidelity: teachers completed an average of 8.31 of 10 lessons and played 14.5 games per classroom over roughly 15 days"
 id: nba-math-hoops-high-implementation-fidelity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "77% of the lowest 5% achieving schools (spring reading) grow their typical student better than the 30th percentile"
 description: "77% of the lowest 5% achieving schools (spring reading) grow their typical student better than the 30th percentile"
 id: 77-percent-low-achieving-schools-growth-above-30th-percentile
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

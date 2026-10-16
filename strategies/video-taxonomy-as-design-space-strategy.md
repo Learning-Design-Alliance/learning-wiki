@@ -3,7 +3,7 @@ type: strategy
 id: video-taxonomy-as-design-space-strategy
 title: Use the taxonomy as a design space to select or invent novel video formats, especially combining artificial characters with digital or physical media
 description: The article recommends using the two-dimensional taxonomy not only to choose a familiar format but to navigate toward novel production styles.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

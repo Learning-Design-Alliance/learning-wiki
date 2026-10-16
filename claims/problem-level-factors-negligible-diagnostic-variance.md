@@ -3,7 +3,7 @@ type: claim
 title: Step complexity, distance to conclusion, and inference rule explain negligible diagnostic variance, with complexity predicting misdiagnosis only for optimal steps
 description: Step complexity, distance to conclusion, and inference rule explain negligible diagnostic variance, with complexity predicting misdiagnosis only for optimal steps
 id: problem-level-factors-negligible-diagnostic-variance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

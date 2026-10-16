@@ -3,7 +3,7 @@ type: claim
 title: "LoU Interview ratings correlated .65 with readers' ratings of written ethnographic protocols, which the author read as support for the interview's validity tempered by second-hand information"
 description: "LoU Interview ratings correlated .65 with readers' ratings of written ethnographic protocols, which the author read as support for the interview's validity tempered by second-hand information"
 id: lou-interview-validated-against-ethnography
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Teachers use Microsoft Forms for real-time formative assessment to make in-the-moment instructional adjustments
 description: Teachers use Microsoft Forms for real-time formative assessment to make in-the-moment instructional adjustments
 id: forms-realtime-formative-assessment-uses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

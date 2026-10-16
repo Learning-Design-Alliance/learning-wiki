@@ -3,7 +3,7 @@ type: claim
 title: In schools offering both course types, enrollment differs by race/ethnicity, with more White students in single-discipline courses
 description: In schools offering both course types, enrollment differs by race/ethnicity, with more White students in single-discipline courses
 id: racialized-enrollment-single-discipline-courses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Confounding may explain the large retention effects reported for the Course Signals early warning system
 description: Confounding may explain the large retention effects reported for the Course Signals early warning system
 id: course-signals-confounding-number-of-classes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

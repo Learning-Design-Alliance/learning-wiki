@@ -3,7 +3,7 @@ type: claim
 title: The review reports that simulation games support near transfer of knowledge but evidence for long-term or far transfer is less robust
 description: The review reports that simulation games support near transfer of knowledge but evidence for long-term or far transfer is less robust
 id: simulation-near-transfer-robust-far-transfer-weak
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

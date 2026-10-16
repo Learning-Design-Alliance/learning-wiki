@@ -2,7 +2,7 @@
 type: theory
 title: Four-phase local curriculum development model for industrial arts
 description: "The guide presents a Local Curriculum Development Model (Figure 1) with four coordinated phases: establishing the basis for industrial arts in the K-12 system, establishing the basis at each operational level, outlini..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

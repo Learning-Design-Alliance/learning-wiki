@@ -3,7 +3,7 @@ type: claim
 title: Most university AI policies are written as neutral suggested guidelines rather than strongly subjective or objective mandates
 description: Most university AI policies are written as neutral suggested guidelines rather than strongly subjective or objective mandates
 id: university-ai-policies-neutral-subjectivity-guidelines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Second-semester stretch courses had higher completion rates than other course types for B4 across all placement categories and for A2 in Categories III and IV, but not Category II; corequisite and traditional course completion rates did not differ significantly
 description: Second-semester stretch courses had higher completion rates than other course types for B4 across all placement categories and for A2 in Categories III and IV, but not Category II; corequisite and traditional course c...
 id: eo1110-stretch-course-completion-advantage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

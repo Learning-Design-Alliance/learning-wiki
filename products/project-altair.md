@@ -4,7 +4,7 @@ id: project-altair
 title: Project Altair
 description: "Project Altair is NWEA's project to enhance the constraint-based engine for delivering MAP Growth interim assessments with configurable exposure, routing, content-balance, termination, and invalidation rules."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

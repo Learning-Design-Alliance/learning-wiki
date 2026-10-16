@@ -3,7 +3,7 @@ type: strategy
 id: cooperative-group-size-two-to-four-by-intent
 title: "Size cooperative groups at 2 to 4 students depending on the teacher's intent"
 description: "The digest recommends that effective cooperative groups range from 2 to 4 students depending upon the teacher's intent."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

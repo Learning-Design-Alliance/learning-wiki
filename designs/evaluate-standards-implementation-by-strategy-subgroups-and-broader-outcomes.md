@@ -3,7 +3,7 @@ type: design
 id: evaluate-standards-implementation-by-strategy-subgroups-and-broader-outcomes
 title: Evaluate standards implementation by implementation strategy, student subgroups, and outcomes beyond test scores
 description: The article argues that existing literature on the Common Core State Standards in Math showed little benefit but had not examined variation by implementation strategies, student subgroups, or outcomes other than test...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

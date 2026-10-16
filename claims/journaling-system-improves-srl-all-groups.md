@@ -3,7 +3,7 @@ type: claim
 title: Using the chatbot-based journaling system improves self-reported SRL strategy use from pre-survey to 12-week follow-up in all groups, including baseline
 description: Using the chatbot-based journaling system improves self-reported SRL strategy use from pre-survey to 12-week follow-up in all groups, including baseline
 id: journaling-system-improves-srl-all-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -52,3 +52,4 @@ Longitudinal comparison of LIST-K SRL sub-scale scores across the pre-, post-, a
 - [In a six-week within-subject study, the Empathetic PA coaching chatbot improves intention to follow and self-efficacy faster over time than the Non-Empathetic condition](empathetic-chatbot-faster-intention-selfefficacy-growth.md) — related
 - [A randomized controlled trial with 86 K-12 students found a significant gain in self-regulated-learning strategy use from agentic coaching systems](agentic-srl-coaching-rct-86-significant-strategy-gain.md) — related
 - [The article is situated within research on self-regulated learning strategies in educational contexts](self-regulated-learning-strategies-educational-contexts-veenman-2006.md) — related
+- [In a randomised control study, university students in the combined condition (online SRL training with mobile-app diaries) improved more than participants in the other conditions](combined-srl-training-with-app-diaries-improved-more.md) — related

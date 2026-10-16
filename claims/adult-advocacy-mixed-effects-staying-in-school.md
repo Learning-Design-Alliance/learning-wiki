@@ -3,7 +3,7 @@ type: claim
 title: Adult advocacy interventions show promising but variable effects on staying in and progressing in school
 description: Adult advocacy interventions show promising but variable effects on staying in and progressing in school
 id: adult-advocacy-mixed-effects-staying-in-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

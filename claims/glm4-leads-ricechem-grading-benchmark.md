@@ -3,7 +3,7 @@ type: claim
 title: On the RiceChem ALAG grading benchmark GLM-4-9B-chat leads six LLMs (Accuracy 0.6492, F1 0.6054)
 description: On the RiceChem ALAG grading benchmark GLM-4-9B-chat leads six LLMs (Accuracy 0.6492, F1 0.6054)
 id: glm4-leads-ricechem-grading-benchmark
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

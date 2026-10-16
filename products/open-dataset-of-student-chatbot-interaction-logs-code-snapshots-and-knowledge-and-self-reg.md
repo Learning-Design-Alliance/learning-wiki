@@ -4,7 +4,7 @@ id: open-dataset-of-student-chatbot-interaction-logs-code-snapshots-and-knowledg
 title: Open dataset of student-chatbot interaction logs, code snapshots, and knowledge and self-regulation measures
 description: A supplementary open dataset released by Hyoungwook Jin et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: A teacher-initiated report card comment generator built in Solara saw immediate high adoption without formal rollout or training
 description: A teacher-initiated report card comment generator built in Solara saw immediate high adoption without formal rollout or training
 id: teacher-initiated-tool-high-adoption
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

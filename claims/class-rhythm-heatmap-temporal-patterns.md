@@ -3,7 +3,7 @@ type: claim
 title: Class rhythm heatmaps revealed evening-peaked, deadline-driven temporal engagement patterns in the cohort
 description: Class rhythm heatmaps revealed evening-peaked, deadline-driven temporal engagement patterns in the cohort
 id: class-rhythm-heatmap-temporal-patterns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

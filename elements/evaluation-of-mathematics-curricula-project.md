@@ -3,7 +3,7 @@ type: element
 id: evaluation-of-mathematics-curricula-project
 title: Evaluation of Mathematics Curricula project (2005–2013)
 description: The Evaluation of Mathematics Curricula is an IES-funded project, with a stated time frame of 2005–2013, that produced this issue brief on the achievement effects of four early elementary school math curricula for fir...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

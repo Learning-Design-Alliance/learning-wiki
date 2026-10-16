@@ -3,7 +3,7 @@ type: claim
 title: Negative AI attitudes correlate positively with job finding anxiety more strongly than positive AI attitudes
 description: Negative AI attitudes correlate positively with job finding anxiety more strongly than positive AI attitudes
 id: negative-ai-attitudes-correlate-job-finding-anxiety
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

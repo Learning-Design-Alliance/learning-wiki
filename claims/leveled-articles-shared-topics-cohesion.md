@@ -3,7 +3,7 @@ type: claim
 title: Teachers valued leveled articles on shared topics as supporting a cohesive classroom experience across reading levels
 description: Teachers valued leveled articles on shared topics as supporting a cohesive classroom experience across reading levels
 id: leveled-articles-shared-topics-cohesion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

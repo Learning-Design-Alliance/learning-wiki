@@ -3,7 +3,7 @@ type: claim
 title: The value of the same teacher wage differs across states because cost of living differs, so the report adjusts starting salaries using Regional Price Parities
 description: The value of the same teacher wage differs across states because cost of living differs, so the report adjusts starting salaries using Regional Price Parities
 id: cost-of-living-adjustment-changes-teacher-salary-value
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

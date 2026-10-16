@@ -3,7 +3,7 @@ type: claim
 title: Accelerated middle schools show potentially positive effects on staying in school, with an average improvement index of +18 percentile points
 description: Accelerated middle schools show potentially positive effects on staying in school, with an average improvement index of +18 percentile points
 id: accelerated-middle-schools-staying-in-school-potentially-positive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

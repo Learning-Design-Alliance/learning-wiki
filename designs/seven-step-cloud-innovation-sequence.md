@@ -3,7 +3,7 @@ type: design
 id: seven-step-cloud-innovation-sequence
 title: Seven-step cloud-supported innovation-creation sequence from problem specification to publication
 description: "The model's instruction process is enacted as a seven-step sequence in which the teacher specifies a problem and learners progressively plan, create, test, present, improve, and publicize innovations using cloud techn..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

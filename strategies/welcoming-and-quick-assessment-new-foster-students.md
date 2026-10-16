@@ -3,7 +3,7 @@ type: strategy
 id: welcoming-and-quick-assessment-new-foster-students
 title: Welcome new students in foster care with buddy support and quick, low-burden informal assessments, while treating late records with caution
 description: "Because students in foster care experience many mid-year \"first days,\" teachers adapt ordinary new-student practices (assigning a buddy, extra one-on-one time, learning interests) and use quick assessments to gauge le..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

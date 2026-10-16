@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

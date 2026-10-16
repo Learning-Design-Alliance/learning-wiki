@@ -3,7 +3,7 @@ type: claim
 title: Interleaving benefits are small for mathematical tasks and absent or reversed for expository texts and words
 description: Interleaving benefits are small for mathematical tasks and absent or reversed for expository texts and words
 id: interleaving-limited-for-math-texts-and-words
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

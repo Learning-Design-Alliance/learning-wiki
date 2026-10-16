@@ -3,7 +3,7 @@ type: strategy
 id: apply-raise-across-methodologies-and-settings
 title: Apply RAISE flexibly across methodologies and settings where AI is central or peripheral
 description: RAISE is intended for all researchers conducting empirical studies involving AI as part of the educational experience, directly or indirectly — from personalised tutoring and automated grading to curriculum generation...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

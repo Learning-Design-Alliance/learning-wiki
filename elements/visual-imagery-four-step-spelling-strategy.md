@@ -3,7 +3,7 @@ type: element
 id: visual-imagery-four-step-spelling-strategy
 title: Visual Imagery four-step spelling strategy used as the comparison intervention in the 1990 RCT
 description: Visual Imagery is a spelling strategy in which students form mental images of words rather than analyzing their letter–sound structure.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

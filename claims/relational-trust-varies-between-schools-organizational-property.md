@@ -3,7 +3,7 @@ type: claim
 title: Relational trust varies substantially between schools, supporting its treatment as an organizational property
 description: Relational trust varies substantially between schools, supporting its treatment as an organizational property
 id: relational-trust-varies-between-schools-organizational-property
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

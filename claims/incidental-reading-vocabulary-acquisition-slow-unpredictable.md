@@ -3,7 +3,7 @@ type: claim
 title: "Incidental vocabulary acquisition through reading is slow and unpredictable: there is no way to predict which words will be learned, when, nor to what degree"
 description: "Incidental vocabulary acquisition through reading is slow and unpredictable: there is no way to predict which words will be learned, when, nor to what degree"
 id: incidental-reading-vocabulary-acquisition-slow-unpredictable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

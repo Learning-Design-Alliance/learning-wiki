@@ -3,7 +3,7 @@ type: element
 id: ncee-elementary-math-curricula-technical-appendix
 title: NCEE technical appendix for the elementary math curricula evaluation, organized in six analytic sections
 description: A technical appendix published by the U.S.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

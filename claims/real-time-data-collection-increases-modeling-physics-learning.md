@@ -3,15 +3,15 @@ type: claim
 title: Students in a technology-enhanced modeling physics class learned significantly more than students in an otherwise identical no-technology class
 description: Students in a technology-enhanced modeling physics class learned significantly more than students in an otherwise identical no-technology class
 id: real-time-data-collection-increases-modeling-physics-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
 sources:
   - id: brewe-2007
-    resource: "https://scholar.google.com/scholar?q=Impacts+of+real-time+data+collection+on+introductory+algebra-based+physics"
-    title: "Brewe, E., Sawtelle, V., and Pamela, P. (2007). Impacts of real-time data collection on introductory algebra-based physics. https://scholar.google.com/scholar?q=Impacts+of+real-time+data+collection+on+introductory+algebra-based+physics"
+    resource: "https://doi.org/10.48550/arxiv.0709.2738"
+    title: "Brewe, E., Sawtelle, V., and Pamela, P. (2007). Impacts of real-time data collection on introductory algebra-based physics. https://doi.org/10.48550/arxiv.0709.2738"
     author: Brewe, E., Sawtelle, V., and Pamela, P.
     q: 3
     i: 3
@@ -32,7 +32,7 @@ sources:
 
 ### Brewe 2007
 
-Brewe, E., Sawtelle, V., and Pamela, P. (2007). Impacts of real-time data collection on introductory algebra-based physics. https://scholar.google.com/scholar?q=Impacts+of+real-time+data+collection+on+introductory+algebra-based+physics
+Brewe, E., Sawtelle, V., and Pamela, P. (2007). Impacts of real-time data collection on introductory algebra-based physics. https://doi.org/10.48550/arxiv.0709.2738
 
 `q3 · i3` · `causal · r1`
 

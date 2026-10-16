@@ -3,7 +3,7 @@ type: claim
 title: "Wise's simulation under continuous learning recommended projection-based weighted averages for aggregating interim scores"
 description: "Wise's simulation under continuous learning recommended projection-based weighted averages for aggregating interim scores"
 id: wise-weighted-averages-projection-continuous-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

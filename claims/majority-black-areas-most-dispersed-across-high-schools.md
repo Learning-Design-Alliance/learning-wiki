@@ -3,7 +3,7 @@ type: claim
 title: "Majority-Black community areas had the highest school dispersion: 21 of the 25 community areas with the highest dispersion ratios were majority-Black"
 description: "Majority-Black community areas had the highest school dispersion: 21 of the 25 community areas with the highest dispersion ratios were majority-Black"
 id: majority-black-areas-most-dispersed-across-high-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "In the pilot, 93% of students found controlling the wave in the air natural and 86% reported feeling more engaged and focused than in regular learning"
 description: "In the pilot, 93% of students found controlling the wave in the air natural and 86% reported feeling more engaged and focused than in regular learning"
 id: ar-gesture-control-felt-natural-and-increased-engagement-pilot
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

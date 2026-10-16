@@ -3,7 +3,7 @@ type: claim
 title: Curiosity Corner shows no discernible effects on preschool math outcomes in the PCER randomized trial
 description: Curiosity Corner shows no discernible effects on preschool math outcomes in the PCER randomized trial
 id: curiosity-corner-no-discernible-math-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Uniform two-week spacing between distillations yielded the greatest benefit among the tested schedules, ranking Standard, Mixed, Frontloaded, then Baseline
 description: Uniform two-week spacing between distillations yielded the greatest benefit among the tested schedules, ranking Standard, Mixed, Frontloaded, then Baseline
 id: two-week-uniform-spacing-greatest-benefit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

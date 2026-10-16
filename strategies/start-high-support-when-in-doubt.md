@@ -3,7 +3,7 @@ type: strategy
 id: start-high-support-when-in-doubt
 title: "When uncertain about a learner's level, begin with high direction and support and keep reassessing"
 description: "Because special-needs learners are easily misclassified, the paper advises a default stance of high support and direction until assessment clarifies the learner's actual quadrant."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

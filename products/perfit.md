@@ -4,7 +4,7 @@ id: perfit
 title: PerFit
 description: PerFit is an R package that computes person-fit statistics for item-response and assessment data, developed for researchers conducting person-fit analysis.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

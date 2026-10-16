@@ -3,7 +3,7 @@ type: claim
 title: Teacher assessment of college-going climate is positively associated with students taking each step toward four-year college enrollment
 description: Teacher assessment of college-going climate is positively associated with students taking each step toward four-year college enrollment
 id: teacher-college-climate-associated-with-enrollment-steps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

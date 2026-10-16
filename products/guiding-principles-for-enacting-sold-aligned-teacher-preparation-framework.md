@@ -4,7 +4,7 @@ id: guiding-principles-for-enacting-sold-aligned-teacher-preparation-framework
 title: Guiding Principles for Enacting SoLD-Aligned Teacher Preparation framework
 description: A Darling-Hammond et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

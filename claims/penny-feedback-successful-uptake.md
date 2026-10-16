@@ -3,7 +3,7 @@ type: claim
 title: Revision after chatbot feedback predominantly results in successful uptake, indicating effective error correction
 description: Revision after chatbot feedback predominantly results in successful uptake, indicating effective error correction
 id: penny-feedback-successful-uptake
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

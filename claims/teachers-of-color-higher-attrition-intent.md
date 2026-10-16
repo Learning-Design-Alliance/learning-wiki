@@ -3,7 +3,7 @@ type: claim
 title: Teachers of color are more likely than White teachers to intend to leave teaching and to actually leave the profession
 description: Teachers of color are more likely than White teachers to intend to leave teaching and to actually leave the profession
 id: teachers-of-color-higher-attrition-intent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

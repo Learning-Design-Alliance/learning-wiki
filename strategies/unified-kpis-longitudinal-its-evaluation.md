@@ -3,7 +3,7 @@ type: strategy
 id: unified-kpis-longitudinal-its-evaluation
 title: Adopt unified KPIs and rigorously assess learner diversity, recommender fairness, and long-term engagement when evaluating ITS
 description: The review recommends that future ITS research strengthen its empirical foundation by adopting unified key performance indicators and rigorously assessing learner diversity, fairness in recommender systems, and long-t...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

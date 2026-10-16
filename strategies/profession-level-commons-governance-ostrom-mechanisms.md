@@ -3,7 +3,7 @@ type: strategy
 id: profession-level-commons-governance-ostrom-mechanisms
 title: "Design profession-level governance arrangements, modeled on Ostrom's commons mechanisms, to sustain expertise regeneration"
 description: "The article recommends that HRD expand beyond organizational optimization to profession-level stewardship, arguing that commons depletion \"need not inevitably lead to tragedy if governance mechanisms enable coordinate..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

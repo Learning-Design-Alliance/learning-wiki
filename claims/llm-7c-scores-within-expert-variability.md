@@ -3,7 +3,7 @@ type: claim
 title: LLM-generated 7C collaboration assessment scores fall within the range of human expert variability across ten discussions
 description: LLM-generated 7C collaboration assessment scores fall within the range of human expert variability across ten discussions
 id: llm-7c-scores-within-expert-variability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -68,3 +68,4 @@ Spearman correlation between LLM scores and human mean scores across the 10 disc
 - [An LLM-based AI Evaluator agrees with expert human raters on collaboration transcripts at a level similar to inter-expert agreement](llm-evaluator-agreement-matches-expert-raters.md) — related
 - [LLM ratings of classroom transcripts are more correlated with each other than with expert human ratings, across the same and different tasks](llm-llm-agreement-exceeds-llm-human-classroom-ratings.md) — related
 - [Rank-based metrics can be misleading for analytic assessment: systems prompted for holistic scoring achieve strong, sometimes stronger, correlations with analytic scores than when prompted for those aspects](rank-based-metrics-misleading-analytic-assessment.md) — related
+- [Differences between human and ChatGPT feedback quality were small, with means within one point and partial eta-squared ranging from .01 to .12](small-effect-sizes-human-ai-feedback-differences.md) — related

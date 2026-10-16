@@ -3,7 +3,7 @@ type: claim
 title: Self-reported critical-thinking disposition is positively associated with self-perceived employability among business students
 description: Self-reported critical-thinking disposition is positively associated with self-perceived employability among business students
 id: ct-disposition-positive-employability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

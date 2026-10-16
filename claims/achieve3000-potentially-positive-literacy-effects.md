@@ -3,7 +3,7 @@ type: claim
 title: WWC rates Achieve3000® as having potentially positive effects on comprehension and general literacy achievement for adolescent readers
 description: WWC rates Achieve3000® as having potentially positive effects on comprehension and general literacy achievement for adolescent readers
 id: achieve3000-potentially-positive-literacy-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

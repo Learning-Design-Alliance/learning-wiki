@@ -3,7 +3,7 @@ type: strategy
 id: structured-ai-literacy-genai-business-curricula
 title: "Embed structured AI literacy in business curricula: teach verification, comparison, and transparent AI-use declarations rather than restricting or unrestrictedly encouraging GenAI"
 description: The article recommends that business programmes move towards structured AI literacy embedded within assessment and curriculum design.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

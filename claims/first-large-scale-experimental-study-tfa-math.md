@@ -3,7 +3,7 @@ type: claim
 title: This is the first large-scale experimental study of secondary math teachers from Teach For America
 description: This is the first large-scale experimental study of secondary math teachers from Teach For America
 id: first-large-scale-experimental-study-tfa-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

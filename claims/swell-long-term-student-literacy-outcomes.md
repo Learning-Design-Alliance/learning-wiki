@@ -3,7 +3,7 @@ type: claim
 title: The SWELL logic model posits long-term positive impacts on English learner English proficiency and on literacy achievement, including writing, for all students served
 description: The SWELL logic model posits long-term positive impacts on English learner English proficiency and on literacy achievement, including writing, for all students served
 id: swell-long-term-student-literacy-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

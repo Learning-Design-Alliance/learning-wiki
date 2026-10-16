@@ -3,7 +3,7 @@ type: claim
 title: Time, funding, competing priorities, culture change, resistance, measurement gaps, and sustainability are the main challenges to implementing RJ in schools
 description: Time, funding, competing priorities, culture change, resistance, measurement gaps, and sustainability are the main challenges to implementing RJ in schools
 id: rj-implementation-challenges-time-funding-sustainability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

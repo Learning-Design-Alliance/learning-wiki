@@ -3,7 +3,7 @@ type: claim
 title: The positive GenAI writing effect is robust across dependence-aware, sensitivity, and risk-of-bias specifications, but the wide prediction interval spans near-zero to large effects
 description: The positive GenAI writing effect is robust across dependence-aware, sensitivity, and risk-of-bias specifications, but the wide prediction interval spans near-zero to large effects
 id: genai-writing-effect-robustness-checks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

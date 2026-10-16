@@ -3,7 +3,7 @@ type: strategy
 id: rpp-non-research-support-strategies
 title: RPP researchers can support practitioner partners through concrete non-research supports such as fundraising support, edtech procurement, and building a lesson database
 description: This strategy names specific supportive activities researchers took on in the NSF-funded Tough As Nails project beyond their research role.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

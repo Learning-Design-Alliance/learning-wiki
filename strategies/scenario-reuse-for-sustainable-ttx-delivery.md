@@ -3,7 +3,7 @@ type: strategy
 id: scenario-reuse-for-sustainable-ttx-delivery
 title: Reuse and adapt existing scenarios to make repeated TTX delivery sustainable
 description: "Because creating a TTX from scratch is time-consuming, the authors recommend reusing and adapting existing scenarios: once well-specified and implemented, redeploying for a new cohort requires only adjusting contextua..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

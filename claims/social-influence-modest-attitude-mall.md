@@ -3,7 +3,7 @@ type: claim
 title: Social influence has a small positive impact on MALL use in EFL acquisition among Vietnamese learners
 description: Social influence has a small positive impact on MALL use in EFL acquisition among Vietnamese learners
 id: social-influence-modest-attitude-mall
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28
@@ -45,3 +45,4 @@ Structural model results of the PLS-SEM survey study (n = 396). Table 6 prints t
 ## Related Claims
 - [In a Vietnamese EFL sample, all six Meta-UTAUT hypotheses on MALL adoption were accepted with p-values below 0.05](meta-utaut-hypotheses-accepted-mall-efl.md) — a broader claim this one bears on
 - [Behavioral intention has a statistically significant but weak positive effect on actual MALL usage behavior in EFL learning](bi-weak-effect-actual-mall-use.md) — related
+- [Social influence plays a diminishing role in Gen Z students' AI adoption intention](si-diminishing-role-gen-z-ai-adoption.md) — related

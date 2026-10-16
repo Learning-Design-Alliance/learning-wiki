@@ -4,7 +4,7 @@ id: corpus-of-22-peer-reviewed-llm-in-higher-education-studies-20232024-with-geo
 title: Corpus of 22 peer-reviewed LLM-in-higher-education studies (2023–2024) with geographic, publisher and keyword-cluster profile
 description: A curated corpus of 22 English-language peer-reviewed journal studies on direct student use of large language models in higher education, assembled by Martínez-Peláez et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

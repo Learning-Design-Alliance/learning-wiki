@@ -3,7 +3,7 @@ type: strategy
 id: iready-implementation-points-of-contact-pd
 title: Assign points of contact and use vendor-supported professional development when implementing i-Ready Personalized Instruction
 description: "The summary recommends designating points of contact to assist with initial set-up and disseminate communications, supported by i-Ready Partners throughout implementation, and using Curriculum Associates' professional..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

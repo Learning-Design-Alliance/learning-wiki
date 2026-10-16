@@ -3,7 +3,7 @@ type: claim
 title: The computer-based implementation showed no significant difference from individual paper-based work with brief written answers
 description: The computer-based implementation showed no significant difference from individual paper-based work with brief written answers
 id: computer-based-no-better-than-individual-paper
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -63,7 +63,7 @@ The strategy targets attribution and motivation: learners who attribute success 
 - [Achievable micro-goals](achievable_micro-goals.md) — structures frequent effort→progress experiences that the separation depends on
 
 ## Examples
-- **Standards-based grading (e.g., Marzano-style report cards)** — separates "academic achievement" scores from "work habits" scores so a grade of B with high growth is reported differently from a B with coasting.
+- **[Standards-based grading](standards-based-grading.md) (e.g., Marzano-style report cards)** — separates "academic achievement" scores from "work habits" scores so a grade of B with high growth is reported differently from a B with coasting.
 - **Zearn / Khan Academy progress dashboards** — display effort metrics (problems attempted, minutes of practice, streaks) alongside mastery metrics, keeping the two visually distinct.
 - **Writing workshop models (e.g., Lucy Calkins' Units of Study)** — teachers confer on both the draft's quality against rubric criteria and the writer's revision strategies, in separate conversational moves.
 

@@ -3,7 +3,7 @@ type: strategy
 id: individually-accountable-verification-rubrics
 title: Make output verification an individually accountable practice within team assignments via rubric requirements
 description: "Because test-based verification collapsed in team settings and never fully recovered, the article recommends that \"Assessment rubrics that explicitly require evidence of output verification, such as attached test logs..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

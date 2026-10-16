@@ -3,7 +3,7 @@ type: strategy
 id: structured-session-export-for-nlp-datasets
 title: Export structured evaluation sessions (JSON and CSV) for downstream NLP dataset construction
 description: All evaluation sessions are persistently stored locally and can be exported in their entirety—source texts, generated outputs, semantic alignment links, readability metrics, and weighted manual annotations—in JSON and...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

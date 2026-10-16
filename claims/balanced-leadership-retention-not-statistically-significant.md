@@ -3,7 +3,7 @@ type: claim
 title: The retention effect of Balanced Leadership® was not statistically significant in the contributing study
 description: The retention effect of Balanced Leadership® was not statistically significant in the contributing study
 id: balanced-leadership-retention-not-statistically-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

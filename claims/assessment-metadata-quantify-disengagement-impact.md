@@ -3,7 +3,7 @@ type: claim
 title: Assessment metadata can be used to quantify the impact of test disengagement on estimates of educational effectiveness
 description: Assessment metadata can be used to quantify the impact of test disengagement on estimates of educational effectiveness
 id: assessment-metadata-quantify-disengagement-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

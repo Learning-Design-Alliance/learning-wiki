@@ -3,7 +3,7 @@ type: design
 id: feedback-history-llm-contribution-tracking
 title: Feedback History interface with LLM contribution tracking and draft management
 description: The Teacher Dashboard includes a Feedback History interface providing a comprehensive log of all feedback sent to each student.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

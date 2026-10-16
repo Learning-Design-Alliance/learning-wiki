@@ -3,7 +3,7 @@ type: claim
 title: "First-time computer scientist users' contributions fit naturally into the adapted conjecture map format"
 description: "First-time computer scientist users' contributions fit naturally into the adapted conjecture map format"
 id: conjecture-map-familiar-to-computer-scientists
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

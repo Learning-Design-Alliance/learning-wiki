@@ -3,7 +3,7 @@ type: claim
 title: "The AVP's generated text matches its intended internal disclosure level about twice as often as the static baseline (0.651 vs. 0.311 agreement)"
 description: "The AVP's generated text matches its intended internal disclosure level about twice as often as the static baseline (0.651 vs."
 id: avp-faithful-realization-alignment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

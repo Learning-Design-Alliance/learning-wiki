@@ -3,7 +3,7 @@ type: claim
 title: "Bias elimination does not follow the predicted pattern of increasing with the pretest's correlation with selection into treatment"
 description: "Bias elimination does not follow the predicted pattern of increasing with the pretest's correlation with selection into treatment"
 id: bias-elimination-not-predicted-by-pretest-selection-correlation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

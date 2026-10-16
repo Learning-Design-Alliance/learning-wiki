@@ -3,7 +3,7 @@ type: claim
 title: Prior achievement, attendance, and suspensions do not explain the gender difference in ninth-grade math grades
 description: Prior achievement, attendance, and suspensions do not explain the gender difference in ninth-grade math grades
 id: prior-achievement-attendance-suspensions-do-not-explain-gender-grade-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

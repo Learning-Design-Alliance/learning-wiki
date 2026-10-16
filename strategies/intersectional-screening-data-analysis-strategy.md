@@ -3,7 +3,7 @@ type: strategy
 id: intersectional-screening-data-analysis-strategy
 title: Examine literacy screening data for intersectional differences not apparent from simple disaggregation and consider student and school characteristics together when targeting supports
 description: The article recommends that educators and policymakers analyze screening data at the intersection of multiple background characteristics rather than disaggregating to single categories, because overlapping identities...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

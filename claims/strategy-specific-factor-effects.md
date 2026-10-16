@@ -3,7 +3,7 @@ type: claim
 title: "Strategy-specific effects: time affects self-repetitions and marginally clarification requests; proficiency pairing affects confirmation checks and negative feedback; language affects other-repetitions and negative feedback"
 description: "Strategy-specific effects: time affects self-repetitions and marginally clarification requests; proficiency pairing affects confirmation checks and negative feedback; language affects other-repetitions and negative fe..."
 id: strategy-specific-factor-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: strategy
 id: low-staffing-spiral-review-implementation
 title: Implement the spiral-review supplement with existing classroom staff, teacher onboarding training, and weekly computer-based quizzes
 description: "The article's implementation profile specifies that \"no additional staff beyond the classroom teacher\" are needed, that \"teachers receive professional development to onboard to the program\" with additional trainings a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Post-pandemic, K-2 scores predict third grade ELA outcomes with smaller but still moderate-to-large correlations (0.30-0.64 for grades; 0.47-0.81 for IAR)
 description: Post-pandemic, K-2 scores predict third grade ELA outcomes with smaller but still moderate-to-large correlations (0.30-0.64 for grades; 0.47-0.81 for IAR)
 id: post-pandemic-k2-scores-still-predict-third-grade-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

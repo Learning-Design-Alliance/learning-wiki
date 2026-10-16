@@ -3,7 +3,7 @@ type: claim
 title: "Selective and top-tier schools improve students' nonacademic experiences, with peer classroom behavior showing the largest differences"
 description: "Selective and top-tier schools improve students' nonacademic experiences, with peer classroom behavior showing the largest differences"
 id: selective-top-tier-schools-improve-nonacademic-experiences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

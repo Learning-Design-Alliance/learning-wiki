@@ -3,7 +3,7 @@ type: strategy
 id: reduce-teacher-loan-burden-policy-strategies
 title: Expand loan forgiveness, high-retention preparation pathways, and compensation supports to reduce teacher loan burdens and strengthen recruitment and retention
 description: "The report recommends five federal, state, and local policy approaches: expanding loan forgiveness and service scholarship programs; expanding affordable high-retention preparation pathways such as residency programs;..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

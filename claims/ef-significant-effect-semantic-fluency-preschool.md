@@ -3,7 +3,7 @@ type: claim
 title: Executive function performance significantly predicts semantic fluency in preschool children
 description: Executive function performance significantly predicts semantic fluency in preschool children
 id: ef-significant-effect-semantic-fluency-preschool
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

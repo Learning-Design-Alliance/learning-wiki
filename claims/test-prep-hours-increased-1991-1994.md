@@ -3,7 +3,7 @@ type: claim
 title: "Between 1991 and 1994, elementary teachers' test-preparation time increased and responses converged toward moderate agreement on reform items"
 description: "Between 1991 and 1994, elementary teachers' test-preparation time increased and responses converged toward moderate agreement on reform items"
 id: test-prep-hours-increased-1991-1994
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

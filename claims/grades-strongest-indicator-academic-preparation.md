@@ -3,7 +3,7 @@ type: claim
 title: "Across the college-going population, course grades are consistently the strongest indicators of students' general academic preparation"
 description: "Across the college-going population, course grades are consistently the strongest indicators of students' general academic preparation"
 id: grades-strongest-indicator-academic-preparation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

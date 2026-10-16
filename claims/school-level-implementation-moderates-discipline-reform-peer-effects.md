@@ -3,7 +3,7 @@ type: claim
 title: Peer outcomes following a district suspension reform varied with school-level implementation
 description: Peer outcomes following a district suspension reform varied with school-level implementation
 id: school-level-implementation-moderates-discipline-reform-peer-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

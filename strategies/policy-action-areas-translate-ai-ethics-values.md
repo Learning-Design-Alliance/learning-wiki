@@ -3,7 +3,7 @@ type: strategy
 id: policy-action-areas-translate-ai-ethics-values
 title: "Use the Recommendation's Policy Action Areas to translate AI ethics values into policy across education, data governance and other spheres"
 description: "The page recommends that policymakers use the Recommendation's extensive Policy Action Areas to move from principles to implementation."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

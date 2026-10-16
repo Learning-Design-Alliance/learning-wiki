@@ -3,7 +3,7 @@ type: learner-variable
 id: digital-literacy
 title: Digital Literacy
 description: Whether a learner can operate the interface the instruction is delivered through, independently of whether they can reach it.
-status: draft
+status: review
 generated:
   by: "claude/unspecified"
   at: 2026-09-02
@@ -12,7 +12,7 @@ generated:
 # Digital Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 42 claims (29 for, 6 mixed, 7 against) · 37 studies (13 associational, 8 causal, 5 qualitative, 4 review, 3 quant-synthesis, 3 design, 1 theoretical), `q1`–`q4` · 7 of 37 report an effect size · 40 claims rest on one study
+> **Evidence** · 43 claims (30 for, 6 mixed, 7 against) · 38 studies (14 associational, 8 causal, 5 qualitative, 4 review, 3 quant-synthesis, 3 design, 1 theoretical), `q1`–`q4` · 7 of 38 report an effect size · 41 claims rest on one study
 
 ## Description
 Whether a learner can *operate* the interface — distinct from [access](access.md), which is whether they can load it at all. It covers navigation, file handling, knowing what is clickable, and the confidence to explore without fear of breaking something. Every course here is delivered digitally, so this is never out of scope, and it is the dimension most often assumed away: a designer fluent in the interface cannot see it.
@@ -76,6 +76,7 @@ Whether a learner can *operate* the interface — distinct from [access](access.
 - [One focal student exhibited a critical-pragmatic humanistic AI literacy, conceptualizing AI as a manipulable tool and evaluating it by rhetorical efficiency](../claims/zhimo-critical-pragmatic-humanistic-ai-literacy.md) [+M] — instruction changes it
 - [Robotics systems skill levels do not differ between GBL and gamified studies](../claims/robotics-systems-skill-levels-no-approach-difference.md) [-W] — instruction changes it
 - [The two students' distinct AI literacy approaches may be shaped by differing rhetorical objectives, genres, and audiences of their writing tasks](../claims/task-genre-audience-shape-ai-literacy-approaches.md) [~M] — instruction changes it
+- [Certain aspects of AI literacy play a role in higher-quality prompt engineering by non-expert students](../claims/ai-literacy-aspects-support-prompt-engineering.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 - Access — whether they can load it, as against whether they can drive it.

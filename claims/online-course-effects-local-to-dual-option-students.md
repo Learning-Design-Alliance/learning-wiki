@@ -3,7 +3,7 @@ type: claim
 title: The estimated online-course effects are local to students with access to both online and in-person options
 description: The estimated online-course effects are local to students with access to both online and in-person options
 id: online-course-effects-local-to-dual-option-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

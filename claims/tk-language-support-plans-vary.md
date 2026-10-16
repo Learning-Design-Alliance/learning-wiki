@@ -3,7 +3,7 @@ type: claim
 title: "Most LEAs planned English-only TK with home-language support or dual language programs, but 17% planned no language supports"
 description: "Most LEAs planned English-only TK with home-language support or dual language programs, but 17% planned no language supports"
 id: tk-language-support-plans-vary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

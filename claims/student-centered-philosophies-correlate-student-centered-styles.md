@@ -3,7 +3,7 @@ type: claim
 title: Student-centered philosophies correlate with personal, facilitator and delegator teaching styles
 description: Student-centered philosophies correlate with personal, facilitator and delegator teaching styles
 id: student-centered-philosophies-correlate-student-centered-styles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: "Mild departures from the original scale can change a teacher's odds of being classified high- or low-performing by a factor of 5"
 description: "Mild departures from the original scale can change a teacher's odds of being classified high- or low-performing by a factor of 5"
 id: scale-transformation-changes-teacher-classification-odds-factor-5
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Mined misconception labels match personas' assigned misconceptions at F1 ≈ 0.56, a score that does not test whether generated questions elicit the named misconception"
 description: "Mined misconception labels match personas' assigned misconceptions at F1 ≈ 0.56, a score that does not test whether generated questions elicit the named misconception"
 id: collearn-misconception-mining-f1
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Phonemic Awareness Training Improves Reading
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25
@@ -112,3 +112,4 @@ This National Reading Panel meta-analysis pooled 52 peer-reviewed studies (96 tr
 - [Phonemic segmentation training favored over rhyme/alliteration training on print knowledge, phonological processing, and early reading/writing (Yeh 2003), with substantively important but non-significant differences](phonemic-segmentation-favored-over-rhyme-alliteration-yeh.md) — related
 - RAAL, the targeted RA program, had significant positive effects versus control (effect size +0.10) — related
 - Reading development proceeds from oral language through decoding and fluency to comprehension, but as an interwoven lattice rather than a simple linear process — related
+- [An 11-week teacher-delivered phonological awareness intervention significantly improves kindergarten children's phoneme segmentation, letter knowledge, reading, and invented spelling](teacher-delivered-phoneme-awareness-kindergarten-improves-early-literacy.md) — a narrower finding that bears on this claim

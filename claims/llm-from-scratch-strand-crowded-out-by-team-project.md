@@ -3,7 +3,7 @@ type: claim
 title: "The build-a-language-model-from-scratch strand was not delivered: team projects absorbed the class time it needed, leaving only an optional reading"
 description: "The build-a-language-model-from-scratch strand was not delivered: team projects absorbed the class time it needed, leaving only an optional reading"
 id: llm-from-scratch-strand-crowded-out-by-team-project
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

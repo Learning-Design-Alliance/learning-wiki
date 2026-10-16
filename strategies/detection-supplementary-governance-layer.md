@@ -3,7 +3,7 @@ type: strategy
 id: detection-supplementary-governance-layer
 title: Recalibrate detection as a supplementary layer within multi-layer integrity governance rather than its foundation
 description: "The paper recommends that institutions shift integrity governance from detection-based compliance models to structurally embedded assessment design, with detection serving as \"a supplementary rather than foundational..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: lenses-professional-learning-support-strategy
 title: "Support program implementation with curriculum-embedded professional learning: workshops, planning and classroom coaching, leadership walkthroughs, and student-work data analysis"
 description: The program embeds professional learning in its curriculum tools so teachers and administrators can enact continuous improvement cycles centered on learning from student work.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

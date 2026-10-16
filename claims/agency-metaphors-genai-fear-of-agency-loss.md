@@ -3,7 +3,7 @@ type: claim
 title: Agency metaphors expressed fear that GenAI steals human agency and threatens jobs, reflecting a binary human-versus-machine model
 description: Agency metaphors expressed fear that GenAI steals human agency and threatens jobs, reflecting a binary human-versus-machine model
 id: agency-metaphors-genai-fear-of-agency-loss
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

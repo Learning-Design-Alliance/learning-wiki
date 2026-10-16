@@ -3,7 +3,7 @@ type: element
 id: gates-digital-promise-2024-ai-math-rfi-corpus
 title: "RFI response corpus: 178 submissions on AI-powered mathematics innovations collected April–May 2024"
 description: "A corpus of 178 responses to a 21-question Qualtrics RFI launched by Digital Promise and the Bill & Melinda Gates Foundation in April 2024, closing May 20."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

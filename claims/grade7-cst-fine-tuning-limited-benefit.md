@@ -3,7 +3,7 @@ type: claim
 title: Revisiting grade 8 algebra placement with grade 7 math CST scores does not necessarily yield more accurate placement outcomes, because predictions from different assessments largely overlap
 description: Revisiting grade 8 algebra placement with grade 7 math CST scores does not necessarily yield more accurate placement outcomes, because predictions from different assessments largely overlap
 id: grade7-cst-fine-tuning-limited-benefit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

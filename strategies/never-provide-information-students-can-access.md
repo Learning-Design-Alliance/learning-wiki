@@ -3,7 +3,7 @@ type: strategy
 id: never-provide-information-students-can-access
 title: Implement connectivism in K-12 classrooms by never providing information students can access themselves
 description: "The survey reports Rice's (2018) five strategies for implementing connectivism in traditional K-12 classrooms, including \"never providing information that students can access themselves\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

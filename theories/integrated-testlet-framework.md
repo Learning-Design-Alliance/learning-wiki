@@ -2,7 +2,7 @@
 type: theory
 title: "Integrated testlets: ordered, inter-dependent MC item sets enabled by immediate feedback"
 description: "Integrated testlets are context-dependent item sets in which, per the article, \"certain items are purposefully inter-dependent and are thus presented in a particular order\", unlike traditional testlets whose items are..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -47,4 +47,4 @@ Integrated testlets are context-dependent item sets in which, per the article, "
 -
 
 ## Key Sources
-- Slepkov, A. D. (2013). Integrated Testlets and the Immediate Feedback Assessment Technique. https://arxiv.org/abs/1308.4365
+- Slepkov, A. D. (2013). Integrated Testlets and the Immediate Feedback Assessment Technique. https://arxiv.org/abs/1308.4365. [doi:10.48550/arxiv.1308.4365](https://doi.org/10.48550/arxiv.1308.4365)

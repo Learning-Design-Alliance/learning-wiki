@@ -3,7 +3,7 @@ type: claim
 title: "TAILS dimensions show high internal consistency, with Cronbach's alpha values above 0.90"
 description: "TAILS dimensions show high internal consistency, with Cronbach's alpha values above 0.90"
 id: tails-high-internal-consistency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Exploratory heat maps reveal three student groups, including disengaged-but-successful students more prevalent in the Python courses, showing low content completion can link to both positive and negative outcomes
 description: Exploratory heat maps reveal three student groups, including disengaged-but-successful students more prevalent in the Python courses, showing low content completion can link to both positive and negative outcomes
 id: interaction-patterns-three-student-groups-heatmaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

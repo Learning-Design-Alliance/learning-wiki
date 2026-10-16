@@ -32,8 +32,8 @@ sources:
     author: "Sarrasin, J. B., Nenciovici, L., Foisy, L. M. B., Allaire-Duquette, G., Riopel, M., & Masson, S"
   - id: yeager-2019
     resource: "https://doi.org/10.1038/s41586-019-1466-y"
-    title: "Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., Schneider, B., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature, 573*(7774), 364-369"
-    author: Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., Schneider, B., et al
+    title: "Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., Tipton, E., Schneider, B., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature, 573*(7774), 364-369"
+    author: Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., Tipton, E., Schneider, B., et al
   - id: claro-2016
     resource: "https://doi.org/10.1073/pnas.1608207113"
     title: "Claro, S., Paunesku, D., & Dweck, C. S. (2016). Growth mindset tempers the effects of poverty on academic achievement. *Proceedings of the National Academy of Sciences, 113*(31), 8664-8668"
@@ -254,7 +254,7 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 - Burnette, J. L., O'Boyle, E. H., VanEpps, E. M., Pollack, J. M., & Finkel, E. J. (2013). Mind-sets matter: A meta-analytic review of implicit theories and self-regulation. *Psychological Bulletin, 139*(3), 655–701. [doi:10.1037/a0029531](https://doi.org/10.1037/a0029531)
 - Dweck, C. S. (2006). *Mindset: The new psychology of success*. Ballantine Books.
 - Sarrasin, J. B., Nenciovici, L., Foisy, L. M. B., Allaire-Duquette, G., Riopel, M., & Masson, S. (2018). Effects of teaching the concept of neuroplasticity to induce a growth mindset on motivation, achievement, and brain activity: A meta-analysis. *Trends in Neuroscience and Education, 12*, 22-31. [https://doi.org/10.1016/j.tine.2018.07.003](https://doi.org/10.1016/j.tine.2018.07.003)
-- Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., Schneider, B., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature, 573*(7774), 364-369. [https://doi.org/10.1038/s41586-019-1466-y](https://doi.org/10.1038/s41586-019-1466-y)
+- Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., Tipton, E., Schneider, B., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature, 573*(7774), 364-369. [https://doi.org/10.1038/s41586-019-1466-y](https://doi.org/10.1038/s41586-019-1466-y)
 - Claro, S., Paunesku, D., & Dweck, C. S. (2016). Growth mindset tempers the effects of poverty on academic achievement. *Proceedings of the National Academy of Sciences, 113*(31), 8664-8668. [https://doi.org/10.1073/pnas.1608207113](https://doi.org/10.1073/pnas.1608207113)
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
@@ -536,7 +536,7 @@ Mindset interventions are best understood as small motivational levers, not stan
 - Burnette, J. L., O'Boyle, E. H., VanEpps, E. M., Pollack, J. M., & Finkel, E. J. (2013). Mind-sets matter: A meta-analytic review of implicit theories and self-regulation. *Psychological Bulletin, 139*(3), 655–701. [doi:10.1037/a0029531](https://doi.org/10.1037/a0029531)
 - Dweck, C. S. (2006). *Mindset: The new psychology of success*. Ballantine Books.
 - Sarrasin, J. B., Nenciovici, L., Foisy, L. M. B., Allaire-Duquette, G., Riopel, M., & Masson, S. (2018). Effects of teaching the concept of neuroplasticity to induce a growth mindset on motivation, achievement, and brain activity: A meta-analysis. *Trends in Neuroscience and Education, 12*, 22-31. [https://doi.org/10.1016/j.tine.2018.07.003](https://doi.org/10.1016/j.tine.2018.07.003)
-- Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., Schneider, B., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature, 573*(7774), 364-369. [https://doi.org/10.1038/s41586-019-1466-y](https://doi.org/10.1038/s41586-019-1466-y)
+- Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., Tipton, E., Schneider, B., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature, 573*(7774), 364-369. [https://doi.org/10.1038/s41586-019-1466-y](https://doi.org/10.1038/s41586-019-1466-y)
 - Claro, S., Paunesku, D., & Dweck, C. S. (2016). Growth mindset tempers the effects of poverty on academic achievement. *Proceedings of the National Academy of Sciences, 113*(31), 8664-8668. [https://doi.org/10.1073/pnas.1608207113](https://doi.org/10.1073/pnas.1608207113)
 
 <!- - merged 2026-10-02 from principles/foster-growth-mindset ("Foster Growth Mindset"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
@@ -605,7 +605,7 @@ Fostering a growth mindset helps when the learning environment gives learners cr
 ## Key Sources
 - Dweck, C. S. (2006). *Mindset: The new psychology of success*. Ballantine Books.
 - Sarrasin, J. B., Nenciovici, L., Foisy, L. M. B., Allaire-Duquette, G., Riopel, M., & Masson, S. (2018). Effects of teaching the concept of neuroplasticity to induce a growth mindset on motivation, achievement, and brain activity: A meta-analysis. *Trends in Neuroscience and Education, 12*, 22-31. [https://doi.org/10.1016/j.tine.2018.07.003](https://doi.org/10.1016/j.tine.2018.07.003)
-- Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., Schneider, B., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature, 573*(7774), 364-369. [https://doi.org/10.1038/s41586-019-1466-y](https://doi.org/10.1038/s41586-019-1466-y)
+- Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., Tipton, E., Schneider, B., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature, 573*(7774), 364-369. [https://doi.org/10.1038/s41586-019-1466-y](https://doi.org/10.1038/s41586-019-1466-y)
 - Claro, S., Paunesku, D., & Dweck, C. S. (2016). Growth mindset tempers the effects of poverty on academic achievement. *Proceedings of the National Academy of Sciences, 113*(31), 8664-8668. [https://doi.org/10.1073/pnas.1608207113](https://doi.org/10.1073/pnas.1608207113)
 - ->
 -->

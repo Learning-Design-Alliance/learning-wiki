@@ -4,7 +4,7 @@ id: how-i-know-project
 title: How I Know project
 description: "WestEd's How I Know project framework provides five synergistic practices for school leaders guiding formative-assessment implementation and scaling."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "More students were very chronically absent (missing 20% or more of days) and fewer students had strong attendance (under 5%) after the pandemic"
 description: "More students were very chronically absent (missing 20% or more of days) and fewer students had strong attendance (under 5%) after the pandemic"
 id: very-chronic-absence-up-strong-attendance-down
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

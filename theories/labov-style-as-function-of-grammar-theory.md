@@ -2,7 +2,7 @@
 type: theory
 title: "Labov's five-segment theory of language makes style the function of grammar"
 description: "The note reports Labov's new, then-unwritten theory of language, in which \"style the function of grammar\" — grammar itself carries the stylistic work of an utterance."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

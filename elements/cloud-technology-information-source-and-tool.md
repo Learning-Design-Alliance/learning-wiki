@@ -3,7 +3,7 @@ type: element
 id: cloud-technology-information-source-and-tool
 title: Cloud technology as information source and activity tool in the learning model
 description: Cloud technology is a core component of the model, serving a dual role in the innovation-creation process.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

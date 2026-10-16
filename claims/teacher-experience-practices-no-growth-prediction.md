@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' years of experience and most self-reported instructional practices did not significantly predict students' AES-measured writing growth"
 description: "Teachers' years of experience and most self-reported instructional practices did not significantly predict students' AES-measured writing growth"
 id: teacher-experience-practices-no-growth-prediction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

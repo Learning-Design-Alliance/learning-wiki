@@ -4,7 +4,7 @@ id: early-risers
 title: Early Risers
 description: Early Risers is a multi-year prevention programme for elementary-aged children with early aggressive or disruptive behavior, integrating child-, school-, and family-focused interventions.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

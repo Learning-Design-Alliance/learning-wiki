@@ -3,7 +3,7 @@ type: claim
 title: AVID students in CPS report extremely high satisfaction with the program
 description: AVID students in CPS report extremely high satisfaction with the program
 id: avid-students-extremely-satisfied-cps-2007
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Human ratings and automated metrics converge on coherence and temporal alignment as the dimensions most enhanced by the dual gatekeeping pipeline
 description: Human ratings and automated metrics converge on coherence and temporal alignment as the dimensions most enhanced by the dual gatekeeping pipeline
 id: dual-evaluation-convergence-coherence-temporal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

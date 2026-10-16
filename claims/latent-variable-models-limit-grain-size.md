@@ -3,7 +3,7 @@ type: claim
 title: Multidimensional latent variable models rarely support more than about four to six latent variables, limiting fine-grained SKIVE modeling
 description: Multidimensional latent variable models rarely support more than about four to six latent variables, limiting fine-grained SKIVE modeling
 id: latent-variable-models-limit-grain-size
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

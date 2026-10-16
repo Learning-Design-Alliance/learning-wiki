@@ -99,7 +99,7 @@ Goal setting works because it directs attention and effort toward concrete featu
 - Graham, S., Harris, K. R., & Mason, L. (2005). Improving the writing performance, knowledge, and self-efficacy of struggling young writers: The effects of self-regulated strategy development. *Contemporary Educational Psychology, 30*(2), 207–241. [doi:10.1016/j.cedpsych.2004.08.001](https://doi.org/10.1016/j.cedpsych.2004.08.001)
 
 ---
-- Graham, S., & Sandmel, D. (2011). The process writing approach: A meta-analysis. *Journal of Educational Research, 104*(6), 396–407. [doi:10.1080/00220671.2010.488703](https://doi.org/10.1080/00220671.2010.488703)
+- Graham, S., & Sandmel, K. (2011). The process writing approach: A meta-analysis. *The Journal of Educational Research, 104*(6), 396–407. [doi:10.1080/00220671.2010.488703](https://doi.org/10.1080/00220671.2010.488703)
 - Graham, S., Harris, K. R., & Mason, L. (2005). Improving the writing performance, knowledge, and self-efficacy of struggling young writers: The effects of self-regulated strategy development *Contemporary Educational Psychology, 30*(2), 207–241. [doi:10.1016/j.cedpsych.2004.08.001](https://doi.org/10.1016/j.cedpsych.2004.08.001)
 
 <!-- merged 2026-10-09 from strategies/goal_setting_for_writing ("Goal Setting for Writing"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
@@ -167,6 +167,6 @@ Goal setting converts the diffuse demand "write well" into concrete, checkable c
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
 - Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation: A 35-year odyssey. *American Psychologist, 57*(9), 705–717. [doi:10.1037/0003-066X.57.9.705](https://doi.org/10.1037/0003-066X.57.9.705)
 - Zimmerman, B. J., & Kitsantas, A. (1999). Acquiring writing revision skill: Shifting from process to outcome self-regulatory goals. *Journal of Educational Psychology, 91*(2), 241–252. [doi:10.1037/0022-0663.91.2.241](https://doi.org/10.1037/0022-0663.91.2.241)
-- Graham, S., & Sandmel, D. (2011). The process writing approach: A meta-analysis. *Journal of Educational Research, 104*(6), 396–407. [doi:10.1080/00220671.2010.488703](https://doi.org/10.1080/00220671.2010.488703)
+- Graham, S., & Sandmel, K. (2011). The process writing approach: A meta-analysis. *The Journal of Educational Research, 104*(6), 396–407. [doi:10.1080/00220671.2010.488703](https://doi.org/10.1080/00220671.2010.488703)
 - Graham, S., Harris, K. R., & Mason, L. (2005). Improving the writing performance, knowledge, and self-efficacy of struggling young writers: The effects of self-regulated strategy development *Contemporary Educational Psychology, 30*(2), 207–241. [doi:10.1016/j.cedpsych.2004.08.001](https://doi.org/10.1016/j.cedpsych.2004.08.001)
 -->

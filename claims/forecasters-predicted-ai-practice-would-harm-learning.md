@@ -3,7 +3,7 @@ type: claim
 title: Lay forecasters predicted that practicing alone would produce more learning than practicing with AI, contrary to the experimental results
 description: Lay forecasters predicted that practicing alone would produce more learning than practicing with AI, contrary to the experimental results
 id: forecasters-predicted-ai-practice-would-harm-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

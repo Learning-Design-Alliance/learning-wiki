@@ -3,7 +3,7 @@ type: claim
 title: "Agreement between chatbot preference and perceived learning attribution was low (39%)"
 description: "Agreement between chatbot preference and perceived learning attribution was low (39%)"
 id: low-agreement-preference-learning-attribution-39-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

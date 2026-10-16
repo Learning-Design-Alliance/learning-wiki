@@ -4,7 +4,7 @@ id: literary-axiom-dataset-1455-chinese-language-records-with-typed-mappings-and
 title: "Literary axiom dataset: 1,455 Chinese-language records with typed mappings and relationships"
 description: "Qiang Liu et al.'s dataset provides 1,455 Chinese-language literary-axiom records with typed mappings to literary works and typed relationships for literary scholarship and computational-creativity research."
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "Adolescent students' stated pre-chat intentions with an AI math tutor tilt strongly toward scaffolded support rather than answer offloading"
 description: "Adolescent students' stated pre-chat intentions with an AI math tutor tilt strongly toward scaffolded support rather than answer offloading"
 id: forethought-intentions-learning-oriented-genai-tutor
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

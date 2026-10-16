@@ -3,7 +3,7 @@ type: strategy
 id: pair-complementary-intellectual-styles
 title: Pair students with complementary intellectual styles to compensate for weaknesses
 description: "Sternberg recommends pairing learners whose preferred styles differ so that each compensates for the other's weak areas, since people benefit most from collaborators moderately unlike themselves in preferred level of..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

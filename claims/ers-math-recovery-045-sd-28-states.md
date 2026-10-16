@@ -3,7 +3,7 @@ type: claim
 title: Math achievement improved by about .045 standard deviations from 2022 to 2023 in the 28 states included in the ERS math sample
 description: Math achievement improved by about .045 standard deviations from 2022 to 2023 in the 28 states included in the ERS math sample
 id: ers-math-recovery-045-sd-28-states
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

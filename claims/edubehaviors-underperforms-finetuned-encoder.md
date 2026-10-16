@@ -3,7 +3,7 @@ type: claim
 title: EduBehaviors underperforms the fine-tuned RoBERTa encoder trained on expert-labeled TalkMoves data
 description: EduBehaviors underperforms the fine-tuned RoBERTa encoder trained on expert-labeled TalkMoves data
 id: edubehaviors-underperforms-finetuned-encoder
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

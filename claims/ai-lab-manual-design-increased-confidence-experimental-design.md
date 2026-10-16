@@ -3,7 +3,7 @@ type: claim
 title: "AI-supported lab manual design increased students' confidence in experimental design in an upper-division analytical chemistry laboratory course"
 description: "AI-supported lab manual design increased students' confidence in experimental design in an upper-division analytical chemistry laboratory course"
 id: ai-lab-manual-design-increased-confidence-experimental-design
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

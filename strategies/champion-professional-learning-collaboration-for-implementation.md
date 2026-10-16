@@ -3,7 +3,7 @@ type: strategy
 id: champion-professional-learning-collaboration-for-implementation
 title: Champion professional learning and collaboration structures to support curriculum implementation
 description: Among the organizational levers the infographic spotlights, leaders supported implementation by championing professional learning and strengthening collaboration structures, alongside protecting teacher time, expandin...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

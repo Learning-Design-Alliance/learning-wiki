@@ -3,7 +3,7 @@ type: claim
 title: Unexpectedly, students in classrooms characterized by high Instructional Support rated their teachers less positively over time
 description: Unexpectedly, students in classrooms characterized by high Instructional Support rated their teachers less positively over time
 id: high-instructional-support-classrooms-less-positive-perceptions-over-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Pilot test events largely fulfilled updated blueprint requirements, including increased reading passages per test event
 description: Pilot test events largely fulfilled updated blueprint requirements, including increased reading passages per test event
 id: pilot-blueprint-fulfillment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

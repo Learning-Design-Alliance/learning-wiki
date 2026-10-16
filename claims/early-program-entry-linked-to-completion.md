@@ -3,7 +3,7 @@ type: claim
 title: Students who commit to a program of study within their first year are more likely to complete a credential or transfer within five years
 description: Students who commit to a program of study within their first year are more likely to complete a credential or transfer within five years
 id: early-program-entry-linked-to-completion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

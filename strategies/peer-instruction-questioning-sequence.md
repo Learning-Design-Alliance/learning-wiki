@@ -3,7 +3,7 @@ type: strategy
 id: peer-instruction-questioning-sequence
 title: "Peer Instruction structured questioning sequence: individual answers, convince-your-neighbors discussion, revote, and instructor feedback"
 description: Peer Instruction restructures lecture so short presentations on key points are each followed by a ConcepTest.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

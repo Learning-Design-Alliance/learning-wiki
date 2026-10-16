@@ -4,7 +4,7 @@ id: indiana-college-core
 title: Indiana College Core
 description: "The Indiana Commission for Higher Education's Indiana College Core programme enables high school students to earn transferable college credits, supported by the My College Core interactive planning tool and counselor guidance."
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

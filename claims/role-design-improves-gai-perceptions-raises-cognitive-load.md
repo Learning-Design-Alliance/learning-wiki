@@ -3,7 +3,7 @@ type: claim
 title: "Role design improves learners' perceived usefulness and ease of use of GAI, but moderately increases collaborative cognitive load"
 description: "Role design improves learners' perceived usefulness and ease of use of GAI, but moderately increases collaborative cognitive load"
 id: role-design-improves-gai-perceptions-raises-cognitive-load
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

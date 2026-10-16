@@ -3,7 +3,7 @@ type: claim
 title: "At least 90% of reading and science items and about 80% of math items show difficulty differences within 0.3 logits between on-grade and all-grade calibration"
 description: "At least 90% of reading and science items and about 80% of math items show difficulty differences within 0.3 logits between on-grade and all-grade calibration"
 id: map-growth-most-items-within-03-logit-ongrade-calibration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

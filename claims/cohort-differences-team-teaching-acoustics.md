@@ -3,7 +3,7 @@ type: claim
 title: "Teacher talk differs acoustically by student cohort: undergraduate classes show higher loudness-dynamics components while postgraduate classes show higher spectral-slope and voice-quality components"
 description: "Teacher talk differs acoustically by student cohort: undergraduate classes show higher loudness-dynamics components while postgraduate classes show higher spectral-slope and voice-quality components"
 id: cohort-differences-team-teaching-acoustics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

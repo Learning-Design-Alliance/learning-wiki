@@ -3,7 +3,7 @@ type: claim
 title: Qualities metaphors depicted GenAI as unknowable, unreliable and unbounded, with participants unsettled by its opacity
 description: Qualities metaphors depicted GenAI as unknowable, unreliable and unbounded, with participants unsettled by its opacity
 id: qualities-metaphors-genai-unknowable-unreliable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

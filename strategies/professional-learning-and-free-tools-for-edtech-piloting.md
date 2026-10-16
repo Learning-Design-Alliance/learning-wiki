@@ -3,7 +3,7 @@ type: strategy
 id: professional-learning-and-free-tools-for-edtech-piloting
 title: Provide professional learning opportunities and free tools to support educators in conducting edtech pilot studies
 description: "The report recommends that organizations support educators' data collection for adoption decisions by continuing to \"provide professional learning opportunities along with free tools and resources to support educators..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

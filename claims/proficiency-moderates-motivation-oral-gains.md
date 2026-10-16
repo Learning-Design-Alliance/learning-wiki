@@ -3,7 +3,7 @@ type: claim
 title: Language proficiency significantly moderates the effect of learning motivation on oral proficiency improvement
 description: Language proficiency significantly moderates the effect of learning motivation on oral proficiency improvement
 id: proficiency-moderates-motivation-oral-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

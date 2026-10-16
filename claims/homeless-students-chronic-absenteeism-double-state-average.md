@@ -3,7 +3,7 @@ type: claim
 title: "Students experiencing homelessness in California are chronically absent at twice the state average, with rates above 40% for African American and Native American/Alaskan students"
 description: "Students experiencing homelessness in California are chronically absent at twice the state average, with rates above 40% for African American and Native American/Alaskan students"
 id: homeless-students-chronic-absenteeism-double-state-average
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

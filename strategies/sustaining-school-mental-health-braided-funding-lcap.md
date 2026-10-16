@@ -3,7 +3,7 @@ type: strategy
 id: sustaining-school-mental-health-braided-funding-lcap
 title: Sustain the school mental health system through braided funding, LCAP indicators, and ongoing program mapping
 description: "The brief lists key strategies NHUHSD will use to sustain its school mental health system beyond Project Cal-Well, including \"incorporating key mental health indicators from the CHKS into the Local Control and Account..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

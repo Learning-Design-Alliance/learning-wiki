@@ -3,7 +3,7 @@ type: claim
 title: Compared with non-ePortfolio peers, students in courses requiring ePortfolios were generally more engaged, earned higher grades, and were more likely to complete and persist, per the 26-institution project evidence
 description: Compared with non-ePortfolio peers, students in courses requiring ePortfolios were generally more engaged, earned higher grades, and were more likely to complete and persist, per the 26-institution project evidence
 id: epportfolio-courses-engagement-grades-persistence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

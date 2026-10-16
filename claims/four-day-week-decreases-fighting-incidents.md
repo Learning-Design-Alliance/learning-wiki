@@ -3,7 +3,7 @@ type: claim
 title: "Four-day school weeks decrease per-pupil fighting incidents among high school students by approximately 31%"
 description: "Four-day school weeks decrease per-pupil fighting incidents among high school students by approximately 31%"
 id: four-day-week-decreases-fighting-incidents
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

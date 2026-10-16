@@ -3,7 +3,7 @@ type: claim
 title: "Developers of the principal practice instruments provided only partial information about the instruments' reliability and validity"
 description: "Developers of the principal practice instruments provided only partial information about the instruments' reliability and validity"
 id: practice-instrument-partial-reliability-validity-info
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

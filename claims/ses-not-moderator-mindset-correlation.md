@@ -3,7 +3,7 @@ type: claim
 title: Socioeconomic status does not significantly moderate the mind-set–achievement correlation
 description: Socioeconomic status does not significantly moderate the mind-set–achievement correlation
 id: ses-not-moderator-mindset-correlation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

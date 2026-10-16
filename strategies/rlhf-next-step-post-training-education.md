@@ -3,7 +3,7 @@ type: strategy
 id: rlhf-next-step-post-training-education
 title: "Next-step post-training strategy: reinforcement learning from human feedback on authentic learning dialogues and scaling student feedback"
 description: "The article's forward-looking recommendation is to move beyond supervised fine-tuning toward RLHF using authentic learning dialogues, and to incorporate post-trained models into the student journey to quantify student..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -41,6 +41,7 @@ The article's forward-looking recommendation is to move beyond supervised fine-t
 
 - [Enhance student development agents with finetuned or small task-specific models and richer memory architectures rather than prompting alone](finetuning-and-small-models-for-developmental-agents.md)
 - [Planned extensions: expanded user studies, expert-in-the-loop RLHF, hybrid retrieval, and hand-tracking-based assessment](hdr-platform-future-work-strategies.md)
+- [Train AI feedback models on context-specific educational data including student, course and instructor data](train-ai-on-context-specific-educational-data.md)
 
 ## Examples
 -

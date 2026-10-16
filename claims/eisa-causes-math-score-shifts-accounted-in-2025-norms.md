@@ -3,7 +3,7 @@ type: claim
 title: The enhanced item-selection algorithm (EISA) causes shifts in math scores that were fully accounted for in the 2025 norms and the dashboard
 description: The enhanced item-selection algorithm (EISA) causes shifts in math scores that were fully accounted for in the 2025 norms and the dashboard
 id: eisa-causes-math-score-shifts-accounted-in-2025-norms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

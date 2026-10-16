@@ -3,7 +3,7 @@ type: claim
 title: Visual media assessments (posters, presentations) were not passable because ChatGPT could not produce complete slides or poster content
 description: Visual media assessments (posters, presentations) were not passable because ChatGPT could not produce complete slides or poster content
 id: visual-media-assessments-not-passable-by-chatgpt
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

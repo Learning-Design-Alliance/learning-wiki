@@ -3,7 +3,7 @@ type: claim
 title: Knowledge gained by self-analysis is more likely to produce constructive change in teaching than insights given by an observer
 description: Knowledge gained by self-analysis is more likely to produce constructive change in teaching than insights given by an observer
 id: self-analysis-knowledge-drives-teacher-change
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

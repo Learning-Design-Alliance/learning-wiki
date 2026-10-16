@@ -3,7 +3,7 @@ type: claim
 title: Generative AI adoption among learners and workers is outpacing institutional policy readiness, creating a gap between behavior and policy
 description: Generative AI adoption among learners and workers is outpacing institutional policy readiness, creating a gap between behavior and policy
 id: ai-adoption-outpaces-institutional-policy-readiness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

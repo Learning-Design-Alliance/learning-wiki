@@ -3,7 +3,7 @@ type: claim
 title: Schools with high relational trust showed marked gains in student learning while schools with weak trust relations saw virtually no improvement in reading or mathematics scores
 description: Schools with high relational trust showed marked gains in student learning while schools with weak trust relations saw virtually no improvement in reading or mathematics scores
 id: relational-trust-predicts-learning-gains-chicago-elementary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

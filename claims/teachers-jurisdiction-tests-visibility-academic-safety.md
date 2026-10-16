@@ -3,7 +3,7 @@ type: claim
 title: Teachers draw intervention boundaries by visibility, academic-versus-relational character, and a safety override, not by perceived harm
 description: Teachers draw intervention boundaries by visibility, academic-versus-relational character, and a safety override, not by perceived harm
 id: teachers-jurisdiction-tests-visibility-academic-safety
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

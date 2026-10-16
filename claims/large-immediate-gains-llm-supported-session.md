@@ -3,7 +3,7 @@ type: claim
 title: Students show large immediate pre-to-post knowledge gains within a single LLM-supported learning session
 description: Students show large immediate pre-to-post knowledge gains within a single LLM-supported learning session
 id: large-immediate-gains-llm-supported-session
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

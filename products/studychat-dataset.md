@@ -4,7 +4,7 @@ id: studychat-dataset
 title: StudyChat dataset
 description: StudyChat is a publicly available dataset released by Menggian Wu and collaborators containing naturalistic undergraduate student–LLM programming dialogues linked to assignment submissions.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

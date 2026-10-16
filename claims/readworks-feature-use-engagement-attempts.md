@@ -3,7 +3,7 @@ type: claim
 title: "Using at least one feature raised students' multiple choice question attempt rate to 89 percent and eliminated the drop on hard assignments, with a significant feature-use × difficulty interaction"
 description: "Using at least one feature raised students' multiple choice question attempt rate to 89 percent and eliminated the drop on hard assignments, with a significant feature-use × difficulty interaction"
 id: readworks-feature-use-engagement-attempts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

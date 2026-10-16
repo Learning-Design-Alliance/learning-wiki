@@ -3,7 +3,7 @@ type: claim
 title: School median student growth percentiles were stable year to year even when the school changed principals
 description: School median student growth percentiles were stable year to year even when the school changed principals
 id: school-mgp-stable-despite-principal-change
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

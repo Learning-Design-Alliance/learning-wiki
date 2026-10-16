@@ -3,7 +3,7 @@ type: claim
 title: After two years, RSF Cohort 1 students generally performed at the same levels as propensity-score-matched comparison students, with few statistically significant differences
 description: After two years, RSF Cohort 1 students generally performed at the same levels as propensity-score-matched comparison students, with few statistically significant differences
 id: rsf-cohort1-few-significant-differences-vs-matched-controls
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Students reported increased personal responsibility and described the reflective self-assessment process as confidence-building during their transition to university
 description: Students reported increased personal responsibility and described the reflective self-assessment process as confidence-building during their transition to university
 id: reflection-builds-responsibility-and-confidence-transition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

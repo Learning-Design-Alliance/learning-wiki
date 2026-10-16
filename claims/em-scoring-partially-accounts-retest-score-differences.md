@@ -3,7 +3,7 @@ type: claim
 title: E-M scoring partially accounts for observed RIT score differences between disengaged first tests and engaged retests
 description: E-M scoring partially accounts for observed RIT score differences between disengaged first tests and engaged retests
 id: em-scoring-partially-accounts-retest-score-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

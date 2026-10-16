@@ -3,7 +3,7 @@ type: strategy
 id: scoe-blended-grant-and-reimbursement-financing
 title: Sustain school mental health services by blending one-time grants with ongoing reimbursement streams
 description: "SCOE's sustainability strategy combines one-time initiative funds with recurring reimbursement options."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

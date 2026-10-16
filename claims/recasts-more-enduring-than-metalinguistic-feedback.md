@@ -3,7 +3,7 @@ type: claim
 title: Metalinguistic feedback's gains on wh-question performance decline over a ten-day delay while recast gains hold, leaving the two no different
 description: Metalinguistic feedback's gains on wh-question performance decline over a ten-day delay while recast gains hold, leaving the two no different
 id: recasts-more-enduring-than-metalinguistic-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -73,3 +73,8 @@ Meta-analysis of 33 primary studies of corrective feedback in second language ac
 - [The literature is supportive of recasts, but recast effectiveness varies with the language area and learner knowledge, focus, and aptitudes](recasts-supported-but-effectiveness-varies.md) — a broader claim this one bears on
 - [Corrective feedback facilitates L2 grammatical development, with explicit feedback stronger immediately and implicit feedback better maintained over time](cf-facilitates-l2-grammar-explicit-implicit-durability.md) — reports the opposite
 - [All four written CF types, including metalinguistic code CF, outperformed the control group on the delayed posttest of implicit L2 knowledge.](cf-type-implicit-long-term-benefits.md) — related
+- [Low-proficiency L2 learners benefited significantly more from prompts than from recasts](low-proficiency-learners-benefit-more-from-prompts.md) — related
+- [Explicit metalinguistic feedback outperforms recasts on the delayed grammaticality judgment posttest](metalinguistic-feedback-beats-recasts-delayed-gjt.md) — related
+- [Metalinguistic feedback produced system learning, generalizing to verbs not included in the treatment](metalinguistic-feedback-generalizes-new-items.md) — reports the opposite
+- [A controlled experiment tested whether various types of negative feedback affect adult second-language learners' acquisition of abstract constraints on an overgeneralized rule (the English dative alternation).](negative-feedback-types-dative-alternation-experiment.md) — related
+- [Prompts were overall more effective than recasts as corrective feedback for L2 grammar learning](prompts-more-effective-than-recasts-overall.md) — related

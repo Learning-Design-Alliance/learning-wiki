@@ -3,7 +3,7 @@ type: strategy
 id: curiosity-cases-and-simple-examples-lower-barriers
 title: Cultivate curiosity and lower psychological barriers by opening each project with real-world motivation cases and simple accessible AI examples
 description: At the base of the curriculum pyramid, curiosity and self-motivation are intentionally cultivated in the general introduction and at the start of each project module.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: imagine-espanol-professional-development-strategy
 title: Offer optional virtual or on-site professional development tailored to administrators and educators
 description: Imagine Learning offers optional virtual or on-site professional development and training for administrators and educators, in addition to Customer Success support.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

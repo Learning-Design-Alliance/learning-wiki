@@ -3,7 +3,7 @@ type: claim
 title: "DeBERTa achieved the highest overall accuracy (86.36%) among the evaluated NLP models for classifying learner-generated questions, yet struggled with contextual nuances in complex queries"
 description: "DeBERTa achieved the highest overall accuracy (86.36%) among the evaluated NLP models for classifying learner-generated questions, yet struggled with contextual nuances in complex queries"
 id: deberta-highest-accuracy-86-36-learner-question-classification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

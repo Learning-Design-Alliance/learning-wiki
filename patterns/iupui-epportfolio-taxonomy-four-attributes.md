@@ -3,7 +3,7 @@ type: pattern
 id: iupui-epportfolio-taxonomy-four-attributes
 title: "IUPUI ePortfolio HIP taxonomy: four attributes of high-impact ePortfolio practice at three ascending levels of impact"
 description: "The taxonomy identifies four attributes of high-impact ePortfolio practice: \"1."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

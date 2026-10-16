@@ -3,7 +3,7 @@ type: claim
 title: "Redshirted students' early-grade academic advantage over on-time peers fades as students move through school"
 description: "Redshirted students' early-grade academic advantage over on-time peers fades as students move through school"
 id: redshirting-academic-advantage-short-lived
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses
 description: Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses
 id: classroom-quizzing-improves-exam-performance-across-grades-and-content
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24
@@ -123,3 +123,5 @@ The chapter reports Lindsey et al. (2014), whose personalized review system impl
 - [Quiz-level first-attempt performance analysis across cohorts identifies persistently challenging topics in online biomedical science courses](quiz-level-cross-cohort-analysis-identifies-persistent-challenging-topics.md) — related
 - [Classroom pretesting improves high-stakes exam performance on pretested content by 8–9% over a multi-week course](classroom-pretesting-exam-gains.md) — related
 - [Test-enhanced learning generalizes across education levels, from elementary school (g = 0.328) through university/college (g = 0.486).](testing-effect-generalizes-education-levels.md) — related
+- [The achievement benefit of peer assessment persists to a later comprehensive final exam](peer-assessment-gains-persist-to-final-exam.md) — related
+- [Participating in peer assessment causes a small but significant improvement in short-term achievement on unit quizzes in a college statistics course](peer-assessment-improves-unit-quiz-achievement.md) — related

@@ -3,7 +3,7 @@ type: strategy
 id: define-target-population-first-generalizable-impact-studies
 title: Define the target population as the first step in designing a generalizable impact study
 description: This strategy comes from a practical guide for researchers designing education impact studies.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

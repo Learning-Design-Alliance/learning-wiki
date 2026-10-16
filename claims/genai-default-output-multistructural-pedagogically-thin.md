@@ -3,7 +3,7 @@ type: claim
 title: "GenAI's default output on a take-home exam question remained at the quantitative, multistructural SOLO phase, producing polished but pedagogically thin responses"
 description: "GenAI's default output on a take-home exam question remained at the quantitative, multistructural SOLO phase, producing polished but pedagogically thin responses"
 id: genai-default-output-multistructural-pedagogically-thin
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

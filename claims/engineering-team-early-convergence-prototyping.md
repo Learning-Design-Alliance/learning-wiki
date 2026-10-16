@@ -3,7 +3,7 @@ type: claim
 title: Engineering team converged earlier than other teams, concluding prototyping two minutes before the time limit
 description: Engineering team converged earlier than other teams, concluding prototyping two minutes before the time limit
 id: engineering-team-early-convergence-prototyping
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

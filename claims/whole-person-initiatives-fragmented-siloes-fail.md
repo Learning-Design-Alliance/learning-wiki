@@ -3,7 +3,7 @@ type: claim
 title: Whole-person initiatives often fail to achieve desired outcomes because they operate in fragmented, uncoordinated siloes
 description: Whole-person initiatives often fail to achieve desired outcomes because they operate in fragmented, uncoordinated siloes
 id: whole-person-initiatives-fragmented-siloes-fail
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

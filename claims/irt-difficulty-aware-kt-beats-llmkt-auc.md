@@ -3,7 +3,7 @@ type: claim
 title: An IRT-based difficulty-aware conversational KT framework improves AUC over the LLMKT baseline on both QATD2k and MathDial
 description: An IRT-based difficulty-aware conversational KT framework improves AUC over the LLMKT baseline on both QATD2k and MathDial
 id: irt-difficulty-aware-kt-beats-llmkt-auc
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

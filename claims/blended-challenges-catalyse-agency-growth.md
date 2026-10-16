@@ -3,7 +3,7 @@ type: claim
 title: Challenges of blended delivery catalyse opportunities for teacher agency growth
 description: Challenges of blended delivery catalyse opportunities for teacher agency growth
 id: blended-challenges-catalyse-agency-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

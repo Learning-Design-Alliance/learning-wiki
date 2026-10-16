@@ -3,7 +3,7 @@ type: claim
 title: "L1 and L2 CALP are interdependent: strong promotion of L1 literacy in the early grades entails no adverse consequences for English"
 description: "L1 and L2 CALP are interdependent: strong promotion of L1 literacy in the early grades entails no adverse consequences for English"
 id: l1-l2-calp-interdependence-no-adverse-consequences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

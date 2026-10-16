@@ -3,7 +3,7 @@ type: strategy
 id: conservative-lora-on-attention-components-hybrid-architectures
 title: Apply LoRA fine-tuning conservatively to attention components only when adapting hybrid transformer-Mamba architectures
 description: Because of training instabilities reported in the literature for hybrid architectures, the authors applied LoRA only to the Gated Attention components of the hybrid Qwen3.5 model, leaving the Gated DeltaNet layers unt...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: design
 id: ymhc-member-training-support-framework
 title: YMHC member training and support framework (preservice training, site integration, ongoing development, career coaching, credentialing)
 description: "The YMHC provides all members with a common support structure: intensive preservice training (which can include Youth Mental Health First Aid, trauma-informed care, mandated reporting, cultural competency, motivationa..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

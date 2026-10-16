@@ -3,7 +3,7 @@ type: design
 id: embedded-high-dosage-tutoring-pattern
 title: "Embedded high-dosage tutoring pattern: small ratios, in-schedule sessions, and classroom-aligned sequencing"
 description: "The Saga approach instantiates a high-dosage tutoring design in which tutoring is \"embedded in students' regular school schedules\", occurs at least three times weekly for 90 minutes, uses small tutor-to-student ratios..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

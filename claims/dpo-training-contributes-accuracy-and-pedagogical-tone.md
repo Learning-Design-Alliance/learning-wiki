@@ -3,7 +3,7 @@ type: claim
 title: Removing the DPO objective reduces examination accuracy by 1.11 percentage points and degrades annotated pedagogical quality
 description: Removing the DPO objective reduces examination accuracy by 1.11 percentage points and degrades annotated pedagogical quality
 id: dpo-training-contributes-accuracy-and-pedagogical-tone
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

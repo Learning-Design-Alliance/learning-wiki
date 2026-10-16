@@ -77,7 +77,7 @@ Calming strategies are a form of emotion-regulation skill training: they work be
 - **[Incredible Years](http://www.incredibleyears.com)** (Webster-Stratton) — teaches young children the "Turtle Technique" (withdraw into shell, calm down, think of solutions) through puppet modeling, rehearsal, and reinforcement across home and classroom settings.
 - **[PATHS Curriculum](https://www.pathseducation.com)** — universal SEL curriculum in which children learn the "Calming-Down Steps" (stop, name the feeling, take deep breaths, count) via daily lessons and a "calm-down" classroom routine.
 - **Calm-down corners** — a designated classroom space with visual strategy charts, sensory tools, and a timer, letting learners self-select and execute strategies with minimal adult direction.
-- **Mindfulness breaks** — brief guided breathing or body-scan practices embedded in the school day; meta-analytic evidence shows small but reliable benefits for attention and emotional problems in youth [~M].
+- **[Mindfulness breaks](mindfulness-breaks.md)** — brief guided breathing or body-scan practices embedded in the school day; meta-analytic evidence shows small but reliable benefits for attention and emotional problems in youth [~M].
 
 ## Key Sources
 - Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development, 82*(1), 405–432. [doi:10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x)

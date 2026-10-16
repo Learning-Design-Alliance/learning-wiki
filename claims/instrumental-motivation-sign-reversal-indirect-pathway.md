@@ -3,7 +3,7 @@ type: claim
 title: Instrumental motivation shows a small negative indirect association in the moderated model, contrary to the hypothesized positive pathway, with sign reversal across model specifications
 description: Instrumental motivation shows a small negative indirect association in the moderated model, contrary to the hypothesized positive pathway, with sign reversal across model specifications
 id: instrumental-motivation-sign-reversal-indirect-pathway
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

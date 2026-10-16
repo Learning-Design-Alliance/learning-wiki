@@ -3,7 +3,7 @@ type: claim
 title: Solution providers reported high satisfaction with facilitator preparedness, networking, and solution mapping, with some dissatisfaction on other components
 description: Solution providers reported high satisfaction with facilitator preparedness, networking, and solution mapping, with some dissatisfaction on other components
 id: providers-satisfied-salon-components
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

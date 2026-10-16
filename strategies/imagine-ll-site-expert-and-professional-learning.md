@@ -3,7 +3,7 @@ type: strategy
 id: imagine-ll-site-expert-and-professional-learning
 title: "Assign a dedicated site expert and site-developed professional learning plan when implementing Imagine Language & Literacy"
 description: "The program's stated implementation supports are a dedicated on-site facilitator and customized professional learning."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

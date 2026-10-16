@@ -3,7 +3,7 @@ type: claim
 title: Rhyme sensitivity plays a limited role in Spanish reading development and does not reliably distinguish stronger from weaker readers beyond early stages
 description: Rhyme sensitivity plays a limited role in Spanish reading development and does not reliably distinguish stronger from weaker readers beyond early stages
 id: rhyme-sensitivity-limited-role-spanish
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

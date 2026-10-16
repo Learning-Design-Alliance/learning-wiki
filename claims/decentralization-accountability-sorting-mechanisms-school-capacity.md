@@ -3,7 +3,7 @@ type: claim
 title: Decentralization and accountability acted as sorting mechanisms stratifying schools by initial capacity to respond
 description: Decentralization and accountability acted as sorting mechanisms stratifying schools by initial capacity to respond
 id: decentralization-accountability-sorting-mechanisms-school-capacity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

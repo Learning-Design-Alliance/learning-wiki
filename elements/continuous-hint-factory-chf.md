@@ -3,7 +3,7 @@ type: element
 id: continuous-hint-factory-chf
 title: Continuous Hint Factory (CHF)
 description: "The CHF is a hint-generation method extending the Hint Factory to \"vast and sparsely populated state spaces\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

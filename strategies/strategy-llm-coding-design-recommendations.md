@@ -3,7 +3,7 @@ type: strategy
 id: strategy-llm-coding-design-recommendations
 title: "Design recommendations: guide dataset preprocessing, treat uncertainty and conflict as diagnostic signals, and tune agent discussion styles to task ambiguity"
 description: "From the experiment results, the authors propose design recommendations for developers and designers of automated qualitative coding systems, including \"guiding users of systems through data preprocessing, leveraging..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

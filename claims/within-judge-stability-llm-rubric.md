@@ -3,7 +3,7 @@ type: claim
 title: Within-judge variance of the repeated LLM-judge rubric is negligible, but cross-model-family agreement remains untested
 description: Within-judge variance of the repeated LLM-judge rubric is negligible, but cross-model-family agreement remains untested
 id: within-judge-stability-llm-rubric
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

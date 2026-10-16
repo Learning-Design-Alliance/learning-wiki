@@ -3,7 +3,7 @@ type: strategy
 id: grade1-orientation-and-teacher-dashboard-strategy
 title: Provide an orientation period for Grade 1 students and teacher-facing monitoring dashboards
 description: "For first-time young users, the authors recommend a distinct orientation period: \"An orientation period with proper training could help to familiarize these very young learners with using comprehensive learning system..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

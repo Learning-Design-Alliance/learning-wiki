@@ -4,7 +4,7 @@ title: "Charter middle schools' success in improving college outcomes was not re
 description: "Charter middle schools' success in improving college outcomes was not related to their success in improving middle school achievement"
 id: charter-college-outcomes-unrelated-to-middle-school-achievement-gains
 aliases: [charter-achievement-gains-unrelated-to-college-outcomes]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

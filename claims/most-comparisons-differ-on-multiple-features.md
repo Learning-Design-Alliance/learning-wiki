@@ -3,7 +3,7 @@ type: claim
 title: Most active learning comparison studies differ on more than one course feature, limiting attribution of effects to single features
 description: Most active learning comparison studies differ on more than one course feature, limiting attribution of effects to single features
 id: most-comparisons-differ-on-multiple-features
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

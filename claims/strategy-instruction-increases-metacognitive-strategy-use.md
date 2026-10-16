@@ -3,7 +3,7 @@ type: claim
 title: Metacognitive strategies and products of metacognitive processes were more diverse and frequent in reading strategy instruction groups than in the no-instruction group
 description: Metacognitive strategies and products of metacognitive processes were more diverse and frequent in reading strategy instruction groups than in the no-instruction group
 id: strategy-instruction-increases-metacognitive-strategy-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

@@ -3,7 +3,7 @@ type: claim
 title: "The authors assert that Systems Review participation builds SEA teams' capacity for shared purpose, decision-making, and adaptive change management"
 description: "The authors assert that Systems Review participation builds SEA teams' capacity for shared purpose, decision-making, and adaptive change management"
 id: systems-review-builds-capacity-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Fewer substantial differences between student groups occurred for behavioral indicators than for academic indicators of postsecondary readiness and success
 description: Fewer substantial differences between student groups occurred for behavioral indicators than for academic indicators of postsecondary readiness and success
 id: fewer-behavioral-than-academic-indicator-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

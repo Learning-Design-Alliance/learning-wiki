@@ -3,7 +3,7 @@ type: claim
 title: The buy-in typology was derived from 39 interviewed principals, whose evaluation attitudes in the table are described as mostly positive
 description: The buy-in typology was derived from 39 interviewed principals, whose evaluation attitudes in the table are described as mostly positive
 id: eit-39-principals-mostly-positive-attitudes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

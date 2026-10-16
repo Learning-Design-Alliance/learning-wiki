@@ -3,7 +3,7 @@ type: claim
 title: Llama 4 Maverick shows the strongest human-LLM alignment, while Claude Sonnet 4 performs weakest with poor calibration
 description: Llama 4 Maverick shows the strongest human-LLM alignment, while Claude Sonnet 4 performs weakest with poor calibration
 id: llama-strongest-human-llm-alignment-claude-weakest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: In disagreement cases, blinded educators more frequently prefer CLARA developmental estimates over publisher recommendations
 description: In disagreement cases, blinded educators more frequently prefer CLARA developmental estimates over publisher recommendations
 id: educators-prefer-clara-over-publisher-labels
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

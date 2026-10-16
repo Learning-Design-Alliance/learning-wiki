@@ -3,7 +3,7 @@ type: claim
 title: SWPBIS does not significantly reduce out-of-school suspensions in this trial
 description: SWPBIS does not significantly reduce out-of-school suspensions in this trial
 id: swpbis-no-effect-suspensions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

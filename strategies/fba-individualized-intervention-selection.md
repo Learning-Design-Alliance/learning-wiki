@@ -3,7 +3,7 @@ type: strategy
 id: fba-individualized-intervention-selection
 title: "Select individualized FBA-based intervention components matched to each student's assessed behavior function"
 description: "Across the reviewed studies, \"Different FBA-based interventions were identified for each student\" rather than a fixed treatment package."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

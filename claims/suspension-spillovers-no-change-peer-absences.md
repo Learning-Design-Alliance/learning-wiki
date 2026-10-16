@@ -3,7 +3,7 @@ type: claim
 title: Peer exposure to suspensions does not change peer absences
 description: Peer exposure to suspensions does not change peer absences
 id: suspension-spillovers-no-change-peer-absences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: monitor-inclusion-and-collect-selpa-data-before-conversions
 title: Monitor preK and K–12 inclusion rates and collect systematic SELPA service and funding data before permitting more single-district SELPA conversions
 description: The report recommends that if large districts are allowed to leave multidistrict SELPAs, the state should monitor inclusion rates for students receiving special education services in preK and grades K–12, review IEP p...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ id: ngss-aligned-middle-school-and-high-school-science-benchmarks
 title: NGSS-aligned middle school and high school science benchmarks
 description: Two publicly released synthetic benchmark datasets created by Schroeder et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

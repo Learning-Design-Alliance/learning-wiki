@@ -3,7 +3,7 @@ type: claim
 title: "EduBehaviors achieves 0.673 macro-F1 and 0.688 Cohen's kappa on Teacher TalkMoves, generally improving over direct LLM prompting"
 description: "EduBehaviors achieves 0.673 macro-F1 and 0.688 Cohen's kappa on Teacher TalkMoves, generally improving over direct LLM prompting"
 id: edubehaviors-matches-direct-llm-prompting-talkmoves
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

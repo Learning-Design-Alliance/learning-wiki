@@ -3,7 +3,7 @@ type: claim
 title: "Students with IEPs related to disabilities other than learning disabilities graduated at a far lower rate (46.4%) than students with learning-disability IEPs (77.5%) or without IEPs (84.6%)"
 description: "Students with IEPs related to disabilities other than learning disabilities graduated at a far lower rate (46.4%) than students with learning-disability IEPs (77.5%) or without IEPs (84.6%)"
 id: cps-graduation-disability-gaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

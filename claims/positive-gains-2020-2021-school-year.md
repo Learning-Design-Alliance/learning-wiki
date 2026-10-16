@@ -3,7 +3,7 @@ type: claim
 title: The average student demonstrated positive math and reading gains during the 2020-2021 school year
 description: The average student demonstrated positive math and reading gains during the 2020-2021 school year
 id: positive-gains-2020-2021-school-year
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

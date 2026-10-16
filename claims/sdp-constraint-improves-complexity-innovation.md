@@ -3,7 +3,7 @@ type: claim
 title: Complexity and innovation of designed tasks improves under the SDP constraint (d = 1.50, Δ = +0.84)
 description: Complexity and innovation of designed tasks improves under the SDP constraint (d = 1.50, Δ = +0.84)
 id: sdp-constraint-improves-complexity-innovation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

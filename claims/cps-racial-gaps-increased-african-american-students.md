@@ -3,7 +3,7 @@ type: claim
 title: Racial achievement gaps in Chicago increased in all three eras, with African American students falling behind all other groups, especially in Era 3
 description: Racial achievement gaps in Chicago increased in all three eras, with African American students falling behind all other groups, especially in Era 3
 id: cps-racial-gaps-increased-african-american-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -82,3 +82,4 @@ Trend analysis of CPS math scores by racial/ethnic group across the three eras, 
 - [Large racial and socioeconomic achievement disparities persisted in an affluent high-performing district](ousd-persistent-race-class-disparities.md) — related
 - [Teacher-perpetuated racial or ethnic discrimination in math classrooms is associated with worse engagement, grades, and test scores for all students](teacher-discrimination-harms-whole-classroom-math-outcomes.md) — related
 - Among all students, Black, Latino, and low-SES students take Algebra I or higher in eighth grade and advanced math in high school at lower rates than White, Asian, and higher-SES peers — related
+- Only the White–Black gap at grade 4 narrowed; gains for minority students did not consistently close racial/ethnic or gender achievement gaps — related

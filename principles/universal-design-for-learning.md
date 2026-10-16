@@ -35,7 +35,7 @@ sources:
 # Universal Design For Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (12 for, 6 mixed) · 29 studies (11 review, 6 causal, 5 quant-synthesis, 3 theoretical, 2 qualitative, 2 design), `q1`–`q4` · 6 of 29 report an effect size · 10 claims rest on one study
+> **Evidence** · 19 claims (13 for, 6 mixed) · 30 studies (11 review, 7 causal, 5 quant-synthesis, 3 theoretical, 2 qualitative, 2 design), `q1`–`q4` · 6 of 30 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
@@ -131,6 +131,7 @@ Learners, tasks and outcomes differ across these claims (memory experiments, phy
 - [Teachers reacted unanimously positively to new audio supports on the ReadWorks platform and offered them to all students, not only struggling readers](../claims/teachers-positive-reactions-readworks-audio-supports.md) [+W] — attached 2026-10-09 from Tare et al. (2018), which proposed "Design features to the edges of learner variability to support all students".
 - [Teachers reported that audio supports promoted inclusivity by letting all students access the same content and discuss it together](../claims/audio-supports-inclusivity-shared-discussion.md) [+W] — attached 2026-10-09 from Tare et al. (2018), which proposed "Design features to the edges of learner variability to support all students".
 - [The package claims minimal technical English limits workplace training through comprehension, confidence and written-form difficulties](../claims/minimal-technical-english-limits-training.md) [+W]
+- [A 16-week universally designed online depth-of-vocabulary intervention improved standardized vocabulary knowledge relative to a control group in fifth graders](../claims/online-depth-vocabulary-intervention-improved-standardized-vocabulary.md) [+W] — attached 2026-10-15 from Proctor et al. (2011), which proposed "Design digital literacy interventions so bilingual learners can access all texts and activities in both of their languages".
 
 ## Objective and learner-valued goal
 

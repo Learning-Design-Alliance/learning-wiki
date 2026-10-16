@@ -3,7 +3,7 @@ type: claim
 title: The two education-specialized models lead neither education module, and the improvement from education-specific post-training is small relative to differences in general capability
 description: The two education-specialized models lead neither education module, and the improvement from education-specific post-training is small relative to differences in general capability
 id: education-specialized-models-lead-neither-education-module
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

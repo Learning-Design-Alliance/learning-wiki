@@ -3,7 +3,7 @@ type: strategy
 id: expanded-learning-time-tutoring-advanced-course-support
 title: Support struggling advanced-course students with expanded learning time and intensive tutoring
 description: "To ensure advanced courses have a safe, equitable, positive learning environment, the brief recommends \"Support for students who may need additional time to build skills for AP courses, such as expanded learning time..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

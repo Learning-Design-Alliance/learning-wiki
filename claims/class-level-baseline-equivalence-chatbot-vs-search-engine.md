@@ -3,7 +3,7 @@ type: claim
 title: Chatbot and search engine classes showed no significant baseline differences in science learning ability and knowledge before the intervention
 description: Chatbot and search engine classes showed no significant baseline differences in science learning ability and knowledge before the intervention
 id: class-level-baseline-equivalence-chatbot-vs-search-engine
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -45,3 +45,4 @@ Quasi-experimental baseline check comparing the two intact classes on previous-s
 ## Related Claims
 - Baseline pre-assessment scores showed no statistical differences between treatment and control groups in either the matched or baseline sample. — related
 - [Experimental and control groups did not differ significantly on pre-test NOS or SK scores](pretest-equivalence-noss-sks-groups.md) — related
+- [The evaluation used a three-class design contrasting a traditional-approach control class with two experimental classes using digital content and a chatbot-based method](three-class-chatbot-evaluation-design.md) — related

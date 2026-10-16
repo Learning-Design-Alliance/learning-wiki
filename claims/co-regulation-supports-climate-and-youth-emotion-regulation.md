@@ -3,7 +3,7 @@ type: claim
 title: Co-regulation strategies were reported to create a safe, positive classroom climate and to help youth manage emotions
 description: Co-regulation strategies were reported to create a safe, positive classroom climate and to help youth manage emotions
 id: co-regulation-supports-climate-and-youth-emotion-regulation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

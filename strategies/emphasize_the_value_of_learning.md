@@ -63,7 +63,7 @@ Emphasizing value works because motivation depends on learners both expecting su
 
 ## Examples
 - **Utility-value essays in science courses** — Hulleman & Harackiewicz (2009) had high school science students write briefly about how course topics related to their lives; students with low success expectations showed higher interest and better grades [+S]
-- **Standards-based grading (e.g., in K-12 math reform)** — replacing single-letter grades with mastery levels per skill, so feedback communicates what is learned rather than a rank
+- **[Standards-based grading](standards-based-grading.md) (e.g., in K-12 math reform)** — replacing single-letter grades with mastery levels per skill, so feedback communicates what is learned rather than a rank
 - **Portfolio assessment in writing programs** — learners select and reflect on drafts over a term, making growth the visible object of evaluation
 
 ## Key Sources

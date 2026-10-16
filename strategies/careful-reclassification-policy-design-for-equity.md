@@ -3,7 +3,7 @@ type: strategy
 id: careful-reclassification-policy-design-for-equity
 title: Consider policy design carefully to ensure equitable reclassification opportunities for EL students
 description: "The report's closing recommendation urges policymakers to weigh how reclassification criteria structures shape EL students' opportunities."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: The extent of evidence for Fast ForWord is small for alphabetics and reading fluency and medium to large for comprehension and general literacy achievement
 description: The extent of evidence for Fast ForWord is small for alphabetics and reading fluency and medium to large for comprehension and general literacy achievement
 id: fast-forword-extent-of-evidence-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

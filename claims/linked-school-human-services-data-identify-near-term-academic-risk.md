@@ -3,7 +3,7 @@ type: claim
 title: A partnership developed an approach for identifying at-risk students using school data linked with child welfare, justice, human services, and public benefits data.
 description: A partnership developed an approach for identifying at-risk students using school data linked with child welfare, justice, human services, and public benefits data.
 id: linked-school-human-services-data-identify-near-term-academic-risk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

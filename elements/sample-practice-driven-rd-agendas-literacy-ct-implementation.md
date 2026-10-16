@@ -3,7 +3,7 @@ type: element
 id: sample-practice-driven-rd-agendas-literacy-ct-implementation
 title: "Sample practice-driven R&D agendas for adolescent literacy, computational thinking, and implementation"
 description: "The article presents three illustrative R&D agendas built from district driving questions: an adolescent literacy agenda (covering diverse texts and writing identity), a computational thinking agenda (covering access..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

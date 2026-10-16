@@ -3,7 +3,7 @@ type: claim
 title: Schools where students and teachers reported frequent use of standards-aligned practices showed stronger assessment gains than schools with few reports of frequent use
 description: Schools where students and teachers reported frequent use of standards-aligned practices showed stronger assessment gains than schools with few reports of frequent use
 id: standards-aligned-practices-stronger-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

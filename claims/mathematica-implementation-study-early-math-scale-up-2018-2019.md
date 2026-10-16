@@ -3,7 +3,7 @@ type: claim
 title: Mathematica conducted an implementation study of the early math scale-up effort during 2018 and 2019
 description: Mathematica conducted an implementation study of the early math scale-up effort during 2018 and 2019
 id: mathematica-implementation-study-early-math-scale-up-2018-2019
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Adding regex-based rules to few-shot LLM labeling improves agreement with human annotation (0.818 to 0.852 overall)
 description: Adding regex-based rules to few-shot LLM labeling improves agreement with human annotation (0.818 to 0.852 overall)
 id: regex-rules-improve-fewshot-llm-labeling-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

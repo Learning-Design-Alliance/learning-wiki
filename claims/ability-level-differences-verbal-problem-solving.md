@@ -3,7 +3,7 @@ type: claim
 title: Algebra ability level differences appear on both criteria with no treatment-by-ability interaction
 description: Algebra ability level differences appear on both criteria with no treatment-by-ability interaction
 id: ability-level-differences-verbal-problem-solving
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

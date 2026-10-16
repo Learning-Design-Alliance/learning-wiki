@@ -2,7 +2,7 @@
 type: theory
 title: "Role relational specificity: trust in schooling operates through asymmetric role relations among teachers, principals, and parents"
 description: Because school-based relations are asymmetric rather than symmetric, the normative basis of trust takes on role relational specificity.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

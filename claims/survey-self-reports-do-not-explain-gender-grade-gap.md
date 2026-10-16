@@ -3,7 +3,7 @@ type: claim
 title: Student self-reports of effort, social well-being, and math instruction do not explain the gender grade difference
 description: Student self-reports of effort, social well-being, and math instruction do not explain the gender grade difference
 id: survey-self-reports-do-not-explain-gender-grade-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

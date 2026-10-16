@@ -3,7 +3,7 @@ type: claim
 title: "The state-developed Middle School Engage! Career Exploration and Readiness course was underutilized, accounting for just 0.4 percent of statewide enrollments"
 description: "The state-developed Middle School Engage!"
 id: nebraska-engage-career-exploration-course-underutilized
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

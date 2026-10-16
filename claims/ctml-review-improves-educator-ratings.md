@@ -3,7 +3,7 @@ type: claim
 title: CTML-guided educator review of AI video scripts yields statistically significant improvements across all 12 CTML principles and overall instructional validity
 description: CTML-guided educator review of AI video scripts yields statistically significant improvements across all 12 CTML principles and overall instructional validity
 id: ctml-review-improves-educator-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

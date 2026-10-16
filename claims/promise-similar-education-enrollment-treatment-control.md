@@ -3,7 +3,7 @@ type: claim
 title: PROMISE treatment and control group youth enrolled in education and training at similar rates five years after random assignment
 description: PROMISE treatment and control group youth enrolled in education and training at similar rates five years after random assignment
 id: promise-similar-education-enrollment-treatment-control
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

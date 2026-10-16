@@ -3,7 +3,7 @@ type: claim
 title: Suh et al. (2019) found a positive but non-significant effect on course passing rate (effect size 0.80) and a negative non-significant effect on final exam score
 description: Suh et al.
 id: suh-2019-mixed-achievement-findings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

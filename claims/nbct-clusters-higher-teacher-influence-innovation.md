@@ -3,7 +3,7 @@ type: claim
 title: Elementary schools with clusters of board-certified teachers and candidates showed higher teacher influence, innovation, and slightly higher collective responsibility
 description: Elementary schools with clusters of board-certified teachers and candidates showed higher teacher influence, innovation, and slightly higher collective responsibility
 id: nbct-clusters-higher-teacher-influence-innovation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

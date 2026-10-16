@@ -3,7 +3,7 @@ type: claim
 title: The propdec adaptive student feature is highly colinear with a student intercept, capturing student individual differences without student parameters
 description: The propdec adaptive student feature is highly colinear with a student intercept, capturing student individual differences without student parameters
 id: propdec-colinear-with-student-intercept
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -2,7 +2,7 @@
 type: theory
 title: "Zone of Proximal Development: tasks a child cannot yet do alone but can do with help"
 description: "The article defines the zone of proximal development as \"The range of task that a child cannot yet perform alone but can perform with help and guidance from others.\" It distinguishes two ability levels: actual develop..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

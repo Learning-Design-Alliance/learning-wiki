@@ -3,7 +3,7 @@ type: claim
 title: Moderate learner agency in game-based learning yields better outcomes than no agency or high agency
 description: Moderate learner agency in game-based learning yields better outcomes than no agency or high agency
 id: moderate-agency-better-learning-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

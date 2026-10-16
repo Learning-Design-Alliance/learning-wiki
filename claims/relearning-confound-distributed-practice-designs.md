@@ -3,7 +3,7 @@ type: claim
 title: Relearning-to-criterion designs confound distribution of practice with amount of second-session practice
 description: Relearning-to-criterion designs confound distribution of practice with amount of second-session practice
 id: relearning-confound-distributed-practice-designs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

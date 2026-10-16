@@ -2,7 +2,7 @@
 type: claim
 title: Multimodal, culturally grounded formative assessment supports engagement and agency
 id: multimodal-culturally-grounded-assessment-supports-engagement-and-agency
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29
@@ -55,3 +55,4 @@ This is a qualitative, design-based study conducted in informal community settin
 - [When AI/AN communities design their own place-, culture-, and language-based education programs, students' school engagement and learning flourish](culture-based-programs-flourish-engagement.md) — related
 - [AI agents designed for specific educational purposes can support joyful assessment by creating low-stakes opportunities for practice, feedback, reflection, personalization, and multimodal demonstration of learning](ai-agents-support-joyful-assessment.md) — related
 - [Interactive dialogue with the AI tool, available only in some sites, promoted deeper engagement and student agency during revision](interactive-genai-dialogue-promotes-engagement.md) — related
+- [Many current GenAI applications in STEM education conflate learning with performance and feedback, neglecting active, reflective, and embodied learning processes](genai-conflates-learning-with-performance-feedback.md) — a broader claim this one bears on

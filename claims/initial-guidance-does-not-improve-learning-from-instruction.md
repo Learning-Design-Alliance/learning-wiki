@@ -3,7 +3,7 @@ type: claim
 title: Guidance during initial problem solving does not translate into better learning from subsequent instruction
 description: Guidance during initial problem solving does not translate into better learning from subsequent instruction
 id: initial-guidance-does-not-improve-learning-from-instruction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
@@ -69,3 +69,6 @@ An independent replication with three conditions (unguided problem solving, guid
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Providing both a simple and a complex example facilitates transfer better than a single example or an example plus procedures](multiple-examples-per-problem-type.md) — related
 - [Productive failure students significantly outperformed lecture-practice and facilitated complex problem solving students on well-structured and higher-order application post-test problems](pf-outperformed-lp-fcps-post-test-problems.md) — related
+- [Failure-driven and success-driven scaffolding before instruction produce similar posttest conceptual understanding](failure-and-success-scaffolding-similar-posttest-conceptual-understanding.md) — related
+- [Students exposed to failure-driven scaffolding demonstrated higher quality of constructive reasoning](failure-driven-scaffolding-higher-quality-constructive-reasoning.md) — related
+- [Unscaffolded problem-solving before instruction lets students entertain exploratory hypotheses at the expense of experiencing initial failures](unscaffolded-problem-solving-exploratory-hypotheses-versus-failures.md) — related

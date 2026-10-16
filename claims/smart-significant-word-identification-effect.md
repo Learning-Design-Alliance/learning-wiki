@@ -3,7 +3,7 @@ type: claim
 title: "SMART® tutoring produced a statistically significant positive effect on first-graders' word identification after two years of intervention"
 description: "SMART® tutoring produced a statistically significant positive effect on first-graders' word identification after two years of intervention"
 id: smart-significant-word-identification-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

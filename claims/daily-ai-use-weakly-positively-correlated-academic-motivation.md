@@ -3,7 +3,7 @@ type: claim
 title: Daily AI use duration shows a weak positive correlation with academic motivation among university students
 description: Daily AI use duration shows a weak positive correlation with academic motivation among university students
 id: daily-ai-use-weakly-positively-correlated-academic-motivation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

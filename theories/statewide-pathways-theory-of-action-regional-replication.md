@@ -2,7 +2,7 @@
 type: theory
 title: "Theory of action: regional replication scales statewide career pathways implementation"
 description: "The article's organizing framework is a theory of action linking state, region, and outcomes for scaling career pathways."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

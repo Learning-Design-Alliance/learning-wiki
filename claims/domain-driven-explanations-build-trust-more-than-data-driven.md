@@ -3,7 +3,7 @@ type: claim
 title: Teachers report domain-driven explanations are more influential for building trust than data-driven explanations
 description: Teachers report domain-driven explanations are more influential for building trust than data-driven explanations
 id: domain-driven-explanations-build-trust-more-than-data-driven
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

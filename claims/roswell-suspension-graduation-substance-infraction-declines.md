@@ -3,7 +3,7 @@ type: claim
 title: "Roswell's University High cut suspensions from 274 to 61 and raised graduation nearly 20 percentage points; substance abuse infractions dropped 80% at both Roswell community schools"
 description: "Roswell's University High cut suspensions from 274 to 61 and raised graduation nearly 20 percentage points; substance abuse infractions dropped 80% at both Roswell community schools"
 id: roswell-suspension-graduation-substance-infraction-declines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

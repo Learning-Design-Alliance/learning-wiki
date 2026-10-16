@@ -3,7 +3,7 @@ type: claim
 title: Schools commonly require documented teacher performance goals, created collaboratively with a principal or set by the principal
 description: Schools commonly require documented teacher performance goals, created collaboratively with a principal or set by the principal
 id: documented-teacher-goals-collaborative-or-principal-set
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

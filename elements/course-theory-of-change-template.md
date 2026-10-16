@@ -3,7 +3,7 @@ type: element
 id: course-theory-of-change-template
 title: Course Theory of Change template for RPP course redesign teams
 description: A planning template provided by Digital Promise researchers that project teams completed after initial data-based reflections.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

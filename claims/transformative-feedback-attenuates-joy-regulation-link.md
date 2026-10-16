@@ -3,7 +3,7 @@ type: claim
 title: Transformative feedback attenuated the positive association between joy and regulatory behavior, and adaptive feedback moderation was otherwise limited, not supporting H2
 description: Transformative feedback attenuated the positive association between joy and regulatory behavior, and adaptive feedback moderation was otherwise limited, not supporting H2
 id: transformative-feedback-attenuates-joy-regulation-link
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

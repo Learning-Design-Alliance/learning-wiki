@@ -3,7 +3,7 @@ type: claim
 title: Lexia Early Reading shows no significant advantage over Earobics on alphabetics, with several negative effects substantively important
 description: Lexia Early Reading shows no significant advantage over Earobics on alphabetics, with several negative effects substantively important
 id: lexia-versus-earobics-alphabetics-comparison
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

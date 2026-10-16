@@ -3,7 +3,7 @@ type: claim
 title: "The framework shows high scoring consistency, with 79% agreement and 81% inter-rater reliability on physics questions"
 description: "The framework shows high scoring consistency, with 79% agreement and 81% inter-rater reliability on physics questions"
 id: framework-scoring-high-consistency-physics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

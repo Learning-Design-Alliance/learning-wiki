@@ -3,7 +3,7 @@ type: claim
 title: Turkish EFL learners in this sample were generally extrinsically motivated, indicating moderate self-determination
 description: Turkish EFL learners in this sample were generally extrinsically motivated, indicating moderate self-determination
 id: turkish-efl-learners-generally-extrinsically-motivated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

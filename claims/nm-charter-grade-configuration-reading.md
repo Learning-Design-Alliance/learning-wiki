@@ -3,7 +3,7 @@ type: claim
 title: New Mexico charter elementary and middle school students show reading surpluses over TPS virtual twins, while high and multi-level charter students grow similarly
 description: New Mexico charter elementary and middle school students show reading surpluses over TPS virtual twins, while high and multi-level charter students grow similarly
 id: nm-charter-grade-configuration-reading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Perceived Competence, Intrinsic Motivation, and Psychological Safety each significantly positively predict Deep Revision Engagement
 description: Perceived Competence, Intrinsic Motivation, and Psychological Safety each significantly positively predict Deep Revision Engagement
 id: psychological-mediators-predict-deep-revision
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

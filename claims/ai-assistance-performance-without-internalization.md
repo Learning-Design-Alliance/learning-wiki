@@ -3,7 +3,7 @@ type: claim
 title: The article reports observational patterns that AI assistance can improve short-term performance while reducing cognitive engagement and independent capability
 description: The article reports observational patterns that AI assistance can improve short-term performance while reducing cognitive engagement and independent capability
 id: ai-assistance-performance-without-internalization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

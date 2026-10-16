@@ -3,7 +3,7 @@ type: claim
 title: "On Newton's Third Law questions specifically, Just-in-Time Teaching students gained 50.8%±4.1% while traditional lecture students gained only 6.6%±5.2%"
 description: "On Newton's Third Law questions specifically, Just-in-Time Teaching students gained 50.8%±4.1% while traditional lecture students gained only 6.6%±5.2%"
 id: jitt-newtons-third-law-question-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

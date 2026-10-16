@@ -3,7 +3,7 @@ type: claim
 title: Classification accuracy met or exceeded benchmarks for 19 of 22 LO-assessment combinations, with three EMCS energy LOs below the acceptable range
 description: Classification accuracy met or exceeded benchmarks for 19 of 22 LO-assessment combinations, with three EMCS energy LOs below the acceptable range
 id: classification-accuracy-22-lo-combinations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

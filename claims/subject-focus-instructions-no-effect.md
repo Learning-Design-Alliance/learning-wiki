@@ -3,7 +3,7 @@ type: claim
 title: Telling subjects to focus on a skill had no significant effect on conversation informativeness in either protocol
 description: Telling subjects to focus on a skill had no significant effect on conversation informativeness in either protocol
 id: subject-focus-instructions-no-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

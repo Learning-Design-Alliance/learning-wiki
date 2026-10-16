@@ -3,7 +3,7 @@ type: design
 id: residencyrl-scenario-generation-pipeline
 title: Four-stage scenario generation pipeline with demographic sampling, quality verification, and adversarial extension packs
 description: "The scenario generation pipeline synthesizes and curates diverse clinical scenarios through four stages: demographic and behavioral attribute sampling from US population distributions including Big Five personality tr..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

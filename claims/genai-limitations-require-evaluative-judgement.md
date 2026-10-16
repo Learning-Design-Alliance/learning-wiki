@@ -3,7 +3,7 @@ type: claim
 title: GenAI feedback limitations require students to exercise evaluative judgement
 description: GenAI feedback limitations require students to exercise evaluative judgement
 id: genai-limitations-require-evaluative-judgement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
@@ -52,3 +52,5 @@ Literature synthesis in the processing-feedback section. The paper cites Essien 
 - [Both ChatGPT feedback and peer feedback prompted doctoral students to actively exercise hard evaluative judgement in statistical analysis, through different challenges](both-feedback-modalities-prompt-hard-evaluative-judgement.md) — a narrower finding that bears on this claim
 - [High-level feedback on reasoning and synthesis should remain a human responsibility for the foreseeable future](high-level-feedback-remains-human-responsibility.md) — related
 - [Large language models can produce fluent but factually inaccurate or fabricated outputs (AI hallucination), posing risks for uncritical users in science education](llm-hallucination-risk-science-education.md)
+- [ChatGPT-generated text shows inaccuracy, weak logical flow, lack of critical elaboration and non-originality in an author's first-hand test](chatgpt-output-inaccuracy-nonoriginality.md) — a narrower finding that bears on this claim
+- [Generative AI platforms cannot yet independently lead meaningful innovation; at best they augment human intelligence for innovation](generative-ai-augments-not-leads-innovation.md) — related

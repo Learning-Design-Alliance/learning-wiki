@@ -3,7 +3,7 @@ type: claim
 title: AI tools are reshaping traditional experimental approaches and creating novel opportunities for enhanced learning experiences in chemistry
 description: AI tools are reshaping traditional experimental approaches and creating novel opportunities for enhanced learning experiences in chemistry
 id: ai-reshaping-experimental-approaches-learning-opportunities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

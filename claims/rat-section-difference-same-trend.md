@@ -3,7 +3,7 @@ type: claim
 title: Both course sections show the same team-over-individual RAT trend despite a significant difference in scores between the sections
 description: Both course sections show the same team-over-individual RAT trend despite a significant difference in scores between the sections
 id: rat-section-difference-same-trend
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

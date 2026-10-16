@@ -3,7 +3,7 @@ type: claim
 title: Asian students generally pull ahead of White students at a faster rate during summers than during school periods
 description: Asian students generally pull ahead of White students at a faster rate during summers than during school periods
 id: asian-white-summer-growth-advantage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

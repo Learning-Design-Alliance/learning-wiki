@@ -2,7 +2,7 @@
 type: theory
 title: Five-foundations framework for learning environments
 description: "The paper classifies learning environments by five underlying foundations: psychological, pedagogical, technological, cultural, and pragmatic."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -43,7 +43,7 @@ The paper classifies learning environments by five underlying foundations: psych
 ## Related Theories
 
 - [Assumptions-and-functions framework of student-centered learning environments](student-centered-environments-assumptions-framework.md)
-- [TPACK framework as a foundation for teacher technology-integration knowledge](tpack-framework-seven-elements.md)
+- [TPACK framework as a foundation for teacher technology-integration knowledge](tpack-framework-teacher-technology-integration.md)
 
 ## Examples
 

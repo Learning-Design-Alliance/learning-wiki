@@ -3,7 +3,7 @@ type: claim
 title: "Lack of childcare support, language barriers, unrecognized international degrees, and stigma shaped providers' educational pathways"
 description: "Lack of childcare support, language barriers, unrecognized international degrees, and stigma shaped providers' educational pathways"
 id: identity-barriers-learning-while-parenting-language-credentials
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

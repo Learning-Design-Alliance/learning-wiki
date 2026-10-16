@@ -2,7 +2,7 @@
 type: theory
 title: OECD AI System Classification Framework as an analytical lens for comparing AI regulations
 description: The OECD framework is a multifaceted classification approach for characterizing AI systems across technical, ethical, and societal dimensions.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

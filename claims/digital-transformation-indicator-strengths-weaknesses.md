@@ -3,7 +3,7 @@ type: claim
 title: Teacher communication-technology competence scores highest while virtualizing-process technology use scores lowest among digital transformation indicators
 description: Teacher communication-technology competence scores highest while virtualizing-process technology use scores lowest among digital transformation indicators
 id: digital-transformation-indicator-strengths-weaknesses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

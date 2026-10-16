@@ -3,7 +3,7 @@ type: claim
 title: Personalized responses remain semantically grounded in the shared knowledge base while varying in surface-level expression and structure
 description: Personalized responses remain semantically grounded in the shared knowledge base while varying in surface-level expression and structure
 id: semantic-grounding-with-surface-variation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

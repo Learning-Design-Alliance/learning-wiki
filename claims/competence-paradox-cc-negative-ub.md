@@ -3,7 +3,7 @@ type: claim
 title: "The competence paradox: creative competence positively supports intention but shows a significant negative direct effect on actual use behavior"
 description: "The competence paradox: creative competence positively supports intention but shows a significant negative direct effect on actual use behavior"
 id: competence-paradox-cc-negative-ub
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

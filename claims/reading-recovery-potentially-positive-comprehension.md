@@ -3,7 +3,7 @@ type: claim
 title: Reading Recovery has potentially positive effects on comprehension, with mixed findings across two trials
 description: Reading Recovery has potentially positive effects on comprehension, with mixed findings across two trials
 id: reading-recovery-potentially-positive-comprehension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

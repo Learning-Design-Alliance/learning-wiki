@@ -3,7 +3,7 @@ type: claim
 title: "Exploratory analyses: students ending the year in larger tutoring groups showed the largest math score increases but reported weaker tutor relationships than peers in smaller groups"
 description: "Exploratory analyses: students ending the year in larger tutoring groups showed the largest math score increases but reported weaker tutor relationships than peers in smaller groups"
 id: blueprint-larger-groups-scores-up-relationships-weaker
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

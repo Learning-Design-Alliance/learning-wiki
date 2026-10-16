@@ -3,7 +3,7 @@ type: claim
 title: In an evaluative study, medical learners interpreted MedEasy as a connected consultation environment and used its components together to judge case coherence
 description: In an evaluative study, medical learners interpreted MedEasy as a connected consultation environment and used its components together to judge case coherence
 id: learners-interpret-medeasy-connected-environment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Students placed into Level 3 and Level 4 intensive pathways had the highest first-attempt passing rates in credit-bearing ELA courses, while Level 2 intensive pathway students had the lowest
 description: Students placed into Level 3 and Level 4 intensive pathways had the highest first-attempt passing rates in credit-bearing ELA courses, while Level 2 intensive pathway students had the lowest
 id: cmi-intensive-pathways-level3-4-highest-ela-passing-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Removing the cognitive load module causes the largest ablation performance drop, while state fusion has a smaller effect
 description: Removing the cognitive load module causes the largest ablation performance drop, while state fusion has a smaller effect
 id: cognitive-load-module-largest-ablation-drop
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -55,3 +55,4 @@ Ablation study on four datasets (Table 3) comparing full LT-MKT with w/o CL, w/o
 - [Ablation study shows metadata-enriched embeddings produce the largest accuracy drop, while attention masking, KV caching and dynamic batching primarily support inference efficiency](ablation-metadata-embeddings-largest-accuracy-drop.md) — related
 - [In the EduAgent framework, removing past cognitive states from memory significantly reduced simulation performance](eduagent-ablation-contextual-memory-critical.md) — related
 - [Ablations show the trustworthiness module contributes most to performance, and the explanation generator cuts human review time by 41%](ablation-trust-module-largest-contribution.md) — related
+- Removing unsupervised pre-training hurts performance across all tasks, causing a 14.8% decrease relative to the full model — related

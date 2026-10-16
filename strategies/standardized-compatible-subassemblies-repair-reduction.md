@@ -3,7 +3,7 @@ type: strategy
 id: standardized-compatible-subassemblies-repair-reduction
 title: Purchase standardized compatible subassemblies in large quantities to cut equipment repair cost and time
 description: "The study recommends designing a new combination phonograph-cassette machine from \"standardized and compatible subassemblies\" usable in both a Revised Talking Book Machine and a Revised Cassette Book Machine, with new..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

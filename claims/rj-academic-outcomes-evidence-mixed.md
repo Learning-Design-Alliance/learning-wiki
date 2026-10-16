@@ -3,7 +3,7 @@ type: claim
 title: "Evidence on RJ's impact on academic outcomes is limited and mixed, with graduation-rate gains in one study and no GPA change in another"
 description: "Evidence on RJ's impact on academic outcomes is limited and mixed, with graduation-rate gains in one study and no GPA change in another"
 id: rj-academic-outcomes-evidence-mixed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

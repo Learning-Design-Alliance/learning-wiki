@@ -3,7 +3,7 @@ type: claim
 title: Work with peers in anti-bullying programs is associated with an increase in victimization
 description: Work with peers in anti-bullying programs is associated with an increase in victimization
 id: peer-work-associated-with-increased-victimization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

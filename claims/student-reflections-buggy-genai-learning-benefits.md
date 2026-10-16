@@ -3,7 +3,7 @@ type: claim
 title: Students report code understanding, debugging, and AI-limitation awareness as primary learning benefits of buggy GenAI programming tasks
 description: Students report code understanding, debugging, and AI-limitation awareness as primary learning benefits of buggy GenAI programming tasks
 id: student-reflections-buggy-genai-learning-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

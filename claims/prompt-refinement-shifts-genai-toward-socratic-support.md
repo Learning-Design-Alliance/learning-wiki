@@ -3,7 +3,7 @@ type: claim
 title: Iterative prompt refinement shifted a generative-AI tutor from tutorial-style explanation delivery toward dialogic Socratic support for K-12 beginners
 description: Iterative prompt refinement shifted a generative-AI tutor from tutorial-style explanation delivery toward dialogic Socratic support for K-12 beginners
 id: prompt-refinement-shifts-genai-toward-socratic-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

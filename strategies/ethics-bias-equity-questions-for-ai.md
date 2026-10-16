@@ -3,7 +3,7 @@ type: strategy
 id: ethics-bias-equity-questions-for-ai
 title: Ask ethics, bias, and equity questions before adopting an AI system
 description: "The article recommends that educators interrogate AI tools before use by asking \"Who developed this tool?\" and \"What data was used to train it?\" and how that data and the algorithm are biased."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "The relationship between scaffolding level and students' subsequent provide-context turns is not monotonic"
 description: "The relationship between scaffolding level and students' subsequent provide-context turns is not monotonic"
 id: provide-context-rate-nonmonotonic
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

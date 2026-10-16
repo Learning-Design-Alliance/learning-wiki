@@ -3,7 +3,7 @@ type: claim
 title: Item parceling at the testlet level substantially improves model fit, allowing partial (Rasch, 2PL) or full (bifactor) recovery of CAT constructs
 description: Item parceling at the testlet level substantially improves model fit, allowing partial (Rasch, 2PL) or full (bifactor) recovery of CAT constructs
 id: parceling-testlet-level-recovers-cat-construct
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

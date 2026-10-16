@@ -3,7 +3,7 @@ type: claim
 title: Spoken–written presentations do not outperform written-only presentations but do outperform spoken-only presentations
 description: Spoken–written presentations do not outperform written-only presentations but do outperform spoken-only presentations
 id: spoken-written-beats-spoken-only-not-written-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

@@ -3,7 +3,7 @@ type: claim
 title: "EFL instructors were unaware of most OCF strategy types and did not consider students' cognition when deciding on corrective feedback"
 description: "EFL instructors were unaware of most OCF strategy types and did not consider students' cognition when deciding on corrective feedback"
 id: teachers-unaware-ocf-strategies-cognition-absent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

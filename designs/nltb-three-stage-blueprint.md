@@ -3,7 +3,7 @@ type: design
 id: nltb-three-stage-blueprint
 title: "Next Level Teaching Blueprint (NLTB): three-stage constraint-first design for Strategic Dialogue"
 description: "A replicable instructional design system with three sequenced stages and explicit interaction protocols, described by the article as having \"a theoretical logic linking each element to Path 3 engagement.\" Stage 1 has..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12
@@ -47,4 +47,4 @@ A replicable instructional design system with three sequenced stages and explici
 -
 
 ## Key Sources
-- Zahra, F. T. (2025). Three Pathways of Student-AI Interaction: Constraint-First Design for Higher-Order Thinking. Manuscript under blind review; framework first presented at EAAI-25, Philadelphia, PA.
+- Zahra, F. T. (2025). Three Pathways of Student-AI Interaction: Constraint-First Design for Higher-Order Thinking. Manuscript under blind review; framework first presented at EAAI-25, Philadelphia, PA. [doi:10.48550/arxiv.2610.00338](https://doi.org/10.48550/arxiv.2610.00338)

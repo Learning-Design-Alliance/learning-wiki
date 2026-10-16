@@ -3,7 +3,7 @@ type: claim
 title: Linked learning communities produced no statistically significant or substantively important effect on degree attainment
 description: Linked learning communities produced no statistically significant or substantively important effect on degree attainment
 id: linked-learning-communities-degree-attainment-no-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

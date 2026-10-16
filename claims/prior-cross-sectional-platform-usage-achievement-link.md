@@ -3,7 +3,7 @@ type: claim
 title: Prior cross-sectional between-group research on the platform found a positive usage–test-score relationship but could not rule out unobserved confounding
 description: Prior cross-sectional between-group research on the platform found a positive usage–test-score relationship but could not rule out unobserved confounding
 id: prior-cross-sectional-platform-usage-achievement-link
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

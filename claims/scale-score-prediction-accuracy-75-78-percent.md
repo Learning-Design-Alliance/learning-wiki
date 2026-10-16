@@ -3,7 +3,7 @@ type: claim
 title: When scale scores are used, prediction accuracy of grade 8 algebra I proficiency does not vary substantially across grade 6 CST, grade 7 CST, and MDTP assessments (75–78 percent)
 description: When scale scores are used, prediction accuracy of grade 8 algebra I proficiency does not vary substantially across grade 6 CST, grade 7 CST, and MDTP assessments (75–78 percent)
 id: scale-score-prediction-accuracy-75-78-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

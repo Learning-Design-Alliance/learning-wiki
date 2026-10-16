@@ -3,15 +3,15 @@ type: claim
 title: L2 proficiency positively predicts L2 incidental vocabulary acquisition through reading
 description: L2 proficiency positively predicts L2 incidental vocabulary acquisition through reading
 id: l2-proficiency-predicts-incidental-vocabulary-acquisition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
 sources:
   - id: zhao-2016
-    resource: "http://nflrc.hawaii.edu/rfl"
-    title: "Zhao, A., Guo, Y., Biales, C., & Olszewski, A. (2016). Exploring learner factors in second language (L2) incidental vocabulary acquisition through reading. Reading in a Foreign Language, 28(2). http://nflrc.hawaii.edu/rfl"
+    resource: "https://doi.org/10.64152/10125/66903"
+    title: "Zhao, A., Guo, Y., Biales, C., & Olszewski, A. (2016). Exploring learner factors in second language (L2) incidental vocabulary acquisition through reading. Reading in a Foreign Language, 28(2). http://nflrc.hawaii.edu/rfl. [doi:10.64152/10125/66903](https://doi.org/10.64152/10125/66903)"
     author: "Zhao, A., Guo, Y., Biales, C., & Olszewski, A."
     q: 2
     i: 3
@@ -42,7 +42,7 @@ sources:
 
 ### Zhao 2016
 
-Zhao, A., Guo, Y., Biales, C., & Olszewski, A. (2016). Exploring learner factors in second language (L2) incidental vocabulary acquisition through reading. Reading in a Foreign Language, 28(2). http://nflrc.hawaii.edu/rfl
+Zhao, A., Guo, Y., Biales, C., & Olszewski, A. (2016). Exploring learner factors in second language (L2) incidental vocabulary acquisition through reading. Reading in a Foreign Language, 28(2). http://nflrc.hawaii.edu/rfl. [doi:10.64152/10125/66903](https://doi.org/10.64152/10125/66903)
 
 `q2 · i3` · `associational · r2`
 
@@ -74,3 +74,4 @@ Webb et al. (2023) qualify this claim at the level of studies: across second-lan
 - [Mastery of incidental vocabulary learning strategies positively predicts L2 incidental vocabulary acquisition through reading](strategy-mastery-predicts-incidental-vocabulary-acquisition.md) — related
 - Teacher ratings predicted reading achievement better than common language proficiency tests (41% vs 0-4% additional variance) — related
 - Learners' vocabulary size is significantly and positively related to both L2 video comprehension and incidental vocabulary learning — related
+- [Meaning-focused exposure to spoken L2 input yields large vocabulary gains (g = 1.05) in incidental word learning](spoken-input-incidental-l2-word-learning-large-gains.md) — related

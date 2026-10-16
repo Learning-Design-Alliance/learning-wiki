@@ -3,7 +3,7 @@ type: strategy
 id: accelerated-reader-implementation-strategy
 title: Implement Accelerated Reader as a daily reading practice block with level-matched book selection and quiz-based teacher monitoring
 description: "The program's recommended implementation involves \"a dedicated 30- to 60-minute block of time for reading practice.\" Students first take a norm-referenced standardized measure to determine their independent reading le..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

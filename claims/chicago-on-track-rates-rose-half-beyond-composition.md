@@ -3,7 +3,7 @@ type: claim
 title: On-track rates after ninth grade rose from 42.2 to 50.6 percent, with slightly less than half the adjusted improvement attributable to better-prepared entering students
 description: On-track rates after ninth grade rose from 42.2 to 50.6 percent, with slightly less than half the adjusted improvement attributable to better-prepared entering students
 id: chicago-on-track-rates-rose-half-beyond-composition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: School-based mental health supports benefit students, but staffing ratios and service availability fall far short of recommendations
 description: School-based mental health supports benefit students, but staffing ratios and service availability fall far short of recommendations
 id: school-mental-health-supports-benefits-and-shortages
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

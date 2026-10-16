@@ -3,7 +3,7 @@ type: strategy
 id: reading-corps-data-driven-decision-practices
 title: Data-driven decision-making practices in tutoring programs
 description: "The Coaching Specialist \"supports all data-driven decision-making practices (e.g., eligibility; graph interpretation; exit decisions)\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

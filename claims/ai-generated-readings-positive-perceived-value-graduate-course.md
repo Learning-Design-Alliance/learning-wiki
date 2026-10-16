@@ -3,7 +3,7 @@ type: claim
 title: "Graduate students rated AI-generated weekly readings as effective preparation, with 75% agreeing they learned more than in a comparable course without AI assistance"
 description: "Graduate students rated AI-generated weekly readings as effective preparation, with 75% agreeing they learned more than in a comparable course without AI assistance"
 id: ai-generated-readings-positive-perceived-value-graduate-course
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

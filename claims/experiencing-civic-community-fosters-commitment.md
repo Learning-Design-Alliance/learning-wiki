@@ -3,7 +3,7 @@ type: claim
 title: Students who witnessed concern for community and current events at home, in the neighborhood or at school were more likely to be committed to civic participation
 description: "Students who witnessed concern for community and current events at home, in the neighborhood or at school were more likely to be committed to civic participation"
 id: experiencing-civic-community-fosters-commitment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

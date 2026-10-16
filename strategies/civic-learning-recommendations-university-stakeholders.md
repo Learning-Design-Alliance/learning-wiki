@@ -3,7 +3,7 @@ type: strategy
 id: civic-learning-recommendations-university-stakeholders
 title: Recommendations for university leaders, professors, staff, and students to foster civic learning across the three levels
 description: The article directs recommendations at four stakeholder groups.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

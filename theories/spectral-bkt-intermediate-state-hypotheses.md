@@ -2,7 +2,7 @@
 type: theory
 title: "Two hypotheses for the meaning of Spectral BKT's intermediate states: a stages-of-mastery account and a mastery-by-metacognition interaction account"
 description: "The authors state that \"The interpretation of a new conceptualization of the process of learning remains an open question\" and offer two hypotheses for the two unlabeled middle states."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Trust in AI partially mediates the associations of both perceived AI empowerment and perceived AI threat with GenAI dependence
 description: Trust in AI partially mediates the associations of both perceived AI empowerment and perceived AI threat with GenAI dependence
 id: trust-in-ai-partially-mediates-appraisals-genai-dependence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: No assessed children reached the good or excellent levels for cognitive flexibility
 description: No assessed children reached the good or excellent levels for cognitive flexibility
 id: cognitive-flexibility-no-good-excellent-levels
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

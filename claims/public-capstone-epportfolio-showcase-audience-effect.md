@@ -3,7 +3,7 @@ type: claim
 title: Public capstone ePortfolio showcases gave students an authentic audience and renewed energy and focus for integrative work
 description: Public capstone ePortfolio showcases gave students an authentic audience and renewed energy and focus for integrative work
 id: public-capstone-epportfolio-showcase-audience-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

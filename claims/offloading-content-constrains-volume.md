@@ -3,7 +3,7 @@ type: claim
 title: Some content-based offloading profiles differed in prompting volume even though volume was not a clustering variable, suggesting what is offloaded constrains how much is offloaded
 description: Some content-based offloading profiles differed in prompting volume even though volume was not a clustering variable, suggesting what is offloaded constrains how much is offloaded
 id: offloading-content-constrains-volume
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

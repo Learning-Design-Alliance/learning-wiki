@@ -3,7 +3,7 @@ type: claim
 title: Structural and fiscal conditions—including grade-3 class-size incentive cliffs and declining enrollment—jeopardize the bilingual teacher pipeline and program sustainability
 description: Structural and fiscal conditions—including grade-3 class-size incentive cliffs and declining enrollment—jeopardize the bilingual teacher pipeline and program sustainability
 id: structural-fiscal-risks-bilingual-pipeline-sustainability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: PROMISE youth experienced worse education and employment outcomes than ACS youth with and without disabilities
 description: PROMISE youth experienced worse education and employment outcomes than ACS youth with and without disabilities
 id: promise-youth-worse-outcomes-than-acs-peers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

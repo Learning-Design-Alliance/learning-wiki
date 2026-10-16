@@ -3,7 +3,7 @@ type: claim
 title: Between- or within-class homogeneous ability grouping has a small negative effect on low-ability primary students but no effect on other students
 description: Between- or within-class homogeneous ability grouping has a small negative effect on low-ability primary students but no effect on other students
 id: homogeneous-ability-grouping-negative-low-ability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

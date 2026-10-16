@@ -3,7 +3,7 @@ type: strategy
 id: schoolwide-cross-content-literacy-instruction
 title: Teach literacy skills in every classroom across all content areas with common rubrics
 description: "A schoolwide approach in which every teacher, not only English or mathematics teachers, is responsible for teaching and reinforcing defined literacy skills: reading, writing, speaking, and reasoning."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

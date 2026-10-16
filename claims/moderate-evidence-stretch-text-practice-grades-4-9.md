@@ -3,7 +3,7 @@ type: claim
 title: Practice making sense of stretch text has moderate evidence, based on 15 studies
 description: Practice making sense of stretch text has moderate evidence, based on 15 studies
 id: moderate-evidence-stretch-text-practice-grades-4-9
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

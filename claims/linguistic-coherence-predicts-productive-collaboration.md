@@ -3,7 +3,7 @@ type: claim
 title: Linguistic coherence predicts productive collaboration, strengthened by joint visual attention data
 description: Linguistic coherence predicts productive collaboration, strengthened by joint visual attention data
 id: linguistic-coherence-predicts-productive-collaboration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

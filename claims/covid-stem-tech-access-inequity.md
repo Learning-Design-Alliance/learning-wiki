@@ -4,7 +4,7 @@ title: Technology access problems during the COVID shift were more prevalent amo
 description: Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households
 id: covid-stem-tech-access-inequity
 aliases: [remote-covid-tech-access-inequitable-by-race-income]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

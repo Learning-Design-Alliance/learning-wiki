@@ -3,7 +3,7 @@ type: element
 id: linked-learning-communities-model-element
 title: Linked learning communities model for developmental postsecondary students
 description: "Linked learning communities are postsecondary programs \"defined by having social and curricular linkages\" that give undergraduates intentional integration of the themes and concepts they are learning."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

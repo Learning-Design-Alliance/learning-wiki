@@ -3,7 +3,7 @@ type: claim
 title: The identifiability problem of the BKT HMM arises because combinations of P(G) and P(L0) with the same product A give identical functional forms
 description: The identifiability problem of the BKT HMM arises because combinations of P(G) and P(L0) with the same product A give identical functional forms
 id: bkt-identifiability-explained-by-parameter-a
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

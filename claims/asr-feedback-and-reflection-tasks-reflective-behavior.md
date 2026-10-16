@@ -3,7 +3,7 @@ type: claim
 title: In ASR-assisted college English speaking instruction, corrective feedback and reflection tasks each significantly predict reflective behavior
 description: In ASR-assisted college English speaking instruction, corrective feedback and reflection tasks each significantly predict reflective behavior
 id: asr-feedback-and-reflection-tasks-reflective-behavior
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

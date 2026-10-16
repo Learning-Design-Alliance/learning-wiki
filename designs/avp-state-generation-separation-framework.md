@@ -3,7 +3,7 @@ type: design
 id: avp-state-generation-separation-framework
 title: "Adaptive Virtual Patient framework: separating behavioral state transitions from language generation"
 description: "The AVP framework inserts an explicit behavioral-state module between the trainee's turn and the virtual patient's reply: LLM evaluators score empathy and exploration each turn, a dynamics module accumulates the score..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

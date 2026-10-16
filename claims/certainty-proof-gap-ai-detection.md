@@ -3,7 +3,7 @@ type: claim
 title: "Educators report a certainty–proof gap: high confidence that student work is AI-generated without ability to prove it"
 description: "Educators report a certainty–proof gap: high confidence that student work is AI-generated without ability to prove it"
 id: certainty-proof-gap-ai-detection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

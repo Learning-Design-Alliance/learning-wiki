@@ -3,7 +3,7 @@ type: claim
 title: Among the CPS class of 2009, 76 percent enrolled in college within six years, and delayed entry was concentrated among two-year starters rather than four-year starters
 description: Among the CPS class of 2009, 76 percent enrolled in college within six years, and delayed entry was concentrated among two-year starters rather than four-year starters
 id: delayed-enrollment-concentrated-two-year-starters-2009
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

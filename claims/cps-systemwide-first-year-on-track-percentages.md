@@ -3,7 +3,7 @@ type: claim
 title: Systemwide CPS first-year on-track percentages ranged from 44.8 to 50.8 across the 1997–2001 cohorts
 description: Systemwide CPS first-year on-track percentages ranged from 44.8 to 50.8 across the 1997–2001 cohorts
 id: cps-systemwide-first-year-on-track-percentages
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

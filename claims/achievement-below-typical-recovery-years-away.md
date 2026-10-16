@@ -3,7 +3,7 @@ type: claim
 title: Student achievement remained below typical-year levels in fall 2022, with full recovery projected several years away
 description: Student achievement remained below typical-year levels in fall 2022, with full recovery projected several years away
 id: achievement-below-typical-recovery-years-away
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

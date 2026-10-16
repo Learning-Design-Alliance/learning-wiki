@@ -3,7 +3,7 @@ type: claim
 title: The study also examines persistence in college over the first two postsecondary years
 description: The study also examines persistence in college over the first two postsecondary years
 id: kipp-study-examines-college-persistence-two-years
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

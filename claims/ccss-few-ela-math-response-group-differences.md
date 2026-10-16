@@ -3,7 +3,7 @@ type: claim
 title: Despite very different district implementation strategies for ELA and math, 2016 survey responses showed few differences between teachers responsible for each set of standards
 description: Despite very different district implementation strategies for ELA and math, 2016 survey responses showed few differences between teachers responsible for each set of standards
 id: ccss-few-ela-math-response-group-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

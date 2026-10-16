@@ -3,7 +3,7 @@ type: claim
 title: Academic self-efficacy does not significantly predict academic stress, and social influence does not directly predict AI dependence
 description: Academic self-efficacy does not significantly predict academic stress, and social influence does not directly predict AI dependence
 id: ase-stress-and-si-dependence-null-paths
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

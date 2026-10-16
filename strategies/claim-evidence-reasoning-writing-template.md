@@ -3,7 +3,7 @@ type: strategy
 id: claim-evidence-reasoning-writing-template
 title: Scaffold scientific explanations with a claim, evidence, reasoning writing template
 description: "The guide recommends the common science-classroom practice of writing claims using a claim, evidence, reasoning framework, initially scaffolded with a fill-in template: \"My claim is ____________ ."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: The LLM evaluator score discriminates between simulated-student motivation profiles
 description: The LLM evaluator score discriminates between simulated-student motivation profiles
 id: llm-evaluator-discriminates-student-profiles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

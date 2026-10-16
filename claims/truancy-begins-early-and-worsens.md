@@ -3,7 +3,7 @@ type: claim
 title: Ninth grade attendance problems begin early in the year and generally worsen, with 89 percent of first-semester extreme truants ending the year at similar or worse levels
 description: Ninth grade attendance problems begin early in the year and generally worsen, with 89 percent of first-semester extreme truants ending the year at similar or worse levels
 id: truancy-begins-early-and-worsens
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

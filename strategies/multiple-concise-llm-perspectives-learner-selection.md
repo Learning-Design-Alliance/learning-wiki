@@ -3,7 +3,7 @@ type: strategy
 id: multiple-concise-llm-perspectives-learner-selection
 title: Generate multiple concise LLM perspectives for learners to select from, and explore relevance-driven diversity aligned with learner interests
 description: The article recommends that rather than presenting a generic explanation repeatedly, LLMs could generate multiple concise perspectives so students can select the angle they find most helpful, supporting differentiated...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

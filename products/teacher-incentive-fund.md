@@ -4,7 +4,7 @@ id: teacher-incentive-fund
 title: Teacher Incentive Fund
 description: A U.S.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
@@ -44,7 +44,7 @@ A U.S. federal grant programme that supports performance-based compensation syst
 - **Teacher Incentive Fund (TIF) performance-based compensation program**: The Teacher Incentive Fund is a federal grant program that "supports performance-based compensation systems in high-need schools." Its grant incentives "aim to raise student achievement by improving teacher effectiveness and workforce quality." The program required districts to implement four components, and Mathematica evaluated its implementation and bonus impacts. (Jeffrey Max et al. (2014))
 
 ### Claims
-- [Few districts structured pay-for-performance bonuses to align well with TIF grant guidance](../claims/few-districts-aligned-bonuses-with-tif-guidance.md) [~W] — (also cited [-W])
+- [Few districts structured pay-for-performance bonuses to align well with TIF grant guidance](../claims/few-districts-aligned-bonuses-with-tif-guidance.md) [~W] — (also cited [-W]); (also cited [-W])
 - [Many teachers misunderstood whether they were eligible for performance bonuses or the amount they could earn](../claims/teachers-misunderstood-bonus-eligibility-and-amounts.md) [~W] — (also cited [-W])
 - [After three years of Teacher Incentive Fund implementation, pay-for-performance bonuses had small positive impacts on student math and reading achievement in ten evaluation districts](../claims/tif-pay-for-performance-small-positive-achievement-impacts.md) [+W]
 - [Educators in schools offering pay-for-performance bonuses tended to be less satisfied than those in schools without bonuses](../claims/tif-bonus-schools-lower-satisfaction.md) [-W]
@@ -62,7 +62,6 @@ A U.S. federal grant programme that supports performance-based compensation syst
 - [Many educators misunderstood the performance measures and the pay-for-performance bonuses under TIF](../claims/tif-educators-misunderstood-measures-and-bonuses.md) [~W]
 - [Fewer than half of districts implemented all four required components of TIF, making full implementation challenging](../claims/tif-fewer-than-half-districts-full-implementation.md) [~W]
 - [The TIF evaluation provides an in-depth analysis of implementation and pay-for-performance impacts for ten districts after three years, and program-wide implementation descriptions for all 2010 grantees](../claims/tif-evaluation-scope-ten-districts-three-years.md) [+W]
-- [Few TIF districts structured pay-for-performance bonuses to align well with TIF grant guidance](../claims/few-tif-districts-aligned-bonuses-with-grant-guidance.md) [-W]
 
 ## Related Products and Programmes
 -
@@ -305,7 +304,7 @@ The Teacher Incentive Fund is a federal grant program that "supports performance
 - [The average TIF bonus was about 4% of average teacher salary, below the 5% recommended by TIF grant guidance for substantial bonuses](../claims/tif-average-bonus-below-recommended-share.md) [~W]
 - [Few districts structured pay-for-performance bonuses to align well with TIF grant guidance](../claims/few-districts-aligned-bonuses-with-tif-guidance.md) [-W]
 - [The TIF evaluation provides an in-depth analysis of implementation and pay-for-performance impacts for ten districts after three years, and program-wide implementation descriptions for all 2010 grantees](../claims/tif-evaluation-scope-ten-districts-three-years.md) [+W]
-- [Few TIF districts structured pay-for-performance bonuses to align well with TIF grant guidance](../claims/few-tif-districts-aligned-bonuses-with-grant-guidance.md) [-W]
+- [Few TIF districts structured pay-for-performance bonuses to align well with TIF grant guidance](../claims/few-districts-aligned-bonuses-with-tif-guidance.md) [-W]
 
 ## Related Elements
 
@@ -356,7 +355,7 @@ The Teacher Incentive Fund is a federal grant program that "provides federal gra
 - [The average TIF bonus was about 4% of average teacher salary, below the 5% recommended by TIF grant guidance for substantial bonuses](../claims/tif-average-bonus-below-recommended-share.md) [-W]
 - [The TIF evaluation provides an in-depth analysis of implementation and pay-for-performance impacts for ten districts after three years, and program-wide implementation descriptions for all 2010 grantees](../claims/tif-evaluation-scope-ten-districts-three-years.md) [+W]
 - [Districts implemented most components of the performance-based compensation system throughout all four years, but fewer than half planned to keep offering performance bonuses once the grant ended](../claims/tif-implementation-sustained-but-bonus-continuation-uncertain.md) [+W]
-- [Few TIF districts structured pay-for-performance bonuses to align well with TIF grant guidance](../claims/few-tif-districts-aligned-bonuses-with-grant-guidance.md) [-W]
+- [Few TIF districts structured pay-for-performance bonuses to align well with TIF grant guidance](../claims/few-districts-aligned-bonuses-with-tif-guidance.md) [-W]
 
 ## Related Elements
 

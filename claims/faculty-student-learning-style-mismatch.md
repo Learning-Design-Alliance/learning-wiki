@@ -3,7 +3,7 @@ type: claim
 title: Significant mismatches exist between faculty ideal learning styles and actual student learning styles
 description: Significant mismatches exist between faculty ideal learning styles and actual student learning styles
 id: faculty-student-learning-style-mismatch
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

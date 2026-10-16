@@ -3,7 +3,7 @@ type: claim
 title: Students in the top propensity-for-retention category showed higher gains than students not in the top category
 description: Students in the top propensity-for-retention category showed higher gains than students not in the top category
 id: top-retention-propensity-higher-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

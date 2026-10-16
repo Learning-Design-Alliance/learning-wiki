@@ -3,7 +3,7 @@ type: claim
 title: Edtech designers rarely make explicit design for multilingual learners central, favoring general universal design
 description: Edtech designers rarely make explicit design for multilingual learners central, favoring general universal design
 id: mll-explicit-design-less-prominent-than-universal-design
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

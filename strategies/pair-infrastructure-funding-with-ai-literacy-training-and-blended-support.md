@@ -3,7 +3,7 @@ type: strategy
 id: pair-infrastructure-funding-with-ai-literacy-training-and-blended-support
 title: Pair digital-infrastructure funding with blended-learning support and AI literacy training for students
 description: "The authors recommend that university policymakers go beyond funding digital infrastructure by also providing blended-learning support and organising AI literacy training, because AI literacy relates to performance \"w..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

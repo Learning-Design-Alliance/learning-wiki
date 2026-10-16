@@ -3,7 +3,7 @@ type: claim
 title: Current LLMs misalign instructional-strategy sensitivity with pedagogical relevance, including hallucinated relevance of irrelevant traits
 description: Current LLMs misalign instructional-strategy sensitivity with pedagogical relevance, including hallucinated relevance of irrelevant traits
 id: llm-relevance-impact-misalignment-learner-characteristics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

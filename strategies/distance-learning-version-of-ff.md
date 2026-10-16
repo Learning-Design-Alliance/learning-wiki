@@ -3,7 +3,7 @@ type: strategy
 id: distance-learning-version-of-ff
 title: Deliver FF tutoring and family engagement through a distance-learning version when in-person schooling is disrupted
 description: "The report describes a distance-learning adaptation of Future Forward designed so that \"students and families can continue to receive literacy supports during the pandemic.\" EA designed this modified delivery model fo..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: "Principal turnover is common: 18% of principals leave schools each year and half of new principals leave within three years, with cascading consequences"
 description: "Principal turnover is common: 18% of principals leave schools each year and half of new principals leave within three years, with cascading consequences"
 id: principal-turnover-18-percent-annually
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

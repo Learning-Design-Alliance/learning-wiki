@@ -3,7 +3,7 @@ type: claim
 title: "Most GoCPS applicants received an offer from a program they ranked: 93 percent in round 1 (51 percent at their top choice) and 85 percent in round 2 (61 percent at their top choice)"
 description: "Most GoCPS applicants received an offer from a program they ranked: 93 percent in round 1 (51 percent at their top choice) and 85 percent in round 2 (61 percent at their top choice)"
 id: gocps-offer-outcomes-two-rounds
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

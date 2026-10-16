@@ -3,7 +3,7 @@ type: element
 id: missing-data-descriptive-statistics-checklist
 title: "Checklist 5: reporting missing data and descriptive statistics"
 description: "The fifth checklist covers \"missing data and descriptive statistics,\" prompting researchers to report how much data were missing and to provide descriptive statistics for their measures."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Many parents of students with IEPs lacked viable options to engage in school choice after forced school closings
 description: Many parents of students with IEPs lacked viable options to engage in school choice after forced school closings
 id: iep-parents-lacked-viable-choice-options
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

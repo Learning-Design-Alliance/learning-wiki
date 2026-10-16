@@ -3,7 +3,7 @@ type: claim
 title: In an urban district facing shrinking enrollment, student achievement was incorporated as a factor in deciding which schools to close, and the study examined whether student outcomes depended on which schools were closed
 description: In an urban district facing shrinking enrollment, student achievement was incorporated as a factor in deciding which schools to close, and the study examined whether student outcomes depended on which schools were closed
 id: school-closure-selection-used-student-achievement-shrinking-district
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

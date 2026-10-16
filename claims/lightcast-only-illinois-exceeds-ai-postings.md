@@ -3,7 +3,7 @@ type: claim
 title: Only Illinois among the 19 Heartland states exceeds the national benchmark for AI-related job postings
 description: Only Illinois among the 19 Heartland states exceeds the national benchmark for AI-related job postings
 id: lightcast-only-illinois-exceeds-ai-postings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

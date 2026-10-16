@@ -3,7 +3,7 @@ type: claim
 title: Off-the-shelf LLMs are systematically misaligned with human item-difficulty judgments and struggle to simulate lower-proficiency states
 description: Off-the-shelf LLMs are systematically misaligned with human item-difficulty judgments and struggle to simulate lower-proficiency states
 id: off-the-shelf-llms-misaligned-human-difficulty-judgments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

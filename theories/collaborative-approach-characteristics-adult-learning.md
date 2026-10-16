@@ -3,7 +3,7 @@ type: theory
 id: collaborative-approach-characteristics-adult-learning
 title: Collaborative approaches are participatory and characterized by active teacher and learner roles, community building, created rather than transferred knowledge, and knowledge located in the community
 description: The handbook defines collaborative approaches to adult learning as participatory in nature, premised on the belief that learning is social, and characterized by six features attributed to Whipple (1987).
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: One-on-one adult support at school, such as a coach or counselor, helped students prioritize and complete college applications
 description: One-on-one adult support at school, such as a coach or counselor, helped students prioritize and complete college applications
 id: one-on-one-adult-support-college-applications
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

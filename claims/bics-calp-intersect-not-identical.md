@@ -3,7 +3,7 @@ type: claim
 title: BICS and CALP intersect developmentally but are not identical or reducible one to the other
 description: BICS and CALP intersect developmentally but are not identical or reducible one to the other
 id: bics-calp-intersect-not-identical
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

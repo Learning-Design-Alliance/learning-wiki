@@ -3,7 +3,7 @@ type: claim
 title: LLM learners are younger, more likely male, and score higher on technology affinity than non-learners
 description: LLM learners are younger, more likely male, and score higher on technology affinity than non-learners
 id: llm-learners-younger-male-higher-tech-affinity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: design
 id: jill-watson-prompt-personalization-module
 title: Jill Watson prompt-engineering personalization module integrated with the RAG pipeline
 description: A modular personalization component for the Jill Watson virtual teaching assistant that encodes learner attributes in an engineered prompt conditioning the underlying LLM at runtime.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: apply-goal-setting-research-to-teacher-goals
 title: Apply goal-setting research findings to teacher goal setting in ways that benefit both teachers and students
 description: "The article's stated purpose is to translate goal-setting research into practice for teacher goal setting."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: element
 id: digital-content-dynamic-characteristics
 title: "Dynamic characteristics of digital content: randomly accessed, authentic, multi-level, interactive, manipulatable, instantaneous and creative"
 description: "The report enumerates the dynamic characteristics that make digital content essential to digital learning: randomly accessed; relevant, up-to-date and authentic; explored on many levels; interactive and engaging; mani..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

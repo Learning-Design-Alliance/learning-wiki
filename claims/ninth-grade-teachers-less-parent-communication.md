@@ -3,7 +3,7 @@ type: claim
 title: Ninth-grade teachers report less communication with and academic support for parents than eighth-grade teachers
 description: Ninth-grade teachers report less communication with and academic support for parents than eighth-grade teachers
 id: ninth-grade-teachers-less-parent-communication
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

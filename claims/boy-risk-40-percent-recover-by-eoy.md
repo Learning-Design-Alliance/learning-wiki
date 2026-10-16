@@ -3,7 +3,7 @@ type: claim
 title: Risk status is largely stable within the year, but 40 percent of students at risk at beginning of year met benchmark by end of year, and students on track by middle of year were significantly more likely to meet the end-of-year benchmark
 description: Risk status is largely stable within the year, but 40 percent of students at risk at beginning of year met benchmark by end of year, and students on track by middle of year were significantly more likely to meet the e...
 id: boy-risk-40-percent-recover-by-eoy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

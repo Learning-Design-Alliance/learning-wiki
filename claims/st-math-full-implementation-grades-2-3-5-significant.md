@@ -3,7 +3,7 @@ type: claim
 title: Among grades that fully implemented ST Math, grades 2, 3, and 5 showed significant CST advantages but grade 4 did not
 description: Among grades that fully implemented ST Math, grades 2, 3, and 5 showed significant CST advantages but grade 4 did not
 id: st-math-full-implementation-grades-2-3-5-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

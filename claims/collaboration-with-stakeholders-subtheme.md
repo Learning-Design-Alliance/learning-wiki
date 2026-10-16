@@ -3,7 +3,7 @@ type: claim
 title: Review identifies a sub-theme on educational providers expanding collaboration with other organisations amid digitalisation
 description: Review identifies a sub-theme on educational providers expanding collaboration with other organisations amid digitalisation
 id: collaboration-with-stakeholders-subtheme
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

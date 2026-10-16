@@ -3,7 +3,7 @@ type: claim
 title: "TEI@N inference-time selection raises the improvement rate on pre-incorrect math scenarios from 59.0% to 81.9% at N=8 over Greedy on a frozen DeepSeek-R1-8B base"
 description: "TEI@N inference-time selection raises the improvement rate on pre-incorrect math scenarios from 59.0% to 81.9% at N=8 over Greedy on a frozen DeepSeek-R1-8B base"
 id: tei-selection-raises-improvement-rate-pre-incorrect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Interleaved practice produces higher mathematics test scores than blocked practice in a classroom experiment
 description: Interleaved practice produces higher mathematics test scores than blocked practice in a classroom experiment
 id: interleaved-practice-higher-math-test-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

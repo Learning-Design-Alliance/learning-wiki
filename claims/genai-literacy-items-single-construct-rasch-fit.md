@@ -3,7 +3,7 @@ type: claim
 title: The 28 GenAI literacy criteria function coherently as indicators of a single underlying construct in a Rasch partial credit analysis
 description: The 28 GenAI literacy criteria function coherently as indicators of a single underlying construct in a Rasch partial credit analysis
 id: genai-literacy-items-single-construct-rasch-fit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

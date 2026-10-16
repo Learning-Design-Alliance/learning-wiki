@@ -3,7 +3,7 @@ type: design
 id: sssc-activity-data-collection-protocol
 title: Two-phase SSSC activity data collection protocol (Qualtrics survey plus Smartsheet workspaces)
 description: "The evaluation's activity data collection is a two-phase instrument for retrospectively documenting SSSC services over calendar year 2021."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

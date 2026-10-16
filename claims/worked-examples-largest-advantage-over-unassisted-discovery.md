@@ -3,7 +3,7 @@ type: claim
 title: Worked examples confer a larger advantage over unassisted discovery than direct teaching does
 description: Worked examples confer a larger advantage over unassisted discovery than direct teaching does
 id: worked-examples-largest-advantage-over-unassisted-discovery
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

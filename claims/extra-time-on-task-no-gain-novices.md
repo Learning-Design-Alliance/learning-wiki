@@ -3,7 +3,7 @@ type: claim
 title: Extending mandated daily study time from three to four hours produces no significant performance gains for novices
 description: Extending mandated daily study time from three to four hours produces no significant performance gains for novices
 id: extra-time-on-task-no-gain-novices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

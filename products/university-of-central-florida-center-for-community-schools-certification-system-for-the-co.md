@@ -4,7 +4,7 @@ id: university-of-central-florida-center-for-community-schools-certification-sys
 title: University of Central Florida Center for Community Schools certification system for the Community Partnership Schools model
 description: A UCF Center for Community Schools certification and technical-assistance programme that helps Florida schools implement and demonstrate fidelity to the Community Partnership Schools model through standards, self-assessment, coaching, mentoring, and external review.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

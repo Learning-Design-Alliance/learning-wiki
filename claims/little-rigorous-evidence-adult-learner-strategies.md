@@ -3,7 +3,7 @@ type: claim
 title: There is not yet much rigorous evidence to guide decision making around instructional and support strategies for adult learners
 description: There is not yet much rigorous evidence to guide decision making around instructional and support strategies for adult learners
 id: little-rigorous-evidence-adult-learner-strategies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

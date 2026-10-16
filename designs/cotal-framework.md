@@ -3,7 +3,7 @@ type: design
 id: cotal-framework
 title: "CoTAL: a three-phase framework unifying Evidence-Centered Design, human-in-the-loop prompt engineering, chain-of-thought prompting, and active learning for formative assessment scoring"
 description: "CoTAL is an LLM-based approach to formative assessment scoring defined as an approach \"that(1)leveragesEvidence-CenteredDesign(ECD)toalignassessments andrubrics with curriculum goals, (2) applieshuman-in-the-looppromp..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10
@@ -49,4 +49,4 @@ CoTAL is an LLM-based approach to formative assessment scoring defined as an app
 -
 
 ## Key Sources
-- Cohn, C., Ashwin T S, Mohammed, N., & Biswas, G. (2026). CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback. arXiv preprint. https://arxiv.org/abs/2504.02323
+- Cohn, C., Ashwin T S, Mohammed, N., & Biswas, G. (2026). CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback. arXiv preprint. https://arxiv.org/abs/2504.02323. [doi:10.48550/arxiv.2504.02323](https://doi.org/10.48550/arxiv.2504.02323)

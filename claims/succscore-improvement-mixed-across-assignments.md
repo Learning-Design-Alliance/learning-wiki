@@ -3,7 +3,7 @@ type: claim
 title: "MisconceptionTutor's advantage in feedback success (SuccScore) is mixed: substantial on earlier assignments, diminishing or reversing on later ones"
 description: "MisconceptionTutor's advantage in feedback success (SuccScore) is mixed: substantial on earlier assignments, diminishing or reversing on later ones"
 id: succscore-improvement-mixed-across-assignments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: research-method
 id: privacy-preserving-linkage-and-analysis-of-educational-data-using-privacy-enhancing-techno
 title: Privacy-preserving linkage and analysis of educational data using privacy-enhancing technologies
 description: The article presents a worked scenario in which a DLP used across several school districts for high school math instruction is linked with state college enrollment and persistence records using secure multiparty computation, producing aggregate correlations between engagement patterns and college ou
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

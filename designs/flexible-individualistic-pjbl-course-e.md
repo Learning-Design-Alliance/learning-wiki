@@ -3,7 +3,7 @@ type: design
 id: flexible-individualistic-pjbl-course-e
 title: "Flexible-Individualistic PjBL: students design their own projects with separate final presentations"
 description: Quadrant 3 (Flexible-Individualistic) PjBL, exemplified by Course E, lets each student design an individual project using emerging technologies in a shared campus production space.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

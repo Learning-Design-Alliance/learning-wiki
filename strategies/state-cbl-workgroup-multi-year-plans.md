@@ -3,7 +3,7 @@ type: strategy
 id: state-cbl-workgroup-multi-year-plans
 title: Every state should convene a CBL workgroup to develop multi-year plans for scaling competency-based learning
 description: "The publication recommends that every state create a competency-based learning workgroup, like Washington State's Mastery-based Learning Work Group, that develops recommendations and multi-year plans addressing barrie..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

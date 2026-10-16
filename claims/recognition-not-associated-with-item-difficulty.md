@@ -3,7 +3,7 @@ type: claim
 title: Recognition was not associated with item difficulty
 description: Recognition was not associated with item difficulty
 id: recognition-not-associated-with-item-difficulty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -4,7 +4,7 @@ id: ssl
 title: SSL
 description: SSL is a structured early-literacy intervention programme whose developers provide lessons using modelling, guided practice, progress monitoring, and reteaching.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

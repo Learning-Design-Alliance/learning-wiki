@@ -3,7 +3,7 @@ type: design
 id: ai-assisted-inquiry-condition-climate
 title: AI-assisted inquiry condition in which a conversational AI partner is embedded in climate-change inquiry
 description: The experimental condition embedded a conversational generative AI partner within inquiry-based learning on climate change, a socio-scientific issue.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

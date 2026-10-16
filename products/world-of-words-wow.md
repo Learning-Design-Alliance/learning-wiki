@@ -4,7 +4,7 @@ id: world-of-words-wow
 title: World of Words (WOW)
 description: A supplementary prekindergarten curriculum developed by the World of Words project that builds vocabulary, concept knowledge, and science content knowledge through topic-centered conversations and shared book readings.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

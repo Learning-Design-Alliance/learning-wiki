@@ -3,7 +3,7 @@ type: claim
 title: In AQUALAB, estimated β is ordered across episode completion status (means 1.181, 1.506, 2.343; Kruskal–Wallis p = 8.62×10−29) and higher-β quintiles complete more content more efficiently
 description: In AQUALAB, estimated β is ordered across episode completion status (means 1.181, 1.506, 2.343; Kruskal–Wallis p = 8.62×10−29) and higher-β quintiles complete more content more efficiently
 id: aqualab-beta-completion-and-efficiency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "Four-day school weeks have no detectable effect on high school students' ACT scores"
 description: "Four-day school weeks have no detectable effect on high school students' ACT scores"
 id: four-day-week-no-effect-act-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

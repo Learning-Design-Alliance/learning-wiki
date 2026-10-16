@@ -3,7 +3,7 @@ type: claim
 title: Teachers envision AI companion literacy as shared work across stakeholders, starting early and spiraling across grade levels, but disagree on which level owns it
 description: Teachers envision AI companion literacy as shared work across stakeholders, starting early and spiraling across grade levels, but disagree on which level owns it
 id: ai-companion-literacy-shared-stakeholder-responsibility
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

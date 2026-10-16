@@ -3,7 +3,7 @@ type: claim
 title: "Screen reader choice affects time and effort for accessing math: JAWS users completed a quadratic-equation task faster than NVDA users"
 description: "Screen reader choice affects time and effort for accessing math: JAWS users completed a quadratic-equation task faster than NVDA users"
 id: screen-reader-effort-quadratic-equation-bvi
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

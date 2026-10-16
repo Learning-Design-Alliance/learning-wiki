@@ -3,7 +3,7 @@ type: claim
 title: Under the mean-recall approximation, the optimal Leitner Queue Network schedule increases the expected delay between reviews as an item moves up through the decks.
 description: Under the mean-recall approximation, the optimal Leitner Queue Network schedule increases the expected delay between reviews as an item moves up through the decks.
 id: optimal-leitner-schedule-expands-intervals-between-reviews
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

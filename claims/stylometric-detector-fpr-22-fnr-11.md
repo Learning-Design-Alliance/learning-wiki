@@ -3,7 +3,7 @@ type: claim
 title: "The stylometric detector misclassified 4 of 18 independently authored documents as GPT-assisted (FPR 22.2%) and 2 of 18 GPT-assisted documents (FNR 11.1%), with wide confidence intervals"
 description: "The stylometric detector misclassified 4 of 18 independently authored documents as GPT-assisted (FPR 22.2%) and 2 of 18 GPT-assisted documents (FNR 11.1%), with wide confidence intervals"
 id: stylometric-detector-fpr-22-fnr-11
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

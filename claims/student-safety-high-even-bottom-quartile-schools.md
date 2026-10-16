@@ -4,7 +4,7 @@ title: Most students, even in bottom quartile schools, report feeling mostly saf
 description: Most students, even in bottom quartile schools, report feeling mostly safe at school
 id: student-safety-high-even-bottom-quartile-schools
 aliases: [students-feel-mostly-safe-even-bottom-quartile-schools]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

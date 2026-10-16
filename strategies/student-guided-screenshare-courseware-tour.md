@@ -3,7 +3,7 @@ type: strategy
 id: student-guided-screenshare-courseware-tour
 title: Student-guided screen-share tour to elicit courseware perceptions
 description: The interviewer asks the student to share their screen and guide the tour through the courseware and related course content.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

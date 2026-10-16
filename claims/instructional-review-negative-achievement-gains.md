@@ -3,7 +3,7 @@ type: claim
 title: Frequent instructional review is negatively associated with one-year achievement gains
 description: Frequent instructional review is negatively associated with one-year achievement gains
 id: instructional-review-negative-achievement-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

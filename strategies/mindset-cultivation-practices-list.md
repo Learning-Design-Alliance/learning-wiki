@@ -3,7 +3,7 @@ type: strategy
 id: mindset-cultivation-practices-list
 title: "Cultivate positive academic mindsets through instructional practices aligned with students' psychological needs"
 description: "The synthesis recommends that \"Teachers can cultivate positive student mindsets—or change maladaptive mindsets—by engaging in instructional practices that align with students' psychological needs.\" Its enumerated prac..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

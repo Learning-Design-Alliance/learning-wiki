@@ -3,7 +3,7 @@ type: claim
 title: Alternative student growth measures, especially student learning objectives, were used for many purposes beyond teacher evaluation
 description: Alternative student growth measures, especially student learning objectives, were used for many purposes beyond teacher evaluation
 id: slos-used-for-purposes-beyond-evaluation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

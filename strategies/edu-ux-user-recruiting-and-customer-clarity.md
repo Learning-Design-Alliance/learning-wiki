@@ -3,7 +3,7 @@ type: strategy
 id: edu-ux-user-recruiting-and-customer-clarity
 title: Distinguish product users from purchasers and recruit representative users through school-like community settings
 description: "The article's lessons learned advise education teams to be \"clear about who your customers are,\" because \"there's often a gap between the person using the product (teachers, students) and the people who purchase produ..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

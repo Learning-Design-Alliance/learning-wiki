@@ -3,7 +3,7 @@ type: claim
 title: Using typical measures of school performance may lead state and local decisionmakers astray when identifying schools for support
 description: Using typical measures of school performance may lead state and local decisionmakers astray when identifying schools for support
 id: typical-school-performance-measures-may-mislead-identification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

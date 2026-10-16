@@ -3,7 +3,7 @@ type: claim
 title: "Check & Connect increases credits accrued (progressing in school) in one RCT"
 description: "Check & Connect increases credits accrued (progressing in school) in one RCT"
 id: check-and-connect-increases-credits-progressing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

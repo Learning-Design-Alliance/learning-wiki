@@ -3,7 +3,7 @@ type: claim
 title: Digital skill gaps among U.S. workers are pronounced by race, while over 90 percent of jobs demand digital skills
 description: Digital skill gaps among U.S.
 id: racial-digital-skill-gaps-workforce
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: From 1987 to 2012 the number of U.S. minority teachers more than doubled, growing faster than nonminority teachers and minority students
 description: From 1987 to 2012 the number of U.S.
 id: minority-teachers-more-than-doubled-1987-2012
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

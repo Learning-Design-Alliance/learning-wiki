@@ -3,7 +3,7 @@ type: claim
 title: LLMKT outperforms existing knowledge tracing methods at predicting student turn correctness in the CoMTA and MathDial tutoring dialogue datasets, and generally outperforms DKT-Sem.
 description: LLMKT outperforms existing knowledge tracing methods at predicting student turn correctness in the CoMTA and MathDial tutoring dialogue datasets, and generally outperforms DKT-Sem.
 id: llmkt-outperforms-existing-kt-methods-on-tutoring-dialogues
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

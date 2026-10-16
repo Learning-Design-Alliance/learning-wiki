@@ -3,7 +3,7 @@ type: claim
 title: "Latent profile analysis of pre-service teachers' ChatGPT acceptance yields four highly distinguishable profiles, with Pragmatic Evaluators the largest (47.66%)"
 description: "Latent profile analysis of pre-service teachers' ChatGPT acceptance yields four highly distinguishable profiles, with Pragmatic Evaluators the largest (47.66%)"
 id: four-chatgpt-acceptance-profiles-lpa
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

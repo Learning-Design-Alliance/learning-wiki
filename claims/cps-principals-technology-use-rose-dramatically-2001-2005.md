@@ -3,7 +3,7 @@ type: claim
 title: "CPS principals' overall use of technology in their work rose dramatically between 2001 and 2005"
 description: "CPS principals' overall use of technology in their work rose dramatically between 2001 and 2005"
 id: cps-principals-technology-use-rose-dramatically-2001-2005
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

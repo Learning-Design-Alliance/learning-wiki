@@ -3,7 +3,7 @@ type: claim
 title: Chicago elementary principals are overwhelmingly positive about Grow, with higher endorsement rates than teachers on shared items
 description: Chicago elementary principals are overwhelmingly positive about Grow, with higher endorsement rates than teachers on shared items
 id: principals-overwhelmingly-positive-grow
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

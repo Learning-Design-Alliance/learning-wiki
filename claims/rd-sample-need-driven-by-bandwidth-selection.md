@@ -3,7 +3,7 @@ type: claim
 title: The large sample requirement of RD designs is driven primarily by bandwidth selection, not by adjusting for random misspecification error
 description: The large sample requirement of RD designs is driven primarily by bandwidth selection, not by adjusting for random misspecification error
 id: rd-sample-need-driven-by-bandwidth-selection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

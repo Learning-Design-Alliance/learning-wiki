@@ -2,7 +2,7 @@
 type: theory
 title: "Three core components of existential hope: existential trust, meaning, and agency"
 description: "The article delineates three interrelated components of existential hope: \"existential trust, meaning, and agency.\" Existential trust is a transcendent stance affirming a worthwhile future under uncertainty; meaning i..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

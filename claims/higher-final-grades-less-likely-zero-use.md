@@ -3,7 +3,7 @@ type: claim
 title: Higher-achieving graduate students were less likely to abstain entirely from StatBot use
 description: Higher-achieving graduate students were less likely to abstain entirely from StatBot use
 id: higher-final-grades-less-likely-zero-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: ChatGPT users were significantly less likely to correctly compare and evaluate animal and plant protein sources
 description: ChatGPT users were significantly less likely to correctly compare and evaluate animal and plant protein sources
 id: chatgpt-worse-protein-comparison-question
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

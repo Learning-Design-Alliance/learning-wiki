@@ -3,7 +3,7 @@ type: strategy
 id: word-net-grammar-via-lexis
 title: Word-net exercises linking lexical knowledge to grammatical awareness
 description: Word-net exercises have learners build networks of private psychological associations around antonym pairs such as plentiful and scarce, attaching central adjectives to generic superordinate nouns.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

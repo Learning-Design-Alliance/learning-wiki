@@ -3,7 +3,7 @@ type: claim
 title: Conceptual change strategies in cooperative groups reduced misconceptions in community college chemistry, but poor group leadership undermined discussion
 description: Conceptual change strategies in cooperative groups reduced misconceptions in community college chemistry, but poor group leadership undermined discussion
 id: cooperative-conceptual-change-chemistry-misconceptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

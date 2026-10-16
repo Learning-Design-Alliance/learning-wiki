@@ -3,7 +3,7 @@ type: claim
 title: Review-based AI overall difficulty correlates strongly with problem-level student pass rate across 79 parallel-class exam problems
 description: Review-based AI overall difficulty correlates strongly with problem-level student pass rate across 79 parallel-class exam problems
 id: review-based-ai-difficulty-problem-level-correlation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

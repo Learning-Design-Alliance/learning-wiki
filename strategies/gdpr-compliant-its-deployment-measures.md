@@ -3,7 +3,7 @@ type: strategy
 id: gdpr-compliant-its-deployment-measures
 title: Privacy-preserving deployment measures for an ITS under GDPR and EU AI Act
 description: "To operate the ITS in a German university regulatory environment, the authors implemented layered privacy measures: strict separation of IP address logs from the ITS, pseudonymous usernames, no e-mail storage beyond r..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

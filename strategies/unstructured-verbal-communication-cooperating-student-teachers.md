@@ -3,7 +3,7 @@ type: strategy
 id: unstructured-verbal-communication-cooperating-student-teachers
 title: Encourage unstructured verbal communication between cooperating and student teachers during student teaching
 description: This strategy directs teacher development programs to foster informal, unstructured verbal feedback from cooperating teachers to student teachers throughout the placement, rather than imposing structured communication...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

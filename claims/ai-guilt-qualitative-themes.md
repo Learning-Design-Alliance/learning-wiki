@@ -3,7 +3,7 @@ type: claim
 title: Qualitative narratives reveal temporal guilt patterns, authenticity concerns, and skill-atrophy fears among academics using AI
 description: Qualitative narratives reveal temporal guilt patterns, authenticity concerns, and skill-atrophy fears among academics using AI
 id: ai-guilt-qualitative-themes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

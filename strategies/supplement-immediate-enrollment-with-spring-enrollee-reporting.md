@@ -3,7 +3,7 @@ type: strategy
 id: supplement-immediate-enrollment-with-spring-enrollee-reporting
 title: Retain summer-and-fall immediate enrollment as the headline metric while supplementing it with reporting on spring first-time enrollees
 description: "Because spring first-time enrollees are few and including them would delay annual data release, the To&Through Project kept its summer-and-fall definition of immediate college enrollment."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

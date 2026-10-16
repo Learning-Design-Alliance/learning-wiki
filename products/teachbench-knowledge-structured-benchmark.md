@@ -4,7 +4,7 @@ id: teachbench-knowledge-structured-benchmark
 title: TeachBench knowledge-structured benchmark
 description: A benchmark dataset developed by Zheng Li et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

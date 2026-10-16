@@ -2,7 +2,7 @@
 type: theory
 title: The Legendre transform as an alternative encoding of the information in a function, forming a self-inverse conjugate pair
 description: "The article frames a function as an encoding {F, x} relating a control parameter to a dependent value, and the Legendre transform as a second encoding {G, s} of the same information, where s is the derivative dF/dx."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

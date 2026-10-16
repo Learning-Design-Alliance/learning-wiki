@@ -3,7 +3,7 @@ type: claim
 title: "Tough's 1971 study found nearly all adults had undertaken a learning project in the past year, 68% self-planned and under 1% for credit, with women's categories logging fewer hours"
 description: "Tough's 1971 study found nearly all adults had undertaken a learning project in the past year, 68% self-planned and under 1% for credit, with women's categories logging fewer hours"
 id: tough-1971-learning-projects-prevalence-self-planned
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

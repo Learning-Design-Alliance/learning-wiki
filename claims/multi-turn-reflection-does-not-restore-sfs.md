@@ -3,7 +3,7 @@ type: claim
 title: Multi-turn reflective interaction does not restore selective updating and destabilizes weaker simulators
 description: Multi-turn reflective interaction does not restore selective updating and destabilizes weaker simulators
 id: multi-turn-reflection-does-not-restore-sfs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

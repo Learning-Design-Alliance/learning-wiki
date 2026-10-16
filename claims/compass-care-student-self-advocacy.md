@@ -3,7 +3,7 @@ type: claim
 title: Compass Care participants reported increased student self-advocacy and confidence in asking for help
 description: Compass Care participants reported increased student self-advocacy and confidence in asking for help
 id: compass-care-student-self-advocacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

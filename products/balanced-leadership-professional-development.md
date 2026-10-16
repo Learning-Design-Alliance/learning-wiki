@@ -4,7 +4,7 @@ id: balanced-leadership-professional-development
 title: Balanced Leadership® professional development
 description: A McREL International professional-development programme for current and aspiring school leaders, delivered through facilitated training with optional coaching and online support to develop leadership actions and behaviours.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

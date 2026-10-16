@@ -2,7 +2,7 @@
 type: theory
 title: "Piaget's stage theory of cognitive development: four fixed, hierarchical stages from sensori-motor to formal operations"
 description: "The handbook presents Piaget's theory that children's thinking differs from adults' qualitatively, not just quantitatively, and that development proceeds through four stages in a fixed sequence: sensori-motor (0-2), p..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

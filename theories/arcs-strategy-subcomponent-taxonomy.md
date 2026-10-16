@@ -3,7 +3,7 @@ type: theory
 title: ARCS strategy sub-component taxonomy (four components, three sub-components each)
 description: The digest presents ARCS as a two-level taxonomy for designing motivating instruction.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

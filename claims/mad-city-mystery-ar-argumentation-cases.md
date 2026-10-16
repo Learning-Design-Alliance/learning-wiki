@@ -3,7 +3,7 @@ type: claim
 title: A place-based augmented reality game (Mad City Mystery) engaged students in scientific argumentation across three case studies of roughly 28 students total
 description: A place-based augmented reality game (Mad City Mystery) engaged students in scientific argumentation across three case studies of roughly 28 students total
 id: mad-city-mystery-ar-argumentation-cases
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

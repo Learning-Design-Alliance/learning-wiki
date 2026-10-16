@@ -3,7 +3,7 @@ type: claim
 title: The Artifact captures learning experiences within and beyond the classroom, revealing learning habits and mindsets relevant to action-based pedagogy
 description: The Artifact captures learning experiences within and beyond the classroom, revealing learning habits and mindsets relevant to action-based pedagogy
 id: artifact-captures-learning-in-action
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Model self-confidence gauges LLM confidence in probability estimates and helps identify when machine-generated scoring outputs are trustworthy
 description: Model self-confidence gauges LLM confidence in probability estimates and helps identify when machine-generated scoring outputs are trustworthy
 id: llm-self-confidence-identifies-trustworthy-scoring-outputs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

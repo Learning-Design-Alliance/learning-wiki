@@ -3,7 +3,7 @@ type: claim
 title: Student demographics and achievement levels affect early-career teacher mobility
 description: Student demographics and achievement levels affect early-career teacher mobility
 id: student-demographics-and-achievement-affect-teacher-mobility
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

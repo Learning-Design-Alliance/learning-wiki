@@ -3,7 +3,7 @@ type: claim
 title: The math test-score gap for students from closed schools persisted for four years post-closings, while reading scores rebounded to expected levels by the second year
 description: The math test-score gap for students from closed schools persisted for four years post-closings, while reading scores rebounded to expected levels by the second year
 id: math-gap-persisted-four-years-post-closings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

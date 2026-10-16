@@ -3,7 +3,7 @@ type: claim
 title: Participation in an induction program alone does not improve the chances teachers will remain; induction quality matters, and almost 20 percent of new teachers report not participating
 description: Participation in an induction program alone does not improve the chances teachers will remain; induction quality matters, and almost 20 percent of new teachers report not participating
 id: induction-participation-alone-insufficient-quality-matters
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

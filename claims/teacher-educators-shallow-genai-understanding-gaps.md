@@ -3,7 +3,7 @@ type: claim
 title: Teacher educators show shallow understanding of GenAI tools and gaps in aligning AI use with pedagogical goals
 description: Teacher educators show shallow understanding of GenAI tools and gaps in aligning AI use with pedagogical goals
 id: teacher-educators-shallow-genai-understanding-gaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

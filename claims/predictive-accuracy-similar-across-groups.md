@@ -3,7 +3,7 @@ type: claim
 title: Predictive accuracy of middle and high school indicators did not vary substantially between student groups
 description: Predictive accuracy of middle and high school indicators did not vary substantially between student groups
 id: predictive-accuracy-similar-across-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Pre-K teachers implemented PKTP's common classroom practices more consistently than kindergarten teachers, with dramatic play and trauma-sensitive practices least frequent among kindergarten teachers"
 description: "Pre-K teachers implemented PKTP's common classroom practices more consistently than kindergarten teachers, with dramatic play and trauma-sensitive practices least frequent among kindergarten teachers"
 id: pktp-practice-implementation-grade-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

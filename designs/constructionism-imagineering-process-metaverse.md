@@ -3,7 +3,7 @@ type: design
 id: constructionism-imagineering-process-metaverse
 title: Eight-step constructionism imagineering learning process delivered through metaverse rooms within a three-stage lesson structure
 description: "The article synthesizes an eight-step learning process from imagineering and constructionism principles: \"Imagine; start with an idea; research/explore/learn; design and write the script; create innovation; summarise..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

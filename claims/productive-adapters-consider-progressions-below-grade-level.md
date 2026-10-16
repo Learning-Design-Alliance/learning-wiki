@@ -3,7 +3,7 @@ type: claim
 title: Teachers who made productive adaptations were more likely to consider learning progressions and adapt lessons to below-grade-level content
 description: Teachers who made productive adaptations were more likely to consider learning progressions and adapt lessons to below-grade-level content
 id: productive-adapters-consider-progressions-below-grade-level
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

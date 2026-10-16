@@ -3,7 +3,7 @@ type: claim
 title: CBO leaders characterized the collaborative WSS development process as healing and restorative, applying restorative justice principles to policymaking
 description: CBO leaders characterized the collaborative WSS development process as healing and restorative, applying restorative justice principles to policymaking
 id: wss-codesign-restorative-healing-process
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

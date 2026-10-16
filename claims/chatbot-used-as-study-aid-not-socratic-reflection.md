@@ -3,7 +3,7 @@ type: claim
 title: Students primarily used the Socratic-tutor chatbot as a study aid aligned with existing study habits rather than for the intended Socratic reflection
 description: Students primarily used the Socratic-tutor chatbot as a study aid aligned with existing study habits rather than for the intended Socratic reflection
 id: chatbot-used-as-study-aid-not-socratic-reflection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Students in the highest-poverty schools are almost twice as likely to be taught by inexperienced teachers
 description: Students in the highest-poverty schools are almost twice as likely to be taught by inexperienced teachers
 id: highest-poverty-schools-inexperienced-teachers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

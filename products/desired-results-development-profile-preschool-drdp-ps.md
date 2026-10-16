@@ -4,7 +4,7 @@ id: desired-results-development-profile-preschool-drdp-ps
 title: Desired Results Development Profile-Preschool (DRDP-PS)
 description: "The DRDP-PS is a California Department of Education teacher-rated developmental assessment used to document and monitor preschool children's learning and progress."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -4,7 +4,7 @@ id: genarch
 title: GenARch
 description: GenARch is a GenAI-assisted multi-user extended-reality pipeline developed by Xiao et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11
@@ -29,4 +29,4 @@ GenARch is a GenAI-assisted multi-user extended-reality pipeline developed by Xi
 -
 
 ## Key Sources
-- Xiao, Y., Chen, M., Li, Y., Powers, N., Wiesenfeld, M., Smith, G., Farzin, S., Liu, S. (2026). Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study. arXiv preprint arXiv:2609.13494. https://arxiv.org/abs/2609.13494
+- Xiao, Y., Chen, M., Li, Y., Powers, N., Wiesenfeld, M., Smith, G., Farzin, S., Liu, S. (2026). Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study. arXiv preprint arXiv:2609.13494. https://arxiv.org/abs/2609.13494. [doi:10.48550/arxiv.2609.13494](https://doi.org/10.48550/arxiv.2609.13494)

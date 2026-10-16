@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Learners Misjudge Spacing Benefits
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25
@@ -119,3 +119,4 @@ Participants used a web-based programme to learn GRE-type vocabulary word pairs,
 - [Interleaved practice produces a moderate overall benefit for inductive category learning compared with blocked practice](interleaving-improves-inductive-learning.md) — related
 - [When exemplars are already interleaved, larger temporal spacing between same-category exemplars yields better inductive learning than smaller spacing](larger-spacing-better-interleaved-induction.md) — related
 - [Learners overwhelmingly judge blocking more effective than interleaving even when their test performance favors interleaving](metacognitive-illusion-blocking-interleaving.md) — a narrower finding that bears on this claim
+- [Performance on final tests of learning is improved when multiple study sessions are spaced apart in time rather than massed in immediate succession](spacing-improves-final-test-performance.md) — related

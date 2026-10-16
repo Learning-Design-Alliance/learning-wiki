@@ -3,7 +3,7 @@ type: claim
 title: "Eye-gaze-tracking-based proctoring systems report cheating-detection accuracies around 95–98% in their original studies"
 description: "Eye-gaze-tracking-based proctoring systems report cheating-detection accuracies around 95–98% in their original studies"
 id: eye-gaze-proctoring-detection-accuracy-95-98
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

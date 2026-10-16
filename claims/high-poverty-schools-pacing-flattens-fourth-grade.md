@@ -3,7 +3,7 @@ type: claim
 title: High-poverty Chicago schools show instructional pacing that flattens out around fourth grade, while mixed-income schools keep pace with ITBS norms
 description: High-poverty Chicago schools show instructional pacing that flattens out around fourth grade, while mixed-income schools keep pace with ITBS norms
 id: high-poverty-schools-pacing-flattens-fourth-grade
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

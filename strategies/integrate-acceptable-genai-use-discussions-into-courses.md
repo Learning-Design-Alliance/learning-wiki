@@ -3,7 +3,7 @@ type: strategy
 id: integrate-acceptable-genai-use-discussions-into-courses
 title: Integrate discussions of acceptable GenAI use directly into courses, assignments, and assessment guidelines, with explicit examples of permitted and non-permitted uses
 description: The article recommends that institutions complement formal GenAI regulations with pedagogical integration rather than restriction alone.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

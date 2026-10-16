@@ -3,7 +3,7 @@ type: element
 id: information-studies-taxonomy-faceted-organizational-taxonomy
 title: "Information Studies Taxonomy: a faceted organizational taxonomy for a digital repository"
 description: The Information Studies Taxonomy was developed to organize resources in a digital repository at the Division of Information Studies, Nanyang Technological University, Singapore, supporting students and faculty in loca...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

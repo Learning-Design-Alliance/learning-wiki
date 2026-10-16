@@ -3,7 +3,7 @@ type: claim
 title: "Latent profile analysis of six AI-attitude indicators yields four profiles: Positive Empowerment, Anxious Acceptance, Low-Perception Detached, and High-Perception High-Vigilance"
 description: "Latent profile analysis of six AI-attitude indicators yields four profiles: Positive Empowerment, Anxious Acceptance, Low-Perception Detached, and High-Perception High-Vigilance"
 id: four-ai-attitude-latent-profiles-university-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: LLM student simulators exhibit near-zero Selective Flip Score, flipping at similarly high rates under targeted, misaligned, and generic feedback
 description: LLM student simulators exhibit near-zero Selective Flip Score, flipping at similarly high rates under targeted, misaligned, and generic feedback
 id: llm-simulators-near-zero-sfs-indiscriminate-flipping
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

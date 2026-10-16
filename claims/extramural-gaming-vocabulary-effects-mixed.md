@@ -3,7 +3,7 @@ type: claim
 title: Extramural English gaming relates to better L2 proficiency, but effects vary by activity type and strategy
 description: Extramural English gaming relates to better L2 proficiency, but effects vary by activity type and strategy
 id: extramural-gaming-vocabulary-effects-mixed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

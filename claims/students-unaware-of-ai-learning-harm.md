@@ -3,7 +3,7 @@ type: claim
 title: Students do not perceive the learning harm from copying GPT solutions and overestimate their exam performance
 description: Students do not perceive the learning harm from copying GPT solutions and overestimate their exam performance
 id: students-unaware-of-ai-learning-harm
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

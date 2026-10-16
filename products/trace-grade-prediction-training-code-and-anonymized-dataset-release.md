@@ -4,7 +4,7 @@ id: trace-grade-prediction-training-code-and-anonymized-dataset-release
 title: TRACE-grade-prediction training code and anonymized dataset release
 description: "Paul Savala's TRACE release provides training code and an anonymized subset of enrollment records for retraining and replicating grade and course prediction models at other institutions."
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

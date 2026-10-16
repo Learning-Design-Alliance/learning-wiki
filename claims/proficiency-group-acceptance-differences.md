@@ -3,7 +3,7 @@ type: claim
 title: Low- and intermediate-proficiency students report higher perceived usefulness, ease of use, and satisfaction for AI-assisted English tools than high-proficiency students
 description: Low- and intermediate-proficiency students report higher perceived usefulness, ease of use, and satisfaction for AI-assisted English tools than high-proficiency students
 id: proficiency-group-acceptance-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

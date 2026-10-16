@@ -3,7 +3,7 @@ type: strategy
 id: genai-research-students-with-disabilities
 title: "Prioritize research on GenAI's impact on students with disabilities and design personalized teaching strategies for their needs"
 description: "The article closes with a forward-looking recommendation for future research: \"Future researchers should delve into the impact of GenAI technologies on students with disabilities and design personalized teaching strat..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

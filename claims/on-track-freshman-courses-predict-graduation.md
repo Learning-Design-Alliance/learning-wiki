@@ -3,7 +3,7 @@ type: claim
 title: Ninth-grade on-track status (at least five credits and no more than one semester F) makes students almost four times more likely to graduate
 description: Ninth-grade on-track status (at least five credits and no more than one semester F) makes students almost four times more likely to graduate
 id: on-track-freshman-courses-predict-graduation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

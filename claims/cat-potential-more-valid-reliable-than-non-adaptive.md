@@ -3,7 +3,7 @@ type: claim
 title: CAT has the potential to be more valid and reliable than non-adaptive tests
 description: CAT has the potential to be more valid and reliable than non-adaptive tests
 id: cat-potential-more-valid-reliable-than-non-adaptive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

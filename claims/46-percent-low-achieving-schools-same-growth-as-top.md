@@ -3,7 +3,7 @@ type: claim
 title: "About 46% of the lowest 5% achieving schools show the same growth as the highest 5% achieving schools"
 description: "About 46% of the lowest 5% achieving schools show the same growth as the highest 5% achieving schools"
 id: 46-percent-low-achieving-schools-same-growth-as-top
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

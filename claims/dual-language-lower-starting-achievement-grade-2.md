@@ -3,7 +3,7 @@ type: claim
 title: Dual language participants started 2nd grade with lower achievement than nonparticipants
 description: Dual language participants started 2nd grade with lower achievement than nonparticipants
 id: dual-language-lower-starting-achievement-grade-2
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

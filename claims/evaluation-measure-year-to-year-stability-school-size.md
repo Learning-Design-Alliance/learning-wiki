@@ -3,7 +3,7 @@ type: claim
 title: Principal practice instrument ratings and school median student growth percentiles showed moderate to high year-to-year stability, but growth percentiles changed more across years in smaller schools
 description: Principal practice instrument ratings and school median student growth percentiles showed moderate to high year-to-year stability, but growth percentiles changed more across years in smaller schools
 id: evaluation-measure-year-to-year-stability-school-size
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

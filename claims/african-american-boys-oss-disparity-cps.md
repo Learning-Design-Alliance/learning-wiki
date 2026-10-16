@@ -3,7 +3,7 @@ type: claim
 title: African American boys received out-of-school suspensions at five times the rate of white/Asian boys in CPS high schools in 2013-14
 description: African American boys received out-of-school suspensions at five times the rate of white/Asian boys in CPS high schools in 2013-14
 id: african-american-boys-oss-disparity-cps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

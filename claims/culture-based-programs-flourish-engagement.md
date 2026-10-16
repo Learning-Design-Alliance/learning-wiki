@@ -3,7 +3,7 @@ type: claim
 title: "When AI/AN communities design their own place-, culture-, and language-based education programs, students' school engagement and learning flourish"
 description: "When AI/AN communities design their own place-, culture-, and language-based education programs, students' school engagement and learning flourish"
 id: culture-based-programs-flourish-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: coordinator-peer-community-and-external-pd-access
 title: Cultivate a supportive peer community among coordinators and connect them to county and state professional development to sustain the role
 description: Because the coordinator role is new and singular on each campus, the report recommends building a peer community and providing access to external professional development.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "The evidence base for Head Start's school-readiness effects is small: only one of 40 eligible studies met WWC group design standards"
 description: "The evidence base for Head Start's school-readiness effects is small: only one of 40 eligible studies met WWC group design standards"
 id: head-start-evidence-base-single-rct
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

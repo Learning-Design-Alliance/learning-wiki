@@ -4,7 +4,7 @@ id: vismatic
 title: VISMATIC
 description: A secured, low-cost JupyterHub sandbox and process-monitoring framework developed by Germán Arroyo et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

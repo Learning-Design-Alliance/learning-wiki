@@ -3,7 +3,7 @@ type: claim
 title: "Judge and crowd broadly agree on which criteria matter, but the judge's near-identical top scores make its ranking of strong systems essentially random"
 description: "Judge and crowd broadly agree on which criteria matter, but the judge's near-identical top scores make its ranking of strong systems essentially random"
 id: judge-crowd-agree-on-criteria-but-scores-separate-nothing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Students rate their ethical awareness of AI higher than instructors, while instructors report stronger willingness to experiment with AI tools and higher behavioural intention
 description: Students rate their ethical awareness of AI higher than instructors, while instructors report stronger willingness to experiment with AI tools and higher behavioural intention
 id: students-higher-ethical-awareness-instructors-higher-intention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -53,3 +53,4 @@ Questionnaire study of students (n = 226) and instructors (n = 256) in European 
 - [Students rate ethical awareness and responsible use highest and academic integrity lowest, with responsibility for defending ethical appropriateness the lowest-rated item](student-survey-ethical-ai-profile-academic-integrity-lowest.md) — related
 - [Teachers' attitudes toward GenAI tools significantly predict their behavioural intention to integrate them](attitude-predicts-intention-genai.md) — related
 - [Social norms, peer behaviors, family attitudes, insufficient sanctions, teacher attitude, high expectations, and adverse conditions positively predict AI-assisted dishonesty, while ethical and moral education negatively predicts it](social-contextual-predictors-ai-assisted-dishonesty.md) — related
+- [Students express willingness to integrate GenAI in learning and future careers, and willingness correlates with knowledge and frequency of use](students-willing-to-use-genai-correlates.md) — related

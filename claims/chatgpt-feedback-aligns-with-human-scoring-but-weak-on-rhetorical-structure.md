@@ -3,7 +3,7 @@ type: claim
 title: ChatGPT-3.5 feedback on EAP argumentative essays aligns closely with human instructor scoring and identifies surface-level issues, but is less effective on rhetorical structure and contextual nuance
 description: ChatGPT-3.5 feedback on EAP argumentative essays aligns closely with human instructor scoring and identifies surface-level issues, but is less effective on rhetorical structure and contextual nuance
 id: chatgpt-feedback-aligns-with-human-scoring-but-weak-on-rhetorical-structure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

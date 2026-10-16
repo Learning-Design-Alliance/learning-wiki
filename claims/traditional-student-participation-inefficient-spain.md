@@ -3,7 +3,7 @@ type: claim
 title: Traditional student participation mechanisms in Spain have been shown to be inefficient for promoting civic commitment
 description: Traditional student participation mechanisms in Spain have been shown to be inefficient for promoting civic commitment
 id: traditional-student-participation-inefficient-spain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

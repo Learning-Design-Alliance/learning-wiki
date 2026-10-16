@@ -3,7 +3,7 @@ type: claim
 title: "Hint-not-solution is the most challenging rubric dimension, with scores ranging from 6% to 81% across models"
 description: "Hint-not-solution is the most challenging rubric dimension, with scores ranging from 6% to 81% across models"
 id: hint-not-solution-most-challenging-dimension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

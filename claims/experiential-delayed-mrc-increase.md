@@ -3,7 +3,7 @@ type: claim
 title: The experiential group showed a delayed, continued within-group increase in regulation of cognition that the instructional group did not show
 description: The experiential group showed a delayed, continued within-group increase in regulation of cognition that the instructional group did not show
 id: experiential-delayed-mrc-increase
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

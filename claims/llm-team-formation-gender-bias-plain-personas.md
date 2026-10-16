@@ -3,7 +3,7 @@ type: claim
 title: In LLM-assisted team formation with name-only personas, male students are significantly less likely than female students to be assigned to Interface Design and Quality Assurance teams relative to Core Development
 description: In LLM-assisted team formation with name-only personas, male students are significantly less likely than female students to be assigned to Interface Design and Quality Assurance teams relative to Core Development
 id: llm-team-formation-gender-bias-plain-personas
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

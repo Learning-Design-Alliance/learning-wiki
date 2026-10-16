@@ -3,7 +3,7 @@ type: claim
 title: Zero-shot classification of concern topics showed no consistent evidence of association with wearable outcomes, while affective dimensions showed more associations that did not survive correction
 description: Zero-shot classification of concern topics showed no consistent evidence of association with wearable outcomes, while affective dimensions showed more associations that did not survive correction
 id: topic-classification-null-affective-more-signal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: state-policy-models-colorado-louisiana-tutoring
 title: "State policy models for scaling high-impact tutoring: Colorado's non-competitive grant program and Louisiana's long-term Accelerate initiative"
 description: The brief presents two state approaches as models.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

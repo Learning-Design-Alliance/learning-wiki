@@ -3,7 +3,7 @@ type: claim
 title: School-based SEL programs promote the development of social and emotional competencies across grade levels
 description: School-based SEL programs promote the development of social and emotional competencies across grade levels
 id: sel-programs-promote-social-emotional-competencies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

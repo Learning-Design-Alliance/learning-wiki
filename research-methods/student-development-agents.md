@@ -3,7 +3,7 @@ type: research-method
 id: student-development-agents
 title: Student Development Agents
 description: "Student Development Agents are the article's concrete instantiation of AES: \"computational agents designed to generate developmental features under counterfactual educational environments.\" They serve as simulated learners whose developmental trajectories can be examined in silico, allowing educatio"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

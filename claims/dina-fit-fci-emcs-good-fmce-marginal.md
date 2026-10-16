@@ -3,7 +3,7 @@ type: claim
 title: DINA models fit FCI and EMCS posttest data well but fit FMCE data only marginally
 description: DINA models fit FCI and EMCS posttest data well but fit FMCE data only marginally
 id: dina-fit-fci-emcs-good-fmce-marginal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

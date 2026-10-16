@@ -3,7 +3,7 @@ type: claim
 title: Error rates per completed problem-solving step did not significantly differ between conditions
 description: Error rates per completed problem-solving step did not significantly differ between conditions
 id: no-difference-error-rate-log
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

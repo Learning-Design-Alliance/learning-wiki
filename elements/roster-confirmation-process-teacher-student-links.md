@@ -3,7 +3,7 @@ type: element
 id: roster-confirmation-process-teacher-student-links
 title: Roster confirmation process for verifying teacher/student links
 description: "A roster confirmation process is a data-quality procedure in which \"teachers verify the subjects and students they taught,\" producing confirmed teacher/student links."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

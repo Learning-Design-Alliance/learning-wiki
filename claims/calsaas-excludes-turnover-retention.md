@@ -3,7 +3,7 @@ type: claim
 title: "California's CalSAAS dashboards exclude teacher turnover and retention data needed for workforce planning"
 description: "California's CalSAAS dashboards exclude teacher turnover and retention data needed for workforce planning"
 id: calsaas-excludes-turnover-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

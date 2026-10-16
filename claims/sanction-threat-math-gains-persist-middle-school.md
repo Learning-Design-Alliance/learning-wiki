@@ -3,7 +3,7 @@ type: claim
 title: Threat-induced math improvements from attending a threatened elementary school persist at least through the first one to two years of middle school
 description: Threat-induced math improvements from attending a threatened elementary school persist at least through the first one to two years of middle school
 id: sanction-threat-math-gains-persist-middle-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Models can predict best-fit majors from student records, not only pass or fail within a chosen major, enabling cross-program success questions
 description: Models can predict best-fit majors from student records, not only pass or fail within a chosen major, enabling cross-program success questions
 id: cross-program-major-fit-prediction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

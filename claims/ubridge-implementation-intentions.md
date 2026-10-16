@@ -3,7 +3,7 @@ type: claim
 title: "All participants intended to continue integrating AI into teaching and to recommend the institute, and 70% had already begun implementing AI-enhanced tools or assignments"
 description: "All participants intended to continue integrating AI into teaching and to recommend the institute, and 70% had already begun implementing AI-enhanced tools or assignments"
 id: ubridge-implementation-intentions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

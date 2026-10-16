@@ -3,7 +3,7 @@ type: claim
 title: Headsprout Early Reading has a statistically significant positive effect on the oral language of at-risk preschool children
 description: Headsprout Early Reading has a statistically significant positive effect on the oral language of at-risk preschool children
 id: headsprout-positive-oral-language-preschool
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

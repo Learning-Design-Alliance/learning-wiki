@@ -3,7 +3,7 @@ type: claim
 title: Recognition of individual Pepper-produced LIS signs varies widely, with several signs significantly above chance and others not significant
 description: Recognition of individual Pepper-produced LIS signs varies widely, with several signs significantly above chance and others not significant
 id: pepper-lis-sign-recognition-binomial-tests
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

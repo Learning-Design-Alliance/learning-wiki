@@ -3,7 +3,7 @@ type: claim
 title: Students of ABCTE-certified teachers and non-ABCTE teachers show no difference in reading achievement gains in Florida
 description: Students of ABCTE-certified teachers and non-ABCTE teachers show no difference in reading achievement gains in Florida
 id: abcte-florida-no-reading-gain-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: element
 id: affective-development-assessment-instrument-bibliography
 title: Annotated bibliography of 27 instruments for assessing preschool affective development
 description: "Chapter 3 of the report catalogs the available assessment instrumentation for measuring affective development in the preschool child, presented as a chart plus \"an annotated bibliography on 27 instruments.\" The chapte..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

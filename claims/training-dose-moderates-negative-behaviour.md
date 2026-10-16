@@ -3,7 +3,7 @@ type: claim
 title: Total training hours significantly moderate MBI effects on negative behaviour across all RCTs, with more hours associated with larger reductions
 description: Total training hours significantly moderate MBI effects on negative behaviour across all RCTs, with more hours associated with larger reductions
 id: training-dose-moderates-negative-behaviour
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

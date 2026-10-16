@@ -3,7 +3,7 @@ type: claim
 title: Segmenting video into short pieces or click-forward pauses supports student engagement and learning from video
 description: Segmenting video into short pieces or click-forward pauses supports student engagement and learning from video
 id: segmenting-supports-video-engagement-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

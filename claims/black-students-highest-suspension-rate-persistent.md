@@ -3,7 +3,7 @@ type: claim
 title: "Black students are suspended at the highest rate of any racial group, at 12% in 2017–18, with persistent disparities across all years analyzed"
 description: "Black students are suspended at the highest rate of any racial group, at 12% in 2017–18, with persistent disparities across all years analyzed"
 id: black-students-highest-suspension-rate-persistent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

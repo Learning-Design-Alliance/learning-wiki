@@ -3,7 +3,7 @@ type: research-method
 id: four-stage-dataset-preparation-workflow-for-assessment-research
 title: Four-stage dataset preparation workflow for assessment research
 description: A reproducible preparation pattern for consolidating heterogeneous examiner files into an answer-level dataset.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

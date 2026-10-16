@@ -3,7 +3,7 @@ type: strategy
 id: three-pivots-equity-solution-sourcing
 title: "Three pivots for equity-centered solution sourcing: redefine readiness criteria, reconceptualize expertise, and reimagine procurement pathways"
 description: The report concludes with three pivots education stakeholders can make to foster district-provider alignment in equity-centered solution sourcing.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

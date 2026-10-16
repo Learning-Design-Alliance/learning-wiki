@@ -2,7 +2,7 @@
 type: theory
 title: "Five-cluster thematic map of WCF-in-L2-writing research: student engagement, WCF, second language writing, teacher feedback, and writing assessment"
 description: "The article's Citespace cluster analysis of keyword co-occurrence (627 nodes, one-year time slice) organizes WCF-in-L2-writing research into five major clusters."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

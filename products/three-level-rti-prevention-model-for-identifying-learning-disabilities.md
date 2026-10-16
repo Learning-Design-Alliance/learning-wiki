@@ -4,7 +4,7 @@ id: three-level-rti-prevention-model-for-identifying-learning-disabilities
 title: Three-level RTI prevention model for identifying learning disabilities
 description: "A response-to-intervention framework that organizes general instruction, targeted tutoring, and special education evaluation around students' measured progress and responsiveness."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

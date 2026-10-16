@@ -4,7 +4,7 @@ id: spree
 title: SPREE
 description: A process developed and applied by the Corporation for National and Community Service to help funders and grantees evaluate, select, and scale evidence-based interventions.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

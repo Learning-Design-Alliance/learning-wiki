@@ -3,7 +3,7 @@ type: claim
 title: California LEAs reported sufficient fully qualified TK lead teachers in 2022–23 but high second-adult vacancies, and projected needing 1,489 more TK lead teachers and 962 more aides in 2023–24
 description: California LEAs reported sufficient fully qualified TK lead teachers in 2022–23 but high second-adult vacancies, and projected needing 1,489 more TK lead teachers and 962 more aides in 2023–24
 id: tk-workforce-lead-sufficiency-aide-vacancies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

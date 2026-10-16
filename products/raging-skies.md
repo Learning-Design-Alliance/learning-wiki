@@ -4,7 +4,7 @@ id: raging-skies
 title: Raging Skies
 description: "Raging Skies is a digital game-based assessment developed by Ying Cui and colleagues that measures Grade 5 students' weather knowledge through storm-chasing tasks, adaptive difficulty, and in-game and summary feedback."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Observation scores and student surveys were moderately correlated with student learning and likely captured different dimensions of teaching quality
 description: Observation scores and student surveys were moderately correlated with student learning and likely captured different dimensions of teaching quality
 id: ratings-moderately-correlated-with-student-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

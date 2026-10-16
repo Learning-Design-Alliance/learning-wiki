@@ -3,7 +3,7 @@ type: claim
 title: Computer science offerings in U.S. secondary schools grew from 25 percent to 40 percent between 2015 and 2016
 description: Computer science offerings in U.S.
 id: secondary-schools-offering-cs-grew-25-to-40-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

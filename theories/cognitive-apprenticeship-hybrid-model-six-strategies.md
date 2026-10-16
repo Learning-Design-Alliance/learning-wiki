@@ -2,7 +2,7 @@
 type: theory
 title: "Cognitive apprenticeship as a hybrid of Schoenfeld's modeling-coaching-fading model and Treisman's collaborative workshop model"
 description: "Cognitive apprenticeship is an instructional paradigm that, per the article, merges the coaching-modeling-fading components of Schoenfeld's problem-solving course with Treisman's collaborative workshop model so studen..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

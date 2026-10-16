@@ -3,7 +3,7 @@ type: claim
 title: The supporting evidence for Bottom Line comes from a randomized controlled trial that meets WWC group design standards without reservations
 description: The supporting evidence for Bottom Line comes from a randomized controlled trial that meets WWC group design standards without reservations
 id: bottom-line-evidence-from-rct-meeting-wwc-standards
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

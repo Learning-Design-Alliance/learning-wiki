@@ -3,7 +3,7 @@ type: claim
 title: Educator-focused digital literacy frameworks prioritize pedagogy, empowering learners, and curriculum and assessment, with more evenly distributed categories
 description: Educator-focused digital literacy frameworks prioritize pedagogy, empowering learners, and curriculum and assessment, with more evenly distributed categories
 id: educator-frameworks-pedagogy-and-systemic-capacities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

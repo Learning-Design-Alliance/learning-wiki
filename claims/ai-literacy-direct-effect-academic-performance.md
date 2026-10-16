@@ -3,7 +3,7 @@ type: claim
 title: AI literacy has a significant direct effect on academic performance among non-STEM students (β = .222, p = .001)
 description: AI literacy has a significant direct effect on academic performance among non-STEM students (β = .222, p = .001)
 id: ai-literacy-direct-effect-academic-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

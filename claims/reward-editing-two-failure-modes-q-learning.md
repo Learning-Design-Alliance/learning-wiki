@@ -3,7 +3,7 @@ type: claim
 title: Editing the pit reward produces two behaviorally identical but diagnostically opposite failure modes, separated by a threshold at 7.774
 description: Editing the pit reward produces two behaviorally identical but diagnostically opposite failure modes, separated by a threshold at 7.774
 id: reward-editing-two-failure-modes-q-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -18,8 +18,8 @@ sources:
     kind: design
     rigour: 2
   - id: jueng-2026-2
-    resource: "https://arxiv.org/abs/2607.10802"
-    title: "Jueng, Ekkachai. (2026). Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis. https://arxiv.org/abs/2607.10802"
+    resource: "https://doi.org/10.48550/arxiv.2607.10802"
+    title: "Jueng, Ekkachai. (2026). Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis. https://arxiv.org/abs/2607.10802. [doi:10.48550/arxiv.2607.10802](https://doi.org/10.48550/arxiv.2607.10802)"
     author: Jueng, Ekkachai
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Editing the pit reward produces two behaviorally identical but diagnostically opposite failure modes, separated by a threshold at 7.774
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` With pit reward +5, the agent ends in a pit in 10/10 seeds even though the optimal policy still reaches the goal — an exploration failure, not reward hacking, because pit-seeking is sub-optimal under the written reward. [→ Jueng 2026](#jueng-2026)
@@ -50,7 +50,7 @@ Simulation study comparing the learned greedy policy against the value-iteration
 
 ### Jueng 2026 (2)
 
-Jueng, Ekkachai. (2026). Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis. https://arxiv.org/abs/2607.10802
+Jueng, Ekkachai. (2026). Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis. https://arxiv.org/abs/2607.10802. [doi:10.48550/arxiv.2607.10802](https://doi.org/10.48550/arxiv.2607.10802)
 
 `q2 · i?` · `design · r2`
 

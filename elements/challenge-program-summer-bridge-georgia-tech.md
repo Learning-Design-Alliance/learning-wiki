@@ -3,7 +3,7 @@ type: element
 id: challenge-program-summer-bridge-georgia-tech
 title: Summer bridge program (Challenge Program at Georgia Tech)
 description: The Challenge Program is a 5-week summer bridge program at a selective technical university in the southeastern United States, originally offered in 1981 as a developmental education program for minority students and...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

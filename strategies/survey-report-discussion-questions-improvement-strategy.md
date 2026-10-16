@@ -3,7 +3,7 @@ type: strategy
 id: survey-report-discussion-questions-improvement-strategy
 title: Use survey profiles, discussion questions, and the Details report to guide school improvement deliberations
 description: "The report recommends using its profiles to \"stimulate discussion among your school's leadership team, teachers and members of the local school council (LSC) about instructional priorities and current performance\", in..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -37,7 +37,7 @@ The report recommends using its profiles to "stimulate discussion among your sch
 - identifying strengths and weaknesses in the Five Fundamentals and planning SIPAAA improvement actions
 
 ### Affordances
-- [Five Essential Supports School Improvement Framework](../theories/five-essential-supports-school-improvement-framework.md)
+- [Five Essential Supports School Improvement Framework](../theories/five-essential-supports-framework-ccsr.md)
 
 ## Related Strategies
 

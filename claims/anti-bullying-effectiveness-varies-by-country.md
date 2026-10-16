@@ -3,7 +3,7 @@ type: claim
 title: "Program effectiveness varies by country: Greece led for perpetration, Italy for victimization"
 description: "Program effectiveness varies by country: Greece led for perpetration, Italy for victimization"
 id: anti-bullying-effectiveness-varies-by-country
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

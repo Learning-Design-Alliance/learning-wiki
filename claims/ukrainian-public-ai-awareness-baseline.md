@@ -3,7 +3,7 @@ type: claim
 title: "One-third of the Ukrainian general public does not know what AI is, and 64.1% do not use AI chatbots"
 description: "One-third of the Ukrainian general public does not know what AI is, and 64.1% do not use AI chatbots"
 id: ukrainian-public-ai-awareness-baseline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

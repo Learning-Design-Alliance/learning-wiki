@@ -3,7 +3,7 @@ type: claim
 title: Regression discontinuity designs in education require 9 to 17 times as many schools or students as randomized controlled trials to achieve the same statistical precision
 description: Regression discontinuity designs in education require 9 to 17 times as many schools or students as randomized controlled trials to achieve the same statistical precision
 id: rd-designs-need-9-to-17-times-rct-sample
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

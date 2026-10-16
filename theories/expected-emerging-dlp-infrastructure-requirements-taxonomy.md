@@ -2,7 +2,7 @@
 type: theory
 title: "Two-category taxonomy of requirements for DLPs as research infrastructure: expected technical work versus emerging organizational and community work"
 description: "The paper organizes infrastructure-building work into two kinds: (1) expected technical platform modifications (data enhancement and documentation, content authoring, privacy, experimental apparatus, student user expe..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

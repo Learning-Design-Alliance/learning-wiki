@@ -3,7 +3,7 @@ type: claim
 title: Attending an inclusive STEM high school nearly triples the odds of declaring a Core STEM major at a four-year college two years after high school graduation
 description: Attending an inclusive STEM high school nearly triples the odds of declaring a Core STEM major at a four-year college two years after high school graduation
 id: ishs-triples-odds-four-year-stem-major
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

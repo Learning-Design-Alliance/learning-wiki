@@ -3,7 +3,7 @@ type: claim
 title: PS-I shows no pooled benefit for procedural knowledge (g = −0.03, nonsignificant)
 description: PS-I shows no pooled benefit for procedural knowledge (g = −0.03, nonsignificant)
 id: psi-procedural-knowledge-null-pooled-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

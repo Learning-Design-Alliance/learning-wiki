@@ -3,7 +3,7 @@ type: claim
 title: "Mark dispersion narrowed in the treated half alone, with the Part 2 standard deviation falling from 7.09 to 5.03 while Part 1's was unchanged"
 description: "Mark dispersion narrowed in the treated half alone, with the Part 2 standard deviation falling from 7.09 to 5.03 while Part 1's was unchanged"
 id: dispersion-narrowed-treated-half
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

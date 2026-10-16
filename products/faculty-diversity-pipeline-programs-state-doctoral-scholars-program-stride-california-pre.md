@@ -4,7 +4,7 @@ id: faculty-diversity-pipeline-programs-state-doctoral-scholars-program-stride-c
 title: Faculty diversity pipeline programs (State Doctoral Scholars Program, STRIDE, California Pre-Doctoral Program)
 description: A set of initiatives providing doctoral mentoring, networking, financial or preparatory support, and hiring-committee workshops to diversify the professoriate, run by the Southern Regional Education Board, Florida International University, and the University of California system respectively.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

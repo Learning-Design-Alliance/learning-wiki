@@ -3,7 +3,7 @@ type: claim
 title: Perceived task difficulty with the tools was rated much easier than imagined difficulty without them, with gaps of at least 2.5 SEQ points on every task
 description: Perceived task difficulty with the tools was rated much easier than imagined difficulty without them, with gaps of at least 2.5 SEQ points on every task
 id: nev-seq-gap-with-versus-without-tools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

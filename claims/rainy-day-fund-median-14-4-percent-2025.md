@@ -3,7 +3,7 @@ type: claim
 title: Rainy day funds buffer education budgets during downturns, and the median state rainy day fund balance is projected to reach 14.4 percent of general fund expenditures by the end of fiscal year 2025
 description: Rainy day funds buffer education budgets during downturns, and the median state rainy day fund balance is projected to reach 14.4 percent of general fund expenditures by the end of fiscal year 2025
 id: rainy-day-fund-median-14-4-percent-2025
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

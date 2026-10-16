@@ -2,7 +2,7 @@
 type: theory
 title: Entrepreneurship as a newly emerging academic field in U.S. higher education
 description: "The article frames entrepreneurship as a long-standing feature of American society and an economic contributor that has only recently entered formal higher education, stating that \"only recently has entrepreneurship b..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -45,4 +45,4 @@ The article frames entrepreneurship as a long-standing feature of American socie
 -
 
 ## Key Sources
-- Hulsey, L., Rosenberg, L., & Kim, B. (2006). Seeding Entrepreneurship Across Campus: Early Implementation Experiences of the Kauffman Campuses Initiative. Princeton, NJ: Mathematica Policy Research. https://www.mathematica.org/publications/seeding-entrepreneurship-across-campus-early-implementation-experiences-of-the-kauffman-campuses-initiative
+- Hulsey, L., Rosenberg, L., & Kim, B. (2006). Seeding Entrepreneurship Across Campus: Early Implementation Experiences of the Kauffman Campuses Initiative. Princeton, NJ: Mathematica Policy Research. https://www.mathematica.org/publications/seeding-entrepreneurship-across-campus-early-implementation-experiences-of-the-kauffman-campuses-initiative. [doi:10.2139/ssrn.981057](https://doi.org/10.2139/ssrn.981057)

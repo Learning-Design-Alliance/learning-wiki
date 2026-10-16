@@ -3,7 +3,7 @@ type: claim
 title: "Time (two years) shows no significant effect on children's overall amount of meaning negotiation"
 description: "Time (two years) shows no significant effect on children's overall amount of meaning negotiation"
 id: no-time-effect-overall-nom
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

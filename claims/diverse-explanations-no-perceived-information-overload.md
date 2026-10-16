@@ -3,7 +3,7 @@ type: claim
 title: Students reported similar perceived information quantity across conditions, indicating diverse explanations did not produce perceived information overload
 description: Students reported similar perceived information quantity across conditions, indicating diverse explanations did not produce perceived information overload
 id: diverse-explanations-no-perceived-information-overload
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

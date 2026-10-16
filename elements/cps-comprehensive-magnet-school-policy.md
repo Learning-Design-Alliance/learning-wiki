@@ -3,7 +3,7 @@ type: element
 id: cps-comprehensive-magnet-school-policy
 title: "CPS Comprehensive Magnet School Policy (1998): neighborhood set-aside and transportation buffer"
 description: A district policy introduced in fall 1997, effective 1998-99, that codified and standardized magnet school admission and transportation rules.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

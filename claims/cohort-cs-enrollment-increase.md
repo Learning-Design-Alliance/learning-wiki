@@ -3,7 +3,7 @@ type: claim
 title: Cohort CS enrollment rates increased substantially, from 8 percent of the 2010-11 cohort to 26 percent of the 2014-15 cohort taking at least one CS course over four years
 description: Cohort CS enrollment rates increased substantially, from 8 percent of the 2010-11 cohort to 26 percent of the 2014-15 cohort taking at least one CS course over four years
 id: cohort-cs-enrollment-increase
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

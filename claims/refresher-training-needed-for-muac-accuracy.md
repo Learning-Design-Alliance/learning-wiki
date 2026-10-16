@@ -3,7 +3,7 @@ type: claim
 title: Baseline-only training was insufficient for sustained measurement accuracy; healthcare workers recommended refresher training
 description: Baseline-only training was insufficient for sustained measurement accuracy; healthcare workers recommended refresher training
 id: refresher-training-needed-for-muac-accuracy
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: "Judge-condition verification did not consistently improve LLM feedback quality and often propagated Peer agents' errors"
 description: "Judge-condition verification did not consistently improve LLM feedback quality and often propagated Peer agents' errors"
 id: judge-verification-propagates-peer-errors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

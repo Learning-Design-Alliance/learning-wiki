@@ -4,7 +4,7 @@ id: quantum-randi-challenge-qrc
 title: Quantum Randi Challenge (QRC)
 description: The QRC is a modifiable computer game created by Vongehr for teaching quantum mechanics through challenges involving quantum and hidden-variable simulations.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

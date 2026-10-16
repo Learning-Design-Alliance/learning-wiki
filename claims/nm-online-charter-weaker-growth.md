@@ -3,7 +3,7 @@ type: claim
 title: Students in New Mexico online charter schools show substantially weaker growth than their TPS virtual twins in both reading and math
 description: Students in New Mexico online charter schools show substantially weaker growth than their TPS virtual twins in both reading and math
 id: nm-online-charter-weaker-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

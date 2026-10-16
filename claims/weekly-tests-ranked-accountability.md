@@ -3,7 +3,7 @@ type: claim
 title: Students ranked the self-paced AI-study block and the weekly closed-book test as the components they would miss most, treating tests as useful accountability
 description: Students ranked the self-paced AI-study block and the weekly closed-book test as the components they would miss most, treating tests as useful accountability
 id: weekly-tests-ranked-accountability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

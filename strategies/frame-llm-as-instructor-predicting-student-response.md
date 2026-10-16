@@ -3,7 +3,7 @@ type: strategy
 id: frame-llm-as-instructor-predicting-student-response
 title: "Frame the LLM as an instructor predicting a student's response rather than as the learner itself"
 description: "This prompting strategy instructs the LLM to take the teacher's perspective and predict how a student would respond, instead of role-playing the learner directly."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

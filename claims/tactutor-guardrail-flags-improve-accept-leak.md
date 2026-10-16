@@ -3,7 +3,7 @@ type: claim
 title: "Post-training improves TACTutor's auxiliary guardrail flags on TACTBench: accept rate rises from 0.603 to 0.872 and leak-or-overhelp falls from 0.346 to 0.026"
 description: "Post-training improves TACTutor's auxiliary guardrail flags on TACTBench: accept rate rises from 0.603 to 0.872 and leak-or-overhelp falls from 0.346 to 0.026"
 id: tactutor-guardrail-flags-improve-accept-leak
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

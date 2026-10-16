@@ -3,7 +3,7 @@ type: claim
 title: "Disciplinary background is strongly associated with ChatGPT acceptance profile membership: STEM teachers concentrate in Technology Pioneers, non-STEM teachers in Environmental Observers and Resistant Skeptics"
 description: "Disciplinary background is strongly associated with ChatGPT acceptance profile membership: STEM teachers concentrate in Technology Pioneers, non-STEM teachers in Environmental Observers and Resistant Skeptics"
 id: discipline-associates-with-acceptance-profile
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

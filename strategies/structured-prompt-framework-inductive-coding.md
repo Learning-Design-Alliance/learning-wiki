@@ -3,7 +3,7 @@ type: strategy
 id: structured-prompt-framework-inductive-coding
 title: Structured prompt framework for LLM-assisted inductive coding (role assignment, format specification, reasoning-based prompting)
 description: "The article's prompt engineering strategy specifies that prompts should meet \"three core criteria: (1) clearly specifying the model's role, (2) defining input and output formats, and (3) incorporating reasoning -based..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

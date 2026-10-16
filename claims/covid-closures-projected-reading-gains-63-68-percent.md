@@ -4,23 +4,15 @@ title: "Projected fall 2020 reading gains for returning students are approximate
 description: "Projected fall 2020 reading gains for returning students are approximately 63 to 68% of a typical school year's learning gains"
 id: covid-closures-projected-reading-gains-63-68-percent
 aliases: [covid-projections-reading-63-68-percent-gains]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
 sources:
-  - id: megan-kuhfeld-2020
-    resource: "https://doi.org/10.3102/0013189X20965918"
-    title: "Megan Kuhfeld, James Soland, Beth Tarasawa, Angela Johnson, Erik Ruzek, Jing Liu. (2020). Projecting the potential impact of COVID-19 school closures on academic achievement. Educational Researcher 49(8). https://doi.org/10.3102/0013189X20965918"
-    author: Megan Kuhfeld, James Soland, Beth Tarasawa, Angela Johnson, Erik Ruzek, Jing Liu
-    q: 2
-    i: "?"
-    kind: associational
-    rigour: "?"
   - id: kuhfeld-2020
-    resource: "https://www.nwea.org/research/publication/projecting-the-potential-impacts-of-covid-19-school-closures-on-academic-achievement/"
-    title: "Kuhfeld, M., Soland, J., Tarasawa, B., Johnson, A., Ruzek, E., & Liu, J. (2020). Projecting the potential impacts of COVID-19 school closures on academic achievement. NWEA Research working paper. https://www.nwea.org/research/publication/projecting-the-potential-impacts-of-covid-19-school-closures-on-academic-achievement/"
+    resource: "https://doi.org/10.3102/0013189X20965918"
+    title: "Kuhfeld, M., Soland, J., Tarasawa, B., Johnson, A., Ruzek, E., & Liu, J. (2020). Projecting the potential impact of COVID-19 school closures on academic achievement. *Educational Researcher, 49*(8), 549–565. https://doi.org/10.3102/0013189X20965918"
     author: "Kuhfeld, M., Soland, J., Tarasawa, B., Johnson, A., Ruzek, E., & Liu, J."
     q: 2
     i: "?"
@@ -31,16 +23,25 @@ sources:
 # Projected fall 2020 reading gains for returning students are approximately 63 to 68% of a typical school year's learning gains
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
-
-`q2 i?` Under the study's projections, returning students are expected to start fall 2020 with approximately 63 to 68% of the learning gains in reading relative to a typical school year. [→ Megan Kuhfeld 2020](#megan-kuhfeld-2020)
 
 `q2 i?` Under the study's projections, students are likely to return in fall 2020 with approximately 63-68% of the learning gains in reading relative to a typical school year. [→ Kuhfeld 2020](#kuhfeld-2020)
 
 ## Evidence
 
+### Kuhfeld 2020
+
+Kuhfeld, M., Soland, J., Tarasawa, B., Johnson, A., Ruzek, E., & Liu, J. (2020). Projecting the potential impact of COVID-19 school closures on academic achievement. *Educational Researcher, 49*(8), 549–565. https://doi.org/10.3102/0013189X20965918
+
+`q2 · i?` · `associational · r2`
+
+The projection analysis, based on estimates from prior literature on missing school and analyses of typical summer learning patterns, projects students return with "approximately 63-68% of the learning gains in reading relative to a typical school year." No effect size is printed.
+
+> "Under these projections, students are likely to return in fall 2020 with approximately 63-68% of the learning gains in reading relative to a typical school year"
+
+<!-- merged: a second write-up of the same study (Kuhfeld et al. 2020), folded into the entry above
 ### Megan Kuhfeld 2020
 
 Megan Kuhfeld, James Soland, Beth Tarasawa, Angela Johnson, Erik Ruzek, Jing Liu. (2020). Projecting the potential impact of COVID-19 school closures on academic achievement. Educational Researcher 49(8). https://doi.org/10.3102/0013189X20965918
@@ -50,16 +51,7 @@ Megan Kuhfeld, James Soland, Beth Tarasawa, Angela Johnson, Erik Ruzek, Jing Liu
 Projection study based on absenteeism-literature estimates and summer learning patterns of 5 million students. The authors state students would start fall 2020 with "approximately 63 to 68% of the learning gains in reading" relative to a typical school year; no effect size is printed.
 
 > "returning students are expected to start fall 2020 with approximately 63 to 68% of the learning gains in reading and 37 to 50% of the learning gains in mathematics relative to a typical school year"
-
-### Kuhfeld 2020
-
-Kuhfeld, M., Soland, J., Tarasawa, B., Johnson, A., Ruzek, E., & Liu, J. (2020). Projecting the potential impacts of COVID-19 school closures on academic achievement. NWEA Research working paper. https://www.nwea.org/research/publication/projecting-the-potential-impacts-of-covid-19-school-closures-on-academic-achievement/
-
-`q2 · i?` · `associational · r2`
-
-The working paper's projection analysis, based on estimates from prior literature on missing school and analyses of typical summer learning patterns, projects students return with "approximately 63-68% of the learning gains in reading relative to a typical school year." No effect size is printed.
-
-> "Under these projections, students are likely to return in fall 2020 with approximately 63-68% of the learning gains in reading relative to a typical school year"
+-->
 
 ## Discussion
 

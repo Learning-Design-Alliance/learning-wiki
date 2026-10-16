@@ -3,7 +3,7 @@ type: strategy
 id: scenario-construct-critique-reframe-arguments
 title: "Scenario B: constructing, critiquing, and reframing AI-mediated arguments"
 description: A multi-phase writing activity in which students first independently formulate a thesis with reasoning and evidence, then prompt an LLM for counterarguments and critique them using structured criteria focused on logic...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

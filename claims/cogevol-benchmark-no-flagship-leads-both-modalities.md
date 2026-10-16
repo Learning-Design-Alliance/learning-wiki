@@ -3,7 +3,7 @@ type: claim
 title: "On the report's internal suites CogEvol-27B scores 83.7 on slides and 63.7 on HTML-500 with zero hard failures, while no external flagship leads both modalities"
 description: "On the report's internal suites CogEvol-27B scores 83.7 on slides and 63.7 on HTML-500 with zero hard failures, while no external flagship leads both modalities"
 id: cogevol-benchmark-no-flagship-leads-both-modalities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

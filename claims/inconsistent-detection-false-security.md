@@ -3,7 +3,7 @@ type: claim
 title: "Copilot's detection of one advanced injection did not persist: after reporting an embedded instruction once, the same file's injection succeeded in six subsequent iterations without warning"
 description: "Copilot's detection of one advanced injection did not persist: after reporting an embedded instruction once, the same file's injection succeeded in six subsequent iterations without warning"
 id: inconsistent-detection-false-security
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: FCI change-score versus pretest-score data from three classes show linear relations at high pretest scores and curving-down at low scores, diagnosable as α- versus γ-process dominance
 description: FCI change-score versus pretest-score data from three classes show linear relations at high pretest scores and curving-down at low scores, diagnosable as α- versus γ-process dominance
 id: fci-change-score-curves-diagnose-processes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

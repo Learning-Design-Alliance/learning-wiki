@@ -3,7 +3,7 @@ type: design
 id: gai-role-modified-assignment-pattern
 title: "One assignment, three GAI role implementations: tutor, teammate, and tool modifications"
 description: The article presents a reusable assignment design pattern in which a single marketing assignment is modified for each GAI role.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

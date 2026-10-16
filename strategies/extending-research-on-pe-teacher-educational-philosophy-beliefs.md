@@ -3,7 +3,7 @@ type: strategy
 id: extending-research-on-pe-teacher-educational-philosophy-beliefs
 title: "Extending research on physical education teachers' educational philosophy beliefs"
 description: "The authors' forward-looking recommendations."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

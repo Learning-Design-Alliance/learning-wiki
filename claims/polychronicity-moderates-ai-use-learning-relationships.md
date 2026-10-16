@@ -3,7 +3,7 @@ type: claim
 title: Polychronicity moderates the relationships between effective AI use, AI over-reliance, and learning outcomes
 description: Polychronicity moderates the relationships between effective AI use, AI over-reliance, and learning outcomes
 id: polychronicity-moderates-ai-use-learning-relationships
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

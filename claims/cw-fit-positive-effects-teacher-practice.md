@@ -3,7 +3,7 @@ type: claim
 title: CW-FIT has positive effects on teacher practice, with promising WWC evidence across five studies in prekindergarten through grade 7
 description: CW-FIT has positive effects on teacher practice, with promising WWC evidence across five studies in prekindergarten through grade 7
 id: cw-fit-positive-effects-teacher-practice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

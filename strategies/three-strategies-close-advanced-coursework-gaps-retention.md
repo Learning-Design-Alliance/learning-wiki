@@ -3,7 +3,7 @@ type: strategy
 id: three-strategies-close-advanced-coursework-gaps-retention
 title: Three strategies for closing advanced coursework participation gaps and retaining students
 description: The article offers education leaders three strategies for promoting equity in advanced coursework participation, aimed at closing participation gaps and retaining students in advanced courses.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

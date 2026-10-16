@@ -3,7 +3,7 @@ type: claim
 title: "School characteristics were associated with participation: district-run schools, higher proportions of eligible students, and strong family engagement"
 description: "School characteristics were associated with participation: district-run schools, higher proportions of eligible students, and strong family engagement"
 id: school-characteristics-chicago-connected-participation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

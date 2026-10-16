@@ -3,7 +3,7 @@ type: strategy
 id: honor-family-expertise-culturally-responsive-engagement
 title: "Ground early childhood family-engagement programs in racial equity by honoring families' expertise and cultures"
 description: "ParentCorps' program model is \"deeply rooted in racial equity, including an emphasis on honoring families' expertise and cultures.\" Staff training is designed to help educators reflect on their beliefs about and the l..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

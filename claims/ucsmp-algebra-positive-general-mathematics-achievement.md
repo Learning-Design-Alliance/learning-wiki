@@ -4,7 +4,7 @@ title: UCSMP Algebra has potentially positive effects on general mathematics ach
 description: UCSMP Algebra has potentially positive effects on general mathematics achievement for secondary students, with a small extent of evidence
 id: ucsmp-algebra-positive-general-mathematics-achievement
 aliases: [ucsmp-algebra-potentially-positive-general-mathematics-achievement]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

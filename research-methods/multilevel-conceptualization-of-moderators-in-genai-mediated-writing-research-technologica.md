@@ -3,7 +3,7 @@ type: research-method
 id: multilevel-conceptualization-of-moderators-in-genai-mediated-writing-research-technologica
 title: Multilevel conceptualization of moderators in GenAI-mediated writing research (technological, learner, and contextual factors)
 description: The article proposes a multilevel framework for understanding variability in GenAI-mediated writing outcomes.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

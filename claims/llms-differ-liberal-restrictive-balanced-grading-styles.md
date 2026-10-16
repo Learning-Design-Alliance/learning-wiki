@@ -3,7 +3,7 @@ type: claim
 title: LLMs differ systematically in grading strictness, forming liberal, restrictive, and balanced grading styles on programming assignments
 description: LLMs differ systematically in grading strictness, forming liberal, restrictive, and balanced grading styles on programming assignments
 id: llms-differ-liberal-restrictive-balanced-grading-styles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

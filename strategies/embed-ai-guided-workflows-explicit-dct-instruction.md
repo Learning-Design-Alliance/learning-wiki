@@ -3,7 +3,7 @@ type: strategy
 id: embed-ai-guided-workflows-explicit-dct-instruction
 title: Embed AI in guided accept/reject/justify workflows, teach digital critical thinking explicitly, and integrate institutional authorship standards
 description: "The article's three practical implications for AI-supported writing instruction."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -55,6 +55,7 @@ The article's three practical implications for AI-supported writing instruction.
 - [Embed ethical inquiry into AI-supported instruction by having learners compare AI-generated texts with peer-reviewed sources](compare-ai-texts-with-peer-reviewed-sources.md)
 - [Embed explicit AI ethics instruction early and use scenario-based, guidance-oriented teaching](early-embedded-ai-ethics-instruction-strategy.md)
 - [Instructors integrating generative AI into writing-intensive courses should have students critically understand, access, prompt, vet and integrate AI-produced content](critical-ai-use-writing-intensive-stem-strategy.md)
+- [Provide timely automated feedback through an AI chatbot during EFL writing practice](ai-chatbot-feedback-writing-courses.md)
 
 ## Examples
 -

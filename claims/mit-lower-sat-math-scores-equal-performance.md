@@ -3,7 +3,7 @@ type: claim
 title: Women admitted to MIT with lower SAT math scores perform as well as men in freshman math classes
 description: Women admitted to MIT with lower SAT math scores perform as well as men in freshman math classes
 id: mit-lower-sat-math-scores-equal-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
@@ -53,3 +53,4 @@ Testimony of Phyllis Rosser citing MIT's admissions experience as evidence again
 - [Girls score lower than boys on timed standardized math and science tests at the same course level, and SAT math scores underpredict women's college math performance](timed-test-gender-gap-underpredicts-college-performance.md) — related
 - [The score gaps constitute evidence of sex differences in the validity of the SAT-M as a predictor of college math performance, though not of their cause](sex-differences-sat-m-predictive-validity.md) — reports the opposite
 - [Women scored about 33 SAT-M points lower than men who took the same math course and received the same grade](women-33-sat-points-lower-matched-course-grade.md) — related
+- [The fraction of women enrolling in mathematics degree programs in the UK and the Netherlands has remained constant despite rising female participation in higher education](female-mathematics-enrollment-fraction-constant-uk-netherlands.md) — related

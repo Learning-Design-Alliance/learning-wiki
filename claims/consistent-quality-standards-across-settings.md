@@ -3,7 +3,7 @@ type: claim
 title: "The five case study states hold LEA and non-LEA providers to consistent quality standards, including class size of 20 or less and 1:10 ratios"
 description: "The five case study states hold LEA and non-LEA providers to consistent quality standards, including class size of 20 or less and 1:10 ratios"
 id: consistent-quality-standards-across-settings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

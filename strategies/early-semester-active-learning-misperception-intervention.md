@@ -3,7 +3,7 @@ type: strategy
 id: early-semester-active-learning-misperception-intervention
 title: "Intervene early in the semester to address students' misperception that the cognitive effort of active learning signals poor learning"
 description: "The authors recommend that instructors counter students' inherent bias against active learning at the start of the semester, by \"explicitly presenting the value of increased cognitive efforts associated with active le..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

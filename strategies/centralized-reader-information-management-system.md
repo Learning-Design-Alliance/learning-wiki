@@ -3,7 +3,7 @@ type: strategy
 id: centralized-reader-information-management-system
 title: Install a centralized computer-based information management system with unique reader identifiers
 description: "The study finds that DBPH maintains minimal reader contact and has \"no single list of the readers it serves,\" with mailing lists maintained by multiple contractors and non-standard application forms across regions."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: "Participants held divided views on the star rating display: motivating feedback for some, a distracting oversimplification for others"
 description: "Participants held divided views on the star rating display: motivating feedback for some, a distracting oversimplification for others"
 id: divided-views-star-rating-display
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

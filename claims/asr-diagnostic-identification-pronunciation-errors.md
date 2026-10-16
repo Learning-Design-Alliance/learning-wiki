@@ -3,7 +3,7 @@ type: claim
 title: "ASR transcription serves as a diagnostic tool identifying individual learners' pronunciation errors, with function words most commonly mispronounced"
 description: "ASR transcription serves as a diagnostic tool identifying individual learners' pronunciation errors, with function words most commonly mispronounced"
 id: asr-diagnostic-identification-pronunciation-errors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

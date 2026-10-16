@@ -3,7 +3,7 @@ type: claim
 title: Cultivating activities in local nodes produced more tangible outcomes than statewide planning and networking
 description: Cultivating activities in local nodes produced more tangible outcomes than statewide planning and networking
 id: local-nodes-produce-tangible-alignment-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

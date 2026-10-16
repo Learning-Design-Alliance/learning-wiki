@@ -3,7 +3,7 @@ type: claim
 title: A general process for measuring item-level effort extends effort measurement to omitted and constructed responses
 description: A general process for measuring item-level effort extends effort measurement to omitted and constructed responses
 id: general-item-level-effort-process-expanded-item-types
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

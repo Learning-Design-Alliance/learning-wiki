@@ -3,7 +3,7 @@ type: strategy
 id: value-creating-principles-in-learning-objectives
 title: Incorporate value-creating principles within undergraduate course learning objectives to encourage transformative reflection and action
 description: "The authors recommend that, regardless of educational platform, instructors embed Makiguchian value-creating principles in undergraduate course learning objectives so that learning pursues \"not only..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -48,4 +48,4 @@ The authors recommend that, regardless of educational platform, instructors embe
 -
 
 ## Key Sources
-- Sherman, P., & Boukydis, O. (2020). Framing Undergraduate Perspectives on Experiential Learning Within Soka Education Theory. IAFOR Journal of Education: Undergraduate Education, 8(3). https://eric.ed.gov/?id=EJ1272497
+- Sherman, P., & Boukydis, O. (2020). Framing Undergraduate Perspectives on Experiential Learning Within Soka Education Theory. IAFOR Journal of Education: Undergraduate Education, 8(3). https://eric.ed.gov/?id=EJ1272497. [doi:10.22492/ije.8.3.05](https://doi.org/10.22492/ije.8.3.05)

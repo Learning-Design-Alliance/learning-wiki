@@ -3,7 +3,7 @@ type: strategy
 id: retired-teacher-reentry-earnings-cap-exemptions
 title: Remove barriers to retired-teacher re-entry—earnings cap exemptions and Deferred Retirement Option Programs—to fill immediate vacancies in shortage fields
 description: The report recommends eliminating barriers to re-entry for retired teachers as an immediate, lower-cost solution.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

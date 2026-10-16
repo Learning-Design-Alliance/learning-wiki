@@ -3,7 +3,7 @@ type: claim
 title: "Clarity matters less as concept structure becomes simpler: no significant clear-vs-unclear difference for constant successive lessons"
 description: "Clarity matters less as concept structure becomes simpler: no significant clear-vs-unclear difference for constant successive lessons"
 id: clarity-less-relevant-simpler-structures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

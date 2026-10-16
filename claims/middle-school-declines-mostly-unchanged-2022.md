@@ -3,7 +3,7 @@ type: claim
 title: Middle school achievement declines in spring 2022 appear to be mostly unchanged from earlier pandemic levels
 description: Middle school achievement declines in spring 2022 appear to be mostly unchanged from earlier pandemic levels
 id: middle-school-declines-mostly-unchanged-2022
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

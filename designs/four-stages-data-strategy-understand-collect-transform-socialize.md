@@ -3,7 +3,7 @@ type: design
 id: four-stages-data-strategy-understand-collect-transform-socialize
 title: Four-stage data strategy cycle — understand, collect, transform, socialize — carried by a data strategist working with a team leader
 description: This pattern describes how school-based data work is organized in NCS partner high schools.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

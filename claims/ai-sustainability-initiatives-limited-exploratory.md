@@ -3,7 +3,7 @@ type: claim
 title: Most AI-for-sustainability initiatives in higher education remain limited in scope, exploratory, and not integrated into institutional strategies
 description: Most AI-for-sustainability initiatives in higher education remain limited in scope, exploratory, and not integrated into institutional strategies
 id: ai-sustainability-initiatives-limited-exploratory
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

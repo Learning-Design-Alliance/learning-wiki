@@ -3,7 +3,7 @@ type: claim
 title: "Students' sense of belonging predicts their contributions to classroom knowledge building at both student and teacher levels"
 description: "Students' sense of belonging predicts their contributions to classroom knowledge building at both student and teacher levels"
 id: belonging-predicts-knowledge-building-contributions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

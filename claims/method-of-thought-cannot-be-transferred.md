@@ -3,7 +3,7 @@ type: claim
 title: "Mead holds that a method of thought cannot be transferred but must be gained through the learner's own abstractions"
 description: "Mead holds that a method of thought cannot be transferred but must be gained through the learner's own abstractions"
 id: method-of-thought-cannot-be-transferred
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

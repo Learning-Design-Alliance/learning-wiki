@@ -3,7 +3,7 @@ type: claim
 title: End-of-series reflection found faculty most valued collective airing of the shared problem, with stance shifts and some adoption of oral assessments
 description: End-of-series reflection found faculty most valued collective airing of the shared problem, with stance shifts and some adoption of oral assessments
 id: faculty-reflection-series-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -18,8 +18,8 @@ sources:
     kind: design
     rigour: 2
   - id: perl-nussbaum-2026-2
-    resource: "https://arxiv.org/abs/2609.23887"
-    title: "Perl-Nussbaum, D., & Finkelstein, N. D. (2026). A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community. https://arxiv.org/abs/2609.23887"
+    resource: "https://doi.org/10.48550/arxiv.2609.23887"
+    title: "Perl-Nussbaum, D., & Finkelstein, N. D. (2026). A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community. https://arxiv.org/abs/2609.23887. [doi:10.48550/arxiv.2609.23887](https://doi.org/10.48550/arxiv.2609.23887)"
     author: "Perl-Nussbaum, D., & Finkelstein, N. D."
     q: 1
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # End-of-series reflection found faculty most valued collective airing of the shared problem, with stance shifts and some adoption of oral assessments
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q1`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` In an end-of-series survey, faculty most valued seeing data and approaches from different courses over any single response, and some reported stance shifts toward AI. [→ Perl-Nussbaum 2026](#perl-nussbaum-2026)
@@ -50,7 +50,7 @@ End-of-series reflection survey of workshop participants asking about value, cha
 
 ### Perl-Nussbaum 2026 (2)
 
-Perl-Nussbaum, D., & Finkelstein, N. D. (2026). A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community. https://arxiv.org/abs/2609.23887
+Perl-Nussbaum, D., & Finkelstein, N. D. (2026). A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community. https://arxiv.org/abs/2609.23887. [doi:10.48550/arxiv.2609.23887](https://doi.org/10.48550/arxiv.2609.23887)
 
 `q1 · i?` · `design · r2`
 

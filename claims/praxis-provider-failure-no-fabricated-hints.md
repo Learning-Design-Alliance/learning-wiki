@@ -3,7 +3,7 @@ type: claim
 title: Injected provider failures produced recorded unavailability and zero fabricated hints, while valid and reentrant conditions stored 30 synthetic hints each
 description: Injected provider failures produced recorded unavailability and zero fabricated hints, while valid and reentrant conditions stored 30 synthetic hints each
 id: praxis-provider-failure-no-fabricated-hints
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

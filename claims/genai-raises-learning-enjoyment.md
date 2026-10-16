@@ -3,7 +3,7 @@ type: claim
 title: AI access makes learning more enjoyable but does not change self-assessed knowledge or felt effectiveness
 description: AI access makes learning more enjoyable but does not change self-assessed knowledge or felt effectiveness
 id: genai-raises-learning-enjoyment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

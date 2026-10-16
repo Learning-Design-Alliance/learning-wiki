@@ -3,7 +3,7 @@ type: research-method
 id: empirical-bayes-shrinkage-for-teacher-value-added-estimates
 title: Empirical Bayes shrinkage for teacher value-added estimates
 description: "Empirical Bayes shrinkage is described as \"an approach commonly used in implementing teacher accountability systems\" that adjusts value-added estimates."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

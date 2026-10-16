@@ -3,7 +3,7 @@ type: strategy
 id: integrate-evaluation-into-learning-process-participation
 title: Integrate evaluation into the learning process with learners participating in creating and understanding standards
 description: "The paper recommends resolving Constructivist evaluation problems through instruction's prescriptive function: evaluations should not simply be administered but integrated as part of the learning process."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

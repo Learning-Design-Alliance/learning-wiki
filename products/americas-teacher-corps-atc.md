@@ -4,7 +4,7 @@ id: americas-teacher-corps-atc
 title: "America's Teacher Corps (ATC)"
 description: A proposed federal programme to recognize highly effective K–12 public school teachers and provide eligible teachers, especially those in high-poverty Title I schools, with recognition, salary supplements, and a portable credential.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

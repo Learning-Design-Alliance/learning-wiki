@@ -3,7 +3,7 @@ type: claim
 title: Learners who could decide after a trial whether to receive knowledge of results estimated their own movement outcomes more accurately in retention than Self-Before learners and their yoked counterparts.
 description: Learners who could decide after a trial whether to receive knowledge of results estimated their own movement outcomes more accurately in retention than Self-Before learners and their yoked counterparts.
 id: self-controlled-kr-decided-after-trial-improves-error-estimation-accuracy
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

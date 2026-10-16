@@ -3,7 +3,7 @@ type: strategy
 id: learning-partner-supports-funder-grantee-me
 title: "Engage a learning partner to support funders and grantees in designing and carrying out a learning plan and building M&E capacity"
 description: "The brief states that \"a learning partner can support funders and their grantees to design and carry out a learning plan, build the capacity of grantees to conduct their own M&E activities, and interpret and share fin..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

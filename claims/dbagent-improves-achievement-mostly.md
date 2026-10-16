@@ -3,7 +3,7 @@ type: claim
 title: An LLM-based educational agent-enriched learning context improved task performance in most experimental classes but not all, with one experimental class underperforming the control on the complex task
 description: An LLM-based educational agent-enriched learning context improved task performance in most experimental classes but not all, with one experimental class underperforming the control on the complex task
 id: dbagent-improves-achievement-mostly
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

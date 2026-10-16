@@ -3,7 +3,7 @@ type: claim
 title: Student exposure to restorative practices improves standardized test performance and reduces suspension probability and duration
 description: Student exposure to restorative practices improves standardized test performance and reduces suspension probability and duration
 id: restorative-practice-exposure-improves-achievement-reduces-suspension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Automatically updating the flowchart and injecting generated code into editors drew participants away from explanations and toward direct code editing
 description: Automatically updating the flowchart and injecting generated code into editors drew participants away from explanations and toward direct code editing
 id: auto-updates-drew-users-from-explanations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

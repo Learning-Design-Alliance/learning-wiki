@@ -3,7 +3,7 @@ type: strategy
 id: teacher-sponsorship-of-industrial-arts-clubs
 title: Teachers sponsor student industrial arts clubs to build leadership, attitudes, and public relations
 description: "The AIASA president's address calls on AIAA members to serve as club leaders in their own schools, arguing that teacher sponsorship is the decisive factor in whether student industrial arts clubs flourish."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

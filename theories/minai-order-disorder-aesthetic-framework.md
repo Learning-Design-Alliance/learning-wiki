@@ -2,7 +2,7 @@
 type: theory
 title: "Minai's order-disorder framework for aesthetic environmental design"
 description: "Minai's framework treats the design of aesthetic environments as grounded in an order-disorder continuum rather than in formal rationality alone."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

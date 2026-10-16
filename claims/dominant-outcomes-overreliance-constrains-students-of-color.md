@@ -3,7 +3,7 @@ type: claim
 title: Overreliance on dominant outcomes constrains learning and mathematical identity of students of color
 description: Overreliance on dominant outcomes constrains learning and mathematical identity of students of color
 id: dominant-outcomes-overreliance-constrains-students-of-color
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

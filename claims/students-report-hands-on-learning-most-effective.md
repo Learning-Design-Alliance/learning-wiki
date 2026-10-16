@@ -3,7 +3,7 @@ type: claim
 title: High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets
 description: High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets
 id: students-report-hands-on-learning-most-effective
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: companion-toolkit-improving-prek-kindergarten-attendance
 title: Pair attendance-improvement efforts with a companion toolkit for districts, schools, and early childhood providers
 description: "Alongside the parent infographic, the publisher released a companion resource: \"Strategies for Improving Attendance in Pre-Kindergarten and Kindergarten: Toolkit for Districts, Schools, and Early Childhood Providers,\"..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

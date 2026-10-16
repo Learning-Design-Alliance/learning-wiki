@@ -3,7 +3,7 @@ type: claim
 title: Expert EAP reviewers rated GenAI-generated differentiated materials favorably for academic fidelity, proficiency appropriateness, and teachability
 description: Expert EAP reviewers rated GenAI-generated differentiated materials favorably for academic fidelity, proficiency appropriateness, and teachability
 id: genai-eap-materials-favorable-expert-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: state-board-actions-realistic-targets-data-infrastructure-collaborative-time
 title: State boards should set realistic annual targets and invest in data infrastructure and collaborative time for improvement
 description: "The article recommends a set of actions for state boards of education: seek evidence of malleability and predictive power for proposed indicators, \"set realistic annual targets grounded in what schools can genuinely a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

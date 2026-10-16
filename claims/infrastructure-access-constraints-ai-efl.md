@@ -3,7 +3,7 @@ type: claim
 title: "Infrastructure and access constraints were reported in 18 of 54 studies (33%) as the second higher-order technical limitation category"
 description: "Infrastructure and access constraints were reported in 18 of 54 studies (33%) as the second higher-order technical limitation category"
 id: infrastructure-access-constraints-ai-efl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

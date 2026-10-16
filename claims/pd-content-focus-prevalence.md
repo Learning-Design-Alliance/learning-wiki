@@ -3,7 +3,7 @@ type: claim
 title: "Content-focused, job-embedded PD linked to student gains: 31 of 35 reviewed studies featured a specific content focus"
 description: "Content-focused, job-embedded PD linked to student gains: 31 of 35 reviewed studies featured a specific content focus"
 id: pd-content-focus-prevalence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

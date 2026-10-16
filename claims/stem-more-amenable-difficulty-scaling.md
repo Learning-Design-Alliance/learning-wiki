@@ -3,7 +3,7 @@ type: claim
 title: Teachers in the formative study agreed lesson plans need adjustment when student ability diverges, with STEM subjects more amenable to difficulty scaling than humanities subjects
 description: Teachers in the formative study agreed lesson plans need adjustment when student ability diverges, with STEM subjects more amenable to difficulty scaling than humanities subjects
 id: stem-more-amenable-difficulty-scaling
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

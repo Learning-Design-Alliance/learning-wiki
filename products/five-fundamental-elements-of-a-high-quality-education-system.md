@@ -4,7 +4,7 @@ id: five-fundamental-elements-of-a-high-quality-education-system
 title: Five fundamental elements of a high-quality education system
 description: A policy framework from Oakes et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

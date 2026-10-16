@@ -3,7 +3,7 @@ type: claim
 title: Treatment-group students increased significantly more than Delayed Treatment students on math-in-science-context tasks from pretest to midtest and pretest to posttest
 description: Treatment-group students increased significantly more than Delayed Treatment students on math-in-science-context tasks from pretest to midtest and pretest to posttest
 id: treatment-greater-gains-math-in-science-context-tasks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

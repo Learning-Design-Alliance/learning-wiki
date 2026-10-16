@@ -3,7 +3,7 @@ type: claim
 title: Contrasting workshop practices (random vs. purposeful grouping) framed the problem of labeling students around local context and teacher agency
 description: Contrasting workshop practices (random vs.
 id: grouping-practices-framed-labeling-problem
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

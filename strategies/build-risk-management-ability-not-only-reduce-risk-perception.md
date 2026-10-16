@@ -3,7 +3,7 @@ type: strategy
 id: build-risk-management-ability-not-only-reduce-risk-perception
 title: "AI risk management should build students' ability to understand, manage, and respond to AI-related risks, not only reduce perceived risks"
 description: Based on the finding that risk perception is not uniformly detrimental—security risk perception positively predicted academic and skill benefits and threshold analysis showed positive effects above critical levels—the...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

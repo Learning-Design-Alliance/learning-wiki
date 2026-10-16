@@ -3,7 +3,7 @@ type: claim
 title: "Structuring positive interdependence (role, reward, or both) did not affect posttest achievement for undergraduate business majors in asynchronous online small group work"
 description: "Structuring positive interdependence (role, reward, or both) did not affect posttest achievement for undergraduate business majors in asynchronous online small group work"
 id: interdependence-type-no-achievement-effect-asynchronous
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

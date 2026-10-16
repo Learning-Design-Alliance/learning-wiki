@@ -3,7 +3,7 @@ type: claim
 title: English learner students were more often identified at risk overall, but those with low English proficiency on ACCESS were not necessarily below benchmark; a little over one third of English learners meeting benchmark scored at the two lowest ACCESS proficiency levels
 description: English learner students were more often identified at risk overall, but those with low English proficiency on ACCESS were not necessarily below benchmark; a little over one third of English learners meeting benchmark...
 id: el-low-access-proficiency-not-always-below-benchmark
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

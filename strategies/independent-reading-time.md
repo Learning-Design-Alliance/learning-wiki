@@ -150,7 +150,7 @@ Independent reading builds fluency and vocabulary through volume of authentic re
 - Reading workshop — the larger instructional structure that houses SIR
 
 ## Examples
-- **Reading Workshop (Teachers College Reading & Writing Project)** — mini-lesson, extended independent reading with conferring, and mid-workshop teaching points (https://readingandwritingproject.org)
+- **[Reading Workshop](reading-workshop.md) (Teachers College Reading & Writing Project)** — mini-lesson, extended independent reading with conferring, and mid-workshop teaching points (https://readingandwritingproject.org)
 - **DEAR (Drop Everything and Read)** — school-wide scheduled independent reading, e.g., the national DEAR program (https://www.dropeverythingandread.com)
 - **First Chapter Fridays** — teacher reads aloud the opening of a high-interest book, then places it in the independent reading library to drive selection
 - **[Reading Workshop](https://www.heinemann.com)** (Lucy Calkins, Teachers College Reading and Writing Project) — a published curriculum in which independent reading with conferring is the daily core.
@@ -180,7 +180,7 @@ Independent reading builds fluency and vocabulary through volume of authentic re
 - Kuhn, M. R., Schwanenflugel, P. J., Morris, R. D., Morrow, L. M., Woo, D. G., Meisinger, E. B., Savis, R. A., Sevcik, R. A., & Bradley, B. A. (2006). Teaching children to become fluent and automatic readers. *Journal of Literacy Research, 38*(4), 357–387. [doi:10.1207/s15548430jlr3804_1](https://doi.org/10.1207/s15548430jlr3804_1)
 - Moss, B., & Young, T. A. (2010). *Creating lifelong readers through independent reading*. International Reading Association.
 - National Reading Panel (2000). *Teaching children to read: An evidence-based assessment of the scientific research literature on reading and its implications for reading instruction*. National Institute of Child Health and Human Development.
-- Guthrie, J. T., Wigfield, A., & Humenick, N. M. (2006). Influences of stimulating tasks on reading motivation and comprehension. *Journal of Educational Research, 99*(4), 232–245. [doi:10.3200/joer.99.4.232-246](https://doi.org/10.3200/joer.99.4.232-246)
+- Guthrie, J. T., Wigfield, A., Humenick, N. M., Perencevich, K. C., Taboada, A., & Barbosa, P. (2006). Influences of stimulating tasks on reading motivation and comprehension. *The Journal of Educational Research, 99*(4), 232–246. [doi:10.3200/joer.99.4.232-246](https://doi.org/10.3200/joer.99.4.232-246)
 - Kuhn, M. R., Schwanenflugel, P. J., Morris, R. D., Morrow, L. M., Woo, D. G., Meisinger, E. B., Sevcik, R. A., Bradley, B., & Stahl, S. A. (2006). Teaching children to become fluent and automatic readers. *Journal of Literacy Research, 38*(4), 357–387. [doi:10.1207/s15548430jlr3804_1](https://doi.org/10.1207/s15548430jlr3804_1)
 - Krashen, S. (2004). *The power of reading: Insights from the research* (2nd ed.). Libraries Unlimited.
 - Moss, B., & Young, T. (2010). *Creating lifelong readers through independent reading*. International Reading Association.
@@ -359,7 +359,7 @@ Independent reading provides the volume of practice that builds fluency, vocabul
 - Krashen, S. D. (2004). *The power of reading: Insights from the research* (2nd ed.). Libraries Unlimited/Heinemann.
 - Moss, B., & Young, T. A. (2010). *Creating lifelong readers through independent reading*. International Reading Association.
 - National Reading Panel (2000). *Teaching children to read: An evidence-based assessment of the scientific research literature on reading and its implications for reading instruction*. National Institute of Child Health and Human Development.
-- Guthrie, J. T., Wigfield, A., & Humenick, N. M. (2006). Influences of stimulating tasks on reading motivation and comprehension. *Journal of Educational Research, 99*(4), 232–245. [doi:10.3200/joer.99.4.232-246](https://doi.org/10.3200/joer.99.4.232-246)
+- Guthrie, J. T., Wigfield, A., Humenick, N. M., Perencevich, K. C., Taboada, A., & Barbosa, P. (2006). Influences of stimulating tasks on reading motivation and comprehension. *The Journal of Educational Research, 99*(4), 232–246. [doi:10.3200/joer.99.4.232-246](https://doi.org/10.3200/joer.99.4.232-246)
 - Kuhn, M. R., Schwanenflugel, P. J., Morris, R. D., Morrow, L. M., Woo, D. G., Meisinger, E. B., Sevcik, R. A., Bradley, B., & Stahl, S. A. (2006). Teaching children to become fluent and automatic readers. *Journal of Literacy Research, 38*(4), 357–387. [doi:10.1207/s15548430jlr3804_1](https://doi.org/10.1207/s15548430jlr3804_1)
 - Krashen, S. (2004). *The power of reading: Insights from the research* (2nd ed.). Libraries Unlimited.
 - Moss, B., & Young, T. (2010). *Creating lifelong readers through independent reading*. International Reading Association.
@@ -432,7 +432,7 @@ Independent reading works as deliberate [practice](../elements/practice.md) for 
 - **First Book and classroom library initiatives** — increasing book access alone measurably increases reading volume in book-scarce communities.
 
 ## Key Sources
-- Guthrie, J. T., Wigfield, A., & Humenick, N. M. (2006). Influences of stimulating tasks on reading motivation and comprehension. *Journal of Educational Research, 99*(4), 232–245. [doi:10.3200/joer.99.4.232-246](https://doi.org/10.3200/joer.99.4.232-246)
+- Guthrie, J. T., Wigfield, A., Humenick, N. M., Perencevich, K. C., Taboada, A., & Barbosa, P. (2006). Influences of stimulating tasks on reading motivation and comprehension. *The Journal of Educational Research, 99*(4), 232–246. [doi:10.3200/joer.99.4.232-246](https://doi.org/10.3200/joer.99.4.232-246)
 - Kuhn, M. R., Schwanenflugel, P. J., Morris, R. D., Morrow, L. M., Woo, D. G., Meisinger, E. B., Sevcik, R. A., Bradley, B., & Stahl, S. A. (2006). Teaching children to become fluent and automatic readers. *Journal of Literacy Research, 38*(4), 357–387. [doi:10.1207/s15548430jlr3804_1](https://doi.org/10.1207/s15548430jlr3804_1)
 - Krashen, S. (2004). *The power of reading: Insights from the research* (2nd ed.). Libraries Unlimited.
 - Moss, B., & Young, T. (2010). *Creating lifelong readers through independent reading*. International Reading Association.

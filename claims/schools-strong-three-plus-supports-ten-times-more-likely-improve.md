@@ -4,7 +4,7 @@ title: Elementary schools strong in three or more of the five essential supports
 description: Elementary schools strong in three or more of the five essential supports were ten times more likely to substantially improve student math and reading scores (attributed to Bryk et al., 2010)
 id: schools-strong-three-plus-supports-ten-times-more-likely-improve
 aliases: [strong-supports-cluster-ten-times-more-likely-to-improve]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

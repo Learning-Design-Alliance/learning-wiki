@@ -3,7 +3,7 @@ type: claim
 title: LLM error simulation rarely fails, but the model is less likely to reproduce a targeted distractor on problems with longer correct solutions
 description: LLM error simulation rarely fails, but the model is less likely to reproduce a targeted distractor on problems with longer correct solutions
 id: error-simulation-accurate-but-longer-solutions-harder
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

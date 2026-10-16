@@ -3,7 +3,7 @@ type: claim
 title: Two years of comprehensive teacher induction can boost student achievement compared with business-as-usual induction
 description: Two years of comprehensive teacher induction can boost student achievement compared with business-as-usual induction
 id: two-year-comprehensive-induction-boosts-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

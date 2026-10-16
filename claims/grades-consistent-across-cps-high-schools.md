@@ -3,7 +3,7 @@ type: claim
 title: "CPS graduates' grades are fairly consistent across high schools for students with similar test scores, challenging the myth that an A means less at lower-performing schools"
 description: "CPS graduates' grades are fairly consistent across high schools for students with similar test scores, challenging the myth that an A means less at lower-performing schools"
 id: grades-consistent-across-cps-high-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

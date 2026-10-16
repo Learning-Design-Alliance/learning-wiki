@@ -3,7 +3,7 @@ type: claim
 title: Participants reported satisfaction with selected Way2Work Maryland service components
 description: Participants reported satisfaction with selected Way2Work Maryland service components
 id: way2work-participant-satisfaction-service-components
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

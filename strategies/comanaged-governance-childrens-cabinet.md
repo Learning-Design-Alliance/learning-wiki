@@ -3,7 +3,7 @@ type: strategy
 id: comanaged-governance-childrens-cabinet
 title: "Comanaged initiative governance with a cross-sector Children's Cabinet"
 description: "The consortium designated comanagers—a district administrator and an external consultant—who \"lent necessary administrative capacity and visionary leadership,\" embracing adaptive and collaborative leadership strategie..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

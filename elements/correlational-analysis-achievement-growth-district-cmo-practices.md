@@ -3,7 +3,7 @@ type: element
 id: correlational-analysis-achievement-growth-district-cmo-practices
 title: Correlational analysis linking student achievement growth to district and CMO policies and practices
 description: "As one of its three study activities, the report \"conducted a correlational analysis to understand the relationship between growth in student achievement and district and CMO policies and practices.\" This analysis, to..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

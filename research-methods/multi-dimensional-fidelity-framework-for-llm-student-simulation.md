@@ -3,7 +3,7 @@ type: research-method
 id: multi-dimensional-fidelity-framework-for-llm-student-simulation
 title: Multi-dimensional fidelity framework for LLM student simulation
 description: "The article names competency bias as \"the inherent tendency of preference-tuned models to produce correct solutions even when prompted to simulate novice students\", and frames simulating learners as a multi-dimensional fidelity problem with behavioral, epistemic, and perceptual components."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

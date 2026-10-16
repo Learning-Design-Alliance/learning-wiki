@@ -4,7 +4,7 @@ id: meta-analytic-dataset-of-38-rae-studies-across-14-sports-and-16-countries
 title: Meta-analytic dataset of 38 RAE studies across 14 sports and 16 countries
 description: A dataset assembled and reanalysed by Cobley et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-14

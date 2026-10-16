@@ -3,7 +3,7 @@ type: claim
 title: Culturally and religiously grounded educational contexts function as sensitivity amplifiers revealing conditional dynamics of AI integration
 description: Culturally and religiously grounded educational contexts function as sensitivity amplifiers revealing conditional dynamics of AI integration
 id: value-based-contexts-sensitivity-amplifiers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

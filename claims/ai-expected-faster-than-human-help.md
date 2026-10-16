@@ -3,7 +3,7 @@ type: claim
 title: People expect AI assistance to save far more time than assistance from another highly intelligent human participant
 description: People expect AI assistance to save far more time than assistance from another highly intelligent human participant
 id: ai-expected-faster-than-human-help
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

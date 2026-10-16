@@ -3,7 +3,7 @@ type: claim
 title: High school students participated in synchronous remote instruction on more days than they were counted present, suggesting under-minutes rather than full-day absence drove their absences
 description: High school students participated in synchronous remote instruction on more days than they were counted present, suggesting under-minutes rather than full-day absence drove their absences
 id: hs-remote-absence-driven-by-minutes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

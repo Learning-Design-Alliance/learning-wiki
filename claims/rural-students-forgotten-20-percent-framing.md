@@ -3,7 +3,7 @@ type: claim
 title: Rural students are characterized as a substantially sized but overlooked group, comprising about 20 percent of the national student population
 description: Rural students are characterized as a substantially sized but overlooked group, comprising about 20 percent of the national student population
 id: rural-students-forgotten-20-percent-framing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

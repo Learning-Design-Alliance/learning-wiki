@@ -3,7 +3,7 @@ type: claim
 title: Students using an AR system for plant study showed higher learning motivation than a control group
 description: Students using an AR system for plant study showed higher learning motivation than a control group
 id: arflora-ar-higher-motivation-plant-study
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

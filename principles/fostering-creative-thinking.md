@@ -170,6 +170,7 @@ Output during an activity, originality judged by raters, interest afterwards, un
 - A student, running a computational model with 31 guppies to match her planned physical biosphere, paused mid-simulation and said "that's how it's gonna look—it's gonna be so lonely," then revised the model to 1 guppy — a modeling decision driven by a caring commitment the curriculum never assigned as a goal.
 - Two students presenting food-web diagrams of the same ecosystem in different formats (one an "energy pyramid," one organized around habitats) were asked by the teacher what each model showed, rather than which was more correct — both were retained as valid, complementary representations.
 - Think first, AI later: university students list their own ideas for improving a product before opening ChatGPT, then use it to extend the list; their originality is judged on a later task done without it.
+- [Design AI feedback and task scope to leave room for open-ended creative exploration](../strategies/open-ended-exploration-ai-feedback-design.md)
 
 ## Key Sources
 - Gardner, H. (1993). *Creating minds: An anatomy of creativity seen through the lives of Freud, Einstein, Picasso, Stravinsky, Eliot, Graham, and Gandhi*. Basic Books.
@@ -183,7 +184,7 @@ Output during an activity, originality judged by raters, interest afterwards, un
 - Claxton, G., Edwards, S., & Scale-Constantinou, V. (2006). Cultivating creative mentality: Implications for education. *Thinking Skills and Creativity, 1*(1), 57-61.
 - Arduini-Van Hoose, N. (2020). Creative thinking. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
 - Lundberg, M., & Rasmussen, J. (2018). Foundational Principles and Practices to Consider in Assessing Maker Education. i-manager's Journal of Educational Technology, Vol. 14 No. 4, January - March 2018. https://eric.ed.gov/?id=EJ1179517
-- Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H. (2013). Technology-Enabled Nurturing of Creativity and Innovation: A Specific Illustration from an Undergraduate Engineering Physics Course. https://arxiv.org/abs/1308.2434
+- Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H. (2013). Technology-Enabled Nurturing of Creativity and Innovation: A Specific Illustration from an Undergraduate Engineering Physics Course. https://arxiv.org/abs/1308.2434. [doi:10.48550/arxiv.1308.2434](https://doi.org/10.48550/arxiv.1308.2434)
 - Pierson, A. E., Brady, C. E., Clark, D. B., & Sengupta, P. (2023). Students' Epistemic Commitments in a Heterogeneity-Seeking Modeling Curriculum. *Cognition and Instruction, 41*(2), 125-157. [https://doi.org/10.1080/07370008.2022.2111431](https://doi.org/10.1080/07370008.2022.2111431)
 
 <!-- deprecated 2026-10-15: superseded by the conditional model above. The previous body, kept verbatim.
@@ -271,7 +272,7 @@ This creates a genuine tension for teachers, who must evaluate students' learnin
 - Claxton, G., Edwards, S., & Scale-Constantinou, V. (2006). Cultivating creative mentality: Implications for education. *Thinking Skills and Creativity, 1*(1), 57-61.
 - Arduini-Van Hoose, N. (2020). Creative thinking. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
 - Lundberg, M., & Rasmussen, J. (2018). Foundational Principles and Practices to Consider in Assessing Maker Education. i-manager's Journal of Educational Technology, Vol. 14 No. 4, January - March 2018. https://eric.ed.gov/?id=EJ1179517
-- Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H. (2013). Technology-Enabled Nurturing of Creativity and Innovation: A Specific Illustration from an Undergraduate Engineering Physics Course. https://arxiv.org/abs/1308.2434
+- Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H. (2013). Technology-Enabled Nurturing of Creativity and Innovation: A Specific Illustration from an Undergraduate Engineering Physics Course. https://arxiv.org/abs/1308.2434. [doi:10.48550/arxiv.1308.2434](https://doi.org/10.48550/arxiv.1308.2434)
 - Pierson, A. E., Brady, C. E., Clark, D. B., & Sengupta, P. (2023). Students' Epistemic Commitments in a Heterogeneity-Seeking Modeling Curriculum. *Cognition and Instruction, 41*(2), 125-157. [https://doi.org/10.1080/07370008.2022.2111431](https://doi.org/10.1080/07370008.2022.2111431)
 
 -->
@@ -351,7 +352,7 @@ The article argues that nurturing creativity in STEM requires "creating a non-th
 -
 
 ## Key Sources
-- Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H. (2013). Technology-Enabled Nurturing of Creativity and Innovation: A Specific Illustration from an Undergraduate Engineering Physics Course. https://arxiv.org/abs/1308.2434
+- Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H. (2013). Technology-Enabled Nurturing of Creativity and Innovation: A Specific Illustration from an Undergraduate Engineering Physics Course. https://arxiv.org/abs/1308.2434. [doi:10.48550/arxiv.1308.2434](https://doi.org/10.48550/arxiv.1308.2434)
 -->
 
 <!-- merged 2026-10-14 from patterns/heterogeneity-seeking-modeling-curriculum ("Heterogeneity-Seeking Modeling Curriculum"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.

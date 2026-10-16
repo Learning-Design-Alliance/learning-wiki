@@ -3,7 +3,7 @@ type: claim
 title: Open collaboration involved more prompts, greater text incorporation, less self-generated text, and deeper idea and reasoning offloading than bounded support
 description: Open collaboration involved more prompts, greater text incorporation, less self-generated text, and deeper idea and reasoning offloading than bounded support
 id: open-collaboration-process-intensity-profile
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "An emotional connection to nature, rather than conservation knowledge, is a powerful predictor of children's conservation behavior"
 description: "An emotional connection to nature, rather than conservation knowledge, is a powerful predictor of children's conservation behavior"
 id: emotional-connection-predicts-conservation-behavior
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

@@ -3,7 +3,7 @@ type: claim
 title: "A recent school move or a single move shows no evidence of relation to children's academic or social functioning"
 description: "A recent school move or a single move shows no evidence of relation to children's academic or social functioning"
 id: recent-single-school-move-no-functioning-link
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

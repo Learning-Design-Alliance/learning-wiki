@@ -3,7 +3,7 @@ type: claim
 title: In the grade 12 quasi-experimental evaluation, there was no statistically significant difference in achievement between ERWC and comparison students for either the Non-PT ICA or the PT ICA sample
 description: In the grade 12 quasi-experimental evaluation, there was no statistically significant difference in achievement between ERWC and comparison students for either the Non-PT ICA or the PT ICA sample
 id: grade-12-erwc-no-significant-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

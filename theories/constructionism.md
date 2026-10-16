@@ -3,7 +3,7 @@ type: theory
 title: Constructionism
 description: Constructionism holds that learning is most effective when a learner actively builds a public, shareable, inspectable artifact — not just any active engagement, but the specific act of constructing something concrete that embodies an idea.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-28

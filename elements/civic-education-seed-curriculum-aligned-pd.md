@@ -3,7 +3,7 @@ type: element
 id: civic-education-seed-curriculum-aligned-pd
 title: Center for Civic Education SEED-grant professional development aligned to its civics curriculum
 description: A professional development effort implemented by the Center for Civic Education and aligned to its civics curriculum, carried out under a U.S.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Follow-up fixation rate on the primary AOI did not differ significantly between gaze-based and baseline assistance
 description: Follow-up fixation rate on the primary AOI did not differ significantly between gaze-based and baseline assistance
 id: primary-aoi-followup-rate-no-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Most teachers believe their REACH evaluation relies too heavily on student growth and question the fairness of the growth assessments
 description: Most teachers believe their REACH evaluation relies too heavily on student growth and question the fairness of the growth assessments
 id: reach-teachers-question-student-growth-weight-fairness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

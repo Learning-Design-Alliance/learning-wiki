@@ -3,7 +3,7 @@ type: research-method
 id: classical-test-theory-decision-consistency-estimation-methods
 title: Classical test theory decision consistency estimation methods
 description: "The article organizes single-administration decision consistency estimation around three CTT methods: Livingston and Lewis (LL-DC), which assumes a beta-binomial distribution and uses effective test length; Peng-Subkoviak (PS-DC), a normal approximation extending Huynh's procedure; and Wolkowitz (W-"
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

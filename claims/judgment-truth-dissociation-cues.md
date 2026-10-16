@@ -3,7 +3,7 @@ type: claim
 title: "Judgment-truth dissociation: the same cues that predict ground-truth identity are only weakly incorporated into explicit identity judgments"
 description: "Judgment-truth dissociation: the same cues that predict ground-truth identity are only weakly incorporated into explicit identity judgments"
 id: judgment-truth-dissociation-cues
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

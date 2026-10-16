@@ -3,7 +3,7 @@ type: claim
 title: "Long-term outcomes showed few benefits: slight increases in upper-level math credits for low-ability students but slightly lower final GPAs and reduced 4-year college enrollment for others"
 description: "Long-term outcomes showed few benefits: slight increases in upper-level math credits for low-ability students but slightly lower final GPAs and reduced 4-year college enrollment for others"
 id: long-term-outcomes-few-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

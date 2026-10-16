@@ -3,7 +3,7 @@ type: claim
 title: "Gaps in academic skills between children narrowed at kindergarten entry, per the article's abstract"
 description: "Gaps in academic skills between children narrowed at kindergarten entry, per the article's abstract"
 id: shrinking-gaps-kindergarten-entry
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

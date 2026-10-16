@@ -4,7 +4,7 @@ id: curated-library-of-375-abstract-graph-templates-built-with-12-stem-educators
 title: Curated library of 375 abstract graph templates built with 12 STEM educators
 description: A research dataset of 375 unlabeled engineering graph templates curated with 12 STEM educators from electrical engineering, computer science, and systems engineering departments for retrieving canonical structural patterns in student-submitted diagrams.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

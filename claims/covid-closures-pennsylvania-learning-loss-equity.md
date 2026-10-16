@@ -3,7 +3,7 @@ type: claim
 title: COVID-19 school closures in Pennsylvania are likely to have caused substantial learning losses, with harms concentrated in populations also disproportionately harmed by the disease
 description: COVID-19 school closures in Pennsylvania are likely to have caused substantial learning losses, with harms concentrated in populations also disproportionately harmed by the disease
 id: covid-closures-pennsylvania-learning-loss-equity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

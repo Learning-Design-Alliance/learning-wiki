@@ -3,7 +3,7 @@ type: claim
 title: "The 14-LO attribute structure improved DINA model fit over MCD-v1's four-skill structure for all three RBAs"
 description: "The 14-LO attribute structure improved DINA model fit over MCD-v1's four-skill structure for all three RBAs"
 id: 14-lo-structure-improved-fit-over-mcd-v1
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

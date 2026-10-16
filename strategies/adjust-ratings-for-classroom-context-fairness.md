@@ -3,7 +3,7 @@ type: strategy
 id: adjust-ratings-for-classroom-context-fairness
 title: Improve evaluation fairness by statistically adjusting ratings for classroom characteristics, comparing teachers within similar contexts, and training evaluators on contextual influences
 description: "The article recommends district-level practices to reduce composition-driven bias in teacher evaluation: \"Adjusting ratings statistically for classroom characteristics\", \"Comparing teachers within similar classroom co..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

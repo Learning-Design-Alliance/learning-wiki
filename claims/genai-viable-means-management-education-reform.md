@@ -3,7 +3,7 @@ type: claim
 title: "The article argues that widespread adoption of generative AI creates a viable means of addressing management education's memorization-centered challenges"
 description: "The article argues that widespread adoption of generative AI creates a viable means of addressing management education's memorization-centered challenges"
 id: genai-viable-means-management-education-reform
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Excessive dependence on AI may reduce human interaction and dehumanize adult education
 description: Excessive dependence on AI may reduce human interaction and dehumanize adult education
 id: over-reliance-ai-reduces-human-interaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

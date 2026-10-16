@@ -4,7 +4,7 @@ id: four-metric-faculty-equity-grading-framework
 title: Four-metric faculty equity grading framework
 description: A four-metric framework developed by Bitar et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

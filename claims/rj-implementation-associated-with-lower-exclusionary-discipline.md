@@ -3,7 +3,7 @@ type: claim
 title: Schools implementing restorative justice report decreases in exclusionary discipline such as suspensions and expulsions
 description: Schools implementing restorative justice report decreases in exclusionary discipline such as suspensions and expulsions
 id: rj-implementation-associated-with-lower-exclusionary-discipline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

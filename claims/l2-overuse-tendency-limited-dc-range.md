@@ -3,7 +3,7 @@ type: claim
 title: L2 writers tend to overuse more discourse connectives than they underuse, and both L1 and L2 students have a limited range of DCs at their disposal
 description: L2 writers tend to overuse more discourse connectives than they underuse, and both L1 and L2 students have a limited range of DCs at their disposal
 id: l2-overuse-tendency-limited-dc-range
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

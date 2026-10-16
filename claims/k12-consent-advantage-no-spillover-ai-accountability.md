@@ -3,7 +3,7 @@ type: claim
 title: "K-12 platforms scored higher on children's consent where regulation is explicit, but the advantage did not extend to AI disclosure or accountability"
 description: "K-12 platforms scored higher on children's consent where regulation is explicit, but the advantage did not extend to AI disclosure or accountability"
 id: k12-consent-advantage-no-spillover-ai-accountability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

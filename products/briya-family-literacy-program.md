@@ -4,7 +4,7 @@ id: briya-family-literacy-program
 title: Briya family literacy program
 description: Briya Public Charter School runs this free Washington, D.C., family-literacy programme, providing adults with English, digital-literacy, and parenting education while their children receive early education.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

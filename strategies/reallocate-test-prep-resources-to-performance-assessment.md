@@ -3,7 +3,7 @@ type: strategy
 id: reallocate-test-prep-resources-to-performance-assessment
 title: Reallocate resources from test preparation and interim assessments to performance task development and scoring as professional learning
 description: The report recommends that leaders consider the potential for meaningful and sustained professional learning when making resource allocation and budgeting decisions.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

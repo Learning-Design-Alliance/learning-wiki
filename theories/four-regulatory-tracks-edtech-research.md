@@ -2,7 +2,7 @@
 type: theory
 title: Four regulatory tracks framework for edtech efficacy studies
 description: The guide organizes edtech study planning around four broad regulatory pathways determined chiefly by whether the research team can ascertain student identity.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

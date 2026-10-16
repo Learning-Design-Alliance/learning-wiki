@@ -3,7 +3,7 @@ type: element
 id: how-people-learn-expanded-edition-volume
 title: "How People Learn: Brain, Mind, Experience, and School (Expanded Edition)"
 description: A National Research Council consensus volume synthesizing the science of learning and its implications for teaching.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: research-method
 id: between-student-testing-and-response-curve-method
 title: Between-student testing and response-curve method
 description: The between-student method, first used in physics by Sayre and Heckler, gives short conceptual quizzes to different sub-groups of the population in successive weeks, avoiding test-retest effects.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
@@ -34,7 +34,7 @@ The between-student method, first used in physics by Sayre and Heckler, gives sh
 -
 
 ## Key Sources
-- Clark, J. W., Sayre, E. C., and Franklin, S. V. (2010). Fluctuations in Student Understanding of Newton's 3rd Law. arXiv preprint. https://arxiv.org/abs/1009.0260
+- Clark, J. W., Sayre, E. C., and Franklin, S. V. (2010). Fluctuations in Student Understanding of Newton's 3rd Law. arXiv preprint. https://arxiv.org/abs/1009.0260. [doi:10.48550/arxiv.1009.0260](https://doi.org/10.48550/arxiv.1009.0260)
 
 <!-- merged 2026-10-10 from theories/between-student-response-curve-method ("Between-student testing and the response curve as a method for revealing the dynamics of student understanding"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -74,5 +74,5 @@ The between-student method, first used in physics by Sayre and Heckler, gives sh
 - [Administer short weekly conceptual quizzes to rotating section subgroups to track understanding across a term](../strategies/weekly-rotating-section-quizzes.md)
 
 ## Key Sources
-- Clark, J. W., Sayre, E. C., and Franklin, S. V. (2010). Fluctuations in Student Understanding of Newton's 3rd Law. arXiv preprint. https://arxiv.org/abs/1009.0260
+- Clark, J. W., Sayre, E. C., and Franklin, S. V. (2010). Fluctuations in Student Understanding of Newton's 3rd Law. arXiv preprint. https://arxiv.org/abs/1009.0260. [doi:10.48550/arxiv.1009.0260](https://doi.org/10.48550/arxiv.1009.0260)
 -->

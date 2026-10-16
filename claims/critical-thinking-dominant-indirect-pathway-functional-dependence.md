@@ -3,7 +3,7 @@ type: claim
 title: "Critical thinking is the dominant indirect pathway linking functional GenAI dependence with research creativity, accounting for approximately 85% of its total indirect effect"
 description: "Critical thinking is the dominant indirect pathway linking functional GenAI dependence with research creativity, accounting for approximately 85% of its total indirect effect"
 id: critical-thinking-dominant-indirect-pathway-functional-dependence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

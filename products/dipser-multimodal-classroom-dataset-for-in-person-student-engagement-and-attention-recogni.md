@@ -4,7 +4,7 @@ id: dipser-multimodal-classroom-dataset-for-in-person-student-engagement-and-att
 title: DIPSER multimodal classroom dataset for in-person student engagement and attention recognition
 description: A multimodal classroom dataset created by Christoforos Fragkiadakis et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

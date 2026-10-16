@@ -3,7 +3,7 @@ type: claim
 title: The three domains of the PDE elementary school climate survey were distinct from one another
 description: The three domains of the PDE elementary school climate survey were distinct from one another
 id: pde-elementary-climate-survey-domains-distinct
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

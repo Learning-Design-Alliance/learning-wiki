@@ -3,7 +3,7 @@ type: claim
 title: "Schools' impacts on socioemotional development and behaviors in 9th grade matter substantially more for long-run trajectories than test score impacts"
 description: "Schools' impacts on socioemotional development and behaviors in 9th grade matter substantially more for long-run trajectories than test score impacts"
 id: sed-behavior-impacts-exceed-test-score-impacts-long-run
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

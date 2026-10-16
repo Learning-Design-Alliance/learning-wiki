@@ -3,7 +3,7 @@ type: claim
 title: Scores on the debugging-oriented Python proficiency assessment moderately predict successful code repair
 description: Scores on the debugging-oriented Python proficiency assessment moderately predict successful code repair
 id: proficiency-assessment-predicts-fix-success
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

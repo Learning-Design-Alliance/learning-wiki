@@ -3,7 +3,7 @@ type: claim
 title: Earobics® has potentially positive effects on reading fluency, with no statistically significant fluency findings
 description: Earobics® has potentially positive effects on reading fluency, with no statistically significant fluency findings
 id: earobics-potentially-positive-reading-fluency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

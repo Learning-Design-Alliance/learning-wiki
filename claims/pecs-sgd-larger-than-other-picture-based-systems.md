@@ -3,7 +3,7 @@ type: claim
 title: PECS and speech-generating devices produced larger effects than other picture-based AAC systems, which nonetheless showed small effects
 description: PECS and speech-generating devices produced larger effects than other picture-based AAC systems, which nonetheless showed small effects
 id: pecs-sgd-larger-than-other-picture-based-systems
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

@@ -3,7 +3,7 @@ type: strategy
 id: rhyming-poetry-three-step-instruction-sequence
 title: Teach phonics and fluency together through a three-step rhyming poetry sequence
 description: "The review describes Rasinski et al.'s (2016) three-step sequence for teaching phonics and reading fluency with rhyming poetry: demonstrating spelling and sound for a word family and eliciting family words, then word..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

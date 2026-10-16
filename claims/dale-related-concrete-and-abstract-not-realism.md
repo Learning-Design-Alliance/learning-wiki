@@ -3,7 +3,7 @@ type: claim
 title: Dale argued learning becomes more meaningful when abstract learning and concrete experience are related, not that more realism is better
 description: Dale argued learning becomes more meaningful when abstract learning and concrete experience are related, not that more realism is better
 id: dale-related-concrete-and-abstract-not-realism
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

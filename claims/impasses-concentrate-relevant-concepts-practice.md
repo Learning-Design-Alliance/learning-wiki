@@ -3,7 +3,7 @@ type: claim
 title: Student impasses in LLM chemistry tutoring concentrate in the relevant-concepts planning phase, and impasse type depends strongly on problem-solving practice
 description: Student impasses in LLM chemistry tutoring concentrate in the relevant-concepts planning phase, and impasse type depends strongly on problem-solving practice
 id: impasses-concentrate-relevant-concepts-practice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

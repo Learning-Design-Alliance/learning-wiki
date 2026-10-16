@@ -3,7 +3,7 @@ type: claim
 title: In one RCT, a content-rich prompt-engineered generative AI chat tutor improved performance and engagement in a Harvard physics course
 description: In one RCT, a content-rich prompt-engineered generative AI chat tutor improved performance and engagement in a Harvard physics course
 id: genai-chat-tutor-rct-physics-improved-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

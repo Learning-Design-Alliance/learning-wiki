@@ -3,7 +3,7 @@ type: claim
 title: "Greater early-project misalignment in partners' perceptions of each other's AI use is associated with lower final project scores"
 description: "Greater early-project misalignment in partners' perceptions of each other's AI use is associated with lower final project scores"
 id: early-ai-use-perception-misalignment-lower-team-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

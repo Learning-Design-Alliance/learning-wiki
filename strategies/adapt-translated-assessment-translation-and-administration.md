@@ -3,7 +3,7 @@ type: strategy
 id: adapt-translated-assessment-translation-and-administration
 title: "Adapt translated assessments to the target jurisdiction's linguistic and cultural characteristics, and revise administration scripts and timing to fit test-takers unfamiliar with the format."
 description: For the 2005 Puerto Rico NAEP administration, the report describes enhancements to translation and administration after 2003 data-quality concerns.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

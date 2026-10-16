@@ -3,7 +3,7 @@ type: claim
 title: "The AI's nonjudgmental conversational tone and adaptive prompting fostered risk-taking and productive struggle in a psychologically safe environment"
 description: "The AI's nonjudgmental conversational tone and adaptive prompting fostered risk-taking and productive struggle in a psychologically safe environment"
 id: nonjudgmental-ai-tone-risk-taking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

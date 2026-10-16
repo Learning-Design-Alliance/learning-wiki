@@ -3,7 +3,7 @@ type: claim
 title: Canadian students were more likely than South Korean students to judge GenAI-assisted coding scenarios as unethical
 description: Canadian students were more likely than South Korean students to judge GenAI-assisted coding scenarios as unethical
 id: canadian-students-judge-genai-use-more-unethical-than-korean
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

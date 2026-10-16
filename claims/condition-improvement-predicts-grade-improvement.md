@@ -3,7 +3,7 @@ type: claim
 title: Improvements in learning conditions between October and February predict higher likelihood of a B or better in math the following term
 description: Improvements in learning conditions between October and February predict higher likelihood of a B or better in math the following term
 id: condition-improvement-predicts-grade-improvement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

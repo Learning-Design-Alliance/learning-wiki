@@ -3,7 +3,7 @@ type: claim
 title: "Students' risk of suspension is more strongly determined by which school they attend than by their individual backgrounds"
 description: "Students' risk of suspension is more strongly determined by which school they attend than by their individual backgrounds"
 id: school-attended-determines-suspension-risk-more-than-background
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -65,7 +65,7 @@ Reflective assessment works because self-monitoring and self-evaluation are them
 - [Activities_for_student_self-reflection](../strategies/activities_for_student_self-reflection.md) — the reflection routines that populate reflective assessment cycles
 
 ## Examples
-- **Exam wrappers** (e.g., used widely in physics and calculus courses per the Carl Wieman Science Education Initiative, https://www.cwsei.ubc.ca) — short post-exam worksheets asking students to categorize their errors and name a strategy change before the next exam
+- **[Exam wrappers](exam-wrappers.md)** (e.g., used widely in physics and calculus courses per the Carl Wieman Science Education Initiative, https://www.cwsei.ubc.ca) — short post-exam worksheets asking students to categorize their errors and name a strategy change before the next exam
 - **Writing portfolio assessment** — students select and annotate representative drafts across a term, with a cover letter arguing for their growth against the rubric
 - **Standards-based grading in K-12 districts** (e.g., Marzano's scale-based models) — report cards communicate proficiency levels per standard with reassessment allowed, decoupling grades from one-shot performance
 
@@ -74,4 +74,4 @@ Reflective assessment works because self-monitoring and self-evaluation are them
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
 - Shepard, L. A. (2000). The role of assessment in a learning culture. *Educational Researcher, 29*(7), 4–14. [doi:10.3102/0013189X029007004](https://doi.org/10.3102/0013189X029007004)
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
-- Guskey, T. R. (2007). Closing achievement gaps: Revisiting Benjamin S. Bloom's "Learning for Mastery." In *Advances in Research on Teaching* (Vol. 12, pp. 1–18). Emerald. [doi:10.4219/jaa-2007-704](https://doi.org/10.4219/jaa-2007-704)
+- Guskey, T. R. (2007). Closing achievement gaps: Revisiting Benjamin S. Bloom's "Learning for Mastery." *Journal of Advanced Academics, 19*(1), 8–31. [doi:10.4219/jaa-2007-704](https://doi.org/10.4219/jaa-2007-704)

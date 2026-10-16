@@ -3,7 +3,7 @@ type: strategy
 id: experience-tailored-genai-teacher-training
 title: "Tailor institutional GenAI training to teachers' prior GenAI use experience"
 description: "The article recommends differentiating professional training by teachers' existing GenAI experience: novices are introduced to GenAI's pedagogical potential, while experienced teachers receive support with practical s..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

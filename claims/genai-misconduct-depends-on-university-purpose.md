@@ -3,7 +3,7 @@ type: claim
 title: "Whether student GenAI use constitutes academic misconduct depends fundamentally on the prior question of the university's purpose"
 description: "Whether student GenAI use constitutes academic misconduct depends fundamentally on the prior question of the university's purpose"
 id: genai-misconduct-depends-on-university-purpose
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

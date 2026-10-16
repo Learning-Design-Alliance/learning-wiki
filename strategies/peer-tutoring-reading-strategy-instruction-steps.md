@@ -3,7 +3,7 @@ type: strategy
 id: peer-tutoring-reading-strategy-instruction-steps
 title: Peer tutoring reading strategy instruction with tutor selection, tutor training, and reading scenarios
 description: "The article organizes class members into tutor-tutee pairs who \"work in collaboration in peer tutoring\", selecting tutors as participants who scored high on MARSI and answered concept cartoons correctly, and tutees as..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

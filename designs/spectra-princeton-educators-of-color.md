@@ -3,7 +3,7 @@ type: design
 id: spectra-princeton-educators-of-color
 title: "SPECTRA: a district initiative supporting Princeton educators of color through training, relationships, and affirmation"
 description: "SPECTRA (Supporting Princeton Educators of Color through Training, Relationships, and Affirmation) is Princeton City Schools' initiative \"dedicated to training, development, and affirmation for racially minoritized ed..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

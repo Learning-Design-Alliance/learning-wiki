@@ -3,7 +3,7 @@ type: claim
 title: Models with similar rank correlations differ substantially in estimating difficulty magnitude (RMSE and MAE)
 description: Models with similar rank correlations differ substantially in estimating difficulty magnitude (RMSE and MAE)
 id: llm-difficulty-magnitude-error-varies-across-models
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: embed-solutions-existing-operations
 title: Embed new solutions into existing operations and procedures to sustain and scale them
 description: The article recommends routinizing a solution by attaching it to structures and procedures already in place, such as pre-service days, familiar teacher-guide formats, and existing professional development time.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

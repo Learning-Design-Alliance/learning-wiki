@@ -3,7 +3,7 @@ type: claim
 title: "Student-AI conversations under teacher-authored prompts largely stay on the intended task (71% fully on-track; fewer than 1% substantially off-track)"
 description: "Student-AI conversations under teacher-authored prompts largely stay on the intended task (71% fully on-track; fewer than 1% substantially off-track)"
 id: teacher-prompts-keep-conversations-on-track
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

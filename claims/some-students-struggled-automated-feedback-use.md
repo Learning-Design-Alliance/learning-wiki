@@ -3,7 +3,7 @@ type: claim
 title: "Some students struggled to use Ecree's and MI Write's automated feedback"
 description: "Some students struggled to use Ecree's and MI Write's automated feedback"
 id: some-students-struggled-automated-feedback-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

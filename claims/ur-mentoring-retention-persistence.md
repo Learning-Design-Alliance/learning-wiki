@@ -3,7 +3,7 @@ type: claim
 title: "Mentoring relationships in undergraduate research are highly influential in students' campus connection, retention in their major, and persistence to graduation"
 description: "Mentoring relationships in undergraduate research are highly influential in students' campus connection, retention in their major, and persistence to graduation"
 id: ur-mentoring-retention-persistence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

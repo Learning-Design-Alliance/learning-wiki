@@ -3,7 +3,7 @@ type: claim
 title: Long-term English Learners with IEPs were on-track in ninth grade at near district-average rates but graduated at substantially lower rates, similar to non-English Learners with IEPs
 description: Long-term English Learners with IEPs were on-track in ninth grade at near district-average rates but graduated at substantially lower rates, similar to non-English Learners with IEPs
 id: long-term-els-ieps-ontrack-then-fall-behind
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

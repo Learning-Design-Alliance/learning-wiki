@@ -3,7 +3,7 @@ type: claim
 title: "AI-induced gains are not purely delegation: treated participants do not perform worse once AI is removed, and lower-education participants retain part of their gain, though a 0.200 SD gap re-emerges"
 description: "AI-induced gains are not purely delegation: treated participants do not perform worse once AI is removed, and lower-education participants retain part of their gain, though a 0.200 SD gap re-emerges"
 id: ai-gains-carry-over-followup-not-pure-delegation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

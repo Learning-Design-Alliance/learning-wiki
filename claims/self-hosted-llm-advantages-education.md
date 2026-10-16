@@ -3,7 +3,7 @@ type: claim
 title: Self-hosted open-weight LLMs offer privacy, reproducibility, and environmental advantages over commercial LLM interfaces in educational ITSs
 description: Self-hosted open-weight LLMs offer privacy, reproducibility, and environmental advantages over commercial LLM interfaces in educational ITSs
 id: self-hosted-llm-advantages-education
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Qualitative findings indicate perceived benefits of recognition, meaning-making, and practical tips, alongside mixed emotional responses including distress
 description: Qualitative findings indicate perceived benefits of recognition, meaning-making, and practical tips, alongside mixed emotional responses including distress
 id: story-mine-qualitative-mixed-experiences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

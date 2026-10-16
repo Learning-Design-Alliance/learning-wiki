@@ -3,7 +3,7 @@ type: research-method
 id: engagement-based-evaluation-framework-for-ai-tutors-relscore-and-succscore
 title: Engagement-based evaluation framework for AI tutors (RelScore and SuccScore)
 description: The framework extends AI tutor evaluation with a behavioral dimension grounded in student interaction data, complementing pedagogical assessment.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

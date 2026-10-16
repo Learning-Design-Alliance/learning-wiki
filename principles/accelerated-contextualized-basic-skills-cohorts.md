@@ -3,7 +3,7 @@ type: principle
 id: accelerated-contextualized-basic-skills-cohorts
 title: Use accelerated, contextualized basic-skills instruction with cohort support to re-engage adults with low skill levels
 description: The article presents accelerated contextualized learning as the mechanism that lets low-skilled adults achieve success quickly and see a purpose for core skills.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: When a real-life quilt problem was turned into a contextualized mathematics task, its context dropped out during solving and both designers judged it too school-like
 description: When a real-life quilt problem was turned into a contextualized mathematics task, its context dropped out during solving and both designers judged it too school-like
 id: contextualized-real-life-task-reverted-to-pure-mathematics-and-felt-too-school
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

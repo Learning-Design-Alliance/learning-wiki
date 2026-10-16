@@ -3,7 +3,7 @@ type: claim
 title: "AI support shifts perceived attribution of ideas and text toward the AI, most strongly for AI-generated drafts, and an AI draft based on the writer's own outline contributed more ideas than expected (27%)."
 description: "AI support shifts perceived attribution of ideas and text toward the AI, most strongly for AI-generated drafts, and an AI draft based on the writer's own outline contributed more ideas than expected (27%)."
 id: ai-stage-shifts-idea-text-attribution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

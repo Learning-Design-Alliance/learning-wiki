@@ -3,7 +3,7 @@ type: design
 id: genai-theory-practice-dialogue-mechanism
 title: "Theory-practice dialogue mechanism: generative AI bridges the gap between theory instruction and business practice"
 description: "The first of the article's three proposed mechanisms for reconfiguring classroom pedagogy with generative AI."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

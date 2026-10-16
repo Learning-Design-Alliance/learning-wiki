@@ -3,7 +3,7 @@ type: strategy
 id: compare-peer-and-ai-revisions-dialogic-positioning
 title: Have students compare their peer-feedback revisions with AI-generated revisions to examine dialogic positioning
 description: "The article recommends that \"peer feedback and AI-generated revisions can be used together as complementary resources in the revision process\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

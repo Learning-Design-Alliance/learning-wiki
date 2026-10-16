@@ -3,7 +3,7 @@ type: claim
 title: Existing deep sequential knowledge tracing encoders treat concept nodes as isolated deterministic vectors, limiting handling of structural sparsity and epistemic uncertainty
 description: Existing deep sequential knowledge tracing encoders treat concept nodes as isolated deterministic vectors, limiting handling of structural sparsity and epistemic uncertainty
 id: kt-encoders-entity-isolated-deterministic-limits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

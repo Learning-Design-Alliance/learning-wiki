@@ -4,7 +4,7 @@ title: Freshman on-track students are over three times as likely to graduate in 
 description: Freshman on-track students are over three times as likely to graduate in four years as off-track students in CPS
 id: on-track-freshmen-graduate-at-higher-rates
 aliases: [on-track-predicts-graduation-three-and-half-times, on-track-ninth-graders-3-5-times-more-likely-to-graduate]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ id: geometry-reasoning-and-proof-test-grpt-with-perception-and-attitude-question
 title: Geometry Reasoning and Proof Test (GRPT) with perception and attitude questionnaire
 description: A study-developed assessment package combining a geometry reasoning and proof test with a five-point questionnaire measuring students’ perceptions and attitudes toward AI-supported geometry instruction.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

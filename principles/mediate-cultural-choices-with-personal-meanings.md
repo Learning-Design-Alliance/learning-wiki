@@ -3,7 +3,7 @@ type: principle
 id: mediate-cultural-choices-with-personal-meanings
 title: "Mediate culturally established choices in mathematics education with preservice teachers' personal meanings to create a powerful context for examining mathematical philosophies"
 description: The article concludes that neither acknowledging choices among culturally established pedagogical perspectives nor experiencing alternative pedagogical practices alone suffices for preservice teachers to examine their...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

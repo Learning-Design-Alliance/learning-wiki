@@ -3,7 +3,7 @@ type: claim
 title: GRPO with an SFS-aligned reward yields more consistent improvements than DPO, achieving the highest SFS overall
 description: GRPO with an SFS-aligned reward yields more consistent improvements than DPO, achieving the highest SFS overall
 id: grpo-sfs-reward-beats-dpo
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

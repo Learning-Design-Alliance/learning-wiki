@@ -3,7 +3,7 @@ type: claim
 title: "At natural TM prevalence (1.6%), even the best model generates roughly 4.3 false alarms per genuine detection, making fully automated stand-alone screening not viable on its own"
 description: "At natural TM prevalence (1.6%), even the best model generates roughly 4.3 false alarms per genuine detection, making fully automated stand-alone screening not viable on its own"
 id: false-alarms-make-standalone-screening-impractical
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

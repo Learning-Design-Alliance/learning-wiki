@@ -3,7 +3,7 @@ type: claim
 title: "Humanizer legitimacy performances show leakage: unendorsed logos, inactive social media, and no registered business address"
 description: "Humanizer legitimacy performances show leakage: unendorsed logos, inactive social media, and no registered business address"
 id: humanizer-frontstage-leakage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

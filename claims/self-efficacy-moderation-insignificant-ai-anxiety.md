@@ -3,7 +3,7 @@ type: claim
 title: Self-efficacy does not significantly moderate the relationship between AI anxiety and career decisions
 description: Self-efficacy does not significantly moderate the relationship between AI anxiety and career decisions
 id: self-efficacy-moderation-insignificant-ai-anxiety
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

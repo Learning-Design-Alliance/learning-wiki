@@ -3,7 +3,7 @@ type: strategy
 id: impasse-depth-type-analytics-escalation-signals
 title: Use impasse depth and type as real-time learning-analytics signals to trigger graduated escalation of tutor support
 description: The article recommends that learning analytics systems track impasse depth and type in tutoring dialogues in real time to flag students who remain stuck and support graduated escalation.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -48,4 +48,4 @@ The article recommends that learning analytics systems track impasse depth and t
 -
 
 ## Key Sources
-- Ahtisham, B., Vanacore, K., Napoli, A., Arens, J., Ionova, K., Cohn, C., Salehi, S., & Kizilcec, R. (2026). Examining Variation in How Guided AI Tutors Resolve Student Impasses. arXiv. https://arxiv.org/abs/2609.38346
+- Ahtisham, B., Vanacore, K., Napoli, A., Arens, J., Ionova, K., Cohn, C., Salehi, S., & Kizilcec, R. (2026). Examining Variation in How Guided AI Tutors Resolve Student Impasses. arXiv. https://arxiv.org/abs/2609.38346. [doi:10.48550/arxiv.2609.38346](https://doi.org/10.48550/arxiv.2609.38346)

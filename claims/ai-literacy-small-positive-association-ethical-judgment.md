@@ -3,7 +3,7 @@ type: claim
 title: AI literacy shows a small positive association with ethical scenario classification accuracy
 description: AI literacy shows a small positive association with ethical scenario classification accuracy
 id: ai-literacy-small-positive-association-ethical-judgment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

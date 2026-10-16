@@ -3,7 +3,7 @@ type: claim
 title: AI-assisted software engineering courses assess primarily through participation, project work, and coding assignments rather than exams
 description: AI-assisted software engineering courses assess primarily through participation, project work, and coding assignments rather than exams
 id: ai-se-assessment-project-based-not-exams
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

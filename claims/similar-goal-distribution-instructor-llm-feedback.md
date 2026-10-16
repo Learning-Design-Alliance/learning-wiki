@@ -3,7 +3,7 @@ type: claim
 title: Instructors and LLMs distribute feedback similarly across the five argumentative goals, with Claim receiving the most feedback from both
 description: Instructors and LLMs distribute feedback similarly across the five argumentative goals, with Claim receiving the most feedback from both
 id: similar-goal-distribution-instructor-llm-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

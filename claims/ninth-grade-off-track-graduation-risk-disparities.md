@@ -4,7 +4,7 @@ title: "Students off track after ninth grade are less than half as likely to gra
 description: "Students off track after ninth grade are less than half as likely to graduate, with Black and Latino students 46% and 31% more likely than the national average to be off track in 2022"
 id: ninth-grade-off-track-graduation-risk-disparities
 aliases: [off-track-ninth-grade-half-graduation-likelihood]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

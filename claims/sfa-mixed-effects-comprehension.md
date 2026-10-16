@@ -3,7 +3,7 @@ type: claim
 title: SFA® shows mixed effects on reading comprehension for beginning readers
 description: SFA® shows mixed effects on reading comprehension for beginning readers
 id: sfa-mixed-effects-comprehension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

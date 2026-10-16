@@ -3,7 +3,7 @@ type: claim
 title: A regression discontinuity design on Review Exercise data supports a causal link between leveling up and higher assessment accuracy, at least for the first level-up
 description: A regression discontinuity design on Review Exercise data supports a causal link between leveling up and higher assessment accuracy, at least for the first level-up
 id: rdd-review-exercises-causal-leveling-up
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

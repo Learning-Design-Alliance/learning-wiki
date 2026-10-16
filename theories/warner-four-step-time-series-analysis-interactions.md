@@ -2,7 +2,7 @@
 type: theory
 title: "Warner's four-step time-series analysis of behavioral interaction data"
 description: The article applies and demonstrates a four-step framework for analyzing behavioral time-series of social interaction, attributed to Warner (1998).
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -49,4 +49,4 @@ The article applies and demonstrates a four-step framework for analyzing behavio
 -
 
 ## Key Sources
-- Pennings, H. J. M. (2017). Using a Complexity Approach to Study the Interpersonal Dynamics in Teacher-Student Interactions: A Case Study of Two Teachers. Complicity: An International Journal of Complexity and Education, 14(2). https://complicityjournal.org
+- Pennings, H. J. M. (2017). Using a Complexity Approach to Study the Interpersonal Dynamics in Teacher-Student Interactions: A Case Study of Two Teachers. Complicity: An International Journal of Complexity and Education, 14(2). https://complicityjournal.org. [doi:10.29173/cmplct29338](https://doi.org/10.29173/cmplct29338)

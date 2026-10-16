@@ -3,7 +3,7 @@ type: claim
 title: Many community arts organizations anticipate losing work because Prop 28 AMS spending parameters keep funding within schools and districts
 description: Many community arts organizations anticipate losing work because Prop 28 AMS spending parameters keep funding within schools and districts
 id: prop28-organizations-anticipate-losing-work
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

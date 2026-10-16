@@ -3,7 +3,7 @@ type: strategy
 id: surface-best-practices-from-local-leader-perspectives
 title: "Surface best practices for crisis-era learning support from district, school, and teacher leaders' perspectives"
 description: This strategy gathers the perspectives of district, school, and teacher leaders — collectively termed local leaders — to identify practices for supporting student learning during system disruption.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

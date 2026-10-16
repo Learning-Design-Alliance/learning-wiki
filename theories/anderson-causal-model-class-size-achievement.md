@@ -2,7 +2,7 @@
 type: theory
 title: "Anderson's causal model of how reduced class size affects student achievement"
 description: "Anderson (2000) developed a causal model explaining why class size reduction should enhance achievement, depicted in the review's Figure 1."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

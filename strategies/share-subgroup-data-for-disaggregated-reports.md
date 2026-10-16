@@ -3,7 +3,7 @@ type: strategy
 id: share-subgroup-data-for-disaggregated-reports
 title: Districts should share sufficient subgroup data with assessment providers to enable multi-subgroup disaggregation
 description: "The guide's fourth recommendation addresses a practical barrier: many districts using MAP Growth do not share enough subgroup data for disaggregation within its reports."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

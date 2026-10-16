@@ -3,7 +3,7 @@ type: claim
 title: In the meeting, coordination was the most common type of interaction and communication the rarest, indicating reconceptualizing the script was very challenging
 description: In the meeting, coordination was the most common type of interaction and communication the rarest, indicating reconceptualizing the script was very challenging
 id: coordination-dominates-communication-rare
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

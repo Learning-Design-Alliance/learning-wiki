@@ -3,7 +3,7 @@ type: claim
 title: Despite strong academic qualifications, IB DP students often have limited access to the social capital needed to navigate college course selection and access faculty support
 description: Despite strong academic qualifications, IB DP students often have limited access to the social capital needed to navigate college course selection and access faculty support
 id: ib-dp-students-limited-social-capital
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

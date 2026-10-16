@@ -3,7 +3,7 @@ type: claim
 title: Cognitive offloading is positively, not negatively, associated with transformative learning experience, contrary to the hypothesized negative effect
 description: Cognitive offloading is positively, not negatively, associated with transformative learning experience, contrary to the hypothesized negative effect
 id: cognitive-offloading-positively-predicts-transformative-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

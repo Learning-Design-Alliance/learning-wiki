@@ -3,7 +3,7 @@ type: claim
 title: Black–White achievement gaps widen during the school year in both rural and nonrural schools
 description: Black–White achievement gaps widen during the school year in both rural and nonrural schools
 id: black-white-gaps-widen-during-school-year-rural-and-nonrural
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

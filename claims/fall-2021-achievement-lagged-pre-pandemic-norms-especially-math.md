@@ -3,7 +3,7 @@ type: claim
 title: Student achievement at the start of the 2021-22 school year lagged pre-pandemic norms, especially in math
 description: Student achievement at the start of the 2021-22 school year lagged pre-pandemic norms, especially in math
 id: fall-2021-achievement-lagged-pre-pandemic-norms-especially-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: support-self-regulated-use-of-effective-strategies
 title: Support learners in monitoring and regulating their own learning using effective strategies
 description: The review closes by drawing practical implications for situations in which learners must manage their own study.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

@@ -3,7 +3,7 @@ type: claim
 title: "Proportionality in integrity decisions operates at three connected stages: threshold, evidentiary, and sanction"
 description: "Proportionality in integrity decisions operates at three connected stages: threshold, evidentiary, and sanction"
 id: three-stage-proportionality-integrity-decisions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: overview-resource-illustrative-example-strategy
 title: Use an overview resource with an illustrative example to introduce phased evidence building
 description: "To help practitioners adopt the phased M&E approach, the publication pairs the framework description with a worked illustration."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

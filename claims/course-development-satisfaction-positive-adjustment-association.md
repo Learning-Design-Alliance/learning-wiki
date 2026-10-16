@@ -3,7 +3,7 @@ type: claim
 title: "Course development satisfaction is positively associated with first-year students' emotional management, stress coping, and academic adjustment in cross-sectional self-report data"
 description: "Course development satisfaction is positively associated with first-year students' emotional management, stress coping, and academic adjustment in cross-sectional self-report data"
 id: course-development-satisfaction-positive-adjustment-association
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

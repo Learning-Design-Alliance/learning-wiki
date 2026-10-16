@@ -3,7 +3,7 @@ type: claim
 title: Sensitivity analysis finds outcome gains significant at cut-points below 5 minutes and beyond 13-15 minutes of delayed start in both subjects
 description: Sensitivity analysis finds outcome gains significant at cut-points below 5 minutes and beyond 13-15 minutes of delayed start in both subjects
 id: sensitivity-analysis-cutpoints
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

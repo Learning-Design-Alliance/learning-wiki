@@ -3,7 +3,7 @@ type: claim
 title: Easier items were perceived as better aligned with the curriculum (strong difficulty–alignment association)
 description: Easier items were perceived as better aligned with the curriculum (strong difficulty–alignment association)
 id: easier-items-perceived-as-better-aligned
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

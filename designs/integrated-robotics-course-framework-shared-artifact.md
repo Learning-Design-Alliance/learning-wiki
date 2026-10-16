@@ -3,7 +3,7 @@ type: design
 id: integrated-robotics-course-framework-shared-artifact
 title: Integrated robotics course framework organizing a complete research workflow around one shared robot artifact
 description: The framework organizes mechanical assembly, electrical setup, simulation, policy learning, system identification, and physical deployment around a shared robotic artifact.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

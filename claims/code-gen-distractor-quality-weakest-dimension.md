@@ -3,7 +3,7 @@ type: claim
 title: "Distractor quality is the weakest automated dimension, with the lowest success rate (79.9%) and highest failure rate (15.6%)"
 description: "Distractor quality is the weakest automated dimension, with the lowest success rate (79.9%) and highest failure rate (15.6%)"
 id: code-gen-distractor-quality-weakest-dimension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

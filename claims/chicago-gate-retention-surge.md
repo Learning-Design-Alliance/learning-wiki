@@ -3,7 +3,7 @@ type: claim
 title: Eighth-grade retention rates surged from under 2 percent prepolicy to 8.3 percent in the first policy year, peaking at 11.1 percent
 description: Eighth-grade retention rates surged from under 2 percent prepolicy to 8.3 percent in the first policy year, peaking at 11.1 percent
 id: chicago-gate-retention-surge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

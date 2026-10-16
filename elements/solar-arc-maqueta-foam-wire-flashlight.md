@@ -3,7 +3,7 @@ type: element
 id: solar-arc-maqueta-foam-wire-flashlight
 title: Maqueta de esferas de telgopor, alambres y linterna para representar los arcos solares diurnos en tres momentos del año
 description: Una maqueta de bajo costo construida con esferas de telgopor, alambres semirrígidos doblados en semicircunferencia, un gnomon de varilla y una linterna que emula al Sol.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

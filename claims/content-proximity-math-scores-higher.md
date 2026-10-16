@@ -3,7 +3,7 @@ type: claim
 title: Content Proximity math scores were consistently higher than traditional MAP Growth math scores, with small effects varying by grade
 description: Content Proximity math scores were consistently higher than traditional MAP Growth math scores, with small effects varying by grade
 id: content-proximity-math-scores-higher
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

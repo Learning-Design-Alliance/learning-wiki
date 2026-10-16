@@ -3,7 +3,7 @@ type: strategy
 id: email-exchanges-target-language-peers
 title: Use structured e-mail exchanges with target-language peers to build cross-cultural interest and motivation
 description: The activity has students correspond by e-mail with peers in the target language, chosen via a penpal website where they can select partner country, age, and sex.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -46,4 +46,4 @@ The activity has students correspond by e-mail with peers in the target language
 -
 
 ## Key Sources
-- Murray, G. L., & Bollinger, D. J. (2001). Developing Cross-Cultural Awareness: Learning Through the Experiences of Others. TESL Canada Journal, 19(1). https://teslcanadajournal.ca
+- Murray, G. L., & Bollinger, D. J. (2001). Developing Cross-Cultural Awareness: Learning Through the Experiences of Others. TESL Canada Journal, 19(1). https://teslcanadajournal.ca. [doi:10.18806/tesl.v19i1.920](https://doi.org/10.18806/tesl.v19i1.920)

@@ -3,7 +3,7 @@ type: claim
 title: "State policy differences shape principals' access to high-quality learning: California principals report more access than national peers, North Carolina principals less"
 description: "State policy differences shape principals' access to high-quality learning: California principals report more access than national peers, North Carolina principals less"
 id: state-policy-shapes-principal-learning-access
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

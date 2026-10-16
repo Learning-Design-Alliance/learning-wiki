@@ -3,7 +3,7 @@ type: claim
 title: Gender does not significantly moderate the effect of AI-supported PBL on computational thinking or academic achievement
 description: Gender does not significantly moderate the effect of AI-supported PBL on computational thinking or academic achievement
 id: gender-does-not-moderate-ai-pbl-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

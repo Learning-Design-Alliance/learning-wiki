@@ -3,7 +3,7 @@ type: claim
 title: Students in single-discipline courses begin the year with higher achievement, roughly three or four points across subjects
 description: Students in single-discipline courses begin the year with higher achievement, roughly three or four points across subjects
 id: single-discipline-students-higher-baseline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

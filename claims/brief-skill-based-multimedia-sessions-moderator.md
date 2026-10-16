@@ -3,7 +3,7 @@ type: claim
 title: More effective programs used brief 1–3 h laboratory sessions with skill-based activities and multiple media
 description: More effective programs used brief 1–3 h laboratory sessions with skill-based activities and multiple media
 id: brief-skill-based-multimedia-sessions-moderator
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

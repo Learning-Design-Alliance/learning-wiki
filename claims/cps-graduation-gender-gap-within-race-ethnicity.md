@@ -3,7 +3,7 @@ type: claim
 title: Within every CPS race/ethnicity group, young men graduated from high school at a lower rate than young women of the same race/ethnicity
 description: Within every CPS race/ethnicity group, young men graduated from high school at a lower rate than young women of the same race/ethnicity
 id: cps-graduation-gender-gap-within-race-ethnicity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

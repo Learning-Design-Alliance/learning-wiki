@@ -64,7 +64,7 @@ Prequestions work through two complementary mechanisms: they activate relevant p
 
 ## Examples
 - **Peer Instruction (Eric Mazur, Harvard)** — ConcepTests pose a conceptual physics question before the lecture segment explains it; students vote, discuss with peers, then vote again before instruction resolves the question. [https://www.per-central.org](https://www.per-central.org)
-- **Anticipation guides** — A common literacy practice in which students agree/disagree with statements about a text before reading, then revisit their answers afterward.
+- **[Anticipation guides](anticipation-guides.md)** — A common literacy practice in which students agree/disagree with statements about a text before reading, then revisit their answers afterward.
 - **In-video prequestions** — Platforms such as Coursera embed a question before a lecture video segment; learners who attempt the question before watching show better retention of the segment content [Prequestions before video segments improve learning from video.](https://doi.org/10.1037/a0016577) [+M]
 
 ## Key Sources

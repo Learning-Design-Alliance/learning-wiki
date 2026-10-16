@@ -3,7 +3,7 @@ type: element
 id: lumen-one-statistics-student-interview-protocol
 title: Semi-structured interview protocol for undergraduate statistics students using Lumen One courseware
 description: A semi-structured interview instrument conducted with undergraduate Statistics students as part of a Digital Promise study of the Lumen One courseware.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

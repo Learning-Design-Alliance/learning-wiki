@@ -3,7 +3,7 @@ type: strategy
 id: frequent-policy-updates-and-instructional-adaptation-genai
 title: Plan frequent policy updates and adapt instructional methods for AI integration
 description: "The deck's considerations for developing policy content include recognizing that implementing emerging technologies and GenAI effectively takes time, planning to frequently update policies, and adapting instructional..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

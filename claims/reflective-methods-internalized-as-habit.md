@@ -3,7 +3,7 @@ type: claim
 title: Reflective methods must be internalized as habit to operate in everyday moral choice, and internalization depends on supportive social arrangements
 description: Reflective methods must be internalized as habit to operate in everyday moral choice, and internalization depends on supportive social arrangements
 id: reflective-methods-internalized-as-habit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

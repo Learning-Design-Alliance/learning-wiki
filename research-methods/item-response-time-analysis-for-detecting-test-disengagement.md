@@ -3,7 +3,7 @@ type: research-method
 id: item-response-time-analysis-for-detecting-test-disengagement
 title: Item response-time analysis for detecting test disengagement
 description: "The article rests on the idea that computer-based tests produce new forms of metadata, and that \"researchers have developed and validated procedures for using item response times to identify responses to items that are likely disengaged\"."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

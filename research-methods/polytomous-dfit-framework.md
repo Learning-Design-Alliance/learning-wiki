@@ -3,7 +3,7 @@ type: research-method
 id: polytomous-dfit-framework
 title: Polytomous DFIT framework
 description: "The DFIT framework is an IRT-based, parametric procedure for detecting differential item and test functioning that \"can be used withdichotomous, polytomous, ormultidimensional data.\" For polytomous data it computes expected item scores and true test scores under the graded response model for each Fo"
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

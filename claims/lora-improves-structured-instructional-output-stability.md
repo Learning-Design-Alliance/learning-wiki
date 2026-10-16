@@ -3,7 +3,7 @@ type: claim
 title: LoRA fine-tuning makes the Solution-Method-Teaching Points instructional format more stable, with Solution and Method coverage reaching 1.00 at r=8 and r=16 for the 3B model
 description: LoRA fine-tuning makes the Solution-Method-Teaching Points instructional format more stable, with Solution and Method coverage reaching 1.00 at r=8 and r=16 for the 3B model
 id: lora-improves-structured-instructional-output-stability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

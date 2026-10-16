@@ -3,7 +3,7 @@ type: strategy
 id: improve-ui-consistency-vr-classroom
 title: Improve UI consistency and network system before scaling VR classroom use
 description: "The authors' forward-looking recommendation is to improve usability through enhancements to the UI and network system, and to develop a wider variety of learning materials based on the proposed system."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

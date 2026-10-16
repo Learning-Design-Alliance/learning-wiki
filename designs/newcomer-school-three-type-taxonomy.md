@@ -3,7 +3,7 @@ type: design
 id: newcomer-school-three-type-taxonomy
 title: "Three-type taxonomy of newcomer schools: programs-within-a-school, transitional, and comprehensive"
 description: The report organizes newcomer schools into three structural types.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

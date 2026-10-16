@@ -3,7 +3,7 @@ type: claim
 title: Community college students shut out of a course section via waitlist cutoffs were 22–28 percent more likely to take zero courses that term
 description: Community college students shut out of a course section via waitlist cutoffs were 22–28 percent more likely to take zero courses that term
 id: course-shutouts-increase-zero-course-enrollment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

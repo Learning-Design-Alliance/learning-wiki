@@ -3,7 +3,7 @@ type: element
 id: caf-performance-measures
 title: "Complexity, accuracy and fluency (CAF) measures of learners' language performance"
 description: "The review presents Skehan's (1998b) three-part measurement framework for learners' language performance, proposing \"to separate learner's general goal into three specific areas: accuracy, complexity and fluency.\" Acc..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

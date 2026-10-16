@@ -4,7 +4,7 @@ id: teachers-and-parents-as-partners
 title: Teachers and Parents as Partners
 description: A University of Nebraska–Lincoln family-school partnership intervention in which a school specialist, teacher, and parent jointly identify needs, set goals, implement an individualized plan, and monitor student progress.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

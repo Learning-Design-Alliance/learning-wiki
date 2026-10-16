@@ -3,7 +3,7 @@ type: strategy
 id: integrate-pets-across-research-lifecycle
 title: Integrate PETs at every stage of the research lifecycle
 description: "The short-term recommendations advise researchers conducting research with DLPs to look for ways to integrate PETs into all stages of the research lifecycle: secure one-way identifiers at data collection, synthetic da..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

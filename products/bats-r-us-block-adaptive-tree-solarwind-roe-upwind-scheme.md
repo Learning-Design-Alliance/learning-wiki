@@ -4,7 +4,7 @@ id: bats-r-us-block-adaptive-tree-solarwind-roe-upwind-scheme
 title: BATS-R-US (Block-Adaptive-Tree Solarwind Roe Upwind Scheme)
 description: "A three-dimensional global magnetohydrodynamics simulation code developed by the University of Michigan and made publicly runnable through NASA's Community Coordinated Modeling Center."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
@@ -36,7 +36,7 @@ A three-dimensional global magnetohydrodynamics simulation code developed by the
 -
 
 ## Key Sources
-- Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985
+- Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985. [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)
 
 <!-- merged 2026-10-10 from elements/bats-r-us-ccmc-public-simulation-resource ("BATS-R-US global MHD simulations run through NASA's Community Coordinated Modeling Center as a public undergraduate lab resource"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -75,5 +75,5 @@ BATS-R-US (Block-Adaptive-Tree-Solarwind-Roe-Upwind-Scheme) solves the 3D magnet
 -
 
 ## Key Sources
-- Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985
+- Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985. [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)
 -->

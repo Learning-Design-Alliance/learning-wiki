@@ -3,7 +3,7 @@ type: strategy
 id: bridge-student-experience-data-across-initiatives
 title: Deliberately bridge student experience data work across tools, initiatives, and partner organizations
 description: Participants recommended making deliberate connections between student experience data work and other district tools and initiatives—such as the Continuous Improvement Work Plan (CIWP), the RigorWalk observation tool,...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

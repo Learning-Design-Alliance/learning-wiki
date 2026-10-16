@@ -3,7 +3,7 @@ type: claim
 title: Duolingo discussion boards provided emotional support — social encouragement and community — beyond the instrumental and informational support previously documented
 description: Duolingo discussion boards provided emotional support — social encouragement and community — beyond the instrumental and informational support previously documented
 id: boards-provided-emotional-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: "New Chance's completion effect came entirely from GED receipt, with a small negative effect on earning a high school diploma"
 description: "New Chance's completion effect came entirely from GED receipt, with a small negative effect on earning a high school diploma"
 id: new-chance-ged-positive-diploma-negative
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

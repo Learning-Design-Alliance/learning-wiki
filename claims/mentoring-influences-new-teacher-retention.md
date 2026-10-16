@@ -3,7 +3,7 @@ type: claim
 title: "Mentoring strongly influences new teachers' decisions to stay in or leave teaching (review attribution)"
 description: "Mentoring strongly influences new teachers' decisions to stay in or leave teaching (review attribution)"
 id: mentoring-influences-new-teacher-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

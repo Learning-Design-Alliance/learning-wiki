@@ -3,7 +3,7 @@ type: claim
 title: Instructors focused OCF on pronunciation and grammar errors and withheld correction unless errors impeded communication
 description: Instructors focused OCF on pronunciation and grammar errors and withheld correction unless errors impeded communication
 id: ocf-focused-pronunciation-grammar-communication-impeding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

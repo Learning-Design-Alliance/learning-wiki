@@ -3,7 +3,7 @@ type: design
 id: ai-supported-authentic-inquiry-professional-validation
 title: Integrate AI-supported experimental design with professional validation to make authentic inquiry manageable in undergraduate laboratories
 description: The article presents an approach where students use AI to design lab manuals for real-world sample analysis, then implement them experimentally.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

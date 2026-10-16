@@ -3,7 +3,7 @@ type: element
 id: cai-structured-program
 title: "CAI-Structured: a computer assisted instruction program designed with spaced practice and spaced review"
 description: "CAI-Structured is the dissertation's experimental treatment: a computer assisted instruction program \"designed with the spacing effects of spaced practice and spaced review\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

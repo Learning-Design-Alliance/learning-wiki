@@ -3,7 +3,7 @@ type: strategy
 id: governance-reform-architectures-people-technologies
 title: Reform academic governance through interventions on governance architectures, people, and technologies/resources
 description: "The article prescribes a three-part reform agenda for academic governance in the GenAI era: \"Interventions are required with governance architectures (policies, committees, etc.), people (students and staff), and tech..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

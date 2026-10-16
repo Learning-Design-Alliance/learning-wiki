@@ -3,7 +3,7 @@ type: claim
 title: TAPP improves school-related behavioral problems per teacher ratings in the rural trial (effect size = +0.45)
 description: TAPP improves school-related behavioral problems per teacher ratings in the rural trial (effect size = +0.45)
 id: tapp-rural-trial-behavior-problems-improvement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

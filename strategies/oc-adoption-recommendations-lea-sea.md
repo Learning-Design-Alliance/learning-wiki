@@ -3,7 +3,7 @@ type: strategy
 id: oc-adoption-recommendations-lea-sea
 title: Phased LEA and SEA recommendations for adopting Opportunity Culture staffing redesign
 description: The brief closes with recommendations for local and state education agencies interested in exploring Opportunity Culture.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

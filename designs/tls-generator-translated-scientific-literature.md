@@ -3,7 +3,7 @@ type: design
 id: tls-generator-translated-scientific-literature
 title: Teaching and Learning Sequence (TLS) generator transforming translated scientific literature into structured educational resources
 description: The second CRITICS component is a Teaching and Learning Sequence generator that investigates how to transform translated scientific literature into structured educational resources.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

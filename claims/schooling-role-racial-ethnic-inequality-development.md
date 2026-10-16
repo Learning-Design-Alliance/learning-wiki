@@ -3,7 +3,7 @@ type: claim
 title: The study frames schooling as a candidate explanation for the development of racial and ethnic inequalities in academic skills
 description: The study frames schooling as a candidate explanation for the development of racial and ethnic inequalities in academic skills
 id: schooling-role-racial-ethnic-inequality-development
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

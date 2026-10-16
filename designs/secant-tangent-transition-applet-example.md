@@ -3,7 +3,7 @@ type: design
 id: secant-tangent-transition-applet-example
 title: Secant–tangent transition applet characterized via the conceptual-structure variables
 description: "An interactive applet illustrates the metadata characterization: it represents a function graphically with a secant line defined by two points, one varying with a parameter h; as h approaches zero the secant converges..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

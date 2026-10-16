@@ -4,7 +4,7 @@ id: kutti-ai
 title: Kutti AI
 description: Kutti AI is a React Native/Expo learning-companion application developed by Kadharmoideen Fadurudeen that delivers curriculum instruction, spoken questions, speech-based responses, difficulty detection, and feedback through audio, with offline-capable and multilingual support.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

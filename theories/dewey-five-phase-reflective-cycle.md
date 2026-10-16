@@ -2,7 +2,7 @@
 type: theory
 title: "Dewey's five-phase reflective cycle of thought"
 description: "The paper describes Dewey's (1933) account of disciplined, problem-centered reflective thought: 'Dewey (1933) identifies five phases in the reflective cycle of thought.' Reflection begins with an unconsciously arising..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: strategy
 id: micro-modeling-peer-tours-remove-barriers
 title: Use micro-modeling, demonstrations, and peer-to-peer classroom tours to remove technical and pedagogical barriers during AI tool adoption
 description: "Coaches supported teachers through mini demonstrations and modeling of Coursemojo, including in-the-moment \"micro-modeling or thinking aloud with teachers in the moment,\" scheduled launch activities, and peer-to-peer..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

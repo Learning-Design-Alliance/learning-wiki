@@ -3,7 +3,7 @@ type: claim
 title: The performance gap between erroneous and non-erroneous student images persists after images are digitally redrawn to remove noise
 description: The performance gap between erroneous and non-erroneous student images persists after images are digitally redrawn to remove noise
 id: error-gap-persists-after-image-cleanup
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

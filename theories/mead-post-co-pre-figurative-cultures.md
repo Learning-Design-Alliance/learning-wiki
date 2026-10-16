@@ -2,7 +2,7 @@
 type: theory
 title: "Mead's taxonomy of post-figurative, co-figurative, and pre-figurative cultures explains how accelerating change reverses the direction of learning"
 description: "The report presents Mead's three-part cultural taxonomy for characterizing how knowledge passes between generations."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

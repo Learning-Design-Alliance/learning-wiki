@@ -3,7 +3,7 @@ type: claim
 title: Girls in Playworks schools were less likely to be sedentary and more likely to engage in jumping, tag, and playground games during recess
 description: Girls in Playworks schools were less likely to be sedentary and more likely to engage in jumping, tag, and playground games during recess
 id: playworks-girls-recess-activity-types
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

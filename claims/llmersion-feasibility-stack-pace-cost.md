@@ -3,7 +3,7 @@ type: claim
 title: A complete four-skill open-model stack fits under 4 GB, runs at reading pace on the cheapest hardware by community measurements, and costs about one US cent of electricity per study hour
 description: A complete four-skill open-model stack fits under 4 GB, runs at reading pace on the cheapest hardware by community measurements, and costs about one US cent of electricity per study hour
 id: llmersion-feasibility-stack-pace-cost
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -18,16 +18,16 @@ sources:
     kind: design
     rigour: 1
   - id: guo-2026-2
-    resource: "https://arxiv.org/abs/2609.29672"
-    title: "Guo, Q., Tang, J., Huang, X., Lin, H.-Y., Zhong, Y., & Zhuang, X. (2026). LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity. https://arxiv.org/abs/2609.29672"
+    resource: "https://doi.org/10.48550/arxiv.2609.29672"
+    title: "Guo, Q., Tang, J., Huang, X., Lin, H.-Y., Zhong, Y., & Zhuang, X. (2026). LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity. https://arxiv.org/abs/2609.29672. [doi:10.48550/arxiv.2609.29672](https://doi.org/10.48550/arxiv.2609.29672)"
     author: "Guo, Q., Tang, J., Huang, X., Lin, H.-Y., Zhong, Y., & Zhuang, X."
     q: 1
     i: "?"
     kind: design
     rigour: 1
   - id: guo-2026-3
-    resource: "https://arxiv.org/abs/2609.29672"
-    title: "Guo, Q., Tang, J., Huang, X., Lin, H.-Y., Zhong, Y., & Zhuang, X. (2026). LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity. https://arxiv.org/abs/2609.29672"
+    resource: "https://doi.org/10.48550/arxiv.2609.29672"
+    title: "Guo, Q., Tang, J., Huang, X., Lin, H.-Y., Zhong, Y., & Zhuang, X. (2026). LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity. https://arxiv.org/abs/2609.29672. [doi:10.48550/arxiv.2609.29672](https://doi.org/10.48550/arxiv.2609.29672)"
     author: "Guo, Q., Tang, J., Huang, X., Lin, H.-Y., Zhong, Y., & Zhuang, X."
     q: 1
     i: "?"
@@ -38,7 +38,7 @@ sources:
 # A complete four-skill open-model stack fits under 4 GB, runs at reading pace on the cheapest hardware by community measurements, and costs about one US cent of electricity per study hour
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (3 entries) · 2 design `r1` · `q1`
+> **Evidence** · 1 study (3 entries) · design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The complete four-skill stack totals under 4 GB, inside the 8-16 GB of the cheapest new laptops. [→ Guo 2026](#guo-2026)
@@ -59,7 +59,7 @@ This is the article's feasibility synthesis (Section 5.5, Table 3), a descriptiv
 
 ### Guo 2026 (2)
 
-Guo, Q., Tang, J., Huang, X., Lin, H.-Y., Zhong, Y., & Zhuang, X. (2026). LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity. https://arxiv.org/abs/2609.29672
+Guo, Q., Tang, J., Huang, X., Lin, H.-Y., Zhong, Y., & Zhuang, X. (2026). LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity. https://arxiv.org/abs/2609.29672. [doi:10.48550/arxiv.2609.29672](https://doi.org/10.48550/arxiv.2609.29672)
 
 `q1 · i?` · `design · r1`
 
@@ -69,7 +69,7 @@ The article reports attributed community throughput measurements, explicitly not
 
 ### Guo 2026 (3)
 
-Guo, Q., Tang, J., Huang, X., Lin, H.-Y., Zhong, Y., & Zhuang, X. (2026). LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity. https://arxiv.org/abs/2609.29672
+Guo, Q., Tang, J., Huang, X., Lin, H.-Y., Zhong, Y., & Zhuang, X. (2026). LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity. https://arxiv.org/abs/2609.29672. [doi:10.48550/arxiv.2609.29672](https://doi.org/10.48550/arxiv.2609.29672)
 
 `q1 · i?` · `design · r1`
 

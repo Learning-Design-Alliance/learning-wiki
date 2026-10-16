@@ -3,7 +3,7 @@ type: strategy
 id: tablet-practice-aligned-to-tutored-instruction
 title: Align independent tablet practice to the most recent tutored instruction
 description: Chapter One pairs one-on-one tutoring with daily independent practice on program-provided tablets.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Tutors reason differently about effort versus progress goals in ways that mirror the target-specific feature patterns, and trust clearly defined feature-backed explanations
 description: Tutors reason differently about effort versus progress goals in ways that mirror the target-specific feature patterns, and trust clearly defined feature-backed explanations
 id: tutors-reason-by-target-type-mirroring-feature-patterns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

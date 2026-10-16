@@ -3,7 +3,7 @@ type: strategy
 id: cohort-peer-coaching-office-hours-pd-model
 title: Combine live cohort sessions, self-guided application, peer coaching, and virtual office hours in literacy professional learning
 description: "The program's delivery model combines several professional learning activities: \"Program participants attend live professional learning sessions with a dedicated cohort, complete self-guided learning and application,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

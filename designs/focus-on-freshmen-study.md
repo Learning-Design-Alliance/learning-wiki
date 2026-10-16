@@ -3,7 +3,7 @@ type: design
 id: focus-on-freshmen-study
 title: Focus on Freshmen Study
 description: The Focus on Freshmen Study is a UChicago CCSR research project examining the transition to high school and the school practices that contribute to ninth-grade performance.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

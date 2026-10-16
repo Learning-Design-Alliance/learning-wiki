@@ -3,7 +3,7 @@ type: claim
 title: "The paper examines high-performing teachers' willingness to transfer and the transfer offer's effect on receiving schools' internal dynamics"
 description: "The paper examines high-performing teachers' willingness to transfer and the transfer offer's effect on receiving schools' internal dynamics"
 id: transfer-offer-effects-teacher-willingness-and-school-dynamics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

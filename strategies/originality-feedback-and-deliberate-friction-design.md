@@ -3,7 +3,7 @@ type: strategy
 id: originality-feedback-and-deliberate-friction-design
 title: Design generative production tools with originality feedback, divergence-promoting generation, and deliberate friction anchored to documented mechanisms
 description: "The article anchors design implications to specific documented mechanisms rather than general principles: originality feedback addresses the invisibility of the output distribution, divergence-promoting generation tar..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

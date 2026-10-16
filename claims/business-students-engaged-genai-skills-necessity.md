@@ -3,7 +3,7 @@ type: claim
 title: First-year undergraduate business students reported high engagement and recognised the necessity of developing GenAI skills for their future careers
 description: First-year undergraduate business students reported high engagement and recognised the necessity of developing GenAI skills for their future careers
 id: business-students-engaged-genai-skills-necessity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

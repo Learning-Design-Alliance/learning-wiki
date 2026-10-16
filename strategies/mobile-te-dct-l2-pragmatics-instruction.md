@@ -3,7 +3,7 @@ type: strategy
 id: mobile-te-dct-l2-pragmatics-instruction
 title: Integrate mobile-application TE-DCTs into L2 pragmatics instruction to build metapragmatic awareness of nonverbals
 description: The authors advocate integrating TE-DCTs into L2 pedagogical practice, especially for teaching the sociopragmatics of nonverbals, an area traditionally neglected in the classroom.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

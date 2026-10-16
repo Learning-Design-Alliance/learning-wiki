@@ -3,7 +3,7 @@ type: claim
 title: Students made minimal reference to higher-level cognitive or metacognitive processing benefits of group work, departing from prior PBL research
 description: Students made minimal reference to higher-level cognitive or metacognitive processing benefits of group work, departing from prior PBL research
 id: minimal-reference-higher-level-processing-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

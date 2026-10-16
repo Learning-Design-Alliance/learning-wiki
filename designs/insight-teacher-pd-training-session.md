@@ -3,7 +3,7 @@ type: design
 id: insight-teacher-pd-training-session
 title: "INSIGHT: a three-hour teacher professional development training session on AI-based technologies for individualised instruction"
 description: INSIGHT (Information on Schooling with Generative AI and Helpful AI Tools) is a three-hour in-person TPD session for in-service teachers, designed as a pilot intervention to be iteratively refined before larger-scale...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

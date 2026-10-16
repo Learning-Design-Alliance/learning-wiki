@@ -3,7 +3,7 @@ type: claim
 title: Cognitive apprenticeship students became more anxious about mathematics but reported gains in self-confidence, rapport, and enjoyment
 description: Cognitive apprenticeship students became more anxious about mathematics but reported gains in self-confidence, rapport, and enjoyment
 id: cognitive-apprenticeship-attitude-anxiety-confidence-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

@@ -3,7 +3,7 @@ type: strategy
 id: frontload-tier1-teach-embedded-vocabulary-in-context
 title: "Front-load Tier 1 vocabulary before the science lesson and teach embedded scientific vocabulary in the lesson's context"
 description: "Montebello teachers learned to distinguish Tier 1 words (Beck, McKeown, & Kucan, 2002)—basic, everyday words not typically emphasized in instruction—from embedded vocabulary that emerges from the lesson."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

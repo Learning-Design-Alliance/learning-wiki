@@ -3,7 +3,7 @@ type: strategy
 id: guiding-questions-diversify-math-curriculum-assessments
 title: Use guiding questions to diversify existing mathematics curriculum and assessments when adopting a new curriculum is not possible
 description: When a new CRSE-aligned curriculum cannot be adopted, the brief provides a set of guiding questions for revising existing curriculum and assessments.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

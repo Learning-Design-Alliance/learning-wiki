@@ -3,7 +3,7 @@ type: claim
 title: Newark CMO-affiliated charters outgrew the state average in both subjects, while independent charters did so only in math
 description: Newark CMO-affiliated charters outgrew the state average in both subjects, while independent charters did so only in math
 id: newark-cmo-vs-independent-charter-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

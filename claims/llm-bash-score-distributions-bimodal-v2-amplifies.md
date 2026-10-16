@@ -3,7 +3,7 @@ type: claim
 title: All four evaluated LLMs produce strongly bimodal item-level score distributions on bash exams, and rubric-enhanced prompts amplify the near-perfect-score peak
 description: All four evaluated LLMs produce strongly bimodal item-level score distributions on bash exams, and rubric-enhanced prompts amplify the near-perfect-score peak
 id: llm-bash-score-distributions-bimodal-v2-amplifies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

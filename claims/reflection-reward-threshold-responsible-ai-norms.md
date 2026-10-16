@@ -3,7 +3,7 @@ type: claim
 title: In simulations, increasing the reflection reward produces a sharp threshold-driven transition around r ≈ 1.5, beyond which responsible AI use with meaningful reflection dominates and opportunistic AI use collapses
 description: In simulations, increasing the reflection reward produces a sharp threshold-driven transition around r ≈ 1.5, beyond which responsible AI use with meaningful reflection dominates and opportunistic AI use collapses
 id: reflection-reward-threshold-responsible-ai-norms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

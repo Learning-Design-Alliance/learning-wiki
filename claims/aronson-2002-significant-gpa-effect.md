@@ -3,7 +3,7 @@ type: claim
 title: Aronson et al. (2002) pen-pal growth mindset intervention produced a statistically significant positive effect on quarter GPA (effect size 0.85)
 description: Aronson et al.
 id: aronson-2002-significant-gpa-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

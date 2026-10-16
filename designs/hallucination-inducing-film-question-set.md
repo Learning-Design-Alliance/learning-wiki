@@ -3,7 +3,7 @@ type: design
 id: hallucination-inducing-film-question-set
 title: Hallucination-inducing film-detail question set with pre-generated incorrect AI responses
 description: "A six-question instrument about fine visual details of films (e.g., Agatha's hairstyle in The Grand Budapest Hotel), designed, in the article's words, to be \"both hard for participants to answer and likely to induce h..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

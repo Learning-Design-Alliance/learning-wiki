@@ -3,7 +3,7 @@ type: claim
 title: Discipline-general academic vocabulary (AWL use) supports cognitive engagement identification and may aid generalization across courses
 description: Discipline-general academic vocabulary (AWL use) supports cognitive engagement identification and may aid generalization across courses
 id: awl-academic-vocabulary-supports-engagement-identification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

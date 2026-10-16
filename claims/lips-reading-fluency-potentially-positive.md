@@ -3,7 +3,7 @@ type: claim
 title: "LiPS shows potentially positive effects on reading fluency: authors found significant effects on GORT–III Reading Accuracy and Reading Rate, but WWC analyses did not confirm significance"
 description: "LiPS shows potentially positive effects on reading fluency: authors found significant effects on GORT–III Reading Accuracy and Reading Rate, but WWC analyses did not confirm significance"
 id: lips-reading-fluency-potentially-positive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

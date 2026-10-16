@@ -3,7 +3,7 @@ type: claim
 title: Ninth-grade enrollment overall and by school type and accountability rating stayed relatively stable after GoCPS implementation
 description: Ninth-grade enrollment overall and by school type and accountability rating stayed relatively stable after GoCPS implementation
 id: gocps-enrollment-stable-after-implementation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

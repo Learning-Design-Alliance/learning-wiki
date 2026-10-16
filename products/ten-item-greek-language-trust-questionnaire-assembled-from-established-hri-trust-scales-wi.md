@@ -4,7 +4,7 @@ id: ten-item-greek-language-trust-questionnaire-assembled-from-established-hri-t
 title: Ten-item Greek-language trust questionnaire assembled from established HRI trust scales with Lawshe content validation
 description: A 10-item Greek-language Likert questionnaire developed by Anna-Maria Velentza et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

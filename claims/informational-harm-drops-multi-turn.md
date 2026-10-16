@@ -3,7 +3,7 @@ type: claim
 title: "Informational harm is the sole dimension that decreases in multi-turn interaction, dropping from 60.52% to 11.90%"
 description: "Informational harm is the sole dimension that decreases in multi-turn interaction, dropping from 60.52% to 11.90%"
 id: informational-harm-drops-multi-turn
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

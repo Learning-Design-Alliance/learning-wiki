@@ -3,7 +3,7 @@ type: claim
 title: "The interaction taxonomy's effectiveness within Memdora has not been empirically evaluated"
 description: "The interaction taxonomy's effectiveness within Memdora has not been empirically evaluated"
 id: memdora-taxonomy-not-empirically-evaluated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

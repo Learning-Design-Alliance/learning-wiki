@@ -3,7 +3,7 @@ type: strategy
 id: caregiver-empathy-interview-extension
 title: "Extend empathy interviews to students' caregivers for an additional perspective"
 description: "Step 2.1 of the exercise invites teachers to \"take the opportunity to also interview a caregiver of one of your students\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

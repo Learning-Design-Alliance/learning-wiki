@@ -4,7 +4,7 @@ id: teachingcoach-synthetic-dialogue-dataset-406183-training-examples
 title: TeachingCoach synthetic dialogue dataset (406,183 training examples)
 description: "Isabel Molnar et al.'s dataset of GPT-4o-generated, expert-filtered multi-turn instructor–consultant dialogues conditioned on teaching rules, instructor profiles, and teaching challenges."
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: element
 id: pgbm-towers-game-multiplicative-units
 title: Please Go and Bring for Me (PGBM) game for promoting reflection on units in multiplicative reasoning
 description: PGBM is a paired game in which a Sender asks a Bringer to build and bring back several same-size towers of cubes, one tower at a time, then answer four questions about towers, cubes per tower, total cubes, and how the...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

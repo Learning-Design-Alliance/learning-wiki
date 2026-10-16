@@ -59,10 +59,13 @@ Fading resolves the central tension of example-based learning: full examples are
 6. Advance learners based on completion accuracy, not time on task ([Mastery Learning](../elements/mastery-learning.md))
 
 ## Related Strategies
+
 - [Completion Problems](completion-problems-first.md) — the intermediate task format fading is built from
 - [Example-Problem Pairs](../elements/example-problem-pairs.md) — the alternating structure that fading sequences typically embed
 - [Self-Explanation Prompting](self-explanation-prompts.md) — prompts that deepen processing of the studied steps
 - [Scaffolded Problem Sequencing](scaffolded-problem-sequencing.md) — broader difficulty management across a task series
+- [Use learner skill levels to determine when to transition from worked examples to problem solving in tutoring systems](skill-based-adaptive-fading-schedule.md)
+- [Consider alternatives to self-explanation — instructional explanations, sequenced problem solving, retrieval practice — given its time demands](weigh-alternatives-to-self-explanation-time-demands.md)
 
 ## Examples
 - **Renkl & Atkinson's fading studies** — algebra word-problem tutors that faded worked examples backward across a six-step sequence, with completion accuracy determining advancement; see the [Carnegie Learning MATHia tutor](https://www.carnegielearning.com), which operationalizes adaptive example-to-problem transitions in secondary mathematics

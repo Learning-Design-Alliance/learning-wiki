@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' limited skills in facilitating conversations and managing classrooms was the second most salient implementation barrier"
 description: "Teachers' limited skills in facilitating conversations and managing classrooms was the second most salient implementation barrier"
 id: skill-barriers-conversation-facilitation-classroom-management
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

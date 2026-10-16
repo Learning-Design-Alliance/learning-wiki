@@ -3,7 +3,7 @@ type: claim
 title: Student–AI interactions in authentic coursework concentrate in a small number of recurring patterns rather than idiosyncratic use
 description: Student–AI interactions in authentic coursework concentrate in a small number of recurring patterns rather than idiosyncratic use
 id: student-ai-interactions-concentrate-recurring-patterns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

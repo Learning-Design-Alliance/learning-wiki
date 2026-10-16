@@ -3,7 +3,7 @@ type: strategy
 id: anticipatory-governance-implementation-recommendations
 title: Embed anticipatory governance in institutional strategy via Chief AI Officers, AI task forces, faculty AI-literacy development, and student co-design mechanisms
 description: "The review's practical recommendations translate its findings into implementable actions for university leaders, faculty, and institutions."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

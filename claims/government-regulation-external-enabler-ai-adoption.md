@@ -3,7 +3,7 @@ type: claim
 title: Government regulations and policy incentives are crucial external enablers of institutional AI adoption readiness
 description: Government regulations and policy incentives are crucial external enablers of institutional AI adoption readiness
 id: government-regulation-external-enabler-ai-adoption
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

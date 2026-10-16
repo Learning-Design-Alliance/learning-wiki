@@ -3,7 +3,7 @@ type: claim
 title: Teachers in Playworks schools were more likely to report that students enjoyed adult-organized recess activities
 description: Teachers in Playworks schools were more likely to report that students enjoyed adult-organized recess activities
 id: playworks-students-enjoyed-adult-organized-recess
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

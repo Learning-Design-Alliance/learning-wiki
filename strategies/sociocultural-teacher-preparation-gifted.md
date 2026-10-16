@@ -3,7 +3,7 @@ type: strategy
 id: sociocultural-teacher-preparation-gifted
 title: Prepare novice teachers of the gifted in the sociocultural context of the gifted classroom
 description: "The essay argues that novice teachers of the gifted must be educated to recognize the needs and nature of the social and cultural setting they enter, including the gifted classroom's cultural rules for dialogue, demon..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -49,4 +49,4 @@ The essay argues that novice teachers of the gifted must be educated to recogniz
 -
 
 ## Key Sources
-- McGlonn-Nelson, K. (2005). Looking Outward: Exploring the Intersections of Sociocultural Theory and Gifted Education. The Journal of Secondary Gifted Education, 17(1), 48-55. https://eric.ed.gov/?id=EJ746045
+- McGlonn-Nelson, K. (2005). Looking Outward: Exploring the Intersections of Sociocultural Theory and Gifted Education. The Journal of Secondary Gifted Education, 17(1), 48-55. https://eric.ed.gov/?id=EJ746045. [doi:10.4219/jsge-2005-391](https://doi.org/10.4219/jsge-2005-391)

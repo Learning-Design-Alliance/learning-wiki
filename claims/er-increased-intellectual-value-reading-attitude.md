@@ -3,7 +3,7 @@ type: claim
 title: Extensive reading increased the Intellectual Value Japanese EFL learners attached to foreign-language reading (r = .26)
 description: Extensive reading increased the Intellectual Value Japanese EFL learners attached to foreign-language reading (r = .26)
 id: er-increased-intellectual-value-reading-attitude
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

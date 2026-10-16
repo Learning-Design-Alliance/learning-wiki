@@ -4,7 +4,7 @@ id: alignment-and-coherence-framework-with-six-interrelated-domains-for-system-i
 title: Alignment and coherence framework with six interrelated domains for system improvement
 description: A Walrond et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

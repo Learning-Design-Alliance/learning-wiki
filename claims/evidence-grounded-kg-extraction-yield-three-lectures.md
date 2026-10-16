@@ -3,7 +3,7 @@ type: claim
 title: "Across three neural-network lectures, evidence and confidence checks retained 1,022 of 1,155 raw concept mentions (88.48%) and 312 of 400 raw relationship mentions (78.00%), yielding 172 canonical concepts and 282 graph relationships with 90.38% endpoint coverage"
 description: "Across three neural-network lectures, evidence and confidence checks retained 1,022 of 1,155 raw concept mentions (88.48%) and 312 of 400 raw relationship mentions (78.00%), yielding 172 canonical concepts and 282 gra..."
 id: evidence-grounded-kg-extraction-yield-three-lectures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

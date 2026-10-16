@@ -3,7 +3,7 @@ type: element
 id: emac-ethnic-minority-affairs-committee-case
 title: "EMAC: a standing faculty/student committee promoting empowerment in an academic program"
 description: The Ethnic Minority Affairs Committee (EMAC) of an educational psychology department is offered as a concrete case of the five Cs in action.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

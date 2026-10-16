@@ -3,7 +3,7 @@ type: claim
 title: In simulations, Bayesian GLASSO estimation outperforms frequentist GLASSO on bias in edge weights, centrality measures, correlation between estimated and true partial correlations, and specificity
 description: In simulations, Bayesian GLASSO estimation outperforms frequentist GLASSO on bias in edge weights, centrality measures, correlation between estimated and true partial correlations, and specificity
 id: bayesian-glasso-outperforms-frequentist-glasso-network-estimation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

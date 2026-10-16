@@ -3,7 +3,7 @@ type: claim
 title: "Among LLM users, Low-Reliance students (use in under half of submissions) consistently outperformed High-Reliance students by roughly 7-8% across all three midterms"
 description: "Among LLM users, Low-Reliance students (use in under half of submissions) consistently outperformed High-Reliance students by roughly 7-8% across all three midterms"
 id: low-reliance-outperformed-high-reliance-midterms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

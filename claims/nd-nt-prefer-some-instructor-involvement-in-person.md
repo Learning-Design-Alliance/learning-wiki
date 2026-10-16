@@ -3,7 +3,7 @@ type: claim
 title: ND and NT students both prefer some instructor involvement and in-person collaboration over fully student-directed and online collaboration
 description: ND and NT students both prefer some instructor involvement and in-person collaboration over fully student-directed and online collaboration
 id: nd-nt-prefer-some-instructor-involvement-in-person
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

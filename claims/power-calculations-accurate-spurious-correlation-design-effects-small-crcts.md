@@ -3,7 +3,7 @@ type: claim
 title: Power calculations for small CRCTs can be accurate when design effects from small-sample spurious correlations are taken into account
 description: Power calculations for small CRCTs can be accurate when design effects from small-sample spurious correlations are taken into account
 id: power-calculations-accurate-spurious-correlation-design-effects-small-crcts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

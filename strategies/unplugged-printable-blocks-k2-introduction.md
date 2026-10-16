@@ -3,7 +3,7 @@ type: strategy
 id: unplugged-printable-blocks-k2-introduction
 title: Unplugged coding with printable motion and trigger blocks as a physical introduction to online coding
 description: The webinar provides printable block images of motion and trigger blocks so young children can manipulate physical blocks before coding online.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: TK staffing needs grew with expansion while vacancy rates held steady, but LEAs projected nearly 2,400 additional assistant teachers for 2025–26
 description: TK staffing needs grew with expansion while vacancy rates held steady, but LEAs projected nearly 2,400 additional assistant teachers for 2025–26
 id: tk-staffing-needs-and-vacancies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

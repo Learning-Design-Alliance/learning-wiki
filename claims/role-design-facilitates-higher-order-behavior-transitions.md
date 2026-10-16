@@ -3,7 +3,7 @@ type: claim
 title: Role design facilitates transitions among higher-order collaborative behaviors in human-GAI collaboration
 description: Role design facilitates transitions among higher-order collaborative behaviors in human-GAI collaboration
 id: role-design-facilitates-higher-order-behavior-transitions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

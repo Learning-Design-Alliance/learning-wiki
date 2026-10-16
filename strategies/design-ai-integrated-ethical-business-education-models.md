@@ -3,7 +3,7 @@ type: strategy
 id: design-ai-integrated-ethical-business-education-models
 title: Design AI-integrated, ethically grounded, and adaptable business education models guided by bibliometric evidence
 description: "The study positions its findings as guidance for educational design: \"This study offers actionable guidance for educators, curriculum developers, and policymakers to design AI-integrated, ethically grounded, and adapt..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

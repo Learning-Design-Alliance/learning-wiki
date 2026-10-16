@@ -3,7 +3,7 @@ type: claim
 title: "The Power4Kids evaluation covered four widely used reading programs for elementary students with reading problems: Corrective Reading, Failure Free Reading, Spell Read P.A.T., and Wilson Reading"
 description: "The Power4Kids evaluation covered four widely used reading programs for elementary students with reading problems: Corrective Reading, Failure Free Reading, Spell Read P.A.T., and Wilson Reading"
 id: power4kids-four-reading-interventions-compared
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

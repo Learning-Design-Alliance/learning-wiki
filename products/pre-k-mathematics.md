@@ -4,7 +4,7 @@ id: pre-k-mathematics
 title: Pre-K Mathematics
 description: A supplemental preschool mathematics curriculum developed by Alice Klein and Prentice Starkey with Alma Ramirez and distributed by Pearson Scott Foresman.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

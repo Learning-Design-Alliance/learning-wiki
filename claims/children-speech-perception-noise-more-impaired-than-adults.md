@@ -3,7 +3,7 @@ type: claim
 title: "Children's speech perception in noise is more impaired than adults', requiring higher signal-to-noise ratios for comparable performance"
 description: "Children's speech perception in noise is more impaired than adults', requiring higher signal-to-noise ratios for comparable performance"
 id: children-speech-perception-noise-more-impaired-than-adults
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: LLM accuracy varies across mathematically equivalent problem representations even under deterministic decoding, in both interaction conditions
 description: LLM accuracy varies across mathematically equivalent problem representations even under deterministic decoding, in both interaction conditions
 id: llm-representational-sensitivity-equivalent-math-forms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

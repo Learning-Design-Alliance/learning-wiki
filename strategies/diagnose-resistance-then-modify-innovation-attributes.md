@@ -3,7 +3,7 @@ type: strategy
 id: diagnose-resistance-then-modify-innovation-attributes
 title: "Diagnose resistance causes, then modify innovation attributes or their perceptions, using Rogers's influential attributes"
 description: "When a change effort encounters resistance, the digest recommends using Zaltman and Duncan's Strategies for Planned Change to narrow down the causes, which may include perceived status erosion, lack of knowledge or sk..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

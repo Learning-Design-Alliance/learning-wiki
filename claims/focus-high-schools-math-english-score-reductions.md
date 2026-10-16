@@ -3,7 +3,7 @@ type: claim
 title: "Boston's Focus on High Schools initiative was associated with reductions in student math and English scores after implementation"
 description: "Boston's Focus on High Schools initiative was associated with reductions in student math and English scores after implementation"
 id: focus-high-schools-math-english-score-reductions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

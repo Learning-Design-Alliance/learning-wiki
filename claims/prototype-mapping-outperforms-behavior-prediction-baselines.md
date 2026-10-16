@@ -3,7 +3,7 @@ type: claim
 title: Knowledge-graph prototype mapping outperforms existing behavior-prediction baselines for student simulation
 description: Knowledge-graph prototype mapping outperforms existing behavior-prediction baselines for student simulation
 id: prototype-mapping-outperforms-behavior-prediction-baselines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

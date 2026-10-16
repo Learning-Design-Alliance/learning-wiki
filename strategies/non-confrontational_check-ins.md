@@ -63,7 +63,7 @@ Positive greetings and relationship-based check-ins measurably increase academic
 - [Classroom Routines and Procedures](classroom-routines-and-procedures.md) — check-ins work as the entry routine within a predictable structure
 
 ## Examples
-- **Positive Greetings at the Door (Cook et al., 2018)** — Middle school teachers greeted each student by name at the door, delivered brief nonconfrontational redirections, and checked in with visibly distressed students. The routine raised academic engaged time from roughly 55% to 75% of the period and cut disruptive behavior by about half.
+- **[Positive Greetings at the Door](positive-greetings-at-the-door.md) (Cook et al., 2018)** — Middle school teachers greeted each student by name at the door, delivered brief nonconfrontational redirections, and checked in with visibly distressed students. The routine raised academic engaged time from roughly 55% to 75% of the period and cut disruptive behavior by about half.
 - **Responsive Classroom Morning Meeting** — Elementary classrooms open with a greeting circle where each child is welcomed by name, institutionalizing the check-in as a whole-class routine ([https://www.responsiveclassroom.org](https://www.responsiveclassroom.org)).
 - **Secondary entry pulse check** — A high school teacher posts a 1–5 readiness scale; students tap their level on entry, and the teacher privately follows up with any 1s or 2s during the opening task.
 

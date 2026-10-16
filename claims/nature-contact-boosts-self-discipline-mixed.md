@@ -3,7 +3,7 @@ type: claim
 title: Contact with nature is generally tied to better impulse control and self-discipline in children, though effects are not always statistically significant
 description: Contact with nature is generally tied to better impulse control and self-discipline in children, though effects are not always statistically significant
 id: nature-contact-boosts-self-discipline-mixed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

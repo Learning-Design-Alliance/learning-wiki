@@ -3,7 +3,7 @@ type: claim
 title: "GPT-generated feedback passes simulated-student helpfulness evaluations only about 35% of the time on real student data"
 description: "GPT-generated feedback passes simulated-student helpfulness evaluations only about 35% of the time on real student data"
 id: gpt-feedback-passes-automated-helpfulness-35-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

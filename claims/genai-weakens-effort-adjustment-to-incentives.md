@@ -3,7 +3,7 @@ type: claim
 title: GenAI use weakens effort adjustment to incentives on subsequent unaided reasoning
 description: GenAI use weakens effort adjustment to incentives on subsequent unaided reasoning
 id: genai-weakens-effort-adjustment-to-incentives
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

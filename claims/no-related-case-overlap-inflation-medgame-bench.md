@@ -3,7 +3,7 @@ type: claim
 title: Related-case overlap between MedGame Bench train and test splits shows no significant performance difference
 description: Related-case overlap between MedGame Bench train and test splits shows no significant performance difference
 id: no-related-case-overlap-inflation-medgame-bench
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

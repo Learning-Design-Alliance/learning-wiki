@@ -4,7 +4,7 @@ id: colearn-deployable-containerised-web-system
 title: CoLearn deployable containerised web system
 description: CoLearn is a containerised web application developed by Kailai He et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

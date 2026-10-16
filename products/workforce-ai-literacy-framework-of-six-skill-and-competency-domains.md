@@ -4,7 +4,7 @@ id: workforce-ai-literacy-framework-of-six-skill-and-competency-domains
 title: Workforce AI literacy framework of six skill and competency domains
 description: A workforce-oriented framework organizing AI literacy into six domains—Technical Knowledge, Practical Implementation, Analytical Skills, Interpersonal and Communication Skills, Ethical Evaluation, and Adaptive Skills—developed by Zachariah et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

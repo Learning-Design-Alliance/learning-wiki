@@ -3,7 +3,7 @@ type: claim
 title: A 4B per-student simulator solves a held-out Socratic-guidance chess case where prompted GPT-5.4 fails, indicating multi-turn training adds guidance-following capability beyond hint copying
 description: A 4B per-student simulator solves a held-out Socratic-guidance chess case where prompted GPT-5.4 fails, indicating multi-turn training adds guidance-following capability beyond hint copying
 id: studentsim-socratic-case-beats-prompted-frontier-llm
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

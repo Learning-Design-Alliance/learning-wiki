@@ -3,7 +3,7 @@ type: claim
 title: School median student growth percentiles correlate with student disadvantage
 description: School median student growth percentiles correlate with student disadvantage
 id: school-mgp-correlates-student-disadvantage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

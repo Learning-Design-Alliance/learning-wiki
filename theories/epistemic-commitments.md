@@ -3,7 +3,7 @@ type: theory
 title: Epistemic Commitments
 description: Dynamic, student-originated values (not disciplinary ideals imposed from outside) that shape which models students build, use, and trust — functioning as forward-looking impulses for further inquiry, not just backward-looking criteria for judging a finished model.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

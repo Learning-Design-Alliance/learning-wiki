@@ -3,7 +3,7 @@ type: claim
 title: Trim-and-fill analysis shows no publication bias in the meta-analysis of innovative learning effects on mathematical problem-solving ability
 description: Trim-and-fill analysis shows no publication bias in the meta-analysis of innovative learning effects on mathematical problem-solving ability
 id: trim-fill-no-publication-bias-innovative-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
@@ -70,3 +70,5 @@ Comparison of forest plots before and after applying the trim and fill model (Fi
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — related
 - The predominance of positive findings across small, uncontrolled studies suggests a high likelihood of unpublished null or negative results — related
 - Publication-bias diagnostics suggest minimal influence on the meta-analytic findings, with a borderline Begg's test — related
+- Funnel-plot and fail-safe N analyses indicate small publication bias, and one-study-removal analysis indicates stable pooled effects — related
+- [Funnel-plot asymmetry was significant in both meta-analyses, indicating possible publication or selection bias](funnel-plot-asymmetry-significant-eai.md) — related

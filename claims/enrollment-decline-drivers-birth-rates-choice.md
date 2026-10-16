@@ -3,7 +3,7 @@ type: claim
 title: The primary driver of declining enrollment is a sustained drop in birth rates, with slowed immigration and expanded school choice as additional drivers
 description: The primary driver of declining enrollment is a sustained drop in birth rates, with slowed immigration and expanded school choice as additional drivers
 id: enrollment-decline-drivers-birth-rates-choice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

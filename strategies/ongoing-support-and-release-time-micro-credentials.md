@@ -3,7 +3,7 @@ type: strategy
 id: ongoing-support-and-release-time-micro-credentials
 title: Provide ongoing support and school-day time for teachers completing micro-credentials
 description: "The report recommends sustained, coherent support during the school year rather than episodic professional learning: leaders met cohorts at least three or four times in person, some held monthly virtual meetings, and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

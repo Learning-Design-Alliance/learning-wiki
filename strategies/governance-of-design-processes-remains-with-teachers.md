@@ -3,7 +3,7 @@ type: strategy
 id: governance-of-design-processes-remains-with-teachers
 title: Keep governance of teacher-AI design processes with teachers
 description: The review recommends that control over AI-supported instructional design must stay with teachers rather than defaulting to AI outputs.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

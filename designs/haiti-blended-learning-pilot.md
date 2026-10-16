@@ -3,7 +3,7 @@ type: design
 id: haiti-blended-learning-pilot
 title: Haiti Blended Learning Pilot in 33 rural primary schools
 description: "A two-year Digital Promise project working \"with 33 rural primary schools in 2 departments\" covering public, religious, and community schools."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

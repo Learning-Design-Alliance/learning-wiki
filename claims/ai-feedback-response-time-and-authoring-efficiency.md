@@ -3,7 +3,7 @@ type: claim
 title: The AI feedback system returns responses in under a second for MCQs and about six seconds for open-ended questions, and its reusable prompt is roughly 2.77 times more time-efficient to prepare than equivalent educator text
 description: The AI feedback system returns responses in under a second for MCQs and about six seconds for open-ended questions, and its reusable prompt is roughly 2.77 times more time-efficient to prepare than equivalent educator...
 id: ai-feedback-response-time-and-authoring-efficiency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

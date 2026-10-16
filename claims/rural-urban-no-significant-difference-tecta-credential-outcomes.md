@@ -3,7 +3,7 @@ type: claim
 title: Rural and urban TECTA participants showed no statistically significant differences in credential attainment or time to completion
 description: Rural and urban TECTA participants showed no statistically significant differences in credential attainment or time to completion
 id: rural-urban-no-significant-difference-tecta-credential-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

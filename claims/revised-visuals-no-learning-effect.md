@@ -3,7 +3,7 @@ type: claim
 title: Revisions to visuals had no effect on post-lesson test scores, though prior knowledge predicted performance
 description: Revisions to visuals had no effect on post-lesson test scores, though prior knowledge predicted performance
 id: revised-visuals-no-learning-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

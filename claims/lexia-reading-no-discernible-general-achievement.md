@@ -3,7 +3,7 @@ type: claim
 title: Lexia Reading shows no discernible effects on general reading achievement
 description: Lexia Reading shows no discernible effects on general reading achievement
 id: lexia-reading-no-discernible-general-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

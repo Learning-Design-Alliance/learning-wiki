@@ -3,7 +3,7 @@ type: claim
 title: CPS elementary ITBS scores improved across the 1990s in both reading and math for all age groups, but trend gains flattened after 1998
 description: CPS elementary ITBS scores improved across the 1990s in both reading and math for all age groups, but trend gains flattened after 1998
 id: cps-itbs-decade-gains-flattened-after-1998
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: design
 id: hybrid-grading-behavior-below-quality-above-threshold
 title: "Hybrid grading: behavior-based grades up to a threshold, quality-based grades above it"
 description: "The article's organizing framework splits the grading scale by what earns the grade: below the threshold (B), the grade rests wholly on observable behaviors and completion; above it, the grade rests wholly on judged q..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-14

@@ -3,7 +3,7 @@ type: claim
 title: Perceptions of the sustainability of collaboration efforts beyond the grant period were mixed across grantee sites, and some respondents doubted cooperation alone is a viable mechanism for improving school effectiveness
 description: Perceptions of the sustainability of collaboration efforts beyond the grant period were mixed across grantee sites, and some respondents doubted cooperation alone is a viable mechanism for improving school effectiveness
 id: mixed-sustainability-perceptions-doubts-about-cooperation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

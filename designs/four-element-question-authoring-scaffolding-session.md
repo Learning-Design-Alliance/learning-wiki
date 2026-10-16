@@ -3,7 +3,7 @@ type: design
 id: four-element-question-authoring-scaffolding-session
 title: Four-element in-class scaffolding session preparing students to author high-quality questions
 description: "Before the first assessed authoring task, the courses ran a 90-minute session of four elements: a content-neutral quiz teaching MCQ language, a self-diagnosis quiz guiding students toward learning orientation, a quest..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -46,4 +46,4 @@ Before the first assessed authoring task, the courses ran a 90-minute session of
 -
 
 ## Key Sources
-- Bates, S. P., Galloway, R. K., Riise, J., and Homer, D. (2013). Assessing the quality of a student-generated question repository. https://arxiv.org/abs/1308.2202
+- Bates, S. P., Galloway, R. K., Riise, J., and Homer, D. (2013). Assessing the quality of a student-generated question repository. https://arxiv.org/abs/1308.2202. [doi:10.48550/arxiv.1308.2202](https://doi.org/10.48550/arxiv.1308.2202)

@@ -3,7 +3,7 @@ type: claim
 title: Interviewees attributed writing improvement to explicit instruction, scaffolding and collaborative learning, and self-regulated writing, though some felt uncomfortable in pair work
 description: Interviewees attributed writing improvement to explicit instruction, scaffolding and collaborative learning, and self-regulated writing, though some felt uncomfortable in pair work
 id: gbsri-interview-attributions-and-pair-work-discomfort
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

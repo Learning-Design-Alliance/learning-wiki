@@ -3,7 +3,7 @@ type: strategy
 id: early-prediction-adaptive-pedagogical-strategy
 title: Use early student-model predictions to identify at-risk students and adapt pedagogical strategy during tutoring
 description: "The article's findings yield a learning environment that can \"foretell students' performance and learning gains early, and can render adaptive pedagogical strategy accordingly\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

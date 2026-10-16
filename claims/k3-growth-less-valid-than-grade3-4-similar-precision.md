@@ -3,7 +3,7 @@ type: claim
 title: "Schools' K-3 growth estimates are likely less valid than grade 3-4 growth estimates but have similar precision"
 description: "Schools' K-3 growth estimates are likely less valid than grade 3-4 growth estimates but have similar precision"
 id: k3-growth-less-valid-than-grade3-4-similar-precision
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -2,7 +2,7 @@
 type: theory
 title: STEM-based instructional model for elementary ICT skills with five main elements
 description: The article proposes an instructional model based on the STEM education approach to enhance ICT skills for Thai elementary students.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: "In pairwise LLM-judge comparisons PsyScore-AEF wins over 90% in Actionability against GPT-4o and Llama, and removing the psychometric module reduces Adaptivity and Tone wins with PsyScore retaining above 75%"
 description: "In pairwise LLM-judge comparisons PsyScore-AEF wins over 90% in Actionability against GPT-4o and Llama, and removing the psychometric module reduces Adaptivity and Tone wins with PsyScore retaining above 75%"
 id: psyscore-feedback-actionability-win-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

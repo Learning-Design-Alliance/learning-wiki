@@ -3,7 +3,7 @@ type: claim
 title: Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes
 description: Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes
 id: msr-mediation-ai-interaction-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -71,3 +71,4 @@ Mediation testing used bias-corrected bootstrapping with 5,000 resamples and 95%
 - [Recurring mechanism clusters — self-regulation, metacognition, critical thinking, self-efficacy, trust, feedback literacy, AI literacy — link GenAI use to agency outcomes](genai-agency-mechanism-clusters.md) — a broader claim this one bears on
 - [GenAI can support learner agency through self-regulated learning, self-efficacy, and feedback literacy under appropriate conditions](genai-agency-supportive-patterns.md) — related
 - [LLMs can deliver scalable, personalized, interactive feedback almost instantly, reducing dependency on teacher availability and supporting self-regulated learning in large courses](llms-scalable-personalized-feedback-large-courses.md) — related
+- [Perceived usefulness of the AI assistant significantly and partially mediated the relationship between AI-assisted programming and collaborative outcomes and performance](perceived-usefulness-mediation-ai-programming-outcomes.md) — related

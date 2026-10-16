@@ -3,7 +3,7 @@ type: claim
 title: Subgroup (moderator) analyses in education impact evaluations can be based on participant characteristics measured before the intervention is implemented
 description: Subgroup (moderator) analyses in education impact evaluations can be based on participant characteristics measured before the intervention is implemented
 id: pre-intervention-moderator-analyses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -49,3 +49,4 @@ The report identifies pre-intervention characteristics as one basis for subgroup
 - The attendance impact of Future Forward is larger for Black students, male students, and students with low baseline attendance — a narrower finding that bears on this claim
 - [Exploratory subgroup and correlation analyses show mostly no significant differences in benefit or experience scores by child and family characteristics](aac-perceptions-null-subgroup-associations.md) — related
 - [Class size, course level, and discipline did not explain significant variation in how achievement gaps changed under active learning](class-size-level-discipline-not-significant-moderators.md) — related
+- [Most study, measurement, and intervention moderators did not explain significant variance in SRL intervention effect sizes](srl-intervention-moderators-most-nonsignificant.md) — a narrower finding that bears on this claim

@@ -3,7 +3,7 @@ type: claim
 title: "INSIDE fine-tuning achieves the highest alignment between generated internal dialogue and ground-truth student code edits, up to 57.9%"
 description: "INSIDE fine-tuning achieves the highest alignment between generated internal dialogue and ground-truth student code edits, up to 57.9%"
 id: inside-highest-reasoning-alignment-57-9
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

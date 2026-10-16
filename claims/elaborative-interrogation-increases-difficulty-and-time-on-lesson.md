@@ -3,7 +3,7 @@ type: claim
 title: Elaborative interrogation increased perceived difficulty and time spent with the lesson
 description: Elaborative interrogation increased perceived difficulty and time spent with the lesson
 id: elaborative-interrogation-increases-difficulty-and-time-on-lesson
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: Students transition between student and proto-professional roles in informal SNS discourse, bridging learning and design practice
 description: Students transition between student and proto-professional roles in informal SNS discourse, bridging learning and design practice
 id: student-proto-professional-role-transition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

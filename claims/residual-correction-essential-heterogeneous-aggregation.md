@@ -3,7 +3,7 @@ type: claim
 title: "Residual correction is essential: removing it while retaining LDP yields MAE worse than the single-LLM baseline across all datasets"
 description: "Residual correction is essential: removing it while retaining LDP yields MAE worse than the single-LLM baseline across all datasets"
 id: residual-correction-essential-heterogeneous-aggregation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Substantial proportions of students self-report cheating and misconduct during exams, with higher rates in high schools than colleges
 description: Substantial proportions of students self-report cheating and misconduct during exams, with higher rates in high schools than colleges
 id: self-reported-cheating-rates-college-high-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

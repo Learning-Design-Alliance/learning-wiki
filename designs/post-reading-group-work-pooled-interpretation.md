@@ -3,7 +3,7 @@ type: design
 id: post-reading-group-work-pooled-interpretation
 title: Post-reading group work in small groups where individual efforts are pooled to interpret the text
 description: After the detailed work of a text is completed, the article recommends returning to global understanding through oral group discussion before whole-class discussion.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

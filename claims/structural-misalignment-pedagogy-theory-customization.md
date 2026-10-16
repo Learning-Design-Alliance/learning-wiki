@@ -3,7 +3,7 @@ type: claim
 title: "Structural misalignment: learning-oriented goals are predominantly operationalized through performance-driven theories and modular customization"
 description: "Structural misalignment: learning-oriented goals are predominantly operationalized through performance-driven theories and modular customization"
 id: structural-misalignment-pedagogy-theory-customization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

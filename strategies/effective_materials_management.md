@@ -65,7 +65,7 @@ Materials management is a low-cost environmental intervention that protects inst
 - [Provide easily accessible resource repositories and assessment tools to reduce teachers' time spent searching for and adapting OpenSciEd materials](accessible-resource-repositories-for-openscied-teachers.md)
 
 ## Examples
-- **Responsive Classroom** (https://www.responsiveclassroom.org) — teacher language and routines for teaching students to manage classroom materials and transitions explicitly.
+- **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveclassroom.org) — teacher language and routines for teaching students to manage classroom materials and transitions explicitly.
 - **AVID (Advancement Via Individual Determination)** (https://www.avid.org) — the binder system is a student-carried materials management structure: labeled sections, pencil pouch, and regular binder checks that build organizational habits.
 - **Google Classroom / LMS folder conventions** — the digital analogue: consistently named topics and assignments so students locate materials without searching.
 

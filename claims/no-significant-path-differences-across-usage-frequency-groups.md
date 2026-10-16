@@ -3,7 +3,7 @@ type: claim
 title: Structural paths did not differ significantly across AI usage-frequency groups, though exploratory coefficients varied numerically
 description: Structural paths did not differ significantly across AI usage-frequency groups, though exploratory coefficients varied numerically
 id: no-significant-path-differences-across-usage-frequency-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -77,3 +77,4 @@ Descriptive group-specific coefficients from Table 9; the authors present these 
 - [An exploratory path model suggests perceived responsible behavior mediates the association between KBD and both learner motivation and acceptance](kbd-path-model-responsible-behavior-predicts-motivation-acceptance.md) — related
 - [Among Chinese higher vocational students, GenAI usage habits and usage contexts are positively associated with perceived learning outcomes while usage frequency is negatively associated, controlling for gender and grade](genai-usage-habits-positive-frequency-negative-predictors-vocational-outcomes.md) — related
 - [Teachers who see AI usage opportunities more frequently use AI significantly more often (r = .45 in class)](seen-opportunities-correlate-with-ai-use.md) — related
+- [GAI-related and GAI-unrelated AI tools show no significant difference in their moderating effects on K-12 STEM learning outcomes](gai-usage-no-moderating-effect.md) — related

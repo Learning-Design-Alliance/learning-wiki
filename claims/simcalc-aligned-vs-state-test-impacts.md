@@ -3,7 +3,7 @@ type: claim
 title: SimCalc scale-up study showed significant positive impacts on curriculum-aligned conceptual items but no significant difference on state test items
 description: SimCalc scale-up study showed significant positive impacts on curriculum-aligned conceptual items but no significant difference on state test items
 id: simcalc-aligned-vs-state-test-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

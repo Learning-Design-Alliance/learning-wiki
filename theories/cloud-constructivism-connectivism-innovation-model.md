@@ -2,7 +2,7 @@
 type: theory
 title: Cloud-based constructivism and connectivism learning model for promoting creation of educational innovations
 description: A learning model combining constructivism, connectivism, and cloud technology to support undergraduates in creating educational innovations.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

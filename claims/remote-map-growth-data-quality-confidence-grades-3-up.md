@@ -3,7 +3,7 @@ type: claim
 title: Findings of reliability, engagement, and consistent score trends increase confidence in the quality of remotely administered MAP Growth data in grades 3 and up
 description: Findings of reliability, engagement, and consistent score trends increase confidence in the quality of remotely administered MAP Growth data in grades 3 and up
 id: remote-map-growth-data-quality-confidence-grades-3-up
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

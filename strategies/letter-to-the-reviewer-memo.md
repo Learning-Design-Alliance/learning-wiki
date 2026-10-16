@@ -3,7 +3,7 @@ type: strategy
 id: letter-to-the-reviewer-memo
 title: Use a Letter to the Reviewer reflective memo submitted with each draft
 description: A Letter to the Reviewer is a short reflective note or memo submitted with each draft in which students pinpoint both the strengths and weaknesses of their paper and request specific feedback that, from their perspect...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

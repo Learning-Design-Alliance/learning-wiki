@@ -3,7 +3,7 @@ type: strategy
 id: simulation-prevalidation-before-classroom-deployment
 title: Simulation-based pre-validation of adaptive coaching systems before classroom deployment
 description: The authors advocate evaluating adaptive coaching logic on LLM-based simulated learners before classroom deployment, citing practical, ethical, and institutional considerations.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: strategy
 id: mindfulness-tools-restorative-justice-conflict-resolution
 title: Use pausing, body-centered awareness, and mindful listening as tools in restorative justice and conflict resolution
 description: For elementary and secondary students, the brief recommends mindfulness practices to facilitate perspective-taking in conflict resolution and restore mutual respect.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

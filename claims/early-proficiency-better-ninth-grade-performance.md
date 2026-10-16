@@ -3,7 +3,7 @@ type: claim
 title: Hispanic ELLs proficient before sixth grade performed better in ninth-grade courses than other Hispanic subgroups
 description: Hispanic ELLs proficient before sixth grade performed better in ninth-grade courses than other Hispanic subgroups
 id: early-proficiency-better-ninth-grade-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

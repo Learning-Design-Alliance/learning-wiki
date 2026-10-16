@@ -4,7 +4,7 @@ id: socraticode
 title: SocratiCode
 description: A prompt-based Socratic and adaptive generative-AI tutoring framework for K–12 beginners learning Python, developed by the study authors.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

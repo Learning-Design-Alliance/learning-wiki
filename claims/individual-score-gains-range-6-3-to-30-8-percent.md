@@ -3,7 +3,7 @@ type: claim
 title: "Individual writing-test scores improved for all thirty students between cycles, with gains ranging from 6.3% to 30.8% and no student declining"
 description: "Individual writing-test scores improved for all thirty students between cycles, with gains ranging from 6.3% to 30.8% and no student declining"
 id: individual-score-gains-range-6-3-to-30-8-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

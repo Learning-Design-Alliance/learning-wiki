@@ -3,7 +3,7 @@ type: claim
 title: RLMM runtime stays within approximately 15–20 seconds across the four peg-solitaire boards while MDP-MM runtime grows with task complexity, reaching a 19.1× speedup on the diamond board
 description: RLMM runtime stays within approximately 15–20 seconds across the four peg-solitaire boards while MDP-MM runtime grows with task complexity, reaching a 19.1× speedup on the diamond board
 id: rlmm-stable-runtime-speedup-growing-complexity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

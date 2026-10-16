@@ -3,7 +3,7 @@ type: claim
 title: "TK staffing shortages improved: TK assistant teacher vacancies fell from 12% to 3%, and 91% of LEAs reported enough lead teachers meeting 2025–26 requirements"
 description: "TK staffing shortages improved: TK assistant teacher vacancies fell from 12% to 3%, and 91% of LEAs reported enough lead teachers meeting 2025–26 requirements"
 id: tk-staffing-vacancies-improved-2023-24
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

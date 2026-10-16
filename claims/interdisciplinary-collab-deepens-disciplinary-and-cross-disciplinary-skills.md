@@ -3,7 +3,7 @@ type: claim
 title: "Interdisciplinary studio collaboration deepened students' disciplinary skills while exposing them to cross-disciplinary skills"
 description: "Interdisciplinary studio collaboration deepened students' disciplinary skills while exposing them to cross-disciplinary skills"
 id: interdisciplinary-collab-deepens-disciplinary-and-cross-disciplinary-skills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

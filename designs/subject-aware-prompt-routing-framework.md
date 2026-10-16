@@ -3,7 +3,7 @@ type: design
 id: subject-aware-prompt-routing-framework
 title: Subject-aware adaptive prompt routing framework for LLM tutoring
 description: "The article formalizes adaptive prompt selection as a contextual bandit routing problem: the router observes a pedagogical input fusing a topic embedding with a learnable subject embedding, and selects a tutoring prom..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

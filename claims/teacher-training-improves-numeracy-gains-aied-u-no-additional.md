@@ -3,7 +3,7 @@ type: claim
 title: Students taught by teachers who received training outperformed those in the control condition, and adding the AIED-U system did not improve learning gains further beyond training alone
 description: Students taught by teachers who received training outperformed those in the control condition, and adding the AIED-U system did not improve learning gains further beyond training alone
 id: teacher-training-improves-numeracy-gains-aied-u-no-additional
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

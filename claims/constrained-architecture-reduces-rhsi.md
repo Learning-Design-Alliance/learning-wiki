@@ -3,7 +3,7 @@ type: claim
 title: A constrained architecture combining prerequisite enforcement and a minimum cognitive-demand floor substantially reduces reward hacking, lowering RHSI from 0.317 (MO) to 0.102 (ST)
 description: A constrained architecture combining prerequisite enforcement and a minimum cognitive-demand floor substantially reduces reward hacking, lowering RHSI from 0.317 (MO) to 0.102 (ST)
 id: constrained-architecture-reduces-rhsi
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

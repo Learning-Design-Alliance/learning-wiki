@@ -3,7 +3,7 @@ type: claim
 title: "Success schools' student GPAs did not show much improvement in the first two years"
 description: "Success schools' student GPAs did not show much improvement in the first two years"
 id: success-project-gpas-little-improvement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

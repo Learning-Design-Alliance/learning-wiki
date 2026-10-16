@@ -3,7 +3,7 @@ type: claim
 title: Test length, focal group distribution, number of DIF items, and direction of DIF had little effect on detection rates
 description: Test length, focal group distribution, number of DIF items, and direction of DIF had little effect on detection rates
 id: polytomous-dfit-factors-little-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

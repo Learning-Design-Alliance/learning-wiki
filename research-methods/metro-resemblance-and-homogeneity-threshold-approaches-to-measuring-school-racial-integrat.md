@@ -3,7 +3,7 @@ type: research-method
 id: metro-resemblance-and-homogeneity-threshold-approaches-to-measuring-school-racial-integrat
 title: Metro-resemblance and homogeneity-threshold approaches to measuring school racial integration
 description: "The article argues that common integration measures are flawed: counting minority students, evenness within already-segregated districts, using public schools as the benchmark, or comparing participants with non-participants all \"fail to square with the common understanding of racial integration.\" I"
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

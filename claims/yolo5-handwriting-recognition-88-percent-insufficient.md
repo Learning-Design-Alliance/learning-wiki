@@ -3,7 +3,7 @@ type: claim
 title: "An earlier YOLO-5-based handwriting recognition method reached only 88.28% accuracy on examination table fields, which the authors judge insufficient for summative assessment"
 description: "An earlier YOLO-5-based handwriting recognition method reached only 88.28% accuracy on examination table fields, which the authors judge insufficient for summative assessment"
 id: yolo5-handwriting-recognition-88-percent-insufficient
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

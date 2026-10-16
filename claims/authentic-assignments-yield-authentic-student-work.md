@@ -3,7 +3,7 @@ type: claim
 title: Students whose assignments are more authentic produce more authentic intellectual work in both writing and mathematics
 description: Students whose assignments are more authentic produce more authentic intellectual work in both writing and mathematics
 id: authentic-assignments-yield-authentic-student-work
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

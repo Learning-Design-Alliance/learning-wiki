@@ -3,7 +3,7 @@ type: claim
 title: Teachers in Playworks schools reported significantly better student behavior at recess and readiness for class
 description: Teachers in Playworks schools reported significantly better student behavior at recess and readiness for class
 id: playworks-better-recess-behavior-and-class-readiness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

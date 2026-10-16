@@ -3,7 +3,7 @@ type: claim
 title: Teachers prepared through traditional certification pathways are retained at higher rates over 5 years than alternatively certified or noncertified Texas teachers
 description: Teachers prepared through traditional certification pathways are retained at higher rates over 5 years than alternatively certified or noncertified Texas teachers
 id: traditional-pathway-higher-retention-texas
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: check-question-levels-and-train-higher-order
 title: Teachers should check question levels with software after writing papers and be trained in preparing higher-order questions
 description: The article recommends that after making question papers, teachers verify the cognitive-level balance of their questions and that institutions improve paper-making criteria.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -90,7 +90,7 @@ Annotation works because it forces selection and organization of ideas rather th
 - **Perusall** (https://www.perusall.com) — social annotation platform where students annotate course readings collaboratively and AI-scored annotation quality feeds into grading; used widely in flipped and large-enrollment courses.
 - **Hypothesis** (https://web.hypothes.is) — open web annotation layer used in LMS-integrated reading assignments, enabling instructor-seeded annotation prompts.
 - **AP/IB disciplinary reading protocols** — history and English courses using claim/evidence/question annotation codes on primary sources before seminar discussion.
-- **Reading Apprenticeship** (https://readingapprenticeship.org) — WestEd professional-development framework that trains teachers to model metacognitive text annotation across disciplines.
+- **[Reading Apprenticeship](../products/reading-apprenticeship.md)** (https://readingapprenticeship.org) — WestEd professional-development framework that trains teachers to model metacognitive text annotation across disciplines.
 - **[Perusall](https://www.perusall.com)** — social annotation platform where students annotate course readings collaboratively and the system scores annotation quality; widely used in higher-ed STEM courses.
 - **[Hypothesis](https://web.hypothes.is)** — open web annotation used in LMS-integrated reading assignments.
 - **AP/Dual-enrollment English classrooms** — structured annotation of rhetoric (SOAPStone: Speaker, Occasion, Audience, Purpose, Subject, Tone) as preparation for argument analysis essays.

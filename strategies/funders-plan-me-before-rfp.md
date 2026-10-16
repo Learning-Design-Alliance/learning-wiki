@@ -3,7 +3,7 @@ type: strategy
 id: funders-plan-me-before-rfp
 title: "Funders should develop learning goals, plan their M&E approach, and communicate expectations before releasing an RFP and awarding grants"
 description: "The brief recommends that, before releasing a request for proposals and awarding grants, funders \"develop their learning goals, plan their measurement and evaluation (M&E) approach, and communicate expectations to pro..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

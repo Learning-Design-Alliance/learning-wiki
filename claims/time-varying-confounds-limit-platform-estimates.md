@@ -3,7 +3,7 @@ type: claim
 title: "Time-varying confounds (e.g., hiring a tutor, school policy changes) remain an uneliminated threat to the platform's estimated effects"
 description: "Time-varying confounds (e.g., hiring a tutor, school policy changes) remain an uneliminated threat to the platform's estimated effects"
 id: time-varying-confounds-limit-platform-estimates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

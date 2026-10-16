@@ -3,7 +3,7 @@ type: claim
 title: "California's ECE programs are held to very different quality standards, producing unequal learning opportunities for similar children"
 description: "California's ECE programs are held to very different quality standards, producing unequal learning opportunities for similar children"
 id: california-ece-uneven-quality-standards
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

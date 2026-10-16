@@ -3,7 +3,7 @@ type: strategy
 id: targeted-educational-group-activities-strategy-older-people-isolation
 title: Deliver social isolation and loneliness interventions for older people as group activities with educational or support input, targeted at specific groups
 description: "The review's synthesis supports delivering interventions as group activities that include an educational or support input and that \"target specific groups\" of older people, rather than generic one-to-one support, advi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

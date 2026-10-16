@@ -3,7 +3,7 @@ type: claim
 title: First-year (1995) Challenge grantmaking concentrated on networks with higher-education and community-based partners, which received most grants and dollars
 description: First-year (1995) Challenge grantmaking concentrated on networks with higher-education and community-based partners, which received most grants and dollars
 id: annenberg-1995-grantmaking-higher-education-concentration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

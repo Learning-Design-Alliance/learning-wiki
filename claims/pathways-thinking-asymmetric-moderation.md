@@ -3,7 +3,7 @@ type: claim
 title: Pathways thinking strengthens the inconsistency–challenge appraisal link and the positive conditional indirect effect, but does not significantly weaken the hindrance pathway
 description: Pathways thinking strengthens the inconsistency–challenge appraisal link and the positive conditional indirect effect, but does not significantly weaken the hindrance pathway
 id: pathways-thinking-asymmetric-moderation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

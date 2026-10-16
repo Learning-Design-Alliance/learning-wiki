@@ -3,7 +3,7 @@ type: claim
 title: Eco-anxiety is positively associated with symptoms of depression and anxiety, per a review of 35 studies
 description: Eco-anxiety is positively associated with symptoms of depression and anxiety, per a review of 35 studies
 id: eco-anxiety-associated-depression-anxiety
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

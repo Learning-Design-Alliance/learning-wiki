@@ -3,7 +3,7 @@ type: claim
 title: "Promoting minority children's L1 raises L1 achievement at no cost to L2 achievement"
 description: "Promoting minority children's L1 raises L1 achievement at no cost to L2 achievement"
 id: l1-maintenance-supports-l2-without-cost
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

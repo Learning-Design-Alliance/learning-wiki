@@ -3,7 +3,7 @@ type: claim
 title: Game benefits are similar in magnitude for cognitive and intrapersonal outcomes, while the single interpersonal outcome was not significant
 description: Game benefits are similar in magnitude for cognitive and intrapersonal outcomes, while the single interpersonal outcome was not significant
 id: cognitive-intrapersonal-similar-interpersonal-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
@@ -11,7 +11,7 @@ evidence_strength: weak
 sources:
   - id: clark-2016
     resource: "https://doi.org/10.3102/0034654315582065"
-    title: "Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital Games, Design, and Learning: A Systematic Review and Meta-Analysis. Review of Educational Research, 86(1). https://doi.org/10.3102/0034654315582065"
+    title: "Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital Games, Design, and Learning: A Systematic Review and Meta-Analysis. Review of Educational Research, 86(1), 79–122. https://doi.org/10.3102/0034654315582065"
     author: "Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S."
     q: 3
     i: 1
@@ -19,7 +19,7 @@ sources:
     rigour: 3
   - id: clark-2016-2
     resource: "https://doi.org/10.3102/0034654315582065"
-    title: "Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital Games, Design, and Learning: A Systematic Review and Meta-Analysis. Review of Educational Research, 86(1). https://doi.org/10.3102/0034654315582065"
+    title: "Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital Games, Design, and Learning: A Systematic Review and Meta-Analysis. Review of Educational Research, 86(1), 79–122. https://doi.org/10.3102/0034654315582065"
     author: "Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S."
     q: 3
     i: "?"
@@ -40,7 +40,7 @@ sources:
 
 ### Clark 2016
 
-Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital Games, Design, and Learning: A Systematic Review and Meta-Analysis. Review of Educational Research, 86(1). https://doi.org/10.3102/0034654315582065
+Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital Games, Design, and Learning: A Systematic Review and Meta-Analysis. Review of Educational Research, 86(1), 79–122. https://doi.org/10.3102/0034654315582065
 
 `q3 · i1` · `quant-synthesis · r3`
 
@@ -50,7 +50,7 @@ Meta-regression across media-comparison effect sizes comparing outcome domains; 
 
 ### Clark 2016 (2)
 
-Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital Games, Design, and Learning: A Systematic Review and Meta-Analysis. Review of Educational Research, 86(1). https://doi.org/10.3102/0034654315582065
+Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital Games, Design, and Learning: A Systematic Review and Meta-Analysis. Review of Educational Research, 86(1), 79–122. https://doi.org/10.3102/0034654315582065
 
 `q3 · i?` · `quant-synthesis · r3`
 

@@ -3,7 +3,7 @@ type: strategy
 id: diverse-teacher-pipeline-strategies
 title: Build a diverse teacher pipeline through Grow Your Own grants, teacher academies, scholarships, MSI investment, and residency pathways
 description: "The brief's Goal 3 and Goal 4 criteria enumerate pipeline strategies states should fund: scholarships and loan forgiveness targeting students of color, rigorous program approval standards, investment in minority servi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

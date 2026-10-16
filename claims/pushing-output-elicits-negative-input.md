@@ -3,7 +3,7 @@ type: claim
 title: Native speakers rarely supply negative input, so learners must infer or actively seek it by pushing for comprehensible output
 description: Native speakers rarely supply negative input, so learners must infer or actively seek it by pushing for comprehensible output
 id: pushing-output-elicits-negative-input
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: strategy
 id: pair-platform-analytics-with-transparent-criteria
 title: Pair convenient platform analytics with transparent, education-specific evaluation criteria rather than trusting either alone
 description: "The article recommends treating evaluation itself as a first-class research object: reporting what a metric measures and \"pairing convenient platform analytics with transparent, education-specific criteria rather than..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

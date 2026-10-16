@@ -3,7 +3,7 @@ type: claim
 title: "A narrative review reports that the literature generally finds attainment grouping (streaming) harms learning outcomes, while noting the research is contested"
 description: A narrative review reports that the literature generally finds attainment grouping (streaming) harms learning outcomes, while noting the research is contested
 id: streaming-impacts-negatively-on-learning-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

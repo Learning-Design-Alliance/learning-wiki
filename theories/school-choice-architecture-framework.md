@@ -2,7 +2,7 @@
 type: theory
 title: School choice architecture as a behavioral design framework
 description: "The article organizes its inquiry around the idea that the architecture of school choice — the ways school information is presented to parents — systematically shapes parents' knowledge, attitudes, and decisions."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Both models target Higher Bloom levels far more accurately than Lower levels, with the general model outperforming the coder model upward
 description: Both models target Higher Bloom levels far more accurately than Lower levels, with the general model outperforming the coder model upward
 id: tza-higher-versus-lower-bloom-targets
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

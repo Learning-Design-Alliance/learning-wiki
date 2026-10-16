@@ -3,7 +3,7 @@ type: claim
 title: "Using a flexible functional form, the estimated benefit of improving a competency depends on a student's existing strengths and weaknesses in other competencies"
 description: "Using a flexible functional form, the estimated benefit of improving a competency depends on a student's existing strengths and weaknesses in other competencies"
 id: competency-benefits-depend-on-other-competencies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

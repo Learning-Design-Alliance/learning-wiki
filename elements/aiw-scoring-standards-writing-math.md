@@ -3,7 +3,7 @@ type: element
 id: aiw-scoring-standards-writing-math
 title: Scoring standards and rubrics for assignments and student work in writing and mathematics
 description: The report translates the three criteria into specific scoring standards for assignments (Figure 7) and student work (Figure 8) in writing and mathematics, with detailed scoring rules such as a 4-point rubric for elab...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

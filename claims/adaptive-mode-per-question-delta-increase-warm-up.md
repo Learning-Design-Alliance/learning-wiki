@@ -3,7 +3,7 @@ type: claim
 title: The adaptive mode showed a progressive per-question learning-delta increase across the session (from Δ = 3.16 on Q1 to Δ = 19.97 on Q9), suggesting a warm-up effect as participants learned the system
 description: The adaptive mode showed a progressive per-question learning-delta increase across the session (from Δ = 3.16 on Q1 to Δ = 19.97 on Q9), suggesting a warm-up effect as participants learned the system
 id: adaptive-mode-per-question-delta-increase-warm-up
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

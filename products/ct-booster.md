@@ -4,7 +4,7 @@ id: ct-booster
 title: CT Booster
 description: CT Boosters is a professional-learning programme described by the Computational Thinking Boosters project that provides short algorithmic-thinking sessions for teachers of grades 3–8.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

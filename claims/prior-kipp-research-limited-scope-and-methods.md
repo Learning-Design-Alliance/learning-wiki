@@ -3,7 +3,7 @@ type: claim
 title: Prior research on KIPP suggested positive achievement impacts but was limited by small samples or methodological weaknesses
 description: Prior research on KIPP suggested positive achievement impacts but was limited by small samples or methodological weaknesses
 id: prior-kipp-research-limited-scope-and-methods
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

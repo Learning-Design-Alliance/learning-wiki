@@ -3,7 +3,7 @@ type: claim
 title: "Low compensation and inconsistent qualification requirements undermine recruitment and retention of California's ECE workforce"
 description: "Low compensation and inconsistent qualification requirements undermine recruitment and retention of California's ECE workforce"
 id: california-ece-workforce-low-compensation-turnover
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -4,7 +4,7 @@ id: corpus-of-nine-empirical-studies-of-collaborative-learning-for-ai-literacy-2
 title: Corpus of nine empirical studies of collaborative learning for AI literacy (2015-2023)
 description: A Hingle (2024) corpus compiling nine empirical studies of collaborative learning for AI literacy identified through PRISMA screening across major scholarly databases.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

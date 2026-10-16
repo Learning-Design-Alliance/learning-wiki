@@ -3,7 +3,7 @@ type: claim
 title: "Animations appear to pacify learners: static-picture groups navigated far more actively than the animation group"
 description: "Animations appear to pacify learners: static-picture groups navigated far more actively than the animation group"
 id: animations-pacify-learners-navigation-imbalance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

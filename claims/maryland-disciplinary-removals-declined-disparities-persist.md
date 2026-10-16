@@ -3,7 +3,7 @@ type: claim
 title: In Maryland, disciplinary removals (out-of-school suspensions and expulsions) declined over the past 10 years while discipline disparities persisted
 description: In Maryland, disciplinary removals (out-of-school suspensions and expulsions) declined over the past 10 years while discipline disparities persisted
 id: maryland-disciplinary-removals-declined-disparities-persist
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "In a large online class, peer grades correlated highly with staff-assigned grades, with median agreement of 42.9% within 5% and 65.5% within 10% of staff grades in the second iteration"
 description: "In a large online class, peer grades correlated highly with staff-assigned grades, with median agreement of 42.9% within 5% and 65.5% within 10% of staff grades in the second iteration"
 id: peer-grades-correlate-highly-with-staff-grades-mooc
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

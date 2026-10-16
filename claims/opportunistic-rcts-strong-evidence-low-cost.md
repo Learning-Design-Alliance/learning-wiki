@@ -3,7 +3,7 @@ type: claim
 title: Opportunistic RCTs can generate strong evidence for education decisions with minimal added cost and disruption
 description: Opportunistic RCTs can generate strong evidence for education decisions with minimal added cost and disruption
 id: opportunistic-rcts-strong-evidence-low-cost
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

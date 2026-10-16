@@ -3,7 +3,7 @@ type: claim
 title: Engineering students develop implicit rules for using GenAI as a self-directed, efficient learning tool when traditional educational tools fall short
 description: Engineering students develop implicit rules for using GenAI as a self-directed, efficient learning tool when traditional educational tools fall short
 id: genai-implicit-rules-self-directed-efficient-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

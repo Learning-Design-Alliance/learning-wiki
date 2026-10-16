@@ -3,7 +3,7 @@ type: strategy
 id: mindset-theory-early-in-teacher-education
 title: Introduce student teachers to mindset theory early and foster a learning orientation through classroom language, feedback and attitude to challenge
 description: "Based on the finding that Turkish student teachers lean toward entity beliefs and performance goals, the article recommends that \"early in their course of study, student teachers should be introduced to Dweck's mindse..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

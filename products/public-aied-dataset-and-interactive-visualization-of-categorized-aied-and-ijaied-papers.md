@@ -4,7 +4,7 @@ id: public-aied-dataset-and-interactive-visualization-of-categorized-aied-and-ij
 title: Public AI×Ed dataset and interactive visualization of categorized AIED and IJAIED papers
 description: A dataset and interactive visualization released by Sina Rismanchian et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

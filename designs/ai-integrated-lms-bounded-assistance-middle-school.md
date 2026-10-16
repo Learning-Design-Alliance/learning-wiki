@@ -3,7 +3,7 @@ type: design
 id: ai-integrated-lms-bounded-assistance-middle-school
 title: AI-integrated LMS for middle school with bounded, policy-gated AI assistance embedded in everyday coursework
 description: The article proposes a middle-school LMS that couples standard capabilities (course organization, assignments, assessments, communication) with bounded AI features.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

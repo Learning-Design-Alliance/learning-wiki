@@ -3,7 +3,7 @@ type: claim
 title: Additive TPACK–belief integrations produce construct overlap, causal ambiguity, and weak intervention guidance
 description: Additive TPACK–belief integrations produce construct overlap, causal ambiguity, and weak intervention guidance
 id: additive-tpack-belief-models-weak-intervention-guidance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

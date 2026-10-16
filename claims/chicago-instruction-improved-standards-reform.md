@@ -3,7 +3,7 @@ type: claim
 title: Math and science instruction improved in Chicago during the years of standards reform, based on student survey reports of classroom experiences before and after reform
 description: Math and science instruction improved in Chicago during the years of standards reform, based on student survey reports of classroom experiences before and after reform
 id: chicago-instruction-improved-standards-reform
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

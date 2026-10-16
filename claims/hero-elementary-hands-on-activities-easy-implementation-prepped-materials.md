@@ -3,7 +3,7 @@ type: claim
 title: Teachers found Hero Elementary playlist hands-on activities easy to implement because materials were supplied and prepped.
 description: Teachers found Hero Elementary playlist hands-on activities easy to implement because materials were supplied and prepped.
 id: hero-elementary-hands-on-activities-easy-implementation-prepped-materials
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

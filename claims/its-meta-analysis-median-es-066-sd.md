@@ -3,7 +3,7 @@ type: claim
 title: Intelligent tutoring raised test scores by a median of 0.66 standard deviations over conventional instruction across 50 controlled evaluations
 description: Intelligent tutoring raised test scores by a median of 0.66 standard deviations over conventional instruction across 50 controlled evaluations
 id: its-meta-analysis-median-es-066-sd
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

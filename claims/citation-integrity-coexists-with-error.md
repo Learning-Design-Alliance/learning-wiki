@@ -3,7 +3,7 @@ type: claim
 title: "In a ten-request live textbook audit, citation integrity coexisted with substantive error: every citation resolved to its source, yet answers included retrieval misses and contradictions"
 description: "In a ten-request live textbook audit, citation integrity coexisted with substantive error: every citation resolved to its source, yet answers included retrieval misses and contradictions"
 id: citation-integrity-coexists-with-error
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

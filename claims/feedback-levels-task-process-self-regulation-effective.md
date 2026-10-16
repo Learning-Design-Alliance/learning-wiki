@@ -3,7 +3,7 @@ type: claim
 title: Feedback about self as a person is the least effective feedback level; task, process, and self-regulation feedback support learning and combine for greater impact
 description: Feedback about self as a person is the least effective feedback level; task, process, and self-regulation feedback support learning and combine for greater impact
 id: feedback-levels-task-process-self-regulation-effective
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

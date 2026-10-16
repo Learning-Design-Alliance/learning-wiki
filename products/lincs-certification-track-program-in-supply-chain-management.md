@@ -4,7 +4,7 @@ id: lincs-certification-track-program-in-supply-chain-management
 title: LINCS certification track program in supply chain management
 description: A TAACCCT-funded supply-chain management certification initiative developed by a Broward College-led nine-college consortium with industry and university partners for early-career professionals.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

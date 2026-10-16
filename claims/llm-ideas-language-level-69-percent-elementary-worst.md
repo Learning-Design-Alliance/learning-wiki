@@ -3,7 +3,7 @@ type: claim
 title: "Only 69% of LLM-simulated ideas met the target grade's language level, with elementary grades faring worst and Llama-4 performing best"
 description: "Only 69% of LLM-simulated ideas met the target grade's language level, with elementary grades faring worst and Llama-4 performing best"
 id: llm-ideas-language-level-69-percent-elementary-worst
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Core-Plus Mathematics has potentially positive effects on mathematics achievement for high school students, with an average improvement index of +15 percentile points
 description: Core-Plus Mathematics has potentially positive effects on mathematics achievement for high school students, with an average improvement index of +15 percentile points
 id: core-plus-math-potentially-positive-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

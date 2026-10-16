@@ -4,7 +4,7 @@ id: teaching-monster-challenge-benchmark
 title: Teaching Monster Challenge benchmark
 description: A benchmark released by Lin et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

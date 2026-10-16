@@ -3,7 +3,7 @@ type: claim
 title: In adjusted meta-regressions, peer-assisted and small-group instruction outperform computer-assisted instruction, coaching, incentives, and progress monitoring
 description: In adjusted meta-regressions, peer-assisted and small-group instruction outperform computer-assisted instruction, coaching, incentives, and progress monitoring
 id: peer-small-group-outperform-other-methods
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

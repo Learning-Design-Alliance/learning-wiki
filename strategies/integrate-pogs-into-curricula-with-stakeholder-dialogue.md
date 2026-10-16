@@ -3,7 +3,7 @@ type: strategy
 id: integrate-pogs-into-curricula-with-stakeholder-dialogue
 title: Integrate POG frameworks into curricula and assessment with ongoing stakeholder dialogue, rather than leaving them as unused documents
 description: The brief recommends ongoing dialogue among state education departments, districts, educators, parents, students, and industry partners for continuous improvement of POG frameworks.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

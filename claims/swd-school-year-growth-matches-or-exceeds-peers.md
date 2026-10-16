@@ -3,7 +3,7 @@ type: claim
 title: Students with disabilities in grades K-4 grow as much or more academically during some school years than peers without disabilities
 description: Students with disabilities in grades K-4 grow as much or more academically during some school years than peers without disabilities
 id: swd-school-year-growth-matches-or-exceeds-peers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

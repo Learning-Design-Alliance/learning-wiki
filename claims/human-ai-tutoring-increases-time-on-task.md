@@ -3,7 +3,7 @@ type: claim
 title: "Human-AI tutoring increases IXL time on task by 25% with no significant difference between proactive and reactive groups"
 description: "Human-AI tutoring increases IXL time on task by 25% with no significant difference between proactive and reactive groups"
 id: human-ai-tutoring-increases-time-on-task
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

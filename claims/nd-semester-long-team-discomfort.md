@@ -3,7 +3,7 @@ type: claim
 title: "50% of neurodivergent students report some discomfort with semester-long teams compared to 22% of neurotypical students"
 description: "50% of neurodivergent students report some discomfort with semester-long teams compared to 22% of neurotypical students"
 id: nd-semester-long-team-discomfort
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Students in the lowest-SES neighborhoods were 3 percentage points less likely to enroll in CS, a gap largely explained by differential access to schools offering CS
 description: Students in the lowest-SES neighborhoods were 3 percentage points less likely to enroll in CS, a gap largely explained by differential access to schools offering CS
 id: low-ses-cs-enrollment-access-explained
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

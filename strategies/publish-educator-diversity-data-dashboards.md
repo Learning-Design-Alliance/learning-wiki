@@ -3,7 +3,7 @@ type: strategy
 id: publish-educator-diversity-data-dashboards
 title: Publish school-level educator race/ethnicity data and program-completer and retention data on state dashboards
 description: The brief recommends that state education agencies, as keepers of state data systems, make educator workforce data publicly available and easily accessible so stakeholders can make targeted workforce decisions.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

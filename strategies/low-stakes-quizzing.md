@@ -93,7 +93,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 - **[Anki](https://apps.ankiweb.net)** — spaced-repetition flashcard app that operationalizes low stakes quizzing through scheduled retrieval with immediate feedback.
 - **[Khan Academy](https://www.khanacademy.org)** — short mastery quizzes with hints and instant feedback embedded between instructional videos.
 - **Clicker/Poll Everywhere questions** in large lectures — individual answer, peer discussion, re-answer, then instructor explanation (peer instruction sequence).
-- **Two-stage quizzes (Team-Based Learning)** — individuals take a quiz, then teams retake it and submit a consensus answer with immediate scratch-card or LMS feedback; widely used in medical and business education.
+- **[Two-stage quizzes](two-stage-quizzes.md) (Team-Based Learning)** — individuals take a quiz, then teams retake it and submit a consensus answer with immediate scratch-card or LMS feedback; widely used in medical and business education.
 - **Clicker/peer-instruction questions** — ConcepTests in physics courses (Eric Mazur, Harvard) pose a low-stakes conceptual question, collect votes, then have peers discuss before revoting.
 - **[Khan Academy](https://www.khanacademy.org)** — short mastery-style practice sets with hints and instant feedback, explicitly framed as practice rather than grading.
 - **Exit tickets** — 2–3 questions at the end of a K–12 lesson, reviewed before the next class to plan reteaching.

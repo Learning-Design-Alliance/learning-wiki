@@ -3,7 +3,7 @@ type: claim
 title: gpt-4o graded student submissions most correctly in almost all assignments, but gemini-1.0-pro graded the boolean-algebra assignment most correctly
 description: gpt-4o graded student submissions most correctly in almost all assignments, but gemini-1.0-pro graded the boolean-algebra assignment most correctly
 id: grader-llm-correctness-comparison-socrates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

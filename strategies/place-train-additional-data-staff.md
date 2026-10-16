@@ -3,7 +3,7 @@ type: strategy
 id: place-train-additional-data-staff
 title: Build agency data capacity by supporting, training, and placing additional data staff
 description: "The strategy described in the study is to strengthen education agencies' data-driven decision making by providing \"the support, training, and placement of additional staff.\" Rather than relying solely on existing pers..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

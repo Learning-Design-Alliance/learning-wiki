@@ -3,7 +3,7 @@ type: element
 id: ies-brief-recruitment-strategies-impact-studies
 title: IES brief of practical recruitment strategies for education impact studies
 description: "This element is the 2023 Institute of Education Sciences brief 'Practical Strategies for Recruiting Districts and Schools for Education Impact Studies' by Dana Robinson, Linda Rosenberg, Alejandro Espinoza, and Eric Z..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

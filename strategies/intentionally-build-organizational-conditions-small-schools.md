@@ -3,7 +3,7 @@ type: strategy
 id: intentionally-build-organizational-conditions-small-schools
 title: Small school reformers should intentionally build professional community, principal leadership, and teacher influence rather than relying on size reduction
 description: The report recommends that reformers treat small size as only a lever, not a guarantee.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

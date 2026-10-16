@@ -3,7 +3,7 @@ type: strategy
 id: genai-children-future-comparative-longitudinal-equity-research
 title: Strengthen the evidence base with comparative and longitudinal designs and include rural, underserved, and low-resource communities before presenting GenAI as democratizing
 description: "The review's forward-looking recommendation is that the field move beyond small exploratory studies: \"Future research should use stronger comparative and longitudinal designs and directly include rural, underserved, a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

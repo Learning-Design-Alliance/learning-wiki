@@ -4,7 +4,7 @@ id: spanish-map-reading-fluency
 title: Spanish MAP Reading Fluency
 description: "Spanish MAP Reading Fluency is NWEA's adaptive Spanish-language assessment for oral reading fluency and foundational reading skills, administered in group settings with automatic speech scoring and reports for educators."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

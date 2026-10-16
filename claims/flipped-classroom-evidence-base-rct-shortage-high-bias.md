@@ -3,7 +3,7 @@ type: claim
 title: Only a minority of flipped-classroom studies in health professional education are RCTs, and risk of bias in non-randomised studies is high
 description: Only a minority of flipped-classroom studies in health professional education are RCTs, and risk of bias in non-randomised studies is high
 id: flipped-classroom-evidence-base-rct-shortage-high-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

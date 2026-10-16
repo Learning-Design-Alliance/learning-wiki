@@ -3,7 +3,7 @@ type: claim
 title: Family engagement typically declines from elementary to middle school for several identified reasons
 description: Family engagement typically declines from elementary to middle school for several identified reasons
 id: family-engagement-declines-elementary-to-middle
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

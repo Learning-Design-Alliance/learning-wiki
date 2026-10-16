@@ -3,7 +3,7 @@ type: element
 id: strategic-data-use-in-education-implementation-study
 title: Mathematica implementation study of Strategic Data Use in Education (2011–2015), prepared for the Gates Foundation
 description: "An implementation study, titled on the page under the associated project \"Strategic Data Use in Education,\" with a stated time frame of 2011–2015 and prepared for the Bill & Melinda Gates Foundation."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

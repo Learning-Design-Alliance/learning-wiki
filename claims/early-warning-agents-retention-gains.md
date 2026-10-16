@@ -3,7 +3,7 @@ type: claim
 title: Early warning and proactive support agents are associated with reported retention and grade improvements in institutional deployments
 description: Early warning and proactive support agents are associated with reported retention and grade improvements in institutional deployments
 id: early-warning-agents-retention-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Practical college-access information may have been a key service Talent Search delivered
 description: Practical college-access information may have been a key service Talent Search delivered
 id: practical-information-key-talent-search-service
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

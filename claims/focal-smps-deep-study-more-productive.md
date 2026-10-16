@@ -3,7 +3,7 @@ type: claim
 title: Selecting a few focal Standards for Mathematical Practice at a time was more productive for teacher PD than studying all SMPs simultaneously
 description: Selecting a few focal Standards for Mathematical Practice at a time was more productive for teacher PD than studying all SMPs simultaneously
 id: focal-smps-deep-study-more-productive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

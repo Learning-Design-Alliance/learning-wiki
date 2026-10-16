@@ -3,7 +3,7 @@ type: claim
 title: The reviewed corpus mostly targets introductory learners in short-term studies, with supervision level structurally tied to deployment context
 description: The reviewed corpus mostly targets introductory learners in short-term studies, with supervision level structurally tied to deployment context
 id: corpus-introductory-short-term-supervision-environment-association
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

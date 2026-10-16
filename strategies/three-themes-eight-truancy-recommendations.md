@@ -3,7 +3,7 @@ type: strategy
 id: three-themes-eight-truancy-recommendations
 title: "Eight recommendations for reducing truancy organized around three themes: school-wide improvement, linking truancy to classroom learning, and special attention to high full-day absentees"
 description: The brief distills its case studies and analyses into three themes and eight recommendations for high schools.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

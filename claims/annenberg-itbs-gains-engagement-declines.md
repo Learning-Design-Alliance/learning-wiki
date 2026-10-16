@@ -3,7 +3,7 @@ type: claim
 title: "Annenberg students' ITBS achievement improved while student engagement and classroom behavior declined, mirroring outcomes across the Chicago system"
 description: "Annenberg students' ITBS achievement improved while student engagement and classroom behavior declined, mirroring outcomes across the Chicago system"
 id: annenberg-itbs-gains-engagement-declines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

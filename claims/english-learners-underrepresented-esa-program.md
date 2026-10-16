@@ -3,7 +3,7 @@ type: claim
 title: "English learners are strongly underrepresented in the ESA program: 0.6% of ESA students versus 9.2% of public school students statewide"
 description: "English learners are strongly underrepresented in the ESA program: 0.6% of ESA students versus 9.2% of public school students statewide"
 id: english-learners-underrepresented-esa-program
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

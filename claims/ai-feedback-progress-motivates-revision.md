@@ -3,7 +3,7 @@ type: claim
 title: "Concrete progress indicators and visible improvement in writing motivated students' revision engagement"
 description: "Concrete progress indicators and visible improvement in writing motivated students' revision engagement"
 id: ai-feedback-progress-motivates-revision
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

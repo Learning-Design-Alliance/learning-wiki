@@ -3,7 +3,7 @@ type: claim
 title: Student-centered writing environments are argued to lower anxiety, increase confidence, and provide natural language contexts
 description: Student-centered writing environments are argued to lower anxiety, increase confidence, and provide natural language contexts
 id: student-centered-environments-lower-anxiety-increase-confidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

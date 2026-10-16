@@ -3,7 +3,7 @@ type: claim
 title: Ethical risk management of AI in education proceeds bottom-up through individual faculty guidance and student self-strategies because institutional support is lacking
 description: Ethical risk management of AI in education proceeds bottom-up through individual faculty guidance and student self-strategies because institutional support is lacking
 id: bottom-up-ethical-risk-management-ai-individual-effort
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

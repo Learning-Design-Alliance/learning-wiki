@@ -3,7 +3,7 @@ type: claim
 title: In rigorous controlled studies, residency graduates retained at significantly higher rates than non-residency peers
 description: In rigorous controlled studies, residency graduates retained at significantly higher rates than non-residency peers
 id: residency-retention-significant-vs-peers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

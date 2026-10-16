@@ -3,7 +3,7 @@ type: claim
 title: The storied format of personal experience research can transcend the specialties of the immediate research field to influence a larger research community
 description: The storied format of personal experience research can transcend the specialties of the immediate research field to influence a larger research community
 id: storied-format-transcends-field-specialties
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

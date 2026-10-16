@@ -3,7 +3,7 @@ type: strategy
 id: ai-literacy-integral-first-year-curriculum
 title: Integrate AI literacy education as an integral component of first-year curriculum development rather than an add-on
 description: "The article recommends that AI literacy education be built into first-year curricula as a core component, because the mediation results indicate course support translates into psychological benefits through students'..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

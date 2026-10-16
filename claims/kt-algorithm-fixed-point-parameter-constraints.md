@@ -3,7 +3,7 @@ type: claim
 title: Fixed point analysis of the Knowledge Tracing Algorithm yields parameter constraints P(G)+P(S)<1 and 0<P(T)<(1−P(S))/(1−P(G)) for sensible behavior
 description: Fixed point analysis of the Knowledge Tracing Algorithm yields parameter constraints P(G)+P(S)<1 and 0<P(T)<(1−P(S))/(1−P(G)) for sensible behavior
 id: kt-algorithm-fixed-point-parameter-constraints
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

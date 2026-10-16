@@ -3,7 +3,7 @@ type: claim
 title: Cumulative engagement showed staircase growth with deadline-driven peaks of 348 events on April 4th and 205 events around April 9th
 description: Cumulative engagement showed staircase growth with deadline-driven peaks of 348 events on April 4th and 205 events around April 9th
 id: cumulative-engagement-staircase-deadline-peaks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

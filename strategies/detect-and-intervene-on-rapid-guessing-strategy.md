@@ -3,7 +3,7 @@ type: strategy
 id: detect-and-intervene-on-rapid-guessing-strategy
 title: Use findings on rapid guessing stability and its psychological correlates to detect rapid guessing and intervene to reduce its effect on observed achievement test scores
 description: "The article states that its findings on the state-like nature of rapid guessing and its association with self-efficacy and self-management carry practical implications: \"These findings have implications for detecting..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Empirical examples using real-world education RCT data demonstrate the design-based grouped-data theory
 description: Empirical examples using real-world education RCT data demonstrate the design-based grouped-data theory
 id: empirical-examples-education-rct-data-demonstrate-theory
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

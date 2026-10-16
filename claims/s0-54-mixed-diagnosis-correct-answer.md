@@ -3,7 +3,7 @@ type: claim
 title: In the S0-54 tutoring episode, the learner reaches the correct posterior (1/6) yet the three Stage 2 evidence scopes yield different diagnoses, with full trajectory credit withheld because part of the interpretation remains tutor-owned
 description: In the S0-54 tutoring episode, the learner reaches the correct posterior (1/6) yet the three Stage 2 evidence scopes yield different diagnoses, with full trajectory credit withheld because part of the interpretation r...
 id: s0-54-mixed-diagnosis-correct-answer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

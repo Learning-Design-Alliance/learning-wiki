@@ -4,7 +4,7 @@ id: six-standard-framework-for-faculty-technology-integration-in-higher-educatio
 title: Six-standard framework for faculty technology integration in higher education
 description: A six-standard framework developed by Helen Crompton et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: LLM performance drops from offline to real-time proxy evaluation when clues arrive incrementally
 description: LLM performance drops from offline to real-time proxy evaluation when clues arrive incrementally
 id: performance-drops-realtime-proxy-nsmq
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

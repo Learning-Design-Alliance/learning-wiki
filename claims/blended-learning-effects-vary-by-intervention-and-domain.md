@@ -3,7 +3,7 @@ type: claim
 title: Some blended learning interventions improve student outcomes, but whether a positive effect exists varies across interventions and domains of achievement
 description: Some blended learning interventions improve student outcomes, but whether a positive effect exists varies across interventions and domains of achievement
 id: blended-learning-effects-vary-by-intervention-and-domain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

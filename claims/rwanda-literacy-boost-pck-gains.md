@@ -3,7 +3,7 @@ type: claim
 title: "Teacher PD in rural Rwanda raised teachers' early literacy pedagogical content knowledge relative to control sectors"
 description: "Teacher PD in rural Rwanda raised teachers' early literacy pedagogical content knowledge relative to control sectors"
 id: rwanda-literacy-boost-pck-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

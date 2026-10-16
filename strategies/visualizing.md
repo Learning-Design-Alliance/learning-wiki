@@ -60,6 +60,7 @@ Visualizing improves comprehension and problem solving because external represen
 - [Drawing to Learn](../strategies/drawing-to-learn.md) — the science-classroom variant of learner-generated visualization
 - [Concept Mapping](../elements/concept-mapping.md) — node-link visualization of relational knowledge
 - [Choose problems with multiple entry points to stimulate discussion of different solution approaches](multiple-entry-point-problems.md)
+- [Prompt students to sketch a drawing of the system while reading an expository science text](sketching-during-reading-strategy.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — modeling how to construct a representation

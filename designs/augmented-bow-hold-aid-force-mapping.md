@@ -3,7 +3,7 @@ type: design
 id: augmented-bow-hold-aid-force-mapping
 title: Augmented bow hold aid with finger pressure force mapping
 description: A bow-mounted augmentation preserving the geometry of a traditional frog, using thin-film pressure sensors (e.g., Velostat) to produce a spatial force map across finger contact points and an IMU to capture bow orienta...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

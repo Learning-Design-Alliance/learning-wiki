@@ -3,7 +3,7 @@ type: claim
 title: Explicit API interception from a pilot cohort of 19 students yielded 1,880 events over about 57 active student-hours
 description: Explicit API interception from a pilot cohort of 19 students yielded 1,880 events over about 57 active student-hours
 id: vismatic-pilot-cohort-1880-events
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

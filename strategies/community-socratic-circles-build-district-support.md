@@ -3,7 +3,7 @@ type: strategy
 id: community-socratic-circles-build-district-support
 title: Extend structured racial discourse into the community to build support for classroom discussions
 description: "Because the Core Team identified teachers' fear of social and political backlash as a root cause, it brought structured discourse into the district-community."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -46,4 +46,4 @@ Because the Core Team identified teachers' fear of social and political backlash
 -
 
 ## Key Sources
-- Johnson, A. M., & Lenderman, K. (2023). Socratic Circles: Building OER Tools for Racial Equity Classroom and Community Discourse. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.org/inclusive-innovation
+- Johnson, A. M., & Lenderman, K. (2023). Socratic Circles: Building OER Tools for Racial Equity Classroom and Community Discourse. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.org/inclusive-innovation. [doi:10.51388/20.500.12265/200](https://doi.org/10.51388/20.500.12265/200)

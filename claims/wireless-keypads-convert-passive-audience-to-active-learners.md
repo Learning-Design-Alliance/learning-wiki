@@ -3,7 +3,7 @@ type: claim
 title: Wireless keypads with immediate-response questions convert a passive lecture audience into active learners by providing rapid feedback
 description: Wireless keypads with immediate-response questions convert a passive lecture audience into active learners by providing rapid feedback
 id: wireless-keypads-convert-passive-audience-to-active-learners
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

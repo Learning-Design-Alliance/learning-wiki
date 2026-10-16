@@ -3,7 +3,7 @@ type: claim
 title: In pairwise A/B preference tests, raters preferred XTTS and Orpheus over CSM, and preferred female voices across all models
 description: In pairwise A/B preference tests, raters preferred XTTS and Orpheus over CSM, and preferred female voices across all models
 id: astra-ab-preference-xtts-orpheus-over-csm
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

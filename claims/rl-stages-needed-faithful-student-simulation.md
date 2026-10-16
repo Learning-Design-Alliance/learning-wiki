@@ -3,7 +3,7 @@ type: claim
 title: "Both RL stages are needed: removing DPO and GRPO training causes the largest performance drop in student simulation"
 description: "Both RL stages are needed: removing DPO and GRPO training causes the largest performance drop in student simulation"
 id: rl-stages-needed-faithful-student-simulation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -54,3 +54,4 @@ Ablation study on one data split (Table 2) varying training stages and profile i
 - [DAPO was selected over GRPO for the RL stage because its decoupled policy update gave more stable gradients and superior CDPK performance](dapo-over-grpo-pedagogical-rl.md) — related
 - [In the EduAgent framework, removing past cognitive states from memory significantly reduced simulation performance](eduagent-ablation-contextual-memory-critical.md) — related
 - [Post-training alignment methods may induce sycophancy that deteriorates GenAI models' ability to disagree and push back](sycophancy-limits-genai-pushback.md) — related
+- Removing unsupervised pre-training hurts performance across all tasks, causing a 14.8% decrease relative to the full model — related

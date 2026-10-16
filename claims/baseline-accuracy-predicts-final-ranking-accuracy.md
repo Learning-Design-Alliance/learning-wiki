@@ -3,7 +3,7 @@ type: claim
 title: "Users' baseline ranking accuracy significantly predicts their final ranking accuracy after AI collaboration, with no other significant effects"
 description: "Users' baseline ranking accuracy significantly predicts their final ranking accuracy after AI collaboration, with no other significant effects"
 id: baseline-accuracy-predicts-final-ranking-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

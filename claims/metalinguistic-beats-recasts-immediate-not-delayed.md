@@ -3,7 +3,7 @@ type: claim
 title: Metalinguistic feedback outperforms recasts on the immediate post-test, but the two do not differ significantly on the delayed post-test
 description: Metalinguistic feedback outperforms recasts on the immediate post-test, but the two do not differ significantly on the delayed post-test
 id: metalinguistic-beats-recasts-immediate-not-delayed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -70,3 +70,7 @@ Tukey post-hoc analysis of delayed post-test scores (ten days after treatment) f
 - [Metalinguistic feedback's gains on wh-question performance decline over a ten-day delay while recast gains hold, leaving the two no different](recasts-more-enduring-than-metalinguistic-feedback.md) — related
 - [Child EFL learners receiving recasts in task-based lessons improve their production of third person singular -s from pretest to posttest, in a study with no no-recast comparison group](recasts-facilitate-child-efl-third-person-s-development.md) — related
 - [The literature is supportive of recasts, but recast effectiveness varies with the language area and learner knowledge, focus, and aptitudes](recasts-supported-but-effectiveness-varies.md) — a broader claim this one bears on
+- [Explicit metalinguistic feedback outperforms recasts on the delayed grammaticality judgment posttest](metalinguistic-feedback-beats-recasts-delayed-gjt.md) — reports the opposite
+- [Explicit metalinguistic feedback outperforms recasts on the delayed oral imitation posttest measuring implicit knowledge](metalinguistic-feedback-beats-recasts-delayed-oral-imitation.md) — reports the opposite
+- [Metalinguistic feedback produced system learning, generalizing to verbs not included in the treatment](metalinguistic-feedback-generalizes-new-items.md) — reports the opposite
+- [A controlled experiment tested whether various types of negative feedback affect adult second-language learners' acquisition of abstract constraints on an overgeneralized rule (the English dative alternation).](negative-feedback-types-dative-alternation-experiment.md) — a broader claim this one bears on

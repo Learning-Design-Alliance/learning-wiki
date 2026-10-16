@@ -2,7 +2,7 @@
 type: theory
 title: Systematic Error Tracing (SET) model
 description: "The SET model is a knowledge-based recommendation system that traces the latent causes of a student's systematic errors using a bipartite graph linking causes to errors, derived from the Ising model."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "The signaling effect holds only for abstract animation representations: signaling significantly improved achievement over written text with abstract animation but not with concrete animation"
 description: "The signaling effect holds only for abstract animation representations: signaling significantly improved achievement over written text with abstract animation but not with concrete animation"
 id: signaling-effect-abstract-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

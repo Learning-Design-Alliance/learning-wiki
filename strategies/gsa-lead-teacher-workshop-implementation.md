@@ -3,7 +3,7 @@ type: strategy
 id: gsa-lead-teacher-workshop-implementation
 title: Implement GSA through a lead-teacher who runs introductory and regular inservice workshops with scheduled taping
 description: "The document prescribes a step-by-step implementation procedure for inservice settings: an experienced supervisor is designated as lead-teacher, trained in the procedures and materials, and holds an introductory works..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

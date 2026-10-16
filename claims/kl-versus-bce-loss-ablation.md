@@ -3,7 +3,7 @@ type: claim
 title: "KL-divergence and binary cross-entropy losses for course prediction yield grade prediction within 1-2% of each other"
 description: "KL-divergence and binary cross-entropy losses for course prediction yield grade prediction within 1-2% of each other"
 id: kl-versus-bce-loss-ablation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

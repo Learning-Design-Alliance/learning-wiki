@@ -3,7 +3,7 @@ type: claim
 title: "Instructor access to students' individual Web folders enabled coaching on work-in-progress in the Web-based course"
 description: "Instructor access to students' individual Web folders enabled coaching on work-in-progress in the Web-based course"
 id: web-folders-enable-coaching
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

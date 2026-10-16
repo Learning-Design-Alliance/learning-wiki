@@ -3,7 +3,7 @@ type: claim
 title: "Expert teachers' well-practiced routines make their performance fluid, as seen in homework-review and lesson-teaching comparisons"
 description: "Expert teachers' well-practiced routines make their performance fluid, as seen in homework-review and lesson-teaching comparisons"
 id: expert-teachers-use-routines-for-fluid-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

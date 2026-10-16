@@ -3,7 +3,7 @@ type: claim
 title: "Six predictor constructs jointly explain 44.0% of the variance in ethical GenAI use among university students, with all structural paths positive and significant"
 description: "Six predictor constructs jointly explain 44.0% of the variance in ethical GenAI use among university students, with all structural paths positive and significant"
 id: six-predictors-explain-44-percent-ethical-genai-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

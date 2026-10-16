@@ -3,7 +3,7 @@ type: claim
 title: Discrepancies between SEDA and MAP Growth ELA growth estimates are slightly more pronounced in high-socioeconomic-status districts
 description: Discrepancies between SEDA and MAP Growth ELA growth estimates are slightly more pronounced in high-socioeconomic-status districts
 id: seda-ela-discrepancy-larger-high-ses-districts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: design
 id: llm-assisted-hardware-debugging-protocol
 title: LLM-assisted hardware debugging protocol mapped to the four-step troubleshooting model
 description: "The paper proposes a protocol following Katz and Anderson's troubleshooting model, in which an LLM-assistant supports each of the four steps: \"understanding the system, testing the system, locating the bug, and ﬁxing..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

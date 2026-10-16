@@ -3,7 +3,7 @@ type: claim
 title: School-based mindfulness interventions produce small-to-moderate significant pre-post improvements in youth mental health and well-being compared to control groups
 description: School-based mindfulness interventions produce small-to-moderate significant pre-post improvements in youth mental health and well-being compared to control groups
 id: school-mindfulness-small-moderate-effect-youth-mental-health
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

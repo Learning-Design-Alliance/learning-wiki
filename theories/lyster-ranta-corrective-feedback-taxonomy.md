@@ -2,7 +2,7 @@
 type: theory
 title: "Lyster and Ranta's six-category taxonomy of corrective feedback"
 description: "The article adopts Lyster and Ranta's classification of corrective feedback, which the authors call \"The most comprehensive taxonomy of corrective feedback.\" It distinguishes six categories: \"explicit correction, reca..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Middle school math teachers are more likely to make productive than nonproductive adaptations to curricula
 description: Middle school math teachers are more likely to make productive than nonproductive adaptations to curricula
 id: teachers-more-productive-than-nonproductive-adaptations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

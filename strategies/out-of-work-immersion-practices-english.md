@@ -3,7 +3,7 @@ type: strategy
 id: out-of-work-immersion-practices-english
 title: Use out-of-work immersion practices — reading, original-version media, and speaking with native speakers — to develop English outside the workplace
 description: "The study's participants developed English outside work through self-directed practices the author offers as models for EFL students."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

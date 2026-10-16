@@ -3,7 +3,7 @@ type: strategy
 id: automatic-enrollment-advanced-math-top-40-percent
 title: Automatically enroll high-performing sixth graders in advanced math, with parent opt-out, to circumvent educator bias in referral
 description: "Texas SB 2124 requires districts to automatically enroll sixth grade students who scored in the top 40% on fifth-grade STAAR or a comparable local assessment into advanced math, unless a parent opts out, and to build..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

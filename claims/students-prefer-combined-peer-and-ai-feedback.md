@@ -3,7 +3,7 @@ type: claim
 title: Most students preferred combined peer and AI feedback over either source alone, and rated peer and ChatGPT feedback as similarly useful
 description: Most students preferred combined peer and AI feedback over either source alone, and rated peer and ChatGPT feedback as similarly useful
 id: students-prefer-combined-peer-and-ai-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

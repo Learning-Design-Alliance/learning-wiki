@@ -3,7 +3,7 @@ type: claim
 title: HSE learners and workers most wanted more information, skills translation services, job training, mentorship, and money during transitions
 description: HSE learners and workers most wanted more information, skills translation services, job training, mentorship, and money during transitions
 id: top-wanted-transition-supports
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

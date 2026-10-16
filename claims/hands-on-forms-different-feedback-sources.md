@@ -3,7 +3,7 @@ type: claim
 title: Embodied and cognitive hands-on rely on different feedback sources and are not educationally equivalent
 description: Embodied and cognitive hands-on rely on different feedback sources and are not educationally equivalent
 id: hands-on-forms-different-feedback-sources
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

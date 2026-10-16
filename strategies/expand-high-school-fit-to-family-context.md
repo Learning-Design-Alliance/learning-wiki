@@ -3,7 +3,7 @@ type: strategy
 id: expand-high-school-fit-to-family-context
 title: Support high school selection by expanding school fit beyond programs to commute, safety, and family circumstances
 description: "An implementable advising strategy drawn from coordinators' high school application work: staff begin with a programmatic definition of fit and then broaden it to the student's real constraints."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

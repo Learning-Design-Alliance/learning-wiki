@@ -3,7 +3,7 @@ type: claim
 title: PGR students rejected GenAI generation of research ideas, original arguments, or whole papers as violating authorship norms, while accepting surface-level support
 description: PGR students rejected GenAI generation of research ideas, original arguments, or whole papers as violating authorship norms, while accepting surface-level support
 id: genai-authorship-boundary-rejected-substitution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

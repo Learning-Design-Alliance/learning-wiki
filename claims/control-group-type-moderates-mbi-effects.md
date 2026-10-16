@@ -3,7 +3,7 @@ type: claim
 title: Effect sizes vary by control group type, with wait-list controls yielding the largest mean effect and no-contact controls the smallest
 description: Effect sizes vary by control group type, with wait-list controls yielding the largest mean effect and no-contact controls the smallest
 id: control-group-type-moderates-mbi-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

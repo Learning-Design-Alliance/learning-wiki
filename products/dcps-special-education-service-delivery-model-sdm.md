@@ -4,7 +4,7 @@ id: dcps-special-education-service-delivery-model-sdm
 title: DCPS Special Education Service Delivery Model (SDM)
 description: A District of Columbia Public Schools model that organizes decentralized special-education identification, assessment, placement, and early intervention through building-level collaborative teams.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

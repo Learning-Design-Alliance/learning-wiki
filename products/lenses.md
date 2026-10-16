@@ -4,7 +4,7 @@ id: lenses
 title: Lenses
 description: Lenses is a hybrid print-and-digital instructional programme run by teachers to provide differentiated scaffolding and formative assessment with standards-aligned rubrics.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

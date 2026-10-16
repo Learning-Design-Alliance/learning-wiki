@@ -3,7 +3,7 @@ type: claim
 title: "Lower REACH ratings predicted teacher exit: more than half of unsatisfactory-rated teachers left CPS and low-VAM teachers moved out of tested grades/subjects"
 description: "Lower REACH ratings predicted teacher exit: more than half of unsatisfactory-rated teachers left CPS and low-VAM teachers moved out of tested grades/subjects"
 id: low-ratings-linked-teacher-exit-and-reassignment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

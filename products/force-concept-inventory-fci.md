@@ -4,7 +4,7 @@ id: force-concept-inventory-fci
 title: Force Concept Inventory (FCI)
 description: A standardized multiple-choice assessment developed by David Hestenes, Malcolm Wells, and Gregg Swackhamer to measure introductory students’ conceptual understanding of Newtonian mechanics.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-14

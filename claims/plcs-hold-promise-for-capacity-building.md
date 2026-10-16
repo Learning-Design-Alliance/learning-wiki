@@ -3,7 +3,7 @@ type: claim
 title: Developing professional learning communities appears to hold considerable promise for capacity building for sustainable improvement
 description: Developing professional learning communities appears to hold considerable promise for capacity building for sustainable improvement
 id: plcs-hold-promise-for-capacity-building
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

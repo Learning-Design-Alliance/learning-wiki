@@ -3,7 +3,7 @@ type: claim
 title: Insight survey domain averages are more stable across years when a school keeps the same leader, suggesting principals affect these measures
 description: Insight survey domain averages are more stable across years when a school keeps the same leader, suggesting principals affect these measures
 id: insight-domain-stability-same-leader
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

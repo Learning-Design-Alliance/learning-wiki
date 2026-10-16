@@ -3,7 +3,7 @@ type: design
 id: starter-stations-rotation-pattern
 title: Rotating starter stations that stimulate interest and introduce concepts before a focused investigation
 description: A lesson-level pattern in which students rotate in parallel through brief interactive stations, each introducing one concept relevant to later activity components.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

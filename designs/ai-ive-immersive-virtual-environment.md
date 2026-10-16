@@ -3,7 +3,7 @@ type: design
 id: ai-ive-immersive-virtual-environment
 title: AI-enabled immersive virtual environment (AI-IVE) with four characteristics
 description: "An AI-enabled immersive virtual environment (AI-IVE) is the technological setting the article characterizes as \"characterized by stereoscopic immersion, embodied engagement, intelligent interaction, and real-time feed..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

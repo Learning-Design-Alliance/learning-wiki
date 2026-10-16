@@ -3,7 +3,7 @@ type: strategy
 id: incorporate-cl-in-ai-literacy-teaching
 title: Incorporate collaborative learning activities within AI literacy teaching, attending to activity modality and integration with other activities and assessments
 description: The review recommends that instruction for improving AI literacy incorporate collaborative learning activities so learners can co-create knowledge contextualized to their needs, with activities targeting literacy, spe...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

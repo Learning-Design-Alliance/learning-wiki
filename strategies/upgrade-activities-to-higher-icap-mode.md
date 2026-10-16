@@ -3,7 +3,7 @@ type: strategy
 id: upgrade-activities-to-higher-icap-mode
 title: Upgrade learning activities to a higher ICAP mode rather than aiming for perfect mode classification
 description: The article recommends that instructors focus on moving activities up the ICAP hierarchy rather than on perfectly classifying them.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

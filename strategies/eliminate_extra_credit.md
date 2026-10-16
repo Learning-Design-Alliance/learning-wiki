@@ -59,7 +59,7 @@ Grades function best as transparent signals of mastery; optional add-on tasks co
 
 ## Examples
 - A biology course replaces "attend a museum and write a report for 5 bonus points" with a required in-class analysis of a virtual museum collection, so the same content is available to students who cannot travel or pay admission.
-- A district grading policy (in the spirit of Feldman's *Grading for Equity*) bans extra credit and instead allows any student to retake a major assessment within two weeks, with the retake score replacing the original.
+- A district grading policy (in the spirit of Feldman's *[Grading for Equity](grading-for-equity.md)*) bans extra credit and instead allows any student to retake a major assessment within two weeks, with the retake score replacing the original.
 
 ## Key Sources
 - Feldman, J. (2019). *Grading for equity: What it is, why it matters, and how it can transform schools and classrooms.* Corwin.

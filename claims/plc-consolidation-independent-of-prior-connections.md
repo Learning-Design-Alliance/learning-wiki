@@ -3,7 +3,7 @@ type: claim
 title: Teams consolidated as PLCs regardless of the type of prior connections that formed them, with no significant differences across connection types
 description: Teams consolidated as PLCs regardless of the type of prior connections that formed them, with no significant differences across connection types
 id: plc-consolidation-independent-of-prior-connections
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

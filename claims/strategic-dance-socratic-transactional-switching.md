@@ -3,7 +3,7 @@ type: claim
 title: Students dynamically switched between Socratic Inquiry and Transactional Delegation as deadlines approached and task novelty changed (the Strategic Dance)
 description: Students dynamically switched between Socratic Inquiry and Transactional Delegation as deadlines approached and task novelty changed (the Strategic Dance)
 id: strategic-dance-socratic-transactional-switching
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

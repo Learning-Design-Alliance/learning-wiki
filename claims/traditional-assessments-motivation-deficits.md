@@ -3,7 +3,7 @@ type: claim
 title: Traditional assessments are commonly perceived to suffer from student motivation deficits that gameful assessments propose to address
 description: Traditional assessments are commonly perceived to suffer from student motivation deficits that gameful assessments propose to address
 id: traditional-assessments-motivation-deficits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

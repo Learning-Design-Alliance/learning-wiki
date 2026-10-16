@@ -3,7 +3,7 @@ type: claim
 title: Biomedical causal knowledge improves novice diagnostic accuracy on cases using unfamiliar terminology
 description: Biomedical causal knowledge improves novice diagnostic accuracy on cases using unfamiliar terminology
 id: biomedical-causal-knowledge-improves-novice-diagnosis-unfamiliar-terminology
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

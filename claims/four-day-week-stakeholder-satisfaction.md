@@ -3,7 +3,7 @@ type: claim
 title: Families and students highly value extra time from the four-day week, and stakeholders report high satisfaction
 description: Families and students highly value extra time from the four-day week, and stakeholders report high satisfaction
 id: four-day-week-stakeholder-satisfaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

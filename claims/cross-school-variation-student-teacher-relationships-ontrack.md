@@ -3,7 +3,7 @@ type: claim
 title: Ninth-grade course failure rates varied substantially across CPS high schools even after controlling for demographics and prior achievement, and student-teacher relationship measures were associated with better-than-expected Freshman OnTrack rates
 description: Ninth-grade course failure rates varied substantially across CPS high schools even after controlling for demographics and prior achievement, and student-teacher relationship measures were associated with better-than-e...
 id: cross-school-variation-student-teacher-relationships-ontrack
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

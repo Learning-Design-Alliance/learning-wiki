@@ -3,7 +3,7 @@ type: claim
 title: "Ethical acceptability of GenAI use varied with disciplinary norms: assistance was more acceptable for supporting or procedural tasks than for core intellectual tasks"
 description: "Ethical acceptability of GenAI use varied with disciplinary norms: assistance was more acceptable for supporting or procedural tasks than for core intellectual tasks"
 id: disciplinary-norms-shape-genai-acceptability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

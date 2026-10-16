@@ -3,7 +3,7 @@ type: claim
 title: AI integration in academic settings has outpaced regulatory frameworks, leaving ethical practices, assessment, and institutional responses inconsistent
 description: AI integration in academic settings has outpaced regulatory frameworks, leaving ethical practices, assessment, and institutional responses inconsistent
 id: ai-adoption-outpaces-regulatory-frameworks-inconsistency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

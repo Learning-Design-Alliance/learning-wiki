@@ -3,7 +3,7 @@ type: strategy
 id: genai-controversy-strategy-newly-formed-teams
 title: Use a genAI agent to introduce controversial viewpoints in newly formed collaborative PBL teams
 description: The article recommends utilizing this instructional approach — introducing a genAI agent that supplies controversial viewpoints into small-group processes of newly formed student teams — and calls for further research...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

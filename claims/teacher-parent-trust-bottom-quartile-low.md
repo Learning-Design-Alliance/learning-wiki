@@ -3,7 +3,7 @@ type: claim
 title: Two-thirds of teachers in bottom-quartile schools describe no or minimal teacher-parent trust
 description: Two-thirds of teachers in bottom-quartile schools describe no or minimal teacher-parent trust
 id: teacher-parent-trust-bottom-quartile-low
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

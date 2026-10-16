@@ -3,7 +3,7 @@ type: claim
 title: The SEP Ciencias II work guide packs many expected learnings into few class hours (e.g., 5 learnings in 6 hours for Block 1 and 8 in 5 hours for Block 2), which teachers find hard to cover
 description: The SEP Ciencias II work guide packs many expected learnings into few class hours (e.g., 5 learnings in 6 hours for Block 1 and 8 in 5 hours for Block 2), which teachers find hard to cover
 id: ciencias-ii-guide-overloaded-sequences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

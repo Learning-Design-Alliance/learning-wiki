@@ -2,7 +2,7 @@
 type: theory
 title: Scaling up defined as achieving greater reach with predictable, measurable impact
 description: The chapter defines scaling up, building on McDonald et al.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -50,4 +50,4 @@ The chapter defines scaling up, building on McDonald et al. (2006), as "achievin
 - [Complement experimental scale-up research with design and improvement methods such as RPPs, DBIR, and Networked Improvement Communities](../strategies/complementary-design-improvement-methods-scaling.md)
 
 ## Key Sources
-- Roschelle, J., Mazziotti, C. & Means, B. (2021). Scaling Up Design of Inquiry Environments. In C. Chinn & R.G. Duncan et al (Eds.), International Handbook on Learning and Inquiry. Routledge. ISBN 9781138922600. https://isbnsearch.org/isbn/9781138922600
+- Roschelle, J., Mazziotti, C. & Means, B. (2021). Scaling Up Design of Inquiry Environments. In C. Chinn & R.G. Duncan et al (Eds.), International Handbook on Learning and Inquiry. Routledge. ISBN 9781138922600. https://isbnsearch.org/isbn/9781138922600. [doi:10.4324/9781315685779-7](https://doi.org/10.4324/9781315685779-7)

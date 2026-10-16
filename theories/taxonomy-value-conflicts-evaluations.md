@@ -2,7 +2,7 @@
 type: theory
 title: Taxonomy of potential value conflicts in evaluations
 description: The article presents a taxonomy of the value conflicts that arise in evaluation processes.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

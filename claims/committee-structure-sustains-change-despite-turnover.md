@@ -3,7 +3,7 @@ type: claim
 title: A standing committee structure sustains middle school change despite personnel turnover
 description: A standing committee structure sustains middle school change despite personnel turnover
 id: committee-structure-sustains-change-despite-turnover
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

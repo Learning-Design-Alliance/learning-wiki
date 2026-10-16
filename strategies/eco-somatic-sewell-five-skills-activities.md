@@ -3,7 +3,7 @@ type: strategy
 id: eco-somatic-sewell-five-skills-activities
 title: "Apply Sewell's five skills of ecological perception as eco-somatic listening activities"
 description: "The article translates Sewell's five skills of ecological perception—\"(1) paying attention; (2) perceiving relationships, contexts, and interfaces; (3) perceptual flexibility; (4) re-perceiving depth; and (5) using th..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -48,4 +48,4 @@ The article translates Sewell's five skills of ecological perception—"(1) payi
 -
 
 ## Key Sources
-- Enghauser, R. (2007). Developing Listening Bodies in the Dance Technique Class. JOPERD, 78(6). https://eric.ed.gov/?id=EJ795590
+- Enghauser, R. (2007). Developing Listening Bodies in the Dance Technique Class. JOPERD, 78(6). https://eric.ed.gov/?id=EJ795590. [doi:10.1080/07303084.2007.10598039](https://doi.org/10.1080/07303084.2007.10598039)

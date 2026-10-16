@@ -3,7 +3,7 @@ type: element
 id: nwea-2021-22-covid-technical-appendix
 title: Technical appendix documenting sample and methods for the 2021-22 COVID learning-recovery study
 description: A technical appendix published by NWEA Research in December 2021, authored by Megan Kuhfeld and Karyn Lewis, accompanying the brief on achievement and growth at the start of the 2021-22 school year.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Computer programmer employment is projected to decline 10% from 2021 to 2031 due to automation, and apprenticeships placed in automation-vulnerable pathways risk reinforcing disparities"
 description: "Computer programmer employment is projected to decline 10% from 2021 to 2031 due to automation, and apprenticeships placed in automation-vulnerable pathways risk reinforcing disparities"
 id: automation-declines-programmer-jobs-apprenticeship-risk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

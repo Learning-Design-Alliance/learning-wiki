@@ -3,7 +3,7 @@ type: claim
 title: SEA staff describe their role as providing both support and accountability to LEAs, and describe struggling to balance the two.
 description: SEA staff describe their role as providing both support and accountability to LEAs, and describe struggling to balance the two.
 id: seas-balance-support-and-accountability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

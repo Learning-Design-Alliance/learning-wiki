@@ -3,7 +3,7 @@ type: claim
 title: AI systems are non-neutral socio-technical artifacts embedding cultural assumptions and power relations
 description: AI systems are non-neutral socio-technical artifacts embedding cultural assumptions and power relations
 id: ai-non-neutral-embeds-power-relations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: The SVAS group outperformed the comparison group across oral comprehension and vocabulary rubrics, with the largest gaps in answering questions and translating from Ukrainian
 description: The SVAS group outperformed the comparison group across oral comprehension and vocabulary rubrics, with the largest gaps in answering questions and translating from Ukrainian
 id: svas-advantage-across-test-rubrics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

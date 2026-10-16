@@ -3,7 +3,7 @@ type: strategy
 id: student-agency-pace-and-work-mode
 title: Promote student agency by letting students decide the pace of their work and whether to complete it independently or collaboratively
 description: "The brief recommends supporting students \"to decide about the pace of their work and how they best complete it, whether independently or collaboratively,\" defining agency as people's capacity to take action, craft and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

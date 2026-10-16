@@ -3,7 +3,7 @@ type: claim
 title: "Parents reported large increases in children's robot programming knowledge and access to programming resources during the ARC trial"
 description: "Parents reported large increases in children's robot programming knowledge and access to programming resources during the ARC trial"
 id: arc-trial-parent-reported-student-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

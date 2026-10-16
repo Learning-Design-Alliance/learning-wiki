@@ -3,7 +3,7 @@ type: strategy
 id: student-strategies-asynchronous-simulation
 title: "Coach students in self-directed strategies for asynchronous simulation: start early, take notes, practice in learning mode, and print protocols"
 description: Participants generated peer advice for future students in a computer-based, asynchronous simulation course.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

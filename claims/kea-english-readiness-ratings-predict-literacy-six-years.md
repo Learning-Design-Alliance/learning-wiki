@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' ratings on 16 English-readiness KEA items at kindergarten entry predicted Hispanic/Latino children's English literacy achievement almost 6 years later"
 description: "Teachers' ratings on 16 English-readiness KEA items at kindergarten entry predicted Hispanic/Latino children's English literacy achievement almost 6 years later"
 id: kea-english-readiness-ratings-predict-literacy-six-years
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

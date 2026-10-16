@@ -3,7 +3,7 @@ type: strategy
 id: benchmark-ai-assistants-before-classroom-deployment
 title: Benchmark AI assistants on specialized educational tasks before classroom deployment
 description: "Based on their finding that LLMs remain less consistent than experts and exhibit different failure modes, the authors conclude that \"these findings highlight the importance of specialized educational benchmarks before..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

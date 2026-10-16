@@ -3,7 +3,7 @@ type: claim
 title: The Olist and WindowDash simulation inputs are matched in scale and analytical scope, with overlapping distributions but differing duration-rating associations
 description: The Olist and WindowDash simulation inputs are matched in scale and analytical scope, with overlapping distributions but differing duration-rating associations
 id: windowdash-olist-comparability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

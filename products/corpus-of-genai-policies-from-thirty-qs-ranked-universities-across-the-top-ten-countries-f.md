@@ -4,7 +4,7 @@ id: corpus-of-genai-policies-from-thirty-qs-ranked-universities-across-the-top-t
 title: Corpus of GenAI policies from thirty QS-ranked universities across the top ten countries for AI preparedness
 description: A corpus assembled by Adarkwah et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

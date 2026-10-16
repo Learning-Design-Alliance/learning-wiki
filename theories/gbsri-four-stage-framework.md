@@ -2,7 +2,7 @@
 type: theory
 title: "GBSRI framework: four stages with seven steps integrating SFL genre-based teaching-learning cycles with social-cognitive self-regulated learning phases"
 description: "GBSRI integrates three genre-based teaching-learning cycles (Macken-Horarik 2002, Derewianka 2003, Hyland 2004) with three self-regulated learning models (Schmitz & Wiese 2006; Schunk & Zimmerman 2007; Zimmerman 2013)."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -50,4 +50,4 @@ GBSRI integrates three genre-based teaching-learning cycles (Macken-Horarik 2002
 -
 
 ## Key Sources
-- Wiboonwachara, L., & Charubusp, S. (2022). Implementing Genre-Based Self-Regulated Instruction (GBSRI) to Enhance the English Writing Ability of Thai Undergraduate Students. rEFLections, 29(3). https://so01.tci-thaijo.org/index.php/reflections
+- Wiboonwachara, L., & Charubusp, S. (2022). Implementing Genre-Based Self-Regulated Instruction (GBSRI) to Enhance the English Writing Ability of Thai Undergraduate Students. rEFLections, 29(3). https://so01.tci-thaijo.org/index.php/reflections. [doi:10.61508/refl.v29i3.262658](https://doi.org/10.61508/refl.v29i3.262658)

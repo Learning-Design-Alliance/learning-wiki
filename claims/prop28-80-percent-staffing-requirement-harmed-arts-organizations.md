@@ -3,7 +3,7 @@ type: claim
 title: "The Prop 28 AMS requirement to spend 80% of funds on staffing has negatively impacted community arts organizations, including two preparing to close"
 description: "The Prop 28 AMS requirement to spend 80% of funds on staffing has negatively impacted community arts organizations, including two preparing to close"
 id: prop28-80-percent-staffing-requirement-harmed-arts-organizations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

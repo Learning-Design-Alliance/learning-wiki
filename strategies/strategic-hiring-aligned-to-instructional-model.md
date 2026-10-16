@@ -3,7 +3,7 @@ type: strategy
 id: strategic-hiring-aligned-to-instructional-model
 title: Use strategic hiring aligned to the instructional model, including observing candidates teach and recruiting for mission-specific qualifications
 description: RSF schools devoted many months to hiring, and two schools modeled strategic hiring.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

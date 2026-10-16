@@ -3,7 +3,7 @@ type: strategy
 id: target-secondary-community-school-supports
 title: Target secondary-level community school implementation with supports for relationship-building and family engagement
 description: The report recommends targeted supports to strengthen community school implementation in secondary settings, where impacts on attendance and achievement were inconsistent.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

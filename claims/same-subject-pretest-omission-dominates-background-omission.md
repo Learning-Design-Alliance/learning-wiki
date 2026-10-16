@@ -3,7 +3,7 @@ type: claim
 title: Omitting same-subject pre-tests affects value-added estimates more than excluding other student background characteristics
 description: Omitting same-subject pre-tests affects value-added estimates more than excluding other student background characteristics
 id: same-subject-pretest-omission-dominates-background-omission
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

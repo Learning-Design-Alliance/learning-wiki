@@ -3,7 +3,7 @@ type: element
 id: power4kids-evaluation-three-studies
 title: "Power4Kids evaluation: impact study, implementation study, and functional neuroimaging study of four reading interventions"
 description: The Power4Kids evaluation is a multi-component assessment of four reading interventions for struggling elementary readers, conducted in the Allegheny Intermediate Unit near Pittsburgh.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

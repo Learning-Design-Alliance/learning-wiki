@@ -3,7 +3,7 @@ type: claim
 title: Individual learnity graphs are unique, and their uniqueness becomes a source of innovation and creative problem solving
 description: Individual learnity graphs are unique, and their uniqueness becomes a source of innovation and creative problem solving
 id: unique-graphs-source-of-innovation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

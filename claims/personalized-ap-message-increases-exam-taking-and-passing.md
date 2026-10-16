@@ -4,7 +4,7 @@ title: Students who received the personalized AP message were more likely to tak
 description: Students who received the personalized AP message were more likely to take an AP exam and passed a higher number of exams, making them eligible for college credit
 id: personalized-ap-message-increases-exam-taking-and-passing
 aliases: [ability-signal-increases-ap-exam-taking]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

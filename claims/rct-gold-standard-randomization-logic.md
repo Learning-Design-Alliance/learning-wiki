@@ -3,7 +3,7 @@ type: claim
 title: The RCT is considered the gold standard of research evidence because randomization ensures only the intervention could cause treatment-control outcome differences
 description: The RCT is considered the gold standard of research evidence because randomization ensures only the intervention could cause treatment-control outcome differences
 id: rct-gold-standard-randomization-logic
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

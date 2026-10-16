@@ -4,7 +4,7 @@ id: community-schools-framework-four-pillars-for-a-whole-child-whole-school-whol
 title: "Community schools framework: four pillars for a whole-child, whole-school, whole-community approach"
 description: The Oakes et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

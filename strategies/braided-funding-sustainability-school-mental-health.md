@@ -3,7 +3,7 @@ type: strategy
 id: braided-funding-sustainability-school-mental-health
 title: Sustain district mental health initiatives by braiding grant funding into annual plans, ongoing surveys, and reimbursement streams
 description: "The brief's sustainability approach embeds mental health in existing district structures so work continues after the grant ends: schools included mental health in their annual School Plans for Student Achievement, a f..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

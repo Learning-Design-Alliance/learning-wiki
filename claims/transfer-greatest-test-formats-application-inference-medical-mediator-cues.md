@@ -3,7 +3,7 @@ type: claim
 title: Transfer of test-enhanced learning is greatest across test formats, to application and inference questions, to medical diagnosis problems, and to mediator and related word cues
 description: Transfer of test-enhanced learning is greatest across test formats, to application and inference questions, to medical diagnosis problems, and to mediator and related word cues
 id: transfer-greatest-test-formats-application-inference-medical-mediator-cues
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

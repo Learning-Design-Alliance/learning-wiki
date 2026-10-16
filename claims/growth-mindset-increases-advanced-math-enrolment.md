@@ -3,7 +3,7 @@ type: claim
 title: The growth mindset intervention increased tenth-grade advanced mathematics course enrolment overall, with larger gains in the highest-achieving schools
 description: The growth mindset intervention increased tenth-grade advanced mathematics course enrolment overall, with larger gains in the highest-achieving schools
 id: growth-mindset-increases-advanced-math-enrolment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

@@ -3,7 +3,7 @@ type: claim
 title: Turn-taking with an AI partner shows slower responses, reduced learner floor share, and greater within-turn fluency
 description: Turn-taking with an AI partner shows slower responses, reduced learner floor share, and greater within-turn fluency
 id: ai-turn-taking-latency-floor-pause
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

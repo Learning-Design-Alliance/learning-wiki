@@ -3,7 +3,7 @@ type: claim
 title: Taxonomy-augmented guardrail classifiers reduce educational attack success more than general-purpose jailbreak defenses
 description: Taxonomy-augmented guardrail classifiers reduce educational attack success more than general-purpose jailbreak defenses
 id: taxonomy-augmented-guardrails-education-specific-risks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

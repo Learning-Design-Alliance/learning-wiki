@@ -3,7 +3,7 @@ type: strategy
 id: fdi-assessment-screening-map-dependent-institutions
 title: Use field-dependence-independence assessment to screen personnel in map-dependent institutions
 description: The article recommends that institutions relying on efficient map learning and recall, such as the military and cartographically-oriented agencies, study field-dependence-independence assessment techniques for screeni...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

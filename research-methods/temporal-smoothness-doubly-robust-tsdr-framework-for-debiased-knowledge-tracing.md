@@ -3,7 +3,7 @@ type: research-method
 id: temporal-smoothness-doubly-robust-tsdr-framework-for-debiased-knowledge-tracing
 title: Temporal Smoothness Doubly Robust (TSDR) framework for debiased knowledge tracing
 description: "TSDR is a model-agnostic debiasing framework for knowledge tracing that integrates a doubly robust estimator — combining Inverse Propensity Weighting with error imputation — with a temporal smoothness regularizer on the imputation model's latent trajectory."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

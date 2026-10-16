@@ -3,7 +3,7 @@ type: claim
 title: K-PALS shows statistically significant positive effects on Rapid Letter Sounds for kindergarten students in all three training-support conditions
 description: K-PALS shows statistically significant positive effects on Rapid Letter Sounds for kindergarten students in all three training-support conditions
 id: pals-k-pals-significant-rapid-letter-sound-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

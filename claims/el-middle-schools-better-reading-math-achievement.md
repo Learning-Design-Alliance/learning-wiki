@@ -4,7 +4,7 @@ title: Students in Expeditionary Learning middle schools perform better in readi
 description: Students in Expeditionary Learning middle schools perform better in reading and math than counterparts in other public schools
 id: el-middle-schools-better-reading-math-achievement
 aliases: [el-middle-school-students-outperform-in-reading-and-math]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

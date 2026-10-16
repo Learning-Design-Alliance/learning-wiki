@@ -3,7 +3,7 @@ type: claim
 title: "The agent behavior linked to the trial's worse career outcomes was repeated demands to decide: participants pressed most ended most doubtful"
 description: "The agent behavior linked to the trial's worse career outcomes was repeated demands to decide: participants pressed most ended most doubtful"
 id: decision-demands-linked-to-career-doubt
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

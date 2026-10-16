@@ -4,7 +4,7 @@ id: openscied
 title: OpenSciEd
 description: OpenSciEd is a freely available, Creative Commons–licensed middle-school science curriculum developed to address the Next Generation Science Standards.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -4,7 +4,7 @@ id: ciena-solutions-challenge
 title: Ciena Solutions Challenge
 description: "Ciena's challenge-based learning initiative provides educators and students with global problem-solving projects, a resource library, facilitation guidance, a challenge builder, and related learning materials."
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

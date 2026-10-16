@@ -3,7 +3,7 @@ type: claim
 title: Vast majorities prefer tailored instruction over whole group instruction, but only a minority think schools currently do a good job supporting learner variability
 description: Vast majorities prefer tailored instruction over whole group instruction, but only a minority think schools currently do a good job supporting learner variability
 id: tailored-instruction-preferred-schools-fall-short
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

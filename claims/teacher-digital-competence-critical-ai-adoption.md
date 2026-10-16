@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' digital competence is a critical factor influencing both AI tool adoption and its pedagogical effectiveness"
 description: "Teachers' digital competence is a critical factor influencing both AI tool adoption and its pedagogical effectiveness"
 id: teacher-digital-competence-critical-ai-adoption
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Question specificity during Socratic AI tutoring correlates mildly but positively with self-reported expected course grade (Pearson r ≈ 0.43), with substantial scatter
 description: Question specificity during Socratic AI tutoring correlates mildly but positively with self-reported expected course grade (Pearson r ≈ 0.43), with substantial scatter
 id: question-specificity-correlates-expected-grade
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

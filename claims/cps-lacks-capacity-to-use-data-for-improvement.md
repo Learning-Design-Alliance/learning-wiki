@@ -3,7 +3,7 @@ type: claim
 title: CPS currently lacks internal capacity to conduct substantial research, evaluation, or systematic use of data to improve teaching and learning
 description: CPS currently lacks internal capacity to conduct substantial research, evaluation, or systematic use of data to improve teaching and learning
 id: cps-lacks-capacity-to-use-data-for-improvement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

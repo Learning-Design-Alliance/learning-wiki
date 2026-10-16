@@ -3,7 +3,7 @@ type: claim
 title: Individualized instruction has largely receded in recent AI-focused literature, functioning as a pedagogical predecessor to AI-based personalization
 description: Individualized instruction has largely receded in recent AI-focused literature, functioning as a pedagogical predecessor to AI-based personalization
 id: individualized-instruction-receded-ai-era
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

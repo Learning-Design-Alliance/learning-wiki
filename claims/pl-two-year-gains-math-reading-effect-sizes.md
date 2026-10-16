@@ -3,7 +3,7 @@ type: claim
 title: Students in personalized learning schools made significantly greater mathematics and reading gains over two years than matched comparison students (effect sizes 0.27 mathematics, 0.19 reading)
 description: Students in personalized learning schools made significantly greater mathematics and reading gains over two years than matched comparison students (effect sizes 0.27 mathematics, 0.19 reading)
 id: pl-two-year-gains-math-reading-effect-sizes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

@@ -3,7 +3,7 @@ type: strategy
 id: trialogical-pedagogical-scenarios
 title: Pedagogical scenarios that organise learning around knowledge creation with shared objects
 description: The paper describes pedagogical scenarios aimed at settings where the emphasis is upon knowledge creation, each based on completed or ongoing project work.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

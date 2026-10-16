@@ -3,7 +3,7 @@ type: claim
 title: "SEERNet's five DLPs each have more than 100,000 regular users, which the network cites as grounding research in practice"
 description: "SEERNet's five DLPs each have more than 100,000 regular users, which the network cites as grounding research in practice"
 id: seernet-dlps-over-100000-regular-users
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

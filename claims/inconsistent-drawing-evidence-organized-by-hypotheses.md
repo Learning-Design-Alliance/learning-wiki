@@ -3,7 +3,7 @@ type: claim
 title: Empirical evidence on learner-generated drawing is inconsistent, and the review organizes it around hypotheses grounded in cognitive and strategic processing
 description: Empirical evidence on learner-generated drawing is inconsistent, and the review organizes it around hypotheses grounded in cognitive and strategic processing
 id: inconsistent-drawing-evidence-organized-by-hypotheses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

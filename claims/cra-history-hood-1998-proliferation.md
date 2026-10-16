@@ -3,7 +3,7 @@ type: claim
 title: CRA was formally introduced by Stafford Hood in 1998 and saw limited mainstream development until rapid term proliferation after 2020
 description: CRA was formally introduced by Stafford Hood in 1998 and saw limited mainstream development until rapid term proliferation after 2020
 id: cra-history-hood-1998-proliferation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

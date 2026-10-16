@@ -3,7 +3,7 @@ type: claim
 title: A Soft-Voting Ensemble achieves the best behavioral-dataset attrition prediction (CV F1 = 0.737, test recall = 0.769)
 description: A Soft-Voting Ensemble achieves the best behavioral-dataset attrition prediction (CV F1 = 0.737, test recall = 0.769)
 id: soft-voting-ensemble-behavioral-attrition-f1
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -4,7 +4,7 @@ title: "Reviews report that the split-attention benefit for novices reverses int
 description: Reviews report that the split-attention benefit for novices reverses into a redundancy effect for more experienced learners, citing Kalyuga et al. (1998) and Yeung et al. (1998)
 id: expertise-reversal-split-attention-redundancy-review
 aliases: [expertise-reversal-limits-contiguity-benefits]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
@@ -92,3 +92,5 @@ The discussion cites Kalyuga et al. (1998), reported in the article as finding t
 - [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Worked-example guidance becomes less effective as learner expertise increases.](worked-examples-less-effective-with-expertise.md) — a broader claim this one bears on
 - [Integrating spatially or temporally separated but related elements of instructional information produces a large average learning benefit for novices](integration-of-related-elements-large-mean-effect.md) — related
+- [The expertise reversal effect relies on changes in relative levels of element interactivity due to changes in relative levels of expertise](expertise-reversal-changes-from-expertise-levels.md) — a broader claim this one bears on
+- [Embedded explanatory notes improved Shakespearean text comprehension for novice readers but reversed for experts](expertise-reversal-shakespearean-explanatory-notes.md) — possibly the same claim (merge candidate)

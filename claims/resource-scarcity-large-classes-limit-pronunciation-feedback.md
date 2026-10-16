@@ -3,7 +3,7 @@ type: claim
 title: Resource scarcity and large class sizes limit individualized pronunciation feedback in Bangladeshi classrooms
 description: Resource scarcity and large class sizes limit individualized pronunciation feedback in Bangladeshi classrooms
 id: resource-scarcity-large-classes-limit-pronunciation-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' motivation to analyze their teaching falls into four broad categories: self-analysis, understanding students, change, and problems"
 description: "Teachers' motivation to analyze their teaching falls into four broad categories: self-analysis, understanding students, change, and problems"
 id: teacher-motivation-four-categories-self-analysis-students-change-problems
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

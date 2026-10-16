@@ -3,7 +3,7 @@ type: strategy
 id: invest-public-higher-education-lower-graduate-costs
 title: Invest in public higher education to lower graduate costs and reduce borrowing reliance
 description: "The brief's closing recommendation is that policymakers address graduate affordability by lowering costs rather than restricting borrowing."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

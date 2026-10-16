@@ -3,7 +3,7 @@ type: claim
 title: Peer-reviewed research and industry research describe soft skills that employers seek in new hires
 description: Peer-reviewed research and industry research describe soft skills that employers seek in new hires
 id: peer-reviewed-and-industry-research-soft-skills-employers-seek
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

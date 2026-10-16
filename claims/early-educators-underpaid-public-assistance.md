@@ -3,7 +3,7 @@ type: claim
 title: "Early educators earn one third to one half of k-12 educators' wages and over half rely on public assistance"
 description: "Early educators earn one third to one half of k-12 educators' wages and over half rely on public assistance"
 id: early-educators-underpaid-public-assistance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: administrator-support-sustains-maker-programs
 title: Administrator involvement to sustain school-wide maker programs
 description: "The report finds that making in schools often begins at the grassroots level with educators organizing clubs or in-class activities, but that efforts unsupported by school administration \"often stall or end due to bur..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

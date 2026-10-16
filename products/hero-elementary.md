@@ -4,7 +4,7 @@ id: hero-elementary
 title: Hero Elementary
 description: Hero Elementary is a multiplatform K–2 science and literacy curriculum programme offering themed activity playlists for use in formal and informal learning settings.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

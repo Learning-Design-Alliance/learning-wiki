@@ -2,7 +2,7 @@
 type: theory
 title: School social-organizational structure mediates community influences on school safety
 description: "This framework holds that a school's internal social organization—particularly the relationships among adults and students, the quality of teacher-student interactions, and family engagement—mediates the adverse influ..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

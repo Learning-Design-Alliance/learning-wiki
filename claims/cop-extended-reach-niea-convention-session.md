@@ -3,7 +3,7 @@ type: claim
 title: "The CoP extended its network's reach through national convenings, including a member-facilitated NIEA convention session"
 description: "The CoP extended its network's reach through national convenings, including a member-facilitated NIEA convention session"
 id: cop-extended-reach-niea-convention-session
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

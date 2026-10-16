@@ -3,7 +3,7 @@ type: strategy
 id: three-mechanisms-residency-continuous-improvement
 title: "Use three continuous improvement mechanisms: annual Advisory Council meetings, program surveys, and weekly leadership meetings"
 description: Faculty and program leaders engage in collaborative, solutions-oriented continuous improvement, modeling the learning orientation expected of residents and mentors.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

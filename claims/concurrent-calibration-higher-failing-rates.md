@@ -3,7 +3,7 @@ type: claim
 title: Concurrent calibration produced higher and less fluctuating failing rates than the separate-calibration equating transformations, with larger differences for older tests
 description: Concurrent calibration produced higher and less fluctuating failing rates than the separate-calibration equating transformations, with larger differences for older tests
 id: concurrent-calibration-higher-failing-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

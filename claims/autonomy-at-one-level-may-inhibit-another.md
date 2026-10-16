@@ -3,7 +3,7 @@ type: claim
 title: Exercise of autonomy at one level may inhibit its development at another in early literacy learning
 description: Exercise of autonomy at one level may inhibit its development at another in early literacy learning
 id: autonomy-at-one-level-may-inhibit-another
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

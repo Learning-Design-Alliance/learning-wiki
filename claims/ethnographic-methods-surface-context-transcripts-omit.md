@@ -3,7 +3,7 @@ type: claim
 title: Ethnographically-oriented methods surface five dimensions of classroom context that text-only transcripts omit, including multimodal communication and relationships
 description: Ethnographically-oriented methods surface five dimensions of classroom context that text-only transcripts omit, including multimodal communication and relationships
 id: ethnographic-methods-surface-context-transcripts-omit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

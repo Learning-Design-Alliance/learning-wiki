@@ -3,7 +3,7 @@ type: claim
 title: "The same review ruler supports longitudinal cross-semester problem tracking for one teacher's Data Structures and Algorithms B course"
 description: "The same review ruler supports longitudinal cross-semester problem tracking for one teacher's Data Structures and Algorithms B course"
 id: longitudinal-dsa-review-ruler-tracking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

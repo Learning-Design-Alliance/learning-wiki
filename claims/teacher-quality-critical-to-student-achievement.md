@@ -3,7 +3,7 @@ type: claim
 title: Recent evidence confirms teacher quality is a critical component of student achievement
 description: Recent evidence confirms teacher quality is a critical component of student achievement
 id: teacher-quality-critical-to-student-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

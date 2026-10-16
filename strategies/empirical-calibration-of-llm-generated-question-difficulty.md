@@ -3,7 +3,7 @@ type: strategy
 id: empirical-calibration-of-llm-generated-question-difficulty
 title: Calibrate LLM-generated question difficulty empirically from student response data rather than trusting model-assigned labels
 description: The article recommends treating LLM-assigned difficulty labels as uncalibrated and evaluating question difficulty using student response data, starting with Classical Test Theory difficulty indices and moving to Item...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

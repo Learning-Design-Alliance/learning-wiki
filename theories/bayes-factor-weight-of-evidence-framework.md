@@ -2,7 +2,7 @@
 type: theory
 title: Bayes factors as interpretable weight of evidence for competing scientific theories
 description: The article frames the Bayes factor as a hypothesis-testing framework whose outcome is directly interpretable as evidence for competing theories.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

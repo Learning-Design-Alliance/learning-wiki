@@ -3,7 +3,7 @@ type: claim
 title: "Career Academies show no discernible effects on staying in school: about 10% of academy students dropped out before the end of grade 12 versus about 12% of comparison students (effect size 0.14, not statistically significant or substantively important)."
 description: "Career Academies show no discernible effects on staying in school: about 10% of academy students dropped out before the end of grade 12 versus about 12% of comparison students (effect size 0.14, not statistically sign..."
 id: career-academies-no-effect-staying-in-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

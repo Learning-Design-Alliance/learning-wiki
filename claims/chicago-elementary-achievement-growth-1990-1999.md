@@ -3,7 +3,7 @@ type: claim
 title: Chicago elementary student achievement improved steadily from 1990 to 1999 under local control, with the share of students reaching national norms growing to 35 percent in reading and 43 percent in math
 description: Chicago elementary student achievement improved steadily from 1990 to 1999 under local control, with the share of students reaching national norms growing to 35 percent in reading and 43 percent in math
 id: chicago-elementary-achievement-growth-1990-1999
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

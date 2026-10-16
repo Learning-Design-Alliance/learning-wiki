@@ -3,7 +3,7 @@ type: claim
 title: Graduation rates rise with freshman credits earned, with a large gap above six credits
 description: Graduation rates rise with freshman credits earned, with a large gap above six credits
 id: credits-earned-freshman-year-graduation-gradient
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

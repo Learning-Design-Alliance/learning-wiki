@@ -3,7 +3,7 @@ type: claim
 title: Community listening sessions identified shared themes of access and affordability, market shifts, workforce development, wages, outreach, inclusion, family supports, and facilities
 description: Community listening sessions identified shared themes of access and affordability, market shifts, workforce development, wages, outreach, inclusion, family supports, and facilities
 id: listening-session-shared-findings-themes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: research-method
 id: social-cartography
 title: Social cartography
 description: "Social cartography is a methodology, grounded in an anti-foundational perspective and Foucault's notion of spatial dispersion, for representing the interrelations of discourse communities in educational policy studies."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

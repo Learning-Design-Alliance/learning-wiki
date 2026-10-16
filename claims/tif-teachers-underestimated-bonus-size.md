@@ -3,7 +3,7 @@ type: claim
 title: Teachers in the evaluation districts underestimated the size of pay-for-performance bonuses they could earn through TIF
 description: Teachers in the evaluation districts underestimated the size of pay-for-performance bonuses they could earn through TIF
 id: tif-teachers-underestimated-bonus-size
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

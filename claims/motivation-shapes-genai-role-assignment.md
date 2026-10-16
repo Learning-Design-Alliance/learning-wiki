@@ -3,7 +3,7 @@ type: claim
 title: "Motivational orientation is strongly associated with the role students assign to GenAI: intrinsically motivated students most often position it as an instructor, extrinsically motivated students as a replacement tool"
 description: "Motivational orientation is strongly associated with the role students assign to GenAI: intrinsically motivated students most often position it as an instructor, extrinsically motivated students as a replacement tool"
 id: motivation-shapes-genai-role-assignment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

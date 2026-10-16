@@ -3,7 +3,7 @@ type: strategy
 id: shaped-spectrum-filtered-error-adaptive-logic
 title: Use shaped-spectrum filtered error for rapid adaptive logic response
 description: To separate trainee performance from disturbance effects in adaptive logic, the article describes passing the disturbance through a high pass filter and the error through a low pass filter, each with a 5 sec.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

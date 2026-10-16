@@ -3,7 +3,7 @@ type: claim
 title: Students attributed improved understanding to the discussion process of the implementation model rather than the clicker technology itself
 description: Students attributed improved understanding to the discussion process of the implementation model rather than the clicker technology itself
 id: learning-attributed-to-process-not-technology
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

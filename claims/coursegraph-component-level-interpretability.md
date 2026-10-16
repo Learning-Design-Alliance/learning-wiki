@@ -3,7 +3,7 @@ type: claim
 title: "Component-level embeddings make CourseGraph interpretable: learning outcomes contributed most to an example overlap decision"
 description: "Component-level embeddings make CourseGraph interpretable: learning outcomes contributed most to an example overlap decision"
 id: coursegraph-component-level-interpretability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

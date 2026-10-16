@@ -3,7 +3,7 @@ type: claim
 title: Pre-K Mathematics shows uncertain effects on social-emotional learning
 description: Pre-K Mathematics shows uncertain effects on social-emotional learning
 id: pre-k-mathematics-uncertain-social-emotional-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

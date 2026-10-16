@@ -3,7 +3,7 @@ type: strategy
 id: embed-product-rollout-into-existing-routines
 title: Embed product rollout into existing routines with structured cadences, teacher champions, and stipends to accelerate adoption
 description: The report recommends supporting implementation with structured cadences such as grade-level meetings, teacher champions, and stipends.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

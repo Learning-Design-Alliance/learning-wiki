@@ -3,7 +3,7 @@ type: claim
 title: Monthly external coaching from Digital Promise held Design Teams accountable and generated ideas no one else in the room had
 description: Monthly external coaching from Digital Promise held Design Teams accountable and generated ideas no one else in the room had
 id: external-coaching-accountability-idea-generation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

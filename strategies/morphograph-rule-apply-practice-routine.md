@@ -3,7 +3,7 @@ type: strategy
 id: morphograph-rule-apply-practice-routine
 title: "Use a morphograph-based rule-teaching routine: introduce the rule, apply it in whole-group instruction, then assign independent worksheet practice"
 description: The Darch et al.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

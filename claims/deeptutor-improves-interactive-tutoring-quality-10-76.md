@@ -3,7 +3,7 @@ type: claim
 title: "DeepTutor improves overall first-person interactive tutoring quality by 10.76% over a Naive Tutor baseline on TutorBench"
 description: "DeepTutor improves overall first-person interactive tutoring quality by 10.76% over a Naive Tutor baseline on TutorBench"
 id: deeptutor-improves-interactive-tutoring-quality-10-76
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

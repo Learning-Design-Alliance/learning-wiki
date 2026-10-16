@@ -3,7 +3,7 @@ type: claim
 title: "Severe and differential attrition at grade 4 (68.2% intervention vs. 44.2% comparison) led the WWC to exclude grade-4 outcomes from review"
 description: "Severe and differential attrition at grade 4 (68.2% intervention vs."
 id: cwpt-grade4-differential-attrition-excluded
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

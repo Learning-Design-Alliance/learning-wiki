@@ -3,7 +3,7 @@ type: claim
 title: Fully offloading schoolwork to generative AI without personal input forgoes meaningful engagement and skill development
 description: Fully offloading schoolwork to generative AI without personal input forgoes meaningful engagement and skill development
 id: full-ai-offloading-forgoes-engagement-and-skills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

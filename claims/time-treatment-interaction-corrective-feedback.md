@@ -3,7 +3,7 @@ type: claim
 title: Corrective feedback treatment and time interact significantly in shaping wh-question learning gains across the three testing periods
 description: Corrective feedback treatment and time interact significantly in shaping wh-question learning gains across the three testing periods
 id: time-treatment-interaction-corrective-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

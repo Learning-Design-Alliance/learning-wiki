@@ -3,7 +3,7 @@ type: claim
 title: Censoring appears to affect negative-valence ratings of mathematics-related cues between model variants
 description: Censoring appears to affect negative-valence ratings of mathematics-related cues between model variants
 id: censoring-affects-llm-math-valence-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

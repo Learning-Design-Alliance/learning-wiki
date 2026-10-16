@@ -3,7 +3,7 @@ type: claim
 title: Early educators face financial, academic, and structural barriers to college enrollment and degree completion, disproportionately affecting students of color
 description: Early educators face financial, academic, and structural barriers to college enrollment and degree completion, disproportionately affecting students of color
 id: ece-educator-college-completion-barriers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

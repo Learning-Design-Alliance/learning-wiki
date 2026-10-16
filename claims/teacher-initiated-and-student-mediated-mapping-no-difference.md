@@ -3,7 +3,7 @@ type: claim
 title: Teacher-initiated and student-mediated semantic mapping did not differ significantly in their effects on EFL reading comprehension
 description: Teacher-initiated and student-mediated semantic mapping did not differ significantly in their effects on EFL reading comprehension
 id: teacher-initiated-and-student-mediated-mapping-no-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

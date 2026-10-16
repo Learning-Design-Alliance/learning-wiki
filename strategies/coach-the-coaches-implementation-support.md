@@ -3,7 +3,7 @@ type: strategy
 id: coach-the-coaches-implementation-support
 title: Coach-the-coaches model for sustaining teacher professional learning implementation
 description: "The SWELL approach provides \"coaching and technical assistance to coaches who will support teacher implementation\" of Write to Succeed, rather than coaching teachers directly."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

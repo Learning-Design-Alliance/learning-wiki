@@ -3,7 +3,7 @@ type: claim
 title: Motivation, internet connectivity, and hardware/software problems were widespread challenges in remote STEM courses
 description: Motivation, internet connectivity, and hardware/software problems were widespread challenges in remote STEM courses
 id: widespread-remote-stem-challenges-motivation-connectivity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Magnetic field falls off as the inverse cube of axial distance for both a coil and a magnet
 description: Magnetic field falls off as the inverse cube of axial distance for both a coil and a magnet
 id: magnetic-field-inverse-cube-axial-distance-coil-magnet
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

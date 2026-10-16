@@ -3,7 +3,7 @@ type: claim
 title: Semilingualism — less than native-like skill in both languages — is associated with detrimental cognitive and academic consequences
 description: Semilingualism — less than native-like skill in both languages — is associated with detrimental cognitive and academic consequences
 id: semilingualism-associated-with-negative-cognitive-effects
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

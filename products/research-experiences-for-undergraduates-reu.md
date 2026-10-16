@@ -4,7 +4,7 @@ id: research-experiences-for-undergraduates-reu
 title: Research Experiences for Undergraduates (REU)
 description: The NSF REU program is a National Science Foundation initiative that provides undergraduate research experiences to strengthen the STEM workforce.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

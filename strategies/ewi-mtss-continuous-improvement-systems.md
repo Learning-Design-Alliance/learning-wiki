@@ -3,7 +3,7 @@ type: strategy
 id: ewi-mtss-continuous-improvement-systems
 title: Use Early Warning Indicator (EWI) and Multi-Tiered Systems of Support (MTSS) for continuous improvement
 description: "The article lists among its covered topics \"Guidance on using systems for continuous improvement such as Early Warning Indicator (EWI) and Multi-Tiered Systems of Support (MTSS)\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

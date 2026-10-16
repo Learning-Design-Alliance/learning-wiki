@@ -3,7 +3,7 @@ type: strategy
 id: librarian-created-k6-cs-ct-lessons
 title: Leverage school-based librarians to create and deliver K-6 CS/CT lessons when classroom integration slows
 description: During COVID-19 disruptions in Years 2 and 3, ICCSD distributed leadership by having select librarians work in parallel to create a library of CS/CT lessons for students in grades K-6, aligned to School Library Standa...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

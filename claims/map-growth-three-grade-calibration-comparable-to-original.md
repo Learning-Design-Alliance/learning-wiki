@@ -3,7 +3,7 @@ type: claim
 title: Item difficulty estimates from target-plus-adjacent-grade samples differ no more from original estimates than on-grade estimates do, with a largest average difference of 0.05 logit
 description: Item difficulty estimates from target-plus-adjacent-grade samples differ no more from original estimates than on-grade estimates do, with a largest average difference of 0.05 logit
 id: map-growth-three-grade-calibration-comparable-to-original
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

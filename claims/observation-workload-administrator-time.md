@@ -3,7 +3,7 @@ type: claim
 title: REACH observations consumed substantial administrator time—about six hours per observation cycle and roughly two to three full weeks per year
 description: REACH observations consumed substantial administrator time—about six hours per observation cycle and roughly two to three full weeks per year
 id: observation-workload-administrator-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

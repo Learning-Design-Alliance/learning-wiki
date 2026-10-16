@@ -3,7 +3,7 @@ type: strategy
 id: administrator-coaching-feedback-support
 title: Provide administrators training and support in coaching and delivering useful feedback
 description: "Because principals must both evaluate and develop teachers, the report identifies coaching and feedback skills as administrators' top professional development need."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

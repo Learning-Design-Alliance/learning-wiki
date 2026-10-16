@@ -3,7 +3,7 @@ type: strategy
 id: gamification-implementation-support-strategy
 title: Support gamified learning implementation with teacher training, technical preparedness, and regular tool evaluation
 description: "The review's challenges section recommends that institutions implementing gamified learning provide comprehensive training and support for students and teachers, ensure adequate technological infrastructure, and regul..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

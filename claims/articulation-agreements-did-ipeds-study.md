@@ -3,7 +3,7 @@ type: claim
 title: "A study estimates the effects of statewide articulation agreement policies on college enrollment, associate degree attainment, and bachelor's degree attainment using IPEDS data and a Difference-in-Difference approach"
 description: "A study estimates the effects of statewide articulation agreement policies on college enrollment, associate degree attainment, and bachelor's degree attainment using IPEDS data and a Difference-in-Difference approach"
 id: articulation-agreements-did-ipeds-study
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

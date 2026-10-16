@@ -3,7 +3,7 @@ type: claim
 title: In the first year of NLCI expansion, the attendance advantage over similar schools (3.8 percentage points) was not statistically significant
 description: In the first year of NLCI expansion, the attendance advantage over similar schools (3.8 percentage points) was not statistically significant
 id: nlci-year-one-attendance-difference-not-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

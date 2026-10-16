@@ -3,7 +3,7 @@ type: strategy
 id: cross-institution-joint-credential-issuance
 title: Issue joint cross-institution credentials via smart-contract credit verification and co-signed certificates
 description: "For multi-institution programs, the framework lets students take courses across consortium universities with completions and credits recorded on the shared ledger; \"a smart contract automatically verifies the credits,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

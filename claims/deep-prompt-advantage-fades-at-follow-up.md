@@ -4,7 +4,7 @@ title: The immediate advantage of deep-processing prompts does not persist at a 
 description: The immediate advantage of deep-processing prompts does not persist at a 5-month follow-up, with a Bayesian test confirming the null
 id: deep-prompt-advantage-fades-at-follow-up
 aliases: [deep-prompting-insufficient-long-term-retention]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

@@ -3,7 +3,7 @@ type: claim
 title: A unique form of anxiety experienced in response to learning or using an L2 was identified in the mid-1980s
 description: A unique form of anxiety experienced in response to learning or using an L2 was identified in the mid-1980s
 id: fla-identified-mid-1980s
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: "Second-year outcomes were worst for retained eighth graders and Transition Center students: only 27% met the criteria by May 1998 and about 16% of officially retained eighth graders dropped out"
 description: "Second-year outcomes were worst for retained eighth graders and Transition Center students: only 27% met the criteria by May 1998 and about 16% of officially retained eighth graders dropped out"
 id: retained-eighth-graders-worst-outcomes-dropout
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

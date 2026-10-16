@@ -3,7 +3,7 @@ type: claim
 title: Mobile device use in primary classrooms produces a small, statistically significant positive pooled effect on literacy and numeracy outcomes compared with alternative devices or no device
 description: Mobile device use in primary classrooms produces a small, statistically significant positive pooled effect on literacy and numeracy outcomes compared with alternative devices or no device
 id: mobile-devices-small-positive-effect-literacy-numeracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

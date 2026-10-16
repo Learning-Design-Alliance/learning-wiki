@@ -3,7 +3,7 @@ type: claim
 title: A special validity analysis was conducted on the Puerto Rico trial assessment data
 description: A special validity analysis was conducted on the Puerto Rico trial assessment data
 id: special-validity-analysis-puerto-rico-naep
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

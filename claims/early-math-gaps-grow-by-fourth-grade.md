@@ -3,7 +3,7 @@ type: claim
 title: Early socioeconomic math performance gaps grow over time, producing substantial differences by fourth grade
 description: Early socioeconomic math performance gaps grow over time, producing substantial differences by fourth grade
 id: early-math-gaps-grow-by-fourth-grade
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: At Time 3, profile membership was significantly associated with Japanese learning self-efficacy and learning burnout, with all three profiles differing pairwise
 description: At Time 3, profile membership was significantly associated with Japanese learning self-efficacy and learning burnout, with all three profiles differing pairwise
 id: profiles-predict-self-efficacy-and-burnout
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

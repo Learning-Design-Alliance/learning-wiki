@@ -4,7 +4,7 @@ id: gbsri
 title: GBSRI
 description: GBSRI is a genre-based, self-regulated writing-instruction framework developed by the article’s authors for EFL writing instruction.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
@@ -34,7 +34,7 @@ GBSRI is a genre-based, self-regulated writing-instruction framework developed b
 -
 
 ## Key Sources
-- Wiboonwachara, L., & Charubusp, S. (2022). Implementing Genre-Based Self-Regulated Instruction (GBSRI) to Enhance the English Writing Ability of Thai Undergraduate Students. rEFLections, 29(3). https://so01.tci-thaijo.org/index.php/reflections
+- Wiboonwachara, L., & Charubusp, S. (2022). Implementing Genre-Based Self-Regulated Instruction (GBSRI) to Enhance the English Writing Ability of Thai Undergraduate Students. rEFLections, 29(3). https://so01.tci-thaijo.org/index.php/reflections. [doi:10.61508/refl.v29i3.262658](https://doi.org/10.61508/refl.v29i3.262658)
 
 <!-- merged 2026-10-10 from designs/gbsri-lesson-stage-cycle-pattern ("Genre-based writing lesson pattern cycling Presenting, Collaborative Practicing, Independent Writing, and Post-Writing Task stages"), misfiled as a design and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -73,5 +73,5 @@ A reusable lesson-level pattern in which each writing task cycles through the GB
 -
 
 ## Key Sources
-- Wiboonwachara, L., & Charubusp, S. (2022). Implementing Genre-Based Self-Regulated Instruction (GBSRI) to Enhance the English Writing Ability of Thai Undergraduate Students. rEFLections, 29(3). https://so01.tci-thaijo.org/index.php/reflections
+- Wiboonwachara, L., & Charubusp, S. (2022). Implementing Genre-Based Self-Regulated Instruction (GBSRI) to Enhance the English Writing Ability of Thai Undergraduate Students. rEFLections, 29(3). https://so01.tci-thaijo.org/index.php/reflections. [doi:10.61508/refl.v29i3.262658](https://doi.org/10.61508/refl.v29i3.262658)
 -->

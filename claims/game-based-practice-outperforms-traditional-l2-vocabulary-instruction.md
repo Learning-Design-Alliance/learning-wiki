@@ -3,7 +3,7 @@ type: claim
 title: Game-based vocabulary practice produced larger gains than traditional instruction for newly arrived migrant children.
 id: game-based-practice-outperforms-traditional-l2-vocabulary-instruction
 description: Ukrainian children aged 6–7 taught Italian vocabulary by games reached 171.91 words against 139.29 for traditional instruction over four weeks — a strong result in a population that transfers to almost nothing.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-03

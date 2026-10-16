@@ -3,7 +3,7 @@ type: claim
 title: Community schools are associated with positive student outcomes including reduced absenteeism, improved academics, and more positive school climates
 description: Community schools are associated with positive student outcomes including reduced absenteeism, improved academics, and more positive school climates
 id: community-schools-positive-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

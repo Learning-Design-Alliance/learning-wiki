@@ -3,7 +3,7 @@ type: strategy
 id: formative-studies-first-for-school-rj
 title: Use rigorous formative studies to refine the RJ framework and document outcomes before scaling
 description: "In the conclusion, the article reports that most interviewed experts wanted \"rigorous formative studies to refine the framework and document the outcomes of RJ in schools,\" and offers the brief's categorized research..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

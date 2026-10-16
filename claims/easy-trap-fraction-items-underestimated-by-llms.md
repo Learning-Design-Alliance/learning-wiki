@@ -3,7 +3,7 @@ type: claim
 title: "LLMs systematically underestimate fraction items whose difficulty is driven by misconceptions (the \"Easy Trap\")"
 description: "LLMs systematically underestimate fraction items whose difficulty is driven by misconceptions (the \"Easy Trap\")"
 id: easy-trap-fraction-items-underestimated-by-llms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -71,3 +71,4 @@ Figure 2 comparison of LLM-predicted versus empirical IRT difficulty shows non-f
 - [Correct-answer-trap cases concentrate in specific question types where common flawed reasoning happens to produce the correct numerical answer, with the top two question types accounting for 71% of all TM cases](cat-failures-concentrate-in-two-question-types.md) — related
 - Standard ML interventions do not improve hidden-misconception detection beyond the fine-tuned classifier baseline — related
 - [The taxonomy decodes overlapping misconceptions behind a single observed loop-tracing error](taxonomy-decodes-overlapping-loop-misconceptions.md) — related
+- Only 25% of US Grade 4 students identified the fraction closest to 1/2 on the 2009 NAEP test — related

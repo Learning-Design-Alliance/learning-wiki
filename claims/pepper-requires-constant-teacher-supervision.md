@@ -3,7 +3,7 @@ type: claim
 title: "Pepper's classroom operation required frequent teacher supervision in over half of the studies, mainly due to voice recognition and technical failures"
 description: "Pepper's classroom operation required frequent teacher supervision in over half of the studies, mainly due to voice recognition and technical failures"
 id: pepper-requires-constant-teacher-supervision
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Enhanced math instruction adapted to after-school settings produced modest but statistically significant math gains after one year, while enhanced reading instruction showed no differences
 description: Enhanced math instruction adapted to after-school settings produced modest but statistically significant math gains after one year, while enhanced reading instruction showed no differences
 id: enhanced-academic-instruction-math-gains-reading-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

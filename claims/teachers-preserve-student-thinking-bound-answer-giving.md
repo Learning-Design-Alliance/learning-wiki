@@ -3,7 +3,7 @@ type: claim
 title: Teachers sought to preserve student thinking and authorship by bounding chatbot answer-giving and maintaining teacher control over scope
 description: Teachers sought to preserve student thinking and authorship by bounding chatbot answer-giving and maintaining teacher control over scope
 id: teachers-preserve-student-thinking-bound-answer-giving
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

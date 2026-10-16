@@ -4,7 +4,7 @@ id: level-of-adoption-loa-survey
 title: Level of Adoption (LoA) survey
 description: An online collaborative self-report survey developed by Orr et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Adult education programs used product-generated learner data minimally, mostly tracking usage time rather than diagnosing struggles
 description: Adult education programs used product-generated learner data minimally, mostly tracking usage time rather than diagnosing struggles
 id: adult-ed-minimal-learner-data-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

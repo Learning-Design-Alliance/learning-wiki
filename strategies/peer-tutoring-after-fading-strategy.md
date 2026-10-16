@@ -3,7 +3,7 @@ type: strategy
 id: peer-tutoring-after-fading-strategy
 title: Use peer tutoring as the recommended collaborative learning style after fading distinguishes expert and non-expert peers
 description: "The paper recommends peer tutoring as the collaborative learning style for the FTS: \"Peer-tutoring is an approach in which one child instructs another child in material on which the first is an expert and the second i..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

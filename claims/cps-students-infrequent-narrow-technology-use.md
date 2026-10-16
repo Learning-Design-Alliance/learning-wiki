@@ -3,7 +3,7 @@ type: claim
 title: Most Chicago public school students use technology infrequently and for a narrow range of low-level activities
 description: Most Chicago public school students use technology infrequently and for a narrow range of low-level activities
 id: cps-students-infrequent-narrow-technology-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

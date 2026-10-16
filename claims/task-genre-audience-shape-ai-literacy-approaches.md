@@ -3,7 +3,7 @@ type: claim
 title: "The two students' distinct AI literacy approaches may be shaped by differing rhetorical objectives, genres, and audiences of their writing tasks"
 description: "The two students' distinct AI literacy approaches may be shaped by differing rhetorical objectives, genres, and audiences of their writing tasks"
 id: task-genre-audience-shape-ai-literacy-approaches
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: "CCSPP community schools reduced suspension rates by roughly 15% (0.5 percentage point) relative to matched comparison schools"
 description: "CCSPP community schools reduced suspension rates by roughly 15% (0.5 percentage point) relative to matched comparison schools"
 id: ccspp-suspension-reduction-15-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

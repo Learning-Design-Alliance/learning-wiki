@@ -3,7 +3,7 @@ type: claim
 title: Nearly 80 percent of surveyed charter schools operated fully remotely in April 2020, falling to about half by the 2020-21 school year
 description: Nearly 80 percent of surveyed charter schools operated fully remotely in April 2020, falling to about half by the 2020-21 school year
 id: charter-instructional-modes-remote-to-hybrid-shift
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: AI agents can now navigate and complete tasks within learning management systems
 description: AI agents can now navigate and complete tasks within learning management systems
 id: ai-agents-navigate-and-complete-lms-tasks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

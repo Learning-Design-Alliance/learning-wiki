@@ -3,7 +3,7 @@ type: claim
 title: In the analyzed school setting, black girls experience testimonial injustice as direct discrimination and hermeneutical injustice as indirect, structural discrimination that personal effort cannot erode
 description: In the analyzed school setting, black girls experience testimonial injustice as direct discrimination and hermeneutical injustice as indirect, structural discrimination that personal effort cannot erode
 id: black-girls-face-testimonial-and-structural-hermeneutical-injustice-in-school
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

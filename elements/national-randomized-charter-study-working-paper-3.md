@@ -3,7 +3,7 @@ type: element
 id: national-randomized-charter-study-working-paper-3
 title: National randomized study of charter school effectiveness (Working Paper 3, Mathematica Policy Research)
 description: A working paper (Working Paper 3), published December 30, 2011 by Mathematica Policy Research in Princeton, NJ, and prepared for the U.S.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

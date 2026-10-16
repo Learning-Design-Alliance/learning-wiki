@@ -3,7 +3,7 @@ type: claim
 title: "Math 180 randomized study: 6th graders receiving Math 180 showed greater growth on NWEA MAP mathematics than business-as-usual comparison students (ES +0.31)"
 description: "Math 180 randomized study: 6th graders receiving Math 180 showed greater growth on NWEA MAP mathematics than business-as-usual comparison students (ES +0.31)"
 id: math-180-rct-grade6-map-es-031
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

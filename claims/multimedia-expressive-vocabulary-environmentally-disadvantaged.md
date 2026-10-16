@@ -3,7 +3,7 @@ type: claim
 title: Multimedia-enhanced stories significantly improve expressive vocabulary for children disadvantaged by environmental factors such as low parental education
 description: Multimedia-enhanced stories significantly improve expressive vocabulary for children disadvantaged by environmental factors such as low parental education
 id: multimedia-expressive-vocabulary-environmentally-disadvantaged
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: "Only 11% of surveyed educators can recommend specialized AI services, with ChatGPT dominating recommendations at 44%"
 description: "Only 11% of surveyed educators can recommend specialized AI services, with ChatGPT dominating recommendations at 44%"
 id: chatgpt-dominance-specialized-service-awareness-11-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
@@ -49,3 +49,4 @@ Open-ended item from the Study 2 educator survey (n=116; 38% skipped the item, l
 - [ChatGPT is the most frequently used AI tool among Ghanaian pre-service science teachers, with 69% reporting frequent use](chatgpt-most-used-ai-tool-ghanaian-pre-service-science-teachers.md) — related
 - [ChatGPT is the most widely used AI tool among Ukrainian education managers (69.4% adoption)](chatgpt-dominant-tool-usage-education-managers.md) — related
 - [Weekly AI use differs sharply across groups even though nearly all groups report similar prevalence of any AI-service use, with administrative staff highest in prevalence but lowest in weekly use](weekly-use-prevalence-divergence.md) — related
+- [Teachers use ChatGPT for personal and professional learning and resource generation, while students use it as a personal tutor for various learning purposes.](chatgpt-teacher-resource-generation-student-personal-tutor.md) — related

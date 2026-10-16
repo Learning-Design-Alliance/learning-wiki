@@ -3,7 +3,7 @@ type: claim
 title: "Conscientization, grounded in Freire's consciousness-raising, is argued to fit adventure therapy's experiential learning methodology as the first empowerment level"
 description: "Conscientization, grounded in Freire's consciousness-raising, is argued to fit adventure therapy's experiential learning methodology as the first empowerment level"
 id: conscientization-fits-adventure-therapy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: Task completion with GenAI is a weak proxy for durable competence, with struggling learners at risk of an illusion of competence
 description: Task completion with GenAI is a weak proxy for durable competence, with struggling learners at risk of an illusion of competence
 id: task-completion-weak-proxy-competence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -72,3 +72,4 @@ The review attributes to Qiao et al.'s systematic review of 31 code-comprehensio
 - [Students attributed initial passive reliance on GenAI to prompting paralysis and an authority bias compounded by low academic self-efficacy](prompting-paralysis-and-authority-bias.md) — related
 - [Immediate LLM explanations risk bypassing the generative processes required for durable understanding](genai-offloading-bypasses-desirable-difficulties.md) — related
 - [Engagement remains an observable and evidential proxy for learning that AI has not broken, though it is not invulnerable](engagement-surviving-proxy.md) — related
+- [The convenience and low opportunity cost of LLMs poses a risk of over-reliance, deskilling, and reduced judgment competence when learners outsource tasks that are essential learning opportunities.](llm-over-reliance-deskilling-risk.md) — related

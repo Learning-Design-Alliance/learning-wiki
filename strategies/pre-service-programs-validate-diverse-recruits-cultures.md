@@ -3,7 +3,7 @@ type: strategy
 id: pre-service-programs-validate-diverse-recruits-cultures
 title: Pre-service education programs should recruit diverse inner-city students and validate their cultures and experiences
 description: "This strategy, offered by a novice teacher in the paper, directs pre-service program staff to go beyond recruiting inner-city majority students: they should \"validate their culture and individual experiences\" and lear..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: In Experiment 2, making metacognitive predictions alone did not improve calibration, performance feedback was sufficient, and explicit metacognitive feedback added no significant benefit
 description: In Experiment 2, making metacognitive predictions alone did not improve calibration, performance feedback was sufficient, and explicit metacognitive feedback added no significant benefit
 id: prediction-alone-ineffective-performance-feedback-sufficient
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

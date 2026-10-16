@@ -3,7 +3,7 @@ type: claim
 title: "Small school contexts may both enable and constrain professional communities: collegiality rises but heavy workloads make collective instructional focus difficult"
 description: "Small school contexts may both enable and constrain professional communities: collegiality rises but heavy workloads make collective instructional focus difficult"
 id: small-school-contexts-enable-and-constrain-communities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

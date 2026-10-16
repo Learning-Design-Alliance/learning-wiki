@@ -3,7 +3,7 @@ type: claim
 title: Learners who could decide after a trial whether to receive knowledge of results (Self-After, Self-Both) were more accurate on a 24-h motor retention test than learners who decided before the trial (Self-Before) and than their yoked counterparts.
 description: Learners who could decide after a trial whether to receive knowledge of results (Self-After, Self-Both) were more accurate on a 24-h motor retention test than learners who decided before the trial (Self-Before) and th...
 id: self-controlled-kr-decided-after-trial-improves-motor-retention
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

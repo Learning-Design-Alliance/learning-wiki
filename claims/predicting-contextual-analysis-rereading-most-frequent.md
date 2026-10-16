@@ -3,7 +3,7 @@ type: claim
 title: Predicting, using contextual analysis, and rereading were the most frequently used metacognitive behaviors; deciding when to stop, independent reading time, and testing were least frequent
 description: Predicting, using contextual analysis, and rereading were the most frequently used metacognitive behaviors; deciding when to stop, independent reading time, and testing were least frequent
 id: predicting-contextual-analysis-rereading-most-frequent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

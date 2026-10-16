@@ -3,7 +3,7 @@ type: claim
 title: "TEP's student population was similar to other neighborhood schools: high poverty, mostly Hispanic, with similar rates of special education services"
 description: "TEP's student population was similar to other neighborhood schools: high poverty, mostly Hispanic, with similar rates of special education services"
 id: tep-student-population-comparable-to-neighborhood-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

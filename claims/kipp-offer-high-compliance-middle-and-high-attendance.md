@@ -3,7 +3,7 @@ type: claim
 title: Students offered KIPP middle school admission usually attended a KIPP middle school and many went on to attend a KIPP high school
 description: Students offered KIPP middle school admission usually attended a KIPP middle school and many went on to attend a KIPP high school
 id: kipp-offer-high-compliance-middle-and-high-attendance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

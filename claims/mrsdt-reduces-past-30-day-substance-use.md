@@ -3,7 +3,7 @@ type: claim
 title: "Mandatory-random student drug testing reduces high school students' reported past-30-day substance use relative to schools without MRSDT"
 description: "Mandatory-random student drug testing reduces high school students' reported past-30-day substance use relative to schools without MRSDT"
 id: mrsdt-reduces-past-30-day-substance-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

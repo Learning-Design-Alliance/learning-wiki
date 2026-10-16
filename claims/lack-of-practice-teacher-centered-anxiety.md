@@ -3,7 +3,7 @@ type: claim
 title: Lack of practice ranks fourth among speaking anxiety sources, attributed to teacher-centered Iranian classrooms
 description: Lack of practice ranks fourth among speaking anxiety sources, attributed to teacher-centered Iranian classrooms
 id: lack-of-practice-teacher-centered-anxiety
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

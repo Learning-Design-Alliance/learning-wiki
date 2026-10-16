@@ -3,7 +3,7 @@ type: claim
 title: Participants seek AI advice less frequently when accuracy carries monetary stakes
 description: Participants seek AI advice less frequently when accuracy carries monetary stakes
 id: stakes-reduce-ai-advice-seeking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

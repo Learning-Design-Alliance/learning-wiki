@@ -3,7 +3,7 @@ type: design
 id: symbiosis-theory-human-ai-role-design
 title: Symbiosis theory as a framework for designing human-machine symbiosis in online collaborative learning
 description: Symbiosis theory frames human-GAI collaboration as a mutually beneficial partnership in which learners and AI partners co-develop.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Teachers judged the AI-generated scaffolds relevant and of similar quality to their own questions, though some felt the wording was too fancy or long and needed modification
 description: Teachers judged the AI-generated scaffolds relevant and of similar quality to their own questions, though some felt the wording was too fancy or long and needed modification
 id: concept-catalyst-scaffold-quality-relevant-but-needs-editing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

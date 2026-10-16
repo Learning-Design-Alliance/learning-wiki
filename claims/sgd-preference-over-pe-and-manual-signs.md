@@ -3,7 +3,7 @@ type: claim
 title: Individuals with developmental disabilities tend to prefer speech-generating devices over picture exchange and manual signs, with substantial individual differences
 description: Individuals with developmental disabilities tend to prefer speech-generating devices over picture exchange and manual signs, with substantial individual differences
 id: sgd-preference-over-pe-and-manual-signs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

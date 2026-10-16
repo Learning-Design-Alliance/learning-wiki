@@ -3,7 +3,7 @@ type: research-method
 id: four-level-response-safety-classification-for-evaluating-educational-llm-safety
 title: Four-level response safety classification for evaluating educational LLM safety
 description: EduZone grades every model response into one of four ordered safety levels rather than a binary safe/unsafe decision.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10
@@ -29,4 +29,4 @@ EduZone grades every model response into one of four ordered safety levels rathe
 -
 
 ## Key Sources
-- Park, J., Han, J., Yoo, H., Ahn, S.-Y., Yoon, J., & Oh, A. (2026). EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers. arXiv preprint. https://arxiv.org/abs/2608.02024
+- Park, J., Han, J., Yoo, H., Ahn, S.-Y., Yoon, J., & Oh, A. (2026). EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers. arXiv preprint. https://arxiv.org/abs/2608.02024. [doi:10.48550/arxiv.2608.02024](https://doi.org/10.48550/arxiv.2608.02024)

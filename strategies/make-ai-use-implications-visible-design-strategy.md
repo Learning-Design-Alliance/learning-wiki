@@ -3,7 +3,7 @@ type: strategy
 id: make-ai-use-implications-visible-design-strategy
 title: Design AI learning assistants to make the implications of AI use visible rather than restricting assistance
 description: "The article derives practical design recommendations for reducing deskilling risk without restricting LLM use: \"designers should make the implications of AI use visible, make complete-answer requests more deliberate,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

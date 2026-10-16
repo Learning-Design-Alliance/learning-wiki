@@ -3,7 +3,7 @@ type: claim
 title: "Changes were detected more easily on screens presenting fewer objects (66.66%)"
 description: "Changes were detected more easily on screens presenting fewer objects (66.66%)"
 id: fewer-objects-easier-change-detection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

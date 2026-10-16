@@ -3,7 +3,7 @@ type: research-method
 id: sensitivity-analysis-across-estimators-and-cluster-level-weighting-schemes-for-clustered-r
 title: Sensitivity analysis across estimators and cluster-level weighting schemes for clustered RCTs
 description: "Because standard errors from alternative estimators of treatment effects in clustered RCTs can differ, the report's key recommendation is that analysts \"test the sensitivity of their impact findings using different estimation methods and cluster-level weighting schemes\"."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

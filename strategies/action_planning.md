@@ -64,7 +64,7 @@ Action planning closes the loop between reflection and behavior change; without 
 
 ## Examples
 - **Exam wrappers** (e.g., those published by [Carnegie Mellon's Eberly Center](https://www.cmu.edu/teaching/designteach/teach/examwrappers.html)) — after an exam is returned, students answer structured prompts and write a concrete study plan for the next assessment cycle.
-- **Learning contracts** in competency-based and adult education programs, where learners commit to actions, timelines, and evidence of completion, reviewed at scheduled conferences.
+- **[Learning contracts](learning_contracts.md)** in competency-based and adult education programs, where learners commit to actions, timelines, and evidence of completion, reviewed at scheduled conferences.
 - **Implementation-intention prompts in LMS checklists** — platforms such as Canvas allow instructors to attach "if-then" planning prompts to assignment releases, prompting students to schedule when and where they will work.
 
 ## Key Sources

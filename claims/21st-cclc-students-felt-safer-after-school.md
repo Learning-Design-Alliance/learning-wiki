@@ -3,7 +3,7 @@ type: claim
 title: Students in 21st CCLC programs reported feeling safer after school
 description: Students in 21st CCLC programs reported feeling safer after school
 id: 21st-cclc-students-felt-safer-after-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: research-method
 id: fsm-based-evaluation-of-interactivity-in-ai-generated-educational-materials-ee-eval
 title: FSM-based evaluation of interactivity in AI-generated educational materials (EE-Eval)
 description: "The article conceptualizes interactivity as \"a finite space of learner-controllable states and transitions\", represented as a directed graph G = (V, E, M) where V denotes semantic interaction states, E transitions, and M task-level metadata such as pedagogical intent."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

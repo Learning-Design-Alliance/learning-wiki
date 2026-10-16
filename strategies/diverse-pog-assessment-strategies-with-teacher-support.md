@@ -3,7 +3,7 @@ type: strategy
 id: diverse-pog-assessment-strategies-with-teacher-support
 title: Support the shift from standardized testing toward diverse assessment strategies—performance-based assessments, portfolios, and experiential learning—with teacher training, resource allocation, and accountability flexibility
 description: "The brief calls for policies supporting \"a more diverse set of assessment strategies— such as performance-based assessments, portfolios, and experiential learning\" so students are evaluated on the full range of POG co..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

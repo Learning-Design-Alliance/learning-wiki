@@ -3,7 +3,7 @@ type: claim
 title: All children retold MAIN episode one with the most complexity and episode two with the least, regardless of age or language group
 description: All children retold MAIN episode one with the most complexity and episode two with the least, regardless of age or language group
 id: episode-one-most-complex-retell-pattern
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

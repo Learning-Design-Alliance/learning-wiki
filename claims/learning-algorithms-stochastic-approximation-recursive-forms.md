@@ -3,7 +3,7 @@ type: claim
 title: Many learning algorithms, including neural network training and Q-learning, have recursive forms of the stochastic approximation type
 description: Many learning algorithms, including neural network training and Q-learning, have recursive forms of the stochastic approximation type
 id: learning-algorithms-stochastic-approximation-recursive-forms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

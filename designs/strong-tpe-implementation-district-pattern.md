@@ -3,7 +3,7 @@ type: design
 id: strong-tpe-implementation-district-pattern
 title: "Strong TPE districts: teacher input on SLOs and a three-stage observation cycle with one evaluator"
 description: The report characterizes the recurring design features of Maryland districts with strong TPE implementation.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

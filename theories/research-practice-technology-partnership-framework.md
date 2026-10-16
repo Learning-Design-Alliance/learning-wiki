@@ -2,7 +2,7 @@
 type: theory
 title: Research-practice-technology partnerships (RPTPs) as the ecosystem sustaining modelable systems
 description: "The article extends research-practice partnerships into research-practice-technology partnerships, arguing that \"Creating a modelable ecosystem requires coordinated effort across the research-practice-technology partn..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

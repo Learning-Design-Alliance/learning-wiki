@@ -3,7 +3,7 @@ type: strategy
 id: robotics-gbl-gamification-design-guidelines
 title: "Design guidelines for game-based and gamified robotics education: balance approaches across contexts, integrate hardware-software skills, and extend study horizons"
 description: "The review synthesizes a design space outlining best practices and pitfalls for game-based and gamified robotics education, offering \"actionable guidance for educators and designers\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

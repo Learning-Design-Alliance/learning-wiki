@@ -4,7 +4,7 @@ id: targeted-reading-instruction
 title: Targeted Reading Instruction
 description: Targeted Reading Instruction (TRI) is a one-to-one tutoring programme for struggling kindergarten and first-grade readers that provides brief daily instruction in foundational literacy skills with webcam-supported teacher coaching.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

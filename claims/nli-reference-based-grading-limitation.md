@@ -3,7 +3,7 @@ type: claim
 title: "NLI analysis reveals reference-based grading is limited: many semantically correct responses contradict reference answers"
 description: "NLI analysis reveals reference-based grading is limited: many semantically correct responses contradict reference answers"
 id: nli-reference-based-grading-limitation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

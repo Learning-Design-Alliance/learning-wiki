@@ -3,7 +3,7 @@ type: strategy
 id: criss-modeled-strategies-with-extended-teacher-follow-up
 title: Implement CRISS through modeled strategies, guided practice, and extended follow-up support for teachers
 description: "Project CRISS® \"employs a teaching and learning process in which teachers model strategies for students and provide time for guided practice,\" with goals of helping students understand their learning processes and tra..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

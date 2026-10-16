@@ -3,7 +3,7 @@ type: claim
 title: "VIP effects did not differ between English language learners and fluent English speakers in the study authors' analyses"
 description: "VIP effects did not differ between English language learners and fluent English speakers in the study authors' analyses"
 id: vip-no-treatment-language-status-interaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

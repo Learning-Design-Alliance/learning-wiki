@@ -3,7 +3,7 @@ type: claim
 title: AIfred is faster for early image-generation modifications but ChatGPT becomes faster at four modifications, with no overall significant time difference
 description: AIfred is faster for early image-generation modifications but ChatGPT becomes faster at four modifications, with no overall significant time difference
 id: aifred-image-generation-completion-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

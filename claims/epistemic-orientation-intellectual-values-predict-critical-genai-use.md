@@ -3,7 +3,7 @@ type: claim
 title: Epistemic orientation and intellectual values jointly predict students’ critical use of genAI, accounting for about one-third of its variance
 description: Epistemic orientation and intellectual values jointly predict students’ critical use of genAI, accounting for about one-third of its variance
 id: epistemic-orientation-intellectual-values-predict-critical-genai-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

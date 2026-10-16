@@ -3,7 +3,7 @@ type: claim
 title: "Elementary students' perceptions of interactions with their teacher become more positive over time in classrooms characterized by positive teacher-student interactions"
 description: "Elementary students' perceptions of interactions with their teacher become more positive over time in classrooms characterized by positive teacher-student interactions"
 id: positive-teacher-student-interactions-improve-student-perceptions-over-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

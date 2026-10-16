@@ -2,7 +2,7 @@
 type: theory
 title: SAMR model of technology integration (Substitution, Augmentation, Modification, Redefinition)
 description: "The SAMR model (Puentedura, 2006) describes four levels of classroom technology integration: substitution, augmentation, modification and redefinition."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

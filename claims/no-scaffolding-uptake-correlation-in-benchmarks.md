@@ -3,7 +3,7 @@ type: claim
 title: AI tutor benchmark datasets show essentially no correlation between chatbot scaffolding and student uptake
 description: AI tutor benchmark datasets show essentially no correlation between chatbot scaffolding and student uptake
 id: no-scaffolding-uptake-correlation-in-benchmarks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

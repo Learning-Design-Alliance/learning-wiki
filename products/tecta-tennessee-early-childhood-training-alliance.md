@@ -4,7 +4,7 @@ id: tecta-tennessee-early-childhood-training-alliance
 title: "TECTA: Tennessee Early Childhood Training Alliance"
 description: A Tennessee statewide programme that provides childcare providers and administrators with free orientation training, professional development, credential support, and tuition assistance through participating public higher-education institutions.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

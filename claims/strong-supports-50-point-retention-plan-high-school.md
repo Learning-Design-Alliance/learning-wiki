@@ -3,7 +3,7 @@ type: claim
 title: High school novices receiving strong levels of broader induction supports were 50 percentage points more likely to plan to remain in their school than those with weak support
 description: High school novices receiving strong levels of broader induction supports were 50 percentage points more likely to plan to remain in their school than those with weak support
 id: strong-supports-50-point-retention-plan-high-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: The advantage of dual coding elucidation for correct lexical usage persists over a four-week delay
 description: The advantage of dual coding elucidation for correct lexical usage persists over a four-week delay
 id: dual-coding-lexical-effects-persist-four-weeks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
@@ -47,3 +47,4 @@ Follow-up mean comparisons after a significant coding × time interaction, F(1,1
 - [Learning style (visual-verbal) shows no significant correlation with the effectiveness of pictorial elucidation for adolescent EFL learners](learning-style-no-correlation-pictorial-elucidation-effect.md) — related
 - [Adolescent EFL learners perceive cartoon-based pictorial elucidation as helpful for accurate vocabulary use and engagement](students-perceive-cartoons-helpful-vocabulary-accuracy.md) — related
 - [Multimedia glosses improve EFL students' vocabulary retention two weeks after treatment relative to no glosses](multimedia-glosses-improve-efl-vocabulary-retention.md) — related
+- [Vocabulary knowledge gained from eight encounters persisted over two weeks, with no significant immediate-to-delayed test differences](vocabulary-gains-persist-two-weeks.md) — related

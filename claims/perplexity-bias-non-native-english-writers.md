@@ -3,7 +3,7 @@ type: claim
 title: AI detectors using perplexity disproportionately misclassify non-native English writers, and the mechanism plausibly extends to other low-perplexity writers
 description: AI detectors using perplexity disproportionately misclassify non-native English writers, and the mechanism plausibly extends to other low-perplexity writers
 id: perplexity-bias-non-native-english-writers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

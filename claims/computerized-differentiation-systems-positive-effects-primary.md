@@ -3,7 +3,7 @@ type: claim
 title: "Using computerized systems as a differentiation tool has small to moderate positive effects on primary students' language and math performance"
 description: "Using computerized systems as a differentiation tool has small to moderate positive effects on primary students' language and math performance"
 id: computerized-differentiation-systems-positive-effects-primary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

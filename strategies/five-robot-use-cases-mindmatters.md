@@ -3,7 +3,7 @@ type: strategy
 id: five-robot-use-cases-mindmatters
 title: Five classroom use cases deploying social robots for emotional learning, conflict mediation, and one-on-one support
 description: "Each robot type is operationalised as a use case: exploring social issues through enacted scenarios ('What would you do?'), emotion regulation and physical proximity exercises including boundary-violation exploration,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

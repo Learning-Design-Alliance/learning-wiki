@@ -3,7 +3,7 @@ type: claim
 title: A record high 7,368 students from the CPS class of 2018 graduated from college with a degree or certificate
 description: A record high 7,368 students from the CPS class of 2018 graduated from college with a degree or certificate
 id: cps-2018-record-college-graduates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

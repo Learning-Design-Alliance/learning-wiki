@@ -3,7 +3,7 @@ type: claim
 title: "School improvement rates varied by community type: Latino, racially diverse, and integrated schools improved disproportionately, while stagnation concentrated in predominantly African-American low-income communities"
 description: "School improvement rates varied by community type: Latino, racially diverse, and integrated schools improved disproportionately, while stagnation concentrated in predominantly African-American low-income communities"
 id: improvement-rates-vary-community-racial-composition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

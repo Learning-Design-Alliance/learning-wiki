@@ -2,7 +2,7 @@
 type: theory
 title: MALL as a burgeoning subdivision of CALL shaped by Mobile 2.0 user-created and collaborative content
 description: "The review frames mobile assisted language learning (MALL) as \"a burgeoning subdivision of computer assisted language learning in general\", driven by the spread of smartphones and tablets that blur boundaries between..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

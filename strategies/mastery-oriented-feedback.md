@@ -62,7 +62,7 @@ Feedback is among the most powerful influences on achievement, but its effects a
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — hints and mastery-tracking messages frame errors as steps toward mastery levels rather than grades, encouraging retry without penalty.
-- **Writing conferences** — a teacher reviews a draft against the rubric, names one strength and one high-leverage revision, and the student revises in class; the grade comes only after revision.
+- **[Writing conferences](writing-conferences.md)** — a teacher reviews a draft against the rubric, names one strength and one high-leverage revision, and the student revises in class; the grade comes only after revision.
 - **[ASSISTments](https://www.assistments.org)** — delivers immediate, task-specific feedback on math problems so students correct errors during practice rather than after grading.
 
 ## Key Sources

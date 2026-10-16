@@ -2,7 +2,7 @@
 type: theory
 title: Dependence-based image-role taxonomy for visual math items
 description: "The article operationalizes a four-code taxonomy of image roles in math problems: REQUIRED, USEFUL, NOTREQUIRED, and INSUFFICIENT."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

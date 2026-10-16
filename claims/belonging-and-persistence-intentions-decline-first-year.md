@@ -3,7 +3,7 @@ type: claim
 title: Both sense of belonging and intentions to persist decline over the first academic year
 description: Both sense of belonging and intentions to persist decline over the first academic year
 id: belonging-and-persistence-intentions-decline-first-year
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

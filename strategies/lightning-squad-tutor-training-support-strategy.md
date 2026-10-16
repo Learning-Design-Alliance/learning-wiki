@@ -3,7 +3,7 @@ type: strategy
 id: lightning-squad-tutor-training-support-strategy
 title: Implement Lightning Squad tutoring with non-certified tutors supported by structured onsite training, coaching, and data reviews
 description: "The program's implementation model relies on tutors hired by schools or community organizations, most of whom have a college degree but are not certified teachers."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

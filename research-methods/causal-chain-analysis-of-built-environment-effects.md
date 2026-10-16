@@ -3,7 +3,7 @@ type: research-method
 id: causal-chain-analysis-of-built-environment-effects
 title: Causal-chain analysis of built-environment effects
 description: "The brief describes \"causal chains\" as a method environmental health researchers developed to evidence how building features affect people where direct causal proof is impractical."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

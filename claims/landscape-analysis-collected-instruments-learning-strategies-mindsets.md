@@ -3,7 +3,7 @@ type: claim
 title: A 2012 landscape analysis project collected and analyzed information on instruments measuring learning strategies and student mindsets in middle childhood
 description: A 2012 landscape analysis project collected and analyzed information on instruments measuring learning strategies and student mindsets in middle childhood
 id: landscape-analysis-collected-instruments-learning-strategies-mindsets
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

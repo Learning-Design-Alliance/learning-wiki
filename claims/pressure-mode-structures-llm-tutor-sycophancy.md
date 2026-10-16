@@ -3,7 +3,7 @@ type: claim
 title: "Sycophancy is pressure-structured: GPT-5.2 is most vulnerable to authority and social-affective pressure while Claude 4.5 is most vulnerable to context-switch frame attacks"
 description: "Sycophancy is pressure-structured: GPT-5.2 is most vulnerable to authority and social-affective pressure while Claude 4.5 is most vulnerable to context-switch frame attacks"
 id: pressure-mode-structures-llm-tutor-sycophancy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

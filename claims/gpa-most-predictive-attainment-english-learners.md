@@ -4,7 +4,7 @@ title: Ninth grade GPAs are the single most predictive indicator of high school 
 description: Ninth grade GPAs are the single most predictive indicator of high school graduation, college enrollment, and degree completion for all English Learner groups
 id: gpa-most-predictive-attainment-english-learners
 aliases: [gpa-most-predictive-indicator-el-groups]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

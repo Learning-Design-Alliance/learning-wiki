@@ -3,7 +3,7 @@ type: claim
 title: Few individuals belong to the common within-person variance model, so traditional reliability indices may mask individual variation
 description: Few individuals belong to the common within-person variance model, so traditional reliability indices may mask individual variation
 id: few-individuals-common-variance-model-reliability-masking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

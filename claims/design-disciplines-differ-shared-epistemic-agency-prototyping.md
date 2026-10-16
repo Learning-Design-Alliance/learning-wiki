@@ -3,7 +3,7 @@ type: claim
 title: Engineering, product design, and service design teams differ significantly in shared epistemic agency during collaborative prototyping
 description: Engineering, product design, and service design teams differ significantly in shared epistemic agency during collaborative prototyping
 id: design-disciplines-differ-shared-epistemic-agency-prototyping
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

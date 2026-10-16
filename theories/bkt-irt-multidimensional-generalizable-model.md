@@ -2,7 +2,7 @@
 type: theory
 title: "BKT+IRT: Bayesian Knowledge Tracing augmented with multidimensional generalizable student abilities and problem effects"
 description: "BKT+IRT merges BKT's temporal hidden-state dynamics with IRT-style student ability and problem difficulty effects: student ability and problem-specific offsets modulate BKT's guessing, slipping, learning, and forgetti..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -42,8 +42,7 @@ BKT+IRT merges BKT's temporal hidden-state dynamics with IRT-style student abili
 ## Related Theories
 
 - Adaptive Learning
-- [Bayesian Knowledge Tracing: a two-state Hidden Markov Model inferring skill mastery from response histories](bkt-two-state-hmm-student-model.md)
-- [Bayesian Knowledge Tracing (Two-State Hidden Markov Model)](bayesian-knowledge-tracing-two-state-model.md)
+- [Bayesian Knowledge Tracing: a two-state Hidden Markov Model inferring skill mastery from response histories](bayesian-knowledge-tracing-two-state-model.md)
 - [Bayesian Knowledge Tracing: a four-parameter student-learning model in two forms (HMM and Knowledge Tracing Algorithm)](bkt-four-parameter-two-form-model.md)
 - [Bayesian Knowledge Tracing as a model of changing skill mastery during game-based assessment](bkt-mastery-updating-model.md)
 

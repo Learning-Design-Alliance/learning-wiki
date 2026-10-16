@@ -3,7 +3,7 @@ type: claim
 id: identical-example-problem-order-advantage-not-detected-at-final-test
 title: "Identical example–problem pairs showed an early order advantage but no detected final-test difference"
 description: "Identical example–problem pairs showed an early order advantage but no detected final-test difference"
-status: draft
+status: review
 evidence_strength: moderate
 generated:
   by: codex/unspecified

@@ -3,7 +3,7 @@ type: design
 id: llm-role-reversal-pedagogy
 title: "Role-reversal pedagogy: positioning the student as instructor of an LLM to convert passive consumption into active knowledge construction"
 description: "The article's organizing framework inverts the dominant LLM-as-tutor paradigm: \"we propose to use LLMs in a reversed role, i.e., let a student teach an LLM to solve a question,\" so that \"a student will be pushed to un..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

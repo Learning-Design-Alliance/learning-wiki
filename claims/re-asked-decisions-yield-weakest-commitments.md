@@ -3,7 +3,7 @@ type: claim
 title: When participants declined to decide and the agent asked again, the resulting commitments were the weakest in the corpus
 description: When participants declined to decide and the agent asked again, the resulting commitments were the weakest in the corpus
 id: re-asked-decisions-yield-weakest-commitments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

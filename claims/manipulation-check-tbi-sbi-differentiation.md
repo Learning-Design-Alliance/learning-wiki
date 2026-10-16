@@ -3,7 +3,7 @@ type: claim
 title: The instructional manipulation check confirmed that TBI and SBI videos were perceived as intended
 description: The instructional manipulation check confirmed that TBI and SBI videos were perceived as intended
 id: manipulation-check-tbi-sbi-differentiation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: "Student outcomes are higher when principals share students' race/ethnicity, though principals with different backgrounds can also improve outcomes through intentional antiracist approaches"
 description: "Student outcomes are higher when principals share students' race/ethnicity, though principals with different backgrounds can also improve outcomes through intentional antiracist approaches"
 id: principal-student-race-match-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

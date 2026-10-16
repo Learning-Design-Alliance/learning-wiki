@@ -3,7 +3,7 @@ type: claim
 title: "The study's findings suggest AI-supported inquiry-based learning mainly supports creativity and affective development, with limited effect on problem-solving skills"
 description: "The study's findings suggest AI-supported inquiry-based learning mainly supports creativity and affective development, with limited effect on problem-solving skills"
 id: ai-ibi-mainly-supports-creativity-and-affect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -46,3 +46,4 @@ Authors' overall interpretation of the quasi-experimental results, not a separat
 - [Intervention cohort scored significantly higher on creativity thinking, design skills, and problem solving, but not on presentation or attendance](rubric-dimension-gains-creativity-design-problem-solving.md) — related
 - [AI-supported inquiry-based learning significantly improved secondary students' attitudes toward mathematics compared with traditional instruction](ai-ibi-improves-attitudes-toward-mathematics.md) — related
 - A systematic review of 14 studies (8,305 participants) found AI-based tools enhanced comprehension, engagement, problem-solving, and critical thinking by personalizing learning experiences — related
+- [GPT feedback in VR markedly improved problem-solving and critical thinking but had limited impact on creativity](gpt-feedback-hots-problem-solving-critical-thinking-limited-creativity.md) — reports the opposite

@@ -3,7 +3,7 @@ type: element
 id: four-supplemental-reading-comprehension-curricula
 title: Four supplemental reading comprehension curricula evaluated in a federal study
 description: "The element is the set of four supplemental reading comprehension programs evaluated in Mathematica's federal study."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

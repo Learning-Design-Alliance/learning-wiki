@@ -3,7 +3,7 @@ type: research-method
 id: data-integration-planning-for-digital-learning-platform-research
 title: Data integration planning for digital learning platform research
 description: "The report's fourth consideration addresses data availability: DLPs may lack individual demographic data while collecting school-level covariates such as locale type or Title I status."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

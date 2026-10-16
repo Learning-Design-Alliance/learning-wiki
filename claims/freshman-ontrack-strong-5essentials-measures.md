@@ -3,7 +3,7 @@ type: claim
 title: Freshman OnTrack rates improved by as much as 3.25 percentage points more in high schools with strong 5Essentials Survey measures
 description: Freshman OnTrack rates improved by as much as 3.25 percentage points more in high schools with strong 5Essentials Survey measures
 id: freshman-ontrack-strong-5essentials-measures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Students raised concerns that performance forecasts cannot capture personal circumstances affecting study
 description: Students raised concerns that performance forecasts cannot capture personal circumstances affecting study
 id: forecast-concerns-personal-circumstances
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

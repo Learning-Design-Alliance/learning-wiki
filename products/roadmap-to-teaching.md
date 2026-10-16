@@ -4,7 +4,7 @@ id: roadmap-to-teaching
 title: Roadmap to Teaching
 description: A California Commission on Teacher Credentialing resource and live-counselor initiative that helps prospective teachers navigate preparation pathways and access financial-aid information.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

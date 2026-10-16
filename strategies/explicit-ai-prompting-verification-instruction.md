@@ -3,7 +3,7 @@ type: strategy
 id: explicit-ai-prompting-verification-instruction
 title: Provide explicit instruction in AI prompting and information verification alongside AI integration in laboratory courses
 description: The article recommends that curricula incorporate explicit instruction in effective AI prompting and information verification to help students recognize both advantages and risks of AI-generated content.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

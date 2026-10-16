@@ -3,7 +3,7 @@ type: design
 id: bloom-classification-ui-selected-questions-verbs
 title: Lightweight UI for instructor-driven Bloom classification built on the selected-questions-verbs prompt
 description: "A lightweight tool built on the article's best-performing prompting strategy."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Student-level analyses show no association between SBLE and crime or behavior outcomes
 description: Student-level analyses show no association between SBLE and crime or behavior outcomes
 id: sble-student-level-crime-behavior-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

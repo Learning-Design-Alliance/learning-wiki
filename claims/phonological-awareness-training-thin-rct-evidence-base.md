@@ -3,7 +3,7 @@ type: claim
 title: Of 225 reviewed studies of phonological awareness training, only four RCTs met WWC evidence standards without reservations
 description: Of 225 reviewed studies of phonological awareness training, only four RCTs met WWC evidence standards without reservations
 id: phonological-awareness-training-thin-rct-evidence-base
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

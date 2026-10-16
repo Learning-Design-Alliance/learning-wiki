@@ -3,7 +3,7 @@ type: research-method
 id: remnant-trained-deep-learning-models-for-assignment-completion-and-mastery-prediction
 title: Remnant-trained deep-learning models for assignment-completion and mastery prediction
 description: "The article trained four neural networks on remnant data to predict assignment completion and problems to mastery: a feed-forward network on prior student statistics, LSTM networks on the last 20 started assignments and the last 60 days of tutor actions, and an ensemble."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

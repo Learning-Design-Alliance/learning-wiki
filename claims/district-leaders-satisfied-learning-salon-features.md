@@ -3,7 +3,7 @@ type: claim
 title: District leaders reported high satisfaction with the key features of the Learning Salon model across all three surveyed salons
 description: District leaders reported high satisfaction with the key features of the Learning Salon model across all three surveyed salons
 id: district-leaders-satisfied-learning-salon-features
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

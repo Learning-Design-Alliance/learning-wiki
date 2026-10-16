@@ -3,7 +3,7 @@ type: strategy
 id: epistemological-paradigms-inform-gai-teaching-and-policy
 title: Use epistemological paradigms to inform alternative teaching, assessment, professional development and AI governance approaches
 description: "The article recommends using its epistemological account of human-GAI engagement to design \"alternative approaches to teaching and assessment, student interactions, professional development, and AI governance and poli..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

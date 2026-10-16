@@ -3,7 +3,7 @@ type: claim
 title: "Fine-tuning VLMs on synthetic data from TURTLEAI-Datagen improves performance on TURTLEAI, raising symbolic success rates by over 10% over base counterparts"
 description: "Fine-tuning VLMs on synthetic data from TURTLEAI-Datagen improves performance on TURTLEAI, raising symbolic success rates by over 10% over base counterparts"
 id: fine-tuning-synthetic-data-improves-turtleai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

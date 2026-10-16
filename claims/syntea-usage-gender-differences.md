@@ -3,7 +3,7 @@ type: claim
 title: "Syntea usage rates differ slightly by gender, with female students (59.05%) higher than male students (54.94%)"
 description: "Syntea usage rates differ slightly by gender, with female students (59.05%) higher than male students (54.94%)"
 id: syntea-usage-gender-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

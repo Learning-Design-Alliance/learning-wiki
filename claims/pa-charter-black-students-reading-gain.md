@@ -3,7 +3,7 @@ type: claim
 title: Black charter students outperform their Black TPS peers in reading (about 24 additional days) but both groups lag the average White TPS student substantially
 description: Black charter students outperform their Black TPS peers in reading (about 24 additional days) but both groups lag the average White TPS student substantially
 id: pa-charter-black-students-reading-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

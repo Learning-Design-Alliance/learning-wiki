@@ -3,7 +3,7 @@ type: research-method
 id: qualitative-meta-synthesis
 title: Qualitative meta-synthesis
 description: "The article's organizing approach is a qualitative meta-synthesis: rather than computing a new pooled estimate, it compares and contrasts the assumptions and findings of existing meta-analyses of PBL."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: strategy
 id: evidence-based-selection-criteria-rfp-edtech
 title: "Discover & Decide: establish evidence-based selection criteria and instructional alignment in an RFP process to select edtech for priority learner populations"
 description: "Step 2 directs leaders to \"Establish evidence-based selection criteria and instructional alignment in a discovery or Request for Proposals (RFP) process to identify edtech designed to meet the needs of your priority l..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

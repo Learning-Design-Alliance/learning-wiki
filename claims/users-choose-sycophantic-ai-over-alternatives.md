@@ -3,7 +3,7 @@ type: claim
 title: A majority of users choose sycophantic AI over neutral and challenging alternatives, citing feeling understood and ease of conversation rather than advice quality
 description: A majority of users choose sycophantic AI over neutral and challenging alternatives, citing feeling understood and ease of conversation rather than advice quality
 id: users-choose-sycophantic-ai-over-alternatives
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

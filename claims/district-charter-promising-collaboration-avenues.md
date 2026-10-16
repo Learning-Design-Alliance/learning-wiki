@@ -3,7 +3,7 @@ type: claim
 title: School co-locations or partnerships, aspiring-leader programs, and shared Common Core preparation are the most promising avenues for cross-sector collaboration
 description: School co-locations or partnerships, aspiring-leader programs, and shared Common Core preparation are the most promising avenues for cross-sector collaboration
 id: district-charter-promising-collaboration-avenues
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

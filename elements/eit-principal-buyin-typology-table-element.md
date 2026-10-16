@@ -3,7 +3,7 @@ type: element
 id: eit-principal-buyin-typology-table-element
 title: Principal buy-in typology table from the Excellence in Teaching Year 1 exit interviews
 description: A descriptive typology table produced from exit interviews with 39 principals in the Excellence in Teaching pilot.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: element
 id: school-choice-website-factorial-experiment
 title: Randomized factorial experiment of school choice website display formats
 description: A randomized factorial experiment in which 3,500 low-income parents of school-aged children chose schools for their children in a hypothetical school district while school information was displayed in varying formats.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

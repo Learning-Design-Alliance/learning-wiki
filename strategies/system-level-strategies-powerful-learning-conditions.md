@@ -3,7 +3,7 @@ type: strategy
 id: system-level-strategies-powerful-learning-conditions
 title: System-level strategies to build enabling conditions for Powerful Learning
 description: Drawing on the Water of Systems Change framework (structural, relational, transformative dimensions), the report recommends system leaders build conditions intentionally.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

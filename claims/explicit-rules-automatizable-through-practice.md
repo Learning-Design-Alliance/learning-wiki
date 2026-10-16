@@ -3,7 +3,7 @@ type: claim
 title: Explicitly learned L2 rules can be automatized through systematic practice after a metalinguistic criterion is reached
 description: Explicitly learned L2 rules can be automatized through systematic practice after a metalinguistic criterion is reached
 id: explicit-rules-automatizable-through-practice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
@@ -43,7 +43,7 @@ Experimental study of automatization: 61 subjects first reached criterion on met
 
 
 ## Related Claims
-- [Learning of second language morphosyntactic rules is highly skill-specific: comprehension practice yields comprehension skill and production practice yields production skill](l2-morphosyntax-learning-highly-skill-specific.md) — related
+- [Learning of second language morphosyntactic rules is highly skill-specific: comprehension practice yields comprehension skill and production practice yields production skill](skill-specificity-l2-grammar-practice.md) — related
 - [Automatized L2 morphosyntactic skills develop very gradually over time, following a power function learning curve like other cognitive skills](l2-skill-development-power-function-curve.md) — related
-- [Practice of grammar rules improves only the practiced skill, showing skill specificity of L2 automatization](skill-specificity-l2-grammar-practice.md) — related
 - [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition](drill-and-grammar-focus-ineffective-for-l2-acquisition.md) — reports the opposite
+- [Explicit instruction facilitates the acquisition of L2 grammar](explicit-instruction-facilitates-l2-grammar-acquisition.md) — related

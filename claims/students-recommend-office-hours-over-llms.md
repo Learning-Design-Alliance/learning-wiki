@@ -3,7 +3,7 @@ type: claim
 title: Students predominantly recommended future students use office hours and formal course staff, with LLMs positioned as a supplement
 description: Students predominantly recommended future students use office hours and formal course staff, with LLMs positioned as a supplement
 id: students-recommend-office-hours-over-llms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

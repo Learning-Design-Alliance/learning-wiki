@@ -3,7 +3,7 @@ type: claim
 title: No detectable effects of KIPP Atlanta Collegiate High School on overall credential completion during the study period
 description: No detectable effects of KIPP Atlanta Collegiate High School on overall credential completion during the study period
 id: kipp-atlanta-no-credential-completion-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

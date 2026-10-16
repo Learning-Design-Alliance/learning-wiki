@@ -3,7 +3,7 @@ type: claim
 title: Early reliance is associated with both academic benefit and negative impact, while cognitive reliance is associated with positive impact
 description: Early reliance is associated with both academic benefit and negative impact, while cognitive reliance is associated with positive impact
 id: reliance-type-differential-outcomes-regression
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -18,16 +18,16 @@ sources:
     kind: associational
     rigour: 2
   - id: manikonda-2026-2
-    resource: "https://arxiv.org/abs/2609.18676"
-    title: "Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K. (2026). The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses. https://arxiv.org/abs/2609.18676"
+    resource: "https://doi.org/10.48550/arxiv.2609.18676"
+    title: "Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K. (2026). The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses. https://arxiv.org/abs/2609.18676. [doi:10.48550/arxiv.2609.18676](https://doi.org/10.48550/arxiv.2609.18676)"
     author: Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K.
     q: 2
     i: "?"
     kind: associational
     rigour: 2
   - id: manikonda-2026-3
-    resource: "https://arxiv.org/abs/2609.18676"
-    title: "Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K. (2026). The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses. https://arxiv.org/abs/2609.18676"
+    resource: "https://doi.org/10.48550/arxiv.2609.18676"
+    title: "Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K. (2026). The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses. https://arxiv.org/abs/2609.18676. [doi:10.48550/arxiv.2609.18676](https://doi.org/10.48550/arxiv.2609.18676)"
     author: Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K.
     q: 2
     i: "?"
@@ -38,7 +38,7 @@ sources:
 # Early reliance is associated with both academic benefit and negative impact, while cognitive reliance is associated with positive impact
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (3 entries) · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (3 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Academic benefit was positively associated with early reliance (β=.301, p<.001) and academic task support (β=.294, p=.008). [→ Manikonda 2026](#manikonda-2026)
@@ -59,7 +59,7 @@ Multiple linear regression on the full sample of 118 respondents with all predic
 
 ### Manikonda 2026 (2)
 
-Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K. (2026). The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses. https://arxiv.org/abs/2609.18676
+Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K. (2026). The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses. https://arxiv.org/abs/2609.18676. [doi:10.48550/arxiv.2609.18676](https://doi.org/10.48550/arxiv.2609.18676)
 
 `q2 · i?` · `associational · r2`
 
@@ -69,7 +69,7 @@ Same adjusted regression models (N=118, HC3 standard errors). Negative impact wa
 
 ### Manikonda 2026 (3)
 
-Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K. (2026). The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses. https://arxiv.org/abs/2609.18676
+Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K. (2026). The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses. https://arxiv.org/abs/2609.18676. [doi:10.48550/arxiv.2609.18676](https://doi.org/10.48550/arxiv.2609.18676)
 
 `q2 · i?` · `associational · r2`
 

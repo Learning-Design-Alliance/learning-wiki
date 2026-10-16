@@ -3,7 +3,7 @@ type: claim
 title: Better coordination, communication, and coherence across professional learning and supports are needed to sustain centering student experience
 description: Better coordination, communication, and coherence across professional learning and supports are needed to sustain centering student experience
 id: coherence-alignment-student-experience-supports
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

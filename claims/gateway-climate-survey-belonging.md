@@ -3,7 +3,7 @@ type: claim
 title: Large majorities of Gateway students report feeling cared for, part of the school, safe, and connected
 description: Large majorities of Gateway students report feeling cared for, part of the school, safe, and connected
 id: gateway-climate-survey-belonging
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

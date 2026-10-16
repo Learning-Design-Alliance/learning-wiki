@@ -3,7 +3,7 @@ type: theory
 title: Informational (error-estimation) account of self-controlled feedback benefits
 description: The article contrasts two explanations for why self-controlled knowledge of results (KR) aids motor learning.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

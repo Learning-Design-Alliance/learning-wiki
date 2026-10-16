@@ -3,7 +3,7 @@ type: claim
 title: Substantial unexplained heterogeneity characterises short-term effects of targeted K-6 interventions
 description: Substantial unexplained heterogeneity characterises short-term effects of targeted K-6 interventions
 id: substantial-heterogeneity-short-term-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Japanese schools teach English literacy before oral-aural competency, inverting the natural sequence
 description: Japanese schools teach English literacy before oral-aural competency, inverting the natural sequence
 id: japanese-english-instruction-inverts-stage-sequence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

@@ -3,7 +3,7 @@ type: claim
 title: Read Naturally® shows mixed effects on reading fluency for beginning readers (average improvement index +7 percentile points)
 description: Read Naturally® shows mixed effects on reading fluency for beginning readers (average improvement index +7 percentile points)
 id: read-naturally-mixed-effects-reading-fluency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

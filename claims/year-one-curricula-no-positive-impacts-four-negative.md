@@ -3,7 +3,7 @@ type: claim
 title: After one school year of implementation (first cohort), the curricula produced no statistically significant positive impacts, and four statistically significant negative impacts were observed.
 description: After one school year of implementation (first cohort), the curricula produced no statistically significant positive impacts, and four statistically significant negative impacts were observed.
 id: year-one-curricula-no-positive-impacts-four-negative
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

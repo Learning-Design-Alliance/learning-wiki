@@ -3,7 +3,7 @@ type: claim
 title: "STEM students' course satisfaction dropped sharply after courses moved fully online in spring 2020"
 description: "STEM students' course satisfaction dropped sharply after courses moved fully online in spring 2020"
 id: stem-satisfaction-dropped-after-remote-shift-covid
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

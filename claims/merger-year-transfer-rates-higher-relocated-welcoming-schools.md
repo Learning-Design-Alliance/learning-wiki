@@ -3,7 +3,7 @@ type: claim
 title: Welcoming-school students whose schools relocated into closed-school buildings transferred out at higher rates in the merger year; closures did not affect mobility in later years
 description: Welcoming-school students whose schools relocated into closed-school buildings transferred out at higher rates in the merger year; closures did not affect mobility in later years
 id: merger-year-transfer-rates-higher-relocated-welcoming-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

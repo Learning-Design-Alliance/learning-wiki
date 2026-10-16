@@ -63,7 +63,7 @@ Comprehension is fundamentally a process of integrating new information with exi
 - [Activate Background Knowledge](activate_background_knowledge.md) — related implementation pattern
 
 ## Examples
-- **Anticipation guides** — learners agree or disagree with statements about a topic before reading, then revisit them after; the statements activate relevant knowledge and create a purpose for reading.
+- **[Anticipation guides](anticipation-guides.md)** — learners agree or disagree with statements about a topic before reading, then revisit them after; the statements activate relevant knowledge and create a purpose for reading.
 - **KWL charts** — learners record what they *Know*, what they *Want* to know, and later what they *Learned*, making activation and integration visible.
 - **Recht & Leslie's baseball study** — readers with high baseball knowledge comprehended a technical passage about baseball far better than low-knowledge readers of equal reading ability, demonstrating that domain knowledge, not general skill, drives comprehension. [doi:10.1037/0022-0663.80.1.16](https://doi.org/10.1037/0022-0663.80.1.16) [+S]
 - **[Reading Rockets](https://www.readingrockets.org)** — published classroom routines for pre-reading activation, including picture walks and text-preview strategies.

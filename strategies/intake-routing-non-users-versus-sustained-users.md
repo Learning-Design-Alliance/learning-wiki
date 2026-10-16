@@ -3,7 +3,7 @@ type: strategy
 id: intake-routing-non-users-versus-sustained-users
 title: Route adaptive AI ethics instruction by splitting non-users from sustained users, using usage frequency first and familiarity as a secondary check
 description: The article recommends that short pre-instruction surveys use reported usage frequency as the first intake variable for grouping learners and self-rated familiarity as a secondary check, rather than routing by prior c...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

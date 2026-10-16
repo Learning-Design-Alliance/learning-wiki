@@ -4,7 +4,7 @@ id: 10-item-self-report-questionnaire-for-critical-use-of-genai
 title: 10-item self-report questionnaire for critical use of genAI
 description: A 10-item, 5-point Likert self-report questionnaire developed by Markus H.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

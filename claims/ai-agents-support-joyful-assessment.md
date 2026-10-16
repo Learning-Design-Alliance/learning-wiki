@@ -3,7 +3,7 @@ type: claim
 title: AI agents designed for specific educational purposes can support joyful assessment by creating low-stakes opportunities for practice, feedback, reflection, personalization, and multimodal demonstration of learning
 description: AI agents designed for specific educational purposes can support joyful assessment by creating low-stakes opportunities for practice, feedback, reflection, personalization, and multimodal demonstration of learning
 id: ai-agents-support-joyful-assessment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

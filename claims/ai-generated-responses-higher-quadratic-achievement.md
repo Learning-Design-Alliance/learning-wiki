@@ -3,7 +3,7 @@ type: claim
 title: Students exposed to AI-generated responses achieved higher performance in solving quadratic equations than those taught through conventional teaching methods
 description: Students exposed to AI-generated responses achieved higher performance in solving quadratic equations than those taught through conventional teaching methods
 id: ai-generated-responses-higher-quadratic-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

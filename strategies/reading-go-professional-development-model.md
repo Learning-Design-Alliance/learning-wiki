@@ -3,7 +3,7 @@ type: strategy
 id: reading-go-professional-development-model
 title: Sustained professional development model combining training days, site visits, observations, and ongoing coaching
 description: "The program's professional development model provides school staff with 10 days of professional development given over two years, plus 6-8 site visits offering tailored professional development, tutor observations, an..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

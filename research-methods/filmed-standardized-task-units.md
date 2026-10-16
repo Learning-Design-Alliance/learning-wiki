@@ -3,7 +3,7 @@ type: research-method
 id: filmed-standardized-task-units
 title: Filmed standardized task units
 description: "The article's core methodological pattern is presenting each of six teachers with the same tasks under controlled conditions and filming 20-minute sessions so that inter- and intra-teaching comparisons can be analyzed by diverse observers."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

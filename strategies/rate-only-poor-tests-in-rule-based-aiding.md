@@ -3,7 +3,7 @@ type: strategy
 id: rate-only-poor-tests-in-rule-based-aiding
 title: "Rate only poor tests in rule-based aiding: full quality ratings were counterproductive"
 description: The rule-based model enabled a form of computer-aided training in which subjects received immediate feedback after each test about the quality of the rules the model inferred they were using.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

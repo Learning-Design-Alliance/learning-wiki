@@ -3,7 +3,7 @@ type: claim
 title: A syllabus that clearly connects service work to course content shows the strongest relationship with civic competence outcomes
 description: A syllabus that clearly connects service work to course content shows the strongest relationship with civic competence outcomes
 id: syllabus-service-content-connection-strongest-pedagogical-relationship
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

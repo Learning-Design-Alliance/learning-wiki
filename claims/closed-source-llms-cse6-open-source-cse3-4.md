@@ -3,7 +3,7 @@ type: claim
 title: Closed-source LLMs reach CSE Level 6 while most open-source baselines cluster at CSE Levels 3–4 on CSEBench
 description: Closed-source LLMs reach CSE Level 6 while most open-source baselines cluster at CSE Levels 3–4 on CSEBench
 id: closed-source-llms-cse6-open-source-cse3-4
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

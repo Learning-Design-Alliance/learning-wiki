@@ -62,7 +62,7 @@ Shape Search leverages the link between spatial perception and geometric reasoni
 
 ## Related Strategies
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the search builds on shapes learners already recognize informally
-- [Spaced Repetition](spaced_repetition.md) — repeated short searches across days outperform one long hunt
+- [Spaced Repetition](spaced-repetition-scheduling.md) — repeated short searches across days outperform one long hunt
 
 ## Related Elements
 - [Application](../elements/application.md) — the core function: applying taught vocabulary to authentic instances

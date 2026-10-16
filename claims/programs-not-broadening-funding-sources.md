@@ -3,7 +3,7 @@ type: claim
 title: Most grant-funded residency programs have not yet broadened funding sources or adopted cost-reduction strategies beyond the one-time grant
 description: Most grant-funded residency programs have not yet broadened funding sources or adopted cost-reduction strategies beyond the one-time grant
 id: programs-not-broadening-funding-sources
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Office hours attendance and Piazza posting declined over prior semesters and rose in Fall 2025 when LLMs and retakes were allowed
 description: Office hours attendance and Piazza posting declined over prior semesters and rose in Fall 2025 when LLMs and retakes were allowed
 id: help-seeking-decline-then-rise-dura-semester
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

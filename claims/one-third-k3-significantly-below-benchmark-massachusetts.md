@@ -3,7 +3,7 @@ type: claim
 title: About one third of Massachusetts K–3 students were identified as significantly below benchmark at least once in 2023/24, with 19 percent identified in all three periods
 description: About one third of Massachusetts K–3 students were identified as significantly below benchmark at least once in 2023/24, with 19 percent identified in all three periods
 id: one-third-k3-significantly-below-benchmark-massachusetts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

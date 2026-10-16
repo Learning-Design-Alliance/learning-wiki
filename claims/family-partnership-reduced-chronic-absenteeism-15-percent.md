@@ -3,7 +3,7 @@ type: claim
 title: "When educators partnered with families on attendance, chronic absenteeism rates dropped 15%"
 description: "When educators partnered with families on attendance, chronic absenteeism rates dropped 15%"
 id: family-partnership-reduced-chronic-absenteeism-15-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

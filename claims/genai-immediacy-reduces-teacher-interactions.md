@@ -3,7 +3,7 @@ type: claim
 title: "GenAI's immediate answers reduce engineering students' teacher-student interactions for generalizable tasks, while teachers remain preferred for complex problem-solving"
 description: "GenAI's immediate answers reduce engineering students' teacher-student interactions for generalizable tasks, while teachers remain preferred for complex problem-solving"
 id: genai-immediacy-reduces-teacher-interactions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

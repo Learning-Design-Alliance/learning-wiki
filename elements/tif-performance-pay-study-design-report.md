@@ -3,7 +3,7 @@ type: element
 id: tif-performance-pay-study-design-report
 title: Teacher Incentive Fund (TIF) performance pay evaluation study design report
 description: A study design report prepared by Mathematica Policy Research for the U.S.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

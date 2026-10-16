@@ -3,7 +3,7 @@ type: claim
 title: Review reports that asking students to notice particular errors decreased errors in a subsequent draft without reducing overall writing quality (Chandler)
 description: Review reports that asking students to notice particular errors decreased errors in a subsequent draft without reducing overall writing quality (Chandler)
 id: noticing-errors-decreases-errors-preserves-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

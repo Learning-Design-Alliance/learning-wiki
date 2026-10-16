@@ -3,7 +3,7 @@ type: claim
 title: "CPS class of 2024 students reached near-record highs in high school graduation (84%) and immediate college enrollment (66%), on par with national averages"
 description: "CPS class of 2024 students reached near-record highs in high school graduation (84%) and immediate college enrollment (66%), on par with national averages"
 id: cps-2024-graduation-enrollment-near-record-highs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

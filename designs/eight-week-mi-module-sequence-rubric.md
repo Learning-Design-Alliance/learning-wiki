@@ -3,7 +3,7 @@ type: design
 id: eight-week-mi-module-sequence-rubric
 title: Eight-week MI module sequence with assignments and compact assessment rubric
 description: "The paper provides reusable curriculum artifacts: an eight-week module sequence aligned to the materials discovery workflow, three assignments (descriptor benchmarking, leakage and dataset-shift diagnosis, uncertainty..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

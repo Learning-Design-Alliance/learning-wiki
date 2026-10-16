@@ -3,7 +3,7 @@ type: claim
 title: Attribute mastery showed significant proficiency-group, attribute, and attribute-by-proficiency effects, but no significant status-group main effect
 description: Attribute mastery showed significant proficiency-group, attribute, and attribute-by-proficiency effects, but no significant status-group main effect
 id: attribute-mastery-proficiency-effects-null-status-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -18,8 +18,8 @@ sources:
     kind: associational
     rigour: 1
   - id: katz-1993-2
-    resource: "https://eric.ed.gov/?id=ED366652"
-    title: "Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652"
+    resource: "https://doi.org/10.21236/ada273789"
+    title: "Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652. [doi:10.21236/ada273789](https://doi.org/10.21236/ada273789)"
     author: "Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Attribute mastery showed significant proficiency-group, attribute, and attribute-by-proficiency effects, but no significant status-group main effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Repeated-measures ANOVA of attribute mastery probabilities showed clearly significant effects of proficiency group, attribute, and the attribute by proficiency group interaction. [→ Katz 1993](#katz-1993)
@@ -50,7 +50,7 @@ Repeated measures ANOVA of attribute mastery probabilities (Table 8, p-values re
 
 ### Katz 1993 (2)
 
-Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652
+Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652. [doi:10.21236/ada273789](https://doi.org/10.21236/ada273789)
 
 `q2 · i?` · `associational · r1`
 

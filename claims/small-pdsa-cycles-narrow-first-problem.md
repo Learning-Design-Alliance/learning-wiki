@@ -3,7 +3,7 @@ type: claim
 title: Teams that narrowed the first problem and ran small Plan-Do-Study-Act tests before scaling saw themselves as more effective improvers
 description: Teams that narrowed the first problem and ran small Plan-Do-Study-Act tests before scaling saw themselves as more effective improvers
 id: small-pdsa-cycles-narrow-first-problem
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

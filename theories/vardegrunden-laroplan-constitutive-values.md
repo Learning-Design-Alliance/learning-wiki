@@ -2,7 +2,7 @@
 type: theory
 title: "Värdegrunden: the läroplan as consensual steering document of constitutive democratic values"
 description: "The Swedish läroplan is \"a consensually constructed document and a symbol of broad political agreement\" and a steering document identifying the steering values in education."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

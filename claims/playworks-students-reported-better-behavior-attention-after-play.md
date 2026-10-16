@@ -3,7 +3,7 @@ type: claim
 title: Students in Playworks schools reported better behavior and attention in class after sports, games, and play
 description: Students in Playworks schools reported better behavior and attention in class after sports, games, and play
 id: playworks-students-reported-better-behavior-attention-after-play
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

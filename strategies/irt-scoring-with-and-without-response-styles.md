@@ -3,7 +3,7 @@ type: strategy
 id: irt-scoring-with-and-without-response-styles
 title: Compare growth estimates from IRT scoring models that do and do not account for response styles when evaluating longitudinal survey scores
 description: "The article's method is to score surveys two ways and compare: \"we scored surveys using item response theory (IRT) models that do and do not account for response styles, and then used those different scores in growth..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

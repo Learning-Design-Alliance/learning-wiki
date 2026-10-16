@@ -3,7 +3,7 @@ type: strategy
 id: el-specific-summer-learning-and-el-specialist-staffing
 title: Provide English learner-specific summer learning and staff accelerated learning programs with EL specialists
 description: "The guide recommends EL-specific summer learning so English learners can \"meaningfully engage in additional opportunities to accelerate their learning\" with targeted support, and that tutoring and expanded learning ti..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

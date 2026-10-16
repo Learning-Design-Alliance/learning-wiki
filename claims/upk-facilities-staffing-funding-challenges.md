@@ -3,7 +3,7 @@ type: claim
 title: California LEAs reported sufficient classroom space for projected UPK enrollment overall, yet facilities were the most cited implementation challenge, followed by staffing and sustainable funding
 description: California LEAs reported sufficient classroom space for projected UPK enrollment overall, yet facilities were the most cited implementation challenge, followed by staffing and sustainable funding
 id: upk-facilities-staffing-funding-challenges
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

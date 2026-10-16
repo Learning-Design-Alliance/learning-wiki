@@ -3,7 +3,7 @@ type: claim
 title: ALAS effects on progressing in school and completing school fade or are non-significant after the intervention
 description: ALAS effects on progressing in school and completing school fade or are non-significant after the intervention
 id: alas-progressing-completing-null-follow-up
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

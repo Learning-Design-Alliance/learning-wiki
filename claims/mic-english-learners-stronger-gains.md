@@ -3,7 +3,7 @@ type: claim
 title: English learners in nearly all MiC districts showed stronger annual CAASPP mathematics gains than their statewide peers from 2015 to 2017 despite remaining mostly at the lowest achievement level
 description: English learners in nearly all MiC districts showed stronger annual CAASPP mathematics gains than their statewide peers from 2015 to 2017 despite remaining mostly at the lowest achievement level
 id: mic-english-learners-stronger-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

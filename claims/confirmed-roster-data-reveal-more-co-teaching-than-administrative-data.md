@@ -3,7 +3,7 @@ type: claim
 title: Teacher-confirmed roster data show levels of co-teaching far beyond what appears in administrative data
 description: Teacher-confirmed roster data show levels of co-teaching far beyond what appears in administrative data
 id: confirmed-roster-data-reveal-more-co-teaching-than-administrative-data
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

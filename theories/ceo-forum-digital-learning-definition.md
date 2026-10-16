@@ -2,7 +2,7 @@
 type: theory
 title: "Digital learning: the integrated educational approach combining technology, connectivity, content and human resources"
 description: "The report defines digital learning as \"the educational approach that integrates technology, connectivity, content and human resources.\" It argues that addressing hardware, connectivity, content and people separately..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

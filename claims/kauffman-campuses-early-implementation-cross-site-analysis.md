@@ -3,7 +3,7 @@ type: claim
 title: Early implementation of the Kauffman Campuses grants was documented through a cross-site analysis of 2005 site visits and a spring 2006 faculty survey
 description: Early implementation of the Kauffman Campuses grants was documented through a cross-site analysis of 2005 site visits and a spring 2006 faculty survey
 id: kauffman-campuses-early-implementation-cross-site-analysis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

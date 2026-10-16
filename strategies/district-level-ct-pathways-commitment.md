@@ -3,7 +3,7 @@ type: strategy
 id: district-level-ct-pathways-commitment
 title: Commit at the district level to computing pathways that are cumulative, consistent, and competency-based across K-12 schools
 description: "The report's second commitment is district leadership commitment rather than school-to-school variability."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

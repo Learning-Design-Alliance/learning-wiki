@@ -3,7 +3,7 @@ type: design
 id: tasd-teacher-authored-prompt-orchestration
 title: "TASD: teacher-authored prompt layers as orchestration levers for configuring student-AI dialogue"
 description: TASD (Colleague AI Classroom Teaching Aide) frames student-AI interaction as a configurable classroom routine rather than an autonomous tutor.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

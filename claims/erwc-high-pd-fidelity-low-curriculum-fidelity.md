@@ -3,7 +3,7 @@ type: claim
 title: Most ERWC teachers completed required professional learning (82-99 percent), but only 0-3 percent taught the curriculum with fidelity across the three study years
 description: Most ERWC teachers completed required professional learning (82-99 percent), but only 0-3 percent taught the curriculum with fidelity across the three study years
 id: erwc-high-pd-fidelity-low-curriculum-fidelity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

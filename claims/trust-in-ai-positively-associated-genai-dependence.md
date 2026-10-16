@@ -3,7 +3,7 @@ type: claim
 title: "Trust in AI is positively associated with university students' dependence on GenAI"
 description: "Trust in AI is positively associated with university students' dependence on GenAI"
 id: trust-in-ai-positively-associated-genai-dependence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

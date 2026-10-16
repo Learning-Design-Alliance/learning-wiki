@@ -3,7 +3,7 @@ type: claim
 title: Mixing group-wise and pair-wise contrastive sampling yields better hypotheses than either alone
 description: Mixing group-wise and pair-wise contrastive sampling yields better hypotheses than either alone
 id: mixing-group-and-pair-sampling-beats-either-alone
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

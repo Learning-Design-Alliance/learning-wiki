@@ -2,7 +2,7 @@
 type: theory
 title: Four organizational supports mediating leadership effects on instruction and learning
 description: The article organizes school leadership effects through the Bryk et al.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -44,7 +44,7 @@ The article organizes school leadership effects through the Bryk et al. (2010) c
 
 ## Related Theories
 
-- [Five essentials framework of organizational supports for school improvement](five-essentials-framework-early-education-adaptation.md)
+- [Five essentials framework of organizational supports for school improvement](five-essential-supports-framework-ccsr.md)
 - [The five essential supports framework: five mutually reinforcing organizational dimensions that enable or inhibit improvement in classroom practices](five-essential-supports-early-education-framework.md)
 - [School organizational processes mediating principal influence: a five-process framework](principal-mediated-organizational-processes-framework.md)
 - [School social-organizational structure mediates community influences on school safety](school-social-organization-mediation-framework.md)

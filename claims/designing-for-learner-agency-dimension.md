@@ -3,7 +3,7 @@ type: claim
 title: Teachers reported redesigning instruction toward learner question formulation, comparison, and inquiry when using AI
 description: Teachers reported redesigning instruction toward learner question formulation, comparison, and inquiry when using AI
 id: designing-for-learner-agency-dimension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

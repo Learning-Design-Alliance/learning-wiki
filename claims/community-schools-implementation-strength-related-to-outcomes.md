@@ -3,7 +3,7 @@ type: claim
 title: Well-implemented community schools improve attendance, behavior, engagement, and academic outcomes, with longer and more sustained implementation associated with more significant outcomes
 description: Well-implemented community schools improve attendance, behavior, engagement, and academic outcomes, with longer and more sustained implementation associated with more significant outcomes
 id: community-schools-implementation-strength-related-to-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

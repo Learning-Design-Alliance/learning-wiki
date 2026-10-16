@@ -3,7 +3,7 @@ type: research-method
 id: lt-mkt-framework-joint-modeling-of-cognitive-load-and-knowledge-transfer-for-multi-domain
 title: "LT-MKT framework: joint modeling of cognitive load and knowledge transfer for multi-domain knowledge tracing"
 description: "LT-MKT is a knowledge tracing framework for multi-domain learning scenarios that jointly models two factors the authors argue are overlooked by single-domain methods: cognitive load and knowledge transfer."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

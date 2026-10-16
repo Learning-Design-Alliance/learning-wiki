@@ -3,7 +3,7 @@ type: claim
 title: Oakland Unified sustained its full-service community schools initiative through leadership turnover and lean funding by engaging stakeholders, braiding funding sources, and enacting formal policy commitments
 description: Oakland Unified sustained its full-service community schools initiative through leadership turnover and lean funding by engaging stakeholders, braiding funding sources, and enacting formal policy commitments
 id: ousd-sustained-fscs-through-stakeholders-funding-policy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

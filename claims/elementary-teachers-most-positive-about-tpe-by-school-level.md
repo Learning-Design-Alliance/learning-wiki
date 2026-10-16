@@ -3,7 +3,7 @@ type: claim
 title: Elementary teachers view TPE more positively than middle school teachers, who in turn view it more positively than high school teachers
 description: Elementary teachers view TPE more positively than middle school teachers, who in turn view it more positively than high school teachers
 id: elementary-teachers-most-positive-about-tpe-by-school-level
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

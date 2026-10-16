@@ -3,7 +3,7 @@ type: research-method
 id: subject-level-demographic-mae-gap-fairness-regularization-for-multimodal-attention-models
 title: Subject-level demographic MAE-gap fairness regularization for multimodal attention models
 description: An in-processing fairness framework that adds a demographic disparity penalty to the training objective of a multimodal attention model.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

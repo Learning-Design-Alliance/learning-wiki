@@ -3,7 +3,7 @@ type: claim
 title: GenARch use was associated with a positive relative pre–post change in the Team-Q conflict-management subscale
 description: GenARch use was associated with a positive relative pre–post change in the Team-Q conflict-management subscale
 id: genarch-positive-conflict-management-did
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

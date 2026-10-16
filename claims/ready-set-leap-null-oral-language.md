@@ -3,7 +3,7 @@ type: claim
 title: "Ready, Set, Leap!® has no significant effect on preschool oral language (domain average effect size 0.02)"
 description: "Ready, Set, Leap!® has no significant effect on preschool oral language (domain average effect size 0.02)"
 id: ready-set-leap-null-oral-language
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

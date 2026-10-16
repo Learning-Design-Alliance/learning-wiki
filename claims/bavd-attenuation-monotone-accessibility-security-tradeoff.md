@@ -3,7 +3,7 @@ type: claim
 title: Accessibility attenuation buys reduced sensory burden at a measurable, monotone cost in capture resistance
 description: Accessibility attenuation buys reduced sensory burden at a measurable, monotone cost in capture resistance
 id: bavd-attenuation-monotone-accessibility-security-tradeoff
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

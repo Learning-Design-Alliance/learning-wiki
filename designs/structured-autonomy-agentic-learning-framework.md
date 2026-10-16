@@ -3,7 +3,7 @@ type: design
 id: structured-autonomy-agentic-learning-framework
 title: "Structured autonomy: bounding generative agent behavior through layered pedagogical and domain constraints"
 description: CyberAGENTS is a layered, ontology-guided multi-agent framework for gamified cybersecurity learning built on the principle of structured autonomy.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10
@@ -54,4 +54,4 @@ CyberAGENTS is a layered, ontology-guided multi-agent framework for gamified cyb
 -
 
 ## Key Sources
-- Hornung, I., Marasinghe Arachchige, D., Kumarage, T., Agrawal, G., Deng, Y., Chen, Y.-C., & Liu, H. (2026). CyberAGENTS: Structured Autonomy for Agentic Gamified Learning in Cybersecurity. Preprint. https://arxiv.org/abs/2608.07965
+- Hornung, I., Marasinghe Arachchige, D., Kumarage, T., Agrawal, G., Deng, Y., Chen, Y.-C., & Liu, H. (2026). CyberAGENTS: Structured Autonomy for Agentic Gamified Learning in Cybersecurity. Preprint. https://arxiv.org/abs/2608.07965. [doi:10.48550/arxiv.2608.07965](https://doi.org/10.48550/arxiv.2608.07965)

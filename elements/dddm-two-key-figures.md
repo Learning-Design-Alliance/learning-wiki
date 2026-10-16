@@ -3,7 +3,7 @@ type: element
 id: dddm-two-key-figures
 title: Two key figures depicting the DDDM process
 description: The framework artifact consists of two key figures that together depict the DDDM process in education.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

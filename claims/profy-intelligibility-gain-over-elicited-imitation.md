@@ -3,7 +3,7 @@ type: claim
 title: Profy practice shows larger observed pronunciation-intelligibility improvement than elicited imitation, with non-overlapping pre/post confidence intervals
 description: Profy practice shows larger observed pronunciation-intelligibility improvement than elicited imitation, with non-overlapping pre/post confidence intervals
 id: profy-intelligibility-gain-over-elicited-imitation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

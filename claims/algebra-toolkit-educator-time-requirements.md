@@ -3,7 +3,7 @@ type: claim
 title: Full Algebra Toolkit implementation requires roughly 14–22 hours of educator time across PD sessions, preparation, and classroom implementation
 description: Full Algebra Toolkit implementation requires roughly 14–22 hours of educator time across PD sessions, preparation, and classroom implementation
 id: algebra-toolkit-educator-time-requirements
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

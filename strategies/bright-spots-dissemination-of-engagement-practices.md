@@ -3,7 +3,7 @@ type: strategy
 id: bright-spots-dissemination-of-engagement-practices
 title: Chronicle and disseminate collaborative successes as documented Bright Spots of regional best practice
 description: "As the Collaborative's work continues, the brief states it is \"vital to disseminate insights and refined practices and recognize significant accomplishments.\" R15CC will share Bright Spots documenting the region's fam..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: RMPW decomposes total effects into natural direct and indirect effects, with the indirect effect further split into a pure indirect effect and a natural treatment-by-mediator interaction effect
 description: RMPW decomposes total effects into natural direct and indirect effects, with the indirect effect further split into a pure indirect effect and a natural treatment-by-mediator interaction effect
 id: rmpw-decomposes-total-indirect-interaction-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

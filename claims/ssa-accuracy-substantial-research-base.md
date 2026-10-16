@@ -3,7 +3,7 @@ type: claim
 title: Substantial research exists on SSA accuracy, with known influencing factors and teaching implications
 description: Substantial research exists on SSA accuracy, with known influencing factors and teaching implications
 id: ssa-accuracy-substantial-research-base
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: theory
 title: Co-constructionism requires an active individual, an active environment, and culture
 description: "The article reports Cole and Wertsch's (1996) argument that researchers overfocused on the Vygotsky–Piaget individual versus social genesis debate while the cardinal difference is the importance of culture."
 canonical: true
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

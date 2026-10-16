@@ -3,7 +3,7 @@ type: claim
 title: "AI and peer feedback differed in complementary ways: AI gave general, rubric-driven, actionable feedback while peers gave more specific, contextual feedback"
 description: "AI and peer feedback differed in complementary ways: AI gave general, rubric-driven, actionable feedback while peers gave more specific, contextual feedback"
 id: ai-and-peer-feedback-complementary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

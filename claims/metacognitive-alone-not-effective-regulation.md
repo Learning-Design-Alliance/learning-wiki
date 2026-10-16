@@ -3,7 +3,7 @@ type: claim
 title: Metacognitive activity alone does not equate to effective regulation; unaccompanied metacognitive processes may be counterproductive
 description: Metacognitive activity alone does not equate to effective regulation; unaccompanied metacognitive processes may be counterproductive
 id: metacognitive-alone-not-effective-regulation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

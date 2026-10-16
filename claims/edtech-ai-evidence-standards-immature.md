@@ -3,7 +3,7 @@ type: claim
 title: Evidence and evaluation standards for educational AI are immature, widening the gap between product release pace and rigorous evaluation
 description: Evidence and evaluation standards for educational AI are immature, widening the gap between product release pace and rigorous evaluation
 id: edtech-ai-evidence-standards-immature
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,21 +3,21 @@ type: research-method
 id: projection-approach-combining-absenteeism-literature-estimates-with-summer-learning-patter
 title: Projection approach combining absenteeism-literature estimates with summer learning pattern analyses
 description: "The study's method is a projection framework rather than a direct measurement of pandemic learning loss."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
 sources:
   - id: megan-kuhfeld-2020
     resource: "https://doi.org/10.3102/0013189X20965918"
-    title: "Megan Kuhfeld, James Soland, Beth Tarasawa, Angela Johnson, Erik Ruzek, Jing Liu. (2020). Projecting the potential impact of COVID-19 school closures on academic achievement. Educational Researcher 49(8). https://doi.org/10.3102/0013189X20965918"
+    title: "Megan Kuhfeld, James Soland, Beth Tarasawa, Angela Johnson, Erik Ruzek, Jing Liu. (2020). Projecting the potential impact of COVID-19 school closures on academic achievement. Educational Researcher, 49(8), 549–565. https://doi.org/10.3102/0013189X20965918"
     author: Megan Kuhfeld, James Soland, Beth Tarasawa, Angela Johnson, Erik Ruzek, Jing Liu
 ---
 
 # Projection approach combining absenteeism-literature estimates with summer learning pattern analyses
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The study's method is a projection framework rather than a direct measurement of pandemic learning loss. As the abstract states, the authors "produced a series of projections of COVID-19-related learning loss based on (a) estimates from absenteeism literature and (b) analyses of summer learning patterns of 5 million students." It treats closure-period learning as analogous to documented absenteeism and summer-loss patterns, yielding ranges of expected fall 2020 achievement rather than point estimates.
@@ -35,7 +35,7 @@ The study's method is a projection framework rather than a direct measurement of
 -
 
 ## Key Sources
-- Megan Kuhfeld, James Soland, Beth Tarasawa, Angela Johnson, Erik Ruzek, Jing Liu. (2020). Projecting the potential impact of COVID-19 school closures on academic achievement. Educational Researcher 49(8). https://doi.org/10.3102/0013189X20965918
+- Megan Kuhfeld, James Soland, Beth Tarasawa, Angela Johnson, Erik Ruzek, Jing Liu. (2020). Projecting the potential impact of COVID-19 school closures on academic achievement. Educational Researcher, 49(8), 549–565. https://doi.org/10.3102/0013189X20965918
 
 <!-- merged 2026-10-10 from theories/covid-learning-loss-projection-approach ("Projection approach combining absenteeism-literature estimates with summer learning pattern analyses"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -76,5 +76,5 @@ The study's method is a projection framework rather than a direct measurement of
 -
 
 ## Key Sources
-- Megan Kuhfeld, James Soland, Beth Tarasawa, Angela Johnson, Erik Ruzek, Jing Liu. (2020). Projecting the potential impact of COVID-19 school closures on academic achievement. Educational Researcher 49(8). https://doi.org/10.3102/0013189X20965918
+- Megan Kuhfeld, James Soland, Beth Tarasawa, Angela Johnson, Erik Ruzek, Jing Liu. (2020). Projecting the potential impact of COVID-19 school closures on academic achievement. Educational Researcher, 49(8), 549–565. https://doi.org/10.3102/0013189X20965918
 -->

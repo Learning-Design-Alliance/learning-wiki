@@ -3,7 +3,7 @@ type: strategy
 id: ai-tutor-first-exposure-flipped-strategy
 title: "Use asynchronous AI tutoring for students' first engagement with challenging material, reserving class time for higher-order skills"
 description: "The article recommends deploying AI tutoring as students' first substantial engagement with new material so class time can be spent on advanced problem solving, project-based learning and group work, in a flipped-clas..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -44,6 +44,7 @@ The article recommends deploying AI tutoring as students' first substantial enga
 - [Time Management In Instruction](time-management-in-instruction.md)
 - [Flipped Learning](flipped-learning.md)
 - [Strategically employ AI tools, including chatbots, within active learning methodologies such as problem-based learning, flipped classrooms, and virtual labs](ai-chatbots-active-learning-biology.md)
+- [Deploy an educational chatbot to give students instant question-and-answer support outside class when teacher interaction time is limited](chatbot-out-of-class-instant-support.md)
 
 ## Examples
 -

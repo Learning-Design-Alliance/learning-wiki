@@ -3,7 +3,7 @@ type: claim
 title: Filtered students had much lower effort-moderated achievement, suggesting motivation filtering may bias mean estimates
 description: Filtered students had much lower effort-moderated achievement, suggesting motivation filtering may bias mean estimates
 id: filtering-removes-low-achievers-bias-risk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

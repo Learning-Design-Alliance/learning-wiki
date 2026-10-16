@@ -3,7 +3,7 @@ type: strategy
 id: personal-connections-rpp-common-ground
 title: Build personal connections and find common ground in research-practice partnerships
 description: "Project partners Neil and Traci advise that \"Personal connections are vital\" in partnership work: finding common ground with colleagues, clients or students so relationships form, enabling empathy and progress."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

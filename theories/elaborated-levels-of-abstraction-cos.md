@@ -2,7 +2,7 @@
 type: theory
 title: Elaborated theory of levels of abstraction with a parallel set of levels for computational operation schemes
 description: "The article elaborates Battista's (2007) theory of levels of abstraction—perceptual/recognition, internalized, and interiorized levels—by adding an empirically supported parallel set of levels for computational operat..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

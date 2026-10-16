@@ -3,7 +3,7 @@ type: claim
 title: Open Court Reading© has potentially positive effects on comprehension for beginning readers in grades 1–3, with a small extent of evidence
 description: Open Court Reading© has potentially positive effects on comprehension for beginning readers in grades 1–3, with a small extent of evidence
 id: open-court-reading-potentially-positive-comprehension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

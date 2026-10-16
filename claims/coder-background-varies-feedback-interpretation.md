@@ -3,7 +3,7 @@ type: claim
 title: Perceptions of feedback characteristics vary between researcher and teacher coders, with agreement shaped by professional background
 description: Perceptions of feedback characteristics vary between researcher and teacher coders, with agreement shaped by professional background
 id: coder-background-varies-feedback-interpretation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

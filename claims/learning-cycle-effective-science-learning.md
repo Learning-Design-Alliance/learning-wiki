@@ -3,7 +3,7 @@ type: claim
 title: The learning cycle is reported as an effective means for learning science concepts and processes
 description: The learning cycle is reported as an effective means for learning science concepts and processes
 id: learning-cycle-effective-science-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

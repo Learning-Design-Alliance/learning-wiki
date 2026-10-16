@@ -3,7 +3,7 @@ type: claim
 title: "California's ECE system is a fragmented patchwork of programs accountable to multiple uncoordinated agencies"
 description: "California's ECE system is a fragmented patchwork of programs accountable to multiple uncoordinated agencies"
 id: california-ece-fragmented-multi-agency-patchwork
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

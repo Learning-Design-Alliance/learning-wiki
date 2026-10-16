@@ -3,7 +3,7 @@ type: claim
 title: The whitepaper reports, citing He et al., that Cursor adoption was associated with a persistent increase in static analysis warnings and code complexity despite short-term velocity gains
 description: The whitepaper reports, citing He et al., that Cursor adoption was associated with a persistent increase in static analysis warnings and code complexity despite short-term velocity gains
 id: cursor-adoption-warnings-complexity-persistent-increase
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

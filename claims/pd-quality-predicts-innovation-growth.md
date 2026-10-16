@@ -3,7 +3,7 @@ type: claim
 title: Higher quality professional development in 1997 predicts increases in school orientation toward innovation from 1997 to 1999
 description: Higher quality professional development in 1997 predicts increases in school orientation toward innovation from 1997 to 1999
 id: pd-quality-predicts-innovation-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

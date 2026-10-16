@@ -3,7 +3,7 @@ type: strategy
 id: student-led-sources-of-strength-clubs
 title: Establish student-led peer-based suicide prevention clubs using Sources of Strength
 description: "The district partnered with Two Feathers Native American Family Services to train staff and students in Sources of Strength, described as \"a peer-based mental health and suicide prevention resiliency program.\" Student..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

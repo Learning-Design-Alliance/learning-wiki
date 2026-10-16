@@ -3,7 +3,7 @@ type: claim
 title: "An AI browser's refusal on academic integrity grounds was bypassed with a single unverified claim of instructor status"
 description: "An AI browser's refusal on academic integrity grounds was bypassed with a single unverified claim of instructor status"
 id: comet-integrity-refusal-bypassed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

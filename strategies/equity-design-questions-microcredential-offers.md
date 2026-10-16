@@ -3,7 +3,7 @@ type: strategy
 id: equity-design-questions-microcredential-offers
 title: Preguntas de diseño para aumentar el acceso equitativo de las ofertas de micro-credenciales
 description: "El eBook propone un conjunto de preguntas que los diseñadores deben hacerse al crear micro-credenciales para continuar el camino hacia la innovación y el acceso, incluyendo \"¿Cómo eliminará esta oferta las barreras qu..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

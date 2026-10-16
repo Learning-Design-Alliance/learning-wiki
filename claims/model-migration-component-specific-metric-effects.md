@@ -3,7 +3,7 @@ type: claim
 title: Model selection experiments show newer models are not strict improvements, with component-specific effects on quality metrics
 description: Model selection experiments show newer models are not strict improvements, with component-specific effects on quality metrics
 id: model-migration-component-specific-metric-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -18,16 +18,16 @@ sources:
     kind: causal
     rigour: 2
   - id: udeshi-2026-2
-    resource: "https://sites.google.com/khanacademy.org/aied2026supplementalmaterial/home"
-    title: "Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R., DiGiano, C., Weatherholtz, K., Zaluski, M. (2026). Methodologies for Improving the Quality of AI Tutoring in K-12 Education. https://sites.google.com/khanacademy.org/aied2026supplementalmaterial/home"
+    resource: "https://doi.org/10.1007/978-3-032-29755-6_14"
+    title: "Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R., DiGiano, C., Weatherholtz, K., Zaluski, M. (2026). Methodologies for Improving the Quality of AI Tutoring in K-12 Education. https://sites.google.com/khanacademy.org/aied2026supplementalmaterial/home. [doi:10.1007/978-3-032-29755-6_14](https://doi.org/10.1007/978-3-032-29755-6_14)"
     author: Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R., DiGiano, C., Weatherholtz, K., Zaluski, M.
     q: 2
     i: "?"
     kind: causal
     rigour: 2
   - id: udeshi-2026-3
-    resource: "https://sites.google.com/khanacademy.org/aied2026supplementalmaterial/home"
-    title: "Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R., DiGiano, C., Weatherholtz, K., Zaluski, M. (2026). Methodologies for Improving the Quality of AI Tutoring in K-12 Education. https://sites.google.com/khanacademy.org/aied2026supplementalmaterial/home"
+    resource: "https://doi.org/10.1007/978-3-032-29755-6_14"
+    title: "Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R., DiGiano, C., Weatherholtz, K., Zaluski, M. (2026). Methodologies for Improving the Quality of AI Tutoring in K-12 Education. https://sites.google.com/khanacademy.org/aied2026supplementalmaterial/home. [doi:10.1007/978-3-032-29755-6_14](https://doi.org/10.1007/978-3-032-29755-6_14)"
     author: Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R., DiGiano, C., Weatherholtz, K., Zaluski, M.
     q: 2
     i: "?"
@@ -38,7 +38,7 @@ sources:
 # Model selection experiments show newer models are not strict improvements, with component-specific effects on quality metrics
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (3 entries) · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (3 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Migrating the Exercise main completion from GPT-4o to GPT-4.1 decreased tutor giving away the final answer by 96.66% ± 4.66% and increased behavioral engagement by 9.93% ± 2.11% in a do-no-harm test. [→ Udeshi 2026](#udeshi-2026)
@@ -59,7 +59,7 @@ Live experiment comparing AI tutor performance when the main Exercise completion
 
 ### Udeshi 2026 (2)
 
-Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R., DiGiano, C., Weatherholtz, K., Zaluski, M. (2026). Methodologies for Improving the Quality of AI Tutoring in K-12 Education. https://sites.google.com/khanacademy.org/aied2026supplementalmaterial/home
+Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R., DiGiano, C., Weatherholtz, K., Zaluski, M. (2026). Methodologies for Improving the Quality of AI Tutoring in K-12 Education. https://sites.google.com/khanacademy.org/aied2026supplementalmaterial/home. [doi:10.1007/978-3-032-29755-6_14](https://doi.org/10.1007/978-3-032-29755-6_14)
 
 `q2 · i?` · `causal · r2`
 
@@ -69,7 +69,7 @@ Live experiment comparing Math Agent completions generated with GPT-4o versus GP
 
 ### Udeshi 2026 (3)
 
-Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R., DiGiano, C., Weatherholtz, K., Zaluski, M. (2026). Methodologies for Improving the Quality of AI Tutoring in K-12 Education. https://sites.google.com/khanacademy.org/aied2026supplementalmaterial/home
+Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R., DiGiano, C., Weatherholtz, K., Zaluski, M. (2026). Methodologies for Improving the Quality of AI Tutoring in K-12 Education. https://sites.google.com/khanacademy.org/aied2026supplementalmaterial/home. [doi:10.1007/978-3-032-29755-6_14](https://doi.org/10.1007/978-3-032-29755-6_14)
 
 `q2 · i?` · `causal · r2`
 

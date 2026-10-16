@@ -3,7 +3,7 @@ type: claim
 title: ChatGPT users were significantly less likely to correctly answer a critical-learning question requiring interpretation of a nutrition label
 description: ChatGPT users were significantly less likely to correctly answer a critical-learning question requiring interpretation of a nutrition label
 id: chatgpt-worse-nutrition-label-application-question
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Instructional approach operates indirectly through autonomy and competence, while task type operates primarily through autonomy
 description: Instructional approach operates indirectly through autonomy and competence, while task type operates primarily through autonomy
 id: differentiated-mediation-autonomy-competence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

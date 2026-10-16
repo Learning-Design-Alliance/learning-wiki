@@ -3,7 +3,7 @@ type: claim
 title: English learners can learn to read in English at the same rate as their monolingual peers in the primary grades
 description: English learners can learn to read in English at the same rate as their monolingual peers in the primary grades
 id: english-learners-read-same-rate-primary-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Existing item fit statistics are derived for linear tests under assumptions of no missing responses and normal ability distributions, leaving adaptive testing contexts understudied
 description: Existing item fit statistics are derived for linear tests under assumptions of no missing responses and normal ability distributions, leaving adaptive testing contexts understudied
 id: item-fit-statistics-derived-for-linear-tests-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

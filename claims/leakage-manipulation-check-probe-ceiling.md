@@ -3,7 +3,7 @@ type: claim
 title: "The leakage manipulation fires: ConvTutor leaks far more than PedTutor on the primary base, while probe accuracy saturates and cannot distinguish conditions"
 description: "The leakage manipulation fires: ConvTutor leaks far more than PedTutor on the primary base, while probe accuracy saturates and cannot distinguish conditions"
 id: leakage-manipulation-check-probe-ceiling
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

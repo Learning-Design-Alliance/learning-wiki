@@ -3,7 +3,7 @@ type: claim
 title: Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders
 description: Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders
 id: girls-confidence-interest-gap-self-concept-predicts-choices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

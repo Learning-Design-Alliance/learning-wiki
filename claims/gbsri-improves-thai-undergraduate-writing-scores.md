@@ -3,7 +3,7 @@ type: claim
 title: "GBSRI significantly improved Thai undergraduates' overall English paragraph writing scores after eight weeks"
 description: "GBSRI significantly improved Thai undergraduates' overall English paragraph writing scores after eight weeks"
 id: gbsri-improves-thai-undergraduate-writing-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

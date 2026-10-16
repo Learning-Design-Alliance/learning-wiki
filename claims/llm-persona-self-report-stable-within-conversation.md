@@ -3,7 +3,7 @@ type: claim
 title: "LLM-simulated students' self-reported ADHD persona scores remain stable throughout extended multi-turn conversations"
 description: "LLM-simulated students' self-reported ADHD persona scores remain stable throughout extended multi-turn conversations"
 id: llm-persona-self-report-stable-within-conversation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

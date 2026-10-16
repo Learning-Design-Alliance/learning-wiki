@@ -3,7 +3,7 @@ type: strategy
 id: haiti-scale-up-strategy-grades-infrastructure-kolibri
 title: "Scale-up strategy: add grades 3 and 4, expand solar and connectivity with local capacity-building, and adopt Kolibri for offline access"
 description: "The presentation's future plans lay out an expansion strategy: \"Content: Adding 3rd grade (2023-24) & 4th grade (2024-25)\"; \"Infrastructure: Expansion of solar power & internet connectivity (pending funding); local ca..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

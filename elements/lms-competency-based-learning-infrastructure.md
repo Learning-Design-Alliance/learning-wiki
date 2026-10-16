@@ -3,7 +3,7 @@ type: element
 id: lms-competency-based-learning-infrastructure
 title: Learning management systems (LMSs) as infrastructure for competency-based, personalized learning
 description: LMSs are software applications schools and districts use to automate learning digitally.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: high-retention-pathways-residencies-grow-your-own
 title: Establish high-retention preparation pathways—residencies, Grow Your Own models, service scholarships, and mentoring/induction—to stem turnover in high-need subjects and schools
 description: "The report recommends service scholarships and loan forgiveness that \"pay the cost of teacher preparation in exchange for a commitment to teach in a subject or location of need for 3 to 5 years,\" teacher residency pro..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -59,4 +59,4 @@ The report recommends service scholarships and loan forgiveness that "pay the co
 -
 
 ## Key Sources
-- Carver-Thomas, D. & Darling-Hammond, L. (2017). Teacher turnover: Why it matters and what we can do about it. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/teacher-turnover
+- Carver-Thomas, D. & Darling-Hammond, L. (2017). Teacher turnover: Why it matters and what we can do about it. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/teacher-turnover. [doi:10.54300/454.278](https://doi.org/10.54300/454.278)

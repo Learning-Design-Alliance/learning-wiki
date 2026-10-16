@@ -3,7 +3,7 @@ type: research-method
 id: three-validation-targets-for-educational-simulation-behavioral-believability-educational-m
 title: "Three validation targets for educational simulation: behavioral believability, educational mechanism fidelity, and institutional counterfactual usefulness"
 description: The paper argues that educational simulators are too often evaluated only on surface realism, and distinguishes three targets that are often conflated.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

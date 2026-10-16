@@ -3,7 +3,7 @@ type: claim
 title: The TEFA-T model and its supporting products are rated Very Practical by instructors and students
 description: The TEFA-T model and its supporting products are rated Very Practical by instructors and students
 id: tefa-t-very-practical-rating
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Providing educators with performance feedback and offering pay-for-performance bonuses can improve student achievement, with positive cumulative impacts on math or reading in some years
 description: Providing educators with performance feedback and offering pay-for-performance bonuses can improve student achievement, with positive cumulative impacts on math or reading in some years
 id: performance-feedback-and-pay-for-performance-improve-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

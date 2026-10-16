@@ -3,7 +3,7 @@ type: claim
 title: "The investigate–solve–write scaffold, with personalization disabled, improves all five backbone model families on general agentic benchmarks, with average relative gains of 25.69%–32.03%"
 description: "The investigate–solve–write scaffold, with personalization disabled, improves all five backbone model families on general agentic benchmarks, with average relative gains of 25.69%–32.03%"
 id: solver-scaffold-transfers-general-agentic-problem-solving
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

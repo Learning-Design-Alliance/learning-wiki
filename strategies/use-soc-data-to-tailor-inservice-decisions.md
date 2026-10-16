@@ -3,7 +3,7 @@ type: strategy
 id: use-soc-data-to-tailor-inservice-decisions
 title: Use individual and group Stages of Concern data to tailor inservice and training decisions
 description: The article recommends that facilitators of change use Stages of Concern data to learn what teachers are most concerned about at a given point in time regarding a program, product, or idea, and to plan interventions a...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

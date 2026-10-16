@@ -3,7 +3,7 @@ type: strategy
 id: plc-student-work-review-feedback-bhs
 title: Use professional learning communities to review student work and give teachers feedback
 description: A strategy in which teachers meet regularly in small interdisciplinary groups to analyze the quality of student work, compare expectations, and share lessons about which strategies are effective.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Engineering team focused on generative collaborative actions, product design team on creating shared understanding, and service design team on alleviating lack of knowledge
 description: Engineering team focused on generative collaborative actions, product design team on creating shared understanding, and service design team on alleviating lack of knowledge
 id: disciplinary-kc-focus-differences-prototyping
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

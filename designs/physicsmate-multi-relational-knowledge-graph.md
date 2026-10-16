@@ -3,7 +3,7 @@ type: design
 id: physicsmate-multi-relational-knowledge-graph
 title: Multi-relational knowledge graph of the NCTB physics syllabus with ten ontological node types
 description: The knowledge graph formalizes the 13-chapter NCTB syllabus as a multi-relational structure with 1,760 nodes across 10 ontological types (concepts, questions, quantities, figures, examples, entities, definitions, form...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Student DP performance differed significantly across the three course deployments, with the paper-based DT3 exam scoring lowest, likely due to administration mode
 description: Student DP performance differed significantly across the three course deployments, with the paper-based DT3 exam scoring lowest, likely due to administration mode
 id: dp-performance-varies-by-administration-mode
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

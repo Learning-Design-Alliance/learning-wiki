@@ -3,7 +3,7 @@ type: claim
 title: Interpreting differences in school-aggregate test scores as real differences in school performance raises accuracy concerns even under routine schooling conditions, which the pandemic may exacerbate
 description: Interpreting differences in school-aggregate test scores as real differences in school performance raises accuracy concerns even under routine schooling conditions, which the pandemic may exacerbate
 id: aggregate-score-interpretation-accuracy-concerns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

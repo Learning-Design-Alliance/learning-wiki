@@ -3,7 +3,7 @@ type: claim
 title: Test-taking disengagement distorts both individual and aggregated test scores
 description: Test-taking disengagement distorts both individual and aggregated test scores
 id: disengagement-distorts-individual-and-aggregated-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

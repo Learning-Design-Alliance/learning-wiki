@@ -3,7 +3,7 @@ type: claim
 title: Institutional support significantly and positively predicts teacher confidence in adopting AI among Philippine teachers
 description: Institutional support significantly and positively predicts teacher confidence in adopting AI among Philippine teachers
 id: institutional-support-predicts-teacher-ai-confidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

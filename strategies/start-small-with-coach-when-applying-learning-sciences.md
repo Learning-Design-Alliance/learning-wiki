@@ -3,7 +3,7 @@ type: strategy
 id: start-small-with-coach-when-applying-learning-sciences
 title: Work with a coach or peer group, start with one insight, and gather data when applying learning sciences research
 description: "The resource recommends a staged approach to applying learning sciences research in classrooms, warning that \"applying learning sciences research in practice can involve trial and error\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

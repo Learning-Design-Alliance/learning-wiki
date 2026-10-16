@@ -3,7 +3,7 @@ type: product
 id: roadmap-needs-assessment-five-step-process
 title: Roadmap Needs Assessment Five-Step Process
 description: The Roadmap Needs Assessment Five-Step Process is a named five-step community-needs-assessment framework developed and used by the Roadmap team, incorporating engagement and interagency coordination throughout.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Students achieve reasonable agreement between their magnetopause-crossing findings and model predictions, gaining exposure to the tools and techniques of space physics
 description: Students achieve reasonable agreement between their magnetopause-crossing findings and model predictions, gaining exposure to the tools and techniques of space physics
 id: magnetopause-lab-reasonable-agreement-with-model-predictions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
@@ -18,8 +18,8 @@ sources:
     kind: design
     rigour: 2
   - id: crumley-2015-2
-    resource: "https://arxiv.org/abs/0706.1985"
-    title: "Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985"
+    resource: "https://doi.org/10.48550/arxiv.0706.1985"
+    title: "Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985. [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)"
     author: Crumley, Palczewski, and Kaster
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Students achieve reasonable agreement between their magnetopause-crossing findings and model predictions, gaining exposure to the tools and techniques of space physics
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the Geotail example from 31 October 2003, the predicted and actual magnetopause crossings agree fairly well overall, though the crossings seen in the data tell a slightly different story than predicted. [→ Crumley 2015](#crumley-2015)
@@ -50,7 +50,7 @@ Authors' analysis of the Figure 5 Geotail example from the Halloween 2003 storm,
 
 ### Crumley 2015 (2)
 
-Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985
+Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985. [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)
 
 `q2 · i? · the article prints no effect size for this finding` · `design · r2`
 

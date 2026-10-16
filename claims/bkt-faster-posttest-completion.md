@@ -3,7 +3,7 @@ type: claim
 title: BKT students completed posttest problems significantly faster than Control students, with DRL showing marginal advantages in time and solution optimality
 description: BKT students completed posttest problems significantly faster than Control students, with DRL showing marginal advantages in time and solution optimality
 id: bkt-faster-posttest-completion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -18,8 +18,8 @@ sources:
     kind: causal
     rigour: 2
   - id: tithi-2026-2
-    resource: "https://arxiv.org/abs/2602.07308"
-    title: "Tithi, S.D., Alam, N., Yasir, T., Shi, Y., Tian, X., Chi, M., Barnes, T. (2026). Adaptive Scaffolding for Cognitive Engagement in an Intelligent Tutoring System. arXiv. https://arxiv.org/abs/2602.07308"
+    resource: "https://doi.org/10.48550/arxiv.2602.07308"
+    title: "Tithi, S.D., Alam, N., Yasir, T., Shi, Y., Tian, X., Chi, M., Barnes, T. (2026). Adaptive Scaffolding for Cognitive Engagement in an Intelligent Tutoring System. arXiv. https://arxiv.org/abs/2602.07308. [doi:10.48550/arxiv.2602.07308](https://doi.org/10.48550/arxiv.2602.07308)"
     author: Tithi, S.D., Alam, N., Yasir, T., Shi, Y., Tian, X., Chi, M., Barnes, T.
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # BKT students completed posttest problems significantly faster than Control students, with DRL showing marginal advantages in time and solution optimality
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` BKT students completed posttest problems significantly faster than Control students (10.8 vs 11.8 minutes, p= 0.02, A=.58). [→ Tithi 2026](#tithi-2026)
@@ -50,7 +50,7 @@ Posttest problem completion time comparison across conditions in the N=113 study
 
 ### Tithi 2026 (2)
 
-Tithi, S.D., Alam, N., Yasir, T., Shi, Y., Tian, X., Chi, M., Barnes, T. (2026). Adaptive Scaffolding for Cognitive Engagement in an Intelligent Tutoring System. arXiv. https://arxiv.org/abs/2602.07308
+Tithi, S.D., Alam, N., Yasir, T., Shi, Y., Tian, X., Chi, M., Barnes, T. (2026). Adaptive Scaffolding for Cognitive Engagement in an Intelligent Tutoring System. arXiv. https://arxiv.org/abs/2602.07308. [doi:10.48550/arxiv.2602.07308](https://doi.org/10.48550/arxiv.2602.07308)
 
 `q3 · i?` · `causal · r2`
 

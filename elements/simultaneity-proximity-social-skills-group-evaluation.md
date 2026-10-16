@@ -3,7 +3,7 @@ type: element
 id: simultaneity-proximity-social-skills-group-evaluation
 title: Simultaneity, proximity, social skills, and group evaluation as elements differentiating cooperative learning from group work
 description: Digest 3 presents four further elements differentiating cooperative learning from ordinary group work.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

@@ -3,7 +3,7 @@ type: claim
 title: "The Theory of Multiple Intelligences is weak in stressing science and social sciences as fields of talent, and existing subject categories could nurture pupils' talents"
 description: "The Theory of Multiple Intelligences is weak in stressing science and social sciences as fields of talent, and existing subject categories could nurture pupils' talents"
 id: multiple-intelligences-weak-on-science-talent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

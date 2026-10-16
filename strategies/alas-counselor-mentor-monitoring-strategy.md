@@ -3,7 +3,7 @@ type: strategy
 id: alas-counselor-mentor-monitoring-strategy
 title: Assign a counselor/mentor who continuously monitors students and coordinates multi-context support
 description: ALAS assigns each student a counselor/mentor who monitors attendance, behavior, and academic achievement, provides feedback to students and families, serves as a student advocate, and intervenes when problems are iden...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

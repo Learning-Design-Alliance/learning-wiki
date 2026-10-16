@@ -3,7 +3,7 @@ type: claim
 title: Deliberation produces a substantial gender gap in voice and authority
 description: Deliberation produces a substantial gender gap in voice and authority
 id: deliberation-substantial-gender-gap-voice-authority
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

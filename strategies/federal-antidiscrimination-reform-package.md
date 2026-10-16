@@ -3,7 +3,7 @@ type: strategy
 id: federal-antidiscrimination-reform-package
 title: "Federal reforms to strengthen antidiscrimination protection: amend Title VI, fund enforcement, and issue clarifying guidance"
 description: "The report recommends a set of federal actions to strengthen protection from racial discrimination in education: \"Amend Title VI of the Civil Rights Act of 1964 to prohibit disparate impact discrimination and provide..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

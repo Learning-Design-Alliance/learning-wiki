@@ -3,7 +3,7 @@ type: claim
 title: Black students in Houston charter and magnet schools outperformed Black students in Houston district schools in reading and math
 description: Black students in Houston charter and magnet schools outperformed Black students in Houston district schools in reading and math
 id: houston-black-students-charter-magnet-beat-district
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

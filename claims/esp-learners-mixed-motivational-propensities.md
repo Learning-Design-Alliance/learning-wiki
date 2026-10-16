@@ -3,7 +3,7 @@ type: claim
 title: Chinese college ESP learners show high amotivation-subscale, external-regulation, identified-regulation and intrinsic (knowledge, accomplishment) item means
 description: Chinese college ESP learners show high amotivation-subscale, external-regulation, identified-regulation and intrinsic (knowledge, accomplishment) item means
 id: esp-learners-mixed-motivational-propensities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

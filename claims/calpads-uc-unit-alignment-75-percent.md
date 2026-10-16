@@ -3,7 +3,7 @@ type: claim
 title: "About 75% of A-G courses showed exact unit alignment between CALPADS and UC admissions data, improving across years"
 description: "About 75% of A-G courses showed exact unit alignment between CALPADS and UC admissions data, improving across years"
 id: calpads-uc-unit-alignment-75-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

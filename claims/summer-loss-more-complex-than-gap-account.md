@@ -3,7 +3,7 @@ type: claim
 title: The reality of summer learning loss is more complex than the long-standing gap-widening account
 description: The reality of summer learning loss is more complex than the long-standing gap-widening account
 id: summer-loss-more-complex-than-gap-account
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

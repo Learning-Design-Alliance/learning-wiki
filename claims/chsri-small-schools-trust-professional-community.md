@@ -3,7 +3,7 @@ type: claim
 title: Teachers and principals in CHSRI small schools describe an environment marked by trust, commitment, and strong professional community in year two
 description: Teachers and principals in CHSRI small schools describe an environment marked by trust, commitment, and strong professional community in year two
 id: chsri-small-schools-trust-professional-community
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

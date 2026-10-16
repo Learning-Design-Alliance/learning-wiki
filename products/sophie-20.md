@@ -4,7 +4,7 @@ id: sophie-20
 title: SOPHIE 2.0
 description: SOPHIE 2.0 is a browser-based platform developed by Masum Hasan and colleagues that uses audiovisual virtual patients, LLM-generated dialogue, and automated feedback to support clinical communication practice for healthcare learners.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

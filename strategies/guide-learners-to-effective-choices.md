@@ -3,7 +3,7 @@ type: strategy
 id: guide-learners-to-effective-choices
 title: Support learners in making and being guided to make effective choices
 description: Among the Table 1 assumptions, the paper holds that learners make, or can be guided to make, effective choices.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

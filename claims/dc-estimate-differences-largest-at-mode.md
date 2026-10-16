@@ -3,7 +3,7 @@ type: claim
 title: The greatest differences among the three DC estimates occur when the cut score is set at the mode of a skewed score distribution
 description: The greatest differences among the three DC estimates occur when the cut score is set at the mode of a skewed score distribution
 id: dc-estimate-differences-largest-at-mode
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

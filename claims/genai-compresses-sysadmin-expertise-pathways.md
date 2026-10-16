@@ -3,7 +3,7 @@ type: claim
 title: GenAI compresses traditional sysadmin expertise pathways by shortcutting hands-on practice, mentorship, and iterative problem solving
 description: GenAI compresses traditional sysadmin expertise pathways by shortcutting hands-on practice, mentorship, and iterative problem solving
 id: genai-compresses-sysadmin-expertise-pathways
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

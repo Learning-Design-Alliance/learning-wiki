@@ -3,7 +3,7 @@ type: claim
 title: Across three physics assessments, students who declared GenAI use scored slightly higher than non-users, but none of the differences were statistically significant
 description: Across three physics assessments, students who declared GenAI use scored slightly higher than non-users, but none of the differences were statistically significant
 id: genai-users-slightly-higher-scores-not-significant-physics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

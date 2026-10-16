@@ -3,7 +3,7 @@ type: claim
 title: Computer-based tests provide unique advantages that can be used to control construct-irrelevant factors threatening test score validity
 description: Computer-based tests provide unique advantages that can be used to control construct-irrelevant factors threatening test score validity
 id: cbt-unique-advantages-control-construct-irrelevant-factors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

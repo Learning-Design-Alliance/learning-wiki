@@ -3,7 +3,7 @@ type: claim
 title: The adaptive virtual patient produces a steadily climbing disclosure trajectory across a session while a prompt-only baseline with the same LLM and persona stays flat
 description: The adaptive virtual patient produces a steadily climbing disclosure trajectory across a session while a prompt-only baseline with the same LLM and persona stays flat
 id: avp-climbing-disclosure-vs-static-flat
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

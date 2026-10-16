@@ -3,7 +3,7 @@ type: claim
 title: Intelligence-perception scores differ by class year, with fourth-year students more incremental and second-year students more entity-oriented
 description: Intelligence-perception scores differ by class year, with fourth-year students more incremental and second-year students more entity-oriented
 id: class-level-mindset-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

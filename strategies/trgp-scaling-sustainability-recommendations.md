@@ -3,7 +3,7 @@ type: strategy
 id: trgp-scaling-sustainability-recommendations
 title: "State actions to strengthen and sustain a funded residency pathway: clarify goals, upgrade data systems, adjust grant parameters, offer transition grants, and pair new LEAs with experienced IHEs"
 description: "The brief recommends that state leadership \"clarify the state's short- and long-term goals for the residency pathway in California\"; that the CTC and CDE \"upgrade and align statewide data systems,\" including adding a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

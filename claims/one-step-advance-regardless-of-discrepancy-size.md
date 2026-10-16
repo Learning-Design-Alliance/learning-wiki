@@ -3,7 +3,7 @@ type: claim
 title: "One-level and two-level external disequilibrium conditions did not differ significantly, and all Modal Level advances occurred to exactly one level above the subject's mode"
 description: "One-level and two-level external disequilibrium conditions did not differ significantly, and all Modal Level advances occurred to exactly one level above the subject's mode"
 id: one-step-advance-regardless-of-discrepancy-size
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

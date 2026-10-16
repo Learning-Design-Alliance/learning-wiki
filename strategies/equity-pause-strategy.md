@@ -3,7 +3,7 @@ type: strategy
 id: equity-pause-strategy
 title: "Use an \"equity pause\" to infuse equity consciousness into continuous improvement team processes"
 description: "An equity pause is a practice in which, at a chosen moment in a discussion or process, \"participants refect on their team dynamics, question how a team is addressing equity, and critically examine their own assumption..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

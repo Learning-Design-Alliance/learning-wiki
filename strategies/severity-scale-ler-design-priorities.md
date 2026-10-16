@@ -3,7 +3,7 @@ type: strategy
 id: severity-scale-ler-design-priorities
 title: Severity scale for prioritizing learner barriers into design actions
 description: The toolkit provides a three-level severity scale for translating IUX insights into prioritized action.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

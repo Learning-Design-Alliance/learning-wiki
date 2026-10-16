@@ -3,7 +3,7 @@ type: claim
 title: "School value-added and adjusted school value-added provide at most a small amount of information for predicting principals' future contributions to student achievement"
 description: "School value-added and adjusted school value-added provide at most a small amount of information for predicting principals' future contributions to student achievement"
 id: school-value-added-small-predictive-information-principals
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Most students were in LEAs adopting a wide range of COVID-19 health and safety measures, but few were in LEAs with regular COVID-19 testing
 description: Most students were in LEAs adopting a wide range of COVID-19 health and safety measures, but few were in LEAs with regular COVID-19 testing
 id: pa-leas-health-safety-measures-few-testing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

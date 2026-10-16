@@ -3,7 +3,7 @@ type: claim
 title: Students with prior college experience graduated faster, averaging at least 0.9 years after re-enrolling versus at least 4.8 years for students without prior college experience
 description: Students with prior college experience graduated faster, averaging at least 0.9 years after re-enrolling versus at least 4.8 years for students without prior college experience
 id: prior-college-experience-faster-pcc-graduation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

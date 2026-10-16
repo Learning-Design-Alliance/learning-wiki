@@ -3,7 +3,7 @@ type: theory
 title: Equations as Language
 description: Making sense of a physics equation is analogous to reading a text with comprehension — moving through textually-explicit, textually-implicit, and scriptally-implicit levels of understanding — rather than a single act of deriving or manipulating the equation.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

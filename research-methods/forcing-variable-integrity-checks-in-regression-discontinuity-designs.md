@@ -3,7 +3,7 @@ type: research-method
 id: forcing-variable-integrity-checks-in-regression-discontinuity-designs
 title: Forcing-variable integrity checks in regression discontinuity designs
 description: "Standard 1 requires that no systematic manipulation of the forcing variable occurred, since manipulation makes \"the true relationship between the outcome and forcing variable can no longer be identified, which could lead to biased impact estimates.\" Institutional integrity requires describing who sc"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

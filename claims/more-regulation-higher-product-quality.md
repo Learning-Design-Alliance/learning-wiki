@@ -3,7 +3,7 @@ type: claim
 title: More group engagement in social regulation of learning is associated with higher-quality collaborative products
 description: More group engagement in social regulation of learning is associated with higher-quality collaborative products
 id: more-regulation-higher-product-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

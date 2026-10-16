@@ -3,7 +3,7 @@ type: claim
 title: Distillation increases misclassification of ambiguous To Some Extent tutor responses as Yes
 description: Distillation increases misclassification of ambiguous To Some Extent tutor responses as Yes
 id: distillation-increases-ambiguous-yes-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

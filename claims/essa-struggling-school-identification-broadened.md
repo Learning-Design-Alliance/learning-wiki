@@ -3,7 +3,7 @@ type: claim
 title: States broadened measures for identifying struggling schools while more districts reported improvement activities, particularly teacher professional development
 description: States broadened measures for identifying struggling schools while more districts reported improvement activities, particularly teacher professional development
 id: essa-struggling-school-identification-broadened
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

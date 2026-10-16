@@ -3,7 +3,7 @@ type: research-method
 id: teacher-noticing-of-rationality-framework-tnrf
 title: Teacher Noticing of Rationality Framework (TNRF)
 description: "The TNRF builds on van Es and Sherin's expanded noticing framework of attending, interpreting, and shaping, and \"extends van Es and Sherin's (2021) framework by specifying the object of noticing more precisely as students' mathematical thinking\"."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

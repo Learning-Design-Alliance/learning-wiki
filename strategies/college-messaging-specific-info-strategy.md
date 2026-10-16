@@ -3,7 +3,7 @@ type: strategy
 id: college-messaging-specific-info-strategy
 title: Pair college-transition messaging with more specific college-related information and adequate advisor capacity
 description: "Based on the null results, the evaluation offers guidance that messaging strategies \"may be more effective\" when students receive more specific information."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

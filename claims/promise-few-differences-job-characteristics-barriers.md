@@ -3,7 +3,7 @@ type: claim
 title: Treatment and control groups showed few differences in job characteristics, work search activities, and perceived barriers to employment
 description: Treatment and control groups showed few differences in job characteristics, work search activities, and perceived barriers to employment
 id: promise-few-differences-job-characteristics-barriers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

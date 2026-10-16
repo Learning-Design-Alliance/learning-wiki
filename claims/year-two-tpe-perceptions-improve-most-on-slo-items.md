@@ -3,7 +3,7 @@ type: claim
 title: Educator agreement with positive TPE statements rose from the 2013 to the 2014 survey, with the strongest increases on SLO support items
 description: Educator agreement with positive TPE statements rose from the 2013 to the 2014 survey, with the strongest increases on SLO support items
 id: year-two-tpe-perceptions-improve-most-on-slo-items
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

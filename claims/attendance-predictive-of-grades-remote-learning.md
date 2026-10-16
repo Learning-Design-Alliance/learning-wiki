@@ -3,7 +3,7 @@ type: claim
 title: "Attendance and online platform participation remained predictive of students' course grades during remote learning, with relationships as large or larger than pre-pandemic"
 description: "Attendance and online platform participation remained predictive of students' course grades during remote learning, with relationships as large or larger than pre-pandemic"
 id: attendance-predictive-of-grades-remote-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

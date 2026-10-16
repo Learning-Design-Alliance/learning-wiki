@@ -3,7 +3,7 @@ type: strategy
 id: explicit-ta-tutorial-training-checkpoint-outcomes
 title: "Make teaching assistant tutorial training more explicit: provide checkpoint learning outcomes and suggested checkpoint questions"
 description: The authors propose reforming weekly one-hour tutorial training, in which teaching assistants work through worksheets and have reasoning checked but rarely see Socratic dialogue in action.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -44,4 +44,4 @@ The authors propose reforming weekly one-hour tutorial training, in which teachi
 -
 
 ## Key Sources
-- Slezak, C., Koenig, K. M., Endorf, R. J., & Braun, G. A. (2011). Investigating the Effectiveness of the Tutorials in Introductory Physics in Multiple Instructional Settings. https://arxiv.org/abs/1110.0050
+- Slezak, C., Koenig, K. M., Endorf, R. J., & Braun, G. A. (2011). Investigating the Effectiveness of the Tutorials in Introductory Physics in Multiple Instructional Settings. https://arxiv.org/abs/1110.0050. [doi:10.48550/arxiv.1110.0050](https://doi.org/10.48550/arxiv.1110.0050)

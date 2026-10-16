@@ -3,7 +3,7 @@ type: claim
 title: Managers perceive the greatest AI potential in data analytics, document automation, and quality monitoring, and the least in personalization
 description: Managers perceive the greatest AI potential in data analytics, document automation, and quality monitoring, and the least in personalization
 id: application-potential-analytics-automation-monitoring
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

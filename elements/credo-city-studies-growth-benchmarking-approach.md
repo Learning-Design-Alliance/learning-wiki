@@ -3,7 +3,7 @@ type: element
 id: credo-city-studies-growth-benchmarking-approach
 title: CREDO City Studies Project growth-benchmarking analysis approach
 description: The City Studies Project is a recurring reporting and analysis program that compares academic performance of student groups in selected U.S.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

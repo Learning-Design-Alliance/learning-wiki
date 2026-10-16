@@ -3,7 +3,7 @@ type: claim
 title: In this inquiry, student pairs work better than groups of three because larger groups risk disengaging members
 description: In this inquiry, student pairs work better than groups of three because larger groups risk disengaging members
 id: pairs-better-than-triads-in-stellar-inquiry
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

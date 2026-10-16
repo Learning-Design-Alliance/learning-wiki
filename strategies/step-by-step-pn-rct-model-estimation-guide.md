@@ -3,7 +3,7 @@ type: strategy
 id: step-by-step-pn-rct-model-estimation-guide
 title: Follow a step-by-step estimation procedure with example-based computer code when analyzing PN-RCT data
 description: "The guide offers an implementable recipe for analysts: Chapter 3 provides \"a step-by-step guide, using examples, on how to estimate the models and interpret the output\", together with computer code for the clustering-..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

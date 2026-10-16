@@ -3,7 +3,7 @@ type: design
 id: bps-early-learning-uniform-curricula-coaches-naeyc
 title: "Boston Public Schools early learning strategy: uniform early math and literacy curricula, teacher training, coaches, and NAEYC accreditation support"
 description: "Boston Public Schools enlists early childhood programming in its achievement acceleration agenda by \"implementing uniform mathematics and literacy programs across early learning programs and including teacher training..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

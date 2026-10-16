@@ -3,7 +3,7 @@ type: claim
 title: Generating multiple images per prompt and re-prompting with word variations did not yield accurate nuclear images for failed concepts
 description: Generating multiple images per prompt and re-prompting with word variations did not yield accurate nuclear images for failed concepts
 id: multiple-images-and-reprompting-do-not-fix-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "The CEA learning model has a significant simultaneous effect on EFL students' speaking performance and feedback literacy"
 description: "The CEA learning model has a significant simultaneous effect on EFL students' speaking performance and feedback literacy"
 id: cea-simultaneous-effect-speaking-feedback-literacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

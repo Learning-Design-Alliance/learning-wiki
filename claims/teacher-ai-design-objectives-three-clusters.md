@@ -3,7 +3,7 @@ type: claim
 title: Teacher-AI learning task design objectives cluster into cognitive gains and thinking skills, behavioral changes and design efficiency, and adaptivity, engagement, self-efficacy, and inclusivity
 description: Teacher-AI learning task design objectives cluster into cognitive gains and thinking skills, behavioral changes and design efficiency, and adaptivity, engagement, self-efficacy, and inclusivity
 id: teacher-ai-design-objectives-three-clusters
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

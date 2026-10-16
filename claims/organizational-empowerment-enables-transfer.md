@@ -3,7 +3,7 @@ type: claim
 title: Organizational empowerment through clear role positioning and multidisciplinary support enables sustained training transfer
 description: Organizational empowerment through clear role positioning and multidisciplinary support enables sustained training transfer
 id: organizational-empowerment-enables-transfer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

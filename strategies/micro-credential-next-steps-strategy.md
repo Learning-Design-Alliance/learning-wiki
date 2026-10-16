@@ -3,7 +3,7 @@ type: strategy
 id: micro-credential-next-steps-strategy
 title: Advance micro-credentials through a piloting coalition, a rigorous research agenda, and dissemination of best practices
 description: The report proposes three mutually reinforcing efforts for state and local policy leaders.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

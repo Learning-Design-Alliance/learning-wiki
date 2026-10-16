@@ -3,7 +3,7 @@ type: claim
 title: Course grades of students in grades 4-8 declined during remote and hybrid learning relative to pre-pandemic years
 description: Course grades of students in grades 4-8 declined during remote and hybrid learning relative to pre-pandemic years
 id: cps-grades-4-8-declined-remote-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

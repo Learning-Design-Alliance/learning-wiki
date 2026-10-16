@@ -3,7 +3,7 @@ type: claim
 title: "The single-group ITS design's counterfactual rests on the assumption that the pretest functional form can be validly estimated and extrapolated into the postintervention period, an assumption the authors call problematic"
 description: "The single-group ITS design's counterfactual rests on the assumption that the pretest functional form can be validly estimated and extrapolated into the postintervention period, an assumption the authors call problematic"
 id: its-single-group-counterfactual-assumption-problematic
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

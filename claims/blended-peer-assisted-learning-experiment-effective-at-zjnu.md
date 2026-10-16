@@ -3,7 +3,7 @@ type: claim
 title: "A descriptive report of a blended online peer-assisted learning community in a Zhejiang Normal University distance-education course asserts, without reported data, that it promoted interpersonal interaction and informal learning"
 description: "A descriptive report of a blended online peer-assisted learning community in a Zhejiang Normal University distance-education course asserts, without reported data, that it promoted interpersonal interaction and informal learning"
 id: blended-peer-assisted-learning-experiment-effective-at-zjnu
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

@@ -2,7 +2,7 @@
 type: theory
 title: "DEIB framework: diversity, equity, inclusion and belonging as interdependent foundations of collaborative learning"
 description: The primer organizes inclusive collaborative learning around four defined terms.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

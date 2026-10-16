@@ -3,7 +3,7 @@ type: claim
 title: Physical access to AI-provided material does not automatically produce epistemological access; facilitation converts one into the other
 description: Physical access to AI-provided material does not automatically produce epistemological access; facilitation converts one into the other
 id: facilitation-converts-physical-to-epistemological-access
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

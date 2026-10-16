@@ -3,7 +3,7 @@ type: strategy
 id: extend-educational-llm-benchmarks-human-in-loop-multiturn
 title: Extend educational LLM benchmarks with broader item formats, human-in-the-loop item curation, and multi-turn evidence-based feedback measures
 description: The authors recommend several concrete next steps for educational LLM benchmarking.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

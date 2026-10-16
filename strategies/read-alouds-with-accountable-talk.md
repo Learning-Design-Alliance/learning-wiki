@@ -65,7 +65,7 @@ The strategy works because oral comprehension outpaces reading comprehension in 
 
 ## Examples
 - **Accountable Talk® framework** (Institute for Learning, University of Pittsburgh) — the source framework, with published talk-toolkits and professional development used district-wide: [https://ifl.pitt.edu](https://ifl.pitt.edu)
-- **Text Talk** (Beck & McKeown) — a published read-aloud program for early grades that interweaves decontextualized discussion questions with vocabulary instruction.
+- **[Text Talk](text-talk.md)** (Beck & McKeown) — a published read-aloud program for early grades that interweaves decontextualized discussion questions with vocabulary instruction.
 - **Interactive read aloud in Units of Study** (Heinemann, Calkins et al.) — read-aloud sessions with planned discussion and turn-and-talk structures.
 
 ## Key Sources

@@ -4,7 +4,7 @@ title: For a 72-arm factorial experiment (five factors with two or three levels 
 description: For a 72-arm factorial experiment (five factors with two or three levels each), a classical experiment requires nearly twice the sample size of a Bayesian experiment for a given MDE
 id: bayesian-72-arm-half-sample-size-classical
 aliases: [seventy-two-arms-classical-double-sample-size]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

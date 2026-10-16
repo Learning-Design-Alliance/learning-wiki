@@ -3,7 +3,7 @@ type: claim
 title: A short strict-grader preamble knocks 14 of 17 open-weights LLM graders out of the graded band on a computer-vision exam, with three stopping grading outright
 description: A short strict-grader preamble knocks 14 of 17 open-weights LLM graders out of the graded band on a computer-vision exam, with three stopping grading outright
 id: llm-grader-strict-persona-collapse
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

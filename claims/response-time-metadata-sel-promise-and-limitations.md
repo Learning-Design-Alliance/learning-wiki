@@ -3,7 +3,7 @@ type: claim
 title: "Using item response time metadata to measure students' social-emotional learning shows both promise and limitations"
 description: "Using item response time metadata to measure students' social-emotional learning shows both promise and limitations"
 id: response-time-metadata-sel-promise-and-limitations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

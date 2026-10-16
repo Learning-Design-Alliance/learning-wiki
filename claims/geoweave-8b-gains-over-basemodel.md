@@ -3,7 +3,7 @@ type: claim
 title: GeoWeave-8B achieves the highest open-source final-answer accuracy and process average on GeoVAD-Bench, gaining 25.3 and 30.4 percentage points over its base model
 description: GeoWeave-8B achieves the highest open-source final-answer accuracy and process average on GeoVAD-Bench, gaining 25.3 and 30.4 percentage points over its base model
 id: geoweave-8b-gains-over-basemodel
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

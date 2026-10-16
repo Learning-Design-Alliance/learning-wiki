@@ -4,7 +4,7 @@ id: datashop
 title: DataShop
 description: DataShop is an online repository and analysis platform created by the Pittsburgh Science of Learning Center for storing, sharing, and analyzing educational learning data.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

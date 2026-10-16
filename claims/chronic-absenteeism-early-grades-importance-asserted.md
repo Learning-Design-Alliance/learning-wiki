@@ -3,7 +3,7 @@ type: claim
 title: The publication asserts that chronic absenteeism in pre-kindergarten and kindergarten is important for districts and school leaders to address
 description: The publication asserts that chronic absenteeism in pre-kindergarten and kindergarten is important for districts and school leaders to address
 id: chronic-absenteeism-early-grades-importance-asserted
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

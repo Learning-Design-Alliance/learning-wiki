@@ -3,7 +3,7 @@ type: claim
 title: Asking the AI tool directly about hidden instructions exposed the prompt injection in all 6 security-check iterations, but the authors caution this is not a robust safeguard
 description: Asking the AI tool directly about hidden instructions exposed the prompt injection in all 6 security-check iterations, but the authors caution this is not a robust safeguard
 id: direct-security-check-exposes-injection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

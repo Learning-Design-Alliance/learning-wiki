@@ -3,7 +3,7 @@ type: claim
 title: Studies on the effectiveness of hypermedia learning have produced ambiguous results
 description: Studies on the effectiveness of hypermedia learning have produced ambiguous results
 id: ambiguous-hypermedia-effectiveness-results
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

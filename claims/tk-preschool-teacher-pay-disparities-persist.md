@@ -3,7 +3,7 @@ type: claim
 title: Large pay disparities persist between TK teachers and other publicly funded preschool teachers, and only San Francisco raised teacher qualifications and compensation at scale
 description: Large pay disparities persist between TK teachers and other publicly funded preschool teachers, and only San Francisco raised teacher qualifications and compensation at scale
 id: tk-preschool-teacher-pay-disparities-persist
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

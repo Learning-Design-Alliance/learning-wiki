@@ -3,7 +3,7 @@ type: claim
 title: African American students are the most mobile group of CPS students, and the gap between them and other students widened after 2000-01, especially at the elementary level
 description: African American students are the most mobile group of CPS students, and the gap between them and other students widened after 2000-01, especially at the elementary level
 id: african-american-mobility-gap-widened
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Completing more skill levels is associated with higher Checkpoint Quiz post-test accuracy, with positive coefficients for Levels 1, 2, and 4
 description: Completing more skill levels is associated with higher Checkpoint Quiz post-test accuracy, with positive coefficients for Levels 1, 2, and 4
 id: leveling-up-associated-checkpoint-quiz-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

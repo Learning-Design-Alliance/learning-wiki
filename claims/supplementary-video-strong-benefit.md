@@ -3,7 +3,7 @@ type: claim
 title: Adding supplementary video to existing teaching produces strong learning benefits (g = 0.88)
 description: Adding supplementary video to existing teaching produces strong learning benefits (g = 0.88)
 id: supplementary-video-strong-benefit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: design
 id: cross-department-state-team-designs-rar
 title: Bring together a cross-department state team to design and deliver a resource allocation review.
 description: "The report's first lesson is that a state education agency should assemble staff from many departments to design and deliver the RAR, including the offices of the superintendent, student support services, teaching and..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

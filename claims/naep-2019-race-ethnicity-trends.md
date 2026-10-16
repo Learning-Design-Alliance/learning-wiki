@@ -3,7 +3,7 @@ type: claim
 title: NAEP scores in 2019 were higher for most racial/ethnic groups in both subjects and grades compared to the early 1990s, but grade 8 reading was lower for all groups except Asian/Pacific Islander students compared to 2017
 description: NAEP scores in 2019 were higher for most racial/ethnic groups in both subjects and grades compared to the early 1990s, but grade 8 reading was lower for all groups except Asian/Pacific Islander students compared to 2017
 id: naep-2019-race-ethnicity-trends
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

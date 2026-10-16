@@ -3,7 +3,7 @@ type: claim
 title: Public schools in the NAZ Zone identified 25 percent of students as homeless or highly mobile in 2008-2009
 description: Public schools in the NAZ Zone identified 25 percent of students as homeless or highly mobile in 2008-2009
 id: naz-schools-25-percent-homeless-highly-mobile
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

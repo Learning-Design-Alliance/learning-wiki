@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25
@@ -101,3 +101,5 @@ A long review that asks, for each of ten study techniques, whether its benefits 
 - [Strong acquisition tasks explicating the organization produce better internalization than weak tasks asking only for a structured summary](strong-acquisition-tasks-improve-internalization.md) — related
 - Deep thinking and making connections help students build strong memories and learn more deeply — related
 - [Summarization, highlighting, the keyword mnemonic, imagery for text, and rereading receive low utility assessments](five-techniques-low-utility.md) — related
+- [Ten-year-old readers predominantly underline subordinate passage details rather than superordinate conceptual material, even when conceptual postquestions focus attention on topic sentences](children-underline-subordinate-details-not-superordinate-material.md) — a narrower finding that bears on this claim
+- [Underlining and adjunct questions may hinder rather than help recall in young readers, reflecting a comprehension rather than a metacomprehension deficit](underlining-adjunct-questions-hinder-young-readers-comprehension-deficit.md) — reports the opposite

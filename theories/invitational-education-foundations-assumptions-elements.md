@@ -2,7 +2,7 @@
 type: theory
 title: "Invitational education theory: three foundations, five assumptions, and five basic elements"
 description: "The article describes invitational education theory as \"a framework to guide teacher and administrator behaviors in school settings.\" IE rests on three foundations: the democratic ethos, the perceptual tradition, and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

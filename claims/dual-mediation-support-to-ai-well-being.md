@@ -3,7 +3,7 @@ type: claim
 title: Social and organizational support relate to AI well-being indirectly through AI literacy and technological self-efficacy
 description: Social and organizational support relate to AI well-being indirectly through AI literacy and technological self-efficacy
 id: dual-mediation-support-to-ai-well-being
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -67,7 +67,7 @@ Group work improves outcomes when it creates genuine interdependence and individ
 
 ## Examples
 - **Jigsaw classroom (Aronson)** — students become experts on one segment in "expert groups," then teach it in mixed "jigsaw groups"; the structure makes each member's contribution indispensable. [https://www.jigsaw.org](https://www.jigsaw.org)
-- **Peer Instruction (Eric Mazur, Harvard physics)** — individual clicker vote, structured peer debate, revote; individual accountability via the initial and final votes.
+- **[Peer Instruction](../patterns/peer-instruction.md) (Eric Mazur, Harvard physics)** — individual clicker vote, structured peer debate, revote; individual accountability via the initial and final votes.
 - **PALS (Peer-Assisted Learning Strategies, Vanderbilt)** — structured reciprocal peer tutoring pairs with scripted roles and point systems in reading and math. [https://iris.peabody.vanderbilt.edu](https://iris.peabody.vanderbilt.edu)
 
 ## Key Sources

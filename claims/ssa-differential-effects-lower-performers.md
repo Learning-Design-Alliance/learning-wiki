@@ -3,7 +3,7 @@ type: claim
 title: SSA works differently for different types of students, with particular challenges in helping lower performers
 description: SSA works differently for different types of students, with particular challenges in helping lower performers
 id: ssa-differential-effects-lower-performers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: "DLP teachers reported more confidence than non-DLP teachers in using technology to develop students' six 21st-century skill categories"
 description: "DLP teachers reported more confidence than non-DLP teachers in using technology to develop students' six 21st-century skill categories"
 id: dlp-teachers-confident-21st-century-skill-technology-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

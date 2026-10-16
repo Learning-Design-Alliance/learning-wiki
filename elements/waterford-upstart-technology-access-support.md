@@ -3,7 +3,7 @@ type: element
 id: waterford-upstart-technology-access-support
 title: Technology access support for participating families
 description: "The program specifies its technology needs and provides access support: \"Families can communicate with Waterford Upstart staff to track their child's progress on a phone or tablet,\" and \"Some families may qualify for..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

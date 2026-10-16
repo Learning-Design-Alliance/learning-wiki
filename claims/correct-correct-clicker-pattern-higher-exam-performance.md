@@ -3,7 +3,7 @@ type: claim
 title: Students answering both clicker votes correctly score significantly higher on isomorphic exam questions than all other vote patterns
 description: Students answering both clicker votes correctly score significantly higher on isomorphic exam questions than all other vote patterns
 id: correct-correct-clicker-pattern-higher-exam-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

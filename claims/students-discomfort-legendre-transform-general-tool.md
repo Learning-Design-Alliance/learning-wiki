@@ -3,7 +3,7 @@ type: claim
 title: Physics students can execute Legendre-transform rules but express discomfort with the transform as a general mathematical tool
 description: Physics students can execute Legendre-transform rules but express discomfort with the transform as a general mathematical tool
 id: students-discomfort-legendre-transform-general-tool
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

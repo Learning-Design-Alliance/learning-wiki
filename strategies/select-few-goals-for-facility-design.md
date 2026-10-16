@@ -3,7 +3,7 @@ type: strategy
 id: select-few-goals-for-facility-design
 title: Select a few goals per course rather than all-inclusive goal statements when designing facilities
 description: The paper recommends that school systems judiciously select some, not all, of the seven goals for each course in the science sequence, because designing for specific methods facilitates appropriate activities with min...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

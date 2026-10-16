@@ -3,7 +3,7 @@ type: claim
 title: "Theoretical perspectives support corrective feedback while contentious issues remain about uptake, instruction, and CF's purpose"
 description: "Theoretical perspectives support corrective feedback while contentious issues remain about uptake, instruction, and CF's purpose"
 id: theoretical-perspectives-cf-uptake-instruction-purpose
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

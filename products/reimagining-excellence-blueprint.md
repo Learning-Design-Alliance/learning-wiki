@@ -4,7 +4,7 @@ id: reimagining-excellence-blueprint
 title: Reimagining Excellence blueprint
 description: A seven-dimension framework from Reimagining Excellence for integrating equity, social-emotional well-being, and academic learning across K–12 in-person, remote, and hybrid programs.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

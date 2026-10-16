@@ -3,7 +3,7 @@ type: claim
 title: "Grade-by-grade adjustment magnitudes: removing retained students raises third grade scores about one month in reading and half a month in math, while adjusted fourth grade scores fall about two months in reading and one and a half months in math"
 description: "Grade-by-grade adjustment magnitudes: removing retained students raises third grade scores about one month in reading and half a month in math, while adjusted fourth grade scores fall about two months in reading and o..."
 id: grade-specific-adjustment-magnitudes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

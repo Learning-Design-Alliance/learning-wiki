@@ -3,7 +3,7 @@ type: claim
 title: About half of CPS students do not live within the neighborhood zone of any magnet elementary school
 description: About half of CPS students do not live within the neighborhood zone of any magnet elementary school
 id: half-cps-students-outside-magnet-neighborhood-zones
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

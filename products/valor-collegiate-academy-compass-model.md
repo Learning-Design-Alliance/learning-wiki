@@ -4,7 +4,7 @@ id: valor-collegiate-academy-compass-model
 title: Valor Collegiate Academy Compass Model
 description: "Valor Collegiate Academy's whole-school SEL and mental-health programme uses five interdependent domains, developmental badges, and weekly mentor-facilitated Compass Circles for students in Grades 5–12."
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "The ICAP hypothesis predicts that learning increases as engagement moves from passive to active to constructive to interactive (I>C>A>P)"
 description: "The ICAP hypothesis predicts that learning increases as engagement moves from passive to active to constructive to interactive (I>C>A>P)"
 id: icap-hypothesis-learning-increases-i-cap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

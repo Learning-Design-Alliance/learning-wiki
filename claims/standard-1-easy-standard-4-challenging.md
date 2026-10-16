@@ -3,7 +3,7 @@ type: claim
 title: Standard 1 (knowing students) was attained relatively easily by all groups except the Novice group, while Standard 4 (supportive and safe environments) proved most challenging
 description: Standard 1 (knowing students) was attained relatively easily by all groups except the Novice group, while Standard 4 (supportive and safe environments) proved most challenging
 id: standard-1-easy-standard-4-challenging
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

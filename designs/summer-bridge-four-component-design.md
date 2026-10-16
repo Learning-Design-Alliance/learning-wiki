@@ -3,7 +3,7 @@ type: design
 id: summer-bridge-four-component-design
 title: Summer bridge programs combine orientation, advising, college-success skills training, and accelerated coursework in the 2–4 week bridge period
 description: Summer bridge programs occur in the summer period between high school and college and, although content varies across institutions and populations, share a characteristic multi-component design.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

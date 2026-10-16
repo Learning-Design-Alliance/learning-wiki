@@ -3,7 +3,7 @@ type: claim
 title: Middle school SEL shows normative decline in self-efficacy and self-management but an increase in growth mindset
 description: Middle school SEL shows normative decline in self-efficacy and self-management but an increase in growth mindset
 id: sel-trajectory-trends-middle-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

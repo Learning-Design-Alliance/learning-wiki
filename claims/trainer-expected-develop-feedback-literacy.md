@@ -3,7 +3,7 @@ type: claim
 title: The Trainer is expected to develop feedback literacy capacities
 description: The Trainer is expected to develop feedback literacy capacities
 id: trainer-expected-develop-feedback-literacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

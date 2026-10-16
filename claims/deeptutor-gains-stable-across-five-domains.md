@@ -3,7 +3,7 @@ type: claim
 title: "DeepTutor's interactive tutoring gains are stable across five university-level domains, varying only 0.16 points in overall quality"
 description: "DeepTutor's interactive tutoring gains are stable across five university-level domains, varying only 0.16 points in overall quality"
 id: deeptutor-gains-stable-across-five-domains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

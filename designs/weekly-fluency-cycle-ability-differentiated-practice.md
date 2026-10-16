@@ -3,7 +3,7 @@ type: design
 id: weekly-fluency-cycle-ability-differentiated-practice
 title: Weekly instructional cycle combining whole-class fluency instruction with ability-differentiated small-group practice
 description: "The program organizes instruction as a five-day weekly cycle: \"The first two days of each instructional week are devoted to direct instruction and guided practice activities for the whole class\" focused on fluent read..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-07

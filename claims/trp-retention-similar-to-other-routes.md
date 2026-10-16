@@ -3,7 +3,7 @@ type: claim
 title: "Novice TRP teachers' district retention rates are roughly the same as those of teachers entering through other preparation programs"
 description: "Novice TRP teachers' district retention rates are roughly the same as those of teachers entering through other preparation programs"
 id: trp-retention-similar-to-other-routes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: element
 id: chart-generic-instructional-formats-learning-outcomes
 title: "Chart No. 1: eight generic instructional formats mapped to generic learning outcomes from a mastery viewpoint"
 description: Chart No.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

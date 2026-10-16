@@ -3,7 +3,7 @@ type: claim
 title: Students spontaneously use language and metaphors of addiction to describe their AI use, framed as loss of control rather than enjoyment
 description: Students spontaneously use language and metaphors of addiction to describe their AI use, framed as loss of control rather than enjoyment
 id: addiction-metaphors-ai-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

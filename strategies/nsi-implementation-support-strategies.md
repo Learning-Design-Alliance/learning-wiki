@@ -3,7 +3,7 @@ type: strategy
 id: nsi-implementation-support-strategies
 title: Support deep CI implementation through capacity inventories, gradual-release coaching, structured collaboration opportunities, and student voice
 description: "The report's implications section recommends actions for intermediaries and school system leaders pursuing networked continuous improvement."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

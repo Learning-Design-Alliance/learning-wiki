@@ -3,7 +3,7 @@ type: claim
 title: Post-shift satisfaction was lower for STEM courses than for non-STEM courses, a gap that predated the shift
 description: Post-shift satisfaction was lower for STEM courses than for non-STEM courses, a gap that predated the shift
 id: stem-less-satisfied-than-non-stem-post-shift
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

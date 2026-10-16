@@ -3,7 +3,7 @@ type: claim
 title: Some AI tools can inhibit productive struggle by reducing cognitive effort when they automate processes students would otherwise reason through
 description: Some AI tools can inhibit productive struggle by reducing cognitive effort when they automate processes students would otherwise reason through
 id: ai-automation-reduces-productive-struggle
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

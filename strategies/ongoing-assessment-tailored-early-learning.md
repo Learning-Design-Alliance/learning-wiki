@@ -3,7 +3,7 @@ type: strategy
 id: ongoing-assessment-tailored-early-learning
 title: Use ongoing assessments to tailor early-childhood learning experiences
 description: "The program emphasizes data-informed instruction: teachers use ongoing assessments to tailor learning experiences to individual children rather than delivering a fixed sequence."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: element
 id: dialogic-reading-practice-crowd-peer
 title: "Dialogic reading: interactive shared picture-book reading with CROWD prompts and the PEER sequence"
 description: "Dialogic reading is \"an interactive shared picture-book reading practice designed to enhance young children's language and literacy skills\" in which adult and child switch roles so the child becomes the storyteller."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

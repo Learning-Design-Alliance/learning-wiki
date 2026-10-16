@@ -3,7 +3,7 @@ type: claim
 title: Cognitive, emotional, and social skills should be taught alongside content because learning is integrated in the brain
 description: Cognitive, emotional, and social skills should be taught alongside content because learning is integrated in the brain
 id: integrated-skills-habits-mindsets-instruction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

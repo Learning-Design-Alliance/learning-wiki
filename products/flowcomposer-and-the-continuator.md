@@ -4,7 +4,7 @@ id: flowcomposer-and-the-continuator
 title: FlowComposer and the Continuator
 description: Interactive AI music-composition assistants developed by François Pachet and collaborators at Sony CSL-Paris for constrained score-based composition and real-time style-based improvisation.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

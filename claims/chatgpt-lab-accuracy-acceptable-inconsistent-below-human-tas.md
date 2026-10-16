@@ -3,7 +3,7 @@ type: claim
 title: "SMEs rated ChatGPT's content accuracy acceptable but inconsistent across questions and significantly below human TAs' accuracy"
 description: "SMEs rated ChatGPT's content accuracy acceptable but inconsistent across questions and significantly below human TAs' accuracy"
 id: chatgpt-lab-accuracy-acceptable-inconsistent-below-human-tas
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

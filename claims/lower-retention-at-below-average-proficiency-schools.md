@@ -3,7 +3,7 @@ type: claim
 title: Proportionally fewer principals remained at lower-performing schools than at higher-performing schools across all three states (three-year retention)
 description: Proportionally fewer principals remained at lower-performing schools than at higher-performing schools across all three states (three-year retention)
 id: lower-retention-at-below-average-proficiency-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

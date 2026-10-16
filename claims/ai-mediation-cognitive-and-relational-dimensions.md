@@ -3,7 +3,7 @@ type: claim
 title: Participants in a probe study and co-design workshop perceived AI mediation in interdisciplinary student teams along both cognitive and relational dimensions
 description: Participants in a probe study and co-design workshop perceived AI mediation in interdisciplinary student teams along both cognitive and relational dimensions
 id: ai-mediation-cognitive-and-relational-dimensions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

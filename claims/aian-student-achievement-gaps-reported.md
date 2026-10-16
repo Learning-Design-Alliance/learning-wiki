@@ -3,7 +3,7 @@ type: claim
 title: AI/AN students perform lower than other student subpopulations on common academic measures, per statistics the report cites from the Education Trust
 description: AI/AN students perform lower than other student subpopulations on common academic measures, per statistics the report cites from the Education Trust
 id: aian-student-achievement-gaps-reported
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

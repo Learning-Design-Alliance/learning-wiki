@@ -3,7 +3,7 @@ type: claim
 title: "Transparency features are shown but seldom consulted: cited sources in AI summaries were clicked in only 1% of visits"
 description: "Transparency features are shown but seldom consulted: cited sources in AI summaries were clicked in only 1% of visits"
 id: passive-transparency-seldom-consulted
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

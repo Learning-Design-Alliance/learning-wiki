@@ -3,7 +3,7 @@ type: element
 id: af-uncommon-nyc-charter-middle-schools-element
 title: Achievement First and Uncommon-affiliated New York City charter middle schools
 description: A small number of New York City charter middle schools affiliated with two charter management organizations, Achievement First and Uncommon, were the subject of this Mathematica Policy Research analysis.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

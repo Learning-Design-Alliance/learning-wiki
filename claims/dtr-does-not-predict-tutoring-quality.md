@@ -3,7 +3,7 @@ type: claim
 title: DTR (Deep-Thinking Ratio) does not predict tutoring quality despite predicting math accuracy
 description: DTR (Deep-Thinking Ratio) does not predict tutoring quality despite predicting math accuracy
 id: dtr-does-not-predict-tutoring-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

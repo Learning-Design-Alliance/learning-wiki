@@ -3,7 +3,7 @@ type: claim
 title: Prior studies of discipline disparities were limited by a selection challenge that prevented identifying discrimination
 description: Prior studies of discipline disparities were limited by a selection challenge that prevented identifying discrimination
 id: selection-challenge-limited-prior-discipline-studies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

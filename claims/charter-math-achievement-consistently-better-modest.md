@@ -3,7 +3,7 @@ type: claim
 title: Charter school students perform consistently better on standardized mathematics achievement measures than traditional public school peers, with modest differences
 description: Charter school students perform consistently better on standardized mathematics achievement measures than traditional public school peers, with modest differences
 id: charter-math-achievement-consistently-better-modest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

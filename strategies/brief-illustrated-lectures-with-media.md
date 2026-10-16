@@ -3,7 +3,7 @@ type: strategy
 id: brief-illustrated-lectures-with-media
 title: Brief lectures on intellectual history illustrated with films, records, and print excerpts
 description: The teaching strategies section prescribes a sequence of brief lectures, each on one intellectual or artistic development and each illustrated with named films, records, slides, or print excerpts.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: ITBS and ISAT scores are highly correlated among CPS students in reading (r = 0.83 to 0.85) and mathematics (r = 0.86 to 0.87)
 description: ITBS and ISAT scores are highly correlated among CPS students in reading (r = 0.83 to 0.85) and mathematics (r = 0.86 to 0.87)
 id: itbs-isat-highly-correlated-cps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

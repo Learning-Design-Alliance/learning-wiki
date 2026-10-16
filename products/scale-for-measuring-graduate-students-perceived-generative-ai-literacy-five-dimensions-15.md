@@ -4,7 +4,7 @@ id: scale-for-measuring-graduate-students-perceived-generative-ai-literacy-five-
 title: "Scale for measuring graduate students' perceived generative AI literacy (five dimensions, 15 indicators)"
 description: A validated 15-indicator self-report scale developed by Zhi et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

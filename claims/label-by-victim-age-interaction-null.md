@@ -3,7 +3,7 @@ type: claim
 title: The interaction of label type and victim age did not significantly affect public perceptions of individuals who sexually offend
 description: The interaction of label type and victim age did not significantly affect public perceptions of individuals who sexually offend
 id: label-by-victim-age-interaction-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

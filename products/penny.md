@@ -4,7 +4,7 @@ id: penny
 title: Penny
 description: "Penny is a GPT-4o-powered chatbot developed by Steve Woollaston and colleagues to support Japanese junior-high EFL learners' English writing practice through structured corrective feedback."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

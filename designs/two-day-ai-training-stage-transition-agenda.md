@@ -3,7 +3,7 @@ type: design
 id: two-day-ai-training-stage-transition-agenda
 title: Two-day intensive training agenda sequenced to move learners from Stage 0 through Stage 4 transitions
 description: "Table 5 maps each activity of the 2-day hands-on AI/LLM training to the stage transition it facilitates: demystification of platforms moves Stage 0 to 1; hands-on API use, local model deployment, and RAG-based verific..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10
@@ -49,4 +49,4 @@ Table 5 maps each activity of the 2-day hands-on AI/LLM training to the stage tr
 -
 
 ## Key Sources
-- Liu, J. P., & Levy, R. (2026). Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education. North Carolina State University.
+- Liu, J. P., & Levy, R. (2026). Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education. North Carolina State University. [doi:10.48550/arxiv.2606.00038](https://doi.org/10.48550/arxiv.2606.00038)

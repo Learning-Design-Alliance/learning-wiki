@@ -3,7 +3,7 @@ type: strategy
 id: early-warning-system-with-tiered-culturally-responsive-supports
 title: Use postsecondary readiness indicators in an early warning system and combine cultural responsiveness with tiered interventions to address disparities
 description: The report recommends that Arkansas integrate the studied indicators into an early warning system or student success plans to systematically identify students needing extra support, and that leaders address disparitie...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

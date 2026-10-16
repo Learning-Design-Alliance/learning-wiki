@@ -3,7 +3,7 @@ type: claim
 title: CPS elementary school productivity improvements stalled after 1997, with no evidence of significant productivity growth since then
 description: CPS elementary school productivity improvements stalled after 1997, with no evidence of significant productivity growth since then
 id: cps-productivity-improvements-stalled-after-1997
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

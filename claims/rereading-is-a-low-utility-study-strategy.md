@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Rereading Is A Low Utility Study Strategy
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

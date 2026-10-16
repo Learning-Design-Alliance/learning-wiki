@@ -3,7 +3,7 @@ type: claim
 title: Within-person increases in student trust in AI teaching assistants predict subsequent within-person increases in perceived fairness, with ability trust the strongest antecedent
 description: Within-person increases in student trust in AI teaching assistants predict subsequent within-person increases in perceived fairness, with ability trust the strongest antecedent
 id: within-person-trust-predicts-subsequent-fairness-aita
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

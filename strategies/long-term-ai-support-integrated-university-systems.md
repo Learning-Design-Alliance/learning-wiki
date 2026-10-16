@@ -3,7 +3,7 @@ type: strategy
 id: long-term-ai-support-integrated-university-systems
 title: Design AI-powered support for international students that integrates with university systems and helps sustain community for long-term use
 description: Based on survey and interview findings, the authors recommend moving AI support beyond short-term help toward long-term companionship.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -51,4 +51,4 @@ Based on survey and interview findings, the authors recommend moving AI support 
 -
 
 ## Key Sources
-- Nourian, L.; Callis, A.; Patterson, S.; Miao, J.; Heard, J.; Tigwell, G. W. (2026). Understanding How International Students in the U.S. Are Using Conversational AI to Support Cross-Cultural Adaptation. arXiv. https://arxiv.org/abs/2605.15127
+- Nourian, L.; Callis, A.; Patterson, S.; Miao, J.; Heard, J.; Tigwell, G. W. (2026). Understanding How International Students in the U.S. Are Using Conversational AI to Support Cross-Cultural Adaptation. arXiv. https://arxiv.org/abs/2605.15127. [doi:10.48550/arxiv.2605.15127](https://doi.org/10.48550/arxiv.2605.15127)

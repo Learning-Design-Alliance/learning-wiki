@@ -3,7 +3,7 @@ type: claim
 title: Bias and RMSE of ability estimates are larger for on-grade item pools than for ±1-grade and all-grade pools across content areas and simulee types
 description: Bias and RMSE of ability estimates are larger for on-grade item pools than for ±1-grade and all-grade pools across content areas and simulee types
 id: on-grade-pools-larger-bias-rmse
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

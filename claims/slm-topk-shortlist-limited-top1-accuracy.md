@@ -3,7 +3,7 @@ type: claim
 title: Fine-tuned SLMs retrieve the correct concept within a top-K shortlist but have limited top-1 accuracy
 description: Fine-tuned SLMs retrieve the correct concept within a top-K shortlist but have limited top-1 accuracy
 id: slm-topk-shortlist-limited-top1-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

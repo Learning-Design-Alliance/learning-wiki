@@ -3,7 +3,7 @@ type: claim
 title: GPT-4 generated detailed per-response feedback that was useful for identifying scoring errors and could support personalized student feedback
 description: GPT-4 generated detailed per-response feedback that was useful for identifying scoring errors and could support personalized student feedback
 id: gpt4-feedback-useful-for-error-identification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

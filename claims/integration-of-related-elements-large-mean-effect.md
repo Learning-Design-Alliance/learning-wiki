@@ -3,7 +3,7 @@ type: claim
 title: Integrating spatially or temporally separated but related elements of instructional information produces a large average learning benefit for novices
 description: Integrating spatially or temporally separated but related elements of instructional information produces a large average learning benefit for novices
 id: integration-of-related-elements-large-mean-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

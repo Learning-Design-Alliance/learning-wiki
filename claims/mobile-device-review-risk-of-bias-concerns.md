@@ -3,7 +3,7 @@ type: claim
 title: Most included studies carry risk of bias concerns, requiring cautious interpretation of the pooled effect
 description: Most included studies carry risk of bias concerns, requiring cautious interpretation of the pooled effect
 id: mobile-device-review-risk-of-bias-concerns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

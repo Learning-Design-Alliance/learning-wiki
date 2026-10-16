@@ -3,7 +3,7 @@ type: claim
 title: State leadership initiatives most commonly take the form of cohort-based academies or institutes serving principals, with other roles served less often
 description: State leadership initiatives most commonly take the form of cohort-based academies or institutes serving principals, with other roles served less often
 id: initiative-forms-and-roles-served
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

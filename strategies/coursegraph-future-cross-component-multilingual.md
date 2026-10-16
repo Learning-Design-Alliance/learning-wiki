@@ -3,7 +3,7 @@ type: strategy
 id: coursegraph-future-cross-component-multilingual
 title: "Future directions: cross-component comparisons and multilingual embeddings for course overlap"
 description: The authors outline extensions to CourseGraph in the discussion.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

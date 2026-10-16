@@ -3,7 +3,7 @@ type: claim
 title: Eligibility for Title I public school choice grew fourfold, reaching 6.9 million students in 2006-2007
 description: Eligibility for Title I public school choice grew fourfold, reaching 6.9 million students in 2006-2007
 id: title-i-choice-eligibility-fourfold-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

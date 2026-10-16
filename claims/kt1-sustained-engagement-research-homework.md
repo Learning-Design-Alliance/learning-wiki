@@ -3,7 +3,7 @@ type: claim
 title: In an AI-permitted course with research-shaped homework, most students remained engaged throughout, with 33 of 42 earning credit on at least eight of ten sheets
 description: In an AI-permitted course with research-shaped homework, most students remained engaged throughout, with 33 of 42 earning credit on at least eight of ten sheets
 id: kt1-sustained-engagement-research-homework
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

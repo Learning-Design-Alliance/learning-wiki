@@ -3,7 +3,7 @@ type: strategy
 id: sycophancy-specific-critical-prompting-strategies
 title: Train learners in sycophancy-specific critical prompting strategies that remove personal assumptions, request critical evaluation, and ask for supporting evidence
 description: The experimental intervention delivered video training fostering metacognitive monitoring of AI agreement and user bias, along with five sycophancy-specific critical prompting strategies.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

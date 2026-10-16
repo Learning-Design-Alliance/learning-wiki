@@ -3,7 +3,7 @@ type: claim
 title: Random measurement noise in pretest scores produces a negative contribution to the correlation between normalized gain and pretest score
 description: Random measurement noise in pretest scores produces a negative contribution to the correlation between normalized gain and pretest score
 id: measurement-noise-negative-gain-pretest-correlation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

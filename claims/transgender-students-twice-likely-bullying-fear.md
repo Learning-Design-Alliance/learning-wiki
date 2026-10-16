@@ -3,7 +3,7 @@ type: claim
 title: Transgender students are more than twice as likely as non-transgender peers to report bullying, harassment, and fear of physical violence
 description: Transgender students are more than twice as likely as non-transgender peers to report bullying, harassment, and fear of physical violence
 id: transgender-students-twice-likely-bullying-fear
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

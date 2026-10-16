@@ -3,7 +3,7 @@ type: claim
 title: Comment revision effort concentrates on Multi-Step-Block and other procedural constructs, with the widest flows ending in Heavy Modification
 description: Comment revision effort concentrates on Multi-Step-Block and other procedural constructs, with the widest flows ending in Heavy Modification
 id: revision-hotspots-multi-step-block-heavy-modification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

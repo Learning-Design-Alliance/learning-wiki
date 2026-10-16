@@ -2,7 +2,7 @@
 type: theory
 title: "Three-phase model of learning in the brain: encoding, consolidation, retrieval"
 description: "The resource organizes its account of learning around three brain phases: encoding, described as \"transforming experience into long-term memory\", consolidation as \"storing and maintaining information over time\", and r..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

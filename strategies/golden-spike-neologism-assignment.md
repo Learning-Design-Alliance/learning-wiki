@@ -3,7 +3,7 @@ type: strategy
 id: golden-spike-neologism-assignment
 title: Task students with proposing a neologism and a golden spike placement to expose the rhetoricity of historicizing the Anthropocene
 description: "In this assignment, students forward a unique neologism and advocate a placement for the golden spike, \"a stratigraphic marker designating epochal transformation.\" By arguing for a particular placement, students study..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

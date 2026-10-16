@@ -3,7 +3,7 @@ type: claim
 title: AI proficiency partially mediates the association between course development satisfaction and self-reported psychological adjustment (indirect effect = 0.124)
 description: AI proficiency partially mediates the association between course development satisfaction and self-reported psychological adjustment (indirect effect = 0.124)
 id: ai-proficiency-partial-mediation-adjustment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

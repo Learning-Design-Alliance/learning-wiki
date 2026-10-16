@@ -2,7 +2,7 @@
 type: theory
 title: Support-and-scaffolding framework of five design principles for adult learner technology
 description: "The brief organizes its recommendations as a framework of five key design principles drawn from instructional strategy research: focused lessons, visual learning, easily accessible resources, learner-instructor commun..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

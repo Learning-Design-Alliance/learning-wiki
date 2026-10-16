@@ -3,7 +3,7 @@ type: claim
 title: The quality of elaborative-interrogation answers had little effect on retention; even failed or inadequate why-answers facilitated learning relative to reading
 description: The quality of elaborative-interrogation answers had little effect on retention; even failed or inadequate why-answers facilitated learning relative to reading
 id: response-quality-little-effect-on-elaborative-interrogation-retention
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

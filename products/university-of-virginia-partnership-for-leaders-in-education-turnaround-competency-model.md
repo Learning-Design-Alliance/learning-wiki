@@ -4,7 +4,7 @@ id: university-of-virginia-partnership-for-leaders-in-education-turnaround-compe
 title: University of Virginia Partnership for Leaders in Education turnaround competency model
 description: A seven-competency, four-level proficiency framework developed by the University of Virginia Partnership for Leaders in Education to assess and develop school leaders in turnaround contexts.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

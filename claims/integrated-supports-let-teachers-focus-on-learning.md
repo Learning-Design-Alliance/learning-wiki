@@ -3,7 +3,7 @@ type: claim
 title: Teachers reported that integrated community school supports allowed them to prioritize student-centered learning opportunities
 description: Teachers reported that integrated community school supports allowed them to prioritize student-centered learning opportunities
 id: integrated-supports-let-teachers-focus-on-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

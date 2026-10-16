@@ -3,7 +3,7 @@ type: claim
 title: AI anxiety predicts job search anxiety after controlling for socio-demographic variables
 description: AI anxiety predicts job search anxiety after controlling for socio-demographic variables
 id: ai-anxiety-predicts-job-search-anxiety-beyond-demographics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Deeper processing of target language improves lexical retention and long-term learning
 description: Deeper processing of target language improves lexical retention and long-term learning
 id: depth-of-processing-improves-l2-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

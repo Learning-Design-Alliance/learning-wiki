@@ -4,7 +4,7 @@ id: new-york-city-middle-school-student-safety-survey-panel-dataset
 title: New York City middle school student safety survey panel dataset
 description: A panel dataset compiled from New York City Department of Education middle-school student safety surveys, containing annual safety perceptions for more than 340,000 students across more than 700 schools from 2007 to 2010.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

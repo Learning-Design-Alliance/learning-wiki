@@ -3,7 +3,7 @@ type: claim
 title: Students used visualizations to verify their own reasoning rather than as primary explanation tools, valuing control over their cognitive effort (agency)
 description: Students used visualizations to verify their own reasoning rather than as primary explanation tools, valuing control over their cognitive effort (agency)
 id: agency-control-over-cognitive-effort
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

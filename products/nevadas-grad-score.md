@@ -4,7 +4,7 @@ id: nevadas-grad-score
 title: "Nevada's GRAD score"
 description: "A machine-learning-generated student at-risk indicator run through Nevada's Infinite Campus system and used by the Nevada Department of Education in its school funding formula."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

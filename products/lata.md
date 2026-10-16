@@ -4,7 +4,7 @@ id: lata
 title: LaTA
 description: LaTA is an open-source, on-premises four-stage LLM autograder for LaTeX-native STEM coursework, developed for instructor-managed automated grading and feedback.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

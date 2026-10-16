@@ -3,7 +3,7 @@ type: claim
 title: "College completion among CPS 2017 immediate enrollees shows large disparities by race/ethnicity and gender, with fewer than one-third of Black and Latino young men completing a bachelor's degree"
 description: "College completion among CPS 2017 immediate enrollees shows large disparities by race/ethnicity and gender, with fewer than one-third of Black and Latino young men completing a bachelor's degree"
 id: cps-2017-completion-disparities-race-gender
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

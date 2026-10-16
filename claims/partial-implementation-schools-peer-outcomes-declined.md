@@ -3,7 +3,7 @@ type: claim
 title: In schools that did not fully implement the district-level suspension reform, peer math achievement declined and attendance decreased
 description: In schools that did not fully implement the district-level suspension reform, peer math achievement declined and attendance decreased
 id: partial-implementation-schools-peer-outcomes-declined
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

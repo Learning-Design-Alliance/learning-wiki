@@ -3,7 +3,7 @@ type: claim
 title: A 1966 conceptual paper reports, citing earlier programmed-instruction work, that a rule-example-incomplete-example sequence appeared efficient for introducing a new rule
 description: "A 1966 conceptual paper reports, citing earlier programmed-instruction work, that a rule-example-incomplete-example sequence appeared efficient for introducing a new rule"
 id: rule-example-sequence-efficient-rule-introduction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: strategy
 id: ai-literacy-in-tpack-technology-component
 title: Include AI literacy in the technology component of TPACK to address bias, hallucinations, and critical thinking with generative AI
 description: "The review reports that researchers in study A7 recommended \"including artificial intelligence literacy in the Technology component of TPACK\" to address risks such as \"critical thinking, prejudices and hallucinations\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

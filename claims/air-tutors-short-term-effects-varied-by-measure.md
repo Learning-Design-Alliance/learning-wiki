@@ -3,7 +3,7 @@ type: claim
 title: In the prior 2025 evaluation, Air Tutors showed positive short-term benchmark gains at sufficient dosage but negative short-term statewide effects in the full sample
 description: In the prior 2025 evaluation, Air Tutors showed positive short-term benchmark gains at sufficient dosage but negative short-term statewide effects in the full sample
 id: air-tutors-short-term-effects-varied-by-measure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

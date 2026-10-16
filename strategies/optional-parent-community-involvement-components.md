@@ -3,7 +3,7 @@ type: strategy
 id: optional-parent-community-involvement-components
 title: Extend character education beyond the classroom with optional parental and community involvement components
 description: The program supplements classroom lessons with optional family and community engagement materials.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

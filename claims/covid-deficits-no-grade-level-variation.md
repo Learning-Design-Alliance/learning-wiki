@@ -3,7 +3,7 @@ type: claim
 title: No evidence that COVID-19 learning deficits differ between primary and secondary students
 description: No evidence that COVID-19 learning deficits differ between primary and secondary students
 id: covid-deficits-no-grade-level-variation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

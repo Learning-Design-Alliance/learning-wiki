@@ -3,7 +3,7 @@ type: strategy
 id: readers-theater-nine-step-efl-sequence
 title: "Implement Reader's Theater in EFL classrooms through a nine-step sequence from text selection to adaptation"
 description: "The review lays out Lekwilai's (2014) suggested guidelines for applying Reader's Theater in EFL classrooms: text selection suited to students' interest and reading level, modeling fluency, group discussion of plot and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

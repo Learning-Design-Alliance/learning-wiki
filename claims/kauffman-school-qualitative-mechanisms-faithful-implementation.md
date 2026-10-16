@@ -3,7 +3,7 @@ type: claim
 title: "Qualitative evidence indicates the Kauffman School's hallmarks were implemented faithfully and stakeholders believed its methods positively influenced students' attitudes and performance"
 description: "Qualitative evidence indicates the Kauffman School's hallmarks were implemented faithfully and stakeholders believed its methods positively influenced students' attitudes and performance"
 id: kauffman-school-qualitative-mechanisms-faithful-implementation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

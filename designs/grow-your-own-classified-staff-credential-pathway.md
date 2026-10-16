@@ -3,7 +3,7 @@ type: design
 id: grow-your-own-classified-staff-credential-pathway
 title: Grow-Your-Own credential pathway for classified staff
 description: "One LEA implemented a Grow-Your-Own program \"structured to set up pathways for classified staff to earn credentials—in part because classified staff in the LEA are, on the whole, more diverse than classroom teachers.\"..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

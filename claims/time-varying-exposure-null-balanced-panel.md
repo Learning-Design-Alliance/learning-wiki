@@ -3,7 +3,7 @@ type: claim
 title: Time-varying educational ChatGPT exposure shows no significant effect on high school test scores in the balanced panel; significant unbalanced-panel results are not robust
 description: Time-varying educational ChatGPT exposure shows no significant effect on high school test scores in the balanced panel; significant unbalanced-panel results are not robust
 id: time-varying-exposure-null-balanced-panel
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

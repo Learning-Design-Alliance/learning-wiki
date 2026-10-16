@@ -3,7 +3,7 @@ type: claim
 title: By spring 2022, Pennsylvania grades 5–8 math proficiency had regained nearly 5 points of a 13-point drop relative to rates predicted for 2021
 description: By spring 2022, Pennsylvania grades 5–8 math proficiency had regained nearly 5 points of a 13-point drop relative to rates predicted for 2021
 id: pennsylvania-2022-math-proficiency-regained-nearly-five-of-thirteen-points
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: The value-conflict taxonomy is applied to student rating of teaching at the University of Salzburg, surfacing conflicts such as bandwidth vs. fidelity
 description: The value-conflict taxonomy is applied to student rating of teaching at the University of Salzburg, surfacing conflicts such as bandwidth vs.
 id: taxonomy-applied-salzburg-student-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

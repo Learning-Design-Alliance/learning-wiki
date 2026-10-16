@@ -3,7 +3,7 @@ type: claim
 title: Elementary candidates have lower TPA passing rates than secondary and special education candidates, possibly due to added assessment complexity
 description: Elementary candidates have lower TPA passing rates than secondary and special education candidates, possibly due to added assessment complexity
 id: elementary-candidates-lower-tpa-passing-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

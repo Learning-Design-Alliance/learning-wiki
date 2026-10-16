@@ -3,7 +3,7 @@ type: claim
 title: LearnMate2 improved learning outcomes and user experience compared to a baseline combining an online learning platform and an LLM in a user study (n=16)
 description: LearnMate2 improved learning outcomes and user experience compared to a baseline combining an online learning platform and an LLM in a user study (n=16)
 id: learnmate2-final-study-improved-outcomes-experience
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

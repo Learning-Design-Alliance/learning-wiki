@@ -3,7 +3,7 @@ type: design
 id: mlme-pyramid-scaffolded-hierarchy
 title: Five-level pyramid hierarchy for AI-integrated engineering curricula based on scaffolded instruction
 description: The MLME course is organized as a pyramid representing scaffolded instruction, in which guidance is gradually reduced as students gain mastery.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

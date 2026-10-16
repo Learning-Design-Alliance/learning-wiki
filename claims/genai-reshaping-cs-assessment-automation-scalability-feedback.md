@@ -3,7 +3,7 @@ type: claim
 title: GenAI is reshaping assessment practices in computer science education through automation, scalability, and personalized feedback
 description: GenAI is reshaping assessment practices in computer science education through automation, scalability, and personalized feedback
 id: genai-reshaping-cs-assessment-automation-scalability-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

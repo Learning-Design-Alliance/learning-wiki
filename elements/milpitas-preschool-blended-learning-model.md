@@ -3,7 +3,7 @@ type: element
 id: milpitas-preschool-blended-learning-model
 title: Blended learning model in Milpitas preschool classrooms
 description: "In 2012–2013 both child development centers began using \"a blended learning model..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

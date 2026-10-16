@@ -3,7 +3,7 @@ type: claim
 title: GPT-4 detected 45 PII words that human coders failed to redact across all nine courses
 description: GPT-4 detected 45 PII words that human coders failed to redact across all nine courses
 id: gpt4-detects-pii-missed-by-human-coders
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

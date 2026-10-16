@@ -3,7 +3,7 @@ type: claim
 title: Using predictive analytics while ignoring teacher knowledge may misidentify students at risk of dropping out and negatively influence teacher views
 description: Using predictive analytics while ignoring teacher knowledge may misidentify students at risk of dropping out and negatively influence teacher views
 id: ignoring-teacher-knowledge-misidentifies-risk-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

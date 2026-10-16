@@ -3,7 +3,7 @@ type: element
 id: cps-graduate-enrollment-unemployment-data
 title: Current Population Survey graduate enrollment data with statewide unemployment measures
 description: "The study's data infrastructure consists of graduate school enrollment records from the Current Population Survey combined with statewide unemployment rates measured across time."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

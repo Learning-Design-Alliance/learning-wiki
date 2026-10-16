@@ -3,7 +3,7 @@ type: claim
 title: Gardner holds intelligences are not interchangeable, so one intelligence cannot substitute for another in learning a domain
 description: Gardner holds intelligences are not interchangeable, so one intelligence cannot substitute for another in learning a domain
 id: intelligences-not-interchangeable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

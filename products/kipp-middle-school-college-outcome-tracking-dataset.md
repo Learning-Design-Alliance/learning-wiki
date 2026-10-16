@@ -4,7 +4,7 @@ id: kipp-middle-school-college-outcome-tracking-dataset
 title: KIPP middle school college-outcome tracking dataset
 description: A dataset compiled by Thomas Coen and colleagues tracking 1,177 applicants to 13 oversubscribed KIPP middle schools through admissions lotteries and subsequent college enrollment and persistence outcomes.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

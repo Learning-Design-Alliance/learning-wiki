@@ -3,7 +3,7 @@ type: claim
 title: Higher education students struggle to identify appropriate data representations for AI model training
 description: Higher education students struggle to identify appropriate data representations for AI model training
 id: students-struggle-data-representation-ai-training
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

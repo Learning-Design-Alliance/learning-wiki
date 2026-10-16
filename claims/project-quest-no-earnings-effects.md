@@ -3,7 +3,7 @@ type: claim
 title: Project QUEST shows no discernible effects on short-term, medium-term, and long-term earnings
 description: Project QUEST shows no discernible effects on short-term, medium-term, and long-term earnings
 id: project-quest-no-earnings-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

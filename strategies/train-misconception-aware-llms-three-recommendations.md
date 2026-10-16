@@ -3,7 +3,7 @@ type: strategy
 id: train-misconception-aware-llms-three-recommendations
 title: Train misconception-aware LLMs by mixing correct data for student models, aggregating multi-source data for tutor models, and always including step-level supervision
 description: "The article distills its acquisition-dynamics findings into three practical recommendations for training misconception-aware LLMs while preserving correct reasoning: \"mix correct data for the student model, aggregate..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

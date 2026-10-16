@@ -3,7 +3,7 @@ type: claim
 title: Student-agent interaction featured a significant Query-Evaluation-Query verification loop (RM-QR-EA), distinct from the linear QR-UN path of student-instructor interaction
 description: Student-agent interaction featured a significant Query-Evaluation-Query verification loop (RM-QR-EA), distinct from the linear QR-UN path of student-instructor interaction
 id: query-evaluation-verification-loop
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

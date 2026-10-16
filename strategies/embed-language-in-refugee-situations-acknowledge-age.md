@@ -3,7 +3,7 @@ type: strategy
 id: embed-language-in-refugee-situations-acknowledge-age
 title: Embed grammar and vocabulary in situations refugees will encounter, and design instruction that acknowledges age
 description: "The digest recommends basing teaching on needs analyses and learner consultation, since when \"grammar and vocabulary areembedded in the situations refugees will encounter\" learners come to class and risk using the lan..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

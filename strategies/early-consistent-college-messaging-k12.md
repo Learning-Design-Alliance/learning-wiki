@@ -3,7 +3,7 @@ type: strategy
 id: early-consistent-college-messaging-k12
 title: Deliver clear, simple, consistent early messaging to K-12 students and parents about college affordability, preparation, enrollment, and completion
 description: "The Guidebook identifies early messaging as a hallmark of College Promise programs: \"One of the features of College Promise programs is the clear, simple, and consistent messaging to K–12 students and parents about co..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

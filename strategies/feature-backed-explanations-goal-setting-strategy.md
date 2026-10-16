@@ -3,7 +3,7 @@ type: strategy
 id: feature-backed-explanations-goal-setting-strategy
 title: Use clearly defined, feature-backed explanations with tutor final control when presenting forecasting signals in goal-setting dashboards
 description: "The article's case study points to a deployment recipe for predictive signals in tutoring: show recommendations alongside explanations that cite interpretable features such as ability, difficulty, and consistency, kee..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

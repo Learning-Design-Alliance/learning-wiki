@@ -3,7 +3,7 @@ type: claim
 title: "Support for data-driven instruction did not increase teachers' data use or change their instructional practices"
 description: "Support for data-driven instruction did not increase teachers' data use or change their instructional practices"
 id: data-driven-instruction-support-did-not-change-teacher-practice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

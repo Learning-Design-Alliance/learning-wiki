@@ -3,7 +3,7 @@ type: strategy
 id: regional-sustainability-two-year-transition-to-ownership
 title: Plan for regional sustainability from the start with a two-year transition to regional ownership
 description: The blueprint prescribes a sustainability timeline for regional pathways work.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: The position of faded worked solution steps did not influence learning outcomes in Experiment 1
 description: The position of faded worked solution steps did not influence learning outcomes in Experiment 1
 id: faded-step-position-no-learning-outcome-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

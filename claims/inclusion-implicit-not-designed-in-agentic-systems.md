@@ -3,7 +3,7 @@ type: claim
 title: Inclusion of learners with special educational needs is typically implicit rather than explicitly designed even in advanced agentic AI systems
 description: Inclusion of learners with special educational needs is typically implicit rather than explicitly designed even in advanced agentic AI systems
 id: inclusion-implicit-not-designed-in-agentic-systems
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

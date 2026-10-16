@@ -3,7 +3,7 @@ type: strategy
 id: family-suggested-transition-program-improvements
 title: "Adjust transition programs based on family suggestions: longer student sessions, better district-family communication, work-friendly parent sessions, and staffing continuity into fall"
 description: "Participants proposed adjustments to better meet the needs of all stakeholders: \"increasing the length of the student sessions, improving communication between district and families, re-structuring the parent informat..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

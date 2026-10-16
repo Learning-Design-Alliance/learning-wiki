@@ -3,7 +3,7 @@ type: strategy
 id: privacy-training-and-transparency-build-trust
 title: Provide in-depth privacy training and transparent communication about learning analytics processes to build user understanding and student trust
 description: "The article's Notes for Practice state that because users have only surface-level privacy understanding, \"more in-depth training and discussion of student privacy is essential when implementing learning analytics.\" It..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Significant achievement gaps between COVID-year students and pre-pandemic peers persisted at the end of 2022-23
 description: Significant achievement gaps between COVID-year students and pre-pandemic peers persisted at the end of 2022-23
 id: persistent-achievement-gaps-2022-23
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

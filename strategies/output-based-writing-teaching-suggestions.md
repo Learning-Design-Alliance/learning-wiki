@@ -3,7 +3,7 @@ type: strategy
 id: output-based-writing-teaching-suggestions
 title: Give students more chances to produce output and communicate during writing, with varied assignment types and clear sufficient feedback
 description: Based on the interview findings and the Output Hypothesis, the article recommends that college teachers give students more chances to output, especially to write, and more chances to express themselves in class so tha...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

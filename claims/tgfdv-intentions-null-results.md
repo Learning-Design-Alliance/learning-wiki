@@ -3,7 +3,7 @@ type: claim
 title: Effects on behavioral intentions for marijuana use and fighting were not statistically significant in either study
 description: Effects on behavioral intentions for marijuana use and fighting were not statistically significant in either study
 id: tgfdv-intentions-null-results
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

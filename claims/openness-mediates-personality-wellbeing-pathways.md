@@ -3,7 +3,7 @@ type: claim
 title: Openness partially mediates effects of extraversion and novelty tolerance, and fully mediates general uncertainty tolerance, on well-being decline
 description: Openness partially mediates effects of extraversion and novelty tolerance, and fully mediates general uncertainty tolerance, on well-being decline
 id: openness-mediates-personality-wellbeing-pathways
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

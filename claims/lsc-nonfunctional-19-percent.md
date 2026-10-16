@@ -3,7 +3,7 @@ type: claim
 title: An estimated 19 percent of Local School Councils are nonfunctional
 description: An estimated 19 percent of Local School Councils are nonfunctional
 id: lsc-nonfunctional-19-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

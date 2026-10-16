@@ -3,7 +3,7 @@ type: claim
 title: Human qualitative assessment shows SDXL significantly outperforms SD-v3.5-Medium after fine-tuning, failing on 84 versus 250 of 300 prompts
 description: Human qualitative assessment shows SDXL significantly outperforms SD-v3.5-Medium after fine-tuning, failing on 84 versus 250 of 300 prompts
 id: sdxl-outperforms-sd35-medium-qualitatively
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

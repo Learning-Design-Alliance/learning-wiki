@@ -3,7 +3,7 @@ type: claim
 title: OBCs drove a systemic shift for district and school teams to monitor and leverage data for continuous improvement.
 description: OBCs drove a systemic shift for district and school teams to monitor and leverage data for continuous improvement.
 id: obc-data-monitoring-continuous-improvement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

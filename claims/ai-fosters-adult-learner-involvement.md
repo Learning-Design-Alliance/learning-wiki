@@ -3,7 +3,7 @@ type: claim
 title: Adult learners expect AI to foster involvement by sparking questions, tapping interests, and providing continuous feedback and effort acknowledgment
 description: Adult learners expect AI to foster involvement by sparking questions, tapping interests, and providing continuous feedback and effort acknowledgment
 id: ai-fosters-adult-learner-involvement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

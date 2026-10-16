@@ -3,7 +3,7 @@ type: element
 id: course-portal-moodle-lms-vocational-school
 title: "Course Portal: a Moodle-based LMS supporting blended instruction at a Turkish vocational school"
 description: "Course Portal is a learning management system developed \"by the use of MOODLE version 3.6\" to support face-to-face instruction at a Turkish Army NCO vocational school using blended teaching."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

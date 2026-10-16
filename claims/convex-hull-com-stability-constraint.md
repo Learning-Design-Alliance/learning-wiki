@@ -3,7 +3,7 @@ type: claim
 title: Structural stability in the model is decided by a convex hull constraint on the resultant center of mass
 description: Structural stability in the model is decided by a convex hull constraint on the resultant center of mass
 id: convex-hull-com-stability-constraint
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

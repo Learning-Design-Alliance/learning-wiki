@@ -2,7 +2,7 @@
 type: theory
 title: Individual- and school-level theories of change for exclusion-reduction interventions
 description: The review organises how exclusion-reduction interventions might work through two levels of change.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Case study participants report three primary induction impacts: improved leadership knowledge and skills, resilience from personal support, and professional advancement"
 description: "Case study participants report three primary induction impacts: improved leadership knowledge and skills, resilience from personal support, and professional advancement"
 id: induction-impacts-knowledge-resilience-advancement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: A possible mediating effect of teacher homework review practices was observed in the ASSISTments trial, but the planned mediation analysis failed to show an effect
 description: A possible mediating effect of teacher homework review practices was observed in the ASSISTments trial, but the planned mediation analysis failed to show an effect
 id: assistments-teacher-review-mediation-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

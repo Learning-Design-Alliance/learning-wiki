@@ -3,7 +3,7 @@ type: claim
 title: In the Hawaii randomized trial, Positive Action reduced serious violence among boys but not among girls
 description: In the Hawaii randomized trial, Positive Action reduced serious violence among boys but not among girls
 id: positive-action-violence-reduced-boys-not-girls
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

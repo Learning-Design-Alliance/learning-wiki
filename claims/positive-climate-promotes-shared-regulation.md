@@ -3,7 +3,7 @@ type: claim
 title: Positive classroom climate is associated with more frequent socially shared regulation of learning
 description: Positive classroom climate is associated with more frequent socially shared regulation of learning
 id: positive-climate-promotes-shared-regulation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

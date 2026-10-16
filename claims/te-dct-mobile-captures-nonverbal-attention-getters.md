@@ -3,7 +3,7 @@ type: claim
 title: Mobile-application TE-DCTs capture nonverbal attention-getters in the large majority of both L1 and L2 responses across all scenarios
 description: Mobile-application TE-DCTs capture nonverbal attention-getters in the large majority of both L1 and L2 responses across all scenarios
 id: te-dct-mobile-captures-nonverbal-attention-getters
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

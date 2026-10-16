@@ -3,7 +3,7 @@ type: claim
 title: Mexican American children used more heritage language at home while Korean American children used more English
 description: Mexican American children used more heritage language at home while Korean American children used more English
 id: mexican-american-more-heritage-language-than-korean-american
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

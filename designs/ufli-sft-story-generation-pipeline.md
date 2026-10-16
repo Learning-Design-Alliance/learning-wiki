@@ -3,7 +3,7 @@ type: design
 id: ufli-sft-story-generation-pipeline
 title: "QLoRA-based SFT pipeline for phoneme-controlled children's story generation with three 8B LLMs and four experimental designs"
 description: The article builds a pipeline that fine-tunes Llama 3 8B, Apertus 8B-instruct-2509, and Granite 3.3 8b-instruct using QLoRA (4-bit NF4 quantization with LoRA adapters, rank 32, alpha 64) on input-target pairs pairing...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

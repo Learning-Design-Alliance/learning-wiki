@@ -3,7 +3,7 @@ type: claim
 title: Prior non-LLM automated coding approaches yielded variable and often lower agreement with human coders on teacher knowledge measures, especially PCK
 description: Prior non-LLM automated coding approaches yielded variable and often lower agreement with human coders on teacher knowledge measures, especially PCK
 id: prior-automated-coding-variable-lower-agreement-pck
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: curiosity-corner-training-coaching-strategy
 title: Implement Curiosity Corner with two initial training workshop days plus ongoing onsite coaching and support
 description: "The program's professional development model combines initial training with sustained support: professional development is provided through a combination of onsite workshops, email and phone support, online resources,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

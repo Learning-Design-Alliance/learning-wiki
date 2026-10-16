@@ -3,7 +3,7 @@ type: claim
 title: Participants valued multimodal experiences combining visualization with hands-on interaction, while reporting challenges with complex or unclear visualizations
 description: Participants valued multimodal experiences combining visualization with hands-on interaction, while reporting challenges with complex or unclear visualizations
 id: multimodal-valued-complex-visualizations-hinder
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

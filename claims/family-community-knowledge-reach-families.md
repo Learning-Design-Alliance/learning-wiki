@@ -3,7 +3,7 @@ type: claim
 title: "Educators' knowledge of students' family and community contexts, including shared language and cultural background, helped schools reach and be reached by families"
 description: "Educators' knowledge of students' family and community contexts, including shared language and cultural background, helped schools reach and be reached by families"
 id: family-community-knowledge-reach-families
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

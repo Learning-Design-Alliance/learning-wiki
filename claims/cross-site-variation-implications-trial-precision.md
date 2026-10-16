@@ -3,7 +3,7 @@ type: claim
 title: Cross-site impact variation has implications for the statistical precision of multisite trials
 description: Cross-site impact variation has implications for the statistical precision of multisite trials
 id: cross-site-variation-implications-trial-precision
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

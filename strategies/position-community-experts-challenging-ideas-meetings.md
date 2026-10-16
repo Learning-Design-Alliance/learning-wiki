@@ -3,7 +3,7 @@ type: strategy
 id: position-community-experts-challenging-ideas-meetings
 title: In co-design meetings, position community members as experts and create space for challenging ideas, including adapting survey questions to community feedback.
 description: "During co-design meetings, facilitators position community members as experts by always allowing for questions, ideas, and aspirations, such as \"Can we broaden our focus beyond STEM?\" and \"Should we make this language..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

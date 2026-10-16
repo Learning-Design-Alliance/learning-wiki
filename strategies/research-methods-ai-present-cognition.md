@@ -3,7 +3,7 @@ type: strategy
 id: research-methods-ai-present-cognition
 title: Study cognition with methods that allow real-world AI use, including longitudinal designs tracking self-regulation formation
 description: "The article recommends that developmental research move beyond lab tasks forbidding external aid, since such conditions \"does not reﬂect the manner in which cognition will be applied in the real world.\" It calls for m..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

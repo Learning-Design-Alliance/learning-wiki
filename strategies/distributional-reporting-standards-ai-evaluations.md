@@ -3,7 +3,7 @@ type: strategy
 id: distributional-reporting-standards-ai-evaluations
 title: Report distributional quantities alongside average effects when evaluating AI learning resources
 description: "The article proposes that evaluations of AI learning resources report, alongside any average effect, three distributional quantities: \"the change in the share of students below the grade boundaries that matter for pro..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -48,4 +48,4 @@ The article proposes that evaluations of AI learning resources report, alongside
 -
 
 ## Key Sources
-- Dang, C. T., & Nguyen, A. (2026). Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course. https://arxiv.org/abs/2610.07097
+- Dang, C. T., & Nguyen, A. (2026). Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course. https://arxiv.org/abs/2610.07097. [doi:10.48550/arxiv.2610.07097](https://doi.org/10.48550/arxiv.2610.07097)

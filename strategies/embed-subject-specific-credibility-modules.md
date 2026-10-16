@@ -3,7 +3,7 @@ type: strategy
 id: embed-subject-specific-credibility-modules
 title: Embed subject-specific web credibility modules into existing courses rather than creating standalone courses
 description: "The authors recommend that \"curriculum developers could create subject-specific modules for instructors to integrate into existing curricula\" rather than designing entirely new courses."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

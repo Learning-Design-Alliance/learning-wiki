@@ -3,7 +3,7 @@ type: claim
 title: A facilitated Community of Practice helped isolated state American Indian Education Directors build relationships that broke down silos and combated professional isolation
 description: A facilitated Community of Practice helped isolated state American Indian Education Directors build relationships that broke down silos and combated professional isolation
 id: cop-relationships-combat-aie-director-isolation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

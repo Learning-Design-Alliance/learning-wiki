@@ -3,7 +3,7 @@ type: claim
 title: Teachers reported increased student engagement when using Forms instead of paper-based assessments and surveys
 description: Teachers reported increased student engagement when using Forms instead of paper-based assessments and surveys
 id: forms-engagement-versus-paper
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: tailor-mentor-feedback-to-expertise-level
 title: "Tailor mentor feedback frequency and elaboration to learners' developing expertise level"
 description: The article proposes that mentor feedback in epistemic games be differentiated by learner expertise.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: design
 id: sf-dec-early-learning-for-all-network
 title: San Francisco Department of Early Childhood and Early Learning for All network
 description: The San Francisco Department of Early Childhood (DEC) is a dedicated local governing agency for early childhood, reporting to the mayor, formed in 2013 and renamed in 2022 when it merged with First 5 San Francisco.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

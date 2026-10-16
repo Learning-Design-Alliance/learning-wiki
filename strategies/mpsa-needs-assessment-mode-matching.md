@@ -3,7 +3,7 @@ type: strategy
 id: mpsa-needs-assessment-mode-matching
 title: "Use MPSA mode analysis in needs assessment to match teaching methods with students' problem-solving modes"
 description: "In education, the article proposes using the MPSA Cone as an alternative method for needs assessment: studying \"the common and different needs of different modes of problem solvers in the classroom\" so educators can p..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

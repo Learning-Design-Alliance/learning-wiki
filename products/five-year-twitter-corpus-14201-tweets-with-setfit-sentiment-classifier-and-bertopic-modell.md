@@ -4,7 +4,7 @@ id: five-year-twitter-corpus-14201-tweets-with-setfit-sentiment-classifier-and-b
 title: Five-year Twitter corpus (14,201 tweets) with SetFit sentiment classifier and BERTopic modelling pipeline
 description: A researcher-created dataset and analysis pipeline comprising 14,201 English-language U.S.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10
@@ -32,4 +32,4 @@ A researcher-created dataset and analysis pipeline comprising 14,201 English-lan
 -
 
 ## Key Sources
-- Bagale, A.; Mehjabin, N.; Ünlü, A.; Johri, A. (2025). A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data.
+- Bagale, A.; Mehjabin, N.; Ünlü, A.; Johri, A. (2025). A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data. [doi:10.48550/arxiv.2607.12295](https://doi.org/10.48550/arxiv.2607.12295)

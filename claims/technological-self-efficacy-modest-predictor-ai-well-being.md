@@ -3,7 +3,7 @@ type: claim
 title: Technological self-efficacy significantly but modestly predicts faculty AI well-being
 description: Technological self-efficacy significantly but modestly predicts faculty AI well-being
 id: technological-self-efficacy-modest-predictor-ai-well-being
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

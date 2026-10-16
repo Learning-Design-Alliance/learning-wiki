@@ -3,7 +3,7 @@ type: claim
 title: During observed playlist sessions, students were mostly on task and concentrating, though off-task behavior rose when the digital notebook was repeated
 description: During observed playlist sessions, students were mostly on task and concentrating, though off-task behavior rose when the digital notebook was repeated
 id: bromp-observation-mostly-on-task-concentrating
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

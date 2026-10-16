@@ -3,7 +3,7 @@ type: strategy
 id: ai-simulations-low-risk-noticing-practice
 title: Use AI-based simulations as low-risk environments for practising and making visible teacher noticing
 description: The article recommends AI-based simulations as controlled, low-risk settings where preservice teachers can practise noticing without ethical concerns of classroom experimentation.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Staff reflections identify partner skills, knowledge, and dispositions that support full participation in Collaborative Innovation
 description: Staff reflections identify partner skills, knowledge, and dispositions that support full participation in Collaborative Innovation
 id: staff-reflections-capacities-collaborative-innovation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

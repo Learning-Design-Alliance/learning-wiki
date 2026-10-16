@@ -3,7 +3,7 @@ type: claim
 title: The constant-friction AI video yields a fitted friction coefficient (µ ≈ 0.169) consistent with literature values for wood on smooth or waxed surfaces
 description: The constant-friction AI video yields a fitted friction coefficient (µ ≈ 0.169) consistent with literature values for wood on smooth or waxed surfaces
 id: ai-video-constant-friction-recovers-plausible-mu
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

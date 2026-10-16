@@ -3,7 +3,7 @@ type: claim
 title: Charter high schools with strong academic reputations and safety records attracted students with higher eighth-grade test scores, attendance, and grades relative to their feeder pools
 description: Charter high schools with strong academic reputations and safety records attracted students with higher eighth-grade test scores, attendance, and grades relative to their feeder pools
 id: charter-reputation-attracts-higher-achievers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

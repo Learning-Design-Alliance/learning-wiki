@@ -3,7 +3,7 @@ type: claim
 title: Unregistered apprenticeships had statistically significant ninth-quarter employment and earnings impacts specifically for advanced manufacturing
 description: Unregistered apprenticeships had statistically significant ninth-quarter employment and earnings impacts specifically for advanced manufacturing
 id: unregistered-apprenticeship-advanced-manufacturing-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Making year-over-year change salient helped users identify which schools improved most but lowered usability and satisfaction ratings
 description: Making year-over-year change salient helped users identify which schools improved most but lowered usability and satisfaction ratings
 id: year-over-year-salience-mixed-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

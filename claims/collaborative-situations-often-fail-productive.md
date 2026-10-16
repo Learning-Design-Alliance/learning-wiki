@@ -3,7 +3,7 @@ type: claim
 title: Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple
 description: Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple
 id: collaborative-situations-often-fail-productive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

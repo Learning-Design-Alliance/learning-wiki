@@ -3,7 +3,7 @@ type: claim
 title: "SFS-aligned post-training generalizes out-of-domain: models trained on one dataset retain substantial SFS gains on the other"
 description: "SFS-aligned post-training generalizes out-of-domain: models trained on one dataset retain substantial SFS gains on the other"
 id: sfs-post-training-cross-domain-generalization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

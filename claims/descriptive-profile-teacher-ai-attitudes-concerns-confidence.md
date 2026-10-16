@@ -3,7 +3,7 @@ type: claim
 title: Teachers report strongly positive attitudes toward AI, low concern, high confidence in using AI tools, and strong but uneven institutional support
 description: Teachers report strongly positive attitudes toward AI, low concern, high confidence in using AI tools, and strong but uneven institutional support
 id: descriptive-profile-teacher-ai-attitudes-concerns-confidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -44,3 +44,4 @@ Descriptive statistics from the 35-item, five-point Likert survey of 260 teacher
 - [Teacher confidence strongly predicts favorable attitudes toward AI adoption, while the direct effect of support on attitudes is not significant](confidence-predicts-ai-attitudes-support-direct-effect-null.md) — related
 - [Ghanaian pre-service science teachers show positive attitudes, perceived behavioural control, and behavioural intentions toward AI](positive-attitudes-pbc-intentions-ai-pre-service-teachers.md) — related
 - [Primary school teachers report moderately positive overall perceptions of AI in mathematics instruction, with willingness and attitudes higher than personal experience](moderately-positive-teacher-ai-perceptions-primary-math.md) — related
+- [University students held positive attitudes toward GAI in DST creation but expressed moderate concern about over-reliance and low concern about reduced social interaction](student-perceptions-gai-dst-mixed-attitudes.md) — related

@@ -3,7 +3,7 @@ type: claim
 title: Job-seeking CS students rank ethical concerns last among job considerations, below remuneration, location, work-life balance, and workplace culture
 description: Job-seeking CS students rank ethical concerns last among job considerations, below remuneration, location, work-life balance, and workplace culture
 id: ethical-concerns-ranked-last-job-consideration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

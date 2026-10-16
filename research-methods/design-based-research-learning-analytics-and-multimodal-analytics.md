@@ -3,7 +3,7 @@ type: research-method
 id: design-based-research-learning-analytics-and-multimodal-analytics
 title: Design-based research, learning analytics, and multimodal analytics
 description: "The report's methods theme identifies the most common or growing approaches: Design-Based Research, 'a methodology that rigorously explores which design features have the most potential to improve learning'; learning analytics, providing insights into the learning process often linked to formative a"
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Most experts judged the AI-generated plans conditionally applicable, endorsing use only after correction rather than direct classroom use
 description: Most experts judged the AI-generated plans conditionally applicable, endorsing use only after correction rather than direct classroom use
 id: experts-judge-ai-plans-applicable-after-correction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

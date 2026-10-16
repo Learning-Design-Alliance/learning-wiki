@@ -3,7 +3,7 @@ type: claim
 title: Bernoulli Mixture Model fits select around 10-12 clusters per question, with no runs finding high cluster counts optimal, indicating specialised skill sets do not generally exist
 description: Bernoulli Mixture Model fits select around 10-12 clusters per question, with no runs finding high cluster counts optimal, indicating specialised skill sets do not generally exist
 id: bmm-selects-ten-to-twelve-clusters
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

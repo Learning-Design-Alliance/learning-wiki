@@ -3,7 +3,7 @@ type: design
 id: ai-study-coach-scaffolded-element
 title: "AI Study Coach: a notebook-embedded scaffolded AI tutor with two modes and four session constraints"
 description: The AI Study Coach is an AI tool built into Jupyter-notebook laboratory sessions so students can consult it without leaving the task.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10
@@ -47,4 +47,4 @@ The AI Study Coach is an AI tool built into Jupyter-notebook laboratory sessions
 -
 
 ## Key Sources
-- Azimi, S. (2026). AI Literacy over Tool Design: A Mixed-Methods Study of Scaffolded versus Unrestricted Generative AI in Programming Education. Delft University of Technology.
+- Azimi, S. (2026). AI Literacy over Tool Design: A Mixed-Methods Study of Scaffolded versus Unrestricted Generative AI in Programming Education. Delft University of Technology. [doi:10.48550/arxiv.2609.16784](https://doi.org/10.48550/arxiv.2609.16784)

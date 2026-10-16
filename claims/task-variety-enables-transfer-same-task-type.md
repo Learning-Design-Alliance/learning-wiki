@@ -3,7 +3,7 @@ type: claim
 title: Learning varied tasks of the same type enables transfer to unencountered tasks of that type
 description: Learning varied tasks of the same type enables transfer to unencountered tasks of that type
 id: task-variety-enables-transfer-same-task-type
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

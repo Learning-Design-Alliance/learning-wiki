@@ -3,7 +3,7 @@ type: claim
 title: Strong relationships and supportive conditions can offset the effects of trauma on learning and behavior
 description: Strong relationships and supportive conditions can offset the effects of trauma on learning and behavior
 id: relationships-offset-trauma-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

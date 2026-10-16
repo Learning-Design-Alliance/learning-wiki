@@ -3,7 +3,7 @@ type: claim
 title: Low-income US schools focus most on testing and have the fewest resources for interest-driven activities
 description: Low-income US schools focus most on testing and have the fewest resources for interest-driven activities
 id: low-income-schools-test-prep-crowds-out-interest-activities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

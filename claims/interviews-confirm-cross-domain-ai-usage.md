@@ -3,7 +3,7 @@ type: claim
 title: Interviews confirm students use AI across all four challenge domains throughout the migration timeline, including for academic communication support
 description: Interviews confirm students use AI across all four challenge domains throughout the migration timeline, including for academic communication support
 id: interviews-confirm-cross-domain-ai-usage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Restricted item pools show higher item use rates than all-grade pools, and use rates drop sharply for off-grade simulees
 description: Restricted item pools show higher item use rates than all-grade pools, and use rates drop sharply for off-grade simulees
 id: pool-utilization-higher-restricted-pools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: trauma-informed-discipline-foster-care
 title: Use trauma-informed behavioral supports before escalating to suspension, supported by willful-defiance suspension bans
 description: "Professionals interviewed emphasized the need for more trauma-informed approaches in education, citing California Senate Bill 274 (effective July 1, 2024), which prohibits suspensions based on lower-level \"willful def..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

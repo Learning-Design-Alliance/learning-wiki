@@ -3,7 +3,7 @@ type: claim
 title: Self-efficacy and learning motivation serially mediate the link from AIGC affordance to self-regulated learning
 description: Self-efficacy and learning motivation serially mediate the link from AIGC affordance to self-regulated learning
 id: serial-mediation-affordance-efficacy-motivation-srl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

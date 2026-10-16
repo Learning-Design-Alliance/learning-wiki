@@ -3,7 +3,7 @@ type: strategy
 id: treat-genai-as-critical-dialogue-partner
 title: Students should treat GenAI as a critical dialogue partner, using informed, iterative prompting rather than collecting ready-made answers
 description: "The article's proposition for students is to actively engage with the course literature and use GenAI as a conversational partner for self-regulated learning rather than as a collector or generator of ready-made answers."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

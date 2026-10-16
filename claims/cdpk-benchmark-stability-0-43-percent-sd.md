@@ -3,7 +3,7 @@ type: claim
 title: "The benchmark procedure is stable under stochastic decoding, with a maximum accuracy standard deviation of 0.43% over 20 repeated runs"
 description: "The benchmark procedure is stable under stochastic decoding, with a maximum accuracy standard deviation of 0.43% over 20 repeated runs"
 id: cdpk-benchmark-stability-0-43-percent-sd
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

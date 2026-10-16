@@ -3,7 +3,7 @@ type: element
 id: traditional-mc-item-stem-alternatives-distractors
 title: "Traditional multiple-choice test item structure: stem, alternatives, and plausible distractors"
 description: "The article defines the traditional multiple-choice test item as consisting 'of two basic parts: (1) a problem (stem ), and (2) a list of suggested solutions (alternatives/options )', with one correct or best alternat..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

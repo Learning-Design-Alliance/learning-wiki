@@ -3,7 +3,7 @@ type: claim
 title: Academic benefits of restorative practice exposure are stronger for Black and Latino/a students than for White students, suggesting practices can reduce racial gaps
 description: Academic benefits of restorative practice exposure are stronger for Black and Latino/a students than for White students, suggesting practices can reduce racial gaps
 id: restorative-practice-benefits-stronger-black-latino-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Technology anxiety's positive association with AI literacy is confined to critical evaluation and ethical competence and absent from the three performance-oriented subdimensions"
 description: "Technology anxiety's positive association with AI literacy is confined to critical evaluation and ethical competence and absent from the three performance-oriented subdimensions"
 id: anxiety-effect-localized-to-evaluative-subdimensions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

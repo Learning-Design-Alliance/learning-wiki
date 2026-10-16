@@ -3,7 +3,7 @@ type: strategy
 id: error-type-analysis-informs-teaching
 title: Analyze the types of errors students make on assessment items, not just correct/incorrect scores
 description: "The guide's teacher notes treat scoring as a starting point for diagnosis: although each part is scored correct or incorrect, \"looking at the type of errors made can be informative.\" Specific error patterns are interp..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
@@ -38,7 +38,7 @@ The guide's teacher notes treat scoring as a starting point for diagnosis: altho
 
 ## Related Strategies
 
-- [Diagnostic Pre Assessment](diagnostic-pre-assessment.md)
+- [Diagnostic Pre Assessment](diagnostic-assessment.md)
 - [Encourage children to model and discuss multiple solution strategies for number problems instead of hunting for clue words](multiple-strategies-modeling-problems.md)
 - [Confidence Based Quizzing](confidence-based-quizzing.md)
 

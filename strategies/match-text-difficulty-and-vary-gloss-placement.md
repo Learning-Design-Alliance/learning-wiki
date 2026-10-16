@@ -3,7 +3,7 @@ type: strategy
 id: match-text-difficulty-and-vary-gloss-placement
 title: "Match glossed-text difficulty to learners' proficiency level and vary gloss placement beyond marginal glosses"
 description: "The article's findings support two implementable practices for EFL reading instruction: selecting texts whose readability matches learners' ability, and presenting glosses in forms other than the familiar marginal for..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

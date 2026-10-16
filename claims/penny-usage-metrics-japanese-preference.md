@@ -3,7 +3,7 @@ type: claim
 title: Learners engaged extensively with the chatbot, overwhelmingly communicating in Japanese rather than English
 description: Learners engaged extensively with the chatbot, overwhelmingly communicating in Japanese rather than English
 id: penny-usage-metrics-japanese-preference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

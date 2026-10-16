@@ -3,7 +3,7 @@ type: claim
 title: The Yolo County needs assessment identifies eight countywide needs for children, youth, and families, led by childcare, mental health access, and transportation
 description: The Yolo County needs assessment identifies eight countywide needs for children, youth, and families, led by childcare, mental health access, and transportation
 id: yolo-county-eight-countywide-needs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

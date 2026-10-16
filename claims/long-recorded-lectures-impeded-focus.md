@@ -3,7 +3,7 @@ type: claim
 title: Students reported that long recorded lectures impeded focus, and one student appreciated an instructor's choice to break lectures into shorter videos
 description: Students reported that long recorded lectures impeded focus, and one student appreciated an instructor's choice to break lectures into shorter videos
 id: long-recorded-lectures-impeded-focus
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

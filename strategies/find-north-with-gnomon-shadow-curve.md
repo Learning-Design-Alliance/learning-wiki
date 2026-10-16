@@ -3,7 +3,7 @@ type: strategy
 id: find-north-with-gnomon-shadow-curve
 title: Ubicar el norte marcando la sombra de la punta de un gnomon sobre una circunferencia, en lugar de usar una brújula
 description: "El recuadro del artículo propone un método de orientación sin brújula: se dibuja una circunferencia con un gnomon vertical en su centro y se marcan los puntos que recorre la sombra de la punta, obteniéndose una curva..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

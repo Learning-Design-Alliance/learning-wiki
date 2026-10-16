@@ -2,7 +2,7 @@
 type: theory
 title: Computerized adaptive testing as a technology-enabled alternative to factory-style assessment
 description: The article frames schools and accountability policies as built on a factory model that produces a consistent product, and presents computerized adaptive testing (CAT) as a different approach enabled by technology and...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: funder-recommendations-strategic-learning-initiatives
 title: "Funder recommendations: evidence on importance plus tips for starting and sustaining initiatives"
 description: "The document is explicitly written as guidance for funders and intermediaries: \"This document contains recommendations for funders and other intermediaries looking to support similar strategic learning work.\" It pairs..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

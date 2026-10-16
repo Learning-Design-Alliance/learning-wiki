@@ -3,7 +3,7 @@ type: claim
 title: Pedagogical challenges inherent in distance and online learning must be considered in instructional design and software development
 description: Pedagogical challenges inherent in distance and online learning must be considered in instructional design and software development
 id: pedagogical-challenges-distance-learning-design-software
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

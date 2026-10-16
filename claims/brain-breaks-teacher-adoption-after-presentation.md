@@ -3,7 +3,7 @@ type: claim
 title: "After a researcher presentation on brain breaks, an estimated 80-90 percent of one school's teachers implemented the breaks in their classrooms"
 description: "After a researcher presentation on brain breaks, an estimated 80-90 percent of one school's teachers implemented the breaks in their classrooms"
 id: brain-breaks-teacher-adoption-after-presentation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

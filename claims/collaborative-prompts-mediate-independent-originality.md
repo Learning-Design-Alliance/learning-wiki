@@ -3,7 +3,7 @@ type: claim
 title: "Collaborative prompt use mediated the regulated-AI group's advantage over the general-AI group in independent originality"
 description: "Collaborative prompt use mediated the regulated-AI group's advantage over the general-AI group in independent originality"
 id: collaborative-prompts-mediate-independent-originality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

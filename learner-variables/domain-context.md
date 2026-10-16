@@ -3,7 +3,7 @@ type: learner-variable
 id: domain-context
 title: Domain Context
 description: The sector, role or setting a scenario has to be placed in before a learner recognises it as their own.
-status: draft
+status: review
 generated:
   by: "claude/unspecified"
   at: 2026-09-02
@@ -12,7 +12,7 @@ generated:
 # Domain Context
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 33 claims (26 for, 6 mixed, 1 against) · 36 studies (10 review, 8 qualitative, 6 causal, 5 design, 4 quant-synthesis, 2 theoretical, 1 associational), `q1`–`q4` · 5 of 36 report an effect size · 29 claims rest on one study
+> **Evidence** · 34 claims (27 for, 6 mixed, 1 against) · 36 studies (10 review, 8 qualitative, 6 causal, 5 design, 4 quant-synthesis, 2 theoretical, 1 associational), `q1`–`q4` · 5 of 36 report an effect size · 30 claims rest on one study
 
 ## Description
 The sector, role or setting a scenario must be placed in before a learner recognises it as theirs. This is the course-specific dimension: what counts as a recognisable case differs by subject in a way the other dimensions do not. It changes who appears in a scenario and what a task is *about*, not how hard it is — and it is the dimension most likely to be filled with the designer's own context by default.

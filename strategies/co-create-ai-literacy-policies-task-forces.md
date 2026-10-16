@@ -3,7 +3,7 @@ type: strategy
 id: co-create-ai-literacy-policies-task-forces
 title: Co-create contextualized AI literacy policies via multi-stakeholder task forces with phased roadmaps
 description: The brief recommends that districts address AI literacy gaps through comprehensive institutional strategies prioritizing infrastructure and human capacity.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

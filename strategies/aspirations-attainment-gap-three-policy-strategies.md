@@ -3,7 +3,7 @@ type: strategy
 id: aspirations-attainment-gap-three-policy-strategies
 title: "District, state, and federal strategies to close the aspirations-attainment gap: linked K-16 data systems, educator capacity for college advising, and strong signals about college requirements"
 description: "The report concludes with three strategies for policymakers to help close the gap between students' college aspirations and their attainment."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

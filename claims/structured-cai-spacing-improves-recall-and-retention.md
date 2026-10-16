@@ -3,7 +3,7 @@ type: claim
 title: Structured CAI with spaced practice and spaced review produced better recall and retention than unstructured CAI
 description: Structured CAI with spaced practice and spaced review produced better recall and retention than unstructured CAI
 id: structured-cai-spacing-improves-recall-and-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

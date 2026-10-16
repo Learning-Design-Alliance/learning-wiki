@@ -3,7 +3,7 @@ type: strategy
 id: select-informative-texts-and-multimodal-glosses
 title: Select authentic texts with highly informative contextual cues matched to learner proficiency, and add multimodal glosses when context is insufficient
 description: "The review's pedagogical implication is that teachers should choose authentic texts whose contextual cues allow subconscious vocabulary acquisition at the learners' proficiency level, and that material developers shou..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

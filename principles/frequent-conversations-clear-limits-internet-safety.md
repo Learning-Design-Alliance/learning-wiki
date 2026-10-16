@@ -3,7 +3,7 @@ type: principle
 id: frequent-conversations-clear-limits-internet-safety
 title: Support internet safety for teens with ASD through simple, frequent conversations and clear rules and limits on internet use
 description: "The brief recommends that adults support adolescents with ASD online by holding \"simple and frequent conversations about internet safety\" and by \"establishing clear rules and limits to internet use.\" It also suggests..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -2,7 +2,7 @@
 type: theory
 title: "Four critical parental supports for adolescents' educational success"
 description: "The brief presents a framework of four supports present when adolescents do better and stay in school longer: parents talking with their child about education and providing day-to-day monitoring of schoolwork; parents..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

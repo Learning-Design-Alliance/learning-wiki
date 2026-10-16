@@ -3,7 +3,7 @@ type: claim
 title: Defining and quantifying reliability and measurement error is particularly challenging in epistemic games for three principal reasons
 description: Defining and quantifying reliability and measurement error is particularly challenging in epistemic games for three principal reasons
 id: reliability-challenges-epistemic-games
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

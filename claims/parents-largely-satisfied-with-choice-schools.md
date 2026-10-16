@@ -3,7 +3,7 @@ type: claim
 title: Parents of students who used Title I school choice were largely satisfied with the new schools
 description: Parents of students who used Title I school choice were largely satisfied with the new schools
 id: parents-largely-satisfied-with-choice-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

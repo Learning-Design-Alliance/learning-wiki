@@ -3,7 +3,7 @@ type: claim
 title: Reading growth trajectories of students with visual impairments trend upward at a steady pace while the gap with the national norm remains wide
 description: Reading growth trajectories of students with visual impairments trend upward at a steady pace while the gap with the national norm remains wide
 id: vi-students-steady-upward-reading-growth-wide-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

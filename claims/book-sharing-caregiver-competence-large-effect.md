@@ -3,7 +3,7 @@ type: claim
 title: Book-sharing interventions produce a large improvement in caregiver book-sharing competence (d=1.01)
 description: Book-sharing interventions produce a large improvement in caregiver book-sharing competence (d=1.01)
 id: book-sharing-caregiver-competence-large-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

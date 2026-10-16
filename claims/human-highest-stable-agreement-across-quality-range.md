@@ -3,7 +3,7 @@ type: claim
 title: The second human expert showed the highest and most stable agreement with the gold-standard rater, with no mid-range degradation across the response quality spectrum
 description: The second human expert showed the highest and most stable agreement with the gold-standard rater, with no mid-range degradation across the response quality spectrum
 id: human-highest-stable-agreement-across-quality-range
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

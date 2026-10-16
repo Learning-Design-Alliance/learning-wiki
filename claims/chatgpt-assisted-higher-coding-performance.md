@@ -3,7 +3,7 @@ type: claim
 title: "ChatGPT-assisted students scored substantially higher on the coding assessment than No AI students (89% vs 69%)"
 description: "ChatGPT-assisted students scored substantially higher on the coding assessment than No AI students (89% vs 69%)"
 id: chatgpt-assisted-higher-coding-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

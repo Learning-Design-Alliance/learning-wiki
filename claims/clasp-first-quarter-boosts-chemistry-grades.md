@@ -3,7 +3,7 @@ type: claim
 title: Students who took the first quarter of CLASP before general chemistry earned significantly higher chemistry grades in all three quarters of the chemistry sequence
 description: Students who took the first quarter of CLASP before general chemistry earned significantly higher chemistry grades in all three quarters of the chemistry sequence
 id: clasp-first-quarter-boosts-chemistry-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

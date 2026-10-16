@@ -3,7 +3,7 @@ type: strategy
 id: recruit-practitioners-via-existing-networks
 title: Recruit practitioners for research engagement by leaning into existing networks, using open calls and targeted invitations
 description: "The report found that both open recruitment (via Digital Promise's League of Innovative Schools, Title I districts, and Minority Serving Institutions) and invitation-based recruitment for the advisory board depended o..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: fh2t-supplemental-integration-strategy
 title: Deploy FH2T as supplemental practice with GM tools integrated into teacher instruction
 description: The article recommends using FH2T as a supplemental instructional tool for practicing foundational math skills, with the game usable independently by students.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

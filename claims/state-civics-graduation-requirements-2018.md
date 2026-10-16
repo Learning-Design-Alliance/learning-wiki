@@ -3,7 +3,7 @@ type: claim
 title: As of 2018, 42 states required a civics or government course, 8 required a full year, and 19 required a civics exam to graduate
 description: As of 2018, 42 states required a civics or government course, 8 required a full year, and 19 required a civics exam to graduate
 id: state-civics-graduation-requirements-2018
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

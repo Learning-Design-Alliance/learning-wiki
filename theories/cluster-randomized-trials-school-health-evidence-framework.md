@@ -2,7 +2,7 @@
 type: theory
 title: Cluster randomized trials as a design for meeting evidence standards on school health program effectiveness
 description: The article presents cluster randomized trials as an evaluation methodology in which schools, rather than individual students, are the unit of randomization.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

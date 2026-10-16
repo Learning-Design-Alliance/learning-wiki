@@ -3,7 +3,7 @@ type: claim
 title: Eighth grade EL reclassification has statistically insignificant effects on 9th–11th grade ELA test scores, with effects bounded between −0.17 and 0.09 SDs
 description: Eighth grade EL reclassification has statistically insignificant effects on 9th–11th grade ELA test scores, with effects bounded between −0.17 and 0.09 SDs
 id: el-reclassification-null-ela-effects-high-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

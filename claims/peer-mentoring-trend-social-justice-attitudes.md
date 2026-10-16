@@ -3,7 +3,7 @@ type: claim
 title: Peer mentoring shows a trend toward higher posttest social justice attitudes
 description: Peer mentoring shows a trend toward higher posttest social justice attitudes
 id: peer-mentoring-trend-social-justice-attitudes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

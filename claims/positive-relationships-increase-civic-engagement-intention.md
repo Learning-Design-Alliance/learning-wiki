@@ -3,7 +3,7 @@ type: claim
 title: Positive relationships with professors, community partners, and peer mentors are associated with increased intention to be civically engaged
 description: Positive relationships with professors, community partners, and peer mentors are associated with increased intention to be civically engaged
 id: positive-relationships-increase-civic-engagement-intention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

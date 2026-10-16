@@ -3,7 +3,7 @@ type: claim
 title: Read Well® shows no discernible effects on reading achievement for elementary school English language learners
 description: Read Well® shows no discernible effects on reading achievement for elementary school English language learners
 id: read-well-no-discernible-effects-reading-achievement-ell
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

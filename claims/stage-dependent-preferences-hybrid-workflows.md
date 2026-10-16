@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' tool preferences are stage-dependent, with pre-gen valued for ideation, mid-gen for structuring, post-gen for finalization, motivating hybrid workflows"
 description: "Teachers' tool preferences are stage-dependent, with pre-gen valued for ideation, mid-gen for structuring, post-gen for finalization, motivating hybrid workflows"
 id: stage-dependent-preferences-hybrid-workflows
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

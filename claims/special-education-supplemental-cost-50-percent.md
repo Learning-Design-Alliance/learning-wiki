@@ -3,7 +3,7 @@ type: claim
 title: Students with disabilities cost 50.5 percent more to educate to comparable academic growth than peers without disabilities
 description: Students with disabilities cost 50.5 percent more to educate to comparable academic growth than peers without disabilities
 id: special-education-supplemental-cost-50-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

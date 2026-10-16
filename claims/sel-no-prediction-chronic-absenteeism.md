@@ -3,7 +3,7 @@ type: claim
 title: No SEL construct status or growth significantly predicted chronic absenteeism in 9th grade after controlling for background characteristics
 description: No SEL construct status or growth significantly predicted chronic absenteeism in 9th grade after controlling for background characteristics
 id: sel-no-prediction-chronic-absenteeism
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

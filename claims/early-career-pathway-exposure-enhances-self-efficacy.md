@@ -3,7 +3,7 @@ type: claim
 title: "Early exposure to career pathways in high school is reported to enhance students' self-efficacy and occupational awareness"
 description: "Early exposure to career pathways in high school is reported to enhance students' self-efficacy and occupational awareness"
 id: early-career-pathway-exposure-enhances-self-efficacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

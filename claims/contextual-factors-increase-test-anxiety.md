@@ -3,7 +3,7 @@ type: claim
 title: Lack of study space and financial issues are associated with higher test anxiety in online exams, and reliable technology with lower
 description: Lack of study space and financial issues are associated with higher test anxiety in online exams, and reliable technology with lower
 id: contextual-factors-increase-test-anxiety
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

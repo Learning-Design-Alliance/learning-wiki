@@ -3,7 +3,7 @@ type: claim
 title: On average, more effective early-career teachers remain in the teaching profession and stay in their initial schools
 description: On average, more effective early-career teachers remain in the teaching profession and stay in their initial schools
 id: more-effective-teachers-remain-in-profession-and-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

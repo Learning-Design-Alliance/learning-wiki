@@ -3,7 +3,7 @@ type: strategy
 id: realistic-ethical-conundrums-earlier-education
 title: Present students with realistic ethical conundrums such as job-search dilemmas earlier in their education
 description: "The article recommends that educators \"present[] them more realistic ethical conundrums (such as those faced during the job search) earlier in their education\", so students can consider ethically consistent responses..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

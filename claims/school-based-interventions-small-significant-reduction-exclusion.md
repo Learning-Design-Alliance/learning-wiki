@@ -3,7 +3,7 @@ type: claim
 title: School-based interventions produce a small but statistically significant reduction in school exclusion
 description: School-based interventions produce a small but statistically significant reduction in school exclusion
 id: school-based-interventions-small-significant-reduction-exclusion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

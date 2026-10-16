@@ -3,7 +3,7 @@ type: claim
 title: As of 2024, only 10 U.S. states explicitly include Spanish–English bilinguals in their kindergarten entry assessments, while 41 states implicitly include or do not include them
 description: As of 2024, only 10 U.S.
 id: ten-states-explicitly-include-spanish-english-bilinguals-in-keas
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -2,7 +2,7 @@
 type: theory
 title: Contrasting data mining with traditional statistics as the theoretical framework for understanding its benefits and drawbacks
 description: "The article's organizing framework compares data mining, a process of \"systematically, and automatically or semi-automatically, uncovering patterns in data,\" with traditional statistics."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

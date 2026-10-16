@@ -3,7 +3,7 @@ type: claim
 title: PKTP family learning activities created opportunities for informal teacher-family relationships and a greater sense of community
 description: PKTP family learning activities created opportunities for informal teacher-family relationships and a greater sense of community
 id: pktp-family-activities-built-informal-relationships
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

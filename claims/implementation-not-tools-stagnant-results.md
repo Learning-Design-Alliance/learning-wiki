@@ -3,7 +3,7 @@ type: claim
 title: The report attributes stagnant learning results to program implementation rather than to the ed-tech tools themselves
 description: The report attributes stagnant learning results to program implementation rather than to the ed-tech tools themselves
 id: implementation-not-tools-stagnant-results
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

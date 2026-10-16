@@ -3,7 +3,7 @@ type: claim
 title: Attendance, but not academic achievement, improved for previously suspended students following the suspension reform
 description: Attendance, but not academic achievement, improved for previously suspended students following the suspension reform
 id: suspension-reform-improved-attendance-not-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

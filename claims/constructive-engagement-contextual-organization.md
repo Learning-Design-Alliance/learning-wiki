@@ -3,7 +3,7 @@ type: claim
 title: "Constructive engagement is ecologically organized: amplified by explicit learning-oriented framing, higher in coding than writing, and more visible in sustained exchanges"
 description: "Constructive engagement is ecologically organized: amplified by explicit learning-oriented framing, higher in coding than writing, and more visible in sustained exchanges"
 id: constructive-engagement-contextual-organization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -18,8 +18,8 @@ sources:
     kind: associational
     rigour: 2
   - id: chen-2026-2
-    resource: "https://arxiv.org/abs/2607.17643"
-    title: "Chen, Z., Li, H., Xiao, Z., Qu, H., & Xie, X. (2026). Informal learning emerges in everyday human–LLM interaction. arXiv. https://arxiv.org/abs/2607.17643"
+    resource: "https://doi.org/10.48550/arxiv.2607.17643"
+    title: "Chen, Z., Li, H., Xiao, Z., Qu, H., & Xie, X. (2026). Informal learning emerges in everyday human–LLM interaction. arXiv. https://arxiv.org/abs/2607.17643. [doi:10.48550/arxiv.2607.17643](https://doi.org/10.48550/arxiv.2607.17643)"
     author: "Chen, Z., Li, H., Xiao, Z., Qu, H., & Xie, X."
     q: 2
     i: 1
@@ -30,7 +30,7 @@ sources:
 # Constructive engagement is ecologically organized: amplified by explicit learning-oriented framing, higher in coding than writing, and more visible in sustained exchanges
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2` · `i1` small
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` Conversations framed around learning showed higher cognitive and constructive user-turn rates than unframed conversations in every setting. [→ Chen 2026](#chen-2026)
@@ -50,7 +50,7 @@ Descriptive contrast across the six task settings comparing framed versus unfram
 
 ### Chen 2026 (2)
 
-Chen, Z., Li, H., Xiao, Z., Qu, H., & Xie, X. (2026). Informal learning emerges in everyday human–LLM interaction. arXiv. https://arxiv.org/abs/2607.17643
+Chen, Z., Li, H., Xiao, Z., Qu, H., & Xie, X. (2026). Informal learning emerges in everyday human–LLM interaction. arXiv. https://arxiv.org/abs/2607.17643. [doi:10.48550/arxiv.2607.17643](https://doi.org/10.48550/arxiv.2607.17643)
 
 `q2 · i1` · `associational · r2`
 

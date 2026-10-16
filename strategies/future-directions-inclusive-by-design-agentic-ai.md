@@ -3,7 +3,7 @@ type: strategy
 id: future-directions-inclusive-by-design-agentic-ai
 title: Prioritize inclusive-by-design architectures, interoperable agent frameworks, human-AI collaboration models, and real-world implementation studies
 description: "The article's future directions section recommends four research and development priorities for agentic AI in higher education: \"Future research on agentic AI ecosystems in higher education should focus on advancing b..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

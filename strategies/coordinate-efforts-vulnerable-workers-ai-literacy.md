@@ -3,7 +3,7 @@ type: strategy
 id: coordinate-efforts-vulnerable-workers-ai-literacy
 title: Coordinate cross-sector efforts to address AI literacy gaps, focusing on vulnerable workers lacking foundational digital literacy
 description: "The brief recommends that government agencies, policymakers, advocacy organizations, foundations, and non-profits \"coordinate efforts to address AI literacy gaps, particularly focusing on vulnerable workers who lack f..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

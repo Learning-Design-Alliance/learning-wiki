@@ -3,7 +3,7 @@ type: claim
 title: "Across 1.77M answer-pair comparisons, explicit contradiction is rare (0.06%) while compatible differences in detail dominate (57.3% complementary) among non-absent pairs"
 description: "Across 1.77M answer-pair comparisons, explicit contradiction is rare (0.06%) while compatible differences in detail dominate (57.3% complementary) among non-absent pairs"
 id: contradiction-rare-complementary-dominates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

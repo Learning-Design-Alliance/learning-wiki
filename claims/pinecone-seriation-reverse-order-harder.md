@@ -3,7 +3,7 @@ type: claim
 title: Preschool children seriated pinecones by size largely by trial and error, and seriating in reverse order was more challenging and needed extensive verbal cueing
 description: Preschool children seriated pinecones by size largely by trial and error, and seriating in reverse order was more challenging and needed extensive verbal cueing
 id: pinecone-seriation-reverse-order-harder
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -4,7 +4,7 @@ id: career-academies
 title: Career Academies
 description: Career Academies is a school-within-a-school programme model that combines small learning communities, career-themed academic and career courses, work experience, and partnerships with employers, higher education, and the community.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

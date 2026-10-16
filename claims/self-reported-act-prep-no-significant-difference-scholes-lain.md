@@ -3,7 +3,7 @@ type: claim
 title: "Self-reported test preparation showed no significant difference in ACT composite scores in a national sample (Scholes & Lain, 1997, Experiment 2)"
 description: "Self-reported test preparation showed no significant difference in ACT composite scores in a national sample (Scholes & Lain, 1997, Experiment 2)"
 id: self-reported-act-prep-no-significant-difference-scholes-lain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

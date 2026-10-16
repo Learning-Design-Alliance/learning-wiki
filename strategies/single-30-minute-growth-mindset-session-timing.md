@@ -3,7 +3,7 @@ type: strategy
 id: single-30-minute-growth-mindset-session-timing
 title: Deliver growth mindset messages once, near the start of college or around first exams, in roughly 30-minute sessions
 description: "An implementable delivery recipe drawn from the six studies meeting WWC standards: \"Growth Mindset interventions in postsecondary settings typically occur once, either at the start of a student's first year of college..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -4,7 +4,7 @@ id: knowledge-map-content-understanding-assessment
 title: Knowledge map assessment of content understanding
 description: "A knowledge mapping task in which participants build a map of the game's content, scored to measure the content-understanding component of problem solving."
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

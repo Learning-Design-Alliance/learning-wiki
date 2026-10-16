@@ -3,7 +3,7 @@ type: claim
 title: Positive motivational assessments of introductory activities correlate weakly with learning outcomes on near-in-time tests but not with distant exam results
 description: Positive motivational assessments of introductory activities correlate weakly with learning outcomes on near-in-time tests but not with distant exam results
 id: motivational-assessments-correlate-weakly-near-tests
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

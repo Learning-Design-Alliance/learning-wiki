@@ -3,7 +3,7 @@ type: design
 id: five-category-ai-image-artifact-taxonomy
 title: Five-category artifact taxonomy for evaluating AI-generated images
 description: The article organizes visual inspection of AI-generated images around a taxonomy of five artifact categories drawn from a written guide on distinguishing AI-generated images from authentic photographs.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

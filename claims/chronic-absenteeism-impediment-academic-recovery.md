@@ -4,7 +4,7 @@ title: A NWEA research brief examines the relationship between chronic absenteei
 description: A NWEA research brief examines the relationship between chronic absenteeism and academic recovery from COVID-era disruptions to learning
 id: chronic-absenteeism-impediment-academic-recovery
 aliases: [chronic-absenteeism-academic-recovery-relationship]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

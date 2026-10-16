@@ -3,7 +3,7 @@ type: claim
 title: Former English Learners graduated from CPS high school at a higher rate than never-English Learners, while active English Learners graduated at a slightly lower rate
 description: Former English Learners graduated from CPS high school at a higher rate than never-English Learners, while active English Learners graduated at a slightly lower rate
 id: cps-graduation-english-learner-status
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

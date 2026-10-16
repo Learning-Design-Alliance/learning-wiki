@@ -3,7 +3,7 @@ type: strategy
 id: report-attribute-profiles-for-remediation
 title: Report diagnostic attribute profiles back to examinees to guide targeted practice
 description: Use Rule Space diagnostic classifications to give examinees information beyond a global proficiency score.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -46,4 +46,4 @@ Use Rule Space diagnostic classifications to give examinees information beyond a
 -
 
 ## Key Sources
-- Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652
+- Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652. [doi:10.21236/ada273789](https://doi.org/10.21236/ada273789)

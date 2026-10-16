@@ -68,7 +68,7 @@ Explicit perspective taking improves social understanding, empathy, and intergro
 - [Frame the LLM as an instructor predicting a student's response rather than as the learner itself](frame-llm-as-instructor-predicting-student-response.md)
 
 ## Examples
-- **Facing History and Ourselves** (https://www.facinghistory.org) — history curriculum built around structured prompts asking students to write and discuss from the viewpoints of participants in historical atrocities and resistance, with explicit norms separating understanding from endorsement.
+- **[Facing History and Ourselves](../products/facing-history-and-ourselves.md)** (https://www.facinghistory.org) — history curriculum built around structured prompts asking students to write and discuss from the viewpoints of participants in historical atrocities and resistance, with explicit norms separating understanding from endorsement.
 - **Perspective-taking writing in literature instruction** — students compose a character's diary entry at a turning point, citing textual evidence for each inference, then compare entries in small groups.
 - **Empathic discipline prompts for teachers** — brief online modules asking teachers to reappraise student misbehavior from the student's perspective improved teacher–student relationships and cut suspension rates [Brief empathic discipline intervention reduces suspensions.](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) [+M].
 

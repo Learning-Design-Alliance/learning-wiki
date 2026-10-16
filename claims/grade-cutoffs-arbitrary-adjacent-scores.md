@@ -3,7 +3,7 @@ type: claim
 title: "Grade cutoffs are arbitrary because adjacent scores receiving different grades are not significantly different, per the author's statistical argument"
 description: "Grade cutoffs are arbitrary because adjacent scores receiving different grades are not significantly different, per the author's statistical argument"
 id: grade-cutoffs-arbitrary-adjacent-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

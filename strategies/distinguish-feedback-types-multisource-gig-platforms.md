@@ -3,7 +3,7 @@ type: strategy
 id: distinguish-feedback-types-multisource-gig-platforms
 title: Distinguish the purposes and scales of coexisting feedback sources in educational gig platforms
 description: "The article's first design consideration holds that when multiple feedback sources coexist where learner feedback carries strong evaluative weight, systems should \"distinguish their purposes and scales\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

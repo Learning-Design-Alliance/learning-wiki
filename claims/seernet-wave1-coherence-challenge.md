@@ -3,7 +3,7 @@ type: claim
 title: "Wave 1's greatest challenge was achieving mutual knowledge and coherence among six independently selected projects while respecting their differences"
 description: "Wave 1's greatest challenge was achieving mutual knowledge and coherence among six independently selected projects while respecting their differences"
 id: seernet-wave1-coherence-challenge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

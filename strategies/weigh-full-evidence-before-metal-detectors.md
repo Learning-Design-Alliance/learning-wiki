@@ -3,7 +3,7 @@ type: strategy
 id: weigh-full-evidence-before-metal-detectors
 title: Districts considering metal detectors should weigh the full range of evidence, especially when doing so in lieu of funding other prevention efforts
 description: "The brief's concluding recommendation is that school districts considering metal detectors, particularly as a substitute for other prevention efforts, review the whole evidence base on effectiveness, cost and unintend..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

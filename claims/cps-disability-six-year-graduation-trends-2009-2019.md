@@ -3,7 +3,7 @@ type: claim
 title: Six-year graduation rates for students with behavioral and learning disabilities increased substantially between 2009 and 2019, while rates for cognitive disabilities slightly declined
 description: Six-year graduation rates for students with behavioral and learning disabilities increased substantially between 2009 and 2019, while rates for cognitive disabilities slightly declined
 id: cps-disability-six-year-graduation-trends-2009-2019
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

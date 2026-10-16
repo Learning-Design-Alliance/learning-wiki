@@ -3,7 +3,7 @@ type: design
 id: edusim-llm-four-module-architecture
 title: Four-module architecture for language-driven robot control in educational simulation
 description: The article describes a hierarchical instruction processing pipeline in which natural language is translated into executable robot behavior.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

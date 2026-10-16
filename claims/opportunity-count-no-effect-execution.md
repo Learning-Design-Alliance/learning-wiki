@@ -3,7 +3,7 @@ type: claim
 title: "Repeated opportunities to apply tutor moves did not by themselves improve execution: opportunity count, lesson completion, and their interaction showed no significant effects on successful execution"
 description: "Repeated opportunities to apply tutor moves did not by themselves improve execution: opportunity count, lesson completion, and their interaction showed no significant effects on successful execution"
 id: opportunity-count-no-effect-execution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

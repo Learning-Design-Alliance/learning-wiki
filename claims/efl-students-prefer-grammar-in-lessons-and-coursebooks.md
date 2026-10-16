@@ -3,7 +3,7 @@ type: claim
 title: EFL students across all years of study prefer having grammar included as part of their lessons and course books
 description: EFL students across all years of study prefer having grammar included as part of their lessons and course books
 id: efl-students-prefer-grammar-in-lessons-and-coursebooks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

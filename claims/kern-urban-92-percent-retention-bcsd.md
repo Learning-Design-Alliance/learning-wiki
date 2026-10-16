@@ -3,7 +3,7 @@ type: claim
 title: "Kern Urban Teacher Residency graduates are retained at high rates in the partner district, with 92% of its 114 graduates continuing to work in BCSD"
 description: "Kern Urban Teacher Residency graduates are retained at high rates in the partner district, with 92% of its 114 graduates continuing to work in BCSD"
 id: kern-urban-92-percent-retention-bcsd
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

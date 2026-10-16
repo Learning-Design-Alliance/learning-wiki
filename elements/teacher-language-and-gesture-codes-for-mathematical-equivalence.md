@@ -4,7 +4,7 @@ id: teacher-language-and-gesture-codes-for-mathematical-equivalence
 title: Teacher Language and Gesture Coding Scheme for Mathematical Equivalence
 description: "A coding scheme with four language codes (ISA, \"is the same as\"; DEF, definition; BAL, balance; FORM, equation form) and two gesture codes (GBAL, balance gesture; GSIDES, equation sides gesture) for a teacher's talk a..."
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

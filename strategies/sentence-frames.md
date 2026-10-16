@@ -93,7 +93,7 @@ Sentence frames reduce the linguistic and cognitive burden of response productio
 ## Examples
 - **Science argumentation**: "The evidence shows ______, which supports my claim that ______" used in claim–evidence–reasoning (CER) writing frames common in NGSS-aligned curricula.
 - **Online discussion boards**: An instructor pins a "respectful disagreement" template ("I understand your point about ______, but I see it differently because ______") at the top of a course forum thread.
-- **Structured academic controversy**: In debate formats, each side is given frames for presenting positions ("Our position is ______ because ______") and responding ("We hear your claim that ______; however, ______").
+- **[Structured academic controversy](../patterns/structured-academic-controversy.md)**: In debate formats, each side is given frames for presenting positions ("Our position is ______ because ______") and responding ("We hear your claim that ______; however, ______").
 - **Academic conversations (Zwiers & Crawford, 2011)** — content-area teachers use prompt, respond, and follow-up frames ("What do you mean by ___?" "I agree/disagree with ___ because ___") to build sustained peer dialogue across subjects.
 - **Structured academic controversy in online forums** — digital citizenship lessons supply disagreement frames ("I see it differently because ___," "Can you say more about ___?") so that online debate stays evidence-based and respectful rather than adversarial.
 - **Science explanation frames** — claim-evidence-reasoning stems ("The data show ___, which supports my claim that ___ because ___") scaffold scientific writing in curricula such as those from the [Claim-Evidence-Reasoning framework](https://k12science.org/).

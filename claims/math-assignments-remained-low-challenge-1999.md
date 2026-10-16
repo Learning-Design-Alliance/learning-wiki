@@ -3,7 +3,7 @@ type: claim
 title: More than 80 percent of sixth and eighth grade mathematics assignments in 1999 provided only minimal or no intellectual challenge
 description: More than 80 percent of sixth and eighth grade mathematics assignments in 1999 provided only minimal or no intellectual challenge
 id: math-assignments-remained-low-challenge-1999
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

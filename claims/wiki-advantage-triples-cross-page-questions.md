@@ -3,7 +3,7 @@ type: claim
 title: "The wiki's advantage over vector RAG is roughly three times larger on cross-page questions than on topic-page questions, in both score and groundedness"
 description: "The wiki's advantage over vector RAG is roughly three times larger on cross-page questions than on topic-page questions, in both score and groundedness"
 id: wiki-advantage-triples-cross-page-questions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

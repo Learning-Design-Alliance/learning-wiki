@@ -3,7 +3,7 @@ type: claim
 title: Teachers in one focus-group study show disciplinary variation in how they assess communication
 description: Disciplinary variation emerged in communication assessment, with STEM teachers emphasizing technical precision and humanities teachers audience adaptation
 id: disciplinary-variation-communication-assessment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

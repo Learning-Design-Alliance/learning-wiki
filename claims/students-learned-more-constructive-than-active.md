@@ -3,7 +3,7 @@ type: claim
 title: In the 5-year translation project, students learned significantly more in Constructive than Active activities
 description: In the 5-year translation project, students learned significantly more in Constructive than Active activities
 id: students-learned-more-constructive-than-active
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: From 2012 to 2017, average inflation-adjusted per-pupil revenue and expenditure were greater in rural Utah districts than in non-rural districts
 description: From 2012 to 2017, average inflation-adjusted per-pupil revenue and expenditure were greater in rural Utah districts than in non-rural districts
 id: utah-rural-higher-per-pupil-revenue-expenditure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

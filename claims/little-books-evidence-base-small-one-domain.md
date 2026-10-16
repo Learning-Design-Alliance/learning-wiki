@@ -3,7 +3,7 @@ type: claim
 title: "The evidence base for Little Books is small: only one study met WWC standards, addressing only general reading achievement, with no studies meeting standards for alphabetics, fluency, or comprehension"
 description: "The evidence base for Little Books is small: only one study met WWC standards, addressing only general reading achievement, with no studies meeting standards for alphabetics, fluency, or comprehension"
 id: little-books-evidence-base-small-one-domain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Educators see AI as having potential to increase capacity for high-quality formative assessment, which is an operational challenge at scale
 description: Educators see AI as having potential to increase capacity for high-quality formative assessment, which is an operational challenge at scale
 id: ai-formative-assessment-capacity-demand
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -4,7 +4,7 @@ id: air-tutors
 title: Air Tutors
 description: Air Tutors is a virtual high-dosage math tutoring programme run by Air Tutors that provides small-group online tutoring for upper-elementary and early-middle-school students.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09
@@ -127,7 +127,7 @@ Targeted Skills Instruction is "a live, small-group virtual tutoring program for
 
 ## Related Elements
 
-- [Edmentum Exact Path: computer-adaptive supplemental program supporting instruction and assignment](../products/exact-path.md)
+- [Edmentum Exact Path: computer-adaptive supplemental program supporting instruction and assignment](edmentum-exact-path.md)
 - [Galaxy Math one-to-one tutoring program for at-risk first graders](galaxy-math.md)
 - [Cignition virtual group math tutoring program](../products/cignition.md)
 

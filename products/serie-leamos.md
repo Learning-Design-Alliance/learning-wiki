@@ -4,7 +4,7 @@ id: serie-leamos
 title: Serie Leamos
 description: "Serie Leamos is a free digital Spanish library created by Georgia State University's Spanish program and School of Art and Design, offering student-written and student-illustrated stories with multiple reading levels, vocabulary support, activities, downloadable texts, and audiobooks."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

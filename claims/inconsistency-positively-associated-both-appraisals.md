@@ -3,7 +3,7 @@ type: claim
 title: "Perceived GAI advocacy–practice inconsistency is positively associated with both hindrance and challenge appraisal in students' actual experiences"
 description: "Perceived GAI advocacy–practice inconsistency is positively associated with both hindrance and challenge appraisal in students' actual experiences"
 id: inconsistency-positively-associated-both-appraisals
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

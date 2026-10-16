@@ -3,7 +3,7 @@ type: claim
 title: Sanction threats on low-performing schools can raise student test scores in the short run, but the role of gaming behavior versus genuine reform has been uncertain
 description: Sanction threats on low-performing schools can raise student test scores in the short run, but the role of gaming behavior versus genuine reform has been uncertain
 id: sanction-threats-short-run-score-gains-gaming-uncertain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

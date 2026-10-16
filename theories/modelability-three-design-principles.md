@@ -2,7 +2,7 @@
 type: theory
 title: "Modelability: designing learning ecosystems to support generalizable predictive models via three principles"
 description: "Modelability is defined as \"the extent to which a system is designed to support the development of models that are generalizable\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

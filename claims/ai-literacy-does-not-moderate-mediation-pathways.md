@@ -3,7 +3,7 @@ type: claim
 title: Perceived AI literacy does not moderate the indirect warmth and competence pathways from GenAI use to trust
 description: Perceived AI literacy does not moderate the indirect warmth and competence pathways from GenAI use to trust
 id: ai-literacy-does-not-moderate-mediation-pathways
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

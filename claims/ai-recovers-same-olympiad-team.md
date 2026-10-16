@@ -3,7 +3,7 @@ type: claim
 title: AI grading recovered the same five-student International Physics Olympiad team as official human grading in both rounds, though with a different internal ranking
 description: AI grading recovered the same five-student International Physics Olympiad team as official human grading in both rounds, though with a different internal ranking
 id: ai-recovers-same-olympiad-team
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

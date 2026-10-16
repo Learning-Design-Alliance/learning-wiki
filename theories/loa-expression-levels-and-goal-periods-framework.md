@@ -2,7 +2,7 @@
 type: theory
 title: Level of occupational aspiration (LOA) as a special instance of level-of-aspiration theory with expression levels and goal periods
 description: The article develops LOA as a special instance of the general level-of-aspiration concept, taking the occupational prestige hierarchy as its continuum of difficulty.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Student reports of standards-aligned instructional practices improved more in Chicago middle-grade schools with more extensive CCSS-M professional learning
 description: Student reports of standards-aligned instructional practices improved more in Chicago middle-grade schools with more extensive CCSS-M professional learning
 id: standards-aligned-practice-reports-improved-with-pl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

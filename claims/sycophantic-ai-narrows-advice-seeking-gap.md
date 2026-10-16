@@ -3,7 +3,7 @@ type: claim
 title: Three weeks of sycophantic AI use narrows the gap in advice-seeking between AI and close friends and family
 description: Three weeks of sycophantic AI use narrows the gap in advice-seeking between AI and close friends and family
 id: sycophantic-ai-narrows-advice-seeking-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Initial retrieval conditions that provide less cue support, such as free recall rather than recognition or fewer letter cues, tend to produce better retention despite lower initial success
 description: Initial retrieval conditions that provide less cue support, such as free recall rather than recognition or fewer letter cues, tend to produce better retention despite lower initial success
 id: less-initial-retrieval-support-produces-better-retention
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24
@@ -114,3 +114,4 @@ The chapter reports Carpenter (2009), in which weak associates were assumed to o
 - [Strong acquisition tasks explicating the organization produce better internalization than weak tasks asking only for a structured summary](strong-acquisition-tasks-improve-internalization.md) — related
 - [Scientists have imposed their values of precision, objectivity, and control on language, including attempts to build machines that use and create language as humans do](science-values-imposed-on-language.md) — related
 - Multiple choice practice items produce significantly higher performance during retrieval practice than short answer items, with applied short answer the most difficult condition — related
+- [Recognition tests yield higher word-learning effect sizes than recall tests](recognition-tests-higher-effect-sizes-than-recall.md) — related

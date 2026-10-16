@@ -3,7 +3,7 @@ type: claim
 title: Charter high school attendees experience higher earnings in their mid-20s
 description: Charter high school attendees experience higher earnings in their mid-20s
 id: charter-high-schools-higher-mid-twenties-earnings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

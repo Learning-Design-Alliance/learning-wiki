@@ -3,7 +3,7 @@ type: claim
 title: "Gains in sophomore performance were unequal: about one in five Latino and Black young men were off-track at the end of sophomore year"
 description: "Gains in sophomore performance were unequal: about one in five Latino and Black young men were off-track at the end of sophomore year"
 id: sophomore-gains-unequal-by-race-gender
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

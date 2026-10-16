@@ -4,7 +4,7 @@ id: kwara-stem-ai-tutor
 title: Kwara-STEM AI Tutor
 description: A localized AI diagnostic tutoring tool developed for STEM practical instruction that provides students with real-time feedback and correction during tasks.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

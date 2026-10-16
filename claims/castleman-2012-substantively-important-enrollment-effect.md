@@ -3,7 +3,7 @@ type: claim
 title: In the Castleman et al. (2012) RCT, summer counseling showed a substantively important positive effect on fall college enrollment despite non-significant test statistics
 description: In the Castleman et al.
 id: castleman-2012-substantively-important-enrollment-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

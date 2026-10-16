@@ -3,7 +3,7 @@ type: claim
 title: Telegram-based chatbot use declined after initial novelty, with platform friction cited as a barrier
 description: Telegram-based chatbot use declined after initial novelty, with platform friction cited as a barrier
 id: telegram-chatbot-use-declined-novelty-platform-friction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

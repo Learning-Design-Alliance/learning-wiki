@@ -3,7 +3,7 @@ type: claim
 title: Teachers in the top quartile of districts on SLO support report receiving at least five SLO support strategies at rates 20 percentage points higher than teachers in the bottom quartile
 description: Teachers in the top quartile of districts on SLO support report receiving at least five SLO support strategies at rates 20 percentage points higher than teachers in the bottom quartile
 id: slo-support-district-quartile-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

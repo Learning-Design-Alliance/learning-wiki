@@ -4,7 +4,7 @@ id: principals-pursuing-excellence-ppe
 title: Principals Pursuing Excellence (PPE)
 description: A two-year competency-based programme initiated by the New Mexico Public Education Department to develop and support turnaround principals, with trained mentors and leadership-focused training.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

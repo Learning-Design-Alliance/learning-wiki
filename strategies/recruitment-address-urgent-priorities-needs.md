@@ -3,7 +3,7 @@ type: strategy
 id: recruitment-address-urgent-priorities-needs
 title: "Address districts' and schools' urgent priorities and needs when recruiting them for impact studies"
 description: This strategy directs researchers to attend to the urgent priorities and needs of districts and schools during recruitment for impact studies.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

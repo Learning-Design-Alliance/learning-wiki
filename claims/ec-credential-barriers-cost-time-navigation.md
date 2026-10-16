@@ -3,7 +3,7 @@ type: claim
 title: Early childhood credential candidates face financial, time, and navigation barriers that fall hardest on candidates of color
 description: Early childhood credential candidates face financial, time, and navigation barriers that fall hardest on candidates of color
 id: ec-credential-barriers-cost-time-navigation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Baseline equivalence held between conditions, but both groups scored far below the grade 8 proficiency cut score
 description: Baseline equivalence held between conditions, but both groups scored far below the grade 8 proficiency cut score
 id: assistments-baseline-equivalence-proficiency-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

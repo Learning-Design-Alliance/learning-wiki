@@ -3,7 +3,7 @@ type: claim
 title: "Each SRJudge component contributes: the Reasoner and Judger add measurable F1 gains over the Selector alone"
 description: "Each SRJudge component contributes: the Reasoner and Judger add measurable F1 gains over the Selector alone"
 id: srjudge-ablation-components-contribute
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

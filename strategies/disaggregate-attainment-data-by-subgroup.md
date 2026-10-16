@@ -3,7 +3,7 @@ type: strategy
 id: disaggregate-attainment-data-by-subgroup
 title: Disaggregate attainment data by student subgroup to locate barriers and target supports
 description: "The researchers' approach of breaking attainment indicators down by student characteristics to understand which students face barriers."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

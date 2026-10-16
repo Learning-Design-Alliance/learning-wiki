@@ -3,7 +3,7 @@ type: strategy
 id: service-scholarships-residencies-shortage-fields
 title: Offer targeted service scholarships, loan forgiveness, and 1-year postbaccalaureate residency programs to rapidly expand the supply of well-prepared teachers in shortage fields and locations
 description: "The report recommends state incentives that recruit candidates into high-need fields and locations: service scholarships and loan forgiveness covering tuition and living expenses, and high-retention 1-year postbaccala..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Classroom teachers rarely consult research when making decisions about their classroom practices, citing time constraints, the vastness of research, paywalls, and perceived distance from practice
 description: Classroom teachers rarely consult research when making decisions about their classroom practices, citing time constraints, the vastness of research, paywalls, and perceived distance from practice
 id: teachers-rarely-consult-research-decision-making
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

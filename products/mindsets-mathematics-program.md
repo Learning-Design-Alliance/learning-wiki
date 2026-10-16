@@ -4,7 +4,7 @@ id: mindsets-mathematics-program
 title: Mindsets mathematics program
 description: Mindsets is a middle-school mathematics curriculum program built around collaborative, hands-on, challenge-based tasks aligned with the Standards for Mathematical Practice and supported by teacher professional development and implementation assistance.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

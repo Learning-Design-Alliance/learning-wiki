@@ -3,7 +3,7 @@ type: claim
 title: When only RCTs with active control groups are analysed, MBI benefits are restricted to Mindfulness (d = .42), Depression (d = .47) and Anxiety/Stress (d = .18)
 description: When only RCTs with active control groups are analysed, MBI benefits are restricted to Mindfulness (d = .42), Depression (d = .47) and Anxiety/Stress (d = .18)
 id: active-control-rcts-benefits-restricted
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
@@ -52,3 +52,4 @@ Separate random effects meta-analysis of the 17 studies (n = 1,762) using an RCT
 - [Age significantly moderates MBI effects on executive functions across all RCTs (larger benefits with older age) and on negative behaviour in active-control RCTs (larger benefits with younger age)](age-moderates-mbi-outcomes.md) — related
 - [Across all RCTs, mindfulness-based interventions significantly improve mindfulness, executive functioning, attention, depression, anxiety/stress and negative behaviours in youth, with small effect sizes](mbis-small-positive-effects-all-rcts-youth.md) — a broader claim this one bears on
 - [Total training hours significantly moderate MBI effects on negative behaviour across all RCTs, with more hours associated with larger reductions](training-dose-moderates-negative-behaviour.md) — related
+- [Studies using a no-input control group yield significantly smaller effect sizes, protecting against overestimation](control-group-smaller-effect-sizes.md) — related

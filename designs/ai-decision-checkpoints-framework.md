@@ -3,7 +3,7 @@ type: design
 id: ai-decision-checkpoints-framework
 title: "AI-decision checkpoints framework: one explicit AI-adoption decision point per BPM lifecycle phase"
 description: The framework uses the BPM lifecycle to structure explicit, phase-related decisions about AI adoption across identification, discovery, analysis, redesign, implementation, and monitoring.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

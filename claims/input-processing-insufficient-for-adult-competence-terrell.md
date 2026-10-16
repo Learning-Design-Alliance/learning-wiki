@@ -3,7 +3,7 @@ type: claim
 title: Informal evidence that adults do not automatically process input to develop competence reopens the role of grammar instruction (as reported by the bibliography, citing Terrell)
 description: Informal evidence that adults do not automatically process input to develop competence reopens the role of grammar instruction (as reported by the bibliography, citing Terrell)
 id: input-processing-insufficient-for-adult-competence-terrell
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

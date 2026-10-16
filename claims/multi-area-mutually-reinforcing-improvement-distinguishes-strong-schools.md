@@ -3,7 +3,7 @@ type: claim
 title: Schools that improved focused on multiple mutually-reinforcing aspects of school organization rather than a single aspect
 description: Schools that improved focused on multiple mutually-reinforcing aspects of school organization rather than a single aspect
 id: multi-area-mutually-reinforcing-improvement-distinguishes-strong-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

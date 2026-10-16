@@ -3,7 +3,7 @@ type: claim
 title: Impression narratives rely on weakly diagnostic suspicion heuristics such as response speed, fluency, and perceived scriptedness
 description: Impression narratives rely on weakly diagnostic suspicion heuristics such as response speed, fluency, and perceived scriptedness
 id: suspicion-heuristics-weakly-diagnostic
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

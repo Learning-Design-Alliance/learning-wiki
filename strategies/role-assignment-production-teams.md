@@ -3,7 +3,7 @@ type: strategy
 id: role-assignment-production-teams
 title: Assign diverse production roles in multimedia teams
 description: Structure multimedia production so students take diverse roles, including writer, painter, video editor, audio mixer, and computer operator, supported by a constructed role structure and role assignment.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

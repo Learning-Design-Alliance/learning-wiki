@@ -2,7 +2,7 @@
 type: theory
 title: Participant engagement as a continuum shaped by influencing factors and research stage
 description: The brief conceptualizes how study participants and community members are involved in research as a continuum rather than a binary.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

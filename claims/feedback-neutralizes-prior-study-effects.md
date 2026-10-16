@@ -3,7 +3,7 @@ type: claim
 title: Feedback neutralizes the effect of prior study on final cued recall performance
 description: Feedback neutralizes the effect of prior study on final cued recall performance
 id: feedback-neutralizes-prior-study-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

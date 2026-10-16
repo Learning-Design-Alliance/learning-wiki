@@ -3,7 +3,7 @@ type: strategy
 id: ai-literacy-against-cognitive-surrender
 title: Teach AI literacy — how and when LLMs fail — to guard against cognitive surrender
 description: "Among the directions the article opens is AI literacy: \"whether teaching users how and when LLMs fail can restore judgment suspension and, more generally, guard against cognitive surrender\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -2,7 +2,7 @@
 type: theory
 title: Interpersonal complementarity principle (Leary Circumplex / Carson)
 description: "The article organizes its hypotheses around the complementarity principle from the Leary Interpersonal Circumplex: high-probability elicitation-response sequences (dominance followed by submissiveness, submissiveness..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
@@ -47,4 +47,4 @@ The article organizes its hypotheses around the complementarity principle from t
 - [Therapist Complementarity Index (CI) derived from a weighted 4x4 Interaction Matrix](../elements/therapist-complementarity-index-interaction-matrix.md)
 
 ## Key Sources
-- Dietzel, C. S.; Abeles, Norman. (1974). Client-Therapist Complementarity and Therapeutic Outcome. https://eric.ed.gov/?id=ED091646
+- Dietzel, C. S.; Abeles, Norman. (1974). Client-Therapist Complementarity and Therapeutic Outcome. https://eric.ed.gov/?id=ED091646. [doi:10.1037/h0076731](https://doi.org/10.1037/h0076731)

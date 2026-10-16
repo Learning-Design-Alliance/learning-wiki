@@ -3,7 +3,7 @@ type: claim
 title: "Adjudicated sycophancy on post-pressure tutor responses reaches 14.1% across two frontier LLM tutors in the EDUFRAMETRAP test set"
 description: "Adjudicated sycophancy on post-pressure tutor responses reaches 14.1% across two frontier LLM tutors in the EDUFRAMETRAP test set"
 id: llm-tutor-sycophancy-rate-14-percent-eduframetrap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

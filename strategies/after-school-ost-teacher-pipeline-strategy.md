@@ -3,7 +3,7 @@ type: strategy
 id: after-school-ost-teacher-pipeline-strategy
 title: Build an after-school/out-of-school-time pipeline into teaching to diversify the teacher workforce
 description: "The brief proposes recruiting and preparing staff with experience in after-school or out-of-school time (OST) programs to enter teaching, calling this an \"underutilized strategy\" and a \"potentially high-leverage pipel..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

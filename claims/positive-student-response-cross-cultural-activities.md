@@ -3,7 +3,7 @@ type: claim
 title: Students respond positively to e-mail exchanges, guest speaker interviews, and video projects aimed at cross-cultural awareness
 description: Students respond positively to e-mail exchanges, guest speaker interviews, and video projects aimed at cross-cultural awareness
 id: positive-student-response-cross-cultural-activities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

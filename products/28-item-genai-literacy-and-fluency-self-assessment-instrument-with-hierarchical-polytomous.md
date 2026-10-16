@@ -4,7 +4,7 @@ id: 28-item-genai-literacy-and-fluency-self-assessment-instrument-with-hierarchi
 title: 28-item GenAI Literacy and Fluency self-assessment instrument with hierarchical polytomous items
 description: An Oliveira et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11
@@ -28,4 +28,4 @@ An Oliveira et al. (2026) self-assessment instrument measuring university studen
 -
 
 ## Key Sources
-- Oliveira, E., English, N., Ryan, T., Misiejuk, K., dal Ponte, C., López-Pernas, S., & Saqr, M. (2026). The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy. Preprint. https://arxiv.org/abs/2607.05411
+- Oliveira, E., English, N., Ryan, T., Misiejuk, K., dal Ponte, C., López-Pernas, S., & Saqr, M. (2026). The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy. Preprint. https://arxiv.org/abs/2607.05411. [doi:10.48550/arxiv.2607.05411](https://doi.org/10.48550/arxiv.2607.05411)

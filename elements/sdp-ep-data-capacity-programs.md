@@ -3,7 +3,7 @@ type: element
 id: sdp-ep-data-capacity-programs
 title: Strategic Data Project and Education Pioneers programs supporting data capacity in education agencies
 description: The Strategic Data Project (SDP) and Education Pioneers (EP) programs are initiatives studied in this implementation study.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

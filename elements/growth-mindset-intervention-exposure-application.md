@@ -3,7 +3,7 @@ type: element
 id: growth-mindset-intervention-exposure-application
 title: Growth Mindset intervention with exposure and application components
 description: A brief psychological intervention for postsecondary students aiming to improve academic achievement and persistence by helping students view intellectual ability as something that can grow with effort rather than as...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

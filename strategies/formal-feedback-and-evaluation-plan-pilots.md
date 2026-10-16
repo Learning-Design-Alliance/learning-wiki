@@ -3,7 +3,7 @@ type: strategy
 id: formal-feedback-and-evaluation-plan-pilots
 title: Build formal feedback mechanisms and an evaluation plan into ed-tech pilots
 description: The report recommends that districts treat student and teacher feedback as a formal component of pilot evaluation rather than an informal afterthought, and that they plan evaluation designs in advance when assessment...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Teachers reported increased use of culturally and linguistically relevant instruction over the year, while teacher collaboration remained unchanged
 description: Teachers reported increased use of culturally and linguistically relevant instruction over the year, while teacher collaboration remained unchanged
 id: wts-clri-increased-collaboration-unchanged
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "District pre-K enrollment was not associated with kindergarten-entry achievement levels or with districts' achievement trends over time"
 description: "District pre-K enrollment was not associated with kindergarten-entry achievement levels or with districts' achievement trends over time"
 id: district-prek-enrollment-not-associated-entry-skills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

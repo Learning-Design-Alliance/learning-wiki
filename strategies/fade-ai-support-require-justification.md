@@ -3,7 +3,7 @@ type: strategy
 id: fade-ai-support-require-justification
 title: Design AI educational systems that fade support and require learner justification to preserve independent problem solving
 description: The article recommends designing AI-supported instruction that balances external assistance with the establishment of self-control, so that systems are supportive enough while still allowing independent problem solving.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -47,6 +47,7 @@ The article recommends designing AI-supported instruction that balances external
 - [Discourage mental offloading to AI by balancing guidance depth and frequency with application opportunities](discourage-mental-offloading-balance-guidance-application.md)
 - [Completion Problems First](completion-problems-first.md)
 - [Balance human and automated feedback to optimize writing skill development](balance-human-and-automated-feedback-writing.md)
+- [Use learner skill levels to determine when to transition from worked examples to problem solving in tutoring systems](skill-based-adaptive-fading-schedule.md)
 
 ## Examples
 -

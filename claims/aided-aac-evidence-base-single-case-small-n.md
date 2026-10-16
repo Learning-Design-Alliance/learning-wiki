@@ -3,7 +3,7 @@ type: claim
 title: The research base on aided AAC approaches for individuals with autism consists mostly of single-case research with small numbers of participants
 description: The research base on aided AAC approaches for individuals with autism consists mostly of single-case research with small numbers of participants
 id: aided-aac-evidence-base-single-case-small-n
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

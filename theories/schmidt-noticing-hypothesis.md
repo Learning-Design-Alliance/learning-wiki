@@ -3,7 +3,7 @@ type: theory
 title: "Schmidt's noticing hypothesis"
 description: "Schmidt's claim that second language acquisition requires conscious noticing of features in the input, that learners who notice more learn more, and that noticing the gap between one's own output and the target is a route to change."
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-30
@@ -65,6 +65,7 @@ The articles also mark the hypothesis's weak points. Barnawi (eric-ej930155) not
 - [Ellis's revised Interaction Hypothesis: acquisition via noticing, comparison and integration](ellis-revised-interaction-hypothesis.md)
 
 ## Examples
+
 - [Three-stage writing task: write with problem notes, compare to a model paragraph, then rewrite](../strategies/three-stage-noticing-writing-task.md)
 - [While-noticing stage pairs contrastive-critical framing with transformed practice as interrelated tasks](../designs/cft-while-noticing-tasks-pattern.md)
 - [Train and model the collaborative feedback process before students notice gaps (pre-noticing stage)](../strategies/model-cft-process-before-noticing.md)
@@ -72,6 +73,7 @@ The articles also mark the hypothesis's weak points. Barnawi (eric-ej930155) not
 - [Start grammar instruction from the problems learners notice in their own written output](../strategies/grammar-instruction-from-noticed-writing-problems.md)
 - [For child beginner language learners, keep task complexity low or moderate so attention remains available for noticing recasts](../principles/cognitive-load-management.md)
 - [Modeling feedback: an original native-speaker text used as a comparison model](../elements/modeling-feedback-native-speaker-text.md)
+- [Pair form-focused instruction with prompts that push learners to self-repair rather than recasts](../strategies/pair-ffi-with-prompts-not-recasts.md)
 
 ## Key Sources
 - Schmidt, R. W. (1990). The role of consciousness in second language learning. *Applied Linguistics, 11*(2), 129–158. [doi:10.1093/applin/11.2.129](https://doi.org/10.1093/applin/11.2.129)

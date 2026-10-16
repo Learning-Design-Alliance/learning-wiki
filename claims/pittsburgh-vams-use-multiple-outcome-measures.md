@@ -3,7 +3,7 @@ type: claim
 title: The Pittsburgh VAMs incorporate course-specific assessments, attendance, and course completion alongside state assessments
 description: The Pittsburgh VAMs incorporate course-specific assessments, attendance, and course completion alongside state assessments
 id: pittsburgh-vams-use-multiple-outcome-measures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

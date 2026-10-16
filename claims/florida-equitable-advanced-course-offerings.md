@@ -3,7 +3,7 @@ type: claim
 title: Florida shows more equitable advanced course offerings between high- and low-poverty schools, attributed by others to statewide opportunity efforts begun in the early 2000s
 description: Florida shows more equitable advanced course offerings between high- and low-poverty schools, attributed by others to statewide opportunity efforts begun in the early 2000s
 id: florida-equitable-advanced-course-offerings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

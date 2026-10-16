@@ -3,7 +3,7 @@ type: strategy
 id: invest-in-supportive-community-safety-strategies
 title: Invest in supportive-community strategies—mental health staffing, SEL, restorative practices, and relationship-centered structures—rather than expanded physical security
 description: "The report recommends that states and districts use Bipartisan Safer Communities Act and federal COVID-19 recovery funds to \"increase student access to mental health and counseling resources,\" adopt restorative practi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

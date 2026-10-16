@@ -3,7 +3,7 @@ type: claim
 title: "Teacher background relates to early experience and retention: male gender, prior work experience, and CPS graduation associate with good elementary experiences, while a master's degree and CPS graduation associate with lower high school retention"
 description: "Teacher background relates to early experience and retention: male gender, prior work experience, and CPS graduation associate with good elementary experiences, while a master's degree and CPS graduation associate wit..."
 id: teacher-background-experience-retention-associations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: District leaders filtered student and community voices through their own perspectives, so neither district fully removed security personnel despite calls to end policing in schools
 description: District leaders filtered student and community voices through their own perspectives, so neither district fully removed security personnel despite calls to end policing in schools
 id: leaders-filter-community-voices-security-retained
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

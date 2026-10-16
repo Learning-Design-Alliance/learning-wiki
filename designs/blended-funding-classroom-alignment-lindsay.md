@@ -3,7 +3,7 @@ type: design
 id: blended-funding-classroom-alignment-lindsay
 title: "Blended-funding classroom alignment: uniform curricula, assessments, quality measures, and ratios across funding streams"
 description: This pattern, observed in Lindsay Unified School District, aligns preschool classrooms funded through different streams by braiding funding and applying identical standards everywhere.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

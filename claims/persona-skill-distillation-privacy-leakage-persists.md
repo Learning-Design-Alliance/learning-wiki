@@ -3,7 +3,7 @@ type: claim
 title: Persona-skill distillation encodes substantial private information into skill artifacts, persisting across agent backbones and distillation protocols
 description: Persona-skill distillation encodes substantial private information into skill artifacts, persisting across agent backbones and distillation protocols
 id: persona-skill-distillation-privacy-leakage-persists
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

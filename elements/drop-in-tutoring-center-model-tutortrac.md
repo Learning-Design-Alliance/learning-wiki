@@ -3,7 +3,7 @@ type: element
 id: drop-in-tutoring-center-model-tutortrac
 title: Drop-in tutoring center model with circulating peer tutors and TutorTrac usage tracking
 description: "The Tutoring Center at Western Washington University uses a model in which \"students use the TC as a study area where tutors are available and freely circulate among students as they have questions,\" locally called dr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -55,4 +55,4 @@ The Tutoring Center at Western Washington University uses a model in which "stud
 -
 
 ## Key Sources
-- Cooper, E. (2010). Tutoring Center Effectiveness: The Effect of Drop-In Tutoring. Journal of College Reading and Learning, 40(2). https://eric.ed.gov/?id=EJ887303
+- Cooper, E. (2010). Tutoring Center Effectiveness: The Effect of Drop-In Tutoring. Journal of College Reading and Learning, 40(2). https://eric.ed.gov/?id=EJ887303. [doi:10.1080/10790195.2010.10850328](https://doi.org/10.1080/10790195.2010.10850328)

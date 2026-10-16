@@ -2,7 +2,7 @@
 type: theory
 title: "Engeström's activity system model as a lens for analyzing synchronous computer-mediated discussion"
 description: "The study applies Engeström's (1987) activity system model, which situates Vygotsky's tool-mediated action within Leont'ev's collective activity by adding rule, community, and division of labor."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

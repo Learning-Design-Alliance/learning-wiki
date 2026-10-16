@@ -3,7 +3,7 @@ type: strategy
 id: link-education-child-welfare-data-systems
 title: Link education and child welfare data systems to make the foster care achievement gap visible and trackable
 description: The report calls for accessible, linked, comprehensive, and current education and child welfare data to inform greater cross-agency collaboration.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

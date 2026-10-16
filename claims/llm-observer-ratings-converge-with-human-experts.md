@@ -3,7 +3,7 @@ type: claim
 title: LLM observer ratings converge excellently with human expert judgments in applying the CAARS observer instrument to generated narratives
 description: LLM observer ratings converge excellently with human expert judgments in applying the CAARS observer instrument to generated narratives
 id: llm-observer-ratings-converge-with-human-experts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

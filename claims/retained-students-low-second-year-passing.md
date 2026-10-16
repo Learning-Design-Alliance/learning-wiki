@@ -3,7 +3,7 @@ type: claim
 title: "Only 43% of retained third graders and 47% of retained sixth graders met the test criteria by summer 1998 despite four chances, yet over two-thirds were promoted the next year largely due to waivers"
 description: "Only 43% of retained third graders and 47% of retained sixth graders met the test criteria by summer 1998 despite four chances, yet over two-thirds were promoted the next year largely due to waivers"
 id: retained-students-low-second-year-passing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

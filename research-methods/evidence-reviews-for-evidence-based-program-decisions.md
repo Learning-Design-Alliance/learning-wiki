@@ -3,7 +3,7 @@ type: research-method
 id: evidence-reviews-for-evidence-based-program-decisions
 title: Evidence reviews for evidence-based program decisions
 description: "The article frames evidence reviews as \"projects that identify, assess, and summarize existing research in a given area\" that play an important role in supporting the quality of program evaluations and how findings are used."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
@@ -36,7 +36,7 @@ The article frames evidence reviews as "projects that identify, assess, and summ
 -
 
 ## Key Sources
-- Westbrook, T'Pring R.; Avellar, Sarah A.; Seftor, Neil. (2017). Reviewing the Reviews: Examining Similarities and Differences Between Federally Funded Evidence Reviews. Evaluation Review, vol. 41, no. 3. https://www.mathematica.org/publications/reviewing-the-reviews-examining-similarities-and-differences-between-federally-funded-evidence
+- Westbrook, T'Pring R.; Avellar, Sarah A.; Seftor, Neil. (2017). Reviewing the Reviews: Examining Similarities and Differences Between Federally Funded Evidence Reviews. Evaluation Review, vol. 41, no. 3. https://www.mathematica.org/publications/reviewing-the-reviews-examining-similarities-and-differences-between-federally-funded-evidence. [doi:10.1177/0193841x16666463](https://doi.org/10.1177/0193841x16666463)
 
 <!-- merged 2026-10-10 from theories/evidence-review-function-framework ("Evidence reviews as projects that identify, assess, and summarize existing research to support evidence-based program decisions"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -79,5 +79,5 @@ The article frames evidence reviews as "projects that identify, assess, and summ
 - [Consult multiple evidence reviews and attend to their differing standards when synthesizing evidence for decisions](../strategies/synthesize-across-evidence-reviews-standards.md)
 
 ## Key Sources
-- Westbrook, T'Pring R.; Avellar, Sarah A.; Seftor, Neil. (2017). Reviewing the Reviews: Examining Similarities and Differences Between Federally Funded Evidence Reviews. Evaluation Review, vol. 41, no. 3. https://www.mathematica.org/publications/reviewing-the-reviews-examining-similarities-and-differences-between-federally-funded-evidence
+- Westbrook, T'Pring R.; Avellar, Sarah A.; Seftor, Neil. (2017). Reviewing the Reviews: Examining Similarities and Differences Between Federally Funded Evidence Reviews. Evaluation Review, vol. 41, no. 3. https://www.mathematica.org/publications/reviewing-the-reviews-examining-similarities-and-differences-between-federally-funded-evidence. [doi:10.1177/0193841x16666463](https://doi.org/10.1177/0193841x16666463)
 -->

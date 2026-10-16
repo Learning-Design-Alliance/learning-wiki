@@ -3,7 +3,7 @@ type: claim
 title: Communicative Approach introduced to China in the 1990s was initially not very communicative
 description: Communicative Approach introduced to China in the 1990s was initially not very communicative
 id: clt-china-1990s-initial-weak-adoption
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

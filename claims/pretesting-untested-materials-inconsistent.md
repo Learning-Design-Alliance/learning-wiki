@@ -3,7 +3,7 @@ type: claim
 title: Effects of pre-instruction testing on untested but studied materials are highly inconsistent across experiments and materials
 description: Effects of pre-instruction testing on untested but studied materials are highly inconsistent across experiments and materials
 id: pretesting-untested-materials-inconsistent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

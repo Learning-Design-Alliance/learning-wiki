@@ -3,7 +3,7 @@ type: claim
 title: "Repeated EQUIP data reports across a semester appeared to change community college instructors' opinions about their instruction"
 description: "Repeated EQUIP data reports across a semester appeared to change community college instructors' opinions about their instruction"
 id: repeated-equip-reports-change-instructor-opinions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

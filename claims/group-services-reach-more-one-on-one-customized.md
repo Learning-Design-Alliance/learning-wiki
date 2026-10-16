@@ -3,7 +3,7 @@ type: claim
 title: Colleges may reach more students with less intensive group-delivered services, while one-on-one services can be customized to individual needs and goals
 description: Colleges may reach more students with less intensive group-delivered services, while one-on-one services can be customized to individual needs and goals
 id: group-services-reach-more-one-on-one-customized
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: five-s-framework-prompt-strategies
 title: "Use the Five S framework to scaffold students' prompt writing with generative AI in chemistry education"
 description: "The Five S framework is a prompt-engineering scaffold for educators and students using generative AI, comprising five strategies: \"set the scene\", \"be specific\", \"simplify language\", \"structure output\", and \"share fee..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

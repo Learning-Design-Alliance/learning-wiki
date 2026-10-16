@@ -3,7 +3,7 @@ type: claim
 title: LLMs can deliver scalable, personalized, interactive feedback almost instantly, reducing dependency on teacher availability and supporting self-regulated learning in large courses
 description: LLMs can deliver scalable, personalized, interactive feedback almost instantly, reducing dependency on teacher availability and supporting self-regulated learning in large courses
 id: llms-scalable-personalized-feedback-large-courses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

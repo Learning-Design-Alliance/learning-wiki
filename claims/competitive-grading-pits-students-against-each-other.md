@@ -3,7 +3,7 @@ type: claim
 title: "Competitive (norm-referenced) grading pits students against one another and discourages cooperation, according to the author's argument"
 description: "Competitive (norm-referenced) grading pits students against one another and discourages cooperation, according to the author's argument"
 id: competitive-grading-pits-students-against-each-other
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

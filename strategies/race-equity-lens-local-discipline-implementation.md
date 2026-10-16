@@ -3,7 +3,7 @@ type: strategy
 id: race-equity-lens-local-discipline-implementation
 title: Embed a race-equity lens in all local discipline actions and invest in supportive personnel over school police
 description: "For local implementation, the brief says all adults in schools and districts should develop a race equity lens, because \"using an approach that is racially and culturally conscious is the key to addressing disparities..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

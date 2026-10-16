@@ -3,7 +3,7 @@ type: claim
 title: Self-reported germane cognitive load correlates positively with interest (QCM) among college students solving algebra problems
 description: Self-reported germane cognitive load correlates positively with interest (QCM) among college students solving algebra problems
 id: germane-cognitive-load-correlates-positively-with-interest
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

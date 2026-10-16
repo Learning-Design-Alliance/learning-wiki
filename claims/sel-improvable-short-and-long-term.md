@@ -3,7 +3,7 @@ type: claim
 title: SEL can be improved by both short-term targeted interventions and longer-term strategies to improve school contextual factors
 description: SEL can be improved by both short-term targeted interventions and longer-term strategies to improve school contextual factors
 id: sel-improvable-short-and-long-term
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

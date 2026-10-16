@@ -3,7 +3,7 @@ type: claim
 title: A Hidden Markov Model over knowledge states identifies Analytical Thinking (A5) as the learning bottleneck with the lowest forward transition probability
 description: A Hidden Markov Model over knowledge states identifies Analytical Thinking (A5) as the learning bottleneck with the lowest forward transition probability
 id: hmm-identifies-a5-bottleneck
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

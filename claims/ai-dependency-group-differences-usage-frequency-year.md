@@ -3,7 +3,7 @@ type: claim
 title: AI dependency differs by AI usage frequency and academic year but not gender
 description: AI dependency differs by AI usage frequency and academic year but not gender
 id: ai-dependency-group-differences-usage-frequency-year
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

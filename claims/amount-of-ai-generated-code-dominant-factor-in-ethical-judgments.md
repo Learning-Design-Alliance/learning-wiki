@@ -3,7 +3,7 @@ type: claim
 title: "The amount of AI-generated code in a submission was the dominant factor influencing students' ethical and rule-compliance judgments"
 description: "The amount of AI-generated code in a submission was the dominant factor influencing students' ethical and rule-compliance judgments"
 id: amount-of-ai-generated-code-dominant-factor-in-ethical-judgments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

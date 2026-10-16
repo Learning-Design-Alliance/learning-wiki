@@ -3,7 +3,7 @@ type: claim
 title: The CMA-A math finding in the PCER study is not statistically significant after correction for multiple comparisons
 description: The CMA-A math finding in the PCER study is not statistically significant after correction for multiple comparisons
 id: pcer-cma-a-nonsignificant-after-correction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

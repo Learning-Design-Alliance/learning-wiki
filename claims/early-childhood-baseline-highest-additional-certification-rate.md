@@ -3,7 +3,7 @@ type: claim
 title: Experienced teachers with baseline certificates in early childhood education earned additional certificates at higher rates (15 percent) than teachers with baseline certificates in other areas
 description: Experienced teachers with baseline certificates in early childhood education earned additional certificates at higher rates (15 percent) than teachers with baseline certificates in other areas
 id: early-childhood-baseline-highest-additional-certification-rate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

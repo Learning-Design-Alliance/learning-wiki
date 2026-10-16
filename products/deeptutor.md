@@ -4,7 +4,7 @@ id: deeptutor
 title: DeepTutor
 description: DeepTutor is an AI-powered personalized tutoring platform developed by Zhao et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

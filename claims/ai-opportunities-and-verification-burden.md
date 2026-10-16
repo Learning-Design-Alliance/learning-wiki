@@ -3,7 +3,7 @@ type: claim
 title: Teachers experienced AI as expanding design possibilities while increasing the burden of verification and professional responsibility
 description: Teachers experienced AI as expanding design possibilities while increasing the burden of verification and professional responsibility
 id: ai-opportunities-and-verification-burden
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

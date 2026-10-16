@@ -3,7 +3,7 @@ type: process
 id: iterative-stakeholder-instrument-development
 title: Iterative, stakeholder-informed instrument development cycle
 description: This development pattern adapts an intervention-development framework to build a descriptive clinical instrument through repeated cycles of drafting, expert consultation, piloting, feasibility testing, and refinement,...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

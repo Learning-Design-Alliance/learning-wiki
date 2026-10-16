@@ -3,7 +3,7 @@ type: element
 id: moral-case-deliberation-ten-step-method
 title: Moral case deliberation as a ten-step structured dialogue method
 description: Moral case deliberation is a structured method of ethical conversation developed in healthcare practice, consisting of ten steps from introducing the aim and presenting the case through formulating the moral question,...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

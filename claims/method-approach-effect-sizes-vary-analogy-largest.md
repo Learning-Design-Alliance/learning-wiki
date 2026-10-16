@@ -3,7 +3,7 @@ type: claim
 title: Individually analyzed method and approach studies show widely varying effects, with analogy-enhanced teaching rated most effective and two studies insignificant
 description: Individually analyzed method and approach studies show widely varying effects, with analogy-enhanced teaching rated most effective and two studies insignificant
 id: method-approach-effect-sizes-vary-analogy-largest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

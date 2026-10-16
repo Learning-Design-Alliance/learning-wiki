@@ -3,7 +3,7 @@ type: claim
 title: "AI-generated readings lacked internal traceability: only about 0.80% of pages contained APA-style citations, URLs appeared on about 0.53%, and DOI strings were essentially absent"
 description: "AI-generated readings lacked internal traceability: only about 0.80% of pages contained APA-style citations, URLs appeared on about 0.53%, and DOI strings were essentially absent"
 id: ai-readings-lack-internal-traceability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

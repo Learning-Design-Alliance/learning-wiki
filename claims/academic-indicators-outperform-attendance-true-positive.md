@@ -3,7 +3,7 @@ type: claim
 title: Academic performance indicators correctly identified a larger share of eventual off-track students than the attendance indicator
 description: Academic performance indicators correctly identified a larger share of eventual off-track students than the attendance indicator
 id: academic-indicators-outperform-attendance-true-positive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

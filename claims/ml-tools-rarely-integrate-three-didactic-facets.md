@@ -3,7 +3,7 @@ type: claim
 title: Existing ML educational tools rarely integrate intermodal transfer, computational thinking, and explanatory thinking in one resource
 description: Existing ML educational tools rarely integrate intermodal transfer, computational thinking, and explanatory thinking in one resource
 id: ml-tools-rarely-integrate-three-didactic-facets
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

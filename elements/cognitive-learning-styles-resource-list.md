@@ -3,7 +3,7 @@ type: element
 id: cognitive-learning-styles-resource-list
 title: Annotated resource list of books, videos and websites on cognitive learning styles for ELT
 description: "The article's appendices compile suggested materials for ELT instructors: coursebooks and vocabulary references for intermediate to advanced levels, and online videos on cognitive learning."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

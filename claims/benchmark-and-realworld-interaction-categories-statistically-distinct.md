@@ -3,7 +3,7 @@ type: claim
 title: Interaction patterns of benchmark datasets and real-world deployment categories are statistically distinct in the scaffolding-uptake space
 description: Interaction patterns of benchmark datasets and real-world deployment categories are statistically distinct in the scaffolding-uptake space
 id: benchmark-and-realworld-interaction-categories-statistically-distinct
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

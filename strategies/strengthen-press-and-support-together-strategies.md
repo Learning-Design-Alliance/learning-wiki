@@ -3,7 +3,7 @@ type: strategy
 id: strengthen-press-and-support-together-strategies
 title: Schools should pursue strategies that strengthen social support and academic press together rather than choosing one reform approach
 description: "The report recommends that schools strengthen both conditions simultaneously, challenging \"either-or\" proposals for school reform."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

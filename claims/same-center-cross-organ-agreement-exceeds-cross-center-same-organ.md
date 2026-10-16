@@ -3,7 +3,7 @@ type: claim
 title: Same-center cross-organ handbook agreement exceeds different-center same-organ agreement by 0.024, but the institution contrast is sensitive to coverage thresholds and document selection
 description: Same-center cross-organ handbook agreement exceeds different-center same-organ agreement by 0.024, but the institution contrast is sensitive to coverage thresholds and document selection
 id: same-center-cross-organ-agreement-exceeds-cross-center-same-organ
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

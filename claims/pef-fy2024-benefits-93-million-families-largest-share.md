@@ -3,7 +3,7 @@ type: claim
 title: "The PEF's total FY 2024 economic value of benefits was $93 million, up from $67 million in FY 2023, with benefits to families the largest share"
 description: "The PEF's total FY 2024 economic value of benefits was $93 million, up from $67 million in FY 2023, with benefits to families the largest share"
 id: pef-fy2024-benefits-93-million-families-largest-share
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

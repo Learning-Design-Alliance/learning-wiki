@@ -3,7 +3,7 @@ type: claim
 title: Both students and teachers believe AI cannot capture social dynamics and emotional feelings, but only teachers additionally feared AI use would reduce interpersonal interactions in class
 description: Both students and teachers believe AI cannot capture social dynamics and emotional feelings, but only teachers additionally feared AI use would reduce interpersonal interactions in class
 id: ai-cannot-capture-social-emotional-dynamics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

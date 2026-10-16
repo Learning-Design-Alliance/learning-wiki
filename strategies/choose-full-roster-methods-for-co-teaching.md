@@ -3,7 +3,7 @@ type: strategy
 id: choose-full-roster-methods-for-co-teaching
 title: Policymakers should choose between the full roster and full roster-plus methods for co-teaching
 description: The paper advises policymakers facing co-teaching in value-added systems to rely on the full roster method or the full roster-plus method, since the first two options are impractical and the last two are empirically s...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Freshman OnTrack remains a strong predictor of high school graduation even as on-track rates have risen
 description: Freshman OnTrack remains a strong predictor of high school graduation even as on-track rates have risen
 id: freshman-ontrack-predictiveness-held-over-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

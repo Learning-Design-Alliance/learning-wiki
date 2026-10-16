@@ -3,7 +3,7 @@ type: design
 id: eco-feedback-llm-interface-five-eco-modes
 title: Eco-feedback LLM interface with five latency-based eco modes and four sustainability visualizations
 description: "A live LLM chat interface in which \"Users can choose among multiple eco modes, each characterized by a distinct latency profile and corresponding carbon impact based on backend hardware configurations.\" Eco modes 1–5..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

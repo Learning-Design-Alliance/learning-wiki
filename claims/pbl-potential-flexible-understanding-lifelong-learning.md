@@ -3,7 +3,7 @@ type: claim
 title: PBL offers potential to help students develop flexible understanding and lifelong learning skills
 description: PBL offers potential to help students develop flexible understanding and lifelong learning skills
 id: pbl-potential-flexible-understanding-lifelong-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

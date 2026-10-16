@@ -3,7 +3,7 @@ type: design
 id: local-data-small-group-collective-discussion-sessions
 title: "Workshop session structure: local data, small-group testing, collective discussion"
 description: "Each of the six sessions followed a common three-part structure: facilitators presented local data or department-sourced materials, faculty tested and reflected on the materials in small groups, and the whole group di..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11
@@ -47,4 +47,4 @@ Each of the six sessions followed a common three-part structure: facilitators pr
 -
 
 ## Key Sources
-- Perl-Nussbaum, D., & Finkelstein, N. D. (2026). A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community.
+- Perl-Nussbaum, D., & Finkelstein, N. D. (2026). A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community. [doi:10.48550/arxiv.2609.23887](https://doi.org/10.48550/arxiv.2609.23887)

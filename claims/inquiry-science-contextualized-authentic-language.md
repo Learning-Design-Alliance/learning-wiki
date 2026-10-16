@@ -3,7 +3,7 @@ type: claim
 title: "Inquiry-based science provides a highly contextualized setting for authentic language use and higher-level dialogue that is not text-dependent, supporting English learners' language development"
 description: "Inquiry-based science provides a highly contextualized setting for authentic language use and higher-level dialogue that is not text-dependent, supporting English learners' language development"
 id: inquiry-science-contextualized-authentic-language
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

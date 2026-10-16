@@ -3,7 +3,7 @@ type: claim
 title: Catholic school students score higher in math and reading than public school students on average, but enter each school year at a higher level
 description: Catholic school students score higher in math and reading than public school students on average, but enter each school year at a higher level
 id: catholic-schools-higher-achievement-higher-entry-levels
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

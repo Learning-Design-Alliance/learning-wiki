@@ -3,7 +3,7 @@ type: strategy
 id: organisational-support-for-reflective-engagement
 title: Adopt reflective AI-engagement mechanisms only with organisational support that recognises reflective engagement as an investment in long-term competence
 description: "The paper recommends treating reflective engagement as an organisational investment: \"If organisations do not recognise reflective engagement as an investment in long-term competence, these mechanisms are unlikely to..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

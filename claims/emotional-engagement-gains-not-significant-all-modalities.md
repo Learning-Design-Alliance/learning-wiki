@@ -3,7 +3,7 @@ type: claim
 title: Emotional engagement improved across all three storytelling modalities but none of the improvements was statistically significant
 description: Emotional engagement improved across all three storytelling modalities but none of the improvements was statistically significant
 id: emotional-engagement-gains-not-significant-all-modalities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

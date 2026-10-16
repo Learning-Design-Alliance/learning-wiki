@@ -3,7 +3,7 @@ type: claim
 title: "Students and faculty use AI for different tasks: students for applied learning activities, faculty for academic and instructional tasks"
 description: "Students and faculty use AI for different tasks: students for applied learning activities, faculty for academic and instructional tasks"
 id: role-based-ai-use-students-faculty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: relax-time-base-mastery-progression
 title: "Relax the time base of instruction: let students progress at their own pace toward mastery benchmarks"
 description: The brief proposes letting students progress at their own pace toward established benchmarks, so high achievers finish sooner and free resources that can be reallocated to raising the pace of below-average students —...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: genai-policy-clarify-access-extend-reasoning
 title: Move beyond permit-or-restrict GenAI policies toward policies that clarify appropriate use, support equitable access, and extend rather than replace independent reasoning
 description: "The article's concluding recommendation is that educators should design GenAI course policies that go beyond simple permission or prohibition."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -43,9 +43,10 @@ The article's concluding recommendation is that educators should design GenAI co
 - [Institutions should respond to generative AI in education with guided critical engagement rather than prohibition](guided-critical-engagement-over-prohibition-genai.md)
 - [Graduate the AI policy across the curriculum so that permitted AI use tracks each course's pedagogical purpose](graduated-ai-policy-by-course-level.md)
 - [Provide explicit pedagogical guidance on effective and ethical GenAI use within specific assessment contexts, beyond prohibitions](explicit-pedagogical-guidance-genai-assessment-contexts.md)
+- [Universities should provide vivid guidelines and education on how and where ChatGPT may be used for learning](university-guidelines-education-chatgpt-use.md)
 
 ## Examples
 -
 
 ## Key Sources
-- Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K. (2026). The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses. https://arxiv.org/abs/2609.18676
+- Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K. (2026). The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses. https://arxiv.org/abs/2609.18676. [doi:10.48550/arxiv.2609.18676](https://doi.org/10.48550/arxiv.2609.18676)

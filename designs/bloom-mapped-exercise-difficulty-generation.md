@@ -3,7 +3,7 @@ type: design
 id: bloom-mapped-exercise-difficulty-generation
 title: Bloom-level mapping of exercise difficulty levels in AI exercise generation
 description: "The exercise-generation tool maps its three difficulty levels directly onto Bloom's Taxonomy cognitive levels within the system prompt: easy prompts tasks focused on remembering and understanding, medium on applying a..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11
@@ -48,4 +48,4 @@ The exercise-generation tool maps its three difficulty levels directly onto Bloo
 -
 
 ## Key Sources
-- Gabelmann, J., Jahn, F., Baum, K., van Rossum, S., Wuenscher, E., Gros, T. P., Wolf, V. (2026). Modularizing Educational LLM-Agency for Fostering Responsible Learning Assistance. https://arxiv.org/abs/2605.30187
+- Gabelmann, J., Jahn, F., Baum, K., van Rossum, S., Wuenscher, E., Gros, T. P., Wolf, V. (2026). Modularizing Educational LLM-Agency for Fostering Responsible Learning Assistance. https://arxiv.org/abs/2605.30187. [doi:10.48550/arxiv.2605.30187](https://doi.org/10.48550/arxiv.2605.30187)

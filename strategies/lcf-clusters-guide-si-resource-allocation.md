@@ -3,7 +3,7 @@ type: strategy
 id: lcf-clusters-guide-si-resource-allocation
 title: Use LCF risk clusters to target Supplemental Instruction recruitment and resource allocation
 description: The article recommends using LCF-identified risk subgroups to decide which students to recruit into Supplemental Instruction and how to allocate constrained SI resources, since SI is resource intensive, space constrai...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

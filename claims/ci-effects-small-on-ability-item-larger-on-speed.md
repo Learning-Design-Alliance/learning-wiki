@@ -3,7 +3,7 @@ type: claim
 title: Adding collateral information has little effect on ability and item parameter estimates but more effect on speed parameter estimates
 description: Adding collateral information has little effect on ability and item parameter estimates but more effect on speed parameter estimates
 id: ci-effects-small-on-ability-item-larger-on-speed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

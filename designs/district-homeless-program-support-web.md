@@ -3,7 +3,7 @@ type: design
 id: district-homeless-program-support-web
 title: "District homeless programs provide a coordinated web of six support categories: essential items, transportation, academic services, health supports, specialized unaccompanied-youth support, and family supports"
 description: Across all five study districts, homeless program staff coordinated services provided by the district program, schools, and community-based organizations.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

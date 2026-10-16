@@ -2,7 +2,7 @@
 type: claim
 title: Participant examples support identity reconstruction through academic content
 id: participant-examples-support-identity-reconstruction-through-academic-content
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

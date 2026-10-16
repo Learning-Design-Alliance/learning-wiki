@@ -3,7 +3,7 @@ type: claim
 title: "Kinematic trajectories extracted from AI-generated videos agree strongly with analytical resistive-force models, with coefficients of determination exceeding R² > 0.99 across three regimes"
 description: "Kinematic trajectories extracted from AI-generated videos agree strongly with analytical resistive-force models, with coefficients of determination exceeding R² > 0.99 across three regimes"
 id: ai-generated-video-trajectories-fit-resistive-force-models
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

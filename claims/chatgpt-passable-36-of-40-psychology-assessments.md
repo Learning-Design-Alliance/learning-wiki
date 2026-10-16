@@ -3,7 +3,7 @@ type: claim
 title: "ChatGPT produced submissions judged of passing quality for 36 of 40 undergraduate psychology assessments (90%)"
 description: "ChatGPT produced submissions judged of passing quality for 36 of 40 undergraduate psychology assessments (90%)"
 id: chatgpt-passable-36-of-40-psychology-assessments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

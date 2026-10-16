@@ -3,7 +3,7 @@ type: claim
 title: Regression discontinuity estimates of EL status effects on SPED placement consistently differ substantively from regression analysis results
 description: Regression discontinuity estimates of EL status effects on SPED placement consistently differ substantively from regression analysis results
 id: rd-estimates-differ-from-regression-el-sped
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

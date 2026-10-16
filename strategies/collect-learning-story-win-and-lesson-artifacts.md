@@ -3,7 +3,7 @@ type: strategy
 id: collect-learning-story-win-and-lesson-artifacts
 title: "Collect three kinds of artifacts: learning stories, wins, and lessons learned"
 description: The collect step names three artifact types.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

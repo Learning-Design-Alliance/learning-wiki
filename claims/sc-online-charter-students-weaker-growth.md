@@ -3,7 +3,7 @@ type: claim
 title: Online charter school students show substantially weaker growth than both TPS peers and brick-and-mortar charter students in reading and math
 description: Online charter school students show substantially weaker growth than both TPS peers and brick-and-mortar charter students in reading and math
 id: sc-online-charter-students-weaker-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

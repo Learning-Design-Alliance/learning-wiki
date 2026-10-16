@@ -4,7 +4,7 @@ id: ellmplus-curriculum
 title: ELLM/Plus curriculum
 description: ELLM/Plus is a literacy-focused comprehensive curriculum for young children from low-income families, comprising theme-based instructional packets, children’s books, support materials, and home/school activities.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

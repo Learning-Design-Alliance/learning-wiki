@@ -3,7 +3,7 @@ type: claim
 title: Gain-effective time constant product is slightly superior to forcing function amplitude as an adaptive variable
 description: Gain-effective time constant product is slightly superior to forcing function amplitude as an adaptive variable
 id: gain-time-constant-product-superior-forcing-function-amplitude
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: strategy
 id: seven-ai-learning-research-recommendations
 title: Seven research priorities for AI in learning, spanning expanded scenarios, teacher assistance, assessment, responsible AI, equity policy, stakeholder engagement, and ecosystem strengthening
 description: "The panel issued seven recommendations: investigate AI designs for an expanded range of learning scenarios; develop AI systems that assist teachers and improve teaching; intensify and expand research on AI for assessm..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -49,4 +49,4 @@ The panel issued seven recommendations: investigate AI designs for an expanded r
 -
 
 ## Key Sources
-- Roschelle, J., Lester, J. & Fusco, J. (Eds.) (2020). AI and the future of learning: Expert panel report [Report]. Digital Promise. https://circls.org/reports/ai-report
+- Roschelle, J., Lester, J. & Fusco, J. (Eds.) (2020). AI and the future of learning: Expert panel report [Report]. Digital Promise. https://circls.org/reports/ai-report. [doi:10.51388/20.500.12265/106](https://doi.org/10.51388/20.500.12265/106)

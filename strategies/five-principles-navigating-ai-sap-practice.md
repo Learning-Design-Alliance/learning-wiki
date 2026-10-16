@@ -3,7 +3,7 @@ type: strategy
 id: five-principles-navigating-ai-sap-practice
 title: Use five guiding principles to navigate artificial intelligence in students as partners practice
 description: The article offers a set of five guiding principles as a practical navigation aid for students as partners practice in the era of artificial intelligence.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

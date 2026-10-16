@@ -3,7 +3,7 @@ type: claim
 title: Teachers who effectively implement classroom management can engage students in learning activities for more than 90 percent of allocated time
 description: Teachers who effectively implement classroom management can engage students in learning activities for more than 90 percent of allocated time
 id: effective-classroom-management-engages-students-over-90-percent-of-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

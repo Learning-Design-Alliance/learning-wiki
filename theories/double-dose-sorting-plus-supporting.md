@@ -2,7 +2,7 @@
 type: theory
 title: Double-dose algebra as a sorting-plus-supporting alternative to tracking and detracking
 description: The double-dose strategy created homogeneous algebra classes for organizational reasons but ensured that low-track students received challenging coursework and high-quality instruction through extended time, curricula...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

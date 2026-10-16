@@ -71,7 +71,7 @@ Reading narrative fiction requires tracking characters' goals, beliefs, and emot
 - [Annotating](../principles/annotating.md) — students can mark emotion cues in the text as they read
 
 ## Examples
-- **RULER (Yale Center for Emotional Intelligence)** — the "Mood Meter" and related tools give students a shared emotion vocabulary that literature discussion can draw on; teachers use read-alouds as anchor contexts for emotion labeling (https://ei.yale.edu)
+- **[RULER](../products/ruler.md) (Yale Center for Emotional Intelligence)** — the "Mood Meter" and related tools give students a shared emotion vocabulary that literature discussion can draw on; teachers use read-alouds as anchor contexts for emotion labeling (https://ei.yale.edu)
 - **Second Step (Committee for Children)** — K–8 SEL curriculum that uses illustrated story scenarios and character-emotion discussion as its core practice (https://www.secondstep.org)
 - **Reading Reptile / read-aloud circles in general:** teachers pausing during picture-book read-alouds to ask "What is she feeling? How do you know?" — the minimal implementation of this strategy
 

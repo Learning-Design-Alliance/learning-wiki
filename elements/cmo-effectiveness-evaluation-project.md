@@ -3,7 +3,7 @@ type: element
 id: cmo-effectiveness-evaluation-project
 title: Evaluating the Effectiveness of Charter Management Organizations (CMOs) project, 2008-2012
 description: "The page identifies an associated project, \"Evaluating the Effectiveness of Charter Management Organizations (CMOs)\", with a stated time frame of 2008-2012, prepared for the Gates Foundation and the Walton Family Foun..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

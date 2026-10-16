@@ -13,7 +13,7 @@ generated:
 # Annotating
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 13 claims (7 for, 5 mixed, 1 against) · 26 studies (11 causal, 6 quant-synthesis, 6 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 5 of 26 report an effect size · 4 claims rest on one study
+> **Evidence** · 15 claims (7 for, 5 mixed, 3 against) · 27 studies (12 causal, 6 quant-synthesis, 6 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 5 of 27 report an effect size · 6 claims rest on one study
 
 ## Conditional relationship
 
@@ -84,6 +84,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — not settled: the text available could not confirm the entries (abstract)
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — not settled: the text available could not confirm the entries (abstract)
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — not settled: the text available could not confirm the entries (abstract)
+- [Underlining and adjunct questions may hinder rather than help recall in young readers, reflecting a comprehension rather than a metacomprehension deficit](../claims/underlining-adjunct-questions-hinder-young-readers-comprehension-deficit.md) [-W] — attached 2026-10-15 from Rickards et al. (1979), which proposed "Exercise caution when adding underlining and adjunct postquestions to text for young readers, since they may depress rather than support recall"; tests this page's relationship.
+- [Recall of passage details is most depressed when children receive both underlining and conceptual postquestions](../claims/underlining-plus-postquestions-most-depress-detail-recall.md) [-W] — attached 2026-10-15 from Rickards et al. (1979), which proposed "Exercise caution when adding underlining and adjunct postquestions to text for young readers, since they may depress rather than support recall"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

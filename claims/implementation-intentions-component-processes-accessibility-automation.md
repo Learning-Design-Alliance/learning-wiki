@@ -3,7 +3,7 @@ type: claim
 title: Implementation intention formation enhances accessibility of specified opportunities and automates goal-directed responses
 description: Implementation intention formation enhances accessibility of specified opportunities and automates goal-directed responses
 id: implementation-intentions-component-processes-accessibility-automation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

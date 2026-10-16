@@ -4,7 +4,7 @@ title: Project performance improved significantly from pre- to post-feedback acr
 description: Project performance improved significantly from pre- to post-feedback across all three feedback conditions with no significant differences between feedback sources
 id: ai-teacher-feedback-equal-project-performance-gains
 aliases: [gpt-o4-mini-equivalent-deepseek-noninferior-teacher-feedback]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

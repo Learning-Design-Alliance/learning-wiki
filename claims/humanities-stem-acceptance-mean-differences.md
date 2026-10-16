@@ -3,7 +3,7 @@ type: claim
 title: Humanities students report higher perceived usefulness, ease of use, and behavioral intention for AI-assisted English tools than STEM students, with small effect sizes
 description: Humanities students report higher perceived usefulness, ease of use, and behavioral intention for AI-assisted English tools than STEM students, with small effect sizes
 id: humanities-stem-acceptance-mean-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

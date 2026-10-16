@@ -3,7 +3,7 @@ type: claim
 title: Student teachers hired by their field-placement school had higher first-year evaluation ratings than those hired elsewhere in CPS
 description: Student teachers hired by their field-placement school had higher first-year evaluation ratings than those hired elsewhere in CPS
 id: cps-student-teachers-hired-in-placement-school-higher-first-year-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

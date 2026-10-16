@@ -3,7 +3,7 @@ type: claim
 title: Early childhood education programs often yield larger benefits for children most in need, such as low-income children, children of color, and those with fewer educational resources
 description: Early childhood education programs often yield larger benefits for children most in need, such as low-income children, children of color, and those with fewer educational resources
 id: ece-larger-benefits-children-most-in-need
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

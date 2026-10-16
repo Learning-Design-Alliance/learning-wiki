@@ -3,7 +3,7 @@ type: claim
 title: No significant differences between Engineering and Technology exam questions in novelty and level of communication
 description: No significant differences between Engineering and Technology exam questions in novelty and level of communication
 id: no-significant-difference-novelty-communication
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Instructional materials authored by a single instructor via the pipeline were peer-reviewed and successfully deployed by six different professors, suggesting tacit knowledge was translated into reusable teaching assets.
 description: Instructional materials authored by a single instructor via the pipeline were peer-reviewed and successfully deployed by six different professors, suggesting tacit knowledge was translated into reusable teaching assets.
 id: single-author-materials-deployed-by-six-professors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

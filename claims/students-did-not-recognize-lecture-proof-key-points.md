@@ -3,7 +3,7 @@ type: claim
 title: Review reports students did not recognize the key points an exemplary lecturer presented in a proof
 description: Review reports students did not recognize the key points an exemplary lecturer presented in a proof
 id: students-did-not-recognize-lecture-proof-key-points
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: Incidental vocabulary acquisition through comprehensible input is more powerful than intentional vocabulary learning
 description: Incidental vocabulary acquisition through comprehensible input is more powerful than intentional vocabulary learning
 id: incidental-vocabulary-acquisition-more-powerful-than-intentional
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

@@ -4,7 +4,7 @@ id: summit
 title: Summit
 description: Summit is a computer-based arithmetic tutoring system developed by Feurzeig and White that teaches addition and subtraction through coordinated visual animation and spoken explanations in standard-algorithm and bin-model representations.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

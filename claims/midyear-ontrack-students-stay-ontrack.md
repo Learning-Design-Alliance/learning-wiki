@@ -3,7 +3,7 @@ type: claim
 title: Most students at risk at BOY remain at risk later, but students who meet benchmark by midyear tend to stay on track
 description: Most students at risk at BOY remain at risk later, but students who meet benchmark by midyear tend to stay on track
 id: midyear-ontrack-students-stay-ontrack
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

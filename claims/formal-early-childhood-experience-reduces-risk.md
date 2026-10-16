@@ -4,7 +4,7 @@ title: Formal early childhood experience reduces the likelihood of being identif
 description: Formal early childhood experience reduces the likelihood of being identified as significantly below benchmark, most pronounced among English learner students and Black English learner students
 id: formal-early-childhood-experience-reduces-risk
 aliases: [formal-ec-experience-reduces-literacy-risk]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

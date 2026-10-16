@@ -3,7 +3,7 @@ type: claim
 title: GenAI reconfigures group knowledge development from individual to distributed, AI-co-constructed processes
 description: GenAI reconfigures group knowledge development from individual to distributed, AI-co-constructed processes
 id: genai-reconfigures-group-knowledge-development
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Former KIPP school leadership program participants reported satisfaction and application of program lessons in their own settings
 description: Former KIPP school leadership program participants reported satisfaction and application of program lessons in their own settings
 id: kipp-leadership-participants-satisfied-and-applied-lessons
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

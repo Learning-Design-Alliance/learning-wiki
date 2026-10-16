@@ -3,7 +3,7 @@ type: claim
 title: In time-series field studies of behavior modification, all 17 quasi-d feedback effects were positive with a mean quasi-d of 1.69
 description: In time-series field studies of behavior modification, all 17 quasi-d feedback effects were positive with a mean quasi-d of 1.69
 id: fi-time-series-field-studies-all-positive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

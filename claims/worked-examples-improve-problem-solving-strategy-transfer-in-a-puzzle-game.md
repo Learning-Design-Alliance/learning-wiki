@@ -3,7 +3,7 @@ type: claim
 title: Adult players who studied worked examples scored significantly higher on a game-based problem-solving transfer question than a control group
 description: Adult players who studied worked examples scored significantly higher on a game-based problem-solving transfer question than a control group
 id: worked-examples-improve-problem-solving-strategy-transfer-in-a-puzzle-game
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

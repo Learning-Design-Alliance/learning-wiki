@@ -3,7 +3,7 @@ type: claim
 title: LoRA adaptation significantly increases closed-book accuracy on the PhysicsMate test set at all three Qwen3 scales
 description: LoRA adaptation significantly increases closed-book accuracy on the PhysicsMate test set at all three Qwen3 scales
 id: lora-adaptation-raises-bengali-physics-qa-accuracy-all-scales
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

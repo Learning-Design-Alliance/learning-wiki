@@ -3,7 +3,7 @@ type: claim
 title: "LLM accuracy drops from 96% on text-only to 74% on multimodal physics problems, with significant differences emerging among models"
 description: "LLM accuracy drops from 96% on text-only to 74% on multimodal physics problems, with significant differences emerging among models"
 id: multimodal-physics-accuracy-drops-to-74-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

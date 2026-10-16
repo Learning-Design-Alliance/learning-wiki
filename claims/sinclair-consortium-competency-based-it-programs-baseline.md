@@ -3,7 +3,7 @@ type: claim
 title: A consortium led by Sinclair Community College implemented competency-based information technology programs in three community colleges, documented at or near baseline
 description: A consortium led by Sinclair Community College implemented competency-based information technology programs in three community colleges, documented at or near baseline
 id: sinclair-consortium-competency-based-it-programs-baseline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

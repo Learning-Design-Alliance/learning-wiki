@@ -3,7 +3,7 @@ type: strategy
 id: shared-frameworks-cross-district-ai-edtech-scaling
 title: Use shared frameworks, cross-district collaboration, and state-level policy alignment to scale AI-enabled edtech
 description: For the scaling and sustaining phase, the article recommends developing standardized frameworks, strengthening state-level policy coordination, and coordinated funding structures.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

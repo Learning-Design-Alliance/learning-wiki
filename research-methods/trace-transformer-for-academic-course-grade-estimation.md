@@ -3,7 +3,7 @@ type: research-method
 id: trace-transformer-for-academic-course-grade-estimation
 title: TRACE (TRansformer for Academic Course-grade Estimation)
 description: "TRACE (a TRansformer for Academic Course-grade Estimation) encodes a student's major, course and grade history with separate embedding layers and positional encodings based on relative semester, so all courses in the same semester share a temporal vector, enforcing a permutation-invariant representa"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

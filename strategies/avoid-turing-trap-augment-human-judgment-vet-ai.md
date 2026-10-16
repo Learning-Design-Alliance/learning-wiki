@@ -3,7 +3,7 @@ type: strategy
 id: avoid-turing-trap-augment-human-judgment-vet-ai
 title: Design AI-supported VET environments that augment human judgment and strengthen learner agency rather than replicating human instruction (avoiding the Turing Trap)
 description: "The review's forward-looking recommendation is that \"research and practice must move beyond replicating human instruction—avoiding the Turing Trap—and instead design learning environments that augment human judgment,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

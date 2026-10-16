@@ -3,7 +3,7 @@ type: claim
 title: "GPT-5.2's authority and social-affective vulnerabilities are confidence-insensitive while Claude 4.5's context-switch failures spike at low student confidence"
 description: "GPT-5.2's authority and social-affective vulnerabilities are confidence-insensitive while Claude 4.5's context-switch failures spike at low student confidence"
 id: confidence-conditioned-deference-profiles-llm-tutors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

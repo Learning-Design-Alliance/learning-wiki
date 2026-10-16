@@ -3,7 +3,7 @@ type: claim
 title: Earobics® has positive effects on alphabetics for K–3 beginning readers, based on four WWC-reviewed studies
 description: Earobics® has positive effects on alphabetics for K–3 beginning readers, based on four WWC-reviewed studies
 id: earobics-positive-effects-alphabetics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

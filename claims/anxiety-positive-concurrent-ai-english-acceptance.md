@@ -3,7 +3,7 @@ type: claim
 title: Anxiety shows positive concurrent associations with acceptance outcomes for AI-assisted English learning, and should not be read as uniformly negative or beneficial
 description: Anxiety shows positive concurrent associations with acceptance outcomes for AI-assisted English learning, and should not be read as uniformly negative or beneficial
 id: anxiety-positive-concurrent-ai-english-acceptance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

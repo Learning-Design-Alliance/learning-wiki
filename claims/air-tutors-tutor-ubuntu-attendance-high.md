@@ -3,7 +3,7 @@ type: claim
 title: Tutor engagement in Ubuntu professional learning sessions was high in both districts, with 82 percent of District A tutors and 94 percent of District B tutors attending all three sessions
 description: Tutor engagement in Ubuntu professional learning sessions was high in both districts, with 82 percent of District A tutors and 94 percent of District B tutors attending all three sessions
 id: air-tutors-tutor-ubuntu-attendance-high
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

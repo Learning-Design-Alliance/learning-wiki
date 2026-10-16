@@ -3,7 +3,7 @@ type: claim
 title: Challenge based science lessons provided substantially more deeper learning opportunities than typical lessons across six dimensions
 description: Challenge based science lessons provided substantially more deeper learning opportunities than typical lessons across six dimensions
 id: cbl-lessons-more-deeper-learning-opportunities-than-typical
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

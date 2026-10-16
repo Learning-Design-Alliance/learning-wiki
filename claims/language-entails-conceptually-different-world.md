@@ -3,7 +3,7 @@ type: claim
 title: Each language entails a conceptually different world, so exact translation of conceptual structure between languages is impossible
 description: Each language entails a conceptually different world, so exact translation of conceptual structure between languages is impossible
 id: language-entails-conceptually-different-world
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

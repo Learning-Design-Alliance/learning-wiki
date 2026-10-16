@@ -3,7 +3,7 @@ type: claim
 title: "U-shaped dynamics: partnership-vigilance and offloading-transformation relationships are convex, with benefits accelerating only beyond a threshold of engagement"
 description: "U-shaped dynamics: partnership-vigilance and offloading-transformation relationships are convex, with benefits accelerating only beyond a threshold of engagement"
 id: u-shaped-thresholds-vigilance-offloading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

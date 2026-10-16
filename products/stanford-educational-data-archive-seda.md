@@ -4,7 +4,7 @@ id: stanford-educational-data-archive-seda
 title: Stanford Educational Data Archive (SEDA)
 description: A Stanford Education Data Archive dataset providing district-level estimates of mathematics and ELA achievement and growth for Grades 3–8 across U.S.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

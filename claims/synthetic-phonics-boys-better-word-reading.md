@@ -3,7 +3,7 @@ type: claim
 title: "Boys taught by synthetic phonics showed better word reading than girls in their classes, with spelling and reading comprehension as good as the girls'"
 description: "Boys taught by synthetic phonics showed better word reading than girls in their classes, with spelling and reading comprehension as good as the girls'"
 id: synthetic-phonics-boys-better-word-reading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

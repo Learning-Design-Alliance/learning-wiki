@@ -3,7 +3,7 @@ type: claim
 title: The pooled effect of self-regulated learning does not differ significantly by course type, though mathematics shows the largest descriptive effect
 description: The pooled effect of self-regulated learning does not differ significantly by course type, though mathematics shows the largest descriptive effect
 id: srl-effect-no-course-type-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
@@ -46,3 +46,4 @@ Moderator analysis across Science (k=4), Mathematics (k=8), Social Sciences (k=6
 - [The effect of SRL interventions does not differ significantly by course type, SRL strategy type, school level, or learning context](srl-effect-no-significant-moderator-differences.md) — a broader claim this one bears on
 - [SRL interventions in a four-week online mathematics preparation course did not significantly change the mathematics overall score (interaction marginal), while the mathematics focus score on self-chosen chapters showed a statistically significant group by time interaction](srl-interventions-math-overall-score-marginal-focus-score-significant-online-prep-course.md) — related
 - [Instructional method does not significantly moderate Gen-AI's effect on HOT, though project-based learning shows the largest subgroup effect (ES = 0.717) and lecture-based instruction a small non-significant effect (ES = 0.396)](genai-instructional-method-moderator.md) — related
+- The effect of ChatGPT on learning performance is moderated by type of course, learning model, and duration, with problem-based learning and 4–8-week interventions showing the largest effects — related

@@ -3,7 +3,7 @@ type: claim
 title: "FFL has concurrent validity primarily among principals with three to six years of tenure as their school's leader"
 description: "FFL has concurrent validity primarily among principals with three to six years of tenure as their school's leader"
 id: ffl-validity-moderate-tenure-principals
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

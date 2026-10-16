@@ -3,7 +3,7 @@ type: strategy
 id: sustain-access-isp-clauses-device-as-service
 title: "Sustain broadband and device access beyond grant funds by inserting permanent upgrade clauses in ISP contracts and adopting 'device as service' procurement models at state scale"
 description: The report recommends two sustainability strategies for states.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -46,4 +46,4 @@ The report recommends two sustainability strategies for states. First, states sh
 -
 
 ## Key Sources
-- Weaver, D'Andre J., Ph.D. (2022). Delivering on the Promise of Digital Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/38939984-18ea-4af0-8081-c787ac30d48d
+- Weaver, D'Andre J., Ph.D. (2022). Delivering on the Promise of Digital Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/38939984-18ea-4af0-8081-c787ac30d48d. [doi:10.51388/20.500.12265/166](https://doi.org/10.51388/20.500.12265/166)

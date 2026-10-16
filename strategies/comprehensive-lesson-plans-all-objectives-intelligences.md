@@ -3,7 +3,7 @@ type: strategy
 id: comprehensive-lesson-plans-all-objectives-intelligences
 title: Develop lesson plans covering all learning objectives across various intelligences
 description: "Based on the finding that both series neglected natural, intrapersonal, musical and spatial intelligences and higher-order objectives, the authors recommend that \"a more comprehensive lesson plan needs to be developed..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

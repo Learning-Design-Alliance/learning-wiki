@@ -3,7 +3,7 @@ type: claim
 title: SCMD activity systems exhibit three categories of rules and four types of participant roles
 description: SCMD activity systems exhibit three categories of rules and four types of participant roles
 id: scmd-rules-and-division-of-labor
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

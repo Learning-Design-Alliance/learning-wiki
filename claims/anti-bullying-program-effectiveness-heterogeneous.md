@@ -3,7 +3,7 @@ type: claim
 title: Effectiveness of anti-bullying programs varies significantly across evaluations (heterogeneity)
 description: Effectiveness of anti-bullying programs varies significantly across evaluations (heterogeneity)
 id: anti-bullying-program-effectiveness-heterogeneous
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

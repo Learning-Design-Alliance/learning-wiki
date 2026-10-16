@@ -3,7 +3,7 @@ type: claim
 title: OpenSciEd classrooms showed greater science achievement growth than non-OpenSciEd classrooms in one district comparison
 description: OpenSciEd classrooms showed greater science achievement growth than non-OpenSciEd classrooms in one district comparison
 id: open-scied-greater-science-growth-single-district
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

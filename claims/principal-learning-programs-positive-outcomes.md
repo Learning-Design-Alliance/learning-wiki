@@ -3,7 +3,7 @@ type: claim
 title: High-quality principal preparation and professional development programs are associated with positive principal, teacher, and student outcomes
 description: High-quality principal preparation and professional development programs are associated with positive principal, teacher, and student outcomes
 id: principal-learning-programs-positive-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

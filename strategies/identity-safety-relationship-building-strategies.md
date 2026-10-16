@@ -3,7 +3,7 @@ type: strategy
 id: identity-safety-relationship-building-strategies
 title: Build identity safety through empathy-building, connection tools, and values affirmation routines
 description: "The report recommends concrete relationship-building strategies: empathy-enhancing experiences for teachers, connection-building tools that surface commonalities between teachers and students, and values affirmation i..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

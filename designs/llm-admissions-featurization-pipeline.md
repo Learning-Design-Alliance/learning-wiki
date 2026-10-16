@@ -3,7 +3,7 @@ type: design
 id: llm-admissions-featurization-pipeline
 title: LLM-based pipeline converting unstructured application materials into structured measures, including a seven-dimension essay quality score validated against expert ratings
 description: The authors built an LLM-based pipeline that converts unstructured application materials (transcripts, recommendation letters, resumes, essays) into structured measures, extracting 216 measures designed with admission...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

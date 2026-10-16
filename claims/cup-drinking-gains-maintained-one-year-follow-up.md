@@ -3,7 +3,7 @@ type: claim
 title: Cup-drinking gains were maintained at a 1-year caregiver-conducted follow-up
 description: Cup-drinking gains were maintained at a 1-year caregiver-conducted follow-up
 id: cup-drinking-gains-maintained-one-year-follow-up
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

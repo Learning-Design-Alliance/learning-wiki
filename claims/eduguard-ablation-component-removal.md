@@ -3,7 +3,7 @@ type: claim
 title: Ablations show removing the strategy selector substantially increases leakage and replacing the NLI verifier with same-model self-check reduces performance
 description: Ablations show removing the strategy selector substantially increases leakage and replacing the NLI verifier with same-model self-check reduces performance
 id: eduguard-ablation-component-removal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

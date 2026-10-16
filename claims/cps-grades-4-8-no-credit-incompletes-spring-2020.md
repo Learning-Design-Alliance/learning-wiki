@@ -3,7 +3,7 @@ type: claim
 title: Students in grades 4-8 were much more likely to receive no-credit grades during remote learning, with 41 percent receiving at least one Incomplete in spring 2020
 description: Students in grades 4-8 were much more likely to receive no-credit grades during remote learning, with 41 percent receiving at least one Incomplete in spring 2020
 id: cps-grades-4-8-no-credit-incompletes-spring-2020
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

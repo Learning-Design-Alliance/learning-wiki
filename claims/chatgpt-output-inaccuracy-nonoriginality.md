@@ -1,0 +1,51 @@
+---
+type: claim
+title: "ChatGPT-generated text shows inaccuracy, weak logical flow, lack of critical elaboration and non-originality in an author's first-hand test"
+description: "ChatGPT-generated text shows inaccuracy, weak logical flow, lack of critical elaboration and non-originality in an author's first-hand test"
+id: chatgpt-output-inaccuracy-nonoriginality
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-15
+evidence_strength: weak
+sources:
+  - id: dwivedi-2023
+    title: Dwivedi 2023
+    q: 1
+    i: "?"
+    kind: review
+    rigour: 2
+---
+
+# ChatGPT-generated text shows inaccuracy, weak logical flow, lack of critical elaboration and non-originality in an author's first-hand test
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r2` · `q1`
+
+## Subclaims
+`q1 i?` A first-hand trial generating an essay with ChatGPT produced text judged weak in logical flow, factually inaccurate, uncritical and non-original, with fabricated references. [→ Dwivedi 2023](#dwivedi-2023)
+
+## Evidence
+
+### Dwivedi 2023
+
+Dwivedi, Y. K., Kshetri, N., Hughes, L., Slade, E. L., Jeyaraj, A., Kar, A. K., Baabdullah, A. M., Koohang, A., Raghavan, V., Ahuja, M., Albanna, H., Albashrawi, M. A., Al-Busaidi, A. S., Balakrishnan, J., Barlette, Y., Basu, S., Bose, I., Brooks, L., Buhalis, D., Carter, L., Chowdhury, S., Crick, T., Cunningham, S. W., Davies, G. H., Davison, R. M., Dé, R., Dennehy, D., Duan, Y., Dubey, R., Dwivedi, R., Edwards, J. S., Flavián, C., Gauld, R., Grover, V., Hu, M.-C., Janssen, M., Jones, P., Junglas, I., Khorana, S., Kraus, S., Larsen, K. R., Latreille, P., Laumer, S., Malik, F. T., Mardani, A., Mariani, M., Mithas, S., Mogaji, E., Nord, J. H., O'Connor, S., Okumus, F., Pagani, M., Pandey, N., Papagiannidis, S., Pappas, I. O., Pathak, N., Pries-Heje, J., Raman, R., Rana, N. P., Rehm, S.-V., Ribeiro-Navarrete, S., Richter, A., Rowe, F., Sarker, S., Stahl, B. C., Tiwari, M. K., van der Aalst, W., Venkatesh, V., Viglia, G., Wade, M., Walton, P., Wirtz, J. and Wright, R. (2023) "So what if ChatGPT wrote it?" Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy. International Journal of Information Management, 71. https://doi.org/10.1016/j.ijinfomgt.2023.102642
+
+`q1 · i?` · `review · r2`
+
+First-person expert account of asking ChatGPT in early December for an essay on big data and innovation management; when references were requested, "the software simply pulled together a list of 5 references with wrong titles associated wrongly to authors, journals and publications years."
+
+> "The result was rather disappointing as the text seemed rather weak in terms of logical flow, inaccurate in terms of factuality and truth, not critical in terms of elaboration of data, and not novel."
+
+## Discussion
+
+
+## Related Claims
+- [ChatGPT fabricates references: the authors caught it inventing a non-existent 'Ribeiro and Vala, 2020' article with full bibliographic details](chatgpt-fabricates-references.md) — related
+- [Large language models can produce fluent but factually inaccurate or fabricated outputs (AI hallucination), posing risks for uncritical users in science education](llm-hallucination-risk-science-education.md) — a broader claim this one bears on
+- [Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence](chatgpt-negative-experiences-inaccuracy-overreliance.md) — a broader claim this one bears on
+- [GenAI feedback limitations require students to exercise evaluative judgement](genai-limitations-require-evaluative-judgement.md) — a broader claim this one bears on
+- [Learner-level challenges of ChatGPT in STEAM IBL include over-reliance, inaccurate or irrelevant feedback, conceptual confusion, and diminished creativity](chatgpt-steam-ibl-learner-challenges.md) — a broader claim this one bears on
+- [AI use in training carries risks of uncritical acceptance and overreliance, including undetected conceptual errors and increased delegation of problem solving](ai-training-risks-uncritical-acceptance-overreliance.md) — a broader claim this one bears on
+- [Persistent challenges include feedback inaccuracy, learner overreliance, and limited transparency](customized-ai-writing-persistent-challenges.md) — a broader claim this one bears on
+- [LLMs expressed unjustified confidence in recommendations based on visual inputs, asserting incorrect pin-connection diagnoses with high stated certainty](llm-unjustified-confidence-visual-recommendations.md) — related

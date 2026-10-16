@@ -3,7 +3,7 @@ type: claim
 title: "Lexical LREs dominate grammar-related LREs in young learners' L2 writing noticing"
 description: "Lexical LREs dominate grammar-related LREs in young learners' L2 writing noticing"
 id: lexical-lres-dominate-grammar-lres-l2-writing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

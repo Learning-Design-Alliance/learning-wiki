@@ -3,7 +3,7 @@ type: claim
 title: Some employers were reluctant to hire new apprentices during pandemic economic uncertainty, but no mass cancellations of apprenticeships were reported
 description: Some employers were reluctant to hire new apprentices during pandemic economic uncertainty, but no mass cancellations of apprenticeships were reported
 id: employer-reluctance-no-mass-cancellations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

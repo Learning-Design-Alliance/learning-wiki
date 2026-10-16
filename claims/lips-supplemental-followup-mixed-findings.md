@@ -3,7 +3,7 @@ type: claim
 title: One-year follow-up and LiPS-vs-RWT supplemental comparisons showed mostly non-significant differences, with some follow-up alphabetics effects remaining significant
 description: One-year follow-up and LiPS-vs-RWT supplemental comparisons showed mostly non-significant differences, with some follow-up alphabetics effects remaining significant
 id: lips-supplemental-followup-mixed-findings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

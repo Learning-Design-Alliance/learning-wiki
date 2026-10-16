@@ -3,7 +3,7 @@ type: claim
 title: All teams showed divergent-then-convergent idea improvement patterns across prototyping sessions
 description: All teams showed divergent-then-convergent idea improvement patterns across prototyping sessions
 id: divergent-convergent-idea-improvement-prototyping
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

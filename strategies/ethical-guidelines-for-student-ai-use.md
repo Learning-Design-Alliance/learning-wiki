@@ -3,7 +3,7 @@ type: strategy
 id: ethical-guidelines-for-student-ai-use
 title: Encourage students to use AI-generated responses while observing ethical guidelines
 description: The article recommends that students be encouraged to engage with AI-generated response tools responsibly and within ethical boundaries.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: recruitment-protect-student-staff-privacy
 title: Protect student and staff privacy when recruiting districts and schools for impact studies
 description: This strategy holds that recruitment for education impact studies must address the protection of student and staff privacy.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

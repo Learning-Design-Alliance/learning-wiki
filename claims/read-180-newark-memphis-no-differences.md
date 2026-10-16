@@ -3,7 +3,7 @@ type: claim
 title: READ 180 studies in Newark (NJ) and Memphis found no differences from control
 description: READ 180 studies in Newark (NJ) and Memphis found no differences from control
 id: read-180-newark-memphis-no-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

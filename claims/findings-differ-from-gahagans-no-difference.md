@@ -3,7 +3,7 @@ type: claim
 title: "Findings on teacher mediation patterns differ from the Gahagans' conclusion of no difference in teacher verbal mediation"
 description: "Findings on teacher mediation patterns differ from the Gahagans' conclusion of no difference in teacher verbal mediation"
 id: findings-differ-from-gahagans-no-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

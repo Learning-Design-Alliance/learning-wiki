@@ -3,7 +3,7 @@ type: strategy
 id: future-cdst-research-learner-environment-interaction
 title: Future CDST research should examine learner-environment interactions and define systems on a principled basis
 description: "The article recommends that future research address the gaps it identifies: exploring how internal and external resources interact as \"the learner changes, the environment changes, and so does their interaction\", and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

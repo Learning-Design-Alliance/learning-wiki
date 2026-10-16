@@ -3,7 +3,7 @@ type: element
 id: four-layer-oral-diagnosis-system-architecture
 title: Four-layer system architecture for intelligent oral diagnosis and adaptive training
 description: "The proposed system is organized as a hierarchical four-layer architecture: Data Acquisition, Feature Extraction, Intelligent Diagnosis, and Adaptive Training."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

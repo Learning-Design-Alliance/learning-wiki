@@ -3,7 +3,7 @@ type: claim
 title: Most SSSCs rely on two or three funding sources, with state-appropriated funding and federal grants the most common
 description: Most SSSCs rely on two or three funding sources, with state-appropriated funding and federal grants the most common
 id: ssscs-rely-on-multiple-funding-sources
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

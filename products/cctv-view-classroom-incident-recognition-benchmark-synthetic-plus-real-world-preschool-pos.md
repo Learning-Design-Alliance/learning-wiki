@@ -4,7 +4,7 @@ id: cctv-view-classroom-incident-recognition-benchmark-synthetic-plus-real-world
 title: CCTV-view classroom incident recognition benchmark (synthetic plus real-world preschool pose data)
 description: A privacy-aware benchmark dataset from Paritosh Parmar et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Low reading-group first graders read far fewer words than high-group peers, limiting elaboration
 description: Low reading-group first graders read far fewer words than high-group peers, limiting elaboration
 id: low-group-first-graders-read-few-words
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Training on AI interaction strategies does not further improve AI-assisted learning design quality
 description: Training on AI interaction strategies does not further improve AI-assisted learning design quality
 id: ai-interaction-training-no-added-design-quality-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -4,7 +4,7 @@ id: tool-for-representational-balance-in-books
 title: Tool for Representational Balance in Books
 description: A 10-criterion rubric created by The Education Trust that guides readers in assessing how people, cultures, and topics are represented in books.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

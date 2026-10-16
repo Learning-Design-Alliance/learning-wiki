@@ -3,7 +3,7 @@ type: claim
 title: Expert evaluation refined the draft heuristics around language clarity, usability-accessibility separation, and meaningful data interpretation
 description: Expert evaluation refined the draft heuristics around language clarity, usability-accessibility separation, and meaningful data interpretation
 id: expert-evaluation-refined-lxd-heuristics-two-rounds
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

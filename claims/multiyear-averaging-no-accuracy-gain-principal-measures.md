@@ -3,7 +3,7 @@ type: claim
 title: "Averaging principal performance measures across multiple recent years does not improve their accuracy for predicting principals' contributions in the following year"
 description: "Averaging principal performance measures across multiple recent years does not improve their accuracy for predicting principals' contributions in the following year"
 id: multiyear-averaging-no-accuracy-gain-principal-measures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "28% of eligible CPS students participated in Chicago Connected by May 2021"
 description: "28% of eligible CPS students participated in Chicago Connected by May 2021"
 id: chicago-connected-28-percent-eligible-participated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

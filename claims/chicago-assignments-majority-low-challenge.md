@@ -3,7 +3,7 @@ type: claim
 title: A majority of writing and mathematics assignments in 12 Chicago Annenberg schools fell into the lowest two challenge categories
 description: A majority of writing and mathematics assignments in 12 Chicago Annenberg schools fell into the lowest two challenge categories
 id: chicago-assignments-majority-low-challenge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: For tracking time-varying systems, the step size is kept strictly away from zero
 description: For tracking time-varying systems, the step size is kept strictly away from zero
 id: constant-step-size-tracking-nonstationary-systems
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

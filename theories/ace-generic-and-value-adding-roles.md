@@ -2,7 +2,7 @@
 type: theory
 title: "Two fundamental roles of ACE providers: a generic role and a four-way value-adding role"
 description: The report distinguishes two fundamental roles for ACE providers in the national VET system.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

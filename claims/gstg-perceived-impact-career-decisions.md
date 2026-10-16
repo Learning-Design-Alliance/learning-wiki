@@ -3,7 +3,7 @@ type: claim
 title: Most survey respondents said the GSTG influenced their decision to pursue teaching, complete preparation, and teach in a priority school, with strongest perceived impacts among candidates of color
 description: Most survey respondents said the GSTG influenced their decision to pursue teaching, complete preparation, and teach in a priority school, with strongest perceived impacts among candidates of color
 id: gstg-perceived-impact-career-decisions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

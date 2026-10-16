@@ -3,7 +3,7 @@ type: claim
 title: Expansive learning moved epistemically from questioning to analysis, modeling and implementation while interactionally moving from coordination to cooperation and communication, but with no mechanical correspondence between specific actions and interaction types
 description: Expansive learning moved epistemically from questioning to analysis, modeling and implementation while interactionally moving from coordination to cooperation and communication, but with no mechanical correspondence b...
 id: no-mechanical-correspondence-actions-interaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

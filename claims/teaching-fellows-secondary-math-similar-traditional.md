@@ -3,7 +3,7 @@ type: claim
 title: Secondary math students taught by Teaching Fellows teachers had test scores similar to peers taught by traditional-route teachers
 description: Secondary math students taught by Teaching Fellows teachers had test scores similar to peers taught by traditional-route teachers
 id: teaching-fellows-secondary-math-similar-traditional
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

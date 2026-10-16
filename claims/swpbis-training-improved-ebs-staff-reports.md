@@ -3,7 +3,7 @@ type: claim
 title: SWPBIS training significantly improved staff-reported implementation fidelity on all four EBS subscales
 description: SWPBIS training significantly improved staff-reported implementation fidelity on all four EBS subscales
 id: swpbis-training-improved-ebs-staff-reports
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

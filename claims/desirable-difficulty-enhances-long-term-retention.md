@@ -3,7 +3,7 @@ type: claim
 title: "Desirable difficulty: harder-to-learn conditions yield enhanced long-term retention"
 description: "Desirable difficulty: harder-to-learn conditions yield enhanced long-term retention"
 id: desirable-difficulty-enhances-long-term-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

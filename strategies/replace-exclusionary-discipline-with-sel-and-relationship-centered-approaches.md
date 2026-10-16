@@ -3,7 +3,7 @@ type: strategy
 id: replace-exclusionary-discipline-with-sel-and-relationship-centered-approaches
 title: Replace exclusionary discipline for low-level offenses with social-emotional skill teaching, educator supports, implicit-bias training, and relationship-centered schools
 description: "The report recommends a package of evidence-based alternatives to zero-tolerance discipline: \"Replacing zero-tolerance policies and the use of suspensions and expulsions for low-level offenses with strategies that tea..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -58,4 +58,4 @@ The report recommends a package of evidence-based alternatives to zero-tolerance
 -
 
 ## Key Sources
-- Cardichon, J., & Darling-Hammond, L. (2019). Protecting students' civil rights: The federal role in school discipline. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/student-civil-rights-school-discipline
+- Cardichon, J., & Darling-Hammond, L. (2019). Protecting students' civil rights: The federal role in school discipline. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/student-civil-rights-school-discipline. [doi:10.33682/a3vc-nfcx](https://doi.org/10.33682/a3vc-nfcx)

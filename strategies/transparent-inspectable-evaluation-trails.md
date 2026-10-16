@@ -3,7 +3,7 @@ type: strategy
 id: transparent-inspectable-evaluation-trails
 title: Provide transparent, inspectable evaluation trails in AI-teaching benchmarks
 description: Participant feedback indicated that primary engineering frictions came from multimodal synchronization under strict latency constraints and ambiguous LLM-judge feedback.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

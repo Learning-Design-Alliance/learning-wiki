@@ -3,7 +3,7 @@ type: claim
 title: Comprehension-building practices for struggling readers in grades 4–9 have strong evidence, based on 34 studies
 description: Comprehension-building practices for struggling readers in grades 4–9 have strong evidence, based on 34 studies
 id: strong-evidence-comprehension-building-practices-grades-4-9
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: ai-relatedness-companion-not-substitute-strategy
 title: Position AI chatbots for relatedness as companions that normalize help-seeking and connect students to human communities, not substitutes for them
 description: "Because students with lower baseline relatedness perceived more relatedness support from chatbots, the authors identify a design opportunity: \"AI chatbots may be most valuable for relatedness when they help students f..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

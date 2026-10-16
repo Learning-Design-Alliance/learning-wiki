@@ -3,7 +3,7 @@ type: claim
 title: Students with higher spring reading assessment scores in kindergarten through grade 3 also had higher KEI and grade 3 PSSA ELA scores
 description: Students with higher spring reading assessment scores in kindergarten through grade 3 also had higher KEI and grade 3 PSSA ELA scores
 id: spring-reading-assessments-align-kei-pssa
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

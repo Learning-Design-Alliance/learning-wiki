@@ -3,7 +3,7 @@ type: claim
 title: Child age, caregiver education and country income level do not moderate book-sharing intervention effects on child language
 description: Child age, caregiver education and country income level do not moderate book-sharing intervention effects on child language
 id: book-sharing-effects-invariant-age-education-income
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: Course development satisfaction and AI proficiency add incremental explained variance beyond demographics, with the largest contribution to academic adjustment (R2 = 0.240)
 description: Course development satisfaction and AI proficiency add incremental explained variance beyond demographics, with the largest contribution to academic adjustment (R2 = 0.240)
 id: hierarchical-regression-incremental-variance-academic-adjustment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

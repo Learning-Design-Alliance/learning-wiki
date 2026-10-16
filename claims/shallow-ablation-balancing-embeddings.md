@@ -3,7 +3,7 @@ type: claim
 title: In the shallow-model ablation, class balancing lowered every metric, oversampling did not improve overall performance, and semantic embeddings raised ROC-AUC but lowered accuracy and F1
 description: In the shallow-model ablation, class balancing lowered every metric, oversampling did not improve overall performance, and semantic embeddings raised ROC-AUC but lowered accuracy and F1
 id: shallow-ablation-balancing-embeddings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

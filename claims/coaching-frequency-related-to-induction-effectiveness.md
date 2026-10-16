@@ -3,7 +3,7 @@ type: claim
 title: "Frequency of coaching field support varies across California induction programs and is positively related to administrators' ratings of program effectiveness"
 description: "Frequency of coaching field support varies across California induction programs and is positively related to administrators' ratings of program effectiveness"
 id: coaching-frequency-related-to-induction-effectiveness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -4,7 +4,7 @@ id: fraction-face-off
 title: "Fraction Face-Off!"
 description: "Fraction Face-Off!"
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

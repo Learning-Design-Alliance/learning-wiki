@@ -3,7 +3,7 @@ type: claim
 title: AI literacy and formal AI training remain low among nursing and health-professions students, though attitudes are largely positive
 description: AI literacy and formal AI training remain low among nursing and health-professions students, though attitudes are largely positive
 id: low-ai-literacy-positive-attitudes-health-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

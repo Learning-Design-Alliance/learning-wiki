@@ -3,7 +3,7 @@ type: claim
 title: Frequent participation in governance is associated with more favorable perceptions of organizational culture
 description: Frequent participation in governance is associated with more favorable perceptions of organizational culture
 id: governance-participation-linked-culture-perceptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -50,3 +50,4 @@ ANOVA by level of governance participation (Table 5) in the 455-respondent surve
 - [Technology implementation in higher education depends on individual initiative rather than institutional systems, with governance structures rarely including those responsible for implementation](implementation-depends-on-individual-initiative-not-systems.md) — related
 - Teacher satisfaction is influenced more by school culture than by student demographics — related
 - [Personal experience influenced teachers' visions of AI futures more than organizational culture or societal factors](personal-experience-over-organizational-culture.md) — related
+- [Organizational error management culture relates positively to company performance](error-management-culture-company-performance.md) — related

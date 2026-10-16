@@ -3,7 +3,7 @@ type: claim
 title: The frequency of oral corrective feedback differs across instructional contexts
 description: The frequency of oral corrective feedback differs across instructional contexts
 id: cf-frequency-varies-across-instructional-contexts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
@@ -48,3 +48,4 @@ The review presents results of research on "CF frequency across instructional co
 - [EFL instructors were unaware of most OCF strategy types and did not consider students' cognition when deciding on corrective feedback](teachers-unaware-ocf-strategies-cognition-absent.md) — related
 - [College EFL instructors in a Mexican case study showed more positive attitudes towards implicit oral corrective feedback strategies (recast, body language) than explicit ones](efl-teachers-prefer-implicit-ocf-strategies.md) — related
 - [Theoretical perspectives support corrective feedback while contentious issues remain about uptake, instruction, and CF's purpose](theoretical-perspectives-cf-uptake-instruction-purpose.md) — related
+- [Learner repair following feedback differed by setting: prompts yielded the largest proportion of repair in French immersion, recasts in Japanese immersion](repair-patterns-vary-by-feedback-type-and-setting.md) — a narrower finding that bears on this claim

@@ -3,7 +3,7 @@ type: claim
 title: Ikeda positions hope as an essential component of global citizenship education, with value creation starting from hope
 description: Ikeda positions hope as an essential component of global citizenship education, with value creation starting from hope
 id: hope-essential-component-gced
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

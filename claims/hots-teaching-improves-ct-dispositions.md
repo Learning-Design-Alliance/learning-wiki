@@ -3,7 +3,7 @@ type: claim
 title: HOTS-oriented teaching improves disposition towards critical thinking subscales including truth-seeking, open-mindedness, self-confidence, and maturity
 description: HOTS-oriented teaching improves disposition towards critical thinking subscales including truth-seeking, open-mindedness, self-confidence, and maturity
 id: hots-teaching-improves-ct-dispositions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

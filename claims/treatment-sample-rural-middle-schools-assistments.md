@@ -3,7 +3,7 @@ type: claim
 title: The vPLC-augmented ASSISTments treatment sample comprised 59 teachers and 2,855 students in grades 6-8 from 36 public schools across 24 U.S. states, half in rural areas
 description: The vPLC-augmented ASSISTments treatment sample comprised 59 teachers and 2,855 students in grades 6-8 from 36 public schools across 24 U.S.
 id: treatment-sample-rural-middle-schools-assistments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

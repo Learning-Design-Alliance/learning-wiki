@@ -3,7 +3,7 @@ type: strategy
 id: key-questions-institutional-conditions-student-voice
 title: Evaluate student-voice initiatives with a framework of key questions on institutional conditions
 description: "The article offers a framework consisting of key questions for evaluating whether a school's institutional conditions genuinely support student voice."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: Teach For America teachers were more likely than their peers to report problems with student behavior
 description: Teach For America teachers were more likely than their peers to report problems with student behavior
 id: tfa-teachers-report-more-behavior-problems
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

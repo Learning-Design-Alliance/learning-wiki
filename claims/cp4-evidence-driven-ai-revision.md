@@ -3,7 +3,7 @@ type: claim
 title: Checkpoint artifacts prompted Master-level student groups to revise initial AI overestimates after baseline simulation evidence accumulated
 description: Checkpoint artifacts prompted Master-level student groups to revise initial AI overestimates after baseline simulation evidence accumulated
 id: cp4-evidence-driven-ai-revision
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

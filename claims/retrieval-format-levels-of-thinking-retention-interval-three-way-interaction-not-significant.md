@@ -3,7 +3,7 @@ type: claim
 title: "Retrieval practice format, levels of thinking and retention interval show no significant three-way interaction on undergraduates' reading comprehension"
 description: "Retrieval practice format, levels of thinking and retention interval show no significant three-way interaction on undergraduates' reading comprehension"
 id: retrieval-format-levels-of-thinking-retention-interval-three-way-interaction-not-significant
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

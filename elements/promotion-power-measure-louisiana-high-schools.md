@@ -3,7 +3,7 @@ type: element
 id: promotion-power-measure-louisiana-high-schools
 title: Promotion power measure of high school effects on long-term student success
 description: "Promotion power is defined as \"a school's effect on the long-term success of its students as indicated by high school graduation, college or career readiness, college enrollment and persistence, and success in the job..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

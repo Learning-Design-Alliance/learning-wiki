@@ -3,7 +3,7 @@ type: claim
 title: UBMS provides intensive academic instruction in math and science
 description: UBMS provides intensive academic instruction in math and science
 id: ubms-intensive-academic-instruction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

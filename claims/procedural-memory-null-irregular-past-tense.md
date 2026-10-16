@@ -3,7 +3,7 @@ type: claim
 title: Procedural memory shows no association with irregular past tense learning under any CF type
 description: Procedural memory shows no association with irregular past tense learning under any CF type
 id: procedural-memory-null-irregular-past-tense
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

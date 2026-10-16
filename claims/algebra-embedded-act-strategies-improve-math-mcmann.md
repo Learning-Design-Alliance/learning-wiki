@@ -3,7 +3,7 @@ type: claim
 title: Embedding test-taking strategies and ACT practice items in algebra improved practice ACT mathematics scores (McMann, 1994; effect size 0.34)
 description: Embedding test-taking strategies and ACT practice items in algebra improved practice ACT mathematics scores (McMann, 1994; effect size 0.34)
 id: algebra-embedded-act-strategies-improve-math-mcmann
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

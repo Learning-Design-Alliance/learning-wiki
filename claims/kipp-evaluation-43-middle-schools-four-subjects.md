@@ -3,7 +3,7 @@ type: claim
 title: The second phase of the national KIPP evaluation nearly doubled the sample to 43 KIPP middle schools and estimated achievement impacts in four subjects
 description: The second phase of the national KIPP evaluation nearly doubled the sample to 43 KIPP middle schools and estimated achievement impacts in four subjects
 id: kipp-evaluation-43-middle-schools-four-subjects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

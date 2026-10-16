@@ -4,7 +4,7 @@ id: evaluating-and-justifying-mechanistic-explanations
 title: Evaluating and Justifying Mechanistic Explanations
 description: A task in which learners judge competing explanations for a phenomenon (mechanistic, circular, teleological), decide whether each actually answers a "how" question, and justify their evaluation.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

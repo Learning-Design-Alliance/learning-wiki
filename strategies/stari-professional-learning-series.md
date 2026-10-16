@@ -3,7 +3,7 @@ type: strategy
 id: stari-professional-learning-series
 title: Online asynchronous professional learning series completed in teams across the school year
 description: SERP offers an online professional learning series in which teachers and coaches explore STARI practices and skills and learn to implement the program.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

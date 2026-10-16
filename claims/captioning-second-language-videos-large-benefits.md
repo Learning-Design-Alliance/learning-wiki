@@ -3,7 +3,7 @@ type: claim
 title: Captioning second-language videos produces large benefits for comprehension and vocabulary acquisition
 description: Captioning second-language videos produces large benefits for comprehension and vocabulary acquisition
 id: captioning-second-language-videos-large-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

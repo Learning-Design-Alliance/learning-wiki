@@ -3,7 +3,7 @@ type: strategy
 id: kea-selection-implementation-recommendations
 title: Five KEA selection and implementation considerations for policymakers and practitioners
 description: "The brief offers recommendations for selecting and executing a high-quality KEA: \"cultural and linguistic responsiveness, standardization and reliability, resource allocation and training, alignment to other education..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

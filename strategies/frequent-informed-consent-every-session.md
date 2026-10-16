@@ -3,7 +3,7 @@ type: strategy
 id: frequent-informed-consent-every-session
 title: Give informed consent frequently at every peer counselling session to manage confidentiality dilemmas
 description: "To tackle confidentiality dilemmas, the author recommends that peer counsellors be proactive in self-securing \"by frequently giving informed consent at every meeting of the sessions\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

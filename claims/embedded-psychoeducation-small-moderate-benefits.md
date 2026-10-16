@@ -3,7 +3,7 @@ type: claim
 title: Psycho-educational interventions embedded in routine diabetes care show small-to-moderate improvements in diabetes-specific distress and depressive symptoms, with variable glycaemic effects
 description: Psycho-educational interventions embedded in routine diabetes care show small-to-moderate improvements in diabetes-specific distress and depressive symptoms, with variable glycaemic effects
 id: embedded-psychoeducation-small-moderate-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

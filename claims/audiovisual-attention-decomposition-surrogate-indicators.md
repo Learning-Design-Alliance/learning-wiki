@@ -3,7 +3,7 @@ type: claim
 title: Audiovisual attention decomposition via forward encoding and variance partitioning yields VAC, AAC, and SAC as surrogate indicators, not direct measures of attention
 description: Audiovisual attention decomposition via forward encoding and variance partitioning yields VAC, AAC, and SAC as surrogate indicators, not direct measures of attention
 id: audiovisual-attention-decomposition-surrogate-indicators
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

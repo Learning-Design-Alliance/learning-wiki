@@ -3,7 +3,7 @@ type: claim
 title: Voice and text tutoring produced statistically equivalent weekly mastery within students, while voice transformed the interaction at a 2.8× cost premium
 description: Voice and text tutoring produced statistically equivalent weekly mastery within students, while voice transformed the interaction at a 2.8× cost premium
 id: voice-text-mastery-equivalent-interaction-transformed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

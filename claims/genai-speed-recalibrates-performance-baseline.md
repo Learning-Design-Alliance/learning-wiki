@@ -3,7 +3,7 @@ type: claim
 title: AI-assisted speed becomes a recalibrated performance baseline, making manual work feel slow and inadequate
 description: AI-assisted speed becomes a recalibrated performance baseline, making manual work feel slow and inadequate
 id: genai-speed-recalibrates-performance-baseline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

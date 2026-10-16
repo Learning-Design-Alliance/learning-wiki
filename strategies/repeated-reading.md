@@ -109,13 +109,13 @@ Repeated reading builds fluency by strengthening the orthographic representation
 
 ## Examples
 - **[Read Naturally](https://www.readnaturally.com)** — implements the full sequence: audio modeling, timed repeated readings, graphs of words-correct-per-minute, and comprehension questions.
-- **Reader's Theater** — students rehearse a script over several days and perform it; the performance purpose justifies the rereadings and adds prosody practice.
+- **[Reader's Theater](readers_theater.md)** — students rehearse a script over several days and perform it; the performance purpose justifies the rereadings and adds prosody practice.
 - **Tier 2 intervention groups** — a 10–15 minute daily routine of modeled rereading of a 100-word passage with progress graphing, common in MTSS/RTI reading blocks.
 - **[Read Naturally](https://www.readnaturally.com)** — audio-assisted repeated reading program: students hear a modeled reading, practice the passage repeatedly, and graph their own rate and accuracy against a goal.
 - **[PALS (Peer-Assisted Learning Strategies)](https://vkc.mc.vanderbilt.edu/pals/)** — Vanderbilt's peer-tutoring program pairs students for scripted repeated reading with points for improvement, used across grades 2–6.
 - **Reader's Theatre** — students rehearse a script over several days and perform it; the performance deadline supplies the repetition criterion without drill-like framing.
 - **National Reading Panel (2000)** — identified repeated reading with guidance as one of the few instructional approaches with consistent experimental support for fluency development.
-- **Read Naturally** (https://www.readnaturally.com) — commercial program combining audio modeling, repeated reading, and progress graphing; widely used in Tier 2/3 interventions.
+- **[Read Naturally](../products/read-naturally.md)** (https://www.readnaturally.com) — commercial program combining audio modeling, repeated reading, and progress graphing; widely used in Tier 2/3 interventions.
 - **Reader's Theatre** — classrooms rehearse short scripts across several days and perform for an audience; students typically reread the same text 10+ times voluntarily because the purpose is authentic.
 
 ## Key Sources

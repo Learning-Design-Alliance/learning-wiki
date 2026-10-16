@@ -3,7 +3,7 @@ type: claim
 title: Thirty-seven states provide dual funding for students who are both English learners and from low-income families, with 36 adding the unique weights for each group and New Jersey adjusting the combined weight
 description: Thirty-seven states provide dual funding for students who are both English learners and from low-income families, with 36 adding the unique weights for each group and New Jersey adjusting the combined weight
 id: 37-states-dual-funding-el-low-income
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

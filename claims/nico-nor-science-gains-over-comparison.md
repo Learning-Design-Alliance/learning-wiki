@@ -3,7 +3,7 @@ type: claim
 title: Children in intervention classrooms made significantly more improvement in science learning than children in comparison (business as usual) classrooms
 description: Children in intervention classrooms made significantly more improvement in science learning than children in comparison (business as usual) classrooms
 id: nico-nor-science-gains-over-comparison
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

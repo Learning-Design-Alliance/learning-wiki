@@ -3,7 +3,7 @@ type: claim
 title: Most work-based learning participants have been CTE students despite district intent to expand access
 description: Most work-based learning participants have been CTE students despite district intent to expand access
 id: wbl-participation-concentrated-among-cte-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

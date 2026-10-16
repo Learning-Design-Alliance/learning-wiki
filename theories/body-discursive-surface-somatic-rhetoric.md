@@ -2,7 +2,7 @@
 type: theory
 title: "The body as discursive surface: somatic rhetoric as the speaking of the unspoken"
 description: Drawing on postmodern body theorists (Butler, Bell, Irigaray, Raschke), the paper treats the body not as a passive biological agent but as a discursive surface that culture writes upon.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: strategy
 id: growth-mindset-teaching-practices-list
 title: "Growth-mindset-informed math teaching practices: norms, no fixed labels, mixed-ability grouping, process praise, and formative assessment with retakes"
 description: "The report synthesizes the growth mindset literature into math teaching practices that reinforce a growth orientation: \"establishing and reinforcing classroom norms\" communicating that all students can learn math and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

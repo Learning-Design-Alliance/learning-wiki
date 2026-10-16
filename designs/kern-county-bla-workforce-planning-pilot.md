@@ -3,7 +3,7 @@ type: design
 id: kern-county-bla-workforce-planning-pilot
 title: Kern County regional BLA workforce planning pilot
 description: "A regional BLA workforce planning pilot that \"brought together county, district, and educator preparation program partners in Kern County for a series of planning workshops in 2025 to examine recruitment and retention..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

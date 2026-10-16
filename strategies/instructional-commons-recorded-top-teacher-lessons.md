@@ -3,7 +3,7 @@ type: strategy
 id: instructional-commons-recorded-top-teacher-lessons
 title: "Instructional Commons: record and disseminate top teachers' full-year instruction for peer-to-peer professional use"
 description: "The brief proposes identifying the best teacher for a given subject and grade, paying them to have \"their entire year of teaching for that subject recorded,\" then digitizing the videos and supporting materials — lesso..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

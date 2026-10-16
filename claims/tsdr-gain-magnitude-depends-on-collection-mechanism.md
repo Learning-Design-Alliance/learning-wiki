@@ -3,7 +3,7 @@ type: claim
 title: "TSDR's AUC gains are largest on open-ended platforms and limited on EdNet, whose mandatory bundle completion policy constrains selection bias"
 description: "TSDR's AUC gains are largest on open-ended platforms and limited on EdNet, whose mandatory bundle completion policy constrains selection bias"
 id: tsdr-gain-magnitude-depends-on-collection-mechanism
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

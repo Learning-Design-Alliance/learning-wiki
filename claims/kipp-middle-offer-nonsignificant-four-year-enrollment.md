@@ -3,7 +3,7 @@ type: claim
 title: KIPP middle school admission offers had a positive but statistically non-significant effect on enrollment in four-year college programs
 description: KIPP middle school admission offers had a positive but statistically non-significant effect on enrollment in four-year college programs
 id: kipp-middle-offer-nonsignificant-four-year-enrollment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: use-parcels-for-cat-construct-validity
 title: Use item parcels (testlets), not items, as observable indicators when evaluating construct validity of CAT data
 description: "Because CAT missingness is MNAR and item-level factor models fail to converge on CAT data, the article's results support evaluating internal structure with parcels: \"by parceling items and using parcels as observable..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

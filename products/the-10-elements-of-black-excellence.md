@@ -4,7 +4,7 @@ id: the-10-elements-of-black-excellence
 title: The 10 Elements of Black Excellence
 description: "A community-informed framework developed by LBUSD's Center to organize its foundation, aims, and practical approaches for advancing Black excellence."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

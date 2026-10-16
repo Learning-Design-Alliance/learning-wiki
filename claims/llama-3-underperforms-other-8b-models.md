@@ -3,7 +3,7 @@ type: claim
 title: Among the three 8B LLMs, Llama 3 underperforms Apertus and Granite 3.3 on most evaluation metrics
 description: Among the three 8B LLMs, Llama 3 underperforms Apertus and Granite 3.3 on most evaluation metrics
 id: llama-3-underperforms-other-8b-models
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

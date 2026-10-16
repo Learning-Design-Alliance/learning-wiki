@@ -3,7 +3,7 @@ type: claim
 title: Appalachian culture carries aspirational, resistance, and familial capital that connect to problem-solving and CT
 description: Appalachian culture carries aspirational, resistance, and familial capital that connect to problem-solving and CT
 id: appalachian-cultural-capital-connects-ct
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

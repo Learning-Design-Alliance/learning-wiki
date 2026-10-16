@@ -3,7 +3,7 @@ type: claim
 title: Despite large increases in course-taking, the science requirement produced little evidence of additional science learning, as most graduates earned Cs or lower
 description: Despite large increases in course-taking, the science requirement produced little evidence of additional science learning, as most graduates earned Cs or lower
 id: cps-science-requirement-little-learning-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

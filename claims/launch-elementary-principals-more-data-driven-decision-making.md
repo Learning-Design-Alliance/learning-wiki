@@ -3,7 +3,7 @@ type: claim
 title: Elementary LAUNCH principals report significantly more data-driven decision making than comparable or veteran principals
 description: Elementary LAUNCH principals report significantly more data-driven decision making than comparable or veteran principals
 id: launch-elementary-principals-more-data-driven-decision-making
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

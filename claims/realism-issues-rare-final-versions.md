@@ -3,7 +3,7 @@ type: claim
 title: Realism issues were detected by agents during generation but were rare in final versions
 description: Realism issues were detected by agents during generation but were rare in final versions
 id: realism-issues-rare-final-versions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

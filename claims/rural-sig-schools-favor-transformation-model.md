@@ -3,7 +3,7 @@ type: claim
 title: Rural SIG schools were more likely than nonrural SIG schools to adopt the transformation model (95 versus 74 percent)
 description: Rural SIG schools were more likely than nonrural SIG schools to adopt the transformation model (95 versus 74 percent)
 id: rural-sig-schools-favor-transformation-model
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

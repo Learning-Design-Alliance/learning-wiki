@@ -3,7 +3,7 @@ type: strategy
 id: co-design-in-class-assessment-conversation
 title: Model CRA by co-designing course assessment with students through an in-class assessment conversation
 description: "The guide recommends that instructors model culturally responsive assessment by treating course assessment itself as an object of co-design: holding an in-class assessment conversation in which students discuss and sh..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

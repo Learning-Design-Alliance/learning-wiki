@@ -4,7 +4,7 @@ id: prevention-and-get-fit
 title: Prevention and Get Fit
 description: A school-based obesity-prevention programme combining universal nutrition and physical-activity activities with the targeted 12-week Get Fit intervention for students needing additional support.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

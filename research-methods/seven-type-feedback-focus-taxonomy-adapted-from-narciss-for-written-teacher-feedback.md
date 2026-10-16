@@ -3,7 +3,7 @@ type: research-method
 id: seven-type-feedback-focus-taxonomy-adapted-from-narciss-for-written-teacher-feedback
 title: Seven-type feedback focus taxonomy adapted from Narciss for written teacher feedback
 description: "The article adapts and refines Narciss's content-based feedback taxonomy into seven feedback focus types for annotating written feedback: Task Constraints, Concepts, Elaboration, Clarification, Mistakes, Praise, and Other."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

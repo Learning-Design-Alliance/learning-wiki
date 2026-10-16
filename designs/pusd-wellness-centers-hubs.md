@@ -3,7 +3,7 @@ type: design
 id: pusd-wellness-centers-hubs
 title: Grant-funded school-based Wellness Centers as accessible hubs for services
 description: With Project Cal-Well support, PUSD established grant-funded Wellness Centers in partnership with Butte County Behavioral Health, first at Paradise High School in 2021/22, then Ridgeview High School in 2022/23, and Pa...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

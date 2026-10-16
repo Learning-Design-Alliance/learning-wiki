@@ -3,7 +3,7 @@ type: claim
 title: "The cooperative learning component's added benefit over direct instruction alone with CIRC materials was not statistically significant on main idea identification"
 description: "The cooperative learning component's added benefit over direct instruction alone with CIRC materials was not statistically significant on main idea identification"
 id: circ-cooperative-component-benefit-unconfirmed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

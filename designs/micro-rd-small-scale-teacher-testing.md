@@ -3,7 +3,7 @@ type: design
 id: micro-rd-small-scale-teacher-testing
 title: "Micro-R&D: teachers test new tools and ideas on a small scale before successful practices enter the broader curriculum"
 description: "At South Fayette Township School District (PA), R&D operates as a culture of experimentation rather than a department."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

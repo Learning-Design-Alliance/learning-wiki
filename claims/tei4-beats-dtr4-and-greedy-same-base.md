@@ -3,7 +3,7 @@ type: claim
 title: "On the same frozen base, TEI@4 beats both DTR@4 and Greedy on Δ Solve Rate, leak rate, and composite R_total at no training cost"
 description: "On the same frozen base, TEI@4 beats both DTR@4 and Greedy on Δ Solve Rate, leak rate, and composite R_total at no training cost"
 id: tei4-beats-dtr4-and-greedy-same-base
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

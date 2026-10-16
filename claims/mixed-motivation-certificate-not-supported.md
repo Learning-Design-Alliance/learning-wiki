@@ -3,7 +3,7 @@ type: claim
 title: "Chinese ESP learners in this sample were motivated in a mixed manner, and 'certificate motivation' was not supported"
 description: "Chinese ESP learners in this sample were motivated in a mixed manner, and 'certificate motivation' was not supported"
 id: mixed-motivation-certificate-not-supported
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

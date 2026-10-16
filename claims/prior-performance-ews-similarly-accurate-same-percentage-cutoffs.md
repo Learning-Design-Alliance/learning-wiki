@@ -3,7 +3,7 @@ type: claim
 title: A prior performance early warning system and a machine learning algorithm with same-percentage risk-score cutoffs are similarly accurate at identifying students who experience academic problems
 description: A prior performance early warning system and a machine learning algorithm with same-percentage risk-score cutoffs are similarly accurate at identifying students who experience academic problems
 id: prior-performance-ews-similarly-accurate-same-percentage-cutoffs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

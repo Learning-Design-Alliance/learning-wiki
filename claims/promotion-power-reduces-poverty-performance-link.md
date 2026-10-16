@@ -3,7 +3,7 @@ type: claim
 title: "Promotion power measures substantially reduce or eliminate the relationship between student poverty and a school's measure of performance"
 description: "Promotion power measures substantially reduce or eliminate the relationship between student poverty and a school's measure of performance"
 id: promotion-power-reduces-poverty-performance-link
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

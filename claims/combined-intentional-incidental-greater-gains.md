@@ -3,7 +3,7 @@ type: claim
 title: Combining intentional and incidental vocabulary learning produces greater gains and better retention than either mode alone
 description: Combining intentional and incidental vocabulary learning produces greater gains and better retention than either mode alone
 id: combined-intentional-incidental-greater-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

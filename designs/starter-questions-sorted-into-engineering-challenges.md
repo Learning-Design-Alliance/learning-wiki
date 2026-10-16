@@ -3,7 +3,7 @@ type: design
 id: starter-questions-sorted-into-engineering-challenges
 title: "Engineering inquiry pattern: student-generated starter questions sorted into engineering design-goal challenges"
 description: In this inquiry pattern, learners first explore phenomena during Starters and write observations and questions on sentence strips, as in science inquiry.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

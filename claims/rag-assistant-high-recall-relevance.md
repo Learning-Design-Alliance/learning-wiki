@@ -3,7 +3,7 @@ type: claim
 title: The RAG-enhanced assistant achieves context recall above 0.93 and answer relevance of 0.87 on an expert-built 52-question evaluation set
 description: The RAG-enhanced assistant achieves context recall above 0.93 and answer relevance of 0.87 on an expert-built 52-question evaluation set
 id: rag-assistant-high-recall-relevance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

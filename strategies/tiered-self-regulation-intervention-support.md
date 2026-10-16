@@ -3,7 +3,7 @@ type: strategy
 id: tiered-self-regulation-intervention-support
 title: Provide self-regulation interventions at varying levels and intensity matched to youth context and needs
 description: "This strategy from the brief's implementation guidelines tailors support intensity to need."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

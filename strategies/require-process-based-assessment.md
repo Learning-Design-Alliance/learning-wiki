@@ -3,7 +3,7 @@ type: strategy
 id: require-process-based-assessment
 title: "Require: process-based assessment through metacognitive rationales for accepting or revising AI suggestions"
 description: The third framework component shifts assessment from final products to process.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

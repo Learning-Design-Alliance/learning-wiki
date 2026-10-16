@@ -3,7 +3,7 @@ type: theory
 title: Elaborative Retrieval Account
 description: "Proposed by Carpenter (2009), this account holds that \"semantic elaboration occurs during the process of retrieval and enhances subsequent recall\"."
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

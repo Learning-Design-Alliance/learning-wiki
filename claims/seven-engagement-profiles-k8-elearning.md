@@ -3,7 +3,7 @@ type: claim
 title: "K-means clustering of K–8 students' platform trace data yields seven distinct engagement profiles"
 description: "K-means clustering of K–8 students' platform trace data yields seven distinct engagement profiles"
 id: seven-engagement-profiles-k8-elearning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

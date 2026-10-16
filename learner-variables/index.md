@@ -2,15 +2,11 @@
 
 Canonical learner characteristics claims report findings about — one page per variable, so the same concept does not fragment across differently-worded tags.
 
-**14 entries** · 0 stable · 1 in review · 13 drafts
+**14 entries** · 0 stable · 14 in review · 0 drafts
 
 ---
 
 ## In Review
-
-* [Prior Knowledge](prior-knowledge.md) - A learner's existing domain knowledge in the subject area before instruction begins.
-
-## Draft
 
 * [Access](access.md) - Whether a learner can perceive and operate the material at all — device, bandwidth, sensory and motor.
 * [Affect Regulation](affect-regulation.md) - What a learner does with frustration, anxiety and failure while the work is still in front of them.
@@ -20,6 +16,7 @@ Canonical learner characteristics claims report findings about — one page per 
 * [Domain Context](domain-context.md) - The sector, role or setting a scenario has to be placed in before a learner recognises it as their own.
 * [Learning Disabilities and Developmental Differences](learning-disabilities.md) - Identified learning, developmental and intellectual disabilities (dyslexia and other specific learning disabilities, autism, intellectual disability), and the special educational needs that follow from them.
 * [Motivation](motivation.md) - Whether a learner is willing to spend effort here, and what makes the spending feel worth it.
+* [Prior Knowledge](prior-knowledge.md) - A learner's existing domain knowledge in the subject area before instruction begins.
 * [Reading and Language](reading-and-language.md) - What a learner can read fluently, and whether the language of instruction is the one they think in.
 * [Self-Regulation](self-regulation.md) - Whether a learner can plan, monitor and adjust their own work without the structure being supplied.
 * [Socioeconomic Status](socioeconomic-status.md) - A learner's family income, wealth, parental education and occupation, and the resources and constraints that come with them.

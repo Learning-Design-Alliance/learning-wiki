@@ -3,7 +3,7 @@ type: principle
 id: prioritize-kinesthetic-sense-and-whole-body-connectedness
 title: Prioritize the kinesthetic sense and whole-body connectedness so dancers learn to trust their own perceptions
 description: "Drawing on Fortin's (1994) case study of teacher Glenna Batson, the article identifies \"kinesthetic sense and whole-body connectedness\" as the two main principles spearheading somatically informed teaching."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -53,4 +53,4 @@ Drawing on Fortin's (1994) case study of teacher Glenna Batson, the article iden
 - [Moving toward the touch: partnered touch-guided improvisation for spatial-perceptual listening](../strategies/moving-toward-the-touch-improvisation.md)
 
 ## Key Sources
-- Enghauser, R. (2007). Developing Listening Bodies in the Dance Technique Class. JOPERD, 78(6). https://eric.ed.gov/?id=EJ795590
+- Enghauser, R. (2007). Developing Listening Bodies in the Dance Technique Class. JOPERD, 78(6). https://eric.ed.gov/?id=EJ795590. [doi:10.1080/07303084.2007.10598039](https://doi.org/10.1080/07303084.2007.10598039)

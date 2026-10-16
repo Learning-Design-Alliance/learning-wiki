@@ -3,7 +3,7 @@ type: claim
 title: "The study's generalizability is limited by its rural, small, relatively homogeneous context"
 description: "The study's generalizability is limited by its rural, small, relatively homogeneous context"
 id: ai-helper-case-study-generalizability-limits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

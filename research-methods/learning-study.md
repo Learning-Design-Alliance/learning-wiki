@@ -3,7 +3,7 @@ type: research-method
 id: learning-study
 title: Learning study
 description: "Learning study is described as \"an approach for developing lessons, using a theory of variation\", in which teachers formulate a learning object, construct pre/post tests, plan and video-record lessons, analyze them, and improve successive lessons."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

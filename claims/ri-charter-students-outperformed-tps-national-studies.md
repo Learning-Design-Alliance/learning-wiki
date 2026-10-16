@@ -3,7 +3,7 @@ type: claim
 title: National studies cited in the report found Rhode Island charter students outperformed traditional public school peers in reading and math
 description: National studies cited in the report found Rhode Island charter students outperformed traditional public school peers in reading and math
 id: ri-charter-students-outperformed-tps-national-studies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

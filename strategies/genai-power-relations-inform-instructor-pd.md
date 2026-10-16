@@ -3,7 +3,7 @@ type: strategy
 id: genai-power-relations-inform-instructor-pd
 title: Use findings on instructor power relations to inform professional development for responding to Generative AI
 description: The article positions its findings as input for instructor professional development around Generative AI.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: strategy
 id: broaden-psychometric-llm-evaluation-research
 title: Broaden instruments, methods, and expert judgment in psychometric LLM evaluation research
 description: "The authors' forward-looking recommendation for the emerging field of applying psychometrics to LLM evaluation is to extend the approach beyond their two case studies."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

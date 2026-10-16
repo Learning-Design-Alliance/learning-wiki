@@ -2,7 +2,7 @@
 type: theory
 title: "Forms Use Types taxonomy: five pedagogical and four professional categories of teacher use"
 description: The report synthesizes interview data into categories of “Forms Use Types” characterizing how teachers used Forms.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

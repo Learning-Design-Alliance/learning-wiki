@@ -3,7 +3,7 @@ type: design
 id: theme-of-the-week-story-activity-lesson-structure
 title: Theme-of-the-week character lesson structure with story introduction and varied activities
 description: "The curriculum uses a recurring weekly instructional pattern: a 'theme of the week' approach in which the teacher introduces the week's concept by reading stories portraying that value in action, then engages students..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-07

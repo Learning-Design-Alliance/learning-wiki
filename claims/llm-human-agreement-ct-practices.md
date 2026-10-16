@@ -3,7 +3,7 @@ type: claim
 title: A multimodal LLM achieves moderate-to-substantial agreement with human consensus on well-defined CT practices but lower agreement on multi-component constructs like Physics Correctness and Systems Thinking
 description: A multimodal LLM achieves moderate-to-substantial agreement with human consensus on well-defined CT practices but lower agreement on multi-component constructs like Physics Correctness and Systems Thinking
 id: llm-human-agreement-ct-practices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

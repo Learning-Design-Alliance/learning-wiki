@@ -3,7 +3,7 @@ type: claim
 title: "Turkish undergraduates' AI associations are anchored by utilitarian concepts, with Convenience and Speed alone accounting for 18.5% of all responses"
 description: "Turkish undergraduates' AI associations are anchored by utilitarian concepts, with Convenience and Speed alone accounting for 18.5% of all responses"
 id: utilitarian-anchors-convenience-speed-ai-associations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

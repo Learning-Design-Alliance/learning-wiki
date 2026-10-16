@@ -3,7 +3,7 @@ type: claim
 title: Foxglove Elementary distributes leadership across staff roles but has few mechanisms to coordinate the work
 description: Foxglove Elementary distributes leadership across staff roles but has few mechanisms to coordinate the work
 id: foxglove-decentralized-leadership-weak-coordination
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

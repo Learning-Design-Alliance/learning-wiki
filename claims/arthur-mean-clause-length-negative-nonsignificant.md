@@ -3,7 +3,7 @@ type: claim
 title: Mean clause length showed a small negative difference favoring the comparison group, not statistically significant
 description: Mean clause length showed a small negative difference favoring the comparison group, not statistically significant
 id: arthur-mean-clause-length-negative-nonsignificant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

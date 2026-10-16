@@ -3,7 +3,7 @@ type: claim
 title: Early numeracy mastery is measurable at 54 months across three competencies in a large longitudinal sample
 description: Early numeracy mastery is measurable at 54 months across three competencies in a large longitudinal sample
 id: numeracy-measurable-54-months-three-competencies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Comparing original texts to model paragraphs prompted noticing that was again focused on lexical features
 description: Comparing original texts to model paragraphs prompted noticing that was again focused on lexical features
 id: model-comparison-noticing-lexical
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -48,3 +48,4 @@ Stage 2 comparison notes from the single-participant case study; for the rainbow
 - [While producing L2 paragraphs, an EFL learner's self-noticed problems were overwhelmingly lexical (about 79%) rather than grammatical (about 21%)](output-noticing-predominantly-lexical.md) — related
 - [Rewriting after noticing gaps and comparing to models produced modified output that solved more lexical gaps than grammatical problems](rewriting-solves-more-lexical-gaps.md) — related
 - [Review-reported experiment found output performed noticing and hypothesis-testing functions but no apparent metalinguistic function in L2 writing](zhao-ping-output-functions-writing-experiment.md) — related
+- [Passive instructional events such as texts do not explicitly prompt students to produce written or spoken output](passive-instruction-no-production-prompt.md) — related

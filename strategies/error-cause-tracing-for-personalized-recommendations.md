@@ -3,7 +3,7 @@ type: strategy
 id: error-cause-tracing-for-personalized-recommendations
 title: Use traced error causes as personalized intervention recommendations in online learning systems
 description: "The article proposes that diagnosing the causes of a student's systematic errors can guide adapting education to individual needs: the SET model \"returns predicted probabilities for all considered causes, which may fu..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

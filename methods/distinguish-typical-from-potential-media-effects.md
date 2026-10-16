@@ -3,7 +3,7 @@ type: method
 id: distinguish-typical-from-potential-media-effects
 title: Distinguish what a medium feature teaches typically from what it can be made to teach
 description: "The paper argues that research questions like 'What does feature x teach?' are vague because they fail to distinguish \"what a feature teaches typically, and what it can be made to teach\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

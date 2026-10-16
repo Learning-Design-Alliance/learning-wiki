@@ -3,7 +3,7 @@ type: strategy
 id: conditions-supporting-challenge-based-coaching-success
 title: "Garantizar condiciones escolares que apoyen el coaching: menos clases asignadas al coach, compromiso de los líderes y entusiasmo de los maestros"
 description: "El informe enumera las condiciones que apoyaron la implementación exitosa del coaching en el piloto: \"Menos clases asignadas al coach\", \"Compromiso de los líderes escolares con el trabajo de coaching\" y \"Entusiasmo de..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

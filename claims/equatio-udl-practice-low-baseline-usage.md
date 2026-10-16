@@ -3,7 +3,7 @@ type: claim
 title: "Most Equatio-using teachers were not using the tool to support UDL-based practices, with only about 22% reporting use of a given UDL affordance on average"
 description: "Most Equatio-using teachers were not using the tool to support UDL-based practices, with only about 22% reporting use of a given UDL affordance on average"
 id: equatio-udl-practice-low-baseline-usage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

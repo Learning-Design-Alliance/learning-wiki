@@ -3,7 +3,7 @@ type: claim
 title: Authentic assessment designs most commonly target knowledge construction and 21st-century skills, with digital literacy rarely addressed
 description: Authentic assessment designs most commonly target knowledge construction and 21st-century skills, with digital literacy rarely addressed
 id: aa-cognitive-challenges-knowledge-and-21st-century-skills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Writing proficiency and digital critical thinking were strongly associated, and the association strengthened from pretest to posttest
 description: Writing proficiency and digital critical thinking were strongly associated, and the association strengthened from pretest to posttest
 id: writing-dcts-co-development-correlations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

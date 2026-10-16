@@ -3,7 +3,7 @@ type: claim
 title: The most frequent research tags in the NSF EXP portfolio were AI, machine learning, modeling and simulation, formative assessment, and augmented/virtual/mixed reality
 description: The most frequent research tags in the NSF EXP portfolio were AI, machine learning, modeling and simulation, formative assessment, and augmented/virtual/mixed reality
 id: nsf-exp-top-tags-ai-machine-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

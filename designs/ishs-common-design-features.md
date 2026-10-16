@@ -3,7 +3,7 @@ type: design
 id: ishs-common-design-features
 title: Common design features of inclusive STEM high schools
 description: "The article enumerates the features ISHSs tend to share even though curriculum and instructional practices vary: \"a rigorous STEm-focused college preparatory curriculum for all students; use of project- or problem-bas..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

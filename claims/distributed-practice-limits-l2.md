@@ -3,7 +3,7 @@ type: claim
 title: Distributed practice benefits L2 learning, and one review argues that spreading it over years can be worse than over months
 description: Distributed practice benefits L2 learning, and one review argues that spreading it over years can be worse than over months
 id: distributed-practice-limits-l2
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

@@ -3,7 +3,7 @@ type: claim
 title: "Using the directness penalty Rdir as a GRPO reward is counterproductive: it lowers SE by 0.200 and raises leakage by 10 percentage points relative to omitting it"
 description: "Using the directness penalty Rdir as a GRPO reward is counterproductive: it lowers SE by 0.200 and raises leakage by 10 percentage points relative to omitting it"
 id: directness-penalty-harmful-as-grpo-reward
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

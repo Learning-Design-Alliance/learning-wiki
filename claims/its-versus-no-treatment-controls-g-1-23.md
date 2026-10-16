@@ -3,7 +3,7 @@ type: claim
 title: Against no-treatment controls, ITS produce a large statistically significant effect (g = 1.23) under a random-effects model
 description: Against no-treatment controls, ITS produce a large statistically significant effect (g = 1.23) under a random-effects model
 id: its-versus-no-treatment-controls-g-1-23
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

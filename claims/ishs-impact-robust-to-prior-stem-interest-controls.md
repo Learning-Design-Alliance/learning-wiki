@@ -3,7 +3,7 @@ type: claim
 title: The ISHS advantage in STEM career interest at the end of high school remains significant after controlling for prior middle school STEM interest and activity
 description: The ISHS advantage in STEM career interest at the end of high school remains significant after controlling for prior middle school STEM interest and activity
 id: ishs-impact-robust-to-prior-stem-interest-controls
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

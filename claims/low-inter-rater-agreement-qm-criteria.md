@@ -3,7 +3,7 @@ type: claim
 title: Inter-rater agreement among the 20 expert teachers was low, at or below chance across QM criteria
 description: Inter-rater agreement among the 20 expert teachers was low, at or below chance across QM criteria
 id: low-inter-rater-agreement-qm-criteria
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

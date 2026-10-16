@@ -3,7 +3,7 @@ type: claim
 title: The eighth-grade promotion gate had the largest impact on ninth-grade enrollment, with almost 2,900 fewer students advancing in fall 1998
 description: The eighth-grade promotion gate had the largest impact on ninth-grade enrollment, with almost 2,900 fewer students advancing in fall 1998
 id: promotion-gate-largest-impact-ninth-grade-enrollment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

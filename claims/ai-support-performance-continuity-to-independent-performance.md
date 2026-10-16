@@ -3,7 +3,7 @@ type: claim
 title: Performance during the AI-supported task consistently predicted performance on the subsequent AI-removal task across all writing dimensions
 description: Performance during the AI-supported task consistently predicted performance on the subsequent AI-removal task across all writing dimensions
 id: ai-support-performance-continuity-to-independent-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

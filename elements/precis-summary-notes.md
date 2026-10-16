@@ -4,7 +4,7 @@ id: precis-summary-notes
 title: Precis summary notes placed alongside the basic text
 description: Concise summary notes placed alongside the basic text that explain key concepts, key terminology, and key questions.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

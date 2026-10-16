@@ -3,7 +3,7 @@ type: strategy
 id: iux-methodologies-ler-learner-centered
 title: Seven IUX methodologies for centering learners in LER technology development
 description: "The toolkit recommends seven methodologies it has used to design LER technologies inclusively: community advisory boards, usability testing, surveys and questionnaires, empathy and user journey mapping, co-design and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

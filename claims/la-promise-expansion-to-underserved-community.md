@@ -3,7 +3,7 @@ type: claim
 title: The LA Promise Neighborhood expanded its service model to a second community with few nonprofits despite the need for services
 description: The LA Promise Neighborhood expanded its service model to a second community with few nonprofits despite the need for services
 id: la-promise-expansion-to-underserved-community
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: The U.S. Bureau of Labor estimates 567,000 fewer teachers in public schools in 2022 than prior to the COVID-19 pandemic
 description: The U.S.
 id: bls-estimates-567000-fewer-public-school-teachers-2022
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

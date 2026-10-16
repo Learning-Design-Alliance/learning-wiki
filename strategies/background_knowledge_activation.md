@@ -63,7 +63,7 @@ Activation works because comprehension depends on linking new information to exi
 - [Accessing Students' Background Knowledge](accessing_students_background_knowledge.md) — diagnostic counterpart focused on eliciting what learners bring
 
 ## Examples
-- **Anticipation guides** — Before reading a history text, learners agree/disagree with statements about its themes, then revise answers after reading; widely used in adolescent literacy programs.
+- **[Anticipation guides](anticipation-guides.md)** — Before reading a history text, learners agree/disagree with statements about its themes, then revise answers after reading; widely used in adolescent literacy programs.
 - **Reciprocal Teaching** ([https://www.readingrockets.org/strategies/reciprocal_teaching](https://www.readingrockets.org/strategies/reciprocal_teaching)) — opens each session by prompting students to recall what they already know about the topic before predicting and summarizing.
 - **Fountas & Pinnell guided reading** — pre-reading book introductions that connect the text's setting and vocabulary to children's lived experience before reading begins.
 

@@ -4,7 +4,7 @@ title: "Repeated rapid guessing across several tests is strongly associated with
 description: "Repeated rapid guessing across several tests is strongly associated with students' academic self-efficacy and self-management scores"
 id: repeated-rapid-guessing-self-efficacy-self-management
 aliases: [repeated-rapid-guessing-associated-self-efficacy-self-management]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

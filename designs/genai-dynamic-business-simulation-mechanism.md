@@ -3,7 +3,7 @@ type: design
 id: genai-dynamic-business-simulation-mechanism
 title: "Dynamic business-simulation mechanism: generative AI shifts simulation-based learning from executing predetermined rules to decision-making under uncertainty"
 description: "The third of the article's three proposed mechanisms."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

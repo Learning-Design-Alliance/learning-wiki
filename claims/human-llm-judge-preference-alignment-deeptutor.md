@@ -3,7 +3,7 @@ type: claim
 title: "Human raters' preferences align with the LLM judge on TutorBench (Pearson r = 0.82 across metric-level win rates)"
 description: "Human raters' preferences align with the LLM judge on TutorBench (Pearson r = 0.82 across metric-level win rates)"
 id: human-llm-judge-preference-alignment-deeptutor
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

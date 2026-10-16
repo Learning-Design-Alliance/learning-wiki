@@ -3,7 +3,7 @@ type: claim
 title: A remote individual working from photographs completed a full and physically correct ISLE cycle, but the inquiry was disembodied
 description: A remote individual working from photographs completed a full and physically correct ISLE cycle, but the inquiry was disembodied
 id: remote-case-d-full-cycle-disembodied
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

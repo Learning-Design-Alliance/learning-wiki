@@ -3,7 +3,7 @@ type: claim
 title: Some high schools mitigated the typical negative effects of proximity to homicide on student outcomes while most schools saw declines
 description: Some high schools mitigated the typical negative effects of proximity to homicide on student outcomes while most schools saw declines
 id: some-schools-mitigate-homicide-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

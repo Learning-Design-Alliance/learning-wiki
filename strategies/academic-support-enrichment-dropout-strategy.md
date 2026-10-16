@@ -3,7 +3,7 @@ type: strategy
 id: academic-support-enrichment-dropout-strategy
 title: Provide academic support and enrichment to improve academic performance of at-risk students
 description: "The guide's third recommendation targets students' academic performance through individual or small-group support in test-taking skills, study skills, or targeted subjects such as reading, writing, or math."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

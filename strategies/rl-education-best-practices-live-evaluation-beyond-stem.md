@@ -3,7 +3,7 @@ type: strategy
 id: rl-education-best-practices-live-evaluation-beyond-stem
 title: "Best practices for RL in education: evaluate live with actual users at scale, look beyond STEM, and target under-served learner groups including children"
 description: Drawing on the systematic review, the authors distill best practices for implementing RL in education.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: State AI guidance describes risks but risk-management work is at an early stage, with some documents possibly too upbeat given school readiness
 description: State AI guidance describes risks but risk-management work is at an early stage, with some documents possibly too upbeat given school readiness
 id: state-ai-guidance-risks-early-stage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

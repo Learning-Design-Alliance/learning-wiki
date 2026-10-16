@@ -3,7 +3,7 @@ type: claim
 title: No quantitative evidence that the four-day school week improved student attendance
 description: No quantitative evidence that the four-day school week improved student attendance
 id: four-day-week-no-attendance-evidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

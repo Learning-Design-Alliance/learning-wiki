@@ -3,7 +3,7 @@ type: research-method
 id: seven-phase-framework-for-reflecting-on-how-ai-methodologies-may-transform-science-educati
 title: Seven-phase framework for reflecting on how AI methodologies may transform science education research
 description: "The article proposes a framework of seven epistemological phases for AI-based educational research: \"(1) problem framing, (2) instrumentation and measurement, (3) experimentation and evidence‑based inference, (4) comparisons and replication, (5) building norms and consensus, (6) implementation and i"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

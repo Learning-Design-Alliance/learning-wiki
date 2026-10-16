@@ -3,7 +3,7 @@ type: claim
 title: School social workers perceive immigration enforcement as a daily macro-level force producing fear and trauma among immigrant students and families
 description: School social workers perceive immigration enforcement as a daily macro-level force producing fear and trauma among immigrant students and families
 id: ssws-perceive-enforcement-daily-macro-force
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

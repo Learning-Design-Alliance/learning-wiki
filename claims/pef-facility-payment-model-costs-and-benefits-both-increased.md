@@ -3,7 +3,7 @@ type: claim
 title: "Program costs rose under the PEF's facility payment model, but the size and economic value of benefits also increased"
 description: "Program costs rose under the PEF's facility payment model, but the size and economic value of benefits also increased"
 id: pef-facility-payment-model-costs-and-benefits-both-increased
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: The effect of retrieval practice format on reading comprehension does not differ significantly between lower-order and higher-order thinking questions
 description: The effect of retrieval practice format on reading comprehension does not differ significantly between lower-order and higher-order thinking questions
 id: retrieval-format-by-levels-of-thinking-interaction-not-significant
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

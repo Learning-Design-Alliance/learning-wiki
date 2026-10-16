@@ -3,7 +3,7 @@ type: strategy
 id: teacher-cultural-awareness-first-strategy
 title: Teachers enrich their own cultural awareness first, then explore native and foreign cultures through authentic settings
 description: "The article recommends that language teachers first enrich their own cultural awareness and then their students', and that the best way to train intercultural speakers is to explore native and foreign cultures through..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

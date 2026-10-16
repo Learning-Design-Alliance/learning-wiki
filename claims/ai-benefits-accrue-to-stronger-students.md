@@ -3,7 +3,7 @@ type: claim
 title: Workshop participants converge on the claim that generative AI benefits accrue fastest to students who already understand the material
 description: Workshop participants converge on the claim that generative AI benefits accrue fastest to students who already understand the material
 id: ai-benefits-accrue-to-stronger-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Education problems resemble problems in many social settings: they lack clear definitions, have many potential causes, lack simple solutions, and defy straightforward measurement"
 description: "Education problems resemble problems in many social settings: they lack clear definitions, have many potential causes, lack simple solutions, and defy straightforward measurement"
 id: education-problems-lack-clear-definitions-and-simple-solutions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

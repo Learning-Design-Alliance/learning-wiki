@@ -3,7 +3,7 @@ type: claim
 title: LLM-generated ideas diverge from lesson ideas in grounding, misconception substance, vocabulary, uncertainty markers, and analogy use
 description: LLM-generated ideas diverge from lesson ideas in grounding, misconception substance, vocabulary, uncertainty markers, and analogy use
 id: llm-idea-divergence-patterns-qualitative
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

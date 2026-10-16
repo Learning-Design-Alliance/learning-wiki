@@ -3,7 +3,7 @@ type: claim
 title: Summary traces preserved task performance at the answer-only baseline while elevating subjective appraisal
 description: Summary traces preserved task performance at the answer-only baseline while elevating subjective appraisal
 id: summary-traces-preserve-performance-baseline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

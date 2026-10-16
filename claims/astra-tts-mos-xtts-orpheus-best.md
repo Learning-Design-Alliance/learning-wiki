@@ -3,7 +3,7 @@ type: claim
 title: XTTS and Orpheus achieve the highest human-rated MOS for Singaporean-accented ATC speech synthesis (3.71 and 3.70), with female voices preferred across models
 description: XTTS and Orpheus achieve the highest human-rated MOS for Singaporean-accented ATC speech synthesis (3.71 and 3.70), with female voices preferred across models
 id: astra-tts-mos-xtts-orpheus-best
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

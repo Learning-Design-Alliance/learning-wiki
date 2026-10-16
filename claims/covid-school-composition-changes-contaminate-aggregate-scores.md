@@ -3,7 +3,7 @@ type: claim
 title: Changes in school composition over time during the COVID-19 pandemic may contaminate school-aggregate test scores and produce faulty comparisons with historical and proximal aggregate scores
 description: Changes in school composition over time during the COVID-19 pandemic may contaminate school-aggregate test scores and produce faulty comparisons with historical and proximal aggregate scores
 id: covid-school-composition-changes-contaminate-aggregate-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

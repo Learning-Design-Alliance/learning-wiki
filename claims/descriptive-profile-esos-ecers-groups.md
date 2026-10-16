@@ -3,7 +3,7 @@ type: claim
 title: "In observed groups, Reactions to Children's Emotions was the most common scaffolding subscale, and ECERS-R Interactions rated high while Activities rated low"
 description: "In observed groups, Reactions to Children's Emotions was the most common scaffolding subscale, and ECERS-R Interactions rated high while Activities rated low"
 id: descriptive-profile-esos-ecers-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

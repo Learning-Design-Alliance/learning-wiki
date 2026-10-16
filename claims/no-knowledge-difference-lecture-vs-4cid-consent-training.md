@@ -3,7 +3,7 @@ type: claim
 title: Lecture-based and 4C/ID-based training produced comparable knowledge retention among emergency care professionals
 description: Lecture-based and 4C/ID-based training produced comparable knowledge retention among emergency care professionals
 id: no-knowledge-difference-lecture-vs-4cid-consent-training
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

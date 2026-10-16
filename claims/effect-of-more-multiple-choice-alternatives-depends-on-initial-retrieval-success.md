@@ -3,7 +3,7 @@ type: claim
 title: Having more multiple-choice alternatives benefits later retention when initial retrieval success is high but hurts learning when it is low
 description: Having more multiple-choice alternatives benefits later retention when initial retrieval success is high but hurts learning when it is low
 id: effect-of-more-multiple-choice-alternatives-depends-on-initial-retrieval-success
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

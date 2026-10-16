@@ -3,7 +3,7 @@ type: claim
 title: Brief naturalistic concern text associates with within-person variation in wearable-derived sleep and physical activity outcomes across a full academic year, even at a median response length of three words
 description: Brief naturalistic concern text associates with within-person variation in wearable-derived sleep and physical activity outcomes across a full academic year, even at a median response length of three words
 id: brief-concern-text-associates-within-person-wearable-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: theory
 id: ur-four-modes-social-capital
 title: Four modes of undergraduate research differ in social capital required, time on task, and mentoring structure
 description: "Undergraduate research falls into four categories: independent study, course-embedded, program-embedded, and summer research experience."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

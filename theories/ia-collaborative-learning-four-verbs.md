@@ -2,7 +2,7 @@
 type: theory
 title: "Intelligence Augmentation for Collaborative Learning: four verbs extending individualized EdTech"
 description: "The presentation proposes a framework for intelligence augmentation (IA) in collaborative learning, built on four verbs that extend the individualized EdTech triad of assess, assign, and adapt: \"Automate (complexity o..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

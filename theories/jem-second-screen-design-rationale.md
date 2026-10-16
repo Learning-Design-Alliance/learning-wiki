@@ -2,7 +2,7 @@
 type: theory
 title: Joint media engagement (JEM) as a design target for family science learning
 description: "The paper's organizing framework is joint engagement with media (JEM): intentionally designed shared media experiences that support learning."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

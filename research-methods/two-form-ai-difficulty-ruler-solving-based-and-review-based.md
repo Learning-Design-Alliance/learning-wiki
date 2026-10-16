@@ -3,7 +3,7 @@ type: research-method
 id: two-form-ai-difficulty-ruler-solving-based-and-review-based
 title: Two-form AI difficulty ruler (solving-based and review-based)
 description: The article distinguishes two forms of the AI ruler.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

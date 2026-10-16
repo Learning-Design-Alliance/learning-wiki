@@ -3,7 +3,7 @@ type: claim
 title: AI verification literacy does not directly predict critical thinking or technical problem-solving
 description: AI verification literacy does not directly predict critical thinking or technical problem-solving
 id: ai-verification-literacy-no-direct-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

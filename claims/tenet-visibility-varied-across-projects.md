@@ -3,7 +3,7 @@ type: claim
 title: "Collaborative Innovation tenets varied in visibility: collective ownership and context expertise were most evidenced, reimagining progress least"
 description: "Collaborative Innovation tenets varied in visibility: collective ownership and context expertise were most evidenced, reimagining progress least"
 id: tenet-visibility-varied-across-projects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

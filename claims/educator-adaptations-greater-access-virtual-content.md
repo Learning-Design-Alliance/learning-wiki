@@ -3,7 +3,7 @@ type: claim
 title: "Educators' adaptations of the modified Hero Elementary resources, including accommodations and modifications, provided students with greater access to the virtual learning content"
 description: "Educators' adaptations of the modified Hero Elementary resources, including accommodations and modifications, provided students with greater access to the virtual learning content"
 id: educator-adaptations-greater-access-virtual-content
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Problem-solving-prepared students often accepted the AI solution uncritically or critiqued it based on their own misconceptions
 description: Problem-solving-prepared students often accepted the AI solution uncritically or critiqued it based on their own misconceptions
 id: problem-solving-preparation-yields-uncritical-or-misconception-based-critiques
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

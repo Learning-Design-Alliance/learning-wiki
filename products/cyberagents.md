@@ -4,7 +4,7 @@ id: cyberagents
 title: CyberAGENTS
 description: A custom orchestrator-worker framework developed by Hornung et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10
@@ -33,4 +33,4 @@ A custom orchestrator-worker framework developed by Hornung et al. that coordina
 -
 
 ## Key Sources
-- Hornung, I., Marasinghe Arachchige, D., Kumarage, T., Agrawal, G., Deng, Y., Chen, Y.-C., & Liu, H. (2026). CyberAGENTS: Structured Autonomy for Agentic Gamified Learning in Cybersecurity. Preprint. https://arxiv.org/abs/2608.07965
+- Hornung, I., Marasinghe Arachchige, D., Kumarage, T., Agrawal, G., Deng, Y., Chen, Y.-C., & Liu, H. (2026). CyberAGENTS: Structured Autonomy for Agentic Gamified Learning in Cybersecurity. Preprint. https://arxiv.org/abs/2608.07965. [doi:10.48550/arxiv.2608.07965](https://doi.org/10.48550/arxiv.2608.07965)

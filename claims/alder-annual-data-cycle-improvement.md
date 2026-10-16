@@ -3,7 +3,7 @@ type: claim
 title: Alder operates a continuous improvement cycle using multiple data sources documented in an Annual Data Cycle Calendar and public Annual Program Assessment Report
 description: Alder operates a continuous improvement cycle using multiple data sources documented in an Annual Data Cycle Calendar and public Annual Program Assessment Report
 id: alder-annual-data-cycle-improvement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: design
 id: critique-to-evidence-workflow-pattern
 title: "Critique-to-evidence workflow: snapshot, independent coding, reconciliation, export"
 description: This pattern connects an evolving design artefact, its critique, an action plan and an inspectable research record.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

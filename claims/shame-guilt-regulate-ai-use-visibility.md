@@ -3,7 +3,7 @@ type: claim
 title: "Shame and guilt regulate the visibility of AI use: students engage in hiding behaviors and selective disclosure rather than open disclosure"
 description: "Shame and guilt regulate the visibility of AI use: students engage in hiding behaviors and selective disclosure rather than open disclosure"
 id: shame-guilt-regulate-ai-use-visibility
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

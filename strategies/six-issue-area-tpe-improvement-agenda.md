@@ -3,7 +3,7 @@ type: strategy
 id: six-issue-area-tpe-improvement-agenda
 title: State-supported improvement agenda across six TPE issue areas
 description: "The report recommends that Maryland improve TPE and SLO implementation quality through coordinated action in six issue areas: TPE integration with instruction, principal leadership, quality and consistency of SLO impl..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Technically oriented theoretical rationales are operationalized more often than learning-centered theories in AI writing customization
 description: Technically oriented theoretical rationales are operationalized more often than learning-centered theories in AI writing customization
 id: performance-theories-dominate-ai-writing-customization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

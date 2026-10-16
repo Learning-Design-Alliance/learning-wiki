@@ -3,7 +3,7 @@ type: claim
 title: In one reviewed study, flipped classrooms using AI tools raised cognitive and emotional engagement but behavioral engagement showed no significant difference from traditional methods
 description: In one reviewed study, flipped classrooms using AI tools raised cognitive and emotional engagement but behavioral engagement showed no significant difference from traditional methods
 id: ai-flipped-classroom-behavioral-engagement-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

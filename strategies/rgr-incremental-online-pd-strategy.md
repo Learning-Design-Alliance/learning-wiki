@@ -3,7 +3,7 @@ type: strategy
 id: rgr-incremental-online-pd-strategy
 title: Deliver RGR instruction via incremental self-paced online professional development completed before and after instruction begins
 description: "The RGR professional development model spreads a small time commitment across the implementation timeline: \"PD includes five self-paced, interactive online courses (approx."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

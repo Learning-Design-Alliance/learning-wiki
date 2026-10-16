@@ -3,7 +3,7 @@ type: claim
 title: Chain-of-thought and reasoning prompting significantly improve LLM proportional match with human-authored distractors over direct prompting on both math and science MCQs
 description: Chain-of-thought and reasoning prompting significantly improve LLM proportional match with human-authored distractors over direct prompting on both math and science MCQs
 id: reasoning-prompting-improves-llm-distractor-match
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: reorient-research-practices-around-simulations
 title: Reorient research priorities, workflows, data infrastructures, and validation practices around theory-constrained learner-development simulations
 description: "The article's agenda is an implementable program for the research community: reorient priorities, workflows, data infrastructures, and validation practices around simulations of learner development that are \"theory-co..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

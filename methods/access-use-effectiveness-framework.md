@@ -3,7 +3,7 @@ type: method
 id: access-use-effectiveness-framework
 title: Access-Use-Effectiveness Framework
 description: A three-stage framework for evaluating school or district technology integration — having devices (access) does not imply using them for instruction (use), and using them does not imply doing so in pedagogically sound, student-centered ways (effectiveness).
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

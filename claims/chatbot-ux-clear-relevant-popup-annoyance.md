@@ -3,7 +3,7 @@ type: claim
 title: Users rate chatbots easy to use with clear, relevant, largely accurate responses, but the intrusive pop-up design is the largest annoyance
 description: Users rate chatbots easy to use with clear, relevant, largely accurate responses, but the intrusive pop-up design is the largest annoyance
 id: chatbot-ux-clear-relevant-popup-annoyance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: lea-wide-student-data-plc
 title: Establish an LEA-wide student learning data PLC and schedule data study with school leaders
 description: "For building districts' data processes for school improvement, the guide recommends that leaders \"Establish an LEA-wide student learning data professional learning community (PLC) to study student performance trends a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

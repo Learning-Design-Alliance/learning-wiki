@@ -3,7 +3,7 @@ type: claim
 title: The test platform detects rapid guessing in real time and attempts to re-engage disengaged students to protect score validity
 description: The test platform detects rapid guessing in real time and attempts to re-engage disengaged students to protect score validity
 id: map-growth-real-time-engagement-detection-re-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

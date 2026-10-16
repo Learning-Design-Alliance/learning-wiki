@@ -3,7 +3,7 @@ type: claim
 title: The authors report that fourteen weeks of contract-required work improves writing quality enough to warrant a B
 description: The authors report that fourteen weeks of contract-required work improves writing quality enough to warrant a B
 id: fourteen-weeks-contract-work-warrants-b
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

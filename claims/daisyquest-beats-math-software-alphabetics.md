@@ -3,7 +3,7 @@ type: claim
 title: DaisyQuest outperformed math-oriented control software on phonological awareness and phonics measures
 description: DaisyQuest outperformed math-oriented control software on phonological awareness and phonics measures
 id: daisyquest-beats-math-software-alphabetics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

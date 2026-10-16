@@ -3,7 +3,7 @@ type: strategy
 id: purposeful-errors-lower-level-chatgpt-design
 title: Design teachable ChatGPT sessions with purposeful errors or lower-level models so learners practice error correction
 description: "For error-correction skill, the article recommends that \"incorporating scenarios where learners must identify and correct errors, such as purposeful mistakes by the AI, can be beneficial\", and that designers focus \"mo..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

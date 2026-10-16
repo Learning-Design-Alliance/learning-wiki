@@ -3,7 +3,7 @@ type: element
 id: memphis-school-effectiveness-identification-methods-year-2
 title: Methods for identifying effective schools in Memphis City Schools (Year 2)
 description: This report documents a set of methods applied to identify effective schools within the Memphis City Schools district, carried out in the second year of a multi-year measurement project.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

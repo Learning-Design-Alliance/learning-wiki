@@ -3,7 +3,7 @@ type: claim
 title: "Scores from a different subject test can serve as collateral information: mathematics scores can improve reading item parameter estimation and vice versa"
 description: "Scores from a different subject test can serve as collateral information: mathematics scores can improve reading item parameter estimation and vice versa"
 id: cross-test-scores-as-collateral-information
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

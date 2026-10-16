@@ -3,7 +3,7 @@ type: claim
 title: Retention interval moderates the testing effect, with effects often smaller, null, or reversed at short intervals
 description: Retention interval moderates the testing effect, with effects often smaller, null, or reversed at short intervals
 id: retention-interval-moderates-testing-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

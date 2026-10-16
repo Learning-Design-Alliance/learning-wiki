@@ -2,7 +2,7 @@
 type: theory
 title: Merit awards as labor-market signals of principal effectiveness
 description: "The article advances a signaling account of merit awards: although awards are intended to induce effort, they may also convey new information to outside employers."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

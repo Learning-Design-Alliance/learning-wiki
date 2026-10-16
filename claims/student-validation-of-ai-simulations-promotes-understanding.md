@@ -3,7 +3,7 @@ type: claim
 title: Student participation in validating and iteratively refining AI-generated simulations promotes physics understanding and problem-solving skills
 description: Student participation in validating and iteratively refining AI-generated simulations promotes physics understanding and problem-solving skills
 id: student-validation-of-ai-simulations-promotes-understanding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
@@ -48,3 +48,4 @@ This is the authors' interpretation section on validation benefits, not a tested
 - [Iterative prompt refinement shifted a generative-AI tutor from tutorial-style explanation delivery toward dialogic Socratic support for K-12 beginners](prompt-refinement-shifts-genai-toward-socratic-support.md) — related
 - [Sysadmins shift from producing solutions to evaluating, correcting, and refining GenAI output, which still requires human expertise](sysadmin-expertise-shifts-to-validating-genai-output.md) — related
 - [Iterative generate-then-refine with multi-axis critiques raises the share of usable generated simulations from 3.5% after first generation to 69.3% after 10 improvement rounds](generate-then-refine-raises-usable-simulations-3-5-to-69-3.md) — related
+- [Many current GenAI applications in STEM education conflate learning with performance and feedback, neglecting active, reflective, and embodied learning processes](genai-conflates-learning-with-performance-feedback.md) — reports the opposite

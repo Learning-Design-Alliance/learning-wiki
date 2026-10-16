@@ -3,7 +3,7 @@ type: claim
 title: Higher internal disequilibrium is associated with more regressive (minus) changes as well as more progressive changes
 description: Higher internal disequilibrium is associated with more regressive (minus) changes as well as more progressive changes
 id: high-mixture-increases-regressive-changes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

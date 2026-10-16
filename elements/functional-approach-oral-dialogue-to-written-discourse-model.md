@@ -3,7 +3,7 @@ type: element
 id: functional-approach-oral-dialogue-to-written-discourse-model
 title: "Functional Approach model: a five-step progression taking students from BICS (oral dialogue) to CALP (written discourse)"
 description: "Larsen-Pusey's Functional Approach is a teaching model that bridges the gap between the oral skills of BICS and the Cognitive/Academic Language Proficiency (CALP) needed to use the target language in content classes."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

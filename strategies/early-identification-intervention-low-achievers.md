@@ -3,7 +3,7 @@ type: strategy
 id: early-identification-intervention-low-achievers
 title: "Invest early: identify learning problems and intervene before third or sixth grade rather than waiting for promotional gates"
 description: Based on evidence that achievement gaps widened most between first and third grade before the policy took effect, the authors recommend that school systems invest in early assessment and intervention.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

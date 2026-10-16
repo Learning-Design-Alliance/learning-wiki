@@ -3,7 +3,7 @@ type: claim
 title: Middle school students engaged directly and positively with AI-generated rubric feedback, including conversing with the AI
 description: Middle school students engaged directly and positively with AI-generated rubric feedback, including conversing with the AI
 id: students-engage-positively-with-ai-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: strategy
 id: simulation-close-the-loop-its-redesign
 title: Use data-grounded simulation as a pre-deployment close-the-loop tool for ITS design decisions
 description: Before classroom deployment, run simulations grounded in real student interaction data using standard EDM models (AFM, BKT) to systematically compare alternative design configurations, such as levels of learner contro...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

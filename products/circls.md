@@ -4,7 +4,7 @@ id: circls
 title: CIRCLS
 description: CIRCLS.org is a Digital Promise–maintained online community hub connecting and supporting NSF-funded research on emerging technologies for teaching and learning.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

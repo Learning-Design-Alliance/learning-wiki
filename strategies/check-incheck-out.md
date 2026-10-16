@@ -112,7 +112,7 @@ CICO operationalizes [Behaviorism](../theories/behaviorism.md) — clear expecta
 
 ## Examples
 - **Tier 2 within [PBIS](https://www.pbis.org)** — CICO is the most widely implemented Tier 2 practice in Positive Behavioral Interventions and Supports schools; pbis.org provides free point-card templates and fidelity checklists.
-- **Check & Connect** (University of Minnesota, https://checkandconnect.umn.edu) — an extended mentoring variant with a consistent monitor over multiple years, used for dropout prevention.
+- **[Check & Connect](../products/check-connect.md)** (University of Minnesota, https://checkandconnect.umn.edu) — an extended mentoring variant with a consistent monitor over multiple years, used for dropout prevention.
 - **Elementary CICO with individualized goals** — a student whose behavior is escape-maintained has "asked for a break appropriately" added to the card, aligning reinforcement with the actual function.
 - A middle school runs CICO from its PBIS framework: 40 students check in with the front-office counselor each morning; students earning 80% of points for a week earn a brief preferred activity, and point data drives the student-support team's Tier 3 referrals.
 - **Check & Connect** ([University of Minnesota, ICI](https://checkandconnect.umn.edu)) — an extended mentoring variant with a "monitor" who maintains contact with disengaged students over multiple years.

@@ -3,7 +3,7 @@ type: strategy
 id: high-interest-text-alternatives-and-choice-strategy-instruction
 title: Offer high-interest text alternatives and choice alongside short stories to sustain engagement during strategy instruction
 description: "Because some students found single-theme short stories boring, the article recommends that the curriculum \"should also provide high-interest alternatives and choice.\" The same strategies can be taught with brief topic..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

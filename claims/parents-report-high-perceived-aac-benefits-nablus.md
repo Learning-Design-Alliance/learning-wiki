@@ -3,7 +3,7 @@ type: claim
 title: Parents of children with autism using AAC commonly report perceived benefits, most frequently increased communication opportunities
 description: Parents of children with autism using AAC commonly report perceived benefits, most frequently increased communication opportunities
 id: parents-report-high-perceived-aac-benefits-nablus
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

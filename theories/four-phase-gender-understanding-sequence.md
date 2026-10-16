@@ -2,7 +2,7 @@
 type: theory
 title: "Four-phase developmental sequence of gender understanding: labeling, stability, motive, constancy"
 description: The article organizes gender understanding as a gradually culminating developmental sequence of four levels.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

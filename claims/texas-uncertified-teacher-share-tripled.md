@@ -3,7 +3,7 @@ type: claim
 title: "The share of uncertified teachers in the Texas teacher workforce more than tripled between 2019–20 and 2024–25, reaching 12%"
 description: "The share of uncertified teachers in the Texas teacher workforce more than tripled between 2019–20 and 2024–25, reaching 12%"
 id: texas-uncertified-teacher-share-tripled
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

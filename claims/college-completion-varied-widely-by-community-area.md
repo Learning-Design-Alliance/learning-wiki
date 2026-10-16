@@ -3,7 +3,7 @@ type: claim
 title: College completion rates among immediate enrollees varied widely by community area, ranging from 24 to 74 percent for the class of 2013
 description: College completion rates among immediate enrollees varied widely by community area, ranging from 24 to 74 percent for the class of 2013
 id: college-completion-varied-widely-by-community-area
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

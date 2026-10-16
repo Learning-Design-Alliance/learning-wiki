@@ -3,7 +3,7 @@ type: claim
 title: Students in active classrooms scored higher on tests of learning than students in passive lectures (0.46 SD higher, P < 0.001)
 description: Students in active classrooms scored higher on tests of learning than students in passive lectures (0.46 SD higher, P < 0.001)
 id: active-learning-higher-test-scores-than-lecture
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

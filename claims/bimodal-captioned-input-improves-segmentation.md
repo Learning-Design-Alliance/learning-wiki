@@ -3,7 +3,7 @@ type: claim
 title: "Bimodal captioned input improved L2 listening skills, generalizing to unfamiliar sentences and speakers (attributed to Charles & Trenkic, 2015)"
 description: "Bimodal captioned input improved L2 listening skills, generalizing to unfamiliar sentences and speakers (attributed to Charles & Trenkic, 2015)"
 id: bimodal-captioned-input-improves-segmentation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

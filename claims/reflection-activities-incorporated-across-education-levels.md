@@ -3,7 +3,7 @@ type: claim
 title: Activities to promote reflection are being incorporated across undergraduate, postgraduate, and continuing health professions education
 description: Activities to promote reflection are being incorporated across undergraduate, postgraduate, and continuing health professions education
 id: reflection-activities-incorporated-across-education-levels
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

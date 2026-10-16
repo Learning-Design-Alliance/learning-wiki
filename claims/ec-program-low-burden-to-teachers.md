@@ -3,7 +3,7 @@ type: claim
 title: The Experience Corps program was found to be a low burden to teachers
 description: The Experience Corps program was found to be a low burden to teachers
 id: ec-program-low-burden-to-teachers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

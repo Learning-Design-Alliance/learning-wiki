@@ -4,7 +4,7 @@ id: learnai-framework
 title: LearnAI Framework
 description: A university-developed two-layer framework combining wide-scale AI-readiness exposure with customized co-creation support for mixed-ability learners.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "An open classroom climate has a positive impact on adolescents' civic knowledge and appreciation of political conflict, controlling for individual, classroom, school, and district characteristics"
 description: "An open classroom climate has a positive impact on adolescents' civic knowledge and appreciation of political conflict, controlling for individual, classroom, school, and district characteristics"
 id: open-classroom-climate-boosts-civic-knowledge-conflict-appreciation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

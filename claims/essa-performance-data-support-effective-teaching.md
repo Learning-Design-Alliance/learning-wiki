@@ -3,7 +3,7 @@ type: claim
 title: States and districts increasingly used performance data as a means to support effective teaching
 description: States and districts increasingly used performance data as a means to support effective teaching
 id: essa-performance-data-support-effective-teaching
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Spaced Retrieval Improves Retention
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25
@@ -126,3 +126,4 @@ Meta-analysis (subset 1) aggregating 39 effect sizes from studies comparing spac
 - [The meta-analysis supports retrieval effort as a contributor to the testing effect](retrieval-effort-support-testing-effect.md) — related
 - [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) — related
 - [Students' academic outcomes tentatively benefit from teacher-focused classroom management programs](teacher-focused-programs-academic-outcomes-tentative.md) — related
+- [Performance on final tests of learning is improved when multiple study sessions are spaced apart in time rather than massed in immediate succession](spacing-improves-final-test-performance.md) — related

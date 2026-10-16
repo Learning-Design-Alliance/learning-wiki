@@ -3,7 +3,7 @@ type: claim
 title: Students with strong qualifications took themselves out of four-year college planning, choosing early two-year enrollment as a low-risk solution when searches felt overwhelming and costly
 description: Students with strong qualifications took themselves out of four-year college planning, choosing early two-year enrollment as a low-risk solution when searches felt overwhelming and costly
 id: early-two-year-low-risk-solution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

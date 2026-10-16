@@ -3,7 +3,7 @@ type: claim
 title: The EDIT was developed iteratively beginning in 2012 under OPRE commissioning
 description: The EDIT was developed iteratively beginning in 2012 under OPRE commissioning
 id: edit-iterative-development-2012-opre
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

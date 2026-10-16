@@ -3,7 +3,7 @@ type: claim
 title: In the Cincinnati trial, High School Redirection had a small, statistically significant positive effect on receiving a high school diploma but not on the combined diploma-or-GED outcome
 description: In the Cincinnati trial, High School Redirection had a small, statistically significant positive effect on receiving a high school diploma but not on the combined diploma-or-GED outcome
 id: hsr-cincinnati-diploma-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Authority over assistance boundaries is highly centralized in system logic in LLM-based programming support systems
 description: Authority over assistance boundaries is highly centralized in system logic in LLM-based programming support systems
 id: authority-centralized-system-only-llm-programming-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

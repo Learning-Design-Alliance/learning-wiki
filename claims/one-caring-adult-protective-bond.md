@@ -3,7 +3,7 @@ type: claim
 title: A close bond with at least one caring adult is the most critical protective factor for resilient children
 description: A close bond with at least one caring adult is the most critical protective factor for resilient children
 id: one-caring-adult-protective-bond
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: research-method
 id: epistemic-state-specification-ess
 title: Epistemic State Specification (ESS)
 description: ESS is a required system declaration stating what the simulated learner can access at a given moment, how errors are generated, and whether and how the state changes over time.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

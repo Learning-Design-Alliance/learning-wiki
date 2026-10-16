@@ -3,7 +3,7 @@ type: strategy
 id: six-part-qualified-teachers-strategy
 title: Six-part strategy for assuring qualified teachers for all students
 description: "The article lays out six elements of a strategy to assure highly qualified teachers: standards for entry into the profession, accountability measures for colleges and universities that prepare teachers, professional d..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

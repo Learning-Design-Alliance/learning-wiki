@@ -3,7 +3,7 @@ type: claim
 title: Preparing for oral assessments changes student study habits toward understanding over memorization
 description: Preparing for oral assessments changes student study habits toward understanding over memorization
 id: oral-assessments-change-study-habits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

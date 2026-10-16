@@ -3,7 +3,7 @@ type: claim
 title: Easy tasks showed a floor effect across all participants and were excluded from hypothesis testing
 description: Easy tasks showed a floor effect across all participants and were excluded from hypothesis testing
 id: easy-task-floor-effect-excluded
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

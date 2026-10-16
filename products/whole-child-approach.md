@@ -4,7 +4,7 @@ id: whole-child-approach
 title: Whole Child Approach
 description: A framework for organizing education around developmental relationships, supportive environments, rich learning, skill and mindset development, and integrated supports, developed from the science of learning and development literature.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
@@ -49,7 +49,7 @@ A framework for organizing education around developmental relationships, support
 ## Key Sources
 - Breaking Barriers, California Alliance of Child and Family Services, Santa Clara County Office of Education, & WestEd. (2022). Supporting California's children through a whole child approach: A field guide for creating integrated, school-based systems of care. https://WestEd.org/permissions
 <!-- merged 2026-10-10 from designs/five-key-elements-whole-child-approach ("Five key elements of a whole child approach"), misfiled as a design and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
-- Darling-Hammond, L., & Cook-Harvey, C. M. (2018). Educating the whole child: Improving school climate to support student success. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/educating-whole-child
+- Darling-Hammond, L., & Cook-Harvey, C. M. (2018). Educating the whole child: Improving school climate to support student success. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/educating-whole-child. [doi:10.54300/145.655](https://doi.org/10.54300/145.655)
 - Cook-Harvey, C. M., Flook, L., Efland, E., & Darling-Hammond, L. (2020). Teaching for powerful learning: Lessons from Gateway Public Schools. Palo Alto, CA: Learning Policy Institute. http://learningpolicyinstitute.org/product/social-and-emotional-learning-case-study-gateway
 - Learning Policy Institute & Turnaround for Children. (2021). Design principles for schools: Putting the science of learning and development into action. https://creativecommons.org/licenses/by-nc/4.0/
 - Levin, S., Espinoza, D., & Griffith, M. (2022). Supporting students experiencing homelessness: District approaches to supports and funding. Learning Policy Institute. https://doi.org/10.54300/557.894

@@ -3,7 +3,7 @@ type: element
 id: duolingo-review-exercises
 title: "Review Exercises: injected review items sampled from earlier skills for scalable, fine-grained assessment"
 description: Review Exercises are assessment items inserted into randomly selected Level 0 lessons of skills beyond the first five in a course, sampled from the exercise pools of skills three or five skills earlier.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -2,7 +2,7 @@
 type: theory
 title: Unified taxonomy of subskills shared between and exclusive to reading and listening comprehension
 description: The article prepares a taxonomy that, for the first time in its account, lists reading and listening subskills in a unified fashion, distinguishing shared from modality-exclusive subskills.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

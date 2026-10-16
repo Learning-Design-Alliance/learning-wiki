@@ -3,7 +3,7 @@ type: claim
 title: The Content Proximity spring 2022 pilot study examined validity, reliability, and test score comparability of MAP Growth assessments using the new item-selection algorithm
 description: The Content Proximity spring 2022 pilot study examined validity, reliability, and test score comparability of MAP Growth assessments using the new item-selection algorithm
 id: content-proximity-pilot-validity-reliability-comparability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

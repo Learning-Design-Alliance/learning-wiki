@@ -3,7 +3,7 @@ type: strategy
 id: coach-youth-problem-solving-opportunities-heuristics-collaboration
 title: Coach youth to recognize problem-solving opportunities, master effective heuristics, and bolster motivation through collaboration
 description: The article recommends that pedagogical perspectives promoting practical application of science in non-school contexts — STSE and action research, science for social justice, activism in the curriculum, integrated cur...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
@@ -47,6 +47,7 @@ The article recommends that pedagogical perspectives promoting practical applica
 - [Engage youth as partners in stewardship rather than as subjects to be taught](youth-as-stewardship-partners.md)
 - [Youth Participatory Action Research (YPAR)](youth-participatory-action-research-ypar.md)
 - [Advance value-creating-modeled curriculum projects in Africana communities to foster ubuntu, happiness, and contributive lifestyles](value-creating-curriculum-africana-youth.md)
+- [Use ChatGPT as a tool for supporting students’ learning and promoting problem-solving skills](chatgpt-support-learning-problem-solving.md)
 
 ## Examples
 -

@@ -3,7 +3,7 @@ type: claim
 title: GenAI undermines evidence rules by making work products ambiguous between student competence and AI capability, with substitution capacity depending on task cognitive demands
 description: GenAI undermines evidence rules by making work products ambiguous between student competence and AI capability, with substitution capacity depending on task cognitive demands
 id: genai-disrupts-evidence-rules-asymmetrically
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -18,8 +18,8 @@ sources:
     kind: theoretical
     rigour: 3
   - id: gao-2026-2
-    resource: "https://arxiv.org/abs/2605.24837"
-    title: "Gao, Y., Chen, Z., Li, M., & Zhai, X. (2026). Generative AI as a Design Variable: An Evidence-Centered Framework for Principled Governance in STEM Assessment. https://arxiv.org/abs/2605.24837"
+    resource: "https://doi.org/10.48550/arxiv.2605.24837"
+    title: "Gao, Y., Chen, Z., Li, M., & Zhai, X. (2026). Generative AI as a Design Variable: An Evidence-Centered Framework for Principled Governance in STEM Assessment. https://arxiv.org/abs/2605.24837. [doi:10.48550/arxiv.2605.24837](https://doi.org/10.48550/arxiv.2605.24837)"
     author: "Gao, Y., Chen, Z., Li, M., & Zhai, X."
     q: 1
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # GenAI undermines evidence rules by making work products ambiguous between student competence and AI capability, with substitution capacity depending on task cognitive demands
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 theoretical `r3` · `q1`
+> **Evidence** · 1 study (2 entries) · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` GenAI contribution to work products breaks the inferential link from product features to student proficiency. [→ Gao 2026](#gao-2026)
@@ -50,7 +50,7 @@ Theoretical analysis within the paper's ECD framework, not an empirical study. T
 
 ### Gao 2026 (2)
 
-Gao, Y., Chen, Z., Li, M., & Zhai, X. (2026). Generative AI as a Design Variable: An Evidence-Centered Framework for Principled Governance in STEM Assessment. https://arxiv.org/abs/2605.24837
+Gao, Y., Chen, Z., Li, M., & Zhai, X. (2026). Generative AI as a Design Variable: An Evidence-Centered Framework for Principled Governance in STEM Assessment. https://arxiv.org/abs/2605.24837. [doi:10.48550/arxiv.2605.24837](https://doi.org/10.48550/arxiv.2605.24837)
 
 `q1 · i?` · `theoretical · r3`
 

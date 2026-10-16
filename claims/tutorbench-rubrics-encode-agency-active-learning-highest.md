@@ -3,7 +3,7 @@ type: claim
 title: In the public TutorBench sample, agency-oriented rubric criteria are most concentrated in the active-learning use case (agency-dimension density 0.720, agency-skill density 0.411)
 description: In the public TutorBench sample, agency-oriented rubric criteria are most concentrated in the active-learning use case (agency-dimension density 0.720, agency-skill density 0.411)
 id: tutorbench-rubrics-encode-agency-active-learning-highest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

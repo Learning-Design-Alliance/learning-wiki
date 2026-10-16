@@ -3,7 +3,7 @@ type: strategy
 id: strengthen-induction-continuum-coaching-partnerships
 title: Strengthen administrator induction by integrating it into a continuum of supports, mandating coach training and consistent coaching intervals, building program–district partnerships, and using CalAPA results to inform coaching
 description: "The report's policy recommendations aim to tighten induction's connection to other professional learning."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

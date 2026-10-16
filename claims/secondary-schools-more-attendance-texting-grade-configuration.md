@@ -3,7 +3,7 @@ type: claim
 title: Secondary schools, especially those with higher chronic absenteeism rates, used attendance-related text messaging more than elementary schools, suggesting use was better predicted by grade configuration than by absenteeism rates
 description: Secondary schools, especially those with higher chronic absenteeism rates, used attendance-related text messaging more than elementary schools, suggesting use was better predicted by grade configuration than by absent...
 id: secondary-schools-more-attendance-texting-grade-configuration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

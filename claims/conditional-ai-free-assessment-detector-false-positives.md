@@ -3,7 +3,7 @@ type: claim
 title: Educators run more proctored AI-free assessments conditionally on compromised outcomes, and reject AI detectors based on classroom experience of false positives
 description: Educators run more proctored AI-free assessments conditionally on compromised outcomes, and reject AI detectors based on classroom experience of false positives
 id: conditional-ai-free-assessment-detector-false-positives
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

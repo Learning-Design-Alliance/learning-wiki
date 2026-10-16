@@ -4,7 +4,7 @@ id: bilearn-cs
 title: BILearn-CS
 description: BILearn-CS is an instructor-authored and teaching-assistant-validated benchmark dataset of 600 programming-support queries for evaluating educational responses in introductory programming and data-structures contexts.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

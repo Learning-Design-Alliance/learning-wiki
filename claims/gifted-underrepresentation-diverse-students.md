@@ -3,7 +3,7 @@ type: claim
 title: Culturally and linguistically diverse students are underrepresented in gifted identification nationwide
 description: Culturally and linguistically diverse students are underrepresented in gifted identification nationwide
 id: gifted-underrepresentation-diverse-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

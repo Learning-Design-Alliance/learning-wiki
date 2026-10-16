@@ -3,7 +3,7 @@ type: claim
 title: Four years of multiple UCSMP courses have potentially positive effects on general mathematics achievement, with site-level and measure-level inconsistency
 description: Four years of multiple UCSMP courses have potentially positive effects on general mathematics achievement, with site-level and measure-level inconsistency
 id: multiple-ucsmp-courses-positive-general-math-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

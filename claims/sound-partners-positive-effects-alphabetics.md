@@ -3,7 +3,7 @@ type: claim
 title: Sound Partners tutoring has positive effects on the alphabetics of beginning readers in grades K–3
 description: Sound Partners tutoring has positive effects on the alphabetics of beginning readers in grades K–3
 id: sound-partners-positive-effects-alphabetics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

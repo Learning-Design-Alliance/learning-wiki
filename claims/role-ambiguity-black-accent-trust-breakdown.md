@@ -3,7 +3,7 @@ type: claim
 title: Role ambiguity for a Black-accented agent destabilized trust, culminating in breakdown after the agent inaccurately tracked group decisions
 description: Role ambiguity for a Black-accented agent destabilized trust, culminating in breakdown after the agent inaccurately tracked group decisions
 id: role-ambiguity-black-accent-trust-breakdown
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

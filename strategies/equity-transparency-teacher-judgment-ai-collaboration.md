@@ -3,7 +3,7 @@ type: strategy
 id: equity-transparency-teacher-judgment-ai-collaboration
 title: Address equity, transparency, and teacher professional judgment when deploying AI-mediated collaboration
 description: As part of its third contribution, the paper recommends that implementations of AI-mediated collaboration explicitly address ethical, professional, and governance challenges.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

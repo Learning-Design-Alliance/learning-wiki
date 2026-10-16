@@ -3,7 +3,7 @@ type: element
 id: kindergarten-entry-math-reading-data-pitts-kuhfeld
 title: "New data on children's math and reading skills at kindergarten entry"
 description: "The article presents new data describing children's math and reading skills as they enter kindergarten, intended to characterize academic preparation at school entry."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

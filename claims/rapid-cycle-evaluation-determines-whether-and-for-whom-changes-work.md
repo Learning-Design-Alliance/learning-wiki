@@ -3,7 +3,7 @@ type: claim
 title: Rapid-cycle evaluation determines with high confidence whether and for whom a program change causes intended improvements or unintended consequences
 description: Rapid-cycle evaluation determines with high confidence whether and for whom a program change causes intended improvements or unintended consequences
 id: rapid-cycle-evaluation-determines-whether-and-for-whom-changes-work
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

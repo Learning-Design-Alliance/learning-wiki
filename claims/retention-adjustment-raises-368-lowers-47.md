@@ -3,7 +3,7 @@ type: claim
 title: "Removing retained students' scores raises 1998 ITBS scores in grades three, six, and eight, while adding predicted retained-student scores lowers fourth and seventh grade scores"
 description: "Removing retained students' scores raises 1998 ITBS scores in grades three, six, and eight, while adding predicted retained-student scores lowers fourth and seventh grade scores"
 id: retention-adjustment-raises-368-lowers-47
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

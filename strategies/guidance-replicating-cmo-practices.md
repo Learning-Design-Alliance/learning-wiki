@@ -3,7 +3,7 @@ type: strategy
 id: guidance-replicating-cmo-practices
 title: Offer schools and districts guidance for replicating CMO behavior-expectations and teacher-coaching practices
 description: "The report's stated purpose is to translate the CMO findings into actionable guidance: \"The latest report offers guidance for schools and districts looking to replicate these promising practices.\" The promising practi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

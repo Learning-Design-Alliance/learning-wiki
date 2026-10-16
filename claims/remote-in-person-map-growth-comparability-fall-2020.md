@@ -3,7 +3,7 @@ type: claim
 title: Remote and in-person fall 2020 MAP Growth tests show comparable psychometric characteristics and indicators of test quality
 description: Remote and in-person fall 2020 MAP Growth tests show comparable psychometric characteristics and indicators of test quality
 id: remote-in-person-map-growth-comparability-fall-2020
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

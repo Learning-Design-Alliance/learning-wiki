@@ -3,7 +3,7 @@ type: strategy
 id: performance-based-artifact-demonstration-strategy
 title: Demonstrate teaching competencies through performance-based artifacts
 description: "The article specifies that micro-credentials are \"Performance-based—demonstrated through artifacts,\" listing lesson, project, and unit plans; student work samples; teacher and student reflections; observations; videos..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

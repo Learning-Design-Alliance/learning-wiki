@@ -4,7 +4,7 @@ id: q-learning-lab
 title: Q-Learning Lab
 description: Q-Learning Lab is a single-file, offline bilingual browser tool made by Jueng for teaching introductory tabular Q-learning through an interactive gridworld, Bellman-update visualizations, transition logs, and CSV export.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11
@@ -29,4 +29,4 @@ Q-Learning Lab is a single-file, offline bilingual browser tool made by Jueng fo
 -
 
 ## Key Sources
-- Jueng, Ekkachai. (2026). Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis. https://arxiv.org/abs/2607.10802
+- Jueng, Ekkachai. (2026). Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis. https://arxiv.org/abs/2607.10802. [doi:10.48550/arxiv.2607.10802](https://doi.org/10.48550/arxiv.2607.10802)

@@ -3,7 +3,7 @@ type: strategy
 id: stakeholder-engagement-rulemaking-and-accreditor-comment-processes
 title: "Stakeholders should use both ED's rulemaking comment period and accreditors' own standards-revision input processes to advocate for opportunity-expanding policies"
 description: The brief recommends a two-track engagement strategy.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

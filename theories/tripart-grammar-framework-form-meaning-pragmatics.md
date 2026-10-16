@@ -2,7 +2,7 @@
 type: theory
 title: "Larsen-Freeman's tri-part grammatical framework: form, meaning, and pragmatics"
 description: "The bibliography describes, citing Larsen-Freeman (1991), a proposed solution to debates over use and disuse of grammar teaching: a tri-part grammatical framework presented as a pie chart."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

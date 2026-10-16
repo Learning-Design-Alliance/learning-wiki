@@ -3,7 +3,7 @@ type: element
 id: massachusetts-parcc-mcas-validity-study
 title: Massachusetts PARCC versus MCAS predictive-validity study
 description: A study commissioned by the state of Massachusetts and conducted by Mathematica Policy Research comparing how high school PARCC exams and the existing MCAS predict college grades and placement in remedial courses.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

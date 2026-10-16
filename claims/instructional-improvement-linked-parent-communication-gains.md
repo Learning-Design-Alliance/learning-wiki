@@ -3,7 +3,7 @@ type: claim
 title: High schools improving instruction and teacher collaboration also showed the largest improvements in parent communication
 description: High schools improving instruction and teacher collaboration also showed the largest improvements in parent communication
 id: instructional-improvement-linked-parent-communication-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

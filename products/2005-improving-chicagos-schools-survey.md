@@ -4,7 +4,7 @@ id: 2005-improving-chicagos-schools-survey
 title: "2005 Improving Chicago's Schools survey"
 description: A spring 2005 survey administered across Chicago Public Schools by the Consortium on Chicago School Research to collect reports from students, teachers, and principals about school experiences, instruction, professional development, and working conditions.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

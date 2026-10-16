@@ -3,7 +3,7 @@ type: research-method
 id: five-checklist-framework-for-complete-reporting-of-education-research-measures
 title: Five-checklist framework for complete reporting of education research measures
 description: "This brief organizes complete reporting of education research measures into five checklists covering, in the authors' words, \"their study's measures; (2) data collection training and quality; (3) the study's reference population, study sample, and measurement timing; (4) evidence of the reliability "
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

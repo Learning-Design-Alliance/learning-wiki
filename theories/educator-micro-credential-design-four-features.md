@@ -2,7 +2,7 @@
 type: theory
 title: Educator micro-credentials as a competency-based, personalized, on-demand, shareable professional learning design
 description: "The report defines educator micro-credentials as an emerging learning design with four defining features: \"They are competency-based, personalized, on-demand, and shareable.\" Educators select a discrete skill tied to..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

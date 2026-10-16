@@ -3,7 +3,7 @@ type: claim
 title: A methodological review identifies six key decisions school health researchers must address when designing, conducting, and analyzing cluster randomized trials
 description: A methodological review identifies six key decisions school health researchers must address when designing, conducting, and analyzing cluster randomized trials
 id: six-key-decisions-cluster-randomized-school-health-trials
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

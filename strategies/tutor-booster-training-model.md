@@ -3,7 +3,7 @@ type: strategy
 id: tutor-booster-training-model
 title: Train paraprofessional tutors with one initial day of training plus two two-hour booster sessions
 description: "Number Rockets prepares non-specialist tutors — retired teachers and substitute teachers — with a light-touch training model: \"Tutors receive one day of training before beginning, and two two-hour booster sessions aft..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: work-alongside-partners-before-designing-csl-project
 title: Faculty should work alongside community partners before developing a service-learning project to build trust and understand community considerations
 description: The article recommends that faculty embed themselves in the community before designing a CSL project.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -40,7 +40,7 @@ The article recommends that faculty embed themselves in the community before des
 - ethically grounded course design
 
 ### Affordances
-- [Mitchell Csl Three Component Framework](../theories/mitchell-csl-three-component-framework.md)
+- [Mitchell Csl Three Component Framework](../theories/critical-service-learning-three-component-model.md)
 
 ## Related Strategies
 - 

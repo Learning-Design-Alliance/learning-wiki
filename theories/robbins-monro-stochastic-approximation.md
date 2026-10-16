@@ -2,7 +2,7 @@
 type: theory
 title: The Robbins-Monro stochastic approximation procedure as a model for sequential estimation in learning and measurement
 description: The article treats the Robbins-Monro stochastic approximation procedure as an iterative method for finding the root of a regression equation when observations are contaminated by random error.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

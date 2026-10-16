@@ -2,7 +2,7 @@
 type: theory
 title: Racialized organizations theory applied to schools across macro, meso, and micro levels
 description: "Drawing on Ray (2019), the article treats schools as racialized organizations in which \"racialization is the 'the background in which organizations operate.'\" Structures, practices, and attitudes produce unequal distr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

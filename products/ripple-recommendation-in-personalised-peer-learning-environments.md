@@ -4,7 +4,7 @@ id: ripple-recommendation-in-personalised-peer-learning-environments
 title: RiPPLE (Recommendation in Personalised Peer-Learning Environments)
 description: RiPPLE is an adaptive higher-education peer-learning platform for creating, evaluating, revising, and practising with peer-generated learning resources.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

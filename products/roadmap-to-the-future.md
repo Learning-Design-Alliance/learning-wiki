@@ -4,7 +4,7 @@ id: roadmap-to-the-future
 title: Roadmap to the Future
 description: Roadmap to the Future is a community planning initiative whose team develops shared principles, priorities, needs assessments, and strategic actions for youth, families, and communities.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

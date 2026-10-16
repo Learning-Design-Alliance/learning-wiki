@@ -3,7 +3,7 @@ type: research-method
 id: digital-learning-platform-process-data-analysis
 title: Digital learning platform process-data analysis
 description: The report urges researchers to use the robust log data DLPs generate, such as which tasks students begin, time spent, and detailed progress.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: legislate-consumer-protections-and-regulatory-agency-for-ai-edtech
 title: Legislators should pass consumer-protection legislation and create a regulatory agency governing AI education products
 description: To promote scalable policy, the brief recommends legislators pass laws protecting consumers from predatory practices and establish a regulatory agency.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

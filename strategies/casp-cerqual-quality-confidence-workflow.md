@@ -3,7 +3,7 @@ type: strategy
 id: casp-cerqual-quality-confidence-workflow
 title: Appraise qualitative studies with CASP and grade synthesis confidence with GRADE-CERQual, without excluding studies on quality grounds
 description: The protocol pairs a structured appraisal tool with a confidence-grading approach for qualitative synthesis.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -4,7 +4,7 @@ id: three-layer-reusable-pipeline-for-generating-3d-printed-tactile-statistical-
 title: Three-layer reusable pipeline for generating 3D-printed tactile statistical graphs
 description: An open-source JavaScript pipeline by Lawrence Obiuwevwi et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

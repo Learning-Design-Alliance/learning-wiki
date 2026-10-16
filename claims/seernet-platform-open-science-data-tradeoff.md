@@ -3,7 +3,7 @@ type: claim
 title: "SEERNet platforms trade off open science against availability of individual student data, with eTrials and ASU L@S at opposite extremes"
 description: "SEERNet platforms trade off open science against availability of individual student data, with eTrials and ASU L@S at opposite extremes"
 id: seernet-platform-open-science-data-tradeoff
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

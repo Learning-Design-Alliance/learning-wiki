@@ -4,7 +4,7 @@ id: chicago-public-schools-school-diagnostic-data-reports
 title: "Chicago Public Schools' school diagnostic data reports"
 description: These are data-reporting products run by Chicago Public Schools that display grade and attendance patterns by student background and over time for school-improvement planning.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

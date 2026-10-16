@@ -3,7 +3,7 @@ type: research-method
 id: agent-based-educational-science-aes
 title: Agent-based educational science (AES)
 description: Agent-based educational science (AES) is a research agenda in which educational theories are formalized as interacting agents and environments, enabling in silico experimentation on developmental processes.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

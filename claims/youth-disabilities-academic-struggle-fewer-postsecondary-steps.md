@@ -3,7 +3,7 @@ type: claim
 title: In 2012, youth with disabilities were more likely than other students to struggle academically and less likely to take steps to obtain postsecondary education and jobs
 description: In 2012, youth with disabilities were more likely than other students to struggle academically and less likely to take steps to obtain postsecondary education and jobs
 id: youth-disabilities-academic-struggle-fewer-postsecondary-steps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

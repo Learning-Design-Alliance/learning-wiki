@@ -3,7 +3,7 @@ type: claim
 title: GRAD-score-based At-risk identification shows larger proportional year-to-year churn than direct certification would
 description: GRAD-score-based At-risk identification shows larger proportional year-to-year churn than direct certification would
 id: grad-score-churn-exceeds-direct-certification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

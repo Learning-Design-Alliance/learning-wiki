@@ -3,7 +3,7 @@ type: claim
 title: "Utah's state education agency successfully piloted and tested its ESSA resource allocation review process with LEAs and schools in spring 2023."
 description: "Utah's state education agency successfully piloted and tested its ESSA resource allocation review process with LEAs and schools in spring 2023."
 id: utah-rar-process-piloted-spring-2023
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

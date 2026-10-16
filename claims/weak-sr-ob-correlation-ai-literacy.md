@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' self-reported AI literacy correlates only weakly with their objectively measured performance (r = 0.07–0.24)"
 description: "Teachers' self-reported AI literacy correlates only weakly with their objectively measured performance (r = 0.07–0.24)"
 id: weak-sr-ob-correlation-ai-literacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -51,3 +51,4 @@ Correlational analysis in the full sample (N = 288) found SR–OB correlations "
 - [Self-reported AI literacy was strongest in ethics and evaluation and weakest in self-efficacy, indicating uncertainty in applying AI to complex tasks](ai-literacy-dimensions-ethics-strong-self-efficacy-weak.md) — related
 - [Learning gains were uncorrelated with prior self-reported AI literacy and database literacy, suggesting AI integration benefited students irrespective of prior perceptions](gains-uncorrelated-with-prior-literacy.md) — related
 - [Students' self-reported AI literacy was moderately negatively correlated with objectively measured AI competency, suggesting potential overestimation of AI abilities](perceived-ai-ability-misaligns-objective-competency.md) — related
+- [Students' self-reported perception of peer assessment's benefit is virtually uncorrelated with their actual measured benefit](perception-of-peer-assessment-benefit-uncorrelated-with-actual-benefit.md) — a narrower finding that bears on this claim

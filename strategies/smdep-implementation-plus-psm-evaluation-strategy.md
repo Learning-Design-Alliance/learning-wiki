@@ -3,7 +3,7 @@ type: strategy
 id: smdep-implementation-plus-psm-evaluation-strategy
 title: Pair implementation description with quasi-experimental impact estimation in program evaluation
 description: "The study combines two evaluation activities: it \"describes program implementation across sites\" and \"employs a quasi-experimental design through propensity score matching methods\" for impact estimation on key student..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

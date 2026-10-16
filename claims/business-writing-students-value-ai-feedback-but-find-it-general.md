@@ -3,7 +3,7 @@ type: claim
 title: "Business Writing students valued AI feedback for higher-order and sentence-level comments but found it sometimes too general, while appreciating peers' contextual knowledge"
 description: "Business Writing students valued AI feedback for higher-order and sentence-level comments but found it sometimes too general, while appreciating peers' contextual knowledge"
 id: business-writing-students-value-ai-feedback-but-find-it-general
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -51,3 +51,4 @@ Trends and comments from the Job or Graduate/Professional School Application ass
 - [Students perceived peer group feedback as contextually rich but sometimes subjective, and ChatGPT-4o feedback as more objective and well structured but occasionally lacking contextual sensitivity](student-perceptions-human-contextual-ai-objective-structured.md) — related
 - [AI and peer feedback differed in complementary ways: AI gave general, rubric-driven, actionable feedback while peers gave more specific, contextual feedback](ai-and-peer-feedback-complementary.md) — possibly the same claim (merge candidate)
 - [LLM-generated feedback is more comprehensive in volume than human feedback but is sometimes too generic, abstract, or misaligned with the assigned grade](llm-feedback-volume-vs-quality.md) — related
+- [Students report awareness of feedback-acting strategies but experience difficulty carrying them out](students-aware-of-strategies-but-fail-to-act.md) — related

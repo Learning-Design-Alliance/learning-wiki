@@ -3,7 +3,7 @@ type: claim
 title: The multi-stage filtering pipeline reduces Beyond-K-5 retention to near zero while preserving a minority of K-5 content
 description: The multi-stage filtering pipeline reduces Beyond-K-5 retention to near zero while preserving a minority of K-5 content
 id: k5-filter-pipeline-near-zero-beyond-k5-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

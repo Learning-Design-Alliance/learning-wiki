@@ -3,7 +3,7 @@ type: strategy
 id: ai-literacy-curriculum-career-counselling-strategy
 title: Integrate AI literacy into health sciences curricula and tailor career counselling to programme type
 description: "The article recommends that universities address AI anxiety as a risk factor in career transition by integrating \"artificial intelligence literacy into the health sciences curriculum at an institutional level\" so AI i..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

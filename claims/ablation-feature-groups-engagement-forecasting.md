@@ -3,7 +3,7 @@ type: claim
 title: Ablations show every feature group contributes to skills forecasting, while recent engagement activity alone nearly suffices for minutes
 description: Ablations show every feature group contributes to skills forecasting, while recent engagement activity alone nearly suffices for minutes
 id: ablation-feature-groups-engagement-forecasting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

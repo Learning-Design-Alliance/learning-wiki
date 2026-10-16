@@ -3,7 +3,7 @@ type: claim
 title: "Generative processing principles: words with pictures and conversational-style words improve transfer over words alone and formal style"
 description: "Generative processing principles: words with pictures and conversational-style words improve transfer over words alone and formal style"
 id: generative-processing-principles-mayer-2008
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

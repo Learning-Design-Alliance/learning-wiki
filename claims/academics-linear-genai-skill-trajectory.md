@@ -3,7 +3,7 @@ type: claim
 title: Academic staff follow a traditional foundational-to-advanced GenAI skill trajectory, with creation items the least endorsed
 description: Academic staff follow a traditional foundational-to-advanced GenAI skill trajectory, with creation items the least endorsed
 id: academics-linear-genai-skill-trajectory
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

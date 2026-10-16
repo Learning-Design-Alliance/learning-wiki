@@ -3,7 +3,7 @@ type: claim
 title: Access to AI advice roughly doubles reported confidence in answers even though the advice is usually wrong
 description: Access to AI advice roughly doubles reported confidence in answers even though the advice is usually wrong
 id: ai-access-inflates-confidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

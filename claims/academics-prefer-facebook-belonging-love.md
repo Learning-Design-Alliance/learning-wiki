@@ -3,7 +3,7 @@ type: claim
 title: Academics most often name Facebook as the Web 2.0 tool they use to realise belonging and love needs
 description: Academics most often name Facebook as the Web 2.0 tool they use to realise belonging and love needs
 id: academics-prefer-facebook-belonging-love
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

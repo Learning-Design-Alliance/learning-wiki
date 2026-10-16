@@ -2,7 +2,7 @@
 type: theory
 title: "Engagement Framework: five distinct yet interrelated, non-hierarchical dimensions of student engagement"
 description: "The Engagement Framework addresses how students engage, offering \"five distinctive, non-hierarchical dimensions of engagement that are fundamental to students’ success at university\": personal, academic, intellectual,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -50,4 +50,4 @@ The Engagement Framework addresses how students engage, offering "five distincti
 - [Design engagement into online units through tasks that are public, social, and student-directed, releasing responsibility and ownership of learning to students](../principles/autonomy.md)
 
 ## Key Sources
-- Pittaway, S. M., & Moss, T. (2014). “Initially, We Were Just Names on a Computer Screen”: Designing Engagement in Online Teacher Education. Australian Journal of Teacher Education, 39(7). http://ro.ecu.edu.au/ajte/vol39/iss7/8
+- Pittaway, S. M., & Moss, T. (2014). “Initially, We Were Just Names on a Computer Screen”: Designing Engagement in Online Teacher Education. Australian Journal of Teacher Education, 39(7). http://ro.ecu.edu.au/ajte/vol39/iss7/8. [doi:10.14221/ajte.2014v39n7.10](https://doi.org/10.14221/ajte.2014v39n7.10)

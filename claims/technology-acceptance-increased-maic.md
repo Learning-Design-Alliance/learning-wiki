@@ -3,7 +3,7 @@ type: claim
 title: "Students' technology acceptance increased significantly after taking a MAIC course"
 description: "Students' technology acceptance increased significantly after taking a MAIC course"
 id: technology-acceptance-increased-maic
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

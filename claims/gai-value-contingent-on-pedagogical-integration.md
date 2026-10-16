@@ -3,7 +3,7 @@ type: claim
 title: The educational value of GAI is contingent on pedagogical integration, not on the technology itself
 description: The educational value of GAI is contingent on pedagogical integration, not on the technology itself
 id: gai-value-contingent-on-pedagogical-integration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -55,3 +55,4 @@ Narrative synthesis of prior GAI-in-education literature in the introduction. Th
 - [In higher education, the purported Silicon Valley revolution is undermined by detrimental effects on academic integrity and erosion of evidence-based pedagogical practices, compounded by the prevailing crisis of higher education](gai-undermines-academic-integrity-and-evidence-based-pedagogy.md) — related
 - [GenAI in CS education is argued to enhance student engagement, support equitable learning, and relieve instructional burden](genai-engagement-equity-instructional-burden-benefits.md) — related
 - [Cultivating AI intuition safeguards against technological overreliance and erosion of critical thinking (theoretical argument)](ai-intuition-safeguard-against-overreliance.md) — a narrower finding that bears on this claim
+- [Prior meta-analytic evidence indicates chatbot technology has a substantial positive effect on overall learning outcomes and knowledge retention, but not on critical thinking, engagement, or motivation](chatbot-meta-analysis-learning-outcomes-retention.md) — a narrower finding that bears on this claim

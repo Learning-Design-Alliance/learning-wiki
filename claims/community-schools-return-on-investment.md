@@ -3,7 +3,7 @@ type: claim
 title: Cost analyses find community schools return $3 to $15 for every dollar spent
 description: Cost analyses find community schools return $3 to $15 for every dollar spent
 id: community-schools-return-on-investment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Class size, course level, and discipline did not explain significant variation in how achievement gaps changed under active learning
 description: Class size, course level, and discipline did not explain significant variation in how achievement gaps changed under active learning
 id: class-size-level-discipline-not-significant-moderators
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
@@ -49,3 +49,5 @@ Null moderator results from three-way interaction Bayesian models (SI Appendix, 
 - [Subgroup (moderator) analyses in education impact evaluations can be based on participant characteristics measured before the intervention is implemented](pre-intervention-moderator-analyses.md) — related
 - [Type of achievement measure moderates the correlation only when laboratory measures are excluded; course-exam correlation drops to r = .04](achievement-measure-moderator-lab-exclusion.md) — related
 - [Active learning's performance benefits hold across all STEM disciplines](active-learning-benefits-hold-across-stem-disciplines.md) — related
+- [Practice points from active-learning exercises did not inflate final grades; exam points remained the primary determinant of course grade](practice-points-did-not-inflate-grades.md) — related
+- [Most study, measurement, and intervention moderators did not explain significant variance in SRL intervention effect sizes](srl-intervention-moderators-most-nonsignificant.md) — a narrower finding that bears on this claim

@@ -3,7 +3,7 @@ type: research-method
 id: l-statistic
 title: "L* statistic"
 description: "L* is a modified version of D'Mello's L statistic intended for use when self-transitions are excluded."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -2,7 +2,7 @@
 type: theory
 title: "Dewey's pedagogical principles: school as life itself, no subject with educational value on its own, and education for all citizens"
 description: The article presents a set of Deweyan pedagogical principles against which it evaluates the Turkish education project.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

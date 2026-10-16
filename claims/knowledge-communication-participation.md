@@ -3,7 +3,7 @@ type: claim
 title: Knowledge alone did not ensure meaningful participation; it became influential when clearly communicated and built into programming
 description: Knowledge alone did not ensure meaningful participation; it became influential when clearly communicated and built into programming
 id: knowledge-communication-participation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

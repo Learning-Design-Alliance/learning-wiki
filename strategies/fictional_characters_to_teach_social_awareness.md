@@ -64,7 +64,7 @@ Fictional narrative engages the same social-cognitive machinery used to understa
 - [Case-based discussion](case-based-discussion.md) — the non-fictional counterpart, using real cases instead of invented characters
 
 ## Examples
-- **Facing History and Ourselves** (https://www.facinghistory.org) — uses literary characters (e.g., in *To Kill a Mockingbird*) alongside historical case studies to teach students about prejudice, bystander behavior, and civic responsibility.
+- **[Facing History and Ourselves](../products/facing-history-and-ourselves.md)** (https://www.facinghistory.org) — uses literary characters (e.g., in *To Kill a Mockingbird*) alongside historical case studies to teach students about prejudice, bystander behavior, and civic responsibility.
 - **Second Step** (Committee for Children, https://www.secondstep.org) — scripted video characters model social situations (peer conflict, exclusion) that elementary students analyze and rehearse.
 - **The Choices Program** (Brown University, https://www.choices.edu) — curriculum units pairing historical narratives with role-play deliberations on contested policy dilemmas.
 

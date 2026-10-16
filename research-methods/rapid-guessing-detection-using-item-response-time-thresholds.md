@@ -3,7 +3,7 @@ type: research-method
 id: rapid-guessing-detection-using-item-response-time-thresholds
 title: Rapid-guessing detection using item response-time thresholds
 description: This framework identifies disengaged item responses on computer-based tests using response times—the seconds between item presentation and answer.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

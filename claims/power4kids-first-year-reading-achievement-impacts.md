@@ -3,7 +3,7 @@ type: claim
 title: The Power4Kids first-year report presents impacts on reading achievement at the end of the intervention year, with nearly 800 children in the study
 description: The Power4Kids first-year report presents impacts on reading achievement at the end of the intervention year, with nearly 800 children in the study
 id: power4kids-first-year-reading-achievement-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

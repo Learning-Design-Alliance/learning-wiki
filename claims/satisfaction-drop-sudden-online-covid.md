@@ -3,7 +3,7 @@ type: claim
 title: Undergraduate course satisfaction dropped sharply after courses moved fully online during COVID-19, with very satisfied students falling from 51 percent to 19 percent
 description: Undergraduate course satisfaction dropped sharply after courses moved fully online during COVID-19, with very satisfied students falling from 51 percent to 19 percent
 id: satisfaction-drop-sudden-online-covid
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

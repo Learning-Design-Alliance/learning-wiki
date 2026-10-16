@@ -4,7 +4,7 @@ id: league-of-innovative-schools
 title: League of Innovative Schools
 description: A Digital Promise membership network that brings together school districts for cross-district collaboration, partnerships, professional learning, and sharing of innovative practices.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

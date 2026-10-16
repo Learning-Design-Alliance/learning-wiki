@@ -3,7 +3,7 @@ type: strategy
 id: multipayer-fee-schedule-sustainability-strategy
 title: Sustain school mental health programs through multi-payer fee schedules and alignment with existing initiatives
 description: "The brief's sustainability approach is to move districts beyond one-time grant funds by aligning resources and partnerships."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

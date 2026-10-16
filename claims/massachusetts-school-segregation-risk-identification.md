@@ -3,7 +3,7 @@ type: claim
 title: "School and district factors relate to risk identification: low income concentration correlates with repeated risk identification, and segregation modestly increases it, though some schools outperform model predictions"
 description: "School and district factors relate to risk identification: low income concentration correlates with repeated risk identification, and segregation modestly increases it, though some schools outperform model predictions"
 id: massachusetts-school-segregation-risk-identification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

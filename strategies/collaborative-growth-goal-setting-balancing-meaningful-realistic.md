@@ -3,7 +3,7 @@ type: strategy
 id: collaborative-growth-goal-setting-balancing-meaningful-realistic
 title: Set growth goals collaboratively so they balance meaningfulness and realism
 description: The page recommends a goal-setting approach in which teachers, families, and students work together to establish growth goals, using a visualization of possible fall-to-spring goals against academic benchmarks.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

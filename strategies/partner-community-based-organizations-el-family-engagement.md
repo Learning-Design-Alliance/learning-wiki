@@ -3,7 +3,7 @@ type: strategy
 id: partner-community-based-organizations-el-family-engagement
 title: Partner with immigrant-serving community-based organizations to engage linguistically diverse families and sustain feedback loops
 description: "The guide recommends that district leaders partnering on ARP-funded plans work with immigrant-serving community-based organizations to \"draw on their expertise, share resources, and inform families, communities, and a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

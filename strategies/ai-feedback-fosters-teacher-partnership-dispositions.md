@@ -3,7 +3,7 @@ type: strategy
 id: ai-feedback-fosters-teacher-partnership-dispositions
 title: "Use AI automated feedback tools to foster students' dispositions for partnering with teachers around feedback"
 description: "The paper recommends positioning AI automated feedback as part of developing the student side of feedback partnerships: students should build the dispositions needed to engage meaningfully with their teachers in relat..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

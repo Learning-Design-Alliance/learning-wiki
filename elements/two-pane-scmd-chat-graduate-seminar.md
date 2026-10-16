@@ -3,7 +3,7 @@ type: element
 id: two-pane-scmd-chat-graduate-seminar
 title: Text-based synchronous chat with two-pane chronological display in a graduate seminar
 description: "The studied SCMD environment was a Web-based chat system with a top pane displaying messages chronologically with ordinal numbers and authors' names, and a bottom pane for composing messages."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

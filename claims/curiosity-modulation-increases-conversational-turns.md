@@ -3,7 +3,7 @@ type: claim
 title: Curiosity-modulated tutoring produces roughly 2.4× more conversational turns than baseline under fixed time budgets
 description: Curiosity-modulated tutoring produces roughly 2.4× more conversational turns than baseline under fixed time budgets
 id: curiosity-modulation-increases-conversational-turns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

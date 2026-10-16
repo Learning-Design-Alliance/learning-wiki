@@ -3,7 +3,7 @@ type: claim
 title: "Demographic variables (gender, year of study, fields of study, age) have trivial effects on prospective teachers' conception values and practices"
 description: "Demographic variables (gender, year of study, fields of study, age) have trivial effects on prospective teachers' conception values and practices"
 id: demographics-trivial-effects-conceptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

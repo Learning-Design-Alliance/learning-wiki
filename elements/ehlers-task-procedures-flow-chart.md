@@ -3,7 +3,7 @@ type: element
 id: ehlers-task-procedures-flow-chart
 title: Ehlers flow chart of task procedures for developing individualized instructional materials
 description: The report presents, in Figure III, a systems flow chart of task procedures for developing individualized instructional materials, drawn from Walter H.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

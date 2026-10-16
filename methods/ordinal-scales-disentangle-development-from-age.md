@@ -3,7 +3,7 @@ type: method
 id: ordinal-scales-disentangle-development-from-age
 title: Assess early development with sequential ordinal scales that disentangle development from age
 description: "Hunt recommends sequential ordinal scales, inspired by Piaget's observations, as an alternative to norm-referenced mental-age and IQ metrics."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

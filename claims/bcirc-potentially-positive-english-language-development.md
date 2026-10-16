@@ -3,7 +3,7 @@ type: claim
 title: BCIRC has potentially positive effects on English language development (effect size 0.29, not statistically significant)
 description: BCIRC has potentially positive effects on English language development (effect size 0.29, not statistically significant)
 id: bcirc-potentially-positive-english-language-development
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

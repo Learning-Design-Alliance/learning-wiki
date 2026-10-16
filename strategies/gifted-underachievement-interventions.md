@@ -3,7 +3,7 @@ type: strategy
 id: gifted-underachievement-interventions
 title: Deploy prevention and intervention supports for underachieving gifted students
 description: "The brief enumerates practices found successful in preventing or reversing gifted underachievement: early screening and identification (as early as kindergarten), meaningful extracurricular activities, counseling, men..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

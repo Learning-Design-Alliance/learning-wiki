@@ -3,7 +3,7 @@ type: strategy
 id: five-step-practical-measurement-process-crse
 title: Five-step practical measurement process for improving CRSE mathematics instruction
 description: "Figure 2 lays out an iterative process: identify an instructional goal, design an instructional strategy, identify a practical measure, implement the measure, and improve instruction."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

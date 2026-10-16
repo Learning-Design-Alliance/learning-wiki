@@ -3,7 +3,7 @@ type: strategy
 id: stem-evidence-base-monitoring-evaluation-capacity
 title: Build the STEM evidence base and expand capacity for monitoring and evaluation of programs like REU
 description: "The fact sheet frames its contribution as \"Building the STEM evidence base and expanding capacity for monitoring and evaluation\" of the NSF REU program."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

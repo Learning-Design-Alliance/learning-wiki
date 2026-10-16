@@ -3,7 +3,7 @@ type: claim
 title: Prior charter school research shows mixed student achievement results, which the authors attribute to differing policy environments or methodological assumptions across studies
 description: Prior charter school research shows mixed student achievement results, which the authors attribute to differing policy environments or methodological assumptions across studies
 id: charter-achievement-mixed-results-attributed-to-policy-and-method-variation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Oral language measures of syntax, listening comprehension, and oral vocabulary do not predict which English learners will struggle with learning to read
 description: Oral language measures of syntax, listening comprehension, and oral vocabulary do not predict which English learners will struggle with learning to read
 id: oral-language-measures-do-not-predict-reading-struggle
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

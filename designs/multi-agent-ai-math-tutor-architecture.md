@@ -3,7 +3,7 @@ type: design
 id: multi-agent-ai-math-tutor-architecture
 title: Multi-agent AI tutoring architecture with an orchestrating Tutor Agent and specialist agents
 description: The article proposes a multi-agent architecture implemented on LangGraph in which a central Tutor Agent (GPT-4o) interprets student input and orchestrates other components via a ReAct-style framework.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

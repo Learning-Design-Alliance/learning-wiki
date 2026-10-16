@@ -3,7 +3,7 @@ type: claim
 title: Need for cognition negatively moderates the trust–appropriate reliance relationship, with the trust slope becoming more negative as need for cognition increases
 description: Need for cognition negatively moderates the trust–appropriate reliance relationship, with the trust slope becoming more negative as need for cognition increases
 id: need-for-cognition-moderates-trust-reliance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

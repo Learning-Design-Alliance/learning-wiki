@@ -3,7 +3,7 @@ type: claim
 title: The between-cohort exam gain is attributable only to a composite intervention (autograding plus corrections plus expanded office hours), not to LaTA alone
 description: The between-cohort exam gain is attributable only to a composite intervention (autograding plus corrections plus expanded office hours), not to LaTA alone
 id: composite-intervention-exam-confound
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

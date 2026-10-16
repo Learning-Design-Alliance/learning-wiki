@@ -3,7 +3,7 @@ type: element
 id: reliability-construct-validity-evidence-checklist
 title: "Checklist 4: reporting evidence of reliability and construct validity"
 description: "The fourth checklist prompts researchers to report \"evidence of the reliability and construct validity of the measures.\" It directs authors to document the psychometric evidence supporting the measures used, so reader..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

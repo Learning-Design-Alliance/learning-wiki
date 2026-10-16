@@ -3,7 +3,7 @@ type: claim
 title: Read Well® shows potentially positive effects on English language development for elementary school English language learners
 description: Read Well® shows potentially positive effects on English language development for elementary school English language learners
 id: read-well-potentially-positive-english-language-development
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

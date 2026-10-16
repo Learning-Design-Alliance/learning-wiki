@@ -3,7 +3,7 @@ type: design
 id: constructive-alignment-genai-embedding-extension
 title: "Extension of Biggs' constructive alignment for embedding GenAI in existing curricula"
 description: "The article extends Biggs' theory of constructive alignment into the GenAI era, using it as the lens for curriculum integration of generative AI in business higher education."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: strategy
 id: universal-well-baby-home-visits-victoria-model
 title: "Provide universal well-baby screening and home-visit services regardless of income, following Victoria, Australia's model"
 description: The article recommends early and regular health screening and well-baby care to identify and mitigate health issues including cerebral palsy, sensory and motor disabilities, respiratory illnesses, and learning and beh...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

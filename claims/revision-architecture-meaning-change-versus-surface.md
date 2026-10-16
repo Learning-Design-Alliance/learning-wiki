@@ -3,7 +3,7 @@ type: claim
 title: Diagnostic Review revisions contained larger shares of meaning-change, organization, and content/argument work, while Control revisions remained more dependent on surface-level editing
 description: Diagnostic Review revisions contained larger shares of meaning-change, organization, and content/argument work, while Control revisions remained more dependent on surface-level editing
 id: revision-architecture-meaning-change-versus-surface
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

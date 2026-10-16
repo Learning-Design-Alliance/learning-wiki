@@ -3,7 +3,7 @@ type: claim
 title: Item-to-factor loading patterns qualitatively differ between human and LLM EFA solutions
 description: Item-to-factor loading patterns qualitatively differ between human and LLM EFA solutions
 id: human-llm-loading-structures-qualitatively-different
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

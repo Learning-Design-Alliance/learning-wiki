@@ -4,7 +4,7 @@ id: nwea-map-growth-assessment-and-longitudinal-achievement-database
 title: NWEA MAP Growth assessment and longitudinal achievement database
 description: "A longitudinal database of student achievement and growth scores collected through NWEA's MAP Growth assessments and used for large-scale educational analysis."
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
@@ -122,9 +122,9 @@ The study's evidence base is a large-scale dataset of test scores from U.S. stud
 - [MAP Growth assessment dataset used to measure pandemic achievement effects (8.3 million students, grades 3-8)](map-growth.md)
 - [NWEA MAP Growth assessment dataset (3.4 million students) as the evidence base for seasonal learning analysis](nwea-map-growth-assessment-and-longitudinal-achievement-database.md)
 - [MAP Growth assessment dataset covering 5.5 million students in grades 3-8 in reading and math](map-growth.md)
-- [MAP Growth reading and mathematics assessment dataset (7 million students, grades 3-8, 25,000 schools, 2020-21 to fall 2022)](nwea-map-growth.md)
+- [MAP Growth reading and mathematics assessment dataset (7 million students, grades 3-8, 25,000 schools, 2020-21 to fall 2022)](map-growth.md)
 - [NWEA 2022-23 achievement dataset covering 6.7 million U.S. students in grades 3-8](nwea-map-growth-202223-achievement-dataset.md)
-- [NWEA MAP Growth assessment and longitudinal achievement database](nwea-map-growth.md)
+- [NWEA MAP Growth assessment and longitudinal achievement database](map-growth.md)
 - [Multi-season math and reading score dataset for over seven million K-8 students (2016-17)](multi-season-math-and-reading-score-dataset-for-over-seven-million-k-8-students-2016-17.md)
 
 ## Examples
@@ -323,7 +323,7 @@ A large-scale longitudinal test-score dataset used to examine seasonal patterns 
 
 ## Related Elements
 
-- [NWEA MAP Growth assessment and longitudinal achievement database](nwea-map-growth.md)
+- [NWEA MAP Growth assessment and longitudinal achievement database](map-growth.md)
 - [Multi-season math and reading score dataset for over seven million K-8 students (2016-17)](multi-season-math-and-reading-score-dataset-for-over-seven-million-k-8-students-2016-17.md)
 - [NWEA MAP Growth assessment dataset (3.4 million students) as the evidence base for seasonal learning analysis](nwea-map-growth-assessment-and-longitudinal-achievement-database.md)
 - [National K–8 fall and spring achievement dataset covering 840,000 students in 8,800 public schools](../products/nwea-map-growth-assessment-and-longitudinal-achievement-database.md)
@@ -362,8 +362,8 @@ The article's evidence base is score data from "the 3.4 million students who too
 ## Related Elements
 
 - [MAP Growth test-score dataset covering 4.9 million U.S. students in Grades 3-8](../products/nwea-map-growth-assessment-and-longitudinal-achievement-database.md)
-- [MAP Growth reading and mathematics assessment dataset (7 million students, grades 3-8, 25,000 schools, 2020-21 to fall 2022)](../products/nwea-map-growth.md)
-- [NWEA MAP Growth assessment and longitudinal achievement database](nwea-map-growth.md)
+- [MAP Growth reading and mathematics assessment dataset (7 million students, grades 3-8, 25,000 schools, 2020-21 to fall 2022)](map-growth.md)
+- [NWEA MAP Growth assessment and longitudinal achievement database](map-growth.md)
 - [NWEA MAP Growth assessment as national data source for seasonal skill-growth analysis](map-growth.md)
 - [Multi-season math and reading score dataset for over seven million K-8 students (2016-17)](multi-season-math-and-reading-score-dataset-for-over-seven-million-k-8-students-2016-17.md)
 

@@ -3,7 +3,7 @@ type: research-method
 id: three-pooling-formulations-for-bayesian-knowledge-tracing-standard-multi-and-hierarchical
 title: Three pooling formulations for Bayesian Knowledge Tracing (standard, multi, and hierarchical)
 description: StanBKT organizes BKT formulations into three pooling types.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

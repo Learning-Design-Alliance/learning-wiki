@@ -3,7 +3,7 @@ type: strategy
 id: toc-implementation-collaboration-accountability
 title: "Next-step implementation plan: collaboration, accountability with metrics, and bold steps sourcing ideas from lived experience"
 description: "The report's conclusions commit to three key steps for advancing the work: collaboration engaging multiple stakeholders from teachers unions to district leaders to community-based organizations; accountability through..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

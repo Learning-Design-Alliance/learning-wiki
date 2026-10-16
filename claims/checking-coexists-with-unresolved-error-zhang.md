@@ -3,7 +3,7 @@ type: claim
 title: "Checking can coexist with unresolved errors: 7 of 15 students failed a task containing plausible LLM falsehoods despite self-checking"
 description: "Checking can coexist with unresolved errors: 7 of 15 students failed a task containing plausible LLM falsehoods despite self-checking"
 id: checking-coexists-with-unresolved-error-zhang
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

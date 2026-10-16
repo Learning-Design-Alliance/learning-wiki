@@ -3,7 +3,7 @@ type: claim
 title: In the randomized Cohort 3 study, 9th-grade on-track NSI moderately improved attendance rates by 2 percentage points
 description: In the randomized Cohort 3 study, 9th-grade on-track NSI moderately improved attendance rates by 2 percentage points
 id: rct-ninth-grade-nsi-attendance-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

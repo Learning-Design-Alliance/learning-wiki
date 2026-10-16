@@ -4,7 +4,7 @@ id: irla
 title: IRLA
 description: The Independent Reading Level Assessment (IRLA) is a reading assessment framework used as a potential screening tool within Response to Intervention.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

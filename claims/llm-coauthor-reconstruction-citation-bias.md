@@ -3,7 +3,7 @@ type: claim
 title: "LLMs reconstruct highly cited researchers' coauthor lists at approximately twice the rate of lower-cited peers, with the disparity growing with model size"
 description: "LLMs reconstruct highly cited researchers' coauthor lists at approximately twice the rate of lower-cited peers, with the disparity growing with model size"
 id: llm-coauthor-reconstruction-citation-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

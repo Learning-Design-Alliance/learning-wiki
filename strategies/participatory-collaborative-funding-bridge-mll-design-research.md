@@ -3,7 +3,7 @@ type: strategy
 id: participatory-collaborative-funding-bridge-mll-design-research
 title: Fund collaborative participatory teams and broaden dissemination to bridge edtech design and research for MLLs
 description: The report recommends structural moves to connect design and research communities working on edtech for multilingual learners.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

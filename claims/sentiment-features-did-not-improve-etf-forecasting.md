@@ -3,7 +3,7 @@ type: claim
 title: LLM-generated news sentiment features did not improve ETF price-forecasting model performance in this project
 description: LLM-generated news sentiment features did not improve ETF price-forecasting model performance in this project
 id: sentiment-features-did-not-improve-etf-forecasting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

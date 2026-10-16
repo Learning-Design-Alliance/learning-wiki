@@ -3,7 +3,7 @@ type: claim
 title: "GenAI support is distributed across four interlocking units: teaching and learning centers, libraries, IT/security units, and academic integrity offices"
 description: "GenAI support is distributed across four interlocking units: teaching and learning centers, libraries, IT/security units, and academic integrity offices"
 id: four-unit-genai-support-ecosystem
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

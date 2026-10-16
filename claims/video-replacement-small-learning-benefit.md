@@ -3,7 +3,7 @@ type: claim
 title: Replacing existing teaching with video produces small improvements in student learning in higher education (g = 0.28)
 description: Replacing existing teaching with video produces small improvements in student learning in higher education (g = 0.28)
 id: video-replacement-small-learning-benefit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

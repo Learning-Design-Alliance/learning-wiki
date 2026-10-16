@@ -3,7 +3,7 @@ type: claim
 title: Ablation study shows metadata-enriched embeddings produce the largest accuracy drop, while attention masking, KV caching and dynamic batching primarily support inference efficiency
 description: Ablation study shows metadata-enriched embeddings produce the largest accuracy drop, while attention masking, KV caching and dynamic batching primarily support inference efficiency
 id: ablation-metadata-embeddings-largest-accuracy-drop
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

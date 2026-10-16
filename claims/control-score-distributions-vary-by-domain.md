@@ -3,7 +3,7 @@ type: claim
 title: Distributions of external control scores differ across school-function domains, with curriculum skewing toward internal control
 description: Distributions of external control scores differ across school-function domains, with curriculum skewing toward internal control
 id: control-score-distributions-vary-by-domain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

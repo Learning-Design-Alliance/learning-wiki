@@ -3,7 +3,7 @@ type: claim
 title: Heistad (2008) found a statistically significant positive effect of Read Naturally® on the NALT Reading measure in a matched quasi-experiment
 description: Heistad (2008) found a statistically significant positive effect of Read Naturally® on the NALT Reading measure in a matched quasi-experiment
 id: heistad-2008-significant-nalt-reading-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

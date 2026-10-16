@@ -3,7 +3,7 @@ type: claim
 title: The study used a three-group longitudinal design with an experimental science group and two traditionally taught controls
 description: The study used a three-group longitudinal design with an experimental science group and two traditionally taught controls
 id: three-group-hots-case-study-design
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

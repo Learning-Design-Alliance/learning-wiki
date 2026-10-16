@@ -3,7 +3,7 @@ type: claim
 title: Students evaluate GenAI explanations for assumed background and audience, reading unfamiliar cultural references and excessive scaffolding as signals about who the explanation was written for
 description: Students evaluate GenAI explanations for assumed background and audience, reading unfamiliar cultural references and excessive scaffolding as signals about who the explanation was written for
 id: assumed-background-audience-signals
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

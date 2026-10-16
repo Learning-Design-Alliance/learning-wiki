@@ -3,7 +3,7 @@ type: claim
 title: Retrieval practice enhances final-test recollection of contextual details and speeds final retrieval, as shown by list discrimination, response time, and cumulative recall measures
 description: Retrieval practice enhances final-test recollection of contextual details and speeds final retrieval, as shown by list discrimination, response time, and cumulative recall measures
 id: retrieval-practice-enhances-final-context-memory-and-memory-search-efficiency
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

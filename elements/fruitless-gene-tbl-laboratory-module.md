@@ -3,7 +3,7 @@ type: element
 id: fruitless-gene-tbl-laboratory-module
 title: Two-week fruitless gene TBL laboratory module on aggression and courtship in Drosophila melanogaster
 description: "A two-week learning module in which, per the abstract, \"students tested the role of the fruitless gene on aggression and courtship in Drosophila melanogaster via team-based learning (TBL) strategies\" in two sections o..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

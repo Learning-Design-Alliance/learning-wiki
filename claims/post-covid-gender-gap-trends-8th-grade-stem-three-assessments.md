@@ -3,7 +3,7 @@ type: claim
 title: The study examines post-COVID trends in gender gaps in 8th grade STEM skills using three national assessments and Algebra enrollment data
 description: The study examines post-COVID trends in gender gaps in 8th grade STEM skills using three national assessments and Algebra enrollment data
 id: post-covid-gender-gap-trends-8th-grade-stem-three-assessments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

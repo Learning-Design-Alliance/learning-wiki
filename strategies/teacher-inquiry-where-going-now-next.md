@@ -3,7 +3,7 @@ type: strategy
 id: teacher-inquiry-where-going-now-next
 title: Establish site-based professional learning structured around the three inquiry questions
 description: "The brief recommends that leaders establish professional learning in which teachers engage in \"ongoing and iterative learning driven by three questions: Where am I going?"
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

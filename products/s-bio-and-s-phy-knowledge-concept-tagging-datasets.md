@@ -4,7 +4,7 @@ id: s-bio-and-s-phy-knowledge-concept-tagging-datasets
 title: S Bio and S Phy knowledge concept tagging datasets
 description: Benchmark datasets constructed by Zhiwei Yang et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

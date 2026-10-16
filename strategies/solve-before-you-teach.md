@@ -59,13 +59,15 @@ Solving the task first converts the instructor's tacit expertise into usable ped
 6. After instruction, compare anticipations with actual learner work and revise.
 
 ## Related Strategies
+
 - Anticipating Student Responses — the five-practices step this strategy feeds directly
 - Lesson Study — institutionalizes collaborative task-solving before teaching
 - Error Analysis — extends anticipation into a systematic map of misconceptions
+- [Teach AI through holistic, active, collaborative pedagogical strategies starting from real problem solving](active-real-problem-solving-ai-teaching.md)
 
 ## Examples
 - **Five Practices for Orchestrating Productive Mathematics Discussions** (Smith & Stein, 2011) — "anticipating" is the first practice: teachers solve the task, generate likely student strategies, and plan monitoring questions before the lesson.
-- **Cognitively Guided Instruction (CGI)** — teachers solve word problems and map the strategy continuum children typically use, so instruction starts from anticipated student thinking rather than the textbook procedure.
+- **[Cognitively Guided Instruction](cognitively-guided-instruction.md) (CGI)** — teachers solve word problems and map the strategy continuum children typically use, so instruction starts from anticipated student thinking rather than the textbook procedure.
 - **Productive Failure lessons (Kapur)** — the instructor designs the task having already mapped canonical and non-canonical solution paths, so that learner-generated (often failed) attempts can be consolidated into the expert solution [Kapur, 2012] [+S].
 
 ## Key Sources

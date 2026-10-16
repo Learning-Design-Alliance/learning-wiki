@@ -3,7 +3,7 @@ type: claim
 title: "MDRC's experimental career academies evaluation found males earned as much as 17% more than peers for 8 years after high school, alongside attendance, course-taking, and on-time-credit gains"
 description: "MDRC's experimental career academies evaluation found males earned as much as 17% more than peers for 8 years after high school, alongside attendance, course-taking, and on-time-credit gains"
 id: career-academies-mdrc-male-earnings-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: LLM configurations show high within-configuration reliability when re-coding the same chat log dataset, with ChatGPT4o/temperature=0 highest
 description: LLM configurations show high within-configuration reliability when re-coding the same chat log dataset, with ChatGPT4o/temperature=0 highest
 id: llm-within-configuration-reliability-high
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

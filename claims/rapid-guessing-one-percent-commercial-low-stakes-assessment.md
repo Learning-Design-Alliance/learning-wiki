@@ -3,7 +3,7 @@ type: claim
 title: "Rapid-guessing behavior occurs on only about 1% of item responses in a commercially available low-stakes assessment"
 description: "Rapid-guessing behavior occurs on only about 1% of item responses in a commercially available low-stakes assessment"
 id: rapid-guessing-one-percent-commercial-low-stakes-assessment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

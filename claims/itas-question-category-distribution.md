@@ -3,7 +3,7 @@ type: claim
 title: "Student chat questions in the pilot were distributed across seven categories, dominated by study strategies (23%), conceptual quantum (20%), and mathematical formalism (17%)"
 description: "Student chat questions in the pilot were distributed across seven categories, dominated by study strategies (23%), conceptual quantum (20%), and mathematical formalism (17%)"
 id: itas-question-category-distribution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

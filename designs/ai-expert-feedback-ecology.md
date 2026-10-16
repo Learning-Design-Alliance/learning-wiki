@@ -3,7 +3,7 @@ type: design
 id: ai-expert-feedback-ecology
 title: "AI Expert Feedback Ecology: a closed-loop cognition framework linking AI Twins, AI Tutors, dashboards, and learners"
 description: "The article defines the AI Expert Feedback Ecology as \"a closed-loop educational ecosystem in which AI Twins, AI tutors, dashboards, and learners continuously interact through cognition-aware feedback processes.\" AI T..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10
@@ -49,4 +49,4 @@ The article defines the AI Expert Feedback Ecology as "a closed-loop educational
 -
 
 ## Key Sources
-- Yuan, A. (2026). Expert Cognition Dashboard: From Learning Analytics to Cognition Intelligence in AI-Driven Education. https://arxiv.org/abs/2605.17263
+- Yuan, A. (2026). Expert Cognition Dashboard: From Learning Analytics to Cognition Intelligence in AI-Driven Education. https://arxiv.org/abs/2605.17263. [doi:10.48550/arxiv.2605.17263](https://doi.org/10.48550/arxiv.2605.17263)

@@ -3,7 +3,7 @@ type: claim
 title: Exposure to suspensions for serious misconduct has very small negative spillovers onto peer achievement
 description: Exposure to suspensions for serious misconduct has very small negative spillovers onto peer achievement
 id: suspension-spillovers-small-negative-peer-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

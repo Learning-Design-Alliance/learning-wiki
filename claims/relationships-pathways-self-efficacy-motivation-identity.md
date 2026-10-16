@@ -3,7 +3,7 @@ type: claim
 title: Positive teacher–student relationships relate to math outcomes through self-efficacy, intrinsic motivation, belonging, engagement, and mathematics identity
 description: Positive teacher–student relationships relate to math outcomes through self-efficacy, intrinsic motivation, belonging, engagement, and mathematics identity
 id: relationships-pathways-self-efficacy-motivation-identity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

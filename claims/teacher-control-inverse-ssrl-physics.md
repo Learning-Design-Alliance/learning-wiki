@@ -3,7 +3,7 @@ type: claim
 title: "Teacher control over small-group dialogue is inversely related to groups' socially shared regulation of learning"
 description: "Teacher control over small-group dialogue is inversely related to groups' socially shared regulation of learning"
 id: teacher-control-inverse-ssrl-physics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

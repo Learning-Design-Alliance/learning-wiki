@@ -3,7 +3,7 @@ type: claim
 title: Engineering faculty report reluctant engagement with GenAI, concerns about cognitive offloading, and frustration with uncoordinated institutional policy
 description: Engineering faculty report reluctant engagement with GenAI, concerns about cognitive offloading, and frustration with uncoordinated institutional policy
 id: faculty-reluctant-engagement-genai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

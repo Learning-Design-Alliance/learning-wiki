@@ -3,7 +3,7 @@ type: claim
 title: Customized AI writing systems show benefits in writing quality, learning processes, assessment reliability, and feedback literacy
 description: Customized AI writing systems show benefits in writing quality, learning processes, assessment reliability, and feedback literacy
 id: customized-ai-writing-positive-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

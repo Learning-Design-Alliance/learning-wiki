@@ -3,7 +3,7 @@ type: claim
 title: Christ and Davie (2009) found positive, statistically significant effects of Read Naturally® Software Edition on three reading fluency measures
 description: Christ and Davie (2009) found positive, statistically significant effects of Read Naturally® Software Edition on three reading fluency measures
 id: christ-davie-2009-significant-fluency-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

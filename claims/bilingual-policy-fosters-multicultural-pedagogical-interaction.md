@@ -3,7 +3,7 @@ type: claim
 title: Bilingual language policy facilitates multilingual and multicultural pedagogical interaction in Indonesian university classrooms
 description: Bilingual language policy facilitates multilingual and multicultural pedagogical interaction in Indonesian university classrooms
 id: bilingual-policy-fosters-multicultural-pedagogical-interaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

@@ -3,7 +3,7 @@ type: claim
 title: On fully correct responses, the GPT few-shot models outperformed the fine-tuned models, averaging less than one category distance from the gold score
 description: On fully correct responses, the GPT few-shot models outperformed the fine-tuned models, averaging less than one category distance from the gold score
 id: gpt-outperforms-finetuned-on-fully-correct-responses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

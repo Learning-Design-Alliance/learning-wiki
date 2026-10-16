@@ -3,7 +3,7 @@ type: strategy
 id: apply-cognitive-principles-simultaneously-in-curriculum-revision
 title: Apply cognitive science design principles simultaneously and in combination when revising curriculum, with targeted rather than arbitrary development decisions
 description: The Math Center applies its four design principles simultaneously, in combination, when revising the math curriculum, an approach the article says differs from studies exploring the principles one at a time.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

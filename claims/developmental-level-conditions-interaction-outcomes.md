@@ -3,7 +3,7 @@ type: claim
 title: "The learner's developmental level conditions the outcomes of interactional input"
 description: "The learner's developmental level conditions the outcomes of interactional input"
 id: developmental-level-conditions-interaction-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

@@ -3,7 +3,7 @@ type: claim
 title: Frequency plays a large part in explaining sociolinguistic variation and language change
 description: Frequency plays a large part in explaining sociolinguistic variation and language change
 id: frequency-explains-sociolinguistic-variation-and-change
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

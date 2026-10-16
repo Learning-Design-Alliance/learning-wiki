@@ -3,7 +3,7 @@ type: claim
 title: "BEAGLE generalizes across tasks and LLM backbones: on the out-of-distribution Gradient Descent task it still shrinks DKL by ≥3×, raises error recurrence to ≥79%, and improves all three perceptual scores"
 description: "BEAGLE generalizes across tasks and LLM backbones: on the out-of-distribution Gradient Descent task it still shrinks DKL by ≥3×, raises error recurrence to ≥79%, and improves all three perceptual scores"
 id: beagle-cross-task-cross-backbone-generalization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -276,12 +276,9 @@ KIND_LABELS = {"principle": "Principle", "element": "Element", "pattern": "Patte
                "theory": "Theory", "learner-variable": "Learner variable", "claim": "Claim"}
 
 
-HEADER_SEARCH = ('<form class="lt-header-search" action="{rel}search/" role="search" '
-                 'style="margin:0 .6rem;align-self:center">'
+HEADER_SEARCH = ('<form class="lt-header-search" action="{rel}search/" role="search">'
                  '<input name="q" type="search" placeholder="Search" aria-label="Search the wiki" '
-                 'style="font:inherit;font-size:.7rem;padding:.25rem .5rem;border-radius:.2rem;border:0;'
-                 'width:11rem;max-width:30vw;background:var(--md-default-bg-color);'
-                 'color:var(--md-default-fg-color)"></form>')
+                 '></form>')
 
 
 def on_post_page(output, page, config):

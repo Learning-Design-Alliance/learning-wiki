@@ -3,7 +3,7 @@ type: claim
 title: One qualifying study found a substantively important but statistically non-significant positive effect of repeated reading on comprehension (effect size 0.28)
 description: One qualifying study found a substantively important but statistically non-significant positive effect of repeated reading on comprehension (effect size 0.28)
 id: wexler-2010-comprehension-effect-size-028-substantively-important
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

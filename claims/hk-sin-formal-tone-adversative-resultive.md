@@ -3,7 +3,7 @@ type: claim
 title: Hong Kong and Singaporean students are more formal in tone than L1 and Thai students when using adversative and resultive connectives
 description: Hong Kong and Singaporean students are more formal in tone than L1 and Thai students when using adversative and resultive connectives
 id: hk-sin-formal-tone-adversative-resultive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Students receiving personalized problems gamed the tutoring system less during the personalized unit, with no difference in a later unit
 description: Students receiving personalized problems gamed the tutoring system less during the personalized unit, with no difference in a later unit
 id: personalization-reduces-gaming-behavior
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

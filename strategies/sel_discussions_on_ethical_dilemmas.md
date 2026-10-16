@@ -75,7 +75,7 @@ Structured dilemma discussions work because they require learners to articulate 
 
 ## Examples
 - **[CASEL](https://casel.org)** — the leading SEL framework organization; its responsible decision-making competency is the target of dilemma-based discussion curricula, and its program guides list dilemma discussion among common middle/high school practices
-- **Facing History and Ourselves** — published curriculum using historical case dilemmas (e.g., bystander decisions during the Holocaust) followed by structured discussion and reflection; widely implemented in secondary schools
+- **[Facing History and Ourselves](../products/facing-history-and-ourselves.md)** — published curriculum using historical case dilemmas (e.g., bystander decisions during the Holocaust) followed by structured discussion and reflection; widely implemented in secondary schools
 - **Advisory-period dilemma circles** — a common middle school format where a weekly dilemma (e.g., a friendship loyalty conflict) is discussed in a 20-minute circle with talking-piece norms
 
 ## Key Sources

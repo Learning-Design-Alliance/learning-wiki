@@ -77,9 +77,9 @@ Structured discussion improves comprehension and literacy outcomes when it goes 
 - [Community of Inquiry](../principles/community-of-inquiry.md) — discussion as the vehicle for cognitive and social presence
 
 ## Examples
-- **Accountable Talk** (Institute for Learning, University of Pittsburgh) — a talk-moves framework in which teachers use revoicing, reasoning prompts, and challenges to keep whole-class discussion accountable to the text, the reasoning community, and standards of rigor.
-- **Reciprocal Teaching** — small-group discussion routines in which learners take turns leading dialogue about a text using prediction, questioning, clarifying, and summarizing.
-- **Socratic Seminar** — students discuss an open-ended question about a text in inner/outer circle formats, with the teacher facilitating rather than evaluating.
+- **[Accountable Talk](accountable_talk.md)** (Institute for Learning, University of Pittsburgh) — a talk-moves framework in which teachers use revoicing, reasoning prompts, and challenges to keep whole-class discussion accountable to the text, the reasoning community, and standards of rigor.
+- **[Reciprocal Teaching](reciprocal_teaching.md)** — small-group discussion routines in which learners take turns leading dialogue about a text using prediction, questioning, clarifying, and summarizing.
+- **[Socratic Seminar](../patterns/socratic-seminar.md)** — students discuss an open-ended question about a text in inner/outer circle formats, with the teacher facilitating rather than evaluating.
 
 ## Key Sources
 - Nystrand, M. (2006). Research on the role of classroom discourse as it affects reading comprehension. *Research in the Teaching of English, 40*(4), 392–412.

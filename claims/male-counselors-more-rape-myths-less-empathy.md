@@ -3,7 +3,7 @@ type: claim
 title: Male counselors reported more rape myth acceptance and lower empathy than female counselors
 description: Male counselors reported more rape myth acceptance and lower empathy than female counselors
 id: male-counselors-more-rape-myths-less-empathy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

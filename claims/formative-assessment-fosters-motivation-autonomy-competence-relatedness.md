@@ -3,7 +3,7 @@ type: claim
 title: Formative assessment is theorized to foster motivation by supporting autonomy, competence, and relatedness
 description: Formative assessment is theorized to foster motivation by supporting autonomy, competence, and relatedness
 id: formative-assessment-fosters-motivation-autonomy-competence-relatedness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

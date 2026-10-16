@@ -3,7 +3,7 @@ type: element
 id: cross-district-middle-school-math-curricula-study
 title: Cross-district study of middle school math curricula, culturally responsive materials, and teacher professional learning
 description: "A research project on \"Middle School Math: Culturally Responsive Materials, Teacher Professional Learning, and Student Engagement,\" conducted from 2019 to 2024, prepared for the Gates Foundation, and carried out acros..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

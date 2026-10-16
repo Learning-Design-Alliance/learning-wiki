@@ -2,7 +2,7 @@
 type: theory
 title: The Five Essential Supports framework identifies five organizational conditions for school improvement
 description: "The five essential supports framework posits that school improvement depends on five organizational conditions: effective leaders, collaborative teachers, involved families, supportive environment, and ambitious instr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -44,11 +44,9 @@ The five essential supports framework posits that school improvement depends on 
 
 - [The five essential supports framework: five mutually reinforcing organizational dimensions that enable or inhibit improvement in classroom practices](five-essential-supports-early-education-framework.md)
 - [The Early Education Essentials framework: six organizational essential supports for ECE programs](early-education-essentials-six-essential-supports-framework.md)
-- [Five essentials framework of organizational supports for school improvement](five-essentials-framework-early-education-adaptation.md)
+- [Five essentials framework of organizational supports for school improvement](five-essential-supports-framework-ccsr.md)
 - [Five Essential Supports framework for improving student learning](five-essential-supports-framework-uchicago-consortium.md)
 - [Five Essential Supports for School Improvement (5Es) framework](../products/5essentials.md)
-- [Five essential supports framework for school improvement](five-essential-supports-school-improvement-framework.md)
-- [Framework of five essential supports and contextual resources for school improvement](five-essential-supports-framework-ccsr.md)
 - [Model of Essential Supports for Student Learning](../products/model-of-essential-supports-for-student-learning.md)
 
 ## Examples

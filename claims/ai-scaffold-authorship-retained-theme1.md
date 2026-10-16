@@ -3,7 +3,7 @@ type: claim
 title: Experimental-group students framed AI as a flexible writing scaffold supporting their own composing rather than a substitute for authorship
 description: Experimental-group students framed AI as a flexible writing scaffold supporting their own composing rather than a substitute for authorship
 id: ai-scaffold-authorship-retained-theme1
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

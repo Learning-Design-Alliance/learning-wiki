@@ -3,7 +3,7 @@ type: claim
 title: English learner students with disabilities have more socioeconomic disadvantages than other students with disabilities but similar functional performance
 description: English learner students with disabilities have more socioeconomic disadvantages than other students with disabilities but similar functional performance
 id: elswd-more-socioeconomic-disadvantage-similar-functional-performance-than-swd
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

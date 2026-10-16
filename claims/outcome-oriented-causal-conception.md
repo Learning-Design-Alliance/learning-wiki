@@ -3,7 +3,7 @@ type: claim
 title: Outcome-oriented PSMTs conflate causality with conditionality and predict single-trial outcomes
 description: Outcome-oriented PSMTs conflate causality with conditionality and predict single-trial outcomes
 id: outcome-oriented-causal-conception
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: strategy
 id: central-office-partnerships-with-organizations
 title: System leaders partner with external organizations to re-envision central office support for a system of schools
 description: This strategy calls on district system leaders to embrace partnerships with local supporting organizations and jointly rethink the role of the central office.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

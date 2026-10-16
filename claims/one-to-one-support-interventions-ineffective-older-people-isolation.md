@@ -3,7 +3,7 @@ type: claim
 title: One-to-one social support, advice and information, or health-needs assessment interventions were largely ineffective at reducing social isolation and loneliness among older people
 description: One-to-one social support, advice and information, or health-needs assessment interventions were largely ineffective at reducing social isolation and loneliness among older people
 id: one-to-one-support-interventions-ineffective-older-people-isolation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

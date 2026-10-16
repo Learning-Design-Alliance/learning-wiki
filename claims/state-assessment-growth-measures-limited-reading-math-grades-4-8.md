@@ -3,7 +3,7 @@ type: claim
 title: Traditional annual state assessment growth measures typically cover only reading and math in grades 4-8, limiting their use in teacher evaluation
 description: Traditional annual state assessment growth measures typically cover only reading and math in grades 4-8, limiting their use in teacher evaluation
 id: state-assessment-growth-measures-limited-reading-math-grades-4-8
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

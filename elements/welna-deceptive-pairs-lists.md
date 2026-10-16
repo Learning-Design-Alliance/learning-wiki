@@ -3,7 +3,7 @@ type: element
 id: welna-deceptive-pairs-lists
 title: Compiled lists of Polish-English deceptive word pairs extracted from popular monolingual and bilingual dictionaries
 description: "The article's core artifact is a representative selection of deceptive pairs organized by relation type: full-contrast pairs (e.g."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

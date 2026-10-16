@@ -3,7 +3,7 @@ type: claim
 title: In the Torgesen et al. (2006) RCT, SpellRead™ showed indeterminate effects for fifth graders, with no statistically significant or substantively important effects in any domain after six months
 description: In the Torgesen et al.
 id: torgesen-2006-spellread-indeterminate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

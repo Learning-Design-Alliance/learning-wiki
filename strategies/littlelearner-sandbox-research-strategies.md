@@ -3,7 +3,7 @@ type: strategy
 id: littlelearner-sandbox-research-strategies
 title: Use the LittleLearner sandbox for controlled studies of RL-driven discovery, continual learning, interpretability, calibration, and human-model comparison
 description: The article proposes the LittleCurriculum-LittleLearner sandbox as a playground for studies that are confounded in web-scale models.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

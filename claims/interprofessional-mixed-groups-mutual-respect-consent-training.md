@@ -3,7 +3,7 @@ type: claim
 title: Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants
 description: Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants
 id: interprofessional-mixed-groups-mutual-respect-consent-training
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

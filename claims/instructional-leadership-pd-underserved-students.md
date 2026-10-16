@@ -3,7 +3,7 @@ type: claim
 title: "As principals' professional development in instructional leadership increases, mathematics gains are significantly more pronounced for historically underserved students of color than for white and Asian students"
 description: "As principals' professional development in instructional leadership increases, mathematics gains are significantly more pronounced for historically underserved students of color than for white and Asian students"
 id: instructional-leadership-pd-underserved-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

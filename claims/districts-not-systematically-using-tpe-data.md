@@ -3,7 +3,7 @@ type: claim
 title: Districts are not yet systematically using TPE-generated information, with technology serving mainly as a repository
 description: Districts are not yet systematically using TPE-generated information, with technology serving mainly as a repository
 id: districts-not-systematically-using-tpe-data
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

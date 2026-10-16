@@ -4,7 +4,7 @@ id: open-source-adversarial-stress-testing-platform-for-rplas-with-fastapi-backe
 title: Open-source adversarial stress-testing platform for RPLAs with FastAPI backend and React dashboard
 description: An open-source platform developed by Saqib Shouqi et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

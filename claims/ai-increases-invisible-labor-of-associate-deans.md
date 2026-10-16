@@ -3,7 +3,7 @@ type: claim
 title: AI implementation increases the invisible emotional and relational labor of associate deans, which remains unquantified in leadership evaluations
 description: AI implementation increases the invisible emotional and relational labor of associate deans, which remains unquantified in leadership evaluations
 id: ai-increases-invisible-labor-of-associate-deans
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

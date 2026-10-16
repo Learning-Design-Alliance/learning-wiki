@@ -3,7 +3,7 @@ type: claim
 title: Including unverified transfers as dropouts yields dropout rates about 4 percent higher at age 19 and eliminates the downward trend
 description: Including unverified transfers as dropouts yields dropout rates about 4 percent higher at age 19 and eliminates the downward trend
 id: unverified-transfers-raise-rates-remove-trend
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

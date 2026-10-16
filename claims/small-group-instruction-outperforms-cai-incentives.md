@@ -3,7 +3,7 @@ type: claim
 title: Small group instruction is associated with significantly larger effect sizes than CAI and incentive components in targeted secondary interventions
 description: Small group instruction is associated with significantly larger effect sizes than CAI and incentive components in targeted secondary interventions
 id: small-group-instruction-outperforms-cai-incentives
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

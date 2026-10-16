@@ -3,7 +3,7 @@ type: claim
 title: Classroom experiments test whether instructional procedures that increase the salience and cognitive processing of targeted words in reading texts can support L2 vocabulary acquisition
 description: Classroom experiments test whether instructional procedures that increase the salience and cognitive processing of targeted words in reading texts can support L2 vocabulary acquisition
 id: vocabulary-enhancement-activities-support-reading-acquisition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
@@ -48,3 +48,4 @@ The chapter reports classroom experiments in which instructional procedures were
 - [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — related
 - [Low-frequency or low-salience L2 elements are hard or impossible to learn through mere exposure and require extensive practice to proceduralize form-meaning mappings](low-salience-elements-need-extensive-practice.md) — a broader claim this one bears on
 - [L2 learners pick up vocabulary incidentally from meaning-focused input, with reading the most-studied mode and listening yielding similar proportions of words learned](incidental-vocabulary-learning-through-reading-for-meaning.md) — a broader claim this one bears on
+- [Meaning-focused exposure to spoken L2 input yields large vocabulary gains (g = 1.05) in incidental word learning](spoken-input-incidental-l2-word-learning-large-gains.md) — related

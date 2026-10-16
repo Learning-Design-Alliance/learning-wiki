@@ -3,7 +3,7 @@ type: claim
 title: LLM difficulty predictions for fraction items are less stable across repeated runs than for the overall item set
 description: LLM difficulty predictions for fraction items are less stable across repeated runs than for the overall item set
 id: llm-fraction-predictions-run-to-run-instability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

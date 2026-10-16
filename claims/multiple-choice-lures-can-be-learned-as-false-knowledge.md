@@ -3,7 +3,7 @@ type: claim
 title: Taking initial multiple-choice tests without feedback can lead students to later produce the incorrect lure answers they selected, even when an overall retrieval practice benefit occurs
 description: Taking initial multiple-choice tests without feedback can lead students to later produce the incorrect lure answers they selected, even when an overall retrieval practice benefit occurs
 id: multiple-choice-lures-can-be-learned-as-false-knowledge
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24
@@ -74,3 +74,4 @@ The chapter reports Marsh et al. (2009), with college students answering SAT II 
 - [Feedback neutralizes the effect of prior study on final cued recall performance](feedback-neutralizes-prior-study-effects.md) — related
 - [Feedback on a multiple-choice test sharply reduces lure intrusions on a later cued recall test, with immediate and delayed schedules equally effective](feedback-reduces-lure-intrusions.md) — related
 - [Taking a multiple-choice test produces a testing effect on later cued recall, but testing without study or feedback can be net harmful](mc-testing-effect-and-net-harm-boundary.md) — related
+- [Strategy perseveration: prior offloading experience biases later offloading choices](strategy-perseveration-offloading.md) — related

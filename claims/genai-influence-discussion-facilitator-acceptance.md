@@ -3,7 +3,7 @@ type: claim
 title: "The study examined the genAI agent's influence on team discussion and outcomes and the influence of faculty facilitators on acceptance of the agent"
 description: "The study examined the genAI agent's influence on team discussion and outcomes and the influence of faculty facilitators on acceptance of the agent"
 id: genai-influence-discussion-facilitator-acceptance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

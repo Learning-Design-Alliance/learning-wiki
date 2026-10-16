@@ -3,7 +3,7 @@ type: claim
 title: Students in full-day pre-k programs had significantly higher attendance rates than students in half-day programs across all study years
 description: Students in full-day pre-k programs had significantly higher attendance rates than students in half-day programs across all study years
 id: full-day-prek-higher-attendance-than-half-day
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

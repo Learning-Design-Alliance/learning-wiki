@@ -3,7 +3,7 @@ type: claim
 title: Under analytic phonics teaching, boys matched girls in word reading but had inferior spelling and reading comprehension
 description: Under analytic phonics teaching, boys matched girls in word reading but had inferior spelling and reading comprehension
 id: analytic-phonics-boys-inferior-spelling-comprehension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: "Three distinct learner profiles emerge from function art activities: Repetitivists, Simplists, and Multifunctionists"
 description: "Three distinct learner profiles emerge from function art activities: Repetitivists, Simplists, and Multifunctionists"
 id: function-art-three-learner-profiles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

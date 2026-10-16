@@ -3,7 +3,7 @@ type: strategy
 id: reduce-anxiety-build-confidence-older-learners
 title: Reduce anxiety and build self-confidence in older language learners
 description: The digest recommends that teachers of older adults reduce anxiety and build self-confidence, since many older learners fear failure more than younger counterparts, often because they accept the stereotype of the olde...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

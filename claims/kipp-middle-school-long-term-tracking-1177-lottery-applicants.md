@@ -3,7 +3,7 @@ type: claim
 title: A long-term tracking study follows 1,177 students who applied to 13 oversubscribed KIPP middle schools through 5th or 6th grade admissions lotteries in 2008 or 2009 to examine college enrollment and early college persistence.
 description: A long-term tracking study follows 1,177 students who applied to 13 oversubscribed KIPP middle schools through 5th or 6th grade admissions lotteries in 2008 or 2009 to examine college enrollment and early college pers...
 id: kipp-middle-school-long-term-tracking-1177-lottery-applicants
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

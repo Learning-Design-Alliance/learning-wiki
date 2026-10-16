@@ -3,7 +3,7 @@ type: strategy
 id: sustain-high-retention-pathways-streamline-licensure
 title: Sustain and deepen state investments in high-retention teacher pathways and streamline licensure requirements
 description: "The report recommends policymakers institutionalize investments in high-retention pathways such as service scholarships, teacher residencies, and Grow-Your-Own programs, which \"produce well-prepared teachers who stay..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -44,4 +44,4 @@ The report recommends policymakers institutionalize investments in high-retentio
 -
 
 ## Key Sources
-- Carver-Thomas, D., Leung, M., & Burns, D. (2021). California teachers and COVID-19: How the pandemic is impacting the teacher workforce. Learning Policy Institute. https://learningpolicyinstitute.org/product/california-covid-19-teacher-workforce
+- Carver-Thomas, D., Leung, M., & Burns, D. (2021). California teachers and COVID-19: How the pandemic is impacting the teacher workforce. Learning Policy Institute. https://learningpolicyinstitute.org/product/california-covid-19-teacher-workforce. [doi:10.54300/987.779](https://doi.org/10.54300/987.779)

@@ -3,7 +3,7 @@ type: claim
 title: Access to expert-verified AI study materials is associated with a 2.34-mark difference-in-differences advantage on a 50-mark examination component, reflecting protection from a decline rather than a rise
 description: Access to expert-verified AI study materials is associated with a 2.34-mark difference-in-differences advantage on a 50-mark examination component, reflecting protection from a decline rather than a rise
 id: did-2-34-mark-advantage-verified-ai-materials
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -18,8 +18,8 @@ sources:
     kind: causal
     rigour: 2
   - id: dang-2026-2
-    resource: "https://arxiv.org/abs/2610.07097"
-    title: "Dang, C. T., & Nguyen, A. (2026). Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course. https://arxiv.org/abs/2610.07097"
+    resource: "https://doi.org/10.48550/arxiv.2610.07097"
+    title: "Dang, C. T., & Nguyen, A. (2026). Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course. https://arxiv.org/abs/2610.07097. [doi:10.48550/arxiv.2610.07097](https://doi.org/10.48550/arxiv.2610.07097)"
     author: "Dang, C. T., & Nguyen, A."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Access to expert-verified AI study materials is associated with a 2.34-mark difference-in-differences advantage on a 50-mark examination component, reflecting protection from a decline rather than a rise
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a two-cohort difference-in-differences design (170 students, 340 marks), access to verified AI materials was associated with a 2.34-mark advantage (p = 0.045 HC1; p = 0.013 clustered). [→ Dang 2026](#dang-2026)
@@ -50,7 +50,7 @@ Difference-in-differences analysis of examination marks in a compulsory first-ye
 
 ### Dang 2026 (2)
 
-Dang, C. T., & Nguyen, A. (2026). Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course. https://arxiv.org/abs/2610.07097
+Dang, C. T., & Nguyen, A. (2026). Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course. https://arxiv.org/abs/2610.07097. [doi:10.48550/arxiv.2610.07097](https://doi.org/10.48550/arxiv.2610.07097)
 
 `q2 · i?` · `causal · r2`
 

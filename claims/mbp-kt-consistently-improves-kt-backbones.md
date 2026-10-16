@@ -3,7 +3,7 @@ type: claim
 title: "Injecting MBP-KT's global collaborative information consistently improves KT models across RNN, memory-network, Transformer and state-based backbones"
 description: "Injecting MBP-KT's global collaborative information consistently improves KT models across RNN, memory-network, Transformer and state-based backbones"
 id: mbp-kt-consistently-improves-kt-backbones
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "Corpus reuse in the deployed support system is concentrated on a single process step: three certificate/offer-letter entries account for 56.8% of 871 resolutions, with a Gini of 0.586 across entries"
 description: "Corpus reuse in the deployed support system is concentrated on a single process step: three certificate/offer-letter entries account for 56.8% of 871 resolutions, with a Gini of 0.586 across entries"
 id: corpus-reuse-concentrated-single-process-step-gini-0-586
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: VietEduQwen improves over its base model across all eight exam subjects, with the largest gains in STEM disciplines, and its residual errors concentrate in multi-step computation and cross-concept integration
 description: VietEduQwen improves over its base model across all eight exam subjects, with the largest gains in STEM disciplines, and its residual errors concentrate in multi-step computation and cross-concept integration
 id: vieteduqwen-subject-wise-stem-gains-error-modes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

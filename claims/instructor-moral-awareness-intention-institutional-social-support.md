@@ -3,7 +3,7 @@ type: claim
 title: "Instructors' moral awareness and intention grow parallel with institutional and social support"
 description: "Instructors' moral awareness and intention grow parallel with institutional and social support"
 id: instructor-moral-awareness-intention-institutional-social-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

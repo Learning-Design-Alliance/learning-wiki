@@ -3,7 +3,7 @@ type: research-method
 id: four-role-taxonomy-of-genai-roles-instructor-enhancement-tool-replacement-tool-collaborato
 title: "Four-role taxonomy of GenAI roles: instructor, enhancement tool, replacement tool, collaborator"
 description: The article develops a four-category taxonomy of the functional roles students assign to GenAI in authentic interaction.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

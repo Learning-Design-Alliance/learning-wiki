@@ -3,7 +3,7 @@ type: claim
 title: Task difficulty increases error counts, with significantly more errors on Medium and Hard tasks than Easy tasks
 description: Task difficulty increases error counts, with significantly more errors on Medium and Hard tasks than Easy tasks
 id: task-difficulty-increases-errors-scratch-videos
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

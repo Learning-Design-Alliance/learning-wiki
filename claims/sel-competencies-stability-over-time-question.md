@@ -3,7 +3,7 @@ type: claim
 title: The stability of social-emotional learning competencies over time is an open empirical question with implications for teachers and schools
 description: The stability of social-emotional learning competencies over time is an open empirical question with implications for teachers and schools
 id: sel-competencies-stability-over-time-question
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

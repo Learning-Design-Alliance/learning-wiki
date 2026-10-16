@@ -3,7 +3,7 @@ type: claim
 title: Validator agent reliability is highest for realism and lowest for authenticity in human evaluation
 description: Validator agent reliability is highest for realism and lowest for authenticity in human evaluation
 id: validator-reliability-highest-realism-lowest-authenticity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

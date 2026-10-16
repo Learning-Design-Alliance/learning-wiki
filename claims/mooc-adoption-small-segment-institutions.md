@@ -3,7 +3,7 @@ type: claim
 title: MOOC adoption remains limited to a small segment of higher education institutions, with most institutions deciding against or remaining undecided about MOOCs
 description: MOOC adoption remains limited to a small segment of higher education institutions, with most institutions deciding against or remaining undecided about MOOCs
 id: mooc-adoption-small-segment-institutions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
@@ -65,3 +65,4 @@ Survey item asked of all institutions, with and without MOOCs, on belief in MOOC
 ## Related Claims
 - [Domain-matched experts judged 87% of Bespoke-generated lecture videos at or above the rubric midpoint corresponding to a standard MOOC lecture's quality (mean G = 3.42 of 5)](bespoke-87-percent-mooc-comparable-quality.md) — related
 - [A technical review reports a 70% cut in grading time and a 15% rise in learner satisfaction from NLP-based automated grading on one MOOC platform, with no comparison design described](mooc-nlp-grading-70-percent-time-reduction.md) — related
+- [MOOCs failed to deliver on their proponents' promises of transforming higher education](moocs-failed-to-deliver-on-promises.md) — a broader claim this one bears on

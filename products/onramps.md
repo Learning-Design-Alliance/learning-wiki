@@ -4,7 +4,7 @@ id: onramps
 title: OnRamps
 description: OnRamps is a University of Texas dual-credit programme in which high school teachers deliver UT-designed and supported college-level courses to high school students, who may choose whether to accept the resulting college credit.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

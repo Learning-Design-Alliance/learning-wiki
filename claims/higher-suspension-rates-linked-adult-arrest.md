@@ -3,7 +3,7 @@ type: claim
 title: Students who attend schools with higher suspension rates are more likely to be arrested and incarcerated as adults and less likely to attend a 4-year college
 description: Students who attend schools with higher suspension rates are more likely to be arrested and incarcerated as adults and less likely to attend a 4-year college
 id: higher-suspension-rates-linked-adult-arrest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

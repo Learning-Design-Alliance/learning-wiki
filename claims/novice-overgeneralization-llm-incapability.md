@@ -3,7 +3,7 @@ type: claim
 title: When refined prompts failed, novices overgeneralized and concluded LLMs could not detect anaphors, attributing failure to the model rather than to their prompting
 description: When refined prompts failed, novices overgeneralized and concluded LLMs could not detect anaphors, attributing failure to the model rather than to their prompting
 id: novice-overgeneralization-llm-incapability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

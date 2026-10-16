@@ -3,7 +3,7 @@ type: strategy
 id: post-study-data-sharing-and-ongoing-partnership
 title: After a study, present final data in school-useful forms, remain available for ongoing conversations, and plan carefully to avoid data overload
 description: "This strategy governs the post-study phase: present final data in ways useful for schools (for example combining study data with test scores and grades into a rich profile of each learner), stay available for ongoing..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Stronger working relationships emerged among highest-level central office administrators, but rifts and skepticism about systemic change remained among other staff
 description: Stronger working relationships emerged among highest-level central office administrators, but rifts and skepticism about systemic change remained among other staff
 id: central-office-relationships-stronger-at-top-with-rifts-among-other-staff
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

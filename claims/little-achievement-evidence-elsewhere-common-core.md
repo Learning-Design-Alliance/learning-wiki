@@ -3,7 +3,7 @@ type: claim
 title: Little evidence exists of student achievement changes following Common Core implementation in other places, with the one positive study limited to wealthier districts
 description: Little evidence exists of student achievement changes following Common Core implementation in other places, with the one positive study limited to wealthier districts
 id: little-achievement-evidence-elsewhere-common-core
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

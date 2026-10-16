@@ -3,7 +3,7 @@ type: claim
 title: "Expertise reversal: cognitive load effects for novices decrease, disappear, and can reverse as expertise increases"
 description: "Expertise reversal: cognitive load effects for novices decrease, disappear, and can reverse as expertise increases"
 id: expertise-reversal-effect-compound
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
@@ -53,3 +53,5 @@ This narrative review attributes the expertise reversal effect to Kalyuga et al.
 - [Worked-example guidance becomes less effective as learner expertise increases.](worked-examples-less-effective-with-expertise.md) — a narrower finding that bears on this claim
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
 - [In one meta-regression, the PS-I fidelity benefit tended to shrink for interventions spanning only a few hours, a marginal interaction (p = .055)](psi-fidelity-time-span-interaction.md) — related
+- [The article analyzes the consequences of explaining the various cognitive load effects in terms of element interactivity](cognitive-load-effects-reexplained-via-element-interactivity.md) — related
+- [The expertise reversal effect relies on changes in relative levels of element interactivity due to changes in relative levels of expertise](expertise-reversal-changes-from-expertise-levels.md) — a narrower finding that bears on this claim

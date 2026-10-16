@@ -3,7 +3,7 @@ type: claim
 title: HelpCoach did not significantly outperform Baseline in improving or retaining self-reported self-regulation
 description: HelpCoach did not significantly outperform Baseline in improving or retaining self-reported self-regulation
 id: helpcoach-no-self-regulation-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

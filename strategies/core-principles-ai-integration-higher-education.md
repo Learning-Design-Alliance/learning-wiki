@@ -3,7 +3,7 @@ type: strategy
 id: core-principles-ai-integration-higher-education
 title: Ground AI integration in higher education on core principles of human agency, academic freedom, transparency, ethics, inclusivity, and critical thinking
 description: The chapter establishes six core principles (Table 3) to guide AI use in higher education and scholarship, ensuring alignment with academic values and pedagogical best practice.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -68,6 +68,7 @@ The chapter establishes six core principles (Table 3) to guide AI use in higher 
 - [Instructors integrating generative AI into writing-intensive courses should have students critically understand, access, prompt, vet and integrate AI-produced content](critical-ai-use-writing-intensive-stem-strategy.md)
 - [Tripartite institutional response: AI literacy, ethical infrastructure, and competence-based educator training](tripartite-agentic-ai-institutional-response.md)
 - [Align AI guidelines with broader institutional policies while addressing discipline-specific learning objectives and workforce demands](align-ai-guidelines-discipline-objectives-workforce.md)
+- [Develop student AI literacy and institutional GenAI policies, guidelines and safeguards for responsible integration](genai-literacy-and-institutional-policy-strategy.md)
 
 ## Related Principles
 - 

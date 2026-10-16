@@ -3,7 +3,7 @@ type: claim
 title: Perceived risk mediates the relationship between perceived academic dishonesty and ChatGPT usage (indirect-only mediation)
 description: Perceived risk mediates the relationship between perceived academic dishonesty and ChatGPT usage (indirect-only mediation)
 id: perceived-risk-mediation-pad-chatgpt
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

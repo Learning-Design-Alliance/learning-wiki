@@ -3,7 +3,7 @@ type: strategy
 id: terracotta-teacher-as-researcher
 title: Teacher-as-researcher experimental design via Terracotta in Canvas
 description: "Terracotta \"puts the teacher in the role of researcher\": within their own Canvas course, instructors can implement many types of activities to manipulate inputs relevant to their unique learning context."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

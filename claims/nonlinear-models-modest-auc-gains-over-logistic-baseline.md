@@ -3,7 +3,7 @@ type: claim
 title: Supplementary nonlinear models yield only modest AUC gains over the calibrated logistic baseline
 description: Supplementary nonlinear models yield only modest AUC gains over the calibrated logistic baseline
 id: nonlinear-models-modest-auc-gains-over-logistic-baseline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: calibrate-safety-thresholds-mastery-baseline
 title: "Calibrate formal safety constraint thresholds against a mastery-only baseline agent's logged behavior"
 description: The article proposes a practitioner procedure for setting constraint thresholds in the four-layer framework.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

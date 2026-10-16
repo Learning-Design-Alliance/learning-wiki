@@ -3,7 +3,7 @@ type: claim
 title: Accounting for learning behavior attenuates profile-related exam score differences, eliminating significance in Python
 description: Accounting for learning behavior attenuates profile-related exam score differences, eliminating significance in Python
 id: learning-behavior-attenuates-profile-score-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: audience-segmented-findings-briefs-with-methods-summary
 title: Disseminate evaluation findings through audience-segmented briefs backed by a shared methods summary
 description: "The article describes a dissemination approach in which a methods summary \"accompanies a series of briefs summarizing results of the Ecree study for different audiences (teachers, students and families, school and dis..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

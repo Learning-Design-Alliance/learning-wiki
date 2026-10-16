@@ -3,7 +3,7 @@ type: claim
 title: Virtual Pre-K CLASS observations were practical in both centers and family child care homes in an Oregon pilot study
 description: Virtual Pre-K CLASS observations were practical in both centers and family child care homes in an Oregon pilot study
 id: virtual-pre-k-class-observations-practical-centers-fccs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Peer feedback promoted critical reflection, collaboration and engagement, but students doubted its reliability because peers were statistics beginners
 description: Peer feedback promoted critical reflection, collaboration and engagement, but students doubted its reliability because peers were statistics beginners
 id: peer-feedback-soft-evaluative-judgement-statistics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Streaming restructured musician economics before generative AI, with per-stream payouts of fractions of a cent
 description: Streaming restructured musician economics before generative AI, with per-stream payouts of fractions of a cent
 id: streaming-devaluation-predates-generative-ai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

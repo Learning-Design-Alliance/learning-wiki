@@ -3,7 +3,7 @@ type: claim
 title: Participation supports were most effective when deliberately matched to the specific constraints participants faced
 description: Participation supports were most effective when deliberately matched to the specific constraints participants faced
 id: supports-matched-to-barriers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

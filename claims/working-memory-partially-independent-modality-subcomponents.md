@@ -3,7 +3,7 @@ type: claim
 title: Working memory includes partially independent subcomponents for auditory/verbal and visual/2- or 3-dimensional information
 description: Working memory includes partially independent subcomponents for auditory/verbal and visual/2- or 3-dimensional information
 id: working-memory-partially-independent-modality-subcomponents
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
@@ -47,3 +47,4 @@ Theoretical assumption stated in the article's abstract as part of cognitive loa
 - [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — related
 - [Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help](redundancy-principle.md) — related
 - [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — related
+- [Working memory is limited in capacity and includes partially independent subcomponents for auditory/verbal and visual/2- or 3-dimensional information](working-memory-limited-with-partially-independent-subcomponents.md) — possibly the same claim (merge candidate)

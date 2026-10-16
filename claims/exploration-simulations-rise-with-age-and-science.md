@@ -3,7 +3,7 @@ type: claim
 title: Exploration simulations increased with teaching age level and were concentrated in secondary science subjects
 description: Exploration simulations increased with teaching age level and were concentrated in secondary science subjects
 id: exploration-simulations-rise-with-age-and-science
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

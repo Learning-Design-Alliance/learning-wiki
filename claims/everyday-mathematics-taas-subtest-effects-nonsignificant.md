@@ -3,7 +3,7 @@ type: claim
 title: Everyday Mathematics® showed positive effects on TAAS math subtests (Concepts, Operations, Problem Solving) with effect sizes of 0.25 to 0.31 that were not statistically significant after clustering correction
 description: Everyday Mathematics® showed positive effects on TAAS math subtests (Concepts, Operations, Problem Solving) with effect sizes of 0.25 to 0.31 that were not statistically significant after clustering correction
 id: everyday-mathematics-taas-subtest-effects-nonsignificant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

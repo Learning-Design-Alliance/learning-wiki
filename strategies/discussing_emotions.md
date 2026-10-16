@@ -70,7 +70,7 @@ Emotions are causally linked to achievement through their effects on attention, 
 
 ## Examples
 - **RULER approach** ([Yale Center for Emotional Intelligence](https://ei.yale.edu)) — classrooms use a Mood Meter, a co-created Charter, and regular "Meta-Moments" to make emotion discussion a standing routine; validated in school-based studies.
-- **'What's My Emotion?' game check-in** — a gamified opening routine in which learners match scenario cards to emotion labels, building vocabulary before deeper discussion.
+- **['What's My Emotion?' game check-in](whats_my_emotion_game_check-in.md)** — a gamified opening routine in which learners match scenario cards to emotion labels, building vocabulary before deeper discussion.
 - **Second Step curriculum** ([Committee for Children](https://www.secondstep.org)) — published SEL lessons in which structured emotion identification and discussion are core activities across K–8.
 - **Medical and clinical education debriefs** — post-simulation debriefing protocols (e.g., PEARLS) explicitly ask trainees to name emotional reactions to high-stakes cases before analyzing performance.
 

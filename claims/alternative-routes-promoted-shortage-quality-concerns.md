@@ -3,7 +3,7 @@ type: claim
 title: Alternative routes to teaching were promoted in the past decade because of concerns about teacher shortages and teacher quality
 description: Alternative routes to teaching were promoted in the past decade because of concerns about teacher shortages and teacher quality
 id: alternative-routes-promoted-shortage-quality-concerns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Under Tennessee's 2015 co-requisite remediation policy, completing SAILS no longer produced any boost in college credits"
 description: "Under Tennessee's 2015 co-requisite remediation policy, completing SAILS no longer produced any boost in college credits"
 id: sails-no-credit-boost-under-co-requisite-policy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

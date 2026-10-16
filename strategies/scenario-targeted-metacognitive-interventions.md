@@ -3,7 +3,7 @@ type: strategy
 id: scenario-targeted-metacognitive-interventions
 title: "Scenario-targeted professional development interventions matched to learners' current metacognitive configuration"
 description: "The article recommends replacing generic metacognitive training with interventions designed for a learner's diagnosed scenario."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -51,4 +51,4 @@ The article recommends replacing generic metacognitive training with interventio
 -
 
 ## Key Sources
-- Gibson, D. C., Azukas, M. E., & Yilmaz Soylu, M. (2025). A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Constraints. https://arxiv.org/abs/2605.24142
+- Gibson, D. C., Azukas, M. E., & Yilmaz Soylu, M. (2025). A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Constraints. https://arxiv.org/abs/2605.24142. [doi:10.48550/arxiv.2605.24142](https://doi.org/10.48550/arxiv.2605.24142)

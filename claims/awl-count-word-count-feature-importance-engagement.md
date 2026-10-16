@@ -3,7 +3,7 @@ type: claim
 title: Academic word list count, word count, and Flesch-Kincaid grade level are the most important features for predicting cognitive engagement in discussion posts
 description: Academic word list count, word count, and Flesch-Kincaid grade level are the most important features for predicting cognitive engagement in discussion posts
 id: awl-count-word-count-feature-importance-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

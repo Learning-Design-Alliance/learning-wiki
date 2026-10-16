@@ -4,7 +4,7 @@ id: combined-trust-and-panorama-teacher-and-staff-survey-instrument
 title: Combined TRUST and Panorama Teacher and Staff Survey instrument
 description: A teacher-and-staff survey instrument assembled by Tommy Wells et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

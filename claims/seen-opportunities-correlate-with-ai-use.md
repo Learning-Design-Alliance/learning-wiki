@@ -3,7 +3,7 @@ type: claim
 title: Teachers who see AI usage opportunities more frequently use AI significantly more often (r = .45 in class)
 description: Teachers who see AI usage opportunities more frequently use AI significantly more often (r = .45 in class)
 id: seen-opportunities-correlate-with-ai-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

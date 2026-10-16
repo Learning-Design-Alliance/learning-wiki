@@ -3,7 +3,7 @@ type: claim
 title: A convening of regional employers in western Pennsylvania identified soft skills that employers look for in new hires
 description: A convening of regional employers in western Pennsylvania identified soft skills that employers look for in new hires
 id: western-pa-employer-convening-soft-skills-new-hires
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

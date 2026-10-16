@@ -3,7 +3,7 @@ type: claim
 title: "Student GenAI use patterns shifted across assessments: Learning and Formatting dominated under purpose-specific use, while Feedback became the dominant use (66.7%) under open use"
 description: "Student GenAI use patterns shifted across assessments: Learning and Formatting dominated under purpose-specific use, while Feedback became the dominant use (66.7%) under open use"
 id: genai-use-functions-shift-toward-feedback-across-assessments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

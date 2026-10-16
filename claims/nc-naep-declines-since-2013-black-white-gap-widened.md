@@ -3,7 +3,7 @@ type: claim
 title: North Carolina achievement has declined since 2013 and the Black-White NAEP gap widened between 2015 and 2017 in both eighth grade mathematics and reading
 description: North Carolina achievement has declined since 2013 and the Black-White NAEP gap widened between 2015 and 2017 in both eighth grade mathematics and reading
 id: nc-naep-declines-since-2013-black-white-gap-widened
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

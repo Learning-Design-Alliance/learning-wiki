@@ -3,7 +3,7 @@ type: claim
 title: Not all educators develop impact concerns even when colleagues do; concern change cannot be forced by an outside agent
 description: Not all educators develop impact concerns even when colleagues do; concern change cannot be forced by an outside agent
 id: not-all-educators-develop-impact-concerns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

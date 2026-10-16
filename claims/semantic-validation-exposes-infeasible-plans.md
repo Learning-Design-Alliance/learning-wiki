@@ -3,7 +3,7 @@ type: claim
 title: Activating availability constraints in the IP pipeline lowers SHACL conformance to 0.875 without reducing optimization cost, exposing infeasible plans
 description: Activating availability constraints in the IP pipeline lowers SHACL conformance to 0.875 without reducing optimization cost, exposing infeasible plans
 id: semantic-validation-exposes-infeasible-plans
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

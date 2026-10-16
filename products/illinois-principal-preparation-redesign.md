@@ -4,7 +4,7 @@ id: illinois-principal-preparation-redesign
 title: Illinois principal preparation redesign
 description: A statewide Illinois policy and programme redesign for preparing and certifying school principals through selective admissions, competency-based coursework, internships, and performance assessments.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

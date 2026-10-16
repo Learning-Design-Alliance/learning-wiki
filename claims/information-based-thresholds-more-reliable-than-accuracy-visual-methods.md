@@ -3,7 +3,7 @@ type: claim
 title: Information-based rapid-guessing threshold methods set thresholds more reliably than methods based on response accuracy or visual inspection
 description: Information-based rapid-guessing threshold methods set thresholds more reliably than methods based on response accuracy or visual inspection
 id: information-based-thresholds-more-reliable-than-accuracy-visual-methods
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

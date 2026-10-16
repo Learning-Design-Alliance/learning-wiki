@@ -3,7 +3,7 @@ type: claim
 title: Human item-level scores on bash command exams are strongly bimodal, concentrated at zero and near-full credit with little intermediate partial credit
 description: Human item-level scores on bash command exams are strongly bimodal, concentrated at zero and near-full credit with little intermediate partial credit
 id: human-bash-scores-bimodal-zero-or-near-full
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

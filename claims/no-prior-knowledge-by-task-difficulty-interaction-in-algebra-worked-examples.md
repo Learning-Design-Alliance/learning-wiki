@@ -3,7 +3,7 @@ type: claim
 title: No significant interaction between prior knowledge and task difficulty was observed in a worked-example algebra study
 description: No significant interaction between prior knowledge and task difficulty was observed in a worked-example algebra study
 id: no-prior-knowledge-by-task-difficulty-interaction-in-algebra-worked-examples
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

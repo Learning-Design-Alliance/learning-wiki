@@ -3,7 +3,7 @@ type: claim
 title: The evidence base for Read Well® with English language learners is small, resting on one randomized controlled trial of 34 students in one school
 description: The evidence base for Read Well® with English language learners is small, resting on one randomized controlled trial of 34 students in one school
 id: read-well-ell-evidence-base-small-one-rct
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

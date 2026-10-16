@@ -3,7 +3,7 @@ type: strategy
 id: family-navigators-for-english-learners
 title: Assign a compensated navigator to each family to connect English learner households with learning and support services
 description: "The guide recommends assigning a \"navigator\" to each family, particularly for students learning remotely."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

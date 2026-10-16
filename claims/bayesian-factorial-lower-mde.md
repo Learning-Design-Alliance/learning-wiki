@@ -4,7 +4,7 @@ title: Bayesian analysis yields substantially lower minimum detectable effects t
 description: Bayesian analysis yields substantially lower minimum detectable effects than classical methods for complex factorial experiments
 id: bayesian-factorial-lower-mde
 aliases: [bayesian-factorial-lower-mde-than-classical]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

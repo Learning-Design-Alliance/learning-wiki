@@ -3,7 +3,7 @@ type: strategy
 id: california-grant-programs-fund-tk-residencies
 title: Leverage California state grant programs to fund TK-focused teacher residencies
 description: "The brief identifies more than $2.5 billion in recent California investments that can be leveraged to build a qualified TK workforce through residencies: the Teacher Residency Grant Program (to plan, establish, or exp..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

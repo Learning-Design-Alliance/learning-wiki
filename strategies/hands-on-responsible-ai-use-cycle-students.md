@@ -3,7 +3,7 @@ type: strategy
 id: hands-on-responsible-ai-use-cycle-students
 title: Foster hands-on student practice of the full responsible AI use cycle across authentic contexts
 description: "The brief recommends integrating practical, hands-on experiences—simulations and project-based learning—where students practice the full cycle of responsible AI use: determining whether AI use is appropriate for a tas..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -4,7 +4,7 @@ id: maryland-teacher-and-principal-evaluation-system
 title: Maryland Teacher and Principal Evaluation System
 description: A statewide educator-evaluation programme combining professional-practice ratings with student-growth measures, administered by the Maryland State Department of Education.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

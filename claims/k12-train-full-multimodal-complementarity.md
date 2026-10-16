@@ -3,7 +3,7 @@ type: claim
 title: K12-Train-Full achieves the best overall performance on three multimodal educational benchmarks, and textual and visual supervision are complementary
 description: K12-Train-Full achieves the best overall performance on three multimodal educational benchmarks, and textual and visual supervision are complementary
 id: k12-train-full-multimodal-complementarity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

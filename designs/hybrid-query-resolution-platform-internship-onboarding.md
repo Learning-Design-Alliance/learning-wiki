@@ -3,7 +3,7 @@ type: design
 id: hybrid-query-resolution-platform-internship-onboarding
 title: Hybrid query-resolution platform routing queries across AI assistant, peer layer, curated FAQ corpus and administrator escalation
 description: "A deployed support platform for a large online internship programme that routes each raised query across four paths: an AI chatbot answering only from a curated FAQ corpus, a peer layer where any participant may answe..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11
@@ -50,4 +50,4 @@ A deployed support platform for a large online internship programme that routes 
 -
 
 ## Key Sources
-- Gupta, J., Ayinampudi, P., Aditya B.M.V., Hegade, P., Sharma, R., Sharma, S., Meenakshi, V., Iyengar, S.R.S. (2026). What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System. arXiv:2609.38967. https://arxiv.org/abs/2609.38967
+- Gupta, J., Ayinampudi, P., Aditya B.M.V., Hegade, P., Sharma, R., Sharma, S., Meenakshi, V., Iyengar, S.R.S. (2026). What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System. arXiv:2609.38967. https://arxiv.org/abs/2609.38967. [doi:10.48550/arxiv.2609.38967](https://doi.org/10.48550/arxiv.2609.38967)

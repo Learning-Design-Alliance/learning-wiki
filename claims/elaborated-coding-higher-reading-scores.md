@@ -3,7 +3,7 @@ type: claim
 title: Elaborated coding was associated with higher reading scores among the observed children
 description: Elaborated coding was associated with higher reading scores among the observed children
 id: elaborated-coding-higher-reading-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

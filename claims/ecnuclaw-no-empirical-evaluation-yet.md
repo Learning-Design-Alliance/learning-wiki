@@ -3,7 +3,7 @@ type: claim
 title: "The system has no empirical evaluation yet: profile accuracy has not been assessed and learning outcomes remain an open question"
 description: "The system has no empirical evaluation yet: profile accuracy has not been assessed and learning outcomes remain an open question"
 id: ecnuclaw-no-empirical-evaluation-yet
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

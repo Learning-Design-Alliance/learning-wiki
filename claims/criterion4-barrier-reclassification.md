@@ -3,7 +3,7 @@ type: claim
 title: "Many English-only students would fail locally determined cutoff scores often applied to English Learner students under California's Criterion 4 basic-skills requirement"
 description: "Many English-only students would fail locally determined cutoff scores often applied to English Learner students under California's Criterion 4 basic-skills requirement"
 id: criterion4-barrier-reclassification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

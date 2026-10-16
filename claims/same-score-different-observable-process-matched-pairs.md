@@ -3,7 +3,7 @@ type: claim
 title: Identical assessed performance can coexist with different observable configurations of Direction, Integration, and Evaluation, even when score and conversation length are held constant
 description: Identical assessed performance can coexist with different observable configurations of Direction, Integration, and Evaluation, even when score and conversation length are held constant
 id: same-score-different-observable-process-matched-pairs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

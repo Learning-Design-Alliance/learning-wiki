@@ -3,7 +3,7 @@ type: strategy
 id: include-female-leaders-perspectives-in-administration-study
 title: "Include female principals' care-based perspectives in the study and preparation of educational administrators"
 description: The article argues that as women increasingly enter administrative preparation programs and positions, their perspectives and practices must be included in the study of educational administration.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

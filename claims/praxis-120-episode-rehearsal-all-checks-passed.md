@@ -3,7 +3,7 @@ type: claim
 title: A frozen synthetic rehearsal of 120 serial project episodes passed all 3,990 recorded checks with zero unexpected failures
 description: A frozen synthetic rehearsal of 120 serial project episodes passed all 3,990 recorded checks with zero unexpected failures
 id: praxis-120-episode-rehearsal-all-checks-passed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

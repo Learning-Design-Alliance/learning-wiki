@@ -3,7 +3,7 @@ type: strategy
 id: ielts-listening-strategies-tips-instruction
 title: Teach IELTS listening through explicit strategies and tips alongside task-based materials
 description: The study prepared a set of strategic tips for IELTS listening, drawn from IELTS books, with which learners were instructed during treatment.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

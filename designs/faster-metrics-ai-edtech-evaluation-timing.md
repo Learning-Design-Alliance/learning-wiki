@@ -3,7 +3,7 @@ type: design
 id: faster-metrics-ai-edtech-evaluation-timing
 title: Build evaluation frameworks with faster metrics and role-specific data access to time contract decisions
 description: "The article identifies a timing misalignment: districts must make contract renewal decisions before reliable outcome data arrive, since state test results typically arrive in mid- to late summer after procurement cycl..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

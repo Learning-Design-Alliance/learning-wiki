@@ -3,7 +3,7 @@ type: claim
 title: "Gen-AI has a moderate positive overall effect on students' higher-order thinking (g = 0.609) across 29 experimental and quasi-experimental studies"
 description: "Gen-AI has a moderate positive overall effect on students' higher-order thinking (g = 0.609) across 29 experimental and quasi-experimental studies"
 id: genai-moderate-positive-effect-hot
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
@@ -52,3 +52,5 @@ Random-effects meta-analysis of 59 effect sizes from 29 experimental and quasi-e
 - [GenAI-supported learning is associated with higher learning motivation on average (g = 0.764), but with very high between-study heterogeneity (I2 = 93.7%)](genai-learning-motivation-g081.md) — related
 - [AI literacy interventions show a large, statistically significant overall positive effect on student AI literacy outcomes (g = 0.837)](ai-literacy-interventions-large-overall-effect.md) — related
 - Study quality moderated estimated effects: quasi-experimental designs yielded higher effect size estimates than random designs, and strong validity reporting was associated with higher estimates — related
+- [AI-enabled personalized STEM education yields a small but statistically significant overall effect (g = 0.455) compared with traditional non-AI instruction in K-12 schools](ai-personalized-stem-overall-effect-g0455.md) — related
+- [Prior meta-analytic evidence indicates chatbot technology has a substantial positive effect on overall learning outcomes and knowledge retention, but not on critical thinking, engagement, or motivation](chatbot-meta-analysis-learning-outcomes-retention.md) — reports the opposite

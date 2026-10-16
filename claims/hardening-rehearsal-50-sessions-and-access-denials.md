@@ -3,7 +3,7 @@ type: claim
 title: A deployment-hardening rehearsal with 50 distinct learner accounts recorded 50 completed sessions, 50 successful board pulls and 50 denials of student analytics access, with a median API session time of 3.064 s
 description: A deployment-hardening rehearsal with 50 distinct learner accounts recorded 50 completed sessions, 50 successful board pulls and 50 denials of student analytics access, with a median API session time of 3.064 s
 id: hardening-rehearsal-50-sessions-and-access-denials
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

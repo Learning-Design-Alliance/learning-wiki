@@ -4,7 +4,7 @@ id: wested-center-on-school-turnaround-journeys-project
 title: WestEd Center on School Turnaround Journeys Project
 description: "A WestEd Center on School Turnaround initiative that follows schools' turnaround efforts over time and shares implementation episodes, webinars, research, and practitioner dialogue."
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

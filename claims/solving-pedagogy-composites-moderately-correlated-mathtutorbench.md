@@ -3,7 +3,7 @@ type: claim
 title: Solving-oriented and pedagogy-oriented composite scores on the public MathTutorBench leaderboard are only moderately correlated (Pearson 0.421, Spearman 0.690)
 description: Solving-oriented and pedagogy-oriented composite scores on the public MathTutorBench leaderboard are only moderately correlated (Pearson 0.421, Spearman 0.690)
 id: solving-pedagogy-composites-moderately-correlated-mathtutorbench
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

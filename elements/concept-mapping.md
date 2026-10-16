@@ -53,7 +53,7 @@ Concept mapping is the element in which learners represent concepts and their re
 - [Advance Organizers](advance-organizers.md)
 - [Knowledge Synthesis](knowledge-synthesis.md)
 - [Collective Concept Mapping](collective-concept-mapping.md)
-- [Concept/semantic map](concept-semantic-map-element.md)
+- [Concept/semantic map](concept-map.md)
 
 ## Patterns That Use This Element
 - [Elaboration Theory](../patterns/elaboration-theory.md)

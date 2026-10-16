@@ -3,7 +3,7 @@ type: claim
 title: Academic procrastination and learned helplessness positively predict cheating tendency, while academic self-efficacy negatively predicts it among university students
 description: Academic procrastination and learned helplessness positively predict cheating tendency, while academic self-efficacy negatively predicts it among university students
 id: psychological-antecedents-predict-cheating-tendency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

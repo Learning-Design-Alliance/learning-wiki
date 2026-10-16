@@ -3,7 +3,7 @@ type: strategy
 id: process-oriented-assessment-four-stage-model
 title: "Replace detector-centred assessment with a four-stage process-oriented model: declared starting point, versioned drafting, process artefacts, and targeted oral verification"
 description: "The paper proposes a concrete process-oriented assessment model in which \"Students submit a short proposal and annotated source list\" and the assessment brief states explicitly which AI functions are permitted, which..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

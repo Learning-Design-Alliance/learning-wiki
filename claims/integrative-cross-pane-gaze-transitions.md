@@ -3,7 +3,7 @@ type: claim
 title: Gaze transitions show integrative cross-pane viewing, with most participants beginning on memory and cycling between code and memory
 description: Gaze transitions show integrative cross-pane viewing, with most participants beginning on memory and cycling between code and memory
 id: integrative-cross-pane-gaze-transitions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

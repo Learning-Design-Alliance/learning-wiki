@@ -3,7 +3,7 @@ type: claim
 title: Measurable vocal outputs do not by themselves carry fixed pedagogical meaning; their significance depends on interpretation in context
 description: Measurable vocal outputs do not by themselves carry fixed pedagogical meaning; their significance depends on interpretation in context
 id: vocal-metrics-lack-fixed-pedagogical-meaning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

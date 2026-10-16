@@ -3,7 +3,7 @@ type: claim
 title: Second-year students report higher job finding anxiety and AI anxiety than students in other academic years
 description: Second-year students report higher job finding anxiety and AI anxiety than students in other academic years
 id: second-year-students-higher-job-finding-anxiety
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

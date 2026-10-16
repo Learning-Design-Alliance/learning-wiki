@@ -3,7 +3,7 @@ type: claim
 title: The report examined value-added implementation in seven school districts or states
 description: The report examined value-added implementation in seven school districts or states
 id: vam-report-examined-seven-district-states-implementation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

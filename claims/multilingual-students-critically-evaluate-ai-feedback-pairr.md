@@ -3,7 +3,7 @@ type: claim
 title: Three multilingual international students critically evaluated AI feedback, recognized peer-AI agreement, and maintained their voices while revising
 description: Three multilingual international students critically evaluated AI feedback, recognized peer-AI agreement, and maintained their voices while revising
 id: multilingual-students-critically-evaluate-ai-feedback-pairr
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

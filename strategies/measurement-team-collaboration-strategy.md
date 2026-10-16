@@ -3,7 +3,7 @@ type: strategy
 id: measurement-team-collaboration-strategy
 title: Have measurement team members collaborate to complete measurement tasks successfully
 description: The brief discusses how measurement team members can work together to complete measurement tasks successfully.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

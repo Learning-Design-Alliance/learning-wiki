@@ -3,7 +3,7 @@ type: claim
 title: "Negative sentiment peaks were tied to specific events: AI governance failures in 2019 and 2021 and diffuse academic-integrity anxiety after ChatGPT in 2023"
 description: "Negative sentiment peaks were tied to specific events: AI governance failures in 2019 and 2021 and diffuse academic-integrity anxiety after ChatGPT in 2023"
 id: negative-peaks-tied-to-governance-failures-and-integrity-anxiety
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

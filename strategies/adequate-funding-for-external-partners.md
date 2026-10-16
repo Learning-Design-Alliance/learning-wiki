@@ -3,7 +3,7 @@ type: strategy
 id: adequate-funding-for-external-partners
 title: Provide external partners with adequate, sustained financial resources proportionate to their school-improvement scope
 description: "The report shows that funding for external partners was modest relative to their tasks: in 1999 partners received on average about $160,000 to work with an average of four to five schools, and per-school funding repre..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

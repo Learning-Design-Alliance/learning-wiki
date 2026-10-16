@@ -3,7 +3,7 @@ type: design
 id: rag-gpt4o-tutor-training-lesson-generator
 title: RAG-based GPT-4o lesson generation system with task-decomposition prompting for tutor training lessons
 description: A two-step system in which a lesson designer first retrieves research articles on effective tutoring practices, then uses them to prompt the GPT-4o model (gpt-4o-2024-05-13) to generate scenario-based lessons for trai...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

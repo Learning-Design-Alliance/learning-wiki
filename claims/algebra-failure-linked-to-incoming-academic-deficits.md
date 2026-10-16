@@ -3,7 +3,7 @@ type: claim
 title: Students who fail Algebra I more often enter ninth grade with preexisting math and reading deficits, though many enter with average or higher achievement
 description: Students who fail Algebra I more often enter ninth grade with preexisting math and reading deficits, though many enter with average or higher achievement
 id: algebra-failure-linked-to-incoming-academic-deficits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

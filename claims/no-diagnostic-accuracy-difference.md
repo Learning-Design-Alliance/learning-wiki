@@ -3,7 +3,7 @@ type: claim
 title: Multi-agent scaffolding did not change binary diagnostic accuracy or worksheet completion relative to the structured control
 description: Multi-agent scaffolding did not change binary diagnostic accuracy or worksheet completion relative to the structured control
 id: no-diagnostic-accuracy-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

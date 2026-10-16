@@ -3,7 +3,7 @@ type: claim
 title: Classroom composition (prior achievement, race, socioeconomic status, gender) showed virtually no relationship to exposure to high-quality assignments
 description: Classroom composition (prior achievement, race, socioeconomic status, gender) showed virtually no relationship to exposure to high-quality assignments
 id: classroom-composition-not-linked-assignment-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

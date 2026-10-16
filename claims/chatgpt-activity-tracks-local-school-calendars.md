@@ -3,7 +3,7 @@ type: claim
 title: ChatGPT search activity is higher while local K-12 schools are in session, tracking local school calendars
 description: ChatGPT search activity is higher while local K-12 schools are in session, tracking local school calendars
 id: chatgpt-activity-tracks-local-school-calendars
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

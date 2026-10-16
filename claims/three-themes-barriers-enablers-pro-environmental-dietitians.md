@@ -3,7 +3,7 @@ type: claim
 title: "Dietitians' barriers and enablers to pro-environmental action fall into three themes: personal, social and professional, and contextual and environmental factors"
 description: "Dietitians' barriers and enablers to pro-environmental action fall into three themes: personal, social and professional, and contextual and environmental factors"
 id: three-themes-barriers-enablers-pro-environmental-dietitians
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: strategy
 id: multilevel-interventions-ai-academic-dishonesty
 title: Combine psychologically informed, ethically grounded, and institutionally supported interventions to reduce AI-assisted academic dishonesty
 description: Because the study found AI-assisted dishonesty to be a multilevel outcome shaped by psychological vulnerabilities, cheating tendency, AI use, and socio-contextual factors, it recommends interventions that operate at s...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

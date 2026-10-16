@@ -3,7 +3,7 @@ type: design
 id: skyline-college-ece-lab-school-program
 title: "Skyline College Education/Child Development Program: community college lab school with mentored clinical practice"
 description: "Skyline College's Education/Child Development Program is a traditional community college department preparing early educators for classroom teaching toward an associate degree or Child Development Permit."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Drawing improves STEM learning by a small-to-moderate amount over not drawing and over other active study strategies, in one meta-analysis"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

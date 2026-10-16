@@ -3,7 +3,7 @@ type: claim
 title: The full-day vs. half-day attendance gap was largest for Black students, at about 4-5 percentage points
 description: The full-day vs.
 id: black-students-largest-fullday-attendance-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

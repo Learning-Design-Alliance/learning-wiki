@@ -3,7 +3,7 @@ type: claim
 title: "The dataset's 12 question templates contain 47 criteria, with question maxima ranging from 5 to 16 marks"
 description: "The dataset's 12 question templates contain 47 criteria, with question maxima ranging from 5 to 16 marks"
 id: twelve-templates-47-criteria
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

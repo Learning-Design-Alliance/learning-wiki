@@ -3,7 +3,7 @@ type: element
 id: indonesian-bilingual-policy-document-corpus
 title: Meta-analysis corpus of 21 published policies and papers on Indonesian bilingual higher education (2015–2019)
 description: "The study's sample is a corpus of published policies and papers limited to the last five years (2015–2019), drawn from \"reputable documents indexed in Scopus and Web of Science.\" Table 1 lists 11 journal articles (cod..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

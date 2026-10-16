@@ -3,7 +3,7 @@ type: strategy
 id: structural-assessment-reform-over-technological-solutionism
 title: Disrupt the performative assessment cycle through structural assessment reform rather than technological solutionism
 description: "The article argues that humanizer services are a diagnostic signal of a feedback loop in which assessment demands, student behavior, and commercial services are mutually implicated, and that \"disrupting this cycle mus..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -47,4 +47,4 @@ The article argues that humanizer services are a diagnostic signal of a feedback
 -
 
 ## Key Sources
-- Roe, J., Perkins, M., Bannister, P., Furze, L., & Wood, J. (2026). Dramaturgies of Deception: AI Humanizers and the Performance of Legitimacy in Higher Education Assessment. A preprint. https://arxiv.org/abs/2605.02649
+- Roe, J., Perkins, M., Bannister, P., Furze, L., & Wood, J. (2026). Dramaturgies of Deception: AI Humanizers and the Performance of Legitimacy in Higher Education Assessment. A preprint. https://arxiv.org/abs/2605.02649. [doi:10.48550/arxiv.2605.02649](https://doi.org/10.48550/arxiv.2605.02649)

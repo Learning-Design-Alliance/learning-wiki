@@ -4,7 +4,7 @@ id: adapted-tpack-21-questionnaire-for-genai-infused-higher-education-instructio
 title: Adapted TPACK-21 questionnaire for GenAI-infused higher education instruction
 description: A six-point faculty self-report questionnaire adapted from the Valtonen et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

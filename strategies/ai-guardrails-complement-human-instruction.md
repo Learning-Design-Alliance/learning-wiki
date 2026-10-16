@@ -3,7 +3,7 @@ type: strategy
 id: ai-guardrails-complement-human-instruction
 title: Set clear AI guardrails positioning AI as a complement to human instruction with age-appropriate progressions
 description: "The report's fourth use case describes how Indian Prairie SD's governance was grounded in 'a belief statement and set of principles that positioned the use of AI as a complement, not replacement, to human instruction...."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

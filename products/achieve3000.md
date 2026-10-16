@@ -4,7 +4,7 @@ id: achieve3000
 title: Achieve3000
 description: Achieve3000® is a supplemental online literacy platform developed and provided by Achieve3000 that delivers differentiated nonfiction reading and writing instruction for learners from preK through grade 12.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
@@ -62,12 +62,12 @@ Achieve3000® is a supplemental online literacy platform developed and provided 
 ## Key Sources
 - What Works Clearinghouse, Institute of Education Sciences, U.S. Department of Education. (2018). Adolescent Literacy intervention report: Achieve3000®. https://whatworks.ed.gov
 - Achieve3000 Evidence Rating Summary. (2017). https://www.achieve3000.com
-- Luke, Christina C.; Gibson, Sierra; Francisco, Aubrey T. (2017). Rapid Cycle Pilots: Using Edtech to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/383e02ba-587a-4192-be68-175543798661
+- Luke, Christina C.; Gibson, Sierra; Francisco, Aubrey T. (2017). Rapid Cycle Pilots: Using Edtech to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/383e02ba-587a-4192-be68-175543798661. [doi:10.51388/20.500.12265/26](https://doi.org/10.51388/20.500.12265/26)
 - Achieve3000. (2021). Achieve3000 evidence rating and program description. https://www.achieve3000.com
 
 <!-- merged 2026-10-10 from elements/achieve3000-five-step-literacy-routine ("Achieve3000® five-step differentiated online literacy routine"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Achieve3000 Evidence Rating Summary. (2017). https://www.achieve3000.com
-- Luke, Christina C.; Gibson, Sierra; Francisco, Aubrey T. (2017). Rapid Cycle Pilots: Using Edtech to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/383e02ba-587a-4192-be68-175543798661
+- Luke, Christina C.; Gibson, Sierra; Francisco, Aubrey T. (2017). Rapid Cycle Pilots: Using Edtech to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/383e02ba-587a-4192-be68-175543798661. [doi:10.51388/20.500.12265/26](https://doi.org/10.51388/20.500.12265/26)
 - Achieve3000. (2021). Achieve3000 evidence rating and program description. https://www.achieve3000.com
 
 # Achieve3000® five-step differentiated online literacy routine
@@ -199,7 +199,7 @@ Achieve3000 is a reading-based edtech program piloted in Cajon Valley Unified wi
 -
 
 ## Key Sources
-- Luke, Christina C.; Gibson, Sierra; Francisco, Aubrey T. (2017). Rapid Cycle Pilots: Using Edtech to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/383e02ba-587a-4192-be68-175543798661
+- Luke, Christina C.; Gibson, Sierra; Francisco, Aubrey T. (2017). Rapid Cycle Pilots: Using Edtech to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/383e02ba-587a-4192-be68-175543798661. [doi:10.51388/20.500.12265/26](https://doi.org/10.51388/20.500.12265/26)
 -->
 
 <!-- merged 2026-10-10 from elements/achieve3000-supplemental-literacy-program ("Achieve3000 digital supplemental literacy program for grades 2-12 with grade-level variants"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.

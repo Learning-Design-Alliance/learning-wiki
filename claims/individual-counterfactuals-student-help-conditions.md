@@ -3,7 +3,7 @@ type: claim
 title: Individualised counterfactual inferences estimate whether a specific student would have performed differently under different help conditions
 description: Individualised counterfactual inferences estimate whether a specific student would have performed differently under different help conditions
 id: individual-counterfactuals-student-help-conditions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

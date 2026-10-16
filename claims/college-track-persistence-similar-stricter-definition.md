@@ -3,7 +3,7 @@ type: claim
 title: "College persistence was similar among College Track completers and similar students who enrolled in college, despite College Track's stricter persistence definition"
 description: "College persistence was similar among College Track completers and similar students who enrolled in college, despite College Track's stricter persistence definition"
 id: college-track-persistence-similar-stricter-definition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

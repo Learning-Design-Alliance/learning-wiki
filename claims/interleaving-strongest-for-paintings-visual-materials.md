@@ -3,7 +3,7 @@ type: claim
 title: The interleaving effect generalizes to visual materials, with the largest effects for paintings
 description: The interleaving effect generalizes to visual materials, with the largest effects for paintings
 id: interleaving-strongest-for-paintings-visual-materials
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

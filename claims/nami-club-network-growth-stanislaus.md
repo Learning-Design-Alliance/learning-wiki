@@ -3,7 +3,7 @@ type: claim
 title: The NAMI On Campus initiative in Stanislaus County grew from a couple of campuses to 20 high schools, 6 middle schools, and 1 university club with more than 500 mental health champions
 description: The NAMI On Campus initiative in Stanislaus County grew from a couple of campuses to 20 high schools, 6 middle schools, and 1 university club with more than 500 mental health champions
 id: nami-club-network-growth-stanislaus
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: design
 id: residency-site-coordinator-role
 title: Residency clinical faculty site coordinator role
 description: "The site coordinator is a clinical faculty role at residency partner educator preparation programs, described by US PREP as a \"critical linchpin\" to transformed residencies and much expanded compared to typical clinic..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

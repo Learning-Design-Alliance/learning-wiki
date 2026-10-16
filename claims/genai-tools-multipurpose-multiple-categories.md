@@ -3,7 +3,7 @@ type: claim
 title: Many contemporary generative AI tools serve multiple educational purposes, with several tools appearing in multiple typology categories
 description: Many contemporary generative AI tools serve multiple educational purposes, with several tools appearing in multiple typology categories
 id: genai-tools-multipurpose-multiple-categories
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
@@ -47,3 +47,4 @@ Descriptive observation from the survey-based typology in the Introduction. The 
 - [The most common purpose of AI in instructional design is enhancing or assisting the design process itself (22 of 28 studies, 78.5%)](ai-mostly-enhances-assists-id-process.md) — related
 - [Educators use AI tools mainly for personalized learning and language support and frequently use generative AI for lesson planning](educators-ai-use-personalization-lesson-planning.md) — related
 - [Typology tools are ordered by educator-reported frequency of use within each category](typology-tools-ordered-by-reported-frequency.md) — related
+- [Teachers use ChatGPT for personal and professional learning and resource generation, while students use it as a personal tutor for various learning purposes.](chatgpt-teacher-resource-generation-student-personal-tutor.md) — related

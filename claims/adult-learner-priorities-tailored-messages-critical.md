@@ -3,7 +3,7 @@ type: claim
 title: "The brief reports that adult learners' priorities differ from traditional-age students', making appropriate messages critical to engaging them"
 description: "The brief reports that adult learners' priorities differ from traditional-age students', making appropriate messages critical to engaging them"
 id: adult-learner-priorities-tailored-messages-critical
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

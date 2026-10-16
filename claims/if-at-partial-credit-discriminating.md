@@ -3,7 +3,7 @@ type: claim
 title: "Partial credit under the IF-AT is granted in a discriminating manner: top final-exam scorers earned 65% ± 23% of available partial credit versus 39% ± 10% for bottom scorers"
 description: "Partial credit under the IF-AT is granted in a discriminating manner: top final-exam scorers earned 65% ± 23% of available partial credit versus 39% ± 10% for bottom scorers"
 id: if-at-partial-credit-discriminating
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

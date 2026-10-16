@@ -3,7 +3,7 @@ type: claim
 title: Students in a computationally intensive introductory physics course show large-magnitude growth in Data Practices and moderate growth in Computational Problem-Solving and Systems Thinking on written CT assessments
 description: Students in a computationally intensive introductory physics course show large-magnitude growth in Data Practices and moderate growth in Computational Problem-Solving and Systems Thinking on written CT assessments
 id: ct-growth-data-practices-intro-physics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: administrator-coach-regular-meetings
 title: Meet consistently with the coach throughout the school year in dedicated one-on-one time
 description: "The report's fourth action is consistent administrator-coach meetings across the year."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

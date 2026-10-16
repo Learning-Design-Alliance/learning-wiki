@@ -3,7 +3,7 @@ type: claim
 title: Per-participant implementation costs fall substantially in leaner implementation models without a warm-up year or local coach
 description: Per-participant implementation costs fall substantially in leaner implementation models without a warm-up year or local coach
 id: assistments-sensitivity-lower-cost-scenarios
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

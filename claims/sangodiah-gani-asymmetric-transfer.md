@@ -3,7 +3,7 @@ type: claim
 title: "Transfer between two specific datasets is asymmetric: Sangodiah-trained models transfer unusually well to Gani questions"
 description: "Transfer between two specific datasets is asymmetric: Sangodiah-trained models transfer unusually well to Gani questions"
 id: sangodiah-gani-asymmetric-transfer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -2,7 +2,7 @@
 type: theory
 title: "Inquiry-first teaching: plan the instructional route from learners' existing concepts and attitudes"
 description: "The report's organizing theory is that teaching, like a journey, must be planned in relation to the starting point: a teacher builds instruction on what learners already know, believe, and can do."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

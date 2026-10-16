@@ -3,7 +3,7 @@ type: strategy
 id: prioritize-pd-for-early-career-principals
 title: Prioritize professional development access for early-career principals and focus it on instructional leadership to accelerate their effectiveness
 description: "The report's findings support directing professional development resources toward early-career principals, for whom the student-achievement associations are largest, and toward content on leading instruction."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

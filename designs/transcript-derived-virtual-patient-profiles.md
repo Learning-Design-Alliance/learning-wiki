@@ -3,7 +3,7 @@ type: design
 id: transcript-derived-virtual-patient-profiles
 title: Transcript-derived patient profiles conditioning virtual patient behavior across seven dimensions
 description: "Four anonymized patient profiles (two male, two female) were synthesized with GPT-5.2 from 4–7 real ACT sessions each, which \"averaged 58–92 therapist-patient turn pairs and lasted 38–60 minutes\"."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

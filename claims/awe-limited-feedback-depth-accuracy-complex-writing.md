@@ -3,7 +3,7 @@ type: claim
 title: AWE feedback has limited depth and questionable accuracy for evaluating complex writing aspects
 description: AWE feedback has limited depth and questionable accuracy for evaluating complex writing aspects
 id: awe-limited-feedback-depth-accuracy-complex-writing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

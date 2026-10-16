@@ -3,7 +3,7 @@ type: claim
 title: I CAN Learn® has no discernible effects on the mathematics test scores of eighth-grade students in primary mathematics courses
 description: I CAN Learn® has no discernible effects on the mathematics test scores of eighth-grade students in primary mathematics courses
 id: ican-learn-no-discernible-effects-eighth-grade-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Students perceived a jump in accountable disciplinary knowledge in the advanced laboratory, describing more authentic, less prescribed work than in previous labs
 description: Students perceived a jump in accountable disciplinary knowledge in the advanced laboratory, describing more authentic, less prescribed work than in previous labs
 id: adlab-students-perceived-adk-jump-and-authentic-practice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: design
 id: cal-well-referral-pathways-community-of-practice
 title: Mental and behavioral health referral pathways and community of practice
 description: Referral pathways are site-level processes for routing students to behavioral and mental health supports.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

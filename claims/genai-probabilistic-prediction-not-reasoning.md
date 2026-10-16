@@ -3,7 +3,7 @@ type: claim
 title: Generative AI generates responses based on probability and pattern prediction, not reasoning or understanding
 description: Generative AI generates responses based on probability and pattern prediction, not reasoning or understanding
 id: genai-probabilistic-prediction-not-reasoning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: limited-information-then-efficient-em-sequential-procedure
 title: Explore candidate models with limited-information estimation first, then estimate the structured model with the efficient EM algorithm
 description: For settings where researchers have not yet settled on a model structure, the article recommends a two-stage workflow.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -43,4 +43,4 @@ For settings where researchers have not yet settled on a model structure, the ar
 -
 
 ## Key Sources
-- Rijmen, F. (2009). Efficient Full Information Maximum Likelihood Estimation for Multidimensional IRT Models. ETS Research Report RR-09-03. http://www.ets.org/research/contact.html
+- Rijmen, F. (2009). Efficient Full Information Maximum Likelihood Estimation for Multidimensional IRT Models. ETS Research Report RR-09-03. http://www.ets.org/research/contact.html. [doi:10.1002/j.2333-8504.2009.tb02160.x](https://doi.org/10.1002/j.2333-8504.2009.tb02160.x)

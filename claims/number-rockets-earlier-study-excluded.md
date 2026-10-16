@@ -3,7 +3,7 @@ type: claim
 title: "An earlier Number Rockets study showed positive effects but was excluded from evidence ratings because its tutors were the authors' graduate students"
 description: "An earlier Number Rockets study showed positive effects but was excluded from evidence ratings because its tutors were the authors' graduate students"
 id: number-rockets-earlier-study-excluded
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

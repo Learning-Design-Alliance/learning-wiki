@@ -3,7 +3,7 @@ type: claim
 title: Higher extraneous cognitive load predicted lower post-test scores after controlling for prior knowledge
 description: Higher extraneous cognitive load predicted lower post-test scores after controlling for prior knowledge
 id: extraneous-load-predicts-lower-post-test
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -52,3 +52,4 @@ OLS regression on the classroom study's post-test scores with cognitive-load que
 - [Lower-prior-knowledge learners scored higher on an algebra posttest after full-worked than completion-worked examples, while higher-prior-knowledge learners' non-significant advantage ran the other way](lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples.md) — related
 - [Prior knowledge, worked-example type (full vs completion) and task difficulty show a significant three-way interaction on an algebra posttest, but not on self-reported cognitive load](prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest.md) — related
 - [ADA use shows a modest non-significant tendency toward increased intrinsic and extrinsic cognitive load, contrary to prior chatbot research](ada-cognitive-load-slightly-increased-non-significant.md) — related
+- [Students using ChatGPT 3.5 experience lower extraneous cognitive load than students using Google during a web research task](llm-search-lower-extraneous-cognitive-load.md) — related

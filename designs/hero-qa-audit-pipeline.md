@@ -3,7 +3,7 @@ type: design
 id: hero-qa-audit-pipeline
 title: "HERO-QA pipeline: hierarchical retrieval, answer generation with abstention, and a structured-output LLM judge"
 description: HERO-QA is the audit pipeline the article uses to generate and compare answers grounded in different institutional handbooks.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

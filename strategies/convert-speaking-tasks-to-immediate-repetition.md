@@ -3,7 +3,7 @@ type: strategy
 id: convert-speaking-tasks-to-immediate-repetition
 title: Convert ordinary textbook or internet speaking tasks into immediate repetition tasks by adding interlocutor change or task alteration
 description: The author adapted speaking tasks suggested by textbooks or found on the internet to become immediate repetition tasks, normally performed in the last half an hour of class allowing at least three cycles.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

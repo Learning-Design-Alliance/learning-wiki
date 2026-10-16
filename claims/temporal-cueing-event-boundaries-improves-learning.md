@@ -3,7 +3,7 @@ type: claim
 title: Temporal cueing of event boundaries, such as adding key frames to dynamic visualizations, improves posttest performance
 description: Temporal cueing of event boundaries, such as adding key frames to dynamic visualizations, improves posttest performance
 id: temporal-cueing-event-boundaries-improves-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

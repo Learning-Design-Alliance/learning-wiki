@@ -3,7 +3,7 @@ type: claim
 title: Dual language programs are associated with higher achievement and with EB/non-EB achievement gap closure by seventh grade
 description: Dual language programs are associated with higher achievement and with EB/non-EB achievement gap closure by seventh grade
 id: dual-language-programs-gap-closure-longitudinal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

@@ -3,7 +3,7 @@ type: claim
 title: Principals with access to high-quality professional learning opportunities are more likely to stay in the profession
 description: Principals with access to high-quality professional learning opportunities are more likely to stay in the profession
 id: principal-pd-linked-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

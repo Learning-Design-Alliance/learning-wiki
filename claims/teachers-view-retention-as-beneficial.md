@@ -3,7 +3,7 @@ type: claim
 title: "Three-quarters of Chicago teachers viewed retention as improving students' long-term chances of success"
 description: "Three-quarters of Chicago teachers viewed retention as improving students' long-term chances of success"
 id: teachers-view-retention-as-beneficial
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

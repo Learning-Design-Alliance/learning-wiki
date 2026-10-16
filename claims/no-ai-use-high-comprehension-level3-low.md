@@ -3,7 +3,7 @@ type: claim
 title: Students who implemented code without AI (usage level 0) maintained consistently high code comprehension, while level-3 AI users showed very little comprehension in the Mid period
 description: Students who implemented code without AI (usage level 0) maintained consistently high code comprehension, while level-3 AI users showed very little comprehension in the Mid period
 id: no-ai-use-high-comprehension-level3-low
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

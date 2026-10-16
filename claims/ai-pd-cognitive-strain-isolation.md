@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' engagement growth was negotiated through balancing challenges and cognitive load, with some experiences of strain and isolation"
 description: "Teachers' engagement growth was negotiated through balancing challenges and cognitive load, with some experiences of strain and isolation"
 id: ai-pd-cognitive-strain-isolation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

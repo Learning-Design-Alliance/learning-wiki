@@ -3,7 +3,7 @@ type: strategy
 id: future-extensions-interferometer-and-bayesian-unit
 title: Extend the curriculum with student-built interferometer projects and a Bayesian parameter-estimation unit
 description: "The authors' forward-looking recommendations for the integrated curriculum."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
@@ -45,4 +45,4 @@ The authors' forward-looking recommendations for the integrated curriculum. Firs
 -
 
 ## Key Sources
-- Farr, Schelbert, & Trouille. (2012). Gravitational-wave science in the high school classroom. https://arxiv.org/abs/1109.3720
+- Farr, Schelbert, & Trouille. (2012). Gravitational-wave science in the high school classroom. https://arxiv.org/abs/1109.3720. [doi:10.48550/arxiv.1109.3720](https://doi.org/10.48550/arxiv.1109.3720)

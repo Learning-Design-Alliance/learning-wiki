@@ -4,7 +4,7 @@ id: balanced-192-text-evaluation-dataset-of-efl-professional-ai-generated-and-hy
 title: Balanced 192-text evaluation dataset of EFL, professional, AI-generated, and hybrid texts
 description: A research dataset created by Mohammad Hadra et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

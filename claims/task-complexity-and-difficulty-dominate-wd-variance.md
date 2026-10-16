@@ -3,7 +3,7 @@ type: claim
 title: In the simulation, task complexity and task difficulty explain the majority of variance in the individual-learner WD statistic, with some effect of task specificity
 description: In the simulation, task complexity and task difficulty explain the majority of variance in the individual-learner WD statistic, with some effect of task specificity
 id: task-complexity-and-difficulty-dominate-wd-variance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

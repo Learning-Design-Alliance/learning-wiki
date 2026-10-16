@@ -3,7 +3,7 @@ type: design
 id: sdd-template-project-copilot-instructions
 title: SDD template project with copilot-instructions.md custom instructions and docs/ artifact directories for AI-agent workflow in SDPBL
 description: A template project directory for Visual Studio Code distributed to each team to operationalize SDD in the course.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

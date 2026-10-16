@@ -3,7 +3,7 @@ type: claim
 title: Contextual themes (extracurricular activities, environmental/school safety) are associated with school belonging
 description: Contextual themes (extracurricular activities, environmental/school safety) are associated with school belonging
 id: contextual-themes-school-belonging
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

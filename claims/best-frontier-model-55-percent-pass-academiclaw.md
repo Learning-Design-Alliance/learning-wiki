@@ -3,7 +3,7 @@ type: claim
 title: "Even the best frontier model achieves only a 55% pass rate on AcademiClaw's 80 academic tasks"
 description: "Even the best frontier model achieves only a 55% pass rate on AcademiClaw's 80 academic tasks"
 id: best-frontier-model-55-percent-pass-academiclaw
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: strategy
 id: accelerated-advanced-programs-high-poverty-schools
 title: Offer high achievers in high-poverty schools accelerated and advanced programs, plus explicit support for college-knowledge and academic-behavior skills
 description: To close the performance gap that persists despite equivalent growth, the report recommends that high-poverty schools provide their top students the accelerated and advanced coursework standard in wealthier schools, a...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

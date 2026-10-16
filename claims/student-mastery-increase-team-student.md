@@ -3,7 +3,7 @@ type: claim
 title: "Student mastery increased modestly from 17.5% to 19.2% during TEAM Student implementation"
 description: "Student mastery increased modestly from 17.5% to 19.2% during TEAM Student implementation"
 id: student-mastery-increase-team-student
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

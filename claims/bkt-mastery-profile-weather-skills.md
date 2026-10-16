@@ -3,7 +3,7 @@ type: claim
 title: BKT estimates show most students mastered wind direction and air movement but few mastered wind speed, precipitation type, or amount
 description: BKT estimates show most students mastered wind direction and air movement but few mastered wind speed, precipitation type, or amount
 id: bkt-mastery-profile-weather-skills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

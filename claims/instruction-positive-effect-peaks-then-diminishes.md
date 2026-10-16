@@ -3,7 +3,7 @@ type: claim
 title: "Direct instruction on forces produces a significant positive effect on Newton's Third Law responses that peaks at instruction's end and diminishes by the end of the quarter"
 description: "Direct instruction on forces produces a significant positive effect on Newton's Third Law responses that peaks at instruction's end and diminishes by the end of the quarter"
 id: instruction-positive-effect-peaks-then-diminishes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

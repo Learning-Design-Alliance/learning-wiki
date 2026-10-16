@@ -3,7 +3,7 @@ type: claim
 title: Token consumption is uncorrelated with task quality across models (r = −0.03), suggesting agents lack mechanisms for knowing when to stop
 description: Token consumption is uncorrelated with task quality across models (r = −0.03), suggesting agents lack mechanisms for knowing when to stop
 id: token-consumption-uncorrelated-with-quality-academiclaw
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

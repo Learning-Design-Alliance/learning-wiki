@@ -3,7 +3,7 @@ type: claim
 title: Accelerated middle schools show positive effects on progressing in school, with an average improvement index of +35 percentile points
 description: Accelerated middle schools show positive effects on progressing in school, with an average improvement index of +35 percentile points
 id: accelerated-middle-schools-progressing-in-school-positive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

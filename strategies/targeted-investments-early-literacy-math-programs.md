@@ -3,7 +3,7 @@ type: strategy
 id: targeted-investments-early-literacy-math-programs
 title: Targeted investments in early literacy and math programs for the youngest students
 description: The brief closes by recommending targeted investment in early-grade literacy and math programming in response to pandemic-era achievement losses.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

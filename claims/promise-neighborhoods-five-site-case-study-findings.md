@@ -3,7 +3,7 @@ type: claim
 title: Case studies of five Promise Neighborhoods sites documented program design, services, and early implementation successes and challenges
 description: Case studies of five Promise Neighborhoods sites documented program design, services, and early implementation successes and challenges
 id: promise-neighborhoods-five-site-case-study-findings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

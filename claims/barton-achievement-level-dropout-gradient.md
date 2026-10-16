@@ -3,7 +3,7 @@ type: claim
 title: Barton students more than a year below grade level in eighth grade dropped out at higher rates than students at or above grade level
 description: Barton students more than a year below grade level in eighth grade dropped out at higher rates than students at or above grade level
 id: barton-achievement-level-dropout-gradient
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

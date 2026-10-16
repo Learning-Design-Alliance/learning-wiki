@@ -3,7 +3,7 @@ type: claim
 title: K-12 and postsecondary education in the United States operate in fundamentally different worlds with separate essential structures while students flow across the divide
 description: K-12 and postsecondary education in the United States operate in fundamentally different worlds with separate essential structures while students flow across the divide
 id: k12-postsecondary-structural-divide
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

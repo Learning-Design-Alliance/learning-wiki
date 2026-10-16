@@ -3,7 +3,7 @@ type: strategy
 id: construct-map-progress-monitoring-strategy
 title: Use the construct map for progress monitoring of CBPL and HQIM implementation
 description: "The guide positions the construct map as a practical tool for measurement and progress monitoring: instructional leaders can diagnose system strengths and gaps, plan targeted supports, and run continuous improvement c..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

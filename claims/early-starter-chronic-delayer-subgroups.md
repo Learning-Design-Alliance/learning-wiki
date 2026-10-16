@@ -3,7 +3,7 @@ type: claim
 title: "Early starters (<5 min delay) show greater outcome growth while chronic delayers (>13 min) show negative trends relative to regular starters"
 description: "Early starters (<5 min delay) show greater outcome growth while chronic delayers (>13 min) show negative trends relative to regular starters"
 id: early-starter-chronic-delayer-subgroups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

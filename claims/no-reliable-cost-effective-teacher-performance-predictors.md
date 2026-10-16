@@ -3,7 +3,7 @@ type: claim
 title: Education researchers have not isolated cost-effective, reliable predictors of teacher performance, motivating exam-based certification
 description: Education researchers have not isolated cost-effective, reliable predictors of teacher performance, motivating exam-based certification
 id: no-reliable-cost-effective-teacher-performance-predictors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

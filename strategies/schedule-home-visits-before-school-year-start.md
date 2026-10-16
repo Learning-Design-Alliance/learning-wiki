@@ -3,7 +3,7 @@ type: strategy
 id: schedule-home-visits-before-school-year-start
 title: Schedule teacher home visits before the start of the school year to build family relationships
 description: "This strategy has teachers visit students' homes before the school year begins, establishing a relationship-building contact with families early."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

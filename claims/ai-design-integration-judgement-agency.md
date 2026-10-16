@@ -3,7 +3,7 @@ type: claim
 title: AI-supported design learning demands integrative capabilities, judgement, and learner agency rather than a single new skill
 description: AI-supported design learning demands integrative capabilities, judgement, and learner agency rather than a single new skill
 id: ai-design-integration-judgement-agency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

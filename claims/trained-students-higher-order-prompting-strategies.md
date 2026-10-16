@@ -3,7 +3,7 @@ type: claim
 title: Trained students use more diverse higher-order prompting strategies, including generating new questions absent among controls
 description: Trained students use more diverse higher-order prompting strategies, including generating new questions absent among controls
 id: trained-students-higher-order-prompting-strategies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

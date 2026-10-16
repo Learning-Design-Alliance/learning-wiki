@@ -3,7 +3,7 @@ type: claim
 title: Research on PBL covers flexible knowledge, problem-solving, and SDL skills but little on collaboration and motivation
 description: Research on PBL covers flexible knowledge, problem-solving, and SDL skills but little on collaboration and motivation
 id: pbl-evidence-uneven-across-goals
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

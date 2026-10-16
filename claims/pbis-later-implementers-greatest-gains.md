@@ -3,7 +3,7 @@ type: claim
 title: Later-implementing PBIS schools showed the greatest organizational health improvements, while fast adopters started higher
 description: Later-implementing PBIS schools showed the greatest organizational health improvements, while fast adopters started higher
 id: pbis-later-implementers-greatest-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

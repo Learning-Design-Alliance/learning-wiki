@@ -3,7 +3,7 @@ type: claim
 title: Victim age (adult vs. child) did not significantly affect public perceptions in this vignette experiment, contrary to prior findings
 description: Victim age (adult vs.
 id: victim-age-no-effect-perceptions-vignette
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

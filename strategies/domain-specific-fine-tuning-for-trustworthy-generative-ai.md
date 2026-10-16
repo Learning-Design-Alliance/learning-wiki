@@ -3,7 +3,7 @@ type: strategy
 id: domain-specific-fine-tuning-for-trustworthy-generative-ai
 title: Use domain-specific fine-tuning of open-source diffusion models to build trustworthy generative AI tools for specialized technical domains
 description: "The article recommends adapting general-purpose text-to-image foundation models through fine-tuning on curated domain imagery rather than relying on zero-shot inference or prompt engineering, which it shows are \"insuf..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

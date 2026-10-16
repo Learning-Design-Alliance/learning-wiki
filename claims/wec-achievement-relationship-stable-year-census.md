@@ -3,7 +3,7 @@ type: claim
 title: The relationship between the WEC index and academic achievement is stable across student year levels and census years, with no meaningful interaction effects
 description: The relationship between the WEC index and academic achievement is stable across student year levels and census years, with no meaningful interaction effects
 id: wec-achievement-relationship-stable-year-census
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

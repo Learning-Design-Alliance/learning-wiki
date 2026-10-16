@@ -3,7 +3,7 @@ type: claim
 title: Constructivism is a highly influential theory in science education, with over five thousand scholarly articles published in three decades
 description: Constructivism is a highly influential theory in science education, with over five thousand scholarly articles published in three decades
 id: constructivism-influence-five-thousand-articles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

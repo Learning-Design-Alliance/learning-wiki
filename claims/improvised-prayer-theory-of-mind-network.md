@@ -3,7 +3,7 @@ type: claim
 title: Improvised personal prayer engages the Theory of Mind network, while formalized prayer engages dorsolateral PFC and cerebellum
 description: Improvised personal prayer engages the Theory of Mind network, while formalized prayer engages dorsolateral PFC and cerebellum
 id: improvised-prayer-theory-of-mind-network
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

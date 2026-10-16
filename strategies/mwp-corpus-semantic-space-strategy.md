@@ -3,7 +3,7 @@ type: strategy
 id: mwp-corpus-semantic-space-strategy
 title: "Develop a math word problem corpus to establish a semantic space for evaluating new problems' readability"
 description: The authors recommend building a dedicated corpus of math word problems so that new problems can be evaluated against a domain-specific semantic space, rather than relying on general-text embeddings or traditional rea...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

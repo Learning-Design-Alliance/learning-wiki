@@ -3,7 +3,7 @@ type: claim
 title: Universities pair academic-integrity guidance with AI literacy and student readiness supports, treating literacy as strategic rather than punitive
 description: Universities pair academic-integrity guidance with AI literacy and student readiness supports, treating literacy as strategic rather than punitive
 id: genai-integrity-paired-with-ai-literacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -51,3 +51,4 @@ Document analysis of teaching-center, library, and initiative pages across the 5
 - Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs — related
 - [Among the 50 most innovative U.S. universities, instructor-set syllabus-level governance is the dominant GenAI convergence, with 33 of 50 providing syllabus or course-policy guidance](instructor-syllabus-level-genai-governance-dominant.md) — related
 - [Journalism students already use GenAI strategically but hold deep concerns about accuracy, originality and disclosure](students-use-genai-strategically-with-concerns.md) — related
+- [Nearly all top-50 universities provide faculty GenAI guidelines, with 94% emphasizing establishing and communicating course-specific GenAI policies](faculty-guidelines-course-specific-genai-policies.md) — related

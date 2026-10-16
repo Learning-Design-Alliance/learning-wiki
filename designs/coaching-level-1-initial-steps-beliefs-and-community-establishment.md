@@ -3,7 +3,7 @@ type: design
 id: coaching-level-1-initial-steps-beliefs-and-community-establishment
 title: "Level 1 initial steps: address teacher beliefs through individual conferencing and establish teacher learning communities"
 description: "At the first level of the trajectory, mentoring work consists of conversations with individual teachers about literacy instruction and relationship building, described as \"building relationships and establishing a lev..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

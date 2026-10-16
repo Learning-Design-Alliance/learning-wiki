@@ -3,7 +3,7 @@ type: claim
 title: "California's shift to restorative and social-emotional approaches coincided with a 33.6% decline in suspensions and 40.4% decline in expulsions (2011-2016) while schools became safer"
 description: "California's shift to restorative and social-emotional approaches coincided with a 33.6% decline in suspensions and 40.4% decline in expulsions (2011-2016) while schools became safer"
 id: california-suspension-decline-safer-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

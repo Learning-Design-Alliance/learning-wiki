@@ -3,7 +3,7 @@ type: claim
 title: First-cycle underperformance was attributed to low-quality student-generated questions that failed to represent journal article patterns
 description: First-cycle underperformance was attributed to low-quality student-generated questions that failed to represent journal article patterns
 id: question-quality-limited-first-cycle-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

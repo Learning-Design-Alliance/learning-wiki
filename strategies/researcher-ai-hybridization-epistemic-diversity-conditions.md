@@ -3,7 +3,7 @@ type: strategy
 id: researcher-ai-hybridization-epistemic-diversity-conditions
 title: "Hybrider chercheur et IA en préservant la diversité épistémique : posture critique, diversification des corpus, prompt engineering disciplinaire, benchmarks et formation"
 description: "L'article définit les conditions d'une hybridation chercheur/IA respectueuse de la diversité épistémique."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

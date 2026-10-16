@@ -3,7 +3,7 @@ type: design
 id: ai-assisted-pretest-question-workflow
 title: AI-assisted pretest question generation workflow with generator, evaluator, and controller components
 description: "The article presents an AI-assisted workflow for pretest question development with three iterative components: automated generation grounded in instructional materials, rubric-based evaluation of question quality, and..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

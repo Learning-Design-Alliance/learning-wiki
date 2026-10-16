@@ -3,7 +3,7 @@ type: claim
 title: "Learning Quality & Cognitive Dependency discourse is heavily faculty-driven (Fac% 82.3), concentrated in K-12 and professor communities"
 description: "Learning Quality & Cognitive Dependency discourse is heavily faculty-driven (Fac% 82.3), concentrated in K-12 and professor communities"
 id: cognitive-dependency-discourse-faculty-driven
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

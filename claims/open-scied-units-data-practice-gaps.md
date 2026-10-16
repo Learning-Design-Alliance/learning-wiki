@@ -3,7 +3,7 @@ type: claim
 title: OpenSciEd grade 7 units align with some data-practice frameworks but are less aligned with digital tools, large data sets, and full data cycles
 description: OpenSciEd grade 7 units align with some data-practice frameworks but are less aligned with digital tools, large data sets, and full data cycles
 id: open-scied-units-data-practice-gaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Students in the flipped classroom most often used the preparing and revisiting time management modes together with the summative assessment learning strategy
 description: Students in the flipped classroom most often used the preparing and revisiting time management modes together with the summative assessment learning strategy
 id: flipped-classroom-preparing-revisiting-summative-most-used
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Behavioral attitude, subjective norm, perceived behavioral control, and behavioral intention are each negatively associated with GenAI-assisted learning procrastination
 description: Behavioral attitude, subjective norm, perceived behavioral control, and behavioral intention are each negatively associated with GenAI-assisted learning procrastination
 id: tpb-constructs-negatively-associated-genai-procrastination
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

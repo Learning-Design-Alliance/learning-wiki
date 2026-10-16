@@ -3,7 +3,7 @@ type: claim
 title: "A Gemini-based creativity autorater scores real students' complex multimedia creativity tasks on par with human experts (item Kappa 0.66; total-score Pearson r = 0.88)"
 description: "A Gemini-based creativity autorater scores real students' complex multimedia creativity tasks on par with human experts (item Kappa 0.66; total-score Pearson r = 0.88)"
 id: gemini-autorater-creativity-real-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -18,8 +18,8 @@ sources:
     kind: design
     rigour: 2
   - id: globerson-2026-2
-    resource: "https://arxiv.org/abs/2609.15864"
-    title: "Globerson, A., Keeling, A., Choudhury, A., et al. (2026). Towards Scalable Measurement of Durable Skills. https://arxiv.org/abs/2609.15864"
+    resource: "https://doi.org/10.48550/arxiv.2609.15864"
+    title: "Globerson, A., Keeling, A., Choudhury, A., et al. (2026). Towards Scalable Measurement of Durable Skills. https://arxiv.org/abs/2609.15864. [doi:10.48550/arxiv.2609.15864](https://doi.org/10.48550/arxiv.2609.15864)"
     author: Globerson, A., Keeling, A., Choudhury, A., et al
     q: 2
     i: 3
@@ -30,7 +30,7 @@ sources:
 # A Gemini-based creativity autorater scores real students' complex multimedia creativity tasks on par with human experts (item Kappa 0.66; total-score Pearson r = 0.88)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2` · `i3` large
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i?` Item-level agreement between autorater and expert raters on 0-2 scores was Cohen's Kappa 0.66, described as good agreement. [→ Globerson 2026](#globerson-2026)
@@ -50,7 +50,7 @@ Lab study with OpenMic: 280 students designed a news segment from a story; 100 s
 
 ### Globerson 2026 (2)
 
-Globerson, A., Keeling, A., Choudhury, A., et al. (2026). Towards Scalable Measurement of Durable Skills. https://arxiv.org/abs/2609.15864
+Globerson, A., Keeling, A., Choudhury, A., et al. (2026). Towards Scalable Measurement of Durable Skills. https://arxiv.org/abs/2609.15864. [doi:10.48550/arxiv.2609.15864](https://doi.org/10.48550/arxiv.2609.15864)
 
 `q2 · i3` · `design · r2`
 

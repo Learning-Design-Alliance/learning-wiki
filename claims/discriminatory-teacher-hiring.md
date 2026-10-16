@@ -3,7 +3,7 @@ type: claim
 title: African American teacher candidates are less likely to receive job offers than white candidates despite similar or better qualifications.
 description: African American teacher candidates are less likely to receive job offers than white candidates despite similar or better qualifications.
 id: discriminatory-teacher-hiring
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -18,8 +18,8 @@ sources:
     kind: associational
     rigour: "?"
   - id: gold-2020-2
-    resource: "https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/"
-    title: "Gold, T. (2020). Pipeline and Retention of Teachers of Color: Systems and Structures Impeding Growth and Sustainability in the United States. Digital Promise. https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/"
+    resource: "https://doi.org/10.51388/20.500.12265/96"
+    title: "Gold, T. (2020). Pipeline and Retention of Teachers of Color: Systems and Structures Impeding Growth and Sustainability in the United States. Digital Promise. https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/. [doi:10.51388/20.500.12265/96](https://doi.org/10.51388/20.500.12265/96)"
     author: Gold, T.
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # African American teacher candidates are less likely to receive job offers than white candidates despite similar or better qualifications.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 review `r1`, 1 associational `r?` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r?` · `q2`
 
 ## Subclaims
 `q2 i?` In a large urban school district study, African American candidates were significantly less likely to receive a job offer than white counterparts with similar qualifications. [→ Gold 2020](#gold-2020)
@@ -50,7 +50,7 @@ Secondhand report of a study of "a large school district in a U.S. urban center"
 
 ### Gold 2020 (2)
 
-Gold, T. (2020). Pipeline and Retention of Teachers of Color: Systems and Structures Impeding Growth and Sustainability in the United States. Digital Promise. https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/
+Gold, T. (2020). Pipeline and Retention of Teachers of Color: Systems and Structures Impeding Growth and Sustainability in the United States. Digital Promise. https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/. [doi:10.51388/20.500.12265/96](https://doi.org/10.51388/20.500.12265/96)
 
 `q2 · i?` · `review · r1`
 

@@ -3,7 +3,7 @@ type: research-method
 id: general-polytomous-testlet-model
 title: General polytomous testlet model
 description: The general polytomous testlet model is an item response theory model for testlet-based tests containing both dichotomously and polytomously scored items.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

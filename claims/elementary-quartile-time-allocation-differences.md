@@ -3,7 +3,7 @@ type: claim
 title: Elementary principals in low-achieving schools spend more time on instruction while those in high-achieving schools spend more on external management
 description: Elementary principals in low-achieving schools spend more time on instruction while those in high-achieving schools spend more on external management
 id: elementary-quartile-time-allocation-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

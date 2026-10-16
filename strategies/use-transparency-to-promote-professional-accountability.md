@@ -3,7 +3,7 @@ type: strategy
 id: use-transparency-to-promote-professional-accountability
 title: Use transparency to promote professional accountability
 description: "Among its three concluding recommendations, the review advises policymakers to \"use transparency to promote professional accountability.\" This strategy treats transparency as an instrument for strengthening the profes..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

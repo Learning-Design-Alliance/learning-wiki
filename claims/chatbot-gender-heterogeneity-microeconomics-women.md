@@ -3,7 +3,7 @@ type: claim
 title: Women assigned to the chatbot in Microeconomics earned final grades seven points higher than control women, with no treatment effects for men
 description: Women assigned to the chatbot in Microeconomics earned final grades seven points higher than control women, with no treatment effects for men
 id: chatbot-gender-heterogeneity-microeconomics-women
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

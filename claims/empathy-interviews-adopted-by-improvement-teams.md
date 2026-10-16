@@ -3,7 +3,7 @@ type: claim
 title: Empathy interviews became a widely adopted data-gathering technique for understanding stakeholder perspectives on problems
 description: Empathy interviews became a widely adopted data-gathering technique for understanding stakeholder perspectives on problems
 id: empathy-interviews-adopted-by-improvement-teams
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

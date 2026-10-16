@@ -3,7 +3,7 @@ type: claim
 title: Ethical reasoning and reflective thinking are reported as the strongest predictors of sustainable and trustworthy AI use
 description: Ethical reasoning and reflective thinking are reported as the strongest predictors of sustainable and trustworthy AI use
 id: ethical-reasoning-strongest-predictor-trustworthy-ai-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

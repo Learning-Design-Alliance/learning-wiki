@@ -3,7 +3,7 @@ type: claim
 title: "Item parameter differences between chain and simultaneous equating were small (at most 12 items, 7%, flagged by RMSD), while comparisons involving concurrent calibration flagged up to 11% of items"
 description: "Item parameter differences between chain and simultaneous equating were small (at most 12 items, 7%, flagged by RMSD), while comparisons involving concurrent calibration flagged up to 11% of items"
 id: rmsd-fewer-flagged-items-ch-vs-sm-than-cr
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

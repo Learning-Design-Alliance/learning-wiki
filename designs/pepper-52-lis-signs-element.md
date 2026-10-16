@@ -3,7 +3,7 @@ type: design
 id: pepper-52-lis-signs-element
 title: Pepper robot with 52 co-designed LIS signs and four SOV-order signed sentences
 description: "The element is the Pepper social robot configured as a LIS signing agent: the authors co-designed and implemented \"a total of 52 LIS signs\" spanning school-related terms, common actions and nouns, and work-related voc..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

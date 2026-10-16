@@ -3,7 +3,7 @@ type: claim
 title: Multilingual learners in California are disproportionately represented in special education, especially in the Specific Learning Disability category
 description: Multilingual learners in California are disproportionately represented in special education, especially in the Specific Learning Disability category
 id: california-ml-overrepresentation-sld
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

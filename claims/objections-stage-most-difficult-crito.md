@@ -3,7 +3,7 @@ type: claim
 title: "The objections stage is the most difficult stage of CRITO because it demands fallibilism about one's own argument"
 description: "The objections stage is the most difficult stage of CRITO because it demands fallibilism about one's own argument"
 id: objections-stage-most-difficult-crito
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

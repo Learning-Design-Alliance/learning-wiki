@@ -3,7 +3,7 @@ type: claim
 title: "Personal innovativeness, technology anxiety, and growth mindset in technology each significantly predict AI literacy after external resources and digital competence are controlled, adding 6% of variance"
 description: "Personal innovativeness, technology anxiety, and growth mindset in technology each significantly predict AI literacy after external resources and digital competence are controlled, adding 6% of variance"
 id: psychological-profile-predicts-ai-literacy-incrementally
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Students rating learning conditions most positively are more than twice as likely to earn a B or better in math than students rating them most negatively
 description: Students rating learning conditions most positively are more than twice as likely to earn a B or better in math than students rating them most negatively
 id: positive-learning-conditions-double-odds-b-or-better-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

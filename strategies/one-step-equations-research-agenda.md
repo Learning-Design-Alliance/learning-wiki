@@ -3,7 +3,7 @@ type: strategy
 id: one-step-equations-research-agenda
 title: A five-question research agenda for one-step equation learning and instruction
 description: "The article proposes that researchers investigate five questions arising from the classification: whether Type 1 equations are easier than Type 2 to learn; whether equations without a special feature are easier than t..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

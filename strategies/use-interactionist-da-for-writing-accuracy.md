@@ -3,7 +3,7 @@ type: strategy
 id: use-interactionist-da-for-writing-accuracy
 title: Use interactionist DA to give learners more opportunities to interact and improve writing accuracy
 description: "The article's pedagogical recommendation is that EFL and IELTS teachers adopt interactionist Dynamic Assessment in writing classes."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

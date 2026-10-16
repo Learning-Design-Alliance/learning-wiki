@@ -3,7 +3,7 @@ type: design
 id: ai-assisted-lab-manual-design-project
 title: AI-assisted lab manual design project in analytical chemistry laboratory course
 description: A group-based project embedded in a third-year analytical chemistry laboratory course at Hong Kong Baptist University.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

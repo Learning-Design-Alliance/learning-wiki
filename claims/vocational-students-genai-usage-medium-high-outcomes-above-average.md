@@ -3,7 +3,7 @@ type: claim
 title: Chinese higher vocational students report medium-high GenAI usage (M = 3.75) with usage habits highest, and above-average perceived learning outcomes (M = 4.01) with competency development ranked highest
 description: Chinese higher vocational students report medium-high GenAI usage (M = 3.75) with usage habits highest, and above-average perceived learning outcomes (M = 4.01) with competency development ranked highest
 id: vocational-students-genai-usage-medium-high-outcomes-above-average
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

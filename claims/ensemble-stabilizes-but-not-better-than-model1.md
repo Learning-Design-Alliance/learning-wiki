@@ -3,7 +3,7 @@ type: claim
 title: Rank-averaged ensembling stabilized predictions but did not outperform the single base model
 description: Rank-averaged ensembling stabilized predictions but did not outperform the single base model
 id: ensemble-stabilizes-but-not-better-than-model1
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

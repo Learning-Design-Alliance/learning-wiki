@@ -3,7 +3,7 @@ type: element
 id: digital-village-square-app
 title: "Digital Village Square: student-designed app for sharing writing ideas and feedback"
 description: "Digital Village Square is a concept for an app designed by Sunnyside student interns in which \"students can share ideas on writing topics, get feedback on their writing, interact through comments and threads, and part..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -46,4 +46,4 @@ Digital Village Square is a concept for an app designed by Sunnyside student int
 -
 
 ## Key Sources
-- Smith, K., & Young, V. M. (2024). A New Narrative: How Unlocking the Power of R&D Through Inclusive Innovation Can Transform Education. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/73f2e0fa-dca8-4cd0-a8da-eb18b59453c4
+- Smith, K., & Young, V. M. (2024). A New Narrative: How Unlocking the Power of R&D Through Inclusive Innovation Can Transform Education. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/73f2e0fa-dca8-4cd0-a8da-eb18b59453c4. [doi:10.51388/20.500.12265/202](https://doi.org/10.51388/20.500.12265/202)

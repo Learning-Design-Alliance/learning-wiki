@@ -3,7 +3,7 @@ type: claim
 title: The article argues for shifting from the definition of validity to the concept of effectiveness for classroom assessment score use
 description: The article argues for shifting from the definition of validity to the concept of effectiveness for classroom assessment score use
 id: shift-from-validity-to-effectiveness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: The three planning conditions produced different accuracy orders for regular and irregular past, questioning the stability of the natural order
 description: The three planning conditions produced different accuracy orders for regular and irregular past, questioning the stability of the natural order
 id: condition-dependent-accuracy-orders-natural-order-unstable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: "Grade 6 math CST proficiency alone is not an effective indicator of algebra readiness: students need a scale score of 367, about 0.27 SD above the cutpoint, to reach a 50 percent probability of grade 8 algebra I proficiency"
 description: "Grade 6 math CST proficiency alone is not an effective indicator of algebra readiness: students need a scale score of 367, about 0.27 SD above the cutpoint, to reach a 50 percent probability of grade 8 algebra I profi..."
 id: grade6-proficiency-insufficient-algebra-readiness-indicator
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

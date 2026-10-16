@@ -3,7 +3,7 @@ type: claim
 title: CAT data cannot be fit into factor models at the item level, making item-level construct validity investigation meaningless for CAT
 description: CAT data cannot be fit into factor models at the item level, making item-level construct validity investigation meaningless for CAT
 id: cat-item-level-construct-recovery-impossible
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

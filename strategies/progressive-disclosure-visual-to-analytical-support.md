@@ -3,7 +3,7 @@ type: strategy
 id: progressive-disclosure-visual-to-analytical-support
 title: "Progressively disclose analytical depth: start beginners with streamlined visual interfaces, then introduce richer analytical tools as expertise grows"
 description: The article recommends that educational simulations match support to learner expertise.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

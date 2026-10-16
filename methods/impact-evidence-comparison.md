@@ -3,7 +3,7 @@ type: method
 id: impact-evidence-comparison
 title: Comparing learning intervention effects
 description: Check the learner, contrast, intended outcome, instrument and timing before interpreting or comparing a reported effect size.
-status: draft
+status: review
 sources:
   - id: kraft-2020
     resource: "https://doi.org/10.3102/0013189X20912798"

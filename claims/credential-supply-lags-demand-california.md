@@ -3,7 +3,7 @@ type: claim
 title: New California credentials stagnated at about 11,500 per year while estimated annual hires exceeded 20,000, so demand far outpaced supply
 description: New California credentials stagnated at about 11,500 per year while estimated annual hires exceeded 20,000, so demand far outpaced supply
 id: credential-supply-lags-demand-california
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

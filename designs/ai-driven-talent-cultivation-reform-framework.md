@@ -3,7 +3,7 @@ type: design
 id: ai-driven-talent-cultivation-reform-framework
 title: AI-driven talent cultivation reform framework with five interconnected components
 description: The article proposes a comprehensive reform framework for computer-related majors grounded in the new engineering philosophy, integrating AI across curriculum, pedagogy, and practical training.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

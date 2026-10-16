@@ -3,7 +3,7 @@ type: claim
 title: The Teacher Residency Grant Program supported nearly 1,400 funded residents through 2023, with residency programs graduating nearly 5,000 residents between 2021 and 2024, many in shortage fields and most residents people of color
 description: The Teacher Residency Grant Program supported nearly 1,400 funded residents through 2023, with residency programs graduating nearly 5,000 residents between 2021 and 2024, many in shortage fields and most residents peo...
 id: trgp-supported-residents-shortage-fields
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

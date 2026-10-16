@@ -3,7 +3,7 @@ type: strategy
 id: refine-adversarial-hallucination-critique
 title: "Refine: use inherent LLM limitations as organic adversarial examples for critique exercises"
 description: The fourth framework component leverages the inherent limitations of current LLMs — cultural biases, hallucinations in complex medical cases, and confident but incorrect citations — as organic adversarial examples for...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

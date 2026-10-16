@@ -4,7 +4,7 @@ id: descriptive-evaluative-substantive-peer-criticism
 title: Descriptive, evaluative and substantive peer criticism progression
 description: "The paper describes Bruffee's sequence of written peer criticism: descriptive (saying something about a text without judging it), evaluative (what is good and what could improve it), and substantive (a judgment about..."
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

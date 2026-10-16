@@ -3,7 +3,7 @@ type: claim
 title: Years-as-EL course-taking differences disappear once eighth-grade test scores are considered
 description: Years-as-EL course-taking differences disappear once eighth-grade test scores are considered
 id: el-course-taking-gaps-explained-by-prior-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

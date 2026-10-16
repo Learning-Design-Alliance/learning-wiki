@@ -3,7 +3,7 @@ type: strategy
 id: know-every-student-well-flexible-grouping
 title: Know every student well through many adults, multi-year teacher loops, and flexible small-group instruction
 description: A central quality of the case study schools is that every student is known well by many teachers, not just one.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

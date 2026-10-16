@@ -3,7 +3,7 @@ type: claim
 title: "IEP processes should be followed to ensure students' due process protections, including amendment, revision, and new data informing present levels"
 description: "IEP processes should be followed to ensure students' due process protections, including amendment, revision, and new data informing present levels"
 id: iep-processes-due-process-protections
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

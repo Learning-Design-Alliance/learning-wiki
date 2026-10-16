@@ -3,7 +3,7 @@ type: claim
 title: Three of the inferred norms relate to the mathematical content and its learning, including privileging the table of values and devaluing explanation
 description: Three of the inferred norms relate to the mathematical content and its learning, including privileging the table of values and devaluing explanation
 id: sdmns-related-to-mathematical-content-and-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

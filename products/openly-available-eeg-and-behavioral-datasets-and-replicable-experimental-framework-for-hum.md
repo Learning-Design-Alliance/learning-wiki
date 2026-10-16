@@ -4,7 +4,7 @@ id: openly-available-eeg-and-behavioral-datasets-and-replicable-experimental-fra
 title: Openly available EEG and behavioral datasets and replicable experimental framework for human-AI interaction studies
 description: "Khurana et al.'s openly released Kaggle datasets contain raw EEG recordings and behavioral ratings from high-school students who completed AI-assisted problem-solving tasks, supporting reuse in human-AI interaction research."
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

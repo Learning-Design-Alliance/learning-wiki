@@ -3,7 +3,7 @@ type: element
 id: mathematica-tif-random-assignment-evaluation
 title: Mathematica multi-site random assignment evaluation of TIF pay-for-performance bonuses
 description: "Mathematica's congressionally mandated study, prepared for the U.S."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

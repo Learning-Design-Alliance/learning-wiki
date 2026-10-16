@@ -3,7 +3,7 @@ type: strategy
 id: curriculum-through-language-of-reasons
 title: Structure the curriculum around the language of reasons in each discipline
 description: Siegel recommends that in all curriculum areas, education fostering critical thinking should emphasize the nature and role of reasons, the active consideration of alternative theoretical and critical perspectives, and...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

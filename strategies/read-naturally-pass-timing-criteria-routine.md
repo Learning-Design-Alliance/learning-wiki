@@ -3,7 +3,7 @@ type: strategy
 id: read-naturally-pass-timing-criteria-routine
 title: Pass-timing routine with four mastery criteria and repeated practice until criteria are met
 description: "An implementable fluency-building routine: students do \"1-minute practice readings to build their mastery of the passage\" and alert the teacher when they feel they can reach their speed goal."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Among Chinese higher vocational students, GenAI usage habits and usage contexts are positively associated with perceived learning outcomes while usage frequency is negatively associated, controlling for gender and grade
 description: Among Chinese higher vocational students, GenAI usage habits and usage contexts are positively associated with perceived learning outcomes while usage frequency is negatively associated, controlling for gender and grade
 id: genai-usage-habits-positive-frequency-negative-predictors-vocational-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

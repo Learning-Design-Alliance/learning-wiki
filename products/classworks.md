@@ -4,7 +4,7 @@ id: classworks
 title: Classworks
 description: Classworks is an online, assessment-driven tiered intervention platform that generates individualized learning paths and units for students, used by schools and educators.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

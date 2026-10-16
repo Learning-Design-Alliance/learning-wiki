@@ -3,7 +3,7 @@ type: claim
 title: Chain-of-Thought rationale quality shows no direct correlation with the accuracy of simulated student responses
 description: Chain-of-Thought rationale quality shows no direct correlation with the accuracy of simulated student responses
 id: cot-rationale-quality-no-correlation-simulated-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

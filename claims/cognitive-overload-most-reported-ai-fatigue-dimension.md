@@ -3,7 +3,7 @@ type: claim
 title: Cognitive Overload is the most frequently reported dimension of AI fatigue, driven by output volume and repeated verification
 description: Cognitive Overload is the most frequently reported dimension of AI fatigue, driven by output volume and repeated verification
 id: cognitive-overload-most-reported-ai-fatigue-dimension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

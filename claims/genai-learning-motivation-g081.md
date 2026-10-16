@@ -4,7 +4,7 @@ title: GenAI-assisted education produces significantly higher learning motivatio
 description: GenAI-assisted education produces significantly higher learning motivation than non-GenAI approaches (g = 0.81)
 id: genai-learning-motivation-g081
 aliases: [genai-positive-average-effect-learning-motivation-g-0764]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -80,3 +80,5 @@ Random-effects meta-analysis of 56 effect sizes from 42 controlled experimental 
 - [GenAI effects on externally assessed learning are highly heterogeneous and conditional on prior knowledge, scaffolding, verification, and task design, with pooled effects unstable under publication-bias correction](genai-learning-effects-heterogeneous-conditional.md) — related
 - [GenAI-related misconduct allegations rose from 11.9% of all misconduct cases in 2023 to 36.9% in 2025 against a stable total caseload](genai-misconduct-allegations-grew-2023-2025.md) — related
 - [Gen-AI has a moderate positive overall effect on students' higher-order thinking (g = 0.609) across 29 experimental and quasi-experimental studies](genai-moderate-positive-effect-hot.md) — related
+- [AI-assisted pair programming significantly increased undergraduate intrinsic motivation compared to individual programming, with outcomes comparable to human–human pair programming](ai-assisted-pair-programming-increases-intrinsic-motivation.md) — a narrower finding that bears on this claim
+- ChatGPT use shows a large positive pooled effect on students' learning performance (g = 0.867) across 44 experimental and quasi-experimental studies — related

@@ -3,7 +3,7 @@ type: claim
 title: SEAs take on multiple, malleable roles in their work with LEAs, shifting based on identified needs, capacity, and context.
 description: SEAs take on multiple, malleable roles in their work with LEAs, shifting based on identified needs, capacity, and context.
 id: seas-take-multiple-malleable-roles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

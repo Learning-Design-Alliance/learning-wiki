@@ -3,7 +3,7 @@ type: claim
 title: "Projected bachelor's degree attainment is far lower for Black and Latino young men (10 and 14 percent) than the CPS district average of 20 percent"
 description: "Projected bachelor's degree attainment is far lower for Black and Latino young men (10 and 14 percent) than the CPS district average of 20 percent"
 id: cps-attainment-gaps-black-latino-young-men
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

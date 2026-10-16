@@ -3,7 +3,7 @@ type: strategy
 id: ssw-advocacy-practices-immigrant-students
 title: "SSW advocacy practices for immigrant students: support groups, rights education, safe spaces, and community referrals"
 description: "The article documents concrete advocacy practices SSWs used to counteract racialized contexts: creating support groups for students with detained or deported parents, educating students and families about their rights..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

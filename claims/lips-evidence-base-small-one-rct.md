@@ -3,7 +3,7 @@ type: claim
 title: "The evidence base for LiPS with students with learning disabilities is small: one RCT met WWC standards out of 31 reviewed studies"
 description: "The evidence base for LiPS with students with learning disabilities is small: one RCT met WWC standards out of 31 reviewed studies"
 id: lips-evidence-base-small-one-rct
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

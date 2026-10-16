@@ -3,7 +3,7 @@ type: claim
 title: Forming implementation intentions (if-then plans) improves goal attainment
 id: implementation-intentions-improve-goal-attainment
 description: Adding an if-then plan that says when, where and how to act to a goal intention raises goal attainment, with a medium-to-large pooled effect across 94 tests; in online courses a brief planning activity raised completion only for some learners.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-30

@@ -1,7 +1,7 @@
 ---
 type: claim
 title: A brief online empathic-discipline exercise for teachers halved suspensions in one randomized field experiment, while its preregistered replication found a small, marginal overall effect but narrowed group disparities
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

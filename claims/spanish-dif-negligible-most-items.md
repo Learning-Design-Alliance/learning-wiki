@@ -3,7 +3,7 @@ type: claim
 title: Most Spanish test items show negligible differential item functioning across gender and Hispanic–White comparisons
 description: Most Spanish test items show negligible differential item functioning across gender and Hispanic–White comparisons
 id: spanish-dif-negligible-most-items
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

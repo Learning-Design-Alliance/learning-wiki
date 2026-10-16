@@ -3,7 +3,7 @@ type: claim
 title: The meta-analysis finds some evidence favoring non-parametric RD methods over parametric ones
 description: The meta-analysis finds some evidence favoring non-parametric RD methods over parametric ones
 id: rd-non-parametric-methods-favored
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

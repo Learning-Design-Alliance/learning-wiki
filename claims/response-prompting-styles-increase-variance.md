@@ -3,7 +3,7 @@ type: claim
 title: Demographic and psychometric response prompting produces higher-variance, heavier-tailed originality distributions than a no-context baseline, though still less variable than humans
 description: Demographic and psychometric response prompting produces higher-variance, heavier-tailed originality distributions than a no-context baseline, though still less variable than humans
 id: response-prompting-styles-increase-variance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

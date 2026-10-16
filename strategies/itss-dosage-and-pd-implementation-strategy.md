@@ -3,7 +3,7 @@ type: strategy
 id: itss-dosage-and-pd-implementation-strategy
 title: Implement ITSS twice weekly for about 30 minutes per session over 7 months to 1 year, with teacher professional development and coaching
 description: "The report specifies an implementable dosage and support package for schools adopting ITSS: \"Developers recommend students use ITSS twice a week for about 30 minutes per session for 7 months to 1 year.\" Implementation..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

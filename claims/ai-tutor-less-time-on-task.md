@@ -3,7 +3,7 @@ type: claim
 title: AI-tutored students spend less time on task than the 60-minute in-class lesson, with no correlation between time and scores
 description: AI-tutored students spend less time on task than the 60-minute in-class lesson, with no correlation between time and scores
 id: ai-tutor-less-time-on-task
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

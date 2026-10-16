@@ -3,7 +3,7 @@ type: claim
 title: "A second LLM judge failed to corroborate 94% of 140,000 flagged failures from 2.5 million evaluations, indicating false positives dominated the pre-calibration suite"
 description: "A second LLM judge failed to corroborate 94% of 140,000 flagged failures from 2.5 million evaluations, indicating false positives dominated the pre-calibration suite"
 id: second-judge-94-percent-uncorroborated-flags
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

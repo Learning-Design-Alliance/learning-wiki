@@ -2,7 +2,7 @@
 type: theory
 title: "Simple View of Reading: reading comprehension as the product of decoding and linguistic comprehension"
 description: The Simple View of Reading is a theoretical model of reading comprehension that the review adopts as a core framework.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

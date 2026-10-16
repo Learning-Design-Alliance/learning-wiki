@@ -4,7 +4,7 @@ title: "Chicago's College-Prep-for-All policy nearly universalized ninth-grade A
 description: "Chicago's College-Prep-for-All policy nearly universalized ninth-grade Algebra I and English I enrollment and closed course-taking gaps by race, ability, and special education status"
 id: college-prep-all-increased-ninth-grade-enrollment-equity
 aliases: [chicago-college-prep-policy-universalized-ninth-grade-enrollment, college-prep-mandate-near-universal-enrollment-equity-gains]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

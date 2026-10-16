@@ -3,7 +3,7 @@ type: claim
 title: AI-detection tools produce inequitable outcomes, disadvantaging non-native English speakers through false positives
 description: AI-detection tools produce inequitable outcomes, disadvantaging non-native English speakers through false positives
 id: ai-detection-tools-inequitable-false-positives
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -60,3 +60,4 @@ Finding from the thematic analysis of institutional and scholarly documents, rep
 - [Stealth assessment in AI-GBL achieves accurate prediction of learner states, with bias auditing demonstrated without accuracy loss](stealth-assessment-accuracy-and-bias-audits.md) — related
 - [Automated grading systems may produce systematically inequitable outcomes for international and non-Western students](automated-grading-bias-non-native-english.md) — related
 - [Detection-led responses to AI in assessment face validity, fairness and trust limits](detection-limits-validity-fairness-trust.md) — a broader claim this one bears on
+- [A majority of universities with faculty guidelines discourage reliance on AI detection tools due to unreliability and bias](universities-discourage-ai-detection-tools.md) — a narrower finding that bears on this claim

@@ -3,7 +3,7 @@ type: design
 id: sol-multimedia-lesson-sequence-eb
 title: "SOL-aligned multimedia lesson sequence: key terms with images first, then short signaled sentences"
 description: "A lesson-level design pattern the article demonstrates with an Italian fifth-grade social-studies passage: essential information is extracted from the original text and presented across slides that (a) build prior kno..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

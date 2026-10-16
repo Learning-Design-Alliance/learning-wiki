@@ -3,7 +3,7 @@ type: claim
 title: Effect sizes linking growth mind-set to achievement are highly heterogeneous and often nonsignificant
 description: Effect sizes linking growth mind-set to achievement are highly heterogeneous and often nonsignificant
 id: mindset-achievement-heterogeneity-high
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

@@ -2,7 +2,7 @@
 type: theory
 title: "Dialogism, intertextuality, and hypertextuality: the language-centered genealogy leading to connectivism"
 description: "The article describes a chain of language-centered theories within architectonic thought: Bakhtin's dialogism, in which \"languages do not exclude each other, but rather intersect with each other in many different ways..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -52,4 +52,4 @@ The article describes a chain of language-centered theories within architectonic
 -
 
 ## Key Sources
-- Dennis, J. (2020). Languaging Network Learning: The Emergence of Connectivism in Architectonic Thought. International Review of Research in Open and Distributed Learning, 21(3). https://www.irrodl.org/
+- Dennis, J. (2020). Languaging Network Learning: The Emergence of Connectivism in Architectonic Thought. International Review of Research in Open and Distributed Learning, 21(3). https://www.irrodl.org/. [doi:10.19173/irrodl.v21i3.4718](https://doi.org/10.19173/irrodl.v21i3.4718)

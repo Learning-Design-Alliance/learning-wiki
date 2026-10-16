@@ -3,7 +3,7 @@ type: claim
 title: Human-human L2 dialogue has more and shorter turns while AI dialogue has fewer, longer turns with more words per turn
 description: Human-human L2 dialogue has more and shorter turns while AI dialogue has fewer, longer turns with more words per turn
 id: ai-dialogue-fewer-longer-turns-l2
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

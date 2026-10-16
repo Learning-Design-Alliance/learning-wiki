@@ -3,7 +3,7 @@ type: claim
 title: A few decision-tree splits identify very high-risk students, such as low-SES students who doubt they will reach college
 description: A few decision-tree splits identify very high-risk students, such as low-SES students who doubt they will reach college
 id: few-splits-identify-high-risk-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

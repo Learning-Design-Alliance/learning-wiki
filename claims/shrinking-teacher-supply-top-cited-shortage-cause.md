@@ -3,7 +3,7 @@ type: claim
 title: "Districts attribute shortages chiefly to a shrinking supply of newly credentialed teachers, cited by 79% of shortage districts"
 description: "Districts attribute shortages chiefly to a shrinking supply of newly credentialed teachers, cited by 79% of shortage districts"
 id: shrinking-teacher-supply-top-cited-shortage-cause
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

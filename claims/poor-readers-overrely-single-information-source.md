@@ -3,7 +3,7 @@ type: claim
 title: Poor beginning readers overrely on a single information source rather than integrating all available cues
 description: Poor beginning readers overrely on a single information source rather than integrating all available cues
 id: poor-readers-overrely-single-information-source
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

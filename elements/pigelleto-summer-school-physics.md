@@ -3,7 +3,7 @@ type: element
 id: pigelleto-summer-school-physics
 title: "Pigelleto's Summer School of Physics: a full-immersion orientation program for high-school students"
 description: "The Pigelleto's Summer School of Physics is a four-day full-immersion residential school held in a natural reserve since 2006, oriented toward physics."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -4,7 +4,7 @@ id: washington-dcs-early-childhood-educator-pay-equity-fund-pef
 title: "Washington, DC's Early Childhood Educator Pay Equity Fund (PEF)"
 description: A Washington, DC initiative that provides funding to increase compensation for early childhood educators and reduce pay disparities with K–12 teachers.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

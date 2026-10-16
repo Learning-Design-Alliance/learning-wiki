@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25
@@ -142,3 +142,5 @@ In Experiment 1, 80 undergraduates studied a science text in one of four ways: s
 - A map risks becoming a new metanarrative unless it is continually remapped and readers actively construct their own maps — related
 - [Multiple representations and explanations of math concepts aid student understanding, but faculty lack time to source or develop them](multiple-representations-aid-understanding-faculty-time.md) — related
 - [In one randomized working-paper experiment, conceptual-map scaffolding gave LLM-using novices marginally higher scores (p < .10) and lower score variance, with a marginal benefit concentrated among low-AIC novices](conceptual-map-scaffolding-reduces-novice-variance.md) — related
+- [Concreteness, imagery, and verbal associative processes play major roles across multiple educational domains](concreteness-imagery-associative-roles-educational-domains.md) — related
+- [Self-explanation beats unguided studying for equal time, but instructional explanations, problem solving and retrieval practice can be equally or more effective](instructional-explanations-sometimes-equal-or-better-than-self-explanation.md) — related

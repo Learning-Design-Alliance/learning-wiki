@@ -3,7 +3,7 @@ type: claim
 title: Within sociocultural theory, teacher feedback and AI-assisted peer feedback function as heterogeneous scaffolds with distinct natures and complementary advantages
 description: Within sociocultural theory, teacher feedback and AI-assisted peer feedback function as heterogeneous scaffolds with distinct natures and complementary advantages
 id: heterogeneous-scaffolds-sct-framework
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Per-student special education costs fall with enrollment up to an ideal size, then rise as diseconomies of scale set in
 description: Per-student special education costs fall with enrollment up to an ideal size, then rise as diseconomies of scale set in
 id: special-education-economies-of-scale-ideal-enrollment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

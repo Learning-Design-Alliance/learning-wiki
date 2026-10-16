@@ -3,7 +3,7 @@ type: element
 id: peer-tutoring-response-groups-practice
 title: "Peer Tutoring and Response Groups practice: paired tutoring and small response groups for English language learners"
 description: An instructional practice aiming to improve the language and achievement of English language learners by pairing or grouping students to work on a task.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

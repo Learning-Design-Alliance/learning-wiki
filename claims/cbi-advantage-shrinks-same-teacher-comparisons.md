@@ -3,7 +3,7 @@ type: claim
 title: The measured advantage of computer-based instruction over conventional teaching shrinks when the same teacher teaches both versions
 description: The measured advantage of computer-based instruction over conventional teaching shrinks when the same teacher teaches both versions
 id: cbi-advantage-shrinks-same-teacher-comparisons
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

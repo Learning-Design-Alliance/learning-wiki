@@ -3,7 +3,7 @@ type: claim
 title: A MATLAB inverse-kinematics pipeline automated generation of 38 of 52 LIS signs on Pepper and cut authoring time from 45–60 to under 10 minutes per sign
 description: A MATLAB inverse-kinematics pipeline automated generation of 38 of 52 LIS signs on Pepper and cut authoring time from 45–60 to under 10 minutes per sign
 id: ik-pipeline-automates-pepper-lis-sign-generation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

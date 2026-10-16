@@ -3,7 +3,7 @@ type: claim
 title: In the data-driven instruction evaluation, most aspects of the intervention were implemented as planned
 description: In the data-driven instruction evaluation, most aspects of the intervention were implemented as planned
 id: data-driven-instruction-support-implemented-as-planned
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

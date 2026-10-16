@@ -3,7 +3,7 @@ type: research-method
 id: ordered-network-analysis-ona
 title: Ordered network analysis (ONA)
 description: "Ordered network analysis extends epistemic network analysis by incorporating temporal ordering into network construction, \"allowing edges to represent ordered transitions between codes rather than unordered co-occurrence.\" The article applies ONA to retrospective cued-recall affect reports from a sh"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

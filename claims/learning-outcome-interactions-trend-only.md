@@ -3,7 +3,7 @@ type: claim
 title: Interactions between learner characteristics and dialogue format for learning outcomes showed only trends toward significance, not significant effects
 description: Interactions between learner characteristics and dialogue format for learning outcomes showed only trends toward significance, not significant effects
 id: learning-outcome-interactions-trend-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

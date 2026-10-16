@@ -3,7 +3,7 @@ type: claim
 title: Full information MML estimation of the bi-factor model requires only two-dimensional integrations under more general conditions than the probit-link, multivariate-normal derivation of Gibbons and Hedeker
 description: Full information MML estimation of the bi-factor model requires only two-dimensional integrations under more general conditions than the probit-link, multivariate-normal derivation of Gibbons and Hedeker
 id: mml-bifactor-two-dimensional-integrals-general-conditions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: In a pilot with eight medical students, multimodal MedGame was perceived as more engaging and useful than text-only MedGame and original case material
 description: In a pilot with eight medical students, multimodal MedGame was perceived as more engaging and useful than text-only MedGame and original case material
 id: multimodal-medgame-higher-perceived-engagement-pilot
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

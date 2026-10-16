@@ -3,7 +3,7 @@ type: claim
 title: A single natural-language command can be decomposed by an LLM into coordinated sequential action sequences for multiple robots
 description: A single natural-language command can be decomposed by an LLM into coordinated sequential action sequences for multiple robots
 id: llm-decomposes-command-into-multi-robot-action-sequences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

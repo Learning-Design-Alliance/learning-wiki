@@ -2,7 +2,7 @@
 type: theory
 title: Global competence is defined as the capacity and disposition to understand and act on issues of global significance
 description: "The presentation offers a compact definition of global competence: \"The capacity and disposition to understand and act on issues of global significance.\" It frames global competence as a rationale for CBL by connectin..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

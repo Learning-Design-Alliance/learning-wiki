@@ -3,7 +3,7 @@ type: claim
 title: During the prior year before the intervention, EL-Non-EL gaps widened in all DRDP domains and ELs were expected to grow less than Non-ELs, significantly for PD only
 description: During the prior year before the intervention, EL-Non-EL gaps widened in all DRDP domains and ELs were expected to grow less than Non-ELs, significantly for PD only
 id: prior-year-gaps-widened-els-grew-less
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

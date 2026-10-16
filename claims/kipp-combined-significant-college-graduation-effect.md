@@ -3,7 +3,7 @@ type: claim
 title: KIPP middle and high schools had a large, statistically significant combined effect on college graduation rates
 description: KIPP middle and high schools had a large, statistically significant combined effect on college graduation rates
 id: kipp-combined-significant-college-graduation-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

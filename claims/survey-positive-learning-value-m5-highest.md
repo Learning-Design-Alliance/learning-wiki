@@ -3,7 +3,7 @@ type: claim
 title: In a voluntary group survey, all 12 module-activity items had a median of 4, with M5 implementation items rated highest
 description: In a voluntary group survey, all 12 module-activity items had a median of 4, with M5 implementation items rated highest
 id: survey-positive-learning-value-m5-highest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

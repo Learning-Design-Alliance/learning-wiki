@@ -3,7 +3,7 @@ type: claim
 title: The evidence base for CWPT in beginning reading is small, with no standards-meeting studies of alphabetics, fluency, or comprehension
 description: The evidence base for CWPT in beginning reading is small, with no standards-meeting studies of alphabetics, fluency, or comprehension
 id: cwpt-evidence-base-small-reading-domains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

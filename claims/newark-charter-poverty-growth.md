@@ -3,7 +3,7 @@ type: claim
 title: Newark charter school students in poverty outgrew both the state poverty average and Newark district students in poverty in reading, and the state average in math
 description: Newark charter school students in poverty outgrew both the state poverty average and Newark district students in poverty in reading, and the state average in math
 id: newark-charter-poverty-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

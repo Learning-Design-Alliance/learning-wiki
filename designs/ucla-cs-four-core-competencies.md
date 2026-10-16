@@ -3,7 +3,7 @@ type: design
 id: ucla-cs-four-core-competencies
 title: Four core competencies and three core beliefs guiding teaching and learning at UCLA-CS
 description: "UCLA-CS grounds instruction in three core beliefs, including that \"Language and culture are central to learning and human development\", and in four core student competencies developed with multiple stakeholders: becom..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

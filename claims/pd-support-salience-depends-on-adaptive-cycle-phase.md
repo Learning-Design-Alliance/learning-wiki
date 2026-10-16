@@ -2,7 +2,7 @@
 type: claim
 title: PD support type and salience depends on a teacher team's current phase in the adaptive learning cycle
 id: pd-support-salience-depends-on-adaptive-cycle-phase
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

@@ -3,7 +3,7 @@ type: claim
 title: The combination of moving the STAR link and reporting points possible produced the best performance on all measures
 description: The combination of moving the STAR link and reporting points possible produced the best performance on all measures
 id: combined-design-changes-best-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

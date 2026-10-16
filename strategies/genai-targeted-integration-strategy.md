@@ -3,7 +3,7 @@ type: strategy
 id: genai-targeted-integration-strategy
 title: Integrate Gen-AI as a targeted instructional tool using medium-to-long-term (8–16 week) interventions, phased scaffolding, and guided prompts rather than direct answers
 description: "Based on its findings, the study proposes that Gen-AI \"should be systematically integrated as a targeted instructional tool to foster HOT\", with medium- to long-term interventions of 8–16 weeks recommended."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

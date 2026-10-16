@@ -3,7 +3,7 @@ type: claim
 title: High- and low-performing students differed significantly on the final-exam ENA network X dimension but not the Y dimension
 description: High- and low-performing students differed significantly on the final-exam ENA network X dimension but not the Y dimension
 id: final-exam-ena-x-dimension-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ title: "LLM feedback sentiment tracks assigned scores: low scores come with more
 description: "LLM feedback sentiment tracks assigned scores: low scores come with more criticism, high scores with more praise"
 id: llm-feedback-sentiment-tracks-scores
 aliases: [shap-praise-raises-criticism-lowers-llm-scores]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

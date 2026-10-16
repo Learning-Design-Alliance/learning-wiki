@@ -3,7 +3,7 @@ type: claim
 title: Higher education educators report greater awareness of research on digital learning platforms than K-12 educators
 description: Higher education educators report greater awareness of research on digital learning platforms than K-12 educators
 id: higher-ed-greater-dlp-research-awareness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

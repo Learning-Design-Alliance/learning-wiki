@@ -3,7 +3,7 @@ type: claim
 title: The WWC found no statistically significant pooled difference between multiple UCSMP courses and comparison groups on the Mathematics Level 1 Achievement Test
 description: The WWC found no statistically significant pooled difference between multiple UCSMP courses and comparison groups on the Mathematics Level 1 Achievement Test
 id: multiple-ucsmp-courses-null-pooled-mathematics-achievement-test
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

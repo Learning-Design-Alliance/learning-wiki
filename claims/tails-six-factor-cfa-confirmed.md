@@ -3,7 +3,7 @@ type: claim
 title: Confirmatory factor analysis with preservice English language teachers supports a six-factor TAILS structure with acceptable fit (CFI = 0.919; TLI = 0.908)
 description: Confirmatory factor analysis with preservice English language teachers supports a six-factor TAILS structure with acceptable fit (CFI = 0.919; TLI = 0.908)
 id: tails-six-factor-cfa-confirmed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

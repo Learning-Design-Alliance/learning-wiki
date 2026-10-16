@@ -3,7 +3,7 @@ type: method
 id: piagetian-teacher-congruency-checklist
 title: Piagetian teacher behavioral congruency checklist for analyzing teaching styles
 description: "Mueller's paper translates Piagetian theory into a fifteen-item yes/no behavioral checklist covering environment organization, heterogeneous grouping, learner decision-making, cooperative interaction, active methods,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Researcher access to identifiable student information, not research intent alone, determines NHSR status
 description: Researcher access to identifiable student information, not research intent alone, determines NHSR status
 id: access-not-intent-determines-nhsr
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

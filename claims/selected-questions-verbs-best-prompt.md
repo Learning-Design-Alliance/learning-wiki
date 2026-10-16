@@ -3,7 +3,7 @@ type: claim
 title: The selected-questions-verbs prompting strategy yields the strongest LLM Bloom classification, reaching weighted F1 up to 0.84
 description: The selected-questions-verbs prompting strategy yields the strongest LLM Bloom classification, reaching weighted F1 up to 0.84
 id: selected-questions-verbs-best-prompt
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: element
 id: cps-probation-external-support-system
 title: CPS probation external support system with five school-level support providers
 description: "The Chicago school probation policy's external support system includes five school-level providers: \"an external partner, a probation manager, a regional education officer, a business manager or intern, and a facilita..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

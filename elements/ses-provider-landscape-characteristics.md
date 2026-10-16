@@ -3,7 +3,7 @@ type: element
 id: ses-provider-landscape-characteristics
 title: SES provider landscape and service delivery characteristics in oversubscribed districts
 description: The provider survey describes who delivered SES and how.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -43,7 +43,7 @@ The provider survey describes who delivered SES and how. "Most providers (70 per
 
 ## Related Elements
 
-- [Title I Supplemental Educational Services (SES) tutoring program](../products/title-i-supplemental-educational-services-ses.md)
+- [Title I Supplemental Educational Services (SES) tutoring program](../products/supplemental-educational-services.md)
 - [Regression discontinuity design exploiting oversubscription rationing of SEdS](seds-oversubscription-regression-discontinuity-design.md)
 
 ## Examples

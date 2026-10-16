@@ -3,7 +3,7 @@ type: research-method
 id: coding-scheme-for-observable-direction-integration-and-evaluation-in-studentai-interaction
 title: Coding scheme for observable Direction, Integration, and Evaluation in student–AI interaction traces
 description: An exploratory multilabel coding scheme applied to student turns in AI-mediated conversations, with the student turn as coding unit interpreted in relation to its local sequence and the whole conversation.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

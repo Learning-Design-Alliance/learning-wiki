@@ -3,7 +3,7 @@ type: claim
 title: "Anthropomorphic explanations appear in older children but less frequently, with only a minority of 14-year-olds' fuse explanations anthropomorphic"
 description: "Anthropomorphic explanations appear in older children but less frequently, with only a minority of 14-year-olds' fuse explanations anthropomorphic"
 id: anthropomorphic-explanations-lessen-with-age
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

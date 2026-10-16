@@ -3,7 +3,7 @@ type: strategy
 id: matrix-ranking-paired-comparisons-needs
 title: Prioritize felt needs using matrix ranking or paired comparisons before verification
 description: To select the first tentative problem area for a staff development plan, the workbook teaches two group prioritization techniques for felt needs.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

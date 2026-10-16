@@ -3,7 +3,7 @@ type: claim
 title: "Students enter E&M with a higher initial Newton's Third Law response (66%) than they exited Mechanics, most likely due to a winnowing effect"
 description: "Students enter E&M with a higher initial Newton's Third Law response (66%) than they exited Mechanics, most likely due to a winnowing effect"
 id: winnowing-effect-raises-em-entry-response
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

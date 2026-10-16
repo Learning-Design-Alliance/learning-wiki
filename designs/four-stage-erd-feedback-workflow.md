@@ -3,7 +3,7 @@ type: design
 id: four-stage-erd-feedback-workflow
 title: "Four-stage learner-controlled workflow: concept check, guided application, guided feedback, and guided Q&A"
 description: The deployed workflow implements graduated prompting under learner control in an ERD editor.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

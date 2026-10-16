@@ -3,7 +3,7 @@ type: strategy
 id: llm-mindfulness-layer-in-its
 title: Deliver scalable socio-emotional support in ITSs via LLM-based mindful chat, breathing exercises, and mindful hint language
 description: "The article recommends embedding mindfulness into structured ITSs through LLM-driven interactions rather than instructor-led programs: a context-sensitive mindful chat between math units, brief guided breathing exerci..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -54,4 +54,4 @@ The article recommends embedding mindfulness into structured ITSs through LLM-dr
 -
 
 ## Key Sources
-- Rief, V., Hladký, M., Yoo, M., Heel, S., Sato, S., Nagashima, T. (2026). Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning. https://arxiv.org/abs/2609.02611
+- Rief, V., Hladký, M., Yoo, M., Heel, S., Sato, S., Nagashima, T. (2026). Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning. https://arxiv.org/abs/2609.02611. [doi:10.48550/arxiv.2609.02611](https://doi.org/10.48550/arxiv.2609.02611)

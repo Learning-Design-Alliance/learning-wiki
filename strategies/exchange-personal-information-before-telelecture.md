@@ -3,7 +3,7 @@ type: strategy
 id: exchange-personal-information-before-telelecture
 title: Exchange personal and biographical information between speaker and students before the telelecture
 description: "The author recommends building personal contact into telelectures: \"The students expressed considerable interest in knowing more about the speaker as a person.A picture plus some biographical information might have he..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

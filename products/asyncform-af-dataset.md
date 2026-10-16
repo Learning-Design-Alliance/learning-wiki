@@ -4,7 +4,7 @@ id: asyncform-af-dataset
 title: Asyncform (AF) dataset
 description: A corpus of 863 AI-generated educational questions in English, Mathematics, and Science, labeled by K–12 teachers with Bloom Taxonomy levels and related subject, grade-level, objective, and question metadata; it was created and released by Michael Lawrence Castanares et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

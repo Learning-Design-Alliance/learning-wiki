@@ -63,7 +63,7 @@ Process focus changes what gets noticed and rewarded. Learners calibrate their g
 - [Competency-Based Learning](../patterns/competency-based-learning.md) — a structural alternative to grade-based evaluation
 
 ## Examples
-- **Learning journals** — learners record strategies attempted, obstacles encountered, and revisions made; the journal is assessed for depth of reflection, not polish.
+- **[Learning journals](learning-journals.md)** — learners record strategies attempted, obstacles encountered, and revisions made; the journal is assessed for depth of reflection, not polish.
 - **Draft-revision grading** — writing courses that grade improvement from first draft to final, so early errors cost nothing and revision is rewarded.
 - **[Khan Academy](https://www.khanacademy.org)** — mastery-based progress tracking rewards persistence and retrying rather than penalizing early errors.
 - **Portfolio assessment in studio art and design programs** — process books documenting iterations are graded alongside final pieces, making experimentation visible and valued.

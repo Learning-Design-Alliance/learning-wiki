@@ -3,7 +3,7 @@ type: strategy
 id: arcs-satisfaction-strategies
 title: "ARCS satisfaction strategies: intrinsic reinforcement, extrinsic rewards and equity"
 description: "Satisfaction is the fourth ARCS component, described as strategies \"that provide extrinsic and intrinsic reinforcement for effort\"."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

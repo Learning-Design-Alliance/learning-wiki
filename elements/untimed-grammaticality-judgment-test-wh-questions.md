@@ -3,7 +3,7 @@ type: element
 id: untimed-grammaticality-judgment-test-wh-questions
 title: Untimed grammaticality judgment test for measuring wh-question learning gains
 description: The study measured learning gains with an untimed grammaticality judgment test administered as pretest, posttest, and delayed posttest.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

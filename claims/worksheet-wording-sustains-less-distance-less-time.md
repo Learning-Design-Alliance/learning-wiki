@@ -3,7 +3,7 @@ type: claim
 title: The colloquial ambiguity of the words short and long in a worksheet question sustains the intuition that less distance implies less time
 description: The colloquial ambiguity of the words short and long in a worksheet question sustains the intuition that less distance implies less time
 id: worksheet-wording-sustains-less-distance-less-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

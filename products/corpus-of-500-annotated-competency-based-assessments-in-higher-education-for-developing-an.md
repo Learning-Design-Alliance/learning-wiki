@@ -4,7 +4,7 @@ id: corpus-of-500-annotated-competency-based-assessments-in-higher-education-for
 title: Corpus of 500 annotated competency-based assessments in higher education for developing and evaluating the Teacher Evaluator
 description: A corpus of 500 anonymized, annotated higher-education competency-based assessments compiled by Agerri et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

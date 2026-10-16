@@ -4,7 +4,7 @@ id: critics
 title: CRITICS
 description: CRITICS is a project-developed suite including an LLM-based scientific document translation system that preserves domain terminology, notation, and document structure for multilingual science education.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

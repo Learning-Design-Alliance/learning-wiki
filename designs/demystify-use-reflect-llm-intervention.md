@@ -3,7 +3,7 @@ type: design
 id: demystify-use-reflect-llm-intervention
 title: "Demystify, use, and reflect: a structured LLM-intervention course design positioning LLMs as tools for supported learning"
 description: "The course design centers on a structured intervention that works by \"demystifying LLMs, how they work, their capabilities, and their probabilistic nature and limitations, alongside guided use through prompting strate..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11
@@ -52,4 +52,4 @@ The course design centers on a structured intervention that works by "demystifyi
 -
 
 ## Key Sources
-- Nizamani, S. B., Lee, Y., Donekal Chandrashekar, N., Ellis, M., & Ramakrishnan, N. (2026). Understanding Student Use of Large Language Models Across Computer Science Subfields. https://arxiv.org/abs/2610.01158
+- Nizamani, S. B., Lee, Y., Donekal Chandrashekar, N., Ellis, M., & Ramakrishnan, N. (2026). Understanding Student Use of Large Language Models Across Computer Science Subfields. https://arxiv.org/abs/2610.01158. [doi:10.48550/arxiv.2610.01158](https://doi.org/10.48550/arxiv.2610.01158)

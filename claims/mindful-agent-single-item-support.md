@@ -3,7 +3,7 @@ type: claim
 title: Mindful-condition students rated the pedagogical agent as more supportive and more concerned about their well-being on single items
 description: Mindful-condition students rated the pedagogical agent as more supportive and more concerned about their well-being on single items
 id: mindful-agent-single-item-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -18,8 +18,8 @@ sources:
     kind: causal
     rigour: 1
   - id: rief-2026-2
-    resource: "https://arxiv.org/abs/2609.02611"
-    title: "Rief, V., Hladký, M., Yoo, M., Heel, S., Sato, S., Nagashima, T. (2026). Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning. https://arxiv.org/abs/2609.02611"
+    resource: "https://doi.org/10.48550/arxiv.2609.02611"
+    title: "Rief, V., Hladký, M., Yoo, M., Heel, S., Sato, S., Nagashima, T. (2026). Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning. https://arxiv.org/abs/2609.02611. [doi:10.48550/arxiv.2609.02611](https://doi.org/10.48550/arxiv.2609.02611)"
     author: Rief, V., Hladký, M., Yoo, M., Heel, S., Sato, S., Nagashima, T.
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Mindful-condition students rated the pedagogical agent as more supportive and more concerned about their well-being on single items
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1`–`r2` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3`
 
 In Rief et al. (2026), seventh graders practised algebra in the "Math with Matt" tutoring system. The Mindful version added an LLM-based mindful chat, in which the pedagogical agent Matt gave context-sensitive emotional support, and mindful (not only evaluative) feedback and hint messages; the Cognitive version gave cognitive support only.
 
@@ -52,7 +52,7 @@ Single-item analyses of the self-composed pedagogical-agent questionnaires (Cron
 
 ### Rief 2026 (2)
 
-Rief, V., Hladký, M., Yoo, M., Heel, S., Sato, S., Nagashima, T. (2026). Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning. https://arxiv.org/abs/2609.02611
+Rief, V., Hladký, M., Yoo, M., Heel, S., Sato, S., Nagashima, T. (2026). Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning. https://arxiv.org/abs/2609.02611. [doi:10.48550/arxiv.2609.02611](https://doi.org/10.48550/arxiv.2609.02611)
 
 `q3 · i?` · `causal · r2`
 

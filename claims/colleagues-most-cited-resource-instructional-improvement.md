@@ -3,7 +3,7 @@ type: claim
 title: Colleagues were the most cited influential resource supporting instructional improvement efforts across seven Chicago schools
 description: Colleagues were the most cited influential resource supporting instructional improvement efforts across seven Chicago schools
 id: colleagues-most-cited-resource-instructional-improvement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

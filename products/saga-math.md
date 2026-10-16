@@ -4,7 +4,7 @@ id: saga-math
 title: Saga Math
 description: Saga Math is an in-school, high-dosage mathematics tutoring programme for secondary students, offered in small-group traditional and technology-enhanced models and implemented by Saga Education.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "The survey reports, citing Jung et al., that students' language proficiency as side information was effective in promoting several KT models, including DKT, DKVMN and SAKT."
 description: "The survey reports, citing Jung et al., that students' language proficiency as side information was effective in promoting several KT models, including DKT, DKVMN and SAKT."
 id: language-proficiency-side-information-improves-kt-models
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

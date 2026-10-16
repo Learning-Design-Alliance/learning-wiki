@@ -3,7 +3,7 @@ type: strategy
 id: corrective-reading-70-hour-three-phase-pd-strategy
 title: "Provide 70 hours of professional development in three phases: intensive training, practice, and implementation"
 description: "In the qualifying study, \"teachers in the study received 70 hours of professional development which included three phases: intensive training, practice, and implementation\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

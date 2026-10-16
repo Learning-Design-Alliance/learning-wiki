@@ -3,7 +3,7 @@ type: claim
 title: Shifting to restorative practices reduced exclusionary discipline and its racial disparities while improving climate and achievement
 description: Shifting to restorative practices reduced exclusionary discipline and its racial disparities while improving climate and achievement
 id: restorative-practices-reduce-exclusionary-discipline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

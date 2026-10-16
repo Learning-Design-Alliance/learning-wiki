@@ -4,7 +4,7 @@ id: kp-lab
 title: KP-Lab
 description: The KP-Lab toolset, developed by the European KP-Lab project, is a suite of digital tools for creating knowledge artefacts, coordinating collaborative knowledge-creation processes, supporting networked communities, and enabling reflection.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

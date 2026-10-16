@@ -3,7 +3,7 @@ type: claim
 title: College graduation rates vary significantly across high schools among students with the same HSGPA, and about one-fourth of that school-level variation is induced by comparing students with similar HSGPAs
 description: College graduation rates vary significantly across high schools among students with the same HSGPA, and about one-fourth of that school-level variation is induced by comparing students with similar HSGPAs
 id: school-variance-same-hsgpa-graduation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

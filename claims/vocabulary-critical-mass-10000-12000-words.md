@@ -3,7 +3,7 @@ type: claim
 title: A critical mass of roughly 10,000-12,000 words is needed for fluent reading, from which ESL strategies can begin
 description: A critical mass of roughly 10,000-12,000 words is needed for fluent reading, from which ESL strategies can begin
 id: vocabulary-critical-mass-10000-12000-words
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

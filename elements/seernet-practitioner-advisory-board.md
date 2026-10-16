@@ -3,7 +3,7 @@ type: element
 id: seernet-practitioner-advisory-board
 title: "SEERNet Practitioner Advisory Board: six practitioners meeting monthly to advise the research network"
 description: "The advisory board comprises six practitioners—classroom teachers, school psychologists, instructional coaches, district-level and state leaders—recruited to give practitioners \"a direct voice in SEERNet.\" Meeting mon..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

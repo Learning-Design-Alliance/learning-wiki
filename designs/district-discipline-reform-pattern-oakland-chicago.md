@@ -3,7 +3,7 @@ type: design
 id: district-discipline-reform-pattern-oakland-chicago
 title: "District-level reform pattern: data transparency, defiance-suspension bans, and restorative infrastructure"
 description: "The guide identifies a reusable district-level pattern of policy changes: \"Oakland has implemented a few practices that other districts across the country can adopt or adapt to improve schools for Latina and Black gir..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

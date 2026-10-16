@@ -3,7 +3,7 @@ type: claim
 title: High-integrity CoBi implementation requires significant teacher professional learning, and teachers adapt the system in diverse ways
 description: High-integrity CoBi implementation requires significant teacher professional learning, and teachers adapt the system in diverse ways
 id: cobi-requires-professional-learning-for-integrity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Many SSI youth received transition services without PROMISE, but there was substantial room for PROMISE to improve service use
 description: Many SSI youth received transition services without PROMISE, but there was substantial room for PROMISE to improve service use
 id: promise-ssi-youth-transition-services-baseline-room-for-improvement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: withdraw-mentor-support-earlier
 title: Withdraw mentor support earlier than currently thought, and calibrate how closely mentors work with mentees
 description: "Based on the finding that unmentored teachers, especially reentry teachers, progressed furthest through Fuller's stages, the authors recommend studying how closely mentors should work with new teachers and when suppor..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

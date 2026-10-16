@@ -3,7 +3,7 @@ type: strategy
 id: supports-for-acting-on-child-assessment-information
 title: Provide formal training, ongoing supervisory support, and colleague collaboration when introducing new child assessments
 description: "The brief recommends that early childhood programs support teachers acting on assessment information through three channels: more opportunities for formal training, ongoing supervisory support, and collaboration with..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

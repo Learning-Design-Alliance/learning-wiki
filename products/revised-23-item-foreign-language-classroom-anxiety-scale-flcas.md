@@ -4,7 +4,7 @@ id: revised-23-item-foreign-language-classroom-anxiety-scale-flcas
 title: Revised 23-item Foreign Language Classroom Anxiety Scale (FLCAS)
 description: A 23-item Likert-scale questionnaire revised by Sadighi et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

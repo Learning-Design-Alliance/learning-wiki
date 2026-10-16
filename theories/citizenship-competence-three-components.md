@@ -2,7 +2,7 @@
 type: theory
 title: "Citizenship competence comprises three interrelated components: civic knowledge, civic skills, and civic dispositions or virtues"
 description: "The article defines civic or citizenship competence drawing on the National Standards for Civics and Government, which claim that \"a real citizenship competence (and therefore its education) has three interrelated com..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

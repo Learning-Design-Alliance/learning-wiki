@@ -3,7 +3,7 @@ type: strategy
 id: grade-free-classroom-set-clicker-implementation
 title: Implement clickers grade-free, with a classroom set and limited frequency, to support positive student perceptions
 description: "The article's discussion identifies implementation aspects that shaped perceptions: procuring \"a classroom set of clickers avoided students' concerns regarding clicker cost,\" answers had no direct impact on course gra..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

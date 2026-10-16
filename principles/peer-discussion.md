@@ -109,7 +109,7 @@ An immediate isomorphic-question gain, delayed retention, transfer to an unfamil
 - [Building Empathy](building-empathy.md) — structured peer talk can deepen understanding of others' experience and reasoning.
 
 ## Examples
-- **Think-pair-share**: Learners explain an initial idea to a partner before whole-group discussion.
+- **[Think-pair-share](../patterns/think-pair-share.md)**: Learners explain an initial idea to a partner before whole-group discussion.
 - **Small-group text talk**: Learners compare interpretations of a passage using evidence from the text.
 - **Peer problem discussion**: Learners explain how they approached a problem and where their reasoning diverged.
 - **Online discussion prompts**: Learners post and respond to one another with evidence and clarification questions.

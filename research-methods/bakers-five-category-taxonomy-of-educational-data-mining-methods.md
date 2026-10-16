@@ -3,7 +3,7 @@ type: research-method
 id: bakers-five-category-taxonomy-of-educational-data-mining-methods
 title: "Baker's five-category taxonomy of educational data mining methods"
 description: "The review presents Baker's [in press] classification of EDM methods into five categories: prediction (with sub-categories classification, regression, and density estimation), clustering, relationship mining (association rule mining, correlation mining, sequential pattern mining, causal data mining)"
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

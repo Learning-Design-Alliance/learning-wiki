@@ -3,7 +3,7 @@ type: claim
 title: LearnLM receives the highest expert pedagogy-rubric marks across rubric categories, with the largest leads in active learning, metacognition, and curiosity
 description: LearnLM receives the highest expert pedagogy-rubric marks across rubric categories, with the largest leads in active learning, metacognition, and curiosity
 id: learnlm-highest-pedagogy-rubric-marks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

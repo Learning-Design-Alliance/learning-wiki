@@ -3,7 +3,7 @@ type: claim
 title: Combining the pattern detector with an LLM fallback does not improve joint detection accuracy over the LLM alone
 description: Combining the pattern detector with an LLM fallback does not improve joint detection accuracy over the LLM alone
 id: pattern-plus-llm-fallback-no-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -45,3 +45,4 @@ Joint orchestration analysis on the real corpus comparing a hybrid configuration
 ## Related Claims
 - [Free-tier LLM detection performance varies widely and differs by corpus: gemini-2.0-flash leads on real data while the pattern detector leads on synthetic data for intent detection](llm-detection-variability-across-corpus.md) — related
 - [The deterministic pattern detector achieves high pair precision (73.21%) with explicit abstention but covers only 32% of real queries](pattern-detector-high-precision-low-coverage.md) — reports the opposite
+- In a lymph-node cancer detection study, a combined AI-plus-human approach lowered the error rate to 0.5 percent, an 85 percent reduction, versus 7.5 percent for AI alone and 3.5 percent for a human pathologist — related

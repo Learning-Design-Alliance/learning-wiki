@@ -3,7 +3,7 @@ type: claim
 title: AI ethics research shows a pronounced acceleration in publications after 2021, with nonlinear accelerating growth rather than linear development
 description: AI ethics research shows a pronounced acceleration in publications after 2021, with nonlinear accelerating growth rather than linear development
 id: ai-ethics-publications-accelerate-after-2021
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

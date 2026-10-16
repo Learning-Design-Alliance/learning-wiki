@@ -3,7 +3,7 @@ type: strategy
 id: cultivate-data-improvement-cycle
 title: Use student experience data in an iterative inquire-change-monitor cycle with students as partners
 description: "The playbook recommends that teachers and staff use Cultivate data in a continuous cycle: \"Ask questions about what students are experiencing in school\", brainstorm potential changes with colleagues and students, try..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

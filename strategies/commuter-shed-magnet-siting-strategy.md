@@ -3,7 +3,7 @@ type: strategy
 id: commuter-shed-magnet-siting-strategy
 title: Use job center and commuter shed analysis to site and design magnet schools
 description: The report recommends siting magnets near job centers so parents can transport children during commutes, increasing demand for open-enrollment seats.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

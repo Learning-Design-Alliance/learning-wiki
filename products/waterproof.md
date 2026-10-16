@@ -4,7 +4,7 @@ id: waterproof
 title: Waterproof
 description: Waterproof is an educational AI tool developed by Portegies et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10
@@ -31,4 +31,4 @@ Waterproof is an educational AI tool developed by Portegies et al. that supports
 - [Math Mysteries](math-mysteries.md)
 
 ## Key Sources
-- Kudina, O. (2025). Using AI in engineering education: a balancing act, driven by clear purpose. Draft version, to appear in The Routledge Handbook of the Philosophy of Engineering, 2nd ed.
+- Kudina, O. (2025). Using AI in engineering education: a balancing act, driven by clear purpose. Draft version, to appear in The Routledge Handbook of the Philosophy of Engineering, 2nd ed. [doi:10.48550/arxiv.2606.16626](https://doi.org/10.48550/arxiv.2606.16626)

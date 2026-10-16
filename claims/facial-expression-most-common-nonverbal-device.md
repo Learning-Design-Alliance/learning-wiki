@@ -3,7 +3,7 @@ type: claim
 title: Facial expression was the most common nonverbal attention-getting device, and the open hand the most common hand gesture
 description: Facial expression was the most common nonverbal attention-getting device, and the open hand the most common hand gesture
 id: facial-expression-most-common-nonverbal-device
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

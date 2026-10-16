@@ -3,7 +3,7 @@ type: claim
 title: In a low-certainty meta-analysis of 44 studies with very high heterogeneity (I² = 98%), undergraduate health professional students in flipped classes score higher than those in traditional classes (SMD = 0.57)
 description: In a low-certainty meta-analysis of 44 studies with very high heterogeneity (I² = 98%), undergraduate health professional students in flipped classes score higher than those in traditional classes (SMD = 0.57)
 id: flipped-classroom-improves-academic-performance-hpe
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

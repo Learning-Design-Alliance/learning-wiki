@@ -4,7 +4,7 @@ id: aleks-and-aleks-ppl-behavioral-trace-datasets-for-studying-ai-era-learning-b
 title: ALEKS and ALEKS PPL behavioral trace datasets for studying AI-era learning behavior
 description: Large-scale datasets made available by ALEKS containing learning interactions, placement-assessment responses, response times, and retention-item outcomes for studying mathematics learning behavior.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11
@@ -31,4 +31,4 @@ Large-scale datasets made available by ALEKS containing learning interactions, p
 - [Opiq 6th-grade mathematics interaction dataset from Estonia](opiq-6th-grade-mathematics-interaction-dataset-from-estonia.md)
 
 ## Key Sources
-- Rismanchian, S., Uzun, H., Matayoshi, J., Cosyn, E., & Kurd-Misto, E. (2026). Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build. arXiv preprint. https://arxiv.org/abs/2605.21629
+- Rismanchian, S., Uzun, H., Matayoshi, J., Cosyn, E., & Kurd-Misto, E. (2026). Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build. arXiv preprint. https://arxiv.org/abs/2605.21629. [doi:10.48550/arxiv.2605.21629](https://doi.org/10.48550/arxiv.2605.21629)

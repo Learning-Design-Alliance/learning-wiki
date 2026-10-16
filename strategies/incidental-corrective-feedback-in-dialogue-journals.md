@@ -3,7 +3,7 @@ type: strategy
 id: incidental-corrective-feedback-in-dialogue-journals
 title: Provide incidental corrective feedback through clarification requests, recasts, and a P.S.
 description: "The author recommends gentle, incidental corrective feedback that preserves the journal's communicative nature: clarification and confirmation requests such as \"What do you mean by….?\", recasting errors in the teacher..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

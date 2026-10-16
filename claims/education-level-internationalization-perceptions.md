@@ -3,7 +3,7 @@ type: claim
 title: Higher educational attainment is associated with more positive evaluations of international cooperation efforts
 description: Higher educational attainment is associated with more positive evaluations of international cooperation efforts
 id: education-level-internationalization-perceptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: A prior random-assignment evaluation found the BELL summer learning intervention effective
 description: A prior random-assignment evaluation found the BELL summer learning intervention effective
 id: bell-summer-program-random-assignment-effective
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

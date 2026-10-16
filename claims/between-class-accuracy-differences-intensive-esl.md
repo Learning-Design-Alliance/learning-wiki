@@ -3,7 +3,7 @@ type: claim
 title: Substantial between-class differences exist in the accuracy with which intensive ESL students use structures such as progressive -ing and adjective–noun order in noun phrases
 description: Substantial between-class differences exist in the accuracy with which intensive ESL students use structures such as progressive -ing and adjective–noun order in noun phrases
 id: between-class-accuracy-differences-intensive-esl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

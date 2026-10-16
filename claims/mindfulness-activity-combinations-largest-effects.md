@@ -3,7 +3,7 @@ type: claim
 title: Mindfulness interventions consisting of combinations of various mindfulness activities show the largest effects on youth mental health and well-being
 description: Mindfulness interventions consisting of combinations of various mindfulness activities show the largest effects on youth mental health and well-being
 id: mindfulness-activity-combinations-largest-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: "Charter school impacts differ sharply by locale: urban charters show stronger reading growth while suburban and town charters show weaker growth in both subjects"
 description: "Charter school impacts differ sharply by locale: urban charters show stronger reading growth while suburban and town charters show weaker growth in both subjects"
 id: pa-charter-impact-by-locale
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

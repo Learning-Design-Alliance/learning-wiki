@@ -3,7 +3,7 @@ type: claim
 title: After the promotion gate, general education eighth graders were retained at far higher rates while retention of students with disabilities fell, raising the disabled share of ninth graders
 description: After the promotion gate, general education eighth graders were retained at far higher rates while retention of students with disabilities fell, raising the disabled share of ninth graders
 id: cps-promotion-gate-shifted-retention-to-general-education
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Racial disparities in 2024-25 closure likelihood hold after accounting for enrollment declines and poverty
 description: Racial disparities in 2024-25 closure likelihood hold after accounting for enrollment declines and poverty
 id: racial-closure-disparity-holds-controlling-enrollment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

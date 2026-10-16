@@ -3,7 +3,7 @@ type: strategy
 id: gradual-shift-to-higher-level-prompts
 title: Gradually shift the adult role from reading to listening and higher-level prompting as the child becomes familiar with a book
 description: "Within dialogic reading, the adult progressively reduces their own reading and increases the child's storytelling."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

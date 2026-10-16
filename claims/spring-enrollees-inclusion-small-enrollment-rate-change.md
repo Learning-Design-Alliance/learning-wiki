@@ -3,7 +3,7 @@ type: claim
 title: "Including spring first-time enrollees changes CPS graduates' immediate college enrollment rates by no more than two percentage points in any cohort"
 description: "Including spring first-time enrollees changes CPS graduates' immediate college enrollment rates by no more than two percentage points in any cohort"
 id: spring-enrollees-inclusion-small-enrollment-rate-change
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

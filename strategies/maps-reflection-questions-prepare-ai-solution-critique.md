@@ -3,7 +3,7 @@ type: strategy
 id: maps-reflection-questions-prepare-ai-solution-critique
 title: Use MAPS-based reflection questions to prepare students to critique AI-generated physics solutions
 description: Before evaluating an AI solution, students critique an AI output to a related preparation problem using structured reflection questions organized around the MAPS rubric categories.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

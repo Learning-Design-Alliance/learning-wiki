@@ -3,7 +3,7 @@ type: claim
 title: Preference for LLMs aligns only weakly with AI Interaction Competence, producing enthusiastic-but-unskilled and skilled-but-reluctant subgroups
 description: Preference for LLMs aligns only weakly with AI Interaction Competence, producing enthusiastic-but-unskilled and skilled-but-reluctant subgroups
 id: preference-ability-mismatch-aic
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: A significant concern for business students is wanting to use GenAI in academic work without unintentionally committing academic misconduct
 description: A significant concern for business students is wanting to use GenAI in academic work without unintentionally committing academic misconduct
 id: student-concern-unintentional-genai-academic-misconduct
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

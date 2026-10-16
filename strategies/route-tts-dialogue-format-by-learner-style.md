@@ -3,7 +3,7 @@ type: strategy
 id: route-tts-dialogue-format-by-learner-style
 title: Select TTS dialogue format by learner characteristics, with LMS pre-assessment routing and role disclosure supports
 description: "The article recommends that, rather than delivering a single dialogue format uniformly, designers select or recommend formats based on learners' experiential learning style."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

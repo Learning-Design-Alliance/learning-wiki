@@ -3,7 +3,7 @@ type: design
 id: scoe-centralized-fqhc-mental-health-services
 title: SCOE centralized school-based mental health services through an FQHC-eligible Medi-Cal billing model
 description: SCOE hires clinicians and places them in schools under the Sacramento County Health Center, a Federally Qualified Healthcare Center eligible for Medi-Cal billing.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Early-exit transitional bilingual programs that provide minimal early-grade English literacy and then transition students to all-English classrooms with no support are inappropriate
 description: Early-exit transitional bilingual programs that provide minimal early-grade English literacy and then transition students to all-English classrooms with no support are inappropriate
 id: early-exit-transitional-transition-unsupported-inappropriate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

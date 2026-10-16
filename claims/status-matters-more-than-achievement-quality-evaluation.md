@@ -3,7 +3,7 @@ type: claim
 title: School status matters more than achievement to parents when evaluating school quality
 description: School status matters more than achievement to parents when evaluating school quality
 id: status-matters-more-than-achievement-quality-evaluation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

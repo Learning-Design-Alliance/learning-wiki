@@ -3,7 +3,7 @@ type: strategy
 id: reinvigorate-ai-as-analogy-research-directions
 title: "Reinvigorate bottom-half AI×Ed research: AI literacy for reflection on learning, machine teaching, and agent-based models of learning"
 description: The authors articulate future directions to revive research in the bottom half of AI×Ed, where AI serves as an analogy to human intelligence.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

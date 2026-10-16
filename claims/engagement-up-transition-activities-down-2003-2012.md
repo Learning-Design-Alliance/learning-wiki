@@ -3,7 +3,7 @@ type: claim
 title: From 2003 to 2012, youth with disabilities showed greater school engagement and support use but became less likely to participate in some key transition activities
 description: From 2003 to 2012, youth with disabilities showed greater school engagement and support use but became less likely to participate in some key transition activities
 id: engagement-up-transition-activities-down-2003-2012
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

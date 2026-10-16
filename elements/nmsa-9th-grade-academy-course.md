@@ -3,7 +3,7 @@ type: element
 id: nmsa-9th-grade-academy-course
 title: NMSA 9th Grade Academy course teaching skills for success with research-based learning strategies
 description: The 9th Grade Academy is a mandatory NMSA seminar, required since 2014, in which students learn skills for success including study habits, close reading skills, and public speaking meant to carry through high school.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

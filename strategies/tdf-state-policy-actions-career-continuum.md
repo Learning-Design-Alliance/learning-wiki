@@ -3,7 +3,7 @@ type: strategy
 id: tdf-state-policy-actions-career-continuum
 title: "State policy actions across the career continuum: attract, prepare, and develop/support/retain educators"
 description: The document enumerates concrete state policy actions organized in three sections with numbered components and subcomponents describing practices used by states and districts.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

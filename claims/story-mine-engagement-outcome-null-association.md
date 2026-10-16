@@ -3,7 +3,7 @@ type: claim
 title: Intervention engagement (narratives consumed) showed no clear association with outcome changes
 description: Intervention engagement (narratives consumed) showed no clear association with outcome changes
 id: story-mine-engagement-outcome-null-association
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

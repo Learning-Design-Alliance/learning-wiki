@@ -3,7 +3,7 @@ type: claim
 title: On the primary base, a turn that leaks the answer predicts a higher Opus helpfulness rating and less next-turn independent student work
 description: On the primary base, a turn that leaks the answer predicts a higher Opus helpfulness rating and less next-turn independent student work
 id: per-turn-leakage-coupling-primary-base
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

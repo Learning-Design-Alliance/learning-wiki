@@ -2,7 +2,7 @@
 type: theory
 title: Digital Promise defines computational thinking as a set of computational skills and computational practices that teachers can map onto subject-matter learning
 description: The report defines computational thinking for practitioners as practices and skills rather than technical jargon.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

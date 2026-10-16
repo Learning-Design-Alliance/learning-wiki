@@ -3,7 +3,7 @@ type: claim
 title: "The lack of guidelines for test score use fails to reflect the ultimate purpose of a test score: helping solve an important problem faced by intended test users"
 description: "The lack of guidelines for test score use fails to reflect the ultimate purpose of a test score: helping solve an important problem faced by intended test users"
 id: score-use-guidelines-fail-ultimate-purpose
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

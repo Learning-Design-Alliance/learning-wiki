@@ -3,7 +3,7 @@ type: claim
 title: "KIPP's Five Pillars strongly influenced the charter school community and traditional public schools"
 description: "KIPP's Five Pillars strongly influenced the charter school community and traditional public schools"
 id: kipp-five-pillars-influenced-charter-sector
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

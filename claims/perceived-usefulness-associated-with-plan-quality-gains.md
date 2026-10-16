@@ -3,7 +3,7 @@ type: claim
 title: Trial-level perceived usefulness of feedback is associated with the magnitude of plan quality improvement
 description: Trial-level perceived usefulness of feedback is associated with the magnitude of plan quality improvement
 id: perceived-usefulness-associated-with-plan-quality-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

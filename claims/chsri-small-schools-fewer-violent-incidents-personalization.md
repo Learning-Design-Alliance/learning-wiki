@@ -3,7 +3,7 @@ type: claim
 title: Students report fewer violent incidents and a personalized, supportive environment in CHSRI small schools
 description: Students report fewer violent incidents and a personalized, supportive environment in CHSRI small schools
 id: chsri-small-schools-fewer-violent-incidents-personalization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

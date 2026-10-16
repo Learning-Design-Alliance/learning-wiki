@@ -3,7 +3,7 @@ type: claim
 title: Students with visual impairments show lower initial reading achievement in third grade than the national norm
 description: Students with visual impairments show lower initial reading achievement in third grade than the national norm
 id: vi-students-lower-third-grade-reading-initial-status
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

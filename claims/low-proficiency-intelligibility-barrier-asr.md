@@ -3,7 +3,7 @@ type: claim
 title: Some ESL learners perceived their English proficiency as too low for ASR to transcribe intelligibly, acting as a barrier to perceived usefulness
 description: Some ESL learners perceived their English proficiency as too low for ASR to transcribe intelligibly, acting as a barrier to perceived usefulness
 id: low-proficiency-intelligibility-barrier-asr
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

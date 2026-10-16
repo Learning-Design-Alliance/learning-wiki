@@ -3,7 +3,7 @@ type: claim
 title: A more positive school climate is related to improved academic achievement beyond socioeconomic status
 description: A more positive school climate is related to improved academic achievement beyond socioeconomic status
 id: positive-school-climate-linked-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

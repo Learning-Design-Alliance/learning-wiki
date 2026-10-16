@@ -3,7 +3,7 @@ type: strategy
 id: eight-strategies-address-teacher-shortages
 title: Eight state and local strategies to address California teacher shortages
 description: "Based on research on attracting and retaining teachers, the report identifies \"eight strategies that state and local agencies in California can implement in order to address ongoing teacher shortages, particularly in..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

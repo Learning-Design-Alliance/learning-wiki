@@ -3,7 +3,7 @@ type: claim
 title: The Math Corps replication sites were successful in serving their priority communities
 description: The Math Corps replication sites were successful in serving their priority communities
 id: math-corps-replication-sites-served-priority-communities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

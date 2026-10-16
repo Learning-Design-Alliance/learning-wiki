@@ -3,7 +3,7 @@ type: claim
 title: "The value of the proposed interventions depends on the stakeholder's vantage point, desired outcomes, youth subpopulation, and available resources"
 description: "The value of the proposed interventions depends on the stakeholder's vantage point, desired outcomes, youth subpopulation, and available resources"
 id: intervention-value-depends-stakeholder-vantage-point
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

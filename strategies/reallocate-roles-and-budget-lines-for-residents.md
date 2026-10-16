@@ -3,7 +3,7 @@ type: strategy
 id: reallocate-roles-and-budget-lines-for-residents
 title: Reallocate existing district roles and budget lines—substitute teaching, paraeducator positions, and extended-day staffing—to fund and pay residents
 description: "The report's most common sustainability strategy is redirecting dollars and roles districts already pay for."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

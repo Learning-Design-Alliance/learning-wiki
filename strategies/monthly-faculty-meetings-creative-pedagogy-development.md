@@ -3,7 +3,7 @@ type: strategy
 id: monthly-faculty-meetings-creative-pedagogy-development
 title: Sustain a faculty community of practice for creative problem-solving pedagogy
 description: The article recommends developing faculty capacity for creative problem-solving teaching through an ongoing faculty group.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

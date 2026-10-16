@@ -3,7 +3,7 @@ type: claim
 title: "Preservice teachers' interpreting and shaping dimensions show the strongest co-occurrence across all three weeks of AI-based simulation interactions"
 description: "Preservice teachers' interpreting and shaping dimensions show the strongest co-occurrence across all three weeks of AI-based simulation interactions"
 id: interpreting-shaping-strongest-co-occurrence-ai-simulations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

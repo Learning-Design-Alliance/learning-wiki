@@ -3,7 +3,7 @@ type: strategy
 id: early-identification-kindergarten-intervention-before-third-grade
 title: Use kindergarten-entry test data for early identification so educators can intervene before third grade
 description: "The page's description of the \"Behind at the starting line\" brief frames early identification as an actionable practice: \"This early identification is key for educators, enabling them to intervene and influence learni..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -50,4 +50,4 @@ The page's description of the "Behind at the starting line" brief frames early i
 -
 
 ## Key Sources
-- Kuhfeld, M., Soland, J., Pitts, C., & Burchinal, M. (2019). Trends in children's academic skills at school entry: 2010 – 2017. NWEA Research. https://www.nwea.org/research/publication/trends-in-childrens-academic-skills-at-school-entry-2010-2017/
+- Kuhfeld, M., Soland, J., Pitts, C., & Burchinal, M. (2019). Trends in children's academic skills at school entry: 2010 – 2017. NWEA Research. https://www.nwea.org/research/publication/trends-in-childrens-academic-skills-at-school-entry-2010-2017/. [doi:10.3102/0013189x20931078](https://doi.org/10.3102/0013189x20931078)

@@ -3,7 +3,7 @@ type: claim
 title: 1st graders in Amplify Science intervention classrooms significantly outperformed comparison classrooms on science vocabulary in-use (g = 0.46)
 description: 1st graders in Amplify Science intervention classrooms significantly outperformed comparison classrooms on science vocabulary in-use (g = 0.46)
 id: amplify-science-gains-science-vocabulary-in-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "A procedural \"answer is coming\" interpretation of the equals sign leads students to chain arithmetic and errors on missing-number equations"
 description: "A procedural \"answer is coming\" interpretation of the equals sign leads students to chain arithmetic and errors on missing-number equations"
 id: answer-coming-equals-sign-misconception
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

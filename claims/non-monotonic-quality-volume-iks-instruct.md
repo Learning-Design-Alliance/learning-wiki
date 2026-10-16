@@ -3,7 +3,7 @@ type: claim
 title: "Model-level judge quality is non-monotonic in dataset size: the 13,882-pair v1.1 yields the best model (6.39), while both expansion to ~20,000 pairs (6.33) and aggressive curation to 7,130 pairs (6.12) reduce quality"
 description: "Model-level judge quality is non-monotonic in dataset size: the 13,882-pair v1.1 yields the best model (6.39), while both expansion to ~20,000 pairs (6.33) and aggressive curation to 7,130 pairs (6.12) reduce quality"
 id: non-monotonic-quality-volume-iks-instruct
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

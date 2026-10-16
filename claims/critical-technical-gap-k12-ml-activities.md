@@ -3,7 +3,7 @@ type: claim
 title: "Across 133 K-12 ML activities, a technical and a societal perspective on the same algorithm co-occur in roughly 3% of cases"
 description: "Across 133 K-12 ML activities, a technical and a societal perspective on the same algorithm co-occur in roughly 3% of cases"
 id: critical-technical-gap-k12-ml-activities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -48,3 +48,4 @@ Systematic review of 133 K-12 ML activities analyzing the learning contexts in w
 - People may absorb bias from AI and carry it beyond their interactions with the algorithm — related
 - [Ethical reflection is often addressed separately from technical and creative AI activities, showing weak co-occurrence with Social Reasoning (42%), Using AI (41%) and Creating with AI (55%)](ethics-weakly-integrated-with-technical-creative-ai-activities.md) — related
 - [Algorithmic and technical-mechanism concepts are marginal in students' AI networks: machine learning was produced by a single participant across 436 respondents](algorithmic-concepts-marginal-machine-learning-single-response.md) — related
+- [AIEd research is weakly connected to theoretical pedagogical perspectives](aied-weak-pedagogical-theory-connection.md) — related

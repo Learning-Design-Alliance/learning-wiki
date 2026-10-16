@@ -3,7 +3,7 @@ type: claim
 title: Average first-year baccalaureate units earned decreased with each lower QR placement category, from about 27 units in Category I to about 20 in Category IV
 description: Average first-year baccalaureate units earned decreased with each lower QR placement category, from about 27 units in Category I to about 20 in Category IV
 id: eo1110-credit-accumulation-declines-by-placement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

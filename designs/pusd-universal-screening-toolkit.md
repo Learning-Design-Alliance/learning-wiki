@@ -3,7 +3,7 @@ type: design
 id: pusd-universal-screening-toolkit
 title: "Universal mental health screening toolkit: SAEBRS, SDQ, ProQOL, and monthly Kelvin real-time pulses"
 description: "PUSD implemented universal mental health screeners starting in 2019/20, including the Social, Academic, & Emotional Behavior Risk Screener (SAEBRS), the Strengths and Difficulties Questionnaire (SDQ), and the Professi..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

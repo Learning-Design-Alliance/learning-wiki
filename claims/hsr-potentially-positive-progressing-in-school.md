@@ -3,7 +3,7 @@ type: claim
 title: High School Redirection has potentially positive effects on progressing in school, driven by a significant credit-accumulation advantage in Stockton
 description: High School Redirection has potentially positive effects on progressing in school, driven by a significant credit-accumulation advantage in Stockton
 id: hsr-potentially-positive-progressing-in-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

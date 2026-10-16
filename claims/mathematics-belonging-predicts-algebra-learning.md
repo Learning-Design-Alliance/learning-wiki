@@ -3,7 +3,7 @@ type: claim
 title: Sense of mathematics belonging predicts algebra learning, even after controlling for prior knowledge and background factors
 description: Sense of mathematics belonging predicts algebra learning, even after controlling for prior knowledge and background factors
 id: mathematics-belonging-predicts-algebra-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

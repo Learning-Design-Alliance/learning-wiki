@@ -3,7 +3,7 @@ type: claim
 title: "LiPS shows potentially positive effects on math: no statistically significant effect on the WJ–R Calculation subtest, but a positive effect size of 0.30 judged substantively important"
 description: "LiPS shows potentially positive effects on math: no statistically significant effect on the WJ–R Calculation subtest, but a positive effect size of 0.30 judged substantively important"
 id: lips-potentially-positive-math-calculation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

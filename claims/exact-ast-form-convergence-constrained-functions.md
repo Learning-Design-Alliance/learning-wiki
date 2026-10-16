@@ -3,7 +3,7 @@ type: claim
 title: On tightly specified functions, LLMs converged on a few exact AST forms (1–14 per 1,000 files) while an open-ended function remained diverse, and source was associated with exact form for all five functions
 description: On tightly specified functions, LLMs converged on a few exact AST forms (1–14 per 1,000 files) while an open-ended function remained diverse, and source was associated with exact form for all five functions
 id: exact-ast-form-convergence-constrained-functions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

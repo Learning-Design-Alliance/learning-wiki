@@ -3,7 +3,7 @@ type: claim
 title: Most TTI teachers stayed on the job even after incentive payments ended
 description: Most TTI teachers stayed on the job even after incentive payments ended
 id: tti-teachers-retained-after-payments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

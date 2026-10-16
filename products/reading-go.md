@@ -4,7 +4,7 @@ id: reading-go
 title: "Reading Go!"
 description: "Reading Go!"
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

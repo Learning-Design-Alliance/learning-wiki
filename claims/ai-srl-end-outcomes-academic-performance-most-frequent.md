@@ -3,7 +3,7 @@ type: claim
 title: AI supporting SRL aims at end outcomes beyond SRL itself, most frequently improved academic performance
 description: AI supporting SRL aims at end outcomes beyond SRL itself, most frequently improved academic performance
 id: ai-srl-end-outcomes-academic-performance-most-frequent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -48,3 +48,4 @@ The review's end-outcome categorization found "The most frequently reported outc
 - [Behavioral outcomes, especially performance and engagement, dominate the learning outcomes linked to AI-supported lecturer decisions](behavioral-outcomes-dominate-ai-decision-support-mapping.md) — related
 - [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — related
 - Over one-third of AI-SRL studies specify no SRL theory; Zimmerman's model is the most frequently applied — related
+- [Self-regulated learning is associated with increased academic achievement and improved learning outcomes for students](srl-associated-with-achievement.md) — related

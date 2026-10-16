@@ -3,7 +3,7 @@ type: claim
 title: "Source-anchored instruction pairs reduce hallucination: they achieve mean Teacher Fidelity 1.4 points higher than non-anchored pairs, and models trained on anchored subsets produce 23% fewer factual hallucinations"
 description: "Source-anchored instruction pairs reduce hallucination: they achieve mean Teacher Fidelity 1.4 points higher than non-anchored pairs, and models trained on anchored subsets produce 23% fewer factual hallucinations"
 id: source-anchoring-reduces-hallucination-instruction-data
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

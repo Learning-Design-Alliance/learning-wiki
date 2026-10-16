@@ -3,7 +3,7 @@ type: strategy
 id: use-indicator-patterns-strategic-improvement
 title: Use indicator patterns to address low performance in a strategic way
 description: "This strategy, one of the article's three mechanisms, directs schools to use patterns in early warning indicator data to address low performance strategically rather than case by case."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

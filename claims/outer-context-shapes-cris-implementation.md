@@ -3,7 +3,7 @@ type: claim
 title: Contextual conditions beyond district control shape how a college readiness indicator system can be implemented
 description: Contextual conditions beyond district control shape how a college readiness indicator system can be implemented
 id: outer-context-shapes-cris-implementation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

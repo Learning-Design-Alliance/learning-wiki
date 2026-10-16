@@ -3,7 +3,7 @@ type: strategy
 id: expand-grade-level-pools-ends-and-weak-areas
 title: "Develop grade-level item pools by adding items at the low and high ends of each grade's ability spectrum and to weak instructional areas, then validate new tests"
 description: "The article recommends specific item development actions to overcome the limitations of grade-restricted pools, which \"had less information and fewer items per instructional area\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

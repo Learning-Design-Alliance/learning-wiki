@@ -3,7 +3,7 @@ type: strategy
 id: genai-literacy-and-process-focused-assessment-renewal
 title: Renew writing assessment and integrity practice through AI-literacy instruction, process-focused assessment design, and contextual detector training
 description: Rather than relying on detectors as gatekeeping mechanisms, the article recommends that institutions focus on integrating explicit instruction on responsible AI use, redesigning assessments to focus on process, reflec...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -4,7 +4,7 @@ id: educasim
 title: EducaSim
 description: EducaSim is a web-based LLM-agent simulation environment developed by Cameron Mohne and colleagues for teacher-training role-play practice with simulated small-group students.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

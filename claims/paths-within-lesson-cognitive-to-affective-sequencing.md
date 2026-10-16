@@ -3,7 +3,7 @@ type: claim
 title: Within-lesson sequencing in the PATHS Feelings and Relationships Unit proceeds from cognitive to behavioral to affective and from external to internal
 description: Within-lesson sequencing in the PATHS Feelings and Relationships Unit proceeds from cognitive to behavioral to affective and from external to internal
 id: paths-within-lesson-cognitive-to-affective-sequencing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

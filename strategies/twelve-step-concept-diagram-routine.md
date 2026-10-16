@@ -3,7 +3,7 @@ type: strategy
 id: twelve-step-concept-diagram-routine
 title: Twelve-step teacher-led concept-diagram vocabulary lesson routine
 description: "The article specifies a 12-step instructional sequence for each vocabulary word: present a blank concept diagram, state and write the word, state and write the definition, then elicit and list characteristics always,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

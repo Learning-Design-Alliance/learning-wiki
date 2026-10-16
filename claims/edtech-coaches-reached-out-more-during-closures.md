@@ -3,7 +3,7 @@ type: claim
 title: During 2020 school closures, teachers and school/district leaders reached out to edtech coaches more than before, with teachers reaching out more
 description: During 2020 school closures, teachers and school/district leaders reached out to edtech coaches more than before, with teachers reaching out more
 id: edtech-coaches-reached-out-more-during-closures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

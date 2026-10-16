@@ -3,7 +3,7 @@ type: claim
 title: In the full-sample analysis, Air Tutors students performed worse than matched peers on the statewide summative assessment (significant overall and in District B) but showed more benchmark growth in District A and no significant benchmark difference in District B
 description: In the full-sample analysis, Air Tutors students performed worse than matched peers on the statewide summative assessment (significant overall and in District B) but showed more benchmark growth in District A and no s...
 id: air-tutors-full-sample-mixed-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

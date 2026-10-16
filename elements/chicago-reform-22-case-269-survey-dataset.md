@@ -3,7 +3,7 @@ type: element
 id: chicago-reform-22-case-269-survey-dataset
 title: "Chicago reform evidence base: 22-school longitudinal case studies, 269-school principal and teacher surveys, and system-wide administrative data"
 description: "The book's evidence base combines three data sources: longitudinal case study data on 22 schools, survey responses from principals and teachers in 269 schools, and supplementary system-wide administrative data."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

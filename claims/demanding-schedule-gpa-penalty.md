@@ -3,7 +3,7 @@ type: claim
 title: A very demanding course schedule lowers core-course GPA by about 0.40 points relative to an undemanding one
 description: A very demanding course schedule lowers core-course GPA by about 0.40 points relative to an undemanding one
 id: demanding-schedule-gpa-penalty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

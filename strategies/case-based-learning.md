@@ -113,7 +113,7 @@ CBL works because it situates abstract concepts in the messy, contextualized con
 - **Harvard Business School** — the canonical discussion-based MBA case method; every course session centers on student analysis of a prepared case ([hbs.edu](https://www.hbs.edu/mba/academic-experience/classroom-experience/Pages/the-case-method.aspx))
 - **Harvard Business School Publishing case collections** — curated cases with teaching notes used across business schools worldwide ([hbsp.harvard.edu](https://www.hbsp.harvard.edu))
 - **National Center for Case Study Teaching in Science (University at Buffalo)** — peer-reviewed science cases with teaching notes for undergraduate STEM ([nccsts.org](https://www.nccsts.org))
-- **Anchored Instruction (Jasper Woodbury series)** — video-based adventure cases requiring mathematical problem solving embedded in narrative
+- **[Anchored Instruction](../patterns/anchored-instruction.md) (Jasper Woodbury series)** — video-based adventure cases requiring mathematical problem solving embedded in narrative
 
 ## Key Sources
 - Thistlethwaite, J. E., Davies, D., Ekeocha, S., Kidd, J. M., MacDougall, C., Matthews, P., Purkis, J., & Clay, D. (2012). The effectiveness of case-based learning in health professional education. A BEME systematic review: BEME Guide No. 23. *Medical Teacher, 34*(6), e421–e444. [doi:10.3109/0142159X.2012.680939](https://doi.org/10.3109/0142159X.2012.680939)

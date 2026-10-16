@@ -4,7 +4,7 @@ title: High- and low-income students have similar chances of being taught by the
 description: High- and low-income students have similar chances of being taught by the most effective and the least effective teachers
 id: similar-access-most-least-effective-teachers
 aliases: [similar-access-most-least-effective-teachers-income]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

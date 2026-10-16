@@ -3,7 +3,7 @@ type: claim
 title: Students reported stronger relationships with teachers and peers during the remote/hybrid year, especially high school students, but these gains did not persist after returning in person
 description: Students reported stronger relationships with teachers and peers during the remote/hybrid year, especially high school students, but these gains did not persist after returning in person
 id: stronger-teacher-peer-relationships-remote-year
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

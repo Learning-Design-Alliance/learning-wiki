@@ -3,7 +3,7 @@ type: claim
 title: Math growth in 2020-2021 was more variable than in prior years, with much of the gains among initially high-performing students
 description: Math growth in 2020-2021 was more variable than in prior years, with much of the gains among initially high-performing students
 id: math-growth-more-variable-high-performers-pulled-ahead
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

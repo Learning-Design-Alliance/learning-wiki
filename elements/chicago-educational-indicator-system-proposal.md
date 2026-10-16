@@ -3,7 +3,7 @@ type: element
 id: chicago-educational-indicator-system-proposal
 title: Educational indicator system for monitoring Chicago school reform progress
 description: A proposed system to monitor critical aspects of schooling and regularly report to diverse audiences, including individual schools charting their own progress and the broader public concerned with citywide educational...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

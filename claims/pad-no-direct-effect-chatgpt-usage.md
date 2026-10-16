@@ -3,7 +3,7 @@ type: claim
 title: Perceived academic dishonesty is not directly related to ChatGPT use frequency or intention to use
 description: Perceived academic dishonesty is not directly related to ChatGPT use frequency or intention to use
 id: pad-no-direct-effect-chatgpt-usage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

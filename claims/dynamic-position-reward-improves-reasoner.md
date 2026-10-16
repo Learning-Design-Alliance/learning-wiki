@@ -3,7 +3,7 @@ type: claim
 title: A dynamic position reward in RL training improves tagging performance and prevents overfitting to Selector outputs
 description: A dynamic position reward in RL training improves tagging performance and prevents overfitting to Selector outputs
 id: dynamic-position-reward-improves-reasoner
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

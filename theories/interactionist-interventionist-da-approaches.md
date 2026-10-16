@@ -2,7 +2,7 @@
 type: theory
 title: Interactionist vs. interventionist approaches to Dynamic Assessment
 description: The article organizes Dynamic Assessment — a Vygotskian approach integrating assessment and instruction — into two mediation models.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

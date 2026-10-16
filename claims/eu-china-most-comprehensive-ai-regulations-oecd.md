@@ -3,7 +3,7 @@ type: claim
 title: The EU and China have adopted the most comprehensive AI regulations, each covering four of the five OECD classification dimensions
 description: The EU and China have adopted the most comprehensive AI regulations, each covering four of the five OECD classification dimensions
 id: eu-china-most-comprehensive-ai-regulations-oecd
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

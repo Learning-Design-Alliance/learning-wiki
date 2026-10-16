@@ -3,7 +3,7 @@ type: claim
 title: Split-attention worked examples lose their advantage over conventional practice, while integrated formats restore it
 description: Split-attention worked examples lose their advantage over conventional practice, while integrated formats restore it
 id: split-attention-effect-in-worked-examples
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

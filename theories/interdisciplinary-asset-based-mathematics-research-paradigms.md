@@ -2,7 +2,7 @@
 type: theory
 title: Critique of dominant research paradigms in mathematics learning and a shift toward interdisciplinary, asset-based approaches
 description: "The chapter's organizing argument is that prevailing research paradigms for understanding mathematics learning are inadequate and should be replaced by interdisciplinary and asset-based approaches."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

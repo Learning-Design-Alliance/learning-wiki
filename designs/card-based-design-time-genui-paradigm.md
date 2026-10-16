@@ -3,7 +3,7 @@ type: design
 id: card-based-design-time-genui-paradigm
 title: Card-based design-time GenUI paradigm for educational content
 description: The paper proposes organizing educational content as bounded, modality-agnostic semantic cards whose learning objective is encoded separately from any interface representation.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Presenting prototypes to community partners created a sense of accountability among students that extended beyond grading
 description: Presenting prototypes to community partners created a sense of accountability among students that extended beyond grading
 id: community-presentation-created-accountability-pressure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -2,7 +2,7 @@
 type: theory
 title: Digital well-being as a healthy, intentional relationship with technology
 description: "The report defines digital well-being as \"the ability to maintain a healthy, intentional relationship with technology.\" Rather than labeling technology as inherently good or bad, the concept emphasizes understanding b..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

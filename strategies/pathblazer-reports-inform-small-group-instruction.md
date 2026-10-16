@@ -3,7 +3,7 @@ type: strategy
 id: pathblazer-reports-inform-small-group-instruction
 title: Use program-generated intervention reports to inform small-group instruction and one-on-one planning
 description: "Pathblazer produces intervention reports that \"track student progress toward standards mastery, inform small-group instruction, and help teachers plan for one-on-one time with students.\" The strategy is to treat the p..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

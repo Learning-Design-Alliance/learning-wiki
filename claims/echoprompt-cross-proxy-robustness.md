@@ -3,7 +3,7 @@ type: claim
 title: "EchoPrompt maintains cross-proxy robustness, averaging 87.06% AUROC across seven proxy models and outperforming DNA-DetectLLM by 2.70% AUROC on average"
 description: "EchoPrompt maintains cross-proxy robustness, averaging 87.06% AUROC across seven proxy models and outperforming DNA-DetectLLM by 2.70% AUROC on average"
 id: echoprompt-cross-proxy-robustness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

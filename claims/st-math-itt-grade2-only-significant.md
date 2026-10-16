@@ -3,7 +3,7 @@ type: claim
 title: Among grades provided with ST Math, only grade 2 showed statistically significant CST advantages; grades 3, 4, and 5 did not
 description: Among grades provided with ST Math, only grade 2 showed statistically significant CST advantages; grades 3, 4, and 5 did not
 id: st-math-itt-grade2-only-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

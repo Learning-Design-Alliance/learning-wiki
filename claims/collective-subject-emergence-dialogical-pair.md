@@ -3,7 +3,7 @@ type: claim
 title: A collective unit of subjects emerges when two utterances form a dialogical pair in SCMD
 description: A collective unit of subjects emerges when two utterances form a dialogical pair in SCMD
 id: collective-subject-emergence-dialogical-pair
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

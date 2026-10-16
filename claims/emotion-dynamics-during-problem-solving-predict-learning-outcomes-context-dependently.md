@@ -2,7 +2,7 @@
 type: claim
 title: Emotion dynamics during problem-solving predict learning outcomes in a manner that depends on scaffolding design
 id: emotion-dynamics-during-problem-solving-predict-learning-outcomes-context-dependently
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29
@@ -61,3 +61,7 @@ The paper's most important methodological caution is built into its own framing:
 - [AI scaffolding differs from human scaffolding in availability, feedback timing, and dynamic adjustment, making its developmental impact conditional](ai-scaffolding-developmental-impact-conditional.md) — related
 - [AI task scaffolding is positively associated with critical thinking and technical problem-solving among AI-using university students](ai-task-scaffolding-positive-higher-order-outcomes.md) — related
 - [Affective experience during situated collaborative problem solving is organized around a stable epistemic core linking curiosity, optimism, and confusion with short-range persistence](stable-epistemic-core-curiosity-optimism-confusion-cps.md) — related
+- [Failure-driven and success-driven scaffolding before instruction produce similar posttest conceptual understanding](failure-and-success-scaffolding-similar-posttest-conceptual-understanding.md) — related
+- [Students exposed to failure-driven scaffolding demonstrated higher quality of constructive reasoning](failure-driven-scaffolding-higher-quality-constructive-reasoning.md) — related
+- [Differential scaffold benefits were more salient for the more difficult learning concept](scaffold-benefits-more-salient-for-difficult-concept.md) — related
+- [Unscaffolded problem-solving before instruction lets students entertain exploratory hypotheses at the expense of experiencing initial failures](unscaffolded-problem-solving-exploratory-hypotheses-versus-failures.md) — related

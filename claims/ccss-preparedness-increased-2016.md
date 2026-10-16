@@ -3,7 +3,7 @@ type: claim
 title: Teachers reported feeling more familiar with and more prepared to teach the CCSS in 2016 than in 2015, with elementary and ELA-group teachers higher than high school and math-group teachers
 description: Teachers reported feeling more familiar with and more prepared to teach the CCSS in 2016 than in 2015, with elementary and ELA-group teachers higher than high school and math-group teachers
 id: ccss-preparedness-increased-2016
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

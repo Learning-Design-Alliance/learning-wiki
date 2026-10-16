@@ -3,7 +3,7 @@ type: element
 id: interdisciplinary-clue-types-basic-design
 title: Interdisciplinary clue types for basic design studio
 description: The article defines a taxonomy of clue types borrowed from different disciplines to serve as design problems in the studio.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

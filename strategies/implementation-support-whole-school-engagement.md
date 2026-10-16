@@ -3,7 +3,7 @@ type: strategy
 id: implementation-support-whole-school-engagement
 title: Support exclusion-reduction interventions with strong implementation strategies and whole-school engagement
 description: "Based on the qualitative synthesis, the review concludes that \"targeted, context‐sensitive interventions supported by strong implementation strategies and whole‐school engagement are most likely to achieve sustained r..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

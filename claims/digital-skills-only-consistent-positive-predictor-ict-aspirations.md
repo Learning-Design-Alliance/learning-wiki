@@ -3,7 +3,7 @@ type: claim
 title: Digital skills are the only consistently positive predictor of ICT career aspiration growth, while teacher support and autonomy show negative standardized associations
 description: Digital skills are the only consistently positive predictor of ICT career aspiration growth, while teacher support and autonomy show negative standardized associations
 id: digital-skills-only-consistent-positive-predictor-ict-aspirations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

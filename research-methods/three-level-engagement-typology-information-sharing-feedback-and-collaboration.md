@@ -3,7 +3,7 @@ type: research-method
 id: three-level-engagement-typology-information-sharing-feedback-and-collaboration
 title: "Three-level engagement typology: information sharing, feedback, and collaboration"
 description: "Adapting Cashman et al.'s four levels of interaction, the report categorizes Core to College network engagement into three primary kinds: \"Information Sharing—providing information and/or raising awareness about the Common Core State Standards and aligned assessments\"; \"Feedback—gathering feedback a"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

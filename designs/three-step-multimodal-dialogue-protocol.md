@@ -3,7 +3,7 @@ type: design
 id: three-step-multimodal-dialogue-protocol
 title: Three-step structured multimodal dialogue intervention protocol (describe, correct, solve)
 description: "A prompting protocol for correcting LLM multimodal errors, described as follows: \"The intervention followed a three-step dialogue: (i) 'Describe what you observe in the figure/graph,' (ii) researcher correction of any..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: evaluate-quantisation-on-target-task
 title: Evaluate quantisation choices empirically on the target task and hardware rather than inheriting them from other studies
 description: "The article recommends that practitioners deploying fine-tuned LLM scoring systems treat quantisation as an empirical engineering decision: \"quantisation is a practical engineering choice that should be tested empiric..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

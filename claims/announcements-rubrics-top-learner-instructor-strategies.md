@@ -3,7 +3,7 @@ type: claim
 title: Students rated regular announcements/e-mail reminders and grading rubrics for all assignments as the most beneficial learner-to-instructor strategies
 description: Students rated regular announcements/e-mail reminders and grading rubrics for all assignments as the most beneficial learner-to-instructor strategies
 id: announcements-rubrics-top-learner-instructor-strategies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

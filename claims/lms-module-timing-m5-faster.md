@@ -3,7 +3,7 @@ type: claim
 title: LMS log analysis showed groups spent roughly 9 days to 2 weeks per module after M1, and completed implementation (M5) faster than expected
 description: LMS log analysis showed groups spent roughly 9 days to 2 weeks per module after M1, and completed implementation (M5) faster than expected
 id: lms-module-timing-m5-faster
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

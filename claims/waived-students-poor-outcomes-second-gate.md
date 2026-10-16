@@ -3,7 +3,7 @@ type: claim
 title: Sixth graders promoted in 1997 without meeting the test cutoff fared poorly at the eighth-grade gate, while Summer Bridge passers did relatively well
 description: Sixth graders promoted in 1997 without meeting the test cutoff fared poorly at the eighth-grade gate, while Summer Bridge passers did relatively well
 id: waived-students-poor-outcomes-second-gate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

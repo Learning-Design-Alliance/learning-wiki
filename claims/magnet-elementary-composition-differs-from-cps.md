@@ -3,7 +3,7 @@ type: claim
 title: Magnet elementary schools enroll larger percentages of white and Asian students and smaller percentages of Latino and African-American students than non-magnet schools
 description: Magnet elementary schools enroll larger percentages of white and Asian students and smaller percentages of Latino and African-American students than non-magnet schools
 id: magnet-elementary-composition-differs-from-cps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

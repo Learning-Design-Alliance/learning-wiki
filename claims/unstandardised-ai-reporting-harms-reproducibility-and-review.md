@@ -3,7 +3,7 @@ type: claim
 title: Lack of standardised AI reporting undermines reproducibility, peer review, meta-analysis, and impact
 description: Lack of standardised AI reporting undermines reproducibility, peer review, meta-analysis, and impact
 id: unstandardised-ai-reporting-harms-reproducibility-and-review
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

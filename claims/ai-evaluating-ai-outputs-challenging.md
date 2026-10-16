@@ -3,7 +3,7 @@ type: claim
 title: Using AI to evaluate AI outputs was often challenging because AI act as yes people and humans struggled to agree on evaluation rubrics
 description: Using AI to evaluate AI outputs was often challenging because AI act as yes people and humans struggled to agree on evaluation rubrics
 id: ai-evaluating-ai-outputs-challenging
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -2,7 +2,7 @@
 type: theory
 title: Test-taking disengagement as a measurement construct in assessment programs
 description: Test-taking disengagement is treated in this article as a measurable construct whose presence in assessment programs — especially international ones — undermines score validity.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

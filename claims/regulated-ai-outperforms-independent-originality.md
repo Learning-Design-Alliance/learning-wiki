@@ -3,7 +3,7 @@ type: claim
 title: "The regulated 'think first, ChatGPT later' group outperformed both other groups in independent originality on the unassisted task despite no assisted-task advantage"
 description: "The regulated 'think first, ChatGPT later' group outperformed both other groups in independent originality on the unassisted task despite no assisted-task advantage"
 id: regulated-ai-outperforms-independent-originality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

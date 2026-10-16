@@ -3,7 +3,7 @@ type: claim
 title: Evidence base for Waterford Early Reading Level One™ is small, with no standards-meeting studies in four of six outcome domains
 description: Evidence base for Waterford Early Reading Level One™ is small, with no standards-meeting studies in four of six outcome domains
 id: waterford-level-one-small-extent-of-evidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

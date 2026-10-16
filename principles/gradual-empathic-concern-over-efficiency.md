@@ -3,7 +3,7 @@ type: principle
 id: gradual-empathic-concern-over-efficiency
 title: Favor gradual, empathic concern for individuals over quick, cost-effective efficiency in transition therapies
 description: The article advances a paradigm shift in how transition-support therapies are valued.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

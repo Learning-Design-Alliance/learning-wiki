@@ -4,7 +4,7 @@ id: talkingpoints
 title: TalkingPoints
 description: "TalkingPoints is an education technology nonprofit's platform that provides universally designed, auto-translated two-way communication and guidance for family-school partnerships."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

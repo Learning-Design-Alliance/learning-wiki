@@ -3,7 +3,7 @@ type: claim
 title: "Bronxdale students' postsecondary enrollment within 6 months of graduation (60%) exceeded borough (51%) and comparison-group (52%) rates and slightly exceeded the citywide average (59%)"
 description: "Bronxdale students' postsecondary enrollment within 6 months of graduation (60%) exceeded borough (51%) and comparison-group (52%) rates and slightly exceeded the citywide average (59%)"
 id: bronxdale-postsecondary-enrollment-60-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

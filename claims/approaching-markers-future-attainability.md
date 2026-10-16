@@ -3,7 +3,7 @@ type: claim
 title: Teachers perceived AI-supported futures as increasingly imaginable and linked to present actions
 description: Teachers perceived AI-supported futures as increasingly imaginable and linked to present actions
 id: approaching-markers-future-attainability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

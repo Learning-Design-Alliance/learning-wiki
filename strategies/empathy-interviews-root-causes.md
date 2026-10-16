@@ -3,7 +3,7 @@ type: strategy
 id: empathy-interviews-root-causes
 title: Conduct one-on-one empathy interviews with open-ended questions to uncover root causes of system challenges
 description: "Empathy interviews are \"one-on-one conversations that use open-ended questions tailored to elicit input and personal stories about a topic.\" They offer deeper questioning than typical engagement activities and allow l..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

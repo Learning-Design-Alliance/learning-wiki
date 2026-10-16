@@ -3,7 +3,7 @@ type: claim
 title: "Academic emotions—enjoyment, anxiety, and boredom—mediate the association between perceived AI-adaptive environments and SRL, accounting for 54.8% of the total effect"
 description: "Academic emotions—enjoyment, anxiety, and boredom—mediate the association between perceived AI-adaptive environments and SRL, accounting for 54.8% of the total effect"
 id: academic-emotions-mediate-ai-environment-srl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

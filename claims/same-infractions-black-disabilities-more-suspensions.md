@@ -3,7 +3,7 @@ type: claim
 title: For the same types of infractions, Black students and students with disabilities were significantly more likely to receive out-of-school suspensions than other subgroups
 description: For the same types of infractions, Black students and students with disabilities were significantly more likely to receive out-of-school suspensions than other subgroups
 id: same-infractions-black-disabilities-more-suspensions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

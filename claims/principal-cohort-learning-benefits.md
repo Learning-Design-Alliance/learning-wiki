@@ -3,7 +3,7 @@ type: claim
 title: Cohort-based principal preparation is associated with program completion, perceived preparedness, and supportive collegial environments
 description: Cohort-based principal preparation is associated with program completion, perceived preparedness, and supportive collegial environments
 id: principal-cohort-learning-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

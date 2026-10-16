@@ -4,7 +4,7 @@ id: iks-instruct-dataset
 title: IKS-Instruct dataset
 description: A released multilingual dataset of 24,795 instruction-response pairs for fine-tuning and evaluating language models on Indian Knowledge Systems pedagogy, created and released by Shwetha Singaravelu and colleagues.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

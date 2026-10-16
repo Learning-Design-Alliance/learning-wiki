@@ -3,7 +3,7 @@ type: claim
 title: CHSRI small schools lack a shared vision of high-quality instruction, and the link between school themes and curriculum remains weak in year two
 description: CHSRI small schools lack a shared vision of high-quality instruction, and the link between school themes and curriculum remains weak in year two
 id: chsri-no-shared-vision-quality-instruction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

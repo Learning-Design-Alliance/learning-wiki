@@ -3,7 +3,7 @@ type: claim
 title: Users alter expectations and behavior based on perceived AI capabilities even when actual AI performance is unchanged (the placebo effect of AI)
 description: Users alter expectations and behavior based on perceived AI capabilities even when actual AI performance is unchanged (the placebo effect of AI)
 id: placebo-effect-of-ai-perceived-capabilities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

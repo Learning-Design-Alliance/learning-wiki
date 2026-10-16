@@ -3,7 +3,7 @@ type: claim
 title: SWPBIS effects on prosocial behavior and emotion regulation are strongest for children first exposed in kindergarten
 description: SWPBIS effects on prosocial behavior and emotion regulation are strongest for children first exposed in kindergarten
 id: swpbis-strongest-kindergarten-exposure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

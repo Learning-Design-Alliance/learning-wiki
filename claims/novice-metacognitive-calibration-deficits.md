@@ -3,7 +3,7 @@ type: claim
 title: Novice clinical learners show pervasive metacognitive calibration deficits, with overestimated performance and confidence exceeding accuracy
 description: Novice clinical learners show pervasive metacognitive calibration deficits, with overestimated performance and confidence exceeding accuracy
 id: novice-metacognitive-calibration-deficits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -18,8 +18,8 @@ sources:
     kind: theoretical
     rigour: 3
   - id: tsim-2026-2
-    resource: "https://arxiv.org/abs/2608.28373"
-    title: "Tsim, F., Gutoreva, A., Weiss, A., & Dubosh, N. (2026). AI as Teammate: Rethinking Task Distribution in Medical Training. Correspondence: fenditsim@gmail.com. https://arxiv.org/abs/2608.28373"
+    resource: "https://doi.org/10.48550/arxiv.2608.28373"
+    title: "Tsim, F., Gutoreva, A., Weiss, A., & Dubosh, N. (2026). AI as Teammate: Rethinking Task Distribution in Medical Training. Correspondence: fenditsim@gmail.com. https://arxiv.org/abs/2608.28373. [doi:10.48550/arxiv.2608.28373](https://doi.org/10.48550/arxiv.2608.28373)"
     author: "Tsim, F., Gutoreva, A., Weiss, A., & Dubosh, N."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Novice clinical learners show pervasive metacognitive calibration deficits, with overestimated performance and confidence exceeding accuracy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 theoretical `r2`–`r3` · `q2`
+> **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` In virtual patient simulations, the vast majority of first-year medical students overestimated their own performance, with bias more pronounced for the cognitively demanding subtask. [→ Tsim 2026](#tsim-2026)
@@ -50,7 +50,7 @@ The article reports, citing Cleary et al. (2019), a study of 157 first-year medi
 
 ### Tsim 2026 (2)
 
-Tsim, F., Gutoreva, A., Weiss, A., & Dubosh, N. (2026). AI as Teammate: Rethinking Task Distribution in Medical Training. Correspondence: fenditsim@gmail.com. https://arxiv.org/abs/2608.28373
+Tsim, F., Gutoreva, A., Weiss, A., & Dubosh, N. (2026). AI as Teammate: Rethinking Task Distribution in Medical Training. Correspondence: fenditsim@gmail.com. https://arxiv.org/abs/2608.28373. [doi:10.48550/arxiv.2608.28373](https://doi.org/10.48550/arxiv.2608.28373)
 
 `q2 · i?` · `theoretical · r2`
 

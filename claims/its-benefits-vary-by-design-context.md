@@ -3,7 +3,7 @@ type: claim
 title: ITS benefits in mathematics education vary by system design, domain, learner characteristics, intervention intensity, outcome measurement, teacher mediation, and implementation context
 description: ITS benefits in mathematics education vary by system design, domain, learner characteristics, intervention intensity, outcome measurement, teacher mediation, and implementation context
 id: its-benefits-vary-by-design-context
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

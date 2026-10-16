@@ -3,7 +3,7 @@ type: claim
 title: Learning with intelligent tutoring systems yields a moderate, statistically significant overall advantage in achievement over non-ITS modes of instruction
 description: Learning with intelligent tutoring systems yields a moderate, statistically significant overall advantage in achievement over non-ITS modes of instruction
 id: its-meta-analysis-overall-effect-0-41
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
@@ -46,3 +46,5 @@ Meta-analysis of 107 independent effect sizes comparing ITS to non-ITS instructi
 - [ITS significantly outperform large-group human instruction, individual computer-based instruction, and textbooks or workbooks, but not small-group or individual human tutoring](its-beats-large-group-cbi-textbooks-not-human-tutoring.md) — a narrower finding that bears on this claim
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — possibly the same claim (merge candidate)
 - [Bayesian network modeling ITS showed a higher weighted mean effect size than model tracing and constraint-based modeling, but only under a fixed-effect model](its-type-bayesian-higher-than-model-tracing-fixed-effect.md) — a narrower finding that bears on this claim
+- [AI-enabled personalized STEM education yields a small but statistically significant overall effect (g = 0.455) compared with traditional non-AI instruction in K-12 schools](ai-personalized-stem-overall-effect-g0455.md) — related
+- [Intelligent tutoring systems show moderate learning benefits but are less effective than human tutoring](its-moderate-effect-less-than-human-tutoring.md) — possibly the same claim (merge candidate)

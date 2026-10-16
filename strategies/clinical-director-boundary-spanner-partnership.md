@@ -3,7 +3,7 @@ type: strategy
 id: clinical-director-boundary-spanner-partnership
 title: Clinical director as LEA–IHE boundary-spanner managing each partnership
 description: Each Alder–LEA partnership is managed by a clinical director, an LEA employee who is also a clinical faculty member at Alder.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Time-on-task is frequently unequal across compared conditions, with active learning conditions typically requiring more home time
 description: Time-on-task is frequently unequal across compared conditions, with active learning conditions typically requiring more home time
 id: time-on-task-unequal-in-active-learning-comparisons
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

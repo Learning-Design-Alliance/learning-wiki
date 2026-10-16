@@ -3,7 +3,7 @@ type: strategy
 id: genai-writing-process-and-instructional-uses
 title: Use GenAI across the writing process stages of pre-writing, drafting language support, and revision feedback, and for discussion questions, differentiated explanations, and scaffolded practice
 description: "The classroom-practices brief states \"GenAI, when used responsibly, could be used to support students' writing processes\" at pre-writing and planning, drafting language support, and revision and feedback stages, with..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

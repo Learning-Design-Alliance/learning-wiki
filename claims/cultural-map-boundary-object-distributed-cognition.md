@@ -3,7 +3,7 @@ type: claim
 title: The bilingual cultural map functioned as a boundary object supporting divergent interpretations across students, museum educators, and end-users without requiring semantic consensus
 description: The bilingual cultural map functioned as a boundary object supporting divergent interpretations across students, museum educators, and end-users without requiring semantic consensus
 id: cultural-map-boundary-object-distributed-cognition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

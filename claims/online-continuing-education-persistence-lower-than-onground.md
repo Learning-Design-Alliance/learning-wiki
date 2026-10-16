@@ -3,7 +3,7 @@ type: claim
 title: "Online continuing education courses show lower persistence than comparable onground courses (79% vs 84%) over eight quarters"
 description: "Online continuing education courses show lower persistence than comparable onground courses (79% vs 84%) over eight quarters"
 id: online-continuing-education-persistence-lower-than-onground
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

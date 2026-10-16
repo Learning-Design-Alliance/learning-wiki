@@ -3,7 +3,7 @@ type: claim
 title: In RCTs of interventions to improve student test scores, estimators including late pretests will typically be preferred to estimators excluding them or using other baseline data
 description: In RCTs of interventions to improve student test scores, estimators including late pretests will typically be preferred to estimators excluding them or using other baseline data
 id: late-pretest-estimators-typically-preferred
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

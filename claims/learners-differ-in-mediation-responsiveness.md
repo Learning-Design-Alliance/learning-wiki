@@ -3,7 +3,7 @@ type: claim
 title: Learners at the same proficiency level differ in responsiveness to mediation, with Sarah needing less explicit help than Dena
 description: Learners at the same proficiency level differ in responsiveness to mediation, with Sarah needing less explicit help than Dena
 id: learners-differ-in-mediation-responsiveness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

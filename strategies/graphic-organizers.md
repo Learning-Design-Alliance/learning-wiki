@@ -90,7 +90,7 @@ Graphic organizers exploit the visual channel to convey relational information t
 - **[Popplet](https://popplet.com)** — collaborative mind-mapping tool; students co-construct shared maps, enacting the collaborative variant.
 - **Inspiration / Kidspiration (https://www.inspiration.com)** — widely used K–12 concept-mapping software; students build diagrams that convert to outlines, linking visual and linear forms.
 - **IHMC CmapTools (https://cmap.ihmc.us)** — free concept-mapping tool developed from Novak's concept mapping research program; supports scored, collaborative maps.
-- **Frayer Model** — a four-quadrant organizer (definition, characteristics, examples, non-examples) used in vocabulary instruction; the non-example quadrant sharpens concept boundaries.
+- **[Frayer Model](frayer-model.md)** — a four-quadrant organizer (definition, characteristics, examples, non-examples) used in vocabulary instruction; the non-example quadrant sharpens concept boundaries.
 - **History comparison matrices** — having students complete a matrix comparing causes of two revolutions before writing an essay, improving the relational quality of the resulting arguments.
 
 ## Key Sources

@@ -3,7 +3,7 @@ type: strategy
 id: jump-math-one-day-training-mid-year-follow-up
 title: Prepare teachers with one full training day plus a mid-year follow-up day
 description: "Teachers are implementation ready after 1 full day of training; in the study they received a second full follow-up day around mid-year, \"mostly used for sharing ideas and to overcome challenges.\" This light-touch prof..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

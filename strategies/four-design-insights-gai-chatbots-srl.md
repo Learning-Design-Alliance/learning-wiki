@@ -3,7 +3,7 @@ type: strategy
 id: four-design-insights-gai-chatbots-srl
 title: "Four design insights for GAI chatbots supporting SRL: real-time personalization, warm language, platform integration, and course-content embedding"
 description: "From the three-year DBR process, the authors distill four insights for designing intelligent chatbots: enable real-time, context-sensitive personalization; use warm, conversational language supporting diverse pedagogi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

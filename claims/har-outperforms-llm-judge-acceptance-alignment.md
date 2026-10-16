@@ -3,7 +3,7 @@ type: claim
 title: Hierarchical Acceptance Rate aligns with expert acceptance decisions better than single-dimension and holistic LLM judges
 description: Hierarchical Acceptance Rate aligns with expert acceptance decisions better than single-dimension and holistic LLM judges
 id: har-outperforms-llm-judge-acceptance-alignment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

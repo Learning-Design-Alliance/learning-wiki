@@ -3,7 +3,7 @@ type: claim
 title: "Self-regulation limits supported a targeted teacher role: many students rarely thought before asking AI or could not tell when an AI explanation was wrong"
 description: "Self-regulation limits supported a targeted teacher role: many students rarely thought before asking AI or could not tell when an AI explanation was wrong"
 id: teacher-role-shifted-diagnosis-coaching
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

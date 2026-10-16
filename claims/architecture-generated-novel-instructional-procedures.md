@@ -3,7 +3,7 @@ type: claim
 title: The cognitive architecture has been used to design a variety of novel instructional procedures
 description: The cognitive architecture has been used to design a variety of novel instructional procedures
 id: architecture-generated-novel-instructional-procedures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
@@ -47,3 +47,4 @@ Review-level statement from the article's abstract: the theory's architectural a
 - [Germane cognitive load is reformulated as redistributing working memory resources from extraneous to intrinsic processing rather than adding to total load](germane-load-redistributive-function-reformulation.md) — related
 - [The effectiveness of instructional techniques and procedures interacts with levels of learner prior knowledge, a pattern known as the expertise reversal effect](expertise-reversal-prior-knowledge-interaction.md) — related
 - [Structuring worked examples to emphasize subgoals, via labels or visual segmentation, enhances transfer to novel problems](subgoal-labels-worked-examples-transfer.md) — a narrower finding that bears on this claim
+- [Designing learning activities corresponding to germane load has always required methods and techniques external to cognitive load theory](germane-load-activities-require-external-methods.md) — related

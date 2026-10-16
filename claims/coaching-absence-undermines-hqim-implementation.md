@@ -3,7 +3,7 @@ type: claim
 title: Interviewees most frequently cited the absence of coaching and professional learning support after initial installation as the source of implementation variation
 description: Interviewees most frequently cited the absence of coaching and professional learning support after initial installation as the source of implementation variation
 id: coaching-absence-undermines-hqim-implementation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "89.28% of parents reported the app was very or somewhat different from other apps they have used"
 description: "89.28% of parents reported the app was very or somewhat different from other apps they have used"
 id: station-study-app-novelty-perception
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

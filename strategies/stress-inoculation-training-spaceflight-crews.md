@@ -3,7 +3,7 @@ type: strategy
 id: stress-inoculation-training-spaceflight-crews
 title: Stress inoculation training for crews operating without external support
 description: The review recommends stress inoculation training, drawn from high-tempo operational domains, as a behavioral readiness strategy for crews who must operate without mission-control resolution.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

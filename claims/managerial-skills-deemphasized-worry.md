@@ -3,7 +3,7 @@ type: claim
 title: Stakeholders worry administrative and managerial skills have been de-emphasized despite instructional leadership being a clear focus
 description: Stakeholders worry administrative and managerial skills have been de-emphasized despite instructional leadership being a clear focus
 id: managerial-skills-deemphasized-worry
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: distributed-disciplinary-support-networks-for-ai-initiatives
 title: Institutional AI initiatives should incorporate discussion, reflection, and distributed discipline-specific support networks rather than centralized information provision
 description: "The article recommends that institutional structures \"may make most impact if, rather than simply providing information, resources or estab- lishing guidelines, they instead incorporate opportunities for discussion an..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Using observed mean test scores in place of latent means understates between-school variation but is otherwise unlikely to mislead
 description: Using observed mean test scores in place of latent means understates between-school variation but is otherwise unlikely to mislead
 id: observed-means-understate-between-school-variation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

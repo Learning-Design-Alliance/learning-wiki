@@ -3,7 +3,7 @@ type: strategy
 id: empathy-asset-framing-tech-free-spaces-digital-wellbeing
 title: Address digital well-being with empathy, root-cause understanding, asset framing, and tech-free spaces
 description: The report offers recommendations for adults and educators addressing digital well-being with youth.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

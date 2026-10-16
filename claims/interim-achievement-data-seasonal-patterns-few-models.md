@@ -3,7 +3,7 @@ type: claim
 title: Interim achievement data exhibit distinctly seasonal patterns that few existing statistical models can approximate
 description: Interim achievement data exhibit distinctly seasonal patterns that few existing statistical models can approximate
 id: interim-achievement-data-seasonal-patterns-few-models
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

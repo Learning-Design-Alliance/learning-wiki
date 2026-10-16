@@ -3,7 +3,7 @@ type: strategy
 id: center-youth-as-partners-not-participants
 title: Center youth as partners, not participants, in co-design
 description: This strategy treats youth as co-decision-makers rather than data sources when designing solutions for them.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

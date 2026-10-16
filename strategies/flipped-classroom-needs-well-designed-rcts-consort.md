@@ -3,7 +3,7 @@ type: strategy
 id: flipped-classroom-needs-well-designed-rcts-consort
 title: Future flipped-classroom research should be well-designed, sufficiently powered RCTs with low risk of bias reported per CONSORT
 description: "Based on the low certainty of evidence for both academic performance and satisfaction, the review recommends that \"Future well‐designed sufficiently powered RCTs with low risk of bias that report according to the CONS..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

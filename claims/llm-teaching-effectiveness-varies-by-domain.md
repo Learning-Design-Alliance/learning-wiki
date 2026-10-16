@@ -3,7 +3,7 @@ type: claim
 title: LLM teaching effectiveness varies substantially across subject domains, strongest where knowledge points apply directly and weakest in physics and chemistry
 description: LLM teaching effectiveness varies substantially across subject domains, strongest where knowledge points apply directly and weakest in physics and chemistry
 id: llm-teaching-effectiveness-varies-by-domain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

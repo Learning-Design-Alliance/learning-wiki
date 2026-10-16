@@ -3,7 +3,7 @@ type: claim
 title: AI applications support prompt engineering, professional skill development, technology acceptance, and active participation in science and chemistry education
 description: AI applications support prompt engineering, professional skill development, technology acceptance, and active participation in science and chemistry education
 id: ai-outcome-themes-prompt-skills-technology-acceptance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

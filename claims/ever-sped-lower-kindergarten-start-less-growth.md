@@ -3,7 +3,7 @@ type: claim
 title: Ever-SPED students started kindergarten with lower math and reading scores and grew less than never-SPED students during the kindergarten school year
 description: Ever-SPED students started kindergarten with lower math and reading scores and grew less than never-SPED students during the kindergarten school year
 id: ever-sped-lower-kindergarten-start-less-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

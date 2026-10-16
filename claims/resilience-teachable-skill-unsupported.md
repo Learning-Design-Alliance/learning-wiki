@@ -3,7 +3,7 @@ type: claim
 title: Teachers treat resilience under challenge as a teachable skill that current routines and dashboards do little to support
 description: Teachers treat resilience under challenge as a teachable skill that current routines and dashboards do little to support
 id: resilience-teachable-skill-unsupported
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

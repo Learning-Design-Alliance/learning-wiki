@@ -3,7 +3,7 @@ type: claim
 title: Design-based research is important for the development of technology-enhanced learning environments
 description: Design-based research is important for the development of technology-enhanced learning environments
 id: dbr-importance-for-tele-development
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: Test takers tend to increase their time efficiency during MAP test events, an effect the author observed in data from 2 very different testing programs
 description: Test takers tend to increase their time efficiency during MAP test events, an effect the author observed in data from 2 very different testing programs
 id: increased-efficiency-effect-observed-two-testing-programs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: element
 id: covid-recovery-learning-acceleration-webinar
 title: NWEA/All4Ed webinar on COVID-19 recovery and learning acceleration
 description: "A recorded webinar panel in which leaders from the Alliance for Excellent Education, the National Urban League, UnidosUS, and Middletown Public Schools discuss \"new research from NWEA on the academic progress of stude..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

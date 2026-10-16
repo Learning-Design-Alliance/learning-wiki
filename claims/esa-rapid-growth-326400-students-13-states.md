@@ -3,7 +3,7 @@ type: claim
 title: ESA programs have grown rapidly, serving over 326,400 students across 13 states as of the 2023/24 school year
 description: ESA programs have grown rapidly, serving over 326,400 students across 13 states as of the 2023/24 school year
 id: esa-rapid-growth-326400-students-13-states
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

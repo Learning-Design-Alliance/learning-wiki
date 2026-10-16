@@ -3,7 +3,7 @@ type: claim
 title: Trauma-informed practices such as safe environments and positive relationships can mitigate the effects of trauma and promote resilience
 description: Trauma-informed practices such as safe environments and positive relationships can mitigate the effects of trauma and promote resilience
 id: trauma-informed-practices-mitigate-trauma-promote-resilience
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

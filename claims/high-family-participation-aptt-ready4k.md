@@ -3,7 +3,7 @@ type: claim
 title: "Family participation in Growing Strong Learners was high and similar for EL and non-EL families: 97% attended at least one APTT meeting and 92% participated in Ready4K"
 description: "Family participation in Growing Strong Learners was high and similar for EL and non-EL families: 97% attended at least one APTT meeting and 92% participated in Ready4K"
 id: high-family-participation-aptt-ready4k
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

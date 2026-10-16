@@ -3,7 +3,7 @@ type: claim
 title: "At least 20.4% of queries in an online internship programme are status enquiries about pending submissions, which a corpus-grounded AI assistant served only 1.3% of the time"
 description: "At least 20.4% of queries in an online internship programme are status enquiries about pending submissions, which a corpus-grounded AI assistant served only 1.3% of the time"
 id: status-enquiries-pending-submissions-assistant-1-3-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

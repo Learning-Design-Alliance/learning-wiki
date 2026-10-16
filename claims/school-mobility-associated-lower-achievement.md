@@ -3,7 +3,7 @@ type: claim
 title: Each within-year school move is associated with lower CAASPP achievement among students in foster care
 description: Each within-year school move is associated with lower CAASPP achievement among students in foster care
 id: school-mobility-associated-lower-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

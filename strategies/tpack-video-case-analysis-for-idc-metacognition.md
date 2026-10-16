@@ -3,7 +3,7 @@ type: strategy
 id: tpack-video-case-analysis-for-idc-metacognition
 title: "Use TPACK-based analysis of teaching video cases and design artifacts to build novice instructional designers' metacognition"
 description: A concrete teaching activity in which educators guide pre-service teachers to analyze specific teaching video cases and instructional design components through the TPACK framework, then design, receive feedback, revis...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

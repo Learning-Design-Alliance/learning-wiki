@@ -3,7 +3,7 @@ type: strategy
 id: process-based-value-education-activities-per-rbt-dimension
 title: Organize process-based value education activities matched to each RBT process dimension
 description: The article prescribes concrete classroom activities for each RBT process dimension so that any subject teacher can transact values within regular lessons.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: GPT-generated tutor feedback is predominantly positive or neutral in sentiment
 description: GPT-generated tutor feedback is predominantly positive or neutral in sentiment
 id: gpt-feedback-predominantly-positive-sentiment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

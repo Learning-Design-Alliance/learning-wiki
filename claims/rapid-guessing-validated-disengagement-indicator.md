@@ -3,7 +3,7 @@ type: claim
 title: Rapid guessing is a validated indicator of disengaged item responding
 description: Rapid guessing is a validated indicator of disengaged item responding
 id: rapid-guessing-validated-disengagement-indicator
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

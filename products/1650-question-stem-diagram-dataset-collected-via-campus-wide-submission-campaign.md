@@ -4,7 +4,7 @@ id: 1650-question-stem-diagram-dataset-collected-via-campus-wide-submission-camp
 title: 1,650-question STEM diagram dataset collected via campus-wide submission campaign
 description: A restricted dataset of 1,650 educator- and student-submitted STEM questions containing structurally meaningful diagrams for evaluating AI interpretation of topological reasoning, collected and curated by Sun et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

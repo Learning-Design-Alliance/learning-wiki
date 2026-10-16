@@ -3,7 +3,7 @@ type: claim
 title: The distribution of highest-performing teachers across schools is statistically unlikely to be random, with significance for middle school teachers on both poverty and achievement groupings but for elementary teachers only on achievement groupings
 description: The distribution of highest-performing teachers across schools is statistically unlikely to be random, with significance for middle school teachers on both poverty and achievement groupings but for elementary teachers...
 id: highest-performing-teacher-distribution-nonuniform
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

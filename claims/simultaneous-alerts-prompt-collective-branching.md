@@ -3,7 +3,7 @@ type: claim
 title: "Three simultaneous negative-emotion alerts prompted a collective reframing of the task that coincided with branching of multiple students' engagement structures at once"
 description: "Three simultaneous negative-emotion alerts prompted a collective reframing of the task that coincided with branching of multiple students' engagement structures at once"
 id: simultaneous-alerts-prompt-collective-branching
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

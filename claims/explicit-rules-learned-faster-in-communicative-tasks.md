@@ -3,7 +3,7 @@ type: claim
 title: Explicit teaching of grammar rules enhances their learning, and rules are learned faster and better when repeated in communicative tasks
 description: Explicit teaching of grammar rules enhances their learning, and rules are learned faster and better when repeated in communicative tasks
 id: explicit-rules-learned-faster-in-communicative-tasks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

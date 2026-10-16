@@ -3,7 +3,7 @@ type: strategy
 id: definitive-mbi-trials-active-controls-mechanisms
 title: Future MBI trials for youth should use scaled-up definitive designs with active intervention controls and embedded mechanism measures
 description: "The review recommends that future evaluations of MBIs for youth move beyond small pilot RCTs to \"scaled-up definitive trial designs\" that are fully powered, use representative samples, compare MBIs against plausible a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

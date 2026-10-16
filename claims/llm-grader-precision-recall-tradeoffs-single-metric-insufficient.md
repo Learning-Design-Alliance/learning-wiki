@@ -3,7 +3,7 @@ type: claim
 title: LLM graders show model-specific precision/recall trade-offs, so a single metric is insufficient to judge grading quality
 description: LLM graders show model-specific precision/recall trade-offs, so a single metric is insufficient to judge grading quality
 id: llm-grader-precision-recall-tradeoffs-single-metric-insufficient
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

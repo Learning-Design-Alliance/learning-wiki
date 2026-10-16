@@ -3,7 +3,7 @@ type: claim
 title: Inclusion in general is very unlikely to increase or decrease learning and psychosocial adjustment of children with special needs
 description: Inclusion in general is very unlikely to increase or decrease learning and psychosocial adjustment of children with special needs
 id: inclusion-general-no-increase-or-decrease-learning-psychosocial
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

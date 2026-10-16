@@ -3,7 +3,7 @@ type: claim
 title: Identifying and estimating the CACE parameter in the multi-armed context requires complex assumptions
 description: Identifying and estimating the CACE parameter in the multi-armed context requires complex assumptions
 id: multi-armed-cace-complex-assumptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

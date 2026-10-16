@@ -3,7 +3,7 @@ type: claim
 title: California College Promise programs commonly impose full-time enrollment, GPA maintenance, and support-service participation requirements
 description: California College Promise programs commonly impose full-time enrollment, GPA maintenance, and support-service participation requirements
 id: ca-promise-eligibility-requirements-enrollment-gpa
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "GenAI's motivational effect varies by subject domain, largest for language learning and smallest for science (exploratory)"
 description: "GenAI's motivational effect varies by subject domain, largest for language learning and smallest for science (exploratory)"
 id: genai-motivation-effect-varies-subject-domain-language-largest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

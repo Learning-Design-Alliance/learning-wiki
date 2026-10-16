@@ -3,7 +3,7 @@ type: claim
 title: The report cites research evidence that students exposed to authentic intellectual challenges are more engaged than students given conventional schoolwork
 description: The report cites research evidence that students exposed to authentic intellectual challenges are more engaged than students given conventional schoolwork
 id: authentic-challenges-increase-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

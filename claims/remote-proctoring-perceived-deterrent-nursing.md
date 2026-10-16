@@ -3,7 +3,7 @@ type: claim
 title: "Remote proctoring is perceived as an effective deterrent against cheating in nursing assessments, with 98–100% of graduate NP students agreeing webcam proctoring and lockdown browsers deterred cheating"
 description: "Remote proctoring is perceived as an effective deterrent against cheating in nursing assessments, with 98–100% of graduate NP students agreeing webcam proctoring and lockdown browsers deterred cheating"
 id: remote-proctoring-perceived-deterrent-nursing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

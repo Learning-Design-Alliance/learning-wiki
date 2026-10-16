@@ -3,7 +3,7 @@ type: strategy
 id: trajectory-sensitive-scaffolding-ai-tutor
 title: "Trajectory-sensitive scaffolding: use recent interaction history to return epistemic work to the learner when closure-oriented requests accumulate"
 description: "The authors propose that an AI tutor consider recent interaction history when deciding whether to intervene: \"repeated or increasingly frequent requests for the AI to provide or confirm outcomes could motivate a scaff..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -47,4 +47,4 @@ The authors propose that an AI tutor consider recent interaction history when de
 -
 
 ## Key Sources
-- Abdelghani, R., Kaiser, P., Murayama, K. (2026). Changes in Help-Seeking Strategies Predict unaided Performance during AI-based Mathematical Learning. https://arxiv.org/abs/2606.28472
+- Abdelghani, R., Kaiser, P., Murayama, K. (2026). Changes in Help-Seeking Strategies Predict unaided Performance during AI-based Mathematical Learning. https://arxiv.org/abs/2606.28472. [doi:10.48550/arxiv.2606.28472](https://doi.org/10.48550/arxiv.2606.28472)

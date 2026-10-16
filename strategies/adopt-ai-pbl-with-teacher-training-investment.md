@@ -3,7 +3,7 @@ type: strategy
 id: adopt-ai-pbl-with-teacher-training-investment
 title: Adopt AI-PBL frameworks with institutional and policy-level support and teacher training investment
 description: The study calls for institutional and policy-level adoption of AI-PBL frameworks, investments in teacher training, and further research to ensure scalability.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

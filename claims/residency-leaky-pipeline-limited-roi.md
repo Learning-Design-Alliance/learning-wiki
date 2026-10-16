@@ -3,7 +3,7 @@ type: claim
 title: "A leaky pipeline limits the residency program's district benefits: only about half of completers became CPS principals within four years, at roughly $535,000 cost per new principal"
 description: "A leaky pipeline limits the residency program's district benefits: only about half of completers became CPS principals within four years, at roughly $535,000 cost per new principal"
 id: residency-leaky-pipeline-limited-roi
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

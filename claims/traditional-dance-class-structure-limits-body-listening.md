@@ -3,7 +3,7 @@ type: claim
 title: Traditional dance class structure offers insufficient opportunity for students to develop a sensitized relationship with their body
 description: Traditional dance class structure offers insufficient opportunity for students to develop a sensitized relationship with their body
 id: traditional-dance-class-structure-limits-body-listening
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

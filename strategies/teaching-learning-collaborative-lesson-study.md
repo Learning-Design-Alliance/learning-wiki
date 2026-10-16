@@ -3,7 +3,7 @@ type: strategy
 id: teaching-learning-collaborative-lesson-study
 title: "Teaching Learning Collaborative: a two-day lesson-study process of collaborative planning, teaching, and evidence-based revision"
 description: "The TLC \"brings together groups of three or four teachers over two full school days, separated by one to three weeks\": day one plans or chooses a conceptual flow, selects a learning sequence, and develops a 5E lesson;..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

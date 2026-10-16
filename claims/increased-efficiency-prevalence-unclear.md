@@ -3,7 +3,7 @@ type: claim
 title: How commonly the increased efficiency effect is present in test data is unclear
 description: How commonly the increased efficiency effect is present in test data is unclear
 id: increased-efficiency-prevalence-unclear
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

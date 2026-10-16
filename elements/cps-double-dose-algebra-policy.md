@@ -3,7 +3,7 @@ type: element
 id: cps-double-dose-algebra-policy
 title: Double-dose algebra policy in the Chicago Public Schools
 description: A district policy initiated in the Chicago Public Schools in 2003 requiring that all students with 8th-grade test scores below the national median enroll in a support algebra course in addition to regular algebra in t...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Most Way2Work Maryland participants (92 percent) had at least one work experience, 74 percent had at least two with one paid, and 44 percent had at least three with one paid
 description: Most Way2Work Maryland participants (92 percent) had at least one work experience, 74 percent had at least two with one paid, and 44 percent had at least three with one paid
 id: way2work-maryland-most-participants-multiple-work-experiences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

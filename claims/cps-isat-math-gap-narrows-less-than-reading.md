@@ -3,7 +3,7 @@ type: claim
 title: The Chicago-versus-rest-of-Illinois gap in ISAT math also narrows in upper grades, but less than in reading
 description: The Chicago-versus-rest-of-Illinois gap in ISAT math also narrows in upper grades, but less than in reading
 id: cps-isat-math-gap-narrows-less-than-reading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

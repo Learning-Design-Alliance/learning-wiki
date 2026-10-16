@@ -67,9 +67,9 @@ Structured discussion improves comprehension and reasoning more reliably than re
 - [Structure online small group work to maximize meaningful exchanges, assign conversational roles, ensure question-and-answer opportunity, and provide instructor feedback](structure-online-group-interactions-roles-feedback.md)
 
 ## Examples
-- **Accountable Talk** (University of Pittsburgh Institute for Learning, https://ifl.pitt.edu) — teacher training in talk moves such as revoicing and pressing for reasoning, implemented across district-wide literacy programs.
+- **[Accountable Talk](accountable_talk.md)** (University of Pittsburgh Institute for Learning, https://ifl.pitt.edu) — teacher training in talk moves such as revoicing and pressing for reasoning, implemented across district-wide literacy programs.
 - **Paideia Socratic Seminars** (National Paideia Center, https://www.paideia.org) — formal seminar cycle of pre-seminar text work, 15–45 minute open discussion, and post-seminar writing.
-- **Literature Circles** (Harvey & Daniels) — role-based small-group discussion widely used in K–12 ELA curricula.
+- **[Literature Circles](literature-circles.md)** (Harvey & Daniels) — role-based small-group discussion widely used in K–12 ELA curricula.
 
 ## Key Sources
 - Murphy, P. K., Wilkinson, I. A. G., Soter, A. O., Hennessey, M. N., & Alexander, J. F. (2009). Examining the effects of classroom discussion on students' comprehension of text: A meta-analysis. *Journal of Educational Psychology, 101*(3), 740–764. [doi:10.1037/a0015576](https://doi.org/10.1037/a0015576)

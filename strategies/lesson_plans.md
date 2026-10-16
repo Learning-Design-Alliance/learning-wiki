@@ -68,7 +68,7 @@ Well-structured lessons support learning because they manage the learner's cogni
 - [Design science education materials through curriculum-aligned teaching-learning sequences specifying driving questions, competency-based objectives, scientific practices and student activities](curriculum-aligned-tls-design-recipe.md)
 
 ## Examples
-- **Success for All** reading program — tightly scripted daily lesson plans with built-in regrouping based on assessment data; one of the most extensively evaluated structured-planning interventions in K–12 research
+- **[Success for All](../products/success-for-all.md)** reading program — tightly scripted daily lesson plans with built-in regrouping based on assessment data; one of the most extensively evaluated structured-planning interventions in K–12 research
 - **EngageNY / Illustrative Mathematics curricula** — published lesson plans with objectives, timed activity sequences, and embedded checks that teachers adapt
 - **Gagné's Nine Events** — a classic lesson-plan template: gain attention, inform objectives, stimulate recall, present content, provide guidance, elicit practice, provide feedback, assess, enhance transfer [Gagné's 9 Events of Instruction](../patterns/gagnes-9-events-of-instruction.md)
 

@@ -3,7 +3,7 @@ type: claim
 title: Data comics outperformed conventional visualisations on both information retrieval and comprehension tasks, with the largest gains in comprehension, particularly multiple-insight questions
 description: Data comics outperformed conventional visualisations on both information retrieval and comprehension tasks, with the largest gains in comprehension, particularly multiple-insight questions
 id: data-comics-largest-gains-comprehension-tasks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

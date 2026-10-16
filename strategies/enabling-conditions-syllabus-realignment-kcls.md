@@ -3,7 +3,7 @@ type: strategy
 id: enabling-conditions-syllabus-realignment-kcls
 title: Create enabling classroom conditions and realign the syllabus before implementing KCLS at higher secondary level
 description: "Based on the identified barriers, the article recommends that schools \"create enabling classroom condition for effective practice of KCLS as transformative teaching pedagogy\" and that \"the realignment of the existing..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

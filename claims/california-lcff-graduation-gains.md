@@ -3,7 +3,7 @@ type: claim
 title: A $1,000 increase in district per-pupil revenue in grades 10–12 was associated with a 5.3 percentage-point increase in high school graduation rates in California
 description: A $1,000 increase in district per-pupil revenue in grades 10–12 was associated with a 5.3 percentage-point increase in high school graduation rates in California
 id: california-lcff-graduation-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

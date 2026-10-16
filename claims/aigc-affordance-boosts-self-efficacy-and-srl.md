@@ -3,7 +3,7 @@ type: claim
 title: Perceived AIGC affordance enhances AIGC self-efficacy and directly predicts self-regulated learning in IEI undergraduates
 description: Perceived AIGC affordance enhances AIGC self-efficacy and directly predicts self-regulated learning in IEI undergraduates
 id: aigc-affordance-boosts-self-efficacy-and-srl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

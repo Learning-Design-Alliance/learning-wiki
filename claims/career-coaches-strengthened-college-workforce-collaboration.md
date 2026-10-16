@@ -3,7 +3,7 @@ type: claim
 title: Career coaches strengthened collaboration between colleges and the workforce development system, but sustaining these connections requires additional resources after the grant period
 description: Career coaches strengthened collaboration between colleges and the workforce development system, but sustaining these connections requires additional resources after the grant period
 id: career-coaches-strengthened-college-workforce-collaboration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

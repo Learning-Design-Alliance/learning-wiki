@@ -3,7 +3,7 @@ type: claim
 title: "Off-the-shelf LLM tutors are more verbose than human tutors, leaving students only 5-15% of talk time versus close to 30% in human tutoring"
 description: "Off-the-shelf LLM tutors are more verbose than human tutors, leaving students only 5-15% of talk time versus close to 30% in human tutoring"
 id: off-the-shelf-llms-verbose-low-student-talk-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

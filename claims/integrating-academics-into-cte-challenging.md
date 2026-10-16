@@ -3,7 +3,7 @@ type: claim
 title: Integrating academic learning into CTE classes is challenging for educators and curriculum developers
 description: Integrating academic learning into CTE classes is challenging for educators and curriculum developers
 id: integrating-academics-into-cte-challenging
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

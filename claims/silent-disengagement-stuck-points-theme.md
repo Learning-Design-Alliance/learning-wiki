@@ -3,7 +3,7 @@ type: claim
 title: Teachers report difficulty locating conceptual gaps because students stop progressing silently after difficulty, making disengagement hard to detect during class
 description: Teachers report difficulty locating conceptual gaps because students stop progressing silently after difficulty, making disengagement hard to detect during class
 id: silent-disengagement-stuck-points-theme
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

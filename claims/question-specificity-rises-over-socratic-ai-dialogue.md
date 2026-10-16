@@ -3,7 +3,7 @@ type: claim
 title: "Students' questions shift from broad to specific during Socratic AI tutoring, from about 10–15% specific in the first turn to all students asking specific questions by the final turn"
 description: "Students' questions shift from broad to specific during Socratic AI tutoring, from about 10–15% specific in the first turn to all students asking specific questions by the final turn"
 id: question-specificity-rises-over-socratic-ai-dialogue
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

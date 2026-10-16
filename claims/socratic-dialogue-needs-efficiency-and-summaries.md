@@ -3,7 +3,7 @@ type: claim
 title: "Socratic dialogue by a skilled but inefficient teaching assistant underperformed: lengthy, unsummarized checkpoints may leave students without clear understanding"
 description: "Socratic dialogue by a skilled but inefficient teaching assistant underperformed: lengthy, unsummarized checkpoints may leave students without clear understanding"
 id: socratic-dialogue-needs-efficiency-and-summaries
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: "In one study, feedback quality significantly predicts revised essay quality under teacher feedback but not under either GenAI feedback condition, though the conditions are not compared directly"
 description: In one study, feedback quality significantly predicts revised essay quality under teacher feedback but not under either GenAI feedback condition, though the conditions are not compared directly
 id: feedback-quality-predicts-revision-only-in-teacher-condition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

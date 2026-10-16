@@ -3,7 +3,7 @@ type: claim
 title: Black and Hispanic students attained postsecondary readiness and success outcomes at substantially lower rates than White students
 description: Black and Hispanic students attained postsecondary readiness and success outcomes at substantially lower rates than White students
 id: black-hispanic-lower-postsecondary-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Experimental and control groups were equivalent in vocabulary before the glossing treatment
 description: Experimental and control groups were equivalent in vocabulary before the glossing treatment
 id: gloss-study-groups-equivalent-at-pretest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -49,3 +49,4 @@ Pretest administration of the researcher-devised 50-item vocabulary test to both
 - [Multimedia glosses improve EFL students' immediate vocabulary acquisition relative to reading the same texts without glosses](multimedia-glosses-improve-efl-vocabulary-acquisition.md) — related
 - Experimental and control groups showed no significant pre-test difference in reading comprehension before treatment — related
 - Baseline pre-assessment scores showed no statistical differences between treatment and control groups in either the matched or baseline sample. — related
+- [The online vocabulary intervention did not significantly improve reading comprehension](online-vocabulary-intervention-no-comprehension-effect.md) — related

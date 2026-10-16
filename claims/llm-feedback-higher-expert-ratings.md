@@ -3,7 +3,7 @@ type: claim
 title: LLM feedback receives higher expert ratings on six of seven quality dimensions, with tone the exception
 description: LLM feedback receives higher expert ratings on six of seven quality dimensions, with tone the exception
 id: llm-feedback-higher-expert-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

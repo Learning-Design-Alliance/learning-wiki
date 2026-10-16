@@ -3,7 +3,7 @@ type: claim
 title: Using co-regulation strategies helped facilitators and youth build warm, trusting relationships
 description: Using co-regulation strategies helped facilitators and youth build warm, trusting relationships
 id: co-regulation-builds-warm-trusting-relationships
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

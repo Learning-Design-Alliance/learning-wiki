@@ -3,7 +3,7 @@ type: claim
 title: Flagged items showed no clear pattern by original difficulty, spreading across the entire scale like unflagged items
 description: Flagged items showed no clear pattern by original difficulty, spreading across the entire scale like unflagged items
 id: flagged-items-no-difficulty-pattern
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

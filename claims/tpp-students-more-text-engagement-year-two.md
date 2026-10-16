@@ -3,7 +3,7 @@ type: claim
 title: Students taught by TPP teachers engaged significantly more often in reading, writing, and speaking about texts in the second year of TPP
 description: Students taught by TPP teachers engaged significantly more often in reading, writing, and speaking about texts in the second year of TPP
 id: tpp-students-more-text-engagement-year-two
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

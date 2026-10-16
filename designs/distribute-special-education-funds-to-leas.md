@@ -3,7 +3,7 @@ type: design
 id: distribute-special-education-funds-to-leas
 title: Distribute state special education funds to LEAs rather than exclusively to SELPAs to promote coordination and inclusive practices
 description: The report recommends transitioning over time from distributing state special education funds exclusively to SELPAs to distributing them to LEAs, which could then contract with regional entities for regionalized servi...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "First-year success rates differed by pathway: 79 percent overall for Quantway College with Corequisite versus 54 percent overall for Statway College with Corequisite"
 description: "First-year success rates differed by pathway: 79 percent overall for Quantway College with Corequisite versus 54 percent overall for Statway College with Corequisite"
 id: quantway-versus-statway-corequisite-success-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

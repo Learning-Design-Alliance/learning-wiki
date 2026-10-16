@@ -3,7 +3,7 @@ type: claim
 title: "The post-interaction reflection instrument showed satisfactory internal consistency (Cronbach's α = .863)"
 description: "The post-interaction reflection instrument showed satisfactory internal consistency (Cronbach's α = .863)"
 id: ai-reflection-instrument-alpha-863
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

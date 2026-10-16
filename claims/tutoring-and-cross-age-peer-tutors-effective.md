@@ -3,7 +3,7 @@ type: claim
 title: Tutoring is highly effective, and hiring older peers as tutors supports learning gains for both older and younger students
 description: Tutoring is highly effective, and hiring older peers as tutors supports learning gains for both older and younger students
 id: tutoring-and-cross-age-peer-tutors-effective
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

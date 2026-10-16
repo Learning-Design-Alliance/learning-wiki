@@ -3,7 +3,7 @@ type: claim
 title: Subgroup analyses indicate school staff identification and referral services and informal networks both contribute to learning-mode differences in children’s SSI applications
 description: Subgroup analyses indicate school staff identification and referral services and informal networks both contribute to learning-mode differences in children’s SSI applications
 id: school-staff-referral-and-informal-networks-drive-ssi-applications
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

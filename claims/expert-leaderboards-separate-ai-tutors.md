@@ -3,7 +3,7 @@ type: claim
 title: "Expert tutors' lesson-planning and practice-design leaderboards separated AI models, and expert-rated practice design correlated with fewer student answer disputes"
 description: "Expert tutors' lesson-planning and practice-design leaderboards separated AI models, and expert-rated practice design correlated with fewer student answer disputes"
 id: expert-leaderboards-separate-ai-tutors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

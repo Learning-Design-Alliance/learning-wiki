@@ -3,7 +3,7 @@ type: claim
 title: Teacher confidence in teaching literacy and English learner students increased over the pilot year, especially with a local coach
 description: Teacher confidence in teaching literacy and English learner students increased over the pilot year, especially with a local coach
 id: wts-teacher-confidence-increased-over-year
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

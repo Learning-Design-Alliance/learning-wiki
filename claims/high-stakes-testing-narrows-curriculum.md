@@ -3,7 +3,7 @@ type: claim
 title: Reinstating high-stakes testing to measure learning loss narrows the curriculum and does not benefit long-term achievement
 description: Reinstating high-stakes testing to measure learning loss narrows the curriculum and does not benefit long-term achievement
 id: high-stakes-testing-narrows-curriculum
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

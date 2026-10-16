@@ -3,7 +3,7 @@ type: claim
 title: "Fine-tuning is associated with more compact generated code, with the fine-tuned Qwen2-VL-72B maintaining a length ratio near 1.0 while the base model's failed outputs become substantially longer"
 description: "Fine-tuning is associated with more compact generated code, with the fine-tuned Qwen2-VL-72B maintaining a length ratio near 1.0 while the base model's failed outputs become substantially longer"
 id: fine-tuning-compact-code-length-ratio
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

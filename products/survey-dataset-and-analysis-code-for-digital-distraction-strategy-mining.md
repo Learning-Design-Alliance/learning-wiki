@@ -4,7 +4,7 @@ id: survey-dataset-and-analysis-code-for-digital-distraction-strategy-mining
 title: Survey dataset and analysis code for digital distraction strategy mining
 description: An OSF-hosted dataset of self-reported college-student survey responses and accompanying R analysis code for mining associations between online-learning strategies and digital distraction, released by Shi et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

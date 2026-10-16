@@ -4,7 +4,7 @@ title: DaisyQuest improved phonological awareness over regular schooling in a ch
 description: DaisyQuest improved phonological awareness over regular schooling in a child-care facility randomized trial
 id: daisyquest-child-care-significant-gains
 aliases: [foster-1994-daisyquest-significant-both-measures]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

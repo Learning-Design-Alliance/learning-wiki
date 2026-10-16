@@ -2,7 +2,7 @@
 type: theory
 title: "Intervention-BKT: a BKT extension that models the effect of instructional interventions on student knowledge states"
 description: Intervention-BKT (IBKT) extends Bayesian Knowledge Tracing by adding input nodes representing instructional interventions such as elicit and tell.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -41,7 +41,6 @@ Intervention-BKT (IBKT) extends Bayesian Knowledge Tracing by adding input nodes
 
 - [Four-Phase Taxonomy of Knowledge Tracing Variants](knowledge-tracing-variants-learning-phases.md)
 - [Bayesian Knowledge Tracing (Two-State Hidden Markov Model)](bayesian-knowledge-tracing-two-state-model.md)
-- [Bayesian Knowledge Tracing: a two-state Hidden Markov Model inferring skill mastery from response histories](bkt-two-state-hmm-student-model.md)
 
 ## Examples
 -

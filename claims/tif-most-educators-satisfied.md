@@ -3,7 +3,7 @@ type: claim
 title: Most teachers and principals reported satisfaction with professional opportunities, school environment, and the TIF program
 description: Most teachers and principals reported satisfaction with professional opportunities, school environment, and the TIF program
 id: tif-most-educators-satisfied
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

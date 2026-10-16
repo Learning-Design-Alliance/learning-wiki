@@ -3,7 +3,7 @@ type: research-method
 id: four-requirement-framework-for-education-facing-llms
 title: Four-requirement framework for education-facing LLMs
 description: "The article organizes evaluation around four requirements an education-facing model should jointly satisfy, drawn from the learning-sciences literature (Shulman's pedagogical content knowledge, Vygotsky's zone of proximal development, Bloom's tutoring ideal, and AI-in-education ethics frameworks)."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

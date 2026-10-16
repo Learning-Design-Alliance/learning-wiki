@@ -67,10 +67,10 @@ Scaffolding works because it keeps tasks within the learner's zone of proximal d
 - [Gradual-release coaching model (I do, we do, you do) for building turnaround capacity](gradual-release-turnaround-coaching-model.md)
 
 ## Examples
-- **Reciprocal Teaching (Palincsar & Brown)** — teachers scaffold reading-comprehension strategies through dialogue, then transfer the teacher role to student groups as independence grows.
+- **[Reciprocal Teaching](reciprocal_teaching.md) (Palincsar & Brown)** — teachers scaffold reading-comprehension strategies through dialogue, then transfer the teacher role to student groups as independence grows.
 - **[Khan Academy](https://www.khanacademy.org)** — adaptive practice with tiered hints: each hint is a partial scaffold that fades toward the full solution, delivered contingently on learner requests.
 - **[Cognitive Tutor (Carnegie Learning)](https://www.carnegielearning.com)** — adaptive math software that provides just-in-time hints and adjusts problem difficulty based on a running skill model of each learner.
-- **Writing conferences** — teacher provides sentence frames and organizational prompts for early drafts, then withdraws them as students internalize the genre structure.
+- **[Writing conferences](writing-conferences.md)** — teacher provides sentence frames and organizational prompts for early drafts, then withdraws them as students internalize the genre structure.
 
 ## Key Sources
 - Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry, 17*(2), 89–100. [doi:10.1111/j.1469-7610.1976.tb00381.x](https://doi.org/10.1111/j.1469-7610.1976.tb00381.x)

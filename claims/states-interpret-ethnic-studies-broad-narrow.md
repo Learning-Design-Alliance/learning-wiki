@@ -3,7 +3,7 @@ type: claim
 title: States interpret ethnic studies in both broad and narrow terms, ranging from single-group history mandates to intersectional diversity coursework
 description: States interpret ethnic studies in both broad and narrow terms, ranging from single-group history mandates to intersectional diversity coursework
 id: states-interpret-ethnic-studies-broad-narrow
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

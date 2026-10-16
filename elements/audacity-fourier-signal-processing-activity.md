@@ -3,7 +3,7 @@ type: element
 id: audacity-fourier-signal-processing-activity
 title: Audacity-based Fourier analysis activity for teaching signal processing in an authentic context
 description: A classroom activity in which students used Audacity, an open-source audio editing program, to generate tone and noise spectra, combine them, and perform a Fourier transform.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
@@ -48,4 +48,4 @@ A classroom activity in which students used Audacity, an open-source audio editi
 - [Use freely available gravitational-wave education tools and resources, including Black Hole Hunter and Einstein's Messengers](../strategies/grav-wave-education-tools-for-educators.md)
 
 ## Key Sources
-- Farr, Schelbert, & Trouille. (2012). Gravitational-wave science in the high school classroom. https://arxiv.org/abs/1109.3720
+- Farr, Schelbert, & Trouille. (2012). Gravitational-wave science in the high school classroom. https://arxiv.org/abs/1109.3720. [doi:10.48550/arxiv.1109.3720](https://doi.org/10.48550/arxiv.1109.3720)

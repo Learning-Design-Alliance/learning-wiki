@@ -3,7 +3,7 @@ type: claim
 title: Skilled EFL writers apply procedural planning strategies of brainstorming, organizing, and outlining before writing, and revising strategies of pause-to-think, reviewing, and local plus global revision.
 description: Skilled EFL writers apply procedural planning strategies of brainstorming, organizing, and outlining before writing, and revising strategies of pause-to-think, reviewing, and local plus global revision.
 id: skilled-writers-planning-revising-strategies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

@@ -3,7 +3,7 @@ type: claim
 title: In the SRI quasi-experimental evaluation, students in high-quality Linked Learning pathways earned more credits, dropped out less, graduated on time more, and showed better ELA proficiency and college-going than peers
 description: In the SRI quasi-experimental evaluation, students in high-quality Linked Learning pathways earned more credits, dropped out less, graduated on time more, and showed better ELA proficiency and college-going than peers
 id: linked-learning-pathways-student-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

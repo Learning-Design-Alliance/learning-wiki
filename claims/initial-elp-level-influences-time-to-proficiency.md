@@ -3,7 +3,7 @@ type: claim
 title: "English Learners' initial ELP level influences the expected time frame for attaining the English-proficient criterion, supporting refined time-to-proficiency criteria"
 description: "English Learners' initial ELP level influences the expected time frame for attaining the English-proficient criterion, supporting refined time-to-proficiency criteria"
 id: initial-elp-level-influences-time-to-proficiency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

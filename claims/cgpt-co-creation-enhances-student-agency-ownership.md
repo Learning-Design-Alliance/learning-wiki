@@ -3,7 +3,7 @@ type: claim
 title: Placement students reported enhanced agency and ownership from the open-ended cGPT co-creation project
 description: Placement students reported enhanced agency and ownership from the open-ended cGPT co-creation project
 id: cgpt-co-creation-enhances-student-agency-ownership
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

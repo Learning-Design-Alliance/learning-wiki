@@ -3,7 +3,7 @@ type: strategy
 id: grav-wave-education-tools-for-educators
 title: "Use freely available gravitational-wave education tools and resources, including Black Hole Hunter and Einstein's Messengers"
 description: "The article points educators to a set of existing tools for teaching gravitational-wave science: the LIGO Science Education Center, which \"hosts field trips and professional development workshops, as well as a Researc..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
@@ -44,4 +44,4 @@ The article points educators to a set of existing tools for teaching gravitation
 -
 
 ## Key Sources
-- Farr, Schelbert, & Trouille. (2012). Gravitational-wave science in the high school classroom. https://arxiv.org/abs/1109.3720
+- Farr, Schelbert, & Trouille. (2012). Gravitational-wave science in the high school classroom. https://arxiv.org/abs/1109.3720. [doi:10.48550/arxiv.1109.3720](https://doi.org/10.48550/arxiv.1109.3720)

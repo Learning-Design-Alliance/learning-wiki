@@ -3,7 +3,7 @@ type: claim
 title: Learning loss showed little evidence of differing by sex, school grade, subject, or prior performance
 description: Learning loss showed little evidence of differing by sex, school grade, subject, or prior performance
 id: learning-loss-no-difference-sex-grade-subject-prior-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

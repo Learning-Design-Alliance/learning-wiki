@@ -3,7 +3,7 @@ type: claim
 title: "Ready, Set, Leap!® shows no significant effect on preschool math; the study authors' negative finding was not significant in WWC calculations"
 description: "Ready, Set, Leap!® shows no significant effect on preschool math; the study authors' negative finding was not significant in WWC calculations"
 id: ready-set-leap-null-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

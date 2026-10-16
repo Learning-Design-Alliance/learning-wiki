@@ -3,7 +3,7 @@ type: claim
 title: The two textbook series differ significantly in the distribution of intelligences across learning objectives
 description: The two textbook series differ significantly in the distribution of intelligences across learning objectives
 id: elt-textbook-series-differ-bloom-mi-grid
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Chat-driven vibe-coding builders converge on a single generate-and-check script whose dominant time cost is dead waiting for the tool
 description: Chat-driven vibe-coding builders converge on a single generate-and-check script whose dominant time cost is dead waiting for the tool
 id: shared-generate-and-check-loop-script
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

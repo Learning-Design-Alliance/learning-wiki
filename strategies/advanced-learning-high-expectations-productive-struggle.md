@@ -3,7 +3,7 @@ type: strategy
 id: advanced-learning-high-expectations-productive-struggle
 title: "High expectations with advanced learning opportunities and productive struggle to empower Black students' genius"
 description: "Under the Empowering Genius element, the brief recommends that the Center \"Establish high expectations\" by supporting \"curricula and advanced learning opportunities (e.g., Gifted and Talented Education, Dual Enrollmen..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

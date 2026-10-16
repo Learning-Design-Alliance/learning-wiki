@@ -3,7 +3,7 @@ type: design
 id: retrieval-grounded-textbook-synthesis-pipeline
 title: Five-stage retrieval-grounded textbook synthesis pipeline producing 686K source-grounded books (32B tokens)
 description: "A pipeline that transforms a pre-training corpus into textbook-form training data in two phases: knowledge extraction (query generation, retrieval, chunking, KMeans clustering with relevance filtering) and structured..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

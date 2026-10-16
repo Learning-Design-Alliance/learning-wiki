@@ -3,7 +3,7 @@ type: claim
 title: Integer-programming recourse generates compact, model-valid, SHACL-conformant intervention plans at scale on OULAD
 description: Integer-programming recourse generates compact, model-valid, SHACL-conformant intervention plans at scale on OULAD
 id: ip-recourse-compact-plans-at-scale
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

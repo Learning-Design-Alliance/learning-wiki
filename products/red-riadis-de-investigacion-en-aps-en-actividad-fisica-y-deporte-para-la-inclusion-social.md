@@ -4,7 +4,7 @@ id: red-riadis-de-investigacion-en-aps-en-actividad-fisica-y-deporte-para-la-inc
 title: Red RIADIS de investigación en ApS en actividad física y deporte para la inclusión social
 description: "A research network created and supported by Spain's Consejo Superior de Deportes that connects university service-learning research in physical activity and sport with social inclusion initiatives for vulnerable groups."
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-15

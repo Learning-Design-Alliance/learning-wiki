@@ -3,7 +3,7 @@ type: claim
 title: Nearly all educators most want AI to free up time in existing workflows and return capacity to overburdened staff
 description: Nearly all educators most want AI to free up time in existing workflows and return capacity to overburdened staff
 id: educators-want-ai-time-savings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -49,3 +49,4 @@ Findings from the educator interviews on workload. A district staff member said 
 - [Interest in AI for feedback in higher education is driven by workload reduction and feedback timeliness amid massification](ai-feedback-interest-workload-timeliness.md) — related
 - [How students and teachers want to interact with classroom AI largely depends on the teacher-student relationships that exist outside of AI use](teacher-student-relationships-shape-ai-views.md) — related
 - [Teachers envisioned chatbots as extending teacher capacity and availability by providing additional access to support and redistributing planning workload](teachers-envision-chatbots-extending-capacity-availability.md) — a narrower finding that bears on this claim
+- [Educators benefit from AI chatbots through time-saving administrative assistance and improved pedagogy](chatbot-educator-time-saving-pedagogy.md) — related

@@ -3,7 +3,7 @@ type: claim
 title: "Pass@1 is not a sufficient success metric for soft barriers because it conflates successful barriers with model generation failures"
 description: "Pass@1 is not a sufficient success metric for soft barriers because it conflates successful barriers with model generation failures"
 id: pass1-false-narrative-soft-barriers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

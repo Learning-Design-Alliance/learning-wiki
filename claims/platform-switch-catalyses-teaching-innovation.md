@@ -3,7 +3,7 @@ type: claim
 title: "Switching to an updated synchronous platform catalysed the teacher's ongoing teaching innovation"
 description: "Switching to an updated synchronous platform catalysed the teacher's ongoing teaching innovation"
 id: platform-switch-catalyses-teaching-innovation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -2,7 +2,7 @@
 type: theory
 title: Student test engagement as a measurable construct affecting testing-day effort
 description: The brief treats student test engagement as a construct that varies during a test session and shapes the effort students give on testing day.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

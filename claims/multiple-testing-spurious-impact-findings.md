@@ -3,7 +3,7 @@ type: claim
 title: Conducting many hypothesis tests across multiple outcomes and subgroups in social policy impact evaluations can lead to spurious impact findings
 description: Conducting many hypothesis tests across multiple outcomes and subgroups in social policy impact evaluations can lead to spurious impact findings
 id: multiple-testing-spurious-impact-findings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

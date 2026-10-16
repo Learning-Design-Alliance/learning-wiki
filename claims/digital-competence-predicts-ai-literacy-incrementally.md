@@ -3,7 +3,7 @@ type: claim
 title: "Prior digital competence significantly predicts AI literacy after external resources are controlled, adding 3% of variance"
 description: "Prior digital competence significantly predicts AI literacy after external resources are controlled, adding 3% of variance"
 id: digital-competence-predicts-ai-literacy-incrementally
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

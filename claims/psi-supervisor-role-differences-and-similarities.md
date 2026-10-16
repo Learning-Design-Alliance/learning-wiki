@@ -3,7 +3,7 @@ type: claim
 title: "Principal supervisor roles in PSI districts differed from other urban districts in key ways while supervisors' work with principals showed important similarities"
 description: "Principal supervisor roles in PSI districts differed from other urban districts in key ways while supervisors' work with principals showed important similarities"
 id: psi-supervisor-role-differences-and-similarities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Hyperparameter sensitivity in PKT is an inherent characteristic of programming interaction data, varying across models and across assignments within the same model
 description: Hyperparameter sensitivity in PKT is an inherent characteristic of programming interaction data, varying across models and across assignments within the same model
 id: pkt-hyperparameter-sensitivity-varies-by-model-and-assignment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

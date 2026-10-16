@@ -3,7 +3,7 @@ type: claim
 title: Alternating example-practice pairs produce faster and more accurate near-transfer solutions than blocked presentation of examples followed by practice
 description: Alternating example-practice pairs produce faster and more accurate near-transfer solutions than blocked presentation of examples followed by practice
 id: alternating-example-problem-pairs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

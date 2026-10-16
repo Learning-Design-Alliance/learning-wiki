@@ -3,7 +3,7 @@ type: claim
 title: Embedded cognitive flexibility practice showed no overall advantage over phonics alone on growth in decoding, encoding, or cognitive flexibility
 description: Embedded cognitive flexibility practice showed no overall advantage over phonics alone on growth in decoding, encoding, or cognitive flexibility
 id: embedded-cognitive-flexibility-no-overall-advantage-winter-kindergarten
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

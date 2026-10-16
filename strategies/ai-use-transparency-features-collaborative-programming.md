@@ -3,7 +3,7 @@ type: strategy
 id: ai-use-transparency-features-collaborative-programming
 title: "Make partners' AI use visible through transparency mechanisms in early collaborative programming phases"
 description: "The article recommends designing learning analytics and pedagogical scaffolds that make AI use visible or interpretable to collaborators, suggesting \"lightweight mechanisms such as shared prompt histories, AI-use anno..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: A reported case study describes structured AI use in a statistics unit for over 250 students, illustrating a Level 1-to-2 transition centring statistical thinking
 description: A reported case study describes structured AI use in a statistics unit for over 250 students, illustrating a Level 1-to-2 transition centring statistical thinking
 id: staj1371-structured-ai-use-case
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

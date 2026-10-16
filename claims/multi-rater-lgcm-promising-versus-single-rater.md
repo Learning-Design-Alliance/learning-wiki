@@ -3,7 +3,7 @@ type: claim
 title: The multi-rater growth model shows promise relative to cruder approaches like estimating growth from a single rater
 description: The multi-rater growth model shows promise relative to cruder approaches like estimating growth from a single rater
 id: multi-rater-lgcm-promising-versus-single-rater
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

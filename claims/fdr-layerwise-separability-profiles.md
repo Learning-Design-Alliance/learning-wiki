@@ -3,7 +3,7 @@ type: claim
 title: Layer-wise probing shows clearer middle-layer separability in the general model and a weaker, deeper separability profile in the coder model
 description: Layer-wise probing shows clearer middle-layer separability in the general model and a weaker, deeper separability profile in the coder model
 id: fdr-layerwise-separability-profiles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

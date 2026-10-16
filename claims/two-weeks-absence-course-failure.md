@@ -3,7 +3,7 @@ type: claim
 title: Freshmen who miss more than two weeks of school per semester fail at least two classes on average, regardless of incoming test scores
 description: Freshmen who miss more than two weeks of school per semester fail at least two classes on average, regardless of incoming test scores
 id: two-weeks-absence-course-failure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

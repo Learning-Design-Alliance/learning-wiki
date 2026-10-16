@@ -3,7 +3,7 @@ type: design
 id: pair-new-revenues-with-transparency-and-accountability
 title: New revenues must be paired with system improvements and accountability, including strengthened fiscal transparency so stakeholders understand how money is being used
 description: "The report's Finding 5 holds that \"New Revenues Must be Paired With System Improvements and Accountability,\" reflecting stakeholder views that more resources are necessary only if the public and policymakers are offer..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

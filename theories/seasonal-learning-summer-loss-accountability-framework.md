@@ -2,7 +2,7 @@
 type: theory
 title: Seasonal learning patterns and summer loss as an accountability-relevant phenomenon
 description: The brief treats seasonal learning patterns and summer loss as a measurable phenomenon with direct consequences for how schools are evaluated.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

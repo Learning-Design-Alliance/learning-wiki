@@ -3,7 +3,7 @@ type: claim
 title: Multifaceted interventions targeting different barriers to change are more likely to be effective than single interventions
 description: Multifaceted interventions targeting different barriers to change are more likely to be effective than single interventions
 id: multifaceted-interventions-targeting-barriers-more-effective
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

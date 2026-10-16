@@ -3,7 +3,7 @@ type: strategy
 id: gateway-inclusion-model-learning-disabilities
 title: Inclusion model in which students with learning disabilities take general education classes with additional supports
 description: Gateway practices an inclusion model in keeping with its founding mission to support students with different learning styles.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

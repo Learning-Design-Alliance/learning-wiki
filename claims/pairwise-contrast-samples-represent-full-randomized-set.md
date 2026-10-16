@@ -3,7 +3,7 @@ type: claim
 title: In multi-armed trials seeking the most effective treatments, each pairwise contrast sample is representative of the full set of randomized units
 description: In multi-armed trials seeking the most effective treatments, each pairwise contrast sample is representative of the full set of randomized units
 id: pairwise-contrast-samples-represent-full-randomized-set
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

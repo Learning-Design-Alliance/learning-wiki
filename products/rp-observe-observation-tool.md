@@ -4,7 +4,7 @@ id: rp-observe-observation-tool
 title: RP-Observe observation tool
 description: RP-Observe is a Rutgers University-developed school observation tool for assessing restorative-justice implementation and outcomes.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

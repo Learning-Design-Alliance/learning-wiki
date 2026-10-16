@@ -3,7 +3,7 @@ type: claim
 title: PSAT-based National Merit scholarship selection distributes awards disproportionately to boys, with girls receiving 36 percent of scholarships
 description: PSAT-based National Merit scholarship selection distributes awards disproportionately to boys, with girls receiving 36 percent of scholarships
 id: psat-national-merit-awards-skew-male
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: "Funnel plot and Egger's test indicate publication bias in the PBL tutor-background data, and trim-and-fill suggests the overall effect is overestimated"
 description: "Funnel plot and Egger's test indicate publication bias in the PBL tutor-background data, and trim-and-fill suggests the overall effect is overestimated"
 id: publication-bias-pbl-tutor-meta-analysis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
@@ -71,3 +71,5 @@ The article contrasts the Egger's test result with an earlier vote count: "a vot
 - Robust variance estimation shows study of origin does not impact the final effect size in the PBL tutor-background data — related
 - Publication-bias diagnostics suggest minimal influence on the meta-analytic findings, with a borderline Begg's test — reports the opposite
 - Significant publication bias was detected in the TEFL technology literature, with Egger's test confirming funnel-plot asymmetry — related
+- Funnel-plot and fail-safe N analyses indicate small publication bias, and one-study-removal analysis indicates stable pooled effects — related
+- [Funnel-plot asymmetry was significant in both meta-analyses, indicating possible publication or selection bias](funnel-plot-asymmetry-significant-eai.md) — related

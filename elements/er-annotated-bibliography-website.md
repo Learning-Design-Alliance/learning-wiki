@@ -3,7 +3,7 @@ type: element
 id: er-annotated-bibliography-website
 title: Extensive reading website with annotated bibliography and program-starting resources
 description: "The article points readers to a website on extensive reading in second language instruction, at http://www.kyoto-su.ac.jp/information/er/, which \"includes an annotated bibliography of works on the topic and many other..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: "State policy activity toward competency-based and personalized learning is broad but shallow: seventeen states reached advanced adoption while most efforts remain limited to pilots"
 description: "State policy activity toward competency-based and personalized learning is broad but shallow: seventeen states reached advanced adoption while most efforts remain limited to pilots"
 id: state-cbl-policy-activity-pilots-limited
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

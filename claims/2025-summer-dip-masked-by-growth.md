@@ -3,7 +3,7 @@ type: claim
 title: The educational summer dip is invisible in aggregate 2025 ChatGPT activity due to rapid overall growth, even though the school-calendar response remains intact
 description: The educational summer dip is invisible in aggregate 2025 ChatGPT activity due to rapid overall growth, even though the school-calendar response remains intact
 id: 2025-summer-dip-masked-by-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

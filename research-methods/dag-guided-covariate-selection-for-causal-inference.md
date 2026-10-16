@@ -3,7 +3,7 @@ type: research-method
 id: dag-guided-covariate-selection-for-causal-inference
 title: DAG-guided covariate selection for causal inference
 description: The article recommends constructing a DAG before data collection so that decisions about when to control, what to control for, and when to avoid control can be derived by inspecting the graph.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

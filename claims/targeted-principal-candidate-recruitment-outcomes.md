@@ -3,7 +3,7 @@ type: claim
 title: Targeted recruitment of teacher leaders is associated with candidates more likely to become and remain principals
 description: Targeted recruitment of teacher leaders is associated with candidates more likely to become and remain principals
 id: targeted-principal-candidate-recruitment-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

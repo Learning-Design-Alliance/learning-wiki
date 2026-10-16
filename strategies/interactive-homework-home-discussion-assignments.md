@@ -3,7 +3,7 @@ type: strategy
 id: interactive-homework-home-discussion-assignments
 title: Use interactive homework assignments that require students to discuss class learning with someone at home
 description: "The strategy is to design homework that structurally requires family conversation: \"teachers provide students assignments that require them to talk to someone at home about something interesting that they are learning..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

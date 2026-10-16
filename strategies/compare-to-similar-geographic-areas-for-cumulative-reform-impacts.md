@@ -3,7 +3,7 @@ type: strategy
 id: compare-to-similar-geographic-areas-for-cumulative-reform-impacts
 title: Estimate cumulative impacts of district-wide reforms by comparing achievement changes to similar students in similar geographic areas without the reforms
 description: "The study estimated cumulative impacts of district-wide reforms through a comparative approach: it analyzed \"how changes in achievement levels of DC schools compare to changes observed for similar students in similar..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

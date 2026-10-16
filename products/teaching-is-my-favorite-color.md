@@ -4,7 +4,7 @@ id: teaching-is-my-favorite-color
 title: Teaching is My Favorite Color
 description: A teacher-designed and teacher-led support and professional-development community for teachers of color across three southwestern Pennsylvania school districts.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

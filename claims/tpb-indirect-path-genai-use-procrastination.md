@@ -3,7 +3,7 @@ type: claim
 title: "TPB constructs indirectly link GenAI use to lower GenAI-assisted learning procrastination, accounting for about 30.9% of the total association"
 description: "TPB constructs indirectly link GenAI use to lower GenAI-assisted learning procrastination, accounting for about 30.9% of the total association"
 id: tpb-indirect-path-genai-use-procrastination
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

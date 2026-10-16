@@ -3,7 +3,7 @@ type: claim
 title: "Strong leadership is central to rapid school improvement, per the article's summary of research"
 description: "Strong leadership is central to rapid school improvement, per the article's summary of research"
 id: leadership-central-rapid-school-improvement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

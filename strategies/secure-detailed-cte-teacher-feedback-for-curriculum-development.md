@@ -3,7 +3,7 @@ type: strategy
 id: secure-detailed-cte-teacher-feedback-for-curriculum-development
 title: Secure detailed feedback from CTE teachers when developing academically integrated CTE curricula
 description: This strategy holds that curriculum developers infusing academics into CTE should gather detailed feedback from practicing CTE teachers.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Displaced students' freshman on-track-to-graduate rates did not differ from comparison students, regardless of their grade at closing"
 description: "Displaced students' freshman on-track-to-graduate rates did not differ from comparison students, regardless of their grade at closing"
 id: no-effect-high-school-on-track-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

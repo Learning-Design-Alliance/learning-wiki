@@ -3,7 +3,7 @@ type: claim
 title: "Approximately half of students' analysed texts showed collaborative learning meeting co-regulation and co-construction descriptors"
 description: "Approximately half of students' analysed texts showed collaborative learning meeting co-regulation and co-construction descriptors"
 id: half-of-texts-showed-collaborative-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

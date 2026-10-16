@@ -3,7 +3,7 @@ type: claim
 title: "Hyperparameter sweeps reproduce the lesson's claims: γ = 0 never solves the task while ε = 1 still converges"
 description: "Hyperparameter sweeps reproduce the lesson's claims: γ = 0 never solves the task while ε = 1 still converges"
 id: hyperparameter-sweeps-reproduce-lesson-claims
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -18,8 +18,8 @@ sources:
     kind: causal
     rigour: 2
   - id: jueng-2026-2
-    resource: "https://arxiv.org/abs/2607.10802"
-    title: "Jueng, Ekkachai. (2026). Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis. https://arxiv.org/abs/2607.10802"
+    resource: "https://doi.org/10.48550/arxiv.2607.10802"
+    title: "Jueng, Ekkachai. (2026). Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis. https://arxiv.org/abs/2607.10802. [doi:10.48550/arxiv.2607.10802](https://doi.org/10.48550/arxiv.2607.10802)"
     author: Jueng, Ekkachai
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Hyperparameter sweeps reproduce the lesson's claims: γ = 0 never solves the task while ε = 1 still converges
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the exploration and learning-rate sweeps, all tested ε values including ε = 1 eventually reach the optimal return, and all tested α values converge on this small problem. [→ Jueng 2026](#jueng-2026)
@@ -50,7 +50,7 @@ Multi-seed numerical sweep experiment: for each setting the reference implementa
 
 ### Jueng 2026 (2)
 
-Jueng, Ekkachai. (2026). Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis. https://arxiv.org/abs/2607.10802
+Jueng, Ekkachai. (2026). Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis. https://arxiv.org/abs/2607.10802. [doi:10.48550/arxiv.2607.10802](https://doi.org/10.48550/arxiv.2607.10802)
 
 `q2 · i?` · `causal · r2`
 

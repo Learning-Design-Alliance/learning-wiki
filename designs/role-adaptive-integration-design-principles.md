@@ -3,7 +3,7 @@ type: design
 id: role-adaptive-integration-design-principles
 title: "Three role-integration design principles: integrated data governance, context-driven role switching, and synergistic human-AI collaboration"
 description: The article specifies three paramount design principles for orchestrating multiple AI roles into a cohesive whole.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-14

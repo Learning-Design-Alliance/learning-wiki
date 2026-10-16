@@ -3,7 +3,7 @@ type: claim
 title: Calibration sample size differences did not affect the size of on-grade versus all-grade item difficulty estimate differences
 description: Calibration sample size differences did not affect the size of on-grade versus all-grade item difficulty estimate differences
 id: map-growth-sample-size-did-not-affect-difficulty-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

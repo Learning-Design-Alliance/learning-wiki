@@ -3,7 +3,7 @@ type: claim
 title: During the pilot, interaction sessions remained bounded in duration and frequency, and dependency-related risk signals were rare and addressed through prompts encouraging human contact
 description: During the pilot, interaction sessions remained bounded in duration and frequency, and dependency-related risk signals were rare and addressed through prompts encouraging human contact
 id: amico-bounded-usage-rare-dependency-signals
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

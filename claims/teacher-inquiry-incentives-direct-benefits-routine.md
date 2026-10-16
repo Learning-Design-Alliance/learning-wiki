@@ -3,7 +3,7 @@ type: claim
 title: Teachers would engage in analytics-informed inquiry if they saw direct benefits for student outcomes and the process were a regular part of their work
 description: Teachers would engage in analytics-informed inquiry if they saw direct benefits for student outcomes and the process were a regular part of their work
 id: teacher-inquiry-incentives-direct-benefits-routine
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

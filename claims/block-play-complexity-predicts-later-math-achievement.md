@@ -3,7 +3,7 @@ type: claim
 title: Preschool block play complexity predicts later mathematics achievement, with relationships emerging by seventh grade
 description: Preschool block play complexity predicts later mathematics achievement, with relationships emerging by seventh grade
 id: block-play-complexity-predicts-later-math-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

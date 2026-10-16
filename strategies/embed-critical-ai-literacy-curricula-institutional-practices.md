@@ -3,7 +3,7 @@ type: strategy
 id: embed-critical-ai-literacy-curricula-institutional-practices
 title: Embed critical AI literacy into curricula and institutional practices in higher education
 description: "The editorial's forward-looking recommendation is that intellectuals in higher education lead a transformative agenda by \"embedding critical AI literacy into curricula and institutional practices\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

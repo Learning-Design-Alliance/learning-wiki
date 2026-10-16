@@ -68,8 +68,8 @@ Guiding questions work because they induce [self-explanation](../claims/self-exp
 - [Edit ambiguous student questions into clear, directive prompts before posing them to ChatGPT](edit-ambiguous-student-questions-into-directive-prompts.md)
 
 ## Examples
-- **Reciprocal Teaching (Palincsar & Brown)** — students take turns leading small-group discussion using four prompt types (predict, question, clarify, summarize), with teacher modeling fading over ~20 sessions.
-- **Facing History and Ourselves (https://www.facinghistory.org)** — published discussion prompts and journal prompts that guide secondary students through texts on identity, power, and justice.
+- **[Reciprocal Teaching](reciprocal_teaching.md) (Palincsar & Brown)** — students take turns leading small-group discussion using four prompt types (predict, question, clarify, summarize), with teacher modeling fading over ~20 sessions.
+- **[Facing History and Ourselves](../products/facing-history-and-ourselves.md) (https://www.facinghistory.org)** — published discussion prompts and journal prompts that guide secondary students through texts on identity, power, and justice.
 - **Socratic seminar in ELA** — students prepare open-ended questions about a novel in advance; the seminar is run entirely from student-generated questions.
 
 ## Key Sources

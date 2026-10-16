@@ -3,7 +3,7 @@ type: strategy
 id: institutional-ai-safeguards-assessment
 title: Institutional safeguards for safe, transparent AI use in assessment
 description: "The paper assigns institutions minimum responsibilities for enabling AI-mediated assessment: completing a privacy/data-protection impact assessment (PIA/DPIA) for any AI tool used in assessment with clear data-flow ma..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

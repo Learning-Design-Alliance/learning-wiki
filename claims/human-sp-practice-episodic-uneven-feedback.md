@@ -3,7 +3,7 @@ type: claim
 title: Formative participants found human SP practice valuable for embodied cues but episodic and unevenly connected to individualized feedback
 description: Formative participants found human SP practice valuable for embodied cues but episodic and unevenly connected to individualized feedback
 id: human-sp-practice-episodic-uneven-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

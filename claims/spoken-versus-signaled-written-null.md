@@ -3,7 +3,7 @@ type: claim
 title: Spoken text modality does not significantly differ from signaled written text modality, or from signaled written plus spoken text, for either abstract or concrete animation
 description: Spoken text modality does not significantly differ from signaled written text modality, or from signaled written plus spoken text, for either abstract or concrete animation
 id: spoken-versus-signaled-written-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

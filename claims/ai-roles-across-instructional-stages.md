@@ -3,7 +3,7 @@ type: claim
 title: "Trained teachers position AI as supportive across instructional stages: planning, lesson introduction, implementation, assessment and feedback, and out-of-class learning"
 description: "Trained teachers position AI as supportive across instructional stages: planning, lesson introduction, implementation, assessment and feedback, and out-of-class learning"
 id: ai-roles-across-instructional-stages
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

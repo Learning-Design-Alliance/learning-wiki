@@ -3,7 +3,7 @@ type: claim
 title: Programming self-efficacy and programming literacy did not significantly moderate the trust–appropriate reliance relationship
 description: Programming self-efficacy and programming literacy did not significantly moderate the trust–appropriate reliance relationship
 id: programming-measures-no-moderation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

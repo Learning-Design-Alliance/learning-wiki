@@ -3,7 +3,7 @@ type: strategy
 id: mmla-k8-transparency-ethics-strategy
 title: Prioritize transparency, ethical guidelines, and researcher-educator collaboration when conducting K–8 MMLA research
 description: "Based on the identified gaps, the review recommends that \"researchers must prioritize ethical guidelines and ensure transparency in their data handling practices, including how the data is managed, stored, and accesse..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

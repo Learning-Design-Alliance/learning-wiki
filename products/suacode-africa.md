@@ -4,7 +4,7 @@ id: suacode-africa
 title: SuaCode Africa
 description: A two-month smartphone-based online programming curriculum developed for high school students, university students, and recent graduates in Africa and the diaspora, using Processing and the APDE Android app.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

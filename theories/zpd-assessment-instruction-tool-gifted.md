@@ -3,7 +3,7 @@ type: theory
 title: Zone of Proximal Development as an assessment and instruction tool
 description: "The ZPD is defined by Vygotsky as \"the distance between the actual developmental level as determined by independent problem-solving and the level of potential development as determined through problem-solving under ad..."
 canonical: true
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -65,4 +65,4 @@ The ZPD is defined by Vygotsky as "the distance between the actual developmental
 - [Use progress monitoring to tailor math instruction to each child's position on a developmental progression](../strategies/progress-monitoring-tailor-early-math-instruction.md)
 
 ## Key Sources
-- McGlonn-Nelson, K. (2005). Looking Outward: Exploring the Intersections of Sociocultural Theory and Gifted Education. The Journal of Secondary Gifted Education, 17(1), 48-55. https://eric.ed.gov/?id=EJ746045
+- McGlonn-Nelson, K. (2005). Looking Outward: Exploring the Intersections of Sociocultural Theory and Gifted Education. The Journal of Secondary Gifted Education, 17(1), 48-55. https://eric.ed.gov/?id=EJ746045. [doi:10.4219/jsge-2005-391](https://doi.org/10.4219/jsge-2005-391)

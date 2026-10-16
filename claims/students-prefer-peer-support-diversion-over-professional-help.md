@@ -3,7 +3,7 @@ type: claim
 title: Students report peer support and distraction as effective coping, rarely self-regulation or professional help-seeking
 description: Students report peer support and distraction as effective coping, rarely self-regulation or professional help-seeking
 id: students-prefer-peer-support-diversion-over-professional-help
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

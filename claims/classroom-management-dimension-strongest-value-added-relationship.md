@@ -3,7 +3,7 @@ type: claim
 title: "The classroom management dimension is most consistently and strongly related to teachers' value-added scores across instruments, subjects, and grades"
 description: "The classroom management dimension is most consistently and strongly related to teachers' value-added scores across instruments, subjects, and grades"
 id: classroom-management-dimension-strongest-value-added-relationship
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: three-uses-of-sel-framework-criteria
 title: "Use the ten criteria in three ways: describe needs, evaluate candidate frameworks, and review frequently used frameworks systematically"
 description: "The brief prescribes three primary uses of the criteria: helping practitioners describe and decide what they need; evaluating frameworks they are considering by rating them and checking strength in priority areas; and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

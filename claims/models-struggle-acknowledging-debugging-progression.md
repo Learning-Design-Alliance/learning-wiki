@@ -3,7 +3,7 @@ type: claim
 title: "Most models struggle to engage with a student's prior debugging attempts even when the iteration history is provided"
 description: "Most models struggle to engage with a student's prior debugging attempts even when the iteration history is provided"
 id: models-struggle-acknowledging-debugging-progression
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

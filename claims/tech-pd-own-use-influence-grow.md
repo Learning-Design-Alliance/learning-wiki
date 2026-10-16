@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' Grow use is strongly influenced by technology professional development, their own use of technology, and principal support for Grow"
 description: "Teachers' Grow use is strongly influenced by technology professional development, their own use of technology, and principal support for Grow"
 id: tech-pd-own-use-influence-grow
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Reports of children's noncognitive skills from children, guardians, and teachers are correlated with each other"
 description: "Reports of children's noncognitive skills from children, guardians, and teachers are correlated with each other"
 id: three-respondent-reports-correlated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

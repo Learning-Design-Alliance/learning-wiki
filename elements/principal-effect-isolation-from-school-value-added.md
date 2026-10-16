@@ -3,7 +3,7 @@ type: element
 id: principal-effect-isolation-from-school-value-added
 title: "Method for isolating principals' persistent effects on student achievement growth from school value added"
 description: "The article describes an analytic approach that isolates principals' effects on student achievement growth and examines how much of principals' persistently demonstrated effectiveness is captured by school value added."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

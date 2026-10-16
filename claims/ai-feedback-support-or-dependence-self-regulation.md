@@ -3,7 +3,7 @@ type: claim
 title: AI feedback supports or undermines self-regulated practice depending on whether it supports or substitutes for internal monitoring
 description: AI feedback supports or undermines self-regulated practice depending on whether it supports or substitutes for internal monitoring
 id: ai-feedback-support-or-dependence-self-regulation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

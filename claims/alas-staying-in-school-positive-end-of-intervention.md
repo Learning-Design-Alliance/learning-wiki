@@ -3,7 +3,7 @@ type: claim
 title: ALAS increases the likelihood that high-risk students remain enrolled in school at the end of the intervention
 description: ALAS increases the likelihood that high-risk students remain enrolled in school at the end of the intervention
 id: alas-staying-in-school-positive-end-of-intervention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: strategy
 id: structured-advance-organizer-appendix-strategy
 title: Offer a structured advance organizer before the full article for readers who benefit from one
 description: "The article recommends that \"Readers who benefit from a structured advance organizer should consider reading the appendix at the end of this article before reading the entire article.\" This is an implementable present..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

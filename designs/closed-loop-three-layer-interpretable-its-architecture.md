@@ -3,7 +3,7 @@ type: design
 id: closed-loop-three-layer-interpretable-its-architecture
 title: Closed-loop three-layer interpretable ITS architecture linking multimodal scoring, expressive diagnostics, and conversational coaching
 description: The article proposes an ITS architecture that treats assessment not as an endpoint but as part of a closed loop of practice, feedback, and behavioral adjustment.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

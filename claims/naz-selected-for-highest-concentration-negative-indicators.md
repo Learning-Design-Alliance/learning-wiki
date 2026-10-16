@@ -3,7 +3,7 @@ type: claim
 title: "The NAZ Zone was selected because it encompasses the area's highest concentration of negative poverty, violence, and low-education indicators"
 description: "The NAZ Zone was selected because it encompasses the area's highest concentration of negative poverty, violence, and low-education indicators"
 id: naz-selected-for-highest-concentration-negative-indicators
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

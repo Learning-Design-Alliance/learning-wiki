@@ -3,7 +3,7 @@ type: design
 id: unscaffolded-genai-use-framework
 title: Unscaffolded GenAI use as self-initiated engagement without GenAI-specific guidance, framed by cognitive load theory and the zone of proximal development
 description: "The article defines unscaffolded GenAI use as \"learners’ self-initiated and self-regulated engagement with GenAI in the absence of GenAI-specific instructional guidance or pre-designed prompting frameworks\", drawing o..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

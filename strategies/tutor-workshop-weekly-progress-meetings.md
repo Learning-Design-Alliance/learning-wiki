@@ -3,7 +3,7 @@ type: strategy
 id: tutor-workshop-weekly-progress-meetings
 title: Support tutors with a 2-day initial workshop plus weekly per-child progress meetings
 description: "Galaxy Math's professional development model combines \"a 2-day initial workshop\" with ongoing support: tutors \"participate in weekly meetings with project coordinators to review the progress of each child.\" Training i..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

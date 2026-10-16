@@ -3,7 +3,7 @@ type: claim
 title: Behavior-prediction accuracy rises with more past learning records, reaching 0.94 at 40 records
 description: Behavior-prediction accuracy rises with more past learning records, reaching 0.94 at 40 records
 id: more-past-records-improve-simulation-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

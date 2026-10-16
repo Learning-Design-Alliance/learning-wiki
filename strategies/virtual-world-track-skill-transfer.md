@@ -3,7 +3,7 @@ type: strategy
 id: virtual-world-track-skill-transfer
 title: "Use virtual-world tasks to track learners' application and transfer of skills"
 description: "SPICE develops the Center's back end to track learners' application of skills, which Hughes calls a critical step in developing learners' confidence to teach their children, and something she says SPICE is only able t..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

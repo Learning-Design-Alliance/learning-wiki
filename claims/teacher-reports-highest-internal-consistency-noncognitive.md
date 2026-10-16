@@ -3,7 +3,7 @@ type: claim
 title: "Teacher reports of children's noncognitive skills have the highest internal consistency among child, guardian, and teacher reports"
 description: "Teacher reports of children's noncognitive skills have the highest internal consistency among child, guardian, and teacher reports"
 id: teacher-reports-highest-internal-consistency-noncognitive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

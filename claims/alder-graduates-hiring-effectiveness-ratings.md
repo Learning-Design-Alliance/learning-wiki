@@ -3,7 +3,7 @@ type: claim
 title: Most Alder graduates are hired as full-time teachers and are rated more effective than other first-year teachers by their school leaders
 description: Most Alder graduates are hired as full-time teachers and are rated more effective than other first-year teachers by their school leaders
 id: alder-graduates-hiring-effectiveness-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

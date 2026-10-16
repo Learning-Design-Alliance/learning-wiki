@@ -4,7 +4,7 @@ title: Four-year-olds who miss more preschool score lower on kindergarten readin
 description: Four-year-olds who miss more preschool score lower on kindergarten readiness measures of math, letter recognition, and social-emotional development, even after controlling for incoming skills
 id: preschool-absence-lower-kindergarten-readiness-scores
 aliases: [preschool-absence-lower-kindergarten-readiness]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

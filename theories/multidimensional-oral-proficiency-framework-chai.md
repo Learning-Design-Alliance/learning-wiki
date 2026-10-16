@@ -2,7 +2,7 @@
 type: theory
 title: Multidimensional oral proficiency assessment framework grounded in communicative competence theory
 description: "The article operationalizes spoken competence as a set of distinct but interrelated component skills, building on communicative competence theory, which \"identifies four components that sit beneath effective language..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
@@ -42,7 +42,6 @@ The article operationalizes spoken competence as a set of distinct but interrela
 
 - [Canale and Swain's integrative framework of communicative competence: grammatical, sociolinguistic, and discourse components](canale-swain-communicative-competence-framework.md)
 - [Canale and Swain's four dimensions of communicative competence as a lexical exercise framework](canale-swain-four-dimensions-lexical-framework.md)
-- [Canale and Swain's integrative framework of communicative competence synthesizes grammatical, sociolinguistic, and discourse knowledge](canale-swain-integrative-communicative-competence-framework.md)
 
 ## Examples
 

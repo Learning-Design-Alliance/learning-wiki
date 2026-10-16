@@ -3,7 +3,7 @@ type: claim
 title: The participatory simulation group achieved significantly larger application gains than the problem-based group
 description: The participatory simulation group achieved significantly larger application gains than the problem-based group
 id: simulation-larger-application-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

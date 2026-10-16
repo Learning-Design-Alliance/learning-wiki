@@ -3,7 +3,7 @@ type: claim
 title: "After Hillsdale High School detracked into heterogeneous small learning communities, 100% of African American and Latinx 9th-graders enrolled in biology (up from 18% in 2002–03) and assessment performance matched high-track schools"
 description: "After Hillsdale High School detracked into heterogeneous small learning communities, 100% of African American and Latinx 9th-graders enrolled in biology (up from 18% in 2002–03) and assessment performance matched high..."
 id: hillsdale-detracking-enrollment-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

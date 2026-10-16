@@ -3,7 +3,7 @@ type: claim
 title: "Significantly more TPP teachers encouraged students' higher-order thinking skills than district-supported comparison teachers"
 description: "Significantly more TPP teachers encouraged students' higher-order thinking skills than district-supported comparison teachers"
 id: tpp-teachers-encouraged-higher-order-thinking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

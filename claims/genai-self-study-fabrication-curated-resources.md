@@ -3,7 +3,7 @@ type: claim
 title: Poorly grounded GenAI self-study risks fabricated content and inferior learning relative to curated resources
 description: Poorly grounded GenAI self-study risks fabricated content and inferior learning relative to curated resources
 id: genai-self-study-fabrication-curated-resources
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

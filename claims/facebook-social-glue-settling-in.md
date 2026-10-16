@@ -3,7 +3,7 @@ type: claim
 title: "Facebook acted as part of the 'social glue' helping first-year students settle into university life, though most students did not see it as crucial to overcoming loneliness."
 description: "Facebook acted as part of the 'social glue' helping first-year students settle into university life, though most students did not see it as crucial to overcoming loneliness."
 id: facebook-social-glue-settling-in
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

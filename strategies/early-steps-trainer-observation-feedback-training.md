@@ -3,7 +3,7 @@ type: strategy
 id: early-steps-trainer-observation-feedback-training
 title: Intensive trainer-led observation and feedback model for tutoring professional development
 description: Early Steps training involves 9 full-day visits by the trainer across the school year.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

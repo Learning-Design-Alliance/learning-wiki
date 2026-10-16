@@ -3,7 +3,7 @@ type: claim
 title: Task-specific fine-tuning substantially improves open-source LLMs on MedGame Bench and narrows the gap with commercial models
 description: Task-specific fine-tuning substantially improves open-source LLMs on MedGame Bench and narrows the gap with commercial models
 id: fine-tuning-improves-open-source-llms-medgame-bench
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -45,3 +45,4 @@ Benchmark experiments on MedGame Bench (LoRA fine-tuning on Gemini-3-Pro referen
 ## Related Claims
 - [Without fine-tuning, commercial frontier models outperform open-source LLMs on MedGame Bench structural validity and content metrics](commercial-models-outperform-open-source-medgame-baseline.md) — related
 - [Related-case overlap between MedGame Bench train and test splits shows no significant performance difference](no-related-case-overlap-inflation-medgame-bench.md) — related
+- [ChatGPT performed at or near the passing threshold on the United States Medical Licensing Exam without domain fine-tuning (reported from Kung et al.)](chatgpt-near-passing-threshold-usmle.md) — related

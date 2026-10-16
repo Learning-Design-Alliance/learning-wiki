@@ -3,7 +3,7 @@ type: element
 id: ten-rct-cace-variance-comparison
 title: Ten-RCT empirical comparison of CACE variance formulas
 description: "An empirical analysis component of the report in which the authors \"used data from ten large-scale RCTs\" to compare significance findings for the CACE estimator."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

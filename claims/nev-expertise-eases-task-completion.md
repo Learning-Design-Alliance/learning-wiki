@@ -3,7 +3,7 @@ type: claim
 title: Participants with higher subject expertise completed tasks and used the tools more easily than less experienced participants
 description: Participants with higher subject expertise completed tasks and used the tools more easily than less experienced participants
 id: nev-expertise-eases-task-completion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

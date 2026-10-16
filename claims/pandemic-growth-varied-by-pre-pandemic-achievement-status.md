@@ -3,7 +3,7 @@ type: claim
 title: "Pandemic-period growth varied by pre-pandemic achievement status: higher achievers' gains were more consistent with projected normative growth while lower achievers more often fell short"
 description: "Pandemic-period growth varied by pre-pandemic achievement status: higher achievers' gains were more consistent with projected normative growth while lower achievers more often fell short"
 id: pandemic-growth-varied-by-pre-pandemic-achievement-status
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

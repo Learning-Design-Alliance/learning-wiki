@@ -3,7 +3,7 @@ type: claim
 title: After training, d.tech teachers adopted low-stakes practice tests and spaced, interleaved practice in their classrooms
 description: After training, d.tech teachers adopted low-stakes practice tests and spaced, interleaved practice in their classrooms
 id: dtech-teachers-adopt-retrieval-interleaving
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

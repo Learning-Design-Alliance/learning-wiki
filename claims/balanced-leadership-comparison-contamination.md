@@ -3,7 +3,7 @@ type: claim
 title: Comparison-group contamination occurred in the Balanced Leadership® trial
 description: Comparison-group contamination occurred in the Balanced Leadership® trial
 id: balanced-leadership-comparison-contamination
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

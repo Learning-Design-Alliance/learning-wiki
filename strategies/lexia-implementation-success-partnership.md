@@ -3,7 +3,7 @@ type: strategy
 id: lexia-implementation-success-partnership
 title: Implementation Success Partnership with check-ins and training events for all staff
 description: "The Lexia Implementation Success Partnership (ISP) is an implementation support model in which Lexia’s customer success team \"held check-ins with school and district leaders, as well as Core5-specific training events..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: design
 id: llm-chrome-extension-gradescope-feedback-drafts
 title: LLM-backed Chrome extension surfacing AI feedback drafts within Gradescope
 description: A lightweight, LLM-backed Chrome extension integrated into the Gradescope grading platform, powered by o4-mini (selected via Bradley-Terry analysis of TA rankings).
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10
@@ -47,4 +47,4 @@ A lightweight, LLM-backed Chrome extension integrated into the Gradescope gradin
 -
 
 ## Key Sources
-- Mahinpei, R., Dean, V., Fong, R., Liu, L. T., & Ribeiro, M. H. (2026). AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education. arXiv. https://arxiv.org/abs/2606.03095
+- Mahinpei, R., Dean, V., Fong, R., Liu, L. T., & Ribeiro, M. H. (2026). AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education. arXiv. https://arxiv.org/abs/2606.03095. [doi:10.48550/arxiv.2606.03095](https://doi.org/10.48550/arxiv.2606.03095)

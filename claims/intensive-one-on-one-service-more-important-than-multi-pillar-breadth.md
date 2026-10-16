@@ -3,7 +3,7 @@ type: claim
 title: Receiving an intensive, one-on-one service may matter more than receiving services across multiple pillars
 description: Receiving an intensive, one-on-one service may matter more than receiving services across multiple pillars
 id: intensive-one-on-one-service-more-important-than-multi-pillar-breadth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

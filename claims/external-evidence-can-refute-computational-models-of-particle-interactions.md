@@ -2,7 +2,7 @@
 type: claim
 title: External empirical evidence can refute a computational model of particle interactions when the model's own simulation cannot
 id: external-evidence-can-refute-computational-models-of-particle-interactions
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

@@ -3,7 +3,7 @@ type: claim
 title: Exploratory factor analysis was used more often than confirmatory factor analysis in Turkish IRT-based scale development studies
 description: Exploratory factor analysis was used more often than confirmatory factor analysis in Turkish IRT-based scale development studies
 id: efa-more-than-cfa-irt-scale-studies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

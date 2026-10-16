@@ -3,7 +3,7 @@ type: claim
 title: Emotion regulation partially mediates the negative association between AI anxiety and academic motivation
 description: Emotion regulation partially mediates the negative association between AI anxiety and academic motivation
 id: emotion-regulation-partially-mediates-ai-anxiety-motivation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

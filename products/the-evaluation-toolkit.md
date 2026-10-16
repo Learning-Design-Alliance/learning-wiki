@@ -4,7 +4,7 @@ id: the-evaluation-toolkit
 title: The Evaluation Toolkit
 description: A Benton Foundation and EDC Center for Children and Technology toolkit of instruments that helps teachers assess technology-rich learning activities, student skill development, learning, and media literacy.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

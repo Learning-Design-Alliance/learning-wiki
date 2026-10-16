@@ -3,7 +3,7 @@ type: claim
 title: Most children and parents preferred gaze-based assistance over the LLM baseline
 description: Most children and parents preferred gaze-based assistance over the LLM baseline
 id: children-parents-preferred-gaze-assistance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

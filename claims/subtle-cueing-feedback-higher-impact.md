@@ -3,7 +3,7 @@ type: claim
 title: Subtle indirect cueing feedback tends to have higher impacts on learning outcomes than other forms of feedback, per research the review cites
 description: Subtle indirect cueing feedback tends to have higher impacts on learning outcomes than other forms of feedback, per research the review cites
 id: subtle-cueing-feedback-higher-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Over 70% of operational SSSCs are situated within larger state agencies and are funded mainly through state appropriations and federal or state grants"
 description: "Over 70% of operational SSSCs are situated within larger state agencies and are funded mainly through state appropriations and federal or state grants"
 id: ssscs-housed-in-state-agencies-state-federal-funding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

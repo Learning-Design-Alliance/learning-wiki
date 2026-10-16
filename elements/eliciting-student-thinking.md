@@ -76,7 +76,7 @@ Eliciting thinking converts passive reception into generative processing; verbal
 - **Cognitively Guided Instruction** (Carpenter et al., University of Wisconsin) — teachers present a story problem, elicit children's own solution strategies before teaching procedures, and classify strategies to plan next instruction. [https://www.wcer.wisc.edu/cgi](https://www.wcer.wisc.edu/cgi)
 - **Peer Instruction** (Eric Mazur, Harvard) — students commit to an answer via clickers, then convince a neighbor before revoting; the peer discussion phase elicits and tests reasoning. [https://peerinstruction4cs.org](https://peerinstruction4cs.org)
 - **Accountable Talk** (Institute for Learning, University of Pittsburgh) — discourse routines with prompts ("Do you agree? How do you know?") that press students to articulate and justify reasoning. [https://ifl.pitt.edu](https://ifl.pitt.edu)
-- **Think-Pair-Share** — a minimal elicitation structure: individual thinking, rehearsal with a partner, then public sharing; lowers the risk of public elicitation for anxious students.
+- **[Think-Pair-Share](../patterns/think-pair-share.md)** — a minimal elicitation structure: individual thinking, rehearsal with a partner, then public sharing; lowers the risk of public elicitation for anxious students.
 - [Have learners bring their own thinking before using generative AI to enable productive struggle](../strategies/own-thinking-before-generative-ai-productive-struggle.md)
 
 ## Key Sources

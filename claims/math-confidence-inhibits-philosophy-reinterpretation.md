@@ -3,7 +3,7 @@ type: claim
 title: "A preservice teacher's self-perceived confidence and success with traditional mathematics inhibited reinterpreting his understanding of mathematics"
 description: "A preservice teacher's self-perceived confidence and success with traditional mathematics inhibited reinterpreting his understanding of mathematics"
 id: math-confidence-inhibits-philosophy-reinterpretation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

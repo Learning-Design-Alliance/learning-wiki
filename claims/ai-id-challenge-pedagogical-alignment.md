@@ -3,7 +3,7 @@ type: claim
 title: "The most critical challenge in integrating AI into instructional design is pedagogical alignment (14 of 28 studies, 50.0%)"
 description: "The most critical challenge in integrating AI into instructional design is pedagogical alignment (14 of 28 studies, 50.0%)"
 id: ai-id-challenge-pedagogical-alignment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

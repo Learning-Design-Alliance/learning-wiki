@@ -3,7 +3,7 @@ type: claim
 title: Some LLMs exhibit a selection bias against selecting option D on multiple-choice pedagogy questions
 description: Some LLMs exhibit a selection bias against selecting option D on multiple-choice pedagogy questions
 id: llm-selection-bias-against-option-d
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

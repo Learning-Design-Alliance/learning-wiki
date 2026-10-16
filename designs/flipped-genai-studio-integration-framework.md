@@ -3,7 +3,7 @@ type: design
 id: flipped-genai-studio-integration-framework
 title: Integrated framework assigning complementary roles to flipped preparation, exemplar calibration, GenAI exploration, and studio refinement
 description: The article proposes a pedagogical framework that connects flipped preparation, exemplar reference, GenAI-assisted visual exploration, and studio-based refinement in a practice-based design course.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "The center-based early educator workforce is more racially and ethnically diverse than the TK–12 workforce, with 66% identifying as people of color versus 39%"
 description: "The center-based early educator workforce is more racially and ethnically diverse than the TK–12 workforce, with 66% identifying as people of color versus 39%"
 id: ece-workforce-more-diverse-than-tk12
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

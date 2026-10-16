@@ -3,7 +3,7 @@ type: claim
 title: "The United States faces a cybersecurity workforce shortage, with information security analyst positions projected to grow 33% from 2023 to 2033"
 description: "The United States faces a cybersecurity workforce shortage, with information security analyst positions projected to grow 33% from 2023 to 2033"
 id: cybersecurity-analyst-jobs-projected-grow-33-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

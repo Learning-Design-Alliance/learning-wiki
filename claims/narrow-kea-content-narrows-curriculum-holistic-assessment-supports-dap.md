@@ -3,7 +3,7 @@ type: claim
 title: Narrow, skills-only KEAs can narrow the kindergarten curriculum and foster inappropriate teaching, while holistic observational assessment can drive developmentally appropriate practice
 description: Narrow, skills-only KEAs can narrow the kindergarten curriculum and foster inappropriate teaching, while holistic observational assessment can drive developmentally appropriate practice
 id: narrow-kea-content-narrows-curriculum-holistic-assessment-supports-dap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

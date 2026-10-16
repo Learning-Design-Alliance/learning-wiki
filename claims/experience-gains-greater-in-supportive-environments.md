@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' effectiveness increases at a greater rate in supportive, collegial working environments and when they accumulate experience in the same grade level, subject, or district"
 description: "Teachers' effectiveness increases at a greater rate in supportive, collegial working environments and when they accumulate experience in the same grade level, subject, or district"
 id: experience-gains-greater-in-supportive-environments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

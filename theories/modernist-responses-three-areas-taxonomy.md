@@ -2,7 +2,7 @@
 type: theory
 title: "Modernist responses to the postmodern challenge form three broad areas: orthodox, critical pedagogy, and performativity texts"
 description: On the right side of the debate field, the paper patterns modernist responses into three genres.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

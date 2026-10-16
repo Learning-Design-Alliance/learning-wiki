@@ -3,7 +3,7 @@ type: claim
 title: Incidental vocabulary learning anxiety positively predicts L2 incidental vocabulary acquisition through reading
 description: Incidental vocabulary learning anxiety positively predicts L2 incidental vocabulary acquisition through reading
 id: incidental-vocabulary-anxiety-positive-predictor
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: strategy
 id: design-for-productive-recruitment-of-external-resources
 title: Design professional development, curricular tools, and analytic frameworks to support productive recruitment of external conceptual resources
 description: "The authors argue there is practical value in analyzing how teachers recruit external conceptual resources: \"understanding how teachers recruit these resources in their sensemaking can illuminate productive ways to de..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -42,4 +42,4 @@ The authors argue there is practical value in analyzing how teachers recruit ext
 -
 
 ## Key Sources
-- Ehrenfeld, N., McGugan, K. S., Marshall, S. A., & Garner, B. (2020). Reconciling local contexts and external conceptual resources in mathematics teachers' collaborative sensemaking. In Mathematics Education Across Cultures: Proceedings of the 42nd Meeting of the North American Chapter of PME-NA.
+- Ehrenfeld, N., McGugan, K. S., Marshall, S. A., & Garner, B. (2020). Reconciling local contexts and external conceptual resources in mathematics teachers' collaborative sensemaking. In Mathematics Education Across Cultures: Proceedings of the 42nd Meeting of the North American Chapter of PME-NA. [doi:10.51272/pmena.42.2020-295](https://doi.org/10.51272/pmena.42.2020-295)

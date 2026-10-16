@@ -3,7 +3,7 @@ type: element
 id: dual-coding-elucidation-booklets-lexical-pairs
 title: Dual coding elucidation booklets for confusing lexical item pairs
 description: "Instructional booklets presenting 25 pairs of commonly confused lexical items drawn from Hancock's Is That What You Mean?, mostly high-frequency words (90% among the 2,000 most frequent items)."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

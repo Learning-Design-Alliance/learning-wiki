@@ -3,7 +3,7 @@ type: element
 id: pat-lk-preschool-early-literacy-practice
 title: Phonological Awareness Training plus Letter Knowledge Training practice for preschool early literacy
 description: "A general early childhood practice combining phonological awareness training (activities teaching children to \"identify, detect, delete, segment, or blend segments of spoken words\") with letter knowledge training that..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

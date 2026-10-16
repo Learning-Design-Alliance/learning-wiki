@@ -2,7 +2,7 @@
 type: theory
 title: "Three powerful ways of using computers that integrate with academic subject matter: data work, automation, and modeling systems"
 description: "The report organizes computational thinking integration around three uses of computers that align with goals for students: collecting, analyzing, and communicating data; automating procedures and processes; and using..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Low-level feedback automation is appropriate only for sentence-level clarity; argumentative unclarity should trigger human review
 description: Low-level feedback automation is appropriate only for sentence-level clarity; argumentative unclarity should trigger human review
 id: sentence-level-clarity-automation-argumentative-human-review
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

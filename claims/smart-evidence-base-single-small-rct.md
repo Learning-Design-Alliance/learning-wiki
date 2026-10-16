@@ -3,7 +3,7 @@ type: claim
 title: The evidence base for SMART® is a single small-extent RCT, capping the intervention rating at potentially positive effects
 description: The evidence base for SMART® is a single small-extent RCT, capping the intervention rating at potentially positive effects
 id: smart-evidence-base-single-small-rct
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

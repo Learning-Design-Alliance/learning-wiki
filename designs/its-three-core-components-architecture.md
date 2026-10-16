@@ -3,7 +3,7 @@ type: design
 id: its-three-core-components-architecture
 title: Intelligent tutoring systems as three-model architectures operationalizing formative assessment
 description: "The article describes ITS as autonomous technologies that continuously assess learners' progress through formative assessment and deliver tailored instructional support."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

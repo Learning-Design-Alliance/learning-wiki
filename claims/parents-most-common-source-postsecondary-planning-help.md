@@ -3,7 +3,7 @@ type: claim
 title: "Parents are the most common source of help for seniors' postsecondary planning, cited more often than teachers or counselors"
 description: "Parents are the most common source of help for seniors' postsecondary planning, cited more often than teachers or counselors"
 id: parents-most-common-source-postsecondary-planning-help
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

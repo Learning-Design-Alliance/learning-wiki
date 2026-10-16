@@ -3,7 +3,7 @@ type: claim
 title: Chicago White students score as well as or better than rest-of-state White peers in reading, and about the same in math
 description: Chicago White students score as well as or better than rest-of-state White peers in reading, and about the same in math
 id: white-cps-students-match-or-beat-statewide-peers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

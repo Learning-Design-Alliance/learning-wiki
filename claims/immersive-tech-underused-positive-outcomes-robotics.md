@@ -3,7 +3,7 @@ type: claim
 title: Immersive technologies are rarely adopted in robotics GBL/gamification but studies using them report heightened engagement, improved spatial reasoning, and enhanced perceived realism
 description: Immersive technologies are rarely adopted in robotics GBL/gamification but studies using them report heightened engagement, improved spatial reasoning, and enhanced perceived realism
 id: immersive-tech-underused-positive-outcomes-robotics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

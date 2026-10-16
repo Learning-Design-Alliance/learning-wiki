@@ -3,7 +3,7 @@ type: strategy
 id: compare-critique-ai-generated-code-exercises
 title: Use structured exercises requiring students to compare, critique, and justify against AI-generated code
 description: A concrete integration recipe in which instructors design ChatGPT-supported activities that keep students in an evaluative, reasoning role rather than a consumption role.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Structure and layout of the exam pages strongly contribute to the success of the multimodal grading method and, for now, appear to be required
 description: Structure and layout of the exam pages strongly contribute to the success of the multimodal grading method and, for now, appear to be required
 id: structure-and-layout-required-for-ai-grading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

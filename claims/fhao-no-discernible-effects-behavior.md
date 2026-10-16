@@ -3,7 +3,7 @@ type: claim
 title: Facing History and Ourselves shows no discernible effects on student behavior, with self-reported fighting differences neither statistically significant nor substantively important
 description: Facing History and Ourselves shows no discernible effects on student behavior, with self-reported fighting differences neither statistically significant nor substantively important
 id: fhao-no-discernible-effects-behavior
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

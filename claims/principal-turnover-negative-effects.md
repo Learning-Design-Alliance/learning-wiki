@@ -3,7 +3,7 @@ type: claim
 title: Principal turnover often has negative effects on student achievement, teacher retention, and school culture unless a much more effective principal replaces the prior one
 description: Principal turnover often has negative effects on student achievement, teacher retention, and school culture unless a much more effective principal replaces the prior one
 id: principal-turnover-negative-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ id: healthy-harlem
 title: Healthy Harlem
 description: "Healthy Harlem is a school-based health and wellness programme whose Get Fit and Prevention components promote students' physical fitness, nutrition knowledge, and physical-activity self-efficacy."
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

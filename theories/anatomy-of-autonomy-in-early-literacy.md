@@ -2,7 +2,7 @@
 type: theory
 title: An anatomy of autonomy in early literacy learning distinguishing autonomy of outcome from autonomy in the learning process
 description: The paper proposes a taxonomy of autonomy in early literacy with two main axes.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

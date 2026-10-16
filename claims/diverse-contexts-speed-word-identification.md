@@ -3,7 +3,7 @@ type: claim
 title: Words encountered in diverse contexts are identified faster, with a mean 26-ms advantage
 description: Words encountered in diverse contexts are identified faster, with a mean 26-ms advantage
 id: diverse-contexts-speed-word-identification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

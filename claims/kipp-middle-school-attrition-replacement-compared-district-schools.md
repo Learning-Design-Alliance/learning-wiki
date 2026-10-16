@@ -3,7 +3,7 @@ type: claim
 title: "KIPP middle schools' student attrition and replacement rates can be compared with those of nearby district-run schools using longitudinal student-level data."
 description: "KIPP middle schools' student attrition and replacement rates can be compared with those of nearby district-run schools using longitudinal student-level data."
 id: kipp-middle-school-attrition-replacement-compared-district-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

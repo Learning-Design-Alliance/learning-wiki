@@ -3,7 +3,7 @@ type: claim
 title: In math, meeting the PARCC college-readiness standard predicts higher college performance than meeting the MCAS proficiency standard
 description: In math, meeting the PARCC college-readiness standard predicts higher college performance than meeting the MCAS proficiency standard
 id: parcc-math-standard-higher-college-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

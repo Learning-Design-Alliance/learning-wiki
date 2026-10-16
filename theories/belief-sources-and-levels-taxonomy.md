@@ -2,7 +2,7 @@
 type: theory
 title: "Belief structure: sources, levels (zero-order, first-order, higher order), and the belief-value-attitude distinction"
 description: "Drawing on Daryl Bem, Apps describes the nature of beliefs: they come from two sources—experience and authority—and are held at levels."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

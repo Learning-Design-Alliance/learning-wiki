@@ -3,7 +3,7 @@ type: claim
 title: One-to-one human tutoring lifts an ordinary student well beyond the average classroom with an effect of about d = 0.79 (VanLehn, 2011, as reported)
 description: One-to-one human tutoring lifts an ordinary student well beyond the average classroom with an effect of about d = 0.79 (VanLehn, 2011, as reported)
 id: human-tutoring-effect-d-079
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

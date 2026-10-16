@@ -3,7 +3,7 @@ type: claim
 title: Connecting CT education to real community opportunities is powerful for teachers and students
 description: Connecting CT education to real community opportunities is powerful for teachers and students
 id: connect-ct-to-community-opportunities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

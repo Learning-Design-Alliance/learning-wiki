@@ -3,7 +3,7 @@ type: claim
 title: LLM-generated difficulty ratings show only moderate rank alignment with empirical student performance on basic arithmetic items
 description: LLM-generated difficulty ratings show only moderate rank alignment with empirical student performance on basic arithmetic items
 id: llm-difficulty-moderate-rank-alignment-arithmetic
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: design
 id: interleaved-individual-team-assignment-design
 title: Interleave individual and team assignments to help students maintain AI practices across both contexts
 description: "The article's course design interleaved individual homework and team milestones in close temporal proximity, and the authors argue this \"provides a natural scaffold that purely sequential designs lack.\" The rapid reco..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

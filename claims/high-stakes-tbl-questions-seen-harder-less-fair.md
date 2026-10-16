@@ -3,7 +3,7 @@ type: claim
 title: Medical students in the high-stakes TBL format perceive questions as more difficult and less fair than dental students in the revised format
 description: Medical students in the high-stakes TBL format perceive questions as more difficult and less fair than dental students in the revised format
 id: high-stakes-tbl-questions-seen-harder-less-fair
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

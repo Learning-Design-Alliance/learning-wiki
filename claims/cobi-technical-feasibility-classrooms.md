@@ -3,7 +3,7 @@ type: claim
 title: "CoBi's speech-based pipeline is technically feasible in noisy middle school classrooms, with visualizations updating in 10-second intervals"
 description: "CoBi's speech-based pipeline is technically feasible in noisy middle school classrooms, with visualizations updating in 10-second intervals"
 id: cobi-technical-feasibility-classrooms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

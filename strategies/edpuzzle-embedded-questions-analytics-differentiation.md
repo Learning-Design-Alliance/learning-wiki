@@ -3,7 +3,7 @@ type: strategy
 id: edpuzzle-embedded-questions-analytics-differentiation
 title: "Use Edpuzzle's embedded questions, analytics, and LMS integration to support differentiation"
 description: "The article recommends using Edpuzzle's customization and data features to personalize instruction: teachers place multiple-choice or open-ended questions and audio notes at precise moments, track viewing habits and s..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

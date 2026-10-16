@@ -3,7 +3,7 @@ type: claim
 title: Community-based work programs show potentially positive effects on postsecondary education outcomes for students with disabilities
 description: Community-based work programs show potentially positive effects on postsecondary education outcomes for students with disabilities
 id: community-based-work-programs-postsecondary-potentially-positive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

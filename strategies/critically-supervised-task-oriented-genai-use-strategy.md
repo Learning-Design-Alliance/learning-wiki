@@ -3,7 +3,7 @@ type: strategy
 id: critically-supervised-task-oriented-genai-use-strategy
 title: Graduate AI literacy training should promote purposeful, task-oriented, critically supervised GenAI use rather than targeting overall use levels
 description: "The article's practical implications recommend that universities avoid treating GenAI dependence as uniformly desirable or undesirable and instead \"promot[e] purposeful, task-oriented, and critically supervised use.\"..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

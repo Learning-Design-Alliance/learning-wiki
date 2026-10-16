@@ -3,7 +3,7 @@ type: strategy
 id: motivation-supportive-genai-integration-higher-education
 title: Implement GenAI in higher education in ways that support autonomy, competence, relatedness, and value to sustain motivation and engagement
 description: "The article's practical implication is that educators, instructional designers, and policymakers should implement Generative AI technologies so as to enhance meaningful learning experiences and sustainable engagement."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

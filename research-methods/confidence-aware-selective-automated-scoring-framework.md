@@ -3,7 +3,7 @@ type: research-method
 id: confidence-aware-selective-automated-scoring-framework
 title: Confidence-aware selective automated scoring framework
 description: The framework adapts a pretrained ViT with LoRA and derives a response-level confidence score from the stability of predictions under semantic-preserving test-time perturbations (crops, rotations).
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10
@@ -29,4 +29,4 @@ The framework adapts a pretrained ViT with LoRA and derives a response-level con
 -
 
 ## Key Sources
-- Fang, L., Zhang, Y., Park, J., Wang, Z., Ma, P., Zhai, X. (2026). Confidence-Aware Automated Assessment of Student-Drawn Scientific Models. https://arxiv.org/abs/2606.20264
+- Fang, L., Zhang, Y., Park, J., Wang, Z., Ma, P., Zhai, X. (2026). Confidence-Aware Automated Assessment of Student-Drawn Scientific Models. https://arxiv.org/abs/2606.20264. [doi:10.48550/arxiv.2606.20264](https://doi.org/10.48550/arxiv.2606.20264)

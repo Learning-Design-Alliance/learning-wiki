@@ -4,7 +4,7 @@ id: kentucky-academic-standards-for-computer-science
 title: Kentucky Academic Standards for Computer Science
 description: "A framework issued by the Kentucky Department of Education that defines K–8 computer-science learning standards, including Data & Analysis and Impacts of Computing strands."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: After New Jersey reduced the passing thresholds for two exams, first-attempt passing rates were similar across the three HSE exams
 description: After New Jersey reduced the passing thresholds for two exams, first-attempt passing rates were similar across the three HSE exams
 id: nj-reduced-thresholds-equalized-first-attempt-passing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

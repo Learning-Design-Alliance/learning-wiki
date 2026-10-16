@@ -3,7 +3,7 @@ type: strategy
 id: restorative-educative-behavior-supports-gateway
 title: Use educative and restorative behavior supports rather than punitive and exclusionary discipline
 description: "Gateway's approach to behavior is restorative rather than punitive."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

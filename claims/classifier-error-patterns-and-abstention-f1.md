@@ -3,7 +3,7 @@ type: claim
 title: Classifier errors cluster into three interpretable patterns, and the unknown abstention class is well classified (F1 = 0.93), reliably filtering off-topic chat
 description: Classifier errors cluster into three interpretable patterns, and the unknown abstention class is well classified (F1 = 0.93), reliably filtering off-topic chat
 id: classifier-error-patterns-and-abstention-f1
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

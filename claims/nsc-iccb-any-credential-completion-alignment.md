@@ -3,7 +3,7 @@ type: claim
 title: NSC and ICCB data agree on any-credential completion within four years for 96 percent of immediate two-year enrollees
 description: NSC and ICCB data agree on any-credential completion within four years for 96 percent of immediate two-year enrollees
 id: nsc-iccb-any-credential-completion-alignment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

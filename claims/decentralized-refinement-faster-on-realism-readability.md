@@ -3,7 +3,7 @@ type: claim
 title: Decentralized Refinement reduces realism and readability failures faster than both Centralized strategies
 description: Decentralized Refinement reduces realism and readability failures faster than both Centralized strategies
 id: decentralized-refinement-faster-on-realism-readability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

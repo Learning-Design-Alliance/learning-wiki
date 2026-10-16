@@ -4,7 +4,7 @@ id: alternative-uses-test-response-dataset-of-over-20000-responses-from-more-tha
 title: Alternative Uses Test response dataset of over 20,000 responses from more than 2,000 participants
 description: An open dataset of more than 20,000 Alternative Uses Test responses from over 2,000 adult participants, with study materials and analysis code released through the OSF repository by Organisciak et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

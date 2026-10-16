@@ -4,7 +4,7 @@ id: parentpowered-ready4k
 title: "ParentPowered READY4K!"
 description: "ParentPowered READY4K!"
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

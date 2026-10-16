@@ -3,7 +3,7 @@ type: claim
 title: Under the fixed protocol, hosted LLMs produce the largest gain on Spanish thematic classification, with thematic macro F1 rising from 0.46 (TF-IDF) to roughly 0.82-0.86 for the two hosted LLMs
 description: Under the fixed protocol, hosted LLMs produce the largest gain on Spanish thematic classification, with thematic macro F1 rising from 0.46 (TF-IDF) to roughly 0.82-0.86 for the two hosted LLMs
 id: llms-largest-gain-spanish-thematic-macro-f1
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

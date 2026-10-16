@@ -3,7 +3,7 @@ type: element
 id: ejs-1d-collision-carts-simulation
 title: Easy Java Simulation one-dimensional collision carts virtual laboratory model
 description: An Easy Java Simulation (EJS) computer model of idealized one-dimensional collision carts, built on Open Source Physics community code and released as a virtual laboratory with a world view and bottom control panel fo...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

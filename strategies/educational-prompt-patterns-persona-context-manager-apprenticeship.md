@@ -3,7 +3,7 @@ type: strategy
 id: educational-prompt-patterns-persona-context-manager-apprenticeship
 title: Revise educational SLM system prompts using the Persona and Context Manager patterns plus cognitive-apprenticeship scaffolding guidelines
 description: The revised prompt combined the Persona pattern (defining a consistent tutoring role with specific responsibilities) and the Context Manager pattern (explicitly scoping what the model should and should not address), w...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

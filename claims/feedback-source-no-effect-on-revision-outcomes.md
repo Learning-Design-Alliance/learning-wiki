@@ -3,7 +3,7 @@ type: claim
 title: Feedback source does not significantly affect revised essay quality once initial draft quality is controlled
 description: Feedback source does not significantly affect revised essay quality once initial draft quality is controlled
 id: feedback-source-no-effect-on-revision-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -66,3 +66,4 @@ In the same ANCOVA, initial essay quality was a significant covariate, F(1, 64) 
 - [In one study, feedback quality significantly predicts revised essay quality under teacher feedback but not under either GenAI feedback condition, though the conditions are not compared directly](feedback-quality-predicts-revision-only-in-teacher-condition.md) — related
 - [GenAI feedback quality correlates with initial essay quality while teacher feedback quality does not](genai-feedback-quality-tracks-initial-essay-quality.md) — related
 - [Revising the feedback prompt toward essay-grounded guidance increased feedback specificity odds](prompt-revision-increased-feedback-specificity.md) — related
+- [Students' initial knowledge level (midterm scores) did not significantly influence improvement in lab scores, indicating it did not confound the feedback-source difference](midterm-knowledge-did-not-confound-feedback-use.md) — related

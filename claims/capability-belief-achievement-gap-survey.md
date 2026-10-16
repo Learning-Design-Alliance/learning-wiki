@@ -3,7 +3,7 @@ type: claim
 title: Large majorities believe most students are capable of high achievement, but only 19 to 29 percent say most students currently reach high levels, producing gaps of 46 to 61 points
 description: Large majorities believe most students are capable of high achievement, but only 19 to 29 percent say most students currently reach high levels, producing gaps of 46 to 61 points
 id: capability-belief-achievement-gap-survey
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

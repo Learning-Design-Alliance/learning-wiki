@@ -3,7 +3,7 @@ type: design
 id: elderly-refugee-programs-beyond-language-learning
 title: Successful elderly-refugee language programs incorporate more than just language learning
 description: "The digest reports that language learning programs specifically for elderly refugees \"have been sparse\" and that \"Those that incorporate more than just language learning seem to be the most successful.\" Its examples p..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

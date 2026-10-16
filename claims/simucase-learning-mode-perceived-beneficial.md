@@ -3,7 +3,7 @@ type: claim
 title: Graduate SLP students perceive the learning mode of computer-based simulation as highly beneficial because it allows unlimited attempts without grade penalty
 description: Graduate SLP students perceive the learning mode of computer-based simulation as highly beneficial because it allows unlimited attempts without grade penalty
 id: simucase-learning-mode-perceived-beneficial
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

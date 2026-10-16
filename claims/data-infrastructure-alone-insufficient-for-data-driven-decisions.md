@@ -3,7 +3,7 @@ type: claim
 title: Data infrastructure, accessible data, and a culture of data use are necessary but not sufficient for data-driven decision making in education agencies
 description: Data infrastructure, accessible data, and a culture of data use are necessary but not sufficient for data-driven decision making in education agencies
 id: data-infrastructure-alone-insufficient-for-data-driven-decisions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

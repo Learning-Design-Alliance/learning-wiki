@@ -3,7 +3,7 @@ type: claim
 title: GenAI used on mobile devices shows a larger motivational effect than GenAI used on computers (exploratory)
 description: GenAI used on mobile devices shows a larger motivational effect than GenAI used on computers (exploratory)
 id: genai-motivation-effect-larger-mobile-devices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

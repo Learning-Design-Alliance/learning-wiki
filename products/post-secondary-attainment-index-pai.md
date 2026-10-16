@@ -5,7 +5,7 @@ aliases: [post-secondary-attainment-index]
 title: Post-secondary Attainment Index (PAI)
 description: "The University of Chicago Consortium on School Research's Post-secondary Attainment Index is a district-level indicator combining high-school graduation, college enrollment, and college-completion rates to estimate post-secondary attainment for CPS students."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

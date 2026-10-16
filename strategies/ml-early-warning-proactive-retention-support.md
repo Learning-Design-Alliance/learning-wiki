@@ -3,7 +3,7 @@ type: strategy
 id: ml-early-warning-proactive-retention-support
 title: Deploy ML-based early-warning prediction to shift retention support from reactive to proactive intervention
 description: The article recommends that institutions use machine learning predictions of withdrawal risk to trigger timely, personalized support (academic guidance, financial assistance, mentorship) before students leave.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

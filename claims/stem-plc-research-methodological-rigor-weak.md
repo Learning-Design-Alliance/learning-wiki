@@ -3,7 +3,7 @@ type: claim
 title: Existing STEM PLC research is methodologically weak by Standards of Evidence review, with no studies rated adequate, but collectively builds a supportive case for valued PLC effects
 description: Existing STEM PLC research is methodologically weak by Standards of Evidence review, with no studies rated adequate, but collectively builds a supportive case for valued PLC effects
 id: stem-plc-research-methodological-rigor-weak
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

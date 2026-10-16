@@ -3,7 +3,7 @@ type: claim
 title: The effect of deployment on mental health outcomes does not differ by branch of service or duty/enlistment status
 description: The effect of deployment on mental health outcomes does not differ by branch of service or duty/enlistment status
 id: deployment-effect-no-difference-branch-duty-status
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

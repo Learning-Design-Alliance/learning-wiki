@@ -3,7 +3,7 @@ type: claim
 title: "Achievement of the lowest-growth schools varies dramatically, and fall achievement accounts for about 80% of spring achievement versus 14% for growth"
 description: "Achievement of the lowest-growth schools varies dramatically, and fall achievement accounts for about 80% of spring achievement versus 14% for growth"
 id: low-growth-schools-achievement-varies-growth-achievement-correlation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

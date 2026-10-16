@@ -3,7 +3,7 @@ type: claim
 title: "MI Write's automated feedback is most useful to students when it supplements, not replaces, teacher feedback"
 description: "MI Write's automated feedback is most useful to students when it supplements, not replaces, teacher feedback"
 id: automated-feedback-supplements-not-replaces-teacher-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

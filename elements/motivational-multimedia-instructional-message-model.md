@@ -3,7 +3,7 @@ type: element
 id: motivational-multimedia-instructional-message-model
 title: Model of the motivational and multimedia instructional message with six activity groups for lesson introductions
 description: "A model developed by Bistrovic (2017) and used in this study, in which the introductory 7-10 minutes of each lesson is delivered as a multimedia instructional and motivational message built from \"six groups of activit..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

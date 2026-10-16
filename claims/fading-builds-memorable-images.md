@@ -3,7 +3,7 @@ type: claim
 title: Concreteness fading enables learners to build a store of memorable images usable when abstract symbols lose meaning
 description: Concreteness fading enables learners to build a store of memorable images usable when abstract symbols lose meaning
 id: fading-builds-memorable-images
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

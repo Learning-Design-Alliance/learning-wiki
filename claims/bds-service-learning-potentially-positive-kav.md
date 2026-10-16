@@ -3,7 +3,7 @@ type: claim
 title: "Building Decision Skills combined with service learning has potentially positive effects on high school students' knowledge, attitudes, and values"
 description: "Building Decision Skills combined with service learning has potentially positive effects on high school students' knowledge, attitudes, and values"
 id: bds-service-learning-potentially-positive-kav
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

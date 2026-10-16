@@ -3,7 +3,7 @@ type: strategy
 id: behavioral-feedback-for-responses
 title: Behavioral Feedback for Correct and Incorrect Responses
 description: Behavioral science recommends confirming and briefly explaining correct responses, and correcting incorrect ones factually without scolding or dwelling on the mistake, since focusing attention on errors can inadvertently reinforce them.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

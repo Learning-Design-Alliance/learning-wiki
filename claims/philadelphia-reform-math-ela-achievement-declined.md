@@ -3,7 +3,7 @@ type: claim
 title: District math and English language arts achievement declined in Philadelphia following the discipline policy reform
 description: District math and English language arts achievement declined in Philadelphia following the discipline policy reform
 id: philadelphia-reform-math-ela-achievement-declined
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Explainability's effect on trust in AI-enabled systems is mixed: it can increase trust and reliance but also raises cognitive load, slows performance, and sometimes does not improve trust"
 description: "Explainability's effect on trust in AI-enabled systems is mixed: it can increase trust and reliance but also raises cognitive load, slows performance, and sometimes does not improve trust"
 id: explainability-mixed-effect-on-trust
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

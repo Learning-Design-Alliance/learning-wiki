@@ -3,7 +3,7 @@ type: claim
 title: The SMMR multi-expert framework significantly outperforms single-model methods on DAIC-WOZ and 48 psychiatric case studies, improving accuracy and F1-score and reducing PHQ-8 errors
 description: The SMMR multi-expert framework significantly outperforms single-model methods on DAIC-WOZ and 48 psychiatric case studies, improving accuracy and F1-score and reducing PHQ-8 errors
 id: smmr-outperforms-single-model
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

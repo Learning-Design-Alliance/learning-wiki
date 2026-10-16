@@ -3,7 +3,7 @@ type: claim
 title: Robotics systems skill levels do not differ between GBL and gamified studies
 description: Robotics systems skill levels do not differ between GBL and gamified studies
 id: robotics-systems-skill-levels-no-approach-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

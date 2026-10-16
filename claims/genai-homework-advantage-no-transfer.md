@@ -3,7 +3,7 @@ type: claim
 title: Students received significantly higher homework scores during GenAI-evaluation periods, but this advantage did not transfer to downstream exams
 description: Students received significantly higher homework scores during GenAI-evaluation periods, but this advantage did not transfer to downstream exams
 id: genai-homework-advantage-no-transfer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -67,3 +67,4 @@ Identical non-GenAI homework items also differed significantly across halves (r=
 - [Falsifiable hypothesis: unrestricted AI use on deep-processing tasks will produce a product–process dissociation—higher-rated assignments but lower unaided delayed transfer](h3-product-process-dissociation-hypothesis.md) — a broader claim this one bears on
 - [Most students reported no change in study habits, but students who adapted their study strategies rated GenAI-evaluation assignments as significantly more helpful](study-habit-adapters-rate-genai-grading-helpful.md) — related
 - [Unrestricted ChatGPT access yields better practice performance but significantly worse exam scores](gpt4-access-harms-learning-after-withdrawal.md) — related
+- [No significant group differences in knowledge gain or knowledge transfer despite ChatGPT's task-performance advantage](no-knowledge-gain-transfer-difference-genai.md) — related

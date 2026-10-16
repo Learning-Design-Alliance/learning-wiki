@@ -3,7 +3,7 @@ type: claim
 title: "Principals are essential to student achievement, with principals' effects almost as large as teachers' effects"
 description: "Principals are essential to student achievement, with principals' effects almost as large as teachers' effects"
 id: principals-essential-student-achievement-effects-near-teacher-size
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

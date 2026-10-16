@@ -3,7 +3,7 @@ type: claim
 title: "A collective generative AI relevance intervention significantly improved high school students' relevance as identification with math immediately after the intervention compared with a control group"
 description: "A collective generative AI relevance intervention significantly improved high school students' relevance as identification with math immediately after the intervention compared with a control group"
 id: collective-ai-intervention-improves-relevance-identification-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
@@ -18,8 +18,8 @@ sources:
     kind: causal
     rigour: 1
   - id: guo-2025-2
-    resource: "https://www.google.com/search?q=%22Utilizing+generative+AI+to+promote+high+school+students%27+personal+relevance+to+math+and+interest+in+the+math+class%22"
-    title: "Guo, Z., Fryer, L. K., & Shum, A. (2025). Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention. https://www.google.com/search?q=%22Utilizing+generative+AI+to+promote+high+school+students%27+personal+relevance+to+math+and+interest+in+the+math+class%22"
+    resource: "https://doi.org/10.31234/osf.io/srxga_v1"
+    title: "Guo, Z., Fryer, L. K., & Shum, A. (2025). Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention. https://www.google.com/search?q=%22Utilizing+generative+AI+to+promote+high+school+students%27+personal+relevance+to+math+and+interest+in+the+math+class%22. [doi:10.31234/osf.io/srxga_v1](https://doi.org/10.31234/osf.io/srxga_v1)"
     author: "Guo, Z., Fryer, L. K., & Shum, A."
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # A collective generative AI relevance intervention significantly improved high school students' relevance as identification with math immediately after the intervention compared with a control group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1` · `q3` · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` The collective generative AI condition (E2) showed significantly higher post-intervention relevance as identification with math than the control group, with a medium effect size (η2 = 0.073). [→ Guo 2025](#guo-2025)
@@ -50,7 +50,7 @@ Quasi-experimental MANCOVA with 218 Chinese high school students in three intact
 
 ### Guo 2025 (2)
 
-Guo, Z., Fryer, L. K., & Shum, A. (2025). Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention. https://www.google.com/search?q=%22Utilizing+generative+AI+to+promote+high+school+students%27+personal+relevance+to+math+and+interest+in+the+math+class%22
+Guo, Z., Fryer, L. K., & Shum, A. (2025). Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention. https://www.google.com/search?q=%22Utilizing+generative+AI+to+promote+high+school+students%27+personal+relevance+to+math+and+interest+in+the+math+class%22. [doi:10.31234/osf.io/srxga_v1](https://doi.org/10.31234/osf.io/srxga_v1)
 
 `q3 · i?` · `causal · r1`
 

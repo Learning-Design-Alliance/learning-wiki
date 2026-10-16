@@ -3,7 +3,7 @@ type: claim
 title: Good attendance is more strongly related to academic gains for students who enter preschool with lower incoming skills than for those entering with higher skills
 description: Good attendance is more strongly related to academic gains for students who enter preschool with lower incoming skills than for those entering with higher skills
 id: attendance-benefits-strongest-low-incoming-skills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: On the immediate posttest of explicit L2 knowledge, direct CF and metalinguistic CF with rule explanations outperformed the control group while metalinguistic code CF did not.
 description: On the immediate posttest of explicit L2 knowledge, direct CF and metalinguistic CF with rule explanations outperformed the control group while metalinguistic code CF did not.
 id: cf-type-explicit-short-term-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
@@ -68,3 +68,4 @@ Factorial repeated measures ANOVA on error correction test scores with time and 
 - [Corrective feedback facilitates L2 grammatical development, with explicit feedback stronger immediately and implicit feedback better maintained over time](cf-facilitates-l2-grammar-explicit-implicit-durability.md) — related
 - [All four written CF types, including metalinguistic code CF, outperformed the control group on the delayed posttest of implicit L2 knowledge.](cf-type-implicit-long-term-benefits.md) — related
 - [High-information feedback has a very large effect (d = 0.99) while reinforcement/punishment has a low effect (d = 0.24)](feedback-most-effective-at-task-and-process-levels.md) — related
+- [Explicit instruction facilitates the acquisition of L2 grammar](explicit-instruction-facilitates-l2-grammar-acquisition.md) — related

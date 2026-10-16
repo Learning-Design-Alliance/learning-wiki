@@ -3,7 +3,7 @@ type: claim
 title: Developmental representations remain relatively stable across translated bilingual narratives
 description: Developmental representations remain relatively stable across translated bilingual narratives
 id: clara-bilingual-translation-consistency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

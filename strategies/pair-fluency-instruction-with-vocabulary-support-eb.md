@@ -3,7 +3,7 @@ type: strategy
 id: pair-fluency-instruction-with-vocabulary-support-eb
 title: Pair fluency instruction with oral language and vocabulary support before first reading of a new text
 description: "This strategy, drawn from the review's first recommendation, directs teachers to pair fluency instruction with oral language and vocabulary support, \"especially before first reading of a new text\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

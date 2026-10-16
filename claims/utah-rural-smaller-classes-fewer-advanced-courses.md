@@ -3,7 +3,7 @@ type: claim
 title: Rural Utah districts had smaller average class sizes and student-to-teacher ratios, but far fewer unique advanced courses per secondary school, than non-rural districts from 2012 to 2017
 description: Rural Utah districts had smaller average class sizes and student-to-teacher ratios, but far fewer unique advanced courses per secondary school, than non-rural districts from 2012 to 2017
 id: utah-rural-smaller-classes-fewer-advanced-courses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

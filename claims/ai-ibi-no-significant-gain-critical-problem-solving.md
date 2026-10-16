@@ -3,7 +3,7 @@ type: claim
 title: "AI-supported inquiry-based learning did not produce a statistically significant improvement in students' critical problem-solving skills"
 description: "AI-supported inquiry-based learning did not produce a statistically significant improvement in students' critical problem-solving skills"
 id: ai-ibi-no-significant-gain-critical-problem-solving
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -46,3 +46,4 @@ Null result from the same quasi-experimental comparison of AI-supported inquiry-
 - [The study's findings suggest AI-supported inquiry-based learning mainly supports creativity and affective development, with limited effect on problem-solving skills](ai-ibi-mainly-supports-creativity-and-affect.md) — related
 - [Intervention cohort scored significantly higher on creativity thinking, design skills, and problem solving, but not on presentation or attendance](rubric-dimension-gains-creativity-design-problem-solving.md) — related
 - [AI verification literacy does not directly predict critical thinking or technical problem-solving](ai-verification-literacy-no-direct-effect.md) — related
+- [GPT feedback in VR markedly improved problem-solving and critical thinking but had limited impact on creativity](gpt-feedback-hots-problem-solving-critical-thinking-limited-creativity.md) — reports the opposite

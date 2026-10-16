@@ -3,7 +3,7 @@ type: claim
 title: New and old fit statistics are moderately correlated, with Pearson coefficients mostly between 0.50 and 0.79
 description: New and old fit statistics are moderately correlated, with Pearson coefficients mostly between 0.50 and 0.79
 id: new-old-fit-statistics-moderately-correlated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

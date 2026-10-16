@@ -3,7 +3,7 @@ type: claim
 title: Students strongly prefer qualitative tree visualizations over quantitative radar charts of classroom collaboration
 description: Students strongly prefer qualitative tree visualizations over quantitative radar charts of classroom collaboration
 id: students-prefer-qualitative-tree-over-radar
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

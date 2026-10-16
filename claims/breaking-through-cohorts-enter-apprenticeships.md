@@ -3,7 +3,7 @@ type: claim
 title: Almost 10 percent of students from the first two cohorts of the CNMCC Breaking Through Construction Apprenticeship Program entered a formal apprenticeship
 description: Almost 10 percent of students from the first two cohorts of the CNMCC Breaking Through Construction Apprenticeship Program entered a formal apprenticeship
 id: breaking-through-cohorts-enter-apprenticeships
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Teachers systematically assign higher grades than all evaluated LLM grading models
 description: Teachers systematically assign higher grades than all evaluated LLM grading models
 id: teachers-grade-higher-than-all-llm-models
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

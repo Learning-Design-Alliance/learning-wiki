@@ -3,7 +3,7 @@ type: claim
 title: "HAL's text-based human-likeness advantage did not transfer to embodied audiovisual interaction, and measured 3E performance was virtually identical between models"
 description: "HAL's text-based human-likeness advantage did not transfer to embodied audiovisual interaction, and measured 3E performance was virtually identical between models"
 id: hal-human-likeness-did-not-transfer-embodied
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: design
 id: student-authored-texts-for-conceptual-change
 title: Student-Authored Texts for Conceptual Change
 description: "A literacy-instruction pattern in which students research a concept in voluntary groups, write individual interpretations, exchange and compare them with peers' texts and their prior knowledge, build collective concep..."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: "The evidence base for Read Naturally® with students with learning disabilities is small: one qualifying RCT of 20 students, with 42 of 43 reviewed studies excluded"
 description: "The evidence base for Read Naturally® with students with learning disabilities is small: one qualifying RCT of 20 students, with 42 of 43 reviewed studies excluded"
 id: read-naturally-small-evidence-base-learning-disabilities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

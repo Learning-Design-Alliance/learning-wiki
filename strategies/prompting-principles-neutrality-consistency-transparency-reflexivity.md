@@ -3,7 +3,7 @@ type: strategy
 id: prompting-principles-neutrality-consistency-transparency-reflexivity
 title: Establish prompting principles of neutrality, consistency, transparency, and reflexivity in oral assessment
 description: "The article recommends that assessors follow four guiding principles when prompting students during oral assessments, drawn from Pearce and Chiavaroli (2020): \"Neutrality: When educators prompt, they should aim to do..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Evidence-depth ratings in both records were concentrated at the awareness and strategic labels, with implicit and reflective evidence uncommon
 description: Evidence-depth ratings in both records were concentrated at the awareness and strategic labels, with implicit and reflective evidence uncommon
 id: evidence-depth-concentrated-awareness-strategic
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

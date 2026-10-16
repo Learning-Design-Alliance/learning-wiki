@@ -3,7 +3,7 @@ type: claim
 title: Comprehensive programs offering wraparound support increase college completion rates, including when replicated in other contexts
 description: Comprehensive programs offering wraparound support increase college completion rates, including when replicated in other contexts
 id: wraparound-support-increases-college-completion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

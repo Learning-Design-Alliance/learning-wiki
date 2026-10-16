@@ -3,7 +3,7 @@ type: claim
 title: After one year, reading and mathematics software products did not increase or decrease test scores by amounts statistically different from zero
 description: After one year, reading and mathematics software products did not increase or decrease test scores by amounts statistically different from zero
 id: edtech-software-null-average-test-score-effects-year-one
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

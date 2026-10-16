@@ -2,7 +2,7 @@
 type: theory
 title: "Martin and Reigeluth's six dimensions of affective development"
 description: "The article adopts Martin and Reigeluth's (1999) framework dividing the affective domain of learning into six dimensions."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

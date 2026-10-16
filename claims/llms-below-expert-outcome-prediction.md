@@ -3,7 +3,7 @@ type: claim
 title: Current LLMs fall short of human experts in predicting classroom intervention outcomes
 description: Current LLMs fall short of human experts in predicting classroom intervention outcomes
 id: llms-below-expert-outcome-prediction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

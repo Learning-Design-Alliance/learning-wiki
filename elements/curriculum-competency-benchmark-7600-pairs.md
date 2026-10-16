@@ -3,7 +3,7 @@ type: element
 id: curriculum-competency-benchmark-7600-pairs
 title: Benchmark dataset of 7,600 human-annotated curriculum-competency alignment scores
 description: A benchmark dataset produced by two graduate annotators in education who scored 200 course documents sampled from five curriculum document types (concise course description, detailed course description, learning objec...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

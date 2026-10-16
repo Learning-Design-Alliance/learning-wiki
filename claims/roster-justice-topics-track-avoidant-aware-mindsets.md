@@ -3,7 +3,7 @@ type: claim
 title: In Roster Justice, Avoidant-mindset participants described roster disparities in racially neutral terms while Aware-mindset participants named the racialized nature of the disparity
 description: In Roster Justice, Avoidant-mindset participants described roster disparities in racially neutral terms while Aware-mindset participants named the racialized nature of the disparity
 id: roster-justice-topics-track-avoidant-aware-mindsets
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

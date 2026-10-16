@@ -3,7 +3,7 @@ type: claim
 title: Most families in the station study co-viewed the Splash and Bubbles show with an adult rather than watching alone
 description: Most families in the station study co-viewed the Splash and Bubbles show with an adult rather than watching alone
 id: splash-bubbles-station-study-coviewing-majority
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

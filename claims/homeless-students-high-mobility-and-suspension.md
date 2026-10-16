@@ -3,7 +3,7 @@ type: claim
 title: Students experiencing homelessness change schools at triple the rate of other students and are twice as likely to receive an out-of-school suspension
 description: Students experiencing homelessness change schools at triple the rate of other students and are twice as likely to receive an out-of-school suspension
 id: homeless-students-high-mobility-and-suspension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

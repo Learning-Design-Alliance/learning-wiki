@@ -2,7 +2,7 @@
 type: theory
 title: "Pintrich's four-phase, four-area paradigm of self-regulated learning"
 description: "The article adopts self-regulated learning as a comprehensive framework including both cognitive and affective aspects, defined as \"self-generated thoughts, feelings, and actions that are planned and cyclically adapte..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

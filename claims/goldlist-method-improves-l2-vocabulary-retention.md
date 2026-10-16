@@ -3,7 +3,7 @@ type: claim
 title: The GoldList Notebook Method increases long-term retention of L2 idioms compared with a vocabulary lesson alone
 description: The GoldList Notebook Method increases long-term retention of L2 idioms compared with a vocabulary lesson alone
 id: goldlist-method-improves-l2-vocabulary-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

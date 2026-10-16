@@ -4,7 +4,7 @@ id: a2i
 title: A2i
 description: A Learning Ovations-partnered system that uses online assessments, instructional recommendations, lesson-planning support, and professional development to help Pre-K through Grade 3 teachers individualize literacy instruction.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

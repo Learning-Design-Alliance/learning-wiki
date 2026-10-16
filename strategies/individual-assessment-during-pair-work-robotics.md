@@ -3,7 +3,7 @@ type: strategy
 id: individual-assessment-during-pair-work-robotics
 title: "Individual assessment during pair work: rotating roles, separate predictions and explanations, and independently-demonstrated ratings per outcome"
 description: "A proposed assessment procedure for shared-robot pair work: students alternate operating and checking roles and record contributions; at each checkpoint each submits a separate prediction and explanation; the instruct..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

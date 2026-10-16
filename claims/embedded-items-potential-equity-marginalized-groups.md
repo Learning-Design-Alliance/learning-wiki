@@ -3,7 +3,7 @@ type: claim
 title: Embedding items has the potential to be a more equitable measure of reading comprehension for marginalized groups
 description: Embedding items has the potential to be a more equitable measure of reading comprehension for marginalized groups
 id: embedded-items-potential-equity-marginalized-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

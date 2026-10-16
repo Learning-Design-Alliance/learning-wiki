@@ -3,7 +3,7 @@ type: claim
 title: Lasting pedagogical change is more likely when teachers try out strategies, receive feedback, and iteratively improve across multiple workshops
 description: Lasting pedagogical change is more likely when teachers try out strategies, receive feedback, and iteratively improve across multiple workshops
 id: iterative-follow-up-supports-lasting-change
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

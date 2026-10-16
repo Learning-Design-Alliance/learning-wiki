@@ -3,7 +3,7 @@ type: strategy
 id: prop28-guidance-for-fund-allocation-and-partnerships
 title: Provide clear, comprehensive state guidance on Prop 28 AMS eligible expenses, waivers, and school-community collaboration
 description: The report concludes that additional guidance is needed so Prop 28 AMS funds are optimally utilized for students and accessible arts education.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

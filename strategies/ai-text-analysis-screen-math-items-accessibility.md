@@ -3,7 +3,7 @@ type: strategy
 id: ai-text-analysis-screen-math-items-accessibility
 title: Use AI-based text analysis (word embeddings plus classifiers) to screen math assessment items for accessibility before deployment
 description: "This strategy implements the study's AI approach: apply word embedding methods to the text of math assessment items and train classifiers to predict whether items will measure achievement equally well for students wit..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

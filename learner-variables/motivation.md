@@ -3,7 +3,7 @@ type: learner-variable
 id: motivation
 title: Motivation
 description: Whether a learner is willing to spend effort here, and what makes the spending feel worth it.
-status: draft
+status: review
 generated:
   by: "claude/unspecified"
   at: 2026-09-02
@@ -12,7 +12,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 137 claims (95 for, 29 mixed, 13 against) · 118 studies (38 associational, 28 causal, 20 review, 10 qualitative, 8 quant-synthesis, 8 theoretical, 6 design), `q1`–`q4` · 24 of 118 report an effect size · 128 claims rest on one study
+> **Evidence** · 152 claims (107 for, 30 mixed, 15 against) · 128 studies (39 associational, 35 causal, 20 review, 10 qualitative, 10 theoretical, 8 quant-synthesis, 6 design), `q1`–`q4` · 27 of 128 report an effect size · 143 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -178,6 +178,21 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Effect sizes linking growth mind-set to achievement are highly heterogeneous and often nonsignificant](../claims/mindset-achievement-heterogeneity-high.md) [~M] — learners who differ on it differ in outcomes
 - [The meta-analytic correlation between growth mind-set and academic achievement is weak (r = .10)](../claims/growth-mindset-achievement-correlation-weak.md) [+W] — learners who differ on it differ in outcomes
 - [Student motivation, enjoyment, and engagement are higher in natural learning settings, including spillover to subsequent indoor lessons](../claims/nature-settings-boost-motivation-engagement.md) [+M] — instruction changes it
+- Adaptive motivation predicts greater behavioral, cognitive and emotional engagement in master's thesis students [+M] — learners who differ on it differ in outcomes
+- [AI-assisted pair programming significantly increased undergraduate intrinsic motivation compared to individual programming, with outcomes comparable to human–human pair programming](../claims/ai-assisted-pair-programming-increases-intrinsic-motivation.md) [+W] — instruction changes it
+- [At semester end, intrinsic motivation was positively correlated and programming anxiety negatively correlated with programming performance](../claims/motivation-anxiety-correlate-with-programming-performance.md) [+M] — learners who differ on it differ in outcomes
+- Behavioral engagement is the unique contributor to academic performance on the master's thesis [+M] — learners who differ on it differ in outcomes
+- [Emotion affects motivation, which in turn affects mental effort investment during learning](../claims/emotion-affects-motivation-mental-effort.md) [+W] — learners who differ on it differ in outcomes
+- [Financial incentives do not decrease intrinsic motivation, though point estimates are too imprecise to detect any effect](../claims/incentives-no-intrinsic-motivation-harm.md) [-M] — instruction changes it
+- [GCLA does not bolster motivational aspects of SRL: traditional ChatGPT users showed higher intrinsic motivation and higher amotivation than GCLA users](../claims/gcla-no-motivation-advantage.md) [~M] — instruction changes it
+- Institutional and supervisor support are associated with adaptive motivation among final-year master's thesis students [+M] — instruction changes it
+- [Interest ratings were the only significant predictor of readers' predictive judgments of understanding](../claims/interest-predicts-judgments-of-understanding.md) [+M] — learners who differ on it differ in outcomes
+- [Learners supported by ChatGPT, a human expert, checklist tools, or no support show no significant difference in post-task intrinsic motivation](../claims/genai-support-no-intrinsic-motivation-difference.md) [-W] — instruction changes it
+- [Learning with a ChatGPT-based flipped learning guiding approach significantly improves students’ performance, self-efficacy, learning attitudes, intrinsic motivation and creative thinking in a courseware project](../claims/chatgpt-flga-improves-performance-and-perceptions.md) [+M] — instruction changes it
+- Motivation mediates the relationship between perceived social support and engagement in master's thesis students [+M] — learners who differ on it differ in outcomes
+- [Spatial thinking and generative activity reduced monitoring error while higher interest increased it](../claims/spatial-generative-reduce-error-interest-increases.md) [+M] — learners who differ on it differ in outcomes
+- [Students who only kept learning diaries showed a decrease in their motivation](../claims/diary-only-motivation-decrease.md) [+M] — instruction changes it
+- [Well-designed games can promote persistence in practice and high-quality engagement, and when basic needs of autonomy, competence, and relatedness are met, learning becomes its own reward, reducing the temptation to outsource cognitive effort to LLMs.](../claims/well-designed-games-foster-practice-and-intrinsic-motivation.md) [+W] — instruction changes it
 
 ## Related Learner Variables
 - Belonging — related but distinct: belonging is about standing, motivation about wanting.

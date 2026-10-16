@@ -3,7 +3,7 @@ type: claim
 title: Perceived clarity of AI rules is significantly dependent on discipline, with the most restrictive subjects also the least clear
 description: Perceived clarity of AI rules is significantly dependent on discipline, with the most restrictive subjects also the least clear
 id: rule-clarity-depends-on-discipline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

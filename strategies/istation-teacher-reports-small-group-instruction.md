@@ -3,7 +3,7 @@ type: strategy
 id: istation-teacher-reports-small-group-instruction
 title: "Use Istation's teacher reports to target small-group instruction and lessons for struggling readers"
 description: "The assessment component produces reports for teachers: \"Teachers receive information to support small-group instruction and lessons for struggling readers.\" The reports identify students' strengths and areas for impr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

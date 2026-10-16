@@ -3,7 +3,7 @@ type: claim
 title: "NCLB had negative effects on AI/AN education, including declines in Navajo students' standardized test scores of up to 50 percent over three years under scripted English-only programs"
 description: "NCLB had negative effects on AI/AN education, including declines in Navajo students' standardized test scores of up to 50 percent over three years under scripted English-only programs"
 id: nclb-negative-effects-ai-an-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

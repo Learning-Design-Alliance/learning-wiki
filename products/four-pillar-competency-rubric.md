@@ -4,7 +4,7 @@ id: four-pillar-competency-rubric
 title: Four-pillar competency rubric
 description: A rubric developed by Smith et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12
@@ -27,4 +27,4 @@ A rubric developed by Smith et al. for assessing manufacturing workforce readine
 -
 
 ## Key Sources
-- Smith, Dalton Ross; Whittington, Wilburn; Martinez, Alejandro; Duncan, Aidan; Li, Gang. (2026). A Conceptual Framework for Enhancing Workforce Readiness for Smart Manufacturing in the AI Era. https://arxiv.org/abs/2608.11540
+- Smith, Dalton Ross; Whittington, Wilburn; Martinez, Alejandro; Duncan, Aidan; Li, Gang. (2026). A Conceptual Framework for Enhancing Workforce Readiness for Smart Manufacturing in the AI Era. https://arxiv.org/abs/2608.11540. [doi:10.48550/arxiv.2608.11540](https://doi.org/10.48550/arxiv.2608.11540)

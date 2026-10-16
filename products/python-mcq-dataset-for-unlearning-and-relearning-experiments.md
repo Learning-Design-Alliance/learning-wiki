@@ -4,7 +4,7 @@ id: python-mcq-dataset-for-unlearning-and-relearning-experiments
 title: Python MCQ dataset for unlearning and relearning experiments
 description: A dataset of 2,074 web-collected and LLM-generated Python multiple-choice questions spanning 22 concept categories, created by Jiajia Song et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

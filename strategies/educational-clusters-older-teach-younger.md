@@ -3,7 +3,7 @@ type: strategy
 id: educational-clusters-older-teach-younger
 title: Organize schools into educational clusters where older students teach younger ones to break the linearity of the system
 description: In her 1971 interview, Mead proposed educational clusters placing day-care centers, kindergartens, elementary schools, junior and senior high schools, and community colleges close together so different age groups can...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

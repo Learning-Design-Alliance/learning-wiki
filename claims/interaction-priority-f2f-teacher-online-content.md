@@ -3,7 +3,7 @@ type: claim
 title: Students prioritize teacher interaction for face-to-face learning but content interaction for online learning
 description: Students prioritize teacher interaction for face-to-face learning but content interaction for online learning
 id: interaction-priority-f2f-teacher-online-content
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: design
 id: learner-as-analyst-mechanistic-transparency
 title: "Learner-as-analyst: mechanistic transparency reframes the learner from spectator to analyst of a recorded process"
 description: "The article's organizing stance holds that every quantity in the Bellman update should be inspectable at every step, with the record of those steps belonging to the learner."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11
@@ -50,4 +50,4 @@ The article's organizing stance holds that every quantity in the Bellman update 
 -
 
 ## Key Sources
-- Jueng, Ekkachai. (2026). Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis. https://arxiv.org/abs/2607.10802
+- Jueng, Ekkachai. (2026). Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis. https://arxiv.org/abs/2607.10802. [doi:10.48550/arxiv.2607.10802](https://doi.org/10.48550/arxiv.2607.10802)

@@ -3,7 +3,7 @@ type: claim
 title: "Risk aversion plays a significant role in teachers' GenAI adoption decisions"
 description: "Risk aversion plays a significant role in teachers' GenAI adoption decisions"
 id: risk-aversion-significant-in-genai-adoption
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

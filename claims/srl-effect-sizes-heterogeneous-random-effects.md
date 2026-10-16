@@ -3,7 +3,7 @@ type: claim
 title: Effect sizes across SRL intervention studies are highly heterogeneous, requiring a random effects model
 description: Effect sizes across SRL intervention studies are highly heterogeneous, requiring a random effects model
 id: srl-effect-sizes-heterogeneous-random-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

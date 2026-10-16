@@ -3,7 +3,7 @@ type: strategy
 id: four-design-principles-epistemic-agency-ai
 title: Four design principles for educational AI that empowers epistemic agency rather than passive offloading
 description: "Based on the tension between system efficiency and regulatory engagement, the article proposes four design principles for educational AI: prioritizing dialogic tension over seamless efficiency, enabling proactive co-r..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

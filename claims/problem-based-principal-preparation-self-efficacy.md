@@ -3,7 +3,7 @@ type: claim
 title: Problem-based learning connecting coursework and practice is associated with stronger candidate skill development and self-efficacy
 description: Problem-based learning connecting coursework and practice is associated with stronger candidate skill development and self-efficacy
 id: problem-based-principal-preparation-self-efficacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

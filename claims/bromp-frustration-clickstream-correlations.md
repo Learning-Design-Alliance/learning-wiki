@@ -3,7 +3,7 @@ type: claim
 title: Prior research established correlations between observable student experiences such as frustration and clickstream data in ASSISTments, enabling experience-variable equity research without demographic data
 description: Prior research established correlations between observable student experiences such as frustration and clickstream data in ASSISTments, enabling experience-variable equity research without demographic data
 id: bromp-frustration-clickstream-correlations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

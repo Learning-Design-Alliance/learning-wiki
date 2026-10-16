@@ -3,7 +3,7 @@ type: strategy
 id: teacher-as-diagnostician-evaluator-with-interactive-video
 title: Position the language teacher as diagnostician, prescriber, motivator, and evaluator of student production
 description: "The article argues that interactive video cannot evaluate students' productions, so teachers should project how their roles can change and become more professional."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

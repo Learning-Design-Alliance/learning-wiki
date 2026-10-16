@@ -3,7 +3,7 @@ type: claim
 title: Academics most often name Instagram and LinkedIn as the Web 2.0 tools they use to realise esteem needs
 description: Academics most often name Instagram and LinkedIn as the Web 2.0 tools they use to realise esteem needs
 id: academics-prefer-instagram-linkedin-esteem
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

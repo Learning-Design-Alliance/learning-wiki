@@ -3,7 +3,7 @@ type: claim
 title: CTT-based quiz difficulty rankings are validated by IRT analysis with near-perfect rank correlation
 description: CTT-based quiz difficulty rankings are validated by IRT analysis with near-perfect rank correlation
 id: irt-validates-ctt-quiz-difficulty-ranking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Faculty workshop participants agreed the educational focus should shift toward higher-level skills, naming abstraction, verification, and taking responsibility for systems
 description: Faculty workshop participants agreed the educational focus should shift toward higher-level skills, naming abstraction, verification, and taking responsibility for systems
 id: faculty-shift-to-abstraction-verification-responsibility
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

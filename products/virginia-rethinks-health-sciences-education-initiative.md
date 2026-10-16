@@ -4,7 +4,7 @@ id: virginia-rethinks-health-sciences-education-initiative
 title: Virginia RETHINKS Health Sciences Education initiative
 description: "A TAACCCT-funded initiative organized across Virginia's 23 community colleges to redesign health-sciences education, strengthen workforce connections, and improve college efficiencies."
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

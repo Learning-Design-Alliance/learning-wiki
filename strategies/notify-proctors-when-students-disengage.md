@@ -3,7 +3,7 @@ type: strategy
 id: notify-proctors-when-students-disengage
 title: Notify test proctors when students disengage so students give their best effort on testing day
 description: This strategy has test systems alert proctors in real time when a student shows disengagement, so the proctor can intervene and restore effort.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

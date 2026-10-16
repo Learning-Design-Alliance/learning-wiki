@@ -3,7 +3,7 @@ type: claim
 title: Social sciences content is positively correlated with perceived ethnic bias in text-based learning materials
 description: Social sciences content is positively correlated with perceived ethnic bias in text-based learning materials
 id: social-sciences-content-correlates-ethnic-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

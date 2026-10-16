@@ -3,7 +3,7 @@ type: claim
 title: "Educators rarely facilitated connections between playlist activities or to students' lives; introductions and debriefings focused on logistics rather than science content"
 description: "Educators rarely facilitated connections between playlist activities or to students' lives; introductions and debriefings focused on logistics rather than science content"
 id: educators-rarely-facilitated-connections-between-playlists
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: supports-to-raise-teacher-expectancy-and-value-for-ai-use
 title: "Supports to Raise Teachers' Expectancy and Value and Lower Cost for AI Use"
 description: A set of support measures the paper recommends for teachers adopting AI applications, repeated across its expectancy, value and cost sections.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

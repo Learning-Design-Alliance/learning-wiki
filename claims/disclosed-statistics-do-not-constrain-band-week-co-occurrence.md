@@ -3,7 +3,7 @@ type: claim
 title: "The variation gap traces to what the generator was disclosed: no released statistic constrains which band and which week are zero together"
 description: "The variation gap traces to what the generator was disclosed: no released statistic constrains which band and which week are zero together"
 id: disclosed-statistics-do-not-constrain-band-week-co-occurrence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -18,8 +18,8 @@ sources:
     kind: design
     rigour: 2
   - id: inoue-2026-2
-    resource: "https://arxiv.org/abs/2609.27265"
-    title: "Inoue, H., & Yasutake, K. (2026). What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data. Proceedings of the 34th International Conference on Computers in Education. Asia-Pacific Society for Computers in Education. https://arxiv.org/abs/2609.27265"
+    resource: "https://doi.org/10.48550/arxiv.2609.27265"
+    title: "Inoue, H., & Yasutake, K. (2026). What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data. Proceedings of the 34th International Conference on Computers in Education. Asia-Pacific Society for Computers in Education. https://arxiv.org/abs/2609.27265. [doi:10.48550/arxiv.2609.27265](https://doi.org/10.48550/arxiv.2609.27265)"
     author: "Inoue, H., & Yasutake, K."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # The variation gap traces to what the generator was disclosed: no released statistic constrains which band and which week are zero together
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The differentially private summary for the study-habit records contains no statistic constraining joint band-by-week zeros, and the entropy over weeks is invariant to permuting them. [→ Inoue 2026](#inoue-2026)
@@ -50,7 +50,7 @@ Analysis of the platform's disclosure: the private summary comprises the proport
 
 ### Inoue 2026 (2)
 
-Inoue, H., & Yasutake, K. (2026). What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data. Proceedings of the 34th International Conference on Computers in Education. Asia-Pacific Society for Computers in Education. https://arxiv.org/abs/2609.27265
+Inoue, H., & Yasutake, K. (2026). What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data. Proceedings of the 34th International Conference on Computers in Education. Asia-Pacific Society for Computers in Education. https://arxiv.org/abs/2609.27265. [doi:10.48550/arxiv.2609.27265](https://doi.org/10.48550/arxiv.2609.27265)
 
 `q2 · i?` · `design · r2`
 

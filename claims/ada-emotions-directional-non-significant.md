@@ -3,7 +3,7 @@ type: claim
 title: ADA produces directional but non-significant trends toward more positive-activating and less negative-deactivating emotions versus conventional materials
 description: ADA produces directional but non-significant trends toward more positive-activating and less negative-deactivating emotions versus conventional materials
 id: ada-emotions-directional-non-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
@@ -47,3 +47,4 @@ Mann-Whitney U group comparison of post-intervention emotion scores in the clust
 - [Using the AI chatbot ADA significantly enhances ninth-graders' situational interest in mathematics compared with conventional differentiation materials](ada-significantly-raises-situational-interest.md) — related
 - [Learning performance improved over time and differed by group, but ADA showed no significant group-by-time interaction advantage over conventional materials](ada-no-significant-performance-interaction.md) — related
 - [Students in secondary mathematics report high acceptance of the domain-specific AI chatbot ADA across all Technology Acceptance Model dimensions](ada-high-tam-acceptance-secondary-math.md) — related
+- [Chatbot-based instruction enhanced secondary students' learning experience by enabling self-paced study with less stress, time savings, and maintained motivation](chatbot-enhances-learning-experience-self-paced.md) — related

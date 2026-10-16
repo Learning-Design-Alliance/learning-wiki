@@ -3,7 +3,7 @@ type: design
 id: ai-learning-companion-critique-refinement-framework
 title: "AI-as-learning-companion: leveraging LLM fallibility through a critique-refinement cycle to develop higher-order thinking"
 description: "The paper's central framework reframes generative AI errors and hallucinations as a pedagogical resource rather than a limitation."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11
@@ -51,4 +51,4 @@ The paper's central framework reframes generative AI errors and hallucinations a
 -
 
 ## Key Sources
-- Hosseini, H. (2026). The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking. https://arxiv.org/abs/2605.05472
+- Hosseini, H. (2026). The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking. https://arxiv.org/abs/2605.05472. [doi:10.48550/arxiv.2605.05472](https://doi.org/10.48550/arxiv.2605.05472)

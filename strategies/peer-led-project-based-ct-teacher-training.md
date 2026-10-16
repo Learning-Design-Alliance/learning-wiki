@@ -3,7 +3,7 @@ type: strategy
 id: peer-led-project-based-ct-teacher-training
 title: Use peer-led, project-based professional development led by teachers in similar contexts
 description: "The project supported educators seeing themselves as part of the region's computing future partly by \"providing hands-on, project-based trainings on computational thinking, led by other K-8 teachers who work in simila..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

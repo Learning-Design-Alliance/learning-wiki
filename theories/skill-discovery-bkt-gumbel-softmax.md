@@ -2,7 +2,7 @@
 type: theory
 title: "Skill discovery BKT: end-to-end stochastic learning of the problem-KC assignment matrix with Gumbel-Softmax"
 description: "This model estimates the binary problem-to-KC assignment matrix within a neural network framework by sampling each problem's KC assignment from a categorical distribution and backpropagating through samples using the..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

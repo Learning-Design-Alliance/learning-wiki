@@ -3,7 +3,7 @@ type: claim
 title: DaisyQuest matched teacher-delivered phonological awareness instruction but beat other instructional software in low-progress readers
 description: DaisyQuest matched teacher-delivered phonological awareness instruction but beat other instructional software in low-progress readers
 id: daisyquest-versus-teacher-instruction-mixed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

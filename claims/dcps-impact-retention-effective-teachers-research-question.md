@@ -3,7 +3,7 @@ type: claim
 title: The report examines whether retention rates of effective DCPS teachers changed after IMPACT began, including dismissal rates and school-level retention over time
 description: The report examines whether retention rates of effective DCPS teachers changed after IMPACT began, including dismissal rates and school-level retention over time
 id: dcps-impact-retention-effective-teachers-research-question
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

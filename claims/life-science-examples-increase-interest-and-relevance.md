@@ -3,7 +3,7 @@ type: claim
 title: A substantial fraction of students reported increased interest in physics and ability to connect physics to their life science majors and careers
 description: A substantial fraction of students reported increased interest in physics and ability to connect physics to their life science majors and careers
 id: life-science-examples-increase-interest-and-relevance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Patterns of GPA decline varied widely across high schools, suggesting school environment plays an important role in the transition
 description: Patterns of GPA decline varied widely across high schools, suggesting school environment plays an important role in the transition
 id: school-variation-gpa-declines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

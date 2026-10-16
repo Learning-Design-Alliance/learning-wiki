@@ -3,7 +3,7 @@ type: claim
 title: No clear effect of robot anthropomorphism on human autonomy or sense of agency emerges across reviewed studies
 description: No clear effect of robot anthropomorphism on human autonomy or sense of agency emerges across reviewed studies
 id: anthropomorphism-no-clear-effect-autonomy-agency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

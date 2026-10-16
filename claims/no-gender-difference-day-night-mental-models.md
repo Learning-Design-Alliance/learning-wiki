@@ -3,7 +3,7 @@ type: claim
 title: Boys and girls do not differ in the type of mental models of the day and night cycle they hold
 description: Boys and girls do not differ in the type of mental models of the day and night cycle they hold
 id: no-gender-difference-day-night-mental-models
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

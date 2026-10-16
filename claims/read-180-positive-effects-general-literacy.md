@@ -3,7 +3,7 @@ type: claim
 title: READ 180® has positive effects on general literacy achievement for adolescent readers
 description: READ 180® has positive effects on general literacy achievement for adolescent readers
 id: read-180-positive-effects-general-literacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -2,7 +2,7 @@
 type: theory
 title: "Ambitious mashups: cyberlearning projects combine novel technologies, theories, methods, and equity goals in frontier-oriented integrations"
 description: "The report's central organizing concept: cyberlearning projects are mashups that 'combined many elements in a novel integration, to explore a promising approach to a particular learning goal or context'."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

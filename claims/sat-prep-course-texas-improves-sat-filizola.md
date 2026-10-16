@@ -3,7 +3,7 @@ type: claim
 title: A school SAT preparation course improved SAT scores at one Texas school (Filizola, 2008; domain average effect size 0.28), driven by the mathematics subtest
 description: A school SAT preparation course improved SAT scores at one Texas school (Filizola, 2008; domain average effect size 0.28), driven by the mathematics subtest
 id: sat-prep-course-texas-improves-sat-filizola
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

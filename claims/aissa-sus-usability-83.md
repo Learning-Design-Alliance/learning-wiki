@@ -3,7 +3,7 @@ type: claim
 title: "Students rated AISSA's usability as excellent, with an average SUS score of 83.38 from 30 of 46 pilot students"
 description: "Students rated AISSA's usability as excellent, with an average SUS score of 83.38 from 30 of 46 pilot students"
 id: aissa-sus-usability-83
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

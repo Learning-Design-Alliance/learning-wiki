@@ -3,7 +3,7 @@ type: claim
 title: Socio-economic inequality in learning increased during the pandemic for most estimates, across subjects, grades and pandemic stages
 description: Socio-economic inequality in learning increased during the pandemic for most estimates, across subjects, grades and pandemic stages
 id: covid-learning-inequality-increased-low-ses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

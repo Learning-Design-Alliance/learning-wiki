@@ -3,7 +3,7 @@ type: strategy
 id: personalized-support-pandemic-college-transitions
 title: Provide new and personalized support and policies for students most affected by pandemic disruptions to college enrollment and retention
 description: "The report's implications chapter argues that the decline in two-year college enrollment and retention in 2020, especially among students of color, \"underscores the need for new and personalized support and policies f..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

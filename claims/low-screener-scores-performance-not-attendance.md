@@ -3,7 +3,7 @@ type: claim
 title: Low English proficiency screener scores in pre-k relate to lower academic performance but not to attendance
 description: Low English proficiency screener scores in pre-k relate to lower academic performance but not to attendance
 id: low-screener-scores-performance-not-attendance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

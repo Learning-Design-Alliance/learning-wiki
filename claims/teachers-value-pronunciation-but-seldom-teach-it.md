@@ -3,7 +3,7 @@ type: claim
 title: Teachers value pronunciation instruction highly but report seldom teaching it and low satisfaction with how they teach it
 description: Teachers value pronunciation instruction highly but report seldom teaching it and low satisfaction with how they teach it
 id: teachers-value-pronunciation-but-seldom-teach-it
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

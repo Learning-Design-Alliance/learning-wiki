@@ -3,7 +3,7 @@ type: strategy
 id: design-didactic-sequences-active-learning-physics
 title: "Design didactic sequences for secondary physics concepts through active learning, taking advantage of the reform's adaptation period to equip teachers with new working strategies"
 description: "The article recommends seizing the reform's change and adaptation period to sow working strategies in teachers through designed didactic sequences; it states that \"El aprendizaje activo de la física tiene hoy una gran..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

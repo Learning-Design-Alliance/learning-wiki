@@ -3,7 +3,7 @@ type: claim
 title: Summer Bridge produced short-term test-score gains and allowed more students to meet promotion cutoffs, particularly among sixth and eighth graders
 description: Summer Bridge produced short-term test-score gains and allowed more students to meet promotion cutoffs, particularly among sixth and eighth graders
 id: summer-bridge-short-term-test-score-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

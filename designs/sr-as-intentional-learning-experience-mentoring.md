@@ -3,7 +3,7 @@ type: design
 id: sr-as-intentional-learning-experience-mentoring
 title: Systematic reviews as intentional learning experiences scaffolded by mentoring that combines methodological guidance with emotional scaffolding
 description: "The article frames systematic reviews \"as intentional learning experiences that unfold across stages of the review and require mentoring and technological support.\" Mentoring is described as \"an integrated support sys..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

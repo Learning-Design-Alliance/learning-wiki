@@ -3,7 +3,7 @@ type: claim
 title: Better awareness calibration co-occurs with lower incorrect-advice acceptance and lower attribution bias, interpreted associationally only
 description: Better awareness calibration co-occurs with lower incorrect-advice acceptance and lower attribution bias, interpreted associationally only
 id: calibration-negatively-associated-overreliance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

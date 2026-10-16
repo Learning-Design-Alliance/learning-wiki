@@ -3,7 +3,7 @@ type: strategy
 id: report-submission-practices-to-support-ai-evidence-retrieval
 title: Mitigate extraction errors by requiring high-resolution PDFs, equation-editor equations, and legible graph axes, units, and legends
 description: Because extraction errors in equations, figures, tables, and graphs can generate plausible but insufficiently supported feedback or invalid assessments, the article recommends submission practices that improve automat...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

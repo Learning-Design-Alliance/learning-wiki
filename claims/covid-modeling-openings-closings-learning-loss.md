@@ -3,7 +3,7 @@ type: claim
 title: The forum addressed modeling of school openings, closings, and learning loss during COVID-19
 description: The forum addressed modeling of school openings, closings, and learning loss during COVID-19
 id: covid-modeling-openings-closings-learning-loss
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: self-efficacy-interventions-alongside-ai-integration
 title: Design intervention programs building academic self-efficacy (vicarious learning, progressive mastery, positive feedback) before and alongside AI integration for students with motor disabilities
 description: "The article's practical implications recommend designing intervention programs focused on academic self-efficacy for students with motor disabilities, because higher self-efficacy was associated with greater AI use."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

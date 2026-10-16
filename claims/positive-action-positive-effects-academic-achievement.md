@@ -3,7 +3,7 @@ type: claim
 title: "Positive Action has positive effects on elementary school students' academic achievement, with a WWC domain average effect size of 0.37 and an improvement index of +14 percentile points"
 description: "Positive Action has positive effects on elementary school students' academic achievement, with a WWC domain average effect size of 0.37 and an improvement index of +14 percentile points"
 id: positive-action-positive-effects-academic-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

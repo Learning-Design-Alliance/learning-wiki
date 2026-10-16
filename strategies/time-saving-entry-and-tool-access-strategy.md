@@ -3,7 +3,7 @@ type: strategy
 id: time-saving-entry-and-tool-access-strategy
 title: Open post-qualification courses by demonstrating time-saving AI uses and secure free access to AI tools for teachers
 description: "The article recommends leveraging teachers' most common motive for AI use in lesson preparation and follow-up — saving time (n = 63) — as an opening argument, and having post-qualification specifically address how AI..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

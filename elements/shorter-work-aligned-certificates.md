@@ -3,7 +3,7 @@ type: element
 id: shorter-work-aligned-certificates
 title: Shorter work-aligned certificates as a credential type experiencing renewed market emphasis
 description: Certificates are described as one type of shorter, work-aligned credential.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

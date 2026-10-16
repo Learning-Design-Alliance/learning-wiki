@@ -3,7 +3,7 @@ type: claim
 title: CATs can have important advantages over conventional tests in identifying instances when examinees exhibit low effort
 description: CATs can have important advantages over conventional tests in identifying instances when examinees exhibit low effort
 id: cats-advantage-identifying-low-effort
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

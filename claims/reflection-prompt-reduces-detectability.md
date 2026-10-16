@@ -3,7 +3,7 @@ type: claim
 title: Baseline LLM reflective responses were highly detectable, and persona and typo prompts progressively reduced separability from real student responses
 description: Baseline LLM reflective responses were highly detectable, and persona and typo prompts progressively reduced separability from real student responses
 id: reflection-prompt-reduces-detectability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

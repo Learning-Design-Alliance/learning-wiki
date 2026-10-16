@@ -3,7 +3,7 @@ type: claim
 title: The model was validated on the complete public school network of the Calabria region using real institutional, territorial, and demographic data
 description: The model was validated on the complete public school network of the Calabria region using real institutional, territorial, and demographic data
 id: calabria-school-network-case-study
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

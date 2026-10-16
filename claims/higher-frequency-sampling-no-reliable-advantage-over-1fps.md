@@ -3,7 +3,7 @@ type: claim
 title: Densely sampled visual frames and sensor representations offered no reliable predictive advantage over the 1 FPS setting in the higher-frequency experiment
 description: Densely sampled visual frames and sensor representations offered no reliable predictive advantage over the 1 FPS setting in the higher-frequency experiment
 id: higher-frequency-sampling-no-reliable-advantage-over-1fps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

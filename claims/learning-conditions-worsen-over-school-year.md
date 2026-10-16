@@ -3,7 +3,7 @@ type: claim
 title: Learning conditions worsen slightly but significantly over a school year absent intentional efforts to improve them
 description: Learning conditions worsen slightly but significantly over a school year absent intentional efforts to improve them
 id: learning-conditions-worsen-over-school-year
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

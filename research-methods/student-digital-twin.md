@@ -3,7 +3,7 @@ type: research-method
 id: student-digital-twin
 title: Student Digital Twin
 description: "A Student Digital Twin is defined as \"a continuously evolving model of an individual learner's academic performance, learning behavior, career interests, degree progression, financial circumstances, co-curricular engagement, and workforce preparedness.\" Its purpose is \"to simulate\": answering counte"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

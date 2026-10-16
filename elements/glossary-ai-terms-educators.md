@@ -3,7 +3,7 @@ type: element
 id: glossary-ai-terms-educators
 title: Glossary of Artificial Intelligence Terms for Educators
 description: The Glossary of Artificial Intelligence Terms for Educators, by Pati Ruiz and Judi Fusco, is a Digital Promise reference resource written for educators to reference when learning about and using artificial intelligence.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -4,7 +4,7 @@ id: imagine-im
 title: Imagine IM
 description: Imagine IM is a print and digital K–12 core mathematics curriculum developed by Imagine Learning and certified by Illustrative Mathematics for problem-based, student-centered instruction.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

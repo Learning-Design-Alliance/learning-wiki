@@ -3,7 +3,7 @@ type: claim
 title: Coding-oriented conversations show higher cognitive and constructive engagement than writing-oriented conversations across all three corpora
 description: Coding-oriented conversations show higher cognitive and constructive engagement than writing-oriented conversations across all three corpora
 id: coding-vs-writing-constructive-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

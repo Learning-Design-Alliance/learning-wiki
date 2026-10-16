@@ -4,7 +4,7 @@ id: flowcode
 title: Flowcode
 description: An AI-powered web-based creative-coding environment developed by Tseng et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10
@@ -33,4 +33,4 @@ An AI-powered web-based creative-coding environment developed by Tseng et al. th
 -
 
 ## Key Sources
-- Tseng, T., Seoror, L.H., Adda, J., Factor, M., Darabi, R., Matschke, K.R., Fu, T., Lin, A., Maram, A., Sinha, A. (2026). Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education. https://arxiv.org/abs/2607.06721
+- Tseng, T., Seoror, L.H., Adda, J., Factor, M., Darabi, R., Matschke, K.R., Fu, T., Lin, A., Maram, A., Sinha, A. (2026). Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education. https://arxiv.org/abs/2607.06721. [doi:10.48550/arxiv.2607.06721](https://doi.org/10.48550/arxiv.2607.06721)

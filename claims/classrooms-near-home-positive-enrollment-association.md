@@ -3,7 +3,7 @@ type: claim
 title: "The number of pre-k classrooms near a student's home was positively related to enrollment, more strongly for full-day classrooms"
 description: "The number of pre-k classrooms near a student's home was positively related to enrollment, more strongly for full-day classrooms"
 id: classrooms-near-home-positive-enrollment-association
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

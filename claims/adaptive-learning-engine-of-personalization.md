@@ -3,7 +3,7 @@ type: claim
 title: Adaptive learning functions as the algorithmic engine that operationalizes personalized learning
 description: Adaptive learning functions as the algorithmic engine that operationalizes personalized learning
 id: adaptive-learning-engine-of-personalization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Feedback type did not affect whether students solved assignments; solution rates were very similar across all conditions
 description: Feedback type did not affect whether students solved assignments; solution rates were very similar across all conditions
 id: feedback-type-no-effect-solution-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

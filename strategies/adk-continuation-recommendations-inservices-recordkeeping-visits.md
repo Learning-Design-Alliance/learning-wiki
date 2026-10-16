@@ -3,7 +3,7 @@ type: strategy
 id: adk-continuation-recommendations-inservices-recordkeeping-visits
 title: Continue ADK with more teacher inservices, maintained recordkeeping documents, and increased evaluator classroom visitations
 description: "Based on the 1992-93 evaluation results, the report recommends that the All Day Kindergarten program be continued in 1993-94 and that program success be enhanced by three actions: \"provide more teacher inservices, con..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

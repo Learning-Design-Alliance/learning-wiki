@@ -3,7 +3,7 @@ type: claim
 title: SVM and random forest classifiers showed consistent performance in classifying ethnic bias, with F1-scores of 0.71 and 0.70 on the test set
 description: SVM and random forest classifiers showed consistent performance in classifying ethnic bias, with F1-scores of 0.71 and 0.70 on the test set
 id: svm-rf-consistent-bias-classification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

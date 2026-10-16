@@ -3,7 +3,7 @@ type: claim
 title: Student performance on design problems correlates negligibly with traditional project grades, suggesting DPs capture distinct transfer-oriented HOT dimensions
 description: Student performance on design problems correlates negligibly with traditional project grades, suggesting DPs capture distinct transfer-oriented HOT dimensions
 id: dp-grades-uncorrelated-with-project-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

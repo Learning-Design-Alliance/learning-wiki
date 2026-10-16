@@ -3,7 +3,7 @@ type: claim
 title: No surveyed presentation-coaching system covers all five taxonomy dimensions simultaneously
 description: No surveyed presentation-coaching system covers all five taxonomy dimensions simultaneously
 id: no-system-covers-all-five-coaching-dimensions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Rothstein (2010) found that standard VAMs imply implausible future-teacher effects on past student achievement
 description: Rothstein (2010) found that standard VAMs imply implausible future-teacher effects on past student achievement
 id: rothstein-implausible-future-teacher-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

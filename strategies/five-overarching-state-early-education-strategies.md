@@ -3,7 +3,7 @@ type: strategy
 id: five-overarching-state-early-education-strategies
 title: Five overarching state strategies for building quality early education systems
 description: "The report distills the shared approach of Michigan, West Virginia, Washington, and North Carolina into five overarching strategies: \"establishing standards for quality and systems that incentivize improvement; invest..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

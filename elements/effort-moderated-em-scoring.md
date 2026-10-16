@@ -3,7 +3,7 @@ type: element
 id: effort-moderated-em-scoring
 title: "Effort-moderated (E-M) scoring: excluding rapid-guess responses from test scoring"
 description: "Effort-moderated (E-M) scoring is a scoring approach for low-stakes tests in which \"item responses classified as rapid guesses are identified and excluded from scoring.\" It addresses disengaged test taking, which the..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

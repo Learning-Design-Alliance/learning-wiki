@@ -3,7 +3,7 @@ type: claim
 title: Policy–enforcement pairings are dominated by prompt-based constraints, and policy themes differ in enforcement breadth
 description: Policy–enforcement pairings are dominated by prompt-based constraints, and policy themes differ in enforcement breadth
 id: policy-enforcement-pairings-prompt-dominated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

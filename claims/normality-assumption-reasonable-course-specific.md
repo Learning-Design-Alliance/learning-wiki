@@ -3,7 +3,7 @@ type: claim
 title: Normality assumptions of the true score model appeared reasonable for the course-specific tests
 description: Normality assumptions of the true score model appeared reasonable for the course-specific tests
 id: normality-assumption-reasonable-course-specific
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

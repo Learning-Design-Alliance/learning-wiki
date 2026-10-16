@@ -3,7 +3,7 @@ type: claim
 title: Inquiry-based exploration simulations were significantly more likely in exact and life sciences than humanities and social sciences
 description: Inquiry-based exploration simulations were significantly more likely in exact and life sciences than humanities and social sciences
 id: inquiry-simulations-more-likely-in-sciences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

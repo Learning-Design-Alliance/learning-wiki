@@ -3,7 +3,7 @@ type: strategy
 id: examine-prek-quality-equitable-access-and-family-choice
 title: Research and policy attention should now examine PreK program quality and equitable access across racial, ethnic, and linguistic groups, and how families choose among PreK options
 description: "The brief's concluding recommendation is that, now that enrollment expansion is underway, attention must turn to whether programs are high quality and whether access is equitable."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

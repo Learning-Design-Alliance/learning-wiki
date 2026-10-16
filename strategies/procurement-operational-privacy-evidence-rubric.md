@@ -3,7 +3,7 @@ type: strategy
 id: procurement-operational-privacy-evidence-rubric
 title: Procurement should demand operational privacy evidence and use the five-dimension audit rubric for comparison
 description: "For schools, administrators, and policymakers, the article recommends that \"procurement should demand operational evidence rather than accepting the existence of a privacy policy as sufficient.\" Vendors should be requ..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

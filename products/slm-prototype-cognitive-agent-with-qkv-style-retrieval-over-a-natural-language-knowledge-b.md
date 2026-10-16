@@ -4,7 +4,7 @@ id: slm-prototype-cognitive-agent-with-qkv-style-retrieval-over-a-natural-langua
 title: SLM prototype Cognitive Agent with QKV-style retrieval over a natural-language Knowledge Base
 description: A research prototype developed by Hyeongdon Moon et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

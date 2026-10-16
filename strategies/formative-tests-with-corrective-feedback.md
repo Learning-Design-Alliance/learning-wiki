@@ -3,7 +3,7 @@ type: strategy
 id: formative-tests-with-corrective-feedback
 title: Increase the use of feedback and correctives through mastery learning procedures
 description: "An implementable teaching activity: structure instruction so that frequent formative tests give students evidence about their learning, and follow each test with correctives and relearning opportunities before moving on."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

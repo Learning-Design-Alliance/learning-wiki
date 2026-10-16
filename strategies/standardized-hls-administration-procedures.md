@@ -3,7 +3,7 @@ type: strategy
 id: standardized-hls-administration-procedures
 title: "Standardized administration procedures for HLS: training, translation, documentation, and exception handling"
 description: Session participants reached consensus on administrative procedures for HLS delivery.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

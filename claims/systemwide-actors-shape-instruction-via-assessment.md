@@ -3,7 +3,7 @@ type: claim
 title: Instructionally relevant decisions influenced by state assessments are made by many actors beyond day-to-day teacher-student interactions
 description: Instructionally relevant decisions influenced by state assessments are made by many actors beyond day-to-day teacher-student interactions
 id: systemwide-actors-shape-instruction-via-assessment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -45,3 +45,4 @@ The report's framing, supported by Table 2, which lists instructionally relevant
 ## Related Claims
 - [State assessment design decisions inevitably shape classroom instruction, often narrowing curriculum and teaching practices](state-assessments-shape-instruction.md) — related
 - [Adding writing prompts and essays to state English language arts assessments shifted classroom instruction toward writing](ela-writing-prompts-shift-instruction.md) — a narrower finding that bears on this claim
+- [Decisions made at each stage of a meta-analysis influence its conduct, results, and substantive implications](meta-analysis-stage-decisions-shape-results.md) — related

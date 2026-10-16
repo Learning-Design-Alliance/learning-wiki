@@ -3,7 +3,7 @@ type: claim
 title: Neither cognitive ability, curiosity, nor epistemic behavior significantly predicts tertiary academic performance in the heterogeneous sample
 description: Neither cognitive ability, curiosity, nor epistemic behavior significantly predicts tertiary academic performance in the heterogeneous sample
 id: no-significant-predictors-tertiary-gpa
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

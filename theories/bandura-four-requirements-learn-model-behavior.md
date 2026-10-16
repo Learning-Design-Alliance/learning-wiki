@@ -2,7 +2,7 @@
 type: theory
 title: "Bandura's social learning theory: four fundamental requirements for people to learn and model behavior"
 description: The paper presents social learning theory as a century-old body of work in education, psychology and sociology, with Albert Bandura as one of its most prominent experts.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

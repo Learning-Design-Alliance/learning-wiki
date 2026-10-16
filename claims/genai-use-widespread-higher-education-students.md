@@ -3,7 +3,7 @@ type: claim
 title: "GenAI use is widespread among higher education students in reviewed studies, with some studies reporting over 95% of participants had used GenAI tools"
 description: "GenAI use is widespread among higher education students in reviewed studies, with some studies reporting over 95% of participants had used GenAI tools"
 id: genai-use-widespread-higher-education-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

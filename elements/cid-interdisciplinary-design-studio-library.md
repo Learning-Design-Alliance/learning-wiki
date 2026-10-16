@@ -3,7 +3,7 @@ type: element
 id: cid-interdisciplinary-design-studio-library
 title: CID interdisciplinary design studio in a university library
 description: The Creativity, Innovation, and Design (CID) studio was a space created in a university library in 2014 to support interdisciplinary project-based learning, built quickly from surplus furniture, removed book rows, and...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

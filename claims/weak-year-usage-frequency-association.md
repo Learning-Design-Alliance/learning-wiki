@@ -3,7 +3,7 @@ type: claim
 title: Year of study is only weakly positively associated with reported AI usage frequency, indicating tool normalization across cohorts
 description: Year of study is only weakly positively associated with reported AI usage frequency, indicating tool normalization across cohorts
 id: weak-year-usage-frequency-association
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

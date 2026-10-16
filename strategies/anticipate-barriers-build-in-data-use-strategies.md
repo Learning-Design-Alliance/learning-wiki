@@ -3,7 +3,7 @@ type: strategy
 id: anticipate-barriers-build-in-data-use-strategies
 title: "Anticipate barriers to data use by building in strategies for future data use from initial conversations, and trust the process by going at the community's pace."
 description: In the implementation phase, the project found that programs sometimes struggled to use alumni survey findings to reflect on current practices and find space for healing beyond further connecting with alumni.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

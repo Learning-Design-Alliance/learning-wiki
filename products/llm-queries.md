@@ -4,7 +4,7 @@ id: llm-queries
 title: LLM-queries
 description: A GitHub repository released by Keith et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

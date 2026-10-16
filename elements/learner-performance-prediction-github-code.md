@@ -3,7 +3,7 @@ type: element
 id: learner-performance-prediction-github-code
 title: Released learner performance prediction code and public dataset links
 description: The article releases its experimental code and links to the nine public benchmark datasets used in the comparison.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

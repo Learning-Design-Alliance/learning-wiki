@@ -3,7 +3,7 @@ type: claim
 title: Students remained cautious about relying on GenAI throughout the creative process, citing imperfect outputs and perceived loss of ownership
 description: Students remained cautious about relying on GenAI throughout the creative process, citing imperfect outputs and perceived loss of ownership
 id: student-cautions-genai-ownership-and-output-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -58,3 +58,4 @@ Thematic analysis of semi-structured interviews (N=6) in the third semester. The
 - [GenAI use in creative contexts tends toward regression to the mean: less skilled users improve while higher skilled users decline](genai-creativity-regression-to-the-mean.md) — related
 - [Interviewed teachers cite poor AI output quality and risks to students' cognitive engagement as main obstacles, and subject-specific use cases as their top professional-development need](teacher-interviews-obstacles-and-pd-needs.md) — related
 - [LLM responses that are incomplete or incorrect prompt students to question, verify and improve the information, fostering critical thinking through cycles of validation and correction](llm-errors-prompt-validation-cycles-critical-thinking.md) — related
+- [Interviews revealed six themes: enhanced efficiency, improved quality, facilitated reflection, increased interaction, improved collaboration, and concerns about over-reliance](gai-dst-interview-six-themes.md) — related

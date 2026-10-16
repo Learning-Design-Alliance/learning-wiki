@@ -3,7 +3,7 @@ type: claim
 title: Mentoring experiences did not differ statistically significantly across districts with different poverty, achievement, or rurality levels
 description: Mentoring experiences did not differ statistically significantly across districts with different poverty, achievement, or rurality levels
 id: mentoring-did-not-vary-by-district-characteristics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

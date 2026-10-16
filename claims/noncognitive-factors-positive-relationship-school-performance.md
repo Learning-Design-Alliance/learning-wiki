@@ -3,7 +3,7 @@ type: claim
 title: "Noncognitive factors have a direct positive relationship to students' school performance and future outcomes"
 description: "Noncognitive factors have a direct positive relationship to students' school performance and future outcomes"
 id: noncognitive-factors-positive-relationship-school-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

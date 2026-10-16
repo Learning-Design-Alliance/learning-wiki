@@ -3,7 +3,7 @@ type: claim
 title: "Learning-oriented engagement is recurrent but selective in everyday human–LLM conversations, with cognitive engagement in 31.9% and constructive engagement in 4.9% of user turns"
 description: "Learning-oriented engagement is recurrent but selective in everyday human–LLM conversations, with cognitive engagement in 31.9% and constructive engagement in 4.9% of user turns"
 id: everyday-llm-use-engagement-prevalence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

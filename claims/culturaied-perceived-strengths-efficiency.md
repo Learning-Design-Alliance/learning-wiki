@@ -3,7 +3,7 @@ type: claim
 title: "Teachers valued CulturAIEd's demographic integration, customization, and rubric feedback as highly efficient"
 description: "Teachers valued CulturAIEd's demographic integration, customization, and rubric feedback as highly efficient"
 id: culturaied-perceived-strengths-efficiency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "Signaling principle: highlighting essential words improves transfer from multimedia lessons"
 description: "Signaling principle: highlighting essential words improves transfer from multimedia lessons"
 id: signaling-principle-mayer-2008
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

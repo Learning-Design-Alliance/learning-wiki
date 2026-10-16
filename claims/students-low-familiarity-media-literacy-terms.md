@@ -3,7 +3,7 @@ type: claim
 title: University students in Communication and Education programs show low familiarity with media literacy, media education, and educommunication terms
 description: University students in Communication and Education programs show low familiarity with media literacy, media education, and educommunication terms
 id: students-low-familiarity-media-literacy-terms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

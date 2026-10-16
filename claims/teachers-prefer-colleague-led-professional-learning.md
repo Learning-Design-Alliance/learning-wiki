@@ -3,7 +3,7 @@ type: claim
 title: Teachers prefer professional learning led by their colleagues over training from outside consultants
 description: Teachers prefer professional learning led by their colleagues over training from outside consultants
 id: teachers-prefer-colleague-led-professional-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

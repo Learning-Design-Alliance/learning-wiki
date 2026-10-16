@@ -3,7 +3,7 @@ type: strategy
 id: low-stress-tbl-implementation-changes
 title: Reduce stakes, align question difficulty with exams, and add game-like feedback when implementing TBL to lower student stress
 description: "When extending TBL to a new program, the authors made three changes: reduced the TBL grade contribution from 29% to 2%, cognitively aligned TBL questions with unit exams, and used scratch-off IF-AT cards for instantan..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

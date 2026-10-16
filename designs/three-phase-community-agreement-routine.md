@@ -3,7 +3,7 @@ type: design
 id: three-phase-community-agreement-routine
 title: "Three-phase community agreement instructional routine: establishing, enacting, and revisiting CAs"
 description: "The article organizes CoBi around a routine in which \"students establish, enact, and revisit CAs, occurring before, during, and after collaborative learning activities, respectively.\" Establishing introduces four CA c..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

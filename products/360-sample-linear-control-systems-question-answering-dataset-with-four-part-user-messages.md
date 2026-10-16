@@ -4,7 +4,7 @@ id: 360-sample-linear-control-systems-question-answering-dataset-with-four-part-
 title: 360-sample Linear Control Systems question-answering dataset with four-part user messages and Solution-Method-Teaching Points reference answers
 description: A supervised fine-tuning dataset of 360 standardized chat-style question-answer samples for upper-level Linear Control Systems education, created by Shaowen Lu et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

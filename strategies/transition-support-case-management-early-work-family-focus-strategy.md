@@ -3,7 +3,7 @@ type: strategy
 id: transition-support-case-management-early-work-family-focus-strategy
 title: Support youth with disabilities in transition through intensive case management, early work experiences, and a family focus
 description: "The article presents PROMISE's approach to supporting SSI youth during the transition to adulthood as a model for current initiatives: \"intensive case management, facilitating early work experiences, and a family focu..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

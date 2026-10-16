@@ -3,7 +3,7 @@ type: claim
 title: In the 2010 RCT, LLI produced a statistically significant positive effect on reading fluency for grades 1–2 (effect size 0.27, improvement index +11)
 description: In the 2010 RCT, LLI produced a statistically significant positive effect on reading fluency for grades 1–2 (effect size 0.27, improvement index +11)
 id: lli-2010-positive-reading-fluency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

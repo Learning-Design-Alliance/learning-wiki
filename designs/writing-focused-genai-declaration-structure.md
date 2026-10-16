@@ -3,7 +3,7 @@ type: design
 id: writing-focused-genai-declaration-structure
 title: Writing-focused GenAI declaration structure with six activity categories
 description: "A declaration form for writing-focused activities (e.g., a short literature review on technology and society) organised around six activity categories: Planning & Structure, Textual Content Generation, Research & Anal..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

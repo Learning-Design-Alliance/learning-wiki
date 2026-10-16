@@ -3,7 +3,7 @@ type: strategy
 id: strategic-staffing-residency-stipend-strategy
 title: Strategic staffing models that redirect district instructional-support funds to subsidize paid residency stipends
 description: "Strategic staffing \"redirect district funds, typically for instructional support staff positions like substitute teachers or paraprofessionals, to subsidize residency stipends by having residents fulfill some of these..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

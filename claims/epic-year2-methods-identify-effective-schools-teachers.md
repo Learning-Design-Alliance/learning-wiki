@@ -3,7 +3,7 @@ type: claim
 title: The EPIC project applied a set of methods to identify effective schools and teachers across a multi-state charter school consortium in its second year.
 description: The EPIC project applied a set of methods to identify effective schools and teachers across a multi-state charter school consortium in its second year.
 id: epic-year2-methods-identify-effective-schools-teachers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

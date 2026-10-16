@@ -3,7 +3,7 @@ type: claim
 title: Ethical decision-making about AI emerges as tensions and contradictions negotiated across ecological levels
 description: Ethical decision-making about AI emerges as tensions and contradictions negotiated across ecological levels
 id: ethical-ai-decision-negotiated-across-levels
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: "Too Good for Violence shows a substantively important but not statistically significant effect on students' knowledge, attitudes, and values"
 description: "Too Good for Violence shows a substantively important but not statistically significant effect on students' knowledge, attitudes, and values"
 id: tgv-kav-substantively-important-not-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

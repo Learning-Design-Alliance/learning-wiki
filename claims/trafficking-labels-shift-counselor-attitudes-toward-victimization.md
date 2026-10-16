@@ -3,7 +3,7 @@ type: claim
 title: "Counselors exposed to 'sex trafficking' labels reported more victimization-oriented attitudes than counselors exposed to 'prostitute' labels"
 description: "Counselors exposed to 'sex trafficking' labels reported more victimization-oriented attitudes than counselors exposed to 'prostitute' labels"
 id: trafficking-labels-shift-counselor-attitudes-toward-victimization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

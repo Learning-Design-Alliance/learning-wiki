@@ -3,7 +3,7 @@ type: claim
 title: "Smart Start-funded activities in North Carolina were positively related to classroom quality, which was in turn positively related to children's outcomes"
 description: "Smart Start-funded activities in North Carolina were positively related to classroom quality, which was in turn positively related to children's outcomes"
 id: smart-start-quality-outcomes-link
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

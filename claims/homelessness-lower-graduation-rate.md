@@ -3,7 +3,7 @@ type: claim
 title: "Homelessness is associated with substantially lower 4-year graduation rates (68% vs. 86% for all students)"
 description: "Homelessness is associated with substantially lower 4-year graduation rates (68% vs."
 id: homelessness-lower-graduation-rate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

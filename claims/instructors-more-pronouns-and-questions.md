@@ -3,7 +3,7 @@ type: claim
 title: Instructors use more first-person and second-person pronouns and more questions than LLMs in feedback comments
 description: Instructors use more first-person and second-person pronouns and more questions than LLMs in feedback comments
 id: instructors-more-pronouns-and-questions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

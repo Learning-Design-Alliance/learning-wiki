@@ -3,7 +3,7 @@ type: claim
 title: Replication of ITT estimates holds even when treatment effects differ for compliers and always-takers
 description: Replication of ITT estimates holds even when treatment effects differ for compliers and always-takers
 id: replication-robust-to-heterogeneous-complier-always-taker-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

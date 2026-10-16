@@ -4,7 +4,7 @@ id: scratchjr
 title: ScratchJr
 description: ScratchJr is a tablet-based introductory programming app developed by the DevTech Research Group at Tufts University in collaboration with the MIT Media Lab for young children to create interactive stories and games.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

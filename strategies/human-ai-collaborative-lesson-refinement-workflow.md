@@ -3,7 +3,7 @@ type: strategy
 id: human-ai-collaborative-lesson-refinement-workflow
 title: Use LLM-generated lessons within a human-AI collaborative workflow where educators review and refine AI drafts
 description: A workflow in which AI-generated lesson content serves as a foundational draft that educators and instructional designers iteratively review and refine, with AI handling repetitive, time-intensive drafting tasks while...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Classroom verification norm is predicted to show threshold behavior and hysteresis rather than a smooth response to teacher-set requirements
 description: Classroom verification norm is predicted to show threshold behavior and hysteresis rather than a smooth response to teacher-set requirements
 id: verification-norm-threshold-hysteresis-prediction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

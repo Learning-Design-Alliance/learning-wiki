@@ -3,7 +3,7 @@ type: claim
 title: Elaborative interrogation produced greater pretest-to-posttest gains on items about common misbeliefs than reading control in Experiment 2
 description: Elaborative interrogation produced greater pretest-to-posttest gains on items about common misbeliefs than reading control in Experiment 2
 id: elaborative-interrogation-improves-misbelief-items-pretest-posttest
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

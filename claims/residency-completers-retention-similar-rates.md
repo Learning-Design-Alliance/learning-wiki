@@ -3,7 +3,7 @@ type: claim
 title: Residency-completer principals remained in CPS at similar rates as other principals, with no evidence of differential exit or transfer
 description: Residency-completer principals remained in CPS at similar rates as other principals, with no evidence of differential exit or transfer
 id: residency-completers-retention-similar-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

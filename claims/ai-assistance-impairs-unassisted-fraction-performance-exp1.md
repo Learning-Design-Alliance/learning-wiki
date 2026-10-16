@@ -3,7 +3,7 @@ type: claim
 title: In a randomized experiment on fraction problems, participants who used an AI assistant solved fewer unassisted test problems and skipped more than control participants
 description: In a randomized experiment on fraction problems, participants who used an AI assistant solved fewer unassisted test problems and skipped more than control participants
 id: ai-assistance-impairs-unassisted-fraction-performance-exp1
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: L2 oral language proficiency predicts reading comprehension more strongly than decoding skills
 description: L2 oral language proficiency predicts reading comprehension more strongly than decoding skills
 id: oral-proficiency-predicts-l2-reading-comprehension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

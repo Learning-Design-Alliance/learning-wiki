@@ -3,7 +3,7 @@ type: strategy
 id: explore-fidelity-barriers-embed-criteria-in-policy
 title: District and school leaders explore barriers to high-fidelity implementation of attendance supports and embed fidelity criteria in attendance policy
 description: The report recommends that leaders identify why schools fail to meet district fidelity criteria and communicate guidance to raise fidelity.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

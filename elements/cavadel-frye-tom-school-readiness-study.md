@@ -3,7 +3,7 @@ type: element
 id: cavadel-frye-tom-school-readiness-study
 title: Short-term longitudinal study of theory of mind and school readiness in 120 low-income children
 description: "A short-term longitudinal study of \"120 low-income preschool and kindergarten children\" examining \"relations among theory of mind, the understanding of teaching, and learning behaviors and their collective role in chi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

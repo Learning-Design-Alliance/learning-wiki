@@ -3,7 +3,7 @@ type: claim
 title: "The iCub storytelling system achieved 88% trial success and 86% VLM sticker-description agreement, with the LLM adding to human contributions in 8% of trials and never correcting them"
 description: "The iCub storytelling system achieved 88% trial success and 86% VLM sticker-description agreement, with the LLM adding to human contributions in 8% of trials and never correcting them"
 id: icub-storytelling-system-success-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

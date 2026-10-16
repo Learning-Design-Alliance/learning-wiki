@@ -3,7 +3,7 @@ type: claim
 title: The percentage of students in the targeted Harlem Fitness Zone was significantly greater after two and three years of participation than at baseline
 description: The percentage of students in the targeted Harlem Fitness Zone was significantly greater after two and three years of participation than at baseline
 id: healthy-harlem-hfz-percentage-greater-than-baseline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

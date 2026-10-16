@@ -3,7 +3,7 @@ type: claim
 title: Chicago high school graduation rates improved dramatically over 20 years without a decline in average high school academic performance
 description: Chicago high school graduation rates improved dramatically over 20 years without a decline in average high school academic performance
 id: cps-graduation-rates-improved-without-performance-decline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: element
 id: adaptive-systems-calibrate-zpd
 title: Adaptive learning systems that calibrate tasks to the zone of proximal development
 description: The paper names adaptive learning systems as technology supporting the level dimension of personalization.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

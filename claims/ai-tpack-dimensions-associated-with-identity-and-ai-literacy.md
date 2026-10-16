@@ -3,7 +3,7 @@ type: claim
 title: "AI-TPACK dimensions are significantly and positively associated with college teachers' professional identity and AI literacy"
 description: "AI-TPACK dimensions are significantly and positively associated with college teachers' professional identity and AI literacy"
 id: ai-tpack-dimensions-associated-with-identity-and-ai-literacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

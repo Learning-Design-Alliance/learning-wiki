@@ -3,7 +3,7 @@ type: element
 id: nwea-webinar-covid-recovery-esser-learning
 title: NWEA Research webinar presentation on district learning from ESSER interventions
 description: A November 2021 NWEA Research webinar presentation by David Brackett, Jacob Cortez, Dan Goldhaber and Emily Morton on COVID recovery in schools.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

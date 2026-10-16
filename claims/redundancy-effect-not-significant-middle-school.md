@@ -3,7 +3,7 @@ type: claim
 title: "In one middle-school quasi-experiment, adding written text to spoken narration makes no significant difference to achievement with either abstract or concrete animation"
 description: "In one middle-school quasi-experiment, adding written text to spoken narration makes no significant difference to achievement with either abstract or concrete animation"
 id: redundancy-effect-not-significant-middle-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

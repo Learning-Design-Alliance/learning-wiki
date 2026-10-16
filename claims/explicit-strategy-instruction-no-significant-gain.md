@@ -3,7 +3,7 @@ type: claim
 title: Three weeks of explicit language-focused strategy instruction produced no significant word-problem gain in this study
 description: Three weeks of explicit language-focused strategy instruction produced no significant word-problem gain in this study
 id: explicit-strategy-instruction-no-significant-gain
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

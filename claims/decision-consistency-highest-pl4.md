@@ -3,7 +3,7 @@ type: claim
 title: Decision consistency between the ELPAC and SBAC ELA is highest at ELPAC overall PL 4 in all grades and both analysis years
 description: Decision consistency between the ELPAC and SBAC ELA is highest at ELPAC overall PL 4 in all grades and both analysis years
 id: decision-consistency-highest-pl4
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Coaching dosage shows precisely estimated null effects: more coaching hours are not associated with larger program effects"
 description: "Coaching dosage shows precisely estimated null effects: more coaching hours are not associated with larger program effects"
 id: coaching-dosage-null-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

@@ -3,7 +3,7 @@ type: design
 id: cross-device-flipped-genai-design-platform
 title: Cross-device learning platform with Course, Gallery, and GenAI modules for flipped studio preparation
 description: A responsive website developed to support pre-class learning, studio readiness, and early-stage visual ideation in an undergraduate knit yarn design course, accessible on desktop and mobile devices.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

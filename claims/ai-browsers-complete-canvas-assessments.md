@@ -3,7 +3,7 @@ type: claim
 title: AI browsers completed Canvas quizzes and provided answer keys when tested on university assessments
 description: AI browsers completed Canvas quizzes and provided answer keys when tested on university assessments
 id: ai-browsers-complete-canvas-assessments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

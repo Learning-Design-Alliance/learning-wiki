@@ -3,7 +3,7 @@ type: claim
 title: Updated 2025 MAP Growth screening thresholds are set at the 35th percentile with adjustments for the Enhanced Item-Selection Algorithm
 description: Updated 2025 MAP Growth screening thresholds are set at the 35th percentile with adjustments for the Enhanced Item-Selection Algorithm
 id: map-growth-2025-thresholds-35th-percentile-eisa
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

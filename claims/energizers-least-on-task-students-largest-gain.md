@@ -3,7 +3,7 @@ type: claim
 title: "The least on-task students show the largest improvement after Energizers activities, improving on-task behavior by 20%"
 description: "The least on-task students show the largest improvement after Energizers activities, improving on-task behavior by 20%"
 id: energizers-least-on-task-students-largest-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

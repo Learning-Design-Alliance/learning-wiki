@@ -3,7 +3,7 @@ type: claim
 title: "ChatGPT answered unsupervised web-based MCQ assessments with a mean accuracy of 70% (range 35–100%)"
 description: "ChatGPT answered unsupervised web-based MCQ assessments with a mean accuracy of 70% (range 35–100%)"
 id: chatgpt-wba-mcq-mean-70-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

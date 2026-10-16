@@ -3,7 +3,7 @@ type: claim
 title: Strongly organized ECE programs create contexts more supportive of teaching, learning, and family engagement than weakly organized programs
 description: Strongly organized ECE programs create contexts more supportive of teaching, learning, and family engagement than weakly organized programs
 id: strong-essentials-programs-more-supportive-contexts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

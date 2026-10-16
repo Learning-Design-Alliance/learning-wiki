@@ -3,7 +3,7 @@ type: strategy
 id: submit-debugging-trace-alongside-final-solution-workflow
 title: "Classroom workflow: publish a debugging task, have students run an Evaluation session, and review the exported report and trace alongside the final solution"
 description: "The article describes a lightweight classroom workflow: an instructor publishes a debugging task with its source, tests, and any custom test-command patterns; students open it in VS Code, run an Evaluation session, de..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

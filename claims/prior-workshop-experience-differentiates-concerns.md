@@ -3,7 +3,7 @@ type: claim
 title: "Anticipating a workshop versus having prior workshop experience differentiates teachers' concern profiles"
 description: "Anticipating a workshop versus having prior workshop experience differentiates teachers' concern profiles"
 id: prior-workshop-experience-differentiates-concerns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

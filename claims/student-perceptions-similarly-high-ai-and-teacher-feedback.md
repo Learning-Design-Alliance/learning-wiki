@@ -3,7 +3,7 @@ type: claim
 title: "Students' perceptions of mastery, emotions, and satisfaction were similarly high across all three feedback conditions"
 description: "Students' perceptions of mastery, emotions, and satisfaction were similarly high across all three feedback conditions"
 id: student-perceptions-similarly-high-ai-and-teacher-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

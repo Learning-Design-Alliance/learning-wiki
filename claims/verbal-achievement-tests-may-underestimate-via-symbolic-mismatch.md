@@ -3,7 +3,7 @@ type: claim
 title: "Typical verbal achievement tests may underestimate students' subject-matter knowledge because of a mismatch between the test's symbolic form and students' symbolic encoding"
 description: "Typical verbal achievement tests may underestimate students' subject-matter knowledge because of a mismatch between the test's symbolic form and students' symbolic encoding"
 id: verbal-achievement-tests-may-underestimate-via-symbolic-mismatch
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -52,3 +52,4 @@ Theoretical argument advanced in the review's problem statement: because instruc
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — related
 - [Dahmus Method students translated phrases successfully but failed to combine them into a single solution equation](dahmus-students-translate-but-no-single-equation.md) — a narrower finding that bears on this claim
 - [Demanding excellence for the many rather than the few is questionable, and academic excellence defined as test success is too narrow](excellence-for-all-questionable.md) — related
+- [Learning with multiple representations imposes high demands and often fails to produce expected results because learners do not integrate the representations](multi-representational-learning-integration-failure.md) — related

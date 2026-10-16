@@ -3,7 +3,7 @@ type: element
 id: realistic-videotape-gender-constancy-method
 title: Realistic videotape gender-constancy assessment method
 description: "An assessment method in which children are videotaped playing with opposite-sex-typed toys and wearing opposite-sex clothing, then shown the tapes two weeks later and asked whether the referent is \"REALLY a boy or a g..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Student-level and school-level demographic characteristics significantly predict middle school academic trajectories toward college readiness
 description: Student-level and school-level demographic characteristics significantly predict middle school academic trajectories toward college readiness
 id: demographics-predict-college-readiness-trajectories
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: element
 id: reflective-journal-interview-flca-instruments
 title: Reflective written journal plus semi-structured interview data collection instruments
 description: "The study used two data collection instruments: a one A4 page reflective written journal completed before the interview, and a one-hour semi-structured interview per participant."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

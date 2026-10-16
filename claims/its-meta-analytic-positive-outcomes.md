@@ -3,7 +3,7 @@ type: claim
 title: Meta-analytic evidence indicates intelligent tutoring systems yield positive learning outcomes compared with non-ITS conditions
 description: Meta-analytic evidence indicates intelligent tutoring systems yield positive learning outcomes compared with non-ITS conditions
 id: its-meta-analytic-positive-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -47,3 +47,4 @@ The review attributes this secondhand to Ma et al. (2014); the underlying meta-a
 - [Intelligent tutoring systems can improve learning outcomes, particularly with immediate actionable feedback](its-improve-learning-outcomes-with-actionable-feedback.md) — related
 - [Intelligent tutoring systems are reported to improve learning outcomes, especially in structured knowledge domains](its-improve-outcomes-structured-domains.md) — related
 - [AutoTutor achieved learning gains comparable to human tutors in physics and computer literacy](autotutor-learning-gains-comparable-human-tutors.md) — a narrower finding that bears on this claim
+- [Intelligent tutoring systems show moderate learning benefits but are less effective than human tutoring](its-moderate-effect-less-than-human-tutoring.md) — possibly the same claim (merge candidate)

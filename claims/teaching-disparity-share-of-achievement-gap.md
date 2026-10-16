@@ -3,7 +3,7 @@ type: claim
 title: One year of teaching-effectiveness differences is estimated to represent 4 percent of the existing reading achievement gap and 2 to 3 percent of the math gap
 description: One year of teaching-effectiveness differences is estimated to represent 4 percent of the existing reading achievement gap and 2 to 3 percent of the math gap
 id: teaching-disparity-share-of-achievement-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

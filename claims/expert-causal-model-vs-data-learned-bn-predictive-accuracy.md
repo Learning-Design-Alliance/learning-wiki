@@ -3,7 +3,7 @@ type: claim
 title: Expert-elicited causal model is compatible with observed data but slightly less predictive than a data-learned Bayesian network
 description: Expert-elicited causal model is compatible with observed data but slightly less predictive than a data-learned Bayesian network
 id: expert-causal-model-vs-data-learned-bn-predictive-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

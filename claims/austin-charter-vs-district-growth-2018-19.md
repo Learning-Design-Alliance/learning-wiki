@@ -3,7 +3,7 @@ type: claim
 title: Austin charter schools outperformed Austin district schools in reading growth but not significantly in math
 description: Austin charter schools outperformed Austin district schools in reading growth but not significantly in math
 id: austin-charter-vs-district-growth-2018-19
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

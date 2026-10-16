@@ -3,7 +3,7 @@ type: claim
 title: "Graduate seminars with hands-on generative AI use and reflection increased students' comfort with AI and ability to critically assess AI outputs"
 description: "Graduate seminars with hands-on generative AI use and reflection increased students' comfort with AI and ability to critically assess AI outputs"
 id: hands-on-genai-seminars-raise-critical-assessment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

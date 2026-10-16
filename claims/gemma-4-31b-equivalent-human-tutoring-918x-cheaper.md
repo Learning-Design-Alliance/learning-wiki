@@ -3,7 +3,7 @@ type: claim
 title: Six AI tutors individually matched human tutoring, with Gemma 4 31B equivalent at 918× lower cost per percentage point of learning gain
 description: Six AI tutors individually matched human tutoring, with Gemma 4 31B equivalent at 918× lower cost per percentage point of learning gain
 id: gemma-4-31b-equivalent-human-tutoring-918x-cheaper
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

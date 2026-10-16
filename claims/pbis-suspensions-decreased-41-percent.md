@@ -3,7 +3,7 @@ type: claim
 title: "Out-of-school suspensions decreased 41% at a middle school implementing PBIS under the TEAM Student framework"
 description: "Out-of-school suspensions decreased 41% at a middle school implementing PBIS under the TEAM Student framework"
 id: pbis-suspensions-decreased-41-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

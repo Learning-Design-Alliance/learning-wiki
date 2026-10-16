@@ -3,7 +3,7 @@ type: design
 id: gen-aitecture-comfyui-inpainting-workflow
 title: "Gen-AI-tecture: a bespoke, locally run ComfyUI generative-AI image creation and editing workflow for architectural education"
 description: A bespoke generative-AI image workflow implemented as a localised ComfyUI environment in which students upload or select images, describe changes in natural language, and receive multiple visual alternatives.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

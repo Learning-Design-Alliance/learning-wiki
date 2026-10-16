@@ -3,7 +3,7 @@ type: claim
 title: Spoken–written advantages are larger for retention outcomes and multiple-choice test formats than for transfer or mixed formats
 description: Spoken–written advantages are larger for retention outcomes and multiple-choice test formats than for transfer or mixed formats
 id: outcome-constructs-test-formats-moderate-redundancy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

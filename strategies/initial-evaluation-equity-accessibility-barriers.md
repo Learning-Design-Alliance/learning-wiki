@@ -3,7 +3,7 @@ type: strategy
 id: initial-evaluation-equity-accessibility-barriers
 title: During initial evaluation, investigate legal compliance, equity, accessibility, and context-specific barriers
 description: "In the initial evaluation stage, the framework directs decision makers to check compliance with FERPA, PPRA, CIPA, HIPAA, and COPPA; to \"ensure emerging technologies are equitable for all students by cultivating a cul..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

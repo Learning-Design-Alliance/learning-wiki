@@ -3,7 +3,7 @@ type: strategy
 id: sustainable-feedback-and-community-partners-in-aa
 title: Design sustainable, future-oriented feedback and structured community-partner collaboration in authentic assessment
 description: "Drawing on the review's gaps, the authors recommend that educators design feedback that emphasises the learning process and self-regulation, fostering students' evaluative judgement and application of knowledge over t..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

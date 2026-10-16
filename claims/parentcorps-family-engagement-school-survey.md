@@ -3,7 +3,7 @@ type: claim
 title: ParentCorps improves family engagement measures (Inclusive Leadership, Trust in School Leader, Communication and Trust in Teacher) in a 61-school trial
 description: ParentCorps improves family engagement measures (Inclusive Leadership, Trust in School Leader, Communication and Trust in Teacher) in a 61-school trial
 id: parentcorps-family-engagement-school-survey
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

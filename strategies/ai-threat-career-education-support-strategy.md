@@ -3,7 +3,7 @@ type: strategy
 id: ai-threat-career-education-support-strategy
 title: Combine accurate AI labor-market information, employability-building activities, and growth-oriented career support for students facing AI employment threat
 description: "The article recommends that universities help students develop \"a more accurateappraisal of AI-related career change\" by providing occupation- and major-specific information about which tasks are exposed to automation..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: match-decision-rule-to-gender-composition
 title: Match decision rule to gender composition when convening deliberative groups
 description: "This implementable recipe follows from the article's interaction finding: when few women participate, use unanimous rule; when many women participate, majority rule preserves their voice and authority."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

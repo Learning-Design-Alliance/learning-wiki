@@ -3,7 +3,7 @@ type: claim
 title: EBT practice enactment is positively associated with residualized student learning on the BASIC assessment (r = 0.315).
 description: EBT practice enactment is positively associated with residualized student learning on the BASIC assessment (r = 0.315).
 id: ebt-enactment-residualized-learning-correlation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

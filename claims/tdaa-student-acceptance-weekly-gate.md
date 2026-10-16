@@ -3,7 +3,7 @@ type: claim
 title: Students in a 13-week lecture-free course reported accepting the weekly closed-book gate and rated the format as deeper and faster than lectures
 description: Students in a 13-week lecture-free course reported accepting the weekly closed-book gate and rated the format as deeper and faster than lectures
 id: tdaa-student-acceptance-weekly-gate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

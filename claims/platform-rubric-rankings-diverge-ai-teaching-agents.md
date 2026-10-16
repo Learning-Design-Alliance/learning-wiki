@@ -3,7 +3,7 @@ type: claim
 title: Platform-generated scores and rubric-based teaching quality produced substantially divergent rankings of the same AI teaching agents
 description: Platform-generated scores and rubric-based teaching quality produced substantially divergent rankings of the same AI teaching agents
 id: platform-rubric-rankings-diverge-ai-teaching-agents
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

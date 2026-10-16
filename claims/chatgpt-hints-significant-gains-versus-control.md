@@ -3,7 +3,7 @@ type: claim
 title: Learners receiving ChatGPT-generated hints showed statistically significant learning gains compared to a no-hint control in an online mathematics tutoring experiment
 description: Learners receiving ChatGPT-generated hints showed statistically significant learning gains compared to a no-hint control in an online mathematics tutoring experiment
 id: chatgpt-hints-significant-gains-versus-control
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -46,3 +46,4 @@ Randomized online experiment (N = 274 Mechanical Turk participants) with a 3x4 d
 - [Learning gains showed significant main effects of hint condition and subject, with no significant condition-by-subject interaction](condition-subject-main-effects-no-interaction.md) — a broader claim this one bears on
 - [Students who teach a ChatGPT teachable agent in natural language achieve greater knowledge gains than students who learn the same material from online videos](chatgpt-teachable-agent-knowledge-gains.md) — related
 - [AI multimodal feedback produces post-test learning gains equivalent to educator feedback after controlling for pre-test performance](ai-multimodal-feedback-equivalent-learning-gains.md) — related
+- [Students receiving instructor feedback showed significantly greater improvements in lab assignment scores than students receiving AI-generated feedback, after controlling for initial knowledge](instructor-feedback-greater-lab-score-improvements-than-ai-feedback.md) — related

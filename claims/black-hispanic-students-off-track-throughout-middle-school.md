@@ -3,7 +3,7 @@ type: claim
 title: Higher proportions of Black and Hispanic students than White and Asian students are off-track for college readiness throughout middle school
 description: Higher proportions of Black and Hispanic students than White and Asian students are off-track for college readiness throughout middle school
 id: black-hispanic-students-off-track-throughout-middle-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -2,7 +2,7 @@
 type: theory
 title: Eight-element systems model for competency-based staff development in adult education
 description: The project used a simplified systems model, shown in Figure 1, to structure competency-based staff development.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

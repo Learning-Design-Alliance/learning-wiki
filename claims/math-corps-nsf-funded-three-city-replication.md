@@ -3,7 +3,7 @@ type: claim
 title: An NSF-funded replication of Math Corps operated in three new cities across summers 2017–2019 with independent evaluation
 description: An NSF-funded replication of Math Corps operated in three new cities across summers 2017–2019 with independent evaluation
 id: math-corps-nsf-funded-three-city-replication
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

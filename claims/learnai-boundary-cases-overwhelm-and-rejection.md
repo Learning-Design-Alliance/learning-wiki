@@ -3,7 +3,7 @@ type: claim
 title: "Boundary cases: at least one non-technical client felt overwhelmed by multi-tool complexity, and a subset of surveyed students deliberately rejected AI use, framing the framework as serving the tentatively open"
 description: "Boundary cases: at least one non-technical client felt overwhelmed by multi-tool complexity, and a subset of surveyed students deliberately rejected AI use, framing the framework as serving the tentatively open"
 id: learnai-boundary-cases-overwhelm-and-rejection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

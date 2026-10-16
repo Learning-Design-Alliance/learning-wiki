@@ -3,7 +3,7 @@ type: strategy
 id: study-funding-structures-behavioral-health-collaboration
 title: Continue studying alternative funding structures for behavioral health improvement efforts to identify which best promote cross-sector collaboration and student benefit
 description: "The brief's conclusion recommends that California's differing funding mechanisms for behavioral health improvement be evaluated."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

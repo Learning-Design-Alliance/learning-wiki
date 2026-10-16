@@ -3,7 +3,7 @@ type: claim
 title: "Evidence types differ systematically in probative value: detection outputs cluster at weak inferential force while admissions, observed exam behaviour and fabricated references carry the strongest profiles"
 description: "Evidence types differ systematically in probative value: detection outputs cluster at weak inferential force while admissions, observed exam behaviour and fabricated references carry the strongest profiles"
 id: evidence-types-differ-in-probative-value
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

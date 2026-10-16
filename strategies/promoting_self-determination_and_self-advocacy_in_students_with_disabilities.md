@@ -66,7 +66,7 @@ Self-determination instruction applies [Self-Determination Theory](../theories/s
 
 ## Examples
 - **Student-led IEP meetings** (e.g., the *I'm Determined* project, Virginia Department of Education, https://www.imdetermined.org): students create "one-pagers" describing their strengths and needs, then present and lead their own eligibility and transition meetings.
-- **Self-Determined Learning Model of Instruction (SDLMI)**: a teacher-implemented coaching model in which students answer questions to set a goal, build an action plan, and self-evaluate progress; validated across disability categories.
+- **[Self-Determined Learning Model of Instruction](../products/self-determined-learning-model-of-instruction.md) (SDLMI)**: a teacher-implemented coaching model in which students answer questions to set a goal, build an action plan, and self-evaluate progress; validated across disability categories.
 - **Postsecondary transition programs** such as Think College (https://thinkcollege.net) embed self-advocacy instruction so students learn to disclose and negotiate accommodations themselves rather than relying on case managers.
 
 ## Key Sources

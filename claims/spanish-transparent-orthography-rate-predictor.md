@@ -3,7 +3,7 @@ type: claim
 title: In Spanish, decoding accuracy is typically established earlier, after which rate becomes a more sensitive predictor of passage comprehension
 description: In Spanish, decoding accuracy is typically established earlier, after which rate becomes a more sensitive predictor of passage comprehension
 id: spanish-transparent-orthography-rate-predictor
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

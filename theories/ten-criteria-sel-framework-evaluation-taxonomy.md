@@ -2,7 +2,7 @@
 type: theory
 title: "Ten-criteria taxonomy for evaluating SEL frameworks: five conceptual-clarity and five implementation-support criteria"
 description: "The Assessment Work Group's frameworks brief defines a two-part taxonomy for judging SEL frameworks."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

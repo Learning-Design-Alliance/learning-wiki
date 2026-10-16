@@ -3,7 +3,7 @@ type: strategy
 id: individualized-performance-criteria-replace-grades
 title: Individualize instruction with performance-oriented materials and behavioral objectives, replacing grades with performance criteria
 description: The report recommends organizing instructional materials so each learner proceeds in his own style and at his own pace, with materials that are performance-oriented and based on concisely-stated behavioral objectives.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

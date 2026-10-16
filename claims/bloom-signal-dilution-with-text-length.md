@@ -3,7 +3,7 @@ type: claim
 title: Model accuracy on Bloom classification drops with question text length, with LLMs degrading least
 description: Model accuracy on Bloom classification drops with question text length, with LLMs degrading least
 id: bloom-signal-dilution-with-text-length
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

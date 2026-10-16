@@ -4,7 +4,7 @@ title: "Average achievement and adjusted average achievement provide no informat
 description: "Average achievement and adjusted average achievement provide no information for predicting principals' contributions to student achievement in the following year"
 id: average-achievement-measures-no-predictive-info-principal-impacts
 aliases: [average-achievement-measures-no-predictive-information-principals]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

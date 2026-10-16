@@ -3,7 +3,7 @@ type: claim
 title: Grow use is consistently greater in predominantly African-American schools across Chicago
 description: Grow use is consistently greater in predominantly African-American schools across Chicago
 id: greater-grow-use-african-american-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

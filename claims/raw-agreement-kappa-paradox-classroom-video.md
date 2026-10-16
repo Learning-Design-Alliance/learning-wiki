@@ -3,7 +3,7 @@ type: claim
 title: "In classroom video labeling, high raw agreement (often exceeding 90%) co-occurred with low chance-corrected κ due to temporal misalignment"
 description: "In classroom video labeling, high raw agreement (often exceeding 90%) co-occurred with low chance-corrected κ due to temporal misalignment"
 id: raw-agreement-kappa-paradox-classroom-video
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

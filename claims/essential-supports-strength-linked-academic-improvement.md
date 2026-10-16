@@ -3,7 +3,7 @@ type: claim
 title: Schools strong in the five essential supports are more likely to improve academically
 description: Schools strong in the five essential supports are more likely to improve academically
 id: essential-supports-strength-linked-academic-improvement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

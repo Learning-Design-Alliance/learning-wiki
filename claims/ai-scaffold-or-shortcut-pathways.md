@@ -3,7 +3,7 @@ type: claim
 title: "Students' generative AI use may function either as a scaffold supporting thinking or as a shortcut bypassing essential cognitive processes"
 description: "Students' generative AI use may function either as a scaffold supporting thinking or as a shortcut bypassing essential cognitive processes"
 id: ai-scaffold-or-shortcut-pathways
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

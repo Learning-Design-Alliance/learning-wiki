@@ -3,7 +3,7 @@ type: claim
 title: Student test-taking disengagement on remotely administered adaptive interim assessments differs from disengagement on the same assessment administered in school
 description: Student test-taking disengagement on remotely administered adaptive interim assessments differs from disengagement on the same assessment administered in school
 id: remote-interim-testing-disengagement-differs-from-in-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

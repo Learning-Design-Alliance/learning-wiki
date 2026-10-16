@@ -3,7 +3,7 @@ type: strategy
 id: evaluate-ai-sp-with-endpoint-and-process-outcomes
 title: Evaluate AI standardized patient systems with both endpoint and process-sensitive outcomes
 description: "The article recommends that \"Future evaluations of LLM-based simulated patient systems should therefore include both endpoint and process-sensitive outcomes.\" Diagnostic correctness should be complemented by measures..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -50,4 +50,4 @@ The article recommends that "Future evaluations of LLM-based simulated patient s
 -
 
 ## Key Sources
-- Yang, L., Liu, H., Li, S., Jia, R., Xiao, Y., Chen, G., & Lu, L. (2026). Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training. https://arxiv.org/abs/2609.10939
+- Yang, L., Liu, H., Li, S., Jia, R., Xiao, Y., Chen, G., & Lu, L. (2026). Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training. https://arxiv.org/abs/2609.10939. [doi:10.48550/arxiv.2609.10939](https://doi.org/10.48550/arxiv.2609.10939)

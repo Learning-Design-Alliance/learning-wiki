@@ -3,7 +3,7 @@ type: claim
 title: The SWPBIS effect on the responding-to-behavioral-violations subscale was significant only when comparing Year 1 and Year 4
 description: The SWPBIS effect on the responding-to-behavioral-violations subscale was significant only when comparing Year 1 and Year 4
 id: swpbis-behavioral-violations-subscale-mixed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

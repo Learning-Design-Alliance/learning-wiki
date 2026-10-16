@@ -4,7 +4,7 @@ id: socratic-circles
 title: Socratic Circles
 description: An open educational curriculum package developed by the RCS Core Team comprising professional-development modules, a classroom guidebook, and Community Socratic Circle materials for facilitating text- and question-centered discussions.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
@@ -35,7 +35,7 @@ An open educational curriculum package developed by the RCS Core Team comprising
 -
 
 ## Key Sources
-- Johnson, A. M., & Lenderman, K. (2023). Socratic Circles: Building OER Tools for Racial Equity Classroom and Community Discourse. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.org/inclusive-innovation
+- Johnson, A. M., & Lenderman, K. (2023). Socratic Circles: Building OER Tools for Racial Equity Classroom and Community Discourse. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.org/inclusive-innovation. [doi:10.51388/20.500.12265/200](https://doi.org/10.51388/20.500.12265/200)
 
 <!-- merged 2026-10-10 from elements/socratic-circles-oer-suite ("Socratic Circles OER suite: professional development modules, classroom guidebook, and Community Socratic Circle materials"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -82,5 +82,5 @@ The RCS Core Team developed Open Educational Resources centering a Socratic Circ
 - [Prepare teachers and students with awareness, vocabulary, and facilitation knowledge before implementing Socratic Circles](../strategies/prepare-teachers-students-before-socratic-circles.md)
 
 ## Key Sources
-- Johnson, A. M., & Lenderman, K. (2023). Socratic Circles: Building OER Tools for Racial Equity Classroom and Community Discourse. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.org/inclusive-innovation
+- Johnson, A. M., & Lenderman, K. (2023). Socratic Circles: Building OER Tools for Racial Equity Classroom and Community Discourse. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.org/inclusive-innovation. [doi:10.51388/20.500.12265/200](https://doi.org/10.51388/20.500.12265/200)
 -->

@@ -3,7 +3,7 @@ type: claim
 title: "Prompting strategies differ by bug source: natural bugs elicit specification-oriented strategies while injected bugs elicit guidance-oriented strategies"
 description: "Prompting strategies differ by bug source: natural bugs elicit specification-oriented strategies while injected bugs elicit guidance-oriented strategies"
 id: prompting-strategies-differ-by-bug-source
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -47,9 +47,11 @@ work is done, not that the check is broken.
 - **`classify_doi`'s `error` status is not `wrong_paper`.** A failed lookup means Crossref
   was unreachable. Stripping on `error` deletes good DOIs from every page touched during an
   outage.
-- **Unenriched claim pages are `status: draft`, and lint's DOI check skips drafts.** This is
-  deliberate, and matches how `check_draft_no_description` and `check_stable_unverified`
-  already work. Do not "fix" it by promoting those pages to `review`.
+- **No content page is `status: draft` any more** (maintainer, 2026-10-15: "we've moved past that stage").
+  Every page was promoted to `review`, and ingest, settling and enrichment now write `review`. `draft`
+  is kept only for a genuine skeleton that a CSV import or `enrich.py` stub has not yet filled. `review`
+  means model-written and not checked by a person; `stable` still needs a `verified:` entry. Lint's DOI
+  check skips drafts, so with no drafts left it applies to every claim.
 - **Links to filenames containing parentheses need the `<...>` form.** A bare destination
   closes at the first `)`. `scripts/fix_links.py --apply` repairs them; lint's
   `link_needs_angle_brackets` catches new ones.
@@ -2248,6 +2250,6 @@ from 143/22/22 to 149/149/143.
 - When a CSV field lists multiple items separated by commas or semicolons, expand each into a list item
 - When a field references another page by name (e.g., "Cognitive Load Theory"), convert it to a markdown link using the slugified name: `[Cognitive Load Theory](../theories/cognitive-load-theory.md)`
 - When research support / impact fields contain citations, extract them into `## Key Sources` (and, once parsed, the frontmatter `sources:` list) and create or link `sources/` pages
-- Mark pages `status: draft` on initial ingest; a human or a lint pass can promote to `review` or `stable`
+- Mark pages `status: review` on ingest (no page stays draft since 2026-10-15); only a person's `verified:` entry makes a page `stable`
 - Never delete content on update — move superseded content to a `<!-- deprecated -->` comment block
 - Never write a raw, un-slugified name straight into a file path — a name containing `/` (e.g. "Stand Up / Sit Down") will be interpreted as a subdirectory separator. Always pass names through `slugify()` before joining them into a path.

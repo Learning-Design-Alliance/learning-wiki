@@ -3,7 +3,7 @@ type: element
 id: district-summer-reading-rct-example
 title: Real district example of an RCT on a summer reading program
 description: "As an illustrative case, the guide includes \"a real life example of how one district took advantage of an opportunity to learn whether a summer reading program worked.\" The example shows leaders how an opportunistic R..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

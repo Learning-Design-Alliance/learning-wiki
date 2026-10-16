@@ -3,7 +3,7 @@ type: claim
 title: In schools that eliminated classroom disorder out-of-school suspensions, peer math achievement and attendance were unaffected
 description: In schools that eliminated classroom disorder out-of-school suspensions, peer math achievement and attendance were unaffected
 id: full-implementation-schools-peer-outcomes-unaffected
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

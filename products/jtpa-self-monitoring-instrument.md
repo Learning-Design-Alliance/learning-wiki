@@ -4,7 +4,7 @@ id: jtpa-self-monitoring-instrument
 title: JTPA self-monitoring instrument
 description: A North Carolina State Department of Public Instruction instrument for reviewing Job Training Partnership Act program compliance across administrative, eligibility, training, work-experience, transition, and employment provisions.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

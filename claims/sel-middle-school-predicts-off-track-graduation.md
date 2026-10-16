@@ -3,7 +3,7 @@ type: claim
 title: Middle school social-emotional learning skills predict being off-track to graduate high school
 description: Middle school social-emotional learning skills predict being off-track to graduate high school
 id: sel-middle-school-predicts-off-track-graduation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: eight-recommendations-future-sel-research
 title: Eight research-design recommendations for the next generation of SEL research
 description: "The report recommends eight areas of research conceptualization, design, and analysis for future SEL research: meeting Tier I or II ESSA criteria, seeking large enough samples to detect low-rate events, examining impa..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

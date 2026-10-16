@@ -3,7 +3,7 @@ type: strategy
 id: compare-replaced-principal-schools-to-retained-principal-comparison-schools
 title: Evaluate principal replacement by comparing achievement changes in replaced-principal schools to matched comparison schools that kept the same principal
 description: This evaluation strategy measures the effect of replacing a school principal by comparing changes in student achievement before and after a leadership change against changes over the same period in comparison schools...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

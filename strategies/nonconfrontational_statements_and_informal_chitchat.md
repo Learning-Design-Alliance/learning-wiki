@@ -68,8 +68,8 @@ Door greetings function as proactive classroom management: they pre-correct beha
 - [Class Discussion](../elements/class-discussion.md) — the engaged participation the routine is meant to protect
 
 ## Examples
-- **Positive Greetings at the Door** (Cook et al., 2018): middle school teachers greeted each student by name with a brief personal exchange or pre-correction; treatment classrooms showed roughly 20 additional minutes of academic engaged time per hour versus controls.
-- **Responsive Classroom** (https://www.responsiveclassroom.org) — the "Morning Meeting" greeting ritual applies the same relational-greeting logic at the elementary level, embedded in a broader social-emotional routine.
+- **[Positive Greetings at the Door](positive-greetings-at-the-door.md)** (Cook et al., 2018): middle school teachers greeted each student by name with a brief personal exchange or pre-correction; treatment classrooms showed roughly 20 additional minutes of academic engaged time per hour versus controls.
+- **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveclassroom.org) — the "Morning Meeting" greeting ritual applies the same relational-greeting logic at the elementary level, embedded in a broader social-emotional routine.
 - **Online analogue**: instructors opening a synchronous session by individually welcoming named participants as they join, with a one-line personal comment for students flagged as disengaging.
 
 ## Key Sources

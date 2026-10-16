@@ -3,7 +3,7 @@ type: claim
 title: No statistically significant TFA impacts were found for upper elementary grades (3 through 5) in reading or math or for other examined subgroups
 description: No statistically significant TFA impacts were found for upper elementary grades (3 through 5) in reading or math or for other examined subgroups
 id: tfa-no-significant-impacts-upper-elementary-other-subgroups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

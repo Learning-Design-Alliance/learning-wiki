@@ -3,7 +3,7 @@ type: claim
 title: Literacy Express shows no discernible effects on cognition and math for preschool children
 description: Literacy Express shows no discernible effects on cognition and math for preschool children
 id: literacy-express-no-effects-cognition-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

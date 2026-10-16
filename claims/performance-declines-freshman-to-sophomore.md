@@ -3,7 +3,7 @@ type: claim
 title: Student performance declines from freshman to sophomore year, with course failures rising in every subject and attendance declining sharply
 description: Student performance declines from freshman to sophomore year, with course failures rising in every subject and attendance declining sharply
 id: performance-declines-freshman-to-sophomore
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

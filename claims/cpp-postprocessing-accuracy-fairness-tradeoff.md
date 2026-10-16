@@ -3,7 +3,7 @@ type: claim
 title: Calibrated Equalized Odds Post-processing shows significant accuracy drops and higher EOD compared to preprocessing techniques
 description: Calibrated Equalized Odds Post-processing shows significant accuracy drops and higher EOD compared to preprocessing techniques
 id: cpp-postprocessing-accuracy-fairness-tradeoff
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

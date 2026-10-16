@@ -4,7 +4,7 @@ id: illinois-community-college-board-iccb-data-via-the-illinois-longitudinal-dat
 title: Illinois Community College Board (ICCB) data via the Illinois Longitudinal Data System (ILDS)
 description: A statewide administrative dataset maintained by the Illinois Community College Board and accessed through the Illinois Longitudinal Data System, containing enrollment, credential, program, and credit records for students at Illinois public two-year colleges.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

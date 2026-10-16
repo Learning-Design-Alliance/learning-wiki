@@ -3,7 +3,7 @@ type: strategy
 id: scaffold-question-formulation-ai-help-seeking
 title: Scaffold question formulation and active help-seeking in AI-supported tutoring systems
 description: "Based on observed differences in inquiry behavior, the article recommends that \"AI-supported tutoring systems may benefit from scaffolding mechanisms that en- courage students to formulate questions and engage in more..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

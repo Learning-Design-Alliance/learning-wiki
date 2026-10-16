@@ -3,7 +3,7 @@ type: claim
 title: Students showed more authentic intellectual work in writing than in mathematics
 description: Students showed more authentic intellectual work in writing than in mathematics
 id: authentic-work-greater-in-writing-than-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

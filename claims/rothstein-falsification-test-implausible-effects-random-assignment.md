@@ -3,7 +3,7 @@ type: claim
 title: The Rothstein falsification test generates large and implausible future teacher effects even when students are randomly assigned to classrooms
 description: The Rothstein falsification test generates large and implausible future teacher effects even when students are randomly assigned to classrooms
 id: rothstein-falsification-test-implausible-effects-random-assignment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

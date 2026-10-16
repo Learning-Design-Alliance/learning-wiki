@@ -3,7 +3,7 @@ type: strategy
 id: naep-2024-preferred-recovery-estimates
 title: Use NAEP 2024 results, available January 2025, for better estimates of academic recovery
 description: "The authors recommend waiting for the NAEP Spring 2024 results as the best source on academic recovery, because NAEP \"rely on the same NAEP assessment in 2022 and 2024\" and use \"large, random samples of students that..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

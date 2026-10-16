@@ -3,7 +3,7 @@ type: claim
 title: Positive subject-specific effects of Medly in Physics, Chemistry and Biology, with no evidence the effect differed across subjects
 description: Positive subject-specific effects of Medly in Physics, Chemistry and Biology, with no evidence the effect differed across subjects
 id: medly-positive-effects-all-three-science-subjects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

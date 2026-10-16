@@ -3,7 +3,7 @@ type: claim
 title: The largest improvements in mathematics instruction and learning gains went to students with the lowest tested math scores
 description: The largest improvements in mathematics instruction and learning gains went to students with the lowest tested math scores
 id: largest-gains-lowest-scoring-math-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

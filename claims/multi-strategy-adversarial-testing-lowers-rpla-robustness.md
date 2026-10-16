@@ -3,7 +3,7 @@ type: claim
 title: Multi-strategy adversarial evaluation lowers RPLA robustness scores by 0.174–0.203 points relative to a single-strategy baseline across three personas
 description: Multi-strategy adversarial evaluation lowers RPLA robustness scores by 0.174–0.203 points relative to a single-strategy baseline across three personas
 id: multi-strategy-adversarial-testing-lowers-rpla-robustness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

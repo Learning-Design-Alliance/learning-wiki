@@ -3,7 +3,7 @@ type: claim
 title: Arizona students in foster care attended nontraditional schools at several times the rate of other students, especially in high school
 description: Arizona students in foster care attended nontraditional schools at several times the rate of other students, especially in high school
 id: foster-care-nontraditional-school-enrollment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: design-agentic-ai-platforms-for-needs-and-presence
 title: Design agentic AI learning platforms to support psychological needs and social-presence affordances
 description: "Based on the validated model, the article states that \"AI learning platform developers can gain insights from this model to design Agentic AI-enabled learning platforms\" and that instructors can draw insights for intr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

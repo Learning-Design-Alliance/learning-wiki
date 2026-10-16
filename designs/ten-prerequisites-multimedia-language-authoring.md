@@ -3,7 +3,7 @@ type: design
 id: ten-prerequisites-multimedia-language-authoring
 title: Ten fundamental prerequisites for a multimedia language authoring system
 description: "The author, as a cognitive scientist and linguist, designed \"the implementation of ten fundamental prerequisites for a multimedia language authoring system\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

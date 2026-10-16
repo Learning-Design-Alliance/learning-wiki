@@ -3,7 +3,7 @@ type: claim
 title: Observation scores are modestly positively associated with individual value-added (adjusted correlation 0.349) but only weakly associated with performance tasks (0.108) and school-wide literacy value-added (0.119)
 description: Observation scores are modestly positively associated with individual value-added (adjusted correlation 0.349) but only weakly associated with performance tasks (0.108) and school-wide literacy value-added (0.119)
 id: reach-observation-value-added-correlation-0349
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

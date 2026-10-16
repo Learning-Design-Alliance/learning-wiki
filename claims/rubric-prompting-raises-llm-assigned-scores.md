@@ -3,7 +3,7 @@ type: claim
 title: Rubric-enhanced prompting (Variant 2) raises LLM assigned scores relative to the no-rubric baseline, with model-specific gaps at particular taxonomy levels
 description: Rubric-enhanced prompting (Variant 2) raises LLM assigned scores relative to the no-rubric baseline, with model-specific gaps at particular taxonomy levels
 id: rubric-prompting-raises-llm-assigned-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -18,8 +18,8 @@ sources:
     kind: causal
     rigour: 2
   - id: alonso-carracedo-2026-2
-    resource: "https://arxiv.org/abs/2607.02432"
-    title: "Alonso-Carracedo, M., Fernandez-Boullon, R., Celard, P., Rodríguez-Martínez, F. J., Otero-Cerdeira, L. (2026). Automated grading of Linux/bash examinations using large language models: a four-level cognitive taxonomy approach. https://arxiv.org/abs/2607.02432"
+    resource: "https://doi.org/10.48550/arxiv.2607.02432"
+    title: "Alonso-Carracedo, M., Fernandez-Boullon, R., Celard, P., Rodríguez-Martínez, F. J., Otero-Cerdeira, L. (2026). Automated grading of Linux/bash examinations using large language models: a four-level cognitive taxonomy approach. https://arxiv.org/abs/2607.02432. [doi:10.48550/arxiv.2607.02432](https://doi.org/10.48550/arxiv.2607.02432)"
     author: Alonso-Carracedo, M., Fernandez-Boullon, R., Celard, P., Rodríguez-Martínez, F. J., Otero-Cerdeira, L.
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Rubric-enhanced prompting (Variant 2) raises LLM assigned scores relative to the no-rubric baseline, with model-specific gaps at particular taxonomy levels
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` GPT shows a positive V2 gap at every taxonomy level, largest at L3 (approximately 7.5 percentage points). [→ Alonso-Carracedo 2026](#alonso-carracedo-2026)
@@ -50,7 +50,7 @@ Per-level comparison of GPT 5.2's assigned grades under Variant 1 versus Variant
 
 ### Alonso-Carracedo 2026 (2)
 
-Alonso-Carracedo, M., Fernandez-Boullon, R., Celard, P., Rodríguez-Martínez, F. J., Otero-Cerdeira, L. (2026). Automated grading of Linux/bash examinations using large language models: a four-level cognitive taxonomy approach. https://arxiv.org/abs/2607.02432
+Alonso-Carracedo, M., Fernandez-Boullon, R., Celard, P., Rodríguez-Martínez, F. J., Otero-Cerdeira, L. (2026). Automated grading of Linux/bash examinations using large language models: a four-level cognitive taxonomy approach. https://arxiv.org/abs/2607.02432. [doi:10.48550/arxiv.2607.02432](https://doi.org/10.48550/arxiv.2607.02432)
 
 `q2 · i?` · `causal · r2`
 

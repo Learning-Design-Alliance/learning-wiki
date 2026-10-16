@@ -3,7 +3,7 @@ type: claim
 title: Industry partners reported learning about working with schools and educators, including contracting and teacher community building
 description: Industry partners reported learning about working with schools and educators, including contracting and teacher community building
 id: industry-learned-working-with-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

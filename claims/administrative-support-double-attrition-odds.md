@@ -3,7 +3,7 @@ type: claim
 title: Teachers who find their administrators unsupportive are more than twice as likely to leave as those who feel well-supported
 description: Teachers who find their administrators unsupportive are more than twice as likely to leave as those who feel well-supported
 id: administrative-support-double-attrition-odds
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

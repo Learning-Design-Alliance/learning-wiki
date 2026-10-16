@@ -4,7 +4,7 @@ id: spritz
 title: Spritz
 description: Spritz is a Discord-based LLM conversational agent that detects collaboration tensions, elicits private individual reflections, and returns anonymized perspective syntheses for interdisciplinary student teams.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: The study examines how CAT test design and item bank distribution affect content coverage and test efficiency in a CCSS-aligned reading comprehension test
 description: The study examines how CAT test design and item bank distribution affect content coverage and test efficiency in a CCSS-aligned reading comprehension test
 id: cat-design-and-bank-distribution-affect-coverage-and-efficiency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

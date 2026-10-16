@@ -3,7 +3,7 @@ type: design
 id: petsp-ml-process-model
 title: "PETSP-ML: a four-stage classroom process model for explanatory thinking in machine learning, adapted from CRISP-DM"
 description: "PETSP-ML (Promotion of Explanatory Thinking Standard Process for Machine Learning) is a process model the authors developed \"to promote explanatory thinking in a structured manner\", adapted from the Cross-Industry Sta..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

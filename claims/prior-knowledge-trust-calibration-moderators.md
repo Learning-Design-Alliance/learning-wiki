@@ -3,7 +3,7 @@ type: claim
 title: "Prior knowledge and trust calibration moderate GenAI learning effects: fluent output is most persuasive when learners least can challenge it"
 description: "Prior knowledge and trust calibration moderate GenAI learning effects: fluent output is most persuasive when learners least can challenge it"
 id: prior-knowledge-trust-calibration-moderators
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

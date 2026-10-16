@@ -3,7 +3,7 @@ type: claim
 title: The Good Language Learner metanarrative persists in sociocultural accounts by equating success with access to community conversations
 description: The Good Language Learner metanarrative persists in sociocultural accounts by equating success with access to community conversations
 id: gll-metanarrative-persists-sociocultural-theory
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

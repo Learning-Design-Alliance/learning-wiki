@@ -3,7 +3,7 @@ type: claim
 title: Community-based work programs for transition-age students with disabilities show mixed effects on employment outcomes
 description: Community-based work programs for transition-age students with disabilities show mixed effects on employment outcomes
 id: community-based-work-programs-mixed-employment-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

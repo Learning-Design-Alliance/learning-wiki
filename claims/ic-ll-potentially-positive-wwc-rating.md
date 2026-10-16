@@ -3,7 +3,7 @@ type: claim
 title: The WWC rates Instructional Conversations and Literature Logs as having potentially positive effects on reading achievement and English language development
 description: The WWC rates Instructional Conversations and Literature Logs as having potentially positive effects on reading achievement and English language development
 id: ic-ll-potentially-positive-wwc-rating
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Improvement across critique axes during iterative UI generation is not monotonic
 description: Improvement across critique axes during iterative UI generation is not monotonic
 id: non-monotonic-improvement-across-critique-axes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

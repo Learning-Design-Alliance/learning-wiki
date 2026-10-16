@@ -3,7 +3,7 @@ type: strategy
 id: codesign-ai-policies-open-dialogue
 title: Co-design AI policies with students through open dialogue rather than enforcement and surveillance
 description: "This strategy recommends that instructors move away from enforcement- and surveillance-centered AI policies and instead \"explicitly co-design AI policies with students in their classes.\" Through open dialogue about re..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

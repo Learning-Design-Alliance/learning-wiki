@@ -4,7 +4,7 @@ id: sra-real-math-building-blocks-prek
 title: SRA Real Math Building Blocks PreK
 description: A supplemental preschool mathematics curriculum developed by Douglas Clements and Julie Sarama and distributed by SRA/McGraw-Hill, combining software, manipulatives, print materials, group activities, learning centers, and home activities.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
@@ -79,7 +79,7 @@ Building Blocks for Math is a supplemental mathematics curriculum for preschool 
 
 ## Related Elements
 
-- [Building Blocks preschool mathematics curriculum](../products/building-blocks.md)
+- [Building Blocks preschool mathematics curriculum](building-blocks-for-math.md)
 - [Pre-K Mathematics supplemental preschool curriculum](../products/pre-k-mathematics.md)
 - [Thinking Math! (Innovamat PreK-8 mathematics curriculum)](thinking-math.md)
 

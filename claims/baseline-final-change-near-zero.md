@@ -3,7 +3,7 @@ type: claim
 title: Baseline-to-final performance change was centered near zero with a mean of −1.83
 description: Baseline-to-final performance change was centered near zero with a mean of −1.83
 id: baseline-final-change-near-zero
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

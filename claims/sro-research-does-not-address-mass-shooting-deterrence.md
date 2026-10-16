@@ -3,7 +3,7 @@ type: claim
 title: Research on SRO effectiveness does not address whether their presence deters mass shootings, though schools with police are more likely to have emergency plans and regular safety checks
 description: Research on SRO effectiveness does not address whether their presence deters mass shootings, though schools with police are more likely to have emergency plans and regular safety checks
 id: sro-research-does-not-address-mass-shooting-deterrence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

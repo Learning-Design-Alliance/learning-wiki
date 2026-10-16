@@ -4,7 +4,7 @@ title: A home visit before the school year reduced the likelihood of a disciplin
 description: A home visit before the school year reduced the likelihood of a disciplinary incident (effect size = +0.10)
 id: pthv-home-visit-reduces-disciplinary-incidents
 aliases: [home-visit-reduces-disciplinary-incidents-dcps]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

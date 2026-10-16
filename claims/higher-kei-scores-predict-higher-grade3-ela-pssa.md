@@ -3,7 +3,7 @@ type: claim
 title: "Kindergarten entry scores predict grade 3 reading proficiency: Philadelphia kindergarteners with higher KEI scores in 2014/15 had higher grade 3 PSSA ELA scores"
 description: "Kindergarten entry scores predict grade 3 reading proficiency: Philadelphia kindergarteners with higher KEI scores in 2014/15 had higher grade 3 PSSA ELA scores"
 id: higher-kei-scores-predict-higher-grade3-ela-pssa
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

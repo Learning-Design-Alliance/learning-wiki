@@ -4,7 +4,7 @@ id: open-court-reading
 title: Open Court Reading
 description: Open Court Reading© is a K–6 comprehensive reading curriculum published by McGraw-Hill Education that provides systematic literacy instruction, decodable texts, anthologies, workbooks, and teacher materials.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

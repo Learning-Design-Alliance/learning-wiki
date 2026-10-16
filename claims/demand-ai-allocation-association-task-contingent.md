@@ -3,7 +3,7 @@ type: claim
 title: The within-teacher demand–AI-use association differs sharply across tasks, with only a modest positive planning gradient
 description: The within-teacher demand–AI-use association differs sharply across tasks, with only a modest positive planning gradient
 id: demand-ai-allocation-association-task-contingent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
@@ -18,8 +18,8 @@ sources:
     kind: associational
     rigour: 2
   - id: holster-2026-2
-    resource: "https://www.oecd.org/en/data/datasets/talis-2024-database.html"
-    title: "Holster, J. (2026). Where Artificial Intelligence Enters Teacher Work. https://www.oecd.org/en/data/datasets/talis-2024-database.html"
+    resource: "https://doi.org/10.35542/osf.io/a39rp_v1"
+    title: "Holster, J. (2026). Where Artificial Intelligence Enters Teacher Work. https://www.oecd.org/en/data/datasets/talis-2024-database.html. [doi:10.35542/osf.io/a39rp_v1](https://doi.org/10.35542/osf.io/a39rp_v1)"
     author: Holster, J.
     q: 2
     i: 1
@@ -30,7 +30,7 @@ sources:
 # The within-teacher demand–AI-use association differs sharply across tasks, with only a modest positive planning gradient
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2` · `i1` small
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` The three task-specific slopes differ significantly (omnibus Wald test F(2, 48) = 52.53, p < .001). [→ Holster 2026](#holster-2026)
@@ -50,7 +50,7 @@ Omnibus design-based Wald test of the task × task-relative-demand interaction i
 
 ### Holster 2026 (2)
 
-Holster, J. (2026). Where Artificial Intelligence Enters Teacher Work. https://www.oecd.org/en/data/datasets/talis-2024-database.html
+Holster, J. (2026). Where Artificial Intelligence Enters Teacher Work. https://www.oecd.org/en/data/datasets/talis-2024-database.html. [doi:10.35542/osf.io/a39rp_v1](https://doi.org/10.35542/osf.io/a39rp_v1)
 
 `q2 · i1` · `associational · r2`
 

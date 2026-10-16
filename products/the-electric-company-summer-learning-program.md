@@ -4,7 +4,7 @@ id: the-electric-company-summer-learning-program
 title: The Electric Company Summer Learning Program
 description: The Electric Company Summer Learning Program is a Sesame Workshop transmedia summer curriculum package combining Electric Company video episodes, scripted group activities, and the Prankster Planet online game for children ages 6 to 8.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

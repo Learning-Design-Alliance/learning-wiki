@@ -3,7 +3,7 @@ type: claim
 title: A full answer-level audit confirmed 485 unique identifiers and validated that every stored total equals the sum of its criterion marks
 description: A full answer-level audit confirmed 485 unique identifiers and validated that every stored total equals the sum of its criterion marks
 id: score-validation-audit-485-records
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

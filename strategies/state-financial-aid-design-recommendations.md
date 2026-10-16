@@ -3,7 +3,7 @@ type: strategy
 id: state-financial-aid-design-recommendations
 title: Ten state policy recommendations for student-centered financial aid systems
 description: "The report recommends that state policymakers design aid systems to prioritize need-based aid, cover costs beyond tuition and fees, set eligibility meeting the needs of today's students, allow access for undocumented..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

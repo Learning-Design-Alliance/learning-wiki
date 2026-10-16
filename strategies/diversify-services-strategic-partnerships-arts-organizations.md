@@ -3,7 +3,7 @@ type: strategy
 id: diversify-services-strategic-partnerships-arts-organizations
 title: Community arts organizations should diversify services and form strategic partnerships with schools to remain relevant under dedicated arts funding
 description: The report recommends that community arts organizations facing dedicated school arts funding strategically broaden their offerings beyond direct student programming.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

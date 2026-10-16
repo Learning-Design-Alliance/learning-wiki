@@ -3,7 +3,7 @@ type: claim
 title: Tracking intensified concentration of behavioral and absentee problems in double-dose algebra classes, explained by declines in peer ability
 description: Tracking intensified concentration of behavioral and absentee problems in double-dose algebra classes, explained by declines in peer ability
 id: double-dose-concentrated-behavioral-problems
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

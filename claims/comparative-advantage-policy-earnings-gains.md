@@ -3,7 +3,7 @@ type: claim
 title: "Incorporating teachers' revealed comparative advantage into teacher-replacement policy decisions would generate an estimated $3,000 in additional student lifetime earnings per classroom"
 description: "Incorporating teachers' revealed comparative advantage into teacher-replacement policy decisions would generate an estimated $3,000 in additional student lifetime earnings per classroom"
 id: comparative-advantage-policy-earnings-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

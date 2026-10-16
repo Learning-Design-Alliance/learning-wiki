@@ -4,7 +4,7 @@ id: fluency-formula
 title: Fluency Formula™
 description: A Scholastic supplemental curriculum for grades 1–6 that provides brief daily lessons and materials designed to develop word-recognition automaticity, decoding accuracy, and oral reading expressiveness.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

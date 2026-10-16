@@ -3,7 +3,7 @@ type: claim
 title: In the VR (guided exploration) mode, assimilator and accommodator learners did not differ significantly in gain score
 description: In the VR (guided exploration) mode, assimilator and accommodator learners did not differ significantly in gain score
 id: guided-vr-no-learning-style-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

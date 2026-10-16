@@ -3,7 +3,7 @@ type: design
 id: 15-week-genai-digital-literacy-curriculum
 title: 15-week digital literacy curriculum integrating GenAI tool usage with research ethics and critical thinking
 description: "A lightning talk by Jiwoo Seo described a \"15-week digital literacy curriculum\" co-developed during their tenure as an AI Specialist Librarian at Chung-Ang University, \"based on a survey of 2,076 students and 101 libr..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

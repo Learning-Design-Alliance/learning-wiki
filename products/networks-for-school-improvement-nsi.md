@@ -4,7 +4,7 @@ id: networks-for-school-improvement-nsi
 title: Networks for School Improvement (NSI)
 description: A Gates Foundation programme that supports networks of schools in using continuous improvement to improve outcomes for students who are Black, Latino, or experiencing poverty.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

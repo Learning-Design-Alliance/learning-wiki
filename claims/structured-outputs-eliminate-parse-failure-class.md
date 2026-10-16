@@ -3,7 +3,7 @@ type: claim
 title: "Schema-constrained Structured Outputs eliminated parse failures: every /challenge and /unlock call returned a valid, fully-typed object during development testing"
 description: "Schema-constrained Structured Outputs eliminated parse failures: every /challenge and /unlock call returned a valid, fully-typed object during development testing"
 id: structured-outputs-eliminate-parse-failure-class
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

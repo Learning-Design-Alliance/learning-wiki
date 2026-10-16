@@ -3,7 +3,7 @@ type: claim
 title: The usefulness of induction and errorful learning varies with the type of terminal task being taught
 description: The usefulness of induction and errorful learning varies with the type of terminal task being taught
 id: task-type-moderates-induction-error-usefulness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

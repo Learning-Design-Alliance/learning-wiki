@@ -3,7 +3,7 @@ type: claim
 title: The Chicago Annenberg Challenge underwent rapid organizational learning, reshaping from a community-organizing collaborative into a formal activist foundation
 description: The Chicago Annenberg Challenge underwent rapid organizational learning, reshaping from a community-organizing collaborative into a formal activist foundation
 id: annenberg-challenge-organizational-learning-foundation-identity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

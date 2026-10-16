@@ -3,7 +3,7 @@ type: claim
 title: In an unscaffolded GenAI-permitted instructional design course, the control group outperformed the experimental group on posttest instructional design performance
 description: In an unscaffolded GenAI-permitted instructional design course, the control group outperformed the experimental group on posttest instructional design performance
 id: unscaffolded-genai-lower-instructional-design-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

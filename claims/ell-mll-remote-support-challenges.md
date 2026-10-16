@@ -3,7 +3,7 @@ type: claim
 title: "Just under half of New York charter schools (45.8%) reported no challenges supporting ELL/MLL students remotely; high-poverty schools were more likely to report challenges"
 description: "Just under half of New York charter schools (45.8%) reported no challenges supporting ELL/MLL students remotely; high-poverty schools were more likely to report challenges"
 id: ell-mll-remote-support-challenges
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

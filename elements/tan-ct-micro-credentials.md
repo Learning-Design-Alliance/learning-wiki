@@ -3,7 +3,7 @@ type: element
 id: tan-ct-micro-credentials
 title: TAN micro-credentials for Data and Analysis and Algorithms
 description: The TAN project pairs its CT Booster sessions with micro-credentials that teachers can pursue in the same content areas.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

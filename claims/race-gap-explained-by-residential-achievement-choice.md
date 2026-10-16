@@ -3,7 +3,7 @@ type: claim
 title: Residential mobility explains 55-61 percent of the school-year race gap in mobility, school average achievement an additional 16 percent, and access to school choice options increasingly explains the summer gap
 description: Residential mobility explains 55-61 percent of the school-year race gap in mobility, school average achievement an additional 16 percent, and access to school choice options increasingly explains the summer gap
 id: race-gap-explained-by-residential-achievement-choice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: design
 id: unicode-perturbation-soft-barrier-families
 title: Unicode perturbation families implemented as system-prompt soft barriers
 description: The paper implements soft barriers as a system prompt instructing the model to inject specific Unicode characters into user-defined identifiers during generation, leaving keywords, operators, literals, and built-in na...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

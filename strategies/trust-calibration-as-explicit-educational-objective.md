@@ -3,7 +3,7 @@ type: strategy
 id: trust-calibration-as-explicit-educational-objective
 title: "Treat trust calibration as an explicit educational objective of ML education, pursued through ICE-T's three facets"
 description: "The article recommends that school curricula promote transparency, data literacy, and an understanding of key algorithmic principles, and proposes that \"trust calibration be treated as an explicit educational objectiv..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

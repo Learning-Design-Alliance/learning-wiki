@@ -3,7 +3,7 @@ type: strategy
 id: design-participation-entry-points-match-readiness
 title: "Design participation deliberately: align entry points with partners' actual readiness rather than assuming a uniform baseline"
 description: "The report's lessons for the field hold that \"Participation has to be designed for, not assumed.\" Evaluators working in formal evaluation contexts should make deliberate choices about when and how to create entry poin..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

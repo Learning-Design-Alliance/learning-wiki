@@ -3,7 +3,7 @@ type: claim
 title: Math achievement correlates more strongly with EF components than EF components correlate with each other in early childhood
 description: Math achievement correlates more strongly with EF components than EF components correlate with each other in early childhood
 id: math-correlates-more-with-ef-than-ef-internally
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

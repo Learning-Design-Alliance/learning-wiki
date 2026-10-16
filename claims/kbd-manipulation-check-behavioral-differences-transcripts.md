@@ -3,7 +3,7 @@ type: claim
 title: Qualitative transcript analysis showed the KBD robot used Socratic questioning, slide-grounded sourced claims, and explained feedback far more often, while the control robot produced false statements and never cited sources
 description: Qualitative transcript analysis showed the KBD robot used Socratic questioning, slide-grounded sourced claims, and explained feedback far more often, while the control robot produced false statements and never cited s...
 id: kbd-manipulation-check-behavioral-differences-transcripts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

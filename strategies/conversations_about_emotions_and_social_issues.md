@@ -86,8 +86,8 @@ Explicit conversation about emotions builds the vocabulary and norms that make s
 - ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — a gamified entry point for emotion vocabulary
 
 ## Examples
-- **RULER (Yale Center for Emotional Intelligence)** — the "Mood Meter" and feeling-words curriculum anchor daily emotional conversations; classroom implementation improved academic performance and social-emotional competence (https://ei.yale.edu).
-- **Facing History and Ourselves** — published curriculum using structured conversation about historical cases of injustice (e.g., the Holocaust, civil rights) to build ethical reasoning (https://www.facinghistory.org).
+- **[RULER](../products/ruler.md) (Yale Center for Emotional Intelligence)** — the "Mood Meter" and feeling-words curriculum anchor daily emotional conversations; classroom implementation improved academic performance and social-emotional competence (https://ei.yale.edu).
+- **[Facing History and Ourselves](../products/facing-history-and-ourselves.md)** — published curriculum using structured conversation about historical cases of injustice (e.g., the Holocaust, civil rights) to build ethical reasoning (https://www.facinghistory.org).
 - **Restorative circles in Oakland Unified School District** — routine community circles used to discuss conflict and harm, associated with reduced suspensions.
 - **Morning Meeting (Responsive Classroom)** — daily K–5 structure combining greeting, sharing, and group activity to normalize emotional talk (https://www.responsiveclassroom.org).
 - **[RULER Approach](https://www.ycei.org/ruler)** (Yale Center for Emotional Intelligence) — the "Mood Meter" and "Meta-Moment" routines structure explicit classroom conversations about emotions; charter schools using RULER integrate emotion check-ins into daily instruction.

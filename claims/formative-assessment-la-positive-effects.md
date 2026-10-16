@@ -3,7 +3,7 @@ type: claim
 title: Formative-assessment-based LA shows positive effects on achievement, motivation, and understanding, with personalized feedback reading time mattering
 description: Formative-assessment-based LA shows positive effects on achievement, motivation, and understanding, with personalized feedback reading time mattering
 id: formative-assessment-la-positive-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

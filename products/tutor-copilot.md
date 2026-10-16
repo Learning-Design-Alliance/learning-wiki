@@ -4,7 +4,7 @@ id: tutor-copilot
 title: Tutor CoPilot
 description: Tutor CoPilot is a human-AI tutoring-support tool developed by Wang and colleagues that provides customizable, real-time expert-like guidance to tutors during K–12 mathematics sessions.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

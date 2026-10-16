@@ -3,7 +3,7 @@ type: claim
 title: Most surveyed college leaders report written GenAI responsible-use policies, but decision-making is largely left to educators
 description: Most surveyed college leaders report written GenAI responsible-use policies, but decision-making is largely left to educators
 id: majority-college-leaders-written-genai-policies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

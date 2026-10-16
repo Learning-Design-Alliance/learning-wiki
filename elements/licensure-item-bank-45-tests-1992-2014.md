@@ -3,7 +3,7 @@ type: element
 id: licensure-item-bank-45-tests-1992-2014
 title: IRT item bank built from 45 licensure exam forms administered 1992-2014 under a common-item nonequivalent groups design
 description: "The study's artifact is an item bank constructed from a national licensure examination administered twice yearly (spring and fall) from 1992 through 2014."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

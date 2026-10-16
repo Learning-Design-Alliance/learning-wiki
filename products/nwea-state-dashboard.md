@@ -4,7 +4,7 @@ id: nwea-state-dashboard
 title: NWEA state dashboard
 description: A NWEA dashboard that summarizes state-level MAP Growth achievement and growth trends and related COVID-19 learning-impact analyses for education stakeholders.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

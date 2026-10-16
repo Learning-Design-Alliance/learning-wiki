@@ -3,7 +3,7 @@ type: claim
 title: "The evidence base for Reading Mastery with adolescent learners is small: only 2 of 175 reviewed studies met WWC evidence standards"
 description: "The evidence base for Reading Mastery with adolescent learners is small: only 2 of 175 reviewed studies met WWC evidence standards"
 id: reading-mastery-small-evidence-base-adolescents
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

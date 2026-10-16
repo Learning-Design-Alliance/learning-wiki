@@ -3,7 +3,7 @@ type: strategy
 id: family-engagement-structures-secondary
 title: Enable regular, meaningful family engagement through diverse home-language communication, proactive meetings, student-led conferences, and shared decision-making forums
 description: "The brief states there is 'no single strategy for cultivating effective family engagement' but recommends four approaches: diverse communication tools so families can consistently learn how their child is doing; proac..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

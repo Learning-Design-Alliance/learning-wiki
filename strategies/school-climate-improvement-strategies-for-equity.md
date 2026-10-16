@@ -3,7 +3,7 @@ type: strategy
 id: school-climate-improvement-strategies-for-equity
 title: Target school-climate improvement within individual schools and communities, using schoolwide behavior systems, social-emotional learning, and compensatory supports
 description: The article recommends that because within-school racial gaps contribute most to the overall gap, much of the work should happen in individual schools or the communities they serve.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

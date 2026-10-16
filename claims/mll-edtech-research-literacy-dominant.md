@@ -3,7 +3,7 @@ type: claim
 title: Research on technology for young multilingual learners concentrates on literacy, with few studies in science, mathematics, or social studies
 description: Research on technology for young multilingual learners concentrates on literacy, with few studies in science, mathematics, or social studies
 id: mll-edtech-research-literacy-dominant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

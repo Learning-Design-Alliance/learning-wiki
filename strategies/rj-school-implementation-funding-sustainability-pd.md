@@ -3,7 +3,7 @@ type: strategy
 id: rj-school-implementation-funding-sustainability-pd
 title: "Implementation recommendations for school RJ programs: funding, sustainability, policy integration, and professional development"
 description: The review distills implementation guidance from the literature and practitioner interviews.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

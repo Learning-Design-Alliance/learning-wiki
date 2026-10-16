@@ -3,7 +3,7 @@ type: strategy
 id: analyze-student-work-ongoing-assessment-progressions
 title: Train teachers to analyze student work as ongoing assessment using research-based learning progressions
 description: "The article describes OGAP's core instructional strategy: teachers are trained \"to analyze student work as an ongoing assessment, helping them recognize strategies and misconceptions to guide instruction in real-time..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

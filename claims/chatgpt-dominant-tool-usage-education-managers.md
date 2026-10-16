@@ -3,7 +3,7 @@ type: claim
 title: "ChatGPT is the most widely used AI tool among Ukrainian education managers (69.4% adoption)"
 description: "ChatGPT is the most widely used AI tool among Ukrainian education managers (69.4% adoption)"
 id: chatgpt-dominant-tool-usage-education-managers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

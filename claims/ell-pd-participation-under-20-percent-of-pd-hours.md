@@ -3,7 +3,7 @@ type: claim
 title: Most teachers in the 11 SIG schools participated in ELL-related professional development, but it accounted for less than 20 percent of their total PD hours
 description: Most teachers in the 11 SIG schools participated in ELL-related professional development, but it accounted for less than 20 percent of their total PD hours
 id: ell-pd-participation-under-20-percent-of-pd-hours
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

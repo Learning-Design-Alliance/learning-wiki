@@ -3,7 +3,7 @@ type: claim
 title: Chronic absence among students in foster care peaked after the pandemic, with nearly half chronically absent in 2021–22
 description: Chronic absence among students in foster care peaked after the pandemic, with nearly half chronically absent in 2021–22
 id: foster-care-chronic-absence-peaked
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

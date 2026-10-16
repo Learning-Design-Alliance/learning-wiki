@@ -3,7 +3,7 @@ type: claim
 title: Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes
 id: gamification-has-small-positive-effects-on-learning-outcomes
 description: Adding game design elements to instruction produced small positive pooled effects on cognitive, motivational and behavioral learning outcomes; only the cognitive effect held among the more rigorous studies.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-30

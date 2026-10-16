@@ -3,7 +3,7 @@ type: claim
 title: Access to a standard GPT-4 chat tutor during practice substantially improves practice performance in high school mathematics
 description: Access to a standard GPT-4 chat tutor during practice substantially improves practice performance in high school mathematics
 id: gpt-base-improves-assisted-practice-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

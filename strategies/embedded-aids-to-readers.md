@@ -3,7 +3,7 @@ type: strategy
 id: embedded-aids-to-readers
 title: Embed units of assistance and enrichment into the fabric of textual material so they are unobtrusive yet available for reader use
 description: Imbedded Aids are units of assistance and enrichment — line numbering locators, reading/study suggestions, precis summary notes, vocabulary assistance, in-process comprehension checks, independent study suggestions, i...
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

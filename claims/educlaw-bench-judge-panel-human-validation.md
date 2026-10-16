@@ -3,7 +3,7 @@ type: claim
 title: The cross-family LLM judge panel agrees with human domain experts on every judged axis, reaching the expert ceiling on answer-holding
 description: The cross-family LLM judge panel agrees with human domain experts on every judged axis, reaching the expert ceiling on answer-holding
 id: educlaw-bench-judge-panel-human-validation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

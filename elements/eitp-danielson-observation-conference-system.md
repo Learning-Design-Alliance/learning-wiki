@@ -3,7 +3,7 @@ type: element
 id: eitp-danielson-observation-conference-system
 title: "Excellence in Teaching Project (EITP): Danielson Framework-based principal observation and conferencing system"
 description: "EITP replaced Chicago's checklist-based teacher evaluation with a system in which principals conduct two formal observations per year for all teachers, each with a pre-observation conference, a 30–60 minute observatio..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

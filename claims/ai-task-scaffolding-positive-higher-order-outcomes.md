@@ -3,7 +3,7 @@ type: claim
 title: AI task scaffolding is positively associated with critical thinking and technical problem-solving among AI-using university students
 description: AI task scaffolding is positively associated with critical thinking and technical problem-solving among AI-using university students
 id: ai-task-scaffolding-positive-higher-order-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

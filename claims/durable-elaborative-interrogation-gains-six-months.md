@@ -3,7 +3,7 @@ type: claim
 title: Elaborative-interrogation learning gains are durable, with performance maintained up to six months after study
 description: Elaborative-interrogation learning gains are durable, with performance maintained up to six months after study
 id: durable-elaborative-interrogation-gains-six-months
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

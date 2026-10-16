@@ -3,7 +3,7 @@ type: claim
 title: Forced pacing eliminates positive transfer from computer aiding and leads subjects to use strategies requiring many more tests than necessary
 description: Forced pacing eliminates positive transfer from computer aiding and leads subjects to use strategies requiring many more tests than necessary
 id: forced-pacing-eliminates-aiding-transfer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

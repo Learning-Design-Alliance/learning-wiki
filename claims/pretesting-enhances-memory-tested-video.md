@@ -3,7 +3,7 @@ type: claim
 title: Pre-instruction testing enhances memory for directly tested video content, with benefits shown for videos from 5 to 30 minutes
 description: Pre-instruction testing enhances memory for directly tested video content, with benefits shown for videos from 5 to 30 minutes
 id: pretesting-enhances-memory-tested-video
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

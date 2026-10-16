@@ -3,7 +3,7 @@ type: claim
 title: Language and print knowledge instructional features produced statistically comparable performance within their domains, leaving unclear which features are most effective
 description: Language and print knowledge instructional features produced statistically comparable performance within their domains, leaving unclear which features are most effective
 id: instructional-features-comparable-within-domains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

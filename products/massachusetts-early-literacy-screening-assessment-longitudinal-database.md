@@ -4,7 +4,7 @@ id: massachusetts-early-literacy-screening-assessment-longitudinal-database
 title: Massachusetts early literacy screening assessment longitudinal database
 description: A longitudinal database built by WestEd for the Massachusetts Department of Elementary and Secondary Education linking grantee K–3 early literacy universal-screening scores with SIMS, MCAS, ACCESS for ELLs, and school- and district-level data.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

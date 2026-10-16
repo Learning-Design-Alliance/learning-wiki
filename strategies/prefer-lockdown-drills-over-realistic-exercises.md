@@ -3,7 +3,7 @@ type: strategy
 id: prefer-lockdown-drills-over-realistic-exercises
 title: Prefer lockdown drills over highly realistic, unannounced active shooter exercises, embedding them in layered emergency preparedness
 description: The brief recommends that districts distinguish lockdown drills from active shooter exercises when deciding what to conduct.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

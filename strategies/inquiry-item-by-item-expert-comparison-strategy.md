@@ -3,7 +3,7 @@ type: strategy
 id: inquiry-item-by-item-expert-comparison-strategy
 title: Administer the Inquiry with classroom test procedures and interpret by item-by-item comparison with expert votes
 description: Administration follows common classroom testing procedures, but the instrument yields no total score, median, or percentile rank.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -31,28 +31,32 @@ EXTENSIONS = ["admonition", "attr_list", "md_in_html", "footnotes", "pymdownx.de
               "pymdownx.superfences", "pymdownx.highlight", "pymdownx.tasklist", "tables", "toc"]
 EXT_CONFIG = {"pymdownx.tasklist": {"custom_checkbox": True}, "toc": {"permalink": True}}
 
+# The light pages carry mkdocs-material's palette CSS but not its JavaScript, so the body attribute
+# alone fixed every one to the light scheme: a reader in dark mode went light on opening the
+# strategies A-Z (maintainer, 2026-10-15). The script reads the choice Material saved, under the
+# same key (the site root's path + ".__palette"), before the page paints.
 TEMPLATE = """<!doctype html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{title} - Learning Design Wiki</title>
-<link rel="icon" href="{rel}branding/lazuli-favicon.svg">
+<link rel="icon" href="{rel}branding/lda-favicon.png">
 {css}
 <style>
 .lt-header{{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}}
 .lt-header a{{color:inherit;text-decoration:none;margin-right:.6rem}}
 .lt-header a:hover{{text-decoration:underline}}
 .lt-header form{{display:inline;float:right}}
-.lt-header input{{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}}
 .lt-main{{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}}
 </style>
 </head>
 <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script>try{{var s=new URL("{rel}"||".",location).pathname,p=JSON.parse(localStorage.getItem(s+".__palette"));if(p&&p.color){{for(var k of ["scheme","primary","accent"])if(p.color[k])document.body.setAttribute("data-md-color-"+k,p.color[k])}}}}catch(e){{}}</script>
 <header class="lt-header">
 <a href="{rel}"><strong>Learning Design Wiki</strong></a>
 <a href="{rel}{folder}/">{label}</a>
-<form action="{rel}search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+<form class="lt-header-search" action="{rel}search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
 </header>
 <main class="lt-main"><article class="md-typeset"{pagefind}>
 {body}

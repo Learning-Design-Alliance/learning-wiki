@@ -3,7 +3,7 @@ type: claim
 title: AI-ALOE technology deployments were associated with improved adult learner outcomes, including higher course grades and retention for Jill Watson and higher-quality written work for SMART, though VERA outcomes varied by course structure
 description: AI-ALOE technology deployments were associated with improved adult learner outcomes, including higher course grades and retention for Jill Watson and higher-quality written work for SMART, though VERA outcomes varied...
 id: aialoe-deployments-improved-adult-learner-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
@@ -61,3 +61,4 @@ The deployment summary reports, citing its reference, that VERA "suggested gains
 ## Related Claims
 - [SMART® effects on comprehension were not statistically significant on either subtest, though the domain-average effect size was substantively important](smart-comprehension-nonsignificant-substantive-average.md) — related
 - [Early warning and proactive support agents are associated with reported retention and grade improvements in institutional deployments](early-warning-agents-retention-gains.md) — a broader claim this one bears on
+- [Universities already use incipient AI such as IBM Watson to provide student advice around the clock, reducing administrative staffing needs](ai-administrative-services-deakin-watson.md) — related

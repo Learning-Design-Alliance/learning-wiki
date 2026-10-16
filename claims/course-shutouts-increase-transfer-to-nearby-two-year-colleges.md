@@ -3,7 +3,7 @@ type: claim
 title: Course shutouts increased transfer rates to nearby, potentially less-desirable two-year colleges
 description: Course shutouts increased transfer rates to nearby, potentially less-desirable two-year colleges
 id: course-shutouts-increase-transfer-to-nearby-two-year-colleges
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Students often slip off track during transition years (6th and 9th grade) even when they previously performed well
 description: Students often slip off track during transition years (6th and 9th grade) even when they previously performed well
 id: transition-years-slipping-off-track
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

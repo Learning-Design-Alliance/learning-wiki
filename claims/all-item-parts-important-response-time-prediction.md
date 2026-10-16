@@ -3,7 +3,7 @@ type: claim
 title: All parts of the item were important for predicting response time
 description: All parts of the item were important for predicting response time
 id: all-item-parts-important-response-time-prediction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

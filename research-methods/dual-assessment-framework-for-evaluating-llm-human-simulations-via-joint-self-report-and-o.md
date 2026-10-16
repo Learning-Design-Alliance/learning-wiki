@@ -3,7 +3,7 @@ type: research-method
 id: dual-assessment-framework-for-evaluating-llm-human-simulations-via-joint-self-report-and-o
 title: Dual-assessment framework for evaluating LLM human simulations via joint self-report and observer-rated persona measurement
 description: A methodology adapted from clinical psychology that jointly measures self-reported characteristics and observer-rated behavioral expressions of an LLM persona.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

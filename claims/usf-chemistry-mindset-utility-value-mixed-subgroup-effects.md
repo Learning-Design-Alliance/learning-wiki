@@ -3,7 +3,7 @@ type: claim
 title: A general chemistry utility-value and growth mindset intervention showed statistically significant positive outcomes overall but statistically nonsignificant outcomes for underrepresented students
 description: A general chemistry utility-value and growth mindset intervention showed statistically significant positive outcomes overall but statistically nonsignificant outcomes for underrepresented students
 id: usf-chemistry-mindset-utility-value-mixed-subgroup-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -49,3 +49,4 @@ Randomized study of a general chemistry course innovation combining peer-based i
 - [Aronson et al. (2002) pen-pal growth mindset intervention produced a statistically significant positive effect on quarter GPA (effect size 0.85)](aronson-2002-significant-gpa-effect.md) — related
 - [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](growth-mindset-improves-achievement.md) — related
 - [A brief values-affirmation writing exercise raised African American seventh-graders' grades in two small field experiments, but a large same-district replication found no effect](self-affirmation-improves-outcomes.md) — related
+- [A personal utility prompt in journal writing improves learning motivation and comprehension](personal-utility-prompt-motivation-comprehension.md) — related

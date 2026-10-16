@@ -3,7 +3,7 @@ type: claim
 title: Average on-grade and all-grade item difficulty estimates differ by less than 0.1 logit for MAP Growth items
 description: Average on-grade and all-grade item difficulty estimates differ by less than 0.1 logit for MAP Growth items
 id: map-growth-ongrade-allgrade-mean-difference-under-01-logit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ id: paired-self-report-and-objective-based-ai-literacy-assessment-instruments-fo
 title: Paired self-report and objective-based AI literacy assessment instruments for K–12 teachers
 description: "A psychometrically validated scenario-based multiple-choice test and Likert self-report scale developed to measure K–12 teachers' AI literacy across knowledge, application, evaluation and creation, and ethics."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

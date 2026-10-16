@@ -3,7 +3,7 @@ type: claim
 title: HSE exam takers completed fewer years of school and were more likely to be lunch-eligible and to identify as Black or Hispanic than non-exam takers
 description: HSE exam takers completed fewer years of school and were more likely to be lunch-eligible and to identify as Black or Hispanic than non-exam takers
 id: nj-hse-takers-differ-from-nontakers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

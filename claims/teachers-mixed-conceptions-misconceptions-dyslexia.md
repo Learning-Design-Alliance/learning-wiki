@@ -3,7 +3,7 @@ type: claim
 title: Teachers hold a complicated mix of scientific conceptions, misconceptions, and uncertainty about dyslexia concepts
 description: Teachers hold a complicated mix of scientific conceptions, misconceptions, and uncertainty about dyslexia concepts
 id: teachers-mixed-conceptions-misconceptions-dyslexia
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

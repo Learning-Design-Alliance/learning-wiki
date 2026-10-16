@@ -3,7 +3,7 @@ type: claim
 title: On 2022 NAEP 8th- and 12th-grade reading and math exams, students who were both English learners and from low-income backgrounds scored lowest among four student groups, with less than one third scoring basic or above in reading and less than one quarter in math
 description: On 2022 NAEP 8th- and 12th-grade reading and math exams, students who were both English learners and from low-income backgrounds scored lowest among four student groups, with less than one third scoring basic or above...
 id: naep-dual-el-low-income-lowest-2022
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

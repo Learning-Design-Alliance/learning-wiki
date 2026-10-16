@@ -4,7 +4,7 @@ id: mise
 title: MISE
 description: "MISE's nine-component systemic reform strategy is a district-level framework for improving science teaching through coordinated leadership, curriculum, assessment, professional development, and instructional-support systems."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

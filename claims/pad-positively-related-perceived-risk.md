@@ -3,7 +3,7 @@ type: claim
 title: Students with higher perceived academic dishonesty perceive greater risk in using ChatGPT
 description: Students with higher perceived academic dishonesty perceive greater risk in using ChatGPT
 id: pad-positively-related-perceived-risk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

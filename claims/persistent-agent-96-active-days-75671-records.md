@@ -3,7 +3,7 @@ type: claim
 title: A persistent agentic research environment sustained near-daily use over 115 days, with 75,671 de-duplicated telemetry records across 96 active days (active-day fraction 0.835)
 description: A persistent agentic research environment sustained near-daily use over 115 days, with 75,671 de-duplicated telemetry records across 96 active days (active-day fraction 0.835)
 id: persistent-agent-96-active-days-75671-records
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

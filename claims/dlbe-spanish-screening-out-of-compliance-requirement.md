@@ -3,7 +3,7 @@ type: claim
 title: Schools serving students in the Spanish-dominant screening clusters appeared out of compliance with the Massachusetts requirement to screen with an approved (English-only) assessment at least twice per year
 description: Schools serving students in the Spanish-dominant screening clusters appeared out of compliance with the Massachusetts requirement to screen with an approved (English-only) assessment at least twice per year
 id: dlbe-spanish-screening-out-of-compliance-requirement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

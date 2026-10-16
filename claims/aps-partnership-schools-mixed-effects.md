@@ -3,7 +3,7 @@ type: claim
 title: Turnaround partnership schools are producing math improvements, but other effects were mixed, varying by outcome and by partner organization (Kindezi and PBS)
 description: Turnaround partnership schools are producing math improvements, but other effects were mixed, varying by outcome and by partner organization (Kindezi and PBS)
 id: aps-partnership-schools-mixed-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: At end of program, the largest Too Good for Drugs effect was on teacher-rated prosocial behaviors (effect size 0.52), not statistically significant after WWC correction
 description: At end of program, the largest Too Good for Drugs effect was on teacher-rated prosocial behaviors (effect size 0.52), not statistically significant after WWC correction
 id: too-good-for-drugs-prosocial-behavior-end-of-program-es-052
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

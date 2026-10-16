@@ -3,7 +3,7 @@ type: strategy
 id: prepare-for-rising-maker-assessment-demand
 title: Prepare for rising demand for assessment tools and embedded assessment models in maker learning
 description: Because Assessment and Documentation trails the other rubric areas while curriculum integration improves, the report expects assessment resources to become the next major need and commits to helping schools respond.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

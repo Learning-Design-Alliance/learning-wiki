@@ -3,7 +3,7 @@ type: claim
 title: Tutoring activity mix shifts dynamically across a ten-session project, with rapport building highest early and artifact review rising over time
 description: Tutoring activity mix shifts dynamically across a ten-session project, with rapport building highest early and artifact review rising over time
 id: tutoring-activity-mix-shifts-across-project-sessions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

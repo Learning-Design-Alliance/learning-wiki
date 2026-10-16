@@ -3,7 +3,7 @@ type: design
 id: dl2f-task-based-unit-pattern
 title: Task-based learning units integrated into the curriculum structure with collaborative real-world communication activities
 description: DL2F organizes instruction into task-based learning units embedded in the existing curriculum structure, with collaboration and communication as focal points through group activities mirroring real-world language use.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

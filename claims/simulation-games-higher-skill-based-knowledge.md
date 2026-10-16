@@ -3,7 +3,7 @@ type: claim
 title: The review reports that participants in simulation-game conditions had significantly higher skill-based knowledge outcomes than those in non-game conditions
 description: The review reports that participants in simulation-game conditions had significantly higher skill-based knowledge outcomes than those in non-game conditions
 id: simulation-games-higher-skill-based-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

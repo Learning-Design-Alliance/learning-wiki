@@ -3,7 +3,7 @@ type: research-method
 id: school-value-added-modeling
 title: School value-added modeling
 description: Mathematica developed a value-added model to identify effective schools in the Memphis City school district during the first year of a New Leaders for New Schools initiative.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

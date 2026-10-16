@@ -3,7 +3,7 @@ type: strategy
 id: require-justification-of-ai-output-use
 title: "Require students to justify how they used AI output: what they accepted, rejected, revised, or verified, and why"
 description: "This implementable teacher move comes from the guide's critical-thinking section: \"Require students to justify how they used output from AI: What did they accept, reject, revise, or verify, and why?\" It operationalize..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

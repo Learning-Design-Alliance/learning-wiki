@@ -3,7 +3,7 @@ type: strategy
 id: ct-in-all-teacher-preparation-programs
 title: Incorporate CT skills into all teacher preparation programs, for all subject matters, with iterative guidance for non-STEM teachers
 description: "Based on the study's observations and taxonomy, the authors recommend \"incorporating CT skills into all teacher preparation programs, even those dedicated to elementary school teachers, and for all subject matters\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

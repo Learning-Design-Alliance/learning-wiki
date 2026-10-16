@@ -3,7 +3,7 @@ type: claim
 title: "The most frequent limitation of AI in instructional design is content reliability and transparency (16 of 28 studies, 57.14%)"
 description: "The most frequent limitation of AI in instructional design is content reliability and transparency (16 of 28 studies, 57.14%)"
 id: ai-id-limitation-content-reliability-transparency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

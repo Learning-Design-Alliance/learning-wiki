@@ -3,7 +3,7 @@ type: strategy
 id: training-plus-onsite-consultation-support
 title: Support curriculum implementation with initial multi-day training plus ongoing onsite consultation during the school year
 description: In the evaluated implementation, intervention teachers received 2.5 full days of curriculum training before the preschool year began and had access to ongoing implementation support throughout the year.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

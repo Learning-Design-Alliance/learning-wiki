@@ -3,7 +3,7 @@ type: claim
 title: PROMISE service costs represented relatively large investments
 description: PROMISE service costs represented relatively large investments
 id: promise-service-costs-relatively-large-investments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

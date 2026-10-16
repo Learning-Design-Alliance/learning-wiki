@@ -3,7 +3,7 @@ type: claim
 title: Only dual enrollment and early college high school studies documented rural inclusion, and none analyzed rural students separately
 description: Only dual enrollment and early college high school studies documented rural inclusion, and none analyzed rural students separately
 id: no-rural-effectiveness-evidence-college-readiness-interventions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

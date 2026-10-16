@@ -3,7 +3,7 @@ type: claim
 title: Charter high school students had better attendance and test scores than comparable non-charter students, controlling for incoming characteristics
 description: Charter high school students had better attendance and test scores than comparable non-charter students, controlling for incoming characteristics
 id: cps-charter-better-attendance-test-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

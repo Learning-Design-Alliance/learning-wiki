@@ -3,7 +3,7 @@ type: strategy
 id: student-interview-strengths-interests-growth-areas
 title: Interview the student one-on-one about strengths, interests, and growth areas before writing the IEP
 description: "The guide's mindset-shift section instructs teachers to put the student at the center: \"Make sure the student's perspective is considered."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Among students receiving at least 24 hours of Air Tutors tutoring, the program showed no significant impact on statewide summative assessments but a positive, statistically significant impact on district benchmark assessments in both districts (effect sizes 0.13 and 0.33)
 description: Among students receiving at least 24 hours of Air Tutors tutoring, the program showed no significant impact on statewide summative assessments but a positive, statistically significant impact on district benchmark ass...
 id: air-tutors-24-hour-dosage-benchmark-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

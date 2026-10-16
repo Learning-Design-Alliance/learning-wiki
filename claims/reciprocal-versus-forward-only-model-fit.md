@@ -3,7 +3,7 @@ type: claim
 title: The reciprocal EF–ER model fits only marginally better than a forward-only model, so model preference rests on theory as much as fit
 description: The reciprocal EF–ER model fits only marginally better than a forward-only model, so model preference rests on theory as much as fit
 id: reciprocal-versus-forward-only-model-fit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

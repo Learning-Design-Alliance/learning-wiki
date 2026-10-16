@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25
@@ -121,3 +121,4 @@ A meta-analysis of 54 control-group studies (141 effect sizes) spanning primary,
 - [Student assessors led the pilot assessment of the Centering Students' Diverse Lived Experiences badge, shifting evaluation power toward student voice](student-assessors-led-csdle-pilot-assessment.md) — related
 - [Actionable and descriptive feedback moves student learning forward, and effective feedback differs from less-effective feedback on identifiable qualities](actionable-descriptive-feedback-moves-learning-forward.md) — related
 - [Qualitatively, AI-peer integrated feedback was associated with a broader repertoire of revision operations and more agentive cognitive strategies than peer feedback alone](ai-peer-feedback-agentive-revision-strategies.md) — related
+- [A formative assessment script increases the quantity and quality of peer feedback vocational students generate on a peer's draft](fas-improves-peer-feedback-generation.md) — a narrower finding that bears on this claim

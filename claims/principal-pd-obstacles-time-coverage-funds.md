@@ -3,7 +3,7 @@ type: claim
 title: Most principals face obstacles to professional learning—time, coverage, and funds—with funding obstacles concentrated in schools serving many students of color
 description: Most principals face obstacles to professional learning—time, coverage, and funds—with funding obstacles concentrated in schools serving many students of color
 id: principal-pd-obstacles-time-coverage-funds
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

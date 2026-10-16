@@ -3,7 +3,7 @@ type: strategy
 id: use-web-agent-to-compare-lesson-designs
 title: Use an LLM web agent to compare potential lesson designs and get fast, low-cost feedback before deployment
 description: The article demonstrates how designers could run the web agent on candidate lessons to compare designs before release.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

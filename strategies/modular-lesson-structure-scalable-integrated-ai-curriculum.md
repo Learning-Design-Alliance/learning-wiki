@@ -3,7 +3,7 @@ type: strategy
 id: modular-lesson-structure-scalable-integrated-ai-curriculum
 title: Use a modular lesson structure to keep integrated AI curricula scalable under time constraints
 description: "Because AI is not typically in standard curricula, the article recommends that \"it becomes crucial for educators to consider scalability in the design of such curricula\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

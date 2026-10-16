@@ -3,7 +3,7 @@ type: design
 id: three-phase-gen-ai-problem-posing-activity
 title: Three-phase Gen AI-assisted problem-posing activity with pre-training, training video, and post-training reflections
 description: "A self-study activity administered as an extra-credit assignment in which \"The study design consisted of three phases completed over one week\"."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Learners showed reliable pre–post changes in facial, vocal, and lexical expressive signals after sustained system use
 description: Learners showed reliable pre–post changes in facial, vocal, and lexical expressive signals after sustained system use
 id: prepost-changes-expressive-emotion-signals
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

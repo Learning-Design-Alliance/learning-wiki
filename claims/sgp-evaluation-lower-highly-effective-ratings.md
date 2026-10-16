@@ -3,7 +3,7 @@ type: claim
 title: Principals evaluated on school median student growth percentiles were less likely to receive highly effective overall ratings than principals not evaluated on that measure
 description: Principals evaluated on school median student growth percentiles were less likely to receive highly effective overall ratings than principals not evaluated on that measure
 id: sgp-evaluation-lower-highly-effective-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

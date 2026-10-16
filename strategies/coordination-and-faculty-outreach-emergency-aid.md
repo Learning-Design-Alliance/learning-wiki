@@ -3,7 +3,7 @@ type: strategy
 id: coordination-and-faculty-outreach-emergency-aid
 title: Reduce institutional barriers through cross-department coordination, low-barrier review models, and faculty-based outreach
 description: "Practitioners recommended cross-department coordination and administrative streamlining, citing \"low-barrier review models, clearer internal protocols, and shared ownership across financial aid, basic needs, and stude..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

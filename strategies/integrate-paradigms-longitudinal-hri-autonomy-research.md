@@ -3,7 +3,7 @@ type: strategy
 id: integrate-paradigms-longitudinal-hri-autonomy-research
 title: Integrate autonomy and agency paradigms, standardise instruments, probe non-demographic moderators, and extend evaluations to longitudinal real-world settings
 description: "The review derives four research and design recommendations for advancing autonomy-supportive robot design: integrating autonomy and agency paradigms in study designs, standardising definitions and instruments, probin..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -43,4 +43,4 @@ The review derives four research and design recommendations for advancing autono
 -
 
 ## Key Sources
-- Glawe, F., Schmeckel, T., Brauner, P., & Ziefle, M. (2025). Human Autonomy and Sense of Agency in Human-Robot Interaction: A Systematic Literature Review. arXiv. https://arxiv.org/abs/2509.22271
+- Glawe, F., Schmeckel, T., Brauner, P., & Ziefle, M. (2025). Human Autonomy and Sense of Agency in Human-Robot Interaction: A Systematic Literature Review. arXiv. https://arxiv.org/abs/2509.22271. [doi:10.48550/arxiv.2509.22271](https://doi.org/10.48550/arxiv.2509.22271)

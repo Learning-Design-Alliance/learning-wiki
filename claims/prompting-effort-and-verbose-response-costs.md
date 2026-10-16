@@ -3,7 +3,7 @@ type: claim
 title: "Prompting is a major source of AI-assisted cognitive effort: copying prompts reduces effort but not time, and verbose model responses can make AI-assisted completion slower than predicted"
 description: "Prompting is a major source of AI-assisted cognitive effort: copying prompts reduces effort but not time, and verbose model responses can make AI-assisted completion slower than predicted"
 id: prompting-effort-and-verbose-response-costs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

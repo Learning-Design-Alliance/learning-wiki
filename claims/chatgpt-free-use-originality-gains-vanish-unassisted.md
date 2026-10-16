@@ -4,7 +4,7 @@ title: Free ChatGPT use boosts originality on the assisted creative task but the
 description: Free ChatGPT use boosts originality on the assisted creative task but the advantage disappears when assistance is removed
 id: chatgpt-free-use-originality-gains-vanish-unassisted
 aliases: [think-first-chatgpt-creativity-reversal]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -88,3 +88,4 @@ The paper reports this secondhand, citing Wong and Qiu (2026): university studen
 - [Unguarded answer-giving AI harmed unaided exam performance while a guarded version of the same model erased the harm (Bastani et al., 2025, as reported)](gpt4-access-harms-learning-after-withdrawal.md) — related
 - [AI-assisted peer feedback enhanced lexical diversity only in the first writing task, with the group advantage disappearing by the second task](lexical-diversity-advantage-first-task-only.md) — related
 - [The general-AI group most often dictated ChatGPT to directly generate solutions while the regulated-AI group more frequently collaborated to improve self-generated ideas](prompt-type-differences-general-vs-regulated.md) — related
+- [ChatGPT sustains coherent, human-like multi-topic conversation and produces convincing creative content, as shown by the authors' own prompting test](chatgpt-interactive-conversational-capability.md) — related

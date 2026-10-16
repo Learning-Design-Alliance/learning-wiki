@@ -3,7 +3,7 @@ type: claim
 title: Random assignment in the Baker (1997) trial produced pretest differences favoring the comparison curriculum, controlled by using the pretest as a covariate
 description: Random assignment in the Baker (1997) trial produced pretest differences favoring the comparison curriculum, controlled by using the pretest as a covariate
 id: baker-trial-pretest-difference-covariate-control
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

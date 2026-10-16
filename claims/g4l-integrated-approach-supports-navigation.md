@@ -3,7 +3,7 @@ type: claim
 title: The integrated G4L approach combining graph-based modeling, database-driven tracking, and generative content creation successfully supported learner navigation and domain comprehension
 description: The integrated G4L approach combining graph-based modeling, database-driven tracking, and generative content creation successfully supported learner navigation and domain comprehension
 id: g4l-integrated-approach-supports-navigation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

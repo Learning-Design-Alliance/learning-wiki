@@ -3,7 +3,7 @@ type: claim
 title: Learning environment indicators only moderately discriminate between countries with high versus low ICT aspiration growth, with digital skills the strongest discriminant
 description: Learning environment indicators only moderately discriminate between countries with high versus low ICT aspiration growth, with digital skills the strongest discriminant
 id: lda-moderate-discrimination-ict-aspiration-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

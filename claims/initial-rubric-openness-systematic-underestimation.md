@@ -3,7 +3,7 @@ type: claim
 title: Under the initial rubric with direct evaluation, machine raters systematically underestimate openness while relevance and clarity align near-perfectly
 description: Under the initial rubric with direct evaluation, machine raters systematically underestimate openness while relevance and clarity align near-perfectly
 id: initial-rubric-openness-systematic-underestimation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

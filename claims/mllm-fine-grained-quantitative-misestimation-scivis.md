@@ -3,7 +3,7 @@ type: claim
 title: MLLMs show recurring failures in fine-grained quantitative estimation, often identifying the encoding and measurement strategy but misestimating precise values
 description: MLLMs show recurring failures in fine-grained quantitative estimation, often identifying the encoding and measurement strategy but misestimating precise values
 id: mllm-fine-grained-quantitative-misestimation-scivis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

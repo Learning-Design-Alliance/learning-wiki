@@ -3,7 +3,7 @@ type: claim
 title: Evidence for persistence of threat-induced reading improvements is less consistent than for math
 description: Evidence for persistence of threat-induced reading improvements is less consistent than for math
 id: sanction-threat-reading-gains-persistence-inconsistent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

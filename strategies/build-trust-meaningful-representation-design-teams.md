@@ -3,7 +3,7 @@ type: strategy
 id: build-trust-meaningful-representation-design-teams
 title: Form design teams by building trust and relationships and prioritizing meaningful representation before project kick-off.
 description: This strategy governs the first activity phase, forming design teams.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: LLM feedback adaptivity to student performance occurs only in frequently produced focus types and only in large or closed models
 description: LLM feedback adaptivity to student performance occurs only in frequently produced focus types and only in large or closed models
 id: llm-performance-adaptivity-limited-frequent-types
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

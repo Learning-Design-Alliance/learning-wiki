@@ -3,7 +3,7 @@ type: claim
 title: Process models and determinant frameworks differ in process perspective and determinant specificity, limiting cross-use
 description: Process models and determinant frameworks differ in process perspective and determinant specificity, limiting cross-use
 id: process-models-vs-determinant-frameworks-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

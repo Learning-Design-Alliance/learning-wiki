@@ -3,7 +3,7 @@ type: claim
 title: Deep learning techniques such as CNNs and RNNs better detect cheating from visual cues than traditional techniques, but each carries stated trade-offs
 description: Deep learning techniques such as CNNs and RNNs better detect cheating from visual cues than traditional techniques, but each carries stated trade-offs
 id: dl-cnn-rnn-better-visual-cheating-detection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

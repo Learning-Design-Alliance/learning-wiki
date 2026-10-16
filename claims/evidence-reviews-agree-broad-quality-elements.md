@@ -3,7 +3,7 @@ type: claim
 title: Fourteen federally funded evidence reviews agree on broad critical elements for assessing evaluation quality
 description: Fourteen federally funded evidence reviews agree on broad critical elements for assessing evaluation quality
 id: evidence-reviews-agree-broad-quality-elements
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

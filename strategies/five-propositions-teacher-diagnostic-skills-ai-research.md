@@ -3,7 +3,7 @@ type: strategy
 id: five-propositions-teacher-diagnostic-skills-ai-research
 title: "Use five conceptual propositions to guide research and professional development on teachers' diagnostic skills in AI-supported formative assessment"
 description: "The article derives five propositions for future research and teacher education: (1) AI-generated inferences change the diagnostic situation by adding an information source, raising questions about when teachers accep..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

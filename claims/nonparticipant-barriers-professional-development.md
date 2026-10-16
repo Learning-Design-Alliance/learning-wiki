@@ -3,7 +3,7 @@ type: claim
 title: Non-participation in intensive professional development reflected enjoyment, preparation, and conceptions of professional development, not experience or science background
 description: Non-participation in intensive professional development reflected enjoyment, preparation, and conceptions of professional development, not experience or science background
 id: nonparticipant-barriers-professional-development
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

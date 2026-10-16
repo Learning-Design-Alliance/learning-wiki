@@ -4,7 +4,7 @@ id: learnlens
 title: LearnLens
 description: LearnLens is a modular LLM-based feedback and assessment system developed by Zhao et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

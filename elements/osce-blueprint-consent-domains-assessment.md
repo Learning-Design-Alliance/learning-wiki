@@ -3,7 +3,7 @@ type: element
 id: osce-blueprint-consent-domains-assessment
 title: Blueprint-aligned OSCE station assessment for consent-taking skills
 description: "A practical skills assessment for consent-taking consisting of OSCE stations whose content was 'blueprint-aligned to the four domains of informed consent' — capacity, communication, voluntary decision-making, and disc..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

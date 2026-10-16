@@ -3,7 +3,7 @@ type: claim
 title: The marginality of Generator, Reimaginator, and Synthesizer entanglements reflects institutional accommodation of individualistic competence expectations rather than technological limitation
 description: The marginality of Generator, Reimaginator, and Synthesizer entanglements reflects institutional accommodation of individualistic competence expectations rather than technological limitation
 id: entanglement-distribution-reflects-institutional-accommodation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -2,7 +2,7 @@
 type: theory
 title: "Hanvey's attainable global perspective: four components of global awareness"
 description: The bibliography annotates Robert G.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

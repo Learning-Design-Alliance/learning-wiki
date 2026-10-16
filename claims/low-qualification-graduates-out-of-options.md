@@ -3,7 +3,7 @@ type: claim
 title: The modal post-graduation outcome for CPS graduates with very low college qualifications is neither working nor in school
 description: The modal post-graduation outcome for CPS graduates with very low college qualifications is neither working nor in school
 id: low-qualification-graduates-out-of-options
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

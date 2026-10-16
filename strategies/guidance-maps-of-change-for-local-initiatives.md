@@ -3,7 +3,7 @@ type: strategy
 id: guidance-maps-of-change-for-local-initiatives
 title: Provide well-researched maps of change to guide local initiative, alongside pluralism and self-determinism
 description: "The report's first lesson: \"while it may be important to encourage local pluralism and self-determinism in developing, adopting, and implementing initiatives to improve schools, it may be equally important to provide..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

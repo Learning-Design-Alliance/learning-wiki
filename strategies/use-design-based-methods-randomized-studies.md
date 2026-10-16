@@ -3,7 +3,7 @@ type: strategy
 id: use-design-based-methods-randomized-studies
 title: Use design-based methods for causal inference in randomized studies of individuals or groups
 description: "The brief recommends broadening knowledge of design-based methods by describing \"their key concepts and how they compare to model-based methods,\" presenting the approach's rudiments \"using simple mathematical notation..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

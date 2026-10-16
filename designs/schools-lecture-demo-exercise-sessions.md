@@ -3,7 +3,7 @@ type: design
 id: schools-lecture-demo-exercise-sessions
 title: "Schools: interactive lecture-demonstration-exercise sessions embedded in the project timeline"
 description: "Schools are the article's format for teaching base qualifications within the project."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Suspension is associated with long-term harms including higher risk of grade retention, dropout, and juvenile justice involvement
 description: Suspension is associated with long-term harms including higher risk of grade retention, dropout, and juvenile justice involvement
 id: suspension-long-term-harms-retention-dropout
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

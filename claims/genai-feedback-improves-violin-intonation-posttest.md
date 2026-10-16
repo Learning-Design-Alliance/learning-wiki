@@ -3,7 +3,7 @@ type: claim
 title: "Generative AI-assisted feedback is associated with a statistically significant pretest–posttest improvement in violin students' intonation performance over a four-week period"
 description: "Generative AI-assisted feedback is associated with a statistically significant pretest–posttest improvement in violin students' intonation performance over a four-week period"
 id: genai-feedback-improves-violin-intonation-posttest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

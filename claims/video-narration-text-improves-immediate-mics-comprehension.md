@@ -3,7 +3,7 @@ type: claim
 title: Video with concurrent narration and on-screen text yields higher immediate microstructure comprehension than text alone or narration with text
 description: Video with concurrent narration and on-screen text yields higher immediate microstructure comprehension than text alone or narration with text
 id: video-narration-text-improves-immediate-mics-comprehension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Lower-level phonological processing efficiency contributes significantly to individual differences in adult ESL reading measures
 description: Lower-level phonological processing efficiency contributes significantly to individual differences in adult ESL reading measures
 id: phonological-orthographic-efficiency-predicts-esl-reading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

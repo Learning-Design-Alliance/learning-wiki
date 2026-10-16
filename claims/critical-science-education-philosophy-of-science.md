@@ -3,7 +3,7 @@ type: claim
 title: Critical science education requires explicit attention to philosophy of science and rival theories
 description: Critical science education requires explicit attention to philosophy of science and rival theories
 id: critical-science-education-philosophy-of-science
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

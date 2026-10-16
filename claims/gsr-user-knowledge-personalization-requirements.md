@@ -3,7 +3,7 @@ type: claim
 title: Participants required GSR user-knowledge of learning goals, progress, learning type, emotions, and background, with privacy safeguards and informed consent
 description: Participants required GSR user-knowledge of learning goals, progress, learning type, emotions, and background, with privacy safeguards and informed consent
 id: gsr-user-knowledge-personalization-requirements
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: PTA traits significantly predict per-session success in the SWE-Chat developer corpus beyond a prior-outcome baseline
 description: PTA traits significantly predict per-session success in the SWE-Chat developer corpus beyond a prior-outcome baseline
 id: pta-traits-predict-swe-chat-session-success
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

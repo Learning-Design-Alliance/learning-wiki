@@ -3,7 +3,7 @@ type: claim
 title: Teacher support is negatively associated with AI dependency among university students
 description: Teacher support is negatively associated with AI dependency among university students
 id: teacher-support-negatively-associated-ai-dependency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Gains in source evaluation held regardless of the order in which students took the two assessment forms
 description: Gains in source evaluation held regardless of the order in which students took the two assessment forms
 id: gains-robust-to-test-form-order
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

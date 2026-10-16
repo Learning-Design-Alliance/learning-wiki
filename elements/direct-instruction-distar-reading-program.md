@@ -3,7 +3,7 @@ type: element
 id: direct-instruction-distar-reading-program
 title: Direct Instruction (Distar) reading program
 description: Direct Instruction, known as Distar in the 1960s, is a reading and mathematics instructional program for elementary students.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

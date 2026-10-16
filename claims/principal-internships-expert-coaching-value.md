@@ -3,7 +3,7 @@ type: claim
 title: "Field-based internships and on-the-job coaching by expert principals are reported as principals' most valuable but least experienced learning opportunity"
 description: "Field-based internships and on-the-job coaching by expert principals are reported as principals' most valuable but least experienced learning opportunity"
 id: principal-internships-expert-coaching-value
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

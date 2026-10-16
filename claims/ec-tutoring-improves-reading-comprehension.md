@@ -3,7 +3,7 @@ type: claim
 title: Students receiving Experience Corps tutoring and mentorship showed significant improvements in reading and comprehension skills
 description: Students receiving Experience Corps tutoring and mentorship showed significant improvements in reading and comprehension skills
 id: ec-tutoring-improves-reading-comprehension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

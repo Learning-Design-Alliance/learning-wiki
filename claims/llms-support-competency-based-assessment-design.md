@@ -3,7 +3,7 @@ type: claim
 title: LLMs support the shift from memorization-focused to competency-based assessment by generating rubrics, varied assessment items and authentic scenario-based tasks
 description: LLMs support the shift from memorization-focused to competency-based assessment by generating rubrics, varied assessment items and authentic scenario-based tasks
 id: llms-support-competency-based-assessment-design
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

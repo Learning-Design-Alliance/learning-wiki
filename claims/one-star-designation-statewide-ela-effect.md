@@ -3,7 +3,7 @@ type: claim
 title: Statewide, One-Star designation has a modest significant positive effect on ELA but not on math scores
 description: Statewide, One-Star designation has a modest significant positive effect on ELA but not on math scores
 id: one-star-designation-statewide-ela-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

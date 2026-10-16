@@ -3,7 +3,7 @@ type: element
 id: nwea-research-brief-school-entry-age-academic-growth
 title: NWEA research brief on school entry age and academic growth through second grade
 description: "A June 2020 NWEA research brief by Angela Johnson and Megan Kuhfeld addressing the question \"Does entering school older give students an edge?\" It summarizes a multi-state regression discontinuity analysis of academic..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

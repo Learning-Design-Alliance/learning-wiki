@@ -3,7 +3,7 @@ type: claim
 title: Teachers with the lowest value-added and observation scores are overrepresented in schools serving the most disadvantaged students
 description: Teachers with the lowest value-added and observation scores are overrepresented in schools serving the most disadvantaged students
 id: lowest-scoring-teachers-overrepresented-in-highest-poverty-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

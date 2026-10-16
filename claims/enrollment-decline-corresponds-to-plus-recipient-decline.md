@@ -3,7 +3,7 @@ type: claim
 title: The larger enrollment decline at HBCUs corresponded to the larger decline in PLUS recipients at those institutions
 description: The larger enrollment decline at HBCUs corresponded to the larger decline in PLUS recipients at those institutions
 id: enrollment-decline-corresponds-to-plus-recipient-decline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

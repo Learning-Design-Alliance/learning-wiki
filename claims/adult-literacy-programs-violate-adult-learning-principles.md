@@ -3,7 +3,7 @@ type: claim
 title: Many practices in adult literacy programs violate principles of learning for adults, including short-timeframe funding, isolated individualized learning, ignored learner experience, and non-meaningful materials
 description: Many practices in adult literacy programs violate principles of learning for adults, including short-timeframe funding, isolated individualized learning, ignored learner experience, and non-meaningful materials
 id: adult-literacy-programs-violate-adult-learning-principles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

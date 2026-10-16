@@ -3,7 +3,7 @@ type: strategy
 id: improvement-science-analytics-partnership-strategy
 title: Multi-stakeholder analytics partnership using improvement science with strict data governance
 description: The report recommends that districts, technology providers, and researchers form partnerships that use learning analytics for continuous improvement rather than evaluation.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -51,4 +51,4 @@ The report recommends that districts, technology providers, and researchers form
 -
 
 ## Key Sources
-- Peters, V., Means, B., Langworthy, M., Neufeld, P., Coe, R., Meehan, K., & Smith, S. (2018). Enabling Analytics for Improvement: Lessons from Year 2 of Fresno's Personalized Learning Initiative. Digital Promise. https://digitalpromise.dspacedirect.org/items/f5ad25ac-1bc9-4a05-9a4e-24c25ab19e8d
+- Peters, V., Means, B., Langworthy, M., Neufeld, P., Coe, R., Meehan, K., & Smith, S. (2018). Enabling Analytics for Improvement: Lessons from Year 2 of Fresno's Personalized Learning Initiative. Digital Promise. https://digitalpromise.dspacedirect.org/items/f5ad25ac-1bc9-4a05-9a4e-24c25ab19e8d. [doi:10.51388/20.500.12265/53](https://doi.org/10.51388/20.500.12265/53)

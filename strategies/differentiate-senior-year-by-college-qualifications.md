@@ -3,7 +3,7 @@ type: strategy
 id: differentiate-senior-year-by-college-qualifications
 title: "Differentiate senior year supports by students' college qualifications at the end of eleventh grade"
 description: The report groups students into five college-qualification bands (from access to very selective colleges down to two-year colleges only) and argues educators must grapple with different issues for each trajectory.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

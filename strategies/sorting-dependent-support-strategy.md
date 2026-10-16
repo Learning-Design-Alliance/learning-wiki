@@ -3,7 +3,7 @@ type: strategy
 id: sorting-dependent-support-strategy
 title: "Provide targeted support depending on sorting strategy: monitor students weakest relative to classmates, and support teachers of disruptive sorted classrooms with classroom management and challenging engagement"
 description: The release proposes that schools using skill-based sorting direct support according to who is most disadvantaged under that arrangement.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

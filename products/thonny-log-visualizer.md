@@ -4,7 +4,7 @@ id: thonny-log-visualizer
 title: Thonny Log Visualizer
 description: A teacher-facing web application developed by Heidi Taveter et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

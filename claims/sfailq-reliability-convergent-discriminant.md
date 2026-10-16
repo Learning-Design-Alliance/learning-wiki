@@ -3,7 +3,7 @@ type: claim
 title: SFAILQ shows high reliability, convergent validity with digital literacy (r = 0.49–0.68), and discriminant validity (HTMT below 0.80)
 description: SFAILQ shows high reliability, convergent validity with digital literacy (r = 0.49–0.68), and discriminant validity (HTMT below 0.80)
 id: sfailq-reliability-convergent-discriminant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -4,7 +4,7 @@ id: expert-annotated-clinical-consultation-corpus-of-207-sessions-and-4815-messa
 title: Expert-annotated clinical consultation corpus of 207 sessions and 4,815 messages with four annotation dimensions
 description: "Yang et al.'s dataset contains 207 medical-student clinical history-taking sessions and 4,815 human–AI dialogue turns annotated by clinical experts for message fidelity, dialogue intent, scaffolding need, and OSCE performance."
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10
@@ -28,4 +28,4 @@ Yang et al.'s dataset contains 207 medical-student clinical history-taking sessi
 -
 
 ## Key Sources
-- Yang, L., Liu, H., Li, S., Jia, R., Xiao, Y., Chen, G., & Lu, L. (2026). Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training. https://arxiv.org/abs/2609.10939
+- Yang, L., Liu, H., Li, S., Jia, R., Xiao, Y., Chen, G., & Lu, L. (2026). Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training. https://arxiv.org/abs/2609.10939. [doi:10.48550/arxiv.2609.10939](https://doi.org/10.48550/arxiv.2609.10939)

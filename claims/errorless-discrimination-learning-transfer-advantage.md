@@ -3,7 +3,7 @@ type: claim
 title: "Errorless discrimination training avoids emotional responses and yields more effective transfer than errorful training (Terrace's pigeon studies)"
 description: "Errorless discrimination training avoids emotional responses and yields more effective transfer than errorful training (Terrace's pigeon studies)"
 id: errorless-discrimination-learning-transfer-advantage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Teachers need professional development geared specifically to the curricula they teach, not only generic teaching skills or general content knowledge
 description: Teachers need professional development geared specifically to the curricula they teach, not only generic teaching skills or general content knowledge
 id: teachers-need-curriculum-specific-professional-development
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

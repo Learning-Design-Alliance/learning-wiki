@@ -3,7 +3,7 @@ type: claim
 title: Only about half of eligible children attend NC Pre-K, leaving almost 33,000 eligible children per year unserved
 description: Only about half of eligible children attend NC Pre-K, leaving almost 33,000 eligible children per year unserved
 id: nc-pre-k-half-of-eligible-children-unserved
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

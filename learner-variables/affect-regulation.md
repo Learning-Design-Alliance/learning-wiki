@@ -3,7 +3,7 @@ type: learner-variable
 id: affect-regulation
 title: Affect Regulation
 description: What a learner does with frustration, anxiety and failure while the work is still in front of them.
-status: draft
+status: review
 generated:
   by: "claude/unspecified"
   at: 2026-09-02
@@ -12,7 +12,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 91 claims (61 for, 21 mixed, 9 against) · 72 studies (19 associational, 15 causal, 14 review, 7 quant-synthesis, 7 qualitative, 5 design, 5 theoretical), `q1`–`q4` · 19 of 72 report an effect size · 89 claims rest on one study
+> **Evidence** · 94 claims (64 for, 21 mixed, 9 against) · 74 studies (19 associational, 17 causal, 14 review, 7 quant-synthesis, 7 qualitative, 5 design, 5 theoretical), `q1`–`q4` · 20 of 74 report an effect size · 92 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -131,6 +131,9 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [The anxiety–achievement correlation varies across educational levels, target languages, and anxiety types](../claims/anxiety-achievement-moderators-levels-languages-anxiety-types.md) [~M] — learners who differ on it differ in outcomes
 - [The anxiety–achievement correlation varies across types of language achievement measures](../claims/anxiety-achievement-varies-by-achievement-measure-type.md) [~M] — learners who differ on it differ in outcomes
 - [When only RCTs with active control groups are analysed, MBI benefits are restricted to Mindfulness (d = .42), Depression (d = .47) and Anxiety/Stress (d = .18)](../claims/active-control-rcts-benefits-restricted.md) [+M] — instruction changes it
+- [AI-assisted pair programming significantly reduced programming anxiety compared to individual programming](../claims/ai-assisted-pair-programming-reduces-programming-anxiety.md) [+M] — instruction changes it
+- [At semester end, intrinsic motivation was positively correlated and programming anxiety negatively correlated with programming performance](../claims/motivation-anxiety-correlate-with-programming-performance.md) [+M] — learners who differ on it differ in outcomes
+- [Chatbot-based instruction enhanced secondary students' learning experience by enabling self-paced study with less stress, time savings, and maintained motivation](../claims/chatbot-enhances-learning-experience-self-paced.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Belonging — decides whether a setback reads as difficulty or as evidence of not belonging.

@@ -3,7 +3,7 @@ type: claim
 title: CSC/CDP shows no discernible effects on knowledge, attitudes, and values
 description: CSC/CDP shows no discernible effects on knowledge, attitudes, and values
 id: csc-no-discernible-kav-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

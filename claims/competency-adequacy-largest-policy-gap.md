@@ -3,7 +3,7 @@ type: claim
 title: "On a common 0–1 metric, digital-competency adequacy shows the largest readiness gap (42.4%), followed by system readiness (21.3%)"
 description: "On a common 0–1 metric, digital-competency adequacy shows the largest readiness gap (42.4%), followed by system readiness (21.3%)"
 id: competency-adequacy-largest-policy-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

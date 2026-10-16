@@ -3,7 +3,7 @@ type: claim
 title: "Time delay and head pose variations relative to the screen were significant predictors of cheating, yielding 75.6% average detection accuracy"
 description: "Time delay and head pose variations relative to the screen were significant predictors of cheating, yielding 75.6% average detection accuracy"
 id: head-pose-time-delay-cheating-predictors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

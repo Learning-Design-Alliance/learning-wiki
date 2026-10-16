@@ -3,7 +3,7 @@ type: strategy
 id: multi-layered-rollout-capacity-building-optel
 title: Multi-layered, multi-year rollout combining guidance resources, webinars, workshops, and training-of-trainers to build local capacity for a new assessment tool
 description: The OPTEL rollout was planned as a multi-layered, multi-year endeavor whose initial priority was guidance that was compliant with law, clear and digestible, and informed by evidence.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

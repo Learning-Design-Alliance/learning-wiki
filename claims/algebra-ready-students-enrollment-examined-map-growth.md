@@ -3,7 +3,7 @@ type: claim
 title: Using nationwide MAP Growth scores, the brief examines how many students ready for Algebra actually enrolled in it
 description: Using nationwide MAP Growth scores, the brief examines how many students ready for Algebra actually enrolled in it
 id: algebra-ready-students-enrollment-examined-map-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Participants reported significant improvement in their ability to deliver, receive, and implement feedback between the seminar and the time of survey
 description: Participants reported significant improvement in their ability to deliver, receive, and implement feedback between the seminar and the time of survey
 id: group-processing-improves-feedback-delivery-reception-implementation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

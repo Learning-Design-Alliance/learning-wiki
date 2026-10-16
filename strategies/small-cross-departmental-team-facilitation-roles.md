@@ -3,7 +3,7 @@ type: strategy
 id: small-cross-departmental-team-facilitation-roles
 title: Form a small cross-departmental team with defined facilitation roles before starting alignment work
 description: "The guide advises forming a team across divisions and departments, including school, family, and student members, while warning against tokenizing these stakeholders: their \"roles are meaningful, that their voices and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

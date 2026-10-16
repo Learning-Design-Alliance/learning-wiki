@@ -3,7 +3,7 @@ type: claim
 title: Teacher confidence strongly predicts favorable attitudes toward AI adoption, while the direct effect of support on attitudes is not significant
 description: Teacher confidence strongly predicts favorable attitudes toward AI adoption, while the direct effect of support on attitudes is not significant
 id: confidence-predicts-ai-attitudes-support-direct-effect-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

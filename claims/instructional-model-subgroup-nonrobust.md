@@ -3,7 +3,7 @@ type: claim
 title: Instructional model shows a significant subgroup difference (traditional classroom g = 1.19 vs. AI teaching g = 0.69) that does not remain robust in multivariate meta-regression
 description: Instructional model shows a significant subgroup difference (traditional classroom g = 1.19 vs.
 id: instructional-model-subgroup-nonrobust
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -65,3 +65,5 @@ Multivariate robust meta-regression (HC3) controlling for risk-of-bias classific
 - [Study setting significantly moderates GenAI productivity effects: laboratory experiments show large significant gains (g = 0.73) while enterprise (g = 0.19) and open-source (g = 0.01) effects are substantially smaller and non-significant.](study-setting-moderates-genai-productivity-gains.md) — related
 - [Risk-of-bias classification is the only robust moderator of GenAI writing effects, with unrated studies showing significantly larger effects than high-risk studies](risk-of-bias-moderates-genai-writing-effects.md) — related
 - [Instructional method does not significantly moderate Gen-AI's effect on HOT, though project-based learning shows the largest subgroup effect (ES = 0.717) and lecture-based instruction a small non-significant effect (ES = 0.396)](genai-instructional-method-moderator.md) — related
+- The effect of ChatGPT on learning performance is moderated by type of course, learning model, and duration, with problem-based learning and 4–8-week interventions showing the largest effects — related
+- [Personalized learning models combining classroom use with student-centered pedagogies (Model C) exert larger effects than fully automated platforms (Model A)](hybrid-learning-models-outperform-fully-automated.md) — related

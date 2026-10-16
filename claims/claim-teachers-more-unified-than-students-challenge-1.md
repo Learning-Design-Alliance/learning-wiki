@@ -3,7 +3,7 @@ type: claim
 title: Teachers and students differed in how unified their pairing-preparation design preferences were, with teachers more aligned than students in Challenge 1.
 description: Teachers and students differed in how unified their pairing-preparation design preferences were, with teachers more aligned than students in Challenge 1.
 id: claim-teachers-more-unified-than-students-challenge-1
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -11,7 +11,7 @@ evidence_strength: moderate
 sources:
   - id: kexin-bella-yang-2026
     resource: "https://doi.org/10.1145/3816902"
-    title: "Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, and Vincent Aleven. (2026). Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing. https://scholar.google.com/scholar?q=Balancing+Teacher+and+Student+Agency+Co-Orchestration+Tool+Design+Supporting+Real-Time+Dynamic+Pairing [doi:10.1145/3816902](https://doi.org/10.1145/3816902)"
+    title: "Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, and Vincent Aleven. (2026). Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing. https://doi.org/10.1145/3816902 [doi:10.1145/3816902](https://doi.org/10.1145/3816902)"
     author: Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, and Vincent Aleven
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Kexin Bella Yang 2026
 
-Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, and Vincent Aleven. (2026). Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing. https://scholar.google.com/scholar?q=Balancing+Teacher+and+Student+Agency+Co-Orchestration+Tool+Design+Supporting+Real-Time+Dynamic+Pairing [doi:10.1145/3816902](https://doi.org/10.1145/3816902)
+Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, and Vincent Aleven. (2026). Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing. https://doi.org/10.1145/3816902 [doi:10.1145/3816902](https://doi.org/10.1145/3816902)
 
 `q2 · i?` · `design · r2`
 

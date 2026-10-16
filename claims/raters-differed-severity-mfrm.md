@@ -3,7 +3,7 @@ type: claim
 title: Raters differed significantly in severity/leniency in the MFRM analysis
 description: Raters differed significantly in severity/leniency in the MFRM analysis
 id: raters-differed-severity-mfrm
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

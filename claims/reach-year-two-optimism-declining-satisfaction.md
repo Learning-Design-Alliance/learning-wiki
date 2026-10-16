@@ -3,7 +3,7 @@ type: claim
 title: Teachers and principals remain optimistic about REACH in year two, but teacher satisfaction with the evaluation process declined from year one
 description: Teachers and principals remain optimistic about REACH in year two, but teacher satisfaction with the evaluation process declined from year one
 id: reach-year-two-optimism-declining-satisfaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

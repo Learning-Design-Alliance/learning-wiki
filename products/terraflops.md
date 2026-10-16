@@ -4,7 +4,7 @@ id: terraflops
 title: TerraFlops
 description: TerraFlops is an open-source wrapper described by Eimler et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10
@@ -28,4 +28,4 @@ TerraFlops is an open-source wrapper described by Eimler et al. for combining ha
 - [CodeCarbon](codecarbon.md)
 
 ## Key Sources
-- Eimler, S.C., Erle, L., Flood, D., Haiman, A., Häckert, L., Helgert, A., McGinness, L., Yapici, B. (2026). The Environmental Cost of LLMs in AIED: Reporting and Practices. https://arxiv.org/abs/2606.11215
+- Eimler, S.C., Erle, L., Flood, D., Haiman, A., Häckert, L., Helgert, A., McGinness, L., Yapici, B. (2026). The Environmental Cost of LLMs in AIED: Reporting and Practices. https://arxiv.org/abs/2606.11215. [doi:10.48550/arxiv.2606.11215](https://doi.org/10.48550/arxiv.2606.11215)

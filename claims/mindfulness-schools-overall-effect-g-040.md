@@ -3,7 +3,7 @@ type: claim
 title: School-based mindfulness interventions show overall effect sizes of g = 0.40 between groups and g = 0.41 within groups
 description: School-based mindfulness interventions show overall effect sizes of g = 0.40 between groups and g = 0.41 within groups
 id: mindfulness-schools-overall-effect-g-040
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

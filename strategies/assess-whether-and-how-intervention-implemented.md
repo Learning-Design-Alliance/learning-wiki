@@ -3,7 +3,7 @@ type: strategy
 id: assess-whether-and-how-intervention-implemented
 title: Assess whether and how the planned intervention is implemented
 description: "A core strategy the guide recommends is measuring fidelity and enactment: researchers should 'assess whether and how the planned intervention is implemented' as part of the impact study."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

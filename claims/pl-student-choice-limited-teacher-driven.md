@@ -3,7 +3,7 @@ type: claim
 title: "Student choice about learning content and path was limited: most teachers did not report high levels of student choice, and two-thirds to three-quarters of students reported rarely or never choosing"
 description: "Student choice about learning content and path was limited: most teachers did not report high levels of student choice, and two-thirds to three-quarters of students reported rarely or never choosing"
 id: pl-student-choice-limited-teacher-driven
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

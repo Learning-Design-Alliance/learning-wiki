@@ -3,7 +3,7 @@ type: claim
 title: The review reports, citing Meyer et al., that stacking micro-credentials increases employment by four percent and quarterly wages by seven percent
 description: The review reports, citing Meyer et al., that stacking micro-credentials increases employment by four percent and quarterly wages by seven percent
 id: stacking-microcredentials-increases-employment-wages
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

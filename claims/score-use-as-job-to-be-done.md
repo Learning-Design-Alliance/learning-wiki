@@ -3,7 +3,7 @@ type: claim
 title: "For classroom assessments of complex constructs such as learning progressions in math and science, test score use is more effectively conceptualized as part of a potential solution to a problem, or 'job-to-be-done'"
 description: "For classroom assessments of complex constructs such as learning progressions in math and science, test score use is more effectively conceptualized as part of a potential solution to a problem, or 'job-to-be-done'"
 id: score-use-as-job-to-be-done
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Charter administrators reported greater difficulty recruiting and hiring teachers and much higher teacher turnover, but far less difficulty removing poor teachers, than non-charter administrators in 2017
 description: Charter administrators reported greater difficulty recruiting and hiring teachers and much higher teacher turnover, but far less difficulty removing poor teachers, than non-charter administrators in 2017
 id: charter-non-charter-staffing-roadblock-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

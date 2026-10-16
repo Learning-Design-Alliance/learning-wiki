@@ -2,7 +2,7 @@
 type: theory
 title: "The C/I cycle: ideation followed by positive and negative critical thinking, iterated to refine solutions"
 description: "The article frames creativity as \"a cognitive process involving both the retrieval of information and making novel associations and connections about this information,\" which must then be critically evaluated."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -49,4 +49,4 @@ The article frames creativity as "a cognitive process involving both the retriev
 - [Menu of techniques for generating new ideas in subsequent C/I iterations](../strategies/idea-generation-techniques-menu.md)
 
 ## Key Sources
-- Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H. (2013). Technology-Enabled Nurturing of Creativity and Innovation: A Specific Illustration from an Undergraduate Engineering Physics Course. https://arxiv.org/abs/1308.2434
+- Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H. (2013). Technology-Enabled Nurturing of Creativity and Innovation: A Specific Illustration from an Undergraduate Engineering Physics Course. https://arxiv.org/abs/1308.2434. [doi:10.48550/arxiv.1308.2434](https://doi.org/10.48550/arxiv.1308.2434)

@@ -3,7 +3,7 @@ type: claim
 title: Milestone logic lets designers adapt TTX pacing to each team instead of delivering injects at predefined times.
 description: Milestone logic lets designers adapt TTX pacing to each team instead of delivering injects at predefined times.
 id: milestones-adapt-exercise-pace-per-team
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

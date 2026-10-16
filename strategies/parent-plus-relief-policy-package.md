@@ -3,7 +3,7 @@ type: strategy
 id: parent-plus-relief-policy-package
 title: "Policy package to ease Parent PLUS burdens: targeted cancellation, full IDR/PSLF access, lower rates, and affordable alternatives"
 description: "The brief closes with seven recommendations for Congress and the Biden administration aimed at reducing Black families' Parent PLUS burdens and making college affordable."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

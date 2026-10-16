@@ -4,7 +4,7 @@ id: freshman-ontrack
 title: Freshman OnTrack
 description: A school early-warning indicator and dashboard system that combines student attendance, grades, discipline, and momentum data to monitor freshman on-track status and guide support.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

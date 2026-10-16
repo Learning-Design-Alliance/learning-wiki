@@ -3,7 +3,7 @@ type: strategy
 id: embed-ail-modules-and-interdisciplinary-seminars
 title: Embed AIL across disciplines by adding modules to existing Digital Literacy courses and offering interdisciplinary AI ethics and legal seminars
 description: The article recommends that universities adopt adaptive curricula integrating AIL across multiple disciplines.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

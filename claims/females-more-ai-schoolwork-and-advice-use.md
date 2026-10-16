@@ -3,7 +3,7 @@ type: claim
 title: Female students are significantly more likely than male students to use AI for schoolwork and to seek advice from AI tools
 description: Female students are significantly more likely than male students to use AI for schoolwork and to seek advice from AI tools
 id: females-more-ai-schoolwork-and-advice-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

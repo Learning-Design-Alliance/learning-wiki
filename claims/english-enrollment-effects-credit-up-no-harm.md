@@ -3,15 +3,15 @@ type: claim
 title: Taking English I instead of remedial English substantially increased English I credit earning with no adverse consequences, but no GPA or reading-test benefits
 description: Taking English I instead of remedial English substantially increased English I credit earning with no adverse consequences, but no GPA or reading-test benefits
 id: english-enrollment-effects-credit-up-no-harm
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
 sources:
   - id: elaine-allensworth-2008
-    resource: "https://doi.org/10.3102/0162373709343471"
-    title: "Elaine Allensworth, Takako Nomi, Nicholas Montgomery, & Valerie E. Lee. (2008). College Preparatory Curriculum for All: Consequences of Ninth-Grade Course Taking in Algebra and English on Academic Outcomes in Chicago. Consortium on Chicago School Research at the University of Chicago. https://ccsr.uchicago.edu [doi:10.3102/0162373709343471](https://doi.org/10.3102/0162373709343471)"
+    resource: "https://ccsr.uchicago.edu"
+    title: "Elaine Allensworth, Takako Nomi, Nicholas Montgomery, & Valerie E. Lee. (2008). College Preparatory Curriculum for All: Consequences of Ninth-Grade Course Taking in Algebra and English on Academic Outcomes in Chicago. Consortium on Chicago School Research at the University of Chicago. https://ccsr.uchicago.edu"
     author: "Elaine Allensworth, Takako Nomi, Nicholas Montgomery, & Valerie E. Lee"
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Taking English I instead of remedial English substantially increased English I credit earning with no adverse consequences, but no GPA or reading-test benefits
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r?` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Students at all ability levels were much more likely to earn English I credit when enrolled in English I rather than remedial English, and failure rates were unaffected. [→ Elaine Allensworth 2008](#elaine-allensworth-2008)
@@ -40,7 +40,7 @@ sources:
 
 ### Elaine Allensworth 2008
 
-Elaine Allensworth, Takako Nomi, Nicholas Montgomery, & Valerie E. Lee. (2008). College Preparatory Curriculum for All: Consequences of Ninth-Grade Course Taking in Algebra and English on Academic Outcomes in Chicago. Consortium on Chicago School Research at the University of Chicago. https://ccsr.uchicago.edu [doi:10.3102/0162373709343471](https://doi.org/10.3102/0162373709343471)
+Elaine Allensworth, Takako Nomi, Nicholas Montgomery, & Valerie E. Lee. (2008). College Preparatory Curriculum for All: Consequences of Ninth-Grade Course Taking in Algebra and English on Academic Outcomes in Chicago. Consortium on Chicago School Research at the University of Chicago. https://ccsr.uchicago.edu
 
 `q2 · i?` · `associational · r?`
 

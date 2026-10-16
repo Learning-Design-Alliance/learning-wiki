@@ -3,7 +3,7 @@ type: claim
 title: Chicago graduation rates improved 17 percentage points (57 to 74 percent) between 2006 and 2015 while the ACT average rose from 17.6 to 18.5
 description: Chicago graduation rates improved 17 percentage points (57 to 74 percent) between 2006 and 2015 while the ACT average rose from 17.6 to 18.5
 id: cps-graduation-rate-57-to-74-act-rose
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

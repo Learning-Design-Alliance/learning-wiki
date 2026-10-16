@@ -3,7 +3,7 @@ type: claim
 title: All participants believed heritage learners perform better in classroom listening, but dialectal differences posed difficulties for HLLs that NHLLs did not notice
 description: All participants believed heritage learners perform better in classroom listening, but dialectal differences posed difficulties for HLLs that NHLLs did not notice
 id: perceived-hll-advantage-and-dialect-difficulty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

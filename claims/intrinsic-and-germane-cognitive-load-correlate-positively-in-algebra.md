@@ -3,7 +3,7 @@ type: claim
 title: Self-reported intrinsic and germane cognitive load correlate positively among college students solving algebra problems
 description: Self-reported intrinsic and germane cognitive load correlate positively among college students solving algebra problems
 id: intrinsic-and-germane-cognitive-load-correlate-positively-in-algebra
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

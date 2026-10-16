@@ -3,7 +3,7 @@ type: strategy
 id: traditional-and-nontraditional-engagement-ell
 title: Combine traditional and nontraditional approaches to family engagement for ELL families
 description: This strategy pairs conventional engagement methods with nontraditional outreach so that schools can reach ELL parents effectively.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

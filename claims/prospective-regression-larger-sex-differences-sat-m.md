@@ -3,7 +3,7 @@ type: claim
 title: Prospective regression analysis of the same data found somewhat larger sex differences in the same direction
 description: Prospective regression analysis of the same data found somewhat larger sex differences in the same direction
 id: prospective-regression-larger-sex-differences-sat-m
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

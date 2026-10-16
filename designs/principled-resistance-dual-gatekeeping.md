@@ -3,7 +3,7 @@ type: design
 id: principled-resistance-dual-gatekeeping
 title: "Principled resistance: theory-grounded, dual-layer gatekeeping of AI-generated educational content"
 description: "The article conceptualizes \"principled resistance\" as \"deliberate, theory-grounded pushback against AI outputs that fail pedagogical standards\", taking three concrete forms: rejecting (requesting regeneration), revisi..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

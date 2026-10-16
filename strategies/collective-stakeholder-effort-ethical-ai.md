@@ -3,7 +3,7 @@ type: strategy
 id: collective-stakeholder-effort-ethical-ai
 title: Pursue ethical AI feedback use as a collective effort across multiple stakeholders in and beyond higher education
 description: "The article states that \"promoting the ethical use of AI requires a collective effort from multiple stakeholders in and beyond higher education.\" This strategy assigns responsibility for ethical AI feedback practices..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

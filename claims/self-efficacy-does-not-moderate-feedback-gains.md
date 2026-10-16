@@ -3,7 +3,7 @@ type: claim
 title: "Children's self-efficacy for planning did not significantly moderate plan quality improvements after feedback"
 description: "Children's self-efficacy for planning did not significantly moderate plan quality improvements after feedback"
 id: self-efficacy-does-not-moderate-feedback-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

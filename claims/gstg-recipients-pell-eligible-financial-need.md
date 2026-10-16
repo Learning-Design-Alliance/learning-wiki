@@ -3,7 +3,7 @@ type: claim
 title: Nearly 4 in 5 GSTG teacher candidate recipients were income-eligible for the federal Pell Grant, far above the statewide undergraduate rate
 description: Nearly 4 in 5 GSTG teacher candidate recipients were income-eligible for the federal Pell Grant, far above the statewide undergraduate rate
 id: gstg-recipients-pell-eligible-financial-need
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

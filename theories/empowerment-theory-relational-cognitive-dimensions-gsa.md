@@ -2,7 +2,7 @@
 type: theory
 title: Empowerment theory with relational and cognitive dimensions frames the predicted benefits of peer discussion
 description: The article draws on empowerment theory (Christens et al., 2016) to frame how peer-driven discussions in youth-led groups may foster positive development.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

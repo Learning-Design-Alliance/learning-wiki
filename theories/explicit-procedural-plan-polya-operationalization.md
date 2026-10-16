@@ -2,7 +2,7 @@
 type: theory
 title: "Explicit step-by-step problem-solving plans operationalizing Polya's phases for middle-grade word problems"
 description: "The article describes textbook problem-solving plans derived from Polya's four phases, which give students steps to follow such as \"Read the problem, Plan, Find the answer, Check the answer,\" plus strategies for each..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

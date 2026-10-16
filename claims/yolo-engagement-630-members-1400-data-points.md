@@ -3,7 +3,7 @@ type: claim
 title: Community engagement for the needs assessment reached nearly 630 community members who provided over 1,400 points of collected data
 description: Community engagement for the needs assessment reached nearly 630 community members who provided over 1,400 points of collected data
 id: yolo-engagement-630-members-1400-data-points
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

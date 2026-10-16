@@ -3,7 +3,7 @@ type: strategy
 id: integrate-math-into-game-play-not-add-on
 title: Integrate math into game play and strategy rather than treating it as an add-on
 description: "Drawing on the study's qualitative findings that students consistently enjoyed the game, the authors recommend that future game designers consider the structure of games like NBA Math Hoops, \"in which math is integrat..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

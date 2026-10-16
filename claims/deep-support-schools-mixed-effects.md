@@ -3,7 +3,7 @@ type: claim
 title: Deep Support schools showed significantly larger test-score improvements but smaller improvements in academic demand, teacher support, and elementary grades than non-Deep-Support schools
 description: Deep Support schools showed significantly larger test-score improvements but smaller improvements in academic demand, teacher support, and elementary grades than non-Deep-Support schools
 id: deep-support-schools-mixed-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

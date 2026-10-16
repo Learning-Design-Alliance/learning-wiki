@@ -3,7 +3,7 @@ type: theory
 title: Varieties of Testimonial Injustice (Wanderer and Hookway)
 description: A taxonomy the article compiles in its Table 1.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

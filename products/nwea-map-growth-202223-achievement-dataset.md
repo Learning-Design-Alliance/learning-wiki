@@ -4,7 +4,7 @@ id: nwea-map-growth-202223-achievement-dataset
 title: NWEA MAP Growth 2022–23 achievement dataset
 description: A dataset assembled by NWEA from MAP Growth assessments for approximately 6.7 million U.S.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
@@ -72,7 +72,7 @@ The evidence base for the brief is an achievement dataset drawn from "6.7 millio
 ## Related Elements
 
 - [MAP Growth test-score dataset covering 4.9 million U.S. students in Grades 3-8](../products/nwea-map-growth-assessment-and-longitudinal-achievement-database.md)
-- [MAP Growth reading and mathematics assessment dataset (7 million students, grades 3-8, 25,000 schools, 2020-21 to fall 2022)](../products/nwea-map-growth.md)
+- [MAP Growth reading and mathematics assessment dataset (7 million students, grades 3-8, 25,000 schools, 2020-21 to fall 2022)](map-growth.md)
 - [MAP Growth assessments as the data source for pandemic learning-loss analysis](map-growth.md)
 
 ## Examples

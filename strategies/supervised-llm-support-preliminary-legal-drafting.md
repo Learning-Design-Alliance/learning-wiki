@@ -3,7 +3,7 @@ type: strategy
 id: supervised-llm-support-preliminary-legal-drafting
 title: Use current LLMs in the notary domain only as supervised support tools in preliminary drafting or educational contexts
 description: The article recommends deploying out-of-the-box LLMs in notarial work only in supporting roles, given their failure to produce valid deeds independently.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

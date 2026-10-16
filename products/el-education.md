@@ -4,7 +4,7 @@ id: el-education
 title: EL Education
 description: "EL Education's integrated English Language Arts curriculum and professional-learning program, developed and provided by EL Education for schools and teachers."
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
@@ -86,7 +86,7 @@ This element is the combined EL Education English Language Arts curriculum and p
 
 - Combine Curriculum And Professional Learning Alignment
 - [EL Education's Teacher Potential Project (TPP): standards-aligned ELA curriculum with embedded professional development](el-educations-teacher-potential-project-tpp.md)
-- [Teacher Potential Project (TPP): CCSS-aligned EL Education Language Arts Curriculum combined with intensive professional development](teacher-potential-project.md)
+- [Teacher Potential Project (TPP): CCSS-aligned EL Education Language Arts Curriculum combined with intensive professional development](el-educations-teacher-potential-project-tpp.md)
 
 ## Examples
 -
@@ -128,7 +128,7 @@ Expeditionary Learning middle schools are the school model evaluated in this Mat
 
 - [Expeditionary Learning (EL) model schools](expeditionary-learning.md)
 - [EL Education's Teacher Potential Project (TPP): standards-aligned ELA curriculum with embedded professional development](el-educations-teacher-potential-project-tpp.md)
-- [Teacher Potential Project (TPP): CCSS-aligned EL Education Language Arts Curriculum combined with intensive professional development](teacher-potential-project.md)
+- [Teacher Potential Project (TPP): CCSS-aligned EL Education Language Arts Curriculum combined with intensive professional development](el-educations-teacher-potential-project-tpp.md)
 
 ## Examples
 -

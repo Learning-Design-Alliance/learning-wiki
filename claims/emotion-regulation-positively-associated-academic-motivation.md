@@ -3,7 +3,7 @@ type: claim
 title: Emotion regulation is positively associated with academic motivation among university students
 description: Emotion regulation is positively associated with academic motivation among university students
 id: emotion-regulation-positively-associated-academic-motivation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Instruction in language, phonological awareness, and decoding improved performance in the taught domain, while interventions teaching print knowledge or early writing exclusively did not
 description: Instruction in language, phonological awareness, and decoding improved performance in the taught domain, while interventions teaching print knowledge or early writing exclusively did not
 id: taught-domain-instruction-improves-taught-domain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

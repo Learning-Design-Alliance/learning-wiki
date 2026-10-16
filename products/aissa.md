@@ -4,7 +4,7 @@ id: aissa
 title: AISSA
 description: AISSA is a web-based platform developed by Alvaro Becerra et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

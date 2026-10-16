@@ -4,7 +4,7 @@ id: special-r1
 title: Special-R1
 description: Special-R1 is a released artifact suite comprising a ZPD-filtered multi-domain tutoring corpus, the SPED-Tutor-Mix disability-aware evaluation set, seven model checkpoints, and an evaluation pipeline created by Unggi Lee et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

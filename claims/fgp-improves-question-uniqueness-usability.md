@@ -3,7 +3,7 @@ type: claim
 title: Fine-grained prompting substantially improves question uniqueness and usability of LLM-generated educational questions compared with Chain-of-Thought prompting
 description: Fine-grained prompting substantially improves question uniqueness and usability of LLM-generated educational questions compared with Chain-of-Thought prompting
 id: fgp-improves-question-uniqueness-usability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

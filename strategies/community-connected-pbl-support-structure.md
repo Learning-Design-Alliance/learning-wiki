@@ -3,7 +3,7 @@ type: strategy
 id: community-connected-pbl-support-structure
 title: Support community-connected project-based learning through PBL champions, collaboration time, and experience-tiered professional learning
 description: "LAUSD's CSI made community-connected PBL a cornerstone of its classroom-practice vision and supported it with a layered structure: professional development from several providers, a school-based PBL champion role at e..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

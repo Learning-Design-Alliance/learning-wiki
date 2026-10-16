@@ -3,7 +3,7 @@ type: strategy
 id: slow-early-pace-first-weeks
 title: Slow the pace of the first week or two of a corequisite course pair
 description: "A faculty-suggested implementation tactic for the one-term corequisite pairs: deliberately reduce the pace of the opening lessons so students adjust to the workload, the new learning strategies, and the course design."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

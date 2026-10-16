@@ -3,7 +3,7 @@ type: claim
 title: "Higher compliance with MetaTutor's review-notes prompt is associated with larger proportional learning gains"
 description: "Higher compliance with MetaTutor's review-notes prompt is associated with larger proportional learning gains"
 id: review-notes-compliance-predicts-learning-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

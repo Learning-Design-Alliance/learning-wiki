@@ -3,7 +3,7 @@ type: strategy
 id: integrate-ct-into-disciplinary-learning
 title: Integrate computational thinking into existing disciplinary teaching across grade bands rather than adding it on
 description: The guide recommends that educators embed computational thinking into topics they already teach, such as math and ELA, so it becomes a value-add rather than an add-on to an overscheduled day.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -49,6 +49,7 @@ The guide recommends that educators embed computational thinking into topics the
 - [Embed integration elements in the robot's persona and background so multicultural inclusion is addressed within regular activities](embed-integration-elements-robot-persona.md)
 - [Select familiar contextual topics and age-appropriate materials when integrating AI into subject courses](familiar-contexts-and-age-appropriate-materials-integrated-ai.md)
 - [Embed subject-specific web credibility modules into existing courses rather than creating standalone courses](embed-subject-specific-credibility-modules.md)
+- [Integrate AI literacy into disciplinary core subjects rather than adding a new AI subject](integrate-ai-literacy-into-core-subjects.md)
 
 ## Examples
 -

@@ -3,7 +3,7 @@ type: claim
 title: Interviews show students used scores to trigger action but reflected shallowly, derived planning from previous scores, and diverged emotionally
 description: Interviews show students used scores to trigger action but reflected shallowly, derived planning from previous scores, and diverged emotionally
 id: interviews-shallow-reflection-score-derived-planning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

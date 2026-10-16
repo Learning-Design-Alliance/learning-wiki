@@ -3,7 +3,7 @@ type: claim
 title: Daily teaching demands competed with and distracted from a sustained developmental focus on instructional improvement
 description: Daily teaching demands competed with and distracted from a sustained developmental focus on instructional improvement
 id: daily-demands-compete-with-developmental-focus
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

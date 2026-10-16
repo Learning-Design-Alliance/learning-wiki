@@ -3,7 +3,7 @@ type: element
 id: experience-corps-salesforce-technology
 title: Salesforce-based web database and online survey infrastructure for program management
 description: "The program's stated technology requirements include \"Internet access with an updated web browser to access a web-based Salesforce database system\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

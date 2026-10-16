@@ -3,7 +3,7 @@ type: claim
 title: Across ten districts combined, elementary schools show no statistically significant difference from an equitable distribution of highest-performing teachers
 description: Across ten districts combined, elementary schools show no statistically significant difference from an equitable distribution of highest-performing teachers
 id: elementary-equitable-distribution-highest-performing-teachers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

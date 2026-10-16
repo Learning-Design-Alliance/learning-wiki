@@ -16,7 +16,7 @@ sources:
   - id: graham-sandmel-2011
     resource: "https://doi.org/10.1080/00220671.2010.488703"
     title: "Graham, S., & Sandmel, S. (2011). The process writing approach: A meta-analysis. *The Journal of Educational Research, 104*(6), 396–407"
-    author: "Graham, S., & Sandmel, S"
+    author: "Graham, S., & Sandmel, K"
   - id: flower-hayes-1981
     resource: "https://doi.org/10.2307/356600"
     title: "Flower, L., & Hayes, J. R. (1981). A cognitive process theory of writing. *College Composition and Communication, 32*(4), 365–387"
@@ -130,7 +130,7 @@ The approach works because it distributes cognitive load across the composing cy
 - Calkins, L. (1994). *The Art of Teaching Writing* (2nd ed.). Heinemann.
 - Applebee, A. N., & Langer, J. A. (2011). A snapshot of writing instruction in middle schools and high schools. *English Journal, 100*(6), 14–27. [doi:10.58680/ej201116413](https://doi.org/10.58680/ej201116413)
 - Flower, L., & Hayes, J. R. (1981). A cognitive process theory of writing. *College Composition and Communication, 32*(4), 365–387. [doi:10.2307/356600](https://doi.org/10.2307/356600)
-- Graham, S., & Sandmel, S. (2011). The process writing approach: A meta-analysis. *The Journal of Educational Research, 104*(6), 396–407. [doi:10.1080/00220671.2010.488703](https://doi.org/10.1080/00220671.2010.488703)
+- Graham, S., & Sandmel, K. (2011). The process writing approach: A meta-analysis. *The Journal of Educational Research, 104*(6), 396–407. [doi:10.1080/00220671.2010.488703](https://doi.org/10.1080/00220671.2010.488703)
 - Hillocks, G. (1986). *Research on written composition: New directions for teaching.* Urbana, IL: NCTE.
 
 <!-- merged 2026-10-13 from strategies/writing_process_approach ("Writing Process Approach"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
@@ -201,6 +201,6 @@ The approach works because it externalizes and distributes the cognitive demands
 ## Key Sources
 - Flower, L., & Hayes, J. R. (1981). A cognitive process theory of writing. *College Composition and Communication, 32*(4), 365–387. [doi:10.2307/356600](https://doi.org/10.2307/356600)
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
-- Graham, S., & Sandmel, S. (2011). The process writing approach: A meta-analysis. *The Journal of Educational Research, 104*(6), 396–407. [doi:10.1080/00220671.2010.488703](https://doi.org/10.1080/00220671.2010.488703)
+- Graham, S., & Sandmel, K. (2011). The process writing approach: A meta-analysis. *The Journal of Educational Research, 104*(6), 396–407. [doi:10.1080/00220671.2010.488703](https://doi.org/10.1080/00220671.2010.488703)
 - Hillocks, G. (1986). *Research on written composition: New directions for teaching.* Urbana, IL: NCTE.
 -->

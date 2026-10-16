@@ -3,7 +3,7 @@ type: claim
 title: Middle school reading achievement in grades 6-8 remained stagnant after COVID-19 while math and elementary reading showed progress
 description: Middle school reading achievement in grades 6-8 remained stagnant after COVID-19 while math and elementary reading showed progress
 id: middle-school-reading-stagnant-post-covid
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

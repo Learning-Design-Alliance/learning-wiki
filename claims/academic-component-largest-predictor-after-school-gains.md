@@ -3,7 +3,7 @@ type: claim
 title: In a meta-analysis of 73 after-school programs, the presence of an academic component was the largest predictor of a program producing significant academic improvements
 description: In a meta-analysis of 73 after-school programs, the presence of an academic component was the largest predictor of a program producing significant academic improvements
 id: academic-component-largest-predictor-after-school-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

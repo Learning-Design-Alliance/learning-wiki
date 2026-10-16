@@ -3,7 +3,7 @@ type: strategy
 id: lockdown-drill-research-agenda
 title: Prioritize a research agenda on the long-term effects, optimal parameters, and trauma-skill tradeoffs of lockdown drills
 description: "The brief calls for \"carefully designed studies\" to fill the gaps in the sparse research base on lockdown drills."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -41,6 +41,7 @@ The brief calls for "carefully designed studies" to fill the gaps in the sparse 
 ## Related Strategies
 
 - [Prefer lockdown drills over highly realistic, unannounced active shooter exercises, embedding them in layered emergency preparedness](prefer-lockdown-drills-over-realistic-exercises.md)
+- [Research agenda for generative AI in teaching and learning: identify needed skills, resources and capabilities](generative-ai-skills-capabilities-research-agenda.md)
 
 ## Examples
 -

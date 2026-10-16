@@ -3,7 +3,7 @@ type: research-method
 id: me-checklist
 title: "M&E Checklist"
 description: "The M&E Checklist organizes evidence building into four sequential phases, each with its own document: \"Design the Solution (Phase 1), Refine the Solution (Phase 2), Assess for Early Evidence of Success (Phase 3), and Validate Effectiveness (Phase 4).\" The framework structures how developers of lear"
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

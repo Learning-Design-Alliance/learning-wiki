@@ -3,7 +3,7 @@ type: claim
 title: Schools implementing MTSS with higher fidelity show less absenteeism
 description: Schools implementing MTSS with higher fidelity show less absenteeism
 id: mtss-fidelity-lower-absenteeism
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

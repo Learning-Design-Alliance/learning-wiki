@@ -3,7 +3,7 @@ type: claim
 title: Short-term creativity interventions can be effective in changing creativity positively
 description: Short-term creativity interventions can be effective in changing creativity positively
 id: short-term-interventions-change-creativity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

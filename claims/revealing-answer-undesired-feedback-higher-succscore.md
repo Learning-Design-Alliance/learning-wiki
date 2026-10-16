@@ -3,7 +3,7 @@ type: claim
 title: For revealing_answer, pedagogically undesired feedback achieves higher SuccScore in both semesters, suggesting success via copying revealed answers
 description: For revealing_answer, pedagogically undesired feedback achieves higher SuccScore in both semesters, suggesting success via copying revealed answers
 id: revealing-answer-undesired-feedback-higher-succscore
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: schedule-collaboration-in-summer-or-pd-days
 title: Schedule collaboration during summer months or existing professional development days to overcome staff time constraints
 description: To address limited school staff time as an obstacle to cross-sector collaboration, the report recommends that funders and districts devote resources to finding specific ways to work around time constraints.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

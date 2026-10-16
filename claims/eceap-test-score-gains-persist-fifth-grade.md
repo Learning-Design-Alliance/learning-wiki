@@ -3,7 +3,7 @@ type: claim
 title: "Washington's ECEAP preschool students made test score gains in reading and math that persisted through 5th grade, per a Washington Institute for Public Policy evaluation"
 description: "Washington's ECEAP preschool students made test score gains in reading and math that persisted through 5th grade, per a Washington Institute for Public Policy evaluation"
 id: eceap-test-score-gains-persist-fifth-grade
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

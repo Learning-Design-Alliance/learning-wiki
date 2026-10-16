@@ -3,7 +3,7 @@ type: claim
 title: Broward College LINCS students showed statistically significant increases in employment (3.3 percent) and earnings (5.2 percent) since enrolling, but these gains cannot be attributed to the LINCS program because estimated impacts were not statistically significant
 description: Broward College LINCS students showed statistically significant increases in employment (3.3 percent) and earnings (5.2 percent) since enrolling, but these gains cannot be attributed to the LINCS program because estim...
 id: broward-gains-not-attributable-to-lincs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

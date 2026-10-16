@@ -3,7 +3,7 @@ type: claim
 title: Intellectually Ambitious Instruction Is Associated with Improved Student Learning Across Populations
 description: Intellectually Ambitious Instruction Is Associated with Improved Student Learning Across Populations
 id: intellectually-ambitious-instruction-improves-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

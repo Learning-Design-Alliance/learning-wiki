@@ -3,7 +3,7 @@ type: claim
 title: Workshop participants reported that the ESSA four-tier model under-delivers evidence about for whom and under what conditions technologies work
 description: Workshop participants reported that the ESSA four-tier model under-delivers evidence about for whom and under what conditions technologies work
 id: four-tier-model-misses-context-evidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

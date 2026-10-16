@@ -3,7 +3,7 @@ type: claim
 title: Review reports a controlled comparison favoring teacher-led instruction over student-centered instruction for grammar learning
 description: Review reports a controlled comparison favoring teacher-led instruction over student-centered instruction for grammar learning
 id: teacher-led-outperformed-student-centered-grammar
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Motivation filtering reversed the estimated Black-White fall-to-fall growth gap direction in later grades
 description: Motivation filtering reversed the estimated Black-White fall-to-fall growth gap direction in later grades
 id: filtering-reverses-black-white-growth-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Successful writing requires that the writer first become a sufficiently skillful reader to estimate the effect of the text on a prospective audience
 description: Successful writing requires that the writer first become a sufficiently skillful reader to estimate the effect of the text on a prospective audience
 id: skilled-reader-estimate-audience-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

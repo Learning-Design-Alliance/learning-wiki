@@ -3,7 +3,7 @@ type: claim
 title: "Faculty confidence in guiding student AI use rose markedly after the six-week institute, with high-confidence responses increasing from 0% to 60%"
 description: "Faculty confidence in guiding student AI use rose markedly after the six-week institute, with high-confidence responses increasing from 0% to 60%"
 id: ubridge-confidence-gains-pre-post
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

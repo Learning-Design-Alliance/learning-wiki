@@ -3,7 +3,7 @@ type: claim
 title: "School college-going climate predicts students' college enrollment steps and enrollment at colleges matching their qualifications"
 description: "School college-going climate predicts students' college enrollment steps and enrollment at colleges matching their qualifications"
 id: college-going-climate-predicts-enrollment-steps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

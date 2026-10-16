@@ -3,7 +3,7 @@ type: claim
 title: "TEI@4 selection shifts thinking-trace mass toward deeper deliberation, raising Schoenfeld Explore share by +10.8pp without changing the model"
 description: "TEI@4 selection shifts thinking-trace mass toward deeper deliberation, raising Schoenfeld Explore share by +10.8pp without changing the model"
 id: tei4-selects-deliberation-rich-candidates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

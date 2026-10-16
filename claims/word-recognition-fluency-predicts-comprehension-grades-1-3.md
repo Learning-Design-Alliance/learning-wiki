@@ -3,7 +3,7 @@ type: claim
 title: Word recognition fluency significantly predicted reading comprehension in grades 1-3, with rate becoming the stronger predictor by third grade
 description: Word recognition fluency significantly predicted reading comprehension in grades 1-3, with rate becoming the stronger predictor by third grade
 id: word-recognition-fluency-predicts-comprehension-grades-1-3
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

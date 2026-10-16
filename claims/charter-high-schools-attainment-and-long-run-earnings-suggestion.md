@@ -3,7 +3,7 @@ type: claim
 title: The brief suggests charter high schools may boost both postsecondary attainment and long-run earnings
 description: The brief suggests charter high schools may boost both postsecondary attainment and long-run earnings
 id: charter-high-schools-attainment-and-long-run-earnings-suggestion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

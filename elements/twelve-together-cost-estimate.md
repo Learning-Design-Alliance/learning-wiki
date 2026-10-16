@@ -3,7 +3,7 @@ type: element
 id: twelve-together-cost-estimate
 title: Estimated cost of Twelve Together implementation
 description: "Independent researchers estimated the cost of Twelve Together in Chula Vista, California, at \"$307 a student per month of program participation\" (in 2006 dollars)."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

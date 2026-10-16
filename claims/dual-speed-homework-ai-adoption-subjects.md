@@ -3,7 +3,7 @@ type: claim
 title: Frequency of generative AI use for homework differs significantly by subject, with natural sciences most resistant and economics most adopted
 description: Frequency of generative AI use for homework differs significantly by subject, with natural sciences most resistant and economics most adopted
 id: dual-speed-homework-ai-adoption-subjects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

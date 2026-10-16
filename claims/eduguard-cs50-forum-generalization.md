@@ -3,7 +3,7 @@ type: claim
 title: "On the external CS50-Forum set, EduGuard remains strongest with 86.7% correctness and 6.8% hallucination, though all systems lose grounding"
 description: "On the external CS50-Forum set, EduGuard remains strongest with 86.7% correctness and 6.8% hallucination, though all systems lose grounding"
 id: eduguard-cs50-forum-generalization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

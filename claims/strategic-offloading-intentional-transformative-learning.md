@@ -3,7 +3,7 @@ type: claim
 title: Strategic cognitive offloading can support transformative learning only when the offloading decision is intentional
 description: Strategic cognitive offloading can support transformative learning only when the offloading decision is intentional
 id: strategic-offloading-intentional-transformative-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

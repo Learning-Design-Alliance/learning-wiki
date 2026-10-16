@@ -3,7 +3,7 @@ type: claim
 title: Participants reported re-prioritizing relationship building with students and finding community and support for self-care
 description: Participants reported re-prioritizing relationship building with students and finding community and support for self-care
 id: edcamp-dfl-relationships-and-self-care
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

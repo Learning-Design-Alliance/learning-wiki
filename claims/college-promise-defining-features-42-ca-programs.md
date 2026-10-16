@@ -3,7 +3,7 @@ type: claim
 title: College Promise programs are defined by place-based eligibility and direct financial support, and all 42 California programs met these criteria in fall 2017
 description: College Promise programs are defined by place-based eligibility and direct financial support, and all 42 California programs met these criteria in fall 2017
 id: college-promise-defining-features-42-ca-programs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: research-method
 id: outcome-oriented-equity-framework-distinguishing-access-equity-from-impact-equity
 title: Outcome-oriented equity framework distinguishing access equity from impact equity
 description: The paper distinguishes access equity, whether students and institutions can obtain devices, broadband, software, and support, from impact equity, whether AI-enabled learning produces comparable gains across subgroups.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

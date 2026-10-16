@@ -3,7 +3,7 @@ type: claim
 title: "Compass Care participants reported trusting relationships with staff that improved students' comfort, safety, and emotional expression at school"
 description: "Compass Care participants reported trusting relationships with staff that improved students' comfort, safety, and emotional expression at school"
 id: compass-care-trusting-relationships-wellbeing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

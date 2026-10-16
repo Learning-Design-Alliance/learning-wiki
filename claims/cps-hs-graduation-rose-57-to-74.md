@@ -3,7 +3,7 @@ type: claim
 title: CPS high school graduation rates rose from 57 percent to 74 percent between 2006 and 2016
 description: CPS high school graduation rates rose from 57 percent to 74 percent between 2006 and 2016
 id: cps-hs-graduation-rose-57-to-74
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

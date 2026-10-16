@@ -3,7 +3,7 @@ type: claim
 title: Students of color and students with disabilities are disproportionately suspended and referred to law enforcement relative to their enrollment
 description: Students of color and students with disabilities are disproportionately suspended and referred to law enforcement relative to their enrollment
 id: disproportionate-discipline-students-of-color-disabilities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

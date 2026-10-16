@@ -4,7 +4,7 @@ id: powerschool-attendance-intervention
 title: PowerSchool Attendance Intervention
 description: "PowerSchool's attendance-intervention platform integrates attendance data into dashboards and supports educator-to-family messaging to help schools monitor and improve student attendance."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

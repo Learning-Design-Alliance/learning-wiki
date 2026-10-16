@@ -3,7 +3,7 @@ type: claim
 title: AI employment threat perception positively predicts career decision-making anxiety among Chinese college students
 description: AI employment threat perception positively predicts career decision-making anxiety among Chinese college students
 id: ai-employment-threat-perception-predicts-career-decision-making-anxiety
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

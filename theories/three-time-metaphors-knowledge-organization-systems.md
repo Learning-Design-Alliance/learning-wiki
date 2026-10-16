@@ -2,7 +2,7 @@
 type: theory
 title: "Three metaphors of time in knowledge organization systems: architectonic, ouroboric, and lachesic"
 description: The paper names and substantively describes three metaphors governing views of time and change in knowledge organization systems.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

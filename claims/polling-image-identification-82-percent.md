@@ -3,7 +3,7 @@ type: claim
 title: "Attendees correctly identified AI-generated images in 82% of polling responses, and polling served as a scaffold for discussion rather than a measurement tool"
 description: "Attendees correctly identified AI-generated images in 82% of polling responses, and polling served as a scaffold for discussion rather than a measurement tool"
 id: polling-image-identification-82-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

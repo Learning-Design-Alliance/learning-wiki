@@ -3,7 +3,7 @@ type: claim
 title: In human evaluation, abstraction preference was associated with perceived response quality, and more complex questions generally received lower ratings
 description: In human evaluation, abstraction preference was associated with perceived response quality, and more complex questions generally received lower ratings
 id: abstraction-perceived-quality-human-study
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

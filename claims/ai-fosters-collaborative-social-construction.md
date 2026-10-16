@@ -3,7 +3,7 @@ type: claim
 title: Teachers report AI tools foster collaborative, socially constructed learning through shared data and critical negotiation of AI outputs
 description: Teachers report AI tools foster collaborative, socially constructed learning through shared data and critical negotiation of AI outputs
 id: ai-fosters-collaborative-social-construction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

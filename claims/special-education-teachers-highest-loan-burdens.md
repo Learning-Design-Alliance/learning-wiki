@@ -3,7 +3,7 @@ type: claim
 title: "Special education teachers are the most likely of all subject-area teachers to have borrowed (65.2%) and to owe their entire balance (15.4%)"
 description: "Special education teachers are the most likely of all subject-area teachers to have borrowed (65.2%) and to owe their entire balance (15.4%)"
 id: special-education-teachers-highest-loan-burdens
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

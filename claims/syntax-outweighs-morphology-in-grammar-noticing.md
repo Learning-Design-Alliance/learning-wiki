@@ -3,7 +3,7 @@ type: claim
 title: "Learners' grammar noticing centers more on syntax than morphology, with syntax issues encountered by all participants"
 description: "Learners' grammar noticing centers more on syntax than morphology, with syntax issues encountered by all participants"
 id: syntax-outweighs-morphology-in-grammar-noticing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -47,3 +47,4 @@ In the same ten-participant think-aloud dataset, 24 syntactical LREs were identi
 - The article concludes adult learners acquire two things about English adverbs: their general syntactic positions and their scope — related
 - [Morphological noticing focuses mainly on verb forms, especially modals, and on preposition choice](morphological-noticing-verb-forms-modals-prepositions.md) — related
 - [Syntactical noticing focuses mainly on sentence length and ways of connecting clauses](syntactical-noticing-sentence-length-connecting-clauses.md) — related
+- [The study tested the interaction of explicit instruction with complexity and morphology/syntax across four L2 structures](experanto-interaction-design-four-l2-structures.md) — related

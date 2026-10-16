@@ -3,7 +3,7 @@ type: claim
 title: IF-AT exam scores correlate with constructed-response quiz scores (r = 0.67), supporting validity
 description: IF-AT exam scores correlate with constructed-response quiz scores (r = 0.67), supporting validity
 id: if-at-exam-scores-correlate-with-cr-quiz-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

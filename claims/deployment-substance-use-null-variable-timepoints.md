@@ -3,7 +3,7 @@ type: claim
 title: At other (variable) time points since exposure, deployed personnel do not have higher odds of screening positive for substance use than non-deployed personnel
 description: At other (variable) time points since exposure, deployed personnel do not have higher odds of screening positive for substance use than non-deployed personnel
 id: deployment-substance-use-null-variable-timepoints
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

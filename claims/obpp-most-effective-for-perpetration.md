@@ -3,7 +3,7 @@ type: claim
 title: The Olweus Bullying Prevention Program produced the largest effect sizes for bullying perpetration, with effectiveness varying between Norway and USA evaluations
 description: The Olweus Bullying Prevention Program produced the largest effect sizes for bullying perpetration, with effectiveness varying between Norway and USA evaluations
 id: obpp-most-effective-for-perpetration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

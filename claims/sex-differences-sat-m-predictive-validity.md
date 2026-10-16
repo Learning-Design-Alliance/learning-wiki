@@ -3,7 +3,7 @@ type: claim
 title: The score gaps constitute evidence of sex differences in the validity of the SAT-M as a predictor of college math performance, though not of their cause
 description: The score gaps constitute evidence of sex differences in the validity of the SAT-M as a predictor of college math performance, though not of their cause
 id: sex-differences-sat-m-predictive-validity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

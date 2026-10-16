@@ -2,7 +2,7 @@
 type: theory
 title: ECD framework as a conceptual and rhetorical structure for designing simulation studies in games-based assessment
 description: The article extends the evidence-centered design (ECD) framework beyond assessment design to the design of simulation studies investigating statistical methods for games-based assessment.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

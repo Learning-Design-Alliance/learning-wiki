@@ -3,7 +3,7 @@ type: claim
 title: Under the 2025 norms, higher math growth expectations lower conditional growth percentiles for higher-growth students
 description: Under the 2025 norms, higher math growth expectations lower conditional growth percentiles for higher-growth students
 id: 2025-norms-lower-math-cgp-higher-growth-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

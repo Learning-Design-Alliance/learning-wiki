@@ -3,7 +3,7 @@ type: strategy
 id: refuse-debate-until-challenge-met
 title: "Refuse debate with pseudoscience until the challenge is met, using the challenge's existence as the argument"
 description: "A communication strategy for educators and scientists facing pseudoscientific claims: point to the bare existence of an unmet challenge with large rewards rather than engaging in rhetorical debate."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

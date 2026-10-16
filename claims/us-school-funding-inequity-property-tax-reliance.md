@@ -3,7 +3,7 @@ type: claim
 title: "U.S. school funding is highly inequitable: districts serving the most students of color spend $1,800 less per student, and wealthier districts spend two to three times what the poorest can"
 description: U.S.
 id: us-school-funding-inequity-property-tax-reliance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

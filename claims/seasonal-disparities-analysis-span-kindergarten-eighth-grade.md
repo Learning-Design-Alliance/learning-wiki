@@ -3,7 +3,7 @@ type: claim
 title: The seasonal analysis of racial/ethnic disparities spans kindergarten through eighth grade
 description: The seasonal analysis of racial/ethnic disparities spans kindergarten through eighth grade
 id: seasonal-disparities-analysis-span-kindergarten-eighth-grade
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

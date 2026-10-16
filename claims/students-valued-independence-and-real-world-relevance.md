@@ -3,7 +3,7 @@ type: claim
 title: Students valued the independence, real-world relevance, hands-on work, and collaboration in challenge based lessons
 description: Students valued the independence, real-world relevance, hands-on work, and collaboration in challenge based lessons
 id: students-valued-independence-and-real-world-relevance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

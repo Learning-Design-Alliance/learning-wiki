@@ -3,7 +3,7 @@ type: strategy
 id: design-thinking-reimagining-school-safety
 title: Use a design thinking process with Empathize, Define, Ideate, Prototype, and Test stages to reimagine school safety
 description: "The guide recommends design thinking as a human-centered, recursive framework for transforming complex adaptive systems: \"A recursive process, design thinking has several distinct stages: Empathize, Define, Ideate, Pr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: culturally-responsive-strategies-adult-immigrant-instruction
 title: Incorporate culturally responsive strategies into adult immigrant instruction
 description: The article recommends instruction that encompasses cultural backgrounds by using learning materials and activities that allow for different levels of understanding.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -48,4 +48,4 @@ The article recommends instruction that encompasses cultural backgrounds by usin
 -
 
 ## Key Sources
-- Covington, K. C. D. (2024). Examining the learner perspective in US immigrant adults: Socioeconomic status and the mission to successfully integrate. Doctoral study. https://eric.ed.gov/?id=ED660747
+- Covington, K. C. D. (2024). Examining the learner perspective in US immigrant adults: Socioeconomic status and the mission to successfully integrate. Doctoral study. https://eric.ed.gov/?id=ED660747. [doi:10.33422/ijhep.v6i4.1084](https://doi.org/10.33422/ijhep.v6i4.1084)

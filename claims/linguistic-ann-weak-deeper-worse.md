@@ -3,7 +3,7 @@ type: claim
 title: Neural networks on linguistic features classify Key Stages poorly, with deeper networks performing worse; the best (one hidden layer, 175 ReLU) reached F1 = 0.392
 description: Neural networks on linguistic features classify Key Stages poorly, with deeper networks performing worse; the best (one hidden layer, 175 ReLU) reached F1 = 0.392
 id: linguistic-ann-weak-deeper-worse
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

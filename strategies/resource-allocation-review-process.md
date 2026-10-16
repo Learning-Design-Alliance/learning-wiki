@@ -3,7 +3,7 @@ type: strategy
 id: resource-allocation-review-process
 title: Conduct a resource allocation review to connect identified needs, evidence-based strategies, and resource allocation methods
 description: The resource allocation review (RAR) is a systematized process for SEA leaders to support LEAs in reviewing resource planning and alignment to address inequities.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

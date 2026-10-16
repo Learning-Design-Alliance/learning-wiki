@@ -3,7 +3,7 @@ type: claim
 title: No evidence of a significant decline in school climate scores between 2018/19 and 2021/22 in the Pennsylvania sample
 description: No evidence of a significant decline in school climate scores between 2018/19 and 2021/22 in the Pennsylvania sample
 id: no-lasting-pandemic-climate-decline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

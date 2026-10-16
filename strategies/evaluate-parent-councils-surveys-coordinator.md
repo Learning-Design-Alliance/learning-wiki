@@ -3,7 +3,7 @@ type: strategy
 id: evaluate-parent-councils-surveys-coordinator
 title: Regularly evaluate parent councils through surveys and feedback, supported by a family engagement coordinator
 description: "The brief closes its recommendations with continuous improvement: \"Organizations and schools should assess parent council effectiveness through surveys and feedback sessions identifying areas for improvement, and maki..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

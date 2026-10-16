@@ -4,7 +4,7 @@ id: the-ai-assessment-scale-aias
 title: The AI Assessment Scale (AIAS)
 description: A scale-based framework developed by Perkins et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10
@@ -33,5 +33,5 @@ A scale-based framework developed by Perkins et al. for guiding universities, st
 -
 
 ## Key Sources
-- Perkins, M., Postma, D., Roe, J., Sisay, S., & Holdcroft, C. (2026). 'A bit of chaos and madness': The AI Assessment Scale and the work of assessment reform. Preprint.
+- Perkins, M., Postma, D., Roe, J., Sisay, S., & Holdcroft, C. (2026). 'A bit of chaos and madness': The AI Assessment Scale and the work of assessment reform. Preprint. [doi:10.48550/arxiv.2606.26729](https://doi.org/10.48550/arxiv.2606.26729)
 - Md Zarzees Uddin Shah Chowdhury and Samin Rahman Khan. (2026). Evaluation in the Age of AI: Output as Evidence of Learning. https://arxiv.org/abs/2608.22660

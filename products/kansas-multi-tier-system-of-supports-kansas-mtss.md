@@ -4,7 +4,7 @@ id: kansas-multi-tier-system-of-supports-kansas-mtss
 title: Kansas Multi-Tier System of Supports (Kansas MTSS)
 description: A statewide framework run by the Kansas State Department of Education that organizes evidence-based academic and behavioral supports, assessment, data-based decision making, professional development, leadership, and implementation fidelity across Kansas public schools.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: In peg-solitaire simulations with known true abilities, the RLMM attains lower RMSE of log βj than the MDP-MM on all four original boards
 description: In peg-solitaire simulations with known true abilities, the RLMM attains lower RMSE of log βj than the MDP-MM on all four original boards
 id: rlmm-lower-rmse-than-mdp-mm-peg-solitaire
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

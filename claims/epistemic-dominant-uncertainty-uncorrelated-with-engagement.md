@@ -3,7 +3,7 @@ type: claim
 title: NIG-head predictive uncertainty is dominated by epistemic uncertainty and shows negligible correlation with the absolute engagement score (Pearson r 0.016 aleatoric, 0.025 epistemic)
 description: NIG-head predictive uncertainty is dominated by epistemic uncertainty and shows negligible correlation with the absolute engagement score (Pearson r 0.016 aleatoric, 0.025 epistemic)
 id: epistemic-dominant-uncertainty-uncorrelated-with-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

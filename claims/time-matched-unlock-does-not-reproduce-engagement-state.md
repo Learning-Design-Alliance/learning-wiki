@@ -3,7 +3,7 @@ type: claim
 title: "Time-matched unlocking did not reproduce the engagement state that triggered unlocks: most Time-Matched Unlock participants received access before meeting the discourse criteria"
 description: "Time-matched unlocking did not reproduce the engagement state that triggered unlocks: most Time-Matched Unlock participants received access before meeting the discourse criteria"
 id: time-matched-unlock-does-not-reproduce-engagement-state
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Interviewed students described active classrooms as disjointed and frustrating and preferred the fluent passive lecture
 description: Interviewed students described active classrooms as disjointed and frustrating and preferred the fluent passive lecture
 id: interviews-active-classrooms-disjointed-frustrating
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

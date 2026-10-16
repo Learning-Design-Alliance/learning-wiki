@@ -4,7 +4,7 @@ id: delicate-checklist
 title: DELICATE checklist
 description: The DELICATE checklist is a framework developed by Drachsler and Greller for guiding privacy-aware and trusted learning-analytics practice in educational organizations.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

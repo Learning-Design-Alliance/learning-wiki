@@ -3,7 +3,7 @@ type: claim
 title: Students characterised the skills needed for collaborative group work as interpersonal (social), problem solving, and group skills
 description: Students characterised the skills needed for collaborative group work as interpersonal (social), problem solving, and group skills
 id: pbl-skills-interpersonal-problem-solving-group
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

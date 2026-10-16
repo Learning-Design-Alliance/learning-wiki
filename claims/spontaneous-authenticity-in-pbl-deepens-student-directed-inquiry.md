@@ -2,7 +2,7 @@
 type: claim
 title: Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves
 id: spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

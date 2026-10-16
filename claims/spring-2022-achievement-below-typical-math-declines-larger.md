@@ -3,7 +3,7 @@ type: claim
 title: End-of-2021-22 student achievement remained lower than a typical year, with larger declines in math (5 to 10 percentile points) than reading (2 to 4 percentile points)
 description: End-of-2021-22 student achievement remained lower than a typical year, with larger declines in math (5 to 10 percentile points) than reading (2 to 4 percentile points)
 id: spring-2022-achievement-below-typical-math-declines-larger
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

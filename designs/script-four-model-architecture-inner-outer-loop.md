@@ -3,7 +3,7 @@ type: design
 id: script-four-model-architecture-inner-outer-loop
 title: Four-model ITS architecture with inner and outer loop pedagogical model
 description: "SCRIPT adopts the standard four-models ITS approach: \"a Pedagogical Model, a Learner Model, a Domain Model, and a User Interface.\" The pedagogical model follows VanLehn's inner/outer loop differentiation: \"The outer l..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

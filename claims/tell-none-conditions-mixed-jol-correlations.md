@@ -3,7 +3,7 @@ type: claim
 title: Tell and no-agent conditions showed no significant JoL–confidence correlations, with mixed results for progress and mastery
 description: Tell and no-agent conditions showed no significant JoL–confidence correlations, with mixed results for progress and mastery
 id: tell-none-conditions-mixed-jol-correlations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

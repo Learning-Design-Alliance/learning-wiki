@@ -3,7 +3,7 @@ type: strategy
 id: participatory-design-ia-collaborative-learning
 title: Engage stakeholders in participatory design and research for AI-augmented collaborative learning
 description: "In closing, the presentation poses guiding questions for advancing intelligence augmentation for collaborative learning: whether it is a compelling grand challenge, what is known that can be brought to bear to acceler..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

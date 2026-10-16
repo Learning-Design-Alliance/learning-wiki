@@ -3,7 +3,7 @@ type: claim
 title: An epistemological account of human-GAI engagement lays a foundation for alternative approaches to teaching, assessment, professional development and AI governance
 description: An epistemological account of human-GAI engagement lays a foundation for alternative approaches to teaching, assessment, professional development and AI governance
 id: epistemological-gai-account-informs-teaching-assessment-governance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

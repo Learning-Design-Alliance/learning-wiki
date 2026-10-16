@@ -3,7 +3,7 @@ type: claim
 title: Policy packages fall into four archetypes defined by which design element is missing
 description: Policy packages fall into four archetypes defined by which design element is missing
 id: four-policy-archetypes-ai-guidance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

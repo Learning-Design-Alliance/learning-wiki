@@ -2,7 +2,7 @@
 type: theory
 title: "Five-stage developmental theory of pedagogical expertise: novice, advanced beginner, competent, proficient, expert"
 description: "The article presents a stage theory of skill acquisition in teaching, following the Dreyfus brothers' general model."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

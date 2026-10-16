@@ -3,7 +3,7 @@ type: claim
 title: Higher self-reported confusion predicts a much larger negative effect on future performance when learners answer more questions incorrectly
 description: Higher self-reported confusion predicts a much larger negative effect on future performance when learners answer more questions incorrectly
 id: confusion-amplifies-negative-effect-of-incorrect-trials
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

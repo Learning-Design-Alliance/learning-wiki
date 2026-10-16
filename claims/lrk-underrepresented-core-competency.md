@@ -3,7 +3,7 @@ type: claim
 title: Legal and Regulatory Knowledge is the least represented AIL dimension in existing conceptualizations yet is framed as a core competency given evolving regulation
 description: Legal and Regulatory Knowledge is the least represented AIL dimension in existing conceptualizations yet is framed as a core competency given evolving regulation
 id: lrk-underrepresented-core-competency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

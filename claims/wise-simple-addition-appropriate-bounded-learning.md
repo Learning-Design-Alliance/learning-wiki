@@ -3,7 +3,7 @@ type: claim
 title: Simple addition of through-course results is appropriate only when learning is bounded to each testing period
 description: Simple addition of through-course results is appropriate only when learning is bounded to each testing period
 id: wise-simple-addition-appropriate-bounded-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

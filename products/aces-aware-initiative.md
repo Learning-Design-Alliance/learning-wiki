@@ -4,7 +4,7 @@ id: aces-aware-initiative
 title: ACEs Aware Initiative
 description: A California statewide initiative led by the California Surgeon General and the Department of Health Care Services that promotes adverse childhood experiences screening, provider training, and trauma-informed systems of care.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Students rate LLM-generated simplified instructions positively, averaging 7.83 on a 1-10 usefulness scale across 42 ratings in a live cybersecurity course
 description: Students rate LLM-generated simplified instructions positively, averaging 7.83 on a 1-10 usefulness scale across 42 ratings in a live cybersecurity course
 id: student-feedback-7-83-ocr-llm-instructions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

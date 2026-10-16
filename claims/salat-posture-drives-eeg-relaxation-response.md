@@ -3,7 +3,7 @@ type: claim
 title: Posture rather than concurrent recitation principally drives EEG relaxation responses during Islamic prayer (Salat)
 description: Posture rather than concurrent recitation principally drives EEG relaxation responses during Islamic prayer (Salat)
 id: salat-posture-drives-eeg-relaxation-response
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

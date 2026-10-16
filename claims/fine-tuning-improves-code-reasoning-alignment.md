@@ -3,7 +3,7 @@ type: claim
 title: Fine-tuning primarily improves alignment between code generation and visual reasoning rather than visual understanding or spatial reasoning
 description: Fine-tuning primarily improves alignment between code generation and visual reasoning rather than visual understanding or spatial reasoning
 id: fine-tuning-improves-code-reasoning-alignment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

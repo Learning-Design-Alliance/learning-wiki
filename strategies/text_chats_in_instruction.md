@@ -69,7 +69,7 @@ Text chat functions as a low-threshold participation and feedback channel, which
 - [Escalating multi-channel contact immediately upon missed assessment, starting with SMS](escalating-multichannel-contact-missed-assessment.md)
 
 ## Examples
-- **Remind (https://www.remind.com)** — school-safe SMS/announcement platforms used for assignment reminders, quick pulse questions, and parent communication.
+- **[Remind](../products/remind.md) (https://www.remind.com)** — school-safe SMS/announcement platforms used for assignment reminders, quick pulse questions, and parent communication.
 - **Backchannel with Slack or Discord in university courses** — instructors run course Q&A channels where peers answer first and instructors endorse or correct, building a searchable archive of explanations.
 - **SMS retrieval practice in field settings** — studies sending spaced text-message questions to students between classes report improved study engagement and retention [~M].
 

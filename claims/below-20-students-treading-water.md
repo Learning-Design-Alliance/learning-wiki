@@ -3,7 +3,7 @@ type: claim
 title: Students who fail to reach an ACT 20 gained only 0.6 points from PLAN to ACT versus 3.3 for those who reached 20, falling behind expected gains
 description: Students who fail to reach an ACT 20 gained only 0.6 points from PLAN to ACT versus 3.3 for those who reached 20, falling behind expected gains
 id: below-20-students-treading-water
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

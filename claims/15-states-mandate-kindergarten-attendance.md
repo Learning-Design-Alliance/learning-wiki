@@ -3,7 +3,7 @@ type: claim
 title: Only 15 states and the District of Columbia mandate kindergarten attendance, and 11 of those states require students to take a KEA
 description: Only 15 states and the District of Columbia mandate kindergarten attendance, and 11 of those states require students to take a KEA
 id: 15-states-mandate-kindergarten-attendance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

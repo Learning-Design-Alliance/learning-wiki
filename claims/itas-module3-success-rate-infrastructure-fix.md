@@ -3,7 +3,7 @@ type: claim
 title: "Module 3 code execution success dropped to approximately 60% before a missing-dependency infrastructure fix, recovering to match the 86–87% rates of Modules 1 and 2"
 description: "Module 3 code execution success dropped to approximately 60% before a missing-dependency infrastructure fix, recovering to match the 86–87% rates of Modules 1 and 2"
 id: itas-module3-success-rate-infrastructure-fix
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

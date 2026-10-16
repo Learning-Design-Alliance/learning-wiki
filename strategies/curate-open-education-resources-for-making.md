@@ -3,7 +3,7 @@ type: strategy
 id: curate-open-education-resources-for-making
 title: "Curate and connect open education resources for making, re-formatted and linked to standards, to meet champions' demand for student project guides"
 description: "In response to the survey finding that student project ideas and guides were the highest-ranked need, Digital Promise and Maker Ed committed to launching an effort to \"curate and connect available open education resou..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

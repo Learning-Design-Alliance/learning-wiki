@@ -3,7 +3,7 @@ type: element
 id: openalex-workshop-organizer-bibliometric-corpus
 title: OpenAlex-seeded bibliometric corpus of workshop organizer publications
 description: "The study's dataset is built from publication records of 22 workshop organizers retrieved from the OpenAlex database, yielding a coauthorship corpus of \"2,197 authors and over 4,000 publications.\" A topic-filtered sub..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

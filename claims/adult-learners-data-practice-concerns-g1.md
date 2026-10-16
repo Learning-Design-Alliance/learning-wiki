@@ -3,7 +3,7 @@ type: claim
 title: Adult learners raised data-practice concerns that did not map onto the Community of Inquiry framework, including not knowing what data is collected and where it goes
 description: Adult learners raised data-practice concerns that did not map onto the Community of Inquiry framework, including not knowing what data is collected and where it goes
 id: adult-learners-data-practice-concerns-g1
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

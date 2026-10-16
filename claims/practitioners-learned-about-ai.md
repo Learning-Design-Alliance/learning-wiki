@@ -3,7 +3,7 @@ type: claim
 title: Practitioner Advisory Board members reported learning more about AI and related edtech through their engagement
 description: Practitioner Advisory Board members reported learning more about AI and related edtech through their engagement
 id: practitioners-learned-about-ai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

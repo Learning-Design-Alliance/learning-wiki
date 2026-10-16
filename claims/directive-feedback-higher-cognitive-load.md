@@ -3,7 +3,7 @@ type: claim
 title: Directive feedback is associated with higher cognitive load than Socratic feedback, with no agent-type effects on learning experiences
 description: Directive feedback is associated with higher cognitive load than Socratic feedback, with no agent-type effects on learning experiences
 id: directive-feedback-higher-cognitive-load
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

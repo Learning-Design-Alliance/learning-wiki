@@ -3,7 +3,7 @@ type: claim
 title: The entrance-age achievement association appears in the first months of kindergarten and declines sharply in subsequent years
 description: The entrance-age achievement association appears in the first months of kindergarten and declines sharply in subsequent years
 id: entrance-age-gap-declines-after-kindergarten-entry
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

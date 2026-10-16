@@ -3,7 +3,7 @@ type: claim
 title: "Nearly half of California's UPK classrooms were stand-alone TK classes, but small LEAs were far less able to offer stand-alone TK than medium and large LEAs"
 description: "Nearly half of California's UPK classrooms were stand-alone TK classes, but small LEAs were far less able to offer stand-alone TK than medium and large LEAs"
 id: upk-classroom-models-stand-alone-size-gradient
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

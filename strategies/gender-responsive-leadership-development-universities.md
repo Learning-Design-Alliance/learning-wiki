@@ -3,7 +3,7 @@ type: strategy
 id: gender-responsive-leadership-development-universities
 title: "Gender-responsive leadership development: promote servant leadership universally and deploy transformational practices for their harassment-preventive value to female faculty"
 description: "The article recommends that university management be gender-responsive rather than uniform: servant leadership can be promoted as a universally effective resource, while transformational practices should be cultivated..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

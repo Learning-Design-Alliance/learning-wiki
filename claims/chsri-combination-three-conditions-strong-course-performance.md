@@ -3,7 +3,7 @@ type: claim
 title: In CHSRI small high schools, strong freshman course performance is associated with the combination of developmental practices, deep principal leadership, and teacher influence
 description: In CHSRI small high schools, strong freshman course performance is associated with the combination of developmental practices, deep principal leadership, and teacher influence
 id: chsri-combination-three-conditions-strong-course-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

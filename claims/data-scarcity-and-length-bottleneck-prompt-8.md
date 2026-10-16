@@ -3,7 +3,7 @@ type: claim
 title: "Data scarcity and long-form generation remain bottlenecks: on Prompt 8 prompting outperforms SFT and GRPO"
 description: "Data scarcity and long-form generation remain bottlenecks: on Prompt 8 prompting outperforms SFT and GRPO"
 id: data-scarcity-and-length-bottleneck-prompt-8
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

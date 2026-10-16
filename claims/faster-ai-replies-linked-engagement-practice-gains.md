@@ -3,7 +3,7 @@ type: claim
 title: In Quantitative AI sessions, faster AI replies were associated with more engagement, more correct practice, and larger learning gains; these associations were not significant in Verbal
 description: In Quantitative AI sessions, faster AI replies were associated with more engagement, more correct practice, and larger learning gains; these associations were not significant in Verbal
 id: faster-ai-replies-linked-engagement-practice-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

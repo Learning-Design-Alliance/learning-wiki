@@ -3,7 +3,7 @@ type: claim
 title: Chinese HSS students prefer partial or optional GenAI curricular integration supported by practice-oriented training and clear institutional guidelines
 description: Chinese HSS students prefer partial or optional GenAI curricular integration supported by practice-oriented training and clear institutional guidelines
 id: genai-partial-integration-preferences-hss
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

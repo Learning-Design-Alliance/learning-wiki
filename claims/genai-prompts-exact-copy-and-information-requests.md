@@ -3,7 +3,7 @@ type: claim
 title: "Students' GenAI prompts overwhelmingly exact-copy instructions and request information rather than review"
 description: "Students' GenAI prompts overwhelmingly exact-copy instructions and request information rather than review"
 id: genai-prompts-exact-copy-and-information-requests
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

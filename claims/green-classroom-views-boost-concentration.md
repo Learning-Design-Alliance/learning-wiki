@@ -3,7 +3,7 @@ type: claim
 title: "Classroom views of greenery improve children's concentration compared with built views or windowless classrooms"
 description: "Classroom views of greenery improve children's concentration compared with built views or windowless classrooms"
 id: green-classroom-views-boost-concentration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

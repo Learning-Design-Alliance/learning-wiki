@@ -4,7 +4,7 @@ id: meds-dataset-of-28000-llm-runs-across-four-mathematics-education-tasks
 title: MEDS dataset of 28,000 LLM runs across four mathematics-education tasks
 description: A publicly released dataset by Esposito et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11
@@ -34,4 +34,4 @@ A publicly released dataset by Esposito et al. containing 28,000 structured mult
 - [The Pedagogy Benchmark](the-pedagogy-benchmark.md)
 
 ## Key Sources
-- Esposito, N., Tricarico, A., Porzio, L., Aghazadeh Ardebili, A., & Stella, M. (2026). Math Education Digital Shadows for Investigating Learning with GenAI: Mathematics Performance, Anxiety, and Confidence in LLMs. arXiv preprint. https://arxiv.org/abs/2604.27618
+- Esposito, N., Tricarico, A., Porzio, L., Aghazadeh Ardebili, A., & Stella, M. (2026). Math Education Digital Shadows for Investigating Learning with GenAI: Mathematics Performance, Anxiety, and Confidence in LLMs. arXiv preprint. https://arxiv.org/abs/2604.27618. [doi:10.48550/arxiv.2604.27618](https://doi.org/10.48550/arxiv.2604.27618)

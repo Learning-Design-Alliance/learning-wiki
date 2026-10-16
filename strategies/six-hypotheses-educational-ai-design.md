@@ -3,7 +3,7 @@ type: strategy
 id: six-hypotheses-educational-ai-design
 title: Six empirically grounded hypotheses for educational AI design
 description: "The article proposes six hypotheses for educational contexts where AI participates: H1 prompt engineering or fine-tuning for questioning behaviors; H2 AI peers in skill-oriented contexts such as coding bootcamps and m..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

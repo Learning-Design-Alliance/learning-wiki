@@ -3,7 +3,7 @@ type: claim
 title: Strong personalized student supports tend to accompany strong freshman course performance but may not be essential
 description: Strong personalized student supports tend to accompany strong freshman course performance but may not be essential
 id: student-supports-tend-accompany-strong-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -2,7 +2,7 @@
 type: theory
 title: Teacher-driven, competency-based professional learning modeled on personalized student learning
 description: "The report organizes its argument around a model in which the logic of personalized student learning and competency-based education contours educator professional learning: educators should customize their own PD alig..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

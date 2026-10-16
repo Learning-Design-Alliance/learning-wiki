@@ -3,7 +3,7 @@ type: research-method
 id: three-step-framework-for-generating-validated-natural-language-explanations-of-question-di
 title: Three-step framework for generating validated natural-language explanations of question difficulty
 description: "The article introduces a framework that treats difficulty as \"a quantity to be explained\" rather than only estimated."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: design
 id: cyberagents-competency-mapping-module
 title: Competency-mapping module organizing curriculum topics by difficulty, prerequisites, and concept clusters
 description: The competency-mapping module extracts structured competencies from course materials using a cybersecurity-specific competency schema.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10
@@ -50,4 +50,4 @@ The competency-mapping module extracts structured competencies from course mater
 -
 
 ## Key Sources
-- Hornung, I., Marasinghe Arachchige, D., Kumarage, T., Agrawal, G., Deng, Y., Chen, Y.-C., & Liu, H. (2026). CyberAGENTS: Structured Autonomy for Agentic Gamified Learning in Cybersecurity. Preprint. https://arxiv.org/abs/2608.07965
+- Hornung, I., Marasinghe Arachchige, D., Kumarage, T., Agrawal, G., Deng, Y., Chen, Y.-C., & Liu, H. (2026). CyberAGENTS: Structured Autonomy for Agentic Gamified Learning in Cybersecurity. Preprint. https://arxiv.org/abs/2608.07965. [doi:10.48550/arxiv.2608.07965](https://doi.org/10.48550/arxiv.2608.07965)

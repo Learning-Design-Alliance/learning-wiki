@@ -3,7 +3,7 @@ type: claim
 title: Success rates decrease monotonically from easy to medium to hard difficulty levels across all models
 description: Success rates decrease monotonically from easy to medium to hard difficulty levels across all models
 id: monotonic-difficulty-decline-turtleai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

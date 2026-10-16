@@ -3,7 +3,7 @@ type: claim
 title: Students without prior programming experience anchor more heavily in code and engage minimally with metaphor views compared to students with prior experience
 description: Students without prior programming experience anchor more heavily in code and engage minimally with metaphor views compared to students with prior experience
 id: prior-experience-shapes-view-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

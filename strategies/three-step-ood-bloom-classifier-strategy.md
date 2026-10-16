@@ -3,7 +3,7 @@ type: strategy
 id: three-step-ood-bloom-classifier-strategy
 title: Three-step decision strategy for addressing model performance loss on novel OOD educational question datasets
 description: The authors distill their findings into a decision rule for practitioners validating AI-assisted educational questions.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

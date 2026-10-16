@@ -3,7 +3,7 @@ type: strategy
 id: state-levers-bilingual-workforce-data-roles-infrastructure
 title: "Three state policy levers: modernize educator data systems, analyze BLA role entry and retention conditions, and build sustained regional infrastructure"
 description: The brief proposes three state policy levers for creating enabling conditions for the BLA workforce.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

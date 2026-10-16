@@ -3,7 +3,7 @@ type: claim
 title: Past copula style shifting occurs only between planned speech and unplanned speech
 description: Past copula style shifting occurs only between planned speech and unplanned speech
 id: past-copula-shifting-speech-conditions-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

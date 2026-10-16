@@ -3,7 +3,7 @@ type: claim
 title: The proposed validation method is feasible when examined with simulated data generated under various conditions
 description: The proposed validation method is feasible when examined with simulated data generated under various conditions
 id: q-matrix-validation-method-feasible-in-simulations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

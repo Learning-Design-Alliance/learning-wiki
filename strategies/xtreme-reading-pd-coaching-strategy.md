@@ -3,7 +3,7 @@ type: strategy
 id: xtreme-reading-pd-coaching-strategy
 title: Deliver Xtreme Reading professional development through a 5-day site training followed by monthly implementation coaching
 description: "The review describes a specific professional development model: training is \"conducted by professional developers proficient in the curriculum,\" beginning with \"5 days of instruction (3 days in summer and 2 days in fa..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

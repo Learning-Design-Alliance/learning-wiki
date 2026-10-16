@@ -3,7 +3,7 @@ type: claim
 title: "Observed AI-mediated interpretive episodes distribute across three developmental trajectories — AI-dependent (35.71%), AI-enhanced (38.10%), and AI-critical (26.19%) — with fully critical engagement least frequent"
 description: "Observed AI-mediated interpretive episodes distribute across three developmental trajectories — AI-dependent (35.71%), AI-enhanced (38.10%), and AI-critical (26.19%) — with fully critical engagement least frequent"
 id: three-developmental-trajectories-episode-distribution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -11,7 +11,7 @@ evidence_strength: weak
 sources:
   - id: voicu-2026
     resource: "https://doi.org/10.61071/jdp.2665"
-    title: "Voicu, C.-G. (2026). AI-Mediated Learning and the Restructuring of Interpretive Cognition: A Developmental-Critical Model for Social Sciences and Humanities Education. Journal of Digital Pedagogy, 5(1) 37-51. https://doi.org/10.61071/jdp.2665 .2665"
+    title: "Voicu, C.-G. (2026). AI-Mediated Learning and the Restructuring of Interpretive Cognition: A Developmental-Critical Model for Social Sciences and Humanities Education. Journal of Digital Pedagogy, 5(1), 37–51. https://doi.org/10.61071/jdp.2665"
     author: Voicu, C.-G.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Voicu 2026
 
-Voicu, C.-G. (2026). AI-Mediated Learning and the Restructuring of Interpretive Cognition: A Developmental-Critical Model for Social Sciences and Humanities Education. Journal of Digital Pedagogy, 5(1) 37-51. https://doi.org/10.61071/jdp.2665 .2665
+Voicu, C.-G. (2026). AI-Mediated Learning and the Restructuring of Interpretive Cognition: A Developmental-Critical Model for Social Sciences and Humanities Education. Journal of Digital Pedagogy, 5(1), 37–51. https://doi.org/10.61071/jdp.2665
 
 `q2 · i?` · `qualitative · r2`
 

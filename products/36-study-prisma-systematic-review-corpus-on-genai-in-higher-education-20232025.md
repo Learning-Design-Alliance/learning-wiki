@@ -4,7 +4,7 @@ id: 36-study-prisma-systematic-review-corpus-on-genai-in-higher-education-202320
 title: 36-study PRISMA systematic review corpus on GenAI in higher education (2023–2025)
 description: A corpus of 36 peer-reviewed studies on generative-AI integration in higher education, assembled by Alvedi Sabani et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

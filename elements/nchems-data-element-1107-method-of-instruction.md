@@ -3,7 +3,7 @@ type: element
 id: nchems-data-element-1107-method-of-instruction
 title: "NCHEMS Data Element Dictionary Element No. 1107: Method of Instruction"
 description: Element No.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

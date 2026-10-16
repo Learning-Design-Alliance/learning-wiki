@@ -3,7 +3,7 @@ type: claim
 title: "In-context examples improve LLM Bloom classification: three-shot and ten-shot prompting outperform zero-shot across datasets"
 description: "In-context examples improve LLM Bloom classification: three-shot and ten-shot prompting outperform zero-shot across datasets"
 id: in-context-examples-improve-bloom-classification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

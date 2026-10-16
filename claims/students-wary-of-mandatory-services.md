@@ -3,7 +3,7 @@ type: claim
 title: Students with busy schedules are wary of mandatory services such as orientation and student success courses, but want high quality if services are mandatory
 description: Students with busy schedules are wary of mandatory services such as orientation and student success courses, but want high quality if services are mandatory
 id: students-wary-of-mandatory-services
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

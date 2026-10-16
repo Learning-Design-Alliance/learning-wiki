@@ -3,7 +3,7 @@ type: research-method
 id: error-type-profiling
 title: Error-type profiling
 description: Error-type profiling is the analytic lens the article introduces to judge fairness interventions by how they redistribute false positives and false negatives across groups, rather than only by whether fairness metrics converge.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10
@@ -30,5 +30,5 @@ Error-type profiling is the analytic lens the article introduces to judge fairne
 -
 
 ## Key Sources
-- McConvey, K., Zhai, A., Li, R., & Guha, S. (2026). Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems. arXiv. https://arxiv.org/abs/2609.38552
+- McConvey, K., Zhai, A., Li, R., & Guha, S. (2026). Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems. arXiv. https://arxiv.org/abs/2609.38552. [doi:10.48550/arxiv.2609.38552](https://doi.org/10.48550/arxiv.2609.38552)
 - Dimitri Eckert and Christian Kautz. (2026). How Students (Mis)understand Conditionals and Loops – A Taxonomy. arXiv preprint. https://arxiv.org/abs/2605.26966v1

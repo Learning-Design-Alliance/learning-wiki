@@ -4,7 +4,7 @@ id: edustories-dataset
 title: Edustories dataset
 description: "A public dataset of 1,492 anonymized, expert-annotated teacher-written classroom case studies developed from Czech trainee teachers' teaching-practice experiences."
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Weekly engagement with course materials varied widely (mean 63.9 page views), and student feedback on the AI-supported format was largely positive
 description: Weekly engagement with course materials varied widely (mean 63.9 page views), and student feedback on the AI-supported format was largely positive
 id: variable-engagement-positive-feedback-ai-course
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

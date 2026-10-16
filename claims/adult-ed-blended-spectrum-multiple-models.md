@@ -3,7 +3,7 @@ type: claim
 title: Adult education programs implement technology along a spectrum of blended learning models, often multiple models within one program
 description: Adult education programs implement technology along a spectrum of blended learning models, often multiple models within one program
 id: adult-ed-blended-spectrum-multiple-models
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

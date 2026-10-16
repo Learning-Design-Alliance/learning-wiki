@@ -3,7 +3,7 @@ type: claim
 title: On-grade mathematics item pools yield larger SEMs and lower efficiency than all-grade pools for on-grade students, especially at the low end of the scale
 description: On-grade mathematics item pools yield larger SEMs and lower efficiency than all-grade pools for on-grade students, especially at the low end of the scale
 id: on-grade-math-pools-larger-sem-low-end
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

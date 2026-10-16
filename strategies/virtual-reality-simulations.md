@@ -70,7 +70,7 @@ VR's core pedagogical value is safe, repeatable practice of procedural and spati
 - **Osso VR** (https://ossovr.com) — surgical rehearsal platform; randomized studies showed orthopedic trainees using it outperformed conventionally trained peers on assessed procedure performance [+M]
 - **Labster** (https://www.labster.com) — virtual science laboratory simulations used in university chemistry and biology courses, with embedded quizzes and guided storylines
 - **vSim for Nursing** (https://www.elsevier.com/vsim) — Wolters Kluwer/Laerdal patient scenarios with branching decisions and post-simulation debriefing worksheets
-- **Google Expeditions (archived)** — 360° field-trip VR for K-12; a large-scale study found learning gains only when paired with structured, teacher-guided tasks rather than free exploration [~M]
+- **[Google Expeditions](../products/google-expeditions.md) (archived)** — 360° field-trip VR for K-12; a large-scale study found learning gains only when paired with structured, teacher-guided tasks rather than free exploration [~M]
 
 ## Key Sources
 - Kyaw, B. M., Saxena, N., Posadzki, P., Vseteckova, J., Nikolaou, C. K., George, P. P., Divakar, U., Masiello, I., Kononowicz, A. A., Zary, N., & Tudor Car, L. (2019). Virtual reality for health professions education: Systematic review and meta-analysis. *Journal of Medical Internet Research, 21*(1), e12959. [doi:10.2196/12959](https://doi.org/10.2196/12959)

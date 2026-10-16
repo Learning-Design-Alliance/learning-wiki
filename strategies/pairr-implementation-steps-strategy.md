@@ -3,7 +3,7 @@ type: strategy
 id: pairr-implementation-steps-strategy
 title: "Implement PAIRR through scaffolded steps: AI readings, criteria-based peer review, role-assigned chatbot prompting, and comparative reflection"
 description: "The article offers a seven-step implementation recipe for professional writing courses: incorporate a PAIRR overview and AI guidelines in syllabi; assign short instructor-chosen readings about AI (ethics, bias, lingui..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

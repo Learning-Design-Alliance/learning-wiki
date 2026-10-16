@@ -4,7 +4,7 @@ id: new-heights
 title: New Heights
 description: A school-based support programme for expectant and parenting teens, evaluated in Washington, DC, to improve students’ educational outcomes.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

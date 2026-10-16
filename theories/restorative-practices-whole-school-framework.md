@@ -2,7 +2,7 @@
 type: theory
 title: Restorative practices as the grounding framework of the program
 description: The program is grounded in restorative practices, operationalized through 11 essential elements that center on the importance of communication, responsibility, restoration, and separating the deed from the doer.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

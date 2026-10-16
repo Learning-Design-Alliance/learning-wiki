@@ -3,7 +3,7 @@ type: strategy
 id: strategic-staffing-stipend-sustainability
 title: Sustain paid residencies through strategic staffing that reallocates resident instructional support roles
 description: The report describes strategic staffing as reconfiguring educator positions so that residents take on instructional support responsibilities such as substitute teaching or tutoring; the money saved when residents fill...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

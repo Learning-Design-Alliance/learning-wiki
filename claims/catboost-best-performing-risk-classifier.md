@@ -3,7 +3,7 @@ type: claim
 title: "CatBoost achieved the best classification performance among tested algorithms for predicting course completion risk (F-measure .77, accuracy 78%, AUC .87)"
 description: "CatBoost achieved the best classification performance among tested algorithms for predicting course completion risk (F-measure .77, accuracy 78%, AUC .87)"
 id: catboost-best-performing-risk-classifier
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

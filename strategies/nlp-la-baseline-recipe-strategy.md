@@ -3,7 +3,7 @@ type: strategy
 id: nlp-la-baseline-recipe-strategy
 title: "Baseline recipe for NLP studies in learning analytics: datasets of at least 1,000 instances, Random Forest with interpretable feature sets, and BERT/LSTM evaluation"
 description: The review distills its technical synthesis into a recommended baseline configuration for future NLP work in learning analytics.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

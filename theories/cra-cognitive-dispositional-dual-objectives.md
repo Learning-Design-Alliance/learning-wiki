@@ -2,7 +2,7 @@
 type: theory
 title: "Dual nature of CRA learning: interdependent cognitive skills and dispositions"
 description: The guide holds that learning in CRA involves both cognitive skills (understanding and applying knowledge, such as statistical procedures for identifying item bias) and dispositions (humility, empathy, ethical sensiti...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

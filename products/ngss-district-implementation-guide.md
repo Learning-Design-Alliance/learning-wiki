@@ -3,7 +3,7 @@ type: product
 id: ngss-district-implementation-guide
 title: NGSS District Implementation Guide
 description: A guide developed by Achieve to help education leaders plan, support, and sustain implementation of the Next Generation Science Standards (NGSS).
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

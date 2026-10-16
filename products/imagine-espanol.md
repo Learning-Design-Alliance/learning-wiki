@@ -4,7 +4,7 @@ id: imagine-espanol
 title: Imagine Español
 description: "Imagine Español is Imagine Learning's personalized Spanish language and literacy curriculum for students in grades Pre-K–6, supporting dual-language, transitional bilingual, and world-language programs."
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -2,7 +2,7 @@
 type: claim
 title: Course-based research experience boundary objects support disciplinary integration and authentic research networks
 id: course-based-research-experience-boundary-objects-support-disciplinary-integration-and-authentic-research-networks
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

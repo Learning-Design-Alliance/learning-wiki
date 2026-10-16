@@ -3,7 +3,7 @@ type: element
 id: code-org-cs-fundamentals-algorithm-lessons
 title: "Code.org CS Fundamentals unplugged lessons: Dice Race, My Robotic Friends, Paper Planes, Plant a Seed, Tangrams"
 description: "The deck recommends five named Code.org CS Fundamentals lessons for introducing algorithms: \"Dice Race\", \"My Robotic Friends\", \"Real-life Algorithms:Paper Planes\", \"Real-life Algorithms: Plant a Seed\", and \"Tangrams\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

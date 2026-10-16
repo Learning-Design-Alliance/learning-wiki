@@ -68,7 +68,7 @@ Spelling practice works because producing a word from memory requires learners t
 
 ## Examples
 - **Orton-Gillingham lesson plans** — every lesson includes dictation of sounds, words, and sentences with immediate correction; see [IMSE](https://www.orton-gillingham.com)
-- **Spelling Mastery** (Direct Instruction) — a published program combining phonemic, morphemic, and whole-word strategies with daily dictation-style practice
+- **[Spelling Mastery](../products/spelling-mastery.md)** (Direct Instruction) — a published program combining phonemic, morphemic, and whole-word strategies with daily dictation-style practice
 - **Nessy Reading & Spelling** ([nessy.com](https://www.nessy.com)) — adaptive games and dictation tasks for dyslexic learners
 - **Dictogloss** — learners reconstruct a short dictated text in their own words, adding a grammatical and compositional dimension
 

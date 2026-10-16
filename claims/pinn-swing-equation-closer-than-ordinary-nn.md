@@ -3,7 +3,7 @@ type: claim
 title: With identical architectures and budgets, a PINN more closely reproduced swing-equation rotor angle and speed trajectories than an ordinary neural network
 description: With identical architectures and budgets, a PINN more closely reproduced swing-equation rotor angle and speed trajectories than an ordinary neural network
 id: pinn-swing-equation-closer-than-ordinary-nn
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

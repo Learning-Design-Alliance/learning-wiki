@@ -4,7 +4,7 @@ id: 2003-improving-chicagos-schools-survey
 title: "2003 Improving Chicago's Schools survey"
 description: A Chicago Public Schools survey administered to students, teachers, and principals in 2003 to collect information about school experiences, instruction, professional development, and working conditions.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

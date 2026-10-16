@@ -3,7 +3,7 @@ type: claim
 title: In the empirical citizenship education literature of 2003-2009, the political domain of citizenship is emphasized more than the social domain
 description: In the empirical citizenship education literature of 2003-2009, the political domain of citizenship is emphasized more than the social domain
 id: political-domain-emphasized-over-social-domain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

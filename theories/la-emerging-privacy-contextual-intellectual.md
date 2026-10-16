@@ -2,7 +2,7 @@
 type: theory
 title: "Emerging LA-specific privacy conceptualizations: contextual integrity and intellectual privacy"
 description: Beyond the established categories, the review identifies two emerging, LA-relevant approaches.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

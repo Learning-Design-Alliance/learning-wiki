@@ -3,7 +3,7 @@ type: claim
 title: The study identified comparison students using scores very near the college algebra placement test cut-off for dual enrollment eligibility
 description: The study identified comparison students using scores very near the college algebra placement test cut-off for dual enrollment eligibility
 id: dual-enrollment-placement-cutoff-comparison-design
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

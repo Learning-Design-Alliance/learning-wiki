@@ -3,7 +3,7 @@ type: claim
 title: Citywide freshman on-track rates improved from 48 to 58 percent over a decade, with declines tied to increased course-taking
 description: Citywide freshman on-track rates improved from 48 to 58 percent over a decade, with declines tied to increased course-taking
 id: on-track-rate-citywide-trends
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

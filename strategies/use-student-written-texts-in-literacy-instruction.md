@@ -3,7 +3,7 @@ type: strategy
 id: use-student-written-texts-in-literacy-instruction
 title: Use Student-Written Texts in Literacy Instruction
 description: "An implementable teaching recipe drawn from the documented classroom practice: form voluntary research groups, investigate a topic through discussion, have each student write individual findings, exchange texts with o..."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

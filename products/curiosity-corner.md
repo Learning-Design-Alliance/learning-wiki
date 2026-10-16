@@ -4,7 +4,7 @@ id: curiosity-corner
 title: Curiosity Corner
 description: Curiosity Corner 2nd Edition is a preschool curriculum package developed and provided by the Success for All Foundation, including interactive whiteboard lessons and other classroom materials.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

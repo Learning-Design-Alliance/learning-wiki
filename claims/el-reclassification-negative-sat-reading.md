@@ -3,7 +3,7 @@ type: claim
 title: Eighth grade EL reclassification shows a fairly large negative effect on SAT reading, with a confidence interval of −0.27 to 0.05 SDs
 description: Eighth grade EL reclassification shows a fairly large negative effect on SAT reading, with a confidence interval of −0.27 to 0.05 SDs
 id: el-reclassification-negative-sat-reading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

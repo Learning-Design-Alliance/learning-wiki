@@ -3,7 +3,7 @@ type: claim
 title: Students who began kindergarten as English Learners had similar achievement and growth, and higher attendance, compared to students never classified as ELs
 description: Students who began kindergarten as English Learners had similar achievement and growth, and higher attendance, compared to students never classified as ELs
 id: began-as-els-similar-achievement-higher-attendance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Growth-norms predictions showed larger RMSDs for pilot math scores but similar predictions for reading
 description: Growth-norms predictions showed larger RMSDs for pilot math scores but similar predictions for reading
 id: norms-prediction-rmsd-math-reading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

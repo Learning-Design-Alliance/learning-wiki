@@ -3,7 +3,7 @@ type: claim
 title: The AI-fallibility warning did not significantly change error rate or time spent per problem-solving step
 description: The AI-fallibility warning did not significantly change error rate or time spent per problem-solving step
 id: ai-fallibility-warning-no-performance-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

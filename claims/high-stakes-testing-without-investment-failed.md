@@ -3,7 +3,7 @@ type: claim
 title: High-stakes testing without investment did not improve achievement and narrowed instruction
 description: High-stakes testing without investment did not improve achievement and narrowed instruction
 id: high-stakes-testing-without-investment-failed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

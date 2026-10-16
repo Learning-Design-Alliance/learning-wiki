@@ -3,7 +3,7 @@ type: claim
 title: Self-reported perceived quality is largely decoupled from quiz performance in AI-generated educational interactive fiction
 description: Self-reported perceived quality is largely decoupled from quiz performance in AI-generated educational interactive fiction
 id: if-quality-ratings-decoupled-from-quiz-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

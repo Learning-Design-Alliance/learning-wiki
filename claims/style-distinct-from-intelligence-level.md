@@ -3,7 +3,7 @@ type: claim
 title: Intellectual style is a way of directing intelligence, not a level of it
 description: Intellectual style is a way of directing intelligence, not a level of it
 id: style-distinct-from-intelligence-level
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

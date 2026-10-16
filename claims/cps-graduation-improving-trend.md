@@ -3,7 +3,7 @@ type: claim
 title: Chicago graduation rates improved steadily since the early 1990s except for the first two cohorts subject to the eighth-grade promotion standard, and age-16 dropout rates declined for the last five years
 description: Chicago graduation rates improved steadily since the early 1990s except for the first two cohorts subject to the eighth-grade promotion standard, and age-16 dropout rates declined for the last five years
 id: cps-graduation-improving-trend
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

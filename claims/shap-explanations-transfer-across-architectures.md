@@ -3,7 +3,7 @@ type: claim
 title: SHAP explanations transfer robustly across architectures while LLM rationales transfer poorly to PLM predictions
 description: SHAP explanations transfer robustly across architectures while LLM rationales transfer poorly to PLM predictions
 id: shap-explanations-transfer-across-architectures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

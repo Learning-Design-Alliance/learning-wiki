@@ -3,7 +3,7 @@ type: strategy
 id: thoughtful-mobile-device-integration-recommendations
 title: Teachers and intervention designers should use mobile devices thoughtfully alongside other teaching approaches, ground designs in existing evidence, and evaluate rigorously
 description: "The review's implications for practice recommend that teachers \"think carefully about the ways in which they are using mobile devices, how they are using them alongside other teaching activities and approaches, and ho..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

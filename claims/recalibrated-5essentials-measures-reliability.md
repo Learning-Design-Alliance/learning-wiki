@@ -3,7 +3,7 @@ type: claim
 title: Recalibrated 5Essentials measures based on 2014–19 data maintained acceptable Rasch reliability and school-level variance
 description: Recalibrated 5Essentials measures based on 2014–19 data maintained acceptable Rasch reliability and school-level variance
 id: recalibrated-5essentials-measures-reliability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

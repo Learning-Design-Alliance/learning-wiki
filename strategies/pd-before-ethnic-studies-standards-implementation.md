@@ -3,7 +3,7 @@ type: strategy
 id: pd-before-ethnic-studies-standards-implementation
 title: Provide professional development on the pedagogy and content of ethnic studies before implementing new ethnic studies standards
 description: "Oregon's legislation pairs new ethnic studies standards with a recommendation for teacher preparation: the report states the Oregon SBE will adopt new standards \"with the recommendation that schools provide profession..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

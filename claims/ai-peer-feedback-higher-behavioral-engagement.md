@@ -3,7 +3,7 @@ type: claim
 title: AI-peer integrated feedback produces significantly higher posttest behavioral engagement than conventional peer feedback in EFL writing
 description: AI-peer integrated feedback produces significantly higher posttest behavioral engagement than conventional peer feedback in EFL writing
 id: ai-peer-feedback-higher-behavioral-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -44,3 +44,4 @@ One-way ANCOVA on posttest behavioral engagement with pretest covariate in the q
 - [AI-peer integrated feedback produces significantly higher posttest affective engagement than conventional peer feedback in EFL writing](ai-peer-feedback-higher-affective-engagement.md) — related
 - [In one quasi-experiment in EFL writing classes, students given AI-peer integrated feedback reported higher posttest cognitive engagement than students given conventional peer feedback](ai-peer-feedback-higher-cognitive-engagement.md) — related
 - [AI-peer integrated feedback yields significant gains on all four writing dimensions, with the group × dimension interaction showing differential improvement favoring task achievement and lexical resource over coherence and cohesion](ai-peer-feedback-writing-gains-differential.md) — related
+- [ChatGPT-integrated instruction produced significantly higher post-test writing motivation scores than conventional instruction among EFL learners, with a medium effect size](chatgpt-instruction-enhanced-efl-writing-motivation.md) — related

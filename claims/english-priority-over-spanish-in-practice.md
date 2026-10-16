@@ -3,7 +3,7 @@ type: claim
 title: Contrary to program guidelines, English acquisition was given priority over Spanish acquisition in practice
 description: Contrary to program guidelines, English acquisition was given priority over Spanish acquisition in practice
 id: english-priority-over-spanish-in-practice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

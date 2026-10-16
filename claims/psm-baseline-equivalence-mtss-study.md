@@ -3,7 +3,7 @@ type: claim
 title: Propensity score matching produced baseline-equivalent treatment and comparison groups on all measured variables
 description: Propensity score matching produced baseline-equivalent treatment and comparison groups on all measured variables
 id: psm-baseline-equivalence-mtss-study
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

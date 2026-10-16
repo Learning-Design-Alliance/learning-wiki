@@ -3,7 +3,7 @@ type: element
 id: five-illinois-case-study-districts-pera
 title: Five Illinois case study districts implementing PERA teacher evaluation systems
 description: A set of five case study districts located in north, central, and southern Illinois, representing a variety of evaluation approaches and each at different stages of planning and implementation of new teacher evaluatio...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

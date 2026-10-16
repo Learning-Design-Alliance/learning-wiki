@@ -3,7 +3,7 @@ type: strategy
 id: scaffold-agents-toward-higher-order
 title: Pair agent-based tools with instructor-provided cognitive scaffolding to bridge the gap between efficient retrieval and higher-order cognition
 description: "The article recommends that because students in agent-enriched contexts engage in self-regulated verification loops but \"often struggle to spontaneously transition from these lower-order interactions to higher-order c..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: The participatory simulation group showed significantly larger overall (combined knowledge and application) gains than the problem-based group after four weeks
 description: The participatory simulation group showed significantly larger overall (combined knowledge and application) gains than the problem-based group after four weeks
 id: simulation-larger-overall-il-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

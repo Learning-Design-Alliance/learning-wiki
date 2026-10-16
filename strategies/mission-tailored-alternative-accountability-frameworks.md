@@ -3,7 +3,7 @@ type: strategy
 id: mission-tailored-alternative-accountability-frameworks
 title: "Develop flexible, alternative accountability frameworks tailored to schools' missions rather than relying on uniform measures such as the SAT"
 description: "Charter school leaders in the study recommended creating more flexible, alternative accountability frameworks tailored to schools' missions and the unique value they provide their communities."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

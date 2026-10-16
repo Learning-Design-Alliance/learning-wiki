@@ -3,7 +3,7 @@ type: claim
 title: The overall policy effect on lowest-ability students included higher algebra credit but increased math failure and declining GPA, with no math achievement gains
 description: The overall policy effect on lowest-ability students included higher algebra credit but increased math failure and declining GPA, with no math achievement gains
 id: policy-effect-lowest-ability-increased-failure-declined-gpa
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

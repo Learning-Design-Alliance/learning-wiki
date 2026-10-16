@@ -3,7 +3,7 @@ type: claim
 title: Extra honours workload causes stress, less free time and reported grade decreases in the main phase
 description: Extra honours workload causes stress, less free time and reported grade decreases in the main phase
 id: honours-extra-workload-stress-and-grade-decreases
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

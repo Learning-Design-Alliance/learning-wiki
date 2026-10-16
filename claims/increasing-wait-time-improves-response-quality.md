@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Reviews of classroom studies, read from their abstracts, associate longer teacher wait time with longer, higher-cognitive-level student responses, with no effect size recorded"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

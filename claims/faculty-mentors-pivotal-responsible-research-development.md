@@ -3,7 +3,7 @@ type: claim
 title: "Faculty advisors and mentors are considered pivotal in promoting doctoral students' development as responsible and ethical researchers"
 description: "Faculty advisors and mentors are considered pivotal in promoting doctoral students' development as responsible and ethical researchers"
 id: faculty-mentors-pivotal-responsible-research-development
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Personalized learning effects tended to be larger in elementary grades and were not statistically significant in high school grades
 description: Personalized learning effects tended to be larger in elementary grades and were not statistically significant in high school grades
 id: pl-effects-larger-elementary-nonsignificant-high-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

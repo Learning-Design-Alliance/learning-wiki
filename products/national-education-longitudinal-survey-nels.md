@@ -4,7 +4,7 @@ id: national-education-longitudinal-survey-nels
 title: National Education Longitudinal Survey (NELS)
 description: A nationally representative longitudinal education dataset collected and maintained by the National Center for Education Statistics, tracking students from eighth grade through postsecondary outcomes.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

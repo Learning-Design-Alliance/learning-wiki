@@ -3,7 +3,7 @@ type: strategy
 id: five-recommendations-seernet-improvement-integration
 title: Five recommendations for integrating Improvement Science with SEERNet
 description: "The paper concludes with five recommendations: \"Foster Collaboration\" between researchers and practitioners; \"Establish Data-Sharing Protocols\" to ensure privacy and security and build trust; \"Leverage Data for Root C..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

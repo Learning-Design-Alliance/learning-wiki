@@ -3,7 +3,7 @@ type: method
 id: stakeholder-mapping
 title: Stakeholder Mapping
 description: A design method that enumerates the parties who participate in, govern, fund, or are affected by a learning activity, gives each a stable identity, and records only the relationships that change a design decision.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-07

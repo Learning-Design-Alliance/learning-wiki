@@ -3,7 +3,7 @@ type: strategy
 id: four-imperatives-community-college-credentials
 title: "Build credentials that respond to four trends: competency- and market-oriented programs, lifelong learning structures, unbundled degrees, and quality assurance"
 description: "The paper sets out an agenda for community colleges seeking a central role in the new credentialing market: they \"must build credentials that respond to four growing trends and imperatives\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

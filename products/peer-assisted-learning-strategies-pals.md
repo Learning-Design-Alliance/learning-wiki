@@ -4,7 +4,7 @@ id: peer-assisted-learning-strategies-pals
 title: Peer-Assisted Learning Strategies (PALS)
 description: A commercially distributed, scripted peer-assisted reading and literacy curriculum for kindergarten through upper elementary grades, developed by researchers including Patricia G.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

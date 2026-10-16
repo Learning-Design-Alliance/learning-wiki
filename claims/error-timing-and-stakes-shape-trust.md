@@ -3,7 +3,7 @@ type: claim
 title: "Error timing and stakes shape trust in AI systems: later errors may be more damaging, early errors may matter more, and trust recovers quickly after good post-error performance, with high-stakes errors causing abrupt collapse"
 description: "Error timing and stakes shape trust in AI systems: later errors may be more damaging, early errors may matter more, and trust recovers quickly after good post-error performance, with high-stakes errors causing abrupt..."
 id: error-timing-and-stakes-shape-trust
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

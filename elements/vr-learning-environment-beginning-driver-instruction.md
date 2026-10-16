@@ -3,7 +3,7 @@ type: element
 id: vr-learning-environment-beginning-driver-instruction
 title: VR-based learning environment for beginning driver instruction
 description: A desktop VR-based learning environment developed to teach traffic rules and traffic signs to beginning car drivers in Malaysia, addressing limitations of the existing lecture- and reading-based program.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

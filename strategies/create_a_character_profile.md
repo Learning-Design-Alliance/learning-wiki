@@ -67,7 +67,7 @@ Character profiling converts reading comprehension into a generative task: stude
 - [Act It Out](act_it_out.md) — dramatization draws on the same character analysis; a completed profile can script a performance
 
 ## Examples
-- **ReadWorks** (https://www.readworks.org) — paired fiction passages with character-focused comprehension question sets that function as abbreviated profiles.
+- **[ReadWorks](../products/readworks.md)** (https://www.readworks.org) — paired fiction passages with character-focused comprehension question sets that function as abbreviated profiles.
 - **CommonLit** (https://www.commonlit.org) — free texts with guided reading questions asking students to characterize figures and cite evidence, directly supporting the profile task.
 - A grade-4 unit on *Because of Winn-Dixie*: students illustrate Opal from textual details, list three traits with page references, and predict her father's future, then compare profiles in small groups.
 

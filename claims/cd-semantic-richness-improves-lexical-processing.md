@@ -3,7 +3,7 @@ type: claim
 title: Words higher in contextual diversity and semantic richness are processed more accurately and efficiently in lexical tasks
 description: Words higher in contextual diversity and semantic richness are processed more accurately and efficiently in lexical tasks
 id: cd-semantic-richness-improves-lexical-processing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

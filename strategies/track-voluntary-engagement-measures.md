@@ -3,7 +3,7 @@ type: strategy
 id: track-voluntary-engagement-measures
 title: Track voluntary engagement measures alongside learning gains and study environments where bypass is possible
 description: The paper recommends that researchers consistently track and value voluntary engagement measures alongside learning gains, and study environments where bypass is present, since studies eliminating the possibility of b...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

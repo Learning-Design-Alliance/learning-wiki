@@ -3,7 +3,7 @@ type: claim
 title: Self-rated LLM familiarity is a weaker secondary intake signal, surviving Holm correction for three of five outcomes with a bottom-anchored pattern
 description: Self-rated LLM familiarity is a weaker secondary intake signal, surviving Holm correction for three of five outcomes with a bottom-anchored pattern
 id: llm-familiarity-weaker-secondary-intake-signal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

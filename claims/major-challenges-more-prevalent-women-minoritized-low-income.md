@@ -3,7 +3,7 @@ type: claim
 title: Four or more major challenges were more prevalent among women, Hispanic and minoritized students, and lower-income students
 description: Four or more major challenges were more prevalent among women, Hispanic and minoritized students, and lower-income students
 id: major-challenges-more-prevalent-women-minoritized-low-income
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

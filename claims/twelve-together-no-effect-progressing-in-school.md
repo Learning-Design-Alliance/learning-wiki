@@ -3,7 +3,7 @@ type: claim
 title: Twelve Together shows no discernible effects on progressing in school as measured by highest grade completed
 description: Twelve Together shows no discernible effects on progressing in school as measured by highest grade completed
 id: twelve-together-no-effect-progressing-in-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

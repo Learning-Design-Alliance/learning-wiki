@@ -3,7 +3,7 @@ type: claim
 title: "The National Study of Online Charter Schools provides the first nationwide data and analysis of online charter schools' operations and instructional approaches, based on a survey of 127 principals"
 description: "The National Study of Online Charter Schools provides the first nationwide data and analysis of online charter schools' operations and instructional approaches, based on a survey of 127 principals"
 id: first-nationwide-online-charter-operations-survey-127-principals
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

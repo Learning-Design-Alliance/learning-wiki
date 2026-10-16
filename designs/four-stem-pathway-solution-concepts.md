@@ -3,7 +3,7 @@ type: design
 id: four-stem-pathway-solution-concepts
 title: Four CAC-developed STEM pathway solution concepts (Inspire to Aspire, CIELO, ATGC, STEM SD Partner Exchange)
 description: "In the Design & Develop phase, advisors \"voted to select four solution concepts and self-selected into subgroups based on their interest areas and expertise\"."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

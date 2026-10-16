@@ -3,7 +3,7 @@ type: claim
 title: Comparative studies report that AI detection tools do not reliably distinguish human-written from AI-generated text
 description: Comparative studies report that AI detection tools do not reliably distinguish human-written from AI-generated text
 id: ai-detection-tools-not-reliably-distinguishing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

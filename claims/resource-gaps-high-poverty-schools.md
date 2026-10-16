@@ -3,7 +3,7 @@ type: claim
 title: Schools serving large numbers of students of color and students from low-income families have significantly fewer resources than schools serving more affluent White students
 description: Schools serving large numbers of students of color and students from low-income families have significantly fewer resources than schools serving more affluent White students
 id: resource-gaps-high-poverty-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

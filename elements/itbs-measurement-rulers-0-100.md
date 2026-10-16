@@ -3,7 +3,7 @@ type: element
 id: itbs-measurement-rulers-0-100
 title: Measurement Rulers linking ITBS scores on a new 0-100 scale to the difficulty of test content
 description: The guide encloses Measurement Rulers for reading and math that show how to relate specific test results to the content of the ITBS.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

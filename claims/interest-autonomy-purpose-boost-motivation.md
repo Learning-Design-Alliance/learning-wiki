@@ -3,7 +3,7 @@ type: claim
 title: Autonomy, meaningful purpose, and interest improve intrinsic motivation and deeper processing
 description: Autonomy, meaningful purpose, and interest improve intrinsic motivation and deeper processing
 id: interest-autonomy-purpose-boost-motivation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Actionable and descriptive feedback moves student learning forward, and effective feedback differs from less-effective feedback on identifiable qualities
 description: Actionable and descriptive feedback moves student learning forward, and effective feedback differs from less-effective feedback on identifiable qualities
 id: actionable-descriptive-feedback-moves-learning-forward
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

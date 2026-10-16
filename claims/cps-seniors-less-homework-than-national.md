@@ -3,7 +3,7 @@ type: claim
 title: Chicago public high school seniors do considerably less homework than high school seniors nationally
 description: Chicago public high school seniors do considerably less homework than high school seniors nationally
 id: cps-seniors-less-homework-than-national
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

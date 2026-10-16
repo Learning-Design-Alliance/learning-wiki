@@ -69,7 +69,7 @@ Strengths-based teaching works primarily through motivational and self-belief ch
 - **CliftonStrengths (Gallup) in schools** — students complete the strengths assessment and teachers design roles and projects around top themes ([https://www.gallup.com/cliftonstrengths](https://www.gallup.com/cliftonstrengths))
 - **VIA Character Strengths** — free character-strengths survey used in K-12 and higher education to frame self-knowledge discussions ([https://www.viacharacter.org](https://www.viacharacter.org))
 - **Classroom practice (ADDitude)** — a teacher opens the year with learners sharing strengths and commits to naming one specific strength per learner daily, converting deficit-framed special education students into self-advocating learners ([https://www.additudemag.com/how-i-bring-out-my-students-unique-skills](https://www.additudemag.com/how-i-bring-out-my-students-unique-skills))
-- **Strengths-based IEPs** — special education teams lead with student strengths when writing goals, so remediation is framed as extending capability rather than fixing brokenness
+- **[Strengths-based IEPs](strengths-based_ieps.md)** — special education teams lead with student strengths when writing goals, so remediation is framed as extending capability rather than fixing brokenness
 
 ## Key Sources
 - Seligman, M. E. P., Steen, T. A., Park, N., & Peterson, C. (2005). Positive psychology progress: Empirical validation of interventions. *American Psychologist, 60*(5), 410–421. [doi:10.1037/0003-066X.60.5.410](https://doi.org/10.1037/0003-066X.60.5.410)

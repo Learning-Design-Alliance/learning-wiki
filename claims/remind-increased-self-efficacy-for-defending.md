@@ -3,7 +3,7 @@ type: claim
 title: "Playing REMind significantly increased children's perceived self-efficacy for defending peers"
 description: "Playing REMind significantly increased children's perceived self-efficacy for defending peers"
 id: remind-increased-self-efficacy-for-defending
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

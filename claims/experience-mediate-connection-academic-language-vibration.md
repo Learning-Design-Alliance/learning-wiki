@@ -3,7 +3,7 @@ type: claim
 title: ELLs attempted academic terminology from prior lessons, with experience mediating their connection to the concept of vibration
 description: ELLs attempted academic terminology from prior lessons, with experience mediating their connection to the concept of vibration
 id: experience-mediate-connection-academic-language-vibration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

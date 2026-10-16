@@ -3,7 +3,7 @@ type: claim
 title: "No evidence demonstrates unique, reliable, or EL-specific gains attributable to readers' theater alone"
 description: "No evidence demonstrates unique, reliable, or EL-specific gains attributable to readers' theater alone"
 id: readers-theater-alone-no-unique-eb-gains-evidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

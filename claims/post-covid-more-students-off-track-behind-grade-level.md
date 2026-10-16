@@ -3,7 +3,7 @@ type: claim
 title: After the pandemic, more students are off-track and further behind grade-level proficiency, deepening challenges for educators
 description: After the pandemic, more students are off-track and further behind grade-level proficiency, deepening challenges for educators
 id: post-covid-more-students-off-track-behind-grade-level
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

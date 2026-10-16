@@ -3,7 +3,7 @@ type: strategy
 id: amao-establishment-guidelines
 title: "Follow enumerated best-practice guidelines when establishing AMAO criteria: multiple methods, qualified trained panelists, defined sequential process, documentation, and validity studies"
 description: The report derives a set of guidelines from performance-standard-setting best practices for establishing ELP performance criteria and AMAO accountability policies.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

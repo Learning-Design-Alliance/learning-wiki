@@ -3,7 +3,7 @@ type: claim
 title: Teachers use extracted analytics more for supervision than for guidance, with monitoring the dominant observed action
 description: Teachers use extracted analytics more for supervision than for guidance, with monitoring the dominant observed action
 id: extracted-analytics-more-supervision-than-guidance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

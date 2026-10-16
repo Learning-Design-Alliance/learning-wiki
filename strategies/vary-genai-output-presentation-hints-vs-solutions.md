@@ -3,7 +3,7 @@ type: strategy
 id: vary-genai-output-presentation-hints-vs-solutions
 title: Design experimental studies that systematically vary how GenAI outputs are presented, comparing full solutions against structured hints or constructive feedback guardrails.
 description: The article recommends that future research on GenAI as tutoring systems should employ experimental designs that systematically vary how GenAI outputs are presented, such as providing full solutions versus guardrails...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -49,4 +49,4 @@ The article recommends that future research on GenAI as tutoring systems should 
 -
 
 ## Key Sources
-- Maier, S., Gunzenhäuser, M., Schweisthal, J., Schneider, M., & Feuerriegel, S. (2026). A meta-analysis of the effect of generative AI on productivity and learning in programming. arXiv preprint. https://arxiv.org/abs/2605.04779
+- Maier, S., Gunzenhäuser, M., Schweisthal, J., Schneider, M., & Feuerriegel, S. (2026). A meta-analysis of the effect of generative AI on productivity and learning in programming. arXiv preprint. https://arxiv.org/abs/2605.04779. [doi:10.48550/arxiv.2605.04779](https://doi.org/10.48550/arxiv.2605.04779)

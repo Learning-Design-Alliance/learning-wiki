@@ -3,7 +3,7 @@ type: claim
 title: "Undergraduate computing students report help-seeking avoidance and anxiety, with 62.5% sometimes avoiding asking for help even when needed and 75% reporting anxiety when not understanding a topic"
 description: "Undergraduate computing students report help-seeking avoidance and anxiety, with 62.5% sometimes avoiding asking for help even when needed and 75% reporting anxiety when not understanding a topic"
 id: students-avoid-help-seeking-despite-need
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

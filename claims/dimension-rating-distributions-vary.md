@@ -3,7 +3,7 @@ type: claim
 title: Mathematical sense-making received High ratings most frequently among the MQI dimensions, while linking representations and multiple solutions/procedures were most often rated Not Present
 description: Mathematical sense-making received High ratings most frequently among the MQI dimensions, while linking representations and multiple solutions/procedures were most often rated Not Present
 id: dimension-rating-distributions-vary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

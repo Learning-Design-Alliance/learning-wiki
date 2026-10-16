@@ -3,7 +3,7 @@ type: claim
 title: "Talladega County Schools' graduation rate rose from just above 70 percent in 2008 to 93 percent after its transition to project-based learning supported by digital technologies"
 description: "Talladega County Schools' graduation rate rose from just above 70 percent in 2008 to 93 percent after its transition to project-based learning supported by digital technologies"
 id: talladega-graduation-rate-70-to-93-pbl-digital
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

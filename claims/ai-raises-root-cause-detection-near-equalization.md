@@ -3,7 +3,7 @@ type: claim
 title: "AI assistance raises the probability of correctly identifying the task's root cause for both education groups, with near-equalization among treated participants"
 description: "AI assistance raises the probability of correctly identifying the task's root cause for both education groups, with near-equalization among treated participants"
 id: ai-raises-root-cause-detection-near-equalization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: edtech-review-templates-and-exemplars
 title: Offer templates and exemplars to streamline edtech review requests for vendors and staff
 description: The report recommends providing completed example forms and a vendor-facing intake form so that technical compatibility, accessibility, and legal compliance information is gathered in one interaction.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: theory
 title: Framework of five essential supports and contextual resources for school improvement
 description: "The CCSR framework holds that five in-school supports are all essential for improving student learning: leadership acting as a catalyst, parent-community ties, professional capacity, student-centered learning climate,..."
 canonical: true
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -12,6 +12,14 @@ sources:
     resource: "https://consortium.uchicago.edu/publications/essential-supports-school-improvement"
     title: "Sebring, P. B., Allensworth, E., Bryk, A. S., Easton, J. Q., & Luppescu, S. (2006). The Essential Supports for School Improvement. Research Report, Consortium on Chicago School Research at the University of Chicago. https://consortium.uchicago.edu/publications/essential-supports-school-improvement"
     author: "Sebring, P. B., Allensworth, E., Bryk, A. S., Easton, J. Q., & Luppescu, S"
+  - id: sebring-p-2014
+    resource: "https://consortium.uchicago.edu/publications/five-essential-supports-school-improvement-mobilizing-findings"
+    title: "Sebring P., & Montgomery, N. (2014). The Five Essential Supports for School Improvement: Mobilizing the Findings. Pensamiento Educativo. Revista de Investigación Educacional Latinoamericana, 51(1), 63-85. https://consortium.uchicago.edu/publications/five-essential-supports-school-improvement-mobilizing-findings"
+    author: "Sebring P., & Montgomery, N"
+  - id: ehrlich-2018
+    resource: "https://consortium.uchicago.edu/publications/organizing-early-education-improvement-testing-new-survey-tool"
+    title: "Ehrlich, S.B., Pacchiano, D.M., Stein, A.G., Wagner, M.R., Luppescu, S., Park, S., Frank, E., Lewandowski, H., & Young, C. (2018). Organizing early education for improvement: Testing a new survey tool. Chicago, IL: University of Chicago Consortium on School Research and the Ounce of Prevention Fund. https://consortium.uchicago.edu/publications/organizing-early-education-improvement-testing-new-survey-tool"
+    author: "Ehrlich, S.B., Pacchiano, D.M., Stein, A.G., Wagner, M.R., Luppescu, S., Park, S., Frank, E., Lewandowski, H., & Young, C"
 ---
 
 # Framework of five essential supports and contextual resources for school improvement
@@ -27,14 +35,24 @@ The CCSR framework holds that five in-school supports are all essential for impr
 ### Context
 #### Requirements
 - Strength in multiple supports simultaneously; the report states each support facilitates the functioning of the others and a weakness in any element can undermine strengths elsewhere
+- Schools must be assessed across all five organizational domains rather than any single domain
+- Programs must be large enough to function as organizations, with the report treating three or more classrooms and at least six educators as the minimum for organizational structures to exist
 #### Constraints
 - Developed and validated in the context of Chicago public elementary schools during 1990-1996 under the 1988 decentralization reform
+- Framework was established through research on public elementary schools
+- The framework was developed for K-12 schools and required adaptation and empirical testing to establish applicability in early education settings
 
 ### Target Learners
 - Elementary school students in urban districts
+- students in public elementary schools
+- preschool children (three- and four-year-olds) in publicly funded early education programs
 
 ### Target Learning Objectives
 - Improved student engagement and academic learning in reading and mathematics
+- reading achievement
+- mathematics achievement
+- school organizational improvement
+- improving children's learning trajectories and kindergarten readiness through stronger organizational conditions in ECE programs
 
 ### Claims
 
@@ -81,11 +99,16 @@ The CCSR framework holds that five in-school supports are all essential for impr
 - [Mistrust between teachers and parents remained a low-level roadblock in 2017, while lack of parental support had grown as a top roadblock for almost one-third of administrators](../claims/parent-support-roadblock-grew-trust-low.md) [~W]
 - [Teacher-principal trust is far more prevalent in top-quartile schools than bottom-quartile schools](../claims/teacher-principal-trust-top-vs-bottom-quartile.md) [~W]
 - [Teachers in top-quartile schools hold their principals in high regard as facilitative, inclusive, committed leaders](../claims/top-quartile-schools-facilitative-principal-leadership.md) [+W]
+- [Strong Supports Cluster Ten Times More Likely To Improve](../claims/schools-strong-three-plus-supports-ten-times-more-likely-improve.md) [+S]
+- [Elementary GPA improved more in schools with strong 5Essentials Survey scores, a new outcome beyond the original validation](../claims/elementary-gpa-strong-5essentials-measures.md) [+W]
+- [District-provided instructional resources supported strong practices only when instruction-ready and tied to professional learning; other resources showed a null or negative relationship](../claims/instruction-ready-resources-tied-to-professional-learning.md) [~W]
+- [Freshman OnTrack rates improved by as much as 3.25 percentage points more in high schools with strong 5Essentials Survey measures](../claims/freshman-ontrack-strong-5essentials-measures.md) [+W]
+- [Fewer than 10 percent of elementary schools with a sustained weakness in one essential support showed improvements in student outcomes (attributed to Bryk et al., 2010)](../claims/sustained-weakness-one-support-few-improve.md) [+W]
+- [Teachers reporting higher leadership effectiveness and supports have lower predicted turnover (9.0% vs. 18.7% for low-leadership teachers)](../claims/school-leadership-associated-with-lower-turnover.md) [+W]
 
 ## Related Theories
 
 - [Five essential organizational supports for improving student learning](../products/5essentials.md)
-- [Five essential supports framework for school improvement](five-essential-supports-school-improvement-framework.md)
 - [The Five Essential Supports framework identifies five organizational conditions for school improvement](five-essential-supports-framework-illinois.md)
 - [The five essential supports framework: five mutually reinforcing organizational dimensions that enable or inhibit improvement in classroom practices](five-essential-supports-early-education-framework.md)
 - [School organizational processes mediating principal influence: a five-process framework](principal-mediated-organizational-processes-framework.md)
@@ -94,9 +117,129 @@ The CCSR framework holds that five in-school supports are all essential for impr
 - [Model of Essential Supports for Student Learning](../products/model-of-essential-supports-for-student-learning.md)
 - [Race as a proxy for vulnerability in urban school reform](race-as-proxy-for-vulnerability.md)
 - [Support-and-pressure principal leadership framework for productive school improvement](support-and-pressure-principal-leadership-framework.md)
+- [Five Essential Supports framework for improving student learning](five-essential-supports-framework-uchicago-consortium.md)
+- [Four organizational supports mediating leadership effects on instruction and learning](four-organizational-supports-leadership-pathways.md)
+- [Four types of R&D enabling conditions in school systems: mindsets, behaviors and routines, structures and tools, and systems supports](rd-enabling-conditions-four-types.md)
+- [Six R&D practice dimensions (strategy, structure, intensity, spread, engagement, evidence) with a four-stage Nascent-to-Sustaining rubric](../products/six-rd-practice-dimensions-framework.md)
 
 ## Examples
 -
+- [5Essentials survey-based diagnostic tools](../products/5essentials-survey.md)
+- [Use diagnostic survey results to craft an evidence-based school narrative and action plan](../strategies/evidence-based-narrative-and-action-plans-from-diagnostics.md)
+- [Early Ed Essentials teacher and parent survey measurement system](../products/early-education-essentials.md)
 
 ## Key Sources
 - Sebring, P. B., Allensworth, E., Bryk, A. S., Easton, J. Q., & Luppescu, S. (2006). The Essential Supports for School Improvement. Research Report, Consortium on Chicago School Research at the University of Chicago. https://consortium.uchicago.edu/publications/essential-supports-school-improvement
+- Sebring P., & Montgomery, N. (2014). The Five Essential Supports for School Improvement: Mobilizing the Findings. Pensamiento Educativo. Revista de Investigación Educacional Latinoamericana, 51(1), 63-85. https://consortium.uchicago.edu/publications/five-essential-supports-school-improvement-mobilizing-findings
+- Ehrlich, S.B., Pacchiano, D.M., Stein, A.G., Wagner, M.R., Luppescu, S., Park, S., Frank, E., Lewandowski, H., & Young, C. (2018). Organizing early education for improvement: Testing a new survey tool. Chicago, IL: University of Chicago Consortium on School Research and the Ounce of Prevention Fund. https://consortium.uchicago.edu/publications/organizing-early-education-improvement-testing-new-survey-tool
+
+<!-- merged 2026-10-15 from theories/five-essential-supports-school-improvement-framework ("Five essential supports framework for school improvement"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Five essential supports framework for school improvement
+
+> **Theory** · [All theories](index.md)
+> **Evidence** · 8 claims (7 for, 1 mixed) · 6 studies (5 associational, 1 design), `q2`–`q3` · 0 of 6 report an effect size · 7 claims rest on one study
+
+## Description
+The UChicago Consortium's framework identifies five organizational domains that jointly matter for improving student outcomes in public elementary schools: "school leadership, professional capacity, parent-community ties, a student-centered learning environment, and instructional guidance." The framework holds that these supports matter in combination, not in isolation, and it underpins the survey-based diagnostic tools described in this paper.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Schools must be assessed across all five organizational domains rather than any single domain
+#### Constraints
+- Framework was established through research on public elementary schools
+
+### Target Learners
+- students in public elementary schools
+
+### Target Learning Objectives
+- reading achievement
+- mathematics achievement
+- school organizational improvement
+
+### Claims
+
+- [Strong Supports Cluster Ten Times More Likely To Improve](../claims/schools-strong-three-plus-supports-ten-times-more-likely-improve.md) [+S]
+- [The five essential supports matter in combination: strength on clusters of supports, not isolated domains, predicts improvement](../claims/supports-matter-in-combined-clusters.md) [+M]
+- [The five essential supports reinforce each other and depend on a school environment infused with mutual trust](../claims/essential-supports-mutual-trust-reinforce-each-other.md) [+W]
+- [Schools strong in the essential supports are more likely to improve student learning over time](../claims/essential-supports-strong-schools-improve-learning.md) [+W]
+- [Elementary GPA improved more in schools with strong 5Essentials Survey scores, a new outcome beyond the original validation](../claims/elementary-gpa-strong-5essentials-measures.md) [+W]
+- [District-provided instructional resources supported strong practices only when instruction-ready and tied to professional learning; other resources showed a null or negative relationship](../claims/instruction-ready-resources-tied-to-professional-learning.md) [~W]
+- [Freshman OnTrack rates improved by as much as 3.25 percentage points more in high schools with strong 5Essentials Survey measures](../claims/freshman-ontrack-strong-5essentials-measures.md) [+W]
+- [As principals' professional development in instructional leadership increases, mathematics gains are significantly more pronounced for historically underserved students of color than for white and Asian students](../claims/instructional-leadership-pd-underserved-students.md) [+W]
+
+## Related Theories
+
+- [Five essentials framework of organizational supports for school improvement](five-essential-supports-framework-ccsr.md)
+- [Five Essential Supports for School Improvement (5Es) framework](../products/5essentials.md)
+- [The Five Essential Supports framework identifies five organizational conditions for school improvement](five-essential-supports-framework-illinois.md)
+- [Five Essential Supports framework for improving student learning](five-essential-supports-framework-uchicago-consortium.md)
+- [Framework of five essential supports and contextual resources for school improvement](five-essential-supports-framework-ccsr.md)
+- [The Five Essential Supports framework organizes school development measures](../products/5essentials-survey.md)
+
+## Examples
+
+- [5Essentials survey-based diagnostic tools](../products/5essentials-survey.md)
+- [Use diagnostic survey results to craft an evidence-based school narrative and action plan](../strategies/evidence-based-narrative-and-action-plans-from-diagnostics.md)
+
+## Key Sources
+- Sebring P., & Montgomery, N. (2014). The Five Essential Supports for School Improvement: Mobilizing the Findings. Pensamiento Educativo. Revista de Investigación Educacional Latinoamericana, 51(1), 63-85. https://consortium.uchicago.edu/publications/five-essential-supports-school-improvement-mobilizing-findings
+-->
+
+<!-- merged 2026-10-15 from theories/five-essentials-framework-early-education-adaptation ("Five essentials framework of organizational supports for school improvement"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Five essentials framework of organizational supports for school improvement
+
+> **Theory** · [All theories](index.md)
+> **Evidence** · 8 claims (6 for, 2 mixed) · 8 studies (5 associational, 2 review, 1 design), `q2` · 0 of 8 report an effect size · 7 claims rest on one study
+
+## Description
+The report builds its measurement system on the five essentials framework developed by Tony Bryk and colleagues, which the report describes as identifying "five organizational features of schools that interact with life inside classrooms and are essential to growth in student achievement." The five supports are Effective Leadership, Collaborative Teachers, Involved Families, Supportive Environment, and Ambitious Instruction. The Early Ed Essentials surveys adapt this K-12 framework for early childhood education settings, adding a new parent survey alongside the adapted teacher survey.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Programs must be large enough to function as organizations, with the report treating three or more classrooms and at least six educators as the minimum for organizational structures to exist
+#### Constraints
+- The framework was developed for K-12 schools and required adaptation and empirical testing to establish applicability in early education settings
+
+### Target Learners
+- preschool children (three- and four-year-olds) in publicly funded early education programs
+
+### Target Learning Objectives
+- improving children's learning trajectories and kindergarten readiness through stronger organizational conditions in ECE programs
+
+### Claims
+
+- [Elementary schools strong in three or more of the five essential supports were ten times more likely to substantially improve student math and reading scores (attributed to Bryk et al., 2010)](../claims/schools-strong-three-plus-supports-ten-times-more-likely-improve.md) [+W]
+- [Fewer than 10 percent of elementary schools with a sustained weakness in one essential support showed improvements in student outcomes (attributed to Bryk et al., 2010)](../claims/sustained-weakness-one-support-few-improve.md) [+W]
+- [School climate functions as a setting-level indicator: students entering schools where they feel safe and supported attend more and earn higher grades, and Chicago's five essential supports survey responses are highly predictive of teacher and school performance](../claims/school-climate-setting-level-indicator-five-supports.md) [+W]
+- [Principals' instructional leadership practices are linked to improved student outcomes, largely through their support for teachers](../claims/instructional-leadership-linked-student-outcomes.md) [+W]
+- [Teachers in schools with better organizational and learning climates have higher value-added and observation scores, even compared with schools serving similar students](../claims/school-climate-associated-higher-teacher-evaluation-scores.md) [+W]
+- [Teachers rate principal instructional leadership highly even in many bottom-quartile schools](../claims/principal-instructional-leadership-ratings-distribution.md) [~W]
+- [Parental support for student learning is substantially higher in top-quartile schools than in bottom-quartile schools](../claims/parental-support-higher-top-quartile-schools.md) [~W]
+- [Teachers reporting higher leadership effectiveness and supports have lower predicted turnover (9.0% vs. 18.7% for low-leadership teachers)](../claims/school-leadership-associated-with-lower-turnover.md) [+W]
+
+## Related Theories
+
+- [The five essential supports framework: five mutually reinforcing organizational dimensions that enable or inhibit improvement in classroom practices](five-essential-supports-early-education-framework.md)
+- [The Five Essential Supports framework identifies five organizational conditions for school improvement](five-essential-supports-framework-illinois.md)
+- [Five essential supports framework for school improvement](five-essential-supports-framework-ccsr.md)
+- [Five Essential Supports for School Improvement (5Es) framework](../products/5essentials.md)
+- [Five Essential Supports framework for improving student learning](five-essential-supports-framework-uchicago-consortium.md)
+- [Four organizational supports mediating leadership effects on instruction and learning](four-organizational-supports-leadership-pathways.md)
+- [The Five Essential Supports framework organizes school development measures](../products/5essentials-survey.md)
+- [Four types of R&D enabling conditions in school systems: mindsets, behaviors and routines, structures and tools, and systems supports](rd-enabling-conditions-four-types.md)
+- [Six R&D practice dimensions (strategy, structure, intensity, spread, engagement, evidence) with a four-stage Nascent-to-Sustaining rubric](../products/six-rd-practice-dimensions-framework.md)
+
+## Examples
+
+- [5Essentials Survey system measuring school organizational conditions](../products/5essentials-survey.md)
+- [Early Ed Essentials teacher and parent survey measurement system](../products/early-education-essentials.md)
+
+## Key Sources
+- Ehrlich, S.B., Pacchiano, D.M., Stein, A.G., Wagner, M.R., Luppescu, S., Park, S., Frank, E., Lewandowski, H., & Young, C. (2018). Organizing early education for improvement: Testing a new survey tool. Chicago, IL: University of Chicago Consortium on School Research and the Ounce of Prevention Fund. https://consortium.uchicago.edu/publications/organizing-early-education-improvement-testing-new-survey-tool
+-->

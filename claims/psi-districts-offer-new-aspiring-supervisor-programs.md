@@ -3,7 +3,7 @@ type: claim
 title: PSI districts were more likely than other urban districts to offer programs for new and aspiring supervisors
 description: PSI districts were more likely than other urban districts to offer programs for new and aspiring supervisors
 id: psi-districts-offer-new-aspiring-supervisor-programs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

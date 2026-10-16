@@ -3,7 +3,7 @@ type: claim
 title: Residency-trained principals raised math and reading test scores more than non-residency new principals in their first two years
 description: Residency-trained principals raised math and reading test scores more than non-residency new principals in their first two years
 id: residency-principals-raise-test-scores-first-two-years
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

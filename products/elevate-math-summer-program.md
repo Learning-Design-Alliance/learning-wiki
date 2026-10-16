@@ -4,7 +4,7 @@ id: elevate-math-summer-program
 title: Elevate Math summer program
 description: Elevate Math is a Silicon Valley Education Foundation summer mathematics support programme that combines a Common Core–aligned curriculum, blended instruction, Khan Academy practice, college-readiness activities, and professional development for its teachers and assistants.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

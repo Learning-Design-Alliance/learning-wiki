@@ -3,7 +3,7 @@ type: claim
 title: Evaluations of charter schools limited to test scores may fail to capture important benefits
 description: Evaluations of charter schools limited to test scores may fail to capture important benefits
 id: test-score-only-evaluations-miss-charter-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

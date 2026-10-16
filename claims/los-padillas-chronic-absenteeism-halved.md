@@ -3,7 +3,7 @@ type: claim
 title: "Los Padillas reduced chronic absenteeism by more than half, from 65.5% in 2021–22 to 31.3% in 2023–24, a rate below other APS community schools"
 description: "Los Padillas reduced chronic absenteeism by more than half, from 65.5% in 2021–22 to 31.3% in 2023–24, a rate below other APS community schools"
 id: los-padillas-chronic-absenteeism-halved
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

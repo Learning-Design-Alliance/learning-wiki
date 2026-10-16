@@ -3,7 +3,7 @@ type: claim
 title: "Children use a 'trust test' strategy, asking a chatbot questions they already know the answers to, to evaluate it as a credible information source"
 description: "Children use a 'trust test' strategy, asking a chatbot questions they already know the answers to, to evaluate it as a credible information source"
 id: children-trust-test-chatbot-with-known-answers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

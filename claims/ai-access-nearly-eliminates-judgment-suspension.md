@@ -3,7 +3,7 @@ type: claim
 title: "Merely having access to AI advice nearly eliminates people's willingness to suspend judgment under uncertainty, even when the advice is wrong"
 description: "Merely having access to AI advice nearly eliminates people's willingness to suspend judgment under uncertainty, even when the advice is wrong"
 id: ai-access-nearly-eliminates-judgment-suspension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

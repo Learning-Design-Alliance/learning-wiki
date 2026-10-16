@@ -3,7 +3,7 @@ type: claim
 title: Across rubric dimensions, content scored highest (A = 4.03) while production scored lowest (D = 3.41), driven by synthetic voice quality (D1 = 3.16)
 description: Across rubric dimensions, content scored highest (A = 4.03) while production scored lowest (D = 3.41), driven by synthetic voice quality (D1 = 3.16)
 id: bespoke-content-strongest-production-weakest-voice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

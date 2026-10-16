@@ -4,7 +4,7 @@ id: project-wet-curriculum-and-activity-guide
 title: Project WET Curriculum and Activity Guide
 description: A curriculum of water-education activities developed and distributed by the Project WET Foundation for use by educators in many settings.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: theory
 id: desirable-characteristics-of-routine-explorative-participation
 title: Six desirable characteristics of routine marking movement toward explorative participation
 description: "The paper presents, in Table 1, a list of observed changes in learners' performance that indicate a move toward explorative participation, drawn from Lavie et al."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

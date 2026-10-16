@@ -3,7 +3,7 @@ type: claim
 title: The percentage of students who stay at risk across time periods increases across grade levels K–3
 description: The percentage of students who stay at risk across time periods increases across grade levels K–3
 id: staying-at-risk-increases-with-grade-level
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -4,7 +4,7 @@ id: lindamood-phoneme-sequencing-lips
 title: Lindamood Phoneme Sequencing (LiPS)
 description: A branded phonological-awareness and decoding intervention developed by Lindamood-Bell Learning Processes for emergent and struggling readers, including students with dyslexia.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

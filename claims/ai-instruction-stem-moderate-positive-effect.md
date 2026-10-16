@@ -3,7 +3,7 @@ type: claim
 title: AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)
 description: AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)
 id: ai-instruction-stem-moderate-positive-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

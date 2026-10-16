@@ -3,7 +3,7 @@ type: strategy
 id: cancel-debt-improve-idr-double-pell-black-women
 title: "Federal policy package to end the student debt crisis for Black women: cancel debt, improve IDR, and double the Pell Grant"
 description: "The brief recommends that Congress and the Biden administration act on three fronts: cancel federal student debt (The Education Trust supports \"canceling at least $50,000 of federal student debt\" and opposes income, l..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

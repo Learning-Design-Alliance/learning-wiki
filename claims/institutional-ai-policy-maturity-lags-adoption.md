@@ -3,7 +3,7 @@ type: claim
 title: Institutional AI policy formation lags behind practical AI presence in coursework, leaving many faculty in policy vacuums
 description: Institutional AI policy formation lags behind practical AI presence in coursework, leaving many faculty in policy vacuums
 id: institutional-ai-policy-maturity-lags-adoption
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

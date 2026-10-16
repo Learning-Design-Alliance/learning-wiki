@@ -3,7 +3,7 @@ type: claim
 title: ET and MR conditions produced the highest quiz scores, though no statistical test is reported
 description: ET and MR conditions produced the highest quiz scores, though no statistical test is reported
 id: et-mr-highest-quiz-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

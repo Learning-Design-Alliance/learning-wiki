@@ -3,7 +3,7 @@ type: claim
 title: The Memphis value-added model estimates school effects on student performance while adjusting for mobility, demographics, and measurement error
 description: The Memphis value-added model estimates school effects on student performance while adjusting for mobility, demographics, and measurement error
 id: memphis-model-adjusts-mobility-demographics-measurement-error
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

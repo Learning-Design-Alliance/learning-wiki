@@ -3,7 +3,7 @@ type: strategy
 id: imagine-math-optional-pd-sessions
 title: Use optional professional development sessions for administrators and educators to support Imagine Math implementation
 description: "Imagine Learning offers \"various optional virtual or on-site professional development and training opportunities for administrators and educators.\" Administrator sessions focus on leading implementation tailored to ea..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

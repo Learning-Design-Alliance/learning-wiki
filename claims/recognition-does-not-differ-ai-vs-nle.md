@@ -3,7 +3,7 @@ type: claim
 title: "Students' recognition did not differ between AI-generated and NLE MCQs"
 description: "Students' recognition did not differ between AI-generated and NLE MCQs"
 id: recognition-does-not-differ-ai-vs-nle
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

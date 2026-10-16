@@ -4,7 +4,7 @@ title: The NIH Undergraduate Scholarship Program appears to be operating as inte
 description: The NIH Undergraduate Scholarship Program appears to be operating as intended, with scholars achieving career milestones at high rates
 id: nih-ugsp-operating-as-intended-career-milestones
 aliases: [nih-ugsp-operating-as-intended]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

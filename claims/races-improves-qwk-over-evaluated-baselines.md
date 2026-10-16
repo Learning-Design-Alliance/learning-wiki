@@ -3,7 +3,7 @@ type: claim
 title: RACES configurations improve QWK essay-scoring agreement over evaluated pretrained baselines on ASAP 2.0, with LLaMA2-7B-based configurations slightly outperforming Qwen2.5-Instruct-7B-based ones
 description: RACES configurations improve QWK essay-scoring agreement over evaluated pretrained baselines on ASAP 2.0, with LLaMA2-7B-based configurations slightly outperforming Qwen2.5-Instruct-7B-based ones
 id: races-improves-qwk-over-evaluated-baselines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

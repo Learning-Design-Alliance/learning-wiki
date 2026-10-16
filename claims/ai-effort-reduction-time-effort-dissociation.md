@@ -3,7 +3,7 @@ type: claim
 title: AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort
 description: AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort
 id: ai-effort-reduction-time-effort-dissociation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

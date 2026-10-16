@@ -3,7 +3,7 @@ type: strategy
 id: milestone-checklists-for-novice-mentors
 title: Pair flexible mentoring with clear milestone checklists and fallback activities in novice mentor preparation
 description: "A mentor-preparation strategy drawn from the ARC trial's lessons learned."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -44,4 +44,4 @@ A mentor-preparation strategy drawn from the ARC trial's lessons learned. Mentor
 -
 
 ## Key Sources
-- Jacobson, M. J.; Rodriguez-Rivera, G.; Drineas, P.; and Xue, Y. (2026). Teaching AI, Robotics, & Community: A Hubs-Based K–12 Education Framework for Reaching Rural Schools. https://arxiv.org/abs/2609.18072
+- Jacobson, M. J.; Rodriguez-Rivera, G.; Drineas, P.; and Xue, Y. (2026). Teaching AI, Robotics, & Community: A Hubs-Based K–12 Education Framework for Reaching Rural Schools. https://arxiv.org/abs/2609.18072. [doi:10.48550/arxiv.2609.18072](https://doi.org/10.48550/arxiv.2609.18072)

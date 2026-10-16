@@ -3,7 +3,7 @@ type: design
 id: generated-activity-types-collision-prevention
 title: Automated generation of seven vocabulary activity types with distractor collision prevention
 description: During each training session the algorithm selects target words from the P, S, and L sets and generates activities optimizing predicted learning gains.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

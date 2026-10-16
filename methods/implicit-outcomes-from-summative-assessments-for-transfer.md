@@ -3,7 +3,7 @@ type: method
 id: implicit-outcomes-from-summative-assessments-for-transfer
 title: Compare courses for transfer by analyzing implicit outcomes in summative assessments rather than calendar descriptions
 description: Because explicit learning outcomes are often sector-specific, non-standardized, and not aligned with course content or assessments, the article recommends comparing programs through analysis of significant summative a...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

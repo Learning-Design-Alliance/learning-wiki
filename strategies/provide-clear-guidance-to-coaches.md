@@ -3,7 +3,7 @@ type: strategy
 id: provide-clear-guidance-to-coaches
 title: Provide clear guidance to coaches when implementing a districtwide coaching program
 description: The brief recommends that districts provide clear guidance to coaches as they implement a coaching program.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

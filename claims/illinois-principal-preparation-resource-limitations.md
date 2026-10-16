@@ -3,7 +3,7 @@ type: claim
 title: Resource limitations from the redesigned policy are felt at the program, district, and principal candidate levels
 description: Resource limitations from the redesigned policy are felt at the program, district, and principal candidate levels
 id: illinois-principal-preparation-resource-limitations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

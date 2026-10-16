@@ -3,7 +3,7 @@ type: claim
 title: Despite calls to connect professional development to the curriculum, there is limited guidance on how to do so
 description: Despite calls to connect professional development to the curriculum, there is limited guidance on how to do so
 id: limited-guidance-connecting-pd-to-curriculum
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

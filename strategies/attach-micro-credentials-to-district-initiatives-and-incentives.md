@@ -3,7 +3,7 @@ type: strategy
 id: attach-micro-credentials-to-district-initiatives-and-incentives
 title: Attach micro-credentials to district initiatives, incentives, and job-embedded structures to strengthen professional learning systems
 description: "Across the four cases, organizations gained traction by aligning micro-credentials to existing initiatives and giving them real value: BCPS tied them to S.T.A.T."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

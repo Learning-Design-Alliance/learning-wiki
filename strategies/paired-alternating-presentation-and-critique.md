@@ -3,7 +3,7 @@ type: strategy
 id: paired-alternating-presentation-and-critique
 title: "Pair students to alternate presenting work and critically commenting on a partner's work to support each CRITO stage"
 description: "The paper states CRITO is compatible with most forms of collaborative or cooperative learning and recommends small group work, especially pairs, in which \"students alternate between presenting their work andlistening..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -43,6 +43,7 @@ The paper states CRITO is compatible with most forms of collaborative or coopera
 ## Related Strategies
 
 - [Reciprocal Peer Feedback](reciprocal-peer-feedback.md)
+- [Use chat-based GenAI as a partner for students to practice argumentation and scientific claims, especially in larger courses](genai-partner-argumentation-practice-strategy.md)
 
 ## Examples
 -

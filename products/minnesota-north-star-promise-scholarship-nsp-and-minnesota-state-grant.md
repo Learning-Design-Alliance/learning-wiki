@@ -4,7 +4,7 @@ id: minnesota-north-star-promise-scholarship-nsp-and-minnesota-state-grant
 title: Minnesota North Star Promise Scholarship, NSP+, and Minnesota State Grant
 description: Minnesota state postsecondary financial-aid programs that provide tuition and need-based support to eligible residents, including eligible undocumented students, administered by the state.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

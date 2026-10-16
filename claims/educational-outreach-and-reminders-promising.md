@@ -3,7 +3,7 @@ type: claim
 title: Educational outreach (for prescribing) and reminders are promising approaches to changing professional behavior
 description: Educational outreach (for prescribing) and reminders are promising approaches to changing professional behavior
 id: educational-outreach-and-reminders-promising
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

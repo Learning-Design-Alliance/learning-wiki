@@ -3,7 +3,7 @@ type: strategy
 id: broadening-burrowing-storying-restorying-tools
 title: Use myriad field texts and the analytical tools of broadening, burrowing, and storying and restorying to move from field texts to research texts
 description: This strategy specifies the data sources and analytical moves of narrative inquiry.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

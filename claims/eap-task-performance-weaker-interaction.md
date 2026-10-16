@@ -3,7 +3,7 @@ type: claim
 title: EAP task performance showed the same directional pattern as reading comprehension but with a weaker Proficiency × Material interaction
 description: EAP task performance showed the same directional pattern as reading comprehension but with a weaker Proficiency × Material interaction
 id: eap-task-performance-weaker-interaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

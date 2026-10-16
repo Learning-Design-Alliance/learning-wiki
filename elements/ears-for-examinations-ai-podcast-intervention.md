@@ -3,7 +3,7 @@ type: element
 id: ears-for-examinations-ai-podcast-intervention
 title: "Ears for Examinations: AI-generated, faculty-validated conversational revision podcasts hosted on YouTube"
 description: "A series of six AI-generated, faculty-validated revision podcasts, each an 8–10 minute \"conversational dialogue between an anchor and a senior professor of Community Medicine\", moving from basic recall to higher-order..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

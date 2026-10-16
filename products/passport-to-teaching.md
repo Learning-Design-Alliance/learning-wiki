@@ -4,7 +4,7 @@ id: passport-to-teaching
 title: Passport to Teaching
 description: "The American Board for Certification of Teacher Excellence's Passport to Teaching is an examination-based teacher-certification programme intended to identify competent teachers regardless of their preparation route."
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

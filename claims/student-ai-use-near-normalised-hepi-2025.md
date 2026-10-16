@@ -3,7 +3,7 @@ type: claim
 title: Student generative AI use is near-normalised in some jurisdictions while outright non-use remains low
 description: Student generative AI use is near-normalised in some jurisdictions while outright non-use remains low
 id: student-ai-use-near-normalised-hepi-2025
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: strategy
 id: future-research-precise-pl-terminology-dpl
 title: Adopt more precise terminology such as digital personalized learning (DPL) or personalized adaptive learning, and pursue rigorous longitudinal research with younger learners
 description: "The review's future-research agenda calls for \"greater conceptual clarity in defining personalized learning in AI-driven educational contexts, encouraging the use of more precise terminology—such as digital personaliz..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

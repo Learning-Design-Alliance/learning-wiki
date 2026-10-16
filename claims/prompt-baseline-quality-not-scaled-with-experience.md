@@ -3,7 +3,7 @@ type: claim
 title: Professional developers write prompts of moderate baseline quality, which does not meaningfully scale with programming experience
 description: Professional developers write prompts of moderate baseline quality, which does not meaningfully scale with programming experience
 id: prompt-baseline-quality-not-scaled-with-experience
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

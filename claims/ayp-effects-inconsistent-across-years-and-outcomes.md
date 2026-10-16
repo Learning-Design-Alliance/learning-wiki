@@ -3,7 +3,7 @@ type: claim
 title: Accountability sanction effects were not consistent across years and outcomes
 description: Accountability sanction effects were not consistent across years and outcomes
 id: ayp-effects-inconsistent-across-years-and-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: design
 id: risk-mitigation-prompt-tables-per-stage
 title: "Risk-and-mitigation task tables: each LLM-supported task pairs a baseline prompt with task-specific risks and mitigation strategies"
 description: The taxonomy is instantiated as four tables (Tables 2-5), one per workflow stage, where each task row gives a definition, a model-agnostic baseline prompt, and a risk-and-mitigation column.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

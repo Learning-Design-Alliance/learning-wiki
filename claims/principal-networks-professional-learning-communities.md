@@ -3,7 +3,7 @@ type: claim
 title: Networks and professional learning communities of practicing principals support sharing best practices and problem solving on the job
 description: Networks and professional learning communities of practicing principals support sharing best practices and problem solving on the job
 id: principal-networks-professional-learning-communities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

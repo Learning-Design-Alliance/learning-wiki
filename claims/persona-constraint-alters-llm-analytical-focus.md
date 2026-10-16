@@ -3,7 +3,7 @@ type: claim
 title: "The two personas produced qualitatively different questions on the same essay, indicating the persona constraint mechanism alters the model's analytical focus"
 description: "The two personas produced qualitatively different questions on the same essay, indicating the persona constraint mechanism alters the model's analytical focus"
 id: persona-constraint-alters-llm-analytical-focus
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

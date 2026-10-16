@@ -3,7 +3,7 @@ type: claim
 title: Core-Ed Edu-QuRater scores vary sensibly with education-level metadata on out-of-sample materials (marginal Pearson correlations 0.62 and 0.64; six-dimension cross-validated R2 of 0.449)
 description: Core-Ed Edu-QuRater scores vary sensibly with education-level metadata on out-of-sample materials (marginal Pearson correlations 0.62 and 0.64; six-dimension cross-validated R2 of 0.449)
 id: core-ed-scores-track-education-level-metadata
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: In a single-word lexical decision task, Chinese speakers show a transposed-character effect in reaction times and error rates while Japanese speakers do not
 description: In a single-word lexical decision task, Chinese speakers show a transposed-character effect in reaction times and error rates while Japanese speakers do not
 id: tc-effect-exp1-chinese-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

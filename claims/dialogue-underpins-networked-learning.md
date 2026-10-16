@@ -3,7 +3,7 @@ type: claim
 title: "Dialogue underpins networked learning: thinking in networks means thinking through collaborative dialogue"
 description: "Dialogue underpins networked learning: thinking in networks means thinking through collaborative dialogue"
 id: dialogue-underpins-networked-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

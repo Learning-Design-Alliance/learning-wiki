@@ -3,7 +3,7 @@ type: claim
 title: Teachers reported increasing encouragement of risk-taking while coaches were less confident teachers actually took risks
 description: Teachers reported increasing encouragement of risk-taking while coaches were less confident teachers actually took risks
 id: dlp-risk-taking-perception-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -18,8 +18,8 @@ sources:
     kind: design
     rigour: 2
   - id: bakhshaei-2018-2
-    resource: "https://digitalpromise.dspacedirect.org/items/540c3325-fd5f-408e-a347-2409f57848dd"
-    title: "Bakhshaei, M., Hardy, A., Francisco, A., Noakes, S., & Fusco, J. (2018). Fostering Powerful Use of Technology Through Instructional Coaching: Results from the Pilot Year of the Dynamic Learning Project. Digital Promise. https://digitalpromise.dspacedirect.org/items/540c3325-fd5f-408e-a347-2409f57848dd"
+    resource: "https://doi.org/10.51388/20.500.12265/48"
+    title: "Bakhshaei, M., Hardy, A., Francisco, A., Noakes, S., & Fusco, J. (2018). Fostering Powerful Use of Technology Through Instructional Coaching: Results from the Pilot Year of the Dynamic Learning Project. Digital Promise. https://digitalpromise.dspacedirect.org/items/540c3325-fd5f-408e-a347-2409f57848dd. [doi:10.51388/20.500.12265/48](https://doi.org/10.51388/20.500.12265/48)"
     author: "Bakhshaei, M., Hardy, A., Francisco, A., Noakes, S., & Fusco, J."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Teachers reported increasing encouragement of risk-taking while coaches were less confident teachers actually took risks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` By year end, 87 percent of participating teachers reported risk-taking is encouraged in their school, and DLP teachers were significantly more likely than non-DLP teachers to believe this. [→ Bakhshaei 2018](#bakhshaei-2018)
@@ -50,7 +50,7 @@ End-of-year survey of participating and non-participating teachers: "87 percent 
 
 ### Bakhshaei 2018 (2)
 
-Bakhshaei, M., Hardy, A., Francisco, A., Noakes, S., & Fusco, J. (2018). Fostering Powerful Use of Technology Through Instructional Coaching: Results from the Pilot Year of the Dynamic Learning Project. Digital Promise. https://digitalpromise.dspacedirect.org/items/540c3325-fd5f-408e-a347-2409f57848dd
+Bakhshaei, M., Hardy, A., Francisco, A., Noakes, S., & Fusco, J. (2018). Fostering Powerful Use of Technology Through Instructional Coaching: Results from the Pilot Year of the Dynamic Learning Project. Digital Promise. https://digitalpromise.dspacedirect.org/items/540c3325-fd5f-408e-a347-2409f57848dd. [doi:10.51388/20.500.12265/48](https://doi.org/10.51388/20.500.12265/48)
 
 `q2 · i?` · `design · r2`
 

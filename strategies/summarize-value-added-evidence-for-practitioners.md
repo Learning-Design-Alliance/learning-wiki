@@ -3,7 +3,7 @@ type: strategy
 id: summarize-value-added-evidence-for-practitioners
 title: Summarize emerging value-added evidence in practitioner-accessible briefs
 description: "Because researchers have presented value-added evidence in varied ways, the brief's strategy is to highlight and summarize recent studies in a consistent format for practitioners."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: In almost every Chicago community area, more than 50 percent of 2019 graduates enrolled immediately in college, while 16 percent of high schools had enrollment rates below 50 percent
 description: In almost every Chicago community area, more than 50 percent of 2019 graduates enrolled immediately in college, while 16 percent of high schools had enrollment rates below 50 percent
 id: college-enrollment-above-50-most-community-areas
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

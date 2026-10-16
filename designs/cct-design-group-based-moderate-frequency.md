@@ -3,7 +3,7 @@ type: design
 id: cct-design-group-based-moderate-frequency
 title: Design CCT for older adults as supervised group-based training at 1–3 sessions per week with sessions of at least 30 minutes
 description: "The review's moderator analyses ground a design principle: efficacy in healthy older adults \"is to a large extent determined by design choices.\" Group-based delivery (g = 0.29) and 1–3 weekly sessions were effective,..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-15

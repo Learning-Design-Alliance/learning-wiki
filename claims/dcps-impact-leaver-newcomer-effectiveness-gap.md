@@ -3,7 +3,7 @@ type: claim
 title: The report compares the effectiveness of teachers entering and exiting DCPS since IMPACT against core teachers who remained from 2008–2009 through 2012–2013
 description: The report compares the effectiveness of teachers entering and exiting DCPS since IMPACT against core teachers who remained from 2008–2009 through 2012–2013
 id: dcps-impact-leaver-newcomer-effectiveness-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

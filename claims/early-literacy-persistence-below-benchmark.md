@@ -3,7 +3,7 @@ type: claim
 title: Most students below benchmark at the beginning of the year remained below at the end, with persistence highest for historically marginalized student groups (67–80 percent)
 description: Most students below benchmark at the beginning of the year remained below at the end, with persistence highest for historically marginalized student groups (67–80 percent)
 id: early-literacy-persistence-below-benchmark
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

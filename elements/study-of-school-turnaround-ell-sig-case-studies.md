@@ -3,7 +3,7 @@ type: element
 id: study-of-school-turnaround-ell-sig-case-studies
 title: "Study of School Turnaround: case studies of 11 SIG schools with high ELL enrollments"
 description: The Study of School Turnaround is a multi-year evaluation examining school improvement in SIG-funded schools.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

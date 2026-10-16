@@ -4,7 +4,7 @@ id: berea-college-promise-neighborhood-initiative
 title: Berea College Promise Neighborhood initiative
 description: A Berea College–run place-based education initiative serving students and communities across Clay, Jackson, and Owsley Counties in rural Appalachian Kentucky.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

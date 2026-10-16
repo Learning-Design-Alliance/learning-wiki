@@ -3,7 +3,7 @@ type: claim
 title: "Teachers of color are judged more harshly in evaluations: within the same schools, Black teachers were 50 percent more likely than white teachers to receive a low rating."
 description: "Teachers of color are judged more harshly in evaluations: within the same schools, Black teachers were 50 percent more likely than white teachers to receive a low rating."
 id: biased-teacher-evaluations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

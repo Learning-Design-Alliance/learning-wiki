@@ -3,7 +3,7 @@ type: claim
 title: "The survey instrument's nine constructs show convergent and discriminant validity in this sample"
 description: "The survey instrument's nine constructs show convergent and discriminant validity in this sample"
 id: genai-motivation-survey-measurement-validity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

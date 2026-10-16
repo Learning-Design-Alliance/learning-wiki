@@ -3,7 +3,7 @@ type: design
 id: mr-triage-synchronized-code-memory-metaphor-tool
 title: Multi-representational program visualization tool with synchronized code, memory, and metaphor views
 description: A web-based visualization probe designed for the study, drawing on MER/DeFT and concreteness fading.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

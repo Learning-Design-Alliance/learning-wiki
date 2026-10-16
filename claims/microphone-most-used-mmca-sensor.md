@@ -3,7 +3,7 @@ type: claim
 title: Microphones are the most widely used sensor in MMCA studies
 description: Microphones are the most widely used sensor in MMCA studies
 id: microphone-most-used-mmca-sensor
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

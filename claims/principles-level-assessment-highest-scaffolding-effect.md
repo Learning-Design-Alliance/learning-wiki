@@ -3,7 +3,7 @@ type: claim
 title: "Scaffolding's influence was greater when measured at the principles assessment level than at the concept level"
 description: "Scaffolding's influence was greater when measured at the principles assessment level than at the concept level"
 id: principles-level-assessment-highest-scaffolding-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

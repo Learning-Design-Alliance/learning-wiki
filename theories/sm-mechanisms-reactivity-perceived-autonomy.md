@@ -2,7 +2,7 @@
 type: theory
 title: "Mechanisms of change in self-management interventions: reactivity to self-monitoring and perceived autonomy"
 description: The review proposes two behavioral principles underlying SM.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

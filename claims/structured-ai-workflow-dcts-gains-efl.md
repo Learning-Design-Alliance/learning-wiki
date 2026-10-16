@@ -3,7 +3,7 @@ type: claim
 title: Structured AI-supported writing instruction produced a very large posttest advantage in digital critical thinking/AI literacy (DCTS) over traditional instruction
 description: Structured AI-supported writing instruction produced a very large posttest advantage in digital critical thinking/AI literacy (DCTS) over traditional instruction
 id: structured-ai-workflow-dcts-gains-efl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

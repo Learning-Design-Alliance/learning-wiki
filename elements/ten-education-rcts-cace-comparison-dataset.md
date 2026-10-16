@@ -3,7 +3,7 @@ type: element
 id: ten-education-rcts-cace-comparison-dataset
 title: Set of 10 large-scale education RCTs used to compare CACE variance formula significance findings
 description: "The article's empirical base is a set of \"10 large-scale RCTs\" in the education field, used to compare significance findings for the CACE estimator under correct variance formulas versus commonly used formulas that ig..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

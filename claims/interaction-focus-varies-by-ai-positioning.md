@@ -3,7 +3,7 @@ type: claim
 title: "The focus of teacher-student interactions differed by AI positioning: learning for partners, score-increasing for assistants, completion for substitutes"
 description: "The focus of teacher-student interactions differed by AI positioning: learning for partners, score-increasing for assistants, completion for substitutes"
 id: interaction-focus-varies-by-ai-positioning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

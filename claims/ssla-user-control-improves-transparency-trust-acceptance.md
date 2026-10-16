@@ -3,7 +3,7 @@ type: claim
 title: Supporting user interaction and control in the indicator implementation process positively affects transparency, trust, satisfaction, and acceptance in LA
 description: Supporting user interaction and control in the indicator implementation process positively affects transparency, trust, satisfaction, and acceptance in LA
 id: ssla-user-control-improves-transparency-trust-acceptance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

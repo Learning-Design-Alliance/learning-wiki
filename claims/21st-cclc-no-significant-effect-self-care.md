@@ -3,7 +3,7 @@ type: claim
 title: 21st CCLC participation showed no statistically significant effect on the incidence of self-care after school
 description: 21st CCLC participation showed no statistically significant effect on the incidence of self-care after school
 id: 21st-cclc-no-significant-effect-self-care
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

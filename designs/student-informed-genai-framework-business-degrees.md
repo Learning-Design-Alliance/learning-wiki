@@ -3,7 +3,7 @@ type: design
 id: student-informed-genai-framework-business-degrees
 title: A student-informed conceptual framework for integrating GenAI education throughout business degree programmes
 description: The article presents a new conceptual framework for integrating GenAI education throughout business degree programmes.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

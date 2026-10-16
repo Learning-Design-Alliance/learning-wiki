@@ -3,7 +3,7 @@ type: claim
 title: "A 2010 narrative review reports that processing-instruction studies show structured input without explicit information can change learner knowledge"
 description: A 2010 narrative review reports that processing-instruction studies show structured input without explicit information can change learner knowledge
 id: structured-input-alone-sufficient-for-acquisition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

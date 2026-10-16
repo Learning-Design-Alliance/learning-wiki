@@ -3,7 +3,7 @@ type: research-method
 id: equipercentile-linking-with-conditional-growth-norms-for-deriving-assessment-cut-scores
 title: Equipercentile linking with conditional growth norms for deriving assessment cut scores
 description: "The article's methodology combines the equipercentile linking method with NWEA's conditional growth norms."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Fewer than 10% of teaching staff and students in surveyed Arab higher education institutions had received formal AI training"
 description: "Fewer than 10% of teaching staff and students in surveyed Arab higher education institutions had received formal AI training"
 id: under-10-percent-arab-he-formal-ai-training
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -2,7 +2,7 @@
 type: theory
 title: "Analytics Model for Teacher Inquiry (AMTI): an eight-step circular model for analytics-informed teacher inquiry"
 description: "The AMTI is a process model guiding teachers through analytics-informed teacher inquiry in eight steps: motivation, purpose, inquiry questions, data needs, data collection, sense-making, interpretation, and decision-m..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

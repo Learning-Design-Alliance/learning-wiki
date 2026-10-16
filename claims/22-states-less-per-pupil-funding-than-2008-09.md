@@ -3,7 +3,7 @@ type: claim
 title: As of fiscal year 2017, 22 states still provided less per-pupil K–12 education funding than in 2008–09
 description: As of fiscal year 2017, 22 states still provided less per-pupil K–12 education funding than in 2008–09
 id: 22-states-less-per-pupil-funding-than-2008-09
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

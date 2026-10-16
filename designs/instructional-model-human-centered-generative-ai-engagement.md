@@ -3,7 +3,7 @@ type: design
 id: instructional-model-human-centered-generative-ai-engagement
 title: "Instructional Model for Human-Centered Generative AI Engagement: five recursive phases for LLM-integrated learning"
 description: A constructionist pedagogical framework that structures student engagement with text-based LLMs in higher education.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

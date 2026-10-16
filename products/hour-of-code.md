@@ -4,7 +4,7 @@ id: hour-of-code
 title: Hour of Code
 description: The Hour of Code is a Code.org initiative offering one-hour introductory computer-science activities for K–12 students and implemented by schools and other participating organizations.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

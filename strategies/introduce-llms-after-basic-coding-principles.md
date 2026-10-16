@@ -3,7 +3,7 @@ type: strategy
 id: introduce-llms-after-basic-coding-principles
 title: Introduce LLM tools at later stages of programming education, after students have acquired basic coding principles
 description: "The authors advocate a balanced approach to integrating LLMs into educational curriculums: \"By introducing these tools at later stages of programming education, after students have acquired basic coding principles\", s..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

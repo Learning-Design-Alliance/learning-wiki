@@ -3,7 +3,7 @@ type: strategy
 id: adult-advocates-at-risk-students-strategy
 title: Assign trained adult advocates with low caseloads to students at risk of dropping out
 description: "The guide's second recommendation pairs at-risk students with a trained adult who acts as a case manager, addressing academic and social needs, communicating with families, and advocating for the student."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

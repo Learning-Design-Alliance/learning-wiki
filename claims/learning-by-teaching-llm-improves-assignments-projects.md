@@ -3,7 +3,7 @@ type: claim
 title: Learning-by-teaching an LLM improved assignment and project performance versus historical cohorts, but not exam performance, in an undergraduate CS course
 description: Learning-by-teaching an LLM improved assignment and project performance versus historical cohorts, but not exam performance, in an undergraduate CS course
 id: learning-by-teaching-llm-improves-assignments-projects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

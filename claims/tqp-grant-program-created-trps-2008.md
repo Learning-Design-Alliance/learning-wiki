@@ -3,7 +3,7 @@ type: claim
 title: TRPs were created in 2008 under the Teacher Quality Partnership Grant Program to draw highly qualified teachers to high-need schools
 description: TRPs were created in 2008 under the Teacher Quality Partnership Grant Program to draw highly qualified teachers to high-need schools
 id: tqp-grant-program-created-trps-2008
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

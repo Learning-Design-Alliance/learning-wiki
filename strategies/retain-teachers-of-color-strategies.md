@@ -3,7 +3,7 @@ type: strategy
 id: retain-teachers-of-color-strategies
 title: Retain teachers of color through leadership pipelines, multi-year induction and mentoring, and culturally responsive school climates
 description: "The brief's Goal 5 recommends investing in high-retention pathways, leadership development, induction and mentoring of at least two years, and culturally responsive training for school and district leaders."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

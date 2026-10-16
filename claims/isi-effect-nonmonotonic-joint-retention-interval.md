@@ -3,7 +3,7 @@ type: claim
 title: ISI effects on recall are nonmonotonic and depend jointly on retention interval
 description: ISI effects on recall are nonmonotonic and depend jointly on retention interval
 id: isi-effect-nonmonotonic-joint-retention-interval
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
@@ -48,3 +48,4 @@ Accuracy difference lag analysis (Table 3): at 1-day retention interval, longer 
 - [Spaced presentations produce markedly better final recall than massed presentations across retention intervals](spaced-practice-improves-retention.md) — related
 - [Relearning-to-criterion designs confound distribution of practice with amount of second-session practice](relearning-confound-distributed-practice-designs.md) — related
 - [The testing effect is largest at a retention interval of 1–6 days (g = 0.82) and robust across all intervals](retention-interval-one-to-six-days-largest.md) — related
+- [In paired-associate paradigms, the lag function is decreasing at very short retention intervals, inverted U-shaped at slightly longer intervals, and monotonically increasing at long intervals](paired-associate-lag-function-retention-interval.md) — related

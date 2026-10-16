@@ -2,7 +2,7 @@
 type: theory
 title: "Three-part framework for effective data use: system development, a coherent use plan, and support for use"
 description: "The brief organizes effective data use in education into three complementary strands addressed across a brief series: developing and enhancing data systems, developing a coherent plan for effectively using data, and s..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

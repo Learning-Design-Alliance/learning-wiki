@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Mnemonic Instruction Improves Recall For Students With Disabilities
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25
@@ -94,3 +94,5 @@ This systematic review looked at 20 studies of mnemonic interventions with 669 s
 - [Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores](self-monitoring-comprehension-improves-learning.md) — related
 - [A review chapter (Karpicke 2017) reports, second-hand, experiments in which retrieval practice produced more learning than concept mapping (Karpicke & Blunt 2011) and than imagery strategies such as the keyword mnemonic (Karpicke & Smith 2012)](retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration.md) — related
 - RTI identifies learning disabilities via dual discrepancy in level and rate of performance — related
+- [Concreteness, imagery, and verbal associative processes play major roles across multiple educational domains](concreteness-imagery-associative-roles-educational-domains.md) — a broader claim this one bears on
+- [Self-instruction techniques yielded the highest mean effect size (2.71) among self-management intervention types, with self-monitoring the predominant technique used](self-management-ebd-intervention-type-es.md) — related

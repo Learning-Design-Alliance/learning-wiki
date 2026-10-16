@@ -3,7 +3,7 @@ type: claim
 title: Summer learning loss findings call into question explanations based on summer program access and school-year length
 description: Summer learning loss findings call into question explanations based on summer program access and school-year length
 id: summer-loss-explanations-questioned
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

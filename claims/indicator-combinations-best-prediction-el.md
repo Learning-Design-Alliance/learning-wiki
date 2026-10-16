@@ -3,7 +3,7 @@ type: claim
 title: Combining GPA or course failure rates with attendance provides the best prediction of high school graduation for most EL groups, while GPA plus test scores best predicts college degree attainment
 description: Combining GPA or course failure rates with attendance provides the best prediction of high school graduation for most EL groups, while GPA plus test scores best predicts college degree attainment
 id: indicator-combinations-best-prediction-el
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Four elementary math curricula were evaluated using an experimental design
 description: Four elementary math curricula were evaluated using an experimental design
 id: experimental-evaluation-four-elementary-math-curricula
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

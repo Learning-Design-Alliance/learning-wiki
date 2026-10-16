@@ -3,7 +3,7 @@ type: claim
 title: The most challenging holistic-rubric question reached only moderate inter-rater reliability (kw=0.54) after three iterations
 description: The most challenging holistic-rubric question reached only moderate inter-rater reliability (kw=0.54) after three iterations
 id: holistic-hardest-question-moderate-reliability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

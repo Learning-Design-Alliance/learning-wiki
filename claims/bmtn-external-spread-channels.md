@@ -3,7 +3,7 @@ type: claim
 title: Network learning spread beyond the network through a website, conference presentations, school and district sharing, and AIR-led professional learning communities
 description: Network learning spread beyond the network through a website, conference presentations, school and district sharing, and AIR-led professional learning communities
 id: bmtn-external-spread-channels
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

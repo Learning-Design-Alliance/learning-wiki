@@ -3,7 +3,7 @@ type: claim
 title: The self-employment rate among employed NFTE alumni respondents (16 percent) was higher than the national rate of 6 percent for young adults ages 25–34
 description: The self-employment rate among employed NFTE alumni respondents (16 percent) was higher than the national rate of 6 percent for young adults ages 25–34
 id: nfte-alumni-self-employment-above-national-rate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

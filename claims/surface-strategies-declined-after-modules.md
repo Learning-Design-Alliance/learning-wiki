@@ -3,7 +3,7 @@ type: claim
 title: "Students' reliance on surface-level evaluation strategies declined after the modules, including trust in dot-org domains, links, appearance, and About pages"
 description: "Students' reliance on surface-level evaluation strategies declined after the modules, including trust in dot-org domains, links, appearance, and About pages"
 id: surface-strategies-declined-after-modules
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

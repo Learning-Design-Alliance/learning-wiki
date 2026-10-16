@@ -3,7 +3,7 @@ type: claim
 title: Instructional approach, AI technology type, assessment instrument, educational level, and publication year do not significantly moderate AI literacy intervention effects
 description: Instructional approach, AI technology type, assessment instrument, educational level, and publication year do not significantly moderate AI literacy intervention effects
 id: five-moderators-non-significant-ai-literacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

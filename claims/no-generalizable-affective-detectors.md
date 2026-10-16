@@ -3,7 +3,7 @@ type: claim
 title: "Generalizable detectors of students' affective states in DLPs remain an unsolved problem"
 description: "Generalizable detectors of students' affective states in DLPs remain an unsolved problem"
 id: no-generalizable-affective-detectors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

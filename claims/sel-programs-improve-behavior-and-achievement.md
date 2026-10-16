@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25
@@ -197,3 +197,5 @@ Open questions include the durability of achievement effects after programs end,
 - [SEL programs are associated with an 11 percentile-point improvement in academic performance](sel-programs-improve-academic-performance.md) — reports the opposite
 - [Social and emotional learning programs promote competencies, reduce behavior problems, and improve engagement and achievement, with sustained longer-term benefits](sel-programs-improve-behavior-engagement-achievement.md) — a broader claim this one bears on
 - [SEL programs reduce disruptive behavior problems and emotional distress and foster prosocial behavior](sel-programs-reduce-behavior-problems-distress.md) — a narrower finding that bears on this claim
+- [Non-cognitive-behavioral counseling, social work, and other therapeutic interventions show consistently negative effects, whereas self-control or social competency promotion instruction using cognitive-behavioral and behavioral instructional methods shows consistently positive effects](cognitive-behavioral-prevention-positive-therapeutic-negative.md) — related
+- [Moderation analyses in reviewed SEL evaluations often lacked conceptual or empirical justification from prior literature or hypotheses](unjustified-sel-moderation-analyses.md) — related

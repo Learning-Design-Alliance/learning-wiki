@@ -3,7 +3,7 @@ type: strategy
 id: compare-candidate-models-when-dimensionality-unclear
 title: When test dimensionality is unclear, compare several candidate calibration models to empirically justify the chosen composite scoring model
 description: This strategy addresses practical testing situations where no clear a priori theoretical belief about the latent structure exists.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

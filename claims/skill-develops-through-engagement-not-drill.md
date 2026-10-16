@@ -3,7 +3,7 @@ type: claim
 title: Skill develops through engaging in the target activity itself, not through mechanistic drill of isolated components
 description: Skill develops through engaging in the target activity itself, not through mechanistic drill of isolated components
 id: skill-develops-through-engagement-not-drill
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

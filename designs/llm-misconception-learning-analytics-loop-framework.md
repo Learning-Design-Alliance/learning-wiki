@@ -3,7 +3,7 @@ type: design
 id: llm-misconception-learning-analytics-loop-framework
 title: Framework for closing the learning analytics loop via LLM-characterized misconceptions
 description: "A cyclical framework in which data collection and analysis pinpoint challenging topics, LLMs characterize underlying misconceptions, and this analysis informs two intervention pathways: \"cohort-level interventions for..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11
@@ -50,4 +50,4 @@ A cyclical framework in which data collection and analysis pinpoint challenging 
 -
 
 ## Key Sources
-- Parker, M. J., & Zavala-Cerna, M. G. (2025). What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics. https://arxiv.org/abs/2507.09875
+- Parker, M. J., & Zavala-Cerna, M. G. (2025). What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics. https://arxiv.org/abs/2507.09875. [doi:10.48550/arxiv.2605.00294](https://doi.org/10.48550/arxiv.2605.00294)

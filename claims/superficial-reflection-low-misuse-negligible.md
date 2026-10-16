@@ -3,7 +3,7 @@ type: claim
 title: In simulations, superficial reflection stays at consistently low frequency across all reflection-reward levels, and misuse remains negligible, indicating the main governance challenge is normalised opportunistic AI use rather than overt misconduct
 description: In simulations, superficial reflection stays at consistently low frequency across all reflection-reward levels, and misuse remains negligible, indicating the main governance challenge is normalised opportunistic AI us...
 id: superficial-reflection-low-misuse-negligible
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

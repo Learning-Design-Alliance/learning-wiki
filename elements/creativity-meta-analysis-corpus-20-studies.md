@@ -3,7 +3,7 @@ type: element
 id: creativity-meta-analysis-corpus-20-studies
 title: Meta-analytic corpus of 20 pretest-posttest control-group studies on creativity applications (2000–2015)
 description: "The article assembles a corpus of 20 studies meeting its inclusion criteria: pretest-posttest control-group designs comparing CBL, PBL, or DI against traditional lecture-based instruction, published between 2000 and 2..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

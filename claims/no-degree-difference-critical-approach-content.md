@@ -3,7 +3,7 @@ type: claim
 title: BA, MA and PhD teachers do not differ significantly in awareness of a critical approach to EFL classroom content
 description: BA, MA and PhD teachers do not differ significantly in awareness of a critical approach to EFL classroom content
 id: no-degree-difference-critical-approach-content
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: strategy
 id: state-support-and-technical-assistance-for-sel
 title: Provide schools with resources, technical assistance, and well-validated measurement tools to support SEL
 description: "The report concludes that \"State agencies and districts should provide schools with resources and technical assistance as they seek to encourage SEL,\" because data alone will not drive school success."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

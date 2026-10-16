@@ -3,7 +3,7 @@ type: element
 id: tfa-i3-implementation-study-two-components
 title: "TFA i3 scale-up implementation study with two components: goal-attainment analysis and program-model fidelity analysis"
 description: "The implementation study of TFA's i3 scale-up comprised two components: an analysis of whether TFA met its scale-up goals during the early years of the grant, and an analysis of whether it maintained fidelity to key a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

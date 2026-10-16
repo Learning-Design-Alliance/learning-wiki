@@ -3,7 +3,7 @@ type: claim
 title: Teachers with a local coach completed far more of the intended Write to Succeed professional learning activities than teachers without one
 description: Teachers with a local coach completed far more of the intended Write to Succeed professional learning activities than teachers without one
 id: wts-local-coach-higher-activity-completion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ id: ccssos-implementation-chain
 title: "CCSSO's implementation chain"
 description: A phased, multi-level implementation framework developed by the Council of Chief State School Officers (CCSSO) to guide coordinated adoption, implementation, and sustainability of educational initiatives.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

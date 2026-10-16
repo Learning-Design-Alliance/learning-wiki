@@ -3,7 +3,7 @@ type: claim
 title: Students earned higher average grades in CS courses than in core courses, with few failing CS
 description: Students earned higher average grades in CS courses than in core courses, with few failing CS
 id: cs-grades-higher-than-core
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

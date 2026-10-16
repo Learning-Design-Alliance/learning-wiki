@@ -3,7 +3,7 @@ type: claim
 title: The indirect effect of AI literacy on engagement via psychological capital strengthens as professional commitment rises (moderated mediation)
 description: The indirect effect of AI literacy on engagement via psychological capital strengthens as professional commitment rises (moderated mediation)
 id: moderated-mediation-conditional-indirect-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

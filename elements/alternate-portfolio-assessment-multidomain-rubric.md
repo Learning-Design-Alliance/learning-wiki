@@ -3,7 +3,7 @@ type: element
 id: alternate-portfolio-assessment-multidomain-rubric
 title: Standards-based alternate portfolio assessment with multi-domain scoring rubric
 description: An alternate assessment in which student portfolios—a purposeful and systematic collection of student work evaluated against predetermined scoring criteria—document progress toward the same content standards as all st...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

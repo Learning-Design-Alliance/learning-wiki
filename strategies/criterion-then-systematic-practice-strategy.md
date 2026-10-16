@@ -3,7 +3,7 @@ type: strategy
 id: criterion-then-systematic-practice-strategy
 title: Teach rules to metalinguistic criterion first, then schedule systematic comprehension and production practice
 description: "The article's instructional sequence: teach target rules and vocabulary explicitly, verify with metalinguistic tests until learners reach criterion, then engage learners in systematic, computer-controlled comprehensio..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
@@ -43,9 +43,8 @@ The article's instructional sequence: teach target rules and vocabulary explicit
 ## Claims
 
 - [Explicitly learned L2 rules can be automatized through systematic practice after a metalinguistic criterion is reached](../claims/explicit-rules-automatizable-through-practice.md) [+W]
-- [Learning of second language morphosyntactic rules is highly skill-specific: comprehension practice yields comprehension skill and production practice yields production skill](../claims/l2-morphosyntax-learning-highly-skill-specific.md) [+W]
+- [Learning of second language morphosyntactic rules is highly skill-specific: comprehension practice yields comprehension skill and production practice yields production skill](../claims/skill-specificity-l2-grammar-practice.md) [+W]
 - [Automatized L2 morphosyntactic skills develop very gradually over time, following a power function learning curve like other cognitive skills](../claims/l2-skill-development-power-function-curve.md) [+W]
-- [Practice of grammar rules improves only the practiced skill, showing skill specificity of L2 automatization](../claims/skill-specificity-l2-grammar-practice.md) [+W]
 
 ## Related Strategies
 - 

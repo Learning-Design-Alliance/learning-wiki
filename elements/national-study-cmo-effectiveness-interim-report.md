@@ -3,7 +3,7 @@ type: element
 id: national-study-cmo-effectiveness-interim-report
 title: National Study of CMO Effectiveness interim report on charter school outcomes
 description: An interim research report produced within the multi-year Evaluating the Effectiveness of Charter Management Organizations project (time frame 2008-2012), authored by Robin Lake, Brianna Dusseault, Melissa Bowen, Alli...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

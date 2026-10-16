@@ -3,7 +3,7 @@ type: claim
 title: Students in the focus group and interviews described home learning environments during the pandemic as, for some, more responsive to their needs than school environments
 description: Students in the focus group and interviews described home learning environments during the pandemic as, for some, more responsive to their needs than school environments
 id: students-describe-home-environments-more-responsive-than-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

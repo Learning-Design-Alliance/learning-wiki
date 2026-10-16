@@ -3,7 +3,7 @@ type: design
 id: on-premise-oer-knowledge-base-assistant-system
 title: On-premise OER-based AI knowledge-base assistant system for computer science education
 description: A three-subsystem architecture comprising an LMS Layer, a Knowledge Base Layer with structured extraction and a FAISS vector index, and an AI Inference Layer with curriculum alignment and model optimization modules.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

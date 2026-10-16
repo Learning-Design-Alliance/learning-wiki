@@ -3,7 +3,7 @@ type: strategy
 id: report-agreement-at-each-hierarchy-level
 title: Report intercoder agreement at each level of a hierarchical codebook using set-valued measures such as Jaccard similarity
 description: For multi-label coding with large hierarchical codebooks, the article recommends abandoning single chance-corrected coefficients, which penalize partial overlap as full disagreement, and instead reporting Jaccard simi...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: tutor-coenactment-fading-dynamical-scaffold
 title: "Tutor–student co-enactment: distribute or co-operate the control devices, negotiate leadership silently, and progressively hand over agency until the student solo-enacts"
 description: "The article describes hands-on teaching methods for embodied-interaction mathematics: distributing operation of the control devices one person per device, or co-operating both devices with both people handling both."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

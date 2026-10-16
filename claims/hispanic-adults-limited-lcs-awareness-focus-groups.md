@@ -3,7 +3,7 @@ type: claim
 title: Hispanic adults in LCS focus groups reported limited awareness and understanding of lung cancer screening, including eligibility, benefits, and harms
 description: Hispanic adults in LCS focus groups reported limited awareness and understanding of lung cancer screening, including eligibility, benefits, and harms
 id: hispanic-adults-limited-lcs-awareness-focus-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

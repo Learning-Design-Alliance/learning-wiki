@@ -4,7 +4,7 @@ id: newly-developed-three-item-external-mandate-scale
 title: Newly developed three-item External Mandate scale
 description: A three-item self-report scale developed by Li et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

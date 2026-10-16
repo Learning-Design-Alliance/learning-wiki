@@ -3,7 +3,7 @@ type: claim
 title: No existing AI literacy framework explicitly names prompt construction as a competency
 description: No existing AI literacy framework explicitly names prompt construction as a competency
 id: prompt-literacy-left-unnamed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

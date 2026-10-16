@@ -3,7 +3,7 @@ type: claim
 title: The PD program had a large and significant impact on classroom print environments in rural Rwanda
 description: The PD program had a large and significant impact on classroom print environments in rural Rwanda
 id: rwanda-literacy-boost-print-environment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

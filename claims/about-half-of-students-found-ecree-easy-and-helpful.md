@@ -3,7 +3,7 @@ type: claim
 title: About half of surveyed students agreed Ecree was easy to use and helped improve their writing
 description: About half of surveyed students agreed Ecree was easy to use and helped improve their writing
 id: about-half-of-students-found-ecree-easy-and-helpful
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

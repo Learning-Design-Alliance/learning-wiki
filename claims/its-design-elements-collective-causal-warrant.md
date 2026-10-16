@@ -3,7 +3,7 @@ type: claim
 title: Added ITS design elements collectively provide a strong causal warrant when predictions are complex, results cohere with them, and no alternative fits the same pattern
 description: Added ITS design elements collectively provide a strong causal warrant when predictions are complex, results cohere with them, and no alternative fits the same pattern
 id: its-design-elements-collective-causal-warrant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

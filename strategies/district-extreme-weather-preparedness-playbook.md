@@ -3,7 +3,7 @@ type: strategy
 id: district-extreme-weather-preparedness-playbook
 title: Districts should prepare for extreme weather events in advance to recover faster and lessen impacts on students and teachers
 description: The brief presents a playbook of practical strategies and recommendations aimed at school districts rather than individual teachers.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

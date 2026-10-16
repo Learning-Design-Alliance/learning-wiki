@@ -3,7 +3,7 @@ type: claim
 title: Educators report insufficient SLO training and scarce SLO quality rating rubrics as key implementation challenges
 description: Educators report insufficient SLO training and scarce SLO quality rating rubrics as key implementation challenges
 id: slo-implementation-challenges-training-and-quality-rubrics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

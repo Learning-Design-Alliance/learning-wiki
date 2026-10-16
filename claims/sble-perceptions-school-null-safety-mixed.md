@@ -3,7 +3,7 @@ type: claim
 title: SBLE shows no statistically significant relationship with perceptions of school, but may improve perceived safety in school-level studies only
 description: SBLE shows no statistically significant relationship with perceptions of school, but may improve perceived safety in school-level studies only
 id: sble-perceptions-school-null-safety-mixed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

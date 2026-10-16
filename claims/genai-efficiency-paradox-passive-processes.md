@@ -3,7 +3,7 @@ type: claim
 title: "An efficiency paradox: well-intentioned students default to passive GenAI processes and experience cognitive laziness and overreliance"
 description: "An efficiency paradox: well-intentioned students default to passive GenAI processes and experience cognitive laziness and overreliance"
 id: genai-efficiency-paradox-passive-processes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
@@ -48,3 +48,4 @@ Finding from the same qualitative analysis of 38 undergraduates' GenAI engagemen
 - [Student reflections identify speed and scaffolding as the dominant theme, with verification burden, overreliance worries, and prompt precision also prevalent](reflection-themes-copilot-comment-workflow.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — a broader claim this one bears on
 - [Student engagement with generative AI in unsupervised assessments forms a spectrum bounded by cognitive outsourcing and cognitive reallocation](genai-engagement-spectrum-outsourcing-to-reallocation.md) — a broader claim this one bears on
+- [Documented GenAI-related challenges to active learning include cognitive debt, metacognitive laziness, unreflected acceptance, and overreliance on GenAI access](genai-risks-cognitive-debt-deskilling-overreliance.md) — related

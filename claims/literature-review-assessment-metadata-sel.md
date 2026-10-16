@@ -3,7 +3,7 @@ type: claim
 title: A literature review investigated whether assessment metadata can provide information on SEL constructs
 description: A literature review investigated whether assessment metadata can provide information on SEL constructs
 id: literature-review-assessment-metadata-sel
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -45,3 +45,4 @@ The abstract states the study's method: "we conducted a literature review to inv
 ## Related Claims
 - [Response times have been used extensively for achievement estimation but little work links test metadata to social-emotional constructs](response-time-metadata-gap-social-emotional-constructs.md) — related
 - [Using item response time metadata to measure students' social-emotional learning shows both promise and limitations](response-time-metadata-sel-promise-and-limitations.md) — a narrower finding that bears on this claim
+- [Moderation analyses in reviewed SEL evaluations often lacked conceptual or empirical justification from prior literature or hypotheses](unjustified-sel-moderation-analyses.md) — related

@@ -3,7 +3,7 @@ type: design
 id: hybrid-micro-personalization-framework
 title: "Hybrid micro-level personalization framework combining learner-driven preferences with system-driven Bloom's Taxonomy cognitive assessment"
 description: A framework for personalizing LLM/RAG teaching assistants at the level of individual student questions.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

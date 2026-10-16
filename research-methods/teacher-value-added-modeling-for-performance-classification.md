@@ -3,7 +3,7 @@ type: research-method
 id: teacher-value-added-modeling-for-performance-classification
 title: Teacher value-added modeling for performance classification
 description: The study defines teacher performance using value-added estimates from a student-level growth model with teacher fixed effects.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

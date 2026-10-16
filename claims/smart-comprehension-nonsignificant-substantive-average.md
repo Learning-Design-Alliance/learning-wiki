@@ -3,7 +3,7 @@ type: claim
 title: SMART® effects on comprehension were not statistically significant on either subtest, though the domain-average effect size was substantively important
 description: SMART® effects on comprehension were not statistically significant on either subtest, though the domain-average effect size was substantively important
 id: smart-comprehension-nonsignificant-substantive-average
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

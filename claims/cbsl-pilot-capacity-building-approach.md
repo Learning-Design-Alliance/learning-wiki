@@ -3,7 +3,7 @@ type: claim
 title: The CBSL pilot aimed to strengthen grantee capacity through scoping, provider matching, cohort learning, and thought partnership
 description: The CBSL pilot aimed to strengthen grantee capacity through scoping, provider matching, cohort learning, and thought partnership
 id: cbsl-pilot-capacity-building-approach
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

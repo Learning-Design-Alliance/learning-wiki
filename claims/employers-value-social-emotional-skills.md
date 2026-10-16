@@ -3,7 +3,7 @@ type: claim
 title: Employers value social and emotional development alongside content knowledge for workforce preparation
 description: Employers value social and emotional development alongside content knowledge for workforce preparation
 id: employers-value-social-emotional-skills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

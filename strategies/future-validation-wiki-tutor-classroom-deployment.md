@@ -3,7 +3,7 @@ type: strategy
 id: future-validation-wiki-tutor-classroom-deployment
 title: Validate wiki-grounded course tutors through classroom deployment, harder questions, larger corpora, and hybrid or graph RAG comparison arms
 description: "The article's future-work agenda specifies the testing needed before the wiki approach can be recommended definitively: \"Further testing is needed to validate the approach in a classroom setting with actual students.\"..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

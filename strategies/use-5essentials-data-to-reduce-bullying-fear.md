@@ -3,7 +3,7 @@ type: strategy
 id: use-5essentials-data-to-reduce-bullying-fear
 title: Use annual 5Essentials Survey data to identify school-environment strengths and areas to improve for bullying prevention
 description: The brief recommends that school teams in Illinois dig into their annual 5Essentials Survey data to identify which aspects of their school environment are strengths and which would benefit from additional attention an...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

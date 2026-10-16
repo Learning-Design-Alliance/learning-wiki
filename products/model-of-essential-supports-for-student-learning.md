@@ -4,7 +4,7 @@ id: model-of-essential-supports-for-student-learning
 title: Model of Essential Supports for Student Learning
 description: A school-improvement framework developed by the Consortium on Chicago School Research that organizes seven organizational capacities and practices intended to support ambitious student learning.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

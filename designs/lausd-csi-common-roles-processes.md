@@ -3,7 +3,7 @@ type: design
 id: lausd-csi-common-roles-processes
 title: LAUSD community school common roles and processes (coordinator, community rep, assets and needs assessment, benchmarks)
 description: Each LAUSD community school implements common roles, processes, and structures codified in the collective bargaining agreement.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

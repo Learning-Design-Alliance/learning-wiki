@@ -3,7 +3,7 @@ type: claim
 title: "AI overviews in an academic search engine showed mixed effects: summaries may reduce mental demand and frustration for some users, with slightly fewer clicks and query reformulations"
 description: "AI overviews in an academic search engine showed mixed effects: summaries may reduce mental demand and frustration for some users, with slightly fewer clicks and query reformulations"
 id: ai-overviews-mixed-effects-academic-search
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

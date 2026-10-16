@@ -4,7 +4,7 @@ id: study-developed-ngss-focused-assessments-of-1st-grade-three-dimensional-lear
 title: Study-developed NGSS-focused assessments of 1st grade three-dimensional learning and science vocabulary in-use
 description: These are researcher-developed assessments measuring first-grade NGSS-focused science learning and science-vocabulary use in the study.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

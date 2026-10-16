@@ -3,7 +3,7 @@ type: claim
 title: GenAI models span multiple agent types, mainly model-based and goal-based, but categorisation is difficult without model specifics
 description: GenAI models span multiple agent types, mainly model-based and goal-based, but categorisation is difficult without model specifics
 id: genai-agent-type-characterisation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

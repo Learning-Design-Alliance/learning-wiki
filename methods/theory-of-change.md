@@ -3,7 +3,7 @@ type: method
 id: theory-of-change
 title: Theory of Change
 description: A design method that reasons backward from a desired long-term outcome to the preconditions it requires, making explicit both the links the design controls and the assumptions it depends on but does not.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-07

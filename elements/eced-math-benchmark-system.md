@@ -3,7 +3,7 @@ type: element
 id: eced-math-benchmark-system
 title: ECED Math daily benchmark assessment system
 description: "ECED Math is \"a system for teachers to deliver instruction and assess student progress targeted to local, state, and national standards.\" Each day students use \"I Can\" statements (e.g., \"I can solve quadratic equation..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

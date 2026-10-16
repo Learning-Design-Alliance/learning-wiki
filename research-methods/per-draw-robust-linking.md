@@ -3,7 +3,7 @@ type: research-method
 id: per-draw-robust-linking
 title: Per-draw robust linking
 description: The linking step maps each independently calibrated period to a common reference metric by minimizing a response-count-weighted pseudo-Huber (robust Haebara) discrepancy between expected-score curves on anchor items.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

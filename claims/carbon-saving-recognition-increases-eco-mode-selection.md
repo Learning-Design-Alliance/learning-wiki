@@ -3,7 +3,7 @@ type: claim
 title: Recognizing carbon-saving impacts increases the likelihood of selecting eco modes in LLM interactions
 description: Recognizing carbon-saving impacts increases the likelihood of selecting eco modes in LLM interactions
 id: carbon-saving-recognition-increases-eco-mode-selection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

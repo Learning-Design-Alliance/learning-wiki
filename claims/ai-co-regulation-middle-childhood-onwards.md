@@ -3,7 +3,7 @@ type: claim
 title: Meaningful engagement with AI as a co-regulatory partner is more likely from middle childhood onwards
 description: Meaningful engagement with AI as a co-regulatory partner is more likely from middle childhood onwards
 id: ai-co-regulation-middle-childhood-onwards
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

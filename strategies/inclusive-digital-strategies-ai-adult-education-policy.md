@@ -3,7 +3,7 @@ type: strategy
 id: inclusive-digital-strategies-ai-adult-education-policy
 title: Pursue inclusive digital strategies, educator professional development, and ethical AI governance for AI in adult education
 description: "The paper's policy recommendations center on inclusive digital strategies: \"A key priority is the development of inclusive digital strategies that ensure equitable access to AI-supported learning.\" This includes infra..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -57,9 +57,10 @@ The paper's policy recommendations center on inclusive digital strategies: "A ke
 - [Bridge the AI intention-practice gap through digital infrastructure, professional development, and supportive institutional policies](infrastructure-pd-policy-bridge-ai-intention-practice-gap.md)
 - [Accrediting bodies and professional organizations should provide AI policy frameworks integrating academic integrity, data ethics, and equitable access, and programs should invest in faculty development](accreditor-ai-policy-frameworks-faculty-development.md)
 - [Tripartite institutional response: AI literacy, ethical infrastructure, and competence-based educator training](tripartite-agentic-ai-institutional-response.md)
+- [Teachers adopting EAI should address digital literacy and ethical design challenges identified for each AI dimension](teacher-challenges-eai-inclusion-digital-literacy-ethics.md)
 
 ## Examples
 -
 
 ## Key Sources
-- Theodora, A., & Tselios, N. (2026). Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy. https://arxiv.org/abs/2605.16296
+- Theodora, A., & Tselios, N. (2026). Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy. https://arxiv.org/abs/2605.16296. [doi:10.48550/arxiv.2605.16296](https://doi.org/10.48550/arxiv.2605.16296)

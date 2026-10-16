@@ -3,7 +3,7 @@ type: claim
 title: CSEBench items show adequate psychometric quality, with satisfactory difficulty, discrimination, and reliability for both diagnostic forms
 description: CSEBench items show adequate psychometric quality, with satisfactory difficulty, discrimination, and reliability for both diagnostic forms
 id: csebench-item-quality-reliability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

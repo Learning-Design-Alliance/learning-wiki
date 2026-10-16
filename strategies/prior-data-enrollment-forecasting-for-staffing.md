@@ -3,7 +3,7 @@ type: strategy
 id: prior-data-enrollment-forecasting-for-staffing
 title: Use prior-years administrative data to forecast school-by-grade enrollment for staffing planning in districts with choice or mobility
 description: Districts with school choice systems, substantial student mobility, or both can predict incoming fall enrollment at the school-by-grade level using prior-years data to inform staffing plans.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

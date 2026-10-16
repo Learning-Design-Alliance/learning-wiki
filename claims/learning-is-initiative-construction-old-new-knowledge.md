@@ -3,7 +3,7 @@ type: claim
 title: "Learning is an initiative construction of meanings completed by the interaction of learners' old and new knowledge"
 description: "Learning is an initiative construction of meanings completed by the interaction of learners' old and new knowledge"
 id: learning-is-initiative-construction-old-new-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -4,7 +4,7 @@ title: Implementing PBIS with at least Tier 1 fidelity showed no statistically s
 description: Implementing PBIS with at least Tier 1 fidelity showed no statistically significant effect on school disciplinary exclusions during the 2020–21 pandemic year
 id: pbis-tier1-fidelity-no-effect-pandemic-disciplinary-exclusions
 aliases: [pbis-fidelity-conditions-no-difference-iss-single-oss]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

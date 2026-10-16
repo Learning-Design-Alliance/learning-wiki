@@ -3,7 +3,7 @@ type: claim
 title: Course prediction achieves modest classification metrics (F1 0.4432) yet the auxiliary task regularizes representations and improves grade prediction
 description: Course prediction achieves modest classification metrics (F1 0.4432) yet the auxiliary task regularizes representations and improves grade prediction
 id: course-prediction-metrics-auxiliary-task
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Chicago Connected eligibility was associated with a slightly lower fall 2020 GPA in the full analytic sample, with no variation by pre-pandemic academic performance
 description: Chicago Connected eligibility was associated with a slightly lower fall 2020 GPA in the full analytic sample, with no variation by pre-pandemic academic performance
 id: chicago-connected-eligibility-lower-gpa-full-sample
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

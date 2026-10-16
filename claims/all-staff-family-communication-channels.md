@@ -3,7 +3,7 @@ type: claim
 title: Schools enlisted all staff, including non-instructional staff, as communication resources, opening additional school-family channels
 description: Schools enlisted all staff, including non-instructional staff, as communication resources, opening additional school-family channels
 id: all-staff-family-communication-channels
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

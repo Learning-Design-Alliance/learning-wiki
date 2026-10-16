@@ -3,7 +3,7 @@ type: claim
 title: The Kauffman School had positive, statistically significant, educationally meaningful impacts on student achievement growth in science during its first two years
 description: The Kauffman School had positive, statistically significant, educationally meaningful impacts on student achievement growth in science during its first two years
 id: kauffman-school-positive-science-achievement-growth-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

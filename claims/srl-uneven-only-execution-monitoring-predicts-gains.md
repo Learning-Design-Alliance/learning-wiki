@@ -3,7 +3,7 @@ type: claim
 title: "Students' SRL profile under automated scoring was uneven, and only Execution-and-Monitoring was significantly associated with score gains"
 description: "Students' SRL profile under automated scoring was uneven, and only Execution-and-Monitoring was significantly associated with score gains"
 id: srl-uneven-only-execution-monitoring-predicts-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

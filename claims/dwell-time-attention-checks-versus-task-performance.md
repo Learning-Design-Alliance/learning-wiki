@@ -3,7 +3,7 @@ type: claim
 title: Longer dwell time on AI suggestions is associated with better attention check performance but slightly lower task performance
 description: Longer dwell time on AI suggestions is associated with better attention check performance but slightly lower task performance
 id: dwell-time-attention-checks-versus-task-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

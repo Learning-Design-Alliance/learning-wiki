@@ -3,7 +3,7 @@ type: strategy
 id: el-shared-indicators-different-thresholds-strategy
 title: Use the same early warning and college readiness indicator systems for English Learners as for other students, but apply subgroup-specific risk thresholds and targeted supports
 description: "The study's policy takeaway is that \"Schools do not need different systems of early warning and college readiness indicators for English Learners,\" because the best indicators are the same for most students, but the a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

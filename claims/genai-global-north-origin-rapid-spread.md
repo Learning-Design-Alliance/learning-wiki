@@ -3,7 +3,7 @@ type: claim
 title: GenAI tools are largely Global North products that have spread rapidly worldwide, including into Global South higher education
 description: GenAI tools are largely Global North products that have spread rapidly worldwide, including into Global South higher education
 id: genai-global-north-origin-rapid-spread
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

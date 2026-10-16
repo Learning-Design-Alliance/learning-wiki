@@ -3,7 +3,7 @@ type: strategy
 id: future-ai-tutor-authoring-edge-cases-and-learning-science-guidance
 title: "Future directions: auto-generate edge-case test scenarios and integrate learning-science guidance into AI tutor authoring"
 description: "The authors outline two forward-looking directions for authoring tools like PromptDecipher: \"auto-generation of additional edge-case scenarios and integration of learning science guidance to help teachers recognize pe..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

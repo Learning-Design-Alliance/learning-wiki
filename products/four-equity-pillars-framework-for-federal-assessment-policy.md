@@ -4,7 +4,7 @@ id: four-equity-pillars-framework-for-federal-assessment-policy
 title: Four equity pillars framework for federal assessment policy
 description: An Ed Trust framework that organizes priorities for equitable statewide summative assessment policy around high expectations, inclusive assessments, timely actionable results, and meaningful interpretation of results.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

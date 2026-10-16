@@ -3,7 +3,7 @@ type: claim
 title: Agent-based modeling indicates routine testing can greatly reduce or eliminate within-school Covid-19 transmission
 description: Agent-based modeling indicates routine testing can greatly reduce or eliminate within-school Covid-19 transmission
 id: routine-testing-reduces-within-school-transmission
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

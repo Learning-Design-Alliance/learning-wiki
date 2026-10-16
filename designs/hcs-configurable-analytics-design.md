@@ -3,7 +3,7 @@ type: design
 id: hcs-configurable-analytics-design
 title: Highly Configurable System design for cross-domain learning analytics
 description: "The pipeline applies Highly Configurable System (HCS) principles, \"enabling a single underlying codebase to be applied to different scenarios through flexible configuration\"."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

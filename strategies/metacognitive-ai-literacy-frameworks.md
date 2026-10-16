@@ -3,7 +3,7 @@ type: strategy
 id: metacognitive-ai-literacy-frameworks
 title: Develop AI literacy frameworks that build metacognitive awareness distinguishing system-assisted performance from independent competence
 description: "The article recommends updating AI literacy frameworks so they \"move beyond tool usage to address metacognitive awareness, enabling users and evaluators to distinguish between system-assisted performance and independe..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

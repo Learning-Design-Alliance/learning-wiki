@@ -3,7 +3,7 @@ type: claim
 title: Unimodal classification confuses Key Stage 4 with Key Stage 3, while the best multimodal model classifies Key Stages 4 and 5 perfectly
 description: Unimodal classification confuses Key Stage 4 with Key Stage 3, while the best multimodal model classifies Key Stages 4 and 5 perfectly
 id: confusion-ks4-unimodal-vs-multimodal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: A 2026 case-study brief describes a practical model of a coherent instructional system for reading and science improvement that school leaders can adapt
 description: A 2026 case-study brief describes a practical model of a coherent instructional system for reading and science improvement that school leaders can adapt
 id: coherent-instructional-system-reading-science-case-study
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

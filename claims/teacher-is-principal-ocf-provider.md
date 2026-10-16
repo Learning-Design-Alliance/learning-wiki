@@ -3,7 +3,7 @@ type: claim
 title: The teacher was the principal provider of oral corrective feedback, with peer and self-correction rarely proactively promoted
 description: The teacher was the principal provider of oral corrective feedback, with peer and self-correction rarely proactively promoted
 id: teacher-is-principal-ocf-provider
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

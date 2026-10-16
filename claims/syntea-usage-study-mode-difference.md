@@ -3,7 +3,7 @@ type: claim
 title: "Full-time students use Syntea slightly more than part-time students (59.49% vs 55.71%)"
 description: "Full-time students use Syntea slightly more than part-time students (59.49% vs 55.71%)"
 id: syntea-usage-study-mode-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

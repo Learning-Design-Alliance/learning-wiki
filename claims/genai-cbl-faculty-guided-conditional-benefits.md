@@ -3,7 +3,7 @@ type: claim
 title: Case-based learning benefits depended on faculty-guided embedding, while complex cases and team workflows showed null or unfavorable effects
 description: Case-based learning benefits depended on faculty-guided embedding, while complex cases and team workflows showed null or unfavorable effects
 id: genai-cbl-faculty-guided-conditional-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

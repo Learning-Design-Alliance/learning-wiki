@@ -3,7 +3,7 @@ type: claim
 title: Hybrid approaches combining LLMs with traditional knowledge-tracing algorithms outperform either method alone for learner modelling
 description: Hybrid approaches combining LLMs with traditional knowledge-tracing algorithms outperform either method alone for learner modelling
 id: hybrid-llm-knowledge-tracing-outperforms-either-alone
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

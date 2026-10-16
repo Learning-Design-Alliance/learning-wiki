@@ -3,7 +3,8 @@ type: claim
 title: Few districts structured pay-for-performance bonuses to align well with TIF grant guidance
 description: Few districts structured pay-for-performance bonuses to align well with TIF grant guidance
 id: few-districts-aligned-bonuses-with-tif-guidance
-status: draft
+aliases: [few-tif-districts-aligned-bonuses-with-grant-guidance]
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -17,15 +18,26 @@ sources:
     i: "?"
     kind: causal
     rigour: "?"
+  - id: wellington-2016
+    resource: "https://ies.ed.gov/ncee/"
+    title: "Wellington, Alison; Chiang, Hanley; Hallgren, Kristin; Speroni, Cecilia; Herrmann, Mariesa; Burkander, Paul. (2016). Evaluation of the Teacher Incentive Fund: Implementation and Impacts of Pay-for-Performance After Three Years (Final Report). Washington, DC: U.S. Department of Education, Institute of Education Sciences, National Center for Education Evaluation and Regional Assistance. https://ies.ed.gov/ncee/"
+    author: Wellington, Alison; Chiang, Hanley; Hallgren, Kristin; Speroni, Cecilia; Herrmann, Mariesa; Burkander, Paul
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Few districts structured pay-for-performance bonuses to align well with TIF grant guidance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r?` · `q3`
+> **Evidence** · 2 studies · 2 causal `r?` · `q2`–`q3`
 
 ## Subclaims
+
 `q3 i?` Few districts structured pay-for-performance bonuses in a way that aligned well with TIF grant guidance. [→ Alison Wellington 2016](#alison-wellington-2016)
+
+`q2 i?` Few districts structured pay-for-performance bonuses in a way that aligned well with TIF grant guidance. [→ Wellington 2016](#wellington-2016)
 
 ## Evidence
 
@@ -39,10 +51,22 @@ An implementation finding from the national evaluation of 2010 TIF grantees in t
 
 > "Few districts structured pay-for-performance bonuses to align well with TIF grant guidance."
 
+### Wellington 2016
+
+Wellington, Alison; Chiang, Hanley; Hallgren, Kristin; Speroni, Cecilia; Herrmann, Mariesa; Burkander, Paul. (2016). Evaluation of the Teacher Incentive Fund: Implementation and Impacts of Pay-for-Performance After Three Years (Final Report). Washington, DC: U.S. Department of Education, Institute of Education Sciences, National Center for Education Evaluation and Regional Assistance. https://ies.ed.gov/ncee/
+
+`q2 · i?` · `causal · r?`
+
+Implementation analysis of all 2010 TIF grantees in the 2013–2014 school year, the third of four years of implementation; the report's key finding states that "Few districts structured pay-for-performance bonuses to align well with TIF grant guidance."
+
+> "Few districts structured pay-for-performance bonuses to align well with TIF grant guidance."
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [Many teachers misunderstood whether they were eligible for performance bonuses or the amount they could earn](teachers-misunderstood-bonus-eligibility-and-amounts.md) — related
 - [After three years of Teacher Incentive Fund implementation, pay-for-performance bonuses had small positive impacts on student math and reading achievement in ten evaluation districts](tif-pay-for-performance-small-positive-achievement-impacts.md) — related
 - [The average TIF bonus was about 4% of average teacher salary, below the 5% recommended by TIF grant guidance for substantial bonuses](tif-average-bonus-below-recommended-share.md) — related

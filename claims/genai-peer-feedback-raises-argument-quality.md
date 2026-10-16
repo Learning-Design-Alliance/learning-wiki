@@ -3,7 +3,7 @@ type: claim
 title: Argument quality gains favored the PS-GenAI-PF group over the PF group, while elaboration gains favored the GenAI-PF group
 description: Argument quality gains favored the PS-GenAI-PF group over the PF group, while elaboration gains favored the GenAI-PF group
 id: genai-peer-feedback-raises-argument-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

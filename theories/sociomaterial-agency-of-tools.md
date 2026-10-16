@@ -3,7 +3,7 @@ type: theory
 title: Sociomaterial Agency of Tools
 description: A new-materialist perspective holding that instructional tools and materials are non-neutral actors that actively shape what learners can think and do, carrying forward cultural histories (including gendered ones) rather than passively serving learner intention.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

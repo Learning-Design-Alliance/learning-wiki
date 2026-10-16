@@ -3,7 +3,7 @@ type: claim
 title: AI assistance reduces task completion time in both education groups, the only outcome without an equalizing pattern
 description: AI assistance reduces task completion time in both education groups, the only outcome without an equalizing pattern
 id: ai-reduces-completion-time-no-equalizing-pattern
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

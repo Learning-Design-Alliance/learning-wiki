@@ -3,7 +3,7 @@ type: claim
 title: Having older classmates boosts a child’s test scores but increases the probability of grade repetition and diagnoses of learning disabilities such as ADHD
 description: Having older classmates boosts a child’s test scores but increases the probability of grade repetition and diagnoses of learning disabilities such as ADHD
 id: older-classmates-boost-scores-increase-repetition-and-disability-diagnoses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

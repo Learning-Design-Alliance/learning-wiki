@@ -3,7 +3,7 @@ type: claim
 title: "Grading skill transfers across exams: an adapter fine-tuned on one exam improves grading on the unseen other, though transfer stops short of in-domain performance"
 description: "Grading skill transfers across exams: an adapter fine-tuned on one exam improves grading on the unseen other, though transfer stops short of in-domain performance"
 id: grading-skill-transfers-across-exams
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

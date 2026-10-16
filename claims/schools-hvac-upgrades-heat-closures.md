@@ -3,7 +3,7 @@ type: claim
 title: As of 2020 about half of U.S. schools required HVAC upgrades, and many now face heat-related closures or shortened days
 description: As of 2020 about half of U.S.
 id: schools-hvac-upgrades-heat-closures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

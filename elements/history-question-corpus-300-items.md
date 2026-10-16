@@ -3,7 +3,7 @@ type: element
 id: history-question-corpus-300-items
 title: A corpus of over 300 history questions sampled from four intermediate-level history textbooks
 description: The taxonomy was built from a question corpus assembled in two stages.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

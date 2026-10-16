@@ -3,7 +3,7 @@ type: claim
 title: The Trainer is expected to improve attitudes toward peer feedback relative to rubric-only instruction
 description: The Trainer is expected to improve attitudes toward peer feedback relative to rubric-only instruction
 id: trainer-expected-improve-peer-feedback-attitudes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

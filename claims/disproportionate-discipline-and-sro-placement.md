@@ -3,7 +3,7 @@ type: claim
 title: Black students and students with disabilities are suspended at disproportionately high rates, and high-poverty schools are more likely to have a School Resource Officer
 description: Black students and students with disabilities are suspended at disproportionately high rates, and high-poverty schools are more likely to have a School Resource Officer
 id: disproportionate-discipline-and-sro-placement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

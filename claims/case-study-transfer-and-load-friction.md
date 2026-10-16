@@ -3,7 +3,7 @@ type: claim
 title: A qualitative case study shows LT-MKT jointly captures beneficial knowledge transfer and load-induced learning friction
 description: A qualitative case study shows LT-MKT jointly captures beneficial knowledge transfer and load-induced learning friction
 id: case-study-transfer-and-load-friction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

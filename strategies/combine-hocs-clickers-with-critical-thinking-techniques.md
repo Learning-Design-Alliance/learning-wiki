@@ -3,7 +3,7 @@ type: strategy
 id: combine-hocs-clickers-with-critical-thinking-techniques
 title: Combine HOCS clicker questions with other critical-thinking techniques rather than relying on them alone
 description: "Because practice with HOCS clicker questions did not improve HOCS exam performance, the article recommends that instructors \"combine HOCS clicker questions with other pedagogical techniques known to augment critical t..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

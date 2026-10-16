@@ -3,7 +3,7 @@ type: claim
 title: One year after the intervention ended, SpellRead™ effects were not statistically significant on the supplemental Torgesen et al. (2007) outcomes
 description: One year after the intervention ended, SpellRead™ effects were not statistically significant on the supplemental Torgesen et al.
 id: spellread-one-year-followup-not-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

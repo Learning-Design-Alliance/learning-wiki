@@ -3,7 +3,7 @@ type: claim
 title: Manual reasoning is the most consistently used verification method across assignments, with no significant difference in its use across subfields
 description: Manual reasoning is the most consistently used verification method across assignments, with no significant difference in its use across subfields
 id: manual-reasoning-consistent-verification-across-subfields
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

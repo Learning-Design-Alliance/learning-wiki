@@ -3,7 +3,7 @@ type: element
 id: online-charter-schools-element
 title: Online charter schools (virtual/cyber charters)
 description: "Online charter schools are defined in the brief as \"publicly funded schools of choice that deliver student instruction via telecommunications,\" also known as virtual charters or cyber charters."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

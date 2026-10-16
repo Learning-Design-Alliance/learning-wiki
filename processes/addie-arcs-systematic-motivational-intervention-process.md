@@ -3,7 +3,7 @@ type: process
 id: addie-arcs-systematic-motivational-intervention-process
 title: Use a systematic instructional design process (ADDIE) with a motivational model to diagnose and address motivational problems
 description: "The article argues motivational studies lack systematicity and linkage between theory and practice, and proposes pairing a generic instructional design process with a motivational model: \"The ADDIE process is geared t..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

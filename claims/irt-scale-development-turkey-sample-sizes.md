@@ -3,7 +3,7 @@ type: claim
 title: Sample sizes in Turkish IRT-based scale development studies ranged from 166 to 2223, with about half below the recommended 500
 description: Sample sizes in Turkish IRT-based scale development studies ranged from 166 to 2223, with about half below the recommended 500
 id: irt-scale-development-turkey-sample-sizes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

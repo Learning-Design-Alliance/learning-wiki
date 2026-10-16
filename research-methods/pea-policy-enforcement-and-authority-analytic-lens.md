@@ -3,7 +3,7 @@ type: research-method
 id: pea-policy-enforcement-and-authority-analytic-lens
 title: PEA (Policy, Enforcement, and Authority) analytic lens
 description: "PEA organizes assistance governance around three design questions: what forms of assistance are allowed or restricted (Policy), how those boundaries are implemented (Enforcement), and who can control them during use (Authority)."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

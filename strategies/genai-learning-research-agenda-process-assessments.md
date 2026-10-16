@@ -3,7 +3,7 @@ type: strategy
 id: genai-learning-research-agenda-process-assessments
 title: "Research agenda: use process-oriented assessments, study encoding-consolidation-retrieval effects, and examine longitudinal outcomes of educational generative AI"
 description: The article proposes a cognitive-psychology-informed research agenda for generative AI in education.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

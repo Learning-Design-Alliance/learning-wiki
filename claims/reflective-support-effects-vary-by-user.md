@@ -3,7 +3,7 @@ type: claim
 title: The effectiveness of reflective AI-engagement mechanisms varies across users, depending on Need for Cognition, expertise, domain familiarity, and task difficulty
 description: The effectiveness of reflective AI-engagement mechanisms varies across users, depending on Need for Cognition, expertise, domain familiarity, and task difficulty
 id: reflective-support-effects-vary-by-user
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

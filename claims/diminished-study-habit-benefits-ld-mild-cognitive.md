@@ -3,7 +3,7 @@ type: claim
 title: Students with learning disabilities and mild cognitive disabilities benefit less from rigorous study habits than students without identified disabilities, and for mild cognitive disabilities there is no relationship between study habits and course failures
 description: Students with learning disabilities and mild cognitive disabilities benefit less from rigorous study habits than students without identified disabilities, and for mild cognitive disabilities there is no relationship b...
 id: diminished-study-habit-benefits-ld-mild-cognitive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

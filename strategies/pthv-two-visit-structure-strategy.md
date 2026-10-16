@@ -3,7 +3,7 @@ type: strategy
 id: pthv-two-visit-structure-strategy
 title: "Two-visit structure: relationship-building visit first, academic-focused visit later"
 description: "PTHV prescribes a two-visit sequence: the first visit builds the relationship and occurs in the summer or early fall, followed by ongoing communication throughout the year, and a second visit focused on academics or a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

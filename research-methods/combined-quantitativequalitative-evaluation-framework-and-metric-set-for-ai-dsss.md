@@ -3,7 +3,7 @@ type: research-method
 id: combined-quantitativequalitative-evaluation-framework-and-metric-set-for-ai-dsss
 title: Combined quantitative–qualitative evaluation framework and metric set for AI-DSSs
 description: The review defines a balanced evaluation approach for AI-driven decision support systems combining technical metrics (accuracy, precision, recall, scalability, response time) with user-focused outcomes (user satisfaction via validated surveys drawing on the Technology Acceptance Model, and engagemen
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

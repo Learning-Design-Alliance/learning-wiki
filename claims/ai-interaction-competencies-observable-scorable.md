@@ -3,7 +3,7 @@ type: claim
 title: Disciplinary AI interaction competencies are observable in student response artifacts and scorable with rubrics grounded in student data and expert knowledge
 description: Disciplinary AI interaction competencies are observable in student response artifacts and scorable with rubrics grounded in student data and expert knowledge
 id: ai-interaction-competencies-observable-scorable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

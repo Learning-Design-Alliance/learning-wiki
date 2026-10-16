@@ -3,7 +3,7 @@ type: strategy
 id: monitor-progress-with-seasonal-interim-growth-models
 title: Use longitudinal interim assessment data, modeled with seasonal trends, to monitor progress of students, classrooms, and schools within and across school years
 description: The article recommends a modeling approach for interim assessment data that respects their seasonal structure.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

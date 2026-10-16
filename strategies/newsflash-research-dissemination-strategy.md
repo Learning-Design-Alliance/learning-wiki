@@ -3,7 +3,7 @@ type: strategy
 id: newsflash-research-dissemination-strategy
 title: Use newsflashes—succinct email blasts announcing new research findings—to inform decision makers, stakeholders, and practitioners
 description: "The guide recommends the newsflash as a dissemination vehicle: \"A successful newsflash—an email blast announcing new research findings—incorporates all of these elements.\" It is aimed at helping researchers \"quickly a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

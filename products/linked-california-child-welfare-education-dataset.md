@@ -4,7 +4,7 @@ id: linked-california-child-welfare-education-dataset
 title: Linked California child welfare-education dataset
 description: "A WestEd-created dataset linking CDE's California Longitudinal Pupil Achievement Data System with CDSS's Child Welfare Services Case Management System to study the educational experiences of more than 43,000 California students in foster care."
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

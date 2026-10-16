@@ -3,7 +3,7 @@ type: claim
 title: LLM accuracy increases monotonically with prompt sophistication across semantically equivalent medical questions, with Low Literacy users scoring significantly below Prompt Engineer users
 description: LLM accuracy increases monotonically with prompt sophistication across semantically equivalent medical questions, with Low Literacy users scoring significantly below Prompt Engineer users
 id: prompt-privilege-monotonic-accuracy-gap-medqa
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -85,3 +85,4 @@ Pairwise accuracy differences with 95% bootstrap confidence intervals in the bas
 - [Applying PET raises accuracy for every user cohort, with the largest gain for the Low Literacy cohort](pet-raises-accuracy-all-cohorts-largest-low-literacy-gain.md) — related
 - [GPT-4o and GPT-5.2 achieve higher accuracy and more fully correct answers on university IVDA multiple-choice questions than the smaller Mistral-7B and DeepSeek-R1 models](gpt-models-outperform-smaller-llms-on-ivda-mcqs.md) — related
 - [Prompt quality and detailed scoring rubrics significantly influence the accuracy and consistency of LLM-generated grades](prompt-rubric-quality-drives-llm-grading.md) — related
+- [Certain aspects of AI literacy play a role in higher-quality prompt engineering by non-expert students](ai-literacy-aspects-support-prompt-engineering.md) — a broader claim this one bears on

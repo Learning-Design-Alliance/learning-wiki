@@ -4,7 +4,7 @@ id: mnemosyne-flashcard-review-logs
 title: Mnemosyne Flashcard Review Log Data
 description: Large-scale log data from the Mnemosyne flashcard software, used by the article to compare memory models.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

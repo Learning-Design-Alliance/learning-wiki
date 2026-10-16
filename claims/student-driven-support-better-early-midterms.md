@@ -3,7 +3,7 @@ type: claim
 title: "Students whose LLM use was mostly student-driven support scored higher on Midterm 1 than LLM-driven users (about 10%), but the two groups converged on later midterms"
 description: "Students whose LLM use was mostly student-driven support scored higher on Midterm 1 than LLM-driven users (about 10%), but the two groups converged on later midterms"
 id: student-driven-support-better-early-midterms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

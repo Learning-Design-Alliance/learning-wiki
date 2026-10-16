@@ -3,7 +3,7 @@ type: claim
 title: "Principals' overall preparation quality is positively and significantly related to teacher retention, with significant components for developing people and meeting needs of diverse learners"
 description: "Principals' overall preparation quality is positively and significantly related to teacher retention, with significant components for developing people and meeting needs of diverse learners"
 id: principal-preparation-quality-teacher-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

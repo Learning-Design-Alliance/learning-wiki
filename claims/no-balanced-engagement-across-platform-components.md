@@ -3,7 +3,7 @@ type: claim
 title: No K–8 student profile showed balanced engagement across all four platform components
 description: No K–8 student profile showed balanced engagement across all four platform components
 id: no-balanced-engagement-across-platform-components
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

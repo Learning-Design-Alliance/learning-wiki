@@ -3,7 +3,7 @@ type: claim
 title: The guide identifies intentional instruction, interaction and conversation, and sequentially built lessons as important factors in preschool instruction
 description: The guide identifies intentional instruction, interaction and conversation, and sequentially built lessons as important factors in preschool instruction
 id: preschool-instruction-key-factors-wwc
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

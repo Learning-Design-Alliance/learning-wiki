@@ -2,7 +2,7 @@
 type: theory
 title: "Wilson et al.'s five functions of the adult educator committed to experiential approaches"
 description: "The paper reports that Wilson et al (1989) \"suggest five main functions for the adult educator committed to experiential approaches to education\": understanding the personal and social history of the individual; arran..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: The interventions did not consistently benefit any baseline subgroup more than another
 description: The interventions did not consistently benefit any baseline subgroup more than another
 id: no-consistent-subgroup-benefit-reading-interventions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

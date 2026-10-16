@@ -3,7 +3,7 @@ type: research-method
 id: bit-coding-method-for-newtons-third-law-responses
 title: "BIT Coding method for Newton's Third Law responses"
 description: "The BIT Coding method is a new method of analysis created by the authors \"to quickly identify students' understanding of Newton's Third Law questions.\" It was employed alongside the Force Concept Inventory gain analysis in this study of 222 introductory physics students, complementing the overall an"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-14

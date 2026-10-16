@@ -3,7 +3,7 @@ type: claim
 title: The lowest-performing MiC elementary schools made increasingly greater progress beyond prediction as CCSS-M implementation deepened from 2016 to 2018
 description: The lowest-performing MiC elementary schools made increasingly greater progress beyond prediction as CCSS-M implementation deepened from 2016 to 2018
 id: mic-lowest-elementary-schools-increasing-progress
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

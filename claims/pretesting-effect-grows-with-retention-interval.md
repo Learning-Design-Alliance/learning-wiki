@@ -3,7 +3,7 @@ type: claim
 title: The pretesting effect on text memory grows with retention interval, being largest at one week
 description: The pretesting effect on text memory grows with retention interval, being largest at one week
 id: pretesting-effect-grows-with-retention-interval
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

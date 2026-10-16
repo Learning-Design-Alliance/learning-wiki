@@ -3,7 +3,7 @@ type: claim
 title: Exclusionary discipline is ineffective at improving school safety and harms both suspended students and their non-suspended peers
 description: Exclusionary discipline is ineffective at improving school safety and harms both suspended students and their non-suspended peers
 id: suspension-ineffective-harms-peers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

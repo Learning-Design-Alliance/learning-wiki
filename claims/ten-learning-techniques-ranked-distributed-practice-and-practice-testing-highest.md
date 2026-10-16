@@ -3,7 +3,7 @@ type: claim
 title: "Across ten learning techniques, distributed practice and practice testing have the largest effects and underlining and summarization the smallest"
 description: "Over 242 studies (1,619 effects, 169,179 participants) the overall mean was d = 0.56: distributed practice 0.85, practice testing 0.74, elaborative interrogation 0.56, imagery 0.56, self-explanation 0.54, mnemonics 0.50, re-reading 0.47, interleaved practice 0.47, underlining 0.44, summarization 0.44."
 id: ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-10-13
@@ -59,3 +59,5 @@ Even the lowest techniques average d = 0.44, but the outcomes were mostly surfac
 - [Learning techniques have much smaller effects on deep learning and far transfer than on surface learning and near transfer](learning-techniques-smaller-effects-on-deep-learning-and-far-transfer.md) — the same synthesis
 - [In the few studies that split by ability, learning techniques helped low-ability students and not high-ability students](learning-techniques-benefit-low-ability-not-high-ability-students.md) — the same synthesis
 - [Learning-technique effects do not shrink across test delays from the same day to six months](learning-technique-effects-stable-over-test-delays-up-to-six-months.md) — the same synthesis
+- [Ten-year-old readers predominantly underline subordinate passage details rather than superordinate conceptual material, even when conceptual postquestions focus attention on topic sentences](children-underline-subordinate-details-not-superordinate-material.md) — a narrower finding that bears on this claim
+- [Recall of passage details is most depressed when children receive both underlining and conceptual postquestions](underlining-plus-postquestions-most-depress-detail-recall.md) — a narrower finding that bears on this claim

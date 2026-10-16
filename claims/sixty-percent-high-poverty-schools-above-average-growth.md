@@ -3,7 +3,7 @@ type: claim
 title: Sixty percent of the highest-poverty schools also have above-average student growth
 description: Sixty percent of the highest-poverty schools also have above-average student growth
 id: sixty-percent-high-poverty-schools-above-average-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: toc-retention-supports-mentoring-mental-health
 title: "Retention supports for teachers of color: networking platforms, safe spaces, mental health resources, race-conscious mentorship, and flexible career pathways"
 description: Design Studio retention solutions include a networking platform connecting teachers of color, safe spaces to address racism, mental health resources, mentorship pairing that accounts for race, and diverse career pathw...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

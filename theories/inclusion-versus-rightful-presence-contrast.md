@@ -2,7 +2,7 @@
 type: theory
 title: "Inclusion versus rightful presence: a four-dimension contrast (rights, time, burden, culture)"
 description: Drawing on Calabrese Barton and Tan (2020, p.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

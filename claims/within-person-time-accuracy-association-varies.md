@@ -3,7 +3,7 @@ type: claim
 title: Within-person changes in response time have inconsistent implications for accuracy, predicting higher accuracy in some cases and declines in others
 description: Within-person changes in response time have inconsistent implications for accuracy, predicting higher accuracy in some cases and declines in others
 id: within-person-time-accuracy-association-varies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

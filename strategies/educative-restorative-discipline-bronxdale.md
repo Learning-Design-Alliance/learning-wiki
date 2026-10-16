@@ -3,7 +3,7 @@ type: strategy
 id: educative-restorative-discipline-bronxdale
 title: Educative and restorative discipline implemented through restorative deans, circles, peer mediation, and youth court
 description: "The report describes Bronxdale's approach to behavior as educative and restorative rather than punitive: staffing decisions such as \"hiring two restorative deans, a counselor, and two social workers\" brought \"restorat..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

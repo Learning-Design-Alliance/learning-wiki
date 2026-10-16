@@ -3,7 +3,7 @@ type: strategy
 id: six-step-emancipatory-aied-design-methodology
 title: "Six-step design methodology: elicit values, minimal intervention, multi-level multi-outcome evaluation, iterate, simulate scale, sunset"
 description: The paper outlines a design process expanding design thinking, value-sensitive design, and participatory design.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -46,6 +46,7 @@ The paper outlines a design process expanding design thinking, value-sensitive d
 - [Inclusive Innovation Process](inclusive_innovation_process.md)
 - [Five-step iterative co-design process for developing edtech evaluation criteria with learners and vendors](five-step-codesign-badge-development-process.md)
 - [Seven IUX methodologies for centering learners in LER technology development](iux-methodologies-ler-learner-centered.md)
+- [Outline strategies and technological interventions to alleviate over-reliance and foster responsible use of AI dialogue systems](strategies-interventions-responsible-ai-use.md)
 
 ## Examples
 -

@@ -3,7 +3,7 @@ type: strategy
 id: obc-rfp-market-validators-essa-tiers
 title: Use OBC RFP templates with market validators and ESSA evidence tiers as efficacy criteria
 description: "The presentation provides OBC RFP template language in which applicants demonstrate efficacy through one or more criteria: holding \"strong (Tier 1), moderate (Tier 2) or promising (Tier 3) evidence under ESSA\" for the..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: The article claims AI connectedness demonstrates incremental validity beyond usage frequency, anthropomorphism, and AI attachment
 description: The article claims AI connectedness demonstrates incremental validity beyond usage frequency, anthropomorphism, and AI attachment
 id: ai-connectedness-incremental-validity-claim
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

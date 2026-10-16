@@ -3,7 +3,7 @@ type: claim
 title: Sixth graders scored significantly higher on posttests that included the seven-step problem-solving plan than on unformatted posttests
 description: Sixth graders scored significantly higher on posttests that included the seven-step problem-solving plan than on unformatted posttests
 id: formatted-problem-solving-plan-posttest-advantage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

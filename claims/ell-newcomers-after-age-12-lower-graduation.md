@@ -3,7 +3,7 @@ type: claim
 title: ELL newcomers entering CPS after age 12 graduated at lower rates than students with the same grades and attendance, with school quality the key associated factor
 description: ELL newcomers entering CPS after age 12 graduated at lower rates than students with the same grades and attendance, with school quality the key associated factor
 id: ell-newcomers-after-age-12-lower-graduation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

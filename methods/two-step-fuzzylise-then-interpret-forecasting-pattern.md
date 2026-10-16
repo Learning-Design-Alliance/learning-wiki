@@ -3,7 +3,7 @@ type: method
 id: two-step-fuzzylise-then-interpret-forecasting-pattern
 title: "Two-step fuzzy forecasting pattern: fuzzylise the universe, then interpret the fuzzy output"
 description: The article organizes fuzzy forecasting as a reusable two-step procedure.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

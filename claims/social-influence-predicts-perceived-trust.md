@@ -3,7 +3,7 @@ type: claim
 title: Social influence positively predicts perceived trust in generative AI
 description: Social influence positively predicts perceived trust in generative AI
 id: social-influence-predicts-perceived-trust
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

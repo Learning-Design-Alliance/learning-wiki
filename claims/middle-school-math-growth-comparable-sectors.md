@@ -3,7 +3,7 @@ type: claim
 title: In middle school, academic-year growth in math was comparable across Catholic and public school sectors
 description: In middle school, academic-year growth in math was comparable across Catholic and public school sectors
 id: middle-school-math-growth-comparable-sectors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: freedom-based-education-settings
 title: Provide freedom-based education and settings to strengthen epistemic freedom and reduce epistemic violence
 description: The authors recommend that learners be offered education that promotes epistemic freedom rather than authority-based conventions.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

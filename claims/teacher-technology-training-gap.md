@@ -3,7 +3,7 @@ type: claim
 title: Most U.S. schools report teachers are not sufficiently trained to use technology, and half of teachers cite lack of training as a major obstacle
 description: Most U.S.
 id: teacher-technology-training-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -2,7 +2,7 @@
 type: theory
 title: "The megastudy: a massive field experiment comparing many interventions in one population on one objectively measured outcome"
 description: "The article introduces the megastudy as a methodological innovation for applied behavioural science: \"a massive field experiment in which the effects of many different interventions are compared in the same population..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -50,4 +50,4 @@ The article introduces the megastudy as a methodological innovation for applied 
 -
 
 ## Key Sources
-- Kautz, T., Milkman, K. L., Gromet, D., et al. as printed in full author line. (2021). Megastudies Improve the Impact of Applied Behavioural Science. Nature, vol. 600. https://www.mathematica.org/publications/megastudies-improve-the-impact-of-applied-behavioural-science
+- Kautz, T., Milkman, K. L., Gromet, D., et al. as printed in full author line. (2021). Megastudies Improve the Impact of Applied Behavioural Science. Nature, vol. 600. https://www.mathematica.org/publications/megastudies-improve-the-impact-of-applied-behavioural-science. [doi:10.1038/s41586-021-04128-4](https://doi.org/10.1038/s41586-021-04128-4)

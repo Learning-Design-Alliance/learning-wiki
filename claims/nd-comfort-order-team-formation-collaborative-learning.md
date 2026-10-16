@@ -3,7 +3,7 @@ type: claim
 title: Neurodivergent computing students feel most comfortable with student-formed teams, then instructor-assigned teams, and lastly randomly-assigned teams
 description: Neurodivergent computing students feel most comfortable with student-formed teams, then instructor-assigned teams, and lastly randomly-assigned teams
 id: nd-comfort-order-team-formation-collaborative-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

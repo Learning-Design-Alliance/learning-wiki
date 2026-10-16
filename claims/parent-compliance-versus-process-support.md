@@ -3,7 +3,7 @@ type: claim
 title: Parental focus on compliance harms homework learning, while supporting effort and process helps
 description: Parental focus on compliance harms homework learning, while supporting effort and process helps
 id: parent-compliance-versus-process-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

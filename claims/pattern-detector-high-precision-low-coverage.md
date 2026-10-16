@@ -3,7 +3,7 @@ type: claim
 title: "The deterministic pattern detector achieves high pair precision (73.21%) with explicit abstention but covers only 32% of real queries"
 description: "The deterministic pattern detector achieves high pair precision (73.21%) with explicit abstention but covers only 32% of real queries"
 id: pattern-detector-high-precision-low-coverage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

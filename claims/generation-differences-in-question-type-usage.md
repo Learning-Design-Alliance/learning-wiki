@@ -3,7 +3,7 @@ type: claim
 title: Continuing-generation students showed higher usage of procedural and directive question types, while first-generation students leaned toward verification and expectational questions
 description: Continuing-generation students showed higher usage of procedural and directive question types, while first-generation students leaned toward verification and expectational questions
 id: generation-differences-in-question-type-usage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

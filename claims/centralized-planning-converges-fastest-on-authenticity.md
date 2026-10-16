@@ -3,7 +3,7 @@ type: claim
 title: Centralized Refinement with Planning converges fastest and to the lowest failure count on authenticity
 description: Centralized Refinement with Planning converges fastest and to the lowest failure count on authenticity
 id: centralized-planning-converges-fastest-on-authenticity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

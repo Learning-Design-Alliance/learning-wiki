@@ -4,7 +4,7 @@ id: eduqwen-32b-rl1-eduqwen-32b-sft-and-eduqwen-32b-sft-rl2
 title: EduQwen 32B-RL1, EduQwen 32B-SFT, and EduQwen 32B-SFT-RL2
 description: "Singh et al.'s EduQwen family comprises open-source 32-billion-parameter pedagogical LLMs designed for customizable, auditable tutoring and educational-platform integration."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11
@@ -30,4 +30,4 @@ Singh et al.'s EduQwen family comprises open-source 32-billion-parameter pedagog
 -
 
 ## Key Sources
-- Singh, N. P., Wang, X., Garikipati, A., Ciobanu, M., Mao, Q., & Das, R. (2026). Application-Driven Pedagogical Knowledge Optimization of Open-Source LLMs via Reinforcement Learning and Supervised Fine-Tuning. Preprint. https://arxiv.org/abs/2604.06385
+- Singh, N. P., Wang, X., Garikipati, A., Ciobanu, M., Mao, Q., & Das, R. (2026). Application-Driven Pedagogical Knowledge Optimization of Open-Source LLMs via Reinforcement Learning and Supervised Fine-Tuning. Preprint. https://arxiv.org/abs/2604.06385. [doi:10.48550/arxiv.2604.06385](https://doi.org/10.48550/arxiv.2604.06385)

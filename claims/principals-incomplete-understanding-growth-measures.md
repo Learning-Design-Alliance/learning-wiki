@@ -3,7 +3,7 @@ type: claim
 title: Principals exhibit an incomplete understanding of how achievement growth is captured in EPIC performance measures
 description: Principals exhibit an incomplete understanding of how achievement growth is captured in EPIC performance measures
 id: principals-incomplete-understanding-growth-measures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

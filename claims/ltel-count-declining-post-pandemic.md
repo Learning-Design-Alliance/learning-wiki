@@ -3,7 +3,7 @@ type: claim
 title: "The number of students classified as LTEL in California dropped from almost 380,000 (18% of ever-ELs) in 2021–22 to just over 226,500 (about 11%) in 2022–23"
 description: "The number of students classified as LTEL in California dropped from almost 380,000 (18% of ever-ELs) in 2021–22 to just over 226,500 (about 11%) in 2022–23"
 id: ltel-count-declining-post-pandemic
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

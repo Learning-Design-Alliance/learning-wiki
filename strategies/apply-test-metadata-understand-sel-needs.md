@@ -3,7 +3,7 @@ type: strategy
 id: apply-test-metadata-understand-sel-needs
 title: "Apply existing test metadata to understand students' social-emotional needs"
 description: "This strategy is the application the article's associated journal article names: an \"initial application of test metadata to understand students' social emotional needs.\" Rather than administering separate social-emot..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

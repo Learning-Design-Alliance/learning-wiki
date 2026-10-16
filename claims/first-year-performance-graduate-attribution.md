@@ -3,7 +3,7 @@ type: claim
 title: First-year performance is treated as important enough that graduates are attributed to their first-enrolled high school
 description: First-year performance is treated as important enough that graduates are attributed to their first-enrolled high school
 id: first-year-performance-graduate-attribution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

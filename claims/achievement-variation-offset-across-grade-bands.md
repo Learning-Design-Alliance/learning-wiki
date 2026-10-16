@@ -3,7 +3,7 @@ type: claim
 title: Within-school variation in baseline achievement is greater in middle school grades, but upper elementary grades show an offsetting amount of between-school variation
 description: Within-school variation in baseline achievement is greater in middle school grades, but upper elementary grades show an offsetting amount of between-school variation
 id: achievement-variation-offset-across-grade-bands
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

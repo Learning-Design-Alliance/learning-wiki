@@ -3,7 +3,7 @@ type: claim
 title: Teachers of color disproportionately enter through alternative certification pathways, which predict higher turnover
 description: Teachers of color disproportionately enter through alternative certification pathways, which predict higher turnover
 id: alternative-certification-pathway-turnover-teachers-of-color
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -18,8 +18,8 @@ sources:
     kind: review
     rigour: 2
   - id: carver-thomas-2018-2
-    resource: "https://learningpolicyinstitute.org/product/diversifying-teaching-profession"
-    title: "Carver-Thomas, D. (2018). Diversifying the teaching profession: How to recruit and retain teachers of color. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/diversifying-teaching-profession"
+    resource: "https://doi.org/10.54300/559.310"
+    title: "Carver-Thomas, D. (2018). Diversifying the teaching profession: How to recruit and retain teachers of color. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/diversifying-teaching-profession. [doi:10.54300/559.310](https://doi.org/10.54300/559.310)"
     author: Carver-Thomas, D.
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Teachers of color disproportionately enter through alternative certification pathways, which predict higher turnover
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 review `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In 2013 a quarter of new teachers of color entered through alternative certification, double the share of White teachers, and candidates of color were 44% more likely to enroll in alternative certification in 2014–15 than in 2008–09. [→ Carver-Thomas 2018](#carver-thomas-2018)
@@ -50,7 +50,7 @@ Descriptive analysis reported in the retention and preparation sections, citing 
 
 ### Carver-Thomas 2018 (2)
 
-Carver-Thomas, D. (2018). Diversifying the teaching profession: How to recruit and retain teachers of color. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/diversifying-teaching-profession
+Carver-Thomas, D. (2018). Diversifying the teaching profession: How to recruit and retain teachers of color. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/diversifying-teaching-profession. [doi:10.54300/559.310](https://doi.org/10.54300/559.310)
 
 `q2 · i?` · `review · r2`
 

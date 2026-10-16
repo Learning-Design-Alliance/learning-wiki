@@ -3,7 +3,7 @@ type: claim
 title: Rapid guessing can be examined over three years using six test administrations to distinguish trait-like from situational disengagement
 description: Rapid guessing can be examined over three years using six test administrations to distinguish trait-like from situational disengagement
 id: six-administrations-three-years-rapid-guessing-design
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: ten-ace-vet-interface-goals
 title: Ten shared goals at the ACE-VET interface where closer cooperation would have mutual benefit
 description: "The report identifies ten areas at the interface between the ACE sector and the national VET system, expressed as goals to which both sectors could commit, where \"closer co-operation would have mutualbenefit\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

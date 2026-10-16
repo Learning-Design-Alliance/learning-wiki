@@ -3,7 +3,7 @@ type: claim
 title: Embodied hands-on practices remain important learning activities in AI-era design education
 description: Embodied hands-on practices remain important learning activities in AI-era design education
 id: embodied-hands-on-remains-present
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

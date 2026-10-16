@@ -3,7 +3,7 @@ type: claim
 title: Empirical research on the Pepper robot in formal education is recent, concentrated in primary education, and dominated by qualitative designs with small samples
 description: Empirical research on the Pepper robot in formal education is recent, concentrated in primary education, and dominated by qualitative designs with small samples
 id: pepper-formal-education-evidence-small-qualitative
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

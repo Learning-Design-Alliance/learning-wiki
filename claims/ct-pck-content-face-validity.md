@@ -3,7 +3,7 @@ type: claim
 title: Content experts and practitioner reviews supported the content and face validity of the CT–PCK Survey
 description: Content experts and practitioner reviews supported the content and face validity of the CT–PCK Survey
 id: ct-pck-content-face-validity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

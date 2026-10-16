@@ -2,7 +2,7 @@
 type: theory
 title: "Two competing measurement models of the EF–math relation: latent EF as primary influence versus specific EF components as primary influences"
 description: "The article formalizes two conceptual models for how EF relates to children's math achievement: \"Model 1, which illustrates latent EF as the primary influence on math (represented in the model by a single common facto..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

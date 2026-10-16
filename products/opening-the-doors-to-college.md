@@ -4,7 +4,7 @@ id: opening-the-doors-to-college
 title: Opening the Doors to College
 description: A Chicago Public Schools Department of Postsecondary Education framework specifying grade-level steps and recommendations for students preparing for college.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

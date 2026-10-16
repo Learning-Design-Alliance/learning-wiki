@@ -3,7 +3,7 @@ type: claim
 title: "Women earn substantial shares of bachelor's degrees in most math and science fields but remain underrepresented in computer sciences, physics, and engineering"
 description: "Women earn substantial shares of bachelor's degrees in most math and science fields but remain underrepresented in computer sciences, physics, and engineering"
 id: women-underrepresented-physics-engineering-computer-science-degrees
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

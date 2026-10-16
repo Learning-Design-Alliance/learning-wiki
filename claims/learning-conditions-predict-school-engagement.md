@@ -3,7 +3,7 @@ type: claim
 title: "Students' experiences of learning conditions strongly and significantly predict their self-reports of school engagement"
 description: "Students' experiences of learning conditions strongly and significantly predict their self-reports of school engagement"
 id: learning-conditions-predict-school-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ title: Comprehensive teacher induction did not increase teacher retention during
 description: Comprehensive teacher induction did not increase teacher retention during the first year of teaching
 id: comprehensive-induction-no-retention-gain-first-year
 aliases: [teacher-induction-no-retention-gain-year-1]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

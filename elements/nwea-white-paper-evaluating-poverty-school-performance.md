@@ -3,7 +3,7 @@ type: element
 id: nwea-white-paper-evaluating-poverty-school-performance
 title: "Associated white paper: Evaluating the relationships between poverty and school performance"
 description: "A white paper listed on the page as associated research for the webinar, titled \"Evaluating the relationships between poverty and school performance\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

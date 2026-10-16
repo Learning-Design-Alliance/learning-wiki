@@ -4,7 +4,7 @@ id: agenticmath
 title: AgenticMath
 description: A Liu et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

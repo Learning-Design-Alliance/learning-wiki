@@ -4,7 +4,7 @@ id: special-education-leadership-academy-massachusetts
 title: Special Education Leadership Academy (Massachusetts)
 description: A WestEd Learning Innovations leadership-development programme, funded by the Massachusetts Department of Elementary and Secondary Education, that supports experienced Massachusetts special education directors through sessions, follow-up meetings, and peer networking.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

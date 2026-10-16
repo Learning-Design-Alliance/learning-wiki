@@ -3,7 +3,7 @@ type: claim
 title: Task topic (science vs debate) showed no statistically significant effect on conversation informativeness
 description: Task topic (science vs debate) showed no statistically significant effect on conversation informativeness
 id: task-topic-no-effect-informativeness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

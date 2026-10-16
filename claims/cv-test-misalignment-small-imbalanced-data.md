@@ -3,7 +3,7 @@ type: claim
 title: Cross-validation-selected hyperparameters generalized to the test set only for Situation and Clarity, with the other four dimensions showing CV–test misalignment
 description: Cross-validation-selected hyperparameters generalized to the test set only for Situation and Clarity, with the other four dimensions showing CV–test misalignment
 id: cv-test-misalignment-small-imbalanced-data
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

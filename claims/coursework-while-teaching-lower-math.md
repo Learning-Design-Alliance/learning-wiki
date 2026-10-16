@@ -3,7 +3,7 @@ type: claim
 title: Students of alternatively certified teachers taking coursework while teaching scored lower in math than students of traditionally certified counterparts
 description: Students of alternatively certified teachers taking coursework while teaching scored lower in math than students of traditionally certified counterparts
 id: coursework-while-teaching-lower-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

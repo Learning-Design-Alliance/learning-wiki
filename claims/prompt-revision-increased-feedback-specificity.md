@@ -3,7 +3,7 @@ type: claim
 title: Revising the feedback prompt toward essay-grounded guidance increased feedback specificity odds
 description: Revising the feedback prompt toward essay-grounded guidance increased feedback specificity odds
 id: prompt-revision-increased-feedback-specificity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

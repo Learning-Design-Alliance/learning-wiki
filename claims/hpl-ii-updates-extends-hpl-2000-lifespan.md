@@ -3,7 +3,7 @@ type: claim
 title: How People Learn II updates and extends the 2000 How People Learn report by synthesizing research on learning from birth through adulthood in formal and informal settings
 description: How People Learn II updates and extends the 2000 How People Learn report by synthesizing research on learning from birth through adulthood in formal and informal settings
 id: hpl-ii-updates-extends-hpl-2000-lifespan
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

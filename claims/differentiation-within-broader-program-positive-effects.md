@@ -3,7 +3,7 @@ type: claim
 title: "Differentiation embedded in a broader program or reform has small to moderate positive effects on primary students' performance"
 description: "Differentiation embedded in a broader program or reform has small to moderate positive effects on primary students' performance"
 id: differentiation-within-broader-program-positive-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: School climate differences between BTO and chronically underperforming schools are twice as large as differences between BTO and other schools
 description: School climate differences between BTO and chronically underperforming schools are twice as large as differences between BTO and other schools
 id: climate-gap-bto-versus-cu-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

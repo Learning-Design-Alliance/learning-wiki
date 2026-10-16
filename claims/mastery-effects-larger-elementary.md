@@ -3,7 +3,7 @@ type: claim
 title: Achievement effects of group-based mastery learning are larger for elementary students than for high school or college students
 description: Achievement effects of group-based mastery learning are larger for elementary students than for high school or college students
 id: mastery-effects-larger-elementary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

@@ -3,7 +3,7 @@ type: element
 id: college-algebra-placement-test-eligibility-cutoff
 title: College algebra placement test with dual enrollment eligibility cut-off
 description: "A college algebra placement test served as the gatekeeper instrument in the studied Florida dual enrollment system: high school seniors took the test, and a printed cut-off score defined eligibility for the rigorous d..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

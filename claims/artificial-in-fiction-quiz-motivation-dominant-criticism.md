@@ -3,7 +3,7 @@ type: claim
 title: The dominant qualitative criticism of AI-generated educational IF is the artificial in-fiction motivation for quiz prompts
 description: The dominant qualitative criticism of AI-generated educational IF is the artificial in-fiction motivation for quiz prompts
 id: artificial-in-fiction-quiz-motivation-dominant-criticism
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

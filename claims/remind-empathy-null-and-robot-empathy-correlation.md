@@ -3,7 +3,7 @@ type: claim
 title: REMind did not significantly increase measured empathy, but baseline human-directed empathy correlated positively with robot-directed empathy
 description: REMind did not significantly increase measured empathy, but baseline human-directed empathy correlated positively with robot-directed empathy
 id: remind-empathy-null-and-robot-empathy-correlation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

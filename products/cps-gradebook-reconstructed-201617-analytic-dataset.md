@@ -4,7 +4,7 @@ id: cps-gradebook-reconstructed-201617-analytic-dataset
 title: CPS Gradebook reconstructed 2016–17 analytic dataset
 description: A Consortium-reconstructed analytic file linking five back-end CPS Gradebook tables for 17,056 ninth-grade students, 366 teachers, 86 schools, and 1,804 algebra and geometry sections in 2016–17.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

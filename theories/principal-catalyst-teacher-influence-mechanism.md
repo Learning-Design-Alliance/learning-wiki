@@ -2,7 +2,7 @@
 type: theory
 title: "Dual-support mechanism: deep principal leadership catalyzes collective instructional work while teacher influence makes it meaningful"
 description: The report proposes an explanatory account of how the three key conditions work together in small schools.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

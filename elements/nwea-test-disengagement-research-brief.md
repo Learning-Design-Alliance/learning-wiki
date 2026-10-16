@@ -3,7 +3,7 @@ type: element
 id: nwea-test-disengagement-research-brief
 title: NWEA research brief on measuring the impact of test disengagement on effectiveness estimates
 description: "A 2019 NWEA research brief by Megan Kuhfeld and James Soland, categorized under Measurement & scaling, School & test engagement, and Student growth & accountability policies."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Kragh argues social constructivist analyses of the history of science face difficulties that do not confront realist interpretations, without entailing rejection of social studies of science
 description: Kragh argues social constructivist analyses of the history of science face difficulties that do not confront realist interpretations, without entailing rejection of social studies of science
 id: kragh-social-constructivism-history-difficulties
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

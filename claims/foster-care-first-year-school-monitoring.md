@@ -3,7 +3,7 @@ type: claim
 title: Close monitoring of school experiences is important for children in their first year of foster care
 description: Close monitoring of school experiences is important for children in their first year of foster care
 id: foster-care-first-year-school-monitoring
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

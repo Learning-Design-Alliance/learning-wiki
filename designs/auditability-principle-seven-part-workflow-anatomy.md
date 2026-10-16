@@ -3,7 +3,7 @@ type: design
 id: auditability-principle-seven-part-workflow-anatomy
 title: Auditability principle and the seven-part anatomy of an agentic workflow turn
 description: "The article defines auditability as the discipline's defining principle: \"a workflow that cannot be inspected, replayed or evaluated after the fact is craft, while engineering is accountable and reproducible.\" Its ope..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

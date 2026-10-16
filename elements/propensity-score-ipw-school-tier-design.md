@@ -3,7 +3,7 @@ type: element
 id: propensity-score-ipw-school-tier-design
 title: Propensity-score inverse-probability-weighting design with publicly reported school-quality tiers
 description: "The study classifies all Chicago high schools into selective, top-tier, mid-tier, and bottom-tier groups using publicly available average ACT scores and 4-year graduation rates, combined \"via principal components anal..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

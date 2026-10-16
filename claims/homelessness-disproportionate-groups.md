@@ -3,7 +3,7 @@ type: claim
 title: Student homelessness disproportionately affects Black students, LGBT youth, English learners, and students with disabilities
 description: Student homelessness disproportionately affects Black students, LGBT youth, English learners, and students with disabilities
 id: homelessness-disproportionate-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Students reported text supports structured, iterative planning while some valued voice for getting initial ideas out
 description: Students reported text supports structured, iterative planning while some valued voice for getting initial ideas out
 id: modality-shapes-planning-and-idea-generation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

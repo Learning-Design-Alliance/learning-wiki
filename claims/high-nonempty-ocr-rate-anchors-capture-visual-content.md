@@ -3,7 +3,7 @@ type: claim
 title: "Recall-oriented anchor selection achieved a 17.93% anchor rate and 94.63% non-empty OCR rate, which the authors interpret as anchors frequently capturing visible educational content that transcript chunks omit"
 description: "Recall-oriented anchor selection achieved a 17.93% anchor rate and 94.63% non-empty OCR rate, which the authors interpret as anchors frequently capturing visible educational content that transcript chunks omit"
 id: high-nonempty-ocr-rate-anchors-capture-visual-content
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

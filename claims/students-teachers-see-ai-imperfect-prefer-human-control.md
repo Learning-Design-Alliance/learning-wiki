@@ -3,7 +3,7 @@ type: claim
 title: "K-12 students and teachers both consider AI imperfect at detecting students' knowledge and assigning appropriate tasks, and therefore prefer more human control over AI decisions"
 description: "K-12 students and teachers both consider AI imperfect at detecting students' knowledge and assigning appropriate tasks, and therefore prefer more human control over AI decisions"
 id: students-teachers-see-ai-imperfect-prefer-human-control
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

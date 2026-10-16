@@ -3,7 +3,7 @@ type: claim
 title: Principal-teacher conferences were perceived as more reflective and objective than past evaluations, but many principals lacked the instructional coaching skills for deep discussions of practice
 description: Principal-teacher conferences were perceived as more reflective and objective than past evaluations, but many principals lacked the instructional coaching skills for deep discussions of practice
 id: conferences-reflective-but-coaching-skills-lacking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

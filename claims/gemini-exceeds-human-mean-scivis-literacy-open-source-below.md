@@ -3,7 +3,7 @@ type: claim
 title: Gemini-3.1-Pro-Preview is the strongest MLLM on SVLAT, exceeding the human mean, while the three open-source models remain below the human baseline
 description: Gemini-3.1-Pro-Preview is the strongest MLLM on SVLAT, exceeding the human mean, while the three open-source models remain below the human baseline
 id: gemini-exceeds-human-mean-scivis-literacy-open-source-below
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

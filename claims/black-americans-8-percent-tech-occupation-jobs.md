@@ -3,7 +3,7 @@ type: claim
 title: "Black Americans comprise only 8% of the 5.3 million tech occupation jobs in the U.S."
 description: "Black Americans comprise only 8% of the 5.3 million tech occupation jobs in the U.S."
 id: black-americans-8-percent-tech-occupation-jobs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

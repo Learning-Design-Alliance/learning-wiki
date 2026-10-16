@@ -3,7 +3,7 @@ type: strategy
 id: embed-puzzles-and-challenges-in-sims
 title: Embed puzzles and challenges in simulations for continued engagement and self-assessment
 description: To sustain engagement after initial exploration, the article recommends designing conceptual puzzles and challenges into sims — implicit goals such as making sense of a behavior or representation, or explicit question...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -49,4 +49,4 @@ To sustain engagement after initial exploration, the article recommends designin
 -
 
 ## Key Sources
-- Podolefsky, N. S., Moore, E. B., & Perkins, K. K. (2013). Implicit scaffolding in interactive simulations: Design strategies to support multiple educational goals. http://phet.colorado.edu/en/simulation/energy-skate-park-basics
+- Podolefsky, N. S., Moore, E. B., & Perkins, K. K. (2013). Implicit scaffolding in interactive simulations: Design strategies to support multiple educational goals. http://phet.colorado.edu/en/simulation/energy-skate-park-basics. [doi:10.48550/arxiv.1306.6544](https://doi.org/10.48550/arxiv.1306.6544)

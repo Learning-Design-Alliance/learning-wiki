@@ -2,7 +2,7 @@
 type: theory
 title: A response-time-conditional approach to detecting disengaged survey responses
 description: The article presents a conditional approach to identifying disengaged survey responses in which results from a variety of detection methods are conditioned on response times.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -52,4 +52,4 @@ The article presents a conditional approach to identifying disengaged survey res
 - [Use response time to identify test taker disengagement as rapid-guessing behavior](../strategies/response-time-identifies-rapid-guessing.md)
 
 ## Key Sources
-- Soland, J., Wise, S., & Gao, L. (2018). Identifying disengaged survey responses: New evidence using response time metadata. Applied Measurement in Education, 32(2), 151-165. https://www.nwea.org/research/publication/identifying-disengaged-survey-responses-new-evidence-using-response-time-metadata/
+- Soland, J., Wise, S., & Gao, L. (2018). Identifying disengaged survey responses: New evidence using response time metadata. Applied Measurement in Education, 32(2), 151-165. https://www.nwea.org/research/publication/identifying-disengaged-survey-responses-new-evidence-using-response-time-metadata/. [doi:10.1080/08957347.2019.1577244](https://doi.org/10.1080/08957347.2019.1577244)

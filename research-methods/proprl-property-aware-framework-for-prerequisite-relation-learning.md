@@ -3,7 +3,7 @@ type: research-method
 id: proprl-property-aware-framework-for-prerequisite-relation-learning
 title: "ProPRL: property-aware framework for prerequisite relation learning"
 description: ProPRL is a framework that learns prerequisite relations over ordered concept pairs in educational knowledge graphs.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

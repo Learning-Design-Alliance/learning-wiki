@@ -3,7 +3,7 @@ type: claim
 title: Low examinee effort is a major threat to valid uses of many test scores
 description: Low examinee effort is a major threat to valid uses of many test scores
 id: low-examinee-effort-threat-to-score-validity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Recent studies of large statewide voucher programs found substantial negative effects on achievement for voucher students compared to similar public school students
 description: Recent studies of large statewide voucher programs found substantial negative effects on achievement for voucher students compared to similar public school students
 id: voucher-negative-achievement-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

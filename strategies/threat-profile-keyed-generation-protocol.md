@@ -3,7 +3,7 @@ type: strategy
 id: threat-profile-keyed-generation-protocol
 title: "Select the variant-generation prompting protocol by deployment threat profile: zero-shot or structured CoT for construct fidelity, few-shot or dimension-preserving generation for surface separation"
 description: "The article recommends that institutions deploying AIAA-style variant generation choose a prompting protocol keyed to the application's threshold profile."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: "Fraction Face-Off! shows potentially positive effects on general mathematics achievement, with a WWC-calculated effect size of 0.64 and improvement index of +24 on NAEP selected items"
 description: "Fraction Face-Off!"
 id: fraction-face-off-potentially-positive-general-math-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

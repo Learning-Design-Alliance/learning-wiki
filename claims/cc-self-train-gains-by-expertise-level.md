@@ -3,7 +3,7 @@ type: claim
 title: "Pilot self-efficacy gains decreased with self-reported expertise: beginners gained most (+1.18), intermediates +0.94, and advanced users +0.46, all significant"
 description: "Pilot self-efficacy gains decreased with self-reported expertise: beginners gained most (+1.18), intermediates +0.94, and advanced users +0.46, all significant"
 id: cc-self-train-gains-by-expertise-level
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: World History Project assignments scored higher on most learning opportunity rubric dimensions than other assignments
 description: World History Project assignments scored higher on most learning opportunity rubric dimensions than other assignments
 id: whp-assignments-scored-higher-opportunity-rubrics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

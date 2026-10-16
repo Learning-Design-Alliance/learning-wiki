@@ -3,7 +3,7 @@ type: claim
 title: Idaho charter reading advantage appears only in the 2016-2017 growth period, not in 2015-2016
 description: Idaho charter reading advantage appears only in the 2016-2017 growth period, not in 2015-2016
 id: idaho-charter-growth-period-reading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

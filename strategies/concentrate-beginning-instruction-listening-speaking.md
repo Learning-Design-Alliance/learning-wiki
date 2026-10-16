@@ -3,7 +3,7 @@ type: strategy
 id: concentrate-beginning-instruction-listening-speaking
 title: Concentrate beginning foreign language instruction on listening and speaking
 description: "The article recommends that beginning foreign language learning be concentrated on the natural stage, stating that \"The natural stage, which is where the beginning learning should be concentrated, is almost completely..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

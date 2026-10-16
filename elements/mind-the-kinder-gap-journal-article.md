@@ -3,7 +3,7 @@ type: element
 id: mind-the-kinder-gap-journal-article
 title: "Companion journal article: Mind the kinder-gap — new data on children's math and reading skills at kindergarten entry"
 description: A journal article listed on the page as associated research for the school-entry trends study.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -54,4 +54,4 @@ A journal article listed on the page as associated research for the school-entry
 -
 
 ## Key Sources
-- Kuhfeld, M., Soland, J., Pitts, C., & Burchinal, M. (2019). Trends in children's academic skills at school entry: 2010 – 2017. NWEA Research. https://www.nwea.org/research/publication/trends-in-childrens-academic-skills-at-school-entry-2010-2017/
+- Kuhfeld, M., Soland, J., Pitts, C., & Burchinal, M. (2019). Trends in children's academic skills at school entry: 2010 – 2017. NWEA Research. https://www.nwea.org/research/publication/trends-in-childrens-academic-skills-at-school-entry-2010-2017/. [doi:10.3102/0013189x20931078](https://doi.org/10.3102/0013189x20931078)

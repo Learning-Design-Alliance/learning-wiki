@@ -2,7 +2,7 @@
 type: theory
 title: Languaging in the Content Areas (LICA) as a unifying thesis for post-elementary reading instruction
 description: "LICA is proposed as \"a working title for a potentially unifying thesis\" for post-elementary school reading, meant to unify terms like \"secondary school reading\", \"contentreading\", and \"comprehension/study skills\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

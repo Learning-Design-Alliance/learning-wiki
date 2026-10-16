@@ -3,7 +3,7 @@ type: claim
 title: The adaptive router reduces turns in long conversations (turns≥5) but not across the unfiltered dataset
 description: The adaptive router reduces turns in long conversations (turns≥5) but not across the unfiltered dataset
 id: router-reduces-turns-long-conversations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

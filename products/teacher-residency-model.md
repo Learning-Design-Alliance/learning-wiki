@@ -3,7 +3,7 @@ type: product
 id: teacher-residency-model
 title: Teacher residency model
 description: A teacher-preparation programme model run by partnerships between local education agencies and institutions of higher education, combining credential coursework, a yearlong mentored clinical placement, and financial support for residents.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
@@ -58,7 +58,7 @@ A teacher-preparation programme model run by partnerships between local educatio
 - Brannegan, A., & Hirschboeck, K. (2024). Scaling California's Teacher Residency Grant Program: Findings and implications from the grant's first 4 years. WestEd. https://www.wested.org/support/formative-evaluation-of-the-california-teacher-residency-grant-program
 - Wojcikiewicz, S. K., Ralph, K., Snyder, J., Bland, J. A., & Wechsler, M. E. (2025). Teacher residencies in Texas: Supporting successful implementation. Learning Policy Institute. https://doi.org/10.54300/630.675
 - Espinoza, D., Saunders, R., Kini, T., & Darling-Hammond, L. (2018). Taking the long view: State efforts to solve teacher shortages by strengthening the profession. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/long-view
-- Carver-Thomas, D., Leung, M., & Burns, D. (2021). California teachers and COVID-19: How the pandemic is impacting the teacher workforce. Learning Policy Institute. https://learningpolicyinstitute.org/product/california-covid-19-teacher-workforce
+- Carver-Thomas, D., Leung, M., & Burns, D. (2021). California teachers and COVID-19: How the pandemic is impacting the teacher workforce. Learning Policy Institute. https://learningpolicyinstitute.org/product/california-covid-19-teacher-workforce. [doi:10.54300/987.779](https://doi.org/10.54300/987.779)
 - Fitz, J., & Yun, C. (2025). Meeting urban and rural district needs for educators: California State University, Bakersfield's teacher residencies. Learning Policy Institute. https://doi.org/10.54300/825.823
 
 # Teacher residency model: LEA–IHE partnership integrating coursework with a yearlong clinical placement under an expert mentor teacher

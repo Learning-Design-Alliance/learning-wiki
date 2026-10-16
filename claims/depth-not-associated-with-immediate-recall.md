@@ -3,7 +3,7 @@ type: claim
 title: Interaction depth is not associated with immediate recall or gains once baseline knowledge is controlled
 description: Interaction depth is not associated with immediate recall or gains once baseline knowledge is controlled
 id: depth-not-associated-with-immediate-recall
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

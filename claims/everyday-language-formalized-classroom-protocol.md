@@ -3,7 +3,7 @@ type: claim
 title: Everyday and invented terminology became formalized through classroom discussion, establishing a shared protocol for referring to strings
 description: Everyday and invented terminology became formalized through classroom discussion, establishing a shared protocol for referring to strings
 id: everyday-language-formalized-classroom-protocol
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

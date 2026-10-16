@@ -3,7 +3,7 @@ type: claim
 title: The 1997 Chicago surveys achieved the greatest return rate of any Consortium study, with 408 elementary and 62 high schools participating
 description: The 1997 Chicago surveys achieved the greatest return rate of any Consortium study, with 408 elementary and 62 high schools participating
 id: 1997-ccsr-surveys-greatest-return-rate-408-62-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

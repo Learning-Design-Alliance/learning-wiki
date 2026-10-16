@@ -3,7 +3,7 @@ type: claim
 title: Students perform better overall on LOCS exam questions than on HOCS exam questions
 description: Students perform better overall on LOCS exam questions than on HOCS exam questions
 id: locs-exam-questions-outperform-hocs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

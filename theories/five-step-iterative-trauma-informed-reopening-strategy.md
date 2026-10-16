@@ -2,7 +2,7 @@
 type: theory
 title: Five-step iterative trauma-informed school reopening strategy
 description: The fact sheet presents an organizing framework for trauma-informed school reopening drawn from crisis response guidance.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

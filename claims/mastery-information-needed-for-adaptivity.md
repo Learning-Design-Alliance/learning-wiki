@@ -3,7 +3,7 @@ type: claim
 title: Removing explicit mastery information from learner profiles mainly degrades Adaptivity
 description: Removing explicit mastery information from learner profiles mainly degrades Adaptivity
 id: mastery-information-needed-for-adaptivity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

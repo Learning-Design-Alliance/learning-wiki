@@ -3,7 +3,7 @@ type: strategy
 id: micro-credential-positioning-by-adopter-segment
 title: "Position micro-credentials to deliver more than certification: emphasize competency-based, personalized skill development for early adopters and address extrinsic motivations for mainstream adopters"
 description: The report derives positioning guidance from its adoption-segment findings.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

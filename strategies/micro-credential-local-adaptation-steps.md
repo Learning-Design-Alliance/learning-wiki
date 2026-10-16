@@ -3,7 +3,7 @@ type: strategy
 id: micro-credential-local-adaptation-steps
 title: Adapt an existing micro-credential for a new context through translation, local assessor training, professional development, and coaching
 description: "Digital Promise adapted an existing micro-credential for Haitian educators in five steps: identify an aligned Digital Promise-issued micro-credential, \"Translating to French & Haitian Creole\", training a local team of..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

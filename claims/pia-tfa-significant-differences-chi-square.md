@@ -3,7 +3,7 @@ type: claim
 title: PIA and TFA clusters differ significantly in both deliberative and regulatory interaction proportions
 description: PIA and TFA clusters differ significantly in both deliberative and regulatory interaction proportions
 id: pia-tfa-significant-differences-chi-square
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

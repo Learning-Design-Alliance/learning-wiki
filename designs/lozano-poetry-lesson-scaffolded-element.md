@@ -3,7 +3,7 @@ type: design
 id: lozano-poetry-lesson-scaffolded-element
 title: 1st/2nd grade poetry-analysis lesson with differentiated poem sets and scaffolded edge learning
 description: An early elementary lesson example, inspired by a lesson taught by Olivia Lozano at the UCLA Lab School, in which 1st and 2nd grade English learners and monolingual peers analyze poetic devices such as rhyme and repea...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

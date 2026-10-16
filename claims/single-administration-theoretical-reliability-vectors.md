@@ -3,7 +3,7 @@ type: claim
 title: Theoretically defined test reliability computable from a single administration via parallel-half vector lengths and angle exceeds split-half reliability but falls below Cronbach alpha
 description: Theoretically defined test reliability computable from a single administration via parallel-half vector lengths and angle exceeds split-half reliability but falls below Cronbach alpha
 id: single-administration-theoretical-reliability-vectors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: Kindergartners struggle to give verbal causal explanations, but model-based tasks let most of them express causal ideas
 description: Kindergartners struggle to give verbal causal explanations, but model-based tasks let most of them express causal ideas
 id: model-tasks-overcome-verbal-explanation-limits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: "Tablet-PC-supported peer-assisted learning reduced EFL learners' anxiety and promoted motivation and confidence in collaborative reading"
 description: "Tablet-PC-supported peer-assisted learning reduced EFL learners' anxiety and promoted motivation and confidence in collaborative reading"
 id: tablet-pc-peer-assisted-learning-reduces-anxiety
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: strategy
 id: team-training-variable-leadership-communication-delays
 title: Team training with variable leadership roles and simulated communication delays
 description: For crews facing Earth-independent operation, the review recommends team training that exercises coordination under realistic social and temporal conditions.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

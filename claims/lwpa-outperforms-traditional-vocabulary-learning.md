@@ -3,7 +3,7 @@ type: claim
 title: Listening to vocabulary lessons while physically active improves End-of-Unit exam performance over traditional intentional learning alone
 description: Listening to vocabulary lessons while physically active improves End-of-Unit exam performance over traditional intentional learning alone
 id: lwpa-outperforms-traditional-vocabulary-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

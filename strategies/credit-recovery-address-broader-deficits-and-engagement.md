@@ -3,7 +3,7 @@ type: strategy
 id: credit-recovery-address-broader-deficits-and-engagement
 title: Design credit-recovery interventions to address broader academic deficits and engagement, not only algebra content
 description: The brief recommends that interventions for students who fail Algebra I extend beyond algebra content knowledge.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

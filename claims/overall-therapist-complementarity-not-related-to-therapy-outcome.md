@@ -3,7 +3,7 @@ type: claim
 title: Overall therapist complementarity across the full therapeutic relationship does not differ significantly between successful and unsuccessful outcome groups
 description: Overall therapist complementarity across the full therapeutic relationship does not differ significantly between successful and unsuccessful outcome groups
 id: overall-therapist-complementarity-not-related-to-therapy-outcome
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

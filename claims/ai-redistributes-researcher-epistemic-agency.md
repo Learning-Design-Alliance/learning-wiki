@@ -3,7 +3,7 @@ type: claim
 title: AI methodologies may redistribute epistemic agency, moving researchers from primary analyst to interpreter and validator of AI-generated outputs
 description: AI methodologies may redistribute epistemic agency, moving researchers from primary analyst to interpreter and validator of AI-generated outputs
 id: ai-redistributes-researcher-epistemic-agency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: The 1997 Design for High Schools was intended to spur change in Chicago high schools by increasing both academic press and personalism
 description: The 1997 Design for High Schools was intended to spur change in Chicago high schools by increasing both academic press and personalism
 id: design-for-high-schools-academic-press-personalism
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

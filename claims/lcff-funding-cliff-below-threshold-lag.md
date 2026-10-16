@@ -3,7 +3,7 @@ type: claim
 title: "Achievement gains lag in districts just below the 55% concentration-grant threshold, especially those enrolling 40–55% high-need students"
 description: "Achievement gains lag in districts just below the 55% concentration-grant threshold, especially those enrolling 40–55% high-need students"
 id: lcff-funding-cliff-below-threshold-lag
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

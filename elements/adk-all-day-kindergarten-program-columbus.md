@@ -3,7 +3,7 @@ type: element
 id: adk-all-day-kindergarten-program-columbus
 title: "All Day Kindergarten (ADK) Program: extra half day of individualized language-based instruction for underachieving kindergartners"
 description: "The ADK Program, instituted in Columbus Public Schools in January 1972, provides underachieving kindergarten pupils \"an extra half day of instruction in addition to the half day of instruction provided in the regular..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

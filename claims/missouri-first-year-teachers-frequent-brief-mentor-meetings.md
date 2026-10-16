@@ -3,7 +3,7 @@ type: claim
 title: Most first-year Missouri teachers in the study met with their mentors several times a month for meetings averaging less than 30 minutes
 description: Most first-year Missouri teachers in the study met with their mentors several times a month for meetings averaging less than 30 minutes
 id: missouri-first-year-teachers-frequent-brief-mentor-meetings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: element
 id: knowledge-object-whole-task-component-analysis
 title: "Knowledge object for a whole task: component analysis with defining and ordering properties"
 description: "A knowledge object is \"a framework consisting of containers for different kinds of general information and specific portrayals (the knowledge components) that are required for instruction.\" For a whole task, the compo..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

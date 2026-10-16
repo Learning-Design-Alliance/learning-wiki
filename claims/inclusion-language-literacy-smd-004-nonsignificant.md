@@ -3,7 +3,7 @@ type: claim
 title: Inclusion shows a negligible, non-significant pooled difference for language and literacy learning outcomes
 description: Inclusion shows a negligible, non-significant pooled difference for language and literacy learning outcomes
 id: inclusion-language-literacy-smd-004-nonsignificant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

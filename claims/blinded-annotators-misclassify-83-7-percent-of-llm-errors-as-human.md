@@ -3,7 +3,7 @@ type: claim
 title: "Blinded expert annotators misclassified 83.7% of LLM-generated errors as human-written"
 description: "Blinded expert annotators misclassified 83.7% of LLM-generated errors as human-written"
 id: blinded-annotators-misclassify-83-7-percent-of-llm-errors-as-human
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

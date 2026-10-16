@@ -3,7 +3,7 @@ type: claim
 title: Sporadic, disconnected professional learning does not change practice long term, whereas well-structured programs can build differentiation skills with positive student outcomes
 description: Sporadic, disconnected professional learning does not change practice long term, whereas well-structured programs can build differentiation skills with positive student outcomes
 id: structured-professional-learning-builds-differentiation-skills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

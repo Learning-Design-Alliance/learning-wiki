@@ -3,7 +3,7 @@ type: claim
 title: English learners, particularly Hispanic Spanish-speaking students, were disproportionately identified for special education in the Specific Learning Disability category
 description: English learners, particularly Hispanic Spanish-speaking students, were disproportionately identified for special education in the Specific Learning Disability category
 id: english-learners-disproportionate-sld-identification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

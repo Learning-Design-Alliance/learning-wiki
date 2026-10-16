@@ -3,7 +3,7 @@ type: strategy
 id: film-amplification-moral-case-deliberation-strategy
 title: Structured post-screening discussion using amplification followed by moral case deliberation
 description: "The article proposes a concrete classroom procedure: screen a film with existential themes, then have students discuss trigger questions in pairs ('What triggered your attention?'; 'By which scenes were you touched an..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

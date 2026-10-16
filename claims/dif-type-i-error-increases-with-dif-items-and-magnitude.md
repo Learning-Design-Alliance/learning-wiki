@@ -3,7 +3,7 @@ type: claim
 title: Type I error rates of all three polytomous DIF indices increase as the number of DIF items and DIF magnitude increase
 description: Type I error rates of all three polytomous DIF indices increase as the number of DIF items and DIF magnitude increase
 id: dif-type-i-error-increases-with-dif-items-and-magnitude
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

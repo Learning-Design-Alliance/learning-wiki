@@ -3,7 +3,7 @@ type: design
 id: m-plans-design-implement-revise-cycle
 title: Iterative co-design development cycle with design-implement-revise cycles
 description: M-PLANS development used a co-design process bringing research and practice closer together, structured as a series of design-implement-revise cycles over three years.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

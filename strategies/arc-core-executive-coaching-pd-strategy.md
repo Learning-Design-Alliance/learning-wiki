@@ -3,7 +3,7 @@ type: strategy
 id: arc-core-executive-coaching-pd-strategy
 title: Certified Executive Coaches provide side-by-side professional development and improvement science support for ARC Core implementation
 description: "ARC Core implementation is supported by professional development in which \"Certified Executive Coaches work side by side with teachers and leaders\" to establish high-quality implementation, use \"the science of improve..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -2,7 +2,7 @@
 type: theory
 title: Starting-point difference account of the Catholic-public school achievement gap
 description: "The article frames the Catholic school achievement advantage as substantially a starting-point phenomenon: Catholic school students score higher on average in math and reading, but they also enter each school year at..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

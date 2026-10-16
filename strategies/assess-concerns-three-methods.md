@@ -3,7 +3,7 @@ type: strategy
 id: assess-concerns-three-methods
 title: "Use three methods to assess concerns: questionnaire, open-ended statements, and informal conversation"
 description: "The paper describes three practical ways to determine individuals' or groups' concerns about an innovation."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

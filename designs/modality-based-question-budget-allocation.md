@@ -3,7 +3,7 @@ type: design
 id: modality-based-question-budget-allocation
 title: Modality-based question budget allocation favoring mechanism slides over structural slides
 description: The system allocates a bounded question budget per slide based on detected modality and pedagogical role.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11
@@ -46,4 +46,4 @@ The system allocates a bounded question budget per slide based on detected modal
 -
 
 ## Key Sources
-- Salsman, J. (2026). Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation. https://arxiv.org/abs/2605.26428
+- Salsman, J. (2026). Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation. https://arxiv.org/abs/2605.26428. [doi:10.48550/arxiv.2605.26428](https://doi.org/10.48550/arxiv.2605.26428)

@@ -3,7 +3,7 @@ type: claim
 title: "PLC development by promoting role: administrative-staff-led PLCs rated shared leadership lower but shared values higher than teacher- and student-led PLCs, with no statistically significant differences"
 description: "PLC development by promoting role: administrative-staff-led PLCs rated shared leadership lower but shared values higher than teacher- and student-led PLCs, with no statistically significant differences"
 id: plc-promoting-role-type-a-leadership-values-pattern
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: strategy
 id: five-moment-q-learning-lesson-plan
 title: A 50-minute five-moment lesson plan maps each teaching moment to a specific interface affordance
 description: "The tool ships with a 50-minute lesson plan structured around five moments — stepping through ignorance, the first goal, convergence, hyperparameter experiments, and reward design — 'each mapped to a specific interfac..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -51,4 +51,4 @@ The tool ships with a 50-minute lesson plan structured around five moments — s
 -
 
 ## Key Sources
-- Jueng, Ekkachai. (2026). Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis. https://arxiv.org/abs/2607.10802
+- Jueng, Ekkachai. (2026). Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis. https://arxiv.org/abs/2607.10802. [doi:10.48550/arxiv.2607.10802](https://doi.org/10.48550/arxiv.2607.10802)

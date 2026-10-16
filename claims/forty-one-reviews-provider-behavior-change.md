@@ -3,7 +3,7 @@ type: claim
 title: Forty-one systematic reviews of professional behavior change interventions published 1966-1998 were identified, covering a wide range of interventions and behaviors
 description: Forty-one systematic reviews of professional behavior change interventions published 1966-1998 were identified, covering a wide range of interventions and behaviors
 id: forty-one-reviews-provider-behavior-change
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

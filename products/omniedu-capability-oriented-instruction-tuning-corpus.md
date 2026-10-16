@@ -4,7 +4,7 @@ id: omniedu-capability-oriented-instruction-tuning-corpus
 title: OmniEdu capability-oriented instruction-tuning corpus
 description: The OmniEdu corpus is a curated, audited, diverse instruction-tuning dataset for education-focused language models, created by Hao Liang et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

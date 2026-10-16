@@ -3,7 +3,7 @@ type: claim
 title: The full roster and full roster-plus methods are empirically similar
 description: The full roster and full roster-plus methods are empirically similar
 id: full-roster-methods-empirically-similar
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Conventional mediation methods generate biased results when the mediator–outcome relationship depends on treatment condition
 description: Conventional mediation methods generate biased results when the mediator–outcome relationship depends on treatment condition
 id: conventional-mediation-biased-under-treatment-mediator-interaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

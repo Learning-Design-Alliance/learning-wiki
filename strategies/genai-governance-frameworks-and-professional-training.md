@@ -3,7 +3,7 @@ type: strategy
 id: genai-governance-frameworks-and-professional-training
 title: Institutions should respond to GenAI with clear governance frameworks and structured professional training programs for staff.
 description: "The article recommends institutional-level responses to staff survey findings: clear governance frameworks for GenAI use and structured professional training programs for educators."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -54,6 +54,7 @@ The article recommends institutional-level responses to staff survey findings: c
 - [Design GenAI governance and cross-role contact around integrity disputes, the principal site of sustained faculty-student contact](genai-governance-cross-role-contact-design.md)
 - [Use findings on instructor power relations to inform professional development for responding to Generative AI](genai-power-relations-inform-instructor-pd.md)
 - [Accrediting bodies and professional organizations should provide AI policy frameworks integrating academic integrity, data ethics, and equitable access, and programs should invest in faculty development](accreditor-ai-policy-frameworks-faculty-development.md)
+- [Implement preventative measures: student awareness programs and regular professional development training for educators](chatbot-preventative-measures-strategy.md)
 
 ## Examples
 -

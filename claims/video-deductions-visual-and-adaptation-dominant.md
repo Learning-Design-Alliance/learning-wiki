@@ -3,7 +3,7 @@ type: claim
 title: "Among 6,699 LLM-judge deduction flags, visual delivery is the largest deficiency category (39%) and learner adaptation the second (27%), while content problems are rarer (16%)"
 description: "Among 6,699 LLM-judge deduction flags, visual delivery is the largest deficiency category (39%) and learner adaptation the second (27%), while content problems are rarer (16%)"
 id: video-deductions-visual-and-adaptation-dominant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

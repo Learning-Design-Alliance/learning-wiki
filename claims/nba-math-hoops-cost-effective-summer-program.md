@@ -3,7 +3,7 @@ type: claim
 title: "NBA Math Hoops can be implemented at low marginal cost: $17.85 per pupil (analytic sample) in materials and training beyond typical summer programming, yielding 0.19 SD math gain"
 description: "NBA Math Hoops can be implemented at low marginal cost: $17.85 per pupil (analytic sample) in materials and training beyond typical summer programming, yielding 0.19 SD math gain"
 id: nba-math-hoops-cost-effective-summer-program
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

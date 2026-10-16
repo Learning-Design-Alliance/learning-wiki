@@ -2,7 +2,7 @@
 type: theory
 title: Four key components framework for effective elementary literacy-science integration
 description: "The guide organizes effective integration of literacy and science instruction at the elementary level around four components: authentic literacy tasks and phenomenon-based instruction, rich science vocabulary, cumulat..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

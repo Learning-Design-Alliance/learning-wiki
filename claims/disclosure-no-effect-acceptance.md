@@ -3,7 +3,7 @@ type: claim
 title: "Data disclosure of any format does not change students' acceptance of data collection by their university"
 description: "Data disclosure of any format does not change students' acceptance of data collection by their university"
 id: disclosure-no-effect-acceptance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

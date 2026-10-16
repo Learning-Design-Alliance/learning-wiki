@@ -3,7 +3,7 @@ type: claim
 title: Inducing learners to recollect the prior study episode during retrieval practice enhances retention even when reexposure and initial success are held constant
 description: Inducing learners to recollect the prior study episode during retrieval practice enhances retention even when reexposure and initial success are held constant
 id: recollecting-the-prior-study-episode-during-retrieval-enhances-retention
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

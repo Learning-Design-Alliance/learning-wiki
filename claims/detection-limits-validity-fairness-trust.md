@@ -3,7 +3,7 @@ type: claim
 title: Detection-led responses to AI in assessment face validity, fairness and trust limits
 description: Detection-led responses to AI in assessment face validity, fairness and trust limits
 id: detection-limits-validity-fairness-trust
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
@@ -50,3 +50,4 @@ A narrative-review assertion in which the authors, citing Liang et al. (2023) an
 - [Universities disabling AI detection cite false-positive risk at scale, and detector influence persists in individual grading, journal screening, and institutions without policy revision](detector-false-positives-at-scale-institutional-retreat.md) — related
 - [Detection-centered academic integrity regimes are unreliable and potentially biased, making sole reliance on AI detectors unsuitable for high-stakes decisions](ai-detection-unreliable-biased-high-stakes.md) — a narrower finding that bears on this claim
 - [Humanizer sites frame AI humanization as a rational, ethically defensible response to flawed surveillance and false positives](humanizers-frame-evasion-as-rational-self-defense.md) — related
+- [A majority of universities with faculty guidelines discourage reliance on AI detection tools due to unreliability and bias](universities-discourage-ai-detection-tools.md) — a narrower finding that bears on this claim

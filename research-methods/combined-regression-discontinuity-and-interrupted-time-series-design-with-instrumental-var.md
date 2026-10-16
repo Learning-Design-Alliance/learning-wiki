@@ -3,7 +3,7 @@ type: research-method
 id: combined-regression-discontinuity-and-interrupted-time-series-design-with-instrumental-var
 title: Combined regression discontinuity and interrupted time-series design with instrumental variables
 description: When a threshold-based policy changes conditions for non-targeted students too, a standard regression discontinuity cannot estimate the policy effect, only the enrollment effect.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

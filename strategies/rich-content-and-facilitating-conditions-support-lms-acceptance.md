@@ -3,7 +3,7 @@ type: strategy
 id: rich-content-and-facilitating-conditions-support-lms-acceptance
 title: Furnish LMSs with rich content and provide facilitating conditions to raise student acceptance
 description: Based on the finding that performance expectancy and facilitating conditions are leading predictors of LMS acceptance, the authors recommend instructor actions.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

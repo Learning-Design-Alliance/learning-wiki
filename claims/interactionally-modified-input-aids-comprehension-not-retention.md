@@ -3,7 +3,7 @@ type: claim
 title: Interactionally modified input aids comprehension but shows no advantage for retention among beginner learners
 description: Interactionally modified input aids comprehension but shows no advantage for retention among beginner learners
 id: interactionally-modified-input-aids-comprehension-not-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Including track indicators and classroom achievement controls simultaneously reduces precision of value-added estimates
 description: Including track indicators and classroom achievement controls simultaneously reduces precision of value-added estimates
 id: combined-specifications-reduce-precision
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

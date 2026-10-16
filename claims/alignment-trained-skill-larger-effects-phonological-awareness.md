@@ -3,7 +3,7 @@ type: claim
 title: Training effects were larger on outcome measures aligned with the trained skill (blending, segmenting) than on less aligned measures
 description: Training effects were larger on outcome measures aligned with the trained skill (blending, segmenting) than on less aligned measures
 id: alignment-trained-skill-larger-effects-phonological-awareness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

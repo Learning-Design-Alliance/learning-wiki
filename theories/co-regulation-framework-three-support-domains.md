@@ -2,7 +2,7 @@
 type: theory
 title: "Co-regulation framework: three domains of adult support surrounding youth self-regulation, with adult self-regulation central"
 description: The report presents a co-regulation framework (Exhibit I.3, modeled on the SARHM project) in which youth self-regulation—comprising cognitive, emotion, and behavior regulation—is encircled by three domains of adult su...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

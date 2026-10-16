@@ -3,7 +3,7 @@ type: strategy
 id: streamlined-transfer-pathways-policy
 title: Create streamlined credit-transfer pathways between two-year and four-year institutions to raise completions
 description: Facing a college-completion crisis, states are using articulation agreements to build streamlined pathways through the post-secondary landscape.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

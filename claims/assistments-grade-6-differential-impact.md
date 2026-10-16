@@ -3,7 +3,7 @@ type: claim
 title: The intervention significantly benefited 6th-grade students but showed no significant effects for 7th or 8th graders
 description: The intervention significantly benefited 6th-grade students but showed no significant effects for 7th or 8th graders
 id: assistments-grade-6-differential-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

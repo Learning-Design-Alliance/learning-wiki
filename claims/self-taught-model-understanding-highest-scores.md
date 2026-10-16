@@ -3,7 +3,7 @@ type: claim
 title: Students with the best self-taught understanding of how language models work used AI tools most deliberately and achieved the highest assignment scores
 description: Students with the best self-taught understanding of how language models work used AI tools most deliberately and achieved the highest assignment scores
 id: self-taught-model-understanding-highest-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Reliable Internet access was a larger barrier to remote and hybrid learning than device access, especially in urban areas
 description: Reliable Internet access was a larger barrier to remote and hybrid learning than device access, especially in urban areas
 id: internet-access-larger-barrier-than-devices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

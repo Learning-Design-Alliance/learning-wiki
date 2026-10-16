@@ -2,7 +2,7 @@
 type: theory
 title: Asymmetry framework for analyzing equality in dual language programs
 description: "The article develops asymmetry, defined as \"a lack of proportion,\" as an analytical tool for studying whether a dual language program delivers equal educational opportunity."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: element
 id: nwea-behind-starting-line-technical-appendix
 title: NWEA technical appendix for the Behind at the Starting Line research brief
 description: "A technical appendix published by NWEA Research to accompany the brief \"Behind at the Starting Line,\" which the page describes as examining Kindergarten test scores from more than 400,000 U.S."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

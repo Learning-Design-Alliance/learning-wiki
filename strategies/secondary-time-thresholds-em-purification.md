@@ -3,7 +3,7 @@ type: strategy
 id: secondary-time-thresholds-em-purification
 title: Use secondary time thresholds to purify E-M scoring
 description: "Study 2 investigates a purification method for improving E-M score accuracy: varying the secondary time thresholds used to identify responses excluded during E-M scoring."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

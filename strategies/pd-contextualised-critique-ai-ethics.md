@@ -3,7 +3,7 @@ type: strategy
 id: pd-contextualised-critique-ai-ethics
 title: Professional development for AI ethics should create spaces for contextualised critique and resistance
 description: "The article recommends that ethical engagement with AI 'cannot be fostered through information-focused training alone'."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: "Los Padillas Elementary improved reading and math achievement and cut chronic absence by 50% between 2021 and 2024 after adopting community schools"
 description: "Los Padillas Elementary improved reading and math achievement and cut chronic absence by 50% between 2021 and 2024 after adopting community schools"
 id: los-padillas-achievement-gain-chronic-absence-reduction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

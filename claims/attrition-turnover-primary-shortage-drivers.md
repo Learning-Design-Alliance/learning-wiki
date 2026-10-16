@@ -3,7 +3,7 @@ type: claim
 title: "Teacher attrition and turnover are primary drivers of California teacher shortages, with 12% turnover between 2016–17 and 2017–18"
 description: "Teacher attrition and turnover are primary drivers of California teacher shortages, with 12% turnover between 2016–17 and 2017–18"
 id: attrition-turnover-primary-shortage-drivers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

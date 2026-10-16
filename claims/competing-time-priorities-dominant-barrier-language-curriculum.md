@@ -3,7 +3,7 @@ type: claim
 title: "Competing priorities for instructional time (environmental context) was the most salient barrier to teachers' implementation of a supplemental language curriculum"
 description: "Competing priorities for instructional time (environmental context) was the most salient barrier to teachers' implementation of a supplemental language curriculum"
 id: competing-time-priorities-dominant-barrier-language-curriculum
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

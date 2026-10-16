@@ -3,7 +3,7 @@ type: design
 id: prompt-programming-platform-bug-injection-pipeline
 title: Prompt Programming platform with bug injection pipeline
 description: A publicly available web platform supporting prompt-based programming through dialogue with a GenAI assistant (GPT-4o-mini), hidden-test execution, and direct code editing.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

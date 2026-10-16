@@ -4,7 +4,7 @@ id: unescos-eight-component-genai-framework
 title: "UNESCO's eight-component GenAI framework"
 description: A UNESCO framework for evaluating whether generative-AI policies address ethical governance, inclusion, equity, access, gender, sustainability, and related responsible-use considerations in education.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: frame-genai-pbl-experience-experimentation-orientation
 title: "Frame genAI virtual patient experiences: prompt experimentation with AI capabilities and orient students to its limits"
 description: "The authors recommend supporting history-taking from genAI-enabled virtual patients by framing the experience: encouraging students to experiment with the AI's humanlike capabilities and helping them recognize and ada..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -2,7 +2,7 @@
 type: theory
 title: "Inclusive STEM high school (ISHS) model: interest-based admission with intensive STEM preparation for all students"
 description: "The article defines an ISHS as a school that enrolls students \"on the basis of interest rather than aptitude or prior achievement\", provides more intensive STEM preparation than conventional high schools, and aims to..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

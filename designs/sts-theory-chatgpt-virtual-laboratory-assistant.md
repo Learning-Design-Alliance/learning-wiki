@@ -3,7 +3,7 @@ type: design
 id: sts-theory-chatgpt-virtual-laboratory-assistant
 title: Sociotechnical Systems Theory frames ChatGPT as a technical support provider interlinked with the social context of the laboratory course
 description: "The article applies Sociotechnical Systems (STS) Theory, which \"gives a systems thinking perspective to an entity where people (with their effectiveness and abilities) work towards goals by following specific processe..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

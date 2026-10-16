@@ -3,7 +3,7 @@ type: claim
 title: "Number-only displays maximized parents' understanding while graphs maximized satisfaction at the expense of understanding"
 description: "Number-only displays maximized parents' understanding while graphs maximized satisfaction at the expense of understanding"
 id: numbers-understanding-graphs-satisfaction-tradeoff
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

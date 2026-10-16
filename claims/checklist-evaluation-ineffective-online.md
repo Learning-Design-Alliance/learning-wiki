@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "One-session checklist (CRAAP) instruction in source evaluation did no better than the alternative methods it was compared with in two quasi-experiments"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

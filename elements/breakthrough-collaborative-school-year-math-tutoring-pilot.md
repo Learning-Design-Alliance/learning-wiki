@@ -3,7 +3,7 @@ type: element
 id: breakthrough-collaborative-school-year-math-tutoring-pilot
 title: Breakthrough Collaborative school-year math tutoring pilot for eighth graders
 description: "Breakthrough Collaborative \"designed a math-focused, school-year version of its summer program to pilot with eighth graders during the 2021-2022 school year.\" Two affiliates, Breakthrough Central Texas and Breakthroug..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

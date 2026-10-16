@@ -3,7 +3,7 @@ type: claim
 title: Design-based and model-based methods yield very similar impact estimates and levels of statistical significance in re-analyses of nine education RCTs
 description: Design-based and model-based methods yield very similar impact estimates and levels of statistical significance in re-analyses of nine education RCTs
 id: design-and-model-based-methods-similar-impact-estimates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

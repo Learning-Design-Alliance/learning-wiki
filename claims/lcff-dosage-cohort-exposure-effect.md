@@ -3,7 +3,7 @@ type: claim
 title: Student outcome improvements from LCFF funding were more pronounced for cohorts exposed to funding increases for more of their school-age years
 description: Student outcome improvements from LCFF funding were more pronounced for cohorts exposed to funding increases for more of their school-age years
 id: lcff-dosage-cohort-exposure-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

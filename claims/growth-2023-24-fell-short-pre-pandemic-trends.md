@@ -4,7 +4,7 @@ title: Student growth during 2023-24 fell short of pre-pandemic trends in nearly
 description: Student growth during 2023-24 fell short of pre-pandemic trends in nearly all grades, continuing stalled pandemic recovery
 id: growth-2023-24-fell-short-pre-pandemic-trends
 aliases: [growth-2023-24-fell-short-of-pre-pandemic-trends]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -2,7 +2,7 @@
 type: theory
 title: Lifespan, multidisciplinary scope framework of the How People Learn II study
 description: "The statement of task organizes the study around learning and learning contexts \"across the lifespan (specifically, infancy and early childhood, middle childhood, adolescence and young adulthood, middle adulthood and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

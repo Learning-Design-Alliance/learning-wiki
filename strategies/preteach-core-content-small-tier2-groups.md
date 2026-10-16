@@ -3,7 +3,7 @@ type: strategy
 id: preteach-core-content-small-tier2-groups
 title: Preteach core classroom content in small Tier 2 groups of 3-5 students
 description: In Enhanced Core Reading Instruction, Tier 2 small groups of 3-5 students are pretaught content soon to be taught in the core classroom, so supplemental instruction is directly aligned with Tier 1.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

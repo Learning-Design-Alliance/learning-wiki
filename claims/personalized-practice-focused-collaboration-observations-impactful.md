@@ -3,7 +3,7 @@ type: claim
 title: "Personalized, practice-focused collaboration around classroom observations was particularly impactful for teachers' practice improvement efforts"
 description: "Personalized, practice-focused collaboration around classroom observations was particularly impactful for teachers' practice improvement efforts"
 id: personalized-practice-focused-collaboration-observations-impactful
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

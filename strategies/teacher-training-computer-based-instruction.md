@@ -3,7 +3,7 @@ type: strategy
 id: teacher-training-computer-based-instruction
 title: Train teachers on technology management, report interpretation, and minimal redirection before computer-based instruction
 description: "Before the intervention, the study's principal investigator trained teachers and assistant teachers on two separate days using \"oral explanations, modeling, and guided teacher practice\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

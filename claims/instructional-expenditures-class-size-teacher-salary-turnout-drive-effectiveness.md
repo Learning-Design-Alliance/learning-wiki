@@ -3,7 +3,7 @@ type: claim
 title: "Instructional expenditures show the largest consistent association with achievement, with roughly 84% of variation in spending effectiveness driven by class size reductions, teacher salary increases, and reduced teacher turnover"
 description: "Instructional expenditures show the largest consistent association with achievement, with roughly 84% of variation in spending effectiveness driven by class size reductions, teacher salary increases, and reduced teach..."
 id: instructional-expenditures-class-size-teacher-salary-turnout-drive-effectiveness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -44,3 +44,4 @@ Analysis of which uses of LCFF funding are most strongly associated with improve
 
 ## Related Claims
 - [After accounting for teacher and school characteristics, each $1,000 increase in cost-of-living-adjusted salary is associated with about a 0.34 percentage-point decrease in turnover probability](salary-associated-with-lower-turnover.md) — related
+- [Input-based incentives produce achievement gains at lower cost than major education reforms of recent decades](input-incentives-cost-effective-comparison.md) — related

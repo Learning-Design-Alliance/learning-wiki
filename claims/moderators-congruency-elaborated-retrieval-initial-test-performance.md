@@ -3,7 +3,7 @@ type: claim
 title: Response congruency, elaborated retrieval practice, and initial test performance strongly influence the likelihood of positive transfer
 description: Response congruency, elaborated retrieval practice, and initial test performance strongly influence the likelihood of positive transfer
 id: moderators-congruency-elaborated-retrieval-initial-test-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

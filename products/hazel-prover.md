@@ -4,7 +4,7 @@ id: hazel-prover
 title: Hazel Prover
 description: Hazel Prover is a web-based classroom proof assistant developed as an extension to the Hazel live typed functional programming environment for teaching equational and inductive reasoning about typed functional programs.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

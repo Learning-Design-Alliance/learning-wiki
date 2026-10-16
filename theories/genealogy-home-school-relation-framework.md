@@ -2,7 +2,7 @@
 type: theory
 title: Genealogical framework for analyzing the home/school relation and parent involvement
 description: The article offers a genealogical account of the home/school relation, tracing how ideas about this relationship and parent involvement have been constructed over time.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -48,4 +48,4 @@ The article offers a genealogical account of the home/school relation, tracing h
 - [Interrogate parent involvement constructs through a genealogical lens to advance equity](../strategies/interrogate-parent-involvement-for-equity.md)
 
 ## Key Sources
-- Kainz, K., & Aikens, N. L. (2007). Governing the Family Through Education: A Genealogy on the Home/School Relation. Equity & Excellence in Education, vol. 40, issue 4. https://eric.ed.gov/?q=Governing+the+Family+Through+Education
+- Kainz, K., & Aikens, N. L. (2007). Governing the Family Through Education: A Genealogy on the Home/School Relation. Equity & Excellence in Education, vol. 40, issue 4. https://eric.ed.gov/?q=Governing+the+Family+Through+Education. [doi:10.1080/10665680701610721](https://doi.org/10.1080/10665680701610721)

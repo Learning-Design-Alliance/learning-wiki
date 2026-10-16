@@ -3,7 +3,7 @@ type: strategy
 id: dichotomous-key-turtle-picture-cards
 title: Dichotomous key practice with sea turtle picture cards
 description: "A pre-visit classroom activity in which student teams \"use a dichotomous key to identify the five species of sea turtles normally found off the North Carolina coast.\" Students study an anatomy diagram, cut out picture..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

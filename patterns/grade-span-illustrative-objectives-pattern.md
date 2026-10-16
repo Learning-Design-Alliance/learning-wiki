@@ -3,7 +3,7 @@ type: pattern
 id: grade-span-illustrative-objectives-pattern
 title: Grade-span structure of program goals with illustrative, non-sequential level objectives
 description: The framework organizes objectives across four grade spans—K-3, 4-6, 7-8, and 9-12—stating program goals for the whole span and illustrative level objectives for each.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

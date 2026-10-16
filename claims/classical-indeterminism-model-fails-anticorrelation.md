@@ -3,7 +3,7 @@ type: claim
 title: A classical-indeterminism modification of the QRC program fails to reproduce anti-correlation at equal angles
 description: A classical-indeterminism modification of the QRC program fails to reproduce anti-correlation at equal angles
 id: classical-indeterminism-model-fails-anticorrelation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Multiple sufficient configurations lead to high AI literacy performance (equifinality)
 description: Multiple sufficient configurations lead to high AI literacy performance (equifinality)
 id: fsqca-multiple-pathways-high-ai-literacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

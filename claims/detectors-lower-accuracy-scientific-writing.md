@@ -3,7 +3,7 @@ type: claim
 title: Both detectors achieved substantially lower accuracy on scientific writing than on humanities texts
 description: Both detectors achieved substantially lower accuracy on scientific writing than on humanities texts
 id: detectors-lower-accuracy-scientific-writing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

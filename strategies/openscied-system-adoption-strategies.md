@@ -3,7 +3,7 @@ type: strategy
 id: openscied-system-adoption-strategies
 title: "System-level adoption strategies: state officer collaborations, certified PD provider network, and district phased-implementation support"
 description: The paper describes three ways OpenSciEd works with district and state partners to align with system change models.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -4,7 +4,7 @@ id: generative-ai-assessment-literacy-scale-gaa-ls
 title: Generative AI Assessment Literacy Scale (GAA-LS)
 description: "Nie et al.'s 18-item five-dimension self-report scale measures higher education students' perceived capacity to use generative AI responsibly in assessment-related tasks."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

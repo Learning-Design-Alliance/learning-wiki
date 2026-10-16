@@ -3,7 +3,7 @@ type: theory
 title: "Swain's output hypothesis"
 description: "Swain's claim that comprehensible input is not enough for second language acquisition: learners must be pushed to produce precise, coherent and appropriate output, which serves noticing, hypothesis-testing and metalinguistic functions."
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-30
@@ -66,12 +66,14 @@ The articles do not agree on how well the hypothesis is supported. Ellis (eric-e
 - [Structure-building trigger model: adult L2 learners scan input for cues but use different triggers than children](structure-building-trigger-model-l2-german.md)
 
 ## Examples
+
 - [Give students more chances to produce output and communicate during writing, with varied assignment types and clear sufficient feedback](../strategies/output-based-writing-teaching-suggestions.md)
 - [Three-stage writing task: write with problem notes, compare to a model paragraph, then rewrite](../strategies/three-stage-noticing-writing-task.md)
 - [Diary recording with recall, reflection and delayed verification as a self-directed learning strategy](../strategies/diary-recall-reflection-verification-strategy.md)
 - [Start grammar instruction from the problems learners notice in their own written output](../strategies/grammar-instruction-from-noticed-writing-problems.md)
 - [Increase Student Language Production](../strategies/increase_student_language_production.md)
 - [Modeling feedback: an original native-speaker text used as a comparison model](../elements/modeling-feedback-native-speaker-text.md)
+- [Design interaction so learners modify their utterances in response to negative feedback](../strategies/elicit-modified-output-in-response-to-negative-feedback.md)
 
 ## Key Sources
 - Swain, M. (1985). Communicative competence: Some roles of comprehensible input and comprehensible output in its development. In S. M. Gass & C. G. Madden (Eds.), *Input in second language acquisition* (pp. 235–253). Newbury House.

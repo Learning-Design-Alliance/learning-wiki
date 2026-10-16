@@ -3,7 +3,7 @@ type: design
 id: cc-self-train-adaptive-learning-system
 title: "cc-self-train adaptive learning system: a three-layer hook-based engagement observation and scaffolding adjustment mechanism"
 description: The adaptive learning system observes learner engagement quality through keyword-heuristic classification of each learner message into six engagement categories with quality scores from 1 to 5, accumulated in a local...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

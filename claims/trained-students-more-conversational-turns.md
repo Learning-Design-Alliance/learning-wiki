@@ -3,7 +3,7 @@ type: claim
 title: Trained students engage in more conversational turns with the GenAI tool
 description: Trained students engage in more conversational turns with the GenAI tool
 id: trained-students-more-conversational-turns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

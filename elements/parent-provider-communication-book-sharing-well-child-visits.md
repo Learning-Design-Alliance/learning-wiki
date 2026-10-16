@@ -3,7 +3,7 @@ type: element
 id: parent-provider-communication-book-sharing-well-child-visits
 title: Parent-provider communication and book sharing during well-child primary care visits to support early math development
 description: "The brief describes a promising approach to support early childhood math development that synthesizes the influence of parents, the home environment, and children's health care providers."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

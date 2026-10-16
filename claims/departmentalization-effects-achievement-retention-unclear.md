@@ -3,7 +3,7 @@ type: claim
 title: The effects of departmentalized instruction on student achievement and teacher retention remain unclear
 description: The effects of departmentalized instruction on student achievement and teacher retention remain unclear
 id: departmentalization-effects-achievement-retention-unclear
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "CHSRI juniors' ACT scores were no different from similar students' and remained well below college readiness benchmarks"
 description: "CHSRI juniors' ACT scores were no different from similar students' and remained well below college readiness benchmarks"
 id: chsri-act-scores-no-different-low
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

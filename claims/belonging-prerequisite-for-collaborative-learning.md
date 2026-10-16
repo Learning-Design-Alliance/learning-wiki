@@ -3,7 +3,7 @@ type: claim
 title: Belonging is a prerequisite for effective collaborative learning, not merely a positive outcome
 description: Belonging is a prerequisite for effective collaborative learning, not merely a positive outcome
 id: belonging-prerequisite-for-collaborative-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

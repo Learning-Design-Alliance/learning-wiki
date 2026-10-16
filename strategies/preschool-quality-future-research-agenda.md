@@ -3,7 +3,7 @@ type: strategy
 id: preschool-quality-future-research-agenda
 title: "Future research agenda on preschool quality: access, younger ages, home-based settings, and practice-level studies"
 description: "The authors recommend a research agenda to follow up on their findings: future research should explore the extent to which all children have access to high-quality programs based on where they live, family income, and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

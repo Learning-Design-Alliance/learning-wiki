@@ -3,7 +3,7 @@ type: claim
 title: Substituting tasks with generative AI may promote inclusion and free time for more demanding activities, but risks foundational-skill loss and presupposes prior knowledge
 description: Substituting tasks with generative AI may promote inclusion and free time for more demanding activities, but risks foundational-skill loss and presupposes prior knowledge
 id: ai-substitution-inclusion-and-time-tradeoffs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -18,8 +18,8 @@ sources:
     kind: theoretical
     rigour: 2
   - id: rummel-2026-2
-    resource: "https://arxiv.org/abs/2609.09856"
-    title: "Rummel, N., Nachtigall, V., & Panadero, E. (2026). “With a Thermomix You Lose the Ability to Cook”: A Kitchen Machine Analogy for Applications of Generative AI in Education. https://arxiv.org/abs/2609.09856"
+    resource: "https://doi.org/10.48550/arxiv.2609.09856"
+    title: "Rummel, N., Nachtigall, V., & Panadero, E. (2026). “With a Thermomix You Lose the Ability to Cook”: A Kitchen Machine Analogy for Applications of Generative AI in Education. https://arxiv.org/abs/2609.09856. [doi:10.48550/arxiv.2609.09856](https://doi.org/10.48550/arxiv.2609.09856)"
     author: "Rummel, N., Nachtigall, V., & Panadero, E."
     q: 1
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Substituting tasks with generative AI may promote inclusion and free time for more demanding activities, but risks foundational-skill loss and presupposes prior knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 theoretical `r2` · `q1`
+> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Substituting school assignments with generative AI might promote inclusion and participation among students who would otherwise struggle due to special needs or language barriers. [→ Rummel 2026](#rummel-2026)
@@ -50,7 +50,7 @@ Authors' reasoned conjecture in the substitution section: while unlikely to fost
 
 ### Rummel 2026 (2)
 
-Rummel, N., Nachtigall, V., & Panadero, E. (2026). “With a Thermomix You Lose the Ability to Cook”: A Kitchen Machine Analogy for Applications of Generative AI in Education. https://arxiv.org/abs/2609.09856
+Rummel, N., Nachtigall, V., & Panadero, E. (2026). “With a Thermomix You Lose the Ability to Cook”: A Kitchen Machine Analogy for Applications of Generative AI in Education. https://arxiv.org/abs/2609.09856. [doi:10.48550/arxiv.2609.09856](https://doi.org/10.48550/arxiv.2609.09856)
 
 `q1 · i?` · `theoretical · r2`
 

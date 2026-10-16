@@ -3,7 +3,7 @@ type: strategy
 id: assessment-redesign-proportional-reflective-practices
 title: Address generative AI in higher education through assessment redesign and proportional reflective practices rather than surveillance or punitive controls
 description: The article recommends that institutions govern generative AI use by redesigning assessment so that meaningful reflection is credibly valued, rather than relying on detection or punishment.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

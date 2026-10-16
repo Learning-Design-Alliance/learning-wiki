@@ -3,7 +3,7 @@ type: claim
 title: Recovery high school attendance may improve absenteeism, abstinence, and reduce marijuana and other drug use, based on a single quasi‐experimental study with serious risk of bias
 description: Recovery high school attendance may improve absenteeism, abstinence, and reduce marijuana and other drug use, based on a single quasi‐experimental study with serious risk of bias
 id: rhs-improves-absenteeism-abstinence-drug-use-single-qed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

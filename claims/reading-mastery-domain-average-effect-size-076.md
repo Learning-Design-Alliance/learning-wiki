@@ -3,7 +3,7 @@ type: claim
 title: The WWC-computed average effect size for Reading Mastery on ELL reading achievement is 0.76, corresponding to an improvement index of +28 percentile points
 description: The WWC-computed average effect size for Reading Mastery on ELL reading achievement is 0.76, corresponding to an improvement index of +28 percentile points
 id: reading-mastery-domain-average-effect-size-076
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

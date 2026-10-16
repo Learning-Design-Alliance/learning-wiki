@@ -3,7 +3,7 @@ type: claim
 title: "ChatGPT is the most frequently used AI tool among Ghanaian pre-service science teachers, with 69% reporting frequent use"
 description: "ChatGPT is the most frequently used AI tool among Ghanaian pre-service science teachers, with 69% reporting frequent use"
 id: chatgpt-most-used-ai-tool-ghanaian-pre-service-science-teachers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

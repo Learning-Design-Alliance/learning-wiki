@@ -3,7 +3,7 @@ type: claim
 title: Syntactic rather than semantic processing of input is essential for correcting incomprehensible output
 description: Syntactic rather than semantic processing of input is essential for correcting incomprehensible output
 id: syntactic-processing-corrects-incomprehensible-output
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

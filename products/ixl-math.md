@@ -4,7 +4,7 @@ id: ixl-math
 title: IXL Math
 description: "IXL Learning's IXL Math is a personalized mathematics learning platform with adaptive skills, tutorials, diagnostics, analytics, and classroom-support tools for learners from PreK through Calculus."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
@@ -64,7 +64,7 @@ IXL Math is "a comprehensive personalized teaching and learning program supporti
 
 ## Related Elements
 
-- [Exact Path Proficiency + Exact Path Growth digital learning system](../products/exact-path.md)
+- [Exact Path Proficiency + Exact Path Growth digital learning system](edmentum-exact-path.md)
 - [Edmentum Exact Path Growth personalized learning program](../products/edmentum-exact-path.md)
 - [i-Ready digital learning platform with adaptive diagnostic and personalized instruction](../products/i-ready.md)
 

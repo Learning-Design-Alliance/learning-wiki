@@ -3,7 +3,7 @@ type: claim
 title: "Discussing immigration more frequently than fellow GSA members predicts increased perceived peer validation by year's end"
 description: "Discussing immigration more frequently than fellow GSA members predicts increased perceived peer validation by year's end"
 id: immigration-discussion-in-gsas-predicts-peer-validation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Students who used AI reported feeling less accomplished, with heavier reliance associated with greater loss of satisfaction
 description: Students who used AI reported feeling less accomplished, with heavier reliance associated with greater loss of satisfaction
 id: ai-use-reduces-accomplishment-intrinsic-value
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

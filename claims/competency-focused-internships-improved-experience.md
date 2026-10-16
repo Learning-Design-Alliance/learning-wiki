@@ -3,7 +3,7 @@ type: claim
 title: Competency-focused internships improved the depth, clarity, and practicality of principal preparation internships compared with hour-accumulation models
 description: Competency-focused internships improved the depth, clarity, and practicality of principal preparation internships compared with hour-accumulation models
 id: competency-focused-internships-improved-experience
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: four-stage-post-training-support-pathway
 title: Four-stage post-training support pathway for sustaining training transfer
 description: "A post-training support pathway (Figure 2) derived directly from participants' descriptions of facilitators and barriers, specifying responsible stakeholders, implementation timelines, and required resources across fo..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

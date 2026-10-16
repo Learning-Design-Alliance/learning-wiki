@@ -3,7 +3,7 @@ type: design
 id: conv-ped-tutor-audit-testbed
 title: "Controlled tutor-audit testbed: ConvTutor, PedTutor, and cold baseline over identical frozen weights with a weak simulated student"
 description: A within-base testbed in which two tutoring policies are instantiated from identical frozen model weights so that only the policy layer differs.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

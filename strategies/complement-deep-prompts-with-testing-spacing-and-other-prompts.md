@@ -3,7 +3,7 @@ type: strategy
 id: complement-deep-prompts-with-testing-spacing-and-other-prompts
 title: Complement deep-processing cognitive prompts with practice testing, distributed practice, and metacognitive or motivational prompts to support long-term retention
 description: Based on the fading of the deep-prompt advantage at follow-up, the authors recommend extending the prompting strategy rather than abandoning it.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

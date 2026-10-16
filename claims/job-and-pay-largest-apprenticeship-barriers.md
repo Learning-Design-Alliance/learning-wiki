@@ -3,7 +3,7 @@ type: claim
 title: "Finding another job (29.1%) and low apprenticeship pay (13.9%) are the largest barriers to completing the LC101 apprenticeship phase"
 description: "Finding another job (29.1%) and low apprenticeship pay (13.9%) are the largest barriers to completing the LC101 apprenticeship phase"
 id: job-and-pay-largest-apprenticeship-barriers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

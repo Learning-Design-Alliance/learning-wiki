@@ -3,7 +3,7 @@ type: claim
 title: "Elaboration strategy does not significantly affect students' attitudes toward the learning method"
 description: "Elaboration strategy does not significantly affect students' attitudes toward the learning method"
 id: elaboration-strategy-no-attitude-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

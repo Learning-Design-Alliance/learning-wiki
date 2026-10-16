@@ -4,7 +4,7 @@ id: sead-framework-six-policy-areas-for-equitable-social-emotional-and-academic-
 title: "SEAD framework: six policy areas for equitable social, emotional, and academic development"
 description: "The Education Trust's policy framework organizes state and district action across six areas to support students' integrated social, emotional, and academic development, particularly for underserved P-12 learners."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

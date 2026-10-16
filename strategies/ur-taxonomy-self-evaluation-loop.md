@@ -3,7 +3,7 @@ type: strategy
 id: ur-taxonomy-self-evaluation-loop
 title: Use the taxonomy to self-evaluate an implemented research experience and level up milestones
 description: After implementing a high-impact undergraduate research experience, the mentor uses the taxonomy to self-evaluate the experience and make adjustments, closing the assessment loop.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

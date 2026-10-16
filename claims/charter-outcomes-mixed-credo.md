@@ -3,7 +3,7 @@ type: claim
 title: "Charter school outcomes are mixed as a group, with 17% of charters producing greater academic gains and 37% performing worse than traditional public schools serving similar students"
 description: "Charter school outcomes are mixed as a group, with 17% of charters producing greater academic gains and 37% performing worse than traditional public schools serving similar students"
 id: charter-outcomes-mixed-credo
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

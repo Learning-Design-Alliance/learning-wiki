@@ -3,7 +3,7 @@ type: claim
 title: LLM-assisted self-study yields higher post-intervention exam performance than traditional resources among early-career knowledge workers
 description: LLM-assisted self-study yields higher post-intervention exam performance than traditional resources among early-career knowledge workers
 id: llm-self-study-beats-traditional-resources-exam-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

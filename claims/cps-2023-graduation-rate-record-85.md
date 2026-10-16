@@ -3,7 +3,7 @@ type: claim
 title: "CPS's four-year high school graduation rate reached a record 85.0% in 2023, up about one percentage point from 84.1% in 2022"
 description: "CPS's four-year high school graduation rate reached a record 85.0% in 2023, up about one percentage point from 84.1% in 2022"
 id: cps-2023-graduation-rate-record-85
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

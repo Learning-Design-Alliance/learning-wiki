@@ -3,7 +3,7 @@ type: claim
 title: Students with lower baseline self-efficacy achieved greater learning gains regardless of practice format
 description: Students with lower baseline self-efficacy achieved greater learning gains regardless of practice format
 id: lower-baseline-self-efficacy-greater-learning-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

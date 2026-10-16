@@ -3,7 +3,7 @@ type: claim
 title: "The effort-moderated IRT model's parameter estimation accuracy was studied under multiple assumption violations in the context of test-taking disengagement"
 description: "The effort-moderated IRT model's parameter estimation accuracy was studied under multiple assumption violations in the context of test-taking disengagement"
 id: effort-moderated-irt-parameter-estimation-under-assumption-violations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

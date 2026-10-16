@@ -3,7 +3,7 @@ type: claim
 title: Dynamic Learning Project research found teachers who worked with edtech coaches used technology more frequently and felt more confident than peers who did not
 description: Dynamic Learning Project research found teachers who worked with edtech coaches used technology more frequently and felt more confident than peers who did not
 id: dlp-coaching-technology-use-confidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

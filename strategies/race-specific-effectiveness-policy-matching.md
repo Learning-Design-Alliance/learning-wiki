@@ -3,7 +3,7 @@ type: strategy
 id: race-specific-effectiveness-policy-matching
 title: "Incorporate teachers' variation in effectiveness by student race into district and school policy decisions, including matching teachers to students and targeting professional development"
 description: "The brief recommends that \"school districts and school principals could incorporate teachers' variation in effectiveness for students of different races into their policy decisions,\" as a complement to typical value-a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

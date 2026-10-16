@@ -3,7 +3,7 @@ type: claim
 title: "Disengaged test taking in international assessment programs threatens the validity of inferences about a country's educational attainment"
 description: "Disengaged test taking in international assessment programs threatens the validity of inferences about a country's educational attainment"
 id: disengaged-test-taking-invalidates-country-level-attainment-inferences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

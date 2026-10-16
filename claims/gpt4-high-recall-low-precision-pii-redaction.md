@@ -3,7 +3,7 @@ type: claim
 title: GPT-4 achieves high recall (average 0.958) but low precision (average 0.526) when de-identifying MOOC forum posts
 description: GPT-4 achieves high recall (average 0.958) but low precision (average 0.526) when de-identifying MOOC forum posts
 id: gpt4-high-recall-low-precision-pii-redaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: In a review of 126 K-12 ML activities, supervised learning activities cluster overwhelmingly in the lowest algorithmic-abstraction levels
 description: In a review of 126 K-12 ML activities, supervised learning activities cluster overwhelmingly in the lowest algorithmic-abstraction levels
 id: k12-ml-activities-cluster-low-abstraction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

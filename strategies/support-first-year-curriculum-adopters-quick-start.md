@@ -3,7 +3,7 @@ type: strategy
 id: support-first-year-curriculum-adopters-quick-start
 title: Support first-year adopters of a comprehensive curriculum with quick-start overviews, editable materials, and curated course plans
 description: "Because all interviewed teachers found the curriculum overwhelming in their initial adoption year, the report recommends that developers provide a \"quick start\" overview of key resources, emphasize that not all resour..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

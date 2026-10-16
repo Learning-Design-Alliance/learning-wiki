@@ -3,7 +3,7 @@ type: claim
 title: After PET normalization, no statistically significant performance differences remain between user cohorts
 description: After PET normalization, no statistically significant performance differences remain between user cohorts
 id: pet-eliminates-significant-accessibility-disparities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

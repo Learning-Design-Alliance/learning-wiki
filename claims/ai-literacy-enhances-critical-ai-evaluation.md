@@ -3,7 +3,7 @@ type: claim
 title: "AI literacy significantly enhances students' critical AI evaluation in generative-AI-supported learning"
 description: "AI literacy significantly enhances students' critical AI evaluation in generative-AI-supported learning"
 id: ai-literacy-enhances-critical-ai-evaluation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

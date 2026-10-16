@@ -3,7 +3,7 @@ type: strategy
 id: secure-enclave-kinetic-data-access
 title: Secure enclaves for privacy-protecting researcher access to student-level data
 description: "The article recommends engineering better data access through secure enclaves: the Kinetic team \"is developing a secure enclave, which would allow researchers privacy-protecting access to student-level information to..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

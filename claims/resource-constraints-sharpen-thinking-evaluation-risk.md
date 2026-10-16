@@ -3,7 +3,7 @@ type: claim
 title: Resource constraints can sharpen scientific thinking, and evaluating achievement without accounting for available resources risks undervaluing under-resourced researchers
 description: Resource constraints can sharpen scientific thinking, and evaluating achievement without accounting for available resources risks undervaluing under-resourced researchers
 id: resource-constraints-sharpen-thinking-evaluation-risk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

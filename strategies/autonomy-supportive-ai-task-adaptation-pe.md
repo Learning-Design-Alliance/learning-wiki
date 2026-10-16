@@ -3,7 +3,7 @@ type: strategy
 id: autonomy-supportive-ai-task-adaptation-pe
 title: Use AI to support autonomy-supportive task adaptation in physical education rather than algorithmic exercise prescription
 description: "The article recommends that AI help practitioners adapt \"intensity, task complexity, group size, feedback frequency, and recovery options without turning exercise into algorithmic prescription or coercive monitoring\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

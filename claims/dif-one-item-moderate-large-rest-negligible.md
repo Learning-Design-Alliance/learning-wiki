@@ -3,7 +3,7 @@ type: claim
 title: DIF analysis finds mostly negligible or slight-to-moderate differential item functioning, with only one item showing moderate-to-large DIF favoring Asian over White participants
 description: DIF analysis finds mostly negligible or slight-to-moderate differential item functioning, with only one item showing moderate-to-large DIF favoring Asian over White participants
 id: dif-one-item-moderate-large-rest-negligible
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: trainee-selected-screened-trained-mentors
 title: Trainee-selected, program-screened and trained mentors sustained through monthly staff contact after residential programming
 description: After the residential period, each trainee selects a mentor who is then screened and trained by the program.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

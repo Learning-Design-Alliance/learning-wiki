@@ -3,7 +3,7 @@ type: claim
 title: Direct CT instruction combined with modeling, coaching, and discussion yields more consistent CT improvement than implicit teaching strategies
 description: Direct CT instruction combined with modeling, coaching, and discussion yields more consistent CT improvement than implicit teaching strategies
 id: direct-ct-instruction-outperforms-implicit-strategies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

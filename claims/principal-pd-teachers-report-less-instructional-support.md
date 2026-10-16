@@ -3,7 +3,7 @@ type: claim
 title: Teachers whose principals received the professional development reported receiving less frequent instructional support and feedback than teachers whose principals did not
 description: Teachers whose principals received the professional development reported receiving less frequent instructional support and feedback than teachers whose principals did not
 id: principal-pd-teachers-report-less-instructional-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

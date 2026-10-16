@@ -3,7 +3,7 @@ type: strategy
 id: genai-xr-tool-design-strategy
 title: Design GenAI-in-the-loop XR tools with editable components, reproducible generation, continuity with existing artifacts, and shared-attention cues
 description: Based on student interviews, the authors recommend future tool designs that preserve learner agency and collaboration.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -44,4 +44,4 @@ Based on student interviews, the authors recommend future tool designs that pres
 -
 
 ## Key Sources
-- Xiao, Y., Chen, M., Li, Y., Powers, N., Wiesenfeld, M., Smith, G., Farzin, S., Liu, S. (2026). Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study. arXiv preprint arXiv:2609.13494. https://arxiv.org/abs/2609.13494
+- Xiao, Y., Chen, M., Li, Y., Powers, N., Wiesenfeld, M., Smith, G., Farzin, S., Liu, S. (2026). Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study. arXiv preprint arXiv:2609.13494. https://arxiv.org/abs/2609.13494. [doi:10.48550/arxiv.2609.13494](https://doi.org/10.48550/arxiv.2609.13494)

@@ -3,7 +3,7 @@ type: strategy
 id: redesign-assessment-authentic-progressive-methods
 title: Redesign assessment toward progressive, authentic, and reflective methods rather than intensive paperwork
 description: To preserve academic integrity and assessment fairness in the age of GenAI, the article recommends moving away from traditional paper-based coursework.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

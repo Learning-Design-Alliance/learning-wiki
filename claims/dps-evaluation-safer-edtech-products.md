@@ -3,7 +3,7 @@ type: claim
 title: "DPS's evaluation process led schools to use safer edtech products by prioritizing student data privacy and accessibility review"
 description: "DPS's evaluation process led schools to use safer edtech products by prioritizing student data privacy and accessibility review"
 id: dps-evaluation-safer-edtech-products
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

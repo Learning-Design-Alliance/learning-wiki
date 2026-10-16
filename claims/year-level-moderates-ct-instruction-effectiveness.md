@@ -3,7 +3,7 @@ type: claim
 title: "Effectiveness of CT instruction varies with year level: first-year students benefited most under general or infusion approaches"
 description: "Effectiveness of CT instruction varies with year level: first-year students benefited most under general or infusion approaches"
 id: year-level-moderates-ct-instruction-effectiveness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

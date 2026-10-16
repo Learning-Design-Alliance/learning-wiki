@@ -3,7 +3,7 @@ type: claim
 title: "Synthetic cohorts place week-to-week change in the term's examination weeks, which real cohorts do not"
 description: "Synthetic cohorts place week-to-week change in the term's examination weeks, which real cohorts do not"
 id: synthetic-cohorts-misplace-examination-week-structure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -18,8 +18,8 @@ sources:
     kind: design
     rigour: 2
   - id: inoue-2026-2
-    resource: "https://arxiv.org/abs/2609.27265"
-    title: "Inoue, H., & Yasutake, K. (2026). What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data. Proceedings of the 34th International Conference on Computers in Education. Asia-Pacific Society for Computers in Education. https://arxiv.org/abs/2609.27265"
+    resource: "https://doi.org/10.48550/arxiv.2609.27265"
+    title: "Inoue, H., & Yasutake, K. (2026). What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data. Proceedings of the 34th International Conference on Computers in Education. Asia-Pacific Society for Computers in Education. https://arxiv.org/abs/2609.27265. [doi:10.48550/arxiv.2609.27265](https://doi.org/10.48550/arxiv.2609.27265)"
     author: "Inoue, H., & Yasutake, K."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Synthetic cohorts place week-to-week change in the term's examination weeks, which real cohorts do not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In every cohort the synthetic mean study time is higher in that year's own examination week and among the two highest of the eighteen, while in the real cohorts the mid-term week ranks ninth to fifteenth. [→ Inoue 2026](#inoue-2026)
@@ -50,7 +50,7 @@ Comparison of weekly mean study time placement across the four cohort pairs. The
 
 ### Inoue 2026 (2)
 
-Inoue, H., & Yasutake, K. (2026). What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data. Proceedings of the 34th International Conference on Computers in Education. Asia-Pacific Society for Computers in Education. https://arxiv.org/abs/2609.27265
+Inoue, H., & Yasutake, K. (2026). What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data. Proceedings of the 34th International Conference on Computers in Education. Asia-Pacific Society for Computers in Education. https://arxiv.org/abs/2609.27265. [doi:10.48550/arxiv.2609.27265](https://doi.org/10.48550/arxiv.2609.27265)
 
 `q2 · i?` · `design · r2`
 

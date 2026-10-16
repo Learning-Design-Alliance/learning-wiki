@@ -3,7 +3,7 @@ type: claim
 title: In a multimedia animation, participants focused more on signalled objects and detected fewer changes in other screen areas
 description: In a multimedia animation, participants focused more on signalled objects and detected fewer changes in other screen areas
 id: signalling-focuses-attention-reduces-change-detection-elsewhere
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

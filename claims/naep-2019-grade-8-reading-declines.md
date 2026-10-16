@@ -3,7 +3,7 @@ type: claim
 title: Grade 8 reading scores in 2019 decreased across the performance distribution, with greater decreases at the 10th and 25th percentiles
 description: Grade 8 reading scores in 2019 decreased across the performance distribution, with greater decreases at the 10th and 25th percentiles
 id: naep-2019-grade-8-reading-declines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
@@ -49,3 +49,4 @@ The NAEP 2019 results infographic reports grade 8 reading trends, printing "Decr
 - [Average reading scores in 2019 were lower in more than half of states at grade 8 and in approximately one-third of states at grade 4, while mathematics scores were mainly steady across states](naep-2019-state-reading-declines.md) — related
 - [Percentages of students at or above NAEP Proficient were unchanged in mathematics and lower in reading since 2017 at grades 4 and 8](naep-2019-proficient-unchanged-math-lower-reading.md) — related
 - [Among the 27 participating TUDA districts, mathematics and reading scores were relatively stable since 2017, with most declines in grade 8 reading](naep-2019-tuda-stable-except-grade-8-reading.md) — related
+- Eighth-grade NAEP reading scores rose 1 point since 2005 and 3 points since 1992, but the increasing trend was not consistent across all assessment years and the percentage at or above Proficient showed no significant change — related

@@ -3,7 +3,7 @@ type: claim
 title: Prior HQIM mathematics impact studies show mixed results, with positive effects for Desmos and some Illustrative Mathematics contexts but no significant grade-6 difference
 description: Prior HQIM mathematics impact studies show mixed results, with positive effects for Desmos and some Illustrative Mathematics contexts but no significant grade-6 difference
 id: hqim-math-impact-studies-mixed-results
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

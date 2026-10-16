@@ -3,7 +3,7 @@ type: claim
 title: Technological knowledge of GenAI is strongly associated with self-perceived knowledge in technology-integrated domains
 description: Technological knowledge of GenAI is strongly associated with self-perceived knowledge in technology-integrated domains
 id: tk-strongly-associated-technology-integrated-domains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

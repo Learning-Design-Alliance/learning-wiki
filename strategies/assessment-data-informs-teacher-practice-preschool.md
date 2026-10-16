@@ -3,7 +3,7 @@ type: strategy
 id: assessment-data-informs-teacher-practice-preschool
 title: Use assessment data to inform teacher practice in preschool
 description: "The ELTM's approach, as titled by the report, is using assessment data to inform teacher practice: integrating a computerized adaptive assessment (CPAA) into preschool classroom practice alongside an existing teacher..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

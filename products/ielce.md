@@ -4,7 +4,7 @@ id: ielce
 title: IELCE
 description: A federally supported adult-education programme administered through state and local providers that combines English-language literacy instruction with civics education for adult learners, including immigrants.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
@@ -37,7 +37,7 @@ A federally supported adult-education programme administered through state and l
 -
 
 ## Key Sources
-- Covington, K. C. D. (2024). Examining the learner perspective in US immigrant adults: Socioeconomic status and the mission to successfully integrate. Doctoral study. https://eric.ed.gov/?id=ED660747
+- Covington, K. C. D. (2024). Examining the learner perspective in US immigrant adults: Socioeconomic status and the mission to successfully integrate. Doctoral study. https://eric.ed.gov/?id=ED660747. [doi:10.33422/ijhep.v6i4.1084](https://doi.org/10.33422/ijhep.v6i4.1084)
 
 <!-- merged 2026-10-10 from elements/ielce-five-performance-indicators ("IELCE integrated English literacy and civics education program with five performance indicators"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -81,5 +81,5 @@ The Integrated English Literacy and Civics Education (IELCE) initiative is a fed
 -
 
 ## Key Sources
-- Covington, K. C. D. (2024). Examining the learner perspective in US immigrant adults: Socioeconomic status and the mission to successfully integrate. Doctoral study. https://eric.ed.gov/?id=ED660747
+- Covington, K. C. D. (2024). Examining the learner perspective in US immigrant adults: Socioeconomic status and the mission to successfully integrate. Doctoral study. https://eric.ed.gov/?id=ED660747. [doi:10.33422/ijhep.v6i4.1084](https://doi.org/10.33422/ijhep.v6i4.1084)
 -->

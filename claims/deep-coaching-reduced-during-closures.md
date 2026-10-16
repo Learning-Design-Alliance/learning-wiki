@@ -3,7 +3,7 @@ type: claim
 title: Most edtech coaches stopped or reduced deep coaching during 2020 school closures to support more teachers
 description: Most edtech coaches stopped or reduced deep coaching during 2020 school closures to support more teachers
 id: deep-coaching-reduced-during-closures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Both procedural and descriptive writing scores improved significantly after GBSRI
 description: Both procedural and descriptive writing scores improved significantly after GBSRI
 id: gbsri-improves-procedural-and-descriptive-genres
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

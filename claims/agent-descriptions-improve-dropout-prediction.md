@@ -3,7 +3,7 @@ type: claim
 title: Agent-generated descriptions significantly improve prediction of student dropout in a lesson, outperforming all other measured approaches
 description: Agent-generated descriptions significantly improve prediction of student dropout in a lesson, outperforming all other measured approaches
 id: agent-descriptions-improve-dropout-prediction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

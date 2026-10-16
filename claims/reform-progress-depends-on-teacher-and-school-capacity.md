@@ -4,7 +4,7 @@ title: "Educational reform's progress depends on teachers' individual and collec
 description: "Educational reform's progress depends on teachers' individual and collective capacity and its link with school-wide capacity for promoting pupils' learning"
 id: reform-progress-depends-on-teacher-and-school-capacity
 aliases: [building-capacity-critical-for-reform]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

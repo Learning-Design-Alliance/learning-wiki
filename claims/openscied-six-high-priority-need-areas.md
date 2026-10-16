@@ -3,7 +3,7 @@ type: claim
 title: "OpenSciEd practitioners' highest-priority needs group into six areas: student engagement, classroom culture, assessment, materials adaptation, planning/reflection time, and teacher capacity."
 description: "OpenSciEd practitioners' highest-priority needs group into six areas: student engagement, classroom culture, assessment, materials adaptation, planning/reflection time, and teacher capacity."
 id: openscied-six-high-priority-need-areas
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

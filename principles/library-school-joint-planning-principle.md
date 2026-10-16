@@ -3,7 +3,7 @@ type: principle
 id: library-school-joint-planning-principle
 title: Library-school collaboration must involve librarians working side-by-side with teachers on joint planning with mutual benefit
 description: The CLASP evaluation concluded that successful library-school collaboration requires librarians and teachers to work together in genuine partnership rather than parallel operation.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

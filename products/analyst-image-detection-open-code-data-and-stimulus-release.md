@@ -4,7 +4,7 @@ id: analyst-image-detection-open-code-data-and-stimulus-release
 title: Analyst image-detection open code, data, and stimulus release
 description: A public GitHub release by Negar Kamali and colleagues containing study code, de-identified data, and balanced real and AI-generated stimulus images for research on human detection of diffusion-model imagery.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

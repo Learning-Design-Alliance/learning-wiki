@@ -3,7 +3,7 @@ type: claim
 title: California LEAs most commonly supported social-emotional learning through play-based learning and supported students with disabilities through instructional adaptations and added staff
 description: California LEAs most commonly supported social-emotional learning through play-based learning and supported students with disabilities through instructional adaptations and added staff
 id: play-based-sel-and-disability-supports-in-tk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

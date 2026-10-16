@@ -3,7 +3,7 @@ type: claim
 title: Most pilot teachers found the Write to Succeed materials helpful, and teachers and coaches benefited from seeing practices modeled
 description: Most pilot teachers found the Write to Succeed materials helpful, and teachers and coaches benefited from seeing practices modeled
 id: wts-materials-and-modeling-rated-helpful
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

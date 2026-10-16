@@ -3,7 +3,7 @@ type: claim
 title: Four-year and six-year completion rates varied widely by college, with gaps between colleges of up to 27 percentage points in four-year rates hidden by similar six-year rates
 description: Four-year and six-year completion rates varied widely by college, with gaps between colleges of up to 27 percentage points in four-year rates hidden by similar six-year rates
 id: college-level-four-six-year-rate-divergence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

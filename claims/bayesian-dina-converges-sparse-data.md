@@ -3,7 +3,7 @@ type: claim
 title: "A Bayesian DINA model converges successfully on educational response data with 91.3% sparsity where the EM algorithm failed"
 description: "A Bayesian DINA model converges successfully on educational response data with 91.3% sparsity where the EM algorithm failed"
 id: bayesian-dina-converges-sparse-data
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

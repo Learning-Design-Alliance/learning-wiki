@@ -3,7 +3,7 @@ type: element
 id: tif-performance-feedback-and-pay-for-performance-strategies
 title: Teacher Incentive Fund (TIF) educator evaluation and compensation strategies
 description: "This element comprises the two educator-effectiveness strategies examined in the brief's underlying IES studies: performance feedback, in which \"research-based performance measures\" are used \"to evaluate educators and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

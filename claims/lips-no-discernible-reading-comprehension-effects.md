@@ -3,7 +3,7 @@ type: claim
 title: LiPS has no discernible effects on reading comprehension for students with learning disabilities
 description: LiPS has no discernible effects on reading comprehension for students with learning disabilities
 id: lips-no-discernible-reading-comprehension-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: strategy
 id: basie-application-steps
 title: "Apply BASIE through four key steps: selecting prior evidence, reporting estimates, interpreting estimates, and sensitivity analyses"
 description: The guide prescribes a workflow for applying BASIE when interpreting evaluation findings.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

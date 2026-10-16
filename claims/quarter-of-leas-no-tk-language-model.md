@@ -3,7 +3,7 @@ type: claim
 title: "More than a quarter of California LEAs offered no classroom language model for multilingual TK students, and 38% of those LEAs serve populations where a third or more students are English learners"
 description: "More than a quarter of California LEAs offered no classroom language model for multilingual TK students, and 38% of those LEAs serve populations where a third or more students are English learners"
 id: quarter-of-leas-no-tk-language-model
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

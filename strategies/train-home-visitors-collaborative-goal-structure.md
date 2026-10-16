@@ -3,7 +3,7 @@ type: strategy
 id: train-home-visitors-collaborative-goal-structure
 title: Provide home visitors training and a structure for collaborative goal setting with attainable, child-focused goals
 description: "The article recommends that programs train and structure home visitors' goal-setting work so that all caregivers are consistently engaged in collaborative goal setting, goals include child-focused as well as parenting..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

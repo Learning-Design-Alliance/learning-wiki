@@ -3,7 +3,7 @@ type: strategy
 id: field-notes-dialogical-data-generation
 title: Return observational field-notes to teachers and discuss critical episodes in team meetings as dialogical data generation
 description: In the study, transcribed field-notes were returned to teachers, who were invited to look for evidence of constitutive values in practice; follow-up team discussions were tape-recorded and transcribed.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

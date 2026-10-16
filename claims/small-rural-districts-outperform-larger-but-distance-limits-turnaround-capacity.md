@@ -3,7 +3,7 @@ type: claim
 title: Smaller rural districts tend to outperform larger ones, but large geographic spread limits their capacity to manage turnaround efforts
 description: Smaller rural districts tend to outperform larger ones, but large geographic spread limits their capacity to manage turnaround efforts
 id: small-rural-districts-outperform-larger-but-distance-limits-turnaround-capacity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

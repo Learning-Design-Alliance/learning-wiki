@@ -3,7 +3,7 @@ type: strategy
 id: metadata-variables-support-teacher-resource-selection
 title: "Use observable pedagogical variables as metadata to support teachers' explicit selection and integration of digital resources"
 description: The article recommends structuring learning-theory principles as observable pedagogical variables in metadata so that teachers can analyze and select digital resources using explicit criteria.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

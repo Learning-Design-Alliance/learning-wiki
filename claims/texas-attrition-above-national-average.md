@@ -3,7 +3,7 @@ type: claim
 title: "Texas teacher attrition has exceeded the national average by about 25% over the past decade, reaching nearly 12% in 2021–22"
 description: "Texas teacher attrition has exceeded the national average by about 25% over the past decade, reaching nearly 12% in 2021–22"
 id: texas-attrition-above-national-average
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: The few studies of student outcomes suggest residency graduates perform as well as or better than other novice teachers on student outcome measures
 description: The few studies of student outcomes suggest residency graduates perform as well as or better than other novice teachers on student outcome measures
 id: residency-graduates-student-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

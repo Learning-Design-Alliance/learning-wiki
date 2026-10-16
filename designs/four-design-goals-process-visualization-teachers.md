@@ -3,7 +3,7 @@ type: design
 id: four-design-goals-process-visualization-teachers
 title: "Four design goals for teacher-facing programming-process visualization: visibility, workflow support, formative feedback, and non-automated integrity clarification"
 description: "The article organizes the tool's design around four stated goals: DG1 making students' programming processes visible to teachers through interpretable views; DG2 supporting teacher decision-making through workflows fo..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: The closed-loop adaptation law is stable only when the adaptation gain is small relative to behavioural responsiveness
 description: The closed-loop adaptation law is stable only when the adaptation gain is small relative to behavioural responsiveness
 id: bavd-closed-loop-stability-contraction-condition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

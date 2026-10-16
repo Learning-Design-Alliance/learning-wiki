@@ -3,7 +3,7 @@ type: strategy
 id: analyze-networks-at-initiative-outset
 title: Analyze pre-existing network structures and points of leverage at the outset of a cross-sector reform initiative
 description: "Among the report's considerations for the future, it recommends that \"Future efforts like this might benefit from deliberate analysis of the pre-existing networks, the missing links, and the best strategies for dissem..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

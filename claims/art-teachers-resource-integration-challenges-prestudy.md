@@ -3,7 +3,7 @@ type: claim
 title: Pre-study survey found most art teachers spend 1-3 hours daily planning and struggle to integrate and assess teaching resources across platforms
 description: Pre-study survey found most art teachers spend 1-3 hours daily planning and struggle to integrate and assess teaching resources across platforms
 id: art-teachers-resource-integration-challenges-prestudy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

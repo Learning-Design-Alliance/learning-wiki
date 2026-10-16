@@ -3,7 +3,7 @@ type: claim
 title: "Ivy's principal identifies building culture and relationships as his foremost leadership responsibility for student learning"
 description: "Ivy's principal identifies building culture and relationships as his foremost leadership responsibility for student learning"
 id: ivy-principal-culture-relationships-priority
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

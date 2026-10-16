@@ -3,7 +3,7 @@ type: research-method
 id: adaptive-self-referenced-testing-asrt
 title: Adaptive Self-Referenced Testing (ASRT)
 description: "ASRT is a proposed framework, arising from the project's finding that norm-referenced and criterion-referenced approaches lack a common structure, for measuring individual improvement in achievement during instruction."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

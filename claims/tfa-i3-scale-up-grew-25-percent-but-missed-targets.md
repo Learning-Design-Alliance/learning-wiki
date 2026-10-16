@@ -3,7 +3,7 @@ type: claim
 title: During the first two years of the i3 scale-up, TFA expanded its corps by 25 percent but fell short of annual targets for increasing the number of teachers and teacher effectiveness
 description: During the first two years of the i3 scale-up, TFA expanded its corps by 25 percent but fell short of annual targets for increasing the number of teachers and teacher effectiveness
 id: tfa-i3-scale-up-grew-25-percent-but-missed-targets
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

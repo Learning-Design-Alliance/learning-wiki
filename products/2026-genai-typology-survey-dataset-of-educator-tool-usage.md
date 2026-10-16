@@ -4,7 +4,7 @@ id: 2026-genai-typology-survey-dataset-of-educator-tool-usage
 title: 2026 GenAI Typology survey dataset of educator tool usage
 description: An internationally collected survey dataset of 211 educators across nine countries and education levels, released by Matt Bower et al., documenting the generative-AI tools educators reported using across nine typology categories.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

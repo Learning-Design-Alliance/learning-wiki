@@ -3,7 +3,7 @@ type: claim
 title: Strong relational trust and cooperative adult effort distinguish improving schools from schools with flat or declining test scores
 description: Strong relational trust and cooperative adult effort distinguish improving schools from schools with flat or declining test scores
 id: relational-trust-linked-school-improvement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

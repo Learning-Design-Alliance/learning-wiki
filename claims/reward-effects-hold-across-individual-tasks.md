@@ -3,7 +3,7 @@ type: claim
 title: Reward effects hold across individual creativity tasks, with immediate reward significant on all four tasks and delayed reward on three
 description: Reward effects hold across individual creativity tasks, with immediate reward significant on all four tasks and delayed reward on three
 id: reward-effects-hold-across-individual-tasks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

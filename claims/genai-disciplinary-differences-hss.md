@@ -3,7 +3,7 @@ type: claim
 title: "Perceived GenAI gains differ by discipline: arts and economics/management students report stronger cognitive and motivational gains than education and law students"
 description: "Perceived GenAI gains differ by discipline: arts and economics/management students report stronger cognitive and motivational gains than education and law students"
 id: genai-disciplinary-differences-hss
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

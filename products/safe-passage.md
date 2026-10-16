@@ -4,7 +4,7 @@ id: safe-passage
 title: Safe Passage
 description: A Chicago Public Schools initiative that places adult monitors along predetermined routes to help students travel safely to and from designated schools.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

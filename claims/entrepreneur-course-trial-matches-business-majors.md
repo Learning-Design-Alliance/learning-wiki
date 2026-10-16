@@ -3,7 +3,7 @@ type: claim
 title: In one trial, task-centered Entrepreneur course students analyzed a new business as well as completed business majors
 description: In one trial, task-centered Entrepreneur course students analyzed a new business as well as completed business majors
 id: entrepreneur-course-trial-matches-business-majors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

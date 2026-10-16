@@ -3,7 +3,7 @@ type: claim
 title: Teachers who positioned AI as a partner remained instructional leaders, weaving the tool into rich instruction and using score data to decide what to re-teach
 description: Teachers who positioned AI as a partner remained instructional leaders, weaving the tool into rich instruction and using score data to decide what to re-teach
 id: partner-positioning-instructional-leadership
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

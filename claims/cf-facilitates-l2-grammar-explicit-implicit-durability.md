@@ -3,7 +3,7 @@ type: claim
 title: Corrective feedback facilitates L2 grammatical development, with explicit feedback stronger immediately and implicit feedback better maintained over time
 description: Corrective feedback facilitates L2 grammatical development, with explicit feedback stronger immediately and implicit feedback better maintained over time
 id: cf-facilitates-l2-grammar-explicit-implicit-durability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
@@ -74,3 +74,7 @@ The review reports two findings from the same meta-analysis: explicit feedback b
 - [Metalinguistic written CF was equivalent, not superior, to non-metalinguistic direct CF, contrasting with previous studies whose metalinguistic CF also contained correct forms.](metalinguistic-cf-equivalent-not-superior-to-direct.md) — a narrower finding that bears on this claim
 - [CF effectiveness is mediated by multiple variables, including linguistic targets and learners' age](cf-effectiveness-mediated-by-linguistic-targets-and-age.md) — related
 - [Theoretical perspectives support corrective feedback while contentious issues remain about uptake, instruction, and CF's purpose](theoretical-perspectives-cf-uptake-instruction-purpose.md) — related
+- [Explicit instruction facilitates the acquisition of L2 grammar](explicit-instruction-facilitates-l2-grammar-acquisition.md) — related
+- [Form-focused instruction on noun endings significantly increases French immersion students' ability to correctly assign grammatical gender, with gains maintained on delayed posttests](ffi-noun-endings-improves-gender-attribution.md) — related
+- [Explicit metalinguistic feedback outperforms recasts on the delayed oral imitation posttest measuring implicit knowledge](metalinguistic-feedback-beats-recasts-delayed-oral-imitation.md) — a narrower finding that bears on this claim
+- [Prompts were overall more effective than recasts as corrective feedback for L2 grammar learning](prompts-more-effective-than-recasts-overall.md) — a narrower finding that bears on this claim

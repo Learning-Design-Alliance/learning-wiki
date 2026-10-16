@@ -3,7 +3,7 @@ type: claim
 title: "An ACO-derived 12-item short form (GenAI-SRL-12) retains the full scale's factor structure, reliability, and construct equivalence"
 description: "An ACO-derived 12-item short form (GenAI-SRL-12) retains the full scale's factor structure, reliability, and construct equivalence"
 id: genai-srl-12-short-form-retains-psychometrics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

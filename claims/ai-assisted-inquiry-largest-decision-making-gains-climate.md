@@ -3,7 +3,7 @@ type: claim
 title: AI-assisted inquiry produced larger decision-making gains than inquiry-only and traditional instruction in secondary climate-change education
 description: AI-assisted inquiry produced larger decision-making gains than inquiry-only and traditional instruction in secondary climate-change education
 id: ai-assisted-inquiry-largest-decision-making-gains-climate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: st-math-professional-development-strategy
 title: Provide on-site first-year training of 4-5 hours plus building-level ongoing support each year of ST Math implementation
 description: "MIND Research Institute provides initial professional development: self-guided online training on \"startup, teacher and student navigation, and reporting\", followed by courses on \"the research basis and pedagogical as..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

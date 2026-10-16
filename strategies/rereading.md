@@ -69,7 +69,7 @@ Rereading works because repetition drives words toward automatic recognition, wh
 
 ## Examples
 - **Repeated Readings intervention (Samuels, 1979)** — a student reads a 50–200 word passage four times, aiming for a fluency criterion on each pass; the basis of most fluency interventions.
-- **Reading Recovery (https://readingrecovery.org)** — one-to-one tutoring in which children reread familiar books at the start of every lesson to consolidate word recognition before tackling new text.
+- **[Reading Recovery](../products/reading-recovery.md) (https://readingrecovery.org)** — one-to-one tutoring in which children reread familiar books at the start of every lesson to consolidate word recognition before tackling new text.
 - **Fluency-oriented reading instruction (FORI)** — a whole-class routine combining teacher read-aloud, echo reading, partner rereading, and home rereading of the same weekly passage.
 - **Rereading complex texts in discussion-based ELA curricula** (e.g., International Baccalaureate English units) — students reread a literary passage with a different analytical question each pass before seminar discussion.
 

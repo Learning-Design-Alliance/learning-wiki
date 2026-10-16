@@ -3,7 +3,7 @@ type: claim
 title: Grade 2 students receiving Really Great Reading instruction scored higher on the NWEA MAP Reading Growth assessment in winter 2022
 description: Grade 2 students receiving Really Great Reading instruction scored higher on the NWEA MAP Reading Growth assessment in winter 2022
 id: rgr-grade2-higher-map-winter-2022
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

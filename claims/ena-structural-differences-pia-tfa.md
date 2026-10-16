@@ -3,7 +3,7 @@ type: claim
 title: PIA and TFA types differ structurally in deliberative networks, with PIA centred on establishing strategy, educating, agreeing and monitoring
 description: PIA and TFA types differ structurally in deliberative networks, with PIA centred on establishing strategy, educating, agreeing and monitoring
 id: ena-structural-differences-pia-tfa
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

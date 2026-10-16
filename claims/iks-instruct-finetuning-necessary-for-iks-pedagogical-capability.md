@@ -3,7 +3,7 @@ type: claim
 title: "IKS-Instruct fine-tuning is necessary for IKS pedagogical capability: a compact 7B fine-tune reaches a median judge score of 6.39, within 0.15 of a general-purpose reference, while the base model scores near zero on IKS-specific dimensions"
 description: "IKS-Instruct fine-tuning is necessary for IKS pedagogical capability: a compact 7B fine-tune reaches a median judge score of 6.39, within 0.15 of a general-purpose reference, while the base model scores near zero on I..."
 id: iks-instruct-finetuning-necessary-for-iks-pedagogical-capability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

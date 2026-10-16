@@ -3,7 +3,7 @@ type: claim
 title: Growth in self-management between 6th and 8th grade predicts being off track academically in 9th grade above and beyond 6th-grade self-management status
 description: Growth in self-management between 6th and 8th grade predicts being off track academically in 9th grade above and beyond 6th-grade self-management status
 id: self-management-growth-predicts-off-track-beyond-status
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Seasonal comparisons can test whether schooling exacerbates, reduces, or reproduces overall skill inequality
 description: Seasonal comparisons can test whether schooling exacerbates, reduces, or reproduces overall skill inequality
 id: seasonal-comparisons-test-schooling-inequality-mechanism
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

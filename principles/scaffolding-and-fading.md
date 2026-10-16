@@ -157,7 +157,7 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 
 - **[Khan Academy Hints](https://www.khanacademy.org)** — Provides on-demand, progressive hints that scaffold a problem-solving task; the learner is encouraged to use fewer hints as they progress.
 - **[Codecademy Completion Problems](https://www.codecademy.com)** — Initially provides full code examples, then transitions to "fill-in-the-blank" code, and finally to independent coding challenges.
-- **Faded Worked Examples** — A sequence where the first problem is fully worked, the second is half-worked, and the third is a full problem to solve.
+- **[Faded Worked Examples](../strategies/faded-worked-examples.md)** — A sequence where the first problem is fully worked, the second is half-worked, and the third is a full problem to solve.
 - [Provide worked examples during seatwork and homework to increase exposure to problem solving and reduce learning time](../strategies/worked-examples-seatwork-homework-problem-solving.md)
 - [Design AI educational systems that fade support and require learner justification to preserve independent problem solving](../strategies/fade-ai-support-require-justification.md)
 - [Use scaffolding techniques to help students complete tasks within their zones of proximal development](../strategies/scaffolding-within-zpd-classroom-strategy.md)
@@ -165,6 +165,7 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - [When uncertain about a learner's level, begin with high direction and support and keep reassessing](../strategies/start-high-support-when-in-doubt.md)
 - [Regulate fading rate per learner, distinguishing perceived fading rate (teacher-set) from actual fading rate (child-set)](../strategies/perceived-versus-actual-fading-rate-strategy.md)
 - [Use hands-on practice and immediate feedback in bibliographic instruction for ESL students](../strategies/hands-on-instruction-esl-students.md)
+- [Use learner skill levels to determine when to transition from worked examples to problem solving in tutoring systems](../strategies/skill-based-adaptive-fading-schedule.md)
 
 ## Key Sources
 - Kupers, E., van Dijk, M., & van Geert, P. (2017). Changing Patterns of Scaffolding and Autonomy During Individual Music Lessons: A Mixed Methods Approach. *Journal of the Learning Sciences, 26*(1), 131-166. [https://doi.org/10.1080/10508406.2016.1259624](https://doi.org/10.1080/10508406.2016.1259624)

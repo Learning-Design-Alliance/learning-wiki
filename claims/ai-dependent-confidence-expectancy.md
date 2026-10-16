@@ -3,7 +3,7 @@ type: claim
 title: Some students described confidence in programming that depended on AI being available
 description: Some students described confidence in programming that depended on AI being available
 id: ai-dependent-confidence-expectancy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

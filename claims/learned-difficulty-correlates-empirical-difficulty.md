@@ -3,7 +3,7 @@ type: claim
 title: Learned difficulty parameters show a moderate positive correlation with empirical KC difficulty on QATD2k
 description: Learned difficulty parameters show a moderate positive correlation with empirical KC difficulty on QATD2k
 id: learned-difficulty-correlates-empirical-difficulty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

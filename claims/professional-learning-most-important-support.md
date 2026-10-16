@@ -3,7 +3,7 @@ type: claim
 title: Professional learning, broadly defined to include teacher collaboration, coaching, and workshops, was the most important support strategy for instructional change
 description: Professional learning, broadly defined to include teacher collaboration, coaching, and workshops, was the most important support strategy for instructional change
 id: professional-learning-most-important-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Asking the class to agree with a student's answer and directing students to help one another are associated with higher math achievement"
 description: "Asking the class to agree with a student's answer and directing students to help one another are associated with higher math achievement"
 id: class-agreement-and-peer-help-higher-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

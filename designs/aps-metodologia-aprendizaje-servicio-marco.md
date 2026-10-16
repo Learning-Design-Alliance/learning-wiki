@@ -3,7 +3,7 @@ type: design
 id: aps-metodologia-aprendizaje-servicio-marco
 title: La metodología Aprendizaje-Servicio (ApS) como marco para desarrollar competencias prácticas y valores en estudiantes universitarios
 description: El catálogo presenta el Aprendizaje-Servicio (ApS) como metodología socioeducativa aplicada desde la educación física y el deporte.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-15

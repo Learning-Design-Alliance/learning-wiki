@@ -2,7 +2,7 @@
 type: claim
 title: Academic historians' epistemic processes extend well beyond source analysis and writing
 id: historians-epistemic-processes-extend-beyond-source-analysis
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

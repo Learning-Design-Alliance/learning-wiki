@@ -4,7 +4,7 @@ id: michigan-multi-tiered-system-of-supports
 title: Michigan Multi-Tiered System of Supports
 description: A framework developed and supported by the Michigan Multi-Tiered System of Supports Technical Assistance Center for designing and implementing Tier 2 academic and behavioral supports, including reading interventions.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

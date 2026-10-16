@@ -3,7 +3,7 @@ type: claim
 title: A reflective lesson on LLM functioning and educational impacts shifted physics students toward greater skepticism about LLM learning impacts
 description: A reflective lesson on LLM functioning and educational impacts shifted physics students toward greater skepticism about LLM learning impacts
 id: reflective-lesson-increases-llm-skepticism
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

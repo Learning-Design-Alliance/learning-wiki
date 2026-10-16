@@ -3,7 +3,7 @@ type: claim
 title: "CPS immediate college enrollment rate outperforms the most recent national rate by 5 percentage points (66% vs. 61%)"
 description: "CPS immediate college enrollment rate outperforms the most recent national rate by 5 percentage points (66% vs."
 id: cps-college-enrollment-beats-national-5-points
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

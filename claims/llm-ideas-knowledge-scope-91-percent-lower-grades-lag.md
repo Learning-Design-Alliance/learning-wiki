@@ -3,7 +3,7 @@ type: claim
 title: "91% of LLM-simulated ideas fell within grade-level knowledge scope, but within-scope proportions were significantly lower for elementary and middle school than high school"
 description: "91% of LLM-simulated ideas fell within grade-level knowledge scope, but within-scope proportions were significantly lower for elementary and middle school than high school"
 id: llm-ideas-knowledge-scope-91-percent-lower-grades-lag
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

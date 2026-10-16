@@ -3,7 +3,7 @@ type: claim
 title: Retention rates for Black/African American and Hispanic/Latino students dropped more steeply between the second and third semesters than for White and Asian students in both cohorts
 description: Retention rates for Black/African American and Hispanic/Latino students dropped more steeply between the second and third semesters than for White and Asian students in both cohorts
 id: eo1110-retention-gaps-widen-by-ethnicity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

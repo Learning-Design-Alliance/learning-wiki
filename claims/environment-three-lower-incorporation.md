@@ -3,7 +3,7 @@ type: claim
 title: The third ERD environment showed fewer later saved ERDs, more episodes without target-level revision, and lower early-stage incorporation than the other two environments
 description: The third ERD environment showed fewer later saved ERDs, more episodes without target-level revision, and lower early-stage incorporation than the other two environments
 id: environment-three-lower-incorporation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Speaking practice opportunities and teacher support reduced classroom anxiety and increased self-efficacy for one learner
 description: Speaking practice opportunities and teacher support reduced classroom anxiety and increased self-efficacy for one learner
 id: speaking-practice-reduced-flca-increased-self-efficacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

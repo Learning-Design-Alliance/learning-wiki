@@ -3,7 +3,7 @@ type: claim
 title: Schools vary widely in freshman on-track rates even among students with similar backgrounds
 description: Schools vary widely in freshman on-track rates even among students with similar backgrounds
 id: school-differences-in-on-track-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

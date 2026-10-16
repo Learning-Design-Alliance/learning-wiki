@@ -3,7 +3,7 @@ type: claim
 title: CSPP pre-referral processes mirror the K-12 MTSS approach and apply fundamentally the same steps to ML and non-ML children
 description: CSPP pre-referral processes mirror the K-12 MTSS approach and apply fundamentally the same steps to ML and non-ML children
 id: cspp-prereferral-mirrors-mtss-same-for-ml-children
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

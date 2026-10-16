@@ -3,7 +3,7 @@ type: claim
 title: Learner attributes differ sharply in how reliably they can be recovered from tutoring dialogue, with behavioral traits slow to surface
 description: Learner attributes differ sharply in how reliably they can be recovered from tutoring dialogue, with behavioral traits slow to surface
 id: differential-observability-learner-attributes-dialogue
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

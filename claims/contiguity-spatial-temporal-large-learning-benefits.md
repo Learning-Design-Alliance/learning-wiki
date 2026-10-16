@@ -3,7 +3,7 @@ type: claim
 title: Presenting related material contiguously in space and time yields large learning benefits
 description: Presenting related material contiguously in space and time yields large learning benefits
 id: contiguity-spatial-temporal-large-learning-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

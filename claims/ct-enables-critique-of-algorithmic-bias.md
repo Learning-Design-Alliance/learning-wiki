@@ -3,7 +3,7 @@ type: claim
 title: Inclusive CT learning engages students in critiquing bias in real technological systems
 description: Inclusive CT learning engages students in critiquing bias in real technological systems
 id: ct-enables-critique-of-algorithmic-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

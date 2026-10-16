@@ -3,7 +3,7 @@ type: claim
 title: "Verification bottleneck: as reliance on AI increases, accuracy in detecting AI errors decreases while confidence does not"
 description: "Verification bottleneck: as reliance on AI increases, accuracy in detecting AI errors decreases while confidence does not"
 id: verification-bottleneck-confidence-dissociation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

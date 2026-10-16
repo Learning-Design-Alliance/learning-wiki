@@ -3,7 +3,7 @@ type: strategy
 id: paired-interviews-early-group-bonding
 title: "Use paired interviews early in a group's life to build connections and surface participant information"
 description: The guide recommends paired interviews in the early stages of a group so members start connecting quickly.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

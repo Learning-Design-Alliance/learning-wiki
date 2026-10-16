@@ -3,7 +3,7 @@ type: strategy
 id: ai-integrity-practices-science-classroom
 title: Embed explicit AI-integrity practices such as ethics lessons, usage pledges, and AI-output marking into science instruction
 description: This strategy packages the classroom practices teachers in the study used to supervise ethical AI use in science learning.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

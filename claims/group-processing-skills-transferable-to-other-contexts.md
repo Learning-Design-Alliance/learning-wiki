@@ -3,7 +3,7 @@ type: claim
 title: Most former students reported using group processing after their seminar and rated it as transferable to other contexts
 description: Most former students reported using group processing after their seminar and rated it as transferable to other contexts
 id: group-processing-skills-transferable-to-other-contexts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

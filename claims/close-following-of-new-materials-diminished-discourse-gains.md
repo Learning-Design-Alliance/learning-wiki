@@ -3,7 +3,7 @@ type: claim
 title: "In Oceanside, teachers' successes in supporting student academic discourse diminished when teachers followed newly adopted instructional materials too closely"
 description: "In Oceanside, teachers' successes in supporting student academic discourse diminished when teachers followed newly adopted instructional materials too closely"
 id: close-following-of-new-materials-diminished-discourse-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

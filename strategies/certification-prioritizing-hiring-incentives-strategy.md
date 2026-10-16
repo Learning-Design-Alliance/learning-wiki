@@ -3,7 +3,7 @@ type: strategy
 id: certification-prioritizing-hiring-incentives-strategy
 title: "District hiring and incentive structures that prioritize certification: screening requirements, time limits for uncertified teachers, salary differentials, and designated certification staff"
 description: The report describes a bundle of district practices that prioritize certification across recruitment, hiring, and employment.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

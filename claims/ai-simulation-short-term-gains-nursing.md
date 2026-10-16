@@ -3,7 +3,7 @@ type: claim
 title: AI-powered simulations show short-term gains in communication confidence and structured knowledge in RCTs, with limited or inferior effects for tactile psychomotor skills
 description: AI-powered simulations show short-term gains in communication confidence and structured knowledge in RCTs, with limited or inferior effects for tactile psychomotor skills
 id: ai-simulation-short-term-gains-nursing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

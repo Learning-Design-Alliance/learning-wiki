@@ -2,7 +2,7 @@
 type: theory
 title: "Four types of practice: deliberate, purposeful, structured, and naive"
 description: Drawing on Ericsson and Pool (2016) and Ericsson (2020), the article presents a taxonomy of four practice forms.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

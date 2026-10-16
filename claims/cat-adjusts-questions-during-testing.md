@@ -3,7 +3,7 @@ type: claim
 title: CAT adjusts test questions as the testing goes along
 description: CAT adjusts test questions as the testing goes along
 id: cat-adjusts-questions-during-testing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -4,7 +4,7 @@ id: cogevol-4b-open-weight-model-release-with-gguf-build-and-maic-ui-editing-har
 title: CogEvol-4B open-weight model release with GGUF build and MAIC-UI editing harness
 description: CogEvol-4B is an Apache 2.0-licensed open-weight model and deployment package from the CogEvol Team for generating presentation slides and interactive HTML courseware, including an on-device GGUF build and MAIC-UI editing harness.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

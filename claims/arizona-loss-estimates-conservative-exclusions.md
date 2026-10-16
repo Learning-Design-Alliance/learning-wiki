@@ -3,7 +3,7 @@ type: claim
 title: "The report's loss estimates are conservative because they exclude health, psychological, family, community, and broader societal costs that cannot be monetized"
 description: "The report's loss estimates are conservative because they exclude health, psychological, family, community, and broader societal costs that cannot be monetized"
 id: arizona-loss-estimates-conservative-exclusions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

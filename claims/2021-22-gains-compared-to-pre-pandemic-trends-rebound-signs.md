@@ -3,7 +3,7 @@ type: claim
 title: The 2021-22 study investigated whether achievement gains across the 2021-22 school year compared to pre-pandemic trends and whether there were initial signs of rebounding or recovery.
 description: The 2021-22 study investigated whether achievement gains across the 2021-22 school year compared to pre-pandemic trends and whether there were initial signs of rebounding or recovery.
 id: 2021-22-gains-compared-to-pre-pandemic-trends-rebound-signs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

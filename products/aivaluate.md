@@ -4,7 +4,7 @@ id: aivaluate
 title: AIvaluate
 description: AIvaluate is a browser-based conversational assessment agent developed by Habeeb Yusuf et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

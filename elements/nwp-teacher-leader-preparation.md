@@ -3,7 +3,7 @@ type: element
 id: nwp-teacher-leader-preparation
 title: National Writing Project teacher-leader preparation for facilitating professional development
 description: "The National Writing Project's preparation of teachers to lead one of its professional development programs is the source of the brief's insights."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

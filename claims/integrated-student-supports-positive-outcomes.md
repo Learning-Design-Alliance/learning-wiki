@@ -3,7 +3,7 @@ type: claim
 title: Integrated student supports are associated with improvements in attendance, behavior, social functioning, and academic achievement
 description: Integrated student supports are associated with improvements in attendance, behavior, social functioning, and academic achievement
 id: integrated-student-supports-positive-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

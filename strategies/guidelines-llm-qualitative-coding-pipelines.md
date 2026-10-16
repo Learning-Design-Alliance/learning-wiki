@@ -3,7 +3,7 @@ type: strategy
 id: guidelines-llm-qualitative-coding-pipelines
 title: Four guidelines for designing LLM-assisted qualitative coding pipelines
 description: The article distills its combined agreement and verification evidence into four guidelines for researchers designing large-scale coding pipelines.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -57,4 +57,4 @@ The article distills its combined agreement and verification evidence into four 
 -
 
 ## Key Sources
-- Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M. (2026). Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth. Preprint, no identifier printed in text. https://arxiv.org/abs/2607.28890
+- Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M. (2026). Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth. Preprint, no identifier printed in text. https://arxiv.org/abs/2607.28890. [doi:10.48550/arxiv.2607.28890](https://doi.org/10.48550/arxiv.2607.28890)

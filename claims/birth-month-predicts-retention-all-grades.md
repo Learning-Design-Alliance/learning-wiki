@@ -3,7 +3,7 @@ type: claim
 title: Birth month is a significant predictor of retention at all grades, but its connection with achievement is substantial only in the lower primary grades
 description: Birth month is a significant predictor of retention at all grades, but its connection with achievement is substantial only in the lower primary grades
 id: birth-month-predicts-retention-all-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Most AI grading errors (87% for the best model) were attributable to transcription failures rather than rubric misapplication"
 description: "Most AI grading errors (87% for the best model) were attributable to transcription failures rather than rubric misapplication"
 id: transcription-failures-dominate-grading-errors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

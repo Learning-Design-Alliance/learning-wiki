@@ -3,7 +3,7 @@ type: claim
 title: Consensus calibration shows mild under-dispersion relative to the pooled benchmark, strongest for sparsely observed items, consistent with residual prior over-counting
 description: Consensus calibration shows mild under-dispersion relative to the pooled benchmark, strongest for sparsely observed items, consistent with residual prior over-counting
 id: mild-under-dispersion-low-exposure-items
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

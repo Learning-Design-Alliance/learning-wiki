@@ -3,7 +3,7 @@ type: strategy
 id: targeted-universalist-review-of-5essentials-subgroup-reports
 title: Use a targeted universalist approach to identify student groups with less positive survey reports and respond with empathy, curiosity, and support
 description: "The brief recommends that school leaders \"apply a targeted universalist approach to look for areas where particular student groups share less positive reports—and respond with empathy, curiosity, and support.\" This is..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

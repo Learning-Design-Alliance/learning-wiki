@@ -77,7 +77,7 @@ Social interaction around text is a core driver of reading engagement and volume
 - [Collaborative Learning](../patterns/collaborative-learning.md) — book clubs enact peer collaboration around authentic material
 
 ## Examples
-- **Literature Circles (Daniels, 2002)** — small student-led book clubs with rotating role sheets; the canonical structured sharing format for independent reading
+- **[Literature Circles](literature-circles.md) (Daniels, 2002)** — small student-led book clubs with rotating role sheets; the canonical structured sharing format for independent reading
 - **Concept-Oriented Reading Instruction (CORI)** — integrates self-selected reading with peer collaboration and sharing around thematic concepts; shown to raise comprehension and engagement (Guthrie et al., 2004)
 - **First Chapter Friday + book talks** — teachers or students share a book's opening chapter, then peers discuss and recommend; common in middle-grade classrooms and platforms like [Goodreads](https://www.goodreads.com) classroom groups
 

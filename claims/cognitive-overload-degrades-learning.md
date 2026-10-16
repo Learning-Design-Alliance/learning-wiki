@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Cognitive Overload Degrades Learning
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25
@@ -114,3 +114,4 @@ The founding cognitive load paper. It argues that conventional problem solving b
 - [Multimedia design principles improve learning by g = 0.38 on average across the 11 largest reviews, an effect the authors call moderate, with large differences between principles](multimedia-design-principles-improve-learning-overall.md) — related
 - [The learning benefit of increasing integration is substantially larger for high element interactivity (complex) materials than for low element interactivity materials](element-interactivity-moderates-contiguity-effect.md) — related
 - [Weeding extraneous information such as music and complex backgrounds improves retention and transfer from video](weeding-extraneous-content-improves-video-learning.md) — a narrower finding that bears on this claim
+- [Real-life complex tasks carry high intrinsic cognitive load, requiring new load-management methods](real-life-tasks-high-intrinsic-load-need-management.md) — related

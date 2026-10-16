@@ -3,7 +3,7 @@ type: strategy
 id: school-counselling-corrective-relationships-flexibility
 title: "School-based counselling that targets irrational beliefs, attachment patterns and anxiety to support students' cognitive flexibility"
 description: "The author recommends that determination of variables predicting cognitive flexibility support professionals' applications in school-based psychological counselling services."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

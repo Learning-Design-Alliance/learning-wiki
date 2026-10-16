@@ -3,7 +3,7 @@ type: claim
 title: "Client interviews suggest a recurring shift from treating AI as a passive answer machine (\"Oracle\") to engaging it as a collaborative tool under human direction (\"Process Partner\")"
 description: "Client interviews suggest a recurring shift from treating AI as a passive answer machine (\"Oracle\") to engaging it as a collaborative tool under human direction (\"Process Partner\")"
 id: oracle-to-process-partner-shift
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

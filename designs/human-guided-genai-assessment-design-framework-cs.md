@@ -3,7 +3,7 @@ type: design
 id: human-guided-genai-assessment-design-framework-cs
 title: Human-guided design framework for GenAI-enabled assessment in computer science education
 description: The paper advances a pedagogically grounded framework in which GenAI assessment integration is governed by deliberate human design rather than technological capability alone.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

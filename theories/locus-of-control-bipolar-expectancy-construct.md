@@ -2,7 +2,7 @@
 type: theory
 title: "Locus of control as a bipolar internal-external expectancy construct from Rotter's social learning theory"
 description: "The article describes locus of control, following Rotter (1966), as \"a generalized belief that certain factors control the events of one's life\", conceptualized as \"a bipolar continuum ranging from a belief in an exte..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -2,7 +2,7 @@
 type: theory
 title: "Cognitive Load Theory: working-memory limits, human cognitive architecture, and three load types"
 description: The article presents Cognitive Load Theory as a psychological theory from cognitive science, originated by John Sweller in the late 1980s, explaining how the design of learning materials affects learning given limited...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
@@ -57,6 +57,7 @@ The article presents Cognitive Load Theory as a psychological theory from cognit
 - [Chunking to Reduce Working Memory Load](../strategies/chunking_reduces_working_memory_load.md)
 - [Weeding](../strategies/weeding.md)
 - [Chunk Directions](../strategies/chunk_directions.md)
+- [Present information in a manner that encourages learner activities that optimize intellectual performance](../strategies/present-information-to-optimize-intellectual-performance.md)
 
 ## Key Sources
 - Houichi, A., & Sarnou, D. (2020). Cognitive Load Theory and its Relation to Instructional Design: Perspectives of Some Algerian University Teachers of English. Arab World English Journal. https://dx.doi.org/10.24093/awej/vol11no4.8

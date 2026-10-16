@@ -3,7 +3,7 @@ type: claim
 title: PPMC-N detects local dependence in dichotomous IRT models comparably to the Bayesian PPMC approach
 description: PPMC-N detects local dependence in dichotomous IRT models comparably to the Bayesian PPMC approach
 id: ppmc-n-comparable-to-bayesian-ppmc-local-dependence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

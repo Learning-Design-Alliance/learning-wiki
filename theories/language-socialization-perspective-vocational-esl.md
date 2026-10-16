@@ -2,7 +2,7 @@
 type: theory
 title: Language socialization perspective on combined language and occupational skills training
 description: "The article interprets participants' learning through a language socialization lens, in which language learning, sociocultural knowledge, and social interaction are interdependent."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

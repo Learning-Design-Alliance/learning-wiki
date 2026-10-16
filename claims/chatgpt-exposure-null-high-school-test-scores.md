@@ -3,7 +3,7 @@ type: claim
 title: Educational ChatGPT exposure shows no statistically significant effect on aggregate US high school test scores, with effects bounded below about 0.04 standard deviations
 description: Educational ChatGPT exposure shows no statistically significant effect on aggregate US high school test scores, with effects bounded below about 0.04 standard deviations
 id: chatgpt-exposure-null-high-school-test-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

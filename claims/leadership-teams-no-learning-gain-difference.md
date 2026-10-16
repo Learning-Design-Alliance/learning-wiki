@@ -3,7 +3,7 @@ type: claim
 title: One-year learning gains similar for schools with leadership teams and schools without Fund leaders or NBCTs
 description: One-year learning gains similar for schools with leadership teams and schools without Fund leaders or NBCTs
 id: leadership-teams-no-learning-gain-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

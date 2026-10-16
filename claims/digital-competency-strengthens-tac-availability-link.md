@@ -3,7 +3,7 @@ type: claim
 title: Digital competency strengthens the positive relationship between teacher–AI collaboration and psychological availability
 description: Digital competency strengthens the positive relationship between teacher–AI collaboration and psychological availability
 id: digital-competency-strengthens-tac-availability-link
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

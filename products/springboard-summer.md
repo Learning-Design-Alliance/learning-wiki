@@ -4,7 +4,7 @@ id: springboard-summer
 title: Springboard Summer
 description: Springboard Summer is a five-week intensive summer literacy programme run by Springboard Collaborative for rising kindergarteners through fourth graders, combining literacy instruction, family engagement, educator support, and incentives.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

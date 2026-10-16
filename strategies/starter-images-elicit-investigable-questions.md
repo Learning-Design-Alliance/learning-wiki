@@ -3,7 +3,7 @@ type: strategy
 id: starter-images-elicit-investigable-questions
 title: Use carefully chosen starter images to elicit student questions that are investigable with the given materials
 description: Students view pictures of stars one at a time and write questions on large sentence strips; the questions are later sorted by category and students select one to investigate in pairs.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -48,4 +48,4 @@ Students view pictures of stars one at a time and write questions on large sente
 -
 
 ## Key Sources
-- Rafelski, M., Foley, M., Graves, G. J., Kretke, K. A., Mills, E., Nassir, M., & Patel, S. (2010). Teaching Astronomy with an Inquiry Activity on Stellar Populations. ASP Conference Series. https://arxiv.org/abs/1009.5404
+- Rafelski, M., Foley, M., Graves, G. J., Kretke, K. A., Mills, E., Nassir, M., & Patel, S. (2010). Teaching Astronomy with an Inquiry Activity on Stellar Populations. ASP Conference Series. https://arxiv.org/abs/1009.5404. [doi:10.48550/arxiv.1009.5404](https://doi.org/10.48550/arxiv.1009.5404)

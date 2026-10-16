@@ -3,7 +3,7 @@ type: claim
 title: Grading recipes without calibration examples perform substantially worse on MAE, though multi-step without examples ranks second on QWK
 description: Grading recipes without calibration examples perform substantially worse on MAE, though multi-step without examples ranks second on QWK
 id: no-example-recipes-worse-mae
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

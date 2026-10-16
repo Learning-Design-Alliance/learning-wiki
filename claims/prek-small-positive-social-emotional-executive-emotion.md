@@ -3,7 +3,7 @@ type: claim
 title: Pre-kindergarten attendance yields small positive impacts on social-emotional development, executive functioning, and emotion recognition
 description: Pre-kindergarten attendance yields small positive impacts on social-emotional development, executive functioning, and emotion recognition
 id: prek-small-positive-social-emotional-executive-emotion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

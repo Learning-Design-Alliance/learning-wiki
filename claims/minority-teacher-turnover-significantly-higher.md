@@ -3,7 +3,7 @@ type: claim
 title: Minority teacher turnover rates have been significantly higher than nonminority turnover, and the gap widened after 2004
 description: Minority teacher turnover rates have been significantly higher than nonminority turnover, and the gap widened after 2004
 id: minority-teacher-turnover-significantly-higher
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

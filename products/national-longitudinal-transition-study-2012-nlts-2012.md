@@ -4,7 +4,7 @@ id: national-longitudinal-transition-study-2012-nlts-2012
 title: National Longitudinal Transition Study 2012 (NLTS 2012)
 description: A U.S.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

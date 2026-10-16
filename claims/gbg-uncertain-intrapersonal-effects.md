@@ -3,7 +3,7 @@ type: claim
 title: Good Behavior Game shows uncertain effects on intrapersonal competencies, with a pooled effect size of 0.14 that is not statistically significant
 description: Good Behavior Game shows uncertain effects on intrapersonal competencies, with a pooled effect size of 0.14 that is not statistically significant
 id: gbg-uncertain-intrapersonal-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

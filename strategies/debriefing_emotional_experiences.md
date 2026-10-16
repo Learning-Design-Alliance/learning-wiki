@@ -65,8 +65,8 @@ Naming emotions recruits verbal labeling that supports regulation — the "affec
 - [Action Planning](action_planning.md) — a natural follow-on that converts identified feelings into regulation strategies
 
 ## Examples
-- **RULER (Yale Center for Emotional Intelligence)** — the "Charter" and "Mood Meter" routines include structured emotional check-ins and debriefs; widely implemented in K–12 classrooms. https://ei.yale.edu
-- **Responsive Classroom (Center for Responsive Schools)** — the closing-circle routine ends the day with brief structured reflection and sharing, directly analogous to this strategy. https://www.responsiveclassroom.org
+- **[RULER](../products/ruler.md) (Yale Center for Emotional Intelligence)** — the "Charter" and "Mood Meter" routines include structured emotional check-ins and debriefs; widely implemented in K–12 classrooms. https://ei.yale.edu
+- **[Responsive Classroom](../products/responsive-classroom.md) (Center for Responsive Schools)** — the closing-circle routine ends the day with brief structured reflection and sharing, directly analogous to this strategy. https://www.responsiveclassroom.org
 - **Second Step (Committee for Children)** — SEL curriculum whose lesson debriefs ask students to name feelings from scenarios and from their own day. https://www.secondstep.org
 
 ## Key Sources

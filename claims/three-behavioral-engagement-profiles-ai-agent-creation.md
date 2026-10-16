@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' post-workshop platform engagement fell into three behavioral profiles, with most teachers showing minimal creation and browsing"
 description: "Teachers' post-workshop platform engagement fell into three behavioral profiles, with most teachers showing minimal creation and browsing"
 id: three-behavioral-engagement-profiles-ai-agent-creation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

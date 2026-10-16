@@ -3,7 +3,7 @@ type: claim
 title: Positive developmental relationships and school connectedness protect against violence, absenteeism, and substance abuse, and increase threat reporting
 description: Positive developmental relationships and school connectedness protect against violence, absenteeism, and substance abuse, and increase threat reporting
 id: positive-relationships-protect-against-violence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

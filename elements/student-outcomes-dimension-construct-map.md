@@ -3,7 +3,7 @@ type: element
 id: student-outcomes-dimension-construct-map
 title: "Student outcomes dimension: engagement, mindsets, belonging, and grade-level proficiency"
 description: "Dimension 6 of the construct map defines student outcomes as \"Students have positive learning experiences and master grade level content\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

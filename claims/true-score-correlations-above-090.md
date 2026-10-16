@@ -4,7 +4,7 @@ title: True-score-model correlations between term scores exceed 0.90 for almost 
 description: True-score-model correlations between term scores exceed 0.90 for almost all course-specific tests
 id: true-score-correlations-above-090
 aliases: [course-specific-term-score-correlations-above-090]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

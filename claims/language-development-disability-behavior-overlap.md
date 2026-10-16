@@ -3,7 +3,7 @@ type: claim
 title: Learning behaviors of typical multilingual development can resemble those of disability, complicating accurate identification
 description: Learning behaviors of typical multilingual development can resemble those of disability, complicating accurate identification
 id: language-development-disability-behavior-overlap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Practitioner governance activity in Australian Group of Eight institutions outpaces what the published GenAI literature has documented, while Indonesian participants report less formal scaffolding
 description: Practitioner governance activity in Australian Group of Eight institutions outpaces what the published GenAI literature has documented, while Indonesian participants report less formal scaffolding
 id: governance-practice-outpaces-genai-scholarship
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: strategy
 id: focus-groups-beyond-the-numbers
 title: Conduct focus groups to hear firsthand from multiple partners and build shared understanding beyond the numbers
 description: "Focus groups let leaders \"hear firsthand from multiple educational partners and create an environment in which participants can build on each other's ideas.\" Qualitative data from focus groups helps leaders see beyond..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

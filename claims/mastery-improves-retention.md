@@ -3,7 +3,7 @@ type: claim
 title: Group-based mastery learning improves retention of learned material, with an average effect size of .62 across four studies
 description: Group-based mastery learning improves retention of learned material, with an average effect size of .62 across four studies
 id: mastery-improves-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

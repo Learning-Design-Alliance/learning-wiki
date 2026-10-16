@@ -3,7 +3,7 @@ type: claim
 title: The software-product reporting gap persists within each review stage, and reported precision and recall vary widely across approaches
 description: The software-product reporting gap persists within each review stage, and reported precision and recall vary widely across approaches
 id: software-reporting-gap-persists-across-review-stages
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -18,8 +18,8 @@ sources:
     kind: associational
     rigour: 2
   - id: zabaleta-2026-2
-    resource: "https://arxiv.org/abs/2609.11559"
-    title: "Zabaleta, M. & Lin, B. (2026). PRISMA-LLM: An Empirical Reporting Framework for AI-Assisted Systematic Reviews. https://arxiv.org/abs/2609.11559"
+    resource: "https://doi.org/10.48550/arxiv.2609.11559"
+    title: "Zabaleta, M. & Lin, B. (2026). PRISMA-LLM: An Empirical Reporting Framework for AI-Assisted Systematic Reviews. https://arxiv.org/abs/2609.11559. [doi:10.48550/arxiv.2609.11559](https://doi.org/10.48550/arxiv.2609.11559)"
     author: "Zabaleta, M. & Lin, B."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # The software-product reporting gap persists within each review stage, and reported precision and recall vary widely across approaches
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Within each review-stage group since 2023, software/product papers report fewer evaluation items and higher no-evaluation rates; the gap is largest in screening and selection. [→ Zabaleta 2026](#zabaleta-2026)
@@ -50,7 +50,7 @@ Supplementary stage-stratified analysis (Supplementary Figure S4) of papers from
 
 ### Zabaleta 2026 (2)
 
-Zabaleta, M. & Lin, B. (2026). PRISMA-LLM: An Empirical Reporting Framework for AI-Assisted Systematic Reviews. https://arxiv.org/abs/2609.11559
+Zabaleta, M. & Lin, B. (2026). PRISMA-LLM: An Empirical Reporting Framework for AI-Assisted Systematic Reviews. https://arxiv.org/abs/2609.11559. [doi:10.48550/arxiv.2609.11559](https://doi.org/10.48550/arxiv.2609.11559)
 
 `q2 · i?` · `associational · r2`
 

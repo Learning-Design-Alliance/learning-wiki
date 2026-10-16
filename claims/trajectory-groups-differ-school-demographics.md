@@ -3,7 +3,7 @@ type: claim
 title: Always on-track and always off-track students attend schools with systematically different demographic compositions
 description: Always on-track and always off-track students attend schools with systematically different demographic compositions
 id: trajectory-groups-differ-school-demographics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

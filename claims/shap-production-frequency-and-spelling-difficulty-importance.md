@@ -3,7 +3,7 @@ type: claim
 title: SHAP analysis of the explainable model identifies production frequency and spelling difficulty as high-impact predictors of KVL difficulty, with spelling difficulty varying strongly by L1
 description: SHAP analysis of the explainable model identifies production frequency and spelling difficulty as high-impact predictors of KVL difficulty, with spelling difficulty varying strongly by L1
 id: shap-production-frequency-and-spelling-difficulty-importance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

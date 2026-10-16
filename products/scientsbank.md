@@ -4,7 +4,7 @@ id: scientsbank
 title: SciEntsBank
 description: SciEntsBank is a benchmark dataset of human-annotated student science short answers and semantic-correctness labels used to develop and evaluate automated short-answer assessment systems.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

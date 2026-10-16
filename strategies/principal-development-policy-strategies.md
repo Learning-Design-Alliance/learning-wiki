@@ -3,7 +3,7 @@ type: strategy
 id: principal-development-policy-strategies
 title: Use state licensing and program approval standards, infrastructure investment, equity targeting, and pipeline reforms to improve principal learning
 description: "The report recommends four policy actions: develop and better use state licensing and program approval standards so programs include high-quality features and quality internships; invest in a statewide infrastructure..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Traditional form-focused instruction produces significant gains in production but not in comprehension
 description: Traditional form-focused instruction produces significant gains in production but not in comprehension
 id: traditional-instruction-gains-production-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

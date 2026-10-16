@@ -3,7 +3,7 @@ type: strategy
 id: seven-step-llm-item-difficulty-estimation-workflow
 title: Seven-step workflow for testing professionals to implement LLM-based item difficulty estimation with their item pool
 description: "The article offers its methods as a reusable implementation path for other testing organizations, stating: \"We provide a seven-step workflow for testing professionals who would want to implement a similar item difficu..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Attending racially integrated schools is associated with higher academic achievement and improved long-term educational and economic outcomes for students of color, with no academic harm for white students
 description: Attending racially integrated schools is associated with higher academic achievement and improved long-term educational and economic outcomes for students of color, with no academic harm for white students
 id: integrated-schools-academic-and-long-term-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

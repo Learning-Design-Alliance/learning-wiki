@@ -3,7 +3,7 @@ type: design
 id: cft-while-noticing-tasks-pattern
 title: While-noticing stage pairs contrastive-critical framing with transformed practice as interrelated tasks
 description: "At the while-noticing stage, students work in groups or pairs on two interrelated tasks adapted from The New London Group: contrastive-critical framing, in which they collaboratively compare and critically contrast or..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -4,7 +4,7 @@ id: ce-s-dsp-sos-hybrid-self-report-measure-of-cognitive-engagement
 title: "CE-S-DSP & SOS hybrid self-report measure of cognitive engagement"
 description: "A hybrid self-report assessment assembled by Meg Guerreiro (2017) from existing cognitive-engagement measures to assess students' reported cognitive engagement, including in grades 6–8 mathematics."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

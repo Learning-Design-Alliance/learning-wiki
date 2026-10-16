@@ -3,7 +3,7 @@ type: claim
 title: Latent profile analysis identifies three career adapt-abilities subgroups (low, moderate, high) among English majors
 description: Latent profile analysis identifies three career adapt-abilities subgroups (low, moderate, high) among English majors
 id: three-career-adapt-abilities-latent-profiles-english-majors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

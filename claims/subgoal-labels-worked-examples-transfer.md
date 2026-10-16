@@ -3,7 +3,7 @@ type: claim
 title: Structuring worked examples to emphasize subgoals, via labels or visual segmentation, enhances transfer to novel problems
 description: Structuring worked examples to emphasize subgoals, via labels or visual segmentation, enhances transfer to novel problems
 id: subgoal-labels-worked-examples-transfer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

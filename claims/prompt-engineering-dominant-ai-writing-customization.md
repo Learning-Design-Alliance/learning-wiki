@@ -3,7 +3,7 @@ type: claim
 title: Prompt engineering is the most prevalent customization method in AI writing education research
 description: Prompt engineering is the most prevalent customization method in AI writing education research
 id: prompt-engineering-dominant-ai-writing-customization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

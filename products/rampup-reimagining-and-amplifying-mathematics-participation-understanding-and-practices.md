@@ -4,7 +4,7 @@ id: rampup-reimagining-and-amplifying-mathematics-participation-understanding-an
 title: RAMPUP (Reimagining and Amplifying Mathematics Participation, Understanding, and Practices)
 description: A three-week summer bridge mathematics programme developed through WestEd’s National Research and Development Center to Improve Education for Secondary English Learners, serving rising ninth-grade students through modules on patterns, networks, and equivalence.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

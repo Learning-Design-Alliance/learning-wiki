@@ -3,7 +3,7 @@ type: strategy
 id: model-partial-outcomes-keep-human-joker-deployment
 title: Model partial and uncertain defending outcomes and keep the facilitator human when deploying drama-based robot interventions
 description: "The article's deployment recommendations are twofold."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

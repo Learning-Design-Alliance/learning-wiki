@@ -3,7 +3,7 @@ type: claim
 title: High school course-taking differs substantially among English learners depending on years spent as an EL
 description: High school course-taking differs substantially among English learners depending on years spent as an EL
 id: course-taking-heterogeneity-by-years-as-el
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

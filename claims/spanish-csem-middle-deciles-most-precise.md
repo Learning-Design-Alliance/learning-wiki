@@ -3,7 +3,7 @@ type: claim
 title: Measurement precision is strongest for students in the middle of the Spanish score distribution, with CSEM near the 3.3 RIT target
 description: Measurement precision is strongest for students in the middle of the Spanish score distribution, with CSEM near the 3.3 RIT target
 id: spanish-csem-middle-deciles-most-precise
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

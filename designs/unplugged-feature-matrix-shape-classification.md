@@ -3,7 +3,7 @@ type: design
 id: unplugged-feature-matrix-shape-classification
 title: Unplugged explainable machine-learning activities using feature matrices to classify geometric shapes
 description: This pattern has learners create explainable feature matrices to classify geometric shapes, making machine-learning algorithms visible without complex software.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

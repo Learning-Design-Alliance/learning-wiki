@@ -3,7 +3,7 @@ type: claim
 title: Simulated one-standard-deviation increases in autonomy yield only modest predicted changes in ICT career aspirations
 description: Simulated one-standard-deviation increases in autonomy yield only modest predicted changes in ICT career aspirations
 id: counterfactual-autonomy-increase-modest-ict-aspiration-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

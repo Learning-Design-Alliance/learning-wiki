@@ -3,7 +3,7 @@ type: claim
 title: Evidence of changes in growth mindset or math confidence after the summer programs was minimal
 description: Evidence of changes in growth mindset or math confidence after the summer programs was minimal
 id: summer-math-programs-minimal-mindset-confidence-change
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

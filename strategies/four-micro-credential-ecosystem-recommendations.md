@@ -3,7 +3,7 @@ type: strategy
 id: four-micro-credential-ecosystem-recommendations
 title: "Four ecosystem recommendations: experiment with currency forms, protect time for inquiry, include everyone in team learning, and invest in adaptive platforms"
 description: "Based on recent developments, early progress, and current challenges, the report recommends that the ecosystem focus on policies and practices that: create incentives for local educators to experiment with different f..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

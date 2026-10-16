@@ -19,6 +19,7 @@ into whatever survived.
 
     python3 scripts/judge_claim_merges.py --judge            # decisions to eval/claim-merges/decisions.ndjson
     python3 scripts/judge_claim_merges.py --apply            # merge the pairs both models agreed on
+    python3 scripts/judge_claim_merges.py --judge --titles   # also judge find_title_duplicates.py's claim pairs
 """
 import argparse
 import collections
@@ -56,8 +57,16 @@ claim, or opposite directions are NOT the same.
 Reply: {{"same": true|false, "why": "<one sentence>"}}"""
 
 
-def pairs() -> list:
-    out = set()
+def title_pairs() -> set:
+    """Claim pairs whose titles share most of their words (find_title_duplicates.py): a second
+    source of candidates, for duplicates link_claims.py never labelled."""
+    out = subprocess.run([sys.executable, str(WIKI_ROOT / "scripts" / "find_title_duplicates.py"), "--type", "claims",
+                          "--out", "/dev/stdout"], cwd=WIKI_ROOT, capture_output=True, text=True).stdout
+    return {tuple(sorted(p)) for p in re.findall(r"^- `[\d.]+` (\S+)\.md ⇄ (\S+)\.md", out, re.M)}
+
+
+def pairs(titles: bool = False) -> list:
+    out = set(title_pairs()) if titles else set()
     for p in (WIKI_ROOT / "claims").glob("*.md"):
         for m in LABEL_RE.finditer(p.read_text(encoding="utf-8")):
             b = m.group(1).split("/")[-1]
@@ -89,13 +98,13 @@ def ask(model: str, prompt: str, key: str) -> dict:
     return {"same": d.get("same") is True, "why": d.get("why"), "cost_usd": gen.cost_usd or 0}
 
 
-def judge(workers: int) -> None:
+def judge(workers: int, titles: bool = False) -> None:
     key = os.environ.get("OPENROUTER_API_KEY") or sys.exit("OPENROUTER_API_KEY is not set")
     rev = json.loads((WIKI_ROOT / "reverse-index.json").read_text(encoding="utf-8"))["edges"].get("claims", {})
     inbound = {s: sum(len(v) for v in by.values()) for s, by in rev.items()}
     OUT.parent.mkdir(parents=True, exist_ok=True)
     done = {tuple(sorted((d["keep"], d["fold"]))) for d in decisions()}
-    todo = [p for p in pairs() if p not in done and all((WIKI_ROOT / "claims" / f"{s}.md").exists() for s in p)]
+    todo = [p for p in pairs(titles) if p not in done and all((WIKI_ROOT / "claims" / f"{s}.md").exists() for s in p)]
     print(f"{len(todo)} pair(s) to judge", flush=True)
 
     def one(pair):
@@ -167,9 +176,10 @@ def main() -> None:
     ap.add_argument("--apply", action="store_true")
     ap.add_argument("--summary", action="store_true")
     ap.add_argument("--workers", type=int, default=12)
+    ap.add_argument("--titles", action="store_true", help="also judge title near-duplicate pairs")
     args = ap.parse_args()
     if args.judge:
-        judge(args.workers)
+        judge(args.workers, args.titles)
     if args.summary:
         summary()
     if args.apply:

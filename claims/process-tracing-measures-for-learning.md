@@ -3,7 +3,7 @@ type: claim
 title: Process-tracing measures should accompany outcome measures because process changes may not be immediately reflected in outcomes
 description: Process-tracing measures should accompany outcome measures because process changes may not be immediately reflected in outcomes
 id: process-tracing-measures-for-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

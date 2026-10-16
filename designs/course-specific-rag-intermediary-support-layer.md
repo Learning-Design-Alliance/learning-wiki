@@ -3,7 +3,7 @@ type: design
 id: course-specific-rag-intermediary-support-layer
 title: Course-specific RAG as an intermediary layer between independent study and formal academic support
 description: "The article proposes that course-specific RAG systems occupy an intermediary space between independent study and formal academic support: rather than replacing educators, they offer \"private,immediate,andcourse‐specif..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

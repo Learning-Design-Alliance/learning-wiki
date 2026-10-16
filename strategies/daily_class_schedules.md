@@ -68,7 +68,7 @@ Time on task is one of the most consistent correlates of achievement, but raw al
 
 ## Examples
 - A typical elementary day: morning work on arrival, literacy block in the morning (highest attention), mathematics before lunch, science/social studies in the early afternoon, recess placed to break up the afternoon slump.
-- **Responsive Classroom** (https://www.responsiveteaching.org / https://www.responsiveclassroom.org) — the "Daily Schedule" and "Interactive Modeling" components treat posting and teaching the schedule as part of classroom structure; teachers model transitions explicitly.
+- **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveteaching.org / https://www.responsiveclassroom.org) — the "Daily Schedule" and "Interactive Modeling" components treat posting and teaching the schedule as part of classroom structure; teachers model transitions explicitly.
 - Secondary block scheduling (e.g., 4×4 or A/B block plans) — longer periods require internal segmentation into instruction, [practice](../elements/practice.md), and feedback segments to avoid attention decay.
 
 ## Key Sources

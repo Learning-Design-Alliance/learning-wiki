@@ -3,7 +3,7 @@ type: claim
 title: MindMatters evaluations show improved resilience and school climate, with modest overall effects in the German secondary-school adaptation
 description: MindMatters evaluations show improved resilience and school climate, with modest overall effects in the German secondary-school adaptation
 id: mindmatters-evaluation-mixed-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

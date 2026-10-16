@@ -3,7 +3,7 @@ type: claim
 title: School suspension rates declined significantly within SWPBIS schools but not within comparison schools, though the two conditions were not tested against each other
 description: School suspension rates declined significantly within SWPBIS schools but not within comparison schools, though the two conditions were not tested against each other
 id: swpbis-reduced-suspensions-not-comparisons
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

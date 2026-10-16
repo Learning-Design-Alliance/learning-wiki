@@ -3,7 +3,7 @@ type: strategy
 id: school-level-equity-fund-transparency-requirements
 title: Require school-level spending of equity-targeted funds and transparent expenditure reporting
 description: "A fiscal accountability strategy ensuring equity-targeted dollars reach intended students: the report calls on state leaders \"to require that districts spend 75 percent of dollars received for low-income students and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

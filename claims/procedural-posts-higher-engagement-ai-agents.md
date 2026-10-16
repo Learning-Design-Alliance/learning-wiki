@@ -3,7 +3,7 @@ type: claim
 title: Procedural skill-sharing posts receive significantly higher engagement than conceptual or other posts in an AI agent community
 description: Procedural skill-sharing posts receive significantly higher engagement than conceptual or other posts in an AI agent community
 id: procedural-posts-higher-engagement-ai-agents
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

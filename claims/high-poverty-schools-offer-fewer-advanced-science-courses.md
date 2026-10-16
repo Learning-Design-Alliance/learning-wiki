@@ -3,7 +3,7 @@ type: claim
 title: U.S. high schools with high enrollments of students from low-income families are less likely to offer advanced science courses than low-poverty schools
 description: U.S.
 id: high-poverty-schools-offer-fewer-advanced-science-courses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

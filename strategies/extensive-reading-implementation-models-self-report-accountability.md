@@ -3,7 +3,7 @@ type: strategy
 id: extensive-reading-implementation-models-self-report-accountability
 title: Implement extensive reading via stand-alone courses, curricular components, or reading clubs, with self-report accountability and no comprehension testing
 description: "The article recommends three integration routes: extracurricular reading clubs where curricula are rigid, a stand-alone ER class devoted to in-class silent sustained reading with the instructor reading too, and ER add..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

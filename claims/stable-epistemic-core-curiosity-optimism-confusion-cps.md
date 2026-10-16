@@ -3,7 +3,7 @@ type: claim
 title: Affective experience during situated collaborative problem solving is organized around a stable epistemic core linking curiosity, optimism, and confusion with short-range persistence
 description: Affective experience during situated collaborative problem solving is organized around a stable epistemic core linking curiosity, optimism, and confusion with short-range persistence
 id: stable-epistemic-core-curiosity-optimism-confusion-cps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

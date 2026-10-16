@@ -3,7 +3,7 @@ type: claim
 title: "The Power4Kids evaluation used two-level random assignment: 50 schools to four interventions and struggling readers within schools to treatment or control"
 description: "The Power4Kids evaluation used two-level random assignment: 50 schools to four interventions and struggling readers within schools to treatment or control"
 id: power4kids-two-level-random-assignment-design
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Educators can more effectively engage with researchers to advance practice by using the What Works Clearinghouse and other sources of research findings as a base
 description: Educators can more effectively engage with researchers to advance practice by using the What Works Clearinghouse and other sources of research findings as a base
 id: educators-engage-researchers-via-what-works-clearinghouse
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

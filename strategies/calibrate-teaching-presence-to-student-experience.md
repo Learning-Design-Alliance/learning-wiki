@@ -3,7 +3,7 @@ type: strategy
 id: calibrate-teaching-presence-to-student-experience
 title: "Calibrate teaching presence to student experience: encourage and challenge advanced students without being too directive"
 description: Based on the finding that teaching presence was highly variable and unrelated to metacognition, the article recommends that instructors in advanced online CBI courses adjust their facilitation to student differences.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

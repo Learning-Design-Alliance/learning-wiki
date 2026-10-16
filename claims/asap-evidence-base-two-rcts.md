@@ -3,7 +3,7 @@ type: claim
 title: The evidence base for ASAP rests on two randomized controlled trials meeting WWC standards without reservations, out of eight identified studies
 description: The evidence base for ASAP rests on two randomized controlled trials meeting WWC standards without reservations, out of eight identified studies
 id: asap-evidence-base-two-rcts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

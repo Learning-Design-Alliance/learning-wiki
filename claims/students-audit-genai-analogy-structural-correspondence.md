@@ -3,7 +3,7 @@ type: claim
 title: Undergraduate computing students evaluate GenAI analogies by structural correspondence between source and target domain, flagging specific mapping breakdowns rather than judging holistically
 description: Undergraduate computing students evaluate GenAI analogies by structural correspondence between source and target domain, flagging specific mapping breakdowns rather than judging holistically
 id: students-audit-genai-analogy-structural-correspondence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

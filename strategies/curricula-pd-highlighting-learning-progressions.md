@@ -3,7 +3,7 @@ type: strategy
 id: curricula-pd-highlighting-learning-progressions
 title: Districts should consider curricula and professional learning that intentionally highlight mathematical learning progressions
 description: "The study's forward-looking recommendation for districts is to \"consider curricula and professional learning that intentionally highlight mathematical learning progressions.\" It follows from the finding that productiv..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

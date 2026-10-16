@@ -3,7 +3,7 @@ type: claim
 title: Prop 28 AMS had not yet impacted most community arts organizations at the time of the study
 description: Prop 28 AMS had not yet impacted most community arts organizations at the time of the study
 id: prop28-yet-to-impact-most-arts-organizations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

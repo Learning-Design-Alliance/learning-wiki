@@ -3,7 +3,7 @@ type: claim
 title: Unprompted self-correction dominates negative feedback in NNS-NNS CMC interaction, interpreted as a face-saving preference
 description: Unprompted self-correction dominates negative feedback in NNS-NNS CMC interaction, interpreted as a face-saving preference
 id: self-correction-dominates-negative-feedback-face-saving
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

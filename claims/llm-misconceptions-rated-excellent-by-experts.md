@@ -3,7 +3,7 @@ type: claim
 title: LLM-generated misconceptions grounded in quiz content, response patterns, and lecture transcripts are rated excellent by subject matter experts
 description: LLM-generated misconceptions grounded in quiz content, response patterns, and lecture transcripts are rated excellent by subject matter experts
 id: llm-misconceptions-rated-excellent-by-experts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

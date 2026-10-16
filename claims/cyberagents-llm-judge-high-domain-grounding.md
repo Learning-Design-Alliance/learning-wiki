@@ -3,7 +3,7 @@ type: claim
 title: LLM-as-judge evaluation scored CyberAGENTS highest on domain grounding (4.46) and agent role fidelity (4.35)
 description: LLM-as-judge evaluation scored CyberAGENTS highest on domain grounding (4.46) and agent role fidelity (4.35)
 id: cyberagents-llm-judge-high-domain-grounding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

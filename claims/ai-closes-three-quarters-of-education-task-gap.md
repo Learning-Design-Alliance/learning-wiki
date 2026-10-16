@@ -3,7 +3,7 @@ type: claim
 title: AI assistance closes about three-quarters of the baseline education-based task-performance gap, though a 0.139 SD gap remains among treated participants
 description: AI assistance closes about three-quarters of the baseline education-based task-performance gap, though a 0.139 SD gap remains among treated participants
 id: ai-closes-three-quarters-of-education-task-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

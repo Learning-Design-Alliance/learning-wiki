@@ -3,7 +3,7 @@ type: strategy
 id: multiple-choice-quizzing-with-plausible-alternatives-and-feedback
 title: Multiple-Choice Quizzing with Plausible Alternatives and Feedback
 description: "The chapter concludes that \"For practical purposes, multiple-choice questions produce positive effects on learning\", and that the risk of picking up erroneous lure knowledge is dramatically reduced when students recei..."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

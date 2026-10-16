@@ -3,7 +3,7 @@ type: claim
 title: AI literacy is the strongest predictor of faculty AI well-being in the structural model
 description: AI literacy is the strongest predictor of faculty AI well-being in the structural model
 id: ai-literacy-strongest-predictor-of-ai-well-being
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

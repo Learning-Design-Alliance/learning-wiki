@@ -3,7 +3,7 @@ type: claim
 title: Students who did not retest in fall 2020 were disproportionately minoritized and lower-achieving compared with students who retested
 description: Students who did not retest in fall 2020 were disproportionately minoritized and lower-achieving compared with students who retested
 id: map-growth-attrition-demographic-differences-2020
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

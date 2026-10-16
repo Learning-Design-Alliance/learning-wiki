@@ -3,7 +3,7 @@ type: claim
 title: Data-based recording of educational processes risks narrowing education to quantifiable output indicators and raises data sovereignty and algorithmic ethics issues
 description: Data-based recording of educational processes risks narrowing education to quantifiable output indicators and raises data sovereignty and algorithmic ethics issues
 id: datafication-risks-narrowing-educational-processes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

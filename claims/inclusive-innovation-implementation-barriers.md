@@ -3,7 +3,7 @@ type: claim
 title: Core Teams identified communication challenges, school and district leadership turnover, and teacher burnout as barriers that influenced solution success
 description: Core Teams identified communication challenges, school and district leadership turnover, and teacher burnout as barriers that influenced solution success
 id: inclusive-innovation-implementation-barriers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Growth of schools selected by fall achievement differs by subject: bottom 5% math schools tended to grow worse, while reading showed similar average growth"
 description: "Growth of schools selected by fall achievement differs by subject: bottom 5% math schools tended to grow worse, while reading showed similar average growth"
 id: fall-achievement-selection-growth-subject-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

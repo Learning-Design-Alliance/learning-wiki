@@ -3,7 +3,7 @@ type: claim
 title: Delayed start during math practice predicts standardized math test performance (β=-.07 SD, p=.02)
 description: Delayed start during math practice predicts standardized math test performance (β=-.07 SD, p=.02)
 id: delayed-start-predicts-math-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

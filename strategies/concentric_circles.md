@@ -65,7 +65,7 @@ Concentric Circles converts whole-class discussion into many simultaneous, low-s
 - Gallery Walk — achieves similar breadth of exposure through movement past artifacts rather than partner rotation
 
 ## Examples
-- **EL Education (Expeditionary Learning)** protocols include Concentric Circles (aka "Circles of Influence") as a standard Crew discussion structure for text-based seminars (https://eleducation.org).
+- **[EL Education](../products/el-education.md) (Expeditionary Learning)** protocols include Concentric Circles (aka "Circles of Influence") as a standard Crew discussion structure for text-based seminars (https://eleducation.org).
 - **Kagan Structures** — the facing-lines variant ("Pairs Compare" family) is used in cooperative-learning classrooms for rapid review rounds.
 - **Language classrooms** — the peer-teaching variant is widely used for speaking fluency drills, with each rotation giving learners a fresh conversational partner.
 

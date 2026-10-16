@@ -3,7 +3,7 @@ type: claim
 title: "AI output errors are frequent: 44.5% fabricated references in drafted research proposals and 5–13% unsafe chatbot medical answers"
 description: "AI output errors are frequent: 44.5% fabricated references in drafted research proposals and 5–13% unsafe chatbot medical answers"
 id: ai-output-error-rates-fabricated-unsafe
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

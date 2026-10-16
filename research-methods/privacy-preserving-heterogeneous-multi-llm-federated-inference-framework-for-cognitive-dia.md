@@ -3,7 +3,7 @@ type: research-method
 id: privacy-preserving-heterogeneous-multi-llm-federated-inference-framework-for-cognitive-dia
 title: Privacy-preserving heterogeneous multi-LLM federated inference framework for cognitive diagnosis
 description: A four-stage framework in which heterogeneous commercial LLMs (LLaMA-3.3-70B, GPT-4o-mini, Claude-3-Haiku) independently predict student knowledge states via engineered prompts, add calibrated Laplace noise locally to their prediction outputs, and aggregate with residual correction.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

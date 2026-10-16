@@ -4,7 +4,7 @@ id: strategic-reading
 title: Strategic Reading
 description: Strategic Reading is a structured adolescent-literacy curriculum developed and delivered by the University of Kansas Center for Research on Learning.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

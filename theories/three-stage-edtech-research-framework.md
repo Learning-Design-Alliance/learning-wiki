@@ -2,7 +2,7 @@
 type: theory
 title: Three-stage framework of research use across ed-tech product development
 description: "The report organizes research use in ed-tech product development into three categories representing \"research use in early, mid, and ending stages of product development\": Learning Science (using existing scientific r..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

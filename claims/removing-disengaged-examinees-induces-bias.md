@@ -3,7 +3,7 @@ type: claim
 title: Removing disengaged examinees from the sample will likely induce bias in estimates of educational effectiveness
 description: Removing disengaged examinees from the sample will likely induce bias in estimates of educational effectiveness
 id: removing-disengaged-examinees-induces-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

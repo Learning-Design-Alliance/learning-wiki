@@ -3,7 +3,7 @@ type: claim
 title: Sycophancy concentrates in specific domain-pressure combinations, with Chemistry and Economics highest overall and Biology lowest
 description: Sycophancy concentrates in specific domain-pressure combinations, with Chemistry and Economics highest overall and Biology lowest
 id: domain-pressure-sycophancy-concentration-eduframetrap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "In the worked sample analysis of faculty professional development data, AMOVA yielded a final value of 3.00, a 'Proficient' level, leading to rejection of the null hypothesis"
 description: "In the worked sample analysis of faculty professional development data, AMOVA yielded a final value of 3.00, a 'Proficient' level, leading to rejection of the null hypothesis"
 id: amova-sample-data-yields-proficient-300
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

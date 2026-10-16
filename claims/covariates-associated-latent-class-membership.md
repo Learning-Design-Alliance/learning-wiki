@@ -3,7 +3,7 @@ type: claim
 title: Demographic covariates were significantly associated with latent class membership
 description: Demographic covariates were significantly associated with latent class membership
 id: covariates-associated-latent-class-membership
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

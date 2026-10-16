@@ -3,7 +3,7 @@ type: claim
 title: Students feel safest in classrooms and least safe in areas just outside the school, with safety tracking the level of adult supervision
 description: Students feel safest in classrooms and least safe in areas just outside the school, with safety tracking the level of adult supervision
 id: adult-supervision-safety-gradient
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

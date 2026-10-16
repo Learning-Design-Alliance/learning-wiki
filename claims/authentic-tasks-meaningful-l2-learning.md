@@ -3,7 +3,7 @@ type: claim
 title: Meaningful L2 learning is achieved through a conducive environment and authentic tasks and materials
 description: Meaningful L2 learning is achieved through a conducive environment and authentic tasks and materials
 id: authentic-tasks-meaningful-l2-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

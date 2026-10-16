@@ -3,7 +3,7 @@ type: strategy
 id: research-next-steps-tps-choice-effects
 title: Commission research on how charter schools and vouchers affect traditional public school achievement, with next steps identified for the field
 description: The brief proposes a research agenda alongside its evidence summary.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

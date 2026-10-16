@@ -3,7 +3,7 @@ type: strategy
 id: weekly-gradebook-monitoring-70-percent-intervention
 title: Weekly gradebook monitoring with a 70 percent threshold and templated early-warning interventions
 description: "OUSD trains point people to monitor student progress continuously through the college's learning management system."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

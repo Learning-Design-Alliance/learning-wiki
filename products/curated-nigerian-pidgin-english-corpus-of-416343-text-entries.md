@@ -4,7 +4,7 @@ id: curated-nigerian-pidgin-english-corpus-of-416343-text-entries
 title: Curated Nigerian Pidgin English corpus of 416,343 text entries
 description: "Nwogo et al.'s publicly released corpus of Nigerian Pidgin text entries scraped, cleaned, and formatted from BBC Pidgin and Prime9ja for fine-tuning and evaluating Pidgin-aware language models."
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11
@@ -29,4 +29,4 @@ Nwogo et al.'s publicly released corpus of Nigerian Pidgin text entries scraped,
 -
 
 ## Key Sources
-- Nwogo, E. U., Ihianle, I. K., Machado, P., Bird, J. J., Lotfi, A., Shuaib, A. A., Akinwumi, I. I., & Oluranti, J. (2026). An AI-Based Adaptive Learning Platform for Multilingual and Low-Resource Educational Contexts: A Case Study on Nigeria. arXiv. https://arxiv.org/abs/2608.15738
+- Nwogo, E. U., Ihianle, I. K., Machado, P., Bird, J. J., Lotfi, A., Shuaib, A. A., Akinwumi, I. I., & Oluranti, J. (2026). An AI-Based Adaptive Learning Platform for Multilingual and Low-Resource Educational Contexts: A Case Study on Nigeria. arXiv. https://arxiv.org/abs/2608.15738. [doi:10.48550/arxiv.2608.15738](https://doi.org/10.48550/arxiv.2608.15738)

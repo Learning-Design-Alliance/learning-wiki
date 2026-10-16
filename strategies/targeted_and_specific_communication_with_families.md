@@ -73,7 +73,7 @@ Family engagement research consistently shows that *specific* invitations — na
 - [Segment security-training content by learner age group to maximize personal relevance](age-segmented-security-training-content.md)
 
 ## Examples
-- **TalkingPoints** (https://talkingpts.org) — two-way translated text messaging between teachers and families, used widely in US districts with multilingual populations.
+- **[TalkingPoints](../products/talkingpoints.md)** (https://talkingpts.org) — two-way translated text messaging between teachers and families, used widely in US districts with multilingual populations.
 - **Parent Teacher Home Visits** (https://www.pthp.org) — structured home-visit program that builds relationships before academic communication begins.
 - **Flamboyan Foundation** (https://flamboyanfoundation.org) — DC-based program training schools in relationship-building and individualized family communication, associated with gains in student outcomes in partnership studies.
 

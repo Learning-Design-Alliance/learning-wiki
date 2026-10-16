@@ -3,7 +3,7 @@ type: claim
 title: AI tutors explicitly designed according to educational theory outperformed traditional active learning in rigorous academic settings
 description: AI tutors explicitly designed according to educational theory outperformed traditional active learning in rigorous academic settings
 id: pedagogically-designed-ai-tutors-outperform-active-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

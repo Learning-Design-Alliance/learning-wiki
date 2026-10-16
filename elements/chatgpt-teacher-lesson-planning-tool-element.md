@@ -3,7 +3,7 @@ type: element
 id: chatgpt-teacher-lesson-planning-tool-element
 title: "ChatGPT as a lesson-adaptation and brainstorming tool for mathematics teachers' generative learning design"
 description: "The chapter examines ChatGPT as a generative AI tool teachers used in two ways: adapting an existing classroom task to incorporate active or generative learning, and serving as a brainstorming partner that posed mathe..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Student workshop participants saw AI's role as fluid — a shortcut for tasks with clear, predictable outcomes and a collaborator for uncertain, creative tasks"
 description: "Student workshop participants saw AI's role as fluid — a shortcut for tasks with clear, predictable outcomes and a collaborator for uncertain, creative tasks"
 id: student-ai-role-shortcut-versus-collaborator
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

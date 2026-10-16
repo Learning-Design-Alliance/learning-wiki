@@ -3,7 +3,7 @@ type: claim
 title: "Only 55% of concerned respondents who had applied to a company engaged in concerning activities said the knowledge made them less likely to apply"
 description: "Only 55% of concerned respondents who had applied to a company engaged in concerning activities said the knowledge made them less likely to apply"
 id: minority-act-on-ethical-concerns-job-applications
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

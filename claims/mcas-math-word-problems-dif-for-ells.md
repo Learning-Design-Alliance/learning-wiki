@@ -3,7 +3,7 @@ type: claim
 title: Some 2003 MCAS fourth-grade math word problems exhibited differential item functioning for English-language learners versus non-ELLs
 description: Some 2003 MCAS fourth-grade math word problems exhibited differential item functioning for English-language learners versus non-ELLs
 id: mcas-math-word-problems-dif-for-ells
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

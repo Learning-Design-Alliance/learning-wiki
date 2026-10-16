@@ -3,7 +3,7 @@ type: claim
 title: AI-generated ethics exercise materials carried external citations that did not survive checking, ranging from misattributed to apparently fabricated
 description: AI-generated ethics exercise materials carried external citations that did not survive checking, ranging from misattributed to apparently fabricated
 id: ai-generated-ethics-materials-fabricated-citations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -49,3 +49,4 @@ The instructor's post-hoc verification of the three citations embedded in the Ge
 - [Of 30 verified hallucinated references, 13 appeared entirely fabricated and 17 were hybrid references combining a real title with fabricated authorship or metadata](hybrid-hallucinated-references-real-title-fake-authors.md) — a broader claim this one bears on
 - Conservative manual verification identified 30 hallucinated references across 14 papers in 2025 and 2026 computing education venues — related
 - [AI-assisted scientific writing assignments risk fabricated references and altered chemical meaning](genai-writing-fabricated-references.md) — possibly the same claim (merge candidate)
+- [ChatGPT fabricates references: the authors caught it inventing a non-existent 'Ribeiro and Vala, 2020' article with full bibliographic details](chatgpt-fabricates-references.md) — related

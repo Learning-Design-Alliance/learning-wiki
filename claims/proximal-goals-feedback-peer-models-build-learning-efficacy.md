@@ -3,7 +3,7 @@ type: claim
 title: "Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies"
 description: "Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies"
 id: proximal-goals-feedback-peer-models-build-learning-efficacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

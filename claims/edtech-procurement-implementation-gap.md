@@ -3,7 +3,7 @@ type: claim
 title: "Edtech tool access per district grew more than 350% between 2019 and 2025, yet most tools are unused or used at low intensity"
 description: "Edtech tool access per district grew more than 350% between 2019 and 2025, yet most tools are unused or used at low intensity"
 id: edtech-procurement-implementation-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

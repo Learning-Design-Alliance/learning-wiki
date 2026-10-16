@@ -3,7 +3,7 @@ type: claim
 title: "Exploratory factor analysis of the reduced item pool yields a six-factor solution explaining 73.76% of variance"
 description: "Exploratory factor analysis of the reduced item pool yields a six-factor solution explaining 73.76% of variance"
 id: sfailq-efa-six-factor-solution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

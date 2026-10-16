@@ -3,7 +3,7 @@ type: strategy
 id: institutional-support-package-for-ai-learning-anxiety
 title: Universities combine responsible AI use guidelines, accessible technical support, AI literacy training, and assessment-embedded critical evaluation activities to address AI learning anxiety
 description: "Based on the observed associations, the article recommends that \"universities could operationalize these forms of support through concrete institutional strategies, particularly by developing responsible AI use guidel..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

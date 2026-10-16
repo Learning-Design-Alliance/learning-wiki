@@ -3,7 +3,7 @@ type: claim
 title: The strategic surface learner is the lowest-scoring Stage 2 profile for 15 of 17 models, averaging 0.702 versus 0.757 across the other profiles
 description: The strategic surface learner is the lowest-scoring Stage 2 profile for 15 of 17 models, averaging 0.702 versus 0.757 across the other profiles
 id: strategic-surface-learner-lowest-stage2-profile
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

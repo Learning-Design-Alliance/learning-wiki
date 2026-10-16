@@ -3,7 +3,7 @@ type: claim
 title: The published norms allow normative interpretation of both status and fall-to-spring growth, e.g., an Algebra 1 student at the 55th fall percentile has an expected gain of 8 RIT with growth SD of 9, and an 11-RIT gain places the student at the 62nd growth percentile.
 description: The published norms allow normative interpretation of both status and fall-to-spring growth, e.g., an Algebra 1 student at the 55th fall percentile has an expected gain of 8 RIT with growth SD of 9, and an 11-RIT gain...
 id: algebra1-status-growth-norms-example-interpretation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

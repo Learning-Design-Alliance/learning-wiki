@@ -3,7 +3,7 @@ type: claim
 title: Standardized test data proved too statistically unreliable for determining individual teacher effectiveness, and support for its use is waning
 description: Standardized test data proved too statistically unreliable for determining individual teacher effectiveness, and support for its use is waning
 id: test-based-teacher-effectiveness-unreliable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

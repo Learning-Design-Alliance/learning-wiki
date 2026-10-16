@@ -3,7 +3,7 @@ type: claim
 title: "School-based anti-bullying programs decrease victimization by 17-20% on average"
 description: "School-based anti-bullying programs decrease victimization by 17-20% on average"
 id: anti-bullying-programs-reduce-victimization-17-20-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

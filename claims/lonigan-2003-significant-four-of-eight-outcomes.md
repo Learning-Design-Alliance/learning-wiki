@@ -3,7 +3,7 @@ type: claim
 title: In Lonigan et al. (2003), DaisyQuest effects were statistically significant on four of eight phonological processing outcomes and not significant on the others
 description: In Lonigan et al.
 id: lonigan-2003-significant-four-of-eight-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

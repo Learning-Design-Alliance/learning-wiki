@@ -3,7 +3,7 @@ type: research-method
 id: a-ten-strategy-taxonomy-of-distractor-generation-strategies-grounded-in-learning-science-l
 title: A ten-strategy taxonomy of distractor-generation strategies grounded in learning-science literature and observed LLM reasoning
 description: "The article introduces a taxonomy of ten distractor-generation strategies, \"grounded in learning-science literature and empirical observations of LLMs’ reasoning traces\", spanning task understanding (INTER, CORR), candidate construction (LINK, ERR_DESC, ERR_SIM, INST), quality control and selection "
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

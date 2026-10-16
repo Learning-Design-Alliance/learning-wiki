@@ -3,7 +3,7 @@ type: element
 id: head-start-three-tier-trauma-informed-model
 title: Three-tier trauma-informed consultation model implemented in Appalachian Head Start programs
 description: "A multiorganization collaboration implemented a trauma-informed approach in Head Start programs in the Appalachian region of the US through \"a comprehensive, three‐tier model\" using trained classroom consultants."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

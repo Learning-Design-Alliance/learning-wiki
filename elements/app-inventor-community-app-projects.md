@@ -3,7 +3,7 @@ type: element
 id: app-inventor-community-app-projects
 title: App Inventor community-problem app projects with storyboarding
 description: "The deck presents App Inventor as a tool for students to build mobile apps, suggesting app content ideas such as \"Build an App that solves a problem for your community\", healthcare apps, tourist needs, quiz games, voc..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

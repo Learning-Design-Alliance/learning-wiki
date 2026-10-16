@@ -3,7 +3,7 @@ type: strategy
 id: sustained-accompaniment-for-digital-integration
 title: Use sustained professional development and accompaniment—mentoring, coaching, communities of practice and iterative support—for digital integration
 description: "The review's synthesis of the teacher professional development and accompaniment category (9.0% of the RQ1/RQ2 corpus) shows that digital integration is achieved through sustained processes rather than one-off training."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

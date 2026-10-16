@@ -3,7 +3,7 @@ type: strategy
 id: toc-pipeline-recruitment-practices
 title: "Grow-your-own and recruitment initiatives: alternative programs, Minority Serving Institutions, high-school pipeline programs, and district human-capital efforts to diversify the teacher workforce."
 description: "The report's Promising Practices section describes four approaches to building the pipeline of teachers of color: alternative preparation programs that recruit diverse candidates; Minority Serving Institutions, which..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -68,4 +68,4 @@ The report's Promising Practices section describes four approaches to building t
 -
 
 ## Key Sources
-- Gold, T. (2020). Pipeline and Retention of Teachers of Color: Systems and Structures Impeding Growth and Sustainability in the United States. Digital Promise. https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/
+- Gold, T. (2020). Pipeline and Retention of Teachers of Color: Systems and Structures Impeding Growth and Sustainability in the United States. Digital Promise. https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/. [doi:10.51388/20.500.12265/96](https://doi.org/10.51388/20.500.12265/96)

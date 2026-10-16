@@ -3,7 +3,7 @@ type: strategy
 id: prek-screener-early-identification-el-support
 title: Use pre-k English proficiency screener scores to identify ELs who would benefit from additional academic support
 description: "The report recommends that educators use English proficiency screener data as early as pre-k to identify ELs who would benefit from additional support, since \"Starting school with low levels of English proficiency was..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Compatibility and relative advantage strongly enhance perceived innovation attributes of AI technologies
 description: Compatibility and relative advantage strongly enhance perceived innovation attributes of AI technologies
 id: compatibility-relative-advantage-enhance-innovation-attributes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

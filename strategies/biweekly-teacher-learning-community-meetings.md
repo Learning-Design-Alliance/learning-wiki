@@ -3,7 +3,7 @@ type: strategy
 id: biweekly-teacher-learning-community-meetings
 title: Support intervention teachers with biweekly Teacher Learning Community meetings alongside scripted curriculum materials
 description: "During the study, \"Researchers conducted biweekly Teacher Learning Community meetings with intervention group teachers\", at which researchers facilitated discussion of practices that worked well in previous lessons an..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

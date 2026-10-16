@@ -3,7 +3,7 @@ type: strategy
 id: basic-word-paraphrase-strategic-exercises
 title: Paraphrase exercises using general basic words to assimilate meaning
 description: These strategic-competence exercises give learners a set of very general words (do, get, make, thing used for, a sort of) and ask them to paraphrase unit vocabulary with them, then quiz partners and answer questions a...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

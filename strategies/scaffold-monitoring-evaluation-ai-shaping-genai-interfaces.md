@@ -3,7 +3,7 @@ type: strategy
 id: scaffold-monitoring-evaluation-ai-shaping-genai-interfaces
 title: GenAI learning interfaces should actively scaffold monitoring, evaluation, and AI-shaping behaviors adolescents may not bring to the interaction on their own
 description: "Based on the finding that students' interactions were request-dominated with near-absent monitoring and evaluation, the article recommends that \"the results point toward GenAI learning interfaces that actively scaffol..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

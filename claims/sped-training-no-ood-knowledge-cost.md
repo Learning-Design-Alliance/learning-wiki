@@ -3,7 +3,7 @@ type: claim
 title: Disability-aware training does not degrade out-of-domain educational knowledge on OpenLearnLM
 description: Disability-aware training does not degrade out-of-domain educational knowledge on OpenLearnLM
 id: sped-training-no-ood-knowledge-cost
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

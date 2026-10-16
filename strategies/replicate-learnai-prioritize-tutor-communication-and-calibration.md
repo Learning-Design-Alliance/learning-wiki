@@ -3,7 +3,7 @@ type: strategy
 id: replicate-learnai-prioritize-tutor-communication-and-calibration
 title: Prioritize tutor communication skill and a calibration readiness mechanism when replicating the co-creation lab
 description: For institutions seeking to replicate the LearnAI model, the article recommends prioritizing tutor selection and pedagogy over rare technical expertise.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

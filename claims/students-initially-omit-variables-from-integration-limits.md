@@ -3,7 +3,7 @@ type: claim
 title: "Students initially leave variables out of their integration limits, using only numerical values, suggesting that variable ('running') limits of integration are unfamiliar"
 description: "Students initially leave variables out of their integration limits, using only numerical values, suggesting that variable ('running') limits of integration are unfamiliar"
 id: students-initially-omit-variables-from-integration-limits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

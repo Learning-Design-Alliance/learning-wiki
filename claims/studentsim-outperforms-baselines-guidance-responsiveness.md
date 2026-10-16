@@ -3,7 +3,7 @@ type: claim
 title: Across all three domains, trained StudentSim simulators outperform every baseline on guidance responsiveness (R), with the largest gap on open-ended guidance modes
 description: Across all three domains, trained StudentSim simulators outperform every baseline on guidance responsiveness (R), with the largest gap on open-ended guidance modes
 id: studentsim-outperforms-baselines-guidance-responsiveness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

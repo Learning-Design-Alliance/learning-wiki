@@ -3,7 +3,7 @@ type: strategy
 id: scaffolded-layered-genai-guidelines
 title: Structure GenAI use guidelines as a scaffold progressing from what GenAI is, through affordances, to consequences and collective responsibilities
 description: "The article recommends that institutional GenAI guidelines be broader than academic-integrity rules and be layered to match students' mental models."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

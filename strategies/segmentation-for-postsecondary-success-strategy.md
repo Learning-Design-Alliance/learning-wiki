@@ -3,7 +3,7 @@ type: strategy
 id: segmentation-for-postsecondary-success-strategy
 title: Segmenting students by noncognitive attributes as a promising but unproven approach to improving postsecondary success
 description: "The review reports that although no published example documents colleges using segmentation to improve students' success, research authors \"hypothesize about the potential applications of their research,\" and experts..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

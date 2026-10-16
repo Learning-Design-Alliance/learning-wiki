@@ -3,7 +3,7 @@ type: claim
 title: Learners show no first-language transfer for manner adverbs, judging sentence-final placement acceptable and pre-verbal placement unacceptable despite Chinese word order
 description: Learners show no first-language transfer for manner adverbs, judging sentence-final placement acceptable and pre-verbal placement unacceptable despite Chinese word order
 id: no-l1-transfer-manner-adverb-positions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

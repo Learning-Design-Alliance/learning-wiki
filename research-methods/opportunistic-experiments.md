@@ -3,7 +3,7 @@ type: research-method
 id: opportunistic-experiments
 title: Opportunistic experiments
 description: "The guide follows a three-part organizing structure: it \"defines opportunistic experiments and provides examples,\" \"discusses issues to consider when identifying potential opportunistic experiments,\" and \"outlines the critical steps to complete opportunistic experiments.\" This sequence moves readers"
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

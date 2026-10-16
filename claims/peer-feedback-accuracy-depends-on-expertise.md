@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25
@@ -115,3 +115,4 @@ Schunn, C., Godley, A., & DeMartino, S. (2016). The reliability and validity of 
 - [Students apply precision-of-language as a distinct evaluation criterion, flagging hedging phrases as open to interpretation and proposing concrete substitutions](precision-of-language-evaluation-criterion.md) — related
 - [Giving students feedback about their grading bias increased their subsequent grading accuracy](grading-bias-feedback-increases-accuracy.md) — related
 - [Students' expertise on the task may be an important prerequisite for accurate self-assessment](task-expertise-prerequisite-ssa-accuracy.md) — related
+- [A formative assessment script increases the quantity and quality of peer feedback vocational students generate on a peer's draft](fas-improves-peer-feedback-generation.md) — related

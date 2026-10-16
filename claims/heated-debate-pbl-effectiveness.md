@@ -3,7 +3,7 @@ type: claim
 title: Despite extensive research on PBL, there is heated debate about its effectiveness
 description: Despite extensive research on PBL, there is heated debate about its effectiveness
 id: heated-debate-pbl-effectiveness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

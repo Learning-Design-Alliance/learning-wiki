@@ -3,7 +3,7 @@ type: theory
 id: explanation-question-subtypes-answer-structures
 title: Explanation questions divide into cause-seeking, effect-seeking, and causal-elaboration types with distinct answer structures
 description: "Explanation questions are analyzed with a simple cause-effect model and split into three major types: questions that give an effect and ask about the cause (Why-Action, Why-Conflict, Why-Reaction, and Why-Effect), que..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

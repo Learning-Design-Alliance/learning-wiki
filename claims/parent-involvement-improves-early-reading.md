@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Parent Involvement Improves Early Reading
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

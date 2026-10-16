@@ -3,7 +3,7 @@ type: claim
 title: Reactive FOF is more time-consuming than proactive FOF, reducing opportunities to elaborate on preselected grammar points
 description: Reactive FOF is more time-consuming than proactive FOF, reducing opportunities to elaborate on preselected grammar points
 id: reactive-fof-time-cost-fewer-opportunities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

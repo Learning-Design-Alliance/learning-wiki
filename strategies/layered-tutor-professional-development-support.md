@@ -3,7 +3,7 @@ type: strategy
 id: layered-tutor-professional-development-support
 title: "Sustain tutor quality through layered professional development: live and asynchronous learning, observations, coaching, and weekly office hours"
 description: "The program sustains instructional quality through a multi-layered support system: teachers \"participate in both asynchronous and live professional learning and are regularly observed through formal observations and i..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

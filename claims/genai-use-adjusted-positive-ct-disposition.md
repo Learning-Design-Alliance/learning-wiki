@@ -3,7 +3,7 @@ type: claim
 title: GenAI use is positively associated with self-reported critical-thinking disposition among business students only in the adjusted structural model, with a near-zero zero-order correlation
 description: GenAI use is positively associated with self-reported critical-thinking disposition among business students only in the adjusted structural model, with a near-zero zero-order correlation
 id: genai-use-adjusted-positive-ct-disposition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

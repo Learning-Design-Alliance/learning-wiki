@@ -3,7 +3,7 @@ type: strategy
 id: multi-format-media-access-provision
 title: Provide modeling media in multiple file formats and physical copy options to support student access
 description: The article reports that offering OMS materials in several compressed file formats for download, plus CDs, DVDs and VHS tapes on request, supported access to the modeling media.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

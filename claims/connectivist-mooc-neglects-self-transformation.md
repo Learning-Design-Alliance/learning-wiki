@@ -3,7 +3,7 @@ type: claim
 title: Connectivist MOOC aggregation-remix-repurpose-feed-forward model neglects personal self-transformation
 description: Connectivist MOOC aggregation-remix-repurpose-feed-forward model neglects personal self-transformation
 id: connectivist-mooc-neglects-self-transformation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
@@ -44,3 +44,4 @@ Theoretical critique of the connectivist four-step model (aggregation, remixing,
 
 ## Related Claims
 - [Personal connection to data supports critical data-literacy stance-taking](personal-connection-to-data-supports-critical-data-literacy-stance-taking.md) — related
+- [MOOCs failed to deliver on their proponents' promises of transforming higher education](moocs-failed-to-deliver-on-promises.md) — related

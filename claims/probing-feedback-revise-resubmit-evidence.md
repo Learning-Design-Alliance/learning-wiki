@@ -3,7 +3,7 @@ type: claim
 title: "In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate did not improve"
 description: "In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate did not improve"
 id: probing-feedback-revise-resubmit-evidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

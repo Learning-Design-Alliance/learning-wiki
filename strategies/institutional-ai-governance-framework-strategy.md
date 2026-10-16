@@ -3,7 +3,7 @@ type: strategy
 id: institutional-ai-governance-framework-strategy
 title: Establish comprehensive institutional AI governance frameworks including task forces, roadmaps, and transparent policies
 description: The brief recommends that postsecondary leaders develop comprehensive AI usage guidance, including establishing an AI task force to set standards for data privacy, security, bias, and accuracy, and an institutional ro...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

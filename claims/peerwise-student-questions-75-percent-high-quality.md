@@ -3,7 +3,7 @@ type: claim
 title: "75% of student-authored physics questions met combined high-quality criteria (clear, correct, plausible distractors, above recall, adequate explanation)"
 description: "75% of student-authored physics questions met combined high-quality criteria (clear, correct, plausible distractors, above recall, adequate explanation)"
 id: peerwise-student-questions-75-percent-high-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

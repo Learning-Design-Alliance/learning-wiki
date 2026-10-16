@@ -70,7 +70,7 @@ Peer review works through two channels: learners receive feedback from multiple 
 - [Peer feedback against success criteria: students locate where peers are in their learning and give actionable clues, hints, suggestions, or wonderings](peer-feedback-against-success-criteria.md)
 
 ## Examples
-- **Calibrated Peer Review (UCLA)** — discipline-agnostic web system where students calibrate on exemplars before reviewing peers; widely used in chemistry and writing courses.
+- **[Calibrated Peer Review](calibrated_peer_review.md) (UCLA)** — discipline-agnostic web system where students calibrate on exemplars before reviewing peers; widely used in chemistry and writing courses.
 - **Peerceptiv** — used in large university courses; algorithmically assigns reviews and grades both the work and the review quality.
 - **Writing-across-the-curriculum peer editing** — typical protocol: writers post drafts, reviewers respond to a 4-question prompt (strongest point, weakest point, one specific suggestion, one question), authors revise.
 

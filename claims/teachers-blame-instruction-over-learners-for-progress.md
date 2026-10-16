@@ -3,7 +3,7 @@ type: claim
 title: "Teachers attribute students' lack of pronunciation progress mainly to instruction and practice factors rather than learner factors"
 description: "Teachers attribute students' lack of pronunciation progress mainly to instruction and practice factors rather than learner factors"
 id: teachers-blame-instruction-over-learners-for-progress
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

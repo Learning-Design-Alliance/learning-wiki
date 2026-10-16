@@ -4,7 +4,7 @@ id: twig-science
 title: Twig Science
 description: "Twig Science is Twig Education's phenomena-based K–8 science curriculum aligned with the Next Generation Science Standards and built around the 5E instructional model."
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

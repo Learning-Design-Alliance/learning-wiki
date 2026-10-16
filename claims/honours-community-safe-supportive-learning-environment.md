@@ -3,7 +3,7 @@ type: claim
 title: Honours community members perceive a safe and supportive environment that facilitates exploring new ideas
 description: Honours community members perceive a safe and supportive environment that facilitates exploring new ideas
 id: honours-community-safe-supportive-learning-environment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

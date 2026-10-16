@@ -3,7 +3,7 @@ type: strategy
 id: staff-development-for-cooperative-learning
 title: Implement cooperative learning with extended training, direct social-skills teaching, and small initial groups
 description: "The bulletin's staff development section advises that although cooperative learning is inexpensive to implement, \"it takes time and practice for teachers to become skilled in its use.\" Teachers should directly teach s..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

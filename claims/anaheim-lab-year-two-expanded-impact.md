@@ -3,7 +3,7 @@ type: claim
 title: "Anaheim High School's lab showed sustained and expanded impact in year two, with student-led use outpacing teacher engagement"
 description: "Anaheim High School's lab showed sustained and expanded impact in year two, with student-led use outpacing teacher engagement"
 id: anaheim-lab-year-two-expanded-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

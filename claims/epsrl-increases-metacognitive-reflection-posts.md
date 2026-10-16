@@ -3,7 +3,7 @@ type: claim
 title: Students who use the ePSRL Management System post more scaffold reflections and self-reflections per month than non-users
 description: Students who use the ePSRL Management System post more scaffold reflections and self-reflections per month than non-users
 id: epsrl-increases-metacognitive-reflection-posts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

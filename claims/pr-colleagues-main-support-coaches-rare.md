@@ -3,7 +3,7 @@ type: claim
 title: "Colleagues, not coaches, were teachers' main source of technology support, and over a third of post-survey respondents reported no support"
 description: "Colleagues, not coaches, were teachers' main source of technology support, and over a third of post-survey respondents reported no support"
 id: pr-colleagues-main-support-coaches-rare
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

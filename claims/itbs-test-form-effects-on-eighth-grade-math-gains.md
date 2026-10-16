@@ -3,7 +3,7 @@ type: claim
 title: ITBS test form progression systematically influences eighth-grade math gain scores, with Form L-to-M years showing the largest gains and Form K-to-L years the smallest
 description: ITBS test form progression systematically influences eighth-grade math gain scores, with Form L-to-M years showing the largest gains and Form K-to-L years the smallest
 id: itbs-test-form-effects-on-eighth-grade-math-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

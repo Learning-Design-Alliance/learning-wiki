@@ -3,7 +3,7 @@ type: claim
 title: "Students' overall biology knowledge showed only a slight, statistically non-significant increase"
 description: "Students' overall biology knowledge showed only a slight, statistically non-significant increase"
 id: biology-knowledge-non-significant-slight-increase
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

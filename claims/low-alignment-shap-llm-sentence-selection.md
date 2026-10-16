@@ -3,7 +3,7 @@ type: claim
 title: SHAP and LLM explanation methods show consistently low alignment, with mean top-10 Jaccard similarity of 0.085
 description: SHAP and LLM explanation methods show consistently low alignment, with mean top-10 Jaccard similarity of 0.085
 id: low-alignment-shap-llm-sentence-selection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

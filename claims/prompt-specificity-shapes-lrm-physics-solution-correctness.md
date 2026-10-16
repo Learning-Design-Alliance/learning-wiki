@@ -3,7 +3,7 @@ type: claim
 title: Only the well-specified text-only prompt produced a correct quantitative result from o4-mini, while underspecified prompts led to numerical errors and misleading final results
 description: Only the well-specified text-only prompt produced a correct quantitative result from o4-mini, while underspecified prompts led to numerical errors and misleading final results
 id: prompt-specificity-shapes-lrm-physics-solution-correctness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

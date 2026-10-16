@@ -3,7 +3,7 @@ type: claim
 title: Neither IRAT nor TRAT distinguishes itself in correlation with module high scores, with isolated significant correlations on difficult topics
 description: Neither IRAT nor TRAT distinguishes itself in correlation with module high scores, with isolated significant correlations on difficult topics
 id: rat-module-high-scores-no-distinction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

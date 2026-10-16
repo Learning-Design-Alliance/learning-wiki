@@ -3,7 +3,7 @@ type: strategy
 id: teach-ai-mediated-judgement-assessment
 title: Teach AI-mediated judgement and make process, judgement and transfer visible in assessment
 description: "The review recommends pedagogy that moves from policing AI use to teaching AI-mediated judgement: learners should practise lateral reading, source triangulation and annotate AI responses to identify unsupported assump..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Reading Recovery has positive effects on general reading achievement for beginning readers, based on three randomized controlled trials
 description: Reading Recovery has positive effects on general reading achievement for beginning readers, based on three randomized controlled trials
 id: reading-recovery-positive-general-reading-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: "The size of tutoring programs' effects on student math knowledge aligned with the quality of their implementation"
 description: "The size of tutoring programs' effects on student math knowledge aligned with the quality of their implementation"
 id: tutoring-effect-size-aligned-with-implementation-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

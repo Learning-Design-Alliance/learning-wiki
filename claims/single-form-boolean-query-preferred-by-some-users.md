@@ -3,7 +3,7 @@ type: claim
 title: Some users prefer a single-form Boolean query interface to the original Entrez interface
 description: Some users prefer a single-form Boolean query interface to the original Entrez interface
 id: single-form-boolean-query-preferred-by-some-users
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

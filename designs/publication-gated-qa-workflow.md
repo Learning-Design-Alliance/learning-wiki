@@ -3,7 +3,7 @@ type: design
 id: publication-gated-qa-workflow
 title: "Structurally embedded quality assurance: publication gated behind completed test-correct-verify cycles"
 description: This pattern embeds quality assurance structurally in the authoring workflow rather than relying on voluntary compliance.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

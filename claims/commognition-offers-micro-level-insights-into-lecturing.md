@@ -3,7 +3,7 @@ type: claim
 title: Commognitive analysis of lecturing offers micro-level insights into lecturer-student communication that non-commognitive approaches miss
 description: Commognitive analysis of lecturing offers micro-level insights into lecturer-student communication that non-commognitive approaches miss
 id: commognition-offers-micro-level-insights-into-lecturing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

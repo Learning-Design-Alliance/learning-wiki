@@ -3,7 +3,7 @@ type: claim
 title: Frontier LLMs barely exceed a trivial baseline on knowledge tracing, with the best model surpassing always-predict-correct by only about five percentage points
 description: Frontier LLMs barely exceed a trivial baseline on knowledge tracing, with the best model surpassing always-predict-correct by only about five percentage points
 id: llms-barely-exceed-trivial-baseline-kt
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

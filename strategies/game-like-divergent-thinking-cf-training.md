@@ -3,7 +3,7 @@ type: strategy
 id: game-like-divergent-thinking-cf-training
 title: Use fun, game-like divergent-thinking problem-solving tasks with explicit teacher modeling as cognitive flexibility training before phonemic awareness instruction
 description: "The article's cognitive flexibility training consisted of game-like problem-solving tasks: \"the students and teachers in Group 1 (receiving cognitive flexibility training), participated in fun, game-like problem-solvi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

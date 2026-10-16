@@ -3,7 +3,7 @@ type: strategy
 id: responsible-assessment-context-audit-ai-vocal
 title: Audit AI vocal-assessment systems for bias, transparency, privacy, and recording-context robustness before evaluative use
 description: "The article identifies conditions for responsible assessment: algorithmic bias may arise from evaluative assumptions embedded in what a system rewards, so a system optimized for smoothness or acoustic stability may ma..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

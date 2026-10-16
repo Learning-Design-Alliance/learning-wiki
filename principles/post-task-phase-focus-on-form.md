@@ -3,7 +3,7 @@ type: principle
 id: post-task-phase-focus-on-form
 title: Include a post-task phase that directs attention to form and showcases improved performance as part of every repetition task
 description: "In the post-task phase the teacher directs focus to form, posing awareness questions about language forms learners struggled with, and it \"can serve as an assessment tool\" so it should be an inherent part of a task."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

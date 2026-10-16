@@ -3,7 +3,7 @@ type: claim
 title: "Introductory physics students taught with Just-in-Time Teaching showed larger overall Force Concept Inventory gains (37.6%±2.0%) than students in traditional lecture courses (17.9%±2.5%)"
 description: "Introductory physics students taught with Just-in-Time Teaching showed larger overall Force Concept Inventory gains (37.6%±2.0%) than students in traditional lecture courses (17.9%±2.5%)"
 id: jitt-larger-fci-gains-than-lecture
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

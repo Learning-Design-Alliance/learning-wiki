@@ -3,7 +3,7 @@ type: claim
 title: British empirical research concluded that students do not naturally progress in historical understanding with age but progress because of targeted instruction designed to support it
 description: British empirical research concluded that students do not naturally progress in historical understanding with age but progress because of targeted instruction designed to support it
 id: targeted-instruction-drives-historical-thinking-progression
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -2,7 +2,7 @@
 type: theory
 title: Counelis typology of research designs by time/space assumptions and unit versus class
 description: "The report uses Counelis' typology crossing kairotic versus chronotic time/space assumptions with unit object versus object class, yielding history, survey, case, and experiment as generic research designs."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

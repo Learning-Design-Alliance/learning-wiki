@@ -2,7 +2,7 @@
 type: theory
 title: "Goffman's role distance concept: behaviors perceived as expressing detachment, disaffection, or resistance against a situated role"
 description: "The paper presents Goffman's role distance concept as the analytical tool proposed for operationalizing authenticity."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

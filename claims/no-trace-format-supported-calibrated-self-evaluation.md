@@ -3,7 +3,7 @@ type: claim
 title: "No trace format supported calibrated self-evaluation: perceived-achieved correlations were low and non-significant in all conditions"
 description: "No trace format supported calibrated self-evaluation: perceived-achieved correlations were low and non-significant in all conditions"
 id: no-trace-format-supported-calibrated-self-evaluation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

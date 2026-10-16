@@ -3,7 +3,7 @@ type: claim
 title: Main structural paths remain substantively unchanged after controlling for gender, major, and AI tool use frequency
 description: Main structural paths remain substantively unchanged after controlling for gender, major, and AI tool use frequency
 id: paths-robust-to-demographic-controls
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Task rehearsal improves fluency and complexity on the repeated task but does not transfer to a new task of the same type
 description: Task rehearsal improves fluency and complexity on the repeated task but does not transfer to a new task of the same type
 id: task-repetition-fluency-complexity-same-task-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

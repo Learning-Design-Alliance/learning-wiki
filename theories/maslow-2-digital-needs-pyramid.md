@@ -2,7 +2,7 @@
 type: theory
 title: "Maslow 2.0 Digital Needs Pyramid: a digital-transformation revision of Maslow's hierarchy in which each need level is classified by Web 2.0 tools"
 description: "The Maslow 2.0 Digital Needs Pyramid rethinks Maslow's five-level hierarchy of needs for the postmodern, digitally transformed world: the need names are unchanged but their satisfaction is renewed, and each pyramid st..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

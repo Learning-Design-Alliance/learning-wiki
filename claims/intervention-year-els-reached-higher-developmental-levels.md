@@ -3,7 +3,7 @@ type: claim
 title: Intervention-year ELs reached higher DRDP developmental levels by spring than prior-year ELs, while Non-ELs showed no discernable difference or a slight prior-year advantage
 description: Intervention-year ELs reached higher DRDP developmental levels by spring than prior-year ELs, while Non-ELs showed no discernable difference or a slight prior-year advantage
 id: intervention-year-els-reached-higher-developmental-levels
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

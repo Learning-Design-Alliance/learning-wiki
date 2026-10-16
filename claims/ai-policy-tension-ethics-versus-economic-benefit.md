@@ -3,7 +3,7 @@ type: claim
 title: A tension exists across AI policies between ensuring ethical use of AI and promoting economic benefit, with different countries prioritizing different sides
 description: A tension exists across AI policies between ensuring ethical use of AI and promoting economic benefit, with different countries prioritizing different sides
 id: ai-policy-tension-ethics-versus-economic-benefit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

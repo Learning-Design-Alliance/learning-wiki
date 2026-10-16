@@ -3,7 +3,7 @@ type: claim
 title: Existing CS and AI unplugged activity collections contain few resources specifically about language models or text generation, leaving a gap LLMs Unplugged fills
 description: Existing CS and AI unplugged activity collections contain few resources specifically about language models or text generation, leaving a gap LLMs Unplugged fills
 id: gap-unplugged-resources-language-models
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
@@ -44,3 +44,4 @@ The author's survey of existing unplugged collections in the introduction, which
 
 ## Related Claims
 - [Instruction in STEAM AI literacy is predominantly technology-enhanced (82.1% of studies) rather than unplugged (17.9%)](steam-ai-literacy-instruction-technology-enhanced-dominant.md) — related
+- [Existing K-12 computing standards give AI minimal coverage](csta-standards-minimal-ai-coverage.md) — related

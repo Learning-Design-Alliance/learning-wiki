@@ -3,7 +3,7 @@ type: strategy
 id: unit-fractions-by-partitioning-single-objects
 title: Introduce unit fractions through partitioning a single object among sharers
 description: After students are comfortable dividing sets equally, teachers introduce the new challenge of partitioning one object so each sharer receives an equal share.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

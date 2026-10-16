@@ -3,7 +3,7 @@ type: claim
 title: "Three recurring challenges disrupt parent-child math tutoring: cognitive misalignment, emotional escalation, and method mismatch"
 description: "Three recurring challenges disrupt parent-child math tutoring: cognitive misalignment, emotional escalation, and method mismatch"
 id: three-challenges-parent-child-math-tutoring
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

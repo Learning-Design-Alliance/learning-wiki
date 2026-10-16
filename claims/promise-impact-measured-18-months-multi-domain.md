@@ -3,7 +3,7 @@ type: claim
 title: The PROMISE evaluation measured impacts on service receipt, education, employment, expectations, health insurance, income, self-determination, and public assistance at 18 months after enrollment
 description: The PROMISE evaluation measured impacts on service receipt, education, employment, expectations, health insurance, income, self-determination, and public assistance at 18 months after enrollment
 id: promise-impact-measured-18-months-multi-domain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

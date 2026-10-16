@@ -3,7 +3,7 @@ type: claim
 title: School change efforts under the reform are classifiable as either systemic or unfocused
 description: School change efforts under the reform are classifiable as either systemic or unfocused
 id: systemic-versus-unfocused-change-classification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

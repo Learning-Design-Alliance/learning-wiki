@@ -2,7 +2,7 @@
 type: theory
 title: Theoretical Domains Framework for identifying determinants of implementation behavior
 description: "The Theoretical Domains Framework (TDF) is \"a collection of theories relevant to intervention implementation, with various theoretical perspectives and constructs grouped into 14 domains that explain possible determin..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

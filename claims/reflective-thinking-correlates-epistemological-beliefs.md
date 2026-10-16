@@ -3,7 +3,7 @@ type: claim
 title: Reflective thinking dimensions correlate positively with learning process/expert knowledge and learning effort, and negatively with innate/fixed ability and certainty of knowledge
 description: Reflective thinking dimensions correlate positively with learning process/expert knowledge and learning effort, and negatively with innate/fixed ability and certainty of knowledge
 id: reflective-thinking-correlates-epistemological-beliefs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -66,3 +66,4 @@ Correlation analysis (Table 6, n=410) for the looking professional dimension; al
 - [Historical increases in peak performance contradict fixed innate upper limits](historical-improvements-reject-immutable-limits.md) — related
 - [Adults' resorting to epistemic violence correlates negatively with past enjoyment of and tendency toward education-related epistemic freedom](epistemic-violence-negatively-correlated-epistemic-freedom.md) — related
 - [Preservice teachers' reflective thinking tendencies differ statistically by learning style in all seven dimensions](reflective-thinking-differs-by-learning-style.md) — related
+- [Negative knowledge supports three functions in professional work: certainty, efficiency, and reflection](negative-knowledge-three-functions.md) — related

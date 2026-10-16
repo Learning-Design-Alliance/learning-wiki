@@ -3,7 +3,7 @@ type: claim
 title: The proposed framework outperforms fine-tuned BERT, Instructor-LM, GPT-4, and RAPT on TeacherEval-2023 across consistency, credibility, calibration, and fairness metrics
 description: The proposed framework outperforms fine-tuned BERT, Instructor-LM, GPT-4, and RAPT on TeacherEval-2023 across consistency, credibility, calibration, and fairness metrics
 id: llm-teacher-assessment-outperforms-baselines-teachereval
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

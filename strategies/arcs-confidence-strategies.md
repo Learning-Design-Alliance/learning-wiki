@@ -3,7 +3,7 @@ type: strategy
 id: arcs-confidence-strategies
 title: "ARCS confidence strategies: learning requirements, success opportunities and personal responsibility"
 description: "Confidence is the third ARCS component, described as strategies \"that help students develop a positive expectation for successful achievement\"."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

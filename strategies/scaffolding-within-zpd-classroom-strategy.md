@@ -3,7 +3,7 @@ type: strategy
 id: scaffolding-within-zpd-classroom-strategy
 title: Use scaffolding techniques to help students complete tasks within their zones of proximal development
 description: "The article presents scaffolding as the primary classroom application of Vygotsky's theory, citing Glasser's recommendation to \"use scaffolding to assist students with completing tasks within their Zones of Proximal D..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

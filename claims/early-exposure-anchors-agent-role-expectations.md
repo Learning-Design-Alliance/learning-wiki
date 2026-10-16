@@ -3,7 +3,7 @@ type: claim
 title: Role expectations for a group-facing AI agent are anchored in early encounters rather than renegotiated throughout collaboration
 description: Role expectations for a group-facing AI agent are anchored in early encounters rather than renegotiated throughout collaboration
 id: early-exposure-anchors-agent-role-expectations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

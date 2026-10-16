@@ -3,7 +3,7 @@ type: strategy
 id: five-leader-actions-family-engagement
 title: Five actions for school and district leaders to improve family engagement with young learners
 description: The report recommends that leaders (1) collect and regularly review family engagement data disaggregated by race, ethnicity, home language, disability status, and income; (2) provide supports and clearer communication...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

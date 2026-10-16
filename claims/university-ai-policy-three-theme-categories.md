@@ -3,7 +3,7 @@ type: claim
 title: "University AI policy themes fall into three main categories: usage and education, technology and tools, and governance and potential risks"
 description: "University AI policy themes fall into three main categories: usage and education, technology and tools, and governance and potential risks"
 id: university-ai-policy-three-theme-categories
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

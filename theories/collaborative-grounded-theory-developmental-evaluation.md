@@ -2,7 +2,7 @@
 type: theory
 title: Collaborative grounded theory as an approach to qualitative data analysis and theory generation in developmental evaluation of education policy
 description: The article presents collaborative grounded theory as a methodological approach in which qualitative data analysis and theory generation are carried out jointly by multiple researchers.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -48,4 +48,4 @@ The article presents collaborative grounded theory as a methodological approach 
 - [Use two researchers as independent instruments for interpretation instead of one researcher confirming the other's reliability](../strategies/two-researchers-independent-interpretive-instruments.md)
 
 ## Key Sources
-- Anderson, R., Guerreiro, M., & Smith, J. (2016). Are all biases bad? Collaborative grounded theory in developmental evaluation of education policy. Journal of Multidisciplinary Evaluation 12(27), 44-57. https://www.nwea.org/research/publication/are-all-biases-bad-collaborative-grounded-theory-in-developmental-evaluation-of-education-policy/
+- Anderson, R., Guerreiro, M., & Smith, J. (2016). Are all biases bad? Collaborative grounded theory in developmental evaluation of education policy. Journal of Multidisciplinary Evaluation 12(27), 44-57. https://www.nwea.org/research/publication/are-all-biases-bad-collaborative-grounded-theory-in-developmental-evaluation-of-education-policy/. [doi:10.56645/jmde.v12i27.449](https://doi.org/10.56645/jmde.v12i27.449)

@@ -3,7 +3,7 @@ type: claim
 title: "88% of LEAs projected sufficient classroom space by full TK expansion in 2025–26, yet facilities remained a top implementation challenge"
 description: "88% of LEAs projected sufficient classroom space by full TK expansion in 2025–26, yet facilities remained a top implementation challenge"
 id: tk-facilities-sufficiency-and-challenges
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

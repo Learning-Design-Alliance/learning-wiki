@@ -3,7 +3,7 @@ type: claim
 title: Educators who participated in TPE-related training agree more with positive statements about TPE than those without training or information
 description: Educators who participated in TPE-related training agree more with positive statements about TPE than those without training or information
 id: tpe-training-linked-to-more-positive-educator-perceptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

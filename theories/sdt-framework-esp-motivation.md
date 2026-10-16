@@ -2,7 +2,7 @@
 type: theory
 title: Self-Determination Theory as a framework for L2/ESP motivation
 description: SDT is a broad framework distinguishing intrinsic motivation (knowledge, accomplishment, stimulation subtypes) from extrinsic motivation subtypes ranked along a continuum of self-determination (external, introjected,...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

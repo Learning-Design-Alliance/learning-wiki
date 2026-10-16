@@ -3,7 +3,7 @@ type: claim
 title: Favorability scores were not associated with posttest scores, suggesting they reflect general attitudes toward the practice method
 description: Favorability scores were not associated with posttest scores, suggesting they reflect general attitudes toward the practice method
 id: favorability-not-associated-with-posttest-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

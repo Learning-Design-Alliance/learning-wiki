@@ -3,7 +3,7 @@ type: claim
 title: A WWC expert panel distilled recent research into seven recommendations for preschool educators on preparing young children for school
 description: A WWC expert panel distilled recent research into seven recommendations for preschool educators on preparing young children for school
 id: wwc-seven-recommendations-preschool-school-readiness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

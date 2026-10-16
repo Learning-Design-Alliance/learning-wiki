@@ -3,7 +3,7 @@ type: strategy
 id: teacher-in-the-loop-diagnostic-verification
 title: Use teacher-in-the-loop verification targeted at each error stage rather than fully automated LLM diagnosis
 description: "The article recommends moving \"beyond fully automated diagnosis toward transparency and selective human verification.\" Teachers intervene at specific pipeline stages: validating whether identified evidence is actually..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

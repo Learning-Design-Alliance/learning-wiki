@@ -3,7 +3,7 @@ type: research-method
 id: five-dimension-framework-for-manually-evaluating-system-generated-feedback
 title: Five-dimension framework for manually evaluating system-generated feedback
 description: "The article proposes a human-centered evaluation framework for generated feedback, stating \"we manually evaluate generated feedback in five dimensions: Readability, Suggestions, Problems, Positive Tone, and Factuality\"."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

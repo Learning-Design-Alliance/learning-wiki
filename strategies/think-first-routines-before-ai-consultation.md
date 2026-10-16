@@ -3,7 +3,7 @@ type: strategy
 id: think-first-routines-before-ai-consultation
 title: Make the distribution of epistemic responsibility an explicit object of instruction, including think-first routines before consulting the AI
 description: The authors suggest teachers make explicit which parts of a task students want AI to support, which processes they are expected to practice themselves, and how to recognize when assistance has begun to substitute for...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -47,4 +47,4 @@ The authors suggest teachers make explicit which parts of a task students want A
 -
 
 ## Key Sources
-- Abdelghani, R., Kaiser, P., Murayama, K. (2026). Changes in Help-Seeking Strategies Predict unaided Performance during AI-based Mathematical Learning. https://arxiv.org/abs/2606.28472
+- Abdelghani, R., Kaiser, P., Murayama, K. (2026). Changes in Help-Seeking Strategies Predict unaided Performance during AI-based Mathematical Learning. https://arxiv.org/abs/2606.28472. [doi:10.48550/arxiv.2606.28472](https://doi.org/10.48550/arxiv.2606.28472)

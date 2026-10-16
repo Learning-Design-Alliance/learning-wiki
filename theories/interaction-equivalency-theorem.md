@@ -2,7 +2,7 @@
 type: theory
 title: "Interaction Equivalency Theorem: deep formal learning is supported when one of three interaction forms is at a high level"
 description: The Interaction Equivalency Theorem, posited by Anderson (2003a), holds that deep and meaningful formal learning is supported as long as one of the three forms of interaction — student-teacher, student-student, or stu...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -4,7 +4,7 @@ id: successor-prep
 title: Successor Prep
 description: A KIPP school leadership programme that prepares new principals to lead existing KIPP schools.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

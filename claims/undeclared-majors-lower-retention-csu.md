@@ -3,7 +3,7 @@ type: claim
 title: Students who entered CSU without declaring a major were retained at slightly lower rates than students who entered with a declared major
 description: Students who entered CSU without declaring a major were retained at slightly lower rates than students who entered with a declared major
 id: undeclared-majors-lower-retention-csu
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

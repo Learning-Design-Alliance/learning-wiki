@@ -3,7 +3,7 @@ type: claim
 title: In eSpark quests requiring three post-quiz attempts, students reached the 80 percent mastery criterion only 14 percent of the time
 description: In eSpark quests requiring three post-quiz attempts, students reached the 80 percent mastery criterion only 14 percent of the time
 id: espark-post-quiz-mastery-failure-rate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

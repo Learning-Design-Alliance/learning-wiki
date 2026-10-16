@@ -3,7 +3,7 @@ type: design
 id: student-centered-first-person-responsible-use-policy
 title: Student-centered responsible use policies written in first-person responsibility language
 description: "The deck recommends crafting student-centered policies by condensing them into 10 or fewer main points and crafting language so that learners assume responsibility for their actions by starting with the phrase: \"I am..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: ai-accessibility-design-implications-special-education
 title: Design AI-assisted accessibility tools for personalization, practitioner review, and cultural and contextual specificity
 description: "The article distills its findings into design implications for AI-assisted accessibility tools in special education: personalization, practitioner review, and contextual specificity."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

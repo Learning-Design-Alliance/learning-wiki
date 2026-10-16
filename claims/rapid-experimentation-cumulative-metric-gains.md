@@ -3,7 +3,7 @@ type: claim
 title: "Cumulative rapid experimentation improved next-item correctness by 10% and cognitive engagement by 14% over five months"
 description: "Cumulative rapid experimentation improved next-item correctness by 10% and cognitive engagement by 14% over five months"
 id: rapid-experimentation-cumulative-metric-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

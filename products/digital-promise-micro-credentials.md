@@ -4,7 +4,7 @@ id: digital-promise-micro-credentials
 title: Digital Promise Micro-credentials
 description: Digital Promise runs a platform and programme through which educators earn competency-based micro-credentials, with issuers including universities, nonprofits, districts, and the NEA.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
@@ -76,7 +76,7 @@ Digital Promise runs a platform and programme through which educators earn compe
 - Micro-credentials: Igniting Impact in the Ecosystem. (2016). Digital Promise. https://digitalpromise.dspacedirect.org/items/bd6ad6c4-3903-4870-a911-6ee05ba0ae8e
 - Carol Lopez and Odelia Younge. (2021). Cultivating a Culture of Coaching to Support Powerful Use of Technology: Results from the Challenge-based Coaching Model Pilot in Puerto Rico. Digital Promise report. https://digitalpromise.dspacedirect.org/items/71c26d6b-e789-4ca3-b643-dcc98422a36d
 - Carol Lopez, Odelia Younge. (2021). Creating Conditions for Powerful Technology Use: Teachers' Technology Journey in Puerto Rico. Digital Promise. https://digitalpromise.dspacedirect.org/items/bcbf5887-7cf2-48be-b776-c19cb5ef979f
-- Berry, B., & Byrd, P. A. (2019). Micro-credentials and Education Policy in the United States: Recognizing Learning and Leadership for Our Nation's Teachers. Digital Promise. https://digitalpromise.dspacedirect.org/items/65a7d0ed-66b1-4d5b-ac51-6bcf25285dd3
+- Berry, B., & Byrd, P. A. (2019). Micro-credentials and Education Policy in the United States: Recognizing Learning and Leadership for Our Nation's Teachers. Digital Promise. https://digitalpromise.dspacedirect.org/items/65a7d0ed-66b1-4d5b-ac51-6bcf25285dd3. [doi:10.51388/20.500.12265/104](https://doi.org/10.51388/20.500.12265/104)
 
 <!-- merged 2026-10-10 from elements/ct-booster-microcredentials-data-algorithms ("Micro-credential stack pairing data analysis with algorithm creation"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Digital Promise. (2021, March). Powerful learning with computational thinking: Our why, what, and how of computational thinking. Digital Promise. https://doi.org/10.51388/20.500.12265/115
@@ -85,7 +85,7 @@ Digital Promise runs a platform and programme through which educators earn compe
 - Micro-credentials: Igniting Impact in the Ecosystem. (2016). Digital Promise. https://digitalpromise.dspacedirect.org/items/bd6ad6c4-3903-4870-a911-6ee05ba0ae8e
 - Carol Lopez and Odelia Younge. (2021). Cultivating a Culture of Coaching to Support Powerful Use of Technology: Results from the Challenge-based Coaching Model Pilot in Puerto Rico. Digital Promise report. https://digitalpromise.dspacedirect.org/items/71c26d6b-e789-4ca3-b643-dcc98422a36d
 - Carol Lopez, Odelia Younge. (2021). Creating Conditions for Powerful Technology Use: Teachers' Technology Journey in Puerto Rico. Digital Promise. https://digitalpromise.dspacedirect.org/items/bcbf5887-7cf2-48be-b776-c19cb5ef979f
-- Berry, B., & Byrd, P. A. (2019). Micro-credentials and Education Policy in the United States: Recognizing Learning and Leadership for Our Nation's Teachers. Digital Promise. https://digitalpromise.dspacedirect.org/items/65a7d0ed-66b1-4d5b-ac51-6bcf25285dd3
+- Berry, B., & Byrd, P. A. (2019). Micro-credentials and Education Policy in the United States: Recognizing Learning and Leadership for Our Nation's Teachers. Digital Promise. https://digitalpromise.dspacedirect.org/items/65a7d0ed-66b1-4d5b-ac51-6bcf25285dd3. [doi:10.51388/20.500.12265/104](https://doi.org/10.51388/20.500.12265/104)
 
 # Micro-credential stack pairing data analysis with algorithm creation
 
@@ -424,5 +424,5 @@ The micro-credentialing ecosystem is a set of platforms and issuers through whic
 - [Use the Good, Better, Best Fit model to guide educators' selection of micro-credentials](../strategies/good-better-best-fit-micro-credential-selection.md)
 
 ## Key Sources
-- Berry, B., & Byrd, P. A. (2019). Micro-credentials and Education Policy in the United States: Recognizing Learning and Leadership for Our Nation's Teachers. Digital Promise. https://digitalpromise.dspacedirect.org/items/65a7d0ed-66b1-4d5b-ac51-6bcf25285dd3
+- Berry, B., & Byrd, P. A. (2019). Micro-credentials and Education Policy in the United States: Recognizing Learning and Leadership for Our Nation's Teachers. Digital Promise. https://digitalpromise.dspacedirect.org/items/65a7d0ed-66b1-4d5b-ac51-6bcf25285dd3. [doi:10.51388/20.500.12265/104](https://doi.org/10.51388/20.500.12265/104)
 -->

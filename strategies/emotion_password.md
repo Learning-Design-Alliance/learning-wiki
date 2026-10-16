@@ -67,7 +67,7 @@ The strategy draws on the facial feedback tradition, which holds that producing 
 - [Practice](../elements/practice.md) — repeated daily trials build fluency in expression recognition
 
 ## Examples
-- **RULER (Yale Center for Emotional Intelligence)** — the "Mood Meter" routine serves the same threshold function in a more structured form: learners locate their current emotional state on a valence/energy grid at the start of class. https://ei.yale.edu/ruler
+- **[RULER](../products/ruler.md) (Yale Center for Emotional Intelligence)** — the "Mood Meter" routine serves the same threshold function in a more structured form: learners locate their current emotional state on a valence/energy grid at the start of class. https://ei.yale.edu/ruler
 - **Early-elementary morning entry ritual** — a kindergarten teacher posts a picture card of the day's expression; children make the face at the door, then mark their own current feeling on a chart during morning circle.
 
 ## Key Sources

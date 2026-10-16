@@ -3,7 +3,7 @@ type: claim
 title: Cross-model validation shows consistent degradation under multi-strategy attack across Llama-3.3-70B, GPT-4o-mini, and Claude-3.5-Haiku, with significant differences between models
 description: Cross-model validation shows consistent degradation under multi-strategy attack across Llama-3.3-70B, GPT-4o-mini, and Claude-3.5-Haiku, with significant differences between models
 id: cross-model-rpla-degradation-consistent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

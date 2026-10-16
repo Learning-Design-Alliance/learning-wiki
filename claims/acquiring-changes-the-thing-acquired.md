@@ -3,7 +3,7 @@ type: claim
 title: Mead holds that the process of acquiring changes the thing acquired, making change of subject matter the rule
 description: Mead holds that the process of acquiring changes the thing acquired, making change of subject matter the rule
 id: acquiring-changes-the-thing-acquired
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

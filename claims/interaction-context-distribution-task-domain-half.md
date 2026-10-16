@@ -3,7 +3,7 @@ type: claim
 title: "Task-directed turns account for roughly half of interactions, with AI-output references about 30% and own-work references about 20%"
 description: "Task-directed turns account for roughly half of interactions, with AI-output references about 30% and own-work references about 20%"
 id: interaction-context-distribution-task-domain-half
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

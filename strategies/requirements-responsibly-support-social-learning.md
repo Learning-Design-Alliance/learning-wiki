@@ -3,7 +3,7 @@ type: strategy
 id: requirements-responsibly-support-social-learning
 title: "Responsibly supporting social learning online requires six capabilities: shared user experience, role models, formal and informal learning, analytics, rewards, and FERPA compliance"
 description: "The paper argues that an online learning platform should \"securely integrate social media tools within a social learning context\" and provide a seamless user experience in both formal and informal modes."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

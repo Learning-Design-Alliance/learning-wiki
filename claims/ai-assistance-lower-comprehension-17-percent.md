@@ -3,7 +3,7 @@ type: claim
 title: "Developers who used AI assistance scored 17% lower on a subsequent comprehension assessment than developers who completed the same tasks without AI, per the cited controlled study"
 description: "Developers who used AI assistance scored 17% lower on a subsequent comprehension assessment than developers who completed the same tasks without AI, per the cited controlled study"
 id: ai-assistance-lower-comprehension-17-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

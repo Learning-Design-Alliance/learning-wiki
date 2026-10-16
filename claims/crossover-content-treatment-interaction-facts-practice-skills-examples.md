@@ -3,7 +3,7 @@ type: claim
 title: In a human experiment, verbatim facts are learned better from practice-only training while general skills are learned better from example-integrated training (cross-over content-treatment interaction)
 description: In a human experiment, verbatim facts are learned better from practice-only training while general skills are learned better from example-integrated training (cross-over content-treatment interaction)
 id: crossover-content-treatment-interaction-facts-practice-skills-examples
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

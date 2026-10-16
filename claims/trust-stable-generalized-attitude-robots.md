@@ -3,7 +3,7 @@ type: claim
 title: Trust evaluations were strongly and positively correlated across all robot–task combinations, suggesting trust in social robots may be a stable, generalized attitude
 description: Trust evaluations were strongly and positively correlated across all robot–task combinations, suggesting trust in social robots may be a stable, generalized attitude
 id: trust-stable-generalized-attitude-robots
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

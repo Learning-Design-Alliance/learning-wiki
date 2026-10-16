@@ -3,7 +3,7 @@ type: strategy
 id: astra-adaptive-scenario-generation
 title: "Adaptive scenario generation: introduce training scenarios targeting weaknesses identified from real-time performance metrics"
 description: Rather than relying solely on fixed scenarios, ASTRA proposes automatically generating training situations from trainee performance.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Draft usefulness varies by grading context: higher for submissions with mistakes and applied questions"
 description: "Draft usefulness varies by grading context: higher for submissions with mistakes and applied questions"
 id: draft-usefulness-varies-by-grading-context
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

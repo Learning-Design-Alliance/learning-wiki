@@ -3,7 +3,7 @@ type: element
 id: seds-oversubscription-regression-discontinuity-design
 title: Regression discontinuity design exploiting oversubscription rationing of SEdS
 description: "The study's identification strategy exploits a program rule: oversubscribed districts must serve the lowest-achieving eligible applicants first, and districts use \"a continuous measure of prior academic achievement to..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -45,7 +45,6 @@ The study's identification strategy exploits a program rule: oversubscribed dist
 
 - [SES provider landscape and service delivery characteristics in oversubscribed districts](ses-provider-landscape-characteristics.md)
 - [Supplemental Educational Services (SEdS) under No Child Left Behind](../products/supplemental-educational-services.md)
-- [Title I Supplemental Educational Services (SES) tutoring program](../products/title-i-supplemental-educational-services-ses.md)
 - [Regression discontinuity design applied to NCLB AYP thresholds in Title I schools](rd-design-nclb-ayp-thresholds.md)
 - [Waitlist-cutoff research design using administrative course registration data](../research-methods/waitlist-cutoff-regression-discontinuity-design-using-administrative-course-registration-d.md)
 

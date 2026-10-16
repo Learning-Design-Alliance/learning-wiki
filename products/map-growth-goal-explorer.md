@@ -4,7 +4,7 @@ id: map-growth-goal-explorer
 title: MAP Growth Goal Explorer
 description: MAP Growth Goal Explorer is an NWEA software tool that helps teachers, families, and students set fall-to-spring growth goals and compare projected scores with academic benchmarks.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

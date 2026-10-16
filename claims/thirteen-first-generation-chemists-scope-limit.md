@@ -3,7 +3,7 @@ type: claim
 title: "The editorial's insights derive from reflections of 13 first-generation chemists and cannot represent all first-generation scientists"
 description: "The editorial's insights derive from reflections of 13 first-generation chemists and cannot represent all first-generation scientists"
 id: thirteen-first-generation-chemists-scope-limit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

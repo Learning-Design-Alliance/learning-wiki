@@ -73,7 +73,7 @@ Grades are intended to communicate achievement, but zeros typically communicate 
 
 ## Examples
 - **Douglas County School District (Colorado)** and numerous individual U.S. districts adopted 50% floors in the 2010s, typically alongside required re-do provisions.
-- **Joe Feldman's *Grading for Equity* (2019)** framework, implemented in schools across California, combines a 50% floor with separate behavior reporting and revised late-work policies.
+- **Joe Feldman's *[Grading for Equity](grading-for-equity.md)* (2019)** framework, implemented in schools across California, combines a 50% floor with separate behavior reporting and revised late-work policies.
 - A common classroom version: missing work is entered as 50% "incomplete" and must be completed within a set window (e.g., two weeks or before the next grading period) to restore full credit.
 
 ## Key Sources

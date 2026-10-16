@@ -3,7 +3,7 @@ type: claim
 title: After pairing, both groups favored saving progress over abrupt transitions and trusted data-informed future pairing over student-only ratings.
 description: After pairing, both groups favored saving progress over abrupt transitions and trusted data-informed future pairing over student-only ratings.
 id: claim-post-pairing-progress-and-data-informed-pairing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -11,15 +11,15 @@ evidence_strength: moderate
 sources:
   - id: kexin-bella-yang-2026
     resource: "https://doi.org/10.1145/3816902"
-    title: "Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, and Vincent Aleven. (2026). Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing. https://scholar.google.com/scholar?q=Balancing+Teacher+and+Student+Agency+Co-Orchestration+Tool+Design+Supporting+Real-Time+Dynamic+Pairing [doi:10.1145/3816902](https://doi.org/10.1145/3816902)"
+    title: "Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, and Vincent Aleven. (2026). Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing. https://doi.org/10.1145/3816902 [doi:10.1145/3816902](https://doi.org/10.1145/3816902)"
     author: Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, and Vincent Aleven
     q: 2
     i: "?"
     kind: design
     rigour: 2
   - id: kexin-bella-yang-2026-2
-    resource: "https://scholar.google.com/scholar?q=Balancing+Teacher+and+Student+Agency+Co-Orchestration+Tool+Design+Supporting+Real-Time+Dynamic+Pairing"
-    title: "Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, and Vincent Aleven. (2026). Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing. https://scholar.google.com/scholar?q=Balancing+Teacher+and+Student+Agency+Co-Orchestration+Tool+Design+Supporting+Real-Time+Dynamic+Pairing"
+    resource: "https://doi.org/10.1145/3816902"
+    title: "Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, and Vincent Aleven. (2026). Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing. https://doi.org/10.1145/3816902"
     author: Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, and Vincent Aleven
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # After pairing, both groups favored saving progress over abrupt transitions and trusted data-informed future pairing over student-only ratings.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Both teachers and students ranked “Save progress and resume” highest and “Stop when teacher asks” lowest for smooth transitions. [→ Kexin Bella Yang 2026](#kexin-bella-yang-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Kexin Bella Yang 2026
 
-Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, and Vincent Aleven. (2026). Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing. https://scholar.google.com/scholar?q=Balancing+Teacher+and+Student+Agency+Co-Orchestration+Tool+Design+Supporting+Real-Time+Dynamic+Pairing [doi:10.1145/3816902](https://doi.org/10.1145/3816902)
+Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, and Vincent Aleven. (2026). Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing. https://doi.org/10.1145/3816902 [doi:10.1145/3816902](https://doi.org/10.1145/3816902)
 
 `q2 · i?` · `design · r2`
 
@@ -50,7 +50,7 @@ Ranking results from Challenge 6 on smooth transitions between collaborative and
 
 ### Kexin Bella Yang 2026 (2)
 
-Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, and Vincent Aleven. (2026). Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing. https://scholar.google.com/scholar?q=Balancing+Teacher+and+Student+Agency+Co-Orchestration+Tool+Design+Supporting+Real-Time+Dynamic+Pairing
+Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, and Vincent Aleven. (2026). Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing. https://doi.org/10.1145/3816902
 
 `q2 · i?` · `design · r2`
 

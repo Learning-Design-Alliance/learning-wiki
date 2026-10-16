@@ -3,7 +3,7 @@ type: claim
 title: Allowing learners to request knowledge of results before a trial and then revise the choice after it (Self-Both) did not produce learning beyond deciding only after the trial (Self-After), which the authors take as no support for an additive motivational-plus-informational effect.
 description: Allowing learners to request knowledge of results before a trial and then revise the choice after it (Self-Both) did not produce learning beyond deciding only after the trial (Self-After), which the authors take as no...
 id: self-both-kr-decision-shows-no-additive-motivational-informational-benefit
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

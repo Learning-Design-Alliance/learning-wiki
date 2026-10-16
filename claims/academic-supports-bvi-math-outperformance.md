@@ -3,7 +3,7 @@ type: claim
 title: BVI students in schools with more academic supports outperform on standardized math tests
 description: BVI students in schools with more academic supports outperform on standardized math tests
 id: academic-supports-bvi-math-outperformance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

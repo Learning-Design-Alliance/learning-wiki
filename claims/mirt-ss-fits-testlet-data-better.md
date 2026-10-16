@@ -3,7 +3,7 @@ type: claim
 title: A multidimensional IRT model with simple structure fits testlet-based reading data better than both the general polytomous testlet model and the standard 2PL/GPCM
 description: A multidimensional IRT model with simple structure fits testlet-based reading data better than both the general polytomous testlet model and the standard 2PL/GPCM
 id: mirt-ss-fits-testlet-data-better
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

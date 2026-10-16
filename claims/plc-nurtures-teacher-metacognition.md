@@ -3,7 +3,7 @@ type: claim
 title: The professional learning community is an environment in which teacher metacognition can be nurtured
 description: The professional learning community is an environment in which teacher metacognition can be nurtured
 id: plc-nurtures-teacher-metacognition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

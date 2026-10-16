@@ -3,7 +3,7 @@ type: claim
 title: Enforcing an explicit multi-step reasoning structure yields no significant improvement for the two studied models, which already self-organize an effective reasoning structure
 description: Enforcing an explicit multi-step reasoning structure yields no significant improvement for the two studied models, which already self-organize an effective reasoning structure
 id: enforced-structure-no-gain-self-organized-reasoning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

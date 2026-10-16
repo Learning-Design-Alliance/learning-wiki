@@ -3,7 +3,7 @@ type: claim
 title: The pipeline reduces per-chart software labor from about two hours of manual Fusion 360 modeling to under 60 ms
 description: The pipeline reduces per-chart software labor from about two hours of manual Fusion 360 modeling to under 60 ms
 id: tactile-pipeline-labor-reduction-four-orders
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

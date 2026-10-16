@@ -4,7 +4,7 @@ id: tutortrace-dataset-of-ide-telemetry-behavioral-segments-and-observable-metri
 title: TutorTrace dataset of IDE telemetry, behavioral segments, and observable metrics from 480 learners across four introductory Python deployments
 description: TutorTrace is a publicly released dataset created by its authors that combines IDE telemetry, AI interaction logs, task outcomes, and expert-validated learner behavioral classifications for studying AI-assisted programming help-seeking.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

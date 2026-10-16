@@ -3,7 +3,7 @@ type: claim
 title: Outsourcing productive struggle to AI risks cognitive debt, and reactive compliance-focused approaches are insufficient
 description: Outsourcing productive struggle to AI risks cognitive debt, and reactive compliance-focused approaches are insufficient
 id: cognitive-debt-reactive-ai-approaches-insufficient
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -55,3 +55,5 @@ Conceptual argument in the introduction, attributing the cognitive debt construc
 - [Student engagement with generative AI in unsupervised assessments forms a spectrum bounded by cognitive outsourcing and cognitive reallocation](genai-engagement-spectrum-outsourcing-to-reallocation.md) — related
 - [Human teacher–GenAI collaboration in embodied mathematics learning calls for a complementary interaction model combining AI feedback with human metacognitive guidance](complementary-human-genai-interaction-model.md) — related
 - [Easy access to AI-generated answers may reduce learners' motivation to engage deeply with material](ai-over-reliance-reduces-deep-engagement.md) — possibly the same claim (merge candidate)
+- [Documented GenAI-related challenges to active learning include cognitive debt, metacognitive laziness, unreflected acceptance, and overreliance on GenAI access](genai-risks-cognitive-debt-deskilling-overreliance.md) — related
+- [The convenience and low opportunity cost of LLMs poses a risk of over-reliance, deskilling, and reduced judgment competence when learners outsource tasks that are essential learning opportunities.](llm-over-reliance-deskilling-risk.md) — possibly the same claim (merge candidate)

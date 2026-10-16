@@ -3,7 +3,7 @@ type: strategy
 id: change-effort-development-tools
 title: "Change-effort development tools: process maps, impact effort matrices, core competencies identification, and structure revision"
 description: "In the Change Effort Development Phase, R15CC facilitates a high-level process map or block diagram—a \"graphical representation of the steps needed to produce a particular outcome\"—to build shared understanding and su..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

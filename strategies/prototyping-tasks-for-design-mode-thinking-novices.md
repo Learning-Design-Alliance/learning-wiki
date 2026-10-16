@@ -3,7 +3,7 @@ type: strategy
 id: prototyping-tasks-for-design-mode-thinking-novices
 title: Use prototyping tasks to help students unfamiliar with design-mode thinking share incomplete ideas
 description: This strategy involves introducing prototyping activities—creating designs that express product or service characteristics before specifications are final—to help students engage in knowledge creation practices.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

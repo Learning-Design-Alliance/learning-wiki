@@ -3,7 +3,7 @@ type: claim
 title: "Error analysis has stated limitations: overattention to errors, overstressing production data, failure to account for avoidance, and language-specific focus"
 description: "Error analysis has stated limitations: overattention to errors, overstressing production data, failure to account for avoidance, and language-specific focus"
 id: error-analysis-limitations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

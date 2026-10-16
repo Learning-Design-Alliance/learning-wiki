@@ -3,7 +3,7 @@ type: claim
 title: ITS are effective across instructional roles, whether used as principal means of instruction, integrated class instruction, separate in-class activities, supplementary after-class instruction, or homework
 description: ITS are effective across instructional roles, whether used as principal means of instruction, integrated class instruction, separate in-class activities, supplementary after-class instruction, or homework
 id: its-effective-in-all-instructional-roles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

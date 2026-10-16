@@ -3,7 +3,7 @@ type: research-method
 id: definition-of-generative-ai-powered-agentic-ai-via-three-core-characteristics-task-autonom
 title: "Definition of generative AI-powered agentic AI via three core characteristics: task autonomy, goal-directed reasoning, and memory- and context-aware interaction"
 description: "The review defines agentic AI as systems \"powered by generative AI, that exhibit goal-directed autonomy\": perceiving the environment, reasoning about goals, formulating and executing multi-step plans, adapting behaviour, and coordinating with tools, other agents, or human stakeholders."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

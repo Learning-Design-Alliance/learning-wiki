@@ -3,7 +3,7 @@ type: claim
 title: Student cohorts in several MiC districts showed consistently higher mathematics achievement than the statewide average from 2015 to 2017, with wide district variability
 description: Student cohorts in several MiC districts showed consistently higher mathematics achievement than the statewide average from 2015 to 2017, with wide district variability
 id: mic-cohort-gains-above-state-variability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

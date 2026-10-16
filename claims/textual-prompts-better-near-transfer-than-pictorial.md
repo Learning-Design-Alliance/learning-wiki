@@ -3,7 +3,7 @@ type: claim
 title: Textual instructional prompts yield significantly higher near-transfer posttest performance than pictorial prompts for novice circuit-analysis learners
 description: Textual instructional prompts yield significantly higher near-transfer posttest performance than pictorial prompts for novice circuit-analysis learners
 id: textual-prompts-better-near-transfer-than-pictorial
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

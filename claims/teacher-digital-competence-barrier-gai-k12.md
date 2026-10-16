@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' low digital competence and lack of AI training frameworks are key barriers to GAI integration in K-12"
 description: "Teachers' low digital competence and lack of AI training frameworks are key barriers to GAI integration in K-12"
 id: teacher-digital-competence-barrier-gai-k12
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

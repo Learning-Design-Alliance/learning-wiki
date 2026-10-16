@@ -3,7 +3,7 @@ type: claim
 title: "Effects of linguistic comprehension instruction differ by outcome domain: small for vocabulary and grammar, moderate for narrative and listening comprehension"
 description: "Effects of linguistic comprehension instruction differ by outcome domain: small for vocabulary and grammar, moderate for narrative and listening comprehension"
 id: differential-language-outcomes-small-vocabulary-grammar-moderate-narrative-listening
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

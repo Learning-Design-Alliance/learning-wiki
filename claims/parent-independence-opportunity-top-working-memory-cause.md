@@ -3,7 +3,7 @@ type: claim
 title: Teachers rank parents not providing opportunities for independent task performance as the top cause of working-memory need
 description: Teachers rank parents not providing opportunities for independent task performance as the top cause of working-memory need
 id: parent-independence-opportunity-top-working-memory-cause
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

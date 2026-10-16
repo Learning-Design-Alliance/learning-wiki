@@ -3,7 +3,7 @@ type: claim
 title: The evaluation assesses SMDEP impacts on college graduation and medical or dental school matriculation using propensity score matching
 description: The evaluation assesses SMDEP impacts on college graduation and medical or dental school matriculation using propensity score matching
 id: smdep-impact-evaluation-psm-design
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Strong scores and growth on the 5Essentials Survey predict student success measures including GPA, attendance, test scores, and college enrollment
 description: Strong scores and growth on the 5Essentials Survey predict student success measures including GPA, attendance, test scores, and college enrollment
 id: 5essentials-scores-predict-student-success-measures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

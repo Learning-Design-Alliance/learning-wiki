@@ -3,7 +3,7 @@ type: claim
 title: Adaptation benefits structured curricular knowledge (quantities, laws, definitions) most and loosely specified entity-level knowledge least
 description: Adaptation benefits structured curricular knowledge (quantities, laws, definitions) most and loosely specified entity-level knowledge least
 id: structured-knowledge-benefits-most-from-adaptation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

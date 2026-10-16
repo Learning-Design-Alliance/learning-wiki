@@ -3,7 +3,7 @@ type: claim
 title: AI dependence is negatively associated with self-reported creativity among Chinese college students, with a residual direct effect after motivational mediators are controlled
 description: AI dependence is negatively associated with self-reported creativity among Chinese college students, with a residual direct effect after motivational mediators are controlled
 id: ai-dependence-negatively-associated-self-reported-creativity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

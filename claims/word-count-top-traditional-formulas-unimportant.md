@@ -3,7 +3,7 @@ type: claim
 title: In the random forest, word count was the most important readability feature while traditional readability formulas ranked near the bottom
 description: In the random forest, word count was the most important readability feature while traditional readability formulas ranked near the bottom
 id: word-count-top-traditional-formulas-unimportant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

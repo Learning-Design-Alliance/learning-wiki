@@ -3,7 +3,7 @@ type: claim
 title: Few countries have defined teacher AI competencies or national AI training programmes for teachers
 description: Few countries have defined teacher AI competencies or national AI training programmes for teachers
 id: few-countries-define-teacher-ai-competencies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

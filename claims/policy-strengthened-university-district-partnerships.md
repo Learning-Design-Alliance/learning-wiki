@@ -3,7 +3,7 @@ type: claim
 title: The new policy strengthened university-district partnerships so principal preparation reflects local school needs
 description: The new policy strengthened university-district partnerships so principal preparation reflects local school needs
 id: policy-strengthened-university-district-partnerships
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

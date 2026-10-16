@@ -2,7 +2,7 @@
 type: theory
 title: "Structure-building trigger model: adult L2 learners scan input for cues but use different triggers than children"
 description: "Vainikka and Young-Scholten's structure-building approach holds that adult L2 learners, like children, scan the input for cues in three UG-related steps: a head projects a maximal projection, then complement and speci..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

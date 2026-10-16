@@ -3,7 +3,7 @@ type: claim
 title: The Buffalo Promise Neighborhood serves a predominantly minority, high-poverty community
 description: The Buffalo Promise Neighborhood serves a predominantly minority, high-poverty community
 id: buffalo-promise-neighborhood-high-poverty-minority-community
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Stepwise constructive-conflict guidance reduced new idea generation, while the antagonistic agent played a more balanced role
 description: Stepwise constructive-conflict guidance reduced new idea generation, while the antagonistic agent played a more balanced role
 id: stepwise-conflict-guidance-reduces-idea-addition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

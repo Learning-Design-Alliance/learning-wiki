@@ -3,7 +3,7 @@ type: element
 id: cps-severe-infraction-suspension-reform-element
 title: CPS severe-infraction suspension reduction reform and schoolwide outcome measures
 description: A district-level discipline reform in Chicago Public Schools between 2009-10 and 2013-14, studied via the percent of severe infractions resulting in an out-of-school suspension per school per year.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

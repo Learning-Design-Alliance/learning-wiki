@@ -2,7 +2,7 @@
 type: theory
 title: Conceptual framework of musical skill acquisition linking practice laws, deliberate practice and singing development via IRT and BKT
 description: "The article proposes a framework in which \"each sung note is a practice opportunity whose outcome depends jointly on a slowly changing learner ability, a stable item difficulty tied to the target pitch and register, a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

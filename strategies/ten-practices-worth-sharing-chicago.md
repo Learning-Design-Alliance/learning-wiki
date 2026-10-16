@@ -3,7 +3,7 @@ type: strategy
 id: ten-practices-worth-sharing-chicago
 title: Ten cross-initiative practices worth sharing, from improving attendance to learning from good practice in context
 description: "The report concludes with ten practices worth sharing across initiatives: improving attendance, building good school climates, providing more student supports, fostering teacher collaboration, using teachers as coache..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

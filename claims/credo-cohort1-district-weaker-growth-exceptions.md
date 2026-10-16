@@ -3,7 +3,7 @@ type: claim
 title: District schools in most studied cities show consistently weaker performance growth than state averages, with exceptions including Denver
 description: District schools in most studied cities show consistently weaker performance growth than state averages, with exceptions including Denver
 id: credo-cohort1-district-weaker-growth-exceptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

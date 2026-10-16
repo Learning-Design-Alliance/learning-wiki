@@ -3,7 +3,7 @@ type: claim
 title: Observation scores have a stronger relationship with school characteristics such as poverty than value-added scores
 description: Observation scores have a stronger relationship with school characteristics such as poverty than value-added scores
 id: observation-scores-stronger-school-characteristic-relationship
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

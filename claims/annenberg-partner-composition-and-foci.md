@@ -3,7 +3,7 @@ type: claim
 title: Annenberg external partners were organizationally diverse, and a majority focused their work on curriculum and instruction
 description: Annenberg external partners were organizationally diverse, and a majority focused their work on curriculum and instruction
 id: annenberg-partner-composition-and-foci
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

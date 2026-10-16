@@ -3,7 +3,7 @@ type: claim
 title: "Instruction in upper elementary grades is often departmentalized: about one in six elementary school teachers in the original administrative data was linked to a subject he or she did not teach"
 description: "Instruction in upper elementary grades is often departmentalized: about one in six elementary school teachers in the original administrative data was linked to a subject he or she did not teach"
 id: one-in-six-elementary-teachers-linked-to-untaught-subject
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

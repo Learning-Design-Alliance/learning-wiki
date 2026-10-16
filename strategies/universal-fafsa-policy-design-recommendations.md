@@ -3,7 +3,7 @@ type: strategy
 id: universal-fafsa-policy-design-recommendations
 title: Seven state recommendations for designing and implementing universal FAFSA policies
 description: "EdTrust urges state legislators and state boards or departments of education to: publish data on alternative state-specific aid application completion; publish opt-out rates and track disparities; address the submissi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

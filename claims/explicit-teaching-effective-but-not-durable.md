@@ -3,7 +3,7 @@ type: claim
 title: Explicit teaching is more effective for EFL copular be learning but its effect is not durable
 description: Explicit teaching is more effective for EFL copular be learning but its effect is not durable
 id: explicit-teaching-effective-but-not-durable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

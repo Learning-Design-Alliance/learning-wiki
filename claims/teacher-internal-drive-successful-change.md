@@ -3,7 +3,7 @@ type: claim
 title: "An article on narrative inquiry asserts, without data, that teachers' internal drive rather than top-down prescriptions leads to the most successful change in educational practice"
 description: An article on narrative inquiry asserts, without data, that teachers' internal drive rather than top-down prescriptions leads to the most successful change in educational practice
 id: teacher-internal-drive-successful-change
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

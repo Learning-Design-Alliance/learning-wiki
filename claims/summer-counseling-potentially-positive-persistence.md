@@ -3,7 +3,7 @@ type: claim
 title: "Summer counseling produces a small but statistically significant positive effect on credit accumulation and persistence (WWC rating: potentially positive effects)"
 description: "Summer counseling produces a small but statistically significant positive effect on credit accumulation and persistence (WWC rating: potentially positive effects)"
 id: summer-counseling-potentially-positive-persistence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

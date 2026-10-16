@@ -3,7 +3,7 @@ type: claim
 title: The response-level confidence score correlates positively and significantly with scoring accuracy
 description: The response-level confidence score correlates positively and significantly with scoring accuracy
 id: confidence-score-correlates-scoring-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

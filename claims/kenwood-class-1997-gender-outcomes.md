@@ -3,7 +3,7 @@ type: claim
 title: Class of 1997 outcomes differed by gender, with girls graduating at higher counts than boys within five years
 description: Class of 1997 outcomes differed by gender, with girls graduating at higher counts than boys within five years
 id: kenwood-class-1997-gender-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

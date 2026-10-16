@@ -3,7 +3,7 @@ type: claim
 title: Preschool classrooms in the validation sample scored lowest on Instructional Support relative to Emotional Support and Classroom Organization
 description: Preschool classrooms in the validation sample scored lowest on Instructional Support relative to Emotional Support and Classroom Organization
 id: ece-sample-instructional-support-lowest-class-domain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

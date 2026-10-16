@@ -3,7 +3,7 @@ type: element
 id: nwea-2022-23-recovery-technical-appendix
 title: NWEA technical appendix on 2022-23 achievement data and pandemic recovery methods
 description: A technical appendix document released by NWEA Research in July 2023 by Karyn Lewis, Megan Kuhfeld, and Jazmin Isaacs.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Hidden variables that skip preparing certain pair classes violate the Bell and CHSH inequality in half of all runs
 description: Hidden variables that skip preparing certain pair classes violate the Bell and CHSH inequality in half of all runs
 id: hidden-variables-violate-bell-50-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

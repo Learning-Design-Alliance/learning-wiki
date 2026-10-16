@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25
@@ -68,3 +68,4 @@ This is the paper's origin: Hattie and Timperley propose a model in which effect
 - [Learners valued repeatable practice and recorded review in MedEasy while questioning missing actions and feedback criteria](learners-value-repeatable-practice-question-gaps.md) — a narrower finding that bears on this claim
 - [Formative feedback dominates authentic assessment designs while sustainable feedback is rare](aa-formative-feedback-dominates-sustainable-rare.md) — related
 - [Established feedback frameworks do not address the epistemic status of feedback tasks relevant to automation decisions](existing-feedback-frameworks-silent-on-epistemic-status.md) — related
+- [Students report awareness of feedback-acting strategies but experience difficulty carrying them out](students-aware-of-strategies-but-fail-to-act.md) — related

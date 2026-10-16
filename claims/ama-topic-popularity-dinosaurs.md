@@ -3,7 +3,7 @@ type: claim
 title: Dinosaurs was the most popular chatbot topic, especially among first graders, with sneakers and shoes second
 description: Dinosaurs was the most popular chatbot topic, especially among first graders, with sneakers and shoes second
 id: ama-topic-popularity-dinosaurs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

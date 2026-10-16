@@ -3,7 +3,7 @@ type: claim
 title: AI anxiety is negatively associated with emotion regulation among university students
 description: AI anxiety is negatively associated with emotion regulation among university students
 id: ai-anxiety-negatively-associated-emotion-regulation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

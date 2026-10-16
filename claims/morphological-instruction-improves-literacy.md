@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Morphological instruction improves word-level literacy outcomes (decoding, spelling, vocabulary, morphological knowledge) but shows no reliable effect on reading comprehension"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

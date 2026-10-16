@@ -3,7 +3,7 @@ type: claim
 title: Intrinsic motivation improved in all three storytelling modalities, with no group reaching statistical significance
 description: Intrinsic motivation improved in all three storytelling modalities, with no group reaching statistical significance
 id: intrinsic-motivation-gains-not-significant-all-modalities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

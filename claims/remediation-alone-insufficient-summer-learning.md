@@ -3,7 +3,7 @@ type: claim
 title: "Intensive remediation alone will not meet students' needs and, if segregating and stigmatizing, can deepen inequality and trauma"
 description: "Intensive remediation alone will not meet students' needs and, if segregating and stigmatizing, can deepen inequality and trauma"
 id: remediation-alone-insufficient-summer-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

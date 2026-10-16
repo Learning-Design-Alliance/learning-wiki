@@ -3,7 +3,7 @@ type: claim
 title: "Teachers give the most negative impact ratings to distant governance bodies: state policy (32 percent positive), subdistricts (30 percent), and central office (27 percent)"
 description: "Teachers give the most negative impact ratings to distant governance bodies: state policy (32 percent positive), subdistricts (30 percent), and central office (27 percent)"
 id: external-governance-bodies-rated-negatively
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

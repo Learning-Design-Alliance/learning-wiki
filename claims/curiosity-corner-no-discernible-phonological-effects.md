@@ -3,7 +3,7 @@ type: claim
 title: Curiosity Corner shows no discernible effects on phonological processing in the PCER randomized trial
 description: Curiosity Corner shows no discernible effects on phonological processing in the PCER randomized trial
 id: curiosity-corner-no-discernible-phonological-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

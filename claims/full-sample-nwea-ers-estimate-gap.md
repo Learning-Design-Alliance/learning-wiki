@@ -3,7 +3,7 @@ type: claim
 title: In the full samples, NWEA data show far smaller math recovery (.015 SDs) and negative ELA change (-.008 SDs) than ERS (.045 and .019 SDs)
 description: In the full samples, NWEA data show far smaller math recovery (.015 SDs) and negative ELA change (-.008 SDs) than ERS (.045 and .019 SDs)
 id: full-sample-nwea-ers-estimate-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Funded LEA respondents expressed general satisfaction with Title VII and reported using funds to hire staff and expand services for AI/AN students
 description: Funded LEA respondents expressed general satisfaction with Title VII and reported using funds to hire staff and expand services for AI/AN students
 id: title-vii-funded-lea-satisfaction-and-uses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

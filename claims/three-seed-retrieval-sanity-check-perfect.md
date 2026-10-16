@@ -3,7 +3,7 @@ type: claim
 title: On a preliminary three-question retrieval sanity check, all seed questions placed their target concept first and within the top three, with mean top-5 recall of 1.00
 description: On a preliminary three-question retrieval sanity check, all seed questions placed their target concept first and within the top three, with mean top-5 recall of 1.00
 id: three-seed-retrieval-sanity-check-perfect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

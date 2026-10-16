@@ -3,7 +3,7 @@ type: learner-variable
 id: working-memory
 title: Working Memory
 description: How much a learner can hold and manipulate at once before the material itself becomes the obstacle.
-status: draft
+status: review
 generated:
   by: "claude/unspecified"
   at: 2026-09-02
@@ -12,7 +12,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 28 claims (17 for, 7 mixed, 4 against) · 31 studies (12 causal, 7 review, 6 quant-synthesis, 4 associational, 2 qualitative), `q1`–`q4` · 4 of 31 report an effect size · 25 claims rest on one study
+> **Evidence** · 33 claims (20 for, 9 mixed, 4 against) · 34 studies (13 causal, 8 review, 6 quant-synthesis, 4 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 5 of 34 report an effect size · 30 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -66,6 +66,11 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Evidence on working memory capacity as a moderator of the interleaving effect is mixed, but WM does not appear to be a major barrier to classroom use](../claims/working-memory-mixed-moderator-interleaving.md) [~M] — an instructional effect differs with it
 - [CCT yields small significant gains in nonverbal memory, working memory, and visuospatial skills, but only weak evidence for verbal memory](../claims/cct-domain-gains-nonverbal-wm-visuospatial-verbal-weak.md) [+M] — instruction changes it
 - [Working-memory-only training shows no positive evidence of efficacy in healthy older adults](../claims/wm-only-training-ineffective-older-adults.md) [-M] — instruction changes it
+- [Germane cognitive load fully mediates the effect of information-search tool on justification quality (exploratory analysis)](../claims/germane-load-mediates-tool-effect-on-justification-quality.md) [+M] — instruction changes it
+- [Offloading attenuates individual differences linked to unaided ability](../claims/offloading-attenuates-individual-differences.md) [~M] — an instructional effect differs with it
+- [Reduction of cognitive load can sometimes impair learning rather than enhance it](../claims/load-reduction-can-impair-learning.md) [~W] — learners who differ on it differ in outcomes
+- [Students using ChatGPT 3.5 experience lower extraneous cognitive load than students using Google during a web research task](../claims/llm-search-lower-extraneous-cognitive-load.md) [+M] — instruction changes it
+- [Students using ChatGPT 3.5 experience lower intrinsic cognitive load than students using Google during a web research task](../claims/llm-search-lower-intrinsic-cognitive-load.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Prior knowledge — supplies the schemas that raise effective capacity; the two are inseparable in practice.

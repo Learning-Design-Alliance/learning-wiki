@@ -3,7 +3,7 @@ type: claim
 title: LLaMA shows a persona-conditioned vocabulary collapse for the Roma minority persona, with TTR falling 0.018 points below its own cross-persona mean
 description: LLaMA shows a persona-conditioned vocabulary collapse for the Roma minority persona, with TTR falling 0.018 points below its own cross-persona mean
 id: llama-ttr-collapse-roma-persona
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

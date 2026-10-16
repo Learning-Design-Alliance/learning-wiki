@@ -3,7 +3,7 @@ type: claim
 title: Prompt style is the largest driver of disability-aware Fit gains, and the Thinking Reward becomes effective only in combination with adaptive prompting
 description: Prompt style is the largest driver of disability-aware Fit gains, and the Thinking Reward becomes effective only in combination with adaptive prompting
 id: thinking-reward-effective-only-with-adaptive-prompting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

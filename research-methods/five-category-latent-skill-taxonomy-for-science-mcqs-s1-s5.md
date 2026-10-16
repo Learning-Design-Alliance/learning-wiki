@@ -3,7 +3,7 @@ type: research-method
 id: five-category-latent-skill-taxonomy-for-science-mcqs-s1-s5
 title: Five-category latent skill taxonomy for science MCQs (S1-S5)
 description: "The taxonomy defines five skill categories calibrated to NEET-type science MCQs: S1 Direct Recall, S2 Conceptual Application, S3 Multi-concept Integration, S4 Quantitative Reasoning, and S5 Elimination and Negation."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

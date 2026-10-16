@@ -3,7 +3,7 @@ type: strategy
 id: high-dosage-tutoring-30-minute-sessions-12-weeks
 title: Deliver high-dosage tutoring as recurring 30-minute sessions two to three times per week over 12 weeks
 description: "The article's dosage model schedules tutoring \"two to three times per week for 30-minute sessions over a 12-week period,\" and reports that students reaching the recommended dosage of 20 or more sessions showed markedl..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

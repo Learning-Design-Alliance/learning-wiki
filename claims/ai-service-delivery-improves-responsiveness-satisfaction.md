@@ -3,7 +3,7 @@ type: claim
 title: AI-enabled service delivery improves responsiveness, personalisation, and student satisfaction in higher education, but remains uneven globally
 description: AI-enabled service delivery improves responsiveness, personalisation, and student satisfaction in higher education, but remains uneven globally
 id: ai-service-delivery-improves-responsiveness-satisfaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

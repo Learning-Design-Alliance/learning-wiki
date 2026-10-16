@@ -3,7 +3,7 @@ type: claim
 title: Publication-bias checks indicate the pooled effect is unlikely to result from publication bias
 description: Publication-bias checks indicate the pooled effect is unlikely to result from publication bias
 id: srl-meta-analysis-publication-bias-absent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
@@ -51,3 +51,5 @@ Publication-bias assessment of the 21-study meta-analysis using a thesis-vs-arti
 - Publication-bias diagnostics suggest minimal influence on the meta-analytic findings, with a borderline Begg's test — related
 - [Publication-bias assessments substantially reduce the intercept prediction, often indicating no positive transfer when the identified moderators are absent](publication-bias-reduces-intercept-no-transfer-without-moderators.md) — related
 - Trim and Fill publication bias analysis suggests the pooled short-term adventure therapy effect (.47) slightly underestimates the true effect (adjusted .52) — related
+- Funnel-plot and fail-safe N analyses indicate small publication bias, and one-study-removal analysis indicates stable pooled effects — related
+- [Funnel-plot asymmetry was significant in both meta-analyses, indicating possible publication or selection bias](funnel-plot-asymmetry-significant-eai.md) — related

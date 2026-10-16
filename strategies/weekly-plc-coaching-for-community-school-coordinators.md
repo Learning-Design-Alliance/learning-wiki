@@ -3,7 +3,7 @@ type: strategy
 id: weekly-plc-coaching-for-community-school-coordinators
 title: Build coordinator capacity through a structured weekly professional learning community with personalized coaching and targeted assets-and-needs-assessment training
 description: "This strategy organizes new coordinators' professional learning around a weekly PLC with a structured scope and sequence, one-on-one coaching, and collective problem-solving, supplemented by targeted training in condu..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

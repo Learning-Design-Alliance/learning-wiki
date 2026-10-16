@@ -84,7 +84,7 @@ Reflection is a skill that must be demonstrated before it can be internalized; o
 - Medical education uses chart-review sessions in which an attending physician verbalizes diagnostic reasoning and self-correction, modeling clinical reflection for residents.
 - Writing conferences in which the teacher rereads their own draft aloud, questioning word choices, model revision as reflective practice.
 - **Teacher education (e.g., Utrecht's IVLOS approach)** — teacher educators explicitly model the reflective practice they require of student teachers, including publicly analyzing their own lessons that went poorly (Lunenberg, Korthagen, & Swennen, 2007).
-- **Writing workshop (Calkins' Units of Study)** — the teacher writes in front of students, revising and reflecting on word choices aloud, then students apply the same moves to their own drafts.
+- **[Writing workshop](writing_workshop.md) (Calkins' Units of Study)** — the teacher writes in front of students, revising and reflecting on word choices aloud, then students apply the same moves to their own drafts.
 - **Project post-mortems in CS courses** — after a team project, the instructor models a retrospective on their own course design ("I underestimated the debugging time; next iteration I'll add a checkpoint"), then teams run the same retrospective on their collaboration.
 
 ## Key Sources

@@ -3,7 +3,7 @@ type: claim
 title: Newcomer EL students using BrainPOP ESL showed no statistically significant Lexile growth, and results lacked a comparison group
 description: Newcomer EL students using BrainPOP ESL showed no statistically significant Lexile growth, and results lacked a comparison group
 id: brainpop-esl-no-significant-lexile-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

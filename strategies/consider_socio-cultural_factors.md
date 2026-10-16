@@ -83,7 +83,7 @@ Equity of access is a precondition for the benefits of any instructional design:
 - [Teach foundational AI competencies with low-tech analogies and contextually relevant activities where technology access is limited](low-tech-analogies-foundational-ai-competencies.md)
 
 ## Examples
-- **Kolibri (Learning Equality)** — an offline-first platform designed for low-connectivity schools and refugee education settings; content syncs without continuous internet (https://learningequality.org/kolibri/)
+- **[Kolibri](../products/kolibri.md) (Learning Equality)** — an offline-first platform designed for low-connectivity schools and refugee education settings; content syncs without continuous internet (https://learningequality.org/kolibri/)
 - **One Laptop per Child / national 1:1 device programs** — illustrate both the promise and the limits of device provision: programs pairing hardware with teacher training and local-language content outperformed hardware-only deployments [~W]
 - **Culturally responsive mathematics curricula** (e.g., work associated with Ladson-Billings' pedagogy) — reframe word problems and contexts around students' community practices, improving engagement [+M]
 - **Public library hotspot-lending programs** (e.g., New York Public Library's Wi-Fi lending initiative) — bridge home connectivity gaps for online coursework

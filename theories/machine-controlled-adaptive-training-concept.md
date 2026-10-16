@@ -2,7 +2,7 @@
 type: theory
 title: "Machine-controlled adaptive training: task difficulty varies as a function of trainee performance"
 description: In adaptive training, the task presented to the trainee varies as a function of how well he performs.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

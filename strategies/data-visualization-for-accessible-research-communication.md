@@ -3,7 +3,7 @@ type: strategy
 id: data-visualization-for-accessible-research-communication
 title: Use data visualization to make complex concepts accessible in research communication
 description: "A strategy in which researchers use data visualization when communicating their work, so that 'complex concepts' become 'accessible' to audiences."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

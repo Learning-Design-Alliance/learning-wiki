@@ -3,7 +3,7 @@ type: element
 id: grades-4-9-reading-interventions-wwc-scope
 title: Reading interventions for grades 4–9 as defined by the WWC practice guide
 description: "The guide defines reading interventions for students in grades 4–9 as comprising two forms: \"supplemental programs provided in addition to regular classroom English language arts instruction as part of a multi-tiered..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

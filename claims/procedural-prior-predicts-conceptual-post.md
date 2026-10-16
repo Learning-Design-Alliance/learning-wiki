@@ -3,7 +3,7 @@ type: claim
 title: Procedural prior knowledge predicted conceptual post-test skill, but conceptual prior knowledge did not predict procedural post-test skill
 description: Procedural prior knowledge predicted conceptual post-test skill, but conceptual prior knowledge did not predict procedural post-test skill
 id: procedural-prior-predicts-conceptual-post
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

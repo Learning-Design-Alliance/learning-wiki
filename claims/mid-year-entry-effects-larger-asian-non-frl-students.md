@@ -3,7 +3,7 @@ type: claim
 title: Negative effects of mid-year entry are somewhat larger for Asian students and students not qualifying for free or reduced-price lunch
 description: Negative effects of mid-year entry are somewhat larger for Asian students and students not qualifying for free or reduced-price lunch
 id: mid-year-entry-effects-larger-asian-non-frl-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

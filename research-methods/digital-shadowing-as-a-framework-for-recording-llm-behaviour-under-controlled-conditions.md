@@ -3,7 +3,7 @@ type: research-method
 id: digital-shadowing-as-a-framework-for-recording-llm-behaviour-under-controlled-conditions
 title: Digital shadowing as a framework for recording LLM behaviour under controlled conditions
 description: "Digital shadowing is the article's organising methodological framework: unlike digital twins, shadows record system behaviour without feedback loops."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11
@@ -29,4 +29,4 @@ Digital shadowing is the article's organising methodological framework: unlike d
 -
 
 ## Key Sources
-- Esposito, N., Tricarico, A., Porzio, L., Aghazadeh Ardebili, A., & Stella, M. (2026). Math Education Digital Shadows for Investigating Learning with GenAI: Mathematics Performance, Anxiety, and Confidence in LLMs. arXiv preprint. https://arxiv.org/abs/2604.27618
+- Esposito, N., Tricarico, A., Porzio, L., Aghazadeh Ardebili, A., & Stella, M. (2026). Math Education Digital Shadows for Investigating Learning with GenAI: Mathematics Performance, Anxiety, and Confidence in LLMs. arXiv preprint. https://arxiv.org/abs/2604.27618. [doi:10.48550/arxiv.2604.27618](https://doi.org/10.48550/arxiv.2604.27618)

@@ -3,7 +3,7 @@ type: claim
 title: GenAI use collapses SRL cycle transitions, with metacognitive activity restructuring around the tool
 description: GenAI use collapses SRL cycle transitions, with metacognitive activity restructuring around the tool
 id: genai-collapses-srl-cycle-transitions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

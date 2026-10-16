@@ -3,7 +3,7 @@ type: strategy
 id: safe-space-arts-instruction-strategy
 title: Create a safe space in arts instruction so students can take productive risks and grow emotionally
 description: "Among the most consistent elements of effective arts instruction surfaced in the research is teachers creating a \"safe space\" in which students can participate in the arts."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

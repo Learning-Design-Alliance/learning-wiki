@@ -3,7 +3,7 @@ type: claim
 title: Among NFTE alumni respondents who launched businesses, 47 percent had a business open in the past year, 65 percent of open businesses were profitable, and 52 percent employed at least one other person
 description: Among NFTE alumni respondents who launched businesses, 47 percent had a business open in the past year, 65 percent of open businesses were profitable, and 52 percent employed at least one other person
 id: nfte-alumni-businesses-profitable-and-employing-others
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

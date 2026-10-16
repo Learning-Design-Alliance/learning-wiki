@@ -3,7 +3,7 @@ type: claim
 title: Shifting away from traditional IRE recitation toward student participation in discussion improves student learning
 description: Shifting away from traditional IRE recitation toward student participation in discussion improves student learning
 id: ire-shift-toward-discussion-improves-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

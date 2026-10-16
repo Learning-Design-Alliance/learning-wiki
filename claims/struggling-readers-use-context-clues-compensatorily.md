@@ -3,7 +3,7 @@ type: claim
 title: Poorly fluent readers use context clues more heavily than fluent readers, as a compensatory device
 description: Poorly fluent readers use context clues more heavily than fluent readers, as a compensatory device
 id: struggling-readers-use-context-clues-compensatorily
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

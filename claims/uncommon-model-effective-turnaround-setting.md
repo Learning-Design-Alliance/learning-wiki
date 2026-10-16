@@ -3,7 +3,7 @@ type: claim
 title: The Uncommon Schools whole-school model, typically built from the earliest grades in new schools, produced substantial positive achievement effects when applied in a turnaround setting
 description: The Uncommon Schools whole-school model, typically built from the earliest grades in new schools, produced substantial positive achievement effects when applied in a turnaround setting
 id: uncommon-model-effective-turnaround-setting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

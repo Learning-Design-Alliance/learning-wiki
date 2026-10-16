@@ -2,7 +2,7 @@
 type: theory
 title: "Dispositional mastery framework: Ability, Inclination, and Sensitivity"
 description: "The article reframes mastery of cross-cutting Portrait Skill Sets and Practices as dispositional, drawing on Project Zero's account that \"Dispositions include three elements: Ability, Inclination, and Sensitivity.\" Ab..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

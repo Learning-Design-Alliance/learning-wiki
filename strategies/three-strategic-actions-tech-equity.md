@@ -3,7 +3,7 @@ type: strategy
 id: three-strategic-actions-tech-equity
 title: "Three strategic actions: build awareness of underrepresentation, invest in accessible pathways, and prioritize retention strategies"
 description: "The scan's executive summary distills its findings into three actions for technology industry contributors: (1) build awareness of underrepresentation and disparities, including advocating for data transparency and ac..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

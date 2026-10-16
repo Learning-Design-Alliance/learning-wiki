@@ -3,7 +3,7 @@ type: strategy
 id: no-surprises-pre-release-briefing-strategy
 title: No-surprises pre-release briefings with district leadership before research reports are made public
 description: "CCSR maintains a 'no-surprises' policy: before any report is released, the organization holds formal briefings with the CEO, district leaders, and board of education members, shares penultimate drafts, and invites adm..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

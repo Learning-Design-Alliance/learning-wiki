@@ -3,7 +3,7 @@ type: claim
 title: "In an ARC trial deployment, undergraduate mentors' retrospective pre-then-post ratings of teaching confidence and community connection increased substantially"
 description: "In an ARC trial deployment, undergraduate mentors' retrospective pre-then-post ratings of teaching confidence and community connection increased substantially"
 id: arc-trial-undergraduate-mentor-confidence-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

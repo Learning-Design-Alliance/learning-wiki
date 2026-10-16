@@ -3,7 +3,7 @@ type: strategy
 id: cooperative-learning-group-work-recommendation
 title: Use cooperative group work especially in areas requiring mutual trust, communication, and practice, and direct higher education students to cooperation often
 description: "Based on the finding that cooperative learning effects are high in domains requiring social skills and at the higher education level, the author recommends that \"teachers should make arrangements based on the cooperat..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

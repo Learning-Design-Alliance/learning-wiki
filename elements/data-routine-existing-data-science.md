@@ -3,7 +3,7 @@ type: element
 id: data-routine-existing-data-science
 title: Data Routine for working with existing scientific data
 description: The Data Routine is a teaching routine described by Penuel et al.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

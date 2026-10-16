@@ -4,7 +4,7 @@ id: utaut2-inspired-15-item-survey-instrument-for-assessing-student-perceptions-
 title: UTAUT2-inspired 15-item survey instrument for assessing student perceptions of ChatGPT-assisted activities
 description: A study-developed post-activity survey by Elizondo-García et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

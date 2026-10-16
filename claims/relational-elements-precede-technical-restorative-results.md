@@ -3,7 +3,7 @@ type: claim
 title: Relational elements — trust, voice and agency, and equity — are preconditions for restorative practices to work
 description: Relational elements — trust, voice and agency, and equity — are preconditions for restorative practices to work
 id: relational-elements-precede-technical-restorative-results
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

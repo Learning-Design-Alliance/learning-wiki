@@ -3,7 +3,7 @@ type: claim
 title: Aggregate interaction volume did not demonstrate reduced human input; the strongest observed pattern was capacity expansion rather than proven labor substitution
 description: Aggregate interaction volume did not demonstrate reduced human input; the strongest observed pattern was capacity expansion rather than proven labor substitution
 id: capacity-expansion-not-labor-substitution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

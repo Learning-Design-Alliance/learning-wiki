@@ -3,7 +3,7 @@ type: strategy
 id: small-group-philosophy-dictionary-activity
 title: Small-group student-constructed reference products such as a Philosophy Dictionary
 description: "Under objective A, the guide's first suggested activity has students build their own glossary of the ideas behind the cultural movements."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

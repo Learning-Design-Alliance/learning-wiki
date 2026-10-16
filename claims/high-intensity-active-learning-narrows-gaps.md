@@ -3,7 +3,7 @@ type: claim
 title: Only high-intensity active learning narrows achievement gaps; intensity of in-class active engagement is positively correlated with narrower gaps
 description: Only high-intensity active learning narrows achievement gaps; intensity of in-class active engagement is positively correlated with narrower gaps
 id: high-intensity-active-learning-narrows-gaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

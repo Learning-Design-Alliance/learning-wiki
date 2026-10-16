@@ -3,7 +3,7 @@ type: strategy
 id: efl-writing-instruction-strengthen-metacognitive-models
 title: "Design EFL writing instruction to strengthen students' metacognitive models using the skilled writers' knowledge base as the development target"
 description: The article recommends that EFL writing instruction be designed around the metacognitive knowledge skilled writers possess, so that beginning or unskilled writers can be equipped with it.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

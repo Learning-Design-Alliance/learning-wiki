@@ -3,7 +3,7 @@ type: claim
 title: Curriculum developers faced challenges infusing more math into CTE curricula
 description: Curriculum developers faced challenges infusing more math into CTE curricula
 id: developers-challenges-infusing-math-into-cte
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

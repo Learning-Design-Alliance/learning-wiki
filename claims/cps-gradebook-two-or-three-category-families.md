@@ -3,7 +3,7 @@ type: claim
 title: Most CPS ninth-grade math teachers used two or three grading category families, averaging 2.43 families per section
 description: Most CPS ninth-grade math teachers used two or three grading category families, averaging 2.43 families per section
 id: cps-gradebook-two-or-three-category-families
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

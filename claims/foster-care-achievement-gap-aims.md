@@ -3,7 +3,7 @@ type: claim
 title: Statewide testing showed an achievement gap in mathematics and reading for Arizona students in foster care
 description: Statewide testing showed an achievement gap in mathematics and reading for Arizona students in foster care
 id: foster-care-achievement-gap-aims
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

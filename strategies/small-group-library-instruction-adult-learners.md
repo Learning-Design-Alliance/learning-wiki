@@ -3,7 +3,7 @@ type: strategy
 id: small-group-library-instruction-adult-learners
 title: Start adult learners in homogeneous small groups and use individual instruction with gradual release
 description: For adult learners (twenty-five or older, returning after a year or more), the paper recommends starting nontraditional students in homogeneous small groups during initial re-entry to college, citing Steltenpohl and S...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

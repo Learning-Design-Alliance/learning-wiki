@@ -3,7 +3,7 @@ type: claim
 title: Average homework H-scores correlate negatively with proctored exam performance, with the correlation strengthening from Spring 2024 to Spring 2026
 description: Average homework H-scores correlate negatively with proctored exam performance, with the correlation strengthening from Spring 2024 to Spring 2026
 id: h-score-negative-exam-correlation-strengthening
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

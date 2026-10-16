@@ -3,7 +3,7 @@ type: strategy
 id: technology-in-community-based-lifelong-learning-research
 title: "Investigate technology's role in community-based lifelong learning delivery as a research priority"
 description: The paper identifies the use of technology as a major focus for advancing community-based lifelong learning, arguing that applications of new technologies to improve program effectiveness and learning are imperative f...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

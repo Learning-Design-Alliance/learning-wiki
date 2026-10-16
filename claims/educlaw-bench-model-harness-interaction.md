@@ -3,7 +3,7 @@ type: claim
 title: Tutoring quality belongs to the base model and agent harness together rather than either alone, as adapter rankings reorder across tiers
 description: Tutoring quality belongs to the base model and agent harness together rather than either alone, as adapter rankings reorder across tiers
 id: educlaw-bench-model-harness-interaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

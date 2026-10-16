@@ -3,7 +3,7 @@ type: claim
 title: Preservice science teachers exposed to explicit reading strategy instruction showed the highest diversity and frequency of cognitive strategy use while reading a science text
 description: Preservice science teachers exposed to explicit reading strategy instruction showed the highest diversity and frequency of cognitive strategy use while reading a science text
 id: explicit-instruction-highest-cognitive-strategy-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

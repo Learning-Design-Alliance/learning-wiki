@@ -3,7 +3,7 @@ type: claim
 title: Small-scale studies suggest age 15-16 with intermediate English proficiency (reading GE 5) is a good immigration age
 description: Small-scale studies suggest age 15-16 with intermediate English proficiency (reading GE 5) is a good immigration age
 id: arrival-age-15-16-ge5-good-immigration-age
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

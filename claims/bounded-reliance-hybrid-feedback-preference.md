@@ -3,7 +3,7 @@ type: claim
 title: Students bound their reliance on AI feedback and advocate a hybrid model assigning AI broad language concerns and instructors individualized relational guidance
 description: Students bound their reliance on AI feedback and advocate a hybrid model assigning AI broad language concerns and instructors individualized relational guidance
 id: bounded-reliance-hybrid-feedback-preference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

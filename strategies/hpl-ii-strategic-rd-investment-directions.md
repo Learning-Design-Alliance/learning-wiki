@@ -3,7 +3,7 @@ type: strategy
 id: hpl-ii-strategic-rd-investment-directions
 title: Specify directions for strategic investments in research and development to support learning
 description: "The statement of task directs the report to \"specify directions for strategic investments in research and development to promote the knowledge, training, and technologies that are needed to support learning in today's..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

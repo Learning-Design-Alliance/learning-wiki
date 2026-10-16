@@ -4,7 +4,7 @@ id: nfte-entrepreneurship-education-program
 title: NFTE entrepreneurship education program
 description: "NFTE's entrepreneurship education program, developed and run by the Network for Teaching Entrepreneurship, uses project-based and experiential instruction to develop entrepreneurial-mindset skills alongside small-business-management knowledge."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

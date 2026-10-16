@@ -3,7 +3,7 @@ type: claim
 title: "Mathematica designed a method to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia in the project's first year."
 description: "Mathematica designed a method to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia in the project's first year."
 id: charter-consortium-effective-school-identification-method
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

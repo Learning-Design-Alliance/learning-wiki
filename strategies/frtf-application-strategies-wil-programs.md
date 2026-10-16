@@ -3,7 +3,7 @@ type: strategy
 id: frtf-application-strategies-wil-programs
 title: Apply the FRTF as curricular support, as a student and program assessment tool, and to map academic learning outcomes to workplace-relevant language
 description: "The article names three planned applications of the FRTF: \"as curricular support, as an assessment tool both at the student and program level, and as a tool for integration between WIL experiences and academic curricu..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

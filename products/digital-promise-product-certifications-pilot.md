@@ -4,7 +4,7 @@ id: digital-promise-product-certifications-pilot
 title: Digital Promise Product Certifications Pilot
 description: A Digital Promise pilot initiative that certifies education technology products designed and developed using learning-sciences research to support more informed product selection.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

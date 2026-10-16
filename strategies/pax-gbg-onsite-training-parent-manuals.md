@@ -3,7 +3,7 @@ type: strategy
 id: pax-gbg-onsite-training-parent-manuals
 title: Implement PAX Good Behavior Game via one-day onsite teacher training with home-support manuals for parents
 description: "The program's implementation strategy centers on onsite training delivered by experienced therapists, priced at \"$2900 for 40 people for 1-day, on-site training for implementing PAX Good Behavior Game®\", supplemented..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

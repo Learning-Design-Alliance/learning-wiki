@@ -3,7 +3,7 @@ type: claim
 title: "Playing the gamified security modules raised students' self-reported confidence and understanding of online security"
 description: "Playing the gamified security modules raised students' self-reported confidence and understanding of online security"
 id: gamified-security-games-confidence-understanding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

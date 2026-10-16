@@ -3,7 +3,7 @@ type: claim
 title: Grade 5 students showed very small, non-significant CCU differences, indicating no reliable A4L impact at that grade level
 description: Grade 5 students showed very small, non-significant CCU differences, indicating no reliable A4L impact at that grade level
 id: a4l-grade5-ccu-no-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

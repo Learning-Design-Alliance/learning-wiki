@@ -3,7 +3,7 @@ type: claim
 title: SRO removal was not significantly related to changes in overall discipline infractions or in suspensions at either the student or school level
 description: SRO removal was not significantly related to changes in overall discipline infractions or in suspensions at either the student or school level
 id: sro-removal-no-change-infractions-suspensions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

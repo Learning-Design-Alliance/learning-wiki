@@ -3,7 +3,7 @@ type: strategy
 id: use-checklists-to-check-reporting-completeness
 title: Use the checklists against a draft methods and results section to check completeness of reporting
 description: "Beyond listing what to report, the brief models a concrete activity: applying the five checklists to an actual report."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

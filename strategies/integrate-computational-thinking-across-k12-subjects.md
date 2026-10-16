@@ -3,7 +3,7 @@ type: strategy
 id: integrate-computational-thinking-across-k12-subjects
 title: Integrate computational thinking across K-12 subject areas rather than treating it as computer-science-only
 description: "The paper recommends teaching computational thinking across subject areas in K-12 schools because it is \"a skillset for solving complex problems, a way to learn topics in any discipline, and a necessity for fully part..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

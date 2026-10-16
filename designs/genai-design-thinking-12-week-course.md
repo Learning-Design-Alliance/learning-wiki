@@ -3,7 +3,7 @@ type: design
 id: genai-design-thinking-12-week-course
 title: 12-week design thinking course integrating ChatGPT and DALL·E across all five stages
 description: "A 12-week undergraduate design thinking course in which generative AI tools were integrated across Design Thinking's five stages."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

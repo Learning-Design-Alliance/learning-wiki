@@ -3,7 +3,7 @@ type: claim
 title: "Peer AI use diminished some students' sense of their own effort's value through social comparison, independent of their own AI use"
 description: "Peer AI use diminished some students' sense of their own effort's value through social comparison, independent of their own AI use"
 id: peer-ai-use-social-comparison-devalues-effort
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

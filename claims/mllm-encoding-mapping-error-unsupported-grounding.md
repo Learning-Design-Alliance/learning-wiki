@@ -3,7 +3,7 @@ type: claim
 title: Some MLLM failures occur when a higher-level SciVis interpretation is grounded in an unsupported visual encoding rather than the encoding specified by the visualization and caption
 description: Some MLLM failures occur when a higher-level SciVis interpretation is grounded in an unsupported visual encoding rather than the encoding specified by the visualization and caption
 id: mllm-encoding-mapping-error-unsupported-grounding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

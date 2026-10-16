@@ -3,7 +3,7 @@ type: strategy
 id: stratified-career-education-by-adaptability-profile
 title: Stratified career development education and psychological interventions tailored to career adapt-abilities profiles
 description: "Because latent profile analysis revealed pronounced heterogeneity, with over 40% of students in the low adapt-abilities group and fewer than 10% in the high group, the article recommends stratified interventions rathe..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

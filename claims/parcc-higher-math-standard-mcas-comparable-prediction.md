@@ -3,7 +3,7 @@ type: claim
 title: PARCC sets a higher performance standard in mathematics than MCAS, while both exams predict college performance comparably
 description: PARCC sets a higher performance standard in mathematics than MCAS, while both exams predict college performance comparably
 id: parcc-higher-math-standard-mcas-comparable-prediction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

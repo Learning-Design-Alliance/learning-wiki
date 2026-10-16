@@ -3,7 +3,7 @@ type: claim
 title: The rapid maturation of GenAI platforms has created significant challenges for higher education, particularly in relation to assessment.
 description: The rapid maturation of GenAI platforms has created significant challenges for higher education, particularly in relation to assessment.
 id: genai-platforms-challenge-higher-education-assessment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

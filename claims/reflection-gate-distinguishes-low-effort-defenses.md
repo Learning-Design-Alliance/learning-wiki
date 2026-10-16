@@ -3,7 +3,7 @@ type: claim
 title: The deterministic reflection gate reliably distinguished low-effort defenses from substantive ones during validation, coaching filler answers rather than unlocking
 description: The deterministic reflection gate reliably distinguished low-effort defenses from substantive ones during validation, coaching filler answers rather than unlocking
 id: reflection-gate-distinguishes-low-effort-defenses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

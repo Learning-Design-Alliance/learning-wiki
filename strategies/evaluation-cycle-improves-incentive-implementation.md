@@ -3,7 +3,7 @@ type: strategy
 id: evaluation-cycle-improves-incentive-implementation
 title: Use evaluation to drive a cycle of improvement on incentive design and implementation
 description: "The article's third key question asks \"How can evaluation promote a cycle of improvement on the incentive design and implementation?\" It recommends that schools treat evaluation as an ongoing tool that feeds findings..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

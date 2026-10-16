@@ -3,7 +3,7 @@ type: claim
 title: Undergraduate students debugging analog circuits under exam pressure preferentially used images to capture the physical circuit and the exam assignment when conversing with LLMs
 description: Undergraduate students debugging analog circuits under exam pressure preferentially used images to capture the physical circuit and the exam assignment when conversing with LLMs
 id: students-use-images-capturing-circuits-chat-debugging
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

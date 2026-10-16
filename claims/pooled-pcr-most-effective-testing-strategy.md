@@ -3,7 +3,7 @@ type: claim
 title: For higher-risk schools relying on testing, pooled PCR testing is generally the most effective strategy, with serial antigen testing a close second
 description: For higher-risk schools relying on testing, pooled PCR testing is generally the most effective strategy, with serial antigen testing a close second
 id: pooled-pcr-most-effective-testing-strategy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ id: icnale-global-rating-archive-gra-dataset
 title: ICNALE Global Rating Archive (GRA) dataset
 description: A publicly available dataset derived from ICNALE, released by Stefano Bannò and colleagues, containing L2 English learner essays and speeches with holistic and analytic ratings from an English-as-a-Lingua-Franca assessment perspective.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

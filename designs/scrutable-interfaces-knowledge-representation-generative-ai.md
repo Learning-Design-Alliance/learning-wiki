@@ -3,7 +3,7 @@ type: design
 id: scrutable-interfaces-knowledge-representation-generative-ai
 title: "Scrutable interfaces for generative AI: manipulable knowledge representations that let users shape outputs without understanding the model"
 description: "Scrutable interfaces use a knowledge representation, such as a concept map, to structure users' interactions with an underlying AI model."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Students in an accelerated online MBA program experience their courses as a community of inquiry, with all three CoI presences rated above 4.0 on a 5-point scale
 description: Students in an accelerated online MBA program experience their courses as a community of inquiry, with all three CoI presences rated above 4.0 on a 5-point scale
 id: mba-students-experience-courses-as-coi
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

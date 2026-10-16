@@ -3,7 +3,7 @@ type: research-method
 id: activepassive-localglobal-coding-framework-for-llm-offloading-prompts
 title: Active/passive local/global coding framework for LLM offloading prompts
 description: "A four-way coding scheme applied to each of 564 learner prompts, capturing whether the learner \"remained somewhat active or was passive during a comprehension activity, and if the comprehension within a prompt was targetting local or global level\"."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10
@@ -28,4 +28,4 @@ A four-way coding scheme applied to each of 564 learner prompts, capturing wheth
 -
 
 ## Key Sources
-- Poquet, O., Nanduri, M. S., Salinas Loyer, M. X., Stadler, M., Sailer, M., Jovanovic, J. (2026). Profiling Cognitive Offloading in LLM-mediated Synthesis Writing: Volume vs. Content. https://arxiv.org/abs/2606.10434
+- Poquet, O., Nanduri, M. S., Salinas Loyer, M. X., Stadler, M., Sailer, M., Jovanovic, J. (2026). Profiling Cognitive Offloading in LLM-mediated Synthesis Writing: Volume vs. Content. https://arxiv.org/abs/2606.10434. [doi:10.48550/arxiv.2606.10434](https://doi.org/10.48550/arxiv.2606.10434)

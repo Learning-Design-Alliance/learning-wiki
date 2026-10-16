@@ -3,7 +3,7 @@ type: claim
 title: Educators in 2023-24 listening sessions repeatedly identified Criterion 4 as a barrier to reclassification that many English-only students could not meet
 description: Educators in 2023-24 listening sessions repeatedly identified Criterion 4 as a barrier to reclassification that many English-only students could not meet
 id: field-perceptions-criterion4-barrier
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

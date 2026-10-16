@@ -3,7 +3,7 @@ type: claim
 title: E-M scoring assumes the remaining responses are unaffected by disengagement, and this assumption can fail under partial engagement
 description: E-M scoring assumes the remaining responses are unaffected by disengagement, and this assumption can fail under partial engagement
 id: em-scoring-assumes-remaining-responses-unaffected
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

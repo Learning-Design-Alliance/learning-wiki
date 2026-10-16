@@ -3,7 +3,7 @@ type: claim
 title: Linear regression outperformed equipercentile and mean-sigma equating for predicting ARM scores and was selected as the final linking model
 description: Linear regression outperformed equipercentile and mean-sigma equating for predicting ARM scores and was selected as the final linking model
 id: linear-regression-selected-linking-model
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

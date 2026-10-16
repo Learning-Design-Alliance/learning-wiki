@@ -3,7 +3,7 @@ type: strategy
 id: rd-design-to-replicate-experimental-impact-estimates
 title: Use regression discontinuity designs to replicate or check experimental impact estimates for education interventions
 description: The report demonstrates using a regression discontinuity design as a replication approach for experimental impact estimates of education interventions.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

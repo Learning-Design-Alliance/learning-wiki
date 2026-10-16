@@ -3,7 +3,7 @@ type: claim
 title: Three of the five reviewed RCTs found no statistically significant effect of summer counseling on fall college enrollment (indeterminate effects)
 description: Three of the five reviewed RCTs found no statistically significant effect of summer counseling on fall college enrollment (indeterminate effects)
 id: summer-counseling-three-indeterminate-enrollment-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

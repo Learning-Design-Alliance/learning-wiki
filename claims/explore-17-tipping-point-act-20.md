@@ -3,7 +3,7 @@ type: claim
 title: A ninth-grade EXPLORE composite score of 17 is the tipping point for reaching an ACT score of 20, and can serve as an interim benchmark
 description: A ninth-grade EXPLORE composite score of 17 is the tipping point for reaching an ACT score of 20, and can serve as an interim benchmark
 id: explore-17-tipping-point-act-20
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

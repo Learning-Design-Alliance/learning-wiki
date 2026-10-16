@@ -3,7 +3,7 @@ type: design
 id: multilevel-professional-development-school-partnership
 title: Multilevel Professional Development School Partnership
 description: A three-tier meeting structure — a strategic policy group, a middle-management "broad knowledge community," and within-school "small knowledge communities" — for building a durable research-practice partnership between a teacher-education institution and multiple schools.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

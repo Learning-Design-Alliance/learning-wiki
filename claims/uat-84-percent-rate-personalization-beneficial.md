@@ -3,7 +3,7 @@ type: claim
 title: "In preliminary user acceptance testing, 84% of participants rated Taklif.AI's personalization feature as beneficial"
 description: "In preliminary user acceptance testing, 84% of participants rated Taklif.AI's personalization feature as beneficial"
 id: uat-84-percent-rate-personalization-beneficial
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

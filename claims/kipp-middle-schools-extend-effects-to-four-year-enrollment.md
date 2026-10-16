@@ -3,7 +3,7 @@ type: claim
 title: "KIPP middle schools' positive effects extend to enrollment in 4-year college programs, not only middle school achievement"
 description: "KIPP middle schools' positive effects extend to enrollment in 4-year college programs, not only middle school achievement"
 id: kipp-middle-schools-extend-effects-to-four-year-enrollment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

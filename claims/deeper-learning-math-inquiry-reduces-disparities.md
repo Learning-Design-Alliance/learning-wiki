@@ -3,7 +3,7 @@ type: claim
 title: Deeper-learning inquiry strategies in low-income mathematics classes reduced linguistic, ethnic, and class outcome disparities
 description: Deeper-learning inquiry strategies in low-income mathematics classes reduced linguistic, ethnic, and class outcome disparities
 id: deeper-learning-math-inquiry-reduces-disparities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

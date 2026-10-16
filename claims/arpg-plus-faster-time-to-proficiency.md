@@ -3,7 +3,7 @@ type: claim
 title: ARPG+ reaches quality milestones faster than comparison conditions in simulation
 description: ARPG+ reaches quality milestones faster than comparison conditions in simulation
 id: arpg-plus-faster-time-to-proficiency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

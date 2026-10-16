@@ -3,7 +3,7 @@ type: claim
 title: The Photon Fusion VR learning system achieves stable real-time communication with minimal device load
 description: The Photon Fusion VR learning system achieves stable real-time communication with minimal device load
 id: photon-fusion-stable-realtime-communication
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -4,7 +4,7 @@ id: medeasy
 title: MedEasy
 description: MedEasy is a web-based multi-agent virtual standardized-patient platform developed by Zhiqi Gao et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

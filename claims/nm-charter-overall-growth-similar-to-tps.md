@@ -3,7 +3,7 @@ type: claim
 title: New Mexico charter school students make similar one-year growth in reading and math as their traditional public school virtual twins
 description: New Mexico charter school students make similar one-year growth in reading and math as their traditional public school virtual twins
 id: nm-charter-overall-growth-similar-to-tps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Without fine-tuning, commercial frontier models outperform open-source LLMs on MedGame Bench structural validity and content metrics
 description: Without fine-tuning, commercial frontier models outperform open-source LLMs on MedGame Bench structural validity and content metrics
 id: commercial-models-outperform-open-source-medgame-baseline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

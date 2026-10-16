@@ -3,7 +3,7 @@ type: claim
 title: "Witkin's orientation tests showed marked individual differences and self-consistency in perceiving the upright, with only a tendency toward two distinguishable groups"
 description: "Witkin's orientation tests showed marked individual differences and self-consistency in perceiving the upright, with only a tendency toward two distinguishable groups"
 id: witkin-orientation-tests-individual-differences-self-consistency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

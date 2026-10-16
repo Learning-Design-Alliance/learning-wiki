@@ -4,7 +4,7 @@ id: harmonized-cross-national-pisa-20182022-country-level-dataset-with-learning-
 title: Harmonized cross-national PISA 2018–2022 country-level dataset with learning environment and career aspiration indicators
 description: A balanced longitudinal country-level dataset assembled by Popa et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11
@@ -29,4 +29,4 @@ A balanced longitudinal country-level dataset assembled by Popa et al. from open
 -
 
 ## Key Sources
-- Popa, D. M., Oprea, S.-V., & Bâra, A. (2022). Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills? Department of Economic Informatics and Cybernetics, Bucharest University of Economic Studies. simona.oprea@csie.ase.ro
+- Popa, D. M., Oprea, S.-V., & Bâra, A. (2022). Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills? Department of Economic Informatics and Cybernetics, Bucharest University of Economic Studies. simona.oprea@csie.ase.ro. [doi:10.48550/arxiv.2605.27391](https://doi.org/10.48550/arxiv.2605.27391)

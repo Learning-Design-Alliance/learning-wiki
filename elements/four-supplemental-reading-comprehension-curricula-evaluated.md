@@ -3,7 +3,7 @@ type: element
 id: four-supplemental-reading-comprehension-curricula-evaluated
 title: Four supplemental reading comprehension curricula evaluated under real-world conditions
 description: "The study evaluated four supplemental fifth-grade reading comprehension curricula: Project CRISS (developed by CRISS), ReadAbout (developed by Scholastic), Read for Real (developed by Chapman University and Zaner-Blos..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

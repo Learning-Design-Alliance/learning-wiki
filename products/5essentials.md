@@ -4,7 +4,7 @@ id: 5essentials
 title: 5Essentials
 description: A school-improvement measurement framework developed by the University of Chicago Consortium on School Research that organizes school survey profiles around five domains and their related measures.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
@@ -249,7 +249,7 @@ The report organizes survey results according to five essential supports for stu
 - [The Five Essential Supports framework organizes school development measures](5essentials-survey.md)
 - [Five essential organizational supports for improving student learning](5essentials.md)
 - [Framework of five essential supports and contextual resources for school improvement](../theories/five-essential-supports-framework-ccsr.md)
-- [Five essential supports framework for school improvement](../theories/five-essential-supports-school-improvement-framework.md)
+- [Five essential supports framework for school improvement](../theories/five-essential-supports-framework-ccsr.md)
 
 ## Examples
 
@@ -342,7 +342,7 @@ The report organizes all school survey profiles around five domains: school lead
 - [The Five Essential Supports framework organizes school development measures](5essentials-survey.md)
 - [Five essential organizational supports for improving student learning](../products/5essentials.md)
 - [School organizational processes mediating principal influence: a five-process framework](../theories/principal-mediated-organizational-processes-framework.md)
-- [Five essential supports framework for school improvement](../theories/five-essential-supports-school-improvement-framework.md)
+- [Five essential supports framework for school improvement](../theories/five-essential-supports-framework-ccsr.md)
 - [Model of Essential Supports for Student Learning as framework for assessing school improvement](../products/model-of-essential-supports-for-student-learning.md)
 - [Framework of five essential supports and contextual resources for school improvement](../theories/five-essential-supports-framework-ccsr.md)
 - [Model of Essential Supports for Student Learning](model-of-essential-supports-for-student-learning.md)
@@ -396,8 +396,8 @@ The 5Es is a framework developed by the Consortium on Chicago School Research de
 - [Six organizational conditions of early childhood education programs as higher-level essentials constructs](../theories/six-organizational-conditions-ece-essentials.md)
 - [The five essential supports framework: five mutually reinforcing organizational dimensions that enable or inhibit improvement in classroom practices](../theories/five-essential-supports-early-education-framework.md)
 - [The Five Essential Supports framework identifies five organizational conditions for school improvement](../theories/five-essential-supports-framework-illinois.md)
-- [Five essential supports framework for school improvement](../theories/five-essential-supports-school-improvement-framework.md)
-- [Five essentials framework of organizational supports for school improvement](../theories/five-essentials-framework-early-education-adaptation.md)
+- [Five essential supports framework for school improvement](../theories/five-essential-supports-framework-ccsr.md)
+- [Five essentials framework of organizational supports for school improvement](../theories/five-essential-supports-framework-ccsr.md)
 - [Essential supports framework for educational technology use in schools](../products/5essentials.md)
 - [Instructional program coherence framework: common framework, supportive working conditions, and strategic resource allocation](../theories/instructional-program-coherence-framework.md)
 - [Race as a proxy for vulnerability in urban school reform](../theories/race-as-proxy-for-vulnerability.md)
@@ -498,7 +498,7 @@ The Consortium's framework holds that five domains—school leadership, parent a
 - [Model of Essential Supports for Student Learning as framework for assessing school improvement](../products/model-of-essential-supports-for-student-learning.md)
 - [The Five Essential Supports framework organizes school development measures](5essentials-survey.md)
 - [Framework of five essential supports and contextual resources for school improvement](../theories/five-essential-supports-framework-ccsr.md)
-- [Five essential supports framework for school improvement](../theories/five-essential-supports-school-improvement-framework.md)
+- [Five essential supports framework for school improvement](../theories/five-essential-supports-framework-ccsr.md)
 - [Model of Essential Supports for Student Learning](model-of-essential-supports-for-student-learning.md)
 - [Five Essential Supports for Student Learning](../products/5essentials-survey.md)
 - [Support-and-pressure principal leadership framework for productive school improvement](../theories/support-and-pressure-principal-leadership-framework.md)

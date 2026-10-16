@@ -3,7 +3,7 @@ type: claim
 title: Inclusive, family-focused co-curricular events deepened relationships between educators and parents
 description: Inclusive, family-focused co-curricular events deepened relationships between educators and parents
 id: family-focused-co-curricular-events-relationships
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: math-180-blended-rotation-implementation
 title: "Implement Math 180 as a blended rotation model with 1:1 computer use during rotation and roughly half the class on software at a time"
 description: Both efficacy studies used a blended model of implementation in which approximately half the class worked independently on the adaptive software at any given time while the teacher facilitated instruction with the oth...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: strategy
 id: cultural-liaison-researching-outside-own-culture
 title: "Use a cultural liaison and adopt scholar-and-student stance when researching outside one's own culture"
 description: Citing Prof.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -4,7 +4,7 @@ id: headsprout-early-reading
 title: Headsprout Early Reading
 description: Headsprout Early Reading is an Internet-based supplemental early-literacy curriculum developed by Headsprout, using adaptive animated lessons, stories, flashcards, and readers to teach foundational reading skills.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

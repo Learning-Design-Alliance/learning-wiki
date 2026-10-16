@@ -4,7 +4,7 @@ title: Test disengagement could undermine inferences drawn from observed achieve
 description: Test disengagement could undermine inferences drawn from observed achievement scores
 id: disengagement-undermines-score-inferences
 aliases: [test-disengagement-may-bias-effectiveness-estimates]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

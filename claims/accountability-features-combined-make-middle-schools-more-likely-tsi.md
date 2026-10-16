@@ -3,7 +3,7 @@ type: claim
 title: Two combined features of state school accountability systems make middle schools more likely than other schools to be identified for TSI because of the performance of their students with disabilities
 description: Two combined features of state school accountability systems make middle schools more likely than other schools to be identified for TSI because of the performance of their students with disabilities
 id: accountability-features-combined-make-middle-schools-more-likely-tsi
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

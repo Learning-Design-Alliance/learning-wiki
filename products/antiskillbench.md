@@ -4,7 +4,7 @@ id: antiskillbench
 title: AntiSkillBench
 description: AntiSkillBench is a benchmark dataset and evaluation suite created by Yongli Xiang et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

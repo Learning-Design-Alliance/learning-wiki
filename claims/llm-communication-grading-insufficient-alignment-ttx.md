@@ -3,7 +3,7 @@ type: claim
 title: "GPT-4o's rubric-guided grading of team communication disagreed with instructors at near-chance levels (55% RMSE), while GPT-5.2 improved but remained insufficiently aligned (35%)"
 description: "GPT-4o's rubric-guided grading of team communication disagreed with instructors at near-chance levels (55% RMSE), while GPT-5.2 improved but remained insufficiently aligned (35%)"
 id: llm-communication-grading-insufficient-alignment-ttx
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

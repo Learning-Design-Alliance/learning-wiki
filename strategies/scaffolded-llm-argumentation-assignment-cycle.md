@@ -3,7 +3,7 @@ type: strategy
 id: scaffolded-llm-argumentation-assignment-cycle
 title: "Scaffolded LLM-collaboration assignment cycle: draft, LLM critique, then rebut or incorporate"
 description: A repeatable classroom assignment cycle in which students first write an argumentative essay defending a position, then ask an LLM chatbot of their choice to critique the argument as thoroughly as possible, then respo...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

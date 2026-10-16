@@ -3,7 +3,7 @@ type: claim
 title: "A 2010 narrative review reports that even very advanced L2 learners read more slowly than native speakers and miss subtle anaphoric interpretation distinctions"
 description: A 2010 narrative review reports that even very advanced L2 learners read more slowly than native speakers and miss subtle anaphoric interpretation distinctions
 id: l2-skill-never-fully-native-like
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

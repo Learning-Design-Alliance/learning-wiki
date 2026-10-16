@@ -3,7 +3,7 @@ type: claim
 title: Graduate school enrollment is countercyclical for females and acyclical for males
 description: Graduate school enrollment is countercyclical for females and acyclical for males
 id: graduate-enrollment-countercyclical-females-acyclical-males
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

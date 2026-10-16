@@ -3,7 +3,7 @@ type: claim
 title: "Global change instruction poses a distinctive challenge: learners must view global change holistically while analysing individual issues at local and regional levels"
 description: "Global change instruction poses a distinctive challenge: learners must view global change holistically while analysing individual issues at local and regional levels"
 id: global-change-holistic-and-local-analysis-challenge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

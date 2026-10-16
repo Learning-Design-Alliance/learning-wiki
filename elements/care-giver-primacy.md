@@ -3,7 +3,7 @@ type: element
 id: care-giver-primacy
 title: "Care-Giver Primacy as a worker stance for meeting new youths' needs"
 description: Care-Giver Primacy is a component the article advances within the CMR model to reorient youth workers during admissions.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

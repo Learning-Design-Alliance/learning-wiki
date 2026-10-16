@@ -3,7 +3,7 @@ type: claim
 title: Shorter codebooks and shorter data excerpts yield higher initial LLM coding accuracy, and a smaller specialization gap between codebook and excerpt helps
 description: Shorter codebooks and shorter data excerpts yield higher initial LLM coding accuracy, and a smaller specialization gap between codebook and excerpt helps
 id: claim-llm-coding-accuracy-shorter-codebooks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

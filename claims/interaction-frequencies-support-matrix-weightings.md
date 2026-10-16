@@ -3,7 +3,7 @@ type: claim
 title: Observed interaction frequencies support the Interaction Matrix cell weightings, with the most interactions in the highest-weighted cells
 description: Observed interaction frequencies support the Interaction Matrix cell weightings, with the most interactions in the highest-weighted cells
 id: interaction-frequencies-support-matrix-weightings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

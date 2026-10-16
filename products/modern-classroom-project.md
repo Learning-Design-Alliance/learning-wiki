@@ -4,7 +4,7 @@ id: modern-classroom-project
 title: Modern Classroom Project
 description: The Modern Classroom Project is a teacher-created instructional model run by the Modern Classroom Project organization for self-paced, competency-based classroom instruction.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

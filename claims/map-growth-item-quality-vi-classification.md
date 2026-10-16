@@ -3,7 +3,7 @@ type: claim
 title: Math assessment items can be classified as high-quality or low-quality for students with visual impairments based on whether they measure achievement equally well for students with and without VI
 description: Math assessment items can be classified as high-quality or low-quality for students with visual impairments based on whether they measure achievement equally well for students with and without VI
 id: map-growth-item-quality-vi-classification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

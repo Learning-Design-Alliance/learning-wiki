@@ -4,7 +4,7 @@ id: nevada-mri-menu-of-more-rigorous-interventions-for-csi-schools
 title: Nevada MRI menu of more rigorous interventions for CSI schools
 description: The Nevada Department of Education, with Region 15 Comprehensive Center support, developed this evidence-based menu to help LEAs and Comprehensive Support and Improvement schools identify and implement interventions addressing persistent low or stagnant academic performance.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

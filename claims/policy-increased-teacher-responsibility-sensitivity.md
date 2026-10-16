@@ -3,7 +3,7 @@ type: claim
 title: Teachers and principals reported the policy made them feel extra responsibility and more sensitive to student needs
 description: Teachers and principals reported the policy made them feel extra responsibility and more sensitive to student needs
 id: policy-increased-teacher-responsibility-sensitivity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

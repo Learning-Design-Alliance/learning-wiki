@@ -3,7 +3,7 @@ type: claim
 title: Peer-related help-seeking and learner-learner engagement strategies appear less often in profiles of students with lower digital distraction
 description: Peer-related help-seeking and learner-learner engagement strategies appear less often in profiles of students with lower digital distraction
 id: peer-help-seeking-inversely-associated-lower-distraction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

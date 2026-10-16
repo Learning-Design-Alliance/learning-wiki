@@ -3,7 +3,7 @@ type: claim
 title: "76.5% of students demand a shift toward hands-on practical computer activities over theoretical instruction"
 description: "76.5% of students demand a shift toward hands-on practical computer activities over theoretical instruction"
 id: student-demand-hands-on-it-instruction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

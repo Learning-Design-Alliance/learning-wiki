@@ -3,7 +3,7 @@ type: claim
 title: "LLM-assisted hardware debugging requires consistent human feedback because the LLM's understanding of the circuit drifts"
 description: "LLM-assisted hardware debugging requires consistent human feedback because the LLM's understanding of the circuit drifts"
 id: llm-debugging-requires-consistent-human-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

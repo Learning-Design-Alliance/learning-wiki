@@ -3,7 +3,7 @@ type: claim
 title: Interactivity, information sharing, and collaborative environment are each positively associated with perceived social presence in agentic AI-supported online learning
 description: Interactivity, information sharing, and collaborative environment are each positively associated with perceived social presence in agentic AI-supported online learning
 id: affordances-positive-social-presence-agentic-ai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

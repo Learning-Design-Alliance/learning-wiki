@@ -3,7 +3,7 @@ type: strategy
 id: adventure-therapy-effect-size-benchmarks
 title: Use meta-analytic benchmarks (.4-.6 overall; .3-.5 for ages 9-17; .5-.7 for 18+) to evaluate adventure therapy program effectiveness
 description: "The authors recommend using their meta-analytic results as comparative benchmarks in adventure therapy program evaluation: a program's relative efficacy is determined by comparing its outcomes with the meta-analytic f..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

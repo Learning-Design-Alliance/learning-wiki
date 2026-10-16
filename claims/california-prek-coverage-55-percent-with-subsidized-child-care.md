@@ -3,7 +3,7 @@ type: claim
 title: "Including subsidized child care, California enrolled about 37% of all 4-year-olds in publicly funded early childhood programs in 2019–20 and 55% in 2023–24"
 description: "Including subsidized child care, California enrolled about 37% of all 4-year-olds in publicly funded early childhood programs in 2019–20 and 55% in 2023–24"
 id: california-prek-coverage-55-percent-with-subsidized-child-care
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

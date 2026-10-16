@@ -3,7 +3,7 @@ type: claim
 title: Sequencing independent task engagement before LLM consultation is associated with stronger student outputs
 description: Sequencing independent task engagement before LLM consultation is associated with stronger student outputs
 id: independent-work-before-llm-stronger-outputs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

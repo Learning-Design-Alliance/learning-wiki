@@ -2,7 +2,7 @@
 type: theory
 title: "Implicit scaffolding framework: guidance built into the tool via affordances, constraints, cueing and feedback"
 description: The implicit scaffolding framework holds that scaffolding need not be written or verbal but can be built into the design of a learning tool, so that students find productive inquiry paths without explicit instructions.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -54,4 +54,4 @@ The implicit scaffolding framework holds that scaffolding need not be written or
 - [Energy Skate Park: Basics simulation](../products/energy-skate-park-basics-espb.md)
 
 ## Key Sources
-- Podolefsky, N. S., Moore, E. B., & Perkins, K. K. (2013). Implicit scaffolding in interactive simulations: Design strategies to support multiple educational goals. http://phet.colorado.edu/en/simulation/energy-skate-park-basics
+- Podolefsky, N. S., Moore, E. B., & Perkins, K. K. (2013). Implicit scaffolding in interactive simulations: Design strategies to support multiple educational goals. http://phet.colorado.edu/en/simulation/energy-skate-park-basics. [doi:10.48550/arxiv.1306.6544](https://doi.org/10.48550/arxiv.1306.6544)

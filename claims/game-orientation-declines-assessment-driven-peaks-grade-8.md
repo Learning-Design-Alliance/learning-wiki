@@ -3,7 +3,7 @@ type: claim
 title: Game-oriented engagement declines with grade level while assessment-driven engagement peaks in Grade 8
 description: Game-oriented engagement declines with grade level while assessment-driven engagement peaks in Grade 8
 id: game-orientation-declines-assessment-driven-peaks-grade-8
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

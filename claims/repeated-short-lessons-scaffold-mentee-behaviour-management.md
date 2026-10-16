@@ -3,7 +3,7 @@ type: claim
 title: Repeating one short lesson six times with small groups gave the mentee repeated opportunities to review and modify her classroom management strategies and build confidence
 description: Repeating one short lesson six times with small groups gave the mentee repeated opportunities to review and modify her classroom management strategies and build confidence
 id: repeated-short-lessons-scaffold-mentee-behaviour-management
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

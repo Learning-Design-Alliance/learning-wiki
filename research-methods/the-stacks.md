@@ -3,7 +3,7 @@ type: research-method
 id: the-stacks
 title: The Stacks
 description: "The Stacks is a workshop visualization that 'allows for a small set of different, parallel dimensions of evidence rather than sequential levels'."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

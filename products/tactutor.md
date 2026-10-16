@@ -4,7 +4,7 @@ id: tactutor
 title: TACTutor
 description: TACTutor is an open 4B language model for adaptive English-as-a-second-language tutoring, developed by Dongjie Yang and colleagues through supervised fine-tuning and taxonomy-grounded reinforcement learning.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

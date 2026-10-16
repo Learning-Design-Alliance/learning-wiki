@@ -3,7 +3,7 @@ type: claim
 title: Well-implemented, well-attended summer programs show positive outcomes in academic, social, and behavioral areas
 description: Well-implemented, well-attended summer programs show positive outcomes in academic, social, and behavioral areas
 id: well-attended-summer-programs-positive-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

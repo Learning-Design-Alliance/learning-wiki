@@ -2,7 +2,7 @@
 type: theory
 title: Distinction between cooperative learning and collaborative learning as two approaches to students working in groups
 description: The primer defines two distinct approaches to students working in groups.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Ethical issue awareness improved more than ethical consequence reasoning after LLM-supported group ethics discussion
 description: Ethical issue awareness improved more than ethical consequence reasoning after LLM-supported group ethics discussion
 id: ethical-issue-awareness-greater-gain-than-reasoning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

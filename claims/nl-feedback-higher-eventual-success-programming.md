@@ -3,7 +3,7 @@ type: claim
 title: Natural language AI feedback is associated with higher eventual success on initially incorrect programming problems
 description: Natural language AI feedback is associated with higher eventual success on initially incorrect programming problems
 id: nl-feedback-higher-eventual-success-programming
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

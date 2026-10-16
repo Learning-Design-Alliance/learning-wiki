@@ -3,7 +3,7 @@ type: claim
 title: No developing-region digital literacy framework in the review explicitly represents the copyright and licenses sub-competence
 description: No developing-region digital literacy framework in the review explicitly represents the copyright and licenses sub-competence
 id: copyright-licenses-absent-developing-region-frameworks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
@@ -44,3 +44,4 @@ Sub-competence-level mapping of frameworks onto DigComp 2.2 (Fig. 5). The review
 
 ## Related Claims
 - [Mapped against DigComp 2.2, developed-region frameworks cover communication and collaboration more widely while developing-region frameworks emphasize problem solving](regional-digcomp-coverage-developed-vs-developing.md) — related
+- [No existing framework in the reviewed literature combined all identified inquiry phases and sub-phases, prompting development of a synthesized framework](no-existing-framework-combining-all-inquiry-phases.md) — related

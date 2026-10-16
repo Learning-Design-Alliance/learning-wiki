@@ -3,7 +3,7 @@ type: claim
 title: Conversational narration style produces a large effect on learning from multimedia instruction, likely via social partnership
 description: Conversational narration style produces a large effect on learning from multimedia instruction, likely via social partnership
 id: conversational-narration-style-large-learning-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

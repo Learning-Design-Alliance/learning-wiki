@@ -3,7 +3,7 @@ type: claim
 title: "EFL primary children's meaning negotiation during a spot-the-differences task is low in amount but significantly higher in the L2 than in the L1"
 description: "EFL primary children's meaning negotiation during a spot-the-differences task is low in amount but significantly higher in the L2 than in the L1"
 id: efl-child-nom-low-l2-higher-than-l1
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

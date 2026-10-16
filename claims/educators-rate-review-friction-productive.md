@@ -3,7 +3,7 @@ type: claim
 title: Educators did not perceive the iterative CTML review process as slowing them down, rating production efficiency at 4.26/5
 description: Educators did not perceive the iterative CTML review process as slowing them down, rating production efficiency at 4.26/5
 id: educators-rate-review-friction-productive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -4,7 +4,7 @@ id: i-best
 title: I-BEST
 description: A Washington State Board for Community and Technical Colleges programme that integrates adult basic education with occupational training through team teaching and learner support services.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

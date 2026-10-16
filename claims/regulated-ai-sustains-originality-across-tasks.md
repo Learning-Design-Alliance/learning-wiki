@@ -3,7 +3,7 @@ type: claim
 title: The regulated-AI group sustained originality across tasks while both other groups declined from the easier to the more complex task
 description: The regulated-AI group sustained originality across tasks while both other groups declined from the easier to the more complex task
 id: regulated-ai-sustains-originality-across-tasks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

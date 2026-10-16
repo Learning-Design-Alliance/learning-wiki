@@ -3,7 +3,7 @@ type: claim
 title: Turnaround schools generally served the same students after reform, except Closure and Restart schools, which shifted toward more advantaged, higher-achieving students
 description: Turnaround schools generally served the same students after reform, except Closure and Restart schools, which shifted toward more advantaged, higher-achieving students
 id: turnaround-student-composition-stable-except-restart
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

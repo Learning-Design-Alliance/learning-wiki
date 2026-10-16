@@ -3,7 +3,7 @@ type: claim
 title: Collaborative text co-construction with the teacher as scribe gives five-year-olds autonomy of composition and judgement and sustains long focused engagement
 description: Collaborative text co-construction with the teacher as scribe gives five-year-olds autonomy of composition and judgement and sustains long focused engagement
 id: co-construction-scribe-teacher-fosters-composition-autonomy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: Students report teacher feedback on writing is insufficient, and they value scores over feedback
 description: Students report teacher feedback on writing is insufficient, and they value scores over feedback
 id: insufficient-writing-feedback-scores-over-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

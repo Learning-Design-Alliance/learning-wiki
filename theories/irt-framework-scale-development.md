@@ -2,7 +2,7 @@
 type: theory
 title: Item Response Theory as a framework for scale development
 description: Item response theory (IRT) is presented as one of two fundamental approaches to scale development, alongside classical test theory (CTT).
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

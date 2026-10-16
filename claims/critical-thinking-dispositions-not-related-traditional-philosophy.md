@@ -3,7 +3,7 @@ type: claim
 title: "Prospective teachers' critical thinking dispositions show no significant relationship with traditional educational philosophy preference"
 description: "Prospective teachers' critical thinking dispositions show no significant relationship with traditional educational philosophy preference"
 id: critical-thinking-dispositions-not-related-traditional-philosophy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

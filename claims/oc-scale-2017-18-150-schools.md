@@ -3,7 +3,7 @@ type: claim
 title: By 2017–18, more than 150 schools in nine states implemented Opportunity Culture, reaching over 41,000 students, with over $3 million in additional pay and 97 percent MCL retention support
 description: By 2017–18, more than 150 schools in nine states implemented Opportunity Culture, reaching over 41,000 students, with over $3 million in additional pay and 97 percent MCL retention support
 id: oc-scale-2017-18-150-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

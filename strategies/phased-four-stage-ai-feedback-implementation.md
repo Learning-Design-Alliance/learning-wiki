@@ -3,7 +3,7 @@ type: strategy
 id: phased-four-stage-ai-feedback-implementation
 title: Implement AI-assisted report feedback through a four-stage phased pathway beginning with mature low-level tools
 description: "The article proposes a staged progression: Stage 1 deploys commercially available tools for structural and presentational feedback; Stage 2 introduces AI-supported intermediate-level checking under human oversight, be..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

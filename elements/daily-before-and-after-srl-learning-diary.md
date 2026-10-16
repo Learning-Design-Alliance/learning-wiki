@@ -4,7 +4,7 @@ id: daily-before-and-after-srl-learning-diary
 title: Daily Before-and-After SRL Learning Diary
 description: A daily online learning diary with two sections per learning day.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24
@@ -18,7 +18,7 @@ sources:
 # Daily Before-and-After SRL Learning Diary
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 mixed, 1 against) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (2 mixed, 2 against) · 2 studies (2 causal), `q2`–`q3` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 A daily online learning diary with two sections per learning day. "Before learning, open-ended questions triggered goal-setting, planning, and self-motivation", asking which chapters, goals, strategies and time were planned. The evening section "triggered reflection and goal-setting for the following day", comparing goals to achievement and naming obstacles. Participants averaged 12.58 entries; used alone, it produced no significant gains in this study.
@@ -45,6 +45,8 @@ A daily online learning diary with two sections per learning day. "Before learni
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [A daily learning diary alone (Group D) did not produce statistically significant pre-post gains on any measured outcome in an online mathematics preparation course](../claims/learning-diary-alone-no-significant-srl-gains-online-math-prep-course.md) [-W]
 - [SRL interventions in a four-week online mathematics preparation course did not significantly change the mathematics overall score (interaction marginal), while the mathematics focus score on self-chosen chapters showed a statistically significant group by time interaction](../claims/srl-interventions-math-overall-score-marginal-focus-score-significant-online-prep-course.md) [~W]
+- [Keeping a structured learning diary without further intervention did not improve university students' self-regulation](../claims/learning-diary-alone-no-self-regulation-gain.md) [-W] — attached 2026-10-15 from Fabriz et al. (2014), which proposed "Standardized learning journal (structured learning diary) for fostering self-monitoring in university courses"; tests this page's relationship.
+- [Combining a structured learning diary with instruction on self-regulated learning increased students' strategy use and self-efficacy](../claims/diary-plus-srl-instruction-raises-strategy-use-self-efficacy.md) [~W] — attached 2026-10-15 from Fabriz et al. (2014), which proposed "Standardized learning journal (structured learning diary) for fostering self-monitoring in university courses"; tests this page's relationship.
 
 ## Related Elements
 - [Journal_Reflections](../strategies/journal_reflections.md)

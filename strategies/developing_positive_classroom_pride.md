@@ -65,7 +65,7 @@ Recognition of learner success builds positive teacher-learner relationships, an
 - [Classroom strategy set for supporting students in foster care: buddies, helper tasks, structure, earned rewards, small successes, sincere praise, kept promises, high expectations, clean slates, and assumption-free assignments](foster-care-classroom-strategy-set.md)
 
 ## Examples
-- **Responsive Classroom** (https://www.responsiveclassroom.org) — elementary practice of "celebrating student work" through morning meeting shout-outs and displayed work, building collective classroom pride.
+- **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveclassroom.org) — elementary practice of "celebrating student work" through morning meeting shout-outs and displayed work, building collective classroom pride.
 - **PBIS (Positive Behavioral Interventions and Supports)** (https://www.pbis.org) — school-wide recognition systems that tie specific, acknowledged positive behavior to school identity; widely implemented in US schools.
 - **Secondary classroom adaptation** — a quiet, private "I was impressed by how you stuck with that proof" delivered at a student's desk, avoiding the social cost of public praise while still signaling sincere recognition.
 

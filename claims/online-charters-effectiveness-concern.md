@@ -3,7 +3,7 @@ type: claim
 title: The report concludes there is reason for concern about whether the online charter school sector is likely to be effective in promoting student achievement
 description: The report concludes there is reason for concern about whether the online charter school sector is likely to be effective in promoting student achievement
 id: online-charters-effectiveness-concern
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

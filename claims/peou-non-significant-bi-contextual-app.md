@@ -3,7 +3,7 @@ type: claim
 title: Perceived ease of use does not significantly predict intention to use the contextual mobile language learning app
 description: Perceived ease of use does not significantly predict intention to use the contextual mobile language learning app
 id: peou-non-significant-bi-contextual-app
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

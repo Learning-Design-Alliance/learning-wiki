@@ -3,7 +3,7 @@ type: claim
 title: Gamified robotics studies favor project-based learning while GBL studies favor constructivist pedagogy
 description: Gamified robotics studies favor project-based learning while GBL studies favor constructivist pedagogy
 id: gamification-pbl-gbl-constructivist-robotics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: strategy
 id: systems-change-five-factors-ai-equity
 title: Implement a systems change approach addressing five factors simultaneously for AI and digital equity
 description: Digital Promise works with educational leaders to implement a systems change approach to both AI and Digital Equity.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

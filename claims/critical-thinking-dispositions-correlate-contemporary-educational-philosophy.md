@@ -3,7 +3,7 @@ type: claim
 title: "Prospective teachers' critical thinking dispositions are positively and moderately correlated with their preference for contemporary educational philosophy"
 description: "Prospective teachers' critical thinking dispositions are positively and moderately correlated with their preference for contemporary educational philosophy"
 id: critical-thinking-dispositions-correlate-contemporary-educational-philosophy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

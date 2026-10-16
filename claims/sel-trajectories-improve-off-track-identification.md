@@ -3,7 +3,7 @@ type: claim
 title: Understanding how a student develops social-emotionally over intermediate school can improve identification of students not on track to succeed in high school
 description: Understanding how a student develops social-emotionally over intermediate school can improve identification of students not on track to succeed in high school
 id: sel-trajectories-improve-off-track-identification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

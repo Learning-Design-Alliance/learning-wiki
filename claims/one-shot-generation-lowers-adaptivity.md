@@ -3,7 +3,7 @@ type: claim
 title: One-shot path generation raises Validity but lowers Adaptivity and Efficiency relative to step-by-step interaction
 description: One-shot path generation raises Validity but lowers Adaptivity and Efficiency relative to step-by-step interaction
 id: one-shot-generation-lowers-adaptivity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

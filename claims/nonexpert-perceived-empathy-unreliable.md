@@ -3,7 +3,7 @@ type: claim
 title: Non-expert participants often fail to notice empathy differences between chatbot versions, so self-reported perceived empathy alone is an unreliable assessment method
 description: Non-expert participants often fail to notice empathy differences between chatbot versions, so self-reported perceived empathy alone is an unreliable assessment method
 id: nonexpert-perceived-empathy-unreliable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

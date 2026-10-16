@@ -3,7 +3,7 @@ type: claim
 title: Self-efficacy declines steadily for all students between 5th and 8th grade even while math and reading achievement grow
 description: Self-efficacy declines steadily for all students between 5th and 8th grade even while math and reading achievement grow
 id: self-efficacy-declines-middle-school-achievement-grows
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

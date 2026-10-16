@@ -3,7 +3,7 @@ type: claim
 title: Technical integration with learning management systems and existing teacher tools eases Ecree adoption
 description: Technical integration with learning management systems and existing teacher tools eases Ecree adoption
 id: lms-integration-eases-ecree-adoption
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ id: tough-as-nails-project
 aliases: [tough-as-nails-k8-ct-pathway-rpp]
 title: "Tough as Nails project: a K-8 coding pathway research-practice partnership in Kentucky Appalachia"
 description: "Tough as Nails, Nimble Fingers is an NSF-funded research-practice partnership (grants #1923314 and #2219401) creating a K-8 Computational Thinking Pathway in Floyd County and Pikeville Independent Schools by applying..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09
@@ -56,7 +56,7 @@ Tough as Nails, Nimble Fingers is an NSF-funded research-practice partnership (g
 
 ## Key Sources
 - Finding kinship in a far away land: The relevance of Japanese cultural perspectives to education research in Eastern Kentucky. (2022). https://bit.ly/TANrefs
-- Iwatani, E., Tackett, T., Tackett, K., Arnett, N., & May, P. (2021). Leveraging Community Cultural Wealth to Support K-8 CT Education in Kentucky Appalachia. IEEE. https://ieeexplore.ieee.org
+- Iwatani, E., Tackett, T., Tackett, K., Arnett, N., & May, P. (2021). Leveraging Community Cultural Wealth to Support K-8 CT Education in Kentucky Appalachia. IEEE. https://ieeexplore.ieee.org. [doi:10.1109/respect51740.2021.9620610](https://doi.org/10.1109/respect51740.2021.9620610)
 
 <!-- merged 2026-10-09 from designs/tough-as-nails-k8-ct-pathway-rpp ("Tough As Nails: NSF-funded research-practice partnership creating K-8 computational thinking pathways in two Kentucky Appalachia districts"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -92,5 +92,5 @@ Tough As Nails is an NSF-funded research-practice partnership led with Digital P
 -
 
 ## Key Sources
-- Iwatani, E., Tackett, T., Tackett, K., Arnett, N., & May, P. (2021). Leveraging Community Cultural Wealth to Support K-8 CT Education in Kentucky Appalachia. IEEE. https://ieeexplore.ieee.org
+- Iwatani, E., Tackett, T., Tackett, K., Arnett, N., & May, P. (2021). Leveraging Community Cultural Wealth to Support K-8 CT Education in Kentucky Appalachia. IEEE. https://ieeexplore.ieee.org. [doi:10.1109/respect51740.2021.9620610](https://doi.org/10.1109/respect51740.2021.9620610)
 -->

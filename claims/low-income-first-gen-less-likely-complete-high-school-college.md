@@ -3,7 +3,7 @@ type: claim
 title: Low-income and first-generation students are less likely to complete high school and attend college
 description: Low-income and first-generation students are less likely to complete high school and attend college
 id: low-income-first-gen-less-likely-complete-high-school-college
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

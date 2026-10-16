@@ -80,7 +80,7 @@ Belonging is a measurable lever on achievement: brief interventions that normali
 
 ## Examples
 - **PBLWorks (Buck Institute) project-based learning** (https://www.pblworks.org) — gold-standard PBL units begin with a shared driving question that groups negotiate, anchoring diverse teams in common purpose before dividing roles.
-- **Jigsaw Classroom** (https://www.jigsaw.org) — Aronson's interdependent group design; each student's unique piece makes the group's shared goal unachievable alone.
+- **[Jigsaw Classroom](jigsaw-classroom.md)** (https://www.jigsaw.org) — Aronson's interdependent group design; each student's unique piece makes the group's shared goal unachievable alone.
 - **First-year seminar interest-mapped teams** — many learning-community programs (e.g., Evergreen State College's coordinated studies) survey entering students' interests and compose project teams around genuine overlaps, pairing the common-ground phase with individually assessed contributions.
 
 ## Key Sources

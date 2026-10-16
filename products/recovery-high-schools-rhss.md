@@ -4,7 +4,7 @@ id: recovery-high-schools-rhss
 title: Recovery high schools (RHSs)
 description: Recovery high schools are small secondary-school programmes that combine diploma-granting education with therapeutic recovery programming for students with substance-use recovery needs.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

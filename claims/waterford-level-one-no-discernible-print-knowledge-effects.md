@@ -3,7 +3,7 @@ type: claim
 title: "Waterford Early Reading Level One™ shows no discernible effects on preschool children's print knowledge"
 description: "Waterford Early Reading Level One™ shows no discernible effects on preschool children's print knowledge"
 id: waterford-level-one-no-discernible-print-knowledge-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

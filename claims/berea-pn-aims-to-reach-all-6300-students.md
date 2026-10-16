@@ -3,7 +3,7 @@ type: claim
 title: The initiative aims to reach all 6,300 students residing in the three served counties
 description: The initiative aims to reach all 6,300 students residing in the three served counties
 id: berea-pn-aims-to-reach-all-6300-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

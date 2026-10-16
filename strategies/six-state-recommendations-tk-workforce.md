@@ -3,7 +3,7 @@ type: strategy
 id: six-state-recommendations-tk-workforce
 title: Six state policy recommendations to stabilize, support, and expand the early childhood workforce and build diverse TK pathways
 description: "The report recommends six steps for state policymakers: (1) clearly map out and communicate career pathways into TK and other ECE programs; (2) develop high-quality pathways tailored to experienced early educators, wh..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

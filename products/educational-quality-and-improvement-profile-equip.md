@@ -4,7 +4,7 @@ id: educational-quality-and-improvement-profile-equip
 title: Educational Quality and Improvement Profile (EQuIP)
 description: A multi-indicator school reporting and accountability instrument proposed by Adams et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: The four supplemental reading comprehension curricula had no statistically significant impacts on students one year after the end of their implementation (Cohort 1 follow-up in sixth grade).
 description: The four supplemental reading comprehension curricula had no statistically significant impacts on students one year after the end of their implementation (Cohort 1 follow-up in sixth grade).
 id: reading-curricula-no-impacts-one-year-after-implementation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

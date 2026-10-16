@@ -3,7 +3,7 @@ type: strategy
 id: ai-literacy-emotion-regulation-metacognitive-support
 title: Integrate emotion-regulation and metacognitive support into AI literacy education, with differentiated learning assistance
 description: The article recommends that AI literacy education extend beyond technical proficiency to metacognitive and psychological competencies.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

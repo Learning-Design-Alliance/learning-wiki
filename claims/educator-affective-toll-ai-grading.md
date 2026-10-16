@@ -3,7 +3,7 @@ type: claim
 title: Educators report affective costs of AI-related grading, including derealisation, exhaustion, and burnout
 description: Educators report affective costs of AI-related grading, including derealisation, exhaustion, and burnout
 id: educator-affective-toll-ai-grading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

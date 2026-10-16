@@ -3,7 +3,7 @@ type: claim
 title: Inductive content analysis of 69 validated digital literacy frameworks yields eleven shared element categories spanning student and educator roles
 description: Inductive content analysis of 69 validated digital literacy frameworks yields eleven shared element categories spanning student and educator roles
 id: eleven-digital-literacy-element-categories-review
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

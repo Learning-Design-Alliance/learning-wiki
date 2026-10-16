@@ -3,7 +3,7 @@ type: claim
 title: "Ready, Set, Leap!® has no significant effect on preschool early reading/writing (effect size 0.09)"
 description: "Ready, Set, Leap!® has no significant effect on preschool early reading/writing (effect size 0.09)"
 id: ready-set-leap-null-early-reading-writing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

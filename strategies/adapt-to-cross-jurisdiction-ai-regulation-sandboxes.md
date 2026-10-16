@@ -3,7 +3,7 @@ type: strategy
 id: adapt-to-cross-jurisdiction-ai-regulation-sandboxes
 title: LA researchers and practitioners should adapt to changing regulations across jurisdictions, use regulatory sandboxes, and carefully consider data nature and privacy risks before cross-border data transfer
 description: "This strategy is the authors' forward-looking recommendation from their comparative policy analysis of AI regulation."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

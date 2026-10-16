@@ -3,7 +3,7 @@ type: element
 id: prototype-practice-framework-secondary-mathematics-differentiation
 title: Prototype practice framework for differentiated instruction in secondary mathematics
 description: The article presents a prototype practice framework developed within a broader study in regional Australia to assist secondary mathematics teachers in developing and implementing strategies for differentiated instruct...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

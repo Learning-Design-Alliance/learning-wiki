@@ -3,7 +3,7 @@ type: claim
 title: Being male, Black, or Hispanic and changing schools predict lower odds of moving on-track; the reading findings are qualitatively similar
 description: Being male, Black, or Hispanic and changing schools predict lower odds of moving on-track; the reading findings are qualitatively similar
 id: demographics-predict-moving-on-track
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

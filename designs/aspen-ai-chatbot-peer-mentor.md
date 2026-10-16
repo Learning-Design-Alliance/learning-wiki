@@ -3,7 +3,7 @@ type: design
 id: aspen-ai-chatbot-peer-mentor
 title: "Aspen: a prompt-engineered AI chatbot peer mentor for inquiry revision"
 description: Aspen is a custom AI chatbot built as a prompt-engineered pedagogical agent on a general-purpose GPT model, not a fine-tuned model, with behavior shaped through system-level instructions, response-format constraints,...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

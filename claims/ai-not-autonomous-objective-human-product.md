@@ -3,7 +3,7 @@ type: claim
 title: AI is not an inherently autonomous, intelligent, or objective entity but a product of human ingenuity dependent on exploitative labour and data extraction
 description: AI is not an inherently autonomous, intelligent, or objective entity but a product of human ingenuity dependent on exploitative labour and data extraction
 id: ai-not-autonomous-objective-human-product
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

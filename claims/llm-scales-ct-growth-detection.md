@@ -3,7 +3,7 @@ type: claim
 title: Applied to the full dataset of 936 students, the LLM reproduced the human-observed growth trends, detecting significant growth on Q25 and Q26 but none on Q27
 description: Applied to the full dataset of 936 students, the LLM reproduced the human-observed growth trends, detecting significant growth on Q25 and Q26 but none on Q27
 id: llm-scales-ct-growth-detection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

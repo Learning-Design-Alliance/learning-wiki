@@ -3,7 +3,7 @@ type: claim
 title: In a recent survey, 100 percent of polled Academy graduates said they would recommend participation to a colleague
 description: In a recent survey, 100 percent of polled Academy graduates said they would recommend participation to a colleague
 id: academy-graduates-recommend-survey
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -46,3 +46,4 @@ A survey of Academy graduates described in the practitioner article found 100 pe
 - [Academy graduates report feeling more empowered and staying on the job longer](academy-graduates-empowered-retention.md) — related
 - At the end of the pilots, three-quarters of Mathspace teachers and all Ratio Rancher teachers said they would recommend the tool to a colleague — related
 - [Teachers participating in the micro-credential collaborative reported positive receptivity, with 84 percent agreeing micro-credentials were significant to their computational thinking learning](micro-credential-teacher-receptivity-positive.md) — related
+- [Students recommended ChatGPT to peers and suggested improvements to accent recognition, visual aids, and response time](students-recommend-chatgpt-suggest-improvements.md) — related

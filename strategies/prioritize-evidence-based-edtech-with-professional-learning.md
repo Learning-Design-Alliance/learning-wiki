@@ -3,7 +3,7 @@ type: strategy
 id: prioritize-evidence-based-edtech-with-professional-learning
 title: Prioritize evidence-based technology programs and implement them with professional learning and integrated practice
 description: "The authors recommend that schools and districts adopting educational technology \"prioritize evidence-based practices\" and track the impact of adopted technologies."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

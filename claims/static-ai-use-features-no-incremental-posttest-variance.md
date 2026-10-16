@@ -3,7 +3,7 @@ type: claim
 title: Static whole-session summaries of AI use add no detectable post-test variance beyond pre-test performance
 description: Static whole-session summaries of AI use add no detectable post-test variance beyond pre-test performance
 id: static-ai-use-features-no-incremental-posttest-variance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

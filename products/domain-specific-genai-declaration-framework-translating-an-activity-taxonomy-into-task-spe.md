@@ -4,7 +4,7 @@ id: domain-specific-genai-declaration-framework-translating-an-activity-taxonomy
 title: Domain-specific GenAI declaration framework translating an activity taxonomy into task-specific disclosure instruments
 description: "A Computer Science higher-education framework developed by Nicholas Micallef for structuring students' disclosure, explanation, and reflection on GenAI use in writing and coding coursework."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

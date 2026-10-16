@@ -4,7 +4,7 @@ id: generative-ai-literacy-assessment-test-glat
 title: Generative AI Literacy Assessment Test (GLAT)
 description: A 20-item multiple-choice performance assessment developed by Jin et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

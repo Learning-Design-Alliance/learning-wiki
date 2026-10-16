@@ -3,7 +3,7 @@ type: claim
 title: AI severs the correlation between artefact quality and cognitive engagement, breaking the artefact-as-proxy for learning
 description: AI severs the correlation between artefact quality and cognitive engagement, breaking the artefact-as-proxy for learning
 id: ai-breaks-artefact-as-proxy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

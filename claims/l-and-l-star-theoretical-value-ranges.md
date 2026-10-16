@@ -3,7 +3,7 @@ type: claim
 title: "Theoretical ranges differ sharply: L with self-transitions removed is bounded below by −1 (individual base rates) or −2 (averaged), while L* is bounded by −k+1 (individual) or has no finite lower bound (averaged)"
 description: "Theoretical ranges differ sharply: L with self-transitions removed is bounded below by −1 (individual base rates) or −2 (averaged), while L* is bounded by −k+1 (individual) or has no finite lower bound (averaged)"
 id: l-and-l-star-theoretical-value-ranges
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

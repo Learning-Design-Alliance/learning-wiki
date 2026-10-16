@@ -3,7 +3,7 @@ type: claim
 title: An evaluation study compares teachers trained through different routes to certification
 description: An evaluation study compares teachers trained through different routes to certification
 id: evaluation-teachers-different-certification-routes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

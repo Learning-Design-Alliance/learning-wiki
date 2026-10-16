@@ -3,7 +3,7 @@ type: strategy
 id: repeated-loa-with-real-time-aggregate-reporting
 title: Deploy the LoA repeatedly over time with real-time aggregate reporting within a community that owns the data and process
 description: The article recommends that a professional community access the LoA on an ongoing basis at critical decision points, using online real-time aggregate reporting to document and inform collaborative professional develop...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

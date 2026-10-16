@@ -3,7 +3,7 @@ type: claim
 title: Scovel argued anxiety is not a simple, unitary construct quantifiable into high or low amounts
 description: Scovel argued anxiety is not a simple, unitary construct quantifiable into high or low amounts
 id: scovel-anxiety-not-unitary-construct
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

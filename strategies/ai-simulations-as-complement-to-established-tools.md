@@ -3,7 +3,7 @@ type: strategy
 id: ai-simulations-as-complement-to-established-tools
 title: Use AI-generated simulations where ready-made tools are unavailable, for edge cases, or as comparative learning tools
 description: "The article recommends deploying custom LLM-generated simulations alongside, not instead of, established tools: the approach \"may be beneficial in cases where ready-made simulations are unavailable, when exploring edg..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

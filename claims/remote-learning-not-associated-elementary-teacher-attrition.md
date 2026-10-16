@@ -3,7 +3,7 @@ type: claim
 title: Remote learning was not associated with increased attrition among Pennsylvania elementary school teachers
 description: Remote learning was not associated with increased attrition among Pennsylvania elementary school teachers
 id: remote-learning-not-associated-elementary-teacher-attrition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

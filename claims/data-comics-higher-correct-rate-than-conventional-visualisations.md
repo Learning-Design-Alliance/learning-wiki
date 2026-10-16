@@ -3,7 +3,7 @@ type: claim
 title: University students achieved a significantly higher correct rate answering data questions with data comics than with conventional visualisations
 description: University students achieved a significantly higher correct rate answering data questions with data comics than with conventional visualisations
 id: data-comics-higher-correct-rate-than-conventional-visualisations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

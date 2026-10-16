@@ -3,7 +3,7 @@ type: claim
 title: "Educators' efforts to support SEL are hampered by a lack of available, unbiased measures of related competencies"
 description: "Educators' efforts to support SEL are hampered by a lack of available, unbiased measures of related competencies"
 id: sel-measurement-lack-unbiased-measures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Behavioral-only metrics from an instrumented online textbook support early prediction of final course grades in flipped statistics courses
 description: Behavioral-only metrics from an instrumented online textbook support early prediction of final course grades in flipped statistics courses
 id: behavioral-only-early-prediction-flipped-statistics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

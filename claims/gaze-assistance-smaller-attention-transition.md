@@ -3,7 +3,7 @@ type: claim
 title: Gaze-based assistance supported a smoother attention transition between narrated regions, while baseline assistance elicited more abrupt reorientation
 description: Gaze-based assistance supported a smoother attention transition between narrated regions, while baseline assistance elicited more abrupt reorientation
 id: gaze-assistance-smaller-attention-transition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: breath-strategies-across-dance-class-phases
 title: Thread conscious breathing strategies through warm-up, center work, and class conclusion
 description: "The article recommends embedding breath attention at multiple points in the technique class: in warm-up \"for the purpose of gaining focus, bodily awareness, and energy activation\"; in center-floor and across-the-floor..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -50,4 +50,4 @@ The article recommends embedding breath attention at multiple points in the tech
 -
 
 ## Key Sources
-- Enghauser, R. (2007). Developing Listening Bodies in the Dance Technique Class. JOPERD, 78(6). https://eric.ed.gov/?id=EJ795590
+- Enghauser, R. (2007). Developing Listening Bodies in the Dance Technique Class. JOPERD, 78(6). https://eric.ed.gov/?id=EJ795590. [doi:10.1080/07303084.2007.10598039](https://doi.org/10.1080/07303084.2007.10598039)

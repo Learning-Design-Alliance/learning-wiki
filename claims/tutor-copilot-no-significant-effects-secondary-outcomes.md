@@ -3,7 +3,7 @@ type: claim
 title: Tutor CoPilot shows no statistically significant effects on participation points, student survey outcomes, or end-of-year math test scores
 description: Tutor CoPilot shows no statistically significant effects on participation points, student survey outcomes, or end-of-year math test scores
 id: tutor-copilot-no-significant-effects-secondary-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

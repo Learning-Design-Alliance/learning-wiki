@@ -3,7 +3,7 @@ type: claim
 title: Cognitive ability and curiosity are positively correlated in young adults
 description: Cognitive ability and curiosity are positively correlated in young adults
 id: cognitive-ability-curiosity-positive-correlation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

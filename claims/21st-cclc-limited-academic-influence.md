@@ -3,7 +3,7 @@ type: claim
 title: 21st Century after-school programs had only limited influence on academic performance, including test scores, grades, and homework completion
 description: 21st Century after-school programs had only limited influence on academic performance, including test scores, grades, and homework completion
 id: 21st-cclc-limited-academic-influence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

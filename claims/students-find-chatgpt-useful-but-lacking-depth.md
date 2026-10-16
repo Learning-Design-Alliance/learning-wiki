@@ -3,7 +3,7 @@ type: claim
 title: Students found ChatGPT responses useful but insufficient in depth and detail compared with TA responses
 description: Students found ChatGPT responses useful but insufficient in depth and detail compared with TA responses
 id: students-find-chatgpt-useful-but-lacking-depth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -50,3 +50,4 @@ Qualitative student comment (S1) on how students generally evaluated ChatGPT's a
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — a broader claim this one bears on
 - [First-year EAP students prefer a hybrid feedback model combining AI-generated comments with instructor feedback over either source alone](students-prefer-hybrid-ai-instructor-feedback.md) — related
 - [Distance students prefer an institution-embedded assistant offering 24/7 immediate, context-specific feedback over generic content such as ChatGPT](aida-preferred-24-7-context-specific-feedback.md) — related
+- [Students see obtaining explanations for their doubts as ChatGPT's most useful role in learning computer science](students-rate-explanations-as-chatgpt-most-useful-learning-role.md) — related

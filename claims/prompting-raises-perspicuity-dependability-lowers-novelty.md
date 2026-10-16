@@ -3,7 +3,7 @@ type: claim
 title: Structured prompting raises perceived interaction clarity and dependability but reduces perceived novelty of AI-supported learning
 description: Structured prompting raises perceived interaction clarity and dependability but reduces perceived novelty of AI-supported learning
 id: prompting-raises-perspicuity-dependability-lowers-novelty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -68,3 +68,4 @@ UEQ hedonic dimensions in the same experiment. The article reports Novelty "decl
 - [Theory-guided five-step prompting of AI interaction improves open-ended explanation performance in construction education review, while unprompted AI access alone does not](structured-prompting-improves-open-ended-ai-learning.md) — related
 - [UEQ-S user-experience ratings were positive across tasks except one hedonic item on Task 1, with pragmatic qualities rated higher than hedonic](nev-ueq-positive-except-task1-hedonic.md) — related
 - [Providing elaborate explanations and summary interactives instead of just scores increases students' perceptions of engagement and understanding and reduces mind wandering](elaborate-feedback-raises-engagement-perceptions.md) — related
+- [GAI-assisted DST creation produced significantly better team creativity performance than traditional methods, particularly in novelty and user experience](gai-assisted-dst-improves-team-creativity.md) — related

@@ -3,7 +3,7 @@ type: claim
 title: Trusting teacher-evaluator relationships lessened evaluation anxiety and encouraged teachers to welcome and use REACH feedback
 description: Trusting teacher-evaluator relationships lessened evaluation anxiety and encouraged teachers to welcome and use REACH feedback
 id: trusting-teacher-evaluator-relationships-reduce-anxiety
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

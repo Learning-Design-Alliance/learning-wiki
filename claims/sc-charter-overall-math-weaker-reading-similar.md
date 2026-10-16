@@ -3,7 +3,7 @@ type: claim
 title: South Carolina charter students show similar reading growth but weaker math growth than traditional public school peers, with a math disadvantage of 53 fewer days of learning per year
 description: South Carolina charter students show similar reading growth but weaker math growth than traditional public school peers, with a math disadvantage of 53 fewer days of learning per year
 id: sc-charter-overall-math-weaker-reading-similar
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

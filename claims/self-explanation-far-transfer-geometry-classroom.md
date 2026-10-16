@@ -3,7 +3,7 @@ type: claim
 title: Self-explanation effects hold on far-transfer but not near-transfer questions in a geometry classroom study
 description: Self-explanation effects hold on far-transfer but not near-transfer questions in a geometry classroom study
 id: self-explanation-far-transfer-geometry-classroom
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

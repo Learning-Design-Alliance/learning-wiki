@@ -3,7 +3,7 @@ type: claim
 title: Bayesian network modeling ITS showed a higher weighted mean effect size than model tracing and constraint-based modeling, but only under a fixed-effect model
 description: Bayesian network modeling ITS showed a higher weighted mean effect size than model tracing and constraint-based modeling, but only under a fixed-effect model
 id: its-type-bayesian-higher-than-model-tracing-fixed-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

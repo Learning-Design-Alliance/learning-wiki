@@ -3,7 +3,7 @@ type: claim
 title: Edpuzzle Original math videos raise Renaissance Star Math scores and fall-to-spring growth (effect size +0.11)
 description: Edpuzzle Original math videos raise Renaissance Star Math scores and fall-to-spring growth (effect size +0.11)
 id: edpuzzle-star-math-effect-011
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

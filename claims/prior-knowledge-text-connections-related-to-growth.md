@@ -3,7 +3,7 @@ type: claim
 title: Helping students make connections between prior knowledge and the texts they read is among the practices most consistently related to student growth
 description: Helping students make connections between prior knowledge and the texts they read is among the practices most consistently related to student growth
 id: prior-knowledge-text-connections-related-to-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

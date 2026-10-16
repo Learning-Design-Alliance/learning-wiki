@@ -4,7 +4,7 @@ title: Mindfulness and stress management skills may produce positive effects on 
 description: Mindfulness and stress management skills may produce positive effects on educator sleep, self-regulation, self-compassion, and job satisfaction
 id: mindfulness-positive-effects-educator-wellbeing
 aliases: [mindfulness-training-teacher-wellbeing-gains]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

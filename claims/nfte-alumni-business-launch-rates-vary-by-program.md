@@ -3,7 +3,7 @@ type: claim
 title: One-quarter of NFTE alumni respondents launched a business, with launch rates varying by program (over 42 percent for BizCamp and Startup Summer versus 16 percent for a single course)
 description: One-quarter of NFTE alumni respondents launched a business, with launch rates varying by program (over 42 percent for BizCamp and Startup Summer versus 16 percent for a single course)
 id: nfte-alumni-business-launch-rates-vary-by-program
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

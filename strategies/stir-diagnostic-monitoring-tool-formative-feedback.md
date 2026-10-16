@@ -3,7 +3,7 @@ type: strategy
 id: stir-diagnostic-monitoring-tool-formative-feedback
 title: Use a diagnostic and implementation monitoring tool to give educators formative feedback on their instructional practices
 description: "Among its partnership activities the STIR intervention includes educators and school leaders learning to \"Use a diagnostic and implementation monitoring tool to provide formative feedback on educators' use of effectiv..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

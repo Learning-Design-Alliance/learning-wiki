@@ -3,7 +3,7 @@ type: claim
 title: "Secondary outcomes differed in predictability: near-term related-task performance was hardest while 7–28-day performance showed a longitudinal signal"
 description: "Secondary outcomes differed in predictability: near-term related-task performance was hardest while 7–28-day performance showed a longitudinal signal"
 id: secondary-outcomes-varied-predictability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Initial prompting method did not explain immediate success on the third problem (P3)
 description: Initial prompting method did not explain immediate success on the third problem (P3)
 id: p3-modality-no-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

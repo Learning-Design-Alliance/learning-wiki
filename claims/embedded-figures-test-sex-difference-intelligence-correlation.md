@@ -3,7 +3,7 @@ type: claim
 title: Embedded figures test performance differed by sex and correlated relatively highly with intelligence
 description: Embedded figures test performance differed by sex and correlated relatively highly with intelligence
 id: embedded-figures-test-sex-difference-intelligence-correlation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: strategy
 id: field-studies-realistic-genai-development-conditions
 title: Conduct field studies of GenAI-assisted coding under realistic development conditions, explicitly accounting for team structure, project complexity, and organizational processes.
 description: The article recommends that future productivity research place more emphasis on field studies conducted under realistic development conditions, in contrast to controlled laboratory settings.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -46,4 +46,4 @@ The article recommends that future productivity research place more emphasis on 
 -
 
 ## Key Sources
-- Maier, S., Gunzenhäuser, M., Schweisthal, J., Schneider, M., & Feuerriegel, S. (2026). A meta-analysis of the effect of generative AI on productivity and learning in programming. arXiv preprint. https://arxiv.org/abs/2605.04779
+- Maier, S., Gunzenhäuser, M., Schweisthal, J., Schneider, M., & Feuerriegel, S. (2026). A meta-analysis of the effect of generative AI on productivity and learning in programming. arXiv preprint. https://arxiv.org/abs/2605.04779. [doi:10.48550/arxiv.2605.04779](https://doi.org/10.48550/arxiv.2605.04779)

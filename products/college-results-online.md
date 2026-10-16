@@ -4,7 +4,7 @@ id: college-results-online
 title: College Results Online
 description: An Education Trust interactive web tool for examining and comparing four-year college graduation rates, including trends and outcomes for diverse student groups.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

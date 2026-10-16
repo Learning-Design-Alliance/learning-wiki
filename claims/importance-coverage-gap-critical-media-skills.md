@@ -3,7 +3,7 @@ type: claim
 title: Students overwhelmingly value critical media analysis skills but report these skills were rarely addressed in their coursework
 description: Students overwhelmingly value critical media analysis skills but report these skills were rarely addressed in their coursework
 id: importance-coverage-gap-critical-media-skills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

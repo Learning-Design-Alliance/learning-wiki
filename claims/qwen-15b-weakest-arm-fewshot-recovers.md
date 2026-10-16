@@ -3,7 +3,7 @@ type: claim
 title: The small open-weights Qwen2.5-1.5B model is the weakest arm in both languages, with Spanish thematic weighted F1 of 0.31 zero-shot rising to 0.63 with few-shot
 description: The small open-weights Qwen2.5-1.5B model is the weakest arm in both languages, with Spanish thematic weighted F1 of 0.31 zero-shot rising to 0.63 with few-shot
 id: qwen-15b-weakest-arm-fewshot-recovers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

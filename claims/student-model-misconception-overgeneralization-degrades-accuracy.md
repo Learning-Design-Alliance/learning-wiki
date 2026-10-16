@@ -3,7 +3,7 @@ type: claim
 title: Instruction-tuning a student model on a single misconception overgeneralizes the error across problems and degrades correct-solving accuracy
 description: Instruction-tuning a student model on a single misconception overgeneralizes the error across problems and degrades correct-solving accuracy
 id: student-model-misconception-overgeneralization-degrades-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

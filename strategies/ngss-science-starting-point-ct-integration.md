@@ -3,7 +3,7 @@ type: strategy
 id: ngss-science-starting-point-ct-integration
 title: Use NGSS-aligned K-8 science coursework as the starting point for district CT integration
 description: ICCSD leveraged its recently NGSS-aligned K-8 science courses, which entail computational models of natural phenomena, as the entry point for integrating CT across the district.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

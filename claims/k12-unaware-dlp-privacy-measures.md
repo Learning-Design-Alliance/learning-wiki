@@ -3,7 +3,7 @@ type: claim
 title: Educators rate student data privacy as very or extremely important, but K-12 educators largely remain unaware of the privacy measures DLP research takes
 description: Educators rate student data privacy as very or extremely important, but K-12 educators largely remain unaware of the privacy measures DLP research takes
 id: k12-unaware-dlp-privacy-measures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

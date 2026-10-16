@@ -3,7 +3,7 @@ type: claim
 title: Principals were far more likely than trained external observers to rate the same instruction Distinguished rather than Proficient
 description: Principals were far more likely than trained external observers to rate the same instruction Distinguished rather than Proficient
 id: principals-inflate-distinguished-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

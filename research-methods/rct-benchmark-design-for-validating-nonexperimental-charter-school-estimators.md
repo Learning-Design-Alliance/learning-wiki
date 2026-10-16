@@ -3,7 +3,7 @@ type: research-method
 id: rct-benchmark-design-for-validating-nonexperimental-charter-school-estimators
 title: RCT-benchmark design for validating nonexperimental charter-school estimators
 description: "The study's design uses student-level data drawn from a large-scale randomized controlled trial of charter schools as a benchmark against which nonexperimental regression and propensity score estimators are tested for bias."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

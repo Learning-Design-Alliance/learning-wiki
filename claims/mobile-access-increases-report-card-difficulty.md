@@ -3,7 +3,7 @@ type: claim
 title: Participants who accessed the report card site with mobile devices had more difficulty using it
 description: Participants who accessed the report card site with mobile devices had more difficulty using it
 id: mobile-access-increases-report-card-difficulty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Attitudes and demographics predicted empathy in the prostitute-label group but not the trafficking-label group
 description: Attitudes and demographics predicted empathy in the prostitute-label group but not the trafficking-label group
 id: label-condition-moderates-empathy-predictors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

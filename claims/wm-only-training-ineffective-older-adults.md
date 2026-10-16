@@ -3,7 +3,7 @@ type: claim
 title: Working-memory-only training shows no positive evidence of efficacy in healthy older adults
 description: Working-memory-only training shows no positive evidence of efficacy in healthy older adults
 id: wm-only-training-ineffective-older-adults
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

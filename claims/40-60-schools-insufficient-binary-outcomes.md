@@ -3,7 +3,7 @@ type: claim
 title: Typical clustered RCTs with 40 to 60 schools are often insufficient for binary outcomes
 description: Typical clustered RCTs with 40 to 60 schools are often insufficient for binary outcomes
 id: 40-60-schools-insufficient-binary-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

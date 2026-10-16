@@ -3,7 +3,7 @@ type: strategy
 id: combine-log-effort-with-process-and-selfreport-data
 title: Combine log-derived behavioral engagement measures with process data and self-report to assess learner engagement in AI-supported practice
 description: "The article's future-directions section recommends extending its observed practice effort approach: \"Future work could combine such measures with process data (e.g., timing, revision behavior) or self-report measures..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

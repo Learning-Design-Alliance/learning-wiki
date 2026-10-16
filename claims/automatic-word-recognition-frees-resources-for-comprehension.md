@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Automatic word recognition frees resources for comprehension
-status: draft
+status: review
 generated:
   by: "claude/unspecified"
   at: 2026-08-30

@@ -3,7 +3,7 @@ type: claim
 title: Surveyed charter schools transitioned to remote education delivery in less than a week after physical closure in March 2020, averaging 3.5 days
 description: Surveyed charter schools transitioned to remote education delivery in less than a week after physical closure in March 2020, averaging 3.5 days
 id: charter-schools-remote-transition-35-days
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

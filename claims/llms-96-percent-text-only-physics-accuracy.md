@@ -3,7 +3,7 @@ type: claim
 title: "Three publicly available LLMs achieve 96% average accuracy on text-only physics problems with no significant differences among models"
 description: "Three publicly available LLMs achieve 96% average accuracy on text-only physics problems with no significant differences among models"
 id: llms-96-percent-text-only-physics-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

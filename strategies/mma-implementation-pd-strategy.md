@@ -3,7 +3,7 @@ type: strategy
 id: mma-implementation-pd-strategy
 title: District implementation and professional development support for My Math Academy
 description: Age of Learning offers a structured implementation plan (discovery meeting, comprehensive plan, integration and launch meetings, regular communication cadence, and impact reports) plus professional development includi...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

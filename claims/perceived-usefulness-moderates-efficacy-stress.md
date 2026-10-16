@@ -3,7 +3,7 @@ type: claim
 title: Perceived usefulness negatively moderates the relationship between academic self-efficacy and academic stress
 description: Perceived usefulness negatively moderates the relationship between academic self-efficacy and academic stress
 id: perceived-usefulness-moderates-efficacy-stress
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

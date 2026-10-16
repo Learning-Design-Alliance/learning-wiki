@@ -3,7 +3,7 @@ type: claim
 title: Fort Worth CMO-affiliated charter schools significantly outperformed independent charter schools in reading growth, while independent charters lagged the state
 description: Fort Worth CMO-affiliated charter schools significantly outperformed independent charter schools in reading growth, while independent charters lagged the state
 id: fort-worth-cmo-outperforms-independent-charters
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "New Mexico CTE enrollment shows breadth over depth and demographic underrepresentation, with females only 19% of STEM CTE enrollment versus 49% of the total population"
 description: "New Mexico CTE enrollment shows breadth over depth and demographic underrepresentation, with females only 19% of STEM CTE enrollment versus 49% of the total population"
 id: new-mexico-cte-enrollment-breadth-and-equity-gaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

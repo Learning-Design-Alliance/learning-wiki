@@ -3,7 +3,7 @@ type: claim
 title: DLP-coached teachers reported greater increases in frequency of technology use than non-DLP teachers
 description: DLP-coached teachers reported greater increases in frequency of technology use than non-DLP teachers
 id: dlp-coaching-increases-teacher-technology-use-frequency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Higher average LLM use across all tasks is significantly negatively correlated with final grades in undergraduate programming education
 description: Higher average LLM use across all tasks is significantly negatively correlated with final grades in undergraduate programming education
 id: average-llm-use-negative-correlation-final-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

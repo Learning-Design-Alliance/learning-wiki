@@ -3,7 +3,7 @@ type: claim
 title: Charter high school students were more likely to transfer to another CPS high school than comparable non-charter students, and transfer rates were highest in low-performing or newly established charter schools
 description: Charter high school students were more likely to transfer to another CPS high school than comparable non-charter students, and transfer rates were highest in low-performing or newly established charter schools
 id: cps-charter-higher-transfer-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

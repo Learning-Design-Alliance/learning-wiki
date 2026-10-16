@@ -3,7 +3,7 @@ type: claim
 title: School leaders contribute recruitment, participation in select PLC sessions, and classroom observation visits
 description: School leaders contribute recruitment, participation in select PLC sessions, and classroom observation visits
 id: algebra-toolkit-school-leader-time-requirements
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

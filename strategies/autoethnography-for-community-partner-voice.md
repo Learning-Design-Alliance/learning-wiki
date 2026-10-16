@@ -3,7 +3,7 @@ type: strategy
 id: autoethnography-for-community-partner-voice
 title: Use autoethnography so community partners can articulate their lived experiences in their own voices within CSL
 description: The article proposes autoethnography as a method for centering community partner voice in CSL research.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -39,7 +39,7 @@ The article proposes autoethnography as a method for centering community partner
 - equitable participation in collaborative research
 
 ### Affordances
-- [Mitchell Csl Three Component Framework](../theories/mitchell-csl-three-component-framework.md)
+- [Mitchell Csl Three Component Framework](../theories/critical-service-learning-three-component-model.md)
 
 ## Related Strategies
 - 

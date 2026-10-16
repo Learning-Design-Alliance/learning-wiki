@@ -3,7 +3,7 @@ type: claim
 title: "Higher item noise, shared items among conceptually nested energy LOs, and smallest sample size explain the EMCS energy LOs' low classification accuracy"
 description: "Higher item noise, shared items among conceptually nested energy LOs, and smallest sample size explain the EMCS energy LOs' low classification accuracy"
 id: energy-lo-low-accuracy-sources
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

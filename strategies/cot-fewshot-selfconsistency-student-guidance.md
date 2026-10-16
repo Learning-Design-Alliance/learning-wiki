@@ -3,7 +3,7 @@ type: strategy
 id: cot-fewshot-selfconsistency-student-guidance
 title: Guide student instruction with chain-of-thought decomposition, few-shot worked examples, and self-consistency over multiple LLM queries
 description: To help students instruct the LLM effectively, the methodology applies three established prompting principles.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

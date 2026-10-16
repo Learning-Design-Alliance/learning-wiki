@@ -62,7 +62,7 @@ Modeling draws on social learning theory: learners acquire behaviors and standar
 - [Action-Oriented Feedback](../strategies/action-oriented-feedback.md) — complements modeling by correcting learners' own attempts after observation
 
 ## Examples
-- **Reciprocal Teaching (Palincsar & Brown)** — the teacher models predicting, questioning, clarifying, and summarizing while reading, then transfers each role to student groups; a canonical faded-modeling design.
+- **[Reciprocal Teaching](reciprocal_teaching.md) (Palincsar & Brown)** — the teacher models predicting, questioning, clarifying, and summarizing while reading, then transfers each role to student groups; a canonical faded-modeling design.
 - **[Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md)** — positions modeling as the first phase, followed by coaching and articulation.
 - **Writing conferences and mentor texts** — instructors model revising a paragraph live, verbalizing evaluation of word choice and structure, before students revise their own drafts.
 - **Discussion norm modeling** — before a seminar, the instructor and a colleague (or the instructor role-playing both sides) model evidence-based disagreement, then students rehearse the moves in [Case-Based Learning](../elements/case-based-learning.md).

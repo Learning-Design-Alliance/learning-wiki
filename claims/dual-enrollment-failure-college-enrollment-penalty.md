@@ -3,7 +3,7 @@ type: claim
 title: Not passing a dual enrollment course is associated with an 11-12 percentage point reduction in college enrollment probability compared to passing, with a similar penalty across student groups
 description: Not passing a dual enrollment course is associated with an 11-12 percentage point reduction in college enrollment probability compared to passing, with a similar penalty across student groups
 id: dual-enrollment-failure-college-enrollment-penalty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

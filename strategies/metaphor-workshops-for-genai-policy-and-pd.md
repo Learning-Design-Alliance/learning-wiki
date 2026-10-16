@@ -3,7 +3,7 @@ type: strategy
 id: metaphor-workshops-for-genai-policy-and-pd
 title: Use metaphor workshops to surface stakeholder assumptions about GenAI in assessment redesign, policy development and professional development
 description: The article recommends a structured, social workshop format in which participants generate, display and critique metaphors for GenAI using sticky notes, a metaphor gallery, and ticks, crosses and question marks for ag...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

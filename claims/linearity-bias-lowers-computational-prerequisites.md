@@ -3,7 +3,7 @@ type: claim
 title: The linearity bias heuristic enables robust alignment with low-dimensional embeddings on standard CPUs, lowering computational prerequisites
 description: The linearity bias heuristic enables robust alignment with low-dimensional embeddings on standard CPUs, lowering computational prerequisites
 id: linearity-bias-lowers-computational-prerequisites
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

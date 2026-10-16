@@ -3,7 +3,7 @@ type: claim
 title: For assessments taken less than 24 months since exposure, the evidence on deployment effects on mental health is inconclusive
 description: For assessments taken less than 24 months since exposure, the evidence on deployment effects on mental health is inconclusive
 id: deployment-short-term-evidence-inconclusive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Only one of 10 identified studies of InsideTrack© Coaching met WWC group design standards without reservations
 description: Only one of 10 identified studies of InsideTrack© Coaching met WWC group design standards without reservations
 id: insidetrack-evidence-base-one-study-meets-wwc-standards
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

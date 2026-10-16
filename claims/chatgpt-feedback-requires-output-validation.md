@@ -3,7 +3,7 @@ type: claim
 title: ChatGPT feedback required doctoral students to validate the procedural accuracy of algorithm-generated outputs, with judgement shaped by prompt quality
 description: ChatGPT feedback required doctoral students to validate the procedural accuracy of algorithm-generated outputs, with judgement shaped by prompt quality
 id: chatgpt-feedback-requires-output-validation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

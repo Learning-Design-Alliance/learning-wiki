@@ -3,7 +3,7 @@ type: claim
 title: Retrieval practice benefits have been observed in children, healthy older adults, and memory-impaired patient groups, not only college students
 description: Retrieval practice benefits have been observed in children, healthy older adults, and memory-impaired patient groups, not only college students
 id: retrieval-practice-benefits-generalize-to-children-older-adults-and-memory-impaired-patients
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

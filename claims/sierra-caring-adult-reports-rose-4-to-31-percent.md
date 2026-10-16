@@ -3,7 +3,7 @@ type: claim
 title: "Sierra Middle School students reporting a caring adult who regularly checks on them rose from 4% to 31% over three years"
 description: "Sierra Middle School students reporting a caring adult who regularly checks on them rose from 4% to 31% over three years"
 id: sierra-caring-adult-reports-rose-4-to-31-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "DCMP's effect on overall college credits earned was not statistically significant in the RCT"
 description: "DCMP's effect on overall college credits earned was not statistically significant in the RCT"
 id: dcmp-college-credits-null-rutschow
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: "The evidence base for EIR® is small: only one of seven reviewed studies met WWC evidence standards"
 description: "The evidence base for EIR® is small: only one of seven reviewed studies met WWC evidence standards"
 id: eir-small-evidence-base-one-rct
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

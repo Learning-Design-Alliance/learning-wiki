@@ -3,7 +3,7 @@ type: claim
 title: Preferences for visualizing predictions with metaphors were a matter of personal choice, with students wanting to choose their own metaphor
 description: Preferences for visualizing predictions with metaphors were a matter of personal choice, with students wanting to choose their own metaphor
 id: metaphor-preference-personal-choice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

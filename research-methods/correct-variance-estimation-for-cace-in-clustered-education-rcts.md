@@ -3,7 +3,7 @@ type: research-method
 id: correct-variance-estimation-for-cace-in-clustered-education-rcts
 title: Correct variance estimation for CACE in clustered education RCTs
 description: "The report's methodological contribution is to work out the correct variance formulas for the CACE estimator under clustered designs and to compare them with \"those that are typically used in practice\"."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

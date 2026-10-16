@@ -3,7 +3,7 @@ type: claim
 title: Most AI implementations in undergraduate higher education sit at the SAMR Substitution or Augmentation levels, with fewer Modification cases and one Redefinition
 description: Most AI implementations in undergraduate higher education sit at the SAMR Substitution or Augmentation levels, with fewer Modification cases and one Redefinition
 id: ai-integration-mostly-substitution-augmentation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -48,3 +48,4 @@ Systematic review of 22 studies of AI in undergraduate higher education, coded w
 - [Most ITS applications augment existing mathematics teaching practices rather than transform instruction, indicating technological sophistication does not independently determine pedagogical value](its-applications-augment-not-transform.md) — possibly the same claim (merge candidate)
 - Most GenAI educational applications operate at SAMR's lowest level, substitution, replicating rather than transforming practice — related
 - [Pedagogically scaffolded generative AI in design thinking education augments rather than replaces human judgment](genai-scaffolded-augments-human-judgment-design-thinking.md) — related
+- [AI is not yet ready to replace teachers but presents a real possibility to augment them](ai-augments-not-replaces-teachers.md) — related

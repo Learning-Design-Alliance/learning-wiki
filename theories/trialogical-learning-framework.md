@@ -2,7 +2,7 @@
 type: theory
 title: "Trialogical learning: a distinct form of learning through collaborative work on shared knowledge artefacts"
 description: The Trialogical Approach holds that learning occurs not only through monological activities such as reading or lectures, nor only through dialogical activities such as discussion, but also through trialogical activiti...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

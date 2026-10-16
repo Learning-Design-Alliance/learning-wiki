@@ -3,7 +3,7 @@ type: claim
 title: The mediational strategy is reported as more effective than other intervention approaches such as the graduated prompt
 description: The mediational strategy is reported as more effective than other intervention approaches such as the graduated prompt
 id: mediational-strategy-more-effective-than-graduated-prompt
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

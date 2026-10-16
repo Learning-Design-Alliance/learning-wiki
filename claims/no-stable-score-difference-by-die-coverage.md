@@ -3,7 +3,7 @@ type: claim
 title: Assignment scores do not distinguish conversations in which all three observable dimensions appear from those in which at least one is not observed
 description: Assignment scores do not distinguish conversations in which all three observable dimensions appear from those in which at least one is not observed
 id: no-stable-score-difference-by-die-coverage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

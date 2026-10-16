@@ -3,7 +3,7 @@ type: claim
 title: Academics hold both positive and negative views of Web 2.0 tools for self-actualisation, with creativity skills the most frequent positive and time loss the most frequent negative
 description: Academics hold both positive and negative views of Web 2.0 tools for self-actualisation, with creativity skills the most frequent positive and time loss the most frequent negative
 id: web20-self-actualisation-views-mixed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

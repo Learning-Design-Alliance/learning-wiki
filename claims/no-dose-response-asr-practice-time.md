@@ -3,7 +3,7 @@ type: claim
 title: Amount of ASR practice (days per week, session length) showed no observable difference in pronunciation improvement
 description: Amount of ASR practice (days per week, session length) showed no observable difference in pronunciation improvement
 id: no-dose-response-asr-practice-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

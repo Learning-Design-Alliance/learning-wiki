@@ -3,7 +3,7 @@ type: claim
 title: CCM-estimated skill profiles showed minor positive correlations with external pre- and post-test scores, ranging from .018 to .495
 description: CCM-estimated skill profiles showed minor positive correlations with external pre- and post-test scores, ranging from .018 to .495
 id: ccm-external-validation-correlations-pre-post-tests
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

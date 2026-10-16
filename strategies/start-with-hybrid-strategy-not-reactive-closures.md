@@ -3,7 +3,7 @@ type: strategy
 id: start-with-hybrid-strategy-not-reactive-closures
 title: Use a hybrid operating strategy with masks from the start rather than relying on reactive temporary closures
 description: "A decision strategy for school leaders reopening during a pandemic: adopt hybrid operation with smaller masked groups attending part-time from the beginning, rather than opening fully in person and closing temporarily..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

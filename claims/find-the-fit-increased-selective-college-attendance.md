@@ -3,7 +3,7 @@ type: claim
 title: Find the Fit led about 3 percentage points more students to attend colleges that were at least very competitive immediately after high school
 description: Find the Fit led about 3 percentage points more students to attend colleges that were at least very competitive immediately after high school
 id: find-the-fit-increased-selective-college-attendance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

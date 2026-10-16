@@ -3,7 +3,7 @@ type: claim
 title: HDR scores correlate only weakly with reading comprehension (α = 0.36 and 0.41), indicating the task measures practical application ability rather than reading skill
 description: HDR scores correlate only weakly with reading comprehension (α = 0.36 and 0.41), indicating the task measures practical application ability rather than reading skill
 id: hdr-measures-application-not-reading-comprehension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

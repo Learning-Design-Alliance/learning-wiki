@@ -3,7 +3,7 @@ type: strategy
 id: capit-onboarding-data-coaching-strategy
 title: Support implementation with asynchronous onboarding plus ongoing data coaching and scripted lessons
 description: "The program pairs digital lessons with teacher-facing supports: \"a 3-hour asynchronous teacher onboarding and professional development session at no cost, monthly data coaching, bi-weekly health reports, a dedicated c..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

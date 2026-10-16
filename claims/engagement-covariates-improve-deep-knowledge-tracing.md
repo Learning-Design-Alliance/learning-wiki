@@ -3,7 +3,7 @@ type: claim
 title: The survey reports, citing Mongkhonvanit et al., that DKT achieved better performance when binarized MOOC video-engagement covariates were incorporated.
 description: The survey reports, citing Mongkhonvanit et al., that DKT achieved better performance when binarized MOOC video-engagement covariates were incorporated.
 id: engagement-covariates-improve-deep-knowledge-tracing
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

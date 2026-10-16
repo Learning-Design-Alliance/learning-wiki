@@ -3,7 +3,7 @@ type: claim
 title: Both stepwise constructive-conflict guidance and the antagonistic agent led novice designers to reconsider what makes a design effective more than unsupported self-reflection
 description: Both stepwise constructive-conflict guidance and the antagonistic agent led novice designers to reconsider what makes a design effective more than unsupported self-reflection
 id: constructive-conflict-guidance-increases-reconsideration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Educator open-ended responses yield four themes: ChatGPT dominance, need for methodological guidance, ethical concerns, and infrastructure barriers"
 description: "Educator open-ended responses yield four themes: ChatGPT dominance, need for methodological guidance, ethical concerns, and infrastructure barriers"
 id: educator-ai-barriers-four-themes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

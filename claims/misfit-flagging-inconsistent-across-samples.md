@@ -3,7 +3,7 @@ type: claim
 title: Only about half of misfit items were flagged in common by the AllYr and LatestYr samples, which the authors found surprising
 description: Only about half of misfit items were flagged in common by the AllYr and LatestYr samples, which the authors found surprising
 id: misfit-flagging-inconsistent-across-samples
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

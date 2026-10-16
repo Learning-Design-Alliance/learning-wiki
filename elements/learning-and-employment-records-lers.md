@@ -3,7 +3,7 @@ type: element
 id: learning-and-employment-records-lers
 title: Learning and employment records (LERs) as three-dimensional, learner-controlled replacements for traditional transcripts
 description: "LERs are private, secure digital applications—digital wallets or lockers—that can \"digitally curate and electronically verify a record of an individual's skills, competencies, credentials, and employment history acros..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

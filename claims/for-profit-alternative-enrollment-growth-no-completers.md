@@ -3,7 +3,7 @@ type: claim
 title: "For-profit alternative certification pathways in Texas increased enrollment by more than 500% over 5 years without increasing program completers"
 description: "For-profit alternative certification pathways in Texas increased enrollment by more than 500% over 5 years without increasing program completers"
 id: for-profit-alternative-enrollment-growth-no-completers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

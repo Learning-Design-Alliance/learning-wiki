@@ -3,7 +3,7 @@ type: research-method
 id: five-pattern-taxonomy-of-ai-use-learning-behavior
 title: Five-pattern taxonomy of AI-use learning behavior
 description: "The article proposes a framework characterizing how students interact with an AI assistant during assignment work, distinguishing limited engagement from \"proactive and critical engagement.\" Annotators labeled chat events for prior attempt, request purpose, and answer modification, then aggregated t"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

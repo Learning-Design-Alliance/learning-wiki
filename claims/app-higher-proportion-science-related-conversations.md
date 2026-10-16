@@ -3,7 +3,7 @@ type: claim
 title: "Intervention families had a larger proportion of science-related conversations than comparison families, most strongly after episode viewing (64% vs 32%)"
 description: "Intervention families had a larger proportion of science-related conversations than comparison families, most strongly after episode viewing (64% vs 32%)"
 id: app-higher-proportion-science-related-conversations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

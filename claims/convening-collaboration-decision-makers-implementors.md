@@ -3,7 +3,7 @@ type: claim
 title: Most convening participants strongly agreed they could collaborate with district colleagues during the Melbourne convening
 description: Most convening participants strongly agreed they could collaborate with district colleagues during the Melbourne convening
 id: convening-collaboration-decision-makers-implementors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

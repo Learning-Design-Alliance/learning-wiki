@@ -3,7 +3,7 @@ type: claim
 title: Formal theory offers advantages over common sense for guiding implementation, but empirical evidence of effectiveness is lacking
 description: Formal theory offers advantages over common sense for guiding implementation, but empirical evidence of effectiveness is lacking
 id: formal-theory-advantages-over-common-sense
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

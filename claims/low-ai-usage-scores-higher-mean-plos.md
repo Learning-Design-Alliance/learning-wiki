@@ -3,7 +3,7 @@ type: claim
 title: Most publications show very low AI usage scores, with higher mean AI usage in PLoS than Nature
 description: Most publications show very low AI usage scores, with higher mean AI usage in PLoS than Nature
 id: low-ai-usage-scores-higher-mean-plos
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

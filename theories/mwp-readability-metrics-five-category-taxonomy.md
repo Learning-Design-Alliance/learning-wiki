@@ -2,7 +2,7 @@
 type: theory
 title: Five-category taxonomy of readability metrics for math word problems
 description: "The article organizes candidate readability measures for math word problems into five types: traditional readability formulas, basic text structure metrics, vocabulary metrics, syntactic and coherence metrics, and sem..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

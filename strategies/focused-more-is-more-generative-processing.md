@@ -3,7 +3,7 @@ type: strategy
 id: focused-more-is-more-generative-processing
 title: Consider a focused more is more approach combining minimized extraneous processing with prompts for generative processing
 description: Because the less is more approach of applying signaling, contiguity, and coherence principles did not improve learning, the authors suggest that benefits of increasing processing in a useful way (generative processing...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
@@ -46,4 +46,4 @@ Because the less is more approach of applying signaling, contiguity, and coheren
 -
 
 ## Key Sources
-- Clinton, V., Cooper, J.L., Michaelis, J., Alibali, M.W., & Nathan, M.J. (2017). How Revisions to Mathematical Visuals Affect Cognition: Evidence from Eye Tracking. In Eye-tracking technology applications in educational research (pp. 195-218). IGI Global. https://eric.ed.gov/?id=ED574984
+- Clinton, V., Cooper, J.L., Michaelis, J., Alibali, M.W., & Nathan, M.J. (2017). How Revisions to Mathematical Visuals Affect Cognition: Evidence from Eye Tracking. In Eye-tracking technology applications in educational research (pp. 195-218). IGI Global. https://eric.ed.gov/?id=ED574984. [doi:10.4018/978-1-5225-1005-5.ch010](https://doi.org/10.4018/978-1-5225-1005-5.ch010)

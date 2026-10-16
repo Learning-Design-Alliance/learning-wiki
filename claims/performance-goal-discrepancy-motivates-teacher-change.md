@@ -3,7 +3,7 @@ type: claim
 title: Perceived discrepancy between actual teaching performance and goals motivates teachers to change their teaching
 description: Perceived discrepancy between actual teaching performance and goals motivates teachers to change their teaching
 id: performance-goal-discrepancy-motivates-teacher-change
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

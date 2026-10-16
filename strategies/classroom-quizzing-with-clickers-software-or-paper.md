@@ -3,7 +3,7 @@ type: strategy
 id: classroom-quizzing-with-clickers-software-or-paper
 title: Classroom Quizzing with Clickers, Software, or Paper
 description: Frequent classroom quizzing implements retrieval practice within courses.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

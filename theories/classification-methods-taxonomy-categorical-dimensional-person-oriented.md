@@ -2,7 +2,7 @@
 type: theory
 title: "Three-method taxonomy of child classification: categorical, dimensional, and person-oriented"
 description: The article organizes classification of school-age children into three approaches.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -51,4 +51,4 @@ The article organizes classification of school-age children into three approache
 - [Gather comprehensive information about students' functioning rather than relying solely on categorical placement eligibility](../principles/least-restrictive-environment.md)
 
 ## Key Sources
-- Dowdy, E., & Kamphaus, R. W. (2007). A Comparison of Classification Methods for Use in Predicting School-Based Outcomes. The California School Psychologist, 12, 121-132. https://eric.ed.gov/?id=EJ896649
+- Dowdy, E., & Kamphaus, R. W. (2007). A Comparison of Classification Methods for Use in Predicting School-Based Outcomes. The California School Psychologist, 12, 121-132. https://eric.ed.gov/?id=EJ896649. [doi:10.1007/bf03340936](https://doi.org/10.1007/bf03340936)

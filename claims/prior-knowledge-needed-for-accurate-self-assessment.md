@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Prior Knowledge Needed For Accurate Self Assessment
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25
@@ -93,3 +93,4 @@ Open questions: how much prior knowledge is "enough" for calibration in a given 
 - [Prior knowledge and trust calibration moderate GenAI learning effects: fluent output is most persuasive when learners least can challenge it](prior-knowledge-trust-calibration-moderators.md) — a narrower finding that bears on this claim
 - [In one 2×2 experiment with 120 undergraduates, an Assessment-Performance Calibration Activity (APCA) gave the most accurate self-assessment and least overconfidence, and adding a feedback-literacy script did not improve calibration further](apca-improves-self-assessment-accuracy-overconfidence.md) — a narrower finding that bears on this claim
 - [Students' expertise on the task may be an important prerequisite for accurate self-assessment](task-expertise-prerequisite-ssa-accuracy.md) — a narrower finding that bears on this claim
+- [Self-monitoring of work quality requires three student capacities: appreciation of high quality, evaluative skill, and a store of modification tactics](three-capacities-for-evaluative-self-monitoring.md) — related

@@ -3,7 +3,7 @@ type: claim
 title: Among selective enrollment students, 64 percent are qualified to attend a selective or very selective college but only 37 percent enroll in one
 description: Among selective enrollment students, 64 percent are qualified to attend a selective or very selective college but only 37 percent enroll in one
 id: cps-selective-enrollment-qualification-enrollment-mismatch
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

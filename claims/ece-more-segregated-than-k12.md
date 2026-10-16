@@ -3,7 +3,7 @@ type: claim
 title: ECE programs are on average more racially segregated than elementary and high schools
 description: ECE programs are on average more racially segregated than elementary and high schools
 id: ece-more-segregated-than-k12
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

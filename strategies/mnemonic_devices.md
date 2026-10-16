@@ -19,7 +19,7 @@ Mnemonic devices are memory aids that encode hard-to-remember material into more
 
 ## Design Implications
 
-Mnemonic techniques reliably improve immediate and delayed recall of arbitrary associations, lists, and vocabulary, with keyword and imagery-based methods showing some of the largest effects in the memory literature [Atkinson & Raugh, 1975](https://doi.org/10.1037/0278-7393.1.2.126) [+S]. Their effectiveness depends on the learner actually generating or elaborating the association — a mnemonic handed over without engagement functions like any other passive exposure [Dunlosky et al., 2013](https://doi.org/10.1177/1529100612453266) [~M]. Mnemonics pair naturally with [Chunking](../principles/chunking.md), since most techniques work by recoding many items into one retrievable unit [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S], and with [Spaced Repetition](../strategies/spaced_repetition.md), which converts a strong initial encoding into durable retention [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
+Mnemonic techniques reliably improve immediate and delayed recall of arbitrary associations, lists, and vocabulary, with keyword and imagery-based methods showing some of the largest effects in the memory literature [Atkinson & Raugh, 1975](https://doi.org/10.1037/0278-7393.1.2.126) [+S]. Their effectiveness depends on the learner actually generating or elaborating the association — a mnemonic handed over without engagement functions like any other passive exposure [Dunlosky et al., 2013](https://doi.org/10.1177/1529100612453266) [~M]. Mnemonics pair naturally with [Chunking](../principles/chunking.md), since most techniques work by recoding many items into one retrievable unit [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S], and with [Spaced Repetition](spaced-repetition-scheduling.md), which converts a strong initial encoding into durable retention [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ### Context
 #### Requirements
@@ -54,12 +54,12 @@ Mnemonic techniques reliably improve immediate and delayed recall of arbitrary a
 1. Verify learners understand the content and its relationships before introducing any mnemonic ([Supportive Information](../elements/supportive-information.md))
 2. Present or co-construct the mnemonic, making the association vivid and interactive where imagery is used ([Analogies](../elements/analogies.md))
 3. Have learners practice retrieving the target content *from* the mnemonic and decoding it back ([Practice](../elements/practice.md))
-4. Space retrieval practice over days and weeks so the association consolidates ([Spaced Repetition](../strategies/spaced_repetition.md))
+4. Space retrieval practice over days and weeks so the association consolidates ([Spaced Repetition](spaced-repetition-scheduling.md))
 5. Fade the mnemonic as fluency develops, so learners access knowledge directly rather than through the cue
 
 ## Related Strategies
 - [Acronyms and Acrostics](../strategies/acronyms_and_acrostics.md) — the most common mnemonic family, applied to ordered lists
-- [Spaced Repetition](../strategies/spaced_repetition.md) — distributes practice of the mnemonic-to-content link over time
+- [Spaced Repetition](spaced-repetition-scheduling.md) — distributes practice of the mnemonic-to-content link over time
 - [Chunking](../principles/chunking.md) — the underlying mechanism: recoding many items into one retrievable unit
 
 ## Examples

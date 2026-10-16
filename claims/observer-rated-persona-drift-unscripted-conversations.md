@@ -3,7 +3,7 @@ type: claim
 title: Observer-rated behavioral expression of high- and moderate-intensity ADHD personas declines progressively across turns in unscripted LLM conversations
 description: Observer-rated behavioral expression of high- and moderate-intensity ADHD personas declines progressively across turns in unscripted LLM conversations
 id: observer-rated-persona-drift-unscripted-conversations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

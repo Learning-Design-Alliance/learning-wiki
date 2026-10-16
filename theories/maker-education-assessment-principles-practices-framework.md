@@ -2,7 +2,7 @@
 type: theory
 title: An assessment-planning framework for maker education built on eight principles and five practices
 description: "The paper's central contribution is an organizing framework answering its essential question about assessing maker education."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

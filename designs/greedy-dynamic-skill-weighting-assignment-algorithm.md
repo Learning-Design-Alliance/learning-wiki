@@ -3,7 +3,7 @@ type: design
 id: greedy-dynamic-skill-weighting-assignment-algorithm
 title: Greedy student-to-project assignment algorithm with dynamic skill weighting and tunable preference weight
 description: "The matching system iteratively computes a match score for every student-project pair, combining a student's preference score weighted by an instructor-tunable parameter α with skill self-ratings weighted by a dynamic..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

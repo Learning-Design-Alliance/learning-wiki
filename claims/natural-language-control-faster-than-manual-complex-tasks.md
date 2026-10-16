@@ -3,7 +3,7 @@ type: claim
 title: Natural language control requires less human operation time than manual control for all five complex tasks tested
 description: Natural language control requires less human operation time than manual control for all five complex tasks tested
 id: natural-language-control-faster-than-manual-complex-tasks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

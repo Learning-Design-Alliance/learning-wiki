@@ -3,7 +3,7 @@ type: claim
 title: Male secondary students report significantly higher STEM career interest than female students across AI, computer science, and engineering at baseline
 description: Male secondary students report significantly higher STEM career interest than female students across AI, computer science, and engineering at baseline
 id: baseline-male-higher-stem-career-interest-ai-literacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Subject distribution is uneven, with E-commerce contributing five answers and Machine Learning 88 of 485
 description: Subject distribution is uneven, with E-commerce contributing five answers and Machine Learning 88 of 485
 id: uneven-subject-distribution-485-answers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

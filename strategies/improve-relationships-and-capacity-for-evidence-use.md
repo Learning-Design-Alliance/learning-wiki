@@ -3,7 +3,7 @@ type: strategy
 id: improve-relationships-and-capacity-for-evidence-use
 title: Improve relationships between evidence producers and decision-makers and build staff capacity and government infrastructure for accessing relevant research
 description: "This strategy, drawn from the report's literature review, addresses barriers to evidence use in government decision-making by improving relationships between those who produce research evidence and those who use it, a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

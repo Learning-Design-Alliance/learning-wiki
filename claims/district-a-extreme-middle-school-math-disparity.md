@@ -3,7 +3,7 @@ type: claim
 title: "The most extreme district disparity: District A's high-poverty middle schools had about 1 in 20 highest-performing math teachers versus about 12 in 20 in the lowest-poverty quintile"
 description: "The most extreme district disparity: District A's high-poverty middle schools had about 1 in 20 highest-performing math teachers versus about 12 in 20 in the lowest-poverty quintile"
 id: district-a-extreme-middle-school-math-disparity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

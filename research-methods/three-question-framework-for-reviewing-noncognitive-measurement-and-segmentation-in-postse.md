@@ -3,7 +3,7 @@ type: research-method
 id: three-question-framework-for-reviewing-noncognitive-measurement-and-segmentation-in-postse
 title: Three-question framework for reviewing noncognitive measurement and segmentation in postsecondary education
 description: "The report organizes its targeted document review and expert interviews around three questions relevant to the Student Segmentation Initiative: what instruments and measures are available to assess postsecondary students' noncognitive attributes; to what extent these instruments are used to classify"
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

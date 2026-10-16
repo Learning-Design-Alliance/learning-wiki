@@ -3,7 +3,7 @@ type: strategy
 id: affective-data-governance-safeguards
 title: "Apply an affective data governance framework: minimization, purpose limitation, consent, human oversight, and separation from evaluation"
 description: "Whenever AI-supported teacher-development systems involve affective, behavioral, or socio-emotional data, the article prescribes a minimum governance framework: \"Apply data minimization, purpose limitation, informed c..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

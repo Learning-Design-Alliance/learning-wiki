@@ -3,7 +3,7 @@ type: strategy
 id: sna-whole-network-defined-group-strategy
 title: Use SNA at the whole-network level to study all ties within a defined group
 description: "This strategy applies SNA at the level of whole networks: the evaluator measures and maps 'all of the ties within a defined group,' such as a program's participants or partner organizations."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

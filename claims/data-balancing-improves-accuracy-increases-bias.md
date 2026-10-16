@@ -3,7 +3,7 @@ type: claim
 title: Balancing the dataset significantly improved model predictive performance but increased bias under demographic parity
 description: Balancing the dataset significantly improved model predictive performance but increased bias under demographic parity
 id: data-balancing-improves-accuracy-increases-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

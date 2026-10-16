@@ -3,7 +3,7 @@ type: claim
 title: "Real-time AI alerts can expand teachers' situational awareness but in some cases overload teachers' attention or draw focus away from their own observation flow"
 description: "Real-time AI alerts can expand teachers' situational awareness but in some cases overload teachers' attention or draw focus away from their own observation flow"
 id: ai-alerts-can-overload-teacher-attention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

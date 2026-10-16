@@ -3,7 +3,7 @@ type: strategy
 id: bridging-modules-targeting-missing-outcomes
 title: Support credit transfer with direct credit for bidirectional transfers plus small bridging modules targeting missing outcomes
 description: "The authors propose an alternative to conventional bridging programs that extend post-secondary education by a semester: a provincial prior assessment of learning outcomes identifying differences across institutions,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Only half of students could clearly tell the AI-generated videos were AI-generated, the item with the highest variance
 description: Only half of students could clearly tell the AI-generated videos were AI-generated, the item with the highest variance
 id: half-students-could-not-detect-ai-videos
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

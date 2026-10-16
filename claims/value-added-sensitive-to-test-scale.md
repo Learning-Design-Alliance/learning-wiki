@@ -3,7 +3,7 @@ type: claim
 title: Teacher value-added estimates are sensitive to the test scale on which they are computed
 description: Teacher value-added estimates are sensitive to the test scale on which they are computed
 id: value-added-sensitive-to-test-scale
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

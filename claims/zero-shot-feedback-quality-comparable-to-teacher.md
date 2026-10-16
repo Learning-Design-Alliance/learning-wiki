@@ -3,7 +3,7 @@ type: claim
 title: Zero-shot GenAI feedback quality is statistically comparable to teacher feedback quality
 description: Zero-shot GenAI feedback quality is statistically comparable to teacher feedback quality
 id: zero-shot-feedback-quality-comparable-to-teacher
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -47,3 +47,4 @@ Tukey HSD comparison within the RQ1 ANOVA found "no significant differences" bet
 - [GenAI feedback quality correlates with initial essay quality while teacher feedback quality does not](genai-feedback-quality-tracks-initial-essay-quality.md) — related
 - [In one study, feedback quality significantly predicts revised essay quality under teacher feedback but not under either GenAI feedback condition, though the conditions are not compared directly](feedback-quality-predicts-revision-only-in-teacher-condition.md) — related
 - [GenAI novices develop prompting strategies through trial and error, starting from zero-shot prompts and refining them after unsatisfactory outputs](novices-refine-prompts-trial-and-error.md) — related
+- [Feedback quality did not differ by students' language status for either human evaluators or ChatGPT](feedback-quality-no-language-status-difference.md) — related

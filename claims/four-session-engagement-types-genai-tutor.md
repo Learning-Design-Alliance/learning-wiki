@@ -3,7 +3,7 @@ type: claim
 title: "Four distinct session-level engagement types emerge in GenAI Tutor use: Deep, Shallow, Routine-Learning, and Exam-Driven"
 description: "Four distinct session-level engagement types emerge in GenAI Tutor use: Deep, Shallow, Routine-Learning, and Exam-Driven"
 id: four-session-engagement-types-genai-tutor
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

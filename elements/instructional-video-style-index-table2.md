@@ -3,7 +3,7 @@ type: element
 id: instructional-video-style-index-table2
 title: "Index of instructional video styles (Table 2): a sampled classification of existing formats"
 description: The article presents Table 2, an index of instructional video styles compiled by breadth-first random sampling of available videos across major repositories and platforms (e.g., TED, iTunesU, Khan Academy, Udacity, Co...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

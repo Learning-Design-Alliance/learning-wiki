@@ -3,7 +3,7 @@ type: claim
 title: Automated AI assessment systems reduce grading time and improve evaluation consistency in nursing education
 description: Automated AI assessment systems reduce grading time and improve evaluation consistency in nursing education
 id: automated-ai-assessment-reduces-grading-time-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

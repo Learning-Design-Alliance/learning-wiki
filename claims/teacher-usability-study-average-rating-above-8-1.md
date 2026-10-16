@@ -3,7 +3,7 @@ type: claim
 title: In a usability study, 12 U.S. STEM teachers rated all generated learning interactives 7 or above for usability, averaging above 8.1, with 3 of 36 requests deemed too low quality to present
 description: In a usability study, 12 U.S.
 id: teacher-usability-study-average-rating-above-8-1
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: design
 id: twig-science-5e-lesson-structure
 title: 5E instructional model structure (Engage, Explore, Explain, Elaborate, Evaluate) as the organizing lesson pattern
 description: "Twig Science organizes instruction around the 5E model, which the summary spells out as \"Engage, Explore, Explain, Elaborate, Evaluate.\" Within this structure the curriculum places student inquiry at the center, embed..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-07

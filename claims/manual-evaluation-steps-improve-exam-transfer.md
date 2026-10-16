@@ -3,7 +3,7 @@ type: claim
 title: Requiring students to write out evaluation steps manually improved transfer to pen-and-paper exam performance between the two deployments
 description: Requiring students to write out evaluation steps manually improved transfer to pen-and-paper exam performance between the two deployments
 id: manual-evaluation-steps-improve-exam-transfer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

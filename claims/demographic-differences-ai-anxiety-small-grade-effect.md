@@ -3,7 +3,7 @@ type: claim
 title: Demographic differences in AI anxiety are small, with only grade showing a significant but modest effect
 description: Demographic differences in AI anxiety are small, with only grade showing a significant but modest effect
 id: demographic-differences-ai-anxiety-small-grade-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

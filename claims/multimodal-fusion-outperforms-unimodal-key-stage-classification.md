@@ -3,7 +3,7 @@ type: claim
 title: Fusing transformer text classifiers with a linguistic-feature neural network significantly outperforms unimodal models for UK Key Stage classification, with ELECTRA + ANN reaching F1 = 0.996
 description: Fusing transformer text classifiers with a linguistic-feature neural network significantly outperforms unimodal models for UK Key Stage classification, with ELECTRA + ANN reaching F1 = 0.996
 id: multimodal-fusion-outperforms-unimodal-key-stage-classification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

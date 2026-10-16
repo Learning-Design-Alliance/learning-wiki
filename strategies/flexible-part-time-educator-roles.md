@@ -3,7 +3,7 @@ type: strategy
 id: flexible-part-time-educator-roles
 title: Offer flexible part-time instructional roles to bring certified, nonemployed educators back into classrooms
 description: The brief recommends that states and districts offer flexible instructional roles with less stringent full-time commitment to attract certified teachers who have retired, taken breaks, or moved to education-adjacent f...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: High-experience team teachers show higher voice-quality/spectral-structure and greater loudness-dynamics components than low-experience teachers across spatial pedagogy behavioural categories
 description: High-experience team teachers show higher voice-quality/spectral-structure and greater loudness-dynamics components than low-experience teachers across spatial pedagogy behavioural categories
 id: experience-differences-team-teaching-acoustics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

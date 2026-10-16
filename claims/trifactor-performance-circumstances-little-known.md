@@ -3,7 +3,7 @@ type: claim
 title: Little was known about the circumstances under which the trifactor model performs well versus poorly prior to this study
 description: Little was known about the circumstances under which the trifactor model performs well versus poorly prior to this study
 id: trifactor-performance-circumstances-little-known
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

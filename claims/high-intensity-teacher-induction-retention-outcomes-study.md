@@ -3,7 +3,7 @@ type: claim
 title: Mathematica is examining whether high-intensity teacher induction programs lead to higher retention rates and other positive teacher and student outcomes
 description: Mathematica is examining whether high-intensity teacher induction programs lead to higher retention rates and other positive teacher and student outcomes
 id: high-intensity-teacher-induction-retention-outcomes-study
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Prior reviews of inclusion published before 2000 reported equivocal effects, including a pooled effect size of 0.33 favouring inclusion
 description: Prior reviews of inclusion published before 2000 reported equivocal effects, including a pooled effect size of 0.33 favouring inclusion
 id: prior-inclusion-reviews-equivocal-wang-baker-033
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

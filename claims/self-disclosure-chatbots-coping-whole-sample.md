@@ -3,7 +3,7 @@ type: claim
 title: In the whole sample, preference for self-disclosure with AI chatbots is associated with higher adaptive coping and lower maladaptive coping, linking to more prosocial behavior and less bullying
 description: In the whole sample, preference for self-disclosure with AI chatbots is associated with higher adaptive coping and lower maladaptive coping, linking to more prosocial behavior and less bullying
 id: self-disclosure-chatbots-coping-whole-sample
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

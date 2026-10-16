@@ -3,7 +3,7 @@ type: claim
 title: Green Dot Public Schools improve English language arts achievement in the first year of high school for the 2009–10 cohort, with no significant effects on later ELA measures (mixed evidence)
 description: Green Dot Public Schools improve English language arts achievement in the first year of high school for the 2009–10 cohort, with no significant effects on later ELA measures (mixed evidence)
 id: green-dot-ela-first-year-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

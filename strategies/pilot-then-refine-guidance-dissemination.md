@@ -3,7 +3,7 @@ type: strategy
 id: pilot-then-refine-guidance-dissemination
 title: Pilot guidance documents with a small set of schools and iterate before wide dissemination
 description: R15CC supported NDE with an iterative process of creating implementation guidance for the MRI menu and a site visit protocol.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

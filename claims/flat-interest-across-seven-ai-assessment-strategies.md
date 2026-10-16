@@ -3,7 +3,7 @@ type: claim
 title: "Computing educators' interest in AI-era assessment adaptation was spread roughly evenly across seven strategies, dividing between redesigning what is assigned and redesigning how work is verified"
 description: "Computing educators' interest in AI-era assessment adaptation was spread roughly evenly across seven strategies, dividing between redesigning what is assigned and redesigning how work is verified"
 id: flat-interest-across-seven-ai-assessment-strategies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

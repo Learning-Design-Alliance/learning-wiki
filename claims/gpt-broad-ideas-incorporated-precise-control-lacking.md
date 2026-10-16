@@ -3,7 +3,7 @@ type: claim
 title: GPT responses reliably incorporated broad ideas from instructions but resisted precise control
 description: GPT responses reliably incorporated broad ideas from instructions but resisted precise control
 id: gpt-broad-ideas-incorporated-precise-control-lacking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

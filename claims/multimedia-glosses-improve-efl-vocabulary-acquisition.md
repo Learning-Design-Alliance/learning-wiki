@@ -3,7 +3,7 @@ type: claim
 title: "Multimedia glosses improve EFL students' immediate vocabulary acquisition relative to reading the same texts without glosses"
 description: "Multimedia glosses improve EFL students' immediate vocabulary acquisition relative to reading the same texts without glosses"
 id: multimedia-glosses-improve-efl-vocabulary-acquisition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

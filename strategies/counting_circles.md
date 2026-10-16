@@ -65,7 +65,7 @@ Counting circles convert procedural fluency practice into a public, communal act
 6. **Vary over time.** Rotate increment types across the week — fractions, decimals, negatives, backward counts — to keep the routine within students' zone of productive struggle.
 
 ## Related Strategies
-- [Number Talks](number-talks.md) — a companion routine with the same discourse goals applied to a single computation rather than a sequence
+- [Number Talks](math-talks-number-talks.md) — a companion routine with the same discourse goals applied to a single computation rather than a sequence
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — counting circles serve as a warm-up that surfaces what students already know about a number class
 - [Choral Counting](choral-counting.md) — the whole-group variant that emphasizes pattern-finding over individual turns
 

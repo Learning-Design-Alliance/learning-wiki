@@ -3,7 +3,7 @@ type: claim
 title: Five-year graduation and dropout outcomes varied by eighth-grade ITBS achievement level, with students more than a year below grade level graduating at lower rates
 description: Five-year graduation and dropout outcomes varied by eighth-grade ITBS achievement level, with students more than a year below grade level graduating at lower rates
 id: kenwood-outcomes-by-itbs-achievement-level
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

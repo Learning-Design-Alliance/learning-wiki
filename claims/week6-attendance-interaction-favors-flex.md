@@ -3,7 +3,7 @@ type: claim
 title: For students with full week-6 attendance, Flex showed significantly greater gains than Plain on taught-letter alphabetics, decoding, and word reading
 description: For students with full week-6 attendance, Flex showed significantly greater gains than Plain on taught-letter alphabetics, decoding, and word reading
 id: week6-attendance-interaction-favors-flex
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: Higher internet literacy is associated with lower test anxiety in online exams
 description: Higher internet literacy is associated with lower test anxiety in online exams
 id: internet-literacy-lower-test-anxiety
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: strategy
 id: cross-division-collaboration-cde-multilingual-support
 title: "Cross-division convenings and joint review sessions to strengthen a state education agency's internal collaboration on multilingual policy"
 description: "R15CC fostered stronger ties between CDE's Multilingual Support Division, Assessment Development and Administration Division, and Analysis, Measurement & Accountability Reporting Division to cultivate shared responsib..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: element
 id: pef-impact-cost-effectiveness-study
 title: Early Childhood Educator Pay Equity Fund Impact and Cost Effectiveness Study (2022-2026)
 description: "A multi-year evaluation project associated with the PEF publication, listed on the page with the time frame \"2022 - 2026\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

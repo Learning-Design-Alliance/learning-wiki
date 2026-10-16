@@ -3,7 +3,7 @@ type: strategy
 id: on-track-data-school-self-evaluation-strategy
 title: "Use course-failure data to prompt school self-evaluation and targeted intervention before students' second year"
 description: "The report recommends two uses of on-track data: interventions for individual failing students before their second year of high school, and school self-evaluation using course-failure data."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

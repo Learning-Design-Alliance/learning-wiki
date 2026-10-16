@@ -3,7 +3,7 @@ type: claim
 title: Students and faculty value real-world examples in gateway math, but limited resources and training often lead to procedural instruction
 description: Students and faculty value real-world examples in gateway math, but limited resources and training often lead to procedural instruction
 id: real-world-relevance-gateway-math-procedural-instruction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Narrative and storying genres in educational inquiry risk disempowering the very people they claim to empower
 description: Narrative and storying genres in educational inquiry risk disempowering the very people they claim to empower
 id: narrative-genres-may-disempower-while-claiming-empowerment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

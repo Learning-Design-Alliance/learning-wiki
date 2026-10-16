@@ -3,7 +3,7 @@ type: strategy
 id: coordinate-services-across-programs-and-agencies-two-generation
 title: Coordinate services across programs and agencies to reinforce parent and child outcomes
 description: "The brief directs administrators to strategies for \"effectively delivering and coordinating services across programs and agencies\" when serving parents and children through combined approaches."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

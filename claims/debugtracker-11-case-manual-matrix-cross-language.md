@@ -3,7 +3,7 @@ type: claim
 title: An 11-case manual validation matrix confirms DebugTracker records the debugging process across Python, TypeScript, and Java tasks and three operating systems
 description: An 11-case manual validation matrix confirms DebugTracker records the debugging process across Python, TypeScript, and Java tasks and three operating systems
 id: debugtracker-11-case-manual-matrix-cross-language
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

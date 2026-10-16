@@ -3,7 +3,7 @@ type: claim
 title: "Students in real-world chatbot deployments exhibit lower scaffolding uptake than benchmarks assume, frequently bypassing the chatbot's pedagogical framing"
 description: "Students in real-world chatbot deployments exhibit lower scaffolding uptake than benchmarks assume, frequently bypassing the chatbot's pedagogical framing"
 id: real-world-students-bypass-chatbot-scaffolding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

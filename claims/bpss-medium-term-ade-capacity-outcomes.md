@@ -3,7 +3,7 @@ type: claim
 title: "The logic model's medium-term outcomes center on ADE staff data-use and formative-evaluation capacity"
 description: "The logic model's medium-term outcomes center on ADE staff data-use and formative-evaluation capacity"
 id: bpss-medium-term-ade-capacity-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

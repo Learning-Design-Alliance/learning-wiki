@@ -3,7 +3,7 @@ type: claim
 title: The guide treats an effect size of +0.25 or higher as substantively important, equivalent to raising performance at least 10 percentile points
 description: The guide treats an effect size of +0.25 or higher as substantively important, equivalent to raising performance at least 10 percentile points
 id: effect-size-025-substantively-important-threshold
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

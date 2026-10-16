@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Split Attention Effect Degrades Learning
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25
@@ -157,3 +157,6 @@ Boundary conditions follow from the same mechanism. Integration benefits are lar
 - [Spatial and temporal contiguity effects do not differ significantly in mean magnitude](spatial-temporal-contiguity-equivalent-magnitudes.md) — related
 - [Contiguity effects show no statistically reliable difference between static and dynamic presentation of visual information](static-dynamic-presentation-no-moderation.md) — related
 - [Working memory includes partially independent subcomponents for auditory/verbal and visual/2- or 3-dimensional information](working-memory-partially-independent-modality-subcomponents.md) — related
+- [The positive effect of integrated illustrations depends on incorporating annotations (captions and labels) into the illustrations rather than on placing illustrations close to corresponding paragraphs](annotations-not-proximity-drive-illustration-benefit.md) — a narrower finding that bears on this claim
+- [Embedded explanatory notes improved Shakespearean text comprehension for novice readers but reversed for experts](expertise-reversal-shakespearean-explanatory-notes.md) — related
+- [Reduction of cognitive load can sometimes impair learning rather than enhance it](load-reduction-can-impair-learning.md) — reports the opposite

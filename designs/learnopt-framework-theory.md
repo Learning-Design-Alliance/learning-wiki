@@ -3,7 +3,7 @@ type: design
 id: learnopt-framework-theory
 title: "LearnOpt framework: exam preparation as constrained optimization over an LLM-built exam knowledge graph with BKT mastery updates"
 description: "LearnOpt reframes exam preparation as a constrained optimization problem: it ingests historical question papers, LLM-tags each question with chapter, topic, difficulty and skill via a chain-of-evidence prompt, builds..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

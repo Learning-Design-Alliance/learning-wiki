@@ -3,7 +3,7 @@ type: claim
 title: Scaffolded task progression shifts novice reasoning from local completion toward diagnosis and systematic debugging as task demands increase
 description: Scaffolded task progression shifts novice reasoning from local completion toward diagnosis and systematic debugging as task demands increase
 id: scaffolded-task-progression-diagnostic-shift
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

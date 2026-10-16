@@ -3,7 +3,7 @@ type: claim
 title: Recovery high schools were no better or worse than comparison high schools on grade point average, truancy, or alcohol use in the single included study
 description: Recovery high schools were no better or worse than comparison high schools on grade point average, truancy, or alcohol use in the single included study
 id: rhs-no-difference-gpa-truancy-alcohol
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

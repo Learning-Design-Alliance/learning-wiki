@@ -3,7 +3,7 @@ type: strategy
 id: pedagogical-guardrails-against-cognitive-offloading
 title: Embed pedagogical guardrails in the generation pipeline to counter cognitive offloading from friction-minimizing generative AI
 description: "The article addresses the \"enhancement versus erosion\" paradox, in which friction-minimizing generative AI interactions lead to cognitive offloading, by embedding pedagogical guardrails directly into the generation pi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

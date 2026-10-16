@@ -3,7 +3,7 @@ type: strategy
 id: constructive-conflict-training-staff
 title: Train teachers and staff on how to deal with conflict in constructive ways to prevent conflicts from escalating
 description: The report recommends that schools provide training to teachers and staff on constructive conflict management as a way to prevent conflicts from escalating into safety incidents.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

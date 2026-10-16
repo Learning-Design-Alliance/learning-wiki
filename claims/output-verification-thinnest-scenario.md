@@ -3,7 +3,7 @@ type: claim
 title: Output-verification support is the least covered scenario in policy guidance
 description: Output-verification support is the least covered scenario in policy guidance
 id: output-verification-thinnest-scenario
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

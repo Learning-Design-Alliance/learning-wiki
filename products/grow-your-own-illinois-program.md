@@ -4,7 +4,7 @@ id: grow-your-own-illinois-program
 title: Grow Your Own Illinois program
 description: An Illinois state-funded programme that supports community members and prospective high school candidates in becoming certified teachers through scholarships and partnerships among school districts, preparation programmes, and community-based organizations.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

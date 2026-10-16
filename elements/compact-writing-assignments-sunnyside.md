@@ -3,7 +3,7 @@ type: element
 id: compact-writing-assignments-sunnyside
 title: "Compact Writing Assignments: student-created diverse writing formats for social studies"
 description: "Compact Writing Assignments (CWAs) are student-created writing activities piloted in Sunnyside classrooms that \"introduc[e] diverse writing formats including script writing, text exchange, comic book, and response to..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -53,4 +53,4 @@ Compact Writing Assignments (CWAs) are student-created writing activities pilote
 -
 
 ## Key Sources
-- Smith, K., & Young, V. M. (2024). A New Narrative: How Unlocking the Power of R&D Through Inclusive Innovation Can Transform Education. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/73f2e0fa-dca8-4cd0-a8da-eb18b59453c4
+- Smith, K., & Young, V. M. (2024). A New Narrative: How Unlocking the Power of R&D Through Inclusive Innovation Can Transform Education. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/73f2e0fa-dca8-4cd0-a8da-eb18b59453c4. [doi:10.51388/20.500.12265/202](https://doi.org/10.51388/20.500.12265/202)

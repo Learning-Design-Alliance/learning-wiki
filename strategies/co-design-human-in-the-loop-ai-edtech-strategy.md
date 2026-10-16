@@ -3,7 +3,7 @@ type: strategy
 id: co-design-human-in-the-loop-ai-edtech-strategy
 title: "Center co-design with teachers and students throughout AI tool R&D, using human-in-the-loop workflows as a primary risk mitigation"
 description: "The report recommends that AI developers \"embrace and center the expertise of teachers and students by prioritizing co-design throughout a tool's R&D processes.\" Across risk sections, respondents described human-in-th..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -51,6 +51,7 @@ The report recommends that AI developers "embrace and center the expertise of te
 - [Involve domain experts throughout the AI safety evaluation pipeline, especially for defining unsafe content](domain-experts-throughout-child-safety-evaluation.md)
 - [Human-in-the-loop validation workflow: hold all AI-generated teaching content in unreviewed status until a teacher manually approves it](human-in-the-loop-teacher-validation-workflow.md)
 - [Human-in-the-loop generative pipeline for synthetic classroom training data with domain-expert validation](generative-synthetic-classroom-data-pipeline-strategy.md)
+- [Integrate GPT models into LA-supported feedback systems with an iterative instructor-student validation loop to improve reliability](iterative-validation-loop-gpt-feedback-systems.md)
 
 ## Examples
 -

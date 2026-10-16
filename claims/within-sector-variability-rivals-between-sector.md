@@ -3,7 +3,7 @@ type: claim
 title: Variation among Engineering programs is as large as variation between Engineering and Technology programs
 description: Variation among Engineering programs is as large as variation between Engineering and Technology programs
 id: within-sector-variability-rivals-between-sector
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

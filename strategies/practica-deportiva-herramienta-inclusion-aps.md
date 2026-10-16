@@ -3,7 +3,7 @@ type: strategy
 id: practica-deportiva-herramienta-inclusion-aps
 title: Intervenciones ApS con colectivos vulnerables usando la práctica deportiva como herramienta principal de inclusión social
 description: "Estrategia implementada en Melilla: alumnado universitario realiza intervenciones de metodología ApS con colectivos vulnerables (mayores dependientes, menores extranjeros no acompañados, personas con diversidad funcio..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: principle
 id: preschool-curricula-ef-tom-training
 title: Preschool curricula should include executive function (and theory of mind) training to foster language development
 description: The article recommends that preschool institutions modernize curricula to include activities fostering executive functions and theory of mind, because both relate to semantic fluency, which predicts later school success.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -50,4 +50,4 @@ The article recommends that preschool institutions modernize curricula to includ
 -
 
 ## Key Sources
-- Biscevic, I., Pasalic, A., & Memisevic, H. (2018). The effects of executive functions and theory of mind on semantic fluency in preschool children. Problems of Education in the 21st Century, 76(1). https://www.scientiasocialis.lt/pec/
+- Biscevic, I., Pasalic, A., & Memisevic, H. (2018). The effects of executive functions and theory of mind on semantic fluency in preschool children. Problems of Education in the 21st Century, 76(1). https://www.scientiasocialis.lt/pec/. [doi:10.33225/pec/18.76.21](https://doi.org/10.33225/pec/18.76.21)

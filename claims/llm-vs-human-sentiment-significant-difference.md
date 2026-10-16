@@ -3,7 +3,7 @@ type: claim
 title: Sentiment scores of LLM-generated replies differ significantly from human replies under both classifiers
 description: Sentiment scores of LLM-generated replies differ significantly from human replies under both classifiers
 id: llm-vs-human-sentiment-significant-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

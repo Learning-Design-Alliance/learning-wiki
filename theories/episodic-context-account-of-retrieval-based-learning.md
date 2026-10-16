@@ -3,7 +3,7 @@ type: theory
 title: Episodic Context Account of Retrieval-Based Learning
 description: Proposed by Karpicke et al.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24
@@ -17,7 +17,7 @@ sources:
 # Episodic Context Account of Retrieval-Based Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 2 studies (1 causal, 1 review), `q2`–`q3` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 Proposed by Karpicke et al. (2014b), this account rests on four assumptions: people encode items with their temporal context, reinstate that context during retrieval, and "when an item is successfully retrieved, the context representation associated with that item is updated" with study and test context features, aiding later recovery. It draws on the search of associative memory and temporal context models.
@@ -38,9 +38,11 @@ Proposed by Karpicke et al. (2014b), this account rests on four assumptions: peo
 - Explain why recall beats recognition, why spaced beats massed retrieval, and why recollecting the study episode enhances retention
 
 ### Claims
+
 - [Recollecting The Prior Study Episode During Retrieval Enhances Retention](../claims/recollecting-the-prior-study-episode-during-retrieval-enhances-retention.md) [+W]
 - [Retrieval Practice Enhances Final Context Memory And Memory Search Efficiency](../claims/retrieval-practice-enhances-final-context-memory-and-memory-search-efficiency.md) [+W]
 - [Retrieval Practice Disrupts Within List Order Reconstruction](../claims/retrieval-practice-disrupts-within-list-order-reconstruction.md) [~W]
+- [In Experiment 1, the type-of-recall by varied-constant by distribution interaction was significant, with a massed-distributed effect only in constant cued recall and a distribution effect in both free-recall conditions](../claims/cued-free-recall-interaction-varied-constant-distribution.md) [+M] — attached 2026-10-15 from Glenberg (1979), which proposed "Component-levels theory of spacing effects: three informational components plus encoding and retrieval principles".
 
 ## Related Theories
 - 

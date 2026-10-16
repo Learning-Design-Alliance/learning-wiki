@@ -3,7 +3,7 @@ type: claim
 title: Most Alaska schools surveyed demonstrated an emerging (middle) level of implementation of trauma-engaged practices
 description: Most Alaska schools surveyed demonstrated an emerging (middle) level of implementation of trauma-engaged practices
 id: alaska-schools-mostly-emerging-trauma-engaged-implementation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

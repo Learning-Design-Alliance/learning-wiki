@@ -3,7 +3,7 @@ type: claim
 title: The study concluded FAST is unlikely to meaningfully contribute to turning around low-performing schools, though reading benefits may exist for participating families
 description: The study concluded FAST is unlikely to meaningfully contribute to turning around low-performing schools, though reading benefits may exist for participating families
 id: fast-unlikely-school-turnaround-conclusion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

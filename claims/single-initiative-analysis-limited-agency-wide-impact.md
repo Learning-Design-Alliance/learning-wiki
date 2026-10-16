@@ -3,7 +3,7 @@ type: claim
 title: Single-initiative data analysis has not always changed agency-wide policies and practices, and many staff may lack skills to interpret findings
 description: Single-initiative data analysis has not always changed agency-wide policies and practices, and many staff may lack skills to interpret findings
 id: single-initiative-analysis-limited-agency-wide-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

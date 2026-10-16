@@ -3,7 +3,7 @@ type: claim
 title: "A computer-based implementation of the tutorial yields the lowest post-test scores, statistically lower on momentum than every other style in the same study and the prior study's ideal implementation"
 description: "A computer-based implementation of the tutorial yields the lowest post-test scores, statistically lower on momentum than every other style in the same study and the prior study's ideal implementation"
 id: computer-based-tutorial-implementation-lowest-posttest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

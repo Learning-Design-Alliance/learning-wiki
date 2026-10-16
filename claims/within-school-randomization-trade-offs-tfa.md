@@ -3,7 +3,7 @@ type: claim
 title: Study designs that randomly assign students within schools involve trade-offs, illustrated by the Teach For America evaluation experience
 description: Study designs that randomly assign students within schools involve trade-offs, illustrated by the Teach For America evaluation experience
 id: within-school-randomization-trade-offs-tfa
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: multiple-demonstration-competence-ec-credential
 title: Offer candidates multiple ways of demonstrating competence, crediting prior teaching experience and using performance-based alternative assessments
 description: Among its policy recommendations, the report advises states to offer candidates multiple ways of demonstrating competence for credential requirements.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

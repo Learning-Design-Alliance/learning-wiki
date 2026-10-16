@@ -3,7 +3,7 @@ type: claim
 title: Second-generation immigrant children aged 6-8 mainly used language at home to convey or seek factual information, except during imaginary play
 description: Second-generation immigrant children aged 6-8 mainly used language at home to convey or seek factual information, except during imaginary play
 id: bilingual-children-home-language-mainly-factual-functions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

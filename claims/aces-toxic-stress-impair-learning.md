@@ -3,7 +3,7 @@ type: claim
 title: Adverse childhood experiences create toxic stress that impairs attention, learning, and behavior, and school responses can magnify or buffer the harm
 description: Adverse childhood experiences create toxic stress that impairs attention, learning, and behavior, and school responses can magnify or buffer the harm
 id: aces-toxic-stress-impair-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -18,8 +18,8 @@ sources:
     kind: review
     rigour: 1
   - id: darling-hammond-2018-2
-    resource: "https://learningpolicyinstitute.org/product/educating-whole-child"
-    title: "Darling-Hammond, L., & Cook-Harvey, C. M. (2018). Educating the whole child: Improving school climate to support student success. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/educating-whole-child"
+    resource: "https://doi.org/10.54300/145.655"
+    title: "Darling-Hammond, L., & Cook-Harvey, C. M. (2018). Educating the whole child: Improving school climate to support student success. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/educating-whole-child. [doi:10.54300/145.655](https://doi.org/10.54300/145.655)"
     author: "Darling-Hammond, L., & Cook-Harvey, C. M."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Adverse childhood experiences create toxic stress that impairs attention, learning, and behavior, and school responses can magnify or buffer the harm
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 review `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Chronic stress from adversity negatively affects brain structures and causes trouble with attention, concentration, memory, and creativity. [→ Darling-Hammond 2018](#darling-hammond-2018)
@@ -50,7 +50,7 @@ The report's synthesis of adversity science states that "chronic stress can have
 
 ### Darling-Hammond 2018 (2)
 
-Darling-Hammond, L., & Cook-Harvey, C. M. (2018). Educating the whole child: Improving school climate to support student success. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/educating-whole-child
+Darling-Hammond, L., & Cook-Harvey, C. M. (2018). Educating the whole child: Improving school climate to support student success. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/educating-whole-child. [doi:10.54300/145.655](https://doi.org/10.54300/145.655)
 
 `q2 · i?` · `review · r1`
 

@@ -4,7 +4,7 @@ id: kg-grounded-benchmark-of-10836-solution-feedback-pairs-for-step-level-llm-tu
 title: KG-grounded benchmark of 10,836 solution-feedback pairs for step-level LLM tutoring evaluation
 description: A benchmark dataset released by Tahreem Yasir et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

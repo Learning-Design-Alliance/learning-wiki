@@ -3,7 +3,7 @@ type: claim
 title: Intentional vocabulary learning yields higher, faster gains and better retention than incidental learning through reading
 description: Intentional vocabulary learning yields higher, faster gains and better retention than incidental learning through reading
 id: intentional-beats-incidental-vocabulary-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

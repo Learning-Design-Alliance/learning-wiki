@@ -3,7 +3,7 @@ type: claim
 title: Cultivating AI intuition safeguards against technological overreliance and erosion of critical thinking (theoretical argument)
 description: Cultivating AI intuition safeguards against technological overreliance and erosion of critical thinking (theoretical argument)
 id: ai-intuition-safeguard-against-overreliance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

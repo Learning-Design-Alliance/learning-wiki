@@ -3,7 +3,7 @@ type: strategy
 id: automatic-enrollment-advanced-coursework-opt-out
 title: Adopt automatic (opt-out) enrollment policies placing qualifying students in advanced coursework
 description: The report recommends districts automatically enroll students with qualifying grades or test scores in advanced coursework, with students free to opt out.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Retrieval practice effects are larger at retention intervals greater than 1 day (g = 0.69) than at intervals less than 1 day (g = 0.41) in Rowland's (2014) meta-analysis"
 description: "Retrieval practice effects are larger at retention intervals greater than 1 day (g = 0.69) than at intervals less than 1 day (g = 0.41) in Rowland's (2014) meta-analysis"
 id: retrieval-practice-effects-larger-at-retention-intervals-over-one-day
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

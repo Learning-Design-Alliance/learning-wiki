@@ -3,7 +3,7 @@ type: claim
 title: GenAI Tutor adoption was widespread but usage intensity was highly skewed, with adoption peaking early in the semester while intensity rose steadily
 description: GenAI Tutor adoption was widespread but usage intensity was highly skewed, with adoption peaking early in the semester while intensity rose steadily
 id: genai-tutor-adoption-usage-skew
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Passing rates improved from 1997 to 1998 in third and sixth grades, but retention rates did not decline because fewer students received waivers
 description: Passing rates improved from 1997 to 1998 in third and sixth grades, but retention rates did not decline because fewer students received waivers
 id: passing-up-retention-flat-1998-fewer-waivers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

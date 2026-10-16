@@ -3,7 +3,7 @@ type: claim
 title: Productive cognitive offloading to AI can shift into cognitive surrender, abdicating learner intellectual agency
 description: Productive cognitive offloading to AI can shift into cognitive surrender, abdicating learner intellectual agency
 id: cognitive-offloading-shifts-to-cognitive-surrender
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

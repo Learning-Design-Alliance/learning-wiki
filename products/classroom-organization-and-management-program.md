@@ -4,7 +4,7 @@ id: classroom-organization-and-management-program
 title: Classroom Organization and Management Program
 description: A manualized teacher-training classroom-management programme that equips teachers to implement strategies for organizing classrooms and reducing student problem behavior.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

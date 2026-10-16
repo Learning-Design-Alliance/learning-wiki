@@ -3,7 +3,7 @@ type: strategy
 id: consultancy-protocol-leader-problem-of-practice
 title: Use a consultancy protocol in which each leader presents a problem of practice for structured peer discovery
 description: "The Collaborative used a consultancy protocol in which \"each leader had the opportunity to invite the team to think expansively about a specific family engagement problem of practice.\" Through a structured process, th..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

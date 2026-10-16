@@ -3,7 +3,7 @@ type: strategy
 id: life-histories-stories-of-action-within-theories-of-context
 title: "Move from life stories to life histories: collect stories of action within theories of context"
 description: The article recommends that educational research move beyond collecting personal narratives toward life history work that builds contextual background around the story.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -43,4 +43,4 @@ The article recommends that educational research move beyond collecting personal
 -
 
 ## Key Sources
-- Goodson, Ivor F. (1994). 'The Story So Far': Personal Knowledge and the Political. https://eric.ed.gov/?id=ED376160
+- Goodson, Ivor F. (1994). 'The Story So Far': Personal Knowledge and the Political. https://eric.ed.gov/?id=ED376160. [doi:10.1080/0951839950080109](https://doi.org/10.1080/0951839950080109)

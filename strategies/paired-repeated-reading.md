@@ -67,7 +67,7 @@ Repeated reading works because rereading familiar text reduces word-recognition 
 - [Teach prosody through dramatized contrasts, slashed passages, and modeled expression](prosody-instruction-activities-strategy.md)
 
 ## Examples
-- **Read Naturally** (https://www.readnaturally.com) — commercial program combining audio modeling, timed repeated reading, and graphed progress monitoring; built directly on the repeated reading evidence base.
+- **[Read Naturally](../products/read-naturally.md)** (https://www.readnaturally.com) — commercial program combining audio modeling, timed repeated reading, and graphed progress monitoring; built directly on the repeated reading evidence base.
 - **Partner reading routines in PALS (Peer-Assisted Learning Strategies)** (https://vkc.mc.vanderbilt.edu/pals/) — structured paired reading with trained roles and error-correction scripts, validated in numerous RCTs.
 - **Tier 2 fluency interventions** in many MTSS frameworks schedule 15–20 minutes of paired repeated reading three to four times per week with weekly progress graphing.
 

@@ -3,7 +3,7 @@ type: research-method
 id: two-stage-llm-misconception-identification-pipeline
 title: Two-stage LLM misconception identification pipeline
 description: "A pipeline combining quantitative quiz analysis with two LLM stages: GPT-4 (gpt-4o-2024-08-06, temperature 0.3) generates hypothesized misconceptions from structured question representations, most common incorrect answers, and Whisper-transcribed lecture transcripts; Gemini 2.0 Flash (temperature 0)"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11
@@ -30,4 +30,4 @@ A pipeline combining quantitative quiz analysis with two LLM stages: GPT-4 (gpt-
 -
 
 ## Key Sources
-- Parker, M. J., & Zavala-Cerna, M. G. (2025). What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics. https://arxiv.org/abs/2507.09875
+- Parker, M. J., & Zavala-Cerna, M. G. (2025). What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics. https://arxiv.org/abs/2507.09875. [doi:10.48550/arxiv.2605.00294](https://doi.org/10.48550/arxiv.2605.00294)

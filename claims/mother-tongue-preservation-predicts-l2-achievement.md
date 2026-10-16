@@ -3,7 +3,7 @@ type: claim
 title: Preservation of the mother tongue predicts second-language achievement among migrant children
 description: Preservation of the mother tongue predicts second-language achievement among migrant children
 id: mother-tongue-preservation-predicts-l2-achievement
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

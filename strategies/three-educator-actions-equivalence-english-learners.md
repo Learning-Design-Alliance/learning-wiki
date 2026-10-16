@@ -3,7 +3,7 @@ type: strategy
 id: three-educator-actions-equivalence-english-learners
 title: "Three educator actions to challenge and support English Learners with equivalence: maintain the challenge, structure activity, and draw attention to approaches"
 description: The brief recommends three specific actions.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

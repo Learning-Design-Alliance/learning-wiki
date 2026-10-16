@@ -3,7 +3,7 @@ type: claim
 title: Lessons in Character shows no discernible effects on knowledge, attitudes, and values
 description: Lessons in Character shows no discernible effects on knowledge, attitudes, and values
 id: lessons-in-character-no-discernible-kav-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

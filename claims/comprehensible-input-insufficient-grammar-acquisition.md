@@ -3,7 +3,7 @@ type: claim
 title: Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency
 description: Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency
 id: comprehensible-input-insufficient-grammar-acquisition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -62,3 +62,4 @@ The review reports, citing Hammerly (1987), Swain (1985), and Spada and Lightbow
 - [Between-class differences in structural accuracy were attributed, with some evidence, to differences in teachers' form-focused instruction](form-focused-instruction-explains-class-accuracy-differences.md) — a narrower finding that bears on this claim
 - [Language processing is intimately tuned to input frequency across phonology, phonotactics, reading, spelling, lexis, morphosyntax, formulaic language, comprehension, grammaticality, sentence production, and syntax](frequency-tuning-across-language-processing-domains.md) — related
 - [Intensive ESL learners' oral English development was examined in four intact classes of approximately 100 French-speaking students aged 10–12 after a 5-month course](intensive-esl-quebec-corpus-study-design.md) — related
+- [Form-focused instruction on noun endings significantly increases French immersion students' ability to correctly assign grammatical gender, with gains maintained on delayed posttests](ffi-noun-endings-improves-gender-attribution.md) — a narrower finding that bears on this claim

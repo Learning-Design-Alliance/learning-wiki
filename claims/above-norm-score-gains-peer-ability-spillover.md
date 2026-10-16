@@ -4,7 +4,7 @@ title: "In one Chicago study, above-norm students' post-policy algebra test gain
 description: In one Chicago study, above-norm students' post-policy algebra test gains were partly explained by higher peer ability and by having classmates who took support algebra
 id: above-norm-score-gains-peer-ability-spillover
 aliases: [heterogeneous-support-benefits-above-norm, peer-skill-explains-above-norm-test-gains]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

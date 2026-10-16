@@ -186,7 +186,7 @@ Motivation during a task, free-choice engagement afterwards, immediate learning,
 
 - [Give learners control over how learning is measured via assessment choices and science-fair-type projects](../strategies/learner-controlled-assessment-science-fair-projects.md)
 - [Build autonomy-supportive learning contexts through perspective-taking, choice, self-initiation, and non-controlling language](../strategies/autonomy-supportive-context-components.md)
-- **Choice boards**: Learners select from several tasks that address the same learning goal through different formats or contexts.
+- **[Choice boards](../strategies/choice_boards.md)**: Learners select from several tasks that address the same learning goal through different formats or contexts.
 - **Topic selection within a fixed rubric**: Learners choose the issue, case, or text they will analyze while using common criteria.
 - **Product choice**: Learners demonstrate understanding through writing, presentation, model, or multimedia artifact.
 - **Paced pathway choices**: Learners decide whether to review, practice more, or move into extension work.
@@ -221,9 +221,9 @@ Motivation during a task, free-choice engagement afterwards, immediate learning,
 - Hanewicz, C., Platt, A., & Arendt, A. (2017). Creating a learner-centered teaching environment using student choice in assignments. *Distance Education, 38*(3), 273-287. [https://doi.org/10.1080/01587919.2017.1369349](https://doi.org/10.1080/01587919.2017.1369349)
 - Stefanou, C. R., Perencevich, K. C., DiCintio, M., & Turner, J. C. (2004). Supporting autonomy in the classroom: Ways teachers encourage student decision making and ownership. *Educational Psychologist, 39*(2), 97-110. [https://doi.org/10.1207/s15326985ep3902_2](https://doi.org/10.1207/s15326985ep3902_2)
 - Herbold, K. (2011). Giving student choice in online learning environments: Addressing adult learner needs. *International Journal of Technology, Knowledge & Society, 7*(5). [doi:10.18848/1832-3669/cgp/v07i05/56230](https://doi.org/10.18848/1832-3669/cgp/v07i05/56230)
-- Murray, G. L., & Bollinger, D. J. (2001). Developing Cross-Cultural Awareness: Learning Through the Experiences of Others. TESL Canada Journal, 19(1). https://teslcanadajournal.ca
+- Murray, G. L., & Bollinger, D. J. (2001). Developing Cross-Cultural Awareness: Learning Through the Experiences of Others. TESL Canada Journal, 19(1). https://teslcanadajournal.ca. [doi:10.18806/tesl.v19i1.920](https://doi.org/10.18806/tesl.v19i1.920)
 - Lundberg, M., & Rasmussen, J. (2018). Foundational Principles and Practices to Consider in Assessing Maker Education. i-manager's Journal of Educational Technology, Vol. 14 No. 4, January - March 2018. https://eric.ed.gov/?id=EJ1179517
-- Pittaway, S. M., & Moss, T. (2014). “Initially, We Were Just Names on a Computer Screen”: Designing Engagement in Online Teacher Education. Australian Journal of Teacher Education, 39(7). http://ro.ecu.edu.au/ajte/vol39/iss7/8
+- Pittaway, S. M., & Moss, T. (2014). “Initially, We Were Just Names on a Computer Screen”: Designing Engagement in Online Teacher Education. Australian Journal of Teacher Education, 39(7). http://ro.ecu.edu.au/ajte/vol39/iss7/8. [doi:10.14221/ajte.2014v39n7.10](https://doi.org/10.14221/ajte.2014v39n7.10)
 - Kupers, E., van Dijk, M., & van Geert, P. (2017). Changing Patterns of Scaffolding and Autonomy During Individual Music Lessons: A Mixed Methods Approach. *Journal of the Learning Sciences, 26*(1), 131-166. [https://doi.org/10.1080/10508406.2016.1259624](https://doi.org/10.1080/10508406.2016.1259624)
 - Level Creation Tools and Deep Gamification in the BOTS Educational Game. (2015). https://gameslearningsociety.org
 - Dombey, Henrietta; Formisano, Marina Pascucci. (1999). Examining the Notion of Autonomy in the Context of Early Literacy Learning in Four European Countries. https://eric.ed.gov/?id=ED434766
@@ -386,7 +386,7 @@ The article recommends that teachers create structures offering support while le
 - [Have students interview study-abroad returnees to learn about living abroad first hand](../strategies/guest-speaker-interviews-returnees.md)
 
 ## Key Sources
-- Murray, G. L., & Bollinger, D. J. (2001). Developing Cross-Cultural Awareness: Learning Through the Experiences of Others. TESL Canada Journal, 19(1). https://teslcanadajournal.ca
+- Murray, G. L., & Bollinger, D. J. (2001). Developing Cross-Cultural Awareness: Learning Through the Experiences of Others. TESL Canada Journal, 19(1). https://teslcanadajournal.ca. [doi:10.18806/tesl.v19i1.920](https://doi.org/10.18806/tesl.v19i1.920)
 -->
 
 <!-- merged 2026-10-07 from principles/student-choice-builds-ownership-maker-education ("Provide student choice to build ownership and self-efficacy in maker education"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
@@ -465,7 +465,7 @@ The article found the discussion-group assessment effective because it "was publ
 - [Implement student-led weekly discussion groups in which rotating leaders choose topics, facilitate discussion, and post summaries, unmediated by teaching staff](../strategies/student-led-rotating-discussion-leader-groups.md)
 
 ## Key Sources
-- Pittaway, S. M., & Moss, T. (2014). “Initially, We Were Just Names on a Computer Screen”: Designing Engagement in Online Teacher Education. Australian Journal of Teacher Education, 39(7). http://ro.ecu.edu.au/ajte/vol39/iss7/8
+- Pittaway, S. M., & Moss, T. (2014). “Initially, We Were Just Names on a Computer Screen”: Designing Engagement in Online Teacher Education. Australian Journal of Teacher Education, 39(7). http://ro.ecu.edu.au/ajte/vol39/iss7/8. [doi:10.14221/ajte.2014v39n7.10](https://doi.org/10.14221/ajte.2014v39n7.10)
 -->
 
 <!-- merged 2026-10-15 from principles/persistent-autonomy-support-during-resistance ("Persistent Autonomy Support During Resistance"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.

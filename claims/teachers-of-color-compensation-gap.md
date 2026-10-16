@@ -3,7 +3,7 @@ type: claim
 title: Teachers of color earn a smaller share of non-teacher college-graduate wages than teachers overall
 description: Teachers of color earn a smaller share of non-teacher college-graduate wages than teachers overall
 id: teachers-of-color-compensation-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

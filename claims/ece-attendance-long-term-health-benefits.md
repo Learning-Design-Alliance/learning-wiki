@@ -3,7 +3,7 @@ type: claim
 title: Early childhood education attendance is associated with long-term health benefits, particularly reduced prevalence of risk factors for chronic diseases
 description: Early childhood education attendance is associated with long-term health benefits, particularly reduced prevalence of risk factors for chronic diseases
 id: ece-attendance-long-term-health-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: sim-phased-professional-development-plan
 title: "Phased SIM professional development plan: initial planning days, monthly site PD and coaching, monthly leadership-team sessions, and annual program-specific training with coaching"
 description: "The review prescribes a concrete PD schedule for adopting SIM: 2-3 days of planning activities; site professional development of 2-3 days per month combining PD and coaching; Literacy Leadership Team PD and work sessi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

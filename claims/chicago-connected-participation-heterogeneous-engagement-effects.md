@@ -3,7 +3,7 @@ type: claim
 title: Among eligible students, Chicago Connected participation increased remote learning engagement for high pre-pandemic GPA students but decreased it for low pre-pandemic GPA students
 description: Among eligible students, Chicago Connected participation increased remote learning engagement for high pre-pandemic GPA students but decreased it for low pre-pandemic GPA students
 id: chicago-connected-participation-heterogeneous-engagement-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

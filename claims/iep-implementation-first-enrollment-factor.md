@@ -3,7 +3,7 @@ type: claim
 title: "A school's ability to implement a child's IEP was the first factor in parents' enrollment decisions, crowding out other school characteristics"
 description: "A school's ability to implement a child's IEP was the first factor in parents' enrollment decisions, crowding out other school characteristics"
 id: iep-implementation-first-enrollment-factor
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

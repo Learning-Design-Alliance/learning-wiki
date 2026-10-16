@@ -3,7 +3,7 @@ type: claim
 title: Prior achievement level did not significantly affect self-efficacy overall in either flipped classroom method
 description: Prior achievement level did not significantly affect self-efficacy overall in either flipped classroom method
 id: prior-achievement-null-self-efficacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

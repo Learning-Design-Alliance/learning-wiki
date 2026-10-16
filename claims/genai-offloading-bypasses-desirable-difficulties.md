@@ -3,7 +3,7 @@ type: claim
 title: Immediate LLM explanations risk bypassing the generative processes required for durable understanding
 description: Immediate LLM explanations risk bypassing the generative processes required for durable understanding
 id: genai-offloading-bypasses-desirable-difficulties
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
@@ -49,3 +49,4 @@ Theoretical argument in this perspective article's section on cognitive offloadi
 - [AI-mediated SSH learning externalizes interpretive cognition as students delegate thematic identification, contextual explanation, and comparative analysis to AI systems](externalization-of-interpretive-cognition.md) — possibly the same claim (merge candidate)
 - [Generative AI makes knowledge mobilizable, converting external knowledge into immediately usable task output within seconds](generative-ai-makes-knowledge-mobilizable.md) — reports the opposite
 - [Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction](unstructured-llm-use-cognitive-offloading.md) — related
+- [AIEd research is weakly connected to theoretical pedagogical perspectives](aied-weak-pedagogical-theory-connection.md) — related

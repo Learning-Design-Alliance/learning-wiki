@@ -3,7 +3,7 @@ type: research-method
 id: thinking-through-ai-framework
 title: Thinking Through AI framework
 description: The Thinking Through AI framework is a methodological approach integrating cyber-social research with cognitive labs and think-aloud protocols to create continuous feedback loops in AI tool development.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: "Review reports that teachers' beliefs, attitudes and TPACK—not AI knowledge alone—mediate AI integration"
 description: "Review reports that teachers' beliefs, attitudes and TPACK—not AI knowledge alone—mediate AI integration"
 id: teacher-beliefs-mediate-ai-integration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

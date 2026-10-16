@@ -3,7 +3,7 @@ type: strategy
 id: leader-diversity-goals-public-data
 title: Set measurable, time-bound goals for school leader diversity and make diversity data publicly visible
 description: "The brief recommends that state and district leaders begin diversity efforts by \"setting measurable and time-bound goals\" supported by widely accessible, high-quality data."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

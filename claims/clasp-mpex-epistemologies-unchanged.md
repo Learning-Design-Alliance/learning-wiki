@@ -3,7 +3,7 @@ type: claim
 title: "CLASP students' expert-like epistemologies (MPEX-II) were statistically unchanged over the quarter, unlike the declines reported for most standard and many reformed physics classes"
 description: "CLASP students' expert-like epistemologies (MPEX-II) were statistically unchanged over the quarter, unlike the declines reported for most standard and many reformed physics classes"
 id: clasp-mpex-epistemologies-unchanged
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

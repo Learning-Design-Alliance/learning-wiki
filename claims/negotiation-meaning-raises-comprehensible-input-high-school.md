@@ -3,7 +3,7 @@ type: claim
 title: In high school groups, learners with negotiation of meaning obtained more comprehensible input in the match task than learners with pre-modified input only
 description: In high school groups, learners with negotiation of meaning obtained more comprehensible input in the match task than learners with pre-modified input only
 id: negotiation-meaning-raises-comprehensible-input-high-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

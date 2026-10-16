@@ -4,7 +4,7 @@ id: kwik
 title: KWiK
 description: KWiK is a teacher-coaching and computer-assisted learning programme developed and evaluated by Philip Oreopoulos and colleagues to support mastery-based mathematics practice in elementary and middle schools.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

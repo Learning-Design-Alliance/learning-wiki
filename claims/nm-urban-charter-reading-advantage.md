@@ -3,7 +3,7 @@ type: claim
 title: Urban brick-and-mortar charter students in New Mexico outperform their TPS virtual twins in reading, while suburban, town, and rural charter students are on par
 description: Urban brick-and-mortar charter students in New Mexico outperform their TPS virtual twins in reading, while suburban, town, and rural charter students are on par
 id: nm-urban-charter-reading-advantage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

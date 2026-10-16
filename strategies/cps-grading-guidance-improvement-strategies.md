@@ -3,7 +3,7 @@ type: strategy
 id: cps-grading-guidance-improvement-strategies
 title: "District actions to improve electronic grading system use: clarify formative/summative guidance, build mastery-based best-practice communities, and update grading standards with professional development"
 description: Based on observed variability in Gradebook use, the report recommends that CPS clarify grading practices around formative and summative assessments, help mastery-based grading teachers form a best-practices community,...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

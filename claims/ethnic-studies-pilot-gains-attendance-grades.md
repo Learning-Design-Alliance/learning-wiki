@@ -3,7 +3,7 @@ type: claim
 title: A pilot ethnic studies program in San Francisco high schools led to gains in attendance, grades, and credit accumulation
 description: A pilot ethnic studies program in San Francisco high schools led to gains in attendance, grades, and credit accumulation
 id: ethnic-studies-pilot-gains-attendance-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

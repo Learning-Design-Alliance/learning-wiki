@@ -3,7 +3,7 @@ type: claim
 title: Individuals systematically overuse reminders relative to the optimal offloading level, and reminder bias correlates with confidence and metacognitive bias
 description: Individuals systematically overuse reminders relative to the optimal offloading level, and reminder bias correlates with confidence and metacognitive bias
 id: reminder-bias-overuse-external-aids
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -80,3 +80,7 @@ The review reports correlational evidence across multiple studies (Gilbert et al
 - [In Experiment 1, lower confidence predicted greater offloading beyond objective performance in the no-feedback group, but not in the feedback group](confidence-predicts-offloading-no-feedback-only.md) — a narrower finding that bears on this claim
 - [In Experiment 1, participants in both groups were significantly biased towards excessive reminder use relative to the optimal strategy](excessive-reminder-bias-both-groups-exp1.md) — a narrower finding that bears on this claim
 - [In Experiment 1, a five-trial metacognitive prediction-plus-feedback intervention significantly reduced reminder bias, producing more optimal reminder-setting behaviour](metacognitive-feedback-reduces-reminder-bias.md) — a narrower finding that bears on this claim
+- [Older adults show reduced reminder bias relative to objective need despite setting more reminders](ageing-reminder-bias-reduced.md) — a narrower finding that bears on this claim
+- [Developmental change in offloading reflects metacognitive control, not knowledge](child-development-offloading-selectivity.md) — related
+- [Effort avoidance contributes to reminder overuse beyond metacognitive error](effort-avoidance-reminder-bias.md) — related
+- [Metacognitive confidence triggers intention offloading independently of objective memory need](metacognition-triggers-offloading.md) — related

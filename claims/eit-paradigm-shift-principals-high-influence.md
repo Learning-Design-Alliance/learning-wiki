@@ -3,7 +3,7 @@ type: claim
 title: Principals of the paradigm-shift type reported high buy-in and a paradigm shift, and their reported influence on instructional grouping, assessment, planning, and general instructional practice was rated high
 description: Principals of the paradigm-shift type reported high buy-in and a paradigm shift, and their reported influence on instructional grouping, assessment, planning, and general instructional practice was rated high
 id: eit-paradigm-shift-principals-high-influence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

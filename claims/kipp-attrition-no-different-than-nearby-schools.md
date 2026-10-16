@@ -3,7 +3,7 @@ type: claim
 title: Attrition patterns at KIPP middle schools are typically no different than at nearby schools
 description: Attrition patterns at KIPP middle schools are typically no different than at nearby schools
 id: kipp-attrition-no-different-than-nearby-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

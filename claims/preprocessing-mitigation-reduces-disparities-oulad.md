@@ -3,7 +3,7 @@ type: claim
 title: Preprocessing bias mitigation (DIR, RW, SUP) reduced subgroup disparities in TPR on OULAD, with effectiveness varying by demographic attribute
 description: Preprocessing bias mitigation (DIR, RW, SUP) reduced subgroup disparities in TPR on OULAD, with effectiveness varying by demographic attribute
 id: preprocessing-mitigation-reduces-disparities-oulad
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: research-method
 id: grade-productivity-profile
 title: Grade productivity profile
 description: "The guide introduces a value-added framework in which each school grade's productivity profile presents \"three inter-related pieces of information for each school grade.\" Input status is the previous year's matched test scores, output is end-of-year scores for the same stable students, and the gain "
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

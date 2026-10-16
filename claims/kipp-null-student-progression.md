@@ -3,7 +3,7 @@ type: claim
 title: KIPP shows no discernible effects on high school student progression (graduation within 4 years)
 description: KIPP shows no discernible effects on high school student progression (graduation within 4 years)
 id: kipp-null-student-progression
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

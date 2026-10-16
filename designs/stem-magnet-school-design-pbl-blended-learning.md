@@ -3,7 +3,7 @@ type: design
 id: stem-magnet-school-design-pbl-blended-learning
 title: "STEM magnet school design combining themed pathways, project-based learning, blended learning with 1:1 devices, and STEM electives and extracurriculars"
 description: "The three MSAP-funded magnet schools share a design built around a STEM theme with dedicated magnet coursework, project-based learning, and blended learning with 1:1 Chromebooks."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

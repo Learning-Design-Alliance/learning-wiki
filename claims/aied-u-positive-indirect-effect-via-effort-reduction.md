@@ -3,7 +3,7 @@ type: claim
 title: Using the AIED-U system yielded a positive indirect effect on learning gains through a reduction in the effort teachers reported
 description: Using the AIED-U system yielded a positive indirect effect on learning gains through a reduction in the effort teachers reported
 id: aied-u-positive-indirect-effect-via-effort-reduction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

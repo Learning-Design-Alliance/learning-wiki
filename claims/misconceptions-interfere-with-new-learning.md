@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

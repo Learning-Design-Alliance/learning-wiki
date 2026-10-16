@@ -3,7 +3,7 @@ type: claim
 title: Training more than three sessions per week neutralizes CCT efficacy, while one or 2–3 sessions per week are effective
 description: Training more than three sessions per week neutralizes CCT efficacy, while one or 2–3 sessions per week are effective
 id: cct-frequency-above-three-sessions-ineffective
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

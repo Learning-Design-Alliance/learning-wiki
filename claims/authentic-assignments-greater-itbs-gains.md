@@ -4,7 +4,7 @@ title: Chicago classrooms with high-quality authentic intellectual assignments s
 description: Chicago classrooms with high-quality authentic intellectual assignments showed greater one-year ITBS gains than classrooms with low-quality assignments
 id: authentic-assignments-greater-itbs-gains
 aliases: [authentic-pedagogy-assignments-predict-achievement-gains]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

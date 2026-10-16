@@ -3,7 +3,7 @@ type: claim
 title: "Comprehension-level tailoring occurred: AI responses following comprehension prompts showed 3.4x to 8.7x higher definitional density than non-triggered responses"
 description: "Comprehension-level tailoring occurred: AI responses following comprehension prompts showed 3.4x to 8.7x higher definitional density than non-triggered responses"
 id: comprehension-prompts-trigger-scaffolding-increase
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -4,7 +4,7 @@ id: learnmate2
 title: LearnMate2
 description: LearnMate2 is an LLM-powered online learning support platform developed by its authors that generates personalized study plans, provides contextual learning assistance, and adapts activities using learner progress.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

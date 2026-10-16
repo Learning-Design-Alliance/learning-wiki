@@ -3,7 +3,7 @@ type: strategy
 id: experts-down-the-hall-teacher-coaches
 title: "Select teacher leaders as \"experts down the hall\" to represent grade bands and coach peers"
 description: Talladega invited teachers across the district into pathway development and selected multiple teachers per grade band.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

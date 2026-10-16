@@ -3,7 +3,7 @@ type: strategy
 id: develop-personal-strategy-sets-for-incidental-vocabulary
 title: "Develop learners' personal sets of effective vocabulary strategies rather than teaching arbitrary strategy lists"
 description: "Based on the finding that strategy mastery predicted incidental vocabulary acquisition, the authors recommend that \"teachers may encourage L2 learners to become strategic learners by developing a personal set of effec..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -43,4 +43,4 @@ Based on the finding that strategy mastery predicted incidental vocabulary acqui
 -
 
 ## Key Sources
-- Zhao, A., Guo, Y., Biales, C., & Olszewski, A. (2016). Exploring learner factors in second language (L2) incidental vocabulary acquisition through reading. Reading in a Foreign Language, 28(2). http://nflrc.hawaii.edu/rfl
+- Zhao, A., Guo, Y., Biales, C., & Olszewski, A. (2016). Exploring learner factors in second language (L2) incidental vocabulary acquisition through reading. Reading in a Foreign Language, 28(2). http://nflrc.hawaii.edu/rfl. [doi:10.64152/10125/66903](https://doi.org/10.64152/10125/66903)

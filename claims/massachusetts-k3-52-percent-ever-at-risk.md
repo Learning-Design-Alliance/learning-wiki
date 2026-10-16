@@ -3,7 +3,7 @@ type: claim
 title: "Across beginning, middle, and end of year time periods, 52 percent of Massachusetts K–3 grantees' students were ever classified as at any level of reading risk, about 27 percent at the highest risk levels, and 12 to 18 percent as potentially at risk of dyslexia"
 description: "Across beginning, middle, and end of year time periods, 52 percent of Massachusetts K–3 grantees' students were ever classified as at any level of reading risk, about 27 percent at the highest risk levels, and 12 to 1..."
 id: massachusetts-k3-52-percent-ever-at-risk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

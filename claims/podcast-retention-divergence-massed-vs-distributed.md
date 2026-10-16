@@ -3,7 +3,7 @@ type: claim
 title: "Retention trajectories diverged by centre: Centre 1 retained gains at 30 days while Centre 2 showed significant post-to-delayed decay"
 description: "Retention trajectories diverged by centre: Centre 1 retained gains at 30 days while Centre 2 showed significant post-to-delayed decay"
 id: podcast-retention-divergence-massed-vs-distributed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

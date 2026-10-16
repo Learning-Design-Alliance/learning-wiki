@@ -3,7 +3,7 @@ type: design
 id: gai-tutor-teammate-tool-coi-framework
 title: "GAI role framework: tutor, teammate, and tool mapped onto teaching, social, and cognitive presence"
 description: The article integrates Role Theory with the Community of Inquiry (CoI) model to propose that GAI can assume three roles in marketing education.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

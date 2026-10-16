@@ -3,7 +3,7 @@ type: claim
 title: CHSRI students did not score differently on the PSAE in reading or math, and freshmen were not significantly more likely to be on-track
 description: CHSRI students did not score differently on the PSAE in reading or math, and freshmen were not significantly more likely to be on-track
 id: chsri-no-achievement-ontrack-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

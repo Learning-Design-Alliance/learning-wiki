@@ -3,7 +3,7 @@ type: strategy
 id: iterate-gameful-assessment-design
 title: Iterate and innovate on gameful assessment design in response to mixed engagement evidence
 description: The article concludes that gameful assessment design should continue to be iterated and improved.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

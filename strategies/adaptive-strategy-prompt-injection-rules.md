@@ -3,7 +3,7 @@ type: strategy
 id: adaptive-strategy-prompt-injection-rules
 title: Profile-driven adaptive strategy rules composed dynamically and injected into the system prompt each turn
 description: The adaptive strategy engine generates a natural-language instruction block appended to the system prompt, telling the LLM how to adjust pedagogical behavior based on the current profile.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

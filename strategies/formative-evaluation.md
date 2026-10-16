@@ -67,8 +67,8 @@ Formative evaluation is among the highest-yield interventions in education; revi
 
 ## Examples
 - **Dylan Wiliam's "minute paper" routine** — end each class with one question on what was learned and one on what remains unclear; open the next class by addressing the patterns.
-- **PeerWise (https://peerwise.cs.auckland.ac.nz)** — students write and evaluate multiple-choice questions for peers, generating formative evidence through question authoring and critique.
-- **ASSISTments (https://www.assistments.org)** — math platform that provides immediate feedback on homework items and reports item-level error data to teachers for next-day adjustment.
+- **[PeerWise](../products/peerwise.md) (https://peerwise.cs.auckland.ac.nz)** — students write and evaluate multiple-choice questions for peers, generating formative evidence through question authoring and critique.
+- **[ASSISTments](../products/assistments.md) (https://www.assistments.org)** — math platform that provides immediate feedback on homework items and reports item-level error data to teachers for next-day adjustment.
 
 ## Key Sources
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)

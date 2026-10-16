@@ -3,7 +3,7 @@ type: claim
 title: Text-message college transition messaging did not increase college enrollment in the fall after high school graduation among GEAR UP students
 description: Text-message college transition messaging did not increase college enrollment in the fall after high school graduation among GEAR UP students
 id: gear-up-text-messaging-no-enrollment-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

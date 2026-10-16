@@ -3,7 +3,7 @@ type: strategy
 id: prepare-and-assess-pbl-process-reflection
 title: Prepare students for collaborative learning before PBL cases and require reflection on the PBL process as assessment
 description: Before the PBL cases began, the course prepared students for collaboration through preparatory reading, lecture input on related research, class discussion of previous positive and negative group work experiences, and...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

@@ -3,7 +3,7 @@ type: strategy
 id: extending-game-based-worked-examples-for-greater-improvement
 title: Extending game-based worked examples with practice problems, fading, self-explanation, verbal instruction and subgoals
 description: "The authors' forward-looking recommendation, prompted by a gain they call small."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

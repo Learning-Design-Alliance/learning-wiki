@@ -3,7 +3,7 @@ type: design
 id: why-what-how-pathway-design
 title: "Three-step district pathway design sequence: Why, What, How"
 description: The toolkit structures district CS/CT pathway design as a three-step sequence.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

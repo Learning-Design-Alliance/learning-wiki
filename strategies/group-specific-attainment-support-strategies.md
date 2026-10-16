@@ -3,7 +3,7 @@ type: strategy
 id: group-specific-attainment-support-strategies
 title: "Tailor attainment supports to each group's binding milestone: college application support for Latino young men, strengthened high school graduation supports for Black young men"
 description: "The brief recommends that because different milestones bind for different groups, educators should \"support[] different strategies for each group of students.\" For Latino young men, whose graduation matches the distri..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

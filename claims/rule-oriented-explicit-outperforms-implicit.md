@@ -3,7 +3,7 @@ type: claim
 title: High-explicitness rule-oriented instruction outperforms implicit instruction or no instruction
 description: High-explicitness rule-oriented instruction outperforms implicit instruction or no instruction
 id: rule-oriented-explicit-outperforms-implicit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

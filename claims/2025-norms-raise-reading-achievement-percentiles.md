@@ -3,7 +3,7 @@ type: claim
 title: Under the 2025 MAP Growth norms, the same reading RIT score can rank higher in achievement percentile due to national declines in achievement
 description: Under the 2025 MAP Growth norms, the same reading RIT score can rank higher in achievement percentile due to national declines in achievement
 id: 2025-norms-raise-reading-achievement-percentiles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

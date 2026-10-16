@@ -3,7 +3,7 @@ type: claim
 title: "Substance abuse infractions declined by about 80% at both Roswell community schools during 2023–24"
 description: "Substance abuse infractions declined by about 80% at both Roswell community schools during 2023–24"
 id: substance-abuse-infractions-dropped-80-percent-both-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

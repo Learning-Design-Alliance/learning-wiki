@@ -3,7 +3,7 @@ type: claim
 title: LEA Design Teams came to believe that focusing first on teacher-of-color retention builds conditions that later support recruitment
 description: LEA Design Teams came to believe that focusing first on teacher-of-color retention builds conditions that later support recruitment
 id: retention-first-pays-recruitment-dividends
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

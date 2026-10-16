@@ -3,7 +3,7 @@ type: claim
 title: ACT scores show a weak relationship with college graduation, with slope variation across high schools larger than the average signal
 description: ACT scores show a weak relationship with college graduation, with slope variation across high schools larger than the average signal
 id: act-weak-inconsistent-predictor-college-graduation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

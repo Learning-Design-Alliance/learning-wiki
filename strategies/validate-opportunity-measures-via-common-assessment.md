@@ -3,7 +3,7 @@ type: strategy
 id: validate-opportunity-measures-via-common-assessment
 title: Validate district-level opportunity measures against a common assessment
 description: "The brief's title names its method: \"Validating the SEDA measures of district educational opportunities via a common assessment\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

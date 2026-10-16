@@ -3,7 +3,7 @@ type: claim
 title: Randomized studies, as reviewed, find that students who make threats in CSTAG schools more often receive counseling and less often long-term suspension or transfer, with the largest changes in higher-fidelity schools
 description: Randomized studies, as reviewed, find that students who make threats in CSTAG schools more often receive counseling and less often long-term suspension or transfer, with the largest changes in higher-fidelity schools
 id: cstag-causal-reduces-discipline-increases-counseling
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Pandemic achievement gaps in math and reading continued to narrow from spring 2021 through fall 2022
 description: Pandemic achievement gaps in math and reading continued to narrow from spring 2021 through fall 2022
 id: pandemic-achievement-gaps-narrowed-spring-2021-fall-2022
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

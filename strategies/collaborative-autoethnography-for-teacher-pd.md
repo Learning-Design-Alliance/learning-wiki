@@ -3,7 +3,7 @@ type: strategy
 id: collaborative-autoethnography-for-teacher-pd
 title: Collaborative Autoethnography for Teacher PD
 description: Teachers write individual autoethnographic reflections on a recurring prompt, then collectively read, annotate, and discuss the full set of reflections to surface shared themes from their own practice — grounding professional learning in teachers' own experience rather than externally-imposed content.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

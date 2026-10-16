@@ -3,7 +3,7 @@ type: claim
 title: Evidence suggests RJ improves school climate, including student connectedness and staff-perceived climate gains
 description: Evidence suggests RJ improves school climate, including student connectedness and staff-perceived climate gains
 id: rj-improves-school-climate-evidence-limited
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

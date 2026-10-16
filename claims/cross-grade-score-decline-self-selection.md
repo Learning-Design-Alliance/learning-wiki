@@ -3,7 +3,7 @@ type: claim
 title: Average course-specific test scores decrease as grade level increases, reflecting ability self-selection
 description: Average course-specific test scores decrease as grade level increases, reflecting ability self-selection
 id: cross-grade-score-decline-self-selection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

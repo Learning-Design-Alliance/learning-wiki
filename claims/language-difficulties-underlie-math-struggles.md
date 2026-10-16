@@ -3,7 +3,7 @@ type: claim
 title: Language difficulties, rather than inherent inability to grasp numerical concepts, may often underlie struggles in mathematics
 description: Language difficulties, rather than inherent inability to grasp numerical concepts, may often underlie struggles in mathematics
 id: language-difficulties-underlie-math-struggles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

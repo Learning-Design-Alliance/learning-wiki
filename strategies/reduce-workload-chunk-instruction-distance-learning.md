@@ -3,7 +3,7 @@ type: strategy
 id: reduce-workload-chunk-instruction-distance-learning
 title: Reduce workloads and chunk instruction into smaller pieces to support diminished capacity and executive functioning
 description: "Under Reason, the brief advises educators to \"Reduce workloads for yourself and your students,\" noting that with stress and change, \"students' physical and mental capacities to handle an academic workload are diminish..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

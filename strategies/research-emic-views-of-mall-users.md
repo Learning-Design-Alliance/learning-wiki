@@ -3,7 +3,7 @@ type: strategy
 id: research-emic-views-of-mall-users
 title: "Investigate teachers' and learners' 'emic' perspectives on MALL to identify obstacles to integration"
 description: "The review recommends that future MALL research explore teachers' and learners' perspectives, because MALL's application \"highly relies on the general consensus from language teachers and learners\" and there is a \"lac..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

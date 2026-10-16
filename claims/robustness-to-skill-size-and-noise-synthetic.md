@@ -3,7 +3,7 @@ type: claim
 title: "The proposed method's advantage grows or holds as the skill space expands and under higher noise rates in synthetic experiments"
 description: "The proposed method's advantage grows or holds as the skill space expands and under higher noise rates in synthetic experiments"
 id: robustness-to-skill-size-and-noise-synthetic
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

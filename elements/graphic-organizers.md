@@ -82,7 +82,7 @@ A graphic organizer is a visual-spatial instructional tool that presents key con
 
 - [Graphic Organizers](../strategies/graphic-organizers.md)
 - [Graphic Organizers as Thinking Tools](../strategies/graphic_organizers_as_thinking_tools.md)
-- [Thinking Tools with Graphic Organizers](../strategies/thinking_tools_with_graphic_organizers.md)
+- [Thinking Tools with Graphic Organizers](../strategies/graphic_organizers_as_thinking_tools.md)
 - [Graphic Organizers and Visual Aids (Attention)](../strategies/graphic-organizers-and-visual-aids-attention.md)
 - [Lecture Support with Graphic Organizers](../strategies/graphic_organizers_for_lecture_support.md)
 - [Visual Organizers](../strategies/visual_organizers.md)

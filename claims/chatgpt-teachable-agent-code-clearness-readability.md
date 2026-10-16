@@ -3,7 +3,7 @@ type: claim
 title: Teaching a ChatGPT agent yields significantly higher code clearness and readability scores than learning from online videos, but not higher code correctness
 description: Teaching a ChatGPT agent yields significantly higher code clearness and readability scores than learning from online videos, but not higher code correctness
 id: chatgpt-teachable-agent-code-clearness-readability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

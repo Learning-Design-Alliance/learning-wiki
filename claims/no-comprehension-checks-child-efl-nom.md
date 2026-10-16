@@ -3,7 +3,7 @@ type: claim
 title: All meaning negotiation strategies appear in child EFL peer interaction except comprehension checks, which are absent
 description: All meaning negotiation strategies appear in child EFL peer interaction except comprehension checks, which are absent
 id: no-comprehension-checks-child-efl-nom
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

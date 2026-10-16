@@ -3,7 +3,7 @@ type: claim
 title: Positive perspectives of learning formats help discriminate between poor and optimal integration in immigrant adults
 description: Positive perspectives of learning formats help discriminate between poor and optimal integration in immigrant adults
 id: positive-learning-format-perspectives-discriminate-integration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

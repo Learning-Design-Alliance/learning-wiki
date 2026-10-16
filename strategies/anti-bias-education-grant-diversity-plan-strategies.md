@@ -3,7 +3,7 @@ type: strategy
 id: anti-bias-education-grant-diversity-plan-strategies
 title: Fund anti-bias education through a comprehensive diversity plan tied to specific outcomes, student-centered efforts, and redress mechanisms
 description: Anti-Bias Education Grant Program funds address education about discrimination, bias, racism, bigotry, prejudice, and hate-motivated actions.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -2,7 +2,7 @@
 type: theory
 title: Three-model architecture of automatic speech recognition (acoustic, phonetic and language models)
 description: "The article describes how ASR recognizes speech: a waveform is split into utterances by silences, and all possible word combinations are tested and matched against the audio."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: In a fixed-person calibration simulation with 60 Rasch items and 1,200 simulees, estimates from both tools were comparable to true parameters, with the existing tool underestimating difficulty by 0.03 RIT on average
 description: In a fixed-person calibration simulation with 60 Rasch items and 1,200 simulees, estimates from both tools were comparable to true parameters, with the existing tool underestimating difficulty by 0.03 RIT on average
 id: simulation-comparability-60-items-1200-simulees
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

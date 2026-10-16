@@ -3,7 +3,7 @@ type: claim
 title: Dependent versus autonomous cognitive offloading to GenAI shows opposite motivational and cognitive outcome patterns
 description: Dependent versus autonomous cognitive offloading to GenAI shows opposite motivational and cognitive outcome patterns
 id: dependent-autonomous-offloading-genai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

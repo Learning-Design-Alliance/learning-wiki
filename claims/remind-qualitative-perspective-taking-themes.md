@@ -3,7 +3,7 @@ type: claim
 title: During REMind, nearly all children reported feeling sad for the victim and attributed bystander inaction mainly to low confidence or fear of retaliation
 description: During REMind, nearly all children reported feeling sad for the victim and attributed bystander inaction mainly to low confidence or fear of retaliation
 id: remind-qualitative-perspective-taking-themes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "Ukrainian educators show high AI adoption (84%) but only 11% can identify specialized AI services beyond ChatGPT"
 description: "Ukrainian educators show high AI adoption (84%) but only 11% can identify specialized AI services beyond ChatGPT"
 id: educators-high-ai-adoption-low-specialized-awareness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: "Game structures, role playing, and the physical environment are identified as factors shaping students' thinking in AR game play"
 description: "Game structures, role playing, and the physical environment are identified as factors shaping students' thinking in AR game play"
 id: ar-game-structure-role-environment-shape-thinking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

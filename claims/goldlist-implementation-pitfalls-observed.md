@@ -3,7 +3,7 @@ type: claim
 title: "Classroom implementation of the GoldList Method encountered pitfalls: forgotten notebooks, omitted dates, and unclear initial steps"
 description: "Classroom implementation of the GoldList Method encountered pitfalls: forgotten notebooks, omitted dates, and unclear initial steps"
 id: goldlist-implementation-pitfalls-observed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

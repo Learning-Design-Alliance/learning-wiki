@@ -3,7 +3,7 @@ type: claim
 title: STEM teachers participating in learning teams deepen their mathematics and science content knowledge and feel more prepared to teach it
 description: STEM teachers participating in learning teams deepen their mathematics and science content knowledge and feel more prepared to teach it
 id: stem-plcs-deepen-teacher-content-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -50,3 +50,4 @@ Knowledge synthesis of empirical studies and expert advice on STEM PLCs. The syn
 - [Student teachers who perceived their mentors modeled effective instruction and provided coaching, feedback, and job assistance felt better prepared, and domain-specific coaching was related to higher first-year REACH ratings](cps-mentor-coaching-and-modeling-associated-with-preparedness-and-effectiveness.md) — related
 - [Teachers reported feeling more familiar with and more prepared to teach the CCSS in 2016 than in 2015, with elementary and ELA-group teachers higher than high school and math-group teachers](ccss-preparedness-increased-2016.md) — related
 - [Published policy statements and expert advice universally recommend STEM PLCs, with cautions against superficial definition and implementation](stem-plcs-universally-recommended.md) — related
+- [EAI modalities were associated with higher student motivation and changes in attitudes toward STEM knowledge areas](eai-motivation-attitude-stem-effects.md) — related

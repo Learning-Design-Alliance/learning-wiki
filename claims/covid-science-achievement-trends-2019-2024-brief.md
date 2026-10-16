@@ -3,7 +3,7 @@ type: claim
 title: "NWEA's 2024 technical brief examines pandemic impacts on science achievement and gains from 2019 through 2024, continuing research on COVID-19 school-closure effects on learning"
 description: "NWEA's 2024 technical brief examines pandemic impacts on science achievement and gains from 2019 through 2024, continuing research on COVID-19 school-closure effects on learning"
 id: covid-science-achievement-trends-2019-2024-brief
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

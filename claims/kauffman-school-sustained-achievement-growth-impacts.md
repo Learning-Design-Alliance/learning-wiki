@@ -3,7 +3,7 @@ type: claim
 title: The Kauffman School produces sustained positive achievement growth impacts in mathematics, English language arts, and science
 description: The Kauffman School produces sustained positive achievement growth impacts in mathematics, English language arts, and science
 id: kauffman-school-sustained-achievement-growth-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

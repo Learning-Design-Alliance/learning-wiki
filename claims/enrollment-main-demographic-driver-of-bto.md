@@ -3,7 +3,7 @@ type: claim
 title: Enrollment is the main driver of the association between student demographics and the likelihood of beating the odds
 description: Enrollment is the main driver of the association between student demographics and the likelihood of beating the odds
 id: enrollment-main-demographic-driver-of-bto
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

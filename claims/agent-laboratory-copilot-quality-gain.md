@@ -3,7 +3,7 @@ type: claim
 title: Human oversight in co-pilot mode improved Agent Laboratory research output quality ratings from 3.8/10 to 4.38/10
 description: Human oversight in co-pilot mode improved Agent Laboratory research output quality ratings from 3.8/10 to 4.38/10
 id: agent-laboratory-copilot-quality-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

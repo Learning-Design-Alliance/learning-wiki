@@ -3,7 +3,7 @@ type: strategy
 id: weekly-wide-range-of-texts-reading
 title: Devote weekly intervention time to reading a wide range of texts
 description: Alongside repeated reading of short passages, intervention classes should regularly expose students to varied texts.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

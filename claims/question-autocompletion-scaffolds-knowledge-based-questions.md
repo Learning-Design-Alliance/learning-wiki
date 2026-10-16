@@ -3,7 +3,7 @@ type: claim
 title: In Study 2, Question Autocompletion was widely adopted and the proportion of knowledge-based questions increased significantly across session stages
 description: In Study 2, Question Autocompletion was widely adopted and the proportion of knowledge-based questions increased significantly across session stages
 id: question-autocompletion-scaffolds-knowledge-based-questions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

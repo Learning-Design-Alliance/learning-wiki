@@ -68,7 +68,7 @@ Cognitive apprenticeship works because it externalizes the tacit decision-making
 - **Reciprocal Teaching of reading** (Palincsar & Brown, 1984): teachers model predicting, questioning, clarifying, and summarizing, then students rotate the leader role while support fades — produced large comprehension gains in classroom trials.
 - **Live coding in CS education**: instructors write real programs in class, verbalizing design tradeoffs and debugging, before students attempt paired programming exercises.
 - **Clinical rotations** in medical education: attendings model diagnostic reasoning on real cases, then observe and coach students' workups, progressively handing over responsibility.
-- **Writing conferences** in process-writing classrooms: teachers model revision decisions on their own drafts, then coach students through revising theirs.
+- **[Writing conferences](writing-conferences.md)** in process-writing classrooms: teachers model revision decisions on their own drafts, then coach students through revising theirs.
 
 ## Key Sources
 - Collins, A., Brown, J. S., & Newman, S. E. (1989). Cognitive apprenticeship: Teaching the crafts of reading, writing, and mathematics. In L. B. Resnick (Ed.), *Knowing, learning, and instruction: Essays in honor of Robert Glaser* (pp. 453–494). Lawrence Erlbaum. [doi:10.4324/9781315044408-14](https://doi.org/10.4324/9781315044408-14)

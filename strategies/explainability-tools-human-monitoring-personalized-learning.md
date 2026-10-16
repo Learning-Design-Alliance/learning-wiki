@@ -3,7 +3,7 @@ type: strategy
 id: explainability-tools-human-monitoring-personalized-learning
 title: Use explainability tools (SHAP/LIME) and human monitoring for fair, transparent AI-driven personalized learning
 description: The article recommends pairing AI-driven learning predictions with interpretability techniques and oversight.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

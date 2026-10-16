@@ -3,7 +3,7 @@ type: claim
 title: One RCT found AI-assisted simulation inferior to standardized patient simulation for breast self-examination skills
 description: One RCT found AI-assisted simulation inferior to standardized patient simulation for breast self-examination skills
 id: ai-simulation-inferior-bse-skills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
@@ -49,3 +49,4 @@ Among 11 studies assessing knowledge or skills outcomes, the review reports that
 - [AI-powered simulations show short-term gains in communication confidence and structured knowledge in RCTs, with limited or inferior effects for tactile psychomotor skills](ai-simulation-short-term-gains-nursing.md) — a broader claim this one bears on
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
 - [Purpose-built chatbot effects on educational performance are mixed, with some studies showing no benefits or worse outcomes than comparison conditions](educational-performance-mixed-ai-chatbots.md) — related
+- [Students primarily benefit from AI chatbots in three key areas: homework and study assistance, personalized learning, and skills development](ai-chatbots-three-student-benefit-areas.md) — reports the opposite

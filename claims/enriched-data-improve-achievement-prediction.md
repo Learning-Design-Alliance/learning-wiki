@@ -3,7 +3,7 @@ type: claim
 title: Prediction algorithms forecast student achievement from small windows of data, more accurately when data are enriched with instructional design and learning-process detail
 description: Prediction algorithms forecast student achievement from small windows of data, more accurately when data are enriched with instructional design and learning-process detail
 id: enriched-data-improve-achievement-prediction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -47,3 +47,4 @@ The white paper attributes these assertions to prior studies (Bernacki et al., 2
 - [Enriched DLP data enable two types of theory testing: sustained observation of individuals in a single setting and modeling the same type of learner across contexts](clickstream-enables-two-types-theory-testing.md) — related
 - [Sequence analysis of online course logs found group coordination predicted successful outcomes better than raw activity levels (review-attributed to Hoppe et al., 2021)](sequence-analysis-coordination-predicts-group-outcomes.md) — a narrower finding that bears on this claim
 - [Stealth assessment in AI-GBL achieves accurate prediction of learner states, with bias auditing demonstrated without accuracy loss](stealth-assessment-accuracy-and-bias-audits.md) — a narrower finding that bears on this claim
+- [Predicting student outcomes was a common AIEd use in higher education, with ten studies predicting academic performance](predicting-academic-performance-ai-ed-he.md) — related

@@ -3,7 +3,7 @@ type: claim
 title: U.S. civic engagement and civics knowledge fall short of the democratic-preparation goal of schooling
 description: U.S.
 id: us-civic-engagement-and-civics-knowledge-fall-short
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

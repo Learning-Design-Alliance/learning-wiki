@@ -3,7 +3,7 @@ type: strategy
 id: phase-based-behavioral-readiness-training
 title: Phase-based behavioral readiness training spanning pre-flight, in-flight, and post-flight
 description: The review organizes behavioral readiness training by mission phase, with emphases shifting across phases.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

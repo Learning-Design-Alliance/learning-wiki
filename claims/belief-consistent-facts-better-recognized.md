@@ -3,7 +3,7 @@ type: claim
 title: Students recognize more belief-consistent science facts than belief-inconsistent facts, an effect appearing on recognition but not recall tests
 description: Students recognize more belief-consistent science facts than belief-inconsistent facts, an effect appearing on recognition but not recall tests
 id: belief-consistent-facts-better-recognized
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

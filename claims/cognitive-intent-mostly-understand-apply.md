@@ -3,7 +3,7 @@ type: claim
 title: Most student–AI interactions occur at the understand and apply Bloom levels, with analyze appearing rarely
 description: Most student–AI interactions occur at the understand and apply Bloom levels, with analyze appearing rarely
 id: cognitive-intent-mostly-understand-apply
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: research-method
 id: rapid-guessing-as-a-behavioral-proxy-for-test-effort
 title: Rapid guessing as a behavioral proxy for test effort
 description: Rapid guessing is a behavioral proxy for test effort used to measure whether students are engaged with a test.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

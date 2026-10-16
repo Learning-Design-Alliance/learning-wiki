@@ -3,7 +3,7 @@ type: strategy
 id: apply-kei-threshold-cohort-tracking
 title: Apply the established KEI threshold to future kindergarten cohorts to track changes in the percentage of students on-track for grade 3 reading proficiency
 description: The study recommends that the School District of Philadelphia apply the study-established threshold of 6 on the 1–10 KEI index to incoming kindergarten cohorts as a cohort-level on-track indicator.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

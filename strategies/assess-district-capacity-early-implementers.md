@@ -3,7 +3,7 @@ type: strategy
 id: assess-district-capacity-early-implementers
 title: Assess district capacity (students per teacher and class periods per day) and learn from early implementer districts before scaling credit-requirement changes
 description: "The report suggests state leaders assess districts' capacity to implement the CCR graduation requirements and explore ways to strengthen it, since early implementers had \"fewer students per teacher and more class peri..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

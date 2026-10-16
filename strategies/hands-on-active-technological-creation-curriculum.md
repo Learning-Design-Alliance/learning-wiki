@@ -3,7 +3,7 @@ type: strategy
 id: hands-on-active-technological-creation-curriculum
 title: Replace passive theoretical IT instruction with hands-on active technological creation and algorithmic troubleshooting
 description: The article recommends that IT curricula move away from passive software navigation toward practical, creation-centered activity.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

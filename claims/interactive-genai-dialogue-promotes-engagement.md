@@ -3,7 +3,7 @@ type: claim
 title: Interactive dialogue with the AI tool, available only in some sites, promoted deeper engagement and student agency during revision
 description: Interactive dialogue with the AI tool, available only in some sites, promoted deeper engagement and student agency during revision
 id: interactive-genai-dialogue-promotes-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

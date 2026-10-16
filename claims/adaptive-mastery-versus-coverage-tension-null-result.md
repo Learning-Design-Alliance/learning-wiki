@@ -3,7 +3,7 @@ type: claim
 title: "The authors interpret the null result as partly reflecting a tension between adaptive mastery learning and curricular coverage: students who master early topics slowly may not reach later topics tested by the state assessment"
 description: "The authors interpret the null result as partly reflecting a tension between adaptive mastery learning and curricular coverage: students who master early topics slowly may not reach later topics tested by the state as..."
 id: adaptive-mastery-versus-coverage-tension-null-result
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: cresst-tool-design-criteria
 title: Design assessment tools to measure model components, integrate, be authorable, auto-score, and deploy on the Internet
 description: "The report states its tool design strategy directly: \"Our strategy is to design assessment tools that (a) measure one or more components of the CRESST model of learning, (b) are stand-alone or integrate with other too..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

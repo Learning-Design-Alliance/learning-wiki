@@ -3,7 +3,7 @@ type: claim
 title: Internal organisational conditions strengthen internal social drivers promoting technological change
 description: Internal organisational conditions strengthen internal social drivers promoting technological change
 id: organisational-culture-sustainability-strengthen-social-drivers-ai-adoption
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

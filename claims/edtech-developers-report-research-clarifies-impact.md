@@ -3,7 +3,7 @@ type: claim
 title: "Certified edtech developers report that learning sciences research helps them name and evaluate their product's expected impact on learning"
 description: "Certified edtech developers report that learning sciences research helps them name and evaluate their product's expected impact on learning"
 id: edtech-developers-report-research-clarifies-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

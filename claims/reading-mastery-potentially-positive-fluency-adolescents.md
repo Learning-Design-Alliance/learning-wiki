@@ -3,7 +3,7 @@ type: claim
 title: Reading Mastery has potentially positive effects on reading fluency for adolescent learners, with a WWC improvement index of +19 percentile points
 description: Reading Mastery has potentially positive effects on reading fluency for adolescent learners, with a WWC improvement index of +19 percentile points
 id: reading-mastery-potentially-positive-fluency-adolescents
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -4,7 +4,7 @@ id: ai-see-framework
 title: AI-SEE framework
 description: The AI-SEE framework proposed by Feng Liu et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

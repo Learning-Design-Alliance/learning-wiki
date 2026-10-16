@@ -3,7 +3,7 @@ type: claim
 title: High school GPA predicts four-year college graduation more strongly than achievement test scores among Chicago graduates
 description: High school GPA predicts four-year college graduation more strongly than achievement test scores among Chicago graduates
 id: hsgpa-predicts-college-graduation-more-than-tests
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

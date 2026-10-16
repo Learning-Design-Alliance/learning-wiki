@@ -4,7 +4,7 @@ id: school-climate-index-sci
 title: School Climate Index (SCI)
 description: A California Department of Education Safe and Supportive Schools indicator that aggregates student self-report data to measure school climate across supports, engagement, safety, violence, victimization, substance use, and truancy.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

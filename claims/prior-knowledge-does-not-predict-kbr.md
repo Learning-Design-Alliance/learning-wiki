@@ -3,7 +3,7 @@ type: claim
 title: "Prior conceptual and procedural knowledge did not significantly predict tutors' proportion of knowledge-building responses"
 description: "Prior conceptual and procedural knowledge did not significantly predict tutors' proportion of knowledge-building responses"
 id: prior-knowledge-does-not-predict-kbr
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

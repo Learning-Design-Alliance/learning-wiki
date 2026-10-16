@@ -3,7 +3,7 @@ type: design
 id: wwc-compress-mainstream-developmental-education
 title: Compress or mainstream developmental education with course redesign
 description: The guide recommends compressing or mainstreaming developmental education through course redesign, an instructional intervention affecting the content and pacing of classroom instruction.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

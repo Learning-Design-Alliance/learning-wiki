@@ -3,7 +3,7 @@ type: design
 id: savvy-six-design-requirements-concept-group-individual
 title: Six design requirements organized by concept, group, and individual analysis objects for attention visualization
 description: "From a preliminary study with four education experts, the authors derived six design requirements (R1-R6) categorized by three analysis objects: the course concept, the student group, and the individual student."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

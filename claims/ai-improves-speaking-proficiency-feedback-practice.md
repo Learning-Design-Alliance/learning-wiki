@@ -3,7 +3,7 @@ type: claim
 title: AI-powered corrective feedback and repeated practice enhance oral language skills (Communicative Capacity Pathway)
 description: AI-powered corrective feedback and repeated practice enhance oral language skills (Communicative Capacity Pathway)
 id: ai-improves-speaking-proficiency-feedback-practice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

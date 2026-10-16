@@ -3,7 +3,7 @@ type: strategy
 id: staged-gai-permission-assessment-strategy
 title: "Stage GAI use in assessment: permit exploration, restrict independent reasoning, require justification"
 description: The article prescribes concrete ethical boundaries for GAI use within LEARN-informed assessment.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

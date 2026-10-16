@@ -3,7 +3,7 @@ type: claim
 title: Higher-achieving schools realized a bigger first-year reading benefit from the evaluation pilot than lower-achieving schools
 description: Higher-achieving schools realized a bigger first-year reading benefit from the evaluation pilot than lower-achieving schools
 id: eitp-heterogeneity-baseline-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

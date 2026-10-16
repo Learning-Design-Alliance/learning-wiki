@@ -3,7 +3,7 @@ type: claim
 title: "Pseudo-agency: students may appear engaged without understanding the epistemic purpose of their actions"
 description: "Pseudo-agency: students may appear engaged without understanding the epistemic purpose of their actions"
 id: pseudo-agency-surface-engagement-without-purpose
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Schools serving majority-Black students are overrepresented among closed schools pre- and post-pandemic
 description: Schools serving majority-Black students are overrepresented among closed schools pre- and post-pandemic
 id: majority-black-schools-overrepresented-closures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

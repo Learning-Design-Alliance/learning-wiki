@@ -3,7 +3,7 @@ type: claim
 title: "The dominant within-dimension noticing transition varied by week: attending in Week 1, interpreting in Week 2, and shaping in Week 3"
 description: "The dominant within-dimension noticing transition varied by week: attending in Week 1, interpreting in Week 2, and shaping in Week 3"
 id: dominant-transitions-vary-by-week
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

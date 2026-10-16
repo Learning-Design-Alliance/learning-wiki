@@ -3,7 +3,7 @@ type: claim
 title: Faculty opt-out of generative AI is more substantial than student non-use, with value-, identity- and risk-based reasons
 description: Faculty opt-out of generative AI is more substantial than student non-use, with value-, identity- and risk-based reasons
 id: faculty-ai-optout-shata-2025
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

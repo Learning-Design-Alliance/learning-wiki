@@ -4,7 +4,7 @@ id: little-books
 title: Little Books
 description: Little Books is a Good Year Books curriculum resource consisting of reproducible, illustrated beginning-reading books for interactive reading by parents with children or teachers with students.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -4,7 +4,7 @@ id: children-and-youth-behavioral-health-initiative-cybhi
 title: Children and Youth Behavioral Health Initiative (CYBHI)
 description: A California statewide initiative that builds an upstream behavioral-health ecosystem for children and youth through screening, prevention, treatment capacity, awareness, and access to evidence-based care.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

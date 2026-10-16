@@ -4,7 +4,7 @@ id: prisma-llm-16-item-universal-reporting-checklist
 title: PRISMA-LLM 16-item universal reporting checklist
 description: PRISMA-LLM is a 16-item reporting framework proposed by Zabaleta et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11
@@ -31,4 +31,4 @@ PRISMA-LLM is a 16-item reporting framework proposed by Zabaleta et al. for auth
 -
 
 ## Key Sources
-- Zabaleta, M. & Lin, B. (2026). PRISMA-LLM: An Empirical Reporting Framework for AI-Assisted Systematic Reviews. https://arxiv.org/abs/2609.11559
+- Zabaleta, M. & Lin, B. (2026). PRISMA-LLM: An Empirical Reporting Framework for AI-Assisted Systematic Reviews. https://arxiv.org/abs/2609.11559. [doi:10.48550/arxiv.2609.11559](https://doi.org/10.48550/arxiv.2609.11559)

@@ -3,7 +3,7 @@ type: claim
 title: A practice brief reviewing self-regulation interventions reports substantial benefits of mindfulness programs for cognitive and emotional regulation, stress and mental health in adolescents and young adults
 description: "A practice brief reviewing self-regulation interventions reports substantial benefits of mindfulness programs for cognitive and emotional regulation, stress and mental health in adolescents and young adults"
 id: mindfulness-programs-benefit-adolescent-regulation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

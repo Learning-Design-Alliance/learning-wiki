@@ -4,7 +4,7 @@ id: six-design-principles-for-summer-learning-and-beyond-framework
 title: Six Design Principles for Summer Learning and Beyond framework
 description: A framework developed by Summer Learning et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

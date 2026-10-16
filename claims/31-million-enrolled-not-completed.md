@@ -3,7 +3,7 @@ type: claim
 title: An estimated 31 million or more US students over the last 20 years enrolled in but did not complete post-secondary education
 description: An estimated 31 million or more US students over the last 20 years enrolled in but did not complete post-secondary education
 id: 31-million-enrolled-not-completed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

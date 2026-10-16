@@ -3,7 +3,7 @@ type: claim
 title: Colleges serving the highest shares of first-generation students tended to have larger adequacy gaps, spending $1,475 below projected adequate cost
 description: Colleges serving the highest shares of first-generation students tended to have larger adequacy gaps, spending $1,475 below projected adequate cost
 id: first-generation-larger-adequacy-gaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

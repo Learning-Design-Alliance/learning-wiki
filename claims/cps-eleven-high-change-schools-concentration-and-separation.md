@@ -3,7 +3,7 @@ type: claim
 title: Eleven struggling neighborhood high schools saw special education entry rise from 16 to 30 percent, and learning-disabled ninth graders were increasingly separated in English classrooms
 description: Eleven struggling neighborhood high schools saw special education entry rise from 16 to 30 percent, and learning-disabled ninth graders were increasingly separated in English classrooms
 id: cps-eleven-high-change-schools-concentration-and-separation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Four-day school week cost savings are relatively small but may help maintain instructional expenses during revenue shortages
 description: Four-day school week cost savings are relatively small but may help maintain instructional expenses during revenue shortages
 id: four-day-week-small-cost-savings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

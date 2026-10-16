@@ -58,8 +58,10 @@ Phoneme awareness is one of the best-established causal predictors of reading an
 6. Monitor progress with brief segmentation and spelling probes and regroup learners accordingly.
 
 ## Related Strategies
+
 - [Systematic Phonics Instruction](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) — the print-side counterpart; phoneme awareness training is most powerful when embedded in it
 - [Dictation and Spelling Practice](dictation.md) — applies segmentation to encoding
+- [Include phoneme awareness instruction in kindergarten beginning reading programs to improve early literacy outcomes](phoneme-awareness-instruction-in-kindergarten-beginning-reading.md)
 
 ## Examples
 - **Elkonin boxes** — learners push a counter into a box for each phoneme heard in a word, then replace counters with letters; a standard component of [Reading Recovery](https://readingrecovery.org) lessons.
@@ -68,7 +70,7 @@ Phoneme awareness is one of the best-established causal predictors of reading an
 - **"Sound workout" with manipulatives** — small-group sessions where learners represent each sound in a word with a block before spelling it.
 
 ## Key Sources
-- Ehri, L. C., Nunes, S. R., Willows, D. M., & Valeska Schuster, B. (2001). Phonemic awareness instruction helps children learn to read: Evidence from the National Reading Panel's meta-analysis. *Reading Research Quarterly, 36*(3), 250–287. [doi:10.1598/rrq.36.3.2](https://doi.org/10.1598/rrq.36.3.2)
+- Ehri, L. C., Nunes, S. R., Willows, D. M., Schuster, B. V., Yaghoub-Zadeh, Z., & Shanahan, T. (2001). Phonemic awareness instruction helps children learn to read: Evidence from the National Reading Panel's meta-analysis. *Reading Research Quarterly, 36*(3), 250–287. [doi:10.1598/rrq.36.3.2](https://doi.org/10.1598/rrq.36.3.2)
 - Bradley, L., & Bryant, P. E. (1983). Categorizing sounds and learning to read — a causal connection. *Nature, 301*, 419–421. [doi:10.1038/301419a0](https://doi.org/10.1038/301419a0)
 - Melby-Lervåg, M., Hulme, C., & Halaas Lyster, S.-A. (2012). Phonological skills and their role in learning to read: A meta-analytic review. *Psychological Bulletin, 138*(2), 322–352. [doi:10.1037/a0026744](https://doi.org/10.1037/a0026744)
 - National Reading Panel. (2000). *Teaching children to read: An evidence-based assessment of the scientific research literature on reading and its implications for reading instruction.* National Institute of Child Health and Human Development.

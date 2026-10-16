@@ -3,7 +3,7 @@ type: claim
 title: "All learning transitions in participants' stories were intersectional, dynamic, and nonlinear"
 description: "All learning transitions in participants' stories were intersectional, dynamic, and nonlinear"
 id: learning-transitions-intersectional-nonlinear
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

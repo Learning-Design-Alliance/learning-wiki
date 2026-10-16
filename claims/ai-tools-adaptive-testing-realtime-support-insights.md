@@ -3,7 +3,7 @@ type: claim
 title: AI-enhanced assessment tools are reported to facilitate adaptive testing, real-time learner support, and data-driven insights
 description: AI-enhanced assessment tools are reported to facilitate adaptive testing, real-time learner support, and data-driven insights
 id: ai-tools-adaptive-testing-realtime-support-insights
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
@@ -51,3 +51,4 @@ This narrative synthesis reports that "AI-enhanced tools facilitate adaptive tes
 - [AI-supported adaptive systems are reported to enhance adult learner engagement, motivation, and outcomes when aligned with learner goals and prior knowledge](ai-adaptive-systems-enhance-adult-engagement.md) — related
 - [Reviewed literature identifies personalisation, adaptive support, rapid feedback, and teacher-facing automation as recurring pedagogical opportunities of AI in mathematics education](ai-math-pedagogical-opportunities-personalisation-feedback.md) — related
 - [Interest in AI for feedback in higher education is driven by workload reduction and feedback timeliness amid massification](ai-feedback-interest-workload-timeliness.md) — related
+- [AI chatbots support skills development in writing, problem-solving, and group discussion facilitation](chatbot-skills-development.md) — a narrower finding that bears on this claim

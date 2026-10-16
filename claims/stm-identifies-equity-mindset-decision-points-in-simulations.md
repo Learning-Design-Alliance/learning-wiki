@@ -3,7 +3,7 @@ type: claim
 title: Structural topic modeling identifies simulation decision points indicative of different equity mindsets across four digital teaching simulations
 description: Structural topic modeling identifies simulation decision points indicative of different equity mindsets across four digital teaching simulations
 id: stm-identifies-equity-mindset-decision-points-in-simulations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

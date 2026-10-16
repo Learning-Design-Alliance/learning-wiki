@@ -3,7 +3,7 @@ type: claim
 title: "Washington charter students' overall annual reading and math gains do not differ statistically from matched TPS peers"
 description: "Washington charter students' overall annual reading and math gains do not differ statistically from matched TPS peers"
 id: wa-charter-overall-gains-no-significant-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

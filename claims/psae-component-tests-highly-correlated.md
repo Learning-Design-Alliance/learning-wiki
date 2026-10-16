@@ -3,7 +3,7 @@ type: claim
 title: PSAE component-test scores are highly correlated within and across subjects, with ACT science and ISBE science correlating at r = 0.74 in 2004
 description: PSAE component-test scores are highly correlated within and across subjects, with ACT science and ISBE science correlating at r = 0.74 in 2004
 id: psae-component-tests-highly-correlated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

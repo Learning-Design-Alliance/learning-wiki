@@ -3,7 +3,7 @@ type: claim
 title: Students want ongoing targeted formative feedback, but faculty time constraints and large class sizes limit providing it
 description: Students want ongoing targeted formative feedback, but faculty time constraints and large class sizes limit providing it
 id: formative-feedback-constraints-gateway-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

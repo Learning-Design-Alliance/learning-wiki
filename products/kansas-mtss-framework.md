@@ -4,7 +4,7 @@ id: kansas-mtss-framework
 title: Kansas MTSS framework
 description: A statewide multi-tiered system of support framework developed and implemented by the Kansas State Department of Education to coordinate academic and behavioral supports for K–12 students.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

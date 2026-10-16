@@ -3,7 +3,7 @@ type: strategy
 id: two-part-preparation-wilderness-program
 title: "Structure adventure programs in two parts: preparation and training phase followed by the wilderness project"
 description: "The paper recommends that programs using the empowerment method have two parts: preparation and training for the wilderness project, then the actual undertaking of the project."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

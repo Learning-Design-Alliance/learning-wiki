@@ -3,7 +3,7 @@ type: claim
 title: Adding a second writing agent increased reported cognitive load, and writing confidence did not increase monotonically with support, with the Single condition reporting the lowest confidence
 description: Adding a second writing agent increased reported cognitive load, and writing confidence did not increase monotonically with support, with the Single condition reporting the lowest confidence
 id: second-agent-increases-cognitive-load-writing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

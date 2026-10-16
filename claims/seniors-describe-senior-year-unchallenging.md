@@ -3,7 +3,7 @@ type: claim
 title: Most interviewed CPS seniors describe senior year as unchallenging and easier than previous years
 description: Most interviewed CPS seniors describe senior year as unchallenging and easier than previous years
 id: seniors-describe-senior-year-unchallenging
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

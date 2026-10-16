@@ -3,7 +3,7 @@ type: strategy
 id: stage-matched-teacher-education-policy
 title: "Match teacher education, mentoring, and evaluation to developmental stage: routines and scripts for novices, analytical mentors from the competent and proficient, and stage-appropriate evaluation"
 description: "The article's policy section recommends that early training concentrate on perceptual training and identifying instances of concepts, that novices be given 'standard lesson forms and scripts' and practice in routines,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

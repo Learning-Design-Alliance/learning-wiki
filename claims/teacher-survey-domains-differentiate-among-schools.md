@@ -3,7 +3,7 @@ type: claim
 title: Most teacher survey domains and scales used by DCPS meaningfully differentiate among schools
 description: Most teacher survey domains and scales used by DCPS meaningfully differentiate among schools
 id: teacher-survey-domains-differentiate-among-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

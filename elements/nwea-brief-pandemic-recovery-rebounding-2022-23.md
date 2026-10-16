@@ -3,7 +3,7 @@ type: element
 id: nwea-brief-pandemic-recovery-rebounding-2022-23
 title: Research brief on progress towards pandemic recovery at the start of the 2022-23 school year
 description: A research brief by Megan Kuhfeld and Karyn Lewis examining achievement trends as students returned for the 2022-23 school year after COVID-19 disruptions.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

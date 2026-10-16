@@ -3,7 +3,7 @@ type: claim
 title: Engagement peaked at the middle of the Mindsets program and declined slightly by post-test, showing a significant negative quadratic trend
 description: Engagement peaked at the middle of the Mindsets program and declined slightly by post-test, showing a significant negative quadratic trend
 id: mindsets-engagement-peaks-midpoint
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

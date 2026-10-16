@@ -3,7 +3,7 @@ type: claim
 title: "Graduation disparities: 69% of 12th-grade LTEL7 students attained a high school diploma compared to 86% of other ever-EL peers"
 description: "Graduation disparities: 69% of 12th-grade LTEL7 students attained a high school diploma compared to 86% of other ever-EL peers"
 id: ltel7-graduation-disparities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

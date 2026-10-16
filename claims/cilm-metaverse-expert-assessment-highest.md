@@ -3,7 +3,7 @@ type: claim
 title: Experts rate the constructionism imagineering learning model via metaverse as appropriate at the highest level (Mean = 4.74, S.D. = 0.05)
 description: Experts rate the constructionism imagineering learning model via metaverse as appropriate at the highest level (Mean = 4.74, S.D.
 id: cilm-metaverse-expert-assessment-highest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

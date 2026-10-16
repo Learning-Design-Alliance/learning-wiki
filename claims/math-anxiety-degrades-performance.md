@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

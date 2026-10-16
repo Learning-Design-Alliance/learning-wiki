@@ -3,7 +3,7 @@ type: claim
 title: Academics and students experienced both positive and negative emotions in relation to GenAI.
 description: Academics and students experienced both positive and negative emotions in relation to GenAI.
 id: genai-assessment-positive-negative-emotions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

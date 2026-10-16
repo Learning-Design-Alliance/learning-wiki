@@ -3,7 +3,7 @@ type: claim
 title: In Kentucky, educators used micro-credentials to advance from Rank II to Rank I, increasing their yearly salaries
 description: In Kentucky, educators used micro-credentials to advance from Rank II to Rank I, increasing their yearly salaries
 id: kvec-microcredentials-teacher-rank-and-salary-increase
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

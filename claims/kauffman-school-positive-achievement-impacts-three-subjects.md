@@ -4,7 +4,7 @@ title: The Kauffman School had positive, statistically significant, educationall
 description: The Kauffman School had positive, statistically significant, educationally meaningful impacts on student achievement growth in mathematics, reading, and science during 2011-2012 through 2013-2014
 id: kauffman-school-positive-achievement-impacts-three-subjects
 aliases: [kauffman-school-significant-achievement-impacts-first-three-years, kauffman-school-positive-achievement-impacts-math-reading-science]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

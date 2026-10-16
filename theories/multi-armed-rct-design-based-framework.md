@@ -2,7 +2,7 @@
 type: theory
 title: Multi-armed RCT design-based framework for examining multiple interventions in a single study
 description: "The report presents a design-based framework for multi-armed randomized controlled trials, which are \"becoming increasingly common in social policy research to simultaneously examine the effects of multiple interventi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

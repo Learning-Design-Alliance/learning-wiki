@@ -3,7 +3,7 @@ type: strategy
 id: during-study-regular-visits-giving-back
 title: During a study, researchers should visit regularly, give back to the school community, minimize classroom disruption, and share initial data for feedback
 description: "This strategy keeps researchers present and useful throughout data collection: visit regularly not only to collect data but to continue conversations, get to know the school environment, and give back; be unintrusive..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

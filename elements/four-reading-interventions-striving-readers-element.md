@@ -3,7 +3,7 @@ type: element
 id: four-reading-interventions-striving-readers-element
 title: "Four remedial reading interventions for striving readers: Corrective Reading, Failure Free Reading, Spell Read P.A.T., and Wilson Reading"
 description: The evaluation employed parts or all of four existing, widely used remedial reading programs delivered to struggling third and fifth graders in groups of three for about 90 hours over the school year.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

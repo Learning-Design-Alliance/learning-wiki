@@ -2,7 +2,7 @@
 type: theory
 title: "Similarity account: first and adult second language acquisition are neither wholly identical nor wholly different, but similar"
 description: The article proposes that adult second language acquisition resembles child first language acquisition in key respects without being identical to it.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

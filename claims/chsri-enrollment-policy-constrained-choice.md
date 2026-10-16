@@ -3,7 +3,7 @@ type: claim
 title: Enrollment policies forcing small schools to accept unassigned neighborhood students constrained the benefits of choice and pushed freshman enrollment above the 125-student cap
 description: Enrollment policies forcing small schools to accept unassigned neighborhood students constrained the benefits of choice and pushed freshman enrollment above the 125-student cap
 id: chsri-enrollment-policy-constrained-choice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

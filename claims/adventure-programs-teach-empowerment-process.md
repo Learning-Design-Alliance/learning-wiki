@@ -3,7 +3,7 @@ type: claim
 title: Adventure programs can be designed to teach participants a transferable empowerment process, not only deliver an intervention
 description: Adventure programs can be designed to teach participants a transferable empowerment process, not only deliver an intervention
 id: adventure-programs-teach-empowerment-process
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

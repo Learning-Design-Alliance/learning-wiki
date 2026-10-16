@@ -3,7 +3,7 @@ type: claim
 title: "Interest tailoring was structurally present in AI-generated readings: logs averaged 52.24 tailoring markers per 10,000 words and showed moderate divergence (cosine similarity 0.50–0.61)"
 description: "Interest tailoring was structurally present in AI-generated readings: logs averaged 52.24 tailoring markers per 10,000 words and showed moderate divergence (cosine similarity 0.50–0.61)"
 id: interest-tailoring-structural-in-reading-logs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "Students' evaluation of group processing as a positive contribution to learning increased significantly from the beginning to the end of the course and again to the time of survey"
 description: "Students' evaluation of group processing as a positive contribution to learning increased significantly from the beginning to the end of the course and again to the time of survey"
 id: group-processing-perceived-value-increases-over-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

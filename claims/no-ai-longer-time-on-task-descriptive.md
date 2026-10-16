@@ -3,7 +3,7 @@ type: claim
 title: No AI participants spent roughly 1.5 times as long on the assessment as AI-Assisted participants, descriptively reported as a marker of offloading
 description: No AI participants spent roughly 1.5 times as long on the assessment as AI-Assisted participants, descriptively reported as a marker of offloading
 id: no-ai-longer-time-on-task-descriptive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

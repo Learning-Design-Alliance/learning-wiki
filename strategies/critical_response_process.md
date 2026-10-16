@@ -42,7 +42,7 @@ CRP operationalizes learner agency in feedback, which matters because feedback t
 ### Target Learners
 - Advanced learners (upper-level undergraduates, graduate students, professionals) revising substantial creative or scholarly work
 - Learners in studio, workshop, or peer-review contexts where work is shown before completion
-- Less appropriate for novices who lack the vocabulary to formulate questions about their own work; they may need prior exposure to [Peer Feedback/Peer Review](../elements/peer-feedbackpeer-review.md) conventions
+- Less appropriate for novices who lack the vocabulary to formulate questions about their own work; they may need prior exposure to [Peer Feedback/Peer Review](../elements/peer-review.md) conventions
 
 ### Target Learning Goals
 - Revision skill: using feedback to improve work-in-progress
@@ -63,7 +63,7 @@ CRP operationalizes learner agency in feedback, which matters because feedback t
 - [Workshop Model](../patterns/workshop-model.md) — CRP supplies the feedback protocol within writing and studio workshops
 
 ## Related Elements
-- [Peer Feedback/Peer Review](../elements/peer-feedbackpeer-review.md) — the broader practice CRP structures and disciplines
+- [Peer Feedback/Peer Review](../elements/peer-review.md) — the broader practice CRP structures and disciplines
 - [Peer Discussion](../elements/peer-discussion.md) — the conversational medium through which each step runs
 - [Provide Feedback](../elements/provide-feedback.md) — the generic element CRP restructures around learner agency
 

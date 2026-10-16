@@ -5,7 +5,7 @@ aliases:
   - early-warning-and-college-readiness-indicator-construction
 title: Early-warning indicator construction
 description: "A Consortium report cited in the paper outlines five characteristics of effective indicators: predictiveness, usability and clarity, real time/right time availability, direct causal linkage to outcomes, and malleability."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

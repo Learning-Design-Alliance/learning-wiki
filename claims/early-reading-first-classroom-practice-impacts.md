@@ -3,7 +3,7 @@ type: claim
 title: Early Reading First improved instructional content and practices in preschool classrooms
 description: Early Reading First improved instructional content and practices in preschool classrooms
 id: early-reading-first-classroom-practice-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Syllable awareness is a strong and prominent predictor of Spanish reading development
 description: Syllable awareness is a strong and prominent predictor of Spanish reading development
 id: syllable-awareness-strong-predictor-spanish-reading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

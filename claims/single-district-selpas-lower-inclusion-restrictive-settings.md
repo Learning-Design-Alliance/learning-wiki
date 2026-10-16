@@ -3,7 +3,7 @@ type: claim
 title: Single-district SELPAs had meaningfully lower inclusion rates, with a higher proportion of students with disabilities in general education less than 40 percent of the school day
 description: Single-district SELPAs had meaningfully lower inclusion rates, with a higher proportion of students with disabilities in general education less than 40 percent of the school day
 id: single-district-selpas-lower-inclusion-restrictive-settings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: design
 id: small-group-station-rotation-tier2-reading
 title: Small-group station rotation for Tier 2 reading intervention
 description: The program organizes intervention as rotation of small groups of four students through instructional stations.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-07

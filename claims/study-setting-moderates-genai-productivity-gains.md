@@ -3,7 +3,7 @@ type: claim
 title: "Study setting significantly moderates GenAI productivity effects: laboratory experiments show large significant gains (g = 0.73) while enterprise (g = 0.19) and open-source (g = 0.01) effects are substantially smaller and non-significant."
 description: "Study setting significantly moderates GenAI productivity effects: laboratory experiments show large significant gains (g = 0.73) while enterprise (g = 0.19) and open-source (g = 0.01) effects are substantially smaller..."
 id: study-setting-moderates-genai-productivity-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

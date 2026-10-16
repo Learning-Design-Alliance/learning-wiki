@@ -4,7 +4,7 @@ title: KIPP charter middle schools produce positive, statistically significant t
 description: KIPP charter middle schools produce positive, statistically significant test-score effects in reading, math, science, and social studies
 id: kipp-middle-schools-positive-significant-achievement-effects
 aliases: [kipp-middle-schools-significant-achievement-gains]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

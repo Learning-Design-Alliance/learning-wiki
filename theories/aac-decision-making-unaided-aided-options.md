@@ -2,7 +2,7 @@
 type: theory
 title: AAC decision-making framework organized around unaided versus aided system options
 description: "The article organizes AAC selection as a decision process across decision points, grounded in the taxonomy that \"AAC systems can be divided into two broad categories, unaided and aided.\" Unaided AAC involves symbols s..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

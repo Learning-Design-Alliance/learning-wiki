@@ -3,7 +3,7 @@ type: claim
 title: "Individual teachers' concern profiles vary widely and can diverge from group trends during implementation"
 description: "Individual teachers' concern profiles vary widely and can diverge from group trends during implementation"
 id: individual-concern-profiles-vary-widely
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

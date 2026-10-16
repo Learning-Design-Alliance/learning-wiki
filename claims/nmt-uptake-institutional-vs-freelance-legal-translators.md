@@ -3,7 +3,7 @@ type: claim
 title: "NMT uptake in institutional legal translation is high (ca. 80%) but much lower among UK-based freelance translators (41%)"
 description: NMT uptake in institutional legal translation is high (ca.
 id: nmt-uptake-institutional-vs-freelance-legal-translators
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

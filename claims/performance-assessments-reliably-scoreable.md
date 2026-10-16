@@ -3,7 +3,7 @@ type: claim
 title: Performance assessments can be reliably scored when designed appropriately and used with other measures
 description: Performance assessments can be reliably scored when designed appropriately and used with other measures
 id: performance-assessments-reliably-scoreable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

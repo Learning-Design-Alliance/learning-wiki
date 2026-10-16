@@ -3,7 +3,7 @@ type: claim
 title: Authorship captures a more distinct aspect of artistic evaluation than other performance dimensions
 description: Authorship captures a more distinct aspect of artistic evaluation than other performance dimensions
 id: authorship-distinct-performance-dimension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

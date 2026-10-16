@@ -3,7 +3,7 @@ type: claim
 title: "The Illinois State Board of Education's graduation-rate method overestimates graduation rates where large numbers of students transfer between schools, as in Chicago"
 description: "The Illinois State Board of Education's graduation-rate method overestimates graduation rates where large numbers of students transfer between schools, as in Chicago"
 id: isbe-method-overestimates-graduation-rate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

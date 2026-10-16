@@ -3,7 +3,7 @@ type: claim
 title: "The share of new math and science teachers entering on substandard credentials doubled from about 20% to 40% between 2011–12 and 2015–16 while fully credentialed entrants dropped from 3,200 to 2,200"
 description: "The share of new math and science teachers entering on substandard credentials doubled from about 20% to 40% between 2011–12 and 2015–16 while fully credentialed entrants dropped from 3,200 to 2,200"
 id: math-science-prepared-pipeline-shrinking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

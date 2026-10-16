@@ -3,7 +3,7 @@ type: claim
 title: Concurrent calibration yielded consistently lower and less fluctuating scale score means than separate calibration with chain or simultaneous equating, especially for older tests
 description: Concurrent calibration yielded consistently lower and less fluctuating scale score means than separate calibration with chain or simultaneous equating, especially for older tests
 id: concurrent-calibration-lower-scale-means-older-tests
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

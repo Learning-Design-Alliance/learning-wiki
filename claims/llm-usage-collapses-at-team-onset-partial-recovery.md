@@ -3,7 +3,7 @@ type: claim
 title: Self-reported LLM usage collapses at the first team milestone and recovers only partially on later coding-heavy team tasks
 description: Self-reported LLM usage collapses at the first team milestone and recovers only partially on later coding-heavy team tasks
 id: llm-usage-collapses-at-team-onset-partial-recovery
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

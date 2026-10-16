@@ -3,7 +3,7 @@ type: claim
 title: "BIPOC solution providers' motivations blend general prosociality with equity and social justice purposes"
 description: "BIPOC solution providers' motivations blend general prosociality with equity and social justice purposes"
 id: bipoc-provider-motivations-prosociality-equity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

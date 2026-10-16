@@ -3,7 +3,7 @@ type: strategy
 id: differentiated-scaffolding-by-initial-ct-level
 title: "Differentiate CT scaffolding by initial CT level: open-ended challenges for moderate-CT, constraint-based tasks for high-CT, structured pathways for low-CT learners"
 description: "Based on the Optimal Development Zone finding, the authors recommend differentiated scaffolding in CT education: \"moderate-CT students benefit from open-ended challenges; high-CT students need constraint-based tasks;..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

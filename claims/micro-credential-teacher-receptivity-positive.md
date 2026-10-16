@@ -3,7 +3,7 @@ type: claim
 title: Teachers participating in the micro-credential collaborative reported positive receptivity, with 84 percent agreeing micro-credentials were significant to their computational thinking learning
 description: Teachers participating in the micro-credential collaborative reported positive receptivity, with 84 percent agreeing micro-credentials were significant to their computational thinking learning
 id: micro-credential-teacher-receptivity-positive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

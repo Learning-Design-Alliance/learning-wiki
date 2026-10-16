@@ -3,7 +3,7 @@ type: claim
 title: Knowing AI could complete assignments made the cost of independent programming effort feel less worthwhile to strongly motivated students
 description: Knowing AI could complete assignments made the cost of independent programming effort feel less worthwhile to strongly motivated students
 id: ai-alternative-demoralizes-effort-cost
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

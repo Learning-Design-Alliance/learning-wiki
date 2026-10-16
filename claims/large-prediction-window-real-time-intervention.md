@@ -3,7 +3,7 @@ type: claim
 title: The approach offers a large real-time intervention window, with a median of 176.2-196.1 hours between the prediction point and the final problem deadline
 description: The approach offers a large real-time intervention window, with a median of 176.2-196.1 hours between the prediction point and the final problem deadline
 id: large-prediction-window-real-time-intervention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: SRL skills and prior knowledge predict revision performance, while SRL predicts higher and prior knowledge lower cognitive load
 description: SRL skills and prior knowledge predict revision performance, while SRL predicts higher and prior knowledge lower cognitive load
 id: learner-characteristics-predict-ai-collaboration-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: When a strong sense of self-efficacy is accompanied by sustained student effort, better academic achievement is likely
 description: When a strong sense of self-efficacy is accompanied by sustained student effort, better academic achievement is likely
 id: self-efficacy-with-sustained-effort-better-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

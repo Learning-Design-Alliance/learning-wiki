@@ -3,7 +3,7 @@ type: strategy
 id: staged-readiness-policy-clarity-before-scale-up
 title: "Staged readiness strategy: establish policy clarity and faculty capacity-building before ambitious AI-enabled or online scale-up"
 description: The article recommends that institutions sequence AI and online expansion so that governance and faculty development precede scale.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

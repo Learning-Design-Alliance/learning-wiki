@@ -3,7 +3,7 @@ type: claim
 title: "The study is the first to examine whether PARCC assessments identify students who are ready for college, and it informed Massachusetts's decision between MCAS and PARCC"
 description: "The study is the first to examine whether PARCC assessments identify students who are ready for college, and it informed Massachusetts's decision between MCAS and PARCC"
 id: first-study-parcc-college-readiness-massachusetts-decision
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

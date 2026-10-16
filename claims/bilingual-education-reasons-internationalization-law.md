@@ -3,7 +3,7 @@ type: claim
 title: Reasons for applying bilingual education in Indonesian universities are internationalization, foreign language competencies, and law implementation
 description: Reasons for applying bilingual education in Indonesian universities are internationalization, foreign language competencies, and law implementation
 id: bilingual-education-reasons-internationalization-law
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

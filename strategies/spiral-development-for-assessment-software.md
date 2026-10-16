@@ -3,7 +3,7 @@ type: strategy
 id: spiral-development-for-assessment-software
 title: Use a spiral development model with periodic prototype deliveries for assessment software
 description: "Because the assessment software will have evolving requirements, the report adopts a spiral development model: \"The spiral model minimizes risks through incremental development of software.\" Periodic prototype deliver..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

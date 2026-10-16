@@ -3,7 +3,7 @@ type: strategy
 id: task-analysis-training-indigenous-educators
 title: Train indigenous adult educators in task analysis to build state needs-assessment capability
 description: "After judging the contracted region-wide needs assessment inadequate, the project shifted to building local capability: during the first year, with the Associate Director's assistance, it ran task analysis training se..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

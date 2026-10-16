@@ -4,7 +4,7 @@ id: california-golden-state-teacher-grant-gstg-program
 title: California Golden State Teacher Grant (GSTG) Program
 description: A California Student Aid Commission programme that provides grants to teacher and Pupil Personnel Services candidates in exchange for service in priority schools or California State Preschool Programs.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: The Universal ESA amount exceeds per-pupil district funding, so elementary students leaving district schools each add $425 in state cost, while students leaving charter schools save the state $752 each
 description: The Universal ESA amount exceeds per-pupil district funding, so elementary students leaving district schools each add $425 in state cost, while students leaving charter schools save the state $752 each
 id: universal-esa-exceeds-district-funding-cost-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

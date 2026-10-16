@@ -3,7 +3,7 @@ type: claim
 title: Gender differences in ninth-grade math grades were similar across racial/ethnic groups, with young men earning fewer points in every group
 description: Gender differences in ninth-grade math grades were similar across racial/ethnic groups, with young men earning fewer points in every group
 id: gender-grade-gap-similar-across-race-ethnicity-ninth-grade-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

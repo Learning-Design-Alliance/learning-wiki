@@ -3,7 +3,7 @@ type: claim
 title: "Cosine similarity has opposing effects on LLM coding accuracy: lower similarity within codebooks helps, higher similarity within excerpts helps"
 description: "Cosine similarity has opposing effects on LLM coding accuracy: lower similarity within codebooks helps, higher similarity within excerpts helps"
 id: claim-opposing-cosine-similarity-codebook-excerpt
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

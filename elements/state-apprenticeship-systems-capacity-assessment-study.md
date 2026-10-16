@@ -3,7 +3,7 @@ type: element
 id: state-apprenticeship-systems-capacity-assessment-study
 title: State Apprenticeship Systems Capacity Assessment study
 description: A multi-publication evidence-building study examining how the public sector and its partners support and implement Registered Apprenticeship programs across US states.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

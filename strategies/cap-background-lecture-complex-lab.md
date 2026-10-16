@@ -3,7 +3,7 @@ type: strategy
 id: cap-background-lecture-complex-lab
 title: Cap the background lecture for a complex research-based lab at about an hour and expect students to ask questions while working
 description: For labs whose background differs greatly from other experiments, the authors recommend aiming for concision in the lab lecture.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
@@ -43,4 +43,4 @@ For labs whose background differs greatly from other experiments, the authors re
 -
 
 ## Key Sources
-- Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985
+- Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985. [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)

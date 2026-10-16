@@ -3,7 +3,7 @@ type: claim
 title: Multiple student survey measures negatively predicted GPA; significant negative associations were otherwise rare
 description: Multiple student survey measures negatively predicted GPA; significant negative associations were otherwise rare
 id: student-survey-measures-negative-gpa-prediction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

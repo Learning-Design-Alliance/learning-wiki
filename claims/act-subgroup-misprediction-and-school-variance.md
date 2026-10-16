@@ -3,7 +3,7 @@ type: claim
 title: ACT scores show significant subgroup misprediction by race, ethnicity, and gender that HSGPA models do not, and school-level variance is smaller among students with the same ACT score than the same HSGPA
 description: ACT scores show significant subgroup misprediction by race, ethnicity, and gender that HSGPA models do not, and school-level variance is smaller among students with the same ACT score than the same HSGPA
 id: act-subgroup-misprediction-and-school-variance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

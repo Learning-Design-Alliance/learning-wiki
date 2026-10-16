@@ -3,7 +3,7 @@ type: claim
 title: Longer-run effects of targeted secondary interventions are small and not statistically significant, with only seven studies providing follow-up evidence
 description: Longer-run effects of targeted secondary interventions are small and not statistically significant, with only seven studies providing follow-up evidence
 id: long-run-effects-null-seven-studies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

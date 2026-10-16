@@ -3,7 +3,7 @@ type: design
 id: four-step-formative-assessment-cycle-assistments
 title: "Four-step formative assessment cycle: create assignments, assist students through immediate feedback, assess class performance, analyze answers together"
 description: "The report organizes the intervention around a \"4-step formative assessment process (Heritage & Popham, 2013) that is integrated throughout the ASSISTments platform\": (1) create assignments aligned with grade-level st..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

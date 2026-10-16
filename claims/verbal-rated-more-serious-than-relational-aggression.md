@@ -3,7 +3,7 @@ type: claim
 title: "More teachers rate verbal aggression as serious (38.6%) than rate relational aggression as very serious (23.8%)"
 description: "More teachers rate verbal aggression as serious (38.6%) than rate relational aggression as very serious (23.8%)"
 id: verbal-rated-more-serious-than-relational-aggression
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

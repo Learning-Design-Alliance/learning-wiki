@@ -3,7 +3,7 @@ type: strategy
 id: faculty-development-ai-literacy-support
 title: Support faculty AI literacy through needs assessment, targeted training, teaching resources, and communities of practice
 description: The chapter treats faculty development as crucial to implementing the framework.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

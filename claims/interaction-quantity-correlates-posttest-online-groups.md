@@ -3,7 +3,7 @@ type: claim
 title: Higher numbers of interactions are associated with higher posttest scores in asynchronous online small group work
 description: Higher numbers of interactions are associated with higher posttest scores in asynchronous online small group work
 id: interaction-quantity-correlates-posttest-online-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

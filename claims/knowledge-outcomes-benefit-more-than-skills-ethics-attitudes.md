@@ -3,7 +3,7 @@ type: claim
 title: "Learning outcome focus significantly moderates effects: knowledge outcomes benefit more than skills, attitudes, or ethics"
 description: "Learning outcome focus significantly moderates effects: knowledge outcomes benefit more than skills, attitudes, or ethics"
 id: knowledge-outcomes-benefit-more-than-skills-ethics-attitudes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: School-level constraints prevented two of nine sites from using the four-part written praise strategy
 description: School-level constraints prevented two of nine sites from using the four-part written praise strategy
 id: school-constraints-blocked-written-praise-two-sites
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

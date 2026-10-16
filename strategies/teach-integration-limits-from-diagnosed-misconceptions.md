@@ -3,7 +3,7 @@ type: strategy
 id: teach-integration-limits-from-diagnosed-misconceptions
 title: Draw on diagnosed errors and misconceptions to inform the teaching of integration and limits
 description: "The article's teaching recommendation is that instruction in integration and limits should be informed by what clinical analysis reveals about students' understanding."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

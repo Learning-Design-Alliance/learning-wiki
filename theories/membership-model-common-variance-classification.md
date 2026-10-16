@@ -2,7 +2,7 @@
 type: theory
 title: Membership model for classifying individuals into the common variance model
 description: A companion model to the Bayes factor test that moves from testing the average assumption to person-level classification.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

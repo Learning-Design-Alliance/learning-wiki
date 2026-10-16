@@ -3,7 +3,7 @@ type: claim
 title: Students report higher engagement and motivation with the AI tutor, with comparable enjoyment and growth mindset
 description: Students report higher engagement and motivation with the AI tutor, with comparable enjoyment and growth mindset
 id: ai-tutor-engagement-motivation-higher
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

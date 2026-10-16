@@ -3,7 +3,7 @@ type: strategy
 id: use-lou-data-for-change-monitoring-and-staff-development
 title: Use LoU data to monitor implementation, plan staff development, select research samples, and evaluate programs
 description: "The article recommends LoU Interview data as a practical tool for change agents: administrators need degree of implementation \"to make intelligent decisions about resources, support, and training\", and evaluators need..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

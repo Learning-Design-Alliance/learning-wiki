@@ -3,7 +3,7 @@ type: claim
 title: "Using an LLM debugging assistant boosts a student's confidence and reduces frustration during debugging"
 description: "Using an LLM debugging assistant boosts a student's confidence and reduces frustration during debugging"
 id: llm-assistant-boosts-debugging-confidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

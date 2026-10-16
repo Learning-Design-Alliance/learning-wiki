@@ -3,7 +3,7 @@ type: claim
 title: Maintaining motivation was the most prevalent non-technology challenge students faced learning at a distance
 description: Maintaining motivation was the most prevalent non-technology challenge students faced learning at a distance
 id: motivation-most-prevalent-remote-challenge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

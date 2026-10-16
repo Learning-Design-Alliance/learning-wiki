@@ -3,7 +3,7 @@ type: strategy
 id: principal-buy-in-ally-for-vendor-programs
 title: Secure principal buy-in and an in-school ally before launching external vendor programs in schools
 description: Vendor focus groups and principal/coordinator surveys indicated that external programs succeed when a committed principal and an in-school ally support them.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

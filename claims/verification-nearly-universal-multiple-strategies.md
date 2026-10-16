@@ -3,7 +3,7 @@ type: claim
 title: Verification is nearly universal among LLM users, and most students combine multiple verification strategies rather than relying on a single one
 description: Verification is nearly universal among LLM users, and most students combine multiple verification strategies rather than relying on a single one
 id: verification-nearly-universal-multiple-strategies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -18,8 +18,8 @@ sources:
     kind: associational
     rigour: 1
   - id: nizamani-2026-2
-    resource: "https://arxiv.org/abs/2610.01158"
-    title: "Nizamani, S. B., Lee, Y., Donekal Chandrashekar, N., Ellis, M., & Ramakrishnan, N. (2026). Understanding Student Use of Large Language Models Across Computer Science Subfields. https://arxiv.org/abs/2610.01158"
+    resource: "https://doi.org/10.48550/arxiv.2610.01158"
+    title: "Nizamani, S. B., Lee, Y., Donekal Chandrashekar, N., Ellis, M., & Ramakrishnan, N. (2026). Understanding Student Use of Large Language Models Across Computer Science Subfields. https://arxiv.org/abs/2610.01158. [doi:10.48550/arxiv.2610.01158](https://doi.org/10.48550/arxiv.2610.01158)"
     author: "Nizamani, S. B., Lee, Y., Donekal Chandrashekar, N., Ellis, M., & Ramakrishnan, N."
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Verification is nearly universal among LLM users, and most students combine multiple verification strategies rather than relying on a single one
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1` · `q3`
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` 93%–100% of LLM users reported at least one verification method, with non-verification ranging from 0% to 8% and varying significantly across assignments (χ2 = 13.95, df = 6, p = 0.030). [→ Nizamani 2026](#nizamani-2026)
@@ -50,7 +50,7 @@ Descriptive analysis of non-verification among LLM users across the seven assign
 
 ### Nizamani 2026 (2)
 
-Nizamani, S. B., Lee, Y., Donekal Chandrashekar, N., Ellis, M., & Ramakrishnan, N. (2026). Understanding Student Use of Large Language Models Across Computer Science Subfields. https://arxiv.org/abs/2610.01158
+Nizamani, S. B., Lee, Y., Donekal Chandrashekar, N., Ellis, M., & Ramakrishnan, N. (2026). Understanding Student Use of Large Language Models Across Computer Science Subfields. https://arxiv.org/abs/2610.01158. [doi:10.48550/arxiv.2610.01158](https://doi.org/10.48550/arxiv.2610.01158)
 
 `q3 · i?` · `associational · r1`
 

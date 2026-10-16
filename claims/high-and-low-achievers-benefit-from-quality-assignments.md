@@ -4,7 +4,7 @@ title: Both high- and low-prior-achieving students benefited from exposure to hi
 description: Both high- and low-prior-achieving students benefited from exposure to high-quality assignments
 id: high-and-low-achievers-benefit-from-quality-assignments
 aliases: [demanding-assignments-benefit-all-achievement-levels]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

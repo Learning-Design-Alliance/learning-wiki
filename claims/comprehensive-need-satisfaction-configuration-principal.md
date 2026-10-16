@@ -3,7 +3,7 @@ type: claim
 title: The comprehensive psychological need satisfaction configuration (competence core) has the highest coverage for high learning engagement, with GAI use unconstrained
 description: The comprehensive psychological need satisfaction configuration (competence core) has the highest coverage for high learning engagement, with GAI use unconstrained
 id: comprehensive-need-satisfaction-configuration-principal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
@@ -48,3 +48,4 @@ Sufficiency analysis in the fsQCA identified three configurations for high learn
 - [Competence is the strongest independent psychological predictor of AI literacy performance, followed by autonomy; relatedness has no independent effect](competence-strongest-predictor-relatedness-null.md) — related
 - [Multiple sufficient configurations lead to high AI literacy performance (equifinality)](fsqca-multiple-pathways-high-ai-literacy.md) — related
 - [Basic psychological need satisfaction is strongly associated with learning engagement among medical undergraduates](need-satisfaction-strongly-associated-learning-engagement.md) — related
+- [Well-designed games can promote persistence in practice and high-quality engagement, and when basic needs of autonomy, competence, and relatedness are met, learning becomes its own reward, reducing the temptation to outsource cognitive effort to LLMs.](well-designed-games-foster-practice-and-intrinsic-motivation.md) — related

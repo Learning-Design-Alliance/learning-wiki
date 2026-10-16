@@ -3,7 +3,7 @@ type: claim
 title: Teaching primarily helps the student agent realize existing potential rather than raise its absolute performance ceiling
 description: Teaching primarily helps the student agent realize existing potential rather than raise its absolute performance ceiling
 id: teaching-narrow-pass-gap-not-ceiling
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

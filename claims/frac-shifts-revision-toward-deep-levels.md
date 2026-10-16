@@ -3,7 +3,7 @@ type: claim
 title: "FRAC and the combined intervention shifted revision toward deeper levels, with deep revision (L3+L4) rising from 25% in the regular AI group to 55% in the combined group"
 description: "FRAC and the combined intervention shifted revision toward deeper levels, with deep revision (L3+L4) rising from 25% in the regular AI group to 55% in the combined group"
 id: frac-shifts-revision-toward-deep-levels
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

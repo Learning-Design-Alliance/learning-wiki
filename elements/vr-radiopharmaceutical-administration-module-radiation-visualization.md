@@ -3,7 +3,7 @@ type: element
 id: vr-radiopharmaceutical-administration-module-radiation-visualization
 title: VR radiopharmaceutical administration training module with clinically measured radiation field visualization
 description: A VR training module for radiopharmaceutical administration built in Unity with a VIVE Pro Eye HMD, trackers, and VR gloves, integrating a radiation visualization system constructed from spatial dose measurements of T...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

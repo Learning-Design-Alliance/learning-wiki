@@ -3,7 +3,7 @@ type: claim
 title: "Segmented videos reduce hesitations for participants with ADHD by approximately 79% compared to non-segmented videos"
 description: "Segmented videos reduce hesitations for participants with ADHD by approximately 79% compared to non-segmented videos"
 id: segmentation-reduces-hesitations-adhd-participants
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

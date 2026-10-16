@@ -3,7 +3,7 @@ type: claim
 title: Teachers least often taught the aspects of the ERWC curriculum associated with writing and metacognition
 description: Teachers least often taught the aspects of the ERWC curriculum associated with writing and metacognition
 id: teachers-least-often-taught-writing-and-metacognition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

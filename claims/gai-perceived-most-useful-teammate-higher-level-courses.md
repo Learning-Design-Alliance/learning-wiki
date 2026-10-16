@@ -3,7 +3,7 @@ type: claim
 title: Marketing educators perceive GAI as most useful as a teammate in higher-level courses but as a tutor or tool in lower-level courses
 description: Marketing educators perceive GAI as most useful as a teammate in higher-level courses but as a tutor or tool in lower-level courses
 id: gai-perceived-most-useful-teammate-higher-level-courses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

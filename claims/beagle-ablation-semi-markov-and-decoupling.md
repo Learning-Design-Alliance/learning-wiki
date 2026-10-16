@@ -3,7 +3,7 @@ type: claim
 title: Ablations show the semi-Markov controller is the primary driver of behavioral fidelity (removal pushes DKL to 6.81) and Strategist/Executor separation is essential for epistemic fidelity and realism
 description: Ablations show the semi-Markov controller is the primary driver of behavioral fidelity (removal pushes DKL to 6.81) and Strategist/Executor separation is essential for epistemic fidelity and realism
 id: beagle-ablation-semi-markov-and-decoupling
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

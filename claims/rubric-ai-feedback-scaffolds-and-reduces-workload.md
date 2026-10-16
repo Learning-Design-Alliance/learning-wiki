@@ -3,7 +3,7 @@ type: claim
 title: "Rubric-based AI feedback allowed teachers to scaffold learning while reducing their workload, per the authors' interpretation"
 description: "Rubric-based AI feedback allowed teachers to scaffold learning while reducing their workload, per the authors' interpretation"
 id: rubric-ai-feedback-scaffolds-and-reduces-workload
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

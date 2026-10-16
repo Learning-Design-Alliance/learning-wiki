@@ -3,7 +3,7 @@ type: claim
 title: Ladders to Literacy shows potentially positive effects on fluency based on a single non-significant finding with an effect size of 0.72 and an improvement index of +26
 description: Ladders to Literacy shows potentially positive effects on fluency based on a single non-significant finding with an effect size of 0.72 and an improvement index of +26
 id: ladders-to-literacy-potentially-positive-fluency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

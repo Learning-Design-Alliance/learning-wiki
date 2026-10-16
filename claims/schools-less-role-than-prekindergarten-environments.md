@@ -3,7 +3,7 @@ type: claim
 title: "Schools play less of a role in widening racial/ethnic achievement gaps than children's prekindergarten environments"
 description: "Schools play less of a role in widening racial/ethnic achievement gaps than children's prekindergarten environments"
 id: schools-less-role-than-prekindergarten-environments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

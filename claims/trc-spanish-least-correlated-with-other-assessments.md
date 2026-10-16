@@ -3,7 +3,7 @@ type: claim
 title: TRC-Spanish is the assessment least correlated with the others, though strongly correlated with TRC-English
 description: TRC-Spanish is the assessment least correlated with the others, though strongly correlated with TRC-English
 id: trc-spanish-least-correlated-with-other-assessments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

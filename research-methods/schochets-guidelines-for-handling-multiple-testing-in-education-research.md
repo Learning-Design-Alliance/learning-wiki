@@ -3,7 +3,7 @@ type: research-method
 id: schochets-guidelines-for-handling-multiple-testing-in-education-research
 title: "Schochet's guidelines for handling multiple testing in education research"
 description: A methodological guidance report developed for education research, published by Mathematica Policy Research in 2008.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

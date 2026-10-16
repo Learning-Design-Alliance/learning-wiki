@@ -3,7 +3,7 @@ type: strategy
 id: universal-rubric-dual-criteria-review-strategy
 title: Use a universal rubric with dual criteria — standards alignment and access/equity — for cross-content-area review of instructional materials
 description: "The refined Nevada process uses \"a materials checklist, roles and responsibilities guidance, a timeline, and a universal rubric\" so reviewers across content areas rate materials consistently."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

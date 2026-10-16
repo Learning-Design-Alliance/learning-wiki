@@ -3,7 +3,7 @@ type: design
 id: liara-mapc-competition-team
 title: "LI(A)RA: competition team for the Multi-Agent Programming Contest integrated with a course"
 description: "LI(A)RA was one of LIA's first competition projects, developing intelligent agents for the Multi-Agent Programming Contest (MAPC) as a natural extension of the undergraduate course \"Specialized Topics I\" (STI)."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

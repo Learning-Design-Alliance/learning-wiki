@@ -3,7 +3,7 @@ type: claim
 title: Building a strong learning climate by supporting and guiding teacher collaboration around common goals is highlighted as a key finding
 description: Building a strong learning climate by supporting and guiding teacher collaboration around common goals is highlighted as a key finding
 id: learning-climate-teacher-collaboration-common-goals
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

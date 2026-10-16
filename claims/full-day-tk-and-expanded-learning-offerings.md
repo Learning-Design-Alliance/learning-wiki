@@ -3,7 +3,7 @@ type: claim
 title: "Most LEAs offered full-day TK (84% in 2023–24) and 87% provided an expanded learning option to extend the day"
 description: "Most LEAs offered full-day TK (84% in 2023–24) and 87% provided an expanded learning option to extend the day"
 id: full-day-tk-and-expanded-learning-offerings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

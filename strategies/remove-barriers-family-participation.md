@@ -3,7 +3,7 @@ type: strategy
 id: remove-barriers-family-participation
 title: Remove practical barriers to family participation through flexible scheduling, translation, childcare, and material supports
 description: "The article describes a set of concrete barrier-removal practices: flexible event scheduling with \"translation services and childcare provided to make involvement more accessible for all families,\" virtual engagement..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

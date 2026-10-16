@@ -3,7 +3,7 @@ type: strategy
 id: student-leads-llm-debugging-session
 title: Successful LLM-assisted debugging sessions require investigating multiple root causes, patience, and student-led correction of the LLM
 description: "The article identifies what a successful Chat-Debugging session includes: \"investigating multiple potential root causes proposed by the LLM, the patience and determination to eliminate root causes, and a student who l..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

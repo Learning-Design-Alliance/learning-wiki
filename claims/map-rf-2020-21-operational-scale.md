@@ -3,7 +3,7 @@ type: claim
 title: MAP Reading Fluency administered at scale, with 407,964 students receiving Foundational Skills scores and 277,920 receiving Oral Reading Fluency scores in 2020–2021
 description: MAP Reading Fluency administered at scale, with 407,964 students receiving Foundational Skills scores and 277,920 receiving Oral Reading Fluency scores in 2020–2021
 id: map-rf-2020-21-operational-scale
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

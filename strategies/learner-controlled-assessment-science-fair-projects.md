@@ -3,7 +3,7 @@ type: strategy
 id: learner-controlled-assessment-science-fair-projects
 title: Give learners control over how learning is measured via assessment choices and science-fair-type projects
 description: "The article recommends offering learners multiple assessment choices — multiple choice exams, essay exams, research papers, portfolios — and 'science-fair' types of projects in which the learner selects the topic of i..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: strategy
 id: edtech-process-communication-co-development
 title: Ensure communication and co-development with school leaders throughout edtech process rollout
 description: The report recommends creating space to bring school leaders into the iterative design of an edtech evaluation process and communicating its rationale across all levels and roles.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

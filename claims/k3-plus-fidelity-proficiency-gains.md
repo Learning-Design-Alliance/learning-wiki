@@ -3,7 +3,7 @@ type: claim
 title: "New Mexico's K–3 Plus evaluation found faithful implementation raised proficiency, with the largest gains for low-income students"
 description: "New Mexico's K–3 Plus evaluation found faithful implementation raised proficiency, with the largest gains for low-income students"
 id: k3-plus-fidelity-proficiency-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

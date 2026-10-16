@@ -3,7 +3,7 @@ type: strategy
 id: compare-content-predictive-power-bias-when-selecting-observation-instrument
 title: Use comparative evidence on content, predictive power, and bias when selecting a teacher observation instrument
 description: "The report's stated purpose is decision support: \"This study seeks to inform decisions about the selection and use of teacher observation instruments.\" It operationalizes this by comparing candidate instruments on the..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

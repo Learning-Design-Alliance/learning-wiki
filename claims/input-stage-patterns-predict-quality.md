@@ -3,7 +3,7 @@ type: claim
 title: Input-stage, but not output-stage, interaction patterns are significantly associated with interpreting fluency and target language quality, with Intensive Engagers scoring lowest
 description: Input-stage, but not output-stage, interaction patterns are significantly associated with interpreting fluency and target language quality, with Intensive Engagers scoring lowest
 id: input-stage-patterns-predict-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

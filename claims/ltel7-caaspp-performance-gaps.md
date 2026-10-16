@@ -3,7 +3,7 @@ type: claim
 title: Large performance gaps on grades 6–8 and grade 11 CAASPP ELA and math tests, with LTEL7 students performing at lower levels than other ever-ELs
 description: Large performance gaps on grades 6–8 and grade 11 CAASPP ELA and math tests, with LTEL7 students performing at lower levels than other ever-ELs
 id: ltel7-caaspp-performance-gaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

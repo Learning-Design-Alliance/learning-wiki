@@ -3,7 +3,7 @@ type: claim
 title: Schools implementing departmentalized elementary instruction completed key implementation steps, but some faced scheduling challenges
 description: Schools implementing departmentalized elementary instruction completed key implementation steps, but some faced scheduling challenges
 id: departmentalization-implementation-steps-scheduling-challenges
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

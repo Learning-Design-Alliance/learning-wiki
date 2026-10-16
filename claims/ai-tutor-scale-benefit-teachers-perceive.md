@@ -3,7 +3,7 @@ type: claim
 title: Teachers most often perceived AI tutors and study buddies as academic support at a scale no single teacher can provide
 description: Teachers most often perceived AI tutors and study buddies as academic support at a scale no single teacher can provide
 id: ai-tutor-scale-benefit-teachers-perceive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

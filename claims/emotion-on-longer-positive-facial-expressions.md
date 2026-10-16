@@ -3,7 +3,7 @@ type: claim
 title: In a within-subject user study, participants showed longer positive facial expressions under the emotion-aware (Emotion ON) tutoring condition
 description: In a within-subject user study, participants showed longer positive facial expressions under the emotion-aware (Emotion ON) tutoring condition
 id: emotion-on-longer-positive-facial-expressions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

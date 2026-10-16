@@ -3,7 +3,7 @@ type: strategy
 id: focusing-techniques-drafting-revision
 title: Focusing techniques for checking a text during drafting and revision
 description: The paper recommends developing a set of focusing techniques against which the writer measures what is being produced, both during writing and later with an eye to revising.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: The CBE and COLO engines met content specifications and recovered true scores well for the nine simulated MAP Growth tests
 description: The CBE and COLO engines met content specifications and recovered true scores well for the nine simulated MAP Growth tests
 id: cbe-colo-comparable-content-validity-theta-recovery
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

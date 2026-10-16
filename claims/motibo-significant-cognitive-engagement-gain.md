@@ -3,7 +3,7 @@ type: claim
 title: "Robot-assisted storytelling produces statistically significant pre-post improvement in cognitive engagement, while paper and PPT groups' gains are not statistically significant"
 description: "Robot-assisted storytelling produces statistically significant pre-post improvement in cognitive engagement, while paper and PPT groups' gains are not statistically significant"
 id: motibo-significant-cognitive-engagement-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

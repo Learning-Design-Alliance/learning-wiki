@@ -3,7 +3,7 @@ type: strategy
 id: employer-codesigned-tech-pathway-supports
 title: "Co-designed recommendations for employers: equitable hiring practices, inclusive work culture, and continued upskilling support"
 description: Worker and learner participants co-designed recommendations for employers across awareness, training access, equitable recruitment and hiring, and career entry, advancement, and retention.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

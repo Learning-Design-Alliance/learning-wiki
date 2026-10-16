@@ -3,7 +3,7 @@ type: claim
 title: NC Pre-K participants made greater gains than expected for normal developmental growth, with particular benefits for dual language learners and low-income students
 description: NC Pre-K participants made greater gains than expected for normal developmental growth, with particular benefits for dual language learners and low-income students
 id: nc-prek-gains-dual-language-learners
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

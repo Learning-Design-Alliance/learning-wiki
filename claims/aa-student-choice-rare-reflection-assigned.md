@@ -3,7 +3,7 @@ type: claim
 title: Student choice is rare in authentic assessment designs while assigned, sometimes graded, self-reflection is more common
 description: Student choice is rare in authentic assessment designs while assigned, sometimes graded, self-reflection is more common
 id: aa-student-choice-rare-reflection-assigned
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

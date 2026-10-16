@@ -3,7 +3,7 @@ type: claim
 title: LCFF-induced spending increases significantly improved math and reading achievement in every grade assessed, with the largest gains in districts receiving concentration grants
 description: LCFF-induced spending increases significantly improved math and reading achievement in every grade assessed, with the largest gains in districts receiving concentration grants
 id: lcff-significant-achievement-gains-all-grades-concentration-districts-largest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

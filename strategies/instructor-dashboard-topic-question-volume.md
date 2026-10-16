@@ -3,7 +3,7 @@ type: strategy
 id: instructor-dashboard-topic-question-volume
 title: Use a cohort-wide instructor dashboard of topic-level question volume, with assistant-surfaced prerequisite review suggestions as an extension
 description: "The article's envisioned practical use of the pipeline: converting passively logged assistant interactions into topic-level difficulty signals without additional student burden."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

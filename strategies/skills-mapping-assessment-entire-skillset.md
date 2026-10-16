@@ -3,7 +3,7 @@ type: strategy
 id: skills-mapping-assessment-entire-skillset
 title: "Use skills mapping and assessment to articulate individuals' entire skillsets from formal and informal experiences"
 description: "As a skills-first alternative to traditional talent development, the report describes career navigation that \"utilizes skills mapping and assessment, where a large emphasis is placed on identifying, understanding, and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

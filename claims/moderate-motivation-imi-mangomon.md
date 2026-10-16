@@ -3,7 +3,7 @@ type: claim
 title: IMI motivation ratings after four weeks of Mangomon play were moderate (all sub-scale means below 4.00), highest for effort/importance and lowest for perceived choice
 description: IMI motivation ratings after four weeks of Mangomon play were moderate (all sub-scale means below 4.00), highest for effort/importance and lowest for perceived choice
 id: moderate-motivation-imi-mangomon
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

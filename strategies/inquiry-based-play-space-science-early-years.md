@@ -3,7 +3,7 @@ type: strategy
 id: inquiry-based-play-space-science-early-years
 title: "Present early space-science activities as inquiry-based learning integrated with play, informed by children's existing mental models"
 description: "The article recommends that \"early science learning activities targeting space science concepts, including the day and night cycle, should be inquiry-based and presented within the context of play.\" Science activities..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

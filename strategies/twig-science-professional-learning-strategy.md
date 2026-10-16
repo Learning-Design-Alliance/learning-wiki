@@ -3,7 +3,7 @@ type: strategy
 id: twig-science-professional-learning-strategy
 title: Provide virtual and on-site professional learning on the digital platform and grade-specific curriculum training
 description: "The publisher supports implementation with Customer Success team assistance plus \"various virtual and on-site professional learning for teachers and administrators.\" Sessions cover how to use Imagine Learning digital..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: strategy
 id: dialogic-facilitation-of-student-resources
 title: Dialogic Facilitation of Student Resources
 description: A whole-class discourse facilitation strategy in which the teacher positions students as accountable "sources" of ideas — using open-ended questions and withholding the correct answer — rather than as "listeners" seeking validation of teacher-provided knowledge.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

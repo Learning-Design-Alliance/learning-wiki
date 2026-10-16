@@ -3,7 +3,7 @@ type: claim
 title: Program appeal rested on flexibility and financial savings, with some modules completable in under 10 minutes
 description: Program appeal rested on flexibility and financial savings, with some modules completable in under 10 minutes
 id: microcredential-appeal-flexibility-financial-savings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

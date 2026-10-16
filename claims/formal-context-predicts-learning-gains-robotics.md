@@ -3,7 +3,7 @@ type: claim
 title: Formal learning context is a significant positive predictor of whether a robotics study reports quantifiable learning gains
 description: Formal learning context is a significant positive predictor of whether a robotics study reports quantifiable learning gains
 id: formal-context-predicts-learning-gains-robotics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

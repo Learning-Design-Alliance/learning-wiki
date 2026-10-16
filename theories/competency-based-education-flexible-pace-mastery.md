@@ -2,7 +2,7 @@
 type: theory
 title: Competency-based education measures learning rather than class time, letting students progress at a flexible pace upon demonstrating mastery
 description: "CBE is an educational model in which, as the brief states, \"it measures learning rather than class time.\" Students move through material independently, usually in preparation for specific jobs, progressing when they d..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

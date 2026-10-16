@@ -3,7 +3,7 @@ type: strategy
 id: longitudinal-evaluation-cluster-randomized-stepped-wedge
 title: Evaluate AI-in-LMS deployments with cluster-randomized or stepped-wedge rollout linked to multi-year institutional outcomes
 description: "The article's evaluation framework connects middle-school learning traces to medium- and long-term outcomes."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

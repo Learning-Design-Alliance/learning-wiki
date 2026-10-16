@@ -4,7 +4,7 @@ title: After two years, three of four elementary math curricula outperform a fou
 description: After two years, three of four elementary math curricula outperform a fourth in achievement across first and second grades
 id: three-math-curricula-outperform-fourth-after-two-years
 aliases: [three-elementary-math-curricula-outperform-fourth-two-years]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

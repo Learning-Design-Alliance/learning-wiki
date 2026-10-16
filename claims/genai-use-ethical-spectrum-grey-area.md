@@ -3,7 +3,7 @@ type: claim
 title: Students view GenAI use on a spectrum from unethical to ethical, with a vast middle grey area of uses such as paraphrasing AI-generated text or generating ideas
 description: Students view GenAI use on a spectrum from unethical to ethical, with a vast middle grey area of uses such as paraphrasing AI-generated text or generating ideas
 id: genai-use-ethical-spectrum-grey-area
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

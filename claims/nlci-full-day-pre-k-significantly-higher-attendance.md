@@ -3,7 +3,7 @@ type: claim
 title: Full-day pre-k funding significantly raised pre-k attendance at NLCI elementary schools relative to matched comparison schools
 description: Full-day pre-k funding significantly raised pre-k attendance at NLCI elementary schools relative to matched comparison schools
 id: nlci-full-day-pre-k-significantly-higher-attendance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

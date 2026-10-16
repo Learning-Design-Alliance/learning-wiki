@@ -3,7 +3,7 @@ type: claim
 title: "Perturbation or dissatisfaction with current beliefs, stimulated by reflecting on experiences through the NCTM Standards, was an important stimulus for change in a preservice teacher's philosophy"
 description: "Perturbation or dissatisfaction with current beliefs, stimulated by reflecting on experiences through the NCTM Standards, was an important stimulus for change in a preservice teacher's philosophy"
 id: perturbation-stimulates-philosophy-change
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

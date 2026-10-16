@@ -3,7 +3,7 @@ type: claim
 title: Edu-QuRaters recover held-out GPT-4.1-mini pairwise educational preferences from single-text scores, with mean accuracy rising from 0.895 (Sheared-LLaMA-1.3B) to 0.917 (Gemma-3-4B-PT)
 description: Edu-QuRaters recover held-out GPT-4.1-mini pairwise educational preferences from single-text scores, with mean accuracy rising from 0.895 (Sheared-LLaMA-1.3B) to 0.917 (Gemma-3-4B-PT)
 id: edu-quraters-distill-pairwise-educational-preferences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

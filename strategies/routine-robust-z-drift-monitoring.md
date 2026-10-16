@@ -3,7 +3,7 @@ type: strategy
 id: routine-robust-z-drift-monitoring
 title: Routinely re-estimate item parameters from consecutive adaptive test data and apply the Robust Z procedure to monitor item parameter drift
 description: The report describes a monitoring strategy in which item parameters are periodically re-estimated from recently collected adaptive test data and compared with initial calibration values to detect drift early.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

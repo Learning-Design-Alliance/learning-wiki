@@ -3,7 +3,7 @@ type: claim
 title: "Behavior-aware AI-tutor prompting was associated with a decrease in Passive inter-query windows from 50.0% to 20.7% in a nonrandomized between-deployment comparison"
 description: "Behavior-aware AI-tutor prompting was associated with a decrease in Passive inter-query windows from 50.0% to 20.7% in a nonrandomized between-deployment comparison"
 id: behavior-aware-prompting-reduces-passive-inter-query-windows
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: The review reports that students learning with serious games often perform better on content knowledge assessments than those in traditional settings
 description: The review reports that students learning with serious games often perform better on content knowledge assessments than those in traditional settings
 id: serious-games-better-content-knowledge-than-traditional
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

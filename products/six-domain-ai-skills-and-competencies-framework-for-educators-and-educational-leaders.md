@@ -4,7 +4,7 @@ id: six-domain-ai-skills-and-competencies-framework-for-educators-and-educationa
 title: Six-domain AI skills and competencies framework for educators and educational leaders
 description: A Digital Promise framework organizing AI literacy and readiness competencies for PK–12 educators and educational leaders across technical, analytical, interpersonal, ethical, adaptive, and implementation domains.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

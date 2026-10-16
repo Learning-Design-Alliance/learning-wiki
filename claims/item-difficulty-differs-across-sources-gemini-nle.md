@@ -3,7 +3,7 @@ type: claim
 title: Exploratory analysis found item difficulty differed across sources, driven by the Google Gemini versus NLE contrast
 description: Exploratory analysis found item difficulty differed across sources, driven by the Google Gemini versus NLE contrast
 id: item-difficulty-differs-across-sources-gemini-nle
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

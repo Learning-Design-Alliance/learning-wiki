@@ -3,7 +3,7 @@ type: claim
 title: Students perceived diverse and generic explanations as similarly helpful, with no statistically significant difference across explanation-sequence groups
 description: Students perceived diverse and generic explanations as similarly helpful, with no statistically significant difference across explanation-sequence groups
 id: no-significant-difference-perceived-helpfulness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

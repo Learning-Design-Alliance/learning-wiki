@@ -3,7 +3,7 @@ type: claim
 title: Nearly all New Jersey principals (99 percent) received effective or highly effective overall ratings in the first year of statewide evaluation, with limited variation
 description: Nearly all New Jersey principals (99 percent) received effective or highly effective overall ratings in the first year of statewide evaluation, with limited variation
 id: nj-principals-99-percent-effective-ratings-limited-variation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

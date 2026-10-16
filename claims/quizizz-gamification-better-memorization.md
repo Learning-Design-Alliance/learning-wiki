@@ -3,7 +3,7 @@ type: claim
 title: Quizizz-based gamification improved word memorization over traditional methods for intermediate learners
 description: Quizizz-based gamification improved word memorization over traditional methods for intermediate learners
 id: quizizz-gamification-better-memorization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

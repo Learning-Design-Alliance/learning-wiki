@@ -3,7 +3,7 @@ type: strategy
 id: delay-speaking-emphasize-listening-adults
 title: Delay speaking practice and emphasize listening comprehension in adult language training
 description: "The digest's conclusion recommends an approach stressing receptive skills, particularly listening, before productive skills for older learners."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

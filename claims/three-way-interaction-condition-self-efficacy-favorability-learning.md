@@ -3,7 +3,7 @@ type: claim
 title: The effect of practice condition on learning gains was moderated by a three-way interaction of condition, baseline self-efficacy, and favorability
 description: The effect of practice condition on learning gains was moderated by a three-way interaction of condition, baseline self-efficacy, and favorability
 id: three-way-interaction-condition-self-efficacy-favorability-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

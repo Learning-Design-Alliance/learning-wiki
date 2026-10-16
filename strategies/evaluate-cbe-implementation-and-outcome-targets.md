@@ -3,7 +3,7 @@ type: strategy
 id: evaluate-cbe-implementation-and-outcome-targets
 title: Evaluate CBE programs against both implementation milestones and participant outcome targets, including comparison benchmarks
 description: "The evaluation approach summarized here tracks whether colleges \"successfully implemented their programs as planned, meeting most implementation milestones and outcome targets,\" and benchmarks participant outcomes aga..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

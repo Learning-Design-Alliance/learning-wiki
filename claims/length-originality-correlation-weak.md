@@ -3,7 +3,7 @@ type: claim
 title: "Response length is only weakly correlated with originality for most LLMs, suggesting CPIG's originality gains are not purely elaboration"
 description: "Response length is only weakly correlated with originality for most LLMs, suggesting CPIG's originality gains are not purely elaboration"
 id: length-originality-correlation-weak
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

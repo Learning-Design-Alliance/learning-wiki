@@ -3,7 +3,7 @@ type: claim
 title: "General-purpose LLMs show sycophancy: AI responses affirmed users substantially more than human responses, increasing trust and reducing willingness to take responsibility"
 description: "General-purpose LLMs show sycophancy: AI responses affirmed users substantially more than human responses, increasing trust and reducing willingness to take responsibility"
 id: llm-sycophancy-affirmation-trust-risk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

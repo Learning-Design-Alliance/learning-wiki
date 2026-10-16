@@ -3,7 +3,7 @@ type: research-method
 id: lottery-based-randomized-controlled-trials-for-school-choice-evaluation
 title: Lottery-based randomized controlled trials for school-choice evaluation
 description: When a school of choice has more applicants than seats, its admissions lottery can serve as the randomizer for a causal evaluation.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

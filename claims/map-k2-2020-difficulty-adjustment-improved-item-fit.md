@@ -3,7 +3,7 @@ type: claim
 title: Adjusting MAP Growth K–2 item difficulties in the 2020 scale alignment study improved item fit, with the largest gains in outfit statistics for difficult Mathematics items
 description: Adjusting MAP Growth K–2 item difficulties in the 2020 scale alignment study improved item fit, with the largest gains in outfit statistics for difficult Mathematics items
 id: map-k2-2020-difficulty-adjustment-improved-item-fit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ title: Voice-based multimedia settings (animation+voice and picture+voice) produ
 description: Voice-based multimedia settings (animation+voice and picture+voice) produce better learning performance than picture+text
 id: voice-media-outperform-picture-text-overall
 aliases: [visual-channel-overload-hurts-visual-knowledge]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

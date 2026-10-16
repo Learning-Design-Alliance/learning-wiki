@@ -3,7 +3,7 @@ type: claim
 title: The sense-making and interpretation steps of teacher inquiry models proved confusing for teachers
 description: The sense-making and interpretation steps of teacher inquiry models proved confusing for teachers
 id: sense-making-interpretation-steps-confusing-for-teachers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Technical confidence using digital learning tools is positively associated with lower distraction levels among online learners
 description: Technical confidence using digital learning tools is positively associated with lower distraction levels among online learners
 id: technical-competency-associated-lower-distraction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

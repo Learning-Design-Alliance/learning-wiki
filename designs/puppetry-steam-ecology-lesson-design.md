@@ -3,7 +3,7 @@ type: design
 id: puppetry-steam-ecology-lesson-design
 title: Puppetry-facilitated ecology lessons within a STE(A)M curriculum
 description: This pattern delivers ecology content through puppetry performances as an arts-integrated science lesson format.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

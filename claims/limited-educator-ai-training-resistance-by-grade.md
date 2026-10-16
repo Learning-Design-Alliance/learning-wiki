@@ -3,7 +3,7 @@ type: claim
 title: Educator AI training and readiness remain limited, with only about half of teachers trained on AI and resistance increasing at higher grade levels
 description: Educator AI training and readiness remain limited, with only about half of teachers trained on AI and resistance increasing at higher grade levels
 id: limited-educator-ai-training-resistance-by-grade
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

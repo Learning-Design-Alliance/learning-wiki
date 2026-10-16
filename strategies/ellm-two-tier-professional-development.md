@@ -3,7 +3,7 @@ type: strategy
 id: ellm-two-tier-professional-development
 title: "Two-tier professional development: intensive teacher training with weekly coach follow-up, plus a five-day summer institute and weekly seminars for coaches"
 description: "ELLM's instructional support system uses two programs, one developing teachers and one developing coaches."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

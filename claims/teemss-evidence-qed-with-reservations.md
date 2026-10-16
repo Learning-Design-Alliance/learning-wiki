@@ -3,7 +3,7 @@ type: claim
 title: The supporting evidence for TEEMSS comes from a quasi-experimental study meeting WWC standards only with reservations
 description: The supporting evidence for TEEMSS comes from a quasi-experimental study meeting WWC standards only with reservations
 id: teemss-evidence-qed-with-reservations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

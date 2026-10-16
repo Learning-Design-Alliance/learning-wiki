@@ -3,7 +3,7 @@ type: claim
 title: The adaptive trial design reallocates more study subjects to more promising treatment arms as evidence accumulates
 description: The adaptive trial design reallocates more study subjects to more promising treatment arms as evidence accumulates
 id: adaptive-allocation-to-promising-arms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

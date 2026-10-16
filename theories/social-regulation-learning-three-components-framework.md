@@ -2,7 +2,7 @@
 type: theory
 title: "Social regulation of learning framework: three interacting components (self-regulation, co-regulation, socially shared regulation)"
 description: "The primer presents social regulation of learning as \"the broader category of regulation in social contexts,\" accomplished \"through three interacting component sets of skills: self-regulation, co-regulation, and socia..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

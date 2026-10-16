@@ -3,7 +3,7 @@ type: claim
 title: GenAI is reframed from a threat to academic integrity into a catalyst for more equitable assessment
 description: GenAI is reframed from a threat to academic integrity into a catalyst for more equitable assessment
 id: genai-reframed-integrity-threat-to-equity-catalyst
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

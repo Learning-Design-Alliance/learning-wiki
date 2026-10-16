@@ -3,7 +3,7 @@ type: claim
 title: Twitter discourse on AI in education is more practice-oriented and pedagogically granular than policy documents, practitioner accounts, and media coverage
 description: Twitter discourse on AI in education is more practice-oriented and pedagogically granular than policy documents, practitioner accounts, and media coverage
 id: twitter-discourse-more-practice-oriented-than-policy-media
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

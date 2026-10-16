@@ -3,7 +3,7 @@ type: strategy
 id: foster-care-web-of-supports-strategy
 title: "Implement a web of supports for students in foster care: one-stop resource centers, school-based liaisons, tiered services, and cross-system collaboration"
 description: "The report recommends building \"a ready web of supports\" so students in foster care receive help promptly."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

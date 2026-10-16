@@ -3,7 +3,7 @@ type: research-method
 id: improvement-science
 title: Improvement Science
 description: "The white paper defines Improvement Science as \"a systematic approach to identifying and solving educational problems through iterative testing, data collection, systematic reflection, and refinement\" focused on enhancing educational processes and systems."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

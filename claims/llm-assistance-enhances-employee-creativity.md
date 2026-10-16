@@ -3,7 +3,7 @@ type: claim
 title: "LLM assistance can enhance employees' creativity, especially for those with skills to reflect on AI use"
 description: "LLM assistance can enhance employees' creativity, especially for those with skills to reflect on AI use"
 id: llm-assistance-enhances-employee-creativity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

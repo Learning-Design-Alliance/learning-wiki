@@ -3,7 +3,7 @@ type: claim
 title: Teach For America teachers had no impact on student reading achievement
 description: Teach For America teachers had no impact on student reading achievement
 id: tfa-no-reading-achievement-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

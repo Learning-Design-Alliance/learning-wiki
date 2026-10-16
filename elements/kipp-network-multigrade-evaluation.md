@@ -3,7 +3,7 @@ type: element
 id: kipp-network-multigrade-evaluation
 title: KIPP public charter school network multi-grade-level impact evaluation
 description: "The article describes \"the first high-quality study to rigorously examine the impacts of the network of KIPP public charter schools at all elementary and secondary grade levels,\" conducted by Mathematica as part of th..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

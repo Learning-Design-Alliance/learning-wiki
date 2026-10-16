@@ -3,7 +3,7 @@ type: strategy
 id: pair-literacy-accountability-with-funded-pd
 title: Pair literacy accountability indicators with funded professional development and aligned mandates
 description: "From the Ohio case study, the paper recommends treating literacy accountability as part of a broader ecosystem: indicators are most effective when paired with aligned mandates such as dyslexia screening, funding, and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

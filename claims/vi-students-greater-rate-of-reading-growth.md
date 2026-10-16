@@ -3,7 +3,7 @@ type: claim
 title: The rate of reading growth for students with visual impairments is suggested to be greater than the national norm
 description: The rate of reading growth for students with visual impairments is suggested to be greater than the national norm
 id: vi-students-greater-rate-of-reading-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "GPT-5 used as a third coder introduced a calculation_check category absent from the human codebook, covering 28% of messages and exposing an unnamed recurring request type"
 description: "GPT-5 used as a third coder introduced a calculation_check category absent from the human codebook, covering 28% of messages and exposing an unnamed recurring request type"
 id: gpt5-introduced-calculation-check-category
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

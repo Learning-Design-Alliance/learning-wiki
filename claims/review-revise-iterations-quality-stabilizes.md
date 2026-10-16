@@ -3,7 +3,7 @@ type: claim
 title: Review-revise iterations improve synthesized problem quality, with gains largely stabilizing by the third iteration
 description: Review-revise iterations improve synthesized problem quality, with gains largely stabilizing by the third iteration
 id: review-revise-iterations-quality-stabilizes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

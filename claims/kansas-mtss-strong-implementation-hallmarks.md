@@ -3,7 +3,7 @@ type: claim
 title: "Schools implementing MTSS demonstrate the framework's hallmarks, including stronger collaboration, data use, and aligned improvement initiatives"
 description: "Schools implementing MTSS demonstrate the framework's hallmarks, including stronger collaboration, data use, and aligned improvement initiatives"
 id: kansas-mtss-strong-implementation-hallmarks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

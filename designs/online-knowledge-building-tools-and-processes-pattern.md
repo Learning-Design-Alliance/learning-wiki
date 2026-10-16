@@ -3,7 +3,7 @@ type: design
 id: online-knowledge-building-tools-and-processes-pattern
 title: Online knowledge-building trajectory built on two tools and two processes
 description: The online TPACK learning trajectory organizes professional learning around two tools and two processes within a social metacognitive constructivist framework.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

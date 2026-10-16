@@ -3,7 +3,7 @@ type: claim
 title: Youngest-arriving ESL learners risk acquiring neither L1 nor L2 at the level school demands
 description: Youngest-arriving ESL learners risk acquiring neither L1 nor L2 at the level school demands
 id: young-arrivals-risk-losing-both-l1-and-l2
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: strategy
 id: monolingual-teacher-staffing-dual-immersion
 title: Staff dual language classrooms with monolingual target-language teachers to prevent code-switching asymmetry
 description: "The article's discussion argues that evenly dispersing bilingual teachers across English-only and Spanish-only classrooms would only create illusions of symmetry, since code-switching potential would occur in both rooms."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

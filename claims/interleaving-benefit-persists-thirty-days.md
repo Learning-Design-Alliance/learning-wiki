@@ -3,7 +3,7 @@ type: claim
 title: The test benefit of interleaved practice does not diminish over time and perhaps grows larger (d = 0.79 at 30 days)
 description: The test benefit of interleaved practice does not diminish over time and perhaps grows larger (d = 0.79 at 30 days)
 id: interleaving-benefit-persists-thirty-days
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

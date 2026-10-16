@@ -3,7 +3,7 @@ type: claim
 title: "OmniEdu-27B achieves the best overall curriculum-grounding performance among evaluated models, raising K12-Bench EM from 52.11% to 63.12%"
 description: "OmniEdu-27B achieves the best overall curriculum-grounding performance among evaluated models, raising K12-Bench EM from 52.11% to 63.12%"
 id: omniedu-27b-best-curriculum-grounding-k12-bench
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Without a competing language, bilingual preschoolers show no preference between English-only and Mandarin-only books during silent reading
 description: Without a competing language, bilingual preschoolers show no preference between English-only and Mandarin-only books during silent reading
 id: no-language-preference-single-language-silent-reading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

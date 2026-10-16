@@ -3,7 +3,7 @@ type: claim
 title: "A simulation of quantum behavior violates the Bell inequality with about 99% probability using only 800 photon pairs"
 description: "A simulation of quantum behavior violates the Bell inequality with about 99% probability using only 800 photon pairs"
 id: qrc-simulation-violates-bell-99-percent-800-pairs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: element
 id: mrf-amira-linking-matching-procedure
 title: Statistical matching and weighting procedure for the MAP Reading Fluency–Amira linking study
 description: The linking study dataset was built by matching MAP Reading Fluency records to Amira records on student attributes (gender, ethnicity, English learner status, special education status, score percentile) and school att...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

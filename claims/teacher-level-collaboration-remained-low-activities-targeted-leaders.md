@@ -3,7 +3,7 @@ type: claim
 title: Teacher-level cross-sector collaboration remained low across grantee sites, in part because many collaborative activities targeted school leaders rather than teachers
 description: Teacher-level cross-sector collaboration remained low across grantee sites, in part because many collaborative activities targeted school leaders rather than teachers
 id: teacher-level-collaboration-remained-low-activities-targeted-leaders
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

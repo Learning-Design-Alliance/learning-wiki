@@ -3,7 +3,7 @@ type: claim
 title: Individual trajectories suggest heavy LLM use focused on support other than full answer generation can coexist with improving scores, whereas reliance on LLM-generated summaries was associated with declining scores
 description: Individual trajectories suggest heavy LLM use focused on support other than full answer generation can coexist with improving scores, whereas reliance on LLM-generated summaries was associated with declining scores
 id: usage-type-case-trajectories-s61-s2
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

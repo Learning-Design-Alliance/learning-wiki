@@ -3,7 +3,7 @@ type: strategy
 id: theory-comparison-prompts-counter-ai-overreliance
 title: Iteratively add prompts requiring comparison of AI outputs with psychological theories and structured reflective prompts to counter overreliance on AI
 description: "During DBR refinement, when students \"relied heavily on AI-generated responses and accepted recommendations without sufficient verification,\" the design team added prompts requiring comparison of AI outputs with psych..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

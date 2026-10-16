@@ -93,8 +93,8 @@ RPT converts review and practice into an active, social format: explaining mater
 ## Examples
 - **Classwide Student Teams–Achievement Divisions adaptations and Fantuzzo's reciprocal tutoring** — classwide RPT in elementary mathematics where dyads alternate tutor/tutee roles weekly with structured materials and reward systems; improved computation fluency and conduct.
 - **Ohio University story-passage study** — students who read and discussed passages with peers recalled more content and scored higher on assessments than students reading alone.
-- **Reciprocal Teaching (Palincsar & Brown)** — the reading-comprehension analogue: pairs or small groups alternate leading a dialogue using predict, question, clarify, and summarize strategies.
-- **Classwide Peer Tutoring (Juniper Gardens Children's Project, Kansas)** — weekly teacher-led routines in which entire classes tutor in pairs with point systems and weekly role switching; extensively studied in Title I elementary schools.
+- **[Reciprocal Teaching](reciprocal_teaching.md) (Palincsar & Brown)** — the reading-comprehension analogue: pairs or small groups alternate leading a dialogue using predict, question, clarify, and summarize strategies.
+- **[Classwide Peer Tutoring](../products/classwide-peer-tutoring.md) (Juniper Gardens Children's Project, Kansas)** — weekly teacher-led routines in which entire classes tutor in pairs with point systems and weekly role switching; extensively studied in Title I elementary schools.
 - **Fantuzzo's reciprocal tutoring with group rewards** — elementary math students alternated tutoring roles and earned team rewards contingent on both partners' quiz performance, improving computation accuracy and classroom behavior.
 - **PALS (Peer-Assisted Learning Strategies, Vanderbilt University)** — a widely disseminated structured RPT program for reading and math, [https://pals.vanderbilt.edu](https://pals.vanderbilt.edu), with scripted activities and scheduled role switching.
 

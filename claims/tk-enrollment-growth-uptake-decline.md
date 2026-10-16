@@ -3,7 +3,7 @@ type: claim
 title: "TK enrollment grew from 88,883 children in 2019–20 to 151,491 in 2023–24, while the share of eligible 4-year-olds enrolled declined to 59%"
 description: "TK enrollment grew from 88,883 children in 2019–20 to 151,491 in 2023–24, while the share of eligible 4-year-olds enrolled declined to 59%"
 id: tk-enrollment-growth-uptake-decline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

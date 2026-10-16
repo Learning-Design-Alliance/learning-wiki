@@ -3,7 +3,7 @@ type: claim
 title: Self-refinement gains depend on model strength and on behavior-prediction quality
 description: Self-refinement gains depend on model strength and on behavior-prediction quality
 id: self-refinement-gains-depend-on-model-and-prediction-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

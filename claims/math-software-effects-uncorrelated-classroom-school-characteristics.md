@@ -3,7 +3,7 @@ type: claim
 title: Effects of mathematics software products were uncorrelated with classroom and school characteristics
 description: Effects of mathematics software products were uncorrelated with classroom and school characteristics
 id: math-software-effects-uncorrelated-classroom-school-characteristics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

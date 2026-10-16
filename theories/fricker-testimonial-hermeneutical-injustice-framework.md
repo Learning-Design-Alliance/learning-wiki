@@ -2,7 +2,7 @@
 type: theory
 title: "Fricker's two-subset framework of epistemic injustice: testimonial and hermeneutical"
 description: "The article adopts Miranda Fricker's account of epistemic injustice, which focuses on representation and participation in knowledge production and how unjust epistemic practices silence people and deprive society of e..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: strategy
 id: prompt-design-with-role-and-hints-for-llm-assessment
 title: Achieve high-precision automated constructive assessment through prompt design alone—explicit role assignment plus human-scored hint examples—without fine-tuning
 description: "The article's method achieves automated problem generation, scoring, and feedback \"solely through prompt design without retraining.\" Prompts assign a professional role (e.g., \"You are a professional grader of case met..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

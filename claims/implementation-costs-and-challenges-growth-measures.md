@@ -3,7 +3,7 @@ type: claim
 title: Alternative student growth measures brought financial costs and implementation challenges around teacher time, test administration, and rigor
 description: Alternative student growth measures brought financial costs and implementation challenges around teacher time, test administration, and rigor
 id: implementation-costs-and-challenges-growth-measures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

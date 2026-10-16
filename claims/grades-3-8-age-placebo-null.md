@@ -3,7 +3,7 @@ type: claim
 title: Grades 3-8 test scores show no significant effect of educational ChatGPT exposure, supporting the design as an age placebo
 description: Grades 3-8 test scores show no significant effect of educational ChatGPT exposure, supporting the design as an age placebo
 id: grades-3-8-age-placebo-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

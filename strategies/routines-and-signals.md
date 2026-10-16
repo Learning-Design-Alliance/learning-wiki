@@ -64,7 +64,7 @@ Routines and signals reduce the working-memory and attentional demands of non-in
 - [Chunking](../principles/chunking.md) — routines package multi-step procedures into single retrievable units
 
 ## Examples
-- **Responsive Classroom** (https://www.responsiveclassroom.org) — the "Morning Meeting" and "Interactive Modeling" routines explicitly teach procedures through demonstration and rehearsal.
+- **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveclassroom.org) — the "Morning Meeting" and "Interactive Modeling" routines explicitly teach procedures through demonstration and rehearsal.
 - **KIPP schools' SLANT routine** — a rehearsed attention routine (Sit up, Listen, Ask questions, Nod, Track the speaker) pairing a signal with a learned response.
 - **University discussion courses** — a standing "think-pair-share" routine with a consistent timer signal automates transition into structured peer discussion.
 

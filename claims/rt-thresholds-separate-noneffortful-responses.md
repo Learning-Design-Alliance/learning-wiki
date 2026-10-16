@@ -3,7 +3,7 @@ type: claim
 title: Detecting noneffortful responses requires setting response time thresholds that separate effortful from noneffortful responses
 description: Detecting noneffortful responses requires setting response time thresholds that separate effortful from noneffortful responses
 id: rt-thresholds-separate-noneffortful-responses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Eight early-adopting districts use alternative measures of teacher effectiveness in evaluation or performance-related compensation systems
 description: Eight early-adopting districts use alternative measures of teacher effectiveness in evaluation or performance-related compensation systems
 id: eight-districts-use-alternative-teacher-effectiveness-measures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

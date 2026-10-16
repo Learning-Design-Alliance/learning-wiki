@@ -3,7 +3,7 @@ type: claim
 title: Inaccurate and disjointed information from third-party transcript integrations was a pervasive onboarding problem
 description: Inaccurate and disjointed information from third-party transcript integrations was a pervasive onboarding problem
 id: transcript-integration-inaccuracies-pervasive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

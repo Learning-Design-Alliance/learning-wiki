@@ -3,7 +3,7 @@ type: claim
 title: The article argues education for global citizenship has the potential to improve quality of life and lessen inter- and intra-group violence toward a culture of peace
 description: The article argues education for global citizenship has the potential to improve quality of life and lessen inter- and intra-group violence toward a culture of peace
 id: gced-potential-culture-of-peace
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

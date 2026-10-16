@@ -3,7 +3,7 @@ type: strategy
 id: state-advocacy-actions-school-improvement-supports
 title: State-level advocacy actions to strengthen school improvement supports for identified schools
 description: "The report recommends a set of state-level advocacy actions for advancing equity through school improvement: urging leaders to \"Dedicate state funding to augment federal improvement dollars,\" revise funding formulas a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

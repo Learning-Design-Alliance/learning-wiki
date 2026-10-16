@@ -3,7 +3,7 @@ type: claim
 title: "Learning environment significantly affected students' use of causal mechanistic reasoning on the dissolution task, with the core ideas environment highest at 40%"
 description: "Learning environment significantly affected students' use of causal mechanistic reasoning on the dissolution task, with the core ideas environment highest at 40%"
 id: dissolution-task-environment-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Most students reported a high degree of agency in deciding which high school to attend, though agency was constrained or absent for some
 description: Most students reported a high degree of agency in deciding which high school to attend, though agency was constrained or absent for some
 id: student-agency-school-selection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

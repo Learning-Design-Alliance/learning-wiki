@@ -3,7 +3,7 @@ type: claim
 title: SSSCs collaborate with a range of state organizations, most commonly through co-branding or sharing information externally
 description: SSSCs collaborate with a range of state organizations, most commonly through co-branding or sharing information externally
 id: sssc-collaboration-co-branding-information-sharing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

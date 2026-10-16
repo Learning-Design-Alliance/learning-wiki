@@ -3,7 +3,7 @@ type: strategy
 id: consider-demographic-shift-and-contextual-data-in-recovery-planning
 title: Educational leaders should weigh the demographic shift in tested students and other contextual data when planning student growth and recovery support
 description: "The brief recommends that decisions about supporting students' academic growth and recovery after COVID-19 school shutdowns should not rely on fall 2020 test results alone."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -2,7 +2,7 @@
 type: theory
 title: "Role-playing gamification design framework: RPG mechanics, aesthetics, and game thinking applied to language learning"
 description: "The article adopts Kapp's (2012) gamification framework and Crocco's (2016) RPG elements, defining gamification as \"the use of design elements characteristic for games (rather than play or playfulness) in non-game con..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

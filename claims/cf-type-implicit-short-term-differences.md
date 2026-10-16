@@ -3,7 +3,7 @@ type: claim
 title: On the immediate posttest of implicit L2 knowledge, direct CF and metalinguistic CF with rule explanations outperformed the control group while metalinguistic code CF did not.
 description: On the immediate posttest of implicit L2 knowledge, direct CF and metalinguistic CF with rule explanations outperformed the control group while metalinguistic code CF did not.
 id: cf-type-implicit-short-term-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

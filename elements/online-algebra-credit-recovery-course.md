@@ -3,7 +3,7 @@ type: element
 id: online-algebra-credit-recovery-course
 title: Online Algebra I credit recovery course
 description: An online course format for recovering Algebra I credit, evaluated in a randomized trial against face-to-face credit recovery with 1,224 ninth-graders in 17 Chicago public high schools.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

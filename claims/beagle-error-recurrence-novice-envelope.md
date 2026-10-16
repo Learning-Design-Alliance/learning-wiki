@@ -3,7 +3,7 @@ type: claim
 title: "BEAGLE's error recurrence rate (86.2%) falls within the realistic novice envelope, far above vanilla LLMs (7.8%) and below rule-based SimStudent's mechanical saturation (92.0%)"
 description: "BEAGLE's error recurrence rate (86.2%) falls within the realistic novice envelope, far above vanilla LLMs (7.8%) and below rule-based SimStudent's mechanical saturation (92.0%)"
 id: beagle-error-recurrence-novice-envelope
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

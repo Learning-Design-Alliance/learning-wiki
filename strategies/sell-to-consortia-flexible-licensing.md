@@ -3,7 +3,7 @@ type: strategy
 id: sell-to-consortia-flexible-licensing
 title: Sell to consortia and groups of institutions with flexible licensing to ease buying and expand access for small providers
 description: "The guide recommends that entrepreneurs \"sell to groups of organizations and encourage institutions to work together\" rather than pursuing only individual institutional sales."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

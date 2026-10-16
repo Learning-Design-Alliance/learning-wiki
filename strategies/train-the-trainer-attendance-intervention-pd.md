@@ -3,7 +3,7 @@ type: strategy
 id: train-the-trainer-attendance-intervention-pd
 title: Train-the-Trainer professional development for attendance-intervention staff
 description: "The program's professional development uses a Train-the-Trainer methodology: \"Targeted training is provided for administrators, support staff, and teachers utilizing the Train-the-Trainer methodology\", with dedicated..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

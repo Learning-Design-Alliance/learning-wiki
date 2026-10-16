@@ -3,7 +3,7 @@ type: claim
 title: Students most frequently reported that prompt-based tasks were Easier/Simpler/Faster and supported analyzing and solving problems, in thematic analysis of 200 reflections
 description: Students most frequently reported that prompt-based tasks were Easier/Simpler/Faster and supported analyzing and solving problems, in thematic analysis of 200 reflections
 id: themes-prompting-easier-problem-solving
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: ssa-research-agenda-five-known-unknowns
 title: Direct SSA research toward the five identified known unknowns
 description: "The review proposes a research agenda directing future student self-assessment work toward five topics: typologies, accuracy, expertise, expectations, and differential student effects."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

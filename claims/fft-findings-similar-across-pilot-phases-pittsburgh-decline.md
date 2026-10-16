@@ -3,7 +3,7 @@ type: claim
 title: Rating distributions and FFT-VAM relationships were broadly similar across the two pilot phases, though top-two-category ratings decreased somewhat in Pittsburgh
 description: Rating distributions and FFT-VAM relationships were broadly similar across the two pilot phases, though top-two-category ratings decreased somewhat in Pittsburgh
 id: fft-findings-similar-across-pilot-phases-pittsburgh-decline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

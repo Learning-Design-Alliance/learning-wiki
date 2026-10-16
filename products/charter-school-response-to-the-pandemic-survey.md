@@ -4,7 +4,7 @@ id: charter-school-response-to-the-pandemic-survey
 title: Charter School Response to the Pandemic Survey
 description: A two-wave fixed-response and Likert-scale survey instrument developed and administered by the Center for Research on Education Outcomes (CREDO) to document charter-school responses to COVID-19 closures.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: element
 id: micro-credentialing-digital-badges-teachers
 title: Micro-credentialing (digital badges) for recognizing teacher competencies
 description: "Micro-credentialing, or badging, is described as \"a competency recognition system aligned with a series of gates or milestones recognized by a community.\" Issuers create credentials that can reward participation, comp..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

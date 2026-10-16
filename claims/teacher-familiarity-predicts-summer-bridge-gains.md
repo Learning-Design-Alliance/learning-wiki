@@ -3,7 +3,7 @@ type: claim
 title: Whether teachers knew their students before Summer Bridge predicted test-score increases and teacher practice, most strongly for older students
 description: Whether teachers knew their students before Summer Bridge predicted test-score increases and teacher practice, most strongly for older students
 id: teacher-familiarity-predicts-summer-bridge-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

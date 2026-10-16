@@ -3,7 +3,7 @@ type: claim
 title: "Nearly three quarters (74%) of teacher turnover between 2020–21 and 2021–22 was voluntary and preretirement"
 description: "Nearly three quarters (74%) of teacher turnover between 2020–21 and 2021–22 was voluntary and preretirement"
 id: voluntary-preretirement-turnover-74-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

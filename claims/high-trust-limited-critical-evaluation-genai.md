@@ -3,7 +3,7 @@ type: claim
 title: Students exhibited high trust in GenAI but limited critical evaluation of its outputs
 description: Students exhibited high trust in GenAI but limited critical evaluation of its outputs
 id: high-trust-limited-critical-evaluation-genai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

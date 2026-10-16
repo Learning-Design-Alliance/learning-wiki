@@ -4,7 +4,7 @@ id: kvec-micro-credentials
 title: KVEC micro-credentials
 description: A Kentucky Valley Educational Cooperative professional-learning programme of free, competency-based micro-credentials for rural K–12 educators, created through a grant partnership with Digital Promise and hosted on the Digital Promise Micro-credential Platform.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

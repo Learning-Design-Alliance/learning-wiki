@@ -3,7 +3,7 @@ type: claim
 title: "In a worked example from real Erasmus+ decisions, some of CourseGraph's nearest-neighbor course mappings matched the program director's and others did not, one plausibly because it ignores differences in learning methods"
 description: "In a worked example from real Erasmus+ decisions, some of CourseGraph's nearest-neighbor course mappings matched the program director's and others did not, one plausibly because it ignores differences in learning methods"
 id: coursegraph-mappings-align-with-program-director
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

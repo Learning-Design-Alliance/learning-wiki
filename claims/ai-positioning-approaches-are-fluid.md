@@ -3,7 +3,7 @@ type: claim
 title: Teachers at convenings said the three AI approaches are fluid rather than static, with movement across approaches as experience grows
 description: Teachers at convenings said the three AI approaches are fluid rather than static, with movement across approaches as experience grows
 id: ai-positioning-approaches-are-fluid
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

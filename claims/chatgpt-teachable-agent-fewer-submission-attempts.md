@@ -3,7 +3,7 @@ type: claim
 title: Students teaching the ChatGPT agent passed the online judge with fewer code submission attempts than control students
 description: Students teaching the ChatGPT agent passed the online judge with fewer code submission attempts than control students
 id: chatgpt-teachable-agent-fewer-submission-attempts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

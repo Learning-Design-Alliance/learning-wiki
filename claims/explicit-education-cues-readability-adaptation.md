@@ -3,7 +3,7 @@ type: claim
 title: Explicitly mentioned education and SES cues lead most models to produce less readable responses for higher-education users, showing partial readability adaptation
 description: Explicitly mentioned education and SES cues lead most models to produce less readable responses for higher-education users, showing partial readability adaptation
 id: explicit-education-cues-readability-adaptation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

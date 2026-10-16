@@ -3,7 +3,7 @@ type: claim
 title: Higher-skill trainees elicit faster-climbing AVP disclosure trajectories, directionally supporting skill sensitivity, though the formal interaction test is underpowered
 description: Higher-skill trainees elicit faster-climbing AVP disclosure trajectories, directionally supporting skill sensitivity, though the formal interaction test is underpowered
 id: avp-skill-sensitivity-directional
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

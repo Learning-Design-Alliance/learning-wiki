@@ -3,7 +3,7 @@ type: design
 id: matched-popup-message-isolate-fallibility-disclosure
 title: Give both conditions a matched popup message to isolate the effect of disclosing AI fallibility
 description: When testing transparency cues about AI fallibility, the control condition should receive a comparable popup that omits only the fallibility disclosure.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

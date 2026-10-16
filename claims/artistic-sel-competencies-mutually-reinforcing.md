@@ -3,7 +3,7 @@ type: claim
 title: Artistic and social-emotional competencies are mutually reinforcing
 description: Artistic and social-emotional competencies are mutually reinforcing
 id: artistic-sel-competencies-mutually-reinforcing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

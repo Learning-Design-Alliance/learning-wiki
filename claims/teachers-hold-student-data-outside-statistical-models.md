@@ -3,7 +3,7 @@ type: claim
 title: Teachers know far more about their students than an investor knows about a stock, including data not typically in statistical models
 description: Teachers know far more about their students than an investor knows about a stock, including data not typically in statistical models
 id: teachers-hold-student-data-outside-statistical-models
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

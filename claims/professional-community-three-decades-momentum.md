@@ -3,7 +3,7 @@ type: claim
 title: The concept of professional community gained considerable momentum in theoretical and empirical educational research over the past three decades
 description: The concept of professional community gained considerable momentum in theoretical and empirical educational research over the past three decades
 id: professional-community-three-decades-momentum
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

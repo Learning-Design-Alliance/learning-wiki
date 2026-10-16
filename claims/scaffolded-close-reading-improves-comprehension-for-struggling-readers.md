@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Scaffolded Close Reading Improves Comprehension For Struggling Readers
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

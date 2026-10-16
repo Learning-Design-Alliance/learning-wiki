@@ -3,7 +3,7 @@ type: research-method
 id: six-category-taxonomy-for-characterising-genai-learning-activities
 title: Six-category taxonomy for characterising GenAI learning activities
 description: "The article proposes a taxonomy comprising six categories for characterising GenAI learning activities: Learning Objective (intentionality), Content/GenAI Objects and Processes (what students engage with), Representation Format (media selection), Epistemic Engagement (methodology), Human-GenAI Labou"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

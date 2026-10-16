@@ -3,7 +3,7 @@ type: claim
 title: PALS shows no discernible effects on mathematics for students with learning disabilities
 description: PALS shows no discernible effects on mathematics for students with learning disabilities
 id: pals-no-discernible-math-effects-ld
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

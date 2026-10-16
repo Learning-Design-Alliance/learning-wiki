@@ -3,7 +3,7 @@ type: claim
 title: GenAI access reduces perceived difficulty of the assisted reasoning task
 description: GenAI access reduces perceived difficulty of the assisted reasoning task
 id: genai-reduces-perceived-task-difficulty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

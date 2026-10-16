@@ -3,7 +3,7 @@ type: claim
 title: "Early screening benchmark status predicts later performance: most beginning-of-year at-risk students stay at risk, and meeting benchmarks by end of grade 1 is associated with much higher grade 3 MCAS odds"
 description: "Early screening benchmark status predicts later performance: most beginning-of-year at-risk students stay at risk, and meeting benchmarks by end of grade 1 is associated with much higher grade 3 MCAS odds"
 id: massachusetts-early-benchmark-status-predicts-later-mcas
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

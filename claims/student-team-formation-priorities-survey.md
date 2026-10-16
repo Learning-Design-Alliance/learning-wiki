@@ -3,7 +3,7 @@ type: claim
 title: "Former capstone students' team-formation priorities centered on interesting topics, preferred teammates, and skill or career alignment"
 description: "Former capstone students' team-formation priorities centered on interesting topics, preferred teammates, and skill or career alignment"
 id: student-team-formation-priorities-survey
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Students raised four categories of concern about potential misuse of MMLA data: judgment, privacy, career impact, and academic integrity"
 description: "Students raised four categories of concern about potential misuse of MMLA data: judgment, privacy, career impact, and academic integrity"
 id: mmla-data-misuse-concerns-four-themes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -63,3 +63,4 @@ Interview study on misuse of data and consequences; thematic analysis identified
 - [Students raise privacy concerns about classroom speech data while teachers initially interpret CoBi as a performance-monitoring device](cobi-privacy-and-performance-monitoring-concerns.md) — related
 - [Expert participants produced predominantly optimistic scenarios with limited discussion of tensions, limits, or unintended consequences](optimistic-scenario-bias-limitation.md) — related
 - [Ethics, privacy, bias, over-reliance, accuracy, usability and cost are key challenges AI use poses for learner satisfaction and engagement](ai-challenges-engagement-satisfaction.md) — related
+- [Concerns about accuracy, reliability, academic integrity, and potential negative effects on cognitive and social development were consistently highlighted across many included studies.](chatgpt-concerns-accuracy-integrity-development.md) — related

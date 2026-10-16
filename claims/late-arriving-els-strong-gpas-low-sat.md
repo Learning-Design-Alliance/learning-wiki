@@ -3,7 +3,7 @@ type: claim
 title: Late-arriving English Learners had cumulative GPAs similar to the district average but substantially lower SAT scores
 description: Late-arriving English Learners had cumulative GPAs similar to the district average but substantially lower SAT scores
 id: late-arriving-els-strong-gpas-low-sat
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -2,7 +2,7 @@
 type: theory
 title: "Bandura's four sources of self-efficacy as a framework for educator practice with marginalised students"
 description: "The paper applies Bandura's social cognitive theory, under which perceived self-efficacy refers to \"beliefs in one's capabilities to organize [sic] and execute the courses of action required to produce given attainmen..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -53,4 +53,4 @@ The paper applies Bandura's social cognitive theory, under which perceived self-
 - [Design intervention programs building academic self-efficacy (vicarious learning, progressive mastery, positive feedback) before and alongside AI integration for students with motor disabilities](../strategies/self-efficacy-interventions-alongside-ai-integration.md)
 
 ## Key Sources
-- Larsen, A., & James, T. (2022). A sense of belonging in Australian higher education: the significance of self-efficacy and the student-educator relationship. Journal of University Teaching & Learning Practice, 19(4). https://ro.uow.edu.au/jutlp/vol19/iss4/05
+- Larsen, A., & James, T. (2022). A sense of belonging in Australian higher education: the significance of self-efficacy and the student-educator relationship. Journal of University Teaching & Learning Practice, 19(4). https://ro.uow.edu.au/jutlp/vol19/iss4/05. [doi:10.53761/1.19.4.5](https://doi.org/10.53761/1.19.4.5)

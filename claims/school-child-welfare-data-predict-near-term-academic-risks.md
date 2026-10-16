@@ -3,7 +3,7 @@ type: claim
 title: A predictive model built from school and child welfare data identifies students at risk of near-term academic problems
 description: A predictive model built from school and child welfare data identifies students at risk of near-term academic problems
 id: school-child-welfare-data-predict-near-term-academic-risks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

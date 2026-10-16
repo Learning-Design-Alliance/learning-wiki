@@ -3,7 +3,7 @@ type: claim
 title: TFA teachers in lower elementary grades (prekindergarten through grade 2) had a positive, statistically significant effect on reading achievement of 0.12 standard deviations
 description: TFA teachers in lower elementary grades (prekindergarten through grade 2) had a positive, statistically significant effect on reading achievement of 0.12 standard deviations
 id: tfa-lower-elementary-reading-effect-012-sd
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

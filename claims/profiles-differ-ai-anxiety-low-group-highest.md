@@ -3,7 +3,7 @@ type: claim
 title: Latent career adapt-abilities profiles differ in AI anxiety, with the low group most anxious and the high group least anxious
 description: Latent career adapt-abilities profiles differ in AI anxiety, with the low group most anxious and the high group least anxious
 id: profiles-differ-ai-anxiety-low-group-highest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

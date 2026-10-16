@@ -3,7 +3,7 @@ type: claim
 title: "CALPADS course record availability varied by year, with 62% of 2015 graduates having records for all four school years and 20% missing only 2011-12"
 description: "CALPADS course record availability varied by year, with 62% of 2015 graduates having records for all four school years and 20% missing only 2011-12"
 id: calpads-course-availability-varies-by-year
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

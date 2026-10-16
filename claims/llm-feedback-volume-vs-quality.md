@@ -3,7 +3,7 @@ type: claim
 title: LLM-generated feedback is more comprehensive in volume than human feedback but is sometimes too generic, abstract, or misaligned with the assigned grade
 description: LLM-generated feedback is more comprehensive in volume than human feedback but is sometimes too generic, abstract, or misaligned with the assigned grade
 id: llm-feedback-volume-vs-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

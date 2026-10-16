@@ -3,7 +3,7 @@ type: strategy
 id: design-challenging-differentiated-performance-bonuses
 title: Design pay-for-performance bonuses that are substantial, differentiated, and challenging per TIF guidance
 description: "The report's findings imply that compensation reform should set award criteria consistent with guidance for challenging pay-for-performance bonuses."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

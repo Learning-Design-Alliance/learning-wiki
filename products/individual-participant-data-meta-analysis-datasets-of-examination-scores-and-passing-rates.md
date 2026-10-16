@@ -4,7 +4,7 @@ id: individual-participant-data-meta-analysis-datasets-of-examination-scores-and
 title: Individual-participant-data meta-analysis datasets of examination scores and passing rates disaggregated by minoritized-group status
 description: An openly available collection of individual-participant examination-score and passing-rate records disaggregated by minoritized-group or socioeconomic status, released by Theobald et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-13

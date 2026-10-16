@@ -3,7 +3,7 @@ type: claim
 title: County differences in TK uptake and population size translate into varying hiring needs, with the five largest counties accounting for over half of increased demand
 description: County differences in TK uptake and population size translate into varying hiring needs, with the five largest counties accounting for over half of increased demand
 id: county-variation-tk-hiring-demand
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

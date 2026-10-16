@@ -3,7 +3,7 @@ type: design
 id: lu-c-program-external-course-decision-tree
 title: Decision tree used by a curriculum administrator to assess external courses for the Lund C program
 description: Based on correspondence with the former program director, the authors constructed a decision tree (Fig.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

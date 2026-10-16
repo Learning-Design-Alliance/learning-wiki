@@ -3,7 +3,7 @@ type: claim
 title: Concerns about the complexity of changing assessment and the resources needed to change assessment were pervasive among participants.
 description: Concerns about the complexity of changing assessment and the resources needed to change assessment were pervasive among participants.
 id: genai-assessment-change-complexity-resource-concerns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

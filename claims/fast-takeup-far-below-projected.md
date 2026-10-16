@@ -3,7 +3,7 @@ type: claim
 title: FAST take-up was far below the projected 60 percent participation rate, with only about 20 percent typical participation per year
 description: FAST take-up was far below the projected 60 percent participation rate, with only about 20 percent typical participation per year
 id: fast-takeup-far-below-projected
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

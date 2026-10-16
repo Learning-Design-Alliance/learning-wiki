@@ -3,7 +3,7 @@ type: claim
 title: Structural paths are stable when continued-use intention and current use are modeled as separate outcomes, and AI anxiety is not directly related to continued use
 description: Structural paths are stable when continued-use intention and current use are modeled as separate outcomes, and AI anxiety is not directly related to continued use
 id: outcome-robustness-anxiety-null-direct
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

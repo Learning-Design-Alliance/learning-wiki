@@ -3,7 +3,7 @@ type: strategy
 id: teacher-of-color-affinity-groups-belonging
 title: Teacher-of-color affinity groups as the most common strategy for fostering belonging and retention
 description: "Affinity groups were \"by far, the most common strategy among the participating LEAs to center the lived experiences of teachers of color and foster their belonging within the LEAs.\" Four LEAs developed explicit affini..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

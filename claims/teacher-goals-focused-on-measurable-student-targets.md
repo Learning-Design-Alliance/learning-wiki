@@ -3,7 +3,7 @@ type: claim
 title: Teacher performance goals are often focused on attaining measurable student achievement or learning targets
 description: Teacher performance goals are often focused on attaining measurable student achievement or learning targets
 id: teacher-goals-focused-on-measurable-student-targets
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

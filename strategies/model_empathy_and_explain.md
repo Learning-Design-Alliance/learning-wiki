@@ -69,7 +69,7 @@ Modeling is most effective when the model's reasoning is verbalized, not just pe
 
 ## Examples
 - **[Incredible Years](http://www.incredibleyears.com)** — Teacher classroom management program in which trainers model calm, empathic responses to student misbehavior and teachers rehearse them with coaching; large-scale trials show improvements in classroom social climate and student behavior [Webster-Stratton, C., Reid, M. J., & Stoolmiller, M. (2008)] [+S].
-- **Responsive Classroom** — Teacher language practices include modeling and narrating respectful, empathic interactions during morning meeting as a deliberate climate-building routine.
+- **[Responsive Classroom](../products/responsive-classroom.md)** — Teacher language practices include modeling and narrating respectful, empathic interactions during morning meeting as a deliberate climate-building routine.
 - **Medical education** — Standardized patient debriefs where faculty model empathic communication ("I could see this news was hard to hear, so I paused before continuing") before students practice with simulated patients.
 
 ## Key Sources

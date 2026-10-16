@@ -3,7 +3,7 @@ type: design
 id: learning-context-engine-mastery-spacing-helpseeking
 title: "Learning-context personalization engine: mastery, spacing, and help-seeking signals guide when and how AI assistance is delivered"
 description: "The article's learning-context modeling approach maintains student-level learning state to tailor support and sequencing."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

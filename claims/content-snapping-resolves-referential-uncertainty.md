@@ -3,7 +3,7 @@ type: claim
 title: "In Study 2, Content Snapping's immediate visual confirmation resolved learners' referential uncertainty about system recognition"
 description: "In Study 2, Content Snapping's immediate visual confirmation resolved learners' referential uncertainty about system recognition"
 id: content-snapping-resolves-referential-uncertainty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

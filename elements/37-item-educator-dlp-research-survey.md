@@ -3,7 +3,7 @@ type: element
 id: 37-item-educator-dlp-research-survey
 title: 37-item educator survey on DLP research perceptions
 description: A 37-item survey developed to identify perspectives of K-12 and higher education educators on research conducted in DLPs, adapted from a questionnaire previously administered at Rice University.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -642,7 +642,7 @@ def write_named(cand: dict, dec: dict, actor: str) -> "str | None":
               "description": re.split(r"(?<=[.!?])\s", desc.strip(), maxsplit=1)[0][:300]}
         if folder == "products" and dec.get("product_kind"):
             fm["product_kind"] = dec["product_kind"]
-        fm.update({"status": "draft", "generated": {"by": actor, "at": date.today().isoformat()}})
+        fm.update({"status": "review", "generated": {"by": actor, "at": date.today().isoformat()}})
         middle = ("## Components\n<!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->\n"
                   if folder == "products" else
                   "## Accounts\n<!-- How each source describes or uses the method -->\n")

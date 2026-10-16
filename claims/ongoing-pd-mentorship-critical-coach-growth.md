@@ -3,7 +3,7 @@ type: claim
 title: "Ongoing professional development and mentorship are critical to coaches' growth and confidence in their coaching skills"
 description: "Ongoing professional development and mentorship are critical to coaches' growth and confidence in their coaching skills"
 id: ongoing-pd-mentorship-critical-coach-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

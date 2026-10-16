@@ -3,7 +3,7 @@ type: claim
 title: Grow Your Own program graduates remain in teaching longer than typical beginning teachers and teach in high-need schools at high rates
 description: Grow Your Own program graduates remain in teaching longer than typical beginning teachers and teach in high-need schools at high rates
 id: grow-your-own-graduates-retain-in-high-need-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

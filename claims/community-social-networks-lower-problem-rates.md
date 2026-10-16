@@ -3,7 +3,7 @@ type: claim
 title: Communities and neighborhoods rich in social networks have lower rates of crime, delinquency, and child abuse
 description: Communities and neighborhoods rich in social networks have lower rates of crime, delinquency, and child abuse
 id: community-social-networks-lower-problem-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -46,3 +46,4 @@ The review reports the clear finding from years of research into crime, delinque
 - [Schools with strong essential supports were more likely to sit in communities with strong social capital, low crime, and low density of abused or neglected children](strong-supports-linked-community-social-capital-low-crime.md) — related
 - [Neighborhood crime rates differ dramatically between elementary schools students rate as safest and least safe](neighborhood-crime-differs-safest-least-safe-schools.md) — related
 - [After accounting for incoming academic achievement, neighborhood crime and poverty show effectively no relationship with school safety](achievement-composition-predicts-safety.md) — related
+- [Environmentally focused interventions appear to be particularly effective for reducing delinquency and drug use](environmentally-focused-interventions-delinquency-drug-use.md) — a narrower finding that bears on this claim

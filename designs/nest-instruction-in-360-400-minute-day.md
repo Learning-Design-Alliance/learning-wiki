@@ -3,7 +3,7 @@ type: design
 id: nest-instruction-in-360-400-minute-day
 title: Nest a full 300-minute instructional program within a school day of 360-400 minutes
 description: The report argues that instructional time policy must build in realistic room for the human and operational demands of elementary classrooms rather than a maximally compressed schedule.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-08

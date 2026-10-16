@@ -3,7 +3,7 @@ type: research-method
 id: transfer-for-future-learning-tfl-three-phase-assessment-approach
 title: Transfer for Future Learning (TFL) three-phase assessment approach
 description: Transfer for Future Learning (TFL) is an assessment approach measuring whether students transfer recently learned concepts to future topics within the same learning progression.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: WWC design standards may have contributed to observed improvement in education research quality over the past 15 years
 description: WWC design standards may have contributed to observed improvement in education research quality over the past 15 years
 id: wwc-standards-may-have-improved-research-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

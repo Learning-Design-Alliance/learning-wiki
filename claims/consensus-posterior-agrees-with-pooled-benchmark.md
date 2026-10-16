@@ -3,7 +3,7 @@ type: claim
 title: Consensus calibration closely reproduces pooled-benchmark item-parameter means and standard deviations on an operational assessment
 description: Consensus calibration closely reproduces pooled-benchmark item-parameter means and standard deviations on an operational assessment
 id: consensus-posterior-agrees-with-pooled-benchmark
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

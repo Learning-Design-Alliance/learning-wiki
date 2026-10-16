@@ -63,8 +63,8 @@ Quiet signals are an application of classical conditioning and routine-based beh
 - [Positive reinforcement](../strategies/positive-reinforcement.md) — the mechanism that establishes and maintains the signal–response routine
 
 ## Examples
-- **Call-and-response ("Class–Yes")** from Whole Brain Teaching: the teacher calls "Class," students respond "Yes," with variations ("Classity-class" → "Yessity-yes") that add novelty and require attention to mimic.
-- **Responsive Classroom** (Center for Responsive Schools, https://www.responsiveschools.org) teaches "quiet signals" as part of its teacher language and routines strand, emphasizing teaching, practicing, and re-teaching the expected response.
+- **[Call-and-response](call-and-response.md) ("Class–Yes")** from Whole Brain Teaching: the teacher calls "Class," students respond "Yes," with variations ("Classity-class" → "Yessity-yes") that add novelty and require attention to mimic.
+- **[Responsive Classroom](../products/responsive-classroom.md)** (Center for Responsive Schools, https://www.responsiveschools.org) teaches "quiet signals" as part of its teacher language and routines strand, emphasizing teaching, practicing, and re-teaching the expected response.
 - **Chime or rainstick in elementary classrooms**: a sustained, soft auditory cue that gives students a few seconds to finish a sentence before full quiet, reducing abrupt interruptions of collaborative work.
 
 ## Key Sources

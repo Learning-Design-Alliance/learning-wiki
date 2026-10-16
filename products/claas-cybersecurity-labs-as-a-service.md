@@ -4,7 +4,7 @@ id: claas-cybersecurity-labs-as-a-service
 title: CLaaS (Cybersecurity Labs-as-a-Service)
 description: CLaaS is an AWS-based, browser-accessible cybersecurity lab platform developed for university cybersecurity courses, with an integrated OCR-to-LLM assistant for simplifying lab instructions.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10
@@ -32,4 +32,4 @@ CLaaS is an AWS-based, browser-accessible cybersecurity lab platform developed f
 -
 
 ## Key Sources
-- Patel, K., Lin, Y.-Z., Raul, G., Shih, B. P.-J., Redondo, M. W., Latibari, B. S., Pacheco, J., Salehi, S., & Satam, P. (2025). Integrating Generative AI into Cybersecurity Education: A Study of OCR and Multimodal LLM-assisted Instruction. arXiv. https://arxiv.org/abs/2509.02998
+- Patel, K., Lin, Y.-Z., Raul, G., Shih, B. P.-J., Redondo, M. W., Latibari, B. S., Pacheco, J., Salehi, S., & Satam, P. (2025). Integrating Generative AI into Cybersecurity Education: A Study of OCR and Multimodal LLM-assisted Instruction. arXiv. https://arxiv.org/abs/2509.02998. [doi:10.48550/arxiv.2509.02998](https://doi.org/10.48550/arxiv.2509.02998)

@@ -3,7 +3,7 @@ type: claim
 title: No reviewed study directly compared developmental-progression-guided math instruction with instruction not guided by a progression
 description: No reviewed study directly compared developmental-progression-guided math instruction with instruction not guided by a progression
 id: no-direct-evidence-developmental-progression-versus-unguided
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: About three in five students identified as high-achieving in the first year remained high-achieving in the last year of the study
 description: About three in five students identified as high-achieving in the first year remained high-achieving in the last year of the study
 id: three-in-five-high-achievers-remain-high-achieving
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

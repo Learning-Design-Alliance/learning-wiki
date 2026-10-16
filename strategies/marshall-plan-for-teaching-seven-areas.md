@@ -3,7 +3,7 @@ type: strategy
 id: marshall-plan-for-teaching-seven-areas
 title: "A federal Marshall Plan for Teaching focused on seven areas: compensation, debt-free preparation, high-retention pathways, mentoring, expertise-sharing, school redesign, and accountability"
 description: "The report's central recommendation is 'a nationwide Marshall Plan for teaching, similar to that enacted after World War II to rebuild Europe, but for rebuilding the teaching profession.' It would 'focus the powers of..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

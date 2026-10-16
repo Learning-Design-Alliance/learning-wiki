@@ -3,7 +3,7 @@ type: claim
 title: GenAI dependence is negatively associated with both self-reported critical-thinking disposition and self-perceived employability
 description: GenAI dependence is negatively associated with both self-reported critical-thinking disposition and self-perceived employability
 id: genai-dependence-negative-both-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

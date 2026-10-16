@@ -3,7 +3,7 @@ type: claim
 title: Specializing models for K-12 education does not require a broad loss of general capability, with MMMU-Pro accuracy increasing at all three scales
 description: Specializing models for K-12 education does not require a broad loss of general capability, with MMMU-Pro accuracy increasing at all three scales
 id: omniedu-general-capability-retained-after-specialization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

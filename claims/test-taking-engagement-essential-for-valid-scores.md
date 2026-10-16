@@ -3,7 +3,7 @@ type: claim
 title: Test-taking engagement plays an essential role in the pursuit of valid scores
 description: Test-taking engagement plays an essential role in the pursuit of valid scores
 id: test-taking-engagement-essential-for-valid-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

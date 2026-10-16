@@ -3,7 +3,7 @@ type: claim
 title: Collaborative learning appeared in 36 funded projects, embodied learning in 15, and identity theories in 9
 description: Collaborative learning appeared in 36 funded projects, embodied learning in 15, and identity theories in 9
 id: learning-theory-theme-project-counts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

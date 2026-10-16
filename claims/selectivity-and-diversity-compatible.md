@@ -3,7 +3,7 @@ type: claim
 title: Increasing selectivity of teacher preparation entrance exams is not mutually exclusive with increasing diversity — nine states that raised selectivity saw education student diversity increase.
 description: Increasing selectivity of teacher preparation entrance exams is not mutually exclusive with increasing diversity — nine states that raised selectivity saw education student diversity increase.
 id: selectivity-and-diversity-compatible
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

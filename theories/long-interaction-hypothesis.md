@@ -3,7 +3,7 @@ type: theory
 title: "Long's interaction hypothesis"
 description: "Long's claim that comprehensible input drives second language acquisition and that negotiating communication problems in conversation, through clarification requests, confirmation checks and recasts, is what makes input comprehensible and draws attention to form."
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-30

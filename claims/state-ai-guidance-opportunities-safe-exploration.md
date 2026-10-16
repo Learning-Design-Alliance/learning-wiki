@@ -3,7 +3,7 @@ type: claim
 title: State guidance documents describe opportunities for AI in education with encouraging tones that recommend safe exploration
 description: State guidance documents describe opportunities for AI in education with encouraging tones that recommend safe exploration
 id: state-ai-guidance-opportunities-safe-exploration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

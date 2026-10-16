@@ -3,7 +3,7 @@ type: design
 id: photon-fusion-vr-immersive-learning-system
 title: Photon Fusion-based multi-site VR immersive learning system with real-time voice and shared 3D materials
 description: A VR learning environment in which teachers and students connect via Wi-Fi using VR headsets and communicate through Photon Cloud, which acts as a central server to synchronize object states and audio among all client...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: compare-school-incidence-to-community-trends
 title: Evaluate in-school transmission by comparing school incidence trends for students and staff with trends in the surrounding local community
 description: "The report's evaluation strategy benchmarks a district's COVID-19 trends against its community rather than against other districts."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

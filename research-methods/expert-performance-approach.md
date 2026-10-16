@@ -3,7 +3,7 @@ type: research-method
 id: expert-performance-approach
 title: Expert performance approach
 description: The expert performance approach, first presented by Ericsson and Smith in 1991, is a systematic framework for studying expertise in three stages.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

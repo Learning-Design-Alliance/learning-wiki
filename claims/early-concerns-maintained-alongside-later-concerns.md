@@ -3,7 +3,7 @@ type: claim
 title: Early self- and task-related concerns are maintained alongside later impact concerns as adoption of complex technologies advances, modifying the sequential CBAM conception
 description: Early self- and task-related concerns are maintained alongside later impact concerns as adoption of complex technologies advances, modifying the sequential CBAM conception
 id: early-concerns-maintained-alongside-later-concerns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

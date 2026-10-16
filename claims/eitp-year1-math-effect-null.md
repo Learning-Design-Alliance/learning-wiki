@@ -3,7 +3,7 @@ type: claim
 title: The first-year effect of the EITP pilot on school-level math achievement (0.05 SD) was not statistically significant
 description: The first-year effect of the EITP pilot on school-level math achievement (0.05 SD) was not statistically significant
 id: eitp-year1-math-effect-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

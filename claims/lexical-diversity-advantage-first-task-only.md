@@ -3,7 +3,7 @@ type: claim
 title: AI-assisted peer feedback enhanced lexical diversity only in the first writing task, with the group advantage disappearing by the second task
 description: AI-assisted peer feedback enhanced lexical diversity only in the first writing task, with the group advantage disappearing by the second task
 id: lexical-diversity-advantage-first-task-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

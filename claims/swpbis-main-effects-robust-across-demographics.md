@@ -3,7 +3,7 @@ type: claim
 title: Sex and special education status did not significantly moderate SWPBIS effects on teacher-rated bullying and peer rejection
 description: Sex and special education status did not significantly moderate SWPBIS effects on teacher-rated bullying and peer rejection
 id: swpbis-main-effects-robust-across-demographics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

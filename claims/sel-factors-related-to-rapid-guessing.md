@@ -3,7 +3,7 @@ type: claim
 title: Social-emotional factors, including low academic self-efficacy and self-management, are related to rapid guessing behavior
 description: Social-emotional factors, including low academic self-efficacy and self-management, are related to rapid guessing behavior
 id: sel-factors-related-to-rapid-guessing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

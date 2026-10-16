@@ -3,7 +3,7 @@ type: claim
 title: "NBA Math Hoops significantly improves elementary and middle school students' math achievement compared to business-as-usual summer STEM programming (0.19 SD gain)"
 description: "NBA Math Hoops significantly improves elementary and middle school students' math achievement compared to business-as-usual summer STEM programming (0.19 SD gain)"
 id: nba-math-hoops-improves-summer-math-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

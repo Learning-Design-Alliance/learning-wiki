@@ -3,7 +3,7 @@ type: claim
 title: "NWEA claims MAP Reading Fluency's mechanisms of change are hypothesized to lead to all students reading fluently with comprehension"
 description: "NWEA claims MAP Reading Fluency's mechanisms of change are hypothesized to lead to all students reading fluently with comprehension"
 id: map-rf-theory-action-overarching-goal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

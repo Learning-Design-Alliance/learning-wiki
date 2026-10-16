@@ -3,7 +3,7 @@ type: claim
 title: Unpressured within-task planning improves accuracy only when attention is guided to form
 description: Unpressured within-task planning improves accuracy only when attention is guided to form
 id: unpressured-within-task-planning-form-focused-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: For Dewey, moral knowledge is a product of moral inquiry, so character education should add moral problem solving rather than teach fixed principles through example, reward, or punishment
 description: For Dewey, moral knowledge is a product of moral inquiry, so character education should add moral problem solving rather than teach fixed principles through example, reward, or punishment
 id: moral-knowledge-product-of-moral-inquiry
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: strategy
 id: strategic-steps-beyond-informal-ai-innovation
 title: "Strategic steps to move beyond informal AI innovation: recognise redesign in workload models, embed innovation in promotion criteria, set institutional AI principles, redesign assessment, and fund scaling pilots"
 description: "The article enumerates five implementable institutional actions: \"Recognise AI-driven curriculum redesign in workload models so innovation is not dependent on unrecognised effort by individual educators\"; embed AI-ena..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -54,4 +54,4 @@ The article enumerates five implementable institutional actions: "Recognise AI-d
 -
 
 ## Key Sources
-- Binkowski, K. P., & Hopkins, A. (2026). The University AI Didn't Replace: Rethinking Universities in the AI Era. Macquarie University. https://arxiv.org/abs/2605.07056
+- Binkowski, K. P., & Hopkins, A. (2026). The University AI Didn't Replace: Rethinking Universities in the AI Era. Macquarie University. https://arxiv.org/abs/2605.07056. [doi:10.48550/arxiv.2605.07056](https://doi.org/10.48550/arxiv.2605.07056)

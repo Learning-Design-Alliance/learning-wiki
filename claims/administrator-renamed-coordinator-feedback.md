@@ -3,7 +3,7 @@ type: claim
 title: Participant feedback in macro cycle one prompted renaming the Administrator standard to Coordinator and reordering the standards
 description: Participant feedback in macro cycle one prompted renaming the Administrator standard to Coordinator and reordering the standards
 id: administrator-renamed-coordinator-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

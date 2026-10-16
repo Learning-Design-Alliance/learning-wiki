@@ -3,7 +3,7 @@ type: strategy
 id: eight-critical-opportunities-ace-sector
 title: Eight critical opportunities for the ACE sector to explore within the national VET system
 description: "The report identifies eight opportunities which the ACE sector should explore further: positioning ACE providers in the Modern Australian Apprenticeship and Traineeship System (MAATS); increasing emphasis on the value..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

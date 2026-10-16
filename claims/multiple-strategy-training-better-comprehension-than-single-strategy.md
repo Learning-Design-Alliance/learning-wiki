@@ -3,7 +3,7 @@ type: claim
 title: Multiple-strategy comprehension training appears to produce better comprehension than single-strategy training
 description: Multiple-strategy comprehension training appears to produce better comprehension than single-strategy training
 id: multiple-strategy-training-better-comprehension-than-single-strategy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

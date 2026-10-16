@@ -2,7 +2,7 @@
 type: theory
 title: "Three levels of educational influence for civic learning in the university: formal, informal, and non-formal"
 description: "The article proposes that universities can foster civic competence through three levels of action: formal (subjects and curricular themes), informal (mentoring, role models, service-learning, student associations, vol..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

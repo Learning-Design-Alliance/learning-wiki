@@ -3,7 +3,7 @@ type: claim
 title: A four-quadrant FEA-supported experiential module was implemented across three heat transfer topics without formal assessment
 description: A four-quadrant FEA-supported experiential module was implemented across three heat transfer topics without formal assessment
 id: elt-fea-module-implemented-three-topics-unassessed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

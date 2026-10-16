@@ -3,7 +3,7 @@ type: claim
 title: Children were split about confiding in the chatbot, with about half willing to share secrets or ask advice and half not
 description: Children were split about confiding in the chatbot, with about half willing to share secrets or ask advice and half not
 id: children-split-on-confiding-in-chatbot
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

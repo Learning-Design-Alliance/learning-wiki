@@ -3,7 +3,7 @@ type: claim
 title: "The article proposes an empirical validation agenda: comparing perceived competence under LLM-assisted versus unaided conditions, with measurement frameworks and longitudinal designs"
 description: "The article proposes an empirical validation agenda: comparing perceived competence under LLM-assisted versus unaided conditions, with measurement frameworks and longitudinal designs"
 id: llm-fallacy-empirical-validation-agenda
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

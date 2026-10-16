@@ -3,7 +3,7 @@ type: strategy
 id: contradiction-discovery-tools-for-learning-activity
 title: Provide tools such as the Online Learning Record that help students observe and reflect on class concepts in settings outside the class
 description: The article recommends designing learning activity settings in which students participate in discovering contradictions between what they are learning in class and what they know and practice, in order to transcend th...
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

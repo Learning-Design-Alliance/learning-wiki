@@ -3,7 +3,7 @@ type: claim
 title: More experienced teachers earned additional certificates in shortage areas (47 percent) than in nonshortage areas (25 percent), with special education the most common shortage area (27 percent)
 description: More experienced teachers earned additional certificates in shortage areas (47 percent) than in nonshortage areas (25 percent), with special education the most common shortage area (27 percent)
 id: shortage-areas-dominate-additional-certification-special-education-most-common
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

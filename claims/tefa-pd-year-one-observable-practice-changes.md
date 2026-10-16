@@ -3,7 +3,7 @@ type: claim
 title: After one year of TEFA professional development, videotaped lessons showed increased discussion time, more student-student interactions, less IRE interaction, and more varied discussion formats
 description: After one year of TEFA professional development, videotaped lessons showed increased discussion time, more student-student interactions, less IRE interaction, and more varied discussion formats
 id: tefa-pd-year-one-observable-practice-changes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

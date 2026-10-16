@@ -3,7 +3,7 @@ type: claim
 title: AI-generated responses positively influenced the self-efficacy of secondary students in solving mathematics problems
 description: AI-generated responses positively influenced the self-efficacy of secondary students in solving mathematics problems
 id: ai-generated-responses-positive-self-efficacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

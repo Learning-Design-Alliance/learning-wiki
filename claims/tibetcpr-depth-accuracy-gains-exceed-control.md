@@ -3,7 +3,7 @@ type: claim
 title: TibetCPR training produced depth-accuracy gains that substantially exceeded unguided practice and transferred to an unscaffolded post-test
 description: TibetCPR training produced depth-accuracy gains that substantially exceeded unguided practice and transferred to an unscaffolded post-test
 id: tibetcpr-depth-accuracy-gains-exceed-control
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

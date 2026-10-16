@@ -3,7 +3,7 @@ type: claim
 title: On a motor transfer test, self-controlled knowledge-of-results groups estimated their outcomes more accurately than yoked groups, and among self-controlled groups Self-After and Self-Both were more accurate than Self-Before.
 description: On a motor transfer test, self-controlled knowledge-of-results groups estimated their outcomes more accurately than yoked groups, and among self-controlled groups Self-After and Self-Both were more accurate than Self-...
 id: self-controlled-kr-groups-estimate-transfer-outcomes-more-accurately-than-yoked
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

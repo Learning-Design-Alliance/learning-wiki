@@ -3,7 +3,7 @@ type: claim
 title: AI training for pre-service primary teachers is predominantly short-term interventions embedded within existing courses rather than standalone AI courses
 description: AI training for pre-service primary teachers is predominantly short-term interventions embedded within existing courses rather than standalone AI courses
 id: ai-training-short-term-embedded-existing-courses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

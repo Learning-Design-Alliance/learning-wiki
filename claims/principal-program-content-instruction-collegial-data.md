@@ -3,7 +3,7 @@ type: claim
 title: Program content focused on instruction, collegial organizations, and data use is associated with positive school outcomes
 description: Program content focused on instruction, collegial organizations, and data use is associated with positive school outcomes
 id: principal-program-content-instruction-collegial-data
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

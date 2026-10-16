@@ -3,7 +3,7 @@ type: strategy
 id: incorporate-learning-context-into-scaffolding-benchmarks
 title: Incorporate learning context external to the chat into future scaffolding benchmarks, rubrics, and alignment datasets
 description: The article recommends that future scaffolding benchmarks and alignment datasets should incorporate the learning context external to the chat, both as input to the chatbot and as grounding for its evaluation.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -50,4 +50,4 @@ The article recommends that future scaffolding benchmarks and alignment datasets
 -
 
 ## Key Sources
-- Neagu, A., Wong, J. T. H., Messer, M., Nelson, R., & Johnson, P. B. (2026). Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments. Pluralistic Alignment Workshop @ ICML 2026. https://arxiv.org/abs/2606.15766
+- Neagu, A., Wong, J. T. H., Messer, M., Nelson, R., & Johnson, P. B. (2026). Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments. Pluralistic Alignment Workshop @ ICML 2026. https://arxiv.org/abs/2606.15766. [doi:10.48550/arxiv.2606.15766](https://doi.org/10.48550/arxiv.2606.15766)

@@ -4,7 +4,7 @@ id: proxy-labeled-ai-detection-error-analysis-corpus-and-released-evaluation-pip
 title: Proxy-labeled AI-detection error-analysis corpus and released evaluation pipeline
 description: "Karr et al.'s released corpus and code evaluate commercial AI-text-detector errors using published abstracts, model rewrites, and humanized texts."
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

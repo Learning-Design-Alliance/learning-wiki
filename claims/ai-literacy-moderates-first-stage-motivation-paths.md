@@ -3,7 +3,7 @@ type: claim
 title: Perceived AI literacy moderates the first-stage paths from AI dependence to escape, social, and entertainment motivation, but not to instrumental motivation
 description: Perceived AI literacy moderates the first-stage paths from AI dependence to escape, social, and entertainment motivation, but not to instrumental motivation
 id: ai-literacy-moderates-first-stage-motivation-paths
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Standardized benchmarks are often too generic to reflect the needs of innovative educational applications
 description: Standardized benchmarks are often too generic to reflect the needs of innovative educational applications
 id: standardized-benchmarks-too-generic-for-education
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

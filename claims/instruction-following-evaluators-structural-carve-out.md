@@ -3,7 +3,7 @@ type: claim
 title: "Five general instruction-following evaluators could not reach deployable activation rates (best BMK 2.23%–20.72%) because fixed rubrics cannot enumerate long per-conversation instruction sets"
 description: "Five general instruction-following evaluators could not reach deployable activation rates (best BMK 2.23%–20.72%) because fixed rubrics cannot enumerate long per-conversation instruction sets"
 id: instruction-following-evaluators-structural-carve-out
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

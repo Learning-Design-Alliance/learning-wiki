@@ -3,7 +3,7 @@ type: research-method
 id: multimodal-engagement-prediction-framework-with-perceiver-io-fusion-hierarchical-bayesian
 title: Multimodal engagement-prediction framework with Perceiver IO fusion, hierarchical Bayesian participant context, and uncertainty-aware heads
 description: "A computational framework that jointly predicts a continuous engagement score in [1,5] and a binary label from tutoring-video clips."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

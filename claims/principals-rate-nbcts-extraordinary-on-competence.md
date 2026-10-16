@@ -3,7 +3,7 @@ type: claim
 title: "Principals rated board-certified teachers higher than other experienced teachers on seven competence areas, most often 'extraordinary'"
 description: "Principals rated board-certified teachers higher than other experienced teachers on seven competence areas, most often 'extraordinary'"
 id: principals-rate-nbcts-extraordinary-on-competence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

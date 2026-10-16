@@ -3,7 +3,7 @@ type: strategy
 id: disaggregated-attainment-data-equity-monitoring
 title: Use disaggregated attainment data with an aspiration benchmark to identify where students face barriers and hold institutions responsible for change
 description: "The report models a monitoring practice: track attainment milestones over time, disaggregate \"by race/ethnicity and gender, disability status, and, for the first time, English Learner (EL) status to understand which s..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

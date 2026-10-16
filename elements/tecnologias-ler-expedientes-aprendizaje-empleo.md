@@ -3,7 +3,7 @@ type: element
 id: tecnologias-ler-expedientes-aprendizaje-empleo
 title: Tecnologías de Expedientes de Aprendizaje y Empleo (LER)
 description: "Un LER es \"un registro de datos digital de las destrezas, experiencias y credenciales de un individuo que puede combinarse con otros LER y credenciales digitales\" para hacerlos visibles en la búsqueda de oportunidades..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

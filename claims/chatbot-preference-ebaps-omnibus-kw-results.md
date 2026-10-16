@@ -3,7 +3,7 @@ type: claim
 title: Chatbot preference groups differed in total EBAPS and Axis 4/5 scores at the nominal level, with small effect sizes, but not after Bonferroni adjustment
 description: Chatbot preference groups differed in total EBAPS and Axis 4/5 scores at the nominal level, with small effect sizes, but not after Bonferroni adjustment
 id: chatbot-preference-ebaps-omnibus-kw-results
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

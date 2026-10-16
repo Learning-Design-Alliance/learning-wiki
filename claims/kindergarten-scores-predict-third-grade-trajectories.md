@@ -3,7 +3,7 @@ type: claim
 title: Kindergarten test scores show patterns that can predict academic success or identify students at risk of falling further behind by third grade
 description: Kindergarten test scores show patterns that can predict academic success or identify students at risk of falling further behind by third grade
 id: kindergarten-scores-predict-third-grade-trajectories
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

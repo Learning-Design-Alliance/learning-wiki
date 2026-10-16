@@ -3,7 +3,7 @@ type: claim
 title: The selectivity impact of Find the Fit persisted through the third fall after high school graduation
 description: The selectivity impact of Find the Fit persisted through the third fall after high school graduation
 id: find-the-fit-selectivity-impact-persisted-three-years
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

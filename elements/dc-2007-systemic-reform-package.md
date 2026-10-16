@@ -3,7 +3,7 @@ type: element
 id: dc-2007-systemic-reform-package
 title: DC 2007 systemic school reform package (staff evaluation, charter sector growth, unified enrollment)
 description: Beginning in 2007, the District of Columbia implemented a systemic reform of educational governance and processes.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

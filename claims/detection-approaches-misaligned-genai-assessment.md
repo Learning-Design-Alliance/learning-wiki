@@ -3,7 +3,7 @@ type: claim
 title: Detection-oriented integrity approaches are increasingly misaligned with GenAI-augmented assessment (theoretical argument)
 description: Detection-oriented integrity approaches are increasingly misaligned with GenAI-augmented assessment (theoretical argument)
 id: detection-approaches-misaligned-genai-assessment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

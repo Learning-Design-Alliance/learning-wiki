@@ -3,7 +3,7 @@ type: strategy
 id: stipends-and-tuition-subsidy-for-residency-access
 title: Fund residents with stipends and halve tuition to make a yearlong coteaching residency financially accessible
 description: Claremont compensates candidates to make a yearlong coteaching model accessible to those who could not afford to forgo income.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

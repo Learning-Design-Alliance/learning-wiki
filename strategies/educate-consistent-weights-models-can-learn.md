@@ -3,7 +3,7 @@ type: strategy
 id: educate-consistent-weights-models-can-learn
 title: Reduce algorithm aversion by educating about the value of consistent weighting or convincing users that models can learn
 description: "Based on exploratory attribute comparisons in Studies 2–4, the authors recommend that practitioners \"attempt to reduce algorithm aversion by either educating people of the importance of providing consistent and approp..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

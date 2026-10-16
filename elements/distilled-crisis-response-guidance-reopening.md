@@ -3,7 +3,7 @@ type: element
 id: distilled-crisis-response-guidance-reopening
 title: Distilled crisis response guidance from federal agencies and technical assistance centers
 description: "The fact sheet is itself a synthesized guidance artifact: the authors state they \"distilled crisis response guidance from federal agencies, national professional associations, and federally funded research collaborati..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

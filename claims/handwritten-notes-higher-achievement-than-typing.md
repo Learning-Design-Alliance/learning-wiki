@@ -3,7 +3,7 @@ type: claim
 title: Taking and reviewing handwritten notes yields slightly higher achievement than typing notes among college students, by one meta-analysis reported second-hand
 description: "Taking and reviewing handwritten notes yields slightly higher achievement than typing notes among college students, by one meta-analysis reported second-hand"
 id: handwritten-notes-higher-achievement-than-typing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

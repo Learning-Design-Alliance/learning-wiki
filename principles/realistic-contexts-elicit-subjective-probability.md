@@ -3,7 +3,7 @@ type: principle
 id: realistic-contexts-elicit-subjective-probability
 title: Use realistic, culturally meaningful contexts alongside randomising devices to elicit the full range of probabilistic reasoning
 description: Because traditional randomising-device tasks cannot provide an adequate foundation for subjective probability, probability education for teachers should employ authentic situations (e.g.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

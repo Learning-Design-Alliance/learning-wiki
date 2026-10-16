@@ -3,7 +3,7 @@ type: element
 id: peer-teacher-workshops-mise
 title: Peer Teacher Workshops (PTWs)
 description: "Peer Teacher Workshops were week-long, module-based professional development sessions, each \"based on one of the curriculum modules used in the districts,\" designed to deepen teachers' science content understanding, k..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

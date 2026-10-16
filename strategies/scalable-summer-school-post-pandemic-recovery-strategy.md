@@ -3,7 +3,7 @@ type: strategy
 id: scalable-summer-school-post-pandemic-recovery-strategy
 title: Offer scalable summer school as a post-pandemic academic recovery intervention for districts
 description: "The brief positions summer school as a scalable academic intervention districts can use for post-pandemic recovery, addressing \"Seasonal learning patterns & summer loss\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

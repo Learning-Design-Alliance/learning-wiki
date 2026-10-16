@@ -3,7 +3,7 @@ type: strategy
 id: explicit-implicit-reviewer-pool-maintenance
 title: Maintain reviewer quality through explicit benchmark checks and implicit analytics on scoring drift
 description: Step 5 of the workflow is an ongoing process with two strands.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "The LLM-based journaling assistant shows no significant effect on students' intrinsic motivation for creating a learning journal"
 description: "The LLM-based journaling assistant shows no significant effect on students' intrinsic motivation for creating a learning journal"
 id: journaling-assistant-no-intrinsic-motivation-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

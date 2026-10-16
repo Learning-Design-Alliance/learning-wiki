@@ -3,7 +3,7 @@ type: claim
 title: "Choice program demand varied widely: 19 percent of programs received more than 10 applications per seat while 8 percent received fewer applications than seats, with demand higher for Arts, CTE, points-based, and highly rated programs"
 description: "Choice program demand varied widely: 19 percent of programs received more than 10 applications per seat while 8 percent received fewer applications than seats, with demand higher for Arts, CTE, points-based, and highl..."
 id: gocps-program-demand-variation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Retrieval practice disrupted within-list order reconstruction of eight-item word lists, just as generation did
 description: Retrieval practice disrupted within-list order reconstruction of eight-item word lists, just as generation did
 id: retrieval-practice-disrupts-within-list-order-reconstruction
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

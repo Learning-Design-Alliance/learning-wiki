@@ -3,7 +3,7 @@ type: claim
 title: Productivity-oriented ChatGPT videos achieved platform reach comparable to skill-oriented videos despite weaker learning-oriented framing
 description: Productivity-oriented ChatGPT videos achieved platform reach comparable to skill-oriented videos despite weaker learning-oriented framing
 id: productivity-framing-comparable-reach
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

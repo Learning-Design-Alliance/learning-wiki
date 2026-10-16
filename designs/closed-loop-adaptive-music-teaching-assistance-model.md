@@ -3,7 +3,7 @@ type: design
 id: closed-loop-adaptive-music-teaching-assistance-model
 title: Closed-loop adaptive teaching assistance model integrating perception, evaluation, generation and feedback for music education
 description: "The article proposes an adaptive teaching assistance model for music education organized as a closed-loop path of \"perception evaluation generation feedback\"."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

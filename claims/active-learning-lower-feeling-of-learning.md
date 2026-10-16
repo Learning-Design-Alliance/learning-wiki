@@ -3,7 +3,7 @@ type: claim
 title: Students in active classrooms reported lower feeling of learning than students in passive lectures (0.56 SD lower, P < 0.001)
 description: Students in active classrooms reported lower feeling of learning than students in passive lectures (0.56 SD lower, P < 0.001)
 id: active-learning-lower-feeling-of-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

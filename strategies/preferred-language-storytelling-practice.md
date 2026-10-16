@@ -3,7 +3,7 @@ type: strategy
 id: preferred-language-storytelling-practice
 title: Allow students to practise storytelling in their preferred language to support creative expression
 description: The article recommends letting students choose the language in which they engage with storytelling activities.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

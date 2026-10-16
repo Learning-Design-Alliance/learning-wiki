@@ -4,7 +4,7 @@ title: Find the Fit had no impact on the importance students placed on academic 
 description: Find the Fit had no impact on the importance students placed on academic quality in choosing a college
 id: find-the-fit-no-impact-importance-academic-quality
 aliases: [find-the-fit-no-impact-importance-academic-quality-college-choice]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

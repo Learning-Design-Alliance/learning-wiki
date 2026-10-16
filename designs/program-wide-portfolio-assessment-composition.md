@@ -3,7 +3,7 @@ type: design
 id: program-wide-portfolio-assessment-composition
 title: Program-wide portfolio assessment in composition as a professional-development and consistency practice
 description: An assessment practice in which writing-program faculty review sampled student portfolios across sections to gauge consistency and improve instruction.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

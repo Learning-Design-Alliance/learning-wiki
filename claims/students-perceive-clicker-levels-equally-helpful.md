@@ -3,7 +3,7 @@ type: claim
 title: Students perceive LOCS and HOCS clicker questions as equally helpful, despite exam performance differences
 description: Students perceive LOCS and HOCS clicker questions as equally helpful, despite exam performance differences
 id: students-perceive-clicker-levels-equally-helpful
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

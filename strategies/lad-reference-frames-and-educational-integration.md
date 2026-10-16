@@ -3,7 +3,7 @@ type: strategy
 id: lad-reference-frames-and-educational-integration
 title: Include reference frames in a LAD and balance dashboard support with integration into existing educational structures
 description: "The article recommends that \"LAD developers should consider including one or multiple reference frame(s) in a LAD\" because participants struggled to establish acceptable scores (e.g., \"39 out of 100 does not mean anyt..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

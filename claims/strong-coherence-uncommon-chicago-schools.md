@@ -3,7 +3,7 @@ type: claim
 title: Strong instructional program coherence is uncommon among Chicago elementary schools
 description: Strong instructional program coherence is uncommon among Chicago elementary schools
 id: strong-coherence-uncommon-chicago-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

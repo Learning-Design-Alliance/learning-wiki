@@ -3,7 +3,7 @@ type: claim
 title: Gaze-based assistance led children to fixate the narrated primary AOI significantly longer than LLM-baseline assistance
 description: Gaze-based assistance led children to fixate the narrated primary AOI significantly longer than LLM-baseline assistance
 id: gaze-assistance-longer-primary-aoi-fixation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

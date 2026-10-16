@@ -3,7 +3,7 @@ type: claim
 title: "SSA should also consider students' expectations about their learning"
 description: "SSA should also consider students' expectations about their learning"
 id: ssa-should-consider-student-expectations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

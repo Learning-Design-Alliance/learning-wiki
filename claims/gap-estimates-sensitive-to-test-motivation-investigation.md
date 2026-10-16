@@ -3,7 +3,7 @@ type: claim
 title: The article investigates whether achievement gap estimates are sensitive to test motivation, framing the question as achievement gap versus engagement gap
 description: The article investigates whether achievement gap estimates are sensitive to test motivation, framing the question as achievement gap versus engagement gap
 id: gap-estimates-sensitive-to-test-motivation-investigation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

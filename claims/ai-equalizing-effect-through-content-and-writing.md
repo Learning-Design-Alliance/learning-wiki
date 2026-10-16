@@ -3,7 +3,7 @@ type: claim
 title: The equalizing effect of AI assistance operates through both content and writing subcomponents, with incomplete convergence in each
 description: The equalizing effect of AI assistance operates through both content and writing subcomponents, with incomplete convergence in each
 id: ai-equalizing-effect-through-content-and-writing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

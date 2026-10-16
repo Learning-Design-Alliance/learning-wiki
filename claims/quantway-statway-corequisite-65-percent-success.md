@@ -3,7 +3,7 @@ type: claim
 title: "In their first year, 65.1% of the 410 students in Quantway and Statway College with Corequisite earned a grade of C or better and college-level math credit in a single term"
 description: "In their first year, 65.1% of the 410 students in Quantway and Statway College with Corequisite earned a grade of C or better and college-level math credit in a single term"
 id: quantway-statway-corequisite-65-percent-success
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

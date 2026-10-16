@@ -3,7 +3,7 @@ type: claim
 title: Caregiver uptake of the Family MUAC two-way SMS intervention was high
 description: Caregiver uptake of the Family MUAC two-way SMS intervention was high
 id: family-muac-sms-high-uptake
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: strategy
 id: genai-as-reflective-prompt-not-shortcut
 title: Use GenAI as a reflective prompt in learning design, not as a shortcut for efficiency
 description: "A specific implementable practice the article recommends: educators can strengthen learning design by prompting GenAI in ways that provoke their own reflection rather than outsourcing design decisions."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "Interacting repeatedly across convenings built trust that enabled districts to give and receive critiques of one another's plans"
 description: "Interacting repeatedly across convenings built trust that enabled districts to give and receive critiques of one another's plans"
 id: repeated-convenings-trust-enables-critique
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

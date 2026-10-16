@@ -3,7 +3,7 @@ type: claim
 title: Almost all middle and high school academic indicators demonstrated similar predictive strength across student groups, with exceptions for science and English language arts proficiency in middle school and science proficiency and community service learning enrollment in high school
 description: Almost all middle and high school academic indicators demonstrated similar predictive strength across student groups, with exceptions for science and English language arts proficiency in middle school and science prof...
 id: academic-indicator-predictive-strength-similar
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

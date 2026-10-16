@@ -3,7 +3,7 @@ type: strategy
 id: students-write-measurement-app-prompts
 title: "A proposed but not yet classroom-evaluated extension: have students write and refine the measurement-application prompt themselves"
 description: The authors propose a natural extension in which students write and refine the prompt for a measurement application themselves.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

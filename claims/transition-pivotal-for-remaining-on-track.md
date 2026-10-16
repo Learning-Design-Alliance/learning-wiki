@@ -3,7 +3,7 @@ type: claim
 title: Successfully transitioning from intermediate school to secondary school is pivotal for students to remain on track to graduate
 description: Successfully transitioning from intermediate school to secondary school is pivotal for students to remain on track to graduate
 id: transition-pivotal-for-remaining-on-track
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

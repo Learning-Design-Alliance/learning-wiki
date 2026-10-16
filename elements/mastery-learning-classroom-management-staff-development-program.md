@@ -3,7 +3,7 @@ type: element
 id: mastery-learning-classroom-management-staff-development-program
 title: Mastery learning and classroom management staff development program for secondary mathematics teachers
 description: A staff development program combining mastery learning principles with research-based classroom management strategies, delivered to 21 volunteer high school mathematics teachers randomly assigned by school to treatment.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

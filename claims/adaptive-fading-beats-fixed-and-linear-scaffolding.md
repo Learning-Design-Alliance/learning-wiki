@@ -3,7 +3,7 @@ type: claim
 title: Adaptive fading with periodic reinforcement yields higher independence than fixed-high or linear-decay scaffolding in simulation
 description: Adaptive fading with periodic reinforcement yields higher independence than fixed-high or linear-decay scaffolding in simulation
 id: adaptive-fading-beats-fixed-and-linear-scaffolding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
@@ -49,3 +49,4 @@ Scaffolding strategy effectiveness analysis comparing Fixed High (constant σt =
 - [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — a broader claim this one bears on
 - [ARPG+ produces higher final prompt quality than unguided, template, and rule-based conditions among simulated learners](arpg-plus-higher-prompt-quality-than-baselines.md) — related
 - [Adaptive spaced retrieval practice produced higher end-of-semester posttest performance than learner-directed AI study, but fixed spaced retrieval did not significantly outperform learner-directed study](adaptive-retrieval-posttest-retention-advantage.md) — related
+- [Cognitive and metacognitive prompts in learning journals helped early in a term but became detrimental by its end; adaptive fading-out mitigated this](expertise-reversal-writing-journal-prompts-fading.md) — related

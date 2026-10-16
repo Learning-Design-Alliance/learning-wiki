@@ -3,7 +3,7 @@ type: claim
 title: Morphological noticing focuses mainly on verb forms, especially modals, and on preposition choice
 description: Morphological noticing focuses mainly on verb forms, especially modals, and on preposition choice
 id: morphological-noticing-verb-forms-modals-prepositions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

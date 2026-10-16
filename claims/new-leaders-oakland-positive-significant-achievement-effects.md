@@ -3,7 +3,7 @@ type: claim
 title: Attending a New Leaders-led school in Oakland has positive, statistically significant effects on student achievement
 description: Attending a New Leaders-led school in Oakland has positive, statistically significant effects on student achievement
 id: new-leaders-oakland-positive-significant-achievement-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

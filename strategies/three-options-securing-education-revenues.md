@@ -3,7 +3,7 @@ type: strategy
 id: three-options-securing-education-revenues
 title: "Three main options for securing new education revenues: better use of available funds, new tax revenues, and reduced tax expenditures"
 description: The report identifies, from its interviews, three main options California can pursue to secure new education revenues.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

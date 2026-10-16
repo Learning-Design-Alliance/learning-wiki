@@ -3,7 +3,7 @@ type: claim
 title: "AI use is predominantly independent of the science subject taught, with one exception: chemistry teachers most often cite lack of subject-specific relevance"
 description: "AI use is predominantly independent of the science subject taught, with one exception: chemistry teachers most often cite lack of subject-specific relevance"
 id: ai-use-independent-of-science-subject
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

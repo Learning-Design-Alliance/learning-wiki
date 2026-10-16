@@ -3,7 +3,7 @@ type: claim
 title: "The cohort's baseline perception profile shows high endorsement of critical-thinking risk and training interest and substantially more cautious trust for complex-task use than for accuracy"
 description: "The cohort's baseline perception profile shows high endorsement of critical-thinking risk and training interest and substantially more cautious trust for complex-task use than for accuracy"
 id: baseline-perception-profile-graduate-trainees
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

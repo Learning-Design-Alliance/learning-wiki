@@ -3,7 +3,7 @@ type: claim
 title: Self-regulated learning moderates the cognitive load–critical thinking relationship, buffering the negative effect of load
 description: Self-regulated learning moderates the cognitive load–critical thinking relationship, buffering the negative effect of load
 id: srl-moderates-cognitive-load-critical-thinking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

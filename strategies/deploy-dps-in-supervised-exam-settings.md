@@ -3,7 +3,7 @@ type: strategy
 id: deploy-dps-in-supervised-exam-settings
 title: Use LLM-generated design problems in supervised, time-bound exam-like settings to assess individual higher-order thinking where AI use or teamwork obscures mastery
 description: The article recommends deploying DPs as short, supervised, individual assessments to elicit individual reasoning in novel contexts, particularly when generative AI use or collaborative work may compromise assessment v...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

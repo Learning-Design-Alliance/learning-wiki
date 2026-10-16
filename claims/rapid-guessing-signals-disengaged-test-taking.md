@@ -3,7 +3,7 @@ type: claim
 title: Rapid-guessing behavior on computer-based tests signals disengaged test taking that threatens score validity
 description: Rapid-guessing behavior on computer-based tests signals disengaged test taking that threatens score validity
 id: rapid-guessing-signals-disengaged-test-taking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

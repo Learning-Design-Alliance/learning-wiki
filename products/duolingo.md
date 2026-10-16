@@ -4,7 +4,7 @@ id: duolingo
 title: Duolingo
 description: Duolingo is a language-learning software platform operated by Duolingo, Inc., offering courses, practice activities, and community discussion boards across many languages.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
@@ -36,7 +36,7 @@ Duolingo is a language-learning software platform operated by Duolingo, Inc., of
 -
 
 ## Key Sources
-- Neuschafer, T. (2022). Understanding Duolingo discussion boards as social-emotional support during the COVID-19 pandemic. Journal of Educators Online. https://eric.ed.gov/?id=EJ1393729
+- Neuschafer, T. (2022). Understanding Duolingo discussion boards as social-emotional support during the COVID-19 pandemic. Journal of Educators Online. https://eric.ed.gov/?id=EJ1393729. [doi:10.9743/jeo.2023.20.2.8](https://doi.org/10.9743/jeo.2023.20.2.8)
 
 <!-- merged 2026-10-10 from elements/duolingo-asynchronous-discussion-boards ("Duolingo asynchronous discussion boards"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -77,5 +77,5 @@ Duolingo connects learners through asynchronous discussion boards attached to ea
 - [Use online platform discussion boards as a window into learners' pandemic-related anxieties and needs](../strategies/use-boards-to-understand-learner-anxieties.md)
 
 ## Key Sources
-- Neuschafer, T. (2022). Understanding Duolingo discussion boards as social-emotional support during the COVID-19 pandemic. Journal of Educators Online. https://eric.ed.gov/?id=EJ1393729
+- Neuschafer, T. (2022). Understanding Duolingo discussion boards as social-emotional support during the COVID-19 pandemic. Journal of Educators Online. https://eric.ed.gov/?id=EJ1393729. [doi:10.9743/jeo.2023.20.2.8](https://doi.org/10.9743/jeo.2023.20.2.8)
 -->

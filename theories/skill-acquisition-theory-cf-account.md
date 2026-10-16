@@ -2,7 +2,7 @@
 type: theory
 title: "Skill acquisition theory account of written CF effects: declarative knowledge proceduralized into implicit knowledge through repeated practice"
 description: The article explains its findings within skill acquisition theory (citing DeKeyser and Ellis), which distinguishes explicit declarative knowledge of facts and rules from implicit procedural knowledge.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

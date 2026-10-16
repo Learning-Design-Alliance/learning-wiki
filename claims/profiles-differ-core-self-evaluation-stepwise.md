@@ -3,7 +3,7 @@ type: claim
 title: Latent career adapt-abilities profiles differ strongly in core self-evaluations, with a stepwise increase across low, moderate, and high groups
 description: Latent career adapt-abilities profiles differ strongly in core self-evaluations, with a stepwise increase across low, moderate, and high groups
 id: profiles-differ-core-self-evaluation-stepwise
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

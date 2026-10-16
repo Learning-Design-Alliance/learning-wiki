@@ -3,7 +3,7 @@ type: element
 id: 3d-participatory-simulation-il
 title: Three-dimensional computer-mediated participatory simulation for information problem-solving instruction
 description: A 3D computer-generated participatory simulation built on sociocultural learning principles, in which students act as information literacy apprentices within a computer-generated community of information professionals...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

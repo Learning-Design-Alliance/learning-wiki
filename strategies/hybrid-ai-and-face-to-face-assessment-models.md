@@ -3,7 +3,7 @@ type: strategy
 id: hybrid-ai-and-face-to-face-assessment-models
 title: Explore hybrid assessment models combining AI conversational agent-based and face-to-face formats, with long-term study of effects on performance and well-being
 description: The article recommends that future work move beyond comparing purely AI-mediated and purely face-to-face assessment by developing and studying hybrid formats, and by examining longer-term consequences.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

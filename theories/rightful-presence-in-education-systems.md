@@ -2,7 +2,7 @@
 type: theory
 title: "Rightful presence in education systems: a framework for building equity and justice at the systems level"
 description: The brief defines rightful presence as a systems-level extension of a concept from sanctuary-city scholarship, reimagined for classrooms by Calabrese Barton and Tan and extended to education systems by SWIFT Education...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

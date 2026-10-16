@@ -3,7 +3,7 @@ type: strategy
 id: high-quality-math-instruction-practices
 title: "High-quality math instruction: conceptual emphasis, productive struggle, collaboration, multiple solution paths, culturally relevant tasks, and timely intervention"
 description: The report recommends that teachers, supported by well-designed curricular materials, promote mathematical growth by emphasizing conceptual understanding rather than algorithmic problem-solving; giving students opport...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

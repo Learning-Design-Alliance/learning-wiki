@@ -3,7 +3,7 @@ type: claim
 title: Films with existential themes can serve as vehicles for Bildung in higher education
 description: Films with existential themes can serve as vehicles for Bildung in higher education
 id: existential-films-vehicle-for-bildung
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

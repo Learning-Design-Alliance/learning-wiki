@@ -3,7 +3,7 @@ type: claim
 title: Dialogic reading favored significant gains on lexical diversity during play and total utterances during book reading, but not on four other measures (Dale et al., 1996)
 description: Dialogic reading favored significant gains on lexical diversity during play and total utterances during book reading, but not on four other measures (Dale et al., 1996)
 id: dale-1996-significant-lexical-diversity-play-total-utterances-book-reading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

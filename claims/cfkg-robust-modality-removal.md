@@ -3,7 +3,7 @@ type: claim
 title: Removing any single modality degrades CF–KG only moderately, with text removal causing the largest drop (NDCG 0.625 to 0.593)
 description: Removing any single modality degrades CF–KG only moderately, with text removal causing the largest drop (NDCG 0.625 to 0.593)
 id: cfkg-robust-modality-removal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

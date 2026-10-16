@@ -4,7 +4,7 @@ title: Teachers with higher Framework for Teaching scores tended to make larger 
 description: Teachers with higher Framework for Teaching scores tended to make larger contributions to student achievement (value added)
 id: framework-scores-relate-to-value-added
 aliases: [danielson-ratings-predict-value-added]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

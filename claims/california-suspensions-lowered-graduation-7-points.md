@@ -3,7 +3,7 @@ type: claim
 title: Suspensions in California lowered graduation rates by nearly 7 percentage points after controlling for other dropout factors
 description: Suspensions in California lowered graduation rates by nearly 7 percentage points after controlling for other dropout factors
 id: california-suspensions-lowered-graduation-7-points
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

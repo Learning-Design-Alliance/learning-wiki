@@ -3,7 +3,7 @@ type: claim
 title: Reliability of state test scores is highest near cut-scores or the mean and much lower for very high- or low-performing students
 description: Reliability of state test scores is highest near cut-scores or the mean and much lower for very high- or low-performing students
 id: conditional-reliability-low-at-score-tails
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

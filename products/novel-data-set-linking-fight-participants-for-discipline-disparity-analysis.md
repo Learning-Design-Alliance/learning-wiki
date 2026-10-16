@@ -4,7 +4,7 @@ id: novel-data-set-linking-fight-participants-for-discipline-disparity-analysis
 title: Novel data set linking fight participants for discipline disparity analysis
 description: A research dataset constructed by Nathan Barrett et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

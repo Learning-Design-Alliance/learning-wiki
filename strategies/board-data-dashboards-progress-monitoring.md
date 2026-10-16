@@ -3,7 +3,7 @@ type: strategy
 id: board-data-dashboards-progress-monitoring
 title: Board data dashboards for governance-level progress monitoring
 description: A governance strategy in which the charter board receives monthly data dashboards aligned to the accountability framework, designed to identify priorities, set goals and milestones, and track progress.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "The TIF evaluation is designed to estimate impacts of performance pay on student achievement and on educators' attitudes, awareness, mobility, and recruitment"
 description: "The TIF evaluation is designed to estimate impacts of performance pay on student achievement and on educators' attitudes, awareness, mobility, and recruitment"
 id: tif-evaluation-outcome-domains-design
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

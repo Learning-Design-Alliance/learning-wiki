@@ -3,7 +3,7 @@ type: claim
 title: Both academic self-efficacy and AI self-efficacy are negatively associated with reported AI dependency, supporting a unified compensatory mechanism
 description: Both academic self-efficacy and AI self-efficacy are negatively associated with reported AI dependency, supporting a unified compensatory mechanism
 id: self-efficacy-negatively-predicts-ai-dependency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

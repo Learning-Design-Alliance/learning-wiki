@@ -3,7 +3,7 @@ type: claim
 title: "Some initiatives fit no single generalized structure: the OER for Racial Justice project required a novel generator-plus-catalyzer combination"
 description: "Some initiatives fit no single generalized structure: the OER for Racial Justice project required a novel generator-plus-catalyzer combination"
 id: oer-racial-justice-novel-structure
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

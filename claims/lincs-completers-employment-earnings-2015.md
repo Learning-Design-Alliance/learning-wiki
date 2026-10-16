@@ -3,7 +3,7 @@ type: claim
 title: More than four-fifths of 2015 LINCS certification track course completers in five consortium colleges were employed within three quarters after the course, with average quarterly earnings of nearly $7,400
 description: More than four-fifths of 2015 LINCS certification track course completers in five consortium colleges were employed within three quarters after the course, with average quarterly earnings of nearly $7,400
 id: lincs-completers-employment-earnings-2015
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

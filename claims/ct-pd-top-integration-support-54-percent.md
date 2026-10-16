@@ -3,7 +3,7 @@ type: claim
 title: Computational thinking professional development was the most-cited support for integrating computational thinking into lessons, cited by 54 percent of teachers
 description: Computational thinking professional development was the most-cited support for integrating computational thinking into lessons, cited by 54 percent of teachers
 id: ct-pd-top-integration-support-54-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Charter elementary schools show stronger reading growth while multi-level charter schools show significantly weaker growth in both subjects
 description: Charter elementary schools show stronger reading growth while multi-level charter schools show significantly weaker growth in both subjects
 id: pa-charter-impact-by-grade-configuration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

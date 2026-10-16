@@ -3,7 +3,7 @@ type: claim
 title: Students using the eliciting agent showed JoL ratings correlated with system learning metrics, strongest for mastery
 description: Students using the eliciting agent showed JoL ratings correlated with system learning metrics, strongest for mastery
 id: elicit-condition-jol-accuracy-correlations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

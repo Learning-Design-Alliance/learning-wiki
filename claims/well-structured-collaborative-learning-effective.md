@@ -3,7 +3,7 @@ type: claim
 title: Well-structured collaborative learning is extremely effective, especially for learning concepts and complex problem solving
 description: Well-structured collaborative learning is extremely effective, especially for learning concepts and complex problem solving
 id: well-structured-collaborative-learning-effective
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

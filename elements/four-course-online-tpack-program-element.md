@@ -3,7 +3,7 @@ type: element
 id: four-course-online-tpack-program-element
 title: Four-course online TPACK professional development program (SED 520, 521, 522, 594)
 description: The program comprises three fully online technology education courses (SED 520 multimedia technologies, SED 521 digital images and video, SED 522 dynamic spreadsheets) plus a blended course, SED 594, combining online...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

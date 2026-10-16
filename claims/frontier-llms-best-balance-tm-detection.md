@@ -3,7 +3,7 @@ type: claim
 title: "Frontier LLMs achieve the best balance between detecting misconceptions in correct-answer cases and not over-flagging correct students, while fine-tuned local models achieve under 58% TM recall"
 description: "Frontier LLMs achieve the best balance between detecting misconceptions in correct-answer cases and not over-flagging correct students, while fine-tuned local models achieve under 58% TM recall"
 id: frontier-llms-best-balance-tm-detection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

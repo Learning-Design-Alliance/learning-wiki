@@ -3,7 +3,7 @@ type: claim
 title: Charter LEAs enroll a lower proportion of students with disabilities than traditional LEAs and serve smaller proportions in higher-cost disability categories
 description: Charter LEAs enroll a lower proportion of students with disabilities than traditional LEAs and serve smaller proportions in higher-cost disability categories
 id: charter-leas-fewer-swd-and-fewer-high-cost-categories
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Perceived tool quality was perfectly rank-associated with panel-rated presentation score among the four GenARch teams (exploratory)
 description: Perceived tool quality was perfectly rank-associated with panel-rated presentation score among the four GenARch teams (exploratory)
 id: genarch-wblt-quality-presentation-correlation-exploratory
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

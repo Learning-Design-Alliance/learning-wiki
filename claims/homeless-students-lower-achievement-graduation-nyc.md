@@ -3,7 +3,7 @@ type: claim
 title: Students experiencing homelessness show substantially lower achievement and graduation than housed peers (reported from a New York City study)
 description: Students experiencing homelessness show substantially lower achievement and graduation than housed peers (reported from a New York City study)
 id: homeless-students-lower-achievement-graduation-nyc
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

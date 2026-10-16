@@ -3,7 +3,7 @@ type: claim
 title: "External conceptual resources support teachers' pedagogical judgment by affording richer representations and more productive problem frames"
 description: "External conceptual resources support teachers' pedagogical judgment by affording richer representations and more productive problem frames"
 id: external-resources-support-pedagogical-judgment-alignment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

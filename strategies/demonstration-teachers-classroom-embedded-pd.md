@@ -3,7 +3,7 @@ type: strategy
 id: demonstration-teachers-classroom-embedded-pd
 title: Sustained classroom-embedded professional development through demonstration teachers
 description: This strategy places experienced demonstration teachers inside classrooms for extended two-week residencies repeated throughout the year.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

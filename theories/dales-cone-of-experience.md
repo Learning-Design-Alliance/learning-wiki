@@ -2,7 +2,7 @@
 type: theory
 title: "Dale's Cone of Experience as a framework classifying media experiences along concrete-abstract dimensions of learning"
 description: The Cone of Experience, introduced by Edgar Dale in 1946 in Audio-Visual Methods in Teaching, is a way to classify media experiences in relation to psychological dimensions of learning.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

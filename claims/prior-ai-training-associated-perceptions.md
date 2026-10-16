@@ -3,7 +3,7 @@ type: claim
 title: Prior AI-related training is associated with higher perception scores in the overall score and the willingness, attitudes, and personal-experiences dimensions
 description: Prior AI-related training is associated with higher perception scores in the overall score and the willingness, attitudes, and personal-experiences dimensions
 id: prior-ai-training-associated-perceptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: strategic-relationships-institutionalize-teacher-led-pd
 title: Build strategic relationships with districts, associations, county offices, and universities to support and institutionalize teacher-led professional learning
 description: "The report's fifth lesson is that ILC teacher leaders gained the greatest traction when they built relationships with district administrators, teachers associations, county offices of education, universities, and phil..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

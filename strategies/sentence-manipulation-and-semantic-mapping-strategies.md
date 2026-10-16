@@ -3,7 +3,7 @@ type: strategy
 id: sentence-manipulation-and-semantic-mapping-strategies
 title: Use sentence manipulation, sentence combining, sentence expanding, semantic feature analysis, and semantic mapping
 description: "The review reports Barnitz's (1997) concrete recommendations for applying theory to classroom practice."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

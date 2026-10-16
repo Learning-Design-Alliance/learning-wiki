@@ -3,7 +3,7 @@ type: claim
 title: Work alienation mediates a negative pathway from teacher–AI collaboration to work engagement
 description: Work alienation mediates a negative pathway from teacher–AI collaboration to work engagement
 id: work-alienation-mediation-teacher-ai-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

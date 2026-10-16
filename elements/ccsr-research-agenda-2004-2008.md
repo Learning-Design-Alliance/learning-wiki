@@ -3,7 +3,7 @@ type: element
 id: ccsr-research-agenda-2004-2008
 title: Consortium on Chicago School Research five-year research agenda 2004-2008 by topic and study type
 description: "This document is a research agenda laying out planned studies across five sections: student outcomes and school productivity, deeper examination of the essential supports, a closer look at students in CPS, high school..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

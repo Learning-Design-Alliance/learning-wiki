@@ -3,7 +3,7 @@ type: claim
 title: "Standard semantic retrieval alone does not reliably recover the pedagogically required chunk types, with comparison chunks retrieved worst (14.3% on the real corpus)"
 description: "Standard semantic retrieval alone does not reliably recover the pedagogically required chunk types, with comparison chunks retrieved worst (14.3% on the real corpus)"
 id: semantic-retrieval-insufficient-pedagogical-content
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

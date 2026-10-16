@@ -3,7 +3,7 @@ type: claim
 title: Canadian students were more likely than South Korean students to judge GenAI-assisted coding as against institutional rules, despite functionally identical policies
 description: Canadian students were more likely than South Korean students to judge GenAI-assisted coding as against institutional rules, despite functionally identical policies
 id: canadian-students-judge-genai-use-more-against-rules-than-korean
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

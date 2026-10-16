@@ -3,7 +3,7 @@ type: claim
 title: The interleaving benefit is not caused by spacing, and the benefit extends to delayed tests
 description: The interleaving benefit is not caused by spacing, and the benefit extends to delayed tests
 id: interleaving-not-spacing-persists-over-delay
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

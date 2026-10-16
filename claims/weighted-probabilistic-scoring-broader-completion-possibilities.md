@@ -3,7 +3,7 @@ type: claim
 title: Weighted probabilistic scoring improves LLM-based scoring by considering a broader range of completion possibilities
 description: Weighted probabilistic scoring improves LLM-based scoring by considering a broader range of completion possibilities
 id: weighted-probabilistic-scoring-broader-completion-possibilities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

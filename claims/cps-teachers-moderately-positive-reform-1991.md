@@ -3,7 +3,7 @@ type: claim
 title: Chicago elementary teachers are moderately positive about school reform, with about 60 percent agreeing their school is getting better since reform began
 description: Chicago elementary teachers are moderately positive about school reform, with about 60 percent agreeing their school is getting better since reform began
 id: cps-teachers-moderately-positive-reform-1991
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Fresno Unified's TK–3 residency placed 30 new early-grade teachers in 2 years with an 83% retention rate as of spring 2022"
 description: "Fresno Unified's TK–3 residency placed 30 new early-grade teachers in 2 years with an 83% retention rate as of spring 2022"
 id: fresno-tk3-residency-30-teachers-83-percent-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

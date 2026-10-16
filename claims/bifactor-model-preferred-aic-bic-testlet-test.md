@@ -3,7 +3,7 @@ type: claim
 title: In an empirical comparison on a testlet-based English assessment test, the bifactor model is preferred over the second-order and unidimensional 2PL models by both AIC and BIC
 description: In an empirical comparison on a testlet-based English assessment test, the bifactor model is preferred over the second-order and unidimensional 2PL models by both AIC and BIC
 id: bifactor-model-preferred-aic-bic-testlet-test
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: AIDA-supported participants spent on average twice as long in the course platform as controls, but the difference in usage time was not statistically significant
 description: AIDA-supported participants spent on average twice as long in the course platform as controls, but the difference in usage time was not statistically significant
 id: aida-usage-time-doubled-not-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

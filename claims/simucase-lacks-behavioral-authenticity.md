@@ -3,7 +3,7 @@ type: claim
 title: In a qualitative pilot with 10 speech-language pathology graduate students, most felt the Simucase assessment cases lacked authenticity because they included too few behavioral modifications
 description: In a qualitative pilot with 10 speech-language pathology graduate students, most felt the Simucase assessment cases lacked authenticity because they included too few behavioral modifications
 id: simucase-lacks-behavioral-authenticity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

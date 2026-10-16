@@ -3,7 +3,7 @@ type: claim
 title: Districts most often cite quality and integrity of the testing program as its strength, followed by identifying student strengths and weaknesses
 description: Districts most often cite quality and integrity of the testing program as its strength, followed by identifying student strengths and weaknesses
 id: district-testing-strengths-quality-integrity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

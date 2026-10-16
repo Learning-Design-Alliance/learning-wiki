@@ -3,7 +3,7 @@ type: claim
 title: Educators sustained the student voice and leadership tenet by incorporating student input and co-leadership into their ongoing roles
 description: Educators sustained the student voice and leadership tenet by incorporating student input and co-leadership into their ongoing roles
 id: student-voice-tenet-sustained-educator-practice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Perceived risk of using ChatGPT is negatively associated with both use frequency and intention to use among undergraduates
 description: Perceived risk of using ChatGPT is negatively associated with both use frequency and intention to use among undergraduates
 id: perceived-risk-negative-chatgpt-use-frequency-intention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

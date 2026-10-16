@@ -3,7 +3,7 @@ type: strategy
 id: negotiated-learning-tasks-ai
 title: "Negotiated learning tasks: learners co-construct assignments with AI that meet curricular goals while being personally meaningful"
 description: "In this envisioned system, the AI knows the teacher's learning objectives and the student's current state, draws out the student's interests and background, and together they negotiate a task meeting curricular requir..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

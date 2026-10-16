@@ -3,7 +3,7 @@ type: claim
 title: NSC and ICCB data agree on immediate two-year college enrollment for about 96 percent of students, with ICCB showing a slightly higher enrollment rate
 description: NSC and ICCB data agree on immediate two-year college enrollment for about 96 percent of students, with ICCB showing a slightly higher enrollment rate
 id: nsc-iccb-enrollment-alignment-96-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: growth-based-essa-accountability-for-low-achieving-schools
 title: Use growth measures rather than achievement as the primary indicator of school effectiveness in ESSA accountability
 description: The article recommends that states judge the effectiveness of low-achieving schools primarily with growth metrics rather than achievement, because achievement is strongly predicted by school poverty and biases account...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

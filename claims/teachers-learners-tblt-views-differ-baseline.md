@@ -3,7 +3,7 @@ type: claim
 title: "Before treatment, teachers' views toward TBLT differed significantly from both learner groups' views"
 description: "Before treatment, teachers' views toward TBLT differed significantly from both learner groups' views"
 id: teachers-learners-tblt-views-differ-baseline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

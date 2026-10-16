@@ -3,7 +3,7 @@ type: claim
 title: HMH Personal Math Trainer use was associated with math gains in grades 4, 5, and 8 but negatively associated in grade 7, and teacher-created assignments showed the strongest association
 description: HMH Personal Math Trainer use was associated with math gains in grades 4, 5, and 8 but negatively associated in grade 7, and teacher-created assignments showed the strongest association
 id: hmh-usage-grade-pattern-teacher-created-strongest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -18,8 +18,8 @@ sources:
     kind: associational
     rigour: 2
   - id: peters-2018-2
-    resource: "https://digitalpromise.dspacedirect.org/items/f5ad25ac-1bc9-4a05-9a4e-24c25ab19e8d"
-    title: "Peters, V., Means, B., Langworthy, M., Neufeld, P., Coe, R., Meehan, K., & Smith, S. (2018). Enabling Analytics for Improvement: Lessons from Year 2 of Fresno's Personalized Learning Initiative. Digital Promise. https://digitalpromise.dspacedirect.org/items/f5ad25ac-1bc9-4a05-9a4e-24c25ab19e8d"
+    resource: "https://doi.org/10.51388/20.500.12265/53"
+    title: "Peters, V., Means, B., Langworthy, M., Neufeld, P., Coe, R., Meehan, K., & Smith, S. (2018). Enabling Analytics for Improvement: Lessons from Year 2 of Fresno's Personalized Learning Initiative. Digital Promise. https://digitalpromise.dspacedirect.org/items/f5ad25ac-1bc9-4a05-9a4e-24c25ab19e8d. [doi:10.51388/20.500.12265/53](https://doi.org/10.51388/20.500.12265/53)"
     author: "Peters, V., Means, B., Langworthy, M., Neufeld, P., Coe, R., Meehan, K., & Smith, S."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # HMH Personal Math Trainer use was associated with math gains in grades 4, 5, and 8 but negatively associated in grade 7, and teacher-created assignments showed the strongest association
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Frequency of HMH Go Math/Personal Math Trainer use among PLI classes was associated with SBAC math gains in grades 4, 5 and 8 but negatively associated with outcomes in 7th grade. [→ Peters 2018](#peters-2018)
@@ -50,7 +50,7 @@ Analysis of one month of HMH use versus SBAC math scores for PLI students by gra
 
 ### Peters 2018 (2)
 
-Peters, V., Means, B., Langworthy, M., Neufeld, P., Coe, R., Meehan, K., & Smith, S. (2018). Enabling Analytics for Improvement: Lessons from Year 2 of Fresno's Personalized Learning Initiative. Digital Promise. https://digitalpromise.dspacedirect.org/items/f5ad25ac-1bc9-4a05-9a4e-24c25ab19e8d
+Peters, V., Means, B., Langworthy, M., Neufeld, P., Coe, R., Meehan, K., & Smith, S. (2018). Enabling Analytics for Improvement: Lessons from Year 2 of Fresno's Personalized Learning Initiative. Digital Promise. https://digitalpromise.dspacedirect.org/items/f5ad25ac-1bc9-4a05-9a4e-24c25ab19e8d. [doi:10.51388/20.500.12265/53](https://doi.org/10.51388/20.500.12265/53)
 
 `q2 · i?` · `associational · r2`
 

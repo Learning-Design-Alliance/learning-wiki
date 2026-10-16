@@ -3,7 +3,7 @@ type: claim
 title: Site-level essential scores were created by averaging standardized measure scores grouped into essentials, informed by exploratory factor analysis
 description: Site-level essential scores were created by averaging standardized measure scores grouped into essentials, informed by exploratory factor analysis
 id: early-ed-essentials-site-score-grouping-efa
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

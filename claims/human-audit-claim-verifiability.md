@@ -3,7 +3,7 @@ type: claim
 title: Of 100 human-audited claims, 39 are fully verifiable, 55 partially verifiable, and 6 not verifiable, with main responses showing stronger provenance than follow-ups
 description: Of 100 human-audited claims, 39 are fully verifiable, 55 partially verifiable, and 6 not verifiable, with main responses showing stronger provenance than follow-ups
 id: human-audit-claim-verifiability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

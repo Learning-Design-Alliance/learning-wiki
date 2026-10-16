@@ -3,7 +3,7 @@ type: claim
 title: Progressively larger treatment estimates among intervention students crossing engagement thresholds are hypothesis-generating only
 description: Progressively larger treatment estimates among intervention students crossing engagement thresholds are hypothesis-generating only
 id: medly-engagement-threshold-estimates-hypothesis-generating
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

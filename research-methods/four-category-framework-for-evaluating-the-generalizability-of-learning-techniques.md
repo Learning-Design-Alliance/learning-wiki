@@ -3,7 +3,7 @@ type: research-method
 id: four-category-framework-for-evaluating-the-generalizability-of-learning-techniques
 title: Four-category framework for evaluating the generalizability of learning techniques
 description: "The monograph organizes each technique review around four categories of variables, inspired by Jenkins' (1979) model: \"materials, learning conditions, student characteristics, and criterion tasks.\" Materials pertain to the content to be learned; learning conditions concern how and where the techniqu"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-13

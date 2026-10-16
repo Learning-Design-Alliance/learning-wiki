@@ -3,7 +3,7 @@ type: claim
 title: "Pepper has been deployed in three predominant pedagogical roles: tutor/teaching assistant, learning partner or tutored agent, and social mediator in inclusive settings"
 description: "Pepper has been deployed in three predominant pedagogical roles: tutor/teaching assistant, learning partner or tutored agent, and social mediator in inclusive settings"
 id: pepper-three-pedagogical-roles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

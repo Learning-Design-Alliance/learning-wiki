@@ -3,7 +3,7 @@ type: claim
 title: Epistemic behavior relates to curiosity but not to cognitive ability
 description: Epistemic behavior relates to curiosity but not to cognitive ability
 id: epistemic-behavior-relates-curiosity-not-cognitive-ability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

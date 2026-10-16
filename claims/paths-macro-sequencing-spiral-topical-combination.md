@@ -3,7 +3,7 @@ type: claim
 title: PATHS macro-level sequencing combines spiral and topical sequencing patterns
 description: PATHS macro-level sequencing combines spiral and topical sequencing patterns
 id: paths-macro-sequencing-spiral-topical-combination
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

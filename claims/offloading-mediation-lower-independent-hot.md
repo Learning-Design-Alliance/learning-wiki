@@ -3,7 +3,7 @@ type: claim
 title: Among AI-exposed students, open collaboration predicted higher aggregate offloading, which was associated with lower Week 8 higher-order thinking (indirect estimate −0.34)
 description: Among AI-exposed students, open collaboration predicted higher aggregate offloading, which was associated with lower Week 8 higher-order thinking (indirect estimate −0.34)
 id: offloading-mediation-lower-independent-hot
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

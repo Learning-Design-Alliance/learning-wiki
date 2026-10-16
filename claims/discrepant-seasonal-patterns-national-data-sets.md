@@ -3,7 +3,7 @@ type: claim
 title: Seasonal patterns are discrepant across national data sets
 description: Seasonal patterns are discrepant across national data sets
 id: discrepant-seasonal-patterns-national-data-sets
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

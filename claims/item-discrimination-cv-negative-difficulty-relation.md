@@ -3,7 +3,7 @@ type: claim
 title: Item discriminating value as coefficient of variation decreases monotonically as number of correct answers increases, giving a negative difficulty–discrimination relationship
 description: Item discriminating value as coefficient of variation decreases monotonically as number of correct answers increases, giving a negative difficulty–discrimination relationship
 id: item-discrimination-cv-negative-difficulty-relation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

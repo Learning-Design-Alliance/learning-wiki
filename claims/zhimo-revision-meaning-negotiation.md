@@ -3,7 +3,7 @@ type: claim
 title: "Despite a student's claims of purely human authorial agency, posthumanist analysis of his AI-mediated revision shows meaning co-produced through human-AI entanglement"
 description: "Despite a student's claims of purely human authorial agency, posthumanist analysis of his AI-mediated revision shows meaning co-produced through human-AI entanglement"
 id: zhimo-revision-meaning-negotiation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

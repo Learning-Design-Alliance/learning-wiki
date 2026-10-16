@@ -4,7 +4,7 @@ title: Other types of federal financial aid did not fully make up for the declin
 description: Other types of federal financial aid did not fully make up for the decline in PLUS borrowing at HBCUs
 id: other-federal-aid-did-not-offset-plus-decline
 aliases: [plus-declines-not-fully-replaced-other-aid]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

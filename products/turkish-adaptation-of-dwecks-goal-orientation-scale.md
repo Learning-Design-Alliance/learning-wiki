@@ -4,7 +4,7 @@ id: turkish-adaptation-of-dwecks-goal-orientation-scale
 title: "Turkish adaptation of Dweck's Goal Orientation Scale"
 description: "A Turkish-language adaptation of Dweck's four-item scale measuring students' learning goal orientation and performance goal orientation."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

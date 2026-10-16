@@ -3,7 +3,7 @@ type: claim
 title: "Diverse LLM explanations were associated with about 7.7% higher open-ended response accuracy than generic explanations, but the condition effect was not significant after Bonferroni adjustment"
 description: "Diverse LLM explanations were associated with about 7.7% higher open-ended response accuracy than generic explanations, but the condition effect was not significant after Bonferroni adjustment"
 id: diverse-llm-explanations-higher-oe-accuracy-not-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

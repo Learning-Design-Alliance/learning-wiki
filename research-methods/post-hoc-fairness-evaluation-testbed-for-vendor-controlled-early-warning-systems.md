@@ -3,7 +3,7 @@ type: research-method
 id: post-hoc-fairness-evaluation-testbed-for-vendor-controlled-early-warning-systems
 title: Post-hoc fairness evaluation testbed for vendor-controlled early-warning systems
 description: "The article built a comparative evaluation testbed simulating an institution's position under vendor procurement: a research replica EWS and six post-hoc fairness methods applied without accessing, modifying, or retraining the underlying model."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10
@@ -28,4 +28,4 @@ The article built a comparative evaluation testbed simulating an institution's p
 -
 
 ## Key Sources
-- McConvey, K., Zhai, A., Li, R., & Guha, S. (2026). Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems. arXiv. https://arxiv.org/abs/2609.38552
+- McConvey, K., Zhai, A., Li, R., & Guha, S. (2026). Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems. arXiv. https://arxiv.org/abs/2609.38552. [doi:10.48550/arxiv.2609.38552](https://doi.org/10.48550/arxiv.2609.38552)

@@ -3,7 +3,7 @@ type: claim
 title: "CPS mentor teachers were more qualified than other teachers, but their qualifications were generally unrelated to student teachers' preparedness or first-year performance"
 description: "CPS mentor teachers were more qualified than other teachers, but their qualifications were generally unrelated to student teachers' preparedness or first-year performance"
 id: cps-mentor-teachers-more-qualified-qualifications-unrelated-to-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

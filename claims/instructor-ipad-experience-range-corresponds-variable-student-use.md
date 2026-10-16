@@ -3,7 +3,7 @@ type: claim
 title: "Instructors' pre-intervention iPad experience varied widely and this range corresponded with variable student use of the intervention"
 description: "Instructors' pre-intervention iPad experience varied widely and this range corresponded with variable student use of the intervention"
 id: instructor-ipad-experience-range-corresponds-variable-student-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

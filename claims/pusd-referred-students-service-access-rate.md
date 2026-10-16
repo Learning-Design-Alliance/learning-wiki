@@ -3,7 +3,7 @@ type: claim
 title: From fall 2020 through December 2023, 78 percent of the 969 students referred to mental health services in PUSD received services
 description: From fall 2020 through December 2023, 78 percent of the 969 students referred to mental health services in PUSD received services
 id: pusd-referred-students-service-access-rate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

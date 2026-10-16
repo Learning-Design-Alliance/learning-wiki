@@ -3,7 +3,7 @@ type: claim
 title: DD students were less likely to dismiss explanations while GG students were more likely to dismiss them, with no statistically significant differences in use themes
 description: DD students were less likely to dismiss explanations while GG students were more likely to dismiss them, with no statistically significant differences in use themes
 id: dd-students-less-likely-dismiss-explanations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

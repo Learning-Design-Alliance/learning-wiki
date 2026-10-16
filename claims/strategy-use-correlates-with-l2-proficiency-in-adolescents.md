@@ -3,7 +3,7 @@ type: claim
 title: Adolescents who use more language learning strategies are the more proficient ones, and strategy adoption varies with cultural background.
 id: strategy-use-correlates-with-l2-proficiency-in-adolescents
 description: Among 157 newly arrived migrant adolescents learning Italian, low strategy use went with weaker proficiency and adoption varied by cultural background rather than being a fixed trait of the learner.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-03

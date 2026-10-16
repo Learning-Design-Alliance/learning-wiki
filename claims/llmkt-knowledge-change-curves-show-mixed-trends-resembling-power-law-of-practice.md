@@ -3,7 +3,7 @@ type: claim
 title: "LLMKT's predicted knowledge change curves on CoMTA are mixed across the 15 most frequent KCs, though overall they mostly resemble the power law of practice when dialogues have sufficient turns."
 description: "LLMKT's predicted knowledge change curves on CoMTA are mixed across the 15 most frequent KCs, though overall they mostly resemble the power law of practice when dialogues have sufficient turns."
 id: llmkt-knowledge-change-curves-show-mixed-trends-resembling-power-law-of-practice
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

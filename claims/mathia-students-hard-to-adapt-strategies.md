@@ -3,7 +3,7 @@ type: claim
 title: Students in MATHia find it hard to adapt their strategy choices to suit the problem, based on log data from over 600 schools
 description: Students in MATHia find it hard to adapt their strategy choices to suit the problem, based on log data from over 600 schools
 id: mathia-students-hard-to-adapt-strategies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

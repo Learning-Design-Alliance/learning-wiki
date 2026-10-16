@@ -4,7 +4,7 @@ id: basie-r-and-stan-code
 title: BASIE R and Stan code
 description: The BASIE R and Stan code is a released implementation by John Deke et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

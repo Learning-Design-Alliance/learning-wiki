@@ -3,7 +3,7 @@ type: strategy
 id: classworks-layered-teacher-support-strategy
 title: Layered professional learning and support for teachers implementing individualized software
 description: "The summary describes a multi-channel support model so teachers can implement the program successfully: \"Virtual and in-person training sessions and workshops tailored to the needs of the customer,\" free 30-minute vir..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: 8th-grade on-track NSI positively impacted math test scores, moving students from the 37th to the 40th percentile
 description: 8th-grade on-track NSI positively impacted math test scores, moving students from the 37th to the 40th percentile
 id: 8th-grade-on-track-nsi-math-percentile-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

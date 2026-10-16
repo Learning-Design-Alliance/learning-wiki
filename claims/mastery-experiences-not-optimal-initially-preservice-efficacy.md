@@ -3,7 +3,7 @@ type: claim
 title: "Mastery experiences may not be the optimal method for initially increasing preservice agriculture teachers' self-efficacy"
 description: "Mastery experiences may not be the optimal method for initially increasing preservice agriculture teachers' self-efficacy"
 id: mastery-experiences-not-optimal-initially-preservice-efficacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

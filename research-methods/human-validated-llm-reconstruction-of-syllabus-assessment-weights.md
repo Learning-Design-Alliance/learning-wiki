@@ -3,7 +3,7 @@ type: research-method
 id: human-validated-llm-reconstruction-of-syllabus-assessment-weights
 title: Human-validated LLM reconstruction of syllabus assessment weights
 description: The pipeline converts syllabus PDFs to Markdown and uses an LLM through a university-managed API gateway to reconstruct final-grade weights for each assessment category, which feed the continuous GenAI-susceptibility treatment variable.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10
@@ -28,4 +28,4 @@ The pipeline converts syllabus PDFs to Markdown and uses an LLM through a univer
 -
 
 ## Key Sources
-- Dumlao, J. M. Z., Wang, M., Xie, Z., Hu, J., Bar, I., Chaney, G., III, Gold, H., & Teplitskiy, M. (2026). Generative AI Availability, Grades, and Student Satisfaction at a Large University. arXiv. https://arxiv.org/abs/2607.21534
+- Dumlao, J. M. Z., Wang, M., Xie, Z., Hu, J., Bar, I., Chaney, G., III, Gold, H., & Teplitskiy, M. (2026). Generative AI Availability, Grades, and Student Satisfaction at a Large University. arXiv. https://arxiv.org/abs/2607.21534. [doi:10.48550/arxiv.2607.21534](https://doi.org/10.48550/arxiv.2607.21534)

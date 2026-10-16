@@ -4,7 +4,7 @@ id: bridges-in-mathematics
 title: Bridges in Mathematics
 description: Bridges in Mathematics is a comprehensive preK–5 mathematics curriculum developed by The Math Learning Center that combines direct instruction, investigation, exploration, discourse, visual models, and hands-on activities.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

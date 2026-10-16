@@ -2,7 +2,7 @@
 type: theory
 title: "Baldwin's four successive modes of consciousness embedded in the growth of logical thought"
 description: "Baldwin proposed four \"modes of consciousness\" embedded in the growth of logical thought: prelogical, quasi-logical, logical, and hyperlogical."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

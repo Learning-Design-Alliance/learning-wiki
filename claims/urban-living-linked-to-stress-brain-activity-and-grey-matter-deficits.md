@@ -3,7 +3,7 @@ type: claim
 title: Urban living is associated with higher activity in stress-related brain regions and reduced grey matter in dorsolateral prefrontal and pregenual anterior cingulate cortex after urban exposure during upbringing
 description: Urban living is associated with higher activity in stress-related brain regions and reduced grey matter in dorsolateral prefrontal and pregenual anterior cingulate cortex after urban exposure during upbringing
 id: urban-living-linked-to-stress-brain-activity-and-grey-matter-deficits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: strategy
 id: role-play-drama-reading-comprehension
 title: Use role-play and drama techniques after reading to deepen understanding through lifelike language use
 description: The article recommends role-play, scenarios and other drama techniques as a way of widening communicative possibilities, whose main interest lies in global use of language in lifelike situations and deeper understandi...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

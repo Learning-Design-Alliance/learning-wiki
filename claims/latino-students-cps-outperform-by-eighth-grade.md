@@ -3,7 +3,7 @@ type: claim
 title: Chicago Latino students underperform rest-of-state Latino counterparts slightly in third grade but outperform them in eighth-grade reading
 description: Chicago Latino students underperform rest-of-state Latino counterparts slightly in third grade but outperform them in eighth-grade reading
 id: latino-students-cps-outperform-by-eighth-grade
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

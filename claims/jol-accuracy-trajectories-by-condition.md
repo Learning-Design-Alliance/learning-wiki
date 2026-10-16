@@ -3,7 +3,7 @@ type: claim
 title: JoL–mastery accuracy trajectories over the five weeks rose in the elicit condition, declined in the none condition, and were mixed in the tell condition
 description: JoL–mastery accuracy trajectories over the five weeks rose in the elicit condition, declined in the none condition, and were mixed in the tell condition
 id: jol-accuracy-trajectories-by-condition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

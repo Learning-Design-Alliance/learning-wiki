@@ -3,7 +3,7 @@ type: strategy
 id: sustainable-ai-pbl-integration-design-ethics-policy
 title: Pursue sustainable AI integration in PBL through attention to design, ethics, and policy
 description: Based on its synthesis, the review recommends that sustainable AI integration in education be pursued through design, ethical, and policy measures.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

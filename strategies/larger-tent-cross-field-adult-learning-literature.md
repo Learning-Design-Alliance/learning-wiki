@@ -3,7 +3,7 @@ type: strategy
 id: larger-tent-cross-field-adult-learning-literature
 title: "Draw across adult-learning literatures ('larger tent' approach) rather than over-relying on field-specific literature in teacher education"
 description: "The authors argue that teacher education research benefits from incorporating instruments and constructs shared across professions and adult-learning fields, a \"larger tent\" approach they call a hallmark of the adult..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

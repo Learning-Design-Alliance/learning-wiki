@@ -3,7 +3,7 @@ type: element
 id: dps-approved-edtech-repository
 title: Repository of approved and denied edtech tools
 description: DPS developed an online repository listing tools approved through its evaluation process, tools reviewed and not approved with explanations, and alternative approved tools offered when a request is denied.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

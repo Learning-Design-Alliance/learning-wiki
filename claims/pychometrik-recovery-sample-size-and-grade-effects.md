@@ -3,7 +3,7 @@ type: claim
 title: In the Pychometrik item parameter recovery simulation across 27 conditions (Grades K-8, sample sizes 500, 1,000, and 2,000), recovery accuracy increased with sample size and was best for Grade 8 simulees
 description: In the Pychometrik item parameter recovery simulation across 27 conditions (Grades K-8, sample sizes 500, 1,000, and 2,000), recovery accuracy increased with sample size and was best for Grade 8 simulees
 id: pychometrik-recovery-sample-size-and-grade-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

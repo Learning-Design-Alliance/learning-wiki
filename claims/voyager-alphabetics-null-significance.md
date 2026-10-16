@@ -3,7 +3,7 @@ type: claim
 title: No individual alphabetics outcome reached statistical significance in the WWC analysis
 description: No individual alphabetics outcome reached statistical significance in the WWC analysis
 id: voyager-alphabetics-null-significance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
@@ -60,3 +60,4 @@ WWC re-analysis of findings from both studies; corrections for clustering and mu
 - [Literacy First shows strong ESSA evidence of positive effects in phonics and related alphabetics, reading fluency, and reading comprehension for grades K–2](literacy-first-strong-evidence-phonics-fluency-comprehension.md) — related
 - [Instruction in language, phonological awareness, and decoding improved performance in the taught domain, while interventions teaching print knowledge or early writing exclusively did not](taught-domain-instruction-improves-taught-domain.md) — related
 - Reading Recovery produces two positive outcomes: reaching average levels within 20 weeks or reliable referral for further testing — related
+- [An 11-week teacher-delivered phonological awareness intervention significantly improves kindergarten children's phoneme segmentation, letter knowledge, reading, and invented spelling](teacher-delivered-phoneme-awareness-kindergarten-improves-early-literacy.md) — reports the opposite

@@ -3,7 +3,7 @@ type: strategy
 id: framework-informs-teacher-education-instructional-design-ai-efl-policies
 title: Use the integrated technical–pedagogical limitation framework to inform teacher education, instructional design, and institutional AI policies in undergraduate EFL programs
 description: The review recommends using its unified analytical perspective as an evidence-based foundation for responsible AI implementation in undergraduate EFL higher education.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

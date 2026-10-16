@@ -3,7 +3,7 @@ type: strategy
 id: support-automated-writing-feedback-through-coaching-and-alignment
 title: Provide monthly coaching and planning time, and integrate automated writing feedback tools with curriculum, to support classroom use
 description: The brief provides strategies for school and district leaders to support using MI Write, drawing on its implementation study in grades 7 and 8 English language arts classrooms.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

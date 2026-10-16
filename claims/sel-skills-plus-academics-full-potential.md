@@ -3,7 +3,7 @@ type: claim
 title: Students with belonging, purpose, collaboration, goal-setting, and perseverance skills alongside academic knowledge are more likely to reach their full potential
 description: Students with belonging, purpose, collaboration, goal-setting, and perseverance skills alongside academic knowledge are more likely to reach their full potential
 id: sel-skills-plus-academics-full-potential
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

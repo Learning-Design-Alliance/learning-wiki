@@ -3,7 +3,7 @@ type: claim
 title: Second-order technology barriers may be most influential on technology-based intervention implementation, and the quantity of barriers reported was associated with the percentage of students meeting target durations of use
 description: Second-order technology barriers may be most influential on technology-based intervention implementation, and the quantity of barriers reported was associated with the percentage of students meeting target durations o...
 id: second-order-technology-barriers-influence-implementation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

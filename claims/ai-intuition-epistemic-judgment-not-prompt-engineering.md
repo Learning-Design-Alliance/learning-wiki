@@ -3,7 +3,7 @@ type: claim
 title: AI intuition emphasizes epistemic judgment rather than output optimization, distinguishing it from prompt engineering
 description: AI intuition emphasizes epistemic judgment rather than output optimization, distinguishing it from prompt engineering
 id: ai-intuition-epistemic-judgment-not-prompt-engineering
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
@@ -52,3 +52,4 @@ Conceptual distinction drawn in Section 3.2 of the position paper. The article p
 - [High-achieving students describe selective AI use for clarification, summarisation, and workflow support while verifying outputs and keeping them subordinate to their own judgment](qualitative-selective-verification-intensive-use.md) — related
 - [Active engagement with AI outputs (cross-verifying, refining prompts, revising) supports productive learning and depends on learners' prior knowledge](active-ai-engagement-depends-on-prior-knowledge.md) — related
 - [Proposition 2: mutual evaluation emphasizing reasons and responsive comparison will improve evaluative judgment more than unexplained self-rating](proposition-2-mutual-evaluation-improves-judgment.md) — related
+- [Non-expert students exhibit intuitive behaviors towards LLM-based AI systems when prompt engineering](student-intuitive-prompting-behaviors.md) — related

@@ -3,7 +3,7 @@ type: claim
 title: "Key stakeholders believe the Kauffman School's methods positively influence students' behavior, attitudes, and performance"
 description: "Key stakeholders believe the Kauffman School's methods positively influence students' behavior, attitudes, and performance"
 id: kauffman-stakeholders-believe-methods-improve-behavior-attitudes-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

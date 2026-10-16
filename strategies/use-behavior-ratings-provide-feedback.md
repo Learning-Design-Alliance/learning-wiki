@@ -3,7 +3,7 @@ type: strategy
 id: use-behavior-ratings-provide-feedback
 title: Use behavior ratings to provide feedback to students
 description: Recommendation 7 has teachers use behavior ratings, such as a Daily Behavior Report Card (DBRC) template, to give students feedback on their behavior.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Epistemic and society-related AI knowledge were negatively associated with trust in GenAI
 description: Epistemic and society-related AI knowledge were negatively associated with trust in GenAI
 id: epistemic-knowledge-negatively-associated-with-genai-trust
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

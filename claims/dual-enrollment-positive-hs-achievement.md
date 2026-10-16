@@ -3,7 +3,7 @@ type: claim
 title: Dual enrollment programs have positive effects on general academic achievement (high school), with an average improvement index of +7 percentile points
 description: Dual enrollment programs have positive effects on general academic achievement (high school), with an average improvement index of +7 percentile points
 id: dual-enrollment-positive-hs-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

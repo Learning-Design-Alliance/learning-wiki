@@ -3,7 +3,7 @@ type: claim
 title: Attrition in the station study was higher than expected, and partial-data families rated app components slightly lower than complete-data families
 description: Attrition in the station study was higher than expected, and partial-data families rated app components slightly lower than complete-data families
 id: splash-bubbles-station-study-attrition-partial-data-lower-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

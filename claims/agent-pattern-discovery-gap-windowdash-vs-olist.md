@@ -3,7 +3,7 @@ type: claim
 title: AI agents recover a smaller share of reference patterns from the synthetic WindowDash dataset than from the real-world Olist dataset
 description: AI agents recover a smaller share of reference patterns from the synthetic WindowDash dataset than from the real-world Olist dataset
 id: agent-pattern-discovery-gap-windowdash-vs-olist
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

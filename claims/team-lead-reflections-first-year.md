@@ -3,7 +3,7 @@ type: claim
 title: Project leaders reported catalyzed changes in practice but concerns about rushed timelines and sustainability
 description: Project leaders reported catalyzed changes in practice but concerns about rushed timelines and sustainability
 id: team-lead-reflections-first-year
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

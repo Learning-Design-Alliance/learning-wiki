@@ -3,7 +3,7 @@ type: claim
 title: RMPW was applied to test whether employment mediated the effect of an experimental welfare-to-work program on maternal depression
 description: RMPW was applied to test whether employment mediated the effect of an experimental welfare-to-work program on maternal depression
 id: rmpw-application-welfare-to-work-maternal-depression
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

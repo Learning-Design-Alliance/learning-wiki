@@ -3,7 +3,7 @@ type: claim
 title: Teacher support correlates with mastery-approach and performance-approach goals and engagement, but not with avoidance-oriented goals
 description: Teacher support correlates with mastery-approach and performance-approach goals and engagement, but not with avoidance-oriented goals
 id: teacher-support-correlations-avoidance-goals-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

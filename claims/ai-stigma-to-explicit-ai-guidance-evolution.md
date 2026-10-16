@@ -3,7 +3,7 @@ type: claim
 title: "Educators' interpretations of students' AI use evolved from perceived AI stigma toward emphasizing AI usage transparency and explicit AI guidance"
 description: "Educators' interpretations of students' AI use evolved from perceived AI stigma toward emphasizing AI usage transparency and explicit AI guidance"
 id: ai-stigma-to-explicit-ai-guidance-evolution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Congruence of communication varies with situational importance and relationship closeness
 description: Congruence of communication varies with situational importance and relationship closeness
 id: congruence-varies-with-situation-importance-and-relationship
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

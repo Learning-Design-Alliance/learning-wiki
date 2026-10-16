@@ -3,7 +3,7 @@ type: strategy
 id: future-hybrid-human-llm-annotation-systems
 title: "Future directions: fine-tuning on human-refined frameworks and hybrid human–LLM or multi-agent annotation systems"
 description: "The authors recommend two directions to improve scalability and annotation support: first, examine whether LLMs can be fine-tuned using the human-refined framework and annotated data to assess whether models acquire i..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: early-adopter-lessons-teacher-evaluation-implementation
 title: "Learn from early adopter districts' challenge-response strategies and lessons learned when designing and implementing new teacher evaluation systems"
 description: This strategy uses the documented experiences of early adopter districts as a resource for other districts undertaking their own design and implementation of new teacher evaluation systems.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Remote learning implemented during the spring 2020 closures achieved effects similar to no teaching at all during summer vacation
 description: Remote learning implemented during the spring 2020 closures achieved effects similar to no teaching at all during summer vacation
 id: covid-remote-learning-comparable-to-summer-loss
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

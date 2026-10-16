@@ -3,7 +3,7 @@ type: strategy
 id: two-models-statewide-behavioral-health-ta
 title: "Two alternative models for statewide behavioral health TA: integrating it into the existing SSOS versus a separate but connected structure led by county behavioral health departments"
 description: The brief explores two ways California could structure TA for school-based behavioral health.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Specific learning disability in mathematics is the weakest persona profile across all GRPO-trained models
 description: Specific learning disability in mathematics is the weakest persona profile across all GRPO-trained models
 id: sld-math-weakest-persona-profile
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

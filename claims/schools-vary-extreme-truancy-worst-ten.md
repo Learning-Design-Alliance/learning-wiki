@@ -3,7 +3,7 @@ type: claim
 title: Schools vary widely in attendance and cutting; in the ten worst-attendance schools the average ninth grader is an extreme truant in at least one major subject by second semester
 description: Schools vary widely in attendance and cutting; in the ten worst-attendance schools the average ninth grader is an extreme truant in at least one major subject by second semester
 id: schools-vary-extreme-truancy-worst-ten
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

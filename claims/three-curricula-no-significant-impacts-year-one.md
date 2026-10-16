@@ -3,7 +3,7 @@ type: claim
 title: "Project CRISS, ReadAbout, and Read for Real showed no significant impacts on reading comprehension in the study's first year"
 description: "Project CRISS, ReadAbout, and Read for Real showed no significant impacts on reading comprehension in the study's first year"
 id: three-curricula-no-significant-impacts-year-one
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

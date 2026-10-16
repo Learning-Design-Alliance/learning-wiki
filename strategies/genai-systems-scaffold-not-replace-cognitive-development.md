@@ -3,7 +3,7 @@ type: strategy
 id: genai-systems-scaffold-not-replace-cognitive-development
 title: AI-assisted learning systems should scaffold cognitive development rather than replace it, and require active student contribution to preserve ownership
 description: "The article's design implications section recommends that GenAI-assisted learning systems \"scaffold cognitive development, not replace it\", adapting to promote content retention and engage a useful level of cognitive..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -50,4 +50,4 @@ The article's design implications section recommends that GenAI-assisted learnin
 -
 
 ## Key Sources
-- Bergh, C., Tag, B., Vassar, A., & Renzella, J. (2026). Your Programming Students'Cognition with ChatGPT: Higher Performance, Lower Retention, and Reduced Ownership. https://arxiv.org/abs/2609.21194
+- Bergh, C., Tag, B., Vassar, A., & Renzella, J. (2026). Your Programming Students'Cognition with ChatGPT: Higher Performance, Lower Retention, and Reduced Ownership. https://arxiv.org/abs/2609.21194. [doi:10.48550/arxiv.2609.21194](https://doi.org/10.48550/arxiv.2609.21194)

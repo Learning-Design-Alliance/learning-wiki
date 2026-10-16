@@ -3,7 +3,7 @@ type: strategy
 id: existential-hope-research-agenda
 title: "Research agenda: develop an existential hope scale, then test the framework with SEM and network analysis in longitudinal designs"
 description: The article recommends a two-step empirical agenda.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: strategy
 id: align-staff-families-shared-vision-trust
 title: Align teachers, families, and staff around a shared vision to build trust and momentum
 description: "The article offers \"Tools to align teachers, families, and staff around a shared vision and strategies that build trust and momentum for sustainable growth\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

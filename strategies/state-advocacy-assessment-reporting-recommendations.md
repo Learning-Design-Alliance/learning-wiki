@@ -3,7 +3,7 @@ type: strategy
 id: state-advocacy-assessment-reporting-recommendations
 title: Advocate for state-level actions integrating score reports into trusted-voice family engagement
 description: The brief recommends advocates push state leaders to require vendors to user-test reports with historically marginalized families, fund professional development in assessment literacy and asset-based family engagement...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

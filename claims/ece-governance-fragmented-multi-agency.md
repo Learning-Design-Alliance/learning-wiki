@@ -3,7 +3,7 @@ type: claim
 title: U.S. ECE governance is fragmented across multiple federal and state agencies, creating an incoherent patchwork of programs
 description: U.S.
 id: ece-governance-fragmented-multi-agency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

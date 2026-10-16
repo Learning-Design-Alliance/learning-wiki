@@ -3,7 +3,7 @@ type: strategy
 id: administrator-supports-tier1-core-instruction
 title: Administrators sustain high-quality Tier 1 Core Instruction by creating conditions, structural supports, and a sitewide culture valuing dual-language learning
 description: "The report states the responsibility for high-quality Tier 1 Core Instruction \"cannot fall to teachers alone\" and lists administrator practices: building an asset-based view of linguistic diversity, supporting teacher..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

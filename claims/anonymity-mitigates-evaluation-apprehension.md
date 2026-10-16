@@ -3,7 +3,7 @@ type: claim
 title: "Anonymous real-time sharing of student responses mitigates evaluation apprehension while preserving individual accountability (authors' account)"
 description: "Anonymous real-time sharing of student responses mitigates evaluation apprehension while preserving individual accountability (authors' account)"
 id: anonymity-mitigates-evaluation-apprehension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: "Awareness of how learners' conceptual representations deviate from native-speaker preferences can help teachers decide where to focus classroom attention, promoting conceptual fluency"
 description: "Awareness of how learners' conceptual representations deviate from native-speaker preferences can help teachers decide where to focus classroom attention, promoting conceptual fluency"
 id: conceptual-deviation-awareness-guides-teacher-attention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

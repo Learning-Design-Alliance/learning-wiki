@@ -3,7 +3,7 @@ type: claim
 title: KBD configuration produced no significant between-condition differences in system acceptance, intrinsic motivation, or subjective learning effectiveness in a single tutoring session
 description: KBD configuration produced no significant between-condition differences in system acceptance, intrinsic motivation, or subjective learning effectiveness in a single tutoring session
 id: kbd-no-difference-acceptance-motivation-subjective-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

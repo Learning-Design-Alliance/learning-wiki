@@ -3,7 +3,7 @@ type: claim
 title: Purpose in learning increases engagement, self-regulation, and academic performance
 description: Purpose in learning increases engagement, self-regulation, and academic performance
 id: purpose-increases-engagement-self-regulation-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

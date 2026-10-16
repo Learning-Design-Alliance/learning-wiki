@@ -3,7 +3,7 @@ type: element
 id: writing-toolkit-teachers-guide-reflection-tools
 title: "Teacher's Guide with activities, self-reflection, and goal-setting tools"
 description: "The Teacher's Guide contains activities to be completed during and between PLC sessions, extending the professional learning into teachers' own classrooms."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -39,8 +39,7 @@ The Teacher's Guide contains activities to be completed during and between PLC s
 ## Related Elements
 
 - [Algebra Toolkit: a year-long PLC-based professional development program with Introduction, Modules 1–4, and a School Leader Guide](../products/algebra-toolkit.md)
-- [Facilitator's Guide and PLC slides within the writing toolkit](../products/a-toolkit-to-support-evidence-based-writing-instruction-in-grades-2-through-4.md)
-- [School Leader's Guide for supporting toolkit completion](../products/a-toolkit-to-support-evidence-based-writing-instruction-in-grades-2-through-4-historical.md)
+- [Facilitator's Guide and PLC slides within the writing toolkit](../products/a-toolkit-to-support-evidence-based-writing-instruction-in-grades-2-through-4-historical.md)
 
 ## Examples
 

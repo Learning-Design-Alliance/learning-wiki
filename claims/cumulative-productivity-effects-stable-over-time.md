@@ -3,7 +3,7 @@ type: claim
 title: Cumulative meta-analysis shows reported GenAI productivity effects remained stable over time (stabilizing at g = 0.331) despite rapid advancement of underlying foundation models.
 description: Cumulative meta-analysis shows reported GenAI productivity effects remained stable over time (stabilizing at g = 0.331) despite rapid advancement of underlying foundation models.
 id: cumulative-productivity-effects-stable-over-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

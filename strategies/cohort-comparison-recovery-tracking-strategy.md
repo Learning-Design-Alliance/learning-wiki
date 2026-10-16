@@ -3,7 +3,7 @@ type: strategy
 id: cohort-comparison-recovery-tracking-strategy
 title: "Track pandemic recovery by comparing COVID-year student cohorts' gains and achievement gaps against pre-pandemic peers"
 description: "The brief's analytic approach is to examine \"academic gains in the 2022-23 school year relative to pre-pandemic years\" and to track \"the gap in achievement between the COVID year student group compared to their pre-pa..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

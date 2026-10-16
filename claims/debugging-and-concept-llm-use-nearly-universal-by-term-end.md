@@ -3,7 +3,7 @@ type: claim
 title: By the final survey wave, using LLMs for debugging and understanding concepts was nearly universal among surveyed students
 description: By the final survey wave, using LLMs for debugging and understanding concepts was nearly universal among surveyed students
 id: debugging-and-concept-llm-use-nearly-universal-by-term-end
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Adding multiple design elements to the basic ITS structure promotes causal inference by limiting alternative interpretations, demonstrated with No Child Left Behind
 description: Adding multiple design elements to the basic ITS structure promotes causal inference by limiting alternative interpretations, demonstrated with No Child Left Behind
 id: adding-design-elements-to-its-promotes-causal-inference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

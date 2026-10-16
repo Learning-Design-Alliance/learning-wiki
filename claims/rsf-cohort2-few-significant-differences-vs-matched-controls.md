@@ -3,7 +3,7 @@ type: claim
 title: After one year, RSF Cohort 2 students generally performed at the same levels as matched comparison students, with only three statistically significant differences
 description: After one year, RSF Cohort 2 students generally performed at the same levels as matched comparison students, with only three statistically significant differences
 id: rsf-cohort2-few-significant-differences-vs-matched-controls
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

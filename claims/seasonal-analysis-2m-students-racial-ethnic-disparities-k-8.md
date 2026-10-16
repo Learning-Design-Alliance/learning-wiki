@@ -3,7 +3,7 @@ type: claim
 title: A seasonal analysis of roughly 2 million students examines racial/ethnic disparities in learning from kindergarten through eighth grade
 description: A seasonal analysis of roughly 2 million students examines racial/ethnic disparities in learning from kindergarten through eighth grade
 id: seasonal-analysis-2m-students-racial-ethnic-disparities-k-8
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

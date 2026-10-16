@@ -3,7 +3,7 @@ type: strategy
 id: grounding-centering-exercises-remote-lessons
 title: Begin remote lessons with grounding and centering exercises to help students focus
 description: "The brief recommends that educators \"Begin interactions and lessons with grounding and centering exercises that help students focus on what is happening in their mind, body, and/or surroundings,\" stating this can help..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

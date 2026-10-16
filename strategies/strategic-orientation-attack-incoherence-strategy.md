@@ -3,7 +3,7 @@ type: strategy
 id: strategic-orientation-attack-incoherence-strategy
 title: Use the School Improvement Plan and a strategic orientation to attack program incoherence
 description: Principals use the School Improvement Plan mandated under the 1988 reform to unite parents, community members, and teachers around a coherent plan with annual goals, strategies in five areas, a monitoring process, and...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ id: national-study-of-online-charter-schools
 title: National Study of Online Charter Schools
 description: A national research dataset assembled through a survey of online charter-school principals and U.S.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

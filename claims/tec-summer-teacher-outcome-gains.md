@@ -3,7 +3,7 @@ type: claim
 title: Teachers reported increased motivation and confidence leading groups and new instructional strategies from using the TEC curriculum
 description: Teachers reported increased motivation and confidence leading groups and new instructional strategies from using the TEC curriculum
 id: tec-summer-teacher-outcome-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

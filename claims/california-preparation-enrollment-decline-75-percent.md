@@ -3,7 +3,7 @@ type: claim
 title: "Teacher preparation enrollments in California declined more than 75% between 2001–02 and 2013–14"
 description: "Teacher preparation enrollments in California declined more than 75% between 2001–02 and 2013–14"
 id: california-preparation-enrollment-decline-75-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

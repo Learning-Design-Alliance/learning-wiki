@@ -3,7 +3,7 @@ type: claim
 title: In a perceptual-cue intervention reanalysis, incongruent spacing and incongruent color conditions were associated with reduced guessing relative to neutral conditions
 description: In a perceptual-cue intervention reanalysis, incongruent spacing and incongruent color conditions were associated with reduced guessing relative to neutral conditions
 id: incongruent-perceptual-cues-reduce-guessing-bkt
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

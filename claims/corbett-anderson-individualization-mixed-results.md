@@ -3,7 +3,7 @@ type: claim
 title: "Corbett and Anderson's original individualization attempts produced mixed results"
 description: "Corbett and Anderson's original individualization attempts produced mixed results"
 id: corbett-anderson-individualization-mixed-results
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

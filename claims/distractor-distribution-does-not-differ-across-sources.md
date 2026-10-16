@@ -3,7 +3,7 @@ type: claim
 title: Distractor distribution did not differ across ChatGPT, Google Gemini and NLE MCQs
 description: Distractor distribution did not differ across ChatGPT, Google Gemini and NLE MCQs
 id: distractor-distribution-does-not-differ-across-sources
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

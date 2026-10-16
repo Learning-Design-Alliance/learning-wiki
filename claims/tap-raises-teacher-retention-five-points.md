@@ -3,7 +3,7 @@ type: claim
 title: TAP teachers were five percentage points more likely to return to their schools than non-TAP teachers
 description: TAP teachers were five percentage points more likely to return to their schools than non-TAP teachers
 id: tap-raises-teacher-retention-five-points
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

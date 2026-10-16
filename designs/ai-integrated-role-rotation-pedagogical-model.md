@@ -3,7 +3,7 @@ type: design
 id: ai-integrated-role-rotation-pedagogical-model
 title: AI-integrated role-rotation pedagogical model conceptualizing role rotation as a mechanism for structuring critical human-AI interaction
 description: "The model combines four interconnected components: a digital educational environment, integration of generative AI tools, case-based learning, and collaborative role-based interaction with role rotation."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

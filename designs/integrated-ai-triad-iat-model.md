@@ -3,7 +3,7 @@ type: design
 id: integrated-ai-triad-iat-model
 title: Integrated AI Triad (IAT) model for teacher-AI cooperative instructional design
 description: The IAT model, developed by Talebzadeh (2025a), is a conceptual framework structuring the cooperative workflow between teachers and generative AI during the design of learning trajectories.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

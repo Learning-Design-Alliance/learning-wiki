@@ -3,7 +3,7 @@ type: strategy
 id: match-plc-artifacts-and-norms-to-object
 title: Match PLC artifacts and norms to the intended object, and treat collaboration norms as a prerequisite object where collaboration is unfamiliar
 description: "The review's findings assist designers and organisers in making informed decisions about PLC in mathematics."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

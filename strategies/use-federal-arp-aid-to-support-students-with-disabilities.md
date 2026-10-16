@@ -3,7 +3,7 @@ type: strategy
 id: use-federal-arp-aid-to-support-students-with-disabilities
 title: Use federal COVID-19 aid, including the American Recovery Plan influx, to transform education for students with disabilities
 description: "The webinar offers \"recommendations for states and districts on how to use the recent federal aid to transform education for students with disabilities.\" The page notes that \"the unprecedented influx of federal fundin..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

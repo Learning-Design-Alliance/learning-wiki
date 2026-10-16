@@ -4,7 +4,7 @@ id: statewide-residency-technical-assistance-center-srtac
 title: Statewide Residency Technical Assistance Center (SRTAC)
 description: A California statewide initiative operated by the Santa Clara County Office of Education and partners to help teacher-residency leaders plan, launch, expand, and continuously improve residency programmes.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

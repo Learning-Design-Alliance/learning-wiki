@@ -3,7 +3,7 @@ type: claim
 title: Fifth-grade history textbook excerpts largely fail to answer the frame slot questions, presenting detailed action but missing main ideas
 description: Fifth-grade history textbook excerpts largely fail to answer the frame slot questions, presenting detailed action but missing main ideas
 id: history-textbooks-lack-explanatory-structure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

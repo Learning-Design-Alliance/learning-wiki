@@ -3,7 +3,7 @@ type: claim
 title: Bottom Line increases progression in college (continuous enrollment for three semesters after high school)
 description: Bottom Line increases progression in college (continuous enrollment for three semesters after high school)
 id: bottom-line-increases-progressing-in-college
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

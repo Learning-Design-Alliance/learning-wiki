@@ -2,7 +2,7 @@
 type: theory
 title: "Competency-based education: students advance through material independently upon demonstrating content mastery"
 description: "The article defines competency-based education as a model in which \"students move through material independently, advancing when they demonstrate content mastery.\" Proponents view competency-based approaches as a pote..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

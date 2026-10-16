@@ -3,7 +3,7 @@ type: strategy
 id: check-program-versus-comparison-group-design
 title: When reading an evaluation, check that the study compared a group that received the program to a group that did not
 description: "This strategy tells readers of effectiveness research to look for a comparison between outcomes of a group that received a program and outcomes of a group that did not, since \"research studies compare outcomes for a g..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

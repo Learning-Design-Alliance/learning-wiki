@@ -3,7 +3,7 @@ type: strategy
 id: ely-conditions-for-change-address-environment
 title: "Address environmental deficiencies using Ely's Conditions for Change, such as leadership commitment and professional development"
 description: "The digest recommends that when obstacles arise from the environment in which change is implemented, Ely's Conditions for Change can help address those deficiencies."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

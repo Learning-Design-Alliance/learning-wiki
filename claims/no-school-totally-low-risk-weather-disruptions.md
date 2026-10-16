@@ -3,7 +3,7 @@ type: claim
 title: No school is totally low-risk from weather-related disruptions
 description: No school is totally low-risk from weather-related disruptions
 id: no-school-totally-low-risk-weather-disruptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

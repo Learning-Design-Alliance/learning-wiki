@@ -3,7 +3,7 @@ type: claim
 title: Most students identified as significantly below benchmark on early literacy screeners remain significantly below benchmark 1 and 2 years later
 description: Most students identified as significantly below benchmark on early literacy screeners remain significantly below benchmark 1 and 2 years later
 id: significantly-below-benchmark-persists-across-years
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

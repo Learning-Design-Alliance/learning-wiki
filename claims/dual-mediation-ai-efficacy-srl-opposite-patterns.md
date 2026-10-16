@@ -3,7 +3,7 @@ type: claim
 title: AI self-efficacy and self-regulated learning mediate the support–competence associations in opposite patterns for the two supports
 description: AI self-efficacy and self-regulated learning mediate the support–competence associations in opposite patterns for the two supports
 id: dual-mediation-ai-efficacy-srl-opposite-patterns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

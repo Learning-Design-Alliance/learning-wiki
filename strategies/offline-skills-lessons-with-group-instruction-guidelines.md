@@ -3,7 +3,7 @@ type: strategy
 id: offline-skills-lessons-with-group-instruction-guidelines
 title: Pair offline skills lessons targeting identified comprehension deficiencies with small-group and whole-group teacher-led instruction
 description: "The program assigns students \"appropriately leveled offline skills lessons that target identified deficiencies\" based on comprehension-skill competency tracked during scaffolded silent reading."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

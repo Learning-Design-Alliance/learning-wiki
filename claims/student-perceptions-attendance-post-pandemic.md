@@ -3,7 +3,7 @@ type: claim
 title: "Students' perceptions of their classes and schools matter more for attendance in post-pandemic years than before the pandemic"
 description: "Students' perceptions of their classes and schools matter more for attendance in post-pandemic years than before the pandemic"
 id: student-perceptions-attendance-post-pandemic
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

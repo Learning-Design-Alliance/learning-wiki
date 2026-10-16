@@ -3,7 +3,7 @@ type: claim
 title: Oklahoma achievement declined rather than grew across 2012–2014 under the A–F letter grade system, with the largest drops in F schools
 description: Oklahoma achievement declined rather than grew across 2012–2014 under the A–F letter grade system, with the largest drops in F schools
 id: oklahoma-achievement-declined-2012-2014-under-a-f
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

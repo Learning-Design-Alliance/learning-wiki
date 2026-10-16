@@ -3,7 +3,7 @@ type: claim
 title: "Metacognitive strategies, effort regulation, and coping with problems significantly predict Japanese EFL learners' proficiency"
 description: "Metacognitive strategies, effort regulation, and coping with problems significantly predict Japanese EFL learners' proficiency"
 id: three-srl-strategy-factors-predict-efl-proficiency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

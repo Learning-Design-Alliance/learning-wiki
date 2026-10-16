@@ -3,7 +3,7 @@ type: claim
 title: A majority of LEAs planned to offer TK at all kindergarten sites and full-day TK
 description: A majority of LEAs planned to offer TK at all kindergarten sites and full-day TK
 id: majority-leas-all-sites-full-day-tk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

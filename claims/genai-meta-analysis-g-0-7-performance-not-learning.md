@@ -3,7 +3,7 @@ type: claim
 title: A meta-analysis of 69 studies reports generative AI improves academic performance with g = 0.7, but the article argues this likely reflects immediate task success rather than learning
 description: A meta-analysis of 69 studies reports generative AI improves academic performance with g = 0.7, but the article argues this likely reflects immediate task success rather than learning
 id: genai-meta-analysis-g-0-7-performance-not-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -47,3 +47,4 @@ The article reports, citing Deng et al., a meta-analysis of 69 experimental stud
 - [Product-outcome studies report GenAI-related gains on product-quality measures but do not assess durable, transferable learning](genai-product-outcome-gains-superficial.md) — a broader claim this one bears on
 - [ChatGPT-assisted students scored substantially higher on the coding assessment than No AI students (89% vs 69%)](chatgpt-assisted-higher-coding-performance.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
+- [Many current GenAI applications in STEM education conflate learning with performance and feedback, neglecting active, reflective, and embodied learning processes](genai-conflates-learning-with-performance-feedback.md) — related

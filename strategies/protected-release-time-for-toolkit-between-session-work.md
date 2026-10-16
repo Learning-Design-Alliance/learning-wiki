@@ -3,7 +3,7 @@ type: strategy
 id: protected-release-time-for-toolkit-between-session-work
 title: Schedule protected release and preparation time for educators completing pre- and between-session toolkit work
 description: "The resource plan treats educators' out-of-session work as a budgeted resource rather than an unfunded expectation."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

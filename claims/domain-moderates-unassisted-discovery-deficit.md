@@ -3,7 +3,7 @@ type: claim
 title: The advantage of explicit instruction over unassisted discovery is largest in the verbal/social skills domain
 description: The advantage of explicit instruction over unassisted discovery is largest in the verbal/social skills domain
 id: domain-moderates-unassisted-discovery-deficit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

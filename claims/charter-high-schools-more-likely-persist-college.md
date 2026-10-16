@@ -3,7 +3,7 @@ type: claim
 title: Students attending charter high schools are more likely to persist in college
 description: Students attending charter high schools are more likely to persist in college
 id: charter-high-schools-more-likely-persist-college
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

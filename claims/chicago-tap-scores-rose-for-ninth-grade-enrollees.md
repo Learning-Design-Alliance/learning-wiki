@@ -3,7 +3,7 @@ type: claim
 title: Average TAP scores rose substantially for students who enrolled in ninth grade, but the 1997 high school redesign appears to have had only a modest impact on skill development
 description: Average TAP scores rose substantially for students who enrolled in ninth grade, but the 1997 high school redesign appears to have had only a modest impact on skill development
 id: chicago-tap-scores-rose-for-ninth-grade-enrollees
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

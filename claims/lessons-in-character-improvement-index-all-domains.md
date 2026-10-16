@@ -3,7 +3,7 @@ type: claim
 title: Improvement indices favor Lessons in Character across all three outcome domains, largest for academic achievement
 description: Improvement indices favor Lessons in Character across all three outcome domains, largest for academic achievement
 id: lessons-in-character-improvement-index-all-domains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

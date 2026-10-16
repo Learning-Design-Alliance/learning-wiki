@@ -64,8 +64,8 @@ Anchor charts work by converting tacit behavioral expectations into explicit, re
 - [Acting-Role-Play](../strategies/acting-role-play.md) — rehearsing protocols through role-play before relying on the chart alone
 
 ## Examples
-- **Accountable Talk (Institute for Learning, University of Pittsburgh)** — a research-based set of talk norms and sentence stems for academically productive classroom discussion, frequently implemented as anchor charts: https://ifl.pitt.edu
-- **Complex Instruction (Cohen & Lotan, Stanford)** — group-work norms including "no one is done until everyone is done," posted and referenced to equalize participation status
+- **[Accountable Talk](accountable_talk.md) (Institute for Learning, University of Pittsburgh)** — a research-based set of talk norms and sentence stems for academically productive classroom discussion, frequently implemented as anchor charts: https://ifl.pitt.edu
+- **[Complex Instruction](complex_instruction.md) (Cohen & Lotan, Stanford)** — group-work norms including "no one is done until everyone is done," posted and referenced to equalize participation status
 - A middle-school science class co-creates a chart ("One voice at a time; Disagree with the idea, not the person; Cite the evidence") that the teacher points to during lab debriefs, visibly reducing interruptions over the term
 
 ## Key Sources

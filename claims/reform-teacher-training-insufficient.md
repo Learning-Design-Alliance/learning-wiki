@@ -3,7 +3,7 @@ type: claim
 title: "SEP national monitoring reports indicate insufficient teacher training for the reform: 35% of surveyed teachers requested training in planning and design of didactic activities, and about 30% of directors rated induction-workshop information as poorly adequate or inadequate"
 description: "SEP national monitoring reports indicate insufficient teacher training for the reform: 35% of surveyed teachers requested training in planning and design of didactic activities, and about 30% of directors rated induct..."
 id: reform-teacher-training-insufficient
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

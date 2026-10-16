@@ -3,7 +3,7 @@ type: claim
 title: The animation advantage is largest when instruction includes no accompanying text
 description: The animation advantage is largest when instruction includes no accompanying text
 id: animation-advantage-largest-without-accompanying-text
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

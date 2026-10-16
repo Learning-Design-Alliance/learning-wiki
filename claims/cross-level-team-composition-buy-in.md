@@ -3,7 +3,7 @@ type: claim
 title: Improvement teams with representation from teachers, principals, and district leadership gained broader buy-in than teams missing any level
 description: Improvement teams with representation from teachers, principals, and district leadership gained broader buy-in than teams missing any level
 id: cross-level-team-composition-buy-in
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

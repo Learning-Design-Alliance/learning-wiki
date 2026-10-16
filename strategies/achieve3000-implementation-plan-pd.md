@@ -4,7 +4,7 @@ id: achieve3000-implementation-plan-pd
 aliases: [achieve3000-professional-development-plan]
 title: Develop a customer-specific implementation plan identifying targeted students and outlining professional development
 description: "As part of implementation, \"Achieve3000 works with each customer to develop a plan that identifies the targeted students and outlines professional development and implementation services.\" This makes professional deve..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Greater prior AI learning experience and female gender predicted upward motivational profile transitions
 description: Greater prior AI learning experience and female gender predicted upward motivational profile transitions
 id: prior-ai-experience-gender-predict-profile-transitions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -2,7 +2,7 @@
 type: theory
 title: Six-dimension taxonomy of historical thinking skills for assessment
 description: A taxonomy of six historical thinking skill assessment targets derived from a thorough literature review of how historical thinking skills were conceptualized by academics and educators, plus review of four leading hi...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

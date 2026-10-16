@@ -3,7 +3,7 @@ type: claim
 title: Achievement gains under new principals were larger and happened faster in DCPS middle schools than in elementary schools
 description: Achievement gains under new principals were larger and happened faster in DCPS middle schools than in elementary schools
 id: dcps-principal-gains-larger-faster-middle-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

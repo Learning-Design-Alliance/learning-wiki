@@ -4,7 +4,7 @@ id: ames-philosophical-belief-inventory
 title: Ames Philosophical Belief Inventory
 description: "A forced-choice questionnaire developed to measure education students' beliefs across five philosophical dimensions: Realism, Idealism, Pragmatism, Existentialism, and Phenomenology."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

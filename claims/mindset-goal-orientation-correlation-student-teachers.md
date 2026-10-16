@@ -3,7 +3,7 @@ type: claim
 title: Entity theory correlates positively with performance goal orientation and incremental theory with learning goal orientation among student teachers
 description: Entity theory correlates positively with performance goal orientation and incremental theory with learning goal orientation among student teachers
 id: mindset-goal-orientation-correlation-student-teachers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

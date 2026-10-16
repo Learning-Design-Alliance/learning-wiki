@@ -3,7 +3,7 @@ type: claim
 title: "An early-semester presentation on fluency and feeling of learning improved students' attitudes toward active learning"
 description: "An early-semester presentation on fluency and feeling of learning improved students' attitudes toward active learning"
 id: early-fluency-intervention-improved-attitudes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

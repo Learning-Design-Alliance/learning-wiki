@@ -3,7 +3,7 @@ type: element
 id: 508-compliance-guide-element
 title: 508 Compliance guide as an accessibility resource for education dissemination products
 description: A published guide from the U.S.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

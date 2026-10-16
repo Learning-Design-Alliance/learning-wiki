@@ -3,7 +3,7 @@ type: claim
 title: Benefits of retrieval practice have persisted for 6 months in medical students and 9 months in middle-school students
 description: Benefits of retrieval practice have persisted for 6 months in medical students and 9 months in middle-school students
 id: retrieval-practice-benefits-persist-six-to-nine-months
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

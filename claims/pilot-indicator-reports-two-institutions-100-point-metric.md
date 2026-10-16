@@ -3,7 +3,7 @@ type: claim
 title: Pilot quantitative application produced indicative 100-point academic integrity indicator reports for two institutions with sector comparisons
 description: Pilot quantitative application produced indicative 100-point academic integrity indicator reports for two institutions with sector comparisons
 id: pilot-indicator-reports-two-institutions-100-point-metric
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

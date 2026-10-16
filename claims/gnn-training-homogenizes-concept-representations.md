@@ -3,7 +3,7 @@ type: claim
 title: "GNN training homogenizes concept representations, with 62.7% of prerequisite pairs becoming increasingly similar during DGCPL training"
 description: "GNN training homogenizes concept representations, with 62.7% of prerequisite pairs becoming increasingly similar during DGCPL training"
 id: gnn-training-homogenizes-concept-representations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

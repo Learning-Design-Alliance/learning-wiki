@@ -3,7 +3,7 @@ type: claim
 title: The levels and rates of studies meeting WWC evidence standards have increased over the life of the What Works Clearinghouse
 description: The levels and rates of studies meeting WWC evidence standards have increased over the life of the What Works Clearinghouse
 id: wwc-studies-meeting-standards-increasing-over-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

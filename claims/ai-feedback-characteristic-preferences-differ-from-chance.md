@@ -3,7 +3,7 @@ type: claim
 title: "Undergraduate students' preferences for AI feedback characteristics differ significantly from an equal distribution for tone, length, format, and focus, but not for timing"
 description: "Undergraduate students' preferences for AI feedback characteristics differ significantly from an equal distribution for tone, length, format, and focus, but not for timing"
 id: ai-feedback-characteristic-preferences-differ-from-chance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

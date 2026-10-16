@@ -2,7 +2,7 @@
 type: theory
 title: Scaling in tandem as the foundational way of thinking for proportional relationships
 description: "The paper organizes the entire treatment of proportionality around a single way of thinking: two measurable quantities are related proportionally when their measures scale in tandem."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

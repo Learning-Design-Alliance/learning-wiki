@@ -3,7 +3,7 @@ type: claim
 title: Statewide mathematics achievement gaps between English learners and English speakers increased from 2015 to 2017, a pattern evident in all but one MiC district
 description: Statewide mathematics achievement gaps between English learners and English speakers increased from 2015 to 2017, a pattern evident in all but one MiC district
 id: el-english-speaker-gap-increasing-statewide
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -49,4 +49,4 @@ Slope analysis of student-level cohort data (Table 6) shows the statewide gap sl
 - [English learners in nearly all MiC districts showed stronger annual CAASPP mathematics gains than their statewide peers from 2015 to 2017 despite remaining mostly at the lowest achievement level](mic-english-learners-stronger-gains.md) — related
 - [MiC district achievement on the CAASPP in mathematics generally followed the same statewide pattern from 2015 to 2018, with MiC districts slightly more homogeneous than non-selected districts](mic-districts-follow-statewide-pattern.md) — related
 - [Student cohorts in several MiC districts showed consistently higher mathematics achievement than the statewide average from 2015 to 2017, with wide district variability](mic-cohort-gains-above-state-variability.md) — related
-- [K-cohort English learners' 3rd-grade achievement improved in both ELA and math across successive kindergarten cohorts, shrinking gaps with never-ELs](k-cohort-el-3rd-grade-achievement-improved-shrinking-gaps.md) — related
+- K-cohort English learners' 3rd-grade achievement improved in both ELA and math across successive kindergarten cohorts, shrinking gaps with never-ELs — related

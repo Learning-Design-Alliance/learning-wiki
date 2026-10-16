@@ -3,7 +3,7 @@ type: claim
 title: "Students struggle with the 'not' operator and logical operator precedence when evaluating conditional statements"
 description: "Students struggle with the 'not' operator and logical operator precedence when evaluating conditional statements"
 id: students-struggle-operator-precedence-conditionals
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

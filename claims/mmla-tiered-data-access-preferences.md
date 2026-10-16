@@ -3,7 +3,7 @@ type: claim
 title: "Students supported tiered data access: broad access for self-reflection, educator access for teaching, and restricted access to raw video and audio"
 description: "Students supported tiered data access: broad access for self-reflection, educator access for teaching, and restricted access to raw video and audio"
 id: mmla-tiered-data-access-preferences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: climate-suspension-absenteeism-accountability-indicators
 title: Use school climate surveys, suspension rates, and chronic absenteeism as accountability indicators of school supports for SEL
 description: The report recommends that states consider including measures of school climate, supports for SEL, and related outcomes in federal accountability and statewide reporting.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

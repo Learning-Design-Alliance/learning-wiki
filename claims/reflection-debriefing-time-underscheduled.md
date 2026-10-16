@@ -3,7 +3,7 @@ type: claim
 title: "In one design report on 25 cybersecurity tabletop exercises, the authors observed that trainees consistently wanted more debriefing time than the schedule allowed"
 description: In one design report on 25 cybersecurity tabletop exercises, the authors observed that trainees consistently wanted more debriefing time than the schedule allowed
 id: reflection-debriefing-time-underscheduled
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

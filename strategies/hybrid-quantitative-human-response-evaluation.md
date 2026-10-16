@@ -3,7 +3,7 @@ type: strategy
 id: hybrid-quantitative-human-response-evaluation
 title: Combine quantitative RAGAS metrics with human rubric-based claim auditing to detect hallucination and weak grounding in LLM-assisted forum analysis
 description: "The article recommends evaluating LLM-generated analytical responses with both automated metrics and structured human review, because \"automated scores alone may not fully capture weak grounding, retrieval mismatch, o..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

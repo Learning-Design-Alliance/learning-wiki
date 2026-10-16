@@ -2,7 +2,7 @@
 type: theory
 title: Agency/communion as figure/ground rather than polarity
 description: "The paper's central organizing framework reconceives Bakan's agency/communion polarity."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Subgroup categories such as FRL eligibility and multilingual learner status mask wide within-category variation
 description: Subgroup categories such as FRL eligibility and multilingual learner status mask wide within-category variation
 id: subgroup-categories-mask-within-category-variation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

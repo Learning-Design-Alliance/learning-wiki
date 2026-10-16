@@ -3,7 +3,7 @@ type: strategy
 id: erwc-direct-full-strand-coverage-future-evaluations
 title: Direct teachers to teach at least one activity in each strand of every module taught, as a lever future evaluations could test for greater impacts
 description: "The report's discussion recommends that future evaluations assess whether ERWC impacts would be greater if teachers were explicitly directed to teach at least one activity in each strand of every module taught."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

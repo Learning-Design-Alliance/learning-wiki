@@ -3,7 +3,7 @@ type: strategy
 id: early-disaggregated-chronic-absence-monitoring
 title: Monitor and publicly report chronic absence data early, disaggregated by student group
 description: This strategy directs advocates and leaders to track chronic absence data in real time and respond early in the school year.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

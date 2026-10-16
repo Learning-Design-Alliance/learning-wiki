@@ -4,7 +4,7 @@ id: shared-dataset-combining-the-anthropic-economic-index-with-census-btos-emplo
 title: Shared dataset combining the Anthropic Economic Index with Census BTOS employer adoption data
 description: "A dataset used by the brief series that combines Anthropic's task-level AI exposure index with U.S."
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

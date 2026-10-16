@@ -3,7 +3,7 @@ type: strategy
 id: commission-heartland-specific-ai-adoption-survey
 title: Commission Heartland-specific AI adoption data collection covering agriculture and the smallest firms
 description: For policymakers and funders, the brief recommends commissioning a Heartland-specific survey covering agriculture and the smallest firms, since Census BTOS excludes farms entirely and underrepresents small employers e...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

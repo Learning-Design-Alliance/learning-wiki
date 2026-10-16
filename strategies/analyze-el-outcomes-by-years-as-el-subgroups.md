@@ -3,7 +3,7 @@ type: strategy
 id: analyze-el-outcomes-by-years-as-el-subgroups
 title: Analyze EL outcomes by years-as-EL subgroups rather than treating ELs as one group
 description: "The article argues that research treating English learners as a single group misses important variation, and improves on previous research \"by addressing this dimension of heterogeneity and reporting detailed by-subje..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

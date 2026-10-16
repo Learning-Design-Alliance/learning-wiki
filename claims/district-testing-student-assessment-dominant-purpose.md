@@ -3,7 +3,7 @@ type: claim
 title: Nearly 90 percent of Illinois districts cite student assessment purposes as major purposes of their district-wide testing programs, with measuring student performance most common
 description: Nearly 90 percent of Illinois districts cite student assessment purposes as major purposes of their district-wide testing programs, with measuring student performance most common
 id: district-testing-student-assessment-dominant-purpose
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

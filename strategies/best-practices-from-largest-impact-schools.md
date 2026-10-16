@@ -3,7 +3,7 @@ type: strategy
 id: best-practices-from-largest-impact-schools
 title: Identify potential best practices by comparing practices of the highest-impact schools
 description: "The report's method for surfacing candidate best practices is comparative: it examines leadership practices across KIPP schools and regions and singles out the practices used where impacts were largest."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

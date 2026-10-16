@@ -3,7 +3,7 @@ type: strategy
 id: local-compact-llm-story-generation-with-oversight
 title: Deploy fine-tuned compact local 8B LLMs as free classroom and home story generators with adult human oversight and safety filtering
 description: The article recommends that teachers, parents, and children use fine-tuned local 8B models in classrooms and at home to generate K-2 reading stories, because fine-tuning and inference costs are significantly lower tha...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

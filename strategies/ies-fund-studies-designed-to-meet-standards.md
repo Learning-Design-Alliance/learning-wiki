@@ -3,7 +3,7 @@ type: strategy
 id: ies-fund-studies-designed-to-meet-standards
 title: Continue conducting and funding studies designed to meet evidence standards and tie decisions directly to evidence
 description: "The article's forward-looking recommendation is that rigorous education research may continue to grow as the Institute of Education Sciences keeps conducting and funding studies designed to meet WWC standards and as m..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

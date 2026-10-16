@@ -3,7 +3,7 @@ type: strategy
 id: school-based-health-safety-net-integrated-supports
 title: Integrated school-based health and social safety net supports addressing out-of-school learning barriers
 description: "Sierra and University High stitch together a social safety net through integrated systems of support: monthly food distributions, clothing closets, a school-based rotating therapist with group grief therapy, QR-code s..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

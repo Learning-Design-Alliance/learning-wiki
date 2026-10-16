@@ -3,7 +3,7 @@ type: research-method
 id: design-based-research-with-technology-enhanced-learning-environments-teles
 title: Design-based research with technology-enhanced learning environments (TELEs)
 description: The article proposes principles for implementing design-based research in work on technology-enhanced learning environments.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-15

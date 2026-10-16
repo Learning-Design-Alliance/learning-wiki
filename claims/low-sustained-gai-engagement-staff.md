@@ -3,7 +3,7 @@ type: claim
 title: Most staff respondents had used a GAI tool, but few held paid subscriptions, suggesting limited sustained engagement
 description: Most staff respondents had used a GAI tool, but few held paid subscriptions, suggesting limited sustained engagement
 id: low-sustained-gai-engagement-staff
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

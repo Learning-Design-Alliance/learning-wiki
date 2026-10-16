@@ -3,7 +3,7 @@ type: strategy
 id: ai-literacy-career-planning-support-strategy
 title: Integrate AI literacy, digital skill development, and technology-focused career planning into coursework, with targeted support for higher-anxiety groups
 description: Based on its findings, the article recommends that universities offer programs that raise awareness of AI-driven change, foster positive AI attitudes, and reduce anxiety.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

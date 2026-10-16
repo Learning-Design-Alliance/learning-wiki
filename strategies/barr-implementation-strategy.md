@@ -3,7 +3,7 @@ type: strategy
 id: barr-implementation-strategy
 title: Implement BARR with a dedicated coordinator, weekly teacher-team meetings, multi-year professional development, and intensive coaching
 description: "The page specifies implementation requirements: a school selects a BARR coordinator who \"will manage, coordinate, and integrate the BARR model\", and \"Teams of teachers need to meet weekly using the BARR process.\" Scho..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

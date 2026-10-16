@@ -3,7 +3,7 @@ type: claim
 title: Statewide California mathematics achievement on the CAASPP was mostly stagnant from 2015 to 2018 and lagged behind English language arts gains
 description: Statewide California mathematics achievement on the CAASPP was mostly stagnant from 2015 to 2018 and lagged behind English language arts gains
 id: california-math-caaspp-stagnant-lags-ela
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

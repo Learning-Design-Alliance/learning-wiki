@@ -3,7 +3,7 @@ type: claim
 title: "Individual study effect sizes span moderate to very high: eight studies medium, ten high, and thirteen very high by Cohen-criteria classification"
 description: "Individual study effect sizes span moderate to very high: eight studies medium, ten high, and thirteen very high by Cohen-criteria classification"
 id: effect-size-distribution-medium-high-very-high
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

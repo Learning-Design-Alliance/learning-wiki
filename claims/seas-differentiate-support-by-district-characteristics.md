@@ -3,7 +3,7 @@ type: claim
 title: SEAs differentiate support to districts based on the number of CSI/TSI-identified schools, district capacity, and district willingness to engage.
 description: SEAs differentiate support to districts based on the number of CSI/TSI-identified schools, district capacity, and district willingness to engage.
 id: seas-differentiate-support-by-district-characteristics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

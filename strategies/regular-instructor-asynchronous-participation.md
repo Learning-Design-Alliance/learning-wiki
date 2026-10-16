@@ -3,7 +3,7 @@ type: strategy
 id: regular-instructor-asynchronous-participation
 title: Require regular online instructor participation in asynchronous discussions, which may mitigate the lack of face-to-face interaction
 description: UC Irvine Extension online courses require instructors to participate actively in class asynchronous discussions every 48 to 72 hours, depending on course type.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

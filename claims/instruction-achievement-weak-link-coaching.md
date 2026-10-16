@@ -3,7 +3,7 @@ type: claim
 title: Coaching effects on instruction and achievement are positively correlated, but large instructional improvements are needed for modest achievement gains
 description: Coaching effects on instruction and achievement are positively correlated, but large instructional improvements are needed for modest achievement gains
 id: instruction-achievement-weak-link-coaching
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

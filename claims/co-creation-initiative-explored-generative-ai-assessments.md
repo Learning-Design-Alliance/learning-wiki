@@ -3,7 +3,7 @@ type: claim
 title: A student-staff co-creation initiative explored generative AI technologies in the context of higher education assessments
 description: A student-staff co-creation initiative explored generative AI technologies in the context of higher education assessments
 id: co-creation-initiative-explored-generative-ai-assessments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

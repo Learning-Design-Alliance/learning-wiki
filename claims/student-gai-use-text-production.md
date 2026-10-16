@@ -3,7 +3,7 @@ type: claim
 title: The main student use of GAI tools consistently in view was supporting language-usage and text production
 description: The main student use of GAI tools consistently in view was supporting language-usage and text production
 id: student-gai-use-text-production
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

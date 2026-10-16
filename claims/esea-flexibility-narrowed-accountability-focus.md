@@ -3,7 +3,7 @@ type: claim
 title: States used ESEA flexibility to move away from the 100 percent proficiency goal and target a narrower set of low-performing schools for support
 description: States used ESEA flexibility to move away from the 100 percent proficiency goal and target a narrower set of low-performing schools for support
 id: esea-flexibility-narrowed-accountability-focus
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

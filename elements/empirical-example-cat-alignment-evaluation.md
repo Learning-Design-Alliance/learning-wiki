@@ -3,7 +3,7 @@ type: element
 id: empirical-example-cat-alignment-evaluation
 title: Empirical example of a CAT content-alignment evaluation
 description: The article provides an empirical example demonstrating the proposed alignment evaluation process in use.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

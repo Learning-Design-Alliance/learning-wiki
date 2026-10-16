@@ -3,7 +3,7 @@ type: claim
 title: Final LPR performance is governed by the quality of evolutionary experts rather than by the particular imitation objective
 description: Final LPR performance is governed by the quality of evolutionary experts rather than by the particular imitation objective
 id: expert-quality-over-imitation-objective
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

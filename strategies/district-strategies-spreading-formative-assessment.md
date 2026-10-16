@@ -3,7 +3,7 @@ type: strategy
 id: district-strategies-spreading-formative-assessment
 title: District strategies for spreading and deepening formative assessment practice systemwide
 description: "Sunnyside School District supported, spread, and deepened formative assessment districtwide through a set of enumerated strategies: constant and consistent messaging around the definition of and expectations for forma..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

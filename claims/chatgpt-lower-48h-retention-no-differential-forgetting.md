@@ -3,7 +3,7 @@ type: claim
 title: "The retention gap persisted at 48 hours with no differential forgetting between groups (39% vs 52%)"
 description: "The retention gap persisted at 48 hours with no differential forgetting between groups (39% vs 52%)"
 id: chatgpt-lower-48h-retention-no-differential-forgetting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

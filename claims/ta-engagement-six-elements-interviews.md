@@ -3,7 +3,7 @@ type: claim
 title: Training and technical assistance is most engaging when it is grounded in clear expectations, designed around recipient needs, developed with ongoing recipient input, accessible, delivered by equipped providers, and framed as a partnership
 description: Training and technical assistance is most engaging when it is grounded in clear expectations, designed around recipient needs, developed with ongoing recipient input, accessible, delivered by equipped providers, and f...
 id: ta-engagement-six-elements-interviews
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

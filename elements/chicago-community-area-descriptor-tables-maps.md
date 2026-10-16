@@ -3,7 +3,7 @@ type: element
 id: chicago-community-area-descriptor-tables-maps
 title: Community-area data tables and maps of Chicago child and family descriptors for 1990 and 2000
 description: "The brief's core artifact is a set of community-area data tables and maps covering Chicago and its 77 community areas."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

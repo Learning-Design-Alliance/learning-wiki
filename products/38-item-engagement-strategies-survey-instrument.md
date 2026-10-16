@@ -4,7 +4,7 @@ id: 38-item-engagement-strategies-survey-instrument
 title: 38-item engagement strategies survey instrument
 description: A 38-item self-report survey developed and used by Martin et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-15

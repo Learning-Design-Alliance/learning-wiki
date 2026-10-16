@@ -2,7 +2,7 @@
 type: theory
 title: Feedback loops as purposeful, bidirectional, transformative interactions in education innovation
 description: "The report defines feedback loops, citing Baker, Weisgrau, and Bristal Philyaw (2022), as \"an interaction between two or more parties that is purposeful, bidirectional, and interactive and transforms the knowledge, ac..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

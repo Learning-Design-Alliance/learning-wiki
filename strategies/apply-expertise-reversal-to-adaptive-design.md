@@ -3,7 +3,7 @@ type: strategy
 id: apply-expertise-reversal-to-adaptive-design
 title: Design learner-tailored instructional systems by applying expertise reversal findings
 description: "The review recommends using expertise reversal findings as the basis for learner-tailored design: identify the learner's prior knowledge level and select instructional techniques and procedures whose effectiveness is..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

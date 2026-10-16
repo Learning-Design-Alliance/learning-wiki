@@ -3,7 +3,7 @@ type: claim
 title: "Mentor modelling and a school-wide behaviour program's strategies transferred to the mentee's classroom management practices"
 description: "Mentor modelling and a school-wide behaviour program's strategies transferred to the mentee's classroom management practices"
 id: mentor-modelling-strategies-transfer-mentee-behaviour-management
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

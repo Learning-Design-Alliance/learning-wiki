@@ -3,7 +3,7 @@ type: claim
 title: "Too Good for Violence produces statistically significant positive effects on elementary students' behavior 20 weeks after the program ends"
 description: "Too Good for Violence produces statistically significant positive effects on elementary students' behavior 20 weeks after the program ends"
 id: tgv-significant-behavior-effects-20-weeks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

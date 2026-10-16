@@ -3,7 +3,7 @@ type: claim
 title: Graduation rates declined by about four percentage points in the first policy year and one more the next, then recovered to nearly pre-policy levels within five years
 description: Graduation rates declined by about four percentage points in the first policy year and one more the next, then recovered to nearly pre-policy levels within five years
 id: cps-graduation-rates-declined-then-recovered
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

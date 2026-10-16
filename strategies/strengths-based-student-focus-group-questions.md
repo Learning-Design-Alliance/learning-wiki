@@ -3,7 +3,7 @@ type: strategy
 id: strengths-based-student-focus-group-questions
 title: Run a strengths-based student focus group using open-ended, neutrally framed questions about learning from home
 description: "The brief describes a concrete inquiry method: convene students across grade spans in a virtual focus group and ask open-ended questions about both the challenges and joys of learning from home."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

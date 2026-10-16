@@ -3,7 +3,7 @@ type: claim
 title: "Interpersonal audio discussions with feedback and self-assessment elicit a statistically significant increase in introductory L2 learners' perceived pronunciation ability"
 description: "Interpersonal audio discussions with feedback and self-assessment elicit a statistically significant increase in introductory L2 learners' perceived pronunciation ability"
 id: audio-discussions-increase-perceived-pronunciation-ability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

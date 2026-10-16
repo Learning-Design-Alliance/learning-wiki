@@ -3,7 +3,7 @@ type: claim
 title: A day of school missed after a severe weather event can translate to more than a day of learning lost
 description: A day of school missed after a severe weather event can translate to more than a day of learning lost
 id: weather-missed-day-more-than-day-learning-lost
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

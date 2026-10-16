@@ -3,7 +3,7 @@ type: claim
 title: About 54 percent of Chicago Public Schools students graduated from CPS by age 19 for the 1998 age-13 cohort and by the fourth year for the 1999 freshman cohort
 description: About 54 percent of Chicago Public Schools students graduated from CPS by age 19 for the 1998 age-13 cohort and by the fourth year for the 1999 freshman cohort
 id: cps-54-percent-graduated-by-age-19
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

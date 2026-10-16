@@ -3,7 +3,7 @@ type: claim
 title: EdTech messaging about AI over-emphasizes individual, cognitive learning while curricular frameworks emphasize social, contextual learning
 description: EdTech messaging about AI over-emphasizes individual, cognitive learning while curricular frameworks emphasize social, contextual learning
 id: edtech-ai-messaging-individual-vs-social-curricula
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -50,3 +50,4 @@ The presentation contrasts EdTech AI messaging, which it says "over-emphasizes i
 - [Both students and teachers believe AI cannot capture social dynamics and emotional feelings, but only teachers additionally feared AI use would reduce interpersonal interactions in class](ai-cannot-capture-social-emotional-dynamics.md) — related
 - [Anderson's structured cognitive tutoring systems and Papert's constructionist approach embody contrasting positions on control and learner agency](anderson-papert-comparative-models-control-agency.md) — related
 - [AI in VET is predominantly implemented through behaviorist or cognitively oriented instructional designs emphasizing drill-and-practice and adaptive feedback, while approaches fostering learner agency and critical reflection remain underrepresented](ai-vet-behaviorist-designs-learner-agency-underrepresented.md) — related
+- AI knowledge and education are increasingly emphasized in Federal STEM education programs and are a component of the Computer Science for All initiative — related

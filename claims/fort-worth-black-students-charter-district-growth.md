@@ -3,7 +3,7 @@ type: claim
 title: Fort Worth charter school Black students outgrew Fort Worth district school Black students in reading, though the within-Fort Worth contrast was not statistically significant
 description: Fort Worth charter school Black students outgrew Fort Worth district school Black students in reading, though the within-Fort Worth contrast was not statistically significant
 id: fort-worth-black-students-charter-district-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

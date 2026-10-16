@@ -2,7 +2,7 @@
 type: theory
 title: Instructional Improvement Support System (IISS) framework
 description: The Instructional Improvement Support System (IISS) is a framework describing the school-level aspects intended to contribute to teacher development and instructional improvement.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

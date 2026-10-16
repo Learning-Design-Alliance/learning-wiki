@@ -3,7 +3,7 @@ type: strategy
 id: ten-race-conscious-policy-strategies
 title: Ten strategies for advancing race-conscious higher education policies
 description: "The report lays out ten implementable strategies for institutions, states, and the federal government, stating \"Here are 10 strategies for advancing race-conscious policies that are designed to lead to racial equity i..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

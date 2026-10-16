@@ -62,7 +62,7 @@ Summaries exploit the structure of working memory and long-term consolidation: r
 
 ## Examples
 - **Lecture pause procedure** (Bonwell & Eison-style active lecturing): after each 12–15 minute segment, students pair up to summarize the key point in their own words before the lecture resumes.
-- **Muddiest point** (Angelo & Cross, *Classroom Assessment Techniques*): the last two minutes of class ask students to write "What was the muddiest point of today?" — a recap demand that doubles as formative assessment.
+- **[Muddiest point](muddiest-point.md)** (Angelo & Cross, *Classroom Assessment Techniques*): the last two minutes of class ask students to write "What was the muddiest point of today?" — a recap demand that doubles as formative assessment.
 - **Khan Academy** (https://www.khanacademy.org) — each video ends by restating the core rule or procedure, and the accompanying exercise set forces learners to re-apply the summarized idea immediately.
 
 ## Key Sources

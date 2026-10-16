@@ -3,7 +3,7 @@ type: strategy
 id: differentiate-starters-first-repeat-viewings
 title: Differentiate conversation starters for first versus repeat viewings
 description: "A strategy in which conversation starters are designed as two series: one for a first viewing to contextualize the science content through the episode narrative, and another for repeat viewings to focus more heavily o..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

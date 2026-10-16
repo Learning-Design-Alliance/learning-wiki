@@ -3,7 +3,7 @@ type: claim
 title: Teachers integrating a new assessment tool into early childhood practice need a range of supports to act effectively on the information it provides
 description: Teachers integrating a new assessment tool into early childhood practice need a range of supports to act effectively on the information it provides
 id: teachers-need-multiple-supports-integrate-new-assessments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

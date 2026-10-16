@@ -3,7 +3,7 @@ type: claim
 title: "A learner's mother language affects second language acquisition, particularly in production of absent sounds"
 description: "A learner's mother language affects second language acquisition, particularly in production of absent sounds"
 id: mother-tongue-affects-sla-production
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: ChatGPT users showed a non-significant trend toward worse overall informal learning outcomes than Google Search users over 8 days
 description: ChatGPT users showed a non-significant trend toward worse overall informal learning outcomes than Google Search users over 8 days
 id: chatgpt-worse-informal-learning-outcome-trend
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -48,3 +48,5 @@ Welch's t-test comparing post-learning knowledge test scores in an 8-day between
 - [ChatGPT users were significantly less likely to correctly answer a critical-learning question requiring interpretation of a nutrition label](chatgpt-worse-nutrition-label-application-question.md) — related
 - [ChatGPT users were significantly less likely to correctly compare and evaluate animal and plant protein sources](chatgpt-worse-protein-comparison-question.md) — related
 - [ChatGPT users began information seeking with narrow, specified queries far more often than Google users](chatgpt-narrow-starting-queries.md) — related
+- [Recommendation homogeneity does not differ between students using ChatGPT 3.5 and students using Google](llm-recommendation-homogeneity-no-difference.md) — related
+- [Students using ChatGPT 3.5 experience lower extraneous cognitive load than students using Google during a web research task](llm-search-lower-extraneous-cognitive-load.md) — related

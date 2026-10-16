@@ -3,7 +3,7 @@ type: claim
 title: The proposed snapshot-based method consistently outperforms baselines on synthetic next-skill prediction across all metrics except accuracy
 description: The proposed snapshot-based method consistently outperforms baselines on synthetic next-skill prediction across all metrics except accuracy
 id: synthetic-next-skill-prediction-outperforms-baselines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

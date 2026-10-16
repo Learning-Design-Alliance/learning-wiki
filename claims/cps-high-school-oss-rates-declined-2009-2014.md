@@ -3,7 +3,7 @@ type: claim
 title: Out-of-school suspension rates in CPS high schools declined each year from 24 percent in 2009-10 to 16 percent in 2013-14
 description: Out-of-school suspension rates in CPS high schools declined each year from 24 percent in 2009-10 to 16 percent in 2013-14
 id: cps-high-school-oss-rates-declined-2009-2014
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

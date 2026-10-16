@@ -3,7 +3,7 @@ type: strategy
 id: planned-proactive-grammar-instruction-efl-low-exposure
 title: Use planned, proactive grammar instruction for complex infrequent structures in low-exposure EFL settings
 description: The article recommends preselecting and preteaching target grammar forms integrated into communicative contexts when learners have minimal exposure to the language outside class.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

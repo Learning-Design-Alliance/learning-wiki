@@ -3,7 +3,7 @@ type: strategy
 id: recognize-informal-sns-learning-design-pedagogy
 title: Design educators should recognize and study learning in student-generated social media spaces rather than only the formal curriculum
 description: The authors recommend that design educators and researchers re-assess how much learning communities can accomplish on their own, and consider social media among pedagogical tools.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

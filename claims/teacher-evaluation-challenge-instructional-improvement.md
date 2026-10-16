@@ -3,7 +3,7 @@ type: claim
 title: Districts implementing new teacher evaluation systems faced challenges using evaluations for instructional improvement
 description: Districts implementing new teacher evaluation systems faced challenges using evaluations for instructional improvement
 id: teacher-evaluation-challenge-instructional-improvement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

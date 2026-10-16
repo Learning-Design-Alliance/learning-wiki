@@ -3,7 +3,7 @@ type: claim
 title: The temporal diversion channel is unavailable on commodity 60 Hz displays, leaving a weaker spatial-only variant
 description: The temporal diversion channel is unavailable on commodity 60 Hz displays, leaving a weaker spatial-only variant
 id: bavd-temporal-channel-unavailable-60hz-hardware
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

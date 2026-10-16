@@ -3,7 +3,7 @@ type: strategy
 id: three-leads-teaching-for-discovery
 title: "Pursue three leads for teaching discovery behavior: operant analysis, cognitive simulation, and exploratory-drive research"
 description: For learning TO discover, Glaser recommends three research leads.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

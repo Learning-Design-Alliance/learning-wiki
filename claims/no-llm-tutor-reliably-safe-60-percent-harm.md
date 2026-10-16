@@ -3,7 +3,7 @@ type: claim
 title: "No evaluated LLM tutor is reliably safe: every model exceeds 60% harm rate on at least five risk categories in single-turn and six in multi-turn evaluation"
 description: "No evaluated LLM tutor is reliably safe: every model exceeds 60% harm rate on at least five risk categories in single-turn and six in multi-turn evaluation"
 id: no-llm-tutor-reliably-safe-60-percent-harm
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

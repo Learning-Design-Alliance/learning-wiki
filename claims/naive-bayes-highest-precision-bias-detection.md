@@ -3,7 +3,7 @@ type: claim
 title: The naive Bayes model achieved the highest precision (0.75) for ethnic bias detection on the test set
 description: The naive Bayes model achieved the highest precision (0.75) for ethnic bias detection on the test set
 id: naive-bayes-highest-precision-bias-detection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

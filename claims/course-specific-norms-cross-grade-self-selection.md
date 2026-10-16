@@ -3,7 +3,7 @@ type: claim
 title: "Cross-grade score patterns show self-selection: lower-grade students taking a course-specific test tend to outperform students at the grade the course targets, and upper-grade students tend to underperform them."
 description: "Cross-grade score patterns show self-selection: lower-grade students taking a course-specific test tend to outperform students at the grade the course targets, and upper-grade students tend to underperform them."
 id: course-specific-norms-cross-grade-self-selection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -2,7 +2,7 @@
 type: theory
 title: "TRIO: trust, respect, intentionality, and optimism as the four elements of Invitational Education"
 description: "The four assumptions of Invitational Education serve as a framework for 'four elements that are critical to the invitational model."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

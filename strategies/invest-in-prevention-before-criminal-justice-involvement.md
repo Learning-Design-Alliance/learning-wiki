@@ -3,7 +3,7 @@ type: strategy
 id: invest-in-prevention-before-criminal-justice-involvement
 title: Invest in prevention before disconnected youth enter the criminal justice system, and fund job growth, improved high school and community college programs, and social programs
 description: The report recommends shifting spending toward prevention, arguing that current programs are small-scale, rehabilitative, and under-funded relative to the losses calculated.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

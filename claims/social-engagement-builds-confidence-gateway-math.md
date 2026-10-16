@@ -3,7 +3,7 @@ type: claim
 title: Social engagement in gateway math courses builds confidence and deepens understanding, dependent on faculty fostering a supportive learning environment
 description: Social engagement in gateway math courses builds confidence and deepens understanding, dependent on faculty fostering a supportive learning environment
 id: social-engagement-builds-confidence-gateway-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

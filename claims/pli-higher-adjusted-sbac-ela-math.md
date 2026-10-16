@@ -3,7 +3,7 @@ type: claim
 title: PLI students outscored non-PLI peers on adjusted SBAC ELA and math assessments in most tested elementary and middle grades
 description: PLI students outscored non-PLI peers on adjusted SBAC ELA and math assessments in most tested elementary and middle grades
 id: pli-higher-adjusted-sbac-ela-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

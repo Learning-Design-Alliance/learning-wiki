@@ -3,7 +3,7 @@ type: claim
 title: VR (non-guided exploration) did not differ significantly from Non VR for either assimilator or accommodator learners
 description: VR (non-guided exploration) did not differ significantly from Non VR for either assimilator or accommodator learners
 id: non-guided-vr-no-better-than-non-vr
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

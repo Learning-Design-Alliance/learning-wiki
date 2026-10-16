@@ -3,7 +3,7 @@ type: element
 id: cognitive-prompt-integration-strategy-psychology-course
 title: Ad hoc instructional strategy integrating deep- or shallow-processing cognitive prompts into a psychology coursebook chapter
 description: The article designed an instructional strategy that embeds cognitive prompts directly into online textbook content.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

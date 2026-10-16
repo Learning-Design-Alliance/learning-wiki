@@ -4,7 +4,7 @@ id: caring-school-community
 title: Caring School Community™
 description: A multiyear K–6 school improvement programme developed by the Developmental Studies Center that uses class meetings, cross-age buddies, family activities, and schoolwide community-building to promote prosocial behavior and shared values.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

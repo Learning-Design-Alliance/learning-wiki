@@ -3,7 +3,7 @@ type: strategy
 id: indirect-error-correction-self-correction
 title: Use indirect correction and self-correction to avoid face-threatening error treatment
 description: "The article recommends indirect correction: teachers \"either encourage students to do self-correction in heuristic method or present the correct form, so students couldn't feel embarrassed\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

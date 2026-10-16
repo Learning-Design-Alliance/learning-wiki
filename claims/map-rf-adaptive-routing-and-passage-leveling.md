@@ -3,7 +3,7 @@ type: claim
 title: Adaptive routing and comprehension-based passage leveling structure the MAP Reading Fluency assessment
 description: Adaptive routing and comprehension-based passage leveling structure the MAP Reading Fluency assessment
 id: map-rf-adaptive-routing-and-passage-leveling
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

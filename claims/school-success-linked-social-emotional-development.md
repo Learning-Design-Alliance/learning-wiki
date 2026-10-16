@@ -3,7 +3,7 @@ type: claim
 title: "Students' success in school and beyond is inextricably linked to healthy social and emotional development"
 description: "Students' success in school and beyond is inextricably linked to healthy social and emotional development"
 id: school-success-linked-social-emotional-development
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

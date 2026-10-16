@@ -3,7 +3,7 @@ type: claim
 title: Learners receiving both form- and meaning-focused instruction improved more than a form-focused group (attributed to Park, 2000)
 description: Learners receiving both form- and meaning-focused instruction improved more than a form-focused group (attributed to Park, 2000)
 id: form-and-meaning-focus-beats-form-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -4,7 +4,7 @@ id: world-history-project-curriculum
 title: World History Project curriculum
 description: World History Project is a free, online, year-long high-school world-history curriculum made by the OER Project, combining readings, videos, historical-thinking activities, and teacher guidance.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

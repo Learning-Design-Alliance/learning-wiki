@@ -3,7 +3,7 @@ type: claim
 title: "Taxonomy quality drives CLARA performance: degraded taxonomies reduce alignment, and removing SEL causes the largest degradation"
 description: "Taxonomy quality drives CLARA performance: degraded taxonomies reduce alignment, and removing SEL causes the largest degradation"
 id: clara-taxonomy-quality-ablation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

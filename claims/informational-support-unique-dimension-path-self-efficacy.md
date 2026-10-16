@@ -3,7 +3,7 @@ type: claim
 title: In a first-order support-dimension model, only informational support retained a significant path to AI learning self-efficacy
 description: In a first-order support-dimension model, only informational support retained a significant path to AI learning self-efficacy
 id: informational-support-unique-dimension-path-self-efficacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

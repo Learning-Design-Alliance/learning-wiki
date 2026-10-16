@@ -3,7 +3,7 @@ type: strategy
 id: support-children-entering-kindergarten-first-grade
 title: Provide support to children entering kindergarten and first grade to ease school transitions
 description: "The fact sheet frames transition support as a response to the risks young children face when entering school: \"Children may need support when they enter kindergarten and first grade, because difficulty adjusting to th..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

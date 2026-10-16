@@ -3,7 +3,7 @@ type: claim
 title: Hallucination rate increases under 4-bit quantization and is substantially mitigated by quantization-aware fine-tuning
 description: Hallucination rate increases under 4-bit quantization and is substantially mitigated by quantization-aware fine-tuning
 id: quantization-raises-hallucination-rate-finetuning-mitigates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

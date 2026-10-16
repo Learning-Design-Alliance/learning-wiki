@@ -3,7 +3,7 @@ type: claim
 title: "Using the ePSRL Management System increases postgraduate online students' perceived awareness, understanding and application of self-regulated learning"
 description: "Using the ePSRL Management System increases postgraduate online students' perceived awareness, understanding and application of self-regulated learning"
 id: epsrl-increases-perceived-srl-awareness-understanding-application
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

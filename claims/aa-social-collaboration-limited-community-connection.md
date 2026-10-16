@@ -3,7 +3,7 @@ type: claim
 title: Social collaboration in authentic assessment is mostly peer- and teacher-based, with few connections to industry or community partners and rare equitable teacher-student collaboration
 description: Social collaboration in authentic assessment is mostly peer- and teacher-based, with few connections to industry or community partners and rare equitable teacher-student collaboration
 id: aa-social-collaboration-limited-community-connection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

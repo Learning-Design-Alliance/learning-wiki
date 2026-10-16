@@ -3,7 +3,7 @@ type: claim
 title: Black, Hispanic, and poverty-affected charter students grow faster than traditional public school peers but gains remain below those of white peers
 description: Black, Hispanic, and poverty-affected charter students grow faster than traditional public school peers but gains remain below those of white peers
 id: charter-minority-poverty-gains-below-white-peers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

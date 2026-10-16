@@ -3,7 +3,7 @@ type: claim
 title: In Experiment 1, the feedback intervention reduced pre-task signed metacognitive bias (underconfidence) but the group difference did not persist at post-task
 description: In Experiment 1, the feedback intervention reduced pre-task signed metacognitive bias (underconfidence) but the group difference did not persist at post-task
 id: feedback-reduces-pretask-metacognitive-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

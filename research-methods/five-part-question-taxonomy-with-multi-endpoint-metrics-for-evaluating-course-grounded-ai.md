@@ -3,7 +3,7 @@ type: research-method
 id: five-part-question-taxonomy-with-multi-endpoint-metrics-for-evaluating-course-grounded-ai
 title: Five-part question taxonomy with multi-endpoint metrics for evaluating course-grounded AI tutors
 description: "The article extends a prior 30-question generic/specific set into a five-part taxonomy of classroom question types: \"(a) single fact lookup, (b) multi hop concept linking, (c) thematic explanation and synthesis, (d) contradictionandambiguityhandling(Houetal.2024),and (e) curriculum update questions "
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

@@ -2,7 +2,7 @@
 type: theory
 title: Five dimensions of affective development in the preschool child
 description: "The report organizes affective development—defined broadly as \"the emotional state and the personal attitudes of the individual\"—into five critical dimensions: emergence of self, caretaker attachment, adaptation-maste..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -40,9 +40,8 @@ The report organizes affective development—defined broadly as "the emotional s
 
 ## Related Theories
 
-- [Control systems view of the infant as a competent, adaptive system](infant-controlled-system-adaptive-fit.md)
+- [Control systems view of the infant as a competent, adaptive system](infant-controlled-system-adaptive-fit-theory.md)
 - [Five-dimension framework of affective development in preschool children](five-dimensions-affective-development-framework.md)
-- [Systems-theory view of the infant as a competent adaptive system](infant-controlled-system-adaptive-fit-theory.md)
 
 ## Examples
 

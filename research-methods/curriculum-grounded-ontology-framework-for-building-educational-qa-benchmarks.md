@@ -3,7 +3,7 @@ type: research-method
 id: curriculum-grounded-ontology-framework-for-building-educational-qa-benchmarks
 title: Curriculum-grounded ontology framework for building educational QA benchmarks
 description: The article proposes an end-to-end framework in which a national curriculum textbook is ingested via OCR and semantic chunking, formalized against a predefined domain ontology, and used to construct a provenance-traced QA benchmark with category-level evaluation.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

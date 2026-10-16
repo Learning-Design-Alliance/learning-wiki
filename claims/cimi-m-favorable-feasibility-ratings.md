@@ -3,7 +3,7 @@ type: claim
 title: Veterans and clinicians rate the CIMI-M as feasible, acceptable, and clinically useful in a preliminary evaluation
 description: Veterans and clinicians rate the CIMI-M as feasible, acceptable, and clinically useful in a preliminary evaluation
 id: cimi-m-favorable-feasibility-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

@@ -3,7 +3,7 @@ type: claim
 title: The visualizations address how students performed in fall 2020 compared to a typical school year
 description: The visualizations address how students performed in fall 2020 compared to a typical school year
 id: fall-2020-performance-compared-typical-year
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

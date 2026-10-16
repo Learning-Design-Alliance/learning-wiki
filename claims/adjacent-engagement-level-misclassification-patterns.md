@@ -3,7 +3,7 @@ type: claim
 title: "Classifiers systematically confuse adjacent engagement levels: social with active, constructive with interactive, and interactive with active"
 description: "Classifiers systematically confuse adjacent engagement levels: social with active, constructive with interactive, and interactive with active"
 id: adjacent-engagement-level-misclassification-patterns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

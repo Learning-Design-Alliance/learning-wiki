@@ -3,7 +3,7 @@ type: claim
 title: MOOC video engagement declines with video length, with median engagement under half the duration for videos longer than nine minutes
 description: MOOC video engagement declines with video length, with median engagement under half the duration for videos longer than nine minutes
 id: mooc-engagement-declines-with-video-length
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

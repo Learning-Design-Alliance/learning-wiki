@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25
@@ -143,3 +143,7 @@ A systematic search of bibliographic databases identified 69 effect sizes from 6
 - [Language becomes an operational medium in AI-supported design, with risks of narrowing exploration](language-operational-medium-design-ai.md) — related
 - [Immediate Elaborated Feedback in a formative assessment game significantly improved students' programming knowledge, interest, and problem-solving versus systems without immediate feedback](immediate-elaborated-feedback-improves-programming-learning.md) — related
 - [Learning through the experience of solving problems can build both content knowledge and thinking strategies](problem-experience-builds-content-and-thinking-strategies.md) — related
+- [Explanation prompts direct attention to targeted information and can reduce attention to other important information](explanation-prompts-redirect-attention-with-hidden-costs.md) — related
+- [Self-explanation beats unguided studying for equal time, but instructional explanations, problem solving and retrieval practice can be equally or more effective](instructional-explanations-sometimes-equal-or-better-than-self-explanation.md) — a narrower finding that bears on this claim
+- [Self-explanation promotes transfer of general patterns but can reduce recall of details and cause overgeneralization](self-explanation-improves-transfer-reduces-detail-recall.md) — a narrower finding that bears on this claim
+- [Self-explaining a worked example of a learning journal entry enhances strategy use and transfer of journal-writing benefits to a new topic](worked-example-self-explanation-journal-transfer.md) — a narrower finding that bears on this claim

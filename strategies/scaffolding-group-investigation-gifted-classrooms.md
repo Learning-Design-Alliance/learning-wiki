@@ -3,7 +3,7 @@ type: strategy
 id: scaffolding-group-investigation-gifted-classrooms
 title: Apply scaffolding and social group-investigation models in gifted classrooms
 description: The essay recommends scaffolding, invented by Wood, Bruner, and Ross in 1976 to describe tutorial interaction between an adult and a child, as a curriculum-design framework for gifted classrooms because it allows dire...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -48,4 +48,4 @@ The essay recommends scaffolding, invented by Wood, Bruner, and Ross in 1976 to 
 -
 
 ## Key Sources
-- McGlonn-Nelson, K. (2005). Looking Outward: Exploring the Intersections of Sociocultural Theory and Gifted Education. The Journal of Secondary Gifted Education, 17(1), 48-55. https://eric.ed.gov/?id=EJ746045
+- McGlonn-Nelson, K. (2005). Looking Outward: Exploring the Intersections of Sociocultural Theory and Gifted Education. The Journal of Secondary Gifted Education, 17(1), 48-55. https://eric.ed.gov/?id=EJ746045. [doi:10.4219/jsge-2005-391](https://doi.org/10.4219/jsge-2005-391)

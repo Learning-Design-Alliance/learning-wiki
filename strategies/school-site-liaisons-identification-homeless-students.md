@@ -3,7 +3,7 @@ type: strategy
 id: school-site-liaisons-identification-homeless-students
 title: Dedicate more staff time to homeless liaison responsibilities and designate school-site liaisons to improve identification and reengagement
 description: The report recommends districts improve identification of students experiencing homelessness by dedicating more staff time and resources to McKinney-Vento liaison responsibilities and by designating school-site liaiso...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

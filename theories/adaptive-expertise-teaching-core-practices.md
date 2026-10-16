@@ -2,7 +2,7 @@
 type: theory
 title: "Adaptive expertise in teaching: adaptivity as a key characteristic of effective teaching, with identifiable core practices"
 description: "The article works within a framework in which being adaptive is central to effective teaching: \"While being adaptive is a key characteristic of effective teaching, teachers can be resistant to change.\" The framework i..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

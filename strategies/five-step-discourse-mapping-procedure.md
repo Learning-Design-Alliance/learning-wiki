@@ -3,7 +3,7 @@ type: strategy
 id: five-step-discourse-mapping-procedure
 title: Five-step discourse mapping procedure for representing a contested knowledge debate
 description: "The paper offers a implementable recipe for social cartography: choose the debate to map; select the widest range of texts and translate their defining rhetorical characteristics; identify the range of positions on ch..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

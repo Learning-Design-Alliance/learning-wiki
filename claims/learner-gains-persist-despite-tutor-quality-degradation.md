@@ -3,7 +3,7 @@ type: claim
 title: Learner-side gains from curiosity modulation persist even when tutor-side instructional quality remains unchanged or degrades, suggesting curiosity operates as a partially independent interaction-level mechanism
 description: Learner-side gains from curiosity modulation persist even when tutor-side instructional quality remains unchanged or degrades, suggesting curiosity operates as a partially independent interaction-level mechanism
 id: learner-gains-persist-despite-tutor-quality-degradation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -18,8 +18,8 @@ sources:
     kind: causal
     rigour: 2
   - id: ganganath-2026-2
-    resource: "https://arxiv.org/abs/2606.22349"
-    title: "Ganganath, G., Bolonghege, P., Lyu, Q., Varakantham, P., & Kandappu, T. (2026). Curiosity as Linguistic Intervention: Using LLM Tutoring Dialogues to Influence Exploratory Learning Behavior. https://arxiv.org/abs/2606.22349"
+    resource: "https://doi.org/10.48550/arxiv.2606.22349"
+    title: "Ganganath, G., Bolonghege, P., Lyu, Q., Varakantham, P., & Kandappu, T. (2026). Curiosity as Linguistic Intervention: Using LLM Tutoring Dialogues to Influence Exploratory Learning Behavior. https://arxiv.org/abs/2606.22349. [doi:10.48550/arxiv.2606.22349](https://doi.org/10.48550/arxiv.2606.22349)"
     author: "Ganganath, G., Bolonghege, P., Lyu, Q., Varakantham, P., & Kandappu, T."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Learner-side gains from curiosity modulation persist even when tutor-side instructional quality remains unchanged or degrades, suggesting curiosity operates as a partially independent interaction-level mechanism
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The dissociation between learner-side and tutor-side outcomes is most visible in the Gemini condition, where learner curiosity and conversational agency improve significantly while instructional quality and cognitive load management degrade. [→ Ganganath 2026](#ganganath-2026)
@@ -50,7 +50,7 @@ Dissociation analysis (§5.3) drawing on the Table 3 dimension-wise scores. In t
 
 ### Ganganath 2026 (2)
 
-Ganganath, G., Bolonghege, P., Lyu, Q., Varakantham, P., & Kandappu, T. (2026). Curiosity as Linguistic Intervention: Using LLM Tutoring Dialogues to Influence Exploratory Learning Behavior. https://arxiv.org/abs/2606.22349
+Ganganath, G., Bolonghege, P., Lyu, Q., Varakantham, P., & Kandappu, T. (2026). Curiosity as Linguistic Intervention: Using LLM Tutoring Dialogues to Influence Exploratory Learning Behavior. https://arxiv.org/abs/2606.22349. [doi:10.48550/arxiv.2606.22349](https://doi.org/10.48550/arxiv.2606.22349)
 
 `q2 · i?` · `causal · r2`
 

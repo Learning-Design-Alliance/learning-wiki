@@ -3,7 +3,7 @@ type: claim
 title: The school-built environment, including access to nature and green spaces, positively impacts children, teachers, and the school community
 description: The school-built environment, including access to nature and green spaces, positively impacts children, teachers, and the school community
 id: school-built-environment-positive-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

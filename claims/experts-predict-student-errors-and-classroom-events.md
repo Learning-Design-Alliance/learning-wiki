@@ -3,7 +3,7 @@ type: claim
 title: Experts predict classroom phenomena and student errors far more than novices, who rarely anticipate misalgorithms
 description: Experts predict classroom phenomena and student errors far more than novices, who rarely anticipate misalgorithms
 id: experts-predict-student-errors-and-classroom-events
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -51,3 +51,4 @@ In the study by Stein, Clarridge, and Berliner (1988), expert, novice, and postu
 - Experts attend selectively to atypical events, merging typical student information into a group picture, while novices and postulants study all student details — related
 - Experts discern instructional significance in classroom scenes while novices and postulants treat all visual stimuli as equally important — related
 - Expert teachers show intense emotionality and sense of responsibility for their performance, unlike affectless novices and postulants — related
+- [Novices and experts committed similar total error numbers but different error types in computer work](novice-expert-error-type-differences.md) — related

@@ -4,7 +4,7 @@ id: map-growth-spanish-math-and-reading-assessments
 title: MAP Growth Spanish Math and Reading assessments
 description: "NWEA's computer-adaptive Spanish-language Math and Reading assessments measure student achievement and growth across specified grades and testing windows, using MAP Growth scales, norms, and blueprints where applicable."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
@@ -80,7 +80,7 @@ Computer adaptive Spanish-language assessments parallel to English MAP Growth, a
 
 - [MAP Growth interim computer adaptive assessment system](map-growth.md)
 - [Spanish MAP Reading Fluency Foundational Skills assessment](map-reading-fluency.md)
-- [NWEA MAP Growth assessment and longitudinal achievement database](nwea-map-growth.md)
+- [NWEA MAP Growth assessment and longitudinal achievement database](map-growth.md)
 - [Spanish Foundational Skills achievement and growth norms tables (grades K-3)](spanish-map-reading-fluency-foundational-skills.md)
 - [MAP Growth: computer-adaptive, vertically scaled interim assessment on the RIT scale](../products/map-growth.md)
 - [Spanish MAP Growth Reading assessment: an adaptive K–8 reading assessment on a RIT scale linked to the English version](spanish-map-growth-reading.md)

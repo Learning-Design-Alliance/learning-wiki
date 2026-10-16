@@ -3,7 +3,7 @@ type: claim
 title: "Qualitative reflections identify developmental inappropriateness (45%), vagueness and repetition (32%), and implementation feasibility (23%) as the main AI limitations"
 description: "Qualitative reflections identify developmental inappropriateness (45%), vagueness and repetition (32%), and implementation feasibility (23%) as the main AI limitations"
 id: ai-limitations-themes-early-childhood-science
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

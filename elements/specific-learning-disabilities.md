@@ -4,7 +4,7 @@ id: specific-learning-disabilities
 title: Specific Learning Disabilities
 description: A learning disability is a significant, specific gap between a student's ability and one narrow area of academic achievement (reading, writing, or math) that persists despite ordinary teaching effort and isn't explained by broader intellectual, sensory, or language-acquisition factors — with dyslexia, dysgraphia, and dyscalculia as the three most commonly diagnosed forms.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

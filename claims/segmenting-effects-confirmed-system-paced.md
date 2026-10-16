@@ -3,7 +3,7 @@ type: claim
 title: The segmenting, cognitive-load, and learning-time effects are confirmed for system-paced segmentation
 description: The segmenting, cognitive-load, and learning-time effects are confirmed for system-paced segmentation
 id: segmenting-effects-confirmed-system-paced
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

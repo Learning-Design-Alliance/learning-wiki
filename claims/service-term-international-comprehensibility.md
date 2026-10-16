@@ -3,7 +3,7 @@ type: claim
 title: International faculty feedback revealed that the term service is not clearly recognized outside North America, prompting wording changes for global comprehensibility
 description: International faculty feedback revealed that the term service is not clearly recognized outside North America, prompting wording changes for global comprehensibility
 id: service-term-international-comprehensibility
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

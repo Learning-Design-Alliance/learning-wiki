@@ -3,7 +3,7 @@ type: claim
 title: Asian and white CPS students score consistently higher than Latino and African-American students in reading and math, and Asian students score significantly higher in math than white students
 description: Asian and white CPS students score consistently higher than Latino and African-American students in reading and math, and Asian students score significantly higher in math than white students
 id: cps-itbs-racial-ethnic-score-gaps-1992-1999
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -102,3 +102,4 @@ Descriptive trend comparison by race/ethnicity, 1992-1999 (Part 2). The brief re
 - High-achieving Black and Latino and low-income students who pass Algebra I in eighth grade still take advanced high school math at lower rates than their peers — related
 - Adjusting for low-income student share narrows but does not eliminate demographic performance gaps in the PEP framework — related
 - [NAEP scores in 2019 were higher for most racial/ethnic groups in both subjects and grades compared to the early 1990s, but grade 8 reading was lower for all groups except Asian/Pacific Islander students compared to 2017](naep-2019-race-ethnicity-trends.md) — related
+- Only the White–Black gap at grade 4 narrowed; gains for minority students did not consistently close racial/ethnic or gender achievement gaps — related

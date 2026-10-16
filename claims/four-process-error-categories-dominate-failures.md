@@ -3,7 +3,7 @@ type: claim
 title: Four process-level error categories account for roughly nine in ten attributed failures in VCoT geometry solving
 description: Four process-level error categories account for roughly nine in ten attributed failures in VCoT geometry solving
 id: four-process-error-categories-dominate-failures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

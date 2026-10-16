@@ -3,7 +3,7 @@ type: claim
 title: "Read, Write & Type!™ shows no statistically significant alphabetics advantages over the Auditory Discrimination in Depth® comparison"
 description: "Read, Write & Type!™ shows no statistically significant alphabetics advantages over the Auditory Discrimination in Depth® comparison"
 id: rwt-no-advantage-over-auditory-discrimination-in-depth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

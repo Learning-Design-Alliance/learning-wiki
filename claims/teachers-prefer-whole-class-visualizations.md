@@ -3,7 +3,7 @@ type: claim
 title: "Teachers ranked all whole class visualizations higher than any of the equity visualizations despite the equity visualizations' role in prompting equity reflections"
 description: "Teachers ranked all whole class visualizations higher than any of the equity visualizations despite the equity visualizations' role in prompting equity reflections"
 id: teachers-prefer-whole-class-visualizations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

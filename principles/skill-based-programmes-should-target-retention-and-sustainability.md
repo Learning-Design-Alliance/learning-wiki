@@ -3,7 +3,7 @@ type: principle
 id: skill-based-programmes-should-target-retention-and-sustainability
 title: Skill-based training programmes should extend beyond short-term skill enhancement towards persistent retention and sustainability of acquired knowledge and skills
 description: The protocol argues that skill-based training programmes delivered alongside the conventional academic curriculum — via independent workshops, practical sessions or short courses — promote domain-specific professional...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

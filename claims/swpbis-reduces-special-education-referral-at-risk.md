@@ -3,7 +3,7 @@ type: claim
 title: At-risk children in SWPBIS schools were significantly less likely to be referred to special education than at-risk peers in comparison schools
 description: At-risk children in SWPBIS schools were significantly less likely to be referred to special education than at-risk peers in comparison schools
 id: swpbis-reduces-special-education-referral-at-risk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

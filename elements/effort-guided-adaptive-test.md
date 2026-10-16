@@ -3,7 +3,7 @@ type: element
 id: effort-guided-adaptive-test
 title: Effort-guided adaptive test
 description: The effort-guided adaptive test is a proposed adaptive testing design that uses information about test-taker effort (such as rapid-guessing behavior) to guide item selection.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

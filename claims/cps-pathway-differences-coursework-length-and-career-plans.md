@@ -3,7 +3,7 @@ type: claim
 title: Across CPS preparation pathways, traditional and residency student teachers completed more methods coursework, had lengthier programs, and planned more years in teaching than alternative-pathway student teachers
 description: Across CPS preparation pathways, traditional and residency student teachers completed more methods coursework, had lengthier programs, and planned more years in teaching than alternative-pathway student teachers
 id: cps-pathway-differences-coursework-length-and-career-plans
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

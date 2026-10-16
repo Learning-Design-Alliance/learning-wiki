@@ -3,7 +3,7 @@ type: claim
 title: "Privacy protection in the framework is partial: three residual leakage channels remain open"
 description: "Privacy protection in the framework is partial: three residual leakage channels remain open"
 id: partial-privacy-three-residual-leakage-channels
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

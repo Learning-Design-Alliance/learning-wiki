@@ -3,7 +3,7 @@ type: claim
 title: On real-world data, the proposed method maintains high win rates as the number of skills increases, performing strongly on ACE and MSE
 description: On real-world data, the proposed method maintains high win rates as the number of skills increases, performing strongly on ACE and MSE
 id: real-world-win-rate-skill-size
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

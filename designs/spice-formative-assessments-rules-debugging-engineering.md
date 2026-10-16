@@ -3,7 +3,7 @@ type: design
 id: spice-formative-assessments-rules-debugging-engineering
 title: "SPICE curriculum formative assessments: Rules Task, Debugging Task, and Engineering Task with cross-domain rubrics"
 description: "SPICE (Science Projects Integrating Computing and Engineering) is \"a three-week middle school curriculum unit in which students redesign a schoolyard using surface materials that minimize post-rainstorm runoff while s..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10
@@ -46,4 +46,4 @@ SPICE (Science Projects Integrating Computing and Engineering) is "a three-week 
 -
 
 ## Key Sources
-- Cohn, C., Ashwin T S, Mohammed, N., & Biswas, G. (2026). CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback. arXiv preprint. https://arxiv.org/abs/2504.02323
+- Cohn, C., Ashwin T S, Mohammed, N., & Biswas, G. (2026). CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback. arXiv preprint. https://arxiv.org/abs/2504.02323. [doi:10.48550/arxiv.2504.02323](https://doi.org/10.48550/arxiv.2504.02323)

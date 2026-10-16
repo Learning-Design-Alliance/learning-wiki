@@ -3,7 +3,7 @@ type: strategy
 id: state-policy-levers-yearlong-stipended-clinical-preparation
 title: "State policy levers for sustaining yearlong, stipended clinical preparation: require or incentivize full-year stipended clinical experience, fund partnerships, and reduce testing fees"
 description: "For state policymakers, the report recommends that states \"Require or incentivize candidates to complete a full year of stipended clinical experience to earn a teaching credential\", fund EPPs and district partners to..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

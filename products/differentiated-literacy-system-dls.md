@@ -4,7 +4,7 @@ id: differentiated-literacy-system-dls
 title: Differentiated Literacy System (DLS)
 description: The Differentiated Literacy System is a literacy assessment-and-grouping tool with instructional coaching that supports K–3 teachers in organizing differentiated small-group instruction, developed and delivered by DLS.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

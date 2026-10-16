@@ -3,7 +3,7 @@ type: strategy
 id: offline-smoke-tests-live-hill-climbing
 title: Use offline evaluations as smoke tests and live experiments for hill climbing
 description: "The article recommends a three-step strategy for any hill-climbing change: \"(1) Conduct offline evals to make sure that the change is ok to show to users."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -43,4 +43,4 @@ The article recommends a three-step strategy for any hill-climbing change: "(1) 
 -
 
 ## Key Sources
-- Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R., DiGiano, C., Weatherholtz, K., Zaluski, M. (2026). Methodologies for Improving the Quality of AI Tutoring in K-12 Education. https://sites.google.com/khanacademy.org/aied2026supplementalmaterial/home
+- Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R., DiGiano, C., Weatherholtz, K., Zaluski, M. (2026). Methodologies for Improving the Quality of AI Tutoring in K-12 Education. https://sites.google.com/khanacademy.org/aied2026supplementalmaterial/home. [doi:10.1007/978-3-032-29755-6_14](https://doi.org/10.1007/978-3-032-29755-6_14)

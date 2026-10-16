@@ -3,7 +3,7 @@ type: claim
 title: The most frequently reported affordances of AR enhanced analytics are interaction, projection of contextual information, and sensory capability
 description: The most frequently reported affordances of AR enhanced analytics are interaction, projection of contextual information, and sensory capability
 id: ar-analytics-affordances-interaction-most-reported
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

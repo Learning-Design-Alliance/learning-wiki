@@ -3,7 +3,7 @@ type: strategy
 id: state-agency-support-for-leadership-initiatives
 title: State agencies can strengthen leadership initiatives through sustained endorsement, cross-agency communication, and amplification
 description: "The report's implications section recommends actions for state policymakers and agency leaders to support 21CSLA."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

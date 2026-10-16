@@ -3,7 +3,7 @@ type: strategy
 id: educators-respond-test-performance-inequities
 title: Educators should consider how to respond to possible inequities in test performance revealed by validity analyses
 description: "The authors close by urging attention to the practical side of their finding: educators should consider how to respond to possible inequities in test performance that validity studies of this kind uncover."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

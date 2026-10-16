@@ -3,7 +3,7 @@ type: claim
 title: K-12 learners preferred incremental hints and multiple attempts over immediately revealed solutions
 description: K-12 learners preferred incremental hints and multiple attempts over immediately revealed solutions
 id: learners-prefer-incremental-hints-over-solutions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

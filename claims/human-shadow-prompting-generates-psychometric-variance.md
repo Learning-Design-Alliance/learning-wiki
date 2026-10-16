@@ -3,7 +3,7 @@ type: claim
 title: Human-shadow prompting generates broad psychometric variance while AI-assistant responses are uniform
 description: Human-shadow prompting generates broad psychometric variance while AI-assistant responses are uniform
 id: human-shadow-prompting-generates-psychometric-variance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

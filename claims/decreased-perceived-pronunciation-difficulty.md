@@ -3,7 +3,7 @@ type: claim
 title: Students reported significantly less difficulty with comprehensibility and accuracy of pronunciation between the first and final audio discussion activity
 description: Students reported significantly less difficulty with comprehensibility and accuracy of pronunciation between the first and final audio discussion activity
 id: decreased-perceived-pronunciation-difficulty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

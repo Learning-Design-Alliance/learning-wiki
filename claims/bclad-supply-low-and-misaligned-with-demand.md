@@ -3,7 +3,7 @@ type: claim
 title: BCLAD-authorized educators are in low supply in California and their assignments are often misaligned with bilingual program demand
 description: BCLAD-authorized educators are in low supply in California and their assignments are often misaligned with bilingual program demand
 id: bclad-supply-low-and-misaligned-with-demand
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

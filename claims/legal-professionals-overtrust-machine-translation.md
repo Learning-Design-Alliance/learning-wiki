@@ -3,7 +3,7 @@ type: claim
 title: Legal professionals frequently use free NMT with high self-reported satisfaction yet perform little to no post-editing, so satisfaction is not correlated with quality
 description: Legal professionals frequently use free NMT with high self-reported satisfaction yet perform little to no post-editing, so satisfaction is not correlated with quality
 id: legal-professionals-overtrust-machine-translation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

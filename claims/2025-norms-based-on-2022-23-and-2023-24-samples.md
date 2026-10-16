@@ -3,7 +3,7 @@ type: claim
 title: The 2025 MAP Growth Norms are based on national test samples from 2022–23 and 2023–24, and dashboard results are not comparable to reports using 2020 norms
 description: The 2025 MAP Growth Norms are based on national test samples from 2022–23 and 2023–24, and dashboard results are not comparable to reports using 2020 norms
 id: 2025-norms-based-on-2022-23-and-2023-24-samples
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

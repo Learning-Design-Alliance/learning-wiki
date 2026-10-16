@@ -3,7 +3,7 @@ type: claim
 title: Five professionals approved the model as appropriate at a high level
 description: Five professionals approved the model as appropriate at a high level
 id: stem-ict-model-professional-approval-high
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

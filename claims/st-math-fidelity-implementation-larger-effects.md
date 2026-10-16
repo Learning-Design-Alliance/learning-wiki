@@ -3,7 +3,7 @@ type: claim
 title: Schools implementing ST Math with fidelity in at least one grade level showed larger math advantages (ES 0.31-0.35) than matched comparison clusters
 description: Schools implementing ST Math with fidelity in at least one grade level showed larger math advantages (ES 0.31-0.35) than matched comparison clusters
 id: st-math-fidelity-implementation-larger-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

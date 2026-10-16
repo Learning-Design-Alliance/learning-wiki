@@ -68,7 +68,7 @@ Structured lessons reduce extraneous cognitive load by making the organization o
 ## Examples
 - **Rosenshine's Principles of Instruction** — a research-derived lesson template (daily review, small-step presentation, guided practice, checks for understanding) widely used in UK and US school improvement programs ([Rosenshine, 2012](https://www.aft.org/sites/default/files/periodicals/Rosenshine.pdf)).
 - **[Gagné's 9 Events of Instruction](../patterns/gagnes-9-events-of-instruction.md)** — a nine-phase lesson template (gain attention → inform objectives → … → enhance retention and transfer) used as the structural backbone of many corporate and higher-education course designs.
-- **Success for All** — a whole-school cooperative learning program whose tightly scripted lesson structures produced consistent reading gains in randomized trials (https://www.successforall.org).
+- **[Success for All](../products/success-for-all.md)** — a whole-school cooperative learning program whose tightly scripted lesson structures produced consistent reading gains in randomized trials (https://www.successforall.org).
 
 ## Key Sources
 - Rosenshine, B. (2012). Principles of instruction: Research-based strategies that all teachers should know. *American Educator, 36*(1), 12–19. [https://www.aft.org/sites/default/files/periodicals/Rosenshine.pdf](https://www.aft.org/sites/default/files/periodicals/Rosenshine.pdf)

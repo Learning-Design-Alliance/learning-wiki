@@ -3,7 +3,7 @@ type: claim
 title: The report concludes more validity evidence is needed before using FFL scores to identify effective and ineffective school leaders
 description: The report concludes more validity evidence is needed before using FFL scores to identify effective and ineffective school leaders
 id: more-evidence-needed-ffl-validity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

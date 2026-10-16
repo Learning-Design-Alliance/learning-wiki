@@ -3,7 +3,7 @@ type: claim
 title: Constructive behaviors are defined by generating outputs containing new ideas that go beyond the information given
 description: Constructive behaviors are defined by generating outputs containing new ideas that go beyond the information given
 id: constructive-generates-beyond-information-given
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

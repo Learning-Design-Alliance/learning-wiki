@@ -4,7 +4,7 @@ id: specialty-schools-national-dashboard
 title: Specialty Schools National Dashboard
 description: An interactive NWEA data-visualization dashboard that reports MAP Growth achievement and growth patterns for U.S.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Educators reported that LVN-selected strategies supported student engagement, content knowledge, confidence, and collaboration
 description: Educators reported that LVN-selected strategies supported student engagement, content knowledge, confidence, and collaboration
 id: lvn-strategies-support-engagement-and-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

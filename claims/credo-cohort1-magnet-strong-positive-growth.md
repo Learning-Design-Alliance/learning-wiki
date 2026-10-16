@@ -3,7 +3,7 @@ type: claim
 title: "Magnet schools across the studied cities show strong positive impact on students' performance growth compared to state averages"
 description: "Magnet schools across the studied cities show strong positive impact on students' performance growth compared to state averages"
 id: credo-cohort1-magnet-strong-positive-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ title: Disparities in access to effective teaching between disadvantaged and non
 description: Disparities in access to effective teaching between disadvantaged and non-disadvantaged students varied widely across the 29 districts studied
 id: access-effective-teaching-varies-across-districts
 aliases: [district-variation-teaching-disparity]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Inquiry tasks in the Holt Earth Science curriculum rely mainly on inductive and abductive methods, with deductive reasoning used least
 description: Inquiry tasks in the Holt Earth Science curriculum rely mainly on inductive and abductive methods, with deductive reasoning used least
 id: holt-earth-science-induction-abduction-dominate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Watching Arthur improves English narrative skill development in kindergarten English language learners more than an alternative educational program (potentially positive effects)
 description: Watching Arthur improves English narrative skill development in kindergarten English language learners more than an alternative educational program (potentially positive effects)
 id: arthur-potentially-positive-narrative-skill-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

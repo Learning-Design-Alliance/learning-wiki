@@ -3,7 +3,7 @@ type: claim
 title: Students cannot reliably distinguish AI-generated slides from human-created slides
 description: Students cannot reliably distinguish AI-generated slides from human-created slides
 id: students-cannot-identify-ai-slides
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

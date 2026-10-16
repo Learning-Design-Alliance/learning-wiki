@@ -4,7 +4,7 @@ id: uchicago-consortiums-research-practice-partnership-model
 title: "UChicago Consortium's research-practice partnership model"
 description: A University of Chicago Consortium framework that treats research as public, relational, and adaptive infrastructure through long-term, place-based, reciprocal partnerships with education practitioners and communities.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

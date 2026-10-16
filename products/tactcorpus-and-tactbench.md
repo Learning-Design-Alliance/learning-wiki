@@ -4,7 +4,7 @@ id: tactcorpus-and-tactbench
 title: TACTCorpus and TACTBench
 description: "Dongjie Yang et al.'s released corpus, diagnostic benchmark, annotations, and model weights support reproducible research on pedagogically adaptive next-turn generation for one-to-one ESL tutoring."
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

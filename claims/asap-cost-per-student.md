@@ -3,7 +3,7 @@ type: claim
 title: ASAP costs about $14,029 per student over three years, with no direct program costs billed to students
 description: ASAP costs about $14,029 per student over three years, with no direct program costs billed to students
 id: asap-cost-per-student
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

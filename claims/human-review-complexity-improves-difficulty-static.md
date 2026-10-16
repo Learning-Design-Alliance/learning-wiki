@@ -3,7 +3,7 @@ type: claim
 title: Human annotators judge later-round CPIG items as improved in complexity but not in difficulty, with modest rater agreement
 description: Human annotators judge later-round CPIG items as improved in complexity but not in difficulty, with modest rater agreement
 id: human-review-complexity-improves-difficulty-static
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

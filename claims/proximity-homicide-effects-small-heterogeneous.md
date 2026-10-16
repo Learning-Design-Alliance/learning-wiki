@@ -3,7 +3,7 @@ type: claim
 title: Average effects of proximity to homicide are relatively small because they combine unaffected students with a subset facing much larger challenges
 description: Average effects of proximity to homicide are relatively small because they combine unaffected students with a subset facing much larger challenges
 id: proximity-homicide-effects-small-heterogeneous
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

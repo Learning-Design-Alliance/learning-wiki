@@ -301,6 +301,11 @@ def check_claims_missing_evidence(pages: dict[str, Path]) -> list[dict]:
         status_m = STATUS_RE.search(text)
         if status_m and status_m.group(1).strip() == "draft":
             continue
+        # A claim kept without a locator because principles, patterns or design pages lean on
+        # it says so in its `> **Evidence quality** ·` line (CLAUDE.md, the 2026-10-15 quality
+        # rule): the gap is stated on the page, not hidden, so it is not a lint failure.
+        if "\n> **Evidence quality** ·" in text:
+            continue
         evidence_section = ok.get_section(text, "Evidence")
         if evidence_section is not None:
             if not re.search(r"https?://|doi\.org|10\.\d{4}", evidence_section):

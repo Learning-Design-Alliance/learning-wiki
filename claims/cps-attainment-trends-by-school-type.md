@@ -3,7 +3,7 @@ type: claim
 title: "Graduation and enrollment trends vary by school type: non-charter non-selective schools caught up to charters on graduation, but charters and selective enrollment lead on college enrollment"
 description: "Graduation and enrollment trends vary by school type: non-charter non-selective schools caught up to charters on graduation, but charters and selective enrollment lead on college enrollment"
 id: cps-attainment-trends-by-school-type
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Teacher use of LA for DBDM makes DLS use more effective for learning, and teacher support increases student usage
 description: Teacher use of LA for DBDM makes DLS use more effective for learning, and teacher support increases student usage
 id: teacher-dbdm-use-increases-dls-effectiveness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

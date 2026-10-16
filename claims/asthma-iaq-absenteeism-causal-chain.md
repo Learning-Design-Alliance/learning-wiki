@@ -3,7 +3,7 @@ type: claim
 title: Asthma linked to poor indoor air quality is a causal chain from facilities to chronic absenteeism and lower achievement
 description: Asthma linked to poor indoor air quality is a causal chain from facilities to chronic absenteeism and lower achievement
 id: asthma-iaq-absenteeism-causal-chain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

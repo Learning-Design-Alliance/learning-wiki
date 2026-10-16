@@ -3,7 +3,7 @@ type: design
 id: modularized-pbl-ai-framework-biomedical
 title: Modularized PBL+AI framework for biomedical engineering education
 description: A four-module instructional architecture that embeds generative AI inside problem-based learning for biomedical AI courses.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

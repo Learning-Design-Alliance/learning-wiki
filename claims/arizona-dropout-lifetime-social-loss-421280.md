@@ -3,7 +3,7 @@ type: claim
 title: Each Arizona high school dropout imposes a lifetime social loss of $421,280, totaling $7.6 billion per annual cohort of 18,100 dropouts
 description: Each Arizona high school dropout imposes a lifetime social loss of $421,280, totaling $7.6 billion per annual cohort of 18,100 dropouts
 id: arizona-dropout-lifetime-social-loss-421280
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

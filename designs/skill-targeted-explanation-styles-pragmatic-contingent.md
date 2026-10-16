@@ -3,7 +3,7 @@ type: design
 id: skill-targeted-explanation-styles-pragmatic-contingent
 title: "Skill-targeted explanation styles: pragmatic versus contingent LLM error-message rewrites"
 description: The article defines two skill-targeted explanation styles for LLM rewrites of Python error messages, designed for different assessed proficiency levels.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

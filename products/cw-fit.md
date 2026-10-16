@@ -4,7 +4,7 @@ id: cw-fit
 title: CW-FIT
 description: CW-FIT is a class-wide classroom-management programme developed by its intervention research team for prekindergarten through grade 12 settings, combining behavioral skill lessons, team-based contingencies, praise, rewards, and targeted supports.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

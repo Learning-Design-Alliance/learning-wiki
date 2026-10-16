@@ -3,7 +3,7 @@ type: claim
 title: The ACE-HE measurement model of institutional support for ABC engagement also fits the data well
 description: The ACE-HE measurement model of institutional support for ABC engagement also fits the data well
 id: ace-he-institutional-support-model-good-fit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

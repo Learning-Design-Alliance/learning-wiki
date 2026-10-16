@@ -3,7 +3,7 @@ type: claim
 title: Model retraining on labeled OOD data provides the largest improvement in Bloom classification across models and datasets
 description: Model retraining on labeled OOD data provides the largest improvement in Bloom classification across models and datasets
 id: model-retraining-largest-ood-improvement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

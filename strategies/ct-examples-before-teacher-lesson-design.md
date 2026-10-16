@@ -3,7 +3,7 @@ type: strategy
 id: ct-examples-before-teacher-lesson-design
 title: Show teachers concrete examples of computational thinking in practice before asking them to design CT lessons
 description: "A district takeaway from the pathway work: \"Once teachers saw examples of CT in practice, the leadership team were exponentially more successful encouraging them to develop their own CT lessons, as well as recognizing..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

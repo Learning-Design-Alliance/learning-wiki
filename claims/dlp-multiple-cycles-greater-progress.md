@@ -3,7 +3,7 @@ type: claim
 title: Teachers coached for more than one cycle reported more powerful technology use and greater confidence, though a breadth-versus-depth tradeoff remains open
 description: Teachers coached for more than one cycle reported more powerful technology use and greater confidence, though a breadth-versus-depth tradeoff remains open
 id: dlp-multiple-cycles-greater-progress
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

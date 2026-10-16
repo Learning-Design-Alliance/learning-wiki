@@ -3,7 +3,7 @@ type: strategy
 id: automated-disengagement-detection-proctor-notification-strategy
 title: Use automated disengagement detection with proctor notification during remote low-stakes testing
 description: "During remote testing, build an engagement feature into the assessment that \"automatically paused the test event of a disengaged student and notified the test proctor.\" The study reports this feature \"had a consistent..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

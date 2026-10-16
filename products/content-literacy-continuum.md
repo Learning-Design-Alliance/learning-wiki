@@ -3,7 +3,7 @@ type: product
 id: content-literacy-continuum
 title: Content Literacy Continuum
 description: A schoolwide literacy framework developed by the University of Kansas Center for Research on Learning that organizes universal content-area instruction and targeted reading interventions into tiers.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Rural SIG schools reported additional challenges from remote locations and large catchment areas beyond those reported by nonrural SIG schools
 description: Rural SIG schools reported additional challenges from remote locations and large catchment areas beyond those reported by nonrural SIG schools
 id: rural-sig-schools-additional-location-challenges
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

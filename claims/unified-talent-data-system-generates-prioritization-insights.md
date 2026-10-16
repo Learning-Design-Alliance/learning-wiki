@@ -3,7 +3,7 @@ type: claim
 title: Disconnected educator data systems are a common implementation challenge; a unified talent data system can generate prioritization insights
 description: Disconnected educator data systems are a common implementation challenge; a unified talent data system can generate prioritization insights
 id: unified-talent-data-system-generates-prioritization-insights
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

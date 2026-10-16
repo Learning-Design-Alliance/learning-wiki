@@ -3,7 +3,7 @@ type: claim
 title: Originality outperformed Turnitin in overall accuracy and macro-average recall on a balanced EFL-relevant dataset, but both showed limited consistency across classes
 description: Originality outperformed Turnitin in overall accuracy and macro-average recall on a balanced EFL-relevant dataset, but both showed limited consistency across classes
 id: originality-outperforms-turnitin-accuracy-recall
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

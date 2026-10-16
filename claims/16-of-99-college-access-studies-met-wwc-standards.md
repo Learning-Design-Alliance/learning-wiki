@@ -3,7 +3,7 @@ type: claim
 title: Of 99 comparison-group studies of college access programs identified, 16 studies of 10 programs met WWC standards
 description: Of 99 comparison-group studies of college access programs identified, 16 studies of 10 programs met WWC standards
 id: 16-of-99-college-access-studies-met-wwc-standards
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

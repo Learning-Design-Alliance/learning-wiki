@@ -4,7 +4,7 @@ id: six-ngss-aligned-middle-school-student-drawing-assessment-dataset
 title: Six NGSS-aligned middle school student drawing assessment dataset
 description: A dataset of middle school students’ scientific drawings from six NGSS-aligned modeling assessment items, annotated by domain experts across three proficiency levels and released with example drawings.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10
@@ -29,4 +29,4 @@ A dataset of middle school students’ scientific drawings from six NGSS-aligned
 -
 
 ## Key Sources
-- Fang, L., Zhang, Y., Park, J., Wang, Z., Ma, P., Zhai, X. (2026). Confidence-Aware Automated Assessment of Student-Drawn Scientific Models. https://arxiv.org/abs/2606.20264
+- Fang, L., Zhang, Y., Park, J., Wang, Z., Ma, P., Zhai, X. (2026). Confidence-Aware Automated Assessment of Student-Drawn Scientific Models. https://arxiv.org/abs/2606.20264. [doi:10.48550/arxiv.2606.20264](https://doi.org/10.48550/arxiv.2606.20264)

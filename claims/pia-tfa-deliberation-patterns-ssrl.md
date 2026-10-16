@@ -3,7 +3,7 @@ type: claim
 title: "Two distinct group deliberation patterns emerge in response to regulation triggers: the Plan and Implementation Approach (PIA) and the Trials and Failure Approach (TFA)"
 description: "Two distinct group deliberation patterns emerge in response to regulation triggers: the Plan and Implementation Approach (PIA) and the Trials and Failure Approach (TFA)"
 id: pia-tfa-deliberation-patterns-ssrl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: retain-teachers-of-color-residencies-affinity-mentoring
 title: Invest in retention of teachers of color through residencies, affinity groups, and induction/mentoring
 description: "The brief warns that recruitment efforts \"are compromised when districts and schools have difficulty retaining teachers of color,\" and recommends investing in high-retention pathways, leadership growth, and early-care..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

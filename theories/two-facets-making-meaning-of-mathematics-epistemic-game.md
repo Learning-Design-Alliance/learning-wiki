@@ -2,7 +2,7 @@
 type: theory
 title: "Two facets of the 'Making Meaning of Mathematics' epistemic game: Finding a Family of Functions and Fitting the Physical Situation"
 description: "The authors describe two versions, or facets, of the large-scale epistemic game 'Mapping Meaning to Mathematics' in the context of solving separable first-order differential equations."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

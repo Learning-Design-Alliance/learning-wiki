@@ -3,7 +3,7 @@ type: claim
 title: "Teachers report AI tools enhance students' higher-order scientific skills including experimental design, inquiry, hypothesis testing, and argumentation"
 description: "Teachers report AI tools enhance students' higher-order scientific skills including experimental design, inquiry, hypothesis testing, and argumentation"
 id: ai-enhances-higher-order-scientific-skills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

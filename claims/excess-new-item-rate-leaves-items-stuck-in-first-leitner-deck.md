@@ -3,7 +3,7 @@ type: claim
 title: In a Mechanical Turk flashcard experiment, raising the new-item arrival rate first increases mastered items, but past the optimum fewer items are mastered and more get stuck in deck 1.
 description: In a Mechanical Turk flashcard experiment, raising the new-item arrival rate first increases mastered items, but past the optimum fewer items are mastered and more get stuck in deck 1.
 id: excess-new-item-rate-leaves-items-stuck-in-first-leitner-deck
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

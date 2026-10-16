@@ -3,7 +3,7 @@ type: strategy
 id: three-level-data-use-instructional-targeting
 title: Use achievement and contextual data at school, classroom, and student levels to target instruction
 description: "Turnaround schools considered data at three levels: \"at the school level to focus on areas that needed schoolwide improvement to meet adequate yearly progress, at the classroom level to focus on teachers' instructiona..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

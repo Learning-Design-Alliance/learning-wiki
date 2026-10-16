@@ -3,7 +3,7 @@ type: strategy
 id: future-work-user-studies-student-modeling-spaced-repetition
 title: "Future improvements: real-world user studies, advanced student modeling, and spaced repetition"
 description: "The authors recommend a forward-looking agenda for the platform: conduct real-world user studies to assess learning gains, user experience, and the practical utility of generated courses; improve personalization throu..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

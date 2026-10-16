@@ -3,7 +3,7 @@ type: claim
 title: Four high-poverty case study schools sustained rising achievement for all subgroups for 5 to 10 years while pursuing personalization
 description: Four high-poverty case study schools sustained rising achievement for all subgroups for 5 to 10 years while pursuing personalization
 id: four-equity-schools-rising-achievement-all-subgroups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

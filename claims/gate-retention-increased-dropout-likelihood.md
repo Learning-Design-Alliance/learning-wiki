@@ -3,7 +3,7 @@ type: claim
 title: Retention at the promotion gate increased the likelihood of dropping out by about 8 percentage points by age 17 and 13 points by age 19
 description: Retention at the promotion gate increased the likelihood of dropping out by about 8 percentage points by age 17 and 13 points by age 19
 id: gate-retention-increased-dropout-likelihood
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

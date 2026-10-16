@@ -3,7 +3,7 @@ type: claim
 title: "MBP-KT performance is optimal with sliding-window size N between 2 and 4 and is not sensitive to pattern-set length K (variation within 2%)"
 description: "MBP-KT performance is optimal with sliding-window size N between 2 and 4 and is not sensitive to pattern-set length K (variation within 2%)"
 id: mbp-kt-hyperparameter-sensitivity-n-k
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: The 2025 MAP Growth norms adopted a two-year, two-level piecewise mixed-effects design because two consecutive years of data are sufficient for within-year and adjacent-year growth norms
 description: The 2025 MAP Growth norms adopted a two-year, two-level piecewise mixed-effects design because two consecutive years of data are sufficient for within-year and adjacent-year growth norms
 id: two-year-piecewise-design-sufficient-for-map-growth-norms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

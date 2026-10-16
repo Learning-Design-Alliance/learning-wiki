@@ -3,7 +3,7 @@ type: claim
 title: "Originality is almost never invoked in builders' spoken acceptance verdicts, and defects as well as defaults exit the loop by acceptance without verification"
 description: "Originality is almost never invoked in builders' spoken acceptance verdicts, and defects as well as defaults exit the loop by acceptance without verification"
 id: shallow-acceptance-originality-rarely-invoked
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

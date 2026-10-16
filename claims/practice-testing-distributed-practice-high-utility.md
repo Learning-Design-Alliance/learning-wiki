@@ -3,7 +3,7 @@ type: claim
 title: Practice testing and distributed practice receive high utility assessments because their benefits generalize widely across learners, tasks, and educational contexts
 description: Practice testing and distributed practice receive high utility assessments because their benefits generalize widely across learners, tasks, and educational contexts
 id: practice-testing-distributed-practice-high-utility
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

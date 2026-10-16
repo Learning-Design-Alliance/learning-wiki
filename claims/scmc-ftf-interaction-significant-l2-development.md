@@ -3,7 +3,7 @@ type: claim
 title: Interaction in both SCMC and FTF contexts has a significant impact on L2 development (meta-analysis of 14 studies, 1990–2012)
 description: Interaction in both SCMC and FTF contexts has a significant impact on L2 development (meta-analysis of 14 studies, 1990–2012)
 id: scmc-ftf-interaction-significant-l2-development
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

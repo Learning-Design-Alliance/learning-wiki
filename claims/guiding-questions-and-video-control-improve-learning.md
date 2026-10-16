@@ -3,7 +3,7 @@ type: claim
 title: Guiding questions and student control over video movement improve learning outcomes and satisfaction
 description: Guiding questions and student control over video movement improve learning outcomes and satisfaction
 id: guiding-questions-and-video-control-improve-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

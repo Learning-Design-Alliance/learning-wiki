@@ -3,7 +3,7 @@ type: claim
 title: Time of day and days since the first scan are robust predictors of within-person variance in grey matter and total cortex volume
 description: Time of day and days since the first scan are robust predictors of within-person variance in grey matter and total cortex volume
 id: time-of-day-and-scan-interval-predict-within-person-brain-volume-variance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

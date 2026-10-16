@@ -2,7 +2,7 @@
 type: theory
 title: Reflective practice as a process for refining teaching craft through coached reflection on experience
 description: "Reflective practice, introduced by Schon in 1987, is a critical process for refining one's artistry or craft in a discipline."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

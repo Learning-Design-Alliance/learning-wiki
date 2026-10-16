@@ -3,7 +3,7 @@ type: claim
 title: Sensitivity analyses identify Supported secondary-hub formation as the strongest long-term driver of simulated ARC growth
 description: Sensitivity analyses identify Supported secondary-hub formation as the strongest long-term driver of simulated ARC growth
 id: arc-sensitivity-secondary-hub-formation-driver
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

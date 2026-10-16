@@ -3,7 +3,7 @@ type: claim
 title: Task repetition can be used as a form of integrative planning in language learning and teaching
 description: Task repetition can be used as a form of integrative planning in language learning and teaching
 id: task-repetition-integrative-planning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

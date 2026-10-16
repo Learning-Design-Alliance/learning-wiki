@@ -3,7 +3,7 @@ type: claim
 title: "The team's open-track submissions with added features surpassed all other shared task submissions on all three languages, with RMSE near 0.7"
 description: "The team's open-track submissions with added features surpassed all other shared task submissions on all three languages, with RMSE near 0.7"
 id: open-track-submissions-surpassed-all-others
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

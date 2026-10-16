@@ -3,7 +3,7 @@ type: claim
 title: Experts report there is neither a clear definition nor a widely accepted model of restorative justice in schools
 description: Experts report there is neither a clear definition nor a widely accepted model of restorative justice in schools
 id: no-clear-definition-or-accepted-model-of-school-rj
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -46,3 +46,4 @@ Qualitative interview study of 43 RJ experts and practitioners conducted between
 - Experts call for rigorous outcome-based research, readiness research, a clear RJ definition, and leader training research on RJ in schools — related
 - [Experts argue most school RJ implementation is weak and funding should first strengthen implementation before funding research](weak-implementation-before-research-funding.md) — related
 - [Many district and school data systems do not track restorative justice efforts or outcomes for students exposed to RJ processes](school-data-systems-do-not-track-rj.md) — related
+- [The article argues that existing definitions of formative assessment lack a clear rationale delimiting the construct within broader theories of pedagogy.](formative-assessment-lacks-pedagogical-rationale.md) — related

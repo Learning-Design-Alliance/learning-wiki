@@ -3,7 +3,7 @@ type: claim
 title: Adolescent substance use is associated with low academic outcomes, delinquency, and risky sexual behaviors, per cited prior work
 description: Adolescent substance use is associated with low academic outcomes, delinquency, and risky sexual behaviors, per cited prior work
 id: adolescent-substance-use-negative-consequences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

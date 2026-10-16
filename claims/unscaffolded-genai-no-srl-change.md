@@ -3,7 +3,7 @@ type: claim
 title: "Unscaffolded GenAI access did not significantly change pre-service teachers' self-regulated learning relative to traditional learning"
 description: "Unscaffolded GenAI access did not significantly change pre-service teachers' self-regulated learning relative to traditional learning"
 id: unscaffolded-genai-no-srl-change
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

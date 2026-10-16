@@ -3,7 +3,7 @@ type: element
 id: rel-ma-alternative-growth-measures-literature-review
 title: REL Mid-Atlantic literature review on alternative student growth measures for teacher evaluation
 description: "A literature review produced by Regional Educational Laboratory Mid-Atlantic that \"summarizes the evidence on measures of student achievement growth used in teacher evaluation that do not rely on traditional annual st..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

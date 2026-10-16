@@ -4,7 +4,7 @@ id: amsti
 title: AMSTI
 description: The Alabama Math, Science, and Technology Initiative is a state-run programme that combines summer teacher training, school-year coaching, and rotating instructional materials kits to support hands-on, inquiry-based mathematics and science instruction.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

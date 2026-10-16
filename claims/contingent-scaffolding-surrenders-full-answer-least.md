@@ -3,7 +3,7 @@ type: claim
 title: A contingent tutor surrendered the full answer in one session in sixteen, against one in six for the question-only tutor
 description: A contingent tutor surrendered the full answer in one session in sixteen, against one in six for the question-only tutor
 id: contingent-scaffolding-surrenders-full-answer-least
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

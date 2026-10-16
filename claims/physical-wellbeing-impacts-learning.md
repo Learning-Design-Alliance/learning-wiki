@@ -3,7 +3,7 @@ type: claim
 title: Physical well-being — exercise, sleep, and nutrition — impacts learning
 description: Physical well-being — exercise, sleep, and nutrition — impacts learning
 id: physical-wellbeing-impacts-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: research-method
 id: explainable-by-design-framework-coupling-dual-lens-hierarchical-attention-trust-gated-infe
 title: Explainable-by-design framework coupling dual-lens hierarchical attention, trust-gated inference, and on-the-spot explanation generation
 description: The framework is an LLM-based teacher assessment architecture in which trustworthiness and explainability are built into inference rather than appended afterward.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

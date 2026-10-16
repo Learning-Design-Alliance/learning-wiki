@@ -3,7 +3,7 @@ type: claim
 title: GenAI chemistry outputs can be fluent and locally persuasive while chemically invalid across representations
 description: GenAI chemistry outputs can be fluent and locally persuasive while chemically invalid across representations
 id: genai-fluent-but-chemically-invalid-outputs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

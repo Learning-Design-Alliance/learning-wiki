@@ -3,7 +3,7 @@ type: claim
 title: Readers given a perspective or schema recall more text information than readers instructed to carefully read the story
 description: Readers given a perspective or schema recall more text information than readers instructed to carefully read the story
 id: schema-perspective-improves-text-recall
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -2,7 +2,7 @@
 type: theory
 title: "Mann's six teaching styles taxonomy for higher education"
 description: "The paper adopts Richard Mann's (1975) scheme defining six teaching styles: expert, formal authority, socializing agent, facilitator, ego ideal, and person."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

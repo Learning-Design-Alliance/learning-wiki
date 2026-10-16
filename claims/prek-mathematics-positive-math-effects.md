@@ -3,7 +3,7 @@ type: claim
 title: "Pre-K Mathematics with DLM Early Childhood Express Math produces statistically significant positive effects on preschool children's math outcomes"
 description: "Pre-K Mathematics with DLM Early Childhood Express Math produces statistically significant positive effects on preschool children's math outcomes"
 id: prek-mathematics-positive-math-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

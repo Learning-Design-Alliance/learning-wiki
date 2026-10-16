@@ -4,7 +4,7 @@ id: energizers
 title: Energizers
 description: Energizers is a classroom-based physical-activity programme developed for elementary students and implemented during the school day to increase activity and support on-task behaviour.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-15

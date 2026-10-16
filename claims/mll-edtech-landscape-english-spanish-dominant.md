@@ -3,7 +3,7 @@ type: claim
 title: Existing MLL-focused edtech overwhelmingly offers English and Spanish, with a third offering only those two languages
 description: Existing MLL-focused edtech overwhelmingly offers English and Spanish, with a third offering only those two languages
 id: mll-edtech-landscape-english-spanish-dominant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

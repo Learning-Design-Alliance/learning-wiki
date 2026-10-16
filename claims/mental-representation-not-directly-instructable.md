@@ -3,7 +3,7 @@ type: claim
 title: Mental representation is not amenable to direct explicit instruction because UG and parsers operate only on input data
 description: Mental representation is not amenable to direct explicit instruction because UG and parsers operate only on input data
 id: mental-representation-not-directly-instructable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

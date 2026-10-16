@@ -3,7 +3,7 @@ type: strategy
 id: pd-cases-ai-correcting-mediating
 title: Use AI-correcting and AI-mediating episodes as cases in teacher professional development for AI-based mathematics teaching
 description: The authors propose that the documented orchestration episodes serve as concrete material for teacher education.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

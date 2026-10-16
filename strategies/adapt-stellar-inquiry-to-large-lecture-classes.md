@@ -3,7 +3,7 @@ type: strategy
 id: adapt-stellar-inquiry-to-large-lecture-classes
 title: Adapt the paper-based stellar populations inquiry to large Astronomy 101 classes and test learning with and without the inquiry
 description: Because all materials are printed on paper, the authors propose scaling the inquiry up and evaluating it.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -48,4 +48,4 @@ Because all materials are printed on paper, the authors propose scaling the inqu
 -
 
 ## Key Sources
-- Rafelski, M., Foley, M., Graves, G. J., Kretke, K. A., Mills, E., Nassir, M., & Patel, S. (2010). Teaching Astronomy with an Inquiry Activity on Stellar Populations. ASP Conference Series. https://arxiv.org/abs/1009.5404
+- Rafelski, M., Foley, M., Graves, G. J., Kretke, K. A., Mills, E., Nassir, M., & Patel, S. (2010). Teaching Astronomy with an Inquiry Activity on Stellar Populations. ASP Conference Series. https://arxiv.org/abs/1009.5404. [doi:10.48550/arxiv.1009.5404](https://doi.org/10.48550/arxiv.1009.5404)

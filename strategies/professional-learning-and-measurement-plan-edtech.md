@@ -3,7 +3,7 @@ type: strategy
 id: professional-learning-and-measurement-plan-edtech
 title: "Design & Plan: build a professional learning and measurement plan to monitor implementation fidelity and evaluate impact"
 description: "Step 3 directs leaders to \"Collaborate with your educators and school leaders to build a professional learning and measurement plan to monitor implementation fidelity and to evaluate impact for your targeted teaching..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

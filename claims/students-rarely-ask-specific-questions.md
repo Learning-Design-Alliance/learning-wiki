@@ -3,7 +3,7 @@ type: claim
 title: Students rarely formulated questions specifying both knowledge component and scaffold type during chatbot problem-solving
 description: Students rarely formulated questions specifying both knowledge component and scaffold type during chatbot problem-solving
 id: students-rarely-ask-specific-questions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

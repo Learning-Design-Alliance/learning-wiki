@@ -3,7 +3,7 @@ type: claim
 title: Eight enabling factors support relationship-centered school transformation in comprehensive high school settings
 description: Eight enabling factors support relationship-centered school transformation in comprehensive high school settings
 id: enabling-factors-relationship-centered-transformation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

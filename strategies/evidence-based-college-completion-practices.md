@@ -3,7 +3,7 @@ type: strategy
 id: evidence-based-college-completion-practices
 title: Colleges can adopt evidence-based support practices—wrap-around advising, proactive advising, non-tuition financial support, co-requisite courses, early alert systems, and disaggregated data—to improve completion
 description: "The report's Implications section lists evidence-based approaches colleges are already using that other colleges can learn from, including \"Providing a point person for students, particularly first-generation college..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

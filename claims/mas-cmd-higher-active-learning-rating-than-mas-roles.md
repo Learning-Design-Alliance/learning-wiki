@@ -3,7 +3,7 @@ type: claim
 title: MAS-CMD was rated significantly higher than MAS-Roles on QM criterion 5.2C active learning by 20 expert teachers, with a large effect size
 description: MAS-CMD was rated significantly higher than MAS-Roles on QM criterion 5.2C active learning by 20 expert teachers, with a large effect size
 id: mas-cmd-higher-active-learning-rating-than-mas-roles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

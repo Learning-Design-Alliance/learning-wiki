@@ -3,7 +3,7 @@ type: claim
 title: GenAI feedback quality correlates with initial essay quality while teacher feedback quality does not
 description: GenAI feedback quality correlates with initial essay quality while teacher feedback quality does not
 id: genai-feedback-quality-tracks-initial-essay-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

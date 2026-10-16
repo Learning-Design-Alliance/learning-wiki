@@ -3,7 +3,7 @@ type: strategy
 id: fit-a-fix-one-parameter-alternative-to-dirichlet-priors
 title: Fit the combined parameter A and fix P(G) or P(L0) externally as an alternative to Dirichlet priors when fitting the BKT HMM
 description: Because the HMM form of BKT is a three-parameter exponential, the article recommends fitting only the combination A and then recovering the fourth parameter algebraically.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: strategy
 id: complement-ai-tutoring-with-human-instruction
 title: Complement AI tutoring with group recitations or instructor guidance rather than treating it as a replacement for human instruction
 description: The authors recommend that AI Socratic tutoring be embedded alongside human instructional structures.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

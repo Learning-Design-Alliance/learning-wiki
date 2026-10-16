@@ -3,7 +3,7 @@ type: claim
 title: Expert scenarios envision AI saturation as augmenting rather than displacing human pedagogical work (the more-human paradox)
 description: Expert scenarios envision AI saturation as augmenting rather than displacing human pedagogical work (the more-human paradox)
 id: more-human-paradox-ai-augments-pedagogical-work
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

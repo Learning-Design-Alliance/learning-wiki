@@ -3,7 +3,7 @@ type: strategy
 id: student-ai-inquiry-design-projects-ethics
 title: Students learn AI ethics through inquiry or design projects examining societal impact and bias
 description: "The article recommends that 'Students should likewise engage in ethical reflection through AI inquiry or design projects, critically examining societal impact, justice, privacy, and bias, supported by evidence-based a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

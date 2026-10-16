@@ -3,7 +3,7 @@ type: claim
 title: "KIPP Pre-K combined with KIPP early elementary school may also have a positive impact on students' executive function"
 description: "KIPP Pre-K combined with KIPP early elementary school may also have a positive impact on students' executive function"
 id: kipp-prek-possible-executive-function-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

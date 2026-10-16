@@ -3,7 +3,7 @@ type: claim
 title: Only 18 percent of schools strongly agree teachers are sufficiently trained to use technology for instruction
 description: Only 18 percent of schools strongly agree teachers are sufficiently trained to use technology for instruction
 id: schools-teacher-technology-training-insufficient
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

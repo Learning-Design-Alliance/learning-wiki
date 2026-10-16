@@ -3,7 +3,7 @@ type: strategy
 id: select-games-participation-proficiency-complementary
 title: Select games that maximize participation and match proficiency, and use games as complementary activities
 description: "The article recommends that teachers \"choose games that allow as many students as possible to participate and are appropriate to students' level of proficiency,\" and, where coursebook pressure limits game time, use ga..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

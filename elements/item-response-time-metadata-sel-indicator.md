@@ -3,7 +3,7 @@ type: element
 id: item-response-time-metadata-sel-indicator
 title: Item response time metadata from math assessments as an indicator of social-emotional learning
 description: "This element is the test metadata source the article examines: the length of time students spend answering math test questions, treated as information that might bear on social-emotional learning."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

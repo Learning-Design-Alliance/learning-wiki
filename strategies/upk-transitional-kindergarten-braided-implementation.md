@@ -3,7 +3,7 @@ type: strategy
 id: upk-transitional-kindergarten-braided-implementation
 title: Expand transitional kindergarten and preschool by braiding UPK funds with hiring, culturally responsive curriculum, and community college partnerships
 description: Universal Prekindergarten Planning and Implementation funds address implementing transitional kindergarten (TK) and preschool.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

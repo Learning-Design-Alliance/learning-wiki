@@ -3,7 +3,7 @@ type: strategy
 id: interest-based-grouping-in-science
 title: Form Interest Groups and Strengths-Based Groups in Science
 description: "Interest groups can work well in science teaching 'if learners perceive value in participating in a given activity', wish to use individual talents, and persevere in making a success of collaborative endeavors."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

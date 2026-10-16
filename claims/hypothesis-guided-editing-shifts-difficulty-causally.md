@@ -3,7 +3,7 @@ type: claim
 title: Editing questions according to a hypothesis shifts measured difficulty in the expected direction
 description: Editing questions according to a hypothesis shifts measured difficulty in the expected direction
 id: hypothesis-guided-editing-shifts-difficulty-causally
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

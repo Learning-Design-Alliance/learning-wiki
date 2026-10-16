@@ -3,7 +3,7 @@ type: design
 id: ai-andragogy-design-principles-hitl-emotional-adaptability
 title: "Three learner-derived design principles for AI systems supporting andragogy: human-in-the-loop, emotional design, and adaptability"
 description: "The study distills adult learners' interview perspectives into three design-principle themes with six sub-themes: human-in-the-loop (building shared mental models between humans and AI; enabling human-AI co-creation),..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

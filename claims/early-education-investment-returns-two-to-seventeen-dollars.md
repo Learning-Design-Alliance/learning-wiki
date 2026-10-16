@@ -3,7 +3,7 @@ type: claim
 title: Early education investments generate $2 to $17 in returns for every dollar invested, with greater returns as children are followed further in life
 description: Early education investments generate $2 to $17 in returns for every dollar invested, with greater returns as children are followed further in life
 id: early-education-investment-returns-two-to-seventeen-dollars
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

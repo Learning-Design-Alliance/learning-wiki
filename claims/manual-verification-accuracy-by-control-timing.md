@@ -3,7 +3,7 @@ type: claim
 title: "Manually verified numerical accuracy of generated visuals is lowest under pre-generation control (12.2%), intermediate under mid-generation control (59.83%), and highest under post-generation control (97.85%)"
 description: "Manually verified numerical accuracy of generated visuals is lowest under pre-generation control (12.2%), intermediate under mid-generation control (59.83%), and highest under post-generation control (97.85%)"
 id: manual-verification-accuracy-by-control-timing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

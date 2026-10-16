@@ -3,7 +3,7 @@ type: claim
 title: Chatbot design carries a documented female-by-default gender bias
 description: Chatbot design carries a documented female-by-default gender bias
 id: chatbot-female-default-gender-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

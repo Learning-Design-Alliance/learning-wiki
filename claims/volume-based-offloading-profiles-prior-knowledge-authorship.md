@@ -3,7 +3,7 @@ type: claim
 title: Volume-based offloading profiles differentiate learners primarily by prior knowledge, and offloading volume is negatively associated with essay authorship
 description: Volume-based offloading profiles differentiate learners primarily by prior knowledge, and offloading volume is negatively associated with essay authorship
 id: volume-based-offloading-profiles-prior-knowledge-authorship
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -18,8 +18,8 @@ sources:
     kind: associational
     rigour: 1
   - id: poquet-2026-2
-    resource: "https://arxiv.org/abs/2606.10434"
-    title: "Poquet, O., Nanduri, M. S., Salinas Loyer, M. X., Stadler, M., Sailer, M., Jovanovic, J. (2026). Profiling Cognitive Offloading in LLM-mediated Synthesis Writing: Volume vs. Content. https://arxiv.org/abs/2606.10434"
+    resource: "https://doi.org/10.48550/arxiv.2606.10434"
+    title: "Poquet, O., Nanduri, M. S., Salinas Loyer, M. X., Stadler, M., Sailer, M., Jovanovic, J. (2026). Profiling Cognitive Offloading in LLM-mediated Synthesis Writing: Volume vs. Content. https://arxiv.org/abs/2606.10434. [doi:10.48550/arxiv.2606.10434](https://doi.org/10.48550/arxiv.2606.10434)"
     author: Poquet, O., Nanduri, M. S., Salinas Loyer, M. X., Stadler, M., Sailer, M., Jovanovic, J.
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Volume-based offloading profiles differentiate learners primarily by prior knowledge, and offloading volume is negatively associated with essay authorship
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In a lab study with 97 university students, k-means volume-based profiles (k=4) significantly differed in prior knowledge and volume of LLM use, and higher offloading volume coincided with lower student essay authorship. [→ Poquet 2026](#poquet-2026)
@@ -49,7 +49,7 @@ Exploratory k-means clustering of 97 university students' prompt counts plus pri
 
 ### Poquet 2026 (2)
 
-Poquet, O., Nanduri, M. S., Salinas Loyer, M. X., Stadler, M., Sailer, M., Jovanovic, J. (2026). Profiling Cognitive Offloading in LLM-mediated Synthesis Writing: Volume vs. Content. https://arxiv.org/abs/2606.10434
+Poquet, O., Nanduri, M. S., Salinas Loyer, M. X., Stadler, M., Sailer, M., Jovanovic, J. (2026). Profiling Cognitive Offloading in LLM-mediated Synthesis Writing: Volume vs. Content. https://arxiv.org/abs/2606.10434. [doi:10.48550/arxiv.2606.10434](https://doi.org/10.48550/arxiv.2606.10434)
 
 `q2 · i?` · `associational · r1`
 

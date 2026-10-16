@@ -3,7 +3,7 @@ type: strategy
 id: teach-students-self-monitor-reflect-behavior
 title: Teach students to monitor and reflect on their own behavior
 description: Recommendation 6 teaches students to self-monitor and reflect on their own behavior using recording sheets and procedural checklists.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

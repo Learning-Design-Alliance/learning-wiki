@@ -3,7 +3,7 @@ type: claim
 title: Both the GenAI-permitted and control groups improved significantly in instructional design performance and AI readiness over the course, but not in SRL or critical thinking
 description: Both the GenAI-permitted and control groups improved significantly in instructional design performance and AI readiness over the course, but not in SRL or critical thinking
 id: within-group-gains-design-and-ai-readiness-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Most language-learning apps focus on cognitive processes and receptive skills, lacking sociocognitive and collaborative activities
 description: Most language-learning apps focus on cognitive processes and receptive skills, lacking sociocognitive and collaborative activities
 id: apps-focus-cognitive-receptive-skills-lack-collaboration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

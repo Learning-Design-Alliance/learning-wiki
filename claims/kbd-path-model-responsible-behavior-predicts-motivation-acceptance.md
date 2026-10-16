@@ -3,7 +3,7 @@ type: claim
 title: An exploratory path model suggests perceived responsible behavior mediates the association between KBD and both learner motivation and acceptance
 description: An exploratory path model suggests perceived responsible behavior mediates the association between KBD and both learner motivation and acceptance
 id: kbd-path-model-responsible-behavior-predicts-motivation-acceptance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

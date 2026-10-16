@@ -3,7 +3,7 @@ type: element
 id: empirical-example-multi-armed-education-rct
 title: Empirical example using data from a multi-armed education RCT
 description: The article includes an empirical demonstration applying its design-based estimators to real data from a multi-armed education randomized controlled trial.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

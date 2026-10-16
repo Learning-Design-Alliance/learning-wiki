@@ -3,7 +3,7 @@ type: strategy
 id: chunked-animations-with-pauses
 title: Present animations as distinct logical chunks separated by short pauses
 description: The article recommends that, because learners rarely take advantage of self-paced flow control in animations, designers should pre-structure the material instead.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

@@ -86,7 +86,7 @@ Self assessment works when learners have accurate standards to judge against; ru
 - [Require a rubric-aligned self-evaluation before students receive GenAI critique](self-evaluation-before-genai-critique.md)
 
 ## Examples
-- **Calibrated Peer Review (CPR)** (https://cpr.molsci.org) — discipline-agnostic system where students score exemplars for accuracy before evaluating their own and peers' work against a rubric.
+- **[Calibrated Peer Review](calibrated_peer_review.md) (CPR)** (https://cpr.molsci.org) — discipline-agnostic system where students score exemplars for accuracy before evaluating their own and peers' work against a rubric.
 - **Writing portfolios in the National Writing Project model** — students assess drafts against shared criteria and write reflective cover letters justifying their ratings before teacher evaluation.
 - **AP Studio Art portfolio scoring** — students self-evaluate their portfolios against the published College Board rubric before submission, using the same descriptors the readers will apply.
 - **Writing workshops using a 6+1 Trait rubric** — students score their own drafts on organization and voice before teacher conferencing, then revise the weakest trait.

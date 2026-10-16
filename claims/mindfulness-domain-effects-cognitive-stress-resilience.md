@@ -3,7 +3,7 @@ type: claim
 title: Mindfulness interventions in schools show the largest between-group effects for cognitive performance (g = 0.80) and smaller significant effects for stress (g = 0.39) and resilience (g = 0.36)
 description: Mindfulness interventions in schools show the largest between-group effects for cognitive performance (g = 0.80) and smaller significant effects for stress (g = 0.39) and resilience (g = 0.36)
 id: mindfulness-domain-effects-cognitive-stress-resilience
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

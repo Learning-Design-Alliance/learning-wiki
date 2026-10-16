@@ -3,7 +3,7 @@ type: claim
 title: Teacher concern development is better characterized as progression and retreat than linear stage movement
 description: Teacher concern development is better characterized as progression and retreat than linear stage movement
 id: teacher-concern-progression-and-retreat
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

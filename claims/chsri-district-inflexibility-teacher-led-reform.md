@@ -3,7 +3,7 @@ type: claim
 title: Teachers and principals report district inflexibility and insufficient support for teacher-led, shared-decision-making leadership in small-school reform
 description: Teachers and principals report district inflexibility and insufficient support for teacher-led, shared-decision-making leadership in small-school reform
 id: chsri-district-inflexibility-teacher-led-reform
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

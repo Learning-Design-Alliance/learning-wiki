@@ -3,7 +3,7 @@ type: claim
 title: "Centralized enrollment systems with a universal application, combined with community partnerships, build families' awareness of preschool programs"
 description: "Centralized enrollment systems with a universal application, combined with community partnerships, build families' awareness of preschool programs"
 id: centralized-enrollment-builds-family-awareness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

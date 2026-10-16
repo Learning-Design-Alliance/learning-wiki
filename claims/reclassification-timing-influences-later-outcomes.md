@@ -3,7 +3,7 @@ type: claim
 title: Timing of English learner reclassification influences later outcomes such as high school graduation
 description: Timing of English learner reclassification influences later outcomes such as high school graduation
 id: reclassification-timing-influences-later-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

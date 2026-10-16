@@ -3,7 +3,7 @@ type: claim
 title: Aspirational capital and kinship sustained the Tough As Nails CT initiative through the COVID-19 pandemic
 description: Aspirational capital and kinship sustained the Tough As Nails CT initiative through the COVID-19 pandemic
 id: appalachian-cultural-wealth-sustained-ct-project-covid
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

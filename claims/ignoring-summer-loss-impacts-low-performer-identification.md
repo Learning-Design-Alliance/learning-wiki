@@ -3,7 +3,7 @@ type: claim
 title: Ignoring summer loss can impact which schools are identified as low performers under federal accountability
 description: Ignoring summer loss can impact which schools are identified as low performers under federal accountability
 id: ignoring-summer-loss-impacts-low-performer-identification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

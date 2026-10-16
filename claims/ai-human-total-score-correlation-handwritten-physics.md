@@ -3,7 +3,7 @@ type: claim
 title: AI total scores correlate strongly with official human scores on handwritten physics assessments (r = 0.91–0.97 in Round I; 0.93–0.96 in Round II)
 description: AI total scores correlate strongly with official human scores on handwritten physics assessments (r = 0.91–0.97 in Round I; 0.93–0.96 in Round II)
 id: ai-human-total-score-correlation-handwritten-physics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

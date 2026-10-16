@@ -3,7 +3,7 @@ type: claim
 title: Teachers of AI/AN students use collaborative response formats such as white boards and choral response rather than direct individual questioning, as culturally appropriate alternatives
 description: Teachers of AI/AN students use collaborative response formats such as white boards and choral response rather than direct individual questioning, as culturally appropriate alternatives
 id: collaborative-response-formats-ai-an-classrooms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

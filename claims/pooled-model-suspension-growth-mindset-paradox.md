@@ -3,7 +3,7 @@ type: claim
 title: "In a pooled multivariate model, the combined self-efficacy/self-management growth predicts about 80% lower odds of suspension, while the growth mindset intercept unexpectedly increases suspension odds"
 description: "In a pooled multivariate model, the combined self-efficacy/self-management growth predicts about 80% lower odds of suspension, while the growth mindset intercept unexpectedly increases suspension odds"
 id: pooled-model-suspension-growth-mindset-paradox
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

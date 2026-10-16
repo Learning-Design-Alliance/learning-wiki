@@ -3,7 +3,7 @@ type: claim
 title: DKT-Sem, a DKT variant using semantic text embeddings, performs better than existing KT methods on tutoring dialogues, with a smaller margin on the larger MathDial dataset.
 description: DKT-Sem, a DKT variant using semantic text embeddings, performs better than existing KT methods on tutoring dialogues, with a smaller margin on the larger MathDial dataset.
 id: dkt-sem-outperforms-existing-kt-methods-most-with-little-training-data
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

@@ -3,7 +3,7 @@ type: claim
 title: Story-content coherence is the weakest perceived-quality dimension of AI-generated educational interactive fiction in this pilot
 description: Story-content coherence is the weakest perceived-quality dimension of AI-generated educational interactive fiction in this pilot
 id: ai-generated-if-coherence-weakest-dimension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Schools positively impacting one promotion power measure are more likely to positively impact other long-term outcomes, but many show varying effectiveness across outcomes
 description: Schools positively impacting one promotion power measure are more likely to positively impact other long-term outcomes, but many show varying effectiveness across outcomes
 id: promotion-power-correlates-across-outcomes-with-variation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

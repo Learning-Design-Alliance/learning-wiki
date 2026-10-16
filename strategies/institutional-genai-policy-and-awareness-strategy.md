@@ -3,7 +3,7 @@ type: strategy
 id: institutional-genai-policy-and-awareness-strategy
 title: Develop clear institutional GenAI policies, communicate them, raise awareness, and promote digital literacy
 description: The article recommends that institutions respond to student confusion about GenAI by developing clear institutional policies, communicating and adhering to them, creating awareness, and promoting digital literacy.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -50,6 +50,7 @@ The article recommends that institutions respond to student confusion about GenA
 - [Institutions should respond to GenAI with clear governance frameworks and structured professional training programs for staff.](genai-governance-frameworks-and-professional-training.md)
 - [Build ethical AI integration on four coordinated levels: faculty professional development, ethics curricula, clear institutional guidelines, and interdisciplinary updating](four-level-ethical-ai-integration-strategy.md)
 - [Institutional integrity programs combining ethical AI-use guidelines, clear definitions of dishonesty, and risk-awareness education](integrity-programs-ethical-ai-use-guidelines.md)
+- [Implement preventative measures: student awareness programs and regular professional development training for educators](chatbot-preventative-measures-strategy.md)
 
 ## Examples
 -

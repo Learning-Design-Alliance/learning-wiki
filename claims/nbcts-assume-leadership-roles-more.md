@@ -3,7 +3,7 @@ type: claim
 title: "NBCTs report holding school leadership positions at higher rates than other teachers (50% vs 32%)"
 description: "NBCTs report holding school leadership positions at higher rates than other teachers (50% vs 32%)"
 id: nbcts-assume-leadership-roles-more
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

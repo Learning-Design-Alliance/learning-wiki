@@ -3,7 +3,7 @@ type: strategy
 id: learning-continuum-difficulty-guided-instructional-decisions
 title: Use the Learning Continuum to locate skills by difficulty and guide formative assessment and scaffolding decisions
 description: The Learning Continuum is a MAP Growth tool that organizes the skills and concepts in the item pool by difficulty along the RIT scale so educators can plan instruction.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

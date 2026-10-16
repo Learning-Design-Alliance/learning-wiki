@@ -2,7 +2,7 @@
 type: theory
 title: Inverse proportional relationships as quantities scaling in anti-tandem, y = r/x
 description: "The paper extends the framework to inverse variation: 'Two measurable quantities in a scenario are said to be in an inverse proportional relationship if changing the measure of one quantity by a factor k causes the me..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

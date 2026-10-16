@@ -3,7 +3,7 @@ type: design
 id: tribal-data-collection-governance-webinar-series
 title: Two-part Tribal Data Collection and Governance webinar series
 description: "A two-part webinar series developed with the R13CC, WEEAC, NIEA, and the University of New Mexico's College of Population Health Center for Participatory Research."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

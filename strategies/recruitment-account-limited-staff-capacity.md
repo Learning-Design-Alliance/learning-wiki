@@ -3,7 +3,7 @@ type: strategy
 id: recruitment-account-limited-staff-capacity
 title: Account for limited staff capacity when recruiting districts and schools for research
 description: "This strategy holds that recruitment approaches must accommodate districts' and schools' limited staff capacity."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

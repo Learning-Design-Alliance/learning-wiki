@@ -3,7 +3,7 @@ type: claim
 title: Item and test information functions and marginal reliability were reported by fewer than half of the reviewed studies
 description: Item and test information functions and marginal reliability were reported by fewer than half of the reviewed studies
 id: information-functions-underreported-irt-studies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

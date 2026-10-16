@@ -2,7 +2,7 @@
 type: theory
 title: Dialectical thinking as the system for improving quality of thought
 description: "The article defines dialectical thinking as \"a way of thinking characterized by a reciprocal interaction of information, precepts, and ideas struggling to be reconciled into clear patterns of thought\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

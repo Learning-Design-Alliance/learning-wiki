@@ -3,7 +3,7 @@ type: element
 id: ccsr-steering-committee-stakeholder-structure
 title: CCSR steering committee as multi-partisan stakeholder advisory structure
 description: The CCSR steering committee is a deliberately multi-partisan advisory body of 23 members representing institutional members (CPS, the Illinois State Board of Education, the Chicago Principals and Administrators Associ...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

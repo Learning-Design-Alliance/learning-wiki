@@ -3,7 +3,7 @@ type: claim
 title: Interviews identify IEI implementation gaps — curriculum-industry misalignment, limited project diversity, and weak enterprise engagement — as boundary conditions on the psychological pathways
 description: Interviews identify IEI implementation gaps — curriculum-industry misalignment, limited project diversity, and weak enterprise engagement — as boundary conditions on the psychological pathways
 id: iei-implementation-gaps-boundary-conditions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

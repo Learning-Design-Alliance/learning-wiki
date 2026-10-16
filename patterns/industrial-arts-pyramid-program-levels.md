@@ -3,7 +3,7 @@ type: pattern
 id: industrial-arts-pyramid-program-levels
 title: Industrial arts pyramid program across operational levels
 description: The guide recommends a pyramid program structure (Figure 4) in which elementary level activities introduce industrial technology in the world of work with emphasis on self-concepts, insights, and awareness; junior hig...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

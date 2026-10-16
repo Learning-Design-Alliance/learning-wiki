@@ -3,7 +3,7 @@ type: claim
 title: Eradicating hermeneutical injustice requires sufficient social equality in general, not only slight interpersonal hermeneutical empowerments
 description: Eradicating hermeneutical injustice requires sufficient social equality in general, not only slight interpersonal hermeneutical empowerments
 id: eradicating-hermeneutical-injustice-requires-social-equality
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

@@ -3,7 +3,7 @@ type: claim
 title: The study examines differences between State Apprenticeship Agency states and DOL Office of Apprenticeship states in registration of apprenticeship and pre-apprenticeship programs
 description: The study examines differences between State Apprenticeship Agency states and DOL Office of Apprenticeship states in registration of apprenticeship and pre-apprenticeship programs
 id: saa-oa-registration-differences-examined
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

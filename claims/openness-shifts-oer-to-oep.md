@@ -3,7 +3,7 @@ type: claim
 title: Openness in education shifts the focus from content (OER) to practices (OEP)
 description: Openness in education shifts the focus from content (OER) to practices (OEP)
 id: openness-shifts-oer-to-oep
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

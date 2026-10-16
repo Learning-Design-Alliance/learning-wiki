@@ -3,7 +3,7 @@ type: claim
 title: "While producing L2 paragraphs, an EFL learner's self-noticed problems were overwhelmingly lexical (about 79%) rather than grammatical (about 21%)"
 description: "While producing L2 paragraphs, an EFL learner's self-noticed problems were overwhelmingly lexical (about 79%) rather than grammatical (about 21%)"
 id: output-noticing-predominantly-lexical
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

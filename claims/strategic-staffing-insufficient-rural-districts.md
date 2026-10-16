@@ -3,7 +3,7 @@ type: claim
 title: Strategic staffing freed insufficient funds to sustain $20,000 stipends in some smaller and rural districts
 description: Strategic staffing freed insufficient funds to sustain $20,000 stipends in some smaller and rural districts
 id: strategic-staffing-insufficient-rural-districts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

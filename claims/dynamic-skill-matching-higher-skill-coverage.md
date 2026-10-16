@@ -3,7 +3,7 @@ type: claim
 title: A dynamic skill-weighted matching algorithm achieves higher percentage of skills fulfilled than manual and random assignment across both evaluated semesters
 description: A dynamic skill-weighted matching algorithm achieves higher percentage of skills fulfilled than manual and random assignment across both evaluated semesters
 id: dynamic-skill-matching-higher-skill-coverage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Black transfer students are more likely to persist in engineering than non-transfer black students after controlling for credits earned, a pattern not found for students of other ethnicities
 description: Black transfer students are more likely to persist in engineering than non-transfer black students after controlling for credits earned, a pattern not found for students of other ethnicities
 id: black-transfers-persist-engineering-more-than-nontransfer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

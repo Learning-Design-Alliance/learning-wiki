@@ -3,7 +3,7 @@ type: claim
 title: Teachers in top-quartile schools hold their principals in high regard as facilitative, inclusive, committed leaders
 description: Teachers in top-quartile schools hold their principals in high regard as facilitative, inclusive, committed leaders
 id: top-quartile-schools-facilitative-principal-leadership
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

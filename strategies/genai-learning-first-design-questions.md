@@ -3,7 +3,7 @@ type: strategy
 id: genai-learning-first-design-questions
 title: Ask what students should deeply learn before incorporating GenAI into activities
 description: "The presentation proposes a sequence of design questions for educators considering generative AI: What conceptual knowledge or skills should students deeply learn; Can we incorporate GenAI tools and not deprive studen..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

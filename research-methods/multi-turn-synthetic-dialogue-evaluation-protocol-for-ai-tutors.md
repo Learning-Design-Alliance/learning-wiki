@@ -3,7 +3,7 @@ type: research-method
 id: multi-turn-synthetic-dialogue-evaluation-protocol-for-ai-tutors
 title: Multi-turn synthetic-dialogue evaluation protocol for AI tutors
 description: A novel evaluation protocol in which a fine-tuned student model and a candidate tutor model generate synthetic multi-turn dialogues that are scored by conversational statistics and a reasoning LLM judge, with results aggregated.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

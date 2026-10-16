@@ -2,7 +2,7 @@
 type: theory
 title: Foucauldian power/knowledge and episteme framework for situating Indigenous knowledges within Western universities
 description: "The paper frames its pedagogy using Foucault's account of how institutions sanction knowledge, quoting that \"power produces knowledge\" and that the episteme separates \"what may from what may not be characterised as sc..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

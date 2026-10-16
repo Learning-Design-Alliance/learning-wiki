@@ -3,7 +3,7 @@ type: design
 id: two-models-middle-school-cte-delivery
 title: "Two common national models for middle school CTE delivery: career field–specific introductory coursework and stand-alone career exploration courses"
 description: "The report identifies, based on interviews with national CTE experts, two common middle school delivery models: \"introductory CTE coursework that puts middle grade students on a pathway to high school CTE programs\", w..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

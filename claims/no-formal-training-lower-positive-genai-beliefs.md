@@ -3,7 +3,7 @@ type: claim
 title: Teachers without formal training report substantially lower positive beliefs about GenAI than university-prepared teachers
 description: Teachers without formal training report substantially lower positive beliefs about GenAI than university-prepared teachers
 id: no-formal-training-lower-positive-genai-beliefs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

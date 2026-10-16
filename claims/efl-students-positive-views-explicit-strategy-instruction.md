@@ -3,7 +3,7 @@ type: claim
 title: All experimental group EFL students expressed positive perspectives on explicit instruction of reading comprehension strategies
 description: All experimental group EFL students expressed positive perspectives on explicit instruction of reading comprehension strategies
 id: efl-students-positive-views-explicit-strategy-instruction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

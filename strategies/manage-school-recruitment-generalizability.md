@@ -3,7 +3,7 @@ type: strategy
 id: manage-school-recruitment-generalizability
 title: Actively manage school recruitment to protect the generalizability of impact studies
 description: "The guide treats recruitment as a design task, not an afterthought: researchers should be \"managing school recruitment\" as one of the key steps for making impact study findings generalizable."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

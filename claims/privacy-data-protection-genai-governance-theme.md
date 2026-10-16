@@ -3,7 +3,7 @@ type: claim
 title: Privacy and data protection was a critical governance theme, raised by over half the expert panel
 description: Privacy and data protection was a critical governance theme, raised by over half the expert panel
 id: privacy-data-protection-genai-governance-theme
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

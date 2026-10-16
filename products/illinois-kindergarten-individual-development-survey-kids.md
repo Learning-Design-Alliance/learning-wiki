@@ -4,7 +4,7 @@ id: illinois-kindergarten-individual-development-survey-kids
 title: Illinois Kindergarten Individual Development Survey (KIDS)
 description: A statewide teacher-administered kindergarten readiness assessment used in Illinois public schools, based on the Desired Results Developmental Profile–Kindergarten, with required professional development and coaching for implementation.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

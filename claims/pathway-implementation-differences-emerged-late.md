@@ -3,7 +3,7 @@ type: claim
 title: Implementation differences between intervention and comparison classrooms emerged by the end of the intervention period
 description: Implementation differences between intervention and comparison classrooms emerged by the end of the intervention period
 id: pathway-implementation-differences-emerged-late
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

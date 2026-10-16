@@ -3,7 +3,7 @@ type: claim
 title: "The competence paradox: broadly capable LLMs cannot genuinely unknow expert knowledge when simulating novices"
 description: "The competence paradox: broadly capable LLMs cannot genuinely unknow expert knowledge when simulating novices"
 id: competence-paradox-llm-student-simulation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

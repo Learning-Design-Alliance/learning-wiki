@@ -3,7 +3,7 @@ type: claim
 title: The COVID-19 pandemic influenced U.S. science achievement, as shown by trends in science test scores across seven school years from 2019 through 2024
 description: The COVID-19 pandemic influenced U.S.
 id: covid-influenced-science-achievement-seven-school-years
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

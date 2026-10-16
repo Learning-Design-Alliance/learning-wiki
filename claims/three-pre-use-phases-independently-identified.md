@@ -3,7 +3,7 @@ type: claim
 title: Two independent research efforts identified the same three pre-use phases of the adoption process
 description: Two independent research efforts identified the same three pre-use phases of the adoption process
 id: three-pre-use-phases-independently-identified
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

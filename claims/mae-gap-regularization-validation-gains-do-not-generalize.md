@@ -3,7 +3,7 @@ type: claim
 title: Demographic MAE-gap regularization reduces targeted subgroup gaps on validation data, but these fairness gains do not consistently transfer to held-out test subjects
 description: Demographic MAE-gap regularization reduces targeted subgroup gaps on validation data, but these fairness gains do not consistently transfer to held-out test subjects
 id: mae-gap-regularization-validation-gains-do-not-generalize
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

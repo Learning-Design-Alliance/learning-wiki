@@ -3,7 +3,7 @@ type: element
 id: sdp-ep-agency-data-use-profiles
 title: SDP/EP agency profiles documenting data use in twelve education agencies
 description: "A set of twelve agency profiles developed by Mathematica Policy Research, each summarizing one agency's experience with using data and working with Strategic Data Project (SDP) and Education Pioneers (EP) fellows."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

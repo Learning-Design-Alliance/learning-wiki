@@ -3,7 +3,7 @@ type: strategy
 id: four-data-sharing-decisions-sequence
 title: "Work through four data-sharing decisions: what data to share, how to organize it, what documentation to include, and where to share it"
 description: "The guide organizes data sharing as a sequence of four decisions education researchers should work through: which study data to share, how to organize the data, what documentation to include, and where to share the fi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

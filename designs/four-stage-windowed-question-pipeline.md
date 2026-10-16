@@ -3,7 +3,7 @@ type: design
 id: four-stage-windowed-question-pipeline
 title: Four-stage windowed pipeline architecture for deck-level question generation
 description: "The article's organizing architecture is a multi-pass generative pipeline: a Window Planner that \"Analyzes overlapping windows of slides, creating a contact sheet image to infer titles, summaries, modalities, roles, a..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11
@@ -46,4 +46,4 @@ The article's organizing architecture is a multi-pass generative pipeline: a Win
 -
 
 ## Key Sources
-- Salsman, J. (2026). Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation. https://arxiv.org/abs/2605.26428
+- Salsman, J. (2026). Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation. https://arxiv.org/abs/2605.26428. [doi:10.48550/arxiv.2605.26428](https://doi.org/10.48550/arxiv.2605.26428)

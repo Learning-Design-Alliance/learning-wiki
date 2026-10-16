@@ -3,7 +3,7 @@ type: strategy
 id: teacher-residency-braided-recruitment-retention
 title: Use Teacher Residency Grant Program funds, braided with other sources, to recruit and retain a diverse teaching workforce
 description: "For teacher preparation, residency, and shortages, the brief recommends residency strategies funded by braided sources: cover 'residency program staff costs, teacher preparation costs, stipends for mentor teachers (wh..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

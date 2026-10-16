@@ -3,7 +3,7 @@ type: claim
 title: Extracurricular activities provide only modest support for civic commitment, and sports participation is unrelated to it
 description: Extracurricular activities provide only modest support for civic commitment, and sports participation is unrelated to it
 id: extracurriculars-modest-sports-unrelated-civic-commitment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

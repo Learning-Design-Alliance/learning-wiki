@@ -3,7 +3,7 @@ type: claim
 title: Profile-based aggregation across both trace sources achieves the best SAT Math performance and remains stronger than matched repeated direct-prompt generation under the same rollout budget
 description: Profile-based aggregation across both trace sources achieves the best SAT Math performance and remains stronger than matched repeated direct-prompt generation under the same rollout budget
 id: profile-aggregation-beats-matched-rollouts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

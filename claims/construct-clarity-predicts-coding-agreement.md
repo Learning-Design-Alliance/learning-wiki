@@ -3,7 +3,7 @@ type: claim
 title: Constructs with higher operational clarity show higher overall coder agreement, and low clarity harms human coder agreement more than LLM agreement
 description: Constructs with higher operational clarity show higher overall coder agreement, and low clarity harms human coder agreement more than LLM agreement
 id: construct-clarity-predicts-coding-agreement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

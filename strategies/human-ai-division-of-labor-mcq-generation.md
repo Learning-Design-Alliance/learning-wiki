@@ -3,7 +3,7 @@ type: strategy
 id: human-ai-division-of-labor-mcq-generation
 title: "Allocate human and AI effort by dimension type: automate explicit-criteria dimensions, retain human review for pedagogical judgment"
 description: "The article's central design recommendation is a principled division of labor: agentic AI with retrieval grounding and computational tools can serve as scalable first-line quality control for dimensions grounded in ex..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

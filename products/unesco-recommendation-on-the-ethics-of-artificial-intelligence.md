@@ -4,7 +4,7 @@ id: unesco-recommendation-on-the-ethics-of-artificial-intelligence
 title: UNESCO Recommendation on the Ethics of Artificial Intelligence
 description: A UNESCO global standard-setting framework that provides ethical principles and policy guidance for governments, educators, learners, and other stakeholders implementing and governing artificial intelligence.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Perceived enjoyment of GenAI tools positively influences teachers' attitudes, perceived ease of use and behavioural intention"
 description: "Perceived enjoyment of GenAI tools positively influences teachers' attitudes, perceived ease of use and behavioural intention"
 id: enjoyment-predicts-attitude-ease-intention-genai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

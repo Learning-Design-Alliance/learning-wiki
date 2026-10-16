@@ -3,7 +3,7 @@ type: claim
 title: Fluency Formula™ shows a positive but statistically non-significant effect on second-grade oral reading fluency (effect size 0.26, improvement index +10)
 description: Fluency Formula™ shows a positive but statistically non-significant effect on second-grade oral reading fluency (effect size 0.26, improvement index +10)
 id: fluency-formula-positive-nonsignificant-fluency-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: HBCUs experienced larger enrollment declines than other institutions after the PLUS tightening, particularly for first-year students
 description: HBCUs experienced larger enrollment declines than other institutions after the PLUS tightening, particularly for first-year students
 id: hbcu-enrollment-declines-larger-than-other-institutions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

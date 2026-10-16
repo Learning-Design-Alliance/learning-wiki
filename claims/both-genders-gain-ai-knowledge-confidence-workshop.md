@@ -3,7 +3,7 @@ type: claim
 title: Both male and female students show statistically significant medium-sized gains in AI knowledge and confidence after a one-day AI literacy workshop
 description: Both male and female students show statistically significant medium-sized gains in AI knowledge and confidence after a one-day AI literacy workshop
 id: both-genders-gain-ai-knowledge-confidence-workshop
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

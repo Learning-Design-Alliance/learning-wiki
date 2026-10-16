@@ -3,7 +3,7 @@ type: claim
 title: "Aspirational Growth defaults to 60th-percentile growth (met by about 40% of similar students) and is selectable from the 55th to 95th percentile in 5-percentile increments"
 description: "Aspirational Growth defaults to 60th-percentile growth (met by about 40% of similar students) and is selectable from the 55th to 95th percentile in 5-percentile increments"
 id: aspirational-growth-percentile-options
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

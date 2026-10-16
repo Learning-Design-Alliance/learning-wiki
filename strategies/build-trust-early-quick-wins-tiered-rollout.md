@@ -3,7 +3,7 @@ type: strategy
 id: build-trust-early-quick-wins-tiered-rollout
 title: Build trust early through quick wins and visible responsiveness to feedback, using a tiered rollout to grow champions
 description: "For solution providers, the report recommends delivering \"on quick wins that visibly change the tool to demonstrate responsiveness and foster buy-in.\" The case shows that when Innovare demonstrated responsiveness to f..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

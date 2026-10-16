@@ -3,7 +3,7 @@ type: claim
 title: High-proficiency EFL learners use more metacognitive strategies, effort regulation, and coping with problems than low-proficiency learners
 description: High-proficiency EFL learners use more metacognitive strategies, effort regulation, and coping with problems than low-proficiency learners
 id: high-proficiency-learners-use-more-strategies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

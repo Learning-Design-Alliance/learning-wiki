@@ -3,7 +3,7 @@ type: claim
 title: "Experts identified pervasive limitations of today's AI for learning, including biased data, inequity, non-graceful failure, and weak context grasp"
 description: "Experts identified pervasive limitations of today's AI for learning, including biased data, inequity, non-graceful failure, and weak context grasp"
 id: expert-panel-ai-limitations-list
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

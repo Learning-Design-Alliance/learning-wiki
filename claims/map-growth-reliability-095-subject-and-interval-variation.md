@@ -3,7 +3,7 @@ type: claim
 title: MAP Growth reliability coefficients average about 0.95, with lower values in Science and early grades and stronger test-retest reliability over shorter intervals
 description: MAP Growth reliability coefficients average about 0.95, with lower values in Science and early grades and stronger test-retest reliability over shorter intervals
 id: map-growth-reliability-095-subject-and-interval-variation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

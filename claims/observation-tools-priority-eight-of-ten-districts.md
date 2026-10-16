@@ -3,7 +3,7 @@ type: claim
 title: Eight of 10 districts planned to continue refining and using classroom observation tools after finding them a firm priority for understanding implementation
 description: Eight of 10 districts planned to continue refining and using classroom observation tools after finding them a firm priority for understanding implementation
 id: observation-tools-priority-eight-of-ten-districts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

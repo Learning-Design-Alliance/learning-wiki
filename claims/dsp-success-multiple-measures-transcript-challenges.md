@@ -3,7 +3,7 @@ type: claim
 title: Campuses report success with Directed Self-Placement for written communication, but face challenges with multiple measures placement, especially timely high school transcript availability
 description: Campuses report success with Directed Self-Placement for written communication, but face challenges with multiple measures placement, especially timely high school transcript availability
 id: dsp-success-multiple-measures-transcript-challenges
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

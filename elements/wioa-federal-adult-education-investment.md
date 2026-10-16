@@ -3,7 +3,7 @@ type: element
 id: wioa-federal-adult-education-investment
 title: The Workforce Innovation and Opportunity Act (WIOA) as the key federal investment in adult basic skills and high school equivalency
 description: "The Workforce Innovation and Opportunity Act (WIOA) is described in the report as \"the key federal investment helping adults acquire these and other important skills, as well as to earn a high school equivalency crede..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

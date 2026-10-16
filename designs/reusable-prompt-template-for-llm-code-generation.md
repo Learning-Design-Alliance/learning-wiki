@@ -3,7 +3,7 @@ type: design
 id: reusable-prompt-template-for-llm-code-generation
 title: Reusable structured prompt template built up across lesson sections
 description: The lesson taught students a reusable template for constructing prompts, built up throughout the lesson sections, to help them remember to address each learning objective.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

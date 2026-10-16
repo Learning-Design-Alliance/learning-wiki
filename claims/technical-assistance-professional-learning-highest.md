@@ -3,7 +3,7 @@ type: claim
 title: LEAs expressed broad interest in technical assistance, with the highest interest in professional learning opportunities
 description: LEAs expressed broad interest in technical assistance, with the highest interest in professional learning opportunities
 id: technical-assistance-professional-learning-highest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

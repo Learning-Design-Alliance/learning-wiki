@@ -3,7 +3,7 @@ type: claim
 title: "School survey reports compare each school's responses to demographically similar schools and to the system as a whole"
 description: "School survey reports compare each school's responses to demographically similar schools and to the system as a whole"
 id: survey-reports-compare-demographically-similar-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

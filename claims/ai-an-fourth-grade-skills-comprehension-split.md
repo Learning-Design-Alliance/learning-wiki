@@ -3,7 +3,7 @@ type: claim
 title: In a reservation-school literacy assessment study, fourth-grade AI/AN students were average or above in phonemic awareness, word recognition, vocabulary, and reading rate but low in comprehension
 description: In a reservation-school literacy assessment study, fourth-grade AI/AN students were average or above in phonemic awareness, word recognition, vocabulary, and reading rate but low in comprehension
 id: ai-an-fourth-grade-skills-comprehension-split
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

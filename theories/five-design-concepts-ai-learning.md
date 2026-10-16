@@ -2,7 +2,7 @@
 type: theory
 title: "Five new design concepts for AI in learning: orchestrating, augmenting, expanding natural interactions, broadening competencies, and revealing connections"
 description: Beyond familiar personalized, adaptive, or blended learning, the panel identified five recurrent design concepts.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -53,4 +53,4 @@ Beyond familiar personalized, adaptive, or blended learning, the panel identifie
 - [A co-orchestration technology ecosystem combining intelligent tutoring systems, peer tutoring, and a teacher-facing orchestration tool.](../designs/element-dynamic-pairing-co-orchestration-ecosystem.md)
 
 ## Key Sources
-- Roschelle, J., Lester, J. & Fusco, J. (Eds.) (2020). AI and the future of learning: Expert panel report [Report]. Digital Promise. https://circls.org/reports/ai-report
+- Roschelle, J., Lester, J. & Fusco, J. (Eds.) (2020). AI and the future of learning: Expert panel report [Report]. Digital Promise. https://circls.org/reports/ai-report. [doi:10.51388/20.500.12265/106](https://doi.org/10.51388/20.500.12265/106)

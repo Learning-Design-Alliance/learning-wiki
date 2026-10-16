@@ -3,7 +3,7 @@ type: claim
 title: Deletion tests show SHAP sentence rankings are more faithful than LLM-generated rationales for PLM scorers
 description: Deletion tests show SHAP sentence rankings are more faithful than LLM-generated rationales for PLM scorers
 id: shap-more-faithful-than-llm-rationales-deletion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

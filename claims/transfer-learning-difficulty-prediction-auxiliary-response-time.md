@@ -3,7 +3,7 @@ type: claim
 title: Transfer learning improves prediction of item difficulty when response time is used as an auxiliary task, but not the other way around
 description: Transfer learning improves prediction of item difficulty when response time is used as an auxiliary task, but not the other way around
 id: transfer-learning-difficulty-prediction-auxiliary-response-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: llm-adoption-requires-readiness-ethics-professional-development
 title: Adopt LLMs in higher education only alongside organizational readiness, ethical guidance and professional development
 description: "The review's implementation recommendation is that institutions adopting LLMs pair the technology with non-technological conditions."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

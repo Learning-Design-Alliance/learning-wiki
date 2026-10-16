@@ -3,7 +3,7 @@ type: claim
 title: "Philadelphia charter school students' achievement gains are approximately equal to gains of students attending district-operated public schools"
 description: "Philadelphia charter school students' achievement gains are approximately equal to gains of students attending district-operated public schools"
 id: philadelphia-charter-gains-equal-district-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

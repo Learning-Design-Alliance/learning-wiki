@@ -3,7 +3,7 @@ type: claim
 title: Distillation step is nearly lossless when the mentor signal is an oracle
 description: Distillation step is nearly lossless when the mentor signal is an oracle
 id: distillation-step-nearly-lossless-oracle-signal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Test lengths are comparable across engines, but CBE test durations are higher than COLO's in both terms and content areas, more prominently in Reading"
 description: "Test lengths are comparable across engines, but CBE test durations are higher than COLO's in both terms and content areas, more prominently in Reading"
 id: cbe-longer-test-duration-comparable-length
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

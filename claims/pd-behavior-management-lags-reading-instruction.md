@@ -3,7 +3,7 @@ type: claim
 title: Only 36 percent of students had teachers reporting at least 8 hours of behavior-management professional development over three years, versus 81 percent for reading and language arts
 description: Only 36 percent of students had teachers reporting at least 8 hours of behavior-management professional development over three years, versus 81 percent for reading and language arts
 id: pd-behavior-management-lags-reading-instruction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

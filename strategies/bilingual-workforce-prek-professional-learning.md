@@ -3,7 +3,7 @@ type: strategy
 id: bilingual-workforce-prek-professional-learning
 title: Provide professional learning and a bilingual workforce so preK and early elementary educators can sustain home language and oral language development
 description: "The report recommends funding for \"preparing, hiring, and retaining a bilingual early childhood workforce\" and professional learning so educators can provide culturally and linguistically sustaining environments, prom..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

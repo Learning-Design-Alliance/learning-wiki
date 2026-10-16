@@ -3,7 +3,7 @@ type: strategy
 id: music-curriculum-four-rethink-directions
 title: Rethink the music curriculum around DAW literacy, AI literacy, rights and economics knowledge, and defended ensemble practice
 description: "The article proposes that music curricula need reconsidering, not merely amendment at the margins, and enumerates four directions: production and DAW literacy as a standard component at all levels; AI literacy for mus..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

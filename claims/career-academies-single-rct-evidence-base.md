@@ -3,7 +3,7 @@ type: claim
 title: The evidence base for Career Academies in dropout prevention rests on a single randomized controlled trial in which students were randomly assigned to academy enrollment, a waitlist, or a comparison group across nine sites.
 description: The evidence base for Career Academies in dropout prevention rests on a single randomized controlled trial in which students were randomly assigned to academy enrollment, a waitlist, or a comparison group across nine...
 id: career-academies-single-rct-evidence-base
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

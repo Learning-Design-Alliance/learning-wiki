@@ -3,7 +3,7 @@ type: strategy
 id: recognize-analyze-judge-evaluate-beliefs
 title: "A four-step process for examining beliefs: recognition, analysis, judgment, and evaluation"
 description: Apps offers an implementable procedure for refining common sense into a working philosophy.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

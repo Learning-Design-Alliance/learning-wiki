@@ -4,7 +4,7 @@ id: i-ready-personalized-instruction
 title: i-Ready Personalized Instruction
 description: An online personalized reading-instruction program for grades K–8 that uses i-Ready Diagnostic data to assign lessons and monitor progress, developed and provided by Curriculum Associates.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
@@ -67,7 +67,7 @@ i-Ready Personalized Instruction uses information from the i-Ready Diagnostic to
 
 - [i-Ready Connect digital platform for teacher-facing content, with browser, SSO, and third-party integration requirements](../elements/iready-connect-platform-technology.md)
 - [Pathblazer: supplemental online individualized intervention for struggling K–8 learners in mathematics and reading](pathblazer.md)
-- [Edmentum Exact Path: computer-adaptive supplemental program supporting instruction and assignment](../products/exact-path.md)
+- [Edmentum Exact Path: computer-adaptive supplemental program supporting instruction and assignment](edmentum-exact-path.md)
 - [i-Ready digital learning platform with adaptive diagnostic and personalized instruction](../products/i-ready.md)
 
 ## Examples

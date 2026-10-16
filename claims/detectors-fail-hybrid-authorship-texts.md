@@ -3,7 +3,7 @@ type: claim
 title: Both detectors performed poorly on hybrid human–AI texts, with Originality showing near-zero recall for the Hybrid class
 description: Both detectors performed poorly on hybrid human–AI texts, with Originality showing near-zero recall for the Hybrid class
 id: detectors-fail-hybrid-authorship-texts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

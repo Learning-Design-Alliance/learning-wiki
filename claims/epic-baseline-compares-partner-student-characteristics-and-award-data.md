@@ -3,7 +3,7 @@ type: claim
 title: "The EPIC evaluation baseline report compares student characteristics across the program's three partners and compares award-determination data with data on all students in the awarded schools"
 description: "The EPIC evaluation baseline report compares student characteristics across the program's three partners and compares award-determination data with data on all students in the awarded schools"
 id: epic-baseline-compares-partner-student-characteristics-and-award-data
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

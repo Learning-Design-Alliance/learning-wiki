@@ -3,7 +3,7 @@ type: claim
 title: "Principals' access to professional development is significantly associated with teacher retention and student achievement, with gains greatest for historically underserved students"
 description: "Principals' access to professional development is significantly associated with teacher retention and student achievement, with gains greatest for historically underserved students"
 id: principal-pd-associated-retention-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

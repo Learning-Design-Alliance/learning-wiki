@@ -3,7 +3,7 @@ type: claim
 id: total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished
 title: Total retrieval spacing improved one-week vocabulary recall while relative schedules were not distinguished
 description: One learn-to-criterion word-pair experiment separated total intervening trials from the expanding, equal, or contracting arrangement of those trials.
-status: draft
+status: review
 evidence_strength: moderate
 generated:
   by: codex/unspecified

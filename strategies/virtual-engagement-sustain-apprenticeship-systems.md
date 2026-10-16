@@ -3,7 +3,7 @@ type: strategy
 id: virtual-engagement-sustain-apprenticeship-systems
 title: Use virtual engagement and online training delivery to sustain and extend apprenticeship system operations during disruptions
 description: "The brief's discussion of pandemic responses points to virtual engagement as a way apprenticeship systems continued operating: administrators pivoted work online, streamlined processes, and expanded reach and responsi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

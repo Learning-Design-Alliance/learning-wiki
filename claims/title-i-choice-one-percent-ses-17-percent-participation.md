@@ -3,7 +3,7 @@ type: claim
 title: In 2004-2005, only about one percent of the nearly 6.2 million students eligible for Title I school choice used the option, while about 17 percent of eligible students used supplemental educational services
 description: In 2004-2005, only about one percent of the nearly 6.2 million students eligible for Title I school choice used the option, while about 17 percent of eligible students used supplemental educational services
 id: title-i-choice-one-percent-ses-17-percent-participation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

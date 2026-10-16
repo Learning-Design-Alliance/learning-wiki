@@ -3,7 +3,7 @@ type: claim
 title: Heritage learners showed broader attention to the passage and selective second-listening attention, while non-heritage learners focused on local information
 description: Heritage learners showed broader attention to the passage and selective second-listening attention, while non-heritage learners focused on local information
 id: hlls-broader-and-selective-listening-attention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

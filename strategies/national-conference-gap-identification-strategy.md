@@ -3,7 +3,7 @@ type: strategy
 id: national-conference-gap-identification-strategy
 title: Identify information gaps through national conference review to set research and development strategies
 description: The project used a two-day national conference of experts, held after drafts were circulated, to elicit suggestions for revision and recommendations for future research.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

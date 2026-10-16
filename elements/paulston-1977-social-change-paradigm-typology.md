@@ -3,7 +3,7 @@ type: element
 id: paulston-1977-social-change-paradigm-typology
 title: 1977 fixed typology of social change paradigms and educational reform assumptions
 description: "Figure 2 reproduces the author's 1977 Comparative Education Review typology, which the paper describes as \"A fixed typology presentinga phenomological comparison of how the international literature may be seen to cons..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

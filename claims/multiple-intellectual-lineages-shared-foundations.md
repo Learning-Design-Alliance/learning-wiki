@@ -3,7 +3,7 @@ type: claim
 title: Platform-enabled experimentation research draws on multiple intellectual lineages, including intelligent tutoring systems, formative feedback, and exemplar platforms like ASSISTments
 description: Platform-enabled experimentation research draws on multiple intellectual lineages, including intelligent tutoring systems, formative feedback, and exemplar platforms like ASSISTments
 id: multiple-intellectual-lineages-shared-foundations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -63,3 +63,4 @@ SPECTER-embedding similarity analysis over an expanded corpus of over 1,200 publ
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — related
 - [AI-supported adaptive systems are reported to enhance adult learner engagement, motivation, and outcomes when aligned with learner goals and prior knowledge](ai-adaptive-systems-enhance-adult-engagement.md) — related
 - [Cumulative rapid experimentation improved next-item correctness by 10% and cognitive engagement by 14% over five months](rapid-experimentation-cumulative-metric-gains.md) — related
+- [Learning benefits of Cognitive Tutor interactivity are supported to varying extents by a growing body of experimental studies](cognitive-tutor-interactivity-benefits-varying-extents.md) — related

@@ -3,7 +3,7 @@ type: strategy
 id: statewide-new-teacher-survey-strategy
 title: States conduct a statewide survey of new teachers with comparable questions across all programs
 description: "The brief recommends that states conduct a survey of new teachers to alleviate the burden on EPPs and produce comparable data, since \"states are uniquely positioned to do this work at scale, asking the same questions..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

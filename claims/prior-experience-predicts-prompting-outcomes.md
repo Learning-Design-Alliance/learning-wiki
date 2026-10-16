@@ -3,7 +3,7 @@ type: claim
 title: Prior programming experience significantly predicted Promptly task performance and prompting self-efficacy
 description: Prior programming experience significantly predicted Promptly task performance and prompting self-efficacy
 id: prior-experience-predicts-prompting-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

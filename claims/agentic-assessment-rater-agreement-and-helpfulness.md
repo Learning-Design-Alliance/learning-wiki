@@ -3,7 +3,7 @@ type: claim
 title: "AI assessors show emerging reliability: acceptable AI-human rater agreement (Cohen's 0.78) in a 12-educator case study and human-comparable feedback helpfulness ratings with 45 learners"
 description: "AI assessors show emerging reliability: acceptable AI-human rater agreement (Cohen's 0.78) in a 12-educator case study and human-comparable feedback helpfulness ratings with 45 learners"
 id: agentic-assessment-rater-agreement-and-helpfulness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
@@ -65,3 +65,4 @@ The review reports, citing Kaldaras et al., a controlled classroom deployment wi
 - [The emergent LLM coding pipeline reaches substantial agreement with expert human coding (Cohen's κ = 0.78, raw agreement 84%) on a stratified 10% sample](llm-discourse-coding-kappa-078-expert-agreement.md) — related
 - [An automated LLM assessor rates 3E clinical communication skills with agreement comparable to individual human raters](llm-assessor-agrees-with-human-raters-3e.md) — related
 - [Students rate human-generated feedback as superior to AI-generated feedback in quality, helpfulness, and clarity, and as more likely to be acted upon](human-feedback-rated-superior-to-ai-feedback.md) — related
+- [A human assessor agreed with the majority of GPT-generated feedback comments on assessment aspects that instructors had not commented on](human-assessor-agrees-with-gpt-feedback-on-uncommented-aspects.md) — a narrower finding that bears on this claim

@@ -3,7 +3,7 @@ type: element
 id: zone-notebooks-journals
 title: "Zone Notebooks: learner journals for processing, assessment, and sharing"
 description: Zone Notebooks are learner-maintained journals built into the curriculum.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: design
 id: uk-high-school-students-as-researchers-since-1996
 title: UK high school Students as Researchers partnership running since 1996
 description: A long-running joint project in a UK high school in which students act as researchers, developed since 1996 and described as still current at the time of writing.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: "Availability of CAASPP statewide assessment data changed MiC leadership teams' discussions and appeared to accelerate districts' ability to monitor improvement"
 description: "Availability of CAASPP statewide assessment data changed MiC leadership teams' discussions and appeared to accelerate districts' ability to monitor improvement"
 id: caaspp-data-accelerated-improvement-monitoring
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

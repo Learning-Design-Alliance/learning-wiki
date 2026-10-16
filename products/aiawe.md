@@ -4,7 +4,7 @@ id: aiawe
 title: AiAWE
 description: AiAWE is an open-source Django platform developed by John Maurice Gayed and collaborators for real-time and batch automated essay scoring, custom-rubric feedback, and formative writing support.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

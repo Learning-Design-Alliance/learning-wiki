@@ -64,7 +64,7 @@ Flow design works by reducing the extraneous cognitive load imposed by the envir
 - [Time Management in Instruction](time-management-in-instruction.md) — recovered transition time is reinvested through pacing decisions
 
 ## Examples
-- **Responsive Classroom** (https://www.responsiveclassroom.org) — teacher language and interactive modeling used to teach transition routines until movement between activities is automatic.
+- **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveclassroom.org) — teacher language and interactive modeling used to teach transition routines until movement between activities is automatic.
 - **Reggio Emilia–inspired environments** — the environment treated as "the third teacher"; atelier-style centers arranged so materials invite independent use and movement is self-directed.
 - **Khan Academy station-rotation classrooms** — digital and analog stations sequenced so students rotate between devices, small-group instruction, and practice with minimal teacher-directed redirection.
 

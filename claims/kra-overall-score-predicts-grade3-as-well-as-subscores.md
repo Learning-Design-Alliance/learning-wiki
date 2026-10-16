@@ -3,7 +3,7 @@ type: claim
 title: The overall Kindergarten Readiness Assessment score predicts grade 3 achievement about as well as combinations of its subscores
 description: The overall Kindergarten Readiness Assessment score predicts grade 3 achievement about as well as combinations of its subscores
 id: kra-overall-score-predicts-grade3-as-well-as-subscores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

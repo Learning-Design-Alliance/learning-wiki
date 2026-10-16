@@ -3,7 +3,7 @@ type: strategy
 id: institutional-gai-process-assessment-recommendations
 title: "Institutional recommendations: shift from detection to process-oriented assessment, transparent AI-use protocols, and revised integrity policies"
 description: The article issues three strategic recommendations for institutions integrating GAI into assessment.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

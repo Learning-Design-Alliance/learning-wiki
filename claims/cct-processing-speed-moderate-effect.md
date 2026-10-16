@@ -3,7 +3,7 @@ type: claim
 title: CCT improves processing speed with a moderate effect, the largest domain effect, though with large heterogeneity
 description: CCT improves processing speed with a moderate effect, the largest domain effect, though with large heterogeneity
 id: cct-processing-speed-moderate-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

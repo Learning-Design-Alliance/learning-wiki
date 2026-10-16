@@ -3,7 +3,7 @@ type: claim
 title: "A 60-minute session with Prompt Coach significantly improved professional developers' prompt quality, a 13.73% relative gain overall"
 description: "A 60-minute session with Prompt Coach significantly improved professional developers' prompt quality, a 13.73% relative gain overall"
 id: prompt-coach-significant-overall-prompt-quality-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

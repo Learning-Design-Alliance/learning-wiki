@@ -3,7 +3,7 @@ type: claim
 title: Performance assessments are associated with positive instructional changes, student skill development, engagement, and complex conceptual understanding
 description: Performance assessments are associated with positive instructional changes, student skill development, engagement, and complex conceptual understanding
 id: performance-assessments-positive-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

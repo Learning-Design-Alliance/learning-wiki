@@ -4,7 +4,7 @@ id: open-cc-by-40-dataset-of-digital-self-efficacy-responses-n243-on-zenodo
 title: Open CC-BY 4.0 dataset of digital self-efficacy responses (N=243) on Zenodo
 description: A fully anonymized dataset of demographic variables and Likert-scale digital self-efficacy responses from 243 secondary students, released with a comprehensive codebook by Nicolas Rodriguez-Alvarez et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

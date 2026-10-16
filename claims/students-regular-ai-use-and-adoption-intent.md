@@ -3,7 +3,7 @@ type: claim
 title: Over three-quarters of international medical students used AI tools at least weekly and reported strong intentions to continue, valuing teacher-AI collaboration
 description: Over three-quarters of international medical students used AI tools at least weekly and reported strong intentions to continue, valuing teacher-AI collaboration
 id: students-regular-ai-use-and-adoption-intent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

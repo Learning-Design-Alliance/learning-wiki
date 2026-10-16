@@ -3,7 +3,7 @@ type: claim
 title: The evidence supporting curricular interventions to promote reflection in health professional education remains largely theoretical
 description: The evidence supporting curricular interventions to promote reflection in health professional education remains largely theoretical
 id: reflection-curricular-evidence-largely-theoretical
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: Musicians with BLV detect bow drift only after tone deteriorates and adopt tension-increasing over-gripping as a protective strategy during self-practice
 description: Musicians with BLV detect bow drift only after tone deteriorates and adopt tension-increasing over-gripping as a protective strategy during self-practice
 id: blv-bow-drift-late-detection-over-gripping
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

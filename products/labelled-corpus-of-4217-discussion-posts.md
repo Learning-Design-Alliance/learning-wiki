@@ -4,7 +4,7 @@ id: labelled-corpus-of-4217-discussion-posts
 title: Labelled corpus of 4,217 discussion posts
 description: A dataset created by Gorgun et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

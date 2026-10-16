@@ -4,7 +4,7 @@ id: hierarchical-diagnostic-reasoning-hdr
 title: Hierarchical Diagnostic Reasoning (HDR)
 description: A structured case-based assessment proposed by Takahashi et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

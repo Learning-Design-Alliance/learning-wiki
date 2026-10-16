@@ -3,7 +3,7 @@ type: strategy
 id: institutional-strategies-ethical-genai-use
 title: Strengthen institutional policies, ethics education, verification, disclosure, and data protection to support ethical GenAI use
 description: "Based on the model's findings, the authors recommend a set of institutional actions: \"strengthen clear institutional policies, integrate ethics education across the curriculum, promote critical verification of AI-gene..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

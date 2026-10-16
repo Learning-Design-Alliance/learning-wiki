@@ -3,7 +3,7 @@ type: claim
 title: "Prior nationally representative studies found incoming kindergarteners' math and literacy skills were higher in 2010 than in 1998"
 description: "Prior nationally representative studies found incoming kindergarteners' math and literacy skills were higher in 2010 than in 1998"
 id: kindergarten-entry-skills-higher-2010-than-1998
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

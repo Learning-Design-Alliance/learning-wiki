@@ -3,7 +3,7 @@ type: strategy
 id: multi-tiered-supports-acceleration-not-remediation
 title: Implement multi-tiered supports focused on acceleration, not remediation
 description: "The blueprint's equity dimension calls for a system of multi-tiered supports with interventions targeted to what individual students need, when needed, with student and family voice prioritized."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

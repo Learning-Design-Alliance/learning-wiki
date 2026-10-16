@@ -3,7 +3,7 @@ type: claim
 title: Cornelius (2013) finds a positive, statistically significant effect of Odyssey® Math versus teacher-directed supplemental instruction on STAR Math scores
 description: Cornelius (2013) finds a positive, statistically significant effect of Odyssey® Math versus teacher-directed supplemental instruction on STAR Math scores
 id: cornelius-2013-significant-positive-effect-star-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

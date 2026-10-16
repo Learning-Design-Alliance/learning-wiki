@@ -3,7 +3,7 @@ type: claim
 title: Prior syntheses of educational technology effects show inconsistent findings, with mobile learning meta-analysis finding near-zero maths effects and reading interventions comparatively more effective
 description: Prior syntheses of educational technology effects show inconsistent findings, with mobile learning meta-analysis finding near-zero maths effects and reading interventions comparatively more effective
 id: prior-technology-meta-analyses-inconsistent-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

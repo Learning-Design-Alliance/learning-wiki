@@ -3,7 +3,7 @@ type: element
 id: 3d-model-interview-protocol-day-night
 title: "Three-task interview protocol with a 3D sun-earth model for eliciting young children's causal explanations"
 description: "The study's data-gathering instrument is a semi-structured interview protocol combining verbal explanation prompts with a 3D model of the sun (a yellow plastic ball) and earth (a plastic globe)."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

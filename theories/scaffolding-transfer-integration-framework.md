@@ -2,7 +2,7 @@
 type: theory
 title: Scaffolding-Transfer Integration Framework for teacher observational skill development
 description: A two-phase framework integrating Cognitive Load Theory and Situated Learning Theory for sequencing technologies in teacher observation training.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

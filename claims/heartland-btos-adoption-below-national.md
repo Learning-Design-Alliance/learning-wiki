@@ -3,7 +3,7 @@ type: claim
 title: "AI adoption across the 19 Heartland states averages 15.3%, below the national rate and uneven across states"
 description: "AI adoption across the 19 Heartland states averages 15.3%, below the national rate and uneven across states"
 id: heartland-btos-adoption-below-national
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

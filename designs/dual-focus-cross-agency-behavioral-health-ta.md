@@ -3,7 +3,7 @@ type: design
 id: dual-focus-cross-agency-behavioral-health-ta
 title: Any statewide behavioral health TA model should combine cross-agency collaboration with a dual focus on student outcomes and sustainable service infrastructure
 description: Research for this project suggests design features for capacity-building TA in school-based behavioral health.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

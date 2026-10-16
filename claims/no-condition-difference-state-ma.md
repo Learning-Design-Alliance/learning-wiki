@@ -3,7 +3,7 @@ type: claim
 title: The mindfulness interventions did not significantly change anticipatory or executive state-MA relative to cognitive support alone
 description: The mindfulness interventions did not significantly change anticipatory or executive state-MA relative to cognitive support alone
 id: no-condition-difference-state-ma
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -18,8 +18,8 @@ sources:
     kind: causal
     rigour: 2
   - id: rief-2026-2
-    resource: "https://arxiv.org/abs/2609.02611"
-    title: "Rief, V., Hladký, M., Yoo, M., Heel, S., Sato, S., Nagashima, T. (2026). Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning. https://arxiv.org/abs/2609.02611"
+    resource: "https://doi.org/10.48550/arxiv.2609.02611"
+    title: "Rief, V., Hladký, M., Yoo, M., Heel, S., Sato, S., Nagashima, T. (2026). Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning. https://arxiv.org/abs/2609.02611. [doi:10.48550/arxiv.2609.02611](https://doi.org/10.48550/arxiv.2609.02611)"
     author: Rief, V., Hladký, M., Yoo, M., Heel, S., Sato, S., Nagashima, T.
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # The mindfulness interventions did not significantly change anticipatory or executive state-MA relative to cognitive support alone
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 In Rief et al. (2026), seventh graders practised algebra in the "Math with Matt" tutoring system. The Mindful version added an LLM-based mindful chat, in which the pedagogical agent Matt gave context-sensitive emotional support, and mindful (not only evaluative) feedback and hint messages; the Cognitive version gave cognitive support only.
 
@@ -52,7 +52,7 @@ Linear mixed-effect model on anticipatory state-MA (STAI-6 administered before p
 
 ### Rief 2026 (2)
 
-Rief, V., Hladký, M., Yoo, M., Heel, S., Sato, S., Nagashima, T. (2026). Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning. https://arxiv.org/abs/2609.02611
+Rief, V., Hladký, M., Yoo, M., Heel, S., Sato, S., Nagashima, T. (2026). Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning. https://arxiv.org/abs/2609.02611. [doi:10.48550/arxiv.2609.02611](https://doi.org/10.48550/arxiv.2609.02611)
 
 `q3 · i?` · `causal · r2`
 

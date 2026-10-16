@@ -3,7 +3,7 @@ type: strategy
 id: explicit-pedagogical-guidance-genai-assessment-contexts
 title: Provide explicit pedagogical guidance on effective and ethical GenAI use within specific assessment contexts, beyond prohibitions
 description: "Instructors should provide \"explicit, pedagogical guidance beyond prohibitions, helping students explore effective and ethical GenAI use within specific assessment contexts.\" The strategy directs teaching effort towar..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

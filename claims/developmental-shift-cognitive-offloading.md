@@ -3,7 +3,7 @@ type: claim
 title: "Review reports a developmental shift in cognitive offloading: children under-use external aids while adolescents over-rely on them"
 description: "Review reports a developmental shift in cognitive offloading: children under-use external aids while adolescents over-rely on them"
 id: developmental-shift-cognitive-offloading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -47,3 +47,4 @@ Narrative review attribution: the article reports a word-pair memory task study 
 - [Both performance-oriented goals and effort minimization motivate offloading, and effort's effect disappears when performance monitoring is considered simultaneously](effort-performance-drivers-offloading.md) — related
 - [The review reports some evidence that over-dependence on AI contributes to cognitive offloading and decreased independent reasoning, while guided AI use can be helpful](ai-overdependence-cognitive-offloading-guided-use-helpful.md) — related
 - [Productive cognitive offloading to AI can shift into cognitive surrender, abdicating learner intellectual agency](cognitive-offloading-shifts-to-cognitive-surrender.md) — related
+- [Developmental change in offloading reflects metacognitive control, not knowledge](child-development-offloading-selectivity.md) — related

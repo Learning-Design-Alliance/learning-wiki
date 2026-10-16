@@ -3,7 +3,7 @@ type: claim
 title: The authors argue partnership in course design is a promising avenue for LIS educators to begin decolonizing classroom hierarchies
 description: The authors argue partnership in course design is a promising avenue for LIS educators to begin decolonizing classroom hierarchies
 id: partnership-decolonizing-classroom-hierarchies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

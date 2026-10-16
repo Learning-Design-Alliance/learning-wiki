@@ -3,7 +3,7 @@ type: claim
 title: Over 90 percent of Bristol teachers who participated in student-led mental health PD reported being more conscious of the experiences of students of color in school
 description: Over 90 percent of Bristol teachers who participated in student-led mental health PD reported being more conscious of the experiences of students of color in school
 id: bristol-pd-consciousness-over-90-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

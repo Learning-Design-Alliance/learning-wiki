@@ -4,7 +4,7 @@ id: linkedin-skill-network-dataset-24-million-us-workers-16753-skills-556206-dir
 title: "LinkedIn skill network dataset: 2.4 million US workers, 16,753 skills, 556,206 directed edges, 12 skill domains"
 description: A Carpanelli et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11
@@ -28,4 +28,4 @@ A Carpanelli et al. dataset linking self-reported LinkedIn skills for approximat
 -
 
 ## Key Sources
-- Carpanelli, M., Duszynski, J. & Stephany, F. (2026). Navigating the skill diversity frontier: How skill complexity explains worker resilience. Working paper, Oxford Internet Institute. https://oii.ox.ac.uk
+- Carpanelli, M., Duszynski, J. & Stephany, F. (2026). Navigating the skill diversity frontier: How skill complexity explains worker resilience. Working paper, Oxford Internet Institute. https://oii.ox.ac.uk. [doi:10.48550/arxiv.2608.02102](https://doi.org/10.48550/arxiv.2608.02102)

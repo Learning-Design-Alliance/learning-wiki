@@ -3,7 +3,7 @@ type: design
 id: four-domains-meaningful-learning-goals
 title: Four domains central to meaningful learning goals
 description: "The report defines meaningful 21st century learning goals through four domains: \"Both research and local knowledge suggest four specific domains that are central to meaningful learning\" — high-level cognitive skills i..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

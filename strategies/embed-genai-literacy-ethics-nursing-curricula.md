@@ -3,7 +3,7 @@ type: strategy
 id: embed-genai-literacy-ethics-nursing-curricula
 title: Embed GenAI literacy and ethical use directly in nursing curricula rather than prohibiting it
 description: "Under Theme Three, participants argued GenAI should be addressed deliberately in the curriculum, teaching students to use it \"ethically, effectively, and with an awareness of its limitations\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

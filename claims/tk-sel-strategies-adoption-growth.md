@@ -3,7 +3,7 @@ type: claim
 title: "A growing share of LEAs adopted social-emotional and developmentally appropriate strategies, led by play-based learning at 82%"
 description: "A growing share of LEAs adopted social-emotional and developmentally appropriate strategies, led by play-based learning at 82%"
 id: tk-sel-strategies-adoption-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

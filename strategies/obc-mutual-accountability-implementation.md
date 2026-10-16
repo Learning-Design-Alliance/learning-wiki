@@ -3,7 +3,7 @@ type: strategy
 id: obc-mutual-accountability-implementation
 title: Plan mutual accountability for implementation, including rollout plans, educator supports, and early indicators for pivoting
 description: "The presentation directs districts and providers to establish mutual accountability during implementation: districts commit to a rollout plan developed with the right people, address technical needs, put professional..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

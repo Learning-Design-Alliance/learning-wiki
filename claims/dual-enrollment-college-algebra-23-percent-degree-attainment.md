@@ -3,7 +3,7 @@ type: claim
 title: Dual enrollment college algebra near the cut-off was associated with a 23 percent higher likelihood of earning a college degree
 description: Dual enrollment college algebra near the cut-off was associated with a 23 percent higher likelihood of earning a college degree
 id: dual-enrollment-college-algebra-23-percent-degree-attainment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

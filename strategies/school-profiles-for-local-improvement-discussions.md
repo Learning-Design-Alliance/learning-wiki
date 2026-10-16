@@ -3,7 +3,7 @@ type: strategy
 id: school-profiles-for-local-improvement-discussions
 title: Return individual school survey profiles to stimulate local school improvement discussions
 description: The Consortium returned school-level survey results to each school with a sufficient response rate so that school community members could better understand how teachers perceive their school and students, and prepared...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

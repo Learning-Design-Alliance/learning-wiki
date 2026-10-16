@@ -3,7 +3,7 @@ type: claim
 title: In an online case-based course, students perceive cognitive presence as highest and least variable, and teaching presence as the most variable, among the CoI presences and metacognition dimensions
 description: In an online case-based course, students perceive cognitive presence as highest and least variable, and teaching presence as the most variable, among the CoI presences and metacognition dimensions
 id: cognitive-presence-highest-least-variable-online-cbi
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

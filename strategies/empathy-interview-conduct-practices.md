@@ -3,7 +3,7 @@ type: strategy
 id: empathy-interview-conduct-practices
 title: Conduct empathy interviews as story-based conversations in comfortable, student-chosen settings
 description: The guide distinguishes the empathy interview from a regular interview through six conduct practices.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

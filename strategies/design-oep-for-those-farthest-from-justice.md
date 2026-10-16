@@ -3,7 +3,7 @@ type: strategy
 id: design-oep-for-those-farthest-from-justice
 title: Design OEP for accessibility and marginalized participation rather than open for all
 description: The article recommends that open educators make their work more accessible to those with lower bandwidth, e.g.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

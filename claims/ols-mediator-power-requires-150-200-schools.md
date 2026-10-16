@@ -3,7 +3,7 @@ type: claim
 title: In clustered school-based RCTs, OLS mediator analyses yield precise teacher practice-achievement estimates only with about 150 to 200 study schools
 description: In clustered school-based RCTs, OLS mediator analyses yield precise teacher practice-achievement estimates only with about 150 to 200 study schools
 id: ols-mediator-power-requires-150-200-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

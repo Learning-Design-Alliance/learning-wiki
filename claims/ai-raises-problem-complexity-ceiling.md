@@ -3,7 +3,7 @@ type: claim
 title: AI raises the ceiling on problem complexity by reducing access complexity rather than cognitive demand
 description: AI raises the ceiling on problem complexity by reducing access complexity rather than cognitive demand
 id: ai-raises-problem-complexity-ceiling
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

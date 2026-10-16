@@ -3,7 +3,7 @@ type: claim
 title: The completion impact of financial incentives for teen parents comes almost entirely from GED receipt rather than high school diploma receipt, and the GED effect was statistically significant only for Cal-Learn
 description: The completion impact of financial incentives for teen parents comes almost entirely from GED receipt rather than high school diploma receipt, and the GED effect was statistically significant only for Cal-Learn
 id: financial-incentives-ged-receipt-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

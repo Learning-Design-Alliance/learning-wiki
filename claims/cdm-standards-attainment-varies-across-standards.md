@@ -3,7 +3,7 @@ type: claim
 title: CDM-estimated attainment of professional teaching standards varies non-uniformly across standards, with Standard 1 highest (0.86) and Standard 4 lowest (0.50)
 description: CDM-estimated attainment of professional teaching standards varies non-uniformly across standards, with Standard 1 highest (0.86) and Standard 4 lowest (0.50)
 id: cdm-standards-attainment-varies-across-standards
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

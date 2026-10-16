@@ -3,7 +3,7 @@ type: claim
 title: California is one of only five states that counts high-need students unduplicated, unlike 37 of 42 states that allow duplicated funding
 description: California is one of only five states that counts high-need students unduplicated, unlike 37 of 42 states that allow duplicated funding
 id: unduplicated-count-outlier-among-states
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

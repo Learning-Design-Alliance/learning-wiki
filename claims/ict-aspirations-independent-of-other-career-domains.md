@@ -3,7 +3,7 @@ type: claim
 title: Changes in ICT career aspirations are not systematically linked to contemporaneous changes in other occupational domains
 description: Changes in ICT career aspirations are not systematically linked to contemporaneous changes in other occupational domains
 id: ict-aspirations-independent-of-other-career-domains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

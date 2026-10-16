@@ -4,7 +4,7 @@ id: arc-core
 title: ARC Core
 description: ARC Core is a K–12 English and Spanish literacy curriculum developed by American Reading Company that organizes extensive reading, writing, research, and analysis into knowledge-building units integrating literacy with science, social studies, and literature.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
@@ -39,7 +39,7 @@ ARC Core is a K–12 English and Spanish literacy curriculum developed by Americ
 ## Key Sources
 - ARC Core evidence summary. (2022). https://eric.ed.gov
 <!-- merged 2026-10-10 from elements/arc-core-curriculum-element ("ARC Core K-12 literacy curriculum with knowledge-building units"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
-- Jacobson, M. J.; Rodriguez-Rivera, G.; Drineas, P.; and Xue, Y. (2026). Teaching AI, Robotics, & Community: A Hubs-Based K–12 Education Framework for Reaching Rural Schools. https://arxiv.org/abs/2609.18072
+- Jacobson, M. J.; Rodriguez-Rivera, G.; Drineas, P.; and Xue, Y. (2026). Teaching AI, Robotics, & Community: A Hubs-Based K–12 Education Framework for Reaching Rural Schools. https://arxiv.org/abs/2609.18072. [doi:10.48550/arxiv.2609.18072](https://doi.org/10.48550/arxiv.2609.18072)
 
 # ARC Core K-12 literacy curriculum with knowledge-building units
 

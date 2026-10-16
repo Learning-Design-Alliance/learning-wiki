@@ -3,7 +3,7 @@ type: claim
 title: "The report's evidence base comprises program documentation, teacher focus groups, and telephone interviews with school officials"
 description: "The report's evidence base comprises program documentation, teacher focus groups, and telephone interviews with school officials"
 id: career-ladder-profile-mixed-qualitative-sources
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

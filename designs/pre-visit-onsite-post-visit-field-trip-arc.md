@@ -3,7 +3,7 @@ type: design
 id: pre-visit-onsite-post-visit-field-trip-arc
 title: Pre-visit, on-site, post-visit field-trip activity arc
 description: "The Sea Turtle Trek packet structures a park field trip as three sequential activity phases: classroom preparation before the trip, hands-on activities conducted at the park, and classroom follow-up afterward."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-07

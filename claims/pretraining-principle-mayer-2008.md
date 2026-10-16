@@ -3,7 +3,7 @@ type: claim
 title: "Pretraining principle: pre-lessons on names, locations, and characteristics of key components improve transfer"
 description: "Pretraining principle: pre-lessons on names, locations, and characteristics of key components improve transfer"
 id: pretraining-principle-mayer-2008
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

@@ -3,7 +3,7 @@ type: claim
 title: LCFF-induced per-pupil spending increases caused improvements in math and reading achievement in districts receiving concentration grants
 description: LCFF-induced per-pupil spending increases caused improvements in math and reading achievement in districts receiving concentration grants
 id: lcff-spending-improved-math-reading-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: MAP tests show metric invariance across grades for all studied tests except Michigan Mathematics tests
 description: MAP tests show metric invariance across grades for all studied tests except Michigan Mathematics tests
 id: map-cat-metric-invariance-across-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

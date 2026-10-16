@@ -3,7 +3,7 @@ type: claim
 title: The DC school reforms were associated with learning gains in grade 8 math but not in grade 8 reading
 description: The DC school reforms were associated with learning gains in grade 8 math but not in grade 8 reading
 id: dc-reforms-grade8-math-gains-not-reading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

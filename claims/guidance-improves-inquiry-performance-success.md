@@ -3,7 +3,7 @@ type: claim
 title: Guidance during inquiry learning improves performance success during the inquiry (d = 0.71), with type of guidance moderating this effect
 description: Guidance during inquiry learning improves performance success during the inquiry (d = 0.71), with type of guidance moderating this effect
 id: guidance-improves-inquiry-performance-success
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

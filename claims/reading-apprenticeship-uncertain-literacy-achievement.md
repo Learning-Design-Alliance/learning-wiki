@@ -3,7 +3,7 @@ type: claim
 title: Reading Apprenticeship® shows uncertain effects on literacy achievement across five studies
 description: Reading Apprenticeship® shows uncertain effects on literacy achievement across five studies
 id: reading-apprenticeship-uncertain-literacy-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: It took three years for new DCPS principals to achieve measurable achievement gains, with no evidence of even temporary declines
 description: It took three years for new DCPS principals to achieve measurable achievement gains, with no evidence of even temporary declines
 id: dcps-principal-gains-took-three-years-no-declines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

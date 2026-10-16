@@ -3,7 +3,7 @@ type: strategy
 id: school-level-data-systems-identify-student-support-needs
 title: Use school-level data systems to identify which students need which types of support for dropout prevention
 description: The chapter recommends that schools build systems for monitoring student data so staff can identify students at risk early and target support.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

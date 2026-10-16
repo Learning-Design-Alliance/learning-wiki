@@ -3,7 +3,7 @@ type: claim
 title: New research tracked academic growth trajectories of students who are deaf or hard of hearing across grades 2-8
 description: New research tracked academic growth trajectories of students who are deaf or hard of hearing across grades 2-8
 id: dhh-growth-trajectories-grades-2-8-study
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

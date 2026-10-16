@@ -3,7 +3,7 @@ type: claim
 title: "Families who used the app's features more extensively reported stronger changes in joint media engagement and science"
 description: "Families who used the app's features more extensively reported stronger changes in joint media engagement and science"
 id: deeper-app-use-linked-stronger-jem-changes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

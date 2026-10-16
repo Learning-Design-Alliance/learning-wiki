@@ -3,7 +3,7 @@ type: claim
 title: Only about 25 percent of teachers received an individual value-added score, with most teachers instead receiving a school-wide literacy value-added score
 description: Only about 25 percent of teachers received an individual value-added score, with most teachers instead receiving a school-wide literacy value-added score
 id: reach-only-quarter-individual-value-added
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

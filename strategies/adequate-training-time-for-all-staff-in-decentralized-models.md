@@ -3,7 +3,7 @@ type: strategy
 id: adequate-training-time-for-all-staff-in-decentralized-models
 title: Devote adequate formal training time to all school staff — especially non-team classroom teachers — when implementing a decentralized service model
 description: "The evaluation recommends that because a decentralized service model places numerous procedures and guidelines with schools, \"it is imperative that adequate time and attention be devoted to this training process.\" Its..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

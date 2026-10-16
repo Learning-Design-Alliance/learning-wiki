@@ -3,7 +3,7 @@ type: claim
 title: Interactive instruction is positively associated with one-year achievement gains in reading and mathematics in Chicago elementary schools
 description: Interactive instruction is positively associated with one-year achievement gains in reading and mathematics in Chicago elementary schools
 id: interactive-instruction-positive-achievement-gains-chicago
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

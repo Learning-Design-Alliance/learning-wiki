@@ -3,7 +3,7 @@ type: claim
 title: Discrepancies between lenient learner feedback and more critical automated feedback caused tutors confusion, distrust, and demands for rationale
 description: Discrepancies between lenient learner feedback and more critical automated feedback caused tutors confusion, distrust, and demands for rationale
 id: feedback-source-discrepancies-cause-confusion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

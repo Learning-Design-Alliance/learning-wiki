@@ -4,7 +4,7 @@ id: math-with-matt
 title: Math with Matt
 description: Math with Matt is a CTAT-based intelligent tutoring system developed by Rief et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11
@@ -31,4 +31,4 @@ Math with Matt is a CTAT-based intelligent tutoring system developed by Rief et 
 - [APLUS (Artificial Peer Learning Using SimStudent)](aplus-artificial-peer-learning-using-simstudent.md)
 
 ## Key Sources
-- Rief, V., Hladký, M., Yoo, M., Heel, S., Sato, S., Nagashima, T. (2026). Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning. https://arxiv.org/abs/2609.02611
+- Rief, V., Hladký, M., Yoo, M., Heel, S., Sato, S., Nagashima, T. (2026). Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning. https://arxiv.org/abs/2609.02611. [doi:10.48550/arxiv.2609.02611](https://doi.org/10.48550/arxiv.2609.02611)

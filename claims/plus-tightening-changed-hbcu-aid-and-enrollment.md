@@ -3,7 +3,7 @@ type: claim
 title: Tightened PLUS credit standards changed both financial aid and enrollment at HBCUs across the first two affected academic years
 description: Tightened PLUS credit standards changed both financial aid and enrollment at HBCUs across the first two affected academic years
 id: plus-tightening-changed-hbcu-aid-and-enrollment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

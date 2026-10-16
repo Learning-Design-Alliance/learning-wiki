@@ -2,7 +2,7 @@
 type: theory
 title: Language related episodes (LREs) as the operationalization of noticing in L2 writing
 description: "The article situates its method within research that operationalizes noticing and related concepts as language related episodes (LREs), citing studies such as Qi & Lapkin (2001) and Swain & Lapkin (1995)."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

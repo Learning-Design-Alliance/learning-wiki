@@ -3,7 +3,7 @@ type: research-method
 id: reproducible-educational-llm-guardrails-benchmark-and-evaluation-protocol
 title: Reproducible educational LLM guardrails benchmark and evaluation protocol
 description: A controlled holdout benchmark of 480 synthetic queries (369 injection, 111 benign) covering six attack families, with stratified bootstrap confidence intervals, paired McNemar tests, and multi-seed sensitivity sweeps, plus unified head-to-head adapter measurements.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

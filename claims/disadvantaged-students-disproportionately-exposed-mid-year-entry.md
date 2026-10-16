@@ -3,7 +3,7 @@ type: claim
 title: Poor, minority, and low-achieving students are disproportionately exposed to mid-year entry
 description: Poor, minority, and low-achieving students are disproportionately exposed to mid-year entry
 id: disadvantaged-students-disproportionately-exposed-mid-year-entry
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

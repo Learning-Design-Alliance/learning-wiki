@@ -3,7 +3,7 @@ type: strategy
 id: responsible-design-considerations-ai-assessment
 title: Address responsible design, learner experience, equity, validity, and relational assessment practice when implementing AI-agent-supported assessment
 description: "The paper closes by identifying \"ethical considerations and future research directions related to responsible design, learner experience, equity, validity, and relational assessment practice\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

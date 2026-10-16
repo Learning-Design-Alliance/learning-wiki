@@ -2,7 +2,7 @@
 type: theory
 title: The micro-credential ecosystem of issuers, earners, and recognizers
 description: "The report situates earned micro-credentials within \"a larger micro-credential ecosystem\" that \"requires three unique and distinct roles: issuers, earners, and recognizers.\" Issuers are organizations such as non-profi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

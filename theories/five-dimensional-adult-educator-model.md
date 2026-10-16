@@ -2,7 +2,7 @@
 type: theory
 title: Five-dimensional model of the adult educator with eight educator functions
 description: The adult educator is a professional who seeks to develop the educational potential of community problem-solving activity, working with the group on a continuing basis in a transactional relationship.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

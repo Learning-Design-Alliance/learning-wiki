@@ -3,7 +3,7 @@ type: claim
 title: The requirement structure decreased the percentage of graduates completing both chemistry and physics, because mandated earth or environmental science pushed the combination into a fourth year
 description: The requirement structure decreased the percentage of graduates completing both chemistry and physics, because mandated earth or environmental science pushed the combination into a fourth year
 id: cps-requirement-reduced-chemistry-physics-combination
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

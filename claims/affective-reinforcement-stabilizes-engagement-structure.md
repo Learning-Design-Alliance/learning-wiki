@@ -3,7 +3,7 @@ type: claim
 title: Affective reinforcement after a negative alert coincided with stabilization of an ongoing engagement structure, producing a brief affective shift from confusion to reassurance that returned to confusion
 description: Affective reinforcement after a negative alert coincided with stabilization of an ongoing engagement structure, producing a brief affective shift from confusion to reassurance that returned to confusion
 id: affective-reinforcement-stabilizes-engagement-structure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

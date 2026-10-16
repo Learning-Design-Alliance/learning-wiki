@@ -3,7 +3,7 @@ type: claim
 title: "The understand-solve-check cognitive model accounted for 71% of protocol subjects' verbalizations"
 description: "The understand-solve-check cognitive model accounted for 71% of protocol subjects' verbalizations"
 id: cognitive-model-captures-71-percent-verbalizations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

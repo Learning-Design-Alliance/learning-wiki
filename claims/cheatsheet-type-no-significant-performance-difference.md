@@ -3,7 +3,7 @@ type: claim
 title: Cheat sheet type was not significantly associated with exam performance on either exam, though a moderate non-significant trend favoured self-created sheets on the final
 description: Cheat sheet type was not significantly associated with exam performance on either exam, though a moderate non-significant trend favoured self-created sheets on the final
 id: cheatsheet-type-no-significant-performance-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

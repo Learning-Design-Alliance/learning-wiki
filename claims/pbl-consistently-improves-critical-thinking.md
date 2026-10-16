@@ -3,7 +3,7 @@ type: claim
 title: "Problem-based learning environments consistently improve students' critical thinking compared with lecture-based instruction"
 description: "Problem-based learning environments consistently improve students' critical thinking compared with lecture-based instruction"
 id: pbl-consistently-improves-critical-thinking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

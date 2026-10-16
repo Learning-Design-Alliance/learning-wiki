@@ -3,7 +3,7 @@ type: claim
 title: Students who rapid-guess less on a MAP Growth retest tend to see score gains, while those who rapid-guess more tend to see declines
 description: Students who rapid-guess less on a MAP Growth retest tend to see score gains, while those who rapid-guess more tend to see declines
 id: retest-engagement-gains-map-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

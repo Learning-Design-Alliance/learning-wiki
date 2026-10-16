@@ -3,7 +3,7 @@ type: claim
 title: Austin charter ELL students outperformed Austin district ELL students in reading growth
 description: Austin charter ELL students outperformed Austin district ELL students in reading growth
 id: austin-charter-ell-students-reading-advantage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

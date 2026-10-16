@@ -3,7 +3,7 @@ type: claim
 title: The WWC rates multiple UCSMP courses as having potentially positive effects on mathematics achievement for secondary students
 description: The WWC rates multiple UCSMP courses as having potentially positive effects on mathematics achievement for secondary students
 id: wwc-rating-multiple-ucsmp-courses-potentially-positive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

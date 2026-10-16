@@ -3,7 +3,7 @@ type: claim
 title: Even the best LLM grader reaches only moderate agreement with human teachers, below the threshold for good reliability
 description: Even the best LLM grader reaches only moderate agreement with human teachers, below the threshold for good reliability
 id: llm-grading-moderate-human-agreement-icc
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

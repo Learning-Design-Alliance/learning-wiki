@@ -3,7 +3,7 @@ type: claim
 title: Frequent feedback and coaching for teachers is positively associated with charter school achievement impacts
 description: Frequent feedback and coaching for teachers is positively associated with charter school achievement impacts
 id: teacher-feedback-coaching-associated-charter-success
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Connectivism is an iteration of architectonic/constructivist thought rather than a new theory of learning
 description: Connectivism is an iteration of architectonic/constructivist thought rather than a new theory of learning
 id: connectivism-iteration-of-architectonics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

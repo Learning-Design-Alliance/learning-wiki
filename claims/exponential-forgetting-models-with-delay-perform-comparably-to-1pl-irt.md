@@ -3,7 +3,7 @@ type: claim
 title: In Mnemosyne log data, exponential forgetting curve models that include a delay term perform comparably to 1PL-IRT, the best-performing benchmark model.
 description: In Mnemosyne log data, exponential forgetting curve models that include a delay term perform comparably to 1PL-IRT, the best-performing benchmark model.
 id: exponential-forgetting-models-with-delay-perform-comparably-to-1pl-irt
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

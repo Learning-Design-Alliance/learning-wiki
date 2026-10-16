@@ -3,7 +3,7 @@ type: strategy
 id: equity-centred-genai-research-priorities
 title: Prioritise equity-centred approaches, methodological diversity, contextual specificity, implementation science and interdisciplinary collaboration in GenAI research
 description: "The review's forward-looking recommendation for future research on GenAI in Global South higher education."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -44,6 +44,7 @@ The review's forward-looking recommendation for future research on GenAI in Glob
 
 - [Strengthen the evidence base with comparative and longitudinal designs and include rural, underserved, and low-resource communities before presenting GenAI as democratizing](genai-children-future-comparative-longitudinal-equity-research.md)
 - [Prioritize real-world testing of AI tools in university settings, environmental impact measurement, and integrated ethical-sustainability policies](test-ai-tools-real-university-settings-measure-impact.md)
+- [Future AIHEd research should give greater attention to ethics, methodological rigour, context, and interdisciplinary collaboration](aihed-future-research-ethics-rigour-interdisciplinarity.md)
 
 ## Examples
 -

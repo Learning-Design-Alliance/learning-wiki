@@ -3,7 +3,7 @@ type: claim
 title: Weekly AI use differs sharply across groups even though nearly all groups report similar prevalence of any AI-service use, with administrative staff highest in prevalence but lowest in weekly use
 description: Weekly AI use differs sharply across groups even though nearly all groups report similar prevalence of any AI-service use, with administrative staff highest in prevalence but lowest in weekly use
 id: weekly-use-prevalence-divergence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

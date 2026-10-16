@@ -3,7 +3,7 @@ type: claim
 title: Gender moderates the association between emotion regulation and academic motivation, with a stronger positive association among male students
 description: Gender moderates the association between emotion regulation and academic motivation, with a stronger positive association among male students
 id: gender-moderates-emotion-regulation-motivation-association
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: The threshold-like usage pattern at the lower end of the scale is strongest for training interest and accuracy trust rather than uniform across outcomes
 description: The threshold-like usage pattern at the lower end of the scale is strongest for training interest and accuracy trust rather than uniform across outcomes
 id: bottom-anchored-threshold-strongest-training-interest-accuracy-trust
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: therapy-repair-synthetic-position-location
 title: "Diagnostic and repair strategy in constructivist therapy: locate where the synthetic position sits and return it to an ordinary voice"
 description: "For constructivist and dialogical therapy, the article adds a diagnostic question — \"where in the client's society of mind has the synthetic position come to sit, and has it been installed as the promoter?\" Where it h..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

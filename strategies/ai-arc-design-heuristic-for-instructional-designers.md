@@ -3,7 +3,7 @@ type: strategy
 id: ai-arc-design-heuristic-for-instructional-designers
 title: Instructional designers use AI-ARC across analysis, design, development, and evaluation to align outcomes with responsible AI integration
 description: As a design heuristic, AI-ARC helps instructional designers structure activities and assessments that foster increasingly complex cognitive and ethical engagement with AI.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: strategy
 id: use-ai-competency-framework-as-global-reference
 title: Use the framework as a global reference to guide national AI competency frameworks, teacher training, and assessment parameters
 description: "The publication positions itself as \"a global reference\" that \"guides the development of national AI competency frameworks, informs teacher training programmes, and helps in designing assessment parameters.\" It also \"..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -52,4 +52,4 @@ The publication positions itself as "a global reference" that "guides the develo
 -
 
 ## Key Sources
-- Miao, Fengchun; Cukurova, Mutlu. (2024). AI competency framework for teachers. UNESCO. https://www.unesco.org/en/articles/ai-competency-framework-teachers
+- Miao, Fengchun; Cukurova, Mutlu. (2024). AI competency framework for teachers. UNESCO. https://www.unesco.org/en/articles/ai-competency-framework-teachers. [doi:10.54675/zjte2084](https://doi.org/10.54675/zjte2084)

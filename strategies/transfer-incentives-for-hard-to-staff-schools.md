@@ -3,7 +3,7 @@ type: strategy
 id: transfer-incentives-for-hard-to-staff-schools
 title: Use transfer incentives to place high-performing teachers in hard-to-staff schools serving disadvantaged students
 description: "A district-level staffing strategy: offer a substantial per-teacher payment to induce high-performing teachers to transfer into hard-to-staff schools."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

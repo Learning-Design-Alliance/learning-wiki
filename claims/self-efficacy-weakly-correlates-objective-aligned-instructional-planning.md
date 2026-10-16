@@ -3,7 +3,7 @@ type: claim
 title: "Pre-service primary teachers' science teaching self-efficacy beliefs correlate weakly but positively with their ability to determine suitable taxonomy, strategy, and method-techniques"
 description: "Pre-service primary teachers' science teaching self-efficacy beliefs correlate weakly but positively with their ability to determine suitable taxonomy, strategy, and method-techniques"
 id: self-efficacy-weakly-correlates-objective-aligned-instructional-planning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

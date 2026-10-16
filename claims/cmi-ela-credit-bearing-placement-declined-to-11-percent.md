@@ -3,7 +3,7 @@ type: claim
 title: Only 11 percent of first-time CMI students between spring 2022 and spring 2024 placed into credit-bearing ELA courses, down from 22 percent under the prior placement system
 description: Only 11 percent of first-time CMI students between spring 2022 and spring 2024 placed into credit-bearing ELA courses, down from 22 percent under the prior placement system
 id: cmi-ela-credit-bearing-placement-declined-to-11-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

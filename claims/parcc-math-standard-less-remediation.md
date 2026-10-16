@@ -3,7 +3,7 @@ type: claim
 title: In math, students meeting the PARCC college-ready standard are less likely to need remediation than students meeting the MCAS proficient standard
 description: In math, students meeting the PARCC college-ready standard are less likely to need remediation than students meeting the MCAS proficient standard
 id: parcc-math-standard-less-remediation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

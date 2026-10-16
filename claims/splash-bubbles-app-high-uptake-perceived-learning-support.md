@@ -3,7 +3,7 @@ type: claim
 title: "Nearly all participating families reported using the Splash and Bubbles for Parents app and found it helpful for supporting children's science learning"
 description: "Nearly all participating families reported using the Splash and Bubbles for Parents app and found it helpful for supporting children's science learning"
 id: splash-bubbles-app-high-uptake-perceived-learning-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

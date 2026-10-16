@@ -3,7 +3,7 @@ type: claim
 title: Positive reinforcement and praise correlate positively with learning while criticism correlates negatively
 description: Positive reinforcement and praise correlate positively with learning while criticism correlates negatively
 id: praise-positive-criticism-negative-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

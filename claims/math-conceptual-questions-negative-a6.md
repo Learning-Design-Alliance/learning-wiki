@@ -3,7 +3,7 @@ type: claim
 title: Conceptual Questions about mathematics are a strong negative indicator of assignment 6 scores
 description: Conceptual Questions about mathematics are a strong negative indicator of assignment 6 scores
 id: math-conceptual-questions-negative-a6
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

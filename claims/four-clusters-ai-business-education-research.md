@@ -3,7 +3,7 @@ type: claim
 title: "A decade of AI-in-business-education research clusters into four major themes: AI-driven transformation, innovative digital pedagogies, AI-enhanced personalization, and digital-economy alignment"
 description: "A decade of AI-in-business-education research clusters into four major themes: AI-driven transformation, innovative digital pedagogies, AI-enhanced personalization, and digital-economy alignment"
 id: four-clusters-ai-business-education-research
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

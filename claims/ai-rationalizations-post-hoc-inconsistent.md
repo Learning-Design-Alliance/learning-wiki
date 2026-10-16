@@ -3,7 +3,7 @@ type: claim
 title: "Students' moral rationalizations of AI use are typically post hoc and often internally inconsistent"
 description: "Students' moral rationalizations of AI use are typically post hoc and often internally inconsistent"
 id: ai-rationalizations-post-hoc-inconsistent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -2,7 +2,7 @@
 type: theory
 title: "Piaget's three memory types: recognition, reconstruction, and evocation"
 description: "Zaichkowsky's paper presents Piaget's developmental distinction among memory types: 'Piaget uses hts rearth to demonstrate the developmental difference between threetypes of memory, which he callsrecognition, reconstr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

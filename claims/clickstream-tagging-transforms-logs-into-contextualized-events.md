@@ -3,7 +3,7 @@ type: claim
 title: Instructor co-designed tagging transforms raw LMS log data into structured event data reflecting course design and temporal context
 description: Instructor co-designed tagging transforms raw LMS log data into structured event data reflecting course design and temporal context
 id: clickstream-tagging-transforms-logs-into-contextualized-events
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

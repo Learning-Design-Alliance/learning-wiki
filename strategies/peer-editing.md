@@ -64,7 +64,7 @@ Peer editing works because evaluating someone else's text forces learners to app
 - [Formative Feedback Loops](formative-feedback-loops.md) — peer editing is one cycle within a broader feedback system
 
 ## Examples
-- **Calibrated Peer Review (CPR)** (https://cpr.molsci.ucla.edu) — web system where students calibrate against instructor-anchored texts before reviewing peers, widely used in STEM writing assignments.
+- **[Calibrated Peer Review](calibrated_peer_review.md) (CPR)** (https://cpr.molsci.ucla.edu) — web system where students calibrate against instructor-anchored texts before reviewing peers, widely used in STEM writing assignments.
 - **Peerceptiv** (https://peerceptiv.com) — anonymized multi-reviewer workflow that grades both documents and review helpfulness.
 - **Writing workshop model** (elementary/secondary ELA) — students exchange drafts in pairs with author's-checklist prompts, then confer verbally before revising.
 

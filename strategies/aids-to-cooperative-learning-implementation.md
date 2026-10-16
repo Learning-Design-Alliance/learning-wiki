@@ -3,7 +3,7 @@ type: strategy
 id: aids-to-cooperative-learning-implementation
 title: Implement cooperative learning with real problems, slow growth, team building, a safe environment, teacher modeling, mixed academic levels, and a teacher shift from directing to facilitating
 description: The handbook lists eight aids to cooperative learning for adult classrooms.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

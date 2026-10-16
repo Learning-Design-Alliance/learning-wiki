@@ -3,7 +3,7 @@ type: claim
 title: Many agentic multi-agent implementations remain at prototype or conceptual stage with limited large-scale deployment and empirical validation
 description: Many agentic multi-agent implementations remain at prototype or conceptual stage with limited large-scale deployment and empirical validation
 id: agentic-multi-agent-systems-lack-empirical-validation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

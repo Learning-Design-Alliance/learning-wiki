@@ -3,7 +3,7 @@ type: claim
 title: "Rural youth report less access to internship opportunities than urban peers (38% vs. 55%)"
 description: "Rural youth report less access to internship opportunities than urban peers (38% vs."
 id: rural-youth-internship-access-gap-38-vs-55
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

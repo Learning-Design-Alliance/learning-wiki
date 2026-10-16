@@ -4,7 +4,7 @@ id: kite-evaluation-dataset-of-109-instructor-verified-questions-from-an-introdu
 title: KITE evaluation dataset of 109 instructor-verified questions from an Introduction to AI course
 description: "A dataset of 109 instructor-verified questions and reference answers drawn from an Introduction to AI course's lecture slides and textbook, created for evaluating educational question-answering systems."
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

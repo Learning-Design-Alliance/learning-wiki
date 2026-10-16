@@ -3,7 +3,7 @@ type: method
 id: description-questions-topic-dependent-subquestions
 title: Description questions are answered by addressing a topic-dependent subset of Wh- and How subquestions
 description: Description questions ask students to describe a person, place, or thing by giving its characteristics or properties, including definitions of concepts.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

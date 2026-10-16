@@ -3,7 +3,7 @@ type: element
 id: acrl-framework-information-literacy-higher-education
 title: ACRL Framework for Information Literacy for Higher Education
 description: "The Association of College and Research Libraries' 2015 Framework, adopted as a revision of the 2000 Information Literacy Competency Standards, comprising six frames: authority is constructed and contextual, informati..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

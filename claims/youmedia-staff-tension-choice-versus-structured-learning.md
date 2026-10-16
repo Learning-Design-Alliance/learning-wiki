@@ -3,7 +3,7 @@ type: claim
 title: YOUmedia staff struggled at times to balance teen choice of activities with structured learning activities
 description: YOUmedia staff struggled at times to balance teen choice of activities with structured learning activities
 id: youmedia-staff-tension-choice-versus-structured-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

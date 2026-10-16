@@ -4,7 +4,7 @@ id: twelve-together
 title: Twelve Together
 description: A one-year voluntary peer-support and mentoring programme for middle- and high-school students, delivered through facilitated discussion groups and complementary academic, social, and college-oriented activities.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

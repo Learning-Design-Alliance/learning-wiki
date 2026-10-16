@@ -3,7 +3,7 @@ type: claim
 title: Engage-to-Unlock participants incorporated less verbatim AI-response text into final essays than Standard Chatbot participants
 description: Engage-to-Unlock participants incorporated less verbatim AI-response text into final essays than Standard Chatbot participants
 id: engage-to-unlock-lower-ai-text-coverage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Using more representations of mathematical ideas is associated with increased student math achievement
 description: Using more representations of mathematical ideas is associated with increased student math achievement
 id: more-representations-mathematical-ideas-higher-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

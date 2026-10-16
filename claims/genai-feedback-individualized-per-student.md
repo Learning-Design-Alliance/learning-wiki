@@ -3,7 +3,7 @@ type: claim
 title: ChatGPT and DeepSeek feedback differed from student to student in technical content, repertoire and address style, providing an individualized approach
 description: ChatGPT and DeepSeek feedback differed from student to student in technical content, repertoire and address style, providing an individualized approach
 id: genai-feedback-individualized-per-student
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -44,3 +44,4 @@ Qualitative content analysis of the weekly AI feedback texts collected from the 
 
 ## Related Claims
 - [Students reported satisfaction with the detailed analyses, personalized multi-dimensional recommendations and motivational guidance provided by the AI systems](students-satisfied-with-genai-feedback-quality.md) — related
+- [Providing all students with instant personalised guidance at the same time is a challenge for flipped learning that ChatGPT-FLGA was designed to address](flipped-learning-personalised-guidance-gap.md) — a broader claim this one bears on

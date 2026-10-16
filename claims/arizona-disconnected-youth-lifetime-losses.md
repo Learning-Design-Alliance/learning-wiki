@@ -3,7 +3,7 @@ type: claim
 title: Each disconnected youth in Arizona incurs a lifetime social loss of $695,090 and fiscal loss of $234,480, totaling $127.3 billion social and $43.0 billion fiscal per cohort of 183,200
 description: Each disconnected youth in Arizona incurs a lifetime social loss of $695,090 and fiscal loss of $234,480, totaling $127.3 billion social and $43.0 billion fiscal per cohort of 183,200
 id: arizona-disconnected-youth-lifetime-losses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

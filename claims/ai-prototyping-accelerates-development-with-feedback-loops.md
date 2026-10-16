@@ -3,7 +3,7 @@ type: claim
 title: AI-supported prototyping combined with educator feedback loops accelerated development and surfaced usability issues early in one K-2 literacy tool project
 description: AI-supported prototyping combined with educator feedback loops accelerated development and surfaced usability issues early in one K-2 literacy tool project
 id: ai-prototyping-accelerates-development-with-feedback-loops
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

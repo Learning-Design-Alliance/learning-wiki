@@ -3,7 +3,7 @@ type: claim
 title: Reported benefits of Pepper centre on motivation and engagement, with social-skill and academic-performance gains reported less frequently
 description: Reported benefits of Pepper centre on motivation and engagement, with social-skill and academic-performance gains reported less frequently
 id: pepper-benefits-motivation-engagement-social-skills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

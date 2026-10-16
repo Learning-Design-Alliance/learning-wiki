@@ -3,7 +3,7 @@ type: claim
 title: "TRGP-funded residents represent a small fraction of California's teacher supply: 428 residents enrolled in 2022-23 against 14,298 substandard credentials issued"
 description: "TRGP-funded residents represent a small fraction of California's teacher supply: 428 residents enrolled in 2022-23 against 14,298 substandard credentials issued"
 id: trgp-small-fraction-of-statewide-teacher-supply
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

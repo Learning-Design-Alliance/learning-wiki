@@ -3,7 +3,7 @@ type: strategy
 id: sound-partners-paraprofessional-training-strategy
 title: Train paraprofessionals to deliver Sound Partners lessons using a local trainer plus manual and video-based professional development
 description: "The program's staffing model uses local trainers to prepare paraprofessional tutors: \"A local trainer (reading specialist, teacher, or special education teacher) will train the local tutors (educational assistants and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

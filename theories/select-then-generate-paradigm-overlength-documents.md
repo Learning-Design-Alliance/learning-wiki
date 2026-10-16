@@ -2,7 +2,7 @@
 type: theory
 title: Select-then-generate paradigm for feedback generation on overlength documents
 description: The select-then-generate paradigm decomposes feedback generation for long documents into two sequential sub-problems.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

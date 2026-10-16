@@ -3,7 +3,7 @@ type: claim
 title: MAPS-guided critique preparation led students to identify more expert-aligned weaknesses in an AI solution than independent problem-solving preparation
 description: MAPS-guided critique preparation led students to identify more expert-aligned weaknesses in an AI solution than independent problem-solving preparation
 id: maps-guided-critique-supports-expert-aligned-evaluation-of-ai-solutions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

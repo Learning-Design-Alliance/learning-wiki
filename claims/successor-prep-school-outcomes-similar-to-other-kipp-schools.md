@@ -3,7 +3,7 @@ type: claim
 title: Successor Prep school outcomes appeared similar to other KIPP schools, though substantial differences cannot be ruled out
 description: Successor Prep school outcomes appeared similar to other KIPP schools, though substantial differences cannot be ruled out
 id: successor-prep-school-outcomes-similar-to-other-kipp-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

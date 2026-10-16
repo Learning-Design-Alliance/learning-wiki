@@ -3,7 +3,7 @@ type: claim
 title: Universities widely view AI as a strategic priority but few have formalised senior AI leadership roles, per the EDUCAUSE survey the review reports
 description: Universities widely view AI as a strategic priority but few have formalised senior AI leadership roles, per the EDUCAUSE survey the review reports
 id: ai-strategic-priority-versus-senior-ai-roles-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: CoTAL reduced false positives in Rules Task subscore predictions from 7 to 1 while increasing false negatives by only 1, via active-learning targeting of persistent errors
 description: CoTAL reduced false positives in Rules Task subscore predictions from 7 to 1 while increasing false negatives by only 1, via active-learning targeting of persistent errors
 id: cotal-reduces-false-positives-rules-task
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

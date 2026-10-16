@@ -3,7 +3,7 @@ type: strategy
 id: dual-language-resource-planning-strategy
 title: "Plan dual language program resources: personnel, facilities, and partner-language materials"
 description: "The report advises educators planning dual language programs to budget for three resource categories: personnel (additional administrative and instructional staff, training, and teacher time for translating English ma..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

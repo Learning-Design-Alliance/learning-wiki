@@ -2,7 +2,7 @@
 type: theory
 title: "Three-positioning taxonomy: teachers position classroom AI as a teaching partner, a grading assistant, or a substitute teacher"
 description: The article proposes an inductively derived taxonomy of how teachers position an AI writing tool in instruction.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

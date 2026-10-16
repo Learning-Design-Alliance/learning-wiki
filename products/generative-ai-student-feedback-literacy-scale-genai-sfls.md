@@ -4,7 +4,7 @@ id: generative-ai-student-feedback-literacy-scale-genai-sfls
 title: Generative AI Student Feedback Literacy Scale (GenAI-SFLS)
 description: A 39-item Chinese-language self-report scale developed by Cui et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

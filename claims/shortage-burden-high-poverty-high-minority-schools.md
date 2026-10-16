@@ -3,7 +3,7 @@ type: claim
 title: Teacher shortages fall disproportionately on high-poverty and high-minority schools, which had four times as many uncertified teachers in 2013–14
 description: Teacher shortages fall disproportionately on high-poverty and high-minority schools, which had four times as many uncertified teachers in 2013–14
 id: shortage-burden-high-poverty-high-minority-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -18,8 +18,8 @@ sources:
     kind: associational
     rigour: 2
   - id: sutcher-2016-2
-    resource: "https://learningpolicyinstitute.org/product/coming-crisis-teaching"
-    title: "Sutcher, L., Darling-Hammond, L., & Carver-Thomas, D. (2016). A coming crisis in teaching? Teacher supply, demand, and shortages in the U.S. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/coming-crisis-teaching"
+    resource: "https://doi.org/10.54300/247.242"
+    title: "Sutcher, L., Darling-Hammond, L., & Carver-Thomas, D. (2016). A coming crisis in teaching? Teacher supply, demand, and shortages in the U.S. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/coming-crisis-teaching. [doi:10.54300/247.242](https://doi.org/10.54300/247.242)"
     author: "Sutcher, L., Darling-Hammond, L., & Carver-Thomas, D."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Teacher shortages fall disproportionately on high-poverty and high-minority schools, which had four times as many uncertified teachers in 2013–14
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In 2013–14, schools in the top quartile of minority enrollment had four times as many uncertified teachers as schools in the bottom quartile. [→ Sutcher 2016](#sutcher-2016)
@@ -50,7 +50,7 @@ Analysis of the Civil Rights Data Collection, a universal survey of all public s
 
 ### Sutcher 2016 (2)
 
-Sutcher, L., Darling-Hammond, L., & Carver-Thomas, D. (2016). A coming crisis in teaching? Teacher supply, demand, and shortages in the U.S. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/coming-crisis-teaching
+Sutcher, L., Darling-Hammond, L., & Carver-Thomas, D. (2016). A coming crisis in teaching? Teacher supply, demand, and shortages in the U.S. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/coming-crisis-teaching. [doi:10.54300/247.242](https://doi.org/10.54300/247.242)
 
 `q2 · i?` · `associational · r2`
 

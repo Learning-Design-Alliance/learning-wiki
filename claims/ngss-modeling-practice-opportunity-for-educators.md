@@ -3,7 +3,7 @@ type: claim
 title: The inclusion of developing and using models in K-12 science standards creates an opportunity to examine the role of modeling in science classrooms
 description: The inclusion of developing and using models in K-12 science standards creates an opportunity to examine the role of modeling in science classrooms
 id: ngss-modeling-practice-opportunity-for-educators
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

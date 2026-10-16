@@ -3,7 +3,7 @@ type: claim
 title: Unconstrained topic writing produces frivolous resolutions that perpetuate non-argumentative practices
 description: Unconstrained topic writing produces frivolous resolutions that perpetuate non-argumentative practices
 id: unconstrained-topic-writing-yields-frivolous-resolutions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

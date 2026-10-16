@@ -3,7 +3,7 @@ type: claim
 title: Eighth-grade students navigating high school choice considered three main categories of factors—setting, school, and student factors—plus two overarching concepts of a good school and fit
 description: Eighth-grade students navigating high school choice considered three main categories of factors—setting, school, and student factors—plus two overarching concepts of a good school and fit
 id: three-categories-student-choice-factors-high-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Lesson designers report LLM-generated lessons save substantial time drafting scenarios and multiple-choice questions
 description: Lesson designers report LLM-generated lessons save substantial time drafting scenarios and multiple-choice questions
 id: llm-lessons-time-saving-scenario-drafting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

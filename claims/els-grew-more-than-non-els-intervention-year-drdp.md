@@ -3,7 +3,7 @@ type: claim
 title: "During the intervention year, EL preschoolers' DRDP scores were predicted to increase more than Non-ELs' scores in all five DRDP domains after controlling for pretest, with statistically significant differences in ATL-REG and PD"
 description: "During the intervention year, EL preschoolers' DRDP scores were predicted to increase more than Non-ELs' scores in all five DRDP domains after controlling for pretest, with statistically significant differences in ATL..."
 id: els-grew-more-than-non-els-intervention-year-drdp
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

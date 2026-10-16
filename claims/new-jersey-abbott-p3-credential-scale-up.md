@@ -3,7 +3,7 @@ type: claim
 title: "New Jersey's Abbott P-3 credential mandate, with scholarships, pay parity, and expanded higher education capacity, rapidly raised credentialed preschool teacher supply"
 description: "New Jersey's Abbott P-3 credential mandate, with scholarships, pay parity, and expanded higher education capacity, rapidly raised credentialed preschool teacher supply"
 id: new-jersey-abbott-p3-credential-scale-up
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

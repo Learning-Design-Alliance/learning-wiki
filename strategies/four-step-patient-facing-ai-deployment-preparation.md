@@ -3,7 +3,7 @@ type: strategy
 id: four-step-patient-facing-ai-deployment-preparation
 title: "Four-step deployment preparation for patient-facing generative AI: audit, triage, fill priority gaps, and retain evidence"
 description: "The article's implications section gives health-IT teams a four-part recipe for preparing patient-facing generative AI grounded in institutional education materials: audit coverage and clarify differing guidance, use..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -87,7 +87,7 @@ Students who receive self-determination instruction show greater goal attainment
 - **AIR Self-Determination Scale** — student, teacher, and parent forms for assessing self-determination capacity
 
 ## Examples
-- **Student-led IEPs**: students prepare and present their strengths, needs, and goals at their own IEP meeting, using slide templates and rehearsal sessions; widely implemented through programs like I'm Determined.
+- **[Student-led IEPs](student-led-ieps.md)**: students prepare and present their strengths, needs, and goals at their own IEP meeting, using slide templates and rehearsal sessions; widely implemented through programs like I'm Determined.
 - **SDLIM in secondary content classes**: teachers at high schools implementing the Self-Determined Learning Model of Instruction have students set and monitor academic goals within algebra or English coursework.
 - **Work-based learning with self-advocacy coaching**: transition programs pair community job placements with explicit instruction in disclosing needs and requesting workplace accommodations.
 

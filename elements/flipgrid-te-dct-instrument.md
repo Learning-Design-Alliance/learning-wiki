@@ -3,7 +3,7 @@ type: element
 id: flipgrid-te-dct-instrument
 title: Flipgrid-based technology-enhanced DCT (TE-DCT) for eliciting nonverbal pragmatic data
 description: "A data-elicitation instrument in which each discourse completion scenario pairs a written description (in the participant's L1) with a 3–5 second video clip showing spatial elements such as \"distance to interlocutor,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

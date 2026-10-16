@@ -3,7 +3,7 @@ type: claim
 title: Waterford Early Reading Program™ showed no discernible effects on comprehension, with a small non-significant effect size on vocabulary
 description: Waterford Early Reading Program™ showed no discernible effects on comprehension, with a small non-significant effect size on vocabulary
 id: werp-no-discernible-comprehension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

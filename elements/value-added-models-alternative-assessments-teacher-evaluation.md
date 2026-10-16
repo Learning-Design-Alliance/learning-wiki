@@ -3,7 +3,7 @@ type: element
 id: value-added-models-alternative-assessments-teacher-evaluation
 title: Value-added models using end-of-course assessments or commercially available tests instead of state assessments
 description: "One of the two alternative measure types profiled in the report: value-added models that substitute different assessment sources for typical state assessments."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

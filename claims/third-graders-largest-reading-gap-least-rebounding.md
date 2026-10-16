@@ -3,7 +3,7 @@ type: claim
 title: Current third-graders showed the largest reading achievement gap and the least rebounding
 description: Current third-graders showed the largest reading achievement gap and the least rebounding
 id: third-graders-largest-reading-gap-least-rebounding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

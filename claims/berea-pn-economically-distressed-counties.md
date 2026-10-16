@@ -3,7 +3,7 @@ type: claim
 title: The Berea College Promise Neighborhood serves counties with per capita income significantly lower than state and national averages
 description: The Berea College Promise Neighborhood serves counties with per capita income significantly lower than state and national averages
 id: berea-pn-economically-distressed-counties
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

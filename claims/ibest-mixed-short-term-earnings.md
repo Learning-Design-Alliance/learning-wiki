@@ -3,7 +3,7 @@ type: claim
 title: I-BEST has potentially positive effects on short-term earnings, with mixed results across states (average improvement index 0)
 description: I-BEST has potentially positive effects on short-term earnings, with mixed results across states (average improvement index 0)
 id: ibest-mixed-short-term-earnings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

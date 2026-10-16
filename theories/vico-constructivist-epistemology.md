@@ -2,7 +2,7 @@
 type: theory
 title: "Vico's principle that we can rationally know only what we ourselves have made as an early formulation of constructivism"
 description: "The book identifies Giambattista Vico's 1710 treatise on epistemology as, as far as the author knows, a first explicit formulation of constructivism."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

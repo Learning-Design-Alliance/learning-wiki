@@ -3,7 +3,7 @@ type: claim
 title: "DeepSeek-MoE (Ours) achieves the strongest overall balance of accuracy among tested configurations, reaching 78.6% overall and 81.2% multi-hop reasoning accuracy on a 300-query OER evaluation set"
 description: "DeepSeek-MoE (Ours) achieves the strongest overall balance of accuracy among tested configurations, reaching 78.6% overall and 81.2% multi-hop reasoning accuracy on a 300-query OER evaluation set"
 id: deepseek-moe-ours-strongest-accuracy-balance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

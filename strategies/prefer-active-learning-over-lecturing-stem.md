@@ -3,7 +3,7 @@ type: strategy
 id: prefer-active-learning-over-lecturing-stem
 title: Adopt active learning as the default in regular undergraduate STEM classrooms and shift research away from lecturing controls
 description: "Based on the meta-analytic evidence, the authors recommend abandoning traditional lecturing in favor of active learning in regular STEM classrooms, and they question \"the continued use of traditional lecturing as a co..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

@@ -3,7 +3,7 @@ type: strategy
 id: voice-as-pedagogical-resource-pd
 title: Professional development treating teacher voice as a pedagogical resource in team teaching
 description: The article recommends that professional development for team teaching treat teacher voice as a pedagogical resource for coordinating classroom activity rather than merely a channel for transmitting content.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

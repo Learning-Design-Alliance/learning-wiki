@@ -113,7 +113,7 @@ Discussion produces learning only when students actually reason with one another
 - **Accountable Talk (Institute for Learning, University of Pittsburgh)** — a published norm framework organized around accountability to the learning community, accurate knowledge, and rigorous reasoning: [https://ifl.pitt.edu](https://ifl.pitt.edu)
 - **Complex Instruction (Cohen & Lotan, Stanford)** — pairs participation norms with status treatments and role assignments to equalize group talk: [https://complexinstruction.stanford.edu](https://complexinstruction.stanford.edu)
 - **P4C (Philosophy for Children)** — communities of inquiry built on explicit norms of reason-giving and respectful challenge, with documented gains in reasoning measures.
-- **Accountable Talk** (Institute for Learning, University of Pittsburgh) — a researched framework of talk norms organized around accountability to the learning community, knowledge, and reasoning standards (https://ifl.pitt.edu)
+- **[Accountable Talk](accountable_talk.md)** (Institute for Learning, University of Pittsburgh) — a researched framework of talk norms organized around accountability to the learning community, knowledge, and reasoning standards (https://ifl.pitt.edu)
 - **Socratic Seminar protocols** — norms such as "refer to the text" and "one speaker at a time," typically co-reviewed before each seminar
 - **Intentional Talk** (Kazemi & Hintz, 2014) — norms and structures for productive mathematical discussion in elementary classrooms
 
@@ -123,7 +123,7 @@ Discussion produces learning only when students actually reason with one another
 - Murphy, P. K., Wilkinson, I. A. G., Soter, A. O., Hennessey, M. N., & Alexander, J. F. (2009). Examining the effects of classroom discussion on students' comprehension of text: A meta-analysis. *Journal of Educational Psychology, 101*(3), 740–764. [doi:10.1037/a0015576](https://doi.org/10.1037/a0015576)
 - Alexander, R. (2018). Developing dialogic teaching: Genesis, process, trial. *Research Papers in Education, 33*(5), 561–581. [doi:10.1080/02671522.2018.1481140](https://doi.org/10.1080/02671522.2018.1481140)
 - Resnick, L. B., Michaels, S., & O'Connor, C. (2010). How (well-structured) talk builds the mind. In D. D. Preiss & R. J. Sternberg (Eds.), *Innovations in educational psychology* (pp. 163–194). Springer.
-- Mercer, N. (2008). The seeds of time: Why classroom dialogue needs a temporal analysis. *The Journal of the Learning Sciences, 17*(1), 33–59. [doi:10.1080/10508400701793182](https://doi.org/10.1080/10508400701793182)
+- Mercer, N. (2008). The seeds of time: Why classroom dialogue needs a temporal analysis. *Journal of the Learning Sciences, 17*(1), 33–59. [doi:10.1080/10508400701793182](https://doi.org/10.1080/10508400701793182)
 - O'Connor, C., & Michaels, S. (2007). When is dialogue "dialogic"? *Human Development, 50*(5), 275–285.
 - Cohen, E. G., & Lotan, R. A. (2014). *Designing groupwork: Strategies for the heterogeneous classroom* (3rd ed.). Teachers College Press.
 - Alexander, R. (2018). *Towards dialogic teaching: Rethinking classroom talk* (5th ed.). Dialogos.
@@ -194,7 +194,7 @@ Discussion quality depends less on the topic than on the interactional rules gov
 - **P4C (Philosophy for Children)** — communities of inquiry built on explicit norms of reason-giving and respectful challenge, with documented gains in reasoning measures.
 
 ## Key Sources
-- Mercer, N. (2008). The seeds of time: Why classroom dialogue needs a temporal analysis. *The Journal of the Learning Sciences, 17*(1), 33–59. [doi:10.1080/10508400701793182](https://doi.org/10.1080/10508400701793182)
+- Mercer, N. (2008). The seeds of time: Why classroom dialogue needs a temporal analysis. *Journal of the Learning Sciences, 17*(1), 33–59. [doi:10.1080/10508400701793182](https://doi.org/10.1080/10508400701793182)
 - O'Connor, C., & Michaels, S. (2007). When is dialogue "dialogic"? *Human Development, 50*(5), 275–285.
 - Cohen, E. G., & Lotan, R. A. (2014). *Designing groupwork: Strategies for the heterogeneous classroom* (3rd ed.). Teachers College Press.
 - Resnick, L. B., Michaels, S., & O'Connor, C. (2010). How (well-structured) talk builds the mind. In D. D. Preiss & R. J. Sternberg (Eds.), *Innovations in educational psychology* (pp. 163–194). Springer.

@@ -3,7 +3,7 @@ type: claim
 title: "Among 24 Topeka teachers, half positioned the AI as a teaching partner, 29% as a grading assistant, and 21% as a substitute teacher"
 description: "Among 24 Topeka teachers, half positioned the AI as a teaching partner, 29% as a grading assistant, and 21% as a substitute teacher"
 id: teacher-positioning-distribution-topeka
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

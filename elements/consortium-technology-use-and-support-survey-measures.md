@@ -3,7 +3,7 @@ type: element
 id: consortium-technology-use-and-support-survey-measures
 title: Technology Use and Support survey measures
 description: The UChicago Consortium formed seven measures from survey items asking teachers and students about computer access, computer usage, and the availability of resources that facilitate the inclusion of technology in the...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

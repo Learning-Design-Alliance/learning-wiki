@@ -3,7 +3,7 @@ type: claim
 title: Primary metrics improved during US holidays, attributed to more motivated voluntary users
 description: Primary metrics improved during US holidays, attributed to more motivated voluntary users
 id: holiday-usage-motivation-metric-improvements
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -4,7 +4,7 @@ id: kite-knowledge-informed-tutoring-engine
 title: KITE (Knowledge-Informed Tutoring Engine)
 description: KITE is a course-grounded intelligent tutoring system developed by Mragisha Jain et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Poorly designed or misused assessment practices can harm students through increased anxiety, lost learning time, and deficit-based messages
 description: Poorly designed or misused assessment practices can harm students through increased anxiety, lost learning time, and deficit-based messages
 id: poor-assessment-practices-harm-students-anxiety-lost-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

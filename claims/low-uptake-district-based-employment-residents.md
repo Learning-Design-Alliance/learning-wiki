@@ -3,7 +3,7 @@ type: claim
 title: Most residency programs offer district-based employment opportunities, but fewer than half of residents participate, mainly due to time and schedule conflicts
 description: Most residency programs offer district-based employment opportunities, but fewer than half of residents participate, mainly due to time and schedule conflicts
 id: low-uptake-district-based-employment-residents
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

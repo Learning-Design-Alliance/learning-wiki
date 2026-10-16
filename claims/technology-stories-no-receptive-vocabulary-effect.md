@@ -3,7 +3,7 @@ type: claim
 title: Technology-enhanced stories show no significant additional effect on receptive vocabulary compared with traditional storybook reading
 description: Technology-enhanced stories show no significant additional effect on receptive vocabulary compared with traditional storybook reading
 id: technology-stories-no-receptive-vocabulary-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

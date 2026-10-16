@@ -3,7 +3,7 @@ type: claim
 title: "Summer bridge programs have potentially positive effects on college degree attainment, with graduation rates of 70% for participants versus 67% for non-participants"
 description: "Summer bridge programs have potentially positive effects on college degree attainment, with graduation rates of 70% for participants versus 67% for non-participants"
 id: summer-bridge-potentially-positive-degree-attainment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

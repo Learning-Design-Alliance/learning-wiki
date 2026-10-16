@@ -3,7 +3,7 @@ type: claim
 title: The neural-symbolic architecture enables empirical evaluation of embedded pedagogical rules, showing that repeated-incorrect (non-mastery) patterns play a stronger role in prediction updates
 description: The neural-symbolic architecture enables empirical evaluation of embedded pedagogical rules, showing that repeated-incorrect (non-mastery) patterns play a stronger role in prediction updates
 id: non-mastery-rules-stronger-prediction-role
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

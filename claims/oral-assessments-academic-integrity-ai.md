@@ -3,7 +3,7 @@ type: claim
 title: Oral assessments are recommended as a strategy to maintain academic integrity against AI use
 description: Oral assessments are recommended as a strategy to maintain academic integrity against AI use
 id: oral-assessments-academic-integrity-ai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

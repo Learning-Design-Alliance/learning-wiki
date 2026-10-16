@@ -3,7 +3,7 @@ type: strategy
 id: co-research-co-design-collaborative-innovation-studio
 title: Use a co-research and co-design process such as the Collaborative Innovation Studio model
 description: The article recommends a specific implementable process for building pathway design capacity.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

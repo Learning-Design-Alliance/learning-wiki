@@ -3,7 +3,7 @@ type: research-method
 id: five-axis-evidence-map-framework-a-technical-axis-read-against-four-value-dimensions
 title: "Five-axis evidence map framework: a technical axis read against four value dimensions"
 description: "The review's organizing framework separates technical sophistication (RQ1: tasks, methods, technological families, contexts) from four analytically separate value dimensions (RQ2–RQ5)."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11
@@ -29,4 +29,4 @@ The review's organizing framework separates technical sophistication (RQ1: tasks
 -
 
 ## Key Sources
-- Eicher, J., & da Silva, R. (2026). From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026. arXiv. https://arxiv.org/abs/2609.27939
+- Eicher, J., & da Silva, R. (2026). From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026. arXiv. https://arxiv.org/abs/2609.27939. [doi:10.48550/arxiv.2609.27939](https://doi.org/10.48550/arxiv.2609.27939)

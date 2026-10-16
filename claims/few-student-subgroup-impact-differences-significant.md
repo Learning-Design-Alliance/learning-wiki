@@ -3,7 +3,7 @@ type: claim
 title: "Student subgroup impact differences were rarely statistically significant: six of 288 differences in the second cohort and eight of 360 subgroup analyses in the follow-up year."
 description: "Student subgroup impact differences were rarely statistically significant: six of 288 differences in the second cohort and eight of 360 subgroup analyses in the follow-up year."
 id: few-student-subgroup-impact-differences-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

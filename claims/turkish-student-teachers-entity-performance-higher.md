@@ -3,7 +3,7 @@ type: claim
 title: Turkish student teachers score higher on entity theory than incremental theory and on performance goal orientation than learning goal orientation
 description: Turkish student teachers score higher on entity theory than incremental theory and on performance goal orientation than learning goal orientation
 id: turkish-student-teachers-entity-performance-higher
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

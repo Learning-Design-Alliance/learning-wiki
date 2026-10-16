@@ -3,7 +3,7 @@ type: claim
 title: Teachers who find using AI enjoyable, engaging and satisfying (intrinsic/interest value) may be more motivated to use it (theoretical argument).
 description: Teachers who find using AI enjoyable, engaging and satisfying (intrinsic/interest value) may be more motivated to use it (theoretical argument).
 id: teacher-intrinsic-interest-value-increases-motivation-to-use-ai
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

@@ -3,7 +3,7 @@ type: strategy
 id: use-attrition-findings-inform-retention-efforts
 title: "Use attrition findings to inform staff retention efforts aligned with Pennsylvania's educator workforce strategy"
 description: "The brief positions its descriptive attrition findings as an input for retention policy: \"The findings can inform staff retention efforts, consistent with the Pennsylvania Department of Education's (PDE's) Pennsylvani..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

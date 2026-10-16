@@ -66,9 +66,9 @@ Role assignment operationalizes the positive interdependence and individual acco
 - [Use group roles, rotating roles, shared rubrics, and product-and-process debriefs to foster belonging in group work](group-roles-rubrics-debriefs-belonging.md)
 
 ## Examples
-- **Reciprocal Teaching (Palincsar & Brown)** — students rotate through predictor, questioner, clarifier, and summarizer roles while reading expository text; the roles encode the comprehension strategies being taught.
+- **[Reciprocal Teaching](reciprocal_teaching.md) (Palincsar & Brown)** — students rotate through predictor, questioner, clarifier, and summarizer roles while reading expository text; the roles encode the comprehension strategies being taught.
 - **PBLWorks (Buck Institute) project-based learning** — project teams use assigned roles (project manager, researcher, presenter) with rotation checkpoints across a multi-week project ([pblworks.org](https://www.pblworks.org)).
-- **Complex Instruction (Cohen & Lotan)** — assigns roles explicitly to equalize status in heterogeneous math classrooms, with "group roles" such as facilitator and recorder introduced as tools for accessing the mathematics.
+- **[Complex Instruction](complex_instruction.md) (Cohen & Lotan)** — assigns roles explicitly to equalize status in heterogeneous math classrooms, with "group roles" such as facilitator and recorder introduced as tools for accessing the mathematics.
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)

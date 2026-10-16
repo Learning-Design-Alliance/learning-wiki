@@ -3,7 +3,7 @@ type: strategy
 id: process-driven-math-auditory-bvi
 title: Use process driven math to break math problems into navigable pieces for students accessing math auditorily
 description: Process driven math, developed by researchers in the Logan Project, addresses cognitive load for BVI students who access math primarily through hearing.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

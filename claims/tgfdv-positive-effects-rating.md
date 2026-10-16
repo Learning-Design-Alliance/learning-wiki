@@ -3,7 +3,7 @@ type: claim
 title: The WWC rated Too Good for Drugs and Violence as having positive effects on knowledge, attitudes, and values, with a cross-study domain-average effect size of 0.42
 description: The WWC rated Too Good for Drugs and Violence as having positive effects on knowledge, attitudes, and values, with a cross-study domain-average effect size of 0.42
 id: tgfdv-positive-effects-rating
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

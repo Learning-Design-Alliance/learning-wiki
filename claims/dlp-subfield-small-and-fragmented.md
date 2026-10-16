@@ -3,7 +3,7 @@ type: claim
 title: "The DLP-as-research-infrastructure community is small and fragmented: the DLP-focused cluster was one of five bibliographic-coupling communities and only 20.6% of filtered papers"
 description: "The DLP-as-research-infrastructure community is small and fragmented: the DLP-focused cluster was one of five bibliographic-coupling communities and only 20.6% of filtered papers"
 id: dlp-subfield-small-and-fragmented
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

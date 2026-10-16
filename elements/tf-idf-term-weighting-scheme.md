@@ -3,7 +3,7 @@ type: element
 id: tf-idf-term-weighting-scheme
 title: tf-idf term-weighting scheme from information retrieval
 description: "tf-idf is a composite weighting scheme from information retrieval that combines a term's frequency within a document with its inverse document frequency across the collection, formalized as tf(t,d) times idf(t,D)."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

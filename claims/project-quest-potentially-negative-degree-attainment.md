@@ -3,7 +3,7 @@ type: claim
 title: Project QUEST may decrease postsecondary degree attainment (improvement index -3, two studies, 1,301 students)
 description: Project QUEST may decrease postsecondary degree attainment (improvement index -3, two studies, 1,301 students)
 id: project-quest-potentially-negative-degree-attainment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

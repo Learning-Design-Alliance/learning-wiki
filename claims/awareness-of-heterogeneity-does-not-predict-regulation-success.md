@@ -2,7 +2,7 @@
 type: claim
 title: Awareness of heterogeneous problem perceptions does not by itself predict successful regulation
 id: awareness-of-heterogeneity-does-not-predict-regulation-success
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

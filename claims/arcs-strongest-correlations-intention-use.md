@@ -3,7 +3,7 @@ type: claim
 title: ARCS motivation showed the strongest correlations in the matrix with both behavioral intention and use behavior
 description: ARCS motivation showed the strongest correlations in the matrix with both behavioral intention and use behavior
 id: arcs-strongest-correlations-intention-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

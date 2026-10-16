@@ -3,7 +3,7 @@ type: claim
 title: Elementary schools strong on at least three of five essential organizational elements were 10 times more likely to improve and 30 times less likely to stagnate
 description: Elementary schools strong on at least three of five essential organizational elements were 10 times more likely to improve and 30 times less likely to stagnate
 id: five-essential-elements-three-of-five-improvement-odds
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

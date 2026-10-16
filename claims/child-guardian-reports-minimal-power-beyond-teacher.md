@@ -3,7 +3,7 @@ type: claim
 title: Child and guardian reports add minimal predictive power beyond teacher reports of noncognitive skills
 description: Child and guardian reports add minimal predictive power beyond teacher reports of noncognitive skills
 id: child-guardian-reports-minimal-power-beyond-teacher
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

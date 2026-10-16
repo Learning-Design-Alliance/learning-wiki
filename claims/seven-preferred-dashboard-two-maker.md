@@ -3,7 +3,7 @@ type: claim
 title: Seven of ten participants preferred the Dashboard, two preferred the Maker citing its side-by-side temporal display, and one was mixed
 description: Seven of ten participants preferred the Dashboard, two preferred the Maker citing its side-by-side temporal display, and one was mixed
 id: seven-preferred-dashboard-two-maker
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

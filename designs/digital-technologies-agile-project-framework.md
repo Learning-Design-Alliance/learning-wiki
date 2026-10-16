@@ -3,7 +3,7 @@ type: design
 id: digital-technologies-agile-project-framework
 title: "Digital Technologies project framework: semester-spanning agile Scrum projects as an integral third of a robotics-relevant CS curriculum"
 description: The article proposes a project-based learning framework in which students work in small teams on industry-relevant problems across multiple semesters.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

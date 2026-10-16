@@ -2,7 +2,7 @@
 type: theory
 title: "Collingwood's methodology for reconstructing the past from primary sources: re-enactment, interpolating, and interrogating"
 description: "Collingwood's methodological approach treats primary source documents and relics as evidence for imaginatively reconstructing the past through three processes."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -52,4 +52,4 @@ Collingwood's methodological approach treats primary source documents and relics
 - [Use a strategy for imagining the past built on two sets of guiding questions applied to primary source documents](../strategies/strategy-imagining-past-two-question-sets.md)
 
 ## Key Sources
-- Lemisko, L.S. (2004). The Historical Imagination: Collingwood in the Classroom. Canadian Social Studies. https://www.quasar.ualberta.ca/css
+- Lemisko, L.S. (2004). The Historical Imagination: Collingwood in the Classroom. Canadian Social Studies. https://www.quasar.ualberta.ca/css. [doi:10.29173/css130](https://doi.org/10.29173/css130)

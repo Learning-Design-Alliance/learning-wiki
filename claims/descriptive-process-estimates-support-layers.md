@@ -3,7 +3,7 @@ type: claim
 title: Supplementary process estimates linked differentiated support to lower cognitive load for low-proficiency and higher discourse awareness for intermediate learners, but were descriptive only
 description: Supplementary process estimates linked differentiated support to lower cognitive load for low-proficiency and higher discourse awareness for intermediate learners, but were descriptive only
 id: descriptive-process-estimates-support-layers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

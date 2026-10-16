@@ -3,7 +3,7 @@ type: claim
 title: Despite higher passing rates, retention rates did not fall because fewer students who failed the cutoff were promoted with waivers
 description: Despite higher passing rates, retention rates did not fall because fewer students who failed the cutoff were promoted with waivers
 id: higher-passing-rates-did-not-lower-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

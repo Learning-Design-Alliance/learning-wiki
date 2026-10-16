@@ -3,7 +3,7 @@ type: strategy
 id: offline-guided-practice-pairing
 title: "Pair online practice with offline Guided Practice materials for small group or 1:1 sessions"
 description: For every skill covered in the program, offline Guided Practice materials are available.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

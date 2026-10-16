@@ -3,7 +3,7 @@ type: strategy
 id: invite-local-elders-as-co-teachers
 title: Invite local Elders into classrooms as co-teachers of Indigenous Knowledge
 description: The study engaged two Kasena Elders, as holders of Indigenous knowledge, to visit the school weekly and teach children through outdoor learning activities tied to curriculum topics.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

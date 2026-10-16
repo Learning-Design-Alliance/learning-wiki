@@ -3,7 +3,7 @@ type: claim
 title: "Existing school-based behavioral health TA in California is siloed, and equitable access depends on local leaders' individual knowledge and networks"
 description: "Existing school-based behavioral health TA in California is siloed, and equitable access depends on local leaders' individual knowledge and networks"
 id: siloed-behavioral-health-ta-unequal-access
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

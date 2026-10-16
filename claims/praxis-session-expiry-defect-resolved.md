@@ -3,7 +3,7 @@ type: claim
 title: Authentication regressions exposed a session-expiry defect in the preceding release, and the recorded release establishes a fresh anonymous session after timeout
 description: Authentication regressions exposed a session-expiry defect in the preceding release, and the recorded release establishes a fresh anonymous session after timeout
 id: praxis-session-expiry-defect-resolved
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "Playful and creative engagement with robots supported students' learning of robotics and AI, including recognizing that robot behavior is driven by sensor data rather than human-like perception"
 description: "Playful and creative engagement with robots supported students' learning of robotics and AI, including recognizing that robot behavior is driven by sensor data rather than human-like perception"
 id: playful-exploration-supports-robotics-ai-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

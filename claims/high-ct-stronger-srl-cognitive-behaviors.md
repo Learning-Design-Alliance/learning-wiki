@@ -3,7 +3,7 @@ type: claim
 title: High CT students significantly exceeded low CT students in task strategies, elaboration, and self-assessment during AICA interactions
 description: High CT students significantly exceeded low CT students in task strategies, elaboration, and self-assessment during AICA interactions
 id: high-ct-stronger-srl-cognitive-behaviors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

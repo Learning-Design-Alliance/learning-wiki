@@ -3,7 +3,7 @@ type: strategy
 id: require-own-reasoning-expose-to-challenge-account-for-change
 title: Require students to arrive with their own reasoning, expose it to AI challenge, and account for what changed
 description: "A design recommendation from the article's discussion: merely asking students to use AI critically is insufficient instructional design."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -45,4 +45,4 @@ A design recommendation from the article's discussion: merely asking students to
 -
 
 ## Key Sources
-- Zahra, F. T. (2025). Three Pathways of Student-AI Interaction: Constraint-First Design for Higher-Order Thinking. Manuscript under blind review; framework first presented at EAAI-25, Philadelphia, PA. https://arxiv.org/abs/2610.00338
+- Zahra, F. T. (2025). Three Pathways of Student-AI Interaction: Constraint-First Design for Higher-Order Thinking. Manuscript under blind review; framework first presented at EAAI-25, Philadelphia, PA. https://arxiv.org/abs/2610.00338. [doi:10.48550/arxiv.2610.00338](https://doi.org/10.48550/arxiv.2610.00338)

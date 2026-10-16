@@ -3,7 +3,7 @@ type: claim
 title: More teacher guidance within inquiry is associated with larger advantages over traditional instruction, though magnitude estimates vary across meta-analyses
 description: More teacher guidance within inquiry is associated with larger advantages over traditional instruction, though magnitude estimates vary across meta-analyses
 id: teacher-guided-inquiry-larger-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

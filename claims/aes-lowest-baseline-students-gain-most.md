@@ -3,7 +3,7 @@ type: claim
 title: Middle school students with the lowest baseline argumentative-writing scores showed the largest growth across essay attempts on an AES platform, while mid- and high-baseline students showed limited or no significant change
 description: Middle school students with the lowest baseline argumentative-writing scores showed the largest growth across essay attempts on an AES platform, while mid- and high-baseline students showed limited or no significant c...
 id: aes-lowest-baseline-students-gain-most
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

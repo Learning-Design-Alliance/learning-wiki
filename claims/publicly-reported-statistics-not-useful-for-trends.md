@@ -3,7 +3,7 @@ type: claim
 title: Publicly reported school accountability statistics are not useful for measuring achievement trends over time
 description: Publicly reported school accountability statistics are not useful for measuring achievement trends over time
 id: publicly-reported-statistics-not-useful-for-trends
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

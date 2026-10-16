@@ -3,7 +3,7 @@ type: claim
 title: "Learning outcomes differ by how students use AI: augmentation and mixed users show gains in both sessions, while automation users' Session One essay advantage is absent from their unaided essays"
 description: "Learning outcomes differ by how students use AI: augmentation and mixed users show gains in both sessions, while automation users' Session One essay advantage is absent from their unaided essays"
 id: genai-outcomes-differ-by-use-type
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

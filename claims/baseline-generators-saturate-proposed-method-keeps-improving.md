@@ -3,7 +3,7 @@ type: claim
 title: Baseline hypothesis generators saturate after 5–10 effective hypotheses while the proposed method keeps improving
 description: Baseline hypothesis generators saturate after 5–10 effective hypotheses while the proposed method keeps improving
 id: baseline-generators-saturate-proposed-method-keeps-improving
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

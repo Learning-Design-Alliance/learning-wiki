@@ -192,7 +192,7 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 ## Key Sources
 - Bishop, J. L., & Verleger, M. A. (2013). The flipped classroom. In *ASEE National Conference Proceedings*. [doi:10.18260/1-2--22585](https://doi.org/10.18260/1-2--22585)
 - Bergmann, J., & Sams, A. (2012). *Flip your classroom: Reach every student in every class every day*. International Society for Technology in Education.
-- Stelzer, Gladding, Mestre, and Brookes. (2008). Comparing the efficacy of multimedia modules with traditional textbooks for learning introductory physics content. https://arxiv.org/abs/0806.0405
+- Stelzer, Gladding, Mestre, and Brookes. (2008). Comparing the efficacy of multimedia modules with traditional textbooks for learning introductory physics content. https://arxiv.org/abs/0806.0405. [doi:10.48550/arxiv.0806.0405](https://doi.org/10.48550/arxiv.0806.0405)
 - Bishop, J. L., & Verleger, M. A. (2013). The flipped classroom: A survey of the research. In *2013 ASEE Annual Conference & Exposition Proceedings*. [https://doi.org/10.18260/1-2--22585](https://doi.org/10.18260/1-2--22585)
 - Lo, C. K., & Hew, K. F. (2017). A critical review of flipped classroom challenges in K-12 education: Possible solutions and recommendations for future research. *Research and Practice in Technology Enhanced Learning, 12*(1), 4. [https://doi.org/10.1186/s41039-016-0044-2](https://doi.org/10.1186/s41039-016-0044-2)
 - Lage, M. J., Platt, G. J., & Treglia, M. (2000). Inverting the classroom: A gateway to creating an inclusive learning environment. *The Journal of Economic Education, 31*(1), 30-43. An earlier "inverted classroom" paper credited with popularizing the model in higher education, using pre-class preparation and in-class economics experiments — a direct precursor to the model Bergmann and Sams later branded "flipped.". [doi:10.1080/00220480009596759](https://doi.org/10.1080/00220480009596759)
@@ -303,7 +303,7 @@ The article recommends assigning web-based multimedia learning modules, designed
 -
 
 ## Key Sources
-- Stelzer, Gladding, Mestre, and Brookes. (2008). Comparing the efficacy of multimedia modules with traditional textbooks for learning introductory physics content. https://arxiv.org/abs/0806.0405
+- Stelzer, Gladding, Mestre, and Brookes. (2008). Comparing the efficacy of multimedia modules with traditional textbooks for learning introductory physics content. https://arxiv.org/abs/0806.0405. [doi:10.48550/arxiv.0806.0405](https://doi.org/10.48550/arxiv.0806.0405)
 -->
 
 <!-- merged 2026-10-15 from patterns/flipped-classroom ("Flipped Classroom"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.

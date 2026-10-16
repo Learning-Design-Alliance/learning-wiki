@@ -3,7 +3,7 @@ type: claim
 title: "Automation bias toward fluent LLM output surrenders learners' epistemic agency"
 description: "Automation bias toward fluent LLM output surrenders learners' epistemic agency"
 id: automation-bias-surrenders-epistemic-agency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

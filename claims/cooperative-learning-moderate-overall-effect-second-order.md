@@ -3,7 +3,7 @@ type: claim
 title: Cooperative learning models have a moderate average effect on student learning outcomes across 23 first-order meta-analyses
 description: Cooperative learning models have a moderate average effect on student learning outcomes across 23 first-order meta-analyses
 id: cooperative-learning-moderate-overall-effect-second-order
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

@@ -3,7 +3,7 @@ type: claim
 title: Spelling Mastery produced statistically significant positive effects on all three writing measures in a fourth-grade RCT against Visual Imagery instruction
 description: Spelling Mastery produced statistically significant positive effects on all three writing measures in a fourth-grade RCT against Visual Imagery instruction
 id: spelling-mastery-significant-vs-visual-imagery
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

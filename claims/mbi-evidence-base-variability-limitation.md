@@ -3,7 +3,7 @@ type: claim
 title: The evidence base for school mindfulness interventions is promising but too variable for definitive practice recommendations
 description: The evidence base for school mindfulness interventions is promising but too variable for definitive practice recommendations
 id: mbi-evidence-base-variability-limitation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

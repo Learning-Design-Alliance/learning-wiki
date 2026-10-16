@@ -3,7 +3,7 @@ type: strategy
 id: small-schools-for-attendance-and-graduation
 title: Use small school creation as a lever for raising attendance and graduation among at-risk students
 description: "The report's findings support small school reform as a strategy for improving attendance and graduation among at-risk high school students, even though test scores did not improve."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: world-of-words-implementation-strategy
 title: Implement World of Words with developer training, ongoing coaching, and structured text-set materials
 description: "The report describes an implementation package for educators adopting World of Words: a minimum of a half-day of professional development prior to implementation, ongoing coaching (e.g., biweekly), and six sets of top..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

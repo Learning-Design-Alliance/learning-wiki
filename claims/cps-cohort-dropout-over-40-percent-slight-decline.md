@@ -3,7 +3,7 @@ type: claim
 title: Over 40 percent of Chicago Public Schools students drop out by age 19, with a slight downward trend across the 1991–1994 cohorts
 description: Over 40 percent of Chicago Public Schools students drop out by age 19, with a slight downward trend across the 1991–1994 cohorts
 id: cps-cohort-dropout-over-40-percent-slight-decline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

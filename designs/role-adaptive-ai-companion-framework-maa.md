@@ -3,7 +3,7 @@ type: design
 id: role-adaptive-ai-companion-framework-maa
 title: "Role-Adaptive AI Companion Framework: a Modular Adaptive Agent that dynamically switches between Student Peer, Teacher Assistant, and Parent Advisor roles"
 description: "The framework conceptualizes an AI companion as a Modular Adaptive Agent (MAA), inspired by Multi-Agent Systems role-differentiation principles, that \"dynamically transitions between three primary roles: the ‘Student..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

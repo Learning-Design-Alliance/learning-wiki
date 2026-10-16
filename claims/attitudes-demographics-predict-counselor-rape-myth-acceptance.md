@@ -3,7 +3,7 @@ type: claim
 title: "Attitudes, gender, and age predict counselors' rape myth acceptance in both label conditions"
 description: "Attitudes, gender, and age predict counselors' rape myth acceptance in both label conditions"
 id: attitudes-demographics-predict-counselor-rape-myth-acceptance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

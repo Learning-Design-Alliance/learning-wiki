@@ -3,7 +3,7 @@ type: claim
 title: Planning effects on performance in test contexts are mixed, appearing for high-proficiency learners and high-load tasks but not overall
 description: Planning effects on performance in test contexts are mixed, appearing for high-proficiency learners and high-load tasks but not overall
 id: planning-in-test-contexts-mixed-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

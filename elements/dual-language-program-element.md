@@ -3,7 +3,7 @@ type: element
 id: dual-language-program-element
 title: "Dual language programs: multi-year instruction in English and a partner language"
 description: "Dual language programs are school programs in which \"classroom teachers instruct students from an early age and over multiple years in both English and a second language called the partner language.\" They can be one-w..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

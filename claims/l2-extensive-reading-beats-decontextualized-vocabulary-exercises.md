@@ -3,7 +3,7 @@ type: claim
 title: Available second language research indicates extensive reading programs are generally more effective than systematic vocabulary instruction using decontextualized exercises
 description: Available second language research indicates extensive reading programs are generally more effective than systematic vocabulary instruction using decontextualized exercises
 id: l2-extensive-reading-beats-decontextualized-vocabulary-exercises
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

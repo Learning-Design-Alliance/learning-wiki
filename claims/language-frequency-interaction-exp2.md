@@ -3,7 +3,7 @@ type: claim
 title: In Experiment 2, the native language × frequency interaction is significant, with both groups responding faster to high-frequency items
 description: In Experiment 2, the native language × frequency interaction is significant, with both groups responding faster to high-frequency items
 id: language-frequency-interaction-exp2
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

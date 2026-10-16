@@ -3,7 +3,7 @@ type: claim
 title: Reading Mastery shows no discernible effects on reading comprehension for adolescent learners, with an average improvement index of –7 percentile points
 description: Reading Mastery shows no discernible effects on reading comprehension for adolescent learners, with an average improvement index of –7 percentile points
 id: reading-mastery-no-discernible-comprehension-adolescents
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

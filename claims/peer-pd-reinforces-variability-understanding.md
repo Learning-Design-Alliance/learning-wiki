@@ -3,7 +3,7 @@ type: claim
 title: "Educator-led peer professional development reinforced educators' own understanding and connected LVN to existing practice"
 description: "Educator-led peer professional development reinforced educators' own understanding and connected LVN to existing practice"
 id: peer-pd-reinforces-variability-understanding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

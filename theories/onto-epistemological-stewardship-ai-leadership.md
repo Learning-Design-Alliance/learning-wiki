@@ -2,7 +2,7 @@
 type: theory
 title: Decolonial and feminist framework positioning AI leadership as moral and onto-epistemological stewardship
 description: The article synthesizes decolonial theory, which situates AI within histories of coloniality that normalize Eurocentric epistemologies, with critical feminist theory, which illuminates the invisible relational labor o...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

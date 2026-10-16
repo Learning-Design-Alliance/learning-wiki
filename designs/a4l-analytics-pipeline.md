@@ -3,7 +3,7 @@ type: design
 id: a4l-analytics-pipeline
 title: A4L Analytics Pipeline
 description: The A4L Analytics Pipeline is a component of the Architecture for AI-Augmented Learning that performs statistical analyses on learner interaction data from educational AI assistants.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

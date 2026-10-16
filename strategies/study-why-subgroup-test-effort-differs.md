@@ -3,7 +3,7 @@ type: strategy
 id: study-why-subgroup-test-effort-differs
 title: Investigate why subgroup differences in test effort exist to support educators
 description: The article recommends that researchers and educators examine the causes of subgroup differences in test effort rather than only measuring them.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

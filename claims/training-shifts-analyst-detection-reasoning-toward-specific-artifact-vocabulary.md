@@ -3,7 +3,7 @@ type: claim
 title: "After training, analysts' free-text detection reasoning shifted away from physics-violation and anatomical cues toward functional and stylistic artifacts and became more specific"
 description: "After training, analysts' free-text detection reasoning shifted away from physics-violation and anatomical cues toward functional and stylistic artifacts and became more specific"
 id: training-shifts-analyst-detection-reasoning-toward-specific-artifact-vocabulary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Intelligent tutoring systems improve achievement over non-individualised instruction"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25
@@ -136,3 +136,7 @@ A meta-analysis of 50 controlled evaluations of intelligent computer tutoring sy
 - [ITS significantly outperform large-group human instruction, individual computer-based instruction, and textbooks or workbooks, but not small-group or individual human tutoring](its-beats-large-group-cbi-textbooks-not-human-tutoring.md) — possibly the same claim (merge candidate)
 - [Learning with intelligent tutoring systems yields a moderate, statistically significant overall advantage in achievement over non-ITS modes of instruction](its-meta-analysis-overall-effect-0-41.md) — possibly the same claim (merge candidate)
 - [Intelligent tutoring raised test scores by a median of 0.66 standard deviations over conventional instruction across 50 controlled evaluations](its-meta-analysis-median-es-066-sd.md) — related
+- [Adaptive fading of worked examples based on current skill level produced better learning outcomes than fixed fading or tutored problem solving](adaptive-fading-worked-examples-benefits.md) — related
+- [AI-enabled personalized STEM education yields a small but statistically significant overall effect (g = 0.455) compared with traditional non-AI instruction in K-12 schools](ai-personalized-stem-overall-effect-g0455.md) — related
+- [Intelligent tutoring systems have been shown to improve upon typical classroom instruction](its-improve-upon-typical-classroom-instruction.md) — possibly the same claim (merge candidate)
+- [Intelligent tutoring systems show moderate learning benefits but are less effective than human tutoring](its-moderate-effect-less-than-human-tutoring.md) — possibly the same claim (merge candidate)

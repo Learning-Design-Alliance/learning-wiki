@@ -3,7 +3,7 @@ type: claim
 title: 21st Century Community Learning Centers after-school programs changed where and with whom students spent some of their after-school time
 description: 21st Century Community Learning Centers after-school programs changed where and with whom students spent some of their after-school time
 id: 21st-cclc-changed-after-school-time-location-and-companions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

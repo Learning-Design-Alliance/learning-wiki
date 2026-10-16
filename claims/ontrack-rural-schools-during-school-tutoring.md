@@ -3,7 +3,7 @@ type: claim
 title: Rural schools were far more likely than nonrural schools to offer Project On-Track tutoring during school only
 description: Rural schools were far more likely than nonrural schools to offer Project On-Track tutoring during school only
 id: ontrack-rural-schools-during-school-tutoring
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

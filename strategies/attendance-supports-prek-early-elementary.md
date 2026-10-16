@@ -3,7 +3,7 @@ type: strategy
 id: attendance-supports-prek-early-elementary
 title: Provide supports to improve attendance in pre-kindergarten and the early elementary years
 description: "The article recommends providing supports to improve attendance in pre-kindergarten and early elementary grades, arguing that improving attendance in these years \"has the potential to reduce achievement gaps and redir..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

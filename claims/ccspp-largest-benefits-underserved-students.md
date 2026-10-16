@@ -3,7 +3,7 @@ type: claim
 title: Benefits of CCSPP community schools were largest for Black students, English learners, and socioeconomically disadvantaged students
 description: Benefits of CCSPP community schools were largest for Black students, English learners, and socioeconomically disadvantaged students
 id: ccspp-largest-benefits-underserved-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: element
 id: group-tree-seasonal-observation-activity
 title: Group tree seasonal observation activity
 description: The group tree is a K-2 activity in which students draw a tree at various times during the year and observe how it changes across seasons, generating comparative data.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

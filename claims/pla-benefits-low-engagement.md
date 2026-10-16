@@ -3,7 +3,7 @@ type: claim
 title: Prior learning assessment is associated with cost and time savings and higher credential completion, yet engagement remains low
 description: Prior learning assessment is associated with cost and time savings and higher credential completion, yet engagement remains low
 id: pla-benefits-low-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

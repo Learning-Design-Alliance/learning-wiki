@@ -3,7 +3,7 @@ type: claim
 title: Thai students overuse the causal connective because, a pattern the article attributes to L1 influence
 description: Thai students overuse the causal connective because, a pattern the article attributes to L1 influence
 id: thai-overuse-because-l1-influence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

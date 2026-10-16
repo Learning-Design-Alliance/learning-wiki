@@ -3,7 +3,7 @@ type: claim
 title: "Students identified weaknesses in the AI feedback model: lack of real-time feedback, software/economic access barriers, and occasional incorrect or inconsistent outputs"
 description: "Students identified weaknesses in the AI feedback model: lack of real-time feedback, software/economic access barriers, and occasional incorrect or inconsistent outputs"
 id: genai-feedback-weaknesses-realtime-and-errors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

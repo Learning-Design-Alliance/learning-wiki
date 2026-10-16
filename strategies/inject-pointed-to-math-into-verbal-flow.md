@@ -3,7 +3,7 @@ type: strategy
 id: inject-pointed-to-math-into-verbal-flow
 title: Inject LaTeX transcriptions of pointed-to math in place of ambiguous verbal references
 description: "The v6m system instructions direct Gemini to replace ambiguous verbal references such as \"this equation\" with LaTeX renderings of the pointed-to math, injected in place of or immediately after the reference, and to us..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -45,4 +45,4 @@ The v6m system instructions direct Gemini to replace ambiguous verbal references
 -
 
 ## Key Sources
-- Looney, C. W., & Duston, C. L. (2026). Using Gemini and LuaLaTeX to transcribe physics videos into PDF/UA-2 and ISO 32005 math-accessible PDFs. https://arxiv.org/abs/2608.20733
+- Looney, C. W., & Duston, C. L. (2026). Using Gemini and LuaLaTeX to transcribe physics videos into PDF/UA-2 and ISO 32005 math-accessible PDFs. https://arxiv.org/abs/2608.20733. [doi:10.48550/arxiv.2608.20733](https://doi.org/10.48550/arxiv.2608.20733)

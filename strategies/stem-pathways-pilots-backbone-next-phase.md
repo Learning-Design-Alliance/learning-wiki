@@ -3,7 +3,7 @@ type: strategy
 id: stem-pathways-pilots-backbone-next-phase
 title: "Next-phase agenda: pilot and refine STEM pathways, align STEM education with local economic demands, and plan a sustaining backbone organization"
 description: "For the next phase, the report states the Community Advisors will \"Develop and implement pilot programs to test and refine STEM pathways\", begin strategic planning that aligns STEM education initiatives with local eco..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

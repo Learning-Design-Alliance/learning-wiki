@@ -3,7 +3,7 @@ type: claim
 title: Different humanlike design dimensions cue distinct classes of anthropomorphism inferences
 description: Different humanlike design dimensions cue distinct classes of anthropomorphism inferences
 id: design-dimensions-cue-distinct-attribution-classes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

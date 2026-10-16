@@ -4,7 +4,7 @@ id: suite-of-mathematica-tools-supporting-grantees-to-develop-refine-and-scale-e
 title: Suite of Mathematica tools supporting grantees to develop, refine, and scale evidence-based solutions
 description: A Mathematica-developed suite of tools, including a Prior Research Table and measurement, evaluation, and design-research templates, that helps education grantees develop, refine, and scale evidence-based solutions.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: GPA and prior topic knowledge do not moderate the performance effect of LLM-assisted self-study
 description: GPA and prior topic knowledge do not moderate the performance effect of LLM-assisted self-study
 id: gpa-prior-knowledge-do-not-moderate-llm-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

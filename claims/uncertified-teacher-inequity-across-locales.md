@@ -3,7 +3,7 @@ type: claim
 title: Across rural, suburban, and urban locales, schools with high student of color enrollment have higher percentages of uncertified teachers than schools with low enrollment
 description: Across rural, suburban, and urban locales, schools with high student of color enrollment have higher percentages of uncertified teachers than schools with low enrollment
 id: uncertified-teacher-inequity-across-locales
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

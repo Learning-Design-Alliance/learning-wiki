@@ -3,7 +3,7 @@ type: claim
 title: Most pre-service elementary teachers believed clicker use assisted their learning and understanding of course material
 description: Most pre-service elementary teachers believed clicker use assisted their learning and understanding of course material
 id: clickers-perceived-learning-benefit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

@@ -3,7 +3,7 @@ type: claim
 title: Students view AI videos as appropriate for simple, visualizable, and supplemental learning contexts but inappropriate for complex, subjective, or interactive ones
 description: Students view AI videos as appropriate for simple, visualizable, and supplemental learning contexts but inappropriate for complex, subjective, or interactive ones
 id: students-contextualize-ai-video-appropriateness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

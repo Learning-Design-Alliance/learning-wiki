@@ -3,7 +3,7 @@ type: strategy
 id: adaptive-resolution-educational-simulation
 title: "Adaptive-resolution simulation: allocate more LLM calls to educationally consequential moments and compress routine transitions"
 description: To manage the coupled trade-off among scale, duration, and granularity, the paper recommends making the simulation budget configurable and concentrating generative detail where it matters.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

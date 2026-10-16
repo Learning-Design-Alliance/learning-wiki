@@ -3,7 +3,7 @@ type: element
 id: kipp-assistant-principal-development-pipeline
 title: KIPP assistant principal development pipeline
 description: An organizational element of KIPP, described in this publication as the largest charter school network in the country.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

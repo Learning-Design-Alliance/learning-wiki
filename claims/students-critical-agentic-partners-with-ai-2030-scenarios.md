@@ -3,7 +3,7 @@ type: claim
 title: Expert scenarios across educational sectors position students as critical, agentic partners with AI who question and critique AI-generated content
 description: Expert scenarios across educational sectors position students as critical, agentic partners with AI who question and critique AI-generated content
 id: students-critical-agentic-partners-with-ai-2030-scenarios
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

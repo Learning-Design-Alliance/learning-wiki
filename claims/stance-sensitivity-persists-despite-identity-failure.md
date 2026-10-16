@@ -3,7 +3,7 @@ type: claim
 title: Participants remain socially sensitive to conversational stance even while categorical identity inference fails
 description: Participants remain socially sensitive to conversational stance even while categorical identity inference fails
 id: stance-sensitivity-persists-despite-identity-failure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

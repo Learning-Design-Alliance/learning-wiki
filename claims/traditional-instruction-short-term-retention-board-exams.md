@@ -3,7 +3,7 @@ type: claim
 title: Traditional instruction is more effective than PBL for short-term retention as measured by standardized board exams
 description: Traditional instruction is more effective than PBL for short-term retention as measured by standardized board exams
 id: traditional-instruction-short-term-retention-board-exams
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

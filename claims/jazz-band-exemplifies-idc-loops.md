@@ -3,7 +3,7 @@ type: claim
 title: School jazz bands exemplify the IDC loops of interest, creativity, and habit in a participatory group context
 description: School jazz bands exemplify the IDC loops of interest, creativity, and habit in a participatory group context
 id: jazz-band-exemplifies-idc-loops
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

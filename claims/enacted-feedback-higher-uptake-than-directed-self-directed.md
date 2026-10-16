@@ -3,7 +3,7 @@ type: claim
 title: Enacted Feedback yields higher workflow-specific uptake of AI-generated feedback than Directed and Self-Directed Feedback workflows
 description: Enacted Feedback yields higher workflow-specific uptake of AI-generated feedback than Directed and Self-Directed Feedback workflows
 id: enacted-feedback-higher-uptake-than-directed-self-directed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

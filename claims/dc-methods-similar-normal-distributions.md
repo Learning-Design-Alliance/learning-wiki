@@ -3,7 +3,7 @@ type: claim
 title: The LL-DC, PS-DC, and W-DC methods produce similar decision consistency estimates (within 0.044) for normally or close to normally distributed datasets
 description: The LL-DC, PS-DC, and W-DC methods produce similar decision consistency estimates (within 0.044) for normally or close to normally distributed datasets
 id: dc-methods-similar-normal-distributions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

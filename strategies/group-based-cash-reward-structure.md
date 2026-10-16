@@ -3,7 +3,7 @@ type: strategy
 id: group-based-cash-reward-structure
 title: Combine monetary inducements with group-based competition for cash rewards to motivate lower-class adolescents
 description: The paper proposes dividing students into groups of three, four, or five, constituted by teacher assignment or student preference, competing for cash rewards against one another or against a uniform standard, with pay...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
@@ -44,4 +44,4 @@ The paper proposes dividing students into groups of three, four, or five, consti
 -
 
 ## Key Sources
-- Spilerman, Seymour. (1970). Raising Academic Motivation in Lower Class Adolescents: A Convergence of Two Research Traditions. Discussion Papers 75-70. https://eric.ed.gov/?id=ED133396
+- Spilerman, Seymour. (1970). Raising Academic Motivation in Lower Class Adolescents: A Convergence of Two Research Traditions. Discussion Papers 75-70. https://eric.ed.gov/?id=ED133396. [doi:10.2307/2111965](https://doi.org/10.2307/2111965)

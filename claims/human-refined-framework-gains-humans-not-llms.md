@@ -3,7 +3,7 @@ type: claim
 title: The human-refined framework improved human agreement substantially but produced only modest gains for ICL-based LLM annotation
 description: The human-refined framework improved human agreement substantially but produced only modest gains for ICL-based LLM annotation
 id: human-refined-framework-gains-humans-not-llms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

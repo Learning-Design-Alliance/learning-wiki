@@ -3,7 +3,7 @@ type: claim
 title: Girls in Playworks schools had significantly higher accelerometer intensity counts and spent more time in vigorous physical activity than girls in control schools
 description: Girls in Playworks schools had significantly higher accelerometer intensity counts and spent more time in vigorous physical activity than girls in control schools
 id: playworks-girls-higher-activity-counts-vigorous
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Teaching Games for Understanding improves tactical decision-making more than traditional physical education instruction.
 id: teaching-games-for-understanding-improves-tactical-decision-making
 description: Across 65 quasi-experimental physical education studies, Teaching Games for Understanding outperformed traditional technique-led instruction on tactical decision-making (SMD 0.83), the only model in the network whose estimate on that outcome clearly excluded zero.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

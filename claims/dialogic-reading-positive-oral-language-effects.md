@@ -3,7 +3,7 @@ type: claim
 title: "Dialogic Reading has positive effects on preschool children's oral language, per WWC synthesis of five studies"
 description: "Dialogic Reading has positive effects on preschool children's oral language, per WWC synthesis of five studies"
 id: dialogic-reading-positive-oral-language-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Most participants reported learning something new about GenAI and about two-thirds acknowledged engagement with perspectives beyond their own after the co-design activity
 description: Most participants reported learning something new about GenAI and about two-thirds acknowledged engagement with perspectives beyond their own after the co-design activity
 id: reflection-stakeholder-perspectives-two-thirds
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -18,8 +18,8 @@ sources:
     kind: qualitative
     rigour: 3
   - id: hingle-2025-2
-    resource: "https://www.google.com/search?q=A+Guided+Inquiry+Approach+to+Students+Co-Designing+Generative+AI+Course+Policies"
-    title: "Hingle, A., & Johri, A. (2025). A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies. https://www.google.com/search?q=A+Guided+Inquiry+Approach+to+Students+Co-Designing+Generative+AI+Course+Policies"
+    resource: "https://doi.org/10.1108/aiie-05-2025-0123"
+    title: "Hingle, A., & Johri, A. (2025). A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies. https://www.google.com/search?q=A+Guided+Inquiry+Approach+to+Students+Co-Designing+Generative+AI+Course+Policies. [doi:10.1108/aiie-05-2025-0123](https://doi.org/10.1108/aiie-05-2025-0123)"
     author: "Hingle, A., & Johri, A."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Most participants reported learning something new about GenAI and about two-thirds acknowledged engagement with perspectives beyond their own after the co-design activity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r3` · `q2`
+> **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` About two-thirds of participants acknowledged that the activity encouraged engagement with perspectives beyond their own, including peers, instructors, institutions, and potential employers. [→ Hingle 2025](#hingle-2025)
@@ -50,7 +50,7 @@ Analysis of post-discussion reflection assignments and debriefs (RQ2), coded int
 
 ### Hingle 2025 (2)
 
-Hingle, A., & Johri, A. (2025). A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies. https://www.google.com/search?q=A+Guided+Inquiry+Approach+to+Students+Co-Designing+Generative+AI+Course+Policies
+Hingle, A., & Johri, A. (2025). A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies. https://www.google.com/search?q=A+Guided+Inquiry+Approach+to+Students+Co-Designing+Generative+AI+Course+Policies. [doi:10.1108/aiie-05-2025-0123](https://doi.org/10.1108/aiie-05-2025-0123)
 
 `q2 · i?` · `qualitative · r3`
 

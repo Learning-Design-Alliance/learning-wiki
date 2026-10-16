@@ -3,7 +3,7 @@ type: claim
 title: Participants generally felt humanlikeness should not be a design goal for a writing-support agent used as a tool
 description: Participants generally felt humanlikeness should not be a design goal for a writing-support agent used as a tool
 id: participants-prefer-tool-over-humanlike-agent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "Roughly 30% of U.S. k-12 students lacked high-speed internet or adequate devices for digital learning at home before the pandemic, with disparities by income and race"
 description: "Roughly 30% of U.S."
 id: thirty-percent-students-lacked-internet-or-devices-2018
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

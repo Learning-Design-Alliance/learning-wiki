@@ -3,7 +3,7 @@ type: claim
 title: AMSTI science teachers reported statistically significantly higher levels of student engagement than control group science teachers
 description: AMSTI science teachers reported statistically significantly higher levels of student engagement than control group science teachers
 id: amsti-teachers-higher-student-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

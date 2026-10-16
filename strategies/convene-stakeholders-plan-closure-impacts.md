@@ -3,7 +3,7 @@ type: strategy
 id: convene-stakeholders-plan-closure-impacts
 title: Convene educators, policymakers, and families to plan for the impacts of extended pauses in classroom instruction
 description: The article recommends bringing educators, policymakers, and families together with researchers to translate seasonal-learning evidence into action during school closures.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

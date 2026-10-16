@@ -3,7 +3,7 @@ type: strategy
 id: faculty-development-targeting-identity-literacy-and-efficacy
 title: Faculty development for GenAI-era teaching innovation should address professional identity, AI literacy, and teaching self-efficacy alongside knowledge
 description: "The article's practical implication is that faculty development and AI integration efforts in higher education should not target AI-related knowledge alone but also the psychological factors the study found associated..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

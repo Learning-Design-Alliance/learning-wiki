@@ -3,7 +3,7 @@ type: strategy
 id: micro-credential-future-expansion-areas
 title: Expand micro-credential systems into seven future content areas
 description: In its What is Next?
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

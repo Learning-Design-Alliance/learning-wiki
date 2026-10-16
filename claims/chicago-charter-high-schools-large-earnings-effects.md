@@ -3,7 +3,7 @@ type: claim
 title: Chicago charter high schools have large positive effects on earnings in adulthood
 description: Chicago charter high schools have large positive effects on earnings in adulthood
 id: chicago-charter-high-schools-large-earnings-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

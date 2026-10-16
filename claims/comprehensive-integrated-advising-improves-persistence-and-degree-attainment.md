@@ -3,7 +3,7 @@ type: claim
 title: Comprehensive, integrated advising interventions improve progression, academic achievement, and postsecondary degree attainment for postsecondary students
 description: Comprehensive, integrated advising interventions improve progression, academic achievement, and postsecondary degree attainment for postsecondary students
 id: comprehensive-integrated-advising-improves-persistence-and-degree-attainment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Co-construction of shared understanding needed to be accompanied by students' personal construction and sense making for conceptual change to be stable over time"
 description: "Co-construction of shared understanding needed to be accompanied by students' personal construction and sense making for conceptual change to be stable over time"
 id: personal-construction-required-stable-conceptual-change
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

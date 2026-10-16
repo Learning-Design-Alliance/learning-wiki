@@ -3,7 +3,7 @@ type: design
 id: ai-cognitive-partnership-action-research-project-eight-schools
 title: One-year action and design-based research project on AI use across eight Danish upper secondary schools
 description: "The empirical basis of the study is a one-year action and design-based research project in which \"59 teachers from eight upper secondary schools developed action plans for interventions in the form of teaching activit..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

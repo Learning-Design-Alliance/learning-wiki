@@ -3,7 +3,7 @@ type: claim
 title: Alder residency graduates show higher 3-year same-LEA retention than teachers prepared through other pathways in the same LEAs
 description: Alder residency graduates show higher 3-year same-LEA retention than teachers prepared through other pathways in the same LEAs
 id: alder-graduates-higher-retention-other-pathways
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

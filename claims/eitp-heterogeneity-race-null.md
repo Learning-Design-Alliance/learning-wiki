@@ -3,7 +3,7 @@ type: claim
 title: No significant heterogeneity in pilot effects by school racial/ethnic composition was found
 description: No significant heterogeneity in pilot effects by school racial/ethnic composition was found
 id: eitp-heterogeneity-race-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

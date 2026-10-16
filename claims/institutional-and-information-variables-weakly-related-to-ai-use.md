@@ -3,7 +3,7 @@ type: claim
 title: Institutional initiatives, demographics, teaching practices, and information sources show weak or null associations with AI pedagogical orientation and use
 description: Institutional initiatives, demographics, teaching practices, and information sources show weak or null associations with AI pedagogical orientation and use
 id: institutional-and-information-variables-weakly-related-to-ai-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

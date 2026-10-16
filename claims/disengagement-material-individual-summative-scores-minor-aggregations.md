@@ -4,7 +4,7 @@ title: Disengaged test taking materially impacts individual state summative test
 description: Disengaged test taking materially impacts individual state summative test scores but may have relatively minor impact on score aggregations
 id: disengagement-material-individual-summative-scores-minor-aggregations
 aliases: [disengagement-material-individual-scores-minor-aggregations]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

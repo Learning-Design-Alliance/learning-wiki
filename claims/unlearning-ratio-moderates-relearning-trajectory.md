@@ -3,7 +3,7 @@ type: claim
 title: "Relearning dynamics depend on unlearning strength: agents with 10% unlearning recover within early interaction rounds, while 30% and 50% agents show prolonged low-accuracy plateaus and delayed improvement"
 description: "Relearning dynamics depend on unlearning strength: agents with 10% unlearning recover within early interaction rounds, while 30% and 50% agents show prolonged low-accuracy plateaus and delayed improvement"
 id: unlearning-ratio-moderates-relearning-trajectory
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

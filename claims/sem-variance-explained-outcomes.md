@@ -3,7 +3,7 @@ type: claim
 title: The structural model explains about half the variance in critical thinking and technical problem-solving and about a third in metacognitive self-regulation
 description: The structural model explains about half the variance in critical thinking and technical problem-solving and about a third in metacognitive self-regulation
 id: sem-variance-explained-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

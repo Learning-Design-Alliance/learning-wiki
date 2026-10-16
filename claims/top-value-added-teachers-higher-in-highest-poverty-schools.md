@@ -3,7 +3,7 @@ type: claim
 title: Top-scoring teachers in highest-poverty schools have higher value-added scores than their counterparts in lower-poverty schools
 description: Top-scoring teachers in highest-poverty schools have higher value-added scores than their counterparts in lower-poverty schools
 id: top-value-added-teachers-higher-in-highest-poverty-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

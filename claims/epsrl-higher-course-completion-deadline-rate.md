@@ -3,7 +3,7 @@ type: claim
 title: Students who use the ePSRL Management System meet the course completion deadline at a significantly higher rate than non-users
 description: Students who use the ePSRL Management System meet the course completion deadline at a significantly higher rate than non-users
 id: epsrl-higher-course-completion-deadline-rate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

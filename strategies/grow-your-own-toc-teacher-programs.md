@@ -3,7 +3,7 @@ type: strategy
 id: grow-your-own-toc-teacher-programs
 title: Grow-your-own teacher training programs targeting community members facing certification and career-change barriers
 description: Design Studio participants proposed grow-your-own (GYO) teacher preparation programs that recruit paraprofessionals, lower-level administrators, and community-based organization workers into teaching.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

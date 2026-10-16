@@ -4,7 +4,7 @@ id: passport-to-literacy
 title: Passport to Literacy
 description: Passport to Literacy is a semi-scripted small-group reading intervention programme for K–5 students reading below grade level, using explicit instruction in foundational reading, comprehension, and vocabulary skills.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

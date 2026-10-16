@@ -3,7 +3,7 @@ type: strategy
 id: generation-as-post-encoding-consolidation-strategy
 title: Sequence simpler desirable difficulties (retrieval, spacing, interleaving) during initial L2 vocabulary encoding, reserving generation for post-encoding consolidation
 description: "The article recommends that during initial vocabulary acquisition, teachers use less complex desirable difficulties first, since generation's added complexity did not yield the expected long-term recall enhancement."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

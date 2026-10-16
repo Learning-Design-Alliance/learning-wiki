@@ -4,7 +4,7 @@ id: star
 title: STAR
 description: A remedial reading programme for high-school students with serious literacy problems, offered within High School Redirection schools.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

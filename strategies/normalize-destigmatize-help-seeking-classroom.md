@@ -3,7 +3,7 @@ type: strategy
 id: normalize-destigmatize-help-seeking-classroom
 title: Normalize and de-stigmatize help-seeking behavior in the classroom so academic help-seeking habits carry over to health issues
 description: This strategy asks educators to build a classroom culture that treats asking for help as normal and shame-free.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: "The relationship between effort and meaning follows an inverted U-shape: moderate friction enhances meaning and motivation while excessive friction overwhelms"
 description: "The relationship between effort and meaning follows an inverted U-shape: moderate friction enhances meaning and motivation while excessive friction overwhelms"
 id: effort-meaning-inverted-u-shape
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

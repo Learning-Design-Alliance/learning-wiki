@@ -3,7 +3,7 @@ type: strategy
 id: school-level-supports-opportunity-gaps
 title: Provide school-level supports and resources to schools with many traditionally underserved students and broader challenges to learning opportunities
 description: "A policy strategy the brief draws from its finding that individual student performance mirrors school-level characteristics: rather than treating below-benchmark literacy solely as an individual-student problem, direc..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: research-method
 id: taxonomy-of-pedagogical-sycophancy
 title: Taxonomy of pedagogical sycophancy
 description: The paper defines pedagogical sycophancy as pressure-contingent validation of a misconception after the tutor is pushed to agree, distinguishing it from ordinary factual error.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

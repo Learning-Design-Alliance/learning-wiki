@@ -3,7 +3,7 @@ type: claim
 title: "Narration fluency is no evidence of correctness: narration quality is independent of signal quality"
 description: "Narration fluency is no evidence of correctness: narration quality is independent of signal quality"
 id: narration-quality-independent-of-signal-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

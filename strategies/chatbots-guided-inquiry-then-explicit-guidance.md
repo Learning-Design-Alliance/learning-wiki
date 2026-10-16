@@ -3,7 +3,7 @@ type: strategy
 id: chatbots-guided-inquiry-then-explicit-guidance
 title: Design chatbots that begin with guided inquiry and progressively provide explicit guidance when students remain stuck
 description: "Based on the finding that combination-preferring students showed nominally more sophisticated epistemological beliefs, the authors recommend chatbots that \"begin with questions, hints, or prompts for explanations and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: IDF reweighting of knowledge vectors improves retrieval over binary KC-incidence vectors, with the largest gains in mAP
 description: IDF reweighting of knowledge vectors improves retrieval over binary KC-incidence vectors, with the largest gains in mAP
 id: idf-reweighting-improves-kc-retrieval
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

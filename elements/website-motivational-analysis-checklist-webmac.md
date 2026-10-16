@@ -4,7 +4,7 @@ id: website-motivational-analysis-checklist-webmac
 title: Website Motivational Analysis Checklist (WebMAC)
 description: "WebMAC is described as \"an instrument used for designing and assessing the motivational quality of World Wide Web sites\"."
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

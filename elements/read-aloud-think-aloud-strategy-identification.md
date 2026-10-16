@@ -3,7 +3,7 @@ type: element
 id: read-aloud-think-aloud-strategy-identification
 title: Read-aloud and think-aloud technique with semistructured interview for identifying reading strategies
 description: "The study used the read-aloud and think-aloud technique, which \"requires them to express what they are doing and thinking while performing a task\" and \"enables the readers to identify different cognitive strategies an..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

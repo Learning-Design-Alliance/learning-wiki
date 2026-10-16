@@ -3,7 +3,7 @@ type: claim
 title: "Object formation in the meeting was iterative and non-linear: the proposed germ cell of 'making a choice' was encapsulated, not elaborated and expanded"
 description: "Object formation in the meeting was iterative and non-linear: the proposed germ cell of 'making a choice' was encapsulated, not elaborated and expanded"
 id: object-formation-iterative-germ-cell-encapsulated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

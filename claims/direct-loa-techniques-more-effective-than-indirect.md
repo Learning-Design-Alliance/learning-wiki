@@ -3,7 +3,7 @@ type: claim
 title: Direct LOA techniques are more effective in practice than indirect techniques because they derive explicitly from the occupational hierarchy
 description: Direct LOA techniques are more effective in practice than indirect techniques because they derive explicitly from the occupational hierarchy
 id: direct-loa-techniques-more-effective-than-indirect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

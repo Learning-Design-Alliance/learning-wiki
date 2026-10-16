@@ -3,7 +3,7 @@ type: claim
 title: Non-core course failures in ninth grade were associated with decreases in four-year graduation rates similar to core course failures
 description: Non-core course failures in ninth grade were associated with decreases in four-year graduation rates similar to core course failures
 id: non-core-failures-graduation-risk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

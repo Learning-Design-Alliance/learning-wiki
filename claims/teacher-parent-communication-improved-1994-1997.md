@@ -3,7 +3,7 @@ type: claim
 title: Chicago high school teachers reported better communication and more positive relationships with parents in 1997 than in 1994
 description: Chicago high school teachers reported better communication and more positive relationships with parents in 1997 than in 1994
 id: teacher-parent-communication-improved-1994-1997
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

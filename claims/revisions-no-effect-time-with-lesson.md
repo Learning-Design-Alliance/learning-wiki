@@ -3,7 +3,7 @@ type: claim
 title: Revisions made no reliable difference to total time spent with the lesson
 description: Revisions made no reliable difference to total time spent with the lesson
 id: revisions-no-effect-time-with-lesson
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

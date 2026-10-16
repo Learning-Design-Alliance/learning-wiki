@@ -3,7 +3,7 @@ type: claim
 title: TAs adapt rather than copy AI feedback drafts, with moderate draft–final overlap (ROUGE-L F1 = 0.60)
 description: TAs adapt rather than copy AI feedback drafts, with moderate draft–final overlap (ROUGE-L F1 = 0.60)
 id: tas-adapt-rather-than-copy-ai-drafts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

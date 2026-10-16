@@ -3,7 +3,7 @@ type: strategy
 id: monthly-check-ins-and-co-led-learning-events
 title: Monthly check-ins and co-led collaborative learning events across partner institutions
 description: The RPP supported teams through monthly meetings with a designated Digital Promise liaison to share progress, identify needs, and build trust, plus cross-institution learning events held approximately monthly from Jun...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: WCF research trends shifted from accuracy and error correction, through efficacy of feedback strategies and scope, to teacher practices, motivation, student engagement and automated feedback
 description: WCF research trends shifted from accuracy and error correction, through efficacy of feedback strategies and scope, to teacher practices, motivation, student engagement and automated feedback
 id: wcf-research-trends-shift
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

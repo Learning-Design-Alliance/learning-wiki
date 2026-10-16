@@ -3,7 +3,7 @@ type: strategy
 id: plan-2006-six-didactic-orientations
 title: The 2006 secondary Plan de Estudios prescribes six didactic orientations for the new study programs
 description: "The Plan de Estudios 2006 for secondary education lists six didactic orientations intended to guide teachers' use of the new study programs: \"1."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

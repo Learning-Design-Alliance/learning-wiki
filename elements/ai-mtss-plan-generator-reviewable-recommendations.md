@@ -3,7 +3,7 @@ type: element
 id: ai-mtss-plan-generator-reviewable-recommendations
 title: AI-powered MTSS intervention plan generator producing SMART goals and suggested interventions that educators can review and edit
 description: "The AI-powered MTSS plan generator is a co-designed tool that \"produces SMART goals and suggested interventions to dramatically reduce planning time.\" It is customizable to local context, allowing schools to adapt int..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

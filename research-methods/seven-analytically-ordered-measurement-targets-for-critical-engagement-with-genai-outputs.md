@@ -3,7 +3,7 @@ type: research-method
 id: seven-analytically-ordered-measurement-targets-for-critical-engagement-with-genai-outputs
 title: Seven analytically ordered measurement targets for critical engagement with GenAI outputs
 description: "The review proposes a construct-validity framework separating seven measurement targets: epistemic evaluation, verification initiation, process quality, success, reliance decisions, immediate task performance, and independent learning."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

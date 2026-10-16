@@ -3,7 +3,7 @@ type: claim
 title: "Behavioral patterns evolve over time: Construction dominates learners' first models while Exploration becomes more frequent in later models"
 description: "Behavioral patterns evolve over time: Construction dominates learners' first models while Exploration becomes more frequent in later models"
 id: modeling-behavior-patterns-evolve-over-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

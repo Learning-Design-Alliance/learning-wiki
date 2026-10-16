@@ -4,7 +4,7 @@ id: project-topeka
 title: Project Topeka
 description: Project Topeka is an automated essay-scoring and automated writing-evaluation platform for middle-school argumentative writing, providing instructional materials, rubric-based AI feedback, and iterative student revision.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: The SREM predicts time to reclassification more accurately than a conventional discrete-time hazard model
 description: The SREM predicts time to reclassification more accurately than a conventional discrete-time hazard model
 id: srem-outperforms-discrete-time-hazard-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

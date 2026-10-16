@@ -3,7 +3,7 @@ type: claim
 title: Most Blueprint students reported strong tutor relationships, but reported relationship strength varied across sites
 description: Most Blueprint students reported strong tutor relationships, but reported relationship strength varied across sites
 id: blueprint-tutor-relationships-varied-by-site
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

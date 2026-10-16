@@ -3,7 +3,7 @@ type: research-method
 id: a-bottom-up-taxonomy-of-seven-student-llm-usage-categories-organized-into-three-support-ty
 title: A bottom-up taxonomy of seven student LLM usage categories organized into three support types
 description: "The article presents a refined bottom-up coding scheme of students' LLM use, derived iteratively from LLM-use reports in a research-oriented course and cross-labeled by student initiative."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

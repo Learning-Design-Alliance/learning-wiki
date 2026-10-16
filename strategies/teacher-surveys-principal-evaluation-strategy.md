@@ -3,7 +3,7 @@ type: strategy
 id: teacher-surveys-principal-evaluation-strategy
 title: "Use elements of teacher surveys to add staff perspectives on principals' leadership in school leader evaluation"
 description: The article recommends that districts incorporate teacher survey elements into principal evaluation to capture staff views of leadership.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

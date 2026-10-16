@@ -3,7 +3,7 @@ type: claim
 title: "University students' use of GenAI for learning task completion is negatively associated with GenAI-assisted learning procrastination"
 description: "University students' use of GenAI for learning task completion is negatively associated with GenAI-assisted learning procrastination"
 id: genai-use-negatively-associated-genai-learning-procrastination
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

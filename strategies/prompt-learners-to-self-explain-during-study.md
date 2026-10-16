@@ -3,7 +3,7 @@ type: strategy
 id: prompt-learners-to-self-explain-during-study
 title: Induce self-explanation by prompting learners during study and problem solving
 description: The meta-analysis supports designing learning activities in which learners receive prompts to self-explain while studying or solving problems.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

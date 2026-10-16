@@ -3,7 +3,7 @@ type: claim
 title: School shooters are rarely the bullied loners of popular stereotype, and bullying prevention alone will not eliminate shootings
 description: School shooters are rarely the bullied loners of popular stereotype, and bullying prevention alone will not eliminate shootings
 id: shooters-not-bullied-loners
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

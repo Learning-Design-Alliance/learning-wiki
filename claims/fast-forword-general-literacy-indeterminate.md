@@ -3,7 +3,7 @@ type: claim
 title: All five studies of Fast ForWord in the general literacy achievement domain showed indeterminate effects
 description: All five studies of Fast ForWord in the general literacy achievement domain showed indeterminate effects
 id: fast-forword-general-literacy-indeterminate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

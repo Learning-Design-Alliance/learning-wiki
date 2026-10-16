@@ -3,7 +3,7 @@ type: claim
 title: "The deployment-literacy gap is structural: curriculum timelines of five to seven years cannot match agentic AI product cycles of months"
 description: "The deployment-literacy gap is structural: curriculum timelines of five to seven years cannot match agentic AI product cycles of months"
 id: structural-mismatch-curriculum-pace-vs-agent-product-cycles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

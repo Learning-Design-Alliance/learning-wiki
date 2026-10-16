@@ -3,7 +3,7 @@ type: claim
 title: Students held misconceptions about how MMLA data was collected and processed, and most relied on guesswork when explaining the analysis pipeline
 description: Students held misconceptions about how MMLA data was collected and processed, and most relied on guesswork when explaining the analysis pipeline
 id: mmla-transparency-misconceptions-guesswork
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

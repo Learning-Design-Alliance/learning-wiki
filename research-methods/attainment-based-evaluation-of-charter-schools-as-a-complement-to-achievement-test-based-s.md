@@ -3,7 +3,7 @@ type: research-method
 id: attainment-based-evaluation-of-charter-schools-as-a-complement-to-achievement-test-based-s
 title: Attainment-based evaluation of charter schools as a complement to achievement-test-based studies
 description: The report frames its contribution as moving beyond the standard outcome measure in charter school research.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

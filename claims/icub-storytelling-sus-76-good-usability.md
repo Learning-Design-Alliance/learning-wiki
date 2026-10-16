@@ -3,7 +3,7 @@ type: claim
 title: Adults rated the LLM-powered iCub storytelling system as usable, with a total SUS score of 76.70 indicating good product usability
 description: Adults rated the LLM-powered iCub storytelling system as usable, with a total SUS score of 76.70 indicating good product usability
 id: icub-storytelling-sus-76-good-usability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

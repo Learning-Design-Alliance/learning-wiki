@@ -3,7 +3,7 @@ type: claim
 title: Originality showed a borderline non-significant trend toward higher accuracy on professional than EFL student writing, while Turnitin showed no significant difference
 description: Originality showed a borderline non-significant trend toward higher accuracy on professional than EFL student writing, while Turnitin showed no significant difference
 id: originality-borderline-efl-accuracy-trend
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

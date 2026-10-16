@@ -3,7 +3,7 @@ type: claim
 title: "Hake's survey found interactive-engagement courses achieved average normalized gains about two standard deviations greater than traditional courses, with overall gain–pretest correlation of +0.02"
 description: "Hake's survey found interactive-engagement courses achieved average normalized gains about two standard deviations greater than traditional courses, with overall gain–pretest correlation of +0.02"
 id: hake-ie-gains-two-sd-greater
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
@@ -58,3 +58,4 @@ The article reports (Introduction) Hake's large multi-course survey as backgroun
 - Pre-test scores strongly predict post-test scores but not normalized learning gains — related
 - [All training policies narrowed the prior-knowledge achievement gap from pretest to posttest, with BKT achieving the largest reduction (77.1%)](bkt-largest-achievement-gap-reduction.md) — related
 - [Switching introductory physics lectures from traditional instruction to Peer Instruction dramatically increased average FCI posttest scores and normalized gain at Harvard](fci-gain-increased-peer-instruction-harvard.md) — a narrower finding that bears on this claim
+- [Use of pretest-to-posttest gain scores does not influence word-learning effect sizes](gain-scores-no-effect-on-effect-sizes.md) — related

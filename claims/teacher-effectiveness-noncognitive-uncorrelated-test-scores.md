@@ -3,7 +3,7 @@ type: claim
 title: Teachers who are effective at improving academic behaviors and mindsets are often not the same teachers who raise math test scores
 description: Teachers who are effective at improving academic behaviors and mindsets are often not the same teachers who raise math test scores
 id: teacher-effectiveness-noncognitive-uncorrelated-test-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

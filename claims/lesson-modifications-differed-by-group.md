@@ -3,7 +3,7 @@ type: claim
 title: Delayed Treatment teachers more frequently simplified GC/CoV-lean lessons in ways that removed opportunities for figuring out, while Treatment teachers added graphing-skill opportunities
 description: Delayed Treatment teachers more frequently simplified GC/CoV-lean lessons in ways that removed opportunities for figuring out, while Treatment teachers added graphing-skill opportunities
 id: lesson-modifications-differed-by-group
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

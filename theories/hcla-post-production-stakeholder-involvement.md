@@ -2,7 +2,7 @@
 type: theory
 title: Human-centred learning analytics (HCLA) with active stakeholder involvement in the post-production phase
 description: HCLA is an approach emphasizing human factors in LA by including stakeholders in designing, developing, and evaluating the LA process.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

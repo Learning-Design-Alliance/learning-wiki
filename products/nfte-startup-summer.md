@@ -4,7 +4,7 @@ id: nfte-startup-summer
 title: NFTE Startup Summer
 description: "NFTE's Startup Summer is an intensive business-startup programme that supports selected high-school students from under-resourced communities through boot camp, coaching, funding, and a public pitch event."
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

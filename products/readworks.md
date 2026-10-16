@@ -4,7 +4,7 @@ id: readworks
 title: ReadWorks
 description: ReadWorks is a nonprofit digital platform that provides K–12 reading articles, comprehension and vocabulary supports, assessments, teacher resources, and accessibility features.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
@@ -47,11 +47,11 @@ ReadWorks is a nonprofit digital platform that provides K–12 reading articles,
 -
 
 ## Key Sources
-- Tare, M., Nobles, S., & Xiao, W. (2018). Partnerships that work: Tapping research to address learner variability in young readers. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/e59c6e47-4209-4187-a0ef-b8da08283ec6
-- Tare, M. & Shell, A. R. (2019). Designing for learner variability: Examining the impact of research-based edtech in the classroom. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985
+- Tare, M., Nobles, S., & Xiao, W. (2018). Partnerships that work: Tapping research to address learner variability in young readers. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/e59c6e47-4209-4187-a0ef-b8da08283ec6. [doi:10.51388/20.500.12265/67](https://doi.org/10.51388/20.500.12265/67)
+- Tare, M. & Shell, A. R. (2019). Designing for learner variability: Examining the impact of research-based edtech in the classroom. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985. [doi:10.51388/20.500.12265/81](https://doi.org/10.51388/20.500.12265/81)
 
 <!-- merged 2026-10-10 from elements/readworks-digital-platform-lps-features ("ReadWorks digital reading platform with LPS-informed learner variability features"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
-- Tare, M. & Shell, A. R. (2019). Designing for learner variability: Examining the impact of research-based edtech in the classroom. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985
+- Tare, M. & Shell, A. R. (2019). Designing for learner variability: Examining the impact of research-based edtech in the classroom. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985. [doi:10.51388/20.500.12265/81](https://doi.org/10.51388/20.500.12265/81)
 
 # ReadWorks digital reading platform with LPS-informed learner variability features
 
@@ -93,7 +93,7 @@ ReadWorks is a nonprofit providing free K-12 resources including a library of cu
 - [Raise teacher awareness of new features through professional development and outreach](../strategies/raise-teacher-awareness-new-feature-pd-outreach.md)
 
 ## Key Sources
-- Tare, M., Nobles, S., & Xiao, W. (2018). Partnerships that work: Tapping research to address learner variability in young readers. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/e59c6e47-4209-4187-a0ef-b8da08283ec6
+- Tare, M., Nobles, S., & Xiao, W. (2018). Partnerships that work: Tapping research to address learner variability in young readers. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/e59c6e47-4209-4187-a0ef-b8da08283ec6. [doi:10.51388/20.500.12265/67](https://doi.org/10.51388/20.500.12265/67)
 -->
 
 <!-- merged 2026-10-10 from elements/readworks-lvp-learner-variability-platform ("ReadWorks digital reading comprehension platform with LVP-informed learner-variability features"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
@@ -140,5 +140,5 @@ ReadWorks is a free digital platform providing K-12 teachers a library of curate
 -
 
 ## Key Sources
-- Tare, M. & Shell, A. R. (2019). Designing for learner variability: Examining the impact of research-based edtech in the classroom. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985
+- Tare, M. & Shell, A. R. (2019). Designing for learner variability: Examining the impact of research-based edtech in the classroom. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985. [doi:10.51388/20.500.12265/81](https://doi.org/10.51388/20.500.12265/81)
 -->

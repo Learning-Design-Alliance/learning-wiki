@@ -3,7 +3,7 @@ type: strategy
 id: lkt-model-composition-strategy
 title: Compose LKT models by starting with a student-ability feature, adding KC/item difficulty intercepts, then adding and splitting dynamic learning features
 description: The article recommends a stepwise procedure for building a learner model from scratch in LKT.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

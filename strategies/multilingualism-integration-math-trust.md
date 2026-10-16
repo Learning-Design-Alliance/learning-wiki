@@ -3,7 +3,7 @@ type: strategy
 id: multilingualism-integration-math-trust
 title: "Integrate students' home languages into math instruction to build trust and participation"
 description: "Teachers used knowledge of students' home language to strengthen relationships and make math content more accessible."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

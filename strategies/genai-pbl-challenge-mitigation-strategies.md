@@ -3,7 +3,7 @@ type: strategy
 id: genai-pbl-challenge-mitigation-strategies
 title: Mitigation strategies for GenAI challenges in PBL (validation, AI-free periods, equity monitoring)
 description: "The article's recommended responses to the risks of GenAI in PBL: rigorous validation of outputs, retrieval-augmented generation anchored in verified literature, explicit training in critical evaluation, defined AI-us..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

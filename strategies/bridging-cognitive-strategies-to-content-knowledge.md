@@ -3,7 +3,7 @@ type: strategy
 id: bridging-cognitive-strategies-to-content-knowledge
 title: Develop bridging techniques linking cognitive strategies to content knowledge areas
 description: The article recommends developing bridging techniques within the Instrumental Enrichment program so that cognitive strategies are linked to content knowledge areas such as physics, biology, or mathematics, a direction...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

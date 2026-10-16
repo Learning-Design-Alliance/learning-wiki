@@ -3,7 +3,7 @@ type: strategy
 id: adaptive-teachable-agents-sustained-knowledge-building
 title: Design adaptive teachable agents that promote sustained knowledge-building responses so learners of any prior knowledge can benefit
 description: "The article's design recommendation is to build teachable agents that pose persistent, contextually relevant follow-up questions adapted to the tutor's responses, \"scaffolding tutors' elaborations and prompting reflec..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

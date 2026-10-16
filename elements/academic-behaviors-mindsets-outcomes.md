@@ -3,7 +3,7 @@ type: element
 id: academic-behaviors-mindsets-outcomes
 title: Academic behaviors and mindsets as student outcomes beyond test scores
 description: "The paper treats a set of non-tested student outcomes — \"a range of academic behaviors and mindsets other than test scores\" — as important contributors to children's long-term success and as legitimate targets of teac..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

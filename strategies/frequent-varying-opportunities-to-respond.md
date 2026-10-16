@@ -3,7 +3,7 @@ type: strategy
 id: frequent-varying-opportunities-to-respond
 title: Provide students frequent and varying opportunities to respond to and engage in activities
 description: Recommendation 5 calls for frequent and varied opportunities to respond (OTR) during instruction, such as response cards and small-group formats.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

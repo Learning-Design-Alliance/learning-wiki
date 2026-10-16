@@ -3,7 +3,7 @@ type: strategy
 id: track-monitor-share-rar-promising-practices
 title: Design the review process to track and monitor resource allocation methods over time, adapt to changing needs, and share promising practices with other states.
 description: "The report's fifth lesson directs states to ensure the RAR process shows \"how resource allocation methods will be tracked and monitored to demonstrate impact on student outcomes.\" It recommends an internal review to a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

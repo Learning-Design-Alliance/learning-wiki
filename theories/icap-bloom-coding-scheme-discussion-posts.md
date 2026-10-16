@@ -2,7 +2,7 @@
 type: theory
 title: ICAP-Bloom adapted coding scheme for cognitive engagement in online discussion posts
 description: "The authors adapted the ICAP framework by merging it with Bloom's revised taxonomy to label cognitive engagement in discussion posts."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

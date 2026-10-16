@@ -63,7 +63,7 @@ Comprehension checks convert reading from passive input into retrieval practice,
 - [Stop-and-Jot](stop-and-jot.md) — a minimal written variant of the check
 
 ## Examples
-- **Reciprocal Teaching** (Palincsar & Brown) — small groups rotate predicting, questioning, clarifying, and summarizing roles during reading; the questioning role is a learner-run comprehension check
+- **[Reciprocal Teaching](reciprocal_teaching.md)** (Palincsar & Brown) — small groups rotate predicting, questioning, clarifying, and summarizing roles during reading; the questioning role is a learner-run comprehension check
 - **[Newsela](https://newsela.com)** — leveled articles with embedded quiz questions at each reading level, providing checks calibrated to text difficulty
 - **KWL charts** — the "What do you know? / What did you learn?" columns frame checks before and after reading
 

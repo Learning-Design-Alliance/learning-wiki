@@ -4,7 +4,7 @@ title: GLAT scores predicted performance on GenAI-supported tasks better than pe
 description: GLAT scores predicted performance on GenAI-supported tasks better than perceived ChatGPT proficiency
 id: glat-predicts-task-performance-better-than-self-report
 aliases: [glat-predicts-genai-task-performance]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

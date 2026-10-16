@@ -3,7 +3,7 @@ type: strategy
 id: deliberate-transparent-ai-policies-for-admissions
 title: Institutions should move toward deliberate, transparent policies governing AI use in admissions and reconsider what application essays should assess
 description: "Based on evidence that AI use is widespread, quality-improving, and penalized, the authors recommend that institutions \"move toward deliberate, transparent policies around AI use\", noting that many institutions lack p..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

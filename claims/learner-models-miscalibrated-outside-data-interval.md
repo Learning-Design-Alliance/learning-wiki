@@ -3,7 +3,7 @@ type: claim
 title: Current best learner performance models are severely biased outside the interval containing most of the data, hindering downstream adaptive policies and open learner models
 description: Current best learner performance models are severely biased outside the interval containing most of the data, hindering downstream adaptive policies and open learner models
 id: learner-models-miscalibrated-outside-data-interval
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

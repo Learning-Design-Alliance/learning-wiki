@@ -3,7 +3,7 @@ type: claim
 title: Perceived risk negatively predicts use behavior and operates as a stage-sensitive deterrent, activated at submission and evaluation rather than initial exploration
 description: Perceived risk negatively predicts use behavior and operates as a stage-sensitive deterrent, activated at submission and evaluation rather than initial exploration
 id: perceived-risk-stage-sensitive-deterrent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

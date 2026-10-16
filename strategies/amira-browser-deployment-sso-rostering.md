@@ -3,7 +3,7 @@ type: strategy
 id: amira-browser-deployment-sso-rostering
 title: Deploy Amira as a browser-based program integrated with district systems through Single Sign-On and automated rostering
 description: Amira is a browser-based program requiring no special software, working on Chromebooks, PCs, Macs, iPads, and tablets.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

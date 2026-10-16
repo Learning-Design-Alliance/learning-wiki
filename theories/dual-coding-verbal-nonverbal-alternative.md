@@ -2,7 +2,7 @@
 type: theory
 title: "Dual coding theory: parallel verbal and nonverbal representation systems as an alternative to schema theory"
 description: "The essay presents dual coding (Sadoski, Paivio, & Goetz, 1991) as an alternative to schema theory in which verbal stimuli are organized in terms of logogens representing phonemes, graphemes, morphemes, words and larg..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -49,6 +49,7 @@ The essay presents dual coding (Sadoski, Paivio, & Goetz, 1991) as an alternativ
 ## Examples
 
 - [Dual Coding](../strategies/dual-coding.md)
+- [Apply DCT to educational research and teacher education in the science and practice of educational psychology](../strategies/dct-implications-research-teacher-education.md)
 
 ## Key Sources
 - Bigenho, Frederick W., Jr. (1992). Conceptual Developments in Schema Theory. https://eric.ed.gov/?id=ED351392

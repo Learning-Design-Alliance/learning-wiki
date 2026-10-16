@@ -3,7 +3,7 @@ type: claim
 title: Kauffman students had higher attendance rates and were less likely to be suspended than similar Kansas City students
 description: Kauffman students had higher attendance rates and were less likely to be suspended than similar Kansas City students
 id: kauffman-students-higher-attendance-lower-suspension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

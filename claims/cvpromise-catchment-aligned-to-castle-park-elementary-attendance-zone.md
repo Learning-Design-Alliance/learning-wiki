@@ -3,7 +3,7 @@ type: claim
 title: The CVPromise catchment area was deliberately aligned with the attendance zone of Castle Park Elementary, a low-performing school in program improvement status
 description: The CVPromise catchment area was deliberately aligned with the attendance zone of Castle Park Elementary, a low-performing school in program improvement status
 id: cvpromise-catchment-aligned-to-castle-park-elementary-attendance-zone
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

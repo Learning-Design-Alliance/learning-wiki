@@ -4,7 +4,7 @@ id: cbm-computation-progress-monitoring-probes-for-first-grade-math
 title: CBM Computation progress-monitoring probes for first-grade math
 description: These are brief, standardized first-grade mathematics computation probes used to monitor student progress in RTI, with performance scored by correctly computed digits.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: MAB assignment overestimates effect sizes for normally distributed rewards, with greater overestimation for smaller true effects
 description: MAB assignment overestimates effect sizes for normally distributed rewards, with greater overestimation for smaller true effects
 id: mab-overestimates-effect-sizes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -50,3 +50,4 @@ Simulation measurement of effect sizes from MAB-collected data for normally dist
 - An optimistic prior distribution partially mitigates MAB power loss without substantially reducing student benefits — related
 - MAB assignment increases the Type I (false positive) error rate above the nominal alpha level — related
 - Type S errors (significant findings in the wrong direction) are rare under both MAB and uniform assignment — related
+- [Studies using a no-input control group yield significantly smaller effect sizes, protecting against overestimation](control-group-smaller-effect-sizes.md) — related

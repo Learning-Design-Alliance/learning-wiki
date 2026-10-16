@@ -3,7 +3,7 @@ type: claim
 title: "Under controlled synthetic MNAR bias, TSDR-equipped models improve across the entire bias spectrum, with the RMSE advantage diminishing beyond gamma > 0.8"
 description: "Under controlled synthetic MNAR bias, TSDR-equipped models improve across the entire bias spectrum, with the RMSE advantage diminishing beyond gamma > 0.8"
 id: tsdr-robust-across-mnar-spectrum
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

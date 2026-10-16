@@ -3,7 +3,7 @@ type: claim
 title: Purpose-built AI chatbot coaching is generally well received and supports short-term motivation and selected behavior change, but effects on sustained, meaningful outcomes are inconsistent
 description: Purpose-built AI chatbot coaching is generally well received and supports short-term motivation and selected behavior change, but effects on sustained, meaningful outcomes are inconsistent
 id: purpose-built-chatbot-coaching-short-term-benefits-inconsistent-sustained
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: "Pre-K Mathematics improves preschool children's mathematics achievement, with a WWC positive effects rating and strong evidence tier"
 description: "Pre-K Mathematics improves preschool children's mathematics achievement, with a WWC positive effects rating and strong evidence tier"
 id: pre-k-mathematics-positive-effects-math-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Digital Promise research reports significant cross-sector alignment on four mindsets and six skill sets vital to lifelong success
 description: Digital Promise research reports significant cross-sector alignment on four mindsets and six skill sets vital to lifelong success
 id: four-mindsets-six-skillsets-alignment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

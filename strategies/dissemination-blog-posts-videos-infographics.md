@@ -3,7 +3,7 @@ type: strategy
 id: dissemination-blog-posts-videos-infographics
 title: Disseminate partnership information through blog posts, videos, and infographics
 description: "As one of its outputs, the LEAD Partnership plans to \"Develop dissemination resources (blog posts, videos, infographics) to share information about the partnership, intervention, and relevant research\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

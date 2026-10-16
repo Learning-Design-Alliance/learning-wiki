@@ -3,7 +3,7 @@ type: strategy
 id: structured-prompts-iterative-optimization-lesson-planning
 title: Use structured initial prompts and iterative optimization when generating lesson plans with ChatGPT
 description: The article proposes key methods for AI-assisted lesson planning, highlighting steps in generating lesson plans and searching for multimedia resources, supported by a prompt framework with structured initial prompts a...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

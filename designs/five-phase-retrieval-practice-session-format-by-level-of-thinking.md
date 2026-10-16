@@ -3,7 +3,7 @@ type: design
 id: five-phase-retrieval-practice-session-format-by-level-of-thinking
 title: Five-phase retrieval practice session crossing question format and level of thinking
 description: "The study's session design: read a passage, do a distractor task, answer mixed-format retrieval questions, do a second distractor, then take a final test."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

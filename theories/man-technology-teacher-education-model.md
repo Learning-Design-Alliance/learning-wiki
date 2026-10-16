@@ -2,7 +2,7 @@
 type: theory
 title: "Man-Technology model: an interwoven teacher education design integrating general education, professional education, and man-technology study"
 description: The Man-Technology model is a teacher education design in which general education, professional education, and the man-technology area are deliberately interrelated rather than taught as separate entities.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: strategy
 id: cross-sector-charter-best-practice-sharing
 title: Facilitate cross-sector collaboration so charter and non-charter high schools share best practices on their respective strengths
 description: "The report recommends that Chicago's charter and non-charter high schools collaborate around best practices given their complementary strengths."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

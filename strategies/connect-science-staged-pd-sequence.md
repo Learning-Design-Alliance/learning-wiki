@@ -3,7 +3,7 @@ type: strategy
 id: connect-science-staged-pd-sequence
 title: Implement Connect Science through a staged professional development sequence with coaching and reflective practice
 description: "The program's professional development is interactive training on high quality service-learning instruction, integration of social emotional learning into academics, and best practices in teaching energy to elementary..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Teacher involvement in developing ESD-based teaching materials significantly predicts AI integration ability (β = 0.236, p < 0.05, f² = 0.127)
 description: Teacher involvement in developing ESD-based teaching materials significantly predicts AI integration ability (β = 0.236, p < 0.05, f² = 0.127)
 id: esd-material-development-predicts-ai-integration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

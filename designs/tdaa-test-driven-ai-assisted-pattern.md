@@ -3,7 +3,7 @@ type: design
 id: tdaa-test-driven-ai-assisted-pattern
 title: "TDAA: high-frequency closed-book tests paired with a human-reviewed AI production harness"
 description: "TDAA is a course-level design pattern coupling two cycles: students prepare with aligned materials and face a weekly closed-book gate, while an instructor-side AI harness drafts, reviews, and grades the materials unde..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

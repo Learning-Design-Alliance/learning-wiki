@@ -3,7 +3,7 @@ type: claim
 title: Customized AI agents generate feedback with higher accuracy and specificity than general-purpose agents in self-directed instructional design tasks
 description: Customized AI agents generate feedback with higher accuracy and specificity than general-purpose agents in self-directed instructional design tasks
 id: customized-agents-higher-feedback-accuracy-specificity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

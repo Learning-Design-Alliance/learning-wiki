@@ -3,7 +3,7 @@ type: claim
 title: Three of 16 states require assessment of demographic impact on segregation or desegregation orders, six require programmatic impact assessment, and four require only a general impact assessment
 description: Three of 16 states require assessment of demographic impact on segregation or desegregation orders, six require programmatic impact assessment, and four require only a general impact assessment
 id: demographic-programmatic-general-impact-provision-counts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

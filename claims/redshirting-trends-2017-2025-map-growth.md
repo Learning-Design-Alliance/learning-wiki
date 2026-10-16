@@ -3,7 +3,7 @@ type: claim
 title: Redshirting trends among U.S. kindergartners were examined between fall 2017 and 2025 using data on over three million students
 description: Redshirting trends among U.S.
 id: redshirting-trends-2017-2025-map-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

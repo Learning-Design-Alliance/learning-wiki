@@ -3,7 +3,7 @@ type: claim
 title: Eliminating hiring inequities alone would close teacher quality gaps within 10 years
 description: Eliminating hiring inequities alone would close teacher quality gaps within 10 years
 id: hiring-equity-closes-tqgs-10-years
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

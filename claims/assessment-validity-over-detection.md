@@ -3,7 +3,7 @@ type: claim
 title: Assessment validity is a deeper problem than AI-output detection, and disallowed use clusters with time pressure and unclear expectations
 description: Assessment validity is a deeper problem than AI-output detection, and disallowed use clusters with time pressure and unclear expectations
 id: assessment-validity-over-detection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

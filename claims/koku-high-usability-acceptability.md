@@ -3,7 +3,7 @@ type: claim
 title: Older adults rated the KOKU digital programme with excellent usability and high acceptability
 description: Older adults rated the KOKU digital programme with excellent usability and high acceptability
 id: koku-high-usability-acceptability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

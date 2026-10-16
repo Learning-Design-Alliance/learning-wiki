@@ -3,7 +3,7 @@ type: claim
 title: Direct zero-shot GPT-4o difficulty ratings beat a grade-level dummy regressor and correlate strongly with true Rasch difficulties overall, for K-5 math and reading items
 description: Direct zero-shot GPT-4o difficulty ratings beat a grade-level dummy regressor and correlate strongly with true Rasch difficulties overall, for K-5 math and reading items
 id: direct-llm-estimation-beats-dummy-regressor-k5-items
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

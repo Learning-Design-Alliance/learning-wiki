@@ -3,7 +3,7 @@ type: claim
 title: Weak instructional program coherence impairs sustained school improvement even when staff share a test-score goal
 description: Weak instructional program coherence impairs sustained school improvement even when staff share a test-score goal
 id: weak-coherence-impairs-improvement-wilson
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

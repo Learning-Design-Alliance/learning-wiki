@@ -87,7 +87,7 @@ The pattern often relies on case collections, cross-linking, comparison, and rev
 ### Elements Used
 - [Case-Based Learning](../elements/case-based-learning.md)
 - [Case Study](../elements/case-study.md)
-- [Problem-Solving Tasks](../elements/problem-solving-tasks.md)
+- [Problem-Solving Tasks](../elements/problem-solving.md)
 - [Peer Discussion](../elements/peer-discussion.md)
 
 ### Affordances

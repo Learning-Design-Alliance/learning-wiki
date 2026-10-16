@@ -3,7 +3,7 @@ type: strategy
 id: persona-simulation-preliminary-use-only
 title: Use LLM persona simulation only for preliminary experimentation, stress testing, and hypothesis generation, with separate validation for consequential applications
 description: "The article's responsible-use recommendation is to deploy LLM-based student simulation as a complement to, not a replacement for, research involving people with lived experience."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

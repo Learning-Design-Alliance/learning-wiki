@@ -3,7 +3,7 @@ type: claim
 title: Income status negatively and educational level positively predict job search anxiety
 description: Income status negatively and educational level positively predict job search anxiety
 id: income-education-predict-job-search-anxiety
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

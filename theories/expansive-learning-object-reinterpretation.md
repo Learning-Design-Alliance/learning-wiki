@@ -2,7 +2,7 @@
 type: theory
 title: "Expansive learning: object reinterpreted and widened when activity-system components change and generate contradictions"
 description: Drawing on Engeström and on Virkkunen and Kuutti, the article presents expansive learning as a transformation in the object of activity.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -48,4 +48,4 @@ Drawing on Engeström and on Virkkunen and Kuutti, the article presents expansiv
 - [Support e-teachers' transition with professional development focused on reflecting on online-versus-F2F differences and the potential of the tools](../strategies/pd-reflection-online-versus-f2f-differences.md)
 
 ## Key Sources
-- Murphy, E., & Rodriguez-Manzanares, M. A. (2009). Sage without a Stage: Expanding the Object of Teaching in a Web-Based, High-School Classroom. International Review of Research in Open and Distance Learning, 10(3). https://www.irrodl.org/index.php/irrodl
+- Murphy, E., & Rodriguez-Manzanares, M. A. (2009). Sage without a Stage: Expanding the Object of Teaching in a Web-Based, High-School Classroom. International Review of Research in Open and Distance Learning, 10(3). https://www.irrodl.org/index.php/irrodl. [doi:10.19173/irrodl.v10i3.579](https://doi.org/10.19173/irrodl.v10i3.579)

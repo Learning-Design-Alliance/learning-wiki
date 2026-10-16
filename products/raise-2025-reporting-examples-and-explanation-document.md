@@ -4,7 +4,7 @@ id: raise-2025-reporting-examples-and-explanation-document
 title: RAISE 2025 Reporting Examples and Explanation document
 description: A supplementary RAISE guidance document providing side-by-side bad and good reporting examples and explanations to help authors produce clear, transparent, aligned, and reproducible AI-focused educational research reports.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: research-method
 id: power-planning-for-mediatoroutcome-linkage-analyses-in-clustered-education-rcts
 title: Power planning for mediator–outcome linkage analyses in clustered education RCTs
 description: Because the article develops power formulas specifically for exploratory analyses linking teacher practice outcomes to student achievement outcomes in clustered school-based RCTs, it implies that researchers should evaluate power for these analyses when designing studies.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "An analysis of 23 state ESSA plans identified four main categories of SEA and LEA roles in school improvement: LEA Independence, SEA Oversight, SEA Resource, and SEA–LEA Collaboration."
 description: "An analysis of 23 state ESSA plans identified four main categories of SEA and LEA roles in school improvement: LEA Independence, SEA Oversight, SEA Resource, and SEA–LEA Collaboration."
 id: four-sea-lea-role-categories-essa-plans
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

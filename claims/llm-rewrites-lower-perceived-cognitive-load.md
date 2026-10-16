@@ -3,7 +3,7 @@ type: claim
 title: Pragmatic and contingent LLM rewrites reduced perceived cognitive load relative to standard interpreter messages
 description: Pragmatic and contingent LLM rewrites reduced perceived cognitive load relative to standard interpreter messages
 id: llm-rewrites-lower-perceived-cognitive-load
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

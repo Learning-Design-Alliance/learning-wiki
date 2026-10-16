@@ -3,7 +3,7 @@ type: claim
 title: Question-answering and dialogue histories are complementary views of the same student, with signals transferring across metric categories
 description: Question-answering and dialogue histories are complementary views of the same student, with signals transferring across metric categories
 id: qa-dialogue-histories-complementary-views
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

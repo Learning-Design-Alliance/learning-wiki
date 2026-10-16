@@ -3,7 +3,7 @@ type: claim
 title: Across 59 reviewed studies, the most frequently reported effectiveness factor of AR enhanced analytics is tracking interaction, followed by context awareness and behaviour monitoring
 description: Across 59 reviewed studies, the most frequently reported effectiveness factor of AR enhanced analytics is tracking interaction, followed by context awareness and behaviour monitoring
 id: ar-analytics-effectiveness-tracking-interaction-most-reported
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

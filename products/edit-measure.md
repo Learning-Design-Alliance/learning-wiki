@@ -4,7 +4,7 @@ id: edit-measure
 title: EDIT measure
 description: "The EDIT is a measurement tool developed for the Office of Planning, Research, and Evaluation by Mathematica Policy Research and partners to examine early childhood teachers' ongoing assessment, individualization, and instructional decision-making practices."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

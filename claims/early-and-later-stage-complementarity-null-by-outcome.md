@@ -3,7 +3,7 @@ type: claim
 title: Early-stage therapist complementarity does not differ by outcome group, and the predicted later-stage advantage for successful dyads was not supported
 description: Early-stage therapist complementarity does not differ by outcome group, and the predicted later-stage advantage for successful dyads was not supported
 id: early-and-later-stage-complementarity-null-by-outcome
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
@@ -18,8 +18,8 @@ sources:
     kind: associational
     rigour: 1
   - id: dietzel-1974-2
-    resource: "https://eric.ed.gov/?id=ED091646"
-    title: "Dietzel, C. S.; Abeles, Norman. (1974). Client-Therapist Complementarity and Therapeutic Outcome. https://eric.ed.gov/?id=ED091646"
+    resource: "https://doi.org/10.1037/h0076731"
+    title: "Dietzel, C. S.; Abeles, Norman. (1974). Client-Therapist Complementarity and Therapeutic Outcome. https://eric.ed.gov/?id=ED091646. [doi:10.1037/h0076731](https://doi.org/10.1037/h0076731)"
     author: Dietzel, C. S.; Abeles, Norman
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Early-stage therapist complementarity does not differ by outcome group, and the predicted later-stage advantage for successful dyads was not supported
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` During the early stage, all therapists responded at a moderate complementarity level with no significant outcome-group difference (t = 0.716, p > .05). [→ Dietzel 1974](#dietzel-1974)
@@ -50,7 +50,7 @@ Early-stage (first and second sessions) comparison of Complementarity Index valu
 
 ### Dietzel 1974 (2)
 
-Dietzel, C. S.; Abeles, Norman. (1974). Client-Therapist Complementarity and Therapeutic Outcome. https://eric.ed.gov/?id=ED091646
+Dietzel, C. S.; Abeles, Norman. (1974). Client-Therapist Complementarity and Therapeutic Outcome. https://eric.ed.gov/?id=ED091646. [doi:10.1037/h0076731](https://doi.org/10.1037/h0076731)
 
 `q2 · i?` · `associational · r1`
 

@@ -3,7 +3,7 @@ type: strategy
 id: three-state-levers-sead-implementation
 title: Three state levers for supporting local SEAD implementation
 description: "The brief recommends that state leaders support local SEAD implementation through three levers: prioritizing SEAD-impacting policies in state goals to set expectations for local leaders to implement SEAD with an equit..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

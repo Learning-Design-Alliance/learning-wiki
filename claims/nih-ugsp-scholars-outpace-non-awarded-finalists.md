@@ -4,7 +4,7 @@ title: NIH Undergraduate Scholarship Program scholars progress toward biomedical
 description: NIH Undergraduate Scholarship Program scholars progress toward biomedical research careers at substantially higher rates than finalists who were not awarded scholarships
 id: nih-ugsp-scholars-outpace-non-awarded-finalists
 aliases: [nih-scholars-higher-biomedical-research-rates-than-finalists]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

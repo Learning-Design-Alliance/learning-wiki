@@ -3,7 +3,7 @@ type: claim
 title: Teachers dedicating more time to whole-class instruction is associated with increased student math achievement
 description: Teachers dedicating more time to whole-class instruction is associated with increased student math achievement
 id: more-whole-class-instruction-time-higher-math-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: use-existing-data-differently-for-distress-detection
 title: Authorizers identify distress using existing data and professional judgment rather than new data collection demands
 description: "The report states that identifying schools in distress 'does not require vast reams of data or an increase in demands on schools'; for many authorizers it 'simply means looking at existing data differently.' Interview..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Many applicants failed to complete post-application admission requirements, with Black and Latino students least likely to complete them
 description: Many applicants failed to complete post-application admission requirements, with Black and Latino students least likely to complete them
 id: gocps-post-application-requirement-noncompletion-gaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Back-translation evaluation outperforms LLM-as-a-Judge (code+image) in agreement with human raters across four models
 description: Back-translation evaluation outperforms LLM-as-a-Judge (code+image) in agreement with human raters across four models
 id: backtranslation-outperforms-llm-judge-diagram-agreement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

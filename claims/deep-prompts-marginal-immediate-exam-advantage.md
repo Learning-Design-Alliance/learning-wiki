@@ -3,7 +3,7 @@ type: claim
 title: Cognitive prompts activating deep learning strategies produce a marginally significant immediate exam advantage over prompts activating shallow strategies in a real psychology course
 description: Cognitive prompts activating deep learning strategies produce a marginally significant immediate exam advantage over prompts activating shallow strategies in a real psychology course
 id: deep-prompts-marginal-immediate-exam-advantage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

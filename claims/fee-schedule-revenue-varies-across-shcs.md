@@ -3,7 +3,7 @@ type: claim
 title: Estimated Fee Schedule billing revenue varies widely across Alameda County school health centers and is small relative to existing billing revenue for most
 description: Estimated Fee Schedule billing revenue varies widely across Alameda County school health centers and is small relative to existing billing revenue for most
 id: fee-schedule-revenue-varies-across-shcs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

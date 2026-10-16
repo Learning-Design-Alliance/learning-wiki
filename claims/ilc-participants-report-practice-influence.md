@@ -4,7 +4,7 @@ title: Most ILC workshop participants report that the experience influenced thei
 description: Most ILC workshop participants report that the experience influenced their curriculum, instruction, assessments, engagement, and student learning to a great extent
 id: ilc-participants-report-practice-influence
 aliases: [ilc-participants-report-great-extent-influence]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

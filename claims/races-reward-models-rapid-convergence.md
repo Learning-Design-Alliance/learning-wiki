@@ -3,7 +3,7 @@ type: claim
 title: "Both reward models converge rapidly, reaching stable Hit@k performance around 200–250 training steps and above-baseline Hit@3 within about 50 steps"
 description: "Both reward models converge rapidly, reaching stable Hit@k performance around 200–250 training steps and above-baseline Hit@3 within about 50 steps"
 id: races-reward-models-rapid-convergence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

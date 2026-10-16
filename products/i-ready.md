@@ -4,7 +4,7 @@ id: i-ready
 title: i-Ready
 description: "i-Ready is Curriculum Associates' digital learning platform combining computer-adaptive Diagnostic assessments with personalized Reading and Mathematics instruction."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
@@ -67,7 +67,7 @@ i-Ready is a suite of instructional and assessment products by Curriculum Associ
 - [i-Ready Personalized Instruction (online individualized reading lessons for grades K-8)](i-ready-personalized-instruction.md)
 - [i-Ready Classroom Mathematics (iRCL): a K-8 core mathematics curriculum combining print and digital materials](ircl.md)
 - [IXL Math personalized learning program with Real-Time Diagnostic and IXL Analytics](ixl-math.md)
-- [Exact Path Proficiency + Exact Path Growth digital learning system](../products/exact-path.md)
+- [Exact Path Proficiency + Exact Path Growth digital learning system](edmentum-exact-path.md)
 - [Turkish K–8 e-learning platform with four module components (lessons, practices, exams, games)](../elements/turkish-k8-elearning-platform-four-components.md)
 
 ## Examples

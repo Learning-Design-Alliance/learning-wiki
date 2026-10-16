@@ -3,7 +3,7 @@ type: claim
 title: Structured repetition gains in fluency depend on repeating the same task
 description: Structured repetition gains in fluency depend on repeating the same task
 id: structured-repetition-fluency-task-specific
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

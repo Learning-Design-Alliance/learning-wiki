@@ -3,7 +3,7 @@ type: claim
 title: "Engineered practice-balance features outperform raw activity counts: the Intensity Ratio ranks third among Codeforces predictors, and upsolving habit dominates the survey model"
 description: "Engineered practice-balance features outperform raw activity counts: the Intensity Ratio ranks third among Codeforces predictors, and upsolving habit dominates the survey model"
 id: intensity-ratio-and-upsolving-habit-top-feature-importance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

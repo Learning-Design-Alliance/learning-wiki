@@ -3,7 +3,7 @@ type: claim
 title: "Coaching components are inconsistently reported: face-to-face feedback appeared in 94% of studies but coaching fidelity was collected in only 50%"
 description: "Coaching components are inconsistently reported: face-to-face feedback appeared in 94% of studies but coaching fidelity was collected in only 50%"
 id: coaching-components-inconsistently-reported
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

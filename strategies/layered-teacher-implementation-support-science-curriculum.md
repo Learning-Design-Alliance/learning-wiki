@@ -3,7 +3,7 @@ type: strategy
 id: layered-teacher-implementation-support-science-curriculum
 title: "Layered implementation support for teachers adopting a new science curriculum: preservice training, follow-up training, and a science coach"
 description: "In the evaluated trial, intervention teachers received a layered support package: \"four days of preservice professional development to learn about the specific curriculum before the school year, a three-hour follow-up..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

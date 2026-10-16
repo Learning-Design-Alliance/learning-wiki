@@ -3,7 +3,7 @@ type: claim
 title: "Extreme country cases: Spain reports universal external control of hiring while the Netherlands reports universal internal control of HR, curriculum, and budget"
 description: "Extreme country cases: Spain reports universal external control of hiring while the Netherlands reports universal internal control of HR, curriculum, and budget"
 id: extreme-country-control-cases-spain-netherlands
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

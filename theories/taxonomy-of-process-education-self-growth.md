@@ -2,7 +2,7 @@
 type: theory
 title: "Taxonomy of Process Education: four sequential self-growth levels from Emerging to Accomplished"
 description: The Taxonomy of Process Education (TPE) is a four-level measurement metric derived from Process Education, used in AMOVA to weight instrument items.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -50,4 +50,4 @@ The Taxonomy of Process Education (TPE) is a four-level measurement metric deriv
 - [Use AMOVA to add validity and reliability assessment value for researcher-designed instruments, with further substantiating research](../methods/use-amova-for-researcher-designed-instrument-validation.md)
 
 ## Key Sources
-- Osler, J. E. (2015). AMOVA ["Accumulative Manifold Validation Analysis"]: An advanced statistical methodology designed to measure and test the validity, reliability, and overall efficacy of inquiry-based psychometric instruments. i-manager's Journal of Educational Technology, 12(3). https://eric.ed.gov/?id=EJ1098595
+- Osler, J. E. (2015). AMOVA ["Accumulative Manifold Validation Analysis"]: An advanced statistical methodology designed to measure and test the validity, reliability, and overall efficacy of inquiry-based psychometric instruments. i-manager's Journal of Educational Technology, 12(3). https://eric.ed.gov/?id=EJ1098595. [doi:10.26634/jet.12.3.3742](https://doi.org/10.26634/jet.12.3.3742)

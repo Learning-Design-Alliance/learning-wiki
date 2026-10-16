@@ -3,7 +3,7 @@ type: research-method
 id: adapted-conjecture-map-framework-for-learning-scientists-and-computer-scientists
 title: Adapted conjecture map framework for learning scientists and computer scientists
 description: "An adaptation of Sandoval's conjecture mapping tool, created by Chang and Roschelle, that supports interdisciplinary design-based research teams in connecting learning theory to technical design."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

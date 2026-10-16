@@ -2,7 +2,7 @@
 type: theory
 title: "Crucible courses: intermediate courses combining a large ADK jump with enculturation that accelerate trajectories toward central participation in a discipline's community of practice"
 description: "The authors introduce \"crucible courses\" as \"the ﬁrst courses in which students work on diﬃcult physics problems surrounded primarily by other physics students, are treated by their professors as junior physicists, an..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -48,4 +48,4 @@ The authors introduce "crucible courses" as "the ﬁrst courses in which student
 -
 
 ## Key Sources
-- Irving, P. W., & Sayre, E. C. (2013). Conditions for building a community of practice in an advanced physics laboratory. https://arxiv.org/abs/1312.1953
+- Irving, P. W., & Sayre, E. C. (2013). Conditions for building a community of practice in an advanced physics laboratory. https://arxiv.org/abs/1312.1953. [doi:10.48550/arxiv.1312.1953](https://doi.org/10.48550/arxiv.1312.1953)

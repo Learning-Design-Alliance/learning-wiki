@@ -3,7 +3,7 @@ type: claim
 title: Mediator-outcome association analyses can identify teacher practice mediators most associated with student learning
 description: Mediator-outcome association analyses can identify teacher practice mediators most associated with student learning
 id: mediator-analyses-identify-key-teacher-practices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

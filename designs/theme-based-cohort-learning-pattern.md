@@ -3,7 +3,7 @@ type: design
 id: theme-based-cohort-learning-pattern
 title: Cohort learning organized around a common theme with guiding values
 description: "The toolkit's design pattern is a learning cohort of participants organized around a common theme, such as equity, supported by guiding values that facilitators consider when planning activities."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-08

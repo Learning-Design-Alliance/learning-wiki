@@ -3,7 +3,7 @@ type: claim
 title: Catapult Learning Wraparound SES significantly improves middle school math achievement (ES +0.21)
 description: Catapult Learning Wraparound SES significantly improves middle school math achievement (ES +0.21)
 id: wraparound-ses-improves-math-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

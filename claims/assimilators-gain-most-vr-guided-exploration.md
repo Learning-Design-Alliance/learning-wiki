@@ -3,7 +3,7 @@ type: claim
 title: Assimilator learners gained significantly more in the VR (guided exploration) mode than in VR (non-guided exploration) or Non VR modes
 description: Assimilator learners gained significantly more in the VR (guided exploration) mode than in VR (non-guided exploration) or Non VR modes
 id: assimilators-gain-most-vr-guided-exploration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

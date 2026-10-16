@@ -3,7 +3,7 @@ type: claim
 title: Course grades and GPA predict high school and college outcomes better than standardized test scores or coursework
 description: Course grades and GPA predict high school and college outcomes better than standardized test scores or coursework
 id: grades-better-predictor-than-test-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -64,3 +64,4 @@ Review synthesis of predictive studies (Box 1.1), citing University of Californi
 - [Composite accountability indicators such as A–F letter grades fail to capture the cognitive and noncognitive competencies of deeper learning and college and career readiness](composite-indicators-poor-conceptual-alignment-deeper-learning.md) — related
 - The quality and intensity of the high school curriculum is reported to be the single most important factor in college success — reports the opposite
 - [Prediction and intervention are different problems: highly predictive features such as prior GPA are often ones an institution cannot change](prediction-versus-causal-intervention-distinction.md) — related
+- [The parental involvement–achievement relationship is stronger for global achievement indicators (e.g., GPA) than for subject-specific indicators (e.g., math grade)](involvement-stronger-with-global-achievement-indicators.md) — related

@@ -3,7 +3,7 @@ type: claim
 title: Immediate, informative test results enable teachers to differentiate instruction to individual needs
 description: Immediate, informative test results enable teachers to differentiate instruction to individual needs
 id: immediate-adaptive-test-results-enable-differentiation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

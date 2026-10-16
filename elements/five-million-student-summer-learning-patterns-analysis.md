@@ -3,21 +3,21 @@ type: element
 id: five-million-student-summer-learning-patterns-analysis
 title: Analysis of typical summer learning patterns of five million students as a basis for COVID-19 loss projections
 description: "The paper bases its COVID-19 learning-loss projections partly on \"analyses of typical summer learning patterns of five million students,\" combining this empirical basis with \"estimates from prior literature\" on the im..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 sources:
   - id: kuhfeld-2020
-    resource: "https://www.nwea.org/research/publication/projecting-the-potential-impacts-of-covid-19-school-closures-on-academic-achievement/"
-    title: "Kuhfeld, M., Soland, J., Tarasawa, B., Johnson, A., Ruzek, E., & Liu, J. (2020). Projecting the potential impacts of COVID-19 school closures on academic achievement. NWEA Research working paper. https://www.nwea.org/research/publication/projecting-the-potential-impacts-of-covid-19-school-closures-on-academic-achievement/"
+    resource: "https://doi.org/10.3102/0013189X20965918"
+    title: "Kuhfeld, M., Soland, J., Tarasawa, B., Johnson, A., Ruzek, E., & Liu, J. (2020). Projecting the potential impact of COVID-19 school closures on academic achievement. *Educational Researcher, 49*(8), 549–565. https://doi.org/10.3102/0013189X20965918"
     author: "Kuhfeld, M., Soland, J., Tarasawa, B., Johnson, A., Ruzek, E., & Liu, J"
 ---
 
 # Analysis of typical summer learning patterns of five million students as a basis for COVID-19 loss projections
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 3 studies (3 associational), `q1`–`q2` · 0 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 associational), `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The paper bases its COVID-19 learning-loss projections partly on "analyses of typical summer learning patterns of five million students," combining this empirical basis with "estimates from prior literature" on the impacts of missing school. The summer-pattern analysis supplies typical seasonal learning trajectories against which closure-period learning is projected. The page describes this as one of the two inputs, alongside prior-literature estimates, used to produce "a series of projections of COVID-19-related learning loss."
@@ -55,4 +55,4 @@ The paper bases its COVID-19 learning-loss projections partly on "analyses of ty
 - [Prepare for fall 2020 by supporting academically behind students and further differentiating instruction](../strategies/support-behind-students-differentiate-instruction-post-closures.md)
 
 ## Key Sources
-- Kuhfeld, M., Soland, J., Tarasawa, B., Johnson, A., Ruzek, E., & Liu, J. (2020). Projecting the potential impacts of COVID-19 school closures on academic achievement. NWEA Research working paper. https://www.nwea.org/research/publication/projecting-the-potential-impacts-of-covid-19-school-closures-on-academic-achievement/
+- Kuhfeld, M., Soland, J., Tarasawa, B., Johnson, A., Ruzek, E., & Liu, J. (2020). Projecting the potential impact of COVID-19 school closures on academic achievement. *Educational Researcher, 49*(8), 549–565. https://doi.org/10.3102/0013189X20965918

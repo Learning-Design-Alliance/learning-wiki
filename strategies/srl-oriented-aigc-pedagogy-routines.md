@@ -3,7 +3,7 @@ type: strategy
 id: srl-oriented-aigc-pedagogy-routines
 title: "Embed SRL-oriented AIGC pedagogy: prompt-and-reflect routines, verification rubrics, and feedback literacy"
 description: The article recommends that instructors scaffold self-regulated learning by designing AIGC activities that explicitly target self-efficacy and motivation rather than seamless answer delivery.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

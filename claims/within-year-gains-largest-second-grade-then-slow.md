@@ -3,7 +3,7 @@ type: claim
 title: Within-year fall-to-spring gains are largest in second grade (about 13.4 RIT in math) and slow by roughly 1.4 RIT per year as students progress through elementary school
 description: Within-year fall-to-spring gains are largest in second grade (about 13.4 RIT in math) and slow by roughly 1.4 RIT per year as students progress through elementary school
 id: within-year-gains-largest-second-grade-then-slow
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

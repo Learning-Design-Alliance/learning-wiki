@@ -3,7 +3,7 @@ type: claim
 title: COVID-19 school closures will likely impact student academic achievement
 description: COVID-19 school closures will likely impact student academic achievement
 id: covid-closures-likely-impact-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

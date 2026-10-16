@@ -3,7 +3,7 @@ type: claim
 title: "Learning losses were 40% larger than average among students in the two lowest parental-education categories"
 description: "Learning losses were 40% larger than average among students in the two lowest parental-education categories"
 id: learning-loss-40-percent-larger-low-parental-education
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

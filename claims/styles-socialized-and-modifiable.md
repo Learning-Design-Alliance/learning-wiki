@@ -3,7 +3,7 @@ type: claim
 title: Intellectual styles are partly socialized and therefore modifiable to some degree
 description: Intellectual styles are partly socialized and therefore modifiable to some degree
 id: styles-socialized-and-modifiable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

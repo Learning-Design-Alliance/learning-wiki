@@ -3,7 +3,7 @@ type: claim
 title: Young women outperformed young men in every grading category family in unweighted points, with the largest gap in assignments and smallest in assessments; weighting reversed this ordering
 description: Young women outperformed young men in every grading category family in unweighted points, with the largest gap in assignments and smallest in assessments; weighting reversed this ordering
 id: gender-gap-varies-by-grading-category-family
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

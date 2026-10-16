@@ -3,7 +3,7 @@ type: claim
 title: PhD teachers show significantly higher awareness than BA teachers of decision making through negotiation
 description: PhD teachers show significantly higher awareness than BA teachers of decision making through negotiation
 id: phd-higher-awareness-decision-making-negotiation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: Most principals in implementation networks reported moderate reductions in school-community isolation as a result of network participation
 description: Most principals in implementation networks reported moderate reductions in school-community isolation as a result of network participation
 id: networks-reduce-school-community-isolation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Participants perceived the AI probe as a neutral mediator whose private prompting surfaced implicit reasoning while public reorganization made disciplinary positions easier to compare
 description: Participants perceived the AI probe as a neutral mediator whose private prompting surfaced implicit reasoning while public reorganization made disciplinary positions easier to compare
 id: ai-neutral-mediator-private-public-reorganization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

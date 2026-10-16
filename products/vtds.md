@@ -4,7 +4,7 @@ id: vtds
 title: VTDS
 description: A computer-controlled videodisc training system described by Bunderson et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

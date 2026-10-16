@@ -3,7 +3,7 @@ type: claim
 title: MisconceptionTutor achieves substantially higher feedback relevance (RelScore) than BaselineTutor on every assignment
 description: MisconceptionTutor achieves substantially higher feedback relevance (RelScore) than BaselineTutor on every assignment
 id: misconception-tutor-higher-relscore-all-assignments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

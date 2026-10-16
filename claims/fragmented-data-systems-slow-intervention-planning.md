@@ -3,7 +3,7 @@ type: claim
 title: Fragmented data systems made intervention planning slow and burdensome, with educators spending 2-3 hours building a single student intervention plan
 description: Fragmented data systems made intervention planning slow and burdensome, with educators spending 2-3 hours building a single student intervention plan
 id: fragmented-data-systems-slow-intervention-planning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

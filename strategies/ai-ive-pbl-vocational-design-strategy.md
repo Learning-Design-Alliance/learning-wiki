@@ -3,7 +3,7 @@ type: strategy
 id: ai-ive-pbl-vocational-design-strategy
 title: Use AI-enabled immersive virtual environments to enrich project-based learning in vocational design education
 description: "The article recommends integrating the advantages of an AI-enabled immersive virtual environment with the features of project-based learning, \"including inquiry, collaboration, and active participation,\" to advance de..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

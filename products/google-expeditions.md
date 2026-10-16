@@ -4,7 +4,7 @@ id: google-expeditions
 title: Google Expeditions
 description: A Google programme that supplied schools with virtual-reality field-trip kits, content, equipment, and teacher training for conducting virtual expeditions.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

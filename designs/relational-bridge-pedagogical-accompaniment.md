@@ -3,7 +3,7 @@ type: design
 id: relational-bridge-pedagogical-accompaniment
 title: "Relational bridge: AI-enabled pedagogical accompaniment as temporary, directional, bounded micro-mediation toward human engagement"
 description: "The framework defines AI-enabled pedagogical accompaniment as \"a structured process that supports learners in clarifying goals, articulating questions, and identifying next steps, while consistently orienting interact..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

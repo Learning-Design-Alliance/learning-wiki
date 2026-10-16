@@ -3,7 +3,7 @@ type: strategy
 id: digital-inclusion-onboarding-device-lending
 title: Support digital inclusion through onboarding processes, device lending and technical support when deploying digital learning programmes with older adults
 description: "The trial supported digital inclusion \"through supporting onboarding processes and device lending\": researchers provided initial training at the baseline visit, preloaded iPads, and made ad hoc technical support avail..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -4,7 +4,7 @@ id: k-12-digital-equity-framework-self-assessment
 title: K-12 Digital Equity Framework Self-Assessment
 description: A Digital Promise self-assessment tool that helps K–12 schools and districts rate their progress across digital-equity domains and identify priorities for action and continuous improvement.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

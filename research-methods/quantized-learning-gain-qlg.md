@@ -3,7 +3,7 @@ type: research-method
 id: quantized-learning-gain-qlg
 title: Quantized Learning Gain (QLG)
 description: Quantized Learning Gain is a binary qualitative measurement introduced to avoid the asymmetry problems of Normalized Learning Gain for students with high pretest scores.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

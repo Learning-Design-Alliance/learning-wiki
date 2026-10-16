@@ -3,7 +3,7 @@ type: claim
 title: During Phase I reform, a subset of very disadvantaged, racially isolated African-American schools showed weak improvement
 description: During Phase I reform, a subset of very disadvantaged, racially isolated African-American schools showed weak improvement
 id: phase-one-weak-gains-disadvantaged-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

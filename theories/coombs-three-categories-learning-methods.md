@@ -2,7 +2,7 @@
 type: theory
 title: "Coombs' three-category typology of formal, informal and non-formal education, with informal learning as an overarching concept including incidental learning"
 description: Coombs et al.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

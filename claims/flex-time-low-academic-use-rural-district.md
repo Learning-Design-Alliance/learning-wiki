@@ -3,7 +3,7 @@ type: claim
 title: "In a rural district's flexible scheduling program, students used only 19 percent of daily flex-time for academic activities"
 description: "In a rural district's flexible scheduling program, students used only 19 percent of daily flex-time for academic activities"
 id: flex-time-low-academic-use-rural-district
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

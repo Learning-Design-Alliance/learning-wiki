@@ -3,7 +3,7 @@ type: strategy
 id: sustain-pd-and-collaboration-throughout-edtech-pilot
 title: Maintain professional development and educator collaboration throughout an edtech pilot
 description: "A concrete implementation practice for district pilots: provide professional development before and during the pilot and build in educator collaboration."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -49,4 +49,4 @@ A concrete implementation practice for district pilots: provide professional dev
 -
 
 ## Key Sources
-- Luke, Christina C.; Gibson, Sierra; Francisco, Aubrey T. (2017). Rapid Cycle Pilots: Using Edtech to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/383e02ba-587a-4192-be68-175543798661
+- Luke, Christina C.; Gibson, Sierra; Francisco, Aubrey T. (2017). Rapid Cycle Pilots: Using Edtech to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/383e02ba-587a-4192-be68-175543798661. [doi:10.51388/20.500.12265/26](https://doi.org/10.51388/20.500.12265/26)

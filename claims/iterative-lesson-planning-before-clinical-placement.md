@@ -3,7 +3,7 @@ type: claim
 title: Claremont residents develop lesson planning skill through 5 weeks of iterative revision with instructor feedback before clinical placements
 description: Claremont residents develop lesson planning skill through 5 weeks of iterative revision with instructor feedback before clinical placements
 id: iterative-lesson-planning-before-clinical-placement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

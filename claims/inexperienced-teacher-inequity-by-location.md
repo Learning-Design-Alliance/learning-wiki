@@ -3,7 +3,7 @@ type: claim
 title: Regardless of location, schools with high student of color enrollment have a greater percentage of inexperienced teachers than low-enrollment schools, with urban schools most affected
 description: Regardless of location, schools with high student of color enrollment have a greater percentage of inexperienced teachers than low-enrollment schools, with urban schools most affected
 id: inexperienced-teacher-inequity-by-location
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

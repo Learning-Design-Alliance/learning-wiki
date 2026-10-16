@@ -3,7 +3,7 @@ type: claim
 title: Instructional decisions form the hub of decision-type co-occurrence, most strongly with assessment decisions
 description: Instructional decisions form the hub of decision-type co-occurrence, most strongly with assessment decisions
 id: instructional-decisions-hub-of-co-occurrence-structure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

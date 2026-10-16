@@ -3,7 +3,7 @@ type: claim
 title: Motivation did not significantly predict L2 incidental vocabulary acquisition through reading
 description: Motivation did not significantly predict L2 incidental vocabulary acquisition through reading
 id: motivation-null-predictor-incidental-vocabulary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

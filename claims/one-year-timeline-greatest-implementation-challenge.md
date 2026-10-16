@@ -3,7 +3,7 @@ type: claim
 title: Campus interviewees identified the one-year implementation timeline as their greatest challenge in implementing EO 1110
 description: Campus interviewees identified the one-year implementation timeline as their greatest challenge in implementing EO 1110
 id: one-year-timeline-greatest-implementation-challenge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

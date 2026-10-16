@@ -3,7 +3,7 @@ type: claim
 title: "In directional manual testing, reward hardening halved unusable interactive pages (25%→10%) and eliminated page-entry failures (2/24→0/30)"
 description: "In directional manual testing, reward hardening halved unusable interactive pages (25%→10%) and eliminated page-entry failures (2/24→0/30)"
 id: human-evaluation-interactivity-hardening
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

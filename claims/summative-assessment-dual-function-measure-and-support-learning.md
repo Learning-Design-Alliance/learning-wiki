@@ -3,7 +3,7 @@ type: claim
 title: "Summative examinations have a dual function: measuring achieved learning while also shaping and supporting learning through engagement with tasks"
 description: "Summative examinations have a dual function: measuring achieved learning while also shaping and supporting learning through engagement with tasks"
 id: summative-assessment-dual-function-measure-and-support-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

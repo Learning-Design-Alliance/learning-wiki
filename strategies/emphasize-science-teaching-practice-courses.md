@@ -3,7 +3,7 @@ type: strategy
 id: emphasize-science-teaching-practice-courses
 title: Give more importance to science teaching courses and actively involve pre-service teachers in determining method-technique and strategy
 description: "The authors recommend that primary school teaching departments \"increase the number of practice courses especially about science teaching, in which primary school teachers perceive themselves as insufficient\", and tha..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

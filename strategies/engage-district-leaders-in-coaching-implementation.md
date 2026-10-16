@@ -3,7 +3,7 @@ type: strategy
 id: engage-district-leaders-in-coaching-implementation
 title: Engage district leaders as they implement a coaching program
 description: The brief recommends engaging district leaders as they implement a coaching program, the third of three insights from the New Teacher Center.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

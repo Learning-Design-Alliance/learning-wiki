@@ -3,7 +3,7 @@ type: strategy
 id: dual-enrollment-pathway-template
 title: Use dual enrollment and a shared pathway template so students complete prerequisites while still in high school
 description: Using a template from the CCTI project, NVCC and partner high schools developed a complete career pathway listing the courses students need each year of high school to enter NVCC health care programs.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

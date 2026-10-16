@@ -3,7 +3,7 @@ type: theory
 title: Cognitivism
 description: Cognitivism holds that learning is a change in internal mental structures — how information is attended to, encoded, organized in memory, and retrieved — rather than only a change in observable behavior.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

@@ -3,7 +3,7 @@ type: claim
 title: Undergraduate students classify common GenAI ethical scenarios with high accuracy, with a pronounced ceiling effect
 description: Undergraduate students classify common GenAI ethical scenarios with high accuracy, with a pronounced ceiling effect
 id: undergraduates-high-accuracy-genai-ethical-scenarios
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

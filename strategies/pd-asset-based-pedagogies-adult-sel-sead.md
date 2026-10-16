@@ -4,7 +4,7 @@ id: pd-asset-based-pedagogies-adult-sel-sead
 aliases: [pd-asset-based-pedagogies-adult-sel]
 title: Professional development in asset-based pedagogies and adult SEL to build culturally affirming environments
 description: "The brief argues educators need skills to create culturally affirming environments, build relationships with students, and support academic success, plus 'mindsets geared toward anti-racism.' It recommends professiona..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

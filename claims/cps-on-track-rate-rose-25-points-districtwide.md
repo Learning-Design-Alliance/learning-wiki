@@ -3,7 +3,7 @@ type: claim
 title: Districtwide ninth-grade on-track rates rose 25 percentage points between 2007 and 2013 across racial, gender, and achievement subgroups
 description: Districtwide ninth-grade on-track rates rose 25 percentage points between 2007 and 2013 across racial, gender, and achievement subgroups
 id: cps-on-track-rate-rose-25-points-districtwide
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

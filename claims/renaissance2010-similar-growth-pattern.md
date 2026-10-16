@@ -3,7 +3,7 @@ type: claim
 title: Renaissance 2010 high schools showed a similar pattern of failing to meet EXPLORE-to-PLAN growth expectations
 description: Renaissance 2010 high schools showed a similar pattern of failing to meet EXPLORE-to-PLAN growth expectations
 id: renaissance2010-similar-growth-pattern
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

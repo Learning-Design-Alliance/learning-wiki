@@ -3,7 +3,7 @@ type: claim
 title: The antagonistic agent surfaced a broader set of stakeholder concerns than novice designers reached on their own
 description: The antagonistic agent surfaced a broader set of stakeholder concerns than novice designers reached on their own
 id: antagonistic-agent-broadens-stakeholder-coverage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

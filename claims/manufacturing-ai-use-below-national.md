@@ -3,7 +3,7 @@ type: claim
 title: Manufacturing-sector AI use sits well below the national business adoption rate
 description: Manufacturing-sector AI use sits well below the national business adoption rate
 id: manufacturing-ai-use-below-national
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

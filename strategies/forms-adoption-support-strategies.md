@@ -3,7 +3,7 @@ type: strategy
 id: forms-adoption-support-strategies
 title: Pitch Forms to cautious adopters as a time-savings and instant-feedback tool, and let them experience it firsthand
 description: Technology coaches in the study describe concrete tactics for encouraging Forms adoption among “cautious adopter” teachers.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

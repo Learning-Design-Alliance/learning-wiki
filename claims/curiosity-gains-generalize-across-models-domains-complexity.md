@@ -3,7 +3,7 @@ type: claim
 title: Learner-side gains from curiosity modulation generalize across model families, academic domains, and topic complexity levels
 description: Learner-side gains from curiosity modulation generalize across model families, academic domains, and topic complexity levels
 id: curiosity-gains-generalize-across-models-domains-complexity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

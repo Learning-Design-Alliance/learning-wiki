@@ -3,7 +3,7 @@ type: claim
 title: "LLM adoption varies substantially across CS subfield assignments under a shared instructional intervention, with highest use in Algorithms (89.6%) and Web Development (80.6%) and lowest in Software Engineering (15.2%)"
 description: "LLM adoption varies substantially across CS subfield assignments under a shared instructional intervention, with highest use in Algorithms (89.6%) and Web Development (80.6%) and lowest in Software Engineering (15.2%)"
 id: llm-adoption-varies-by-cs-assignment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

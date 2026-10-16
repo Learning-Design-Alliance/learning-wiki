@@ -3,7 +3,7 @@ type: claim
 title: "Proactive tutoring produced larger relative MAP growth than reactive tutoring on average (75% marginally significant in the IK bandwidth)"
 description: "Proactive tutoring produced larger relative MAP growth than reactive tutoring on average (75% marginally significant in the IK bandwidth)"
 id: proactive-tutoring-larger-relative-map-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

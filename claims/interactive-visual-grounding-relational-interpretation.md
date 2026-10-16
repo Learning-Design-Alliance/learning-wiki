@@ -3,7 +3,7 @@ type: claim
 title: Interactive visual grounding helped children interpret word problems by making hidden relational constraints manipulable and visible
 description: Interactive visual grounding helped children interpret word problems by making hidden relational constraints manipulable and visible
 id: interactive-visual-grounding-relational-interpretation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

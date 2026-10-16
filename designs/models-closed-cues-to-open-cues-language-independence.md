@@ -3,7 +3,7 @@ type: design
 id: models-closed-cues-to-open-cues-language-independence
 title: Cueing strategy progressing from language models and closed cues to open cues to build independent language use
 description: "Workbook C of the language unit presents a cueing strategy for developing pupils' independent language use."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Test-enhanced learning generalizes across education levels, from elementary school (g = 0.328) through university/college (g = 0.486).
 description: Test-enhanced learning generalizes across education levels, from elementary school (g = 0.328) through university/college (g = 0.486).
 id: testing-effect-generalizes-education-levels
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

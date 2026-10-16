@@ -3,7 +3,7 @@ type: claim
 title: UCLA-CS reports high teacher retention and above-district student and parent satisfaction alongside its academic outcomes
 description: UCLA-CS reports high teacher retention and above-district student and parent satisfaction alongside its academic outcomes
 id: ucla-cs-teacher-retention-and-satisfaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

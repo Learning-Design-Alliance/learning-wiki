@@ -3,7 +3,7 @@ type: strategy
 id: adaptive-feedback-move-observation-to-exploration
 title: Targeted interventions and adaptive feedback to move learners from Observation toward full-cycle Exploration
 description: The article recommends that modeling environments use the identified behavioral patterns to personalize support.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

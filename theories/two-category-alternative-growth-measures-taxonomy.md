@@ -2,7 +2,7 @@
 type: theory
 title: "Two-category taxonomy of alternative student growth measures: alternative assessment-based value-added models and student learning objectives"
 description: The report organizes alternative ways to measure student growth in grades and subjects not covered by state assessments into two broad categories.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

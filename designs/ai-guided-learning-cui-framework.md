@@ -3,7 +3,7 @@ type: design
 id: ai-guided-learning-cui-framework
 title: "AI-Guided Learning: integrated support for the Consume-Understand-Imitate cycle"
 description: "The dissertation proposes AI-Guided Learning, an integrated approach in which deep learning systems provide adaptive support at each of three interrelated stages of learning from audio and video: Consume (efficient co..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Personalization to student interests improved accuracy on hard knowledge components involving algebraic expression-writing within the tutoring unit
 description: Personalization to student interests improved accuracy on hard knowledge components involving algebraic expression-writing within the tutoring unit
 id: personalization-improves-hard-kc-accuracy-algebra-its
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

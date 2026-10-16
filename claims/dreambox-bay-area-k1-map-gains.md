@@ -3,7 +3,7 @@ type: claim
 title: In a randomized study in three high-poverty Bay Area charter schools, K-1 students using DreamBox gained significantly more than control students on the NWEA MAP Measurement and Geometry subtest (ES +0.16) and scored higher overall (ES +0.11)
 description: In a randomized study in three high-poverty Bay Area charter schools, K-1 students using DreamBox gained significantly more than control students on the NWEA MAP Measurement and Geometry subtest (ES +0.16) and scored...
 id: dreambox-bay-area-k1-map-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

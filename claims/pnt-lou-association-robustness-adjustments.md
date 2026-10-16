@@ -3,7 +3,7 @@ type: claim
 title: The PNT–LOU association remains positive after adjustment for guidance clarity, demographic covariates, institution exclusion, and ordinal estimation
 description: The PNT–LOU association remains positive after adjustment for guidance clarity, demographic covariates, institution exclusion, and ordinal estimation
 id: pnt-lou-association-robustness-adjustments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

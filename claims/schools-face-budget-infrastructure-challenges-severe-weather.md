@@ -3,7 +3,7 @@ type: claim
 title: Many U.S. schools face major budget and infrastructure challenges related to severe weather
 description: Many U.S.
 id: schools-face-budget-infrastructure-challenges-severe-weather
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

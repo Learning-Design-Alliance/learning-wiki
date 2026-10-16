@@ -3,7 +3,7 @@ type: claim
 title: "Ready, Set, Leap!® has no significant effect on preschool print knowledge (domain average effect size 0.06)"
 description: "Ready, Set, Leap!® has no significant effect on preschool print knowledge (domain average effect size 0.06)"
 id: ready-set-leap-null-print-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

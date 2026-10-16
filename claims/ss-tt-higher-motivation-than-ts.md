@@ -3,7 +3,7 @@ type: claim
 title: Student–student and teacher–teacher dialogue formats elicited significantly higher ARCS motivation than the teacher–student format
 description: Student–student and teacher–teacher dialogue formats elicited significantly higher ARCS motivation than the teacher–student format
 id: ss-tt-higher-motivation-than-ts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

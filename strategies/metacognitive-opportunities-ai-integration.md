@@ -3,7 +3,7 @@ type: strategy
 id: metacognitive-opportunities-ai-integration
 title: Build metacognitive reflection opportunities into AI-integrated instruction to prevent cognitive overload
 description: The article recommends that instructional designers integrating AI into instruction create structured opportunities for students to reflect on their learning and monitor their AI use.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

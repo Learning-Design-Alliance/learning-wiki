@@ -3,7 +3,7 @@ type: claim
 title: Family engagement in schools is closely linked to improved student academic achievement, social skills, and fewer behavior issues
 description: Family engagement in schools is closely linked to improved student academic achievement, social skills, and fewer behavior issues
 id: family-engagement-linked-student-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

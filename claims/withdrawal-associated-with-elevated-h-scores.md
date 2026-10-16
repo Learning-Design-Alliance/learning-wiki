@@ -3,7 +3,7 @@ type: claim
 title: Students who withdrew after Midterm 1 had higher H-scores than course completers, with the gap widening by Spring 2026
 description: Students who withdrew after Midterm 1 had higher H-scores than course completers, with the gap widening by Spring 2026
 id: withdrawal-associated-with-elevated-h-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

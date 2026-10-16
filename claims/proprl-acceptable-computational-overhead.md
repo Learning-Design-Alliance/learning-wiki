@@ -3,7 +3,7 @@ type: claim
 title: ProPRL incurs moderate overhead over DGCPL but remains lightweight, using under 40 MB GPU memory and under 0.18 seconds test-time inference
 description: ProPRL incurs moderate overhead over DGCPL but remains lightweight, using under 40 MB GPU memory and under 0.18 seconds test-time inference
 id: proprl-acceptable-computational-overhead
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

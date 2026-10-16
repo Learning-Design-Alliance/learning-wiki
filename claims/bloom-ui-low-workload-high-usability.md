@@ -3,7 +3,7 @@ type: claim
 title: The Bloom classification UI shows low perceived workload and high usability in a 50-participant user study
 description: The Bloom classification UI shows low perceived workload and high usability in a 50-participant user study
 id: bloom-ui-low-workload-high-usability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

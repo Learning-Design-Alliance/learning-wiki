@@ -3,7 +3,7 @@ type: claim
 title: Participants identified staff turnover as a critical factor threatening sustainability of pilot solutions
 description: Participants identified staff turnover as a critical factor threatening sustainability of pilot solutions
 id: turnover-threatens-sustainability-inclusive-innovation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

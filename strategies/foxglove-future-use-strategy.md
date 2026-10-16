@@ -3,7 +3,7 @@ type: strategy
 id: foxglove-future-use-strategy
 title: Use FOXGLOVE as a testbed for studying feedback uptake, variation, and downstream revision outcomes rather than rated quality alone
 description: "The article recommends future uses of FOXGLOVE: controlled studies of how students act on feedback, connecting expert ratings to outcomes such as revision quality, comprehension, and perceived usefulness."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

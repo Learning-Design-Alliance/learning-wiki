@@ -3,7 +3,7 @@ type: claim
 title: Test item construction, including avoidance of cognate L1 equivalents, often affects KVL difficulty scores beyond the genuine difficulty of the words
 description: Test item construction, including avoidance of cognate L1 equivalents, often affects KVL difficulty scores beyond the genuine difficulty of the words
 id: test-item-construction-affects-kvl-difficulty-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -45,3 +45,4 @@ Analysis of high-trickiness items (Section 6.3, Table 6) using GPT-4.1-mini resp
 ## Related Claims
 - [SHAP analysis of the explainable model identifies production frequency and spelling difficulty as high-impact predictors of KVL difficulty, with spelling difficulty varying strongly by L1](shap-production-frequency-and-spelling-difficulty-importance.md) — related
 - [The simulated-respondent approach recovers the guessing parameter c at correlation 0.48, far above regression baselines, suggesting it captures genuine response behavior](simulated-respondents-recover-guessing-parameter-048.md) — related
+- [Incidental vocabulary learning through viewing TV was affected by frequency of occurrence, prior vocabulary knowledge, and cognateness](viewing-vocabulary-learning-affected-by-frequency-prior-knowledge-cognateness.md) — related

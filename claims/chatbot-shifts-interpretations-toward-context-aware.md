@@ -3,7 +3,7 @@ type: claim
 title: Qualitative case narratives show the chatbot shifted stakeholders from narrow, visually driven readings toward conditional, context-aware interpretations
 description: Qualitative case narratives show the chatbot shifted stakeholders from narrow, visually driven readings toward conditional, context-aware interpretations
 id: chatbot-shifts-interpretations-toward-context-aware
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -18,8 +18,8 @@ sources:
     kind: qualitative
     rigour: 3
   - id: marques-2026-2
-    resource: "https://arxiv.org/abs/2610.07205"
-    title: "Marques, F., Ortiz-Beltrán, A., Amarasinghe, I., & Hernández-Leo, D. (2026). Responsible Institutional Analytics: Interpreting Bias with AI Support. Journal of Universal Computer Science, 33(6). https://arxiv.org/abs/2610.07205"
+    resource: "https://doi.org/10.48550/arxiv.2610.07205"
+    title: "Marques, F., Ortiz-Beltrán, A., Amarasinghe, I., & Hernández-Leo, D. (2026). Responsible Institutional Analytics: Interpreting Bias with AI Support. Journal of Universal Computer Science, 33(6). https://arxiv.org/abs/2610.07205. [doi:10.48550/arxiv.2610.07205](https://doi.org/10.48550/arxiv.2610.07205)"
     author: "Marques, F., Ortiz-Beltrán, A., Amarasinghe, I., & Hernández-Leo, D."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Qualitative case narratives show the chatbot shifted stakeholders from narrow, visually driven readings toward conditional, context-aware interpretations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r3` · `q2`
+> **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In Case 1, a participant who initially read the visualization as direct gender bias began acknowledging data-quality factors and sample-size limitations after chatbot prompts, becoming cautious about student–professor gender interactions. [→ Marques 2026](#marques-2026)
@@ -50,7 +50,7 @@ Illustrative narrative from the Case 1 think-aloud session (participant P7, sati
 
 ### Marques 2026 (2)
 
-Marques, F., Ortiz-Beltrán, A., Amarasinghe, I., & Hernández-Leo, D. (2026). Responsible Institutional Analytics: Interpreting Bias with AI Support. Journal of Universal Computer Science, 33(6). https://arxiv.org/abs/2610.07205
+Marques, F., Ortiz-Beltrán, A., Amarasinghe, I., & Hernández-Leo, D. (2026). Responsible Institutional Analytics: Interpreting Bias with AI Support. Journal of Universal Computer Science, 33(6). https://arxiv.org/abs/2610.07205. [doi:10.48550/arxiv.2610.07205](https://doi.org/10.48550/arxiv.2610.07205)
 
 `q2 · i?` · `qualitative · r3`
 

@@ -4,7 +4,7 @@ id: scaling-apprenticeship-and-closing-the-skills-gap
 title: Scaling Apprenticeship and Closing the Skills Gap
 description: Two U.S.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

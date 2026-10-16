@@ -3,7 +3,7 @@ type: claim
 title: TFA teachers show no discernible effects on English language arts achievement for students in grades pre-K-12
 description: TFA teachers show no discernible effects on English language arts achievement for students in grades pre-K-12
 id: tfa-no-discernible-ela-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

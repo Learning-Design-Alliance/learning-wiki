@@ -3,7 +3,7 @@ type: claim
 title: Better emotional scaffolding is associated with higher ECERS-R Interaction scores
 description: Better emotional scaffolding is associated with higher ECERS-R Interaction scores
 id: emotional-scaffolding-associated-with-ecers-interactions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -47,3 +47,4 @@ Spearman rank correlation across 22 observed kindergarten groups during morning 
 - [In observed groups, Reactions to Children's Emotions was the most common scaffolding subscale, and ECERS-R Interactions rated high while Activities rated low](descriptive-profile-esos-ecers-groups.md) — related
 - [Dialectical thinking support is positively associated with teachers' emotional scaffolding, reported for the first time](dts-associated-with-emotional-scaffolding.md) — related
 - [Teaching about Emotions is positively associated with ECERS-R Space and Furnishings quality in kindergarten groups](teaching-about-emotions-associated-with-space-and-furnishings.md) — related
+- [Teachers' use of Morning Meeting and Academic Choice relates to higher levels of emotionally supportive interactions in grade 3–5 classrooms](morning-meeting-academic-choice-emotional-support.md) — related

@@ -3,7 +3,7 @@ type: claim
 title: A widely used healthcare algorithm underestimated the medical needs of Black patients because it used healthcare spending as a proxy for health status
 description: A widely used healthcare algorithm underestimated the medical needs of Black patients because it used healthcare spending as a proxy for health status
 id: healthcare-algorithm-bias-black-patients
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: High School Redirection shows no discernible effects on completing school (diploma or GED receipt)
 description: High School Redirection shows no discernible effects on completing school (diploma or GED receipt)
 id: hsr-no-discernible-effects-completing-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

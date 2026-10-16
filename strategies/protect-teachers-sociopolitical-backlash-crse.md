@@ -3,7 +3,7 @@ type: strategy
 id: protect-teachers-sociopolitical-backlash-crse
 title: "Protect teachers from social and political backlash by communicating CRSE's value and providing norms and probing questions for sociopolitical discussions"
 description: The brief observes that many teachers fear the sociopolitical consequences of engaging with CRSE given national debates around centering race, culture, and critical consciousness in schools.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

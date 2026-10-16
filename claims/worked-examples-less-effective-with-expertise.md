@@ -94,3 +94,4 @@ The design implication is not to remove structure abruptly. It is to fade it as 
 - [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md)
 - [Expertise reversal: cognitive load effects for novices decrease, disappear, and can reverse as expertise increases](expertise-reversal-effect-compound.md) — a broader claim this one bears on
 - [Cognitive load effects including integration benefits may reverse for more experienced learners, whose schemas make integrated additional information redundant](expertise-reversal-split-attention-redundancy-review.md) — a narrower finding that bears on this claim
+- [The relative effectiveness of instructional methods reverses as levels of learner knowledge in a domain change (the expertise reversal effect)](expertise-reversal-effect-definition.md) — a broader claim this one bears on

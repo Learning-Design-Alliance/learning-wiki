@@ -3,7 +3,7 @@ type: claim
 title: In both high school and college groups, learners with negotiation of meaning scored higher on the delayed post-vocabulary test than learners with pre-modified input only
 description: In both high school and college groups, learners with negotiation of meaning scored higher on the delayed post-vocabulary test than learners with pre-modified input only
 id: negotiation-meaning-improves-vocabulary-scores-both-levels
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

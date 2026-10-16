@@ -3,7 +3,7 @@ type: claim
 title: Platform treatment effects did not vary across demographic subgroups, suggesting equal benefit regardless of racial background
 description: Platform treatment effects did not vary across demographic subgroups, suggesting equal benefit regardless of racial background
 id: mastery-platform-effects-uniform-across-demographics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

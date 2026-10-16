@@ -3,7 +3,7 @@ type: claim
 title: The Early Education Essentials is sensitive to site-level differences
 description: The Early Education Essentials is sensitive to site-level differences
 id: early-education-essentials-sensitive-site-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

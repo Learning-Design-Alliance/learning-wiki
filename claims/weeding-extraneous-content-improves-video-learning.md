@@ -3,7 +3,7 @@ type: claim
 title: Weeding extraneous information such as music and complex backgrounds improves retention and transfer from video
 description: Weeding extraneous information such as music and complex backgrounds improves retention and transfer from video
 id: weeding-extraneous-content-improves-video-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

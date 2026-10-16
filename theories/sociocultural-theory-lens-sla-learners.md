@@ -2,7 +2,7 @@
 type: theory
 title: Sociocultural theory as the lens through which SLA views learners and learning
 description: "The article treats sociocultural theory — Vygotskian sociocultural theory and ZPD, Lave and Wenger's Community of Practice, and contemporary identity-oriented theorizing — as the dominant lens through which SLA examin..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: element
 id: three-state-assessment-dataset-entry-age
 title: Multi-state longitudinal assessment dataset for early-grade growth analysis
 description: "The study draws on what the authors call \"rich assessment data from three states,\" covering students' achievement across the first three years of school."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

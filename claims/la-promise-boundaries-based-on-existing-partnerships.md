@@ -3,7 +3,7 @@ type: claim
 title: "The LA Promise Neighborhood lead agency drew one community's boundaries partly based on the location of existing partnerships"
 description: "The LA Promise Neighborhood lead agency drew one community's boundaries partly based on the location of existing partnerships"
 id: la-promise-boundaries-based-on-existing-partnerships
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

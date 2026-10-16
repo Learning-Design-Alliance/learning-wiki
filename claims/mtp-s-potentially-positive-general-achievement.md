@@ -3,7 +3,7 @@ type: claim
 title: WWC rates MTP-S as having potentially positive effects on general achievement, with a small extent of evidence
 description: WWC rates MTP-S as having potentially positive effects on general achievement, with a small extent of evidence
 id: mtp-s-potentially-positive-general-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

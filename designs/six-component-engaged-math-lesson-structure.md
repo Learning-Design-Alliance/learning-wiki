@@ -3,7 +3,7 @@ type: design
 id: six-component-engaged-math-lesson-structure
 title: Composite daily math lesson structure with six engagement-oriented components
 description: "The observed middle school math lessons shared a common structure of six components: a warm-up, direct instruction, group activity, share-out, note-taking, and demonstration of understanding."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

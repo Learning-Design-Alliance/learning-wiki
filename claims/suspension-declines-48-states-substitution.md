@@ -3,7 +3,7 @@ type: claim
 title: Out-of-school suspension decreased in 48 states and Washington, DC between 2011–12 and 2017–18, but in five states the decline came with an even larger increase in in-school suspensions
 description: Out-of-school suspension decreased in 48 states and Washington, DC between 2011–12 and 2017–18, but in five states the decline came with an even larger increase in in-school suspensions
 id: suspension-declines-48-states-substitution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

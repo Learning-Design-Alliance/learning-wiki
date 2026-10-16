@@ -3,7 +3,7 @@ type: claim
 title: Uniform AI integration across a classroom is likely to widen the gap between better- and less-prepared students
 description: Uniform AI integration across a classroom is likely to widen the gap between better- and less-prepared students
 id: uniform-ai-integration-widens-gaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

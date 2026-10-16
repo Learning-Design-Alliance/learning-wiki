@@ -3,7 +3,7 @@ type: element
 id: challenge-based-coaching-model-pilot-pr
 title: Challenge-based Coaching Model
 description: "The Challenge-based Coaching Model is a coaching cycle in which each coach works with teachers to \"establish goals, identify challenges, create strategies, refect on the results\" and support earning aligned micro-cred..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

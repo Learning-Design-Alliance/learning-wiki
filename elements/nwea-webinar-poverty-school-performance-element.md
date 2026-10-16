@@ -3,7 +3,7 @@ type: element
 id: nwea-webinar-poverty-school-performance-element
 title: NWEA webinar presentation on poverty and school performance
 description: A webinar presentation released by NWEA Research in July 2019, authored by Andrew Hegedus.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -2,7 +2,7 @@
 type: theory
 title: A factor-based taxonomy of seventeen indicators of elementary school organizational development
 description: The appendix organizes school organizational development into factors—School Leadership, Parent-Community Ties, Professional Capacity, Learning Climate, Instructional Guidance, and Relational Trust—each measured by Ra...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

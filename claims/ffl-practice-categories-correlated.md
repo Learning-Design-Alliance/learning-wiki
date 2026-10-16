@@ -3,7 +3,7 @@ type: claim
 title: School leaders who scored higher in one category of FFL leadership practices tended to score higher in the other categories
 description: School leaders who scored higher in one category of FFL leadership practices tended to score higher in the other categories
 id: ffl-practice-categories-correlated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

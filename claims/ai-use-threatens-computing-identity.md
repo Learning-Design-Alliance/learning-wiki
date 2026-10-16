@@ -3,7 +3,7 @@ type: claim
 title: "AI use threatens students' computing identities as competent, hardworking, and ethical, with students identifying as cheaters, lazy, or incompetent even where AI is permitted"
 description: "AI use threatens students' computing identities as competent, hardworking, and ethical, with students identifying as cheaters, lazy, or incompetent even where AI is permitted"
 id: ai-use-threatens-computing-identity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

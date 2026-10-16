@@ -3,7 +3,7 @@ type: claim
 title: Principal leadership, school orientation toward innovation, and teacher professional community promote professional development quality, with mutual reinforcement
 description: Principal leadership, school orientation toward innovation, and teacher professional community promote professional development quality, with mutual reinforcement
 id: school-supports-promote-pd-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

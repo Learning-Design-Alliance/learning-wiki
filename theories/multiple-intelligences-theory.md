@@ -3,7 +3,7 @@ type: theory
 title: Multiple Intelligences Theory
 description: Howard Gardner's theory holds that intelligence is not a single general capacity but at least eight relatively independent abilities, with individuals typically strong in some and weak in others.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

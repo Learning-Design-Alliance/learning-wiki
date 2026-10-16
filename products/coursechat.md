@@ -4,7 +4,7 @@ id: coursechat
 title: CourseChat
 description: CourseChat is an on-premises retrieval-augmented tutoring platform developed by Shapiro et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

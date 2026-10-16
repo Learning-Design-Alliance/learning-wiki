@@ -3,7 +3,7 @@ type: claim
 title: "In an unrestricted university course, only a minority of students (23 of 68, 34%) reported using LLMs, averaging 12% of discussion-point and 11% of critical-summary submissions"
 description: "In an unrestricted university course, only a minority of students (23 of 68, 34%) reported using LLMs, averaging 12% of discussion-point and 11% of critical-summary submissions"
 id: minority-students-report-llm-use-research-course
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

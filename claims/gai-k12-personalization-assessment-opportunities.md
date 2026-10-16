@@ -3,7 +3,7 @@ type: claim
 title: GAI in K-12 education offers opportunities to personalize learning, motivate students, improve assessment, and introduce innovative teaching practices
 description: GAI in K-12 education offers opportunities to personalize learning, motivate students, improve assessment, and introduce innovative teaching practices
 id: gai-k12-personalization-assessment-opportunities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

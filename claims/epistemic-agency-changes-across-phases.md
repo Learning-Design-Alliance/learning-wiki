@@ -3,7 +3,7 @@ type: claim
 title: Differences in shared epistemic agency between design teams change across prototyping phases
 description: Differences in shared epistemic agency between design teams change across prototyping phases
 id: epistemic-agency-changes-across-phases
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

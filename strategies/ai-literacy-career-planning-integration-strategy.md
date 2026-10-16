@@ -3,7 +3,7 @@ type: strategy
 id: ai-literacy-career-planning-integration-strategy
 title: Integrate career adaptability cultivation and AI literacy with career planning in higher education curricula
 description: "The article recommends that institutions \"prioritise enhancing students' career adaptability rather than merely alleviating anxiety symptoms\", integrating future planning, autonomous decision-making, curious explorati..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

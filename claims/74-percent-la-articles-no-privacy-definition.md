@@ -3,7 +3,7 @@ type: claim
 title: "In a scoping review of 59 privacy-focused LA articles, 74% addressed privacy without defining or conceptualizing it"
 description: "In a scoping review of 59 privacy-focused LA articles, 74% addressed privacy without defining or conceptualizing it"
 id: 74-percent-la-articles-no-privacy-definition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

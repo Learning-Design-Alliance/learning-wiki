@@ -3,7 +3,7 @@ type: strategy
 id: peer-benchmarking-75th-percentile-ten-year
 title: Use institutional peer benchmarking with incremental benchmarks toward the 75th percentile of peer-group metrics over a 10-year period
 description: The report proposes that accountability systems identify peer groups of institutions with similar characteristics — enrollment, shares of low-income undergraduates, part-time shares, selectivity, funding, and instruct...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

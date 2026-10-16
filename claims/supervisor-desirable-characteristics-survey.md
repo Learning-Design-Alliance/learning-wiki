@@ -3,7 +3,7 @@ type: claim
 title: Tutors and trainee researchers most value supportive attitude, mastery of the research field, and accessibility in a research project supervisor
 description: Tutors and trainee researchers most value supportive attitude, mastery of the research field, and accessibility in a research project supervisor
 id: supervisor-desirable-characteristics-survey
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -48,3 +48,4 @@ Consultation with 14 experienced online supervisors (from 23 invited across 16 P
 - [Implementation of the TPI procedure reached only one tutor-trainee pair out of nine potential tutors, though participants assessed it positively](tpi-implementation-low-participation-positive-assessment.md) — related
 - Staff qualifications, ideology, and self-sufficiency were the major determinants of success in surveyed youth-serving institutions — related
 - [The reviewed corpus mostly targets introductory learners in short-term studies, with supervision level structurally tied to deployment context](corpus-introductory-short-term-supervision-environment-association.md) — related
+- Institutional and supervisor support are associated with adaptive motivation among final-year master's thesis students — related

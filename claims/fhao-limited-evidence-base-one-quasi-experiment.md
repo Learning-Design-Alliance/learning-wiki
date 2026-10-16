@@ -3,7 +3,7 @@ type: claim
 title: "The evidence base for Facing History and Ourselves is limited: only one of eight reviewed studies met WWC evidence standards, and it used a quasi-experimental rather than randomized design"
 description: "The evidence base for Facing History and Ourselves is limited: only one of eight reviewed studies met WWC evidence standards, and it used a quasi-experimental rather than randomized design"
 id: fhao-limited-evidence-base-one-quasi-experiment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: strategy
 id: pair-language-change-with-rationale-explanation
 title: Pair person-first language with an explicit explanation of its rationale rather than expecting language change alone to shift attitudes
 description: The article recommends that language initiatives be accompanied by education about why language matters.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

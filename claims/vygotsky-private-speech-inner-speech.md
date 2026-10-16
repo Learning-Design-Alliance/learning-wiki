@@ -3,7 +3,7 @@ type: claim
 title: Thought and language become increasingly interdependent in the first few years, with private speech evolving into inner speech as self-regulation
 description: Thought and language become increasingly interdependent in the first few years, with private speech evolving into inner speech as self-regulation
 id: vygotsky-private-speech-inner-speech
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

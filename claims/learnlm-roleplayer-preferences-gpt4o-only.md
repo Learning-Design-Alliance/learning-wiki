@@ -3,7 +3,7 @@ type: claim
 title: Role-playing participants prefer LearnLM over GPT-4o but express no substantial preference versus Gemini 1.5 Pro or Claude 3.5 Sonnet
 description: Role-playing participants prefer LearnLM over GPT-4o but express no substantial preference versus Gemini 1.5 Pro or Claude 3.5 Sonnet
 id: learnlm-roleplayer-preferences-gpt4o-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

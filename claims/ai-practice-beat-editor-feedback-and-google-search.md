@@ -3,7 +3,7 @@ type: claim
 title: Practicing with AI improved unassisted writing skill more than practicing with Google Search for cover letter examples and tips
 description: Practicing with AI improved unassisted writing skill more than practicing with Google Search for cover letter examples and tips
 id: ai-practice-beat-editor-feedback-and-google-search
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

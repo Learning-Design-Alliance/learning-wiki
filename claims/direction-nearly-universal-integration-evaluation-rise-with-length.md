@@ -3,7 +3,7 @@ type: claim
 title: Direction is observable in nearly all AI-mediated conversations, while Integration and Evaluation become progressively more observable as conversation length increases
 description: Direction is observable in nearly all AI-mediated conversations, while Integration and Evaluation become progressively more observable as conversation length increases
 id: direction-nearly-universal-integration-evaluation-rise-with-length
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

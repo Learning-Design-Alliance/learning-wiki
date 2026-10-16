@@ -3,7 +3,7 @@ type: strategy
 id: four-design-principles-voice-ai-l2-curricula
 title: Four design principles for integrating voice-based AI into language curricula
 description: "From the study's conclusions, the authors propose four concrete principles for integrating voice-based AI into language curricula: AI tasks suit focused morphosyntactic practice where regular input can support priming..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

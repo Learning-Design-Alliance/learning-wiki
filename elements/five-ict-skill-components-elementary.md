@@ -3,7 +3,7 @@ type: element
 id: five-ict-skill-components-elementary
 title: Five ICT skill components for elementary students
 description: "The article identifies five ICT skills the model targets for elementary students: \"1) information access 2) data collection 3) information presentation 4) usage of application software and 5) product creation\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

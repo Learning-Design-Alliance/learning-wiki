@@ -4,7 +4,7 @@ id: algorag
 title: AlgoRAG
 description: A retrieval-augmented generation software system developed by Sushan Adhikari for providing context-grounded assistance in theoretical computer science education.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

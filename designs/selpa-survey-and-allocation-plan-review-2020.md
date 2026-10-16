@@ -3,7 +3,7 @@ type: design
 id: selpa-survey-and-allocation-plan-review-2020
 title: Statewide SELPA administrator survey and multi-LEA SELPA allocation plan review
 description: "The study's mixed-methods evidence base for Sections 4 and 5 comprises a statewide survey of SELPA directors administered February–March 2020, developed with input from the statewide SELPA Executive Board, plus a revi..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

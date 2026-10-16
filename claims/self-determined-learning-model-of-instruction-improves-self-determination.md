@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Students taught with the Self-Determined Learning Model of Instruction gain in self-determination, but not significantly more than a delayed-treatment control group
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25
@@ -65,3 +65,4 @@ A further measurement caveat: self-determination is typically assessed via self-
 - [Self Directed IEP Increases Student Participation](self-directed-iep-increases-student-participation.md) — related
 - Three options exist for setting IEP goals: end-of-year benchmarks, intra-individual framework, and national norms — related
 - [More effective programs targeted teachers, trainees, and individuals with an autonomy causality orientation](recipient-moderators-teachers-trainees-autonomy-orientation.md) — related
+- [Young children ages 5-6 can set learning goals and use the Self-Determined Learning Model of Instruction to achieve them](young-children-set-goals-sdlmi-achieve.md) — related

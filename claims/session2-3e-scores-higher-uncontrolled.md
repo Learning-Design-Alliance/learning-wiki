@@ -3,7 +3,7 @@ type: claim
 title: Overall 3E, Empower, and Empathize scores were higher in the second AI-patient encounter, but the uncontrolled design precludes attributing this to training
 description: Overall 3E, Empower, and Empathize scores were higher in the second AI-patient encounter, but the uncontrolled design precludes attributing this to training
 id: session2-3e-scores-higher-uncontrolled
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

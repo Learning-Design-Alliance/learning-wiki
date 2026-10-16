@@ -3,7 +3,7 @@ type: element
 id: met-project-data-five-instrument-comparison
 title: Measures of Effective Teaching project data as the evidence base for comparing five observation instruments
 description: The report draws on data from the Measures of Effective Teaching project to compare five widely used teacher observation instruments.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

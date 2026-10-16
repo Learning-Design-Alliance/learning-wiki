@@ -3,7 +3,7 @@ type: claim
 title: GenAI-RTS subscale reliability is acceptable to good (ω = .75–.88)
 description: GenAI-RTS subscale reliability is acceptable to good (ω = .75–.88)
 id: genai-rts-subscale-reliability-acceptable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

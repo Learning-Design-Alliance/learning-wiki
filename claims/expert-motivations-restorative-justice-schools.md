@@ -3,7 +3,7 @@ type: claim
 title: Experts attribute their focus on RJ in schools to the failure of zero-tolerance discipline, disciplinary disparities, school climate concerns, holistic community approaches, and connections to youth development models
 description: Experts attribute their focus on RJ in schools to the failure of zero-tolerance discipline, disciplinary disparities, school climate concerns, holistic community approaches, and connections to youth development models
 id: expert-motivations-restorative-justice-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

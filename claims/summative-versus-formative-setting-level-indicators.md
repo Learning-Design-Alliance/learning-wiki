@@ -3,7 +3,7 @@ type: claim
 title: Summative setting-level indicators do not allow quick feedback on school practices, so schools set attendance goals and monitor them weekly or monthly to determine whether new practices are improving those indicators
 description: Summative setting-level indicators do not allow quick feedback on school practices, so schools set attendance goals and monitor them weekly or monthly to determine whether new practices are improving those indicators
 id: summative-versus-formative-setting-level-indicators
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

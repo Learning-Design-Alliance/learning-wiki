@@ -3,7 +3,7 @@ type: claim
 title: Associations with school belonging are generally stronger in rural than urban locations
 description: Associations with school belonging are generally stronger in rural than urban locations
 id: belonging-effects-stronger-rural-than-urban
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

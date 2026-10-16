@@ -3,7 +3,7 @@ type: claim
 title: In 2015–16, North Carolina Opportunity Culture schools outperformed other North Carolina schools on state accountability growth measures
 description: In 2015–16, North Carolina Opportunity Culture schools outperformed other North Carolina schools on state accountability growth measures
 id: nc-oc-schools-outperformed-2015-16
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: element
 id: adaptive-g-ukt-benchmark-datasets
 title: Four large-scale real-world sequential knowledge tracing benchmark datasets used to evaluate Adaptive G-UKT
 description: "The evaluation corpus comprises four large-scale real-world sequential datasets: \"ASSISTments2009, Bridge2Algebra2006, Algebra2005, and NIPS34\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

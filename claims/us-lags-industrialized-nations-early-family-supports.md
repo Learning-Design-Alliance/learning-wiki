@@ -3,7 +3,7 @@ type: claim
 title: The U.S. lags other industrialized nations in paid parental leave, prenatal care access, and child care cost coverage
 description: The U.S.
 id: us-lags-industrialized-nations-early-family-supports
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

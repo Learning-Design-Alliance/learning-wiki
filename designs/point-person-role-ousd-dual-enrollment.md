@@ -3,7 +3,7 @@ type: design
 id: point-person-role-ousd-dual-enrollment
 title: "The Point Person: an embedded OUSD staff member supporting each dual enrollment classroom"
 description: The point person is an OUSD staff member—typically a classroom teacher, occasionally a counselor or other school employee—embedded in every dual enrollment classroom alongside the Peralta instructor.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

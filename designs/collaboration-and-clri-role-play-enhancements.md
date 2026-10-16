@@ -3,7 +3,7 @@ type: design
 id: collaboration-and-clri-role-play-enhancements
 title: "Two-enhancement design: refined teacher collaboration plus CLRI role-play"
 description: "The Write to Succeed program is refined through \"two enhancements for refined teacher collaboration and culturally and linguistically relevant instruction (CLRI) role-play.\" Role-play is used as the practice format fo..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

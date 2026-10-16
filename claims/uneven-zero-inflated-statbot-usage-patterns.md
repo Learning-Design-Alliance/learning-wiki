@@ -3,7 +3,7 @@ type: claim
 title: "Voluntary StatBot use was highly uneven and deadline-driven, with about 27% of students never using the chatbot"
 description: "Voluntary StatBot use was highly uneven and deadline-driven, with about 27% of students never using the chatbot"
 id: uneven-zero-inflated-statbot-usage-patterns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

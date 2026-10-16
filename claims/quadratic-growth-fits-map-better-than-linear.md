@@ -3,7 +3,7 @@ type: claim
 title: Quadratic latent growth fits MAP longitudinal achievement data better than linear growth across ten states
 description: Quadratic latent growth fits MAP longitudinal achievement data better than linear growth across ten states
 id: quadratic-growth-fits-map-better-than-linear
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

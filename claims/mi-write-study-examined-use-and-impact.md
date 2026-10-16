@@ -3,7 +3,7 @@ type: claim
 title: "A 2021–2022 study examined teachers' and students' use of MI Write and its impact on student and teacher outcomes"
 description: "A 2021–2022 study examined teachers' and students' use of MI Write and its impact on student and teacher outcomes"
 id: mi-write-study-examined-use-and-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

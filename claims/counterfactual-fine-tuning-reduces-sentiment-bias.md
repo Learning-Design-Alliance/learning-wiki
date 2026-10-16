@@ -3,7 +3,7 @@ type: claim
 title: Counterfactual fine-tuning reduces sentiment bias in LLM-generated forum replies
 description: Counterfactual fine-tuning reduces sentiment bias in LLM-generated forum replies
 id: counterfactual-fine-tuning-reduces-sentiment-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

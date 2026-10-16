@@ -3,7 +3,7 @@ type: claim
 title: Students in the generative AI-supported condition reported favorable perceptions of the instruction, with feedback for correcting mistakes rated highest
 description: Students in the generative AI-supported condition reported favorable perceptions of the instruction, with feedback for correcting mistakes rated highest
 id: genai-geometry-favorable-perceptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

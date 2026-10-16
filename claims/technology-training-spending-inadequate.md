@@ -3,7 +3,7 @@ type: claim
 title: Schools spend far less per student on teacher technology training than on hardware, software, and connectivity, below the recommended 30 percent share
 description: Schools spend far less per student on teacher technology training than on hardware, software, and connectivity, below the recommended 30 percent share
 id: technology-training-spending-inadequate
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

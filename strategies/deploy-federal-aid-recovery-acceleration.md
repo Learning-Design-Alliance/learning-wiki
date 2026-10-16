@@ -3,7 +3,7 @@ type: strategy
 id: deploy-federal-aid-recovery-acceleration
 title: Deploy federal recovery funding to support recovery, accelerate learning, and transform schools
 description: The webinar recommends that policymakers and education leaders use the pandemic-era influx of federal funding as an opportunity for recovery and systemic change.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

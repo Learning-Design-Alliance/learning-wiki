@@ -3,7 +3,7 @@ type: claim
 title: The literature is supportive of recasts, but recast effectiveness varies with the language area and learner knowledge, focus, and aptitudes
 description: The literature is supportive of recasts, but recast effectiveness varies with the language area and learner knowledge, focus, and aptitudes
 id: recasts-supported-but-effectiveness-varies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28
@@ -78,3 +78,6 @@ Lyster and Saito (2010), a meta-analysis of 15 classroom studies, supports recas
 - [Corrective feedback facilitates L2 grammatical development, with explicit feedback stronger immediately and implicit feedback better maintained over time](cf-facilitates-l2-grammar-explicit-implicit-durability.md) — related
 - Pragmatic recasts improved learners' request performance in one study but showed no significant effects in another, leaving recast effectiveness mixed — a narrower finding that bears on this claim
 - [Laboratory and classroom studies assess the effects of recasts and different CF types differentially](lab-and-classroom-studies-cf-effects-recasts.md) — related
+- [All three groups benefited from the instructional intervention, with both experimental groups benefiting the most](all-groups-benefited-experimental-most.md) — related
+- [Prompts were overall more effective than recasts as corrective feedback for L2 grammar learning](prompts-more-effective-than-recasts-overall.md) — related
+- [Recasts were provided more predominantly than prompts and explicit correction in both French immersion and Japanese immersion elementary classrooms](recasts-predominate-over-prompts-explicit-correction-immersion.md) — related

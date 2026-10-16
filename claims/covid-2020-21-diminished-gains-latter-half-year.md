@@ -3,7 +3,7 @@ type: claim
 title: Reading and math gains during 2020-21 were diminished compared to pre-pandemic trends, especially in the latter half of the school year
 description: Reading and math gains during 2020-21 were diminished compared to pre-pandemic trends, especially in the latter half of the school year
 id: covid-2020-21-diminished-gains-latter-half-year
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

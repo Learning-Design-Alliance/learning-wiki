@@ -3,7 +3,7 @@ type: element
 id: if-at-scratch-off-feedback-cards
 title: IF-AT scratch-off lottery response cards for immediate team feedback in tRAT sessions
 description: "Immediate Feedback Assessment Technique (IF-AT) forms are scratch-off, lottery-style cards used during the tRAT so teams \"receive immediate feedback on the submitted responses.\" The correct answer is marked by a star..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

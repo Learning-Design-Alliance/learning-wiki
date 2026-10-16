@@ -3,7 +3,7 @@ type: strategy
 id: stay-the-course-district-level-mtss-capacity
 title: "Sustain statewide MTSS by staying the course: invest in district-level capacity and an integrated three-tier model"
 description: "The evaluation's forward-looking recommendation is that Kansas \"stay the course\": continue investment in district-level capacity building, strengthen the Core Team, and adhere continually to the MTSS framework as more..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

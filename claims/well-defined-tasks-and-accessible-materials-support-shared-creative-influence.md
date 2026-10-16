@@ -2,7 +2,7 @@
 type: claim
 title: Well-defined tasks and accessible materials support shared creative influence in group work
 id: well-defined-tasks-and-accessible-materials-support-shared-creative-influence
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

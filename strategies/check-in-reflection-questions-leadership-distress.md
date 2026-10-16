@@ -3,7 +3,7 @@ type: strategy
 id: check-in-reflection-questions-leadership-distress
 title: Use structured reflection questions in check-ins and board materials to surface leadership distress indicators
 description: "The toolkit recommends specific discussion prompts authorizers can use in formal or informal check-ins with board members and school leaders, such as \"Can the leader articulate goals and strategies for improvement?\" a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

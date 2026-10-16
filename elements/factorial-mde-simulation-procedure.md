@@ -3,7 +3,7 @@ type: element
 id: factorial-mde-simulation-procedure
 title: Simulation-based power calculation procedure comparing classical and Bayesian MDEs across factorial designs
 description: The paper describes a simulation procedure for comparing the statistical power of classical and Bayesian factorial designs.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Student ratings of the AI-generated materials ranged from an average of 8.5 to 9.9 out of 10 across validated modules, based on over 600 voluntary anonymous evaluations.
 description: Student ratings of the AI-generated materials ranged from an average of 8.5 to 9.9 out of 10 across validated modules, based on over 600 voluntary anonymous evaluations.
 id: student-ratings-8-5-to-9-9-generated-materials
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -2,7 +2,7 @@
 type: theory
 title: Rapid guessing as an opt-out decision within the measurement process
 description: "This account explains rapid guessing not as a knowledge deficit or random noise but as a deliberate behavioral decision: the test taker chooses to stop engaging with the measurement process on an item."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

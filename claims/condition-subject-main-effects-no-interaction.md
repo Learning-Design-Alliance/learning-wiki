@@ -3,7 +3,7 @@ type: claim
 title: Learning gains showed significant main effects of hint condition and subject, with no significant condition-by-subject interaction
 description: Learning gains showed significant main effects of hint condition and subject, with no significant condition-by-subject interaction
 id: condition-subject-main-effects-no-interaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

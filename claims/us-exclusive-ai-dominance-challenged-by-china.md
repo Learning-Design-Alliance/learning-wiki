@@ -3,7 +3,7 @@ type: claim
 title: The belief that the United States exclusively dominates the AI arena is challenged by the rapid ascent of China
 description: The belief that the United States exclusively dominates the AI arena is challenged by the rapid ascent of China
 id: us-exclusive-ai-dominance-challenged-by-china
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -44,3 +44,4 @@ Editorial argument dismantling the US-dominance myth. The authors state the beli
 
 ## Related Claims
 - STEAM AI literacy research is geographically concentrated in North America, Europe and East Asia, led by the United States (23.5%) — related
+- [K-12 AI learning experiences concentrate on technical, conceptual and applied skills in specific domains, while implementation schemes are led by the US and China](k12-ai-experiences-domain-limited-us-china-lead.md) — related

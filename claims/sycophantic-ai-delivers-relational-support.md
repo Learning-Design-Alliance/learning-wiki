@@ -3,7 +3,7 @@ type: claim
 title: Sycophantic AI is rated higher than neutral AI on emotional support, esteem support, and certainty, but not informational support
 description: Sycophantic AI is rated higher than neutral AI on emotional support, esteem support, and certainty, but not informational support
 id: sycophantic-ai-delivers-relational-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

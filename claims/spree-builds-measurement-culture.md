@@ -3,7 +3,7 @@ type: claim
 title: The SPREE process can help build or strengthen a culture of measurement, learning and evaluation even where it is initially absent
 description: The SPREE process can help build or strengthen a culture of measurement, learning and evaluation even where it is initially absent
 id: spree-builds-measurement-culture
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

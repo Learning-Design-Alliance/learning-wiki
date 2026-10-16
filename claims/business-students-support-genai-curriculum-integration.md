@@ -3,7 +3,7 @@ type: claim
 title: Undergraduate business students strongly support integrating GenAI knowledge and application into higher education curricula
 description: Undergraduate business students strongly support integrating GenAI knowledge and application into higher education curricula
 id: business-students-support-genai-curriculum-integration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

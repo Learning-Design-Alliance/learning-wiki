@@ -3,7 +3,7 @@ type: claim
 title: Prompts referencing architectural styles or local architectures yielded less desired image outcomes than future-themed prompts, motivating selectable checkpoints in GAI-A
 description: Prompts referencing architectural styles or local architectures yielded less desired image outcomes than future-themed prompts, motivating selectable checkpoints in GAI-A
 id: style-prompts-underperform-future-themed-prompts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

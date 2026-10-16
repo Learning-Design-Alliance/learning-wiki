@@ -3,7 +3,7 @@ type: claim
 title: "Service providers credited TECTA's support network and resources with enabling their access to higher education and degree completion"
 description: "Service providers credited TECTA's support network and resources with enabling their access to higher education and degree completion"
 id: tecta-support-network-enabled-degree-access
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

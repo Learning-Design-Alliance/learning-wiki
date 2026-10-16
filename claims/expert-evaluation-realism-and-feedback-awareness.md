@@ -3,7 +3,7 @@ type: claim
 title: "Expert evaluation found the virtual patient realistic and immediate ACT feedback increased therapists' awareness of intervention choices"
 description: "Expert evaluation found the virtual patient realistic and immediate ACT feedback increased therapists' awareness of intervention choices"
 id: expert-evaluation-realism-and-feedback-awareness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

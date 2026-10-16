@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Retrieval practice improves long-term retention
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25
@@ -266,3 +266,4 @@ Open questions that evidence entries should address include: how retrieval pract
 - [The meta-analysis supports retrieval effort as a contributor to the testing effect](retrieval-effort-support-testing-effect.md) — a narrower finding that bears on this claim
 - [Rereading Less Effective Than Retrieval Practice](rereading-less-effective-than-retrieval-practice.md)
 - [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — related
+- [The achievement benefit of peer assessment persists to a later comprehensive final exam](peer-assessment-gains-persist-to-final-exam.md) — related

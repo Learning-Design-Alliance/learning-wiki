@@ -3,7 +3,7 @@ type: claim
 title: Supervised machine learning de-identification still outperforms GPT-4, though GPT-4 exceeds class-list/regular-expression and transformer approaches in recall
 description: Supervised machine learning de-identification still outperforms GPT-4, though GPT-4 exceeds class-list/regular-expression and transformer approaches in recall
 id: gpt4-redaction-compared-to-prior-methods
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "A four-cluster solution is optimal for segmenting higher education users' GenAI chatbot adoption perceptions"
 description: "A four-cluster solution is optimal for segmenting higher education users' GenAI chatbot adoption perceptions"
 id: four-cluster-solution-genai-personas
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: element
 id: ppsd-text-messaging-platform
 title: PPSD districtwide text-messaging platform for parent and guardian communication
 description: An engagement tool implemented in all PPSD schools in 2018/19 that lets administrators and staff send and receive messages to parents and guardians of the whole school, groups, or individual students.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

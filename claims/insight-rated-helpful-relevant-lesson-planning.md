@@ -3,7 +3,7 @@ type: claim
 title: Teachers rate the INSIGHT training as highly helpful and relevant for lesson planning and instructional design across disciplines, school types, and grade levels
 description: Teachers rate the INSIGHT training as highly helpful and relevant for lesson planning and instructional design across disciplines, school types, and grade levels
 id: insight-rated-helpful-relevant-lesson-planning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: prepare-students-for-changing-career-requirements
 title: Prepare students for changing career requirements by building readiness for change across the work life
 description: This strategy frames career preparation around adapting to shifting job demands rather than static skills.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

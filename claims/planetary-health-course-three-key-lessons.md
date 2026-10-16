@@ -3,7 +3,7 @@ type: claim
 title: Developing and delivering an integrated CBL/CEL/COIL planetary health course yielded three key lessons on flexibility, structural reform, and equitable partnerships
 description: Developing and delivering an integrated CBL/CEL/COIL planetary health course yielded three key lessons on flexibility, structural reform, and equitable partnerships
 id: planetary-health-course-three-key-lessons
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

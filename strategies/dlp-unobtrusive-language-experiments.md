@@ -3,7 +3,7 @@ type: strategy
 id: dlp-unobtrusive-language-experiments
 title: Leverage digital learning platforms to run unobtrusive randomized experiments on language modifications in math problems
 description: "The article argues that DLPs' adaptability \"allows for controlled experimentation with language variations in math problems,\" providing fertile ground for research on language and mathematics."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -39,6 +39,7 @@ The article argues that DLPs' adaptability "allows for controlled experimentatio
 
 - [Use a 2x2 factorial design to separate the effects of contextual relevance and linguistic detail in word problems](factorial-context-detail-word-problem-design.md)
 - [Conduct a smaller sequence of rapid-cycle studies that build on one another instead of planning a single large confirmatory study](sequence-of-smaller-rapid-cycle-dlp-studies.md)
+- [Use web-based educational platforms to run individual-level randomized experiments in the classroom](web-platforms-enable-classroom-rcts.md)
 
 ## Examples
 -

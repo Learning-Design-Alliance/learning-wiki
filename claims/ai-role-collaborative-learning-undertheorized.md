@@ -3,7 +3,7 @@ type: claim
 title: "AI's role in shaping interaction, epistemic agency, and shared regulation in collaborative learning remains under-theorized"
 description: "AI's role in shaping interaction, epistemic agency, and shared regulation in collaborative learning remains under-theorized"
 id: ai-role-collaborative-learning-undertheorized
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -50,3 +50,4 @@ Theoretical argument identifying the research gap the paper addresses. The autho
 - [Learner-side gains from curiosity modulation persist even when tutor-side instructional quality remains unchanged or degrades, suggesting curiosity operates as a partially independent interaction-level mechanism](learner-gains-persist-despite-tutor-quality-degradation.md) — related
 - [Existing AI literacy frameworks treat teacher agency narrowly as tool adoption, leaving human–AI co-agency undertheorized](agency-narrowed-to-tool-adoption.md) — related
 - [Distributed epistemic agency emerges as learners attribute authority to AI outputs and shift responsibility for knowledge validation, though some engage dialogically](distributed-epistemic-agency-machine-authority.md) — related
+- [Hybrid work must be reconceptualised to include the human/AI duality alongside the presence/virtual continuum](hybrid-work-human-ai-duality.md) — related

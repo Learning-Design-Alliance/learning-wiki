@@ -3,7 +3,7 @@ type: claim
 title: "Among AI-TPACK dimensions, all except AI technological knowledge and integrative AI-TPACK are significantly and positively associated with college teachers' AI teaching innovation behavior"
 description: "Among AI-TPACK dimensions, all except AI technological knowledge and integrative AI-TPACK are significantly and positively associated with college teachers' AI teaching innovation behavior"
 id: ai-tpack-dimensions-associated-with-ai-teaching-innovation-behavior
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

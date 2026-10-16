@@ -3,7 +3,7 @@ type: strategy
 id: combine-mll-non-mll-early-grade-scores
 title: Combine MLL and non-MLL early-grade test scores into a common latent scale to obtain an unbiased view of literacy growth
 description: Districts can use the latent-score linking approach to combine scores across the different assessment systems that multilingual learners and non-MLLs take, avoiding bias from students moving between systems.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -43,4 +43,4 @@ Districts can use the latent-score linking approach to combine scores across the
 -
 
 ## Key Sources
-- Allensworth, E., Gordon, A. & Young, C. (2026). Combining early grade assessments to study literacy skills: Addressing the variability in tests taken across schools and students. Journal of Research on Educational Effectiveness, 19(1), 1-26. https://consortium.uchicago.edu/publications/combining-early-grade-assessments-to-study-literacy-skills
+- Allensworth, E., Gordon, A. & Young, C. (2026). Combining early grade assessments to study literacy skills: Addressing the variability in tests taken across schools and students. Journal of Research on Educational Effectiveness, 19(1), 1-26. https://consortium.uchicago.edu/publications/combining-early-grade-assessments-to-study-literacy-skills. [doi:10.1080/19345747.2026.2636957](https://doi.org/10.1080/19345747.2026.2636957)

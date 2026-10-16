@@ -3,7 +3,7 @@ type: claim
 title: Response-time propensities show moderate to strong within-student stability across practice session slices
 description: Response-time propensities show moderate to strong within-student stability across practice session slices
 id: rt-propensities-moderate-strong-stability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

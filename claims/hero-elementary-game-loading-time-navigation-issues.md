@@ -3,7 +3,7 @@ type: claim
 title: Digital game loading time caused issues but students had no significant navigation problems once the game loaded.
 description: Digital game loading time caused issues but students had no significant navigation problems once the game loaded.
 id: hero-elementary-game-loading-time-navigation-issues
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

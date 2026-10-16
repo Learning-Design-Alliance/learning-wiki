@@ -3,7 +3,7 @@ type: element
 id: labov-oriented-semantic-network
 title: "Oriented semantic network: linear ordering of the semantic network treated as psychological rather than grammatical"
 description: "The oriented semantic network is the second segment, produced when the semantic network \"is put in some linear order.\" Labov treats this ordering as \"a psychological matter more than a grammatical matter,\" allowing an..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: strategy
 id: video-analysis-modeling-sport-science-strategy
 title: Teach the five steps of scientific investigation through personally motivating video analysis and modeling projects
 description: The lesson exemplar has teachers introduce the pedagogy of video analysis and modeling, with students experiencing sample analysis and modeling on one simple and one more complex video.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

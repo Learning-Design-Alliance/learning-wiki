@@ -3,7 +3,7 @@ type: claim
 title: The SBLE evidence base contains no randomized experiments and carries high risk of bias
 description: The SBLE evidence base contains no randomized experiments and carries high risk of bias
 id: sble-evidence-base-no-randomized-studies-high-risk-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

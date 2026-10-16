@@ -3,7 +3,7 @@ type: claim
 title: Chicago TAP did not raise student math or reading scores overall during the four-year rollout in Chicago Public Schools
 description: Chicago TAP did not raise student math or reading scores overall during the four-year rollout in Chicago Public Schools
 id: chicago-tap-no-student-achievement-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: measurement-evaluation-tool-suite-evidence-based-solutions
 title: Use a suite of measurement and evaluation tools to develop, refine, and scale evidence-based educational solutions
 description: "The guide situates itself within a broader set of resources: \"This guide is part of a suite of measurement and evaluation tools designed to support organizations as they develop, refine, and scale evidence-based solut..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

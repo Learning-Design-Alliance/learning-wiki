@@ -4,7 +4,7 @@ id: cognitive-flexibility-scale
 title: Cognitive Flexibility Scale
 description: "A 19-item adjective-pair self-report assessment developed by Bilgin to measure individuals' cognitive flexibility."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

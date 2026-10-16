@@ -3,7 +3,7 @@ type: claim
 title: "A school finance reform analysis found that a 20% increase in per-pupil spending for a child's k-12 schooling raised high school completion and adult earnings"
 description: "A school finance reform analysis found that a 20% increase in per-pupil spending for a child's k-12 schooling raised high school completion and adult earnings"
 id: per-pupil-spending-increase-improves-adult-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

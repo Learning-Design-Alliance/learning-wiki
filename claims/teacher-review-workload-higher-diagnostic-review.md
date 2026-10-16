@@ -3,7 +3,7 @@ type: claim
 title: Teacher review workload was higher in the Diagnostic Review class in review minutes, added instruction, and review intensity
 description: Teacher review workload was higher in the Diagnostic Review class in review minutes, added instruction, and review intensity
 id: teacher-review-workload-higher-diagnostic-review
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

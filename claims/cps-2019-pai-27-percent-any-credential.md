@@ -3,7 +3,7 @@ type: claim
 title: If current rates hold, 27 percent of current CPS ninth-graders will complete any college credential within 10 years (2019 PAI)
 description: If current rates hold, 27 percent of current CPS ninth-graders will complete any college credential within 10 years (2019 PAI)
 id: cps-2019-pai-27-percent-any-credential
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

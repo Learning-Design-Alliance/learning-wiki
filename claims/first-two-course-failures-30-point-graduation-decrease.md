@@ -3,7 +3,7 @@ type: claim
 title: The first two semester course failures in ninth grade are associated with a 30 percentage point decrease in the probability of graduating
 description: The first two semester course failures in ninth grade are associated with a 30 percentage point decrease in the probability of graduating
 id: first-two-course-failures-30-point-graduation-decrease
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

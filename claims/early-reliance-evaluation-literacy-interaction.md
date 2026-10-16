@@ -3,7 +3,7 @@ type: claim
 title: The association between early reliance and negative impact strengthens as evaluation literacy increases
 description: The association between early reliance and negative impact strengthens as evaluation literacy increases
 id: early-reliance-evaluation-literacy-interaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

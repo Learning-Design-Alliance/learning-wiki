@@ -3,7 +3,7 @@ type: strategy
 id: school-wide-goals-guide-teacher-teams
 title: Use school-wide instructional goals to focus teacher-team collaboration on common instructional issues
 description: The case-study schools used school-wide instructional goals—such as literacy integration across disciplines, assessments, or improving differentiation—to give collaborative teacher-team work concrete focus and content.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

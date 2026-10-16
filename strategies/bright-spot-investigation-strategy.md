@@ -3,7 +3,7 @@ type: strategy
 id: bright-spot-investigation-strategy
 title: Investigate bright spots to identify and disseminate effective practices
 description: In continuous improvement efforts, unusually large class-level gains in learning conditions (“bright spots”) are treated as leads on effective strategies.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

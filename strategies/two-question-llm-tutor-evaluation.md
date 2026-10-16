@@ -3,7 +3,7 @@ type: strategy
 id: two-question-llm-tutor-evaluation
 title: "Evaluate LLM tutoring systems in two steps: first whether an intervention changes the assistance students receive, then whether that change improves learning"
 description: "The article proposes that evaluations of LLM tutoring systems should distinguish a behavioral question from an educational question: \"does a pedagogical intervention change the assistance students receive?\" versus \"do..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

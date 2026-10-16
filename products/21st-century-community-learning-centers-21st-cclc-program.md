@@ -4,7 +4,7 @@ id: 21st-century-community-learning-centers-21st-cclc-program
 title: 21st Century Community Learning Centers (21st CCLC) program
 description: A U.S.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

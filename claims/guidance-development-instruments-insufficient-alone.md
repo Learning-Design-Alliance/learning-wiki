@@ -3,7 +3,7 @@ type: claim
 title: Guidance and Development Policy Instruments Are Individually Insufficient for Instructional Change
 description: Guidance and Development Policy Instruments Are Individually Insufficient for Instructional Change
 id: guidance-development-instruments-insufficient-alone
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

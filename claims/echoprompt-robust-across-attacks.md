@@ -3,7 +3,7 @@ type: claim
 title: "EchoPrompt remains robust across attack settings, obtaining the best AUROC and Best-F1 in four out of five attack groups and improving over IRM by 0.24% AUROC on average"
 description: "EchoPrompt remains robust across attack settings, obtaining the best AUROC and Best-F1 in four out of five attack groups and improving over IRM by 0.24% AUROC on average"
 id: echoprompt-robust-across-attacks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

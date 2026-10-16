@@ -3,7 +3,7 @@ type: claim
 title: Coaching and expert support appeared in 30 of 35 studies, with coached classrooms showing larger gains in a randomized trial
 description: Coaching and expert support appeared in 30 of 35 studies, with coached classrooms showing larger gains in a randomized trial
 id: pd-coaching-expert-support-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

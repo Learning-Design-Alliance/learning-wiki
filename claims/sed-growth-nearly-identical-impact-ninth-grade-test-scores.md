@@ -3,7 +3,7 @@ type: claim
 title: Fostering socioemotional development and fostering test score growth had nearly identical impacts on 9th grade test scores
 description: Fostering socioemotional development and fostering test score growth had nearly identical impacts on 9th grade test scores
 id: sed-growth-nearly-identical-impact-ninth-grade-test-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

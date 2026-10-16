@@ -3,7 +3,7 @@ type: claim
 title: Stabilization reduced the inverse relationship between student group size and score variance for test-based indicators, especially for groups of 10 to 19 students
 description: Stabilization reduced the inverse relationship between student group size and score variance for test-based indicators, especially for groups of 10 to 19 students
 id: stabilization-reduces-group-size-variance-relationship
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

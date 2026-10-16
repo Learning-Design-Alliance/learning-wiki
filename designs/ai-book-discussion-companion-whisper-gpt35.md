@@ -3,7 +3,7 @@ type: design
 id: ai-book-discussion-companion-whisper-gpt35
 title: "AI book discussion companion: a fixed peer-role conversational agent using Whisper speech-to-text and GPT-3.5"
 description: A conversational AI system developed by the research team for elementary book talk.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

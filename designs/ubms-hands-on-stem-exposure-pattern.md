@@ -3,7 +3,7 @@ type: design
 id: ubms-hands-on-stem-exposure-pattern
 title: "Hands-on math-science exposure pattern: labs, computer facilities, field sites, and scientist contact"
 description: "The UBMS design pattern combines practical STEM settings with expert contact: grantees \"provide participants with hands-on experience in laboratories, computer facilities, and at field sites, as well as opportunities..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

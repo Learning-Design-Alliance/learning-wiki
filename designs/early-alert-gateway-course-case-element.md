@@ -3,7 +3,7 @@ type: design
 id: early-alert-gateway-course-case-element
 title: Illustrative early alert system for first-year gateway courses used to demonstrate LEAGUE
 description: "The article demonstrates LEAGUE's operational value on a scenario in which \"Students receive a risk score from 0 to 100 based on four indicators: no LMS login for seven days, two missing assignments, attendance below..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

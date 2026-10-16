@@ -3,7 +3,7 @@ type: strategy
 id: combine-access-policies-with-targeted-subgroup-interventions
 title: Identify cross-subgroup themes and combine broad access-expanding policies with targeted subgroup-specific interventions
 description: "The guide's third recommendation is to look across subgroups for common themes, framing discussion around access and opportunity so districts can address root causes of achievement gaps."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

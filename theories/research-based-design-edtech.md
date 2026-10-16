@@ -2,7 +2,7 @@
 type: theory
 title: "Research-based design: edtech products should derive their purpose, framework, and design decisions from learning sciences research"
 description: "Research-based design is the organizing account of this report: edtech quality is judged by whether a product articulates a learning purpose and explicitly consults learning sciences research to drive design decisions..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Intended learning effort predicts L2 proficiency with a modest standardized coefficient of .20 in all three models
 description: Intended learning effort predicts L2 proficiency with a modest standardized coefficient of .20 in all three models
 id: effort-predicts-proficiency-modestly
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

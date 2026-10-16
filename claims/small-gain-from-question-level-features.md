@@ -3,7 +3,7 @@ type: claim
 title: Using performance on each individual question as features yields only a small improvement over a single-ability logistic regression model
 description: Using performance on each individual question as features yields only a small improvement over a single-ability logistic regression model
 id: small-gain-from-question-level-features
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

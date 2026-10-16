@@ -3,7 +3,7 @@ type: strategy
 id: balance-human-and-automated-feedback-writing
 title: Balance human and automated feedback to optimize writing skill development
 description: "The review's forward-looking pedagogical recommendation is to integrate AI-powered feedback while balancing it with human feedback, so that immediate, customized automated feedback is combined with teacher input to op..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

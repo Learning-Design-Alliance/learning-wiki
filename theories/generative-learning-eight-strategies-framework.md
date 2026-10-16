@@ -2,7 +2,7 @@
 type: theory
 title: Generative learning as actively making sense of information via eight learning strategies
 description: "The chapter adopts Fiorella and Mayer's account of generative learning as learning that involves \"actively making sense of to-be-learned information by mentally reorganizing and integrating it with one's prior knowled..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

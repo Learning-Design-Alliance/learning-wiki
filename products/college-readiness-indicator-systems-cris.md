@@ -5,7 +5,7 @@ aliases: [cris-framework, cris-menu, college-readiness-indicator-systems-cris-fr
 title: "College Readiness Indicator Systems (CRIS)"
 description: "A framework developed by the Annenberg Institute for School Reform and partners for organizing indicators of students' academic preparedness, academic tenacity, and college knowledge."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

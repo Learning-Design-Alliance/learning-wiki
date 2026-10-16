@@ -3,7 +3,7 @@ type: claim
 title: "Educators' positive perceptions of Maryland's TPE system increased year by year from 2013 to 2016 on every measure tracked"
 description: "Educators' positive perceptions of Maryland's TPE system increased year by year from 2013 to 2016 on every measure tracked"
 id: maryland-tpe-four-year-perception-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Technical restorative practices implementation falls short when the adaptive components of values, mindsets, and beliefs have not shifted
 description: Technical restorative practices implementation falls short when the adaptive components of values, mindsets, and beliefs have not shifted
 id: adaptive-shift-precedes-technical-restorative-success
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

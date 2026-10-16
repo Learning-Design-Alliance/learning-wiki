@@ -3,7 +3,7 @@ type: claim
 title: A majority of YOUmedia participants report improved digital media skills due to the program
 description: A majority of YOUmedia participants report improved digital media skills due to the program
 id: youmedia-majority-report-improved-digital-media-skills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

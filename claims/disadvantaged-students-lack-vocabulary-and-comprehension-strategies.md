@@ -3,7 +3,7 @@ type: claim
 title: Disadvantaged children may struggle with reading comprehension because they often lack general vocabulary and strategies for organizing information from text
 description: Disadvantaged children may struggle with reading comprehension because they often lack general vocabulary and strategies for organizing information from text
 id: disadvantaged-students-lack-vocabulary-and-comprehension-strategies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Direct instruction may create a lock-in that constrains search for novel solutions
 description: Direct instruction may create a lock-in that constrains search for novel solutions
 id: direct-instruction-lock-in-constrains-exploration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

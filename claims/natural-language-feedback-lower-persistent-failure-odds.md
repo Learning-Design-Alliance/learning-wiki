@@ -3,7 +3,7 @@ type: claim
 title: Recorded natural-language feedback was associated with lower odds of subsequent persistent failure than no feedback in the randomized course subset
 description: Recorded natural-language feedback was associated with lower odds of subsequent persistent failure than no feedback in the randomized course subset
 id: natural-language-feedback-lower-persistent-failure-odds
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

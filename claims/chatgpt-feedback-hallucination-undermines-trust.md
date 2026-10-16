@@ -3,7 +3,7 @@ type: claim
 title: "In a small case study, students given ChatGPT feedback valued its immediacy and alternative analytical perspectives, but one distrusted its answers as 'often made up' for complex data analysis"
 description: "In a small case study, students given ChatGPT feedback valued its immediacy and alternative analytical perspectives, but one distrusted its answers as 'often made up' for complex data analysis"
 id: chatgpt-feedback-hallucination-undermines-trust
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

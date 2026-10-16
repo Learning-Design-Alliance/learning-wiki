@@ -3,7 +3,7 @@ type: strategy
 id: five-tier-governance-levers-ai-literacy
 title: Five-tier governance levers for embedding AI literacy into practice
 description: "The article proposes five governance tiers through which AI literacy is operationalized: policy and legislation, institutional regulation, educational implementation, technological infrastructure, and community and pu..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

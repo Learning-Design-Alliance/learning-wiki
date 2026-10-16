@@ -3,7 +3,7 @@ type: claim
 title: In both TBL formats, tRAT and iSAT scores significantly improve over preceding iRAT scores
 description: In both TBL formats, tRAT and iSAT scores significantly improve over preceding iRAT scores
 id: tbl-trat-isat-improve-over-irat
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

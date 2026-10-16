@@ -3,7 +3,7 @@ type: claim
 title: Joint IRT models including collateral information (raw score, gender, ethnicity) fit better than item-only base models for both tests
 description: Joint IRT models including collateral information (raw score, gender, ethnicity) fit better than item-only base models for both tests
 id: collateral-information-improves-joint-model-fit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

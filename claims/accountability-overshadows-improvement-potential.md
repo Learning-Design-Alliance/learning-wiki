@@ -3,7 +3,7 @@ type: claim
 title: "Accountability pressures overshadowed the survey's improvement potential without reducing its predictive power"
 description: "Accountability pressures overshadowed the survey's improvement potential without reducing its predictive power"
 id: accountability-overshadows-improvement-potential
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

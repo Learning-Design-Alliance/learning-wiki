@@ -4,7 +4,7 @@ id: connected
 title: ConnectED
 description: ConnectED is a web application developed by Thang Doan Viet et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

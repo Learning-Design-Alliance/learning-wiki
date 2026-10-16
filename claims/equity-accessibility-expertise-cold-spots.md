@@ -3,7 +3,7 @@ type: claim
 title: Equity and accessibility expertise areas were cold spots in the NSF EXP community, with fewer than two projects over three years
 description: Equity and accessibility expertise areas were cold spots in the NSF EXP community, with fewer than two projects over three years
 id: equity-accessibility-expertise-cold-spots
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

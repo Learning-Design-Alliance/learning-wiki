@@ -3,7 +3,7 @@ type: claim
 title: Linguistic simplification of math word problems can improve performance, particularly among English language learners and students from low-socioeconomic backgrounds
 description: Linguistic simplification of math word problems can improve performance, particularly among English language learners and students from low-socioeconomic backgrounds
 id: linguistic-simplification-improves-math-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

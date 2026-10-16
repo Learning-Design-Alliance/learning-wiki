@@ -3,7 +3,7 @@ type: claim
 title: Most participants reported that cheat sheets boosted their confidence and efficiency during exams
 description: Most participants reported that cheat sheets boosted their confidence and efficiency during exams
 id: cheatsheets-boost-confidence-efficiency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

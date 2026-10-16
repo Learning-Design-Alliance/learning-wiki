@@ -3,7 +3,7 @@ type: strategy
 id: use-both-sel-status-and-growth-for-early-warning
 title: Attend to both SEL status and SEL growth when identifying students who may need supports to stay on track to graduate
 description: This strategy recommends that early-warning identification of at-risk students should not rely only on a single timepoint SEL score.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

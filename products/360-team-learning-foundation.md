@@ -4,7 +4,7 @@ id: 360-team-learning-foundation
 title: 360 Team Learning Foundation
 description: A six-component curricular platform created by Breitkreuz et al.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

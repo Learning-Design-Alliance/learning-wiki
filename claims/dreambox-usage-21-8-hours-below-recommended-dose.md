@@ -3,7 +3,7 @@ type: claim
 title: "In the reviewed RCT, students averaged 21.8 hours of DreamBox usage, below the developer's recommended 90 minutes per week"
 description: "In the reviewed RCT, students averaged 21.8 hours of DreamBox usage, below the developer's recommended 90 minutes per week"
 id: dreambox-usage-21-8-hours-below-recommended-dose
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

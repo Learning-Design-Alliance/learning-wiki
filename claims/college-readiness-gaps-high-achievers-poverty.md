@@ -3,7 +3,7 @@ type: claim
 title: Most high-achieving middle schoolers were on track for college readiness, but students in wealthy schools were more often on track than those in poor schools
 description: Most high-achieving middle schoolers were on track for college readiness, but students in wealthy schools were more often on track than those in poor schools
 id: college-readiness-gaps-high-achievers-poverty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

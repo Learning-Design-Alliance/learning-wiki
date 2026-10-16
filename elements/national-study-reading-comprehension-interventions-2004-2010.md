@@ -3,7 +3,7 @@ type: element
 id: national-study-reading-comprehension-interventions-2004-2010
 title: National Study of the Effectiveness of Reading Comprehension Interventions (2004-2010), the associated project behind the design report
 description: "The page lists an associated project, the \"National Study of the Effectiveness of Reading Comprehension Interventions,\" with a stated time frame of 2004-2010."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

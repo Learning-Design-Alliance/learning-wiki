@@ -3,7 +3,7 @@ type: claim
 title: Preservice candidates pass teaching performance assessments at higher rates than intern candidates
 description: Preservice candidates pass teaching performance assessments at higher rates than intern candidates
 id: preservice-candidates-outpass-interns-on-tpas
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

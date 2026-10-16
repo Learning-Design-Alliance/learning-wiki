@@ -3,7 +3,7 @@ type: element
 id: codable-maze-unplugged-shortest-distance-lesson
 title: Codable maze unplugged lesson for shortest-distance algorithms across content areas
 description: "The deck describes an unplugged lesson in which \"Students will use this unplugged lesson to code the shortest distance through a maze\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

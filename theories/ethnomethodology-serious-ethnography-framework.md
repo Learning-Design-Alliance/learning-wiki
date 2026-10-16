@@ -2,7 +2,7 @@
 type: theory
 title: "Ethnomethodology as 'serious ethnography' for studying interaction in natural settings"
 description: "The essay describes Goffman's method of inquiry, \"serious ethnography\" or ethnomethodology, whose studies \"explore the influence of peoples' standpoints (or perspective) on their thought and action in great detail.\" E..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: "Grade effects of GenAI availability do not differ across terciles of students' prior academic preparation, robust across multiple ability proxies"
 description: "Grade effects of GenAI availability do not differ across terciles of students' prior academic preparation, robust across multiple ability proxies"
 id: null-grade-effects-across-prior-performance-terciles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

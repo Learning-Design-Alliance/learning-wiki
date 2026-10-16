@@ -4,7 +4,7 @@ title: Schools trained in SWPBIS implement the model with high, sustained fideli
 description: Schools trained in SWPBIS implement the model with high, sustained fidelity on the School-Wide Evaluation Tool
 id: swpbis-training-high-fidelity-set
 aliases: [swpbis-high-fidelity-implementation]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

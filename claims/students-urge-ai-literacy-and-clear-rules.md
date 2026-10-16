@@ -3,7 +3,7 @@ type: claim
 title: Students most often urge institutions to teach responsible AI use (N=41) and provide clear rules and guidelines (N=27)
 description: Students most often urge institutions to teach responsible AI use (N=41) and provide clear rules and guidelines (N=27)
 id: students-urge-ai-literacy-and-clear-rules
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

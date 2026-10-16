@@ -3,7 +3,7 @@ type: claim
 title: One-fifth of students in academically advanced programs do not apply to any four-year college
 description: One-fifth of students in academically advanced programs do not apply to any four-year college
 id: cps-advanced-programs-one-fifth-no-four-year-application
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

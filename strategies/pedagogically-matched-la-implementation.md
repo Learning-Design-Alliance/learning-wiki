@@ -3,7 +3,7 @@ type: strategy
 id: pedagogically-matched-la-implementation
 title: Combine LA implementation with a pedagogically matched teaching or learning model and full teacher introduction
 description: "The review's practice recommendations state that \"LA implementation should be combined with a pedagogically matched teaching or learning model\" and that \"Teachers should not have to use tools they have not been fully..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

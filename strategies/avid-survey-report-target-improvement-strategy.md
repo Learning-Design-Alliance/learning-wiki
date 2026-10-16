@@ -3,7 +3,7 @@ type: strategy
 id: avid-survey-report-target-improvement-strategy
 title: Use individualized survey reports disaggregated by student type to target AVID program improvement areas
 description: "The report recommends that AVID site teams use the individualized survey report to guide goal setting: assess the school overall against other AVID schools, examine how the program impacts high versus low achieving, m..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Panelists strongly agreed human oversight must remain central in academic decisions involving GenAI, with clear accountability assignments
 description: Panelists strongly agreed human oversight must remain central in academic decisions involving GenAI, with clear accountability assignments
 id: human-oversight-central-genai-academic-decisions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

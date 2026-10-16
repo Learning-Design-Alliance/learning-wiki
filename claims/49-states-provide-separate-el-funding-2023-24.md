@@ -3,7 +3,7 @@ type: claim
 title: In 2023–24, 49 states provided separate additional funding for English learners, most commonly through weights in their funding formulas, with a national median EL weight of 0.25
 description: In 2023–24, 49 states provided separate additional funding for English learners, most commonly through weights in their funding formulas, with a national median EL weight of 0.25
 id: 49-states-provide-separate-el-funding-2023-24
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

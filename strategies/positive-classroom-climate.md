@@ -66,9 +66,9 @@ Climate functions as a gateway condition: learners who feel threatened or discon
 - [Cultivate mathematics belonging by publicly recognizing every student as a mathematical thinker](mathematics-belonging-recognition-practices.md)
 
 ## Examples
-- **Responsive Classroom** (https://www.responsiveclassroom.org) — a published K–8 program built around morning meetings and teacher language practices that establish climate routines.
+- **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveclassroom.org) — a published K–8 program built around morning meetings and teacher language practices that establish climate routines.
 - **Restorative justice circles in Denver Public Schools** — structured community circles used to build norms and repair conflict, associated with reduced suspensions.
-- **RULER** (Yale Center for Emotional Intelligence, https://ei.yale.edu/ruler) — an SEL approach in which climate is built through shared emotional vocabulary and charter-setting.
+- **[RULER](../products/ruler.md)** (Yale Center for Emotional Intelligence, https://ei.yale.edu/ruler) — an SEL approach in which climate is built through shared emotional vocabulary and charter-setting.
 
 ## Key Sources
 - Cornelius-White, J. (2007). Learner-centered teacher-student relationships are effective: A meta-analysis. *Review of Educational Research, 77*(1), 113–143. [doi:10.3102/003465430298563](https://doi.org/10.3102/003465430298563)

@@ -3,7 +3,7 @@ type: claim
 title: Hypotheses that specific robot appearances would be trusted more in matching tasks (humanoids for teaching, task-oriented robots for instructions, soft robots for personal disclosure) were not confirmed
 description: Hypotheses that specific robot appearances would be trusted more in matching tasks (humanoids for teaching, task-oriented robots for instructions, soft robots for personal disclosure) were not confirmed
 id: appearance-task-matching-hypotheses-not-confirmed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

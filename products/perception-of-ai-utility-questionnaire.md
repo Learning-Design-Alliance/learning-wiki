@@ -4,7 +4,7 @@ id: perception-of-ai-utility-questionnaire
 title: Perception of AI Utility Questionnaire
 description: A 12-item Likert questionnaire developed by Suriá-Martínez et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

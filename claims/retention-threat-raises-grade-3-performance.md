@@ -3,7 +3,7 @@ type: claim
 title: The threat of retention produced statistically significant increases in 3rd-grade math and reading performance before the retention decision
 description: The threat of retention produced statistically significant increases in 3rd-grade math and reading performance before the retention decision
 id: retention-threat-raises-grade-3-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

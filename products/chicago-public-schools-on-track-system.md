@@ -3,7 +3,7 @@ type: product
 id: chicago-public-schools-on-track-system
 title: Chicago Public Schools’ on-track system
 description: A Chicago Public Schools framework that combines practical student data reports with professional supports to help school staff identify and keep students on track during their first year of high school.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

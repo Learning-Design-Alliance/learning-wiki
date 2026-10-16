@@ -3,7 +3,7 @@ type: claim
 title: "Planning-stage AI ideas were often redundant with or rejected in favor of writers' own ideas: idea attribution was 17.8% among users versus 2.9% among non-users, but ownership did not differ between users and non-users within ai plan."
 description: "Planning-stage AI ideas were often redundant with or rejected in favor of writers' own ideas: idea attribution was 17.8% among users versus 2.9% among non-users, but ownership did not differ between users and non-user..."
 id: planning-ai-ideas-redundant-unused
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

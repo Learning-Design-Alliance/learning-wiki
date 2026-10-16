@@ -3,7 +3,7 @@ type: claim
 title: Nearly half of Kansas public schools and two-thirds of districts have participated in formal MTSS training, with no state mandate
 description: Nearly half of Kansas public schools and two-thirds of districts have participated in formal MTSS training, with no state mandate
 id: kansas-mtss-broad-training-reach
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

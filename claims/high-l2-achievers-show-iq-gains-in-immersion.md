@@ -3,7 +3,7 @@ type: claim
 title: High L2 achievers in immersion programs show IQ gains, consistent with a higher threshold of bilingual competence
 description: High L2 achievers in immersion programs show IQ gains, consistent with a higher threshold of bilingual competence
 id: high-l2-achievers-show-iq-gains-in-immersion
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

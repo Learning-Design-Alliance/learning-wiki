@@ -3,7 +3,7 @@ type: method
 id: transparent-rigorous-research-synthesis-practice
 title: Synthesists should be rigorously transparent in design, write-up and provision of supplementary materials so others can check, replicate or modify syntheses
 description: "A design recommendation for research synthesis methodology: because bias is inherent in primary research and many synthesist choices are glossed over, the article urges that \"Synthesists need to be rigorously transpar..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

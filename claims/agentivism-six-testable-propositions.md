@@ -3,7 +3,7 @@ type: claim
 title: Agentivism generates six empirically testable propositions linking delegation structure, verification, reconstruction, and reduced-support transfer to learning outcomes
 description: Agentivism generates six empirically testable propositions linking delegation structure, verification, reconstruction, and reduced-support transfer to learning outcomes
 id: agentivism-six-testable-propositions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

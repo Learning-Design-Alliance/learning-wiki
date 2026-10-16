@@ -3,7 +3,7 @@ type: claim
 title: TSDR improves the AUC of six state-of-the-art KT backbones across nine real-world benchmark datasets
 description: TSDR improves the AUC of six state-of-the-art KT backbones across nine real-world benchmark datasets
 id: tsdr-improves-kt-backbone-auc-benchmarks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

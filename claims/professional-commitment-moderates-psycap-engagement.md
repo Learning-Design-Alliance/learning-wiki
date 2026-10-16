@@ -3,7 +3,7 @@ type: claim
 title: Professional commitment positively moderates the effect of psychological capital on learning engagement
 description: Professional commitment positively moderates the effect of psychological capital on learning engagement
 id: professional-commitment-moderates-psycap-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

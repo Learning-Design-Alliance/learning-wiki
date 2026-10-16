@@ -3,7 +3,7 @@ type: claim
 title: Perceived AAC benefit score is positively correlated with the seven-item AAC implementation experience score
 description: Perceived AAC benefit score is positively correlated with the seven-item AAC implementation experience score
 id: perceived-benefit-correlates-with-aac-experience
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

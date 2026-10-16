@@ -3,7 +3,7 @@ type: element
 id: enhanced-mc-partial-credit-questions
 title: Enhanced multiple-choice (EMC) questions with up to ten answers, graded correctness, and partial credit
 description: "EMC questions are the article's proposed modification of the traditional multiple-choice format for use with computer-based classroom response systems."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

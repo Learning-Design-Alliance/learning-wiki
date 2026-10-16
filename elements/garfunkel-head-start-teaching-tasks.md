@@ -3,7 +3,7 @@ type: element
 id: garfunkel-head-start-teaching-tasks
 title: Four standardized teaching tasks (masks, balloons, homes and families, games) plus snack-time observation, designed to elicit stylistic variation
 description: The article describes a set of teaching tasks developed to elicit variation in teaching behavior along the scales of control, approach and value.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

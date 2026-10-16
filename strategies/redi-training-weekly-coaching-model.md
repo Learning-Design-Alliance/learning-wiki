@@ -3,7 +3,7 @@ type: strategy
 id: redi-training-weekly-coaching-model
 title: Support REDI implementation with brief inservice training plus weekly coaching from local consultants
 description: "The article recommends a professional development model for REDI: two days of in-person training and 8 hours of online training (or four days of in-person), plus local coaches who \"observe classrooms and meet with tea..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: First- and second-year Idaho charter students show growth not statistically different from their TPS VCRs
 description: First- and second-year Idaho charter students show growth not statistically different from their TPS VCRs
 id: idaho-charter-years-of-enrollment-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Even students in lowest-rated AVID schools are fairly positive, though only half would recommend AVID to friends
 description: Even students in lowest-rated AVID schools are fairly positive, though only half would recommend AVID to friends
 id: avid-lowest-schools-students-fairly-positive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

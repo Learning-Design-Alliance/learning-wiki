@@ -3,7 +3,7 @@ type: claim
 title: "Designing and building robot costumes supported students' learning about robot structure and factors affecting precise motion"
 description: "Designing and building robot costumes supported students' learning about robot structure and factors affecting precise motion"
 id: costume-design-supports-robot-structure-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

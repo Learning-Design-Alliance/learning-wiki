@@ -3,7 +3,7 @@ type: strategy
 id: teach-students-frame-slot-questions
 title: Teach students to use frame slot questions as a reading, studying, and self-monitoring tool
 description: The authors propose that students be taught to use the Goal and Problem/Solution frames in learning from text, which they consider even more important than teachers using frames for their own presentations.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -4,7 +4,7 @@ id: performance-assessment-resource-bank
 title: Performance Assessment Resource Bank
 description: A CCSSO collaboration with the Stanford Center for Assessment, Learning, and Equity (SCALE) and the Stanford Center for Opportunity Policy in Education (SCOPE) that provides reviewed curriculum-embedded performance tasks, units, rubrics, scored student work, and educator training protocols.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

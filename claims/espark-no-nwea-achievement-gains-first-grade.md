@@ -3,7 +3,7 @@ type: claim
 title: After eight months of eSpark usage in first-grade ELA classrooms, NWEA reading percentile scores showed no pattern of increasing achievement
 description: After eight months of eSpark usage in first-grade ELA classrooms, NWEA reading percentile scores showed no pattern of increasing achievement
 id: espark-no-nwea-achievement-gains-first-grade
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

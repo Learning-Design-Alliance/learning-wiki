@@ -3,7 +3,7 @@ type: claim
 title: "The TCSA literature is sparse, with very few empirical or quantitative studies of the models' measurement properties"
 description: "The TCSA literature is sparse, with very few empirical or quantitative studies of the models' measurement properties"
 id: tcsa-literature-sparse-few-quantitative-studies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

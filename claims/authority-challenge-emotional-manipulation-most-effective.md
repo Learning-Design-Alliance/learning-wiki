@@ -3,7 +3,7 @@ type: claim
 title: Authority Challenge and Emotional Manipulation are the most effective attack strategies, with consistent rank ordering across three LLM families
 description: Authority Challenge and Emotional Manipulation are the most effective attack strategies, with consistent rank ordering across three LLM families
 id: authority-challenge-emotional-manipulation-most-effective
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

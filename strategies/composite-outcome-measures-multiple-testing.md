@@ -3,7 +3,7 @@ type: strategy
 id: composite-outcome-measures-multiple-testing
 title: Create composite outcome measures to reduce the number of hypothesis tests
 description: The report discusses the creation of composite outcome measures as part of its guidance on multiple testing.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

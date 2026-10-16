@@ -2,7 +2,7 @@
 type: theory
 title: A data-to-difference improvement process running from collecting data to evaluating progress
 description: The article outlines key characteristics of a process for moving from data to making a difference in education.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

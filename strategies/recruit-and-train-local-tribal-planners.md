@@ -3,7 +3,7 @@ type: strategy
 id: recruit-and-train-local-tribal-planners
 title: Recruit and train local tribal members for planning staffs, supplementing on-the-job experience with training materials and workshops
 description: "For building local planning capability, the report recommends that \"Emphasis should be placed on the recruitment and training of local tribal members for EDA-funded planning staffs.\" Non-tribal planners are acceptable..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: "First-year teachers without mentors declined in self and impact concerns but task concerns stayed at 50%"
 description: "First-year teachers without mentors declined in self and impact concerns but task concerns stayed at 50%"
 id: unmentored-first-year-task-concerns-flat
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

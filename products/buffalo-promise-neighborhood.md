@@ -4,7 +4,7 @@ id: buffalo-promise-neighborhood
 title: Buffalo Promise Neighborhood
 description: Buffalo Promise Neighborhood is a local Promise Neighborhoods initiative serving a high-poverty Buffalo community through coordinated education, early-childhood, and family-support programming.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

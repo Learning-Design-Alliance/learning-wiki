@@ -3,7 +3,7 @@ type: claim
 title: "Tamarack Institute's collective impact approach reported 10 percent poverty reductions in cities and positive impact for 202,931 low-income Canadians over 10 years"
 description: "Tamarack Institute's collective impact approach reported 10 percent poverty reductions in cities and positive impact for 202,931 low-income Canadians over 10 years"
 id: tamarack-collective-impact-poverty-reduction-results
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

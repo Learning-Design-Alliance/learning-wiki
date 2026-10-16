@@ -3,7 +3,7 @@ type: claim
 title: "Brain-to-LLM participants showed higher neural connectivity than the LLM group's sessions 1-3, with a network-wide spike in alpha, beta, theta, and delta band directed connectivity"
 description: "Brain-to-LLM participants showed higher neural connectivity than the LLM group's sessions 1-3, with a network-wide spike in alpha, beta, theta, and delta band directed connectivity"
 id: brain-to-llm-connectivity-spike-across-bands
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

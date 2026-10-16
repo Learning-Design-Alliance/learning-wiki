@@ -3,7 +3,7 @@ type: claim
 title: "SBHIP needs assessments show LEAs' critical needs fall mainly into workforce needs and structural needs, with workforce needs described much more frequently"
 description: "SBHIP needs assessments show LEAs' critical needs fall mainly into workforce needs and structural needs, with workforce needs described much more frequently"
 id: sbhip-needs-workforce-over-structural
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

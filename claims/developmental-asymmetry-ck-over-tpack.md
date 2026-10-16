@@ -3,7 +3,7 @@ type: claim
 title: Expert perceptions reveal a developmental asymmetry in which content knowledge outweighs integrated pedagogical capacity in AI education
 description: Expert perceptions reveal a developmental asymmetry in which content knowledge outweighs integrated pedagogical capacity in AI education
 id: developmental-asymmetry-ck-over-tpack
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

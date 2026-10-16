@@ -3,7 +3,7 @@ type: claim
 title: Most LSCs are active in School Improvement Plan development, but fewer than a quarter are highly involved in the budget process
 description: Most LSCs are active in School Improvement Plan development, but fewer than a quarter are highly involved in the budget process
 id: lsc-sip-active-budget-less-involved
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: A recent research synthesis found positive effects of magnet schools on student achievement, attendance, and graduation rates in most studies
 description: A recent research synthesis found positive effects of magnet schools on student achievement, attendance, and graduation rates in most studies
 id: magnet-schools-positive-effects-synthesis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: formative-attitude-survey-feedback-reports-lab-courses
 title: Use pre/post attitude surveys with detailed instructor feedback reports as formative assessment for lab course transformation
 description: "The article recommends administering E-CLASS as a formative assessment tool: all participating instructors receive a detailed feedback report with graphical plots comparing their class to similar-level classes."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -43,4 +43,4 @@ The article recommends administering E-CLASS as a formative assessment tool: all
 -
 
 ## Key Sources
-- Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J. (2013). Development and results from a survey on students views of experiments in lab classes and research. https://arxiv.org/abs/1307.5760
+- Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J. (2013). Development and results from a survey on students views of experiments in lab classes and research. https://arxiv.org/abs/1307.5760. [doi:10.48550/arxiv.1307.5760](https://doi.org/10.48550/arxiv.1307.5760)

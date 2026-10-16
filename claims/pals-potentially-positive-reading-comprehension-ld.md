@@ -3,7 +3,7 @@ type: claim
 title: PALS shows potentially positive effects on reading comprehension for students with learning disabilities (average effect size 0.75, not statistically significant)
 description: PALS shows potentially positive effects on reading comprehension for students with learning disabilities (average effect size 0.75, not statistically significant)
 id: pals-potentially-positive-reading-comprehension-ld
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: strategy
 id: centralized-enrollment-controlled-choice-transparency
 title: Use centralized enrollment, controlled choice, and transparency systems to ensure equitable access and integration
 description: "The report recommends concrete management mechanisms for choice systems: centralized enrollment systems that balance race, ethnicity, economic background, achievement, and disability status (as in NYC's algorithm-matc..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

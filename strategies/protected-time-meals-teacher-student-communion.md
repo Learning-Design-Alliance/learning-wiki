@@ -3,7 +3,7 @@ type: strategy
 id: protected-time-meals-teacher-student-communion
 title: Provide teachers protected, substantial time away from their day, with meals, to commune with students
 description: "District participants reported that \"Providing busy teachers with substantial time where they step out of their day, provide them with lunch, and commune with their students was extremely valuable.\" Teachers are descr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

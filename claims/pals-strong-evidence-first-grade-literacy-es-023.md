@@ -3,7 +3,7 @@ type: claim
 title: PALS shows strong evidence of positive effects on first-grade literacy, with an average effect size of +0.23 across three studies
 description: PALS shows strong evidence of positive effects on first-grade literacy, with an average effect size of +0.23 across three studies
 id: pals-strong-evidence-first-grade-literacy-es-023
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

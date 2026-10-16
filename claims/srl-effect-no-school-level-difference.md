@@ -3,7 +3,7 @@ type: claim
 title: The pooled effect of self-regulated learning does not differ significantly by school level
 description: The pooled effect of self-regulated learning does not differ significantly by school level
 id: srl-effect-no-school-level-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

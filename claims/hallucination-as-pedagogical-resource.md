@@ -3,7 +3,7 @@ type: claim
 title: AI hallucination can be turned into a pedagogical resource by making verification and collaborative fact evaluation integral to AI-supported learning
 description: AI hallucination can be turned into a pedagogical resource by making verification and collaborative fact evaluation integral to AI-supported learning
 id: hallucination-as-pedagogical-resource
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

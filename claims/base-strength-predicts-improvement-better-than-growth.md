@@ -3,7 +3,7 @@ type: claim
 title: Base strength predicted outcome improvement better than growth in aggregate, and pooled regression estimates exceeded school fixed effects estimates
 description: Base strength predicted outcome improvement better than growth in aggregate, and pooled regression estimates exceeded school fixed effects estimates
 id: base-strength-predicts-improvement-better-than-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

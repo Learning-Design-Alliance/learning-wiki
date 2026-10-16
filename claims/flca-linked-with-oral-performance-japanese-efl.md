@@ -3,7 +3,7 @@ type: claim
 title: Anxiety in foreign language classroom learning experiences is linked with oral performance among Japanese EFL learners
 description: Anxiety in foreign language classroom learning experiences is linked with oral performance among Japanese EFL learners
 id: flca-linked-with-oral-performance-japanese-efl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: "Directly prompted Claude 3.7 macro-level deep feedback was judged effective for 93.03% of 201 paragraph-level comments"
 description: "Directly prompted Claude 3.7 macro-level deep feedback was judged effective for 93.03% of 201 paragraph-level comments"
 id: wraft-macro-feedback-93-percent-effective
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

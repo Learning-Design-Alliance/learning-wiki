@@ -3,7 +3,7 @@ type: claim
 title: State accountability systems that rank schools on FAFSA completion are perceived to penalize schools whose students pursue non-college pathways
 description: State accountability systems that rank schools on FAFSA completion are perceived to penalize schools whose students pursue non-college pathways
 id: fafsa-ranking-penalizes-noncollege-pathways
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

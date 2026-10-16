@@ -3,7 +3,7 @@ type: claim
 title: Academic chatbot outreach increased the likelihood students earned an A or B by four percentage points across two large online undergraduate courses
 description: Academic chatbot outreach increased the likelihood students earned an A or B by four percentage points across two large online undergraduate courses
 id: chatbot-outreach-increases-ab-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

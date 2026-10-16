@@ -3,7 +3,7 @@ type: strategy
 id: showdown-trade-a-problem-class-readers
 title: Use structured CL techniques such as Showdown and Trade-A-Problem when the whole class reads the same book
 description: "For class reader schemes in which \"the entire class reads the same book\", the article recommends structured techniques: Showdown, where students in groups of four each write answers to a teacher question independently..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

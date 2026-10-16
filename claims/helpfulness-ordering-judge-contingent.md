@@ -3,7 +3,7 @@ type: claim
 title: The ConvTutor–PedTutor helpfulness ordering is judge-contingent, reversing between the Opus and Sol judges on two of three tutor bases
 description: The ConvTutor–PedTutor helpfulness ordering is judge-contingent, reversing between the Opus and Sol judges on two of three tutor bases
 id: helpfulness-ordering-judge-contingent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

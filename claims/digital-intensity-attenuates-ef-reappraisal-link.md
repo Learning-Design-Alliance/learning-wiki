@@ -3,7 +3,7 @@ type: claim
 title: Digital use intensity attenuates the positive EF–reappraisal association, more pronouncedly on the EF→ER pathway than the reverse
 description: Digital use intensity attenuates the positive EF–reappraisal association, more pronouncedly on the EF→ER pathway than the reverse
 id: digital-intensity-attenuates-ef-reappraisal-link
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

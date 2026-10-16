@@ -3,7 +3,7 @@ type: claim
 title: Targeted school-based interventions for Grades 7–12 students with or at risk of academic difficulties have positive, statistically significant short-run effects on standardised reading and maths tests (ES = 0.22)
 description: Targeted school-based interventions for Grades 7–12 students with or at risk of academic difficulties have positive, statistically significant short-run effects on standardised reading and maths tests (ES = 0.22)
 id: targeted-secondary-interventions-positive-short-run-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

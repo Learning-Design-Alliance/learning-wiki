@@ -4,7 +4,7 @@ id: arts-for-learning-a4l-lessons-project
 title: Arts for Learning (A4L) Lessons Project
 description: A Young Audiences, Inc.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

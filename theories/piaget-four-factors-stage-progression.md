@@ -2,7 +2,7 @@
 type: theory
 title: "Four interrelated factors drive progression between developmental stages: maturation, experience, social interaction, and equilibration"
 description: The handbook identifies the mechanism Piaget proposes for moving from one stage to the next.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

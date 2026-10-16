@@ -4,7 +4,7 @@ id: teacher-student-data-link
 title: Teacher-Student Data Link
 description: "An implementation initiative contracted by the Bill & Melinda Gates Foundation and conducted by Mathematica to help states develop best practices for linking student and teacher data to improve educational outcomes."
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

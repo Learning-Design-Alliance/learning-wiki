@@ -3,7 +3,7 @@ type: design
 id: writing-in-reading-four-aspects-pattern
 title: Writing-integrated reading lesson pattern across teaching objectives, content, organization and assessment
 description: The article specifies that conducting writing instruction under the hypothesis requires adjustments “in our teaching objectives, teaching content, teaching organization and evaluation mechanism”.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

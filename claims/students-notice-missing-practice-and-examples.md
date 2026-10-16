@@ -3,7 +3,7 @@ type: claim
 title: "Students notice the absence of practice and examples: attitude items about those events are rated lower when the events are missing"
 description: "Students notice the absence of practice and examples: attitude items about those events are rated lower when the events are missing"
 id: students-notice-missing-practice-and-examples
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

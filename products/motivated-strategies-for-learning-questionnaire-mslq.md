@@ -4,7 +4,7 @@ id: motivated-strategies-for-learning-questionnaire-mslq
 title: Motivated Strategies for Learning Questionnaire (MSLQ)
 description: "The MSLQ is Pintrich and colleagues' self-report assessment of students' motivation and learning-strategy use, comprising motivation and self-regulated-learning scales for college and high-school learners."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-15

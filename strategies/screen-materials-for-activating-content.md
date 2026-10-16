@@ -3,7 +3,7 @@ type: strategy
 id: screen-materials-for-activating-content
 title: Screen lessons, texts, activities, and videos in advance to ensure they are not activating for students and families
 description: "Before using materials, the brief instructs educators to \"ensure that they are not activating for students and their families.\" Teachers should check that all content is developmentally appropriate and free of aggress..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

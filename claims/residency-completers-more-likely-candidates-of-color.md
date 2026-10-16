@@ -3,7 +3,7 @@ type: claim
 title: California residency program completers are more likely to identify as candidates of color than completers of other preparation pathways
 description: California residency program completers are more likely to identify as candidates of color than completers of other preparation pathways
 id: residency-completers-more-likely-candidates-of-color
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: In SWE-Chat, traits where developers give the agent a clear role correlate positively with session success while evidence-based oversight traits correlate negatively
 description: In SWE-Chat, traits where developers give the agent a clear role correlate positively with session success while evidence-based oversight traits correlate negatively
 id: swe-chat-clear-role-positive-evidence-oversight-negative
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

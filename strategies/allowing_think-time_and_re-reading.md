@@ -86,7 +86,7 @@ Extended wait-time after questions shifts classroom discourse from rapid recall 
 - **Wait-time in science discourse** — Rowe's classic classroom studies trained teachers to hold 3-second pauses after questions and after student answers, producing longer student utterances and more student-initiated questions.
 - **Repeated reading interventions** — Reading fluency programs in which a learner re-reads a short passage aloud several times until reaching a criterion rate, with feedback each pass.
 - **UDL-aligned course design** — CAST's UDL Guidelines list "vary the demands and time allowed" as a design feature; instructors post recordings and transcripts so learners can re-watch and re-read at their own pace ([CAST UDL Guidelines](https://udlguidelines.cast.org)).
-- **Think-Pair-Share** — a standard active-learning routine: 30–60 seconds of silent thinking, brief pair discussion, then whole-class sharing; the pair step converts private think-time into a low-stakes rehearsal.
+- **[Think-Pair-Share](../patterns/think-pair-share.md)** — a standard active-learning routine: 30–60 seconds of silent thinking, brief pair discussion, then whole-class sharing; the pair step converts private think-time into a low-stakes rehearsal.
 - **Extended-time testing accommodations** — most university disability services grant 1.5× time for documented processing-speed or ADHD-related needs.
 - **Purposeful re-reading in reading instruction** — a second read of a science text with the task of marking claims vs. evidence, converting repetition into analysis.
 

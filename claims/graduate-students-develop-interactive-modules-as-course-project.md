@@ -3,7 +3,7 @@ type: claim
 title: Graduate students can effectively develop interactive educational online software modules as a curriculum component of an advanced science course
 description: Graduate students can effectively develop interactive educational online software modules as a curriculum component of an advanced science course
 id: graduate-students-develop-interactive-modules-as-course-project
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

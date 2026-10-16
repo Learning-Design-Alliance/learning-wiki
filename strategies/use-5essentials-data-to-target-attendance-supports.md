@@ -3,7 +3,7 @@ type: strategy
 id: use-5essentials-data-to-target-attendance-supports
 title: "Use 5Essentials survey data to identify where to improve students' school experiences and teachers' relationships with parents to support attendance"
 description: "The brief recommends that schools use their 5Essentials survey data to understand where they could better support students' experiences in school and teachers' relationships with parents, working in collaboration with..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

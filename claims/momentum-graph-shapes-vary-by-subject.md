@@ -3,7 +3,7 @@ type: claim
 title: Student Momentum graph shapes differ markedly by subject area, with math courses predominantly convex slope and political science courses predominantly steep wall
 description: Student Momentum graph shapes differ markedly by subject area, with math courses predominantly convex slope and political science courses predominantly steep wall
 id: momentum-graph-shapes-vary-by-subject
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

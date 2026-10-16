@@ -4,7 +4,7 @@ id: rmpw
 title: RMPW
 description: "The RMPW software program, accompanied by online Stata code from Guanglei Hong et al., implements parametric and nonparametric RMPW procedures to support users' analytic decision making."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

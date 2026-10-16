@@ -3,7 +3,7 @@ type: strategy
 id: bds-professional-development-seminars
 title: Professional development and schoolwide seminars supporting the ethics curriculum
 description: "The Institute for Global Ethics offers \"one-day or two-day on-site professional development workshops conducted by a Global Ethics staff trainer,\" plus on-site seminars and assemblies for students, using \"lectures, gr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

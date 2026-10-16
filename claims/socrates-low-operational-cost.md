@@ -3,7 +3,7 @@ type: claim
 title: Running the Socrates playground and grader incurred low cost, with even gpt-4o consuming only $169.90
 description: Running the Socrates playground and grader incurred low cost, with even gpt-4o consuming only $169.90
 id: socrates-low-operational-cost
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

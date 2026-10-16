@@ -3,7 +3,7 @@ type: claim
 title: "Estimating associations between student and teacher practice outcomes can examine the extent to which RCT data support a study's conceptual model"
 description: "Estimating associations between student and teacher practice outcomes can examine the extent to which RCT data support a study's conceptual model"
 id: mediator-outcome-associations-test-conceptual-model
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

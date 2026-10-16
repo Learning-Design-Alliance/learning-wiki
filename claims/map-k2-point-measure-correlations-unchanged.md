@@ -3,7 +3,7 @@ type: claim
 title: Point measure correlations were unchanged by the difficulty adjustment because the new person ability estimates are linear transformations of the old ones
 description: Point measure correlations were unchanged by the difficulty adjustment because the new person ability estimates are linear transformations of the old ones
 id: map-k2-point-measure-correlations-unchanged
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

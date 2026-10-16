@@ -3,7 +3,7 @@ type: claim
 title: Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature
 description: Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature
 id: explicit-l2-grammar-instruction-superior-to-implicit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

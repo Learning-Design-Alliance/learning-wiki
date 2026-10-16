@@ -3,7 +3,7 @@ type: claim
 title: "Waterford Early Reading Level One™ shows no discernible effects on preschool children's oral language"
 description: "Waterford Early Reading Level One™ shows no discernible effects on preschool children's oral language"
 id: waterford-level-one-no-discernible-oral-language-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

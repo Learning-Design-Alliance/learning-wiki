@@ -3,7 +3,7 @@ type: strategy
 id: elementary-on-track-indicator-support-systems-strategy
 title: Integrate attendance and GPA on-track indicators with qualitative data into elementary systems of student support
 description: The report recommends that elementary and middle school practitioners integrate attendance and GPA indicators into their existing systems of student support to more effectively identify and track student interventions.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

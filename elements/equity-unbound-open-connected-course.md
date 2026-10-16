@@ -3,7 +3,7 @@ type: element
 id: equity-unbound-open-connected-course
 title: "Equity Unbound: an open connected course explicitly designed with social justice principles"
 description: "Equity Unbound is described as \"an emergent, collaborative curriculum which aims to create equity-focused, open, connected, intercultural learning experiences across classes, countries and contexts\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Multifunctionist students use a broader range of function types than Simplist and Repetitivist students
 description: Multifunctionist students use a broader range of function types than Simplist and Repetitivist students
 id: multifunctionist-broader-function-range
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

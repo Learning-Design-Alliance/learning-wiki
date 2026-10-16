@@ -4,7 +4,7 @@ id: coherent-instructional-system-model-reading-science
 aliases: [coherent-instructional-system-reading-science-model]
 title: Adapt a practical model of a coherent instructional system for reading and science improvement
 description: Based on a case study from a U.S.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Core self-evaluations partially mediate the relationship between career adapt-abilities and AI anxiety
 description: Core self-evaluations partially mediate the relationship between career adapt-abilities and AI anxiety
 id: core-self-evaluations-partially-mediate-adaptabilities-ai-anxiety
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

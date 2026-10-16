@@ -3,7 +3,7 @@ type: claim
 title: Most students reported improved output-evaluation competence after comparing their own text analysis with LLM-generated analyses
 description: Most students reported improved output-evaluation competence after comparing their own text analysis with LLM-generated analyses
 id: output-evaluation-competence-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

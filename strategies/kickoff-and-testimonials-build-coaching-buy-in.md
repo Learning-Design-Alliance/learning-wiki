@@ -3,7 +3,7 @@ type: strategy
 id: kickoff-and-testimonials-build-coaching-buy-in
 title: "Hold a kick-off event aligning coaching with school and district goals, and leverage early volunteers' testimonials to build teacher buy-in"
 description: "This strategy addresses the first administrator action in the report: building teacher buy-in for coaching."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

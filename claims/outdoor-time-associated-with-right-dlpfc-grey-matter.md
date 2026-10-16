@@ -3,7 +3,7 @@ type: claim
 title: Time spent outdoors in the 24 hours before scanning is positively associated with grey matter volume in the right dorsolateral prefrontal cortex
 description: Time spent outdoors in the 24 hours before scanning is positively associated with grey matter volume in the right dorsolateral prefrontal cortex
 id: outdoor-time-associated-with-right-dlpfc-grey-matter
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

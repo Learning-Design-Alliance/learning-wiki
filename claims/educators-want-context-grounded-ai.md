@@ -3,7 +3,7 @@ type: claim
 title: "Educators want AI systems grounded in their district's specific values, curricula, and student populations rather than generic tools"
 description: "Educators want AI systems grounded in their district's specific values, curricula, and student populations rather than generic tools"
 id: educators-want-context-grounded-ai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

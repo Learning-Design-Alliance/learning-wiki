@@ -2,7 +2,7 @@
 type: theory
 title: "Co-regulation: supportive adult-youth processes that enable self-regulation development"
 description: Co-regulation is the supportive process between adults and youth through which self-regulation develops.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

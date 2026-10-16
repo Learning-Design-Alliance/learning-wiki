@@ -3,7 +3,7 @@ type: claim
 title: Almost all states adopted new educator evaluation laws or regulations between 2009 and 2014, and 60 percent of districts reported full or partial implementation in 2013-14
 description: Almost all states adopted new educator evaluation laws or regulations between 2009 and 2014, and 60 percent of districts reported full or partial implementation in 2013-14
 id: state-educator-evaluation-laws-district-implementation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Observers' perceptions of a classmate's GenAI use are negatively associated with interpersonal trust among university students"
 description: "Observers' perceptions of a classmate's GenAI use are negatively associated with interpersonal trust among university students"
 id: genai-use-negatively-associated-interpersonal-trust
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

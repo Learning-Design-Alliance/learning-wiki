@@ -3,7 +3,7 @@ type: strategy
 id: lea-four-course-lre-strategy
 title: "Successful districts pursue LRE through four coordinated courses of action: explicit policy decisions, new less restrictive alternatives, improved placement decisions, and attitude change"
 description: The report identifies a reusable district-level design pattern for achieving LRE.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: "In one experiment, refutational text (misbelief stated first, then fact) enhanced free recall relative to traditional text and free and cued recall relative to inverted refutational text, but its reported 14-day recognition advantage was over inverted refutational text only"
 description: "In one experiment, refutational text (misbelief stated first, then fact) enhanced free recall relative to traditional text and free and cued recall relative to inverted refutational text, but its reported 14-day recognition advantage was over inverted refutational text only"
 id: refutational-text-order-enhances-retention
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

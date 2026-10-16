@@ -3,7 +3,7 @@ type: element
 id: collegiate-recovery-communities-element
 title: "Collegiate recovery communities (CRCs): campus‐embedded recovery support services within larger universities"
 description: "CRCs \"provide recovery oriented support services (e.g., self‐help groups, counseling sessions, sober dorms) for students, but are embedded within larger college or university settings.\" They operate on at least 75 col..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ id: gator-mentoring
 title: Gator Mentoring
 description: Gator Mentoring is a school-wide, full-year initiative that pairs at-risk middle-school students with adult staff mentors for bi-weekly support and guidance.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

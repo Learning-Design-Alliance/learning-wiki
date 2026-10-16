@@ -3,7 +3,7 @@ type: claim
 title: Embedded-item passages may yield improved student reading comprehension scores and a more valid measurement approach
 description: Embedded-item passages may yield improved student reading comprehension scores and a more valid measurement approach
 id: embedded-items-improved-scores-validity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

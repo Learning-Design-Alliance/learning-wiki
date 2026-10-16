@@ -3,7 +3,7 @@ type: claim
 title: VLMs achieve higher accuracy on non-erroneous than erroneous student math responses even when controlling for the math problem
 description: VLMs achieve higher accuracy on non-erroneous than erroneous student math responses even when controlling for the math problem
 id: vlms-underperform-on-erroneous-student-math-responses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

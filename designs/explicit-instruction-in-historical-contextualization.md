@@ -3,7 +3,7 @@ type: design
 id: explicit-instruction-in-historical-contextualization
 title: Explicit Instruction in Historical Contextualization
 description: A two-part unit design that first gives students a reason to engage with historical background knowledge through discussion-based case studies and source-sorting, then supports the procedural writing skill of placing and connecting that background to evidence through modeled text analysis and targeted language practice.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

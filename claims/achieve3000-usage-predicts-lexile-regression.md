@@ -3,7 +3,7 @@ type: claim
 title: Achieve3000 usage predicted about 3.5 percent of current Lexile scores after controlling for pre-test Lexile, motivation, and age
 description: Achieve3000 usage predicted about 3.5 percent of current Lexile scores after controlling for pre-test Lexile, motivation, and age
 id: achieve3000-usage-predicts-lexile-regression
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

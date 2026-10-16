@@ -4,7 +4,7 @@ id: colorado-learning-attitudes-about-science-survey
 title: Colorado Learning Attitudes about Science Survey
 description: A standardized, Likert-scale survey developed to measure students’ beliefs and attitudes about learning science by comparing responses with expert-response patterns.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "AI-generated text can pass as human-authored in up to 80% of cases, making reliable differentiation a significant challenge"
 description: "AI-generated text can pass as human-authored in up to 80% of cases, making reliable differentiation a significant challenge"
 id: ai-text-passes-as-human-up-to-80-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

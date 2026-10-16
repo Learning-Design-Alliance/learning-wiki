@@ -3,7 +3,7 @@ type: claim
 title: At-risk students reported general satisfaction with the relational feedback intervention, and most respondents preferred it more frequently than twice per semester
 description: At-risk students reported general satisfaction with the relational feedback intervention, and most respondents preferred it more frequently than twice per semester
 id: at-risk-students-satisfied-prefer-frequent-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

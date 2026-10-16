@@ -3,7 +3,7 @@ type: element
 id: nwea-automated-item-generation-implementation
 title: NWEA implementation of automated item generation (AIG) alongside traditional item-development approaches
 description: "This element is an NWEA presentation, dated September 2020, that summarizes the organization's work implementing automated item generation (AIG)."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

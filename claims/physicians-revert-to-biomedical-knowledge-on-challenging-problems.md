@@ -3,7 +3,7 @@ type: claim
 title: Physicians revert to basic biomedical knowledge when faced with challenging clinical problems
 description: Physicians revert to basic biomedical knowledge when faced with challenging clinical problems
 id: physicians-revert-to-biomedical-knowledge-on-challenging-problems
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

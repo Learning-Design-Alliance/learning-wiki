@@ -2,7 +2,7 @@
 type: theory
 title: Market-competition theory of voucher systemic effects, modified by financial hold-harmless design
 description: "The article describes the theory behind voucher programs: parental choice should improve student learning both for users and for students remaining in traditional public schools, because losing students and their reve..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

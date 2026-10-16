@@ -3,7 +3,7 @@ type: claim
 title: Students and teachers reported more positive school climate perceptions in 2020/21 during hybrid and remote learning than in 2018/19 and 2021/22
 description: Students and teachers reported more positive school climate perceptions in 2020/21 during hybrid and remote learning than in 2018/19 and 2021/22
 id: pandemic-year-climate-positive-bump-pennsylvania
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

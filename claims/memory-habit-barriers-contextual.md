@@ -3,7 +3,7 @@ type: claim
 title: Habit change and memory/attention difficulties were conditional barriers for some teachers, contrary to expectations
 description: Habit change and memory/attention difficulties were conditional barriers for some teachers, contrary to expectations
 id: memory-habit-barriers-contextual
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

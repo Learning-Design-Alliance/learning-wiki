@@ -3,7 +3,7 @@ type: claim
 title: "30% of surveyed K-8 teachers planned to adopt transformative teaching practices after pandemic distance teaching"
 description: "30% of surveyed K-8 teachers planned to adopt transformative teaching practices after pandemic distance teaching"
 id: thirty-percent-teachers-transformative-practices-plans
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

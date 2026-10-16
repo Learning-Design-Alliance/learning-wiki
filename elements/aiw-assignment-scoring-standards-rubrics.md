@@ -3,7 +3,7 @@ type: element
 id: aiw-assignment-scoring-standards-rubrics
 title: Assignment-scoring standards and rubrics for authentic intellectual work in writing and mathematics
 description: A set of six standards (three for writing, three for mathematics) translating the authentic intellectual work criteria into assessable assignment characteristics, each translated into scoring rubrics (Figure 1 and Fig...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

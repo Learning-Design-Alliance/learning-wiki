@@ -3,7 +3,7 @@ type: claim
 title: The intensive case management offered by PROMISE might be difficult to sustain in the current system
 description: The intensive case management offered by PROMISE might be difficult to sustain in the current system
 id: promise-intensive-case-management-sustainability-uncertain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

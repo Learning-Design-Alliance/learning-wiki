@@ -4,7 +4,7 @@ title: "In the average study district, differences in teacher effectiveness betw
 description: "In the average study district, differences in teacher effectiveness between high- and low-income students' teachers are small"
 id: small-average-effectiveness-differences
 aliases: [small-average-effectiveness-differences-by-income]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

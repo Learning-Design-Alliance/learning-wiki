@@ -4,7 +4,7 @@ id: tefa-t
 title: TEFA-T
 description: A teaching-factory instructional framework developed for automotive vocational education that integrates vehicle troubleshooting with a nine-step work-process syntax and supporting instructional materials.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

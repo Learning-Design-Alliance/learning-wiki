@@ -3,7 +3,7 @@ type: claim
 title: Descriptive time-to-fix patterns favored pragmatic messages, but statistical tests found no significant effects
 description: Descriptive time-to-fix patterns favored pragmatic messages, but statistical tests found no significant effects
 id: time-to-fix-descriptive-favor-llm-not-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

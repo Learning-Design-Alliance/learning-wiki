@@ -3,7 +3,7 @@ type: claim
 title: Leadership practices, teacher competence, and innovation culture collectively determine the success or failure of AI integration initiatives
 description: Leadership practices, teacher competence, and innovation culture collectively determine the success or failure of AI integration initiatives
 id: three-drivers-determine-ai-integration-success
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

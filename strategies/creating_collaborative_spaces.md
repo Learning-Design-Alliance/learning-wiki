@@ -68,7 +68,7 @@ Collaboration improves achievement when it is structured — with positive inter
 ## Examples
 - **SCALE-UP (Student-Centered Active Learning Environment with Upside-down Pedagogies)** — round tables of nine students in purpose-built rooms; institutions adopting it report reduced failure rates in introductory physics (https://www.scaleup.ncsu.edu).
 - **PBLNetwork / Buck Institute PBL works** — project-based learning classrooms where teams share a driving question over weeks, with roles and accountability structures built in (https://www.pblworks.org).
-- **Peer Instruction (Eric Mazur, Harvard)** — clicker questions followed by mandatory peer discussion before revoting, converting any lecture hall into a collaborative space.
+- **[Peer Instruction](../patterns/peer-instruction.md) (Eric Mazur, Harvard)** — clicker questions followed by mandatory peer discussion before revoting, converting any lecture hall into a collaborative space.
 
 ## Key Sources
 - Springer, L., Stanne, M. E., & Donovan, S. S. (1999). Effects of small-group learning on undergraduates in science, mathematics, engineering, and technology: A meta-analysis. *Review of Educational Research, 69*(1), 21–51. [doi:10.3102/00346543069001021](https://doi.org/10.3102/00346543069001021)

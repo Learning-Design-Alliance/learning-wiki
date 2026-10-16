@@ -3,7 +3,7 @@ type: claim
 title: Collaboration with colleagues around instruction has consistently positive relationships with math and science instructional practices
 description: Collaboration with colleagues around instruction has consistently positive relationships with math and science instructional practices
 id: colleague-collaboration-consistently-positive-practices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

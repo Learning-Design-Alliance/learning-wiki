@@ -3,7 +3,7 @@ type: claim
 title: "The indirect association through social motivation is model-dependent: negative in the unconditional model but positive and attenuating with higher perceived AI literacy in the moderated model"
 description: "The indirect association through social motivation is model-dependent: negative in the unconditional model but positive and attenuating with higher perceived AI literacy in the moderated model"
 id: social-motivation-model-dependent-indirect-pathway
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

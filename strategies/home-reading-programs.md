@@ -64,7 +64,7 @@ The core mechanism is volume of successful reading practice: programs that ensur
 
 ## Examples
 - **Reading Is Fundamental (RIF)** — book distribution and family engagement programs ([https://www.rif.org](https://www.rif.org))
-- **Dialogic reading (Whitehurst's program)** — caregiver training in interactive shared-reading techniques with documented vocabulary and language gains in preschoolers
+- **[Dialogic reading](dialogic_reading.md) (Whitehurst's program)** — caregiver training in interactive shared-reading techniques with documented vocabulary and language gains in preschoolers
 - **Epic!** — digital leveled library with read-to-me audio support for home use ([https://www.getepic.com](https://www.getepic.com))
 
 ## Key Sources

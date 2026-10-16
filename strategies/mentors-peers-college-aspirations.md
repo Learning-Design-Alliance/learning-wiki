@@ -3,7 +3,7 @@ type: strategy
 id: mentors-peers-college-aspirations
 title: Surround students with college-educated mentors and college-going peers to build college aspirations
 description: "Recommendation 3 describes how high schools can help students build college-going networks by \"linking students to college-educated mentors, encouraging students to form academically oriented peer groups, and allowing..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

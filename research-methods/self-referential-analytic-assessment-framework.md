@@ -3,7 +3,7 @@ type: research-method
 id: self-referential-analytic-assessment-framework
 title: Self-referential analytic assessment framework
 description: An evaluation paradigm for analytic essay scoring that shifts from normative (inter-learner ranking) to within-learner interpretation of analytic profiles.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

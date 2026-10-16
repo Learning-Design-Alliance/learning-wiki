@@ -3,7 +3,7 @@ type: claim
 title: Authentic video outperformed virtual simulation on the higher-order analysis and support dimensions of observation assignments
 description: Authentic video outperformed virtual simulation on the higher-order analysis and support dimensions of observation assignments
 id: av-advantage-analysis-support-dimensions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

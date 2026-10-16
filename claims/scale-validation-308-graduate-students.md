@@ -3,7 +3,7 @@ type: claim
 title: The five-dimension structure and scale were validated with 308 graduate students, showing acceptable reliability and validity
 description: The five-dimension structure and scale were validated with 308 graduate students, showing acceptable reliability and validity
 id: scale-validation-308-graduate-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

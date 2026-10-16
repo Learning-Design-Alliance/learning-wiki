@@ -3,7 +3,7 @@ type: strategy
 id: empathy-exercise-reflection-and-forward-planning
 title: Close the empathy exercise by reflecting on surprises, systemic oppression, and short- and long-term design goals
 description: Step 4 asks teachers to return to their notes and reflect on what stood out and surprised them, what the student identified as computer science needs, inconsistencies between interviews and observations, and how their...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

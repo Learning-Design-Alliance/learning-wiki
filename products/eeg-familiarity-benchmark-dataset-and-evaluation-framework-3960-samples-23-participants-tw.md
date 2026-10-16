@@ -4,7 +4,7 @@ id: eeg-familiarity-benchmark-dataset-and-evaluation-framework-3960-samples-23-p
 title: EEG familiarity benchmark dataset and evaluation framework (3960 samples, 23 participants, two validation protocols)
 description: A dataset and benchmarking framework released by Isuru Nanayakkara et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

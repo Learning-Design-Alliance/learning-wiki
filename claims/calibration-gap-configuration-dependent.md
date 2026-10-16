@@ -3,7 +3,7 @@ type: claim
 title: "Review-attributed evidence: user confidence in model answers exceeds model internal confidence, and explanation design narrows the gap"
 description: "Review-attributed evidence: user confidence in model answers exceeds model internal confidence, and explanation design narrows the gap"
 id: calibration-gap-configuration-dependent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

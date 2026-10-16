@@ -3,7 +3,7 @@ type: design
 id: plural-llm-assistance-arrangement-design-space
 title: Plural LLM assistance as a configurable arrangement of support around the user
 description: This framework treats LLM assistance as a design space defined by arrangement rather than only by model capability or response quality.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

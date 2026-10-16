@@ -4,7 +4,7 @@ id: ai-guilt-index
 title: AI Guilt Index
 description: "A four-item Likert-scale instrument developed by Diane Vassallo to measure university academic staff's guilt-related moral distress about using AI in academic practice."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

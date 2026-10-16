@@ -3,7 +3,7 @@ type: strategy
 id: fate-informed-mmla-design-strategy
 title: Design MMLA deployments with fair data representation, multilevel data access, cultivated transparency, and continuous measurable informed consent
 description: "Based on their findings, the authors recommend that future MMLA systems ensure \"accurate and comprehensive data representation to ensure visualization fairness\", provide \"different levels of data access to foster acco..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

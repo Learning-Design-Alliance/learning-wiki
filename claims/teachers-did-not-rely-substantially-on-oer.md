@@ -3,7 +3,7 @@ type: claim
 title: Most teacher-created lessons did not rely substantially on existing OER, with teachers preferring Google search over OER repositories
 description: Most teacher-created lessons did not rely substantially on existing OER, with teachers preferring Google search over OER repositories
 id: teachers-did-not-rely-substantially-on-oer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

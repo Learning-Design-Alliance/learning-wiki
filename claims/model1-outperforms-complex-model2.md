@@ -3,7 +3,7 @@ type: claim
 title: The single-head base model (Model 1) outperformed the more complex Model 2, suggesting overfitting in the larger architecture
 description: The single-head base model (Model 1) outperformed the more complex Model 2, suggesting overfitting in the larger architecture
 id: model1-outperforms-complex-model2
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

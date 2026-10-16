@@ -3,7 +3,7 @@ type: claim
 title: Massachusetts students overall perform above the national average on screening assessments, with a median national percentile of 58 at EOY and 66 percent growing at average or above-average rates
 description: Massachusetts students overall perform above the national average on screening assessments, with a median national percentile of 58 at EOY and 66 percent growing at average or above-average rates
 id: ma-above-national-average-literacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

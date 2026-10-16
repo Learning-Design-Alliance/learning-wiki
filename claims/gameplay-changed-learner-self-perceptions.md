@@ -3,7 +3,7 @@ type: claim
 title: "Gameplay changed students' perceptions of themselves as learners and their learning practice"
 description: "Gameplay changed students' perceptions of themselves as learners and their learning practice"
 id: gameplay-changed-learner-self-perceptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: Engagement inferred from log data must be treated with caution because digital traces reflect unevenly distributed social and material conditions
 description: Engagement inferred from log data must be treated with caution because digital traces reflect unevenly distributed social and material conditions
 id: log-data-engagement-inference-caution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

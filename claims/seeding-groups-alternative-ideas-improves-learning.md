@@ -3,7 +3,7 @@ type: claim
 title: Seeding student groups with alternative ideas improves learning more than randomly assigning students to groups
 description: Seeding student groups with alternative ideas improves learning more than randomly assigning students to groups
 id: seeding-groups-alternative-ideas-improves-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: In the scanned textbooks, statistics terms such as cluster and outlier are defined vaguely before any examples, and more formal criteria are never developed
 description: In the scanned textbooks, statistics terms such as cluster and outlier are defined vaguely before any examples, and more formal criteria are never developed
 id: vague-statistics-definitions-never-formalized
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Earlier and mid-career teachers report more positive AI perceptions than teachers with 21 or more years of experience, except in personal experiences
 description: Earlier and mid-career teachers report more positive AI perceptions than teachers with 21 or more years of experience, except in personal experiences
 id: professional-experience-ai-perception-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

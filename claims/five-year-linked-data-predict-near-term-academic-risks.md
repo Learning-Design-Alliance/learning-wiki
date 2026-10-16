@@ -3,7 +3,7 @@ type: claim
 title: The study uses five years of linked school and child welfare administrative data to predict near-term academic risks, with the two most recent years serving as outcome years
 description: The study uses five years of linked school and child welfare administrative data to predict near-term academic risks, with the two most recent years serving as outcome years
 id: five-year-linked-data-predict-near-term-academic-risks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

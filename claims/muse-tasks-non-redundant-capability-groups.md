@@ -3,7 +3,7 @@ type: claim
 title: MUSE tasks form coherent but non-redundant capability groups, with Jigsaw Puzzle a distinct compositional capability
 description: MUSE tasks form coherent but non-redundant capability groups, with Jigsaw Puzzle a distinct compositional capability
 id: muse-tasks-non-redundant-capability-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

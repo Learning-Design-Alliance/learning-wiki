@@ -3,7 +3,7 @@ type: claim
 title: FATE benchmarks rank Gemini 2.5 Flash highest among commercial AI tutors, with actionability weakest for all models
 description: FATE benchmarks rank Gemini 2.5 Flash highest among commercial AI tutors, with actionability weakest for all models
 id: fate-benchmark-commercial-ai-tutors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

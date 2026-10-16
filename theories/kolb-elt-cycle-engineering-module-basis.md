@@ -2,7 +2,7 @@
 type: theory
 title: "Kolb's experiential learning cycle as the pedagogical basis for an engineering learning module"
 description: "The article adopts Kolb's experiential learning theory (ELT) as the fundamental pedagogy of a Heat Transfer learning module."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

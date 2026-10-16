@@ -3,7 +3,7 @@ type: claim
 title: American Indian/Alaska Native students showed higher disengagement under remote testing than in-school testing
 description: American Indian/Alaska Native students showed higher disengagement under remote testing than in-school testing
 id: american-indian-alaska-native-higher-disengagement-remote
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

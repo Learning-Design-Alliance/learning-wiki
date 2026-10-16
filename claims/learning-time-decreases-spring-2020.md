@@ -3,7 +3,7 @@ type: claim
 title: Between 70 and 80 percent of schools reported decreased learning time in spring 2020, with one in five reporting significant decreases in ELA and math
 description: Between 70 and 80 percent of schools reported decreased learning time in spring 2020, with one in five reporting significant decreases in ELA and math
 id: learning-time-decreases-spring-2020
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

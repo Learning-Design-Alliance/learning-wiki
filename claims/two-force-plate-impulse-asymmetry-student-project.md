@@ -3,7 +3,7 @@ type: claim
 title: Two-force-plate recording revealed individual left-right impulse asymmetries in student jumps while total takeoff and landing impulses remained comparable
 description: Two-force-plate recording revealed individual left-right impulse asymmetries in student jumps while total takeoff and landing impulses remained comparable
 id: two-force-plate-impulse-asymmetry-student-project
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

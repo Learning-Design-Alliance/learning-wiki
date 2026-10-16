@@ -4,7 +4,7 @@ id: me-reporting-template
 title: "M&E Reporting Template"
 description: A Mathematica reporting template that guides organizations, research partners, and funders in producing concise, accessible summaries of study approaches, findings, and next steps.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

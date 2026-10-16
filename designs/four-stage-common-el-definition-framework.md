@@ -3,7 +3,7 @@ type: design
 id: four-stage-common-el-definition-framework
 title: "Four-stage framework for a common English learner definition: identify, classify, establish an English-proficient standard, and reclassify"
 description: "The paper organizes the entire EL definitional process around four stages adapted from a National Research Council panel report: \"1) identify a student as a potential English learner; 2) classify (confirm/disconfirm)..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

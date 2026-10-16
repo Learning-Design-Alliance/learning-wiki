@@ -3,7 +3,7 @@ type: element
 id: imbedded-aids-textbooks
 title: "Imbedded Aids: textbook redesign placing teacher-like assistance in the text"
 description: "A proposed major modification summarized as \"to put a teacher in every textbook who is willing and able to provide assistance as the need arises\", achieved through textbook redesign containing \"'Imbedded Aids' (Manzo,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

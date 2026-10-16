@@ -3,7 +3,7 @@ type: claim
 title: Publications from NSF EXP exploratory projects showed more novel topic pairings than a random sample of publications from the same database
 description: Publications from NSF EXP exploratory projects showed more novel topic pairings than a random sample of publications from the same database
 id: nsf-exp-publications-more-novel-topic-pairings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

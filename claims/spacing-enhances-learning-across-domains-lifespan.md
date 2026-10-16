@@ -3,7 +3,7 @@ type: claim
 title: Spacing enhances learning across various domains and across the lifespan, with emphasis on applied educational settings
 description: Spacing enhances learning across various domains and across the lifespan, with emphasis on applied educational settings
 id: spacing-enhances-learning-across-domains-lifespan
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
@@ -45,3 +45,4 @@ Narrative review synthesis of spacing research. The review states it focuses on 
 
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — the general claim this finding bears on, with the studies behind it
 - [Retrieval practice enhances learning across domains and the lifespan in applied educational settings](retrieval-practice-enhances-learning-applied-settings.md) — related
+- [Research findings show that various types of learning benefit from spaced study, with demonstrations of these benefits in educational settings](spacing-benefits-diverse-learning-educational-settings.md) — possibly the same claim (merge candidate)

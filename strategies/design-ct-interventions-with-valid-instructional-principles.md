@@ -3,7 +3,7 @@ type: strategy
 id: design-ct-interventions-with-valid-instructional-principles
 title: Design CT interventions using empirically valid instructional design principles and report student and teacher characteristics
 description: "The review argues that inconsistent intervention impacts stem from inadequate instructional design: most implicitly-embedded interventions \"did not take into consideration all important design principles suitable for..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

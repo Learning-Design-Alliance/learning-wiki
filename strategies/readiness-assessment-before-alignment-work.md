@@ -3,7 +3,7 @@ type: strategy
 id: readiness-assessment-before-alignment-work
 title: Assess team readiness across leadership, facilitation, communication, shared understanding, and capacity before starting
 description: "Before beginning the guide's chapters, teams complete a readiness assessment evaluating \"your district's collective skills, knowledge, and support for alignment and coherence of whole-person initiatives.\" The assessme..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

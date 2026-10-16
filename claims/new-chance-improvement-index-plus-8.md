@@ -3,7 +3,7 @@ type: claim
 title: The average improvement index for New Chance on completing school is +8 percentile points
 description: The average improvement index for New Chance on completing school is +8 percentile points
 id: new-chance-improvement-index-plus-8
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

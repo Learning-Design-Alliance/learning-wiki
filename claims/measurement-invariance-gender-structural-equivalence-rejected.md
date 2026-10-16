@@ -3,7 +3,7 @@ type: claim
 title: Measurement invariance across gender is supported, but full structural equivalence is rejected, with differences localized to transformational-leadership paths
 description: Measurement invariance across gender is supported, but full structural equivalence is rejected, with differences localized to transformational-leadership paths
 id: measurement-invariance-gender-structural-equivalence-rejected
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

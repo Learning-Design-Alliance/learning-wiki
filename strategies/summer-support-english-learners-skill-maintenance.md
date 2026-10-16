@@ -3,14 +3,14 @@ type: strategy
 id: summer-support-english-learners-skill-maintenance
 title: Provide summer support to help English Learners maintain and develop academic skills
 description: "The article's forward-looking recommendation drawn from its seasonal findings: because ELs lost more than never-ELs during summers in both math and reading, the authors conclude that \"summer support is required to hel..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 sources:
   - id: johnson-2022
     resource: "https://doi.org/10.1177/08959048211049419"
-    title: "Johnson, A. (2022). Achievement and growth for English Learners. Educational Policy. https://doi.org/10.1177/08959048211049419"
+    title: "Johnson, A. (2022). Achievement and growth for English Learners. *Educational Policy, 37*(4), 1044–1069. https://doi.org/10.1177/08959048211049419"
     author: Johnson, A
 ---
 
@@ -52,4 +52,4 @@ The article's forward-looking recommendation drawn from its seasonal findings: b
 -
 
 ## Key Sources
-- Johnson, A. (2022). Achievement and growth for English Learners. Educational Policy. https://doi.org/10.1177/08959048211049419
+- Johnson, A. (2022). Achievement and growth for English Learners. *Educational Policy, 37*(4), 1044–1069. https://doi.org/10.1177/08959048211049419

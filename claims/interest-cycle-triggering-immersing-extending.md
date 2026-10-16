@@ -3,7 +3,7 @@ type: claim
 title: "IDC's interest cycle requires educators to treat interests as launching points for deeper immersion, not static topics"
 description: "IDC's interest cycle requires educators to treat interests as launching points for deeper immersion, not static topics"
 id: interest-cycle-triggering-immersing-extending
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

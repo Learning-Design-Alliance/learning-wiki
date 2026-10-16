@@ -68,7 +68,7 @@ Phoneme-grapheme mapping operationalizes systematic phonics at the word level: b
 - Structured literacy programs such as [Wilson Reading System](https://www.wilsonlanguage.com) and [SPIRE](https://www.schoolspecialty.com/spire) incorporate sound-box mapping routines within their explicit phonics sequences.
 
 ## Key Sources
-- Ehri, L. C., Nunes, S. R., Willows, D. M., & Schuster, B. V. (2001). Phonemic awareness instruction helps children learn to read: Evidence from the National Reading Panel's meta-analysis. *Reading Research Quarterly, 36*(3), 250–287. [doi:10.1598/RRQ.36.3.2](https://doi.org/10.1598/RRQ.36.3.2)
+- Ehri, L. C., Nunes, S. R., Willows, D. M., Schuster, B. V., Yaghoub-Zadeh, Z., & Shanahan, T. (2001). Phonemic awareness instruction helps children learn to read: Evidence from the National Reading Panel's meta-analysis. *Reading Research Quarterly, 36*(3), 250–287. [doi:10.1598/RRQ.36.3.2](https://doi.org/10.1598/RRQ.36.3.2)
 - Graham, S., & Santangelo, T. (2014). Does spelling instruction make students better spellers, readers, and writers? A meta-analytic review. *Reading and Writing, 27*(9), 1703–1743. [doi:10.1007/s11145-014-9517-0](https://doi.org/10.1007/s11145-014-9517-0)
 - Ehri, L. C. (2014). Orthographic mapping in the acquisition of sight word reading, spelling memory, and vocabulary learning. In *Theoretical Models and Processes of Reading* (6th ed., pp. 502–532). International Literacy Association. [doi:10.1080/10888438.2013.819356](https://doi.org/10.1080/10888438.2013.819356)
 - Joshi, R. M., Treiman, R., Carreker, S., & Moats, L. C. (2008). How words cast their spell: Spelling is an integral part of learning the language, not a matter of memorization. *American Educator, 32*(4), 6–16, 42–43.

@@ -3,7 +3,7 @@ type: claim
 title: "In 2022–23, 81% of California LEAs offered TK at all elementary sites and half offered early-admittance TK ahead of the legislated eligibility schedule"
 description: "In 2022–23, 81% of California LEAs offered TK at all elementary sites and half offered early-admittance TK ahead of the legislated eligibility schedule"
 id: california-leas-tk-all-sites-early-admittance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

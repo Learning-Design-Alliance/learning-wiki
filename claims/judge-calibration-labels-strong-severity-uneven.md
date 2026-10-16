@@ -3,7 +3,7 @@ type: claim
 title: "The LLM judge agrees with human annotators at 87.7% (κ = 0.842) on consensus pairs, but severity-rating agreement is uneven and medium-tier boundaries are uncertain"
 description: "The LLM judge agrees with human annotators at 87.7% (κ = 0.842) on consensus pairs, but severity-rating agreement is uneven and medium-tier boundaries are uncertain"
 id: judge-calibration-labels-strong-severity-uneven
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

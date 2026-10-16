@@ -4,7 +4,7 @@ id: ogap-math
 title: OGAP Math
 description: OGAP Math is a professional learning system that supports K–8 mathematics teachers in using research-based learning progressions, student-work analysis, item banks, and frameworks to guide instruction.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

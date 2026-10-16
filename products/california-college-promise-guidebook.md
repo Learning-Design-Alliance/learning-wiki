@@ -4,7 +4,7 @@ id: california-college-promise-guidebook
 title: California College Promise Guidebook
 description: A California College Promise planning guidebook and toolkit developed by the California College Promise Project with worksheets, cost-estimation tools, and example implementation artifacts for college leaders and partners.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

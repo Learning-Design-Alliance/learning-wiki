@@ -3,7 +3,7 @@ type: strategy
 id: facilitation-protocol-probing-questions
 title: Facilitate sessions with a welcoming environment, probing questions, and structured pauses
 description: "The facilitation protocol assigns the facilitator the 'primary responsibility..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

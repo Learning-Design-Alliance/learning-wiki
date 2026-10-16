@@ -2,7 +2,7 @@
 type: theory
 title: "Smith et al.'s value-based and cognate-based categorization of privacy definitions as an analytical lens for LA"
 description: "The article adopts Smith et al.'s (2011) framework, which classifies privacy definitions into value-based (privacy as a right or commodity) and cognate-based (privacy as a state or control) approaches."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

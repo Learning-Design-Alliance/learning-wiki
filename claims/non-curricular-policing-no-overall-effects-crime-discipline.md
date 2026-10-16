@@ -3,7 +3,7 @@ type: claim
 title: Common non-curricular policing strategies show no overall effects on measures of school crime or discipline
 description: Common non-curricular policing strategies show no overall effects on measures of school crime or discipline
 id: non-curricular-policing-no-overall-effects-crime-discipline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

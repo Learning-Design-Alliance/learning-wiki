@@ -3,7 +3,7 @@ type: claim
 title: Learners rated the L2C coach higher than both baselines on safety, performance, agency, and satisfaction
 description: Learners rated the L2C coach higher than both baselines on safety, performance, agency, and satisfaction
 id: l2c-higher-subjective-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

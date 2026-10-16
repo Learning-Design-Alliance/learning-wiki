@@ -3,7 +3,7 @@ type: design
 id: pbl-ai-guardrails-policy-set
 title: AI guardrails policy set for PBL courses
 description: "A five-part guardrail package governing student GenAI use in PBL courses: tool restrictions, data protection, disclosure and validation, code provenance, and equity of access."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

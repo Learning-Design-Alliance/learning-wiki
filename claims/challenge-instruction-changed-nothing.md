@@ -3,7 +3,7 @@ type: claim
 title: "An explicit prompt instruction to challenge gently changed nothing: the agent challenged in about 1% of turns under both prompts"
 description: "An explicit prompt instruction to challenge gently changed nothing: the agent challenged in about 1% of turns under both prompts"
 id: challenge-instruction-changed-nothing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

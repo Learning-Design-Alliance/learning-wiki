@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Metacognitive Strategies Improve Learning
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25
@@ -93,3 +93,4 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [All types of regulation can be explicitly taught and improved with time, effort, and effective feedback](regulation-skills-can-be-taught.md) — related
 - [Some GenAI tools can inhibit productive struggle by reducing cognitive effort (metacognitive laziness)](genai-metacognitive-laziness.md) — related
 - [Multiple-strategy comprehension training appears to produce better comprehension than single-strategy training](multiple-strategy-training-better-comprehension-than-single-strategy.md) — related
+- [Without instructional support, learners show low cognitive strategy use and almost absent metacognitive strategies in journal writing, and realized strategy use correlates with learning outcomes](unsupported-journal-writing-low-strategy-use.md) — a narrower finding that bears on this claim

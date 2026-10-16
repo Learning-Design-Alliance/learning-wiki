@@ -3,7 +3,7 @@ type: strategy
 id: use-ecree-to-support-writing-in-ela-classrooms
 title: Use automated writing feedback tools like Ecree to support writing in middle and high school English language arts classrooms
 description: "The brief aims \"to help middle and high school students and their families learn about Ecree, an automated feedback tool that supports student writing in the classroom,\" summarizing takeaways from its use in grade 8-1..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

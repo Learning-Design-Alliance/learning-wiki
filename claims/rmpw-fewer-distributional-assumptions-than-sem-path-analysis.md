@@ -3,7 +3,7 @@ type: claim
 title: RMPW requires relatively few assumptions about outcome and mediator distributions and outcome-model functional form compared with model-based alternatives
 description: RMPW requires relatively few assumptions about outcome and mediator distributions and outcome-model functional form compared with model-based alternatives
 id: rmpw-fewer-distributional-assumptions-than-sem-path-analysis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

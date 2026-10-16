@@ -3,7 +3,7 @@ type: strategy
 id: rtap-program-leader-recommendations
 title: Program-leader recommendations for strengthening teacher apprenticeship experiences
 description: "Based directly on apprentices' perspectives, the report recommends that program leaders invest in recruitment through advising, outreach events, and peer ambassadors; offer flexible timelines and robust supports for a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

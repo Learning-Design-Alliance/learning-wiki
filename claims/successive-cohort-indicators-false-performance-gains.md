@@ -3,7 +3,7 @@ type: claim
 title: Successive cohort indicators are subject to false performance gains, and the paper assesses which school evaluation methods provide useful accountability information
 description: Successive cohort indicators are subject to false performance gains, and the paper assesses which school evaluation methods provide useful accountability information
 id: successive-cohort-indicators-false-performance-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

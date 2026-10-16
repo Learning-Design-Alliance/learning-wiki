@@ -2,7 +2,7 @@
 type: theory
 title: "Piaget's account of ludic symbolism: make-believe play as symbolic assimilation bridging concrete experience and abstract thought"
 description: "Piaget's concept of ludic symbolism holds that the hallmark of make-believe play is using objects as symbols for absent objects or people, accompanied by joy and delight."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' most negative reports concern student behavior, which more teachers say has gotten worse than better"
 description: "Teachers' most negative reports concern student behavior, which more teachers say has gotten worse than better"
 id: student-behavior-most-negative-teacher-reports
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

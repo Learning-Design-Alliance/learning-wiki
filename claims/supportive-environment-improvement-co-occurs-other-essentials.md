@@ -3,7 +3,7 @@ type: claim
 title: When Supportive Environment improves, the other 5Essentials essential supports often improve
 description: When Supportive Environment improves, the other 5Essentials essential supports often improve
 id: supportive-environment-improvement-co-occurs-other-essentials
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: calibrate-agent-initiative-to-learner-needs
 title: Calibrate AI writing support by providing contextual feedback, dialogic scaffolding, and initiative matched to learner needs and task complexity
 description: "Derived from learners' reflective accounts in the study's thematic analysis (RQ4), this strategy holds that effective AI writing support should offer feedback tied to the learner's actual visuals and text, scaffold re..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

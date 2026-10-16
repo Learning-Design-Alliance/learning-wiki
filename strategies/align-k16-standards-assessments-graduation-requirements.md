@@ -3,7 +3,7 @@ type: strategy
 id: align-k16-standards-assessments-graduation-requirements
 title: Align high school graduation standards, assessments, and course requirements with college readiness so a diploma signals preparation for credit-bearing college work
 description: The report recommends that states tightly link high school completion with college readiness by aligning standards, assessments, and graduation requirements across K-12 and higher education, so that meeting state requ...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

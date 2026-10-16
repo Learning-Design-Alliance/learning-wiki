@@ -3,7 +3,7 @@ type: strategy
 id: increase-ai-resistant-problem-formats
 title: Increase the proportion of AI-resistant problem formats in learning-task design to preserve authentic engagement without proctoring
 description: "The article recommends a design-level response to AI-related disengagement: favor problem formats that resist AI assistance, such as graph-based problems requiring visual interpretation and interactive widget manipula..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -44,4 +44,4 @@ The article recommends a design-level response to AI-related disengagement: favo
 -
 
 ## Key Sources
-- Rismanchian, S., Uzun, H., Matayoshi, J., Cosyn, E., & Kurd-Misto, E. (2026). Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build. arXiv preprint. https://arxiv.org/abs/2605.21629
+- Rismanchian, S., Uzun, H., Matayoshi, J., Cosyn, E., & Kurd-Misto, E. (2026). Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build. arXiv preprint. https://arxiv.org/abs/2605.21629. [doi:10.48550/arxiv.2605.21629](https://doi.org/10.48550/arxiv.2605.21629)

@@ -3,7 +3,7 @@ type: claim
 title: Requiring an admissions portfolio coincided with a large drop in BBA applications, consistent with filtering for intentional applicants, with volumes recovering after outreach
 description: Requiring an admissions portfolio coincided with a large drop in BBA applications, consistent with filtering for intentional applicants, with volumes recovering after outreach
 id: ross-portfolio-coincided-application-volume-drop
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Parental factors including emotional unreadiness, feeling overwhelmed, and unrealistic expectations can contribute to AAC device abandonment
 description: Parental factors including emotional unreadiness, feeling overwhelmed, and unrealistic expectations can contribute to AAC device abandonment
 id: parent-factors-aac-abandonment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

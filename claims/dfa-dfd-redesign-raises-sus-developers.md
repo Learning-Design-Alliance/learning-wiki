@@ -3,7 +3,7 @@ type: claim
 title: "DfA/DfD-informed mechanical redesign of the RSC chassis raised developers' perceived usability from Poor (SUS 59.4) to Excellent (SUS 89.4)"
 description: "DfA/DfD-informed mechanical redesign of the RSC chassis raised developers' perceived usability from Poor (SUS 59.4) to Excellent (SUS 89.4)"
 id: dfa-dfd-redesign-raises-sus-developers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -2,7 +2,7 @@
 type: claim
 title: Average scores on intelligence tests have risen substantially across generations worldwide
 id: flynn-effect-rising-iq-scores-over-generations
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

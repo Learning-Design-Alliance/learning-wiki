@@ -3,7 +3,7 @@ type: design
 id: kea-data-uses-by-interest-holder-level
 title: Tiered uses of KEA data across classroom, building, district, and state levels
 description: The brief organizes potential KEA uses by interest-holder level in an appendix table adapted from Garver and Yun and colleagues.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

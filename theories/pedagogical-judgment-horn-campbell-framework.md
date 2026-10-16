@@ -2,7 +2,7 @@
 type: theory
 title: "Pedagogical judgment as interpretable, responsive instructional decision-making (Horn & Campbell, operationalized via inquiry as stance)"
 description: "The study builds on Horn and Campbell's (2015) conception of pedagogical judgment, which the authors \"operationalize as the ability to interpret classroom interactions and make responsive instructional decisions.\" Fra..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

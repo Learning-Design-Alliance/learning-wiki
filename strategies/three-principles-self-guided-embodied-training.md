@@ -3,7 +3,7 @@ type: strategy
 id: three-principles-self-guided-embodied-training
 title: "Apply three design principles for self-guided embodied training: feedback as calibration reference, modality granularity matched to behaviour's temporal structure, and autonomous interpretability as a deployment prerequisite"
 description: "From trajectory data, qualitative accounts, and usability outcomes, the authors synthesise \"three transferable design principles for self-guided embodied training: feedback as a calibration reference, not an immediate..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

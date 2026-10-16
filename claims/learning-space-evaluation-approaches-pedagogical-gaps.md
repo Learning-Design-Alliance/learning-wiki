@@ -3,7 +3,7 @@ type: claim
 title: Existing approaches to evaluating higher education and school learning environments fall short when judged against contemporary approaches to teaching and learning
 description: Existing approaches to evaluating higher education and school learning environments fall short when judged against contemporary approaches to teaching and learning
 id: learning-space-evaluation-approaches-pedagogical-gaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

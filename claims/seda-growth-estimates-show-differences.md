@@ -3,7 +3,7 @@ type: claim
 title: SEDA growth estimates show differences from common-assessment-based estimates
 description: SEDA growth estimates show differences from common-assessment-based estimates
 id: seda-growth-estimates-show-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

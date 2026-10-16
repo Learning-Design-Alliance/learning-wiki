@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Self-determination skills instruction for students with disabilities increases self-determination on some measures but not others
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25
@@ -113,3 +113,4 @@ Earlier Related Claims:
 - [Autonomy-supportive teaching contrasts with controlling teaching, and controlled students do poorly compared to autonomous students](autonomy-support-versus-controlling-teaching.md) — related
 - [Differentiating special education funding by disability, disability category, or student need can lead to improved outcomes for students with disabilities, and IEP-progress metrics offer a new adequacy-study measure](differentiated-special-education-funding-improves-outcomes.md) — related
 - [Outcomes of students with disabilities improve when they receive specially designed instruction responsive to assessment data](specially-designed-instruction-responsive-to-assessment-data-improves-outcomes.md) — related
+- [Effect size heterogeneity in self-management interventions may be explained by grade level, disability status, and general versus special education setting](self-management-heterogeneity-moderators-grade-disability-setting.md) — a narrower finding that bears on this claim

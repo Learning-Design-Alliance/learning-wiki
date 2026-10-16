@@ -3,7 +3,7 @@ type: claim
 title: Formal partnerships enhanced interagency collaboration but required time to form, service benchmarks, and regular communication
 description: Formal partnerships enhanced interagency collaboration but required time to form, service benchmarks, and regular communication
 id: promise-formal-partnerships-enhance-collaboration-with-conditions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

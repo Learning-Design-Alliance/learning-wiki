@@ -3,7 +3,7 @@ type: claim
 title: Polychotomously scored IF-AT physics exam items show excellent discrimination, with a mean item-total correlation of r′ = 0.41 ± 0.13 across 45 items
 description: Polychotomously scored IF-AT physics exam items show excellent discrimination, with a mean item-total correlation of r′ = 0.41 ± 0.13 across 45 items
 id: if-at-integrated-testlet-items-excellent-discrimination
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

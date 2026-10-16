@@ -3,7 +3,7 @@ type: claim
 title: Both constructive-conflict conditions produced substantially more idea editing between design iterations than unsupported self-reflection
 description: Both constructive-conflict conditions produced substantially more idea editing between design iterations than unsupported self-reflection
 id: constructive-conflict-increases-idea-editing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

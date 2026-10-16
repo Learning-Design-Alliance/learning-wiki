@@ -3,7 +3,7 @@ type: claim
 title: Compensatory education services are additional services to make up for progress or skills lost due to a lapse in services, and are conceptually distinct from recovery services
 description: Compensatory education services are additional services to make up for progress or skills lost due to a lapse in services, and are conceptually distinct from recovery services
 id: compensatory-education-distinct-from-recovery-services
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

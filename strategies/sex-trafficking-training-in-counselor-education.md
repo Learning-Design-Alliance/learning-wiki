@@ -3,7 +3,7 @@ type: strategy
 id: sex-trafficking-training-in-counselor-education
 title: Incorporate discussions of human sex trafficking into required counselor education trauma curriculum and provide targeted training
 description: The article recommends that counselor educators embed human sex trafficking content into accredited coursework and that counselors, supervisors, and students receive training on trafficking topics.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

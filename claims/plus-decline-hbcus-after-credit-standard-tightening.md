@@ -3,7 +3,7 @@ type: claim
 title: After the tightening of PLUS credit standards, both the share of PLUS participants and PLUS loan dollar amounts declined substantially at HBCUs
 description: After the tightening of PLUS credit standards, both the share of PLUS participants and PLUS loan dollar amounts declined substantially at HBCUs
 id: plus-decline-hbcus-after-credit-standard-tightening
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

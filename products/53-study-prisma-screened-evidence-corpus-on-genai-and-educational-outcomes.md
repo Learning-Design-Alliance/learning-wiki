@@ -4,7 +4,7 @@ id: 53-study-prisma-screened-evidence-corpus-on-genai-and-educational-outcomes
 title: 53-study PRISMA-screened evidence corpus on GenAI and educational outcomes
 description: A corpus of 53 screened studies on GenAI effects on academic achievement, higher-order thinking, and writing, assembled and quality-rated by Ying Dong through a PRISMA-based review.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

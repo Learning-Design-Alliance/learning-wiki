@@ -3,7 +3,7 @@ type: claim
 title: After two years, fewer graduates attended career academies and neighborhood high schools and more attended charter schools; these shifts were no different from comparison schools
 description: After two years, fewer graduates attended career academies and neighborhood high schools and more attended charter schools; these shifts were no different from comparison schools
 id: success-project-high-school-enrollment-shifts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

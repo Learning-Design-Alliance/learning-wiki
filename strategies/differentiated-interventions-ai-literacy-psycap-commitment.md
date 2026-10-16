@@ -3,7 +3,7 @@ type: strategy
 id: differentiated-interventions-ai-literacy-psycap-commitment
 title: Differentiated interventions integrating AI literacy training, psychological capital cultivation, and professional identity reinforcement
 description: The article recommends that universities design interventions addressing technological competencies and psychological resources together rather than AI skills alone.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

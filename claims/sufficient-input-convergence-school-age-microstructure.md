@@ -3,7 +3,7 @@ type: claim
 title: "Bilingual school-age children's microstructure converged with monolinguals', consistent with bilinguals exceeding the ~60% input benchmark for typical development"
 description: "Bilingual school-age children's microstructure converged with monolinguals', consistent with bilinguals exceeding the ~60% input benchmark for typical development"
 id: sufficient-input-convergence-school-age-microstructure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

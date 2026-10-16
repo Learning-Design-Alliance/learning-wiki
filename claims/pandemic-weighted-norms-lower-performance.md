@@ -3,7 +3,7 @@ type: claim
 title: Updated norms are heavily weighted toward 2021/22 pandemic-era performance, with lower norm-group performance than the prior norms
 description: Updated norms are heavily weighted toward 2021/22 pandemic-era performance, with lower norm-group performance than the prior norms
 id: pandemic-weighted-norms-lower-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

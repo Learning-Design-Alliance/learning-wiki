@@ -3,7 +3,7 @@ type: claim
 title: "No single control-timing paradigm dominates across subjective measures: eight of ten questionnaire items show no significant differences between paradigms"
 description: "No single control-timing paradigm dominates across subjective measures: eight of ten questionnaire items show no significant differences between paradigms"
 id: no-single-paradigm-dominates-subjective-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Within fight pairs, Black and poor students are punished more harshly than the opponents they fight
 description: Within fight pairs, Black and poor students are punished more harshly than the opponents they fight
 id: fight-pairs-black-poor-punished-more-harshly
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: In 2013, 195 of 286 eligible LEAs (68 percent) in Arizona, Nevada, and Utah received no Title VII funding, leaving an estimated 18 percent of AI/AN students in the three states unserved
 description: In 2013, 195 of 286 eligible LEAs (68 percent) in Arizona, Nevada, and Utah received no Title VII funding, leaving an estimated 18 percent of AI/AN students in the three states unserved
 id: title-vii-eligible-but-unfunded-leas
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

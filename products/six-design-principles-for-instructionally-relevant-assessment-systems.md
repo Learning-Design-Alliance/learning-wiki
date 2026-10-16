@@ -4,7 +4,7 @@ id: six-design-principles-for-instructionally-relevant-assessment-systems
 title: Six design principles for instructionally relevant assessment systems
 description: A Badrinarayan (2024) framework for state education agencies to design summative assessment systems intended to support standards-aligned disciplinary learning and improve classroom instruction.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

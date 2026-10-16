@@ -3,7 +3,7 @@ type: strategy
 id: scaffolded-genai-activities-assessments-across-levels
 title: Scaffold GenAI learning activities and assessments progressively across all undergraduate levels
 description: "The article's practical guidance for educators is a scaffolded approach: GenAI learning activities and assessments are distributed and built up across all undergraduate levels rather than concentrated in one course st..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

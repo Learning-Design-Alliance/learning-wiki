@@ -3,7 +3,7 @@ type: strategy
 id: portfolio-strategies-teacher-pipeline-texas
 title: Deploy a portfolio of research-based strategies — service scholarships, residencies, Grow Your Own programs, mentoring and induction, and compensation reform — to strengthen the teacher pipeline
 description: "The report's policy recommendations lay out an interlocking set of strategies: \"Subsidize access to high-quality preparation programs by funding service scholarships and/or loan forgiveness for teacher candidates repa..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

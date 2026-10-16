@@ -3,7 +3,7 @@ type: claim
 title: Vocabulary-focused programs are probably insufficient to accelerate vocabulary development and close the vocabulary gap
 description: Vocabulary-focused programs are probably insufficient to accelerate vocabulary development and close the vocabulary gap
 id: vocabulary-programs-insufficient-to-close-vocabulary-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

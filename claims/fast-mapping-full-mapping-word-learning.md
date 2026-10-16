@@ -3,7 +3,7 @@ type: claim
 title: Single exposures yield partial word knowledge, and repeated encounters in varied contexts build complete word meaning (fast mapping then full mapping)
 description: Single exposures yield partial word knowledge, and repeated encounters in varied contexts build complete word meaning (fast mapping then full mapping)
 id: fast-mapping-full-mapping-word-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28
@@ -55,3 +55,5 @@ The review attributes this to Carey (1978), cited as background on the fast mapp
 - [Disadvantaged children may struggle with reading comprehension because they often lack general vocabulary and strategies for organizing information from text](disadvantaged-students-lack-vocabulary-and-comprehension-strategies.md) — related
 - [Incidental vocabulary acquisition through reading is slow and unpredictable: there is no way to predict which words will be learned, when, nor to what degree](incidental-reading-vocabulary-acquisition-slow-unpredictable.md) — related
 - [First language evidence shows extensive reading for meaning leads to vocabulary acquisition over time, probably accounting for most L1 vocabulary growth beyond the first few thousand common words](l1-extensive-reading-drives-vocabulary-growth.md) — related
+- [Reading times on unfamiliar words decrease non-linearly, following an S-shaped curve, as exposures accumulate during natural reading](s-shaped-reading-time-decrease-repeated-exposure.md) — related
+- [Total reading time independently contributed to the learning of word meaning](total-reading-time-predicts-word-meaning.md) — related

@@ -3,7 +3,7 @@ type: claim
 title: Children from low-SES families were more negatively affected by COVID-19 school closures than children from high-SES families
 description: Children from low-SES families were more negatively affected by COVID-19 school closures than children from high-SES families
 id: covid-closures-low-ses-students-more-affected
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

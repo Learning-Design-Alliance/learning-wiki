@@ -3,7 +3,7 @@ type: claim
 title: Accounting for test disengagement had minimal impact on estimates of school growth contributions, achievement gaps, and summer learning loss
 description: Accounting for test disengagement had minimal impact on estimates of school growth contributions, achievement gaps, and summer learning loss
 id: disengagement-corrections-minimal-impact-effectiveness-estimates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

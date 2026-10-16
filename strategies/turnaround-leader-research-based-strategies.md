@@ -3,7 +3,7 @@ type: strategy
 id: turnaround-leader-research-based-strategies
 title: Use research-based turnaround leadership strategies to support a comprehensive turnaround initiative
 description: "The article's purpose is to share \"specific, research-based strategies turnaround leaders can use in order to support a comprehensive turnaround initiative.\" The strategies are presented in infographic form and are gr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

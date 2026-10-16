@@ -3,7 +3,7 @@ type: strategy
 id: integrate-llm-crp-tools-in-professional-development
 title: Integrate LLM-based CRP support tools within professional development to encourage teacher reflection beyond template-based outputs
 description: The authors recommend embedding tools like CulturAIEd within professional development programs so that teachers reflect on and refine AI suggestions rather than accepting template-based outputs.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

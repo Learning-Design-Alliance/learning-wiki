@@ -3,7 +3,7 @@ type: claim
 title: Learners fail to recognize the benefits of pre-instruction testing, ranking it as least effective despite benefiting from it
 description: Learners fail to recognize the benefits of pre-instruction testing, ranking it as least effective despite benefiting from it
 id: metacognitive-illusion-pretesting-underrated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

@@ -3,7 +3,7 @@ type: element
 id: niss-ingram-olkin-forum-covid-schools-presentation
 title: NISS Ingram Olkin Forum presentation on modeling COVID-19 school openings, closings, and learning loss
 description: "A 2020 presentation by Megan Kuhfeld delivered as part of the National Institute of Statistical Sciences (NISS) Ingram Olkin \"Statistics Serving Society\" Forum."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

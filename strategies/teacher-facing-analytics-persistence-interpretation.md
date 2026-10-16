@@ -3,7 +3,7 @@ type: strategy
 id: teacher-facing-analytics-persistence-interpretation
 title: Design teacher-facing analytics that support interpretation of student persistence within classroom contexts
 description: "The article recommends that persistence analytics move beyond detecting disengagement toward supporting teachers' interpretive work."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

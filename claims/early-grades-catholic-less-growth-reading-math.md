@@ -3,7 +3,7 @@ type: claim
 title: Catholic school students in earlier grades show less academic-year growth than public school peers in both reading and math
 description: Catholic school students in earlier grades show less academic-year growth than public school peers in both reading and math
 id: early-grades-catholic-less-growth-reading-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Question-driven AI journaling increases intrinsic motivation and acting confidence among actors
 description: Question-driven AI journaling increases intrinsic motivation and acting confidence among actors
 id: question-driven-ai-journaling-raises-motivation-confidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

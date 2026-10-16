@@ -3,7 +3,7 @@ type: claim
 title: The prompting intervention did not reduce general propagation of user errors into AI advice
 description: The prompting intervention did not reduce general propagation of user errors into AI advice
 id: intervention-did-not-reduce-error-propagation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

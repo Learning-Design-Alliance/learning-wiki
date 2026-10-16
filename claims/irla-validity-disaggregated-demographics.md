@@ -3,7 +3,7 @@ type: claim
 title: Validity evidence for the IRLA is disaggregated across grade, program, and race/ethnicity
 description: Validity evidence for the IRLA is disaggregated across grade, program, and race/ethnicity
 id: irla-validity-disaggregated-demographics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

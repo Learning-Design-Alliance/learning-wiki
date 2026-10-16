@@ -3,7 +3,7 @@ type: claim
 title: The validation study sample comprised 81 Chicago ECE sites with high teacher and parent survey response rates
 description: The validation study sample comprised 81 Chicago ECE sites with high teacher and parent survey response rates
 id: early-ed-essentials-validation-sample-81-sites
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

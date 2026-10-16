@@ -3,7 +3,7 @@ type: strategy
 id: align-ai-guidelines-discipline-objectives-workforce
 title: Align AI guidelines with broader institutional policies while addressing discipline-specific learning objectives and workforce demands
 description: The article recommends that AI guidelines in higher education be aligned with broader institutional policies while also addressing discipline-specific learning objectives and evolving workforce demands.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

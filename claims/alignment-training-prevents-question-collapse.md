@@ -3,7 +3,7 @@ type: claim
 title: Without alignment training, generated questions collapse to similar content regardless of the intended knowledge concept, whereas KT4EQG questions spread across many verified KCs
 description: Without alignment training, generated questions collapse to similar content regardless of the intended knowledge concept, whereas KT4EQG questions spread across many verified KCs
 id: alignment-training-prevents-question-collapse
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

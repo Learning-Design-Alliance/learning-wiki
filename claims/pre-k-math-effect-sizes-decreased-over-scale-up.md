@@ -3,7 +3,7 @@ type: claim
 title: Effect sizes of Pre-K Mathematics decreased over time as the intervention moved through successive scale-up phases
 description: Effect sizes of Pre-K Mathematics decreased over time as the intervention moved through successive scale-up phases
 id: pre-k-math-effect-sizes-decreased-over-scale-up
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Heritage learners of Portuguese perceive listening as the easiest of the four skills, while non-heritage learners find it as challenging as other skills
 description: Heritage learners of Portuguese perceive listening as the easiest of the four skills, while non-heritage learners find it as challenging as other skills
 id: hlls-rate-listening-easiest-nhlls-challenging
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

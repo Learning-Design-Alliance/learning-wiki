@@ -3,7 +3,7 @@ type: claim
 title: "School size is the characteristic most related to teachers' reform and school-quality ratings, with small schools (350 students or fewer) rated most positively"
 description: "School size is the characteristic most related to teachers' reform and school-quality ratings, with small schools (350 students or fewer) rated most positively"
 id: small-schools-more-positive-reform-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

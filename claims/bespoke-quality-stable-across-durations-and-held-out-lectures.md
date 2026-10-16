@@ -3,7 +3,7 @@ type: claim
 title: Overall quality was similar across durations and across the 21-lecture held-out set unused during system development
 description: Overall quality was similar across durations and across the 21-lecture held-out set unused during system development
 id: bespoke-quality-stable-across-durations-and-held-out-lectures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

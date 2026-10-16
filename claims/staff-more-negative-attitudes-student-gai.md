@@ -3,7 +3,7 @@ type: claim
 title: Staff showed more negativity in attitudes towards student use of GAI than students did
 description: Staff showed more negativity in attitudes towards student use of GAI than students did
 id: staff-more-negative-attitudes-student-gai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: design
 id: blind-turing-test-legal-exam-evaluation-protocol
 title: Blind Turing-test evaluation protocol for LLM legal exam papers
 description: An evaluation design in which LLM-generated and human exam papers are formatted identically and anonymously assessed by expert examiners using official criteria.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

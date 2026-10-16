@@ -3,7 +3,7 @@ type: claim
 title: The authors hypothesize that differences in curriculum design could explain the achievement results of the experimental study
 description: The authors hypothesize that differences in curriculum design could explain the achievement results of the experimental study
 id: design-differences-hypothesized-explain-achievement-results
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

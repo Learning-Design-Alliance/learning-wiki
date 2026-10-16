@@ -3,7 +3,7 @@ type: claim
 title: Higher tab accept rates are strongly associated with failing attention checks among CS1 students using an AI code completion tool
 description: Higher tab accept rates are strongly associated with failing attention checks among CS1 students using an AI code completion tool
 id: tab-accept-rate-strongly-associated-failed-attention-checks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

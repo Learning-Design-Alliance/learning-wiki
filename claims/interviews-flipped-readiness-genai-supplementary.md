@@ -3,7 +3,7 @@ type: claim
 title: Interviews indicated flipped learning supported studio readiness while the GenAI module served as a supplementary tool for early-stage visual ideation
 description: Interviews indicated flipped learning supported studio readiness while the GenAI module served as a supplementary tool for early-stage visual ideation
 id: interviews-flipped-readiness-genai-supplementary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

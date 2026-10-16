@@ -3,7 +3,7 @@ type: strategy
 id: pll-small-group-tier2-strategy
 title: Deliver PLL as small-group Tier 2 instruction with one teacher per 4-5 students
 description: "The article specifies staffing requirements for implementing the 95 Phonics Lesson Library: it is best used in small group settings with 1 teacher to 4-5 students, as a Tier 2 intervention for students identified as B..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

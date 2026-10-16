@@ -3,7 +3,7 @@ type: strategy
 id: evaluate-ai-before-deployment-with-students
 title: Evaluate AI systems before deploying them with students
 description: "The article recommends that edtech teams evaluate their AI models and outputs before going live with students, because failures like the LAUSD \"Ed\" chatbot and BuzzFeed's AI-first pivot show the costs of deploying wit..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -51,6 +51,7 @@ The article recommends that edtech teams evaluate their AI models and outputs be
 - [Benchmark AI assistants on specialized educational tasks before classroom deployment](benchmark-ai-assistants-before-classroom-deployment.md)
 - [Deploy a minimal baseline chatbot to bootstrap its own annotated evaluation corpus and improve incrementally](bootstrapping-baseline-annotated-corpus.md)
 - [Pre-deployment gate and per-epoch helpfulness rollback for vendors shipping LLM tutors to K-12 learners](educlaw-bench-deployment-gates-and-early-stopping.md)
+- [Deploy an educational chatbot to give students instant question-and-answer support outside class when teacher interaction time is limited](chatbot-out-of-class-instant-support.md)
 
 ## Examples
 -

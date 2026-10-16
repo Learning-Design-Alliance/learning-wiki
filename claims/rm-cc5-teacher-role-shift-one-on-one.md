@@ -3,7 +3,7 @@ type: claim
 title: RM-CC5 treatment teachers shifted toward one-on-one instruction with individual students, while control teachers led more whole-group and small-group instruction
 description: RM-CC5 treatment teachers shifted toward one-on-one instruction with individual students, while control teachers led more whole-group and small-group instruction
 id: rm-cc5-teacher-role-shift-one-on-one
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: LLM-generated lessons produced inauthentic references even when combined with RAG over verified academic papers
 description: LLM-generated lessons produced inauthentic references even when combined with RAG over verified academic papers
 id: rag-does-not-ensure-citation-authenticity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

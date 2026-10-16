@@ -3,7 +3,7 @@ type: strategy
 id: improve-organizational-conditions-to-retain-minority-teachers
 title: Address minority teacher retention by improving school organizational conditions, especially teacher classroom autonomy and faculty decision-making influence
 description: This strategy targets the exit end of the minority teacher pipeline rather than recruitment.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

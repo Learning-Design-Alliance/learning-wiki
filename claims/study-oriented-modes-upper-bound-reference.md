@@ -3,7 +3,7 @@ type: claim
 title: Commercially optimized study-oriented modes achieve higher learner-side scores than baseline, and CURIOBOT shifts general-purpose LLM behavior toward those patterns via prompting alone
 description: Commercially optimized study-oriented modes achieve higher learner-side scores than baseline, and CURIOBOT shifts general-purpose LLM behavior toward those patterns via prompting alone
 id: study-oriented-modes-upper-bound-reference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

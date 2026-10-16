@@ -4,7 +4,7 @@ id: nwea-science-achievement-trend-analysis-dataset
 title: NWEA science achievement trend analysis dataset
 description: A dataset and technical brief produced by NWEA researchers containing MAP Growth science achievement and growth trends across seven school years to examine pandemic-era learning patterns.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "First graders in 2021–22 grew less in math and reading than a typical prepandemic year, by 6–7%"
 description: "First graders in 2021–22 grew less in math and reading than a typical prepandemic year, by 6–7%"
 id: first-graders-2021-22-growth-below-typical-year
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

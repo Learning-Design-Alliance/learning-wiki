@@ -4,7 +4,7 @@ id: vibe-compiler
 title: Vibe Compiler
 description: Vibe Compiler is a NotebookLM- and Gemini-based research-logic compilation tool developed by Riichiro Mizoguchi and colleagues to help researchers turn vague intuitions into coherent paper logic while preserving their epistemic agency.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

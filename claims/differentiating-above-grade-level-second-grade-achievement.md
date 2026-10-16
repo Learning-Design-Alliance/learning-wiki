@@ -3,7 +3,7 @@ type: claim
 title: Differentiating curriculum for students above grade level is associated with higher math achievement in 2nd grade only
 description: Differentiating curriculum for students above grade level is associated with higher math achievement in 2nd grade only
 id: differentiating-above-grade-level-second-grade-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

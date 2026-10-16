@@ -3,7 +3,7 @@ type: claim
 title: The OBC model benefits from clearly defined roles and shared responsibilities across district, school, and provider teams.
 description: The OBC model benefits from clearly defined roles and shared responsibilities across district, school, and provider teams.
 id: obc-clear-roles-shared-responsibility
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

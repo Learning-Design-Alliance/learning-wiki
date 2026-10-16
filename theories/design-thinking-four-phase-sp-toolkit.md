@@ -2,7 +2,7 @@
 type: theory
 title: Design Thinking four-phase process (Singapore Polytechnic toolkit)
 description: "The article adopts the Singapore Polytechnic Department of Educational Development (2011) account of Design Thinking as a four-phase cycle: \"sense and sensibility, empathy, ideation, and prototype.\" Sense and sensibil..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

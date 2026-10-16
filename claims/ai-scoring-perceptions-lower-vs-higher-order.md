@@ -3,7 +3,7 @@ type: claim
 title: Students perceive AI scoring as accurate for grammar, mechanics, and organization but skeptical of its ability to evaluate diverse styles, complex writing, tone, and emotion
 description: Students perceive AI scoring as accurate for grammar, mechanics, and organization but skeptical of its ability to evaluate diverse styles, complex writing, tone, and emotion
 id: ai-scoring-perceptions-lower-vs-higher-order
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

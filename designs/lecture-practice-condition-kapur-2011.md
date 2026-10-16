@@ -3,7 +3,7 @@ type: design
 id: lecture-practice-condition-kapur-2011
 title: Traditional lecture and practice (LP) condition
 description: The lecture and practice condition is the traditional baseline against which productive failure and facilitated problem solving were compared in this three-condition study.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: "Phonological awareness training plus letter knowledge training has potentially positive effects on preschoolers' phonological processing"
 description: "Phonological awareness training plus letter knowledge training has potentially positive effects on preschoolers' phonological processing"
 id: pat-lk-potentially-positive-phonological-processing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

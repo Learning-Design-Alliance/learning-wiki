@@ -3,7 +3,7 @@ type: claim
 title: "Fewer non-tenured teachers were rated in the top two categories under REACH (58%) than under the previous checklist system (87%)"
 description: "Fewer non-tenured teachers were rated in the top two categories under REACH (58%) than under the previous checklist system (87%)"
 id: reach-fewer-top-two-ratings-than-checklist
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

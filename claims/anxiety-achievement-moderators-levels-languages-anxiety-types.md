@@ -3,7 +3,7 @@ type: claim
 title: The anxiety–achievement correlation varies across educational levels, target languages, and anxiety types
 description: The anxiety–achievement correlation varies across educational levels, target languages, and anxiety types
 id: anxiety-achievement-moderators-levels-languages-anxiety-types
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

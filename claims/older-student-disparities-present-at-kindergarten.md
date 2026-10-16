@@ -3,7 +3,7 @@ type: claim
 title: Racial/ethnic disparities observed among older students are largely already in place among kindergartners
 description: Racial/ethnic disparities observed among older students are largely already in place among kindergartners
 id: older-student-disparities-present-at-kindergarten
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

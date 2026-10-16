@@ -3,7 +3,7 @@ type: claim
 title: Participants required GSR self-knowledge of an assertive, conscientious, friendly personality with a customizable role
 description: Participants required GSR self-knowledge of an assertive, conscientious, friendly personality with a customizable role
 id: gsr-self-knowledge-personality-role-requirements
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

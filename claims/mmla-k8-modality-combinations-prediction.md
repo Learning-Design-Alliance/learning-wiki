@@ -3,7 +3,7 @@ type: claim
 title: Certain multimodal data combinations improve predictive model performance, with audio plus eye-tracking data most effective in one K–8 study
 description: Certain multimodal data combinations improve predictive model performance, with audio plus eye-tracking data most effective in one K–8 study
 id: mmla-k8-modality-combinations-prediction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

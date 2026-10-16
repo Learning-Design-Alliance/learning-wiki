@@ -3,7 +3,7 @@ type: strategy
 id: job-embedded-coaching-nonevaluative
 title: Provide job-embedded professional learning with coaching, and keep coaches nonevaluative
 description: "For targeting professional learning opportunities, the guide's practice description calls for districts to \"Offer regular opportunities for job-embedded learning, including coaching, mentoring, and observation/peer ob..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

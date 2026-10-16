@@ -3,7 +3,7 @@ type: claim
 title: Pre-service teachers choose science objectives mainly for ease of teaching, material support, and perceived professional knowledge, with grade-level differences
 description: Pre-service teachers choose science objectives mainly for ease of teaching, material support, and perceived professional knowledge, with grade-level differences
 id: reasons-for-choosing-science-objectives
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

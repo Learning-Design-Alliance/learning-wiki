@@ -3,7 +3,7 @@ type: claim
 title: Parent meetings, firm disciplinary methods, and improved playground supervision are program elements associated with decreases in bullying and victimization
 description: Parent meetings, firm disciplinary methods, and improved playground supervision are program elements associated with decreases in bullying and victimization
 id: parent-meetings-discipline-playground-supervision-reduce-bullying
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

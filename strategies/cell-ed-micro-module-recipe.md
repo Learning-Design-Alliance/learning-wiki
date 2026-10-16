@@ -3,7 +3,7 @@ type: strategy
 id: cell-ed-micro-module-recipe
 title: Use micro-modules pairing short audio lessons with reflection texts and interactive quizzes for adult ELL mobile learning
 description: "The brief describes Cell-Ed's implementable recipe for adult English language learning on mobile phones: micro-modules consisting of a short audio lesson, a follow-up text reinforcing the lesson for learner reflection..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

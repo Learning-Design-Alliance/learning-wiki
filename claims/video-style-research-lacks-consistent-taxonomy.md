@@ -3,7 +3,7 @@ type: claim
 title: Previous instructional-video research lacks a consistent taxonomy, hindering comparison and meta-analysis
 description: Previous instructional-video research lacks a consistent taxonomy, hindering comparison and meta-analysis
 id: video-style-research-lacks-consistent-taxonomy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

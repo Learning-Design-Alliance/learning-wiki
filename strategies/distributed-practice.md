@@ -89,7 +89,7 @@ Distributed practice is one of the most robust findings in learning science: spa
 - **Anki / spaced-repetition flashcards** ([https://apps.ankiweb.net](https://apps.ankiweb.net)) — implements expanding-interval scheduling for vocabulary, medicine, and law study; used widely in medical education.
 - **Spiral curricula in mathematics** (e.g., [Everyday Mathematics](https://www.mheonline.com/em/)) — distributes practice of each concept across the year instead of a single unit, with repeated distributed exposure.
 - **Guitar chord practice** — practicing a new chord in short daily sessions over several weeks rather than one long session, matching the CSV example.
-- **Cumulative quizzing** — a course in which each weekly quiz includes items from all prior weeks, structurally enforcing spaced retrieval.
+- **[Cumulative quizzing](cumulative-quizzing.md)** — a course in which each weekly quiz includes items from all prior weeks, structurally enforcing spaced retrieval.
 - **[Anki](https://apps.ankiweb.net)** — spaced-repetition flashcard software implementing expanding intervals via the SM-2 algorithm; widely used in medical education for high-volume factual retention.
 - **[Duolingo](https://www.duolingo.com)** — schedules review of previously learned vocabulary at algorithmically determined intervals, embedding spacing invisibly in the learner's daily session.
 - **Cumulative math homework** — Rohrer's research program shows that distributing and interleaving practice problems across a semester's assignments produces large gains on delayed tests compared to blocked, massed problem sets.
@@ -100,7 +100,7 @@ Distributed practice is one of the most robust findings in learning science: spa
 - Rohrer, D., & Taylor, K. (2007). The shuffling of mathematics problems improves learning. *Instructional Science, 35*(6), 481–498. [doi:10.1007/s11251-007-9015-8](https://doi.org/10.1007/s11251-007-9015-8)
 - Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition: Knowing about knowing* (pp. 185–205). MIT Press.
 - Karpicke, J. D., & Roediger, H. L. (2008). The critical importance of retrieval for learning. *Science, 319*(5865), 966–968. [doi:10.1126/science.1152408](https://doi.org/10.1126/science.1152408)
-- Rohrer, D., & Taylor, K. (2006). The effects of overlearning and distributed practice on the retention of mathematics knowledge. *Applied Cognitive Psychology, 20*(9), 1209–1224. [doi:10.1002/acp.1266](https://doi.org/10.1002/acp.1266)
+- Rohrer, D., & Taylor, K. (2006). The effects of overlearning and distributed practise on the retention of mathematics knowledge. *Applied Cognitive Psychology, 20*(9), 1209–1224. [doi:10.1002/acp.1266](https://doi.org/10.1002/acp.1266)
 - Bjork, R. A., & Bjork, E. L. (2011). Making things hard on yourself, but in a good way: Creating desirable difficulties to enhance learning. In M. A. Gernsbacher et al. (Eds.), *Psychology and the real world* (pp. 56–64). Worth Publishers.
 
 <!-- merged 2026-10-09 from strategies/distributed_practice ("Distributed Practice"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
@@ -171,6 +171,6 @@ Distributed practice is one of the most robust findings in learning science: acr
 ## Key Sources
 - Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin, 132*(3), 354–380. [doi:10.1037/0033-2909.132.3.354](https://doi.org/10.1037/0033-2909.132.3.354)
 - Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)
-- Rohrer, D., & Taylor, K. (2006). The effects of overlearning and distributed practice on the retention of mathematics knowledge. *Applied Cognitive Psychology, 20*(9), 1209–1224. [doi:10.1002/acp.1266](https://doi.org/10.1002/acp.1266)
+- Rohrer, D., & Taylor, K. (2006). The effects of overlearning and distributed practise on the retention of mathematics knowledge. *Applied Cognitive Psychology, 20*(9), 1209–1224. [doi:10.1002/acp.1266](https://doi.org/10.1002/acp.1266)
 - Bjork, R. A., & Bjork, E. L. (2011). Making things hard on yourself, but in a good way: Creating desirable difficulties to enhance learning. In M. A. Gernsbacher et al. (Eds.), *Psychology and the real world* (pp. 56–64). Worth Publishers.
 -->

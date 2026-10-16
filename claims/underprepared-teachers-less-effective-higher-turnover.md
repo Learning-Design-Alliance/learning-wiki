@@ -3,7 +3,7 @@ type: claim
 title: Teachers who enter without completed preparation are typically less effective and have significantly higher turnover than prepared teachers
 description: Teachers who enter without completed preparation are typically less effective and have significantly higher turnover than prepared teachers
 id: underprepared-teachers-less-effective-higher-turnover
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

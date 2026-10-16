@@ -3,7 +3,7 @@ type: strategy
 id: monitor-preschool-attendance-watch-lists-transition-sharing
 title: Monitor preschool attendance at student and school levels with watch lists and share records across the preschool-to-kindergarten transition
 description: The report recommends that schools routinely collect and monitor preschool attendance data and act on it early.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

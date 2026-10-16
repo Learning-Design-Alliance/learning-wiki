@@ -3,7 +3,7 @@ type: claim
 title: GAA-LS scores correlate positively with feedback engagement, academic integrity intention, and responsible AI use intention, and differ across known groups
 description: GAA-LS scores correlate positively with feedback engagement, academic integrity intention, and responsible AI use intention, and differ across known groups
 id: gaa-ls-criterion-known-group-validity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

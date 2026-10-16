@@ -4,7 +4,7 @@ id: ace-in-higher-education-ace-he
 title: ACE in Higher Education (ACE-HE)
 description: The ACE-HE, developed by Graham et al., is a bilingual survey instrument measuring affective, behavioral, and cognitive engagement, institutional support, and personal-environment barriers among online and blended higher-education students.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

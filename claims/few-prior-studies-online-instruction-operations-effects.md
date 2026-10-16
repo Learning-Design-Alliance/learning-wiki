@@ -3,7 +3,7 @@ type: claim
 title: "Few studies of online instruction's operations and effects existed before the National Study of Online Charter Schools"
 description: "Few studies of online instruction's operations and effects existed before the National Study of Online Charter Schools"
 id: few-prior-studies-online-instruction-operations-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -47,3 +47,4 @@ The brief asserts, without citing a systematic review or evidence count, that "t
 - [The report concludes there is reason for concern about whether the online charter school sector is likely to be effective in promoting student achievement](online-charters-effectiveness-concern.md) — related
 - [Student-driven, independent study is the dominant mode of learning in online charter schools, with 33 percent offering only self-paced instruction](online-charters-dominant-independent-study-mode.md) — related
 - [Online charter school students receive less live teacher contact time in a week than conventional-school students receive in a day](online-charters-low-live-teacher-contact-time.md) — related
+- [Many popular school-based prevention approaches have not been well studied to date](popular-prevention-approaches-understudied.md) — related

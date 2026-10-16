@@ -3,7 +3,7 @@ type: claim
 title: El uso de IA para evaluaciones basadas en competencias no es actualmente la mejor práctica
 description: El uso de IA para evaluaciones basadas en competencias no es actualmente la mejor práctica
 id: ai-assessment-not-best-practice-microcredentials
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

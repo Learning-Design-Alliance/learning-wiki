@@ -3,7 +3,7 @@ type: claim
 title: Traditional end-of-passage assessment formats may inadvertently measure extraneous constructs such as working memory, attention, and language
 description: Traditional end-of-passage assessment formats may inadvertently measure extraneous constructs such as working memory, attention, and language
 id: end-of-passage-format-measures-extraneous-constructs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

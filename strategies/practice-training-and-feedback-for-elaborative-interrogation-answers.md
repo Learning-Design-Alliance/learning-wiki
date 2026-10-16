@@ -3,7 +3,7 @@ type: strategy
 id: practice-training-and-feedback-for-elaborative-interrogation-answers
 title: Improve elaborative interrogation answer quality through practice training with example answers and feedback
 description: "To raise the quality of students' answers to elaborative interrogation questions, the article proposes two approaches."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

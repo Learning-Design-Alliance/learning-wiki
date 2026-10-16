@@ -3,7 +3,7 @@ type: design
 id: modality-varied-rule-practice-design
 title: "Modality-varied practice design: equal comprehension and production practice with rule-to-modality assignment varied between groups"
 description: This design pattern holds total practice constant while varying which rules are practiced in which modality.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-15
@@ -38,7 +38,7 @@ This design pattern holds total practice constant while varying which rules are 
 - developing comprehension and production skill for specific morphosyntactic rules
 
 ### Claims
-- [L2 Morphosyntax Learning Highly Skill Specific](../claims/l2-morphosyntax-learning-highly-skill-specific.md) [+M]
+- [L2 Morphosyntax Learning Highly Skill Specific](../claims/skill-specificity-l2-grammar-practice.md) [+M]
 
 ## Related Designs
 - 

@@ -3,7 +3,7 @@ type: claim
 title: Higher seed-problem filtering thresholds yield better downstream reasoning performance, indicating problem quality directly impacts results
 description: Higher seed-problem filtering thresholds yield better downstream reasoning performance, indicating problem quality directly impacts results
 id: higher-seed-filtering-thresholds-improve-reasoning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

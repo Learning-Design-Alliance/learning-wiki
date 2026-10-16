@@ -3,7 +3,7 @@ type: claim
 title: "Immediately after closure, New York charter students lacked adequate devices (44.4% on average) more often than adequate internet access (27.0%), while teachers were almost universally equipped"
 description: "Immediately after closure, New York charter students lacked adequate devices (44.4% on average) more often than adequate internet access (27.0%), while teachers were almost universally equipped"
 id: device-access-gap-internet
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: English pronunciation self-efficacy is strongly and positively associated with willingness to communicate in English among Chinese EFL learners
 description: English pronunciation self-efficacy is strongly and positively associated with willingness to communicate in English among Chinese EFL learners
 id: pronunciation-self-efficacy-associated-with-wtc
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

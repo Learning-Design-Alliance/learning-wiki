@@ -3,7 +3,7 @@ type: claim
 title: "In one randomized working-paper experiment, conceptual-map scaffolding gave LLM-using novices marginally higher scores (p < .10) and lower score variance, with a marginal benefit concentrated among low-AIC novices"
 description: In one randomized working-paper experiment, conceptual-map scaffolding gave LLM-using novices marginally higher scores (p < .10) and lower score variance, with a marginal benefit concentrated among low-AIC novices
 id: conceptual-map-scaffolding-reduces-novice-variance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

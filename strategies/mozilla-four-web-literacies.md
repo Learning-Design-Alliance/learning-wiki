@@ -3,7 +3,7 @@ type: strategy
 id: mozilla-four-web-literacies
 title: "Use Mozilla's four basic web literacies to frame open learning for personal development"
 description: "The article presents web literacies — the abilities to utilize the Web for personal development — via Mozilla Foundation's four basic web literacies: Exploring (navigating while learning, questioning, evaluating), Cre..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

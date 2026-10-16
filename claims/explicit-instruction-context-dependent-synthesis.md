@@ -3,7 +3,7 @@ type: claim
 title: "Review synthesis: explicit teaching matters, but its advantage over other approaches varies by context and structure"
 description: "Review synthesis: explicit teaching matters, but its advantage over other approaches varies by context and structure"
 id: explicit-instruction-context-dependent-synthesis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -49,3 +49,4 @@ This is the reviewer's own narrative synthesis of the four studies (Andrews 2007
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related
 - [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](explicit-l2-grammar-instruction-superior-to-implicit.md) — a narrower finding that bears on this claim
 - [Implicit learners do not outperform other learners on complex second language rules](implicit-not-superior-complex-rules.md) — related
+- [No differential effect of explicit instruction depending on the variable complexity](no-differential-explicit-instruction-effect-complexity.md) — reports the opposite

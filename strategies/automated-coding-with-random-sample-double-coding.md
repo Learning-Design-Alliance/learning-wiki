@@ -3,7 +3,7 @@ type: strategy
 id: automated-coding-with-random-sample-double-coding
 title: Automate self-affirmation essay coding with a fine-tuned model while double-coding a random sample for reliability
 description: "The article recommends a structured workflow for scaling coding of open-ended student reflections: train the model on coded essays, validate reliability with sample human coding, apply it to new samples with sample-ba..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

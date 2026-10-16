@@ -3,7 +3,7 @@ type: design
 id: toddlerbot-high-school-rl-curriculum
 title: ToddlerBot-based humanoid curriculum instantiation for grades 9-12 with eight CS+AI sessions
 description: "The curriculum targets grades 9-12 with four students in two pairs, one ToddlerBot per pair, a recommended mentor-to-student ratio of 1:4, and \"Eight three-hour computer science and AI (CS+AI) sessions (24 contact hou..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

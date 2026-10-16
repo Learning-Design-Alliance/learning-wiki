@@ -3,7 +3,7 @@ type: strategy
 id: future-collaboration-efforts-clear-goals-adequate-scope-teacher-inclusion
 title: Design future cross-sector collaboration efforts with clear goals and sufficient time period and scope, and include teacher-level activities
 description: "This strategy distills the report's lessons for future cross-sector collaboration efforts between districts and charter schools."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

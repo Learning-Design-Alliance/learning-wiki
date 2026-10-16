@@ -3,7 +3,7 @@ type: claim
 title: California TK classrooms most commonly used social-emotional and literacy-specific curricula, but about a quarter of LEAs used kindergarten curriculum in TK
 description: California TK classrooms most commonly used social-emotional and literacy-specific curricula, but about a quarter of LEAs used kindergarten curriculum in TK
 id: tk-curricula-domain-specific-and-kindergarten-misalignment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

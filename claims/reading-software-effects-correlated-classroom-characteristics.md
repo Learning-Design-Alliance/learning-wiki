@@ -3,7 +3,7 @@ type: claim
 title: Effects of reading software products were correlated with student-teacher ratio in first-grade classrooms and with amount of product use in fourth-grade classrooms
 description: Effects of reading software products were correlated with student-teacher ratio in first-grade classrooms and with amount of product use in fourth-grade classrooms
 id: reading-software-effects-correlated-classroom-characteristics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

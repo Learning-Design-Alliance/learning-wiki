@@ -3,7 +3,7 @@ type: claim
 title: The intellectual quality of classroom assignments in Annenberg Challenge schools improved between 1997 and 1999, though some 1999 averages were lower than 1998
 description: The intellectual quality of classroom assignments in Annenberg Challenge schools improved between 1997 and 1999, though some 1999 averages were lower than 1998
 id: annenberg-assignment-quality-improved-1997-1999
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

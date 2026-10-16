@@ -3,7 +3,7 @@ type: claim
 title: Most U.S. states offer a stand-alone early childhood teaching credential, but fewer than half require lead public preschool teachers to hold one
 description: Most U.S.
 id: 46-states-stand-alone-ec-credential-19-require-it
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

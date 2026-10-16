@@ -63,7 +63,7 @@ CER converts the diffuse skill of "arguing from evidence" into a learnable, asse
 
 ## Examples
 - **McNeill & Krajcik's middle-school chemistry curriculum** — students explain whether two unknown substances are the same, writing CER responses from solubility and reaction data; the canonical implementation.
-- **OpenSciEd** (https://www.openscied.org) — open science curriculum units that repeatedly use "write an explanation" tasks structured around claim, evidence, and reasoning across grade levels.
+- **[OpenSciEd](../products/openscied.md)** (https://www.openscied.org) — open science curriculum units that repeatedly use "write an explanation" tasks structured around claim, evidence, and reasoning across grade levels.
 - **Data-based CER in biology** — students given graphs of antibiotic resistance write CER paragraphs explaining whether a resistance gene is plasmid-borne, citing specific data points as evidence.
 
 ## Key Sources

@@ -3,7 +3,7 @@ type: strategy
 id: ai-learning-partner-assessment-redesign-strategies
 title: Embed AI as a learning partner and redesign assessments for AI-rich contexts
 description: "The review's recommendations section advises instructors to proactively incorporate AI tools such as ChatGPT or domain-specific tutors as learning aids rather than view them only as threats, for example tasking studen..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

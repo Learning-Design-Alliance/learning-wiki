@@ -3,7 +3,7 @@ type: claim
 title: In a 2006 randomized trial, Building Blocks for Math significantly outperformed business-as-usual on the Early Mathematics Assessment
 description: In a 2006 randomized trial, Building Blocks for Math significantly outperformed business-as-usual on the Early Mathematics Assessment
 id: building-blocks-2006-rct-significant-math-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

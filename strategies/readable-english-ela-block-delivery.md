@@ -3,7 +3,7 @@ type: strategy
 id: readable-english-ela-block-delivery
 title: Deliver Readable English as whole-class and small-group instruction within the regular ELA block
 description: "In the qualifying study, the intervention was delivered \"as a whole class and in small groups during the regular ELA instruction block\", so students did not lose core ELA time to receive it."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

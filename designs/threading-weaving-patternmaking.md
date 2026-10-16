@@ -3,7 +3,7 @@ type: design
 id: threading-weaving-patternmaking
 title: Threading, Weaving, Patternmaking
 description: A three-phase science unit sequence that moves learners from critical annotation of texts exposing embedded bias, through cross-source synthesis, to speculative multimedia redesign of a more just future.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

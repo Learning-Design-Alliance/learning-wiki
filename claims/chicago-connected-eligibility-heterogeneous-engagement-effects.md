@@ -3,7 +3,7 @@ type: claim
 title: Chicago Connected eligibility was associated with higher fall 2020 engagement for high pre-pandemic GPA students but lower engagement for low pre-pandemic GPA students
 description: Chicago Connected eligibility was associated with higher fall 2020 engagement for high pre-pandemic GPA students but lower engagement for low pre-pandemic GPA students
 id: chicago-connected-eligibility-heterogeneous-engagement-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

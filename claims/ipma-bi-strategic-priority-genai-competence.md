@@ -3,7 +3,7 @@ type: claim
 title: "Importance-performance mapping identifies behavioural intention as the strategic priority for raising teachers' GenAI digital competence"
 description: "Importance-performance mapping identifies behavioural intention as the strategic priority for raising teachers' GenAI digital competence"
 id: ipma-bi-strategic-priority-genai-competence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

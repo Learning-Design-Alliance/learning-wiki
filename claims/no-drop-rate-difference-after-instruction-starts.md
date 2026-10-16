@@ -3,7 +3,7 @@ type: claim
 title: After instruction has begun, drop rates are essentially the same in online and onground continuing education classes
 description: After instruction has begun, drop rates are essentially the same in online and onground continuing education classes
 id: no-drop-rate-difference-after-instruction-starts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Structural barriers — fragmented health systems, insufficient reimbursement and workforce shortages — constrain integration of psychological care in diabetes services
 description: Structural barriers — fragmented health systems, insufficient reimbursement and workforce shortages — constrain integration of psychological care in diabetes services
 id: structural-barriers-psychological-care-integration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: "Applicants who contact a selective university's admissions office are more likely to be admitted"
 description: "Applicants who contact a selective university's admissions office are more likely to be admitted"
 id: applicant-contact-increases-admission-probability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

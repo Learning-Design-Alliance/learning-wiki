@@ -3,7 +3,7 @@ type: claim
 title: A negative behavioral path through frequent resubmissions counteracted the affective benefit of layered feedback
 description: A negative behavioral path through frequent resubmissions counteracted the affective benefit of layered feedback
 id: negative-behavioral-path-submissions-mediation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -4,7 +4,7 @@ id: adapted-stories
 title: AdaptED Stories
 description: A practitioner-facing web application developed by the AdaptED Stories research team for authoring, personalizing, and delivering Social Stories to autistic children, with practitioner review, reading-session supports, and analytics.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

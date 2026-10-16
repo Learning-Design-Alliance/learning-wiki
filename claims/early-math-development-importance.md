@@ -3,7 +3,7 @@ type: claim
 title: "Supporting early childhood math development is important for young children's development"
 description: "Supporting early childhood math development is important for young children's development"
 id: early-math-development-importance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

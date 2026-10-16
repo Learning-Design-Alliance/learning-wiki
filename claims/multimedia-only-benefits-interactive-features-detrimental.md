@@ -3,7 +3,7 @@ type: claim
 title: Multimedia-only stories benefit story comprehension, whereas stories that also include interactive features do not
 description: Multimedia-only stories benefit story comprehension, whereas stories that also include interactive features do not
 id: multimedia-only-benefits-interactive-features-detrimental
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

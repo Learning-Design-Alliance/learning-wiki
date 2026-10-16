@@ -4,7 +4,7 @@ id: genai-usage-behavior-scale
 title: GenAI Usage Behavior Scale
 description: A 15-item, five-point Likert self-report scale developed by Song Yafeng et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

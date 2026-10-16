@@ -3,7 +3,7 @@ type: claim
 title: The study examined seven Pennsylvania school districts to test whether hybrid-instruction COVID-19 trends paralleled or exceeded local community trends
 description: The study examined seven Pennsylvania school districts to test whether hybrid-instruction COVID-19 trends paralleled or exceeded local community trends
 id: seven-districts-hybrid-trend-comparison-study
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

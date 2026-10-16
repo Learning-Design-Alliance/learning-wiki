@@ -3,7 +3,7 @@ type: claim
 title: Focal paths are robust to background controls, which did not directly predict AI integration intention
 description: Focal paths are robust to background controls, which did not directly predict AI integration intention
 id: focal-paths-robust-to-background-controls
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

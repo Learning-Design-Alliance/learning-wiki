@@ -3,7 +3,7 @@ type: claim
 title: AI-generated diagnostic information is inherently incomplete, focusing on performance data and omitting contextual and motivational information
 description: AI-generated diagnostic information is inherently incomplete, focusing on performance data and omitting contextual and motivational information
 id: ai-diagnostic-information-incomplete-contextual-knowledge-needed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

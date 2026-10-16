@@ -4,7 +4,7 @@ id: the-toolkit
 title: the Toolkit
 description: The Toolkit is a four-part framework created by its authors to help teachers plan, implement, and evaluate technology-based lessons.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "The instructor's own final exam showed the same direction of advantage on the intact randomized sample, with no difference on the pre-treatment midterm"
 description: "The instructor's own final exam showed the same direction of advantage on the intact randomized sample, with no difference on the pre-treatment midterm"
 id: instructor-final-confirms-tutor-advantage-direction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

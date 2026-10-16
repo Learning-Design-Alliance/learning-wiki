@@ -3,7 +3,7 @@ type: design
 id: ucla-cs-dual-language-risa-biliteracy
 title: Dual-language program and Reader Identity Self-Assessment for biliteracy development
 description: UCLA-CS is a dual-language school offering content instruction in Spanish, Korean, and English, with elementary Spanish-English and Korean-English programs and a Grades 9-12 Spanish pathway; about 4 in 10 students ear...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

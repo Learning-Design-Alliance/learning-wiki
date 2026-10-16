@@ -3,7 +3,7 @@ type: claim
 title: "Dialogic Reading's average oral-language improvement index is +19 percentile points, ranging from –6 to +48 across findings"
 description: "Dialogic Reading's average oral-language improvement index is +19 percentile points, ranging from –6 to +48 across findings"
 id: dialogic-reading-oral-language-improvement-index
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

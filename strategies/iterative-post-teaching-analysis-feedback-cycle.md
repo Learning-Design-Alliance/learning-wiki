@@ -3,7 +3,7 @@ type: strategy
 id: iterative-post-teaching-analysis-feedback-cycle
 title: Iterative post-teaching analysis with rubric-aligned written feedback and revise-and-resubmit cycles
 description: A clinical-instructor routine in which candidates submit written post-teaching analyses, the instructor identifies gaps in evidence and alignment with rubric criteria, and candidates revise and resubmit.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

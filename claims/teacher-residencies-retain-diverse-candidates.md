@@ -3,7 +3,7 @@ type: claim
 title: Teacher residency program graduates are more racially diverse than other new teachers and much more likely to stay in teaching, especially in sponsoring high-need districts
 description: Teacher residency program graduates are more racially diverse than other new teachers and much more likely to stay in teaching, especially in sponsoring high-need districts
 id: teacher-residencies-retain-diverse-candidates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

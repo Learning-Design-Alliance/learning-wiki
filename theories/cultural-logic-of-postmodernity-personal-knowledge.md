@@ -2,7 +2,7 @@
 type: theory
 title: Personal knowledge genres sit within the cultural logic of postmodernity, where specific empowerment can accompany overall social control
 description: The article locates narrative and storying genres within emergent cultural patterns of contemporary societies and economies.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -45,4 +45,4 @@ The article locates narrative and storying genres within emergent cultural patte
 -
 
 ## Key Sources
-- Goodson, Ivor F. (1994). 'The Story So Far': Personal Knowledge and the Political. https://eric.ed.gov/?id=ED376160
+- Goodson, Ivor F. (1994). 'The Story So Far': Personal Knowledge and the Political. https://eric.ed.gov/?id=ED376160. [doi:10.1080/0951839950080109](https://doi.org/10.1080/0951839950080109)

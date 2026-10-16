@@ -3,7 +3,7 @@ type: strategy
 id: use-what-works-clearinghouse-as-engagement-base
 title: Use the What Works Clearinghouse and other sources of research findings as a base for educator-researcher engagement
 description: The article positions the What Works Clearinghouse, together with other sources of research findings, as the base from which educators engage with researchers to advance practice.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

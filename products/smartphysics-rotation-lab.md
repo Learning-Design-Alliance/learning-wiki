@@ -4,7 +4,7 @@ id: smartphysics-rotation-lab
 title: "SmartPhysics: Rotation Lab"
 description: A self-contained, AI-generated browser application developed by Josep Ll.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: parent-support-freshman-attendance-priority
 title: "Parents should reinforce on-time attendance, communicate with teachers, and make academics the freshman's top priority"
 description: "The brief recommends three concrete parent actions for the freshman year: reinforcing on-time attendance and no class cutting, talking with teachers when grades start to fall, and making academics the top priority inc..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

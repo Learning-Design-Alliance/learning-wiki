@@ -3,7 +3,7 @@ type: claim
 title: A Florida READ 180 study found positive outcomes for students at moderate risk but negative effects for students at high risk (average effect size +0.12)
 description: A Florida READ 180 study found positive outcomes for students at moderate risk but negative effects for students at high risk (average effect size +0.12)
 id: read-180-florida-effects-vary-by-risk-level
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

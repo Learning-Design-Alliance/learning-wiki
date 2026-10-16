@@ -3,7 +3,7 @@ type: claim
 title: "MathCog: a benchmark of 3,036 teacher-annotated diagnostic verdicts over 639 handwritten student responses to 110 math problems with Evident/Vague evidence labels"
 description: "MathCog: a benchmark of 3,036 teacher-annotated diagnostic verdicts over 639 handwritten student responses to 110 math problems with Evident/Vague evidence labels"
 id: mathcog-benchmark-dataset
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

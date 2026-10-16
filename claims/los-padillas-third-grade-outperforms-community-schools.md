@@ -3,7 +3,7 @@ type: claim
 title: Los Padillas 3rd-graders in 2023–24 outperformed peers in other APS community schools in both ELA and math
 description: Los Padillas 3rd-graders in 2023–24 outperformed peers in other APS community schools in both ELA and math
 id: los-padillas-third-grade-outperforms-community-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

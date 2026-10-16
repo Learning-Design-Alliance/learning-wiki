@@ -4,7 +4,7 @@ id: three-category-framework-for-organizing-school-mental-health-and-well-being-
 title: Three-category framework for organizing school mental health and well-being supports
 description: A National Charter School Resource Center framework that helps public charter-school leaders organize and assess school mental-health, well-being, and SEL supports across three categories.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

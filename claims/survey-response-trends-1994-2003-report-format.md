@@ -3,7 +3,7 @@ type: claim
 title: Survey snapshots and trend graphs track school development measure responses from 1994 to 2003
 description: Survey snapshots and trend graphs track school development measure responses from 1994 to 2003
 id: survey-response-trends-1994-2003-report-format
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Chicago high school reform efforts of the late 1990s were studied at the district, school, and departmental levels in a 2001 conference volume
 description: Chicago high school reform efforts of the late 1990s were studied at the district, school, and departmental levels in a 2001 conference volume
 id: chicago-high-school-reform-multi-level-studies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

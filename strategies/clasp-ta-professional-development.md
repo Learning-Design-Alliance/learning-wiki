@@ -3,7 +3,7 @@ type: strategy
 id: clasp-ta-professional-development
 title: Multi-component TA professional development program for teaching interactive-engagement discussion/labs
 description: "Because graduate TAs lead over 90% of CLASP DL sections, the program runs a significant professional development sequence for new TAs: a mandatory 3-day introduction in which TAs experience CLASP activities as student..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -46,4 +46,4 @@ Because graduate TAs lead over 90% of CLASP DL sections, the program runs a sign
 -
 
 ## Key Sources
-- Potter, W., Webb, D., West, E., Paul, C., Bowen, M., Weiss, B., Coleman, L., & De Leone, C. (2018). Sixteen years of Collaborative Learning through Active Sense-making in Physics (CLASP) at UC Davis. https://arxiv.org/abs/1205.6970
+- Potter, W., Webb, D., West, E., Paul, C., Bowen, M., Weiss, B., Coleman, L., & De Leone, C. (2018). Sixteen years of Collaborative Learning through Active Sense-making in Physics (CLASP) at UC Davis. https://arxiv.org/abs/1205.6970. [doi:10.48550/arxiv.1205.6970](https://doi.org/10.48550/arxiv.1205.6970)

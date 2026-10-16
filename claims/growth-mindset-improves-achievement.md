@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

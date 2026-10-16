@@ -3,7 +3,7 @@ type: claim
 title: L2 learners pick up vocabulary incidentally from meaning-focused input, with reading the most-studied mode and listening yielding similar proportions of words learned
 description: "L2 learners pick up vocabulary incidentally from meaning-focused input, with reading the most-studied mode and listening yielding similar proportions of words learned"
 id: incidental-vocabulary-learning-through-reading-for-meaning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -83,3 +83,7 @@ Webb et al. (2023) support the first half of this claim and qualify the second: 
 - [First language evidence shows extensive reading for meaning leads to vocabulary acquisition over time, probably accounting for most L1 vocabulary growth beyond the first few thousand common words](l1-extensive-reading-drives-vocabulary-growth.md) — related
 - [Available second language research indicates extensive reading programs are generally more effective than systematic vocabulary instruction using decontextualized exercises](l2-extensive-reading-beats-decontextualized-vocabulary-exercises.md) — possibly the same claim (merge candidate)
 - [Classroom experiments test whether instructional procedures that increase the salience and cognitive processing of targeted words in reading texts can support L2 vocabulary acquisition](vocabulary-enhancement-activities-support-reading-acquisition.md) — a narrower finding that bears on this claim
+- [The L1-L2 distinction in incidental vocabulary acquisition from reading lies in the rate, not the ultimate outcome, of the acquisition process](l1-l2-distinction-rate-not-outcome.md) — related
+- [Before this study, no research had explored incidental vocabulary learning through viewing a single full-length TV program](no-prior-studies-single-full-length-tv-viewing-vocabulary.md) — a narrower finding that bears on this claim
+- [Prior vocabulary knowledge moderates vocabulary learning gains in an extensive reading program, with high-level learners gaining more than intermediate and low-level learners](prior-vocabulary-knowledge-moderates-extensive-reading-gains.md) — a narrower finding that bears on this claim
+- [Meaning-focused exposure to spoken L2 input yields large vocabulary gains (g = 1.05) in incidental word learning](spoken-input-incidental-l2-word-learning-large-gains.md) — a narrower finding that bears on this claim

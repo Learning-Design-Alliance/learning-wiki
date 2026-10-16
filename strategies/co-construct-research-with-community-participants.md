@@ -3,7 +3,7 @@ type: strategy
 id: co-construct-research-with-community-participants
 title: Actively involve community members and study participants in the co-construction of research
 description: "The brief recommends that researchers move beyond studying communities to working with them, noting that \"Researchers are increasingly engaging in efforts to actively involve community members and study participants i..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

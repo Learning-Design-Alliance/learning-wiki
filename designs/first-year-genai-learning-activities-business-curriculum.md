@@ -3,7 +3,7 @@ type: design
 id: first-year-genai-learning-activities-business-curriculum
 title: AI-focused learning activities in the first-year undergraduate business curriculum
 description: The instructional element evaluated in this case study is a set of newly implemented AI-focused learning activities introduced into the first-year undergraduate curriculum of a UK business school.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

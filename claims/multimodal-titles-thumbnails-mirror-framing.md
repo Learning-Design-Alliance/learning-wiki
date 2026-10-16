@@ -3,7 +3,7 @@ type: claim
 title: "Titles and thumbnails mirror transcript framing: learning-oriented language and imagery dominate G1/G2 while productivity and urgency language dominate G3"
 description: "Titles and thumbnails mirror transcript framing: learning-oriented language and imagery dominate G1/G2 while productivity and urgency language dominate G3"
 id: multimodal-titles-thumbnails-mirror-framing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

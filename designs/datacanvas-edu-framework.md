@@ -3,7 +3,7 @@ type: design
 id: datacanvas-edu-framework
 title: "DataCanvas-EDU: a four-phase agentic framework for instructor-guided synthetic data generation"
 description: DataCanvas-EDU is an agentic framework in which the instructor specifies a teaching brief (business setting, learner level, permitted tools, assignment scope) and intended patterns through conversation, while an AI ag...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

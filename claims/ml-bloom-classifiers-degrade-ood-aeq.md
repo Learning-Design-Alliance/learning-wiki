@@ -3,7 +3,7 @@ type: claim
 title: Feature-based ML Bloom classifiers trained on IID data degrade sharply on out-of-distribution AI-assisted questions
 description: Feature-based ML Bloom classifiers trained on IID data degrade sharply on out-of-distribution AI-assisted questions
 id: ml-bloom-classifiers-degrade-ood-aeq
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

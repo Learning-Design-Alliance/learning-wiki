@@ -3,7 +3,7 @@ type: design
 id: diagnostic-review-mechanism-ai-formative-assessment
 title: "The diagnostic-review mechanism: AI issue-level diagnosis passing through student interpretation, revision, teacher review, and reflection"
 description: The article proposes a classroom sequence in which AI diagnostic feedback becomes formative only through downstream activity.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

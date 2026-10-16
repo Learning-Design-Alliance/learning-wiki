@@ -3,7 +3,7 @@ type: element
 id: mmla-design-body-sensors-eye-tracking-speech-recognition-maritime
 title: Proposed MMLA design for maritime simulation combining body sensors, eye-tracking, and speech recognition
 description: "The proposed multimodal learning analytics design for full-mission bridge simulators proposes sensors and technologies to capture collaborative navigation training: \"Body sensors: Capturing the amount of movement, stu..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

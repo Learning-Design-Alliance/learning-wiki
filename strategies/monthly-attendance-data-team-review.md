@@ -3,7 +3,7 @@ type: strategy
 id: monthly-attendance-data-team-review
 title: Use a monthly school attendance team to review data and problem-solve
 description: "ATI-UP requires each school to \"designate a team of at least three members (administrator, interventionist, and teacher) who meet monthly to review attendance data and problem-solving.\" This regular data-review cycle..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

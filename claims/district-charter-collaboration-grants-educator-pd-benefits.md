@@ -3,7 +3,7 @@ type: claim
 title: Educator grantees in the District-Charter Collaboration Grants cited collaborative work on classroom observation, operations alignment, and curriculum development as particularly helpful to their professional development
 description: Educator grantees in the District-Charter Collaboration Grants cited collaborative work on classroom observation, operations alignment, and curriculum development as particularly helpful to their professional development
 id: district-charter-collaboration-grants-educator-pd-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

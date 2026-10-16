@@ -3,7 +3,7 @@ type: claim
 title: Teacher-researchers in funds of knowledge work face difficulties, including helpless pessimism and heavy time demands; reflective after-school labs helped dispel the pessimism, and teachers judged the process worthwhile despite the strain.
 description: Teacher-researchers in funds of knowledge work face difficulties, including helpless pessimism and heavy time demands; reflective after-school labs helped dispel the pessimism, and teachers judged the process worthwhile despite the strain.
 id: teacher-researcher-difficulties-eased-by-reflective-labs
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

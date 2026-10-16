@@ -3,7 +3,7 @@ type: claim
 title: A majority of teachers believed REACH relied too heavily on standardized tests, with special education teachers especially critical
 description: A majority of teachers believed REACH relied too heavily on standardized tests, with special education teachers especially critical
 id: teachers-hesitant-student-growth-evaluation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

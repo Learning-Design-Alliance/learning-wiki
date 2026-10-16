@@ -3,7 +3,7 @@ type: claim
 title: AI self-reported confidence flags identify parts with smaller grading differences, but some high-confidence parts still differ from official scores by more than one point
 description: AI self-reported confidence flags identify parts with smaller grading differences, but some high-confidence parts still differ from official scores by more than one point
 id: confidence-flags-triage-human-review
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

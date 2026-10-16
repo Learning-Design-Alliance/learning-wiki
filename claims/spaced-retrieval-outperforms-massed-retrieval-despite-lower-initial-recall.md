@@ -3,7 +3,7 @@ type: claim
 title: Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention
 description: Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention
 id: spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24
@@ -93,3 +93,4 @@ In the same Karpicke and Bauernschmidt (2011) experiment, as the chapter reports
 - [A middle school math teacher replaced rereading with three retrieval-practice strategies after learning that rereading is not effective for long-term retention](retrieval-practice-implementation-case-newell.md) — related
 - [Retrieval practice enhances learning across domains and the lifespan in applied educational settings](retrieval-practice-enhances-learning-applied-settings.md) — a broader claim this one bears on
 - [Spaced retrieval practice (successive relearning) produced multi-year retention of foreign language vocabulary in adults, as reported by the review](spaced-retrieval-multiyear-vocabulary-retention.md) — related
+- [Performance on final tests of learning is improved when multiple study sessions are spaced apart in time rather than massed in immediate succession](spacing-improves-final-test-performance.md) — related

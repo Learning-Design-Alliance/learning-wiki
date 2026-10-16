@@ -3,7 +3,7 @@ type: design
 id: four-condition-computerized-l2-rule-training
 title: Four-condition computerized training design for implicit, incidental, rule-search, and instructed L2 rule learning
 description: A computerized training apparatus in which 104 adult ESL learners were randomly assigned to implicit, incidental, rule-search, or instructed conditions, then judged novel tokens of easy and hard rule sentence types.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-15

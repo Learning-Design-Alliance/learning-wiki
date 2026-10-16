@@ -3,7 +3,7 @@ type: claim
 title: Minimally guided instruction is less effective and less efficient than instruction that places a strong emphasis on guidance of the student learning process
 description: Minimally guided instruction is less effective and less efficient than instruction that places a strong emphasis on guidance of the student learning process
 id: minimally-guided-instruction-less-effective-than-strong-guidance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

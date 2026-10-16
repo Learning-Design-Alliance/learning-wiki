@@ -3,7 +3,7 @@ type: claim
 title: "90% of surveyed district leaders and solution providers would participate in another Learning Salon even if no changes were made"
 description: "90% of surveyed district leaders and solution providers would participate in another Learning Salon even if no changes were made"
 id: ninety-percent-would-repeat-salon
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

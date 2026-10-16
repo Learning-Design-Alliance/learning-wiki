@@ -3,7 +3,7 @@ type: claim
 title: User engagement with GAI tools is filtered through imagined affordances rather than direct encounter with software functionalities
 description: User engagement with GAI tools is filtered through imagined affordances rather than direct encounter with software functionalities
 id: imagined-affordances-filter-gai-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

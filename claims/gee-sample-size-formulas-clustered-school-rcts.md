@@ -3,7 +3,7 @@ type: claim
 title: Sample size formulas for clustered designs with school- or teacher-level random assignment are derived using generalized estimating equation methods
 description: Sample size formulas for clustered designs with school- or teacher-level random assignment are derived using generalized estimating equation methods
 id: gee-sample-size-formulas-clustered-school-rcts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -49,5 +49,4 @@ Theoretical analysis reported in the article's abstract. It derives sample size 
 - [A methodological review identifies six key decisions school health researchers must address when designing, conducting, and analyzing cluster randomized trials](six-key-decisions-cluster-randomized-school-health-trials.md) — related
 - [The developed estimators apply to a wide range of education research designs, including clustered and blocked designs](design-based-estimators-clustered-blocked-designs.md) — related
 - [Clustering effects in education random-assignment trials vary by design but are typically large, requiring large school samples](clustering-effects-large-school-samples-education-trials.md) — related
-- [Clustering effects vary by design but are typically large in education random-assignment evaluations](clustering-effects-typically-large-education-designs.md) — related
 - [The evaluation used a school-level cluster-randomized quasi-experiment (N = 50) that was powered only to detect large effects (d = 0.81)](cluster-randomized-quasi-experiment-powered-for-large-effects.md) — related

@@ -3,7 +3,7 @@ type: strategy
 id: raise-teacher-awareness-new-feature-pd-outreach
 title: Raise teacher awareness of new features through professional development and outreach
 description: "The report's third key takeaway is that raising teacher awareness of additional features is critical so that the supports are actually used in the classroom."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -48,4 +48,4 @@ The report's third key takeaway is that raising teacher awareness of additional 
 -
 
 ## Key Sources
-- Tare, M., Nobles, S., & Xiao, W. (2018). Partnerships that work: Tapping research to address learner variability in young readers. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/e59c6e47-4209-4187-a0ef-b8da08283ec6
+- Tare, M., Nobles, S., & Xiao, W. (2018). Partnerships that work: Tapping research to address learner variability in young readers. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/e59c6e47-4209-4187-a0ef-b8da08283ec6. [doi:10.51388/20.500.12265/67](https://doi.org/10.51388/20.500.12265/67)

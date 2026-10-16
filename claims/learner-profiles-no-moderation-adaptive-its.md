@@ -3,7 +3,7 @@ type: claim
 title: Latent learner profiles did not moderate the effectiveness of the adaptive ITS
 description: Latent learner profiles did not moderate the effectiveness of the adaptive ITS
 id: learner-profiles-no-moderation-adaptive-its
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

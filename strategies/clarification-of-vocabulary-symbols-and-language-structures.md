@@ -96,7 +96,7 @@ Vocabulary knowledge is one of the strongest correlates of reading comprehension
 
 ## Examples
 - **Word Generation** (https://www.serpinstitute.org/word-generation) — SERP Institute's middle-school program that teaches high-utility academic vocabulary through repeated, discussion-embedded encounters across subject areas.
-- **Frayer Model** — a four-quadrant graphic (definition, characteristics, examples, non-examples) used to clarify terms relationally rather than definitionally.
+- **[Frayer Model](frayer-model.md)** — a four-quadrant graphic (definition, characteristics, examples, non-examples) used to clarify terms relationally rather than definitionally.
 - **Math notation walkthroughs** — a teacher introduces the Σ symbol by connecting it to the written phrase "add up all of these," showing the same sum in words, symbols, and expanded form side by side.
 - **Hyperlinked glossaries in digital textbooks** — e.g., Khan Academy articles define terms inline on hover, providing just-in-time clarification without leaving the page.
 - **Word Generation** (SERP Institute, https://www.wordgeneration.org) — a published middle-school program teaching high-utility academic vocabulary through repeated encounters across subject areas, with discussion and writing activities.

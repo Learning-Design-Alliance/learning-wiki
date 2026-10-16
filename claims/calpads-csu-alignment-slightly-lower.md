@@ -3,7 +3,7 @@ type: claim
 title: "CALPADS-CSU alignment was slightly lower than CALPADS-UC alignment, with about 70% of courses exactly aligned and GPAs within three tenths for close to 90% of students"
 description: "CALPADS-CSU alignment was slightly lower than CALPADS-UC alignment, with about 70% of courses exactly aligned and GPAs within three tenths for close to 90% of students"
 id: calpads-csu-alignment-slightly-lower
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

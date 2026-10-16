@@ -3,7 +3,7 @@ type: claim
 title: Students in both conditions named awareness of their reliance on AI as the most valuable course outcome, and unrestricted-AI students described shallow engagement they could not stop
 description: Students in both conditions named awareness of their reliance on AI as the most valuable course outcome, and unrestricted-AI students described shallow engagement they could not stop
 id: reliance-awareness-most-valued-outcome
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -18,8 +18,8 @@ sources:
     kind: causal
     rigour: 2
   - id: azimi-2026-2
-    resource: "https://arxiv.org/abs/2609.16784"
-    title: "Azimi, S. (2026). AI Literacy over Tool Design: A Mixed-Methods Study of Scaffolded versus Unrestricted Generative AI in Programming Education. Delft University of Technology. https://arxiv.org/abs/2609.16784"
+    resource: "https://doi.org/10.48550/arxiv.2609.16784"
+    title: "Azimi, S. (2026). AI Literacy over Tool Design: A Mixed-Methods Study of Scaffolded versus Unrestricted Generative AI in Programming Education. Delft University of Technology. https://arxiv.org/abs/2609.16784. [doi:10.48550/arxiv.2609.16784](https://doi.org/10.48550/arxiv.2609.16784)"
     author: Azimi, S.
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Students in both conditions named awareness of their reliance on AI as the most valuable course outcome, and unrestricted-AI students described shallow engagement they could not stop
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1`–`r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Interviewees in both conditions said becoming aware of how much they relied on AI was the most useful outcome of the sessions. [→ Azimi 2026](#azimi-2026)
@@ -50,7 +50,7 @@ Thematic coding of six semi-structured interviews with students from both condit
 
 ### Azimi 2026 (2)
 
-Azimi, S. (2026). AI Literacy over Tool Design: A Mixed-Methods Study of Scaffolded versus Unrestricted Generative AI in Programming Education. Delft University of Technology. https://arxiv.org/abs/2609.16784
+Azimi, S. (2026). AI Literacy over Tool Design: A Mixed-Methods Study of Scaffolded versus Unrestricted Generative AI in Programming Education. Delft University of Technology. https://arxiv.org/abs/2609.16784. [doi:10.48550/arxiv.2609.16784](https://doi.org/10.48550/arxiv.2609.16784)
 
 `q2 · i?` · `causal · r1`
 

@@ -3,7 +3,7 @@ type: claim
 title: Academic staff experienced the AIAS as a shared language that legitimised GenAI use in teaching and assessment
 description: Academic staff experienced the AIAS as a shared language that legitimised GenAI use in teaching and assessment
 id: aias-shared-language-legitimises-genai-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

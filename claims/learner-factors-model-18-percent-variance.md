@@ -3,7 +3,7 @@ type: claim
 title: "L2 proficiency, anxiety, and mastery of strategies jointly explain 18% of variance in incidental vocabulary acquisition"
 description: "L2 proficiency, anxiety, and mastery of strategies jointly explain 18% of variance in incidental vocabulary acquisition"
 id: learner-factors-model-18-percent-variance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

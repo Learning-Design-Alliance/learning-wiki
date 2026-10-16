@@ -3,7 +3,7 @@ type: element
 id: patterson-client-centered-career-counseling-chapter
 title: "Patterson's chapter on client-centered career counseling"
 description: "In the 1960s, Henry Borow commissioned Patterson to write a chapter for \"Man in a World at Work\", the fiftieth anniversary publication of the National Vocational Guidance Association."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

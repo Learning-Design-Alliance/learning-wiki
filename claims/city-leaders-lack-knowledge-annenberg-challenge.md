@@ -3,7 +3,7 @@ type: claim
 title: City leaders showed substantial lack of knowledge of the Chicago Annenberg Challenge, with about half of business and government leaders unable to describe its goals
 description: City leaders showed substantial lack of knowledge of the Chicago Annenberg Challenge, with about half of business and government leaders unable to describe its goals
 id: city-leaders-lack-knowledge-annenberg-challenge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Case study districts show potential underinvestment in family support and engagement, with most reporting no English Learner family/community liaisons
 description: Case study districts show potential underinvestment in family support and engagement, with most reporting no English Learner family/community liaisons
 id: underinvestment-in-el-family-engagement-liaisons
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

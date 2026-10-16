@@ -3,7 +3,7 @@ type: claim
 title: Longer operating and better implemented community school programs yield more positive results for students and schools
 description: Longer operating and better implemented community school programs yield more positive results for students and schools
 id: implementation-dose-response-community-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

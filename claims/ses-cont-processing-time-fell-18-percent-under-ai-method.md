@@ -3,7 +3,7 @@ type: claim
 title: "In the first year under the structured AI training method, SES/CONT's average case processing time fell 18.2% (17.92 to 14.66 days) while documentary output per case stayed stable"
 description: "In the first year under the structured AI training method, SES/CONT's average case processing time fell 18.2% (17.92 to 14.66 days) while documentary output per case stayed stable"
 id: ses-cont-processing-time-fell-18-percent-under-ai-method
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

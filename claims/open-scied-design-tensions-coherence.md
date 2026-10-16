@@ -3,7 +3,7 @@ type: claim
 title: OpenSciEd curriculum design goals, especially coherence from the student perspective, come into tension during unit design
 description: OpenSciEd curriculum design goals, especially coherence from the student perspective, come into tension during unit design
 id: open-scied-design-tensions-coherence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

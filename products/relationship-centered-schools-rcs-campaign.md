@@ -4,7 +4,7 @@ id: relationship-centered-schools-rcs-campaign
 title: Relationship Centered Schools (RCS) campaign
 description: A youth-led school-transformation initiative run by Californians for Justice that supports relationship-building, student voice, and staff investment in secondary schools.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

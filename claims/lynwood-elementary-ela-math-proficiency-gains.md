@@ -3,7 +3,7 @@ type: claim
 title: After becoming community schools, 11 of 12 Lynwood elementary schools increased the percentage of students meeting or exceeding the ELA proficiency standard, and 10 did so in math.
 description: After becoming community schools, 11 of 12 Lynwood elementary schools increased the percentage of students meeting or exceeding the ELA proficiency standard, and 10 did so in math.
 id: lynwood-elementary-ela-math-proficiency-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

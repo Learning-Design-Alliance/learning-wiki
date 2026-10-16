@@ -3,7 +3,7 @@ type: strategy
 id: ethical-safeguards-pedagogical-frameworks-genai-deployment
 title: Adopt ethical safeguards and pedagogically grounded frameworks when deploying GenAI assessment tools
 description: This strategy directs educators and policymakers to pair any GenAI assessment deployment with explicit ethical safeguards and a pedagogically grounded framework.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
@@ -49,6 +49,7 @@ This strategy directs educators and policymakers to pair any GenAI assessment de
 - [Address core ethical challenges—data privacy, algorithmic fairness, and transparency—when deploying AI-driven personalized learning](ethical-safeguards-ai-personalized-learning.md)
 - [Adopt LLMs in higher education only alongside organizational readiness, ethical guidance and professional development](llm-adoption-requires-readiness-ethics-professional-development.md)
 - [Deploy agentic AI in education with transparency about agentic decisions, human oversight and institutional responsibility](responsible-deployment-transparency-human-oversight-agentic-ai.md)
+- [Adopt a clear pedagogical approach focused on critical thinking and fact-checking strategies when integrating LLMs into curricula](critical-thinking-fact-checking-llm-integration.md)
 
 ## Examples
 -

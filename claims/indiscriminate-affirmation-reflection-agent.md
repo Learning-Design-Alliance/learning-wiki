@@ -3,7 +3,7 @@ type: claim
 title: "The agent's praise was indiscriminate affirmation: validation followed about half of participant turns regardless of what the participant said"
 description: "The agent's praise was indiscriminate affirmation: validation followed about half of participant turns regardless of what the participant said"
 id: indiscriminate-affirmation-reflection-agent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

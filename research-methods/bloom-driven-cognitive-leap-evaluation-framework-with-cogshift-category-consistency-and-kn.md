@@ -3,7 +3,7 @@ type: research-method
 id: bloom-driven-cognitive-leap-evaluation-framework-with-cogshift-category-consistency-and-kn
 title: Bloom-driven cognitive-leap evaluation framework with CogShift, category consistency, and knowledge coverage metrics
 description: "A Bloom's-Taxonomy-driven framework for evaluating LLM-generated educational questions that pivots \"from a knowledge-point perspective to a cognitive-leap paradigm\"."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Adolescents with self-disclosure or instrumental help-seeking preferences show higher adaptive coping and prosocial behaviors, and the self-disclosure group shows the lowest maladaptive coping and bullying, in ANOVA comparisons
 description: Adolescents with self-disclosure or instrumental help-seeking preferences show higher adaptive coping and prosocial behaviors, and the self-disclosure group shows the lowest maladaptive coping and bullying, in ANOVA c...
 id: anova-group-differences-conversation-preferences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

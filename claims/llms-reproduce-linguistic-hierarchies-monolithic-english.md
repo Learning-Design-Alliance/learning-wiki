@@ -3,7 +3,7 @@ type: claim
 title: Current LLMs reproduce linguistic hierarchies by being built on dominant standard English varieties, producing a monolithic English that ignores regional variation
 description: Current LLMs reproduce linguistic hierarchies by being built on dominant standard English varieties, producing a monolithic English that ignores regional variation
 id: llms-reproduce-linguistic-hierarchies-monolithic-english
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

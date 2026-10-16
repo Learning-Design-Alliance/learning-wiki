@@ -3,7 +3,7 @@ type: element
 id: evidence-based-public-informing-agenda
 title: Evidence-based public informing agenda on reform progress and challenges
 description: "The book identifies a sustained public informing agenda as one of the levels at which Chicago's improvement occurred."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

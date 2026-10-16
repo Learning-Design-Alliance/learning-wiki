@@ -3,7 +3,7 @@ type: claim
 title: Core-Ed dimensions capture part of the FineWeb-Edu scalar signal while remaining not individually redundant with it (six-dimension cross-validated R2 of 0.228)
 description: Core-Ed dimensions capture part of the FineWeb-Edu scalar signal while remaining not individually redundant with it (six-dimension cross-validated R2 of 0.228)
 id: core-ed-dimensions-decompose-fineweb-edu-signal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Differences in rapid guessing between subgroups generally do not impact substantive interpretations of achievement gaps
 description: Differences in rapid guessing between subgroups generally do not impact substantive interpretations of achievement gaps
 id: rapid-guessing-generally-does-not-change-gap-interpretations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

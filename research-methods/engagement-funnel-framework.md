@@ -3,7 +3,7 @@ type: research-method
 id: engagement-funnel-framework
 title: Engagement funnel framework
 description: "The paper adapts Callahan et al.'s (2019) funnel of influences on occupational identity into a narrowed \"engagement funnel\" of awareness, interest, and engagement, used as the organizing coding scheme for interviews and observations."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

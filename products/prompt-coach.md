@@ -4,7 +4,7 @@ id: prompt-coach
 title: Prompt Coach
 description: Prompt Coach is a multi-agent tutoring software system for professional developers that provides in-IDE guidance on crafting code-generation prompts, developed by Rohit Mehra et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

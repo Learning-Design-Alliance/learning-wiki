@@ -3,7 +3,7 @@ type: claim
 title: The evidence base for Headsprout Early Reading is limited to one small RCT, supporting only a potentially positive rating
 description: The evidence base for Headsprout Early Reading is limited to one small RCT, supporting only a potentially positive rating
 id: headsprout-evidence-base-small-one-study
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

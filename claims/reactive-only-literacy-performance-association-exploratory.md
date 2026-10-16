@@ -3,7 +3,7 @@ type: claim
 title: Condition-specific mediation estimates showed a literacy–performance association in the reactive condition but not the proactive condition, with indirect effects not significant
 description: Condition-specific mediation estimates showed a literacy–performance association in the reactive condition but not the proactive condition, with indirect effects not significant
 id: reactive-only-literacy-performance-association-exploratory
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

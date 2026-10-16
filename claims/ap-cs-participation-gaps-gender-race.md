@@ -3,7 +3,7 @@ type: claim
 title: AP Computer Science participation is disproportionately low among girls and students of color
 description: AP Computer Science participation is disproportionately low among girls and students of color
 id: ap-cs-participation-gaps-gender-race
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: The WWC rates Project CRISS® as having potentially positive effects on comprehension for adolescent learners, with an average improvement index of +20 percentile points
 description: The WWC rates Project CRISS® as having potentially positive effects on comprehension for adolescent learners, with an average improvement index of +20 percentile points
 id: project-criss-potentially-positive-comprehension-rating
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

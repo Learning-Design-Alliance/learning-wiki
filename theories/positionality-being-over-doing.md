@@ -2,7 +2,7 @@
 type: theory
 title: "Positionality pedagogy as 'being' rather than 'doing': modeling justice and equity across all of a teacher's work"
 description: "The article articulates an orientation in which teaching about justice and equity depends on the instructor's own authentic self-examination rather than on particular activities."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

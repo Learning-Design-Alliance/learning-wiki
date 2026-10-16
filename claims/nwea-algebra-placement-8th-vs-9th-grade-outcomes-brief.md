@@ -4,7 +4,7 @@ title: A NWEA research brief examines whether taking Algebra in 8th grade instea
 description: A NWEA research brief examines whether taking Algebra in 8th grade instead of 9th grade improves student outcomes
 id: nwea-algebra-placement-8th-vs-9th-grade-outcomes-brief
 aliases: [algebra-placement-8th-versus-9th-grade-brief, algebra-8th-versus-9th-grade-placement-outcomes-examined, algebra-8th-grade-placement-outcomes-study, algebra-8th-grade-placement-readiness-enrollment-outcomes, algebra-placement-8th-versus-9th-grade-outcomes, algebra-8th-grade-placement-outcomes-brief]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

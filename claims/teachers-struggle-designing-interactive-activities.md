@@ -3,7 +3,7 @@ type: claim
 title: Teachers had minimal success designing Constructive and Interactive activities after ICAP professional development
 description: Teachers had minimal success designing Constructive and Interactive activities after ICAP professional development
 id: teachers-struggle-designing-interactive-activities
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

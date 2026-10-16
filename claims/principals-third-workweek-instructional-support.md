@@ -3,7 +3,7 @@ type: claim
 title: Elementary school principals spend more than one-third of their workweek providing instructional support to teachers, split fairly evenly between direct and indirect support
 description: Elementary school principals spend more than one-third of their workweek providing instructional support to teachers, split fairly evenly between direct and indirect support
 id: principals-third-workweek-instructional-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

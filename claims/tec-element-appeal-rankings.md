@@ -3,7 +3,7 @@ type: claim
 title: Teachers rated Session 1 DVD episodes and Prankster Planet as the most appealing TEC elements and worksheets as least appealing
 description: Teachers rated Session 1 DVD episodes and Prankster Planet as the most appealing TEC elements and worksheets as least appealing
 id: tec-element-appeal-rankings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Black/African American and Hispanic/Latino students were overrepresented in lower QR placement categories relative to their share of the 2018 CSU entering cohort
 description: Black/African American and Hispanic/Latino students were overrepresented in lower QR placement categories relative to their share of the 2018 CSU entering cohort
 id: eo1110-racial-disproportionality-qr-placement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

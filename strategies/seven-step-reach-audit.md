@@ -3,7 +3,7 @@ type: strategy
 id: seven-step-reach-audit
 title: Seven-step reach audit of a course
 description: "The paper offers educators a diagnostic procedure: name the outcomes the course should protect; describe the actual (not intended) setting of each lever; identify a consequential unsupervised moment; ask what remains..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

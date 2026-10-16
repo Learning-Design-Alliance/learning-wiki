@@ -3,7 +3,7 @@ type: claim
 title: Personal innovativeness did not significantly influence behavioral intention to use ChatGPT
 description: Personal innovativeness did not significantly influence behavioral intention to use ChatGPT
 id: personal-innovativeness-null-intention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

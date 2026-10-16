@@ -3,7 +3,7 @@ type: claim
 title: "Active learning's performance benefits hold across all STEM disciplines"
 description: "Active learning's performance benefits hold across all STEM disciplines"
 id: active-learning-benefits-hold-across-stem-disciplines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

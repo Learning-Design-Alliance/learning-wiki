@@ -3,7 +3,7 @@ type: claim
 title: In a 2007 randomized trial, Building Blocks for Math significantly improved geometry but not number outcomes
 description: In a 2007 randomized trial, Building Blocks for Math significantly improved geometry but not number outcomes
 id: building-blocks-2007-geometry-significant-number-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

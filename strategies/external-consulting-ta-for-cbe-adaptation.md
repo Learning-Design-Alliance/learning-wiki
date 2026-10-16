@@ -3,7 +3,7 @@ type: strategy
 id: external-consulting-ta-for-cbe-adaptation
 title: Use external consulting and technical assistance to help colleges adapt programs to time-variant CBE models
 description: "The brief describes Western Governors University as \"providing consulting and technical assistance to help the consortium colleges adapt their programs to time-variant, competency-based models.\" This pairs an experien..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Prior CACI training is associated with more stable, AI-oriented interaction patterns across interpreting stages
 description: Prior CACI training is associated with more stable, AI-oriented interaction patterns across interpreting stages
 id: caci-training-pattern-stability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

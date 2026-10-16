@@ -3,7 +3,7 @@ type: claim
 title: "Gameplay lowered participants' affective barriers to learning English in a fifteen-week game-based program"
 description: "Gameplay lowered participants' affective barriers to learning English in a fifteen-week game-based program"
 id: gameplay-lowered-affective-barriers-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

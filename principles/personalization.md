@@ -182,6 +182,7 @@ Engagement, immediate achievement on an aligned test, time saved, delayed retent
 - [Expand the pool of potential tutors rather than expanding group sizes when scaling tutoring to all students](../strategies/tutoring-expand-tutor-pool-not-group-size.md)
 - [Design learner-tailored instructional systems by applying expertise reversal findings](../strategies/apply-expertise-reversal-to-adaptive-design.md)
 - [Learning-context personalization engine: mastery, spacing, and help-seeking signals guide when and how AI assistance is delivered](../designs/learning-context-engine-mastery-spacing-helpseeking.md)
+- [Adapt instruction dynamically to individual learners using measures of expertise and cognitive load](../strategies/adapt-instruction-via-expertise-load-measures.md)
 
 ### Validated
 - [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M] — Walkington (2013) personalized algebra word problems to individual learners' out-of-school interests (sports, music, gaming) and found improved performance relative to standard contexts, with the largest gains for struggling learners.

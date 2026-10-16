@@ -3,7 +3,7 @@ type: claim
 title: The post-ChatGPT response-time divergence on AI-susceptible items vanishes entirely under proctored assessment
 description: The post-ChatGPT response-time divergence on AI-susceptible items vanishes entirely under proctored assessment
 id: proctoring-eliminates-response-time-divergence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -18,8 +18,8 @@ sources:
     kind: causal
     rigour: 2
   - id: rismanchian-2026-2
-    resource: "https://arxiv.org/abs/2605.21629"
-    title: "Rismanchian, S., Uzun, H., Matayoshi, J., Cosyn, E., & Kurd-Misto, E. (2026). Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build. arXiv preprint. https://arxiv.org/abs/2605.21629"
+    resource: "https://doi.org/10.48550/arxiv.2605.21629"
+    title: "Rismanchian, S., Uzun, H., Matayoshi, J., Cosyn, E., & Kurd-Misto, E. (2026). Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build. arXiv preprint. https://arxiv.org/abs/2605.21629. [doi:10.48550/arxiv.2605.21629](https://doi.org/10.48550/arxiv.2605.21629)"
     author: "Rismanchian, S., Uzun, H., Matayoshi, J., Cosyn, E., & Kurd-Misto, E."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # The post-ChatGPT response-time divergence on AI-susceptible items vanishes entirely under proctored assessment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In non-proctored ALEKS PPL assessments, response times on AI-susceptible topics declined 1.11% per quarter relative to graph-based topics (11.6% cumulative). [→ Rismanchian 2026](#rismanchian-2026)
@@ -50,7 +50,7 @@ Ramp models on the ALEKS PPL placement-assessment panel of 12,190,662 response-t
 
 ### Rismanchian 2026 (2)
 
-Rismanchian, S., Uzun, H., Matayoshi, J., Cosyn, E., & Kurd-Misto, E. (2026). Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build. arXiv preprint. https://arxiv.org/abs/2605.21629
+Rismanchian, S., Uzun, H., Matayoshi, J., Cosyn, E., & Kurd-Misto, E. (2026). Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build. arXiv preprint. https://arxiv.org/abs/2605.21629. [doi:10.48550/arxiv.2605.21629](https://doi.org/10.48550/arxiv.2605.21629)
 
 `q2 · i?` · `causal · r2`
 

@@ -3,7 +3,7 @@ type: claim
 title: "Intensive ESL learners' oral English development was examined in four intact classes of approximately 100 French-speaking students aged 10–12 after a 5-month course"
 description: "Intensive ESL learners' oral English development was examined in four intact classes of approximately 100 French-speaking students aged 10–12 after a 5-month course"
 id: intensive-esl-quebec-corpus-study-design
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

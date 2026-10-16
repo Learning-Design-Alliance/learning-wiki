@@ -86,10 +86,10 @@ Role assignment converts loose cooperation into structured collaboration, which 
 - [Have measurement team members collaborate to complete measurement tasks successfully](measurement-team-collaboration-strategy.md)
 
 ## Examples
-- **Complex Instruction (Cohen & Lotan, Stanford)** — role structures (facilitator, recorder/reporter, materials manager, understanding checker) combined with status treatments to equalize participation in heterogeneous classrooms. See https://cgi.stanford.edu/group/pci/cgi-bin/site.cgi
+- **[Complex Instruction](complex_instruction.md) (Cohen & Lotan, Stanford)** — role structures (facilitator, recorder/reporter, materials manager, understanding checker) combined with status treatments to equalize participation in heterogeneous classrooms. See https://cgi.stanford.edu/group/pci/cgi-bin/site.cgi
 - **PBL groups in medical education** — tutorial groups commonly assign a chair and a scribe per case session, rotating weekly, to structure discussion in problem-based learning curricula such as Maastricht University's.
 - **Kagan Structures** — published cooperative-learning structures (e.g., "Numbered Heads Together") that embed role-like interdependence into routine classroom activities. See https://www.kaganonline.com
-- **Complex Instruction (Stanford/USC)** — assigns structured roles (facilitator, recorder, reporter) with "status treatments" to equalize participation in heterogeneous math classrooms; widely documented in the cooperative learning literature.
+- **[Complex Instruction](complex_instruction.md) (Stanford/USC)** — assigns structured roles (facilitator, recorder, reporter) with "status treatments" to equalize participation in heterogeneous math classrooms; widely documented in the cooperative learning literature.
 - **PBLWorks (Buck Institute) gold-standard PBL** — project teams use role assignments and team contracts to distribute project management functions.
 - **Laboratory courses** — rotating roles such as equipment manager, data recorder, and safety officer so each student performs each function across a term.
 

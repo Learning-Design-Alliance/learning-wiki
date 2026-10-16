@@ -3,7 +3,7 @@ type: claim
 title: A majority of students think they should be informed of data collection details at multiple contact points throughout their studies
 description: A majority of students think they should be informed of data collection details at multiple contact points throughout their studies
 id: students-want-multiple-informed-consent-contact-points
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Teachers reported student gains in motivation and confidence to engage in literacy and mathematics learning activities
 description: Teachers reported student gains in motivation and confidence to engage in literacy and mathematics learning activities
 id: tec-summer-teacher-reported-motivation-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

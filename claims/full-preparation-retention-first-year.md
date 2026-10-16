@@ -3,7 +3,7 @@ type: claim
 title: Fully prepared novice teachers are less than half as likely to leave teaching after their first year than those lacking key training elements
 description: Fully prepared novice teachers are less than half as likely to leave teaching after their first year than those lacking key training elements
 id: full-preparation-retention-first-year
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

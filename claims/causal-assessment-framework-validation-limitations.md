@@ -3,7 +3,7 @@ type: claim
 title: "The framework's validation is limited: structure and parameterisation were tested only on a small dataset and only for predictive accuracy"
 description: "The framework's validation is limited: structure and parameterisation were tested only on a small dataset and only for predictive accuracy"
 id: causal-assessment-framework-validation-limitations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

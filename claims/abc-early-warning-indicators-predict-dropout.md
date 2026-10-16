@@ -3,7 +3,7 @@ type: claim
 title: Attendance, behavior, and course performance (the ABC indicators) reliably predict which secondary students are at risk of dropping out
 description: Attendance, behavior, and course performance (the ABC indicators) reliably predict which secondary students are at risk of dropping out
 id: abc-early-warning-indicators-predict-dropout
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

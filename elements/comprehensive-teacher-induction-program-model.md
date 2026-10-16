@@ -3,7 +3,7 @@ type: element
 id: comprehensive-teacher-induction-program-model
 title: Comprehensive teacher induction program model
 description: A teacher induction model that goes beyond traditional induction by combining several supports for new teachers.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

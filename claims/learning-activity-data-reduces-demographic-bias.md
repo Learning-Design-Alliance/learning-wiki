@@ -3,7 +3,7 @@ type: claim
 title: Incorporating more learning activity data reduced the potential bias caused by overreliance on demographic information
 description: Incorporating more learning activity data reduced the potential bias caused by overreliance on demographic information
 id: learning-activity-data-reduces-demographic-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

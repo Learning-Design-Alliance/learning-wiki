@@ -3,7 +3,7 @@ type: claim
 title: "Overreliance on AI is the most prevalent pedagogical limitation (27 studies, 50%), followed by reduced critical thinking (25 studies, 46%)"
 description: "Overreliance on AI is the most prevalent pedagogical limitation (27 studies, 50%), followed by reduced critical thinking (25 studies, 46%)"
 id: overreliance-reduced-critical-thinking-ai-efl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

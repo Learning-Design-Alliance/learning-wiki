@@ -3,7 +3,7 @@ type: strategy
 id: supplement-tblt-with-grammar-instruction-communicative-drills
 title: Supplement task-based language teaching with grammar instruction and use communicative drills for automatization
 description: The review recommends that analytical approaches such as Task-Based Language Teaching be supplemented by some type of grammar instruction, which can be implicit, explicit, inductive or deductive.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

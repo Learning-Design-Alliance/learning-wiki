@@ -3,7 +3,7 @@ type: strategy
 id: teacher-training-support-strategy-ai-implementation
 title: Provide teachers with adequate training and support for AI use, embedded in leadership-led professional development
 description: "A practical strategy drawn from the review's findings: leaders should plan and fund professional development that builds teachers' digital competence, since competence gates both AI adoption and pedagogical effectiven..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

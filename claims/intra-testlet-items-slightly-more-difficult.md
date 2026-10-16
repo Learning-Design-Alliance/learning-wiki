@@ -3,7 +3,7 @@ type: claim
 title: Intra-testlet items were slightly more difficult than stand-alone questions (p′ = 0.69 ± 0.15 vs 0.75 ± 0.15)
 description: Intra-testlet items were slightly more difficult than stand-alone questions (p′ = 0.69 ± 0.15 vs 0.75 ± 0.15)
 id: intra-testlet-items-slightly-more-difficult
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

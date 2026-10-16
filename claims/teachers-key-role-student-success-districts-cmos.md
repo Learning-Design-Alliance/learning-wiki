@@ -3,7 +3,7 @@ type: claim
 title: "Teachers play a key role in determining students' success in school districts and CMOs"
 description: "Teachers play a key role in determining students' success in school districts and CMOs"
 id: teachers-key-role-student-success-districts-cmos
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

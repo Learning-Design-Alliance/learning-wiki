@@ -3,7 +3,7 @@ type: claim
 title: The original global citizenship scale is employable in a developing-country university context after adjustments to social responsibility and global competence
 description: The original global citizenship scale is employable in a developing-country university context after adjustments to social responsibility and global competence
 id: global-citizenship-scale-employable-developing-context
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

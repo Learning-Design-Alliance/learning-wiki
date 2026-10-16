@@ -3,7 +3,7 @@ type: claim
 title: The reliability of a teacher evaluation system determines the proportion of teachers who can be identified as exceptional
 description: The reliability of a teacher evaluation system determines the proportion of teachers who can be identified as exceptional
 id: evaluation-reliability-determines-exceptional-teacher-proportion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

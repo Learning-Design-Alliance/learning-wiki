@@ -3,7 +3,7 @@ type: strategy
 id: learning-genie-implementation-training-strategy
 title: Implement Learning Genie with initial training on observation-based assessment and ongoing technical assistance
 description: "The article describes an implementation strategy in which initial training covers \"the use of observation-based assessment tools, DRDP documentation, lesson-planning workflows, and AI-supported instructional recommend..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

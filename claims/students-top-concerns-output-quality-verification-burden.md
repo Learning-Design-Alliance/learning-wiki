@@ -3,7 +3,7 @@ type: claim
 title: "Students' top two concerns about educational LLM use are output quality (fabricated or misleading content, 53 mentions) and the verification burden (34 mentions)"
 description: "Students' top two concerns about educational LLM use are output quality (fabricated or misleading content, 53 mentions) and the verification burden (34 mentions)"
 id: students-top-concerns-output-quality-verification-burden
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

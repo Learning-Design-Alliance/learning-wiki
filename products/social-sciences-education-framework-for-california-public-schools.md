@@ -4,7 +4,7 @@ id: social-sciences-education-framework-for-california-public-schools
 title: Social Sciences Education Framework for California Public Schools
 description: A California state education framework that organizes K–12 social sciences curricula around disciplinary understanding, skills, diversity, values, and civic participation.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

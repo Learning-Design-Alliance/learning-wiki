@@ -3,7 +3,7 @@ type: claim
 title: Smartphone attachment is associated with impatience and impulsive behavior in young children, per cited literature
 description: Smartphone attachment is associated with impatience and impulsive behavior in young children, per cited literature
 id: smartphone-attachment-impatience-impulsivity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

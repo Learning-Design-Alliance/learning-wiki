@@ -3,7 +3,7 @@ type: strategy
 id: small-pilot-study-for-early-evidence-of-success
 title: Conduct a small pilot study to assess early evidence of success before full validation
 description: Phase 3 of the evidence-building process prescribes running a small pilot study as the mechanism for early evidence gathering.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

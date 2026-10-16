@@ -3,7 +3,7 @@ type: claim
 title: Small edits to cGPT instructions and knowledge bases had unpredictable effects on GPT responses during iterative co-design
 description: Small edits to cGPT instructions and knowledge bases had unpredictable effects on GPT responses during iterative co-design
 id: cgpt-small-edits-unpredictable-response-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

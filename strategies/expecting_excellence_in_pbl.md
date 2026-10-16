@@ -73,7 +73,7 @@ Teacher expectations function as self-fulfilling prophecies: expectations shape 
 - High Tech High (hightechhigh.org) — project exemplars and public exhibitions of student work
 
 ## Examples
-- **EL Education (Expeditionary Learning)** schools publish "models of excellence" (https://elschools.org/models-of-excellence) — real student work held to professional standards — and use crew-based critique so every student revises toward public quality criteria.
+- **[EL Education](../products/el-education.md) (Expeditionary Learning)** schools publish "models of excellence" (https://elschools.org/models-of-excellence) — real student work held to professional standards — and use crew-based critique so every student revises toward public quality criteria.
 - **High Tech High (San Diego)** requires all students to exhibit polished project work to public audiences, refusing tracked or watered-down versions of projects for students entering with weak academic records.
 - A teacher launching a documentary project shows a strong prior student film with annotations explaining *why* it works, sets a rubric requiring multiple revision cycles, and schedules conferencing checkpoints — the same bar for all, with varied scaffolding.
 

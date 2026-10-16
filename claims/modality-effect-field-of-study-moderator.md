@@ -3,7 +3,7 @@ type: claim
 title: Modality effect sizes differ across fields of study, with social science effects negative and science effects largest
 description: Modality effect sizes differ across fields of study, with social science effects negative and science effects largest
 id: modality-effect-field-of-study-moderator
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

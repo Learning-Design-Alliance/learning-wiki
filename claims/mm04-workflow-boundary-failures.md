@@ -3,7 +3,7 @@ type: claim
 title: "In the MM-04 workflow case, similar-looking model activity has different evidential validity: GPT-5.5 closes the evidence-to-action loop while GLM-5.1 leaves the assigned deck unchanged and Gemini-3.1-Pro misses required numeric or visual evidence"
 description: "In the MM-04 workflow case, similar-looking model activity has different evidential validity: GPT-5.5 closes the evidence-to-action loop while GLM-5.1 leaves the assigned deck unchanged and Gemini-3.1-Pro misses requi..."
 id: mm04-workflow-boundary-failures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

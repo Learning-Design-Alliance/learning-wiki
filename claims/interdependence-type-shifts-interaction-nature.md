@@ -3,7 +3,7 @@ type: claim
 title: "Type of interdependence shifts the nature of interactions: no-structure groups show the most cognitive interactions, role groups the most group processing, and reward groups the most off-task behavior"
 description: "Type of interdependence shifts the nature of interactions: no-structure groups show the most cognitive interactions, role groups the most group processing, and reward groups the most off-task behavior"
 id: interdependence-type-shifts-interaction-nature
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

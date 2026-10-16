@@ -3,7 +3,7 @@ type: strategy
 id: employ-group-processing-regularly-collaborative-education
 title: Employ group processing regularly in collaborative and team-based education without subordinating it to content-based learning
 description: The article recommends extending group processing beyond enquiry-based learning into other collaborative and team-based educational contexts.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

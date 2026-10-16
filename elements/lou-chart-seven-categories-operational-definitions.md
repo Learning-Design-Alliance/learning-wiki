@@ -3,7 +3,7 @@ type: element
 id: lou-chart-seven-categories-operational-definitions
 title: "The LoU Chart: operational definitions of the eight levels across seven categories of user knowledge and activity"
 description: The LoU Chart (Figure 2) displays operational definitions of the eight Levels of Use.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

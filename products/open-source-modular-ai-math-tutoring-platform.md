@@ -4,7 +4,7 @@ id: open-source-modular-ai-math-tutoring-platform
 title: Open-source modular AI math tutoring platform
 description: An open-source modular platform developed by Jarosław A.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: ARCS motivation did not significantly predict behavioral intention but exerted a strong direct effect on use behavior, dominating its explanation
 description: ARCS motivation did not significantly predict behavioral intention but exerted a strong direct effect on use behavior, dominating its explanation
 id: arcs-motivation-drives-use-behavior-not-intention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

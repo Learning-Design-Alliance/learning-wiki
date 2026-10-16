@@ -4,7 +4,7 @@ title: Los principales retos percibidos al usar LER son la exactitud de la infor
 description: Los principales retos percibidos al usar LER son la exactitud de la información, la seguridad, saber cómo usarlos, la adopción por empleadores y el acceso
 id: retos-percibidos-lers-exactitud-seguridad-acceso
 aliases: [top-perceived-ler-challenges]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

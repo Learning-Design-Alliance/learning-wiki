@@ -3,7 +3,7 @@ type: claim
 title: "Convenience–learning divergence proposition: satisfaction and adaptation may rise under AI mediation while intercultural engagement and frame revision fall"
 description: "Convenience–learning divergence proposition: satisfaction and adaptation may rise under AI mediation while intercultural engagement and frame revision fall"
 id: convenience-learning-divergence-proposition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

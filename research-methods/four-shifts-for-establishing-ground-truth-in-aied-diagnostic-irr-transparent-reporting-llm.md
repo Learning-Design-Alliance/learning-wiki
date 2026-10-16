@@ -3,7 +3,7 @@ type: research-method
 id: four-shifts-for-establishing-ground-truth-in-aied-diagnostic-irr-transparent-reporting-llm
 title: "Four shifts for establishing ground truth in AIED: diagnostic IRR, transparent reporting, LLM risk mitigation, and validity-first evidence"
 description: "The article's central framework proposes four practical shifts for establishing ground truth in AIED labeling: (1) treat IRR as \"a diagnostic signal to localize disagreement and refine constructs rather than a mechanical acceptance threshold\"; (2) require transparent reporting of rater expertise, co"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11
@@ -37,4 +37,4 @@ The article's central framework proposes four practical shifts for establishing 
 -
 
 ## Key Sources
-- Thomas, D.R., Borchers, C., Vanacore, K.P., Koedinger, K.R., & Kizilcec, R.F. (2026). Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education. https://arxiv.org/abs/2603.29141
+- Thomas, D.R., Borchers, C., Vanacore, K.P., Koedinger, K.R., & Kizilcec, R.F. (2026). Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education. https://arxiv.org/abs/2603.29141. [doi:10.48550/arxiv.2603.29141](https://doi.org/10.48550/arxiv.2603.29141)

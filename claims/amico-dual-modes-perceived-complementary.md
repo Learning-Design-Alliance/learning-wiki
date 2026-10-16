@@ -3,7 +3,7 @@ type: claim
 title: Pilot participants perceived AmicoMio and AmicoTuo as complementary modes serving different educational purposes rather than alternatives
 description: Pilot participants perceived AmicoMio and AmicoTuo as complementary modes serving different educational purposes rather than alternatives
 id: amico-dual-modes-perceived-complementary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

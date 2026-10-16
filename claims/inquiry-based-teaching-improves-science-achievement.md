@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Inquiry Based Teaching Improves Science Achievement
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25
@@ -28,8 +28,8 @@ sources:
     kind: review
     rigour: "?"
   - id: roschelle-2021
-    resource: "https://isbnsearch.org/isbn/9781138922600"
-    title: "Roschelle, J., Mazziotti, C. & Means, B. (2021). Scaling Up Design of Inquiry Environments. In C. Chinn & R.G. Duncan et al (Eds.), International Handbook on Learning and Inquiry. Routledge. ISBN 9781138922600. https://isbnsearch.org/isbn/9781138922600"
+    resource: "https://doi.org/10.4324/9781315685779-7"
+    title: "Roschelle, J., Mazziotti, C. & Means, B. (2021). Scaling Up Design of Inquiry Environments. In C. Chinn & R.G. Duncan et al (Eds.), International Handbook on Learning and Inquiry. Routledge. ISBN 9781138922600. https://isbnsearch.org/isbn/9781138922600. [doi:10.4324/9781315685779-7](https://doi.org/10.4324/9781315685779-7)"
     author: "Roschelle, J., Mazziotti, C. & Means, B."
     q: 3
     i: "?"
@@ -72,7 +72,7 @@ This synthesis analyzed 138 studies conducted between 1984 and 2002 addressing t
 
 ### Roschelle 2021
 
-Roschelle, J., Mazziotti, C. & Means, B. (2021). Scaling Up Design of Inquiry Environments. In C. Chinn & R.G. Duncan et al (Eds.), International Handbook on Learning and Inquiry. Routledge. ISBN 9781138922600. https://isbnsearch.org/isbn/9781138922600
+Roschelle, J., Mazziotti, C. & Means, B. (2021). Scaling Up Design of Inquiry Environments. In C. Chinn & R.G. Duncan et al (Eds.), International Handbook on Learning and Inquiry. Routledge. ISBN 9781138922600. https://isbnsearch.org/isbn/9781138922600. [doi:10.4324/9781315685779-7](https://doi.org/10.4324/9781315685779-7)
 
 `q3 · i?` · `review · r2`
 

@@ -3,7 +3,7 @@ type: claim
 title: Practitioners recommended replacing quiz-style comprehension checks with interactive follow-up activities and separate behavior tracking
 description: Practitioners recommended replacing quiz-style comprehension checks with interactive follow-up activities and separate behavior tracking
 id: comprehension-separate-from-behavior-tracking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

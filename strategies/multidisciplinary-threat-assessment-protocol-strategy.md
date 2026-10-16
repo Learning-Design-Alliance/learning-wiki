@@ -3,7 +3,7 @@ type: strategy
 id: multidisciplinary-threat-assessment-protocol-strategy
 title: Implement multi-disciplinary threat assessment with reporting mechanisms and safe channels for students to come forward
 description: "The brief recommends that schools train personnel in threat assessment, in which \"a careful protocol implemented by a multi-disciplinary team\" examines threats and deals with them, differentiating false alarms from re..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

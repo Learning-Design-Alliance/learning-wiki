@@ -3,7 +3,7 @@ type: claim
 title: "In one case-study school, a principal's lack of Framework knowledge and inability to rate practice led teachers to perceive the new evaluation as subjective, undermining buy-in"
 description: "In one case-study school, a principal's lack of Framework knowledge and inability to rate practice led teachers to perceive the new evaluation as subjective, undermining buy-in"
 id: principal-framework-knowledge-subjectivity-perception
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: element
 id: new-leaders-effectiveness-identification-methods
 title: New Leaders school and teacher effectiveness identification methods
 description: A set of methods designed by Mathematica Policy Research under contract with New Leaders to identify effective schools and teachers.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

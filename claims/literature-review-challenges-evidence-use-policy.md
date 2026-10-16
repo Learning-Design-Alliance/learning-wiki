@@ -3,7 +3,7 @@ type: claim
 title: A literature review identifies misalignment between conducted research and needed evidence, contextual factors, and rarely used bridging frameworks as challenges to evidence use in policy decisions
 description: A literature review identifies misalignment between conducted research and needed evidence, contextual factors, and rarely used bridging frameworks as challenges to evidence use in policy decisions
 id: literature-review-challenges-evidence-use-policy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

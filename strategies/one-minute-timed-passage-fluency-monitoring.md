@@ -3,7 +3,7 @@ type: strategy
 id: one-minute-timed-passage-fluency-monitoring
 title: Use one-minute timed grade-level passages to monitor oral reading fluency progress
 description: "The Fluency Formula™ Assessment System \"allows teachers to assess student fluency using one-minute grade-level passages and a timer.\" Teachers administer it weekly to identify struggling students, use the assessment h..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

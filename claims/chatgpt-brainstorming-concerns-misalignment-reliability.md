@@ -3,7 +3,7 @@ type: claim
 title: Teachers report ChatGPT-generated math questions misalign with grade level and topic, are unreliable or unanswerable, and cost time
 description: Teachers report ChatGPT-generated math questions misalign with grade level and topic, are unreliable or unanswerable, and cost time
 id: chatgpt-brainstorming-concerns-misalignment-reliability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

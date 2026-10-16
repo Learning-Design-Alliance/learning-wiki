@@ -3,7 +3,7 @@ type: element
 id: 4cid-consent-taking-workshop-emergency-department
 title: 4C/ID-based interactive consent-taking workshop for emergency department staff
 description: A four-hour interactive workshop grounded in the 4C/ID model for teaching informed-consent skills to emergency physicians and nurses.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: element
 id: evaluation-sample-worked-student-work-model
 title: "Evaluation Sample: a worked model applying the Checklist to real student work"
 description: The Evaluation Sample is a worked example showing teachers how to apply the Checklist to an actual student product — a live presentation about the Bancroft-Arnesen Antarctic expedition.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Students consume news frequently, primarily through social media and television, with a preference for digital over traditional media
 description: Students consume news frequently, primarily through social media and television, with a preference for digital over traditional media
 id: student-news-consumption-digital-preference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

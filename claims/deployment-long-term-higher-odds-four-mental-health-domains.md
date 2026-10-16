@@ -3,7 +3,7 @@ type: claim
 title: More than 24 months after exposure, deployed personnel have higher odds of screening positive for PTSD, depression, substance use and common mental disorder than non-deployed personnel
 description: More than 24 months after exposure, deployed personnel have higher odds of screening positive for PTSD, depression, substance use and common mental disorder than non-deployed personnel
 id: deployment-long-term-higher-odds-four-mental-health-domains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

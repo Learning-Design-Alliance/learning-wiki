@@ -3,7 +3,7 @@ type: claim
 title: Equipping caregivers with MUAC tapes empowered them to track child nutrition and become community health advocates
 description: Equipping caregivers with MUAC tapes empowered them to track child nutrition and become community health advocates
 id: family-muac-empowers-caregivers-as-health-advocates
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

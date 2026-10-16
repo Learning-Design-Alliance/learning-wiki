@@ -3,7 +3,7 @@ type: claim
 title: "A deterministic follow-up resolver raised intended-topic follow-up rates to 90–100% across five courses with all 400 scope checks passing, without changing the generator"
 description: "A deterministic follow-up resolver raised intended-topic follow-up rates to 90–100% across five courses with all 400 scope checks passing, without changing the generator"
 id: deterministic-resolver-raises-topic-checks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

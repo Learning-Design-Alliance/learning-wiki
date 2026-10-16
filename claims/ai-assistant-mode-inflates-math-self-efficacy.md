@@ -3,7 +3,7 @@ type: claim
 title: AI-assistant mode inflates self-reported mathematics self-efficacy and suppresses reported anxiety
 description: AI-assistant mode inflates self-reported mathematics self-efficacy and suppresses reported anxiety
 id: ai-assistant-mode-inflates-math-self-efficacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

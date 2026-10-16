@@ -3,7 +3,7 @@ type: strategy
 id: misfit-items-review-before-deactivation
 title: Route items flagged for misfit through content and psychometric review before deciding whether to deactivate them
 description: This strategy operationalizes item fit analysis as a quality-control step in maintaining a Rasch-based assessment.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

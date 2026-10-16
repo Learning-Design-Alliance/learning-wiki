@@ -3,7 +3,7 @@ type: claim
 title: Teaching beliefs are negatively associated with AI-TCK and AI-TPK and show no significant effect on AI-TK, suggesting excessive teaching beliefs may impede AI-TPACK advancement
 description: Teaching beliefs are negatively associated with AI-TCK and AI-TPK and show no significant effect on AI-TK, suggesting excessive teaching beliefs may impede AI-TPACK advancement
 id: teaching-beliefs-negative-aick
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

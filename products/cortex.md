@@ -4,7 +4,7 @@ id: cortex
 title: Cortex
 description: Cortex is a proprietary platform developed by Cortex Global that uses handwritten-response recognition and mark-scheme-aligned automated grading to assess complex upper-secondary STEM answers and provide annotated feedback.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

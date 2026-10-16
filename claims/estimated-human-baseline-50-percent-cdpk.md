@@ -3,7 +3,7 @@ type: claim
 title: "Estimated human baseline on the CDPK benchmark is approximately 50%, based on aggregate Chilean teacher exam results"
 description: "Estimated human baseline on the CDPK benchmark is approximately 50%, based on aggregate Chilean teacher exam results"
 id: estimated-human-baseline-50-percent-cdpk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

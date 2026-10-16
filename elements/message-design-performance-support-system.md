@@ -3,7 +3,7 @@ type: element
 id: message-design-performance-support-system
 title: A conceptual structure and procedure for message design incorporated in a performance support system
 description: "The article describes a message design theory developed by Seels and colleagues that provides \"a conceptual structure and procedure which relates message design to types of learning, media, and learning paradigms\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

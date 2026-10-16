@@ -3,7 +3,7 @@ type: claim
 title: Test difficulty value defined as ratio of observed to maximum score vector length times cosine of their angle equals test mean divided by number of items
 description: Test difficulty value defined as ratio of observed to maximum score vector length times cosine of their angle equals test mean divided by number of items
 id: test-difficulty-value-cosine-definition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

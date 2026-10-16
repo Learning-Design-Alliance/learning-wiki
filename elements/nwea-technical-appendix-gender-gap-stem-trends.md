@@ -3,7 +3,7 @@ type: element
 id: nwea-technical-appendix-gender-gap-stem-trends
 title: Technical appendix document accompanying the gender-gap STEM trends study
 description: "A technical brief published by NWEA in May 2025, described as \"the accompanying technical appendix to the research study\" on gender achievement gaps in 8th grade STEM skills."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

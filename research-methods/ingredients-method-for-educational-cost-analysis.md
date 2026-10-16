@@ -3,7 +3,7 @@ type: research-method
 id: ingredients-method-for-educational-cost-analysis
 title: Ingredients method for educational cost analysis
 description: "The report applies the ingredients method (Belfield et al., 2018), a methodology that involves \"systematically identifying all the resources necessary for implementing\" a program, pricing each component, and calculating total and per-participant costs."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

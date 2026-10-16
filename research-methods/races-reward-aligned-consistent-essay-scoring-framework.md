@@ -3,7 +3,7 @@ type: research-method
 id: races-reward-aligned-consistent-essay-scoring-framework
 title: RACES (Reward-Aligned Consistent Essay Scoring) framework
 description: "RACES (Reward-Aligned Consistent Essay Scoring) is a unified AES framework that \"integrates LoRA-based parameter-efficient fine-tuning, reward modeling, and PPO with KL regularization\"."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

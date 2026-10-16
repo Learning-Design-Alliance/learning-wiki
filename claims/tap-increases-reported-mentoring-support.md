@@ -3,7 +3,7 @@ type: claim
 title: Teachers in TAP schools reported significantly more mentoring and support than peers in similar non-TAP schools
 description: Teachers in TAP schools reported significantly more mentoring and support than peers in similar non-TAP schools
 id: tap-increases-reported-mentoring-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Early Implementer teachers' weekly use of phenomena to frame science instruction more than doubled from 2015-16 to 2016-17"
 description: "Early Implementer teachers' weekly use of phenomena to frame science instruction more than doubled from 2015-16 to 2016-17"
 id: ngss-early-implementers-phenomena-use-increased
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

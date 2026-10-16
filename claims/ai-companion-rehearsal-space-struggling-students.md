@@ -3,7 +3,7 @@ type: claim
 title: Teachers describe AI companions as a low-stakes rehearsal space for students who struggle socially, including autistic students
 description: Teachers describe AI companions as a low-stakes rehearsal space for students who struggle socially, including autistic students
 id: ai-companion-rehearsal-space-struggling-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

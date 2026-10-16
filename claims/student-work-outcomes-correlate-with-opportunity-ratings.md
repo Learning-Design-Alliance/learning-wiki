@@ -3,7 +3,7 @@ type: claim
 title: Student deeper learning outcomes were positively and strongly correlated with ratings of deeper learning opportunities
 description: Student deeper learning outcomes were positively and strongly correlated with ratings of deeper learning opportunities
 id: student-work-outcomes-correlate-with-opportunity-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

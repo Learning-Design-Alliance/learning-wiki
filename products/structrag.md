@@ -4,7 +4,7 @@ id: structrag
 title: StructRAG
 description: A Sun Y.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

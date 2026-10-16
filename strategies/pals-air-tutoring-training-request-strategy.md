@@ -3,7 +3,7 @@ type: strategy
 id: pals-air-tutoring-training-request-strategy
 title: Arrange PALS tutor training through AIR by specifying training type, grade level, group size, and location
 description: "To implement PALS, tutoring training is provided through AIR: users visit the Fuchs Tutoring Training Request page and \"indicate the type of training (e.,g., reading or math), the grade level requested, the number of..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Chicago's professional development spending was not integrated into a comprehensive strategy for improving instruction"
 description: "Chicago's professional development spending was not integrated into a comprehensive strategy for improving instruction"
 id: cps-pd-spending-not-integrated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

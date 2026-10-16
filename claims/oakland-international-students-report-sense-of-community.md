@@ -3,7 +3,7 @@ type: claim
 title: Students at Oakland International High School report a strong sense of community, close relationships, and happiness at school
 description: Students at Oakland International High School report a strong sense of community, close relationships, and happiness at school
 id: oakland-international-students-report-sense-of-community
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

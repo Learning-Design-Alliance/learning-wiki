@@ -3,7 +3,7 @@ type: claim
 title: Belief that a global environmental problem needs addressing was already high before the workshop and did not significantly change
 description: Belief that a global environmental problem needs addressing was already high before the workshop and did not significantly change
 id: pph-workshop-no-significant-belief-change
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

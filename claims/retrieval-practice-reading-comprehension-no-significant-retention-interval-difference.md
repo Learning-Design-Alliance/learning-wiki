@@ -3,7 +3,7 @@ type: claim
 title: Final-test reading comprehension after retrieval practice does not differ significantly between an immediate test and a test delayed by three weeks
 description: Final-test reading comprehension after retrieval practice does not differ significantly between an immediate test and a test delayed by three weeks
 id: retrieval-practice-reading-comprehension-no-significant-retention-interval-difference
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24
@@ -51,3 +51,4 @@ Between-subjects factor of the classroom experiment: 100 undergraduates randomly
 - [The effect of retention interval on reading comprehension after retrieval practice does not differ significantly between lower-order and higher-order thinking questions](retention-interval-by-levels-of-thinking-interaction-not-significant.md) — related
 - [The effect of retrieval practice format on reading comprehension does not differ significantly between an immediate and a three-week-delayed final test](retrieval-format-by-retention-interval-interaction-not-significant.md) — related
 - [Retrieval practice format, levels of thinking and retention interval show no significant three-way interaction on undergraduates' reading comprehension](retrieval-format-levels-of-thinking-retention-interval-three-way-interaction-not-significant.md) — related
+- [Vocabulary knowledge gained from eight encounters persisted over two weeks, with no significant immediate-to-delayed test differences](vocabulary-gains-persist-two-weeks.md) — related

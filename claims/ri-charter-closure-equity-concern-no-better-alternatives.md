@@ -3,7 +3,7 @@ type: claim
 title: Officials raised equity concerns that closing low-performing charter schools may not better serve students when alternative district schools perform even worse
 description: Officials raised equity concerns that closing low-performing charter schools may not better serve students when alternative district schools perform even worse
 id: ri-charter-closure-equity-concern-no-better-alternatives
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

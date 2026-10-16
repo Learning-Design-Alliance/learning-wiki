@@ -3,7 +3,7 @@ type: element
 id: metaphor-anchors-admissions
 title: Metaphor anchors for supporting newly admitted youths
 description: "Metaphor anchors are objects and tasks workers use to anchor experiences for recently admitted youths, adapted from Peterson (1988) into the article's admissions context."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Retained students struggled in their second time through the promotional policy, with only about half meeting cutoffs and eighth graders doing worst
 description: Retained students struggled in their second time through the promotional policy, with only about half meeting cutoffs and eighth graders doing worst
 id: retained-students-struggle-second-time-through
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

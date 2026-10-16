@@ -3,7 +3,7 @@ type: claim
 title: Methods for estimating impacts when treatment effects vary apply to randomized controlled trials and are also applicable to quasi-experimental designs
 description: Methods for estimating impacts when treatment effects vary apply to randomized controlled trials and are also applicable to quasi-experimental designs
 id: varying-effects-methods-rct-and-quasi-experimental
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

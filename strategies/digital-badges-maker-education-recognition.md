@@ -3,7 +3,7 @@ type: strategy
 id: digital-badges-maker-education-recognition
 title: Use digital badges to recognize skills, supplement report cards, and manage equipment training access in maker education
 description: The paper describes digital badges as serving to organize, communicate and display accomplishment and progress, with special application to maker-based classes.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

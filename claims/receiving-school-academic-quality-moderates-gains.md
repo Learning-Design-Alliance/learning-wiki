@@ -3,7 +3,7 @@ type: claim
 title: Displaced students in the highest-achieving receiving schools gained about a month in reading and over two months in math above expectations, while those in the weakest schools lost achievement
 description: Displaced students in the highest-achieving receiving schools gained about a month in reading and over two months in math above expectations, while those in the weakest schools lost achievement
 id: receiving-school-academic-quality-moderates-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

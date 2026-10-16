@@ -3,7 +3,7 @@ type: design
 id: assistments-vplc-teacher-training-element
 title: Virtual professional learning community (vPLC) for ASSISTments teacher training
 description: The vPLC is a virtual professional learning model designed to connect rural and geographically isolated teachers with peers and learning opportunities.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

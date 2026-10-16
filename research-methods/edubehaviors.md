@@ -3,7 +3,7 @@ type: research-method
 id: edubehaviors
 title: EduBehaviors
 description: EduBehaviors is an interpretable annotation framework in which researchers write explicit binary assertions about conversational behavior; LLMs annotate each assertion as true or false, and a rule or trained statistical model combines these values into a construct label.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

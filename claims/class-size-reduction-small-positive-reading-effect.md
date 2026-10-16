@@ -3,7 +3,7 @@ type: claim
 title: Class size reduction produces a small, statistically significant positive effect on reading achievement by end of treatment year (pooled SMD 0.11)
 description: Class size reduction produces a small, statistically significant positive effect on reading achievement by end of treatment year (pooled SMD 0.11)
 id: class-size-reduction-small-positive-reading-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

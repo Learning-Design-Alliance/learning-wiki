@@ -3,7 +3,7 @@ type: claim
 title: "Studies directly measuring WTC consistently report positive effects of AI on EFL learners' WTC across tool types, contexts, and age groups"
 description: "Studies directly measuring WTC consistently report positive effects of AI on EFL learners' WTC across tool types, contexts, and age groups"
 id: ai-directly-enhances-efl-wtc
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

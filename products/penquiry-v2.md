@@ -4,7 +4,7 @@ id: penquiry-v2
 title: Penquiry V2
 description: Penquiry V2 is a pen-based interactive in-situ question-and-answer system developed for learners to query an LLM while studying digital PDF materials.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

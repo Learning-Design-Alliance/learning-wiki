@@ -3,7 +3,7 @@ type: claim
 title: Priming human shadows as math lovers or haters shifts LLM emotional tone about mathematics
 description: Priming human shadows as math lovers or haters shifts LLM emotional tone about mathematics
 id: persona-priming-shifts-llm-math-sentiment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

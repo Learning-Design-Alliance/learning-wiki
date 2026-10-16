@@ -3,7 +3,7 @@ type: strategy
 id: ai-nocode-lab-software-development
 title: Use generative AI as a no-code development tool so instructors can design laboratory software around their own pedagogical objectives
 description: The article demonstrates producing a customized measurement application entirely through natural-language prompting, with no manual coding, by refining the specification until the interface met requirements and then a...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

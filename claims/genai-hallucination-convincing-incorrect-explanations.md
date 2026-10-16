@@ -3,7 +3,7 @@ type: claim
 title: Gen-AI hallucinates sources and values and produces convincing but incorrect explanations, risking student misinformation
 description: Gen-AI hallucinates sources and values and produces convincing but incorrect explanations, risking student misinformation
 id: genai-hallucination-convincing-incorrect-explanations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -70,3 +70,5 @@ Observation from the WBA transcripts (e.g. a developmental psychology question i
 - [AI-assisted scientific writing assignments risk fabricated references and altered chemical meaning](genai-writing-fabricated-references.md) — possibly the same claim (merge candidate)
 - [In a small case study, students given ChatGPT feedback valued its immediacy and alternative analytical perspectives, but one distrusted its answers as 'often made up' for complex data analysis](chatgpt-feedback-hallucination-undermines-trust.md) — related
 - [LLM responses that are incomplete or incorrect prompt students to question, verify and improve the information, fostering critical thinking through cycles of validation and correction](llm-errors-prompt-validation-cycles-critical-thinking.md) — related
+- [ChatGPT fabricates references: the authors caught it inventing a non-existent 'Ribeiro and Vala, 2020' article with full bibliographic details](chatgpt-fabricates-references.md) — related
+- [ChatGPT sustains coherent, human-like multi-topic conversation and produces convincing creative content, as shown by the authors' own prompting test](chatgpt-interactive-conversational-capability.md) — related

@@ -3,7 +3,7 @@ type: claim
 title: Studies in which students used familiar online-learning software reported positive achievement effects during school closures
 description: Studies in which students used familiar online-learning software reported positive achievement effects during school closures
 id: covid-closures-positive-effects-online-software
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

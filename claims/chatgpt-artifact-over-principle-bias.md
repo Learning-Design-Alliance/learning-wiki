@@ -3,7 +3,7 @@ type: claim
 title: ChatGPT biased information access toward solution-oriented artifacts over principle-oriented information
 description: ChatGPT biased information access toward solution-oriented artifacts over principle-oriented information
 id: chatgpt-artifact-over-principle-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

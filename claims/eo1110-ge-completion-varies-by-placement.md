@@ -3,7 +3,7 @@ type: claim
 title: First-year completion of the A2 and B4 General Education requirements varied sharply by placement category, with wider gaps in QR than in WC
 description: First-year completion of the A2 and B4 General Education requirements varied sharply by placement category, with wider gaps in QR than in WC
 id: eo1110-ge-completion-varies-by-placement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

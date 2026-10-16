@@ -3,7 +3,7 @@ type: research-method
 id: body-of-work-approach-to-standard-setting-for-alternate-assessments
 title: Body of work approach to standard setting for alternate assessments
 description: "The body of work approach is a standard setting methodology in which \"Reviewers examine all of the data for a student and use this information to place the student in one of the overall performance levels.\" Standard setters receive papers demonstrating the complete range of possible scores from low "
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

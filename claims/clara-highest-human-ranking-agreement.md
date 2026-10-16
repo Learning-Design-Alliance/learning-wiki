@@ -3,7 +3,7 @@ type: claim
 title: CLARA achieves the highest agreement with blinded human developmental ranking judgments compared with readability and prompting baselines
 description: CLARA achieves the highest agreement with blinded human developmental ranking judgments compared with readability and prompting baselines
 id: clara-highest-human-ranking-agreement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

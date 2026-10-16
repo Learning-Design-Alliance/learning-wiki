@@ -3,7 +3,7 @@ type: claim
 title: Frequent generative AI use for essay writing can foster metacognitive laziness, reducing intrinsic motivation and learning autonomy
 description: Frequent generative AI use for essay writing can foster metacognitive laziness, reducing intrinsic motivation and learning autonomy
 id: genai-metacognitive-laziness-and-autonomy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -74,3 +74,5 @@ The article reports, citing Zhai et al., that frequent chatbot interaction for a
 - [Extended chatbot use produced dose-dependent increases in loneliness and emotional dependence alongside lower socialisation (review attribution)](chatbot-use-dose-dependent-loneliness.md) — related
 - [AI-assisted task performance can rise without corresponding gains in underlying knowledge, metacognitive processing, or independent reasoning](ai-performance-learning-gains-diverge.md) — possibly the same claim (merge candidate)
 - [Purpose-built AI chatbot coaching is generally well received and supports short-term motivation and selected behavior change, but effects on sustained, meaningful outcomes are inconsistent](purpose-built-chatbot-coaching-short-term-benefits-inconsistent-sustained.md) — related
+- [Across studies, ChatGPT serves as a convenient tool assisting teachers, students and researchers in various tasks, with the consistent underlying motivation of seeking personal benefits and reducing academic burdens.](chatgpt-convenient-tool-personal-benefit-motivation.md) — related
+- [GCLA does not bolster motivational aspects of SRL: traditional ChatGPT users showed higher intrinsic motivation and higher amotivation than GCLA users](gcla-no-motivation-advantage.md) — related

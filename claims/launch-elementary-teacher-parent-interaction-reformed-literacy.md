@@ -3,7 +3,7 @@ type: claim
 title: Elementary schools led by LAUNCH principals show higher teacher-parent interaction and more reformed literacy practices
 description: Elementary schools led by LAUNCH principals show higher teacher-parent interaction and more reformed literacy practices
 id: launch-elementary-teacher-parent-interaction-reformed-literacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

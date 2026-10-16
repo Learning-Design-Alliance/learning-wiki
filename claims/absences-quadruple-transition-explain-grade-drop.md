@@ -3,7 +3,7 @@ type: claim
 title: Unexcused absences quadruple from eighth to ninth grade, explaining most of the drop in grades and pass rates across all student groups
 description: Unexcused absences quadruple from eighth to ninth grade, explaining most of the drop in grades and pass rates across all student groups
 id: absences-quadruple-transition-explain-grade-drop
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

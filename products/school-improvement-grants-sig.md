@@ -3,7 +3,7 @@ type: product
 id: school-improvement-grants-sig
 title: School Improvement Grants (SIG)
 description: A U.S.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

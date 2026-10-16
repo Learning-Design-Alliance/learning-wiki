@@ -3,7 +3,7 @@ type: strategy
 id: ai-assistant-bounded-preparation-tasks
 title: Use generative AI as a preparation accelerator for bounded execution-level tasks, not as a design partner
 description: "The authors found generative AI tools \"useful at specific, bounded points in the preparation process\": rewriting emails to match a character's voice, generating plausible inject variants, and identifying gaps in miles..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

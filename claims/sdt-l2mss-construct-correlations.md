@@ -3,7 +3,7 @@ type: claim
 title: SDT and L2MSS constructs correlate as predicted, with the ought-to L2 self/own most closely tied to introjected regulation
 description: SDT and L2MSS constructs correlate as predicted, with the ought-to L2 self/own most closely tied to introjected regulation
 id: sdt-l2mss-construct-correlations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

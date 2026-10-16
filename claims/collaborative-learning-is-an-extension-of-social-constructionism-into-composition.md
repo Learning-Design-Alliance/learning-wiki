@@ -3,7 +3,7 @@ type: claim
 title: If writing and thinking are forms of conversation, collaborative learning is an extension of social constructionism into the composition classroom
 description: If writing and thinking are forms of conversation, collaborative learning is an extension of social constructionism into the composition classroom
 id: collaborative-learning-is-an-extension-of-social-constructionism-into-composition
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

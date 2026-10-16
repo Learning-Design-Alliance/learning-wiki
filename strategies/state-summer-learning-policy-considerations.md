@@ -3,7 +3,7 @@ type: strategy
 id: state-summer-learning-policy-considerations
 title: Policy considerations for states supporting summer learning
 description: "The report's concluding recommendations for state actors include: \"Set statewide goals for summer investments that reinforce other priorities\"; build stakeholder coalitions; identify sustainable funding streams beyond..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

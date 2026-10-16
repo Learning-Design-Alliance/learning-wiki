@@ -3,7 +3,7 @@ type: theory
 id: architectonic-guiding-principles-integration
 title: Four architectonic guiding principles for integrating teaching, learning, and technology
 description: "The article enumerates four principles, attributed to Dennis (2020a), that serve as a paradigm for the interrelationship of teaching, learning, and technology: language and dialogue create unity out of differences; al..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -53,4 +53,4 @@ The article enumerates four principles, attributed to Dennis (2020a), that serve
 -
 
 ## Key Sources
-- Dennis, J. (2022). (Re)Framing Our Frames: Architectonics, Intertextuality, and the Scholarship of Integration in Online Education. Canadian Journal of Learning and Technology, 48(2). https://www.cjlt.ca
+- Dennis, J. (2022). (Re)Framing Our Frames: Architectonics, Intertextuality, and the Scholarship of Integration in Online Education. Canadian Journal of Learning and Technology, 48(2). https://www.cjlt.ca. [doi:10.21432/cjlt28123](https://doi.org/10.21432/cjlt28123)

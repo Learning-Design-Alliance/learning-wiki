@@ -3,7 +3,7 @@ type: strategy
 id: worked-examples-seatwork-homework-problem-solving
 title: Provide worked examples during seatwork and homework to increase exposure to problem solving and reduce learning time
 description: "To give students more problem-solving time, \"A teacher can increase students' exposure to problem solving by providing worked examples during seatwork and homework.\" The guide states that \"Worked examples have benefit..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: dialogic-spaces-genai-negotiation
 title: Create dialogic spaces where students and educators negotiate GenAI dilemmas together
 description: "The article recommends institutional responses built on \"the deliberate creation of dialogic spaces in which students and educators explore dilemmas together, articulate values, and rehearse ethical judgement.\" A seam..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Proctored online exams show no effect on students' perceived exam difficulty"
 description: "Proctored online exams show no effect on students' perceived exam difficulty"
 id: proctoring-no-effect-exam-difficulty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

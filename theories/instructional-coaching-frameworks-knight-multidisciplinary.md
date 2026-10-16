@@ -2,7 +2,7 @@
 type: theory
 title: "Instructional coaching frameworks: Knight's four forms and the multidisciplinary skills-process-development framework"
 description: "The paper organizes coaching models in education, distinguishing coaching's \"partnership-type relationship\" from hierarchical mentorship."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

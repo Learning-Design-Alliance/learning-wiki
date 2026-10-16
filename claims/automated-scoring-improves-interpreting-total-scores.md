@@ -3,7 +3,7 @@ type: claim
 title: Student interpreters who practiced with an automated scoring system outperformed the control group on total interpreting scores at post-test
 description: Student interpreters who practiced with an automated scoring system outperformed the control group on total interpreting scores at post-test
 id: automated-scoring-improves-interpreting-total-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

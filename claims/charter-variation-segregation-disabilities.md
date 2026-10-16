@@ -3,7 +3,7 @@ type: claim
 title: Charter school quality varies greatly, and virtual charters perform significantly worse, while charters often increase segregation and underrepresent students with disabilities
 description: Charter school quality varies greatly, and virtual charters perform significantly worse, while charters often increase segregation and underrepresent students with disabilities
 id: charter-variation-segregation-disabilities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

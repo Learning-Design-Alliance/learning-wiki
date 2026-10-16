@@ -4,7 +4,7 @@ id: eksploratoryom
 title: Eksploratoryòm
 description: "Eksploratoryòm is Suzanne Cole et al.'s Haitian Creole digital science curriculum for early-grade learners, using story-based, culturally relevant interactive lessons that integrate STEM, literacy, and social-emotional learning."
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

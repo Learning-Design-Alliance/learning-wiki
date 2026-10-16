@@ -3,7 +3,7 @@ type: claim
 title: "The 2012 NHES estimate implies the percentage of homeschooled schoolchildren is likely within a range from 3.0% to 3.9%"
 description: "The 2012 NHES estimate implies the percentage of homeschooled schoolchildren is likely within a range from 3.0% to 3.9%"
 id: nhes-2012-homeschooling-range-3-0-to-3-9
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

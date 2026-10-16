@@ -3,7 +3,7 @@ type: design
 id: interactive-oral-grammar-exercise-five-qualities
 title: Interactive oral grammar exercises with five defining qualities (Comeau)
 description: "The bibliography describes, citing Comeau (1992), an interactive oral grammar exercise defined as having five qualities: \"be communicative, be meaningful, provide a limited choice, be expressive, and be integrated wit..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

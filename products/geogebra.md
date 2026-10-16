@@ -4,7 +4,7 @@ id: geogebra
 title: GeoGebra
 description: GeoGebra is a free dynamic mathematics software platform developed and maintained by GeoGebra for interactive work across algebra, geometry, calculus, and spreadsheets.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

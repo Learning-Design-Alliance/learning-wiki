@@ -3,7 +3,7 @@ type: claim
 title: Content-related problems trigger most negotiation routines, and syntactic triggers are absent from text chat where turns are short
 description: Content-related problems trigger most negotiation routines, and syntactic triggers are absent from text chat where turns are short
 id: content-triggers-dominate-syntactic-triggers-absent-text-chat
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

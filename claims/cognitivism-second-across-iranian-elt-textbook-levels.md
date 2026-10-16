@@ -3,7 +3,7 @@ type: claim
 title: Cognitivism is the second most important learning theory reflected across all Iranian ELT textbook levels
 description: Cognitivism is the second most important learning theory reflected across all Iranian ELT textbook levels
 id: cognitivism-second-across-iranian-elt-textbook-levels
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

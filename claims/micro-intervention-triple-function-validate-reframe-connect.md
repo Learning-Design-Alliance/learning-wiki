@@ -3,7 +3,7 @@ type: claim
 title: "Emotional micro-interventions perform three simultaneous functions: validate the emotion, reframe the cognitive appraisal, and connect struggle to a larger narrative"
 description: "Emotional micro-interventions perform three simultaneous functions: validate the emotion, reframe the cognitive appraisal, and connect struggle to a larger narrative"
 id: micro-intervention-triple-function-validate-reframe-connect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

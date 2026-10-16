@@ -3,7 +3,7 @@ type: claim
 title: VIP produces a statistically significant effect on Word Mastery (taught-word definition selection) for English language learners, effect size 1.03
 description: VIP produces a statistically significant effect on Word Mastery (taught-word definition selection) for English language learners, effect size 1.03
 id: vip-word-mastery-significant-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

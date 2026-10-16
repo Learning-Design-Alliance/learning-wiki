@@ -3,7 +3,7 @@ type: claim
 title: Ever-SPED students grew more than never-SPED students during the 1st and 2nd grade school years in math and the 1st, 3rd, and 4th grade school years in reading
 description: Ever-SPED students grew more than never-SPED students during the 1st and 2nd grade school years in math and the 1st, 3rd, and 4th grade school years in reading
 id: ever-sped-faster-school-year-growth-later-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

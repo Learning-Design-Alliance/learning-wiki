@@ -4,7 +4,7 @@ id: medgame-bench
 title: MedGame Bench
 description: A 5,000-case medical narrative-generation and story-direction benchmark created by Qian Wu et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

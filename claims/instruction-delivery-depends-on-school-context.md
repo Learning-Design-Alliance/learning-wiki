@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' ability to deliver strong instruction depends substantially on the school context, family resources and challenges, and the larger community"
 description: "Teachers' ability to deliver strong instruction depends substantially on the school context, family resources and challenges, and the larger community"
 id: instruction-delivery-depends-on-school-context
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

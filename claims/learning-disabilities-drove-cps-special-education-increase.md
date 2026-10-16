@@ -3,7 +3,7 @@ type: claim
 title: Learning disabilities drove almost the entire rise in ninth-grade special education enrollment
 description: Learning disabilities drove almost the entire rise in ninth-grade special education enrollment
 id: learning-disabilities-drove-cps-special-education-increase
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

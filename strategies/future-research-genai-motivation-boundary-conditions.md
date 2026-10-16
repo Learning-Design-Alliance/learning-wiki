@@ -3,7 +3,7 @@ type: strategy
 id: future-research-genai-motivation-boundary-conditions
 title: Future research should identify the instructional, learner, and contextual conditions under which GenAI most effectively supports motivation
 description: "Given very high heterogeneity, the article recommends that \"Future research should identify the instructional, learner, and contextual conditions under which GenAI can most effectively support students' motivation.\" T..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Pre-service teachers' self-efficacy and instructional-planning levels were relatively high, but Bloom taxonomy classification was low"
 description: "Pre-service teachers' self-efficacy and instructional-planning levels were relatively high, but Bloom taxonomy classification was low"
 id: preservice-planning-high-taxonomy-low
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

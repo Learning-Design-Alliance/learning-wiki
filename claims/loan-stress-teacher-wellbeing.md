@@ -3,7 +3,7 @@ type: claim
 title: "About 60% of teachers repaying student loans report high or very high loan-related stress, which is correlated with overall job-related stress"
 description: "About 60% of teachers repaying student loans report high or very high loan-related stress, which is correlated with overall job-related stress"
 id: loan-stress-teacher-wellbeing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

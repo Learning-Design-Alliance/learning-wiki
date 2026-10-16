@@ -2,7 +2,7 @@
 type: theory
 title: Complex Dynamic Systems Theory frames learner language as hierarchical, interdependent subsystems in dynamic relations over time
 description: "The article presents Complex Dynamic Systems Theory (CDST) as an explanatory framework for second language development in which \"a system is composed of hierarchical, interdependent subcomponents (learner, learner lan..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

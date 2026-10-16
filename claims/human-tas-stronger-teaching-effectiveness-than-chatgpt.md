@@ -3,7 +3,7 @@ type: claim
 title: Human TAs demonstrated stronger instructor voice, understanding, and helpfulness than AI in responding to student laboratory questions
 description: Human TAs demonstrated stronger instructor voice, understanding, and helpfulness than AI in responding to student laboratory questions
 id: human-tas-stronger-teaching-effectiveness-than-chatgpt
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

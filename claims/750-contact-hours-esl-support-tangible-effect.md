@@ -3,7 +3,7 @@ type: claim
 title: About 750 contact hours of high school ESL support can have a tangible effect toward the postsecondary threshold
 description: About 750 contact hours of high school ESL support can have a tangible effect toward the postsecondary threshold
 id: 750-contact-hours-esl-support-tangible-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

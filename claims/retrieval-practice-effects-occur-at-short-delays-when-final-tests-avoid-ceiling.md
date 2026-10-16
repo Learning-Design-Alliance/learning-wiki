@@ -3,7 +3,7 @@ type: claim
 title: Retrieval practice produces reliable positive effects at short delays, although some forgetting must set in so that the final test is not at ceiling
 description: Retrieval practice produces reliable positive effects at short delays, although some forgetting must set in so that the final test is not at ceiling
 id: retrieval-practice-effects-occur-at-short-delays-when-final-tests-avoid-ceiling
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

@@ -3,7 +3,7 @@ type: design
 id: maryland-slo-process-and-msde-support-tools
 title: Maryland SLO implementation process and state support tools
 description: "The Maryland SLO component is an instructional process embedded in the TPE evaluation system, in which SLOs are \"the predominate measure of student growth for teachers and principals\" and may account for 30%-50% of th..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "U.S. teachers earned only 77% of what other college graduates earned in 2021, even after adjusting for the work year"
 description: U.S.
 id: teacher-pay-77-percent-of-college-graduates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

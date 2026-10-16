@@ -3,7 +3,7 @@ type: claim
 title: "Pathway use varied substantively by certification area: 73 percent of career and technical education additional certificate holders used the individual evaluation pathway, and 57 percent of health education holders used the alternative in-state pathway"
 description: "Pathway use varied substantively by certification area: 73 percent of career and technical education additional certificate holders used the individual evaluation pathway, and 57 percent of health education holders us..."
 id: pathway-use-varies-by-certification-area
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

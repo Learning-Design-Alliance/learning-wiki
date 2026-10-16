@@ -3,7 +3,7 @@ type: claim
 title: The A4L impact on grade 4 CCU outcomes did not differ significantly between free/reduced-price lunch and non-FRL students
 description: The A4L impact on grade 4 CCU outcomes did not differ significantly between free/reduced-price lunch and non-FRL students
 id: a4l-frl-subgroup-no-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

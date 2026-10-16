@@ -3,7 +3,7 @@ type: claim
 title: "Nordic countries and New Zealand cover UNESCO's GenAI framework elements more fully than some higher-ranked AI Preparedness Index countries, so AIPI ranking does not guarantee strong GenAI policies"
 description: "Nordic countries and New Zealand cover UNESCO's GenAI framework elements more fully than some higher-ranked AI Preparedness Index countries, so AIPI ranking does not guarantee strong GenAI policies"
 id: aipi-ranking-does-not-guarantee-strong-genai-policies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

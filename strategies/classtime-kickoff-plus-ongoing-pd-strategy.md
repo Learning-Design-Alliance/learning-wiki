@@ -3,7 +3,7 @@ type: strategy
 id: classtime-kickoff-plus-ongoing-pd-strategy
 title: Implement Classtime with a kick-off training day plus ongoing grade-specific follow-up sessions
 description: "The summary describes a professional development model for successful Classtime implementation: a foundational kick-off training session delivered in person or online (typically 6 hours) as early as possible in the sc..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

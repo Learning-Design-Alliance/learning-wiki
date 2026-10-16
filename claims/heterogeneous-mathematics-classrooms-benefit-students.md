@@ -3,7 +3,7 @@ type: claim
 title: "A practice-framework article reports, citing Boaler and Staples (2008), that students in heterogeneous mathematics classrooms learn more, enjoy mathematics more and reach higher understanding than in streamed settings"
 description: A practice-framework article reports, citing Boaler and Staples (2008), that students in heterogeneous mathematics classrooms learn more, enjoy mathematics more and reach higher understanding than in streamed settings
 id: heterogeneous-mathematics-classrooms-benefit-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

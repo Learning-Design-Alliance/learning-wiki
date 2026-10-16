@@ -3,7 +3,7 @@ type: claim
 title: A research-grounded prompt revision improved scores for 10 of 11 models, with gains of 6.6 to 16.2 percentage points
 description: A research-grounded prompt revision improved scores for 10 of 11 models, with gains of 6.6 to 16.2 percentage points
 id: prompt-revision-improves-tutoring-scores-ten-of-eleven
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

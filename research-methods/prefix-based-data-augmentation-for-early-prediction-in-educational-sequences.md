@@ -3,7 +3,7 @@ type: research-method
 id: prefix-based-data-augmentation-for-early-prediction-in-educational-sequences
 title: Prefix-based data augmentation for early prediction in educational sequences
 description: "A data augmentation technique in which, instead of sliding windows or cropping, \"we generate all prefixes of each sequence (from length 1 to n), allowing the model to learn to make predictions at any point in a student's progression\"."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

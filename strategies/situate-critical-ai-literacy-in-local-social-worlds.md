@@ -3,7 +3,7 @@ type: strategy
 id: situate-critical-ai-literacy-in-local-social-worlds
 title: "Situate critical AI literacy curricula in AI as it appears in students' social worlds rather than abstract bias examples"
 description: "For curriculum designers and policymakers, the paper recommends shifting critical AI literacy \"from generalized awareness of sociopolitical issues of AI toward situated engagement with AI consequences for a specific c..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

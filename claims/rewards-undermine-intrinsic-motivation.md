@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25
@@ -201,3 +201,4 @@ Responding directly to Cameron and Pierce's (1994) conclusion that the undermini
 - [An analytical chapter identifies reward hacking, engagement optimization over learning, and scaffolding dependency as risks of RL policies with poorly specified rewards](rl-reward-misalignment-failure-modes.md) — related
 - [Extrinsic goals are more strongly associated with cheating than intrinsic enjoyment of learning](extrinsic-goals-associated-with-cheating.md) — related
 - [Student choice is rare in authentic assessment designs while assigned, sometimes graded, self-reflection is more common](aa-student-choice-rare-reflection-assigned.md) — related
+- [Well-designed games can promote persistence in practice and high-quality engagement, and when basic needs of autonomy, competence, and relatedness are met, learning becomes its own reward, reducing the temptation to outsource cognitive effort to LLMs.](well-designed-games-foster-practice-and-intrinsic-motivation.md) — related

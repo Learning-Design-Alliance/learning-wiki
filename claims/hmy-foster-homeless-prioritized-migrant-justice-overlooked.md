@@ -3,7 +3,7 @@ type: claim
 title: In both Colorado and Washington, youth in foster care and youth experiencing homelessness are consistently prioritized in policy and practice, while migrant and justice-involved youth remain less reliably supported
 description: In both Colorado and Washington, youth in foster care and youth experiencing homelessness are consistently prioritized in policy and practice, while migrant and justice-involved youth remain less reliably supported
 id: hmy-foster-homeless-prioritized-migrant-justice-overlooked
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

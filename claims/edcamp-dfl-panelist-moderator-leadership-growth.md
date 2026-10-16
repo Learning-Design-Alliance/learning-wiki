@@ -3,7 +3,7 @@ type: claim
 title: "Serving as panelists or moderators increased educators' reported expertise, peer-support confidence, and leadership confidence"
 description: "Serving as panelists or moderators increased educators' reported expertise, peer-support confidence, and leadership confidence"
 id: edcamp-dfl-panelist-moderator-leadership-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

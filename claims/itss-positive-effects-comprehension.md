@@ -3,7 +3,7 @@ type: claim
 title: ITSS has positive effects on reading comprehension, based on two studies meeting WWC standards covering 6,724 students
 description: ITSS has positive effects on reading comprehension, based on two studies meeting WWC standards covering 6,724 students
 id: itss-positive-effects-comprehension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

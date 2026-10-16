@@ -3,7 +3,7 @@ type: claim
 title: San Diego regional data show STEM access and pay remain inequitable by race, socioeconomic status, and gender
 description: San Diego regional data show STEM access and pay remain inequitable by race, socioeconomic status, and gender
 id: san-diego-stem-access-inequities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

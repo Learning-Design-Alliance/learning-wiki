@@ -3,7 +3,7 @@ type: claim
 title: Find the Fit did not affect the share of students completing the FAFSA early
 description: Find the Fit did not affect the share of students completing the FAFSA early
 id: find-the-fit-no-effect-early-fafsa-completion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

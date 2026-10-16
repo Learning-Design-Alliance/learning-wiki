@@ -3,7 +3,7 @@ type: claim
 title: Colleges adopted new technology platforms to increase efficiencies, but face challenges sustaining their use after the grant ends
 description: Colleges adopted new technology platforms to increase efficiencies, but face challenges sustaining their use after the grant ends
 id: technology-platforms-efficiency-adoption-sustainability-challenge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

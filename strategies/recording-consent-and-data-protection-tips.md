@@ -3,7 +3,7 @@ type: strategy
 id: recording-consent-and-data-protection-tips
 title: Record sessions with consent, data-protection communication, disclosure norms, and detailed notetaking
 description: "The recording tips sheet advises that recording 'can capture participants' exact words and preserve important details, supporting accurate analysis.' If recording, facilitators should gather consent and offer alternat..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

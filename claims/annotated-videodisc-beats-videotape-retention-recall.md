@@ -3,7 +3,7 @@ type: claim
 title: Students using an annotated interactive videodisc of a film outperformed students who saw the same film on videotape with a lecture, in retention and recall of information
 description: Students using an annotated interactive videodisc of a film outperformed students who saw the same film on videotape with a lecture, in retention and recall of information
 id: annotated-videodisc-beats-videotape-retention-recall
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

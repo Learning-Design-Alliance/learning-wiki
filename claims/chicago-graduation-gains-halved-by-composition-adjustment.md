@@ -3,7 +3,7 @@ type: claim
 title: Graduation by age 18 rose slightly, and adjusting for incoming student composition cuts the increase roughly in half
 description: Graduation by age 18 rose slightly, and adjusting for incoming student composition cuts the increase roughly in half
 id: chicago-graduation-gains-halved-by-composition-adjustment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

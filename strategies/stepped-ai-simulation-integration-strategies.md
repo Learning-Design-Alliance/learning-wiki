@@ -3,7 +3,7 @@ type: strategy
 id: stepped-ai-simulation-integration-strategies
 title: Implement AI simulations as complements within a stepped simulation continuum, with layered interaction modes and blended feedback
 description: "The review's synthesized design strategies position AI simulations as complements rather than substitutes to traditional simulation, creating a \"stepped\" simulation continuum where AI serves prelearning and basic skil..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: strategy
 id: evolving-concept-map-triage-teachable-moments
 title: Maintain a per-developer evolving concept map to triage teachable moments and calibrate interventions
 description: "SHIELD maintains a Developer's Evolving Concept Map, \"a per-developer representation of concepts the developer has previously demonstrated familiarity with, has been taught, or has been assessed on across past sessions\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

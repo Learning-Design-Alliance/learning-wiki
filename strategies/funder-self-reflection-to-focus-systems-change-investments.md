@@ -3,7 +3,7 @@ type: strategy
 id: funder-self-reflection-to-focus-systems-change-investments
 title: Funders use structured self-reflection to focus place-based systems change investments
 description: The recommended activity is for funders to work through the reflection tool with their foundations to sharpen investment choices.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

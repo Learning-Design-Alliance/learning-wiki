@@ -74,7 +74,7 @@ Perspective-taking deepens learning when learners must actively construct the ot
 
 ## Examples
 
-- **Structured Academic Controversy** — Johnson & Johnson's format: pairs research and present one position, reverse perspectives, then drop roles and build consensus; widely used in cooperative learning curricula
+- **[Structured Academic Controversy](../patterns/structured-academic-controversy.md)** — Johnson & Johnson's format: pairs research and present one position, reverse perspectives, then drop roles and build consensus; widely used in cooperative learning curricula
 - **[Facing History & Ourselves](https://www.facinghistory.org)** — history curriculum built on adopting the viewpoints of historical actors and victims to teach ethical reasoning
 - **Mock trials and moot courts** in law education — students argue assigned sides, requiring full reconstruction of opposing legal reasoning
 - **[iCivics](https://www.icivics.org)** — "Argument Wars" and related games cast students as advocates for positions they must argue from the inside

@@ -3,7 +3,7 @@ type: claim
 title: Hispanic adults valued culturally relevant visual design — bright colors, Hispanic representation, and realistic imagery — in lung cancer screening educational materials
 description: Hispanic adults valued culturally relevant visual design — bright colors, Hispanic representation, and realistic imagery — in lung cancer screening educational materials
 id: culturally-relevant-visual-design-lcs-materials
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

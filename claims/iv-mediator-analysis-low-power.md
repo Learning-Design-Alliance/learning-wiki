@@ -3,7 +3,7 @@ type: claim
 title: The IV approach to mediator analysis in clustered education RCTs has very little statistical power
 description: The IV approach to mediator analysis in clustered education RCTs has very little statistical power
 id: iv-mediator-analysis-low-power
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

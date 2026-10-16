@@ -3,7 +3,7 @@ type: claim
 title: Some students found the guided-inquiry worksheet activities insufficiently thought-provoking and the data exchange troublesome
 description: Some students found the guided-inquiry worksheet activities insufficiently thought-provoking and the data exchange troublesome
 id: students-criticize-inquiry-worksheets-low-thinking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

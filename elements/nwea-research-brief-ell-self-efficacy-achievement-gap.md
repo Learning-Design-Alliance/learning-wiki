@@ -3,7 +3,7 @@ type: element
 id: nwea-research-brief-ell-self-efficacy-achievement-gap
 title: NWEA research brief on English Language Learners, self-efficacy, and the achievement gap
 description: "A short NWEA research brief titled \"English Language Learners, self-efficacy, and the achievement gap\", listed on the webinar page under \"Associated Research\" alongside the working paper."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

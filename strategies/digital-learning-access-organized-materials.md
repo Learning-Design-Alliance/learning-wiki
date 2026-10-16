@@ -3,7 +3,7 @@ type: strategy
 id: digital-learning-access-organized-materials
 title: Increase access to digital learning so materials are organized and accessible online
 description: "The brief recommends increasing access to digital learning, which \"feels natural to students and also helps them organize information and complete their assignments.\" It acknowledges the benefits of digital learning a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

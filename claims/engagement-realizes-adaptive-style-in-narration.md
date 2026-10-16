@@ -3,7 +3,7 @@ type: claim
 title: Engagement removal lowers the adaptive score, indicating the engagement generator realizes persona-conditioned style choices in narration
 description: Engagement removal lowers the adaptive score, indicating the engagement generator realizes persona-conditioned style choices in narration
 id: engagement-realizes-adaptive-style-in-narration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

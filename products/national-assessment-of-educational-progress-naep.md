@@ -4,7 +4,7 @@ id: national-assessment-of-educational-progress-naep
 title: National Assessment of Educational Progress (NAEP)
 description: NAEP is a recurring national student assessment administered by the National Center for Education Statistics to measure achievement and trends across subjects and jurisdictions.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
@@ -26,6 +26,8 @@ NAEP is a recurring national student assessment administered by the National Cen
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **National Assessment of Educational Progress (NAEP) data, early 1990s to 2017, as the evidence base for the DC reform testimony**: The testimony rests on "nearly a quarter century of data (from the early 1990s to 2017)" from the National Assessment of Educational Progress, described on the page as "a national student assessment test that has been administered nationally every few years since the early 1990s". This long-run NAEP series supplied the outcome data for comparing DC with other areas before and after the 2007 reforms. (Duncan Chaplin (2021))
+- **NAEP reading framework: reading performance measured in two dimensions — three contexts for reading and four aspects of reading**: The NAEP reading framework is the blueprint specifying what the reading assessment measures. It defines reading broadly as developing a general understanding of texts, interpreting texts, and using texts for different purposes, and views reading as "an interactive and dynamic process involving the reader, the text, and the context of the reading experience." It specifies two dimensions: three contexts for reading (literary experience, information, performing a task) guiding text selection, and four aspects of reading guiding question types. The framework has guided the assessment since 1992 with updates that did not change content, permitting trend comparisons. (U.S. Department of Education (2007))
+- **NAEP reading assessment design: matrix sampling of passages, achievement levels, and item maps for interpreting scale scores**: The 2007 NAEP reading assessment is a nationally representative measure in which "each student took just a portion of the test, consisting of two 25-minute sections or one 50-minute section," with multiple-choice and constructed-response questions. Results are reported on a 0–500 scale, as percentages at or above Basic, Proficient, and Advanced achievement levels, and via item maps showing what students at different scale points can do. In 2007 more than 350,000 students at grades 4 and 8 participated, including 191,000 fourth-graders in 7,830 schools. (U.S. Department of Education (2007))
 
 ### Claims
 - [The 2007 DC school reforms improved student learning in math, per testimony based on NAEP data from the early 1990s to 2017](../claims/dc-reforms-improved-math-achievement.md) [+W]
@@ -38,8 +40,8 @@ NAEP is a recurring national student assessment administered by the National Cen
 
 ## Key Sources
 - Duncan Chaplin. (2021). Testimony: Impact of the DC School Reforms on Student Achievement. Mathematica. https://www.mathematica.org/publications/testimony-impact-of-the-dc-school-reforms-on-student-achievement
-
 <!-- merged 2026-10-10 from elements/naep-data-dc-reform-testimony ("National Assessment of Educational Progress (NAEP) data, early 1990s to 2017, as the evidence base for the DC reform testimony"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- U.S. Department of Education, National Center for Education Statistics. (2007). Reading 2007: National Assessment of Educational Progress at Grades 4 and 8. NCES 2007–496. https://nationsreportcard.gov
 
 # National Assessment of Educational Progress (NAEP) data, early 1990s to 2017, as the evidence base for the DC reform testimony
 

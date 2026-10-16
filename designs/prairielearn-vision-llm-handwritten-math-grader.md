@@ -3,7 +3,7 @@ type: design
 id: prairielearn-vision-llm-handwritten-math-grader
 title: PrairieLearn-integrated AI grading tool for handwritten mathematics with single-call transcription and rubric evaluation
 description: The article presents a prototype AI-assisted grading tool integrated into PrairieLearn, an open-source online assessment platform, that evaluates open-ended mathematical responses submitted as handwritten photographs.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

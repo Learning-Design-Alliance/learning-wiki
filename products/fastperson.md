@@ -4,7 +4,7 @@ id: fastperson
 title: FastPerson
 description: "FastPerson is a multimodal video-to-video summarization system developed by Kazuki Kawamura that generates condensed lecture videos while preserving the original speaker's voice and allowing chapter-level switching between summary and full versions."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

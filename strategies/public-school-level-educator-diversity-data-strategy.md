@@ -3,7 +3,7 @@ type: strategy
 id: public-school-level-educator-diversity-data-strategy
 title: Make school-level educator diversity data publicly available and easy to interpret so stakeholders can act on it
 description: "The brief recommends that states, as keepers of state data systems, collect and share useful and timely educator workforce data that is \"publicly available and easily accessible so stakeholders can make targeted, stra..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

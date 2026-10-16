@@ -3,7 +3,7 @@ type: strategy
 id: problem-solving-mentoring-approach-classroom-management
 title: Guide mentees through a problem-solving approach to classroom management using open-ended questions, think time, and pre-emptive thinking about what works
 description: "In this case, the mentor guided the mentee through a problem-solving approach to classroom management before each lesson: she asked \"pertinent questions\", gave the mentee \"think time\", and provided opportunities to im..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -47,4 +47,4 @@ In this case, the mentor guided the mentee through a problem-solving approach to
 -
 
 ## Key Sources
-- Sempowicz, T., & Hudson, P. (2011). Analysing mentoring dialogues for developing a preservice teacher's classroom management practices. Australian Journal of Teacher Education, 36(8). https://ro.ecu.edu.au/ajte/vol36/iss8/1
+- Sempowicz, T., & Hudson, P. (2011). Analysing mentoring dialogues for developing a preservice teacher's classroom management practices. Australian Journal of Teacher Education, 36(8). https://ro.ecu.edu.au/ajte/vol36/iss8/1. [doi:10.14221/ajte.2011v36n8.4](https://doi.org/10.14221/ajte.2011v36n8.4)

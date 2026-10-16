@@ -3,7 +3,7 @@ type: claim
 title: Standard errors sometimes differ across estimators, so policy conclusions from clustered education RCTs could be sensitive to the choice of estimator
 description: Standard errors sometimes differ across estimators, so policy conclusions from clustered education RCTs could be sensitive to the choice of estimator
 id: rct-policy-conclusions-sensitive-to-estimator-choice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

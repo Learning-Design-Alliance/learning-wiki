@@ -3,7 +3,7 @@ type: strategy
 id: mall-app-research-agenda-rosell-aguilar
 title: Prioritize research on app design quality, user behaviour, appsmashing, normalization, and attainment outcomes
 description: The article closes by proposing a research agenda for mobile apps in language learning, noting that research on learning outside the classroom is much smaller than classroom research.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

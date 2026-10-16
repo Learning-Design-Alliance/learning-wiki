@@ -3,7 +3,7 @@ type: claim
 title: Aided AAC systems show advantages over manual signs for acquiring requests, and motor imitation and matching skills predict manual sign acquisition
 description: Aided AAC systems show advantages over manual signs for acquiring requests, and motor imitation and matching skills predict manual sign acquisition
 id: aided-systems-advantage-over-manual-signs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

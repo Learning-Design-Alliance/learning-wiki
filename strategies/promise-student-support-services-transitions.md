@@ -3,7 +3,7 @@ type: strategy
 id: promise-student-support-services-transitions
 title: Integrate layered student support services across the transitions from middle and high school, into college, and through college
 description: "The Guidebook's Step 5 organizes support services by transition: supporting students in middle and high school, during the transition to college, and during college."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

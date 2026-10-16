@@ -3,7 +3,7 @@ type: claim
 title: Supplementing simulation-based inquiry with learner guidance has a modest effect on learning outcomes (d = 0.49) and inquiry skills (d = 0.41), independent of guidance type (review attribution to D'Angelo et al., 2014)
 description: Supplementing simulation-based inquiry with learner guidance has a modest effect on learning outcomes (d = 0.49) and inquiry skills (d = 0.41), independent of guidance type (review attribution to D'Angelo et al., 2014)
 id: simulation-guidance-moderate-effect-dangelo
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

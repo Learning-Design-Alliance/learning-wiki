@@ -3,7 +3,7 @@ type: design
 id: kli-framework-guiding-multi-agent-instructional-design
 title: Knowledge–Learning–Instruction (KLI) framework as an organizing theory for AI instructional design
 description: The KLI framework connects knowledge components, learning processes, and instructional principles to support robust learning.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

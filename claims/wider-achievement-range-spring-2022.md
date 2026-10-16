@@ -3,7 +3,7 @@ type: claim
 title: Students showed a wider range of achievement levels in spring 2022 than would be expected in a typical school year
 description: Students showed a wider range of achievement levels in spring 2022 than would be expected in a typical school year
 id: wider-achievement-range-spring-2022
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

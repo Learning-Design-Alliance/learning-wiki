@@ -3,7 +3,7 @@ type: claim
 title: Appending learning objectives to questions improves Bloom classification on the AF dataset
 description: Appending learning objectives to questions improves Bloom classification on the AF dataset
 id: learning-objectives-anchor-bloom-classification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

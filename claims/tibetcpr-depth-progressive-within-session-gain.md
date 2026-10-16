@@ -3,7 +3,7 @@ type: claim
 title: Depth accuracy rose progressively during the intervention, with the experimental group improving roughly three percentage points per minute faster than the control group
 description: Depth accuracy rose progressively during the intervention, with the experimental group improving roughly three percentage points per minute faster than the control group
 id: tibetcpr-depth-progressive-within-session-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

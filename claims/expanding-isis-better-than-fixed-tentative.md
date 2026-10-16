@@ -3,7 +3,7 @@ type: claim
 title: Expanding interstudy intervals led to better recall than fixed intervals, but conclusions are tentative
 description: Expanding interstudy intervals led to better recall than fixed intervals, but conclusions are tentative
 id: expanding-isis-better-than-fixed-tentative
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

@@ -3,7 +3,7 @@ type: strategy
 id: data-informed-targeted-support-foster-care
 title: Use linked cross-system data to target programs such as dropout prevention and postsecondary preparation for students in foster care
 description: "The article's authors recommend that child welfare professionals, educators, and policymakers use cross-system data to inform interventions for students in foster care."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

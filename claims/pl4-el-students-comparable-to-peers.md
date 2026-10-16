@@ -3,7 +3,7 @@ type: claim
 title: English Learner students at ELPAC PL 4 perform as well as, or better than, matched English-only peers on the state English language arts achievement test
 description: English Learner students at ELPAC PL 4 perform as well as, or better than, matched English-only peers on the state English language arts achievement test
 id: pl4-el-students-comparable-to-peers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

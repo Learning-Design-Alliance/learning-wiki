@@ -3,7 +3,7 @@ type: claim
 title: ICE environments are associated with mood disturbance, reduced motivation, social withdrawal, interpersonal conflict, and altered time perception
 description: ICE environments are associated with mood disturbance, reduced motivation, social withdrawal, interpersonal conflict, and altered time perception
 id: ice-environments-mood-and-team-risks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

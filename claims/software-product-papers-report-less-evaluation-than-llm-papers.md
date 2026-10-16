@@ -3,7 +3,7 @@ type: claim
 title: Since 2023, software/product papers report markedly less evaluation detail than LLM papers in review automation
 description: Since 2023, software/product papers report markedly less evaluation detail than LLM papers in review automation
 id: software-product-papers-report-less-evaluation-than-llm-papers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -18,8 +18,8 @@ sources:
     kind: associational
     rigour: 2
   - id: zabaleta-2026-2
-    resource: "https://arxiv.org/abs/2609.11559"
-    title: "Zabaleta, M. & Lin, B. (2026). PRISMA-LLM: An Empirical Reporting Framework for AI-Assisted Systematic Reviews. https://arxiv.org/abs/2609.11559"
+    resource: "https://doi.org/10.48550/arxiv.2609.11559"
+    title: "Zabaleta, M. & Lin, B. (2026). PRISMA-LLM: An Empirical Reporting Framework for AI-Assisted Systematic Reviews. https://arxiv.org/abs/2609.11559. [doi:10.48550/arxiv.2609.11559](https://doi.org/10.48550/arxiv.2609.11559)"
     author: "Zabaleta, M. & Lin, B."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Since 2023, software/product papers report markedly less evaluation detail than LLM papers in review automation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Since 2023, software/product papers average a reporting-richness score of 3.3 versus 6.3 for LLM papers and 6.0 for traditional, deep-learning, and BERT-oriented papers. [→ Zabaleta 2026](#zabaleta-2026)
@@ -50,7 +50,7 @@ Descriptive corpus comparison using the 0-15 reporting-richness index across app
 
 ### Zabaleta 2026 (2)
 
-Zabaleta, M. & Lin, B. (2026). PRISMA-LLM: An Empirical Reporting Framework for AI-Assisted Systematic Reviews. https://arxiv.org/abs/2609.11559
+Zabaleta, M. & Lin, B. (2026). PRISMA-LLM: An Empirical Reporting Framework for AI-Assisted Systematic Reviews. https://arxiv.org/abs/2609.11559. [doi:10.48550/arxiv.2609.11559](https://doi.org/10.48550/arxiv.2609.11559)
 
 `q2 · i?` · `associational · r2`
 

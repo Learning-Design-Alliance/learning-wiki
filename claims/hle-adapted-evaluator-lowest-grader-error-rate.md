@@ -3,7 +3,7 @@ type: claim
 title: "The HLE-adapted evaluator shows the lowest grader error rate (4.08%) among the evaluators audited"
 description: "The HLE-adapted evaluator shows the lowest grader error rate (4.08%) among the evaluators audited"
 id: hle-adapted-evaluator-lowest-grader-error-rate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

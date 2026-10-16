@@ -3,7 +3,7 @@ type: claim
 title: Teacher effects account for about one-fifth of within-student variation in course grades but average out of GPAs
 description: Teacher effects account for about one-fifth of within-student variation in course grades but average out of GPAs
 id: teacher-effects-one-fifth-within-student-variance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

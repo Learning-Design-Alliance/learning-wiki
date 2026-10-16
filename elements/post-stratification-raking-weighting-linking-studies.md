@@ -3,7 +3,7 @@ type: element
 id: post-stratification-raking-weighting-linking-studies
 title: Post-stratification raking weighting procedure for linking study samples
 description: "Because the linking study sample is voluntary and may differ from the state population, NWEA applies post-stratification weighting on race, sex, and performance level — variables \"known to be correlated with students'..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

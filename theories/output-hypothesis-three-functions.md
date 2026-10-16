@@ -2,7 +2,7 @@
 type: theory
 title: "Swain's output hypothesis with three functions of output in second-language acquisition"
 description: "The article's theoretical framework presents Swain's output hypothesis, which assigns production of language a significant role in second-language acquisition alongside comprehensible input."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

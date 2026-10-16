@@ -4,7 +4,7 @@ id: read-write-type-learning-system
 title: "Read, Write & Type!™ Learning System"
 description: "Read, Write & Type!™ Learning System is a game-like early-reading software program with supporting materials designed for beginning and struggling readers ages six to nine."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

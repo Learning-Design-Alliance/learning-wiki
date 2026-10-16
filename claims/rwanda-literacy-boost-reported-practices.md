@@ -3,7 +3,7 @@ type: claim
 title: PD-assigned teachers reported using significantly more research-based literacy pedagogical practices than control teachers
 description: PD-assigned teachers reported using significantly more research-based literacy pedagogical practices than control teachers
 id: rwanda-literacy-boost-reported-practices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

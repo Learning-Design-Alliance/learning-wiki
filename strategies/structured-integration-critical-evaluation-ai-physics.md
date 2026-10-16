@@ -3,7 +3,7 @@ type: strategy
 id: structured-integration-critical-evaluation-ai-physics
 title: Integrate AI into university physics with instructional structure, task alignment, and critical evaluation of AI outputs
 description: Based on the cross-study patterns, the review recommends that the educational value of AI in university physics depends on how AI is integrated into learning activities rather than on access to the technology alone.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

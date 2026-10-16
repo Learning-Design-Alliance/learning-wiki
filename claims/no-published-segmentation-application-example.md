@@ -3,7 +3,7 @@ type: claim
 title: No published research describes colleges using segmentation to improve student success, though authors and experts see promise in the approach
 description: No published research describes colleges using segmentation to improve student success, though authors and experts see promise in the approach
 id: no-published-segmentation-application-example
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

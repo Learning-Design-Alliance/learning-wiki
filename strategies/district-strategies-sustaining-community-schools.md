@@ -3,7 +3,7 @@ type: strategy
 id: district-strategies-sustaining-community-schools
 title: District strategies for sustaining and supporting community schools initiatives
 description: "The report distills implementation implications for districts adopting community schools: \"Districts adopting community school initiatives should consider implementing processes to enable broad-based support among sch..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

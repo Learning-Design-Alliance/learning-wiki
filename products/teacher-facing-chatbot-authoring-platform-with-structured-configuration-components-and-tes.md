@@ -4,7 +4,7 @@ id: teacher-facing-chatbot-authoring-platform-with-structured-configuration-comp
 title: Teacher-facing chatbot authoring platform with structured configuration components and testing features
 description: A web-based no-code platform developed by Riahi et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12
@@ -29,4 +29,4 @@ A web-based no-code platform developed by Riahi et al. for teachers to configure
 -
 
 ## Key Sources
-- Riahi, B., Ozturk, D., Guth, A., Li, J., Singh, D. P., Tian, X., Chiu, J., Lytle, N., Barnes, T., & Cateté, V. (2026). Will It Teach as Intended? How Teachers Configure Educational AI Chatbots. https://arxiv.org/abs/2609.29993
+- Riahi, B., Ozturk, D., Guth, A., Li, J., Singh, D. P., Tian, X., Chiu, J., Lytle, N., Barnes, T., & Cateté, V. (2026). Will It Teach as Intended? How Teachers Configure Educational AI Chatbots. https://arxiv.org/abs/2609.29993. [doi:10.48550/arxiv.2609.29993](https://doi.org/10.48550/arxiv.2609.29993)

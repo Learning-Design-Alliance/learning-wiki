@@ -3,7 +3,7 @@ type: claim
 title: The value of the student-staff collaboration was explored from student, staff, and institutional perspectives, with benefits, limitations, and recommendations presented
 description: The value of the student-staff collaboration was explored from student, staff, and institutional perspectives, with benefits, limitations, and recommendations presented
 id: student-staff-collaboration-value-three-perspectives
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

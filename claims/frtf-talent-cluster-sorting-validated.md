@@ -3,7 +3,7 @@ type: claim
 title: "Educators sorted 11 talents into the proposed FRTF clusters significantly above chance, from 94.8% (self-assessment) to 44.8% (critical thinking)"
 description: "Educators sorted 11 talents into the proposed FRTF clusters significantly above chance, from 94.8% (self-assessment) to 44.8% (critical thinking)"
 id: frtf-talent-cluster-sorting-validated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

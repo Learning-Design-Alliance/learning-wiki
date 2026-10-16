@@ -3,7 +3,7 @@ type: claim
 title: In simulation, an adaptive prompt router outperforms two static prompt baselines on pedagogical score across 390 scenarios
 description: In simulation, an adaptive prompt router outperforms two static prompt baselines on pedagogical score across 390 scenarios
 id: prompt-router-beats-static-baselines-simulation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

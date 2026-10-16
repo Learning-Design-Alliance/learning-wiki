@@ -3,7 +3,7 @@ type: strategy
 id: ubuntu-philosophy-tutor-pl-sessions
 title: Ubuntu philosophy sessions to build tutor community and student camaraderie
 description: Air Tutors implements the Ubuntu philosophy—recognizing the humanity of oneself through the humanity of others—first in tutor professional learning and then with students.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

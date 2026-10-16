@@ -3,7 +3,7 @@ type: element
 id: sble-review-evidence-base-1002-effect-sizes
 title: Evidence base of 1002 effect sizes from 32 quasi-experimental studies of school-based law enforcement
 description: "The review's synthesized corpus comprises \"a final sample of 1002 effect sizes from 32 studies,\" identified through searches of 64 databases (through 2009), then 18 and 35 databases in 2015 and 2020 updates."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

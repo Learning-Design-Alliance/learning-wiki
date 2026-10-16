@@ -173,7 +173,7 @@ Decoding taught words, decoding new words, spelling, fluency, comprehension and 
 - [Structured scope-and-sequence lesson pattern with daily 20-30 minute explicit phonics instruction](../designs/95-pcp-scope-sequence-daily-phonics-pattern.md)
 
 ### Validated
-- Ehri, Nunes, Stahl & Willows (2001) meta-analyzed 38 studies and found systematic phonics instruction significantly outperformed unsystematic or no phonics on word reading, decoding, and comprehension, with the largest effects in kindergarten and first grade [Ehri et al. (2001) meta-analysis of systematic phonics instruction.](https://doi.org/10.1598/RRQ.36.3.5) [+S]
+- Ehri, Nunes, Stahl & Willows (2001) meta-analyzed 38 studies and found systematic phonics instruction significantly outperformed unsystematic or no phonics on word reading, decoding, and comprehension, with the largest effects in kindergarten and first grade [Ehri et al. (2001) meta-analysis of systematic phonics instruction.](https://doi.org/10.3102/00346543071003393) [+S]
 
 ### Illustrative
 
@@ -212,7 +212,7 @@ Phonics instruction teaches the systematic relationships between written symbols
 
 ## Implications
 
-Phonics works because skilled reading depends on building automatic orthographic–phonological mappings; guessing from context or pictures is a poor substitute and can entrench bad habits. The National Reading Panel's meta-analysis found systematic phonics instruction produces significant advantages in word reading, decoding, and comprehension across grade levels, with the largest effects in kindergarten and first grade [Ehri et al. (2001) meta-analysis of systematic phonics instruction.](https://doi.org/10.1598/RRQ.36.3.5) [+S]. Once word recognition becomes automatic, attentional resources are freed for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Phonics is most effective when embedded in explicit teaching sequences with immediate practice and feedback, consistent with [Direct Instruction](../patterns/direct-instruction.md) and [Cognitive Load Theory](../theories/cognitive-load-theory.md) — decoding is a skill that must be automatized through many successful repetitions, not discovered through immersion alone. However, phonics is necessary but not sufficient: comprehension, vocabulary, and oral language must be developed in parallel, and instruction that overweights decoding at the expense of meaning can narrow what reading is for.
+Phonics works because skilled reading depends on building automatic orthographic–phonological mappings; guessing from context or pictures is a poor substitute and can entrench bad habits. The National Reading Panel's meta-analysis found systematic phonics instruction produces significant advantages in word reading, decoding, and comprehension across grade levels, with the largest effects in kindergarten and first grade [Ehri et al. (2001) meta-analysis of systematic phonics instruction.](https://doi.org/10.3102/00346543071003393) [+S]. Once word recognition becomes automatic, attentional resources are freed for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Phonics is most effective when embedded in explicit teaching sequences with immediate practice and feedback, consistent with [Direct Instruction](../patterns/direct-instruction.md) and [Cognitive Load Theory](../theories/cognitive-load-theory.md) — decoding is a skill that must be automatized through many successful repetitions, not discovered through immersion alone. However, phonics is necessary but not sufficient: comprehension, vocabulary, and oral language must be developed in parallel, and instruction that overweights decoding at the expense of meaning can narrow what reading is for.
 
 ### Context
 #### Requirements
@@ -222,14 +222,14 @@ Phonics works because skilled reading depends on building automatic orthographic
 - Ongoing [Assessment](../elements/assessment.md) of decoding accuracy — instruction should be adjusted based on which correspondences learners have and have not mastered
 
 #### Constraints
-- Effects are strongest in kindergarten through first grade; phonics interventions show smaller benefits for older struggling readers, who often need additional phonological and fluency work [Ehri et al. (2001) meta-analysis of systematic phonics instruction.](https://doi.org/10.1598/RRQ.36.3.5) [~M]
+- Effects are strongest in kindergarten through first grade; phonics interventions show smaller benefits for older struggling readers, who often need additional phonological and fluency work [Ehri et al. (2001) meta-analysis of systematic phonics instruction.](https://doi.org/10.3102/00346543071003393) [~M]
 - Less effective for learners who already decode accurately — continued phonics drill for proficient decoders yields minimal gains and displaces comprehension work
 - English's irregular orthography means some high-frequency words must be taught as partially irregular; pure phonics-only programs leave gaps
 - Phonics alone does not build vocabulary, background knowledge, or comprehension strategies; overemphasis can reduce time for meaning-making [~M]
 - Whole-language approaches that rely on context cues and memorizing words as wholes have been shown to produce weaker decoding outcomes [Castles, Rastle & Nation (2018) review of the reading wars.](https://doi.org/10.1177/1529100618772271) [-S]
 
 ### Target Learners
-- Beginning readers in kindergarten and grade 1, where effects are largest [Ehri et al. (2001) meta-analysis of systematic phonics instruction.](https://doi.org/10.1598/RRQ.36.3.5) [+S]
+- Beginning readers in kindergarten and grade 1, where effects are largest [Ehri et al. (2001) meta-analysis of systematic phonics instruction.](https://doi.org/10.3102/00346543071003393) [+S]
 - Struggling readers and learners at risk of reading difficulty, including those with dyslexia, for whom explicit systematic phonics is a core component of intervention
 - English learners, who benefit from explicit grapheme–phoneme mapping, especially when paired with oral language development
 - Learners who already decode fluently gain little from further phonics instruction
@@ -262,7 +262,7 @@ Phonics works because skilled reading depends on building automatic orthographic
 ## Examples
 
 ### Validated
-- Ehri, Nunes, Stahl & Willows (2001) meta-analyzed 38 studies and found systematic phonics instruction significantly outperformed unsystematic or no phonics on word reading, decoding, and comprehension, with the largest effects in kindergarten and first grade [Ehri et al. (2001) meta-analysis of systematic phonics instruction.](https://doi.org/10.1598/RRQ.36.3.5) [+S]
+- Ehri, Nunes, Stahl & Willows (2001) meta-analyzed 38 studies and found systematic phonics instruction significantly outperformed unsystematic or no phonics on word reading, decoding, and comprehension, with the largest effects in kindergarten and first grade [Ehri et al. (2001) meta-analysis of systematic phonics instruction.](https://doi.org/10.3102/00346543071003393) [+S]
 
 ### Illustrative
 

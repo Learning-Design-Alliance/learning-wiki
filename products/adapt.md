@@ -4,7 +4,7 @@ id: adapt
 title: AdaPT
 description: AdaPT is a Vue.js and TypeScript NestJS web application developed by Yanjie Zhang and colleagues that structures existing lesson plans, analyzes student learning profiles, and supports teacher-in-the-loop adaptation for differentiated K–12 instruction.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

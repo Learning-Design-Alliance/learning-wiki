@@ -3,7 +3,7 @@ type: strategy
 id: ai-conversational-debugging-guide-with-cautions
 title: Encourage students to use AI as a conversational debugging guide while informing them of LLM imperfections and cautioning against unjustified confident claims
 description: "The article recommends that educators treat off-the-shelf LLMs as conversational debugging guides for analog circuits, provided students are told about the models' weaknesses in breadboard and PCB schematic recognition."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

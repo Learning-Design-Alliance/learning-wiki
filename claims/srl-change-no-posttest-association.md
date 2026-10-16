@@ -3,7 +3,7 @@ type: claim
 title: Within-session SRL change shows no detectable association with unaided post-test performance
 description: Within-session SRL change shows no detectable association with unaided post-test performance
 id: srl-change-no-posttest-association
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: deterministic-replicable-text-analysis-methods
 title: Use deterministic, fully replicable text-analysis methods with documented search terms when analyzing large text corpora
 description: "This strategy replaces nondeterministic LLM-based counting with scripted exact string matching, so that \"Identical inputs produce identical outputs.\" The author used R (v4.4.1) with pdftools and tidyverse to convert p..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

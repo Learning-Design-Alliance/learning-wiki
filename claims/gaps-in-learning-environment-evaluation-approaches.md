@@ -3,7 +3,7 @@ type: claim
 title: The review identifies gaps in existing evaluative approaches for physical learning environments
 description: The review identifies gaps in existing evaluative approaches for physical learning environments
 id: gaps-in-learning-environment-evaluation-approaches
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

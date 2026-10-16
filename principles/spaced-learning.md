@@ -71,7 +71,7 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 36 claims (21 for, 14 mixed, 1 unmarked) · 28 studies (15 causal, 7 review, 5 quant-synthesis, 1 theoretical), `q1`–`q4` · 7 of 28 report an effect size · 30 claims rest on one study
+> **Evidence** · 37 claims (22 for, 14 mixed, 1 unmarked) · 29 studies (15 causal, 8 review, 5 quant-synthesis, 1 theoretical), `q1`–`q4` · 7 of 29 report an effect size · 31 claims rest on one study
 
 ## Description
 
@@ -158,6 +158,7 @@ Claims this page cited before it was rewritten as a conditional model, or that w
 - [Excess New Item Rate Leaves Items Stuck In First Leitner Deck](../claims/excess-new-item-rate-leaves-items-stuck-in-first-leitner-deck.md) [+M]
 - [Optimal Leitner Schedule Reviews Lower Decks More Often](../claims/optimal-leitner-schedule-reviews-lower-decks-more-often.md) [+W]
 - [Under the mean-recall approximation, the maximum achievable learning rate is convex in the learner's review frequency budget, suggesting increasing returns at lower budgets.](../claims/leitner-learning-rate-shows-increasing-returns-to-review-budget.md) [~W]
+- [Performance on final tests of learning is improved when multiple study sessions are spaced apart in time rather than massed in immediate succession](../claims/spacing-improves-final-test-performance.md) [+W] — attached 2026-10-15 from Carpenter et al. (2012), which proposed "Incorporate spacing into everyday instruction by separating study sessions over time rather than massing them"; tests this page's relationship.
 
 ## Source verification and open tests
 

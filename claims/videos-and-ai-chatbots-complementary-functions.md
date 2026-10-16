@@ -3,7 +3,7 @@ type: claim
 title: Instructional videos and AI chatbots show complementary rather than redundant functions for science learning
 description: Instructional videos and AI chatbots show complementary rather than redundant functions for science learning
 id: videos-and-ai-chatbots-complementary-functions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

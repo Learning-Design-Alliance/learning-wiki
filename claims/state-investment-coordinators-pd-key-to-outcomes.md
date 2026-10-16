@@ -3,7 +3,7 @@ type: claim
 title: State investments in coordinators, professional development, and technical assistance were key to achieving community schools outcomes
 description: State investments in coordinators, professional development, and technical assistance were key to achieving community schools outcomes
 id: state-investment-coordinators-pd-key-to-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Training in text structure improves college students' summaries, but summarizing has not been shown here to improve recall or writing more than rereading or other active reading"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: Faculty observed that students engage shallowly with AI-generated content without structure, concluding productive use must be modeled
 description: Faculty observed that students engage shallowly with AI-generated content without structure, concluding productive use must be modeled
 id: shallow-engagement-ai-generated-content
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

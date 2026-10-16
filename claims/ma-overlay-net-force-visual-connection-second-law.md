@@ -3,7 +3,7 @@ type: claim
 title: "Overlaying mass times calculated acceleration with net force from force plates provides a compelling visual connection to Newton's Second Law"
 description: "Overlaying mass times calculated acceleration with net force from force plates provides a compelling visual connection to Newton's Second Law"
 id: ma-overlay-net-force-visual-connection-second-law
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

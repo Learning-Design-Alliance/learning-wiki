@@ -4,7 +4,7 @@ id: curated-tcs-knowledge-base-with-847-lecture-slides-312-practice-problems-156
 title: Curated TCS knowledge base with 847 lecture slides, 312 practice problems, 156 proof templates, and 89 complexity worksheets
 description: A curated theoretical computer science knowledge base assembled by Sushan Adhikari for AlgoRAG, containing tagged instructional and practice resources for undergraduate and graduate learners.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

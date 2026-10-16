@@ -3,7 +3,7 @@ type: claim
 title: Find the Fit previously shifted application behavior, increasing applications to four or more colleges and to very competitive colleges
 description: Find the Fit previously shifted application behavior, increasing applications to four or more colleges and to very competitive colleges
 id: find-the-fit-shifted-college-applications
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

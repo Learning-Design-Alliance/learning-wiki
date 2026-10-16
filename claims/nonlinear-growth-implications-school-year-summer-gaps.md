@@ -3,7 +3,7 @@ type: claim
 title: Non-linear within-year growth has implications for extending the school year, summer learning loss, and racial/ethnic achievement gaps
 description: Non-linear within-year growth has implications for extending the school year, summer learning loss, and racial/ethnic achievement gaps
 id: nonlinear-growth-implications-school-year-summer-gaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

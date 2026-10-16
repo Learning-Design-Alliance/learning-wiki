@@ -3,7 +3,7 @@ type: claim
 title: In a pilot with 29 introductory radiation physics students, students reported that the pinch-and-spread gesture helped them feel wavelength and amplitude, with amplitude receiving the highest mean rating of 4.59
 description: In a pilot with 29 introductory radiation physics students, students reported that the pinch-and-spread gesture helped them feel wavelength and amplitude, with amplitude receiving the highest mean rating of 4.59
 id: ar-pinch-gesture-students-feel-wavelength-amplitude-pilot
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Mid-year entry effects on stable students are not driven by mid-year entrants' characteristics"
 description: "Mid-year entry effects on stable students are not driven by mid-year entrants' characteristics"
 id: mid-year-entry-effects-not-driven-by-entrant-characteristics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

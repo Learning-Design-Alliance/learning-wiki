@@ -3,7 +3,7 @@ type: strategy
 id: out-of-band-async-learning-channels-preserve-flow
 title: Deliver learning through asynchronous out-of-band channels that preserve developer flow
 description: "The article recommends that learning interventions \"surface through out-of-band channels such as asynchronous queues, feeds, or peripheral panels, rather than through blocking dialogs or interruptive prompts\", so that..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

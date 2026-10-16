@@ -3,7 +3,7 @@ type: research-method
 id: four-stage-dropout-timing-definitions-for-cross-institutional-persistence-comparison
 title: Four-stage dropout timing definitions for cross-institutional persistence comparison
 description: "The article collapses Simpson's nine potential dropout stages into four timing-based definitions of dropout (Table 2), distinguishing drops before course start, during the initial or Orientation week, and during instruction, and counting only \"active drops\" while excluding dormant (MIA) students."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

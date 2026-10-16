@@ -3,7 +3,7 @@ type: claim
 title: Equity and social justice research topics rose in prominence in the NSF EXP portfolio between 2017 and 2021 while research became more AI-focused
 description: Equity and social justice research topics rose in prominence in the NSF EXP portfolio between 2017 and 2021 while research became more AI-focused
 id: equity-topics-rose-ai-focus-grew-nsf-exp
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

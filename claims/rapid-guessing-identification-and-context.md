@@ -3,7 +3,7 @@ type: claim
 title: Rapid guessing can be identified from item-level response time, and its proper interpretation depends on contextual requirements
 description: Rapid guessing can be identified from item-level response time, and its proper interpretation depends on contextual requirements
 id: rapid-guessing-identification-and-context
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

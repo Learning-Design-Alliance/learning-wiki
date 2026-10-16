@@ -3,7 +3,7 @@ type: claim
 title: Instructional lecture produced no immediate significant change in metacognitive knowledge or regulation of cognition
 description: Instructional lecture produced no immediate significant change in metacognitive knowledge or regulation of cognition
 id: instructional-no-immediate-mkc-mrc-change
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

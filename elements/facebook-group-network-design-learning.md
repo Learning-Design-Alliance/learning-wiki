@@ -3,7 +3,7 @@ type: element
 id: facebook-group-network-design-learning
 title: "Student-created Facebook group network as informal learning infrastructure in a design Master's program"
 description: "A network of five student-created and managed Facebook groups (three cohort-based, a current years group, and an all years group including alumni) that supported an interaction design Master's program."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

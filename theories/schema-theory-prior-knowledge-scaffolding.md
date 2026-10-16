@@ -2,7 +2,7 @@
 type: theory
 title: "Schema theory: learning new information depends on relating it to existing mental blueprints"
 description: The article invokes schema theory and cognitive science to explain how the brain structures knowledge.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

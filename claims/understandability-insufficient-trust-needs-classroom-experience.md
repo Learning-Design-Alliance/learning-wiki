@@ -3,7 +3,7 @@ type: claim
 title: Understandability alone is insufficient to establish trust for some teachers, who require real classroom experience
 description: Understandability alone is insufficient to establish trust for some teachers, who require real classroom experience
 id: understandability-insufficient-trust-needs-classroom-experience
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

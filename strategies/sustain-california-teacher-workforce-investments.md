@@ -3,7 +3,7 @@ type: strategy
 id: sustain-california-teacher-workforce-investments
 title: "Sustain and expand California's teacher workforce investments: continued GSTG funding, residency sustainability, NBCT uptake studies, and better program data"
 description: "The report's policy recommendations call for continuing the three flagship investments beyond their one-time appropriations."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

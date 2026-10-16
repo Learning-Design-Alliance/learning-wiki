@@ -3,7 +3,7 @@ type: claim
 title: GBL approaches are more prevalent in informal settings while gamification dominates formal classrooms in robotics education
 description: GBL approaches are more prevalent in informal settings while gamification dominates formal classrooms in robotics education
 id: gbl-informal-gamification-formal-robotics-coupling
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

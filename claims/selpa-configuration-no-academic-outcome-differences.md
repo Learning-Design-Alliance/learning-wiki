@@ -3,7 +3,7 @@ type: claim
 title: No meaningful differences in academic outcomes (graduation, dropout, ELA/math/alternative assessment proficiency) exist between single- and multidistrict SELPAs or between SELPA compositions
 description: No meaningful differences in academic outcomes (graduation, dropout, ELA/math/alternative assessment proficiency) exist between single- and multidistrict SELPAs or between SELPA compositions
 id: selpa-configuration-no-academic-outcome-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

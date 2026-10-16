@@ -3,7 +3,7 @@ type: strategy
 id: ai-question-analysis-tailored-feedback-inquiry-depth
 title: Integrate AI-based question analysis tools to provide tailored feedback based on inquiry depth
 description: "The article's implication for practice states that \"Instructors could enhance learner engagement by integrating AI-based question analysis tools to provide tailored feedback based on inquiry depth.\" The strategy uses..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

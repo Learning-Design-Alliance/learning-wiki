@@ -3,7 +3,7 @@ type: claim
 title: Contact information for district EL leaders is often incomplete, and few web-form or superintendent emails receive responses
 description: Contact information for district EL leaders is often incomplete, and few web-form or superintendent emails receive responses
 id: incomplete-contact-info-few-responses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

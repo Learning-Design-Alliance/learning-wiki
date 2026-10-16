@@ -3,7 +3,7 @@ type: claim
 title: Progress Learning showed statistically significant positive impacts on both NWEA MAP and STAAR math scores in Forney ISD, Texas
 description: Progress Learning showed statistically significant positive impacts on both NWEA MAP and STAAR math scores in Forney ISD, Texas
 id: progress-learning-forney-map-staar-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

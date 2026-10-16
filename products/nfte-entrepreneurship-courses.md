@@ -4,7 +4,7 @@ id: nfte-entrepreneurship-courses
 title: NFTE entrepreneurship courses
 description: A semester- or year-long entrepreneurship curriculum developed and delivered by the Network for Teaching Entrepreneurship (NFTE), culminating in student business plans, presentations, and competitions.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

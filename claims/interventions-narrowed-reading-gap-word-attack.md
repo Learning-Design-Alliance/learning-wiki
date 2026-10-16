@@ -3,7 +3,7 @@ type: claim
 title: The interventions narrowed some reading gaps, reducing the Word Attack gap by about two-thirds for third graders and one-half for fifth graders
 description: The interventions narrowed some reading gaps, reducing the Word Attack gap by about two-thirds for third graders and one-half for fifth graders
 id: interventions-narrowed-reading-gap-word-attack
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

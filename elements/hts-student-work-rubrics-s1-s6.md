@@ -3,7 +3,7 @@ type: element
 id: hts-student-work-rubrics-s1-s6
 title: Historical Thinking Skills Student Work Rubrics (S1-S6) for assessing historical thinking in student products
 description: A companion set of six rubric dimensions (S1-S6) meant to study the extent to which high school world history student work exhibits historical thinking skills.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

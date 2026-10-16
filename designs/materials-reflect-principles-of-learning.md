@@ -3,7 +3,7 @@ type: design
 id: materials-reflect-principles-of-learning
 title: Adopted instructional materials should reflect learning principles, pupil maturity, major cultures, varied teaching methods, and individual differences
 description: "The framework's philosophy section sets criteria for what adopted courses and materials should reflect."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

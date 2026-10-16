@@ -3,7 +3,7 @@ type: claim
 title: BARR produces a larger statistically significant effect on NWEA MAP math scores in a single-school student-level randomized study, stronger for struggling students
 description: BARR produces a larger statistically significant effect on NWEA MAP math scores in a single-school student-level randomized study, stronger for struggling students
 id: barr-suburban-rct-map-math-es-033
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

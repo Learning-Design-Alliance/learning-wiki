@@ -3,7 +3,7 @@ type: strategy
 id: use-subskills-taxonomy-for-diagnosis-and-self-assessment
 title: "Use the unified subskills taxonomy to diagnose learners' strengths and weaknesses and to build self-assessment tools"
 description: The article recommends that teachers and teacher-researchers use the operationalized subskill list for diagnostic purposes, because subskills support pinpointing learner strengths and weaknesses.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

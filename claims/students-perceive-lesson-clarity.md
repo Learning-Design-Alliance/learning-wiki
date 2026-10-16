@@ -3,7 +3,7 @@ type: claim
 title: Students accurately perceive differences between clear and unclear lessons regardless of concept structure
 description: Students accurately perceive differences between clear and unclear lessons regardless of concept structure
 id: students-perceive-lesson-clarity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

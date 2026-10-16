@@ -3,7 +3,7 @@ type: claim
 title: Mentoring and coaching programs are associated with stronger principal practices, higher teacher ratings, and better student outcomes
 description: Mentoring and coaching programs are associated with stronger principal practices, higher teacher ratings, and better student outcomes
 id: principal-mentoring-coaching-improves-practice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

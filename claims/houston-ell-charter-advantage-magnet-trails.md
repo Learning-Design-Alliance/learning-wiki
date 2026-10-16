@@ -3,7 +3,7 @@ type: claim
 title: Houston charter school ELL students outperformed district-school ELL students in both subjects, while magnet ELL students trailed
 description: Houston charter school ELL students outperformed district-school ELL students in both subjects, while magnet ELL students trailed
 id: houston-ell-charter-advantage-magnet-trails
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: DysLexLens achieves a mean Answer Relevancy of 0.75 across 30 responses to research questions and follow-ups on dyslexia-AI Reddit data
 description: DysLexLens achieves a mean Answer Relevancy of 0.75 across 30 responses to research questions and follow-ups on dyslexia-AI Reddit data
 id: dyslexlens-mean-answer-relevancy-075
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

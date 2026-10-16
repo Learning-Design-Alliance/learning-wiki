@@ -3,7 +3,7 @@ type: claim
 title: SRJudge consistently outperforms state-of-the-art baselines on three knowledge concept tagging datasets
 description: SRJudge consistently outperforms state-of-the-art baselines on three knowledge concept tagging datasets
 id: srjudge-outperforms-baselines-three-datasets
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

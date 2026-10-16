@@ -3,7 +3,7 @@ type: claim
 title: Video analysis showed teachers enacted the same MDP in different ways and situations, while perceiving barriers to consistent implementation
 description: Video analysis showed teachers enacted the same MDP in different ways and situations, while perceiving barriers to consistent implementation
 id: m-plans-enactment-variation-and-implementation-barriers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

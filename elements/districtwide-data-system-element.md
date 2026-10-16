@@ -3,7 +3,7 @@ type: element
 id: districtwide-data-system-element
 title: Districtwide data system for secure, reliable data management
 description: "The guide states that \"effective, sustainable data use requires a secure and reliable data-management system at the district level\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

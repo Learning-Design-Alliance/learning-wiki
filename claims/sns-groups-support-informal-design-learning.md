@@ -3,7 +3,7 @@ type: claim
 title: Student-created Facebook groups support self-directed design learning and sharing of expertise outside the formal curriculum
 description: Student-created Facebook groups support self-directed design learning and sharing of expertise outside the formal curriculum
 id: sns-groups-support-informal-design-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

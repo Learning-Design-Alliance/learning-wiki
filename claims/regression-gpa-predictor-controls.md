@@ -3,7 +3,7 @@ type: claim
 title: GPA band remains a significant negative predictor of active AI engagement, positive affect, perceived learning impact, and AI-related disengagement when controlling for age, gender, and year category
 description: GPA band remains a significant negative predictor of active AI engagement, positive affect, perceived learning impact, and AI-related disengagement when controlling for age, gender, and year category
 id: regression-gpa-predictor-controls
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

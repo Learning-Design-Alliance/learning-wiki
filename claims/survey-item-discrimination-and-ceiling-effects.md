@@ -3,7 +3,7 @@ type: claim
 title: Survey items show good discrimination overall, but several items exhibit ceiling effects that limit measuring change over time
 description: Survey items show good discrimination overall, but several items exhibit ceiling effects that limit measuring change over time
 id: survey-item-discrimination-and-ceiling-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

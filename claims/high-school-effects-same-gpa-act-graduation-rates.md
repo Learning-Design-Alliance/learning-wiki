@@ -4,7 +4,7 @@ title: Students with the same HSGPA or the same ACT score graduate from college 
 description: Students with the same HSGPA or the same ACT score graduate from college at different rates depending on which high school they attended
 id: high-school-effects-same-gpa-act-graduation-rates
 aliases: [same-gpa-act-different-graduation-rates-by-high-school]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

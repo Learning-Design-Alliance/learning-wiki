@@ -3,7 +3,7 @@ type: claim
 title: High-intensity digital users show lower EF and reappraisal than moderate and low users, suggesting a threshold rather than linear dose-response pattern
 description: High-intensity digital users show lower EF and reappraisal than moderate and low users, suggesting a threshold rather than linear dose-response pattern
 id: digital-use-threshold-pattern-ef-er
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

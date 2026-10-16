@@ -3,7 +3,7 @@ type: claim
 title: "Lockdown training and drill participation improved students' knowledge and perceptions of preparedness without increasing anxiety, per the studies the brief reviews"
 description: "Lockdown training and drill participation improved students' knowledge and perceptions of preparedness without increasing anxiety, per the studies the brief reviews"
 id: lockdown-training-improves-preparedness-without-trauma
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

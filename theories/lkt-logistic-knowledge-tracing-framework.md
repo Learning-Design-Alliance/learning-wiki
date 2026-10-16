@@ -2,7 +2,7 @@
 type: theory
 title: "Logistic knowledge tracing (LKT): a symbolic notation framework for specifying logistic regression learner models"
 description: LKT is a theoretically motivated framework for systematic specification and evaluation of student models for adaptive instructional environments, built on logistic regression.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

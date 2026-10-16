@@ -3,7 +3,7 @@ type: claim
 title: Within-subjects designs also show a moderate-to-large modality effect (d = 0.73)
 description: Within-subjects designs also show a moderate-to-large modality effect (d = 0.73)
 id: modality-effect-within-subjects-d073
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

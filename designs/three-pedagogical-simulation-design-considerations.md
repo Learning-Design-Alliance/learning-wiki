@@ -3,7 +3,7 @@ type: design
 id: three-pedagogical-simulation-design-considerations
 title: "Three pedagogical design considerations for physics simulations: consistent world view, multiple representations, and game for concept testing"
 description: "The article enumerates three design insights that emerged as pushing the simulation's usefulness: (1) a simulation world view consistent with pen-and-paper representation, with velocity vectors pointing right even for..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

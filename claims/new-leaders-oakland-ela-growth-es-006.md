@@ -3,7 +3,7 @@ type: claim
 title: Students in New Leaders-led Oakland schools show greater ELA achievement growth than other OUSD students (effect size 0.06)
 description: Students in New Leaders-led Oakland schools show greater ELA achievement growth than other OUSD students (effect size 0.06)
 id: new-leaders-oakland-ela-growth-es-006
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

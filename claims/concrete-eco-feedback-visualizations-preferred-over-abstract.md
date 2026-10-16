@@ -3,7 +3,7 @@ type: claim
 title: Concrete, outcome-oriented eco-feedback visualizations with real-world analogies are rated more favorably than abstract metrics
 description: Concrete, outcome-oriented eco-feedback visualizations with real-world analogies are rated more favorably than abstract metrics
 id: concrete-eco-feedback-visualizations-preferred-over-abstract
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

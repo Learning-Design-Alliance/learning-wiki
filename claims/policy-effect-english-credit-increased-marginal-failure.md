@@ -3,7 +3,7 @@ type: claim
 title: The policy substantially increased English I credit earning for low-ability students, with marginal increases in English failure and slightly lower grades
 description: The policy substantially increased English I credit earning for low-ability students, with marginal increases in English failure and slightly lower grades
 id: policy-effect-english-credit-increased-marginal-failure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

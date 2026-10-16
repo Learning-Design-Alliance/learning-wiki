@@ -3,7 +3,7 @@ type: strategy
 id: bridges-getting-started-experience-pd
 title: Provide a structured first-year Getting Started Experience plus year-long administrator training when adopting a comprehensive curriculum
 description: "With adoption of Bridges in Mathematics, schools and districts receive \"a comprehensive Getting Started Experience for all teachers and instructional leaders during the first year of implementation.\" The full experien..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

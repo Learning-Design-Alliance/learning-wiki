@@ -3,7 +3,7 @@ type: claim
 title: Revising the rubric to operationalize pedagogical constructs raises human–machine agreement for openness and depth
 description: Revising the rubric to operationalize pedagogical constructs raises human–machine agreement for openness and depth
 id: rubric-revision-improves-machine-alignment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

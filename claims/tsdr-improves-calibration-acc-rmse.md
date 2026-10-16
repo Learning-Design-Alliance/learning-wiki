@@ -3,7 +3,7 @@ type: claim
 title: TSDR consistently improves calibration (ACC and RMSE) even on datasets where AUC gains plateau
 description: TSDR consistently improves calibration (ACC and RMSE) even on datasets where AUC gains plateau
 id: tsdr-improves-calibration-acc-rmse
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: tefa-pd-design-strategy
 title: "Design professional development that is intensive, on-site, peer-based, responsive, and grounded in teachers' real classroom experiences"
 description: "The project's professional development program embeds known best practices from the in-service PD literature: it is delivered on-site at teachers' own schools, builds a critical mass of peers who learn together, begin..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

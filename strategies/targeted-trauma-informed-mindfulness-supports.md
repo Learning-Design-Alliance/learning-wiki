@@ -3,7 +3,7 @@ type: strategy
 id: targeted-trauma-informed-mindfulness-supports
 title: Use targeted mindfulness supports for at-risk students with trauma-informed adaptation and participation choice
 description: "The brief describes intensive mindfulness supports for students facing risk factors such as trauma: mindful listening in restorative justice settings, teaching basic body awareness with prompts like \"Right now in my b..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

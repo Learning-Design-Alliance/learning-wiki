@@ -3,7 +3,7 @@ type: strategy
 id: school-climate-reform-checklist-for-decision-makers
 title: Use a decision-maker checklist to assess and reform discipline data, policies, and school climate
 description: The guide provides a checklist so decision-makers can assess what changes they can make to create positive school climates at the school, district, or state level.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

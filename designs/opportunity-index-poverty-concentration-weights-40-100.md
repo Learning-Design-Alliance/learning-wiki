@@ -3,7 +3,7 @@ type: design
 id: opportunity-index-poverty-concentration-weights-40-100
 title: "Weight school funding toward districts with the highest concentrations of poverty using an Opportunity Index with weights of 40%-100%"
 description: "The brief recommends Michigan replace its flat 11.5% At-Risk weight with a Massachusetts-style Opportunity Index in which \"districts with the most students living in poverty receive the highest additional funding.\" Ma..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

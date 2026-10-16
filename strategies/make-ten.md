@@ -65,7 +65,7 @@ Make Ten converts an unsolved fact into a solved one: instead of retrieving 8 + 
 ## Examples
 - **Singapore Math / Math in Focus** — introduces Make Ten via number bonds and ten-frames in Grade 1 before multi-digit addition ([Math in Focus](https://www.hmhco.com/programs/math-in-focus))
 - **Japanese elementary textbooks (e.g., Tokyo Shoseki Mathematics)** — build "ten-structured" teen-sum understanding through explicit lesson sequences on completing ten [Murata 2004]
-- **Number Talks (Parrish, 2010)** — classroom routines in which students share Make Ten decompositions aloud, exposing multiple solution paths
+- **[Number Talks](math-talks-number-talks.md) (Parrish, 2010)** — classroom routines in which students share Make Ten decompositions aloud, exposing multiple solution paths
 - **DreamBox Learning** — adaptive digital ten-frame activities that require completing the ten before accepting an answer ([DreamBox](https://www.dreambox.com))
 
 ## Key Sources

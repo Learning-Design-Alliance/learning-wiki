@@ -3,7 +3,7 @@ type: strategy
 id: mainstream-nature-based-pedagogy-strategy
 title: Bring nature and nature-based pedagogy into mainstream formal education, with institutional support for outdoor classes and partnerships
 description: The review concludes that it is time to take nature seriously as a resource for learning and to expand isolated nature-based efforts into increasingly mainstream practices.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

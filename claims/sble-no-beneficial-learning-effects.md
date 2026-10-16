@@ -3,7 +3,7 @@ type: claim
 title: SBLE shows no beneficial effects on learning outcomes or other analyzed outcomes
 description: SBLE shows no beneficial effects on learning outcomes or other analyzed outcomes
 id: sble-no-beneficial-learning-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

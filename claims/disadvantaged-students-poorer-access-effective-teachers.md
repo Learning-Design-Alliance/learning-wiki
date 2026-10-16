@@ -3,7 +3,7 @@ type: claim
 title: Disadvantaged students in 29 study districts receive poorer-quality instruction, on average, compared with other students
 description: Disadvantaged students in 29 study districts receive poorer-quality instruction, on average, compared with other students
 id: disadvantaged-students-poorer-access-effective-teachers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

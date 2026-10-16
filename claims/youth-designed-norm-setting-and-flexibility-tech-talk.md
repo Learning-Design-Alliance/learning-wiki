@@ -3,7 +3,7 @@ type: claim
 title: Youth designers specified norm setting and flexibility as key components of the Tech Talk game instructions
 description: Youth designers specified norm setting and flexibility as key components of the Tech Talk game instructions
 id: youth-designed-norm-setting-and-flexibility-tech-talk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

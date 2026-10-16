@@ -3,7 +3,7 @@ type: claim
 title: Comprehensive teacher induction did not measurably increase the percentage of teachers remaining in their district or in the profession compared to business-as-usual induction
 description: Comprehensive teacher induction did not measurably increase the percentage of teachers remaining in their district or in the profession compared to business-as-usual induction
 id: comprehensive-induction-no-retention-gains-year-two
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

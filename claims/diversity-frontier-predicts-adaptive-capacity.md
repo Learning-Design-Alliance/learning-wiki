@@ -3,7 +3,7 @@ type: claim
 title: Workers closest to the diversity frontier show the strongest adaptive outcomes, while frontier position is not associated with stronger wage sorting
 description: Workers closest to the diversity frontier show the strongest adaptive outcomes, while frontier position is not associated with stronger wage sorting
 id: diversity-frontier-predicts-adaptive-capacity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -18,8 +18,8 @@ sources:
     kind: associational
     rigour: 2
   - id: carpanelli-2026-2
-    resource: "https://arxiv.org/abs/2608.02102"
-    title: "Carpanelli, M., Duszynski, J. & Stephany, F. (2026). Navigating the skill diversity frontier: How skill complexity explains worker resilience. Working paper, Oxford Internet Institute. https://arxiv.org/abs/2608.02102"
+    resource: "https://doi.org/10.48550/arxiv.2608.02102"
+    title: "Carpanelli, M., Duszynski, J. & Stephany, F. (2026). Navigating the skill diversity frontier: How skill complexity explains worker resilience. Working paper, Oxford Internet Institute. https://arxiv.org/abs/2608.02102. [doi:10.48550/arxiv.2608.02102](https://doi.org/10.48550/arxiv.2608.02102)"
     author: "Carpanelli, M., Duszynski, J. & Stephany, F."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Workers closest to the diversity frontier show the strongest adaptive outcomes, while frontier position is not associated with stronger wage sorting
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Workers who achieve the highest attainable diversity for their level of specialisation display the strongest skill acquisition, occupational mobility, and AI skill adoption. [→ Carpanelli 2026](#carpanelli-2026)
@@ -50,7 +50,7 @@ Regression analysis comparing standardised specialisation, diversity, and fronti
 
 ### Carpanelli 2026 (2)
 
-Carpanelli, M., Duszynski, J. & Stephany, F. (2026). Navigating the skill diversity frontier: How skill complexity explains worker resilience. Working paper, Oxford Internet Institute. https://arxiv.org/abs/2608.02102
+Carpanelli, M., Duszynski, J. & Stephany, F. (2026). Navigating the skill diversity frontier: How skill complexity explains worker resilience. Working paper, Oxford Internet Institute. https://arxiv.org/abs/2608.02102. [doi:10.48550/arxiv.2608.02102](https://doi.org/10.48550/arxiv.2608.02102)
 
 `q2 · i?` · `associational · r2`
 

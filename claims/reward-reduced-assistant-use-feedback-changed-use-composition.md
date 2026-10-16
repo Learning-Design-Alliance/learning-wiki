@@ -3,7 +3,7 @@ type: claim
 title: The effort-based reward reduced how often participants used the assistant, whereas metacognitive feedback changed how they used it
 description: The effort-based reward reduced how often participants used the assistant, whereas metacognitive feedback changed how they used it
 id: reward-reduced-assistant-use-feedback-changed-use-composition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

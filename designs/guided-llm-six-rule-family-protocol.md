@@ -3,7 +3,7 @@ type: design
 id: guided-llm-six-rule-family-protocol
 title: Six-family guided LLM-use protocol operationalizing scaffolding, help-seeking, self-regulation, and AI-literacy principles
 description: "The guided-use protocol is a student-facing training and rule set delivered before Topic 2 with weekly reminders, framing the model as \"a fallible tutor rather than an answer source\" and emphasizing \"explanation-seeki..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

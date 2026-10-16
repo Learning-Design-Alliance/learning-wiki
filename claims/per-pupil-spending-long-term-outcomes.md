@@ -3,7 +3,7 @@ type: claim
 title: Increased per-pupil spending across all 12 years of public school is associated with more completed education, higher wages, and reduced adult poverty, with larger effects for low-income children
 description: Increased per-pupil spending across all 12 years of public school is associated with more completed education, higher wages, and reduced adult poverty, with larger effects for low-income children
 id: per-pupil-spending-long-term-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

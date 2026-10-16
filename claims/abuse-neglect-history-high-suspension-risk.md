@@ -3,7 +3,7 @@ type: claim
 title: Students with a history of abuse or neglect are at particularly high risk of suspension, with almost a third suspended in 2013-14
 description: Students with a history of abuse or neglect are at particularly high risk of suspension, with almost a third suspended in 2013-14
 id: abuse-neglect-history-high-suspension-risk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

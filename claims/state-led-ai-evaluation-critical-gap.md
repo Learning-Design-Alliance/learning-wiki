@@ -3,7 +3,7 @@ type: claim
 title: State-led AI evaluation is critical because robust national evaluation research is lacking and local leaders weigh state and local results more heavily
 description: State-led AI evaluation is critical because robust national evaluation research is lacking and local leaders weigh state and local results more heavily
 id: state-led-ai-evaluation-critical-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

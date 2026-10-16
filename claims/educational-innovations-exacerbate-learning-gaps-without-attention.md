@@ -3,7 +3,7 @@ type: claim
 title: Without attention, educational innovations tend to exacerbate rather than reduce learning gaps between well-off and lower-resourced individuals
 description: Without attention, educational innovations tend to exacerbate rather than reduce learning gaps between well-off and lower-resourced individuals
 id: educational-innovations-exacerbate-learning-gaps-without-attention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

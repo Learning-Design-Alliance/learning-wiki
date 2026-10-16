@@ -3,7 +3,7 @@ type: claim
 title: Rural students overall did not show a significant effect, but low-performing rural students did
 description: Rural students overall did not show a significant effect, but low-performing rural students did
 id: vplc-assistments-rural-subgroup-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

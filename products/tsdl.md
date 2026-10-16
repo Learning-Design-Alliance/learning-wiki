@@ -4,7 +4,7 @@ id: tsdl
 title: TSDL
 description: A state education agency’s linked administrative data system connecting teachers to students by course for policy implementation, educator-preparation evaluation, and analysis of student growth.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

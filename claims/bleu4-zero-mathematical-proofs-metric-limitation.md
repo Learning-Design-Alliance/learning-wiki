@@ -3,7 +3,7 @@ type: claim
 title: BLEU-4 scored zero on all 179 mathematical-proof responses, which the authors interpret as a property of n-gram metrics rather than system failure
 description: BLEU-4 scored zero on all 179 mathematical-proof responses, which the authors interpret as a property of n-gram metrics rather than system failure
 id: bleu4-zero-mathematical-proofs-metric-limitation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

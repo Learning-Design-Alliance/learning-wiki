@@ -3,7 +3,7 @@ type: element
 id: google-cardboard-low-cost-vr-setup
 title: Google Cardboard and smartphone-based VR as an inexpensive classroom VR setup
 description: The article describes Google Cardboard-style headsets, which resemble goggles and attach to a smartphone to become a VR headset enabling students to experience far-away places as if they were actually at the site.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

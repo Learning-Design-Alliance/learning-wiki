@@ -3,7 +3,7 @@ type: claim
 title: Students in traditional lecture STEM courses are 1.5 times more likely to fail than students in active-learning courses
 description: Students in traditional lecture STEM courses are 1.5 times more likely to fail than students in active-learning courses
 id: lecturing-increases-stem-failure-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

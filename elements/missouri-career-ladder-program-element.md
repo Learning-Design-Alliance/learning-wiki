@@ -3,7 +3,7 @@ type: element
 id: missouri-career-ladder-program-element
 title: Missouri Career Ladder Program
 description: The Missouri Career Ladder Program is a teacher incentive program in which school districts participate and teachers receive bonuses.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

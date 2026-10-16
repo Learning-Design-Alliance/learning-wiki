@@ -4,7 +4,7 @@ id: tue-cs-overlap-matrix-and-lu-erasmus-decision-set
 title: TU/e CS overlap matrix and LU Erasmus+ decision set
 description: A paired dataset comprising approved Computer Science course-overlap pairs from TU/e and anonymized Erasmus+ course-transfer decisions from Leiden University, assembled by Arthur Nijdam et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

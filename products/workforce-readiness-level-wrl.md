@@ -4,7 +4,7 @@ id: workforce-readiness-level-wrl
 title: Workforce Readiness Level (WRL)
 description: Smith et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12
@@ -33,4 +33,4 @@ Smith et al. (2026) propose the Workforce Readiness Level as a nine-stage, artif
 -
 
 ## Key Sources
-- Smith, Dalton Ross; Whittington, Wilburn; Martinez, Alejandro; Duncan, Aidan; Li, Gang. (2026). A Conceptual Framework for Enhancing Workforce Readiness for Smart Manufacturing in the AI Era. https://arxiv.org/abs/2608.11540
+- Smith, Dalton Ross; Whittington, Wilburn; Martinez, Alejandro; Duncan, Aidan; Li, Gang. (2026). A Conceptual Framework for Enhancing Workforce Readiness for Smart Manufacturing in the AI Era. https://arxiv.org/abs/2608.11540. [doi:10.48550/arxiv.2608.11540](https://doi.org/10.48550/arxiv.2608.11540)

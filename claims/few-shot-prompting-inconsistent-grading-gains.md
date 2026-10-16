@@ -3,7 +3,7 @@ type: claim
 title: Few-shot prompting modestly improves LLM-human score agreement, inconsistently across datasets and models
 description: Few-shot prompting modestly improves LLM-human score agreement, inconsistently across datasets and models
 id: few-shot-prompting-inconsistent-grading-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

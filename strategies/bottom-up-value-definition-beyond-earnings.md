@@ -3,7 +3,7 @@ type: strategy
 id: bottom-up-value-definition-beyond-earnings
 title: Define institutional value from the bottom up, incorporating learning outcomes, community engagement, and career readiness beyond earnings thresholds
 description: The article recommends that higher education leaders on campuses and in state governments define what value means for their students and communities.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

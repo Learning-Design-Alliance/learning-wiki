@@ -3,7 +3,7 @@ type: claim
 title: Individual-difference themes (academic motivation, emotional stability, gender, race and ethnicity) are associated with school belonging
 description: Individual-difference themes (academic motivation, emotional stability, gender, race and ethnicity) are associated with school belonging
 id: individual-difference-themes-school-belonging
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

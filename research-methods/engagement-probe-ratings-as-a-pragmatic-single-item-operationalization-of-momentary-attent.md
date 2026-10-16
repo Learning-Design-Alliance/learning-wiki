@@ -3,7 +3,7 @@ type: research-method
 id: engagement-probe-ratings-as-a-pragmatic-single-item-operationalization-of-momentary-attent
 title: Engagement-probe ratings as a pragmatic single-item operationalization of momentary attentional engagement
 description: "The article frames its single-item probe (\"How difficult was it to pay attention during the last minute of the lecture?\") as a temporally localized reference signal targeting perceived difficulty sustaining attention, explicitly not equivalent to engagement as a whole."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

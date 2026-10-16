@@ -3,7 +3,7 @@ type: element
 id: alumni-survey-design-toolkit
 title: Alumni Survey Design Toolkit for sustainability and scalability
 description: "The Alumni Survey Design Toolkit is a planned artifact for sustainability and scalability, comprising four components: \"1."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

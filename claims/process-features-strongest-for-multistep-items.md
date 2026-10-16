@@ -3,7 +3,7 @@ type: claim
 title: Reasoning-process features are particularly useful when difficulty depends on multi-step problem solving, and the representation also generalizes to text-based assessment items
 description: Reasoning-process features are particularly useful when difficulty depends on multi-step problem solving, and the representation also generalizes to text-based assessment items
 id: process-features-strongest-for-multistep-items
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

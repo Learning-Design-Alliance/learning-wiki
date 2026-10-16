@@ -3,7 +3,7 @@ type: claim
 title: "Source provenance labels functioned as a seal of authority: 11 of 12 participants failed to detect a planted source-card mismatch"
 description: "Source provenance labels functioned as a seal of authority: 11 of 12 participants failed to detect a planted source-card mismatch"
 id: provenance-paradox-uncritical-trust
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

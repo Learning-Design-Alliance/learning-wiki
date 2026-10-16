@@ -3,7 +3,7 @@ type: claim
 title: "The format of detailed disclosure (detailed text versus icon-based nutrition label) makes no difference to students' confidence about data collection"
 description: "The format of detailed disclosure (detailed text versus icon-based nutrition label) makes no difference to students' confidence about data collection"
 id: disclosure-format-no-effect-confidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

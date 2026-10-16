@@ -4,7 +4,7 @@ title: In math, the PARCC college-ready standard predicts higher college perform
 description: In math, the PARCC college-ready standard predicts higher college performance than the MCAS proficient standard, while in ELA the standards are similar
 id: parcc-college-ready-standard-higher-math-college-performance
 aliases: [parcc-math-standard-higher-college-performance-than-mcas]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

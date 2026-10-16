@@ -2,7 +2,7 @@
 type: theory
 title: "Kentucky K-8 computing framework: five key concepts of CS and seven big ideas of technology"
 description: "The TAN project organizes K-8 computing learning in Kentucky around two complementary taxonomies: five key concepts of computer science and seven big ideas of technology."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

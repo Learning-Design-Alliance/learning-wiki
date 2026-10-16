@@ -3,7 +3,7 @@ type: claim
 title: Over-reliance on AI scaffolding risks learned helplessness, so focus should shift to fostering self-regulated AI interaction
 description: Over-reliance on AI scaffolding risks learned helplessness, so focus should shift to fostering self-regulated AI interaction
 id: ai-scaffolding-fading-learned-helplessness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -59,3 +59,4 @@ Theoretical argument in the article's scaffolding section, drawing on the learne
 - [Effective AI use increases AI over-reliance, which negatively affects sustainable learning performance](effective-ai-use-increases-over-reliance-harming-learning.md) — related
 - [Most learners disregarded the system's learning and repetition recommendations, with self-regulated decision-making taking precedence over the suggested path](learners-disregard-g4l-recommendations.md) — related
 - [Automating constructive alignment with GenAI risks shifting it towards an instrument of compliance](genai-automation-shifts-constructive-alignment-toward-compliance.md) — related
+- [Over-reliance on AI dialogue systems fosters complacency and dependency that impairs students' decision-making abilities](ai-overreliance-impairs-decision-making.md) — related

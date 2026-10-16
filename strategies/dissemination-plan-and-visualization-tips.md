@@ -3,7 +3,7 @@ type: strategy
 id: dissemination-plan-and-visualization-tips
 title: Dissemination planning and accurate, accessible data visualization
 description: "The guide recommends a dissemination plan with 'multiple products with different messages..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

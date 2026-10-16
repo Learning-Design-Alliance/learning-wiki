@@ -3,7 +3,7 @@ type: claim
 title: The KOKU digital programme improves balance function at 12 weeks compared with standard care in community-dwelling older adults, with the effect increasing over time
 description: The KOKU digital programme improves balance function at 12 weeks compared with standard care in community-dwelling older adults, with the effect increasing over time
 id: koku-improves-balance-12-weeks-older-adults
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

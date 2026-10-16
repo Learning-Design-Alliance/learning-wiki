@@ -3,7 +3,7 @@ type: strategy
 id: mask-cells-fewer-than-five-students
 title: Mask small table cells (fewer than five students) when publishing study data
 description: "The agreement's Privacy Measures definition instructs receiving parties publishing tables to use cell suppression and other disclosure avoidance methods so students cannot be identified through small numbers displayed..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

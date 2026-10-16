@@ -3,7 +3,7 @@ type: claim
 title: Academic Support students, who attended regularly but earned below a 3.0 GPA, made up nearly 40 percent of students and saw academic struggles persist beyond the middle grades
 description: Academic Support students, who attended regularly but earned below a 3.0 GPA, made up nearly 40 percent of students and saw academic struggles persist beyond the middle grades
 id: condensed-eot-academic-support-persistent-struggles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

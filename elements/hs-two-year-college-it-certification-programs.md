@@ -3,7 +3,7 @@ type: element
 id: hs-two-year-college-it-certification-programs
 title: High school and two-year college IT skill certification programs
 description: Information technology skill certification programs in high schools and two-year colleges combine skill standards and certification tests within IT classes.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

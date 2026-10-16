@@ -3,7 +3,7 @@ type: claim
 title: Rural Idaho charter students outperform their TPS VCRs while urban, suburban and town charter students perform similarly
 description: Rural Idaho charter students outperform their TPS VCRs while urban, suburban and town charter students perform similarly
 id: idaho-rural-charter-advantage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

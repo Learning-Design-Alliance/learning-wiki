@@ -3,7 +3,7 @@ type: strategy
 id: communities-of-practice-for-ai-governance
 title: Foster communities of practice for AI governance instead of rigid top-down policies
 description: "The article recommends that universities move away from rigid, top-down AI policies and instead foster \"communities of practice,\" collaborative spaces where faculty, staff, and students navigate AI implementation toge..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
@@ -94,6 +94,8 @@ The article recommends that universities move away from rigid, top-down AI polic
 - [Professional development for AI ethics should create spaces for contextualised critique and resistance](pd-contextualised-critique-ai-ethics.md)
 - [Combine bottom-up co-design with top-down executive sponsorship, cross-unit collaboration and dedicated R&D capacity to embed institutional GenAI](bottom-up-codesign-top-down-sponsorship-genai-embedding.md)
 - [Tripartite institutional response: AI literacy, ethical infrastructure, and competence-based educator training](tripartite-agentic-ai-institutional-response.md)
+- [Develop student AI literacy and institutional GenAI policies, guidelines and safeguards for responsible integration](genai-literacy-and-institutional-policy-strategy.md)
+- [Teachers adopting EAI should address digital literacy and ethical design challenges identified for each AI dimension](teacher-challenges-eai-inclusion-digital-literacy-ethics.md)
 
 ## Examples
 -

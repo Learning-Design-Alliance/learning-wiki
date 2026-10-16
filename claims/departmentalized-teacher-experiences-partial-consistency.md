@@ -3,7 +3,7 @@ type: claim
 title: "Departmentalized elementary teachers' experiences matched some, but not all, hypothesized benefits and challenges of departmentalized instruction"
 description: "Departmentalized elementary teachers' experiences matched some, but not all, hypothesized benefits and challenges of departmentalized instruction"
 id: departmentalized-teacher-experiences-partial-consistency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

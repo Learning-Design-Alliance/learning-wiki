@@ -3,7 +3,7 @@ type: strategy
 id: contextual-decision-demographic-predictor-use
 title: "Decide whether to use demographic predictors case-by-case based on context: risk of discriminatory decision-making, who holds final choice, and stakes"
 description: The article offers a contextual decision framework rather than a blanket rule.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -45,4 +45,4 @@ The article offers a contextual decision framework rather than a blanket rule. U
 -
 
 ## Key Sources
-- Baker, R. S., Esbenshade, L., Vitale, J., & Karumbaiah, S. (2023). Using Demographic Data as Predictor Variables: a Questionable Choice. Journal of Educational Data Mining, 15(2). https://jedm.educationaldatamining.org/index.php/JEDM/article/view/619
+- Baker, R. S., Esbenshade, L., Vitale, J., & Karumbaiah, S. (2023). Using Demographic Data as Predictor Variables: a Questionable Choice. Journal of Educational Data Mining, 15(2). https://jedm.educationaldatamining.org/index.php/JEDM/article/view/619. [doi:10.35542/osf.io/y4wvj](https://doi.org/10.35542/osf.io/y4wvj)

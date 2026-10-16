@@ -3,7 +3,7 @@ type: claim
 title: Several collaboration activities show promise in spreading effective practices, but overall progress in increasing collaboration has been limited
 description: Several collaboration activities show promise in spreading effective practices, but overall progress in increasing collaboration has been limited
 id: collaboration-progress-limited-despite-promise
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

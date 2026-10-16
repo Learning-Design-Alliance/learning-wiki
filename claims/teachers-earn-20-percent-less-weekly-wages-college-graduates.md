@@ -3,7 +3,7 @@ type: claim
 title: "Public school teachers earned about 20% less in weekly wages than nonteacher college graduates in 2019"
 description: "Public school teachers earned about 20% less in weekly wages than nonteacher college graduates in 2019"
 id: teachers-earn-20-percent-less-weekly-wages-college-graduates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

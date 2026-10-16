@@ -3,7 +3,7 @@ type: strategy
 id: adopt-and-adapt-multiple-cl-models
 title: Adopt and adapt parts of several cooperative learning models to fit your teaching style and situation
 description: "In its conclusion, the chapter recommends that teachers not limit themselves to one model: \"Teachers can choose one of the models of CL described above, but may be better off adopting and adapting parts of several mod..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

@@ -3,7 +3,7 @@ type: claim
 title: Defining facilitation as speech produced by facilitators imposes a low performance ceiling on predictive facilitative models
 description: Defining facilitation as speech produced by facilitators imposes a low performance ceiling on predictive facilitative models
 id: facilitator-speech-definition-performance-ceiling
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

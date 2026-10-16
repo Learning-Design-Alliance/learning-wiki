@@ -3,7 +3,7 @@ type: design
 id: combined-measurement-laser-statistics-lab-pattern
 title: Laboratory combining a fundamental-constant measurement, laser physics investigation, and nontrivial statistical analysis
 description: "The article's laboratory design integrates three strands in one experiment: an accurate measurement of a fundamental constant, investigation of the basic laser system's longitudinal modes, and nontrivial statistical a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

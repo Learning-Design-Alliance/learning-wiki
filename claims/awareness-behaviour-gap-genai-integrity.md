@@ -3,7 +3,7 @@ type: claim
 title: "A gap exists between students' ethical awareness and their GenAI practices, with students who frequently engage in behaviours they view as unethical and rationalisations normalising such use"
 description: "A gap exists between students' ethical awareness and their GenAI practices, with students who frequently engage in behaviours they view as unethical and rationalisations normalising such use"
 id: awareness-behaviour-gap-genai-integrity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

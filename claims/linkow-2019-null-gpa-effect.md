@@ -3,7 +3,7 @@ type: claim
 title: In the Linkow et al. (2019) scale-up QED, coaching showed no statistically significant effect on cumulative college GPA (effect size 0.01, p = 0.82)
 description: In the Linkow et al.
 id: linkow-2019-null-gpa-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

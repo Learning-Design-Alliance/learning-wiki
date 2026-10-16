@@ -3,7 +3,7 @@ type: claim
 title: A predictive model built on school and child welfare data was assessed for identifying at-risk students in two Allegheny County education agencies
 description: A predictive model built on school and child welfare data was assessed for identifying at-risk students in two Allegheny County education agencies
 id: risk-model-assessed-two-allegheny-agencies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

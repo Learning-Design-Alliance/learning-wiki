@@ -3,7 +3,7 @@ type: claim
 title: "Disparities are not uniform: some gender- and sexual-minority groups report equal or better school experiences than majority peers (e.g., Black transgender students, Cambodian gay/lesbian students)"
 description: "Disparities are not uniform: some gender- and sexual-minority groups report equal or better school experiences than majority peers (e.g., Black transgender students, Cambodian gay/lesbian students)"
 id: lgbtq-disparities-vary-with-exceptions-by-group
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: reframe-challenging-behavior-as-communication
 title: Reframe challenging behavior as communication of an underlying need and respond rather than react
 description: "Under Relate, the brief urges teachers to \"Reframe students' challenging behaviors,\" explaining that \"Behavior is communication — it is telling a story or revealing an underlying need.\" Fight, flight, and freeze react..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

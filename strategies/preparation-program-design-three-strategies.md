@@ -3,7 +3,7 @@ type: strategy
 id: preparation-program-design-three-strategies
 title: Design educator preparation around pedagogical alignment, tightly linked clinical experiences, and a developmental approach to educator learning
 description: "The report recommends that program design center on a coherent vision of whole child development, learning, and teaching, including \"pedagogical alignment around a coherent vision of whole child development, learning,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

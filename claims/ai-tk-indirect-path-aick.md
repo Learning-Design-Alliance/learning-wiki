@@ -3,7 +3,7 @@ type: claim
 title: AI-TK contributes to AI-TPACK only indirectly through AI-TPK and AI-TCK, which positively predict AI-TPACK
 description: AI-TK contributes to AI-TPACK only indirectly through AI-TPK and AI-TCK, which positively predict AI-TPACK
 id: ai-tk-indirect-path-aick
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

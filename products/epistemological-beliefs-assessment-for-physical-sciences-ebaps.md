@@ -4,7 +4,7 @@ id: epistemological-beliefs-assessment-for-physical-sciences-ebaps
 title: Epistemological Beliefs Assessment for Physical Sciences (EBAPS)
 description: "EBAPS is a 30-item assessment instrument developed to measure physical-science students' epistemological beliefs across five non-orthogonal dimensions using prescribed weighted axis scores."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

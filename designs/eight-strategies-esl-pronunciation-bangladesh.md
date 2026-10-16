@@ -3,7 +3,7 @@ type: design
 id: eight-strategies-esl-pronunciation-bangladesh
 title: Eight-strategy pattern for overcoming ESL pronunciation challenges within the CLT framework
 description: "The review proposes a matched set of eight strategies mirroring its eight identified challenges: a pronunciation-oriented curriculum within CLT, inclusion of pronunciation assessment, teacher preparedness through CPD,..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-07

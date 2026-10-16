@@ -3,7 +3,7 @@ type: claim
 title: Civic-education-focused schooling can boost civic participation in adulthood
 description: Civic-education-focused schooling can boost civic participation in adulthood
 id: civic-focused-education-boosts-adult-participation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

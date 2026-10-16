@@ -3,7 +3,7 @@ type: strategy
 id: provider-district-collaboration-for-dlp-use
 title: Pursue continuous collaboration between digital learning platform providers and school districts, with teacher training, to interconnect platform use with instruction
 description: The report recommends that providers and school districts work continuously together to strengthen the connection between digital learning platforms and teachers.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

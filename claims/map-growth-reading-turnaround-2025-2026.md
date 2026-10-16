@@ -4,7 +4,7 @@ title: MAP Growth data shows U.S. reading improving after a period of post-COVID
 description: MAP Growth data shows U.S.
 id: map-growth-reading-turnaround-2025-2026
 aliases: [map-growth-reading-improvement-post-covid, map-growth-reading-improvement-post-covid-trends-2025-2026, map-growth-reading-turnaround-2025-2026-underserved-gains, map-growth-reading-improvements-after-stagnation, reading-gains-2025-2026-underserved-groups, post-covid-reading-positive-turn-2026, reading-improvements-after-post-covid-stagnation, map-growth-reading-improvements-post-covid, underserved-groups-largest-reading-gains-2025-2026]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Students framed AI as replacement rather than scaffolding in 48 of 49 essays
 description: Students framed AI as replacement rather than scaffolding in 48 of 49 essays
 id: replacement-frame-near-universal-in-essays
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

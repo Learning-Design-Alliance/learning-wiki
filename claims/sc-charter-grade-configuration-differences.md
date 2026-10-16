@@ -3,7 +3,7 @@ type: claim
 title: Charter middle school students gain in math while multi-level charter students lag in both subjects relative to TPS peers
 description: Charter middle school students gain in math while multi-level charter students lag in both subjects relative to TPS peers
 id: sc-charter-grade-configuration-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

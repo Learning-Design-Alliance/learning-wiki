@@ -3,7 +3,7 @@ type: claim
 title: "All six GenAI-SRL dimensions correlate positively with learners' perceived writing improvement (r = 0.275–0.338)"
 description: "All six GenAI-SRL dimensions correlate positively with learners' perceived writing improvement (r = 0.275–0.338)"
 id: genai-srl-dimensions-correlate-perceived-writing-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

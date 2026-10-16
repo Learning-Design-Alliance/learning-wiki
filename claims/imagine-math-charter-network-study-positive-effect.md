@@ -3,7 +3,7 @@ type: claim
 title: K–8 students using Imagine Math in a charter network scored significantly higher than matched non-users on NWEA MAP Growth Math (ES +0.08)
 description: K–8 students using Imagine Math in a charter network scored significantly higher than matched non-users on NWEA MAP Growth Math (ES +0.08)
 id: imagine-math-charter-network-study-positive-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

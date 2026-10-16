@@ -3,7 +3,7 @@ type: claim
 title: In Experiment 2, signed metacognitive bias scores showed no significant group effect or linear trend, failing to replicate the Experiment 1 signed-bias finding
 description: In Experiment 2, signed metacognitive bias scores showed no significant group effect or linear trend, failing to replicate the Experiment 1 signed-bias finding
 id: exp2-signed-metacognitive-bias-not-replicated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

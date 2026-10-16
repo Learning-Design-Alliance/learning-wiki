@@ -3,7 +3,7 @@ type: claim
 title: Redshirting kindergartners likely carries costs that outweigh its academic benefits
 description: Redshirting kindergartners likely carries costs that outweigh its academic benefits
 id: redshirting-costs-outweigh-academic-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

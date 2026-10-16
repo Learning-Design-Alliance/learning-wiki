@@ -3,7 +3,7 @@ type: claim
 title: Students perceive prerequisites, core course requirements, and master schedule constraints as barriers to accessing courses that interest them
 description: Students perceive prerequisites, core course requirements, and master schedule constraints as barriers to accessing courses that interest them
 id: students-report-prerequisites-block-course-access
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

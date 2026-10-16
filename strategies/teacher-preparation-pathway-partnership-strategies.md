@@ -3,7 +3,7 @@ type: strategy
 id: teacher-preparation-pathway-partnership-strategies
 title: Districts respond to shortages with teacher preparation and pathway strategies, especially partnerships coordinating student teaching and residency placements
 description: "Almost all shortage districts (93%) report adopting one or more preparation/pathway strategies: 72% work with teacher preparation programs to coordinate student teacher or residency placements, 62% to communicate hiri..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

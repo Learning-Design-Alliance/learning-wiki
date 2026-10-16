@@ -3,7 +3,7 @@ type: method
 id: item-deletion-only-if-reliability-improves
 title: Delete items only when test reliability improves upon deletion
 description: "The article proposes a data-driven item-deletion procedure: identify candidate items via the k0 intersection acceptance region (k0 ± 2SD of item scores, difficulty or discriminating values), skewness of the parameter..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

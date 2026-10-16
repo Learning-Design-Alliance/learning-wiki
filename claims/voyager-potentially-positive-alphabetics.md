@@ -3,7 +3,7 @@ type: claim
 title: The WWC found Voyager Universal Literacy System® had potentially positive effects on alphabetics for kindergarten students
 description: The WWC found Voyager Universal Literacy System® had potentially positive effects on alphabetics for kindergarten students
 id: voyager-potentially-positive-alphabetics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

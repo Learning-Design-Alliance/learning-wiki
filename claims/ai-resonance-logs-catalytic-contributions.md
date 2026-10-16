@@ -3,7 +3,7 @@ type: claim
 title: Affordance resonance can be documented at scale through AI-generated logs identifying seed contributions and cascading uptake
 description: Affordance resonance can be documented at scale through AI-generated logs identifying seed contributions and cascading uptake
 id: ai-resonance-logs-catalytic-contributions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

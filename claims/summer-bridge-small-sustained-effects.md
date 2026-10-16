@@ -3,7 +3,7 @@ type: claim
 title: "Summer Bridge produced only small sustained effects: slightly larger two-year gains than comparable non-attendees, without changing learning trajectories"
 description: "Summer Bridge produced only small sustained effects: slightly larger two-year gains than comparable non-attendees, without changing learning trajectories"
 id: summer-bridge-small-sustained-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Exposed item-bank problems did not show an overall 'seen before, hence easier' pattern in this sample"
 description: "Exposed item-bank problems did not show an overall 'seen before, hence easier' pattern in this sample"
 id: exposed-problems-not-easier-pattern
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

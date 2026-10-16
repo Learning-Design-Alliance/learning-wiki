@@ -3,7 +3,7 @@ type: strategy
 id: pre-task-similar-task-subtitled-videos-strategy
 title: Use pre-task subtitled videos of similar (not identical) tasks to build familiarity while preserving cognitive complexity
 description: Before completing a communicative task, learners watch short subtitled videos of native speakers performing a similar but not identical task, with full playback control.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

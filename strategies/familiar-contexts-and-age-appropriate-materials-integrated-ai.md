@@ -3,7 +3,7 @@ type: strategy
 id: familiar-contexts-and-age-appropriate-materials-integrated-ai
 title: Select familiar contextual topics and age-appropriate materials when integrating AI into subject courses
 description: "The article's practice implications hold that contextual knowledge matters in integrated AI curricula: \"it appears advantageous to select contextual topics in which students are competent and confident (e.g., human br..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

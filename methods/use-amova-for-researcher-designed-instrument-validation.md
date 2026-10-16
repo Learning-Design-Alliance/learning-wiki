@@ -3,7 +3,7 @@ type: method
 id: use-amova-for-researcher-designed-instrument-validation
 title: Use AMOVA to add validity and reliability assessment value for researcher-designed instruments, with further substantiating research
 description: "The article recommends AMOVA as a post hoc addition to instrument validation practice, claiming it \"adds considerable value to the methods designed to assess instrument validity and reliability especially when said in..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -50,4 +50,4 @@ The article recommends AMOVA as a post hoc addition to instrument validation pra
 -
 
 ## Key Sources
-- Osler, J. E. (2015). AMOVA ["Accumulative Manifold Validation Analysis"]: An advanced statistical methodology designed to measure and test the validity, reliability, and overall efficacy of inquiry-based psychometric instruments. i-manager's Journal of Educational Technology, 12(3). https://eric.ed.gov/?id=EJ1098595
+- Osler, J. E. (2015). AMOVA ["Accumulative Manifold Validation Analysis"]: An advanced statistical methodology designed to measure and test the validity, reliability, and overall efficacy of inquiry-based psychometric instruments. i-manager's Journal of Educational Technology, 12(3). https://eric.ed.gov/?id=EJ1098595. [doi:10.26634/jet.12.3.3742](https://doi.org/10.26634/jet.12.3.3742)

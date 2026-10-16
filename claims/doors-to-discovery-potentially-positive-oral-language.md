@@ -3,7 +3,7 @@ type: claim
 title: Doors to Discovery™ shows potentially positive effects on preschool oral language (PPVT-III effect size 0.27, not statistically significant)
 description: Doors to Discovery™ shows potentially positive effects on preschool oral language (PPVT-III effect size 0.27, not statistically significant)
 id: doors-to-discovery-potentially-positive-oral-language
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

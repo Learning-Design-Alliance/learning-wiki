@@ -3,7 +3,7 @@ type: theory
 title: Ontological Alignment
 description: Coordinating between students' existing ideas and the representational system of a computational modeling tool — treating a tool's structure (what it makes visible and manipulable) as something a teacher must actively interface with student thinking, rather than treating gaps in student understanding only as misconceptions to correct.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

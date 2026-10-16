@@ -3,7 +3,7 @@ type: claim
 title: Statewide OPTEL webinars showed high self-reported impact on participant knowledge and perceived quality
 description: Statewide OPTEL webinars showed high self-reported impact on participant knowledge and perceived quality
 id: optel-webinar-high-survey-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Across both institutions, GATs showed no significant effect on long-term summative exam performance
 description: Across both institutions, GATs showed no significant effect on long-term summative exam performance
 id: gats-no-long-term-exam-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

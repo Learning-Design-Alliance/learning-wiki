@@ -3,7 +3,7 @@ type: claim
 title: "Peer pairing increases English learners' peer-directed language behavior but shows no significant effect on listening comprehension or teacher-directed language (Jun-Aust, 1985)"
 description: "Peer pairing increases English learners' peer-directed language behavior but shows no significant effect on listening comprehension or teacher-directed language (Jun-Aust, 1985)"
 id: peer-pairing-language-behavior-jun-aust
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

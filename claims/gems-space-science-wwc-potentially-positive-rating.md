@@ -3,7 +3,7 @@ type: claim
 title: The WWC rates GEMS® Space Science Sequence as having potentially positive effects on general science achievement, with a small extent of evidence
 description: The WWC rates GEMS® Space Science Sequence as having potentially positive effects on general science achievement, with a small extent of evidence
 id: gems-space-science-wwc-potentially-positive-rating
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

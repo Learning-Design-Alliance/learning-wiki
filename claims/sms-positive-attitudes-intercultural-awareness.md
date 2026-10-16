@@ -3,7 +3,7 @@ type: claim
 title: Learners showed positive attitudes toward receiving SMS vocabulary messages, and instant messaging raised intercultural awareness
 description: Learners showed positive attitudes toward receiving SMS vocabulary messages, and instant messaging raised intercultural awareness
 id: sms-positive-attitudes-intercultural-awareness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

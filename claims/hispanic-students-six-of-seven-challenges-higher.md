@@ -3,7 +3,7 @@ type: claim
 title: Hispanic students reported higher frequencies of six of the seven non-technology challenges measured in the survey
 description: Hispanic students reported higher frequencies of six of the seven non-technology challenges measured in the survey
 id: hispanic-students-six-of-seven-challenges-higher
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

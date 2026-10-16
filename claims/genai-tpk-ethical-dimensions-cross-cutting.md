@@ -3,7 +3,7 @@ type: claim
 title: Ethical concerns (bias, transparency, privacy, authorship, accountability) emerge as cross-cutting dimensions of GenAI-specific TPK across studies of teacher educators
 description: Ethical concerns (bias, transparency, privacy, authorship, accountability) emerge as cross-cutting dimensions of GenAI-specific TPK across studies of teacher educators
 id: genai-tpk-ethical-dimensions-cross-cutting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: research-method
 id: chapelles-six-criterion-evaluation-framework-for-call-task-appropriateness
 title: "Chapelle's six-criterion evaluation framework for CALL task appropriateness"
 description: "Chapelle's (2001) framework delineates six criteria for assessing the task appropriateness of CALL tools: \"Language Learning Potential, Learner Fit, Meaning Focus, Authenticity, Positive Impact, and Practicality\"."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: The course-specific MAP Growth norms were built from 747,936 test events administered to 342,821 students in Grades 6–12 across 50 states between Fall 2017 and Spring 2019.
 description: The course-specific MAP Growth norms were built from 747,936 test events administered to 342,821 students in Grades 6–12 across 50 states between Fall 2017 and Spring 2019.
 id: map-course-specific-norms-sample-747936-events
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Improvements over baselines are statistically significant, with Cohen's d ranging from 1.2 to 1.8 for key metrics"
 description: "Improvements over baselines are statistically significant, with Cohen's d ranging from 1.2 to 1.8 for key metrics"
 id: statistical-significance-effect-sizes-key-metrics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

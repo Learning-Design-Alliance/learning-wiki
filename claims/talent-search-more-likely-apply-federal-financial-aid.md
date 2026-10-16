@@ -3,7 +3,7 @@ type: claim
 title: Talent Search participants were more likely than matched comparison students to apply for federal financial aid
 description: Talent Search participants were more likely than matched comparison students to apply for federal financial aid
 id: talent-search-more-likely-apply-federal-financial-aid
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Completing meaning-focused tasks through CMC fosters negotiated interactions in all three modes (discussion board, text chat, videoconferencing)
 description: Completing meaning-focused tasks through CMC fosters negotiated interactions in all three modes (discussion board, text chat, videoconferencing)
 id: cmc-meaning-focused-tasks-foster-negotiated-interactions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

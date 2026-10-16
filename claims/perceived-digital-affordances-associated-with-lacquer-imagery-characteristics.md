@@ -3,7 +3,7 @@ type: claim
 title: Perceived immersive, interactive, and distributed affordances are each positively associated with a distinct lacquer-painting imagery characteristic in cross-sectional survey data
 description: Perceived immersive, interactive, and distributed affordances are each positively associated with a distinct lacquer-painting imagery characteristic in cross-sectional survey data
 id: perceived-digital-affordances-associated-with-lacquer-imagery-characteristics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

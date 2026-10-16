@@ -3,7 +3,7 @@ type: strategy
 id: predefined-email-templates-instructor-notes
 title: Support instructors during execution with predefined email templates and instructor notes
 description: "The authors recommend that designers \"provide predefined email templates covering a range of possible replies to trainees\" and provide instructor notes detailing actions and inputs requiring instructor assistance."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

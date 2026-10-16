@@ -3,7 +3,7 @@ type: claim
 title: Personalism and academic press each had only small influences on engagement, but their combination elevated student academic engagement substantially
 description: Personalism and academic press each had only small influences on engagement, but their combination elevated student academic engagement substantially
 id: personalism-press-combined-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

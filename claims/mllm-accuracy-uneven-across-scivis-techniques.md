@@ -3,7 +3,7 @@ type: claim
 title: MLLM performance on SVLAT is highly uneven across SciVis techniques, with Scientific Illustration most accessible and texture-based and integration-based visualizations revealing human-model gaps
 description: MLLM performance on SVLAT is highly uneven across SciVis techniques, with Scientific Illustration most accessible and texture-based and integration-based visualizations revealing human-model gaps
 id: mllm-accuracy-uneven-across-scivis-techniques
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

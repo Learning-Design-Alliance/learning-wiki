@@ -4,7 +4,7 @@ id: toolkit-for-building-a-virtual-learning-cohort
 title: Toolkit for Building a Virtual Learning Cohort
 description: A Mathematica toolkit that helps facilitators plan and evaluate virtual learning cohorts through guiding values and ten transferable planning tools.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

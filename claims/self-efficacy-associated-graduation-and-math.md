@@ -3,7 +3,7 @@ type: claim
 title: Academic self-efficacy is associated with high school graduation rates and mathematics achievement
 description: Academic self-efficacy is associated with high school graduation rates and mathematics achievement
 id: self-efficacy-associated-graduation-and-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

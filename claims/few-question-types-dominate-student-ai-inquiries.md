@@ -3,7 +3,7 @@ type: claim
 title: A small subset of question types accounts for the majority of student inquiries to AI, with Assertion the most frequent category in both CS2 sessions
 description: A small subset of question types accounts for the majority of student inquiries to AI, with Assertion the most frequent category in both CS2 sessions
 id: few-question-types-dominate-student-ai-inquiries
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Negative achievement effects of suspension are robust to instrumental variable estimates leveraging a district-wide suspension policy change
 description: Negative achievement effects of suspension are robust to instrumental variable estimates leveraging a district-wide suspension policy change
 id: suspension-effects-robust-to-iv-policy-change
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

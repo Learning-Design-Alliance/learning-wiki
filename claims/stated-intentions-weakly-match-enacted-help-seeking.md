@@ -3,7 +3,7 @@ type: claim
 title: "Students' stated pre-interaction intentions only weakly correspond to their enacted help-seeking with an LLM"
 description: "Students' stated pre-interaction intentions only weakly correspond to their enacted help-seeking with an LLM"
 id: stated-intentions-weakly-match-enacted-help-seeking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

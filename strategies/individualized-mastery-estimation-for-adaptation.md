@@ -3,7 +3,7 @@ type: strategy
 id: individualized-mastery-estimation-for-adaptation
 title: Enhance intelligent tutoring systems by individualized mastery estimation to guide instructional adaptation
 description: "The article recommends exploiting individualized knowledge estimates to enhance intelligent tutoring systems' mastery decisions."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

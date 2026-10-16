@@ -3,7 +3,7 @@ type: strategy
 id: start-stop-continue-promising-practices
 title: Use the Start, Stop, Continue process to surface and act on promising practices with educational partners
 description: The Start, Stop, Continue process lets district and school staff engage educational partners in reflecting on problems of practice or school climate goals.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

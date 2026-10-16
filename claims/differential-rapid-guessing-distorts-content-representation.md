@@ -3,7 +3,7 @@ type: claim
 title: Differential rapid guessing often resulted in test events with meaningfully distorted item content representation
 description: Differential rapid guessing often resulted in test events with meaningfully distorted item content representation
 id: differential-rapid-guessing-distorts-content-representation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

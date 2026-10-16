@@ -3,7 +3,7 @@ type: claim
 title: Chambers et al. report a statistically significant expressive language effect for 3-year-olds but not 4-year-olds, which WWC recalculation does not confirm
 description: Chambers et al.
 id: curiosity-corner-expressive-language-age-group-mixed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

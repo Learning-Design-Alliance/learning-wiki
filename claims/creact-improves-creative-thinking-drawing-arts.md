@@ -3,7 +3,7 @@ type: claim
 title: "Twenty-three 5th graders' creativity scores rise after nine CREACT drawing-arts lessons in a one-group pretest-posttest study without a control group (effect size .71)"
 description: "Twenty-three 5th graders' creativity scores rise after nine CREACT drawing-arts lessons in a one-group pretest-posttest study without a control group (effect size .71)"
 id: creact-improves-creative-thinking-drawing-arts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

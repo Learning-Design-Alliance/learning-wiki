@@ -3,7 +3,7 @@ type: claim
 title: "Shortage districts fill vacancies with substandard-credential teachers (55%), substitutes (24%), and out-of-field assignments (22%), with high-poverty districts using substandard credentials most"
 description: "Shortage districts fill vacancies with substandard-credential teachers (55%), substitutes (24%), and out-of-field assignments (22%), with high-poverty districts using substandard credentials most"
 id: districts-staff-vacancies-substandard-credentials-substitutes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

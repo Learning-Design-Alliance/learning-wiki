@@ -3,7 +3,7 @@ type: claim
 title: The expanded edition of How People Learn draws on two NRC committee efforts, the second of which was formed to link learning research to classroom practice
 description: The expanded edition of How People Learn draws on two NRC committee efforts, the second of which was formed to link learning research to classroom practice
 id: hpl-expanded-edition-two-committee-origins
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

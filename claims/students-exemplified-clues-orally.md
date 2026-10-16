@@ -3,7 +3,7 @@ type: claim
 title: Students exemplified discovered clues when explaining their designs orally
 description: Students exemplified discovered clues when explaining their designs orally
 id: students-exemplified-clues-orally
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

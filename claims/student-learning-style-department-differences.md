@@ -3,7 +3,7 @@ type: claim
 title: Student learning styles differ significantly by department, particularly on Concrete Experience and Abstract Conceptualization
 description: Student learning styles differ significantly by department, particularly on Concrete Experience and Abstract Conceptualization
 id: student-learning-style-department-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

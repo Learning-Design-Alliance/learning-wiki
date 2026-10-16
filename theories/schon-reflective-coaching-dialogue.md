@@ -3,7 +3,7 @@ type: theory
 title: "Schon's reflective coaching: learning design-like practice through a dialogue of words and actions"
 description: "The paper analyzes Schon's account of how master practitioners induct novices into design-like practices."
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

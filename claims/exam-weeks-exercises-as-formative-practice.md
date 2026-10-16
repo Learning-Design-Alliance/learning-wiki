@@ -3,7 +3,7 @@ type: claim
 title: In examination weeks, students revisited prior topics and used exercises, whose deadlines had passed, as formative practice for the exams
 description: In examination weeks, students revisited prior topics and used exercises, whose deadlines had passed, as formative practice for the exams
 id: exam-weeks-exercises-as-formative-practice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

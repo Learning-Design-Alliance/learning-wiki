@@ -3,7 +3,7 @@ type: claim
 title: "The perceived value of GenAI and XR varied across design stages: GenAI suited early exploratory prototyping, XR once a 3D artifact existed for spatial evaluation"
 description: "The perceived value of GenAI and XR varied across design stages: GenAI suited early exploratory prototyping, XR once a 3D artifact existed for spatial evaluation"
 id: phase-dependent-genai-xr-value-design-stages
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

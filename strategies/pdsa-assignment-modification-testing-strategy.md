@@ -3,7 +3,7 @@ type: strategy
 id: pdsa-assignment-modification-testing-strategy
 title: Run PDSA cycles in which researcher-practitioner teams test modified assignments against as-is versions across multiple classrooms
 description: "The paper recommends organizing improvement work as Plan-Do-Study-Act cycles in which teachers and researchers create \"two or more versions of some assignments: the 'as-is' version and a modified version\" and use a pl..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

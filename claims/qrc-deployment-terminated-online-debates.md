@@ -3,7 +3,7 @@ type: claim
 title: An initial QRC deployment terminated artificially created pseudoscience debates on several popular web portals
 description: An initial QRC deployment terminated artificially created pseudoscience debates on several popular web portals
 id: qrc-deployment-terminated-online-debates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

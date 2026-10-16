@@ -3,7 +3,7 @@ type: claim
 title: "A four-phase teaching process for congruent triangles significantly improves grade 8 students' test scores"
 description: "A four-phase teaching process for congruent triangles significantly improves grade 8 students' test scores"
 id: four-phase-process-improves-congruent-triangle-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

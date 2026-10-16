@@ -3,7 +3,7 @@ type: strategy
 id: philanthropy-working-group-shared-evaluation-practice
 title: Philanthropies jointly develop evaluation practice for basic science investments through a cross-organization working group
 description: "The brief describes a collaborative strategy in which philanthropic funders of basic or discovery science work together to solve a shared evaluation challenge: establishing that their investments contribute to advanci..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

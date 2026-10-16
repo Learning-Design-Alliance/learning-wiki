@@ -3,7 +3,7 @@ type: claim
 title: LLM-rewritten Python error messages improved subjective evaluations but did not reliably improve objective debugging performance
 description: LLM-rewritten Python error messages improved subjective evaluations but did not reliably improve objective debugging performance
 id: llm-error-rewrites-subjective-not-objective-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

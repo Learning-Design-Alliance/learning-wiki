@@ -3,7 +3,7 @@ type: claim
 title: Participants and school staff described noticeable improvements in grades and achievement among Compass Care students
 description: Participants and school staff described noticeable improvements in grades and achievement among Compass Care students
 id: compass-care-reported-achievement-improvements
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

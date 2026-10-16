@@ -3,7 +3,7 @@ type: claim
 title: Engagement with AI-generated educational interactive fiction is marginal, near the neutral midpoint of the scale
 description: Engagement with AI-generated educational interactive fiction is marginal, near the neutral midpoint of the scale
 id: ai-generated-if-engagement-marginal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

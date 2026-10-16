@@ -3,7 +3,7 @@ type: strategy
 id: inclusive-needs-assessments-flexible-support-strategy
 title: Build implementation support through inclusive needs assessments, flexible responses, and online best-practice resources
 description: "A strategy for supporting states and districts in implementing data-linking initiatives: develop needs assessments that are more inclusive, meet states' changing needs flexibly, and publish best-practice resources onl..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

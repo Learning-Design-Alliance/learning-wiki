@@ -3,7 +3,7 @@ type: claim
 title: Setting the default sort order to academic performance instead of distance from home induces parents to choose academically higher performing schools
 description: Setting the default sort order to academic performance instead of distance from home induces parents to choose academically higher performing schools
 id: default-sort-academic-performance-shifts-school-choices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

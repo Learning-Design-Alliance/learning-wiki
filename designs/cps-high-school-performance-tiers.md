@@ -3,7 +3,7 @@ type: design
 id: cps-high-school-performance-tiers
 title: Four-tier classification of Chicago high schools by graduation rate and average ACT score
 description: "The research groups Chicago high schools into four performance tiers using graduation rate and average ACT composite score: selective enrollment, top-tier non-selective, mid-tier non-selective, and low-tier non-select..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09
@@ -46,4 +46,4 @@ The research groups Chicago high schools into four performance tiers using gradu
 -
 
 ## Key Sources
-- Allensworth, E., Moore, P., Sartain, L., & de la Torre, M. (2016). The Educational Benefits of Attending Higher-Performing Schools: Evidence from Chicago High Schools. University of Chicago Consortium on School Research. https://consortium.uchicago.edu/publications
+- Allensworth, E., Moore, P., Sartain, L., & de la Torre, M. (2016). The Educational Benefits of Attending Higher-Performing Schools: Evidence from Chicago High Schools. University of Chicago Consortium on School Research. https://consortium.uchicago.edu/publications. [doi:10.3102/0162373716672039](https://doi.org/10.3102/0162373716672039)

@@ -4,7 +4,7 @@ id: ai-certificate-pedagogical-transformation-effectiveness-evaluation-indicator
 title: AI Certificate Pedagogical Transformation Effectiveness Evaluation Indicator System (20 indicators, S1–S20)
 description: A 20-indicator, TPACK-mapped evaluation framework developed by Zijing Wu et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

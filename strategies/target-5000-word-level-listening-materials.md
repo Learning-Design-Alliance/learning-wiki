@@ -3,7 +3,7 @@ type: strategy
 id: target-5000-word-level-listening-materials
 title: Target the 5000-word vocabulary level when designing EFL listening materials and instruction
 description: The article recommends that materials designers and teachers orient vocabulary goals in listening instruction toward the 5000-word frequency level, because the study found reaching that level associated with better li...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

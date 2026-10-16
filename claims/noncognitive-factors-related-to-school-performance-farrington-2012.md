@@ -3,7 +3,7 @@ type: claim
 title: "The framework's literature review reports students' academic mindsets, learning strategies, perseverance, and behaviors were clearly and significantly related to school performance"
 description: "The framework's literature review reports students' academic mindsets, learning strategies, perseverance, and behaviors were clearly and significantly related to school performance"
 id: noncognitive-factors-related-to-school-performance-farrington-2012
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

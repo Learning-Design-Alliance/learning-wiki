@@ -3,7 +3,7 @@ type: claim
 title: "Clarity and concept structure interact for defining and applying concepts, each accounting for about 40-44% of variance"
 description: "Clarity and concept structure interact for defining and applying concepts, each accounting for about 40-44% of variance"
 id: clarity-concept-structure-interaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

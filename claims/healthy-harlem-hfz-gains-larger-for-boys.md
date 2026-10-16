@@ -3,7 +3,7 @@ type: claim
 title: Increases in the percentage of students in the Harlem Fitness Zone were generally larger for boys than for girls
 description: Increases in the percentage of students in the Harlem Fitness Zone were generally larger for boys than for girls
 id: healthy-harlem-hfz-gains-larger-for-boys
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Short-term, non-longitudinal training programmes pose challenges for estimating long-term skill retention
 description: Short-term, non-longitudinal training programmes pose challenges for estimating long-term skill retention
 id: short-term-training-challenges-long-term-skill-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

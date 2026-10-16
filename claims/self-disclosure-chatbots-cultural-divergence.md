@@ -3,7 +3,7 @@ type: claim
 title: "The correlates of self-disclosure preference with AI chatbots diverge culturally: positive with adaptive coping in HK but not the US, and positively associated with maladaptive coping in the US but negatively in HK"
 description: "The correlates of self-disclosure preference with AI chatbots diverge culturally: positive with adaptive coping in HK but not the US, and positively associated with maladaptive coping in the US but negatively in HK"
 id: self-disclosure-chatbots-cultural-divergence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

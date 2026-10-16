@@ -3,7 +3,7 @@ type: claim
 title: "Biased LLM assistance increases students' gender-stereotypic occupational recommendations: 71.4% of biased-condition essays recommended a gender-stereotypic occupation versus 45.0% (control) and 39.0% (neutral)"
 description: "Biased LLM assistance increases students' gender-stereotypic occupational recommendations: 71.4% of biased-condition essays recommended a gender-stereotypic occupation versus 45.0% (control) and 39.0% (neutral)"
 id: biased-llm-assistance-raises-stereotype-congruence-career-choices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

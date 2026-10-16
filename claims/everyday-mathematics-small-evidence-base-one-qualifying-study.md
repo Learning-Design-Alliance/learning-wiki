@@ -3,7 +3,7 @@ type: claim
 title: "The evidence base for Everyday Mathematics® on primary mathematics achievement is small: one study of 3,436 students met WWC standards, and 33 of 34 eligible studies did not meet group design standards"
 description: "The evidence base for Everyday Mathematics® on primary mathematics achievement is small: one study of 3,436 students met WWC standards, and 33 of 34 eligible studies did not meet group design standards"
 id: everyday-mathematics-small-evidence-base-one-qualifying-study
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

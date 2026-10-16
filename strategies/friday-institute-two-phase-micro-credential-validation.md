@@ -3,7 +3,7 @@ type: strategy
 id: friday-institute-two-phase-micro-credential-validation
 title: Validate micro-credentials through construct validity review plus interrater reliability checks on the first 50 submissions
 description: "The Friday Institute validates each micro-credential in two phases: construct validity, gathering educator and expert feedback on questions and rubrics before release, then piloting the first 50 submissions, each rece..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

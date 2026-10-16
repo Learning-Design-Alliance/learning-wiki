@@ -3,7 +3,7 @@ type: claim
 title: More than half of LSCs conduct a comprehensive principal evaluation with explicit criteria, but 12 percent did no evaluation and principals offer more guarded views than other members
 description: More than half of LSCs conduct a comprehensive principal evaluation with explicit criteria, but 12 percent did no evaluation and principals offer more guarded views than other members
 id: lsc-principal-evaluation-process
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Teachers see high workload, habits, low-quality data and skills, and predisposition as the main constraints on data-informed analysis, and none regularly collect teaching data
 description: Teachers see high workload, habits, low-quality data and skills, and predisposition as the main constraints on data-informed analysis, and none regularly collect teaching data
 id: teacher-data-use-obstacles-workload-habits-skills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

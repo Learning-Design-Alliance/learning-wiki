@@ -3,7 +3,7 @@ type: claim
 title: Schools with strong essential supports were more likely to sit in communities with strong social capital, low crime, and low density of abused or neglected children
 description: Schools with strong essential supports were more likely to sit in communities with strong social capital, low crime, and low density of abused or neglected children
 id: strong-supports-linked-community-social-capital-low-crime
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

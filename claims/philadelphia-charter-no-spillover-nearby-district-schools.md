@@ -3,7 +3,7 @@ type: claim
 title: Little evidence that Philadelphia charter schools help or harm achievement of students in nearby district schools
 description: Little evidence that Philadelphia charter schools help or harm achievement of students in nearby district schools
 id: philadelphia-charter-no-spillover-nearby-district-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

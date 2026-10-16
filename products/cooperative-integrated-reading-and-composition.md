@@ -4,7 +4,7 @@ id: cooperative-integrated-reading-and-composition
 title: Cooperative Integrated Reading and Composition®
 description: A grades 2–6 cooperative reading, comprehension, language arts, and writing curriculum developed by Robert Slavin and Nancy Madden at Johns Hopkins University and distributed by the Success for All Foundation.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

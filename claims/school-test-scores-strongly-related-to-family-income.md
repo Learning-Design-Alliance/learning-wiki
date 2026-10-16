@@ -3,7 +3,7 @@ type: claim
 title: School test score averages are strongly related to the income of the families a school serves
 description: School test score averages are strongly related to the income of the families a school serves
 id: school-test-scores-strongly-related-to-family-income
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

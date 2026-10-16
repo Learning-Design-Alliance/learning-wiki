@@ -3,7 +3,7 @@ type: claim
 title: Early studies of the relationship between anxiety and achievement produced mixed and confusing results
 description: Early studies of the relationship between anxiety and achievement produced mixed and confusing results
 id: early-anxiety-achievement-studies-mixed-results
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

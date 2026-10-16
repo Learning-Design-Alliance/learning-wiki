@@ -3,7 +3,7 @@ type: claim
 title: School response rates at the reported school were 86.4 percent for students and about 90 percent for teachers
 description: School response rates at the reported school were 86.4 percent for students and about 90 percent for teachers
 id: sample-school-2005-response-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

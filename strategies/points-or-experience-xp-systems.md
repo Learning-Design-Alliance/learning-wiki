@@ -83,7 +83,7 @@ XP systems are a form of [gamification](../theories/behaviorism.md) that applies
 - **University grading replacement** — instructors who replace letter grades with cumulative XP toward a target (e.g., 1,000 XP = A) report reduced grade anxiety and increased resubmission of work; the accumulation-only structure removes loss framing.
 
 ## Key Sources
-- Deterding, S., Dixon, D., Khaled, R., & Nacke, L. (2011). From game design elements to gamefulness: Defining "gamification." *Proceedings of the 15th International Academic MindTrek Conference*, 9–15. [doi:10.1145/2181037.2181040](https://doi.org/10.1145/2181037.2181040)
+- Deterding, S., Dixon, D., Khaled, R., & Nacke, L. (2011). From game design elements to gamefulness: Defining "gamification." *Proceedings of the 15th International Academic MindTrek Conference: Envisioning Future Media Environments*, 9–15. [doi:10.1145/2181037.2181040](https://doi.org/10.1145/2181037.2181040)
 - Hamari, J., Koivisto, J., & Sarsa, H. (2014). Does gamification work? A literature review of empirical studies on gamification. *Proceedings of the 47th Hawaii International Conference on System Sciences*, 3025–3034. [doi:10.1109/HICSS.2014.377](https://doi.org/10.1109/HICSS.2014.377)
 - Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 125*(6), 627–668. [doi:10.1037/0033-2909.125.6.627](https://doi.org/10.1037/0033-2909.125.6.627)
 - Sailer, M., & Homner, L. (2020). The gamification of learning: A meta-analysis. *Educational Psychology Review, 32*, 77–112. [doi:10.1007/s10648-019-09498-w](https://doi.org/10.1007/s10648-019-09498-w)

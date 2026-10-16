@@ -2,7 +2,7 @@
 type: theory
 title: Self-directed learning as a five-step process learners control themselves
 description: Self-directed learning (SDL) derives from andragogy and describes a process in which the adult learner guides and directs the process, participating fully in evaluating learning needs, planning, implementing and evalu...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -53,4 +53,4 @@ Self-directed learning (SDL) derives from andragogy and describes a process in w
 -
 
 ## Key Sources
-- Covington, K. C. D. (2024). Examining the learner perspective in US immigrant adults: Socioeconomic status and the mission to successfully integrate. Doctoral study. https://eric.ed.gov/?id=ED660747
+- Covington, K. C. D. (2024). Examining the learner perspective in US immigrant adults: Socioeconomic status and the mission to successfully integrate. Doctoral study. https://eric.ed.gov/?id=ED660747. [doi:10.33422/ijhep.v6i4.1084](https://doi.org/10.33422/ijhep.v6i4.1084)

@@ -3,7 +3,7 @@ type: claim
 title: "Only 20% of the 100 most used edtech products have a research rationale"
 description: "Only 20% of the 100 most used edtech products have a research rationale"
 id: only-20-percent-top-edtech-research-rationale
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

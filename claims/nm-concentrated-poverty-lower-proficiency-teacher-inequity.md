@@ -3,7 +3,7 @@ type: claim
 title: Concentrated poverty in New Mexico is associated with lower grade-level proficiency and inequitable access to experienced teachers
 description: Concentrated poverty in New Mexico is associated with lower grade-level proficiency and inequitable access to experienced teachers
 id: nm-concentrated-poverty-lower-proficiency-teacher-inequity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

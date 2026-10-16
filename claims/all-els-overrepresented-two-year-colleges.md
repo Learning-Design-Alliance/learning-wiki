@@ -3,7 +3,7 @@ type: claim
 title: All English Learners, including former English Learners, were more likely to enroll in two-year colleges than the district average
 description: All English Learners, including former English Learners, were more likely to enroll in two-year colleges than the district average
 id: all-els-overrepresented-two-year-colleges
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

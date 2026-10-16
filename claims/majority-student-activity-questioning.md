@@ -3,7 +3,7 @@ type: claim
 title: "About 61% of observed in-class student behavior was actively seeking knowledge or asking questions"
 description: "About 61% of observed in-class student behavior was actively seeking knowledge or asking questions"
 id: majority-student-activity-questioning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -4,7 +4,7 @@ id: map-growth-retest-dataset-for-evaluating-e-m-scoring-accuracy
 title: MAP Growth retest dataset for evaluating E-M scoring accuracy
 description: A research dataset assembled from archived NWEA MAP Growth mathematics and reading RIT-score records for students who completed closely timed retests, used to evaluate effort-moderated scoring accuracy.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

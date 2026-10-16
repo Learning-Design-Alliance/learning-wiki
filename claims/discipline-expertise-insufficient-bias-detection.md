@@ -3,7 +3,7 @@ type: claim
 title: Disciplinary expertise alone is insufficient for teachers to detect GenAI representational bias
 description: Disciplinary expertise alone is insufficient for teachers to detect GenAI representational bias
 id: discipline-expertise-insufficient-bias-detection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "The report recommends four policy strategies: competitive equitable compensation, targeted supply in shortage fields, improved retention, and a national teacher labor market"
 description: "The report recommends four policy strategies: competitive equitable compensation, targeted supply in shortage fields, improved retention, and a national teacher labor market"
 id: four-policy-strategies-teacher-shortages
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

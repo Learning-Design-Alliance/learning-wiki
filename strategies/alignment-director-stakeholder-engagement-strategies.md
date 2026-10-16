@@ -3,7 +3,7 @@ type: strategy
 id: alignment-director-stakeholder-engagement-strategies
 title: "Alignment Director strategies for engaging stakeholders: leveraging existing networks, field-based pods, and cross-sector convenings"
 description: "The report documents implementable strategies ADs used to build statewide networks: leveraging previously established networks and individual connections; leveraging PARCC/Smarter Balanced consortia activities; foster..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

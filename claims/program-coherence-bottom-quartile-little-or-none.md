@@ -3,7 +3,7 @@ type: claim
 title: More than half of teachers in bottom-quartile schools describe little or no program coherence
 description: More than half of teachers in bottom-quartile schools describe little or no program coherence
 id: program-coherence-bottom-quartile-little-or-none
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: GenAI-supported writing instruction yields a statistically significant positive pooled effect on L2/EFL writing performance (g = 0.80) with very high heterogeneity
 description: GenAI-supported writing instruction yields a statistically significant positive pooled effect on L2/EFL writing performance (g = 0.80) with very high heterogeneity
 id: genai-writing-instruction-pooled-effect-g-080
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

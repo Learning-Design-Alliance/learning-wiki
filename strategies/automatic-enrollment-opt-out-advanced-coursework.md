@@ -3,7 +3,7 @@ type: strategy
 id: automatic-enrollment-opt-out-advanced-coursework
 title: Automatic enrollment into advanced coursework with an opt-out option
 description: "The brief recommends automatic enrollment policies with an opt-out option, \"so students identified through any measure can be enrolled without having to opt in.\" This removes the opt-in barrier that can keep eligible..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

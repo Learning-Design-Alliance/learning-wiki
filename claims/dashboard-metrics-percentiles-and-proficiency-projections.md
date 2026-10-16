@@ -3,7 +3,7 @@ type: claim
 title: The dashboard reports median achievement percentiles normed to a nationally representative pre-COVID sample and projected proficiency against state cut scores
 description: The dashboard reports median achievement percentiles normed to a nationally representative pre-COVID sample and projected proficiency against state cut scores
 id: dashboard-metrics-percentiles-and-proficiency-projections
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

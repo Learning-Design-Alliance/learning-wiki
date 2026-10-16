@@ -3,7 +3,7 @@ type: claim
 title: The 16-item CT–PCK Survey measures CT pedagogical content knowledge for math as a single overall construct
 description: The 16-item CT–PCK Survey measures CT pedagogical content knowledge for math as a single overall construct
 id: ct-pck-16-item-single-construct
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

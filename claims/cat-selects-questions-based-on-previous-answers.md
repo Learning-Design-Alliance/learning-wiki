@@ -3,7 +3,7 @@ type: claim
 title: "Computerized adaptive testing selects test questions based on test takers' answers to previous questions"
 description: "Computerized adaptive testing selects test questions based on test takers' answers to previous questions"
 id: cat-selects-questions-based-on-previous-answers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

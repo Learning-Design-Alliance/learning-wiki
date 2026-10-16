@@ -3,7 +3,7 @@ type: claim
 title: Included qualitative studies find smaller special education class sizes are the preferred option because they allow more individualised instruction time and increased teacher attention
 description: Included qualitative studies find smaller special education class sizes are the preferred option because they allow more individualised instruction time and increased teacher attention
 id: small-special-education-classes-preferred-individualised-instruction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

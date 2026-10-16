@@ -3,7 +3,7 @@ type: claim
 title: "Audio narration with finger-tracking animation directs bilingual preschoolers' attention to the target-language print in dual-language e-books, including the nondominant language"
 description: "Audio narration with finger-tracking animation directs bilingual preschoolers' attention to the target-language print in dual-language e-books, including the nondominant language"
 id: enhancing-features-direct-attention-dual-language-e-books
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -66,7 +66,7 @@ Journaling supports metacognition because writing slows thinking and forces lear
 - [Design activities that make students' AI-supported learning processes visible through reflection prompts and process documentation](process-documentation-ai-learning-visibility.md)
 
 ## Examples
-- **Exam wrappers** (widely used in STEM courses, e.g., at Carnegie Mellon's Eberly Center, https://www.cmu.edu/teaching/designteach/teach/examwrappers.html) — students complete a short written reflection after each exam on how they prepared and what they would change.
+- **[Exam wrappers](exam-wrappers.md)** (widely used in STEM courses, e.g., at Carnegie Mellon's Eberly Center, https://www.cmu.edu/teaching/designteach/teach/examwrappers.html) — students complete a short written reflection after each exam on how they prepared and what they would change.
 - **Dialogue journals in teacher education** — pre-service teachers journal weekly about lesson decisions and receive instructor responses, building reflective practice.
 - **Design notebooks in engineering capstones** — students log decisions, dead ends, and revisions, making the problem-solving process inspectable.
 

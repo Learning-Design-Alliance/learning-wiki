@@ -3,7 +3,7 @@ type: claim
 title: "Charter school learning gains have risen across CREDO's three national studies"
 description: "Charter school learning gains have risen across CREDO's three national studies"
 id: charter-learning-gains-risen-across-credo-studies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: design-ai-integrated-graduate-education-strategies
 title: Use the five-dimension literacy model to design AI-integrated graduate education and literacy cultivation strategies
 description: The article offers its validated model and scale as actionable inputs for graduate education design.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

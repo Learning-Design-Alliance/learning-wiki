@@ -3,7 +3,7 @@ type: claim
 title: "A review reports that pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours"
 description: "A review reports that pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours"
 id: feedback-timing-moderates-pretesting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

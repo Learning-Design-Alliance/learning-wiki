@@ -3,7 +3,7 @@ type: claim
 title: "ChatGPT-assisted lesson plans for children's STEAM art education received higher blind expert quality ratings than traditional teacher-generated plans (average 21.0 vs 17.0)"
 description: "ChatGPT-assisted lesson plans for children's STEAM art education received higher blind expert quality ratings than traditional teacher-generated plans (average 21.0 vs 17.0)"
 id: chatgpt-assisted-plans-outscore-traditional-art-lesson-plans
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

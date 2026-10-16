@@ -3,7 +3,7 @@ type: claim
 title: Synchronous autonomous AI suggestions increased perceived writing efficiency but also caused distraction and mental overload during writing
 description: Synchronous autonomous AI suggestions increased perceived writing efficiency but also caused distraction and mental overload during writing
 id: synchronous-suggestions-efficiency-and-distraction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Teacher-parent interaction and trust are lower in bottom-quartile schools, and even top-rated schools show limited very strong trust
 description: Teacher-parent interaction and trust are lower in bottom-quartile schools, and even top-rated schools show limited very strong trust
 id: teacher-parent-interaction-trust-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

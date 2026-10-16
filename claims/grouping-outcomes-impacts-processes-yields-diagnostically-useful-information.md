@@ -3,7 +3,7 @@ type: claim
 title: Organizing performance measures into outcomes, impacts, and processes provides rich, fair, and diagnostically useful information
 description: Organizing performance measures into outcomes, impacts, and processes provides rich, fair, and diagnostically useful information
 id: grouping-outcomes-impacts-processes-yields-diagnostically-useful-information
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

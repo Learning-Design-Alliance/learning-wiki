@@ -3,7 +3,7 @@ type: strategy
 id: recommendations-foster-math-communication
 title: Recommendations for teachers to foster mathematical communication in mathematics lessons
 description: "The article's closing recommendations for teachers who need materials to teach mathematical communication skills."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

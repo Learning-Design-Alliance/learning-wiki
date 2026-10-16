@@ -3,7 +3,7 @@ type: strategy
 id: prepare-teacher-leaders-from-program-experience
 title: "Draw on a professional development program's experience preparing teachers to lead it when preparing teacher leaders to facilitate professional learning"
 description: "The brief's approach is to derive insights for preparing teacher leaders from a program's own experience developing teacher-leaders: it \"offers insights to help address these challenges based on the National Writing P..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

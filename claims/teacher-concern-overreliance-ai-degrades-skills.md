@@ -3,7 +3,7 @@ type: claim
 title: Teachers express concern that student overreliance on AI may degrade independent thinking and hands-on scientific skills
 description: Teachers express concern that student overreliance on AI may degrade independent thinking and hands-on scientific skills
 id: teacher-concern-overreliance-ai-degrades-skills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

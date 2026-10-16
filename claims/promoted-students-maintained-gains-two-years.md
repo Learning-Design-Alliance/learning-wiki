@@ -3,7 +3,7 @@ type: claim
 title: Students who met the promotional cutoffs, including after Summer Bridge, maintained positive test trajectories two years after promotion
 description: Students who met the promotional cutoffs, including after Summer Bridge, maintained positive test trajectories two years after promotion
 id: promoted-students-maintained-gains-two-years
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

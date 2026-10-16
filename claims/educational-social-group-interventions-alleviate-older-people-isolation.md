@@ -3,7 +3,7 @@ type: claim
 title: Educational and social activity group interventions targeting specific groups can alleviate social isolation and loneliness among older people
 description: Educational and social activity group interventions targeting specific groups can alleviate social isolation and loneliness among older people
 id: educational-social-group-interventions-alleviate-older-people-isolation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

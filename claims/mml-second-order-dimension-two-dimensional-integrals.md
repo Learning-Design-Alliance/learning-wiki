@@ -3,7 +3,7 @@ type: claim
 title: Full information MML estimation of a multidimensional IRT model with a second-order dimension also requires only two-dimensional integrals
 description: Full information MML estimation of a multidimensional IRT model with a second-order dimension also requires only two-dimensional integrals
 id: mml-second-order-dimension-two-dimensional-integrals
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

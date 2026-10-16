@@ -3,7 +3,7 @@ type: strategy
 id: mle-framework-self-evaluation-use
 title: Use the quality-indicator framework as a self-evaluation instrument for teachers rather than an external ranking tool
 description: "The article recommends using the indicator grid as a tool of self-evaluation for questioning and examining one's own MLE experience, individually or in a community of practice."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -43,4 +43,4 @@ The article recommends using the indicator grid as a tool of self-evaluation for
 -
 
 ## Key Sources
-- Felini, D. (2014). Quality Media Literacy Education: A Tool for Teachers and Teacher Educators of Italian Elementary Schools. Journal of Media Literacy Education, 6(1), 28-43. https://www.jmle.org
+- Felini, D. (2014). Quality Media Literacy Education: A Tool for Teachers and Teacher Educators of Italian Elementary Schools. Journal of Media Literacy Education, 6(1), 28-43. https://www.jmle.org. [doi:10.23860/jmle-6-1-3](https://doi.org/10.23860/jmle-6-1-3)

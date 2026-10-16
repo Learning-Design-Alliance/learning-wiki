@@ -3,7 +3,7 @@ type: claim
 title: GenAI use is positively associated with self-perceived employability among business students
 description: GenAI use is positively associated with self-perceived employability among business students
 id: genai-use-positive-employability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

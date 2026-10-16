@@ -4,7 +4,7 @@ title: Students whose tutors have access to Tutor CoPilot are 4 percentage point
 description: Students whose tutors have access to Tutor CoPilot are 4 percentage points more likely to master lesson topics (pass exit tickets) in live K-12 math tutoring
 id: tutor-copilot-raises-exit-ticket-mastery-4pp
 aliases: [llm-suggestions-human-tutors-mastery-gain, situational-tutoring-guidance-raises-topic-mastery]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

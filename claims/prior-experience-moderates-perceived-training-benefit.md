@@ -3,7 +3,7 @@ type: claim
 title: Perceived improvement after prompt-engineering training was concentrated among students with little or no prior prompting experience
 description: Perceived improvement after prompt-engineering training was concentrated among students with little or no prior prompting experience
 id: prior-experience-moderates-perceived-training-benefit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

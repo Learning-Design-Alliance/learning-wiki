@@ -3,7 +3,7 @@ type: claim
 title: Students rated the flipped-learning component highest and the GenAI module lower, with GenAI rated stronger for ideation than for time saving or direct output use
 description: Students rated the flipped-learning component highest and the GenAI module lower, with GenAI rated stronger for ideation than for time saving or direct output use
 id: genai-rated-for-ideation-not-time-saving
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Across school years, students identified as at risk in earlier grades were more likely to get on track by the end of the next grade than students in later grades
 description: Across school years, students identified as at risk in earlier grades were more likely to get on track by the end of the next grade than students in later grades
 id: cross-year-recovery-higher-earlier-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

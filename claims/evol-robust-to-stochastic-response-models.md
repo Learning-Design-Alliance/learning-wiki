@@ -3,7 +3,7 @@ type: claim
 title: EVOL variants remain the strongest methods under stochastic response models, weakening the hypothesis that evolutionary search exploits deterministic threshold discontinuities
 description: EVOL variants remain the strongest methods under stochastic response models, weakening the hypothesis that evolutionary search exploits deterministic threshold discontinuities
 id: evol-robust-to-stochastic-response-models
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

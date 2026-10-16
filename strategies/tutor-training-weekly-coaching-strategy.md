@@ -3,7 +3,7 @@ type: strategy
 id: tutor-training-weekly-coaching-strategy
 title: Provide tutors 20 hours of pre-service training plus ongoing weekly coaching and professional development
 description: "OnYourMark prepares its tutors with \"20 hours of training prior to tutoring start\" and sustains quality through \"ongoing weekly coaching and professional development throughout the school year\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

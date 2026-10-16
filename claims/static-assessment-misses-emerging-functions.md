@@ -3,7 +3,7 @@ type: claim
 title: Static individual assessment misses developing functions; ZPD-based assessment reveals potential competencies
 description: Static individual assessment misses developing functions; ZPD-based assessment reveals potential competencies
 id: static-assessment-misses-emerging-functions
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

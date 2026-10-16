@@ -3,7 +3,7 @@ type: claim
 title: Students hold generally positive attitudes toward educational chatbots and agree the chatbots they used improved their knowledge and understanding
 description: Students hold generally positive attitudes toward educational chatbots and agree the chatbots they used improved their knowledge and understanding
 id: positive-student-attitudes-chatbot-knowledge-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: carnegie-learning-initial-training-plus-coaching
 title: Provide initial training plus multi-year in-classroom coaching when implementing Carnegie Learning Algebra I
 description: Implementation of the curriculum calls for professional development beyond initial training.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: strategy
 id: daily-personalization-routines-greetings-conferences-affirmation
 title: "Daily personalization routines: greeting students, short conferences, open-door policies, office hours, active listening, and authentic affirmation"
 description: "This strategy packages the brief's everyday classroom routines for deepening student-teacher relationships: greeting students as they arrive, holding short conferences during instructional or advisory periods, maintai..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

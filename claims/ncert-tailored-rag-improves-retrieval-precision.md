@@ -3,7 +3,7 @@ type: claim
 title: "NCERT-tailored RAG preprocessing and figure-aware indexing improve retrieval precision over a generic-chunking baseline, per the authors' assertion"
 description: "NCERT-tailored RAG preprocessing and figure-aware indexing improve retrieval precision over a generic-chunking baseline, per the authors' assertion"
 id: ncert-tailored-rag-improves-retrieval-precision
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

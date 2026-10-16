@@ -3,7 +3,7 @@ type: claim
 title: No studies meeting WWC evidence standards addressed general reading achievement for Ladders to Literacy
 description: No studies meeting WWC evidence standards addressed general reading achievement for Ladders to Literacy
 id: ladders-to-literacy-no-general-reading-evidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

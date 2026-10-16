@@ -3,7 +3,7 @@ type: claim
 title: There is no universal optimal injection position for the collaborative prior; effectiveness is an architecture-sensitive design choice
 description: There is no universal optimal injection position for the collaborative prior; effectiveness is an architecture-sensitive design choice
 id: injection-strategy-architecture-sensitive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

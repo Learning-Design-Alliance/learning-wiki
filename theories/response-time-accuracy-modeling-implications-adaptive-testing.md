@@ -2,7 +2,7 @@
 type: theory
 title: Incorporating response time into measurement models for adaptive testing must account for acceleration and idiosyncratic within-person time-accuracy variation
 description: The article advances an account of how response time behavior should enter measurement models in adaptive testing.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -49,4 +49,4 @@ The article advances an account of how response time behavior should enter measu
 -
 
 ## Key Sources
-- Domingue, B., Kanopka, K., Staug, B., Soland, J., Kuhfeld, M., Wise, S., & Piech, C. (2021). Variation in respondent speed and its implications: Evidence from an adaptive testing scenario. Journal of Educational Measurement, 58(3), 335-363.
+- Domingue, B., Kanopka, K., Staug, B., Soland, J., Kuhfeld, M., Wise, S., & Piech, C. (2021). Variation in respondent speed and its implications: Evidence from an adaptive testing scenario. Journal of Educational Measurement, 58(3), 335-363. [doi:10.1111/jedm.12291](https://doi.org/10.1111/jedm.12291)

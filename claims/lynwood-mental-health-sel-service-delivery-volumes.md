@@ -3,7 +3,7 @@ type: claim
 title: "In the 2024–25 school year, Lynwood's community schools infrastructure delivered large volumes of mental health and SEL services, including 2,022 students receiving direct therapeutic support and 509 referrals to the health collaborative."
 description: "In the 2024–25 school year, Lynwood's community schools infrastructure delivered large volumes of mental health and SEL services, including 2,022 students receiving direct therapeutic support and 509 referrals to the..."
 id: lynwood-mental-health-sel-service-delivery-volumes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

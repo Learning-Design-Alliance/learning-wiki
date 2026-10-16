@@ -3,7 +3,7 @@ type: claim
 title: System usability was rated low in both conditions, with no significant difference between them
 description: System usability was rated low in both conditions, with no significant difference between them
 id: low-usability-both-conditions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

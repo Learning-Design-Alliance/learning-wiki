@@ -3,7 +3,7 @@ type: claim
 title: The multimedia learning module advantage over the textbook persists on a retention test administered two weeks after the lessons
 description: The multimedia learning module advantage over the textbook persists on a retention test administered two weeks after the lessons
 id: mlm-retention-advantage-two-weeks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

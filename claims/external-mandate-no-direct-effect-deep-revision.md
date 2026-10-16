@@ -3,7 +3,7 @@ type: claim
 title: External Mandate shows no significant direct relationship with Deep Revision Engagement
 description: External Mandate shows no significant direct relationship with Deep Revision Engagement
 id: external-mandate-no-direct-effect-deep-revision
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

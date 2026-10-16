@@ -3,7 +3,7 @@ type: claim
 title: One-year principal retention rates were stable from fall 2016 to fall 2020 and did not decline during the COVID-19 pandemic year
 description: One-year principal retention rates were stable from fall 2016 to fall 2020 and did not decline during the COVID-19 pandemic year
 id: one-year-principal-retention-stable-through-covid
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

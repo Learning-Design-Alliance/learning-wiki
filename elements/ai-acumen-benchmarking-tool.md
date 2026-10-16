@@ -3,7 +3,7 @@ type: element
 id: ai-acumen-benchmarking-tool
 title: Institutional benchmarking and career readiness tools built on the framework
 description: The chapter describes two applied uses of the framework as tools.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

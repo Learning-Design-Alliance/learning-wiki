@@ -3,7 +3,7 @@ type: claim
 title: "Code-DKT's attention softmax applied across the temporal dimension (dim=1) is causally invalid and inflates reported performance; rectifying it to the path dimension (dim=2) removes the artificial gain"
 description: "Code-DKT's attention softmax applied across the temporal dimension (dim=1) is causally invalid and inflates reported performance; rectifying it to the path dimension (dim=2) removes the artificial gain"
 id: pkt-attention-softmax-dimension-causal-flaw
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Slightly fewer than half (42 percent) of students who started the year in the at risk DIBELS category moved to a lower risk category after a full year of Project On-Track tutoring
 description: Slightly fewer than half (42 percent) of students who started the year in the at risk DIBELS category moved to a lower risk category after a full year of Project On-Track tutoring
 id: ontrack-42-percent-at-risk-improved-category
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

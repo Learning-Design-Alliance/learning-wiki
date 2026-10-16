@@ -3,7 +3,7 @@ type: claim
 title: Pre-K benefits at the start of kindergarten diminish by a little more than half during the kindergarten year
 description: Pre-K benefits at the start of kindergarten diminish by a little more than half during the kindergarten year
 id: pre-k-benefits-diminish-by-half-during-kindergarten
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

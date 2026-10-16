@@ -3,7 +3,7 @@ type: claim
 title: Among four-year college enrollees, former and late-arriving English Learners persisted at or above district-average rates while long-term English Learners with IEPs persisted at substantially lower rates
 description: Among four-year college enrollees, former and late-arriving English Learners persisted at or above district-average rates while long-term English Learners with IEPs persisted at substantially lower rates
 id: el-college-persistence-varies-by-subgroup
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

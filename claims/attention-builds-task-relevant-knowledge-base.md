@@ -3,7 +3,7 @@ type: claim
 title: Attention plays a major role in L2 learning because a task-relevant knowledge base is built in memory through attention
 description: Attention plays a major role in L2 learning because a task-relevant knowledge base is built in memory through attention
 id: attention-builds-task-relevant-knowledge-base
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

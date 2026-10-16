@@ -3,7 +3,7 @@ type: design
 id: nhuhsd-grant-matrix-alignment-tool
 title: Grant matrix aligning district school-based mental health grants and initiatives
 description: NHUHSD created a grant matrix to align its many school-based mental health grants, projects, and initiatives.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Evidence on reliability and validity of alternative student growth measures, especially student learning objectives, is limited
 description: Evidence on reliability and validity of alternative student growth measures, especially student learning objectives, is limited
 id: limited-reliability-validity-evidence-alternative-growth-measures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

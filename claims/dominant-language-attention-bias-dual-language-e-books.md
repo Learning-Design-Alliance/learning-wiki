@@ -3,7 +3,7 @@ type: claim
 title: Bilingual preschoolers silently reading dual-language e-books attend more to their dominant language (English) than the nondominant language (Mandarin)
 description: Bilingual preschoolers silently reading dual-language e-books attend more to their dominant language (English) than the nondominant language (Mandarin)
 id: dominant-language-attention-bias-dual-language-e-books
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -2,7 +2,7 @@
 type: theory
 title: Three-phase SRL scaffolding framework (planning, task execution, post-task reflection) operationalized across iterative design cycles
 description: The study organizes chatbot design around a three-phase conceptualization of self-regulated learning—planning, task execution, and post-task reflection—drawn from the common structure of prominent SRL models.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -52,6 +52,7 @@ The study organizes chatbot design around a three-phase conceptualization of sel
 - [Self Regulated Learning Instruction](../strategies/self-regulated-learning-instruction.md)
 - [Self Regulated Learning](../strategies/self-regulated-learning.md)
 - [Four-phase weekly cycle for AI-based noticing practice: video, chatbot interaction, reflection, mentor feedback](../designs/four-phase-weekly-ai-simulation-cycle.md)
+- [Use the SRL conceptual framework to guide future research on college student motivation and learning](../strategies/srl-framework-guides-future-research.md)
 
 ## Key Sources
 - Hilliger, I., Pérez-Sanagustín, M., González, C., Villalobos, E. and Celis, S. (2026). A GAI-Based Chatbot for Scaffolding Self-Regulated Learning: Insights from a Design-Based Research Approach. Journal of Learning Analytics, 13(1), 74–88. https://doi.org/10.18608/jla.2026.9143

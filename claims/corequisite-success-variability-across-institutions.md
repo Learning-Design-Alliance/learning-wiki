@@ -3,7 +3,7 @@ type: claim
 title: Success rates varied substantially across and within institutions, with within-institution section variability slightly less than between-institution variability
 description: Success rates varied substantially across and within institutions, with within-institution section variability slightly less than between-institution variability
 id: corequisite-success-variability-across-institutions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

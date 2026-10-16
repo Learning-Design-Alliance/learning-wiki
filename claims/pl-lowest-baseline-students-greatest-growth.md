@@ -3,7 +3,7 @@ type: claim
 title: In mathematics, personalized-learning students in the lowest baseline quintile were the most likely to out-grow their matched comparison students
 description: In mathematics, personalized-learning students in the lowest baseline quintile were the most likely to out-grow their matched comparison students
 id: pl-lowest-baseline-students-greatest-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

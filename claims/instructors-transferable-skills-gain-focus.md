@@ -3,7 +3,7 @@ type: claim
 title: Instructors perceive experiential learning primarily as developing transferable skills for personal and professional growth, with student happiness rarely considered (gain)
 description: Instructors perceive experiential learning primarily as developing transferable skills for personal and professional growth, with student happiness rarely considered (gain)
 id: instructors-transferable-skills-gain-focus
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

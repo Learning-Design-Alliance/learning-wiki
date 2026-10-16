@@ -3,7 +3,7 @@ type: claim
 title: Agencies with longer SDP or EP partnerships showed greater data-use capacity and activity than agencies new to their partnerships
 description: Agencies with longer SDP or EP partnerships showed greater data-use capacity and activity than agencies new to their partnerships
 id: longer-partnership-greater-data-capacity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

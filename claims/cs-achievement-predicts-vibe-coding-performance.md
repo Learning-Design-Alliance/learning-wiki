@@ -3,7 +3,7 @@ type: claim
 title: CS achievement significantly predicts vibe-coding performance and remains a significant predictor after controlling for domain-general cognitive ability
 description: CS achievement significantly predicts vibe-coding performance and remains a significant predictor after controlling for domain-general cognitive ability
 id: cs-achievement-predicts-vibe-coding-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

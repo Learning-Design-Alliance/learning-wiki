@@ -3,7 +3,7 @@ type: strategy
 id: build-on-anthropomorphic-explanations-as-bridges
 title: "Build on children's anthropomorphic explanations as bridges into scientific concepts instead of correcting them"
 description: "Rather than the two common constructivist responses of ignoring animistic ideas or teaching as if they were true, this strategy takes a child's anthropomorphic explanation and uses it as a direct link towards orthodox..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

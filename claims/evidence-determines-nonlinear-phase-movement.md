@@ -3,7 +3,7 @@ type: claim
 title: Progress in evidence-based solution development is not always linear; evidence determines phase movement
 description: Progress in evidence-based solution development is not always linear; evidence determines phase movement
 id: evidence-determines-nonlinear-phase-movement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

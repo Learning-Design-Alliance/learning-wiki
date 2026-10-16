@@ -2,7 +2,7 @@
 type: theory
 title: "Computer-supported collaborative learning: definition and Kirschner and Erken's 3x3 framework"
 description: The presentation situates intelligence augmentation within the field of computer-supported collaborative learning (CSCL), which it says has been a field of the learning sciences for about 30 years with a scholarly soc...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

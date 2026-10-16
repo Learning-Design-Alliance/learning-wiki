@@ -3,7 +3,7 @@ type: claim
 title: Pandemic-period gains from fall 2019 to fall 2021 fell short of pre-pandemic growth norms
 description: Pandemic-period gains from fall 2019 to fall 2021 fell short of pre-pandemic growth norms
 id: pandemic-gains-fall-2019-fall-2021-below-norms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

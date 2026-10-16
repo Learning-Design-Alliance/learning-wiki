@@ -3,7 +3,7 @@ type: claim
 title: CS1 students tend to agree it is easier to solve problems by writing natural language prompts than by writing code (mean 3.80 on a five-point scale)
 description: CS1 students tend to agree it is easier to solve problems by writing natural language prompts than by writing code (mean 3.80 on a five-point scale)
 id: students-perceive-prompting-easier-than-coding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

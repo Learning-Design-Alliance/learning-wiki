@@ -3,7 +3,7 @@ type: claim
 title: Implementation fidelity was defined as at least 85 percent student enrollment and at least 50 percent grade-level content coverage in ST Math
 description: Implementation fidelity was defined as at least 85 percent student enrollment and at least 50 percent grade-level content coverage in ST Math
 id: st-math-fidelity-definition-85-enrollment-50-coverage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

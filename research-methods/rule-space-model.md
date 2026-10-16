@@ -3,7 +3,7 @@ type: research-method
 id: rule-space-model
 title: Rule Space model
 description: "The Rule Space model (Tatsuoka, 1983) is an IRT-based diagnostic classification framework in which \"Items are decomposed into attributes, which represent the latent traits that the items assess.\" From an examinee's response vector the model \"infers the most likely combination of attributes the exami"
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
@@ -37,7 +37,7 @@ The Rule Space model (Tatsuoka, 1983) is an IRT-based diagnostic classification 
 -
 
 ## Key Sources
-- Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652
+- Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652. [doi:10.21236/ada273789](https://doi.org/10.21236/ada273789)
 
 <!-- merged 2026-10-10 from theories/rule-space-model-cognitive-diagnosis ("Rule Space Model of cognitive diagnosis"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -80,5 +80,5 @@ The Rule Space model (Tatsuoka, 1983) is an IRT-based diagnostic classification 
 - [Report diagnostic attribute profiles back to examinees to guide targeted practice](../strategies/report-attribute-profiles-for-remediation.md)
 
 ## Key Sources
-- Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652
+- Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652. [doi:10.21236/ada273789](https://doi.org/10.21236/ada273789)
 -->

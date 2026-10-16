@@ -3,7 +3,7 @@ type: strategy
 id: daily-dedicated-and-integrated-math-time
 title: Dedicate time each day to math and integrate math instruction throughout the school day
 description: "The guide's fifth recommendation tells teachers to \"Dedicate time each day to teaching math, and integrate math instruction throughout the school day.\" Its sub-strategies are to plan daily instruction targeting specif..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

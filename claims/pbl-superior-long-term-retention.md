@@ -3,7 +3,7 @@ type: claim
 title: PBL is superior to conventional instruction for long-term retention, according to a meta-synthesis of meta-analyses
 description: PBL is superior to conventional instruction for long-term retention, according to a meta-synthesis of meta-analyses
 id: pbl-superior-long-term-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

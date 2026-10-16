@@ -3,7 +3,7 @@ type: claim
 title: Disruptive student behavior is associated with less academic engaged time and lower achievement
 description: Disruptive student behavior is associated with less academic engaged time and lower achievement
 id: disruptive-behavior-lowers-engagement-and-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

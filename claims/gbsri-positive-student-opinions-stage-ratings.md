@@ -3,7 +3,7 @@ type: claim
 title: Students expressed positive overall opinions of GBSRI, rating Independent Practicing highest and Post-writing lowest
 description: Students expressed positive overall opinions of GBSRI, rating Independent Practicing highest and Post-writing lowest
 id: gbsri-positive-student-opinions-stage-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

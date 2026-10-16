@@ -3,7 +3,7 @@ type: claim
 title: Only 4 of 23 reviewed conversational agent studies explicitly apply learning theories, indicating a gap between CA development and pedagogical grounding
 description: Only 4 of 23 reviewed conversational agent studies explicitly apply learning theories, indicating a gap between CA development and pedagogical grounding
 id: only-four-ca-studies-apply-learning-theories
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

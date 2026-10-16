@@ -3,7 +3,7 @@ type: claim
 title: School survey report information is intended to help schools assess their progress and plan for the future
 description: School survey report information is intended to help schools assess their progress and plan for the future
 id: survey-reports-support-school-progress-assessment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

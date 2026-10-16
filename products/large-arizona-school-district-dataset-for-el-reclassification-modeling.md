@@ -4,7 +4,7 @@ id: large-arizona-school-district-dataset-for-el-reclassification-modeling
 title: Large Arizona school district dataset for EL reclassification modeling
 description: A large Arizona school district longitudinal dataset used by Tyler Matta to jointly model English-proficiency development and the timing of English-learner reclassification.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

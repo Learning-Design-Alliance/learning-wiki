@@ -3,7 +3,7 @@ type: claim
 title: Layered AI feedback led to significantly more tasks requiring three or more submissions, while total submissions, learning time and edit distance did not differ
 description: Layered AI feedback led to significantly more tasks requiring three or more submissions, while total submissions, learning time and edit distance did not differ
 id: layered-feedback-more-tasks-three-plus-submissions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

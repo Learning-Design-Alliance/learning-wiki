@@ -3,7 +3,7 @@ type: claim
 title: The review reports that real-world experiential simulations offer affordances beyond virtual-only formats, including heightened presence through embodiment, place, and face-to-face social immersion
 description: The review reports that real-world experiential simulations offer affordances beyond virtual-only formats, including heightened presence through embodiment, place, and face-to-face social immersion
 id: real-world-simulations-embodiment-affordances
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

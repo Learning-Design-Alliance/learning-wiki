@@ -3,7 +3,7 @@ type: claim
 title: Specific game features scaffold scientific thinking in ways the authors claim are non-existent in most inquiry-based learning environments
 description: Specific game features scaffold scientific thinking in ways the authors claim are non-existent in most inquiry-based learning environments
 id: ar-game-features-scaffold-argumentation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

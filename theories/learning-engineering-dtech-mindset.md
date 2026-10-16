@@ -2,7 +2,7 @@
 type: theory
 title: "Learning engineering: educators take research and turn it into classroom solutions using engineering problem-solving processes"
 description: "Learning engineering, as described in this report, applies engineering problem-solving processes to problems of educational practice: Uncapher described 'the synergy around design thinking and science of learning' as..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

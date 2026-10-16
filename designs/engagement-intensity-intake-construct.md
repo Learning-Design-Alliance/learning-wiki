@@ -3,7 +3,7 @@ type: design
 id: engagement-intensity-intake-construct
 title: Engagement intensity as a pair of complementary intake features (reported use and self-rated familiarity) for learner modeling
 description: "The article introduces engagement intensity as a working label for two complementary intake indicators of technology engagement drawn from technology acceptance and AI literacy research: \"reported use and self-rated f..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

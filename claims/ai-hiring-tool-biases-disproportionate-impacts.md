@@ -3,7 +3,7 @@ type: claim
 title: AI hiring tools have demonstrated biases disproportionately affecting women, individuals with disabilities, and underrepresented ethnic and racial groups
 description: AI hiring tools have demonstrated biases disproportionately affecting women, individuals with disabilities, and underrepresented ethnic and racial groups
 id: ai-hiring-tool-biases-disproportionate-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

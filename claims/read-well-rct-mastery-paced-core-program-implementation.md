@@ -3,7 +3,7 @@ type: claim
 title: In the supporting RCT, Read Well® was delivered as a mastery-paced core reading program for about three months alongside a 90-minute daily literacy block
 description: In the supporting RCT, Read Well® was delivered as a mastery-paced core reading program for about three months alongside a 90-minute daily literacy block
 id: read-well-rct-mastery-paced-core-program-implementation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

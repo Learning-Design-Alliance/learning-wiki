@@ -3,7 +3,7 @@ type: strategy
 id: data-based-allocation-of-oc-resources
 title: Leaders should make data-based decisions to allocate resources on strategic and/or general leadership and climate based on level of measurement, implementation-specificity, and attitudinal dimension
 description: "The article's concluding recommendation is that school leaders use their findings to decide where to invest implementation-support resources."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

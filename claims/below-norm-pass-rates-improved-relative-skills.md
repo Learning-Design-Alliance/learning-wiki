@@ -3,7 +3,7 @@ type: claim
 title: "Below-norm students' pass rates improved post-policy because their skills relative to classroom peers improved under sorting"
 description: "Below-norm students' pass rates improved post-policy because their skills relative to classroom peers improved under sorting"
 id: below-norm-pass-rates-improved-relative-skills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

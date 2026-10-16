@@ -3,7 +3,7 @@ type: strategy
 id: increase-supply-of-high-quality-systematic-reviews
 title: Increase the supply of high quality systematic reviews so decision makers have more useful evidence summaries
 description: "The article's stated aim is that its recommendations \"increase the number of such reviews in order to provide decision makers with a greater number of useful evidence summaries that can inform policy and program decis..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

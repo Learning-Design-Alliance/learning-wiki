@@ -3,7 +3,7 @@ type: element
 id: solara-sst-meeting-agenda-tool
 title: "AI-enabled SST/MTSS meeting agenda tool built on Solara's custom configuration"
 description: "A configuration solution built with Warwick Public Schools on Panorama's Solara platform: an AI-enabled MTSS meeting agenda generator that standardizes SST/MTSS meetings and automates data pulls."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

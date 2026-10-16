@@ -3,7 +3,7 @@ type: strategy
 id: green-school-design-approaches-strategy
 title: Adopt green school design approaches—electrification, pollution monitoring, building envelopes, daylighting, and green schoolyards—to advance equity and health
 description: The brief recommends concrete building approaches for LEAs seeking to advance educational equity, student health, and environmental and fiscal sustainability.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

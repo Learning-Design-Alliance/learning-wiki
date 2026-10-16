@@ -3,7 +3,7 @@ type: claim
 title: Direct SMS communication with healthcare workers strengthened patient-provider relationships and trust
 description: Direct SMS communication with healthcare workers strengthened patient-provider relationships and trust
 id: sms-communication-strengthens-patient-provider-relationships
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: strategy
 id: simulator-expert-synthesis-recipe-transfer
 title: Apply the simulator-guided expert synthesis recipe wherever training-time simulators exist but deployment-time interaction must be planned in advance
 description: "The article proposes a generalizable recipe, stating \"It requires three ingredients: (i) a simulator that can be queried during training, (ii) a combinatorial sequence decision problem with sparse terminal reward, and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

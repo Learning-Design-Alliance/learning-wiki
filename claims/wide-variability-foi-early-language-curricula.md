@@ -3,7 +3,7 @@ type: claim
 title: Fidelity of implementation of early language curricula varies widely across teachers and studies
 description: Fidelity of implementation of early language curricula varies widely across teachers and studies
 id: wide-variability-foi-early-language-curricula
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: design
 id: nine-structured-ai-demonstrations-sequence
 title: Sequence of nine structured instructor-led AI demonstrations for modeling strategic LLM delegation and evaluation
 description: "A deployable classroom intervention: nine short, instructor-led AI demonstrations delivered at roughly weekly cadence, progressing from baseline tool literacy through pedagogical framing (metacognition, Socratic tutor..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: In five scaled early learning coaching systems, coach-to-site ratios averaged about 1 coach per 22 sites, dosage varied widely, and participants perceived benefits in educator satisfaction, practice, and program quality
 description: In five scaled early learning coaching systems, coach-to-site ratios averaged about 1 coach per 22 sites, dosage varied widely, and participants perceived benefits in educator satisfaction, practice, and program quality
 id: scaled-coaching-systems-case-study-findings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

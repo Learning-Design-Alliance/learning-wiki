@@ -3,7 +3,7 @@ type: claim
 title: Under single-pass deployment, Fs+CoT prompting yields the strongest agreement with teacher mean scores for music-analysis essay scoring (r = 0.795, ICC (2,1) = 0.657)
 description: Under single-pass deployment, Fs+CoT prompting yields the strongest agreement with teacher mean scores for music-analysis essay scoring (r = 0.795, ICC (2,1) = 0.657)
 id: fscot-strongest-teacher-agreement-run1
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

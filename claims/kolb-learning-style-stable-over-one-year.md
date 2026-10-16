@@ -3,7 +3,7 @@ type: claim
 title: "Learning styles measured by Kolb's inventory showed no significant change over one year of varied instruction"
 description: "Learning styles measured by Kolb's inventory showed no significant change over one year of varied instruction"
 id: kolb-learning-style-stable-over-one-year
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

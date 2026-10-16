@@ -3,7 +3,7 @@ type: claim
 title: A multi-skill prior strategy yielded lower prediction error in 33 of 42 problem sets
 description: A multi-skill prior strategy yielded lower prediction error in 33 of 42 problem sets
 id: multi-skill-prior-strategy-best-prediction-error
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

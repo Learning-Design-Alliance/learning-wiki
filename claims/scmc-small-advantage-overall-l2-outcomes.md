@@ -3,7 +3,7 @@ type: claim
 title: SCMC interaction shows a small advantage over FTF on overall L2 learning outcomes
 description: SCMC interaction shows a small advantage over FTF on overall L2 learning outcomes
 id: scmc-small-advantage-overall-l2-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

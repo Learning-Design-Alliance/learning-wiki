@@ -3,7 +3,7 @@ type: claim
 title: HSE learners and workers saw consolidated records, job matchmaking, convenience, auto-translation, and career search as top LER opportunities
 description: HSE learners and workers saw consolidated records, job matchmaking, convenience, auto-translation, and career search as top LER opportunities
 id: top-perceived-ler-opportunities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

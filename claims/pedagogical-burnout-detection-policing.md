@@ -3,7 +3,7 @@ type: claim
 title: "Qualitative survey themes describe 'Pedagogical Burnout': faculty report detection policing displaces teaching, casts them as 'Digital Prosecutors', and fuels an unwinnable arms race"
 description: "Qualitative survey themes describe 'Pedagogical Burnout': faculty report detection policing displaces teaching, casts them as 'Digital Prosecutors', and fuels an unwinnable arms race"
 id: pedagogical-burnout-detection-policing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

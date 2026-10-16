@@ -4,7 +4,7 @@ id: five-goal-state-policy-framework-for-increasing-educator-workforce-diversity
 title: Five-goal state policy framework for increasing educator workforce diversity
 description: An Education Trust framework that assesses and guides state policy conditions for recruiting, hiring, supporting, and retaining a racially diverse educator workforce.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

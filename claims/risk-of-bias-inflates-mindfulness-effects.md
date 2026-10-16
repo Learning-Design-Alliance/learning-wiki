@@ -3,7 +3,7 @@ type: claim
 title: Risk of bias moderates the Mindfulness effect in active-control RCTs, with higher-risk studies producing larger effect sizes
 description: Risk of bias moderates the Mindfulness effect in active-control RCTs, with higher-risk studies producing larger effect sizes
 id: risk-of-bias-inflates-mindfulness-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

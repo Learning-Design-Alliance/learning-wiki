@@ -3,7 +3,7 @@ type: claim
 title: "Adults' acceptance of education-related epistemic violence is moderate, with 48.1% at a moderate and 40.3% at a high level"
 description: "Adults' acceptance of education-related epistemic violence is moderate, with 48.1% at a moderate and 40.3% at a high level"
 id: adults-moderate-acceptance-epistemic-violence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

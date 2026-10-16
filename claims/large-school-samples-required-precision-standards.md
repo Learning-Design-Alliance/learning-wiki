@@ -3,7 +3,7 @@ type: claim
 title: Large school samples are required to achieve appropriate precision standards in clustered education experiments
 description: Large school samples are required to achieve appropriate precision standards in clustered education experiments
 id: large-school-samples-required-precision-standards
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -44,7 +44,6 @@ Theoretical and empirical power analysis for experimental education evaluations,
 
 ## Related Claims
 - [Clustering effects in education random-assignment trials vary by design but are typically large, requiring large school samples](clustering-effects-large-school-samples-education-trials.md) — possibly the same claim (merge candidate)
-- [Clustering effects vary by design but are typically large in education random-assignment evaluations](clustering-effects-typically-large-education-designs.md) — related
 - [In clustered school-based RCTs, OLS mediator analyses yield precise teacher practice-achievement estimates only with about 150 to 200 study schools](ols-mediator-power-requires-150-200-schools.md) — a narrower finding that bears on this claim
 - [Clustered regression discontinuity designs typically require three to four times larger samples than clustered experimental designs to produce impact estimates with the same level of statistical precision in education evaluations](rd-designs-need-three-to-four-times-larger-samples-than-experiments.md) — related
 - Adjusting for school-level proficiency data increases statistical precision less well than adjusting for student-level baseline test scores in education cluster-randomized trials — related

@@ -3,7 +3,7 @@ type: claim
 title: In this experiment, self-controlled learners showed no difference in error between trials on which they requested knowledge of results and trials on which they did not, whereas yoked learners had lower error on no-KR trials.
 description: In this experiment, self-controlled learners showed no difference in error between trials on which they requested knowledge of results and trials on which they did not, whereas yoked learners had lower error on no-KR...
 id: self-controlled-learners-do-not-show-lower-error-on-requested-kr-trials
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

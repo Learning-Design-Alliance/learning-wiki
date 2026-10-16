@@ -3,7 +3,7 @@ type: strategy
 id: phase-based-sample-size-planning
 title: Plan sample sizes phase by phase across the four evidence-building phases
 description: "This strategy organizes sample size planning around the four evidence-building phases the guide names: \"Design the Solution (Phase 1), Refine the Solution (Phase 2), Assess for Early Evidence of Success (Phase 3), and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

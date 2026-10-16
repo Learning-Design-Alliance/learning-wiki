@@ -3,7 +3,7 @@ type: claim
 title: Expressed dissatisfaction with online technology, instruction, or content is not the primary reason for dropping
 description: Expressed dissatisfaction with online technology, instruction, or content is not the primary reason for dropping
 id: dissatisfaction-not-primary-drop-reason
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

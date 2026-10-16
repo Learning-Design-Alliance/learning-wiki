@@ -3,7 +3,7 @@ type: claim
 title: Professional development is associated with larger mathematics gains for students of early-career principals than for students of mid-career and veteran principals
 description: Professional development is associated with larger mathematics gains for students of early-career principals than for students of mid-career and veteran principals
 id: pd-benefits-early-career-principals
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

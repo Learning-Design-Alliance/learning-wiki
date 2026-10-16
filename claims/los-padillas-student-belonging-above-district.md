@@ -3,7 +3,7 @@ type: claim
 title: "66% of Los Padillas students reported a sense of belonging in 2023–24, well above the 44% for students in the rest of the district"
 description: "66% of Los Padillas students reported a sense of belonging in 2023–24, well above the 44% for students in the rest of the district"
 id: los-padillas-student-belonging-above-district
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -1,10 +1,10 @@
 ---
 type: strategy
 id: exact-path-existing-staff-implementation-strategy
-aliases: [exact-path-implementation-existing-staff-pd, exact-path-implementation-strategy]
+aliases: [exact-path-implementation-existing-staff-pd, exact-path-implementation-strategy, exact-path-existing-staff-vendor-pd-implementation]
 title: Implement Exact Path with existing district staff supported by vendor professional development and standard technology
 description: "The program is designed for implementation without new hires or additional technology: districts use their current teachers and leaders with guidance from Edmentum's Customer Success Managers, and the Professional Ser..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
@@ -21,6 +21,10 @@ sources:
     resource: "https://www.edmentum.com"
     title: "Exact Path Growth: Evidence Rating. (2024). https://www.edmentum.com"
     author: "Exact Path Growth: Evidence Rating"
+  - id: exact-path-growth-exact-path-proficiency-evidence-rating-moderate-2025
+    resource: "https://evidenceforessa.org/program/exact-path-proficiency-exact-path-growth-math/"
+    title: "Exact Path Growth + Exact Path Proficiency (Evidence Rating: Moderate). (2025). Edmentum program evidence summary. https://evidenceforessa.org/program/exact-path-proficiency-exact-path-growth-math/"
+    author: "Exact Path Growth + Exact Path Proficiency (Evidence Rating: Moderate)"
 ---
 
 # Implement Exact Path with existing district staff supported by vendor professional development and standard technology
@@ -44,17 +48,18 @@ The program is designed for implementation without new hires or additional techn
 - Runs on all commonly used district devices and browsers without additional technology applications or devices.
 
 ### Target Learners
-- middle school students
+- Middle school students in district implementations
 - K-12 learners in implementing districts
 
 ### Target Learning Goals
 - ELA and Mathematics achievement through personalized instruction and formative assessment
 - Accelerating and reporting student achievement in Math and English Language Arts standards
 - Mathematics and English Language Arts standards achievement
+- Mathematics achievement
+- English Language Arts achievement
 
 ## Related Strategies
 
-- [Implement Exact Path with existing district staff plus vendor-provided professional development](exact-path-existing-staff-vendor-pd-implementation.md)
 - [Provide implementation professional development and support approximately every three weeks](sipps-three-week-pd-support-cadence.md)
 
 ## Examples
@@ -64,6 +69,7 @@ The program is designed for implementation without new hires or additional techn
 - Exact Path Proficiency + Exact Path Growth. (2025). https://evidenceforessa.org/program/exact-path-proficiency-exact-path-growth-reading/
 - Exact Path Growth Evidence Rating Summary. (2024). Edmentum. https://www.edmentum.com/products/exact-path
 - Exact Path Growth: Evidence Rating. (2024). https://www.edmentum.com
+- Exact Path Growth + Exact Path Proficiency (Evidence Rating: Moderate). (2025). Edmentum program evidence summary. https://evidenceforessa.org/program/exact-path-proficiency-exact-path-growth-math/
 
 <!-- merged 2026-10-13 from strategies/exact-path-implementation-strategy ("Implement Exact Path with existing district staff supported by vendor professional development and Customer Success Managers"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -96,7 +102,7 @@ The summary states that Exact Path Growth "is implemented by a district's curren
 ## Related Strategies
 
 - [Implement Exact Path with existing district staff supported by vendor professional development and standard technology](exact-path-existing-staff-implementation-strategy.md)
-- [Implement Exact Path with existing district staff plus vendor-provided professional development](exact-path-existing-staff-vendor-pd-implementation.md)
+- [Implement Exact Path with existing district staff plus vendor-provided professional development](exact-path-existing-staff-implementation-strategy.md)
 - [Provide implementation professional development and support approximately every three weeks](sipps-three-week-pd-support-cadence.md)
 
 ## Examples
@@ -134,7 +140,7 @@ The program is designed for implementation by a district's current teachers, sch
 
 - [Implement Exact Path with existing district staff supported by vendor professional development and Customer Success Managers](exact-path-existing-staff-implementation-strategy.md)
 - [Implement Exact Path with existing district staff supported by vendor professional development and standard technology](exact-path-existing-staff-implementation-strategy.md)
-- [Implement Exact Path with existing district staff plus vendor-provided professional development](exact-path-existing-staff-vendor-pd-implementation.md)
+- [Implement Exact Path with existing district staff plus vendor-provided professional development](exact-path-existing-staff-implementation-strategy.md)
 - [Provide implementation professional development and support approximately every three weeks](sipps-three-week-pd-support-cadence.md)
 
 ## Examples
@@ -143,4 +149,41 @@ The program is designed for implementation by a district's current teachers, sch
 ## Key Sources
 - Exact Path Growth: Evidence Rating. (2024). https://www.edmentum.com
 - ->
+-->
+
+<!-- merged 2026-10-15 from strategies/exact-path-existing-staff-vendor-pd-implementation ("Implement Exact Path with existing district staff plus vendor-provided professional development"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Implement Exact Path with existing district staff plus vendor-provided professional development
+
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
+## Description
+The program is designed for implementation without additional hiring: districts use their current teachers and leaders, supported by Edmentum's Customer Success Managers, and the Professional Services Team offers "dedicated professional development focused on how to elevate instructional practices." This staffing-and-training recipe keeps implementation costs low while building continuous learning environments.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Access to Edmentum's Customer Success Managers and Professional Services Team for guidance and professional development.
+#### Constraints
+- 
+
+### Target Learners
+- Middle school students in district implementations
+
+### Target Learning Goals
+- Mathematics achievement
+- English Language Arts achievement
+
+## Related Strategies
+
+- [Implement Exact Path with existing district staff supported by vendor professional development and standard technology](exact-path-existing-staff-implementation-strategy.md)
+- [Provide implementation professional development and support approximately every three weeks](sipps-three-week-pd-support-cadence.md)
+
+## Examples
+-
+
+## Key Sources
+- Exact Path Growth + Exact Path Proficiency (Evidence Rating: Moderate). (2025). Edmentum program evidence summary. https://evidenceforessa.org/program/exact-path-proficiency-exact-path-growth-math/
 -->

@@ -3,7 +3,7 @@ type: strategy
 id: situational-course-planning-esl
 title: Plan the second language course situationally rather than grammatically
 description: The article recommends organizing an adult second language course around real-life situations in which speakers of the target language actually find themselves, rather than around a grammatical syllabus.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: "Faculty transformation followed four themes: fear shifting to curiosity, desire for ethical clarity, inclusive design as equity amplifier, and evolution from gatekeepers to guides"
 description: "Faculty transformation followed four themes: fear shifting to curiosity, desire for ethical clarity, inclusive design as equity amplifier, and evolution from gatekeepers to guides"
 id: four-themes-faculty-ai-transformation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

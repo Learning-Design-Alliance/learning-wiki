@@ -3,7 +3,7 @@ type: claim
 title: "About 45% of teachers still report needing further TPE-related training despite year-over-year improvement"
 description: "About 45% of teachers still report needing further TPE-related training despite year-over-year improvement"
 id: teachers-need-further-tpe-training
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

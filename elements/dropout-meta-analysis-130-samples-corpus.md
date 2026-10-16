@@ -3,7 +3,7 @@ type: element
 id: dropout-meta-analysis-130-samples-corpus
 title: Meta-analytic corpus of 130 dropout program evaluation samples
 description: "The article's evidence base is a coded corpus of \"130 independent samples of students\" drawn from a comprehensive literature search of evaluations of school-based, school-affiliated, and community-based dropout preven..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -54,4 +54,4 @@ The article's evidence base is a coded corpus of "130 independent samples of stu
 -
 
 ## Key Sources
-- Wilson, S. J., Tanner-Smith, E., & Lipsey, M. W. (2011). Dropout Prevention and Intervention Programs: Effects on School Completion and Dropout Among School-aged Children and Youth. 2011 SREE Conference. http://ies.ed.gov/ncee/wwc/reports/dropout/topic/#top
+- Wilson, S. J., Tanner-Smith, E., & Lipsey, M. W. (2011). Dropout Prevention and Intervention Programs: Effects on School Completion and Dropout Among School-aged Children and Youth. 2011 SREE Conference. http://ies.ed.gov/ncee/wwc/reports/dropout/topic/#top. [doi:10.4073/csr.2011.8](https://doi.org/10.4073/csr.2011.8)

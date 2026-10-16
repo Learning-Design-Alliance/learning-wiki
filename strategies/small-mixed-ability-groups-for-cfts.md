@@ -3,7 +3,7 @@ type: strategy
 id: small-mixed-ability-groups-for-cfts
 title: Assign small mixed-ability groups and manage group functioning and rotation for collaborative feedback tasks
 description: For CFTs, the article recommends assigning students to small groups of two or three, mixing more capable with less capable students so a more knowledgeable peer can help, negotiating group membership with students, an...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

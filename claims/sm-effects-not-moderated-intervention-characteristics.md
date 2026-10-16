@@ -3,7 +3,7 @@ type: claim
 title: Single-case effects of self-management interventions are not moderated by intervention characteristics (duration, fidelity assessment, fidelity method, or training)
 description: Single-case effects of self-management interventions are not moderated by intervention characteristics (duration, fidelity assessment, fidelity method, or training)
 id: sm-effects-not-moderated-intervention-characteristics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -47,3 +47,5 @@ Meta-regression of the single-case design sample testing intervention-characteri
 - [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](reflective-practice-evidence-mixed-in-professional-education.md) — related
 - [Interventions in higher Grades tend to have somewhat lower effect sizes; other study characteristics show few significant moderator effects](grade-level-moderates-effect-size.md) — related
 - [School-based self-management interventions significantly and positively impact classroom behaviors of school-age students with challenging behaviors (single-case design synthesis)](sm-interventions-improve-classroom-behaviors-scd-meta.md) — related
+- [Effect size heterogeneity in self-management interventions may be explained by grade level, disability status, and general versus special education setting](self-management-heterogeneity-moderators-grade-disability-setting.md) — related
+- [Self-management intervention configurations show strong mean effect sizes but substantial effect size heterogeneity in single-case research](self-management-strong-mean-effects-with-heterogeneity.md) — related

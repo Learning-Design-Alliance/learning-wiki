@@ -3,7 +3,7 @@ type: design
 id: coteaching-gradual-release-residency-pattern
 title: Yearlong coteaching residency with gradual release into full instructional responsibility
 description: "Alder's clinical model places residents 4 days per week in selected school sites as coteachers with mentor teachers, using a coteaching and gradual release model."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

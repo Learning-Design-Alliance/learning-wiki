@@ -3,7 +3,7 @@ type: claim
 title: "Under EO 1110's first year, the majority of CSU entering first-year students were placed in Category II in both Written Communication (74 percent) and Mathematics/Quantitative Reasoning (63 percent)"
 description: "Under EO 1110's first year, the majority of CSU entering first-year students were placed in Category II in both Written Communication (74 percent) and Mathematics/Quantitative Reasoning (63 percent)"
 id: eo1110-majority-placed-category-ii
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

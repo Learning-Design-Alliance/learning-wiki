@@ -3,7 +3,7 @@ type: claim
 title: Log-likelihood comparisons indicate Pychometrik can produce more accurate item parameter estimates than the existing tool for items with RIT differences larger than 2
 description: Log-likelihood comparisons indicate Pychometrik can produce more accurate item parameter estimates than the existing tool for items with RIT differences larger than 2
 id: pychometrik-higher-loglikelihood-better-estimates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

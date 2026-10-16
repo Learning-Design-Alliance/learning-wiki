@@ -3,7 +3,7 @@ type: claim
 title: Within-session help-seeking development predicts unaided post-test performance beyond pre-test performance and static AI-use features
 description: Within-session help-seeking development predicts unaided post-test performance beyond pre-test performance and static AI-use features
 id: hs-trajectory-predicts-unaided-posttest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -18,8 +18,8 @@ sources:
     kind: associational
     rigour: "?"
   - id: abdelghani-2026-2
-    resource: "https://arxiv.org/abs/2606.28472"
-    title: "Abdelghani, R., Kaiser, P., Murayama, K. (2026). Changes in Help-Seeking Strategies Predict unaided Performance during AI-based Mathematical Learning. https://arxiv.org/abs/2606.28472"
+    resource: "https://doi.org/10.48550/arxiv.2606.28472"
+    title: "Abdelghani, R., Kaiser, P., Murayama, K. (2026). Changes in Help-Seeking Strategies Predict unaided Performance during AI-based Mathematical Learning. https://arxiv.org/abs/2606.28472. [doi:10.48550/arxiv.2606.28472](https://doi.org/10.48550/arxiv.2606.28472)"
     author: Abdelghani, R., Kaiser, P., Murayama, K.
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Within-session help-seeking development predicts unaided post-test performance beyond pre-test performance and static AI-use features
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r?` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r?` · `q2`
 
 ## Subclaims
 `q2 i?` After the static block was included, temporal features increased explained variance from R2 = .185 to R2 = .281 (∆R2 = .096, F(2,81) = 5.43, p = .006). [→ Abdelghani 2026](#abdelghani-2026)
@@ -50,7 +50,7 @@ Hierarchical regression with N = 89 adding the two within-session shift indices 
 
 ### Abdelghani 2026 (2)
 
-Abdelghani, R., Kaiser, P., Murayama, K. (2026). Changes in Help-Seeking Strategies Predict unaided Performance during AI-based Mathematical Learning. https://arxiv.org/abs/2606.28472
+Abdelghani, R., Kaiser, P., Murayama, K. (2026). Changes in Help-Seeking Strategies Predict unaided Performance during AI-based Mathematical Learning. https://arxiv.org/abs/2606.28472. [doi:10.48550/arxiv.2606.28472](https://doi.org/10.48550/arxiv.2606.28472)
 
 `q2 · i?` · `associational · r?`
 

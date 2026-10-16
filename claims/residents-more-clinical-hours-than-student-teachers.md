@@ -3,7 +3,7 @@ type: claim
 title: "Residents reported more intensive clinical experiences than other pathways, with 66% completing at least 600 hours of student teaching versus 51% of traditional student teachers"
 description: "Residents reported more intensive clinical experiences than other pathways, with 66% completing at least 600 hours of student teaching versus 51% of traditional student teachers"
 id: residents-more-clinical-hours-than-student-teachers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

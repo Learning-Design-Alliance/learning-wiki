@@ -3,7 +3,7 @@ type: claim
 title: CPS has two distinct truancy problems—full-day absenteeism and class cutting—and about 40 percent of extreme truancy occurs through class cutting
 description: CPS has two distinct truancy problems—full-day absenteeism and class cutting—and about 40 percent of extreme truancy occurs through class cutting
 id: two-truancy-problems-full-day-and-class-cutting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Curious, optimistic, and confused are the most frequently reported affective states, and self-caught reports are more evenly distributed than probe-caught reports
 description: Curious, optimistic, and confused are the most frequently reported affective states, and self-caught reports are more evenly distributed than probe-caught reports
 id: affect-frequency-distributions-reporting-methods
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

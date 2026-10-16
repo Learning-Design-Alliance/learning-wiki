@@ -3,7 +3,7 @@ type: claim
 title: Transgender students report substantially fewer school supports than non-transgender peers, especially caring adult relationships and high expectations
 description: Transgender students report substantially fewer school supports than non-transgender peers, especially caring adult relationships and high expectations
 id: transgender-students-report-fewer-school-supports
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

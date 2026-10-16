@@ -3,7 +3,7 @@ type: claim
 title: Scaffold use correlated significantly with mastery of attributes 1, 3, and 4, but not attributes 2 and 5
 description: Scaffold use correlated significantly with mastery of attributes 1, 3, and 4, but not attributes 2 and 5
 id: scaffolding-correlates-mastery-three-of-five-attributes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

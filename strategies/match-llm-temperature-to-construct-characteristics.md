@@ -3,7 +3,7 @@ type: strategy
 id: match-llm-temperature-to-construct-characteristics
 title: Match LLM temperature settings to construct characteristics when coding educational dialogue
 description: The article recommends calibrating LLM sampling parameters to the psychological construct being coded rather than applying one configuration universally.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

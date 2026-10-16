@@ -3,7 +3,7 @@ type: claim
 title: In archived sessions, no operator code changes or quantum-logic corrections were needed; eight of nine notebook executions only required one permitted fix of a missing visualization dependency
 description: In archived sessions, no operator code changes or quantum-logic corrections were needed; eight of nine notebook executions only required one permitted fix of a missing visualization dependency
 id: archived-qiskit-sessions-needed-only-environment-fixes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

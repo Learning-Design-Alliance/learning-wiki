@@ -3,7 +3,7 @@ type: claim
 title: Both preclass (g = 0.186) and postclass (g = 0.536) quizzes enhance learning, with postclass quizzes more effective; benefits increase with treatment duration.
 description: Both preclass (g = 0.186) and postclass (g = 0.536) quizzes enhance learning, with postclass quizzes more effective; benefits increase with treatment duration.
 id: postclass-quizzes-and-longer-duration-larger-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

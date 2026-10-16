@@ -3,7 +3,7 @@ type: claim
 title: "The program's impact was estimated with a difference-in-differences-in-differences approach on student-level data from a large urban California district"
 description: "The program's impact was estimated with a difference-in-differences-in-differences approach on student-level data from a large urban California district"
 id: ddd-design-credit-recovery-newcomer-els
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

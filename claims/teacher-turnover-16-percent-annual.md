@@ -3,7 +3,7 @@ type: claim
 title: "Overall U.S. teacher turnover is about 16% annually, with about 8% leaving the profession and about 8% moving schools"
 description: Overall U.S.
 id: teacher-turnover-16-percent-annual
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

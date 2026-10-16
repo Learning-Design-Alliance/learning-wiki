@@ -3,7 +3,7 @@ type: claim
 title: Large racial and socioeconomic achievement disparities persisted in an affluent high-performing district
 description: Large racial and socioeconomic achievement disparities persisted in an affluent high-performing district
 id: ousd-persistent-race-class-disparities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

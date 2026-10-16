@@ -3,7 +3,7 @@ type: strategy
 id: concrete-academic-direction-for-parents
 title: "Provide parents with concrete direction and materials for supporting their adolescent's academic work at home"
 description: The brief recommends that schools give parents specific, actionable guidance about what their children are studying and how to help at home.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

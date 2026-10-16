@@ -3,7 +3,7 @@ type: claim
 title: Research project supervision styles can be differentiated by degree of supervisory control and degree of support, yielding five distinct styles
 description: Research project supervision styles can be differentiated by degree of supervisory control and degree of support, yielding five distinct styles
 id: supervision-styles-control-support-axes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

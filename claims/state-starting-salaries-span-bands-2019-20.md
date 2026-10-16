@@ -3,7 +3,7 @@ type: claim
 title: State average starting teacher salaries in 2019-20 spanned bands from below $35,000 to $50,000 or above
 description: State average starting teacher salaries in 2019-20 spanned bands from below $35,000 to $50,000 or above
 id: state-starting-salaries-span-bands-2019-20
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

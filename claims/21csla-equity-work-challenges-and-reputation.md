@@ -3,7 +3,7 @@ type: claim
 title: "21CSLA's equity-forward work faces pushback from some educational leaders and difficulties recruiting a diverse coaching corps, yet has a strong reputation as an equity resource"
 description: "21CSLA's equity-forward work faces pushback from some educational leaders and difficulties recruiting a diverse coaching corps, yet has a strong reputation as an equity resource"
 id: 21csla-equity-work-challenges-and-reputation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

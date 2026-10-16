@@ -3,7 +3,7 @@ type: claim
 title: Verbal redundancy (spoken–written presentation) yields a small overall learning benefit with large between-study heterogeneity
 description: Verbal redundancy (spoken–written presentation) yields a small overall learning benefit with large between-study heterogeneity
 id: verbal-redundancy-small-overall-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

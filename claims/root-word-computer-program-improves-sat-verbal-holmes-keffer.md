@@ -3,7 +3,7 @@ type: claim
 title: "A 6-week computerized Latin and Greek root-word program improved SAT verbal scores (Holmes & Keffer, 1995; effect size 0.49)"
 description: "A 6-week computerized Latin and Greek root-word program improved SAT verbal scores (Holmes & Keffer, 1995; effect size 0.49)"
 id: root-word-computer-program-improves-sat-verbal-holmes-keffer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

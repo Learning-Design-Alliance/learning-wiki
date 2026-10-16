@@ -3,7 +3,7 @@ type: claim
 title: Business sector only weakly explains which visual archetype a vibe-coded site receives, and sector is not significantly associated with per-site originality
 description: Business sector only weakly explains which visual archetype a vibe-coded site receives, and sector is not significantly associated with per-site originality
 id: sector-weakly-explains-archetype-assignment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "The visualizer's flagging mechanisms flagged all tested logs from cases already known to involve plagiarism while still requiring student-level review"
 description: "The visualizer's flagging mechanisms flagged all tested logs from cases already known to involve plagiarism while still requiring student-level review"
 id: plagiarism-cases-flagged-by-thonny-log-visualizer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

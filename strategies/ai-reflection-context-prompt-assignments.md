@@ -3,7 +3,7 @@ type: strategy
 id: ai-reflection-context-prompt-assignments
 title: Context-prompt reflection assignments in which students elaborate on a concept, apply it to a novel problem, and receive AI feedback
 description: "The article proposes reflection assignments as an extension of the same context-prompt framework: students elaborate on their understanding of a specific physics concept, apply it to a novel problem, and receive AI fe..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

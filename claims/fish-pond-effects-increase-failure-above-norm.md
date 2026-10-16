@@ -3,7 +3,7 @@ type: claim
 title: "Fish pond effects: above-norm students became more likely to fail algebra when their skills were low relative to classroom peers after sorting"
 description: "Fish pond effects: above-norm students became more likely to fail algebra when their skills were low relative to classroom peers after sorting"
 id: fish-pond-effects-increase-failure-above-norm
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

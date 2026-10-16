@@ -3,7 +3,7 @@ type: claim
 title: Survey design and management conditions influenced how schools engaged with climate data
 description: Survey design and management conditions influenced how schools engaged with climate data
 id: survey-design-conditions-data-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

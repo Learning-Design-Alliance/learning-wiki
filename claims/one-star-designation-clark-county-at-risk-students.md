@@ -3,7 +3,7 @@ type: claim
 title: For Clark County students designated At-risk, One-Star designation significantly raises math but not ELA scores
 description: For Clark County students designated At-risk, One-Star designation significantly raises math but not ELA scores
 id: one-star-designation-clark-county-at-risk-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

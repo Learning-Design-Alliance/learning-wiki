@@ -3,7 +3,7 @@ type: claim
 title: Impacts of charter middle schools on student outcomes varied widely across schools
 description: Impacts of charter middle schools on student outcomes varied widely across schools
 id: charter-school-impacts-varied-widely-across-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Midterm self-efficacy (comfort and confidence) did not differ between conditions after three assignments, though both varied significantly across algorithmic topics
 description: Midterm self-efficacy (comfort and confidence) did not differ between conditions after three assignments, though both varied significantly across algorithmic topics
 id: genai-condition-no-self-efficacy-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

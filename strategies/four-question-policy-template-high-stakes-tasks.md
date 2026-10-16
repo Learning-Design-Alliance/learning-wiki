@@ -3,7 +3,7 @@ type: strategy
 id: four-question-policy-template-high-stakes-tasks
 title: Four-question public template for high-stakes AI assessment tasks
 description: The article recommends operationalizing stewardship through a short public template rather than a long rulebook.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

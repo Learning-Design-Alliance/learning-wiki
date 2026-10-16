@@ -3,7 +3,7 @@ type: claim
 title: Teachers and administrators diverged on using evaluation ratings for personnel decisions, with 85 percent of administrators supportive
 description: Teachers and administrators diverged on using evaluation ratings for personnel decisions, with 85 percent of administrators supportive
 id: diverging-views-personnel-decisions-reach
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

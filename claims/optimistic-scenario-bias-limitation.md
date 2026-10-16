@@ -3,7 +3,7 @@ type: claim
 title: Expert participants produced predominantly optimistic scenarios with limited discussion of tensions, limits, or unintended consequences
 description: Expert participants produced predominantly optimistic scenarios with limited discussion of tensions, limits, or unintended consequences
 id: optimistic-scenario-bias-limitation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

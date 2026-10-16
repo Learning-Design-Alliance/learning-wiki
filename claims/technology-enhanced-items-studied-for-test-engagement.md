@@ -3,7 +3,7 @@ type: claim
 title: Technology-enhanced assessment items were studied as a potential means of increasing student test engagement and reducing disengagement
 description: Technology-enhanced assessment items were studied as a potential means of increasing student test engagement and reducing disengagement
 id: technology-enhanced-items-studied-for-test-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -69,12 +69,12 @@ Rhyming games work because they direct attention to the rime unit (vowel + final
 ## Examples
 - **Rhyming bingo** — children cover pictures that rhyme with a called word; combines recognition practice with peer play in small groups
 - **"Down by the Bay" call-and-response** — a song-based game where children invent rhyming endings ("Did you ever see a cat wearing a hat?"), moving from recognition to production
-- **Word family charts** — after a rhyme game, the class generates -at words (cat, hat, mat) on chart paper, connecting sounds to spellings
+- **[Word family charts](word-family-charts.md)** — after a rhyme game, the class generates -at words (cat, hat, mat) on chart paper, connecting sounds to spellings
 - **[Starfall](https://www.starfall.com)** — free online rhyme and word-family activities with audio support, suitable for independent station work
 
 ## Key Sources
 - Bradley, L., & Bryant, P. E. (1983). Categorizing sounds and learning to read — a causal connection. *Nature, 301*, 419–421. [doi:10.1038/301419a0](https://doi.org/10.1038/301419a0)
-- Ehri, L. C., Nunes, S. R., Willows, D. M., & Valeska Schuster, B. (2001). Phonemic awareness instruction helps children learn to read: Evidence from the National Reading Panel's meta-analysis. *Reading Research Quarterly, 36*(3), 250–287. [doi:10.1598/RRQ.36.3.2](https://doi.org/10.1598/RRQ.36.3.2)
+- Ehri, L. C., Nunes, S. R., Willows, D. M., Schuster, B. V., Yaghoub-Zadeh, Z., & Shanahan, T. (2001). Phonemic awareness instruction helps children learn to read: Evidence from the National Reading Panel's meta-analysis. *Reading Research Quarterly, 36*(3), 250–287. [doi:10.1598/RRQ.36.3.2](https://doi.org/10.1598/RRQ.36.3.2)
 - Goswami, U., & Bryant, P. (1990). *Phonological skills and learning to read.* Lawrence Erlbaum Associates.
 - Yopp, H. K. (1988). The validity and reliability of phonemic awareness tests. *Reading Research Quarterly, 23*(2), 159–177. [doi:10.2307/747800](https://doi.org/10.2307/747800)
 - National Reading Panel. (2000). *Teaching children to read: An evidence-based assessment of the scientific research literature on reading and its implications for reading instruction.* National Institute of Child Health and Human Development.

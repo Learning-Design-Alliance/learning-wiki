@@ -3,7 +3,7 @@ type: claim
 title: Pre-service teachers choose strategies, methods, and techniques mainly for fit with objective content and for promoting active student participation
 description: Pre-service teachers choose strategies, methods, and techniques mainly for fit with objective content and for promoting active student participation
 id: reasons-for-choosing-strategies-methods-techniques
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

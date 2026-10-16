@@ -3,7 +3,7 @@ type: element
 id: mathia-strategy-choice-problems
 title: MATHia strategy-choice problems where students select between independently taught strategies
 description: MATHia instructional content in which students choose between math strategies that were previously taught to them independently.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Low-income urban students complete college-application steps at far lower rates than suburban peers with similar aspirations
 description: Low-income urban students complete college-application steps at far lower rates than suburban peers with similar aspirations
 id: urban-suburban-college-application-steps-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

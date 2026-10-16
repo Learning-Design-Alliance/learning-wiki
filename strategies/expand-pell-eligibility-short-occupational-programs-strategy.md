@@ -3,7 +3,7 @@ type: strategy
 id: expand-pell-eligibility-short-occupational-programs-strategy
 title: Expand Pell Grant eligibility to short occupational programs as a strategy for helping displaced workers and low-income adults earn credentials quickly
 description: The report presents waiving Pell rules so funds can be used for short occupational training as a policy strategy for rapid credentialing.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -40,6 +40,7 @@ The report presents waiving Pell rules so funds can be used for short occupation
 ## Related Strategies
 
 - [Use updated occupational education and retraining programs, including cooperative on-the-job instruction, to re-employ workers displaced by technological change](cooperative-retraining-programs-displaced-workers.md)
+- [Retrain workers for occupations complementary to, rather than competing with, automation](retrain-workers-automation-complementary-occupations.md)
 
 ## Examples
 -

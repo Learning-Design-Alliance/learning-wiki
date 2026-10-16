@@ -3,7 +3,7 @@ type: strategy
 id: cooperative-adaptation-card-sorting
 title: Cooperative adaptation-card sorting to compare two turtle species
 description: "A pre-visit activity in which \"Students will participate in a cooperative learning activity designed to illustrate the similarities and differences between the loggerhead sea turtle and the box turtle.\" Each student r..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: "Ready, Set, Leap!® effects do not persist to kindergarten follow-up on oral language, print knowledge, or math measures"
 description: "Ready, Set, Leap!® effects do not persist to kindergarten follow-up on oral language, print knowledge, or math measures"
 id: ready-set-leap-null-kindergarten-followup
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

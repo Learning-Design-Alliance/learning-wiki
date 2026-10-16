@@ -3,7 +3,7 @@ type: design
 id: modular-awe-decomposition-framework
 title: Modular decomposition of AWE into scoring, surface-level feedback, and deep-level feedback
 description: "The article organizes automated writing evaluation as a modular architecture that divides AWE tasks into three modules: scoring, surface-level feedback, and deep-level feedback."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

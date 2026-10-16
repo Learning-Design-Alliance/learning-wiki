@@ -3,7 +3,7 @@ type: strategy
 id: causal-evaluation-beyond-annual-summaries-at-risk
 title: Track targeted supports with causal evaluation beyond annual performance summaries
 description: The report recommends that Nevada evaluate its At-risk supports with methods that separate cause from correlation rather than relying on summary performance tables.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

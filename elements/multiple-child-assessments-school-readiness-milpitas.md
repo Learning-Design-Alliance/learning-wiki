@@ -3,7 +3,7 @@ type: element
 id: multiple-child-assessments-school-readiness-milpitas
 title: "Multiple child assessments used together to measure and evaluate preschool students' school readiness"
 description: "In the studied program, teachers used multiple child assessments, including a newly added assessment alongside existing tools, to \"measure and evaluate preschool students' school readiness.\" The brief examines how tea..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

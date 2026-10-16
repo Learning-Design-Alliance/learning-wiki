@@ -3,7 +3,7 @@ type: claim
 title: Combining more modalities does not always improve detection of learner mental states
 description: Combining more modalities does not always improve detection of learner mental states
 id: more-modalities-not-always-better-mental-state-detection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

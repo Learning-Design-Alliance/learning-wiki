@@ -65,7 +65,7 @@ Working memory can hold only a few novel elements at once; instruction that pres
 
 ## Examples
 - **Khan Academy** (https://www.khanacademy.org) — lessons split into short videos and practice sets, each covering one concept, with mastery checks gating progression to the next chunk.
-- **Duolingo** (https://www.duolingo.com) — language content broken into small lesson units of a few items each, sequenced by prerequisite structure.
+- **[Duolingo](../products/duolingo.md)** (https://www.duolingo.com) — language content broken into small lesson units of a few items each, sequenced by prerequisite structure.
 - **4C/ID in medical education** — complex clinical procedures taught as sequenced learning tasks of increasing whole-task complexity rather than presented all at once.
 
 ## Key Sources

@@ -3,7 +3,7 @@ type: claim
 title: Male faculty report modestly higher self-perceived GenAI knowledge than female faculty in TK and TPK, with small effect sizes
 description: Male faculty report modestly higher self-perceived GenAI knowledge than female faculty in TK and TPK, with small effect sizes
 id: gender-differences-technological-genai-knowledge-small-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

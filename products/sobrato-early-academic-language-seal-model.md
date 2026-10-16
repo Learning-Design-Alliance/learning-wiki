@@ -4,7 +4,7 @@ id: sobrato-early-academic-language-seal-model
 title: Sobrato Early Academic Language (SEAL) model
 description: A PreK–Grade 3 oral-language development model developed by the Sobrato Family Foundation for multilingual learners, including English learners with disabilities.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

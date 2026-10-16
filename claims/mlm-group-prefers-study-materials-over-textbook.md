@@ -3,7 +3,7 @@ type: claim
 title: The MLM group showed greater preference for the study materials over their current textbook than the two text-based groups
 description: The MLM group showed greater preference for the study materials over their current textbook than the two text-based groups
 id: mlm-group-prefers-study-materials-over-textbook
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

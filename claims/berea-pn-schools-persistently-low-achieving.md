@@ -3,7 +3,7 @@ type: claim
 title: All middle and high schools in the Berea College Promise Neighborhood are persistently low-achieving
 description: All middle and high schools in the Berea College Promise Neighborhood are persistently low-achieving
 id: berea-pn-schools-persistently-low-achieving
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

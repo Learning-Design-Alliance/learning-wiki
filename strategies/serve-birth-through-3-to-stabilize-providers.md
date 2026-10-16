@@ -3,7 +3,7 @@ type: strategy
 id: serve-birth-through-3-to-stabilize-providers
 title: Use local resources to serve children birth through age 3 to stabilize community providers as 4-year-olds move into TK
 description: As universal transitional kindergarten expands, community-based providers lose 4-year-old enrollment; the report recommends that local leaders use local resources to serve younger children instead.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

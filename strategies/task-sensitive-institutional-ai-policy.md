@@ -3,7 +3,7 @@ type: strategy
 id: task-sensitive-institutional-ai-policy
 title: Design task-sensitive institutional AI policies rather than blanket permitted/prohibited distinctions
 description: "The article argues that because faculty and administrative staff use AI while also holding stronger integrity concerns and norm endorsement, policy \"requires a task-sensitive design, with different rules for idea gene..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -54,4 +54,4 @@ The article argues that because faculty and administrative staff use AI while al
 -
 
 ## Key Sources
-- Braun, Y. S., & Khafizov, S. M. (2026). The AI Adaptation Gap in Higher Education: Students, Faculty, and Administrative Staff: AI Use, Trust, and Institutional Policy at a University Specializing in Teacher Education. https://arxiv.org/abs/2608.25063
+- Braun, Y. S., & Khafizov, S. M. (2026). The AI Adaptation Gap in Higher Education: Students, Faculty, and Administrative Staff: AI Use, Trust, and Institutional Policy at a University Specializing in Teacher Education. https://arxiv.org/abs/2608.25063. [doi:10.48550/arxiv.2608.25063](https://doi.org/10.48550/arxiv.2608.25063)

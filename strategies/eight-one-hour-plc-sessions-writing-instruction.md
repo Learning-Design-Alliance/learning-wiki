@@ -3,7 +3,7 @@ type: strategy
 id: eight-one-hour-plc-sessions-writing-instruction
 title: Run eight one-hour professional learning community sessions spread across the school year
 description: The toolkit organizes professional development over the course of eight one-hour professional learning community (PLC) sessions, with activities to be completed during and between sessions and practices teachers can i...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

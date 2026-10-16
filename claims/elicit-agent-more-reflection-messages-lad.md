@@ -3,7 +3,7 @@ type: claim
 title: In a real programming course, students with an eliciting LLM agent on a learning dashboard wrote more reflection messages than students with a telling agent
 description: In a real programming course, students with an eliciting LLM agent on a learning dashboard wrote more reflection messages than students with a telling agent
 id: elicit-agent-more-reflection-messages-lad
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: SpellRead™ has positive effects on alphabetics for struggling beginning readers, with an average improvement index of +18 percentile points
 description: SpellRead™ has positive effects on alphabetics for struggling beginning readers, with an average improvement index of +18 percentile points
 id: spellread-positive-effects-alphabetics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

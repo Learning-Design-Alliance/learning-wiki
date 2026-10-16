@@ -3,7 +3,7 @@ type: claim
 title: Higher-struggling-level problems elicit more diverse but less student-like LLM-generated errors
 description: Higher-struggling-level problems elicit more diverse but less student-like LLM-generated errors
 id: higher-struggling-problems-elicit-more-diverse-less-student-like-errors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: An iterative two-stage linking procedure improves identification of DIF items
 description: An iterative two-stage linking procedure improves identification of DIF items
 id: iterative-linking-improves-dif-identification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

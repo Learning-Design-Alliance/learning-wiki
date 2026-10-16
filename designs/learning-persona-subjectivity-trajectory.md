@@ -3,7 +3,7 @@ type: design
 id: learning-persona-subjectivity-trajectory
 title: "The learning persona: a three-assumption analytical framework tracing student movement from a traditional single-ground-truth mindset to a subjectivity-aware mindset"
 description: The learning persona is a theoretical construct derived from user-centred design principles representing what students should ideally understand after the annotation task.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

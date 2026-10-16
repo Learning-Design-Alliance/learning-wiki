@@ -3,7 +3,7 @@ type: claim
 title: FFT scores showed acceptable-to-good internal consistency, with the overall PPR score more internally consistent than any single domain score
 description: FFT scores showed acceptable-to-good internal consistency, with the overall PPR score more internally consistent than any single domain score
 id: fft-internal-consistency-acceptable-to-good
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

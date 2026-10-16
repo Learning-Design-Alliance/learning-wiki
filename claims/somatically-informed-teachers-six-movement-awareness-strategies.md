@@ -3,7 +3,7 @@ type: claim
 title: Somatically informed dance teachers use six facilitation strategies to deepen movement sensation
 description: Somatically informed dance teachers use six facilitation strategies to deepen movement sensation
 id: somatically-informed-teachers-six-movement-awareness-strategies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

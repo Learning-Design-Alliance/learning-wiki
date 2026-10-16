@@ -3,14 +3,14 @@ type: strategy
 id: local-dass21-recollection-and-formal-user-evaluation-strategy
 title: Retrain and evaluate the wellness system on locally collected, clinically validated data, then run a formal user evaluation before wider deployment
 description: "The authors' stated forward plan is to move from the public training dataset to primary data: \"Future work will focus on collecting primary data from Pakistani university students using an Urdu-translated and clinical..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 sources:
   - id: muhammad-fahad-bashir-2026
-    resource: "https://scholar.google.com/scholar?q=An+AI-Powered+Culturally+Aware+Chatbot+for+Stress+Detection+and+Wellness+Support+among+Pakistani+University+Students"
-    title: "Muhammad Fahad Bashir, Muhammad Afzal. (2026). An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning. https://scholar.google.com/scholar?q=An+AI-Powered+Culturally+Aware+Chatbot+for+Stress+Detection+and+Wellness+Support+among+Pakistani+University+Students"
+    resource: "https://doi.org/10.48550/arxiv.2609.11199"
+    title: "Muhammad Fahad Bashir, Muhammad Afzal. (2026). An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning. https://doi.org/10.48550/arxiv.2609.11199"
     author: Muhammad Fahad Bashir, Muhammad Afzal
 ---
 
@@ -49,4 +49,4 @@ The authors' stated forward plan is to move from the public training dataset to 
 -
 
 ## Key Sources
-- Muhammad Fahad Bashir, Muhammad Afzal. (2026). An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning. https://scholar.google.com/scholar?q=An+AI-Powered+Culturally+Aware+Chatbot+for+Stress+Detection+and+Wellness+Support+among+Pakistani+University+Students
+- Muhammad Fahad Bashir, Muhammad Afzal. (2026). An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning. https://doi.org/10.48550/arxiv.2609.11199

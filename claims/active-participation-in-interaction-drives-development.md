@@ -3,7 +3,7 @@ type: claim
 title: Active participation in interaction matters for second language developmental outcomes
 description: Active participation in interaction matters for second language developmental outcomes
 id: active-participation-in-interaction-drives-development
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

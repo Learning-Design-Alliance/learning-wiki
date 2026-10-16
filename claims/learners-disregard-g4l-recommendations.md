@@ -3,7 +3,7 @@ type: claim
 title: "Most learners disregarded the system's learning and repetition recommendations, with self-regulated decision-making taking precedence over the suggested path"
 description: "Most learners disregarded the system's learning and repetition recommendations, with self-regulated decision-making taking precedence over the suggested path"
 id: learners-disregard-g4l-recommendations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: quick-hits-then-instructional-core-strategy
 title: Begin reform with quick hits on highly visible problems to build collective agency, then sustain a long-term focus on the instructional core
 description: This two-part strategy pairs early, visible wins with sustained attention to teaching quality.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

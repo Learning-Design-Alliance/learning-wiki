@@ -3,7 +3,7 @@ type: claim
 title: Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)
 description: Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)
 id: learning-rate-retention-tradeoff
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Teachers are able to support rich and participatory science discussions during OpenSciEd enactment, per detailed case studies of experienced teachers
 description: Teachers are able to support rich and participatory science discussions during OpenSciEd enactment, per detailed case studies of experienced teachers
 id: openscied-rich-participatory-discussions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

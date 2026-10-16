@@ -3,7 +3,7 @@ type: strategy
 id: genai-metacognitive-scaffolds-for-laziness
 title: Embed metacognitive scaffolds in GenAI search systems — prompting sub-question formulation, guiding output comparison, and encouraging reflection on AI-user knowledge discrepancies
 description: "This strategy recommends that GenAI academic search systems \"embed metacognitive scaffolds, such as prompting sub-question formulation, guiding output comparison, or encouraging reflection on AI-user knowledge discrep..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

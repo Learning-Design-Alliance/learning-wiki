@@ -3,7 +3,7 @@ type: claim
 title: UEQ-S user-experience ratings were positive across tasks except one hedonic item on Task 1, with pragmatic qualities rated higher than hedonic
 description: UEQ-S user-experience ratings were positive across tasks except one hedonic item on Task 1, with pragmatic qualities rated higher than hedonic
 id: nev-ueq-positive-except-task1-hedonic
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

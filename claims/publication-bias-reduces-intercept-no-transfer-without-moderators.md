@@ -3,7 +3,7 @@ type: claim
 title: Publication-bias assessments substantially reduce the intercept prediction, often indicating no positive transfer when the identified moderators are absent
 description: Publication-bias assessments substantially reduce the intercept prediction, often indicating no positive transfer when the identified moderators are absent
 id: publication-bias-reduces-intercept-no-transfer-without-moderators
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

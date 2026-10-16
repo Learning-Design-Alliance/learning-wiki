@@ -3,7 +3,7 @@ type: claim
 title: Retrieval practice enhances learning across domains and the lifespan in applied educational settings
 description: Retrieval practice enhances learning across domains and the lifespan in applied educational settings
 id: retrieval-practice-enhances-learning-applied-settings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
@@ -48,3 +48,4 @@ Narrative review synthesis. The review discusses "key research findings on two s
 - Retrieval practice strengthens memory and produces stronger, more enduring learning — related
 - [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) — a narrower finding that bears on this claim
 - [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — a narrower finding that bears on this claim
+- [Research findings show that various types of learning benefit from spaced study, with demonstrations of these benefits in educational settings](spacing-benefits-diverse-learning-educational-settings.md) — related

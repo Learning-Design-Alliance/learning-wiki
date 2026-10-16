@@ -3,7 +3,7 @@ type: claim
 title: "A prediction graphing activity revealed preschool children's classification thinking and misconceptions, which class discussion and pictures corrected"
 description: "A prediction graphing activity revealed preschool children's classification thinking and misconceptions, which class discussion and pictures corrected"
 id: prediction-graphing-reveals-classification-thinking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: Retrieval-augmented generation reduces but does not eliminate hallucinations in AI-assisted verification
 description: Retrieval-augmented generation reduces but does not eliminate hallucinations in AI-assisted verification
 id: rag-reduces-not-eliminates-hallucinations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

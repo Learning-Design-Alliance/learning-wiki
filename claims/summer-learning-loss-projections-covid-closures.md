@@ -3,7 +3,7 @@ type: claim
 title: Summer learning loss patterns are used to project the potential impact of COVID-19 school closures on student academic achievement
 description: Summer learning loss patterns are used to project the potential impact of COVID-19 school closures on student academic achievement
 id: summer-learning-loss-projections-covid-closures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

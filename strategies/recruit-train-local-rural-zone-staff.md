@@ -3,7 +3,7 @@ type: strategy
 id: recruit-train-local-rural-zone-staff
 title: "Build local capacity by recruiting and training staff from the schools' rural zones"
 description: "The pilot emphasizes local capacity-building by choosing to \"Recruit and train staff in the schools’ rural zones.\" This strategy pairs educator training in tech-informed pedagogy with hiring from the communities serve..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

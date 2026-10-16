@@ -3,7 +3,7 @@ type: claim
 title: "Scenario-based tutor lessons produced a significant pooled 7.4% learning gain, driven by three lessons with established construct validity while three newer lessons showed no significant gains"
 description: "Scenario-based tutor lessons produced a significant pooled 7.4% learning gain, driven by three lessons with established construct validity while three newer lessons showed no significant gains"
 id: scenario-lessons-pooled-74-percent-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -18,8 +18,8 @@ sources:
     kind: causal
     rigour: 1
   - id: thomas-2026-2
-    resource: "https://arxiv.org/abs/2606.18617"
-    title: "Thomas, D. R., Kamikazi, M. C. A., Brandt, C., Borchers, C., & Koedinger, K. R. (2026). AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice. https://arxiv.org/abs/2606.18617"
+    resource: "https://doi.org/10.48550/arxiv.2606.18617"
+    title: "Thomas, D. R., Kamikazi, M. C. A., Brandt, C., Borchers, C., & Koedinger, K. R. (2026). AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice. https://arxiv.org/abs/2606.18617. [doi:10.48550/arxiv.2606.18617](https://doi.org/10.48550/arxiv.2606.18617)"
     author: "Thomas, D. R., Kamikazi, M. C. A., Brandt, C., Borchers, C., & Koedinger, K. R."
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Scenario-based tutor lessons produced a significant pooled 7.4% learning gain, driven by three lessons with established construct validity while three newer lessons showed no significant gains
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Pooled across all lessons, tutors showed a statistically significant 7.4% pretest-to-posttest learning gain (F=27.50, p<.001). [→ Thomas 2026](#thomas-2026)
@@ -50,7 +50,7 @@ Univariate ANOVAs on pretest-posttest lesson scores across 433 pooled lesson com
 
 ### Thomas 2026 (2)
 
-Thomas, D. R., Kamikazi, M. C. A., Brandt, C., Borchers, C., & Koedinger, K. R. (2026). AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice. https://arxiv.org/abs/2606.18617
+Thomas, D. R., Kamikazi, M. C. A., Brandt, C., Borchers, C., & Koedinger, K. R. (2026). AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice. https://arxiv.org/abs/2606.18617. [doi:10.48550/arxiv.2606.18617](https://doi.org/10.48550/arxiv.2606.18617)
 
 `q3 · i?` · `causal · r1`
 

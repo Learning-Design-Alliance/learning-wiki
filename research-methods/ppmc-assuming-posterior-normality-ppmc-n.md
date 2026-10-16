@@ -3,7 +3,7 @@ type: research-method
 id: ppmc-assuming-posterior-normality-ppmc-n
 title: PPMC assuming posterior normality (PPMC-N)
 description: The article introduces PPMC-N, a posterior predictive model checking method for assessing local dependence in unidimensional item response theory models.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

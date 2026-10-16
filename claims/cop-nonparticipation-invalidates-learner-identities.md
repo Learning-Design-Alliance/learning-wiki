@@ -3,7 +3,7 @@ type: claim
 title: Within the CoP model, learners who do not progress toward the centre through nonparticipation are relegated to the fringes with invalidated identities
 description: Within the CoP model, learners who do not progress toward the centre through nonparticipation are relegated to the fringes with invalidated identities
 id: cop-nonparticipation-invalidates-learner-identities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -4,7 +4,7 @@ id: lessons-in-character
 title: Lessons in Character
 description: Lessons in Character is a 24-lesson character-education curriculum for elementary and middle school students, developed for classroom use through weekly themes, stories, writing activities, and projects.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

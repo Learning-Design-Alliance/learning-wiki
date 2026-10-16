@@ -54,19 +54,19 @@ Timed tests impose pressure that consumes working memory resources needed for re
 
 ### Instructions
 1. Define fluency criteria (accurate, flexible, efficient) and share them with learners so assessment targets are transparent.
-2. Replace the weekly timed test with a rotating cycle: individual interviews, strategy-focused [Number Talks](number-talks.md), and fluency games.
+2. Replace the weekly timed test with a rotating cycle: individual interviews, strategy-focused [Number Talks](math-talks-number-talks.md), and fluency games.
 3. During interviews, ask learners to explain their strategy before confirming the answer, using [Assess Performance](../elements/assess-performance.md) routines to record strategy level.
 4. Give feedback on strategy choice and efficiency, not just correctness [Feedback is most effective when directed at the task and process rather than the person.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
 5. Use results to plan targeted [Practice](../elements/practice.md) with spaced retrieval, rather than repeating whole-class timed drills [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ## Related Strategies
-- [Number Talks](number-talks.md) — a discussion routine that doubles as whole-class fluency assessment
+- [Number Talks](math-talks-number-talks.md) — a discussion routine that doubles as whole-class fluency assessment
 - [Formative Assessment](../patterns/formative-assessment.md) — the broader pattern these formats instantiate
 - [Spaced Retrieval Practice](spaced-retrieval-practice.md) — the practice mechanism that builds the fluency being assessed
 
 ## Examples
 - **"How Close to 100"** (youcubed, Stanford) — a dice-and-grid game in which learners repeatedly compute products in a purposeful context; the teacher observes fluency without any timed component. [https://www.youcubed.org](https://www.youcubed.org)
-- **Number Talks** (Parrish, 2010, *Number Talks: Helping Children Build Mental Math and Computation Strategies*) — daily mental-math discussions revealing the strategies every learner uses.
+- **[Number Talks](math-talks-number-talks.md)** (Parrish, 2010, *Number Talks: Helping Children Build Mental Math and Computation Strategies*) — daily mental-math discussions revealing the strategies every learner uses.
 - **Math Recovery / Add+Vantage MR** — one-on-one interview-based assessment instruments that profile a child's number strategies and inform targeted teaching. [https://www.mathrecovery.org](https://www.mathrecovery.org)
 - **DreamBox Learning** — continuous, embedded game-based assessment that infers fluency and strategy from gameplay rather than discrete tests. [https://www.dreambox.com](https://www.dreambox.com)
 

@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Graphic Organizers Support Novice Comprehension
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25
@@ -99,3 +99,4 @@ Several moderators are plausible from general reasoning about scope. Benefits sh
 - [Story Mapping Improves Comprehension](story-mapping-improves-comprehension.md) — related
 - [Learning is an initiative construction of meanings completed by the interaction of learners' old and new knowledge](learning-is-initiative-construction-old-new-knowledge.md) — a broader claim this one bears on
 - [Building the concept map supported teachers' reflection, helping them synthesize what students should learn and iterate on their plans](concept-catalyst-concept-map-supports-teacher-reflection.md) — related
+- [Basic DCT mechanisms can be used to model diverse educational phenomena](dct-mechanisms-model-educational-phenomena.md) — a broader claim this one bears on

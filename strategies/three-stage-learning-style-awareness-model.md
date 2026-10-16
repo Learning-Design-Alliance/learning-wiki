@@ -3,7 +3,7 @@ type: strategy
 id: three-stage-learning-style-awareness-model
 title: Use a three-stage model to help learners identify and apply their learning-style characteristics
 description: "The article describes a three-stage developmental model (Reynolds & Werner, 2003) in which learners 'first identify their learning-style characteristics; next to understand their current effective or ineffective learn..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

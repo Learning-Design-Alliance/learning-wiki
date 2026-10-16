@@ -3,7 +3,7 @@ type: claim
 title: Boys responded faster than girls on the test, but the response-time difference did not affect achievement
 description: Boys responded faster than girls on the test, but the response-time difference did not affect achievement
 id: boys-faster-than-girls-no-achievement-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

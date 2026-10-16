@@ -4,7 +4,7 @@ id: three-component-framework-for-high-quality-equitable-kindergarten-entry-asse
 title: "Three-component framework for high-quality, equitable kindergarten entry assessments: content, administration, and validity"
 description: A Yun et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

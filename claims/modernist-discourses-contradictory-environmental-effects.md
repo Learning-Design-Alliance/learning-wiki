@@ -3,7 +3,7 @@ type: claim
 title: Modernist discourses have produced contradictory environmental effects, raising awareness of problems while helping cultivate stories that construe the earth as an object of instrumental value
 description: Modernist discourses have produced contradictory environmental effects, raising awareness of problems while helping cultivate stories that construe the earth as an object of instrumental value
 id: modernist-discourses-contradictory-environmental-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

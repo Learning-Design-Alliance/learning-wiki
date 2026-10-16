@@ -4,7 +4,7 @@ id: ccsr-theory-of-action
 title: CCSR theory of action
 description: A Consortium on Chicago School Research (CCSR) framework describing how interactive research-practice partnerships build district capacity through an ongoing search for solutions.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: The FFL shows good internal consistency across its full scale and its four categories of leadership practices
 description: The FFL shows good internal consistency across its full scale and its four categories of leadership practices
 id: ffl-good-internal-consistency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Faculty concerns centered on academic integrity (80%) and student over-reliance on AI (70%), and their most requested development topic was AI ethics and academic integrity (70%)"
 description: "Faculty concerns centered on academic integrity (80%) and student over-reliance on AI (70%), and their most requested development topic was AI ethics and academic integrity (70%)"
 id: faculty-ai-concerns-integrity-ethics-training-demand
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -60,3 +60,5 @@ Pre-institute survey of ten participants (Tables 9 and 10) with multiple-respons
 - [GenAI support is distributed across four interlocking units: teaching and learning centers, libraries, IT/security units, and academic integrity offices](four-unit-genai-support-ecosystem.md) — related
 - [In first-year GenAI adoption in business higher education, curriculum-integrated modules reported enhanced student engagement, performance and employability, while fragmented approaches were more susceptible to ethical concerns, overreliance and inequality](genai-integration-depth-tradeoff-business-education.md) — related
 - [Faculty adoption of GenAI is widespread but instructional confidence remains low, so adoption prevalence should not be misread as instructional readiness](ai-adoption-exceeds-faculty-instructional-confidence.md) — related
+- [Among 245 Indonesian undergraduates, majorities reported potential reduction of critical thinking when depending on AI (75%), excessive reliance risk (73%), misinformation (70%), unintentional plagiarism (69%) and algorithmic bias (40%)](malik-student-perceptions-ai-writing-percentages.md) — related
+- [Students regard reduced critical thinking and originality as the biggest threat of ChatGPT use in academia](students-see-reduced-critical-thinking-as-biggest-chatgpt-threat.md) — related

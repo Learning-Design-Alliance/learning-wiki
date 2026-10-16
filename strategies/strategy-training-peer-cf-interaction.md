@@ -3,7 +3,7 @@ type: strategy
 id: strategy-training-peer-cf-interaction
 title: Strategy training to strengthen learner-provided corrective feedback during peer interaction
 description: The review highlights learner-provided corrective feedback and recommends strategy training as a way to strengthen the role of CF during peer interaction.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -4,7 +4,7 @@ id: critical-language-pedagogy-questionnaire
 title: Critical Language Pedagogy questionnaire
 description: A validated 17-item, four-factor Likert questionnaire developed by Mahmoodarabi et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

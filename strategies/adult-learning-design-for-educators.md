@@ -3,7 +3,7 @@ type: strategy
 id: adult-learning-design-for-educators
 title: "Design educator learning experiences using adult learning theory: connect to prior experience, ensure real-world application, and enable perspective transformation"
 description: The report argues that designing effective learning opportunities for educators requires understanding adult learning theory, since adults bring substantial prior knowledge and may hold fixed preconceptions affecting...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

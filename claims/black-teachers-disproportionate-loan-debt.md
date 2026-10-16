@@ -3,7 +3,7 @@ type: claim
 title: "Black teachers have the highest borrowing and repayment rates of all subgroups studied, with 31.4% still owing their entire balance — nearly 3 times the share of all teachers"
 description: "Black teachers have the highest borrowing and repayment rates of all subgroups studied, with 31.4% still owing their entire balance — nearly 3 times the share of all teachers"
 id: black-teachers-disproportionate-loan-debt
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

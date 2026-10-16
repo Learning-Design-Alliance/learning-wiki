@@ -3,7 +3,7 @@ type: claim
 title: "In RAMPUP field trials, English Learners' mathematical language became more monologic, authoritative, and technical within a single 40-minute jigsaw activity"
 description: "In RAMPUP field trials, English Learners' mathematical language became more monologic, authoritative, and technical within a single 40-minute jigsaw activity"
 id: el-language-monologic-authoritative-technical-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

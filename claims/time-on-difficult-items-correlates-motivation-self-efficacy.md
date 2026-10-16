@@ -3,7 +3,7 @@ type: claim
 title: "Time spent on very difficult math test items is highly correlated with students' academic motivation and self-efficacy"
 description: "Time spent on very difficult math test items is highly correlated with students' academic motivation and self-efficacy"
 id: time-on-difficult-items-correlates-motivation-self-efficacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

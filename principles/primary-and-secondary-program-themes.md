@@ -3,7 +3,7 @@ type: principle
 id: primary-and-secondary-program-themes
 title: "Design programs with two themes: a primary therapeutic theme and a secondary empowerment-model theme"
 description: "The paper recommends that all programs have at least two themes: a primary theme providing therapeutic relief for targeted conditions, arising from a needs analysis or participants' request, and a secondary theme of a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

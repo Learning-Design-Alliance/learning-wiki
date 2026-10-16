@@ -3,7 +3,7 @@ type: claim
 title: "The evidence base for estimating TFA's effects on student academic outcomes reduces to just four studies"
 description: "The evidence base for estimating TFA's effects on student academic outcomes reduces to just four studies"
 id: tfa-evidence-base-reduced-to-four-studies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

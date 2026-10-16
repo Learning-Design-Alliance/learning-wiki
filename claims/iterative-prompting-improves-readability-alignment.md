@@ -3,7 +3,7 @@ type: claim
 title: Iterative prompting to revise overly complex responses raised readability alignment, with most regenerated responses falling at or below target grade levels
 description: Iterative prompting to revise overly complex responses raised readability alignment, with most regenerated responses falling at or below target grade levels
 id: iterative-prompting-improves-readability-alignment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

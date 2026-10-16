@@ -3,7 +3,7 @@ type: claim
 title: Prior research found CREACT significantly improved creative performance on poem and story tasks but had a low effect on a paradox task
 description: Prior research found CREACT significantly improved creative performance on poem and story tasks but had a low effect on a paradox task
 id: creact-previous-language-arts-evidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

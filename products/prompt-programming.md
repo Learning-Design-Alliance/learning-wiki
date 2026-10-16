@@ -4,7 +4,7 @@ id: prompt-programming
 title: Prompt Programming
 description: Prompt Programming is a web-based dialogue tool described by Victor-Alexandru Pădurean et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

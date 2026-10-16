@@ -3,7 +3,7 @@ type: research-method
 id: pattern-based-knowledge-component-extraction-from-program-asts
 title: Pattern-based knowledge component extraction from program ASTs
 description: "The framework defines knowledge components as \"recurring, semantically meaningful structural patterns based on important subtrees from program Abstract Syntax Trees (ASTs)\"."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Vertical off-centring below the gantry isocentre is the most frequently reported CT positioning error among radiographers
 description: Vertical off-centring below the gantry isocentre is the most frequently reported CT positioning error among radiographers
 id: vertical-below-isocentre-most-reported-ct-centring-error
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

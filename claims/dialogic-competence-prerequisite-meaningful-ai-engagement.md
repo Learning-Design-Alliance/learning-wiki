@@ -3,7 +3,7 @@ type: claim
 title: Dialogic competence is a prerequisite for meaningful engagement with LLM-based chatbots
 description: Dialogic competence is a prerequisite for meaningful engagement with LLM-based chatbots
 id: dialogic-competence-prerequisite-meaningful-ai-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

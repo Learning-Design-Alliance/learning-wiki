@@ -3,7 +3,7 @@ type: strategy
 id: question-level-partitioning-strategy
 title: Partition at the question level or with grouped controls when evaluating transfer to unseen questions
 description: The article recommends how researchers should construct training and evaluation partitions for this dataset.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

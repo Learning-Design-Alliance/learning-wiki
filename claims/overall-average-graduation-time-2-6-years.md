@@ -3,7 +3,7 @@ type: claim
 title: The overall estimated average graduation time for PCC teacher education students was at least 2.6 years
 description: The overall estimated average graduation time for PCC teacher education students was at least 2.6 years
 id: overall-average-graduation-time-2-6-years
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

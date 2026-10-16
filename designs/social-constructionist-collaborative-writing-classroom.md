@@ -3,7 +3,7 @@ type: design
 id: social-constructionist-collaborative-writing-classroom
 title: Social-constructionist collaborative writing classroom
 description: "In the collaborative classroom the paper describes, \"the teacher is a facilitator, setting up an environment for students to work together on all stages of the writing process\", from getting ideas through several drafts."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

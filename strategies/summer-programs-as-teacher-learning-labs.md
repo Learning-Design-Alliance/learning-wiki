@@ -3,7 +3,7 @@ type: strategy
 id: summer-programs-as-teacher-learning-labs
 title: Use summer programs as learning labs for teachers to practice new instructional strategies
 description: "The brief suggests that \"summer programs can be learning labs for new practices,\" because teachers made use of instructional practices they had learned while delivering the programs."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

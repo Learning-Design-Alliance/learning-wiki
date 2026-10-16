@@ -4,7 +4,7 @@ id: wraft-writing-assessment-and-feedback-tool
 title: WrAFT (Writing Assessment and Feedback Tool)
 description: WrAFT is a deployable, modular LLM-powered automated writing evaluation and feedback system developed by Adnan Labib and colleagues for argumentative-essay writers.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

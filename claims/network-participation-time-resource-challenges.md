@@ -3,7 +3,7 @@ type: claim
 title: Network participation faced challenges of teacher time, resources, and fragmentation, with about 40 percent of principals reporting few useful resources
 description: Network participation faced challenges of teacher time, resources, and fragmentation, with about 40 percent of principals reporting few useful resources
 id: network-participation-time-resource-challenges
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

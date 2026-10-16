@@ -3,7 +3,7 @@ type: claim
 title: "Teaching a ChatGPT agent does not significantly change students' test anxiety"
 description: "Teaching a ChatGPT agent does not significantly change students' test anxiety"
 id: chatgpt-teaching-test-anxiety-no-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

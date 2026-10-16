@@ -3,7 +3,7 @@ type: claim
 title: Peer-feedback revisions shift toward a more contractive dialogic stance while AI-generated revisions keep a relatively balanced Contract–Expand distribution
 description: Peer-feedback revisions shift toward a more contractive dialogic stance while AI-generated revisions keep a relatively balanced Contract–Expand distribution
 id: peer-revisions-contractive-ai-balanced
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

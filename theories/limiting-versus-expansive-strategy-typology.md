@@ -2,7 +2,7 @@
 type: theory
 title: Typology of limiting versus expansive problem-solving strategies in student reflections
 description: "The article develops a coding typology distinguishing four \"limiting\" strategies, which \"may work well for well-structured, end-of-chapter exercises, but they begin to fail as the problems become more complex\" (Rolode..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

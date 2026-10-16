@@ -3,7 +3,7 @@ type: claim
 title: Early College high school students are significantly more likely than comparison students to graduate from high school, enroll in college, and complete college
 description: Early College high school students are significantly more likely than comparison students to graduate from high school, enroll in college, and complete college
 id: early-college-attainment-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

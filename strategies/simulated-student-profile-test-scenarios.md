@@ -3,7 +3,7 @@ type: strategy
 id: simulated-student-profile-test-scenarios
 title: Use simulated student profiles (expected path, struggling learner, off-topic input) as test scenarios for AI tutor QA
 description: "PromptDecipher directs teachers to a test environment consisting of \"a simulated student chat\" in which they \"select a student profile (e.g., 'expected path,' 'struggling learner,' 'off-topic input'), read the bot's r..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

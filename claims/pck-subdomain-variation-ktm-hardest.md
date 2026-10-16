@@ -3,7 +3,7 @@ type: claim
 title: "All automated models, including GradeOpt, were most challenged by knowledge of teaching mathematics items (GradeOpt κ = .59) and least challenged by knowledge of students' mathematical thinking (κ = .79)"
 description: "All automated models, including GradeOpt, were most challenged by knowledge of teaching mathematics items (GradeOpt κ = .59) and least challenged by knowledge of students' mathematical thinking (κ = .79)"
 id: pck-subdomain-variation-ktm-hardest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

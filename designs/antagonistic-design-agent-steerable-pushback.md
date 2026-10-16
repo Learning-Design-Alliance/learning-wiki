@@ -3,7 +3,7 @@ type: design
 id: antagonistic-design-agent-steerable-pushback
 title: Antagonistic AI design agent with steerable stakeholder pushback in Miro
 description: An LLM-powered agent built in Miro (Next.js, Miro SDK, GPT-4.1, Whisper, GPT-4o) that enacts constructive conflict for interaction design students.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

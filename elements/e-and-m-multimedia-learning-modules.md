@@ -3,7 +3,7 @@ type: element
 id: e-and-m-multimedia-learning-modules
 title: Web-based multimedia learning modules for introductory electricity and magnetism
 description: "Four pilot multimedia learning modules (MLMs) were developed covering Coulomb's Law, Electric Fields, Electric Flux, and Gauss' Law, each covering one lecture's worth of content in approximately 10 scenes."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
@@ -52,4 +52,4 @@ Four pilot multimedia learning modules (MLMs) were developed covering Coulomb's 
 -
 
 ## Key Sources
-- Stelzer, Gladding, Mestre, and Brookes. (2008). Comparing the efficacy of multimedia modules with traditional textbooks for learning introductory physics content. https://arxiv.org/abs/0806.0405
+- Stelzer, Gladding, Mestre, and Brookes. (2008). Comparing the efficacy of multimedia modules with traditional textbooks for learning introductory physics content. https://arxiv.org/abs/0806.0405. [doi:10.48550/arxiv.0806.0405](https://doi.org/10.48550/arxiv.0806.0405)

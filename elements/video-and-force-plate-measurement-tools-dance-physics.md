@@ -3,7 +3,7 @@ type: element
 id: video-and-force-plate-measurement-tools-dance-physics
 title: Digital video and Vernier force plates as low-setup measurement tools for dance motion
 description: "The course uses two measurement tools: digital video cameras, from which position vs."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

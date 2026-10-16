@@ -4,7 +4,7 @@ id: growelab
 title: GroweLab
 description: "GroweLab is engage2learn's all-in-one coaching and talent-development platform for facilitating and documenting educator coaching and tracking professional-growth data and outcomes."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

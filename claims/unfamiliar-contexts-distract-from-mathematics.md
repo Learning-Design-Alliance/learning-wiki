@@ -3,7 +3,7 @@ type: claim
 title: Unfamiliar problem contexts and vocabulary distract students from the mathematics and reasoning a problem requires
 description: Unfamiliar problem contexts and vocabulary distract students from the mathematics and reasoning a problem requires
 id: unfamiliar-contexts-distract-from-mathematics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

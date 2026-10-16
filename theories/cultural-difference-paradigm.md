@@ -2,7 +2,7 @@
 type: theory
 title: "Cultural Difference paradigm: underachievement explained by mismatch between school and students' cultures"
 description: "The review traces this paradigm to Cole and Bruner (1971) building on Labov's finding that what was treated as deficit should be considered difference."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

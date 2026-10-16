@@ -3,7 +3,7 @@ type: claim
 title: In the Vaughn, Cirino, et al. (2006) trial, no reading measure reached statistical significance, but five of seven effect sizes were substantively important
 description: In the Vaughn, Cirino, et al.
 id: enhanced-proactive-reading-cirino-substantively-important-nonsignificant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Online charter students in New Mexico gain significantly less than brick-and-mortar charter students, offsetting brick-and-mortar reading gains in the aggregate
 description: Online charter students in New Mexico gain significantly less than brick-and-mortar charter students, offsetting brick-and-mortar reading gains in the aggregate
 id: nm-online-behind-brick-and-mortar
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

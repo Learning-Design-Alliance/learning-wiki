@@ -3,7 +3,7 @@ type: claim
 title: Content familiarity, not teaching experience, predicted reform-based science teaching practice
 description: Content familiarity, not teaching experience, predicted reform-based science teaching practice
 id: content-familiarity-predicts-reform-practice-experience-does-not
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

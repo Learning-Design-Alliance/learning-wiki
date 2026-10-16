@@ -3,7 +3,7 @@ type: claim
 title: "Intensive three-year professional development changed Leader Teachers' practice dramatically, but peer diffusion of reform was uneven"
 description: "Intensive three-year professional development changed Leader Teachers' practice dramatically, but peer diffusion of reform was uneven"
 id: leader-teacher-diffusion-uneven
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

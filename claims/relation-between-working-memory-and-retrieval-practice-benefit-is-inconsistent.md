@@ -3,7 +3,7 @@ type: claim
 title: Studies disagree on whether low or high working memory learners benefit more from retrieval practice, and several find no relationship
 description: Studies disagree on whether low or high working memory learners benefit more from retrieval practice, and several find no relationship
 id: relation-between-working-memory-and-retrieval-practice-benefit-is-inconsistent
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

@@ -3,7 +3,7 @@ type: claim
 title: Among small districts in multidistrict SELPAs, membership in a SELPA without a large district was associated with higher preK inclusion but lower K–12 inclusion
 description: Among small districts in multidistrict SELPAs, membership in a SELPA without a large district was associated with higher preK inclusion but lower K–12 inclusion
 id: small-districts-mixed-inclusion-by-selpa-composition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

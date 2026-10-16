@@ -3,7 +3,7 @@ type: claim
 title: "Learning pitched at the edge of students' current abilities — the ZPD — is more effective than learning that is too easy or too frustrating"
 description: "Learning pitched at the edge of students' current abilities — the ZPD — is more effective than learning that is too easy or too frustrating"
 id: zpd-edge-learning-english-learners
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

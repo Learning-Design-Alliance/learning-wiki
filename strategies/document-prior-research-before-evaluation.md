@@ -3,7 +3,7 @@ type: strategy
 id: document-prior-research-before-evaluation
 title: Document prior research on a solution, starting from community-needs assessment efforts, before planning future evaluations
 description: The article recommends that organizations systematically document previous research on their solution to inform future evaluations.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -2,7 +2,7 @@
 type: claim
 title: Organization-simulation knowledge practices support interdisciplinary learning
 id: organization-simulation-knowledge-practices-support-interdisciplinary-learning
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

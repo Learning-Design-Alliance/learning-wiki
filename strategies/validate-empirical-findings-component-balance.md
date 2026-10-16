@@ -3,7 +3,7 @@ type: strategy
 id: validate-empirical-findings-component-balance
 title: Validate the empirical-findings component and balance alignment against generalizability when injecting prior study results into agent prompts
 description: "The article cautions that over-reliance on retrieved empirical findings may behave like overfitting: because student development \"does not always conform to patterns reported in previous studies,\" empirical references..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

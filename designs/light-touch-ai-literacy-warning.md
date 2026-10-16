@@ -3,7 +3,7 @@ type: design
 id: light-touch-ai-literacy-warning
 title: Light-touch AI literacy warning about LLM persuasion and selective information
 description: "A brief pre-conversation warning telling users that LLMs \"can be 'prompted' to persuade or manipulate\" and \"may present information in a biased or selective way, emphasizing one side of an issue.\" The general version..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

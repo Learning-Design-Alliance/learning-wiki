@@ -3,7 +3,7 @@ type: claim
 title: Participation rates for state assessments are generally very high and exceed RCT minimum participation requirements
 description: Participation rates for state assessments are generally very high and exceed RCT minimum participation requirements
 id: state-test-participation-rates-high
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

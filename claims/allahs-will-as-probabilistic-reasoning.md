@@ -3,7 +3,7 @@ type: claim
 title: "Attributing outcomes to Allah's will among some PSMTs functioned as probabilistic reasoning, not mere personalist belief"
 description: "Attributing outcomes to Allah's will among some PSMTs functioned as probabilistic reasoning, not mere personalist belief"
 id: allahs-will-as-probabilistic-reasoning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

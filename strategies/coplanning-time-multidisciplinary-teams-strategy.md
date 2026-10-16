@@ -3,7 +3,7 @@ type: strategy
 id: coplanning-time-multidisciplinary-teams-strategy
 title: Fund scheduled coplanning time and multidisciplinary team composition for pre-referral, assessment, and referral decisions
 description: "The report recommends that practitioners receive \"scheduled and consistent coplanning time to effectively collaborate on behalf of multilingual learners with suspected disabilities,\" with multidisciplinary teams inclu..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

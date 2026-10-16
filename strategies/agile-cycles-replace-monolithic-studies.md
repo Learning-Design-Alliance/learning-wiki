@@ -3,7 +3,7 @@ type: strategy
 id: agile-cycles-replace-monolithic-studies
 title: Replace monolithic comprehensive studies with smaller, agile research cycles that test one conjecture at a time
 description: This strategy directs researchers to break a single large empirical study into a sequence of smaller, rapid cycles, each testing a smaller conjecture.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

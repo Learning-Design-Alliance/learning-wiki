@@ -3,7 +3,7 @@ type: claim
 title: "The Kauffman School's achievement impacts are higher than the average impacts found in studies of other charter schools"
 description: "The Kauffman School's achievement impacts are higher than the average impacts found in studies of other charter schools"
 id: kauffman-impacts-exceed-average-charter-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

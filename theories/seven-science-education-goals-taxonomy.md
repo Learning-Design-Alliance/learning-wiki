@@ -2,7 +2,7 @@
 type: theory
 title: Seven goals for secondary science education with spatial consequences
 description: "The paper organizes science education goals into seven reference words: power, social impact, product, process, enquiry, world view, and individual responsibility for learning."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

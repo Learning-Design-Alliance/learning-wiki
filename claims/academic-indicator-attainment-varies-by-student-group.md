@@ -3,7 +3,7 @@ type: claim
 title: Substantial differences in attaining academic indicators of postsecondary readiness occurred for most student groups, with the largest number between Black and White students, NSLP-eligible and ineligible students, and students entering grade 6 after age 13
 description: Substantial differences in attaining academic indicators of postsecondary readiness occurred for most student groups, with the largest number between Black and White students, NSLP-eligible and ineligible students, an...
 id: academic-indicator-attainment-varies-by-student-group
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

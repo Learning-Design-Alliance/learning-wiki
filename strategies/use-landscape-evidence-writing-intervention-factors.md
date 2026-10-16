@@ -3,7 +3,7 @@ type: strategy
 id: use-landscape-evidence-writing-intervention-factors
 title: Use landscape evidence to understand what factors enhance or hinder writing interventions
 description: "The brief positions itself as a resource for decision-makers: its goal is \"to help school district leaders, teachers, and researchers understand what factors enhance or hinder writing interventions.\" District leaders,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

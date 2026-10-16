@@ -3,7 +3,7 @@ type: claim
 title: In a randomised study with 40 CPR-naive lay adults in Tibet, 10 minutes of TibetCPR training produced rhythm-stabilisation gains that substantially exceeded unguided practice and transferred to an unscaffolded post-test
 description: In a randomised study with 40 CPR-naive lay adults in Tibet, 10 minutes of TibetCPR training produced rhythm-stabilisation gains that substantially exceeded unguided practice and transferred to an unscaffolded post-test
 id: tibetcpr-rhythm-stabilisation-exceeds-unguided-practice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: national-design-report-before-scale-evaluation
 title: Commission a dedicated national design report before evaluating supplemental literacy programs at scale
 description: The article exemplifies a strategy of producing an explicit design report prior to conducting a large-scale program evaluation.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

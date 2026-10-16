@@ -3,7 +3,7 @@ type: claim
 title: Collected exam questions required no cognitive processes above apply and no originality in analysis or high-level interdependence
 description: Collected exam questions required no cognitive processes above apply and no originality in analysis or high-level interdependence
 id: exam-questions-capped-at-apply-and-standardized-analysis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

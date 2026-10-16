@@ -3,7 +3,7 @@ type: claim
 title: "Among students, longer AI-use experience is monotonically associated with higher perceived usefulness (Spearman's r = 0.327), though self-selection may explain part of the pattern"
 description: "Among students, longer AI-use experience is monotonically associated with higher perceived usefulness (Spearman's r = 0.327), though self-selection may explain part of the pattern"
 id: experience-usefulness-association-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

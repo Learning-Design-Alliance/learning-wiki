@@ -3,7 +3,7 @@ type: claim
 title: "State revisits within solving sessions were rarer in the Pulla deployments (6–12% of UH sessions, 0–3% at Aalto) than the 21–33% previously reported for similar Parsons tasks"
 description: "State revisits within solving sessions were rarer in the Pulla deployments (6–12% of UH sessions, 0–3% at Aalto) than the 21–33% previously reported for similar Parsons tasks"
 id: state-revisits-rare-in-pulla-deployments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

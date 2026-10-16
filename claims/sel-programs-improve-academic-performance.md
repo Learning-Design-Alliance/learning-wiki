@@ -4,7 +4,7 @@ title: "SEL programs improve students' engagement and academic performance, with
 description: "SEL programs improve students' engagement and academic performance, with an 11-percentile-point achievement gain in the Durlak meta-analysis"
 id: sel-programs-improve-academic-performance
 aliases: [sel-programs-11-percentile-academic-gain]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

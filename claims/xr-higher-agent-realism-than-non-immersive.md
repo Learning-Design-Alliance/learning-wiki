@@ -3,7 +3,7 @@ type: claim
 title: Immersive media environments enable higher visual and behavioral realism of pedagogical agents than non-immersive formats
 description: Immersive media environments enable higher visual and behavioral realism of pedagogical agents than non-immersive formats
 id: xr-higher-agent-realism-than-non-immersive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

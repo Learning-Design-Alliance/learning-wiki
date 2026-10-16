@@ -3,7 +3,7 @@ type: claim
 title: CIRC showed a statistically significant positive effect on CAT Language Expression but not CAT Language Mechanics in Stevens and Slavin (1995), and no significant effect on the Bass Academic Skills Sample Reading Proficiency subtest in Jewell (1994)
 description: CIRC showed a statistically significant positive effect on CAT Language Expression but not CAT Language Mechanics in Stevens and Slavin (1995), and no significant effect on the Bass Academic Skills Sample Reading Prof...
 id: circ-general-literacy-findings-mixed-across-subtests
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

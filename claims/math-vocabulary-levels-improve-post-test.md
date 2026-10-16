@@ -3,7 +3,7 @@ type: claim
 title: "Students' mathematical vocabulary use shifted from lower to higher rubric levels after the intervention"
 description: "Students' mathematical vocabulary use shifted from lower to higher rubric levels after the intervention"
 id: math-vocabulary-levels-improve-post-test
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

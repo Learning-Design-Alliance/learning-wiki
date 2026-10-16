@@ -3,7 +3,7 @@ type: claim
 title: High stakes should never be attached to observational measures used in formative evaluation of early childhood programs.
 description: High stakes should never be attached to observational measures used in formative evaluation of early childhood programs.
 id: no-high-stakes-on-observational-measures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

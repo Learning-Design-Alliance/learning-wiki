@@ -4,7 +4,7 @@ id: four-element-framework-for-restorative-practices-implementation
 title: Four-element framework for restorative practices implementation
 description: This is a guide developed by its authors or issuing organization to help schools and other organizations implement restorative practices.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

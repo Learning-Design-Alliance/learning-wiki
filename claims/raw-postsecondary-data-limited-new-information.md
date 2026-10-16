@@ -3,7 +3,7 @@ type: claim
 title: Raw postsecondary data are useful for descriptive purposes but may not give educators substantial new information beyond high school indicators
 description: Raw postsecondary data are useful for descriptive purposes but may not give educators substantial new information beyond high school indicators
 id: raw-postsecondary-data-limited-new-information
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

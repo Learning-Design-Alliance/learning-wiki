@@ -3,7 +3,7 @@ type: claim
 title: Strong school academic culture (academic press and college-going culture) raises ACT scores by about 0.6 points after controlling for prior PLAN scores
 description: Strong school academic culture (academic press and college-going culture) raises ACT scores by about 0.6 points after controlling for prior PLAN scores
 id: academic-culture-raises-act-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

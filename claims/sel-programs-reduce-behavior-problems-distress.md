@@ -3,7 +3,7 @@ type: claim
 title: SEL programs reduce disruptive behavior problems and emotional distress and foster prosocial behavior
 description: SEL programs reduce disruptive behavior problems and emotional distress and foster prosocial behavior
 id: sel-programs-reduce-behavior-problems-distress
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: element
 id: trim-and-fill-publication-bias-procedure
 title: Trim-and-fill publication-bias analysis procedure applied to learning-effectiveness meta-analysis
 description: "The article applies the trim and fill method (Duval & Tweedie) as its publication-bias analysis procedure within a five-step meta-analysis pipeline: effect size calculation, heterogeneity testing, summary effect calcu..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

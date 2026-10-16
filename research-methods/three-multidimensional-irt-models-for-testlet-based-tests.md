@@ -3,7 +3,7 @@ type: research-method
 id: three-multidimensional-irt-models-for-testlet-based-tests
 title: Three multidimensional IRT models for testlet-based tests
 description: The report describes three multidimensional IRT models that account for conditional dependence among items sharing a testlet stimulus by incorporating testlet-specific dimensions.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
@@ -34,7 +34,7 @@ The report describes three multidimensional IRT models that account for conditio
 -
 
 ## Key Sources
-- Rijmen, F. (2009). Three Multidimensional Models for Testlet-Based Tests: Formal Relations and an Empirical Comparison. ETS Research Report RR-09-37. http://www.ets.org/research/contact.html
+- Rijmen, F. (2009). Three Multidimensional Models for Testlet-Based Tests: Formal Relations and an Empirical Comparison. ETS Research Report RR-09-37. http://www.ets.org/research/contact.html. [doi:10.1002/j.2333-8504.2009.tb02194.x](https://doi.org/10.1002/j.2333-8504.2009.tb02194.x)
 
 <!-- merged 2026-10-10 from theories/multidimensional-irt-models-testlet-based-tests ("Three multidimensional IRT models for testlet-based tests: bifactor, testlet, and second-order models"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -72,5 +72,5 @@ The report describes three multidimensional IRT models that account for conditio
 -
 
 ## Key Sources
-- Rijmen, F. (2009). Three Multidimensional Models for Testlet-Based Tests: Formal Relations and an Empirical Comparison. ETS Research Report RR-09-37. http://www.ets.org/research/contact.html
+- Rijmen, F. (2009). Three Multidimensional Models for Testlet-Based Tests: Formal Relations and an Empirical Comparison. ETS Research Report RR-09-37. http://www.ets.org/research/contact.html. [doi:10.1002/j.2333-8504.2009.tb02194.x](https://doi.org/10.1002/j.2333-8504.2009.tb02194.x)
 -->

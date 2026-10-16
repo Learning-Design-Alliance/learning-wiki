@@ -3,7 +3,7 @@ type: claim
 title: Staff agreement that schools provide adequate counseling and support services rose from 59 percent in 2021 to 70 percent in 2023
 description: Staff agreement that schools provide adequate counseling and support services rose from 59 percent in 2021 to 70 percent in 2023
 id: cal-well-staff-adequate-services-59-to-70-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

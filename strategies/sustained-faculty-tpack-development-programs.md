@@ -3,7 +3,7 @@ type: strategy
 id: sustained-faculty-tpack-development-programs
 title: Prioritize sustained, pedagogically grounded faculty TPACK development over one-off technology workshops and infrastructure investment
 description: Based on the identified importance-performance gap in faculty competence, the article recommends that institutions invest in sustained, pedagogically grounded TPACK development programs for instructors rather than one...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

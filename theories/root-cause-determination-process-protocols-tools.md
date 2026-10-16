@@ -2,7 +2,7 @@
 type: theory
 title: A recommended process with detailed protocols and tools for defining problems and determining their root causes in schools
 description: The paper proposes a process, protocols and tools for school teams to define problems to be investigated and determine their root causes, drawing on facilitation experience in schools and industrial settings plus rese...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

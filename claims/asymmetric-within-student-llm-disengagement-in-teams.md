@@ -3,7 +3,7 @@ type: claim
 title: "Within-student transitions are asymmetric: 18.9% of consistent individual users stop using LLMs in teams while only 3.2% start, with framing shifts concentrated in movement to non-use"
 description: "Within-student transitions are asymmetric: 18.9% of consistent individual users stop using LLMs in teams while only 3.2% start, with framing shifts concentrated in movement to non-use"
 id: asymmetric-within-student-llm-disengagement-in-teams
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

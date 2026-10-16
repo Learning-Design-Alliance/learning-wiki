@@ -3,7 +3,7 @@ type: claim
 title: Prolonged reading failure leads students to attribute failure to fixed low ability and define reading as a failure situation
 description: Prolonged reading failure leads students to attribute failure to fixed low ability and define reading as a failure situation
 id: reading-failure-fixed-ability-attribution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

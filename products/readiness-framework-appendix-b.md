@@ -4,7 +4,7 @@ id: readiness-framework-appendix-b
 title: Readiness Framework (Appendix B)
 description: A district-readiness framework developed by Zohal Shah et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

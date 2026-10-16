@@ -3,7 +3,7 @@ type: claim
 title: Changes in the credentialing market have produced demand for shorter credentials focused around job market competencies
 description: Changes in the credentialing market have produced demand for shorter credentials focused around job market competencies
 id: credentialing-market-demand-shorter-competency-credentials
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

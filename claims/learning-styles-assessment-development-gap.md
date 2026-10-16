@@ -3,7 +3,7 @@ type: claim
 title: The literature contains a gap regarding the development of assessments based on learning styles
 description: The literature contains a gap regarding the development of assessments based on learning styles
 id: learning-styles-assessment-development-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

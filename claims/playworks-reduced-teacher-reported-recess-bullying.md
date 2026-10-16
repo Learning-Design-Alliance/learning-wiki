@@ -3,7 +3,7 @@ type: claim
 title: Teachers in Playworks schools reported less bullying and exclusionary behavior during recess than control-school teachers
 description: Teachers in Playworks schools reported less bullying and exclusionary behavior during recess than control-school teachers
 id: playworks-reduced-teacher-reported-recess-bullying
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

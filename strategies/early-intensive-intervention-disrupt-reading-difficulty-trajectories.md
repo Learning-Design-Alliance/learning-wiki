@@ -3,7 +3,7 @@ type: strategy
 id: early-intensive-intervention-disrupt-reading-difficulty-trajectories
 title: Provide early, effective, targeted intensive intervention to disrupt persistent trajectories of reading difficulty
 description: The brief recommends that schools and the state prioritize efficiently screening students and providing comprehensive instruction and supports, because students identified as significantly below benchmark often remain...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

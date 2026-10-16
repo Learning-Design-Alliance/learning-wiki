@@ -3,7 +3,7 @@ type: claim
 title: Calibrated epistemic vigilance, given adequate prior knowledge, is the binding constraint on productive augmentation with AI
 description: Calibrated epistemic vigilance, given adequate prior knowledge, is the binding constraint on productive augmentation with AI
 id: calibrated-vigilance-binding-constraint-augmentation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

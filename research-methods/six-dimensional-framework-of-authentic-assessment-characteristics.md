@@ -3,7 +3,7 @@ type: research-method
 id: six-dimensional-framework-of-authentic-assessment-characteristics
 title: Six-dimensional framework of authentic assessment characteristics
 description: The review proposes a six-dimensional framework for authentic assessment (AA) characteristics consisting of authenticity in assessment, cognitive challenges, assessment criteria, feedback, student agency and social collaboration.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

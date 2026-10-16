@@ -3,7 +3,7 @@ type: strategy
 id: family-engagement-reflection-exercise-educators
 title: Structured reflection exercise for educators to situate their family engagement practice within the three engagement approaches
 description: "The brief concludes with a reflection exercise helping teachers and school leaders situate their family engagement practices within the three documented engagement approaches, \"each of which reflect distinct purposes,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

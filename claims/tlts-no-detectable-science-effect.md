@@ -3,7 +3,7 @@ type: claim
 title: TLTS showed no detectable effect on science achievement after two years
 description: TLTS showed no detectable effect on science achievement after two years
 id: tlts-no-detectable-science-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

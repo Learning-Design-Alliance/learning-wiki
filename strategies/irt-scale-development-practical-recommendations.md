@@ -3,7 +3,7 @@ type: strategy
 id: irt-scale-development-practical-recommendations
 title: Seven practical recommendations for IRT-based scale development
 description: "The article closes with seven recommendations for scholars embarking on IRT-based scale development: ensure a sufficient sample size, test unidimensionality with multiple methods, check local independence with Yen's Q..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Grade inflation has not significantly attenuated the signaling power of grades, with some evidence of an increase (Pattison, Grodsky, and Muller, attributed)
 description: Grade inflation has not significantly attenuated the signaling power of grades, with some evidence of an increase (Pattison, Grodsky, and Muller, attributed)
 id: grade-inflation-no-attenuation-signaling-power
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

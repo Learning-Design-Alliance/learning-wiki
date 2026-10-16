@@ -3,7 +3,7 @@ type: claim
 title: Students in ePortfolio-based Personal Development Plan sections had significantly higher first-year GPAs and retention than non-ePDP peers, but gains were not sustained without intensive professional development
 description: Students in ePortfolio-based Personal Development Plan sections had significantly higher first-year GPAs and retention than non-ePDP peers, but gains were not sustained without intensive professional development
 id: epdp-pilot-gpa-retention-gains-not-sustained
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

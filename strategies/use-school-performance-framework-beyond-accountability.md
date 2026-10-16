@@ -3,7 +3,7 @@ type: strategy
 id: use-school-performance-framework-beyond-accountability
 title: Use the three-question framework beyond federal accountability to inform school and student needs
 description: "The article recommends that education officials use the framework's information \"in a variety of contexts—beyond federal accountability—to better identify and understand student and school needs and make more informed..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

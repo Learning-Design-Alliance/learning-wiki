@@ -3,7 +3,7 @@ type: claim
 title: "Asking questions is a valued scientific practice: all 23 experts agreed it is a key aspect of scientific research"
 description: "Asking questions is a valued scientific practice: all 23 experts agreed it is a key aspect of scientific research"
 id: asking-questions-key-scientific-practice-expert-consensus
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

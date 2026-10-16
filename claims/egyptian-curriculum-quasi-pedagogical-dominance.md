@@ -3,7 +3,7 @@ type: claim
 title: The Egyptian school probability curriculum is dominated by quasi-pedagogical randomising-device tasks
 description: The Egyptian school probability curriculum is dominated by quasi-pedagogical randomising-device tasks
 id: egyptian-curriculum-quasi-pedagogical-dominance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

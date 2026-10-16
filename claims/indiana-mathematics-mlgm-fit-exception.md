@@ -3,7 +3,7 @@ type: claim
 title: MLGM model fit failed for the Indiana mathematics test, the sole exception to invariance support
 description: MLGM model fit failed for the Indiana mathematics test, the sole exception to invariance support
 id: indiana-mathematics-mlgm-fit-exception
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

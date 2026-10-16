@@ -3,7 +3,7 @@ type: claim
 title: "Reading Apprenticeship® showed no statistically significant effects on most GRADE outcomes: Cohort 1 comprehension and vocabulary, and Cohort 2 vocabulary"
 description: "Reading Apprenticeship® showed no statistically significant effects on most GRADE outcomes: Cohort 1 comprehension and vocabulary, and Cohort 2 vocabulary"
 id: reading-apprenticeship-null-grade-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
@@ -45,3 +45,4 @@ Null findings from the randomized controlled trial's first cohort (686 intervent
 ## Related Claims
 - [Reading Apprenticeship® showed a statistically significant positive effect on the GRADE reading comprehension subtest for Cohort 2 ninth-grade students](reading-apprenticeship-cohort2-comprehension-significant.md) — related
 - [Reading Apprenticeship® shows no effect on vocabulary (effect size 0.00)](reading-apprenticeship-no-vocabulary-effect.md) — related
+- [The online vocabulary intervention did not significantly improve reading comprehension](online-vocabulary-intervention-no-comprehension-effect.md) — related

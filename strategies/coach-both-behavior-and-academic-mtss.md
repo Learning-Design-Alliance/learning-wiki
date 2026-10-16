@@ -3,7 +3,7 @@ type: strategy
 id: coach-both-behavior-and-academic-mtss
 title: Coach schools on both behavior and academic MTSS practices rather than behavior alone
 description: "The report's discussion recommends a combined coaching focus: the WestEd model \"does not focus exclusively on SWPBIS; instead, it focuses on coaching schools on both behavior and academic MTSS practices.\" The authors..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

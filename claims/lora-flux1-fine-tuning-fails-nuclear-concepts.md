@@ -3,7 +3,7 @@ type: claim
 title: LoRA fine-tuning of Flux.1 failed to learn nuclear concepts, producing wrong-concept images on all 300 test prompts
 description: LoRA fine-tuning of Flux.1 failed to learn nuclear concepts, producing wrong-concept images on all 300 test prompts
 id: lora-flux1-fine-tuning-fails-nuclear-concepts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

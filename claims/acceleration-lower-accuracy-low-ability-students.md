@@ -3,7 +3,7 @@ type: claim
 title: Response-time reductions lead to lower accuracy relative to expectation for lower ability students
 description: Response-time reductions lead to lower accuracy relative to expectation for lower ability students
 id: acceleration-lower-accuracy-low-ability-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Participants rated the arithmetic-error peer agent more harshly than the conceptual-error peer agent, calibrating trust by error observability rather than severity
 description: Participants rated the arithmetic-error peer agent more harshly than the conceptual-error peer agent, calibrating trust by error observability rather than severity
 id: arithmetic-errors-rated-harsher-than-conceptual-errors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

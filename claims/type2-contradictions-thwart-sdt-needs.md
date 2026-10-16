@@ -3,7 +3,7 @@ type: claim
 title: CHAT analysis identified three Type 2 secondary contradictions whose operation through psychological need frustration explained motivational decline despite growing competence
 description: CHAT analysis identified three Type 2 secondary contradictions whose operation through psychological need frustration explained motivational decline despite growing competence
 id: type2-contradictions-thwart-sdt-needs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

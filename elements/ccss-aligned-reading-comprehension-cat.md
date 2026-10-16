@@ -3,7 +3,7 @@ type: element
 id: ccss-aligned-reading-comprehension-cat
 title: Reading comprehension test with passages aligned to Common Core State Standards administered under computerized adaptive test designs
 description: The article describes a reading comprehension test whose passages are aligned to the Common Core State Standards and which is administered under computerized adaptive test (CAT) designs.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -45,7 +45,6 @@ The article describes a reading comprehension test whose passages are aligned to
 ## Related Elements
 
 - [MAP Reading and Mathematics computerized adaptive tests (NWEA)](../products/map-growth.md)
-- [NWEA MAP Growth assessment and longitudinal achievement database](../products/nwea-map-growth.md)
 - [Computerized adaptive testing (CAT) as an assessment component](computerized-adaptive-testing-cat-element.md)
 
 ## Examples

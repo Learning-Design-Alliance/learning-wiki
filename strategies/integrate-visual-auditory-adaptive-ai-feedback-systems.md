@@ -3,7 +3,7 @@ type: strategy
 id: integrate-visual-auditory-adaptive-ai-feedback-systems
 title: "Develop and adopt AI feedback systems that integrate visual and auditory feedback and automatically adapt students' practice plans"
 description: "Based on the findings, the article recommends that future systems go beyond text-based analysis: \"Gelecek çalışmalarda, görsel ve işitsel geri bildirim unsurlarını entegre eden ve öğrencinin çalışma planını otomatik o..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

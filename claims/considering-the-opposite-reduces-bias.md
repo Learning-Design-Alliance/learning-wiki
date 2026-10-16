@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "A systematic review of bias-mitigation training names considering the opposite as a previously validated way to reduce judgment biases, without testing it itself"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

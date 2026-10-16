@@ -3,7 +3,7 @@ type: claim
 title: Equitable-access and digital-inclusion themes are minimally represented in HI/HIM AI policies
 description: Equitable-access and digital-inclusion themes are minimally represented in HI/HIM AI policies
 id: equitable-access-themes-limited-ai-policies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

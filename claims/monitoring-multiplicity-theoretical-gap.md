@@ -3,7 +3,7 @@ type: claim
 title: Focal scenario analysis reveals that no existing theory explains coordination of multiple monitoring sources
 description: Focal scenario analysis reveals that no existing theory explains coordination of multiple monitoring sources
 id: monitoring-multiplicity-theoretical-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

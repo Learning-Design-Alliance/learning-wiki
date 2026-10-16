@@ -3,7 +3,7 @@ type: claim
 title: Baseline equivalence was established only for low-achieving students, so analyses for other grades and subpopulations do not meet WWC evidence standards
 description: Baseline equivalence was established only for low-achieving students, so analyses for other grades and subpopulations do not meet WWC evidence standards
 id: reading-plus-baseline-equivalence-low-achievers-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

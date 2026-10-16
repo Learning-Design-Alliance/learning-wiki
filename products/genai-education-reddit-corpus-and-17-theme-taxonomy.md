@@ -4,7 +4,7 @@ id: genai-education-reddit-corpus-and-17-theme-taxonomy
 title: GenAI Education Reddit Corpus and 17-Theme Taxonomy
 description: A GitHub-released corpus and taxonomy by Pelin Yüce et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

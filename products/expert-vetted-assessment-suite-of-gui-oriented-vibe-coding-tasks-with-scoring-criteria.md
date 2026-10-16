@@ -4,7 +4,7 @@ id: expert-vetted-assessment-suite-of-gui-oriented-vibe-coding-tasks-with-scorin
 title: Expert-vetted assessment suite of GUI-oriented vibe-coding tasks with scoring criteria
 description: "An expert-designed assessment suite of natural-language GUI-oriented vibe-coding tasks with predefined scoring criteria and rubrics, developed by the article's international subject-matter-expert panel for tertiary students."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

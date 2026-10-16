@@ -3,7 +3,7 @@ type: strategy
 id: integrate-genai-around-defined-educational-problem
 title: Integrate GenAI around a defined educational problem with explicit guardrails, not around the novelty of the tool
 description: "The review's design principle for curriculum leaders is to \"integrate GenAI around a defined educational problem, not around the novelty of the tool\": begin with the target competence, specify what the learner must do..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

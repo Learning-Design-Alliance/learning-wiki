@@ -3,7 +3,7 @@ type: claim
 title: "Teaching a ChatGPT agent improves students' self-regulated learning, specifically self-efficacy and use of cognitive strategies"
 description: "Teaching a ChatGPT agent improves students' self-regulated learning, specifically self-efficacy and use of cognitive strategies"
 id: chatgpt-teaching-self-efficacy-cognitive-strategies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -54,3 +54,6 @@ ANCOVA on an adapted MSLQ-based SRL questionnaire administered pre and post; the
 - [A within-subjects pilot with 27 professional software engineers found statistically significant self-reported self-efficacy gains across all 10 assessed skill areas after completing the cc-self-train curriculum](cc-self-train-pilot-self-efficacy-gains.md) — related
 - [Students with moderate initial CT levels show substantially greater self-efficacy gains than high-CT and low-CT peers, an 'Optimal Development Zone' effect](optimal-development-zone-ct-gains.md) — related
 - [The article is situated within research on self-regulated learning strategies in educational contexts](self-regulated-learning-strategies-educational-contexts-veenman-2006.md) — related
+- [Learning with a ChatGPT-based flipped learning guiding approach significantly improves students’ performance, self-efficacy, learning attitudes, intrinsic motivation and creative thinking in a courseware project](chatgpt-flga-improves-performance-and-perceptions.md) — related
+- [ChatGPT-integrated instruction produced significantly higher post-test writing motivation scores than conventional instruction among EFL learners, with a medium effect size](chatgpt-instruction-enhanced-efl-writing-motivation.md) — related
+- [GCLA use improves cognitive and behavioral engagement and self-efficacy compared with traditional ChatGPT use in blended learning](gcla-improves-engagement-and-self-efficacy.md) — related

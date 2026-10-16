@@ -3,7 +3,7 @@ type: claim
 title: READ 180® has positive effects on reading comprehension for adolescent readers in grades 4–12
 description: READ 180® has positive effects on reading comprehension for adolescent readers in grades 4–12
 id: read-180-positive-effects-comprehension-adolescents
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

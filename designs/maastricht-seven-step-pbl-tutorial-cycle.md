@@ -3,7 +3,7 @@ type: design
 id: maastricht-seven-step-pbl-tutorial-cycle
 title: Seven-step Maastricht PBL tutorial cycle with progressive case disclosure and group presentation
 description: "The course used a hybrid form of the 7-step Maastricht PBL model in which a case 'story' unfolds progressively over tutorials through 'pages' of information following a trigger scenario."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Greater answer offloading during learning is associated with lower subsequent unaided performance (exploratory)
 description: Greater answer offloading during learning is associated with lower subsequent unaided performance (exploratory)
 id: answer-offloading-associated-lower-unaided-performance-exploratory
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

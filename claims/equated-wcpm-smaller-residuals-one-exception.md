@@ -3,7 +3,7 @@ type: claim
 title: Equated WCPM scores from non-reference passages show smaller residuals against reference-passage scores than raw scores, with one passage exception
 description: Equated WCPM scores from non-reference passages show smaller residuals against reference-passage scores than raw scores, with one passage exception
 id: equated-wcpm-smaller-residuals-one-exception
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Enrolling at a KIPP middle school is associated with a 12.9 percentage-point higher rate of college enrollment
 description: Enrolling at a KIPP middle school is associated with a 12.9 percentage-point higher rate of college enrollment
 id: kipp-middle-enrollment-twelve-point-nine-college-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

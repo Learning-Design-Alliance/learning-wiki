@@ -3,7 +3,7 @@ type: claim
 title: Most middle and high school students surveyed after classroom retrieval practice programs viewed them positively and said frequent retrieval practice helped them feel less nervous about exams
 description: Most middle and high school students surveyed after classroom retrieval practice programs viewed them positively and said frequent retrieval practice helped them feel less nervous about exams
 id: students-report-classroom-retrieval-practice-helps-learning-and-reduces-exam-nervousness
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

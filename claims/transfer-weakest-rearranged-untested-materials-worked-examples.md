@@ -3,7 +3,7 @@ type: claim
 title: Transfer of test-enhanced learning is weakest to rearranged stimulus-response items, to untested materials seen during initial study, and to problems involving worked examples
 description: Transfer of test-enhanced learning is weakest to rearranged stimulus-response items, to untested materials seen during initial study, and to problems involving worked examples
 id: transfer-weakest-rearranged-untested-materials-worked-examples
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

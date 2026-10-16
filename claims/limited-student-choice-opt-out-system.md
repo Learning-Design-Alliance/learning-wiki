@@ -3,7 +3,7 @@ type: claim
 title: Students had little meaningful choice about participation in the student success information system, as they could not remove themselves from the system as a whole
 description: Students had little meaningful choice about participation in the student success information system, as they could not remove themselves from the system as a whole
 id: limited-student-choice-opt-out-system
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

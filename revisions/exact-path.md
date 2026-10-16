@@ -3,7 +3,7 @@ type: revisions
 page: ../products/exact-path.md
 ---
 
-# Revision history: [products/exact-path](../products/exact-path.md)
+# Revision history: [products/exact-path](../products/edmentum-exact-path.md)
 
 Recorded as elements/edmentum-exact-path-adaptive-program before it was renamed, re-filed or merged.
 

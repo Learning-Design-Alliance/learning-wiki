@@ -3,7 +3,7 @@ type: claim
 title: "AEEGS and human raters produced similarly shaped score distributions, with most students' scores clustered around the mean in the 'good' band"
 description: "AEEGS and human raters produced similarly shaped score distributions, with most students' scores clustered around the mean in the 'good' band"
 id: aeegs-human-score-distributions-similar
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

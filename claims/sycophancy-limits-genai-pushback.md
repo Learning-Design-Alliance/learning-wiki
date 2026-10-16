@@ -3,7 +3,7 @@ type: claim
 title: "Post-training alignment methods may induce sycophancy that deteriorates GenAI models' ability to disagree and push back"
 description: "Post-training alignment methods may induce sycophancy that deteriorates GenAI models' ability to disagree and push back"
 id: sycophancy-limits-genai-pushback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

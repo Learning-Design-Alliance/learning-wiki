@@ -3,7 +3,7 @@ type: strategy
 id: multiple-criteria-nontraditional-identification
 title: Use multiple criteria and non-traditional measures to identify diverse gifted learners
 description: "The essay advocates restructuring identification to recognize \"cultural diversity as differences, not deficiencies,\" noting \"The use of multiple criteria and non-traditional measures is widely advocated\" (Passow & Fra..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -45,4 +45,4 @@ The essay advocates restructuring identification to recognize "cultural diversit
 -
 
 ## Key Sources
-- McGlonn-Nelson, K. (2005). Looking Outward: Exploring the Intersections of Sociocultural Theory and Gifted Education. The Journal of Secondary Gifted Education, 17(1), 48-55. https://eric.ed.gov/?id=EJ746045
+- McGlonn-Nelson, K. (2005). Looking Outward: Exploring the Intersections of Sociocultural Theory and Gifted Education. The Journal of Secondary Gifted Education, 17(1), 48-55. https://eric.ed.gov/?id=EJ746045. [doi:10.4219/jsge-2005-391](https://doi.org/10.4219/jsge-2005-391)

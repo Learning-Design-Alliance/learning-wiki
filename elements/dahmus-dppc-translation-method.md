@@ -3,7 +3,7 @@ type: element
 id: dahmus-dppc-translation-method
 title: "Dahmus DPPC Method: direct, pure, piece-meal, complete translation strategy"
 description: "The Dahmus Method (DM), based on Dahmus's DPPC Method (direct, pure, piece-meal, complete), directs students to translate each phrase of a verbal problem into mathematical symbol statements as it appears, including in..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

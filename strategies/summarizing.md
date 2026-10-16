@@ -90,13 +90,13 @@ Summarizing works because it requires learners to reconstruct meaning — identi
 - [Reciprocal Teaching](../patterns/cognitive-apprenticeship.md) — embeds summarizing among comprehension strategies with modeling and fading
 
 ## Examples
-- **Reciprocal Teaching (Palincsar & Brown)** — small groups take turns summarizing a text segment as one of four strategies, with the teacher modeling and fading support over sessions.
+- **[Reciprocal Teaching](reciprocal_teaching.md) (Palincsar & Brown)** — small groups take turns summarizing a text segment as one of four strategies, with the teacher modeling and fading support over sessions.
 - **Math journaling** — after solving a multi-step problem, students write "My answer is… I solved it by… This worked because…" — the justification and strategy-evaluation form of summarizing.
 - **[Khan Academy](https://www.khanacademy.org)** — lesson wrap-ups and unit summaries model concise overviews that students can emulate in their own notes.
 - **One-sentence summaries in AP courses** — students compress a reading into a single grammatical sentence using a "somebody wanted but so" frame, forcing selection and integration.
 - **[Summary Street](https://ls6.cs.cmu.edu/summary-street)** (Kintsch et al., CU Boulder) — intelligent tutoring system that evaluates student summaries against source text for content coverage and flags copying, enabling self-guided practice with automated feedback
 - **[Reading Apprenticeship](https://readingapprenticeship.org)** (WestEd) — disciplinary literacy routines in which students write and compare summaries of complex subject-area texts
-- **Reciprocal Teaching** (Palincsar & Brown) — small-group routine in which students take turns leading summarization of text segments, with teacher modeling fading over time
+- **[Reciprocal Teaching](reciprocal_teaching.md)** (Palincsar & Brown) — small-group routine in which students take turns leading summarization of text segments, with teacher modeling fading over time
 
 ## Key Sources
 - Palincsar, A. S., & Brown, A. L. (1984). Reciprocal teaching of comprehension-fostering and comprehension-monitoring activities. *Cognition and Instruction, 1*(2), 117–175. [doi:10.1207/s1532690xci0102_1](https://doi.org/10.1207/s1532690xci0102_1)

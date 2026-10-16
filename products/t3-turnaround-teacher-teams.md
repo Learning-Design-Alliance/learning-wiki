@@ -4,7 +4,7 @@ id: t3-turnaround-teacher-teams
 title: T3 Turnaround Teacher Teams
 description: T3 Turnaround Teacher Teams is a Teach Plus and Boston Public Schools school-turnaround programme that places trained teacher leaders and coaches in low-performing schools to support shared leadership, data use, and collaborative planning.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

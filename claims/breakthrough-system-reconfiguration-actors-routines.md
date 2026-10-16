@@ -3,7 +3,7 @@ type: claim
 title: "System reconfiguration: breakthroughs reshape relationships among actors, capabilities, and institutional routines"
 description: "System reconfiguration: breakthroughs reshape relationships among actors, capabilities, and institutional routines"
 id: breakthrough-system-reconfiguration-actors-routines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Students with visual impairments show accelerated reading growth between 9th and 10th grade while the nationally normed group tends to drop
 description: Students with visual impairments show accelerated reading growth between 9th and 10th grade while the nationally normed group tends to drop
 id: vi-students-accelerated-growth-ninth-tenth-grade
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

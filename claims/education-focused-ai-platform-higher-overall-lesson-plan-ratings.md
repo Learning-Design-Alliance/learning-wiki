@@ -3,7 +3,7 @@ type: claim
 title: The education-focused AI platform (C2) received numerically higher expert ratings than the general-purpose platform (C1) across all eight overall quality criteria
 description: The education-focused AI platform (C2) received numerically higher expert ratings than the general-purpose platform (C1) across all eight overall quality criteria
 id: education-focused-ai-platform-higher-overall-lesson-plan-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

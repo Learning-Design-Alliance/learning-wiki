@@ -64,9 +64,9 @@ Spacing is one of the most robust findings in learning science: distributed prac
 - [Cumulative Review](../strategies/cumulative-review.md) — course-level structure that operationalizes spacing across a term
 
 ## Examples
-- **Duolingo** — schedules practice of previously learned vocabulary on an expanding-spaced algorithm, re-presenting items as recall strength decays.
+- **[Duolingo](../products/duolingo.md)** — schedules practice of previously learned vocabulary on an expanding-spaced algorithm, re-presenting items as recall strength decays.
 - **Anki** — open-source flashcard system implementing adaptive spaced repetition (SM-2 family algorithms) for self-directed learners.
-- **ASSISTments** — math homework system that interleaves and spaces previously taught skills into new assignments; field studies show improved delayed test performance.
+- **[ASSISTments](../products/assistments.md)** — math homework system that interleaves and spaces previously taught skills into new assignments; field studies show improved delayed test performance.
 - A typical classroom application: reviewing vocabulary one day, three days, and one week after introduction, with each review as a quiz rather than a rereading.
 
 ## Key Sources

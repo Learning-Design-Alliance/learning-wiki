@@ -3,7 +3,7 @@ type: claim
 title: "Across 78 observed classrooms, 46% of teacher ratings were at the unsatisfactory or basic level, with AMPS teachers earning generally higher ratings than IDS and Renaissance 2010 teachers"
 description: "Across 78 observed classrooms, 46% of teacher ratings were at the unsatisfactory or basic level, with AMPS teachers earning generally higher ratings than IDS and Renaissance 2010 teachers"
 id: observation-ratings-46-percent-basic-unsatisfactory
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

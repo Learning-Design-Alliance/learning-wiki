@@ -3,7 +3,7 @@ type: strategy
 id: facilitator-role-sociocultural-l2-writing
 title: Adopt a facilitator role and prepare students for active participation in sociocultural L2 writing instruction
 description: "For the Sociocultural Model of L2 writing to work, the article recommends a role shift: \"teachers must adopt the role of a facilitator rather than a content provider or authority figure\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

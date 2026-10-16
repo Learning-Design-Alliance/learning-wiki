@@ -3,7 +3,7 @@ type: claim
 title: A 2025-2026 survey of 211 educators in nine countries identified 50 unique generative AI tools meeting inclusion criteria across nine categories
 description: A 2025-2026 survey of 211 educators in nine countries identified 50 unique generative AI tools meeting inclusion criteria across nine categories
 id: 211-educators-survey-50-genai-tools-nine-categories
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

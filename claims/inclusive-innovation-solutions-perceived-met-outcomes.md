@@ -3,7 +3,7 @@ type: claim
 title: District-community Core Team participants across four pilot districts perceived their co-designed solutions successfully met the team-defined intended outcomes
 description: District-community Core Team participants across four pilot districts perceived their co-designed solutions successfully met the team-defined intended outcomes
 id: inclusive-innovation-solutions-perceived-met-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

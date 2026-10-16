@@ -3,7 +3,7 @@ type: claim
 title: Effort expectancy is associated with AI use only indirectly through competence, whereas hedonic motivation shows a direct positive association
 description: Effort expectancy is associated with AI use only indirectly through competence, whereas hedonic motivation shows a direct positive association
 id: effort-expectancy-mediated-hedonic-motivation-direct
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

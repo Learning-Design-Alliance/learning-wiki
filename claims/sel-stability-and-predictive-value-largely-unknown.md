@@ -3,7 +3,7 @@ type: claim
 title: "Whether students' SEL skills are stable over time, and whether initial level or change better flags later academic risk, was largely unknown before this study"
 description: "Whether students' SEL skills are stable over time, and whether initial level or change better flags later academic risk, was largely unknown before this study"
 id: sel-stability-and-predictive-value-largely-unknown
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

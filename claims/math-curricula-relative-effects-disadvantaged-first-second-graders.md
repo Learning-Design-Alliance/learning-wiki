@@ -3,7 +3,7 @@ type: claim
 title: The study examines whether some early elementary school math curricula are more effective than others at improving math achievement in schools serving a high percentage of disadvantaged students.
 description: The study examines whether some early elementary school math curricula are more effective than others at improving math achievement in schools serving a high percentage of disadvantaged students.
 id: math-curricula-relative-effects-disadvantaged-first-second-graders
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

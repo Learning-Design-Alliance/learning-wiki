@@ -3,7 +3,7 @@ type: element
 id: leigh-two-way-bilingual-immersion-program
 title: Leigh Two-Way Bilingual Immersion Literacy in Two Languages program
 description: A Title VII Grant-funded dual language program at Leigh Elementary School in Phoenix, Arizona, launched with a 1996-1997 planning year and in its second year of implementation at the time of study.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

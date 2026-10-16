@@ -2,7 +2,7 @@
 type: theory
 title: "Commognitive framework: thinking as communication and learning as participation in mathematical discourse"
 description: Commognition, named from the combination of communication and cognition, conceptualizes thinking as self-communication and learning mathematics as participation in a discourse.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: The problem-based group achieved significantly larger content-knowledge gains, while the simulation group made no knowledge gains
 description: The problem-based group achieved significantly larger content-knowledge gains, while the simulation group made no knowledge gains
 id: problem-based-larger-knowledge-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

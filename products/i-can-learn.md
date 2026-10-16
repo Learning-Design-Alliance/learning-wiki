@@ -4,7 +4,7 @@ id: i-can-learn
 title: I CAN Learn
 description: I CAN Learn® is a self-paced, mastery-based computer mathematics curriculum developed by JRL Enterprises, Inc., with interactive lessons, placement-based learning paths, practice, quizzes, and classroom tracking tools.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

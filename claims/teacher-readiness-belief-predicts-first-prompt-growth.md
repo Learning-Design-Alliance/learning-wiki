@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' belief that their students were ready for argumentative writing significantly predicted student growth within the first prompt"
 description: "Teachers' belief that their students were ready for argumentative writing significantly predicted student growth within the first prompt"
 id: teacher-readiness-belief-predicts-first-prompt-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

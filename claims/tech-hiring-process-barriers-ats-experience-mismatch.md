@@ -3,7 +3,7 @@ type: claim
 title: Black jobseekers report biased applicant tracking systems, lengthy hiring processes, and entry-level postings requiring years of experience
 description: Black jobseekers report biased applicant tracking systems, lengthy hiring processes, and entry-level postings requiring years of experience
 id: tech-hiring-process-barriers-ats-experience-mismatch
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

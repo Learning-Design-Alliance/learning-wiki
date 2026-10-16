@@ -3,7 +3,7 @@ type: strategy
 id: per-technique-coverage-targets-over-raw-volume
 title: Set per-technique coverage targets rather than scaling raw volume when constructing domain-specific instruction datasets
 description: "A dataset-construction strategy drawn from the paper's per-technique fidelity analysis: technique fidelity scores stabilize only once a technique is represented by a minimum number of high-fidelity examples (roughly 2..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

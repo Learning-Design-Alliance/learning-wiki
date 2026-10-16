@@ -2,14 +2,14 @@
 type: theory
 title: "Three-level ordinal model of written reflection: descriptive, analytic, and integrative"
 description: "The article operationalizes reflection quality as a three-level ordinal scale modeled on Bradley's (1995) rubric for professional thinking."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 sources:
   - id: sturgill-2014
-    resource: "https://scholar.google.com/scholar?q=Methods+of+Reflection+about+Service+Learning"
-    title: "Sturgill, A., & Motley, P. (2014). Methods of Reflection about Service Learning: Guided vs. Free, Dialogic vs. Expressive, and Public vs. Private. Teaching & Learning Inquiry, 2(1), 81-93. https://scholar.google.com/scholar?q=Methods+of+Reflection+about+Service+Learning"
+    resource: "https://doi.org/10.20343/teachlearninqu.2.1.81"
+    title: "Sturgill, A., & Motley, P. (2014). Methods of Reflection about Service Learning: Guided vs. Free, Dialogic vs. Expressive, and Public vs. Private. Teaching & Learning Inquiry, 2(1), 81-93. https://doi.org/10.20343/teachlearninqu.2.1.81"
     author: "Sturgill, A., & Motley, P"
 ---
 
@@ -50,4 +50,4 @@ The article operationalizes reflection quality as a three-level ordinal scale mo
 -
 
 ## Key Sources
-- Sturgill, A., & Motley, P. (2014). Methods of Reflection about Service Learning: Guided vs. Free, Dialogic vs. Expressive, and Public vs. Private. Teaching & Learning Inquiry, 2(1), 81-93. https://scholar.google.com/scholar?q=Methods+of+Reflection+about+Service+Learning. [doi:10.20343/teachlearninqu.2.1.81](https://doi.org/10.20343/teachlearninqu.2.1.81)
+- Sturgill, A., & Motley, P. (2014). Methods of Reflection about Service Learning: Guided vs. Free, Dialogic vs. Expressive, and Public vs. Private. Teaching & Learning Inquiry, 2(1), 81-93. https://doi.org/10.20343/teachlearninqu.2.1.81. [doi:10.20343/teachlearninqu.2.1.81](https://doi.org/10.20343/teachlearninqu.2.1.81)

@@ -3,7 +3,7 @@ type: strategy
 id: policy-strategies-advanced-course-access
 title: Four-part policy strategy for increasing student access to advanced mathematics and science courses
 description: "The report recommends a set of state, federal, and local policy actions to close gaps in advanced course access: annual review of curriculum access, stable funding streams, teacher pipeline supports, and competitive c..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: welcoming-culturally-inclusive-schools-english-learners
 title: Create positive, culturally inclusive, welcoming schools using strengths-based practices such as newcomer welcome centers, attendance cafés, and home-language-as-asset approaches
 description: "The brief advises schools to \"use a strengths-based approach to help English learners feel seen, valued, and supported,\" establishing classroom routines and enrichment reflecting students' interests."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

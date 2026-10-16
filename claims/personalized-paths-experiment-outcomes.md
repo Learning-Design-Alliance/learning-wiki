@@ -3,7 +3,7 @@ type: claim
 title: "In a randomized experiment, personalized paths reduced learning time by 22.0% and improved post-test scores versus a fixed sequence"
 description: "In a randomized experiment, personalized paths reduced learning time by 22.0% and improved post-test scores versus a fixed sequence"
 id: personalized-paths-experiment-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

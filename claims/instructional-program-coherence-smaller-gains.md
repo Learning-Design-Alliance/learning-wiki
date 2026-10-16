@@ -3,7 +3,7 @@ type: claim
 title: Schools with many unrelated and unsustained initiatives show smaller gains than schools with coherent programs
 description: Schools with many unrelated and unsustained initiatives show smaller gains than schools with coherent programs
 id: instructional-program-coherence-smaller-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

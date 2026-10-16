@@ -3,7 +3,7 @@ type: strategy
 id: glows-grows-peer-assessment-scaffolding
 title: Teach self- and peer-assessment by starting with rubrics, then glows, then scaffolded grows
 description: "A sequenced recipe for building students' assessment skills: first teach students to use a rubric or checklist independently by self-assessing and comparing their rating with the teacher's; then have students exchange..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

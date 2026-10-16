@@ -3,7 +3,7 @@ type: strategy
 id: longitudinal-studies-of-computer-involvement-effects
 title: "Undertake cross-sectional and longitudinal studies of the long-term effects of children's involvement with computers now"
 description: "Learning from television research's costly omission, the authors recommend that long-term, cumulative effects of computer involvement be studied before the opportunity is lost: \"there is in principle no reason why we..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: "Completing SAILS boosted first-year community college students' enrollment in college-level math by nearly 30 percentage points"
 description: "Completing SAILS boosted first-year community college students' enrollment in college-level math by nearly 30 percentage points"
 id: sails-boosted-college-level-math-enrollment-30-points
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

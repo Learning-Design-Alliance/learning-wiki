@@ -3,7 +3,7 @@ type: claim
 title: "Teachers perceive that AI tools lower cognitive barriers and deepen students' conceptual understanding of abstract science content"
 description: "Teachers perceive that AI tools lower cognitive barriers and deepen students' conceptual understanding of abstract science content"
 id: ai-lowers-cognitive-barriers-conceptual-understanding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

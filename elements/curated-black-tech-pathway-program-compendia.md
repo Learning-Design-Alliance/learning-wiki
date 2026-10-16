@@ -3,7 +3,7 @@ type: element
 id: curated-black-tech-pathway-program-compendia
 title: Curated compendia of technology exposure, training, and career programs for Black learners and workers
 description: "The scan assembles curated resource lists (Tables 3-5) of programs, organizations, and initiatives supporting Black learners' and workers' technology pathways."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

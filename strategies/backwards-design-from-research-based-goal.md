@@ -3,7 +3,7 @@ type: strategy
 id: backwards-design-from-research-based-goal
 title: Plan and design backwards from a research-based learning goal to features, metrics, and measurement tools
 description: The report recommends that product teams determine the desired learning outcomes first, then identify how to measure them and what tools to use, consulting existing research at each step.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

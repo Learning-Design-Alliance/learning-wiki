@@ -3,7 +3,7 @@ type: claim
 title: A 12-item short form of the survey retains acceptable-to-good reliability (alpha = 0.85; test-retest = 0.75)
 description: A 12-item short form of the survey retains acceptable-to-good reliability (alpha = 0.85; test-retest = 0.75)
 id: short-form-survey-acceptable-reliability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

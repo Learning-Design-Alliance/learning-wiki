@@ -3,7 +3,7 @@ type: claim
 title: Systemwide first-year B4 completion rose to approximately 73 percent in 2018/19, up from approximately 63 percent in each of the three previous years
 description: Systemwide first-year B4 completion rose to approximately 73 percent in 2018/19, up from approximately 63 percent in each of the three previous years
 id: eo1110-b4-completion-increase-first-year
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

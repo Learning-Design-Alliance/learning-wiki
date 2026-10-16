@@ -3,7 +3,7 @@ type: claim
 title: Human-written AGENTS.md context files improve agent performance by approximately 4 per cent, while LLM-generated context files decrease performance by 3 per cent and increase token cost by over 20 per cent, as the article reports citing recent research
 description: Human-written AGENTS.md context files improve agent performance by approximately 4 per cent, while LLM-generated context files decrease performance by 3 per cent and increase token cost by over 20 per cent, as the art...
 id: agents-md-human-written-context-files-improve-agent-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

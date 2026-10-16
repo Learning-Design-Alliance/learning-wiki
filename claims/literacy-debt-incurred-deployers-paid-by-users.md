@@ -3,7 +3,7 @@ type: claim
 title: The debt is incurred by deploying organizations but paid by users, patients, and citizens, making it an AI ethics problem
 description: The debt is incurred by deploying organizations but paid by users, patients, and citizens, making it an AI ethics problem
 id: literacy-debt-incurred-deployers-paid-by-users
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

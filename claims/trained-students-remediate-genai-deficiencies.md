@@ -3,7 +3,7 @@ type: claim
 title: Trained students more often identify and remediate GenAI deficiencies such as visual errors and reasoning flaws
 description: Trained students more often identify and remediate GenAI deficiencies such as visual errors and reasoning flaws
 id: trained-students-remediate-genai-deficiencies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

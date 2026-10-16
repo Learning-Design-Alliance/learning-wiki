@@ -3,7 +3,7 @@ type: design
 id: five-principles-robotics-course-framework
 title: "Five design principles: one artifact, dependency sequencing, progressive sim-hardware integration, scaffolded bounded choice, and paired collaboration with individual evidence"
 description: "The article states five principles (P1-P5) describing the framework: coordinate disciplines through one artifact; sequence by technical dependencies with observable gates; integrate simulation and hardware progressive..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

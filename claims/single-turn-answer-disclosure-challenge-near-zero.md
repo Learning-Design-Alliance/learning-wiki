@@ -3,7 +3,7 @@ type: claim
 title: Single-turn tutors disclose answers pervasively while challenge scores are near zero across every model and subject
 description: Single-turn tutors disclose answers pervasively while challenge scores are near zero across every model and subject
 id: single-turn-answer-disclosure-challenge-near-zero
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

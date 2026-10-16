@@ -2,7 +2,7 @@
 type: theory
 title: "Four-form taxonomy of accountability: outcome-based, rule-based, market-based, and professional"
 description: "The article organizes accountability in K-12 education into distinct forms reviewed side by side: \"rule-based, market-based, and professional accountability alongside outcome-based accountability.\" Each form is treate..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

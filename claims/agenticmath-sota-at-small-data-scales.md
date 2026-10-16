@@ -3,7 +3,7 @@ type: claim
 title: At 30K and 60K data scales, AgenticMath outperforms all compared baselines across four base models on six math benchmarks
 description: At 30K and 60K data scales, AgenticMath outperforms all compared baselines across four base models on six math benchmarks
 id: agenticmath-sota-at-small-data-scales
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

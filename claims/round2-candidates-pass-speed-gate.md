@@ -3,7 +3,7 @@ type: claim
 title: Qwen 7B and Mistral Nemo 12B passed the classroom speed gate in round 2 and were retained as candidates pending faculty review
 description: Qwen 7B and Mistral Nemo 12B passed the classroom speed gate in round 2 and were retained as candidates pending faculty review
 id: round2-candidates-pass-speed-gate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

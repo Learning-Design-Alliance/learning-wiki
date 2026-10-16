@@ -3,7 +3,7 @@ type: claim
 title: Majorities of students believed inductive instruction more effective for simple structures and, conversely, for difficult structures
 description: Majorities of students believed inductive instruction more effective for simple structures and, conversely, for difficult structures
 id: student-beliefs-inductive-effectiveness-structure-complexity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

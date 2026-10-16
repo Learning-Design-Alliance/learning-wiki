@@ -3,7 +3,7 @@ type: strategy
 id: guided-inquiry-information-seeking-learning
 title: "Guided Inquiry: immersing students in information seeking as a way of learning"
 description: Guided Inquiry is a programme the author is developing for librarians and teachers of elementary and secondary school students.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

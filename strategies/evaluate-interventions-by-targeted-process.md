@@ -3,7 +3,7 @@ type: strategy
 id: evaluate-interventions-by-targeted-process
 title: Evaluate AI-use interventions for the specific process they target, from verification quality to reliance decisions and persistent learning
 description: The review recommends that educational interventions be evaluated for the specific process they target rather than with a single self-report measure of responsible use.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

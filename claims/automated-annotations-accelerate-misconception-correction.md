@@ -3,7 +3,7 @@ type: claim
 title: Step-by-step automated annotations accelerated correction of procedural misconceptions, with intervention students rectifying fundamental errors weeks before control peers
 description: Step-by-step automated annotations accelerated correction of procedural misconceptions, with intervention students rectifying fundamental errors weeks before control peers
 id: automated-annotations-accelerate-misconception-correction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

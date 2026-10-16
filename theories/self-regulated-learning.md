@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 46 claims (24 for, 19 mixed, 3 against) · 44 studies (18 associational, 11 causal, 4 theoretical, 3 quant-synthesis, 3 review, 3 qualitative, 2 design), `q1`–`q4` · 12 of 44 report an effect size · 35 claims rest on one study
+> **Evidence** · 49 claims (25 for, 21 mixed, 3 against) · 47 studies (18 associational, 12 causal, 5 quant-synthesis, 4 theoretical, 3 review, 3 qualitative, 2 design), `q1`–`q4` · 12 of 47 report an effect size · 38 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -96,6 +96,9 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Evidence for agentic AI in education is strongest for formative tutoring and SRL coaching, while orchestration and assessment applications remain at mid technology-readiness stages](../claims/agentic-ai-evidence-strongest-tutoring-srl-coaching.md) [+W]
 - [Forming implementation intentions produces a medium-to-large positive effect (d = .65) on goal attainment across 94 independent tests](../claims/implementation-intentions-d65-goal-attainment-meta-analysis.md) [+M] — attached 2026-10-15 from Gollwitzer et al. (2006), which proposed "Implementation intentions as if-then plans that specify the when, where, and how of goal striving in advance".
 - [Empirical studies support Zimmerman's cyclical and multi-level SRL models, including a linear trend favoring training more SRL phases](../claims/zimmerman-cyclical-model-empirical-support.md) [+W] — attached 2026-10-15 from Panadero E (2017), which proposed "Zimmerman's Cyclical Phases model of SRL: forethought, performance, self-reflection".
+- [The combined training-plus-diary condition improved specific SRL components: SRL knowledge, metacognitive strategies, cognitive strategies (elaboration, organisation, critical thinking), and resource management strategies (time-management, effort regulation)](../claims/combined-condition-improved-specific-srl-components.md) [+W] — attached 2026-10-15 from Broadbent et al. (2020), which proposed "Self-regulated learning as a multi-component construct with metacognitive, cognitive, and resource management strategies".
+- [Self-monitoring intervention effects rest on four key components: selecting a target behavior, defining it, self-assessment, and self-recording](../claims/self-monitoring-four-key-components.md) [~W] — attached 2026-10-15 from Davis et al. (2016), which proposed "Self-monitoring intervention framework for students with ASD organized around student, intervention, and setting variables".
+- [SRL activity only partially mediates the effect of SRL interventions on achievement in higher education](../claims/srl-partial-mediation-achievement-higher-ed.md) [~W] — attached 2026-10-15 from Jansen et al. (2019), which proposed "Three-relations mediation framework linking SRL interventions, SRL activity, and achievement".
 
 ## Related Theories
 

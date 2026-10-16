@@ -3,7 +3,7 @@ type: claim
 title: The Teacher Team Method and Full Roster Method provide a more stable approach than the Partial Credit Method for estimating teacher effects when students have multiple teachers for the same subject.
 description: The Teacher Team Method and Full Roster Method provide a more stable approach than the Partial Credit Method for estimating teacher effects when students have multiple teachers for the same subject.
 id: teacher-team-and-full-roster-methods-more-stable-than-partial-credit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

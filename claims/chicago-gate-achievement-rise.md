@@ -3,7 +3,7 @@ type: claim
 title: "Eighth-grade achievement rose substantially in postpolicy cohorts, with the 1998 cohort's included students more than half a standard deviation above prepolicy levels"
 description: "Eighth-grade achievement rose substantially in postpolicy cohorts, with the 1998 cohort's included students more than half a standard deviation above prepolicy levels"
 id: chicago-gate-achievement-rise
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

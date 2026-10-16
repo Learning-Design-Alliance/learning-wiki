@@ -3,7 +3,7 @@ type: claim
 title: Rubric scoring supports answering diagnostic questions about opportunities for and evidence of historical thinking
 description: Rubric scoring supports answering diagnostic questions about opportunities for and evidence of historical thinking
 id: rubric-scoring-diagnostic-questions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

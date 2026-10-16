@@ -3,7 +3,7 @@ type: strategy
 id: organise-hands-on-forms-by-learning-objectives
 title: Organise Embodied Hands-on and Cognitive Hands-on deliberately according to different learning objectives
 description: The review recommends that design education organise the relationship between Embodied Hands-on and Cognitive Hands-on deliberately according to different learning objectives, rather than treating the forms as interch...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

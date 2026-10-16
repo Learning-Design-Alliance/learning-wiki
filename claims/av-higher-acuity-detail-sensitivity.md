@@ -3,7 +3,7 @@ type: claim
 title: Authentic video enhanced self-reported acuity for detail, though the non-parametric check was marginal
 description: Authentic video enhanced self-reported acuity for detail, though the non-parametric check was marginal
 id: av-higher-acuity-detail-sensitivity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Students use standard GPT-4 access as a crutch—copying answers rather than engaging with the material—which explains the harm to learning
 description: Students use standard GPT-4 access as a crutch—copying answers rather than engaging with the material—which explains the harm to learning
 id: gpt-base-crutch-mechanism
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

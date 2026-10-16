@@ -3,7 +3,7 @@ type: claim
 title: GenAI in CS education is argued to enhance student engagement, support equitable learning, and relieve instructional burden
 description: GenAI in CS education is argued to enhance student engagement, support equitable learning, and relieve instructional burden
 id: genai-engagement-equity-instructional-burden-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

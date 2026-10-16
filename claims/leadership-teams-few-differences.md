@@ -3,7 +3,7 @@ type: claim
 title: Schools with teams of Fund-supported leaders and NBCT clusters show few differences from other schools
 description: Schools with teams of Fund-supported leaders and NBCT clusters show few differences from other schools
 id: leadership-teams-few-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

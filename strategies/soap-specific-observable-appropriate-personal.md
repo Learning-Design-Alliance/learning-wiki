@@ -59,9 +59,12 @@ Self-monitoring is one of the most consistently supported self-regulation interv
 5. Fade the recording scaffold as accuracy and the target behavior stabilize, shifting target selection to the student
 
 ## Related Strategies
+
 - Self-Monitoring — SOAP is the target-selection procedure within this broader intervention family
 - Goal-Setting — SOAP-defined behaviors become the concrete goals students monitor progress toward
 - Self-Evaluation — comparing student records against teacher or criterion ratings improves monitoring accuracy
+- [Implement school-based self-monitoring by selecting and defining a target behavior, then adding self-assessment and self-recording](implement-self-monitoring-four-components-strategy.md)
+- [Select self-management configurations based on review evidence for specific intervention approaches](select-self-management-configurations-from-review-evidence.md)
 
 ## Examples
 - A third-grade teacher defines "looked at my worksheet and wrote an answer" (Specific, Observable) as the target for a student who daydreams during independent work; the student tallies each minute the behavior occurred and graphs daily totals.

@@ -3,7 +3,7 @@ type: research-method
 id: test-disengagement-adjustment-through-sample-removal-and-rapid-guess-score-correction
 title: Test disengagement adjustment through sample removal and rapid-guess score correction
 description: "The article examines two techniques for accounting for test disengagement: \"removing unengaged test takers from the sample\" and \"adjusting test scores to remove rapidly guessed items\"."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: tailored-outreach-enrollment-strategies-adult-learners
 title: "Use marketing, outreach, and enrollment strategies tailored to adult learners' work and family demands"
 description: "The brief recommends that states and institutions seeking to raise adult credential attainment deploy innovative marketing, outreach, and enrollment strategies designed around adult learners' competing responsibilities."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

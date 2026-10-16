@@ -3,7 +3,7 @@ type: strategy
 id: ai-literacy-curricula-foster-self-efficacy-not-only-technical-skills
 title: Design AI literacy curricula that foster self-efficacy beliefs alongside technical skills to protect against overreliance
 description: "The article recommends that AI literacy curricula should not focus narrowly on technical skills, since \"AI literacy curricula that focus narrowly on technical skills (how to prompt, how to use AI tools effectively) ma..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

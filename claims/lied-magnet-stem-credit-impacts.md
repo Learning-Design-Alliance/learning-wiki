@@ -3,7 +3,7 @@ type: claim
 title: Lied magnet students in grades 6-8 attempted and completed significantly more STEM credits than matched comparison students
 description: Lied magnet students in grades 6-8 attempted and completed significantly more STEM credits than matched comparison students
 id: lied-magnet-stem-credit-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

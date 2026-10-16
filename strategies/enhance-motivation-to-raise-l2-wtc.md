@@ -3,7 +3,7 @@ type: strategy
 id: enhance-motivation-to-raise-l2-wtc
 title: "Enhance learners' motivation, especially intrinsic motivation, to raise L2 willingness to communicate"
 description: "The article recommends that language teachers work to raise learners' motivation because motivation is linked to willingness to communicate in the L2."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -2,7 +2,7 @@
 type: theory
 title: Functional behavioral assessment as an individualized, operant-based problem-solving process
 description: "The report defines FBA as \"an individualized problem-solving process for addressing student problem behavior\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

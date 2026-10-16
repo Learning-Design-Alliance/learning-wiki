@@ -3,7 +3,7 @@ type: claim
 title: GenAI improves administrative coordination of group work but its analyses of team members can be inaccurate and hallucinated
 description: GenAI improves administrative coordination of group work but its analyses of team members can be inaccurate and hallucinated
 id: genai-administrative-efficiency-with-accuracy-limits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

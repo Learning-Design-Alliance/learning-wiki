@@ -3,7 +3,7 @@ type: claim
 title: The Trainer is expected to make peer comments more specific, criterion-referenced, and evidence-based
 description: The Trainer is expected to make peer comments more specific, criterion-referenced, and evidence-based
 id: trainer-expected-improve-comment-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
@@ -49,3 +49,4 @@ Theoretical expectation (Expectation 2) derived from cited L2 writing studies sh
 - [Exemplar-based calibration is expected to align student ratings with expert ratings at the criterion level](trainer-calibration-expected-align-rater-judgments.md) — related
 - [The Trainer is expected to improve attitudes toward peer feedback relative to rubric-only instruction](trainer-expected-improve-peer-feedback-attitudes.md) — related
 - [Structured criteria in peer assessment are not shown to improve its effect on academic performance over freeform review](peer-assessment-structured-criteria-improve-learning.md) — related
+- [Coached peer review improves the specificity of reviewer comments and receivers' uptake of feedback](coached-peer-review-improves-comment-quality-and-uptake.md) — related

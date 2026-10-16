@@ -3,7 +3,7 @@ type: claim
 title: As it scaled, TFA generally maintained fidelity to its core program model, with small changes to its pre-service training program
 description: As it scaled, TFA generally maintained fidelity to its core program model, with small changes to its pre-service training program
 id: tfa-i3-scale-up-maintained-program-fidelity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

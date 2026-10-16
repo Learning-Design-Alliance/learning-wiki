@@ -3,7 +3,7 @@ type: element
 id: student-data-instructional-coaching-support
 title: School-based coaching and support for using student data to inform instruction
 description: The evaluated intervention is a set of coaching and support services delivered to schools to help teachers use student data when planning instruction.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -43,7 +43,6 @@ The evaluated intervention is a set of coaching and support services delivered t
 ## Related Elements
 
 - [Support for data-driven instruction intervention (coaching and support to schools for using student data)](data-driven-instruction-support-intervention.md)
-- [Coaching and support to schools for using student data to inform teachers' instruction](student-data-use-coaching-support-schools.md)
 
 ## Examples
 

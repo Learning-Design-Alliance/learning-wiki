@@ -3,7 +3,7 @@ type: strategy
 id: teacher-residency-programs-retain-teachers-of-color
 title: Support teacher residency programs, which are associated with higher retention rates for teachers of color
 description: "The brief identifies teacher residency programs as a retention investment: \"Colorado, Illinois, Louisiana, Mississippi, Missouri, and Texas used funds to support teacher residency programs, which are associated with h..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

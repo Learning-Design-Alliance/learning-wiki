@@ -3,7 +3,7 @@ type: claim
 title: Most reviewed studies used samples composed of at least 40 percent economically disadvantaged students
 description: Most reviewed studies used samples composed of at least 40 percent economically disadvantaged students
 id: majority-studies-40-percent-economically-disadvantaged
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

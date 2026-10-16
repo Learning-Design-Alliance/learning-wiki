@@ -3,7 +3,7 @@ type: claim
 title: Transfer task performance is the critical measure of what adaptive training accomplishes
 description: Transfer task performance is the critical measure of what adaptive training accomplishes
 id: transfer-task-measures-adaptive-training-effectiveness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

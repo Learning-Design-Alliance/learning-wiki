@@ -3,7 +3,7 @@ type: claim
 title: A student-staff partnership evaluated ChatGPT-generated output in response to diverse coursework assessments on an undergraduate medical sciences programme
 description: A student-staff partnership evaluated ChatGPT-generated output in response to diverse coursework assessments on an undergraduate medical sciences programme
 id: partnership-evaluated-chatgpt-output-coursework-assessments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

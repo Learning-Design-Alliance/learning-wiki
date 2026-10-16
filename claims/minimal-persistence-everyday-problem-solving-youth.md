@@ -3,7 +3,7 @@ type: claim
 title: Youth motivation to persist in everyday problem-solving is minimal, costing them collaboration and new knowledge
 description: Youth motivation to persist in everyday problem-solving is minimal, costing them collaboration and new knowledge
 id: minimal-persistence-everyday-problem-solving-youth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

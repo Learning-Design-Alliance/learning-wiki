@@ -3,7 +3,7 @@ type: claim
 title: A two-dimensional profiling method based on initial artifact quality and criterion-aligned revision categorizes student groups into four analytic profiles in an AI-supported RQ/hypothesis revision activity
 description: A two-dimensional profiling method based on initial artifact quality and criterion-aligned revision categorizes student groups into four analytic profiles in an AI-supported RQ/hypothesis revision activity
 id: four-artifact-revision-profiles-ai-supported-inquiry
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

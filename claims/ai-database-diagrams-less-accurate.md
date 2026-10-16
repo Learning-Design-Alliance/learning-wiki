@@ -3,7 +3,7 @@ type: claim
 title: Participants report AI-generated database diagrams were less accurate than what students had previously produced, cautioning against assuming AI artifacts are better
 description: Participants report AI-generated database diagrams were less accurate than what students had previously produced, cautioning against assuming AI artifacts are better
 id: ai-database-diagrams-less-accurate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

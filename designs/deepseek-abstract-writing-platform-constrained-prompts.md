@@ -3,7 +3,7 @@ type: design
 id: deepseek-abstract-writing-platform-constrained-prompts
 title: Custom GenAI writing platform with 30-word prompt limit and copy-paste disabled
 description: The learning task used a custom-built platform integrated with the DeepSeek Large Language Model in which students wrote an academic abstract for a research paper.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

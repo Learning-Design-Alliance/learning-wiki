@@ -4,7 +4,7 @@ id: osf-repository
 title: OSF repository
 description: An OSF-hosted replication package from Zambrano et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
@@ -40,7 +40,7 @@ An OSF-hosted replication package from Zambrano et al. containing the prompts, G
 - [Reference implementation of the classroom feedback mediation layer](reference-implementation-of-the-classroom-feedback-mediation-layer.md)
 
 ## Key Sources
-- Zambrano, A.F., Wei, Z., Zhang, J., Baker, R.S., Ocumpaugh, J., Barany, A., Liu, X., Ginger, J., Paquette, L., Zhou, Y., & Borchers, C. (2026). Data Plus Theory Equals Codebook: Leveraging LLMs for Human-AI Codebook Development. Journal of Educational Data Mining, Volume 18, No 1. https://osf.io/g3z4x
+- Zambrano, A.F., Wei, Z., Zhang, J., Baker, R.S., Ocumpaugh, J., Barany, A., Liu, X., Ginger, J., Paquette, L., Zhou, Y., & Borchers, C. (2026). Data Plus Theory Equals Codebook: Leveraging LLMs for Human-AI Codebook Development. Journal of Educational Data Mining, Volume 18, No 1. https://osf.io/g3z4x. [doi:10.35542/osf.io/4wyqc_v1](https://doi.org/10.35542/osf.io/4wyqc_v1)
 <!-- merged 2026-10-10 from elements/osf-gpt-codebook-replication-artifact ("OSF repository of prompts, codebooks, and code for LLM-assisted codebook development"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - François PARLANT. (2025). Can You Feel It? A Practical Guide to Emotional Micro-Interventions for Higher Education Teachers (and Others). https://osf.io/tuw2a/overview
 
@@ -84,5 +84,5 @@ A released replication package hosting the code for the article's codebook devel
 - [Translate deductive coding rubrics into structured zero-shot prompts to compare LLM coding against human coding](../strategies/zero-shot-prompt-codebook-translation-strategy.md)
 
 ## Key Sources
-- Zambrano, A.F., Wei, Z., Zhang, J., Baker, R.S., Ocumpaugh, J., Barany, A., Liu, X., Ginger, J., Paquette, L., Zhou, Y., & Borchers, C. (2026). Data Plus Theory Equals Codebook: Leveraging LLMs for Human-AI Codebook Development. Journal of Educational Data Mining, Volume 18, No 1. https://osf.io/g3z4x
+- Zambrano, A.F., Wei, Z., Zhang, J., Baker, R.S., Ocumpaugh, J., Barany, A., Liu, X., Ginger, J., Paquette, L., Zhou, Y., & Borchers, C. (2026). Data Plus Theory Equals Codebook: Leveraging LLMs for Human-AI Codebook Development. Journal of Educational Data Mining, Volume 18, No 1. https://osf.io/g3z4x. [doi:10.35542/osf.io/4wyqc_v1](https://doi.org/10.35542/osf.io/4wyqc_v1)
 -->

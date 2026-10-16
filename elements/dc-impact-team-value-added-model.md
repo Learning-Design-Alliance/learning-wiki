@@ -3,7 +3,7 @@ type: element
 id: dc-impact-team-value-added-model
 title: Value-added model for measuring school and teacher performance in DC Public Schools (IMPACT and TEAM)
 description: A value-added statistical model designed for the District of Columbia Public Schools to measure school and teacher performance for the IMPACT and TEAM evaluation systems.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

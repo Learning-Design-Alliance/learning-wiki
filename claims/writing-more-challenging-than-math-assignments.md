@@ -3,7 +3,7 @@ type: claim
 title: Writing assignments made more challenging demands than mathematics assignments across all three grades, with grade-level patterns differing by subject
 description: Writing assignments made more challenging demands than mathematics assignments across all three grades, with grade-level patterns differing by subject
 id: writing-more-challenging-than-math-assignments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

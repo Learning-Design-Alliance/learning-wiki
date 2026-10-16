@@ -3,7 +3,7 @@ type: claim
 title: "GenAI assistance shows no statistically significant pooled effect on programming learning outcomes (g = 0.14, 95% CI [-0.18, 0.47]), with substantial heterogeneity."
 description: "GenAI assistance shows no statistically significant pooled effect on programming learning outcomes (g = 0.14, 95% CI [-0.18, 0.47]), with substantial heterogeneity."
 id: genai-assistance-no-significant-learning-outcome-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

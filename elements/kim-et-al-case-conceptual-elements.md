@@ -3,7 +3,7 @@ type: element
 id: kim-et-al-case-conceptual-elements
 title: "Structured problem cases built on Kim et al.'s four conceptual elements (content, structure, attributes, process)"
 description: The instructional tool of the model is the well-constructed problem case, built using the conceptual structure of Kim, Phillips, Pinsky, Brock, Phillips and Keary (2006).
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

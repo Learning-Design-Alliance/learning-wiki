@@ -3,7 +3,7 @@ type: claim
 title: TTI was more cost-effective than similar teacher-transfer incentive interventions
 description: TTI was more cost-effective than similar teacher-transfer incentive interventions
 id: tti-more-cost-effective-than-similar-interventions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

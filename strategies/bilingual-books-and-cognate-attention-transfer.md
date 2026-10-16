@@ -3,7 +3,7 @@ type: strategy
 id: bilingual-books-and-cognate-attention-transfer
 title: Use bilingual literacy projects and cross-language comparison (bilingual books, cognates) to foster transfer between languages
 description: "To work for transfer of conceptual knowledge and language awareness across a student's two languages, Cummins recommends concrete activities: have grade 1 and 2 students write, illustrate, and publish bilingual books,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

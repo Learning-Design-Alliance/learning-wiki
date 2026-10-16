@@ -3,7 +3,7 @@ type: claim
 title: AI-assisted journal entries show higher lexical diversity and more emotion-word usage than unassisted entries
 description: AI-assisted journal entries show higher lexical diversity and more emotion-word usage than unassisted entries
 id: ai-questions-deepen-reflective-writing-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

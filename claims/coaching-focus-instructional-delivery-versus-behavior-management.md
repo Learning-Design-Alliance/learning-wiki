@@ -3,7 +3,7 @@ type: claim
 title: "Coaching time focused on instructional delivery improves coached teachers' practices, while time focused on behavioral management is associated with a significant decrease in practice quality"
 description: "Coaching time focused on instructional delivery improves coached teachers' practices, while time focused on behavioral management is associated with a significant decrease in practice quality"
 id: coaching-focus-instructional-delivery-versus-behavior-management
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

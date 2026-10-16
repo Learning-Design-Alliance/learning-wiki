@@ -3,7 +3,7 @@ type: claim
 title: Female students reported lower challenge emotions than male students after controlling for other variables
 description: Female students reported lower challenge emotions than male students after controlling for other variables
 id: female-lower-challenge-emotions-genai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

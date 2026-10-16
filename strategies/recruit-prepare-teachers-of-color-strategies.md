@@ -3,7 +3,7 @@ type: strategy
 id: recruit-prepare-teachers-of-color-strategies
 title: Recruit and prepare teachers of color through scholarships, Grow Your Own grants, bias-free licensure, partnerships, and leadership pipelines
 description: "The brief's Goals 3 and 4 lay out recruitment and preparation strategies: invest in scholarship and loan forgiveness programs attracting students of color; adopt program approval standards that compel programs to recr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

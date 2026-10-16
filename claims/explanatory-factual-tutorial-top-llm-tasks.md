@@ -3,7 +3,7 @@ type: claim
 title: Explanatory inquiries, factual queries, and tutorial requests are the most frequent LLM learning tasks
 description: Explanatory inquiries, factual queries, and tutorial requests are the most frequent LLM learning tasks
 id: explanatory-factual-tutorial-top-llm-tasks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

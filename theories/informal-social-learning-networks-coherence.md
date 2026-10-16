@@ -2,7 +2,7 @@
 type: theory
 title: Informal social learning networks as the coordinating mechanism of systemwide improvement
 description: "The book proposes that coherence in Chicago's district reform did not come from formal mandates alone but from informal social learning networks operating across the system."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Thirty percent of PCC teacher education students seeking an associate's degree graduated on time within two years"
 description: "Thirty percent of PCC teacher education students seeking an associate's degree graduated on time within two years"
 id: pcc-teacher-education-thirty-percent-ontime-graduation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

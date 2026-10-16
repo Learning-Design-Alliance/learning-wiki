@@ -3,7 +3,7 @@ type: strategy
 id: restorative-inclusive-safety-structures
 title: Build safety and belonging by detracking, offering low-barrier extracurriculars, and implementing restorative approaches in place of exclusionary discipline
 description: "The brief recommends that secondary schools replace structures that segregate and separate students with three alternatives: detracking into heterogeneous learning opportunities, varied and enriching extracurriculars..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

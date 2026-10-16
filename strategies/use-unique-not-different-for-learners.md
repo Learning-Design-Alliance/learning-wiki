@@ -3,7 +3,7 @@ type: strategy
 id: use-unique-not-different-for-learners
 title: "Use 'unique' rather than 'different' when describing diverse learners"
 description: "A concrete language practice for teachers and scholars: replace the comparative descriptor 'different' with 'unique' when portraying learners."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

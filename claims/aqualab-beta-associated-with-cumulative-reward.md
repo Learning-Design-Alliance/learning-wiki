@@ -3,7 +3,7 @@ type: claim
 title: In AQUALAB gameplay logs, the estimated RLMM person parameter is positively associated with cumulative trajectory reward (Pearson 0.5842, Spearman 0.5760)
 description: In AQUALAB gameplay logs, the estimated RLMM person parameter is positively associated with cumulative trajectory reward (Pearson 0.5842, Spearman 0.5760)
 id: aqualab-beta-associated-with-cumulative-reward
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

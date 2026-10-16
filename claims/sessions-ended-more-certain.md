@@ -3,7 +3,7 @@ type: claim
 title: Contrary to expectations, agent-led reflection sessions typically ended with participants sounding more certain of their plans than when they started
 description: Contrary to expectations, agent-led reflection sessions typically ended with participants sounding more certain of their plans than when they started
 id: sessions-ended-more-certain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

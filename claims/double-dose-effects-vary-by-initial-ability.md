@@ -3,7 +3,7 @@ type: claim
 title: "Policy effects on grades and failure rates differed by incoming ability: most below-norm students' grades improved slightly, but the very lowest-ability students' algebra grades declined"
 description: "Policy effects on grades and failure rates differed by incoming ability: most below-norm students' grades improved slightly, but the very lowest-ability students' algebra grades declined"
 id: double-dose-effects-vary-by-initial-ability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Target Teach schools improved in all tested subjects, not only the aligned reading tests, suggesting factors beyond test alignment contributed
 description: Target Teach schools improved in all tested subjects, not only the aligned reading tests, suggesting factors beyond test alignment contributed
 id: target-teach-gains-across-all-subjects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

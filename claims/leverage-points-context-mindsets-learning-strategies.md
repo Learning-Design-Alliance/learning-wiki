@@ -3,7 +3,7 @@ type: claim
 title: Best leverage points for improving performance lie in teacher strategies for classroom context, mindsets, and learning strategies
 description: Best leverage points for improving performance lie in teacher strategies for classroom context, mindsets, and learning strategies
 id: leverage-points-context-mindsets-learning-strategies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

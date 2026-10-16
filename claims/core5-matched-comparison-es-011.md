@@ -3,7 +3,7 @@ type: claim
 title: Core5 students in grades 3-5 showed significantly larger reading achievement gains than a matched comparison group (ES = +0.11)
 description: Core5 students in grades 3-5 showed significantly larger reading achievement gains than a matched comparison group (ES = +0.11)
 id: core5-matched-comparison-es-011
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

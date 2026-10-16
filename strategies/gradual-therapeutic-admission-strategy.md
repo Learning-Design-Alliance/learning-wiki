@@ -3,7 +3,7 @@ type: strategy
 id: gradual-therapeutic-admission-strategy
 title: Conduct admissions as a gradual therapeutic process examining needs, forming relationships, involving supports, and celebrating arrival
 description: This strategy replaces the brief procedural intake with a phased, therapeutic admission.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: strategy
 id: coordinated-enrollment-mixed-delivery
 title: Support coordinated enrollment across the mixed delivery system to ensure family choice and provider stability
 description: "The report recommends that states organize recruitment, outreach, and enrollment — \"coordinated enrollment\" — so families can find settings that meet their needs."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

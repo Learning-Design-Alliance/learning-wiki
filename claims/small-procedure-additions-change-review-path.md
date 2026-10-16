@@ -3,7 +3,7 @@ type: claim
 title: Small additions of research-specific procedures can shift a study out of exempt review
 description: Small additions of research-specific procedures can shift a study out of exempt review
 id: small-procedure-additions-change-review-path
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

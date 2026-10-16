@@ -3,7 +3,7 @@ type: claim
 title: On-track gains were largest for students with the lowest incoming skills and for African American males
 description: On-track gains were largest for students with the lowest incoming skills and for African American males
 id: on-track-gains-largest-for-lowest-skills-and-black-males
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

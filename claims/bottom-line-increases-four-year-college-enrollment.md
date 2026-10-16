@@ -3,7 +3,7 @@ type: claim
 title: Bottom Line increases enrollment in a four-year college among low-income high school students
 description: Bottom Line increases enrollment in a four-year college among low-income high school students
 id: bottom-line-increases-four-year-college-enrollment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

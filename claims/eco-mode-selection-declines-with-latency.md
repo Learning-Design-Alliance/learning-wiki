@@ -3,7 +3,7 @@ type: claim
 title: "Eco-mode selection in an LLM interface declines sharply as response latency increases, dropping from about 45% of interactions in eco mode 1 to below 5% in eco mode 5"
 description: "Eco-mode selection in an LLM interface declines sharply as response latency increases, dropping from about 45% of interactions in eco mode 1 to below 5% in eco mode 5"
 id: eco-mode-selection-declines-with-latency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

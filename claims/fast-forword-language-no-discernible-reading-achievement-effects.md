@@ -3,7 +3,7 @@ type: claim
 title: Fast ForWord Language shows no discernible effects on reading achievement of elementary school English language learners
 description: Fast ForWord Language shows no discernible effects on reading achievement of elementary school English language learners
 id: fast-forword-language-no-discernible-reading-achievement-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

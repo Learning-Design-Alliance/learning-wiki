@@ -3,7 +3,7 @@ type: strategy
 id: workshops-training-mall-familiarization
 title: Use workshops and training sessions to familiarize students and educators with MALL and foster independence
 description: "The article recommends structured familiarization activities to support MALL adoption: \"Initiatives such as workshops and training sessions can familiarize both students and educators with MALL, promoting regular use..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

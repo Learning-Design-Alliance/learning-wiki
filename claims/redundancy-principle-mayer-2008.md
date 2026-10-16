@@ -3,7 +3,7 @@ type: claim
 title: "Redundancy principle: animation plus narration beats animation, narration, and on-screen text for transfer"
 description: "Redundancy principle: animation plus narration beats animation, narration, and on-screen text for transfer"
 id: redundancy-principle-mayer-2008
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

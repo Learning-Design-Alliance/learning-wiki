@@ -3,7 +3,7 @@ type: strategy
 id: position-genai-as-collaborator-for-full-metacognitive-chain
 title: Design GenAI learning activities that position GenAI as a collaborator to support the full metacognitive chain
 description: "The article's findings motivate designing tasks in which students exchange ideas with GenAI and build on its input rather than outsourcing work to it."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

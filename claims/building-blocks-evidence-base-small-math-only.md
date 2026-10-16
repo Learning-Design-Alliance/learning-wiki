@@ -3,7 +3,7 @@ type: claim
 title: The evidence base for Building Blocks for Math is small and limited to the math domain
 description: The evidence base for Building Blocks for Math is small and limited to the math domain
 id: building-blocks-evidence-base-small-math-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

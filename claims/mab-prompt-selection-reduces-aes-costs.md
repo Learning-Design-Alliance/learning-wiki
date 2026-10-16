@@ -3,7 +3,7 @@ type: claim
 title: "A multi-armed bandit controller achieves scoring accuracy comparable to exhaustive grid search while reducing LLM calls by 78.4% and token consumption by 72.8%"
 description: "A multi-armed bandit controller achieves scoring accuracy comparable to exhaustive grid search while reducing LLM calls by 78.4% and token consumption by 72.8%"
 id: mab-prompt-selection-reduces-aes-costs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

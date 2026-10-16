@@ -3,7 +3,7 @@ type: claim
 title: Teachers in CHSRI schools reported statistically significantly higher perceptions of trust and collaboration than teachers in non-CHSRI schools
 description: Teachers in CHSRI schools reported statistically significantly higher perceptions of trust and collaboration than teachers in non-CHSRI schools
 id: chrsi-teachers-higher-trust-collaboration-survey
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

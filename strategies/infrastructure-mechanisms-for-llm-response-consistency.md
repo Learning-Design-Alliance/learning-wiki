@@ -3,7 +3,7 @@ type: strategy
 id: infrastructure-mechanisms-for-llm-response-consistency
 title: Build infrastructure-level mechanisms to monitor, benchmark, and control LLM response behavior across model transitions in conversation-based assessment
 description: The article recommends treating response consistency in conversation-based assessment as an infrastructure challenge rather than a prompt-engineering challenge.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Field trip effects on science achievement are largest for Hispanic students and students qualifying for free or reduced-price lunch
 description: Field trip effects on science achievement are largest for Hispanic students and students qualifying for free or reduced-price lunch
 id: field-trip-effects-largest-hispanic-frpl-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

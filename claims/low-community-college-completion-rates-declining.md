@@ -3,7 +3,7 @@ type: claim
 title: Community college credential completion rates are low and have slightly declined, with markedly lower rates for black and Hispanic students
 description: Community college credential completion rates are low and have slightly declined, with markedly lower rates for black and Hispanic students
 id: low-community-college-completion-rates-declining
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

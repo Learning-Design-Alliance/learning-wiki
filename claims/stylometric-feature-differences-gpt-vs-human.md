@@ -3,7 +3,7 @@ type: claim
 title: GPT-assisted writing shows higher lexical diversity, richness, and noun/non-stopword ratios, while independently authored writing shows higher adverb ratio and sentence-length variability
 description: GPT-assisted writing shows higher lexical diversity, richness, and noun/non-stopword ratios, while independently authored writing shows higher adverb ratio and sentence-length variability
 id: stylometric-feature-differences-gpt-vs-human
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

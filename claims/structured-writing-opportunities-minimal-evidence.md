@@ -3,7 +3,7 @@ type: claim
 title: Structured opportunities to develop written language skills carry only minimal evidence, resting on two secondary-level studies
 description: Structured opportunities to develop written language skills carry only minimal evidence, resting on two secondary-level studies
 id: structured-writing-opportunities-minimal-evidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Facebook is used in myriad ways as an educational instrument for learning and teaching in higher education
 description: Facebook is used in myriad ways as an educational instrument for learning and teaching in higher education
 id: facebook-myriad-educational-uses-higher-education
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

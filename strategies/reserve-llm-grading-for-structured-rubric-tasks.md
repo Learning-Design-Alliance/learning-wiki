@@ -3,7 +3,7 @@ type: strategy
 id: reserve-llm-grading-for-structured-rubric-tasks
 title: Reserve LLM grading for short, well-structured tasks with explicit rubrics or exemplar answers, newer models, and stable API pipelines
 description: "The review identifies the conditions under which agreement with human grades was strongest: \"when tasks were short, tightly structured, and written in English; when models received detailed rubrics or exemplar answers..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: "Meta-analytic evidence finds large positive effects of coaching on teachers' instructional practice and a meaningful positive impact on student achievement, with mixed results on model features"
 description: "Meta-analytic evidence finds large positive effects of coaching on teachers' instructional practice and a meaningful positive impact on student achievement, with mixed results on model features"
 id: coaching-meta-analysis-positive-effects-instruction-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

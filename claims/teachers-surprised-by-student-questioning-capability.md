@@ -3,7 +3,7 @@ type: claim
 title: Teachers reported that trusting students to generate and pursue their own questions worked better than expected and revealed new student capabilities and gaps
 description: Teachers reported that trusting students to generate and pursue their own questions worked better than expected and revealed new student capabilities and gaps
 id: teachers-surprised-by-student-questioning-capability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Elementary schools with clusters of three or more NBCTs demonstrate greater strength on 7 of 12 essential supports measures
 description: Elementary schools with clusters of three or more NBCTs demonstrate greater strength on 7 of 12 essential supports measures
 id: nbct-clusters-elementary-stronger-essential-supports
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

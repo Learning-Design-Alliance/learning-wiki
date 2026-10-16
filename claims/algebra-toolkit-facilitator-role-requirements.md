@@ -3,7 +3,7 @@ type: claim
 title: Each toolkit PLC requires one facilitator who leads sessions and supports educators between them
 description: Each toolkit PLC requires one facilitator who leads sessions and supports educators between them
 id: algebra-toolkit-facilitator-role-requirements
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

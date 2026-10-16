@@ -3,7 +3,7 @@ type: claim
 title: Rapid-guessing behavior on an adaptive achievement test is inconsistent with most proposed models of unmotivated test taking except the effort-moderated model
 description: Rapid-guessing behavior on an adaptive achievement test is inconsistent with most proposed models of unmotivated test taking except the effort-moderated model
 id: rapid-guessing-inconsistent-with-unmotivated-models-except-effort-moderated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

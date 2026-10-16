@@ -3,7 +3,7 @@ type: strategy
 id: principled-data-mining-use-strategy
 title: Use data mining in education research in a principled, goal-driven way informed by domain knowledge
 description: "The article's implications section recommends that researchers \"be principled in their use of this approach\": methods and interpretation should be informed by what is known in the field, the specific objective (predic..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

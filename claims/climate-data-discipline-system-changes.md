@@ -3,7 +3,7 @@ type: claim
 title: "School climate data supported changes to the three schools' discipline systems"
 description: "School climate data supported changes to the three schools' discipline systems"
 id: climate-data-discipline-system-changes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: state-civil-rights-reform-package
 title: "State reforms: comprehensive discrimination prohibitions, constitutional entrenchment, enforcement capacity, and strengthened state rights to education"
 description: "The report recommends states adopt \"a far-reaching prohibition of education discrimination that covers all types of discrimination and discrimination in all facets of education,\" develop definitions covering disparate..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

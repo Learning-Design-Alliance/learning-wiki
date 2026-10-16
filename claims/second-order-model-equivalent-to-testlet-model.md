@@ -3,7 +3,7 @@ type: claim
 title: The second-order multidimensional IRT model for testlets is formally equivalent to the testlet model, and both are restricted bifactor models
 description: The second-order multidimensional IRT model for testlets is formally equivalent to the testlet model, and both are restricted bifactor models
 id: second-order-model-equivalent-to-testlet-model
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

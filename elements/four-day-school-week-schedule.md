@@ -3,7 +3,7 @@ type: element
 id: four-day-school-week-schedule
 title: Four-day school week schedule
 description: A school schedule in which the instructional week is compressed into four days instead of five, adopted by school districts as an alternative calendar arrangement.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

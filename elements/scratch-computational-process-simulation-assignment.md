@@ -3,7 +3,7 @@ type: element
 id: scratch-computational-process-simulation-assignment
 title: "Scratch-based summative assignment: define, simulate, and reflect on a computational process in one's own subject"
 description: The examined artifact is a course summative assignment in which prospective teachers apply conceptual and practical CT knowledge in Scratch, chosen for its block-based, visual interface suited to novices.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

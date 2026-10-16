@@ -3,7 +3,7 @@ type: design
 id: iterative-tpack-design-practice-cycle
 title: Iterative TPACK design-practice cycle with feedback, revision, micro-teaching, and reflection
 description: A reusable instructional pattern in which design practice is completed through repeated cycles.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

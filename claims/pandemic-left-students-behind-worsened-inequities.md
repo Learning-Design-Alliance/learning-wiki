@@ -3,7 +3,7 @@ type: claim
 title: Pandemic-era findings support the theory that COVID-19 left students behind academically across the board while worsening existing educational inequities
 description: Pandemic-era findings support the theory that COVID-19 left students behind academically across the board while worsening existing educational inequities
 id: pandemic-left-students-behind-worsened-inequities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

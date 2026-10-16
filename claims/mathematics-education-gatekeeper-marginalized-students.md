@@ -3,7 +3,7 @@ type: claim
 title: Mathematics education acts as a gatekeeper to academic opportunity that disproportionately affects students from historically marginalized communities
 description: Mathematics education acts as a gatekeeper to academic opportunity that disproportionately affects students from historically marginalized communities
 id: mathematics-education-gatekeeper-marginalized-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

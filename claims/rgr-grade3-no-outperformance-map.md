@@ -3,7 +3,7 @@ type: claim
 title: Grade 3 Really Great Reading students did not outperform non-users on the winter NWEA MAP administration
 description: Grade 3 Really Great Reading students did not outperform non-users on the winter NWEA MAP administration
 id: rgr-grade3-no-outperformance-map
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

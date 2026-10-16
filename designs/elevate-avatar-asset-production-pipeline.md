@@ -3,7 +3,7 @@ type: design
 id: elevate-avatar-asset-production-pipeline
 title: Five-stage game-ready asset production pipeline for a pedagogically controlled 3D Virtual Teacher avatar
 description: "The prototype's Virtual Teacher avatar was manually authored rather than sourced from a pre-packaged library, to give pedagogical control over appearance and expressive affordances."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

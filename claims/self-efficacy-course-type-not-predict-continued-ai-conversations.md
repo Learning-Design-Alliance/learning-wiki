@@ -3,7 +3,7 @@ type: claim
 title: "Neither self-efficacy nor course type statistically predicted students' decisions to continue ChatGPT feedback conversations"
 description: "Neither self-efficacy nor course type statistically predicted students' decisions to continue ChatGPT feedback conversations"
 id: self-efficacy-course-type-not-predict-continued-ai-conversations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

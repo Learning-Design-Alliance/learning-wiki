@@ -3,7 +3,7 @@ type: strategy
 id: measure-3us-during-development-and-early-implementation
 title: Measure usability, usefulness, and utilization during development and early implementation
 description: "The guide recommends timing 3Us measurement early: it states that understanding the three indicators \"is critical for implementing organizations and their funders, especially during development and early implementatio..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

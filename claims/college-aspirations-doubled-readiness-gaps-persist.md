@@ -3,7 +3,7 @@ type: claim
 title: College aspirations doubled between 1980 and 2002 while readiness and completion gaps by race, ethnicity, and income persisted or widened
 description: College aspirations doubled between 1980 and 2002 while readiness and completion gaps by race, ethnicity, and income persisted or widened
 id: college-aspirations-doubled-readiness-gaps-persist
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Elementary schools in Math in Common districts exceeded predicted CAASPP mathematics performance at significantly higher rates than other California schools between 2016 and 2018
 description: Elementary schools in Math in Common districts exceeded predicted CAASPP mathematics performance at significantly higher rates than other California schools between 2016 and 2018
 id: mic-elementary-schools-exceed-predicted-caaspp
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

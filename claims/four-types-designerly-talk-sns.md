@@ -3,7 +3,7 @@ type: claim
 title: "Four types of designerly talk manifest in student-managed social network spaces: tool selection, professional identity, skill-sharing coordination, and ethical design discussion"
 description: "Four types of designerly talk manifest in student-managed social network spaces: tool selection, professional identity, skill-sharing coordination, and ethical design discussion"
 id: four-types-designerly-talk-sns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

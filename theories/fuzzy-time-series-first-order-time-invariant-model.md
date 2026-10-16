@@ -2,7 +2,7 @@
 type: theory
 title: Fuzzy time series and its first-order time-invariant model
 description: The article defines a fuzzy time series as a sequence of fuzzy sets F(t) defined on the universe of a conventional time series Y(t).
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

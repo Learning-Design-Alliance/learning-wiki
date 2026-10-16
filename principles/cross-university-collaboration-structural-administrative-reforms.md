@@ -3,7 +3,7 @@ type: principle
 id: cross-university-collaboration-structural-administrative-reforms
 title: Cross-university collaborations should work toward centralized communication channels, transparent hierarchies, and accessible information systems, anticipating structural silos
 description: Institutions delivering shared cross-university courses face structural barriers from siloed education decision-making within and between universities, which hinders collaboration, communication, and streamlined decis...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

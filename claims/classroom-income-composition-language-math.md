@@ -3,7 +3,7 @@ type: claim
 title: "Children's language and math outcomes improve as average classroom income and socioeconomic diversity increase"
 description: "Children's language and math outcomes improve as average classroom income and socioeconomic diversity increase"
 id: classroom-income-composition-language-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

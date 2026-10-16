@@ -3,7 +3,7 @@ type: claim
 title: Students in the mathematics and data science course rated acceptance of the AI tool higher on average than students in the biology course
 description: Students in the mathematics and data science course rated acceptance of the AI tool higher on average than students in the biology course
 id: math-course-higher-ai-acceptance-than-biology
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

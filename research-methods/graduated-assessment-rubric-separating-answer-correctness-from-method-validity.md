@@ -3,7 +3,7 @@ type: research-method
 id: graduated-assessment-rubric-separating-answer-correctness-from-method-validity
 title: Graduated assessment rubric separating answer correctness from method validity
 description: The rubric adapts the mathematical assessment distinction between the answer mark (correct output) and the method mark (valid reasoning) to automated diagnosis.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

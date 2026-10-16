@@ -3,7 +3,7 @@ type: claim
 title: "The type of label used (person-first, 'sex offender', diagnostic, or offence-specific) does not significantly affect public perceptions of individuals who sexually offend"
 description: "The type of label used (person-first, 'sex offender', diagnostic, or offence-specific) does not significantly affect public perceptions of individuals who sexually offend"
 id: label-type-no-effect-public-perceptions-sexual-offenders
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

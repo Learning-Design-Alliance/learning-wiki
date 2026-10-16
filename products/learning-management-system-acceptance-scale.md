@@ -4,7 +4,7 @@ id: learning-management-system-acceptance-scale
 title: Learning Management System Acceptance Scale
 description: The LMSAS is a self-report scale developed by Sezer and Yilmaz to measure learning management system acceptance across performance expectancy, effort expectancy, facilitating conditions, and social influence.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

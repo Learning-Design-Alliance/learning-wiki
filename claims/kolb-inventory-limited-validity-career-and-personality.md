@@ -3,7 +3,7 @@ type: claim
 title: "Kolb's inventory showed no association with medical career choices, and its personality-type predictions were contradicted"
 description: "Kolb's inventory showed no association with medical career choices, and its personality-type predictions were contradicted"
 id: kolb-inventory-limited-validity-career-and-personality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

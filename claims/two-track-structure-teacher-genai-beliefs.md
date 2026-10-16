@@ -3,7 +3,7 @@ type: claim
 title: "Predictors of positive GenAI beliefs explain only 6–7% of variance in plagiarism and creativity concerns, indicating a two-track belief structure"
 description: "Predictors of positive GenAI beliefs explain only 6–7% of variance in plagiarism and creativity concerns, indicating a two-track belief structure"
 id: two-track-structure-teacher-genai-beliefs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

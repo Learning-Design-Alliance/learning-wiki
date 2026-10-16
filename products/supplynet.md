@@ -4,7 +4,7 @@ id: supplynet
 title: SupplyNet
 description: SupplyNet is a gamified visual simulation system developed by Yanjia Li et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

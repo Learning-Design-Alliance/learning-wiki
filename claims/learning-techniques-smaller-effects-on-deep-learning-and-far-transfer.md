@@ -3,7 +3,7 @@ type: claim
 title: "Learning techniques have much smaller effects on deep learning and far transfer than on surface learning and near transfer"
 description: "Effects were d = 0.60 on surface outcomes (1,473 effects) against 0.26 on deep outcomes (109 effects), and 0.61 on near transfer against 0.39 on far transfer; most studies measured surface or factual outcomes."
 id: learning-techniques-smaller-effects-on-deep-learning-and-far-transfer
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-10-13

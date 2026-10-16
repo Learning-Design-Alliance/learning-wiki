@@ -3,7 +3,7 @@ type: claim
 title: Larger CPS high schools were consistently more likely to offer CS courses than smaller schools in both 2012 and 2018
 description: Larger CPS high schools were consistently more likely to offer CS courses than smaller schools in both 2012 and 2018
 id: school-size-cs-offering-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

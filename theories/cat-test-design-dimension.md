@@ -2,7 +2,7 @@
 type: theory
 title: Computerized adaptive test (CAT) designs as a test-design dimension affecting coverage and efficiency
 description: "Computerized adaptive test (CAT) designs are treated in the article as a test-design dimension whose choices, together with item bank distribution, shape two outcomes of a reading comprehension assessment: content cov..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

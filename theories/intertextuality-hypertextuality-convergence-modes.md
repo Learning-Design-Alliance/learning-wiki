@@ -2,7 +2,7 @@
 type: theory
 title: Intertextuality and hypertextuality as twin modes of convergence operationalizing online education
 description: The article treats intertextuality—words and texts always interacting and effectuating new semiotic realities—as a synonym for integration, reciprocity, and structural unboundedness, and a philosophy of learning descr...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -50,4 +50,4 @@ The article treats intertextuality—words and texts always interacting and effe
 -
 
 ## Key Sources
-- Dennis, J. (2022). (Re)Framing Our Frames: Architectonics, Intertextuality, and the Scholarship of Integration in Online Education. Canadian Journal of Learning and Technology, 48(2). https://www.cjlt.ca
+- Dennis, J. (2022). (Re)Framing Our Frames: Architectonics, Intertextuality, and the Scholarship of Integration in Online Education. Canadian Journal of Learning and Technology, 48(2). https://www.cjlt.ca. [doi:10.21432/cjlt28123](https://doi.org/10.21432/cjlt28123)

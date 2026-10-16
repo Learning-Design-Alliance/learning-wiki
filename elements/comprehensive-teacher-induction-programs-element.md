@@ -3,7 +3,7 @@ type: element
 id: comprehensive-teacher-induction-programs-element
 title: Comprehensive teacher induction programs (full-time trained mentors plus structured support curriculum)
 description: "The article describes comprehensive teacher induction as a support model for novice teachers in which \"comprehensive teacher induction provides novice teachers with carefully selected and trained full-time mentors, as..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

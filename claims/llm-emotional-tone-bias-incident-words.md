@@ -3,7 +3,7 @@ type: claim
 title: "A general-purpose LLM assessing team emails' emotional tone was biased toward interpreting messages as anxiety-related only"
 description: "A general-purpose LLM assessing team emails' emotional tone was biased toward interpreting messages as anxiety-related only"
 id: llm-emotional-tone-bias-incident-words
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Early childhood education attendance is associated with higher high school completion, college attendance, and employment
 description: Early childhood education attendance is associated with higher high school completion, college attendance, and employment
 id: ece-higher-completion-college-employment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

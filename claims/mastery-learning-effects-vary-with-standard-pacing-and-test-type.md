@@ -3,7 +3,7 @@ type: claim
 title: "Mastery learning effects are larger with a higher mastery standard, group-based pacing, local tests, and less feedback for the comparison group"
 description: "In a multiple regression over 103 studies, larger effects went with group-based rather than self-paced programs, higher unit mastery standards, locally developed rather than standardized criterion tests, and comparison groups that received less quiz feedback; social-science courses showed larger effects than mathematics and natural science."
 id: mastery-learning-effects-vary-with-standard-pacing-and-test-type
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-10-13

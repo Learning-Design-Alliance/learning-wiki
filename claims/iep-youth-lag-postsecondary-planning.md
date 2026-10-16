@@ -3,7 +3,7 @@ type: claim
 title: Youth with an IEP lag their peers in planning and taking steps to obtain postsecondary education and jobs
 description: Youth with an IEP lag their peers in planning and taking steps to obtain postsecondary education and jobs
 id: iep-youth-lag-postsecondary-planning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Austin charter students in poverty outperformed Austin district students in poverty in reading, with a non-significant math advantage
 description: Austin charter students in poverty outperformed Austin district students in poverty in reading, with a non-significant math advantage
 id: austin-charter-poverty-students-outperform-district-peers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

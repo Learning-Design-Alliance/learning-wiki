@@ -3,7 +3,7 @@ type: claim
 title: Systematic demographic differences in available fall 2020 assessment data suggest COVID-19 impacts on the most vulnerable students may be underestimated
 description: Systematic demographic differences in available fall 2020 assessment data suggest COVID-19 impacts on the most vulnerable students may be underestimated
 id: covid-impact-vulnerable-students-may-be-underestimated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

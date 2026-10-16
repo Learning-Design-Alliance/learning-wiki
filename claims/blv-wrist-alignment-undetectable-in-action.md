@@ -3,7 +3,7 @@ type: claim
 title: Learners with BLV often cannot feel whether their wrist is straight while playing and discover misalignment only when someone else observes them
 description: Learners with BLV often cannot feel whether their wrist is straight while playing and discover misalignment only when someone else observes them
 id: blv-wrist-alignment-undetectable-in-action
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Back-translation yields higher human agreement on spatial checks, while LLM-as-a-Judge considerably outperforms it on the angle-label check
 description: Back-translation yields higher human agreement on spatial checks, while LLM-as-a-Judge considerably outperforms it on the angle-label check
 id: checkwise-backtranslation-spatial-strong-angle-weak
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

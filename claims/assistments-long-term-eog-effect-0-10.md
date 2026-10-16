@@ -3,7 +3,7 @@ type: claim
 title: ASSISTments use in seventh grade produces a statistically significant long-term math achievement effect of 0.10 SD one year after implementation ends
 description: ASSISTments use in seventh grade produces a statistically significant long-term math achievement effect of 0.10 SD one year after implementation ends
 id: assistments-long-term-eog-effect-0-10
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

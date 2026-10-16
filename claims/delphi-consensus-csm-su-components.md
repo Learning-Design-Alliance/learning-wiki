@@ -3,7 +3,7 @@ type: claim
 title: "Delphi experts reached 80% or higher consensus on all major CSM-SU components"
 description: "Delphi experts reached 80% or higher consensus on all major CSM-SU components"
 id: delphi-consensus-csm-su-components
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

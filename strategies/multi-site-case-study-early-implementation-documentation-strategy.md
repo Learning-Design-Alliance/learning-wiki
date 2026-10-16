@@ -3,7 +3,7 @@ type: strategy
 id: multi-site-case-study-early-implementation-documentation-strategy
 title: Use multi-site case studies to document early implementation of community support programs
 description: For place-based programs in early implementation, the article models the use of qualitative case studies of a subset of sites to capture design decisions, service choices, and early challenges before outcome evaluatio...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: The exam playbook intervention showed no statistically significant treatment-effect differences by gender, race, class standing, or prior performance
 description: The exam playbook intervention showed no statistically significant treatment-effect differences by gender, race, class standing, or prior performance
 id: exam-playbook-no-subgroup-treatment-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

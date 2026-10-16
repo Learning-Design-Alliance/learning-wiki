@@ -3,7 +3,7 @@ type: strategy
 id: el-classification-training-committees-parent-interviews
 title: Use trained staff, parent interviews, and EL classification committees to reduce initial EL misclassifications
 description: Participants attributed inconsistencies leading to misclassification to lack of guidance, lack of training, and lack of expertise.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

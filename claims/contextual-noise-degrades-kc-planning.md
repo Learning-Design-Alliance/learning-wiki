@@ -3,7 +3,7 @@ type: claim
 title: Contextual noise from irrelevant textbooks broadly degrades KC planning, most in Validity and Efficiency
 description: Contextual noise from irrelevant textbooks broadly degrades KC planning, most in Validity and Efficiency
 id: contextual-noise-degrades-kc-planning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

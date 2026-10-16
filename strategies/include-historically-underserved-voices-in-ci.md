@@ -3,7 +3,7 @@ type: strategy
 id: include-historically-underserved-voices-in-ci
 title: Include historically underserved voices in all stages of continuous improvement work, including designing solutions
 description: Interviewees argued that those directly impacted by the system should be involved in all stages of improvement work, beyond being subjects of empathy interviews.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

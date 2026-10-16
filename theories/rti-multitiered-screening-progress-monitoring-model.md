@@ -2,7 +2,7 @@
 type: theory
 title: Response-to-intervention multitiered support model with universal screening and progress monitoring as its assessment components
 description: "The article describes the response-to-intervention (RTI) model as a multitiered framework for student support aimed at early identification of struggling students, typically with three tiers: Tier 3 is the most intens..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

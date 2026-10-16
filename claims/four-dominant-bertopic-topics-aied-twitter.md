@@ -3,7 +3,7 @@ type: claim
 title: "Topic modelling yielded 16 topics dominated by four: AI in Education & Pedagogy (39.43%), Applied ML & Data Science (21.33%), AI Ethics Risk & Governance (20.83%), and ChatGPT for Teaching, Writing & Coding (7.13%)"
 description: "Topic modelling yielded 16 topics dominated by four: AI in Education & Pedagogy (39.43%), Applied ML & Data Science (21.33%), AI Ethics Risk & Governance (20.83%), and ChatGPT for Teaching, Writing & Coding (7.13%)"
 id: four-dominant-bertopic-topics-aied-twitter
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

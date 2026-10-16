@@ -69,7 +69,7 @@ Retelling is a generative task: reconstructing a text from memory requires the l
 - [Story retelling with familiar picture books to practice sequencing](story-retelling-sequencing-familiar-books.md)
 
 ## Examples
-- **Reading Recovery** — each lesson ends with the child retelling a newly read book while the teacher records the retell on a running record, using omissions to select the next teaching point.
+- **[Reading Recovery](../products/reading-recovery.md)** — each lesson ends with the child retelling a newly read book while the teacher records the retell on a running record, using omissions to select the next teaching point.
 - **DIBELS Oral Reading Retell** — standardized retell scoring (words recalled per idea) used for progress monitoring in U.S. elementary reading interventions.
 - **Story retelling in bilingual preschool programs** — children retell picture-book stories in both languages, using the story-grammar frame to transfer comprehension across languages.
 

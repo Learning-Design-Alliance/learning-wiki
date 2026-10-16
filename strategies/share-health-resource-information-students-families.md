@@ -3,7 +3,7 @@ type: strategy
 id: share-health-resource-information-students-families
 title: Share information about existing school and community health resources with students and their families, prioritizing youth-friendly resources
 description: Educators are advised to learn about health resources in their schools and communities and share them with students and families.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

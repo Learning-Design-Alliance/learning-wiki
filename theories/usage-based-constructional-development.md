@@ -2,7 +2,7 @@
 type: theory
 title: "Usage-based account of constructional development: from item-based learning to abstract constructions via language experience"
 description: Usage-based approaches explain language development as a gradual process of generalizing constructions through language experience.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

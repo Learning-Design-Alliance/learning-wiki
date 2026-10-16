@@ -3,7 +3,7 @@ type: claim
 title: Students reported significant perceived gains in abstract and critical thinking, with other higher-order thinking effects ambiguous
 description: Students reported significant perceived gains in abstract and critical thinking, with other higher-order thinking effects ambiguous
 id: perceived-higher-order-thinking-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

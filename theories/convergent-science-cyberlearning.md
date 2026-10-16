@@ -2,7 +2,7 @@
 type: theory
 title: "Convergent science: integrating learning sciences and computer science expertise"
 description: "The report defines convergent science as \"an emerging approach to research that integrates different types of expertise and findings from multiple disciplines to address problems,\" with the learning sciences and compu..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

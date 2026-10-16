@@ -3,7 +3,7 @@ type: claim
 title: Elevated detector scores track long-token and Academic Word List density, with numeric and non-alphabetic token ratios correlating negatively
 description: Elevated detector scores track long-token and Academic Word List density, with numeric and non-alphabetic token ratios correlating negatively
 id: detector-scores-track-long-token-and-awl-density
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: research-method
 id: worsley-et-als-twelve-commitments-for-high-quality-mmla-research
 title: "Worsley et al.'s twelve commitments for high-quality MMLA research"
 description: "The review adopts Worsley et al.'s (2021) framework of \"12 commitments for conducting high-quality MMLA research, which are grouped into three major categories: 1) data collection, 2) analysis and inference, and 3) feedback and data dissemination.\" Unlike prior work focusing on a few aspects, the co"
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

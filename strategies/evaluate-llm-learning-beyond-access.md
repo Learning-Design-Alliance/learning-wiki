@@ -3,7 +3,7 @@ type: strategy
 id: evaluate-llm-learning-beyond-access
 title: Evaluate LLM-supported learning beyond binary access by measuring enacted interaction and preserving no-help assessments
 description: "The article recommends that AIED evaluation move beyond binary LLM access by measuring enacted learner–LLM interaction quality and preserving no-help assessments, because \"AI -assisted practice scores may reflect real..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

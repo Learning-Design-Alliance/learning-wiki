@@ -3,7 +3,7 @@ type: claim
 title: Evidence for sustained or clinically meaningful outcomes of AI chatbot coaching is mixed and does not guarantee improvement across outcomes
 description: Evidence for sustained or clinically meaningful outcomes of AI chatbot coaching is mixed and does not guarantee improvement across outcomes
 id: sustained-clinical-outcomes-mixed-ai-coaching
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

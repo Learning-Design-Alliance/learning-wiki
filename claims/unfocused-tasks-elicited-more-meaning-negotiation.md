@@ -3,7 +3,7 @@ type: claim
 title: Unfocused communicative tasks elicit significantly more meaning negotiation than focused tasks among intermediate EFL learners
 description: Unfocused communicative tasks elicit significantly more meaning negotiation than focused tasks among intermediate EFL learners
 id: unfocused-tasks-elicited-more-meaning-negotiation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

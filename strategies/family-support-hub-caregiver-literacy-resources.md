@@ -3,7 +3,7 @@ type: strategy
 id: family-support-hub-caregiver-literacy-resources
 title: Provide accessible caregiver resources and QR-code video lessons to strengthen the school-home literacy connection
 description: The Literacy Packs include a Family Support Hub giving families instructional materials, comprehension prompts, and QR codes linking to short video lessons that model decoding strategies.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

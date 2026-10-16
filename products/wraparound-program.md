@@ -4,7 +4,7 @@ id: wraparound-program
 title: Wraparound program
 description: The Wraparound program is a structured supplemental academic-services programme run by its provider to support academic achievement in a low student-to-teacher-ratio setting.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

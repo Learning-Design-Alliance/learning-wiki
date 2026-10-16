@@ -3,7 +3,7 @@ type: claim
 title: AI-assisted autonomous learning is positively associated with reduced academic accomplishment
 description: AI-assisted autonomous learning is positively associated with reduced academic accomplishment
 id: ai-autonomous-learning-positive-reduced-accomplishment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

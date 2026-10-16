@@ -3,7 +3,7 @@ type: strategy
 id: invest-retain-teachers-of-color
 title: Invest in retention efforts for teachers of color that improve working conditions and provide personal and professional growth opportunities
 description: The third policy lever is to invest in retaining teachers of color through improved working conditions and opportunities for personal and professional growth.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

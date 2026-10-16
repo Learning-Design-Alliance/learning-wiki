@@ -3,7 +3,7 @@ type: claim
 title: Most surveyed job-seeking CS students applied to at least one Big Tech company, with significant subgroup differences in application rates
 description: Most surveyed job-seeking CS students applied to at least one Big Tech company, with significant subgroup differences in application rates
 id: big-tech-application-rates-subgroup-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

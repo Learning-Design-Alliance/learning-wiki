@@ -3,7 +3,7 @@ type: claim
 title: PARCC and MCAS scores show similar validity in predicting college grades for Massachusetts students
 description: PARCC and MCAS scores show similar validity in predicting college grades for Massachusetts students
 id: parcc-mcas-similar-validity-college-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

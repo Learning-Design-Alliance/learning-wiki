@@ -3,7 +3,7 @@ type: strategy
 id: heterogeneous-grouping-adult-cooperative-learning
 title: Assign adult learners to heterogeneous cooperative learning groups mixing ability, ethnicity, gender, perspective, and language
 description: "The report describes how program participants are placed into cooperative learning groups: \"Program participants are placed in cooperative learning groups heterogeneously by the instructors.\" Groups are made up of stu..."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

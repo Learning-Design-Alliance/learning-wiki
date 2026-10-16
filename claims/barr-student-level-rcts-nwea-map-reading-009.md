@@ -3,7 +3,7 @@ type: claim
 title: Two student-level randomized studies in California, Maine, and Minnesota high schools found significant positive impacts on NWEA MAP reading (average effect size +0.09)
 description: Two student-level randomized studies in California, Maine, and Minnesota high schools found significant positive impacts on NWEA MAP reading (average effect size +0.09)
 id: barr-student-level-rcts-nwea-map-reading-009
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

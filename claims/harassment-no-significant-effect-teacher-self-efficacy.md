@@ -3,7 +3,7 @@ type: claim
 title: Workplace harassment did not significantly degrade teacher self-efficacy, plausibly due to a ceiling effect
 description: Workplace harassment did not significantly degrade teacher self-efficacy, plausibly due to a ceiling effect
 id: harassment-no-significant-effect-teacher-self-efficacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

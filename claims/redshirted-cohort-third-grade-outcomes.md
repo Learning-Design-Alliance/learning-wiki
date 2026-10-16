@@ -3,7 +3,7 @@ type: claim
 title: Following the 2021-22 kindergarten cohort through third grade tested whether redshirted students showed academic advantages
 description: Following the 2021-22 kindergarten cohort through third grade tested whether redshirted students showed academic advantages
 id: redshirted-cohort-third-grade-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

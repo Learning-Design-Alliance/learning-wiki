@@ -3,7 +3,7 @@ type: claim
 title: "Direct Instruction schools' ratings rose significantly only when the program was fully supported with training and coaching"
 description: "Direct Instruction schools' ratings rose significantly only when the program was fully supported with training and coaching"
 id: direct-instruction-gains-depend-on-implementation-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

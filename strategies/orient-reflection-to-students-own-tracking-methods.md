@@ -3,7 +3,7 @@ type: strategy
 id: orient-reflection-to-students-own-tracking-methods
 title: "Orient students' reflection onto their own tracking methods to foster monitoring of goal-directed counting"
 description: "This teaching strategy has the teacher-researcher mirror and describe the student's own counting gestures back to him, prompting recognition of errors in the unit-rate count."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

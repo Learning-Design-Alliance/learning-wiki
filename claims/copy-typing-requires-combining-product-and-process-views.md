@@ -3,7 +3,7 @@ type: claim
 title: Identifying copy-typed sessions requires combining product and process views, since neither view is sufficient alone
 description: Identifying copy-typed sessions requires combining product and process views, since neither view is sufficient alone
 id: copy-typing-requires-combining-product-and-process-views
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

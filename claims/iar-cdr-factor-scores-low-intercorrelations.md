@@ -3,7 +3,7 @@ type: claim
 title: IAR and CDR factor scores intercorrelate too weakly to confirm the two instruments measure the same locus of control construct
 description: IAR and CDR factor scores intercorrelate too weakly to confirm the two instruments measure the same locus of control construct
 id: iar-cdr-factor-scores-low-intercorrelations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

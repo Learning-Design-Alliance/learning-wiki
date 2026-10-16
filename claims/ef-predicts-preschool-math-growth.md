@@ -3,7 +3,7 @@ type: claim
 title: "Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year"
 description: "Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year"
 id: ef-predicts-preschool-math-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

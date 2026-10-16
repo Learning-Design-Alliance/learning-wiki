@@ -3,7 +3,7 @@ type: claim
 title: "Substantial improvement in outcomes: breakthroughs change learning or life trajectories rather than improving incrementally"
 description: "Substantial improvement in outcomes: breakthroughs change learning or life trajectories rather than improving incrementally"
 id: breakthrough-substantial-outcome-improvement-trajectories
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

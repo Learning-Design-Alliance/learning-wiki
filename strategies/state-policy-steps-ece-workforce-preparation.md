@@ -3,7 +3,7 @@ type: strategy
 id: state-policy-steps-ece-workforce-preparation
 title: Six state policy steps to support early educator preparation, paired with adequate compensation and retention policies
 description: "The report recommends states: build higher education capacity for a diverse workforce; support high-quality clinical practice such as \"apprenticeships, lab schools, and paid practicum experiences\"; develop clear 2-yea..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

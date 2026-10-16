@@ -3,7 +3,7 @@ type: strategy
 id: redesign-pd-to-lower-participation-barriers
 title: Redesign workshop structure, content, timing, and location in response to non-participant barriers
 description: "When CPRE found that roughly 40% of teachers had not participated after three years, the Partnership changed the structure and marketing of its summer workshops."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

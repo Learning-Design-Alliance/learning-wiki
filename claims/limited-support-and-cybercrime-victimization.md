@@ -3,7 +3,7 @@ type: claim
 title: "Computing students report limited cybersecurity assistance and substantial personal victimization, with 61% lacking a trusted person and 21% having fallen victim"
 description: "Computing students report limited cybersecurity assistance and substantial personal victimization, with 61% lacking a trusted person and 21% having fallen victim"
 id: limited-support-and-cybercrime-victimization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -18,8 +18,8 @@ sources:
     kind: associational
     rigour: 2
   - id: adama-2026-2
-    resource: "https://arxiv.org/abs/2606.18541"
-    title: "Adama, V., Biddle, R., Arachchilage, N., & Lottridge, D. (2026). Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity. https://arxiv.org/abs/2606.18541"
+    resource: "https://doi.org/10.48550/arxiv.2606.18541"
+    title: "Adama, V., Biddle, R., Arachchilage, N., & Lottridge, D. (2026). Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity. https://arxiv.org/abs/2606.18541. [doi:10.48550/arxiv.2606.18541](https://doi.org/10.48550/arxiv.2606.18541)"
     author: "Adama, V., Biddle, R., Arachchilage, N., & Lottridge, D."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Computing students report limited cybersecurity assistance and substantial personal victimization, with 61% lacking a trusted person and 21% having fallen victim
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Most participants (61%) had no trusted person to turn to for cybersecurity help or advice, and only 13% had a go-to person with IT expertise. [→ Adama 2026](#adama-2026)
@@ -50,7 +50,7 @@ Survey section on cybersecurity support networks among 236 computing students. T
 
 ### Adama 2026 (2)
 
-Adama, V., Biddle, R., Arachchilage, N., & Lottridge, D. (2026). Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity. https://arxiv.org/abs/2606.18541
+Adama, V., Biddle, R., Arachchilage, N., & Lottridge, D. (2026). Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity. https://arxiv.org/abs/2606.18541. [doi:10.48550/arxiv.2606.18541](https://doi.org/10.48550/arxiv.2606.18541)
 
 `q2 · i?` · `associational · r1`
 

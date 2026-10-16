@@ -3,7 +3,7 @@ type: claim
 title: Most schools of choice in the United States are district-operated public options, and the neighborhood school is the preferred option for the vast majority of parents
 description: Most schools of choice in the United States are district-operated public options, and the neighborhood school is the preferred option for the vast majority of parents
 id: district-run-choice-majority-neighborhood-preferred
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

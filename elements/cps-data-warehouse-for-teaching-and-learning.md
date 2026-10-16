@@ -3,7 +3,7 @@ type: element
 id: cps-data-warehouse-for-teaching-and-learning
 title: Data warehouse linking student and teacher data to support instructional improvement
 description: "The report recommends that DRE \"develop and manage a data warehouse to support teaching and karning.\" Currently, \"except for ITBS data, there is no source of data to inform and sup- port local or system-wide efforts t..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

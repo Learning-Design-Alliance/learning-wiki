@@ -3,7 +3,7 @@ type: element
 id: tough-as-nails-k8-coding-pathway-kentucky-appalachia
 title: NSF Tough As Nails K-8 coding pathway for Kentucky Appalachia
 description: Tough As Nails is an NSF-funded project (Grant No.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

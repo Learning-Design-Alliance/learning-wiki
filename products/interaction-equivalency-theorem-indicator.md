@@ -4,7 +4,7 @@ id: interaction-equivalency-theorem-indicator
 title: Interaction Equivalency Theorem Indicator
 description: A Miyazoe et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

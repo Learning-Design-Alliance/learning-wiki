@@ -2,7 +2,7 @@
 type: claim
 title: Motor development milestone timing varies by cultural childcare practice, but functional motor competence equalizes by middle childhood.
 id: motor-milestones-vary-by-cultural-childcare-practices
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

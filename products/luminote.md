@@ -4,7 +4,7 @@ id: luminote
 title: LumiNote
 description: LumiNote is an instructor-facing Unity3D and Meta Quest 3 VR system developed by Danxuan Liang and colleagues that uses GPT-4o and Whisper to convert spoken teaching intent into reviewable spatial annotations, demonstrations, and language support for stage-lighting education.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

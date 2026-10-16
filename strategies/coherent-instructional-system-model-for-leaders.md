@@ -3,7 +3,7 @@ type: strategy
 id: coherent-instructional-system-model-for-leaders
 title: A practical model of a coherent instructional system that school leaders can adapt to strengthen instruction across classrooms
 description: "The page describes a research brief that \"examines the practices and conditions of a coherent instructional system, and where and how it had the most impact.\" Drawing on \"a case study from a U.S."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

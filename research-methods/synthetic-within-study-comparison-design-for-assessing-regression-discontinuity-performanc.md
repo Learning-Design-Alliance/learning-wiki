@@ -3,7 +3,7 @@ type: research-method
 id: synthetic-within-study-comparison-design-for-assessing-regression-discontinuity-performanc
 title: Synthetic within-study comparison design for assessing regression discontinuity performance
 description: "A methodological artifact in which the authors \"generate synthetic RD data sets from experimental data sets\" from two recent evaluations of educational interventions—the Educational Technology Study and the Teach for America Study—and \"compare the RD impact estimates to the experimental estimates of"
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

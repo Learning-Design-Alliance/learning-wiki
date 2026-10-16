@@ -3,7 +3,7 @@ type: strategy
 id: content-type-based-interaction-selection
 title: Select interaction types based on content type rather than random variation to preserve format-meaning coherence
 description: "To resolve the tension between retrieval-format diversity and extraneous cognitive load, Memdora routes content by type: \"vocabulary items to Language cards, quotable passages to By Heart cards, factual content to Exa..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

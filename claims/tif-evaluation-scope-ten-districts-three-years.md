@@ -3,7 +3,7 @@ type: claim
 title: The TIF evaluation provides an in-depth analysis of implementation and pay-for-performance impacts for ten districts after three years, and program-wide implementation descriptions for all 2010 grantees
 description: The TIF evaluation provides an in-depth analysis of implementation and pay-for-performance impacts for ten districts after three years, and program-wide implementation descriptions for all 2010 grantees
 id: tif-evaluation-scope-ten-districts-three-years
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -47,7 +47,6 @@ Descriptive statement of the report's design and scope: it covers all 2010 TIF g
 - [Offering pay-for-performance bonuses in 10 TIF districts increased student reading achievement by 1 percentile point after two years, with a similar-magnitude but statistically non-significant math effect](tif-bonuses-reading-gain-one-percentile.md) — related
 - [Few districts structured pay-for-performance bonuses to align well with TIF grant guidance](few-districts-aligned-bonuses-with-tif-guidance.md) — related
 - [Many teachers misunderstood whether they were eligible for performance bonuses or the amount they could earn](teachers-misunderstood-bonus-eligibility-and-amounts.md) — related
-- [Few TIF districts structured pay-for-performance bonuses to align well with TIF grant guidance](few-tif-districts-aligned-bonuses-with-grant-guidance.md) — related
 - [In the 2010 TIF pay-for-performance programs, over 60% of teachers received a bonus, with average bonuses of about $1,800 and top performers earning more than 3 times the average](tif-bonuses-easily-earned-top-performers-larger.md) — related
 - [Providing educators with performance feedback and offering pay-for-performance bonuses can improve student achievement, with positive cumulative impacts on math or reading in some years](performance-feedback-and-pay-for-performance-improve-achievement.md) — related
 - [Some aspects of TIF implementation improved between years one and two while others, including bonus awareness, remained challenging](tif-implementation-mixed-improvement.md) — related

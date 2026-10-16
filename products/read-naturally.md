@@ -4,7 +4,7 @@ id: read-naturally
 title: Read Naturally
 description: Read Naturally® is a branded supplemental reading-fluency programme developed and provided by Read Naturally, Inc.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

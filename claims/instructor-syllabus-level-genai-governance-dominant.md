@@ -3,7 +3,7 @@ type: claim
 title: Among the 50 most innovative U.S. universities, instructor-set syllabus-level governance is the dominant GenAI convergence, with 33 of 50 providing syllabus or course-policy guidance
 description: Among the 50 most innovative U.S.
 id: instructor-syllabus-level-genai-governance-dominant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -47,3 +47,4 @@ Qualitative document analysis with inductive thematic analysis of official insti
 - [Universities pair academic-integrity guidance with AI literacy and student readiness supports, treating literacy as strategic rather than punitive](genai-integrity-paired-with-ai-literacy.md) — related
 - [Universities converge on disclosure and attribution expectations as the condition distinguishing legitimate AI assistance from misrepresentation](genai-disclosure-attribution-convergence.md) — related
 - [A scaffolded participatory exercise in which students wrote rules governing the instructor's own AI use produced an accountability framework the instructor found more usable than institutional guidance](student-authored-instructor-ai-rules-accountability.md) — related
+- [Nearly all top-50 universities provide faculty GenAI guidelines, with 94% emphasizing establishing and communicating course-specific GenAI policies](faculty-guidelines-course-specific-genai-policies.md) — related

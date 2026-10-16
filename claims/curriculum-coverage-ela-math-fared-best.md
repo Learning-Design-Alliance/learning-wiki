@@ -3,7 +3,7 @@ type: claim
 title: Schools reported covering 86 percent of the ELA and 85 percent of the math curriculum in 2019-20, with foreign language and fine arts least covered
 description: Schools reported covering 86 percent of the ELA and 85 percent of the math curriculum in 2019-20, with foreign language and fine arts least covered
 id: curriculum-coverage-ela-math-fared-best
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -2,7 +2,7 @@
 type: theory
 title: Educational debate as an argumentation laboratory requiring basic theories of argumentation and reasoning
 description: "The paper's organizing framework is that any debate format is legitimate as education only if it applies argumentation theory and gives students a laboratory for testing advocacy."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

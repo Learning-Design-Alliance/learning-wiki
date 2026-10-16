@@ -3,7 +3,7 @@ type: research-method
 id: responsible-dkt
 title: Responsible-DKT
 description: "The Responsible-DKT approach is organized as a reusable four-stage pipeline: raw logs are pre-processed into chronological per-student sequences, symbolic training samples are generated as sequence-to-sequence ground facts and queries, a neural-symbolic model integrates embeddings, recurrence, and s"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11
@@ -32,4 +32,4 @@ The Responsible-DKT approach is organized as a reusable four-stage pipeline: raw
 -
 
 ## Key Sources
-- Hooshyar, D.; Šír, G.; Yang, Y.; Kärkkäinen, T.; Hämäläinen, R.; Krivich, E.; Cukurova, M.; Gašević, D.; Azevedo, R. (2026). Neural-Symbolic Knowledge Tracing: Injecting Educational Knowledge into Deep Learning for Responsible Learner Modelling. arXiv preprint. https://arxiv.org/abs/2604.08263
+- Hooshyar, D.; Šír, G.; Yang, Y.; Kärkkäinen, T.; Hämäläinen, R.; Krivich, E.; Cukurova, M.; Gašević, D.; Azevedo, R. (2026). Neural-Symbolic Knowledge Tracing: Injecting Educational Knowledge into Deep Learning for Responsible Learner Modelling. arXiv preprint. https://arxiv.org/abs/2604.08263. [doi:10.48550/arxiv.2604.08263](https://doi.org/10.48550/arxiv.2604.08263)

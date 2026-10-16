@@ -3,7 +3,7 @@ type: claim
 title: Programs should facilitate cognitive disequilibrium so students question ethnocentric views and consider other cultural perspectives
 description: Programs should facilitate cognitive disequilibrium so students question ethnocentric views and consider other cultural perspectives
 id: programs-facilitate-cognitive-disequilibrium-ethnocentric-views
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

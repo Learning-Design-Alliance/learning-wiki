@@ -3,7 +3,7 @@ type: claim
 title: Growth Mindset interventions have no discernible effects on college enrollment and progressing in college
 description: Growth Mindset interventions have no discernible effects on college enrollment and progressing in college
 id: growth-mindset-no-discernible-enrollment-progressing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

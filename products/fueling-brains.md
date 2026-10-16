@@ -4,7 +4,7 @@ id: fueling-brains
 title: Fueling Brains
 description: A Fueling Brains early-childhood program that integrates executive-function development, guided and open-ended play, hands-on learning, and ongoing assessment into pre-kindergarten instruction.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

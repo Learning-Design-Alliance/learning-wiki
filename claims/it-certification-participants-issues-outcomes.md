@@ -3,7 +3,7 @@ type: claim
 title: The study examines student participation mix, program issues, and certification and other outcomes
 description: The study examines student participation mix, program issues, and certification and other outcomes
 id: it-certification-participants-issues-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

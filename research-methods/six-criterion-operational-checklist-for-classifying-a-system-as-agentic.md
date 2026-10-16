@@ -3,7 +3,7 @@ type: research-method
 id: six-criterion-operational-checklist-for-classifying-a-system-as-agentic
 title: Six-criterion operational checklist for classifying a system as agentic
 description: The review operationalizes agentic AI with a checklist of six verifiable criteria covering autonomy, reasoning, memory, planning, goal-directed interaction and related capabilities.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

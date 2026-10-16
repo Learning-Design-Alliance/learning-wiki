@@ -3,7 +3,7 @@ type: element
 id: gear-up-college-transition-messaging-intervention
 title: GEAR UP college transition text-messaging intervention (37 customized messages with advisor contact option)
 description: "A low-cost behavioral nudge in which GEAR UP students were sent 37 text messages \"customized to their college and including the option to communicate with an advisor.\" The U.S."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

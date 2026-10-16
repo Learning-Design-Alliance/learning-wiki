@@ -3,7 +3,7 @@ type: claim
 title: "Students used GenAI and XR in complementary roles: GenAI for ideation and visual reference generation, XR for spatial, contextual, and scale-based evaluation"
 description: "Students used GenAI and XR in complementary roles: GenAI for ideation and visual reference generation, XR for spatial, contextual, and scale-based evaluation"
 id: genai-xr-complementary-roles-design
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

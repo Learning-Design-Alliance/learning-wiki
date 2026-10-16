@@ -3,7 +3,7 @@ type: claim
 title: Heritability of everyday abilities cannot be extrapolated to expert performance; twins almost never reach elite levels
 description: Heritability of everyday abilities cannot be extrapolated to expert performance; twins almost never reach elite levels
 id: no-heritability-extrapolation-to-expert-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: High school civic engagement is associated with higher graduation rates for all students regardless of age at entry, race, or gender
 description: High school civic engagement is associated with higher graduation rates for all students regardless of age at entry, race, or gender
 id: civic-engagement-higher-graduation-all-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

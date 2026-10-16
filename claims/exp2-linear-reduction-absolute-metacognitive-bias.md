@@ -3,7 +3,7 @@ type: claim
 title: In Experiment 2, absolute metacognitive bias decreased linearly across the four additive intervention groups, and the full intervention group was significantly less biased than control
 description: In Experiment 2, absolute metacognitive bias decreased linearly across the four additive intervention groups, and the full intervention group was significantly less biased than control
 id: exp2-linear-reduction-absolute-metacognitive-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

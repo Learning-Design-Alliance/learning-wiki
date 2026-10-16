@@ -3,7 +3,7 @@ type: claim
 title: Adequate-dose tutoring showed marginally significant effects for third graders on the NWEA MAP (ES = +0.27)
 description: Adequate-dose tutoring showed marginally significant effects for third graders on the NWEA MAP (ES = +0.27)
 id: lightning-squad-adequate-dose-map-grade3
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

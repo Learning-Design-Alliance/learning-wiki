@@ -3,7 +3,7 @@ type: claim
 title: "Average fall 2021 math scores in Grades 3–8 were .20–.27 SD lower than same-grade peers' fall 2019 scores"
 description: "Average fall 2021 math scores in Grades 3–8 were .20–.27 SD lower than same-grade peers' fall 2019 scores"
 id: covid-math-decline-020-027-sd-grades-3-8
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

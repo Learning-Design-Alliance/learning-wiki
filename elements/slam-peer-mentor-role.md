@@ -3,7 +3,7 @@ type: element
 id: slam-peer-mentor-role
 title: "Service-Learning Assistant Mentors (SLAMs): undergraduate peer mentors embedded in service-learning courses"
 description: SLAMs are undergraduate students with prior service-learning experience who serve as peer mentors to enrolled students and as liaisons between faculty and students.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: "Strengthening the student-educator relationship can contribute positively to marginalised students' self-efficacy and sense of belonging in higher education"
 description: "Strengthening the student-educator relationship can contribute positively to marginalised students' self-efficacy and sense of belonging in higher education"
 id: student-educator-relationship-builds-self-efficacy-and-belonging
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

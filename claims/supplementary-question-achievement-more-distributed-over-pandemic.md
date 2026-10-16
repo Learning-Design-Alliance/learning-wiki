@@ -3,7 +3,7 @@ type: claim
 title: The 2021-22 study included a supplementary research question on whether achievement became more distributed over the pandemic.
 description: The 2021-22 study included a supplementary research question on whether achievement became more distributed over the pandemic.
 id: supplementary-question-achievement-more-distributed-over-pandemic
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

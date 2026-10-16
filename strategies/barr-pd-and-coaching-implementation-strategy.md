@@ -3,7 +3,7 @@ type: strategy
 id: barr-pd-and-coaching-implementation-strategy
 title: Implement BARR through sequenced multi-year professional development plus dedicated weekly coaching exceeding 200 hours per year
 description: "The article prescribes a specific implementation support package: each BARR school receives \"two days of in-person professional development annually delivered through a sequenced, multi-year training plan,\" with Year..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

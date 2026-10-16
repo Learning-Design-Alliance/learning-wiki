@@ -3,7 +3,7 @@ type: strategy
 id: job-search-skills-training-in-vocational-esl
 title: Include explicit job-search skills training (resume writing, job-search strategies, cultural expectations of job searching) in occupational ESL programs
 description: The article recommends that combined skills-and-language programs teach employment-seeking skills explicitly, because graduates struggled to get interviews despite certification.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

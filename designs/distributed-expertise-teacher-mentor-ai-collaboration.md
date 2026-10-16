@@ -3,7 +3,7 @@ type: design
 id: distributed-expertise-teacher-mentor-ai-collaboration
 title: Teacher-mentor-AI collaboration as a distributed expertise system in AI technology creation
 description: "The article conceptualizes workshop interactions among teachers, mentors, and AI as \"a dynamically coordinated system of distributed expertise, grounded in distributed cognition theory\"."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

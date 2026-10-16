@@ -3,7 +3,7 @@ type: claim
 title: SHAP analysis identifies Hapax Ratio as the most influential stylometric feature in Random Forest predictions, followed by NSR, Noun Ratio, Adverb Ratio, and TTR
 description: SHAP analysis identifies Hapax Ratio as the most influential stylometric feature in Random Forest predictions, followed by NSR, Noun Ratio, Adverb Ratio, and TTR
 id: shap-hapax-ratio-most-influential-feature
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

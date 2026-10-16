@@ -3,7 +3,7 @@ type: claim
 title: During COVID, a third-grade volume-of-reading strategy showed greater reading growth than a control group without the strategy
 description: During COVID, a third-grade volume-of-reading strategy showed greater reading growth than a control group without the strategy
 id: covid-volume-reading-growth-over-control
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

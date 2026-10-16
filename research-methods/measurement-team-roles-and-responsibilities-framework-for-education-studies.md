@@ -3,7 +3,7 @@ type: research-method
 id: measurement-team-roles-and-responsibilities-framework-for-education-studies
 title: Measurement team roles and responsibilities framework for education studies
 description: The brief organizes measurement work around a team whose members carry defined responsibilities.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

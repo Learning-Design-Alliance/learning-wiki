@@ -3,7 +3,7 @@ type: claim
 title: Main results are robust to grouping schools into four poverty quartiles instead of five quintiles
 description: Main results are robust to grouping schools into four poverty quartiles instead of five quintiles
 id: results-robust-to-quartile-grouping
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -2,7 +2,7 @@
 type: claim
 title: In one participatory budgeting case, Latino immigrant participation lapsed under outreach with interpretation and was sustained only after the activity structure was redesigned
 id: resolving-participation-double-bind-requires-redesigned-activity-structures
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

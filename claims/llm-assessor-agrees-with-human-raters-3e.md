@@ -3,7 +3,7 @@ type: claim
 title: An automated LLM assessor rates 3E clinical communication skills with agreement comparable to individual human raters
 description: An automated LLM assessor rates 3E clinical communication skills with agreement comparable to individual human raters
 id: llm-assessor-agrees-with-human-raters-3e
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

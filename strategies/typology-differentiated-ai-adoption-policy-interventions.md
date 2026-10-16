@@ -3,7 +3,7 @@ type: strategy
 id: typology-differentiated-ai-adoption-policy-interventions
 title: Typology-differentiated AI adoption policy interventions for education systems
 description: "The article recommends four priority levels of policy intervention differentiated by manager typology: regulatory framework development (high priority, requiring ministerial action), differentiated training programs (..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

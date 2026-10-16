@@ -3,7 +3,7 @@ type: strategy
 id: isomorphic-framing-empowerment-model
 title: "Use isomorphic framing to draw parallels between the empowerment model and the program's primary therapeutic theme"
 description: "Isomorphic framing techniques create parallel relationships between McWhirter's empowerment model and the primary theme's therapeutic process."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

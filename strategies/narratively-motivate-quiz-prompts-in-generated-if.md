@@ -3,7 +3,7 @@ type: strategy
 id: narratively-motivate-quiz-prompts-in-generated-if
 title: Design AI-generated educational IF so quiz prompts are narratively motivated and setting changes are bridged
 description: "The article translates participant feedback into design targets: \"the in-fiction motivation for why non-player characters ask the player for technical knowledge must be made explicit in the narrative\", and abrupt loca..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

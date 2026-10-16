@@ -3,7 +3,7 @@ type: strategy
 id: collearn-natural-language-strategy-guideline
 title: Use a natural-language strategy guideline in the generator prompt so tutoring strategy can be revised without code changes
 description: "CoLearn's question generator consults a natural-language guideline appended to its prompt (e.g."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

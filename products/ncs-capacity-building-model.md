@@ -4,7 +4,7 @@ id: ncs-capacity-building-model
 title: NCS capacity-building model
 description: A whole-school improvement framework developed and implemented by the Network for College Success to build school staff capacity through professional learning networks, data use, coaching, and distributed leadership.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

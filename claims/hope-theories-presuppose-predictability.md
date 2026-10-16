@@ -3,7 +3,7 @@ type: claim
 title: Existing cognitive hope theories presuppose predictability and control, an assumption that breaks down under radical uncertainty
 description: Existing cognitive hope theories presuppose predictability and control, an assumption that breaks down under radical uncertainty
 id: hope-theories-presuppose-predictability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

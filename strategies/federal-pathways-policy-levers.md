@@ -3,7 +3,7 @@ type: strategy
 id: federal-pathways-policy-levers
 title: "Federal policy levers for an equitable pathways system: funding, mandates, certification, research, and data systems"
 description: "The brief recommends a set of federal actions: enhanced support and oversight through a new grant or formula program for SEAs and LEAs; legislation for universal access to pathways counselors; federal funding for stan..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

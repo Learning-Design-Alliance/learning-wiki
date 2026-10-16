@@ -3,7 +3,7 @@ type: strategy
 id: renzulli-learning-weekly-dosage-schedule
 title: Implement Renzulli Learning as 2-3 hours of weekly use over 16 weeks in treatment classrooms
 description: "The evaluated implementation assigned treatment classrooms to use Renzulli Learning for \"2-3 hours each week for a 16-week period\", a dosage the cluster-randomized study linked to significantly higher oral reading flu..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

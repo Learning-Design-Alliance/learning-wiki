@@ -3,7 +3,7 @@ type: claim
 title: Fewer than half of districts implemented all four required components of TIF, making full implementation challenging
 description: Fewer than half of districts implemented all four required components of TIF, making full implementation challenging
 id: tif-fewer-than-half-districts-full-implementation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

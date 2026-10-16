@@ -3,7 +3,7 @@ type: claim
 title: Dialogic reading has potentially positive effects on communication and language competencies for children with disabilities
 description: Dialogic reading has potentially positive effects on communication and language competencies for children with disabilities
 id: dialogic-reading-potentially-positive-communication-language-disabilities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

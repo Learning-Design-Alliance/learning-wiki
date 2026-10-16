@@ -3,7 +3,7 @@ type: claim
 title: "Word count correlates with suggested final grade, with the ordering Gemini Pro > humans > ChatGPT > Gemini among statistically significant correlations (human Spearman's rho = 0.603)"
 description: "Word count correlates with suggested final grade, with the ordering Gemini Pro > humans > ChatGPT > Gemini among statistically significant correlations (human Spearman's rho = 0.603)"
 id: wordcount-grade-correlation-llm-human
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

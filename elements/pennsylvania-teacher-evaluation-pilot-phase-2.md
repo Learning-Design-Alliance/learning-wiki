@@ -3,7 +3,7 @@ type: element
 id: pennsylvania-teacher-evaluation-pilot-phase-2
 title: Pennsylvania Teacher and Principal Evaluation Pilot (2010-2015), Phase 2 classroom-observation study
 description: "A three-year pilot conducted by the Pennsylvania Department of Education, running from 2010 to 2015, in which principals evaluated teachers' classroom practice using The Framework for Teaching."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

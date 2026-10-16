@@ -3,7 +3,7 @@ type: claim
 title: Dual enrollment programs show no discernible effects on general academic achievement (college)
 description: Dual enrollment programs show no discernible effects on general academic achievement (college)
 id: dual-enrollment-no-effect-college-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: fraction-face-off-teacher-training-model
 title: Weeklong initial teacher training with biweekly follow-up meetings for delivering the fraction intervention
 description: "Fraction Face-Off!"
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

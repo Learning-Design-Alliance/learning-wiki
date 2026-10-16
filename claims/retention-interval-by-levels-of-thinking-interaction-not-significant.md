@@ -3,7 +3,7 @@ type: claim
 title: The effect of retention interval on reading comprehension after retrieval practice does not differ significantly between lower-order and higher-order thinking questions
 description: The effect of retention interval on reading comprehension after retrieval practice does not differ significantly between lower-order and higher-order thinking questions
 id: retention-interval-by-levels-of-thinking-interaction-not-significant
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

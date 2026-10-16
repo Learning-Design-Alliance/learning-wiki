@@ -62,7 +62,7 @@ Grades serve as communication and decision-making inputs; when they blend achiev
 - Separate work-habits reporting — preserves behavioral information without contaminating achievement grades
 
 ## Examples
-- **Grading for Equity (Feldman, 2019)** — a widely adopted framework used in districts such as Oak Park Unified (CA) that removes behavior, effort, and attendance from grades and replaces zero policies with minimum scores and retake structures. https://gradingforequity.org
+- **[Grading for Equity](grading-for-equity.md) (Feldman, 2019)** — a widely adopted framework used in districts such as Oak Park Unified (CA) that removes behavior, effort, and attendance from grades and replaces zero policies with minimum scores and retake structures. https://gradingforequity.org
 - **Maine's proficiency-based diploma requirement (L.D. 1422, 2012)** — required districts to award diplomas based on proficiency on standards, pushing schools to report habits of work separately from achievement.
 - **Ken O'Connor's grade-repair guidelines** — used in many North American secondary schools to eliminate "the grade killers": zeros for late work, group-process grades averaged into individual achievement, and extra credit.
 

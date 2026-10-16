@@ -3,7 +3,7 @@ type: claim
 title: Interventions with high schoolers and young adults show strong consistent improvement in cognitive regulation and small but significant improvements in health, mental health, and delinquency
 description: Interventions with high schoolers and young adults show strong consistent improvement in cognitive regulation and small but significant improvements in health, mental health, and delinquency
 id: sr-interventions-improve-cognitive-regulation-young-adults
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

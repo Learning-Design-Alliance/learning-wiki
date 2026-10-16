@@ -2,7 +2,7 @@
 type: theory
 title: Six-component taxonomy of evidence synthesis skills based on the JBI Manual
 description: The protocol defines the core evidence synthesis skills to be explored, identified based on the JBI Manual for Evidence Synthesis.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

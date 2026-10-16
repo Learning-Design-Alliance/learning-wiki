@@ -3,7 +3,7 @@ type: strategy
 id: coefficient-selection-strategy
 title: Select iteration coefficients according to the proved convergence condition when implementing stochastic approximation
 description: "The article supports a concrete implementation strategy: when deploying the Robbins-Monro procedure, choose the iteration-coefficient sequence so that it satisfies the necessary and sufficient convergence condition pr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

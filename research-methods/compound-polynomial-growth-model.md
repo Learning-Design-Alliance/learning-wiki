@@ -1,9 +1,10 @@
 ---
 type: research-method
 id: compound-polynomial-growth-model
+aliases: [compound-polynomial-cp-growth-model]
 title: Compound Polynomial growth model
 description: The CP model, developed by Thum and Hauser (2015), is a flexible functional form for describing growth trends with marked seasonal patterns.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
@@ -35,6 +36,7 @@ The CP model, developed by Thum and Hauser (2015), is a flexible functional form
 - **The Compound Polynomial (CP) growth model**: The CP model, developed by Thum and Hauser (2015), is a flexible functional form for describing growth trends with marked seasonal patterns. It combines "a polynomial growth in performance (scores) that occurs within a segment" with "a second polynomial growth model for one or more within-segment growth components," so that the model "includes parameters capturing between- and within-year growth." In this article it is applied in a school evaluation context to estimate school contributions to student growth from fall and spring MAP Growth data across grades two through six, with three levels (time points within students within schools). (Soland et al. (2019))
 - **Compound polynomial model for estimating school effectiveness in program evaluation contexts**: The page lists an associated working paper titled "School effectiveness, summer loss, and federal accountability: Applying the compound polynomialmodel in a program evaluation context." The compound polynomial model is thus a growth-modeling approach applied to estimate school effectiveness while accounting for summer loss in program evaluation settings. The page provides no further description of the model's structure or mechanics, so it is recorded only as a named modeling approach linked to seasonality-aware school effectiveness estimation. (NWEA Research (2019))
 - **A general statistical model for interim achievement data that jointly represents year-to-year growth and within-year seasonal gains and losses**: The article introduces a general statistical model motivated by the seasonal character of interim achievement data. It is "designed to combine features from traditional polynomial models that estimate year-to-year growth but ignore within-year gains and losses with those from piecewise models, which directly estimate within-year gains/losses but do not include terms for year-to-year growth." The model is intended for monitoring progress of students, classrooms, and schools within and across school years. (James Soland (2022))
+- **Compound Polynomial (CP) growth model for jointly estimating within-year and between-year growth**: The CP model is a multilevel growth model whose design matrix combines a within-year (fall-to-spring) matrix with a between-year (spring-to-spring) polynomial matrix, so that both kinds of growth are estimated in one model. The authors use it "to simultaneously estimate fall-to-spring (within-year) and spring-to-spring (between-year) growth over five years using a single model," producing conditional Z-scores via contrast matrices that allow school effectiveness comparisons across timespans on a consistent sample. The preferred specification treats all coefficients as random except the within-year quadratic, which is fixed at the school level. (Soland et al. (2019))
 
 ### Claims
 - [The CP model fits seasonal achievement data better than a traditional polynomial growth model on RMSE, AIC, and BIC while reducing residual autocorrelation](../claims/cp-model-fits-seasonal-growth-better-than-polynomial.md) [+M]
@@ -48,6 +50,8 @@ The CP model, developed by Thum and Hauser (2015), is a flexible functional form
 - [The proposed seasonal growth model combines polynomial terms for year-to-year growth with piecewise terms for within-year gains and losses](../claims/seasonal-model-combines-polynomial-and-piecewise-features.md) [+W]
 - [The study conducts analyses aimed at reducing barriers to generating empirical benchmarks for repeated measures achievement data](../claims/analyses-reduce-barriers-empirical-benchmarks-repeated-measures.md) [+W]
 - [Seasonal patterns are discrepant across national data sets](../claims/discrepant-seasonal-patterns-national-data-sets.md) [~W]
+- [School contributions to within-year (single-year fall-to-spring) growth correlate at roughly .10 or below with school contributions to growth across elementary school (grades 2–6)](../claims/single-year-growth-decoupled-from-elementary-long-term-growth.md) [+M]
+- [School growth estimates based on two years of data correlate around .55–.58 with estimates based on all five elementary years, below the .90 threshold at which ESSA accountability determinations would likely change](../claims/two-year-vs-five-year-growth-school-rankings-differ.md) [+M]
 
 ## Related Research Methods
 -
@@ -56,6 +60,7 @@ The CP model, developed by Thum and Hauser (2015), is a flexible functional form
 - Soland, J. & Thum, Y.M. (2019). School effectiveness, summer loss, and federal accountability: Applying the compound polynomial model in a program evaluation context. The Collaborative for Student Growth at NWEA Working Paper. https://www.nwea.org/research/publication/school-effectiveness-summer-loss-and-federal-accountability-applying-the-compound-polynomialmodel-in-a-program-evaluation-context/
 - NWEA Research. (2019). School effectiveness, summer loss and federal accountability. Research brief. https://www.nwea.org/research/publication/school-effectiveness-summer-loss-and-federal-accountability/
 - James Soland, Yeow Meng Thum. (2022). Estimating and comparing growth using longitudinal interim achievement data with seasonal trends. Journal of Research on Educational Effectiveness 15(3) 635-654. https://doi.org/10.1080/19345747.2021.2018744
+- Soland, J., Thum, Y.M., & King, G. (2019). Reconciling long-term education policy goals with short-term school accountability models: Evidence and implications from a longitudinal study. (The Collaborative for Student Growth at NWEA Working Paper). https://www.nwea.org
 
 <!-- merged 2026-10-10 from theories/compound-polynomial-growth-model ("The Compound Polynomial (CP) growth model"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - NWEA Research. (2019). School effectiveness, summer loss and federal accountability. Research brief. https://www.nwea.org/research/publication/school-effectiveness-summer-loss-and-federal-accountability/
@@ -189,4 +194,29 @@ The article introduces a general statistical model motivated by the seasonal cha
 
 ## Key Sources
 - James Soland, Yeow Meng Thum. (2022). Estimating and comparing growth using longitudinal interim achievement data with seasonal trends. Journal of Research on Educational Effectiveness 15(3) 635-654. https://doi.org/10.1080/19345747.2021.2018744
+-->
+
+<!-- merged 2026-10-15 from research-methods/compound-polynomial-cp-growth-model ("Compound Polynomial (CP) growth model"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Compound Polynomial (CP) growth model
+
+> **Research Method** · [All research methods](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+The CP model is a multilevel growth model whose design matrix combines a within-year (fall-to-spring) matrix with a between-year (spring-to-spring) polynomial matrix, so that both kinds of growth are estimated in one model. The authors use it "to simultaneously estimate fall-to-spring (within-year) and spring-to-spring (between-year) growth over five years using a single model," producing conditional Z-scores via contrast matrices that allow school effectiveness comparisons across timespans on a consistent sample. The preferred specification treats all coefficients as random except the within-year quadratic, which is fixed at the school level.
+
+## Accounts
+<!- - How each source describes or uses the method - ->
+- **Compound Polynomial (CP) growth model for jointly estimating within-year and between-year growth**: The CP model is a multilevel growth model whose design matrix combines a within-year (fall-to-spring) matrix with a between-year (spring-to-spring) polynomial matrix, so that both kinds of growth are estimated in one model. The authors use it "to simultaneously estimate fall-to-spring (within-year) and spring-to-spring (between-year) growth over five years using a single model," producing conditional Z-scores via contrast matrices that allow school effectiveness comparisons across timespans on a consistent sample. The preferred specification treats all coefficients as random except the within-year quadratic, which is fixed at the school level. (Soland et al. (2019))
+
+### Claims
+- [School contributions to within-year (single-year fall-to-spring) growth correlate at roughly .10 or below with school contributions to growth across elementary school (grades 2–6)](../claims/single-year-growth-decoupled-from-elementary-long-term-growth.md) [+M]
+- [School growth estimates based on two years of data correlate around .55–.58 with estimates based on all five elementary years, below the .90 threshold at which ESSA accountability determinations would likely change](../claims/two-year-vs-five-year-growth-school-rankings-differ.md) [+M]
+
+## Related Research Methods
+-
+
+## Key Sources
+- Soland, J., Thum, Y.M., & King, G. (2019). Reconciling long-term education policy goals with short-term school accountability models: Evidence and implications from a longitudinal study. (The Collaborative for Student Growth at NWEA Working Paper). https://www.nwea.org
 -->

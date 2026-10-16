@@ -3,7 +3,7 @@ type: claim
 title: "Hungarian transformer models achieve slightly lower overall score (about 68%) but better minority-class sensitivity than shallow models"
 description: "Hungarian transformer models achieve slightly lower overall score (about 68%) but better minority-class sensitivity than shallow models"
 id: transformers-better-minority-class-sensitivity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

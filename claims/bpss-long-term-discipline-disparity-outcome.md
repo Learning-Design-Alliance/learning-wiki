@@ -3,7 +3,7 @@ type: claim
 title: The BPSS logic model sets reduced discipline disparities as a long-term student outcome for THRIVE and AIIM districts
 description: The BPSS logic model sets reduced discipline disparities as a long-term student outcome for THRIVE and AIIM districts
 id: bpss-long-term-discipline-disparity-outcome
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

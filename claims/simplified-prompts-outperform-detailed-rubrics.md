@@ -3,7 +3,7 @@ type: claim
 title: Removing detailed rubric explanations from prompts improved grading accuracy across all approaches in an ablation study
 description: Removing detailed rubric explanations from prompts improved grading accuracy across all approaches in an ablation study
 id: simplified-prompts-outperform-detailed-rubrics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

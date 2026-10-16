@@ -3,7 +3,7 @@ type: claim
 title: Bias, not precision loss, drives the difference in proxy pre-test value-added estimates
 description: Bias, not precision loss, drives the difference in proxy pre-test value-added estimates
 id: proxy-pretest-difference-driven-by-bias-not-precision
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

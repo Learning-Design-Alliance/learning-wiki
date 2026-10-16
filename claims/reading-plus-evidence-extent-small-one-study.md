@@ -3,7 +3,7 @@ type: claim
 title: The extent of evidence for Reading Plus® on adolescent learners is small, resting on a single study that met WWC standards with reservations
 description: The extent of evidence for Reading Plus® on adolescent learners is small, resting on a single study that met WWC standards with reservations
 id: reading-plus-evidence-extent-small-one-study
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

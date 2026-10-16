@@ -3,7 +3,7 @@ type: claim
 title: LLM use for seeking additional explanations does not significantly impact final grades
 description: LLM use for seeking additional explanations does not significantly impact final grades
 id: llm-explanations-no-significant-grade-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: strategy
 id: federal-expand-learning-research-translation-centers
 title: Federal policy should expand research on how people learn and fund centers translating it into curriculum, school design, and educator preparation
 description: The brief recommends that federal policy expand and disseminate research about how people learn and development, including funding for basic and applied research and its translation into policy and practice.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

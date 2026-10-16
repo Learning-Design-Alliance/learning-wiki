@@ -3,7 +3,7 @@ type: claim
 title: Students showed lower math growth in fall 2020 across grades 3-8 relative to peers in the previous, more typical year
 description: Students showed lower math growth in fall 2020 across grades 3-8 relative to peers in the previous, more typical year
 id: fall-2020-lower-math-growth-grades-3-8
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

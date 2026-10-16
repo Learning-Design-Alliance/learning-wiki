@@ -3,7 +3,7 @@ type: strategy
 id: use-disengagement-metadata-as-sel-data-source
 title: Use survey and assessment disengagement metadata as a new source of SEL data for practice, policy, and research
 description: The article recommends treating metadata from existing tests and surveys — particularly indicators of disengagement — as a source of SEL data that educators, policymakers, and researchers can use without administering...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

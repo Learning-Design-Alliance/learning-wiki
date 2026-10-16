@@ -3,7 +3,7 @@ type: claim
 title: "Working conditions, especially accountability pressures and administrative support, shape teachers' decisions to leave or stay"
 description: "Working conditions, especially accountability pressures and administrative support, shape teachers' decisions to leave or stay"
 id: working-conditions-drive-teacher-exit-decisions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -18,8 +18,8 @@ sources:
     kind: associational
     rigour: 1
   - id: podolsky-2016-2
-    resource: "https://learningpolicyinstitute.org/product/solving-teacher-shortage"
-    title: "Podolsky, A., Kini, T., Bishop, J., & Darling-Hammond, L. (2016). Solving the Teacher Shortage: How to Attract and Retain Excellent Educators. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/solving-teacher-shortage"
+    resource: "https://doi.org/10.54300/262.960"
+    title: "Podolsky, A., Kini, T., Bishop, J., & Darling-Hammond, L. (2016). Solving the Teacher Shortage: How to Attract and Retain Excellent Educators. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/solving-teacher-shortage. [doi:10.54300/262.960](https://doi.org/10.54300/262.960)"
     author: "Podolsky, A., Kini, T., Bishop, J., & Darling-Hammond, L."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Working conditions, especially accountability pressures and administrative support, shape teachers' decisions to leave or stay
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 review `r2`, 1 associational `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Approximately 25% of public school teachers who left in 2012 rated dissatisfaction with school assessment and accountability measures as extremely or very important in their decision to leave. [→ Podolsky 2016](#podolsky-2016)
@@ -50,7 +50,7 @@ Analysis of the nationally representative Teacher Follow-up Survey reported in t
 
 ### Podolsky 2016 (2)
 
-Podolsky, A., Kini, T., Bishop, J., & Darling-Hammond, L. (2016). Solving the Teacher Shortage: How to Attract and Retain Excellent Educators. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/solving-teacher-shortage
+Podolsky, A., Kini, T., Bishop, J., & Darling-Hammond, L. (2016). Solving the Teacher Shortage: How to Attract and Retain Excellent Educators. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/solving-teacher-shortage. [doi:10.54300/262.960](https://doi.org/10.54300/262.960)
 
 `q2 · i?` · `review · r2`
 

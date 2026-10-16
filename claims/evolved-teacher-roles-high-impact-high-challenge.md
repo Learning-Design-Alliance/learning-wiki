@@ -3,7 +3,7 @@ type: claim
 title: Evolved teacher roles with AI agents rank high in impact but are rated among the most challenging themes, with a negative priority indicator
 description: Evolved teacher roles with AI agents rank high in impact but are rated among the most challenging themes, with a negative priority indicator
 id: evolved-teacher-roles-high-impact-high-challenge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

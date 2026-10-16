@@ -3,7 +3,7 @@ type: claim
 title: Gender differences in reading outcomes at age 10 depend on the type of phonics teaching received in early literacy programmes
 description: Gender differences in reading outcomes at age 10 depend on the type of phonics teaching received in early literacy programmes
 id: gender-reading-outcomes-depend-on-phonics-method
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

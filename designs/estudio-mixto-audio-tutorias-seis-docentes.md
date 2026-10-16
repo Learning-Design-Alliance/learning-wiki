@@ -3,7 +3,7 @@ type: design
 id: estudio-mixto-audio-tutorias-seis-docentes
 title: Diseño mixto con grabación en audio de tutorías de 6 docentes tutores de trabajo de grado
 description: "Elemento metodológico central de la tesis: un estudio con diseño mixto en el que el análisis cualitativo de los enunciados se categoriza y transforma en datos cuantitativos."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-13

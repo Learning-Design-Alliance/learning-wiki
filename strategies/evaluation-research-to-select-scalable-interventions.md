@@ -3,7 +3,7 @@ type: strategy
 id: evaluation-research-to-select-scalable-interventions
 title: Use evaluation research as a tool to determine which interventions are likely to produce desired outcomes and which organizations are ready to scale them
 description: "The article describes a concrete funder strategy: \"Implementing this process can assist foundations in using evaluation research as a tool to determine which interventions are likely to produce desired outcomes, and t..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

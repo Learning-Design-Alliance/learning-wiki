@@ -3,7 +3,7 @@ type: claim
 title: Long-term Buddhist meditation training induces gamma synchrony whose ratio to slow oscillations correlates with cumulative practice hours (r = 0.79)
 description: Long-term Buddhist meditation training induces gamma synchrony whose ratio to slow oscillations correlates with cumulative practice hours (r = 0.79)
 id: longterm-meditation-gamma-synchrony-practice-hours
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

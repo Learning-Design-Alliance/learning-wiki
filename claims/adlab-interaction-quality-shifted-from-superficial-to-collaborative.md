@@ -3,7 +3,7 @@ type: claim
 title: The quality of inter-group interactions shifted from brief, superficial exchanges to long, detailed, collaborative discussions as community norms were negotiated
 description: The quality of inter-group interactions shifted from brief, superficial exchanges to long, detailed, collaborative discussions as community norms were negotiated
 id: adlab-interaction-quality-shifted-from-superficial-to-collaborative
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

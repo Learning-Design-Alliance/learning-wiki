@@ -3,7 +3,7 @@ type: claim
 title: A sizable repertoire of formulaic sequences benefits second-language learners, but learners are slow to close the gap with native speakers in formulaic language
 description: Review evidence that L2 learners gain from knowing many formulaic sequences yet lag native speakers in them, with instruction aimed at noticing, reference-tool lookups and memorising sequences
 id: formulaic-sequences-benefit-l2-learners-but-are-slow-to-acquire
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-30

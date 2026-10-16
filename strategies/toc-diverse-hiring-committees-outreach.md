@@ -3,7 +3,7 @@ type: strategy
 id: toc-diverse-hiring-committees-outreach
 title: Diverse hiring committees and intentional recruitment practices including HBCU/MSI outreach and higher-education partnerships
 description: "Participants proposed hiring committees that include teachers of color as core members and advisors who tap existing TOC networks, arguing administrators 'need purposeful intention and commitment to diversity and anti..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

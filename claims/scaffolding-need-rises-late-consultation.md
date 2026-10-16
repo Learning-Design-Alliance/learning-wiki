@@ -3,7 +3,7 @@ type: claim
 title: "Student utterances requiring instructional scaffolding rose from about 16.1% early in the consultation to about 34.8% late"
 description: "Student utterances requiring instructional scaffolding rose from about 16.1% early in the consultation to about 34.8% late"
 id: scaffolding-need-rises-late-consultation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

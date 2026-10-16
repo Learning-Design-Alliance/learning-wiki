@@ -3,7 +3,7 @@ type: claim
 title: Self-regulated learning strategies have a large pooled effect (d = 0.859) on academic achievement across 21 Turkish studies
 description: Self-regulated learning strategies have a large pooled effect (d = 0.859) on academic achievement across 21 Turkish studies
 id: srl-strategies-large-effect-academic-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
@@ -53,3 +53,4 @@ Meta-analysis of 21 Turkish empirical (9) and relational (12) studies, total sam
 - [The pooled effect of self-regulated learning does not differ significantly by strategy type (cognitive, metacognitive, resource management, motivational)](srl-effect-no-strategy-type-difference.md) — related
 - [Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments](srl-interventions-moderate-effect-online-blended.md) — related
 - [Self-regulated learning ability significantly moderates Gen-AI's effect on HOT: high-SRL students show ES = 0.863 versus ES = 0.284 for low-SRL students](genai-srl-moderator.md) — related
+- [Self-regulated learning is associated with increased academic achievement and improved learning outcomes for students](srl-associated-with-achievement.md) — a broader claim this one bears on

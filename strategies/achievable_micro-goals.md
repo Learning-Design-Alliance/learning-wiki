@@ -77,7 +77,7 @@ Micro-goals work because perceived progress is one of the strongest drivers of m
 - **[Duolingo](https://www.duolingo.com)** — daily goals, streaks, and unit-by-unit progression turn language learning into a sequence of small, reliably achievable sessions; progress displays register each completion.
 - **[Khan Academy](https://www.khanacademy.org)** — mastery bars and skill-level badges decompose a subject into micro-goals, with [practice](../elements/practice.md) attached to each.
 - **Writing instruction** — instructors break essay assignments into thesis, outline, draft, and revision deadlines, each a micro-goal with feedback, rather than a single due date.
-- **Duolingo** (https://www.duolingo.com) — daily XP goals and streaks decompose language learning into single-session micro-goals with immediate progress feedback.
+- **[Duolingo](../products/duolingo.md)** (https://www.duolingo.com) — daily XP goals and streaks decompose language learning into single-session micro-goals with immediate progress feedback.
 - **Khan Academy** (https://www.khanacademy.org) — mastery "levels" on each skill break a unit into small, gated steps learners can complete one at a time.
 - **NaNoWriMo's Young Writers Program** — participants set a personal word-count micro-goal per day toward a novel, a structure shown to sustain long writing projects through visible daily progress.
 - **Writing process instruction** — breaking an essay assignment into outline, draft, and revision micro-deadlines, each with feedback, rather than a single due date.

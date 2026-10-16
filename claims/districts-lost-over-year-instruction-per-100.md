@@ -3,7 +3,7 @@ type: claim
 title: In many large districts, secondary students lost more than a year of instruction per 100 enrolled, up to 416 days in Grand Rapids, MI
 description: In many large districts, secondary students lost more than a year of instruction per 100 enrolled, up to 416 days in Grand Rapids, MI
 id: districts-lost-over-year-instruction-per-100
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

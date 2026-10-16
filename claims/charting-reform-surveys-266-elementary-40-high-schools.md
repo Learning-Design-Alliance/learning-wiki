@@ -3,7 +3,7 @@ type: claim
 title: The Charting Reform surveys reached 266 elementary schools and 40 high schools in Chicago in Spring 1994
 description: The Charting Reform surveys reached 266 elementary schools and 40 high schools in Chicago in Spring 1994
 id: charting-reform-surveys-266-elementary-40-high-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

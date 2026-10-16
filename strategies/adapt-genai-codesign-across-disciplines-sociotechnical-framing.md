@@ -3,7 +3,7 @@ type: strategy
 id: adapt-genai-codesign-across-disciplines-sociotechnical-framing
 title: Adapt the guided inquiry policy co-design activity across disciplines, framing AI as a sociotechnical system
 description: The authors offer a forward-looking design recommendation for instructors adapting the activity beyond technical fields.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -50,4 +50,4 @@ The authors offer a forward-looking design recommendation for instructors adapti
 -
 
 ## Key Sources
-- Hingle, A., & Johri, A. (2025). A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies. https://www.google.com/search?q=A+Guided+Inquiry+Approach+to+Students+Co-Designing+Generative+AI+Course+Policies
+- Hingle, A., & Johri, A. (2025). A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies. https://www.google.com/search?q=A+Guided+Inquiry+Approach+to+Students+Co-Designing+Generative+AI+Course+Policies. [doi:10.1108/aiie-05-2025-0123](https://doi.org/10.1108/aiie-05-2025-0123)

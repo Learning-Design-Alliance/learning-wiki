@@ -3,7 +3,7 @@ type: claim
 title: Language teachers in two workshops responded positively to the evaluation framework, leading to a four-category revision
 description: Language teachers in two workshops responded positively to the evaluation framework, leading to a four-category revision
 id: teacher-workshops-validate-app-evaluation-framework
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: The increased efficiency effect threatens the validity of response-time models that presume item response time is influenced only by item time intensity, ability, and working speed
 description: The increased efficiency effect threatens the validity of response-time models that presume item response time is influenced only by item time intensity, ability, and working speed
 id: increased-efficiency-threatens-response-time-model-validity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

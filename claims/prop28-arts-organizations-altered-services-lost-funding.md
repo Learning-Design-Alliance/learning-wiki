@@ -3,7 +3,7 @@ type: claim
 title: Community arts organizations have altered their services and experienced loss of funding and contracts under Prop 28 AMS
 description: Community arts organizations have altered their services and experienced loss of funding and contracts under Prop 28 AMS
 id: prop28-arts-organizations-altered-services-lost-funding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

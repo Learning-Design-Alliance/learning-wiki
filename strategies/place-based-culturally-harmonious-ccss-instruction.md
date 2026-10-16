@@ -3,7 +3,7 @@ type: strategy
 id: place-based-culturally-harmonious-ccss-instruction
 title: Teach AI/AN students through place-based content, culturally familiar interaction patterns, and culturally harmonious assessment integrated with the CCSS
 description: "The report states that success of the CCSS with AI/AN students requires integrating CCSS with local culture-based standards: \"teaching concepts through place-based content, drawing on culturally familiar interaction a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: design
 id: frac-feedback-literacy-script
 title: FRAC Feedback Literacy Script (Filter–Reason–Act–Check)
 description: "FRAC is a four-step feedback literacy script that guides students' processing of external AI feedback: \"Filter, identifying the type of problem addressed by the feedback; Reason, judging whether the feedback was valid..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

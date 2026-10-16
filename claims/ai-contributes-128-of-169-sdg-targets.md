@@ -3,7 +3,7 @@ type: claim
 title: The review reports that AI positively contributes to 128 of the 169 SDG targets
 description: The review reports that AI positively contributes to 128 of the 169 SDG targets
 id: ai-contributes-128-of-169-sdg-targets
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

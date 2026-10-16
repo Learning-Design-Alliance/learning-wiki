@@ -3,7 +3,7 @@ type: claim
 title: Caregivers and healthcare workers perceived Family MUAC with two-way SMS as acceptable, cost-saving, appropriate, and feasible
 description: Caregivers and healthcare workers perceived Family MUAC with two-way SMS as acceptable, cost-saving, appropriate, and feasible
 id: family-muac-sms-perceived-acceptable-feasible
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

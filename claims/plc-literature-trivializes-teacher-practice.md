@@ -3,7 +3,7 @@ type: claim
 title: "Current PLC formulations trivialize teacher practice, which the authors argue severely limits the model's usefulness"
 description: "Current PLC formulations trivialize teacher practice, which the authors argue severely limits the model's usefulness"
 id: plc-literature-trivializes-teacher-practice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

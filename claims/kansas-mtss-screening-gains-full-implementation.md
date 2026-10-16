@@ -3,7 +3,7 @@ type: claim
 title: Universal screening data from full-implementation schools show average fall-to-spring gains in reading and math, largest in kindergarten
 description: Universal screening data from full-implementation schools show average fall-to-spring gains in reading and math, largest in kindergarten
 id: kansas-mtss-screening-gains-full-implementation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

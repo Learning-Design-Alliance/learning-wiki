@@ -3,7 +3,7 @@ type: claim
 title: Educators report needing training, resources, and institutional support to introduce educational change
 description: Educators report needing training, resources, and institutional support to introduce educational change
 id: educators-need-training-resources-institutional-support-for-change
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

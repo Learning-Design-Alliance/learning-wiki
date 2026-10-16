@@ -3,7 +3,7 @@ type: claim
 title: LLM grading patterns cluster into six groups aligned with vendor families, with highest correlations within same-vendor model families
 description: LLM grading patterns cluster into six groups aligned with vendor families, with highest correlations within same-vendor model families
 id: llm-grading-vendor-specific-six-clusters
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

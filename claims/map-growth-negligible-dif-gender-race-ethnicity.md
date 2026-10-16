@@ -3,7 +3,7 @@ type: claim
 title: DIF analyses indicate the vast majority of MAP Growth items show negligible differential item functioning across gender and racial/ethnic groups
 description: DIF analyses indicate the vast majority of MAP Growth items show negligible differential item functioning across gender and racial/ethnic groups
 id: map-growth-negligible-dif-gender-race-ethnicity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

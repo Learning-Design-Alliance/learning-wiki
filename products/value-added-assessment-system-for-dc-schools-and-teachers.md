@@ -4,7 +4,7 @@ id: value-added-assessment-system-for-dc-schools-and-teachers
 title: Value-Added Assessment System for DC Schools and Teachers
 description: A district accountability assessment system prepared for and run by District of Columbia Public Schools to estimate school and teacher value added.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
@@ -220,7 +220,7 @@ The article is associated with the project "Value-Added Assessment System for DC
 - [New Leaders school and teacher effectiveness identification methods](../elements/new-leaders-effectiveness-identification-methods.md)
 - [Mathematica's value-added analysis approach for Oklahoma's Teacher and Leader Effectiveness Evaluation System](../research-methods/longitudinal-achievement-growth-analysis.md)
 - [Value-added models estimating teacher and school contributions to student achievement in Pittsburgh Public Schools](../elements/pittsburgh-value-added-models-teacher-school-contributions.md)
-- [Four principal performance measures based on student test scores](../elements/four-test-score-principal-performance-measures.md)
+- [Four principal performance measures based on student test scores](../elements/four-principal-test-score-performance-measures.md)
 - [Value-added model for measuring school and teacher performance in DC Public Schools (IMPACT and TEAM)](../elements/dc-impact-team-value-added-model.md)
 - [BRIDGE teacher and principal evaluation value-added models](../elements/bridge-teacher-principal-evaluation-value-added-models.md)
 - [Value-added models for measuring school and teacher effectiveness in DC Public Schools (IMPACT and TEAM), 2010-2011](../products/value-added-assessment-system-for-dc-schools-and-teachers.md)

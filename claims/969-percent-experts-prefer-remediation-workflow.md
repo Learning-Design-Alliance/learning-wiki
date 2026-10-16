@@ -3,7 +3,7 @@ type: claim
 title: "96.9% of participating experts reported the video-assessment-remediation workflow provides a more effective learning experience than instructional videos alone"
 description: "96.9% of participating experts reported the video-assessment-remediation workflow provides a more effective learning experience than instructional videos alone"
 id: 969-percent-experts-prefer-remediation-workflow
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

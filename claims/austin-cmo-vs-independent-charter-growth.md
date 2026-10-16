@@ -3,7 +3,7 @@ type: claim
 title: Austin CMO-affiliated charters outperformed independent Austin charters in both subjects
 description: Austin CMO-affiliated charters outperformed independent Austin charters in both subjects
 id: austin-cmo-vs-independent-charter-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

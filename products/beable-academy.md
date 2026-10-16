@@ -4,7 +4,7 @@ id: beable-academy
 title: Beable Academy
 description: "Beable Academy is Beable's self-paced online professional-development programme for educators, complemented by orientation and ongoing platform support."
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

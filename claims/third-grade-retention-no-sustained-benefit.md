@@ -3,7 +3,7 @@ type: claim
 title: Third-grade retention under the Chicago policy produced no sustained academic benefits or substantial negative effects
 description: Third-grade retention under the Chicago policy produced no sustained academic benefits or substantial negative effects
 id: third-grade-retention-no-sustained-benefit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

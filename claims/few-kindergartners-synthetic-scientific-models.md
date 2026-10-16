@@ -3,7 +3,7 @@ type: claim
 title: "Few kindergartners hold synthetic (18%) or scientific (13%) models of the day and night cycle despite no formal instruction"
 description: "Few kindergartners hold synthetic (18%) or scientific (13%) models of the day and night cycle despite no formal instruction"
 id: few-kindergartners-synthetic-scientific-models
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

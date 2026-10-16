@@ -3,7 +3,7 @@ type: claim
 title: The five career pathways recommendations are supported by 21 studies with participant samples ranging from 124 to 42,984 students
 description: The five career pathways recommendations are supported by 21 studies with participant samples ranging from 124 to 42,984 students
 id: career-pathways-evidence-base-21-studies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

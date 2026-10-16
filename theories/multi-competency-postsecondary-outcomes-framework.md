@@ -2,7 +2,7 @@
 type: theory
 title: Multi-competency framework linking academic and nonacademic competency indicators to postsecondary outcomes
 description: The report organizes student competencies into several indicator categories—math skills, work habits, leadership skills, teamwork and other sports-related skills, and attitudes about whether luck or effort determine s...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

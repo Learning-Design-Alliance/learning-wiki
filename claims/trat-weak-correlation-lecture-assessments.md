@@ -3,7 +3,7 @@ type: claim
 title: TRAT scores correlate only very low-to-low with lecture assessment scores, with significance limited to a few topics
 description: TRAT scores correlate only very low-to-low with lecture assessment scores, with significance limited to a few topics
 id: trat-weak-correlation-lecture-assessments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

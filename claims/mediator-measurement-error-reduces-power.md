@@ -3,7 +3,7 @@ type: claim
 title: Measurement error in the mediator reduces statistical power for mediator-achievement association estimates
 description: Measurement error in the mediator reduces statistical power for mediator-achievement association estimates
 id: mediator-measurement-error-reduces-power
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

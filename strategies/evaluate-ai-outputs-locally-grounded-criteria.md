@@ -3,7 +3,7 @@ type: strategy
 id: evaluate-ai-outputs-locally-grounded-criteria
 title: Structure opportunities for students to evaluate AI outputs using locally grounded criteria of relevance, harm, and usefulness
 description: "For computing educators, the paper recommends creating \"structured opportunities for students to evaluate AI outputs using locally grounded criteria of relevance, harm, and usefulness, positioning AI as one interpreti..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

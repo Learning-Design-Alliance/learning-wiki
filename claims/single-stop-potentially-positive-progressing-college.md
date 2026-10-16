@@ -3,7 +3,7 @@ type: claim
 title: Single Stop has potentially positive effects on progressing in college among first-time community college students
 description: Single Stop has potentially positive effects on progressing in college among first-time community college students
 id: single-stop-potentially-positive-progressing-college
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

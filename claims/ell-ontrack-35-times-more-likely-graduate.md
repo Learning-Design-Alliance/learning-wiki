@@ -3,7 +3,7 @@ type: claim
 title: Ninth-grade on-track ELL students in Chicago were up to 3.5 times more likely to graduate than off-track students
 description: Ninth-grade on-track ELL students in Chicago were up to 3.5 times more likely to graduate than off-track students
 id: ell-ontrack-35-times-more-likely-graduate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Thematic focus in GenAI education literature intensified from 2023 to 2025, with 2025 showing the heaviest flows and Context of Use dominating
 description: Thematic focus in GenAI education literature intensified from 2023 to 2025, with 2025 showing the heaviest flows and Context of Use dominating
 id: genai-literature-thematic-intensification-2023-2025
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

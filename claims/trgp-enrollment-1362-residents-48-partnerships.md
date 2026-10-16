@@ -3,7 +3,7 @@ type: claim
 title: TRGP-funded resident enrollment in California grew from 297 residents in 2019-20 to 428 in 2022-23, totaling 1,362 residents across 48 funded partnerships over 4 years
 description: TRGP-funded resident enrollment in California grew from 297 residents in 2019-20 to 428 in 2022-23, totaling 1,362 residents across 48 funded partnerships over 4 years
 id: trgp-enrollment-1362-residents-48-partnerships
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

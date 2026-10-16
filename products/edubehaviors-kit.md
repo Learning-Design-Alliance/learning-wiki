@@ -4,7 +4,7 @@ id: edubehaviors-kit
 title: EduBehaviors-kit
 description: EduBehaviors-kit is an open-source Python package developed by Julian Bernado et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

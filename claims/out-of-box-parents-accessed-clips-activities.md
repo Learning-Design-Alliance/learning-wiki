@@ -3,7 +3,7 @@ type: claim
 title: "In an out-of-the-box evaluation, 60% of parents accessed video clips and 52% accessed activities without prompting or instruction"
 description: "In an out-of-the-box evaluation, 60% of parents accessed video clips and 52% accessed activities without prompting or instruction"
 id: out-of-box-parents-accessed-clips-activities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: design
 id: linked-classroom-home-caregiver-math-activities
 title: Linked classroom and home caregiver-child math activity model for early mathematics
 description: This instructional pattern pairs weekly teacher-led small-group classroom math activities with caregiver-child home activities linked to the classroom content.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-07

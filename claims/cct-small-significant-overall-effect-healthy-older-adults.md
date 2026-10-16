@@ -3,7 +3,7 @@ type: claim
 title: Computerized cognitive training produces a small but statistically significant improvement in cognitive performance in healthy older adults
 description: Computerized cognitive training produces a small but statistically significant improvement in cognitive performance in healthy older adults
 id: cct-small-significant-overall-effect-healthy-older-adults
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

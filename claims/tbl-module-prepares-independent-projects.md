@@ -3,7 +3,7 @@ type: claim
 title: After the TBL module, students were better prepared to design and implement independent final research projects
 description: After the TBL module, students were better prepared to design and implement independent final research projects
 id: tbl-module-prepares-independent-projects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

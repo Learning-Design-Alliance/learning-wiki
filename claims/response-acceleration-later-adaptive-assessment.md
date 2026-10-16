@@ -3,7 +3,7 @@ type: claim
 title: "Response acceleration occurs in adaptive testing: response time is reduced for responses occurring later in the assessment"
 description: "Response acceleration occurs in adaptive testing: response time is reduced for responses occurring later in the assessment"
 id: response-acceleration-later-adaptive-assessment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

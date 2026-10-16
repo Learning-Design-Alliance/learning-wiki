@@ -3,7 +3,7 @@ type: claim
 title: IRAT scores correlate low-to-moderately and significantly with pharmacy calculations lecture assessment scores
 description: IRAT scores correlate low-to-moderately and significantly with pharmacy calculations lecture assessment scores
 id: irat-low-moderate-correlation-lecture-assessments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

@@ -4,7 +4,7 @@ id: tclas-high-quality-sustainable-residency-program-grant
 title: TCLAS High-Quality, Sustainable Residency Program grant
 description: A Texas Education Agency grant initiative that funded paid teacher-residency placements and technical assistance for districts and state-approved educator-preparation providers.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

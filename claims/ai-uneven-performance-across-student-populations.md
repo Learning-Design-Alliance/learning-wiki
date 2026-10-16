@@ -3,7 +3,7 @@ type: claim
 title: AI-based analyses of student learning may perform unevenly across student populations, limiting comparability of findings across settings
 description: AI-based analyses of student learning may perform unevenly across student populations, limiting comparability of findings across settings
 id: ai-uneven-performance-across-student-populations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

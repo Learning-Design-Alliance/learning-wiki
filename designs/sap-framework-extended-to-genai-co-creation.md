@@ -3,7 +3,7 @@ type: design
 id: sap-framework-extended-to-genai-co-creation
 title: Students-as-partners framework extended to GenAI tool co-creation
 description: "The students-as-partners (SaP) framework positions students and staff in a \"collaborative, reciprocal process through which all participants have the opportunity to contribute equally, although not necessarily in the..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

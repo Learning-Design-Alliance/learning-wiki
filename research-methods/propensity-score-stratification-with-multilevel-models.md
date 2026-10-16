@@ -3,7 +3,7 @@ type: research-method
 id: propensity-score-stratification-with-multilevel-models
 title: Propensity score stratification with multilevel models
 description: When estimating the achievement effects of school transfer or school choice from non-experimental data, the article recommends combining propensity score stratification with multilevel models.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

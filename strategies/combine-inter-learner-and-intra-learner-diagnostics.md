@@ -3,7 +3,7 @@ type: strategy
 id: combine-inter-learner-and-intra-learner-diagnostics
 title: Combine inter-learner rankings with intra-learner diagnostics in assessment and feedback
 description: "The authors' forward-looking recommendation for deploying analytic assessment: while inter-learner rankings provide essential comparative data, they should be paired with the self-referential, within-learner diagnosti..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: element
 id: adlab-enculturation-elements
 title: Five enculturation elements of a classroom community of practice that encourage authentic practices of physicists
 description: "The article names five enculturation elements that the structural features and instructional choice produce and that are \"not typical of a classroom community\": \"Classroom norms and expectations\", \"Distributed experti..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -48,4 +48,4 @@ The article names five enculturation elements that the structural features and i
 -
 
 ## Key Sources
-- Irving, P. W., & Sayre, E. C. (2013). Conditions for building a community of practice in an advanced physics laboratory. https://arxiv.org/abs/1312.1953
+- Irving, P. W., & Sayre, E. C. (2013). Conditions for building a community of practice in an advanced physics laboratory. https://arxiv.org/abs/1312.1953. [doi:10.48550/arxiv.1312.1953](https://doi.org/10.48550/arxiv.1312.1953)

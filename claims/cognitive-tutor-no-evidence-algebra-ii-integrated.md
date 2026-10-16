@@ -3,7 +3,7 @@ type: claim
 title: No studies of Cognitive Tutor® Algebra II or Integrated Math I–III meet WWC standards, so the report makes no effectiveness findings for those courses
 description: No studies of Cognitive Tutor® Algebra II or Integrated Math I–III meet WWC standards, so the report makes no effectiveness findings for those courses
 id: cognitive-tutor-no-evidence-algebra-ii-integrated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -46,3 +46,4 @@ Scope statement from the WWC systematic review: of 22 eligible studies identifie
 - [No studies meeting WWC group design standards exist for UCSMP Geometry, Advanced Algebra, Functions Statistics and Trigonometry, or Precalculus and Discrete Mathematics](no-evidence-other-ucsmp-secondary-courses.md) — related
 - [The evidence base for UCSMP is small, with no studies meeting WWC group design standards without reservations](ucsmp-small-evidence-base-no-unreserved-studies.md) — related
 - [Cognitive Tutor® Algebra I has mixed effects on algebra outcomes for secondary students, with an average improvement index of +4 percentile points across five studies](cognitive-tutor-algebra-i-mixed-effects-algebra.md) — related
+- [Use of worked examples in the Cognitive Tutor Algebra course was discouraged by collaborating instructors](worked-examples-discouraged-cognitive-tutor-algebra.md) — related

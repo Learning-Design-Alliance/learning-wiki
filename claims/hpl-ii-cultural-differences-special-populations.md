@@ -3,7 +3,7 @@ type: claim
 title: The study gives explicit consideration to cultural differences and similarities in learning, including English learners and learners with learning disabilities
 description: The study gives explicit consideration to cultural differences and similarities in learning, including English learners and learners with learning disabilities
 id: hpl-ii-cultural-differences-special-populations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

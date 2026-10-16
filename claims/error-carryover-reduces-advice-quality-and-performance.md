@@ -3,7 +3,7 @@ type: claim
 title: Carryover of user errors into AI advice reduces both advice quality and final ranking accuracy
 description: Carryover of user errors into AI advice reduces both advice quality and final ranking accuracy
 id: error-carryover-reduces-advice-quality-and-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

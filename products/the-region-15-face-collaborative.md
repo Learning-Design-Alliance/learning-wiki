@@ -4,7 +4,7 @@ id: the-region-15-face-collaborative
 title: The Region 15 FACE Collaborative
 description: A Region 15 Comprehensive Center initiative that convenes state education agency family and community engagement leaders across Arizona, California, Nevada, and Utah to share practices, learn from experts, and develop state-level projects.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

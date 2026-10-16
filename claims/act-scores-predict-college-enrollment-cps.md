@@ -3,7 +3,7 @@ type: claim
 title: CPS graduates with higher ACT scores had higher overall and four-year enrollment rates, and at least an ACT score of 18 gave at least a 50 percent probability of four-year enrollment
 description: CPS graduates with higher ACT scores had higher overall and four-year enrollment rates, and at least an ACT score of 18 gave at least a 50 percent probability of four-year enrollment
 id: act-scores-predict-college-enrollment-cps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

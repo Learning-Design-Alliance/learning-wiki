@@ -3,7 +3,7 @@ type: claim
 title: Equipercentile linking shows grade 3 screening benchmark cut scores identifying at-risk students cluster in the MCAS Partially Meeting Expectations performance level, with variation among assessments
 description: Equipercentile linking shows grade 3 screening benchmark cut scores identifying at-risk students cluster in the MCAS Partially Meeting Expectations performance level, with variation among assessments
 id: risk-cut-scores-cluster-mcas-partially-meeting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

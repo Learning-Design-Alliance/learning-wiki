@@ -3,7 +3,7 @@ type: design
 id: content-language-integration-bricks-and-mortar
 title: Language-embedded, project-based college-preparatory curriculum integrating content and language objectives
 description: "At Oakland International, all students learn English language skills alongside academic content within college-preparatory courses, using a project-based curriculum centered on students' lives and cultures."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

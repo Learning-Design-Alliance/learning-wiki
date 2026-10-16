@@ -3,7 +3,7 @@ type: claim
 title: The report analyzes several competencies simultaneously rather than one at a time
 description: The report analyzes several competencies simultaneously rather than one at a time
 id: simultaneous-analysis-of-multiple-competencies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

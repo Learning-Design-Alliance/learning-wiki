@@ -3,7 +3,7 @@ type: claim
 title: Linking CPS, ISBE, and ICCB records through the CDDA ID matched 97 percent of the 2012 CPS graduating class to ICCB data
 description: Linking CPS, ISBE, and ICCB records through the CDDA ID matched 97 percent of the 2012 CPS graduating class to ICCB data
 id: cdda-id-links-97-percent-cps-graduates-iccb
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

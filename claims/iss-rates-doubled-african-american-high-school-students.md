@@ -3,7 +3,7 @@ type: claim
 title: In-school suspension rates nearly doubled for African American high school students between 2008-09 and 2013-14 while remaining steady for other groups
 description: In-school suspension rates nearly doubled for African American high school students between 2008-09 and 2013-14 while remaining steady for other groups
 id: iss-rates-doubled-african-american-high-school-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

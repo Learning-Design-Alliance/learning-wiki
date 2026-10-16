@@ -4,7 +4,7 @@ id: three-component-framework-for-portrait-of-a-graduate-assessment-systems
 title: Three-component framework for Portrait of a Graduate assessment systems
 description: A framework developed by Kyle Dunbar et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

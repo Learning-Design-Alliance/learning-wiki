@@ -3,7 +3,7 @@ type: strategy
 id: lms-embedded-question-categorisation-ethical-guidelines
 title: Embed automated question categorisation in learning management systems and develop ethical guidelines for AI in formative assessment
 description: "The article recommends that \"Learning management systems could benefit from embedding automated question categorisation functions to identify students' learning needs more efficiently\" and that \"Educational institutio..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

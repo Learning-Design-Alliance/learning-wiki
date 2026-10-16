@@ -3,7 +3,7 @@ type: strategy
 id: inform-at-multiple-data-collection-contact-points
 title: Inform students about data collection at multiple contact points across their program, not only once at admission
 description: "The article suggests institutions communicate data collection details repeatedly rather than once, because \"over 50% of respondents thought that students should be informed at multiple \"contact points,\" ranging from i..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

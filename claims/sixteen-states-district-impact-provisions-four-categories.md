@@ -3,7 +3,7 @@ type: claim
 title: "Sixteen states have district impact provisions in statute or regulation, and these fall into four primary categories: fiscal, demographic, programmatic, and general"
 description: "Sixteen states have district impact provisions in statute or regulation, and these fall into four primary categories: fiscal, demographic, programmatic, and general"
 id: sixteen-states-district-impact-provisions-four-categories
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

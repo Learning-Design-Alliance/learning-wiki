@@ -3,7 +3,7 @@ type: claim
 title: Reading achievement remained stalled as of Spring 2025 according to MAP Growth national data
 description: Reading achievement remained stalled as of Spring 2025 according to MAP Growth national data
 id: spring-2025-map-growth-reading-stalled
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Teacher autonomy for AI decision-making varies sharply across national contexts
 description: Teacher autonomy for AI decision-making varies sharply across national contexts
 id: teacher-autonomy-ai-varies-nationally
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

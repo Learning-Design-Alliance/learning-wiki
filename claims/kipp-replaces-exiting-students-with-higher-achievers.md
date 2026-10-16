@@ -3,7 +3,7 @@ type: claim
 title: Unlike district schools, KIPP middle schools tend to replace exiting students with higher-achieving students
 description: Unlike district schools, KIPP middle schools tend to replace exiting students with higher-achieving students
 id: kipp-replaces-exiting-students-with-higher-achievers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

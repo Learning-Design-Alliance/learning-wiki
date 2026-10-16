@@ -3,7 +3,7 @@ type: claim
 title: Predictive accuracy of enrollment forecasts is not meaningfully different in schools with larger proportions of Black students, economically disadvantaged students, or English learner students
 description: Predictive accuracy of enrollment forecasts is not meaningfully different in schools with larger proportions of Black students, economically disadvantaged students, or English learner students
 id: sdp-enrollment-prediction-accuracy-equity-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

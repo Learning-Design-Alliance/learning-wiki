@@ -3,7 +3,7 @@ type: claim
 title: ELs lost more academic skill during summers than never-ELs in both math and reading
 description: ELs lost more academic skill during summers than never-ELs in both math and reading
 id: el-greater-summer-loss-both-subjects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -11,7 +11,7 @@ evidence_strength: moderate
 sources:
   - id: johnson-2022
     resource: "https://doi.org/10.1177/08959048211049419"
-    title: "Johnson, A. (2022). Achievement and growth for English Learners. Educational Policy. https://doi.org/10.1177/08959048211049419"
+    title: "Johnson, A. (2022). Achievement and growth for English Learners. *Educational Policy, 37*(4), 1044–1069. https://doi.org/10.1177/08959048211049419"
     author: Johnson, A.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Johnson 2022
 
-Johnson, A. (2022). Achievement and growth for English Learners. Educational Policy. https://doi.org/10.1177/08959048211049419
+Johnson, A. (2022). Achievement and growth for English Learners. *Educational Policy, 37*(4), 1044–1069. https://doi.org/10.1177/08959048211049419
 
 `q2 · i?` · `associational · r?`
 

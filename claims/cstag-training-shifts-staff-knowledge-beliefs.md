@@ -3,7 +3,7 @@ type: claim
 title: CSTAG training shifts staff knowledge and beliefs, improving threat-assessment accuracy and reducing support for zero-tolerance policies
 description: CSTAG training shifts staff knowledge and beliefs, improving threat-assessment accuracy and reducing support for zero-tolerance policies
 id: cstag-training-shifts-staff-knowledge-beliefs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

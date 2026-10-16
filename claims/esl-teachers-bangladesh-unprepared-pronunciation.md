@@ -3,7 +3,7 @@ type: claim
 title: ESL teachers in Bangladesh lack adequate pronunciation-instruction training, leaving them unprepared to teach pronunciation
 description: ESL teachers in Bangladesh lack adequate pronunciation-instruction training, leaving them unprepared to teach pronunciation
 id: esl-teachers-bangladesh-unprepared-pronunciation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Confusion about allowable Prop 28 AMS expenses at school and district levels has reduced funding directed to community arts organizations
 description: Confusion about allowable Prop 28 AMS expenses at school and district levels has reduced funding directed to community arts organizations
 id: prop28-confusion-reduced-funding-to-arts-organizations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

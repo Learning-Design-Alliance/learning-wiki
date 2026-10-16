@@ -3,7 +3,7 @@ type: design
 id: llmersion-four-local-first-design-principles
 title: Four design principles for a local-first AI language-tutor scheme (P1-P4)
 description: "The article's scheme is organized as four design principles, each answering one identified constraint: \"(P1) a web interface backed entirely by local, free, lowest-hardware-cost models\"; (P2) the complete listening-re..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11
@@ -47,4 +47,4 @@ The article's scheme is organized as four design principles, each answering one 
 -
 
 ## Key Sources
-- Guo, Q., Tang, J., Huang, X., Lin, H.-Y., Zhong, Y., & Zhuang, X. (2026). LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity. https://arxiv.org/abs/2609.29672
+- Guo, Q., Tang, J., Huang, X., Lin, H.-Y., Zhong, Y., & Zhuang, X. (2026). LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity. https://arxiv.org/abs/2609.29672. [doi:10.48550/arxiv.2609.29672](https://doi.org/10.48550/arxiv.2609.29672)

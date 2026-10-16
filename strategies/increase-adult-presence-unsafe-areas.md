@@ -3,7 +3,7 @@ type: strategy
 id: increase-adult-presence-unsafe-areas
 title: Increase adult presence in the areas where students feel least safe, particularly just outside and around the school building
 description: The report recommends that school leaders identify the specific locations where students feel least safe and respond by increasing adult supervision in those areas.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

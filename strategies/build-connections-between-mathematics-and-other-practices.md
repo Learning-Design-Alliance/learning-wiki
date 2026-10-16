@@ -3,7 +3,7 @@ type: strategy
 id: build-connections-between-mathematics-and-other-practices
 title: Build Connections Between Mathematics and Other Practices
 description: "The author's recommendation that \"mathematics education researchers need to build connections between mathematics and other practices\" in order to humanize mathematics and make it normal and ordinary."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

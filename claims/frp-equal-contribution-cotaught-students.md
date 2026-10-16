@@ -3,7 +3,7 @@ type: claim
 title: The Full Roster-Plus Method gives co-taught students full weight with their teachers while all students contribute equally to the student-characteristics and achievement relationship
 description: The Full Roster-Plus Method gives co-taught students full weight with their teachers while all students contribute equally to the student-characteristics and achievement relationship
 id: frp-equal-contribution-cotaught-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

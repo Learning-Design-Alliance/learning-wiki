@@ -2,7 +2,7 @@
 type: theory
 title: "SDT motivation continuum: four forms of extrinsic motivation varying in autonomy"
 description: "The article describes SDT's motivational continuum ranging from externally regulated to internally driven, self-directed behavior."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

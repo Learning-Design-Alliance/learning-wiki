@@ -3,7 +3,7 @@ type: claim
 title: The pipeline feasibly produces coherent, synchronized educational videos from textbook queries, integrating retrieval, image generation, animation, and speech
 description: The pipeline feasibly produces coherent, synchronized educational videos from textbook queries, integrating retrieval, image generation, animation, and speech
 id: feasible-synchronized-video-generation-from-textbook-queries
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

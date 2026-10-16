@@ -3,7 +3,7 @@ type: strategy
 id: integrate-genai-design-education-strategies
 title: Design educators should strengthen primary research, foster critical verification habits, and move students from consumers to makers of GenAI tools
 description: "The article's conclusions propose educational responses to emerging GenAI practices in design education."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

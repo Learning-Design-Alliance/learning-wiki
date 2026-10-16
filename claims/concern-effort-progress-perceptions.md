@@ -3,7 +3,7 @@ type: claim
 title: "Teachers combined high concern about education's future with belief that change requires active effort and that AI is associated with progress"
 description: "Teachers combined high concern about education's future with belief that change requires active effort and that AI is associated with progress"
 id: concern-effort-progress-perceptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

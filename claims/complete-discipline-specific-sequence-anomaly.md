@@ -3,7 +3,7 @@ type: claim
 title: Access to a complete single-discipline course sequence is rare in NWEA partner middle schools
 description: Access to a complete single-discipline course sequence is rare in NWEA partner middle schools
 id: complete-discipline-specific-sequence-anomaly
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

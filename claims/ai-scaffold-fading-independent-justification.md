@@ -3,7 +3,7 @@ type: claim
 title: Progressive scaffold fading moved teachers from guided participation toward independent justification, generalization, and task design
 description: Progressive scaffold fading moved teachers from guided participation toward independent justification, generalization, and task design
 id: ai-scaffold-fading-independent-justification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

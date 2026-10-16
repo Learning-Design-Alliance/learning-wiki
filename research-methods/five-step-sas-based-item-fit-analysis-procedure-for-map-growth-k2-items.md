@@ -3,7 +3,7 @@ type: research-method
 id: five-step-sas-based-item-fit-analysis-procedure-for-map-growth-k2-items
 title: Five-step SAS-based item fit analysis procedure for MAP Growth K–2 items
 description: A psychometric quality-control procedure for validating Rasch-calibrated items after difficulty adjustment.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

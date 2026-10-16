@@ -3,7 +3,7 @@ type: claim
 title: The full 32-item computing career intentions survey shows very good internal consistency (alpha = 0.94) in a large-scale field test
 description: The full 32-item computing career intentions survey shows very good internal consistency (alpha = 0.94) in a large-scale field test
 id: full-survey-internal-consistency-alpha-094
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

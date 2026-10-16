@@ -3,7 +3,7 @@ type: claim
 title: Districts defined pilot success differently, making it difficult to set a standard for evaluating product effects on student improvement
 description: Districts defined pilot success differently, making it difficult to set a standard for evaluating product effects on student improvement
 id: varied-success-definitions-hinder-evaluation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: match-refinement-strategy-to-quality-criterion
 title: "Match the refinement coordination strategy to the quality criterion: decentralized refinement for localized criteria, centralized planning for holistic ones"
 description: The article recommends coordinating validator feedback differently depending on the criterion being refined.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

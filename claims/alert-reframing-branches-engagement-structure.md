@@ -3,7 +3,7 @@ type: claim
 title: "A negative-emotion alert followed by cognitive-affective reframing of the task coincided with branching of one student's engagement structure from completion-oriented to exploratory engagement"
 description: "A negative-emotion alert followed by cognitive-affective reframing of the task coincided with branching of one student's engagement structure from completion-oriented to exploratory engagement"
 id: alert-reframing-branches-engagement-structure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

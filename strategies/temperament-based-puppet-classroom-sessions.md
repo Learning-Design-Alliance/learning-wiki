@@ -3,7 +3,7 @@ type: strategy
 id: temperament-based-puppet-classroom-sessions
 title: Use temperament-based classroom sessions with puppets, videos and activities to build empathy and dilemma resolution
 description: "The strategy is a classroom implementation recipe drawn from INSIGHTS: children participate in \"10 weekly 30-minute sessions in their own classrooms led by their teachers to help the class gain empathy and resolve dil..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

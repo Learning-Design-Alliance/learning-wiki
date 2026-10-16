@@ -3,7 +3,7 @@ type: strategy
 id: focused-theory-driven-embedded-manipulations
 title: Design classroom-embedded experiments as small, focused, theory-driven manipulations
 description: "The report recommends that classroom-embedded experiments test \"small, focused manipulations, particularly when they can isolate specific mechanisms or constructs from learning sciences\" so there is a clear pathway fr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

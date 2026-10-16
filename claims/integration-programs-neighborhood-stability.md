@@ -3,7 +3,7 @@ type: claim
 title: Neighborhoods participating in regional school integration programs tend to be more demographically stable, the report reports citing prior research
 description: Neighborhoods participating in regional school integration programs tend to be more demographically stable, the report reports citing prior research
 id: integration-programs-neighborhood-stability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

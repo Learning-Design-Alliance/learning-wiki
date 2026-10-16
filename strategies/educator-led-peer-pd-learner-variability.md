@@ -3,7 +3,7 @@ type: strategy
 id: educator-led-peer-pd-learner-variability
 title: Educator-led peer professional development workshops on learner variability
 description: This strategy has educators who have learned a framework lead short workshops for their colleagues rather than receiving expert-led training.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

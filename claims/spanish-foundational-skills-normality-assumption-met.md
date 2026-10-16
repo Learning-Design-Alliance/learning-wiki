@@ -3,7 +3,7 @@ type: claim
 title: The multivariate normality assumption of the true score model was judged reasonable for all domains and grades
 description: The multivariate normality assumption of the true score model was judged reasonable for all domains and grades
 id: spanish-foundational-skills-normality-assumption-met
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

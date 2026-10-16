@@ -3,7 +3,7 @@ type: claim
 title: Children who attend pre-kindergarten are advanced on language, reading, writing, and math skills compared to similar children who did not attend
 description: Children who attend pre-kindergarten are advanced on language, reading, writing, and math skills compared to similar children who did not attend
 id: prek-advanced-language-reading-writing-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

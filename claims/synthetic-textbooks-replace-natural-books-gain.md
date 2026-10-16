@@ -3,7 +3,7 @@ type: claim
 title: Replacing natural books with synthetic textbooks improves the 28-benchmark mean by +1.09, with gains spanning all four categories
 description: Replacing natural books with synthetic textbooks improves the 28-benchmark mean by +1.09, with gains spanning all four categories
 id: synthetic-textbooks-replace-natural-books-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

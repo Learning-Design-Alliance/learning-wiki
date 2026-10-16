@@ -3,7 +3,7 @@ type: claim
 title: Missing five days of school in the first semester of ninth grade decreases the likelihood of eventually graduating high school by 25 percentage points
 description: Missing five days of school in the first semester of ninth grade decreases the likelihood of eventually graduating high school by 25 percentage points
 id: ninth-grade-five-absences-graduation-drop
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

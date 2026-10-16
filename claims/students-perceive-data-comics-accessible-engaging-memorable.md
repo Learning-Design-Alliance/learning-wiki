@@ -3,7 +3,7 @@ type: claim
 title: Students perceived data comics as more accessible, more engaging, and easier to retain information from than conventional visualisations
 description: Students perceived data comics as more accessible, more engaging, and easier to retain information from than conventional visualisations
 id: students-perceive-data-comics-accessible-engaging-memorable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

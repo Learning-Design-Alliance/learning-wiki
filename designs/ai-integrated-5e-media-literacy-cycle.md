@@ -3,7 +3,7 @@ type: design
 id: ai-integrated-5e-media-literacy-cycle
 title: AI-integrated 5E learning cycle for critical media literacy in elementary grades
 description: An 18-hour instructional pattern that maps each phase of the 5E learning cycle (Engage, Explore, Explain, Elaborate, Evaluate) onto specific AI and digital tools, activities, and national curriculum outcomes.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

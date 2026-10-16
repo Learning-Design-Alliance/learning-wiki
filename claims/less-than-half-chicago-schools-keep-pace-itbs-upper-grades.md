@@ -3,7 +3,7 @@ type: claim
 title: Less than half of Chicago elementary schools keep pace with ITBS grade-level content expectations during the last three years of elementary schooling
 description: Less than half of Chicago elementary schools keep pace with ITBS grade-level content expectations during the last three years of elementary schooling
 id: less-than-half-chicago-schools-keep-pace-itbs-upper-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

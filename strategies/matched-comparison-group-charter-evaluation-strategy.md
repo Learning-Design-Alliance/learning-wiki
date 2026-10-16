@@ -3,7 +3,7 @@ type: strategy
 id: matched-comparison-group-charter-evaluation-strategy
 title: Evaluate charter school impacts by matching students to demographically and academically similar comparison students
 description: "The report measures a charter school's impact by identifying a comparison group of students in other district and charter schools who were similar on observed characteristics, then comparing outcomes."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

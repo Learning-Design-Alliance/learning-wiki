@@ -3,7 +3,7 @@ type: claim
 title: "The detection gain comes from restoring the missing prompt-response relation, not merely assigning an assistant role: the full prefix outperforms the empty prompt by 14.73% and 12.57% AUROC on Qwen2.5-3B and 5.63% and 5.33% on Llama-3.1-8B"
 description: "The detection gain comes from restoring the missing prompt-response relation, not merely assigning an assistant role: the full prefix outperforms the empty prompt by 14.73% and 12.57% AUROC on Qwen2.5-3B and 5.63% and..."
 id: prompt-component-ablation-context-clause
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

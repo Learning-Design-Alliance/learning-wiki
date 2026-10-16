@@ -3,7 +3,7 @@ type: element
 id: census-based-neighborhood-grouping-method
 title: Data-driven neighborhood-characterization method using publicly available census data
 description: A data-driven method for characterizing neighborhoods that leverages publicly available census data and allows researchers to consider many neighborhood characteristics simultaneously.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

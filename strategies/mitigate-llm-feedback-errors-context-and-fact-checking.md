@@ -3,7 +3,7 @@ type: strategy
 id: mitigate-llm-feedback-errors-context-and-fact-checking
 title: Mitigate LLM feedback errors by supplying course materials and compiler errors in the prompt, fact-checking generated feedback, and adapting feedback structure to student behavior
 description: "The article's discussion and future-work section recommend concrete mitigations for LLM-generated feedback errors: providing relevant learning materials in the prompt may mitigate issues \"especially when the model's k..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

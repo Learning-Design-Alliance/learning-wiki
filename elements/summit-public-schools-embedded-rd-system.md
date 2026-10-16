@@ -3,7 +3,7 @@ type: element
 id: summit-public-schools-embedded-rd-system
 title: "Summit Public Schools' embedded R&D system: internal R&D team, mentoring program, self-directed learning curriculum, and progress-tracking platform"
 description: "Summit Public Schools, a charter network in California and Washington, embeds R&D in its educational model using continuous improvement principles."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

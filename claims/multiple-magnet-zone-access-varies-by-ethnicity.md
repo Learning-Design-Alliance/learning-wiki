@@ -3,7 +3,7 @@ type: claim
 title: African-American and Asian students are more likely than Latino and white students to live within multiple magnet neighborhood zones
 description: African-American and Asian students are more likely than Latino and white students to live within multiple magnet neighborhood zones
 id: multiple-magnet-zone-access-varies-by-ethnicity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

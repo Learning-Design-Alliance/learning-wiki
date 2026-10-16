@@ -3,7 +3,7 @@ type: strategy
 id: learning-oriented-llm-prompt-strategy
 title: Design learning-oriented LLM prompts around guided questions, step-by-step support, reflection, and a thinking partner rather than direct answers
 description: "Drawing on the discourse of the learning- and skill-oriented creator groups, the article's Figure 1 synthesis recommends that effective learning prompts combine G1 and G2 practices: guided questions, step-by-step supp..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: SBLE shows no statistically significant association with criminal justice contact, violence, substance-related, or weapon-related outcomes
 description: SBLE shows no statistically significant association with criminal justice contact, violence, substance-related, or weapon-related outcomes
 id: sble-no-effect-crime-subcategories
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

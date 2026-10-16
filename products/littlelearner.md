@@ -4,7 +4,7 @@ id: littlelearner
 title: LittleLearner
 description: LittleLearner is a 5B-parameter language model trained from scratch by Fanfei Li et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

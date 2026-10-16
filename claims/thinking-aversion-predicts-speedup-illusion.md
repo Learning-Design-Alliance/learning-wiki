@@ -3,7 +3,7 @@ type: claim
 title: Participants more averse to thinking are more susceptible to the speedup illusion; AI familiarity measures do not predict calibration error
 description: Participants more averse to thinking are more susceptible to the speedup illusion; AI familiarity measures do not predict calibration error
 id: thinking-aversion-predicts-speedup-illusion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

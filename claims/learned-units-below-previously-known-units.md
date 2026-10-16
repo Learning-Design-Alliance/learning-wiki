@@ -3,7 +3,7 @@ type: claim
 title: "Lexical units brought to the 'fully learned' stage by the tutor scored significantly lower on the posttest than units students already knew before introduction"
 description: "Lexical units brought to the 'fully learned' stage by the tutor scored significantly lower on the posttest than units students already knew before introduction"
 id: learned-units-below-previously-known-units
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

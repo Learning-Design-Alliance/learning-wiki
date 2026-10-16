@@ -3,7 +3,7 @@ type: claim
 title: Districts prioritize the Science of Reading but implementation varies due to competing initiatives and inconsistent EL support
 description: Districts prioritize the Science of Reading but implementation varies due to competing initiatives and inconsistent EL support
 id: sor-priority-uneven-implementation-genai-context
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -18,8 +18,8 @@ sources:
     kind: qualitative
     rigour: "?"
   - id: stephenson-2025-2
-    resource: "https://digitalpromise.dspacedirect.org/items/73c883c0-4652-499d-aeb2-74f773749c60"
-    title: "Stephenson, S. P., Leones, T., Kamdar, D., Prado, Y., & Ddamulira, J. (2025). A National Context of Generative AI for Reading to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/73c883c0-4652-499d-aeb2-74f773749c60"
+    resource: "https://doi.org/10.51388/20.500.12265/258"
+    title: "Stephenson, S. P., Leones, T., Kamdar, D., Prado, Y., & Ddamulira, J. (2025). A National Context of Generative AI for Reading to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/73c883c0-4652-499d-aeb2-74f773749c60. [doi:10.51388/20.500.12265/258](https://doi.org/10.51388/20.500.12265/258)"
     author: "Stephenson, S. P., Leones, T., Kamdar, D., Prado, Y., & Ddamulira, J."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Districts prioritize the Science of Reading but implementation varies due to competing initiatives and inconsistent EL support
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across districts, educators identified the Science of Reading as a priority while reporting competing efforts, curriculum changes, and inconsistent support for English language learners. [→ Stephenson 2025](#stephenson-2025)
@@ -50,7 +50,7 @@ Qualitative thematic analysis of interviews and listening sessions with 16 educa
 
 ### Stephenson 2025 (2)
 
-Stephenson, S. P., Leones, T., Kamdar, D., Prado, Y., & Ddamulira, J. (2025). A National Context of Generative AI for Reading to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/73c883c0-4652-499d-aeb2-74f773749c60
+Stephenson, S. P., Leones, T., Kamdar, D., Prado, Y., & Ddamulira, J. (2025). A National Context of Generative AI for Reading to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/73c883c0-4652-499d-aeb2-74f773749c60. [doi:10.51388/20.500.12265/258](https://doi.org/10.51388/20.500.12265/258)
 
 `q2 · i?` · `qualitative · r2`
 

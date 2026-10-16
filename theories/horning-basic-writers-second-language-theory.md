@@ -2,7 +2,7 @@
 type: theory
 title: "Horning's theory: for basic writers, academic written English is a second language"
 description: "The article describes Alice Horning's (1987) theory of writing development for basic writers, formulated around Krashen's hypotheses."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

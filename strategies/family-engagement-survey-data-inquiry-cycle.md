@@ -3,7 +3,7 @@ type: strategy
 id: family-engagement-survey-data-inquiry-cycle
 title: Use a family engagement survey within a data inquiry cycle to gather family feedback and drive changes to policies and practices
 description: A specific implementable routine for incorporating family input into decision-making.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

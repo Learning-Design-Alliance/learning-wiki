@@ -3,7 +3,7 @@ type: claim
 title: LLMs show a systematic optimism bias in knowledge tracing, predicting far more accurately for students who answer correctly than for those who answer incorrectly
 description: LLMs show a systematic optimism bias in knowledge tracing, predicting far more accurately for students who answer correctly than for those who answer incorrectly
 id: llm-optimism-bias-knowledge-tracing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

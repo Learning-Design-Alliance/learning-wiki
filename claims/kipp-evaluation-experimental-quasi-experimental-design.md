@@ -3,7 +3,7 @@ type: claim
 title: The national KIPP evaluation uses experimental and quasi-experimental methods to estimate effects of KIPP middle schools across the country
 description: The national KIPP evaluation uses experimental and quasi-experimental methods to estimate effects of KIPP middle schools across the country
 id: kipp-evaluation-experimental-quasi-experimental-design
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

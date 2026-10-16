@@ -3,7 +3,7 @@ type: claim
 title: "False-belief training improves preschoolers' theory of mind scores but the review reports it has no effect on language skills"
 description: "False-belief training improves preschoolers' theory of mind scores but the review reports it has no effect on language skills"
 id: false-belief-training-no-language-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: design
 id: hi-ai-collaborative-flipped-framework
 title: HI-AI collaborative flipped classroom framework explained by constructivist learning theory, cognitive load theory, and the technology acceptance model
 description: "The article proposes a human intelligence (HI)-AI collaborative framework layered on the flipped classroom, in which AI provides \"real-time information resources and support for instructional process analysis\" while t..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

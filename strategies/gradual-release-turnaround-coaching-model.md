@@ -3,7 +3,7 @@ type: strategy
 id: gradual-release-turnaround-coaching-model
 title: Gradual-release coaching model (I do, we do, you do) for building turnaround capacity
 description: "TenSquare's coaching follows a gradual release model in which the partner first models and conducts improvement activities itself, then plans alongside school staff, and finally shifts to consultation only as needed."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

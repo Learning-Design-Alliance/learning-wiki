@@ -3,7 +3,7 @@ type: claim
 title: Detecting small effects is very difficult with four clusters, but with six or more clusters small effects can be detected with high probability under realistic circumstances
 description: Detecting small effects is very difficult with four clusters, but with six or more clusters small effects can be detected with high probability under realistic circumstances
 id: six-or-more-clusters-enable-small-effect-detection-small-crcts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: The School District of Philadelphia reformed its student code of conduct in 2012-2013 to prohibit suspensions and expulsions for two types of non-violent student conduct
 description: The School District of Philadelphia reformed its student code of conduct in 2012-2013 to prohibit suspensions and expulsions for two types of non-violent student conduct
 id: philadelphia-2012-13-conduct-reform-prohibited-suspension-nonviolent-offenses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

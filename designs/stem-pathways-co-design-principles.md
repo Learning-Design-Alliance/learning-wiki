@@ -3,7 +3,7 @@ type: design
 id: stem-pathways-co-design-principles
 title: "Co-design principles for regional STEM pathways: Pre-K-to-career alignment, flexible entry, stackable credentials, industry recognition, and representative instructors"
 description: "During the Inquire & Investigate phase, the CAC developed five principles to shape regional STEM pathways: \"Align STEM pathways from Pre-K to career\"; \"Create flexible entry points for all learners\"; \"Offer stackable..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

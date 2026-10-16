@@ -3,7 +3,7 @@ type: strategy
 id: blend-braid-funding-sources
 title: Blend and braid county sales tax and city parcel tax funding sources to maximize impact and sustainability
 description: The report recommends that system leaders blend and braid funding sources across initiatives so that funding streams reinforce one another, making impact deeper and more sustainable.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

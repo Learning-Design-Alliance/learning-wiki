@@ -3,7 +3,7 @@ type: strategy
 id: videotape-roleplay-training-dialogic-reading
 title: Train teachers in Dialogic Reading via videotape, role-play, and group discussion
 description: "The report describes a training approach in which \"Teachers can be trained on the principles of Dialogic Reading through videotape followed by role-playing and group discussion.\" Across the reviewed studies, trainees..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: No readily accessible sources of rigorous evidence exist for most ed-tech products
 description: No readily accessible sources of rigorous evidence exist for most ed-tech products
 id: no-rigorous-evidence-ed-tech-products
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

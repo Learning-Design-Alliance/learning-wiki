@@ -3,7 +3,7 @@ type: strategy
 id: support-level-filtering-persistent-topics
 title: Use support-level filtering across cohorts to separate persistent from cohort-specific challenging topics
 description: A prioritization strategy in which a topic is considered persistently challenging only if it appears among the ten most difficult topics in at least two of three cohorts, with quizzes of two or more questions to ensur...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -49,4 +49,4 @@ A prioritization strategy in which a topic is considered persistently challengin
 -
 
 ## Key Sources
-- Parker, M. J., & Zavala-Cerna, M. G. (2025). What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics. https://arxiv.org/abs/2605.00294
+- Parker, M. J., & Zavala-Cerna, M. G. (2025). What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics. https://arxiv.org/abs/2605.00294. [doi:10.48550/arxiv.2605.00294](https://doi.org/10.48550/arxiv.2605.00294)

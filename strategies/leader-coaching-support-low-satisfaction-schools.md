@@ -3,7 +3,7 @@ type: strategy
 id: leader-coaching-support-low-satisfaction-schools
 title: Support school leaders in low-satisfaction schools to develop coaching skills and implement evaluations in ways that encourage instructional improvement
 description: Because teacher satisfaction with evaluation varies widely across schools, the researchers recommend targeting leadership support.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

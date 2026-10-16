@@ -3,7 +3,7 @@ type: claim
 title: Family voices contributed to differentiating strong and weak organizational conditions across all essentials, not only Involved Families
 description: Family voices contributed to differentiating strong and weak organizational conditions across all essentials, not only Involved Families
 id: family-voices-inform-all-essentials
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

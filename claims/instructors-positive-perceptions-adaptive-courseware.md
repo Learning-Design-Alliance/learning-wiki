@@ -3,7 +3,7 @@ type: claim
 title: Most instructors using adaptive courseware believed it improved student learning and would use it again
 description: Most instructors using adaptive courseware believed it improved student learning and would use it again
 id: instructors-positive-perceptions-adaptive-courseware
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

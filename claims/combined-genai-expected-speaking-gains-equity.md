@@ -3,7 +3,7 @@ type: claim
 title: Combined Trainer and Synthesizer use is expected to support speaking development and more equitable participation over time
 description: Combined Trainer and Synthesizer use is expected to support speaking development and more equitable participation over time
 id: combined-genai-expected-speaking-gains-equity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

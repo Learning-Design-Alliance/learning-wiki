@@ -3,7 +3,7 @@ type: claim
 title: Ambiguous preintervention functional forms and other factors affecting posttest means and slopes are common in ITS applications
 description: Ambiguous preintervention functional forms and other factors affecting posttest means and slopes are common in ITS applications
 id: its-ambiguous-preintervention-functional-forms-common
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

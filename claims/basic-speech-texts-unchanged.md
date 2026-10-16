@@ -3,7 +3,7 @@ type: claim
 title: Basic speech textbooks have not incorporated contemporary rhetorical theory, remaining nearly unchanged across decades
 description: Basic speech textbooks have not incorporated contemporary rhetorical theory, remaining nearly unchanged across decades
 id: basic-speech-texts-unchanged
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

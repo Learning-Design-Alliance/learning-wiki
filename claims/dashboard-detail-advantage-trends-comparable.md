@@ -3,7 +3,7 @@ type: claim
 title: "The Dashboard's largest rating advantage was on exploring response details (L1, Δ=1.30), while the two platforms were nearly comparable on broad trends (L2, Δ=0.20) and development over time (L6, Δ=0.10)"
 description: "The Dashboard's largest rating advantage was on exploring response details (L1, Δ=1.30), while the two platforms were nearly comparable on broad trends (L2, Δ=0.20) and development over time (L6, Δ=0.10)"
 id: dashboard-detail-advantage-trends-comparable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

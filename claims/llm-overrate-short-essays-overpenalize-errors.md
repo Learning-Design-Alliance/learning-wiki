@@ -3,7 +3,7 @@ type: claim
 title: LLMs overrate short underdeveloped essays and over-penalize minor language errors in well-developed essays
 description: LLMs overrate short underdeveloped essays and over-penalize minor language errors in well-developed essays
 id: llm-overrate-short-essays-overpenalize-errors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

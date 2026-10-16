@@ -3,7 +3,7 @@ type: claim
 title: One-year persistence favored Single Stop students but college-level credits earned after two semesters showed only a marginal, statistically non-significant difference
 description: One-year persistence favored Single Stop students but college-level credits earned after two semesters showed only a marginal, statistically non-significant difference
 id: single-stop-daugherty-outcome-specific-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

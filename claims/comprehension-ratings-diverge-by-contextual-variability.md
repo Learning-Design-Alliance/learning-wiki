@@ -3,7 +3,7 @@ type: claim
 title: Comprehension ratings diverge across training conditions over repeated passages, with a significant condition-by-trial interaction
 description: Comprehension ratings diverge across training conditions over repeated passages, with a significant condition-by-trial interaction
 id: comprehension-ratings-diverge-by-contextual-variability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

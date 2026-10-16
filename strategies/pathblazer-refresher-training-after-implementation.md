@@ -3,7 +3,7 @@ type: strategy
 id: pathblazer-refresher-training-after-implementation
 title: Provide refresher training after implementation begins, not only pre-adoption training
 description: "The implementation notes identify a suggested improvement from the Floyd County context: \"refresher training to be available once implementation began.\" This augments the standard model of one day of in-person trainin..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

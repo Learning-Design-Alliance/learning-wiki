@@ -3,7 +3,7 @@ type: claim
 title: Common physical and exclusionary safety measures can cause harm to the very students schools are trying to protect
 description: Common physical and exclusionary safety measures can cause harm to the very students schools are trying to protect
 id: safety-measures-cause-harm-black-brown-youth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

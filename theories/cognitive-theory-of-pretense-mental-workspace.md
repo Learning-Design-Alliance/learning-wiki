@@ -2,7 +2,7 @@
 type: theory
 title: "Cognitive theory of pretense: a separate mental workspace in the brain explains pretense"
 description: "The review describes a recently proposed \"cognitive theory of pretense\" (Nichols & Stich, 2000) which posits a \"separate mental workspace\" within the human brain to explain the phenomenon of pretense."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Linguistic and psycholinguistic features such as verb ratio and aggressiveness are positively correlated with perceived ethnic bias
 description: Linguistic and psycholinguistic features such as verb ratio and aggressiveness are positively correlated with perceived ethnic bias
 id: linguistic-features-correlate-ethnic-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

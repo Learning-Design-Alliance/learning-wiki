@@ -3,7 +3,7 @@ type: claim
 title: Students retrospectively evaluated group processing as time well spent and vividly remembered it years later
 description: Students retrospectively evaluated group processing as time well spent and vividly remembered it years later
 id: group-processing-retrospectively-valued-time-well-spent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

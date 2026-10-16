@@ -3,7 +3,7 @@ type: claim
 title: "In a one-year PBL deployment, the AI-assisted pipeline was associated with instructor preparation time falling from an average of eight hours to two hours per instruction (an estimated 75% reduction)."
 description: "In a one-year PBL deployment, the AI-assisted pipeline was associated with instructor preparation time falling from an average of eight hours to two hours per instruction (an estimated 75% reduction)."
 id: ai-pipeline-75-percent-prep-time-reduction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -48,3 +48,4 @@ Observational time tracking over a one-year deployment at a single institution, 
 - [Instructors reported that FORAP packaging reduced the initial effort to adopt and adapt PjBL activities, based on anecdotal feedback](forap-packaging-reduced-instructor-adoption-effort.md) — related
 - [Interest in AI for feedback in higher education is driven by workload reduction and feedback timeliness amid massification](ai-feedback-interest-workload-timeliness.md) — related
 - [The pipeline reduces per-chart software labor from about two hours of manual Fusion 360 modeling to under 60 ms](tactile-pipeline-labor-reduction-four-orders.md) — a narrower finding that bears on this claim
+- [Early adopters report time savings from ChatGPT automation, including a Wharton professor's exam-writing productivity increase of 100%](chatgpt-automation-time-savings-educators.md) — related

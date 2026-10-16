@@ -3,7 +3,7 @@ type: claim
 title: Academics most often name YouTube and Instagram as the Web 2.0 tools they use to realise self-actualisation needs
 description: Academics most often name YouTube and Instagram as the Web 2.0 tools they use to realise self-actualisation needs
 id: academics-prefer-youtube-instagram-self-actualisation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Most surveyed teachers report accounting for learner prior knowledge and material complexity in instructional design
 description: Most surveyed teachers report accounting for learner prior knowledge and material complexity in instructional design
 id: teachers-account-for-prior-knowledge-and-complexity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
@@ -45,3 +45,4 @@ Results of the Complexity category in Table 3 (Likert-type questionnaire items).
 ## Related Claims
 - [Algerian university teachers of English lack sufficient knowledge of cognitive load theory](algerian-efl-teachers-lack-clt-knowledge.md) — related
 - Practitioners agree that the 11 listed tasks form the core of the ID process — related
+- [Complex learning is lengthy, requiring instruction to account for learners' motivational states and expertise development](complex-learning-lengthy-motivation-expertise.md) — related

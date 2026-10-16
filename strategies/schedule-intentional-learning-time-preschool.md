@@ -3,7 +3,7 @@ type: strategy
 id: schedule-intentional-learning-time-preschool
 title: "Schedule time for intentional learning and recognize children's backgrounds and experiences in preschool classrooms"
 description: "This strategy, drawn from the guide's key findings, directs preschool educators to deliberately set aside scheduled time for intentional learning and to recognize everyone's backgrounds and experiences."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

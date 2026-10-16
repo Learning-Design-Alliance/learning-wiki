@@ -3,7 +3,7 @@ type: claim
 title: "Most students experiencing homelessness (78%) live doubled up with other families, a form of homelessness excluded from HUD housing assistance definitions"
 description: "Most students experiencing homelessness (78%) live doubled up with other families, a form of homelessness excluded from HUD housing assistance definitions"
 id: doubled-up-majority-homelessness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

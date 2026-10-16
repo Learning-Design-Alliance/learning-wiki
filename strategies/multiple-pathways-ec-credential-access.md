@@ -3,7 +3,7 @@ type: strategy
 id: multiple-pathways-ec-credential-access
 title: "Offer multiple pathways to the early childhood credential, including integrated bachelor's, transfer articulation, postbaccalaureate, dual certification, and residency routes"
 description: The eight studied institutions of higher education designed multiple pathways to attract diverse candidates and serve educators entering by varying routes.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

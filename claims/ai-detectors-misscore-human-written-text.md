@@ -3,7 +3,7 @@ type: claim
 title: AI text detectors can return high AI-detection scores for human-written academic text, raising fairness concerns about authenticity evaluation
 description: AI text detectors can return high AI-detection scores for human-written academic text, raising fairness concerns about authenticity evaluation
 id: ai-detectors-misscore-human-written-text
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

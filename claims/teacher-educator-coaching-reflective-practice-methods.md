@@ -3,7 +3,7 @@ type: claim
 title: Teacher educators can coach student teachers in reflective practice using personal histories, dialogue journals, and group discussions
 description: Teacher educators can coach student teachers in reflective practice using personal histories, dialogue journals, and group discussions
 id: teacher-educator-coaching-reflective-practice-methods
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

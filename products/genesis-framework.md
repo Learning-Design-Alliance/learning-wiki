@@ -4,7 +4,7 @@ id: genesis-framework
 title: GENESIS framework
 description: A five-pillar framework proposed by Ahangama (2026) for guiding GenAI-era assessment reform in Australian ICT tertiary institutions at AQF levels 7–9.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

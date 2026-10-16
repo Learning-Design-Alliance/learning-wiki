@@ -3,7 +3,7 @@ type: claim
 title: State rights to education have produced substantial gains through funding litigation, but many are limited by unenforceability, variability, and neglect of equitable resource distribution
 description: State rights to education have produced substantial gains through funding litigation, but many are limited by unenforceability, variability, and neglect of equitable resource distribution
 id: state-education-rights-limited
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

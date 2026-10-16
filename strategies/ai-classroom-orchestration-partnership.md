@@ -3,7 +3,7 @@ type: strategy
 id: ai-classroom-orchestration-partnership
 title: Design AI as a classroom orchestration partner that helps teachers form groups, nurture conversations, and track participation without taking control
 description: "The orchestration scenario envisions a teacher-AI partnership for socially rich classrooms: the agent helps form groups, monitors participation, suggests sentence starters when students are not reacting to each other,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -49,4 +49,4 @@ The orchestration scenario envisions a teacher-AI partnership for socially rich 
 -
 
 ## Key Sources
-- Roschelle, J., Lester, J. & Fusco, J. (Eds.) (2020). AI and the future of learning: Expert panel report [Report]. Digital Promise. https://circls.org/reports/ai-report
+- Roschelle, J., Lester, J. & Fusco, J. (Eds.) (2020). AI and the future of learning: Expert panel report [Report]. Digital Promise. https://circls.org/reports/ai-report. [doi:10.51388/20.500.12265/106](https://doi.org/10.51388/20.500.12265/106)

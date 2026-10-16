@@ -3,7 +3,7 @@ type: strategy
 id: researcher-developer-partnerships-bridge-ai-silos
 title: AI researchers should partner with developers and disseminate findings accessibly to bridge research-practice silos
 description: The brief identifies silos between research and practice and recommends researchers advise on product evaluation, ethical development, and scale impacts.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

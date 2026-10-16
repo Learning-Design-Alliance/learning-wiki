@@ -3,7 +3,7 @@ type: claim
 title: AI-assisted teams comprise more junior authors and fewer senior authors
 description: AI-assisted teams comprise more junior authors and fewer senior authors
 id: ai-assisted-teams-more-junior-fewer-senior-authors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

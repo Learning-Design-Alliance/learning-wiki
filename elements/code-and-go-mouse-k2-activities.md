@@ -3,7 +3,7 @@ type: element
 id: code-and-go-mouse-k2-activities
 title: Code and Go Mouse robot activities combining mapping, story ordering, and number-line arithmetic
 description: The webinar describes Code and Go Mouse activities in which students build a Noun Town map for the mouse to travel through, reinforcing map skills, or recreate a story by drawing portions and coding the mouse around t...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

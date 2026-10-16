@@ -3,7 +3,7 @@ type: strategy
 id: pilot-statewide-rv-systems-before-implementation
 title: Pilot statewide roster verification systems before full implementation
 description: "Among the brief's implementation strategies is piloting the statewide roster verification system on a limited scale before statewide rollout."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

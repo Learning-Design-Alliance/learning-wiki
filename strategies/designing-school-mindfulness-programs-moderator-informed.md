@@ -3,7 +3,7 @@ type: strategy
 id: designing-school-mindfulness-programs-moderator-informed
 title: Design school mindfulness programs using combinations of mindfulness activities, matched to adolescent developmental stage and delivery agent
 description: "The authors recommend applying their meta-analytic moderator findings to future program design, stating the findings \"can be used to inform future designs and applications of mindfulness interventions in the school se..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

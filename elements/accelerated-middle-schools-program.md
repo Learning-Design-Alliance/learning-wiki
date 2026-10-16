@@ -3,7 +3,7 @@ type: element
 id: accelerated-middle-schools-program
 title: Accelerated middle schools program model
 description: "Accelerated middle schools are self-contained academic programs for middle school students one to two years behind grade level, giving them \"the opportunity to cover an additional year of curriculum during their one t..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Applicants who submitted AI-written essays were admitted at lower rates than comparable non-users, with an estimated penalty of about 1.5 percentage points per AI-written essay
 description: Applicants who submitted AI-written essays were admitted at lower rates than comparable non-users, with an estimated penalty of about 1.5 percentage points per AI-written essay
 id: ai-essay-use-penalized-in-admissions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: training-and-jargon-free-resources-for-council-members
 title: Provide training and jargon-free resources so council members can make informed contributions
 description: Because many parents and practitioners are unfamiliar with educational policy, shared governance, or group decision-making, the brief recommends capacity-building supports.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

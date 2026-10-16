@@ -3,7 +3,7 @@ type: claim
 title: Students showed varying degrees of understanding of integration and limits, with common errors and misconceptions identified
 description: Students showed varying degrees of understanding of integration and limits, with common errors and misconceptions identified
 id: orton-common-errors-misconceptions-integration-limits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

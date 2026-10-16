@@ -3,7 +3,7 @@ type: claim
 title: Students rated real-world projects and discussions with structured or guiding questions as the most beneficial learner-to-content strategies
 description: Students rated real-world projects and discussions with structured or guiding questions as the most beneficial learner-to-content strategies
 id: real-world-projects-structured-questions-top-content-strategies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

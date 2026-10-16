@@ -3,7 +3,7 @@ type: claim
 title: Secondary students lose instruction due to out-of-school suspensions at more than five times the rate of elementary students (37 vs. 7 days per 100 enrolled)
 description: Secondary students lose instruction due to out-of-school suspensions at more than five times the rate of elementary students (37 vs.
 id: secondary-suspension-lost-instruction-five-times-elementary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

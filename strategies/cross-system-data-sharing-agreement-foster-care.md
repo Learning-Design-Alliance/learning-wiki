@@ -3,7 +3,7 @@ type: strategy
 id: cross-system-data-sharing-agreement-foster-care
 title: Broker a formal data-sharing agreement between child welfare and education agencies to identify and serve students in foster care
 description: "The article recommends bridging the data divide between child welfare and education systems so adults can understand and support students' academic needs."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

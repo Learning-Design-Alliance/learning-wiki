@@ -3,7 +3,7 @@ type: strategy
 id: human-inspired-evaluation-of-llm-tutors
 title: Evaluate LLM-based tutors with human-inspired methods such as simulated students and behavior analysis before classroom deployment
 description: "The authors recommend that AIED researchers develop systematic, human-inspired evaluation techniques for learner-facing LLM tools before practical use, since experimental studies of learning outcomes are \"usually cost..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

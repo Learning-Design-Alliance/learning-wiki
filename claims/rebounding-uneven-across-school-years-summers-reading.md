@@ -3,7 +3,7 @@ type: claim
 title: Academic rebounding in reading and math was uneven across school years and summers, especially in reading
 description: Academic rebounding in reading and math was uneven across school years and summers, especially in reading
 id: rebounding-uneven-across-school-years-summers-reading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Writing-to-learn activities improve content learning in Grades 1–12, with effects in mathematics indistinguishable from those in science and social studies, in one meta-analysis"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25
@@ -62,3 +62,5 @@ Open questions include how much structure (sentence starters, rubrics) is optima
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — written explanations are most valuable when they feed feedback loops
 - [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — related
 - [Guided play outperforms direct instruction or free play on a few early-childhood outcomes, with no reliable difference on most others, in one meta-analysis](play-based-learning-improves-outcomes.md) — related
+- [Providing worked examples of journal entries early (rather than delayed) yields better early journal quality and more conceptual knowledge](early-worked-examples-better-journal-quality.md) — related
+- [Self-explaining a worked example of a learning journal entry enhances strategy use and transfer of journal-writing benefits to a new topic](worked-example-self-explanation-journal-transfer.md) — related

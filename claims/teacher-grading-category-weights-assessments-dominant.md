@@ -3,7 +3,7 @@ type: claim
 title: "Ninth-grade math teachers on average weighted assessments most heavily (57%), assignments next (36%), and behavior little (7%)"
 description: "Ninth-grade math teachers on average weighted assessments most heavily (57%), assignments next (36%), and behavior little (7%)"
 id: teacher-grading-category-weights-assessments-dominant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

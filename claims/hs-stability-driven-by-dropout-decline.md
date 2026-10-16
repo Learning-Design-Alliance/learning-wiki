@@ -3,7 +3,7 @@ type: claim
 title: High school stability improvements in CPS were largely driven by declining dropout rates, which fell from 7.1 percent to 3.2 percent during the school year between 1995 and 2006
 description: High school stability improvements in CPS were largely driven by declining dropout rates, which fell from 7.1 percent to 3.2 percent during the school year between 1995 and 2006
 id: hs-stability-driven-by-dropout-decline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

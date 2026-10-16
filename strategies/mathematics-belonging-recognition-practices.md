@@ -3,7 +3,7 @@ type: strategy
 id: mathematics-belonging-recognition-practices
 title: Cultivate mathematics belonging by publicly recognizing every student as a mathematical thinker
 description: "Beyond general social belonging, teachers cultivated a sense of \"mathematics belonging\" by explicitly communicating that each and every student could be successful at math, routinely recognizing students' abilities as..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

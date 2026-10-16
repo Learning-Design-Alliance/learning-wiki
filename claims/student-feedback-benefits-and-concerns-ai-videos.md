@@ -3,7 +3,7 @@ type: claim
 title: Open-ended student feedback highlighted relevance and conciseness as benefits of personalized AI videos, alongside concerns about unnaturalness, uncanny-valley discomfort, and trust
 description: Open-ended student feedback highlighted relevance and conciseness as benefits of personalized AI videos, alongside concerns about unnaturalness, uncanny-valley discomfort, and trust
 id: student-feedback-benefits-and-concerns-ai-videos
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

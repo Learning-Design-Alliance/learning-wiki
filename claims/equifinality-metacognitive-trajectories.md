@@ -3,7 +3,7 @@ type: claim
 title: "Metacognitive development exhibits equifinality: multiple viable trajectories challenge linear developmental models"
 description: "Metacognitive development exhibits equifinality: multiple viable trajectories challenge linear developmental models"
 id: equifinality-metacognitive-trajectories
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

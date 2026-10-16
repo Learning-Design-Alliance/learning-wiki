@@ -3,7 +3,7 @@ type: claim
 title: A guardrailed GPT-4 tutor with teacher-designed hints improves assisted practice performance more than a standard GPT-4 interface
 description: A guardrailed GPT-4 tutor with teacher-designed hints improves assisted practice performance more than a standard GPT-4 interface
 id: gpt-tutor-improves-practice-more-than-gpt-base
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

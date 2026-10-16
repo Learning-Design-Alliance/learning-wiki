@@ -3,7 +3,7 @@ type: element
 id: school-specific-survey-summary-and-details-reports
 title: School-specific summary and details reports generated from survey participation
 description: "The UChicago Consortium prepares two kinds of school-specific reports: summary reports showing how teachers and students responded on survey measures over several years, and details reports showing how respondents ans..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

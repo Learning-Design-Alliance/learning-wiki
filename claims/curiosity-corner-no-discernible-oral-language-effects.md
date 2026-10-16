@@ -3,7 +3,7 @@ type: claim
 title: Curiosity Corner shows no discernible effects on preschool oral language outcomes across two studies meeting WWC standards
 description: Curiosity Corner shows no discernible effects on preschool oral language outcomes across two studies meeting WWC standards
 id: curiosity-corner-no-discernible-oral-language-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

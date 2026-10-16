@@ -3,7 +3,7 @@ type: claim
 title: Classroom management interventions in primary education show small but significant average effects (g = 0.22) on academic, behavioral, and social-emotional outcomes but not on motivational outcomes
 description: Classroom management interventions in primary education show small but significant average effects (g = 0.22) on academic, behavioral, and social-emotional outcomes but not on motivational outcomes
 id: classroom-management-small-significant-effects-g022
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

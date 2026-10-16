@@ -4,7 +4,7 @@ id: alders-high-touch-whole-adult-support-approach
 title: "Alder's high-touch, whole adult support approach"
 description: "Alder's framework for proactively coordinating academic, financial, social, health, housing, and career supports for teacher-residency candidates facing barriers to completing graduate-level preparation."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

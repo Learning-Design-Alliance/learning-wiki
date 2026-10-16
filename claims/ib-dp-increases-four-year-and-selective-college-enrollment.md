@@ -3,7 +3,7 @@ type: claim
 title: CPS neighborhood IB DP students were 40 percent more likely to attend a four-year college and 50 percent more likely to attend a more selective college than a matched comparison group
 description: CPS neighborhood IB DP students were 40 percent more likely to attend a four-year college and 50 percent more likely to attend a more selective college than a matched comparison group
 id: ib-dp-increases-four-year-and-selective-college-enrollment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

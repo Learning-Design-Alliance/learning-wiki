@@ -3,7 +3,7 @@ type: claim
 title: Standard effort-moderated scoring accounts for roughly one-third of score distortion due to differential disengagement on low-stakes achievement tests
 description: Standard effort-moderated scoring accounts for roughly one-third of score distortion due to differential disengagement on low-stakes achievement tests
 id: standard-em-scoring-one-third-distortion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

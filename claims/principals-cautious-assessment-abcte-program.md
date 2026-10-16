@@ -3,7 +3,7 @@ type: claim
 title: Administrators gave a cautious assessment of the ABCTE Passport to Teaching program that certified the teachers
 description: Administrators gave a cautious assessment of the ABCTE Passport to Teaching program that certified the teachers
 id: principals-cautious-assessment-abcte-program
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

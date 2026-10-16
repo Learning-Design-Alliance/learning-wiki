@@ -3,7 +3,7 @@ type: claim
 title: "Parent-delivered READY4K! text messages improve preschool children's early literacy performance"
 description: "Parent-delivered READY4K!"
 id: ready4k-texts-improve-preschool-literacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

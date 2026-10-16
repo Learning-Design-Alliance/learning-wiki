@@ -3,7 +3,7 @@ type: claim
 title: No validated individual-level instrument in the focal corpus tests the full combination of agent-control behaviors for tool-using AI agents
 description: No validated individual-level instrument in the focal corpus tests the full combination of agent-control behaviors for tool-using AI agents
 id: agent-operational-competence-measurement-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

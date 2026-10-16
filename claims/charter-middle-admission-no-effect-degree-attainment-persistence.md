@@ -3,7 +3,7 @@ type: claim
 title: "Charter middle school admission did not affect college degree attainment or students' chances of remaining enrolled in college"
 description: "Charter middle school admission did not affect college degree attainment or students' chances of remaining enrolled in college"
 id: charter-middle-admission-no-effect-degree-attainment-persistence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

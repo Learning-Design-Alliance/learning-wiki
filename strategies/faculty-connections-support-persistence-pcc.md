@@ -3,7 +3,7 @@ type: strategy
 id: faculty-connections-support-persistence-pcc
 title: Build faculty-staff connections and peer community to support persistence of teacher education students
 description: "The report recommends that current PCC students make connections with faculty and staff, citing research that such connections could increase students' sense of belonging and support persistence."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

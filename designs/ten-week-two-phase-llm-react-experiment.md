@@ -3,7 +3,7 @@ type: design
 id: ten-week-two-phase-llm-react-experiment
 title: Ten-week two-phase LLM usage experiment in React programming education
 description: A study design in which thirty-two second-year undergraduates completed four React/TypeScript assignments over nine weeks with unrestricted informal LLM use, followed by a controlled week-ten assignment where LLMs wer...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

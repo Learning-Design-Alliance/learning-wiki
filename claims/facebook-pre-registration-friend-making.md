@@ -3,7 +3,7 @@ type: claim
 title: First-year students specifically joined Facebook before university registration to make new face-to-face friends at university while keeping in touch with friends and family from home.
 description: First-year students specifically joined Facebook before university registration to make new face-to-face friends at university while keeping in touch with friends and family from home.
 id: facebook-pre-registration-friend-making
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: research-method
 id: cpig-the-creative-psychometric-item-generator-framework
 title: "CPIG: the creative psychometric item generator framework"
 description: CPIG is an iterative LLM-based framework for generating and validating creativity test items for the creative problem-solving (CPS) task.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Cooperation compared with individualistic efforts typically results in higher achievement, greater retention, and greater social competence and self-esteem
 description: Cooperation compared with individualistic efforts typically results in higher achievement, greater retention, and greater social competence and self-esteem
 id: cooperation-versus-individualistic-effort-outcomes
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

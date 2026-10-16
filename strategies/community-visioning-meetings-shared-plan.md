@@ -3,7 +3,7 @@ type: strategy
 id: community-visioning-meetings-shared-plan
 title: Hold open community visioning meetings to build a shared school improvement plan
 description: "When Los Padillas faced MRI designation and possible closure, district staff held three community meetings in late 2017 and early 2018, asking families three questions: \"What do you see or not see happening in your sc..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

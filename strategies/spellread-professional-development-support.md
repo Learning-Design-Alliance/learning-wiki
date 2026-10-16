@@ -3,7 +3,7 @@ type: strategy
 id: spellread-professional-development-support
 title: Provide comprehensive professional development and ongoing coaching when implementing a structured literacy program
 description: "The article reports that SpellRead™ implementation is supported by \"comprehensive professional development and ongoing expert support to educators as they implement the program, including five days of initial workshop..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

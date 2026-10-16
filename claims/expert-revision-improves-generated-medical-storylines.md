@@ -3,7 +3,7 @@ type: claim
 title: Expert-in-the-loop revision substantially improves medical accuracy and educational quality of generated storylines
 description: Expert-in-the-loop revision substantially improves medical accuracy and educational quality of generated storylines
 id: expert-revision-improves-generated-medical-storylines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

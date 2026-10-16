@@ -3,7 +3,7 @@ type: claim
 title: Higher FFL scores associate with larger value-added for middle school principals but not for elementary or high school principals
 description: Higher FFL scores associate with larger value-added for middle school principals but not for elementary or high school principals
 id: ffl-middle-school-only-value-added-association
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

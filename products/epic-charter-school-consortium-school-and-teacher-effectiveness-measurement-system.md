@@ -4,7 +4,7 @@ id: epic-charter-school-consortium-school-and-teacher-effectiveness-measurement-
 title: EPIC Charter School Consortium school-and-teacher-effectiveness measurement system
 description: A Mathematica Policy Research measurement system used by the EPIC charter school consortium to identify effective schools and teachers across its member charter schools.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

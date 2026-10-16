@@ -3,7 +3,7 @@ type: claim
 title: WEC index effects on academic outcomes are more pronounced for male students, with the well-being effect on literacy absent for females
 description: WEC index effects on academic outcomes are more pronounced for male students, with the well-being effect on literacy absent for females
 id: wec-effects-more-pronounced-males-literacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: design
 id: three-stage-llm-team-formation-methodology
 title: Three-stage methodology combining student surveys, LLM skill extraction, and dynamic preference-aware matching
 description: "The article proposes a data-driven team-formation framework with three stages: \"student surveys to capture detailed and granular skill sets and project preferences; (2) LLM-driven extraction of essential project skill..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

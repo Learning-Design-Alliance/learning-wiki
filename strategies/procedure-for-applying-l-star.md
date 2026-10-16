@@ -3,7 +3,7 @@ type: strategy
 id: procedure-for-applying-l-star
 title: "Recommended procedure for applying L* to sequences of affective states"
 description: "The article outlines a step-by-step procedure (Algorithm 1) for computing L* on full affect sequences with transitions to A excluded."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

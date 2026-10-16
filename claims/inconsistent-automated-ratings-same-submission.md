@@ -3,7 +3,7 @@ type: claim
 title: Some students found the automated star ratings inconsistent, receiving different scores for the same unchanged submission
 description: Some students found the automated star ratings inconsistent, receiving different scores for the same unchanged submission
 id: inconsistent-automated-ratings-same-submission
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

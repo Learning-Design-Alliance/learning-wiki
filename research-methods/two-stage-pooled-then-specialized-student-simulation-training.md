@@ -3,7 +3,7 @@ type: research-method
 id: two-stage-pooled-then-specialized-student-simulation-training
 title: Two-stage pooled-then-specialized student-simulation training
 description: StudentSim overcomes sparse per-student data with a two-stage pipeline.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

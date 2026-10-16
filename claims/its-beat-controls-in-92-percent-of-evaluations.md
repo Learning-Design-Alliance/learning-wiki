@@ -3,7 +3,7 @@ type: claim
 title: "ITS groups outperformed conventional-instruction controls in 92% of the 50 evaluations, with gains above 0.25 SD in 78%"
 description: "ITS groups outperformed conventional-instruction controls in 92% of the 50 evaluations, with gains above 0.25 SD in 78%"
 id: its-beat-controls-in-92-percent-of-evaluations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

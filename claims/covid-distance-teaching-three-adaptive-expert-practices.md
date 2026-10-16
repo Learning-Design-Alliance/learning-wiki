@@ -3,7 +3,7 @@ type: claim
 title: K-8 teachers responding to the sudden 2020 shift to distance learning engaged in three of the core practices of adaptive experts
 description: K-8 teachers responding to the sudden 2020 shift to distance learning engaged in three of the core practices of adaptive experts
 id: covid-distance-teaching-three-adaptive-expert-practices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

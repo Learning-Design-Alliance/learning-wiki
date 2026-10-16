@@ -3,7 +3,7 @@ type: claim
 title: The rate r of a proportional relationship appears in five distinct mathematical manifestations
 description: The rate r of a proportional relationship appears in five distinct mathematical manifestations
 id: rate-r-five-manifestations-proportionality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

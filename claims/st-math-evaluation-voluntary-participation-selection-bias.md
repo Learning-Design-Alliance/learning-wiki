@@ -4,7 +4,7 @@ title: "The ST Math evaluation's quasi-experimental design cannot rule out selec
 description: "The ST Math evaluation's quasi-experimental design cannot rule out selection bias because treatment grades volunteered to participate"
 id: st-math-evaluation-voluntary-participation-selection-bias
 aliases: [st-math-self-selection-limits-causal-claims]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

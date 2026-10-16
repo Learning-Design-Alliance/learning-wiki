@@ -3,7 +3,7 @@ type: research-method
 id: consortium-cohort-dropout-rate-calculation-procedure-for-cps
 title: Consortium cohort dropout rate calculation procedure for CPS
 description: A documented statistical procedure for computing comparable cohort dropout rates from administrative records.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "In two online comparisons, a rubric changed what peer reviewers commented on (one study) and helped peer raters place writing in quality tiers, most for complex criteria (the other); the first study says the rubric restrained reflective thinking"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

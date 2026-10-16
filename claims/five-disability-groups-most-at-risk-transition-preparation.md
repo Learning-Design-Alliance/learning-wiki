@@ -3,7 +3,7 @@ type: claim
 title: Among 2012 disability groups, youth with intellectual disability, autism, deaf-blindness, multiple disabilities, and orthopedic impairments were most at-risk in preparation for life after high school
 description: Among 2012 disability groups, youth with intellectual disability, autism, deaf-blindness, multiple disabilities, and orthopedic impairments were most at-risk in preparation for life after high school
 id: five-disability-groups-most-at-risk-transition-preparation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

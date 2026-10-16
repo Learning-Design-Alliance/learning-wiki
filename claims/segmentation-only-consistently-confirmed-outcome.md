@@ -3,7 +3,7 @@ type: claim
 title: Segmentation is the only alphabetics outcome the WWC confirmed statistically significant across multiple studies
 description: Segmentation is the only alphabetics outcome the WWC confirmed statistically significant across multiple studies
 id: segmentation-only-consistently-confirmed-outcome
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

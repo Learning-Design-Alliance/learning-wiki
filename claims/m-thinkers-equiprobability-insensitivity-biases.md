@@ -3,7 +3,7 @@ type: claim
 title: Mathematically oriented PSMTs exhibit equiprobability and insensitivity-to-prior-probability biases
 description: Mathematically oriented PSMTs exhibit equiprobability and insensitivity-to-prior-probability biases
 id: m-thinkers-equiprobability-insensitivity-biases
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

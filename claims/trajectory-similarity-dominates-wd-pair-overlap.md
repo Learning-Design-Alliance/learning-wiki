@@ -3,7 +3,7 @@ type: claim
 title: "In pairwise WD analyses, learner trajectory similarity dominates variation in percentage-overlap values (57.90% of variation) while remaining design factors are essentially zero"
 description: "In pairwise WD analyses, learner trajectory similarity dominates variation in percentage-overlap values (57.90% of variation) while remaining design factors are essentially zero"
 id: trajectory-similarity-dominates-wd-pair-overlap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

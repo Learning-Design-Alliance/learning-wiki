@@ -3,7 +3,7 @@ type: strategy
 id: three-complementary-uses-of-rule-induction
 title: "Use rule induction in three complementary roles: ruleset mining for sample description, association rule mining for group differences, and decision trees for controlled predictor-outcome checks"
 description: The author proposes at least three practical and principled ways to incorporate rule induction into education research so that it complements rather than conflates with regression.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

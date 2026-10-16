@@ -3,7 +3,7 @@ type: claim
 title: "Students' reports of teacher personalism drop sharply between eighth and tenth grade in Chicago public schools"
 description: "Students' reports of teacher personalism drop sharply between eighth and tenth grade in Chicago public schools"
 id: personalism-declines-high-school-chicago
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

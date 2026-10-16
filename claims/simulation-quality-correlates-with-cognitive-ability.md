@@ -3,7 +3,7 @@ type: claim
 title: "Simulating higher-cognitive-ability students is easier: simulation quality correlates positively with student cognitive score"
 description: "Simulating higher-cognitive-ability students is easier: simulation quality correlates positively with student cognitive score"
 id: simulation-quality-correlates-with-cognitive-ability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

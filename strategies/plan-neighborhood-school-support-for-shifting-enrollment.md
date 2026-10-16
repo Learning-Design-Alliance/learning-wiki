@@ -3,7 +3,7 @@ type: strategy
 id: plan-neighborhood-school-support-for-shifting-enrollment
 title: Districts supporting neighborhood schools should plan for continually shifting student populations and mobility-driven capacity demands
 description: "The report's closing recommendations for district leadership highlight that neighborhood schools serve any students in their attendance zone, taking in students at all times of year, so they have less certainty about..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

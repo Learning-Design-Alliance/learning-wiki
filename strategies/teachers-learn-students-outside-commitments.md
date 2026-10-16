@@ -3,7 +3,7 @@ type: strategy
 id: teachers-learn-students-outside-commitments
 title: "Teachers should learn about students' lives and commitments outside school and build relationships, which students say increases respect, effort, and engagement"
 description: Students reported that activities outside school—jobs, caring for siblings, volunteering, theater—build skills like teamwork, time management, organization, and leadership, but teachers are often unaware of these comm...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

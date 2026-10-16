@@ -3,7 +3,7 @@ type: claim
 title: Deliberation in the Danish Deliberative Poll produced considerable opinion change, increased knowledge and improved ability to form reasoned opinions among participants
 description: Deliberation in the Danish Deliberative Poll produced considerable opinion change, increased knowledge and improved ability to form reasoned opinions among participants
 id: deliberative-poll-opinion-change-knowledge-reasoned-opinions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

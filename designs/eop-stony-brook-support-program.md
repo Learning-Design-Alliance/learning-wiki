@@ -3,7 +3,7 @@ type: design
 id: eop-stony-brook-support-program
 title: Educational Opportunity Program (EOP) at Stony Brook University
 description: EOP is a state-sponsored access-and-support program at Stony Brook serving nearly 600 low-income students and students of color whose high school preparation was incomplete.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

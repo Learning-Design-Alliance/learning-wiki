@@ -3,7 +3,7 @@ type: claim
 title: Motivation, affect, and learner beliefs shape whether AI evidence is accepted, resisted, or used in singing training
 description: Motivation, affect, and learner beliefs shape whether AI evidence is accepted, resisted, or used in singing training
 id: motivation-affect-beliefs-shape-ai-feedback-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

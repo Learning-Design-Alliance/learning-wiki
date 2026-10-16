@@ -3,7 +3,7 @@ type: claim
 title: The Frechtling, Zhang, and Silverstein (2006) study showed a substantively important positive average alphabetics effect, while Hecht (2003) did not
 description: The Frechtling, Zhang, and Silverstein (2006) study showed a substantively important positive average alphabetics effect, while Hecht (2003) did not
 id: voyager-study-average-effect-sizes-differ
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

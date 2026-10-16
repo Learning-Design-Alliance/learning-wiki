@@ -3,7 +3,7 @@ type: claim
 title: "A three-week MALA deployment recorded 62 distinct usernames across 128 conversations, with 63% of conversations resolved or partially resolved"
 description: "A three-week MALA deployment recorded 62 distinct usernames across 128 conversations, with 63% of conversations resolved or partially resolved"
 id: mala-deployment-62-users-63-percent-resolved
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

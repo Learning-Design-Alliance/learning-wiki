@@ -3,7 +3,7 @@ type: strategy
 id: adapt-non-invigilated-assessments-marking-criteria-for-genai
 title: Adapt non-invigilated written assessments and their marking criteria in response to Gen-AI susceptibility
 description: The article recommends that assessment design respond to demonstrated AI vulnerability rather than relying on detection alone.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

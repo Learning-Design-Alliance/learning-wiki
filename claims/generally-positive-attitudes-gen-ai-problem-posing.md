@@ -3,7 +3,7 @@ type: claim
 title: Students hold generally positive attitudes toward Gen AI-assisted problem posing, with a minority mixed or negative
 description: Students hold generally positive attitudes toward Gen AI-assisted problem posing, with a minority mixed or negative
 id: generally-positive-attitudes-gen-ai-problem-posing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

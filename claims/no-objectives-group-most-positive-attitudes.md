@@ -3,7 +3,7 @@ type: claim
 title: "Students may be unaware of the absence of objectives: the no-objectives group gave the highest ratings on objective-related attitude items"
 description: "Students may be unaware of the absence of objectives: the no-objectives group gave the highest ratings on objective-related attitude items"
 id: no-objectives-group-most-positive-attitudes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

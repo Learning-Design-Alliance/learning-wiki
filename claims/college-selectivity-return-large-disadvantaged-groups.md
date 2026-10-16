@@ -3,7 +3,7 @@ type: claim
 title: The return to college selectivity remains large for black, Hispanic, and students from less-educated families
 description: The return to college selectivity remains large for black, Hispanic, and students from less-educated families
 id: college-selectivity-return-large-disadvantaged-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

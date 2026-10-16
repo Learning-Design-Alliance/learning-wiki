@@ -3,7 +3,7 @@ type: claim
 title: Holding a strong goal intention alone does not guarantee goal achievement
 description: Holding a strong goal intention alone does not guarantee goal achievement
 id: goal-intention-alone-insufficient-for-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: Significantly more TPP teachers asked students to cite evidence from texts in discussions and writing
 description: Significantly more TPP teachers asked students to cite evidence from texts in discussions and writing
 id: tpp-teachers-asked-students-cite-text-evidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

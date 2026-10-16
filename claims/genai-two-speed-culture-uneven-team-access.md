@@ -3,7 +3,7 @@ type: claim
 title: Uneven GenAI access across teams creates a two-speed culture pressuring teams without access despite equally demanding work
 description: Uneven GenAI access across teams creates a two-speed culture pressuring teams without access despite equally demanding work
 id: genai-two-speed-culture-uneven-team-access
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

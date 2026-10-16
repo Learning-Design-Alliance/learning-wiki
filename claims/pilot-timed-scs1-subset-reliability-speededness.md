@@ -3,7 +3,7 @@ type: claim
 title: A pilot study (N = 10) established timed-administration parameters, showing high internal consistency and minimal speededness for the SCS1 12-item subset
 description: A pilot study (N = 10) established timed-administration parameters, showing high internal consistency and minimal speededness for the SCS1 12-item subset
 id: pilot-timed-scs1-subset-reliability-speededness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

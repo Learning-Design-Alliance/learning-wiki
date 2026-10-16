@@ -3,7 +3,7 @@ type: claim
 title: "A recognition-versus-reasoning divide: scene recognition is comparatively mature while affective interpretation and compositional reasoning lag"
 description: "A recognition-versus-reasoning divide: scene recognition is comparatively mature while affective interpretation and compositional reasoning lag"
 id: recognition-reasoning-divide-muse
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

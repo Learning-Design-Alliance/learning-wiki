@@ -3,7 +3,7 @@ type: claim
 title: Teachers used Ecree less than intended, and some reported they did not have enough time to learn it and integrate it with instruction
 description: Teachers used Ecree less than intended, and some reported they did not have enough time to learn it and integrate it with instruction
 id: teachers-used-ecree-less-than-intended-lacking-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

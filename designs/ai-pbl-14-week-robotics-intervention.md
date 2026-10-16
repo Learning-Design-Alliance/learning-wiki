@@ -3,7 +3,7 @@ type: design
 id: ai-pbl-14-week-robotics-intervention
 title: 14-week localized, adaptive AI-PBL intervention for computer robotics programming
 description: The intervention integrated AI tools into problem-based learning over 14 weeks (42 instructional hours) for first-year computer education students.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

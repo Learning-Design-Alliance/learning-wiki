@@ -3,7 +3,7 @@ type: claim
 title: At Foxglove, the principal and coaches give teachers feedback on every assignment they share, alongside regular five-week progress reviews
 description: At Foxglove, the principal and coaches give teachers feedback on every assignment they share, alongside regular five-week progress reviews
 id: foxglove-assignment-feedback-and-progress-reviews
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ id: local-control-funding-formula-lcff
 title: Local Control Funding Formula (LCFF)
 description: "California's statewide K–12 school-finance framework, administered through state education authorities, that distributes base, supplemental, and concentration funding to support more equitable funding based on student need."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

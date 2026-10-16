@@ -3,7 +3,7 @@ type: claim
 title: "Lacquer-painting imagery characteristics are positively associated with aesthetic responses: sensible scene with emotional resonance, imaginable atmosphere with cognitive evaluation, and virtual-real imagination with behavioral intention"
 description: "Lacquer-painting imagery characteristics are positively associated with aesthetic responses: sensible scene with emotional resonance, imaginable atmosphere with cognitive evaluation, and virtual-real imagination with..."
 id: imagery-characteristics-associated-with-aesthetic-responses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

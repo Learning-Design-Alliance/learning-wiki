@@ -3,7 +3,7 @@ type: claim
 title: A Wheatstone bridge inquiry lab accomplished many of its learning goals and students seemed to enjoy it
 description: A Wheatstone bridge inquiry lab accomplished many of its learning goals and students seemed to enjoy it
 id: circuit-design-inquiry-accomplished-learning-goals
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

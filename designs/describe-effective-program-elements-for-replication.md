@@ -3,7 +3,7 @@ type: design
 id: describe-effective-program-elements-for-replication
 title: Describe the specific elements of an effective program so it can be replicated
 description: After an intervention is shown effective, document its specific program elements so practitioners can replicate it.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

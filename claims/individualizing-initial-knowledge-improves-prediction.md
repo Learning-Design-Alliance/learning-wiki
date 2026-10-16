@@ -3,7 +3,7 @@ type: claim
 title: Individualizing the initial knowledge parameter reliably improves prediction of real-world data
 description: Individualizing the initial knowledge parameter reliably improves prediction of real-world data
 id: individualizing-initial-knowledge-improves-prediction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

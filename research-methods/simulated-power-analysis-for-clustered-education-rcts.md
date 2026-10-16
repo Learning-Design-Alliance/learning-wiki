@@ -3,7 +3,7 @@ type: research-method
 id: simulated-power-analysis-for-clustered-education-rcts
 title: Simulated power analysis for clustered education RCTs
 description: The article applies its developed statistical power formulas in a simulated power analysis of clustered school-based RCTs of education interventions.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

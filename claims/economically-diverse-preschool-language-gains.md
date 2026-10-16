@@ -3,7 +3,7 @@ type: claim
 title: Children from low-income families in economically diverse preschools show greater language gains than peers in less diverse programs
 description: Children from low-income families in economically diverse preschools show greater language gains than peers in less diverse programs
 id: economically-diverse-preschool-language-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: use-ct-pck-survey-for-professional-learning-planning
 title: Use the CT–PCK Survey to identify professional learning needs and evaluate CT-integration professional development, not for teacher evaluation
 description: "The report recommends school and district leaders use the CT–PCK Survey \"to identify teachers' strengths and opportunities for professional growth in CT integration\" and researchers use it \"as an outcome measure in in..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

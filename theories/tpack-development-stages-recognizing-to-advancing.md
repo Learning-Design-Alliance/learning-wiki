@@ -2,7 +2,7 @@
 type: theory
 title: Five-stage TPACK development trajectory from recognizing to advancing
 description: "Niess, Sadri and Lee (2007), building on Rogers' innovation-decision process, describe TPACK development as five stages: recognizing (knowledge), accepting (persuasion), adapting (decision), exploring (implementation)..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -41,7 +41,7 @@ Niess, Sadri and Lee (2007), building on Rogers' innovation-decision process, de
 
 ## Related Theories
 
-- [Tpack Framework Intersecting Domains Niess Roschelle](tpack-framework-intersecting-domains-niess-roschelle.md)
+- [Tpack Framework Intersecting Domains Niess Roschelle](tpack.md)
 - [The five-stage teacher technology adoption process: Entry, Adoption, Adaptation, Appropriation, Invention](teacher-technology-adoption-stages.md)
 - [Levels of Use of the Innovation: an eight-level behavioral framework for individual innovation implementation](../products/concerns-based-adoption-model.md)
 - [Concerns-Based Adoption Model: change is a process with diagnosable dimensions](cbam-change-process-diagnostic-dimensions.md)

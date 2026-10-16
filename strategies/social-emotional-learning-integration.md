@@ -70,7 +70,7 @@ Integrated SEL improves both behavioral and academic outcomes, with meta-analyti
 ## Examples
 - **[RULER](https://www.rulerapproach.org)** (Yale Center for Emotional Intelligence) — integrates emotion-labeling tools (mood meter, meta-moment) into classroom routines and academic work.
 - **[Facing History and Ourselves](https://www.facinghistory.org)** — humanities curriculum that builds social awareness and ethical reasoning through historical case study.
-- **Responsive Classroom** — morning meeting and academic choice routines that embed SEL into daily elementary instruction.
+- **[Responsive Classroom](../products/responsive-classroom.md)** — morning meeting and academic choice routines that embed SEL into daily elementary instruction.
 
 ## Key Sources
 - Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development, 82*(1), 405–432. [doi:10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x)

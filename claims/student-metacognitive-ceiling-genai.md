@@ -3,7 +3,7 @@ type: claim
 title: Students hit a metacognitive ceiling, endorsing high-level creation more frequently than the hardest metacognitive and evaluative thresholds in their ordering
 description: Students hit a metacognitive ceiling, endorsing high-level creation more frequently than the hardest metacognitive and evaluative thresholds in their ordering
 id: student-metacognitive-ceiling-genai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

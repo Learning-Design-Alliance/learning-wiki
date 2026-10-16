@@ -3,7 +3,7 @@ type: claim
 title: "Washington State's automatic-enrollment academic acceleration policy is associated with more equitable advanced course offerings, reversing the typical gap"
 description: "Washington State's automatic-enrollment academic acceleration policy is associated with more equitable advanced course offerings, reversing the typical gap"
 id: washington-automatic-enrollment-equity-course-access
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

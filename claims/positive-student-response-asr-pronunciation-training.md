@@ -3,7 +3,7 @@ type: claim
 title: Students responded positively to ASR pronunciation training and the Rainbow passage, but were mixed on technical aspects of recording and voice typing
 description: Students responded positively to ASR pronunciation training and the Rainbow passage, but were mixed on technical aspects of recording and voice typing
 id: positive-student-response-asr-pronunciation-training
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

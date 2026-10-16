@@ -3,7 +3,7 @@ type: claim
 title: "Perceived AI empowerment is positively associated with university students' trust in AI and their dependence on GenAI"
 description: "Perceived AI empowerment is positively associated with university students' trust in AI and their dependence on GenAI"
 id: perceived-ai-empowerment-positively-associated-trust-genai-dependence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

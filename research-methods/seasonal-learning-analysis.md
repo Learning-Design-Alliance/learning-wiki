@@ -3,7 +3,7 @@ type: research-method
 id: seasonal-learning-analysis
 title: Seasonal learning analysis
 description: "The brief organizes its inquiry around seasonal learning patterns: comparing how racial and ethnic achievement gaps change across school-year and summer periods to determine when inequality grows."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

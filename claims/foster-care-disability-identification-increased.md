@@ -3,7 +3,7 @@ type: claim
 title: Students in foster care were increasingly identified with disabilities, reaching nearly one in three by 2022–23 and far exceeding other high-need groups
 description: Students in foster care were increasingly identified with disabilities, reaching nearly one in three by 2022–23 and far exceeding other high-need groups
 id: foster-care-disability-identification-increased
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

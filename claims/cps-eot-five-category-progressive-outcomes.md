@@ -3,7 +3,7 @@ type: claim
 title: Students in higher CPS EOT categories had progressively higher rates of high school graduation and college enrollment
 description: Students in higher CPS EOT categories had progressively higher rates of high school graduation and college enrollment
 id: cps-eot-five-category-progressive-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

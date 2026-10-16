@@ -3,7 +3,7 @@ type: claim
 title: Career coaching participants showed increased employment rates and earnings after participating in coaching activities
 description: Career coaching participants showed increased employment rates and earnings after participating in coaching activities
 id: coaching-associated-employment-earnings-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

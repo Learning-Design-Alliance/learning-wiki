@@ -3,7 +3,7 @@ type: design
 id: clinical-empathy-module-pa-chatbot
 title: Clinical Empathy Module for PA coaching chatbots
 description: The Clinical Empathy Module is a pipeline attached to the Empathetic chatbot variant that identifies Empathy Opportunities in user messages and generates clinically informed empathetic responses.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Amount of accumulated deliberate practice distinguishes more from less accomplished musicians
 description: Amount of accumulated deliberate practice distinguishes more from less accomplished musicians
 id: deliberate-practice-hours-differentiate-musicians
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

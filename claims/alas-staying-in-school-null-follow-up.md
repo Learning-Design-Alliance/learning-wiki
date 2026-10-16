@@ -3,7 +3,7 @@ type: claim
 title: ALAS effects on staying in school are not statistically significant two years after the intervention ends
 description: ALAS effects on staying in school are not statistically significant two years after the intervention ends
 id: alas-staying-in-school-null-follow-up
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

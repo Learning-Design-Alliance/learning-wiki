@@ -3,7 +3,7 @@ type: claim
 title: High-quality induction and mentoring programs are reported to reduce new-teacher attrition, and early-career teachers without coaching are reported twice as likely to leave
 description: High-quality induction and mentoring programs are reported to reduce new-teacher attrition, and early-career teachers without coaching are reported twice as likely to leave
 id: mentoring-coaching-reduce-teacher-attrition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

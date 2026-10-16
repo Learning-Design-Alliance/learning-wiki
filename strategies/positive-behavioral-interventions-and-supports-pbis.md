@@ -99,7 +99,7 @@ PBIS applies behavioral learning principles at the systems level: expectations a
 - **Maryland Safe and Supportive Schools / Maryland PBIS initiative** — the large randomized trial of school-wide PBIS across 37 elementary schools that documented reductions in suspensions and referrals [School-wide PBIS reduces disciplinary exclusions and improves climate.](https://doi.org/10.1037/a0018120) [+S]
 - A typical Tier 1 implementation: students learn "Be Safe" on the bus through a taught lesson and role-play in the first week, bus drivers hand out acknowledgment tickets, and a team reviews referral data monthly.
 - **Maryland Safe and Supportive Schools / Maryland PBIS Partnership** — statewide implementation studied in a large randomized trial (Bradshaw et al., 2010), showing reduced suspensions and improved organizational health.
-- **Check-In/Check-Out (CICO)** — a Tier 2 intervention in which a mentor greets the student each morning, reviews point goals, and gives end-of-day feedback; one of the most replicated PBIS Tier 2 practices.
+- **[Check-In/Check-Out](check-incheck-out.md) (CICO)** — a Tier 2 intervention in which a mentor greets the student each morning, reviews point goals, and gives end-of-day feedback; one of the most replicated PBIS Tier 2 practices.
 - **Illinois PBIS Network (now Midwest PBIS, [pbis.org](https://www.pbis.org))** — the national technical assistance center providing implementation guides, fidelity measures (e.g., TFI, BoQ), and state-level scaling.
 
 ## Key Sources

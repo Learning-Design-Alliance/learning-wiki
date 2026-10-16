@@ -3,7 +3,7 @@ type: claim
 title: Educators struggled to reliably differentiate student-written from GenAI-generated reflections
 description: Educators struggled to reliably differentiate student-written from GenAI-generated reflections
 id: educators-cannot-reliably-detect-genai-reflections
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

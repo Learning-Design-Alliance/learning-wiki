@@ -3,7 +3,7 @@ type: element
 id: individual-plans-of-study-ips
 title: "Individual Plans of Study (IPS): personalized education and career plans for middle and high school students"
 description: "Individual Plans of Study (IPS) are an instructional/guidance component described in this REL Central publication as \"education and career plans that are tailored to each student’s personal interests and skills\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

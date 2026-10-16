@@ -3,7 +3,7 @@ type: claim
 title: Cross-site standard deviations of ITT effects were estimated for education and workforce interventions using data from 16 large multisite randomized controlled trials
 description: Cross-site standard deviations of ITT effects were estimated for education and workforce interventions using data from 16 large multisite randomized controlled trials
 id: cross-site-itt-effect-variation-16-multisite-rcts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

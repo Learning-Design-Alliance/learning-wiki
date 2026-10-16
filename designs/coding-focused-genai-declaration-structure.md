@@ -3,7 +3,7 @@ type: design
 id: coding-focused-genai-declaration-structure
 title: Coding-focused GenAI declaration structure with five activity categories
 description: "A parallel declaration structure for coding assessments reflecting typical phases of software development and code-based learning, with five activity categories: Planning & Design, Code Generation, Code Improvement, U..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

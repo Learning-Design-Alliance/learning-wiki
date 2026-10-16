@@ -3,7 +3,7 @@ type: claim
 title: In Year 1, teens left on their own did not automatically connect with structured workshops; adult mentors reaching out socially changed this
 description: In Year 1, teens left on their own did not automatically connect with structured workshops; adult mentors reaching out socially changed this
 id: youmedia-teens-needed-mentor-outreach-to-connect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: The visualizations address how student growth changed since school buildings closed in March 2020
 description: The visualizations address how student growth changed since school buildings closed in March 2020
 id: student-growth-change-since-march-2020-closures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

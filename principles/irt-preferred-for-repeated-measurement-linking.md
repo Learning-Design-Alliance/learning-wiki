@@ -3,7 +3,7 @@ type: principle
 id: irt-preferred-for-repeated-measurement-linking
 title: Use IRT rather than classical test theory when implementing repeated measurement linking designs with re-randomized groups and multiple concurrent links
 description: "The article recommends an IRT framework for its repeated measurement linking design because IRT \"easily allows for incomplete designs and for equality constraints between item parameters.\" The author notes that when n..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

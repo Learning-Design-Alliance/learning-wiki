@@ -3,7 +3,7 @@ type: claim
 title: Hardiness shows its strongest burnout correlation with reduced academic accomplishment, while AI-assisted learning is not correlated with emotional exhaustion
 description: Hardiness shows its strongest burnout correlation with reduced academic accomplishment, while AI-assisted learning is not correlated with emotional exhaustion
 id: correlation-pattern-hardiness-raa-strongest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

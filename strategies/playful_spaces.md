@@ -71,7 +71,7 @@ Playful spaces work because they lower the social and cognitive cost of experime
 - **[Scratch](https://scratch.mit.edu)** — MIT's block-based coding environment; learners build projects with immediate visual feedback and no penalty for broken code, embodying a playful digital space.
 - **Guided play with board games** — Ramani & Siegler's linear number board games, where preschoolers' play produced lasting gains in numerical knowledge [+S].
 - **Reggio Emilia classrooms** — environment-as-teacher design where open-ended materials invite sustained, self-directed exploration.
-- **Makerspaces** (e.g., school fab labs) — physical playful spaces supporting design iteration with real tools and audiences.
+- **[Makerspaces](makerspaces.md)** (e.g., school fab labs) — physical playful spaces supporting design iteration with real tools and audiences.
 
 ## Key Sources
 - Ramani, G. B., & Siegler, R. S. (2008). Promoting broad and stable improvements in low-income children's numerical knowledge through playing number board games. *Child Development, 79*(2), 375–394. [doi:10.1111/j.1467-8624.2007.01131.x](https://doi.org/10.1111/j.1467-8624.2007.01131.x)

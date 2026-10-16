@@ -3,7 +3,7 @@ type: claim
 title: User satisfaction with eco modes declines sharply from mode 1 (mean 3.64) to modes 4–5 (means 2.35 and 2.06)
 description: User satisfaction with eco modes declines sharply from mode 1 (mean 3.64) to modes 4–5 (means 2.35 and 2.06)
 id: eco-mode-satisfaction-declines-across-modes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

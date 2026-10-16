@@ -3,7 +3,7 @@ type: claim
 title: AI integration in online learning raises interconnected challenges of academic integrity, equity and bias, ethics and privacy, and institutional policy gaps
 description: AI integration in online learning raises interconnected challenges of academic integrity, equity and bias, ethics and privacy, and institutional policy gaps
 id: ai-online-learning-challenges-integrity-equity-privacy-policy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

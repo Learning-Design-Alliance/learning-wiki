@@ -3,7 +3,7 @@ type: claim
 title: A formative study with six teachers and two experts identified five core challenges in lesson plan adaptation, including lack of systematic student profile data and fragmented refinement workflows
 description: A formative study with six teachers and two experts identified five core challenges in lesson plan adaptation, including lack of systematic student profile data and fragmented refinement workflows
 id: five-challenges-lesson-plan-adaptation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

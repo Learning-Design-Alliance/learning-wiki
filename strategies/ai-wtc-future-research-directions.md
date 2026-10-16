@@ -3,7 +3,7 @@ type: strategy
 id: ai-wtc-future-research-directions
 title: Future AI-WTC research should use longitudinal designs, triangulated WTC measures, diverse samples, comparative tool research, pedagogically guided AI integration, and theory-driven models
 description: "The review identifies five interrelated gaps across methodological, contextual, population, technological, and theoretical dimensions and highlights \"the need for longitudinal designs, triangulated WTC measures, diver..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

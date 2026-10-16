@@ -3,7 +3,7 @@ type: claim
 title: Longer Facebook threads with more interlocutors show distinct structural characteristics compared to the broader corpus
 description: Longer Facebook threads with more interlocutors show distinct structural characteristics compared to the broader corpus
 id: thread-structure-designerly-talk-corpus
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

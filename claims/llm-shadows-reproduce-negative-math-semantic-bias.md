@@ -3,7 +3,7 @@ type: claim
 title: LLM digital shadows reproduce the human pattern of positive science perceptions anchored in negative mathematics associations
 description: LLM digital shadows reproduce the human pattern of positive science perceptions anchored in negative mathematics associations
 id: llm-shadows-reproduce-negative-math-semantic-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

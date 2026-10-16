@@ -3,7 +3,7 @@ type: claim
 title: "The indicator system correctly classifies 96 percent of case-study schools' politics and 92 percent of their improvement approach"
 description: "The indicator system correctly classifies 96 percent of case-study schools' politics and 92 percent of their improvement approach"
 id: indicator-system-validity-96-92-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -2,7 +2,7 @@
 type: theory
 title: Transfer learning approach to predicting item difficulty and response time, varying representation abstraction and item component input
 description: The paper frames item parameter prediction as a transfer learning problem in which a model trained on one task (e.g., response time) supports prediction of another (e.g., difficulty).
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

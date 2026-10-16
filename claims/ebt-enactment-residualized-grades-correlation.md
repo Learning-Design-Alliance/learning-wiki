@@ -3,7 +3,7 @@ type: claim
 title: EBT practice enactment is positively associated with residualized course grades (r = 0.316).
 description: EBT practice enactment is positively associated with residualized course grades (r = 0.316).
 id: ebt-enactment-residualized-grades-correlation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

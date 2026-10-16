@@ -3,7 +3,7 @@ type: claim
 title: The evaluation has not yet rigorously examined whether the magnet schools reduce, eliminate, or prevent minority group isolation; this is deferred to the final report
 description: The evaluation has not yet rigorously examined whether the magnet schools reduce, eliminate, or prevent minority group isolation; this is deferred to the final report
 id: minority-group-isolation-outcome-deferred
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

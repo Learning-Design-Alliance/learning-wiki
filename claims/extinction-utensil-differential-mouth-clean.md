@@ -3,7 +3,7 @@ type: claim
 title: Extinction increased spoon acceptance but cup mouth clean remained low before fading
 description: Extinction increased spoon acceptance but cup mouth clean remained low before fading
 id: extinction-utensil-differential-mouth-clean
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

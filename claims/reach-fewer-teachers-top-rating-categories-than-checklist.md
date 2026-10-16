@@ -3,7 +3,7 @@ type: claim
 title: Under REACH fewer teachers received ratings in the top two categories than under the prior checklist system
 description: Under REACH fewer teachers received ratings in the top two categories than under the prior checklist system
 id: reach-fewer-teachers-top-rating-categories-than-checklist
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Perception alignment improves mainly in the early weeks and does not consistently decrease through the project
 description: Perception alignment improves mainly in the early weeks and does not consistently decrease through the project
 id: ai-use-perception-alignment-improves-early-then-plateaus
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

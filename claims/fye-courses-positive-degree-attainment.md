@@ -3,7 +3,7 @@ type: claim
 title: First year experience courses show a statistically significant positive effect on undergraduate degree attainment, based on one study
 description: First year experience courses show a statistically significant positive effect on undergraduate degree attainment, based on one study
 id: fye-courses-positive-degree-attainment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

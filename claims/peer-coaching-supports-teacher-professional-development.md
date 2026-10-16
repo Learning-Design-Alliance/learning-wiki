@@ -3,7 +3,7 @@ type: claim
 title: "A 2007 report on an online peer-assisted learning community asserts, citing no studies, that peer coaching has proved a highly effective form of teacher professional development in the UK, US and other countries since the 1980s"
 description: "A 2007 report on an online peer-assisted learning community asserts, citing no studies, that peer coaching has proved a highly effective form of teacher professional development in the UK, US and other countries since the 1980s"
 id: peer-coaching-supports-teacher-professional-development
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: In a course that had removed examinations, most student groups designing a fair grading policy reinvented proctored or handwritten assessment
 description: In a course that had removed examinations, most student groups designing a fair grading policy reinvented proctored or handwritten assessment
 id: students-reinvented-exams-in-ai-course-grading-design
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

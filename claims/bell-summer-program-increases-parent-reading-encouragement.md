@@ -3,7 +3,7 @@ type: claim
 title: The BELL summer program increases the extent to which parents encourage their children to read during the subsequent school year
 description: The BELL summer program increases the extent to which parents encourage their children to read during the subsequent school year
 id: bell-summer-program-increases-parent-reading-encouragement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

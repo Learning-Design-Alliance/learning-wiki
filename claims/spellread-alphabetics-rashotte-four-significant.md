@@ -3,7 +3,7 @@ type: claim
 title: In the Rashotte et al. (2001) study, the WWC confirmed statistically significant SpellRead™ effects on four of seven alphabetics outcomes
 description: In the Rashotte et al.
 id: spellread-alphabetics-rashotte-four-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

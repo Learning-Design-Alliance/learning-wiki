@@ -3,7 +3,7 @@ type: claim
 title: Early trends suggest students of teachers using ASSISTments as the sole math edtech tool may have benefited more than students where it was part of a suite of tools
 description: Early trends suggest students of teachers using ASSISTments as the sole math edtech tool may have benefited more than students where it was part of a suite of tools
 id: assistments-sole-tool-early-trends
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

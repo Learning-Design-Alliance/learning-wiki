@@ -3,7 +3,7 @@ type: claim
 title: Interim impact estimates suggest UBMS participation improves several student outcomes in high school and college
 description: Interim impact estimates suggest UBMS participation improves several student outcomes in high school and college
 id: ubms-improves-high-school-college-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

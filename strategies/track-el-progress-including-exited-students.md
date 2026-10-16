@@ -3,7 +3,7 @@ type: strategy
 id: track-el-progress-including-exited-students
 title: Build long-term systems to track English learner progress, including students who have exited EL status
 description: "The guide recommends developing systems to track and monitor English learner progress, noting that current data collection is \"inconsistent and often paints an incomplete picture of these students' experience during a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

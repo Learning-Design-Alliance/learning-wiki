@@ -3,7 +3,7 @@ type: claim
 title: "Exploratory stage-of-study analyses: undergraduate year level is positively associated with AI-related disengagement, and the GPA-band pattern is stronger in postgraduate/research students for active engagement and perceived learning impact"
 description: "Exploratory stage-of-study analyses: undergraduate year level is positively associated with AI-related disengagement, and the GPA-band pattern is stronger in postgraduate/research students for active engagement and pe..."
 id: stage-of-study-exploratory-variation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

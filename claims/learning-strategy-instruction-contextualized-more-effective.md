@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Whether strategy instruction works better in authentic content-area tasks is untested, and the one meta-analytic comparison recorded found larger gains in strategic ability in language-arts than in content-area classes"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

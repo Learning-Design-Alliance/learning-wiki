@@ -3,7 +3,7 @@ type: claim
 title: "First-semester outcomes strongly predicted second-semester A2 and B4 completion: students who completed first-semester stretch courses mostly completed the requirement, while most who failed an A2 or B4 course did not retake it"
 description: "First-semester outcomes strongly predicted second-semester A2 and B4 completion: students who completed first-semester stretch courses mostly completed the requirement, while most who failed an A2 or B4 course did not..."
 id: eo1110-first-semester-outcomes-predict-second-semester
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

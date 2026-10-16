@@ -3,7 +3,7 @@ type: design
 id: ai-generated-pendulum-simulation
 title: Simple pendulum simulation with parameter sliders, analytical-overlay graph, and enhanced large-angle version
 description: An LLM-generated interactive pendulum simulation (Figure 1) with sliders for mass, length, initial angle, and angular velocity, and graphs of angle and angular velocity over time with the analytical small-angle soluti...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

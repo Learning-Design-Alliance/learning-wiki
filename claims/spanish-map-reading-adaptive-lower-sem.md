@@ -3,7 +3,7 @@ type: claim
 title: "The adaptive algorithm's item selection produces a significantly lower SEM than fixed-form tests"
 description: "The adaptive algorithm's item selection produces a significantly lower SEM than fixed-form tests"
 id: spanish-map-reading-adaptive-lower-sem
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

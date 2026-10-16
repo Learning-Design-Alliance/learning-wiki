@@ -3,7 +3,7 @@ type: strategy
 id: genai-management-strategies-via-contradiction-analysis
 title: Develop GenAI management strategies by identifying the contradictions GenAI access creates in the educational activity system
 description: "The article recommends that engineering education institutions develop strategies for managing students' GenAI use by first understanding the contradictions GenAI introduces into educational practices."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

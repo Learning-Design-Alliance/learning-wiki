@@ -3,7 +3,7 @@ type: claim
 title: "The NSF advantage over FCFS appears only above an arrival-rate threshold (λ > 0.06); under relaxed queues no strategy makes a difference"
 description: "The NSF advantage over FCFS appears only above an arrival-rate threshold (λ > 0.06); under relaxed queues no strategy makes a difference"
 id: arrival-rate-threshold-nsf-advantage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

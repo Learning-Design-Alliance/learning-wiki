@@ -3,7 +3,7 @@ type: claim
 title: "Chicago's Algebra Initiative raised the 8th-grade algebra pass rate from 4% in 2002 to about 20% by 2017 and closed two-thirds of the NAEP gap"
 description: "Chicago's Algebra Initiative raised the 8th-grade algebra pass rate from 4% in 2002 to about 20% by 2017 and closed two-thirds of the NAEP gap"
 id: cps-algebra-initiative-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

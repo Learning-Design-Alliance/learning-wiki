@@ -3,7 +3,7 @@ type: claim
 title: Effects of GenAI availability on self-reported understanding are insignificant; effects on interest are significant only under the transient-COVID assumption
 description: Effects of GenAI availability on self-reported understanding are insignificant; effects on interest are significant only under the transient-COVID assumption
 id: genai-satisfaction-understanding-null-interest-assumption-dependent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: modular-offloading-control-and-meta-cognition-support-genai
 title: Design GenAI tools with modular offloading control and meta-cognition support for learning contexts
 description: To preserve informal learning with general-purpose GenAI tools, the article suggests two areas of new affordances beyond cognitive scaffolding.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

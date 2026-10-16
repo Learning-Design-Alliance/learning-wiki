@@ -3,7 +3,7 @@ type: claim
 title: ChatGPT users differentiated information less (never by credibility) and rarely verified information compared to Google users
 description: ChatGPT users differentiated information less (never by credibility) and rarely verified information compared to Google users
 id: chatgpt-reduced-differentiation-verification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -68,3 +68,5 @@ Diary-entry analysis of the verifying stage: three ChatGPT instances via another
 - [ChatGPT users were significantly less likely to correctly compare and evaluate animal and plant protein sources](chatgpt-worse-protein-comparison-question.md) — related
 - [ChatGPT users showed a non-significant trend toward worse overall informal learning outcomes than Google Search users over 8 days](chatgpt-worse-informal-learning-outcome-trend.md) — related
 - [ChatGPT users were significantly less likely to correctly answer a critical-learning question requiring interpretation of a nutrition label](chatgpt-worse-nutrition-label-application-question.md) — related
+- [Students using ChatGPT 3.5 experience lower extraneous cognitive load than students using Google during a web research task](llm-search-lower-extraneous-cognitive-load.md) — related
+- [Students using Google produce higher-quality justifications in their final recommendations than students using ChatGPT 3.5](web-search-higher-quality-justifications-than-llm.md) — related

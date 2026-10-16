@@ -3,7 +3,7 @@ type: claim
 title: Young women were more likely than young men to both immediately enroll in and persist through college, in both four-year and two-year colleges
 description: Young women were more likely than young men to both immediately enroll in and persist through college, in both four-year and two-year colleges
 id: gender-gap-enrollment-persistence-cps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: K–3 Plus expanded learning time program showed positive impact on student learning
 description: K–3 Plus expanded learning time program showed positive impact on student learning
 id: k3-plus-positive-impact-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

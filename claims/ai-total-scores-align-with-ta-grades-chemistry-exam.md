@@ -3,7 +3,7 @@ type: claim
 title: AI-assigned total scores on a handwritten chemistry exam align strongly with TA-assigned totals (R2 = 0.91), while per-problem agreement is lower (R2 = 0.61–0.85)
 description: AI-assigned total scores on a handwritten chemistry exam align strongly with TA-assigned totals (R2 = 0.91), while per-problem agreement is lower (R2 = 0.61–0.85)
 id: ai-total-scores-align-with-ta-grades-chemistry-exam
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

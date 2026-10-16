@@ -3,7 +3,7 @@ type: strategy
 id: leverage-org-tech-regulatory-levers-ai-adoption
 title: Use organisational, technological and regulatory levers together to accelerate responsible AI adoption
 description: The article offers practical insights for policymakers, higher education leaders, and system designers seeking to accelerate responsible and effective AI adoption.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

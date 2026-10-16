@@ -3,7 +3,7 @@ type: claim
 title: "CCCT participation improved prospective teachers' attitudes towards cooperativeness (g = 0.751)"
 description: "CCCT participation improved prospective teachers' attitudes towards cooperativeness (g = 0.751)"
 id: ccct-improved-cooperativeness-attitudes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Student-authored physics questions mostly require application or analysis, with under 5% at the lowest recall level"
 description: "Student-authored physics questions mostly require application or analysis, with under 5% at the lowest recall level"
 id: student-questions-majority-above-recall-bloom
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

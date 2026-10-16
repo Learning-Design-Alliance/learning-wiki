@@ -3,7 +3,7 @@ type: claim
 title: Academic achievement is more likely in classrooms that combine personalism with a strong press toward academic work
 description: Academic achievement is more likely in classrooms that combine personalism with a strong press toward academic work
 id: personalism-plus-press-toward-academic-work-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

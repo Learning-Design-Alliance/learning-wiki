@@ -3,7 +3,7 @@ type: claim
 title: Type of achievement measure moderates the correlation only when laboratory measures are excluded; course-exam correlation drops to r = .04
 description: Type of achievement measure moderates the correlation only when laboratory measures are excluded; course-exam correlation drops to r = .04
 id: achievement-measure-moderator-lab-exclusion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

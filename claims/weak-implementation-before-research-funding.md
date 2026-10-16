@@ -3,7 +3,7 @@ type: claim
 title: Experts argue most school RJ implementation is weak and funding should first strengthen implementation before funding research
 description: Experts argue most school RJ implementation is weak and funding should first strengthen implementation before funding research
 id: weak-implementation-before-research-funding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

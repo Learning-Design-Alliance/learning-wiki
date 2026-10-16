@@ -3,7 +3,7 @@ type: claim
 title: Systematic underestimation of human scores is the dominant bias trend across LLM essay scoring, with some models also compressing scores into a narrow range
 description: Systematic underestimation of human scores is the dominant bias trend across LLM essay scoring, with some models also compressing scores into a narrow range
 id: llm-essay-scoring-systematic-underestimation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

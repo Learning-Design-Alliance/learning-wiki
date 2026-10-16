@@ -3,7 +3,7 @@ type: claim
 title: Logistic regression can identify the ELP score at which students have a probability of 0.5 of being proficient on the academic content assessment, as a candidate English-proficient standard
 description: Logistic regression can identify the ELP score at which students have a probability of 0.5 of being proficient on the academic content assessment, as a candidate English-proficient standard
 id: logistic-regression-half-probability-criterion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

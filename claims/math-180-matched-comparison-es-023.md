@@ -3,7 +3,7 @@ type: claim
 title: "Math 180 matched comparison study: intervention-eligible students in grades 5-8 showed significantly greater NWEA MAP gains than matched comparison students (ES +0.23)"
 description: "Math 180 matched comparison study: intervention-eligible students in grades 5-8 showed significantly greater NWEA MAP gains than matched comparison students (ES +0.23)"
 id: math-180-matched-comparison-es-023
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

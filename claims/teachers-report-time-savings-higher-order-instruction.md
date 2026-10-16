@@ -3,7 +3,7 @@ type: claim
 title: Teachers reported that rubric-aligned AI feedback saved time on repetitive comments, enabling focus on higher-order instruction
 description: Teachers reported that rubric-aligned AI feedback saved time on repetitive comments, enabling focus on higher-order instruction
 id: teachers-report-time-savings-higher-order-instruction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

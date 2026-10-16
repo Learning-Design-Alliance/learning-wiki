@@ -3,7 +3,7 @@ type: claim
 title: Smartphone use during class is a distraction with potential to compromise grades (review attribution)
 description: Smartphone use during class is a distraction with potential to compromise grades (review attribution)
 id: smartphone-class-distraction-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: strategy
 id: visible-safe-adults-suicide-prevention-media
 title: Use visible adult identifiers and peer-focused media to signal safe adults and open conversations about suicide prevention
 description: "As suicide prevention efforts, PUSD created a video and education series titled \"Talk to Me, I'll Listen\" for grades 9–12 students and parents, encouraging open conversations and support networks to address suicidal i..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

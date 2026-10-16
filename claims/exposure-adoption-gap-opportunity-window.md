@@ -3,7 +3,7 @@ type: claim
 title: The gap between technical AI exposure and actual employer adoption is a limited opportunity window for CTE programs to shape adoption
 description: The gap between technical AI exposure and actual employer adoption is a limited opportunity window for CTE programs to shape adoption
 id: exposure-adoption-gap-opportunity-window
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

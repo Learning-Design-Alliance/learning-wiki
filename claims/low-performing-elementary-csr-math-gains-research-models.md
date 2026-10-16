@@ -3,7 +3,7 @@ type: claim
 title: Low-performing CSR elementary schools that adopted models with scientific research bases gained in mathematics achievement after three years
 description: Low-performing CSR elementary schools that adopted models with scientific research bases gained in mathematics achievement after three years
 id: low-performing-elementary-csr-math-gains-research-models
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

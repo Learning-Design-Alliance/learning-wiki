@@ -3,7 +3,7 @@ type: claim
 title: Crisis-response training such as lockdown and Run-Hide-Fight can save lives but does not prevent school shootings
 description: Crisis-response training such as lockdown and Run-Hide-Fight can save lives but does not prevent school shootings
 id: crisis-response-does-not-prevent-shootings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

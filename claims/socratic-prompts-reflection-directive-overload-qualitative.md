@@ -3,7 +3,7 @@ type: claim
 title: Qualitatively, Socratic prompts supported reflective monitoring while directive feedback was associated with overload and resistance
 description: Qualitatively, Socratic prompts supported reflective monitoring while directive feedback was associated with overload and resistance
 id: socratic-prompts-reflection-directive-overload-qualitative
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

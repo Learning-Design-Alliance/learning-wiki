@@ -3,7 +3,7 @@ type: research-method
 id: sel-status-and-growth-early-warning-modeling
 title: SEL status-and-growth early-warning modeling
 description: "This framework treats social-emotional learning constructs (academic growth mindset, self-efficacy, self-management) as developmental processes with their own growth trajectories, asking \"whether a student's mean SEL score in 6th grade (status) or growth between 6th through 8th grade is more predict"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

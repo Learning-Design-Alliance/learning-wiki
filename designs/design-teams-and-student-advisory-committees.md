@@ -3,7 +3,7 @@ type: design
 id: design-teams-and-student-advisory-committees
 title: Design teams and student advisory committees for student voice in decision-making
 description: As part of increasing student voice in decision-making and strategic-planning forums, Long Beach Unified implemented two participatory structures.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

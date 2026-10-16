@@ -3,7 +3,7 @@ type: strategy
 id: calibrated-prompts-and-pedagogical-reframing
 title: Calibrate GenAI feedback through calibrated prompts and pedagogical (re-)framing
 description: "A concrete technique for integrating generative AI into writing instruction: the instructor designs calibrated prompts for the AI and applies pedagogical (re-)framing to its output."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

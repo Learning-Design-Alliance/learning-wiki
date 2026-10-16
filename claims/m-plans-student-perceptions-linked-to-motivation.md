@@ -3,7 +3,7 @@ type: claim
 title: "Students' perceptions of motivationally supportive instruction were associated with higher positive motivational beliefs"
 description: "Students' perceptions of motivationally supportive instruction were associated with higher positive motivational beliefs"
 id: m-plans-student-perceptions-linked-to-motivation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

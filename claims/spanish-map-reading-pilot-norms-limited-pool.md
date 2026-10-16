@@ -3,7 +3,7 @@ type: claim
 title: Pilot user norms provide basic contextual information but are drawn from a limited, non-representative pool of test events
 description: Pilot user norms provide basic contextual information but are drawn from a limited, non-representative pool of test events
 id: spanish-map-reading-pilot-norms-limited-pool
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

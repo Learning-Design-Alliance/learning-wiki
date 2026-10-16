@@ -3,7 +3,7 @@ type: research-method
 id: domain-theory-informed-lens-prompting-for-trait-discovery
 title: Domain-theory-informed lens prompting for trait discovery
 description: "PTA's observation-extraction stage can run with generic prompts or with lenses that frame extraction around bodies of domain theory, such as self-regulated learning combined with ICAP for student-AI tutoring or SWEBOK knowledge areas for software engineering."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

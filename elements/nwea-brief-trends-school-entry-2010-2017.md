@@ -3,7 +3,7 @@ type: element
 id: nwea-brief-trends-school-entry-2010-2017
 title: "NWEA research brief: Trends in children's academic skills at school entry, 2010–2017"
 description: A research brief published by NWEA Research in 2019, authored by Megan Kuhfeld, James Soland, Christine Pitts, and Margaret Burchinal.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -45,4 +45,4 @@ A research brief published by NWEA Research in 2019, authored by Megan Kuhfeld, 
 - [Use kindergarten-entry test data for early identification so educators can intervene before third grade](../strategies/early-identification-kindergarten-intervention-before-third-grade.md)
 
 ## Key Sources
-- Kuhfeld, M., Soland, J., Pitts, C., & Burchinal, M. (2019). Trends in children's academic skills at school entry: 2010 – 2017. NWEA Research. https://www.nwea.org/research/publication/trends-in-childrens-academic-skills-at-school-entry-2010-2017/
+- Kuhfeld, M., Soland, J., Pitts, C., & Burchinal, M. (2019). Trends in children's academic skills at school entry: 2010 – 2017. NWEA Research. https://www.nwea.org/research/publication/trends-in-childrens-academic-skills-at-school-entry-2010-2017/. [doi:10.3102/0013189x20931078](https://doi.org/10.3102/0013189x20931078)

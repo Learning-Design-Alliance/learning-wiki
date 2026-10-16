@@ -3,7 +3,7 @@ type: claim
 title: Research on AI in STEM education evolved through three stages, from proof-of-concept learning systems to generative-AI-centered adaptive instruction (2015–2025)
 description: Research on AI in STEM education evolved through three stages, from proof-of-concept learning systems to generative-AI-centered adaptive instruction (2015–2025)
 id: ai-stem-education-three-evolutionary-stages
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -59,3 +59,4 @@ Bibliometric time-zone evolution analysis of the 242-document corpus in VOSviewe
 - AIED research has predominantly framed AI as automation or personalization, privileging individual outcomes over social processes — related
 - Keyword co-occurrence analysis identifies three thematic clusters: traditional AI/predictive modeling, medical education with generative AI, and ethics/knowledge/healthcare integration — related
 - Learning analytics is the most frequently occurring AI-related keyword in the literature on metacognition in STEM education — related
+- [AI performance is the most frequent research theme (35%) in research on generative AI in secondary STEM education, ahead of tool development (22%) and application & impact (19%)](ai-performance-most-frequent-research-theme.md) — related

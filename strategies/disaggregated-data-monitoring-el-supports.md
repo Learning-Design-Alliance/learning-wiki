@@ -3,7 +3,7 @@ type: strategy
 id: disaggregated-data-monitoring-el-supports
 title: Disaggregate engagement and performance data by subgroup and regularly evaluate and adjust support plans
 description: "The guide instructs district leaders to \"ensure all data on student engagement and performance is disaggregated by student subgroup, and regularly evaluate and adjust plans to ensure students are equitably and effecti..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

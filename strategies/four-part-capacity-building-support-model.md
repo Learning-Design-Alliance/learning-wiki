@@ -3,7 +3,7 @@ type: strategy
 id: four-part-capacity-building-support-model
 title: "Four-part capacity-building support model: scoping, provider matching, cohort learning, and thought partnership"
 description: "The initiative's goal was \"to strengthen grantee capacity for equity-centered strategic learning by helping grantees scope projects in their area of need, matching grantees with providers that could help build organiz..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

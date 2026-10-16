@@ -2,7 +2,7 @@
 type: theory
 title: "Data storytelling: framing learning-platform data as rich narratives of individual learners' journeys to guide support and theory development"
 description: The paper organizes its argument around the metaphor of learning theories as stories positioning the learner as protagonist, with the platform supplying setting and plot.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: AMPT gave students the opportunity to express themselves and see their interests reflected in the math domain
 description: AMPT gave students the opportunity to express themselves and see their interests reflected in the math domain
 id: ampt-interests-reflected-in-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

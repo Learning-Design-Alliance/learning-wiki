@@ -3,7 +3,7 @@ type: claim
 title: Induction program administration, structures, and funding vary widely across California, with advertised costs from $0 to $10,000 and no dedicated state funding
 description: Induction program administration, structures, and funding vary widely across California, with advertised costs from $0 to $10,000 and no dedicated state funding
 id: induction-program-variation-and-funding-challenges
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

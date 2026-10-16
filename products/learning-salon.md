@@ -4,7 +4,7 @@ id: learning-salon
 title: Learning Salon
 description: A structured, equity-focused engagement framework developed and run by the Learning Salon initiative to bring district leaders and BIPOC solution providers together to analyze problems of practice and co-design solutions.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
@@ -74,7 +74,7 @@ The Learning Salon model is a structured engagement framework bringing district 
 ## Related Theories
 
 - [Collaborative Innovation: a six-phase co-research and co-design R&D model](../products/digital-promises-inclusive-innovation-model.md)
-- [Co-design framework with core tenets of power sharing, relationships, and capability building](../theories/codesign-core-tenets-framework.md)
+- [Co-design framework with core tenets of power sharing, relationships, and capability building](../theories/co-design-core-tenets-digital-promise.md)
 - [Co-design framework with core tenets of power sharing and inclusion, prioritizing relationships, and capability building](../theories/co-design-core-tenets-digital-promise.md)
 
 ## Examples

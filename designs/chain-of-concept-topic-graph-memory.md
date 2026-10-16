@@ -3,7 +3,7 @@ type: design
 id: chain-of-concept-topic-graph-memory
 title: "Chain-of-Concept: topic-graph organisation of past assessments replacing similarity-based retrieval"
 description: "Chain-of-Concept is the article's framework for curriculum-grounded retrieval."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

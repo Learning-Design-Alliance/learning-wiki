@@ -3,7 +3,7 @@ type: claim
 title: Cohort 2 partners trained more than 155,000 Californians outside the mental health workforce and nearly 25,000 within it in identifying and addressing student mental health needs
 description: Cohort 2 partners trained more than 155,000 Californians outside the mental health workforce and nearly 25,000 within it in identifying and addressing student mental health needs
 id: cal-well-trained-155000-nonworkforce-25000-workforce
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

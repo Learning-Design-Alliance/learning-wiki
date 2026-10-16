@@ -3,7 +3,7 @@ type: claim
 title: In high-stakes homework settings, answer-first checking functions as a rational self-regulation strategy and diagnostic checkpoint rather than shortcutting
 description: In high-stakes homework settings, answer-first checking functions as a rational self-regulation strategy and diagnostic checkpoint rather than shortcutting
 id: answer-first-checking-as-self-regulated-diagnostic-checkpoint
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

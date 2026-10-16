@@ -3,7 +3,7 @@ type: claim
 title: Fine-tuned GPT-4o achieves state-of-the-art scoring of TOEFL argumentative essays with QWK 0.84 and RMSE 0.44 against official scores
 description: Fine-tuned GPT-4o achieves state-of-the-art scoring of TOEFL argumentative essays with QWK 0.84 and RMSE 0.44 against official scores
 id: wraft-finetuned-gpt4o-scoring-qwk-084
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

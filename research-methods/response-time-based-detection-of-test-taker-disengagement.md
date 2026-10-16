@@ -3,7 +3,7 @@ type: research-method
 id: response-time-based-detection-of-test-taker-disengagement
 title: Response-time-based detection of test taker disengagement
 description: The chapter describes a capability for identifying test taker disengagement using response time, which underlies its analysis of what happens when test takers disengage and how disengagement should be managed during scoring.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
@@ -44,7 +44,7 @@ The chapter describes a capability for identifying test taker disengagement usin
 -
 
 ## Key Sources
-- Wise, S., & Kuhfeld, M. (2020). A cessation of measurement: Identifying test taker disengagement using response time. In M. Margolis, & R. Feinberg (Eds.), Integrating Timing Considerations to Improve Testing Practices, Routledge. https://www.nwea.org/research/publication/a-cessation-of-measurement-identifying-test-taker-disengagement-using-response-time-book/
+- Wise, S., & Kuhfeld, M. (2020). A cessation of measurement: Identifying test taker disengagement using response time. In M. Margolis, & R. Feinberg (Eds.), Integrating Timing Considerations to Improve Testing Practices, Routledge. https://www.nwea.org/research/publication/a-cessation-of-measurement-identifying-test-taker-disengagement-using-response-time-book/. [doi:10.4324/9781351064781-11](https://doi.org/10.4324/9781351064781-11)
 - Steven Wise, Megan Kuhfeld. (2019). What happens when test takers disengage? Understanding and addressing rapid guessing. NWEA Research brief. https://www.nwea.org/research/publication/what-happens-when-test-takers-disengage-understanding-and-addressing-rapid-guessing/
 
 <!-- merged 2026-10-10 from elements/response-time-disengagement-identification-method ("Response-time-based method for identifying test taker disengagement"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
@@ -86,7 +86,7 @@ The chapter describes a capability for identifying test taker disengagement usin
 - [Use response time to identify test taker disengagement as rapid-guessing behavior](../strategies/response-time-identifies-rapid-guessing.md)
 
 ## Key Sources
-- Wise, S., & Kuhfeld, M. (2020). A cessation of measurement: Identifying test taker disengagement using response time. In M. Margolis, & R. Feinberg (Eds.), Integrating Timing Considerations to Improve Testing Practices, Routledge. https://www.nwea.org/research/publication/a-cessation-of-measurement-identifying-test-taker-disengagement-using-response-time-book/
+- Wise, S., & Kuhfeld, M. (2020). A cessation of measurement: Identifying test taker disengagement using response time. In M. Margolis, & R. Feinberg (Eds.), Integrating Timing Considerations to Improve Testing Practices, Routledge. https://www.nwea.org/research/publication/a-cessation-of-measurement-identifying-test-taker-disengagement-using-response-time-book/. [doi:10.4324/9781351064781-11](https://doi.org/10.4324/9781351064781-11)
 -->
 
 <!-- merged 2026-10-10 from theories/cessation-of-measurement-disengagement-framework ("Response-time-based identification of test taker disengagement (cessation of measurement)"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.

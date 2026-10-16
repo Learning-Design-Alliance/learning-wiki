@@ -3,7 +3,7 @@ type: strategy
 id: layered-multisensory-visualizations-reduce-load
 title: Design intuitive, multisensory, layered visualizations with evolving assessment to reduce cognitive load
 description: "The article's third design guideline calls for clear visual aids such as familiar graphs, heatmaps, and step-by-step animations to improve comprehension of complex mechanics concepts and reduce cognitive effort, toget..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -48,4 +48,4 @@ The article's third design guideline calls for clear visual aids such as familia
 -
 
 ## Key Sources
-- Rakib, M. A. N., Akter, S., Sridhar, E. P., Biswas, S., Raihan, M. R., & Rahman, M. (2025). Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning. Manuscript under review at Ergonomics in Design: The Quarterly of Human Factors Applications. https://arxiv.org/abs/2607.00979
+- Rakib, M. A. N., Akter, S., Sridhar, E. P., Biswas, S., Raihan, M. R., & Rahman, M. (2025). Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning. Manuscript under review at Ergonomics in Design: The Quarterly of Human Factors Applications. https://arxiv.org/abs/2607.00979. [doi:10.48550/arxiv.2607.00979](https://doi.org/10.48550/arxiv.2607.00979)

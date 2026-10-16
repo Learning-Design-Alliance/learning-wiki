@@ -3,7 +3,7 @@ type: claim
 title: "SRSD had potentially positive effects on writing achievement for students with a specific learning disability, with 88% of single-case experiments showing positive effects"
 description: "SRSD had potentially positive effects on writing achievement for students with a specific learning disability, with 88% of single-case experiments showing positive effects"
 id: srsd-potentially-positive-writing-achievement-sld
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

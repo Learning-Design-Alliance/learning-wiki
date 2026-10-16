@@ -3,7 +3,7 @@ type: claim
 title: "GPT-4o's final-turn correctness labeling on CoMTA is only slightly less accurate than expert human annotators, which the authors read as close to human-level performance on a challenging task."
 description: "GPT-4o's final-turn correctness labeling on CoMTA is only slightly less accurate than expert human annotators, which the authors read as close to human-level performance on a challenging task."
 id: gpt-4o-final-turn-correctness-labeling-is-close-to-human-level
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

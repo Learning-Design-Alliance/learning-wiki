@@ -3,7 +3,7 @@ type: claim
 title: Whole language and phonics approaches each have limits, and the teacher should observe the individual pupil to balance whole-word and phonics instruction
 description: Whole language and phonics approaches each have limits, and the teacher should observe the individual pupil to balance whole-word and phonics instruction
 id: balance-whole-language-and-phonics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

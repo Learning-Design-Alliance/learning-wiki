@@ -3,7 +3,7 @@ type: claim
 title: The better the five foundations are integrated, the greater the probability of success in the designed setting
 description: The better the five foundations are integrated, the greater the probability of success in the designed setting
 id: foundation-integration-predicts-environment-success
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

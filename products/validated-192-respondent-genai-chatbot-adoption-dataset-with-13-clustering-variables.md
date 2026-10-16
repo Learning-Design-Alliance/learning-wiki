@@ -4,7 +4,7 @@ id: validated-192-respondent-genai-chatbot-adoption-dataset-with-13-clustering-v
 title: Validated 192-respondent GenAI chatbot adoption dataset with 13 clustering variables
 description: "A Qualtrics-based dataset of 192 higher-education students' and educators' GenAI chatbot perceptions and experiences, standardized across 13 variables for clustering into adoption personas."
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Detecting that students are tracked to teachers does not necessarily imply bias in teacher effectiveness estimates
 description: Detecting that students are tracked to teachers does not necessarily imply bias in teacher effectiveness estimates
 id: tracking-detection-does-not-imply-vam-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

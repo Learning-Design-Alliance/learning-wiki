@@ -4,7 +4,7 @@ id: ctat-computational-thinking-in-ai-training-test
 title: "CTAT: Computational Thinking in AI Training Test"
 description: A validated multiple-choice assessment developed by Shile Zhang et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

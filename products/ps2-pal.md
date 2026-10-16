@@ -4,7 +4,7 @@ id: ps2-pal
 title: PS2 Pal
 description: A GPT-4-based AI tutoring platform developed by Kestin et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: The decisive empirical test of AI-augmented instruction frameworks is whether students retain representational competence when AI support is withdrawn
 description: The decisive empirical test of AI-augmented instruction frameworks is whether students retain representational competence when AI support is withdrawn
 id: withdrawal-condition-ai-instruction-frameworks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

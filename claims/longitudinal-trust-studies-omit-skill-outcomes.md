@@ -3,7 +3,7 @@ type: claim
 title: Longitudinal studies of trust and reliance in AI advice examine whether users rely appropriately over time but not whether independent reasoning capacity is maintained
 description: Longitudinal studies of trust and reliance in AI advice examine whether users rely appropriately over time but not whether independent reasoning capacity is maintained
 id: longitudinal-trust-studies-omit-skill-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -45,3 +45,4 @@ Theoretical argument in Section 5 reviewing longitudinal studies: Kahr et al. on
 ## Related Claims
 - [Error timing and stakes shape trust in AI systems: later errors may be more damaging, early errors may matter more, and trust recovers quickly after good post-error performance, with high-stakes errors causing abrupt collapse](error-timing-and-stakes-shape-trust.md) — related
 - [The review reports some evidence that over-dependence on AI contributes to cognitive offloading and decreased independent reasoning, while guided AI use can be helpful](ai-overdependence-cognitive-offloading-guided-use-helpful.md) — related
+- [Over-reliance on AI dialogue systems fosters complacency and dependency that impairs students' decision-making abilities](ai-overreliance-impairs-decision-making.md) — related

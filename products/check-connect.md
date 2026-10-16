@@ -4,7 +4,7 @@ id: check-connect
 title: "Check & Connect"
 description: "Check & Connect is a dropout-prevention programme developed and implemented through monitored student performance, individualized mentoring, case management, and coordinated support from school, family, and community partners."
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

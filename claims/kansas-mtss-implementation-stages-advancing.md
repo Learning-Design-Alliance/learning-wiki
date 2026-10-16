@@ -3,7 +3,7 @@ type: claim
 title: Kansas schools are progressing from exploration to more advanced MTSS implementation stages over time
 description: Kansas schools are progressing from exploration to more advanced MTSS implementation stages over time
 id: kansas-mtss-implementation-stages-advancing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

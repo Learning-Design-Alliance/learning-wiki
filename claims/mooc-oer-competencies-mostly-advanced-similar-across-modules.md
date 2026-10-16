@@ -3,7 +3,7 @@ type: claim
 title: MOOC participants self-assess predominantly at the advanced competency level, with very similar level distributions across all four OER competency modules
 description: MOOC participants self-assess predominantly at the advanced competency level, with very similar level distributions across all four OER competency modules
 id: mooc-oer-competencies-mostly-advanced-similar-across-modules
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Both the course and the assistant increase behavioral engagement, measured as characters written per journaling prompt
 description: Both the course and the assistant increase behavioral engagement, measured as characters written per journaling prompt
 id: course-and-assistant-increase-writing-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

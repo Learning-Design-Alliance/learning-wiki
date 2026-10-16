@@ -3,7 +3,7 @@ type: claim
 title: "Latent profile analysis of baseline teacher ratings identifies four classes of children's behavioral and social-emotional risk"
 description: "Latent profile analysis of baseline teacher ratings identifies four classes of children's behavioral and social-emotional risk"
 id: lpa-four-baseline-risk-classes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

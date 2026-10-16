@@ -3,7 +3,7 @@ type: strategy
 id: autonomy-supportive-context-components
 title: Build autonomy-supportive learning contexts through perspective-taking, choice, self-initiation, and non-controlling language
 description: The article recommends that higher education settings foster autonomy support through concrete practices drawn from SDT research.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

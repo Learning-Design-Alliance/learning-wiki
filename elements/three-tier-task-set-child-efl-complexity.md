@@ -3,7 +3,7 @@ type: element
 id: three-tier-task-set-child-efl-complexity
 title: Three-tiered task set (information gap, problem solving, decision making) for manipulating task complexity with child learners
 description: "The study operationalized task complexity through three classroom tasks around Lucy's Sunday schedule: an information gap task involving only information transmission (simple), a problem-solving task requiring learner..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

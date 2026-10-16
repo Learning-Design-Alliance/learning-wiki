@@ -3,7 +3,7 @@ type: claim
 title: Unfocused tasks elicit significantly more confirmation checks and clarification requests than focused tasks
 description: Unfocused tasks elicit significantly more confirmation checks and clarification requests than focused tasks
 id: unfocused-tasks-more-confirmation-and-clarification-strategies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Pilot test events represented fewer grade levels overall, with more grade levels represented for low- and high-performing students, while the comparison group showed the opposite pattern
 description: Pilot test events represented fewer grade levels overall, with more grade levels represented for low- and high-performing students, while the comparison group showed the opposite pattern
 id: pilot-grade-representation-by-ability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

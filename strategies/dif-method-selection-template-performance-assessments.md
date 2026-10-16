@@ -3,7 +3,7 @@ type: strategy
 id: dif-method-selection-template-performance-assessments
 title: Use a decision template weighing assumption fit, DIF uniformity, simultaneity, significance testing, and ease of use when choosing a DIF method for polytomous performance assessments
 description: "The article offers its method comparison as \"a useful template for test analysts to use when deciding which techniques to employ when conducting differential item functioning analyses.\" Analysts should check whether t..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

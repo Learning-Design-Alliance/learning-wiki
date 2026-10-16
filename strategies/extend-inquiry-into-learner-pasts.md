@@ -3,7 +3,7 @@ type: strategy
 id: extend-inquiry-into-learner-pasts
 title: "Extend inquiry into learners' pasts to explain non-normative learning behaviours"
 description: "An ethnographic technique, attributed to Haneda (2006), for countering the scholarly silence about how salient identity traits accompany students across space and time: researchers should extend inquiry into learners'..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

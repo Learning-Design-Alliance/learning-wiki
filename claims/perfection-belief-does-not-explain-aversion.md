@@ -3,7 +3,7 @@ type: claim
 title: A belief that the algorithm is less likely to be perfect does not explain experience-driven algorithm aversion
 description: A belief that the algorithm is less likely to be perfect does not explain experience-driven algorithm aversion
 id: perfection-belief-does-not-explain-aversion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

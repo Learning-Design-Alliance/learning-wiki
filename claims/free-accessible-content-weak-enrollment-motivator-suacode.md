@@ -3,7 +3,7 @@ type: claim
 title: "Free, understandable, and accessible content ranked low (4%) as an enrollment motivator for SuaCode students, unlike in comparable MOOC motivation studies"
 description: "Free, understandable, and accessible content ranked low (4%) as an enrollment motivator for SuaCode students, unlike in comparable MOOC motivation studies"
 id: free-accessible-content-weak-enrollment-motivator-suacode
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

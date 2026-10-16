@@ -3,7 +3,7 @@ type: claim
 title: States used four approaches to generate political support for summer learning investment
 description: States used four approaches to generate political support for summer learning investment
 id: four-approaches-garnering-summer-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

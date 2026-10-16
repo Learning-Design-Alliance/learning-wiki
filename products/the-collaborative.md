@@ -3,7 +3,7 @@ type: product
 id: the-collaborative
 title: The Collaborative
 description: The Collaborative is a branded initiative run by its organizing collaborative to support state leaders through participatory design, relationship-building, collaboration, and leadership development.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

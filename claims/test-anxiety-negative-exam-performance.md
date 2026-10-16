@@ -3,7 +3,7 @@ type: claim
 title: Test anxiety is negatively related to exam performance, and proctoring does not moderate this relation
 description: Test anxiety is negatively related to exam performance, and proctoring does not moderate this relation
 id: test-anxiety-negative-exam-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

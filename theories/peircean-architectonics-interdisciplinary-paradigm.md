@@ -2,7 +2,7 @@
 type: theory
 title: Peircean architectonics as an interdisciplinary paradigm organized by triadic logic
 description: "Architectonics is presented as the cross-disciplinary term for the systematic, constructivist nature of all relations and creations, appropriated by Peirce from Kant's art of constructing systems of knowledge."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -56,4 +56,4 @@ Architectonics is presented as the cross-disciplinary term for the systematic, c
 - [Four architectonic guiding principles for integrating teaching, learning, and technology](architectonic-guiding-principles-integration.md)
 
 ## Key Sources
-- Dennis, J. (2022). (Re)Framing Our Frames: Architectonics, Intertextuality, and the Scholarship of Integration in Online Education. Canadian Journal of Learning and Technology, 48(2). https://www.cjlt.ca
+- Dennis, J. (2022). (Re)Framing Our Frames: Architectonics, Intertextuality, and the Scholarship of Integration in Online Education. Canadian Journal of Learning and Technology, 48(2). https://www.cjlt.ca. [doi:10.21432/cjlt28123](https://doi.org/10.21432/cjlt28123)

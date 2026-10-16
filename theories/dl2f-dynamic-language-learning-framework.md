@@ -2,7 +2,7 @@
 type: theory
 title: "Dynamic Language Learning Framework (DL2F): a communication-centric, learner-centered instructional model for language education"
 description: DL2F is a progressive pedagogical approach for language education that positions effective communication as the primary goal of learning.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

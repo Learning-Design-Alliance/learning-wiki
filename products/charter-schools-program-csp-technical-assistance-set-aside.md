@@ -4,7 +4,7 @@ id: charter-schools-program-csp-technical-assistance-set-aside
 title: Charter Schools Program (CSP) technical-assistance set-aside
 description: A federally funded component of the U.S.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

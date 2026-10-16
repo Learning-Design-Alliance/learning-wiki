@@ -3,7 +3,7 @@ type: claim
 title: GPT-4o prompted only with SRL theory references generates a codebook accurately representing most key elements of both foundational SRL theories
 description: GPT-4o prompted only with SRL theory references generates a codebook accurately representing most key elements of both foundational SRL theories
 id: gpt4o-theory-references-codebook-covers-srl-theories
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

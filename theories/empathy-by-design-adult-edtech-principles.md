@@ -2,7 +2,7 @@
 type: theory
 title: "Empathy by design: four guiding principles for adult ed-tech development"
 description: "The report names \"empathy by design\" as \"a set of guiding principles for the development of adult educational technology products,\" \"drawn from the large body of research and practice in the field of adult learning.\"..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

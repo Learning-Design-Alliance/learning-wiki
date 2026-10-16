@@ -3,7 +3,7 @@ type: claim
 title: The WWC improvement indices for Fast ForWord average +2 (alphabetics), +17 (reading fluency), +8 (comprehension), and +3 (general literacy achievement) percentile points
 description: The WWC improvement indices for Fast ForWord average +2 (alphabetics), +17 (reading fluency), +8 (comprehension), and +3 (general literacy achievement) percentile points
 id: fast-forword-improvement-indices-by-domain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

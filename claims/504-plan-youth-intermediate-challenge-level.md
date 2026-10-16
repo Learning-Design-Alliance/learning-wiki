@@ -3,7 +3,7 @@ type: claim
 title: Youth with a 504 plan face fewer functional, social, and educational challenges than youth with an IEP, but more than other youth without an IEP
 description: Youth with a 504 plan face fewer functional, social, and educational challenges than youth with an IEP, but more than other youth without an IEP
 id: 504-plan-youth-intermediate-challenge-level
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

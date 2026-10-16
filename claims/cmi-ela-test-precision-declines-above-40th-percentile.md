@@ -3,7 +3,7 @@ type: claim
 title: The ELA placement test was most precise for students whose scores would place them into developmental courses, with precision declining above the 40th percentile
 description: The ELA placement test was most precise for students whose scores would place them into developmental courses, with precision declining above the 40th percentile
 id: cmi-ela-test-precision-declines-above-40th-percentile
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: design
 id: five-step-glt-prompting-framework
 title: Five-step prompting framework (Clarify, Organize, Integrate, Differentiate, Correct) operationalizing Generative Learning Theory in AI-supported review
 description: "The article introduces a five-step interaction framework that translates Generative Learning Theory's selecting, organizing, and integrating processes into observable student–AI interaction behaviors during review."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

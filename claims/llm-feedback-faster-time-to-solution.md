@@ -3,7 +3,7 @@ type: claim
 title: All three LLM-generated feedback types are associated with faster time to solution than a compiler-errors-only baseline, with Single-Issue Feedback showing the largest reduction
 description: All three LLM-generated feedback types are associated with faster time to solution than a compiler-errors-only baseline, with Single-Issue Feedback showing the largest reduction
 id: llm-feedback-faster-time-to-solution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

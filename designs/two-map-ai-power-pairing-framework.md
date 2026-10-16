@@ -3,7 +3,7 @@ type: design
 id: two-map-ai-power-pairing-framework
 title: "Two-map pairing framework: coupling an AI knowledge map to a power-system knowledge map"
 description: "The framework organizes teaching around two complementary knowledge maps: an AI map ordered by problem type (nonlinear regression, structured feature extraction, constrained decision making, sequential decision making..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

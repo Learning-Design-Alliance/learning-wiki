@@ -4,7 +4,7 @@ id: school-home-early-language-and-literacy-assessment
 title: School-Home Early Language and Literacy assessment
 description: "A language and literacy assessment that measures young children's English narrative production and related expressive-language skills through tasks such as the Bear Story picture-prompt narrative."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

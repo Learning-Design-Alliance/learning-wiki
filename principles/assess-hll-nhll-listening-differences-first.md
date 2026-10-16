@@ -3,7 +3,7 @@ type: principle
 id: assess-hll-nhll-listening-differences-first
 title: Assess how heritage and non-heritage learners perceive and perform listening as a first step toward developing pedagogical practices for mixed classes
 description: Because heritage and non-heritage learners are commonly placed in single-track classes, the authors argue that understanding how the two groups perceive and perform listening is a prerequisite for designing pedagogy.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

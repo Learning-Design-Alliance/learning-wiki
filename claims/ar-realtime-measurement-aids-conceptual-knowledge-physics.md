@@ -3,7 +3,7 @@ type: claim
 title: A tablet-based AR app displaying real-time measurement data above circuit components aided conceptual knowledge acquisition more effectively than traditional physics lab lessons
 description: A tablet-based AR app displaying real-time measurement data above circuit components aided conceptual knowledge acquisition more effectively than traditional physics lab lessons
 id: ar-realtime-measurement-aids-conceptual-knowledge-physics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

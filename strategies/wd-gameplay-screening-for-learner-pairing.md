@@ -3,7 +3,7 @@ type: strategy
 id: wd-gameplay-screening-for-learner-pairing
 title: Use the WD statistic during gameplay as a quick screening tool for pairing learners with likely different profiles
 description: "Based on simulation evidence that distinct learner trajectories yield reasonably distinct WD value ranges, the authors recommend computing the WD statistic during gameplay as \"a quick screening tool to suggest pairing..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

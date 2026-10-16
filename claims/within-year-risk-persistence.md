@@ -3,7 +3,7 @@ type: claim
 title: About 60 percent of students significantly below benchmark at BOY remained so at EOY, and improving to benchmark by MOY predicted meeting benchmark at EOY
 description: About 60 percent of students significantly below benchmark at BOY remained so at EOY, and improving to benchmark by MOY predicted meeting benchmark at EOY
 id: within-year-risk-persistence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

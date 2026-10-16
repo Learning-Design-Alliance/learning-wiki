@@ -3,7 +3,7 @@ type: strategy
 id: more-than-less-than-estimation-framework
 title: "Teach estimation of coin values and quantities using a 'more than'/'less than' framework rather than counting and rounding"
 description: "For the estimation objective, the guide recommends that children practice judging collections as \"more than\" or \"less than\" an amount even when they cannot count the entire collection."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

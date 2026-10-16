@@ -3,7 +3,7 @@ type: claim
 title: Restricting a sample to students who used the treatment can block a mediating path and induce overcontrol bias, attenuating estimated effects
 description: Restricting a sample to students who used the treatment can block a mediating path and induce overcontrol bias, attenuating estimated effects
 id: overcontrol-bias-blocking-mediator
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

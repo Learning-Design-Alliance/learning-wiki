@@ -3,7 +3,7 @@ type: revisions
 page: ../products/rhode-island-charter-school-performance-review-system.md
 ---
 
-# Revision history: [products/rhode-island-charter-school-performance-review-system](../products/rhode-island-charter-school-performance-review-system.md)
+# Revision history: [products/rhode-island-charter-school-performance-review-system](../products/rhode-island-charter-school-performance-framework.md)
 
 Recorded as elements/ri-charter-performance-review-system-2017 before it was renamed, re-filed or merged.
 

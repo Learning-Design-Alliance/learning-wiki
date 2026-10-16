@@ -3,7 +3,7 @@ type: claim
 title: Barriers to integrating AAC into daily routines and accessing AAC programs are frequently reported despite high perceived benefits
 description: Barriers to integrating AAC into daily routines and accessing AAC programs are frequently reported despite high perceived benefits
 id: aac-access-and-integration-barriers-frequent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

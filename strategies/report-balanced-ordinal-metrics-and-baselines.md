@@ -3,7 +3,7 @@ type: strategy
 id: report-balanced-ordinal-metrics-and-baselines
 title: Report class-balanced ordinal metrics alongside sensor-free baselines and label distributions in engagement-sensing studies
 description: "Because engagement labels skew toward engaged states, the article encourages engagement-sensing studies \"to report both measures alongside label distributions, per-class results, and constant baselines\": balanced 1-of..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

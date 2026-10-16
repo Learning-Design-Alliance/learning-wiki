@@ -3,7 +3,7 @@ type: strategy
 id: gender-specific-wellbeing-strategies-literacy
 title: Develop gender-specific well-being strategies, especially literacy support for male students
 description: "The article's Notes for Practice recommend that \"Future research should explore gender-specific strategies, addressing unique socio-emotional needs to improve educational outcomes, especially in literacy for male stud..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

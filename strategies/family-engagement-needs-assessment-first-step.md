@@ -3,7 +3,7 @@ type: strategy
 id: family-engagement-needs-assessment-first-step
 title: Conduct a family engagement needs assessment as the first step in planning
 description: "The playbook prescribes a needs assessment as \"an initial and essential step in developing a tailored family engagement plan.\" It uses surveys, focus groups, interviews, and analysis of existing data such as climate s..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Principal effects on student achievement are largely indirect, mediated through school organizational processes
 description: Principal effects on student achievement are largely indirect, mediated through school organizational processes
 id: principal-effects-indirect-through-organizational-processes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

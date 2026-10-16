@@ -3,7 +3,7 @@ type: claim
 title: 5Essentials Survey measures predicted school improvement in both high- and low-poverty schools at elementary and high school levels
 description: 5Essentials Survey measures predicted school improvement in both high- and low-poverty schools at elementary and high school levels
 id: 5essentials-predicts-improvement-high-low-poverty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

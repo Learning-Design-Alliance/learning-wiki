@@ -2,7 +2,7 @@
 type: theory
 title: International community-engaged learning (ICEL) as an experiential education process combining societal engagement, a global challenge, and collaboration
 description: "ICEL is defined in the article as \"an experiential education process involv - ing collaborative efforts among students, teachers, and societal partners to tackle global challenges.\" The framework treats wicked problem..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -2,7 +2,7 @@
 type: theory
 title: Align technology use with specific learning goals rather than adopting technology for its own sake
 description: "The guide's overarching framework holds that the value of educational technology lies in how it is used, not in the technology itself, because technologies evolve rapidly."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -42,7 +42,6 @@ The guide's overarching framework holds that the value of educational technology
 ## Related Theories
 
 - [TPACK (Technological Pedagogical Content Knowledge)](tpack.md)
-- [TPACK: technological pedagogical content knowledge as intersecting knowledge domains](tpack-framework-intersecting-domains-niess-roschelle.md)
 - [Five-stage TPACK development trajectory from recognizing to advancing](tpack-development-stages-recognizing-to-advancing.md)
 
 ## Examples

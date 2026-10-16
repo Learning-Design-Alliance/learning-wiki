@@ -3,7 +3,7 @@ type: claim
 title: Students with more positively oriented academic mindsets show better academic behaviors and earn better grades than students for whom the mindset beliefs do not feel true
 description: Students with more positively oriented academic mindsets show better academic behaviors and earn better grades than students for whom the mindset beliefs do not feel true
 id: positive-mindsets-better-behaviors-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -53,3 +53,4 @@ The review reports, citing Farrington et al. (2012), a consistent correlational 
 - [Broda et al. (2018) found indeterminate effects on GPA, full-time enrollment, and credits completed in a large randomized trial](broda-2018-indeterminate-effects-large-trial.md) — related
 - [Best leverage points for improving performance lie in teacher strategies for classroom context, mindsets, and learning strategies](leverage-points-context-mindsets-learning-strategies.md) — related
 - [The framework's literature review reports students' academic mindsets, learning strategies, perseverance, and behaviors were clearly and significantly related to school performance](noncognitive-factors-related-to-school-performance-farrington-2012.md) — a broader claim this one bears on
+- [Teachers with constructivist beliefs are more likely to integrate educational AI-based tools than teachers with transmissive orientations (reported from a South Korean teacher study)](constructivist-beliefs-predict-ai-integration.md) — related

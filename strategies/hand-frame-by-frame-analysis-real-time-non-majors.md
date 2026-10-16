@@ -3,7 +3,7 @@ type: strategy
 id: hand-frame-by-frame-analysis-real-time-non-majors
 title: Teach video analysis by hand, in real time, without automation layers for non-science majors
 description: Although the software supports automatic video position analysis, the course has students find the position in each frame by hand and demonstrates analysis in real time.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: design
 id: ai-driven-tutor-training-assessment-system
 title: AI-driven tutor training and real-life assessment system linking scenario-based lessons to transcript-based evaluation
 description: "The article introduces a pipeline that trains tutors on research-supported \"tutor moves\" via immersive scenario-based lessons, then uses generative AI (Gemini-2.5-pro) to evaluate real-life application in tutoring tra..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10
@@ -49,4 +49,4 @@ The article introduces a pipeline that trains tutors on research-supported "tuto
 -
 
 ## Key Sources
-- Thomas, D. R., Kamikazi, M. C. A., Brandt, C., Borchers, C., & Koedinger, K. R. (2026). AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice. https://arxiv.org/abs/2606.18617
+- Thomas, D. R., Kamikazi, M. C. A., Brandt, C., Borchers, C., & Koedinger, K. R. (2026). AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice. https://arxiv.org/abs/2606.18617. [doi:10.48550/arxiv.2606.18617](https://doi.org/10.48550/arxiv.2606.18617)

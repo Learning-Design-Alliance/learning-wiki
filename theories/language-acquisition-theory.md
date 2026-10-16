@@ -3,7 +3,7 @@ type: theory
 title: Language Acquisition Theory
 description: Competing accounts of how children acquire language — behaviorist/learning-theory, nativist, and social-interactionist — converge on the view that acquisition depends on both an innate biological readiness and rich environmental interaction, with neither alone being sufficient.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29
@@ -12,7 +12,7 @@ generated:
 # Language Acquisition Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies (2 associational, 1 review), `q2` · 0 of 3 report an effect size
+> **Evidence** · 2 claims (2 for) · 4 studies (2 associational, 1 causal, 1 review), `q2`–`q3` · 0 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 How children acquire language so quickly and reliably, without formal instruction, is a long-running theoretical debate with three main competing accounts.
@@ -41,6 +41,7 @@ The current consensus among researchers is that no single account is sufficient 
 ## Claims
 
 - [Back-and-forth conversational turns with adults are more critical to children's language development and brain physiology than sheer quantity of words heard](../claims/conversational-turns-predict-language-development.md) [+W]
+- [Producing modified output involving developmentally advanced question forms in response to negative feedback is the only significant predictor of ESL question development](../claims/modified-output-advanced-forms-predicts-question-development.md) [+W] — attached 2026-10-15 from Kim McDonough (2005), which proposed "Pienemann and Johnston's developmental sequence for ESL question formation as an operationalization of L2 development"; tests this page's relationship.
 
 ## Related Theories
 

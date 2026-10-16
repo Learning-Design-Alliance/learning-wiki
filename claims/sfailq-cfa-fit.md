@@ -3,7 +3,7 @@ type: claim
 title: Confirmatory factor analysis supports the six-facet structure with marginal but acceptable fit
 description: Confirmatory factor analysis supports the six-facet structure with marginal but acceptable fit
 id: sfailq-cfa-fit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Functional life skills development programs show potentially positive effects on independent living, with a small evidence base
 description: Functional life skills development programs show potentially positive effects on independent living, with a small evidence base
 id: functional-life-skills-independent-living-potentially-positive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

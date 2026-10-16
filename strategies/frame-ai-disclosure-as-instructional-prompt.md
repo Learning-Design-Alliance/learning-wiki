@@ -3,7 +3,7 @@ type: strategy
 id: frame-ai-disclosure-as-instructional-prompt
 title: Frame disclosure of AI involvement as an instructional prompt rather than a disclaimer
 description: "The paper draws a practitioner implication from its finding that transparency operated as an instructional intervention: \"transparency about AI involvement may be more than an ethical obligation."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

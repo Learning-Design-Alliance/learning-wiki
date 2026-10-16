@@ -3,7 +3,7 @@ type: claim
 title: CDPK performance scales with model size, with a sharp Pareto-frontier drop-off below around 8B parameters
 description: CDPK performance scales with model size, with a sharp Pareto-frontier drop-off below around 8B parameters
 id: cdpk-scales-with-model-size-dropoff-below-8b
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

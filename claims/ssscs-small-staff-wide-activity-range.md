@@ -3,7 +3,7 @@ type: claim
 title: "Most SSSCs have small staffs (over 75% with 10 or fewer staff) yet engage in a wide range of activities, led by technical assistance (93%) and training (86%)"
 description: "Most SSSCs have small staffs (over 75% with 10 or fewer staff) yet engage in a wide range of activities, led by technical assistance (93%) and training (86%)"
 id: ssscs-small-staff-wide-activity-range
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

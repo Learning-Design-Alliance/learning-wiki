@@ -3,7 +3,7 @@ type: claim
 title: Interleaving benefits transfer to novel items from a learned category, with effect sizes of up to 0.66
 description: Interleaving benefits transfer to novel items from a learned category, with effect sizes of up to 0.66
 id: interleaving-transfer-benefit-meta-analysis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

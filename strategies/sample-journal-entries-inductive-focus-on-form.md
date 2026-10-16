@@ -3,7 +3,7 @@ type: strategy
 id: sample-journal-entries-inductive-focus-on-form
 title: Use sample journal entries to inductively highlight target language elements
 description: As an inductive variant of intensive focus on form, teachers present a sample journal entry that models the target language element and ask students to notice how it is used.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

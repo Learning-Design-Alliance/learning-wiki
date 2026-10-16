@@ -3,7 +3,7 @@ type: strategy
 id: prepare-teachers-students-before-socratic-circles
 title: Prepare teachers and students with awareness, vocabulary, and facilitation knowledge before implementing Socratic Circles
 description: Post-implementation debrief sessions in the RCS pilot yielded iteration learnings about preparation needs.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -48,4 +48,4 @@ Post-implementation debrief sessions in the RCS pilot yielded iteration learning
 -
 
 ## Key Sources
-- Johnson, A. M., & Lenderman, K. (2023). Socratic Circles: Building OER Tools for Racial Equity Classroom and Community Discourse. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.org/inclusive-innovation
+- Johnson, A. M., & Lenderman, K. (2023). Socratic Circles: Building OER Tools for Racial Equity Classroom and Community Discourse. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.org/inclusive-innovation. [doi:10.51388/20.500.12265/200](https://doi.org/10.51388/20.500.12265/200)

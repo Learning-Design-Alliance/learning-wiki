@@ -3,7 +3,7 @@ type: strategy
 id: jtpa-nine-step-self-monitoring-process
 title: Nine-step self-monitoring review process for local job-training program compliance
 description: "The guide recommends a sequenced procedure for districts reviewing their own JTPA programs: \"The following steps are recommended for conducting self-monitoring reviews\", beginning with consulting district administrato..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

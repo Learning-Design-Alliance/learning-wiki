@@ -3,7 +3,7 @@ type: claim
 title: Higher post-task trust in an AI assistant predicts lower appropriate reliance during AI-assisted programming problem-solving
 description: Higher post-task trust in an AI assistant predicts lower appropriate reliance during AI-assisted programming problem-solving
 id: higher-trust-lower-appropriate-reliance-ai-assistant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

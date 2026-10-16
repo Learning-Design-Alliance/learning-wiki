@@ -3,7 +3,7 @@ type: strategy
 id: staged-problem-solving-reflections-llm-use
 title: Use staged problem-solving reflection assignments to build metacognition around LLM use and surface student help-seeking perspectives
 description: Add reflection assignments at multiple points in the semester in which students describe their problem-solving and help-seeking process in their own words, including whether and how they used LLMs.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

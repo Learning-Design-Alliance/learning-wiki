@@ -3,7 +3,7 @@ type: strategy
 id: grade-prediction-early-alert-integration
 title: Integrate background grade-prediction models into early alert advising systems
 description: The author proposes running a model like TRACE continuously as student grade data updates each semester and integrating its predictions into advising, moving beyond simple risk-flagging toward insights into how course...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "Domain-driven explanations significantly increase teachers' understandability, trust, and acceptance compared to data-driven explanations"
 description: "Domain-driven explanations significantly increase teachers' understandability, trust, and acceptance compared to data-driven explanations"
 id: domain-driven-explanations-increase-understandability-trust-acceptance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

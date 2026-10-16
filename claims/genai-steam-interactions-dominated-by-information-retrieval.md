@@ -3,7 +3,7 @@ type: claim
 title: Middle school students in GenAI-supported STEAM modules predominantly interact for STEAM knowledge/information retrieval, with minimal evaluation and reflection interactions
 description: Middle school students in GenAI-supported STEAM modules predominantly interact for STEAM knowledge/information retrieval, with minimal evaluation and reflection interactions
 id: genai-steam-interactions-dominated-by-information-retrieval
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

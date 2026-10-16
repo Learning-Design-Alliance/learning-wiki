@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25
@@ -143,3 +143,5 @@ Meta-analysis of 41 studies on parental involvement and academic achievement in 
 - ParentCorps improves parent involvement in early learning by teacher report but shows a smaller, non-significant effect by parent report — related
 - [Meta-analyses find parental involvement associated with better student outcomes, effect sizes 0.2 to 0.75 standard deviations](parental-involvement-meta-analyses-effect-sizes.md) — related
 - Redwood City family engagement participation linked to larger math gains, better attendance, and stronger sense of care — related
+- [The parental involvement–achievement relationship is stronger for global achievement indicators (e.g., GPA) than for subject-specific indicators (e.g., math grade)](involvement-stronger-with-global-achievement-indicators.md) — a narrower finding that bears on this claim
+- [Parental involvement has a small to moderate, practically meaningful relationship with students' academic achievement](parental-involvement-small-to-moderate-achievement-relationship.md) — a broader claim this one bears on

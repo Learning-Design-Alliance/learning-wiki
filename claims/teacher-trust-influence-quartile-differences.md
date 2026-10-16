@@ -3,7 +3,7 @@ type: claim
 title: Teacher-reported trust and influence vary sharply between top- and bottom-quartile schools on leadership measures
 description: Teacher-reported trust and influence vary sharply between top- and bottom-quartile schools on leadership measures
 id: teacher-trust-influence-quartile-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

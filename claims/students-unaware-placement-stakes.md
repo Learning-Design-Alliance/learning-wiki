@@ -3,7 +3,7 @@ type: claim
 title: Most incoming students do not understand that placement test performance determines which classes they can take
 description: Most incoming students do not understand that placement test performance determines which classes they can take
 id: students-unaware-placement-stakes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Few SIG schools with high ELL enrollments used staffing strategies to build teacher capacity for serving ELLs
 description: Few SIG schools with high ELL enrollments used staffing strategies to build teacher capacity for serving ELLs
 id: few-sig-schools-staffing-strategies-ell-teacher-capacity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

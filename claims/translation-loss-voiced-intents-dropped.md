@@ -3,7 +3,7 @@ type: claim
 title: "A substantial share of builders' voiced design intentions never reaches the typed prompt, leaving design choices to the production stack's defaults"
 description: "A substantial share of builders' voiced design intentions never reaches the typed prompt, leaving design choices to the production stack's defaults"
 id: translation-loss-voiced-intents-dropped
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

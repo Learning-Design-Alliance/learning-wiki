@@ -3,7 +3,7 @@ type: claim
 title: "Teacher-practices subgroup differences were essentially null: none were statistically significant for the second cohort, and five of 60 were significant in the follow-up year."
 description: "Teacher-practices subgroup differences were essentially null: none were statistically significant for the second cohort, and five of 60 were significant in the follow-up year."
 id: teacher-practices-subgroup-differences-mostly-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

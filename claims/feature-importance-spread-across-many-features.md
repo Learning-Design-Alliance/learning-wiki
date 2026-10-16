@@ -3,7 +3,7 @@ type: claim
 title: Feature-based model predictive power derives from a large and varied set of features rather than a few dominant variables
 description: Feature-based model predictive power derives from a large and varied set of features rather than a few dominant variables
 id: feature-importance-spread-across-many-features
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

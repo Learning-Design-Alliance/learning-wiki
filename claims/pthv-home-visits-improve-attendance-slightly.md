@@ -4,7 +4,7 @@ title: Teacher home visits slightly improved student attendance in the following
 description: Teacher home visits slightly improved student attendance in the following school year (ES = +0.02)
 id: pthv-home-visits-improve-attendance-slightly
 aliases: [pthv-home-visit-improves-attendance-es-002, home-visit-slightly-improves-attendance-dcps]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

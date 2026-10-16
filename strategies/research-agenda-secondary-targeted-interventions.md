@@ -3,7 +3,7 @@ type: strategy
 id: research-agenda-secondary-targeted-interventions
 title: "Research agenda: study long-run effects, non-English-speaking countries, and maths-targeted interventions, and improve control-group reporting and sample sizes"
 description: "The review's authors recommend several improvements to the evidence base: more research on long-run effects, since only seven studies tested effects beyond three months; more research from non-English-speaking countri..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

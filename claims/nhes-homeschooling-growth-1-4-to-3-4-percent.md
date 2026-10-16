@@ -3,7 +3,7 @@ type: claim
 title: "NHES-based estimates of homeschooling grew from 1.4% of U.S. schoolchildren in 1996 to 3.4% (about 1,773,000 children) in 2012"
 description: "NHES-based estimates of homeschooling grew from 1.4% of U.S."
 id: nhes-homeschooling-growth-1-4-to-3-4-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

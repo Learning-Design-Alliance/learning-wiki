@@ -4,7 +4,7 @@ id: myheggerty
 title: myHeggerty
 description: "myHeggerty is Heggerty's digital platform providing optional resources for teachers' planning, professional learning, and classroom instruction."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

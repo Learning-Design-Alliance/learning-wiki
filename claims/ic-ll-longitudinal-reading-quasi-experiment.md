@@ -3,7 +3,7 @@ type: claim
 title: In a five-year quasi-experimental study, the intervention program showed a statistically significant positive effect on fifth-grade reading performance assessment but not on the CTBS Reading subtest
 description: In a five-year quasi-experimental study, the intervention program showed a statistically significant positive effect on fifth-grade reading performance assessment but not on the CTBS Reading subtest
 id: ic-ll-longitudinal-reading-quasi-experiment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

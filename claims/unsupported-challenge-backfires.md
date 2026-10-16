@@ -3,7 +3,7 @@ type: claim
 title: "Introducing more challenging work without sufficient supports or attention to students' emotions and learning strategies can lead to frustration, withdrawal, disruption, and less learning"
 description: "Introducing more challenging work without sufficient supports or attention to students' emotions and learning strategies can lead to frustration, withdrawal, disruption, and less learning"
 id: unsupported-challenge-backfires
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

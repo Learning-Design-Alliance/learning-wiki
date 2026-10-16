@@ -3,7 +3,7 @@ type: research-method
 id: five-part-scope-framework-for-post-exercise-automated-team-assessment-in-ttxs
 title: Five-part scope framework for post-exercise automated team assessment in TTXs
 description: "The article defines its assessment scope through five grounded characteristics: assessment targets teams rather than individuals, since a team is the fundamental unit and succeeds only when members collectively resolve tasks; it is summative, using milestones as predefined checkpoints that serve as "
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

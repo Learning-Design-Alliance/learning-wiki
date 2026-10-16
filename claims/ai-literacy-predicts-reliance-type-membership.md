@@ -3,7 +3,7 @@ type: claim
 title: "AI literacy is the strongest predictor of reliance type: each unit increase in AI literacy is associated with roughly a tenfold reduction in the odds of Dependent versus Strategic classification"
 description: "AI literacy is the strongest predictor of reliance type: each unit increase in AI literacy is associated with roughly a tenfold reduction in the odds of Dependent versus Strategic classification"
 id: ai-literacy-predicts-reliance-type-membership
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

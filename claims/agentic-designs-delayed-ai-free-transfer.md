@@ -3,7 +3,7 @@ type: claim
 title: Reflective and hybrid feedback outperform direct GenAI feedback on delayed AI-free transfer
 description: Reflective and hybrid feedback outperform direct GenAI feedback on delayed AI-free transfer
 id: agentic-designs-delayed-ai-free-transfer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

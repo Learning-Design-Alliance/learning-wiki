@@ -3,7 +3,7 @@ type: claim
 title: Feedback on a multiple-choice test sharply reduces lure intrusions on a later cued recall test, with immediate and delayed schedules equally effective
 description: Feedback on a multiple-choice test sharply reduces lure intrusions on a later cued recall test, with immediate and delayed schedules equally effective
 id: feedback-reduces-lure-intrusions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

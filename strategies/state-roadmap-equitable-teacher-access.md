@@ -3,7 +3,7 @@ type: strategy
 id: state-roadmap-equitable-teacher-access
 title: "Five-step state roadmap for equitable access to experienced teachers: examine data, diagnose root causes, set goals, implement data-based policies, and monitor with transparency"
 description: "The report proposes a five-step roadmap for state and district leaders: establish data systems and examine disparities; determine whether disparities are within- or between-district and engage teachers on root causes;..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

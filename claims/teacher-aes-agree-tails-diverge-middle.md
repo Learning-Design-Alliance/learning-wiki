@@ -3,7 +3,7 @@ type: claim
 title: Teacher and AES scores agreed most at the lowest and highest rubric points but diverged in the middle, with teachers more likely to score a 2 and the AES a 3
 description: Teacher and AES scores agreed most at the lowest and highest rubric points but diverged in the middle, with teachers more likely to score a 2 and the AES a 3
 id: teacher-aes-agree-tails-diverge-middle
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Intermediate mechanics students start the semester more familiar with the integration constants (+C) method than with the limits method, and the +C method remains preferred by at least one student even after instruction modeling the limits method
 description: Intermediate mechanics students start the semester more familiar with the integration constants (+C) method than with the limits method, and the +C method remains preferred by at least one student even after instructi...
 id: students-start-semester-more-familiar-with-integration-constants-method-than-limits-method
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

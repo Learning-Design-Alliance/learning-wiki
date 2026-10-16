@@ -3,7 +3,7 @@ type: claim
 title: The active-learning advantage is robust to publication bias and to variation in methodological rigor of the included studies
 description: The active-learning advantage is robust to publication bias and to variation in methodological rigor of the included studies
 id: active-learning-effect-robust-bias-and-rigor
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

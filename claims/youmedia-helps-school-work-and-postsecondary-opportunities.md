@@ -3,7 +3,7 @@ type: claim
 title: Majorities of teens report YOUmedia helped with school work and understanding post-high-school opportunities
 description: Majorities of teens report YOUmedia helped with school work and understanding post-high-school opportunities
 id: youmedia-helps-school-work-and-postsecondary-opportunities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

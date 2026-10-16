@@ -3,7 +3,7 @@ type: strategy
 id: empathy-interviews-and-shadowing
 title: Empathy interviews and student shadowing to build youth-adult understanding
 description: Long Beach Unified adopted empathy-building practices as a core area of RCS work to cultivate stronger relationships and foreground youth experiences.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

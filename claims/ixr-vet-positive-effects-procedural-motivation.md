@@ -3,7 +3,7 @@ type: claim
 title: Intelligent Extended Reality interventions in VET show consistent positive effects on procedural competence, practical skills, and learner motivation
 description: Intelligent Extended Reality interventions in VET show consistent positive effects on procedural competence, practical skills, and learner motivation
 id: ixr-vet-positive-effects-procedural-motivation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

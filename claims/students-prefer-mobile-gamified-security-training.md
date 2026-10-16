@@ -3,7 +3,7 @@ type: claim
 title: College students overwhelmingly prefer short, mobile-friendly gamified security training over long desktop training or videos
 description: College students overwhelmingly prefer short, mobile-friendly gamified security training over long desktop training or videos
 id: students-prefer-mobile-gamified-security-training
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

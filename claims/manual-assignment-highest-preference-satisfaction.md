@@ -3,7 +3,7 @@ type: claim
 title: Manual assignment achieved the highest average student preference toward assigned projects, with the algorithm competitive and both substantially above random assignment
 description: Manual assignment achieved the highest average student preference toward assigned projects, with the algorithm competitive and both substantially above random assignment
 id: manual-assignment-highest-preference-satisfaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

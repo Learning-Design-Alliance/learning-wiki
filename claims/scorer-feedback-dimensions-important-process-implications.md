@@ -3,7 +3,7 @@ type: claim
 title: Scorers found all rubric dimensions important, with feedback bearing mainly on the scoring and training process rather than rubric design
 description: Scorers found all rubric dimensions important, with feedback bearing mainly on the scoring and training process rather than rubric design
 id: scorer-feedback-dimensions-important-process-implications
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

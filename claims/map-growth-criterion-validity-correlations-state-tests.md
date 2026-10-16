@@ -3,7 +3,7 @@ type: claim
 title: MAP Growth state-test correlations exceed 0.8 for most Grade 3-8 concurrent indices, with mathematics correlations higher than reading
 description: MAP Growth state-test correlations exceed 0.8 for most Grade 3-8 concurrent indices, with mathematics correlations higher than reading
 id: map-growth-criterion-validity-correlations-state-tests
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

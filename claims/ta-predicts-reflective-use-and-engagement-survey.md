@@ -3,7 +3,7 @@ type: claim
 title: Technology acceptance directly predicts reflective AI use and learning engagement in AI-supported programming (survey SEM, N=131)
 description: Technology acceptance directly predicts reflective AI use and learning engagement in AI-supported programming (survey SEM, N=131)
 id: ta-predicts-reflective-use-and-engagement-survey
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

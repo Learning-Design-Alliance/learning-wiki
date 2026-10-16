@@ -2,7 +2,7 @@
 type: theory
 title: Meta-UTAUT model of technology acceptance applied to MALL in EFL learning
 description: Meta-UTAUT, proposed by Dwivedi et al.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

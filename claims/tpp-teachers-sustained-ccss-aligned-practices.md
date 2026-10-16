@@ -3,7 +3,7 @@ type: claim
 title: A significantly greater proportion of TPP teachers demonstrated and sustained CCSS-aligned instructional practices compared with district-supported teachers
 description: A significantly greater proportion of TPP teachers demonstrated and sustained CCSS-aligned instructional practices compared with district-supported teachers
 id: tpp-teachers-sustained-ccss-aligned-practices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

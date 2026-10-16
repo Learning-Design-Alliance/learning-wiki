@@ -3,7 +3,7 @@ type: claim
 title: Few models exist for estimating growth in the presence of multiple raters despite growing multi-rater longitudinal data
 description: Few models exist for estimating growth in the presence of multiple raters despite growing multi-rater longitudinal data
 id: few-models-for-growth-with-multiple-raters
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

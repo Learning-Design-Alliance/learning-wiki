@@ -3,7 +3,7 @@ type: claim
 title: DaisyQuest has positive effects on phonological processing in preschool children, with a domain-average effect size of 0.68 across two randomized controlled trials
 description: DaisyQuest has positive effects on phonological processing in preschool children, with a domain-average effect size of 0.68 across two randomized controlled trials
 id: daisyquest-positive-effects-phonological-processing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

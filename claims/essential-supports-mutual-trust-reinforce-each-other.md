@@ -3,7 +3,7 @@ type: claim
 title: The five essential supports reinforce each other and depend on a school environment infused with mutual trust
 description: The five essential supports reinforce each other and depend on a school environment infused with mutual trust
 id: essential-supports-mutual-trust-reinforce-each-other
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

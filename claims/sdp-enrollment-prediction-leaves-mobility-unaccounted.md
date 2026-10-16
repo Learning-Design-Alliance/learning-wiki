@@ -3,7 +3,7 @@ type: claim
 title: Even under the best prediction approach, students and teachers in 22 percent of incoming grade levels within SDP schools might have to be reassigned because of unexpected student mobility and maximum class size rules
 description: Even under the best prediction approach, students and teachers in 22 percent of incoming grade levels within SDP schools might have to be reassigned because of unexpected student mobility and maximum class size rules
 id: sdp-enrollment-prediction-leaves-mobility-unaccounted
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

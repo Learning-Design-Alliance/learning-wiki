@@ -3,7 +3,7 @@ type: claim
 title: "Expert former math teachers rated GPT-4o's dialogue annotations very highly for student correctness and moderate-to-high for knowledge components, with volatile inter-rater reliability."
 description: "Expert former math teachers rated GPT-4o's dialogue annotations very highly for student correctness and moderate-to-high for knowledge components, with volatile inter-rater reliability."
 id: expert-teachers-rate-gpt-4o-dialogue-annotations-as-largely-accurate
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

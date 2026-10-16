@@ -4,7 +4,7 @@ id: first-of-its-kind-real-world-dataset-of-student-dialogues-and-question-respo
 title: First-of-its-kind real-world dataset of student dialogues and question responses from a math learning platform
 description: A Duan et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

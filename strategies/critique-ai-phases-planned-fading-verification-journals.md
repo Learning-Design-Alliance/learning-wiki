@@ -3,7 +3,7 @@ type: strategy
 id: critique-ai-phases-planned-fading-verification-journals
 title: Design AI-supported programming courses with critique-the-AI phases, planned fading, and verification journals
 description: "The article's forward-looking design recommendations channel generative-AI use toward scaffolding rather than offloading."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

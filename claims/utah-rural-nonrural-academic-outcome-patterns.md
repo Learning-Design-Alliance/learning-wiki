@@ -3,7 +3,7 @@ type: claim
 title: From 2012 to 2017, non-rural Utah districts had higher proficiency in English language arts and science and more graduates scoring 18+ on the ACT, while rural districts had higher four-year graduation rates
 description: From 2012 to 2017, non-rural Utah districts had higher proficiency in English language arts and science and more graduates scoring 18+ on the ACT, while rural districts had higher four-year graduation rates
 id: utah-rural-nonrural-academic-outcome-patterns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

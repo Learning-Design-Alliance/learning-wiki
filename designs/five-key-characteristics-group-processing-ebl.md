@@ -3,7 +3,7 @@ type: design
 id: five-key-characteristics-group-processing-ebl
 title: Five key characteristics of rigorous regular group processing in enquiry-based learning seminars
 description: "The article specifies five key characteristics that defined group processing in the studied seminars: non-hierarchical group dynamics with equal voice, ongoing per-session feedback to every member, a consistent durati..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

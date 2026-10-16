@@ -3,7 +3,7 @@ type: claim
 title: Dual enrollment participation is associated with an approximately 8.5 percentage point increase in college enrollment probability, with larger gains for students from low-income and first-generation backgrounds
 description: Dual enrollment participation is associated with an approximately 8.5 percentage point increase in college enrollment probability, with larger gains for students from low-income and first-generation backgrounds
 id: dual-enrollment-participation-8-5-point-college-enrollment-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

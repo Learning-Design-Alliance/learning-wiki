@@ -3,7 +3,7 @@ type: claim
 title: TFA teachers have positive effects on mathematics achievement for students in grades pre-K-12, based on six studies
 description: TFA teachers have positive effects on mathematics achievement for students in grades pre-K-12, based on six studies
 id: tfa-positive-mathematics-achievement-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: SVM-based regressors outperformed other regressors in the ETF price-delta forecasting benchmark
 description: SVM-based regressors outperformed other regressors in the ETF price-delta forecasting benchmark
 id: svm-regressors-outperformed-other-regressors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

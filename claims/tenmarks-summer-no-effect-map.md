@@ -3,7 +3,7 @@ type: claim
 title: A matched-comparison analysis found no effect of the TenMarks summer program on NWEA MAP math scores
 description: A matched-comparison analysis found no effect of the TenMarks summer program on NWEA MAP math scores
 id: tenmarks-summer-no-effect-map
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -4,7 +4,7 @@ id: question-pot
 title: Question Pot
 description: Question Pot is a custom generative-AI chatbot agent built and deployed by Dai et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

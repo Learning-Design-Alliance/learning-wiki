@@ -3,7 +3,7 @@ type: theory
 title: "Skill acquisition theory in second language learning"
 description: "DeKeyser's application of cognitive skill-learning theory to second languages: explicit declarative knowledge is proceduralized through practice and then, with much more practice, partly automatized, so that L2 use becomes fast, accurate and low in effort."
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-30
@@ -60,7 +60,7 @@ The articles do not agree. VanPatten (eric-ej912912) argues that applying skill 
 - [AI-powered corrective feedback and repeated practice enhance oral language skills (Communicative Capacity Pathway)](../claims/ai-improves-speaking-proficiency-feedback-practice.md) [~W]
 - [High-explicitness rule-oriented instruction outperforms implicit instruction or no instruction](../claims/rule-oriented-explicit-outperforms-implicit.md) [+W]
 - [Automatized L2 morphosyntactic skills develop very gradually over time, following a power function learning curve like other cognitive skills](../claims/l2-skill-development-power-function-curve.md) [+W] — attached 2026-10-15 from Robert M. DeKeyser (1997), which proposed "Skill acquisition theory accounts for L2 morphosyntactic automatization"; tests this page's relationship.
-- [Learning of second language morphosyntactic rules is highly skill-specific: comprehension practice yields comprehension skill and production practice yields production skill](../claims/l2-morphosyntax-learning-highly-skill-specific.md) [+W] — attached 2026-10-15 from Robert M. DeKeyser (1997), which proposed "Skill acquisition theory accounts for L2 morphosyntactic automatization".
+- [Learning of second language morphosyntactic rules is highly skill-specific: comprehension practice yields comprehension skill and production practice yields production skill](../claims/skill-specificity-l2-grammar-practice.md) [+W] — attached 2026-10-15 from Robert M. DeKeyser (1997), which proposed "Skill acquisition theory accounts for L2 morphosyntactic automatization".
 
 ## Related Theories
 

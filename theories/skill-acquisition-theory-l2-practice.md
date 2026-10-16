@@ -2,7 +2,7 @@
 type: theory
 title: "Skill acquisition theory applied to second language learning: declarative knowledge first, then proceduralization and partial automatization"
 description: "The article's central explanatory framework is skill acquisition theory, which it describes as stressing \"the role of declar ative knowledge in the development of procedural and eventually la rgely automatized knowled..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

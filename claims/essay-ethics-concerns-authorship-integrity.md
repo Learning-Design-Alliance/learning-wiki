@@ -3,7 +3,7 @@ type: claim
 title: When students raised ethics in essays, concerns concerned authorship and integrity rather than privacy or data
 description: When students raised ethics in essays, concerns concerned authorship and integrity rather than privacy or data
 id: essay-ethics-concerns-authorship-integrity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

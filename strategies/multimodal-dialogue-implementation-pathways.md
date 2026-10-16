@@ -3,7 +3,7 @@ type: strategy
 id: multimodal-dialogue-implementation-pathways
 title: "Implementation pathways: educators teach prompting literacy, students describe visuals before asking for solutions, and platforms default to structured dialogue for image-containing problems"
 description: "The article's discussion lays out three stakeholder-specific pathways for applying the intervention."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

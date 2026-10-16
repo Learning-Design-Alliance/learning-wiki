@@ -3,7 +3,7 @@ type: claim
 title: Training seventh graders to elaborate produced better long-term recall than questions stimulating elaboration, and the training transferred to new passages
 description: Training seventh graders to elaborate produced better long-term recall than questions stimulating elaboration, and the training transferred to new passages
 id: trained-elaboration-beats-question-stimulated-elaboration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

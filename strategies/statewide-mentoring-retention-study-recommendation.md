@@ -3,7 +3,7 @@ type: strategy
 id: statewide-mentoring-retention-study-recommendation
 title: Conduct a larger-scale, statewide study of mentoring features and retention to detect small or moderate relationships
 description: "The report recommends scaling up evidence generation: \"A larger-scale study, such as one that includes all first-year teachers in the state, could more reliably identify small or moderate relationships between mentori..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

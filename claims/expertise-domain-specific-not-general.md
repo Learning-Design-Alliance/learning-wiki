@@ -3,7 +3,7 @@ type: claim
 title: Evidence that domain-general perceptual-cognitive skills distinguish athletes is mixed; expertise appears domain-specific
 description: Evidence that domain-general perceptual-cognitive skills distinguish athletes is mixed; expertise appears domain-specific
 id: expertise-domain-specific-not-general
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

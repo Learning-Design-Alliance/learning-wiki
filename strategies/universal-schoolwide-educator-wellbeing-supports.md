@@ -3,7 +3,7 @@ type: strategy
 id: universal-schoolwide-educator-wellbeing-supports
 title: Provide universal schoolwide supports for educator wellbeing through peer-to-peer structures, leader actions, and shared community norms
 description: The brief recommends schoolwide policies, practices, and programs that make educator wellbeing a core organizational value with collective responsibility.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Co-designed alumni surveys move districts from hunches about alumni experiences to concrete empirical evidence validating programs or pinpointing preparation gaps
 description: Co-designed alumni surveys move districts from hunches about alumni experiences to concrete empirical evidence validating programs or pinpointing preparation gaps
 id: co-designed-alumni-surveys-hunches-to-evidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

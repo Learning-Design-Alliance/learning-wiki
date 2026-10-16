@@ -4,7 +4,7 @@ id: m-plans-reference-toolkit-and-classroom-based-quick-tools
 title: M-PLANS reference toolkit and classroom-based quick tools
 description: M-PLANS is a teacher-facing framework and toolkit that provides motivation-principle look-fors, planning questions, aligned activities, talk moves, and just-in-time classroom supports for middle-school science instruction.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

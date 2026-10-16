@@ -3,7 +3,7 @@ type: claim
 title: General-purpose LLMs show accuracy and reliability limits, including hallucinations and task-specific accuracy below perfect, making them risky as expert advice sources
 description: General-purpose LLMs show accuracy and reliability limits, including hallucinations and task-specific accuracy below perfect, making them risky as expert advice sources
 id: llm-accuracy-hallucination-coaching-risk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

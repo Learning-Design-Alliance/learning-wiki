@@ -3,7 +3,7 @@ type: claim
 title: Registered apprenticeship programs had large, statistically significant positive impacts on employment in the ninth quarter following enrollment relative to both community college students and Wagner-Peyser participants
 description: Registered apprenticeship programs had large, statistically significant positive impacts on employment in the ninth quarter following enrollment relative to both community college students and Wagner-Peyser participants
 id: registered-apprenticeship-ninth-quarter-employment-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Many educators misunderstood the performance measures and the pay-for-performance bonuses under TIF
 description: Many educators misunderstood the performance measures and the pay-for-performance bonuses under TIF
 id: tif-educators-misunderstood-measures-and-bonuses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

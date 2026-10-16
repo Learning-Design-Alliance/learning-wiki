@@ -3,7 +3,7 @@ type: strategy
 id: hybrid-unit-template-customization-approach
 title: Provide teachers with exemplar NGSS-aligned CBL units and templates to customize rather than requiring design from scratch
 description: The report recommends a hybrid approach in which teachers have examples of well-designed units and unit templates but engage in customizing the templates for their own students and curriculum.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -45,4 +45,4 @@ The report recommends a hybrid approach in which teachers have examples of well-
 -
 
 ## Key Sources
-- Iwatani, E., Means, B., Romero, M. R., & Vang, M. C. (2020). Deepening Science Engagement with Challenge Based Learning: Research Report. San Mateo, CA: Digital Promise. https://digitalpromise.dspacedirect.org/items/f928a607-e645-49d6-abbf-3d9b42cf7383
+- Iwatani, E., Means, B., Romero, M. R., & Vang, M. C. (2020). Deepening Science Engagement with Challenge Based Learning: Research Report. San Mateo, CA: Digital Promise. https://digitalpromise.dspacedirect.org/items/f928a607-e645-49d6-abbf-3d9b42cf7383. [doi:10.51388/20.500.12265/93](https://doi.org/10.51388/20.500.12265/93)

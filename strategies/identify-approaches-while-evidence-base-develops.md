@@ -3,7 +3,7 @@ type: strategy
 id: identify-approaches-while-evidence-base-develops
 title: Use a systematic approach to identify dropout-prevention approaches for program developers while the scientific basis for new programs is still being built
 description: The chapter proposes that program developers should not wait for a complete evidence base before acting.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

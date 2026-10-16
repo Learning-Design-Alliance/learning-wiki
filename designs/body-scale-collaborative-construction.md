@@ -3,7 +3,7 @@ type: design
 id: body-scale-collaborative-construction
 title: Body-Scale Collaborative Geometric Construction
 description: A group activity in which learners physically build a large geometric structure from manipulatives using only a target image and a list of properties (no assembly instructions), forcing iterative discovery and naming of structural constraints.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

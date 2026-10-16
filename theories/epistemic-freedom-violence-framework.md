@@ -2,7 +2,7 @@
 type: theory
 title: Epistemic freedom and epistemic violence as opposing education-related epistemic constructs
 description: The article organizes its inquiry around two opposing epistemic constructs operating in education and communication.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

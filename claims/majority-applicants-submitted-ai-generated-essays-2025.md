@@ -3,7 +3,7 @@ type: claim
 title: "By the 2025 admissions cycle, a majority of applicants to the studied public policy master's program submitted at least one primarily AI-generated essay despite an explicit prohibition"
 description: "By the 2025 admissions cycle, a majority of applicants to the studied public policy master's program submitted at least one primarily AI-generated essay despite an explicit prohibition"
 id: majority-applicants-submitted-ai-generated-essays-2025
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

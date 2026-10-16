@@ -4,7 +4,7 @@ id: career-connected-learning-ccl-framework
 title: Career-connected learning (CCL) framework
 description: A Chicago Public Schools framework that coordinates college-preparatory and career-readiness activities across grades 6–12 through strengthened CTE and districtwide planning.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

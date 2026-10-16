@@ -66,7 +66,7 @@ The strategy combines two well-supported mechanisms: repeated and modeled oral r
 ## Examples
 - **PALS Reading (Vanderbilt University)** — the source program, classwide and validated across Grades K–6: https://iris.peabody.vanderbilt.edu/modules/pals/
 - **Peer-Assisted Literacy Strategies in Title I schools** — Fuchs et al.'s field trials showed effects on fluency and comprehension across achievement strata
-- **Reading Partners (US nonprofit tutoring program)** — community volunteers use a structured partner-read-and-summarize protocol with struggling readers: https://readingpartners.org
+- **[Reading Partners](../products/reading-partners.md) (US nonprofit tutoring program)** — community volunteers use a structured partner-read-and-summarize protocol with struggling readers: https://readingpartners.org
 
 ## Key Sources
 - Fuchs, D., Fuchs, L. S., Mathes, P. G., & Simmons, D. C. (1997). Peer-assisted learning strategies: Making classrooms more responsive to diversity. *American Educational Research Journal, 34*(1), 174–206. [doi:10.3102/00028312034001174](https://doi.org/10.3102/00028312034001174)

@@ -3,7 +3,7 @@ type: claim
 title: Meta-analytic evidence reviewed reports medium-to-large positive effects of AI-enabled adaptive learning on cognitive outcomes (g = 0.50–0.70)
 description: Meta-analytic evidence reviewed reports medium-to-large positive effects of AI-enabled adaptive learning on cognitive outcomes (g = 0.50–0.70)
 id: ai-adaptive-learning-medium-large-effects-reviewed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

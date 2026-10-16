@@ -3,7 +3,7 @@ type: design
 id: skin-lesion-group-annotation-activity
 title: Two-part skin lesion annotation activity (individual dataset exploration plus group annotation on a 3-point scale) implemented at Fontys and ITU Copenhagen
 description: "An educational activity integrated into two existing courses: Data Mining (5 ECTS, Fontys) and Projects in Data Science (7.5 ECTS, ITU)."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

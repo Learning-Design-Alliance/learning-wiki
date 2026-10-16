@@ -3,7 +3,7 @@ type: claim
 title: Adaptive versus non-adaptive ITS condition showed no significant differences in mental effort, subjective difficulty, or enjoyment
 description: Adaptive versus non-adaptive ITS condition showed no significant differences in mental effort, subjective difficulty, or enjoyment
 id: adaptive-its-no-difference-cognitive-load-enjoyment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: strategy
 id: video-guided-coaching-real-time-behavior-observation
 title: Use fine-grained observation of real-time teacher and student behavior in video-guided coaching to analyze interactional fit
 description: "The article's practical implication is a general suggestion for teacher education and in-service professional development, especially when video-guided coaching is used."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -47,4 +47,4 @@ The article's practical implication is a general suggestion for teacher educatio
 -
 
 ## Key Sources
-- Pennings, H. J. M. (2017). Using a Complexity Approach to Study the Interpersonal Dynamics in Teacher-Student Interactions: A Case Study of Two Teachers. Complicity: An International Journal of Complexity and Education, 14(2). https://complicityjournal.org
+- Pennings, H. J. M. (2017). Using a Complexity Approach to Study the Interpersonal Dynamics in Teacher-Student Interactions: A Case Study of Two Teachers. Complicity: An International Journal of Complexity and Education, 14(2). https://complicityjournal.org. [doi:10.29173/cmplct29338](https://doi.org/10.29173/cmplct29338)

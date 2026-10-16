@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Teacher expectation bias predicted Dutch secondary students' performance up to five years later, after controls for prior achievement, IQ and motivation, in one large correlational cohort study"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

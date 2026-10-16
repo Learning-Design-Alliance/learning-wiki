@@ -3,7 +3,7 @@ type: claim
 title: Majorities of surveyed teachers and coaches reported the program enhanced career advancement and leadership opportunities
 description: Majorities of surveyed teachers and coaches reported the program enhanced career advancement and leadership opportunities
 id: vils-career-advancement-survey-majorities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Segmentation reduces errors and hesitations for participants with and without ADHD, with larger point estimates for the ADHD group but no significant segmentation-by-ADHD interaction"
 description: "Segmentation reduces errors and hesitations for participants with and without ADHD, with larger point estimates for the ADHD group but no significant segmentation-by-ADHD interaction"
 id: segmentation-benefit-larger-for-adhd-group
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

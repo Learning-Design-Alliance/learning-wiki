@@ -3,7 +3,7 @@ type: claim
 title: Declarative memory predicts immediate UGJT posttest gains for irregular past tense only under recasts
 description: Declarative memory predicts immediate UGJT posttest gains for irregular past tense only under recasts
 id: declarative-memory-predicts-irregular-past-ugjt-recasts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28
@@ -47,3 +47,4 @@ Multiple regression analyses for the irregular past tense UGJT across the same t
 - [Procedural memory shows no association with irregular past tense learning under any CF type](procedural-memory-null-irregular-past-tense.md) — related
 - [Pretest scores significantly predict posttest scores across CF types and outcome measures](pretest-scores-predict-posttest-scores.md) — related
 - [The literature is supportive of recasts, but recast effectiveness varies with the language area and learner knowledge, focus, and aptitudes](recasts-supported-but-effectiveness-varies.md) — a broader claim this one bears on
+- [No group differences on immediate posttests for either feedback type on either measure](no-immediate-posttest-feedback-group-differences.md) — related

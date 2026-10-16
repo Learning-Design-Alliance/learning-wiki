@@ -3,7 +3,7 @@ type: claim
 title: "A statewide cohort analysis found 8% of new Texas teachers left after year 1, 26% by year 5, and 46% by year 8"
 description: "A statewide cohort analysis found 8% of new Texas teachers left after year 1, 26% by year 5, and 46% by year 8"
 id: texas-early-career-attrition-cohort-analysis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

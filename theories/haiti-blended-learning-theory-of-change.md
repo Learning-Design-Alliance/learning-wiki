@@ -2,7 +2,7 @@
 type: theory
 title: "Theory of change: blended learning combining technology, pedagogy, and content knowledge to support student self-direction and improved outcomes"
 description: "The project's theory of change, illustrated with a TPACK image (\"image ©2012 by tpack.org\"), rests on three objectives: build teacher capabilities to create blended learning cultures, increase culturally relevant stan..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: contextualized-resource-intensive-federal-improvement-support
 title: Provide highly contextualized and resource-intensive federal support for school improvement
 description: "The article recommends that federally supported school improvement will require \"highly contextualized and resource intensive support\" given the finding that there is no single effective approach."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: micro-credentials-in-professional-growth-plans
 title: Count approved micro-credentials toward professional growth plan contact units for salary advancement
 description: "The report's third strategy features micro-credentials within districts' professional growth plans tied to salary advancement."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

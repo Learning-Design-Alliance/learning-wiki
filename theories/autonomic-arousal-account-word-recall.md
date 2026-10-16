@@ -2,7 +2,7 @@
 type: theory
 title: Autonomic (rather than cortical) arousal account of the word-arousal memory effect
 description: The article proposes that the emotionally engendered by words affects retention through autonomic rather than cortical arousal.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

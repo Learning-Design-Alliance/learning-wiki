@@ -3,7 +3,7 @@ type: claim
 title: Stabilization reduced overrepresentation of 10-to-19-student groups in the extremes of score distributions for every test-based indicator, with growth indicators becoming underrepresented
 description: Stabilization reduced overrepresentation of 10-to-19-student groups in the extremes of score distributions for every test-based indicator, with growth indicators becoming underrepresented
 id: stabilization-reduces-small-group-extreme-overrepresentation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ id: digital-equity-framework
 title: Digital Equity Framework
 description: A framework developed by Judi Fusco and colleagues for guiding equitable access to, use of, and design with digital technologies in education.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -90,13 +90,14 @@ Revision cycles operationalize [Assessment for Learning](../principles/assessmen
 - [Equity-leveling admissions interview with lesson delivery, feedback, and revision](feedback-revision-admissions-interview.md)
 - [Implement AI-peer integrated feedback as a standardized two-phase revision cycle with rubric-aligned prompting and instructor monitoring](ai-peer-integrated-feedback-cycle-strategy.md)
 - [Implement an AI-Peer-Teacher hybrid integrated feedback model staged across drafting, revision, and polishing phases](ai-peer-teacher-hybrid-feedback-model.md)
+- [Provide timely automated feedback through an AI chatbot during EFL writing practice](ai-chatbot-feedback-writing-courses.md)
 
 ## Examples
-- **Calibrated Peer Review (https://calibratedpeerreview.org)** — learners first calibrate their reviewing skill against instructor-graded sample essays, then review peers' drafts and revise their own based on received comments.
+- **[Calibrated Peer Review](calibrated_peer_review.md) (https://calibratedpeerreview.org)** — learners first calibrate their reviewing skill against instructor-graded sample essays, then review peers' drafts and revise their own based on received comments.
 - **Writing-across-the-curriculum draft–feedback–revision sequences** — typical composition courses require a graded proposal, a commented draft, and a final revision, with the grade weighted toward the revision delta.
 - **Studio critique in art and design education** — public critique of work-in-progress followed by a revision presented at the next session; the cycle is the core pedagogy of the studio model.
 - **Agile code review in programming courses** — pull-request feedback on student code followed by required commits addressing reviewer comments before merge.
-- **Calibrated Peer Review (https://cpr.molsci.ucla.edu)** — discipline-based assignments where students first calibrate their reviewing skill on sample texts, then peer-review and revise in structured cycles.
+- **[Calibrated Peer Review](calibrated_peer_review.md) (https://cpr.molsci.ucla.edu)** — discipline-based assignments where students first calibrate their reviewing skill on sample texts, then peer-review and revise in structured cycles.
 - **Writing-across-the-curriculum "draft → peer review → revision" sequences** — standard in composition courses (e.g., first-year composition curricula), where the revision memo makes the learning from the cycle visible.
 - **Revision Assistant (Turnitin)** — automated formative feedback on student drafts during writing, enabling multiple revision passes before teacher evaluation.
 

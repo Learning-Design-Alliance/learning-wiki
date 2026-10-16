@@ -3,7 +3,7 @@ type: claim
 title: Attendance at Math Corps was strong at all three replication sites
 description: Attendance at Math Corps was strong at all three replication sites
 id: math-corps-strong-attendance-replication-sites
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

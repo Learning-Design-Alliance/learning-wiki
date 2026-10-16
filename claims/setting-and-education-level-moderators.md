@@ -3,7 +3,7 @@ type: claim
 title: Testing effects hold in classrooms (g = 0.67) as in laboratories (g = 0.62), and are largest for secondary students (g = 0.83)
 description: Testing effects hold in classrooms (g = 0.67) as in laboratories (g = 0.62), and are largest for secondary students (g = 0.83)
 id: setting-and-education-level-moderators
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

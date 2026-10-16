@@ -3,7 +3,7 @@ type: claim
 title: The principal professional development program did not improve student achievement in English language arts or math
 description: The principal professional development program did not improve student achievement in English language arts or math
 id: principal-pd-no-student-achievement-improvement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

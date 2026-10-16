@@ -3,7 +3,7 @@ type: design
 id: open-ended-standard-defining-magnetopause-lab
 title: Open-ended data-interpretation task in which students define their own standards for locating a boundary in simulation results
 description: In this lab pattern, students must determine the magnetopause location in simulation plots without a prescribed method.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
@@ -47,4 +47,4 @@ In this lab pattern, students must determine the magnetopause location in simula
 -
 
 ## Key Sources
-- Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985
+- Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985. [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)

@@ -3,7 +3,7 @@ type: claim
 title: Colleges with higher percentages of first-generation, economically disadvantaged, academically disadvantaged, older, and English learner students earned fewer success points milestones per FTE student
 description: Colleges with higher percentages of first-generation, economically disadvantaged, academically disadvantaged, older, and English learner students earned fewer success points milestones per FTE student
 id: need-factors-fewer-success-points-milestones
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

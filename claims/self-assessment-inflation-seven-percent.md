@@ -3,7 +3,7 @@ type: claim
 title: "Students assessed their own work on average 7% higher than staff did"
 description: "Students assessed their own work on average 7% higher than staff did"
 id: self-assessment-inflation-seven-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: Downloading large compressed video and animation files took students one to two hours, prompting growing requests for CD and DVD copies as the course progressed
 description: Downloading large compressed video and animation files took students one to two hours, prompting growing requests for CD and DVD copies as the course progressed
 id: oms-download-time-barrier
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

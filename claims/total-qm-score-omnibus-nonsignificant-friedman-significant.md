@@ -3,7 +3,7 @@ type: claim
 title: The omnibus ANOVA on total QM score did not reach conventional significance, though a Friedman test suggested an overall difference with no significant pairwise Wilcoxon comparisons
 description: The omnibus ANOVA on total QM score did not reach conventional significance, though a Friedman test suggested an overall difference with no significant pairwise Wilcoxon comparisons
 id: total-qm-score-omnibus-nonsignificant-friedman-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

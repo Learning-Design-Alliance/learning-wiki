@@ -3,7 +3,7 @@ type: claim
 title: Convergence between pre-K graduates and nonattenders is largest for more constrained skills such as letter-word identification
 description: Convergence between pre-K graduates and nonattenders is largest for more constrained skills such as letter-word identification
 id: convergence-largest-for-more-constrained-skills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Tutors perceive Tutor CoPilot as helpful for on-the-spot explanations but flag suggestions that are not grade-level appropriate and 'too smart'"
 description: "Tutors perceive Tutor CoPilot as helpful for on-the-spot explanations but flag suggestions that are not grade-level appropriate and 'too smart'"
 id: tutors-perceive-tutor-copilot-helpful-but-grade-level-issues
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

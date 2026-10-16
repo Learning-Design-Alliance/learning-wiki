@@ -3,7 +3,7 @@ type: claim
 title: Retrieval practice benefits learners regardless of trait anxiety level, but higher trait or induced anxiety is associated with smaller testing effects
 description: Retrieval practice benefits learners regardless of trait anxiety level, but higher trait or induced anxiety is associated with smaller testing effects
 id: higher-anxiety-is-associated-with-smaller-testing-effects
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

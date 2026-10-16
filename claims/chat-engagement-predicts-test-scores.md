@@ -3,7 +3,7 @@ type: claim
 title: In-class chat engagement significantly predicts higher test scores in MAIC courses
 description: In-class chat engagement significantly predicts higher test scores in MAIC courses
 id: chat-engagement-predicts-test-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

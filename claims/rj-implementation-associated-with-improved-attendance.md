@@ -3,7 +3,7 @@ type: claim
 title: RJ implementation is associated with improved attendance, including lower chronic absenteeism relative to non-RJ schools
 description: RJ implementation is associated with improved attendance, including lower chronic absenteeism relative to non-RJ schools
 id: rj-implementation-associated-with-improved-attendance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

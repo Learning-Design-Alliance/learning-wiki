@@ -3,7 +3,7 @@ type: claim
 title: Ghanaian pre-service science teachers use AI mainly for research and content delivery rather than assessment or student engagement
 description: Ghanaian pre-service science teachers use AI mainly for research and content delivery rather than assessment or student engagement
 id: ai-used-for-research-not-assessment-pre-service-teachers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

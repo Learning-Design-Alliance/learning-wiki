@@ -3,7 +3,7 @@ type: claim
 title: The LAD did not support the preparatory phase because most participants did not use the actionable feedback despite perceiving it as potentially useful
 description: The LAD did not support the preparatory phase because most participants did not use the actionable feedback despite perceiving it as potentially useful
 id: thermos-lad-preparatory-phase-not-supported
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: collaborative-networks-responsible-ai-edtech-adoption
 title: Concentrate AI-edtech adoption priorities through collaborative networks that share tools, policies, and evaluation practices
 description: The brief recommends that state and district leaders scale and sustain AI-enabled edtech adoption through formal or semi-formal partnerships across educational jurisdictions.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

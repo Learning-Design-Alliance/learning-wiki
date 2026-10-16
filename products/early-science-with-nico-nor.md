@@ -4,7 +4,7 @@ id: early-science-with-nico-nor
 title: "Early Science with Nico & Nor"
 description: A co-designed preschool science curriculum developed by teachers, families, curriculum and media developers, and researchers that uses playful, interest-based home and school experiences, digital supports, and family and teacher guides to connect science with engineering and mathematics.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

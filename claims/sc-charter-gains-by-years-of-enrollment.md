@@ -3,7 +3,7 @@ type: claim
 title: "Charter enrollment duration matters: first-year students lag in both subjects, while fourth-year students outperform in reading but still lag in math"
 description: "Charter enrollment duration matters: first-year students lag in both subjects, while fourth-year students outperform in reading but still lag in math"
 id: sc-charter-gains-by-years-of-enrollment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

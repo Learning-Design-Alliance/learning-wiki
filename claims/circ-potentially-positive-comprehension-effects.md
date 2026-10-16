@@ -3,7 +3,7 @@ type: claim
 title: CIRC has potentially positive effects on comprehension for beginning readers, with an average improvement index of +12 percentile points across two studies
 description: CIRC has potentially positive effects on comprehension for beginning readers, with an average improvement index of +12 percentile points across two studies
 id: circ-potentially-positive-comprehension-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

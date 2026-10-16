@@ -3,7 +3,7 @@ type: claim
 title: Students confident about their mathematical ability are mostly also convinced of the relevance of mathematics, forming a motivational basis; low-confidence students are hard to motivate
 description: Students confident about their mathematical ability are mostly also convinced of the relevance of mathematics, forming a motivational basis; low-confidence students are hard to motivate
 id: self-confidence-and-value-clustering-motivational-basis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

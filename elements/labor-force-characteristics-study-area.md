@@ -3,7 +3,7 @@ type: element
 id: labor-force-characteristics-study-area
 title: Labor force characteristics and composition as a separate area of study in teacher education
 description: "The monograph proposes that \"Characteristics and composition of the labor forceshould be a separate area of study\" within industrial arts teacher education."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

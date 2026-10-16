@@ -3,7 +3,7 @@ type: claim
 title: Chronically absent preschoolers are much more likely to stay chronically absent, and each successive year of chronic absenteeism compounds risk of low second-grade reading
 description: Chronically absent preschoolers are much more likely to stay chronically absent, and each successive year of chronic absenteeism compounds risk of low second-grade reading
 id: preschool-absence-predicts-later-chronic-absence-and-reading-risk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

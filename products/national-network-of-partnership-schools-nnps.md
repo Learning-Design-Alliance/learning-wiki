@@ -4,7 +4,7 @@ id: national-network-of-partnership-schools-nnps
 title: National Network of Partnership Schools (NNPS)
 description: A Johns Hopkins University network that supports schools and districts in developing and sustaining family and community partnership programmes through institutes, workshops, professional-learning series, and facilitation.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

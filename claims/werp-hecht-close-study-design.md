@@ -3,7 +3,7 @@ type: claim
 title: In the qualifying quasi-experimental study, at-risk Kindergarten students using Waterford Level One for 15-minute daily sessions were matched to comparison students and pretested in fall and posttested in spring
 description: In the qualifying quasi-experimental study, at-risk Kindergarten students using Waterford Level One for 15-minute daily sessions were matched to comparison students and pretested in fall and posttested in spring
 id: werp-hecht-close-study-design
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

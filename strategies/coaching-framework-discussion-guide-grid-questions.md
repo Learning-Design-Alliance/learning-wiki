@@ -3,7 +3,7 @@ type: strategy
 id: coaching-framework-discussion-guide-grid-questions
 title: Use the coaching framework as a structured discussion guide with a note-taking grid and study group questions
 description: "The brief operationalizes its framework as a discussion tool: Figure 2 provides a grid with space for recording \"Current Work\" and \"Ideas to Move Forward\" across the three levels, and five suggested discussion questio..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

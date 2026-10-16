@@ -3,7 +3,7 @@ type: claim
 title: CTT and MFRM yield similar item difficulty results for open-ended questions regardless of crossed or nested design
 description: CTT and MFRM yield similar item difficulty results for open-ended questions regardless of crossed or nested design
 id: ctt-mfrm-agreement-robust-to-design
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

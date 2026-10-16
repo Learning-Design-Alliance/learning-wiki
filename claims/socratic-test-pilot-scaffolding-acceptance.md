@@ -3,7 +3,7 @@ type: claim
 title: "Over 80% of pilot students agreed the AI proctor accurately understood their responses and scaffolded them appropriately"
 description: "Over 80% of pilot students agreed the AI proctor accurately understood their responses and scaffolded them appropriately"
 id: socratic-test-pilot-scaffolding-acceptance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

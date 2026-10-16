@@ -3,7 +3,7 @@ type: claim
 title: "Students in the TEC Summer Learning Program showed a 17% pre-to-post gain in phonics skills"
 description: "Students in the TEC Summer Learning Program showed a 17% pre-to-post gain in phonics skills"
 id: tec-summer-17-percent-phonics-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

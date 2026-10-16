@@ -3,7 +3,7 @@ type: claim
 title: Secondary students report near-maximum confidence in passive digital tasks but sharply lower confidence in active creation and algorithmic logic
 description: Secondary students report near-maximum confidence in passive digital tasks but sharply lower confidence in active creation and algorithmic logic
 id: confidence-competence-divide-passive-vs-active-creation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

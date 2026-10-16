@@ -3,7 +3,7 @@ type: claim
 title: "Districts' most frequent suggestions for improving ISAT are stability and consistency and faster turnaround, each urged by about one-quarter of districts"
 description: "Districts' most frequent suggestions for improving ISAT are stability and consistency and faster turnaround, each urged by about one-quarter of districts"
 id: isat-improvement-stability-turnaround
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

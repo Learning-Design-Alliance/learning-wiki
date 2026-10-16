@@ -3,7 +3,7 @@ type: claim
 title: Linked learning communities produced no statistically significant or substantively important effects on credit accumulation across six studies
 description: Linked learning communities produced no statistically significant or substantively important effects on credit accumulation across six studies
 id: linked-learning-communities-credit-accumulation-no-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Retrieval practice instructions led students to recall items to a criterion of about three correct retrievals before dropping them
 description: Retrieval practice instructions led students to recall items to a criterion of about three correct retrievals before dropping them
 id: instructions-promote-three-recall-criterion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

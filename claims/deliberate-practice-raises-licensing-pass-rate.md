@@ -3,7 +3,7 @@ type: claim
 title: Deliberate practice interventions produce higher real estate licensing exam pass rates than traditional study methods
 description: Deliberate practice interventions produce higher real estate licensing exam pass rates than traditional study methods
 id: deliberate-practice-raises-licensing-pass-rate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: AI-based educational technology use is positively associated with critical thinking among undergraduate medical students
 description: AI-based educational technology use is positively associated with critical thinking among undergraduate medical students
 id: ai-use-positively-associated-critical-thinking-medical-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

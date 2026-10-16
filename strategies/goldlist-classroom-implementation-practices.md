@@ -3,7 +3,7 @@ type: strategy
 id: goldlist-classroom-implementation-practices
 title: Classroom implementation practices for the GoldList Notebook Method
 description: "The article distills teacher takeaways from its classroom observations: keep notebooks in the classroom where feasible to prevent students forgetting them, check notebooks regularly, run distillations as a class warm-..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: strategy
 id: role-investments-for-inclusive-rd-participation
 title: "Change stakeholder roles and investments so marginalized participants can engage as co-experts in R&D"
 description: "The report lists concrete changes to traditional roles and investments that enable partners to engage in Inclusive Innovation: pay for participants' time, buy out practitioner time, provide transportation and/or child..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -49,4 +49,4 @@ The report lists concrete changes to traditional roles and investments that enab
 -
 
 ## Key Sources
-- Angevine, C., Cator, K., Liberman, B., Smith, K., & Young, V. (2019). Designing a Process for Inclusive Innovation: A Radical Commitment to Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/d6db3e76-2dc9-4ea6-ae68-49814c88e6b6
+- Angevine, C., Cator, K., Liberman, B., Smith, K., & Young, V. (2019). Designing a Process for Inclusive Innovation: A Radical Commitment to Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/d6db3e76-2dc9-4ea6-ae68-49814c88e6b6. [doi:10.51388/20.500.12265/86](https://doi.org/10.51388/20.500.12265/86)

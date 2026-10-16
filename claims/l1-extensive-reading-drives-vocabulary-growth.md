@@ -3,7 +3,7 @@ type: claim
 title: First language evidence shows extensive reading for meaning leads to vocabulary acquisition over time, probably accounting for most L1 vocabulary growth beyond the first few thousand common words
 description: First language evidence shows extensive reading for meaning leads to vocabulary acquisition over time, probably accounting for most L1 vocabulary growth beyond the first few thousand common words
 id: l1-extensive-reading-drives-vocabulary-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

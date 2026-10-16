@@ -3,7 +3,7 @@ type: claim
 title: Prompt-Based Constraint is the dominant enforcement mechanism in LLM-based programming support systems
 description: Prompt-Based Constraint is the dominant enforcement mechanism in LLM-based programming support systems
 id: prompt-based-constraint-dominant-enforcement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

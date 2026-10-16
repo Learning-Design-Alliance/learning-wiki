@@ -2,7 +2,7 @@
 type: theory
 title: Taxonomy of macro- and micro-skills of listening comprehension
 description: "The paper organizes listening skills into macro-language use, \"the learning of elements of language and their potential combinations\", and micro-skills that each perform different functions."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Language processing is intimately tuned to input frequency across phonology, phonotactics, reading, spelling, lexis, morphosyntax, formulaic language, comprehension, grammaticality, sentence production, and syntax
 description: Language processing is intimately tuned to input frequency across phonology, phonotactics, reading, spelling, lexis, morphosyntax, formulaic language, comprehension, grammaticality, sentence production, and syntax
 id: frequency-tuning-across-language-processing-domains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

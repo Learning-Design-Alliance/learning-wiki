@@ -3,7 +3,7 @@ type: claim
 title: "Teachers perceived the AIED-U system as a mixed experience: valued exercise lists and reports, but recognition imprecision and workflow demands added work"
 description: "Teachers perceived the AIED-U system as a mixed experience: valued exercise lists and reports, but recognition imprecision and workflow demands added work"
 id: teachers-mixed-perception-aied-u-system
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

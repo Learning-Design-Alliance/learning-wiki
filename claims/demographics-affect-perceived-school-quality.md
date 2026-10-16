@@ -3,7 +3,7 @@ type: claim
 title: "Student demographics affect parents' perceptions of school quality"
 description: "Student demographics affect parents' perceptions of school quality"
 id: demographics-affect-perceived-school-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

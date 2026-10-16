@@ -3,7 +3,7 @@ type: claim
 title: Follow-up effects of targeted K-6 interventions remain positive up to 2 years after intervention ends, with evidence of fadeout
 description: Follow-up effects of targeted K-6 interventions remain positive up to 2 years after intervention ends, with evidence of fadeout
 id: targeted-k6-interventions-followup-fadeout
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

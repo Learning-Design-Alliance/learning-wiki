@@ -3,7 +3,7 @@ type: claim
 title: Student-school fit was an overarching theme in all focus groups across all phases of the high school choice process
 description: Student-school fit was an overarching theme in all focus groups across all phases of the high school choice process
 id: fit-overarching-theme-high-school-choice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

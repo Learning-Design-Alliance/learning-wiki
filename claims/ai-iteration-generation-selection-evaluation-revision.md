@@ -3,7 +3,7 @@ type: claim
 title: AI-supported design iteration consists of generation, selection, evaluation, and revision rather than one-off generation
 description: AI-supported design iteration consists of generation, selection, evaluation, and revision rather than one-off generation
 id: ai-iteration-generation-selection-evaluation-revision
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

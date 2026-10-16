@@ -3,7 +3,7 @@ type: design
 id: objective-activity-matched-curriculum-guide-pattern
 title: Performance-objective-driven curriculum pattern pairing each stated objective with matched student activities
 description: The guide states six lettered performance objectives (A through F) and then organizes its entire activity section objective by objective, so each activity serves a stated objective.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

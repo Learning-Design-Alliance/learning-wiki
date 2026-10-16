@@ -3,7 +3,7 @@ type: strategy
 id: isolated-flexibility-practice-and-later-timing-recommendation
 title: Consider isolated cognitive flexibility practice and later-year timing instead of embedding flexibility practice within phonics activities
 description: Based on the null embedded-practice results, the authors recommend alternative designs for cognitive flexibility training in early reading intervention.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

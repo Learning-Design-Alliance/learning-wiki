@@ -3,7 +3,7 @@ type: claim
 title: Chronic absenteeism increased by more than 2 percentage points in 64 percent of elementary schools versus 35 percent of secondary schools between 2017/18 and 2018/19
 description: Chronic absenteeism increased by more than 2 percentage points in 64 percent of elementary schools versus 35 percent of secondary schools between 2017/18 and 2018/19
 id: elementary-schools-larger-absenteeism-increases
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Staff perceptions of instructional equity varied by role: teachers, special education teachers, and administrators most positive; paraprofessionals, resource officers, and counselors least positive"
 description: "Staff perceptions of instructional equity varied by role: teachers, special education teachers, and administrators most positive; paraprofessionals, resource officers, and counselors least positive"
 id: staff-role-differences-instructional-equity-perceptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

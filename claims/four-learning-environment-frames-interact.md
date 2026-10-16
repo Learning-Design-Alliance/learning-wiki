@@ -3,7 +3,7 @@ type: claim
 title: Effective learning environments depend on the interaction of four overlapping frames rather than their compartmentalization
 description: Effective learning environments depend on the interaction of four overlapping frames rather than their compartmentalization
 id: four-learning-environment-frames-interact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

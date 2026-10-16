@@ -3,7 +3,7 @@ type: claim
 title: "Improvements in caregiver book-sharing behaviour mediate the intervention's impact on child language (one mediation analysis)"
 description: "Improvements in caregiver book-sharing behaviour mediate the intervention's impact on child language (one mediation analysis)"
 id: caregiver-book-sharing-competence-mediation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

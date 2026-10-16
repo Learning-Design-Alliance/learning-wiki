@@ -3,7 +3,7 @@ type: strategy
 id: iccsd-district-cs-specialist-leadership
 title: Appoint a district-level CS/CT leadership position to center and prioritize computing as a curricular offering
 description: "In Year 2, ICCSD appointed a district-wide CS Specialist to support teacher professional development and integration, which the district's reflection identifies as its second key decision: to center leadership and pri..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

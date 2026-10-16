@@ -3,7 +3,7 @@ type: claim
 title: Representative gridworld teaching tools lack live Bellman substitution, decision-provenance logging, and full trace export
 description: Representative gridworld teaching tools lack live Bellman substitution, decision-provenance logging, and full trace export
 id: gridworld-tools-lack-decision-trace-export
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

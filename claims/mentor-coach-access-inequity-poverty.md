@@ -3,7 +3,7 @@ type: claim
 title: Access to mentors and coaches is inequitably distributed, with high-poverty schools far less likely to have supported principals
 description: Access to mentors and coaches is inequitably distributed, with high-poverty schools far less likely to have supported principals
 id: mentor-coach-access-inequity-poverty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

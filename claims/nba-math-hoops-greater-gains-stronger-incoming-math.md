@@ -3,7 +3,7 @@ type: claim
 title: NBA Math Hoops math gains are larger for students entering with stronger incoming math scores, with no significant variation by gender, IEP status, or incoming SEL
 description: NBA Math Hoops math gains are larger for students entering with stronger incoming math scores, with no significant variation by gender, IEP status, or incoming SEL
 id: nba-math-hoops-greater-gains-stronger-incoming-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

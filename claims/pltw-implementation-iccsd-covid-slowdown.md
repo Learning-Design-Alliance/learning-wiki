@@ -3,7 +3,7 @@ type: claim
 title: ICCSD implemented PLTW computing curricula at a growing set of schools, with COVID-19 slowing progress in Years 2 and 3
 description: ICCSD implemented PLTW computing curricula at a growing set of schools, with COVID-19 slowing progress in Years 2 and 3
 id: pltw-implementation-iccsd-covid-slowdown
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

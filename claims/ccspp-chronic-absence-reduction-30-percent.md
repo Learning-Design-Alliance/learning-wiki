@@ -3,7 +3,7 @@ type: claim
 title: "CCSPP community schools reduced chronic absence at least 30% more than matched comparison schools in the first implementation year"
 description: "CCSPP community schools reduced chronic absence at least 30% more than matched comparison schools in the first implementation year"
 id: ccspp-chronic-absence-reduction-30-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

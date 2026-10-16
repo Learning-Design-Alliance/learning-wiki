@@ -3,7 +3,7 @@ type: strategy
 id: linguistic-adaptations-spanish-english-kea-administration
 title: Adapt English-language KEA administration so students may respond in Spanish or English, with bilingual directions and Spanish-adapted rather than merely translated prompts
 description: This strategy modifies observation-based, English-language KEA protocols so Spanish–English bilinguals can demonstrate knowledge bilingually.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

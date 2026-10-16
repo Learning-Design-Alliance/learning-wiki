@@ -3,7 +3,7 @@ type: claim
 title: "Delegating the terminal evaluation to AI is self-defeating: each hand-off returns one more output someone must accept or not"
 description: "Delegating the terminal evaluation to AI is self-defeating: each hand-off returns one more output someone must accept or not"
 id: delegating-evaluation-self-defeating
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

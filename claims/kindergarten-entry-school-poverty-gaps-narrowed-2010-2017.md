@@ -3,7 +3,7 @@ type: claim
 title: Inequalities at kindergarten entry by school poverty level decreased between 2010 and 2017
 description: Inequalities at kindergarten entry by school poverty level decreased between 2010 and 2017
 id: kindergarten-entry-school-poverty-gaps-narrowed-2010-2017
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

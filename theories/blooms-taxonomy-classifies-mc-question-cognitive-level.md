@@ -2,7 +2,7 @@
 type: theory
 title: "Bloom's Taxonomy as a six-level scheme for classifying the cognitive level of multiple-choice questions"
 description: "The article uses Bloom's Taxonomy as the classification scheme for the cognitive level of multiple-choice questions, describing it as organizing 'the levels of learning into six categories ranging from simple to compl..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

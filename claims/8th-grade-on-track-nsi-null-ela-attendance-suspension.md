@@ -3,7 +3,7 @@ type: claim
 title: 8th-grade on-track NSI did not improve ELA test scores, attendance, or suspension rates
 description: 8th-grade on-track NSI did not improve ELA test scores, attendance, or suspension rates
 id: 8th-grade-on-track-nsi-null-ela-attendance-suspension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

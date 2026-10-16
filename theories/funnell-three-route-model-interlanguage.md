@@ -2,7 +2,7 @@
 type: theory
 title: "Funnell's three-route model of single word reading as an account of false beginners' interlanguage"
 description: "The article imports Funnell's three-route model of single word reading, developed for a case study of surface dyslexia with semantic impairment, to explain L2 learners' word vocalization."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

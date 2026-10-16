@@ -3,7 +3,7 @@ type: principle
 id: universal-early-literacy-screening-thrice-yearly
 title: Administer universal early literacy screening three times per year plus dyslexia-characteristics screening in K–2
 description: "The toolkit prescribes universal early literacy screeners for all K–3 students \"administered three times per year with progress monitoring along the way,\" serving as a \"first alert\" that a student may need extra help..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

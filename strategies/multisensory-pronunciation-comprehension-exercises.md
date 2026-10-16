@@ -3,7 +3,7 @@ type: strategy
 id: multisensory-pronunciation-comprehension-exercises
 title: Use multisensory exercises (throats, mirrors, kazoos, rubber bands, sound associations, finger counts) to help learners comprehend pronunciation features
 description: "The digest recommends that, in addition to careful planning, teachers \"be responsive to learners' needs and explore a variety of methods to help learners comprehend pronunciation features.\" It lists concrete exercises..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

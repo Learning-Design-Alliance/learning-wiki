@@ -3,7 +3,7 @@ type: claim
 title: Experience Corps had grown to 23 sites with nearly 2,000 tutors serving approximately 20,000 students
 description: Experience Corps had grown to 23 sites with nearly 2,000 tutors serving approximately 20,000 students
 id: experience-corps-scale-2000-tutors-20000-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

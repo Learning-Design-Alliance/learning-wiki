@@ -3,7 +3,7 @@ type: element
 id: covid-slide-technical-appendix
 title: Technical appendix documenting the projection methodology of the COVID-19 slide white paper
 description: "A technical brief published by NWEA Research that documents the methods used to produce the achievement projections in the white paper 'The COVID-19 slide: What summer learning loss can tell us about the potential imp..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: element
 id: rightful-presence-implementation-guide
 title: Rightful Presence Implementation Guide (swiftschools.org)
 description: "The brief points readers to the \"Rightful Presence Implementation Guide (swiftschools.org)\" for \"ideas about how to get started on the journey in your community.\" It is a companion resource released alongside this iss..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

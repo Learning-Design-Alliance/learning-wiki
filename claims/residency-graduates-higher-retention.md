@@ -4,7 +4,7 @@ title: "Residency-prepared teachers remain in teaching and in their districts at
 description: "Residency-prepared teachers remain in teaching and in their districts at higher rates than other novice teachers, typically 80–95% after 3 years"
 id: residency-graduates-higher-retention
 aliases: [residency-completers-higher-retention, trp-teachers-more-likely-remain-same-district]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

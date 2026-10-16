@@ -3,7 +3,7 @@ type: strategy
 id: competency-internships-and-district-partnerships
 title: Structure principal preparation internships around mastery of leadership competencies and strengthen university-district partnerships
 description: This implementable recipe from the Illinois reform redesigns the preparation internship so that candidates work toward mastery of defined leadership competencies rather than accumulating hours of observing leadership,...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

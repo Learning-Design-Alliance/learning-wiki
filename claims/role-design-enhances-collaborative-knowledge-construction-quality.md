@@ -3,7 +3,7 @@ type: claim
 title: Symbiosis theory-based role design significantly enhances the quality of collaborative knowledge construction in human-GAI online collaboration
 description: Symbiosis theory-based role design significantly enhances the quality of collaborative knowledge construction in human-GAI online collaboration
 id: role-design-enhances-collaborative-knowledge-construction-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -49,3 +49,4 @@ Quasi-experimental pretest-posttest study with 58 graduate students; statistical
 - [A descriptive report defines peer assisted learning and asserts, without a tested result, that it promotes knowledge construction, collaboration ability and interpersonal interaction](peer-assisted-learning-improves-learning-outcomes.md) — a broader claim this one bears on
 - [The review reports that role-playing exercises significantly enhanced students' 21st-century skills including communication, collaboration, and critical thinking](role-play-enhances-21st-century-skills.md) — related
 - [The educational value of GAI is contingent on pedagogical integration, not on the technology itself](gai-value-contingent-on-pedagogical-integration.md) — a broader claim this one bears on
+- [GAI-assisted DST creation significantly enhanced all five CPS sub-dimensions compared to traditional methods](gai-assisted-dst-improves-cps-subdimensions.md) — related

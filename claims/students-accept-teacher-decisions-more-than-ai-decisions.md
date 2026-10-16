@@ -3,7 +3,7 @@ type: claim
 title: Junior high school students report significantly higher acceptance of teacher-made grading decisions than AI-generated decisions
 description: Junior high school students report significantly higher acceptance of teacher-made grading decisions than AI-generated decisions
 id: students-accept-teacher-decisions-more-than-ai-decisions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

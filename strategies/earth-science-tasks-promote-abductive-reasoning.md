@@ -3,7 +3,7 @@ type: strategy
 id: earth-science-tasks-promote-abductive-reasoning
 title: Design Earth Science curriculum inquiry tasks that promote abductive reasoning and incorporate missing authentic inquiry features
 description: Based on the finding that the abductive method was most associated with authentic inquiry features, the authors recommend that curriculum developers include inquiry tasks promoting abductive reasoning and reflecting u...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

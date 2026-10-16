@@ -3,7 +3,7 @@ type: strategy
 id: technology-integrated-pronunciation-practice
 title: Integrate pronunciation-focused technology such as language learning apps and mobile-assisted pronunciation training into the CLT curriculum
 description: This strategy uses language learning apps, online platforms and mobile-assisted pronunciation training to give learners interactive, immediate feedback on pronunciation within the CLT framework.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

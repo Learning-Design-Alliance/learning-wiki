@@ -3,7 +3,7 @@ type: element
 id: pedagogical-judgment-rubric-pjr
 title: Pedagogical Judgment Rubric (PJR/FPJR)
 description: "A faculty-designed rubric that \"makes visible the components of sound instructional reasoning.\" The final version (FPJR) has four criteria — A: rich descriptions of students and how they responded to the lesson; B: ri..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

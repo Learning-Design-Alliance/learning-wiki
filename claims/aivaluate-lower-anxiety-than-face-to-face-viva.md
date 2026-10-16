@@ -3,7 +3,7 @@ type: claim
 title: Students reported significantly lower anxiety during AIvaluate-mediated viva sessions than during equivalent face-to-face viva assessments
 description: Students reported significantly lower anxiety during AIvaluate-mediated viva sessions than during equivalent face-to-face viva assessments
 id: aivaluate-lower-anxiety-than-face-to-face-viva
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -48,3 +48,4 @@ Counterbalanced quasi-experimental within-subjects study in which each of 35 stu
 ## Related Claims
 - [Students perceived AIvaluate assessments as reducing social pressure and offering flexible pacing and ease of use, but noted technical challenges and lack of dynamic human interaction](aivaluate-thematic-advantages-and-limitations.md) — related
 - [Students rated the usability of the AIvaluate assessment in the SUS 'good' range](aivaluate-sus-usability-good-range.md) — related
+- [AI-assisted pair programming significantly reduced programming anxiety compared to individual programming](ai-assisted-pair-programming-reduces-programming-anxiety.md) — related

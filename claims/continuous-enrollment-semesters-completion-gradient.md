@@ -3,7 +3,7 @@ type: claim
 title: Each additional semester of continuous college enrollment is associated with a higher completion rate, but no specific semesters carry distinctive predictive value
 description: Each additional semester of continuous college enrollment is associated with a higher completion rate, but no specific semesters carry distinctive predictive value
 id: continuous-enrollment-semesters-completion-gradient
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Residency completers report more intensive clinical experiences with higher support and are more likely to pass teaching performance assessments on their first attempt
 description: Residency completers report more intensive clinical experiences with higher support and are more likely to pass teaching performance assessments on their first attempt
 id: residency-completers-intensive-clinical-first-attempt-pass
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

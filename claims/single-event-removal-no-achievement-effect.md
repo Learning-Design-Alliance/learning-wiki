@@ -3,7 +3,7 @@ type: claim
 title: Individually removing objectives, examples, or review from a well-designed computer-based lesson did not significantly reduce achievement
 description: Individually removing objectives, examples, or review from a well-designed computer-based lesson did not significantly reduce achievement
 id: single-event-removal-no-achievement-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

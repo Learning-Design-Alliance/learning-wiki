@@ -3,7 +3,7 @@ type: claim
 title: Metal detector use in US schools has held steady or slightly decreased since the 1990s despite renewed calls after the Parkland shooting
 description: Metal detector use in US schools has held steady or slightly decreased since the 1990s despite renewed calls after the Parkland shooting
 id: school-metal-detector-use-steady-or-decreasing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: The best LLMs perform below the best student contestants in the real-time proxy riddle round
 description: The best LLMs perform below the best student contestants in the real-time proxy riddle round
 id: best-llms-below-best-students-nsmq-riddles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

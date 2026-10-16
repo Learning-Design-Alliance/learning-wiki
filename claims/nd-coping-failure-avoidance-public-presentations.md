@@ -3,7 +3,7 @@ type: claim
 title: When coping methods fail, neurodivergent students report avoiding socialization and courses requiring public presentations
 description: When coping methods fail, neurodivergent students report avoiding socialization and courses requiring public presentations
 id: nd-coping-failure-avoidance-public-presentations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

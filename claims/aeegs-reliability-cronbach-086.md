@@ -3,7 +3,7 @@ type: claim
 title: The AEEGS software demonstrated internal consistency of Cronbach alpha 0.86 in trial testing and was validated for face and content validity by three software experts
 description: The AEEGS software demonstrated internal consistency of Cronbach alpha 0.86 in trial testing and was validated for face and content validity by three software experts
 id: aeegs-reliability-cronbach-086
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

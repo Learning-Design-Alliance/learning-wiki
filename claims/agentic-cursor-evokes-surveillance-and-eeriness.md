@@ -3,7 +3,7 @@ type: claim
 title: The agentic cursor evoked feelings of surveillance, judgment and eeriness, and its anticipation effects distracted writers
 description: The agentic cursor evoked feelings of surveillance, judgment and eeriness, and its anticipation effects distracted writers
 id: agentic-cursor-evokes-surveillance-and-eeriness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

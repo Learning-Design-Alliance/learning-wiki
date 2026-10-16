@@ -3,7 +3,7 @@ type: claim
 title: "Experienced teachers and teachers with a master's degree are highly effective overall but much less effective for Black than non-Black students"
 description: "Experienced teachers and teachers with a master's degree are highly effective overall but much less effective for Black than non-Black students"
 id: experienced-masters-teachers-less-effective-black-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Design-based research with 114 participants across two macro cycles produced and refined the faculty technology standards
 description: Design-based research with 114 participants across two macro cycles produced and refined the faculty technology standards
 id: dbr-two-macro-cycles-114-participants-standards
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: principle
 id: institutional-supports-beyond-individual-motivation
 title: Pair individual confidence-building with institutional supports, tools and co-design, since motivation alone is insufficient for food system change
 description: "The article concludes that individual agency must be complemented by structural supports: \"motivation alone is not enough to enable dietitians to influence food systems, and other food system factors should be conside..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: strategy
 id: iterate-and-three-level-validation-ar-simulation-strategy
 title: Iterate the prompt in plain language and validate the simulation on technical, physical, and pedagogical levels
 description: "After generating a simulation from the four-element prompt, the teacher runs it, notices incorrect behavior, describes the problem in plain language, and sends a correction prompt; the article notes \"The loop itself i..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

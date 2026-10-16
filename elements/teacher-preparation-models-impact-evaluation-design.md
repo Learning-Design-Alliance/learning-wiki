@@ -3,7 +3,7 @@ type: element
 id: teacher-preparation-models-impact-evaluation-design
 title: "Mathematica's design for the Teacher Preparation Models Impact Evaluation (2003-2009), prepared for the U.S. Department of Education"
 description: "This element is the evaluation design presented in the report, created for Mathematica's \"evaluation of these issues\" concerning the effectiveness of different teacher training strategies."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

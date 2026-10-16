@@ -3,7 +3,7 @@ type: claim
 title: A neutrally configured LLM assistant produced the lowest rate of gender-stereotypic occupation suggestions, below even the no-AI control condition
 description: A neutrally configured LLM assistant produced the lowest rate of gender-stereotypic occupation suggestions, below even the no-AI control condition
 id: neutral-llm-assistant-attenuates-baseline-stereotyping
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

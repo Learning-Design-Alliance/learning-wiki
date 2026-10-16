@@ -3,7 +3,7 @@ type: claim
 title: Studying worked examples between two rounds of a computer puzzle game produced significantly greater knowledge map improvement than no worked examples for adult players
 description: Studying worked examples between two rounds of a computer puzzle game produced significantly greater knowledge map improvement than no worked examples for adult players
 id: worked-examples-improve-knowledge-map-content-understanding-in-a-puzzle-game
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

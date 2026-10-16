@@ -3,7 +3,7 @@ type: claim
 title: "Cluster analysis of student-AI dialogue identifies three distinct collaboration profiles: Delegated Reasoning, Concerted Interpretation, and Delegated Elaboration"
 description: "Cluster analysis of student-AI dialogue identifies three distinct collaboration profiles: Delegated Reasoning, Concerted Interpretation, and Delegated Elaboration"
 id: three-human-ai-cps-profiles-dr-ci-de
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

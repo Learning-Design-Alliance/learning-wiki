@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

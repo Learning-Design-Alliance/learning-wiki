@@ -67,7 +67,7 @@ Self talk logging converts private, fleeting cognition into an inspectable artif
 
 ## Examples
 - **Meichenbaum's self-instructional training** — children first observe an adult verbalize task self-talk, then perform while speaking aloud, then whisper, then log internal speech; the logged private speech becomes the material for self-instruction.
-- **Writing process portfolios** — composition courses (e.g., National Writing Project approaches) ask students to log decisions and doubts across drafts, making revision behavior visible for conference discussion.
+- **[Writing process portfolios](writing-process-portfolios.md)** — composition courses (e.g., National Writing Project approaches) ask students to log decisions and doubts across drafts, making revision behavior visible for conference discussion.
 - **Programming courses** — learners keep a "stuck log" recording what they were thinking when debugging failed, which instructors use to diagnose both misconceptions and unproductive search strategies.
 
 ## Key Sources

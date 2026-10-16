@@ -4,7 +4,7 @@ id: littlecurriculum
 title: LittleCurriculum
 description: LittleCurriculum is an 88B-token K–5-filtered pretraining corpus created by Fanfei Li et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

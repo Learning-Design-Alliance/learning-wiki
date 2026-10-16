@@ -4,7 +4,7 @@ id: ati-up
 title: ATI-UP
 description: ATI-UP is a preventive, school-wide, multi-tiered attendance intervention developed for school teams to promote attendance and reduce chronic absenteeism through problem-solving, family and community engagement, attendance promotion, and behavior motivation.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

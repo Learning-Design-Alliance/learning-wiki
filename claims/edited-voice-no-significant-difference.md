@@ -3,7 +3,7 @@ type: claim
 title: Edited voice prompts did not significantly differ from text prompts in first-attempt success
 description: Edited voice prompts did not significantly differ from text prompts in first-attempt success
 id: edited-voice-no-significant-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

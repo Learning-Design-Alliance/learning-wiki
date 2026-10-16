@@ -3,7 +3,7 @@ type: strategy
 id: peer-review-of-cooperative-learning-sessions
 title: "Peer review of cooperative learning sessions: instructors observe a colleague's session and complete a peer review form"
 description: "As the second component of the staff development plan, during March 1998 each instructor was assigned to observe another instructor's cooperative learning instructional session and complete a Peer Review form."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: Full-time immediate two-year enrollment rates differ substantially between ICCB and NSC data, suggesting limited reliability of the NSC full-time status field
 description: Full-time immediate two-year enrollment rates differ substantially between ICCB and NSC data, suggesting limited reliability of the NSC full-time status field
 id: nsc-full-time-status-limited-reliability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

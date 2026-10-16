@@ -3,7 +3,7 @@ type: claim
 title: Elementary GPA improved more in schools with strong 5Essentials Survey scores, a new outcome beyond the original validation
 description: Elementary GPA improved more in schools with strong 5Essentials Survey scores, a new outcome beyond the original validation
 id: elementary-gpa-strong-5essentials-measures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

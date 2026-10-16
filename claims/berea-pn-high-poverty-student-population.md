@@ -3,7 +3,7 @@ type: claim
 title: The Berea College Promise Neighborhood serves an area where 81 percent of students qualified for free or reduced-price school meals in 2010
 description: The Berea College Promise Neighborhood serves an area where 81 percent of students qualified for free or reduced-price school meals in 2010
 id: berea-pn-high-poverty-student-population
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

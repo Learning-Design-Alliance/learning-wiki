@@ -4,7 +4,7 @@ id: college-match-indicator
 title: College match indicator
 description: A measurement tool developed by the University of Chicago Consortium on School Research to gauge how students are progressing toward college enrollment by comparing their academic qualifications with college enrollment outcomes.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

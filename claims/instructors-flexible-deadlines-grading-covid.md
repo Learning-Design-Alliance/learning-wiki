@@ -3,7 +3,7 @@ type: claim
 title: Instructors widely relaxed deadlines and adjusted grading to accommodate pandemic circumstances, while balancing compassion with academic rigor
 description: Instructors widely relaxed deadlines and adjusted grading to accommodate pandemic circumstances, while balancing compassion with academic rigor
 id: instructors-flexible-deadlines-grading-covid
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

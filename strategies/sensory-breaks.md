@@ -70,6 +70,6 @@ Sensory breaks address the limits of sustained attention and self-regulation: vi
 
 ## Key Sources
 - Pellegrini, A. D., & Bjorklund, D. F. (1997). The role of recess in children's cognitive performance. *Educational Psychologist, 32*(1), 35–40.
-- Mahar, M. T., Murphy, S. K., Rowe, D. A., Golden, J., Shields, A. T., & Raedeke, T. D. (2006). Effects of a classroom-based program on physical activity and on-task behavior. *Medicine & Science in Sports & Exercise, 38*(12), 2086–2094. [doi:10.1249/tjx.0000000000000099](https://doi.org/10.1249/tjx.0000000000000099)
+- Mahar, M. T., Murphy, S. K., Rowe, D. A., Golden, J., Shields, A. T., & Raedeke, T. D. (2006). Effects of a classroom-based program on physical activity and on-task behavior. *Medicine & Science in Sports & Exercise, 38*(12), 2086–2094. [doi:10.1249/01.mss.0000235359.16685.a3](https://doi.org/10.1249/01.mss.0000235359.16685.a3)
 - Fedewa, A. L., & Ahn, S. (2011). The effects of physical activity and physical fitness on children's achievement and cognitive outcomes: A meta-analysis. *Research Quarterly for Exercise and Sport, 82*(3), 521–535. [doi:10.1080/02701367.2011.10599785](https://doi.org/10.1080/02701367.2011.10599785)
 - Barkley, R. A. (2012). *Executive functions: What they are, how they work, and why they evolved.* Guilford Press.

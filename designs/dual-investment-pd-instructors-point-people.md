@@ -3,7 +3,7 @@ type: design
 id: dual-investment-pd-instructors-point-people
 title: Invest in professional learning and partnership infrastructure for both college instructors and school-based support staff
 description: The report finds the point person model functions because both sides receive training.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: ai-curricular-goals-with-domain-specific-pedagogies
 title: Pair AI curricular goals with domain-specific pedagogical methodologies
 description: The framework recommends that educators implement AI learning objectives by pairing curricular goals with domain-specific pedagogical methodologies.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

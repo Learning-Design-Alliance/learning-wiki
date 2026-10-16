@@ -3,7 +3,7 @@ type: claim
 title: The system receives a good average usability rating (SUS 69.7, grade B) but with wide individual variation attributed to UI consistency issues
 description: The system receives a good average usability rating (SUS 69.7, grade B) but with wide individual variation attributed to UI consistency issues
 id: photon-fusion-sus-good-but-variable-usability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

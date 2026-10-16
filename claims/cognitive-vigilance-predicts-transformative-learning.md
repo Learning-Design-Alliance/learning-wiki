@@ -3,7 +3,7 @@ type: claim
 title: Cognitive vigilance is positively associated with transformative learning experience
 description: Cognitive vigilance is positively associated with transformative learning experience
 id: cognitive-vigilance-predicts-transformative-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

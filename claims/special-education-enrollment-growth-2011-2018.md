@@ -3,7 +3,7 @@ type: claim
 title: Special education enrollment rose from 6.4 to 7.0 million students (12.9 to 13.7 percent of public enrollment) between 2011–12 and 2017–18
 description: Special education enrollment rose from 6.4 to 7.0 million students (12.9 to 13.7 percent of public enrollment) between 2011–12 and 2017–18
 id: special-education-enrollment-growth-2011-2018
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

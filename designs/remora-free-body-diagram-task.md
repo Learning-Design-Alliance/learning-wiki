@@ -3,7 +3,7 @@ type: design
 id: remora-free-body-diagram-task
 title: Remora Free Body Diagram Require-GenAI task
 description: A task deployed in an undergraduate introductory physics course in which students collaborate with GenAI to construct the most accurate free body diagram of a remora fish attached to a shark.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11
@@ -48,4 +48,4 @@ A task deployed in an undergraduate introductory physics course in which student
 -
 
 ## Key Sources
-- Gao, Y., Chen, Z., Li, M., & Zhai, X. (2026). Generative AI as a Design Variable: An Evidence-Centered Framework for Principled Governance in STEM Assessment.
+- Gao, Y., Chen, Z., Li, M., & Zhai, X. (2026). Generative AI as a Design Variable: An Evidence-Centered Framework for Principled Governance in STEM Assessment. [doi:10.48550/arxiv.2605.24837](https://doi.org/10.48550/arxiv.2605.24837)

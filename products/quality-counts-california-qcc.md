@@ -4,7 +4,7 @@ id: quality-counts-california-qcc
 title: Quality Counts California (QCC)
 description: A statewide quality rating and improvement framework run through a collaboration among First 5 California, the California Department of Education, and the California Department of Social Services to assess and support early-learning and care sites.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

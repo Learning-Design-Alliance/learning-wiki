@@ -2,7 +2,7 @@
 type: theory
 title: "Gardner's Multiple Intelligences theory: eight named intelligences with a possible ninth"
 description: "The review briefly outlines Gardner's MI theory before presenting critics."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

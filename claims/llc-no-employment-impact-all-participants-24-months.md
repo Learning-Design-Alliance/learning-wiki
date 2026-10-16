@@ -3,7 +3,7 @@ type: claim
 title: LLC did not affect employment for all participants within the first 24 months of enrollment
 description: LLC did not affect employment for all participants within the first 24 months of enrollment
 id: llc-no-employment-impact-all-participants-24-months
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

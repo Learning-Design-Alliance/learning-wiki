@@ -3,7 +3,7 @@ type: element
 id: diploma-or-ged-within-five-years-measure
 title: "Completing-school outcome measure: diploma or GED receipt within five years of entering ninth grade, from statewide databases"
 description: "The outcome measure used in both qualifying studies is \"the percentage of students who received their diploma or GED by the end of their fifth academic year after entering the ninth grade.\" Data come from statewide da..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

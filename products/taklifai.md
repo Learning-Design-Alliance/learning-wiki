@@ -4,7 +4,7 @@ id: taklifai
 title: Taklif.AI
 description: Taklif.AI is an LLM-powered platform developed by Kurdya et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

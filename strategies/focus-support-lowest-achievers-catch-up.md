@@ -3,7 +3,7 @@ type: strategy
 id: focus-support-lowest-achievers-catch-up
 title: Focus instructional support on helping the lowest-achieving students catch up after pandemic disruptions
 description: The brief recommends targeting support toward the lowest-achieving students, because pandemic-era score dispersion grew mainly at the bottom of the distribution and low achievers improved least during 2021-22.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

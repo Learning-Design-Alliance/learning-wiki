@@ -3,7 +3,7 @@ type: claim
 title: Systems constraints on pre-referral include lack of appropriate observation tools, over-identification fears, and COVID-19 effects
 description: Systems constraints on pre-referral include lack of appropriate observation tools, over-identification fears, and COVID-19 effects
 id: prereferral-constraints-tools-perceptions-covid
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

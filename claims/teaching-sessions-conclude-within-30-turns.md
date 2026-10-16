@@ -3,7 +3,7 @@ type: claim
 title: Teaching interactions typically conclude within 30 dialogue turns, motivating a 30-turn cap to prevent dead loops
 description: Teaching interactions typically conclude within 30 dialogue turns, motivating a 30-turn cap to prevent dead loops
 id: teaching-sessions-conclude-within-30-turns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

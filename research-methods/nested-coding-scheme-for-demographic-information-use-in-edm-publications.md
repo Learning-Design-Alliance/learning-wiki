@@ -3,7 +3,7 @@ type: research-method
 id: nested-coding-scheme-for-demographic-information-use-in-edm-publications
 title: Nested coding scheme for demographic information use in EDM publications
 description: "The article proposes a nested coding scheme for how demographic information appears in research: publications are first coded as applicable or not applicable, then as analyzed, merely reported, or not reported, and analyzed papers are subdivided by whether demographics were investigated, used as fea"
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

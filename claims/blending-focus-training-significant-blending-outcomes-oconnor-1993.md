@@ -3,7 +3,7 @@ type: claim
 title: "Blending-focused phonological awareness training produced statistically significant positive differences on blending outcomes in O'Connor et al. (1993)"
 description: "Blending-focused phonological awareness training produced statistically significant positive differences on blending outcomes in O'Connor et al."
 id: blending-focus-training-significant-blending-outcomes-oconnor-1993
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

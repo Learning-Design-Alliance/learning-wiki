@@ -3,7 +3,7 @@ type: design
 id: middle-school-transition-words-self-assessment-lesson
 title: Middle school transition-words writing lesson integrating self-assessment, peer feedback, and personal learning goals
 description: A middle school lesson vignette in which English learners and native English-speaking students learn to show relationships between ideas by combining sentences with transition words.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

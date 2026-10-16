@@ -3,7 +3,7 @@ type: design
 id: expression-transformation-target-matching-pattern
 title: "Expression-transformation puzzle: match a starting expression to an equivalent target form via valid operations"
 description: "The core design pattern of FH2T is a transformation puzzle: \"The program presents a starting expression and a mathematically equivalent target expression."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-07

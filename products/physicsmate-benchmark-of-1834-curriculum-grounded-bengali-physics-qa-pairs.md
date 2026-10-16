@@ -4,7 +4,7 @@ id: physicsmate-benchmark-of-1834-curriculum-grounded-bengali-physics-qa-pairs
 title: PhysicsMate benchmark of 1,834 curriculum-grounded Bengali physics QA pairs
 description: A benchmark dataset and accompanying knowledge graph of 1,834 Bengali Grade 9–10 physics question-answer pairs grounded in the official NCTB textbook, released by Rashid Azraf Jahin et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: design
 id: phoenix-voice-llm-peer-agent-group-learning
 title: "Phoenix: a voice-based, non-embodied LLM conversational peer agent for group learning"
 description: "Phoenix is a \"voice-based, non-embodied conversational agent that joins real-time group discussions through spoken dialogue with multiple participants\", positioned as an equal peer supporting knowledge co-construction..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10
@@ -52,4 +52,4 @@ Phoenix is a "voice-based, non-embodied conversational agent that joins real-tim
 -
 
 ## Key Sources
-- Ravi, P., Stevens, C., Hurt, B., Hanks, B., Lin, G., and Anderson, E. (2026). Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning. https://arxiv.org/abs/2606.12805
+- Ravi, P., Stevens, C., Hurt, B., Hanks, B., Lin, G., and Anderson, E. (2026). Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning. https://arxiv.org/abs/2606.12805. [doi:10.48550/arxiv.2606.12805](https://doi.org/10.48550/arxiv.2606.12805)

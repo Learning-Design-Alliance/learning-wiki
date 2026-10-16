@@ -69,7 +69,7 @@ Chunking reduces the working-memory and attentional demands of a task by letting
 ## Examples
 - **Writing instruction:** a research essay broken into topic selection, source gathering, outline, draft, and revision, each with its own due date and rubric line — standard practice in process-writing curricula such as [Writer's Workshop](https://www.heinemann.com/writersworkshop/) models.
 - **Khan Academy (https://www.khanacademy.org)** — long skill domains are segmented into short lessons and mastery checkpoints, so learners complete one piece before the unit-level challenge integrates them.
-- **Duolingo (https://www.duolingo.com)** — language learning divided into short daily lessons with unit checkpoints; the segmented structure is central to its completion rates.
+- **[Duolingo](../products/duolingo.md) (https://www.duolingo.com)** — language learning divided into short daily lessons with unit checkpoints; the segmented structure is central to its completion rates.
 - **Special education IEP goal-setting** — annual goals routinely broken into short-term benchmarks, with progress monitored at each checkpoint.
 
 ## Key Sources

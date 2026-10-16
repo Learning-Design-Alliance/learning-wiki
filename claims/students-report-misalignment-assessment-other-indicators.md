@@ -3,7 +3,7 @@ type: claim
 title: "Nearly 60% of surveyed college students said their summative assessment results matched other college-readiness information not very well or very little"
 description: "Nearly 60% of surveyed college students said their summative assessment results matched other college-readiness information not very well or very little"
 id: students-report-misalignment-assessment-other-indicators
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

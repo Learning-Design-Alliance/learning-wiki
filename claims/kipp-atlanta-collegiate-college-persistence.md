@@ -3,7 +3,7 @@ type: claim
 title: KIPP Atlanta Collegiate High School shows positive impacts on long-term college persistence
 description: KIPP Atlanta Collegiate High School shows positive impacts on long-term college persistence
 id: kipp-atlanta-collegiate-college-persistence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

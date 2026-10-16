@@ -3,7 +3,7 @@ type: strategy
 id: low-tech-analogies-foundational-ai-competencies
 title: Teach foundational AI competencies with low-tech analogies and contextually relevant activities where technology access is limited
 description: This strategy responds to first-level digital divide constraints by teaching foundational AI literacy competencies without requiring full technology access.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

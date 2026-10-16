@@ -3,7 +3,7 @@ type: strategy
 id: kea-policy-recommendations-four-areas
 title: "Policy recommendations: choose developmentally appropriate assessments, build instructional assessment systems, guard against misuse, and support continuous improvement"
 description: "The report's Policy Recommendations section organizes state and district action into four areas."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

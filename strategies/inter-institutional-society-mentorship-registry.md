@@ -3,7 +3,7 @@ type: strategy
 id: inter-institutional-society-mentorship-registry
 title: Establish an inter-institutional, society-level mentorship registry providing continuous support from undergraduate entry through faculty appointment
 description: "The editorial proposes a mentorship registry, potentially housed within ACS or RSC, to fill the gap left by institution-bound programs whose \"benefits do not transfer when a first-generation student moves to a new ins..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

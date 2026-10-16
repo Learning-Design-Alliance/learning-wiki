@@ -3,7 +3,7 @@ type: claim
 title: Higher pretest cognitive flexibility predicted greater decoding gains and compensated for lower pretest alphabet knowledge
 description: Higher pretest cognitive flexibility predicted greater decoding gains and compensated for lower pretest alphabet knowledge
 id: pretest-cognitive-flexibility-predicts-decoding-gains-compensates-alphabet
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

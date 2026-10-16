@@ -3,7 +3,7 @@ type: claim
 title: "Effortful, fluent-feeling experiences can create an illusion of learning: felt sense of learning is a poor gauge of actual learning"
 description: "Effortful, fluent-feeling experiences can create an illusion of learning: felt sense of learning is a poor gauge of actual learning"
 id: effortless-ai-use-creates-illusion-of-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

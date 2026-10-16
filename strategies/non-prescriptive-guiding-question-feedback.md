@@ -3,7 +3,7 @@ type: strategy
 id: non-prescriptive-guiding-question-feedback
 title: Non-prescriptive GAI feedback via sequenced guiding questions calibrated to cognitive challenge
 description: The article recommends that instead of offering direct answers or evaluation outcomes, GAI should pose guiding questions prompting deeper reflection so learners independently build their summative self-assessment fram...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -43,6 +43,7 @@ The article recommends that instead of offering direct answers or evaluation out
 - [Question-based eLearning Design](question-based_elearning_design.md)
 - [Questioning Techniques](questioning-techniques.md)
 - [Guided Inquiry](guided_inquiry.md)
+- [Combine GAI tools with traditional methods in a hybrid approach to balance efficient collaboration and critical evaluation](hybrid-gai-traditional-dst-approach.md)
 
 ## Examples
 -

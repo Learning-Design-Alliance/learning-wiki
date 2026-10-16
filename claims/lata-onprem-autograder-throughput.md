@@ -3,7 +3,7 @@ type: claim
 title: An on-premises LLM autograder graded a 200-student course at 1–3 minutes wall-clock time per submission across a full term
 description: An on-premises LLM autograder graded a 200-student course at 1–3 minutes wall-clock time per submission across a full term
 id: lata-onprem-autograder-throughput
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

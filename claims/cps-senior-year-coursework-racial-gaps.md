@@ -3,7 +3,7 @@ type: claim
 title: Senior-year advanced coursework is unevenly distributed by race/ethnicity among CPS graduates
 description: Senior-year advanced coursework is unevenly distributed by race/ethnicity among CPS graduates
 id: cps-senior-year-coursework-racial-gaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

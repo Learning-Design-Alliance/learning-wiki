@@ -3,7 +3,7 @@ type: claim
 title: "Education level shows differential associations with perceived benefits, with master's students perceiving higher psychological support and leisure benefits than doctoral students"
 description: "Education level shows differential associations with perceived benefits, with master's students perceiving higher psychological support and leisure benefits than doctoral students"
 id: education-level-differential-benefit-associations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Overall demand–AI-use alignment varies modestly across education systems, but task-specific association profiles show clear residual heterogeneity
 description: Overall demand–AI-use alignment varies modestly across education systems, but task-specific association profiles show clear residual heterogeneity
 id: cross-system-heterogeneity-task-specific-ai-profiles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

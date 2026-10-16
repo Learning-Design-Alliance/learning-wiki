@@ -3,7 +3,7 @@ type: claim
 title: "Blinded board-certified clinicians prefer the RL-trained agent in 87.6% of side-by-side comparisons for overall clinical impression"
 description: "Blinded board-certified clinicians prefer the RL-trained agent in 87.6% of side-by-side comparisons for overall clinical impression"
 id: residencyrl-clinician-preference-side-by-side
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

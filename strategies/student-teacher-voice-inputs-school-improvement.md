@@ -3,7 +3,7 @@ type: strategy
 id: student-teacher-voice-inputs-school-improvement
 title: Use student and teacher voice as reliable, valid inputs in school improvement efforts
 description: The study recommends that schools treat what students and teachers report about school experiences, culture, and climate as valuable inputs to improvement.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

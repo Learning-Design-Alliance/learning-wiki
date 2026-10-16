@@ -3,7 +3,7 @@ type: claim
 title: The Wilson Reading System shows no discernible effects on reading comprehension
 description: The Wilson Reading System shows no discernible effects on reading comprehension
 id: wilson-reading-system-no-discernible-comprehension-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

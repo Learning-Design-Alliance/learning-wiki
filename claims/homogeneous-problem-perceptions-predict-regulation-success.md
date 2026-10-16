@@ -2,7 +2,7 @@
 type: claim
 title: Homogeneous problem perceptions predict better regulation outcomes in collaborative groups
 id: homogeneous-problem-perceptions-predict-regulation-success
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

@@ -3,7 +3,7 @@ type: design
 id: cs1-cr-course-structure
 title: "CS1-CR course structure: unrestricted AI use with mandatory oral code review interviews and a flipped classroom"
 description: "CS1-CR is a CS1 course design in which students may freely use generative AI on coding assignments but must complete \"an oral, in-person code review (CR) interview session with a TA or instructor within 48 hours after..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

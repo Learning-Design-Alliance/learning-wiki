@@ -3,7 +3,7 @@ type: claim
 title: There is little evidence that math and reading specialists, one Turnaround Strategy component in targeted schools, had an impact on academic outcomes
 description: There is little evidence that math and reading specialists, one Turnaround Strategy component in targeted schools, had an impact on academic outcomes
 id: aps-specialist-support-little-impact-evidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

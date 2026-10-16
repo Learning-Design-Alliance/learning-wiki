@@ -3,7 +3,7 @@ type: claim
 title: A mean-classification cut-score method outperformed a contrasting-groups-style mean method because it was more robust to outliers
 description: A mean-classification cut-score method outperformed a contrasting-groups-style mean method because it was more robust to outliers
 id: mean-classification-cut-score-method-robust
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

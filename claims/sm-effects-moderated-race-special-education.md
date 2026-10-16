@@ -3,7 +3,7 @@ type: claim
 title: Single-case effects of self-management interventions are moderated by student race and special education status, with more pronounced effects for African American students and students receiving special education services
 description: Single-case effects of self-management interventions are moderated by student race and special education status, with more pronounced effects for African American students and students receiving special education serv...
 id: sm-effects-moderated-race-special-education
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -50,3 +50,4 @@ Meta-regression of the single-case design sample testing student-characteristic 
 - [Self Monitoring Improves On Task Behavior](self-monitoring-improves-on-task-behavior.md) — related
 - [Single-case effects of self-management interventions are not moderated by intervention characteristics (duration, fidelity assessment, fidelity method, or training)](sm-effects-not-moderated-intervention-characteristics.md) — related
 - [School-based self-management interventions significantly and positively impact classroom behaviors of school-age students with challenging behaviors (single-case design synthesis)](sm-interventions-improve-classroom-behaviors-scd-meta.md) — related
+- [Effect size heterogeneity in self-management interventions may be explained by grade level, disability status, and general versus special education setting](self-management-heterogeneity-moderators-grade-disability-setting.md) — related

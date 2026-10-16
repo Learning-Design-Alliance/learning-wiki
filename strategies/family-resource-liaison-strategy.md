@@ -3,7 +3,7 @@ type: strategy
 id: family-resource-liaison-strategy
 title: Connect participating families to community resources and act as family-school liaisons
 description: The article describes Compass Care staff as family advocates and liaisons who bridge the communication gap between families and schools.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

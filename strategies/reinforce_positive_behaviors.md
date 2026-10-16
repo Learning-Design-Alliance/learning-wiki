@@ -65,7 +65,7 @@ Contingent, specific praise for appropriate behavior is among the most consisten
 ## Examples
 - **PBIS (Positive Behavioral Interventions & Supports)** ([https://www.pbis.org](https://www.pbis.org)) — school-wide systems in which staff deliver behavior-specific praise and token reinforcement at high ratios, with data-based fading as behavior stabilizes.
 - **[Classroom Dojo](https://www.classdojo.com)** — digital point system for immediate, visible reinforcement of named behaviors; works best when points are tied to specific feedback rather than used as a standing leaderboard.
-- **Good Behavior Game** — a group contingency in which teams earn privileges by collectively meeting behavioral criteria; strong experimental support for reducing disruption [+S].
+- **[Good Behavior Game](../products/good-behavior-game.md)** — a group contingency in which teams earn privileges by collectively meeting behavioral criteria; strong experimental support for reducing disruption [+S].
 
 ## Key Sources
 - Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children, 31*(1), 351-380. [doi:10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)

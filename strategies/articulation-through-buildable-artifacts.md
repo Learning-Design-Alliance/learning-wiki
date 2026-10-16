@@ -3,7 +3,7 @@ type: strategy
 id: articulation-through-buildable-artifacts
 title: Foster articulation by having students build testable artifacts and explain ideas to other students
 description: "Articulation means \"forcing students to explain and think about what they are doing i.e."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

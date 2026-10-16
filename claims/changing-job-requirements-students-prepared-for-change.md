@@ -3,7 +3,7 @@ type: claim
 title: Changing job requirements mean students must be prepared to change throughout their entire work lives
 description: Changing job requirements mean students must be prepared to change throughout their entire work lives
 id: changing-job-requirements-students-prepared-for-change
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

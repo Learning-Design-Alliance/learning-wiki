@@ -3,7 +3,7 @@ type: claim
 title: Failing to sort student attempt sequences by ServerTimestamp violates temporal causality and can systematically overestimate PKT model performance
 description: Failing to sort student attempt sequences by ServerTimestamp violates temporal causality and can systematically overestimate PKT model performance
 id: pkt-temporal-causality-violation-inflates-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

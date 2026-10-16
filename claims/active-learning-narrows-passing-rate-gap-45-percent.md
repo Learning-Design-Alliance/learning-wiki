@@ -3,7 +3,7 @@ type: claim
 title: "Active learning narrows the passing-rate gap between minoritized-group and non-minoritized students in undergraduate STEM by 45% on average"
 description: "Active learning narrows the passing-rate gap between minoritized-group and non-minoritized students in undergraduate STEM by 45% on average"
 id: active-learning-narrows-passing-rate-gap-45-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

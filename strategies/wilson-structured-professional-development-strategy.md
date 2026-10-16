@@ -3,7 +3,7 @@ type: strategy
 id: wilson-structured-professional-development-strategy
 title: Provide structured multi-phase professional development with ongoing support for intervention teachers
 description: "The Wilson Reading System is implemented through \"a formal professional development process\" including group instruction, coaching, telephone consultation, and independent study using the Wilson Academy online course."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

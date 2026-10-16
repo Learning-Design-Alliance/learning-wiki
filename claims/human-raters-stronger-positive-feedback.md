@@ -3,7 +3,7 @@ type: claim
 title: Human operational raters remain stronger than LLMs at identifying relative strengths (positive feedback) within learner profiles
 description: Human operational raters remain stronger than LLMs at identifying relative strengths (positive feedback) within learner profiles
 id: human-raters-stronger-positive-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

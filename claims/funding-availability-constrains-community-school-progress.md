@@ -3,7 +3,7 @@ type: claim
 title: Community schools funding availability and consistency strongly impacts continued implementation progress in Roswell
 description: Community schools funding availability and consistency strongly impacts continued implementation progress in Roswell
 id: funding-availability-constrains-community-school-progress
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

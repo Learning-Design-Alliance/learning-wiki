@@ -3,7 +3,7 @@ type: claim
 title: Fund-supported principals plan fewer total years in the principalship but more years in education than other principals
 description: Fund-supported principals plan fewer total years in the principalship but more years in education than other principals
 id: fund-principals-future-plans
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

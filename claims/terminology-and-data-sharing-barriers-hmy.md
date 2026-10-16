@@ -3,7 +3,7 @@ type: claim
 title: Inconsistent terminology across agencies and restrictive data-sharing rules are central barriers to identifying and serving highly mobile youth in both states
 description: Inconsistent terminology across agencies and restrictive data-sharing rules are central barriers to identifying and serving highly mobile youth in both states
 id: terminology-and-data-sharing-barriers-hmy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

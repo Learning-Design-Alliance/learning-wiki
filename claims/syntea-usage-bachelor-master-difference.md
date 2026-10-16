@@ -3,7 +3,7 @@ type: claim
 title: "Syntea usage is slightly higher among Bachelor's (58.17%) than Master's students (54.25%), possibly reflecting program structure rather than acceptance"
 description: "Syntea usage is slightly higher among Bachelor's (58.17%) than Master's students (54.25%), possibly reflecting program structure rather than acceptance"
 id: syntea-usage-bachelor-master-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

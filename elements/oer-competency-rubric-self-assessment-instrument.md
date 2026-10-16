@@ -3,7 +3,7 @@ type: element
 id: oer-competency-rubric-self-assessment-instrument
 title: Rubric-based self-assessment instrument for OER competencies (instrument 4)
 description: "The study's central instrument is a set of four rubrics, one per competency module, used for self-assessment at the end of the seminar."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

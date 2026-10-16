@@ -3,7 +3,7 @@ type: claim
 title: Residencies recruit a more diverse teacher workforce than typical entry pathways
 description: Residencies recruit a more diverse teacher workforce than typical entry pathways
 id: residencies-diversify-teacher-workforce
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

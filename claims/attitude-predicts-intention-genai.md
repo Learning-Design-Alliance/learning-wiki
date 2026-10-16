@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' attitudes toward GenAI tools significantly predict their behavioural intention to integrate them"
 description: "Teachers' attitudes toward GenAI tools significantly predict their behavioural intention to integrate them"
 id: attitude-predicts-intention-genai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -52,3 +52,4 @@ PLS-SEM path analysis in the 434-teacher sample. The AOU→BI path was significa
 - [Ghanaian pre-service science teachers show positive attitudes, perceived behavioural control, and behavioural intentions toward AI](positive-attitudes-pbc-intentions-ai-pre-service-teachers.md) — related
 - [Performance expectancy, social influence, novelty value, and creative competence positively predict art and design students' behavioral intention to use T2I GenAI tools](pe-si-nv-cc-positive-predict-bi-t2i.md) — related
 - [GenAI use is positively associated with attitude, subjective norm, perceived behavioral control, and behavioral intention toward GenAI-assisted learning](genai-use-positively-associated-tpb-constructs.md) — related
+- [Students express willingness to integrate GenAI in learning and future careers, and willingness correlates with knowledge and frequency of use](students-willing-to-use-genai-correlates.md) — a narrower finding that bears on this claim

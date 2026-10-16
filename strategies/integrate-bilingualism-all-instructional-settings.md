@@ -3,7 +3,7 @@ type: strategy
 id: integrate-bilingualism-all-instructional-settings
 title: Integrate bilingualism into all instructional settings through districtwide professional learning and in-service coaching
 description: "This recommendation directs education leaders to promote the use of primary languages in instructional settings beyond formal bilingual programs, \"through districtwide professional learning and in-service coaching.\" I..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

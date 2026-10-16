@@ -3,7 +3,7 @@ type: claim
 title: Despite faster early math growth, dual language students did not learn more than their peers in the long run and the gap to the national average was not closing
 description: Despite faster early math growth, dual language students did not learn more than their peers in the long run and the gap to the national average was not closing
 id: dual-language-math-no-long-run-advantage-gap-not-closing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

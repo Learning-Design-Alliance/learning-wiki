@@ -3,7 +3,7 @@ type: strategy
 id: theory-based-ocf-training-for-efl-teachers
 title: Provide theory-based and evidence-based training on oral corrective feedback for EFL teachers
 description: "Because the studied instructors were largely unaware of OCF strategy types, learner uptake, and research on OCF effectiveness, and because their attitudes were driven by feelings rather than students' cognition, the a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

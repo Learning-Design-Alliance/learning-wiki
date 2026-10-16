@@ -3,7 +3,7 @@ type: claim
 title: Emerging technologies show a small-to-moderate positive overall effect on TEFL outcomes (g = 0.38, corrected to 0.28 for publication bias)
 description: Emerging technologies show a small-to-moderate positive overall effect on TEFL outcomes (g = 0.38, corrected to 0.28 for publication bias)
 id: emerging-tech-tefl-pooled-effect-g038
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

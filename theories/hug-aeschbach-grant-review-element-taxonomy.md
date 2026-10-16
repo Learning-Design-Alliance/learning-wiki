@@ -2,7 +2,7 @@
 type: theory
 title: Hug and Aeschbach taxonomy of grant review criteria and elements coded as entity-dimension combinations
 description: The report describes a comprehensive taxonomy of the criteria and elements reviewers use to evaluate proposals, developed by Hug and Aeschbach (2020) after screening more than 16,000 articles and identifying 12 studie...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

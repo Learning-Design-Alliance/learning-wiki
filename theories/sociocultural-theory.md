@@ -3,7 +3,7 @@ type: theory
 title: Sociocultural Theory
 description: Sociocultural theory, developed from Vygotsky's work, holds that higher-order thinking develops first through social interaction and is then internalized, with learning most effective within a learner's Zone of Proximal Development.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29
@@ -115,6 +115,8 @@ A related developmental mechanism is **private speech**: children's habit of tal
 - [Use scaffolding techniques to help students complete tasks within their zones of proximal development](../strategies/scaffolding-within-zpd-classroom-strategy.md)
 - Peer discussion around a complex question.
 - Collaborative critique of alternative solutions.
+- [Teach AI through holistic, active, collaborative pedagogical strategies starting from real problem solving](../strategies/active-real-problem-solving-ai-teaching.md)
+- [Use learner skill levels to determine when to transition from worked examples to problem solving in tutoring systems](../strategies/skill-based-adaptive-fading-schedule.md)
 
 ## Key Sources
 - Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press.

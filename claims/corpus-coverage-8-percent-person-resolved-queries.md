@@ -3,7 +3,7 @@ type: claim
 title: "Only 8.0% of queries reaching a person duplicated existing corpus content, suggesting the knowledge base was already well used"
 description: "Only 8.0% of queries reaching a person duplicated existing corpus content, suggesting the knowledge base was already well used"
 id: corpus-coverage-8-percent-person-resolved-queries
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

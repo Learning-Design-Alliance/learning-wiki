@@ -3,7 +3,7 @@ type: claim
 title: AI-assisted ideation was conditionally acceptable when researchers retained decision-making authority, but problematic when it displaced conceptual labour
 description: AI-assisted ideation was conditionally acceptable when researchers retained decision-making authority, but problematic when it displaced conceptual labour
 id: conditional-ideation-dialogic-aid-vs-outsourcing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

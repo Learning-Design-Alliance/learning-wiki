@@ -3,7 +3,7 @@ type: claim
 title: Training on AI interaction strategies slightly increases cognitive load during AI-assisted design
 description: Training on AI interaction strategies slightly increases cognitive load during AI-assisted design
 id: ai-interaction-training-slightly-increases-cognitive-load
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

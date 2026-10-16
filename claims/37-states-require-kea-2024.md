@@ -3,7 +3,7 @@ type: claim
 title: As of May 2024, 37 states require that some type of statewide or district-level KEA be administered to all incoming kindergarten students
 description: As of May 2024, 37 states require that some type of statewide or district-level KEA be administered to all incoming kindergarten students
 id: 37-states-require-kea-2024
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

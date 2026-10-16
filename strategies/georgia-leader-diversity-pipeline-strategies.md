@@ -3,7 +3,7 @@ type: strategy
 id: georgia-leader-diversity-pipeline-strategies
 title: Build diverse school leader pipelines through HBCU/HSI preparation partnerships, transparent diversity data, equitable hiring supports, affinity networks, and Grow Your Own teacher pathways
 description: The brief recommends a set of state and district actions to increase school leader diversity in Georgia.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

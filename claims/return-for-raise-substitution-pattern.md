@@ -3,7 +3,7 @@ type: claim
 title: Students across both deployments substituted return statements for exception-raising constructs, treating error conditions as reasons to exit early
 description: Students across both deployments substituted return statements for exception-raising constructs, treating error conditions as reasons to exit early
 id: return-for-raise-substitution-pattern
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

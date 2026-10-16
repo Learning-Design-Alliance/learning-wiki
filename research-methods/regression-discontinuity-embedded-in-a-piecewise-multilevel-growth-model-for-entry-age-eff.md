@@ -3,7 +3,7 @@ type: research-method
 id: regression-discontinuity-embedded-in-a-piecewise-multilevel-growth-model-for-entry-age-eff
 title: Regression discontinuity embedded in a piecewise multilevel growth model for entry-age effects
 description: The paper introduces a modeling approach that combines a regression discontinuity design with a piecewise multilevel growth model, allowing causal estimates of entry-age effects on both initial achievement and subsequent growth rates.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

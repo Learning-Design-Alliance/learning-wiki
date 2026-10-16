@@ -3,7 +3,7 @@ type: claim
 title: "Over 96 percent of surveyed low-performing schools adopted three SIG-promoted improvement practices: data-informed differentiated instruction, expanded technology access or computer-assisted instruction, and collaborative or leader-facilitated ongoing professional development"
 description: "Over 96 percent of surveyed low-performing schools adopted three SIG-promoted improvement practices: data-informed differentiated instruction, expanded technology access or computer-assisted instruction, and collabora..."
 id: sig-schools-adopt-three-improvement-practices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

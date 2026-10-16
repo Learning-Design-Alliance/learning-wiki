@@ -3,7 +3,7 @@ type: claim
 title: "Autonomy alone cannot secure orthographic mastery: most children need explicit instruction about the orthographic system"
 description: "Autonomy alone cannot secure orthographic mastery: most children need explicit instruction about the orthographic system"
 id: orthographic-autonomy-requires-instruction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

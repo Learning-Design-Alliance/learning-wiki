@@ -3,7 +3,7 @@ type: research-method
 id: suitability-and-feasibility-framework-for-deciding-whether-to-use-state-tests-in-education
 title: Suitability and feasibility framework for deciding whether to use state tests in education experiments
 description: The paper organizes the decision of whether to use state assessment data in an RCT around two concepts from measurement theory.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

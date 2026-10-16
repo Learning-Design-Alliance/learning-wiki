@@ -3,7 +3,7 @@ type: claim
 title: Across linguistic-operator subdatasets, workflow-found transformations explain at least as many pairs as hand-picked mistakes in most cases
 description: Across linguistic-operator subdatasets, workflow-found transformations explain at least as many pairs as hand-picked mistakes in most cases
 id: workflow-matches-hand-analysis-on-linguistic-operator-subsets
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

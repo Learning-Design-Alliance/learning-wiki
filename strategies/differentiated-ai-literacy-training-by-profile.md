@@ -3,7 +3,7 @@ type: strategy
 id: differentiated-ai-literacy-training-by-profile
 title: Differentiated AI literacy training matched to acceptance profiles, with interventions beyond operational skills for Resistant Skeptics
 description: The article proposes that teacher education institutions use the empirically identified user types as the basis for AI literacy training design.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

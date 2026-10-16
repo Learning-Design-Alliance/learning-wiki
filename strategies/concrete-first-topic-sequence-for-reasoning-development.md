@@ -3,7 +3,7 @@ type: strategy
 id: concrete-first-topic-sequence-for-reasoning-development
 title: Sequence concrete, observation-based content first and gradually increase hypothetical and theoretical content as reasoning develops
 description: The authors propose reordering the traditional conceptual physics sequence, which typically begins with mechanics (motion, force, energy) — the most theoretical and hardest content for this population.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -44,4 +44,4 @@ The authors propose reordering the traditional conceptual physics sequence, whic
 -
 
 ## Key Sources
-- Moore, J. C., & Rubbo, L. J. (2011). Scientific reasoning abilities of non-science majors in physics-based courses. https://arxiv.org/abs/1110.2764
+- Moore, J. C., & Rubbo, L. J. (2011). Scientific reasoning abilities of non-science majors in physics-based courses. https://arxiv.org/abs/1110.2764. [doi:10.48550/arxiv.1110.2764](https://doi.org/10.48550/arxiv.1110.2764)

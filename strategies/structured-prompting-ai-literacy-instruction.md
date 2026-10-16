@@ -3,7 +3,7 @@ type: strategy
 id: structured-prompting-ai-literacy-instruction
 title: Teach prompting and AI literacy as epistemic practice with structured guidance
 description: "The review treats prompting in chemistry as an epistemic act, not merely a technical skill: a useful prompt specifies chemical constraints, relevant representations, assumptions, and adequacy criteria."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

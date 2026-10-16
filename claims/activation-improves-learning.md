@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic knowledge did not improve primary pupils' text comprehension in one experiment"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

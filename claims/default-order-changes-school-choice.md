@@ -3,7 +3,7 @@ type: claim
 title: Changing the default order in which schools are presented induces meaningful changes in the types of schools low-income parents choose
 description: Changing the default order in which schools are presented induces meaningful changes in the types of schools low-income parents choose
 id: default-order-changes-school-choice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

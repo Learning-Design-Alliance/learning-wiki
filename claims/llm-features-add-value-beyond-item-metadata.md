@@ -3,7 +3,7 @@ type: claim
 title: LLM-extracted cognitive and linguistic features add predictive value beyond readily available item metadata (grade, domain, item type, word count)
 description: LLM-extracted cognitive and linguistic features add predictive value beyond readily available item metadata (grade, domain, item type, word count)
 id: llm-features-add-value-beyond-item-metadata
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

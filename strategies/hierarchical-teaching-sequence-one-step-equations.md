@@ -3,7 +3,7 @@ type: strategy
 id: hierarchical-teaching-sequence-one-step-equations
 title: "Teach one-step equations in a hierarchical sequence: Type 1 without special features first, then Type 1 with special features, then Type 2 in the same order"
 description: "The article recommends that mathematics educators sequence instruction by element interactivity: begin with Type 1 equations (one operational, two relational lines), teaching equations without a special feature before..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

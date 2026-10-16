@@ -3,7 +3,7 @@ type: claim
 title: "Student argument quality in the game showed limits: one group discarded a hypothesis despite evidence still partially supporting it"
 description: "Student argument quality in the game showed limits: one group discarded a hypothesis despite evidence still partially supporting it"
 id: mercury-case-hypothesis-discarding-limit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

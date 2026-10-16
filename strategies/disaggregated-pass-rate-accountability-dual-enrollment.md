@@ -3,7 +3,7 @@ type: strategy
 id: disaggregated-pass-rate-accountability-dual-enrollment
 title: Track disaggregated dual enrollment pass rates in accountability frameworks alongside enrollment rates
 description: For state policymakers, the brief recommends accountability frameworks that go beyond enrollment counts.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

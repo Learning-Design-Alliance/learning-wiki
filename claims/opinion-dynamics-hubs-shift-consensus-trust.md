@@ -3,7 +3,7 @@ type: claim
 title: In the model, topology shifts aggregate reliance only under opinion dynamics, when influential hubs transmit correlated beliefs that move agents across the verify/use margin
 description: In the model, topology shifts aggregate reliance only under opinion dynamics, when influential hubs transmit correlated beliefs that move agents across the verify/use margin
 id: opinion-dynamics-hubs-shift-consensus-trust
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

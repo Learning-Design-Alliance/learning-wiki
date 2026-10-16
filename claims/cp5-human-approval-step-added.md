@@ -3,7 +3,7 @@ type: claim
 title: At the implementation checkpoint, several groups added an explicit human-approval step after encountering local-LLM structured-output reliability limitations
 description: At the implementation checkpoint, several groups added an explicit human-approval step after encountering local-LLM structured-output reliability limitations
 id: cp5-human-approval-step-added
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

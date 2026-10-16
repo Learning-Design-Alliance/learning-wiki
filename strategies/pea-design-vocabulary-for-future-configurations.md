@@ -3,7 +3,7 @@ type: strategy
 id: pea-design-vocabulary-for-future-configurations
 title: Use PEA as a design vocabulary to specify policy goals, enforcement mechanisms, and authority arrangements when building LLM-based programming support
 description: The article recommends that instead of describing a system only as a tutor, chatbot, hint generator, or feedback tool, designers specify the Policy goal it encodes, the Enforcement mechanism enacting it, and the Autho...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Teacher-principal trust is far more prevalent in top-quartile schools than bottom-quartile schools
 description: Teacher-principal trust is far more prevalent in top-quartile schools than bottom-quartile schools
 id: teacher-principal-trust-top-vs-bottom-quartile
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: speculative-theory-fiction-assignment
 title: "Assign speculative theory-fiction writing to build students' capacity for ecologically just futurity"
 description: This performative writing assignment tasks students with composing speculative theory-fiction, fusing the speculative imagining of science fiction with theorizing as practical application of existing theories and dedu...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

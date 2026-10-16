@@ -3,7 +3,7 @@ type: claim
 title: Quadratic and cubic trends significantly improved the linear model of teacher and student behavior, showing the importance of studying nonlinearity
 description: Quadratic and cubic trends significantly improved the linear model of teacher and student behavior, showing the importance of studying nonlinearity
 id: quadratic-cubic-trends-improve-linear-model-teacher-behavior
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Section quality improves with more source chunks up to k=10, beyond which gains plateau
 description: Section quality improves with more source chunks up to k=10, beyond which gains plateau
 id: source-chunk-count-k10-plateau
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

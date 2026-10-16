@@ -3,7 +3,7 @@ type: claim
 title: Teachers who engaged with EducaSim generally viewed it as a positive experience
 description: Teachers who engaged with EducaSim generally viewed it as a positive experience
 id: educasim-positive-teacher-sentiment-254-sessions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

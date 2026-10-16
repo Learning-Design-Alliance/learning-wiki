@@ -3,7 +3,7 @@ type: claim
 title: Concreteness fading guides learners to strip away extraneous concrete properties and distill generic, generalizable properties
 description: Concreteness fading guides learners to strip away extraneous concrete properties and distill generic, generalizable properties
 id: fading-distills-generalizable-properties
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

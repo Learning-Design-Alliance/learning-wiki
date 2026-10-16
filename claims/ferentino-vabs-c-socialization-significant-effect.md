@@ -3,7 +3,7 @@ type: claim
 title: In Ferentino (1991), social skills training produced a large significant effect on teacher-rated Vineland Socialization but not on four other social-emotional measures
 description: In Ferentino (1991), social skills training produced a large significant effect on teacher-rated Vineland Socialization but not on four other social-emotional measures
 id: ferentino-vabs-c-socialization-significant-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

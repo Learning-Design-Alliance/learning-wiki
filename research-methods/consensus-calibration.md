@@ -3,7 +3,7 @@ type: research-method
 id: consensus-calibration
 title: Consensus calibration
 description: "Consensus calibration treats recalibration as a divide-and-conquer Bayesian computation: each time period is calibrated independently and the period posteriors are combined without revisiting earlier data."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

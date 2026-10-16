@@ -3,7 +3,7 @@ type: claim
 title: Data-based decision making is the least-met full-implementation criterion while universal screening is the most-met
 description: Data-based decision making is the least-met full-implementation criterion while universal screening is the most-met
 id: kansas-mtss-data-decision-making-least-met-criterion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

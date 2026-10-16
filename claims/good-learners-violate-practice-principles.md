@@ -3,7 +3,7 @@ type: claim
 title: Good learners do not always adhere to established practice principles; low contextual interference can still produce good learning
 description: Good learners do not always adhere to established practice principles; low contextual interference can still produce good learning
 id: good-learners-violate-practice-principles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

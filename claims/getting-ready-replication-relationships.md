@@ -3,7 +3,7 @@ type: claim
 title: A replication trial with 267 preschoolers found greater gains in social skills and stronger teacher-child and parent-teacher relationships than controls
 description: A replication trial with 267 preschoolers found greater gains in social skills and stronger teacher-child and parent-teacher relationships than controls
 id: getting-ready-replication-relationships
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -50,3 +50,4 @@ Second cluster randomized trial in publicly funded Nebraska preschool programs w
 - Getting Ready shows a strong evidence rating for social-emotional learning, with an average effect size of +0.22 across two studies and 487 students — related
 - The first trial also found social-emotional gains including increased attachment and initiative and reduced anxiety/withdrawal — related
 - [Family engagement is connected to stronger social-emotional development, higher attendance, and better academic outcomes](family-engagement-linked-better-outcomes.md) — related
+- [Preschool PATHS increases emotion knowledge and parent- and teacher-rated social competence in Head Start children](paths-preschool-improves-emotion-knowledge-social-competence.md) — related

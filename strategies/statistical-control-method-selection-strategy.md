@@ -3,7 +3,7 @@ type: strategy
 id: statistical-control-method-selection-strategy
 title: Match statistical control methods to variable structure and measurement quality, preferring stratification, covariate adjustment, matching, or regression discontinuity accordingly
 description: "The article outlines implementable options for blocking back-door paths when randomization is infeasible: group-specific (stratified) analyses, third-variable inclusion in regression, matching (noting nearest neighbou..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Student narratives complicated the educator assumption that copied AI answers imply no learning, revealing invisible post-AI learning activities
 description: Student narratives complicated the educator assumption that copied AI answers imply no learning, revealing invisible post-AI learning activities
 id: invisible-learning-beyond-ai-answers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -49,3 +49,4 @@ In the Stage 2 student interview, the student described reading code, analyzing 
 - [Engineering students treat GenAI as acceptable when it stimulates reflection but view directly copying outputs as cheating, leveraging its fallibility to prompt double-checking](genai-ethics-reflection-versus-copying-boundaries.md) — related
 - [Low comment rewriting does not imply a smooth process: students describe the main effort as verifying generated code rather than revising prompts](verification-burden-shifts-work-from-rewriting-to-reviewing.md) — related
 - [Students' GenAI prompts overwhelmingly exact-copy instructions and request information rather than review](genai-prompts-exact-copy-and-information-requests.md) — related
+- [Passive instructional events such as texts do not explicitly prompt students to produce written or spoken output](passive-instruction-no-production-prompt.md) — related

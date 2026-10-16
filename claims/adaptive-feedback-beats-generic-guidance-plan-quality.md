@@ -3,7 +3,7 @@ type: claim
 title: Plan quality improves more after LLM-generated adaptive feedback than after high-quality generic guidance
 description: Plan quality improves more after LLM-generated adaptive feedback than after high-quality generic guidance
 id: adaptive-feedback-beats-generic-guidance-plan-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

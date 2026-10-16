@@ -3,7 +3,7 @@ type: element
 id: figural-response-items-architecture
 title: Computer-delivered figural response test items for architecture
 description: "Figural response items are constructed-response items in which \"examinees must construct their answers and the responses consist of the generation or manipulation of figural material (e.g., graphs, pictures).\" In this..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -52,4 +52,4 @@ Figural response items are constructed-response items in which "examinees must c
 -
 
 ## Key Sources
-- Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652
+- Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652. [doi:10.21236/ada273789](https://doi.org/10.21236/ada273789)

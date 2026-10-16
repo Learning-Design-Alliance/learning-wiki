@@ -3,7 +3,7 @@ type: claim
 title: "The TSDL project's first year of implementation (2011) produced reportable implementation findings"
 description: "The TSDL project's first year of implementation (2011) produced reportable implementation findings"
 id: tsdl-first-year-implementation-findings-2011
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

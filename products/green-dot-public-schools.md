@@ -4,7 +4,7 @@ id: green-dot-public-schools
 title: Green Dot Public Schools
 description: A nonprofit charter-school programme and school-design model run by Green Dot Public Schools that creates small community high schools organized around teacher support, autonomous leadership, college preparation, comprehensive student services, family engagement, and replicability.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

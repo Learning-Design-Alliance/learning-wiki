@@ -3,7 +3,7 @@ type: strategy
 id: visual-supports-role-play-social-narratives-internet-safety
 title: Use visual supports, role playing, and social narratives to teach internet safety to adolescents with ASD
 description: "The brief recommends three teaching approaches for parents and school staff: visual supports such as checklists of internet dos and don'ts and lists of acceptable websites; role playing multiple internet safety scenar..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

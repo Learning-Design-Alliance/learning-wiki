@@ -3,7 +3,7 @@ type: claim
 title: School-average ACT scores strongly predict individual college graduation, doubling the odds per standard deviation
 description: School-average ACT scores strongly predict individual college graduation, doubling the odds per standard deviation
 id: school-average-act-predicts-graduation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

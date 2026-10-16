@@ -3,7 +3,7 @@ type: claim
 title: Gradient-based GRPO alignment of a 7B model outperforms prompt engineering on scaffolding effectiveness (0.633 vs 0.400) despite the smaller backbone
 description: Gradient-based GRPO alignment of a 7B model outperforms prompt engineering on scaffolding effectiveness (0.633 vs 0.400) despite the smaller backbone
 id: grpo-parameter-training-beats-prompt-engineering-socratic
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

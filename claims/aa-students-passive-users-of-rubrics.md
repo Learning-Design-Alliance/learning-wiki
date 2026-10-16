@@ -3,7 +3,7 @@ type: claim
 title: Students are typically passive users of assessment rubrics in authentic assessment designs
 description: Students are typically passive users of assessment rubrics in authentic assessment designs
 id: aa-students-passive-users-of-rubrics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

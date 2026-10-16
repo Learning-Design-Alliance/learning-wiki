@@ -3,7 +3,7 @@ type: claim
 title: NBA Math Hoops students scored significantly lower than controls on a composite SEL measure (−0.21 SD), though remaining at moderately high levels
 description: NBA Math Hoops students scored significantly lower than controls on a composite SEL measure (−0.21 SD), though remaining at moderately high levels
 id: nba-math-hoops-lower-composite-sel
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

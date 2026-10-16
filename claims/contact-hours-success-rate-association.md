@@ -3,7 +3,7 @@ type: claim
 title: "Higher total contact hours for the paired courses were associated with higher institutional success rates (4 hours: 39%; 5 hours: 61%; 6 hours: 67%)"
 description: "Higher total contact hours for the paired courses were associated with higher institutional success rates (4 hours: 39%; 5 hours: 61%; 6 hours: 67%)"
 id: contact-hours-success-rate-association
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

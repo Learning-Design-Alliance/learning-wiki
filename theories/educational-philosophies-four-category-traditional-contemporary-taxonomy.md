@@ -2,7 +2,7 @@
 type: theory
 title: Four-category taxonomy of educational philosophies grouped into traditional and contemporary dimensions
 description: "The article organizes educational philosophies into named categories, noting that literature \"mostly classified in four categories as perennialism, essentialism, progressivism, re-constructionism\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

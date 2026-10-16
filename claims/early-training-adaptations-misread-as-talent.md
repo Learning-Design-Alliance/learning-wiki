@@ -3,7 +3,7 @@ type: claim
 title: Early training produces neural and physiological adaptations that can be misattributed to innate talent
 description: Early training produces neural and physiological adaptations that can be misattributed to innate talent
 id: early-training-adaptations-misread-as-talent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: Percent meeting standards is an imprecise metric whose cut-score concentration produced the Era 2 misconception that Chicago taught basic skills better than high-level skills
 description: Percent meeting standards is an imprecise metric whose cut-score concentration produced the Era 2 misconception that Chicago taught basic skills better than high-level skills
 id: percent-meeting-standards-imprecise-metric
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

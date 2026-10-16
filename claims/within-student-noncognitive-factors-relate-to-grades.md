@@ -3,7 +3,7 @@ type: claim
 title: "Within-student differences in noncognitive factors are associated with differences in course grades across the same student's classes"
 description: "Within-student differences in noncognitive factors are associated with differences in course grades across the same student's classes"
 id: within-student-noncognitive-factors-relate-to-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: combine-school-and-human-services-data-for-risk-support
 title: Combine in-school and out-of-school data sources to understand and support students flagged as at risk
 description: The report recommends an approach in which local education agencies use both in-school data and out-of-school data—human services involvement and public benefit receipt—to understand why students are flagged as at ris...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: element
 id: nclb-national-edtech-software-experimental-study
 title: National experimental study of reading and mathematics software products (NCLB-mandated first student cohort)
 description: A national study called for by the No Child Left Behind Act to assess the effectiveness of educational technology.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

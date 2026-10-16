@@ -72,7 +72,7 @@ Effective questioning converts passive reception into generative processing: ans
 
 ## Examples
 - **Peer Instruction (Eric Mazur, Harvard)** — conceptual questions posed via clickers, individual answer, peer discussion, re-answer; the question sequence is the core of the method ([https://blog.peerinstruction.net](https://blog.peerinstruction.net)).
-- **Reciprocal Teaching (Palincsar & Brown)** — learners rotate roles including "question asker" while reading expository text, generating their own comprehension questions.
+- **[Reciprocal Teaching](reciprocal_teaching.md) (Palincsar & Brown)** — learners rotate roles including "question asker" while reading expository text, generating their own comprehension questions.
 - **Hinge questions in formative assessment** — a single multiple-choice question with diagnostic distractors, posed mid-lesson, that determines whether the teacher moves on or reteaches (Black & Wiliam's "inside the black box" practice).
 
 ## Key Sources

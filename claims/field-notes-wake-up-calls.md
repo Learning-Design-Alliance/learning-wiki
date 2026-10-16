@@ -3,7 +3,7 @@ type: claim
 title: Reading researcher field-notes acted as wake-up calls that made unreflective value-laden practices visible to teachers
 description: Reading researcher field-notes acted as wake-up calls that made unreflective value-laden practices visible to teachers
 id: field-notes-wake-up-calls
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

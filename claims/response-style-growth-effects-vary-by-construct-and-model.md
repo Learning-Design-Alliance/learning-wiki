@@ -4,7 +4,7 @@ title: The effect of response styles on growth estimates varies by psychological
 description: The effect of response styles on growth estimates varies by psychological construct, response style, and IRT model used
 id: response-style-growth-effects-vary-by-construct-and-model
 aliases: [response-styles-affect-growth-estimates-sel, response-styles-affect-growth-parameter-estimates]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

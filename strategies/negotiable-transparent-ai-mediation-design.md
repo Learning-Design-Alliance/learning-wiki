@@ -3,7 +3,7 @@ type: strategy
 id: negotiable-transparent-ai-mediation-design
 title: Design AI mediators with negotiable intervention, participant-controlled synthesis, and transparent role transitions that preserve human ownership of team decisions
 description: "The article's design implications hold that future AI mediators should treat intervention, representation, and role authority as negotiated rather than fixed."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

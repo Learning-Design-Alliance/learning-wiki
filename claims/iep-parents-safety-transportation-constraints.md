@@ -3,7 +3,7 @@ type: claim
 title: "Parents' school choices were constrained by disability-linked safety fears and transportation barriers"
 description: "Parents' school choices were constrained by disability-linked safety fears and transportation barriers"
 id: iep-parents-safety-transportation-constraints
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

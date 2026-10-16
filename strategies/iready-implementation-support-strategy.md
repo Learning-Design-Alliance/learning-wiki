@@ -3,7 +3,7 @@ type: strategy
 id: iready-implementation-support-strategy
 title: Implement i-Ready with designated points of contact and Curriculum Associates professional development support
 description: The page describes an implementation model in which no additional staff are required, but implementations do require points of contact to assist with initial set-up and disseminate communications, guided by i-Ready Pa...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

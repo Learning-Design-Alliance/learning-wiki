@@ -3,7 +3,7 @@ type: claim
 title: Alternative value-added specifications produce substantially different teacher estimates but small changes in distribution tails
 description: Alternative value-added specifications produce substantially different teacher estimates but small changes in distribution tails
 id: specification-differences-small-tail-changes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

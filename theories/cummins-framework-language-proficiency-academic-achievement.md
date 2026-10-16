@@ -2,7 +2,7 @@
 type: theory
 title: "Cummins' theoretical framework relating language proficiency to academic achievement via threshold and interdependence hypotheses"
 description: Cummins proposes that a framework relating language proficiency to academic achievement is needed to set rational entry/exit criteria for bilingual programs.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
@@ -44,8 +44,7 @@ Cummins proposes that a framework relating language proficiency to academic achi
 
 ## Related Theories
 
-- [Cummins' BICS/CALP distinction: language proficiency divides into basic interpersonal communicative skills and cognitive/academic language proficiency, developmental along two continuums](bics-calph-two-dimensions-proficiency-framework.md)
-- [Cummins's BICS/CALP distinction: language proficiency divides into basic interpersonal communicative skills and cognitive/academic language proficiency](cummins-bics-calp-distinction.md)
+- [Cummins' BICS/CALP distinction: language proficiency divides into basic interpersonal communicative skills and cognitive/academic language proficiency, developmental along two continuums](cummins-bics-calp-distinction.md)
 - [The threshold hypothesis: two levels of bilingual competence mediate cognitive and academic effects of bilingualism](threshold-hypothesis-bilingual-competence.md)
 - [The developmental interdependence hypothesis: L2 competence depends partly on L1 competence at the onset of intensive L2 exposure](developmental-interdependence-hypothesis.md)
 

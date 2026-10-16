@@ -3,7 +3,7 @@ type: claim
 title: During 2018/19, attendance-related text messaging increased more quickly in schools where chronic absenteeism decreased than in schools where it increased, where use remained flat
 description: During 2018/19, attendance-related text messaging increased more quickly in schools where chronic absenteeism decreased than in schools where it increased, where use remained flat
 id: texting-increased-faster-in-decreased-absenteeism-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

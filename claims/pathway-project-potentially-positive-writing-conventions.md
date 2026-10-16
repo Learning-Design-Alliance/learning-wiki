@@ -3,7 +3,7 @@ type: claim
 title: The Pathway to Academic Success Project has potentially positive effects on writing conventions for English learners in grades 6-12
 description: The Pathway to Academic Success Project has potentially positive effects on writing conventions for English learners in grades 6-12
 id: pathway-project-potentially-positive-writing-conventions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -2,7 +2,7 @@
 type: theory
 title: "Analytic agency framework: three stages of data analysis (exploration, interpretation, confirmation), each classified as primarily human-led or computer-led"
 description: "The framework treats data analysis as proceeding through three stages: exploration (how data exist and are transformed or selected), interpretation (how patterns are made sense of, labelled, or theorized), and confirm..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

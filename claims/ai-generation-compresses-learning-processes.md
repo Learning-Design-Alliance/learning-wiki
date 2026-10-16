@@ -3,7 +3,7 @@ type: claim
 title: Rapid AI generation may compress exploratory learning processes and reduce encounters with failure and material constraints
 description: Rapid AI generation may compress exploratory learning processes and reduce encounters with failure and material constraints
 id: ai-generation-compresses-learning-processes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -65,3 +65,4 @@ The review's own interpretive caution in the discussion: more AI-enabled iterati
 - [Embodied hands-on practices remain important learning activities in AI-era design education](embodied-hands-on-remains-present.md) — related
 - Rapid prototyping methods can amplify novice designers' tendency to commit to a solution too early. — related
 - [Embodied and cognitive hands-on rely on different feedback sources and are not educationally equivalent](hands-on-forms-different-feedback-sources.md) — related
+- [Unscaffolded problem-solving before instruction lets students entertain exploratory hypotheses at the expense of experiencing initial failures](unscaffolded-problem-solving-exploratory-hypotheses-versus-failures.md) — related

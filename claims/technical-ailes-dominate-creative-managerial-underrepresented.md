@@ -3,7 +3,7 @@ type: claim
 title: "Technical AI literacy elements dominate STEAM implementations: Fundamental AI Concepts (36 studies), Data Literacy (30) and Computational Thinking (29) far exceed Managing AI (6), Designing AI (8) and Creative Imagination (9)"
 description: "Technical AI literacy elements dominate STEAM implementations: Fundamental AI Concepts (36 studies), Data Literacy (30) and Computational Thinking (29) far exceed Managing AI (6), Designing AI (8) and Creative Imagina..."
 id: technical-ailes-dominate-creative-managerial-underrepresented
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

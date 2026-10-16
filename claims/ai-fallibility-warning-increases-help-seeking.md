@@ -3,7 +3,7 @@ type: claim
 title: "A warning message about potential AI mistakes increases seventh-graders' hint requests in a math intelligent tutoring system"
 description: "A warning message about potential AI mistakes increases seventh-graders' hint requests in a math intelligent tutoring system"
 id: ai-fallibility-warning-increases-help-seeking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

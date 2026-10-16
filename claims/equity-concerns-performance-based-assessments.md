@@ -3,7 +3,7 @@ type: claim
 title: "State interviewees raised three equity concerns about performance-based assessments: perceived lower rigor and tracking, uneven implementation quality, and inequitable or unreliable scoring"
 description: "State interviewees raised three equity concerns about performance-based assessments: perceived lower rigor and tracking, uneven implementation quality, and inequitable or unreliable scoring"
 id: equity-concerns-performance-based-assessments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

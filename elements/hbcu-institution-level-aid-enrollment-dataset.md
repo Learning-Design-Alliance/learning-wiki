@@ -3,7 +3,7 @@ type: element
 id: hbcu-institution-level-aid-enrollment-dataset
 title: Institution-level dataset on HBCU financial aid and enrollment around the 2012 PLUS credit-standard tightening
 description: "The article's evidence base is institution-level data used to \"examine financial aid and enrollment changes in the first two academic years affected by the new credit standards (2012-13 and 2013-14).\" It covers PLUS l..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

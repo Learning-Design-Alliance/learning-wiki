@@ -3,7 +3,7 @@ type: element
 id: rapid-aup-drafting-guide-six-topics
 title: Responsible and Acceptable Use Policy drafting guide organized by the six topics
 description: "The deck includes a drafting guide serving as \"a starting point\" for districts applying the six topics to their policies, with pages of do-and-do-not checklist items per topic."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

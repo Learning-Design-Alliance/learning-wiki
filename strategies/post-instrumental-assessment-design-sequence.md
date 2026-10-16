@@ -3,7 +3,7 @@ type: strategy
 id: post-instrumental-assessment-design-sequence
 title: "Post-instrumental assessment: certify the learner's accountable relation to AI-mediated work via a design sequence of naming the capacity, classifying AI use, and requiring evidence at the point of judgment"
 description: "This strategy implements post-instrumental assessment through a three-step design sequence: \"First, name the target capacity\", then decide which forms of AI use would scaffold versus replace that capacity, then requir..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

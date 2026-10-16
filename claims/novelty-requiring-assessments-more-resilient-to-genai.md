@@ -3,7 +3,7 @@ type: claim
 title: Assessments requiring novelty and originality were more resilient to AI-generated output
 description: Assessments requiring novelty and originality were more resilient to AI-generated output
 id: novelty-requiring-assessments-more-resilient-to-genai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

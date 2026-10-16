@@ -3,7 +3,7 @@ type: claim
 title: Among reviewed AI-personalized-learning studies, qualitative designs slightly outnumber quantitative designs, with mixed methods rare
 description: Among reviewed AI-personalized-learning studies, qualitative designs slightly outnumber quantitative designs, with mixed methods rare
 id: ai-pl-review-qualitative-dominance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Faculty members and students anticipate AI will transform education and professions, sharing concerns that excessive dependence could weaken cognitive skills
 description: Faculty members and students anticipate AI will transform education and professions, sharing concerns that excessive dependence could weaken cognitive skills
 id: long-term-ai-transformation-cognitive-skill-weakening-concerns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -79,3 +79,4 @@ Student long-term-effects sub-theme from the interviews. A participant described
 - [An epistemological account of human-GAI engagement lays a foundation for alternative approaches to teaching, assessment, professional development and AI governance](epistemological-gai-account-informs-teaching-assessment-governance.md) — related
 - [In first-year GenAI adoption in business higher education, curriculum-integrated modules reported enhanced student engagement, performance and employability, while fragmented approaches were more susceptible to ethical concerns, overreliance and inequality](genai-integration-depth-tradeoff-business-education.md) — related
 - [Teachers express concern that student overreliance on AI may degrade independent thinking and hands-on scientific skills](teacher-concern-overreliance-ai-degrades-skills.md) — possibly the same claim (merge candidate)
+- [Among 245 Indonesian undergraduates, majorities reported potential reduction of critical thinking when depending on AI (75%), excessive reliance risk (73%), misinformation (70%), unintentional plagiarism (69%) and algorithmic bias (40%)](malik-student-perceptions-ai-writing-percentages.md) — related

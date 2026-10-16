@@ -3,7 +3,7 @@ type: strategy
 id: convert-method-of-instruction-to-instruction-learning-interface
 title: Convert the data element Method of Instruction to Instruction/Learning Interface with morphology descriptions and paired generic outcomes
 description: The paper recommends restructuring the NCHEMS data element so that each instructional format is generic in kind and described in terms of the observable morphology of that format, and each generic instructional format...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

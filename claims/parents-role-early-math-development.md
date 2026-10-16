@@ -3,7 +3,7 @@ type: claim
 title: "Parents play an important role in young children's math development"
 description: "Parents play an important role in young children's math development"
 id: parents-role-early-math-development
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

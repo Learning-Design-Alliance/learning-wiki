@@ -155,6 +155,7 @@ Immediate understanding, near transfer, delayed retention and use in the setting
 - [Scaffolding and Fading](scaffolding-and-fading.md) — prompts for self-explanation should fade as learner expertise grows.
 
 ## Examples
+
 - Learners explain and revise a model after seeing conflicting evidence.
 - Students compare multiple solutions and defend which one best fits the criteria.
 - After a physics demonstration, learners explain why two objects accelerated differently, compare explanations with peers, and revise them after seeing force diagrams.
@@ -163,6 +164,7 @@ Immediate understanding, near transfer, delayed retention and use in the setting
 - **[Codecademy Debugging Exercises](https://www.codecademy.com)** — Requires learners to explain why a piece of code is incorrect and how to fix it, promoting conceptual understanding of programming principles.
 - **Prompted Self-Explanation in Math**: Asking a student, "Why can we divide both sides of this equation by 3?" after they perform the step.
 - [Induce self-explanation by prompting learners during study and problem solving](../strategies/prompt-learners-to-self-explain-during-study.md)
+- [Design self-explanation prompts aligned to target outcomes, favoring explanations of correct content](../strategies/align-self-explanation-prompts-with-target-outcomes.md)
 
 ### Illustrative
 

@@ -3,7 +3,7 @@ type: claim
 title: AI-supported PBL cohorts produced sixteen student-authored peer-reviewed publications and consistently high peer evaluations
 description: AI-supported PBL cohorts produced sixteen student-authored peer-reviewed publications and consistently high peer evaluations
 id: pbl-ai-sixteen-publications-high-peer-evaluations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Later cohorts fell off schedule for graduation at earlier ages, but the percentage off schedule by age 16 changed very little
 description: Later cohorts fell off schedule for graduation at earlier ages, but the percentage off schedule by age 16 changed very little
 id: off-schedule-earlier-but-stable-by-age-16
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

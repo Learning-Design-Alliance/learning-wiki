@@ -3,7 +3,7 @@ type: claim
 title: RTE provides an assessment of test-taking effort down to the level of individual item responses
 description: RTE provides an assessment of test-taking effort down to the level of individual item responses
 id: rte-assesses-effort-at-item-response-level
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

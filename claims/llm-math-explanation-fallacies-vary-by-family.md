@@ -3,7 +3,7 @@ type: claim
 title: Dominant logical fallacies in LLM mathematical explanations shift from family to family and across prompting modes
 description: Dominant logical fallacies in LLM mathematical explanations shift from family to family and across prompting modes
 id: llm-math-explanation-fallacies-vary-by-family
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

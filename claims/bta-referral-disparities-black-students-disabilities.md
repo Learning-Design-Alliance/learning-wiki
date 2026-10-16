@@ -3,7 +3,7 @@ type: claim
 title: Black students and students with disabilities are disproportionately referred for behavioral threat assessments
 description: Black students and students with disabilities are disproportionately referred for behavioral threat assessments
 id: bta-referral-disparities-black-students-disabilities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

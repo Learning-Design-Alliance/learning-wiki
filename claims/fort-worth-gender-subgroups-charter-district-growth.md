@@ -3,7 +3,7 @@ type: claim
 title: Fort Worth charter school male students significantly outgrew district-school male students in reading, while female students showed no significant sector difference
 description: Fort Worth charter school male students significantly outgrew district-school male students in reading, while female students showed no significant sector difference
 id: fort-worth-gender-subgroups-charter-district-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

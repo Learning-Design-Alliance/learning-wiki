@@ -3,7 +3,7 @@ type: claim
 title: GenAI training leaves total cognitive load comparable while marginally raising intrinsic cognitive load
 description: GenAI training leaves total cognitive load comparable while marginally raising intrinsic cognitive load
 id: genai-training-comparable-load-marginal-intrinsic-increase
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

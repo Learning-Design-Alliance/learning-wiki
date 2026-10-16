@@ -3,7 +3,7 @@ type: claim
 title: Expanding retrieval schedules have not shown consistent advantages over equally spaced or contracting schedules matched on total spacing
 description: Expanding retrieval schedules have not shown consistent advantages over equally spaced or contracting schedules matched on total spacing
 id: expanding-retrieval-schedules-are-not-superior-to-equal-or-contracting-schedules
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

@@ -4,7 +4,7 @@ id: chiu-et-al-2022-12-chapter-school-based-ai-curriculum
 title: Chiu et al. (2022) 12-chapter school-based AI curriculum
 description: A year-long, 12-chapter secondary-school AI curriculum covering machine learning, computer vision, speech and language processing, ethics, societal implications, and the future of work, developed by Chiu et al.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

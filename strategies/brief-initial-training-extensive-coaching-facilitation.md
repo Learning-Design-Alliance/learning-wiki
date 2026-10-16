@@ -3,7 +3,7 @@ type: strategy
 id: brief-initial-training-extensive-coaching-facilitation
 title: Brief initial training with extensive follow-up coaching and on-site facilitation for whole-school program implementation
 description: "The SFA® staff development model \"emphasizes a relatively brief initial training with extensive classroom follow-up, coaching, and group discussion.\" First-year schools receive a 3-day summer training plus 12 on-site..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: element
 id: python-matplotlib-module-development-technology
 title: Python with matplotlib as a module-development technology leveraging existing graduate research skills
 description: Python is an interpreted language typically used for desktop applications or server-side scripting rather than browser-run web applications.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

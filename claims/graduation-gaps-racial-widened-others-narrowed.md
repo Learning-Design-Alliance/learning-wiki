@@ -3,7 +3,7 @@ type: claim
 title: Graduation rates improved for all racial, ethnic, and economic groups, but racial and ethnic gaps increased while gender, poverty, and disability gaps declined
 description: Graduation rates improved for all racial, ethnic, and economic groups, but racial and ethnic gaps increased while gender, poverty, and disability gaps declined
 id: graduation-gaps-racial-widened-others-narrowed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -61,3 +61,4 @@ Subgroup trend analysis by race/ethnicity, gender, neighborhood poverty, and dis
 - African-American graduation rates across study institutions were largely stagnant from 2004 to 2010 while overall graduation rates rose 2.8 percentage points — related
 - Graduation-rate gaps between white and black students generally grew across gap-analysis institutions, reaching nearly 19 points by 2010 — related
 - A small set of public institutions achieved twin goals — 26 raised URM graduation rates by 12 or more points and narrowed gaps, while 17 saw URM rates decline and gaps widen by at least 7 points — related
+- Only the White–Black gap at grade 4 narrowed; gains for minority students did not consistently close racial/ethnic or gender achievement gaps — related

@@ -2,7 +2,7 @@
 type: theory
 title: Six-dimension framework of historical thinking skills for high school world history
 description: "The report organizes historical thinking into six aligned dimensions: historical argumentation (making, supporting, or assessing a historical claim in relation to evidence), historical causation, historical comparison..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

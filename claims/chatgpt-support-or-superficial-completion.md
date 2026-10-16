@@ -3,7 +3,7 @@ type: claim
 title: "ChatGPT's intuitive interface and instant feedback can either support learning or enable superficial task completion depending on integration"
 description: "ChatGPT's intuitive interface and instant feedback can either support learning or enable superficial task completion depending on integration"
 id: chatgpt-support-or-superficial-completion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -47,3 +47,4 @@ The article's opening conceptual assertion, stated without empirical data or sup
 - Generative AI can help people finish tasks more quickly but does not accelerate learning itself — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [Product-outcome studies report GenAI-related gains on product-quality measures but do not assess durable, transferable learning](genai-product-outcome-gains-superficial.md) — related
+- [Providing all students with instant personalised guidance at the same time is a challenge for flipped learning that ChatGPT-FLGA was designed to address](flipped-learning-personalised-guidance-gap.md) — related

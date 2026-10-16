@@ -3,7 +3,7 @@ type: strategy
 id: staff-familiar-with-students-approve-rosters
 title: Have staff familiar with the students and their classroom experiences approve rosters
 description: The brief recommends that roster approval be carried out by staff who know the students and their classroom experiences, rather than by staff without such knowledge.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

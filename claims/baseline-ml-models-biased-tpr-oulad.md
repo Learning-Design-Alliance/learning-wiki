@@ -3,7 +3,7 @@ type: claim
 title: Standard ML models predicting student pass/fail from VLE data exhibit biased true-positive rates across demographic subgroups
 description: Standard ML models predicting student pass/fail from VLE data exhibit biased true-positive rates across demographic subgroups
 id: baseline-ml-models-biased-tpr-oulad
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

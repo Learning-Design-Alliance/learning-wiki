@@ -3,7 +3,7 @@ type: element
 id: gameful-assessment-prototypes-two
 title: Two gameful assessment prototypes evaluated with Grades 3–7 students
 description: The article evaluates two “gameful assessment” prototypes — assessments incorporating features of games — with 391 Grade 3–7 students and 14 teachers in one Midwestern and one Northwestern school.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

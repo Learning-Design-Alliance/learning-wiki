@@ -3,7 +3,7 @@ type: claim
 title: Humanization works by systematically suppressing detector-salient surface cues — long-token ratio, AWL density, and lexical diversity — rather than fragmenting syntax
 description: Humanization works by systematically suppressing detector-salient surface cues — long-token ratio, AWL density, and lexical diversity — rather than fragmenting syntax
 id: humanization-suppresses-detector-salient-cues
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: principle
 id: theories-constrained-by-biological-hardware
 title: Cognitive theories should be constrained by the biological hardware, not merely by abstract machine-independent specification
 description: The paper argues that cognitive psychology, unlike artificial intelligence, must account for constraints imposed by the biological hardware that give cognition its human quality.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: "Among 421 SET-NLP studies, 61.3% demonstrate output or stronger (A2+) but only 11.6% evaluate outputs with intended users or stronger (A3+), a 49.7 percentage-point drop"
 description: "Among 421 SET-NLP studies, 61.3% demonstrate output or stronger (A2+) but only 11.6% evaluate outputs with intended users or stronger (A3+), a 49.7 percentage-point drop"
 id: set-nlp-actionability-discontinuity-a2-a3
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

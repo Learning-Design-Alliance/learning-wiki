@@ -3,7 +3,7 @@ type: strategy
 id: monitor-tutoring-implementation-and-attendance-regularly
 title: Monitor tutoring implementation and attendance regularly during program rollout
 description: This recommendation directs districts to establish regular monitoring of how a tutoring program is being implemented and whether students attend sessions, as an ongoing support activity after selection.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

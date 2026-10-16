@@ -3,7 +3,7 @@ type: strategy
 id: design-for-feedback-depth-and-reflection-task-specificity
 title: Design ASR-supported speaking instruction around feedback depth and reflection-task specificity rather than technical accuracy alone
 description: "Based on the finding that recognition accuracy did not trigger reflection while corrective feedback and reflection tasks did, the article recommends that \"instructional design should focus on the depth of feedback and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

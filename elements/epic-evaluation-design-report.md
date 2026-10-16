@@ -3,7 +3,7 @@ type: element
 id: epic-evaluation-design-report
 title: Design report for the evaluation of the Effective Practice Incentive Community (EPIC) initiative
 description: A design report by Mathematica Policy Research researchers for evaluating the Effective Practice Incentive Community initiative, an education program.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Online college courses are a rapidly expanding feature of higher education, with little prior research on their relative effects
 description: Online college courses are a rapidly expanding feature of higher education, with little prior research on their relative effects
 id: online-courses-expanding-little-research
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

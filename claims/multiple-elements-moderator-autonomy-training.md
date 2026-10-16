@@ -3,7 +3,7 @@ type: claim
 title: More effective autonomy-support training programs trained multiple elements of autonomy support
 description: More effective autonomy-support training programs trained multiple elements of autonomy support
 id: multiple-elements-moderator-autonomy-training
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

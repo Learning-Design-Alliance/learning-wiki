@@ -3,7 +3,7 @@ type: strategy
 id: constructive-conflict-management-clg
 title: Manage group conflict constructively by having members observe one another and treat differences as strength
 description: The guide advises facilitators to treat conflict in collaborative learning groups as potentially constructive rather than something to eliminate.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

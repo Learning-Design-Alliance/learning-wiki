@@ -3,7 +3,7 @@ type: claim
 title: Most surveyed Algerian university teachers of English (61.9%) report presenting words and corresponding graphics simultaneously
 description: "Most surveyed Algerian university teachers of English (61.9%) report presenting words and corresponding graphics simultaneously"
 id: teachers-report-simultaneous-words-graphics-presentation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

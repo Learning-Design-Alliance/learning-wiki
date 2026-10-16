@@ -3,7 +3,7 @@ type: claim
 title: The four Power4Kids interventions delivered about 100 hours of pull-out instruction in small groups of three students over one school year
 description: The four Power4Kids interventions delivered about 100 hours of pull-out instruction in small groups of three students over one school year
 id: power4kids-100-hours-small-group-pullout-instruction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

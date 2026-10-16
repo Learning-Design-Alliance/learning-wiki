@@ -3,7 +3,7 @@ type: claim
 title: Teacher residency completers are more effective and more likely to stay in teaching than teachers entering through other pathways or without preparation
 description: Teacher residency completers are more effective and more likely to stay in teaching than teachers entering through other pathways or without preparation
 id: residency-completers-more-effective-and-retained
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

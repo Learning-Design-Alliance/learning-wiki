@@ -3,7 +3,7 @@ type: strategy
 id: multiple-measures-dc-placement
 title: Use multiple measures, not single test cut scores, to determine eligibility for dual credit courses
 description: "The brief argues cut scores \"should be a floor, not a ceiling,\" because a single TSI score disproportionately limits access for Black, Latino, and low-income students who are less likely to meet TSI standards."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

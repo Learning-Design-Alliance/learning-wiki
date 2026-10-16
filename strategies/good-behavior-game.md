@@ -67,7 +67,7 @@ GBG applies group contingency and reinforcement principles to reduce disruption 
 - [Implement CW-FIT as 30- to 60-minute sessions three to four times per week, fading monitoring and rewards as behavior improves](cw-fit-session-frequency-fading-strategy.md)
 
 ## Examples
-- **PAX Good Behavior Game** (Paxis Institute) — disseminated in thousands of US schools; teacher training plus kernel-approach tools. https://www.paxis.org
+- **[PAX Good Behavior Game](../products/pax-good-behavior-game.md)** (Paxis Institute) — disseminated in thousands of US schools; teacher training plus kernel-approach tools. https://www.paxis.org
 - **Barrish, Saunders & Wolf (1969)** — the original demonstration in a fourth-grade classroom, reducing out-of-seat and talking-out behavior during math using a team tally on the blackboard.
 - **Baltimore Prevention Program / Kellam trials** — GBG delivered in first-grade classrooms as part of a randomized preventive trial tracking students into adolescence and adulthood.
 

@@ -3,7 +3,7 @@ type: claim
 title: IELTS-task-instructed learners outperformed TOEFL-materials-instructed learners on listening post-test performance
 description: IELTS-task-instructed learners outperformed TOEFL-materials-instructed learners on listening post-test performance
 id: ielts-task-instruction-outperforms-toefl-listening
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -4,7 +4,7 @@ id: fifteen-country-access-and-depth-profile-dataset-table-2
 title: Fifteen-country access and depth profile dataset (Table 2)
 description: A dataset compiled by Adrian-Marius Dumitran that codes programming-language policy and AI-literacy access across fifteen national upper-secondary education systems for comparative curriculum and governance analysis.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

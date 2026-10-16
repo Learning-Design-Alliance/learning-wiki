@@ -2,7 +2,7 @@
 type: theory
 title: "The Comprehension Hypothesis: comprehensible input as the crucial ingredient of second language acquisition"
 description: The Comprehension Hypothesis (CH) states that language is acquired when learners understand messages, i.e.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28
@@ -60,4 +60,4 @@ The Comprehension Hypothesis (CH) states that language is acquired when learners
 -
 
 ## Key Sources
-- Ponniah, R. J. (2011). The Effectiveness of the Comprehension Hypothesis: A Review on the Current Research on Incidental Vocabulary Acquisition. i-manager's Journal on English Language Teaching, 1(2), April-June 2011. https://eric.ed.gov/?id=EJ1071042
+- Ponniah, R. J. (2011). The Effectiveness of the Comprehension Hypothesis: A Review on the Current Research on Incidental Vocabulary Acquisition. i-manager's Journal on English Language Teaching, 1(2), April-June 2011. https://eric.ed.gov/?id=EJ1071042. [doi:10.26634/jelt.1.2.1452](https://doi.org/10.26634/jelt.1.2.1452)

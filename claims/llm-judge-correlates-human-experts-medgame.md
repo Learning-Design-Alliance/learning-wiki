@@ -3,7 +3,7 @@ type: claim
 title: LLM-as-a-Judge scores correlate with blinded human expert judgments, more strongly for Medical Narrative Generation than Story Direction
 description: LLM-as-a-Judge scores correlate with blinded human expert judgments, more strongly for Medical Narrative Generation than Story Direction
 id: llm-judge-correlates-human-experts-medgame
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

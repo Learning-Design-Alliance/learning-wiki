@@ -3,7 +3,7 @@ type: claim
 title: Required numbers of schools differ across school, classroom, and student random-assignment designs
 description: Required numbers of schools differ across school, classroom, and student random-assignment designs
 id: required-schools-vary-by-assignment-level
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

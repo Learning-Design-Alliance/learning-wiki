@@ -3,7 +3,7 @@ type: claim
 title: Prior evidence on whether labels change public perceptions of people with sexual offences is mixed, with some studies finding label effects and others finding none
 description: Prior evidence on whether labels change public perceptions of people with sexual offences is mixed, with some studies finding label effects and others finding none
 id: mixed-prior-evidence-label-effects-forensic
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

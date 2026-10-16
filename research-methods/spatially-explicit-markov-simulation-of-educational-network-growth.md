@@ -3,7 +3,7 @@ type: research-method
 id: spatially-explicit-markov-simulation-of-educational-network-growth
 title: Spatially explicit Markov simulation of educational network growth
 description: "A discrete-time stochastic model with annual transitions representing both school robotics-program development and each school's relationship to the ARC network."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10
@@ -29,4 +29,4 @@ A discrete-time stochastic model with annual transitions representing both schoo
 -
 
 ## Key Sources
-- Jacobson, M. J.; Rodriguez-Rivera, G.; Drineas, P.; and Xue, Y. (2026). Teaching AI, Robotics, & Community: A Hubs-Based K–12 Education Framework for Reaching Rural Schools. https://arxiv.org/abs/2609.18072
+- Jacobson, M. J.; Rodriguez-Rivera, G.; Drineas, P.; and Xue, Y. (2026). Teaching AI, Robotics, & Community: A Hubs-Based K–12 Education Framework for Reaching Rural Schools. https://arxiv.org/abs/2609.18072. [doi:10.48550/arxiv.2609.18072](https://doi.org/10.48550/arxiv.2609.18072)

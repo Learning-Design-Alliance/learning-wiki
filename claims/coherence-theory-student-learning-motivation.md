@@ -3,7 +3,7 @@ type: claim
 title: Coherent instruction is theorized to promote achievement by supporting connected learning experiences and student motivation
 description: Coherent instruction is theorized to promote achievement by supporting connected learning experiences and student motivation
 id: coherence-theory-student-learning-motivation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

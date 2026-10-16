@@ -3,7 +3,7 @@ type: claim
 title: The prerequisite-violating knowledge-state pattern is primarily attributable to Q-matrix misspecification, and the original hierarchy shows superior predictive efficiency
 description: The prerequisite-violating knowledge-state pattern is primarily attributable to Q-matrix misspecification, and the original hierarchy shows superior predictive efficiency
 id: qmatrix-misspecification-explains-hierarchy-violations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

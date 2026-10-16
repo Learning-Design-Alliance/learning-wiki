@@ -3,7 +3,7 @@ type: claim
 title: Carbon per Accuracy as a sustainability metric likely rewards under-trained models because accuracy scales non-linearly with compute
 description: Carbon per Accuracy as a sustainability metric likely rewards under-trained models because accuracy scales non-linearly with compute
 id: carbon-per-accuracy-rewards-undertrained-models
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

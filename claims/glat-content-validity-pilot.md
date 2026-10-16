@@ -3,7 +3,7 @@ type: claim
 title: A 200-student pilot showed strong content validity across relevance, comprehensiveness, comprehensibility, and face validity
 description: A 200-student pilot showed strong content validity across relevance, comprehensiveness, comprehensibility, and face validity
 id: glat-content-validity-pilot
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

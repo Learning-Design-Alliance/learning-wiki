@@ -63,7 +63,7 @@ Frequent reflection builds the self-monitoring component of self-regulated learn
 - [Exam Wrappers](exam-wrappers.md) — post-assessment reflection on study strategies
 
 ## Examples
-- **Exam wrappers** (widely used in postsecondary STEM, e.g., Carnegie Mellon's Eberly Center materials): after each exam, students answer a short form about how they studied and what they will change; instructors review aggregated responses to adjust teaching.
+- **[Exam wrappers](exam-wrappers.md)** (widely used in postsecondary STEM, e.g., Carnegie Mellon's Eberly Center materials): after each exam, students answer a short form about how they studied and what they will change; instructors review aggregated responses to adjust teaching.
 - **Exit tickets with "muddiest point" prompts** — students submit the least-clear idea at the end of class; the instructor opens the next class addressing common confusions.
 - **Digital journals** (e.g., OneNote Class Notebook, Seesaw) — students reflect weekly with text, audio, or annotated work samples, giving a timestamped record of growth for portfolio review.
 

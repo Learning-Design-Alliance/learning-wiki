@@ -3,7 +3,7 @@ type: design
 id: newcomer-school-element
 title: Newcomer schools as self-contained learning environments for recently-arrived immigrant English Learners
 description: "Newcomer schools are \"an alternative, relatively self-contained learning environment specifically for newcomer students,\" created because \"traditional schools are not organized to meet the needs and challenges that ne..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

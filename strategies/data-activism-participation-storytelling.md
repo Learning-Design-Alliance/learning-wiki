@@ -3,7 +3,7 @@ type: strategy
 id: data-activism-participation-storytelling
 title: Data activism through intentional participation, student-centric learning analytics, and storytelling
 description: "The article advocates data activism, defined via Milan and Van der Velden as action that tangles with new forms of information and knowledge production and can be seen \"as an exercise in creating alternative ways of s..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Static percentile screening cut points carried across norm sets can under-identify students who remain below grade level
 description: Static percentile screening cut points carried across norm sets can under-identify students who remain below grade level
 id: static-percentile-cutpoints-underidentify-post-renorming
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

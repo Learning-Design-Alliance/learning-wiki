@@ -2,7 +2,7 @@
 type: theory
 title: Strategic Human Resource Management as a Framework for Instructional Improvement
 description: Strategic HRM integrates various human resource management practices to enable and encourage employees to meet organizational goals.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Sensible scene shows a statistically distinguishable serial indirect association with behavioral intention through emotional resonance and cognitive evaluation in a constrained bootstrap model
 description: Sensible scene shows a statistically distinguishable serial indirect association with behavioral intention through emotional resonance and cognitive evaluation in a constrained bootstrap model
 id: serial-indirect-association-sensible-scene-to-behavioral-intention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

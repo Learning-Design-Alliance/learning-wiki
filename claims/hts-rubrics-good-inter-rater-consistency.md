@@ -3,7 +3,7 @@ type: claim
 title: Trained scorers applied the historical thinking skills rubrics with good overall inter-rater consistency
 description: Trained scorers applied the historical thinking skills rubrics with good overall inter-rater consistency
 id: hts-rubrics-good-inter-rater-consistency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

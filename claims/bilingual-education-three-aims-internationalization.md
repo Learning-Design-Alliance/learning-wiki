@@ -3,7 +3,7 @@ type: claim
 title: "Indonesian university bilingual programs pursue three aims: teaching overseas, international-standard schools, and global competence"
 description: "Indonesian university bilingual programs pursue three aims: teaching overseas, international-standard schools, and global competence"
 id: bilingual-education-three-aims-internationalization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

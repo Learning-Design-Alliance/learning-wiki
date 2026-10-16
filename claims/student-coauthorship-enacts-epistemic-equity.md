@@ -3,7 +3,7 @@ type: claim
 title: Student co-authorship and open-source release enacted epistemic equity, transitioning students from data sources to knowledge producers
 description: Student co-authorship and open-source release enacted epistemic equity, transitioning students from data sources to knowledge producers
 id: student-coauthorship-enacts-epistemic-equity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

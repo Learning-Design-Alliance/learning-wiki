@@ -3,14 +3,14 @@ type: strategy
 id: summer-programs-for-els
 title: Offer summer and out-of-school-time programs for current-ELs and dually-identified students
 description: "Because EL groups lost more learning during summers than never-ELs despite faster school-year growth, the author recommends that \"schools and communities might consider offering programs during summers and other out-o..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 sources:
   - id: johnson-2022
-    resource: "https://journals.sagepub.com/doi/abs/10.1177/08959048211049419"
-    title: "Johnson, A. (2022). Achievement and growth for English Learners. (NWEA Center for School and Student Progress Working Paper). https://journals.sagepub.com/doi/abs/10.1177/08959048211049419"
+    resource: "https://doi.org/10.1177/08959048211049419"
+    title: "Johnson, A. (2022). Achievement and growth for English Learners. *Educational Policy, 37*(4), 1044–1069. https://doi.org/10.1177/08959048211049419"
     author: Johnson, A
 ---
 
@@ -51,4 +51,4 @@ Because EL groups lost more learning during summers than never-ELs despite faste
 -
 
 ## Key Sources
-- Johnson, A. (2022). Achievement and growth for English Learners. (NWEA Center for School and Student Progress Working Paper). https://journals.sagepub.com/doi/abs/10.1177/08959048211049419
+- Johnson, A. (2022). Achievement and growth for English Learners. *Educational Policy, 37*(4), 1044–1069. https://doi.org/10.1177/08959048211049419

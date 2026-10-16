@@ -3,7 +3,7 @@ type: claim
 title: Nearly half the variance in kindergarten-entry scores lies between districts, with less variance in achievement trends at the district level
 description: Nearly half the variance in kindergarten-entry scores lies between districts, with less variance in achievement trends at the district level
 id: district-level-variance-kindergarten-entry-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

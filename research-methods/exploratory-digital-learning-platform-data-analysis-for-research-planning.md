@@ -3,7 +3,7 @@ type: research-method
 id: exploratory-digital-learning-platform-data-analysis-for-research-planning
 title: Exploratory digital learning platform data analysis for research planning
 description: The report advises that DLPs offer access to data on large numbers of users or full user populations, usable for secondary analysis or to refine hypotheses and run power calculations.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

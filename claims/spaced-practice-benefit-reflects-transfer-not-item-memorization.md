@@ -3,7 +3,7 @@ type: claim
 title: The authors attribute the spaced-practice knowledge benefit to deeper learning or transfer, because quiz and final-test items were never repeated
 description: The authors attribute the spaced-practice knowledge benefit to deeper learning or transfer, because quiz and final-test items were never repeated
 id: spaced-practice-benefit-reflects-transfer-not-item-memorization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

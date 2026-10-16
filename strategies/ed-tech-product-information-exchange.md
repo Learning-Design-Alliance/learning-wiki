@@ -3,7 +3,7 @@ type: strategy
 id: ed-tech-product-information-exchange
 title: Establish a national Ed-tech Product Information Exchange website
 description: "The report recommends a national online \"Ed-tech Product Information Exchange\" website that would list and describe available ed-tech products, report formal research studies and pilot studies with results, report con..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

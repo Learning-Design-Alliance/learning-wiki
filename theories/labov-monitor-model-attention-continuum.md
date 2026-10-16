@@ -2,7 +2,7 @@
 type: theory
 title: "Labov's monitor model: monitoring as attention paid to speech form on a continuum"
 description: "Labov's model, developed from observed variation in first language speech, treats monitoring as attention paid to the form of speech, which can be paid in greater or lesser degrees."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

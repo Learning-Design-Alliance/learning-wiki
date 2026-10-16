@@ -2,7 +2,7 @@
 type: theory
 title: Constructivist prescriptive principles for learning environments
 description: "The digest describes constructivism as the view prominent in the late 1980s that \"knowledge is individually constructed and socially co-constructed by learners based on their interpretations of experiences in the worl..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

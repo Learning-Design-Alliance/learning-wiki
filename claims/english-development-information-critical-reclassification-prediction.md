@@ -3,7 +3,7 @@ type: claim
 title: Information about English-language development is critical for accurately predicting the grade an EL will reclassify
 description: Information about English-language development is critical for accurately predicting the grade an EL will reclassify
 id: english-development-information-critical-reclassification-prediction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -46,4 +46,4 @@ Authors' interpretation of the Arizona district modeling results reported in the
 - As reclassification policy complexity increases, the strength of the relationship between eligibility and reclassification diminishes — related
 - The kind of test-based reclassification criteria, not the number, is likely the more salient determinant of long-term EL status — related
 - [The SREM predicts time to reclassification more accurately than a conventional discrete-time hazard model](srem-outperforms-discrete-time-hazard-accuracy.md) — related
-- [Despite improvements in English proficiency, only about half of K-cohort ELs were reclassified by the end of elementary school, revealing a gap between proficiency and reclassification](proficiency-reclassification-gap-ltels.md) — related
+- Despite improvements in English proficiency, only about half of K-cohort ELs were reclassified by the end of elementary school, revealing a gap between proficiency and reclassification — related

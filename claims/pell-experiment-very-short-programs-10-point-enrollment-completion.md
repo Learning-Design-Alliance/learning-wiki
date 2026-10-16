@@ -3,7 +3,7 @@ type: claim
 title: Offering experimental Pell Grants for very short-term occupational training programs increased program enrollment and completion by about 10 percentage points
 description: Offering experimental Pell Grants for very short-term occupational training programs increased program enrollment and completion by about 10 percentage points
 id: pell-experiment-very-short-programs-10-point-enrollment-completion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Students in the style-informed EFL classes reported that the teaching procedure was useful and that their interests and motivation increased
 description: Students in the style-informed EFL classes reported that the teaching procedure was useful and that their interests and motivation increased
 id: students-report-increased-motivation-style-informed-elt
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

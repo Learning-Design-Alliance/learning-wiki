@@ -3,7 +3,7 @@ type: claim
 title: "Exposure to mid-year entrants has small negative short-run effects on stable students' math and ELA test scores in NYC"
 description: "Exposure to mid-year entrants has small negative short-run effects on stable students' math and ELA test scores in NYC"
 id: mid-year-entry-small-negative-short-run-effects-stable-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

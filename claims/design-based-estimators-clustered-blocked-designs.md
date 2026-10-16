@@ -3,7 +3,7 @@ type: claim
 title: The developed estimators apply to a wide range of education research designs, including clustered and blocked designs
 description: The developed estimators apply to a wide range of education research designs, including clustered and blocked designs
 id: design-based-estimators-clustered-blocked-designs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

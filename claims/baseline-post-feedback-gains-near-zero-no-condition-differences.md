@@ -3,7 +3,7 @@ type: claim
 title: Immediate post-feedback improvement is near zero on average and does not differ significantly across feedback conditions
 description: Immediate post-feedback improvement is near zero on average and does not differ significantly across feedback conditions
 id: baseline-post-feedback-gains-near-zero-no-condition-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

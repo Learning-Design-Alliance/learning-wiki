@@ -3,7 +3,7 @@ type: strategy
 id: reading-partners-tiered-tutor-training-strategy
 title: Tiered training and ongoing supervision for volunteer tutors and AmeriCorps members
 description: The program trains its two staffing tiers differently.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

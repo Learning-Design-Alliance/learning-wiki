@@ -3,7 +3,7 @@ type: design
 id: residencyrl-practice-based-clinical-mastery
 title: Practice-based clinical mastery through progressively challenging simulated encounters
 description: "The article's organizing premise is that clinical competence, for AI as for physicians, is developed through practice rather than acquired through static knowledge testing alone."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

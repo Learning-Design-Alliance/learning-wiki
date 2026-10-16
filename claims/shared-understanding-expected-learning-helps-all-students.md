@@ -3,7 +3,7 @@ type: claim
 title: Developing a common understanding of expected learning helps all students succeed, not only those with school-aligned prior knowledge
 description: Developing a common understanding of expected learning helps all students succeed, not only those with school-aligned prior knowledge
 id: shared-understanding-expected-learning-helps-all-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

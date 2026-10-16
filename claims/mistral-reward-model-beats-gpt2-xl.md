@@ -3,7 +3,7 @@ type: claim
 title: "Mistral-7B reward model outperforms GPT2-XL on Hit@k ranking and Pairwise Accuracy for proxy preference discrimination, at higher computational cost"
 description: "Mistral-7B reward model outperforms GPT2-XL on Hit@k ranking and Pairwise Accuracy for proxy preference discrimination, at higher computational cost"
 id: mistral-reward-model-beats-gpt2-xl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

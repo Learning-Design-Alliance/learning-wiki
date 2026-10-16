@@ -3,7 +3,7 @@ type: claim
 title: "An ICAP theory article reports, second-hand and without describing the design, a study in which concept mapping with a peer enhanced learning more than concept mapping alone"
 description: "An ICAP theory article reports, second-hand and without describing the design, a study in which concept mapping with a peer enhanced learning more than concept mapping alone"
 id: interactive-beats-constructive-concept-mapping
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

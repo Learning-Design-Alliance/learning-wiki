@@ -3,7 +3,7 @@ type: element
 id: chicago-florida-charter-attainment-dataset
 title: Chicago and Florida administrative data for estimating charter high school attainment effects
 description: The study draws on data from Chicago and Florida to estimate the effects of attending a charter high school on high school completion and college attendance.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

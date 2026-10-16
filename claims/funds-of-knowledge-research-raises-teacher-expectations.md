@@ -3,7 +3,7 @@ type: claim
 title: Teachers who took part in funds of knowledge household research came to view their minority students as competent and raised their expectations of them.
 description: Teachers who took part in funds of knowledge household research came to view their minority students as competent and raised their expectations of them.
 id: funds-of-knowledge-research-raises-teacher-expectations
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

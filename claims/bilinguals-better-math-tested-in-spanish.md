@@ -3,7 +3,7 @@ type: claim
 title: Spanish–English bilinguals performed better on kindergarten mathematics assessments when tested in Spanish
 description: Spanish–English bilinguals performed better on kindergarten mathematics assessments when tested in Spanish
 id: bilinguals-better-math-tested-in-spanish
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

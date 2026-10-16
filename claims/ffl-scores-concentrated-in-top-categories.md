@@ -4,7 +4,7 @@ title: Most school leaders received scores in the top two performance categories
 description: Most school leaders received scores in the top two performance categories on FFL-measured practices
 id: ffl-scores-concentrated-in-top-categories
 aliases: [ffl-scores-cluster-top-performance-levels]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

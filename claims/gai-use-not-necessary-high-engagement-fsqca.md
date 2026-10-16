@@ -3,7 +3,7 @@ type: claim
 title: High GAI use is not a necessary condition for high learning engagement, and no single condition is strictly necessary
 description: High GAI use is not a necessary condition for high learning engagement, and no single condition is strictly necessary
 id: gai-use-not-necessary-high-engagement-fsqca
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
@@ -65,3 +65,4 @@ Same necessity analysis. Relatedness need satisfaction passed the consistency th
 - [The comprehensive psychological need satisfaction configuration (competence core) has the highest coverage for high learning engagement, with GAI use unconstrained](comprehensive-need-satisfaction-configuration-principal.md) — related
 - [No barrier is necessary and no barrier configuration is sufficient for low AI readiness (fsQCA null result)](fsqca-no-necessary-or-sufficient-barrier-low-readiness.md) — related
 - [GAI use appears as a core condition only in a supplementary autonomy–relatedness configuration with low unique coverage](gai-core-only-supplementary-autonomy-configuration.md) — related
+- [Well-designed games can promote persistence in practice and high-quality engagement, and when basic needs of autonomy, competence, and relatedness are met, learning becomes its own reward, reducing the temptation to outsource cognitive effort to LLMs.](well-designed-games-foster-practice-and-intrinsic-motivation.md) — related

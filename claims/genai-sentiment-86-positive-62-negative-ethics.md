@@ -3,7 +3,7 @@ type: claim
 title: "Sentiment toward GenAI in the course was 86% positive overall, while ethical concerns generated 62% negative sentiment"
 description: "Sentiment toward GenAI in the course was 86% positive overall, while ethical concerns generated 62% negative sentiment"
 id: genai-sentiment-86-positive-62-negative-ethics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

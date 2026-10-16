@@ -3,7 +3,7 @@ type: strategy
 id: magnetic-reading-foundations-professional-learning
 title: Tiered professional learning for Magnetic Reading Foundations implementation
 description: Curriculum Associates offers research-driven professional learning for new, practicing, and advanced users, focused on preparing teachers to use strategic routines, content-rich decodable texts, and targeted assessmen...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

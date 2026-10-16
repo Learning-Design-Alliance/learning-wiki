@@ -3,7 +3,7 @@ type: claim
 title: On Spanish sentiment, the 2026 frontier model shows no advantage over the cheap model, with Haiku zero-shot at 0.923 versus Opus zero-shot at 0.884 and the head-to-head McNemar favoring Haiku
 description: On Spanish sentiment, the 2026 frontier model shows no advantage over the cheap model, with Haiku zero-shot at 0.923 versus Opus zero-shot at 0.884 and the head-to-head McNemar favoring Haiku
 id: frontier-no-spanish-sentiment-advantage-over-cheap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

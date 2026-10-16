@@ -3,7 +3,7 @@ type: element
 id: randomized-survey-experiment-parent-school-preferences
 title: "Randomized survey experiment for isolating parents' latent school preferences"
 description: "The study uses a randomized survey experiment as its method for measuring parents' preferences for school qualities."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -8,7 +8,7 @@ aliases:
 title: "To&Through Project"
 description: "The To&Through Project at the UChicago Consortium on School Research tracks Chicago Public Schools students from high school through college and publishes the data in public online tools."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

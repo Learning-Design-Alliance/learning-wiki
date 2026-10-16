@@ -3,7 +3,7 @@ type: claim
 title: Psycho Analyst, a GPT-4-based model enhanced with DSM-5 and PHQ-8 guidelines, achieved F1 and Macro-F1 scores of 0.929 and 0.949 on the DAIC-WOZ dataset
 description: Psycho Analyst, a GPT-4-based model enhanced with DSM-5 and PHQ-8 guidelines, achieved F1 and Macro-F1 scores of 0.929 and 0.949 on the DAIC-WOZ dataset
 id: psycho-analyst-f1-daic-woz
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

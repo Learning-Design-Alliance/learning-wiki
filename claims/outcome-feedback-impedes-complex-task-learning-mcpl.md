@@ -3,7 +3,7 @@ type: claim
 title: Outcome feedback (mere knowledge of results) impedes learning of complex tasks in the multiple-cue probability learning paradigm
 description: Outcome feedback (mere knowledge of results) impedes learning of complex tasks in the multiple-cue probability learning paradigm
 id: outcome-feedback-impedes-complex-task-learning-mcpl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

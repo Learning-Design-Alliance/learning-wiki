@@ -3,7 +3,7 @@ type: claim
 title: "Two teacher-researchers using the AMTI in real classes found the collected data informative and useful, demonstrating the model's feasibility"
 description: "Two teacher-researchers using the AMTI in real classes found the collected data informative and useful, demonstrating the model's feasibility"
 id: amti-case-studies-feasibility-data-informative
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

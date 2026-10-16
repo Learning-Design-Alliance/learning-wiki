@@ -3,7 +3,7 @@ type: claim
 title: Houston CMO-affiliated charter students outgrew the state average in both subjects while independent charter students did not differ significantly
 description: Houston CMO-affiliated charter students outgrew the state average in both subjects while independent charter students did not differ significantly
 id: houston-cmo-charters-outgrow-state-independents-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

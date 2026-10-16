@@ -3,7 +3,7 @@ type: claim
 title: Contract grading yields more total work from students, especially skilled writers who previously skipped learning tasks
 description: Contract grading yields more total work from students, especially skilled writers who previously skipped learning tasks
 id: contract-yields-more-student-work
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

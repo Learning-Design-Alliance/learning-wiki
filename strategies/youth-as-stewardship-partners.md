@@ -3,7 +3,7 @@ type: strategy
 id: youth-as-stewardship-partners
 title: Engage youth as partners in stewardship rather than as subjects to be taught
 description: The guide promotes a partnership approach in which young people lead their own learning and stewardship projects.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

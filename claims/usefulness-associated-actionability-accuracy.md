@@ -3,7 +3,7 @@ type: claim
 title: Perceived usefulness of response-level LLM feedback is most strongly associated with actionability and perceived accuracy
 description: Perceived usefulness of response-level LLM feedback is most strongly associated with actionability and perceived accuracy
 id: usefulness-associated-actionability-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

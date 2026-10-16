@@ -3,7 +3,7 @@ type: claim
 title: Perceived policy clarity amplifies both the protective association of reflective use and the risk association of unreflective use with impostor syndrome
 description: Perceived policy clarity amplifies both the protective association of reflective use and the risk association of unreflective use with impostor syndrome
 id: policy-clarity-amplifies-use-style-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

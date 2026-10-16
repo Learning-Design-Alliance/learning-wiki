@@ -3,7 +3,7 @@ type: claim
 title: A $1,000 per-pupil spending increase across high school raised graduation likelihood by 8.2 percentage points, and 3 consecutive years of increased high school spending raised college-readiness standards attainment in math and reading
 description: A $1,000 per-pupil spending increase across high school raised graduation likelihood by 8.2 percentage points, and 3 consecutive years of increased high school spending raised college-readiness standards attainment in...
 id: lcff-spending-graduation-college-readiness-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

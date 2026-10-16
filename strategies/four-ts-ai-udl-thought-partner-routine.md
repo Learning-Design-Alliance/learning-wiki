@@ -3,7 +3,7 @@ type: strategy
 id: four-ts-ai-udl-thought-partner-routine
 title: "The Four T's: Tell, Tinker, Tweak, Transfer for using an AI UDL thought partner"
 description: "The Four T's is the authors' published four-step routine for engaging with LUDIA, first released in 2023 and free to access."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

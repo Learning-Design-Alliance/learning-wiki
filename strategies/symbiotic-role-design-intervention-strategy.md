@@ -3,7 +3,7 @@ type: strategy
 id: symbiotic-role-design-intervention-strategy
 title: Design clearly defined roles and collaborative interaction rules to empower learners and their AI partners
 description: The article developed a role-based intervention strategy for human-GAI online collaboration, grounded in symbiosis theory.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

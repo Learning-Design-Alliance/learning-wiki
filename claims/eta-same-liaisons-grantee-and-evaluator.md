@@ -3,7 +3,7 @@ type: claim
 title: In two federal youth initiatives, the same liaisons provided evaluation technical assistance to both the grantee service-providing group and the local evaluator
 description: In two federal youth initiatives, the same liaisons provided evaluation technical assistance to both the grantee service-providing group and the local evaluator
 id: eta-same-liaisons-grantee-and-evaluator
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Classroom-scale data (5-80 samples per misconception) is insufficient for reliable tutor-model misconception acquisition
 description: Classroom-scale data (5-80 samples per misconception) is insufficient for reliable tutor-model misconception acquisition
 id: tutor-model-sample-efficiency-classroom-insufficient
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

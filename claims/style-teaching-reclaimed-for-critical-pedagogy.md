@@ -3,7 +3,7 @@ type: claim
 title: Teaching style can be reclaimed as an effective tool for socially responsible rhetorical communication
 description: Teaching style can be reclaimed as an effective tool for socially responsible rhetorical communication
 id: style-teaching-reclaimed-for-critical-pedagogy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: design
 id: epic-michigan-district-covid-response-study
 title: EPIC study of Michigan school district responses to the COVID-19 pandemic
 description: "The Education Policy Innovation Collaborative (EPIC) at Michigan State University is conducting a study of \"Michigan school district responses to the COVID-19 pandemic and efforts to support student learning.\" The stu..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

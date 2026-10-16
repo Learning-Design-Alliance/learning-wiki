@@ -3,7 +3,7 @@ type: strategy
 id: ra-extended-pd-with-coaching
 title: Sustained, coached professional development over up to two years for RA implementation
 description: "The RA models require long-duration professional development rather than one-off training: in whole-grade and whole-school variations, \"Teachers receive ten day-long professional development sessions over a period of..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

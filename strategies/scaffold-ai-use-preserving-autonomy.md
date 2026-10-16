@@ -3,7 +3,7 @@ type: strategy
 id: scaffold-ai-use-preserving-autonomy
 title: Scaffold AI use without undermining student autonomy through structured prompts, ethical checklists, and reflection journals
 description: "The paper recommends that educators and instructional designers \"scaffold AI use without undermining student autonomy\" by providing clear structures such as step-by-step prompts, a checklist of ethical concepts, or re..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

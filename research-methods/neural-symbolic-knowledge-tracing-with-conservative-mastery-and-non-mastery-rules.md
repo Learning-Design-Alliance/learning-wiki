@@ -3,7 +3,7 @@ type: research-method
 id: neural-symbolic-knowledge-tracing-with-conservative-mastery-and-non-mastery-rules
 title: Neural-symbolic knowledge tracing with conservative mastery and non-mastery rules
 description: The article recommends encoding pedagogically motivated constraints as learnable-weight symbolic rules that modulate neural predictions when simple evidence patterns occur in the interaction history.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11
@@ -29,4 +29,4 @@ The article recommends encoding pedagogically motivated constraints as learnable
 -
 
 ## Key Sources
-- Hooshyar, D.; Šír, G.; Yang, Y.; Kärkkäinen, T.; Hämäläinen, R.; Krivich, E.; Cukurova, M.; Gašević, D.; Azevedo, R. (2026). Neural-Symbolic Knowledge Tracing: Injecting Educational Knowledge into Deep Learning for Responsible Learner Modelling. arXiv preprint. https://arxiv.org/abs/2604.08263
+- Hooshyar, D.; Šír, G.; Yang, Y.; Kärkkäinen, T.; Hämäläinen, R.; Krivich, E.; Cukurova, M.; Gašević, D.; Azevedo, R. (2026). Neural-Symbolic Knowledge Tracing: Injecting Educational Knowledge into Deep Learning for Responsible Learner Modelling. arXiv preprint. https://arxiv.org/abs/2604.08263. [doi:10.48550/arxiv.2604.08263](https://doi.org/10.48550/arxiv.2604.08263)

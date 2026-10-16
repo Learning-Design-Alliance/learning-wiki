@@ -3,7 +3,7 @@ type: claim
 title: Gains from an intensive period of second-language study persist for weeks without rehearsal.
 id: l2-fluency-gains-persist-weeks-without-practice
 description: A one-week intensive Italian course raised verbal fluency by 17.17 words, and the gain was still 17.11 words above baseline three weeks later with no practice in between.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-03
@@ -89,3 +89,4 @@ Nothing here says where retention falls off.
 - [Structured repetition gains in fluency depend on repeating the same task](structured-repetition-fluency-task-specific.md) — reports the opposite
 - [FRAC and combined intervention advantages transferred to a new writing task and were retained after AI support was withdrawn](frac-transfer-retention-after-ai-removal.md) — related
 - [Immediate task success does not establish learning that persists without AI support](immediate-performance-not-evidence-of-independent-learning.md) — related
+- [Vocabulary knowledge gained through extensive reading showed little decay on a three-month delayed posttest, with relative gains ranging from 21.05% (low-level) to 59.01% (high-level)](little-decay-three-month-delayed-posttest-extensive-reading.md) — a narrower finding that bears on this claim

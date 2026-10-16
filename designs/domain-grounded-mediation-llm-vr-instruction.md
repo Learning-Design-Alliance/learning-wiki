@@ -3,7 +3,7 @@ type: design
 id: domain-grounded-mediation-llm-vr-instruction
 title: Domain-grounded mediation framework for LLM-assisted VR instruction
 description: "The article frames LLM-assisted VR instruction as a mediation process connecting three layers: expert expression, executable operations, and learner-facing representations."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

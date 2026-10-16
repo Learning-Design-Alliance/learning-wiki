@@ -3,7 +3,7 @@ type: design
 id: four-showcased-ler-technologies
 title: Four showcased LER technologies introduced via onboarding videos
 description: "The study introduced participant-advisors to four LER technologies: \"Teacher Wallet (RANDA Solutions), MilGears (SOLID Inc), LearnCard (LEF), and Career Wallet (Velocity Network).\" Each technology partner delivered a..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

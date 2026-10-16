@@ -3,7 +3,7 @@ type: claim
 title: "Non-STEM students show the poorest performance on proportional reasoning (25%) and score 30% on hypothetico-deductive reasoning items"
 description: "Non-STEM students show the poorest performance on proportional reasoning (25%) and score 30% on hypothetico-deductive reasoning items"
 id: non-stem-weak-proportional-hypothetico-deductive-reasoning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

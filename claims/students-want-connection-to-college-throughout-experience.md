@@ -3,7 +3,7 @@ type: claim
 title: Community college students want to feel connected to their college — faculty, staff, peers, and services — from entry through completion
 description: Community college students want to feel connected to their college — faculty, staff, peers, and services — from entry through completion
 id: students-want-connection-to-college-throughout-experience
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

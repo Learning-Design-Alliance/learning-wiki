@@ -3,7 +3,7 @@ type: claim
 title: Students in higher-achieving schools had larger Summer Bridge gains, so the program did not ameliorate quality differences across schools
 description: Students in higher-achieving schools had larger Summer Bridge gains, so the program did not ameliorate quality differences across schools
 id: summer-bridge-gains-vary-by-school-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

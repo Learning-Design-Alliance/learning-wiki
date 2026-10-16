@@ -3,7 +3,7 @@ type: claim
 title: Self-reported cognitive load showed no significant differences across either volume-based or content-based offloading profiles
 description: Self-reported cognitive load showed no significant differences across either volume-based or content-based offloading profiles
 id: no-cognitive-load-differences-across-offloading-profiles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

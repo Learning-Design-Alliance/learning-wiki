@@ -3,7 +3,7 @@ type: claim
 title: Traditional gifted identification tests cannot fully determine learning potential and omit classroom-learning components
 description: Traditional gifted identification tests cannot fully determine learning potential and omit classroom-learning components
 id: traditional-identification-tests-fail-learning-potential
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

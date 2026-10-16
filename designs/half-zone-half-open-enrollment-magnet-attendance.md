@@ -3,7 +3,7 @@ type: design
 id: half-zone-half-open-enrollment-magnet-attendance
 title: Combined geographic-zone and open-enrollment attendance policy for revitalization magnets
 description: A magnet attendance design combining a residential attendance boundary with voluntary regional open enrollment, so the school both serves its immediate neighborhood and draws integrating families from the wider region.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

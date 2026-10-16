@@ -3,7 +3,7 @@ type: claim
 title: "Under New Jersey's original passing thresholds, first-attempt passing was more likely on the HiSET and TASC than on the GED after controlling for grade 8 test scores"
 description: "Under New Jersey's original passing thresholds, first-attempt passing was more likely on the HiSET and TASC than on the GED after controlling for grade 8 test scores"
 id: nj-original-thresholds-hiset-tasc-easier-first-attempt
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

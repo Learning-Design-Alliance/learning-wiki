@@ -3,7 +3,7 @@ type: claim
 title: "Supplemental analyses show statistically significant positive Head Start effects on one social-emotional subscale and two mothers' race/ethnicity subgroup comparisons for the 3-year-old cohort"
 description: "Supplemental analyses show statistically significant positive Head Start effects on one social-emotional subscale and two mothers' race/ethnicity subgroup comparisons for the 3-year-old cohort"
 id: head-start-supplemental-subgroup-subscale-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
@@ -47,3 +47,4 @@ These are supplemental findings from the DHHS ACF (2010) randomized controlled t
 - [Head Start shows no discernible effects on mathematics achievement for 4-year-old children](head-start-no-discernible-mathematics-effects.md) — related
 - [Head Start shows no discernible effects on social-emotional development for 3- and 4-year-old children](head-start-no-discernible-social-emotional-effects.md) — related
 - [Head Start has potentially positive effects on general reading achievement for 3- and 4-year-old children, based on parent-rated emergent literacy](head-start-potentially-positive-reading-achievement.md) — related
+- [Preschool PATHS increases emotion knowledge and parent- and teacher-rated social competence in Head Start children](paths-preschool-improves-emotion-knowledge-social-competence.md) — related

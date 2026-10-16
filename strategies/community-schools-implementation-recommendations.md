@@ -3,7 +3,7 @@ type: strategy
 id: community-schools-implementation-recommendations
 title: Implement community schools comprehensively across all four pillars with adequate planning time, community involvement, and implementation-sensitive evaluation
 description: "The brief distills research-based lessons for policymakers incorporating community schools into ESSA plans: take a comprehensive approach because \"All four pillars— integrated student supports, expanded learning time..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: ASR recognition accuracy enhances learning motivation but does not significantly predict reflective behavior
 description: ASR recognition accuracy enhances learning motivation but does not significantly predict reflective behavior
 id: asr-accuracy-motivation-not-reflection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

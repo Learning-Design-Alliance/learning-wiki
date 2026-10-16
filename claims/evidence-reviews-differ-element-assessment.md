@@ -3,7 +3,7 @@ type: claim
 title: Evidence reviews differ in how they assess some quality elements, such as acceptable amounts of attrition
 description: Evidence reviews differ in how they assess some quality elements, such as acceptable amounts of attrition
 id: evidence-reviews-differ-element-assessment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

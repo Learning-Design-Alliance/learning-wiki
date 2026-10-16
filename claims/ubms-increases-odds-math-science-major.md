@@ -3,7 +3,7 @@ type: claim
 title: Preliminary estimates suggest UBMS participation increases the odds of majoring in math or science
 description: Preliminary estimates suggest UBMS participation increases the odds of majoring in math or science
 id: ubms-increases-odds-math-science-major
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

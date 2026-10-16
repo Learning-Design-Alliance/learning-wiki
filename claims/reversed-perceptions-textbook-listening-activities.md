@@ -3,7 +3,7 @@ type: claim
 title: "Heritage and non-heritage learners perceive textbook listening activities in reversed ways: no HLL found them difficult and no NHLL found them easy"
 description: "Heritage and non-heritage learners perceive textbook listening activities in reversed ways: no HLL found them difficult and no NHLL found them easy"
 id: reversed-perceptions-textbook-listening-activities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

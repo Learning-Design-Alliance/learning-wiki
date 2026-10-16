@@ -3,7 +3,7 @@ type: claim
 title: Four of six standards-meeting studies showed statistically significant positive effects and two showed substantively important positive effects on phonological processing
 description: Four of six standards-meeting studies showed statistically significant positive effects and two showed substantively important positive effects on phonological processing
 id: phonological-awareness-training-six-studies-significance-pattern
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
@@ -52,3 +52,4 @@ The WWC's findings summary for the phonological processing domain across the six
 - [Phonemic segmentation training favored over rhyme/alliteration training on print knowledge, phonological processing, and early reading/writing (Yeh 2003), with substantively important but non-significant differences](phonemic-segmentation-favored-over-rhyme-alliteration-yeh.md) — related
 - [Sound box training favored over sound sort training on phonological processing (Maslanka & Joseph 2002), with substantively important but non-significant differences averaging +11 percentile points](sound-box-favored-over-sound-sort-maslanka-joseph.md) — related
 - [Phonological awareness training has potentially positive effects on communication/language competencies for preschool children with learning disabilities, with a small extent of evidence](phonological-awareness-training-potentially-positive-communication-effects.md) — related
+- [An 11-week teacher-delivered phonological awareness intervention significantly improves kindergarten children's phoneme segmentation, letter knowledge, reading, and invented spelling](teacher-delivered-phoneme-awareness-kindergarten-improves-early-literacy.md) — related

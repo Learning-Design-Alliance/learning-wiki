@@ -3,7 +3,7 @@ type: research-method
 id: student-momentum-indicator
 title: Student Momentum Indicator
 description: "The Student Momentum Indicator is a grounded-theory metric defined as \"the percent of students enrolled in the course who finished\", calculated after each lesson as M = (total enrolled - dropouts remaining after the lesson) / total enrolled."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

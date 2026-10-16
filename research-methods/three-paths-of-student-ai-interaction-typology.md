@@ -3,7 +3,7 @@ type: research-method
 id: three-paths-of-student-ai-interaction-typology
 title: Three Paths of Student-AI Interaction typology
 description: "A typological framework identifying three qualitatively distinct modes of student-AI engagement: Passive Review (student accepts AI output with minimal scrutiny, unidirectional, limited higher-order opportunity), Direct Question (transactional gap-filling with surface evaluation, moderate opportunit"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12
@@ -29,4 +29,4 @@ A typological framework identifying three qualitatively distinct modes of studen
 -
 
 ## Key Sources
-- Zahra, F. T. (2025). Three Pathways of Student-AI Interaction: Constraint-First Design for Higher-Order Thinking. Manuscript under blind review; framework first presented at EAAI-25, Philadelphia, PA.
+- Zahra, F. T. (2025). Three Pathways of Student-AI Interaction: Constraint-First Design for Higher-Order Thinking. Manuscript under blind review; framework first presented at EAAI-25, Philadelphia, PA. [doi:10.48550/arxiv.2610.00338](https://doi.org/10.48550/arxiv.2610.00338)

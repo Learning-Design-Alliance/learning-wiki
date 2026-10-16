@@ -3,7 +3,7 @@ type: claim
 title: "Access to restorative practices is inequitable: schools with more Black and economically disadvantaged students show lower restorative practice utilization"
 description: "Access to restorative practices is inequitable: schools with more Black and economically disadvantaged students show lower restorative practice utilization"
 id: inequitable-access-restorative-practices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

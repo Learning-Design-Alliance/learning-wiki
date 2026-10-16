@@ -3,7 +3,7 @@ type: claim
 title: Rapid-guessing behavior is consistently very low across demographic subpopulations
 description: Rapid-guessing behavior is consistently very low across demographic subpopulations
 id: rapid-guessing-low-across-demographic-subpopulations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

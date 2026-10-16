@@ -3,7 +3,7 @@ type: claim
 title: Weekly ENA mean comparisons showed significant high–low performer differences in Weeks 2, 3, 6, and 7 on mr1 and in Weeks 5, 6, and 10 on svd2
 description: Weekly ENA mean comparisons showed significant high–low performer differences in Weeks 2, 3, 6, and 7 on mr1 and in Weeks 5, 6, and 10 on svd2
 id: weekly-ena-ttests-significant-weeks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

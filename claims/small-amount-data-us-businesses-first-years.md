@@ -3,7 +3,7 @@ type: claim
 title: Only a small amount of data is available about U.S. businesses in their first years of operation
 description: Only a small amount of data is available about U.S.
 id: small-amount-data-us-businesses-first-years
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

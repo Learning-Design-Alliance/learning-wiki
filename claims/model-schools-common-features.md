@@ -3,7 +3,7 @@ type: claim
 title: Schools with distinct educational models show positive achievement effects when they feature small size, personalization, positive relationships, and educator collaboration
 description: Schools with distinct educational models show positive achievement effects when they feature small size, personalization, positive relationships, and educator collaboration
 id: model-schools-common-features
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

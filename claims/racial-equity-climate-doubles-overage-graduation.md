@@ -3,7 +3,7 @@ type: claim
 title: Overage students at high schools with great racial equity climate are twice as likely to graduate in four years as those at schools with poor racial equity climate
 description: Overage students at high schools with great racial equity climate are twice as likely to graduate in four years as those at schools with poor racial equity climate
 id: racial-equity-climate-doubles-overage-graduation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Learner engagement is positively associated with perceived learner performance in agentic AI-supported online learning
 description: Learner engagement is positively associated with perceived learner performance in agentic AI-supported online learning
 id: engagement-positive-perceived-performance-agentic-ai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

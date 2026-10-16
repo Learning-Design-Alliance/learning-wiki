@@ -3,7 +3,7 @@ type: claim
 title: Participants fail to distinguish undisclosed AI teammates from human teammates above chance in synchronous text-based group interaction
 description: Participants fail to distinguish undisclosed AI teammates from human teammates above chance in synchronous text-based group interaction
 id: chance-level-ai-identity-detection-undisclosed-teammates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

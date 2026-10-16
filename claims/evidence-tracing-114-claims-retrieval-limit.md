@@ -3,7 +3,7 @@ type: claim
 title: Evidence tracing links 96 of 114 generated claims to source chunks, but three claims with retrieval scores of 0.50 or below show retrieval similarity alone is insufficient
 description: Evidence tracing links 96 of 114 generated claims to source chunks, but three claims with retrieval scores of 0.50 or below show retrieval similarity alone is insufficient
 id: evidence-tracing-114-claims-retrieval-limit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

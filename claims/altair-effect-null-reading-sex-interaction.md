@@ -3,7 +3,7 @@ type: claim
 title: The Altair (engine) main effect is not significant for winter RIT scores in either content area, but an Altair-by-sex interaction is significant in Reading only
 description: The Altair (engine) main effect is not significant for winter RIT scores in either content area, but an Altair-by-sex interaction is significant in Reading only
 id: altair-effect-null-reading-sex-interaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

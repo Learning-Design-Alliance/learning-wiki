@@ -3,7 +3,7 @@ type: claim
 title: Review reports a randomized trial in which unrestricted ChatGPT study produced lower delayed retention than traditional methods
 description: Review reports a randomized trial in which unrestricted ChatGPT study produced lower delayed retention than traditional methods
 id: chatgpt-unrestricted-lower-delayed-retention-rct
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -45,3 +45,4 @@ The review attributes to Barcaui's (2025) randomized controlled trial, with 120 
 - [Falsifiable hypothesis: unrestricted AI use on deep-processing tasks will produce a product–process dissociation—higher-rated assignments but lower unaided delayed transfer](h3-product-process-dissociation-hypothesis.md) — a broader claim this one bears on
 - [Unrestricted ChatGPT access yields better practice performance but significantly worse exam scores](gpt4-access-harms-learning-after-withdrawal.md) — related
 - [AI access raises immediate unaided test scores by 7.2 percentage points (0.28 SD) after a timed learning phase](genai-access-raises-immediate-test-scores.md) — related
+- [Undergraduates learning IoT tasks in VR with ChatGPT-integrated feedback reached significantly higher cognitive levels on memory, understanding, and application tasks than peers receiving traditional VR feedback](gpt-feedback-vr-higher-cognitive-levels.md) — related

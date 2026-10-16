@@ -3,7 +3,7 @@ type: claim
 title: Instructed learners outperform all other condition groups in learning simple second language rules
 description: Instructed learners outperform all other condition groups in learning simple second language rules
 id: instructed-learners-outperform-others-simple-rules
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

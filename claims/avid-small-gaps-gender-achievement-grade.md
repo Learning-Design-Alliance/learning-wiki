@@ -3,7 +3,7 @@ type: claim
 title: Small gaps in AVID experiences by gender, achievement, and grade, with girls, lower achievers, and tenth graders more positive
 description: Small gaps in AVID experiences by gender, achievement, and grade, with girls, lower achievers, and tenth graders more positive
 id: avid-small-gaps-gender-achievement-grade
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

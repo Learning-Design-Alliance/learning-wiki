@@ -3,7 +3,7 @@ type: strategy
 id: principal-learning-research-agenda
 title: "Research recommendations: broaden program descriptions, account for prior experience and context, define outcomes, and use longitudinal mixed-methods designs"
 description: "The report recommends that future research broaden scope to include detailed descriptions of program content and pedagogical approaches; account for principals' prior experiences, recruitment and selection criteria, a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

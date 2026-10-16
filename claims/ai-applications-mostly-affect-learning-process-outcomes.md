@@ -3,7 +3,7 @@ type: claim
 title: AI applications in science and chemistry education most frequently affect learning-process outcomes, reported in 9 of 18 studies
 description: AI applications in science and chemistry education most frequently affect learning-process outcomes, reported in 9 of 18 studies
 id: ai-applications-mostly-affect-learning-process-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

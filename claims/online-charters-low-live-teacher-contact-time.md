@@ -3,7 +3,7 @@ type: claim
 title: Online charter school students receive less live teacher contact time in a week than conventional-school students receive in a day
 description: Online charter school students receive less live teacher contact time in a week than conventional-school students receive in a day
 id: online-charters-low-live-teacher-contact-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

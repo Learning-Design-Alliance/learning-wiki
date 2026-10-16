@@ -4,7 +4,7 @@ id: plc-lesson-study-implementation-support
 aliases: [sor-pd-plc-lesson-study-implementation-support]
 title: Support implementation with initial Science of Reading training plus PLC-based lesson study and model lessons
 description: Teachers attend an initial Science of Reading and Implementation Professional Development Session, followed by targeted support sessions during grade-level Professional Learning Communities where they conduct lesson p...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ id: reading-recovery
 title: Reading Recovery
 description: Reading Recovery is a one-to-one early-literacy tutoring programme for low-achieving first-grade readers, delivered by specially trained teachers through daily individual lessons and progress monitoring.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

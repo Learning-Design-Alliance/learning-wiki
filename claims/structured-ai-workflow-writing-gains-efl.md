@@ -3,7 +3,7 @@ type: claim
 title: Structured AI-supported writing instruction produced a large posttest writing proficiency advantage over traditional instruction in Saudi EFL undergraduates
 description: Structured AI-supported writing instruction produced a large posttest writing proficiency advantage over traditional instruction in Saudi EFL undergraduates
 id: structured-ai-workflow-writing-gains-efl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

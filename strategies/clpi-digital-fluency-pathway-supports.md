@@ -3,7 +3,7 @@ type: strategy
 id: clpi-digital-fluency-pathway-supports
 title: Support digitally fluent career pathways through ecosystems, educator training, work-based learning, convenings, and showcases
 description: "The article describes five support streams the Center for Learner Pathway Innovations uses to embed digital fluency in career pathways: building local, regional, and state education ecosystems around credentialed path..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

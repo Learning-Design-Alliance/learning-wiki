@@ -3,7 +3,7 @@ type: claim
 title: State certification directors are cautious yet hopeful about micro-credentials, citing quality control and compensation-system fit as concerns
 description: State certification directors are cautious yet hopeful about micro-credentials, citing quality control and compensation-system fit as concerns
 id: state-directors-micro-credential-concerns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

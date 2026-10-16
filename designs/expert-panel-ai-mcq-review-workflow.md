@@ -3,7 +3,7 @@ type: design
 id: expert-panel-ai-mcq-review-workflow
 title: Expert-panel human-review workflow for AI-generated MCQ drafting in a high-stakes exam
 description: A structured workflow in which LLMs (ChatGPT-4o and Gemini 1.5 Pro) received the full blended-learning curriculum and generated MCQs via sequential prompting, followed by expert-panel review.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

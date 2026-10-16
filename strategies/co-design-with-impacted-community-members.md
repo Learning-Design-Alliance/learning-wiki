@@ -3,7 +3,7 @@ type: strategy
 id: co-design-with-impacted-community-members
 title: Engage impacted community members in co-design to resolve conceptual tensions early
 description: "A strategy for interdisciplinary learning-technology teams: treat impacted community members, especially instructors, as a critical part of the solution rather than passive recipients of the tool."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

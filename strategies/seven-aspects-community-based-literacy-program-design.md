@@ -3,7 +3,7 @@ type: strategy
 id: seven-aspects-community-based-literacy-program-design
 title: Seven aspects to consider in designing a context-specific community-based literacy and functional education program
 description: "Drawing on the author's research under the ADB-DECS-BNFE-UP-ERP Literacy Research and Development Program, the article prescribes that designers of a context-specific, community-based literacy and functional non-forma..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

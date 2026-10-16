@@ -4,7 +4,7 @@ id: skills-first-network-logic-model
 title: Skills-first network logic model
 description: A logic-model planning framework presented in the report Understanding, Valuing, and Utilizing Skills-First Practices as an Organization Supporting to guide stakeholders in building an aligned skills-first system.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

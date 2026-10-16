@@ -2,7 +2,7 @@
 type: theory
 title: "King and Kitchener's Reflective Judgment Model: a seven-stage developmental framework of epistemic assumptions and justification"
 description: "The Reflective Judgment Model (RJM) is a theoretical framework organizing how people make and justify judgments about ill-defined problems, which \"cannot be defined with a high degree of completeness and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

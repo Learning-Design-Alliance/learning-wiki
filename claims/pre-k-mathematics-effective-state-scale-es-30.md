@@ -3,7 +3,7 @@ type: claim
 title: Pre-K Mathematics remains effective at the state scale, with a positive and statistically significant effect of .30 on the ECLS-B Mathematics Assessment
 description: Pre-K Mathematics remains effective at the state scale, with a positive and statistically significant effect of .30 on the ECLS-B Mathematics Assessment
 id: pre-k-mathematics-effective-state-scale-es-30
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

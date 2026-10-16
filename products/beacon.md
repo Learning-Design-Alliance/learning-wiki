@@ -4,7 +4,7 @@ id: beacon
 title: Beacon
 description: Beacon is a web-based conversational academic-support system developed by Andy Gray that uses retrieval-augmented generation over approved course teaching materials to assist undergraduate computing students.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

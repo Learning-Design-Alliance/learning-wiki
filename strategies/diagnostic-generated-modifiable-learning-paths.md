@@ -3,7 +3,7 @@ type: strategy
 id: diagnostic-generated-modifiable-learning-paths
 title: Use web-based diagnostic assessment results to generate individualized learning paths that teachers can modify
 description: "This strategy uses assessment results to tailor mathematics instruction: students take a diagnostic assessment, and software sequences topics and skills into an individualized learning path targeting what each student..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

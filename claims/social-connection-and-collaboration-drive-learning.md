@@ -3,7 +3,7 @@ type: claim
 title: Positive learning communities and collaborative social interaction drive learning
 description: Positive learning communities and collaborative social interaction drive learning
 id: social-connection-and-collaboration-drive-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

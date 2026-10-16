@@ -3,7 +3,7 @@ type: claim
 title: ChatGPT exposure effects vary across the school performance distribution, with positive estimates for lower-performing schools and negative for top-performing schools, but this pattern is not robust
 description: ChatGPT exposure effects vary across the school performance distribution, with positive estimates for lower-performing schools and negative for top-performing schools, but this pattern is not robust
 id: chatgpt-exposure-performance-distribution-heterogeneity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

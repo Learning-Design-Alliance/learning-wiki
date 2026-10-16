@@ -3,7 +3,7 @@ type: claim
 title: Incidentally acquired vocabulary is retained over time while intentionally learned (focus-on-form) words are rapidly forgotten
 description: Incidentally acquired vocabulary is retained over time while intentionally learned (focus-on-form) words are rapidly forgotten
 id: incidental-vocabulary-retained-intentional-forgotten
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

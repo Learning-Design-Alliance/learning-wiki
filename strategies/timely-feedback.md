@@ -89,7 +89,7 @@ Feedback is among the most powerful influences on achievement, but its effects a
 - **Live math at the board** — a teacher works a problem with a student and corrects a procedural slip on the spot, before the wrong step is rehearsed.
 - **Khan Academy** (https://www.khanacademy.org) — auto-graded exercises give immediate correctness feedback and on-demand hints, letting learners correct errors within the same attempt sequence.
 - **Writing conferences in workshop models** — teacher confers with a student during drafting rather than after submission, so revision happens while the text is still open.
-- **Team-Based Learning (https://teambasedlearning.org)** — immediate feedback via scratch cards or IF-AT forms during readiness assurance tests, so teams discuss and resolve misconceptions in the same class session.
+- **[Team-Based Learning](../patterns/team-based-learning.md) (https://teambasedlearning.org)** — immediate feedback via scratch cards or IF-AT forms during readiness assurance tests, so teams discuss and resolve misconceptions in the same class session.
 
 ## Key Sources
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)

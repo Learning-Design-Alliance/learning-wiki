@@ -3,7 +3,7 @@ type: claim
 title: Meaningful background speech impairs delayed memory for texts in teenagers more consistently than transportation noise
 description: Meaningful background speech impairs delayed memory for texts in teenagers more consistently than transportation noise
 id: meaningful-speech-impairs-prose-memory-teenagers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

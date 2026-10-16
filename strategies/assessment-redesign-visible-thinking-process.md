@@ -3,7 +3,7 @@ type: strategy
 id: assessment-redesign-visible-thinking-process
 title: "Redesign assessment so fluency is not enough: process logs, staged drafts, in-class composition, and oral defences"
 description: "The article's first recommendation is to reclaim epistemic labour through assessment redesign."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

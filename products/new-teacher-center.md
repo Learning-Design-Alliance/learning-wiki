@@ -4,7 +4,7 @@ id: new-teacher-center
 title: New Teacher Center
 description: A New Teacher Center framework for districtwide instructional-coaching implementation that combines tracking coaching activities, guiding coaches, and engaging district leaders.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

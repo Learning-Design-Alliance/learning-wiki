@@ -3,7 +3,7 @@ type: claim
 title: AIxSpeed phoneme-level adaptive playback yields higher listenability ratings than constant-speed playback at matched average speed
 description: AIxSpeed phoneme-level adaptive playback yields higher listenability ratings than constant-speed playback at matched average speed
 id: aixspeed-adaptive-playback-higher-listenability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: combine-top-down-theory-bottom-up-empirics-heuristic-development
 title: Combine top-down theoretical and bottom-up empirical approaches when developing domain-specific heuristics
 description: "The article recommends that developers of new domain-tailored heuristics \"combine top-down (theoretical) and bottom-up (empirical) approaches to address both pedagogical and domain-specific requirements\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

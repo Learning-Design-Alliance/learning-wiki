@@ -3,7 +3,7 @@ type: claim
 title: "A majority (56%) of non-STEM students are classified as transitional reasoners, while formal operational reasoners predominate among STEM majors"
 description: "A majority (56%) of non-STEM students are classified as transitional reasoners, while formal operational reasoners predominate among STEM majors"
 id: non-stem-majority-transitional-reasoners
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: "CLASP students' MCAT Physical Science scores were slightly higher than Physics 5 students', but the difference was not statistically significant; Biological Science scores were identical on average"
 description: "CLASP students' MCAT Physical Science scores were slightly higher than Physics 5 students', but the difference was not statistically significant; Biological Science scores were identical on average"
 id: clasp-mcat-no-significant-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

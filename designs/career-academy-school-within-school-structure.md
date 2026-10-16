@@ -3,7 +3,7 @@ type: design
 id: career-academy-school-within-school-structure
 title: School-within-a-school career academy structure with sustained student-teacher clusters
 description: This pattern organizes a small learning community inside a larger high school.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

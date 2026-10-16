@@ -3,7 +3,7 @@ type: claim
 title: "Stakeholder communities differ sharply in GenAI discourse focus: K-12 teachers foreground cognitive dependency, academics detection, professional students career anxiety"
 description: "Stakeholder communities differ sharply in GenAI discourse focus: K-12 teachers foreground cognitive dependency, academics detection, professional students career anxiety"
 id: stakeholder-communities-differential-genai-focus
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: replication-approach-itt-control-crossover
 title: A replication approach for testing nonexperimental methods against experimental ITT impact estimates when experiments include substantial control crossover
 description: The paper develops a methodological strategy for evaluating nonexperimental methods by comparing their estimates to results from rigorous randomized experiments.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Teacher experience using the software was not systematically related to changes in product effects between the first and second study year
 description: Teacher experience using the software was not systematically related to changes in product effects between the first and second study year
 id: teacher-experience-not-related-to-effect-changes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

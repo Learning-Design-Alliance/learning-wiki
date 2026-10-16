@@ -3,7 +3,7 @@ type: strategy
 id: strengthen-school-mental-health-and-educator-services
 title: Strengthen school-based mental health services, special educators and early-detection awareness programmes for depression and learning disorders
 description: "Based on 26 years of service data showing rising registrations for affective disorders and disorders of psychological development, the authors recommend that \"Indian clinics may need to strengthen services for disorde..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

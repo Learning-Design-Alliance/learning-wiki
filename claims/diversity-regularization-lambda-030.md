@@ -3,7 +3,7 @@ type: claim
 title: Diversity regularization λ = 0.30 was selected from a sensitivity analysis as balancing recommendation relevance and content diversity
 description: Diversity regularization λ = 0.30 was selected from a sensitivity analysis as balancing recommendation relevance and content diversity
 id: diversity-regularization-lambda-030
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

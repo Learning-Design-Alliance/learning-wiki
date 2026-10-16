@@ -63,7 +63,7 @@ Redundant channels compete for limited working memory: when identical content ar
 ## Examples
 - **Khan Academy** videos use narration over evolving visuals rather than paragraphs of on-screen text, keeping each idea in one channel.
 - **3Blue1Brown** (*Essence of Linear Algebra*) pairs dense visual animation with narration; on-screen text is limited to labels and equations, never a transcript of the narration.
-- **Duolingo** introduces new words in a single modality first (audio with image), rather than simultaneously presenting audio, written word, and translation.
+- **[Duolingo](../products/duolingo.md)** introduces new words in a single modality first (audio with image), rather than simultaneously presenting audio, written word, and translation.
 
 ## Key Sources
 - Sweller, J., & Chandler, P. (1994). Why Some Material Is Difficult to Learn. *Cognition and Instruction, 12*(3), 185–233. [doi:10.1207/s1532690xci1203_1](https://doi.org/10.1207/s1532690xci1203_1)

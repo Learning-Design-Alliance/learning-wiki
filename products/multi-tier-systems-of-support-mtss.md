@@ -3,7 +3,7 @@ type: product
 id: multi-tier-systems-of-support-mtss
 title: Multi-Tier Systems of Support (MTSS)
 description: Multi-Tier Systems of Support is a tiered framework that schools, districts, and state education agencies use to coordinate academic, behavioral, and social-emotional supports for all students.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

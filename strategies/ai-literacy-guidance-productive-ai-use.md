@@ -3,7 +3,7 @@ type: strategy
 id: ai-literacy-guidance-productive-ai-use
 title: Treat AI literacy as educational support by teaching students to question AI responses, attempt problems first, and avoid substituting AI output for engagement
 description: The article recommends that educators and policy makers guide students toward productive AI-use behavior rather than merely granting or restricting access.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

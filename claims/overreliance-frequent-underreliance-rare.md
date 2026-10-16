@@ -3,7 +3,7 @@ type: claim
 title: Students frequently accepted misleading AI recommendations (overreliance) while rarely rejecting correct ones (underreliance)
 description: Students frequently accepted misleading AI recommendations (overreliance) while rarely rejecting correct ones (underreliance)
 id: overreliance-frequent-underreliance-rare
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

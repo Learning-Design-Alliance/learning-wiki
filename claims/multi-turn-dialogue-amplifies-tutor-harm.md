@@ -3,7 +3,7 @@ type: claim
 title: "Multi-turn interaction amplifies pedagogical harm: mean harm rises 6-11 percentage points across subjects and pedagogical-relationship harm surges from 17.7% to 77.8%"
 description: "Multi-turn interaction amplifies pedagogical harm: mean harm rises 6-11 percentage points across subjects and pedagogical-relationship harm surges from 17.7% to 77.8%"
 id: multi-turn-dialogue-amplifies-tutor-harm
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

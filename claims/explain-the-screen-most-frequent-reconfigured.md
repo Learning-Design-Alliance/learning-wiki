@@ -3,7 +3,7 @@ type: claim
 title: Explain-the-screen was the most frequent orchestration type (24 of 46 episodes), and in AI-based lessons it was dynamically reconfigured in real time by AI-generated learning data
 description: Explain-the-screen was the most frequent orchestration type (24 of 46 episodes), and in AI-based lessons it was dynamically reconfigured in real time by AI-generated learning data
 id: explain-the-screen-most-frequent-reconfigured
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

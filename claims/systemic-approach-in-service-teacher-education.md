@@ -3,7 +3,7 @@ type: claim
 title: Systemic approach in in-service teacher education promotes holistic thinking but short, fragmented training hinders it (review reports Khisty, 1997)
 description: Systemic approach in in-service teacher education promotes holistic thinking but short, fragmented training hinders it (review reports Khisty, 1997)
 id: systemic-approach-in-service-teacher-education
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

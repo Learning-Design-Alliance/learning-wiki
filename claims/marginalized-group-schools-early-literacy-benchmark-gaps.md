@@ -3,7 +3,7 @@ type: claim
 title: K–3 students in Massachusetts grantee schools with the highest percentages of historically marginalized student groups were more likely to be below literacy benchmark at least once and to stay below across the year
 description: K–3 students in Massachusetts grantee schools with the highest percentages of historically marginalized student groups were more likely to be below literacy benchmark at least once and to stay below across the year
 id: marginalized-group-schools-early-literacy-benchmark-gaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

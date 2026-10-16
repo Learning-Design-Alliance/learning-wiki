@@ -3,7 +3,7 @@ type: claim
 title: Students and teachers responded positively to automatically generated textbook videos, finding explanations easier to follow than plain text
 description: Students and teachers responded positively to automatically generated textbook videos, finding explanations easier to follow than plain text
 id: generated-textbook-videos-easier-to-follow-than-plain-text
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

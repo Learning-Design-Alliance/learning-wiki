@@ -3,7 +3,7 @@ type: claim
 title: "The same student can hold different mindsets in different classrooms, and grades rise or fall across classrooms as mindsets change, with differences traceable to teachers' practices"
 description: "The same student can hold different mindsets in different classrooms, and grades rise or fall across classrooms as mindsets change, with differences traceable to teachers' practices"
 id: mindsets-vary-across-classrooms-with-teacher-practices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

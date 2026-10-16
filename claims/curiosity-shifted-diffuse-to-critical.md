@@ -3,7 +3,7 @@ type: claim
 title: "Curiosity about AI shifted between pre- and post-survey, from 71% to 50%, which the authors interpret as a move from diffuse curiosity to concrete critical engagement"
 description: "Curiosity about AI shifted between pre- and post-survey, from 71% to 50%, which the authors interpret as a move from diffuse curiosity to concrete critical engagement"
 id: curiosity-shifted-diffuse-to-critical
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

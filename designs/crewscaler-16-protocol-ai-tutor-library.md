@@ -3,7 +3,7 @@ type: design
 id: crewscaler-16-protocol-ai-tutor-library
 title: CrewScaler 16-protocol AI-tutor coaching library
 description: "The framework specifies the AI tutor's pedagogy in advance as a library of 16 named protocols drawn from the retrieval-practice, productive-failure, and affect literatures, rather than a single general-purpose prompt."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

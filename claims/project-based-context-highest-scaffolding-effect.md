@@ -3,7 +3,7 @@ type: claim
 title: "Scaffolding's effect was highest in project-based learning contexts; design-based learning was the only context not significantly greater than zero"
 description: "Scaffolding's effect was highest in project-based learning contexts; design-based learning was the only context not significantly greater than zero"
 id: project-based-context-highest-scaffolding-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

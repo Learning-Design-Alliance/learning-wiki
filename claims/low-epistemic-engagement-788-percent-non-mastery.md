@@ -3,7 +3,7 @@ type: claim
 title: "78.8% of student-GenAI turns lack mastery-oriented aims and reliable epistemic strategies"
 description: "78.8% of student-GenAI turns lack mastery-oriented aims and reliable epistemic strategies"
 id: low-epistemic-engagement-788-percent-non-mastery
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

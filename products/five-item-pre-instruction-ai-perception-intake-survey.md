@@ -4,7 +4,7 @@ id: five-item-pre-instruction-ai-perception-intake-survey
 title: Five-item pre-instruction AI perception intake survey
 description: "A study-developed anonymous Qualtrics survey that measures bioscience trainees' baseline AI perceptions and related intake characteristics before an RCR course."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Local School Council decisions collectively produced racialized differences in SRO presence, with Black students more than twice as likely as other students to have an SRO in their school
 description: Local School Council decisions collectively produced racialized differences in SRO presence, with Black students more than twice as likely as other students to have an SRO in their school
 id: lsc-sro-decisions-racialized-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

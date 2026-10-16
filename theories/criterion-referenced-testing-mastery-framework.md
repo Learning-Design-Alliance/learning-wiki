@@ -3,7 +3,7 @@ type: theory
 title: Criterion-referenced testing, as defined by Glaser, measures mastery of defined abilities rather than relative standing among test takers
 description: The article presents criterion-referenced testing as an approach to reading evaluation in which the measurement scale is anchored at mastery and absence of defined skills rather than at comparisons with other test tak...
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25
@@ -47,4 +47,4 @@ The article presents criterion-referenced testing as an approach to reading eval
 -
 
 ## Key Sources
-- Pikulski, J. J. (1973). *Criterion referenced measures for clinical evaluations*. ERIC ED085660. https://eric.ed.gov/?id=ED085660 <!-- corrected 2026-10-05 from the ERIC record this page was ingested from; was: Criterion Referenced Measurement in Reading. (1974). https://eric.ed.gov/ -->
+- Pikulski, J. J. (1973). *Criterion referenced measures for clinical evaluations*. ERIC ED085660. https://eric.ed.gov/?id=ED085660 <!-- corrected 2026-10-05 from the ERIC record this page was ingested from; was: Criterion Referenced Measurement in Reading. (1974). https://eric.ed.gov/ -->. [doi:10.1080/19388077409557262](https://doi.org/10.1080/19388077409557262)

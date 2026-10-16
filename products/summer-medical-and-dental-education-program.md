@@ -4,7 +4,7 @@ id: summer-medical-and-dental-education-program
 title: Summer Medical and Dental Education Program
 description: A summer enrichment programme that prepares students from underrepresented groups to become more competitive applicants to medical and dental schools, historically administered through the Association of American Medical Colleges and partner institutions.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

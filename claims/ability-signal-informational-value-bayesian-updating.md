@@ -3,7 +3,7 @@ type: claim
 title: Survey data indicate the ability signal had informational value, leading students to revise self-assessed ability and AP plans consistent with Bayesian learning
 description: Survey data indicate the ability signal had informational value, leading students to revise self-assessed ability and AP plans consistent with Bayesian learning
 id: ability-signal-informational-value-bayesian-updating
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: personal-letter-writing-assignments-strategy
 title: Use personal letter-writing assignments in composition and literature classes because personal letters are expressive and intimate
 description: The paper describes a strategy of assigning letter writing in college classes for nontraditional students, drawing on an instructor who has developed specific writing assignments for composition and literature classes.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

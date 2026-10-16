@@ -3,7 +3,7 @@ type: strategy
 id: covid-recovery-policy-strategy-bipoc-students
 title: Multi-pronged policy strategy for COVID-19 learning recovery for BIPOC students
 description: "The report offers a set of policy recommendations meant to encompass a wide range of supports: improving remote learning (broadband, devices, technical support, family communication, teacher professional development),..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Published policy statements and expert advice universally recommend STEM PLCs, with cautions against superficial definition and implementation
 description: Published policy statements and expert advice universally recommend STEM PLCs, with cautions against superficial definition and implementation
 id: stem-plcs-universally-recommended
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

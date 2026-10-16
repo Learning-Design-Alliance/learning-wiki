@@ -3,7 +3,7 @@ type: claim
 title: FastPerson video summarization halves viewing time with no significant quiz-score loss versus normal playback
 description: FastPerson video summarization halves viewing time with no significant quiz-score loss versus normal playback
 id: fastperson-halves-viewing-time-no-quiz-loss
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

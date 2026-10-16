@@ -3,7 +3,7 @@ type: claim
 title: Identical representational designs produced wide individual variation in what felt helpful versus overwhelming (representational fit)
 description: Identical representational designs produced wide individual variation in what felt helpful versus overwhelming (representational fit)
 id: representational-fit-individual-variation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -49,3 +49,4 @@ Qualitative theme from interview accounts in the same study: some students found
 - [Abstract and concrete animation representations do not differ significantly in middle school students' electricity achievement under any of the five text-representation conditions](abstract-concrete-representation-no-difference.md) — related
 - [College readiness is best understood as a property of interactions between students and the college context, not only individual skills](college-readiness-as-student-college-interaction.md) — a broader claim this one bears on
 - [Interviews indicate individualized AI-generated identity-based relevance was perceived as overly abstract, while collective AI dialogue connected math to current concerns and cross-domain applications](ai-relevance-perceptions-abstract-versus-proximal.md) — related
+- [Iconic visual scaffolds in chemistry visualizations helped low-prior-knowledge high-school students but not higher-prior-knowledge ones, with the effect eliminated for younger middle-school children](expertise-reversal-iconic-scaffolds-development.md) — related

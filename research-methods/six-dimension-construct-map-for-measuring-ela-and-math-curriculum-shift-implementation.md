@@ -3,7 +3,7 @@ type: research-method
 id: six-dimension-construct-map-for-measuring-ela-and-math-curriculum-shift-implementation
 title: Six-dimension construct map for measuring ELA and math curriculum-shift implementation
 description: "The article presents a construct map that organizes measurement of curriculum shifts into six dimensions: support for instructional leaders, instructional leadership, teacher professional learning, teacher mindsets and beliefs, teacher instructional practice, and student outcomes."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

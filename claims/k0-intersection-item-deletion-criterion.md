@@ -3,7 +3,7 @@ type: claim
 title: Intersection point k0 of item difficulty and discriminating curves provides a data-driven item-deletion criterion
 description: Intersection point k0 of item difficulty and discriminating curves provides a data-driven item-deletion criterion
 id: k0-intersection-item-deletion-criterion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

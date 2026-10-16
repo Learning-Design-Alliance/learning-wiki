@@ -4,7 +4,7 @@ id: nemo-explain-visualizer-nev
 title: Nemo Explain Visualizer (nev)
 description: Nemo Explain Visualizer is a free, open-source web-based visual explanation and debugging tool developed for the Nemo Datalog reasoner, with interactive trace, tree, and fact-table views.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

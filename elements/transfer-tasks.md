@@ -74,7 +74,7 @@ Transfer tasks are the primary way to verify and build far transfer, since perfo
 
 ## Examples
 
-**[Comparing Cases](../strategies/comparing_cases.md)** — Learners study two worked examples with identical structure but different surface features, then solve a third novel problem; the comparison prompts abstraction of the shared principle.
+**[Comparing Cases](../strategies/comparing-contrasting-cases.md)** — Learners study two worked examples with identical structure but different surface features, then solve a third novel problem; the comparison prompts abstraction of the shared principle.
 
 **[PBL (Problem-Based Learning)](https://www.maa.org/external_archive/joma/Volume7/pbl/index.html)** — Medical and engineering curricula present novel clinical or design problems that require applying previously learned concepts to unfamiliar presentations.
 

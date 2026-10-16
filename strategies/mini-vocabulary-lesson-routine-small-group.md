@@ -3,7 +3,7 @@ type: strategy
 id: mini-vocabulary-lesson-routine-small-group
 title: "Run brief small-group mini-vocabulary lessons with a fixed routine: say the word, student-friendly definition, example, synonym, sentence writing, and graphic organizer"
 description: For students struggling with vocabulary during additional small-group reading instruction, the guide demonstrates Mr.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

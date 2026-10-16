@@ -3,7 +3,7 @@ type: claim
 title: "Peñasco's high school graduation rate rose above 90% versus 76% statewide, and K-2 students outpaced state peers on formative assessments"
 description: "Peñasco's high school graduation rate rose above 90% versus 76% statewide, and K-2 students outpaced state peers on formative assessments"
 id: penasco-graduation-rate-and-k2-formative-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

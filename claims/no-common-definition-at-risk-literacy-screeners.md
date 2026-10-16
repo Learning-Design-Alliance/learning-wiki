@@ -3,7 +3,7 @@ type: claim
 title: "Early literacy screening assessments provide multiple benchmarks or performance levels defined in different ways, with no common definition of 'at risk'"
 description: "Early literacy screening assessments provide multiple benchmarks or performance levels defined in different ways, with no common definition of 'at risk'"
 id: no-common-definition-at-risk-literacy-screeners
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: value-creating-curriculum-africana-youth
 title: Advance value-creating-modeled curriculum projects in Africana communities to foster ubuntu, happiness, and contributive lifestyles
 description: The article recommends designing curriculum and extra-curricular activities that promote optimum conditions for value creation, so that global citizenship orientation can appeal to Africana youth who often find curren...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

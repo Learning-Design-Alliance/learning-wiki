@@ -3,7 +3,7 @@ type: strategy
 id: systemic-support-educator-learning
 title: Sustain educator learning through schoolwide, network, and districtwide approaches that embed professional learning across the system
 description: The report recommends that professional learning be part of a sustained approach at school, district, and network levels creating opportunities for learning, dialogue, and shared practices.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

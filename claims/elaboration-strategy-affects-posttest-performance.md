@@ -3,7 +3,7 @@ type: claim
 title: Cognitive elaboration strategy significantly affects overall posttest performance, with self-generated elaboration highest
 description: Cognitive elaboration strategy significantly affects overall posttest performance, with self-generated elaboration highest
 id: elaboration-strategy-affects-posttest-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

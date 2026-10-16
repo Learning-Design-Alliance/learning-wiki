@@ -3,7 +3,7 @@ type: strategy
 id: extend-magnetometer-experiments-other-geometries
 title: Extend tablet magnetometer experiments to other current geometries
 description: A forward-looking recommendation from the authors for follow-up experiments with the tablet magnetometer setup.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

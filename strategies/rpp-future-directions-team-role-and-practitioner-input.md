@@ -3,7 +3,7 @@ type: strategy
 id: rpp-future-directions-team-role-and-practitioner-input
 title: Future RPP work should investigate which problems of practice suit the RPP framework, gather honest practitioner input, and consider the role of the whole RPP team
 description: "In its concluding remarks the presentation sets forward-looking directions for RPP methodology: investigating which problems of practice are more suitable for the RPP framework, the \"Need for honest input from practit..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

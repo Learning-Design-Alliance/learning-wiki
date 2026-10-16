@@ -3,7 +3,7 @@ type: element
 id: assessment-education-edited-volume-2020
 title: "Assessment education edited volume (Tarasawa, Gotwals, & Jackson, 2020)"
 description: "An edited book published by Rowman & Littlefield in September 2020, edited by Beth Tarasawa, Amelia Gotwals, and Cara Jackson."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -46,4 +46,4 @@ An edited book published by Rowman & Littlefield in September 2020, edited by Be
 - [Provide teachers, administrators, and educational leaders with practical resources and strategies for assessment use](../strategies/assessment-education-resources-for-educators.md)
 
 ## Key Sources
-- Tarasawa, B., Gotwals, A., & Jackson, C. (2020). Assessment education: Bridging research, theory, and practice to promote equity and student learning. Rowman & Littlefield. https://www.nwea.org/research/publication/assessment-education-bridging-research-theory-and-practice-to-promote-equity-and-student-learning/
+- Tarasawa, B., Gotwals, A., & Jackson, C. (2020). Assessment education: Bridging research, theory, and practice to promote equity and student learning. Rowman & Littlefield. https://www.nwea.org/research/publication/assessment-education-bridging-research-theory-and-practice-to-promote-equity-and-student-learning/. [doi:10.5771/9781475851069](https://doi.org/10.5771/9781475851069)

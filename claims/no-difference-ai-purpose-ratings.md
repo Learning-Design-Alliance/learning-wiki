@@ -3,7 +3,7 @@ type: claim
 title: "Teachers rated personal efficiency, caring for learners' needs, and societal contribution as similarly highly important purposes of AI"
 description: "Teachers rated personal efficiency, caring for learners' needs, and societal contribution as similarly highly important purposes of AI"
 id: no-difference-ai-purpose-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

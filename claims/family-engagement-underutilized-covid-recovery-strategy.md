@@ -3,7 +3,7 @@ type: claim
 title: The report positions family engagement as an often-underutilized strategy for supporting student academic growth during COVID recovery
 description: The report positions family engagement as an often-underutilized strategy for supporting student academic growth during COVID recovery
 id: family-engagement-underutilized-covid-recovery-strategy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

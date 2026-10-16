@@ -3,7 +3,7 @@ type: claim
 title: Novice designers deleted ideas only when confronted with stakeholder friction; unsupported self-reflection produced no deletions
 description: Novice designers deleted ideas only when confronted with stakeholder friction; unsupported self-reflection produced no deletions
 id: idea-deletion-requires-stakeholder-friction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: method
 id: logic-model
 title: Logic Model
 description: A design method that lays out the chain from a programme's activities and outputs to the outcomes it is meant to produce, so that each link can be examined, and later tested, on its own.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-07

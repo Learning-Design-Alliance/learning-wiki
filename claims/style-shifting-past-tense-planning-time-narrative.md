@@ -3,7 +3,7 @@ type: claim
 title: L2 learners style-shift in past tense accuracy within narrative discourse according to the amount of planning time available
 description: L2 learners style-shift in past tense accuracy within narrative discourse according to the amount of planning time available
 id: style-shifting-past-tense-planning-time-narrative
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

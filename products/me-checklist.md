@@ -4,7 +4,7 @@ id: me-checklist
 title: "M&E Checklist"
 description: "The M&E Checklist is a resource developed by Ruggiero et al."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

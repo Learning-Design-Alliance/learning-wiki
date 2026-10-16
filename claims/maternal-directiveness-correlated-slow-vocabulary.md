@@ -3,7 +3,7 @@ type: claim
 title: Maternal directiveness, measured as prescriptive use, is correlated with slow vocabulary development
 description: Maternal directiveness, measured as prescriptive use, is correlated with slow vocabulary development
 id: maternal-directiveness-correlated-slow-vocabulary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

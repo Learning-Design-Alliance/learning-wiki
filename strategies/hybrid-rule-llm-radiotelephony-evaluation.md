@@ -3,7 +3,7 @@ type: strategy
 id: hybrid-rule-llm-radiotelephony-evaluation
 title: Use AI-assisted hybrid evaluation (deterministic rules plus LLM analysis) to scale standardized radiotelephony assessment
 description: "ASTRA's evaluation workflow assesses each trainee command through a hybrid of deterministic rules and LLMs: rule-based penalties enforce ICAO phraseology and numerical correctness, while a DSPy-optimized LLM evaluates..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

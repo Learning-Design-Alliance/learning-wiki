@@ -3,7 +3,7 @@ type: claim
 title: "Several candidate moderators show no reliable effects: retention interval, test type, presentation mode, and publication status"
 description: "Several candidate moderators show no reliable effects: retention interval, test type, presentation mode, and publication status"
 id: interleaving-null-moderators-retention-test-presentation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

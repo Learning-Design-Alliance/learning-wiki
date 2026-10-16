@@ -68,7 +68,7 @@ Culturally responsive practice is not a separate activity but a design lens appl
 - **Funds of Knowledge project (Tucson, AZ)** — Moll and colleagues' teacher study groups documented household knowledge (farming, mechanics, finance) and built lessons on it, demonstrating that working-class Latino communities hold rich academic resources.
 - **Zaretta Hammond's "Culturally Responsive Teaching and the Brain" framework** — organizes practice around the information-processing benefits of culturally familiar scaffolds, emphasizing productive struggle over engagement tricks.
 - **International Baccalaureate (https://www.ibo.org)** — requires global contexts and intercultural understanding across its curriculum frameworks, embedding multiple perspectives into content selection.
-- **Facing History and Ourselves (https://www.facinghistory.org)** — published curriculum that uses students' identities and moral reasoning as entry points into rigorous historical analysis.
+- **[Facing History and Ourselves](../products/facing-history-and-ourselves.md) (https://www.facinghistory.org)** — published curriculum that uses students' identities and moral reasoning as entry points into rigorous historical analysis.
 
 ## Key Sources
 - Ladson-Billings, G. (1995). Toward a theory of culturally relevant pedagogy. *American Educational Research Journal, 32*(3), 465–491. [doi:10.3102/00028312032003465](https://doi.org/10.3102/00028312032003465)

@@ -3,7 +3,7 @@ type: claim
 title: "Review reports lecturers' discourses vary: distinct teaching styles and routine profiles despite superficially similar lectures"
 description: "Review reports lecturers' discourses vary: distinct teaching styles and routine profiles despite superficially similar lectures"
 id: lecturer-discourse-variability-in-styles-and-routines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

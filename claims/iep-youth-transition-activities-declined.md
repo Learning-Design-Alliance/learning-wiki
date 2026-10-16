@@ -3,7 +3,7 @@ type: claim
 title: Participation in key transition activities, including discussing transition plans with school staff and student employment during high school, declined over the decade
 description: Participation in key transition activities, including discussing transition plans with school staff and student employment during high school, declined over the decade
 id: iep-youth-transition-activities-declined
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

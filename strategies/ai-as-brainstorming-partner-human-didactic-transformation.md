@@ -3,7 +3,7 @@ type: strategy
 id: ai-as-brainstorming-partner-human-didactic-transformation
 title: Use generative AI as a brainstorming partner for divergent ideation while treating didactic transformation as a human responsibility
 description: The article recommends positioning LLMs as tools to overcome the blank page and generate diverse activity ideas, while the educator acts as a critical filter who adapts algorithmic proposals to kindergarten realities.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
@@ -43,6 +43,7 @@ The article recommends positioning LLMs as tools to overcome the blank page and 
 ## Related Strategies
 
 - [Teachers iteratively refine LLM-simulated student ideas with classroom context before instructional use](iterative-teacher-llm-refinement-strategy.md)
+- [Educators gamify learning materials or create learning games using generative AI with iterative, phased prompting](gamifying-learning-materials-with-generative-ai.md)
 
 ## Examples
 -

@@ -3,7 +3,7 @@ type: design
 id: ai-supported-inquiry-based-learning-approach
 title: AI-supported inquiry-based learning as a mathematics teaching approach combining guided exploration, adaptive feedback, and reduced cognitive load
 description: The article treats AI-supported inquiry-based learning as an instructional approach for secondary mathematics that embeds AI support within inquiry-based learning.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

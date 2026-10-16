@@ -3,7 +3,7 @@ type: claim
 title: Schools small by design showed significantly higher teacher influence and all four professional capacity measures
 description: Schools small by design showed significantly higher teacher influence and all four professional capacity measures
 id: small-by-design-schools-higher-teacher-influence-and-capacity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

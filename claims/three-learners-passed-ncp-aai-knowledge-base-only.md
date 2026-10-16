@@ -3,7 +3,7 @@ type: claim
 title: "Three learners who studied only the framework's knowledge base all passed the NVIDIA Certified Professional in Agentic AI exam"
 description: "Three learners who studied only the framework's knowledge base all passed the NVIDIA Certified Professional in Agentic AI exam"
 id: three-learners-passed-ncp-aai-knowledge-base-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

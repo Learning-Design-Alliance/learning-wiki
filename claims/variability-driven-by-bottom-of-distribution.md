@@ -3,7 +3,7 @@ type: claim
 title: Increased score variability was primarily driven by spreading out at the bottom end of the achievement distribution
 description: Increased score variability was primarily driven by spreading out at the bottom end of the achievement distribution
 id: variability-driven-by-bottom-of-distribution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

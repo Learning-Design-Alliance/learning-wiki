@@ -3,7 +3,7 @@ type: claim
 title: Perceived learning outcomes differ across grades only in the skill application dimension, with first-year students scoring significantly higher than second-year students
 description: Perceived learning outcomes differ across grades only in the skill application dimension, with first-year students scoring significantly higher than second-year students
 id: grade-differences-limited-to-skill-application-first-year-higher
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

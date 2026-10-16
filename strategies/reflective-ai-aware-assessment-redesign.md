@@ -3,7 +3,7 @@ type: strategy
 id: reflective-ai-aware-assessment-redesign
 title: Redesign assessment reflectively for possible AI use, using supervised tasks for lower-order skills and intentional AI use with reflection for higher-order work
 description: "The chapter recommends adapting or redesigning assessment to account for intentional or incidental AI use, explicitly not relying on GenAI detection software, which has \"proven to be inaccurate and unreliable.\" Studen..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -52,4 +52,4 @@ The chapter recommends adapting or redesigning assessment to account for intenti
 -
 
 ## Key Sources
-- Kudina, O. (2025). Using AI in engineering education: a balancing act, driven by clear purpose. Draft version, to appear in The Routledge Handbook of the Philosophy of Engineering, 2nd ed. https://arxiv.org/abs/2606.16626
+- Kudina, O. (2025). Using AI in engineering education: a balancing act, driven by clear purpose. Draft version, to appear in The Routledge Handbook of the Philosophy of Engineering, 2nd ed. https://arxiv.org/abs/2606.16626. [doi:10.48550/arxiv.2606.16626](https://doi.org/10.48550/arxiv.2606.16626)

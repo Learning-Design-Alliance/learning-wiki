@@ -66,7 +66,7 @@ The format combines embodied commitment with [Argumentation](../elements/argumen
 - Think-Pair-Share — a lower-stakes precursor that builds the oral-reasoning skills Philosophical Chairs demands
 
 ## Examples
-- **Facing History and Ourselves** — uses Philosophical Chairs-style activities on historical and ethical dilemmas, with positions grounded in primary-source documents (https://www.facinghistory.org).
+- **[Facing History and Ourselves](../products/facing-history-and-ourselves.md)** — uses Philosophical Chairs-style activities on historical and ethical dilemmas, with positions grounded in primary-source documents (https://www.facinghistory.org).
 - **ELA text-anchored variant** — after reading a persuasive text, students respond to a statement the author would endorse, citing paragraphs as evidence; a common practice in AVID classrooms, where the strategy is a named tutorial-adjacent routine (https://www.avid.org).
 - **Science ethics discussion** — "Genetically modifying crops should be permitted" after a reading on CRISPR agriculture; positions must cite the reading's evidence.
 

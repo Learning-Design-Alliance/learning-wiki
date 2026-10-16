@@ -3,7 +3,7 @@ type: claim
 title: On average, lottery-based charter middle schools are neither more nor less successful than traditional public schools in improving student achievement
 description: On average, lottery-based charter middle schools are neither more nor less successful than traditional public schools in improving student achievement
 id: charter-middle-schools-no-average-achievement-advantage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

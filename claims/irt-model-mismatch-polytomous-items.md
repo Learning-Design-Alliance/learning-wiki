@@ -3,7 +3,7 @@ type: claim
 title: Some reviewed studies with polytomous items used dichotomous IRT models such as 2PLM or Rasch
 description: Some reviewed studies with polytomous items used dichotomous IRT models such as 2PLM or Rasch
 id: irt-model-mismatch-polytomous-items
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

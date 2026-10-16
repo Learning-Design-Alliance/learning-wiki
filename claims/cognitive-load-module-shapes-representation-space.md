@@ -3,7 +3,7 @@ type: claim
 title: The cognitive load module encodes cross-domain learning burden into student state representations as a low-to-high load gradient
 description: The cognitive load module encodes cross-domain learning burden into student state representations as a low-to-high load gradient
 id: cognitive-load-module-shapes-representation-space
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

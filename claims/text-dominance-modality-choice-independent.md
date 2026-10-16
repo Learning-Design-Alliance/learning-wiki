@@ -3,7 +3,7 @@ type: claim
 title: Students overwhelmingly used text prompting, and prior modality choice did not predict subsequent choice among dual-mode users
 description: Students overwhelmingly used text prompting, and prior modality choice did not predict subsequent choice among dual-mode users
 id: text-dominance-modality-choice-independent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

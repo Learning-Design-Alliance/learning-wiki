@@ -3,7 +3,7 @@ type: claim
 title: Magnetic field measured by a tablet magnetometer depends linearly on the coil current
 description: Magnetic field measured by a tablet magnetometer depends linearly on the coil current
 id: tablet-magnetometer-linear-b-current-coil
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

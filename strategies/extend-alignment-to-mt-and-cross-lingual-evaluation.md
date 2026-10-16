@@ -3,7 +3,7 @@ type: strategy
 id: extend-alignment-to-mt-and-cross-lingual-evaluation
 title: Extend the alignment framework to machine translation evaluation and cross-lingual summarization, with recalibrated λ
 description: The article proposes adapting MuTSE for Machine Translation evaluation and cross-lingual summarization as a natural extension, since the primary alignment tier already uses a multilingual embedding model capable of pr...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

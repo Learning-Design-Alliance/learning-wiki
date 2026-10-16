@@ -2,7 +2,7 @@
 type: theory
 title: Four functional subsystems of the urban environment
 description: "In the conference's general session address, sociologist H."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

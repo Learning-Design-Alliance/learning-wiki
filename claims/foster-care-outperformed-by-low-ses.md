@@ -3,7 +3,7 @@ type: claim
 title: Students in foster care were consistently outperformed by low-SES students and scored at the two lowest performance levels at twice the statewide rate
 description: Students in foster care were consistently outperformed by low-SES students and scored at the two lowest performance levels at twice the statewide rate
 id: foster-care-outperformed-by-low-ses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

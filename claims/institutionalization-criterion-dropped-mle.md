@@ -3,7 +3,7 @@ type: claim
 title: Teachers doubted institutionalizing MLE in school documents, and the institutionalization criterion was removed from the final framework
 description: Teachers doubted institutionalizing MLE in school documents, and the institutionalization criterion was removed from the final framework
 id: institutionalization-criterion-dropped-mle
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

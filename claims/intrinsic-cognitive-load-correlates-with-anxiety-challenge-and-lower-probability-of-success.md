@@ -3,7 +3,7 @@ type: claim
 title: Self-reported intrinsic cognitive load correlates positively with anxiety and challenge and negatively with probability of success in an algebra task
 description: Self-reported intrinsic cognitive load correlates positively with anxiety and challenge and negatively with probability of success in an algebra task
 id: intrinsic-cognitive-load-correlates-with-anxiety-challenge-and-lower-probability-of-success
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

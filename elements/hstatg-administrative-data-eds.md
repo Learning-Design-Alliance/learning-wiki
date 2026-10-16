@@ -3,7 +3,7 @@ type: element
 id: hstatg-administrative-data-eds
 title: Early Detection System (EDS) built on standardized HStatG administrative student data
 description: "An early detection system that predicts whether a bachelor student will drop out using only the standardized data German universities must collect under §3 HStatG: demographics, previous education, study program, and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

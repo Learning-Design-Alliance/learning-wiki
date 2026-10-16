@@ -3,7 +3,7 @@ type: strategy
 id: incorporate-reflection-activities-health-curricula
 title: Incorporate reflection-promoting activities into health professions curricula at all educational levels
 description: The review documents that educators incorporate activities to promote reflection into undergraduate, postgraduate and continuing medical education and across a variety of health professions, as part of a change acknow...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

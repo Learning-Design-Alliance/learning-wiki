@@ -3,7 +3,7 @@ type: strategy
 id: site-based-pd-connected-to-everyday-practice
 title: "Shift the locus of professional learning to school sites and classrooms, connected to teachers' everyday practice"
 description: "A consensus eventually developed among MiC districts that one of the best means for supporting deep instructional shifts was to offer PD in the context of teachers' daily practice, by shifting professional learning fr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

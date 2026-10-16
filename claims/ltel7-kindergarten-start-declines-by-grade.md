@@ -3,7 +3,7 @@ type: claim
 title: Most LTEL7 students in middle grades began California schooling in kindergarten, but by high school most entered after kindergarten
 description: Most LTEL7 students in middle grades began California schooling in kindergarten, but by high school most entered after kindergarten
 id: ltel7-kindergarten-start-declines-by-grade
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

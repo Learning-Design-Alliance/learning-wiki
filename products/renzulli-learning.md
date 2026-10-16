@@ -4,7 +4,7 @@ id: renzulli-learning
 title: Renzulli Learning
 description: Renzulli Learning is a cloud-based personalized-learning platform developed and operated by Renzulli Learning to help Pre-K–12 educators differentiate instruction around students’ strengths and interests.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

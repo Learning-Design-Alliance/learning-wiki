@@ -3,7 +3,7 @@ type: claim
 title: A sensitivity analysis indicates the content-derived information density metrics are robust to reasonable operationalizations
 description: A sensitivity analysis indicates the content-derived information density metrics are robust to reasonable operationalizations
 id: sensitivity-analysis-content-metrics-robust
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

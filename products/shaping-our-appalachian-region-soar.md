@@ -4,7 +4,7 @@ id: shaping-our-appalachian-region-soar
 title: Shaping Our Appalachian Region (SOAR)
 description: A nonprofit regional revitalization programme that coordinates Appalachian individuals and organizations around shared values and goals, including technology, computer science education, and digital-economy workforce development.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09
@@ -27,4 +27,4 @@ A nonprofit regional revitalization programme that coordinates Appalachian indiv
 -
 
 ## Key Sources
-- Iwatani, E., Tackett, T., Tackett, K., Arnett, N., & May, P. (2021). Leveraging Community Cultural Wealth to Support K-8 CT Education in Kentucky Appalachia. IEEE. https://ieeexplore.ieee.org
+- Iwatani, E., Tackett, T., Tackett, K., Arnett, N., & May, P. (2021). Leveraging Community Cultural Wealth to Support K-8 CT Education in Kentucky Appalachia. IEEE. https://ieeexplore.ieee.org. [doi:10.1109/respect51740.2021.9620610](https://doi.org/10.1109/respect51740.2021.9620610)

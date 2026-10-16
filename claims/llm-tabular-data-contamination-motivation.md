@@ -3,7 +3,7 @@ type: claim
 title: "Training-data contamination motivates newly designed cases: models can reproduce popular tabular records that frequently appear in public notebooks"
 description: "Training-data contamination motivates newly designed cases: models can reproduce popular tabular records that frequently appear in public notebooks"
 id: llm-tabular-data-contamination-motivation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

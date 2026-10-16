@@ -3,7 +3,7 @@ type: strategy
 id: random-assignment-evaluation-of-data-use-supports
 title: Evaluate data-use supports with random assignment to generate causal evidence on teacher practice and achievement outcomes
 description: "The evaluation approach reflected here is to test school-level data-use supports through random assignment so that effects on teachers' practices and student achievement can be attributed to the supports."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

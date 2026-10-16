@@ -3,7 +3,7 @@ type: claim
 title: A five-year evaluation is assessing the impact of the Passport to Teaching credential on teacher performance measured by student achievement
 description: A five-year evaluation is assessing the impact of the Passport to Teaching credential on teacher performance measured by student achievement
 id: passport-to-teaching-evaluation-student-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

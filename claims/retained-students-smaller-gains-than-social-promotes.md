@@ -3,7 +3,7 @@ type: claim
 title: Retained students showed smaller three-year achievement gains than previously socially promoted students, though Rasch adjustment erased the gap for once-retained third graders
 description: Retained students showed smaller three-year achievement gains than previously socially promoted students, though Rasch adjustment erased the gap for once-retained third graders
 id: retained-students-smaller-gains-than-social-promotes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

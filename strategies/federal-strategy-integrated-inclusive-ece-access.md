@@ -3,7 +3,7 @@ type: strategy
 id: federal-strategy-integrated-inclusive-ece-access
 title: Federal strategy to expand access to integrated, inclusive ECE through child care funding, universal preschool, Head Start alignment, and inclusive special education
 description: "The whitepaper's first recommendation area directs the federal government to expand affordable child care, incentivize universal preschool for 3- and 4-year-olds, align Head Start with state preschool, and support inc..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

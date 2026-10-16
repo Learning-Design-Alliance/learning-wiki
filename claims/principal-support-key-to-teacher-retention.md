@@ -3,7 +3,7 @@ type: claim
 title: Teachers cite principal support as one of the most important factors in their decision to stay in a school or the profession
 description: Teachers cite principal support as one of the most important factors in their decision to stay in a school or the profession
 id: principal-support-key-to-teacher-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

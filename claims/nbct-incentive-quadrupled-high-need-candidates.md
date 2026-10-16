@@ -3,7 +3,7 @@ type: claim
 title: National Board Certification candidates more than tripled after the 2022 incentive program began, with a fourfold jump in high-need schools from 415 to 1,764
 description: National Board Certification candidates more than tripled after the 2022 incentive program began, with a fourfold jump in high-need schools from 415 to 1,764
 id: nbct-incentive-quadrupled-high-need-candidates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

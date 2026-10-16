@@ -3,7 +3,7 @@ type: strategy
 id: through-year-assessments-instructional-relevance
 title: Adopt through-year assessments that combine interim and summative functions to increase instructional relevance
 description: "The report describes through-year assessments as an innovation many states and vendors are developing and field-testing: students take short assessments over the course of the year, typically 3-5 times, whose results..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

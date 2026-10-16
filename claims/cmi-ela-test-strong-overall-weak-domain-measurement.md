@@ -3,7 +3,7 @@ type: claim
 title: The multiple-choice component of the revised ELA placement test strongly measured overall ELA performance, but few items strongly measured the three specific ELA domains
 description: The multiple-choice component of the revised ELA placement test strongly measured overall ELA performance, but few items strongly measured the three specific ELA domains
 id: cmi-ela-test-strong-overall-weak-domain-measurement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

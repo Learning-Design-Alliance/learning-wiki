@@ -4,7 +4,7 @@ id: library-of-congress-dbph-talking-book-audio-service-network
 title: Library of Congress DBPH talking-book audio service network
 description: A Library of Congress Division for the Blind and Physically Handicapped service network that distributes recorded books and magazines, lending equipment and providing reader support through regional, state, local, and volunteer organizations.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

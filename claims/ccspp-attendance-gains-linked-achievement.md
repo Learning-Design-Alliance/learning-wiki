@@ -3,7 +3,7 @@ type: claim
 title: Schools with the greatest chronic absence reductions showed the largest achievement gains, with attendance improvement associated with a near doubling of the math effect
 description: Schools with the greatest chronic absence reductions showed the largest achievement gains, with attendance improvement associated with a near doubling of the math effect
 id: ccspp-attendance-gains-linked-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

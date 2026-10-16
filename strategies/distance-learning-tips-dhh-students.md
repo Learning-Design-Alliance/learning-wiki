@@ -3,7 +3,7 @@ type: strategy
 id: distance-learning-tips-dhh-students
 title: Distance learning tips for supporting students who are deaf or hard of hearing
 description: "The webinar includes a presentation by Jessica Meissner, described as \"the Director of Curriculum and Instruction at the Rochester School for the Deaf,\" who \"shares tips for supporting students who are DHH in distance..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

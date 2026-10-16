@@ -3,7 +3,7 @@ type: claim
 title: By spring of ninth grade, 64 percent of CPS ninth graders missed two or more weeks of instruction in at least one major subject
 description: By spring of ninth grade, 64 percent of CPS ninth graders missed two or more weeks of instruction in at least one major subject
 id: cps-ninth-graders-64-percent-miss-two-weeks-major-subject
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

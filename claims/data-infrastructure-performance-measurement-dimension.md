@@ -3,7 +3,7 @@ type: claim
 title: The study treats data infrastructure and performance measurement as a dimension of state apprenticeship expansion and success
 description: The study treats data infrastructure and performance measurement as a dimension of state apprenticeship expansion and success
 id: data-infrastructure-performance-measurement-dimension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

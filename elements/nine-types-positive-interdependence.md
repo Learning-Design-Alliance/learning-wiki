@@ -3,7 +3,7 @@ type: element
 id: nine-types-positive-interdependence
 title: Nine types of positive interdependence teachers can structure into cooperative activities
 description: "Digest 4 examines nine types of positive interdependence and how teachers can incorporate them into cooperative learning activities: goal, resource, role, identity, task, reward, outside enemy, environmental, and fant..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

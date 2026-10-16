@@ -4,7 +4,7 @@ id: aicofe-visualization-module
 title: AICoFe Visualization Module
 description: "AICoFe's Visualization Module is a Dash-based learning-analytics dashboard system developed by Becerra et al."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

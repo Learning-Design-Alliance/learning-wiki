@@ -3,7 +3,7 @@ type: claim
 title: "Developmental education is a major loss point: 60 percent of community college students are referred to developmental education but only 30 percent ever take subsequent college-level courses"
 description: "Developmental education is a major loss point: 60 percent of community college students are referred to developmental education but only 30 percent ever take subsequent college-level courses"
 id: developmental-education-loss-point-60-30
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: institutional-ai-literacy-and-risk-communication-governance
 title: Build institutional AI literacy and transparent risk-communication governance for agentic AI browsers
 description: The article recommends that institutions act now to reduce harm and increase adversarial awareness rather than waiting for regulation, since current policies focus almost exclusively on student output while AI browser...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

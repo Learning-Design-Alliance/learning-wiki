@@ -4,7 +4,7 @@ id: bottom-line
 title: Bottom Line
 description: Bottom Line is an intensive advising programme run by Bottom Line that supports primarily low-income, first-generation students with college applications, financial aid, college choice, and postsecondary persistence.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

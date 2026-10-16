@@ -3,7 +3,7 @@ type: strategy
 id: family-guide-connecting-home-and-school-science
 title: Connect home and school learning through a family guide linking playful everyday science activities to classroom instruction
 description: "The program connects home and school learning by giving families a digital guide of brief, playful activities grounded in everyday experiences, plus material to help parents and caregivers \"feel prepared to engage in..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

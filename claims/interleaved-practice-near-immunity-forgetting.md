@@ -3,7 +3,7 @@ type: claim
 title: Interleaved practice provided near immunity against forgetting over a 30-fold increase in test delay
 description: Interleaved practice provided near immunity against forgetting over a 30-fold increase in test delay
 id: interleaved-practice-near-immunity-forgetting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

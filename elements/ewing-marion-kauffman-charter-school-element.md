@@ -3,7 +3,7 @@ type: element
 id: ewing-marion-kauffman-charter-school-element
 title: "Ewing Marion Kauffman School: a tuition-free charter school serving Kansas City students in grades 5-10"
 description: "The Kauffman School is described as \"a public, tuition-free charter school serving students in Kansas City, Missouri.\" In the 2016-17 school year it enrolled 884 students in grades 5 through 10, most of whom (85 perce..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

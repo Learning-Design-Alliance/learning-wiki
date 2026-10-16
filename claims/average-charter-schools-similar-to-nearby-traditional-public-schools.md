@@ -4,7 +4,7 @@ title: Average charter schools perform about the same as nearby traditional publ
 description: Average charter schools perform about the same as nearby traditional public schools, with large variation in effects
 id: average-charter-schools-similar-to-nearby-traditional-public-schools
 aliases: [average-charter-similar-to-nearby-traditional-schools]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Effort-moderated scoring estimates disengaged test takers' performance by excluding disengaged responses and scoring the remaining responses"
 description: "Effort-moderated scoring estimates disengaged test takers' performance by excluding disengaged responses and scoring the remaining responses"
 id: em-scoring-excludes-disengaged-responses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

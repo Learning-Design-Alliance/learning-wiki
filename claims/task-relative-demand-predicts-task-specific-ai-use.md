@@ -3,7 +3,7 @@ type: claim
 title: Among AI-using teachers, tasks experienced as relatively more demanding are more likely to be AI-supported overall
 description: Among AI-using teachers, tasks experienced as relatively more demanding are more likely to be AI-supported overall
 id: task-relative-demand-predicts-task-specific-ai-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
@@ -18,8 +18,8 @@ sources:
     kind: associational
     rigour: 2
   - id: holster-2026-2
-    resource: "https://www.oecd.org/en/data/datasets/talis-2024-database.html"
-    title: "Holster, J. (2026). Where Artificial Intelligence Enters Teacher Work. https://www.oecd.org/en/data/datasets/talis-2024-database.html"
+    resource: "https://doi.org/10.35542/osf.io/a39rp_v1"
+    title: "Holster, J. (2026). Where Artificial Intelligence Enters Teacher Work. https://www.oecd.org/en/data/datasets/talis-2024-database.html. [doi:10.35542/osf.io/a39rp_v1](https://doi.org/10.35542/osf.io/a39rp_v1)"
     author: Holster, J.
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Among AI-using teachers, tasks experienced as relatively more demanding are more likely to be AI-supported overall
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2` · `i1` small
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` A focal task one point above the same teacher's mean demand has higher odds of corresponding AI use (OR = 1.163). [→ Holster 2026](#holster-2026)
@@ -50,7 +50,7 @@ Survey-weighted within-teacher (person-mean centered) allocation model on 24,058
 
 ### Holster 2026 (2)
 
-Holster, J. (2026). Where Artificial Intelligence Enters Teacher Work. https://www.oecd.org/en/data/datasets/talis-2024-database.html
+Holster, J. (2026). Where Artificial Intelligence Enters Teacher Work. https://www.oecd.org/en/data/datasets/talis-2024-database.html. [doi:10.35542/osf.io/a39rp_v1](https://doi.org/10.35542/osf.io/a39rp_v1)
 
 `q2 · i?` · `associational · r2`
 

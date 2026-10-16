@@ -3,7 +3,7 @@ type: claim
 title: Economically disadvantaged, English learner, special education, Black, and Hispanic students were more likely than peers to be ever below benchmark
 description: Economically disadvantaged, English learner, special education, Black, and Hispanic students were more likely than peers to be ever below benchmark
 id: student-group-early-literacy-disparities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

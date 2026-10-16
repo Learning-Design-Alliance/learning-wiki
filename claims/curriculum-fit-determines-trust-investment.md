@@ -3,7 +3,7 @@ type: claim
 title: "For exam-oriented learners, trust in AI tutors hinges on curriculum fit: students abandon mathematically correct solutions that use out-of-syllabus methods"
 description: "For exam-oriented learners, trust in AI tutors hinges on curriculum fit: students abandon mathematically correct solutions that use out-of-syllabus methods"
 id: curriculum-fit-determines-trust-investment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

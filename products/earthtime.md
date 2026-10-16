@@ -4,7 +4,7 @@ id: earthtime
 title: EarthTime
 description: EarthTime is an interactive geospatial data-visualization platform developed and maintained by CREATE Lab at Carnegie Mellon University for exploring large datasets through maps and time-lapse imagery.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

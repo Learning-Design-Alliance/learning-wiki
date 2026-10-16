@@ -3,7 +3,7 @@ type: element
 id: nine-rural-sig-schools-study
 title: Nine rural schools within a 35-school SIG school improvement process study
 description: The studied element is a set of nine rural schools that were part of a study for the U.S.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

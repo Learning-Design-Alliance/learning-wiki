@@ -4,7 +4,7 @@ id: project-criss
 title: Project CRISS®
 description: Project CRISS® is a professional-development programme run by Project CRISS that trains grades 3–12 teachers to embed reading, writing, and learning comprehension strategies in regular instruction.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

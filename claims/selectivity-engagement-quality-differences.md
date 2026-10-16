@@ -3,7 +3,7 @@ type: claim
 title: Students at highly selective institutions show more deep and routine-learning engagement and less exam-driven engagement with a GenAI Tutor
 description: Students at highly selective institutions show more deep and routine-learning engagement and less exam-driven engagement with a GenAI Tutor
 id: selectivity-engagement-quality-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

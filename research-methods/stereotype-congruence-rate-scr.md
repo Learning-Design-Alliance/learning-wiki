@@ -3,7 +3,7 @@ type: research-method
 id: stereotype-congruence-rate-scr
 title: Stereotype Congruence Rate (SCR)
 description: "SCR is a complementary bias metric the article introduces because existing benchmarks \"probe model-internal associations via templated inputs and cover only broad occupational categories\", which does not suit free-text career recommendations."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

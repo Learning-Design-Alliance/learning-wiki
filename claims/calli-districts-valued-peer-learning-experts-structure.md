@@ -3,7 +3,7 @@ type: claim
 title: District improvement teams valued CALLI for peer learning, expert access, and structure that built capacity for continuous improvement
 description: District improvement teams valued CALLI for peer learning, expert access, and structure that built capacity for continuous improvement
 id: calli-districts-valued-peer-learning-experts-structure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Irrational beliefs, obsessive attachment and anxiety are the strongest stepwise predictors of cognitive flexibility in one correlational study of university students"
 description: "Irrational beliefs, obsessive attachment and anxiety are the strongest stepwise predictors of cognitive flexibility in one correlational study of university students"
 id: irrational-beliefs-obsessive-attachment-anxiety-predict-flexibility
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: strategy
 id: federal-strategy-ece-governance-coordination-data
 title: Federal strategy for coherent ECE governance through a coordinating body, unified family referral services, and integrated data systems
 description: "The whitepaper's fourth recommendation area addresses fragmented governance by proposing a coordinating strategy—such as a Children's Cabinet or renewed interagency policy board—to align federal, state, and local ECE..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Under LLM evaluators, structured rubrics produced larger negative deviations from the human baseline than free-form rubrics, the opposite direction of the human-evaluator pattern
 description: Under LLM evaluators, structured rubrics produced larger negative deviations from the human baseline than free-form rubrics, the opposite direction of the human-evaluator pattern
 id: structured-free-form-llm-deviation-contrast
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

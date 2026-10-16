@@ -3,7 +3,7 @@ type: claim
 title: When item difficulty and simulee ability ranges align (minimum -10, maximum 8), Pychometrik recovery is accurate, with correlations above 0.99 across all three sample sizes; recovery degrades above the simulee ability maximum of 7.94
 description: When item difficulty and simulee ability ranges align (minimum -10, maximum 8), Pychometrik recovery is accurate, with correlations above 0.99 across all three sample sizes; recovery degrades above the simulee ability...
 id: pychometrik-accurate-recovery-when-ranges-align
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Safeguards in university AI policies are sparse and unevenly covered
 description: Safeguards in university AI policies are sparse and unevenly covered
 id: safeguard-coverage-sparse-ai-policies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

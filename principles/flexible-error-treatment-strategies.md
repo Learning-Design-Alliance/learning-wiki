@@ -23,7 +23,7 @@ sources:
 # Employ flexible error treatment strategies matched to objectives, competence, affect, and correction effectiveness
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (9 for, 18 mixed, 1 against) · 19 studies (7 causal, 6 review, 2 quant-synthesis, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q3` · 4 of 19 report an effect size · 24 claims rest on one study
+> **Evidence** · 30 claims (11 for, 18 mixed, 1 against) · 21 studies (9 causal, 6 review, 2 quant-synthesis, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q3` · 4 of 21 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 
@@ -129,6 +129,8 @@ Claims bearing on the page that have not been read against the model above; each
 - [All four written CF types, including metalinguistic code CF, outperformed the control group on the delayed posttest of implicit L2 knowledge.](../claims/cf-type-implicit-long-term-benefits.md) [~M] — the same experiment as the code-only rows, on a writing measure; consistent with them.
 - [Corrective feedback facilitates L2 grammatical development, with explicit feedback stronger immediately and implicit feedback better maintained over time](../claims/cf-facilitates-l2-grammar-explicit-implicit-durability.md) [~M] — a review's second-hand report of the same 33-study meta-analysis; adds nothing independent to the horizon row.
 - [CF treatment improved regular past tense performance on both GJT and EIT with large effects](../claims/cf-treatment-improves-regular-past-tense-gjt-eit.md) [+W]
+- [Low-proficiency L2 learners benefited significantly more from prompts than from recasts](../claims/low-proficiency-learners-benefit-more-from-prompts.md) [+W] — attached 2026-10-15 from Ahlem Ammar et al. (2006), which proposed "Match corrective feedback technique to learner proficiency: prefer prompts for lower-proficiency learners"; tests this page's relationship.
+- [Explicit correction improves adult L2 learners' responses on corrected suffixation items during the feedback session](../claims/explicit-correction-improves-feedback-session-responses.md) [+W] — attached 2026-10-15 from Susanne Carroll et al. (1992), which proposed "Expect explicit correction to improve performance on corrected items, not to guarantee generalized rule learning"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

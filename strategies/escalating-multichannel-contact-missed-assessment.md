@@ -3,7 +3,7 @@ type: strategy
 id: escalating-multichannel-contact-missed-assessment
 title: Escalating multi-channel contact immediately upon missed assessment, starting with SMS
 description: The department contacted students by SMS immediately upon missing any continuous assessment component, rather than waiting until the end of the first semester as previously.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

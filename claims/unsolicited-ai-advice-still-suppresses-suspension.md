@@ -3,7 +3,7 @@ type: claim
 title: AI advice dramatically reduces judgment suspension even when it is displayed automatically rather than actively requested
 description: AI advice dramatically reduces judgment suspension even when it is displayed automatically rather than actively requested
 id: unsolicited-ai-advice-still-suppresses-suspension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

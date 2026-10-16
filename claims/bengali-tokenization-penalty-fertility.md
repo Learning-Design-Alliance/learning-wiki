@@ -3,7 +3,7 @@ type: claim
 title: "Bengali's alphasyllabary script incurs a tokenization penalty: elevated token fertility fragments linguistic units and compounds the training data deficit"
 description: "Bengali's alphasyllabary script incurs a tokenization penalty: elevated token fertility fragments linguistic units and compounds the training data deficit"
 id: bengali-tokenization-penalty-fertility
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

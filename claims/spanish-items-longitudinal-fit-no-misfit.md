@@ -3,7 +3,7 @@ type: claim
 title: "The vast majority of Spanish Math (91%) and Reading (98%) items show no misfit across fall, winter, and spring terms"
 description: "The vast majority of Spanish Math (91%) and Reading (98%) items show no misfit across fall, winter, and spring terms"
 id: spanish-items-longitudinal-fit-no-misfit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

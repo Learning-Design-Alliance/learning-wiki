@@ -3,7 +3,7 @@ type: claim
 title: Online peer assessment shifts instructional assessment from teacher-controlled to a combination of teacher assessment and student peer assessment
 description: Online peer assessment shifts instructional assessment from teacher-controlled to a combination of teacher assessment and student peer assessment
 id: online-peer-assessment-shifts-assessment-control-to-students
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

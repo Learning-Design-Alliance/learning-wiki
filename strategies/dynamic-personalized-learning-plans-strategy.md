@@ -3,7 +3,7 @@ type: strategy
 id: dynamic-personalized-learning-plans-strategy
 title: Personalized Learning Plans that stay dynamic to enhance student agency
 description: The paper recommends creating a Personalized Learning Plan (PLP) for each student, containing strengths, challenges, motivations, goals, behavioral information, social-emotional competencies, achievement data, and pro...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

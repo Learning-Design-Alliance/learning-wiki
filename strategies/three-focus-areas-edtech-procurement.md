@@ -3,7 +3,7 @@ type: strategy
 id: three-focus-areas-edtech-procurement
 title: "Three focus areas for evolving district ed-tech procurement: connect with vendors, within districts, and across districts"
 description: "The report's concluding section distills the workshop concepts into three focus areas at differing scales of stakeholder involvement: connecting with entrepreneurs and vendors to increase development of relevant produ..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

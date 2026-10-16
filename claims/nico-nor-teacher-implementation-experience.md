@@ -3,7 +3,7 @@ type: claim
 title: Teachers reported the program was easy to implement and children enjoyed the activities, with modifications made for time, space, darkness, and plant-growth constraints
 description: Teachers reported the program was easy to implement and children enjoyed the activities, with modifications made for time, space, darkness, and plant-growth constraints
 id: nico-nor-teacher-implementation-experience
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

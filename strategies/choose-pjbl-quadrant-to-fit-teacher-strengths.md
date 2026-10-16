@@ -3,7 +3,7 @@ type: strategy
 id: choose-pjbl-quadrant-to-fit-teacher-strengths
 title: Teachers choose the matrix quadrant that complements their strengths and institutional culture
 description: The article recommends that teachers use the course design matrix to implement project-based strategies suited to their own strengths and context rather than defaulting to Flexible-Cooperative designs.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: The partial credit and teacher team methods for co-teaching are impractical
 description: The partial credit and teacher team methods for co-teaching are impractical
 id: partial-credit-teacher-team-methods-impractical
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

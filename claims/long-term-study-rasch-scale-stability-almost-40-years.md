@@ -3,7 +3,7 @@ type: claim
 title: A large-scale long-term study examined the measurement stability of Rasch measurement scales that had been in place for almost 40 years
 description: A large-scale long-term study examined the measurement stability of Rasch measurement scales that had been in place for almost 40 years
 id: long-term-study-rasch-scale-stability-almost-40-years
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

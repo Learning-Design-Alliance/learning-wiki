@@ -3,7 +3,7 @@ type: design
 id: modeling-lectures-plus-collaborative-workshop-sessions
 title: Technical mathematics course structure combining expert modeling lectures with collaborative workshop sessions
 description: This pattern describes the structure of the experimental technical mathematics classes tested in the study.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

@@ -3,7 +3,7 @@ type: claim
 title: "The study used two sets of analyses—rating stability and the stable component's link to future contributions—to simulate each measure's predictive accuracy"
 description: "The study used two sets of analyses—rating stability and the stable component's link to future contributions—to simulate each measure's predictive accuracy"
 id: two-analysis-approach-principal-measure-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

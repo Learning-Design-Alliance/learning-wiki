@@ -3,7 +3,7 @@ type: claim
 title: AI access raises immediate unaided test scores by 7.2 percentage points (0.28 SD) after a timed learning phase
 description: AI access raises immediate unaided test scores by 7.2 percentage points (0.28 SD) after a timed learning phase
 id: genai-access-raises-immediate-test-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -58,3 +58,4 @@ Intent-to-treat estimate from a proctored, in-person randomized experiment (211 
 - [In math problem solving, a tutor-plus-peers LLM arrangement produced the strongest unassisted post-task test accuracy, with accuracy increasing monotonically from Control to Tutor + Peers](tutor-plus-peers-strongest-unassisted-math-accuracy.md) — a narrower finding that bears on this claim
 - [Both AI and human tutoring produce larger GRE learning gains than a no-tutoring control](ai-human-tutoring-beat-control-gre-gains.md) — a narrower finding that bears on this claim
 - [Immediate task success does not establish learning that persists without AI support](immediate-performance-not-evidence-of-independent-learning.md) — related
+- [Undergraduates learning IoT tasks in VR with ChatGPT-integrated feedback reached significantly higher cognitive levels on memory, understanding, and application tasks than peers receiving traditional VR feedback](gpt-feedback-vr-higher-cognitive-levels.md) — related

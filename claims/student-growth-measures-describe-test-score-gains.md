@@ -3,7 +3,7 @@ type: claim
 title: "Student growth measures describe gains in student learning based on how much students' test scores changed over a school year"
 description: "Student growth measures describe gains in student learning based on how much students' test scores changed over a school year"
 id: student-growth-measures-describe-test-score-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

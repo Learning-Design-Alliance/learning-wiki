@@ -3,7 +3,7 @@ type: claim
 title: Charter high schools in Florida and Chicago showed substantial positive effects on both high school completion and college attendance
 description: Charter high schools in Florida and Chicago showed substantial positive effects on both high school completion and college attendance
 id: charter-schools-positive-attainment-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

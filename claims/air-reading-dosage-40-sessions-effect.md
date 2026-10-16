@@ -3,7 +3,7 @@ type: claim
 title: Students receiving 40 or more Air Reading tutoring sessions showed stronger reading impacts (effect size +0.17)
 description: Students receiving 40 or more Air Reading tutoring sessions showed stronger reading impacts (effect size +0.17)
 id: air-reading-dosage-40-sessions-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

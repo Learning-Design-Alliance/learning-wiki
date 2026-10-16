@@ -3,7 +3,7 @@ type: strategy
 id: ongoing-professional-learning-dashboards-during-edtech-pilot
 title: "Mobilize & Implement: provide professional learning throughout the pilot and use real-time data dashboards to keep usage aligned with dosage requirements"
 description: "Step 4 directs leaders to \"Provide professional learning throughout pilot period to ensure educators are prepared to effectively use the tool, including the ability to leverage real-time data dashboards to monitor and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

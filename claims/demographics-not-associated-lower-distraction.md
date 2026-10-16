@@ -3,7 +3,7 @@ type: claim
 title: Demographic characteristics (gender, age, race, major) showed no significant association with lower digital distraction in the rule-mining profiles
 description: Demographic characteristics (gender, age, race, major) showed no significant association with lower digital distraction in the rule-mining profiles
 id: demographics-not-associated-lower-distraction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

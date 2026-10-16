@@ -3,7 +3,7 @@ type: claim
 title: K-12 stakeholders across sectors report enthusiasm for competency-based learning, assessment, and recognition technologies
 description: K-12 stakeholders across sectors report enthusiasm for competency-based learning, assessment, and recognition technologies
 id: cross-sector-enthusiasm-competency-recognition-k12
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

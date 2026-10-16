@@ -3,7 +3,7 @@ type: claim
 title: Feature use related to a slight increase in multiple choice accuracy, larger for lower-Lexile students and for easier articles
 description: Feature use related to a slight increase in multiple choice accuracy, larger for lower-Lexile students and for easier articles
 id: readworks-feature-use-accuracy-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

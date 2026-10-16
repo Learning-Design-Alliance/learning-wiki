@@ -3,7 +3,7 @@ type: claim
 title: "The Knowledge Tracing Algorithm does not suffer the identifiability problem: all four parameters affect its behavior separately"
 description: "The Knowledge Tracing Algorithm does not suffer the identifiability problem: all four parameters affect its behavior separately"
 id: kt-algorithm-no-identifiability-problem
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

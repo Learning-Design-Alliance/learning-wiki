@@ -3,7 +3,7 @@ type: claim
 title: Students learning from World History Project demonstrate more understanding of continuity and change over time in history than comparison students
 description: Students learning from World History Project demonstrate more understanding of continuity and change over time in history than comparison students
 id: whp-students-continuity-change-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

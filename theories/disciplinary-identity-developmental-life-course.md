@@ -2,7 +2,7 @@
 type: theory
 title: Disciplinary identity as a developmental process across the academic life course
 description: "The article frames disciplinary identity, or \"connection to a particular academic discipline\", as something \"constructed through a developmental process across a scholar's academic life course\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -4,7 +4,7 @@ id: shield
 title: SHIELD
 description: A VSCode extension developed by Rohit Mehra et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: researchers-spend-time-in-classrooms
 title: Education researchers can refresh their understanding of frontline teaching by spending time in classrooms
 description: "The article models a simple practice: a researcher whose desk work concerns education spends time in an actual classroom."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

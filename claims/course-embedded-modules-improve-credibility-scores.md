@@ -3,7 +3,7 @@ type: claim
 title: "College students' scores on an online source credibility assessment improved significantly after four course-embedded modules in an asynchronous nutrition course"
 description: "College students' scores on an online source credibility assessment improved significantly after four course-embedded modules in an asynchronous nutrition course"
 id: course-embedded-modules-improve-credibility-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

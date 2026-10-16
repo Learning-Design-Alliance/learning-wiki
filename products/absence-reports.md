@@ -4,7 +4,7 @@ id: absence-reports
 title: Absence Reports
 description: Absence Reports is an attendance-focused intervention delivered by school districts to provide absence information and support improved student attendance.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

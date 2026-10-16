@@ -3,7 +3,7 @@ type: theory
 title: Prescriptive model of hierarchical task-adapted knowledge organization for selective information retrieval
 description: "The article formulates a prescriptive model in which knowledge is subdivided into units where \"a few information items in any unit are elaborated by further description through \"subordinate\" knowledge units\", with poi..."
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

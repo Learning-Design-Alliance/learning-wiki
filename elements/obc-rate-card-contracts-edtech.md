@@ -3,7 +3,7 @@ type: element
 id: obc-rate-card-contracts-edtech
 title: Outcome-based contracting (OBC) edtech rate cards tying payment to measured learner outcomes
 description: The presentation presents OBC edtech contracts structured as rate cards in which vendors are paid per student for achieving defined outcome metrics, alongside a base payment for services delivered.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

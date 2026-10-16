@@ -3,7 +3,7 @@ type: claim
 title: "Administrators' dual role as evaluator and coach can undermine the observation process's professional learning benefits"
 description: "Administrators' dual role as evaluator and coach can undermine the observation process's professional learning benefits"
 id: dual-evaluator-coach-role-undermines-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

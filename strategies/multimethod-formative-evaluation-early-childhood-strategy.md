@@ -3,7 +3,7 @@ type: strategy
 id: multimethod-formative-evaluation-early-childhood-strategy
 title: Combine observational measures with other methods in formative evaluation of preschool-through-third-grade programs, keeping them free of high stakes.
 description: "The paper recommends assessing young children's progress through observational measures that span preschool to elementary ages, used for formative evaluation rather than accountability."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

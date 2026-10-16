@@ -3,7 +3,7 @@ type: strategy
 id: five-domains-micro-credentialing-policy
 title: "Advance micro-credentialing policy across five domains: controlling for quality, counting what matters, finding time, leveraging expertise, and designing for effectiveness"
 description: "The brief proposes five major policy domains for the future of micro-credentialing: controlling for quality, counting what matters, finding time, leveraging and recognizing expertise, and designing for effectiveness."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -47,4 +47,4 @@ The brief proposes five major policy domains for the future of micro-credentiali
 -
 
 ## Key Sources
-- Berry, B., & Byrd, P. A. (2019). Micro-credentials and Education Policy in the United States: Recognizing Learning and Leadership for Our Nation's Teachers. Digital Promise. https://digitalpromise.dspacedirect.org/items/65a7d0ed-66b1-4d5b-ac51-6bcf25285dd3
+- Berry, B., & Byrd, P. A. (2019). Micro-credentials and Education Policy in the United States: Recognizing Learning and Leadership for Our Nation's Teachers. Digital Promise. https://digitalpromise.dspacedirect.org/items/65a7d0ed-66b1-4d5b-ac51-6bcf25285dd3. [doi:10.51388/20.500.12265/104](https://doi.org/10.51388/20.500.12265/104)

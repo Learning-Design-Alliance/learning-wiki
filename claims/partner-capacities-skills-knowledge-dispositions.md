@@ -3,7 +3,7 @@ type: claim
 title: Partners in participatory evaluation demonstrated capacities in data engagement, contextual and pedagogical knowledge, and openness and improvement-oriented dispositions
 description: Partners in participatory evaluation demonstrated capacities in data engagement, contextual and pedagogical knowledge, and openness and improvement-oriented dispositions
 id: partner-capacities-skills-knowledge-dispositions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

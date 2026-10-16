@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Pre-tests reduced adult learners' persistence in a MOOC, though they improved post-test scores among those who completed it"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

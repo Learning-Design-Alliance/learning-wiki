@@ -3,7 +3,7 @@ type: claim
 title: "School-side support (teacher, instructional, and institutional provision) is associated with learners' motivation, engagement, and need satisfaction"
 description: "School-side support (teacher, instructional, and institutional provision) is associated with learners' motivation, engagement, and need satisfaction"
 id: school-side-support-genai-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -47,3 +47,4 @@ The review reports, citing Schweder (2026), a latent-profile study of German sec
 - [Learning motivation is positively associated with acceptance outcomes for AI-assisted English learning tools in adjusted regression models](learning-motivation-positive-ai-english-acceptance.md) — related
 - [Students reported satisfaction with the detailed analyses, personalized multi-dimensional recommendations and motivational guidance provided by the AI systems](students-satisfied-with-genai-feedback-quality.md) — related
 - [Chatbot support systems in online learning are associated with higher learner satisfaction and engagement when perceived as useful](chatbot-support-raises-satisfaction.md) — related
+- Institutional and supervisor support are associated with adaptive motivation among final-year master's thesis students — related

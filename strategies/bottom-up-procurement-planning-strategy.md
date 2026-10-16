@@ -3,7 +3,7 @@ type: strategy
 id: bottom-up-procurement-planning-strategy
 title: "Better Planning, Better Process: bottom-up procurement planning through direct contact with teachers and administrators"
 description: This strategy has procurement officers connect directly with teachers and administrators to plan for district technology needs.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

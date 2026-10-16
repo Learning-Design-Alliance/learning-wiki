@@ -4,7 +4,7 @@ title: Teachers with little or no pedagogical preparation are 2 to 3 times more 
 description: Teachers with little or no pedagogical preparation are 2 to 3 times more likely to leave teaching than comprehensively prepared teachers
 id: underprepared-teachers-leave-at-2-3-times-rate
 aliases: [underprepared-teachers-attrition-two-to-three-times, weak-preparation-predicts-teacher-attrition, full-preparation-halves-teacher-attrition]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -27,16 +27,16 @@ sources:
     kind: review
     rigour: 2
   - id: podolsky-2016
-    resource: "https://learningpolicyinstitute.org/product/solving-teacher-shortage"
-    title: "Podolsky, A., Kini, T., Bishop, J., & Darling-Hammond, L. (2016). Solving the Teacher Shortage: How to Attract and Retain Excellent Educators. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/solving-teacher-shortage"
+    resource: "https://doi.org/10.54300/262.960"
+    title: "Podolsky, A., Kini, T., Bishop, J., & Darling-Hammond, L. (2016). Solving the Teacher Shortage: How to Attract and Retain Excellent Educators. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/solving-teacher-shortage. [doi:10.54300/262.960](https://doi.org/10.54300/262.960)"
     author: "Podolsky, A., Kini, T., Bishop, J., & Darling-Hammond, L."
     q: 2
     i: "?"
     kind: review
     rigour: 2
   - id: sutcher-2016
-    resource: "https://learningpolicyinstitute.org/product/coming-crisis-teaching"
-    title: "Sutcher, L., Darling-Hammond, L., & Carver-Thomas, D. (2016). A coming crisis in teaching? Teacher supply, demand, and shortages in the U.S. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/coming-crisis-teaching"
+    resource: "https://doi.org/10.54300/247.242"
+    title: "Sutcher, L., Darling-Hammond, L., & Carver-Thomas, D. (2016). A coming crisis in teaching? Teacher supply, demand, and shortages in the U.S. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/coming-crisis-teaching. [doi:10.54300/247.242](https://doi.org/10.54300/247.242)"
     author: "Sutcher, L., Darling-Hammond, L., & Carver-Thomas, D."
     q: 2
     i: "?"
@@ -92,7 +92,7 @@ The report cites a large-scale controlled analysis finding alternative-certifica
 
 ### Podolsky 2016
 
-Podolsky, A., Kini, T., Bishop, J., & Darling-Hammond, L. (2016). Solving the Teacher Shortage: How to Attract and Retain Excellent Educators. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/solving-teacher-shortage
+Podolsky, A., Kini, T., Bishop, J., & Darling-Hammond, L. (2016). Solving the Teacher Shortage: How to Attract and Retain Excellent Educators. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/solving-teacher-shortage. [doi:10.54300/262.960](https://doi.org/10.54300/262.960)
 
 `q2 · i?` · `review · r2`
 
@@ -102,7 +102,7 @@ The report's preparation section synthesizes multiple studies of teacher prepara
 
 ### Sutcher 2016
 
-Sutcher, L., Darling-Hammond, L., & Carver-Thomas, D. (2016). A coming crisis in teaching? Teacher supply, demand, and shortages in the U.S. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/coming-crisis-teaching
+Sutcher, L., Darling-Hammond, L., & Carver-Thomas, D. (2016). A coming crisis in teaching? Teacher supply, demand, and shortages in the U.S. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/coming-crisis-teaching. [doi:10.54300/247.242](https://doi.org/10.54300/247.242)
 
 `q2 · i?` · `associational · r2`
 

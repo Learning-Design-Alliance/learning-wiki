@@ -3,7 +3,7 @@ type: claim
 title: "Most U.S. colleges had adopted written generative AI policies by late 2024, with 69% defining appropriate versus inappropriate AI use in coursework"
 description: Most U.S.
 id: review-69-percent-colleges-genai-policies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

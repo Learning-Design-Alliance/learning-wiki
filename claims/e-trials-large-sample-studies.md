@@ -3,7 +3,7 @@ type: claim
 title: "Studies run on the E-TRIALS platform reach far larger samples than is typical in educational research, with nearly 20% enrolling over 1,000 participants"
 description: "Studies run on the E-TRIALS platform reach far larger samples than is typical in educational research, with nearly 20% enrolling over 1,000 participants"
 id: e-trials-large-sample-studies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

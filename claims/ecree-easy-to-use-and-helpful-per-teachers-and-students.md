@@ -3,7 +3,7 @@ type: claim
 title: Teachers and students found Ecree easy to use and helpful for improving writing
 description: Teachers and students found Ecree easy to use and helpful for improving writing
 id: ecree-easy-to-use-and-helpful-per-teachers-and-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

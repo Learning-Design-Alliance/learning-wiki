@@ -3,7 +3,7 @@ type: claim
 title: ReadAbout showed a positive, statistically significant impact (effect size 0.22) on social studies reading comprehension for second-cohort students taught by teachers with one prior year of experience with the curriculum.
 description: ReadAbout showed a positive, statistically significant impact (effect size 0.22) on social studies reading comprehension for second-cohort students taught by teachers with one prior year of experience with the curricu...
 id: readabout-teacher-experience-positive-impact-es-022
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

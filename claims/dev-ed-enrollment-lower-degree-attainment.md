@@ -3,7 +3,7 @@ type: claim
 title: Students who enroll in developmental education courses attain degrees at lower rates than comparable entrants who do not
 description: Students who enroll in developmental education courses attain degrees at lower rates than comparable entrants who do not
 id: dev-ed-enrollment-lower-degree-attainment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

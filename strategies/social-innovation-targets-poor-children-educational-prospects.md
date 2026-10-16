@@ -3,7 +3,7 @@ type: strategy
 id: social-innovation-targets-poor-children-educational-prospects
 title: "Use review findings to identify promising targets for social innovations improving poor children's educational prospects"
 description: "The article's stated purpose is to translate review findings into actionable innovation targets."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

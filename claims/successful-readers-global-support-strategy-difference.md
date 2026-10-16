@@ -3,7 +3,7 @@ type: claim
 title: Successful readers out-use less successful readers on global and support strategies but not problem-solving strategies
 description: Successful readers out-use less successful readers on global and support strategies but not problem-solving strategies
 id: successful-readers-global-support-strategy-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

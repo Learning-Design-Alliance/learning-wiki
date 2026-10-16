@@ -3,7 +3,7 @@ type: strategy
 id: stari-component-skills-linked-to-themes
 title: Teach decoding and morphological analysis with words connected to unit themes
 description: STARI connects basic-skills instruction to cognitively challenging content rather than teaching skills in isolation.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

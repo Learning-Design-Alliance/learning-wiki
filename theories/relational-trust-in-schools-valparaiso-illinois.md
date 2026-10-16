@@ -2,7 +2,7 @@
 type: theory
 title: Relational trust in schools
 description: "Relational trust is the construct the article uses to organize trust relationships in schools: it \"involves respecting, caring for, and believing in the honesty and competence of one's colleagues.\" The article treats..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

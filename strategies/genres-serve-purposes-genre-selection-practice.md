@@ -3,7 +3,7 @@ type: strategy
 id: genres-serve-purposes-genre-selection-practice
 title: Teach students that different genres of writing serve different purposes and let them practice genre selection
 description: "The guide defines a genre as \"a form of writing with specific features that provides context and structure for a particular purpose and audience.\" Teachers explain how genre features serve the text's purpose (a short..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

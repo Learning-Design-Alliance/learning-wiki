@@ -3,7 +3,7 @@ type: claim
 title: Launching RPP work with disaggregated student data highlighted equity issues without assigning blame
 description: Launching RPP work with disaggregated student data highlighted equity issues without assigning blame
 id: student-data-first-launch-highlighted-equity-without-blame
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

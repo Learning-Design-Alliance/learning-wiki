@@ -4,7 +4,7 @@ id: occupational-aspiration-scale
 title: Occupational Aspiration Scale
 description: A self-report instrument developed by Haller et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

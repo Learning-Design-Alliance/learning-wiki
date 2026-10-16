@@ -3,7 +3,7 @@ type: claim
 title: Special-education support/adaptation shows the strongest demand–AI-use alignment, with a 16.32-percentage-point increase in predicted use across a two-point relative-demand contrast
 description: Special-education support/adaptation shows the strongest demand–AI-use alignment, with a 16.32-percentage-point increase in predicted use across a two-point relative-demand contrast
 id: special-education-strongest-demand-ai-alignment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: "Within-family fixed-effects analysis estimates the learning-loss gap between educational backgrounds at 60%"
 description: "Within-family fixed-effects analysis estimates the learning-loss gap between educational backgrounds at 60%"
 id: within-family-learning-loss-gap-60-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

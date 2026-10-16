@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "A brief values-affirmation writing exercise raised African American seventh-graders' grades in two small field experiments, but a large same-district replication found no effect"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: element
 id: vr-resources-table-literacy-classroom
 title: Curated list of VR websites and apps for classroom literacy use (Table 1)
 description: Table 1 of the article compiles VR websites and apps with addresses and descriptions, including SamRohn 360 VR Panoramic Photography and Virtual Tours, Blakeway Gigapixel, AirPano, World Tour 360, World in 360, YouTub...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

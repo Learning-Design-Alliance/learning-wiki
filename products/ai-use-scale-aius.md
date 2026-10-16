@@ -4,7 +4,7 @@ id: ai-use-scale-aius
 title: AI Use Scale (AIUS)
 description: "A researcher-developed eight-item Likert-type scale for measuring undergraduate students' frequency and intensity of using AI tools for academic tasks."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

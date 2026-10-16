@@ -3,7 +3,7 @@ type: claim
 title: READ 180® shows no discernible effects on alphabetics for adolescent readers
 description: READ 180® shows no discernible effects on alphabetics for adolescent readers
 id: read-180-no-discernible-effects-alphabetics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

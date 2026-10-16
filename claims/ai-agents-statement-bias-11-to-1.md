@@ -3,7 +3,7 @@ type: claim
 title: "AI agent discourse shows extreme statement bias (11.4:1 statements to questions), far exceeding human community baselines, though questions receive higher upvotes"
 description: "AI agent discourse shows extreme statement bias (11.4:1 statements to questions), far exceeding human community baselines, though questions receive higher upvotes"
 id: ai-agents-statement-bias-11-to-1
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

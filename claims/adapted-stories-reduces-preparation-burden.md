@@ -3,7 +3,7 @@ type: claim
 title: Practitioners perceived the profile-driven workflow as reducing Social Story preparation burden
 description: Practitioners perceived the profile-driven workflow as reducing Social Story preparation burden
 id: adapted-stories-reduces-preparation-burden
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

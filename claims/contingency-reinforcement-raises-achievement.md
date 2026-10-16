@@ -3,7 +3,7 @@ type: claim
 title: Planned contingency-of-reinforcement designs can raise academic achievement above normal classroom levels across a wide range of children
 description: Planned contingency-of-reinforcement designs can raise academic achievement above normal classroom levels across a wide range of children
 id: contingency-reinforcement-raises-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

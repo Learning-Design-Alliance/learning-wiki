@@ -85,7 +85,7 @@ Attention signals function as a conditioned cue: through repeated pairing, a neu
 ## Examples
 - **Harry Wong's "Give Me Five"** (*The First Days of School*): the instructor says "Give me five" and learners respond by showing five behaviors — eyes on speaker, quiet, still, hands free, listening — taught and rehearsed on day one.
 - **Whole Brain Teaching "Class–Yes"** (https://wholebrainteaching.com): the instructor calls "Class!", learners reply "Yes!", with variations ("Classity-class" → "Yessity-yes") that keep the routine fresh across a school year.
-- **Responsive Classroom** (https://www.responsiveclassroom.org): uses a chime or "quiet signal" as part of a broader set of teacher-language and routine-building practices in elementary classrooms.
+- **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveclassroom.org): uses a chime or "quiet signal" as part of a broader set of teacher-language and routine-building practices in elementary classrooms.
 - **Online seminars**: instructors use a raised-hand emoji in chat or a "mics off, cameras ready" cue as the digital attention signal before whole-group discussion.
 - **"Give Me 5"** (Harry & Rosemary Wong, *The First Days of School*) — instructor says "Give me five"; learners raise hands and show five behaviors: eyes on speaker, quiet, still, hands free, listening.
 - **Call-and-response in KIPP schools** — the "Class-Yes" routine, in which the instructor's call is answered with a mirrored phrase, is a widely documented whole-school attention signal.

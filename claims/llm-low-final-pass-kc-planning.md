@@ -3,7 +3,7 @@ type: claim
 title: "Strongest LLMs reach only about 29.5% final pass rate on Basic Education KC planning and drop to 14.6% on Higher Education"
 description: "Strongest LLMs reach only about 29.5% final pass rate on Basic Education KC planning and drop to 14.6% on Higher Education"
 id: llm-low-final-pass-kc-planning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

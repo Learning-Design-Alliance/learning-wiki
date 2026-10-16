@@ -3,7 +3,7 @@ type: claim
 title: Most IDS and Renaissance 2010 teachers fell below proficient on communication skills, and a majority of teachers including AMPS teachers ranked basic or unsatisfactory on quality of questions
 description: Most IDS and Renaissance 2010 teachers fell below proficient on communication skills, and a majority of teachers including AMPS teachers ranked basic or unsatisfactory on quality of questions
 id: weak-communication-and-question-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

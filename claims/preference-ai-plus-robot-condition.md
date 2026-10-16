@@ -3,7 +3,7 @@ type: claim
 title: 30 of 32 participants preferred the AI+Robot condition, describing the robot as making success and failure visible, though a minority found AI-Only useful for focusing on block construction
 description: 30 of 32 participants preferred the AI+Robot condition, describing the robot as making success and failure visible, though a minority found AI-Only useful for focusing on block construction
 id: preference-ai-plus-robot-condition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

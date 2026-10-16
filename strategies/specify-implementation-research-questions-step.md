@@ -3,7 +3,7 @@ type: strategy
 id: specify-implementation-research-questions-step
 title: Specify implementation research questions as a distinct step in impact study design
 description: The guide treats the specification of implementation research questions as an explicit early step when embedding implementation research in an impact study.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

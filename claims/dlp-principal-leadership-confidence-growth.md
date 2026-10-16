@@ -3,7 +3,7 @@ type: claim
 title: "Principals' confidence in leadership skills related to instructional coaching rose from 60 to 95 percent over the pilot year"
 description: "Principals' confidence in leadership skills related to instructional coaching rose from 60 to 95 percent over the pilot year"
 id: dlp-principal-leadership-confidence-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

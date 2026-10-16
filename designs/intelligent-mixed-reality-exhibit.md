@@ -3,7 +3,7 @@ type: design
 id: intelligent-mixed-reality-exhibit
 title: Intelligent Mixed-Reality Exhibit
 description: A free-choice, hands-on exhibit augmented with computer-vision sensing and an animated character that runs a predict-observe-explain cycle over contrasting physical cases, then fades guidance into open-ended construction.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

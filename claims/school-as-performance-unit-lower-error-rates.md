@@ -3,7 +3,7 @@ type: claim
 title: Lower measurement error rates can be achieved when schools, rather than individual teachers, are the performance unit
 description: Lower measurement error rates can be achieved when schools, rather than individual teachers, are the performance unit
 id: school-as-performance-unit-lower-error-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

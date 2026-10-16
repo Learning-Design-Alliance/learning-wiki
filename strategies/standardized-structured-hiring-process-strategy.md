@@ -3,7 +3,7 @@ type: strategy
 id: standardized-structured-hiring-process-strategy
 title: Standardize the hiring process with structured interviews, competency-aligned protocols, and performance-based tasks
 description: "The guide urges hiring teams to standardize hiring by \"Auditing, updating, and standardizing the hiring process,\" \"Developing a structured interview process that aligns ideal candidate competencies with interview ques..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -4,7 +4,7 @@ id: amplify-science
 title: Amplify Science
 description: Amplify Science is a phenomena-based K–8 science curriculum developed and provided by Amplify Education, integrating hands-on investigation, literacy practices, modeling, and explanation to support three-dimensional science learning.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Unsupervised hierarchical clustering of knowledge vectors recovers expert bundle structure without bundle labels
 description: Unsupervised hierarchical clustering of knowledge vectors recovers expert bundle structure without bundle labels
 id: clustering-recovers-expert-bundles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

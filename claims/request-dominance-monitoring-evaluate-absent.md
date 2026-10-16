@@ -3,7 +3,7 @@ type: claim
 title: "During AI-tutor interactions, students' turns were dominated by help requests with near-absent monitoring and evaluation"
 description: "During AI-tutor interactions, students' turns were dominated by help requests with near-absent monitoring and evaluation"
 id: request-dominance-monitoring-evaluate-absent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

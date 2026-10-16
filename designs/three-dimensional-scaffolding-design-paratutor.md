@@ -3,7 +3,7 @@ type: design
 id: three-dimensional-scaffolding-design-paratutor
 title: Three-dimensional scaffolding design coordinating user roles, tutoring phases, and guidance strategies
 description: "ParaTutor organizes its support as a design that \"coordinates user roles, tutoring phases, and guidance strategies during parent-child math tutoring.\" The role dimension differentiates support between parents (guidanc..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

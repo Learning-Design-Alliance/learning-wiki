@@ -3,7 +3,7 @@ type: claim
 title: "AI Paradox: students report higher confidence in critical AI awareness than in operational AI usage (p = 0.015)"
 description: "AI Paradox: students report higher confidence in critical AI awareness than in operational AI usage (p = 0.015)"
 id: ai-paradox-critical-awareness-overestimation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Even highly qualified students need strong parental support combined with structured school support to conduct an effective college search and enroll in a matched college
 description: Even highly qualified students need strong parental support combined with structured school support to conduct an effective college search and enroll in a matched college
 id: parental-and-structured-school-support-college-search
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

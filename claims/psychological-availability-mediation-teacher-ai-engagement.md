@@ -3,7 +3,7 @@ type: claim
 title: Psychological availability mediates the positive pathway from teacher–AI collaboration to work engagement
 description: Psychological availability mediates the positive pathway from teacher–AI collaboration to work engagement
 id: psychological-availability-mediation-teacher-ai-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

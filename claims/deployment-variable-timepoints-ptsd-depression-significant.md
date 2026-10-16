@@ -3,7 +3,7 @@ type: claim
 title: At other (variable) time points since exposure, deployed personnel show significantly higher odds of PTSD and depression than non-deployed personnel, while the common mental disorder analysis is inconclusive
 description: At other (variable) time points since exposure, deployed personnel show significantly higher odds of PTSD and depression than non-deployed personnel, while the common mental disorder analysis is inconclusive
 id: deployment-variable-timepoints-ptsd-depression-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

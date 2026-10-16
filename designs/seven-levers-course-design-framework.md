@@ -3,7 +3,7 @@ type: design
 id: seven-levers-course-design-framework
 title: Seven-lever course-design framework for shaping student AI use
 description: "The framework defines a lever as \"a recurring feature of the course environment that students experience, that can be configured differently by someone within the institution, and that may influence what students do w..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Language-learning app design is criticized as basic, replicating earlier technologies with limited instruction and feedback
 description: Language-learning app design is criticized as basic, replicating earlier technologies with limited instruction and feedback
 id: mall-app-design-basic-limited-feedback-criticism
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

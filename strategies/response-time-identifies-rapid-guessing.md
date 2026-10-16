@@ -3,7 +3,7 @@ type: strategy
 id: response-time-identifies-rapid-guessing
 title: Use response time to identify test taker disengagement as rapid-guessing behavior
 description: "This strategy uses item response time on computer-based tests to detect disengagement: when a test taker responds too quickly for the item to have been meaningfully considered, the response is flagged as rapid-guessin..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: small-group-then-home-decodable-practice
 title: Introduce take-home decodable packs through teacher-led small-group instruction before sending them home
 description: The program sequences practice so students first encounter the decodable texts in small-group instruction, where teachers model decoding strategies and guide application, and only then take the packs home for continue...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Virtual pre-K observations posed substantial logistical challenges despite being practical
 description: Virtual pre-K observations posed substantial logistical challenges despite being practical
 id: virtual-pre-k-observations-logistical-challenges
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

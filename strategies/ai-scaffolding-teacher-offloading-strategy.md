@@ -3,7 +3,7 @@ type: strategy
 id: ai-scaffolding-teacher-offloading-strategy
 title: Integrate AI-driven scaffolding with teacher-led offloading and refine feedback granularity to prevent over-scaffolding
 description: Based on the observed differentiated trajectories and the time-lag effect in lower-performing cohorts, the authors recommend that future models integrate AI-driven scaffolding with teacher-led offloading to mitigate t...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

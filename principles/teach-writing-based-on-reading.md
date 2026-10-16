@@ -3,7 +3,7 @@ type: principle
 id: teach-writing-based-on-reading
 title: Teach writing based on reading so learners use meaningful input to accomplish output tasks
 description: "Because writing must be taught within intensive reading classes for non-English majors, the article recommends integrating the two: “Reading provides the students with the meaningful language input, which includes not..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

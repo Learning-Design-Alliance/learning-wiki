@@ -3,7 +3,7 @@ type: design
 id: cogevolution-agent-framework
 title: "CogEvolution framework: ICAP perception, IRT-based memory retrieval, and evolutionary cognitive state update"
 description: CogEvolution is a generative educational agent architecture that shifts from static personas to dynamic cognitive flow.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

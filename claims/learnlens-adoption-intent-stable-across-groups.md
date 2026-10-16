@@ -3,7 +3,7 @@ type: claim
 title: "Adoption intent does not differ significantly across teacher prior-practice groups, with every cohort exceeding 65% willingness to continue using LearnLens"
 description: "Adoption intent does not differ significantly across teacher prior-practice groups, with every cohort exceeding 65% willingness to continue using LearnLens"
 id: learnlens-adoption-intent-stable-across-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

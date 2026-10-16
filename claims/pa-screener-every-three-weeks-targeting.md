@@ -3,7 +3,7 @@ type: claim
 title: PA Lessons implementation included testing students with the Phonological Awareness Screener for Intervention every three weeks to target instruction
 description: PA Lessons implementation included testing students with the Phonological Awareness Screener for Intervention every three weeks to target instruction
 id: pa-screener-every-three-weeks-targeting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

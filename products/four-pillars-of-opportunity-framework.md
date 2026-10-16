@@ -4,7 +4,7 @@ id: four-pillars-of-opportunity-framework
 title: Four Pillars of Opportunity framework
 description: "Cook-Harvey et al.'s framework organizes equitable ESSA implementation around access to higher-order learning, multiple equity measures, resource equity, and evidence-based interventions."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

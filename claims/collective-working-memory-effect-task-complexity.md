@@ -3,7 +3,7 @@ type: claim
 title: Collaborative tasks should be complex enough that joint effort is worthwhile, engaging the collective working memory effect
 description: Collaborative tasks should be complex enough that joint effort is worthwhile, engaging the collective working memory effect
 id: collective-working-memory-effect-task-complexity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

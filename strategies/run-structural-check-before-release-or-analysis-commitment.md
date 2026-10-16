@@ -3,7 +3,7 @@ type: strategy
 id: run-structural-check-before-release-or-analysis-commitment
 title: Run the structural check on a synthetic dataset, using only permutations of itself, before release or before committing to a line of analysis
 description: The article recommends its surrogate-based structural check as a cheap, early screening step for synthetic educational datasets.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -45,4 +45,4 @@ The article recommends its surrogate-based structural check as a cheap, early sc
 -
 
 ## Key Sources
-- Inoue, H., & Yasutake, K. (2026). What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data. Proceedings of the 34th International Conference on Computers in Education. Asia-Pacific Society for Computers in Education. https://arxiv.org/abs/2609.27265
+- Inoue, H., & Yasutake, K. (2026). What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data. Proceedings of the 34th International Conference on Computers in Education. Asia-Pacific Society for Computers in Education. https://arxiv.org/abs/2609.27265. [doi:10.48550/arxiv.2609.27265](https://doi.org/10.48550/arxiv.2609.27265)

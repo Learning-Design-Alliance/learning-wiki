@@ -3,7 +3,7 @@ type: claim
 title: A large-scale experimental study compared the effects of the four mathematics curricula on student achievement
 description: A large-scale experimental study compared the effects of the four mathematics curricula on student achievement
 id: large-scale-experimental-study-curricula-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Students meeting the continuous four-term persistence definition completed college at higher rates than students meeting the third-semester definition, for both bachelor's and community college enrollees"
 description: "Students meeting the continuous four-term persistence definition completed college at higher rates than students meeting the third-semester definition, for both bachelor's and community college enrollees"
 id: persisters-completion-rates-by-definition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

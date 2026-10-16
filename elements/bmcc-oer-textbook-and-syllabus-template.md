@@ -3,7 +3,7 @@ type: element
 id: bmcc-oer-textbook-and-syllabus-template
 title: Faculty-authored OER digital textbook and equitized syllabus template at BMCC
 description: At Borough of Manhattan Community College, more than 20 instructors joined the core team to equitize syllabi and develop culturally responsive open educational resources for Speech 100.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

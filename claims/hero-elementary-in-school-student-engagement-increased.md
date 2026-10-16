@@ -3,7 +3,7 @@ type: claim
 title: Students were highly engaged in the in-school environment, with engagement increasing over the implementation duration.
 description: Students were highly engaged in the in-school environment, with engagement increasing over the implementation duration.
 id: hero-elementary-in-school-student-engagement-increased
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

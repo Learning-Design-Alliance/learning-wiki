@@ -3,7 +3,7 @@ type: claim
 title: "Algorithmic empathy is culturally fragile: emotional inference errors in socio-emotional AI can invalidate teachers' experiences, so systems require local validation and participatory design"
 description: "Algorithmic empathy is culturally fragile: emotional inference errors in socio-emotional AI can invalidate teachers' experiences, so systems require local validation and participatory design"
 id: cultural-fragility-algorithmic-empathy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

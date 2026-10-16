@@ -3,7 +3,7 @@ type: claim
 title: High-quality tutoring produces large learning gains cost-effectively, in person and virtually
 description: High-quality tutoring produces large learning gains cost-effectively, in person and virtually
 id: tutoring-large-cost-effective-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

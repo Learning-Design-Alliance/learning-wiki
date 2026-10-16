@@ -3,7 +3,7 @@ type: claim
 title: "Payne suspects that a school's inability to talk openly about race predicts its capacity for change"
 description: "A school's inability to talk openly about race is a proxy for its general capacity for change"
 id: racial-reticence-predicts-school-change-capacity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

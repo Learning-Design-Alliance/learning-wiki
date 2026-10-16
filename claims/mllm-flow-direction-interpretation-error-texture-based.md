@@ -3,7 +3,7 @@ type: claim
 title: Texture-based visualizations expose MLLM difficulty in decoding local flow direction from animated vector fields, a difficulty specific to dense texture-based motion rather than directional reasoning generally
 description: Texture-based visualizations expose MLLM difficulty in decoding local flow direction from animated vector fields, a difficulty specific to dense texture-based motion rather than directional reasoning generally
 id: mllm-flow-direction-interpretation-error-texture-based
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

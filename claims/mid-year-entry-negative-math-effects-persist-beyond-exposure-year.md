@@ -3,7 +3,7 @@ type: claim
 title: "Mid-year entry continues to negatively influence stable students' math performance beyond the year of exposure"
 description: "Mid-year entry continues to negatively influence stable students' math performance beyond the year of exposure"
 id: mid-year-entry-negative-math-effects-persist-beyond-exposure-year
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
