@@ -5,6 +5,34 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-10-16 (later) — the Learner Variability Navigator, Breit et al. 2025, fix pass, hq-wave-1
+
+- **Learner Variability Navigator** (Digital Promise, CC BY-NC 4.0): 368 factors in 10 models. 39 factors had no
+  learner-variable page and now have one, written in the wiki's own words from the factor summaries across models,
+  with the Navigator's measures, its factor connections as related variables, and the Navigator under Key Sources.
+  `link_learner_variables.py` then linked 987 claims into them. The Navigator's "Math Mindset" describes
+  self-efficacy and self-concept, so its connections point at `self-efficacy`, not `mindset`. Its reference lists
+  (about 4,200 distinct works) were matched on Crossref by title, first author and year (3,407 matched; the 792
+  unmatched carry no DOI); 1,220 have an open copy, and a title screen kept 960 that bear on learning
+  (`eval/runs/queues/lvn-screened.ndjson`, ignored). Learning Commons' knowledge graph lists the Navigator but does
+  not publish it yet.
+- **Breit, Schneider & Preckel 2025** (systematic review of 30 meta-analyses of learner characteristics and
+  mathematics achievement): 15 claims, one per characteristic, worded as correlations; nine further learner
+  variables (spatial ability, number sense, academic self-concept, achievement goals, achievement emotions,
+  personality traits, need for cognition, creativity, emotional intelligence); a *How strongly it relates to
+  achievement* section on 18 variable pages.
+- **Fix pass**: eight agents worked through the batch reports (wrong link targets, off-topic citations,
+  overstated titles, unsupported i codes, DOIs). 18 duplicate claim pairs with an obvious survivor were folded;
+  pairs whose titles disagree were left for the maintainer. 714 evidence markers above `strength_cap` were
+  lowered (a header counting "sources" rather than "studies" had read as no evidence; corrected before applying).
+- **hq-wave-1** (citation chase plus LVP-strategy citations): 62 of 107 fetched, 57 ingested. Two fetches from
+  the old cache were other documents under a generic title (Zimmerman 1990 a Spanish thesis, Andrade 2009 a
+  TESL Journal piece); their 13 pages were removed, and `fetch_article.matches_author` now requires the first
+  author's surname in the opening, applied to cached texts too (refuses exactly those two of 62). The ingest
+  citation parser read only "(2021)"; Chicago, dated APA and IEEE citations had fallen back to extraction anchors
+  as headings ("formative-dk-1") on 14 pages, now repaired. The harness hung an hour on one judge request after
+  generation; a `--resume` rerun finished it.
+
 ## 2026-10-16 — citation chase, no drafts, duplicate folds, twelve learner variables, study tables for 249 pages
 
 - **Citation chase** (`chase_citations.py`): works cited by two or more of the wiki's strongest studies. 134 were
