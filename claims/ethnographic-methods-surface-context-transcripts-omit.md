@@ -30,7 +30,7 @@ sources:
 # Ethnographically-oriented methods surface five dimensions of classroom context that text-only transcripts omit, including multimodal communication and relationships
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r3` · `q2`
+> **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Participant observations, interviews, and focus groups recovered contextual dimensions—environment, lesson structure, multimodal communication, language ideologies, and relationships—that transcripts lose. [→ Liliana Santos-Deonizio 2027](#liliana-santos-deonizio-2027)

@@ -30,7 +30,7 @@ sources:
 # Scaffolding level provides no consistent additional predictive information about subsequent exam performance beyond prior achievement and observed dialogue behavior
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Adding mean scaffolding level to regression models of exam scores increased explained variance by only 1–2 percentage points, none of the three model comparisons reached conventional statistical significance, and the estimated scaffolding coefficient changed direction for e3. [→ Suhyeon Lee 2026](#suhyeon-lee-2026)

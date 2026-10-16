@@ -30,7 +30,7 @@ sources:
 # Chinese-developed models lead the safety module, with the refusal gap concentrated on region-specific normative content (difference-in-differences of 28.9 points)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 associational `r1`, 1 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` U.S.-developed systems decline 39.5–50.4% of refusable requests while three of four Chinese-developed general models decline 94.7–99.0% and the safety-specialized variant declines 99.7%. [→ Yilin Jiang 2026](#yilin-jiang-2026)

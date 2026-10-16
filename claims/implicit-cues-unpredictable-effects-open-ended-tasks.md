@@ -30,7 +30,7 @@ sources:
 # Implicit demographic cues produce larger and less predictable effects in open-ended tasks, including longer responses for laptop users and education-related length effects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Response length shows more significant effects under implicit than explicit conditioning, with laptop users consistently receiving longer responses across four models. [→ Donya Rooein 2026](#donya-rooein-2026)

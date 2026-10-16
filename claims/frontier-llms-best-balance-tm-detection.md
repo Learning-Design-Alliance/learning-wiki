@@ -30,7 +30,7 @@ sources:
 # Frontier LLMs achieve the best balance between detecting misconceptions in correct-answer cases and not over-flagging correct students, while fine-tuned local models achieve under 58% TM recall
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r?`, 1 design `r?` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Gemini 3 Flash reaches 83.6% TM recall with 94.0% TC recall, significantly better than fine-tuned T5 on TM detection. [→ Moiz Imran and Sahan Bulathwela 2026](#moiz-imran-and-sahan-bulathwela-2026)

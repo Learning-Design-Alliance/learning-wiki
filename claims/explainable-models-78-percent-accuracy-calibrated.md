@@ -30,7 +30,7 @@ sources:
 # Explainable models including logistic regression, kNN and a Bernoulli Mixture Model all reach around 78% accuracy in predicting question-level pass/fail, with well-calibrated probabilities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` All model classes perform broadly similarly, with the multi-question logistic regression best on accuracy at around 78% and the constant-probability baseline far below at 51.4%. [→ Benjamin Mawdsley 2026](#benjamin-mawdsley-2026)

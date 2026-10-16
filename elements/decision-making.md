@@ -58,6 +58,10 @@ Decision-making tasks support learning because they require learners to actively
 - [All three instructional groups began at comparable, mostly low decision-making levels and all improved over the intervention](../claims/all-groups-improved-from-low-baseline.md) [+W]
 - [Reflective strategies such as cognitive forcing, pre-commitment, and uncertainty communication reduce overreliance on AI and improve decision quality, but have been evaluated only as short-term single-session interventions](../claims/reflective-strategies-short-term-only-evidence.md) [~W]
 
+## The evidence by question
+- *Does instruction built around making and justifying decisions improve learners' decision-making, and which form of it does most?* [All three instructional groups began at comparable, mostly low decision-making levels and all improved over the intervention](../claims/all-groups-improved-from-low-baseline.md) [+M]
+- *When learners make decisions with AI support, does the support erode their own judgement, and do reflection prompts protect it?* [Over-reliance on AI dialogue systems fosters complacency and dependency that impairs students' decision-making abilities](../claims/ai-overreliance-impairs-decision-making.md) [~M]
+
 ## Related Elements
 - [Collaborative Decision-Making](collaborative-decision-making.md) — the group variant; negotiation of criteria is the added learning mechanism
 - [Role-Playing](role-playing.md) — assigns stakeholders and interests, giving each decision-maker a distinct evaluative lens

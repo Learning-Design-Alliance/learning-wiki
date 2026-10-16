@@ -30,7 +30,7 @@ sources:
 # Higher post-task trust in an AI assistant predicts lower appropriate reliance during AI-assisted programming problem-solving
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q3` · `i3` large
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i?` In a regression, trust was a strong negative predictor of appropriate reliance (b = -3.65, p < .001, R2 = .173). [→ Griffin Pitts 2026](#griffin-pitts-2026)

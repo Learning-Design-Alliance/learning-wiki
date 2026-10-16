@@ -30,7 +30,7 @@ sources:
 # Only 11.1% of interactions pair mastery-oriented aims with advanced strategies such as epistemic justification
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Profiles in which mastery-oriented aims co-occur with epistemic justification (and explanation seeking) account for only 11.1% of observed interactions. [→ Menggian Wu 2026](#menggian-wu-2026)

@@ -30,7 +30,7 @@ sources:
 # Chinese HSS students prefer partial or optional GenAI curricular integration supported by practice-oriented training and clear institutional guidelines
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` 54.97% preferred partial integration and 27.21% optional embedding, while only 17.16% supported full integration. [→ Lei Fan and Fangxue Liu 2026](#lei-fan-and-fangxue-liu-2026)

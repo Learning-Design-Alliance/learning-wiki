@@ -30,7 +30,7 @@ sources:
 # Cybersickness remains a persistent practical challenge, affecting approximately 42% of VR users, and can occur in AR where symptoms may exceed those in VR
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 review `r?`, 1 theoretical `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · review `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Recent studies still report substantial prevalence rates of cybersickness symptoms, with approximately 42% of participants affected when using VR headsets. [→ Ross 2025](#ross-2025)

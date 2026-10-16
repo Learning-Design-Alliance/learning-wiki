@@ -30,7 +30,7 @@ sources:
 # Under persona simulation with hidden ground-truth mastery, Adaptive sessions yield lower final-belief mastery MAE (0.12) than Random-topic (0.16) and Frozen (0.20) controls, and belief updates shrink as estimates converge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Final-belief mastery MAE is lowest under Adaptive (0.12 vs 0.16/0.20) in the 6-persona Claude Sonnet 4.5-graded run. [→ Kailai He 2026](#kailai-he-2026)

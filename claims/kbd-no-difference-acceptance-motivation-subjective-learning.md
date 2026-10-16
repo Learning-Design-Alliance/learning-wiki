@@ -30,7 +30,7 @@ sources:
 # KBD configuration produced no significant between-condition differences in system acceptance, intrinsic motivation, or subjective learning effectiveness in a single tutoring session
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Intrinsic motivation was descriptively higher in the KBD condition but did not differ significantly. [→ Stephan Vonschallen 2026](#stephan-vonschallen-2026)

@@ -30,7 +30,7 @@ sources:
 # A fixed-threshold sequential risk policy concentrated persistent-failure alerts within restricted alert budgets
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 associational `r2`, 1 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The sequential student-history policy triggered on 17.8% of test states with precision 0.566 and captured 25.2% of observed persistent failures. [→ Shihao Wang 2026](#shihao-wang-2026)

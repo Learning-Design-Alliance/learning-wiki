@@ -30,7 +30,7 @@ sources:
 # In a human Turing test, participants could not reliably distinguish BEAGLE traces from real student data (52.8% accuracy; d′ = 0.15 within the ±0.3 equivalence bound, pTOST = 0.038)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2` · `i0` negligible
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i0` Turing test classification accuracy was statistically equivalent to chance, with discriminability d′ = 0.15 falling significantly within the equivalence bound of ±0.3. [→ Hanchen David Wang 2026](#hanchen-david-wang-2026)

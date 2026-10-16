@@ -30,7 +30,7 @@ sources:
 # Students report that tests dominate assessment, carry too much weight, and create stress, while extended performance-based assessments offer better opportunities to learn and showcase learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students overwhelmingly feel tests carry too much weight and create stress and anxiety, and perceive tests as unfair when tested content does not align with lessons and homework. [→ Viki M. Young 2026](#viki-m-young-2026)

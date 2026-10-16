@@ -30,7 +30,7 @@ sources:
 # Under a matched 2,300-sample SFT budget, K12-Train-Text outperforms eight mainstream instruction-tuning corpora on GaokaoBench and EduEval across two base models
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On Qwen3-4B-Base, K12-Train-Text achieves the highest GaokaoBench total (1009.96), improving over the strongest baseline DataFlow (985.91) by +24.1; on Llama3.1-8B-Base it again obtains the highest total (625.49), outperforming WizardLM (593.08) by +32.4. [→ Hao Liang 2026](#hao-liang-2026)

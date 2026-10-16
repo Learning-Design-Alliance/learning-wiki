@@ -30,7 +30,7 @@ sources:
 # A calibrated logistic-regression model predicts next-assessment pass/fail strongly on OULAD at both decision horizons
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The calibrated logistic-regression baseline achieves AUC 0.884 at d-14 and 0.889 at d-7 on held-out test presentations. [→ Ngoc Luyen Le 2026](#ngoc-luyen-le-2026)

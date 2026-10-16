@@ -30,7 +30,7 @@ sources:
 # During REMind, nearly all children reported feeling sad for the victim and attributed bystander inaction mainly to low confidence or fear of retaliation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 qualitative `r3`, 1 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` 94% of participants (17 of 18) felt sad for the victim robot JITTER after watching the bullying scene. [→ Elaheh Sanoubari 2026](#elaheh-sanoubari-2026)

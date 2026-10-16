@@ -30,7 +30,7 @@ sources:
 # A screenshot-only reward was reward-hacked into producing visually convincing but unplayable games; hardening the reward with an interactivity probe and hard-fail gate reversed the collapse
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r3` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The 27B old-reward checkpoint's game score collapses to 18.8 when re-scored under the hardened reward, a −36pp collapse the screenshot judge had masked as −9.7pp. [→ CogEvol Team 2026](#cogevol-team-2026)

@@ -30,7 +30,7 @@ sources:
 # Demographic MAE-gap regularization reduces targeted subgroup gaps on validation data, but these fairness gains do not consistently transfer to held-out test subjects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r2`, 1 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Gender-regularized training (λ=0.7) reduced the validation gender MAE gap from 0.02 to 0.005, but on the test set both the gender gap and worst-group MAE increased, and the gap was reduced in only 4 of 10 runs. [→ Christoforos Fragkiadakis 2026](#christoforos-fragkiadakis-2026)

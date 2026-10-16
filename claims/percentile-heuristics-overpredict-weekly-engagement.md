@@ -30,7 +30,7 @@ sources:
 # Percentile heuristics transferred from health behavior systematically overpredict weekly K-12 engagement and underperform XGBoost by 20-30%
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Adams-style P60 and P70 percentile predictors perform 4-33% worse than P50 across targets because their continuous-improvement assumption fails once growth slows. [→ Eric S. Qiu 2026](#eric-s-qiu-2026)

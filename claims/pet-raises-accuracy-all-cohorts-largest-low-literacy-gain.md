@@ -30,7 +30,7 @@ sources:
 # Applying PET raises accuracy for every user cohort, with the largest gain for the Low Literacy cohort
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` All user cohorts benefit from PET, with the largest improvement for the Low Literacy cohort, whose accuracy increases from 82.4% to 83.4%. [→ Lier Jin 2026](#lier-jin-2026)

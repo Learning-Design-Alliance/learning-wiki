@@ -30,7 +30,7 @@ sources:
 # A persistent agentic research environment sustained near-daily use over 115 days, with 75,671 de-duplicated telemetry records across 96 active days (active-day fraction 0.835)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q1`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Over a 115-day observation window, recoverable main-agent telemetry contained 75,671 de-duplicated records across 96 active days, an active-day fraction of 0.835. [→ Anas H. Alzahrani 2026](#anas-h-alzahrani-2026)

@@ -30,7 +30,7 @@ sources:
 # LLMKT's predicted knowledge change curves on CoMTA are mixed across the 15 most frequent KCs, though overall they mostly resemble the power law of practice when dialogues have sufficient turns.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q1`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Of the 15 most frequent KCs, 5 trend towards increasing mastery, 5 towards decreasing mastery, and 5 do not change significantly. [→ Alexander Scarlatos 2024](#alexander-scarlatos-2024)

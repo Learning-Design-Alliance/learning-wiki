@@ -30,7 +30,7 @@ sources:
 # Participants held divided views on the star rating display: motivating feedback for some, a distracting oversimplification for others
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r2`–`r3` · `q2`
+> **Evidence** · 1 study (2 entries) · qualitative `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` Some students and one teacher found stars motivating and treated them as feedback rather than grades. [→ Raigul Zheldibayeva 2025](#raigul-zheldibayeva-2025)

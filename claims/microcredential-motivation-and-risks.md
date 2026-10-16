@@ -30,7 +30,7 @@ sources:
 # Micro-credentials function as motivational aids and carry perceived risks around credibility, visibility, and privacy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 review `r?`, 1 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Micro-credentials serve as recognition of learning, a motivational aid, and a progress-tracking assessment, with external reward signaling progress supporting learner self-efficacy. [→ Zohal Shah 2024](#zohal-shah-2024)

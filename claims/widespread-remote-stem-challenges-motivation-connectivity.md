@@ -30,7 +30,7 @@ sources:
 # Motivation, internet connectivity, and hardware/software problems were widespread challenges in remote STEM courses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` 82% of STEM students cited staying motivated as a problem, with 45% calling it a major problem. [→ Means 2020](#means-2020)

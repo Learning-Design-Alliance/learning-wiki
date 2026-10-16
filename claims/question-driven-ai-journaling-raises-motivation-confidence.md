@@ -30,7 +30,7 @@ sources:
 # Question-driven AI journaling increases intrinsic motivation and acting confidence among actors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Intrinsic motivation increased significantly in the AI-assisted condition (eta-squared = .201). [→ Sora Kang 2026](#sora-kang-2026)

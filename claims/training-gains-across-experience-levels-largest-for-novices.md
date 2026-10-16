@@ -30,7 +30,7 @@ sources:
 # Training improved accuracy across all digital-forensics experience and generative-AI familiarity groups, with the largest estimated gains among analysts with no forensics experience and frequent generative-AI users
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The BA×Post training effect was largest among participants with no prior forensics experience (9.2 percentage points, 95% CI: [3.5, 14.2]), with smaller gains of 5.4 and 2.0 points for the less-than-one-year and more-than-one-year groups. [→ Negar Kamali 2026](#negar-kamali-2026)

@@ -30,7 +30,7 @@ sources:
 # College students contribute to but cannot fully explain the summer dip in ChatGPT activity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r3` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The in-session response rises with an area's college student share, with an interaction of 0.122 (0.040) in the fall window. [→ Nick Huntington-Klein 2026](#nick-huntington-klein-2026)

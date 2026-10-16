@@ -30,7 +30,7 @@ sources:
 # Systems adapt to the specified learner persona in ways human raters can perceive, scoring well above chance in persona identification
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 associational `r2`, 1 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Raters identified the intended learner of shortlisted-system videos well above the 33.3% chance baseline, and the gap held in a mixed-effects logistic regression. [→ Lin 2026](#lin-2026)

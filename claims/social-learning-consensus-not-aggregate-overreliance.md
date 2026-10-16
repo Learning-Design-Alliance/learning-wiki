@@ -30,7 +30,7 @@ sources:
 # In the model, social learning creates consensus in trust without shifting aggregate reliance; connectivity alone does not produce collective overreliance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 theoretical `r3` · `q1`–`q2`
+> **Evidence** · 1 study (2 entries) · theoretical `r3` · `q1`–`q2`
 
 ## Subclaims
 `q2 i?` In the 2×2 topology×tagging design with feedback off, all four cells give overreliance 0.30–0.31; with feedback on, all rise together to ≈0.51. [→ Ahana Biswas 2026](#ahana-biswas-2026)

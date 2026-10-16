@@ -30,7 +30,7 @@ sources:
 # Design students' GenAI use concentrates on research, writing and brainstorming tasks, with low use for image, media and code generation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Research-related tasks (finding information, summarising, brainstorming) were selected by more than two thirds of respondents, while image, audio, video, games and code generation were selected by less than one in three. [→ Stefana Broadbent 2026](#stefana-broadbent-2026)

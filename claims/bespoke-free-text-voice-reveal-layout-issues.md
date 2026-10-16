@@ -30,7 +30,7 @@ sources:
 # Reviewer free-text comments identified synthetic voice, slide–narration reveal timing, and slide layout as the main remaining quality issues
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across 235 free-text comments on 73 of 92 videos, slide visual quality, slide layout, and voice drew the most remarks (31, 30, and 27 comments), including digit-by-digit number reading and narration preceding slide display. [→ Romain Puech 2026](#romain-puech-2026)

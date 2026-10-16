@@ -30,7 +30,7 @@ sources:
 # Bias transfer is asymmetric: prompt condition affects agency in female-target essays but not male-target essays, suppressing female agency while male writing remains stable
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2` · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` A significant Gender×Condition interaction (F=4.41, p=.014, η²p=.070) confirms the biased prompt widened the gender gap selectively rather than depressing agency uniformly. [→ Ariyan Hossain 2026](#ariyan-hossain-2026)

@@ -30,7 +30,7 @@ sources:
 # On fully correct responses, the GPT few-shot models outperformed the fine-tuned models, averaging less than one category distance from the gold score
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r1`, 1 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` GPT models in all few-shot scenarios, including two-shot, performed very well on fully or almost fully correct answers (score 9-10), with average distance under one category from gold. [→ Abigail Victoria Gurin Schleifer 2026](#abigail-victoria-gurin-schleifer-2026)

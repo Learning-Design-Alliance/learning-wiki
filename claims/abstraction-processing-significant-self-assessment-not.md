@@ -30,7 +30,7 @@ sources:
 # Abstraction and processing preferences, but not self-assessment, were significant predictors of perceived response complexity, abstraction, and processing style
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r1`, 1 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` A Bayesian ordinal mixed-effects model confirmed abstraction preference as a significant predictor of perceived complexity while self-assessment was not significant. [→ Saptarshi Basu 2026](#saptarshi-basu-2026)

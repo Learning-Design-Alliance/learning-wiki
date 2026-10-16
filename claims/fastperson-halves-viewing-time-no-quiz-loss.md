@@ -30,7 +30,7 @@ sources:
 # FastPerson video summarization halves viewing time with no significant quiz-score loss versus normal playback
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r1`, 1 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In experiments with 40 participants watching educational videos, FastPerson achieved an average 53% reduction in viewing time with no statistically significant difference in quiz scores compared with normal playback. [→ Kazuki Kawamura 2025](#kazuki-kawamura-2025)

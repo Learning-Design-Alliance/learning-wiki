@@ -30,7 +30,7 @@ sources:
 # EchoPrompt remains robust across attack settings, obtaining the best AUROC and Best-F1 in four out of five attack groups and improving over IRM by 0.24% AUROC on average
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` EchoPrompt sustains detection performance under direct prompting, prompt attacks, paraphrase, perturbation and data-mixing attacks. [→ Hongrui Bao 2026](#hongrui-bao-2026)

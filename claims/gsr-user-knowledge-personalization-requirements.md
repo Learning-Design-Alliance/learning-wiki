@@ -30,7 +30,7 @@ sources:
 # Participants required GSR user-knowledge of learning goals, progress, learning type, emotions, and background, with privacy safeguards and informed consent
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r3` · `q2`
+> **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` All participants agreed the robot needs access to user information related to learning, including goals, progress, learning type, and grades. [→ S. Vonschallen 2026](#s-vonschallen-2026)

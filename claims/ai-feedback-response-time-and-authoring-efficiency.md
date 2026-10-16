@@ -30,7 +30,7 @@ sources:
 # The AI feedback system returns responses in under a second for MCQs and about six seconds for open-ended questions, and its reusable prompt is roughly 2.77 times more time-efficient to prepare than equivalent educator text
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q1`–`q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q1`–`q2`
 
 ## Subclaims
 `q2 i?` Median system response time was 0.299 seconds for MCQs and 6.23 seconds for open-ended questions. [→ Chloe Qianhui Zhao 2026](#chloe-qianhui-zhao-2026)

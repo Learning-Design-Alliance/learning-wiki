@@ -30,7 +30,7 @@ sources:
 # Individual trajectories suggest heavy LLM use focused on support other than full answer generation can coexist with improving scores, whereas reliance on LLM-generated summaries was associated with declining scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1` · `q1`
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q1`
 
 ## Subclaims
 `q1 i?` S61, who used all categories except Generating Answers, showed steadily increasing midterm scores (69% to 72% to 79%). [→ Minju Park 2026](#minju-park-2026)

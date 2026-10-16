@@ -30,7 +30,7 @@ sources:
 # An exploratory path model suggests perceived responsible behavior mediates the association between KBD and both learner motivation and acceptance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Perceived alignment with responsible behavior significantly predicted motivation (β = .588) and acceptance (β = .512) in the path model. [→ Stephan Vonschallen 2026](#stephan-vonschallen-2026)

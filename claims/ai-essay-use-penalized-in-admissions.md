@@ -30,7 +30,7 @@ sources:
 # Applicants who submitted AI-written essays were admitted at lower rates than comparable non-users, with an estimated penalty of about 1.5 percentage points per AI-written essay
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Double machine learning estimates controlling for roughly 400 covariates show a 1.5 p.p. decrease in admission probability per AI-written essay (significant at p < 0.01). [→ Calvin Isley 2026](#calvin-isley-2026)

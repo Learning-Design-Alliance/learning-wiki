@@ -30,7 +30,7 @@ sources:
 # Back-translation yields higher human agreement on spatial checks, while LLM-as-a-Judge considerably outperforms it on the angle-label check
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Back-translation performs better on both spatial checks even when the judge is given the image, but the judge considerably outperforms back-translation on the angle-labels check. [→ Vishal Kumar 2025](#vishal-kumar-2025)

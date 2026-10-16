@@ -30,7 +30,7 @@ sources:
 # Pushing for comprehensible output drives understanding and assimilation of comprehensible input
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r1`–`r2` · `q1`
+> **Evidence** · 1 study (2 entries) · qualitative `r1`–`r2` · `q1`
 
 ## Subclaims
 `q1 i?` A clearer understanding of a structure such as the past progressive was achieved when the learner pushed for it in output, not when input containing it was merely directed at the learner. [→ Yu Liming 1990](#yu-liming-1990)

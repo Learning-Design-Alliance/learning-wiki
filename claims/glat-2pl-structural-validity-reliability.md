@@ -30,7 +30,7 @@ sources:
 # GLAT shows robust structural validity and reliability under a 2-parameter logistic IRT model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The 2PL model fit better than the Rasch model, while the 3PL model did not significantly improve fit over the 2PL model. [→ Yueqiao Jin 2024](#yueqiao-jin-2024)

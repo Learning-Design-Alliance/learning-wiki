@@ -30,7 +30,7 @@ sources:
 # Synchronous autonomous AI suggestions increased perceived writing efficiency but also caused distraction and mental overload during writing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Participants perceived synchronous suggestions as making writing more efficient by merging editing into the writing pass. [→ Michael Yin 2026](#michael-yin-2026)

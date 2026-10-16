@@ -47,6 +47,10 @@ Concept mapping is the element in which learners represent concepts and their re
 - [Learner-constructed graphic organizers are not shown to outperform provided ones: the one direct test, with college readers, favoured provided organizers on transfer](../claims/learner-constructed-graphic-organizers-outperform-provided.md) [+M]
 - [AI-section students showed tool-linked self-efficacy and attenuated metacognitive calibration, with the human-pair contrast group showing larger concept-map gains in cross-links and hierarchy](../claims/attenuated-calibration-tool-linked-self-efficacy.md) [~W]
 
+## The evidence by question
+
+- *Does having learners build an organization of the content as a concept map help, and against what comparison?* [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](../claims/concept-mapping-improves-learning.md) [+S]
+
 ## Related Elements
 
 - [Graphic Organizers](graphic-organizers.md)

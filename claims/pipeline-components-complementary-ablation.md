@@ -46,7 +46,7 @@ sources:
 # Pipeline components play complementary roles: hierarchical generation has the largest effect, grounding improves specificity and factual accuracy, and cluster-informed TOC planning improves structure and audience fit
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (4 entries) · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (4 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Removing TOC planning, clustering, and source chunks (Baseline C) drops overall judged quality from 9.38 to 6.12 (−3.26), the largest observed component effect. [→ Jiawen Tao 2026](#jiawen-tao-2026)

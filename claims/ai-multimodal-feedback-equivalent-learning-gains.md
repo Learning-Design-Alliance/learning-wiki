@@ -30,7 +30,7 @@ sources:
 # AI multimodal feedback produces post-test learning gains equivalent to educator feedback after controlling for pre-test performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i?` In a randomized online experiment, post-test scores did not differ significantly between the AI multimodal feedback condition and the business-as-usual educator feedback condition after controlling for pre-test scores. [→ Chloe Qianhui Zhao 2026](#chloe-qianhui-zhao-2026)

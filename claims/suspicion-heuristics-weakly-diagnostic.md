@@ -30,7 +30,7 @@ sources:
 # Impression narratives rely on weakly diagnostic suspicion heuristics such as response speed, fluency, and perceived scriptedness
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` BERTopic analysis of 1,568 impression texts found a dominant generic humanness topic (59.6% of texts) and low mutual information between topic membership and identity judgment (MI = 0.089). [→ Lixiang Yan 2026](#lixiang-yan-2026)

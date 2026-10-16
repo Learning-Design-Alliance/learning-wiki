@@ -30,7 +30,7 @@ sources:
 # Teachers judged the AI-generated scaffolds relevant and of similar quality to their own questions, though some felt the wording was too fancy or long and needed modification
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 qualitative `r2`, 1 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` All teachers voiced that the generated questions were interesting, relevant, and similar in quality to questions they write themselves. [→ Gennie Mansi 2026](#gennie-mansi-2026)

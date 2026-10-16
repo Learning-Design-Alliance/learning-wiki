@@ -30,7 +30,7 @@ sources:
 # In simulation the router matches the empirically optimal subject strategy in 8 of 13 subjects, but retreats to a safe strategy where gains are marginal
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In 8 of 13 evaluated subjects the router's predicted prompt exactly matched the empirically optimal prompt (Gap = 0.000), with an overall alignment rate (Gap≤0.01) of 69.2%. [→ Po-Chin Chang 2026](#po-chin-chang-2026)

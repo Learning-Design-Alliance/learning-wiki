@@ -30,7 +30,7 @@ sources:
 # Profile-based aggregation across both trace sources achieves the best SAT Math performance and remains stronger than matched repeated direct-prompt generation under the same rollout budget
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On SAT Math, profile-based aggregation across both trace sources (Both (Role)) reaches 0.730 accuracy and 0.728 macro-F1, compared with 0.707/0.708 for source-level aggregation. [→ Chenguang Wang 2026](#chenguang-wang-2026)

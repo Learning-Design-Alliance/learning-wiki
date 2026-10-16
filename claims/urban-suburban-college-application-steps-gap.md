@@ -30,7 +30,7 @@ sources:
 # Low-income urban students complete college-application steps at far lower rates than suburban peers with similar aspirations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 review `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Among Boston seniors planning four-year college, slightly more than half had obtained an application by fall of senior year versus 91 percent of suburban peers, and 18 percent versus 41 percent had applied. [→ Melissa Roderick 2009](#melissa-roderick-2009)

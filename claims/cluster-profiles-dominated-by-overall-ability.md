@@ -30,7 +30,7 @@ sources:
 # Cluster profiles of student mathematics performance are dominated by overall ability, with most clusters being linear rescalings of average exam performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Most BMM clusters are strongly linearly correlated with each other and with average exam score, indicating overall ability rather than distinct skill profiles drives cluster shape. [→ Benjamin Mawdsley 2026](#benjamin-mawdsley-2026)

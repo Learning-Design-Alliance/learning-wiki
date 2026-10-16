@@ -30,7 +30,7 @@ sources:
 # Models reproduce high-proficiency writing more faithfully than authentic low-proficiency linguistic form, with distinct failure modes by method
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` At low proficiency targets, prompting (Claude CTP) simulates low proficiency mainly through excessive casing and spelling errors with overly simple syntax, while SFT and GRPO recover lexical and structural properties but generate unrealistically few grammatical and spelling errors. [→ Heejin Do 2026](#heejin-do-2026)

@@ -30,7 +30,7 @@ sources:
 # English-delivered AI explanations impose a double cognitive burden: foreign-language content significantly reduced learning outcomes versus native-language instruction in controlled higher-education studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 review `r2`, 1 theoretical `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Exposure to academic content in a foreign language without explicit language support significantly reduced both content and language learning outcomes compared to native-language instruction (Roussel et al., 294 students). [→ Avijit Roy 2026](#avijit-roy-2026)

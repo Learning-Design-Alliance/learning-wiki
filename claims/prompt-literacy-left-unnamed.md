@@ -30,7 +30,7 @@ sources:
 # No existing AI literacy framework explicitly names prompt construction as a competency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 theoretical `r3` · `q1`
+> **Evidence** · 1 study (2 entries) · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Long and Magerko's, Ng et al.'s, and Allen and Kendeou's frameworks could accommodate prompting in principle but none names, operationalizes, or distinguishes it. [→ Shahin Hossain 2026](#shahin-hossain-2026)

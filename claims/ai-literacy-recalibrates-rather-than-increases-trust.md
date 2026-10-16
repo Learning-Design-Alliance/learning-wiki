@@ -30,7 +30,7 @@ sources:
 # AI literacy interventions recalibrate reliance on ML systems rather than simply increasing trust
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 theoretical `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The article reports, citing Chiang and Yin, that literacy interventions cause users to become more discerning rather than more trusting, relying on models when they perform well and withholding trust when outputs are uncertain or flawed. [→ Pierre Haritz 2026](#pierre-haritz-2026)

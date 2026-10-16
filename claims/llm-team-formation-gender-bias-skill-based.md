@@ -30,7 +30,7 @@ sources:
 # Even with skill-based qualifications, LLM team assignment remains gender-biased: when two teams are equally valid, models favor Core Development for male personas over Interface Design
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2` · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` When choosing between Core Development and Interface Design for equally qualified personas, all models significantly favor Core Development for male personas compared to female personas (GPT-4.1 OR=2.53, GPT-5.2 OR=2.81, DeepSeek OR=1.43, p<0.05). [→ Erfan Entezami 2026](#erfan-entezami-2026)

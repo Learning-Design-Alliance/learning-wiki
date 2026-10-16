@@ -30,7 +30,7 @@ sources:
 # A structured mixture-of-experts candidate improved some corrections on fixed-evidence cases but introduced new factual and continuity regressions, so activation was held
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2`–`r3` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` The structured Qwen mixture-of-experts response had a faster warm median (3.00 s versus 3.47 s for 8B) but review found three regressions across twelve fixed-evidence cases. [→ Sidney Shapiro and Joshua Lindemann 2026](#sidney-shapiro-and-joshua-lindemann-2026)

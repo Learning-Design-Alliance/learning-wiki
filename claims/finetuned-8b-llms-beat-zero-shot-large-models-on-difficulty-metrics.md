@@ -30,7 +30,7 @@ sources:
 # Fine-tuned 8B LLMs generate K-2 stories with difficulty-related metric scores statistically significantly different from (mostly better than) zero-shot GPT-4o and Llama 3.3 70B
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r1`, 1 design `r2` · `q2` · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Welch's T-tests comparing best-performing fine-tuned 8B stories against GPT-4o and Llama 3.3 70B stories show all p-values below 0.001 and all Cohen's d greater than 0.8 for coherence, syntactic complexity, Spache readability, and LM-PPL. [→ Qian Shen 2026](#qian-shen-2026)

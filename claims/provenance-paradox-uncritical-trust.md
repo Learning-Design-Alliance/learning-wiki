@@ -30,7 +30,7 @@ sources:
 # Source provenance labels functioned as a seal of authority: 11 of 12 participants failed to detect a planted source-card mismatch
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1`–`r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a controlled deception experiment, only 1 of 12 participants detected the source-card mismatch; the remaining 11 accepted it without hesitation. [→ Ruqi Sun 2026](#ruqi-sun-2026)

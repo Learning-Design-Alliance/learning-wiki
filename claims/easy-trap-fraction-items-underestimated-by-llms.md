@@ -30,7 +30,7 @@ sources:
 # LLMs systematically underestimate fraction items whose difficulty is driven by misconceptions (the "Easy Trap")
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Fraction items consistently rated as easy by LLMs were among the most difficult for students; in the most extreme case only 34.2% of students correctly solved 100 ÷ 1/2. [→ La Hadi 2025](#la-hadi-2025)

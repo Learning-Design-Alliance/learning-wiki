@@ -30,7 +30,7 @@ sources:
 # Practicing cover letter writing with an AI tool improved unassisted writing skill more than practicing without AI or not practicing, with benefits persisting one day later
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r3` · `q4` · `i1`–`i2`
+> **Evidence** · 1 study (2 entries) · causal `r3` · `q4` · `i1`–`i2`
 
 ## Subclaims
 `q4 i1` Participants who practiced with the AI tool wrote better cover letters on a no-AI test than those who practiced without AI (d=.38) or did not practice (d=.47). [→ Benjamin Lira 2025](#benjamin-lira-2025)

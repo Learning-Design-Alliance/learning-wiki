@@ -30,7 +30,7 @@ sources:
 # Student-AI conversations under teacher-authored prompts largely stay on the intended task (71% fully on-track; fewer than 1% substantially off-track)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` 71.0% of conversations remained fully on-track toward teacher-specified objectives and only 0.5% deviated substantially. [→ Alex Liu 2026](#alex-liu-2026)

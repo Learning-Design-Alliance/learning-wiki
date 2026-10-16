@@ -30,7 +30,7 @@ sources:
 # Deletion tests show SHAP sentence rankings are more faithful than LLM-generated rationales for PLM scorers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In single-model deletion tests, SHAP-based sentence rankings produce larger and more coherent prediction shifts than LLM-generated rankings, which induce smaller and often unstable changes. [→ Ivo Bueno 2026](#ivo-bueno-2026)

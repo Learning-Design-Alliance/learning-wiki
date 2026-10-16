@@ -30,7 +30,7 @@ sources:
 # A matched-comparison analysis found no effect of the TenMarks summer program on NWEA MAP math scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` TenMarks participants showed no effect on NWEA MAP Math scores pre to post compared with a matched control group who did not use the program. [→ Christina Luke 2016](#christina-luke-2016)

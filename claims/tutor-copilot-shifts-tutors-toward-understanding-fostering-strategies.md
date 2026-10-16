@@ -30,7 +30,7 @@ sources:
 # Tutors with Tutor CoPilot access use more understanding-fostering strategies (e.g., prompting students to explain) and rely less on giving away answers than control tutors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r3` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Treatment tutors used strategies fostering student skills and comprehension significantly more; prompting the student to explain and asking questions to guide thinking appeared roughly 2 standard deviations more frequently on a log-odds scale. [→ Rose E. Wang 2025](#rose-e-wang-2025)

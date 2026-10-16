@@ -30,7 +30,7 @@ sources:
 # ELLs start middle school roughly .6 SD lower in math and .65 SD lower in reading, with faster reading growth (.13 SD) but no faster math or self-efficacy growth
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Being an ELL is associated with reading growth between 5th and 8th grade that is .13 standard deviations higher than among peers, while initial reading scores are .65 standard deviations lower; these are standardized SEM coefficients, so no effect-size impact is coded. [→ Soland 2019](#soland-2019)

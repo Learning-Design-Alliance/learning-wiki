@@ -30,7 +30,7 @@ sources:
 # NMT uptake in institutional legal translation is high (ca. 80%) but much lower among UK-based freelance translators (41%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 theoretical `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A 2023 survey of 474 respondents from 24 institutions reports NMT uptake of ca. 80% for legal translation, while a much lower uptake of 41% was reported among UK-based freelance translators. [→ Łucja Biel 2026](#ucja-biel-2026)

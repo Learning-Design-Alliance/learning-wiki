@@ -30,7 +30,7 @@ sources:
 # Policy–enforcement pairings are dominated by prompt-based constraints, and policy themes differ in enforcement breadth
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 review `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Prompt-Based Constraint accounted for 184 of 423 observed policy–enforcement pair instances (43.5%), and a chi-square analysis showed policy themes and enforcement themes were not distributed independently (χ2(20) = 60.77, p < .001, Cramer's V = .190). [→ Minsun Kim 2026](#minsun-kim-2026)

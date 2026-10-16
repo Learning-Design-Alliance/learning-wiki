@@ -30,7 +30,7 @@ sources:
 # Sustained deployment surfaced four behavioral archetypes — self-directed, tutor-reliant, late engager, and passive consumer — including patterns invisible to the reactive teaching system
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Longitudinal deployment data revealed four behavioral archetypes, including a late engager with a non-linear trajectory and a passive consumer detectable only through the analytics layer. [→ Iizalaarab Elhaimeur and Nikos Chrisochoides 2026](#iizalaarab-elhaimeur-and-nikos-chrisochoides-2026)

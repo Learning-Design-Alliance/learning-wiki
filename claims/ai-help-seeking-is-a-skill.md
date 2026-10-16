@@ -30,7 +30,7 @@ sources:
 # Effective AI help-seeking is itself a skill unevenly distributed among students, and access to an assistant is not equivalent to effective help-seeking
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 review `r2`, 1 associational `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In an ACE 2024 survey of 47 computing students with eight interviews, GenAI had not displaced traditional help resources; preferences varied with task, quality, latency, and trustworthiness. [→ Qusay H. Mahmoud 2026](#qusay-h-mahmoud-2026)

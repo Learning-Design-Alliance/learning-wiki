@@ -30,7 +30,7 @@ sources:
 # Taxonomy quality drives CLARA performance: degraded taxonomies reduce alignment, and removing SEL causes the largest degradation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Degraded taxonomy variants (random mapping, dimension-swapped, coarse) substantially reduce developmental alignment relative to the full taxonomy. [→ Sijing Yin 2026](#sijing-yin-2026)

@@ -30,7 +30,7 @@ sources:
 # Students who used LLMs on assignments scored significantly lower than non-users on the first midterm (large effect size), but this gap narrowed and was non-significant on the later midterms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1` · `q2` · `i2` medium
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` No-LLM students significantly outperformed LLM users on Midterm 1 with a large effect size; the difference decreased across the subsequent two midterms, and LLM users improved by about 10% from first to last midterm. [→ Minju Park 2026](#minju-park-2026)

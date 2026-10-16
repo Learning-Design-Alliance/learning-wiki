@@ -30,7 +30,7 @@ sources:
 # LLM and human written 7C analyses show no overall difference in behavioral alignment or evidence correspondence, but align less on Communication and Constructive dimensions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` An independent judge model found no significant overall difference between human-human and human-LLM analysis pairs on behavioral alignment (3.50 vs 3.43, p=.370) or evidence correspondence (2.82 vs 2.65, p=.277). [→ Dawei Xie 2026](#dawei-xie-2026)

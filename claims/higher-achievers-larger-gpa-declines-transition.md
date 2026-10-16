@@ -30,7 +30,7 @@ sources:
 # Students with higher eighth-grade achievement saw larger core GPA declines across the transition to high school
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students with high eighth-grade grades and test scores were especially likely to see large declines: those with eighth-grade core GPAs above 3.5 fell about half a point, while students below 2.0 saw GPAs increase only 0.12 points. [→ Seeskin 2018](#seeskin-2018)

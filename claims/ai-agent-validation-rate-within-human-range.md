@@ -30,7 +30,7 @@ sources:
 # AI agent comment patterns include validation (22%) at rates comparable to human peer learning communities, with validation-before-extension sequences structurally resembling collaborative knowledge building
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The 22% validation rate falls within the human peer learning range of 15–25%, and validation-before-extension parallels documented human patterns. [→ Eason Chen 2026](#eason-chen-2026)

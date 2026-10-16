@@ -30,7 +30,7 @@ sources:
 # Prompt design significantly influences LLM accuracy on IVDA MCQs, with slide context reducing smaller-model accuracy but improving GPT models, while persona effects are inconsistent
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Providing slide-based context constantly reduces Mistral-7B accuracy to 62–69% while approaches without content reach over 70%, whereas GPT models improve when slide content is provided. [→ Markos Stamatakis 2026](#markos-stamatakis-2026)

@@ -30,7 +30,7 @@ sources:
 # ITS-based practice did not improve post-training self-efficacy relative to paper-based practice; baseline self-efficacy was the primary determinant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Training condition did not significantly predict post-training self-efficacy (t(57.96) = 0.49, p = .629), contrary to expectation. [→ Xinfei Cen 2026](#xinfei-cen-2026)

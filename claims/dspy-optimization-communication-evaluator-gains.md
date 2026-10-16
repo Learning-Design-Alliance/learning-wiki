@@ -30,7 +30,7 @@ sources:
 # DSPy prompt optimization improves all radiotelephony evaluators, with the largest gain in accuracy (+7.9%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` After DSPy optimization, evaluator performance improved for accuracy (83.8 to 91.7%), brevity (85.5 to 89.7%), and completeness (81.5 to 88.1%), measured by inverted MAE on held-out sets. [→ Ethan Chew 2026](#ethan-chew-2026)

@@ -52,6 +52,10 @@ The articles do not agree on how well the hypothesis is supported. Ellis (eric-e
 - [Notetaking as a feedback tool facilitates resolution of lexical problems but leaves grammatical problems unresolved, suggesting reformulation as an alternative](../claims/notetaking-feedback-limits-grammar-resolution.md) [~W]
 - [Lexical LREs dominate grammar-related LREs in young learners' L2 writing noticing](../claims/lexical-lres-dominate-grammar-lres-l2-writing.md) [~M]
 
+## The evidence by question
+- *Does writing in the second language make learners notice gaps in their own language, which gaps do they notice, and does comparing with a model help them close them?* [Review-reported experiment found output performed noticing and hypothesis-testing functions but no apparent metalinguistic function in L2 writing](../claims/zhao-ping-output-functions-writing-experiment.md) [~M]
+- *Does pushing learners to produce output, and to modify it after feedback, develop their second-language grammar more than input or a supplied correction alone?* [Producing modified output involving developmentally advanced question forms in response to negative feedback is the only significant predictor of ESL question development](../claims/modified-output-advanced-forms-predicts-question-development.md) [+M]
+
 ## Related Theories
 
 - [Swain's output hypothesis with three functions of output in second-language acquisition](output-hypothesis-three-functions.md)

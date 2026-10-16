@@ -30,7 +30,7 @@ sources:
 # GenAI use weakens effort adjustment to incentives on subsequent unaided reasoning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i1` small
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` On Stage 2 completion time, the effect of incentives depended on prior genAI access: incentives slowed participants without prior genAI access but did not differ among those with prior genAI access. [→ Dawid Ratajczyk 2026](#dawid-ratajczyk-2026)

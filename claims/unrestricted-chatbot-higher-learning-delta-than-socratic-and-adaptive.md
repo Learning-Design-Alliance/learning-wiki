@@ -30,7 +30,7 @@ sources:
 # In an immediate post-test design, participants with an unrestricted chatbot achieved significantly higher learning deltas than participants with a Socratic chatbot (d = 0.80) or an EEG-adaptive exercise system (d = 0.85)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2` · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` The unrestricted chatbot condition produced significantly higher learning delta than the Socratic condition (d = 0.80) and the adaptive condition (d = 0.85), against the authors' hypothesis H1. [→ Alexandre Clin Deffarges 2026](#alexandre-clin-deffarges-2026)

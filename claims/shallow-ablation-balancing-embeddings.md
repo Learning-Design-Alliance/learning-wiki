@@ -30,7 +30,7 @@ sources:
 # In the shallow-model ablation, class balancing lowered every metric, oversampling did not improve overall performance, and semantic embeddings raised ROC-AUC but lowered accuracy and F1
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Models without class balancing achieved better results in every metric than models with class balancing on this dataset. [→ Zsolt Csibi 2026](#zsolt-csibi-2026)

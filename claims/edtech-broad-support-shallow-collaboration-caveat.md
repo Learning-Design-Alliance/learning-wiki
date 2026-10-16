@@ -30,7 +30,7 @@ sources:
 # Majorities say edtech improves students' learning experiences, but few think it does so greatly, and a plurality of teachers say it hurts collaboration
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` 69 to 78 percent of parents, the general public, and teachers say edtech improves students' learning experiences, but only 14 to 16 percent think it does so greatly. [→ Digital Promise Global 2019](#digital-promise-global-2019)

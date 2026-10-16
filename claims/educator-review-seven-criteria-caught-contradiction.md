@@ -30,7 +30,7 @@ sources:
 # Educator review of LLM-generated lesson material addressed seven criteria derived from generation records and caught a self-contradictory worked example before delivery
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r1`, 1 qualitative `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Across two lessons the educator issued twelve revision instructions over five rounds, organized into seven criteria including completeness, technical viability, factual accuracy, provenance, fit to delivery mode, fit to the learner, and audio continuity. [→ Gendo Kumoi 2026](#gendo-kumoi-2026)

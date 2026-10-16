@@ -30,7 +30,7 @@ sources:
 # Students received significantly higher homework scores during GenAI-evaluation periods, but this advantage did not transfer to downstream exams
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i1` small
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Within-student difference scores on the GenAI-graded problem differed significantly between groups (Mann-Whitney U=7,046, p=.035, r=.14; t(218)=2.90, p=.004, d=.39). [→ Ethan Dickey 2026](#ethan-dickey-2026)

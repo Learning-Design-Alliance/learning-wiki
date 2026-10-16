@@ -30,7 +30,7 @@ sources:
 # Stepwise constructive-conflict guidance reduced new idea generation, while the antagonistic agent played a more balanced role
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Stepwise Guidance participants added significantly fewer new ideas in the second iteration than Self Reflection participants (g = −1.03). [→ Howard Ziyu Han 2026](#howard-ziyu-han-2026)

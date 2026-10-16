@@ -30,7 +30,7 @@ sources:
 # Students reported recognizing writing improvements after revising in response to AI feedback, with observed rubric-score gains on resubmission
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r3` · `q2`
+> **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Students described learning advanced writing practices such as strengthening conclusions and improving coherence through AI feedback. [→ Raigul Zheldibayeva 2025](#raigul-zheldibayeva-2025)

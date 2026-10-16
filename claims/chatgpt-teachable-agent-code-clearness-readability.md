@@ -30,7 +30,7 @@ sources:
 # Teaching a ChatGPT agent yields significantly higher code clearness and readability scores than learning from online videos, but not higher code correctness
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1` · `q2` · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` The experimental group scored significantly higher than the control group on code clearness and readability in the pseudocode test (F = 7.39, η2 = 0.37). [→ Angxuan Chen 2024](#angxuan-chen-2024)

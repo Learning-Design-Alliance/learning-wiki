@@ -30,7 +30,7 @@ sources:
 # Reproductive health shows the highest coverage gap (82.1% absence) and the highest judge-rated significance among divergent pairs (86%), making it a priority content area
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Reproductive health has the highest absence rate of the 13 benchmark topics at 82.1% of question–handbook answers, despite being the second-largest topic (291 questions). [→ Yubo Li 2026](#yubo-li-2026)

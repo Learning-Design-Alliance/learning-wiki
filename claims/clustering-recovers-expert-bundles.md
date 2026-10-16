@@ -30,7 +30,7 @@ sources:
 # Unsupervised hierarchical clustering of knowledge vectors recovers expert bundle structure without bundle labels
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Agglomerative clustering reached a best bundle-level ARI of 0.605 with V-measure 0.933, and 76.4% of nearest-neighbor matches were same-bundle. [→ Muntasir Hoq 2026](#muntasir-hoq-2026)

@@ -30,7 +30,7 @@ sources:
 # AI-induced gains are not purely delegation: treated participants do not perform worse once AI is removed, and lower-education participants retain part of their gain, though a 0.200 SD gap re-emerges
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r3` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Prior AI access raises low-education follow-up scores by 0.171 SD (significant at 5%); the high-education effect of 0.071 SD is not significant. [→ Guillermo Cruces 2026](#guillermo-cruces-2026)

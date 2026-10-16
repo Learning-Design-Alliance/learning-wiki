@@ -30,7 +30,7 @@ sources:
 # Students from higher-ranked universities and with stronger prior knowledge are more likely to adopt proactive and critical AI engagement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In game theory, university ranking (auniv = +0.171, P=0.010) and prior knowledge (aprior = +0.161, P=0.002) were positively associated with proactive and critical engagement. [→ Jingwei Yi 2026](#jingwei-yi-2026)

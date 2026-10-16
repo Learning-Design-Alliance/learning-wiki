@@ -30,7 +30,7 @@ sources:
 # Harder SAT Math items are associated with more implementation-centered and iterative episode dynamics — stronger Implement counts and Analyze–Implement transitions — rather than a proportional increase in all reasoning activity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 associational `r1`, 1 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In model-grounded marginal-signal analysis, the Implement episode has the strongest positive count signal and a positive ratio signal, while the ratios of Read, Plan, and Verify are negative. [→ Chenguang Wang 2026](#chenguang-wang-2026)

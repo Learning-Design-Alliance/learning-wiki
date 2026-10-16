@@ -30,7 +30,7 @@ sources:
 # The design strained on later proof-heavy topics, and students asked for better artifacts rather than fewer tests
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Free-text complaints concentrated on reductions, NP-completeness, PSPACE, and an overloaded week, described as too terse. [→ Jin-Guo Liu 2026](#jin-guo-liu-2026)

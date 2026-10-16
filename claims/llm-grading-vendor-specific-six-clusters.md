@@ -30,7 +30,7 @@ sources:
 # LLM grading patterns cluster into six groups aligned with vendor families, with highest correlations within same-vendor model families
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2` · `i3` large
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Spearman correlations between models' grading patterns range from approximately 0.55 to 0.89, with the highest values within same-vendor families such as the gpt-5 group (ρ≈0.80–0.89) and the Gemini family (ρ≈0.79–0.83). [→ Marcin Jukiewicz 2025](#marcin-jukiewicz-2025)

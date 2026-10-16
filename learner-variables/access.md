@@ -96,6 +96,13 @@ Whether a learner can perceive and operate the material at all: device, bandwidt
 - [Instant access to information and 24/7 availability are the most recognised benefits of LLMs for learning](../claims/instant-access-24-7-top-llm-benefits.md) [+M] — instruction changes it
 - [Physical access to AI-provided material does not automatically produce epistemological access; facilitation converts one into the other](../claims/facilitation-converts-physical-to-epistemological-access.md) [~W] — instruction changes it
 
+## The evidence by question
+
+- *Does a learner's device, connectivity and technical support predict whether they can take part in technology-delivered learning and assessment?* [During spring 2020 remote instruction, internet connectivity and hardware/software problems interfered with course participation for large shares of undergraduates](../claims/remote-covid-technology-access-problems-widespread.md) [+S]
+- *Does supplying the missing connectivity or devices close the gap for learners without access?* [Among eligible students, Chicago Connected participation increased remote learning engagement for high pre-pandemic GPA students but decreased it for low pre-pandemic GPA students](../claims/chicago-connected-participation-heterogeneous-engagement-effects.md) [~M]
+- *Do learners with visual or hearing impairments fall behind their peers, and does the gap close as schooling goes on?* [Math achievement of BVI students lags sighted peers and the gap widens with age](../claims/bvi-math-achievement-lags-and-gap-widens.md) [+M]
+- *Which routes into the content work for learners with visual or hearing impairments?* [Auditory math access works best when the technology is familiar: Math Speak aided expression identification, and BVI students performed similarly to or slightly better than traditional methods with familiar apps](../claims/auditory-access-familiar-technology-bvi-math.md) [+M]
+
 ## Related Learner Variables
 - Digital literacy — whether they can operate it, as against whether they can perceive it.
 - Reading and language — audio routes around a decoding barrier as well as a visual one.

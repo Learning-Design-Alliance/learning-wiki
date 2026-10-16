@@ -57,6 +57,10 @@ Generation reliably improves retention of the generated material relative to rea
 - [Struggling to encode, retrieve, and reorganize information produces deeper comprehension and retention, and AI-supplied ready-made solutions short-circuit these processes](../claims/ai-removing-struggle-short-circuits-desirable-difficulties.md) [+W]
 - [Generative (Constructive) engagement by young children produces better learning than attentive (Passive) engagement](../claims/constructive-beats-passive-young-children.md) [+W]
 
+## The evidence by question
+- *Does generating an answer or item, rather than reading it, improve later memory of it, and for which materials?* [Generation Effect Improves Retention](../claims/generation-effect-improves-retention.md) [+S]
+- *Does having learners generate their own elaborations improve learning, compared with no elaboration or with elaborations supplied to them?* [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](../claims/generative-processing-improves-learning.md) [+M]
+
 ## Related Elements
 - [Practice](practice.md) — generation often precedes practice; practice then consolidates what generation constructed
 - [Analogies](analogies.md) — generating one's own analogy is a powerful generative task

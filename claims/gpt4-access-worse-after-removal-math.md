@@ -30,7 +30,7 @@ sources:
 # High-school students given GPT-4 access solved more problems in the moment but performed worse than controls once the tool was removed (review attribution)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Students with GPT-4 access outperformed controls during use but underperformed them after tool removal, and randomised trials (N=1,222) add causal evidence plus reduced persistence. [→ Mahbub Ul Alam 2026](#mahbub-ul-alam-2026)

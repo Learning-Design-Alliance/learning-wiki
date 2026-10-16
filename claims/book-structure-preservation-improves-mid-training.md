@@ -30,7 +30,7 @@ sources:
 # Preserving book-level document structure during mid-training improves downstream performance beyond identical content split into sections (+1.02 mean)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On a 3B-active MoE model, keeping TOC-planned textbooks as complete documents outperforms treating each section as an independent document on 22 of 28 benchmarks, with a +1.02 overall mean gain. [→ Jiawen Tao 2026](#jiawen-tao-2026)

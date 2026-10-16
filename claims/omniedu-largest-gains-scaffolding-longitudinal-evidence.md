@@ -30,7 +30,7 @@ sources:
 # Education-oriented tuning produces the largest gains in scaffolded instruction and use of longitudinal student evidence, with LongTutor Evidence averages rising sharply at all scales
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` LongTutor Evidence averages increase from 25.67% to 65.88% for OmniEdu-4B, from 5.81% to 66.63% for OmniEdu-9B, and from 36.80% to 78.20% for OmniEdu-27B. [→ Hao Liang 2026](#hao-liang-2026)

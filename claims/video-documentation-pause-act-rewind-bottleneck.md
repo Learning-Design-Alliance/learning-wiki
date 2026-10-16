@@ -38,7 +38,7 @@ sources:
 # Video-only documentation created a pause-act-rewind cycle, with orientation and navigation-continuity clarity scoring lowest and wiring identification the primary difficulty for first-time builders
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (3 entries) · 2 design `r2`–`r3` · `q2`
+> **Evidence** · 1 study (3 entries) · design `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` Six of seven Study 2 participants identified video guidance as the most helpful feature, yet concurrently cited wiring as the primary difficulty. [→ Farnaz Baksh 2026](#farnaz-baksh-2026)

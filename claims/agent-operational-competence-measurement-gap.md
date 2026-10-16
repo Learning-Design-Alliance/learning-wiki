@@ -30,7 +30,7 @@ sources:
 # No validated individual-level instrument in the focal corpus tests the full combination of agent-control behaviors for tool-using AI agents
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 quant-synthesis `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r1` · `q2`
 
 ## Subclaims
 `q2 i?` No validated individual-level instrument in the focal corpus tests the full combination of scope changes, permission decisions, recovery from faulty state, state isolation, independent review, and evidence-based closure. [→ Daniele Verí 2026](#daniele-veri-2026)

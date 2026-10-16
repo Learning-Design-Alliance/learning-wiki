@@ -38,7 +38,7 @@ sources:
 # The three specialized chatbot modes achieved their distinct pedagogical goals on RAGAS metrics: Quick Mode highest faithfulness (0.92), Deep Understanding near-perfect context recall (0.98) with intentionally low answer relevancy, Exam Coach highest answer relevancy (0.82)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (3 entries) · 2 design `r2` · `q2`
+> **Evidence** · 1 study (3 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Quick Mode achieved the highest faithfulness (0.92), prioritizing direct, factual answers grounded strictly in source materials. [→ Anna Ostrowska 2026](#anna-ostrowska-2026)

@@ -30,7 +30,7 @@ sources:
 # Base-model size effects persist after LoRA adaptation: the 7B model gained more on ROUGE-2 and ROUGE-L, yet 3B-r16 outperformed 7B-r4 on ROUGE-L and BERTScore-F1
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1`–`r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` After LoRA fine-tuning at r=16, the 7B model's advantage increased on ROUGE-2 and ROUGE-L while the ROUGE-1 gap narrowed in favor of the 3B model. [→ Shaowen Lu 2026](#shaowen-lu-2026)

@@ -30,7 +30,7 @@ sources:
 # Experts rated KITE's feedback positively on scaffolding, guidance, coherence, and tone in 93.18% of judgments, with high interrater agreement (κ = 0.88)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Expert rubric evaluation of 44 simulated student–KITE interaction triples yielded 93.18% Yes judgments on scaffolding, guidance, coherence, and tone, with Cohen's κ = 0.88 between annotators. [→ Mragisha Jain 2026](#mragisha-jain-2026)

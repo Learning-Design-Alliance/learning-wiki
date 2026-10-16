@@ -57,6 +57,13 @@ Transfer does not happen spontaneously; it must be prompted by tasks that differ
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Adult learners perceive AI as supporting consolidation-phase comparison, knowledge reorganization, and transfer](../claims/ai-supports-consolidation-comparison-reorganization-transfer.md) [+W]
 
+## The evidence by question
+
+- *Does instruction that raises near transfer also raise far transfer to a different domain or form?* [Learning techniques have much smaller effects on deep learning and far transfer than on surface learning and near transfer](../claims/learning-techniques-smaller-effects-on-deep-learning-and-far-transfer.md) [~M]
+- *Does learning across varied contexts or varied tasks of a type, rather than repeating one, produce transfer to new cases?* [Encoding variability across varied example contexts produces decontextualization supporting transfer (review reports DiVesta and Peverly)](../claims/encoding-variability-decontextualization-transfer.md) [+M]
+- *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]
+- *Does the benefit carry to new questions, inferences and applications, or only to the items practised?* [Retrieval Practice Improves Transfer](../claims/retrieval-practice-improves-transfer.md) [+S]
+
 ## Related Elements
 - [Analogies](analogies.md) — explicit mapping between domains is a primary mechanism for cross-context transfer
 - [Case Studies](case-studies.md) — varied cases train learners to abstract principles from surface detail

@@ -30,7 +30,7 @@ sources:
 # A reflective lesson on LLM functioning and educational impacts shifted physics students toward greater skepticism about LLM learning impacts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` After the lesson, agreement that LLM help can leave a false sense of confidence rose from 58% to 88%, and agreement that solution generation reduces conceptual understanding rose from 63% to 85%. [→ Jake O'Brien 2026](#jake-obrien-2026)

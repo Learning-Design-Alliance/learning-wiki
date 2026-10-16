@@ -30,7 +30,7 @@ sources:
 # Students predominantly recommended future students use office hours and formal course staff, with LLMs positioned as a supplement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r2`–`r3` · `q2`
+> **Evidence** · 1 study (2 entries) · qualitative `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` In the Week 13 advice-to-future-students reflections, students predominantly recommended office hours and commented on how helpful the TAs were, while recommending LLMs for assistance tasks like test cases or documentation. [→ Margaret Ellis 2026](#margaret-ellis-2026)

@@ -30,7 +30,7 @@ sources:
 # Engineered practice-balance features outperform raw activity counts: the Intensity Ratio ranks third among Codeforces predictors, and upsolving habit dominates the survey model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` The engineered Intensity Ratio (11.3% importance) ranked third on the behavioral dataset, above raw problem counts. [→ Azuad Islam Ruhan 2026](#azuad-islam-ruhan-2026)

@@ -30,7 +30,7 @@ sources:
 # Access to AI advice roughly doubles reported confidence in answers even though the advice is usually wrong
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r3` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r3` · `q3`
 
 ## Subclaims
 `q3 i?` AI advice nearly doubled reported confidence on a 0–100 scale (29.6 vs. 75.9 without stakes; 37.7 vs. 73.5 with stakes). [→ Chiara Marcoccia 2026](#chiara-marcoccia-2026)

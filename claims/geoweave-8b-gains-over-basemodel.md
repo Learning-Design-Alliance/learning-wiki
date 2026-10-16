@@ -30,7 +30,7 @@ sources:
 # GeoWeave-8B achieves the highest open-source final-answer accuracy and process average on GeoVAD-Bench, gaining 25.3 and 30.4 percentage points over its base model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` GeoWeave-8B reaches 62.6% answer accuracy and 82.9% process average, improving over SenseNova-U1-8B by 25.3 and 30.4 percentage points, with coordinated gains across all four process metrics. [→ Zhitong Dong 2026](#zhitong-dong-2026)

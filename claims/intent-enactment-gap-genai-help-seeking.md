@@ -30,7 +30,7 @@ sources:
 # Learning-oriented intentions did not significantly predict enacted in-chat behavior; only selecting final solutions predicted executive and answer-seeking requests
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q2` · `i2` medium
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Students selecting 'just give me the final answers' showed higher executive REQUEST rates (46.4% vs. 19.2%, r=.33, p<.01) and higher answer-seeking content (39.9% vs. 16.0%, r=.33, p<.01). [→ Rania Abdelghani 2026](#rania-abdelghani-2026)

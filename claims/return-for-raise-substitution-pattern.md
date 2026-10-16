@@ -30,7 +30,7 @@ sources:
 # Students across both deployments substituted return statements for exception-raising constructs, treating error conditions as reasons to exit early
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` At the University of Houston, 60% of students with incorrect attempts on SafeDivide (P1) placed a return statement rather than throwing an exception, and 47% substituted return for throw on P3. [→ Daniel Prol 2026](#daniel-prol-2026)

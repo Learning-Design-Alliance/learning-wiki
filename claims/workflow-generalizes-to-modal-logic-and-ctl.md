@@ -30,7 +30,7 @@ sources:
 # The workflow generalizes beyond propositional logic, explaining 79.39% of modal logic pairs and 35.89% of CTL pairs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On the modal logic dataset (12482 pairs) the workflow's transformations explain 79.39% of pairs, comparable to the propositional case. [→ Lilian Killich 2026](#lilian-killich-2026)

@@ -30,7 +30,7 @@ sources:
 # Prior genAI use shows some evidence of poorer subsequent unaided reasoning, confined to the no-incentive condition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r3` · `q3` · `i1` small
+> **Evidence** · 1 study (2 entries) · causal `r3` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Within the no-incentive condition, participants with prior genAI access had lower odds of answering a Stage 2 network-reasoning question correctly than participants who had worked without genAI. [→ Dawid Ratajczyk 2026](#dawid-ratajczyk-2026)

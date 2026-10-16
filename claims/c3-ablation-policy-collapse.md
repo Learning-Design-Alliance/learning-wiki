@@ -30,7 +30,7 @@ sources:
 # Removing the behavioral-safety constraint (C3) causes degenerate policy collapse to near-single-action policies, making C3 the most influential safeguard in the ablation study
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Without the C3 action filter, single actions account for 85–93% of interactions in some seeds, C3 violation rises to 68.3%, and pedagogical appropriateness drops from 1.000 to 0.899. [→ Oluseyi Olukolaa 2026](#oluseyi-olukolaa-2026)

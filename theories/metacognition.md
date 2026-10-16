@@ -90,6 +90,11 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Sketching during reading yielded the most accurate comprehension monitoring, with significantly less absolute error than photograph, no-image, and animation conditions](../claims/sketching-most-accurate-monitoring-absolute-error.md) [+M] — attached 2026-10-15 from Wiley (2019), which proposed "Deception account of seduction effects on comprehension monitoring"; tests this page's relationship.
 - [Readers in all conditions except sketching were overconfident, with the most overconfidence in the photograph condition and the least in the sketching condition](../claims/overconfidence-all-conditions-except-sketching.md) [+M] — attached 2026-10-15 from Wiley (2019), which proposed "Deception account of seduction effects on comprehension monitoring"; tests this page's relationship.
 
+## The evidence by question
+
+- *Can learners' own monitoring be trusted, and can it be trained?* [Self Assessment Accuracy Is Low Without Training](../claims/self-assessment-accuracy-is-low-without-training.md) [+S]
+- *Does working with AI make learners' judgments of their own knowledge, effort and performance less accurate, and what restores them?* [Access to AI advice roughly doubles reported confidence in answers even though the advice is usually wrong](../claims/ai-access-inflates-confidence.md) [+M]
+
 ## Related Theories
 
 - [Executive Function Development](executive-function-development.md) — the underlying self-regulatory capacity that metacognitive knowledge is applied through

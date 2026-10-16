@@ -30,7 +30,7 @@ sources:
 # Assessment validity is a deeper problem than AI-output detection, and disallowed use clusters with time pressure and unclear expectations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 review `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a 2026 FSE Companion study, students' descriptions of inappropriate or disallowed LLM use clustered around programming assignments, routine coursework, and documentation, with time pressure and unclear expectations playing an important role. [→ Qusay H. Mahmoud 2026](#qusay-h-mahmoud-2026)

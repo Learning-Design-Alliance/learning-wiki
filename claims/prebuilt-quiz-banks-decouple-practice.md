@@ -30,7 +30,7 @@ sources:
 # Prebuilt quiz banks of 435 questions across 65 modules decouple practice from live generation, with warm practice-request medians of 4.8 and 5.8 ms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The deployed banks total 435 prepared items covering 65 configured modules, and practice uses stored keys and feedback without live generation. [→ Sidney Shapiro and Joshua Lindemann 2026](#sidney-shapiro-and-joshua-lindemann-2026)

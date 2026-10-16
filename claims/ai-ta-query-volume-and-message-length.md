@@ -30,7 +30,7 @@ sources:
 # Socratic + No Context produces the highest query volume and Direct + No Context the longest messages
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Query volume differed significantly across conditions (χ²(3)=13.28, p=.004); Socratic + No Context students sent the most queries per problem (μ=11.1) versus 5.1, 4.1, and 4.7 in the other conditions. [→ Madeleine Eastwood 2026](#madeleine-eastwood-2026)

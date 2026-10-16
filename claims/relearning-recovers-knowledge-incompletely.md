@@ -30,7 +30,7 @@ sources:
 # Teachable agents measurably but incompletely relearn unlearned knowledge, with the recovery gap to the base model widening under higher unlearning ratios (30%–50%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r1`, 1 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Both relearning strategies improve accuracy and F1 across all unlearning ratios, showing suppressed knowledge can be reacquired. [→ Jiajia Song 2026](#jiajia-song-2026)

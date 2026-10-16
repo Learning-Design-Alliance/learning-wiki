@@ -30,7 +30,7 @@ sources:
 # A MATLAB inverse-kinematics pipeline automated generation of 38 of 52 LIS signs on Pepper and cut authoring time from 45–60 to under 10 minutes per sign
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r3` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The semi-automated pipeline successfully generated 38 of the 52 manually implemented signs (73%); ten failed due to asymmetric or body-involving movements and four due to kinematic infeasibility or solver instability. [→ Giulia Boaa 2025](#giulia-boaa-2025)

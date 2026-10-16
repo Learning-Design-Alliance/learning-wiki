@@ -30,7 +30,7 @@ sources:
 # Qualitative error analysis yields five recurring error types, with over-inference most prevalent (33.5%), followed by evidence misidentification (23.4%) and hallucination (19.8%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 qualitative `r3`, 1 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Three authors coded 372 sampled error cases (13.2% of 2,816) into five error types with substantial inter-rater reliability (Fleiss' κ= 0.74). [→ Yoonsu Kim 2026](#yoonsu-kim-2026)

@@ -30,7 +30,7 @@ sources:
 # Implicit demographic conditioning inflates AES scores in some models, with Llama-70B scores rising 1.57 points over its own default, while GPT models remain stable
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Under the implicit condition, Llama-70B essay scores inflate by +1.57 points relative to its own default (p<0.001), the largest deviation across all models and conditions. [→ Donya Rooein 2026](#donya-rooein-2026)

@@ -30,7 +30,7 @@ sources:
 # Standardized repair and source-verification gating produced structurally complete, source-traceable feedback for most generated messages
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` After repair and deterministic reference gating, 519 of 544 newly generated messages (95.4%) contained all required components, while 25 required further structural review. [→ Shihao Wang 2026](#shihao-wang-2026)

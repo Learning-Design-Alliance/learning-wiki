@@ -30,7 +30,7 @@ sources:
 # AI-TK contributes to AI-TPACK only indirectly through AI-TPK and AI-TCK, which positively predict AI-TPACK
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r?` · `q2` · `i3` large
+> **Evidence** · 1 study (2 entries) · associational `r?` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` AI-TK positively predicts AI-TPK (β = 0.62) and AI-TCK (β = 0.35), but its direct path to AI-TPACK (H3c) was deleted as insignificant. [→ Meijuan Xie 2025](#meijuan-xie-2025)

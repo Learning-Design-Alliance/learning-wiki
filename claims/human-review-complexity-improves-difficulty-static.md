@@ -30,7 +30,7 @@ sources:
 # Human annotators judge later-round CPIG items as improved in complexity but not in difficulty, with modest rater agreement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r?` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r?` · `q2`
 
 ## Subclaims
 `q2 i?` For complexity, round five shows a much larger fraction of items at the ideal level than round one; trends for difficulty are more static, with quite similar distributions. [→ Antonio Laverghetta Jr. 2024](#antonio-laverghetta-jr-2024)

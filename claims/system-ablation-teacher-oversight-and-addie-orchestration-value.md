@@ -30,7 +30,7 @@ sources:
 # Removing teacher-in-the-loop review or the curriculum checker significantly lowers teacher satisfaction, and replacing ADDIE orchestration with unstructured prompting yields the lowest satisfaction and longest preparation time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Removing the teacher-in-the-loop review stage causes a statistically significant drop in teacher satisfaction (p<0.05, Wilcoxon signed-rank test, n=18), despite marginally reducing preparation time. [→ Thang Doan Viet 2026](#thang-doan-viet-2026)

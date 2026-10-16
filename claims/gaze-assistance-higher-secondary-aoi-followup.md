@@ -30,7 +30,7 @@ sources:
 # Gaze-based assistance produced a significantly higher follow-up fixation rate on the spoken secondary AOI than the baseline
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Children fixated the secondary AOI during a significantly higher proportion of gaze-based assistance instances (M = 54.06%) than baseline instances (M = 35.48%), p < .05. [→ Zekun Wu 2026](#zekun-wu-2026)

@@ -30,7 +30,7 @@ sources:
 # On structured pedagogical-judgment items, all evaluated models share a systematic style-over-fit deviation, converging on the same non-reference option
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r3` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Models substitute pedagogical style for pedagogical fit, favoring gentler, more Socratic, more elaborate options over the goal-optimal reference. [→ Yilin Jiang 2026](#yilin-jiang-2026)

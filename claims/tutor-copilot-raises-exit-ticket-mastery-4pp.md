@@ -55,7 +55,7 @@ sources:
 # Students whose tutors have access to Tutor CoPilot are 4 percentage points more likely to master lesson topics (pass exit tickets) in live K-12 math tutoring
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 4 studies (5 entries) · 3 causal `r2`–`r3`, 1 review `r2` · `q2`–`q4`
+> **Evidence** · 3 studies (5 entries) · 2 causal `r2`–`r3`, 1 review `r2` · `q2`–`q4`
 
 ## Subclaims
 

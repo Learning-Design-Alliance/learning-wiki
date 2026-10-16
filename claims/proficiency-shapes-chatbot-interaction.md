@@ -30,7 +30,7 @@ sources:
 # EFL proficiency significantly shapes chatbot interaction: high-proficiency learners over-engage in dialogue while low-proficiency learners over-rely on feedback requests
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Behavioural state frequencies differed significantly by proficiency (χ2 = 25.4, p < .003), with high-proficiency learners over-represented in user_chat and low-proficiency learners over-represented in check_button. [→ Steve Woollaston 2026](#steve-woollaston-2026)

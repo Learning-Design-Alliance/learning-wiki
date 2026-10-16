@@ -30,7 +30,7 @@ sources:
 # Across chess, L2 writing, and math, trained StudentSim simulators outperform every reference baseline on behavioral fidelity (F)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On the 30-player chess held-out set, StudentSim reaches per-player top-1 fidelity F=0.51, above Maia2 (0.45), GPT-5.4 (0.23), and GPT-4o (0.22). [→ Ke Yang 2026](#ke-yang-2026)

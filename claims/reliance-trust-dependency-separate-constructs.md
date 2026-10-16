@@ -30,7 +30,7 @@ sources:
 # Reliance, trust, and dependency are distinct constructs requiring separate measurement from AI-literacy totals
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 quant-synthesis `r1` · `q2`–`q3`
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r1` · `q2`–`q3`
 
 ## Subclaims
 `q3 i?` The GenAI Reliance Behaviors Scale validated four factors of reliance during problem solving: reflective, cautious, thoughtless, and collaborative use, with overall internal consistency α = .84. [→ Daniele Verí 2026](#daniele-veri-2026)

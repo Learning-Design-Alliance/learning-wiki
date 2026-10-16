@@ -30,7 +30,7 @@ sources:
 # Students frequently accepted misleading AI recommendations (overreliance) while rarely rejecting correct ones (underreliance)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q3`
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3`
 
 ## Subclaims
 `q3 i?` Mean appropriate reliance was 61.77% (SD = 10.78) and task accuracy 61.21% (SD = 10.93). [→ Griffin Pitts 2026](#griffin-pitts-2026)

@@ -30,7 +30,7 @@ sources:
 # Students value knowing class routines and report that rushed pacing, especially in Advanced Placement courses, is a barrier to mastering content
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Knowing the instructional routines of their classes helps students learn effectively by providing clear teacher expectations and helping them manage time and workload. [→ Viki M. Young 2026](#viki-m-young-2026)

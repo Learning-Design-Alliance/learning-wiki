@@ -30,7 +30,7 @@ sources:
 # FSM-based evaluation discriminates interactive quality across models, with GPT-5 Mini scoring highest and most tiers significantly separated
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` FSM metrics significantly separate models: GPT-5 Mini achieves the highest overall score (78.85%) and behavioral coherence (33.13%), significantly outperforming GPT-3.5-Turbo (Δµ = 8.54, p < 0.0001). [→ Xiaozao Wang 2026](#xiaozao-wang-2026)

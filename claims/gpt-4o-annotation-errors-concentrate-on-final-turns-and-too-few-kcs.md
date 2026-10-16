@@ -30,7 +30,7 @@ sources:
 # GPT-4o's correctness-labeling errors concentrate on final turns requiring numerical calculation, and its main KC-labeling error is assigning too few standards to a turn.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q1`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Most GPT-4o correctness errors are on the final turn, especially where numerical calculations are needed to verify correctness. [→ Alexander Scarlatos 2024](#alexander-scarlatos-2024)

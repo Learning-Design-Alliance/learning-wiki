@@ -38,7 +38,7 @@ sources:
 # Ablations show each CogEvolution module contributes: removing ICAP perception, structured retrieval, or evolutionary update degrades mistake precision, learning-curve fit, and alignment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (3 entries) · 2 design `r2` · `q2`
+> **Evidence** · 1 study (3 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Removing ICAP cognitive depth perception drops R²LC sharply to 0.58 (from 0.92). [→ Wei Zhang 2026](#wei-zhang-2026)

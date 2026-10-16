@@ -30,7 +30,7 @@ sources:
 # The LLM observation function's per-answer mastery evidence correlates with true mastery at r = 0.68 pooled, but only r ≈ 0.15 within the weak tier, making it least reliable for low-ability learners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2` · `i1`–`i3`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i1`–`i3`
 
 ## Subclaims
 `q2 i3` Per-answer mastery_evidence correlates with true mastery at Pearson r = 0.68 pooled across tiers in the 6-persona live-graded run. [→ Kailai He 2026](#kailai-he-2026)

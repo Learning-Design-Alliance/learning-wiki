@@ -30,7 +30,7 @@ sources:
 # Machine unlearning induces progressively stronger novice-level performance in an LLM teachable agent, with accuracy and F1 declining as the unlearning ratio increases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r1`, 1 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The unlearned model shows a clear, consistent decline in MCQ accuracy and F1 as unlearning ratio rises from 10% to 50%, indicating knowledge loss rather than noise. [→ Jiajia Song 2026](#jiajia-song-2026)

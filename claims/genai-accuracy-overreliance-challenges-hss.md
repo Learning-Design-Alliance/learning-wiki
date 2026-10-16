@@ -30,7 +30,7 @@ sources:
 # Limited output accuracy and over-reliance are the most pressing challenges Chinese HSS students report in GenAI use, alongside strong ethical concern
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` 81.42% of students identified limited accuracy as the top challenge and 65.36% reported over-reliance; 67.10% encountered inaccurate information frequently or very frequently. [→ Lei Fan and Fangxue Liu 2026](#lei-fan-and-fangxue-liu-2026)

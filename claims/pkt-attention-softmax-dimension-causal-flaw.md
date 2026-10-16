@@ -30,7 +30,7 @@ sources:
 # Code-DKT's attention softmax applied across the temporal dimension (dim=1) is causally invalid and inflates reported performance; rectifying it to the path dimension (dim=2) removes the artificial gain
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The official implementation applies Softmax across the time-step dimension, allowing normalization over the entire interaction sequence and introducing temporal data leakage. [→ Jaewook Kim 2026](#jaewook-kim-2026)

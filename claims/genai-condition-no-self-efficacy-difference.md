@@ -30,7 +30,7 @@ sources:
 # Midterm self-efficacy (comfort and confidence) did not differ between conditions after three assignments, though both varied significantly across algorithmic topics
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` No significant between-group differences emerged on the Comfort composite (U=5,788, p=.374) or Confidence composite (U=5,152, p=.561) after three assignments. [→ Ethan Dickey 2026](#ethan-dickey-2026)

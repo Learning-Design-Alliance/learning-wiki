@@ -30,7 +30,7 @@ sources:
 # In the agent-based model, task difficulty and AI quality set the baseline level of overreliance, with difficulty the dominant global factor
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 theoretical `r3` · `q2`
+> **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Overreliance climbs with task difficulty, and at hard tasks higher AI quality lowers it. [→ Ahana Biswas 2026](#ahana-biswas-2026)

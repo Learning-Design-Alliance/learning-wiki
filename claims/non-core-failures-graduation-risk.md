@@ -30,7 +30,7 @@ sources:
 # Non-core course failures in ninth grade were associated with decreases in four-year graduation rates similar to core course failures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Among 2011-14 freshman cohorts, students with one core failure and no other failures graduated at 70 percent; students with one non-core failure and no other failures graduated at 68 percent; students passing all courses graduated at 90 percent. [→ Seeskin 2018](#seeskin-2018)

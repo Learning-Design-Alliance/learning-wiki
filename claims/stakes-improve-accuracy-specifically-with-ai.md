@@ -30,7 +30,7 @@ sources:
 # Monetary incentives for accuracy improve answer correctness specifically when AI advice is available, by reducing reliance on that advice
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r3` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r3` · `q3`
 
 ## Subclaims
 `q3 i?` In Study 3, the stakes × AI interaction on correctness was significant: stakes raised correctness with AI advice (0.11 vs. 0.16) but not without it (0.28 vs. 0.27). [→ Chiara Marcoccia 2026](#chiara-marcoccia-2026)

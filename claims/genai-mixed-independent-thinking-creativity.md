@@ -30,7 +30,7 @@ sources:
 # Perceived effects of GenAI on independent thinking and creativity are polarized among Chinese HSS students, with substantial minorities reporting declines
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q1`–`q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q1`–`q2`
 
 ## Subclaims
 `q2 i?` Over half of students perceived gains in independent thinking and creativity, but 26.12% perceived a decline in independent thinking and 19.67% a decline in creativity. [→ Lei Fan and Fangxue Liu 2026](#lei-fan-and-fangxue-liu-2026)

@@ -30,7 +30,7 @@ sources:
 # LLMs frequently over-attribute evidential strength and assert Evident evidence even for incorrect diagnoses, and the two tendencies are strongly correlated
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 associational `r2`, 1 design `r3` · `q2` · `i3` large
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i?` Models assigned Evident to vague-evidence cases (OverAttr M=.580) and asserted Evident evidence on incorrect diagnoses (FalseAttr M=.585). [→ Yoonsu Kim 2026](#yoonsu-kim-2026)

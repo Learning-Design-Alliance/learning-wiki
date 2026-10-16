@@ -30,7 +30,7 @@ sources:
 # The effort-based reward reduced how often participants used the assistant, whereas metacognitive feedback changed how they used it
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r3` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The reward reduced the odds of requesting any form of assistance on a given item (OR = 0.39), while the reduction under metacognitive feedback was smaller and not significant (OR = 0.60, p = .052). [→ Sebastian Maier 2026](#sebastian-maier-2026)

@@ -43,6 +43,10 @@ Information literacy is the element in which learners identify information needs
 - [Technology anxiety's positive association with AI literacy is confined to critical evaluation and ethical competence and absent from the three performance-oriented subdimensions](../claims/anxiety-effect-localized-to-evaluative-subdimensions.md) [~W]
 - [Students exhibited high trust in GenAI but limited critical evaluation of its outputs](../claims/high-trust-limited-critical-evaluation-genai.md) [-W]
 
+## The evidence by question
+- *Does teaching learners how to check a source improve their judgments of unfamiliar sources, and how much can one session do?* [Civic Online Reasoning Instruction Improves Evaluation](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S]
+- *Do learners check information from a generative AI the way they check sources found by search?* [ChatGPT users differentiated information less (never by credibility) and rarely verified information compared to Google users](../claims/chatgpt-reduced-differentiation-verification.md) [~M]
+
 ## Related Elements
 - [Resource Evaluation](resource-evaluation.md)
 - [Research](research.md)

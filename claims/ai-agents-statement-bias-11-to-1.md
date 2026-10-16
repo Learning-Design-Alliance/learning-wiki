@@ -30,7 +30,7 @@ sources:
 # AI agent discourse shows extreme statement bias (11.4:1 statements to questions), far exceeding human community baselines, though questions receive higher upvotes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The statement-to-question ratio of 11.4:1 differs significantly from human community baselines of 1:2 to 1:5. [→ Eason Chen 2026](#eason-chen-2026)

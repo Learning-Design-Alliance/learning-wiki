@@ -85,6 +85,12 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [When only RCTs with active control groups are analysed, MBI benefits are restricted to Mindfulness (d = .42), Depression (d = .47) and Anxiety/Stress (d = .18)](../claims/active-control-rcts-benefits-restricted.md) [-M] — instruction changes it
 - [Explanation prompts direct attention to targeted information and can reduce attention to other important information](../claims/explanation-prompts-redirect-attention-with-hidden-costs.md) [~M] — instruction changes it
 
+## The evidence by question
+- *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]
+- *Does breaking a continuous presentation into segments improve learning over presenting it whole?* [Segmenting Improves Multimedia Learning](../claims/segmenting-improves-multimedia-learning.md) [+M]
+- *Does physical activity during the school day (movement breaks, active lessons, organised active recess) improve children's on-task behavior and readiness for class?* [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [~S]
+- *Can a mindfulness or cognitive-training programme improve learners' attention itself?* [Across all RCTs, mindfulness-based interventions significantly improve mindfulness, executive functioning, attention, depression, anxiety/stress and negative behaviours in youth, with small effect sizes](../claims/mbis-small-positive-effects-all-rcts-youth.md) [+M]
+
 ## Related Learner Variables
 - Working memory — the adjacent bottleneck, and the one this is most often confused with.
 - Affect regulation — anxiety consumes attention directly, so the two compound.

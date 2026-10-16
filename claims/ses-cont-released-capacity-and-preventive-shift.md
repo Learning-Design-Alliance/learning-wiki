@@ -30,7 +30,7 @@ sources:
 # SES/CONT's time gains translated into an estimated released capacity of about 352 additional cases (+22.3%) and cleared backlog, and output shifted toward preventive work (Advisory Notices +664%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Aggregating the time gains over 1,581 cases processed in 2024, the article estimates released capacity equivalent to approximately 352 additional cases, a 22.3% capacity increase, with no case over 10 days in the inbox at year end. [→ Vinicius Santana Gomes 2026](#vinicius-santana-gomes-2026)

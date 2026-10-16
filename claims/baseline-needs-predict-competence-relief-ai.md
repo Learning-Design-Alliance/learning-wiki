@@ -30,7 +30,7 @@ sources:
 # Higher baseline autonomy and higher baseline competence frustration predict greater perceived relief from competence frustration after AI chatbot use, while higher baseline personal agency predicts less
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Baseline autonomy (β = .479) and baseline competence frustration (β = .291) positively predict perceived reduction in competence frustration. [→ Kevin Zhongyang Shao 2026](#kevin-zhongyang-shao-2026)

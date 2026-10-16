@@ -30,7 +30,7 @@ sources:
 # Layer-wise probing shows clearer middle-layer separability in the general model and a weaker, deeper separability profile in the coder model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The general model reaches peak linear separability at Layer 29 (FDR ≈ 0.0303) for difficulty and Layer 28 (FDR ≈ 0.0224) for Bloom targets, while the coder model's difficulty peak FDR remains low (≈ 0.0108 at Layer 28) and its Bloom peak shifts to Layer 36 of 48. [→ Yi Zhang & Julia Rayz 2026](#yi-zhang-julia-rayz-2026)

@@ -30,7 +30,7 @@ sources:
 # Inter-annotator agreement was moderate (combined mean Fleiss's κ of 0.62 across 23 groups), yet most students reported having reached consensus
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Fleiss's κ computed for 23 student groups showed a combined mean of 0.62, indicating the intended subjectivity was present in the dataset. [→ Ralf Raumanns 2026](#ralf-raumanns-2026)

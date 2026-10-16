@@ -30,7 +30,7 @@ sources:
 # Research-question responses score higher Answer Relevancy (0.87) than follow-ups (0.72), while Faithfulness, Context Relevance and Response Groundedness are lower
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Research-question responses achieve stronger Answer Relevancy than follow-up responses (mean 0.87 vs 0.72), but mean Faithfulness is 0.52, Context Relevancy 0.40, and Response Groundedness 0.43 across all 30 queries. [→ Dana Rezazadegan 2026](#dana-rezazadegan-2026)

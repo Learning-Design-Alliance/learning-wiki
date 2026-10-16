@@ -48,6 +48,12 @@ Retrieval practice is the element in which learners recall information from memo
 - [Retrieval practice instructions improved final recall of translations in Experiment 1](../claims/retrieval-instructions-improve-final-recall-exp1.md) [+W]
 - [Practice testing yields transferrable learning relative to a nontesting reexposure control condition (d = 0.40)](../claims/testing-yields-transfer-versus-reexposure-control-d-040.md) [+W]
 
+## The evidence by question
+- *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]
+- *Does the benefit carry to new questions, inferences and applications, or only to the items practised?* [Retrieval Practice Improves Transfer](../claims/retrieval-practice-improves-transfer.md) [+S]
+- *How much should retrieval succeed during practice, and how much support should it get?* [Retrieval Failure Reduces Benefit](../claims/retrieval-failure-reduces-benefit.md) [+M]
+- *How many practice tests, and how should they be scheduled?* [Spaced Retrieval Improves Retention](../claims/spaced-retrieval-improves-retention.md) [+M]
+
 ## Related Elements
 - [Self-Testing](self-testing.md)
 - [Spaced Repetition](spaced-repetition.md)

@@ -30,7 +30,7 @@ sources:
 # Students rated the flipped-learning component highest and the GenAI module lower, with GenAI rated stronger for ideation than for time saving or direct output use
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Post-course ratings were highest for the flipped-learning component (mean = 4.17), lower for the GenAI module (mean = 3.63), and GenAI items scored higher for expanding creative boundaries (4.06) than for saving time (3.00) or direct incorporation into final outcomes (2.94). [→ Hong Qu 2026](#hong-qu-2026)

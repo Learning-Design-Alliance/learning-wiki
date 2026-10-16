@@ -30,7 +30,7 @@ sources:
 # The Multimodal Interference Effect: mapping visual representations to physical concepts degrades LLM performance even on non-visual problem aspects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The requirement to map visual representations to physical concepts introduces processing complexity that degrades performance even on aspects of problems that are not inherently visual. [→ Akshay Syal 2026](#akshay-syal-2026)

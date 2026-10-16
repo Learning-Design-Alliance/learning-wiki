@@ -38,7 +38,7 @@ sources:
 # Inattention moderates how baseline competence frustration and baseline autonomy translate into perceived AI benefits, weakening both positive associations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (3 entries) · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (3 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The baseline competence frustration × inattention interaction significantly predicts perceived competence (b = −.018, p = .003); higher inattention attenuates the positive association. [→ Kevin Zhongyang Shao 2026](#kevin-zhongyang-shao-2026)

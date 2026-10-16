@@ -30,7 +30,7 @@ sources:
 # A 30-minute generative AI literacy training increased intelligence analysts' overall accuracy at distinguishing real from AI-generated images by 9 percentage points
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Among intelligence analysts, a 30-minute expert-led training increased overall accuracy by 9 percentage points (95% CI: [2.7, 15.4]) over a 72% pre-training baseline. [→ Negar Kamali 2026](#negar-kamali-2026)

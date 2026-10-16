@@ -30,7 +30,7 @@ sources:
 # Coach-guided interactive teaching yields higher and more progressive recovery than static relearning, particularly under moderate forgetting levels (10%–30%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r1`, 1 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In a three-agent teachable-agent setting, coach-guided dialogue produces consistent and progressive accuracy gains, especially under moderate unlearning. [→ Jiajia Song 2026](#jiajia-song-2026)

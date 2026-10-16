@@ -30,7 +30,7 @@ sources:
 # Education-oriented tuning improves authentic K-12 problem solving, with OmniEdu-27B's MDK12-Bench open-question correctness rising from 62.08% to 78.77%
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On MDK12-Bench, OmniEdu-27B improves the overall score from 46.04% to 57.76%, with open-question correctness rising from 62.08% to 78.77%. [→ Hao Liang 2026](#hao-liang-2026)

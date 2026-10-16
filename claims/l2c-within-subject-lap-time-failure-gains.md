@@ -30,7 +30,7 @@ sources:
 # L2C coaching significantly reduces learners' lap times and failure counts from pre- to post-coaching in FPV drone racing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i2`–`i3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2`–`i3`
 
 ## Subclaims
 `q3 i2` After about 40 minutes of L2C coaching, learners' lap times dropped by 27.9% on average (dz = -1.08, p = 0.005). [→ Wei Wang 2026](#wei-wang-2026)

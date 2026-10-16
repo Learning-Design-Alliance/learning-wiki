@@ -30,7 +30,7 @@ sources:
 # Random shot selection yields the worst originality-similarity combination, while greedy and constraint-satisfaction selection raise originality without increasing item redundancy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r?`, 1 design `r?` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Random shot selection produces mostly low-originality items with the highest similarity peak; greedy and constraint satisfaction achieve lower similarity and higher originality consistently, with similarity remaining generally static as originality increases. [→ Antonio Laverghetta Jr. 2024](#antonio-laverghetta-jr-2024)

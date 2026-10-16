@@ -30,7 +30,7 @@ sources:
 # The Photon Fusion VR learning system achieves stable real-time communication with minimal device load
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` During the lab test the teacher's device averaged 72.47 fps (SD = 0.95), indicating minimal load. [→ Iwai Wataru 2026](#iwai-wataru-2026)

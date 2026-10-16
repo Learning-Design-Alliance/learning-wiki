@@ -30,7 +30,7 @@ sources:
 # Code-augmented interaction redistributes failures into protocol, execution, and mathematical layers, with Gemini 2.5 Pro failing mostly through protocol violations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Under the code-augmented condition, failures separate into protocol violations, execution failures, and mathematically incorrect computations, and models differ markedly in where they fail. [→ Sagnik Nath 2026](#sagnik-nath-2026)

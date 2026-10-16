@@ -30,7 +30,7 @@ sources:
 # Pragmatic and contingent LLM rewrites reduced perceived cognitive load relative to standard interpreter messages
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across the full sample, intrinsic load was lower for Pragmatic vs. Standard (p=0.0017) and Contingent vs. Standard (p=0.0431), and extraneous load differed only for Pragmatic vs. Standard (p=0.0064). [→ Alexandru-Radu Moraru 2026](#alexandru-radu-moraru-2026)

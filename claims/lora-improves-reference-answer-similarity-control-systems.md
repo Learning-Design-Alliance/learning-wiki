@@ -30,7 +30,7 @@ sources:
 # LoRA fine-tuning on control systems course data increases lexical and semantic similarity between model responses and course reference answers at both 3B and 7B model sizes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` LoRA-fine-tuned Qwen2.5 models outperformed their corresponding base models on most ROUGE and BERTScore metrics on the 54-item test set. [→ Shaowen Lu 2026](#shaowen-lu-2026)

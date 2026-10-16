@@ -30,7 +30,7 @@ sources:
 # Design students report low trust in GenAI outputs and systematically modify and verify them, with inaccuracy the main deterrent
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` 65% of respondents indicate they do not trust GenAI outputs, and 85% indicate they systematically modify what GenAI produces to suit their needs. [→ Stefana Broadbent 2026](#stefana-broadbent-2026)

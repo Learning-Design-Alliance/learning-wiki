@@ -30,7 +30,7 @@ sources:
 # Higher stated education and SES levels receive responses with more positive sentiment, an implicit bias that can disadvantage lower-education users
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Education level positively predicts response sentiment, with an average sentiment difference of 0.3 between the lowest and highest of four education levels. [→ Donya Rooein 2026](#donya-rooein-2026)

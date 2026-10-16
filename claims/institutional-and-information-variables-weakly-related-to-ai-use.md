@@ -30,7 +30,7 @@ sources:
 # Institutional initiatives, demographics, teaching practices, and information sources show weak or null associations with AI pedagogical orientation and use
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Institutional initiative variables showed little consistent relationship with the factor, and information sources were weakly and slightly negatively related, suggesting orientation differences are not explained by access to information or institutional support. [→ T. J. Atherton 2026](#t-j-atherton-2026)

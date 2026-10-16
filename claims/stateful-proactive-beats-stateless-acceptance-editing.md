@@ -30,7 +30,7 @@ sources:
 # Stateful proactive collaboration (L2) yields higher acceptance and lower editing effort than stateless proactive collaboration (L1), with lower acceptance in creative than scientific domains
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1`–`r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Moving from L1 stateless to L2 stateful proactive collaboration yields systematic gains in acceptance rate and reduced editing effort across evaluated models. [→ Youqing Fang 2026](#youqing-fang-2026)

@@ -56,6 +56,9 @@ Performance support shifts the instructional goal from "train everything in adva
 - [Generative AI makes knowledge mobilizable, converting external knowledge into immediately usable task output within seconds](../claims/generative-ai-makes-knowledge-mobilizable.md) [+W]
 - [Most students used cheat sheets as an occasional backup or continuous aid rather than a one-time reference](../claims/cheatsheet-continuous-reference-dominant-usage.md) [+W]
 
+## The evidence by question
+- *Does performing with an aid at hand leave learners able to do the task once the aid is removed?* [Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal](../claims/gpt4-access-harms-learning-after-withdrawal.md) [~M]
+
 ## Related Elements
 - [Procedural Information](procedural-information.md) — the content type performance support delivers, just-in-time instead of up front
 - [Scaffolding](scaffolding.md) — performance support is a self-service scaffold; fading applies here too

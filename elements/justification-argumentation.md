@@ -70,6 +70,10 @@ Argumentation improves conceptual understanding and scientific reasoning because
 - [Relationship-focused PD shifts teacher conceptions of rigor and safety in argumentation instruction](../claims/relationship-focused-pd-shifts-teacher-conceptions-of-rigor-and-safety.md) [+M]
 - [Quality of staff-student and staff-parent relationships most strongly defines safe schools, with disadvantaged high-relationship schools feeling safer than advantaged low-relationship schools](../claims/relationship-quality-defines-safe-schools.md) [+W]
 
+## The evidence by question
+- *Does structured argument with peers improve learners' individual argument and content learning?* [Argumentation Improves Reasoning](../claims/argumentation-improves-reasoning.md) [+S]
+- *Does AI feedback or AI support improve learners' arguments and justifications, and in which designs?* [Direct GenAI-supported feedback improves immediate argument-quality gain over peer feedback, while reflective and hybrid designs outperform direct GenAI feedback](../claims/genai-feedback-design-argument-quality-gain.md) [+M]
+
 ## Related Elements
 
 - [Argument Construction](argument-construction.md) — the compositional skill this element depends on; learners must build arguments before defending them

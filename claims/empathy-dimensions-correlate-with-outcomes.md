@@ -30,7 +30,7 @@ sources:
 # LLM-annotated empathy dimensions correlate positively with intention to follow, self-efficacy, and chatbot usefulness despite participants not preferring empathetic chatbots
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1` · `q2` · `i1` small
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` Emotional reaction correlates significantly with intention to follow (ρ = 0.156), self-efficacy (ρ = 0.139), and usefulness (ρ = 0.249). [→ Li Siyan 2026](#li-siyan-2026)

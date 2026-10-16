@@ -30,7 +30,7 @@ sources:
 # Metacognitive feedback disrupted the tendency to repeat answer offloading across consecutive items without changing whether participants engaged with the assistant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r3` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r3` · `q2`
 
 ## Subclaims
 `q2 i?` After offloading an item, participants offloaded the subsequent item in 69.7% of cases without feedback versus 55.9% with feedback; the interaction was significant (OR = 0.54). [→ Sebastian Maier 2026](#sebastian-maier-2026)

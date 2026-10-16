@@ -30,7 +30,7 @@ sources:
 # In a five-teacher pilot in a 160-student introductory programming course, teachers valued rapid process-level insight and the pilot drove iterative usability improvements
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Teachers using the tool in a 160-student introductory programming course appreciated the visual overview of activity types and clearly marked pauses, and reported that the tool helped identify largely copied solutions and incorrect or incomplete log files. [→ Heidi Taveter and Marina Lepp 2026](#heidi-taveter-and-marina-lepp-2026)

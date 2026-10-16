@@ -30,7 +30,7 @@ sources:
 # Higher item noise, shared items among conceptually nested energy LOs, and smallest sample size explain the EMCS energy LOs' low classification accuracy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` EMCS items are noisier than FCI and FMCE items, with a mean DINA slipping parameter of 0.349 versus 0.138 and 0.136. [→ Vy Le 2026](#vy-le-2026)

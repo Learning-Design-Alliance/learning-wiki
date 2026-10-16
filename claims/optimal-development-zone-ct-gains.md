@@ -30,7 +30,7 @@ sources:
 # Students with moderate initial CT levels show substantially greater self-efficacy gains than high-CT and low-CT peers, an 'Optimal Development Zone' effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r1`, 1 associational `r2` · `q2` · `i3` large
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` K-means clustering identified three profiles, and ANOVA showed significant gain differences [F(2,84)=51.64, p<.001, η²=.55], with the Moderate-CT group significantly outperforming both High-CT (Δ=17.62, p<.001) and Low-CT groups (Δ=18.88, p<.001). [→ Yimeng Sun 2026](#yimeng-sun-2026)

@@ -30,7 +30,7 @@ sources:
 # Post-session subjective ratings favored the adaptive system for the expressive persona but showed a reversed adaptivity disadvantage for the guarded persona
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r2`, 1 design `r2` · `q2` · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` For the expressive persona (Alex), the adaptive condition significantly outscored static on character consistency (d = 0.40) with a medium realism effect (d = 0.47). [→ Angela Chen 2026](#angela-chen-2026)

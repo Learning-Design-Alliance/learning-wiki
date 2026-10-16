@@ -30,7 +30,7 @@ sources:
 # Vibe-coded websites built for 73 distinct businesses converge into roughly a dozen recurring visual designs despite an explicit originality incentive
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Unsupervised clustering of DINOv3 embeddings recovers six visual archetypes absorbing 64 of 73 sites (88%), and effective-diversity indices put the number of distinct designs at roughly six to twelve. [→ Léonard Boussioux* 2026](#leonard-boussioux-2026)

@@ -30,7 +30,7 @@ sources:
 # Role-playing participants prefer LearnLM over GPT-4o but express no substantial preference versus Gemini 1.5 Pro or Claude 3.5 Sonnet
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Participants role-playing as learners preferred LearnLM over GPT-4o in all four comparative assessment categories, strongest for overall pedagogy and similarity to a very good human tutor. [→ LearnLM Team 2024](#learnlm-team-2024)

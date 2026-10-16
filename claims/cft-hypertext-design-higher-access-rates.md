@@ -30,7 +30,7 @@ sources:
 # Experimental-group students accessed the online course and learning activities more frequently (6.38 and 7.92) than control-group students (2.67 and 6.05)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Average rate of access to the online course was 6.38 for the experimental group versus 2.67 for the control group, and access to learning activities was 7.92 versus 6.05. [→ Chokri Barhoumi; Pier Giuseppe Rossi 2013](#chokri-barhoumi-pier-giuseppe-rossi-2013)

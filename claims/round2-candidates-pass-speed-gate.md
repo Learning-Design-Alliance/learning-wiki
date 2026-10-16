@@ -30,7 +30,7 @@ sources:
 # Qwen 7B and Mistral Nemo 12B passed the classroom speed gate in round 2 and were retained as candidates pending faculty review
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r3` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Qwen 7B and Mistral Nemo 12B both passed 12/12 probes with latency ratios of 1.01 and 1.24, and Qwen completeness was 0.93 versus 0.91 for 8B. [→ Sidney Shapiro and Joshua Lindemann 2026](#sidney-shapiro-and-joshua-lindemann-2026)

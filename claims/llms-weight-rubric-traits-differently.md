@@ -30,7 +30,7 @@ sources:
 # Different LLMs rely on different subsets of rubric traits when assigning essay scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Trait mentions in LLM feedback are not uniformly distributed, with praise concentrated on a few traits and criticism spread more broadly, varying across models and rubric structures. [→ Jerin George Mathew 2026](#jerin-george-mathew-2026)

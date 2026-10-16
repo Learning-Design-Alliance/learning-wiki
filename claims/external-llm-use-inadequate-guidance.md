@@ -30,7 +30,7 @@ sources:
 # 15% of students used an external LLM, with the highest descriptive rate in the Socratic + Full Context condition, mainly citing inadequate guidance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Overall 15% of students (20 of 132) reported using another LLM or chatbot; rates differed descriptively but not significantly across conditions, with Socratic + Full Context highest at 23% (7 of 30). [→ Madeleine Eastwood 2026](#madeleine-eastwood-2026)

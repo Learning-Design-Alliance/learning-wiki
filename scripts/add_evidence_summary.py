@@ -94,6 +94,32 @@ def generated_re() -> re.Pattern:
 COUNT_RE = re.compile(r"^>\s*\*\*Evidence\*\*\s*·\s*(\d+)\s+(?:stud(?:y|ies)|sources?)\b")
 
 
+def study_groups(coded: list) -> list:
+    """Entries grouped by study: two entries are one study when they share a DOI or a fingerprint
+    (year plus the first title words). Keying on the DOI alone split a paper entered once with its
+    DOI and once with only its URL into "2 studies" (Racovan 2026, Dickey 2026; 2026-10-16)."""
+    from evidence_rollup import _doi, _fingerprint
+    parent = list(range(len(coded)))
+
+    def find(i):
+        while parent[i] != i:
+            parent[i] = parent[parent[i]]
+            i = parent[i]
+        return i
+    seen = {}
+    for i, s in enumerate(coded):
+        keys = [k for k in (("doi:" + _doi(s)) if _doi(s) else None, _fingerprint(s)) if k] or ["id:" + str(s.get("id"))]
+        for k in keys:
+            if k in seen:
+                parent[find(i)] = find(seen[k])
+            else:
+                seen[k] = i
+    out = {}
+    for i, s in enumerate(coded):
+        out.setdefault(find(i), []).append(s)
+    return list(out.values())
+
+
 def summary_line(sources: list) -> str:
     """The `> **Evidence** · …` line for one claim's evidence entries.
 
@@ -110,10 +136,8 @@ def summary_line(sources: list) -> str:
     # and counting entries read as "3 studies" on 398 pages (usage simulation,
     # 2026-09-27). Same key as evidence_rollup: a shared DOI, or year plus the
     # first six title words.
-    from evidence_rollup import _doi, _fingerprint
-    studies = {("doi:" + _doi(s)) if _doi(s) else (_fingerprint(s) or "id:" + str(s.get("id")))
-               for s in coded}
-    n = len(studies)
+    groups = study_groups(coded)
+    n = len(groups)
     parts = [f"{n} stud{'y' if n == 1 else 'ies'}"]
     if n < len(coded):
         parts[0] += f" ({len(coded)} entries)"
@@ -122,12 +146,8 @@ def summary_line(sources: list) -> str:
     # this is, and how well each study does what its kind can do. Counted by
     # distinct study like the total; a study takes the kind most of its entries
     # give. A rigour spread is shown as a spread, never averaged.
-    by_study = {}
-    for s_ in coded:
-        k = ("doi:" + _doi(s_)) if _doi(s_) else (_fingerprint(s_) or "id:" + str(s_.get("id")))
-        by_study.setdefault(k, []).append(s_)
     kinds = {}
-    for group in by_study.values():
+    for group in groups:
         ks = [g["kind"] for g in group if g.get("kind")]
         if not ks:
             continue

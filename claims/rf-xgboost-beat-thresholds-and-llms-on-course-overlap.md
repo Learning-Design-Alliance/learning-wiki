@@ -30,7 +30,7 @@ sources:
 # On the TU/e CS overlap dataset, supervised NLP classifiers (Random Forest, XGBoost) outperform thresholding and zero-shot LLM baselines at detecting course overlap
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In 5-fold cross-validation on the TU/e dataset, Random Forest achieved F1 = 0.74 and XGBoost F1 = 0.73, the best balance of precision and recall among evaluated methods. [→ Arthur Nijdam 2026](#arthur-nijdam-2026)

@@ -68,6 +68,9 @@ Model revision supports conceptual change by forcing learners to compare their p
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Dialogue evidence shows coach feedback induces genuine conceptual change, shifting the agent from misconception to conceptually correct explanation rather than superficial answer alignment](../claims/dialogue-feedback-induces-conceptual-change.md) [+W]
 
+## The evidence by question
+- *Does instruction that names and confronts a science misconception change learners' conceptions more than standard exposition?* [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](../claims/misconceptions-interfere-with-new-learning.md) [+S]
+
 ## Related Elements
 - [Scientific Reasoning](scientific-reasoning.md) — supplies the evaluative standards learners apply when judging their model against evidence
 - [Justification](justification.md) — the written or oral warrant for *why* a revision was made; without it, revision becomes guesswork

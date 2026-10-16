@@ -30,7 +30,7 @@ sources:
 # Training gains were distributed broadly across the 97 stimulus images rather than concentrated in a small subset, though stimulus-level effects were heterogeneous
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The training effect was distributed across images and not concentrated in a narrow subset, indicating gains do not hinge on a few highly responsive stimuli. [→ Negar Kamali 2026](#negar-kamali-2026)

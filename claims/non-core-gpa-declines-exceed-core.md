@@ -30,7 +30,7 @@ sources:
 # GPA declines in arts and PE/health greatly exceeded declines in core subjects between eighth and ninth grade
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Average declines were 0.81 points in PE/health and 0.61 points in arts, versus 0.33 points in core subjects; at 75 percent of CPS high schools, freshman PE/health GPAs fell more than 0.5 points. [→ Seeskin 2018](#seeskin-2018)

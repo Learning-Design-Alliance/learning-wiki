@@ -30,7 +30,7 @@ sources:
 # Most students reported no change in study habits, but students who adapted their study strategies rated GenAI-evaluation assignments as significantly more helpful
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` 77.0% of surveyed students (154/200) reported the modified homework did not change how they studied for exams. [→ Ethan Dickey 2026](#ethan-dickey-2026)

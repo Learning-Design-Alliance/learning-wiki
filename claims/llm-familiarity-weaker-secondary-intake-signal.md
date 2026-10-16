@@ -30,7 +30,7 @@ sources:
 # Self-rated LLM familiarity is a weaker secondary intake signal, surviving Holm correction for three of five outcomes with a bottom-anchored pattern
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q2` · `i2` medium
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Self-rated familiarity survives Holm correction for distinguishing capability (ρ=.294), complex-task trust (ρ=.278), and critical-thinking risk (ρ=−.254), but not for accuracy trust or training interest. [→ Yongkyung Oh 2026](#yongkyung-oh-2026)

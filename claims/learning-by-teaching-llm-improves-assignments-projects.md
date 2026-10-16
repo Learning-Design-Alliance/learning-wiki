@@ -30,7 +30,7 @@ sources:
 # Learning-by-teaching an LLM improved assignment and project performance versus historical cohorts, but not exam performance, in an undergraduate CS course
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Students taught with the Socrates learning-by-teaching assignments scored significantly higher on assignments (p = 0.028) and projects (p = 0.018) than historical cohorts. [→ Xinming Yang 2025](#xinming-yang-2025)

@@ -30,7 +30,7 @@ sources:
 # Artifact-grounded agent responses are rated significantly higher than transcript-only responses on groundedness, analytical depth, helpfulness, relevance, and overall quality
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1`–`r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across 21 matched query pairs rated by four blind expert raters, the full agent outperformed the transcript-only baseline overall (r=.792, p=.001; means 4.24 vs 3.67 on a 5-point scale), with the largest effects on helpfulness (r=.737), analytical depth (r=.723), and groundedness (r=.693). [→ Dawei Xie 2026](#dawei-xie-2026)

@@ -30,7 +30,7 @@ sources:
 # Most reported student–LLM matches involved short snippets, and raising the minimum match length rapidly reduced coverage, making it a key review-workload control
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across cohorts, the median reported overlap spanned 8–9 lines and 97.0–99.4% of cross-matches contained fewer than 30 matched lines. [→ Runlong Ye 2026](#runlong-ye-2026)

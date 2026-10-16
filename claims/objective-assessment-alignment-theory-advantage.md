@@ -30,7 +30,7 @@ sources:
 # Theory-based agents show significantly better Objective-Assessment alignment (d = 0.32), while Content-Activity alignment favors non-theory agents (d = -0.19)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r1`, 1 design `r2` · `q2` · `i0`–`i1`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i0`–`i1`
 
 ## Subclaims
 `q2 i1` Theory-based agents demonstrate significantly better Objective-Assessment alignment (OA: d = 0.32, p < 0.001). [→ YoungHoon Jeon 2026](#younghoon-jeon-2026)

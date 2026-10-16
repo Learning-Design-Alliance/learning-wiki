@@ -30,7 +30,7 @@ sources:
 # The v4.1 redesign reduced mean developer assembly time from 21.4 to 13.7 minutes, but the first-attempt-only mean was 20.4 minutes, with the further reduction reflecting a junior learning effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r1`, 1 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Assembly times trended downward from 21.4 to 13.7 minutes across versions, compressing the assembly-to-disassembly ratio from 4.3x to 2.9x. [→ Farnaz Baksh 2026](#farnaz-baksh-2026)

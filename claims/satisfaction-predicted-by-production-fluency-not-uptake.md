@@ -30,7 +30,7 @@ sources:
 # Attitudes toward AI improved after direct experience, and satisfaction was predicted by within-turn production fluency rather than linguistic uptake
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Directional sentiment scores increased significantly after the task (mean +0.48, d=0.64), with 75% of participants becoming more positive. [→ Russell Scheinberg 2026](#russell-scheinberg-2026)

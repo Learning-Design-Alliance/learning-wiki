@@ -30,7 +30,7 @@ sources:
 # Carryover of user errors into AI advice reduces both advice quality and final ranking accuracy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Advice quality was negatively associated with the proportion of user errors carried over into the assistant's advice (b = -0.390, p < .001), while positively associated with overall overlap (b = 0.933, p < .001). [→ Cansu Koyuturk 2026](#cansu-koyuturk-2026)

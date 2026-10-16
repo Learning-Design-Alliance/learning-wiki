@@ -30,7 +30,7 @@ sources:
 # Districts face validity, reliability, comparability, and accountability-tension challenges in assessing future-ready skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · qualitative `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Districts struggle to ensure validity and reliability of locally designed tools, find scores incomparable across districts, and experience tension with state and national accountability systems. [→ Kyle Dunbar 2025](#kyle-dunbar-2025)

@@ -78,6 +78,10 @@ Whether a learner can *operate* the interface — distinct from [access](access.
 - [The two students' distinct AI literacy approaches may be shaped by differing rhetorical objectives, genres, and audiences of their writing tasks](../claims/task-genre-audience-shape-ai-literacy-approaches.md) [~M] — instruction changes it
 - [Certain aspects of AI literacy play a role in higher-quality prompt engineering by non-expert students](../claims/ai-literacy-aspects-support-prompt-engineering.md) [+M] — learners who differ on it differ in outcomes
 
+## The evidence by question
+- *Do learners who differ in digital literacy differ in learning, engagement and later outcomes?* [Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings](../claims/digital-literacy-gaps-span-demographics.md) [+M]
+- *Does explicit instruction raise learners' AI and digital literacy, and for whom?* [AI literacy interventions show a large, statistically significant overall positive effect on student AI literacy outcomes (g = 0.837)](../claims/ai-literacy-interventions-large-overall-effect.md) [+M]
+
 ## Related Learner Variables
 - Access — whether they can load it, as against whether they can drive it.
 - Working memory — an unfamiliar interface spends the same limited resource the task needs.

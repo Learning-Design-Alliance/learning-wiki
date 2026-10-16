@@ -38,7 +38,7 @@ sources:
 # Provider assistance to probation schools suffered from low intensity, poor communication among providers, and weak organizational change strategies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (3 entries) · 2 qualitative `r2` · `q2`
+> **Evidence** · 1 study (3 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The intensity of assistance delivered to probation schools was inadequate to address the needs of the individuals and organizations concerned, varying among providers. [→ Kara Finnigan and Jennifer O'Day 2003](#kara-finnigan-and-jennifer-oday-2003)

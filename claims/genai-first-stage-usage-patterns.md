@@ -30,7 +30,7 @@ sources:
 # Random assignment to AI access produces a strong first stage: about 70 percent of treated students use AI, most often to explain concepts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2`–`r3` · `q4`
+> **Evidence** · 1 study (2 entries) · causal `r2`–`r3` · `q4`
 
 ## Subclaims
 `q4 i?` Assignment to the AI-allowed condition increases measured AI usage by 65.9 pp and self-reported use by 60.9 pp, from a near-zero control baseline, with 88 percent of users reporting AI helpful. [→ Zara Contractor and Germán Reyes 2026](#zara-contractor-and-german-reyes-2026)

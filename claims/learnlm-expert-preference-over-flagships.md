@@ -30,7 +30,7 @@ sources:
 # Pedagogy experts prefer LearnLM over contemporaneous flagship models across comparative assessment categories
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r2`, 1 design `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Expert assessors showed a strong preference toward LearnLM over GPT-4o for all five comparative assessment categories, with smaller preferences over Claude 3.5 Sonnet and Gemini 1.5 Pro. [→ LearnLM Team 2024](#learnlm-team-2024)

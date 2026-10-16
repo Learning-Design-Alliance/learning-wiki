@@ -30,7 +30,7 @@ sources:
 # Across all three domains, trained StudentSim simulators outperform every baseline on guidance responsiveness (R), with the largest gap on open-ended guidance modes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across chess, L2, and math, the trained simulators outperform every baseline on aggregate R, and the gap is largest on open-ended guidance modes. [→ Ke Yang 2026](#ke-yang-2026)

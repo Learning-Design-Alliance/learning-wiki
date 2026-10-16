@@ -30,7 +30,7 @@ sources:
 # Curiosity is the primary driver and mistrust of accuracy the primary barrier to LLM adoption for learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Among LLM learners, curiosity was the most frequently cited motivating factor for adoption (n = 517), followed by recommendations from social connections (n = 254). [→ Terzimehić 2025](#terzimehic-2025)

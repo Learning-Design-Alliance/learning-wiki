@@ -30,7 +30,7 @@ sources:
 # Students rated DPs positively, did not distinguish the two LLMs, and disagreed with experts on the same DPs, rating feasibility significantly lower
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2` · `i1` small
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` Cognitive Complexity received the highest student mean rating (M=4.35, 87% agreeing) and Scenario Quality was rated highly (M=4.21), while Feasibility was lowest (M=3.63). [→ Ahmad D. Suleiman 2026](#ahmad-d-suleiman-2026)

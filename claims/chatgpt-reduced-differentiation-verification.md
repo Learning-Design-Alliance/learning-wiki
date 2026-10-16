@@ -30,7 +30,7 @@ sources:
 # ChatGPT users differentiated information less (never by credibility) and rarely verified information compared to Google users
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1`–`r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` ChatGPT participants showed fewer differentiation instances, with zero entries filtering by credibility versus 30.71% for Google, and verified information in only 3.06% of entries versus 19.29% for Google. [→ Shravika Mittal 2026](#shravika-mittal-2026)

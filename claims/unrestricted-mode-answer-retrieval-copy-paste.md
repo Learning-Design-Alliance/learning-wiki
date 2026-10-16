@@ -30,7 +30,7 @@ sources:
 # Most unrestricted-mode interactions were direct answer retrieval: 52.9% of exercise interactions were copy-paste of the question, and participant answers were linguistically near-identical to chatbot text in 25.3% of cases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` 52.9% of Mode 1 exercise interactions were classified as copy-paste question, versus 21.8% in the Socratic mode. [→ Alexandre Clin Deffarges 2026](#alexandre-clin-deffarges-2026)

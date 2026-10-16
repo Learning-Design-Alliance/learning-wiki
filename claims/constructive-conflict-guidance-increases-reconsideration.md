@@ -30,7 +30,7 @@ sources:
 # Both stepwise constructive-conflict guidance and the antagonistic agent led novice designers to reconsider what makes a design effective more than unsupported self-reflection
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` On the reconsideration item, both the Stepwise Guidance and Interactive Engagement groups scored significantly higher than Self Reflection, with a large omnibus effect (ε² = .19). [→ Howard Ziyu Han 2026 (2)](#howard-ziyu-han-2026-2)

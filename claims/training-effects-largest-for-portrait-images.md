@@ -30,7 +30,7 @@ sources:
 # Training effects concentrated in portrait images (+39.8 percentage points, significant), with directional non-significant negative estimates for full-body and posed-group images
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The estimated training effect was largest for portrait images, a statistically significant 39.8 percentage point increase in accuracy (95% CI: [27.5, 52.0]). [→ Negar Kamali 2026](#negar-kamali-2026)

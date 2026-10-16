@@ -30,7 +30,7 @@ sources:
 # Continuing-generation students showed higher usage of procedural and directive question types, while first-generation students leaned toward verification and expectational questions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Instrumental/procedural questions showed the largest statistically significant difference in Session 1 (Δ = +1.03, p = .013), favouring continuing-generation students, and remained the second-largest advantage in Session 2 (Δ = +1.44). [→ Matin Amoozadeh and Amin Alipour 2026](#matin-amoozadeh-and-amin-alipour-2026)

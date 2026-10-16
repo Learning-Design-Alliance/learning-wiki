@@ -30,7 +30,7 @@ sources:
 # Lexical adoption shows no significant condition effect after controlling for input volume, but AI-first participants adopted more words at the second dialogue position
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i?` After accounting for input volume and learner output, condition does not reliably predict lexical adoption (β=−1.77, p=.062). [→ Russell Scheinberg 2026](#russell-scheinberg-2026)

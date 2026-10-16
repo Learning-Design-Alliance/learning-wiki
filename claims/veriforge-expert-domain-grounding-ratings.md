@@ -30,7 +30,7 @@ sources:
 # Blind expert raters judged VeriForge passages as conveying stronger perceived authorial domain competence, with other quality dimensions showing uncorrected trends
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1`–`r2` · `q2` · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Perceived authorial domain competence was rated higher for VeriForge (M=4.58 vs M=3.58; r=.818) and remained significant after FDR correction. [→ Ruqi Sun 2026](#ruqi-sun-2026)

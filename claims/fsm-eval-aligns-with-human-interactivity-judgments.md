@@ -30,7 +30,7 @@ sources:
 # FSM-based evaluation aligns with human judgments of interactivity, functional correctness, and visual quality more strongly than VLM and unit-test baselines on balanced data
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2` · `i3` large
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` On the balanced dataset, FSM-based evaluation achieves the highest correlation with human judgment on interactivity (r = 0.728), outperforming VLM-based evaluation and unit testing. [→ Xiaozao Wang 2026](#xiaozao-wang-2026)

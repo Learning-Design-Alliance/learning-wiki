@@ -56,6 +56,12 @@ Structured in-class activities improve exam performance and reduce failure rates
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Undergraduate physics students react highly positively to the IF-AT format](../claims/students-highly-positive-reaction-to-if-at.md) [+W]
 
+## The evidence by question
+
+- *Does replacing part of lecture with active learning raise exam scores and pass rates?* [Active Learning Improves Exam Performance](../claims/active-learning-improves-exam-performance.md) [+S]
+- *Which kind of activity: manipulating material, generating beyond it, or building on a partner's ideas?* [Constructive learning beats active and passive learning](../claims/constructive-learning-beats-active-passive.md) [+M]
+- *Will learners recognise that they learn more from in-class activities than from a fluent lecture?* [Students in active classrooms reported lower feeling of learning than students in passive lectures (0.56 SD lower, P < 0.001)](../claims/active-learning-lower-feeling-of-learning.md) [~M]
+
 ## Related Elements
 - [Peer Collaboration](peer-collaboration.md) — the social structure most in-class activities run on; peer explanation drives elaboration
 - [Problem-Based Learning](problem-based-learning.md) — an extended activity format organized around an authentic problem

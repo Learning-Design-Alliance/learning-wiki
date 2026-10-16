@@ -30,7 +30,7 @@ sources:
 # Syntactic rather than semantic processing of input is essential for correcting incomprehensible output
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r2` · `q1`
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Correcting incomprehensible output required grammatical analysis of input structure, as when journal review revealed the need for "have the telephone installed" instead of "install the telephone". [→ Yu Liming 1990](#yu-liming-1990)

@@ -38,7 +38,7 @@ sources:
 # Data comics outperformed conventional visualisations on both information retrieval and comprehension tasks, with the largest gains in comprehension, particularly multiple-insight questions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (3 entries) · 2 causal `r2` · `q3` · `i2`–`i3`
+> **Evidence** · 1 study (3 entries) · causal `r2` · `q3` · `i2`–`i3`
 
 ## Subclaims
 `q3 i2` For information retrieval tasks, the correct rate was significantly higher with DC than CV, with a moderate effect size (r = 0.341). [→ Zirui Shan 2026](#zirui-shan-2026)

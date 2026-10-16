@@ -30,7 +30,7 @@ sources:
 # LLM-generated programming code was reliably detected, but inserting beginner bugs had an inconsistent effect across the two programming questions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1`–`r2` · `q2` · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` LLM responses received substantially higher likelihood estimates than real student code in programming question 1, and adding beginner mistakes did not reduce detectability there and may have increased it (Cliff's delta = -0.640 for bugs). [→ Juho Leinonen 2026](#juho-leinonen-2026)

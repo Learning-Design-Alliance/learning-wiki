@@ -30,7 +30,7 @@ sources:
 # Secondary outcomes differed in predictability: near-term related-task performance was hardest while 7–28-day performance showed a longitudinal signal
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Near-term related-task performance was the most challenging prediction target, with test ROC-AUC of 0.303 for the dedicated fusion GRU, 0.433 for logistic regression, and 0.383 for gradient boosting. [→ Shihao Wang 2026](#shihao-wang-2026)

@@ -38,7 +38,7 @@ sources:
 # Four or more major challenges were more prevalent among women, Hispanic and minoritized students, and lower-income students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (3 entries) · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (3 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` 17% of women versus 7% of men reported four or more major problems continuing their STEM course online. [→ Means 2020](#means-2020)

@@ -30,7 +30,7 @@ sources:
 # Single-turn tutors disclose answers pervasively while challenge scores are near zero across every model and subject
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Answer disclosure is pervasive in single-turn responses, particularly in Chemistry where Qwen2.5-72B gives away answers in 37.9% of responses. [→ Rima Hazra 2026](#rima-hazra-2026)

@@ -30,7 +30,7 @@ sources:
 # Educational ChatGPT exposure shows no statistically significant effect on aggregate US high school test scores, with effects bounded below about 0.04 standard deviations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r?` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r?` · `q2`
 
 ## Subclaims
 `q2 i?` A one standard deviation increase in educational ChatGPT exposure changes high school test scores by -0.0096 (0.0098) standard deviations, not statistically significant. [→ Nick Huntington-Klein 2026](#nick-huntington-klein-2026)

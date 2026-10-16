@@ -30,7 +30,7 @@ sources:
 # A negative behavioral path through frequent resubmissions counteracted the affective benefit of layered feedback
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The average number of tasks with three or more submissions negatively predicted post-test scores (B = −0.33, p = .001) and carried a significant negative indirect effect (Ind = −0.19). [→ Jie Cao 2026](#jie-cao-2026)

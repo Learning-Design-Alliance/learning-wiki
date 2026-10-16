@@ -30,7 +30,7 @@ sources:
 # Perceived overall utility of generative AI differs significantly across the five platforms used, favoring platforms with structured task breakdowns
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1` · `q2` · `i3` large
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` A one-way ANOVA showed a significant difference among AI platforms (ChatGPT, Gemini, DeepSeek, Meta AI, Copilot) in overall perceived utility, F(4, 126) = 6.52, p < .001, η² = .17. [→ George Efthimiou 2026](#george-efthimiou-2026)

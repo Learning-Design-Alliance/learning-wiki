@@ -30,7 +30,7 @@ sources:
 # LLM-generated 7C collaboration assessment scores fall within the range of human expert variability across ten discussions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Adding the LLM as an additional rater did not reduce overall inter-rater agreement (alpha .637 vs .639), and LLM scores deviated less from the human mean than human scores deviated from each other (MAD 8.79 vs 10.25). [→ Dawei Xie 2026](#dawei-xie-2026)

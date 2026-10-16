@@ -30,7 +30,7 @@ sources:
 # Among 6,699 LLM-judge deduction flags, visual delivery is the largest deficiency category (39%) and learner adaptation the second (27%), while content problems are rarer (16%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Deduction analysis attributes the largest share of quality deficits to visual delivery and learner adaptation rather than content correctness. [→ Lin 2026](#lin-2026)

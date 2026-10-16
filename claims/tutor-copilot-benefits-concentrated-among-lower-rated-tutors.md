@@ -30,7 +30,7 @@ sources:
 # Tutor CoPilot's benefit is largest for lower-rated and less-experienced tutors (9 p.p. and 7 p.p.), diminishing as tutor effectiveness increases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r3` · `q4`
+> **Evidence** · 1 study (2 entries) · causal `r3` · `q4`
 
 ## Subclaims
 `q4 i?` Lower-rated tutors' students gained 9 p.p. in exit-ticket passing (56%→65%) and lower-experienced tutors' students gained 7 p.p. (61%→68%). [→ Rose E. Wang 2025](#rose-e-wang-2025)

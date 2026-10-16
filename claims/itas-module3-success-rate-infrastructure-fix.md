@@ -30,7 +30,7 @@ sources:
 # Module 3 code execution success dropped to approximately 60% before a missing-dependency infrastructure fix, recovering to match the 86–87% rates of Modules 1 and 2
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The Module 3 code execution success rate dropped to approximately 60% before the pylatexenc dependency fix, recovering to match the 86–87% rates observed in Modules 1 and 2 afterward. [→ Iizalaarab Elhaimeur and Nikos Chrisochoides 2026](#iizalaarab-elhaimeur-and-nikos-chrisochoides-2026)

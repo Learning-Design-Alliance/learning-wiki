@@ -56,6 +56,12 @@ Structured discourse deepens conceptual understanding because articulating and d
 - [The AI-IVE-PBL model's learning-outcome advantages are attributed to fostering sustained idea-developing discourse (SIDD)](../claims/sidd-mechanism-for-ai-ive-pbl-outcomes.md) [+W]
 - [The top of the student-discourse distribution contains essentially no categories of explicit conceptual reasoning, prediction, comparison to similar problems, or critical engagement with the tutor's suggestions](../claims/conceptual-reasoning-absent-from-discourse-head.md) [-W]
 
+## The evidence by question
+
+- *Which discussion structures and facilitation make open discussion produce learning, rather than just more talk?* [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](../claims/structured-discussion-methods-improve-comprehension.md) [+S]
+- *Does structured argument with peers improve learners' individual argument and content learning?* [Argumentation Improves Reasoning](../claims/argumentation-improves-reasoning.md) [+S]
+- *Who contributes to knowledge building, and do a learner's knowledge-building contributions predict what that learner learns?* [Tutors' proportion of knowledge-building responses to an agent's adaptive follow-up questions predicts conceptual and procedural post-test scores](../claims/kbr-predicts-tutor-posttest-conceptual-procedural.md) [+M]
+
 ## Related Elements
 - [Socratic Seminar](socratic-seminar.md) — a formalized discourse structure built on questioning
 - [Peer Discussion](peer-discussion.md) — the small-group form of knowledge-building talk

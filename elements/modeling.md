@@ -55,6 +55,10 @@ Modeling provides structured exposure to expert-level reasoning, reducing the un
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 
+## The evidence by question
+- *Should modelling come before the learner's first attempts?* [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]
+- *For whom: how does the benefit change with prior knowledge?* [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~S]
+
 ## Related Elements
 - [Practice](practice.md) — the necessary follow-on; modeling without practice rarely transfers
 - [Think-Aloud](think-aloud.md) — the narration method that makes modeling effective

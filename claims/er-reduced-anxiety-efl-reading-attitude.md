@@ -30,7 +30,7 @@ sources:
 # Extensive reading reduced Japanese EFL learners' anxiety about foreign-language reading (r = .34)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1` · `q2` · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Extensive reading significantly reduced Anxiety toward EFL reading, with a medium effect size (r = .34). [→ Junko Yamashita 2013](#junko-yamashita-2013)

@@ -30,7 +30,7 @@ sources:
 # Refinement gains stabilize or decline beyond three iterations, and beam-size gains become negligible beyond two samples
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Solution simulation improves with more refinement iterations up to L = 3, then stabilizes or slightly declines. [→ Tao Wu 2025](#tao-wu-2025)

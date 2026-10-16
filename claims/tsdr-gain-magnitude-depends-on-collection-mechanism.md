@@ -30,7 +30,7 @@ sources:
 # TSDR's AUC gains are largest on open-ended platforms and limited on EdNet, whose mandatory bundle completion policy constrains selection bias
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` TSDR improves AKT by 5.06% on the Prob dataset and SparseKT by 4.76% on Assist17 in AUC. [→ Peilin Zhan 2026](#peilin-zhan-2026)

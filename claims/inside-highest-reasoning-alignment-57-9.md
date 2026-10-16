@@ -30,7 +30,7 @@ sources:
 # INSIDE fine-tuning achieves the highest alignment between generated internal dialogue and ground-truth student code edits, up to 57.9%
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On test_NP, Qwen3-8B-INSIDE reaches 57.9% alignment versus 56.0% for the strongest BloomCoT prompting model; on test_OP, Qwen2.5-7B-INSIDE reaches 51.8% versus 49.6% for the best prompting baseline. [→ Rose Niousha 2026](#rose-niousha-2026)

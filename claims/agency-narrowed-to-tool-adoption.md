@@ -30,7 +30,7 @@ sources:
 # Existing AI literacy frameworks treat teacher agency narrowly as tool adoption, leaving human–AI co-agency undertheorized
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 qualitative `r2`, 1 theoretical `r3` · `q1`–`q2`
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q1`–`q2`
 
 ## Subclaims
 `q1 i?` Reviewed frameworks define agency as adopting tools, writing effective prompts, and making individual use decisions, which the authors argue misses ethical and civic demands. [→ Shahin Hossain 2026](#shahin-hossain-2026)

@@ -30,7 +30,7 @@ sources:
 # AI support can improve task performance while weakening users' metacognitive accuracy and leaving their own reasoning unimproved
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r?`, 1 theoretical `r3` · `q1`
+> **Evidence** · 1 study (2 entries) · causal `r?` · `q1`
 
 ## Subclaims
 `q1 i?` LLMs improved task performance but made users overconfident about their own accuracy, and most participants relied on single prompts without further follow-up. [→ Sander de Jong 2026](#sander-de-jong-2026)

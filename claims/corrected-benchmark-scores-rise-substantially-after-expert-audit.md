@@ -30,7 +30,7 @@ sources:
 # After expert correction of benchmark materials, GPT-5.6-Sol's measured accuracy rises substantially on HLE-Physics, CMT-Benchmark, and CritPt
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r?` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r?` · `q2`
 
 ## Subclaims
 `q2 i?` GPT-5.6-Sol's mean@4 rises from 47.3% to 78.7% on HLE-Physics and from 61.0% to 87.2% on CMT-Benchmark after correcting evaluation errors and repairing or excluding flawed questions. [→ Ali Ansari 2026](#ali-ansari-2026)

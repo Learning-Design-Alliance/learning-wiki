@@ -30,7 +30,7 @@ sources:
 # Graphing the Student Momentum Indicator across lessons yields nine dropout-behavior shape categories, with steep wall shapes the most common (25.5%) and flat slope shapes rare (2.6%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 qualitative `r2`, 1 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Constant comparison of M graphs from 196 courses produced nine categories: steep wall, back-to-back wall, steady slope, convex slope, three wall, early and late wall, flat slope, spanning wall, and other shapes. [→ Steven S. Christensen & Jonathan S. Spackman 2016](#steven-s-christensen-jonathan-s-spackman-2016)

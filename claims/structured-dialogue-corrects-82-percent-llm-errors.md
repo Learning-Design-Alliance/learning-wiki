@@ -38,7 +38,7 @@ sources:
 # A three-step structured multimodal dialogue intervention corrected 82% of baseline errors and raised multimodal accuracy to 95%, with visual processing errors corrected at 100% but context misinterpretation errors resistant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (3 entries) · 2 causal `r1` · `q2`
+> **Evidence** · 1 study (3 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Visual processing errors, the most common failure mode, were corrected at 100% across all models (95% CI [0.815, 1.000]). [→ Akshay Syal 2026](#akshay-syal-2026)

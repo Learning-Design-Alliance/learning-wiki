@@ -30,7 +30,7 @@ sources:
 # Flagged Spring 2026 students scored lower on all three exams than non-flagged peers, with performance declining as flagged assignments increased
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Flagged students averaged 61.9% across the three exams versus 73.5% for non-flagged students, and means declined from 69.4% with one flagged assignment to 53.5% with six. [→ David Racovan 2026](#david-racovan-2026)

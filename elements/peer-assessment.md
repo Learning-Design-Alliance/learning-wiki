@@ -50,6 +50,12 @@ Peer assessment is the element in which learners evaluate the work or reasoning 
 - [Proposition 2: mutual evaluation emphasizing reasons and responsive comparison will improve evaluative judgment more than unexplained self-rating](../claims/proposition-2-mutual-evaluation-improves-judgment.md) [+W]
 - [Participating in peer assessment causes a small but significant improvement in short-term achievement on unit quizzes in a college statistics course](../claims/peer-assessment-improves-unit-quiz-achievement.md) [+W] — attached 2026-10-15 from Sun DL et al. (2015), which proposed "Online homework platform enabling anonymized peer assessment distribution and in-class randomized experiments".
 
+## The evidence by question
+
+- *Should learners assess each other's work, and does it need a rubric or script?* [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](../claims/peer-assessment-improves-performance.md) [+M]
+- *How accurately do learners judge work, and what does the accuracy of their judgments depend on?* [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](../claims/peer-feedback-accuracy-depends-on-expertise.md) [~M]
+- *Does the learner doing the assessing learn from it, as well as the learner being assessed?* [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](../claims/peer-assessment-benefits-assessor.md) [+M]
+
 ## Related Elements
 - [Peer Review](peer-review.md)
 - [Criteria Development](criteria-development.md)

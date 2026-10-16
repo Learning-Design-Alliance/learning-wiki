@@ -30,7 +30,7 @@ sources:
 # Denial of LLM access increases attrition and LLMs are the most preferred study resource, acting as revealed preference
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Baseline-condition participants withdrew before the post-intervention exam at more than twice the rate of LLM-condition participants. [→ Bharat Anand 2026](#bharat-anand-2026)

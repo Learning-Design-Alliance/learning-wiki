@@ -38,7 +38,7 @@ sources:
 # Under causally valid, tuned settings, code-level embeddings do not consistently improve performance: rectified Code-DKT underperforms tuned DKT on several assignments, while ECKT remains competitive
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (3 entries) · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (3 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On assignments 439 and 494, the rectified Code-DKT model underperforms the tuned DKT baseline despite using code-level representations. [→ Jaewook Kim 2026](#jaewook-kim-2026)

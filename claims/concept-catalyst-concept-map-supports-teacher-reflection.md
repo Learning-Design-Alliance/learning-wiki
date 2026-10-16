@@ -30,7 +30,7 @@ sources:
 # Building the concept map supported teachers' reflection, helping them synthesize what students should learn and iterate on their plans
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The concept map helped teachers iterate on what students should address in their writing and visualize how concepts connected. [→ Gennie Mansi 2026](#gennie-mansi-2026)

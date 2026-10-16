@@ -30,7 +30,7 @@ sources:
 # VeriForge's integrated workflow is associated with higher one-week delayed recall of domain terms and a higher retention rate (exploratory)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1` · `q2` · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Participants recalled more domain-specific terms from the VeriForge condition (M=8.04 vs M=5.75; p=.008, r=.891). [→ Ruqi Sun 2026](#ruqi-sun-2026)

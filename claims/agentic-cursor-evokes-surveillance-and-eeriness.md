@@ -30,7 +30,7 @@ sources:
 # The agentic cursor evoked feelings of surveillance, judgment and eeriness, and its anticipation effects distracted writers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Humanlike cursor behaviour made participants feel watched and judged while writing. [→ Michael Yin 2026](#michael-yin-2026)

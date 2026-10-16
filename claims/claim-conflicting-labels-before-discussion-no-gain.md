@@ -30,7 +30,7 @@ sources:
 # The number of conflicting labels before discussion shows no relationship with accuracy gains from AI agent discussions, while post-discussion conflict frequency negatively predicts gains
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2` · `i0`–`i1`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i0`–`i1`
 
 ## Subclaims
 `q2 i0` Pre-discussion conflicting labels did not influence accuracy gains (p=0.059, effect size -0.037). [→ Jeongyeon Kim and John Mitchell 2026](#jeongyeon-kim-and-john-mitchell-2026)

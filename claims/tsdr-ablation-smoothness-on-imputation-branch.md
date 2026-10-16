@@ -30,7 +30,7 @@ sources:
 # In ablations, temporal smoothness works best on the imputation branch, and the full TSDR variant achieves the best AUC and ACC on all six backbones
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Applying temporal smoothness to the imputation branch consistently achieves the best or near-best results across backbones, whereas imposing it on the KT backbone often leads to inferior performance. [→ Peilin Zhan 2026](#peilin-zhan-2026)

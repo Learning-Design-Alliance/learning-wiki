@@ -30,7 +30,7 @@ sources:
 # A constrained architecture combining prerequisite enforcement and a minimum cognitive-demand floor substantially reduces reward hacking, lowering RHSI from 0.317 (MO) to 0.102 (ST)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2` · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` SmartTutor Full (ST) achieves a mean per-seed RHSI of 0.095±0.028, significantly lower than EO (d=−1.45) and MO (d=−1.50) at Bonferroni-corrected levels. [→ Oluseyi Olukolaa 2026](#oluseyi-olukolaa-2026)

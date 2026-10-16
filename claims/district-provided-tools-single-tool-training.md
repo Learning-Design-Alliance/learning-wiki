@@ -30,7 +30,7 @@ sources:
 # Teachers tended to adopt district-provided tools, and single-application step-by-step training supported uptake of Forms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Most teachers relied on tools provided by their district rather than seeking out new tools, especially in Scotland where Glow provides Office 365. [→ Digital Promise 2018](#digital-promise-2018)

@@ -30,7 +30,7 @@ sources:
 # No significant difference in perceived learning across the three modes (p = .845), despite the unrestricted mode's nearly double objective learning delta
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Participants rated how much they had learned similarly across modes (Full M = 6.06, Socratic M = 6.11, Adaptive M = 5.75), with no significant difference (p = .845). [→ Alexandre Clin Deffarges 2026](#alexandre-clin-deffarges-2026)

@@ -30,7 +30,7 @@ sources:
 # In the model, visible unverified peer use (social proof) suppresses verification and tips the population into collective overreliance, via a smooth crossover with no hysteresis
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 theoretical `r3` · `q2`
+> **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` As social proof strength s rises from 0 to 0.6, verification falls from 0.29 to 0.002 and overreliance rises from 0.30 to 0.52, with hub and random networks coinciding. [→ Ahana Biswas 2026](#ahana-biswas-2026)

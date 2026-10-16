@@ -30,7 +30,7 @@ sources:
 # Educator-led peer professional development reinforced educators' own understanding and connected LVN to existing practice
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 associational `r1`, 1 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` 100 percent of Task 2 participants reported that explaining learner variability to peers helped them understand it better themselves. [→ Medha Tare 2022](#medha-tare-2022)

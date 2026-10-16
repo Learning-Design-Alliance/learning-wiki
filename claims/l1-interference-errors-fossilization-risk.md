@@ -30,7 +30,7 @@ sources:
 # L1-induced errors persist in advanced learners and risk fossilization if learners rely on compensatory communication strategies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r2` · `q1`
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Most of the author's errors came from L1 interference, such as "from your behind" produced by subconscious translation from Chinese. [→ Yu Liming 1990](#yu-liming-1990)

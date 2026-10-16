@@ -30,7 +30,7 @@ sources:
 # No statistically significant EBAPS differences were observed for Axes 1–3 or between guided-inquiry and answer-oriented chatbot preferrers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Kruskal-Wallis tests found no statistically significant differences among preference groups on Axis 1 (structure of knowledge), Axis 2 (nature of knowing and learning), or Axis 3 (real-life applicability). [→ Amogh Sirnoorkar and Omkar Mamidpalliwar 2026](#amogh-sirnoorkar-and-omkar-mamidpalliwar-2026)

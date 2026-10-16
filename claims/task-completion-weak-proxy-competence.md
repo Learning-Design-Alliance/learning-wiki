@@ -30,7 +30,7 @@ sources:
 # Task completion with GenAI is a weak proxy for durable competence, with struggling learners at risk of an illusion of competence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 review `r2`–`r3` · `q2`
+> **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` Novice-programming observation found some students used GenAI as an accelerator while struggling students could experience compounded metacognitive difficulties and an illusion of competence. [→ Qusay H. Mahmoud 2026](#qusay-h-mahmoud-2026)

@@ -38,7 +38,7 @@ sources:
 # LLM errors on multimodal physics problems fall into four categories, with visual processing errors most prevalent, and error type distribution does not differ significantly across models
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (3 entries) · 2 causal `r1` · `q2`
+> **Evidence** · 1 study (3 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Examination of wrong answers yielded four main error categories: Context Misinterpretation, Mathematical Computation, Visual Processing, and Hybrid, with visual processing errors the most prevalent (17 of 34 multimodal errors). [→ Akshay Syal 2026](#akshay-syal-2026)

@@ -30,7 +30,7 @@ sources:
 # Independent expert teachers accepted 86% of generated STEM learning interactives, rating most as good or excellent, with biology simulations weakest on aesthetics and UX
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across 40 STEM simulation requests rated by two independent teacher raters per simulation, overall acceptance was 86% and accepted simulations were mostly rated good or excellent. [→ Alisa Kovshov 2026](#alisa-kovshov-2026)

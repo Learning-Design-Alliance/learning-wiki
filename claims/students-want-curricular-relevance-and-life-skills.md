@@ -30,7 +30,7 @@ sources:
 # Students want curriculum connected to real life, careers, and life skills, and report that the majority of the high school curriculum lacks real-world application
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On the whole, students find the majority of the high school curriculum missing application to the real world and want more opportunities to learn about potential future careers. [→ Viki M. Young 2026](#viki-m-young-2026)

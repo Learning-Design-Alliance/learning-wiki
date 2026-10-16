@@ -30,7 +30,7 @@ sources:
 # In simulations, peer sensitivity (β) moderates how rapidly responsible AI-use norms emerge: strong peer sensitivity yields a sharp tipping-point transition, while weak peer sensitivity yields only gradual, marginal increases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 theoretical `r2`–`r3` · `q2`
+> **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` Under strong peer sensitivity (β = 0.5), responsible AI use rapidly becomes the dominant norm once a critical reflection threshold is reached. [→ Ndidi Bianca Ogbo 2026](#ndidi-bianca-ogbo-2026)

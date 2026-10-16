@@ -30,7 +30,7 @@ sources:
 # A within-subjects pilot with 27 professional software engineers found statistically significant self-reported self-efficacy gains across all 10 assessed skill areas after completing the cc-self-train curriculum
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r?` · `q2` · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r?` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` All 10 self-efficacy items showed statistically significant pre/post gains (p <0.001) with large effect sizes (Cohen's d range: 0.89–2.79) in a within-subjects pilot with 27 participants. [→ Zain Naboulsi 2026](#zain-naboulsi-2026)

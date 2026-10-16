@@ -30,7 +30,7 @@ sources:
 # Intensive three-year professional development changed Leader Teachers' practice dramatically, but peer diffusion of reform was uneven
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r3` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Leader Teachers receiving nearly 500 hours of professional development over three years changed their practice dramatically and engaged students in inquiry regularly, though practice stabilized after three years. [→ Corcoran 2003](#corcoran-2003)

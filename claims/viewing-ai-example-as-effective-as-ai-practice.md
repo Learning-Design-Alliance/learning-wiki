@@ -30,7 +30,7 @@ sources:
 # Merely viewing an AI-generated writing example improved writing skill as much as actively practicing with the AI tool, with benefits persisting one day later
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r3` · `q4` · `i0` negligible
+> **Evidence** · 1 study (2 entries) · causal `r3` · `q4` · `i0` negligible
 
 ## Subclaims
 `q4 i0` Participants who viewed an AI-generated example without editing it improved as much as participants who practiced with the AI tool (d=.03, p=.883). [→ Benjamin Lira 2025](#benjamin-lira-2025)

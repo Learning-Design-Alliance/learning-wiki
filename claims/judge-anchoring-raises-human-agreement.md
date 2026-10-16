@@ -30,7 +30,7 @@ sources:
 # Anchored judge prompts restore score discrimination and raise the reward's agreement with independent human ratings (Spearman ρ 0.672→0.741)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2`–`r3` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` On the quality-judges-only configuration over 128 rated pages, the current prompts raise Pearson r from 0.609 to 0.715 and Spearman ρ from 0.672 to 0.741; the full pipeline raises ρ further to 0.749. [→ CogEvol Team 2026](#cogevol-team-2026)

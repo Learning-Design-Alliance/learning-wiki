@@ -30,7 +30,7 @@ sources:
 # Drawings produced with AIfred are ranked best by independent art and design professors in 33 of 36 cases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` AIfred drawings were ranked 1st in 33 of 36 cases (92%) and never 3rd, while baseline drawings were never ranked 1st and ChatGPT drawings were ranked 1st in only 3 cases. [→ Gregorio Orlando 2026](#gregorio-orlando-2026)

@@ -38,7 +38,7 @@ sources:
 # LittleLearner's capabilities tightly track its controlled exposure: strong on in-scope tasks, degrading beyond the K-5 boundary
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (3 entries) · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (3 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On Jeopardy science questions split by NGSS grade scope, LittleLearner shows a sudden drop in factual knowledge beyond its exposure horizon while UNFILTERED performs comparably across both bins. [→ Fanfei Li 2026](#fanfei-li-2026)

@@ -108,6 +108,10 @@ Mentoring and coaching are effective because they attach support to the learner�
 - [Mentoring experiences did not differ statistically significantly across districts with different poverty, achievement, or rurality levels](../claims/mentoring-did-not-vary-by-district-characteristics.md) [~W]
 - [Colleagues, not coaches, were teachers' main source of technology support, and over a third of post-survey respondents reported no support](../claims/pr-colleagues-main-support-coaches-rare.md) [-W]
 
+## The evidence by question
+- *Does mentoring and induction support for new teachers keep them in teaching?* [Mentoring strongly influences new teachers' decisions to stay in or leave teaching (review attribution)](../claims/mentoring-influences-new-teacher-retention.md) [+M]
+- *Does coaching teachers on their classroom practice change their observed instruction?* [Teacher coaching programs improve teachers' instructional practice by a pooled 0.49 SD across 43 causal studies](../claims/coaching-pooled-instruction-effect-0-49-sd.md) [+S]
+
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — coaching often operates through contingent support and gradual release.
 - [Communities of Practice](communities-of-practice.md) — mentoring frequently helps learners participate more fully in a practice community.
