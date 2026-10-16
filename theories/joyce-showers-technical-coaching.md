@@ -43,6 +43,11 @@ The paper analyzes Joyce and Showers' model, which borrows coaching from athleti
 - [Teacher coaching raises student achievement on standardized tests by a pooled 0.18 SD across 31 causal studies](../claims/coaching-pooled-achievement-effect-0-18-sd.md) [+M] — attached 2026-10-13 from Kraft et al. (2018), which proposed "Theory of action for teacher coaching: individualized observation-and-feedback cycles translate teacher knowledge into classroom practice and student achievement"; tests this page's relationship.
 - [Coaching effects on instruction and achievement are positively correlated, but large instructional improvements are needed for modest achievement gains](../claims/instruction-achievement-weak-link-coaching.md) [+M] — attached 2026-10-13 from Kraft et al. (2018), which proposed "Theory of action for teacher coaching: individualized observation-and-feedback cycles translate teacher knowledge into classroom practice and student achievement"; tests this page's relationship.
 
+## The evidence by question
+
+- *Does adding ongoing coaching or colleague collaboration to in-service professional development change teachers' classroom practice and their students' achievement?* [Teacher coaching programs improve teachers' instructional practice by a pooled 0.49 SD across 43 causal studies](../claims/coaching-pooled-instruction-effect-0-49-sd.md) [+S]
+- *Which features of a coaching programme go with larger effects: what it is paired with, its dose, its scale, its target or its mode?* [Pairing coaching with group trainings is associated with larger effects on instruction and achievement; instructional materials with larger, and video libraries with smaller, effects on instruction](../claims/coaching-complementary-elements-moderators.md) [+M]
+
 ## Related Theories
 - [Schon Reflective Coaching Dialogue](schon-reflective-coaching-dialogue.md)
 

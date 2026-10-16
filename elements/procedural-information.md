@@ -67,6 +67,12 @@ Procedural information reduces the working-memory burden of executing routine ta
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - 
 
+## The evidence by question
+
+- *Do novices learn more from studying worked examples than from solving the same problems unaided?* [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]
+- *For whom: how does the benefit change with prior knowledge?* [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~S]
+- *Should support be withdrawn, and in what order?* [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]
+
 ## Related Elements
 - [Worked Examples](worked-examples.md) — procedural information instantiated in a fully worked demonstration
 - [Practice](practice.md) — the application context in which guided steps become fluent, automated routines

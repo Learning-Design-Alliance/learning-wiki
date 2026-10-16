@@ -58,6 +58,9 @@ Structured roles counteract the well-documented failure modes of unstructured gr
 - [Role rotation created opportunities for perspective-taking and collaborative accountability, but also produced difficulty adapting to unfamiliar roles and uneven participation](../claims/role-rotation-perspective-taking-and-challenges.md) [~M]
 - [Role design facilitates transitions among higher-order collaborative behaviors in human-GAI collaboration](../claims/role-design-facilitates-higher-order-behavior-transitions.md) [+W]
 
+## The evidence by question
+- *Which structure matters: group rewards tied to each member's learning, assigned roles, or interdependence of any kind?* [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+M]
+
 ## Related Elements
 - [Assigned Positions](assigned-positions.md) — the more general mechanism of assigning seats or functions within group work
 - [Collaboration](collaboration.md) — the broader element that differentiated roles structure

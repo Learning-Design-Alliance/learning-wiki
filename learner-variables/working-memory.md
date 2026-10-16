@@ -72,6 +72,11 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Students using ChatGPT 3.5 experience lower extraneous cognitive load than students using Google during a web research task](../claims/llm-search-lower-extraneous-cognitive-load.md) [+M] — instruction changes it
 - [Students using ChatGPT 3.5 experience lower intrinsic cognitive load than students using Google during a web research task](../claims/llm-search-lower-intrinsic-cognitive-load.md) [+M] — instruction changes it
 
+## The evidence by question
+
+- *Do learners with lower working memory capacity gain more, or less, from retrieval practice, interleaving and other desirable difficulties?* [Studies disagree on whether low or high working memory learners benefit more from retrieval practice, and several find no relationship](../claims/relation-between-working-memory-and-retrieval-practice-benefit-is-inconsistent.md) [~M]
+- *Can training or practice raise working memory itself, and by how much?* [CCT yields small significant gains in nonverbal memory, working memory, and visuospatial skills, but only weak evidence for verbal memory](../claims/cct-domain-gains-nonverbal-wm-visuospatial-verbal-weak.md) [+M]
+
 ## Related Learner Variables
 - Prior knowledge — supplies the schemas that raise effective capacity; the two are inseparable in practice.
 - Attention — a different bottleneck often mistaken for this one: attention is what reaches the store, capacity is what it holds.

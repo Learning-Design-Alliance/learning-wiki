@@ -58,6 +58,12 @@ Application is where learning consolidates: retrieving and using knowledge in va
 - [High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets](../claims/students-report-hands-on-learning-most-effective.md) [+W]
 - [A persistent theory-practice gap: students may develop conceptual AI understanding but lack opportunities to apply it in authentic contexts](../claims/ail-theory-practice-gap-he-programs.md) [-W]
 
+## The evidence by question
+
+- *Does making the assessed task closer to real practice help learners carry the capability into that practice?* [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](../claims/contextualized-teaching-facilitates-transfer.md) [+W]
+- *How much guidance do novices need inside a problem-centred design?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+S]
+- *Does learning across varied contexts or varied tasks of a type, rather than repeating one, produce transfer to new cases?* [Encoding variability across varied example contexts produces decontextualization supporting transfer (review reports DiVesta and Peverly)](../claims/encoding-variability-decontextualization-transfer.md) [+M]
+
 ## Related Elements
 - [Hands-on Learning](hands-on-learning.md) — the physical-manipulation form of application
 - [Problem-Based Learning](problem-based-learning.md) — organizes an entire curriculum around application problems

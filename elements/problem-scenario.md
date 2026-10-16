@@ -71,6 +71,10 @@ Problem scenarios support learning by giving knowledge a purpose and a context o
 - [LLMs help bridge the gap between theoretical curricula and real-world skills by creating simulated scenarios, cases and problem contexts that are hard to reproduce in traditional classrooms](../claims/llm-simulations-bridge-theory-practice-gap.md) [+W]
 - [A reasoning-oriented LLM outperformed a standard LLM on scenario quality and feasibility of generated design problems, with no differences on alignment, cognitive complexity, or clarity](../claims/reasoning-llm-outperforms-standard-on-dp-quality.md) [+W]
 
+## The evidence by question
+- *For which outcomes: basic knowledge, application and transfer, or professional skills?* [Problem-based learning shows null or negative effects on basic knowledge acquisition but positive effects on conceptual understanding and transfer relative to direct instruction](../claims/pbl-null-basic-knowledge-positive-transfer.md) [~M]
+- *How much guidance do novices need inside a problem-centred design?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [~S]
+
 ## Related Elements
 - [Case Study](case-study.md) — the retrospective sibling; cases show how a situation resolved, while problem scenarios ask learners to resolve it themselves
 - [Coaching](coaching.md) — the feedback mechanism that keeps scenario exploration productive

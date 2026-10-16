@@ -57,6 +57,12 @@ Eliciting thinking converts passive reception into generative processing; verbal
 - [Intervention families used the talk moves asks-a-question and checks-for-understanding more frequently than comparison families, especially after viewing](../claims/app-promotes-question-and-check-talk-moves.md) [+W]
 - [A 1970 teacher self-analysis programme asserts, without data, that teacher responses including verbal rewards can close off pupil thinking](../claims/teacher-responses-can-close-off-pupil-thinking.md) [-W]
 
+## The evidence by question
+
+- *Does prompting learners to explain what they study or solve improve their understanding, and on which outcomes?* [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
+- *Do teacher questions that press learners past a first answer, for explanation, justification or higher-level thinking, improve learning?* [Questioning Strategies Improve Learning](../claims/questioning-strategies-improve-learning.md) [+S]
+- *Does adjusting instruction to each response help, and what do teachers do with the evidence?* [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
+
 ## Related Elements
 
 - [Self-Explanation](self-explanation.md) — the individual, prompted form of eliciting one's own thinking

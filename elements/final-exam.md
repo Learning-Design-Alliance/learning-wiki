@@ -55,6 +55,10 @@ Cumulative final exams leverage the testing effect: retrieving knowledge from ea
 - [Summative examinations have a dual function: measuring achieved learning while also shaping and supporting learning through engagement with tasks](../claims/summative-assessment-dual-function-measure-and-support-learning.md) [+W]
 - [Cheat sheet type was not significantly associated with exam performance on either exam, though a moderate non-significant trend favoured self-created sheets on the final](../claims/cheatsheet-type-no-significant-performance-difference.md) [~W]
 
+## The evidence by question
+- *Does anxiety about the end-point test lower the scores it records, and do the test's conditions change that?* [Test anxiety is negatively related to exam performance, and proctoring does not moderate this relation](../claims/test-anxiety-negative-exam-performance.md) [-M]
+- *Should learners take a cheat sheet or notes into the final, and does making their own sheet help?* [Cheat sheet type was not significantly associated with exam performance on either exam, though a moderate non-significant trend favoured self-created sheets on the final](../claims/cheatsheet-type-no-significant-performance-difference.md) [~W]
+
 ## Related Elements
 - [Summative Assessment](summative-assessment.md) — the assessment category the final exam instantiates
 - [Formative Assessment](formative-assessment.md) — the necessary complement; final exams work best when learners arrive having received ongoing feedback

@@ -46,6 +46,11 @@ People also perceive relationships between variables that don't actually exist a
 - [Qualitative educator interviews corroborate and explain the quantitative path findings](../claims/educator-interviews-explain-ai-learning-mechanisms.md) [+W]
 - [At baseline, mechanics-specific AI use was inversely related to course performance, but the direction of causation is indistinguishable](../claims/baseline-mechanics-ai-use-inversely-related-performance.md) [+W]
 
+## The evidence by question
+
+- *Can a correlational or other non-randomised result be read as evidence that a design choice causes the outcome?* [The RCT is considered the gold standard of research evidence because randomization ensures only the intervention could cause treatment-control outcome differences](../claims/rct-gold-standard-randomization-logic.md) [+M]
+- *Does a study's design (between- or within-subject, laboratory or field, more or less rigorous) change the size of the effect it reports?* [Variation in meta-analytic effect sizes stems from synthesists' methodological choices (inclusion criteria, data extraction, formulas, outlier handling) and from study quality](../claims/meta-analysis-variation-from-methodological-choices.md) [+W]
+
 ## Related Theories
 - [Designing a Valid Experiment](../methods/designing-a-valid-experiment.md) — the design that actually supports causal conclusions, and the mechanics of running one properly
 - [Developmental Research Designs](developmental-research-designs.md) — a further, orthogonal set of design choices specific to studying change over time

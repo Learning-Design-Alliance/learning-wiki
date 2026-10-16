@@ -44,6 +44,9 @@ Proposed by Karpicke et al. (2014b), this account rests on four assumptions: peo
 - [Retrieval Practice Disrupts Within List Order Reconstruction](../claims/retrieval-practice-disrupts-within-list-order-reconstruction.md) [~W]
 - [In Experiment 1, the type-of-recall by varied-constant by distribution interaction was significant, with a massed-distributed effect only in constant cued recall and a distribution effect in both free-recall conditions](../claims/cued-free-recall-interaction-varied-constant-distribution.md) [+M] — attached 2026-10-15 from Glenberg (1979), which proposed "Component-levels theory of spacing effects: three informational components plus encoding and retrieval principles".
 
+## The evidence by question
+- *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]
+
 ## Related Theories
 - 
 
