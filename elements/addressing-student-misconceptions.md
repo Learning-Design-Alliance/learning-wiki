@@ -52,6 +52,9 @@ Second, and just as important: **treat students' existing beliefs with respect**
 - [Students recognize more belief-consistent science facts than belief-inconsistent facts, an effect appearing on recognition but not recall tests](../claims/belief-consistent-facts-better-recognized.md) [~W]
 - [LLM misconception analysis that ties student errors to instructional content reveals insights not apparent from performance data alone](../claims/llm-misconception-analysis-reveals-insights-beyond-performance-data.md) [+W]
 
+## The evidence by question
+- *Does instruction that names and confronts a science misconception change learners' conceptions more than standard exposition?* [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](../claims/misconceptions-interfere-with-new-learning.md) [+S]
+
 ## Related Elements
 - [Prior Knowledge Activation](prior-knowledge-activation.md)
 - [Concept Mapping](concept-mapping.md)

@@ -62,6 +62,11 @@ Assessment is the structured collection of evidence about learner understanding,
 - [Self-reported perceived quality is largely decoupled from quiz performance in AI-generated educational interactive fiction](../claims/if-quality-ratings-decoupled-from-quiz-performance.md) [~W]
 - [Case-study states rely on locally developed performance assessments created and piloted by teachers, with collaborative scoring](../claims/locally-developed-performance-assessments-teacher-collaborative-scoring.md) [+W]
 
+## The evidence by question
+- *Does using assessment evidence during instruction raise achievement compared with the usual teaching?* [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) [+S]
+- *Should learners assess each other's work, and does it need a rubric or script?* [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](../claims/peer-assessment-improves-performance.md) [+M]
+- *Should learners assess their own work, and can their self-ratings be trusted?* [Self Assessment Improves Self Regulated Learning](../claims/self-assessment-improves-self-regulated-learning.md) [+M]
+
 ## Related Elements
 - [Formative Assessment](formative-assessment.md)
 - [Quizzes](quizzes.md)
