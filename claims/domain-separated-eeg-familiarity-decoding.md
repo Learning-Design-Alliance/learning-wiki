@@ -3,7 +3,7 @@ type: claim
 title: Domain-separated EEG classifiers decode familiarity within each stimulus category, with peak LOGO Mean Recall of 0.8992 for faces-only (HistGradient Boosting) and 0.8670 for equations-only (CNN)
 description: Domain-separated EEG classifiers decode familiarity within each stimulus category, with peak LOGO Mean Recall of 0.8992 for faces-only (HistGradient Boosting) and 0.8670 for equations-only (CNN)
 id: domain-separated-eeg-familiarity-decoding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: The 10 Elements of Black Student Excellence emerged from qualitative analysis of listening sessions with more than 314 Black students, families, teachers, and community members
 description: The 10 Elements of Black Student Excellence emerged from qualitative analysis of listening sessions with more than 314 Black students, families, teachers, and community members
 id: ten-elements-from-314-listening-sessions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

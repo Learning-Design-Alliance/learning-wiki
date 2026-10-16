@@ -3,7 +3,7 @@ type: strategy
 id: early-session-timing-signals-target-adaptive-support
 title: Use early-session timing signals, interpreted relative to proficiency, to identify students needing adaptive support
 description: The article recommends that timing-based signals be used to identify early risk and guide context-sensitive interventions rather than as global indicators of effort quality.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

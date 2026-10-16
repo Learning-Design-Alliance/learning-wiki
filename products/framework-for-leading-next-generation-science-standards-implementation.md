@@ -4,7 +4,7 @@ id: framework-for-leading-next-generation-science-standards-implementation
 title: Framework for Leading Next Generation Science Standards Implementation
 description: A leadership framework developed by Stiles et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

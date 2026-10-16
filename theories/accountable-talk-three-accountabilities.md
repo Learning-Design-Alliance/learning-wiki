@@ -2,7 +2,7 @@
 type: theory
 title: "Accountable talk: three accountabilities — to knowledge, reasoning, and community"
 description: The primer describes accountable talk (attributed to Resnick et al., 2018) as a concept emphasizing that productive dialogue holds students accountable to knowledge, reasoning, and community.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

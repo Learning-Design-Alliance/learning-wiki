@@ -3,7 +3,7 @@ type: claim
 title: MBP-KT yields significantly greater improvements for learners with fewer interaction records than for learners with more records
 description: MBP-KT yields significantly greater improvements for learners with fewer interaction records than for learners with more records
 id: mbp-kt-greater-gains-sparse-learners
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

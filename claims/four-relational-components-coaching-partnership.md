@@ -3,7 +3,7 @@ type: claim
 title: Four relational components—positive feedback, rapport, mutual respect, and reciprocal trust—form the relational framework of coaching
 description: Four relational components—positive feedback, rapport, mutual respect, and reciprocal trust—form the relational framework of coaching
 id: four-relational-components-coaching-partnership
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

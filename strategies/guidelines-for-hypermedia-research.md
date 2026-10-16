@@ -3,7 +3,7 @@ type: strategy
 id: guidelines-for-hypermedia-research
 title: Derive research guidelines for hypermedia learning from reviewed findings and the sensible-use claim
 description: "The article's forward-looking recommendation is that future research on hypermedia learning be guided by the findings it reviews and by the corresponding claim that hypermedia may be effective only if used in a sensib..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

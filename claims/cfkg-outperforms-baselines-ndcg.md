@@ -3,7 +3,7 @@ type: claim
 title: The CF–KG hybrid model achieves higher offline NDCG than all eight baselines on the MARS English subset, reaching about 0.625 at epoch 40
 description: The CF–KG hybrid model achieves higher offline NDCG than all eight baselines on the MARS English subset, reaching about 0.625 at epoch 40
 id: cfkg-outperforms-baselines-ndcg
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

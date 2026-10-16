@@ -3,7 +3,7 @@ type: claim
 title: Schools where principals reported fewer technology barriers had higher student access and use and higher teacher access, use, assignments, and professional development
 description: Schools where principals reported fewer technology barriers had higher student access and use and higher teacher access, use, assignments, and professional development
 id: principal-barrier-reports-track-teacher-student-technology
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

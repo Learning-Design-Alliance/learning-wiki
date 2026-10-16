@@ -3,7 +3,7 @@ type: research-method
 id: three-component-decomposition-of-teacher-grade-effects
 title: Three-component decomposition of teacher grade effects
 description: "The article conceptualizes teacher influence on student grades in three ways: total effects on ninth-grade course grades, persistent effects on students' grades in the same subject the following fall, and grading mismatch between the grades given and students' subsequent performance."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

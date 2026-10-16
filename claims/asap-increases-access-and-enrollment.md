@@ -3,7 +3,7 @@ type: claim
 title: ASAP likely increases college access and enrollment rates
 description: ASAP likely increases college access and enrollment rates
 id: asap-increases-access-and-enrollment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

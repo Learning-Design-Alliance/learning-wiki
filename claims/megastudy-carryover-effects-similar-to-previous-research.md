@@ -3,7 +3,7 @@ type: claim
 title: Among interventions that increased exercise during the intervention, carry-over effects were proportionally similar to previous research
 description: Among interventions that increased exercise during the intervention, carry-over effects were proportionally similar to previous research
 id: megastudy-carryover-effects-similar-to-previous-research
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

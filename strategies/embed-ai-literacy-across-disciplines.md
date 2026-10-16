@@ -3,7 +3,7 @@ type: strategy
 id: embed-ai-literacy-across-disciplines
 title: Embed AI literacy across disciplines by identifying intersections with existing content and using case studies, interdisciplinary modules, and collaborative projects
 description: "For curriculum design, the chapter recommends a transdisciplinary approach in which institutions identify \"points of intersection between AI and existing disciplinary content and developing strategies to seamlessly in..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -54,6 +54,7 @@ For curriculum design, the chapter recommends a transdisciplinary approach in wh
 - [Cultivate learners' critical AI literacy and integrity-focused group practices for GenAI-supported group work](critical-ai-literacy-integrity-focused-group-practices.md)
 - [Embed AIL across disciplines by adding modules to existing Digital Literacy courses and offering interdisciplinary AI ethics and legal seminars](embed-ail-modules-and-interdisciplinary-seminars.md)
 - [Embed subject-specific web credibility modules into existing courses rather than creating standalone courses](embed-subject-specific-credibility-modules.md)
+- [Integrate AI literacy into disciplinary core subjects rather than adding a new AI subject](integrate-ai-literacy-into-core-subjects.md)
 
 ## Examples
 -

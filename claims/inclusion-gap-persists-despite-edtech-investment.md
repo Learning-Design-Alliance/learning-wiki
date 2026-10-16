@@ -3,7 +3,7 @@ type: claim
 title: Global inclusion gaps persist despite large EdTech investment
 description: Global inclusion gaps persist despite large EdTech investment
 id: inclusion-gap-persists-despite-edtech-investment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

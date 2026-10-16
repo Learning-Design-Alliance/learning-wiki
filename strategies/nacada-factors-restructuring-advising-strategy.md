@@ -3,7 +3,7 @@ type: strategy
 id: nacada-factors-restructuring-advising-strategy
 title: "Use NACADA's structuring factors to situate advising as a core institutional function"
 description: "The guide recommends situating advising as a core function aligned with the institution's mission and goals."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

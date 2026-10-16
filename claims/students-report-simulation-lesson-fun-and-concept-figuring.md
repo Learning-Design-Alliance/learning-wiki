@@ -3,7 +3,7 @@ type: claim
 title: Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists
 description: Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists
 id: students-report-simulation-lesson-fun-and-concept-figuring
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

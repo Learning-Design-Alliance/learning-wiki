@@ -3,7 +3,7 @@ type: claim
 title: The WWC rates ALAS as having potentially positive effects on staying in school and progressing in school
 description: The WWC rates ALAS as having potentially positive effects on staying in school and progressing in school
 id: alas-wwc-potentially-positive-rating
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

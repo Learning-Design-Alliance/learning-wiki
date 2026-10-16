@@ -3,7 +3,7 @@ type: element
 id: pennsylvania-pilot-value-added-models
 title: Value-added models developed for estimating Pennsylvania teacher and principal contributions to student achievement growth
 description: The report describes value-added models developed to estimate the contributions of Pennsylvania teachers and principals toward the achievement growth of their students.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "LLM accuracy on the CDPK pedagogy benchmark ranges from 28% to 89%, with closed-weight reasoning models dominating the top of the leaderboard"
 description: "LLM accuracy on the CDPK pedagogy benchmark ranges from 28% to 89%, with closed-weight reasoning models dominating the top of the leaderboard"
 id: cdpk-accuracy-range-28-89-closed-models-lead
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

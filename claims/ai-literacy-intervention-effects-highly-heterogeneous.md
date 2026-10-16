@@ -3,7 +3,7 @@ type: claim
 title: "Effects of AI literacy interventions vary considerably across contexts, with most variance between studies (71.361%) and a wide prediction interval"
 description: "Effects of AI literacy interventions vary considerably across contexts, with most variance between studies (71.361%) and a wide prediction interval"
 id: ai-literacy-intervention-effects-highly-heterogeneous
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

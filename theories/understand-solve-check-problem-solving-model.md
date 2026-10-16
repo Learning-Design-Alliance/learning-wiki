@@ -2,7 +2,7 @@
 type: theory
 title: Understand-solve-check model of examinee problem solving
 description: "A general cognitive model of performance on figural response items, adapted from Lewis and Polson's theory of computer interface use and grounded in verbal protocols from one pilot subject."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -48,4 +48,4 @@ A general cognitive model of performance on figural response items, adapted from
 - [Base diagnostic item attributes on an independently constructed cognitive model of problem solving](../principles/criterion-and-norm-referenced-testing.md)
 
 ## Key Sources
-- Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652
+- Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652. [doi:10.21236/ada273789](https://doi.org/10.21236/ada273789)

@@ -3,7 +3,7 @@ type: claim
 title: The study assessed rating stability for 2,424 principals and predictive validity for 123 principals using Pennsylvania statewide data
 description: The study assessed rating stability for 2,424 principals and predictive validity for 123 principals using Pennsylvania statewide data
 id: principal-measure-stability-2424-predictive-123-principals
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

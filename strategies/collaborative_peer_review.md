@@ -76,7 +76,7 @@ Peer review works because giving feedback forces learners to articulate quality 
 - [Formative Assessment](../patterns/formative-assessment.md) — peer feedback is formative assessment distributed among learners
 
 ## Examples
-- **Calibrated Peer Review (CPR)** (https://cpr.molsci.ucla.edu) — a web platform where students first calibrate against expert-scored samples, then review peers' writing; widely used in large STEM writing assignments.
+- **[Calibrated Peer Review](calibrated_peer_review.md) (CPR)** (https://cpr.molsci.ucla.edu) — a web platform where students first calibrate against expert-scored samples, then review peers' writing; widely used in large STEM writing assignments.
 - **Peergrade / PeerStudio-style LMS workshops** — anonymous distribution of drafts with rubric-anchored comment fields; each student reviews 2–4 peers.
 - **Elementary ELL writing workshop** — students use a picture-supported checklist and sentence frames ("I like how you…", "Can you add more about…") to review a partner's story, then revise with a word bank.
 

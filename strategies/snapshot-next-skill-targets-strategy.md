@@ -3,7 +3,7 @@ type: strategy
 id: snapshot-next-skill-targets-strategy
 title: Use snapshot mastery patterns to identify plausible next learning targets when longitudinal logs are unavailable
 description: The article recommends that in settings where only snapshot assessments are available, estimating the next likely skill from CDM-derived mastery patterns can guide instruction.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

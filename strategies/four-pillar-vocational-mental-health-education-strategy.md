@@ -3,7 +3,7 @@ type: strategy
 id: four-pillar-vocational-mental-health-education-strategy
 title: Strengthen vocational mental health education through literacy, ecosystem, teacher development, and crisis networks
 description: "The article recommends a four-part strategy for secondary vocational schools: raising mental health literacy, improving the psychological growth environment, developing teachers' capacities, and building crisis preven..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

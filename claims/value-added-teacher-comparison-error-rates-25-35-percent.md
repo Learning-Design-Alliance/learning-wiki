@@ -3,7 +3,7 @@ type: claim
 title: "Error rates for comparing a teacher's performance to the average are about 25 percent with three years of data and 35 percent with one year of data"
 description: "Error rates for comparing a teacher's performance to the average are about 25 percent with three years of data and 35 percent with one year of data"
 id: value-added-teacher-comparison-error-rates-25-35-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

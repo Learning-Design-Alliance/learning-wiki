@@ -3,7 +3,7 @@ type: claim
 title: In the 2013 RCT, subgroup findings for female students in grades 1–2 on the STAR Early Literacy Assessment were positive but not statistically significant, yet large enough to be considered substantively important
 description: In the 2013 RCT, subgroup findings for female students in grades 1–2 on the STAR Early Literacy Assessment were positive but not statistically significant, yet large enough to be considered substantively important
 id: lli-star-female-subgroup-positive-nonsignificant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: strategy
 id: equity-safeguards-performance-assessment-implementation
 title: Safeguard equity in performance assessment systems through non-negotiables, clear rubrics, normed scoring, multiple pathways, and inclusive design
 description: "The report describes concrete equity strategies states used: creating \"non-negotiables\" about expectations and quality to counter perceptions that performance assessments are less rigorous; providing clear rubrics to..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

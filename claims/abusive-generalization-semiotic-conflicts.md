@@ -3,7 +3,7 @@ type: claim
 title: Abusive generalization processes in the intuitive presentation are a source of potential semiotic conflicts
 description: Abusive generalization processes in the intuitive presentation are a source of potential semiotic conflicts
 id: abusive-generalization-semiotic-conflicts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

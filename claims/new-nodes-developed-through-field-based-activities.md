@@ -3,7 +3,7 @@ type: claim
 title: New network nodes were developed through field-based activities such as regional councils and faculty work groups
 description: New network nodes were developed through field-based activities such as regional councils and faculty work groups
 id: new-nodes-developed-through-field-based-activities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

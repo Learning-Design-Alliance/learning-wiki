@@ -3,7 +3,7 @@ type: claim
 title: No significant differences in posttest rule accuracy across scaffolding conditions
 description: No significant differences in posttest rule accuracy across scaffolding conditions
 id: no-rule-accuracy-difference-across-conditions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -2,7 +2,7 @@
 type: theory
 title: "Gagne's nine Events of Instruction as a lesson-design schema"
 description: "The digest presents Robert Gagne's Events of Instruction as the dominant framework through the end of the twentieth century."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

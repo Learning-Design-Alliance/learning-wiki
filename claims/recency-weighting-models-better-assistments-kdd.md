@@ -3,7 +3,7 @@ type: claim
 title: Models able to weight performance by recency fit better on the Assistments and KDD datasets, without explicit memory-decay terms being necessary
 description: Models able to weight performance by recency fit better on the Assistments and KDD datasets, without explicit memory-decay terms being necessary
 id: recency-weighting-models-better-assistments-kdd
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

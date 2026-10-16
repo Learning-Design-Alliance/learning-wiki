@@ -3,7 +3,7 @@ type: claim
 title: Repeated measures ANOVA shows significant time-of-testing effect and significant time-by-group interaction on word-problem scores
 description: Repeated measures ANOVA shows significant time-of-testing effect and significant time-by-group interaction on word-problem scores
 id: time-by-group-interaction-problem-solving-plan
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

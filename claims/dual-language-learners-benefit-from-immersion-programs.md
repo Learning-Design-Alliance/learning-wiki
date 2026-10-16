@@ -3,7 +3,7 @@ type: claim
 title: Dual language learners especially benefit from high-quality early care and dual language immersion programs, and multilingualism is associated with cognitive, linguistic, social, and cultural strengths
 description: Dual language learners especially benefit from high-quality early care and dual language immersion programs, and multilingualism is associated with cognitive, linguistic, social, and cultural strengths
 id: dual-language-learners-benefit-from-immersion-programs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

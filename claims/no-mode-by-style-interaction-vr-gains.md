@@ -3,7 +3,7 @@ type: claim
 title: No significant interaction between learning mode and learning style on gain scores, while the learning-mode main effect was significant
 description: No significant interaction between learning mode and learning style on gain scores, while the learning-mode main effect was significant
 id: no-mode-by-style-interaction-vr-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -2,7 +2,7 @@
 type: theory
 title: Basic Systems Model for staff development planning with six sequential decision points
 description: "The workbook teaches a Basic Systems Model in which staff development planning proceeds through sequential decision points: Rationale, Objectives, Criterion Measures, Techniques and Strategies, Field Test, and Evaluat..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

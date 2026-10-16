@@ -3,7 +3,7 @@ type: claim
 title: Algorithmic curation on Twitter may amplify optimistic, technically sophisticated AI-in-education narratives while underrepresenting practical implementation concerns and non-technical stakeholders
 description: Algorithmic curation on Twitter may amplify optimistic, technically sophisticated AI-in-education narratives while underrepresenting practical implementation concerns and non-technical stakeholders
 id: algorithmic-curation-shapes-aied-discourse-visibility
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

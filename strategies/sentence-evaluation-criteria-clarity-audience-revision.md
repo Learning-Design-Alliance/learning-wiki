@@ -3,7 +3,7 @@ type: strategy
 id: sentence-evaluation-criteria-clarity-audience-revision
 title: Provide sentence evaluation criteria (clarity, intended audience) and model revision against them
 description: "The guide recommends giving students criteria to assess sentences based on meaning, style, and grammar, with an example checklist asking \"Does this make sense?\", \"Is it easy to read?\", and \"Is it appropriate for the a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: design
 id: three-classroom-lever-configurations
 title: "Coherent whole-course lever configurations: think-first, direct-instruction, and Harkness classrooms"
 description: "The paper presents three full configurations of all seven levers drawn from classrooms the author has taught: a think-first classroom aiming at curiosity, perseverance, collaboration, and ownership; a direct-instructi..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

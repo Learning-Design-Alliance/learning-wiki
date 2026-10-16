@@ -3,7 +3,7 @@ type: claim
 title: Concreteness fading provides embodied perceptual and physical experiences that can ground abstract thinking
 description: Concreteness fading provides embodied perceptual and physical experiences that can ground abstract thinking
 id: fading-provides-embodied-grounding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

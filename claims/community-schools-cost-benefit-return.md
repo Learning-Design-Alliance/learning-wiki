@@ -3,7 +3,7 @@ type: claim
 title: Cost-benefit research suggests returns of up to $15 in social value and economic benefits per dollar spent on school-based wraparound services
 description: Cost-benefit research suggests returns of up to $15 in social value and economic benefits per dollar spent on school-based wraparound services
 id: community-schools-cost-benefit-return
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

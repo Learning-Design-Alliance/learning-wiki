@@ -3,7 +3,7 @@ type: claim
 title: Chicago graduates who enrolled in the most popular colleges had lower adjusted graduation rates than similar Chicago students who enrolled elsewhere
 description: Chicago graduates who enrolled in the most popular colleges had lower adjusted graduation rates than similar Chicago students who enrolled elsewhere
 id: popular-colleges-lower-graduation-rates-chicago-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

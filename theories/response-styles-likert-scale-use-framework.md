@@ -2,7 +2,7 @@
 type: theory
 title: Response styles as construct-irrelevant variation in Likert scale use
 description: The article frames response styles as differences in how respondents use the categories of a Likert scale despite having the same true score on the construct of interest.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

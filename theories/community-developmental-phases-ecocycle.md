@@ -2,7 +2,7 @@
 type: theory
 title: Community developmental phases in place-based systems change
 description: "The Community Ecocycle frames place-based systems change as moving through \"dynamic, natural, and necessary developmental phases through which communities move.\" Rather than treating communities as static recipients o..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

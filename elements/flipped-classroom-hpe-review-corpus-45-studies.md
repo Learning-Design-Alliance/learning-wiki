@@ -3,7 +3,7 @@ type: element
 id: flipped-classroom-hpe-review-corpus-45-studies
 title: Evidence corpus of 45 flipped-classroom studies in undergraduate health professional education (8426 students)
 description: The review assembles a corpus of 45 studies involving 8426 undergraduate students in medicine, pharmacy, nursing and other health professional courses, comparing flipped classes with traditional classes.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

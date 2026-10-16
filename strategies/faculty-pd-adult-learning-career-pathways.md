@@ -3,7 +3,7 @@ type: strategy
 id: faculty-pd-adult-learning-career-pathways
 title: Provide faculty professional development in adult learning theory and pedagogy for career pathways instruction
 description: Because many CTE programs hire industry experts who lack teaching experience, the panel recommends pedagogical training covering practical tips for generating syllabi, delivering instruction, and creating assessments,...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

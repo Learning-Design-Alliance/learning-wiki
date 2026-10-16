@@ -3,7 +3,7 @@ type: claim
 title: Low-proficiency EFL undergraduates report feeling more competent in English tasks through ChatGPT-assisted writing feedback, conversational practice, and translation support
 description: Low-proficiency EFL undergraduates report feeling more competent in English tasks through ChatGPT-assisted writing feedback, conversational practice, and translation support
 id: chatgpt-competence-experience-efl-undergraduates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

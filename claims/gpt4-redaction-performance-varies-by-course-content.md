@@ -3,7 +3,7 @@ type: claim
 title: GPT-4 de-identification performance varies by course, with lower agreement in courses with longer posts and more qualitative discussion
 description: GPT-4 de-identification performance varies by course, with lower agreement in courses with longer posts and more qualitative discussion
 id: gpt4-redaction-performance-varies-by-course-content
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

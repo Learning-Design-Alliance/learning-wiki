@@ -3,7 +3,7 @@ type: claim
 title: Ninth-grade teachers vary substantially and systematically in the grades they give
 description: Ninth-grade teachers vary substantially and systematically in the grades they give
 id: teacher-total-grade-effects-vary-substantially
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

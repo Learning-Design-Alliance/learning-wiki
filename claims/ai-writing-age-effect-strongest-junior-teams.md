@@ -3,7 +3,7 @@ type: claim
 title: The negative association between AI-assisted writing and team age is strongest among the youngest teams
 description: The negative association between AI-assisted writing and team age is strongest among the youngest teams
 id: ai-writing-age-effect-strongest-junior-teams
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

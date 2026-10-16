@@ -4,7 +4,7 @@ id: residencyrl
 title: ResidencyRL
 description: ResidencyRL is an online multi-turn reinforcement-learning environment developed for training and evaluating clinical AI agents in simulated patient encounters using an LLM patient simulator, documentation API, and structured autorater.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

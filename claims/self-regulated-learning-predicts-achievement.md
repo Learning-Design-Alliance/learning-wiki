@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Self Regulated Learning Predicts Achievement
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25
@@ -98,3 +98,7 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - AI-SRL research predominantly focuses on higher education students, with minimal attention to primary education and educators — related
 - [In high-stakes homework settings, answer-first checking functions as a rational self-regulation strategy and diagnostic checkpoint rather than shortcutting](answer-first-checking-as-self-regulated-diagnostic-checkpoint.md) — a narrower finding that bears on this claim
 - [Adult learners expect AI to enhance autonomy through choices, flexible learning spaces, metacognitive awareness, and structured self-assessment](ai-enhances-adult-learner-autonomy.md) — a narrower finding that bears on this claim
+- [Self-regulated learning is associated with increased academic achievement and improved learning outcomes for students](srl-associated-with-achievement.md) — a broader claim this one bears on
+- [Most study, measurement, and intervention moderators did not explain significant variance in SRL intervention effect sizes](srl-intervention-moderators-most-nonsignificant.md) — related
+- [SRL interventions are effective in improving both SRL activity and achievement in higher education](srl-interventions-improve-activity-achievement.md) — a narrower finding that bears on this claim
+- [The SRL and SAL perspectives on student motivation and learning differ, and the article discusses those differences](srl-perspective-contrasts-with-sal-perspective.md) — related

@@ -4,7 +4,7 @@ id: openly-released-ttx-assessment-resources
 title: Openly released TTX assessment resources
 description: A publicly licensed bundle from V.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

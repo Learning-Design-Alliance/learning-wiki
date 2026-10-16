@@ -3,7 +3,7 @@ type: claim
 title: Teachers used student perception data to shift lesson design, modify norms, and target personalized intervention, but heavy workload inhibited data integration
 description: Teachers used student perception data to shift lesson design, modify norms, and target personalized intervention, but heavy workload inhibited data integration
 id: perception-data-use-and-workload-barrier
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

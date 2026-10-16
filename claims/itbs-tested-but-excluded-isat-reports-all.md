@@ -3,7 +3,7 @@ type: claim
 title: "ITBS and ISAT inclusion rules differ: ISAT reports scores for all test-takers, while about 20 percent of ITBS test-takers are excluded from public reporting"
 description: "ITBS and ISAT inclusion rules differ: ISAT reports scores for all test-takers, while about 20 percent of ITBS test-takers are excluded from public reporting"
 id: itbs-tested-but-excluded-isat-reports-all
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

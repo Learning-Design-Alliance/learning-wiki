@@ -3,7 +3,7 @@ type: strategy
 id: volunteer-faculty-recruitment-modeling-practice
 title: Volunteer-first faculty recruitment with modeling of good practice rather than top-down mandates
 description: "The report's tentative conclusions recommend recruiting faculty already committed to instructional quality and spreading adoption through their example."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: two-phase-create-edit-genai-studio-session
 title: Structure GenAI studio sessions as a two-phase create-then-edit design task linking open-ended ideation to context-sensitive refinement
 description: A session recipe in which students first create imagery from scratch with text prompts (Phase A), then edit provided CAD-based visualisations or photographs using reference-image and hybrid in-painting modes (Phase B)...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

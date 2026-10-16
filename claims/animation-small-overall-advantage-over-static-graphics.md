@@ -3,7 +3,7 @@ type: claim
 title: Animation produces a small overall learning advantage over static graphics in multimedia instruction
 description: Animation produces a small overall learning advantage over static graphics in multimedia instruction
 id: animation-small-overall-advantage-over-static-graphics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

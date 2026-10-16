@@ -3,7 +3,7 @@ type: claim
 title: Monetary stakes for accuracy act independently of AI availability on judgment suspension, with no significant AI × stakes interaction
 description: Monetary stakes for accuracy act independently of AI availability on judgment suspension, with no significant AI × stakes interaction
 id: stakes-independent-of-ai-on-suspension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

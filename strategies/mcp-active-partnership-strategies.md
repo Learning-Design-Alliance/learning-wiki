@@ -3,7 +3,7 @@ type: strategy
 id: mcp-active-partnership-strategies
 title: Health plans can actively partner with schools by directing networked providers to school-based activities, providing TA, placing care coordinators on campus, and funding prevention through grant-making
 description: "The brief outlines steps Medi-Cal managed care plans can take beyond SBHIP's end: direct or incentivize networked providers to support school-based activities, provide TA to in-network providers on integrating service..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

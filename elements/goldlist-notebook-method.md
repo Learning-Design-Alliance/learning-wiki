@@ -3,7 +3,7 @@ type: element
 id: goldlist-notebook-method
 title: GoldList Notebook Method (headlist plus three distillations)
 description: A pen-and-paper L2 vocabulary review method using a standard A4 notebook in place of flashcards or apps.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Experts from multiple world regions affirmed the need and value of academic integrity indicators but queried prospects for dissemination and adoption
 description: Experts from multiple world regions affirmed the need and value of academic integrity indicators but queried prospects for dissemination and adoption
 id: experts-affirm-indicator-value-query-adoption
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Effects of summer credit recovery on 4- and 5-year graduation rates for newcomer ELs were imprecisely estimated
 description: Effects of summer credit recovery on 4- and 5-year graduation rates for newcomer ELs were imprecisely estimated
 id: credit-recovery-graduation-effects-imprecise
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

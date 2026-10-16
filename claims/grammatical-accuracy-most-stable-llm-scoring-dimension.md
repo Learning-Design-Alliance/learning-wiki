@@ -3,7 +3,7 @@ type: claim
 title: Grammatical Accuracy is the most stable and objective scoring dimension for LLMs, while Task Response is the most challenging
 description: Grammatical Accuracy is the most stable and objective scoring dimension for LLMs, while Task Response is the most challenging
 id: grammatical-accuracy-most-stable-llm-scoring-dimension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

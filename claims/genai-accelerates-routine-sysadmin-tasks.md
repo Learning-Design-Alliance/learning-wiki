@@ -3,7 +3,7 @@ type: claim
 title: Sysadmins find GenAI most effective for accelerating routine tasks such as scripting, troubleshooting, and documentation
 description: Sysadmins find GenAI most effective for accelerating routine tasks such as scripting, troubleshooting, and documentation
 id: genai-accelerates-routine-sysadmin-tasks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -47,3 +47,4 @@ Interview finding from the 14-participant study: participants relied on GenAI to
 - [AI-assisted speed becomes a recalibrated performance baseline, making manual work feel slow and inadequate](genai-speed-recalibrates-performance-baseline.md) — related
 - Generative AI can help people finish tasks more quickly but does not accelerate learning itself — a broader claim this one bears on
 - [Synergy is more likely in simpler content generation tasks and when humans exceed AI performance](synergy-conditions-task-complexity-human-superiority.md) — related
+- [AI solutions can automate routine tasks but cannot yet handle the complex tasks of higher learning](ai-limited-to-automatable-tasks-in-higher-learning.md) — a broader claim this one bears on

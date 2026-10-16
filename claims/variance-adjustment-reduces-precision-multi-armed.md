@@ -3,7 +3,7 @@ type: claim
 title: Variance terms in multi-armed RCT estimators need slight adjustment under the finite-population framework, which can reduce precision
 description: Variance terms in multi-armed RCT estimators need slight adjustment under the finite-population framework, which can reduce precision
 id: variance-adjustment-reduces-precision-multi-armed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

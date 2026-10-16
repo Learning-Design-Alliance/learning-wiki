@@ -3,7 +3,7 @@ type: claim
 title: Purpose-trained single-pass generation completes a slide in a median of 17 seconds and an interactive page in 59 seconds over 220k production requests, and delivers artifacts at 15–22× lower per-artifact API cost than flagship models
 description: Purpose-trained single-pass generation completes a slide in a median of 17 seconds and an interactive page in 59 seconds over 220k production requests, and delivers artifacts at 15–22× lower per-artifact API cost than...
 id: cogevol-single-pass-latency-and-cost
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

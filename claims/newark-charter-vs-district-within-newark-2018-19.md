@@ -3,7 +3,7 @@ type: claim
 title: Newark charter school students outgrew similar Newark district school students in reading but not significantly in math in 2018-19
 description: Newark charter school students outgrew similar Newark district school students in reading but not significantly in math in 2018-19
 id: newark-charter-vs-district-within-newark-2018-19
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

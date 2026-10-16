@@ -3,7 +3,7 @@ type: claim
 title: Authenticity and realism are the most frequent failure modes in initial LLM-personalized math problems, and a single refinement iteration substantially reduces failures
 description: Authenticity and realism are the most frequent failure modes in initial LLM-personalized math problems, and a single refinement iteration substantially reduces failures
 id: single-refinement-iteration-reduces-personalization-failures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

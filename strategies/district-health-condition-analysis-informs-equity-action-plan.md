@@ -3,7 +3,7 @@ type: strategy
 id: district-health-condition-analysis-informs-equity-action-plan
 title: Use district-level analyses of health condition prevalence, supports, and outcomes to inform an action plan for equitably supporting students with health conditions
 description: The article describes a district partnering with a regional educational laboratory to analyze the prevalence of student health conditions, available supports, and relationships with education outcomes.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

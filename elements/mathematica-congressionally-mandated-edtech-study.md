@@ -3,7 +3,7 @@ type: element
 id: mathematica-congressionally-mandated-edtech-study
 title: "Mathematica's congressionally mandated study of educational technology (reading and math software products, two student cohorts)"
 description: A congressionally mandated evaluation of educational technology conducted by Mathematica, examining computer-based reading and math software products across two student cohorts.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

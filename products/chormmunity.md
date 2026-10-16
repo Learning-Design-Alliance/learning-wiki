@@ -4,7 +4,7 @@ id: chormmunity
 title: Chormmunity
 description: Chormmunity is a named participatory workshop programme run by its creators, using conversation, imagery, movement, and ritual performance to develop co-created work.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

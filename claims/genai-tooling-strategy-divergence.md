@@ -3,7 +3,7 @@ type: claim
 title: Institutions diverge in tooling strategy between protected, institutionally hosted AI environments and consumer tools governed by risk controls
 description: Institutions diverge in tooling strategy between protected, institutionally hosted AI environments and consumer tools governed by risk controls
 id: genai-tooling-strategy-divergence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

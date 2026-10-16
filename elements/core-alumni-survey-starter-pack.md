@@ -3,7 +3,7 @@ type: element
 id: core-alumni-survey-starter-pack
 title: "Core Alumni Survey Starter Pack: three item clusters balancing quantitative baseline metrics with qualitative depth"
 description: The starter pack is a foundational set of survey questions refined and iterated by a dozen school systems across the multi-year pilots.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

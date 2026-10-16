@@ -3,7 +3,7 @@ type: claim
 title: In AI-assisted software engineering courses, AI-required and programming work carry high median grade weights while proctored assessment is rare
 description: In AI-assisted software engineering courses, AI-required and programming work carry high median grade weights while proctored assessment is rare
 id: ai-required-work-high-grade-weights-proctored-rare
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

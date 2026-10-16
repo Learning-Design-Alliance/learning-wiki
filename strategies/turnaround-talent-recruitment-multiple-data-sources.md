@@ -3,7 +3,7 @@ type: strategy
 id: turnaround-talent-recruitment-multiple-data-sources
 title: Match candidate skills to school needs using multiple data sources, prioritizing highest-need schools
 description: "In the Talent Development domain, the guide's practice description directs districts to \"Use multiple sources of data to match candidate skills and competencies to a school's needs, prioritizing the highest need schoo..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

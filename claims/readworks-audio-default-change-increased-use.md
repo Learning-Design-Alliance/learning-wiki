@@ -3,7 +3,7 @@ type: claim
 title: "Changing the audio default from opt-in to opt-out raised audio availability from 72% to 99% of assignments and student audio use from 68% to 84%"
 description: "Changing the audio default from opt-in to opt-out raised audio availability from 72% to 99% of assignments and student audio use from 68% to 84%"
 id: readworks-audio-default-change-increased-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Productive Failure Improves Conceptual Learning
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25
@@ -164,3 +164,7 @@ The article reports a randomized-controlled experiment comparing problem solving
 - [Meeting four or more implementation fidelity criteria is associated with course grades about 0.24 points higher than expected, a 0.58 grade-point swing versus meeting only two criteria.](implementation-fidelity-grade-residuals.md) — related
 - [Productive failure students demonstrated greater representation flexibility in working with graphical representations than students in the other two conditions](pf-greater-representation-flexibility-graphical.md) — a narrower finding that bears on this claim
 - [Productive failure students significantly outperformed lecture-practice and facilitated complex problem solving students on well-structured and higher-order application post-test problems](pf-outperformed-lp-fcps-post-test-problems.md) — a narrower finding that bears on this claim
+- [Providing worked examples of journal entries early (rather than delayed) yields better early journal quality and more conceptual knowledge](early-worked-examples-better-journal-quality.md) — related
+- [Failure-driven and success-driven scaffolding before instruction produce similar posttest conceptual understanding](failure-and-success-scaffolding-similar-posttest-conceptual-understanding.md) — a narrower finding that bears on this claim
+- [Prior knowledge moderated the VF-process advantage over PF: the benefit of observing the process grew with prior knowledge, while prior knowledge did not affect post-test performance in the PF condition](prior-knowledge-moderates-vf-process-vs-pf.md) — related
+- [Observing the complete problem-solving-and-failing process (VF-process) was more effective for conceptual knowledge acquisition than generating one's own failed solutions (PF) prior to instruction](vf-process-outperforms-pf-conceptual-knowledge.md) — a narrower finding that bears on this claim

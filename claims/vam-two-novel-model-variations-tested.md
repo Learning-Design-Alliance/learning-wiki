@@ -3,7 +3,7 @@ type: claim
 title: "The paper tests two previously unevaluated VAM model variations: teacher-year level average peer characteristics and demographic variation in the lagged-achievement relationship"
 description: "The paper tests two previously unevaluated VAM model variations: teacher-year level average peer characteristics and demographic variation in the lagged-achievement relationship"
 id: vam-two-novel-model-variations-tested
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

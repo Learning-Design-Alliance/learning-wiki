@@ -3,7 +3,7 @@ type: claim
 title: Using the Colorado Growth Model in place of a value-added model increases evaluation scores for teachers of low-achieving students
 description: Using the Colorado Growth Model in place of a value-added model increases evaluation scores for teachers of low-achieving students
 id: cgm-substitution-raises-scores-low-achieving-student-teachers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

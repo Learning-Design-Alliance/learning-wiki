@@ -3,7 +3,7 @@ type: strategy
 id: open-format-simulation-questions-springboard
 title: Solicit open-format curiosity questions after interactive simulations and use responses as a springboard for instruction
 description: "Students explore free interactive simulations before or during class, then submit open-format responses via real-time formative assessment to prompts such as \"What are you curious about after running the simulation?\"..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

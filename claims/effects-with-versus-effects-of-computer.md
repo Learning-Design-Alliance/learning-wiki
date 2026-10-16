@@ -3,7 +3,7 @@ type: claim
 title: Salomon distinguishes effects with the computer (system performance) from effects of the computer (cognitive residue on the solo performer)
 description: Salomon distinguishes effects with the computer (system performance) from effects of the computer (cognitive residue on the solo performer)
 id: effects-with-versus-effects-of-computer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

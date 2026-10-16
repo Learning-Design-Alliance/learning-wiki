@@ -3,7 +3,7 @@ type: claim
 title: Despite more challenges, minoritized, female, and lower-income students were more likely to rate their online STEM experience as good as or better than in person
 description: Despite more challenges, minoritized, female, and lower-income students were more likely to rate their online STEM experience as good as or better than in person
 id: minoritized-female-low-income-rated-online-experience-equal-or-better
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

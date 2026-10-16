@@ -3,7 +3,7 @@ type: claim
 title: "GenAI-related misconduct allegations rose from 11.9% of all misconduct cases in 2023 to 36.9% in 2025 against a stable total caseload"
 description: "GenAI-related misconduct allegations rose from 11.9% of all misconduct cases in 2023 to 36.9% in 2025 against a stable total caseload"
 id: genai-misconduct-allegations-grew-2023-2025
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

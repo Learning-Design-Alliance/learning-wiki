@@ -3,7 +3,7 @@ type: claim
 title: The curriculum evaluation was the second report from a multi-year (2005-2013) IES-funded study of mathematics curricula
 description: The curriculum evaluation was the second report from a multi-year (2005-2013) IES-funded study of mathematics curricula
 id: ies-math-curricula-evaluation-second-report
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

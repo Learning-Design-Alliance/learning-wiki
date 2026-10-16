@@ -3,7 +3,7 @@ type: strategy
 id: parent-reading-coach-family-workshops
 title: Train parents as one-on-one reading coaches through weekly family workshops
 description: "A core Springboard Summer strategy is developing parents as teachers: the program's stated goal is \"Developing parents as teachers by training them to be effective one-on-one reading coaches at home.\" Each site offers..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

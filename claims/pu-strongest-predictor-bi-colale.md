@@ -3,7 +3,7 @@ type: claim
 title: Perceived usefulness is the strongest predictor of intention to use the contextual language learning app
 description: Perceived usefulness is the strongest predictor of intention to use the contextual language learning app
 id: pu-strongest-predictor-bi-colale
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

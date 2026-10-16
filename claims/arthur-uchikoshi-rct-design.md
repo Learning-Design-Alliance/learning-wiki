@@ -3,7 +3,7 @@ type: claim
 title: The supporting evidence is a randomized controlled trial in which 108 kindergarten English learners watched 54 episodes of Arthur or Between the Lions over one school year
 description: The supporting evidence is a randomized controlled trial in which 108 kindergarten English learners watched 54 episodes of Arthur or Between the Lions over one school year
 id: arthur-uchikoshi-rct-design
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

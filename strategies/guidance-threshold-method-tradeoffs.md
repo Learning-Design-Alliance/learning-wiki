@@ -3,7 +3,7 @@ type: strategy
 id: guidance-threshold-method-tradeoffs
 title: Provide assessment developers and administrators guidance on tradeoffs of threshold-setting methods for identifying noneffortful responses
 description: "The article's stated purpose is to \"help provide guidance to developers and administrators of large-scale assessments on the tradeoffs involved in using a given method to identify noneffortful responses.\" It pursues t..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

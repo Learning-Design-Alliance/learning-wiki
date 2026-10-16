@@ -3,7 +3,7 @@ type: design
 id: making-a-difference-aiana-webinar-series
 title: "Three-part webinar series Making a Difference for American Indian and Alaska Native Students: Innovations and Wise Practices"
 description: A three-part webinar series produced through partnerships between the CoP and Comprehensive Centers in Regions 11, 13, 16, and 17, with 445 participants including 140 tribal nations and 35 states.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

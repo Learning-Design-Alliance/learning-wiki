@@ -3,7 +3,7 @@ type: claim
 title: Schools with strong professional community show faster instructional pacing than schools with weak professional community, including among high-poverty schools
 description: Schools with strong professional community show faster instructional pacing than schools with weak professional community, including among high-poverty schools
 id: professional-community-faster-pacing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

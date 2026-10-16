@@ -3,7 +3,7 @@ type: claim
 title: "Agentic assessment systems report grading time reductions of 50–70% with 90–95% agreement with human graders"
 description: "Agentic assessment systems report grading time reductions of 50–70% with 90–95% agreement with human graders"
 id: agentic-grading-time-reduction-agreement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

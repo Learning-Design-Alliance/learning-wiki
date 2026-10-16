@@ -3,7 +3,7 @@ type: claim
 title: "Coaches appeared to expand exposure to and completion of community college programs, consistent with the strategy's goals"
 description: "Coaches appeared to expand exposure to and completion of community college programs, consistent with the strategy's goals"
 id: coaching-expanded-program-exposure-completion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

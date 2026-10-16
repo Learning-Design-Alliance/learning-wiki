@@ -4,7 +4,7 @@ id: word-association-test-wat
 title: Word Association Test (WAT)
 description: "A timed psycholinguistic assessment instrument that elicits and analyzes learners' spontaneous word associations to diagnose the organization and integration of concepts in a knowledge domain."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

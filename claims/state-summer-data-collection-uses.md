@@ -3,7 +3,7 @@ type: claim
 title: States collected and used data to track participation, evaluate quality, improve programs, and advocate for funding
 description: States collected and used data to track participation, evaluate quality, improve programs, and advocate for funding
 id: state-summer-data-collection-uses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

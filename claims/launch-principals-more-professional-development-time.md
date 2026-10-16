@@ -3,7 +3,7 @@ type: claim
 title: LAUNCH elementary principals reported spending about twice as much time on professional development as veteran principals and more time on staff development than other principals
 description: LAUNCH elementary principals reported spending about twice as much time on professional development as veteran principals and more time on staff development than other principals
 id: launch-principals-more-professional-development-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

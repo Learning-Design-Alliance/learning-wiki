@@ -3,7 +3,7 @@ type: claim
 title: Adaptive testing explains why about one third of calibrated Spanish math items carry calibration status 10
 description: Adaptive testing explains why about one third of calibrated Spanish math items carry calibration status 10
 id: adaptive-calibration-yields-status-10-third-of-items
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

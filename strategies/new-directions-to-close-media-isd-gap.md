@@ -3,7 +3,7 @@ type: strategy
 id: new-directions-to-close-media-isd-gap
 title: "Pursue new theory directions to close the media-ISD gap: specialized models, new testing methods, combined design-development-evaluation models, and message design theory"
 description: "The article proposes four directions for closing the theoretical gap between media selection and other ISD steps: \"more specialized models\", \"new ways to test models\", \"models which combine design, development, and ev..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

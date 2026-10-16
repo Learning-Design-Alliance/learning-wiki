@@ -3,7 +3,7 @@ type: claim
 title: In CPS, student teachers were disproportionately placed in North Side schools and in more socioeconomically advantaged schools with stronger organizational ratings
 description: In CPS, student teachers were disproportionately placed in North Side schools and in more socioeconomically advantaged schools with stronger organizational ratings
 id: cps-student-teacher-placement-north-side-and-advantaged-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Germane cognitive load is reformulated as redistributing working memory resources from extraneous to intrinsic processing rather than adding to total load
 description: Germane cognitive load is reformulated as redistributing working memory resources from extraneous to intrinsic processing rather than adding to total load
 id: germane-load-redistributive-function-reformulation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
@@ -49,3 +49,5 @@ Theoretical reformulation in this narrative review, motivated because "Numerous 
 - [Self-reported extraneous cognitive load correlates negatively with germane load and with expected probability of success in an algebra task](extraneous-cognitive-load-correlates-negatively-with-germane-load-and-probability-of-success.md) — related
 - [Self-reported germane cognitive load correlates positively with interest (QCM) among college students solving algebra problems](germane-cognitive-load-correlates-positively-with-interest.md) — related
 - [The cognitive architecture has been used to design a variety of novel instructional procedures](architecture-generated-novel-instructional-procedures.md) — related
+- [Designing learning activities corresponding to germane load has always required methods and techniques external to cognitive load theory](germane-load-activities-require-external-methods.md) — related
+- [Germane cognitive load can be defined in terms of intrinsic cognitive load, associating it with element interactivity](germane-load-defined-via-intrinsic-load.md) — related

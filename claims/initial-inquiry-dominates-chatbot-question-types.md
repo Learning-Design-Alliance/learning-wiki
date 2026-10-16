@@ -3,7 +3,7 @@ type: claim
 title: Student chatbot queries were overwhelmingly task-oriented initial inquiries, dominated by definition requests and pasted assignment questions rather than iterative critique
 description: Student chatbot queries were overwhelmingly task-oriented initial inquiries, dominated by definition requests and pasted assignment questions rather than iterative critique
 id: initial-inquiry-dominates-chatbot-question-types
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -72,3 +72,4 @@ Within the Follow-Up Inquiry macro-category (26.4%, n = 746), the most common be
 - [Explanatory inquiries, factual queries, and tutorial requests are the most frequent LLM learning tasks](explanatory-factual-tutorial-top-llm-tasks.md) — related
 - [Students' GenAI prompts overwhelmingly exact-copy instructions and request information rather than review](genai-prompts-exact-copy-and-information-requests.md) — possibly the same claim (merge candidate)
 - [Students rated the LLM-based assignments as useful, challenging, engaging, and enjoyable at both the first and fifth iterations, with no significant change across the semester](positive-affective-responses-llm-assignments.md) — related
+- [Assessment/Evaluation was the most common use of AIEd in higher education, with automatic assessment in 26 studies](assessment-evaluation-most-common-ai-ed-use.md) — related

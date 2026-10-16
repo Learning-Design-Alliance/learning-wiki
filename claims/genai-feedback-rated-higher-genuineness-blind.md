@@ -3,7 +3,7 @@ type: claim
 title: Under blind conditions, students rated GenAI feedback more positively than tutor-generated feedback, with a statistically significant difference only on Genuineness favouring GenAI
 description: Under blind conditions, students rated GenAI feedback more positively than tutor-generated feedback, with a statistically significant difference only on Genuineness favouring GenAI
 id: genai-feedback-rated-higher-genuineness-blind
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
@@ -47,3 +47,4 @@ Mann–Whitney U comparison of post-intervention perception questionnaire scores
 - [Students in the generative AI-supported condition reported favorable perceptions of the instruction, with feedback for correcting mistakes rated highest](genai-geometry-favorable-perceptions.md) — related
 - [Students rate LLM-generated response-level feedback favourably, with clarity and perceived accuracy highest and actionability and usefulness lowest](llm-response-feedback-clarity-accuracy-highest-actionability-usefulness-lowest.md) — related
 - Tutors on Ringle rated automated feedback significantly more negatively than learner feedback across six of seven perception dimensions — related
+- [Both instructor and AI-generated feedback were perceived positively, with instructor feedback rated higher descriptively on all four perception dimensions](both-feedback-types-perceived-positively.md) — reports the opposite

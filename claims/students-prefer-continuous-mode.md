@@ -3,7 +3,7 @@ type: claim
 title: Students in MAIC tend to prefer the passive continuous mode over interactive mode
 description: Students in MAIC tend to prefer the passive continuous mode over interactive mode
 id: students-prefer-continuous-mode
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

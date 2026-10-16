@@ -3,7 +3,7 @@ type: claim
 title: Cognitive offloading to generative AI is associated with reduced learner engagement, lower critical thinking, and lower-quality reasoning
 description: Cognitive offloading to generative AI is associated with reduced learner engagement, lower critical thinking, and lower-quality reasoning
 id: cognitive-offloading-reduces-engagement-critical-thinking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -71,3 +71,4 @@ The article reports, citing Stadler et al. (2024), a comparison of university st
 - [Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction](unstructured-llm-use-cognitive-offloading.md) — related
 - ACM DL search results for critical thinking rose from 25 in 2000 to more than 1500 in 2025, with 78% also mentioning AI — related
 - [Effort regulation negatively predicts, and general academic help seeking positively predicts, reported AI dependency; time management is non-significant](effort-regulation-buffers-help-seeking-predicts-ai-dependency.md) — related
+- [Students using Google produce higher-quality justifications in their final recommendations than students using ChatGPT 3.5](web-search-higher-quality-justifications-than-llm.md) — a narrower finding that bears on this claim

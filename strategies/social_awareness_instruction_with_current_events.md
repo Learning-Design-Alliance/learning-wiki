@@ -69,7 +69,7 @@ Social awareness develops through guided practice, not exposure alone: structure
 - **[Facing History & Ourselves](https://www.facinghistory.org)** — published curriculum using historical and current events with structured discussion protocols to teach perspective-taking and ethical reasoning.
 - **[The Learning Network (New York Times)](https://www.nytimes.com/section/learning)** — weekly current-events prompts and student opinion forums designed for classroom discussion.
 - **[CASEL](https://casel.org)** — the SEL framework that defines social awareness as a core competency and catalogs school-wide implementation examples.
-- **Literature circles** — using fictional characters in language arts as low-stakes practice for perspective-taking before applying the skill to real news events.
+- **[Literature circles](literature-circles.md)** — using fictional characters in language arts as low-stakes practice for perspective-taking before applying the skill to real news events.
 
 ## Key Sources
 - Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development, 82*(1), 405–432. [doi:10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x)

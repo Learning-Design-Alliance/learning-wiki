@@ -3,7 +3,7 @@ type: strategy
 id: gender-matched-learning-companions
 title: "Match students' gender with their learning companions in adaptive learning programs to promote engagement and prevent disengagement"
 description: "The review recommends assigning learning-companion agents whose gender matches the student's."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

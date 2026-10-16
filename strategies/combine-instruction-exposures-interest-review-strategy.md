@@ -3,7 +3,7 @@ type: strategy
 id: combine-instruction-exposures-interest-review-strategy
 title: Combine implicit and explicit word instruction, ensure repeated exposures, and use interesting topics and delayed-feedback review to support vocabulary learning
 description: "The review's conclusion offers teachers a set of implementable moves: \"it is more effective for teachers to combine both implicit and explicit instructions on the target words\", teach word formation knowledge, create..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

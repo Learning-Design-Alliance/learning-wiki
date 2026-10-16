@@ -3,7 +3,7 @@ type: claim
 title: Students recommend integrating computer-based simulation cases into each course to make learning more concrete
 description: Students recommend integrating computer-based simulation cases into each course to make learning more concrete
 id: students-recommend-simulation-in-each-course
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

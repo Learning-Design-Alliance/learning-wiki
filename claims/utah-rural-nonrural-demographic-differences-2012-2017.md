@@ -3,7 +3,7 @@ type: claim
 title: Rural Utah districts had a higher proportion of economically disadvantaged students and students with disabilities, while non-rural districts had a higher proportion of English learners, from 2012 to 2017
 description: Rural Utah districts had a higher proportion of economically disadvantaged students and students with disabilities, while non-rural districts had a higher proportion of English learners, from 2012 to 2017
 id: utah-rural-nonrural-demographic-differences-2012-2017
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

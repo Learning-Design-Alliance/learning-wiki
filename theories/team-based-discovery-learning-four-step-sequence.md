@@ -2,7 +2,7 @@
 type: theory
 title: "Team-based discovery learning: a four-step cooperative sequence from motivating activity to concept generation"
 description: "The article describes team-based discovery learning as an element of cooperative learning in which teams \"socialize and share knowledge within the group or team\" while following discovery learning steps."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

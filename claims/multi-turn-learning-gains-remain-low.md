@@ -3,7 +3,7 @@ type: claim
 title: "Extended multi-turn dialogue does not produce effective tutoring: learning gains remain uniformly low and misconception reduction peaks around 24-25%"
 description: "Extended multi-turn dialogue does not produce effective tutoring: learning gains remain uniformly low and misconception reduction peaks around 24-25%"
 id: multi-turn-learning-gains-remain-low
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

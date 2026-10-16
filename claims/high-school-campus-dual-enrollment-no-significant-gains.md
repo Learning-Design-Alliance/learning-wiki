@@ -3,7 +3,7 @@ type: claim
 title: Dual enrollment classes taken exclusively on the high school campus show no statistically significant gains in college outcomes
 description: Dual enrollment classes taken exclusively on the high school campus show no statistically significant gains in college outcomes
 id: high-school-campus-dual-enrollment-no-significant-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "The Business Case Discussion gives admissions readers evidence of applicants' business mindsets, defined as cognitive and intrapersonal skills rather than business expertise"
 description: "The Business Case Discussion gives admissions readers evidence of applicants' business mindsets, defined as cognitive and intrapersonal skills rather than business expertise"
 id: business-case-discussion-reveals-business-mindsets
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

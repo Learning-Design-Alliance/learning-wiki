@@ -3,7 +3,7 @@ type: strategy
 id: pthv-voluntary-pair-visit-implementation-strategy
 title: Conduct voluntary, pair-based teacher home visits focused on hopes and dreams across a cross-section of students
 description: "This strategy implements PTHV's five non-negotiables as concrete practices for schools adopting home visits."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

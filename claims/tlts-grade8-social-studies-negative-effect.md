@@ -3,7 +3,7 @@ type: claim
 title: Grade 8 students in TLTS schools scored 0.12 standard deviations lower in social studies than comparison students
 description: Grade 8 students in TLTS schools scored 0.12 standard deviations lower in social studies than comparison students
 id: tlts-grade8-social-studies-negative-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

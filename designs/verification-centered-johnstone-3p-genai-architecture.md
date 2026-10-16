@@ -3,7 +3,7 @@ type: design
 id: verification-centered-johnstone-3p-genai-architecture
 title: Verification-centered Johnstone-3P architecture for GenAI in university chemistry education
 description: "The review proposes an explanatory architecture in which Johnstone's chemistry triplet (macroscopic, submicroscopic, symbolic domains, with representational translation as a cross-domain process rather than a fourth l..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: strategy
 id: universal-srss-screening-to-inform-intervention
 title: Conduct universal mental health screening with the Student Risk Screening Scale to inform intervention
 description: "The district implemented a universal screening process using the Student Risk Screening Scale (SRSS) to gather information about students' mental health and inform intervention."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

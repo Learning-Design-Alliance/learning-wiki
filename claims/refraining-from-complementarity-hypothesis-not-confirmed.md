@@ -3,7 +3,7 @@ type: claim
 title: The hypothesis that both teachers can refrain from complementarity when facing hostile student behavior could not be confirmed
 description: The hypothesis that both teachers can refrain from complementarity when facing hostile student behavior could not be confirmed
 id: refraining-from-complementarity-hypothesis-not-confirmed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

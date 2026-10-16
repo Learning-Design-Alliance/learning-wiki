@@ -3,7 +3,7 @@ type: claim
 title: Lower linguistic quality of physics explanations is associated with higher odds that AI-based scoring underestimates conceptual understanding, across all eleven examined AI-based scoring approaches
 description: Lower linguistic quality of physics explanations is associated with higher odds that AI-based scoring underestimates conceptual understanding, across all eleven examined AI-based scoring approaches
 id: ai-scoring-underestimates-linguistically-weak-physics-explanations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -64,8 +64,8 @@ Comprehension monitoring is among the most consistently supported reading strate
 - [Annotating](../principles/annotating.md) — a physical trace of monitoring decisions that supports later review
 
 ## Examples
-- **Reciprocal Teaching** (Palincsar & Brown, 1984): small reading groups rotate the "teacher" role, with each member responsible for questioning, clarifying, summarizing, and predicting — the clarifying role is comprehension monitoring made social.
-- **Reading Apprenticeship** (WestEd, https://readingapprenticeship.org): a secondary and postsecondary framework in which instructors routinely model their own metacognitive reading processes, including monitoring breakdowns, using metacognitive conversation routines.
+- **[Reciprocal Teaching](reciprocal_teaching.md)** (Palincsar & Brown, 1984): small reading groups rotate the "teacher" role, with each member responsible for questioning, clarifying, summarizing, and predicting — the clarifying role is comprehension monitoring made social.
+- **[Reading Apprenticeship](../products/reading-apprenticeship.md)** (WestEd, https://readingapprenticeship.org): a secondary and postsecondary framework in which instructors routinely model their own metacognitive reading processes, including monitoring breakdowns, using metacognitive conversation routines.
 - While reading a complex science text, a learner pauses to ask, "Can I explain what I just read?" If not, she rereads the paragraph, looks up an unfamiliar term, or reads ahead for a defining example before continuing.
 
 ## Key Sources

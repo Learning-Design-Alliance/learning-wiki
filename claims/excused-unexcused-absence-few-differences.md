@@ -3,7 +3,7 @@ type: claim
 title: Excused-unexcused absence distinctions show few outcome differences and delay intervention
 description: Excused-unexcused absence distinctions show few outcome differences and delay intervention
 id: excused-unexcused-absence-few-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

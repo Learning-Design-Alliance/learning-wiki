@@ -3,7 +3,7 @@ type: claim
 title: Economic, educational, and geopolitical inequalities structure differential access to AI capabilities, reproducing an epistemic hierarchy
 description: Economic, educational, and geopolitical inequalities structure differential access to AI capabilities, reproducing an epistemic hierarchy
 id: differential-ai-access-reproduces-epistemic-hierarchy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: The New Teacher Support Program reaches fewer than 10 percent of beginning teachers, far below the statewide mentoring program that reached all beginning teachers in the 1990s
 description: The New Teacher Support Program reaches fewer than 10 percent of beginning teachers, far below the statewide mentoring program that reached all beginning teachers in the 1990s
 id: nc-new-teacher-support-reaches-under-ten-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Teacher survey measures correlate most with the Instruction, Talent, and School Culture domains of DCPS principal supervisor assessments
 description: Teacher survey measures correlate most with the Instruction, Talent, and School Culture domains of DCPS principal supervisor assessments
 id: survey-measures-most-correlated-instruction-talent-culture
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Principals and teachers report needing more support in areas such as analyzing student data and using assessments to measure growth
 description: Principals and teachers report needing more support in areas such as analyzing student data and using assessments to measure growth
 id: educator-capacity-support-needs-tpe
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

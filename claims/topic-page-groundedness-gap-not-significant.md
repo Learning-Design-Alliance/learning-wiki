@@ -3,7 +3,7 @@ type: claim
 title: "The topic-page groundedness gap between wiki and vector RAG was the study's only comparison not reaching significance at the 95% level"
 description: "The topic-page groundedness gap between wiki and vector RAG was the study's only comparison not reaching significance at the 95% level"
 id: topic-page-groundedness-gap-not-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

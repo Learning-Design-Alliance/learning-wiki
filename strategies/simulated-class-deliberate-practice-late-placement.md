@@ -3,7 +3,7 @@ type: strategy
 id: simulated-class-deliberate-practice-late-placement
 title: Use the simulated class as low-stakes deliberate practice placed late in teacher preparation, with transcript-based debriefs
 description: "The article recommends a simulated class as a low-stakes setting for deliberate practice much earlier in a teacher's trajectory than the practicum, leaving a complete transcript for analysis and feedback."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

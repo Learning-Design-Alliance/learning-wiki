@@ -3,7 +3,7 @@ type: design
 id: three-phase-math-word-problem-tutoring-structure
 title: "Three-phase tutoring structure for math word problems: understanding, calculation, and summarization"
 description: The article identifies a three-phase structure organizing parent-child math word problem tutoring.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: GPA treatment effects among lower-achieving students were smaller in higher-achieving schools (moderation by school achievement level)
 description: GPA treatment effects among lower-achieving students were smaller in higher-achieving schools (moderation by school achievement level)
 id: mindset-gpa-effects-smaller-high-achieving-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

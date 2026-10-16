@@ -3,7 +3,7 @@ type: strategy
 id: student-generated-mapping-strategy
 title: Student-generated mapping exercise
 description: Provide students with skeletal map templates and term lists and have them analyze and place concepts into the structure prior to assessment, individually or in small groups of 3-4.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

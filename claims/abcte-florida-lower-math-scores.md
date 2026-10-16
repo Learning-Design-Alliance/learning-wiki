@@ -3,7 +3,7 @@ type: claim
 title: Students of ABCTE teachers scored lower than students of non-ABCTE teachers on the Florida state math test
 description: Students of ABCTE teachers scored lower than students of non-ABCTE teachers on the Florida state math test
 id: abcte-florida-lower-math-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

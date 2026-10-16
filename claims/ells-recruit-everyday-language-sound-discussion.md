@@ -3,7 +3,7 @@ type: claim
 title: Third-grade ELLs recruit familiar everyday language, including onomatopoeic labels, to talk productively about the sounds produced by strings
 description: Third-grade ELLs recruit familiar everyday language, including onomatopoeic labels, to talk productively about the sounds produced by strings
 id: ells-recruit-everyday-language-sound-discussion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

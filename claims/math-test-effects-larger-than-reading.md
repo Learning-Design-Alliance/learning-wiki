@@ -3,7 +3,7 @@ type: claim
 title: Effect sizes based on mathematics tests are significantly larger than effect sizes based on reading tests in targeted secondary interventions
 description: Effect sizes based on mathematics tests are significantly larger than effect sizes based on reading tests in targeted secondary interventions
 id: math-test-effects-larger-than-reading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

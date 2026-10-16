@@ -3,7 +3,7 @@ type: strategy
 id: discovery-phase-data-collection-tools
 title: "Discovery-phase data collection: surveys, listening sessions, and project inventories to map the current system"
 description: "During the Discovery Phase, teams use surveys for \"initial, broad representation from as many staff as possible,\" listening sessions that let participants \"explore and clarify their views\" beyond what one-on-one inter..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

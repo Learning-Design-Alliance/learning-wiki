@@ -3,7 +3,7 @@ type: claim
 title: "Impacts varied across teachers: 40 of 59 teachers had a majority of their students outperform their virtual comparison counterparts"
 description: "Impacts varied across teachers: 40 of 59 teachers had a majority of their students outperform their virtual comparison counterparts"
 id: assistments-teacher-variation-outperformance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Implementation of competency-based progression was limited by a perceived need to emphasize grade-level content and external policy constraints
 description: Implementation of competency-based progression was limited by a perceived need to emphasize grade-level content and external policy constraints
 id: competency-progression-limited-grade-level-emphasis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

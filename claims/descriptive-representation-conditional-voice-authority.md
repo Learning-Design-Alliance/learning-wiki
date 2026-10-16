@@ -3,7 +3,7 @@ type: claim
 title: "Women's descriptive representation in deliberation interacts with decision rule rather than uniformly increasing voice and authority"
 description: "Women's descriptive representation in deliberation interacts with decision rule rather than uniformly increasing voice and authority"
 id: descriptive-representation-conditional-voice-authority
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

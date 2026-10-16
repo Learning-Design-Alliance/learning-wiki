@@ -3,7 +3,7 @@ type: strategy
 id: multiple-work-experiences-transition-strategy
 title: Use multiple work experiences, including paid ones, to build college and career readiness for students with disabilities
 description: "Way2Work Maryland's service design centered on giving students with disabilities repeated, progressively available work experiences as part of transition services."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

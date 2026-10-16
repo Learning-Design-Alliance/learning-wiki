@@ -3,7 +3,7 @@ type: claim
 title: CPS students make smaller improvements on sequential EPAS tests from grade to grade than students nationally with the same prior scores
 description: CPS students make smaller improvements on sequential EPAS tests from grade to grade than students nationally with the same prior scores
 id: cps-epas-gains-below-national-median
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

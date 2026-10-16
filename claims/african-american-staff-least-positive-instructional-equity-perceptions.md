@@ -3,7 +3,7 @@ type: claim
 title: "African American secondary school staff perceived their schools' instructional equity less positively than staff of other races/ethnicities"
 description: "African American secondary school staff perceived their schools' instructional equity less positively than staff of other races/ethnicities"
 id: african-american-staff-least-positive-instructional-equity-perceptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

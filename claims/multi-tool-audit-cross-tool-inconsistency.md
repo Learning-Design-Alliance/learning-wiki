@@ -3,7 +3,7 @@ type: claim
 title: "In a documented exploratory audit, one human-authored manuscript received materially different classifications from five commercial detectors, spanning 0% human to Human Generated"
 description: "In a documented exploratory audit, one human-authored manuscript received materially different classifications from five commercial detectors, spanning 0% human to Human Generated"
 id: multi-tool-audit-cross-tool-inconsistency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -58,3 +58,4 @@ The author's documented exploratory audit of one manuscript (4,613–4,727 words
 - [Humanizer sites frame AI humanization as a rational, ethically defensible response to flawed surveillance and false positives](humanizers-frame-evasion-as-rational-self-defense.md) — related
 - [All four detection tools classified 100% of fully human-written papers as true negatives, with false positives nearly absent](all-tools-accurate-on-human-written-papers.md) — reports the opposite
 - [Comparative studies report that AI detection tools do not reliably distinguish human-written from AI-generated text](ai-detection-tools-not-reliably-distinguishing.md) — a broader claim this one bears on
+- [AI-generated-text detectors are reported as ineffective against current sophisticated language models, and students can alter text to evade detection](ai-text-detectors-ineffective.md) — related

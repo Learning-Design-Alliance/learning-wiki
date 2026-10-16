@@ -3,7 +3,7 @@ type: claim
 title: The correlations among understandability, trust, and acceptance strengthen during teacher–system interaction, indicating trust is dynamic
 description: The correlations among understandability, trust, and acceptance strengthen during teacher–system interaction, indicating trust is dynamic
 id: trust-correlations-strengthen-during-interaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: "Sticht's Law holds that reading skill cannot exceed listening skill"
 description: "Sticht's Law holds that reading skill cannot exceed listening skill"
 id: sticht-law-reading-cannot-exceed-listening
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

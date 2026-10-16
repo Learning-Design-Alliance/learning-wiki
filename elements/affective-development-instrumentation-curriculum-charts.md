@@ -3,7 +3,7 @@ type: element
 id: affective-development-instrumentation-curriculum-charts
 title: Charts of available instrumentation and curriculum for affective development
 description: "The report supplies two appendix charts cataloguing existing resources: Appendix A charts available instrumentation for assessing affective development, and Appendix B charts available curriculum for affective develop..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

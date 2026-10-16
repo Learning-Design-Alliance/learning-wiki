@@ -3,7 +3,7 @@ type: strategy
 id: ct-profile-differentiated-teacher-training-dashboard
 title: Use CT profiles and behavioural metrics to differentiate pre-service teacher instruction and design a learning analytics dashboard
 description: "The article recommends using the three empirically identified CT profiles to tailor pre-service teacher education: \"Novice learners can benefit from scaffolded coding workshops using tools like Scratch, while Proficie..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

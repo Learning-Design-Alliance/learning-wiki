@@ -3,7 +3,7 @@ type: claim
 title: The late-pretest estimator preference holds as long as test score impacts do not grow very quickly early in the school year
 description: The late-pretest estimator preference holds as long as test score impacts do not grow very quickly early in the school year
 id: late-pretest-preference-conditional-on-slow-early-impact-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

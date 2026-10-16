@@ -3,7 +3,7 @@ type: claim
 title: "The serial mediation model explains 32.5–37.0% of variance in AI-TPACK, self-efficacy, and AI integration intention"
 description: "The serial mediation model explains 32.5–37.0% of variance in AI-TPACK, self-efficacy, and AI integration intention"
 id: model-explained-variance-ai-integration-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: design
 id: comet-contingent-ai-tutor-environment
 title: "CoMeT: a browser-based contingent AI programming tutor with a support ladder over authored decision points"
 description: "CoMeT is \"a browser-based environment in which a learner works through a short programming task beside a chat tutor\", with a sketchpad and code editor."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10
@@ -48,4 +48,4 @@ CoMeT is "a browser-based environment in which a learner works through a short p
 -
 
 ## Key Sources
-- Hou, X., Weng, Y., Yeh, C. H., Lee, D. L., Zheng, L., Li, F., Wang, W., & Liu, Y. (2026). Adaptive Scaffolding Needs Contingency: An AI Tutor That Escalates and Fades on What the Learner Does. arXiv preprint. https://arxiv.org/abs/2609.22993
+- Hou, X., Weng, Y., Yeh, C. H., Lee, D. L., Zheng, L., Li, F., Wang, W., & Liu, Y. (2026). Adaptive Scaffolding Needs Contingency: An AI Tutor That Escalates and Fades on What the Learner Does. arXiv preprint. https://arxiv.org/abs/2609.22993. [doi:10.48550/arxiv.2609.22993](https://doi.org/10.48550/arxiv.2609.22993)

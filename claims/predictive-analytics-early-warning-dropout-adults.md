@@ -3,7 +3,7 @@ type: claim
 title: Predictive learning analytics can generate early warnings of dropout risk and trigger targeted interventions in adult education
 description: Predictive learning analytics can generate early warnings of dropout risk and trigger targeted interventions in adult education
 id: predictive-analytics-early-warning-dropout-adults
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: GenAI in education presents a dual profile of potential benefits and significant concerns
 description: GenAI in education presents a dual profile of potential benefits and significant concerns
 id: genai-personalization-bias-tensions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

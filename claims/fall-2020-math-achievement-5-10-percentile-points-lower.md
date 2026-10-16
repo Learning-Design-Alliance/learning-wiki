@@ -3,7 +3,7 @@ type: claim
 title: Fall 2020 math achievement was 5 to 10 percentile points lower than pre-COVID-19 performance by same-grade students
 description: Fall 2020 math achievement was 5 to 10 percentile points lower than pre-COVID-19 performance by same-grade students
 id: fall-2020-math-achievement-5-10-percentile-points-lower
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

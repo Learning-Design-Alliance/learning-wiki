@@ -2,7 +2,7 @@
 type: theory
 title: "Canale and Swain's four dimensions of communicative competence as a lexical exercise framework"
 description: "Robinson adopts Canale and Swain's (1980) checklist of four dimensions of communicative competence as the organizing framework for vocabulary materials."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28
@@ -44,7 +44,6 @@ Robinson adopts Canale and Swain's (1980) checklist of four dimensions of commun
 - [Canale and Swain's integrative framework of communicative competence: grammatical, sociolinguistic, and discourse components](canale-swain-communicative-competence-framework.md)
 - [Multidimensional oral proficiency assessment framework grounded in communicative competence theory](multidimensional-oral-proficiency-framework-chai.md)
 - [Procedural-declarative distinction in lexical knowledge](procedural-declarative-lexical-knowledge-distinction.md)
-- [Canale and Swain's integrative framework of communicative competence synthesizes grammatical, sociolinguistic, and discourse knowledge](canale-swain-integrative-communicative-competence-framework.md)
 
 ## Examples
 

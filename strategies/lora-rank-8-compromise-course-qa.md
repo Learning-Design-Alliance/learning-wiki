@@ -3,7 +3,7 @@ type: strategy
 id: lora-rank-8-compromise-course-qa
 title: Select LoRA rank r=8 as a balanced compromise between parameter count and performance when adapting course question-answering models under resource constraints
 description: When adapting open-source instruction-tuned models to a specific course with limited data and hardware, the article recommends treating LoRA rank as a tunable trade-off rather than always maximizing it.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

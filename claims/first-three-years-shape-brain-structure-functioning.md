@@ -3,7 +3,7 @@ type: claim
 title: "Experiences and environments in a baby's first three years significantly shape brain structure and functioning"
 description: "Experiences and environments in a baby's first three years significantly shape brain structure and functioning"
 id: first-three-years-shape-brain-structure-functioning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

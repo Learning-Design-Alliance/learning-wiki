@@ -3,7 +3,7 @@ type: element
 id: three-summer-math-programs-grade-6-8
 title: Three research-based summer math programs for grade 6-8 students (2019 and 2020)
 description: "The brief examines three summer programs that \"used research-based curricula and instructional practices to boost learning among diverse groups of grade 6–8 students during the 2019 and 2020 summers.\" The programs wer..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

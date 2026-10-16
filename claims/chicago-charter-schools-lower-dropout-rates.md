@@ -3,7 +3,7 @@ type: claim
 title: No school type stood out on TAP performance, but charter schools had substantially lower dropout rates after controlling for incoming student characteristics
 description: No school type stood out on TAP performance, but charter schools had substantially lower dropout rates after controlling for incoming student characteristics
 id: chicago-charter-schools-lower-dropout-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

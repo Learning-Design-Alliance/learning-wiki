@@ -3,7 +3,7 @@ type: strategy
 id: breadcrumb-strategy-ai-native-skills
 title: "Breadcrumb strategy: embed small AI-native skill exercises, nudges, and prompts across multiple courses throughout the four-year curriculum"
 description: "The Breadcrumb strategy is a lightweight curricular approach proposed by faculty workshop participants for fostering students' AI-native skills."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

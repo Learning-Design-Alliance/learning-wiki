@@ -3,7 +3,7 @@ type: strategy
 id: contrast-for-while-loops-with-visualization
 title: Teach loop structures by contrasting fixed-range for loops with condition-driven while loops and using program visualization
 description: "To address students' difficulty distinguishing for and while loops, the article recommends that educators explicitly contrast the two structures and use visualization."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

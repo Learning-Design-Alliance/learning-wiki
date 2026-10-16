@@ -3,7 +3,7 @@ type: claim
 title: Faculty report high self-perceived knowledge in traditional TPACK domains but substantially lower self-perceived knowledge in technology-integrated GenAI domains
 description: Faculty report high self-perceived knowledge in traditional TPACK domains but substantially lower self-perceived knowledge in technology-integrated GenAI domains
 id: faculty-high-traditional-low-technology-integrated-genai-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -45,3 +45,4 @@ Cross-sectional survey of 127 faculty at a large Southern U.S. public research u
 - [Technological knowledge of GenAI is strongly associated with self-perceived knowledge in technology-integrated domains](tk-strongly-associated-technology-integrated-domains.md) — related
 - [Self-perceived TPACK-21 domain scores do not differ significantly by faculty age group or appointment type](no-age-or-career-type-differences-tpack-genai.md) — related
 - The three technology-integrated TPACK domains intercorrelate so strongly (r = .81–.91) that they may function as a single factor in this faculty population — related
+- [University students report a generally good understanding of GenAI technologies, with highest self-rated knowledge of limitations and lowest for emotional-intelligence limits](students-good-understanding-genai-limitations.md) — related

@@ -3,7 +3,7 @@ type: claim
 title: Students report low motivation for English writing due to lack of real-life application and formulaic compositions
 description: Students report low motivation for English writing due to lack of real-life application and formulaic compositions
 id: low-motivation-formulaic-writing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

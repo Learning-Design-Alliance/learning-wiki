@@ -3,7 +3,7 @@ type: claim
 title: "Claude's few-shot scoring behaved erratically across items: best few-shot model on Item 1 but by far the worst model on Item 2"
 description: "Claude's few-shot scoring behaved erratically across items: best few-shot model on Item 1 but by far the worst model on Item 2"
 id: claude-erratic-few-shot-performance-across-items
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

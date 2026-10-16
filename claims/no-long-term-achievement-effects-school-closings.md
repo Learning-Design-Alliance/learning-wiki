@@ -3,7 +3,7 @@ type: claim
 title: "School closings showed no statistically significant long-term effects on displaced students' reading or math achievement two and three years later"
 description: "School closings showed no statistically significant long-term effects on displaced students' reading or math achievement two and three years later"
 id: no-long-term-achievement-effects-school-closings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

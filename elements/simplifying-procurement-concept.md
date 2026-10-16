@@ -3,7 +3,7 @@ type: element
 id: simplifying-procurement-concept
 title: "Simplifying Procurement concept: user-centered tools and case studies for navigating district purchasing"
 description: One of five concepts developed at the workshop, Simplifying Procurement is a set of user-centered tools meant to demystify district procurement.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

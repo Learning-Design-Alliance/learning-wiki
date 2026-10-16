@@ -3,7 +3,7 @@ type: claim
 title: Family engagement programs can integrate mathematical thinking and activities across a range of settings
 description: Family engagement programs can integrate mathematical thinking and activities across a range of settings
 id: family-engagement-programs-can-integrate-early-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: student-autonomy-default-access-edtech-supports
 title: Empower student autonomy by making supports student-facing and increasing default access, which can raise engagement and reduce barriers
 description: The report recommends having student-facing options available so students can choose whichever feature they need in the moment, and increasing access to and encouraging use of features such as audio support.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -47,4 +47,4 @@ The report recommends having student-facing options available so students can ch
 -
 
 ## Key Sources
-- Tare, M. & Shell, A. R. (2019). Designing for learner variability: Examining the impact of research-based edtech in the classroom. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985
+- Tare, M. & Shell, A. R. (2019). Designing for learner variability: Examining the impact of research-based edtech in the classroom. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985. [doi:10.51388/20.500.12265/81](https://doi.org/10.51388/20.500.12265/81)

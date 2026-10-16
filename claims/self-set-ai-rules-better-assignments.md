@@ -3,7 +3,7 @@ type: claim
 title: Students who formulated their own rules for when to use AI performed better on assignments in both conditions
 description: Students who formulated their own rules for when to use AI performed better on assignments in both conditions
 id: self-set-ai-rules-better-assignments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

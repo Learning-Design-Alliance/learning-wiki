@@ -3,7 +3,7 @@ type: claim
 title: Multiple-choice state tests are prone to ceiling and floor effects and do not measure higher-order skills well
 description: Multiple-choice state tests are prone to ceiling and floor effects and do not measure higher-order skills well
 id: multiple-choice-state-tests-limits-high-low-performers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -50,3 +50,4 @@ Authors' discussion in the introduction's themes section about state tests, whic
 - [The lower a test's score ceiling, the more teacher value-added estimates shrink toward the average teacher, because ceiling scores contain imprecise information about achievement](lower-ceilings-shrink-value-added-toward-average.md) — a narrower finding that bears on this claim
 - [Increased score variability was primarily driven by spreading out at the bottom end of the achievement distribution](variability-driven-by-bottom-of-distribution.md) — related
 - [Teachers report changing high-quality instruction to match state and interim test formats, limiting deep learning opportunities](teachers-alter-instruction-to-match-test-formats.md) — related
+- [Instructional systems that do not explicitly develop evaluative expertise set up artificial but potentially removable performance ceilings](missing-evaluative-expertise-creates-performance-ceilings.md) — related

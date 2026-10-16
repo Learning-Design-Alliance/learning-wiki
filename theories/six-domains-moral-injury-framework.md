@@ -2,7 +2,7 @@
 type: theory
 title: Six-domain framework of moral injury as the organizing structure for impact assessment
 description: "The article adopts the six domains of moral injury delineated by an international consortium (Litz et al.) as the syndromal definition of moral injury and the organizing structure of the interview's impact section: al..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

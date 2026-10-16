@@ -3,7 +3,7 @@ type: claim
 title: Ministry of Education-affiliated students averaged 2.3 years to graduation, faster than PCAA (Head Start) and unaffiliated students
 description: Ministry of Education-affiliated students averaged 2.3 years to graduation, faster than PCAA (Head Start) and unaffiliated students
 id: moe-affiliated-students-faster-graduation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

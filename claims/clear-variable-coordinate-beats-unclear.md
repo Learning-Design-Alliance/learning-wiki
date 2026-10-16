@@ -3,7 +3,7 @@ type: claim
 title: A clear variable coordinate lesson produced higher achievement than an unclear lesson with the same concept structure on all five measures
 description: A clear variable coordinate lesson produced higher achievement than an unclear lesson with the same concept structure on all five measures
 id: clear-variable-coordinate-beats-unclear
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

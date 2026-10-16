@@ -3,7 +3,7 @@ type: claim
 title: MAP Growth RIT scores correlate strongly (r = 0.92–0.93) with state summative mathematics scores in the Minnesota MCA-III linking study
 description: MAP Growth RIT scores correlate strongly (r = 0.92–0.93) with state summative mathematics scores in the Minnesota MCA-III linking study
 id: map-growth-rit-strongly-correlates-state-summative-mca-iii
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

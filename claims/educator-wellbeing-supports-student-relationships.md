@@ -3,7 +3,7 @@ type: claim
 title: Educator social-emotional competency and wellbeing contribute to warm student-teacher relationships and to trusted adults who model stress management for students
 description: Educator social-emotional competency and wellbeing contribute to warm student-teacher relationships and to trusted adults who model stress management for students
 id: educator-wellbeing-supports-student-relationships
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

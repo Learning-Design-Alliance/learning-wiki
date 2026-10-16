@@ -2,7 +2,7 @@
 type: theory
 title: Four basic determinants of spatial adequacy in educational specifications
 description: "The paper organizes educational specifications around four determinants of spatial adequacy: gross activities and sub-group organization, number of students in the space, services required, and location within the sch..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

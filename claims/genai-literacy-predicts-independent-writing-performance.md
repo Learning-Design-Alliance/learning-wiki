@@ -3,7 +3,7 @@ type: claim
 title: GenAI literacy predicted immediate independent writing performance after AI removal for Visual Data Integration, Critical Thinking, and overall Composite Score
 description: GenAI literacy predicted immediate independent writing performance after AI removal for Visual Data Integration, Critical Thinking, and overall Composite Score
 id: genai-literacy-predicts-independent-writing-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

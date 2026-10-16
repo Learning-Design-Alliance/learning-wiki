@@ -3,7 +3,7 @@ type: strategy
 id: four-practices-implementing-admissions-portfolio
 title: Four recommended practices for implementing an admissions portfolio system
 description: "The report relays the 2022 Reimagining College Access tool's recommended practices for institutions implementing an admissions portfolio: know your \"why\" for requesting different or additional information; determine w..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

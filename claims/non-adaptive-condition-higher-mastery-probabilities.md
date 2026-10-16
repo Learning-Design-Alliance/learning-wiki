@@ -3,7 +3,7 @@ type: claim
 title: Students in the non-adaptive condition reached significantly higher average mastery probabilities than students in the adaptive condition
 description: Students in the non-adaptive condition reached significantly higher average mastery probabilities than students in the adaptive condition
 id: non-adaptive-condition-higher-mastery-probabilities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

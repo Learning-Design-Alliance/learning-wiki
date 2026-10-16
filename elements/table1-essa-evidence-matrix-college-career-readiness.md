@@ -3,7 +3,7 @@ type: element
 id: table1-essa-evidence-matrix-college-career-readiness
 title: Table 1 evidence matrix mapping interventions to ESSA evidence tiers across eleven outcome domains
 description: "Table 1 summarizes, for each of 15 interventions, the outcome domains for which WWC-reviewed evidence meets ESSA Tier 1, Tier 2, or Tier 3 requirements, spanning domains from high school attendance through \"Employment..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

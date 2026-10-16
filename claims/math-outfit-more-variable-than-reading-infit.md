@@ -3,7 +3,7 @@ type: claim
 title: Mathematics items showed more variation in fit statistics than Reading items, and outfit statistics varied more than infit statistics
 description: Mathematics items showed more variation in fit statistics than Reading items, and outfit statistics varied more than infit statistics
 id: math-outfit-more-variable-than-reading-infit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

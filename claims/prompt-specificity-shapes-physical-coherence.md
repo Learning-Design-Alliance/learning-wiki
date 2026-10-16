@@ -3,7 +3,7 @@ type: claim
 title: The authors observe that more specific physical descriptions in generation prompts tend to produce more physically coherent AI-generated motion
 description: The authors observe that more specific physical descriptions in generation prompts tend to produce more physically coherent AI-generated motion
 id: prompt-specificity-shapes-physical-coherence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

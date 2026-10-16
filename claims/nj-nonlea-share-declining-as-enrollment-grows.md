@@ -3,7 +3,7 @@ type: claim
 title: "New Jersey's share of children served in non-LEA settings is declining as state preschool enrollment grows because newly expanding LEAs are not mandated to subcontract"
 description: "New Jersey's share of children served in non-LEA settings is declining as state preschool enrollment grows because newly expanding LEAs are not mandated to subcontract"
 id: nj-nonlea-share-declining-as-enrollment-grows
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: element
 id: short-story-explicit-strategy-instruction-package
 title: Short-story-based explicit strategy instruction package (strategy presentations, in-class examples, and student products)
 description: An instructional package combining researcher-developed strategy presentations with English short story books.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

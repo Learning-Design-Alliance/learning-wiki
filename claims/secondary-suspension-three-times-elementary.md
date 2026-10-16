@@ -3,7 +3,7 @@ type: claim
 title: Secondary school students are suspended at more than three times the rate of elementary school students, and recent declines were concentrated in secondary schools
 description: Secondary school students are suspended at more than three times the rate of elementary school students, and recent declines were concentrated in secondary schools
 id: secondary-suspension-three-times-elementary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: magma-math-professional-learning-strategy
 title: Implement Magma Math with onboarding plus ongoing professional learning on data-driven instruction, discourse routines, and intervention
 description: "The program's implementation model pairs classroom use with structured professional learning."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

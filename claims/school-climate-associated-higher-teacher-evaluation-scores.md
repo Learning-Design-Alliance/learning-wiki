@@ -3,7 +3,7 @@ type: claim
 title: Teachers in schools with better organizational and learning climates have higher value-added and observation scores, even compared with schools serving similar students
 description: Teachers in schools with better organizational and learning climates have higher value-added and observation scores, even compared with schools serving similar students
 id: school-climate-associated-higher-teacher-evaluation-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

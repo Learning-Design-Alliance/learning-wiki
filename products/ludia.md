@@ -4,7 +4,7 @@ id: ludia
 title: LUDIA
 description: LUDIA is a browser-based, private, multilingual AI thought-partner tool developed by Stark et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

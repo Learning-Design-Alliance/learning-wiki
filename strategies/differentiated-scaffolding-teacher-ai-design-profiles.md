@@ -3,7 +3,7 @@ type: strategy
 id: differentiated-scaffolding-teacher-ai-design-profiles
 title: "Provide differentiated scaffolding matched to teachers' behavioral-cognitive profiles when supporting multi-agent AI workflow design"
 description: "The article recommends tailoring support to teacher profiles: \"Cluster 3 requires structured templates and real-time assistance to overcome low self-efficacy; Cluster 2 benefits from pedagogical frameworks and exempla..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -60,4 +60,4 @@ The article recommends tailoring support to teacher profiles: "Cluster 3 require
 -
 
 ## Key Sources
-- Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2025). Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design. https://arxiv.org/abs/2605.13906
+- Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2025). Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design. https://arxiv.org/abs/2605.13906. [doi:10.48550/arxiv.2605.13906](https://doi.org/10.48550/arxiv.2605.13906)

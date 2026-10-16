@@ -3,7 +3,7 @@ type: claim
 title: Comparison classrooms in the qualifying study were district-matched traditional classrooms, but baseline equivalence required adjustment
 description: Comparison classrooms in the qualifying study were district-matched traditional classrooms, but baseline equivalence required adjustment
 id: kerstyn-matched-comparison-baseline-adjustment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

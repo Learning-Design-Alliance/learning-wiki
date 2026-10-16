@@ -4,7 +4,7 @@ title: Some bias may remain in nonexperimental estimates even when rich pre-inte
 description: Some bias may remain in nonexperimental estimates even when rich pre-intervention data are used
 id: residual-bias-nonexperimental-estimators
 aliases: [predictive-baseline-data-reduces-nonexperimental-bias]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

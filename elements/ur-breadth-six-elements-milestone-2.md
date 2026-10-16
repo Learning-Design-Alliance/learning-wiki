@@ -3,7 +3,7 @@ type: element
 id: ur-breadth-six-elements-milestone-2
 title: "Research breadth taxonomy: six structure-focused elements, each at minimum Milestone 2 for high impact"
 description: "The research breadth layer contains six elements focused on the structure of the research experience: originality of research, systematic disciplinary inquiry, evaluated research process work, activities emphasizing r..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

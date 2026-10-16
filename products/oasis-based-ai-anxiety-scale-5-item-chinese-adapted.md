@@ -4,7 +4,7 @@ id: oasis-based-ai-anxiety-scale-5-item-chinese-adapted
 title: OASIS-based AI Anxiety Scale (5-item, Chinese-adapted)
 description: A five-item Chinese-adapted self-report scale developed by Duan et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

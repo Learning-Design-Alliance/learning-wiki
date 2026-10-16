@@ -3,7 +3,7 @@ type: claim
 title: Risk-of-bias classification is the only robust moderator of GenAI writing effects, with unrated studies showing significantly larger effects than high-risk studies
 description: Risk-of-bias classification is the only robust moderator of GenAI writing effects, with unrated studies showing significantly larger effects than high-risk studies
 id: risk-of-bias-moderates-genai-writing-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

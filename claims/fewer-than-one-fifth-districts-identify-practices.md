@@ -3,7 +3,7 @@ type: claim
 title: Fewer than one fifth of districts with Portraits have taken the step of identifying actionable Practices within their Skill Sets
 description: Fewer than one fifth of districts with Portraits have taken the step of identifying actionable Practices within their Skill Sets
 id: fewer-than-one-fifth-districts-identify-practices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

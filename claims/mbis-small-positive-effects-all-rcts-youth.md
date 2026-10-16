@@ -3,7 +3,7 @@ type: claim
 title: Across all RCTs, mindfulness-based interventions significantly improve mindfulness, executive functioning, attention, depression, anxiety/stress and negative behaviours in youth, with small effect sizes
 description: Across all RCTs, mindfulness-based interventions significantly improve mindfulness, executive functioning, attention, depression, anxiety/stress and negative behaviours in youth, with small effect sizes
 id: mbis-small-positive-effects-all-rcts-youth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

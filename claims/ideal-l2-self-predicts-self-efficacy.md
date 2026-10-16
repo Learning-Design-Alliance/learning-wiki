@@ -3,7 +3,7 @@ type: claim
 title: Ideal L2 self positively and significantly predicts student self-efficacy, generalizing prior qualitative findings quantitatively
 description: Ideal L2 self positively and significantly predicts student self-efficacy, generalizing prior qualitative findings quantitatively
 id: ideal-l2-self-predicts-self-efficacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

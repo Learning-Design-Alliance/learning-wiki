@@ -3,7 +3,7 @@ type: strategy
 id: assess-process-over-product-staged-tasks
 title: Assess process over product using staged, connected tasks with iterative evidence
 description: This strategy designs assessments as sequences of interconnected tasks with guidance at each stage, assessing the workflow rather than only the final output.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

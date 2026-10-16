@@ -3,7 +3,7 @@ type: claim
 title: Effects favoring the curriculum-plus-service-learning condition over service-learning alone appeared only for ethical awareness and ethical perspective
 description: Effects favoring the curriculum-plus-service-learning condition over service-learning alone appeared only for ethical awareness and ethical perspective
 id: bds-curriculum-adds-beyond-service-learning-alone
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

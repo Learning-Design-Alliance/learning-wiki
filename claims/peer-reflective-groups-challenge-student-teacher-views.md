@@ -3,7 +3,7 @@ type: claim
 title: Peer reflective groups encourage student teachers to challenge existing theories and model collaborative professional development
 description: Peer reflective groups encourage student teachers to challenge existing theories and model collaborative professional development
 id: peer-reflective-groups-challenge-student-teacher-views
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

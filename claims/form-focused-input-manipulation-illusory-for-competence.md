@@ -3,7 +3,7 @@ type: claim
 title: Successes of form-focused manipulation of input in adult L2 are illusory with respect to linguistic competence, affecting only performance
 description: Successes of form-focused manipulation of input in adult L2 are illusory with respect to linguistic competence, affecting only performance
 id: form-focused-input-manipulation-illusory-for-competence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28
@@ -51,3 +51,4 @@ The author's review of studies on input manipulation in adult second language ac
 - [Informal evidence that adults do not automatically process input to develop competence reopens the role of grammar instruction (as reported by the bibliography, citing Terrell)](input-processing-insufficient-for-adult-competence-terrell.md) — reports the opposite
 - Grammar instruction and skill drills show little carryover to composition success — a narrower finding that bears on this claim
 - [Effects of linguistic comprehension instruction differ by outcome domain: small for vocabulary and grammar, moderate for narrative and listening comprehension](differential-language-outcomes-small-vocabulary-grammar-moderate-narrative-listening.md) — related
+- [A controlled experiment tested whether various types of negative feedback affect adult second-language learners' acquisition of abstract constraints on an overgeneralized rule (the English dative alternation).](negative-feedback-types-dative-alternation-experiment.md) — related

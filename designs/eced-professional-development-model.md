@@ -3,7 +3,7 @@ type: design
 id: eced-professional-development-model
 title: "ECED professional development model: institute, site visits, and monthly check-ins across two years"
 description: "ECED's professional development combines an initial institute, recurring on-site visits, and regular remote check-ins."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: element
 id: mathematica-ecree-study-methods-documentation
 title: Mathematica Ecree study methods documentation
 description: A methods summary accompanying a series of findings briefs about the Ecree study.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Monitoring ideas was the metacognitive process with the greatest strategy variety, and its use was highest in the peer tutoring instruction group
 description: Monitoring ideas was the metacognitive process with the greatest strategy variety, and its use was highest in the peer tutoring instruction group
 id: monitoring-ideas-most-varied-metacognitive-process
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

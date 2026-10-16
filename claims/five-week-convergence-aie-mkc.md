@@ -3,7 +3,7 @@ type: claim
 title: Immediate experiential advantages in knowledge of cognition and engagement converged with the instructional group by five weeks
 description: Immediate experiential advantages in knowledge of cognition and engagement converged with the instructional group by five weeks
 id: five-week-convergence-aie-mkc
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

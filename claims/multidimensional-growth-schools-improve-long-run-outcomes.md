@@ -3,7 +3,7 @@ type: claim
 title: "High schools that foster 8th-to-9th-grade student growth across multiple dimensions positively influence students' social and academic trajectories"
 description: "High schools that foster 8th-to-9th-grade student growth across multiple dimensions positively influence students' social and academic trajectories"
 id: multidimensional-growth-schools-improve-long-run-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

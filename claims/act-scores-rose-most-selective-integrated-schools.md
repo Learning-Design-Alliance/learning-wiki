@@ -3,7 +3,7 @@ type: claim
 title: ACT scores rose even with more test takers, growing most in Era 3 in selective enrollment and racially integrated schools
 description: ACT scores rose even with more test takers, growing most in Era 3 in selective enrollment and racially integrated schools
 id: act-scores-rose-most-selective-integrated-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ id: lecturaagents
 title: LecturaAgents
 description: LecturaAgents is a hierarchical multi-agent AI framework developed by Jaward Sesay and colleagues for generating and delivering personalized lectures using learner profiles, specialized agents, and embodied presentation.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

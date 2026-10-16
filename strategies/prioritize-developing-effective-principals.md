@@ -3,7 +3,7 @@ type: strategy
 id: prioritize-developing-effective-principals
 title: States and districts should treat identifying and developing effective principals as a priority given the central importance of school leadership
 description: The fact sheet directs state and district attention to school leadership as a lever for improvement.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

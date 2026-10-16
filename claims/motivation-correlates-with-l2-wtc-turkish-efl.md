@@ -3,7 +3,7 @@ type: claim
 title: Motivation correlates positively and significantly with L2 willingness to communicate among Turkish EFL preparatory students
 description: Motivation correlates positively and significantly with L2 willingness to communicate among Turkish EFL preparatory students
 id: motivation-correlates-with-l2-wtc-turkish-efl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

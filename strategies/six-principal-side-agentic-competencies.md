@@ -3,7 +3,7 @@ type: strategy
 id: six-principal-side-agentic-competencies
 title: Develop six structurally new principal-side competencies for agentic AI contexts
 description: "The paper proposes that the transition from generative to agentic AI demands new principal-side competencies in \"delegation (understanding what authority one is granting)\", oversight, accountability attribution, attac..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -47,4 +47,4 @@ The paper proposes that the transition from generative to agentic AI demands new
 -
 
 ## Key Sources
-- Nama, R. (2026). Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named. Author's accepted manuscript, AI and Ethics (Springer Nature). https://arxiv.org/abs/2605.27396
+- Nama, R. (2026). Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named. Author's accepted manuscript, AI and Ethics (Springer Nature). https://arxiv.org/abs/2605.27396. [doi:10.48550/arxiv.2605.27396](https://doi.org/10.48550/arxiv.2605.27396)

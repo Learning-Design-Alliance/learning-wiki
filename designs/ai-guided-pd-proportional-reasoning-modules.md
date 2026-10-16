@@ -3,7 +3,7 @@ type: design
 id: ai-guided-pd-proportional-reasoning-modules
 title: Ten-module AI-guided asynchronous PD program on proportional reasoning with eight designed AI-mediated mechanisms
 description: The AI-guided PD comprised ten asynchronous modules completed across one academic semester, typically requiring 30-45 hours, each centered on rate and proportional reasoning.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

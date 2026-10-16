@@ -3,7 +3,7 @@ type: strategy
 id: monitor-local-affect-trajectories-in-cps-systems
 title: Affect-aware CPS systems should monitor local trajectories of confusion and disengagement over time rather than responding to isolated affective signals
 description: The article recommends that AI systems assisting collaborative problem solving be designed to recognize the difference between productive struggle that warrants silence and struggle-free disengagement that requires in...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

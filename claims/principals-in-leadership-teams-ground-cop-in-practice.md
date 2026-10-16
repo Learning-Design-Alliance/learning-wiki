@@ -3,7 +3,7 @@ type: claim
 title: Integrating principals into district MiC leadership teams grounded CoP conversations in practice and helped teams interpret school-level achievement data
 description: Integrating principals into district MiC leadership teams grounded CoP conversations in practice and helped teams interpret school-level achievement data
 id: principals-in-leadership-teams-ground-cop-in-practice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

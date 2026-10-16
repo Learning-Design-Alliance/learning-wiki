@@ -3,7 +3,7 @@ type: research-method
 id: what-works-clearinghouse-evidence-based-standards-for-reviewing-transition-program-researc
 title: What Works Clearinghouse evidence-based standards for reviewing transition program research
 description: The review applies a structured evidence-rating framework in which programs receive categorical effectiveness ratings such as mixed effects and potentially positive effects for specific outcome domains like employment, postsecondary education, and independent living.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

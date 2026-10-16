@@ -3,7 +3,7 @@ type: claim
 title: IRAT performance shows a stronger association with final exam performance than TRAT performance does
 description: IRAT performance shows a stronger association with final exam performance than TRAT performance does
 id: irat-stronger-final-exam-association-than-trat
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

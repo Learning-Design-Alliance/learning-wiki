@@ -3,7 +3,7 @@ type: design
 id: engineering-design-six-step-ict-sequence
 title: Six-step engineering design process as the teaching and learning sequence
 description: "The model's teaching and learning process follows the engineering design process with six steps: \"problem identification, related information search, solution design, planning and development, testing evaluation, and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: The WWC found Voyager Universal Literacy System® had potentially negative effects on comprehension
 description: The WWC found Voyager Universal Literacy System® had potentially negative effects on comprehension
 id: voyager-potentially-negative-comprehension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

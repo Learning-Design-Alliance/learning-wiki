@@ -3,7 +3,7 @@ type: claim
 title: The ten-construct instrument showed strong psychometric quality, with the four ARCS dimensions forming a psychometrically sound higher-order motivation construct
 description: The ten-construct instrument showed strong psychometric quality, with the four ARCS dimensions forming a psychometrically sound higher-order motivation construct
 id: utaut3-arcs-instrument-psychometric-validity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Explanation-seeking interaction depth is positively associated with task quality beyond baseline knowledge and volume
 description: Explanation-seeking interaction depth is positively associated with task quality beyond baseline knowledge and volume
 id: depth-predicts-task-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

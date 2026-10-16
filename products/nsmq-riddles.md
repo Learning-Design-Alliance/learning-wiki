@@ -4,7 +4,7 @@ id: nsmq-riddles
 title: NSMQ Riddles
 description: "A benchmark dataset created by George Boateng and colleagues containing 1,840 scientific and mathematical riddles from Ghana's National Science and Maths Quiz for evaluating automated question-answering systems."
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

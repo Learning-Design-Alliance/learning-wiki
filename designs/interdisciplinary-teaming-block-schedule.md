@@ -3,7 +3,7 @@ type: design
 id: interdisciplinary-teaming-block-schedule
 title: Interdisciplinary teacher teams with a block of time and common planning as the middle school organizational core
 description: "The proposed organization standards specify that \"Teachers are organized into interdisciplinary teams to provide instruction in the core subjects of reading, language arts, science, mathematics, and social studies,\" s..."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

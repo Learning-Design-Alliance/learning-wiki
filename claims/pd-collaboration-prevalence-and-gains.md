@@ -3,7 +3,7 @@ type: claim
 title: Collaboration appeared in 32 of 35 reviewed studies, and collaborative PD models showed student achievement gains
 description: Collaboration appeared in 32 of 35 reviewed studies, and collaborative PD models showed student achievement gains
 id: pd-collaboration-prevalence-and-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

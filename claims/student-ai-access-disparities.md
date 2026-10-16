@@ -3,7 +3,7 @@ type: claim
 title: Access and resource disparities in AI usage widen divides among postsecondary students
 description: Access and resource disparities in AI usage widen divides among postsecondary students
 id: student-ai-access-disparities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

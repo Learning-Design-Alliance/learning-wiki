@@ -3,7 +3,7 @@ type: claim
 title: Staff raised equity concerns that students who pay for upgraded GenAI tools gain an advantage over peers using free versions
 description: Staff raised equity concerns that students who pay for upgraded GenAI tools gain an advantage over peers using free versions
 id: paid-ai-tool-access-equity-advantage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -4,7 +4,7 @@ id: eduguard
 title: EduGuard
 description: EduGuard is a safe AI tutoring architecture that combines instructor-approved retrieval, pedagogical strategy selection, rubric-aware generation, claim verification, and overreliance control for programming education.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

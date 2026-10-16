@@ -3,7 +3,7 @@ type: claim
 title: Highest-performing teachers moved students up 4 to 14 percentile points per school year relative to the average district teacher
 description: Highest-performing teachers moved students up 4 to 14 percentile points per school year relative to the average district teacher
 id: highest-performing-teachers-4-to-14-percentile-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

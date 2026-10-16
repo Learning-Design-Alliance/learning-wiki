@@ -3,7 +3,7 @@ type: claim
 title: Schools weak in most essential supports were four to five times more likely to stagnate than schools with strong overall organizational capacity
 description: Schools weak in most essential supports were four to five times more likely to stagnate than schools with strong overall organizational capacity
 id: weak-essential-supports-four-to-five-times-stagnation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

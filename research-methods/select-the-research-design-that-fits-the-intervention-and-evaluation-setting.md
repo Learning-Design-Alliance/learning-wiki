@@ -3,7 +3,7 @@ type: research-method
 id: select-the-research-design-that-fits-the-intervention-and-evaluation-setting
 title: Select the research design that fits the intervention and evaluation setting
 description: The article recommends that school health researchers take practical steps to ensure high-quality evidence, beginning with design choice.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-13

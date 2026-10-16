@@ -3,7 +3,7 @@ type: claim
 title: Districts report recurring pain points in edtech evaluation, including no formal process, curriculum–technology team disconnects, uneven evaluation depth, and outdated tool inventories
 description: Districts report recurring pain points in edtech evaluation, including no formal process, curriculum–technology team disconnects, uneven evaluation depth, and outdated tool inventories
 id: district-edtech-evaluation-pain-points
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

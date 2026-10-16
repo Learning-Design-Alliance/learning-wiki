@@ -3,7 +3,7 @@ type: strategy
 id: incremental-free-tier-ai-adoption-with-triple-review
 title: Adopt AI incrementally in waves from simple to complex tasks, on free-tier tools, with mandatory multi-step human review before any document is issued
 description: "This strategy packages the article's operational recommendations for public units adopting generative AI under budget constraints."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

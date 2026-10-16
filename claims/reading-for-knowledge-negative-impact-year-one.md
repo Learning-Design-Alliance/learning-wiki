@@ -3,7 +3,7 @@ type: claim
 title: "Reading for Knowledge had a statistically significant negative impact on students' reading comprehension scores in the study's first year"
 description: "Reading for Knowledge had a statistically significant negative impact on students' reading comprehension scores in the study's first year"
 id: reading-for-knowledge-negative-impact-year-one
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

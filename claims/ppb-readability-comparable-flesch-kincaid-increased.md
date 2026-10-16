@@ -3,7 +3,7 @@ type: claim
 title: PPB maintained comparable readability on three of four measures while increasing Flesch-Kincaid toward grade level
 description: PPB maintained comparable readability on three of four measures while increasing Flesch-Kincaid toward grade level
 id: ppb-readability-comparable-flesch-kincaid-increased
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

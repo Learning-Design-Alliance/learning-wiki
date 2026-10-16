@@ -3,7 +3,7 @@ type: research-method
 id: remnant-based-covariate-adjustment-reloop
 title: Remnant-based covariate adjustment (ReLOOP+)
 description: "This principle directs platform researchers analyzing randomized experiments to train outcome-prediction models on log data from non-experimental ('remnant') users and incorporate those predictions, together with within-sample covariates, into design-based covariate-adjusted estimators such as ReLOO"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

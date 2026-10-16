@@ -3,7 +3,7 @@ type: claim
 title: "Experts rate the model's individual elements as appropriate at the highest level overall (Mean = 4.65, S.D. = 0.27), with learning achievement output rated High"
 description: "Experts rate the model's individual elements as appropriate at the highest level overall (Mean = 4.65, S.D."
 id: cilm-individual-elements-assessment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

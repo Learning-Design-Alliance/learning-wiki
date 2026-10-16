@@ -3,7 +3,7 @@ type: claim
 title: Effective tutoring behavior emerges from the dynamic interaction of self-, user-, and context-knowledge rather than from isolated knowledge
 description: Effective tutoring behavior emerges from the dynamic interaction of self-, user-, and context-knowledge rather than from isolated knowledge
 id: gsr-knowledge-type-interdependencies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

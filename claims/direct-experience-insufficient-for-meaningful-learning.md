@@ -3,7 +3,7 @@ type: claim
 title: Feuerstein argues learning through direct, unmediated experience cannot yield meaningful learning or full modifiability
 description: Feuerstein argues learning through direct, unmediated experience cannot yield meaningful learning or full modifiability
 id: direct-experience-insufficient-for-meaningful-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

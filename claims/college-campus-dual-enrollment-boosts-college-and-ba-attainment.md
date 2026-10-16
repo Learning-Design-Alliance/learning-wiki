@@ -3,7 +3,7 @@ type: claim
 title: "Dual enrollment classes taken on college campuses increase students' likelihood of attending college and earning a bachelor's degree"
 description: "Dual enrollment classes taken on college campuses increase students' likelihood of attending college and earning a bachelor's degree"
 id: college-campus-dual-enrollment-boosts-college-and-ba-attainment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -67,7 +67,7 @@ LEA works because it makes text personally meaningful and fully decodable within
 ## Examples
 - A kindergarten class visits a pumpkin patch, then dictates "We saw big pumpkins. Sam found a tiny one." onto a language experience chart; the class rereads it daily, hunts for the word *pumpkin*, and each child illustrates and copies one sentence.
 - An adult ESL tutor records a learner's account of immigrating as an "experience story," which becomes the learner's first sustained English text and the basis for vocabulary and grammar study.
-- **Reading Recovery** lessons incorporate writing and rereading of child-composed text, applying the same principle of literacy built on the child's own language.
+- **[Reading Recovery](../products/reading-recovery.md)** lessons incorporate writing and rereading of child-composed text, applying the same principle of literacy built on the child's own language.
 
 ## Key Sources
 - Stauffer, R. G. (1970). *The language-experience approach to the teaching of reading*. Harper & Row.

@@ -3,7 +3,7 @@ type: claim
 title: Observation behavior is predominantly associated with copied rather than original models, while Construction and Exploration draw more on original models
 description: Observation behavior is predominantly associated with copied rather than original models, while Construction and Exploration draw more on original models
 id: observation-pattern-predominantly-copied-models
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

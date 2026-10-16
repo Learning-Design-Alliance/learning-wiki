@@ -4,7 +4,7 @@ id: malalgolib
 title: MalAlgoLib
 description: MalAlgoLib, developed by Naiming Liu et al., is a graph-based library that generates linear-equation problems with correct and misconception-driven step-by-step solution traces for algebra learning and tutoring research.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

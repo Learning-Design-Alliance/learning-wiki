@@ -3,7 +3,7 @@ type: strategy
 id: two-instrument-quiz-oral-defense-assessment
 title: "Two-instrument assessment: AI-free coding quizzes plus verification-gated oral defenses of comment-stripped AI-assisted work"
 description: "The article's practical response to proxy collapse pairs weekly AI-free coding quizzes, which assess the white-box phase, with ten-minute one-on-one oral defenses of AI-assisted, comment-stripped project work, which a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

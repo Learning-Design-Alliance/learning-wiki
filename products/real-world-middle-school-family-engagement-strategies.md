@@ -3,7 +3,7 @@ type: product
 id: real-world-middle-school-family-engagement-strategies
 title: Real-world middle school family engagement strategies
 description: A playbook/framework that organizes middle-school family-engagement strategies and implementation guidance; its maker or operating organization is not identified in the supplied description.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

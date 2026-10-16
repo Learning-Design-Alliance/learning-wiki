@@ -3,7 +3,7 @@ type: claim
 title: The review planned meta‐analytic synthesis but could not use it because only one study met the inclusion criteria
 description: The review planned meta‐analytic synthesis but could not use it because only one study met the inclusion criteria
 id: planned-meta-analysis-unavailable-single-study
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

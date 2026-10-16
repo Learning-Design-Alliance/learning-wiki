@@ -4,7 +4,7 @@ id: annotated-student-utterance-emotion-dataset-224-turns-for-text-based-emotion
 title: Annotated student-utterance emotion dataset (224 turns) for text-based emotion recognition in math tutoring
 description: "Debanjana Kar et al.'s dataset contains 224 manually annotated MathDial-Bridge student turns with boredom, engagement, or neutral labels and polarity scores for developing emotion-recognition models in math tutoring dialogues."
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

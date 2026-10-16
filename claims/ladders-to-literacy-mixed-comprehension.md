@@ -3,7 +3,7 @@ type: claim
 title: Ladders to Literacy shows mixed effects on comprehension, with no statistically significant vocabulary effects in any study despite an average improvement index of +9
 description: Ladders to Literacy shows mixed effects on comprehension, with no statistically significant vocabulary effects in any study despite an average improvement index of +9
 id: ladders-to-literacy-mixed-comprehension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

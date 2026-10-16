@@ -3,7 +3,7 @@ type: element
 id: instructional-core-conditions-strategies-tools
 title: "Instructional core components: conditions, strategies, and tools"
 description: "Within the instructional core (Cohen & Ball, 1999), the framework defines three components educators can design: conditions (features of the learning environment such as a culture of belonging, norms valuing questioni..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

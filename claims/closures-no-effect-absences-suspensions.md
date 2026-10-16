@@ -4,7 +4,7 @@ title: School closures had no effect on absences or suspension rates for affecte
 description: School closures had no effect on absences or suspension rates for affected students
 id: closures-no-effect-absences-suspensions
 aliases: [closures-no-effect-absence-suspension-rates]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

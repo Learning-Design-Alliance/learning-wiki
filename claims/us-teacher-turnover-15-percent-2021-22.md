@@ -3,7 +3,7 @@ type: claim
 title: "Between 2020–21 and 2021–22, 15.1% of U.S. public school teachers moved schools or left the profession, and turnover is now about 20% higher than in 1992"
 description: "Between 2020–21 and 2021–22, 15.1% of U.S."
 id: us-teacher-turnover-15-percent-2021-22
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

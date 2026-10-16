@@ -3,7 +3,7 @@ type: claim
 title: Post-COVID classrooms show increased academic diversity in the composition and spread of student achievement levels
 description: Post-COVID classrooms show increased academic diversity in the composition and spread of student achievement levels
 id: post-covid-classrooms-academically-diverse-achievement-spread
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

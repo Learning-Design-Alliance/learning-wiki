@@ -3,7 +3,7 @@ type: strategy
 id: increase-task-size-to-force-fading
 title: Accomplish concreteness fading by incrementally increasing task size until physical manipulation becomes impractical
 description: "The article's fading was accomplished by starting with small-number permutations of physical cubes and incrementally increasing the number of cubes so that actual manipulation becomes impractical, creating pressure fo..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

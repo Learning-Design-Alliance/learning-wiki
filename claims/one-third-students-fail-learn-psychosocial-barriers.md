@@ -3,7 +3,7 @@ type: claim
 title: An estimated one-third of students fail to learn because of psychosocial problems that interfere with engagement in instruction
 description: An estimated one-third of students fail to learn because of psychosocial problems that interfere with engagement in instruction
 id: one-third-students-fail-learn-psychosocial-barriers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

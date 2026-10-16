@@ -3,7 +3,7 @@ type: claim
 title: Individual differences and program characteristics impact receptivity and effectiveness of school-based mindfulness training
 description: Individual differences and program characteristics impact receptivity and effectiveness of school-based mindfulness training
 id: individual-differences-program-characteristics-shape-mindfulness-effectiveness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

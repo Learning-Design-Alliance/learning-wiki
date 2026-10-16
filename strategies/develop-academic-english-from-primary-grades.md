@@ -3,7 +3,7 @@ type: strategy
 id: develop-academic-english-from-primary-grades
 title: Make development of formal, academic English a key instructional goal beginning in the primary grades, with dedicated curricula, daily integrated instruction, and teacher professional development
 description: "The guide's fourth recommendation, graded Low, directs schools to ensure that developing formal or academic English—\"the decontextualized language of the schools, the language of academic discourse, of texts, and of f..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

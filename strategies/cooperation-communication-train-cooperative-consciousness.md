@@ -3,7 +3,7 @@ type: strategy
 id: cooperation-communication-train-cooperative-consciousness
 title: "Emphasize cooperation and communication to train students' cooperative consciousness"
 description: "The article recommends that, because knowledge is the social construction of individuals and others by negotiation, \"students must cooperate and communicate with others\" in the process of constructing knowledge."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: design
 id: red-light-purple-light-dosage-circle-time
 title: Implement Red Light, Purple Light as short circle-time sessions twice weekly over eight weeks with trained teachers
 description: In the studies contributing to the WWC report, the program was delivered in low-dosage, repeated circle-time sessions rather than as a separate curriculum block.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-07

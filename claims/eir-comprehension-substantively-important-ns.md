@@ -3,7 +3,7 @@ type: claim
 title: EIR® had a positive, substantively important but statistically non-significant effect on first-grade reading comprehension
 description: EIR® had a positive, substantively important but statistically non-significant effect on first-grade reading comprehension
 id: eir-comprehension-substantively-important-ns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Review-reported experiment found output performed noticing and hypothesis-testing functions but no apparent metalinguistic function in L2 writing
 description: Review-reported experiment found output performed noticing and hypothesis-testing functions but no apparent metalinguistic function in L2 writing
 id: zhao-ping-output-functions-writing-experiment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

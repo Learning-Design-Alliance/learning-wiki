@@ -3,7 +3,7 @@ type: research-method
 id: four-layer-model-of-pedagogical-safety-for-educational-rl-with-the-reward-hacking-severity
 title: Four-layer model of pedagogical safety for educational RL with the Reward Hacking Severity Index
 description: "The article formalizes pedagogical safety as four constraint classes: \"Structural Safety (C1):Prerequisites are architecturally enforced via action masking\", progress safety (C2, windowed mastery gain), behavioral safety (C3, minimum cognitive demand), and alignment safety (C4, engagement coupled to"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

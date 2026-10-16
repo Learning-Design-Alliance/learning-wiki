@@ -3,7 +3,7 @@ type: claim
 title: Find the Fit led Upward Bound students to apply to more-selective colleges
 description: Find the Fit led Upward Bound students to apply to more-selective colleges
 id: find-the-fit-led-students-to-apply-to-more-selective-colleges
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

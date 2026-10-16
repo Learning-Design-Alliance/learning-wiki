@@ -3,7 +3,7 @@ type: claim
 title: Lessons in Character shows no discernible effects on student behavior
 description: Lessons in Character shows no discernible effects on student behavior
 id: lessons-in-character-no-discernible-behavior-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

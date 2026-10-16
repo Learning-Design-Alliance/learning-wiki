@@ -4,7 +4,7 @@ title: "Students' collective understanding during a physics tutorial alternates 
 description: "Students' collective understanding during a physics tutorial alternates repeatedly between two distinct interpretations of tickertape distance rather than changing once"
 id: student-understanding-alternates-between-local-coherences-tickertape
 aliases: [students-shift-multiple-times-between-distance-meanings]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

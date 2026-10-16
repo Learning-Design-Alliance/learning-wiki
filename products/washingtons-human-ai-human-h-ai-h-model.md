@@ -4,7 +4,7 @@ id: washingtons-human-ai-human-h-ai-h-model
 title: "Washington's Human-AI-Human (H-AI-H) model"
 description: A Washington State education-guidance framework that positions AI between human inquiry and human reflection, editing, and understanding so that it augments rather than replaces human judgment.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

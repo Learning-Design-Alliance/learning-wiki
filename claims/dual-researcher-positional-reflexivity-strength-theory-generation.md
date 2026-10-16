@@ -3,7 +3,7 @@ type: claim
 title: Drawing on the positional reflexivity of two researchers with distinct perspectives can function as a strength for cogenerating themes and theory in policy evaluation
 description: Drawing on the positional reflexivity of two researchers with distinct perspectives can function as a strength for cogenerating themes and theory in policy evaluation
 id: dual-researcher-positional-reflexivity-strength-theory-generation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

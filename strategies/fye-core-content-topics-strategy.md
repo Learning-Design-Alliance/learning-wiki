@@ -3,7 +3,7 @@ type: strategy
 id: fye-core-content-topics-strategy
 title: Cover campus resources, time management, study skills, career planning, cultural diversity, and student development in first year courses
 description: "The report describes the typical curricular content of first year experience courses: \"most first year experience courses are designed to introduce students to “campus resources, time management, study skills, career..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

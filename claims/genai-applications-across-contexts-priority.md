@@ -3,7 +3,7 @@ type: claim
 title: Students identify exploring GenAI applications across contexts as a second priority area for curriculum development
 description: Students identify exploring GenAI applications across contexts as a second priority area for curriculum development
 id: genai-applications-across-contexts-priority
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

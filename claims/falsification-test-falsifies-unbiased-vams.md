@@ -3,7 +3,7 @@ type: claim
 title: Theoretically and in simulations, the Rothstein test often falsifies unbiased VAMs and fails to falsify biased VAMs
 description: Theoretically and in simulations, the Rothstein test often falsifies unbiased VAMs and fails to falsify biased VAMs
 id: falsification-test-falsifies-unbiased-vams
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

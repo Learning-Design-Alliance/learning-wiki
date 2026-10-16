@@ -3,7 +3,7 @@ type: claim
 title: Estimates of the return to college selectivity fall substantially, often to near zero, when earnings are tracked from 1983 through 2007 and for a 1989 entering cohort
 description: Estimates of the return to college selectivity fall substantially, often to near zero, when earnings are tracked from 1983 through 2007 and for a 1989 entering cohort
 id: college-selectivity-earnings-return-near-zero-long-horizon
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -4,7 +4,7 @@ id: data-use-recommendations-for-state-district-system-developers
 aliases: [targeted-recommendations-promote-effective-data-use]
 title: Offer data-use recommendations and strategies targeted to state officials, district-level staff, and system developers
 description: The brief directs its guidance at specific role groups across the education system.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

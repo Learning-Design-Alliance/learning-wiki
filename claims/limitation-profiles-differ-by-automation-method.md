@@ -3,7 +3,7 @@ type: claim
 title: Reported limitation profiles differ by automation method, with prompt sensitivity especially frequent in LLM papers
 description: Reported limitation profiles differ by automation method, with prompt sensitivity especially frequent in LLM papers
 id: limitation-profiles-differ-by-automation-method
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

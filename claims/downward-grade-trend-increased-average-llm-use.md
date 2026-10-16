@@ -3,7 +3,7 @@ type: claim
 title: A downward trend in final grades is observed with increased average LLM use across all task types
 description: A downward trend in final grades is observed with increased average LLM use across all task types
 id: downward-grade-trend-increased-average-llm-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

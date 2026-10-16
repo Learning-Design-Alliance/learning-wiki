@@ -3,7 +3,7 @@ type: claim
 title: Time to plan, more than tools or training, was the largest reported barrier to implementing LVN strategies
 description: Time to plan, more than tools or training, was the largest reported barrier to implementing LVN strategies
 id: time-biggest-barrier-strategy-implementation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

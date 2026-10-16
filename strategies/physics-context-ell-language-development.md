@@ -3,7 +3,7 @@ type: strategy
 id: physics-context-ell-language-development
 title: Use physics and other observable sciences as a context for ELLs to build conceptual understanding while developing English competence
 description: "The authors recommend designing learning environments that depend on students' culturally mediated resources, stating that \"our data suggests the design of learning environments that depend on students' culturally med..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

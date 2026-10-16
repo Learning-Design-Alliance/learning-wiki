@@ -3,7 +3,7 @@ type: claim
 title: Workforce readiness for AI is widely acknowledged as a priority but implemented in concentrated pockets rather than coordinated across disciplines
 description: Workforce readiness for AI is widely acknowledged as a priority but implemented in concentrated pockets rather than coordinated across disciplines
 id: ai-workforce-readiness-concentrated-not-coordinated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

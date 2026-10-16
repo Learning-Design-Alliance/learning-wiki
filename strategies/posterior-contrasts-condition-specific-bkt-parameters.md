@@ -3,7 +3,7 @@ type: strategy
 id: posterior-contrasts-condition-specific-bkt-parameters
 title: Use posterior credible intervals on condition-specific BKT parameter contrasts to compare experimental conditions
 description: "The article demonstrates a concrete analysis recipe for educational experiments: fit a Multi BKT model with MCMC, compute marginal parameter estimates by averaging posterior draws over the levels of the complementary..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: KOKU improves lower-limb function, concerns about falling and health-related quality of life, but not mood, physical activity, fatigue or fall rate
 description: KOKU improves lower-limb function, concerns about falling and health-related quality of life, but not mood, physical activity, fatigue or fall rate
 id: koku-secondary-outcomes-mixed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

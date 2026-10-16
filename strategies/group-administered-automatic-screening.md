@@ -3,7 +3,7 @@ type: strategy
 id: group-administered-automatic-screening
 title: Group-administered, automatically scored screening to preserve instructional time
 description: "The report states that \"Any MAP Reading Fluency assessment can be administered in a group setting rather than one-on-one, which saves teachers valuable classroom instructional time.\" Audio is recorded and scored autom..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

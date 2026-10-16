@@ -3,7 +3,7 @@ type: claim
 title: LLM coders replicate many human discursive moves but lack questioning, adaptive responsiveness, and emotional expressiveness
 description: LLM coders replicate many human discursive moves but lack questioning, adaptive responsiveness, and emotional expressiveness
 id: claim-llms-replicate-discursive-moves-lack-questioning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

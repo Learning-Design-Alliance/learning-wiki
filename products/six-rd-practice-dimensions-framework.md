@@ -4,7 +4,7 @@ id: six-rd-practice-dimensions-framework
 title: "Six R&D Practice Dimensions Framework"
 description: "A framework from Research and Development in America's Schools that helps school systems assess and develop R&D practice across strategy, structure, intensity, spread, engagement, and evidence."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
@@ -66,7 +66,7 @@ The report organizes school-system R&D practices into six dimensions—strategy,
 - [Rd Enabling Conditions Four Types](../theories/rd-enabling-conditions-four-types.md)
 - [Professional Learning Communities defined by five dimensions with a four-stage development scale](../theories/plc-five-dimensions-four-stage-scale.md)
 - [Three-stage model of developing district computational thinking pathways: Getting Started, Getting Going, Getting Better](../theories/ct-pathway-development-stages.md)
-- [Five essentials framework of organizational supports for school improvement](../theories/five-essentials-framework-early-education-adaptation.md)
+- [Five essentials framework of organizational supports for school improvement](../theories/five-essential-supports-framework-ccsr.md)
 - [Student success systems framework: four essential elements for secondary schools](grad-partnership-student-success-systems.md)
 
 ## Examples

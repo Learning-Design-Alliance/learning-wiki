@@ -3,7 +3,7 @@ type: claim
 title: 8th grade growth mindset and academic behavior self-reports positively predicted 9th grade on-track status; performance avoidance did not
 description: 8th grade growth mindset and academic behavior self-reports positively predicted 9th grade on-track status; performance avoidance did not
 id: mindset-behavior-predict-on-track-performance-avoidance-does-not
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

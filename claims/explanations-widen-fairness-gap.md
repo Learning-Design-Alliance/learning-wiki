@@ -3,7 +3,7 @@ type: claim
 title: Providing explanations widens the human–AI gap in perceived fairness, with a larger fairness improvement in the teacher condition
 description: Providing explanations widens the human–AI gap in perceived fairness, with a larger fairness improvement in the teacher condition
 id: explanations-widen-fairness-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

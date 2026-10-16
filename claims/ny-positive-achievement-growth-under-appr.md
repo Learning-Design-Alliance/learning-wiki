@@ -3,7 +3,7 @@ type: claim
 title: New York students showed positive achievement and growth results under the APPR evaluation system
 description: New York students showed positive achievement and growth results under the APPR evaluation system
 id: ny-positive-achievement-growth-under-appr
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

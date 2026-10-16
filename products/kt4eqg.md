@@ -4,7 +4,7 @@ id: kt4eqg
 title: KT4EQG
 description: KT4EQG is a personalized question-generation system combining knowledge tracing, large-language-model generation, reinforcement learning, and an alignment verifier, developed by Xinyi Gao et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

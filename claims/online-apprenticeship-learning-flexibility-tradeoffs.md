@@ -3,7 +3,7 @@ type: claim
 title: Online apprenticeship learning offers greater flexibility than in-person learning despite implementation challenges for hybrid or remote options
 description: Online apprenticeship learning offers greater flexibility than in-person learning despite implementation challenges for hybrid or remote options
 id: online-apprenticeship-learning-flexibility-tradeoffs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

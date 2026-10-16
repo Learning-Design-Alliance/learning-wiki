@@ -3,7 +3,7 @@ type: claim
 title: "Four distinct GenAI chatbot adoption personas emerge: Cautious Achievers, Skeptical Utilitarians, Disengaged Doubters, and Engaged Enthusiasts"
 description: "Four distinct GenAI chatbot adoption personas emerge: Cautious Achievers, Skeptical Utilitarians, Disengaged Doubters, and Engaged Enthusiasts"
 id: four-genai-adoption-personas
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

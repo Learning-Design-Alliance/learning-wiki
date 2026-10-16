@@ -3,7 +3,7 @@ type: claim
 title: Undergraduate physics students react highly positively to the IF-AT format
 description: Undergraduate physics students react highly positively to the IF-AT format
 id: students-highly-positive-reaction-to-if-at
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Design-based research has demonstrated its potential as a methodology suitable to both research and design of technology-enhanced learning environments
 description: Design-based research has demonstrated its potential as a methodology suitable to both research and design of technology-enhanced learning environments
 id: dbr-suitable-for-research-and-design-of-teles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

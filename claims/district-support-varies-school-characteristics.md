@@ -3,7 +3,7 @@ type: claim
 title: District support for principals’ continuous improvement varies by school poverty and racial composition
 description: District support for principals’ continuous improvement varies by school poverty and racial composition
 id: district-support-varies-school-characteristics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: element
 id: competency-statement-three-element-format
 title: "Competency statement format: behavior, conditions, and minimal performance level"
 description: "A competency statement is the outcome objective for staff development: it specifies what educational personnel must know, do, or value to implement the educational improvement program."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

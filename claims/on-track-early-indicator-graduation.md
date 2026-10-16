@@ -4,7 +4,7 @@ title: Freshman on-track status is an early indicator correlated with later grad
 description: Freshman on-track status is an early indicator correlated with later graduation, and being off track correlates with dropping out
 id: on-track-early-indicator-graduation
 aliases: [freshman-on-track-early-indicator-kenwood]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Repetitivist group included significantly more lower-grade students while Multifunctionist group included more upper-grade students
 description: Repetitivist group included significantly more lower-grade students while Multifunctionist group included more upper-grade students
 id: repetitivist-lower-grade-multifunctionist-upper-grade
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

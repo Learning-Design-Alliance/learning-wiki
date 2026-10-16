@@ -3,7 +3,7 @@ type: design
 id: csub-residency-consortium-plc
 title: CSUB Teacher Residency Consortium, a monthly professional learning community of residency coordinators
 description: "The CSUB Teacher Residency Consortium is a professional learning community that brings together all of the university's residency coordinators monthly to align practices and share solutions across the seven residency..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

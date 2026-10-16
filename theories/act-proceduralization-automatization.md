@@ -2,7 +2,7 @@
 type: theory
 title: "ACT* (Adaptive Control of Thought): automatization as proceduralization of declarative knowledge through practice"
 description: "Anderson's ACT* model, described in the review as the most widely accepted theory of how automaticity is brought about, holds that knowledge starts as explicit declarative information, \"knowledge that,\" which is turne..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

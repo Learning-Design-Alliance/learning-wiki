@@ -3,7 +3,7 @@ type: claim
 title: Instructors reported that FORAP packaging reduced the initial effort to adopt and adapt PjBL activities, based on anecdotal feedback
 description: Instructors reported that FORAP packaging reduced the initial effort to adopt and adapt PjBL activities, based on anecdotal feedback
 id: forap-packaging-reduced-instructor-adoption-effort
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

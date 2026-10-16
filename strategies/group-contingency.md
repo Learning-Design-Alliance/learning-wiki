@@ -65,7 +65,7 @@ Group contingencies apply operant reinforcement at scale, converting peer attent
 - [Praise](praise.md) — teacher praise for group progress reinforces the contingency's criteria
 
 ## Examples
-- **Good Behavior Game** (PAX Good Behavior Game, https://www.paxis.org) — teams of students earn points for on-task behavior; widely studied with effects on both behavior and later academic outcomes.
+- **[Good Behavior Game](../products/good-behavior-game.md)** (PAX Good Behavior Game, https://www.paxis.org) — teams of students earn points for on-task behavior; widely studied with effects on both behavior and later academic outcomes.
 - **Classroom Dojo-style point systems** (https://www.classdojo.com) — digital group point tallies toward a class reward; effective when criteria are collective rather than individual leaderboards.
 - **Reading fluency sprint**: an interdependent contingency where the class must reach a combined words-read-correctly goal to earn a shared story time.
 

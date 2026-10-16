@@ -2,7 +2,7 @@
 type: theory
 title: "Census funding: a special education finance model based on total district enrollment"
 description: Census funding is a special education finance model used by several states and the federal government.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

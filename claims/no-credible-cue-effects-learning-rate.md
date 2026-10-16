@@ -3,7 +3,7 @@ type: claim
 title: No credible spacing or color cue effects on the BKT learning rate were observed in the perceptual-cue reanalysis
 description: No credible spacing or color cue effects on the BKT learning rate were observed in the perceptual-cue reanalysis
 id: no-credible-cue-effects-learning-rate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

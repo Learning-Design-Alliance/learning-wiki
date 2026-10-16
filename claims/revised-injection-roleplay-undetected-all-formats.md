@@ -3,7 +3,7 @@ type: claim
 title: A revised injection combining instruction manipulation and role-playing with an explicit do-not-mention instruction succeeded in all 9 iterations across docx, pdf, and htm formats
 description: A revised injection combining instruction manipulation and role-playing with an explicit do-not-mention instruction succeeded in all 9 iterations across docx, pdf, and htm formats
 id: revised-injection-roleplay-undetected-all-formats
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

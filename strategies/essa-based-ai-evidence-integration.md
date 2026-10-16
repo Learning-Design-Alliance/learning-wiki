@@ -3,7 +3,7 @@ type: strategy
 id: essa-based-ai-evidence-integration
 title: Build state AI evaluation on the ESSA evidence framework and integrate results into the existing education evidence base
 description: In their discussion, the authors call on state leaders to co-design guidance with communities and to build collaborative approaches on the Every Student Succeeds Act (ESSA) of 2015, which established transparency expe...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

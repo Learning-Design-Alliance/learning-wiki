@@ -3,7 +3,7 @@ type: design
 id: middle-school-biotechnology-fermented-drinks-lesson
 title: Middle school biotechnology fermented-drinks lesson demonstrating asset-based instruction and divergent formative assessment
 description: "A snapshot vignette of a middle school science lesson in which English learners at various proficiency levels work with non-English learner peers to apply biotechnology principles: researching fermented drinks made by..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

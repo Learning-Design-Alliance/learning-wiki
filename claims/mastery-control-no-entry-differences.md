@@ -3,7 +3,7 @@ type: claim
 title: Mastery and control groups show no significant differences in entry knowledge, academic self-concept, or affect toward education
 description: Mastery and control groups show no significant differences in entry knowledge, academic self-concept, or affect toward education
 id: mastery-control-no-entry-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

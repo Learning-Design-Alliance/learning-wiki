@@ -3,7 +3,7 @@ type: claim
 title: The simulated learner tracks a real-student KT model with calibration error 0.049, and the helpfulness rubric transfers to real classroom transcripts
 description: The simulated learner tracks a real-student KT model with calibration error 0.049, and the helpfulness rubric transfers to real classroom transcripts
 id: educlaw-bench-simulator-calibration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -18,8 +18,8 @@ sources:
     kind: design
     rigour: 2
   - id: lee-2026-2
-    resource: "https://arxiv.org/abs/2608.03206"
-    title: "Lee, U.; Lee, S.; Jeong, Y.; Lee, E.; Shin, M.; Kwon, H. (2026). EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners. https://arxiv.org/abs/2608.03206"
+    resource: "https://doi.org/10.48550/arxiv.2608.03206"
+    title: "Lee, U.; Lee, S.; Jeong, Y.; Lee, E.; Shin, M.; Kwon, H. (2026). EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners. https://arxiv.org/abs/2608.03206. [doi:10.48550/arxiv.2608.03206](https://doi.org/10.48550/arxiv.2608.03206)"
     author: Lee, U.; Lee, S.; Jeong, Y.; Lee, E.; Shin, M.; Kwon, H.
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # The simulated learner tracks a real-student KT model with calibration error 0.049, and the helpfulness rubric transfers to real classroom transcripts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Binning all 176,187 (run, day) pairs by predicted mastery against observed accuracy gives an Expected Calibration Error of 0.049 and Brier score of 0.033 over 1.19M item attempts. [→ Lee 2026](#lee-2026)
@@ -50,7 +50,7 @@ AKT-predicted KC mastery plotted against observed probe accuracy, with points hu
 
 ### Lee 2026 (2)
 
-Lee, U.; Lee, S.; Jeong, Y.; Lee, E.; Shin, M.; Kwon, H. (2026). EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners. https://arxiv.org/abs/2608.03206
+Lee, U.; Lee, S.; Jeong, Y.; Lee, E.; Shin, M.; Kwon, H. (2026). EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners. https://arxiv.org/abs/2608.03206. [doi:10.48550/arxiv.2608.03206](https://doi.org/10.48550/arxiv.2608.03206)
 
 `q2 · i?` · `design · r2`
 

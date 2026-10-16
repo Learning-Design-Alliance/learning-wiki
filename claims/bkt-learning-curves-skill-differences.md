@@ -3,7 +3,7 @@ type: claim
 title: Learning curves show error rates decreased for wind direction, air movement, and cloud type but stayed high for wind speed and precipitation skills
 description: Learning curves show error rates decreased for wind direction, air movement, and cloud type but stayed high for wind speed and precipitation skills
 id: bkt-learning-curves-skill-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

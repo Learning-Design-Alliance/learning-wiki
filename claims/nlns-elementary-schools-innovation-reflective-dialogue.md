@@ -3,7 +3,7 @@ type: claim
 title: Elementary schools with NLNS principals show greater innovation and reflective dialogue and less traditional literacy practice
 description: Elementary schools with NLNS principals show greater innovation and reflective dialogue and less traditional literacy practice
 id: nlns-elementary-schools-innovation-reflective-dialogue
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

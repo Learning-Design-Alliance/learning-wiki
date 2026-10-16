@@ -3,7 +3,7 @@ type: claim
 title: All three English Learner groups have lower mean math and reading achievement than the all-student average in kindergarten
 description: All three English Learner groups have lower mean math and reading achievement than the all-student average in kindergarten
 id: el-groups-lower-kindergarten-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

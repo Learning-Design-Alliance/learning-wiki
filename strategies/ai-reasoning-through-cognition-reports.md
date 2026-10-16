@@ -3,7 +3,7 @@ type: strategy
 id: ai-reasoning-through-cognition-reports
 title: Route AI reasoning through interpreted cognition reports rather than raw behavioural logs
 description: "The article recommends that AI agents should not reason directly from learner interaction traces; instead, \"Learner interactions should first undergo cognition-level interpretation through AI Tutor analysis and multi-..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -46,4 +46,4 @@ The article recommends that AI agents should not reason directly from learner in
 -
 
 ## Key Sources
-- Yuan, A. (2026). Expert Cognition Dashboard: From Learning Analytics to Cognition Intelligence in AI-Driven Education. https://arxiv.org/abs/2605.17263
+- Yuan, A. (2026). Expert Cognition Dashboard: From Learning Analytics to Cognition Intelligence in AI-Driven Education. https://arxiv.org/abs/2605.17263. [doi:10.48550/arxiv.2605.17263](https://doi.org/10.48550/arxiv.2605.17263)

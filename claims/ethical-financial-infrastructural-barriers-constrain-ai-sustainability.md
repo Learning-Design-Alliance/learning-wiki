@@ -3,7 +3,7 @@ type: claim
 title: Ethical, financial, and infrastructural barriers significantly constrain the long-term sustainability of AI-driven educational transformation in higher education
 description: Ethical, financial, and infrastructural barriers significantly constrain the long-term sustainability of AI-driven educational transformation in higher education
 id: ethical-financial-infrastructural-barriers-constrain-ai-sustainability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

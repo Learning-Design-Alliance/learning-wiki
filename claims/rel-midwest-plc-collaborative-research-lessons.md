@@ -3,7 +3,7 @@ type: claim
 title: A two-year professional learning community helped eight REL Midwest researchers identify collaborative-research challenges and apply solutions in their alliance work
 description: A two-year professional learning community helped eight REL Midwest researchers identify collaborative-research challenges and apply solutions in their alliance work
 id: rel-midwest-plc-collaborative-research-lessons
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

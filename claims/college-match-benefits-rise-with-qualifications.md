@@ -3,7 +3,7 @@ type: claim
 title: Attending a match college raises simulated four-year graduation probability by 13 percentage points for CPS students with access to very selective colleges, but college choice has little impact for students with low qualifications
 description: Attending a match college raises simulated four-year graduation probability by 13 percentage points for CPS students with access to very selective colleges, but college choice has little impact for students with low q...
 id: college-match-benefits-rise-with-qualifications
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

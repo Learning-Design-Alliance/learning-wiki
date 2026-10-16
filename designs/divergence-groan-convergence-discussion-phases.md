@@ -3,7 +3,7 @@ type: design
 id: divergence-groan-convergence-discussion-phases
 title: Divergence-groan-convergence participatory decision-making structure for group ethics discussion
 description: "The system structures each discussion stage around a participatory decision-making model comprising \"divergence (generating diverse ideas), groan (struggling with differences), and convergence (narrowing down to share..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10
@@ -46,4 +46,4 @@ The system structures each discussion stage around a participatory decision-maki
 -
 
 ## Key Sources
-- Seo, Y., Jang, S., Park, H., Gutierrez, R. S., Seering, J., & Lee, U. (2026). Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration. https://arxiv.org/abs/2609.11529
+- Seo, Y., Jang, S., Park, H., Gutierrez, R. S., Seering, J., & Lee, U. (2026). Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration. https://arxiv.org/abs/2609.11529. [doi:10.48550/arxiv.2609.11529](https://doi.org/10.48550/arxiv.2609.11529)

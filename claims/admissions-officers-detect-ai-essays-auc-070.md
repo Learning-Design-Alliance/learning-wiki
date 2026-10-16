@@ -3,7 +3,7 @@ type: claim
 title: Admissions officers can often discriminate AI-written from human-written essays, achieving an AUC of 0.70, well above chance but below commercial detectors
 description: Admissions officers can often discriminate AI-written from human-written essays, achieving an AUC of 0.70, well above chance but below commercial detectors
 id: admissions-officers-detect-ai-essays-auc-070
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

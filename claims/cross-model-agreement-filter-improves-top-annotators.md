@@ -3,7 +3,7 @@ type: claim
 title: Adding a cross-model agreement filter improves performance for the top three LLM annotators
 description: Adding a cross-model agreement filter improves performance for the top three LLM annotators
 id: cross-model-agreement-filter-improves-top-annotators
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -90,7 +90,7 @@ Connections work because they activate and integrate prior knowledge with new te
 - **[Reading Rockets](https://www.readingrockets.org)** — published lesson sequences and think-aloud scripts for modeling text-to-self, text-to-text, and text-to-world connections in grades K–8.
 - **[Perusall](https://www.perusall.com)** — social annotation platform where university students post connections as margin comments and respond to peers', making text-to-text and text-to-world links visible and discussable.
 - **IB Middle Years Programme language and literature units** — formally assess students' ability to connect texts to personal, cultural, and global contexts.
-- **Reading workshop (grades 6–12):** Students keep a three-column connection log while reading a novel; columns feed small-group discussion and a reflective essay.
+- **[Reading workshop](reading-workshop.md) (grades 6–12):** Students keep a three-column connection log while reading a novel; columns feed small-group discussion and a reflective essay.
 - **[Newsela](https://newsela.com)** — Leveled news articles paired with prompts that invite text-to-world connections to current events.
 - **[Facing History and Ourselves](https://www.facinghistory.org)** — Humanities curriculum that systematically connects texts to historical and contemporary world issues (text-to-world as the organizing move).
 

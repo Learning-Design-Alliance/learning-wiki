@@ -3,7 +3,7 @@ type: claim
 title: AI TA condition shows no statistically significant differences in perceived task-comprehension support, correctness, or interaction stress
 description: AI TA condition shows no statistically significant differences in perceived task-comprehension support, correctness, or interaction stress
 id: ai-ta-condition-no-effect-other-perceptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

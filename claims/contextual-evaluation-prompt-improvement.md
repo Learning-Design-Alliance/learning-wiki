@@ -3,7 +3,7 @@ type: claim
 title: Switching from reference-based to contextual evaluation prompts improved GenAI grading accuracy
 description: Switching from reference-based to contextual evaluation prompts improved GenAI grading accuracy
 id: contextual-evaluation-prompt-improvement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

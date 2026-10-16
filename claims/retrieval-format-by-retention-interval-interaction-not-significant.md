@@ -3,7 +3,7 @@ type: claim
 title: The effect of retrieval practice format on reading comprehension does not differ significantly between an immediate and a three-week-delayed final test
 description: The effect of retrieval practice format on reading comprehension does not differ significantly between an immediate and a three-week-delayed final test
 id: retrieval-format-by-retention-interval-interaction-not-significant
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

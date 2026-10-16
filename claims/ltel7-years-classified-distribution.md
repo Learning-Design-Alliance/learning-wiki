@@ -3,7 +3,7 @@ type: claim
 title: More than half of LTEL7 students were in their 7th, 8th, or 9th year of being classified as EL, and more than 20,000 had been classified for 12 or more years
 description: More than half of LTEL7 students were in their 7th, 8th, or 9th year of being classified as EL, and more than 20,000 had been classified for 12 or more years
 id: ltel7-years-classified-distribution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

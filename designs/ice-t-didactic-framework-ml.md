@@ -3,7 +3,7 @@ type: design
 id: ice-t-didactic-framework-ml
 title: "ICE-T: a didactic framework integrating intermodal transfer, computational thinking, and explanatory thinking for ML education"
 description: "ICE-T is a multi-faceted didactic framework for teaching machine learning whose name mnemonically captures its components: Intermodal Transfer grounded in Bruner's enactive-iconic-symbolic principle, Computational Thi..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

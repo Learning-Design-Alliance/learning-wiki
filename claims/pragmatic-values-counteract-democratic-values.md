@@ -3,7 +3,7 @@ type: claim
 title: Pragmatic values of keeping order counteracted the democratic values teachers were mandated to realise
 description: Pragmatic values of keeping order counteracted the democratic values teachers were mandated to realise
 id: pragmatic-values-counteract-democratic-values
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

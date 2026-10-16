@@ -2,7 +2,7 @@
 type: theory
 title: "Behaviorism as a learning theory: learning is the acquisition of new observable behavior, not a mental process"
 description: The review presents behaviorism, associated with B.F.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

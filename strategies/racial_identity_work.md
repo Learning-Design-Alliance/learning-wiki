@@ -126,7 +126,7 @@ Racial identity work functions as a form of [Scaffolding](../principles/scaffold
 ## Examples
 - **[Learning for Justice](https://www.learningforjustice.org)** (formerly Teaching Tolerance) — publishes identity-focused professional development frameworks, including the *Critical Practices for Anti-bias Education* guide, which places "Identity" and "Diversity" as the first domains of educator self-work.
 - **Teacher book-study cohorts** — district PD groups reading and discussing texts such as Hammonds's *Culturally Responsive Teaching and the Brain* (2015) with rotating facilitation and reflection journals.
-- **Equity audits** — teams analyzing their own discipline referral and achievement data disaggregated by race, then reflecting on their role in the patterns found.
+- **[Equity audits](equity-audits.md)** — teams analyzing their own discipline referral and achievement data disaggregated by race, then reflecting on their role in the patterns found.
 - **Tatum's (1992) "Talking about race" course design** — a semester-long psychology course using Cross's nigrescence model, structured dialogue, and writing to move students through racial identity development; the design is widely adapted for educator preparation.
 - **Glenn Singleton's [Courageous Conversation](https://courageousconversation.com)** — a protocol-based professional learning framework used in districts nationwide, combining identity work with sustained racial dialogue agreements.
 - **[Teaching Tolerance / Learning for Justice](https://www.learningforjustice.org)** — published professional development modules and identity-focused reflection tools for K–12 educators, including the "Critical Practices for Anti-bias Education" framework.

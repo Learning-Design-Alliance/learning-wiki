@@ -3,7 +3,7 @@ type: claim
 title: Science and literacy instruction are connected and mutually reinforcing
 description: Science and literacy instruction are connected and mutually reinforcing
 id: science-literacy-instruction-connection-partnership
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

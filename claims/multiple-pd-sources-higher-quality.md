@@ -3,7 +3,7 @@ type: claim
 title: Teachers drawing on a combination of professional development sources experience higher quality development than those drawing primarily on one source
 description: Teachers drawing on a combination of professional development sources experience higher quality development than those drawing primarily on one source
 id: multiple-pd-sources-higher-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

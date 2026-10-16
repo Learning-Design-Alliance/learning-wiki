@@ -3,7 +3,7 @@ type: claim
 title: The serial indirect effect of AI literacy on continued use is weaker at higher levels of AI anxiety (moderated mediation)
 description: The serial indirect effect of AI literacy on continued use is weaker at higher levels of AI anxiety (moderated mediation)
 id: moderated-mediation-anxiety-serial-path
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -2,7 +2,7 @@
 type: theory
 title: "Reinforcement framework for cognitive learning: imagery as perception-like experience producing learning under ordinary principles"
 description: The paper develops a provisional framework in which an organism equipped with many cognitive S-R habits responds to problem situations by reeling off imaged responses, one of which evokes imagined punishment or reinfo...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

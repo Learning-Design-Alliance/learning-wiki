@@ -3,7 +3,7 @@ type: claim
 title: After the Inclusive Innovation pilots, district-community teams sustained solutions through multi-level buy-in, implementation iteration, embedding in existing systems, and demonstrating benefits
 description: After the Inclusive Innovation pilots, district-community teams sustained solutions through multi-level buy-in, implementation iteration, embedding in existing systems, and demonstrating benefits
 id: inclusive-innovation-sustainability-factors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

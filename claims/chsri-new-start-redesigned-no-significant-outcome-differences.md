@@ -3,7 +3,7 @@ type: claim
 title: Outcome differences between CHSRI new-start and redesigned schools were not statistically significant after accounting for incoming student differences
 description: Outcome differences between CHSRI new-start and redesigned schools were not statistically significant after accounting for incoming student differences
 id: chsri-new-start-redesigned-no-significant-outcome-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

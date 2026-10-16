@@ -3,7 +3,7 @@ type: claim
 title: Interdisciplinary collaboration is fundamentally relational; tools assist but relationships make or break it
 description: Interdisciplinary collaboration is fundamentally relational; tools assist but relationships make or break it
 id: collaboration-fundamentally-relational
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: initiate-trauma-planning-before-school-year-start
 title: Initiate trauma-informed planning before the start of the school year
 description: The fact sheet recommends that schools begin trauma-informed planning before students return.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

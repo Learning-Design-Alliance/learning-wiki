@@ -4,7 +4,7 @@ id: rail-ed-framework
 title: RAIL-Ed framework
 description: A justice-centered framework proposed by Shahin Hossain et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

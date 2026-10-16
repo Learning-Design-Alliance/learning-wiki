@@ -4,7 +4,7 @@ id: four-domains-for-rapid-school-improvement
 title: Four Domains for Rapid School Improvement
 description: A Center on School Turnaround framework that organizes practices for state, district, and school leaders pursuing rapid school improvement.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

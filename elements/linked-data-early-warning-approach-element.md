@@ -3,7 +3,7 @@ type: element
 id: linked-data-early-warning-approach-element
 title: Linked school and human services data approach for predicting near-term academic risk
 description: "This element is the data-linkage approach developed by the partnership: school records are combined with \"data on child welfare events, justice system involvement, and other human services involvement and public benef..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

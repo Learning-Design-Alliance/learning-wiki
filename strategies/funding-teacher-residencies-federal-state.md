@@ -3,7 +3,7 @@ type: strategy
 id: funding-teacher-residencies-federal-state
 title: Sustain teacher residencies through blended federal and state funding, including TQP grants, ESSER funds, and dedicated state investments
 description: The report describes a range of funding sources states use to launch and sustain residencies.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

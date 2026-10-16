@@ -3,7 +3,7 @@ type: claim
 title: Four oral reading scores together best predict passage comprehension and enable individualized instruction
 description: Four oral reading scores together best predict passage comprehension and enable individualized instruction
 id: four-scores-predict-passage-comprehension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

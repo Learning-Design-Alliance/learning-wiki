@@ -3,7 +3,7 @@ type: claim
 title: Students whose teachers attended one or two PLI professional learning courses gained more on SBAC, with larger gains for two sessions than one
 description: Students whose teachers attended one or two PLI professional learning courses gained more on SBAC, with larger gains for two sessions than one
 id: pli-pd-dose-associated-with-student-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

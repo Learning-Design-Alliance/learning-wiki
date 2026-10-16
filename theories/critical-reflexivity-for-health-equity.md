@@ -2,7 +2,7 @@
 type: theory
 title: "Critical reflexivity as a fundamental skill for applying equity frameworks, drawing on Nixon's coin model"
 description: "The article presents critical reflexivity as \"a practice designed to locate oneself and others in the systems of power and oppression\" that must be understood to devise disruptive actions, calling it a fundamental ski..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

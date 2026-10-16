@@ -3,7 +3,7 @@ type: claim
 title: Colleges with higher percentages of academically disadvantaged students spent less per FTE student, suggesting possible resource inequities
 description: Colleges with higher percentages of academically disadvantaged students spent less per FTE student, suggesting possible resource inequities
 id: regressive-spending-academically-disadvantaged
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

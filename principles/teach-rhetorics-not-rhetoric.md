@@ -3,7 +3,7 @@ type: principle
 id: teach-rhetorics-not-rhetoric
 title: The basic course should teach rhetorics — multiple voices and how communities create public spheres — rather than a single rhetoric
 description: The fifth operationalization values a multiplicity of voices while developing a public language for critical democracy.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

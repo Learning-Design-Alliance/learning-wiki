@@ -3,7 +3,7 @@ type: claim
 title: Neighborhood crime rates differ dramatically between elementary schools students rate as safest and least safe
 description: Neighborhood crime rates differ dramatically between elementary schools students rate as safest and least safe
 id: neighborhood-crime-differs-safest-least-safe-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

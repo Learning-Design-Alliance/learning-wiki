@@ -3,7 +3,7 @@ type: claim
 title: Gateway math students benefit from a balance of social, active learning and independent practice, but faculty constraints limit active learning
 description: Gateway math students benefit from a balance of social, active learning and independent practice, but faculty constraints limit active learning
 id: balance-active-learning-independent-practice-gateway-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

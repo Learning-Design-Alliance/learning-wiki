@@ -3,7 +3,7 @@ type: strategy
 id: disaggregate-higher-ed-data-race-income
 title: Disaggregate all higher education data by race and income to reveal which student groups have which opportunities and outcomes
 description: "The report recommends that a reauthorized Higher Education Act require disaggregation \"by race and income all IPEDS and NSLDS data on critical measures of student success, like enrollment, persistence, retention, tran..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

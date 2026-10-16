@@ -3,7 +3,7 @@ type: strategy
 id: system-of-least-prompts-graceful-exit
 title: "System of Least Prompts: a four-step graduated scaffolding hierarchy ending in graceful exit with direct instruction"
 description: "When a student struggles, the AI proctor employs the System of Least Prompts, \"offering a strict hierarchy of scaffolding\": a general nudge, a specific cue, a targeted scaffold, and finally direct instruction."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

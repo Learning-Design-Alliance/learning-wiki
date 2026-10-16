@@ -3,7 +3,7 @@ type: claim
 title: Two READ 180 studies found statistically significant positive effects over control groups (Western Massachusetts +0.18; Milwaukee +0.14)
 description: Two READ 180 studies found statistically significant positive effects over control groups (Western Massachusetts +0.18; Milwaukee +0.14)
 id: read-180-significant-positive-effects-two-studies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

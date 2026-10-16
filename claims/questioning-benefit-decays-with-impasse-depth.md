@@ -3,7 +3,7 @@ type: claim
 title: "The association between tutor questioning and impasse recovery decays as impasses persist, while addressing the student's error becomes more beneficial"
 description: "The association between tutor questioning and impasse recovery decays as impasses persist, while addressing the student's error becomes more beneficial"
 id: questioning-benefit-decays-with-impasse-depth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

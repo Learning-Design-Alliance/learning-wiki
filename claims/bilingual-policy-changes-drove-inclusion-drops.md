@@ -3,7 +3,7 @@ type: claim
 title: Changes in CPS bilingual education testing policy drove drops in test-score inclusion, especially the fourth-grade inclusion drop in 1999 and the third-grade drop in 1997
 description: Changes in CPS bilingual education testing policy drove drops in test-score inclusion, especially the fourth-grade inclusion drop in 1999 and the third-grade drop in 1997
 id: bilingual-policy-changes-drove-inclusion-drops
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

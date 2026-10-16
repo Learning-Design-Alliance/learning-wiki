@@ -3,7 +3,7 @@ type: claim
 title: Coaches and principals in the DLP grew in confidence and skills over the year
 description: Coaches and principals in the DLP grew in confidence and skills over the year
 id: dlp-coach-principal-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: design
 id: reflective-culture-session-structure-pattern
 title: Semester-long reflective culture session structure for the EFL classroom
 description: "The article describes a recurring learning-session structure sustained for a whole semester, combining reflective description of everyday objects, stepping out of one's \"myness\" to examine professional identity, refle..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

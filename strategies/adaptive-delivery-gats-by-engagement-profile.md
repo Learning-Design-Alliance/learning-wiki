@@ -3,7 +3,7 @@ type: strategy
 id: adaptive-delivery-gats-by-engagement-profile
 title: Deliver AI-generated visual explanations adaptively based on learner engagement profiles rather than uniformly
 description: "The article recommends moving beyond a single representation for all learners: \"A single rep- resentation is unlikely to benefit all learners equally, and adaptive delivery based on, for example, engagement profiles m..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: flexible-discussion-groups-in-science
 title: Use Flexible Discussion Groups for Science Content Analysis
 description: Discussion groups, homogeneous or heterogeneous, help pupils analyze content, question gaps in understanding, brainstorm solutions, and record information in diaries or journals.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

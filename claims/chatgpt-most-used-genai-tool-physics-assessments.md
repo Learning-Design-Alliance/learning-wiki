@@ -3,7 +3,7 @@ type: claim
 title: ChatGPT was the most used GenAI tool across all three physics assessments, with Copilot a distant second
 description: ChatGPT was the most used GenAI tool across all three physics assessments, with Copilot a distant second
 id: chatgpt-most-used-genai-tool-physics-assessments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

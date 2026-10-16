@@ -3,7 +3,7 @@ type: claim
 title: Positive LLM tutor perceptions do not necessarily translate to learning gains, creating an over-reliance risk
 description: Positive LLM tutor perceptions do not necessarily translate to learning gains, creating an over-reliance risk
 id: llm-scaffolding-over-reliance-paradox
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

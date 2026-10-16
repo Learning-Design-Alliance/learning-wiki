@@ -3,7 +3,7 @@ type: strategy
 id: hybrid-ai-human-assessment-implementation
 title: Implement AI in assessment as a hybrid support tool for low-stakes, formative stages while humans retain final grading authority
 description: "The article's implications recommend that institutions \"avoid positioning AI as a replacement for human grading and instead adopt hybrid models in which AI supports formative feedback, early drafting, and lower-stakes..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

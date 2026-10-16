@@ -3,7 +3,7 @@ type: strategy
 id: privacy-stage-gate-data-flow-summary
 title: Make privacy a release criterion with a stage-gate data-flow summary before student-facing deployment
 description: "The article recommends that \"privacy should become a release criterion rather than a documentation exercise.\" A practical stage-gate requires a one-page data-flow summary completed by the feature owner before student-..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

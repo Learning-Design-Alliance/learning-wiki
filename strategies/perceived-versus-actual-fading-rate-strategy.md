@@ -3,7 +3,7 @@ type: strategy
 id: perceived-versus-actual-fading-rate-strategy
 title: Regulate fading rate per learner, distinguishing perceived fading rate (teacher-set) from actual fading rate (child-set)
 description: The paper recommends that learning support be regulated by the teacher from a centralized point using the scaffolding regulator, gradually fading support as learners complete tasks.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

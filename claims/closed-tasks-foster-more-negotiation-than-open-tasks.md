@@ -3,7 +3,7 @@ type: claim
 title: Closed meaning-focused tasks foster more negotiation of meaning and negative feedback than open tasks in CMC
 description: Closed meaning-focused tasks foster more negotiation of meaning and negative feedback than open tasks in CMC
 id: closed-tasks-foster-more-negotiation-than-open-tasks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

@@ -3,7 +3,7 @@ type: claim
 title: "Support measures introduced in 2007-08 raised the level 1 physics passrate by approximately 8%"
 description: "Support measures introduced in 2007-08 raised the level 1 physics passrate by approximately 8%"
 id: learning-support-raises-level1-physics-passrate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

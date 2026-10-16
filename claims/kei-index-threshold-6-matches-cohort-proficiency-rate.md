@@ -3,7 +3,7 @@ type: claim
 title: "A threshold of 6 on a 1–10 index of two KEI dimensions matched the cohort's actual 37 percent grade 3 ELA proficiency rate"
 description: "A threshold of 6 on a 1–10 index of two KEI dimensions matched the cohort's actual 37 percent grade 3 ELA proficiency rate"
 id: kei-index-threshold-6-matches-cohort-proficiency-rate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

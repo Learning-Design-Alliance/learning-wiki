@@ -4,7 +4,7 @@ id: lenses-on-literature
 title: Lenses on Literature
 description: Lenses on Literature is a disciplinary-literacy curriculum program that provides standards-driven reading, writing, discourse, scaffolds, and formative assessments organized around driving task prompts.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

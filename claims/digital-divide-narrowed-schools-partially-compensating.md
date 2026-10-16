@@ -3,7 +3,7 @@ type: claim
 title: The home digital divide narrowed by 2003 and schools partially compensated, with predominantly African-American elementary students using school computers more than integrated-school students
 description: The home digital divide narrowed by 2003 and schools partially compensated, with predominantly African-American elementary students using school computers more than integrated-school students
 id: digital-divide-narrowed-schools-partially-compensating
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

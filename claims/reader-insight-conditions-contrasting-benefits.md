@@ -3,7 +3,7 @@ type: claim
 title: "Revision conditions offering more reader insight produced contrasting benefits for young writers' descriptive revision"
 description: "Revision conditions offering more reader insight produced contrasting benefits for young writers' descriptive revision"
 id: reader-insight-conditions-contrasting-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

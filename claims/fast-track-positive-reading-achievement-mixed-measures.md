@@ -3,7 +3,7 @@ type: claim
 title: Fast Track produced a positive, statistically significant effect on reading achievement/literacy after one year, significant on the Spache DRS but not on the Woodcock-Johnson Letter-Word Identification subtest
 description: Fast Track produced a positive, statistically significant effect on reading achievement/literacy after one year, significant on the Spache DRS but not on the Woodcock-Johnson Letter-Word Identification subtest
 id: fast-track-positive-reading-achievement-mixed-measures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

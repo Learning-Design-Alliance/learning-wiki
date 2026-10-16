@@ -3,7 +3,7 @@ type: claim
 title: "Gaps between Cohen's κ and QWK indicate GradeOpt often assigned codes adjacent to human codes rather than entirely discrepant ones"
 description: "Gaps between Cohen's κ and QWK indicate GradeOpt often assigned codes adjacent to human codes rather than entirely discrepant ones"
 id: kappa-qwk-gaps-adjacent-codes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

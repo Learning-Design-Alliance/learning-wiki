@@ -3,7 +3,7 @@ type: design
 id: six-step-ci-classroom-process
 title: "Six-step classroom C/I process: ideas, questions, positive comments, negative comments, metric, new ideas — cycled to refine the solution"
 description: "The article's process \"begins with statement by the instructor of a problem or goal, and then involves requests for: (1) ideas, (2) questions, (3) positive critical comments on the ideas, (4) negative critical comment..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
@@ -50,4 +50,4 @@ The article's process "begins with statement by the instructor of a problem or g
 -
 
 ## Key Sources
-- Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H. (2013). Technology-Enabled Nurturing of Creativity and Innovation: A Specific Illustration from an Undergraduate Engineering Physics Course. https://arxiv.org/abs/1308.2434
+- Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H. (2013). Technology-Enabled Nurturing of Creativity and Innovation: A Specific Illustration from an Undergraduate Engineering Physics Course. https://arxiv.org/abs/1308.2434. [doi:10.48550/arxiv.1308.2434](https://doi.org/10.48550/arxiv.1308.2434)

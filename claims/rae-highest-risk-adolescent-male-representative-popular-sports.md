@@ -3,7 +3,7 @@ type: claim
 title: Adolescent males at representative level in highly popular sports are most at risk of RAE inequalities
 description: Adolescent males at representative level in highly popular sports are most at risk of RAE inequalities
 id: rae-highest-risk-adolescent-male-representative-popular-sports
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

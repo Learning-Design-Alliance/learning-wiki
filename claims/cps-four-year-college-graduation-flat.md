@@ -3,7 +3,7 @@ type: claim
 title: "CPS graduates' four-year college graduation rate remained roughly constant over seven years (46 to 48 percent) and well below the national rate"
 description: "CPS graduates' four-year college graduation rate remained roughly constant over seven years (46 to 48 percent) and well below the national rate"
 id: cps-four-year-college-graduation-flat
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

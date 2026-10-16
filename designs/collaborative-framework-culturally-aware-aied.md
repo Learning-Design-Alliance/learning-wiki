@@ -3,7 +3,7 @@ type: design
 id: collaborative-framework-culturally-aware-aied
 title: Collaborative framework for culturally aware AIED across education, technology, and culture dimensions
 description: "The article contributes a \"collaborative framework for culturally aware AIED\" organizing the field around three dimensions—education (students become co-producers), technology (AI augments while \"people validate\"), an..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

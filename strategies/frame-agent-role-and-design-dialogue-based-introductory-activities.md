@@ -3,7 +3,7 @@ type: strategy
 id: frame-agent-role-and-design-dialogue-based-introductory-activities
 title: "Explicitly frame a group AI agent's role and design introductory activities that encourage collaborative dialogue rather than system testing"
 description: "The article recommends that when introducing AI partners in classrooms, educators \"explicitly frame the agent's role and set norms for how it should participate in group work\", and design \"introductory activities that..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -52,4 +52,4 @@ The article recommends that when introducing AI partners in classrooms, educator
 -
 
 ## Key Sources
-- Ravi, P., Stevens, C., Hurt, B., Hanks, B., Lin, G., and Anderson, E. (2026). Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning. https://arxiv.org/abs/2606.12805
+- Ravi, P., Stevens, C., Hurt, B., Hanks, B., Lin, G., and Anderson, E. (2026). Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning. https://arxiv.org/abs/2606.12805. [doi:10.48550/arxiv.2606.12805](https://doi.org/10.48550/arxiv.2606.12805)

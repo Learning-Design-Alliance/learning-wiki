@@ -3,7 +3,7 @@ type: claim
 title: The school refusal-truancy dichotomy shows extensive overlap and heterogeneity
 description: The school refusal-truancy dichotomy shows extensive overlap and heterogeneity
 id: school-refusal-truancy-dichotomy-overlap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

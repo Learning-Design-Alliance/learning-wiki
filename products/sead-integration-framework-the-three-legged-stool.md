@@ -4,7 +4,7 @@ id: sead-integration-framework-the-three-legged-stool
 title: SEAD integration framework (the three-legged stool)
 description: A guide-based framework for integrating explicit social-emotional skill instruction, embedded academic practice, and relationship-rich environments into K–12 school improvement.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

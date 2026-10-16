@@ -3,7 +3,7 @@ type: claim
 title: Assessing AI feedback within PAIRR helped students develop AI literacy and writerly agency, with very few showing overconfidence in AI
 description: Assessing AI feedback within PAIRR helped students develop AI literacy and writerly agency, with very few showing overconfidence in AI
 id: assessing-ai-feedback-builds-ai-literacy-and-agency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

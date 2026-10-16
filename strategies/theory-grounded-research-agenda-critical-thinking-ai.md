@@ -3,7 +3,7 @@ type: strategy
 id: theory-grounded-research-agenda-critical-thinking-ai
 title: Ground future empirical research on critical thinking with or about AI in one of three theoretical traditions
 description: "The review proposes a research agenda for \"more theory-grounded empirical research in critical thinking with or about AI, based on cognitive-psychological, philosophical, or educational research traditions\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

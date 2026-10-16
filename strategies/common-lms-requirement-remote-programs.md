@@ -3,7 +3,7 @@ type: strategy
 id: common-lms-requirement-remote-programs
 title: Require one common school-wide learning management system for any program using remote learning
 description: "In its instructional materials dimension, the blueprint issues a single, concrete operational directive: \"Require all teachers to use one common, school-wide Learning Management System (LMS) for any program that will..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

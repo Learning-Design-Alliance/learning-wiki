@@ -454,7 +454,7 @@ The pattern is especially strong for building number sense, conceptual understan
 
 ### Elements Used
 - [Problem Presentation](../elements/problem-presentation.md)
-- [Problem-Solving Tasks](../elements/problem-solving-tasks.md)
+- [Problem-Solving Tasks](../elements/problem-solving.md)
 - [Peer Explanation](../elements/peer-explanation.md)
 - [Formative Assessment](../elements/formative-assessment.md)
 

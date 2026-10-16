@@ -2,7 +2,7 @@
 type: theory
 title: "Authentic intellectual work framework: construction of knowledge through disciplined inquiry producing products with value beyond school"
 description: The report defines authentic intellectual work as a standard for judging the intellectual quality of teaching and learning, contrasting it with routine school tasks.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

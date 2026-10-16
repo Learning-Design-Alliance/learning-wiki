@@ -3,7 +3,7 @@ type: strategy
 id: longitudinal-multi-setting-bilingual-policy-research
 title: Conduct longitudinal, multi-setting research on bilingual language policy in action
 description: "The article recommends that future research move beyond its document-based meta-analysis by investigating \"bilingual language policy in action from multiple settings and from larger subjects.\" It further considers \"Re..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

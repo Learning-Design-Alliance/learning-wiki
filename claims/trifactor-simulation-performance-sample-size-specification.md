@@ -3,7 +3,7 @@ type: claim
 title: "The trifactor model's performance across sample sizes and model specifications was examined via simulation studies comparing model fit, bias, and convergence rates"
 description: "The trifactor model's performance across sample sizes and model specifications was examined via simulation studies comparing model fit, bias, and convergence rates"
 id: trifactor-simulation-performance-sample-size-specification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Historical-method inquiry tasks center on uniformitarianism and taxonomy construction, and evaluating independent lines of inquiry for convergence is entirely absent
 description: Historical-method inquiry tasks center on uniformitarianism and taxonomy construction, and evaluating independent lines of inquiry for convergence is entirely absent
 id: historical-method-uniformitarianism-dominates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

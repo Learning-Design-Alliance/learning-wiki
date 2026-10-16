@@ -3,7 +3,7 @@ type: claim
 title: "The evidence base for Waterford Early Reading Program™ is thin: only one of 36 reviewed studies met WWC evidence standards, and extent of evidence was rated small for both domains"
 description: "The evidence base for Waterford Early Reading Program™ is thin: only one of 36 reviewed studies met WWC evidence standards, and extent of evidence was rated small for both domains"
 id: werp-evidence-base-single-study
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

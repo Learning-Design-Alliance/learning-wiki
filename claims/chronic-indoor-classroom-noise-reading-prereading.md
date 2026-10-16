@@ -3,7 +3,7 @@ type: claim
 title: "Chronic exposure to indoor noise and reverberation at school is associated with poorer children's reading and prereading skills"
 description: "Chronic exposure to indoor noise and reverberation at school is associated with poorer children's reading and prereading skills"
 id: chronic-indoor-classroom-noise-reading-prereading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

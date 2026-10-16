@@ -3,7 +3,7 @@ type: claim
 title: Demanding excellence for the many rather than the few is questionable, and academic excellence defined as test success is too narrow
 description: Demanding excellence for the many rather than the few is questionable, and academic excellence defined as test success is too narrow
 id: excellence-for-all-questionable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -94,7 +94,7 @@ Graphic organizers externalize relationships among ideas, reducing the working-m
 - A middle-school science class uses a cause-effect flowchart while watching a documentary on the carbon cycle, then reconstructs the chart from memory the next day as a retrieval activity.
 - An AP US History course provides a partially completed comparison matrix (economy, leadership, causes) that students complete while reading competing textbook accounts of the Civil War.
 - **Newsela** (https://newsela.com) pairs leveled articles with downloadable graphic organizers (main idea, cause-effect, argument) aligned to each text.
-- **ReadWorks** (https://www.readworks.org) attaches organizer printables to many of its reading passages for classroom use.
+- **[ReadWorks](../products/readworks.md)** (https://www.readworks.org) attaches organizer printables to many of its reading passages for classroom use.
 
 ## Key Sources
 - Nesbit, J. C., & Adesope, O. O. (2006). Learning with concept and knowledge maps: A meta-analysis. *Review of Educational Research, 76*(3), 413–448. [doi:10.3102/00346543076003413](https://doi.org/10.3102/00346543076003413)

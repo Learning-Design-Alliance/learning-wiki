@@ -3,7 +3,7 @@ type: claim
 title: Intelligent Tutoring Systems in VET foster declarative and procedural knowledge
 description: Intelligent Tutoring Systems in VET foster declarative and procedural knowledge
 id: its-vet-foster-declarative-procedural-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

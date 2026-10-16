@@ -3,7 +3,7 @@ type: claim
 title: Preschool children who pass both EF and TOM tests score significantly higher on semantic fluency than children who fail both
 description: Preschool children who pass both EF and TOM tests score significantly higher on semantic fluency than children who fail both
 id: pass-both-ef-tom-higher-semantic-fluency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

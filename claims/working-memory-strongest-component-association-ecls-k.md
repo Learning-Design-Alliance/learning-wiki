@@ -3,7 +3,7 @@ type: claim
 title: Under the components model in ECLS-K, working memory is the most closely associated EF component with math, but only at time point 1 does it show a positive residual correlation beyond latent EF
 description: Under the components model in ECLS-K, working memory is the most closely associated EF component with math, but only at time point 1 does it show a positive residual correlation beyond latent EF
 id: working-memory-strongest-component-association-ecls-k
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Generation Effect Improves Retention
-status: draft
+status: review
 generated:
   by: "claude/unspecified"
   at: 2026-08-30

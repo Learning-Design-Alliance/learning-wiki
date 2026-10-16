@@ -3,7 +3,7 @@ type: claim
 title: "Scaffolding's effect was greatest among adult learners, though based on a single outcome"
 description: "Scaffolding's effect was greatest among adult learners, though based on a single outcome"
 id: scaffolding-effect-greatest-adult-learners
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

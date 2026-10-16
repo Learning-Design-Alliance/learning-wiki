@@ -3,7 +3,7 @@ type: claim
 title: AI agent activity in an LMS is indistinguishable from normal student activity, defeating detection and proctoring
 description: AI agent activity in an LMS is indistinguishable from normal student activity, defeating detection and proctoring
 id: ai-agent-activity-indistinguishable-from-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: COVID-19 school closures highlighted the need to understand promising remote learning strategies when no classroom alternatives exist
 description: COVID-19 school closures highlighted the need to understand promising remote learning strategies when no classroom alternatives exist
 id: covid-closures-highlight-remote-learning-strategy-need
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -2,7 +2,7 @@
 type: claim
 title: Fiber crafting develops proportional reasoning through nested, personally-defined units
 id: fiber-crafting-develops-proportional-reasoning-through-unitizing
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

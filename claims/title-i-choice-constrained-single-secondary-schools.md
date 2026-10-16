@@ -3,7 +3,7 @@ type: claim
 title: Public school choice was constrained at the middle and high school levels because many districts have only one middle school and one high school
 description: Public school choice was constrained at the middle and high school levels because many districts have only one middle school and one high school
 id: title-i-choice-constrained-single-secondary-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

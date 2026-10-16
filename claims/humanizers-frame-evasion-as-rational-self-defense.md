@@ -3,7 +3,7 @@ type: claim
 title: Humanizer sites frame AI humanization as a rational, ethically defensible response to flawed surveillance and false positives
 description: Humanizer sites frame AI humanization as a rational, ethically defensible response to flawed surveillance and false positives
 id: humanizers-frame-evasion-as-rational-self-defense
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

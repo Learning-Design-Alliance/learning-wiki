@@ -4,7 +4,7 @@ id: asap-20-dataset
 title: ASAP 2.0 dataset
 description: The ASAP 2.0 dataset is a public benchmark of approximately 24,000 student argumentative essays with human-assigned scores from 1 to 6, developed for automated essay-scoring research.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

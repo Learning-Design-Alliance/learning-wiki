@@ -3,7 +3,7 @@ type: claim
 title: All six studied high-certification districts partner with at least one teacher residency program and at least one Grow Your Own program
 description: All six studied high-certification districts partner with at least one teacher residency program and at least one Grow Your Own program
 id: district-pipeline-partnerships-residency-gyo
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

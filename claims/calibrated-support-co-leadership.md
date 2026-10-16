@@ -3,7 +3,7 @@ type: claim
 title: Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process
 description: Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process
 id: calibrated-support-co-leadership
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

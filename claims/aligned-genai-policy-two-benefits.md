@@ -3,7 +3,7 @@ type: claim
 title: The design-based approach yields a transparent, equitable GenAI policy and deeper instructor thinking about assessment
 description: The design-based approach yields a transparent, equitable GenAI policy and deeper instructor thinking about assessment
 id: aligned-genai-policy-two-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

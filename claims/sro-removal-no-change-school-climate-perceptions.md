@@ -3,7 +3,7 @@ type: claim
 title: SRO removal was not significantly related to changes in student or teacher perceptions of physical safety or in Student-Teacher Trust
 description: SRO removal was not significantly related to changes in student or teacher perceptions of physical safety or in Student-Teacher Trust
 id: sro-removal-no-change-school-climate-perceptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

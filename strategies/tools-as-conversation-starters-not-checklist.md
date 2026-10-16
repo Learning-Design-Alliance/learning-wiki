@@ -3,7 +3,7 @@ type: strategy
 id: tools-as-conversation-starters-not-checklist
 title: Use the tools as facilitated conversation starters that produce artifacts, not as a checklist exercise
 description: "The guide prescribes how teams should work with its tools: \"Completion of the tools should not be a goal in and of itself; use of this guide is not a checklist exercise."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

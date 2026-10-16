@@ -2,7 +2,7 @@
 type: theory
 title: Class size as a distinct intervention mechanism in special education, distinguished from student–teacher ratio and caseload
 description: "The review organises its inquiry around class size as a distinct construct: \"Class size refers to the number of students present in a classroom at a given point in time\", distinguished from student–teacher ratio and c..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Model-family rankings depend on the prediction target: AdaBoost leads the five-level ordinal task while LightGBM holds the highest binary macro-F1"
 description: "Model-family rankings depend on the prediction target: AdaBoost leads the five-level ordinal task while LightGBM holds the highest binary macro-F1"
 id: model-family-rankings-depend-on-target
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

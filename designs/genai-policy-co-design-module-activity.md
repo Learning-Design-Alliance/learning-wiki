@@ -3,7 +3,7 @@ type: design
 id: genai-policy-co-design-module-activity
 title: "GenAI policy co-design module: guided inquiry activity with curated resources, individual policy design, and group discussion"
 description: A 3-4-week course module on GenAI in education within an undergraduate course, Technology and the Global Society.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11
@@ -50,4 +50,4 @@ A 3-4-week course module on GenAI in education within an undergraduate course, T
 -
 
 ## Key Sources
-- Hingle, A., & Johri, A. (2025). A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies. https://www.google.com/search?q=A+Guided+Inquiry+Approach+to+Students+Co-Designing+Generative+AI+Course+Policies
+- Hingle, A., & Johri, A. (2025). A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies. https://www.google.com/search?q=A+Guided+Inquiry+Approach+to+Students+Co-Designing+Generative+AI+Course+Policies. [doi:10.1108/aiie-05-2025-0123](https://doi.org/10.1108/aiie-05-2025-0123)

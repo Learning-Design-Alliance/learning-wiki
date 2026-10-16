@@ -3,7 +3,7 @@ type: claim
 title: Everyday Mathematics® has potentially positive effects on mathematics achievement for primary students, with a substantively important but statistically non-significant effect size of 0.27
 description: Everyday Mathematics® has potentially positive effects on mathematics achievement for primary students, with a substantively important but statistically non-significant effect size of 0.27
 id: everyday-mathematics-potentially-positive-primary-math-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

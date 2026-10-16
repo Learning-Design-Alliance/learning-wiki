@@ -3,7 +3,7 @@ type: claim
 title: State-level disparities in advanced course access are large, with New York showing a 54-percentage-point Calculus gap between low- and high-student-of-color-enrollment schools
 description: State-level disparities in advanced course access are large, with New York showing a 54-percentage-point Calculus gap between low- and high-student-of-color-enrollment schools
 id: state-disparities-advanced-course-access-new-york
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

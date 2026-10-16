@@ -3,7 +3,7 @@ type: claim
 title: HSGPA strongly predicts six-year college graduation among four-year college enrollees, with odds of graduating doubling per standard deviation of HSGPA
 description: HSGPA strongly predicts six-year college graduation among four-year college enrollees, with odds of graduating doubling per standard deviation of HSGPA
 id: hsgpa-strongly-predicts-college-graduation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

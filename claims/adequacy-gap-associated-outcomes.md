@@ -3,7 +3,7 @@ type: claim
 title: Larger adequacy gaps between projected adequate cost and actual spending were associated with fewer success points milestones per FTE student
 description: Larger adequacy gaps between projected adequate cost and actual spending were associated with fewer success points milestones per FTE student
 id: adequacy-gap-associated-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

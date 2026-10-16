@@ -3,7 +3,7 @@ type: claim
 title: Higher-bit quantisation (8-bit) better preserves structural coherence and semantic alignment in a Pidgin-fine-tuned LLM, achieving the highest ROUGE-L (0.3120) and BERTScore (0.8590) among the quantised models
 description: Higher-bit quantisation (8-bit) better preserves structural coherence and semantic alignment in a Pidgin-fine-tuned LLM, achieving the highest ROUGE-L (0.3120) and BERTScore (0.8590) among the quantised models
 id: higher-bit-quantisation-preserves-semantic-structure-pidgin-llm
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

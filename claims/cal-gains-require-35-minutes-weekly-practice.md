@@ -3,7 +3,7 @@ type: claim
 title: Math gains from the CAL program occur in classrooms with at least an average of 35 minutes of practice per week
 description: Math gains from the CAL program occur in classrooms with at least an average of 35 minutes of practice per week
 id: cal-gains-require-35-minutes-weekly-practice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: display-both-four-and-six-year-rates
 title: Online college search tools should prominently display both four-year and six-year completion rates, disaggregated by race/ethnicity, gender, and Pell eligibility
 description: The report recommends that college data tools show both completion timeframes because most tools emphasize six-year rates and omit the on-time completion information four-year rates provide.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

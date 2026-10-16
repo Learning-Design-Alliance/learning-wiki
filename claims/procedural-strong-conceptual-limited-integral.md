@@ -3,7 +3,7 @@ type: claim
 title: Students can apply procedural knowledge to solve integration problems but show limited understanding of basic integration concepts
 description: Students can apply procedural knowledge to solve integration problems but show limited understanding of basic integration concepts
 id: procedural-strong-conceptual-limited-integral
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

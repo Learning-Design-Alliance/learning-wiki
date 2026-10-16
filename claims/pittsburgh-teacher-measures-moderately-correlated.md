@@ -3,7 +3,7 @@ type: claim
 title: The three Pittsburgh teacher effectiveness measures are positively, moderately correlated, suggesting they are valid and complementary
 description: The three Pittsburgh teacher effectiveness measures are positively, moderately correlated, suggesting they are valid and complementary
 id: pittsburgh-teacher-measures-moderately-correlated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

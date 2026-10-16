@@ -3,7 +3,7 @@ type: strategy
 id: iterative-rubric-engineering-human-in-loop-ai-scoring
 title: Implement AI scoring of OEQs through iterative rubric engineering with humans in the loop checking validity, reliability, reproducibility, and bias
 description: The article offers a roadmap in which prior exams are used to evaluate the reliability of generative AI scores and adjust scoring rubrics before live use.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
@@ -40,7 +40,8 @@ The article offers a roadmap in which prior exams are used to evaluate the relia
 - timely personalized feedback on exam performance
 
 ## Related Strategies
-- 
+
+- [Integrate GPT models into LA-supported feedback systems with an iterative instructor-student validation loop to improve reliability](iterative-validation-loop-gpt-feedback-systems.md)
 
 ## Examples
 -

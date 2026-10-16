@@ -3,7 +3,7 @@ type: strategy
 id: immersion-classroom-techniques-esl
 title: Use situational communication exercises, normal speech, ad hoc grammar explanations, and echo-expansion correction
 description: "The article lists classroom techniques that its experiment found sufficient for statistically significant skill improvement: situational communication exercises such as language games, interviews, dialogues, and skits..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

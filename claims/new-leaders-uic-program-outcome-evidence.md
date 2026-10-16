@@ -3,7 +3,7 @@ type: claim
 title: Graduates of partnership-based preparation programs showed above-average achievement gains and persistence in leadership roles
 description: Graduates of partnership-based preparation programs showed above-average achievement gains and persistence in leadership roles
 id: new-leaders-uic-program-outcome-evidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

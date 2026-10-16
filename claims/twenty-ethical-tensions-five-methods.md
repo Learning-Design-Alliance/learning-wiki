@@ -3,7 +3,7 @@ type: claim
 title: Teachers perceive 20 distinct ethical tensions across five online language-teaching methods in AI-driven classes
 description: Teachers perceive 20 distinct ethical tensions across five online language-teaching methods in AI-driven classes
 id: twenty-ethical-tensions-five-methods
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

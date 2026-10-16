@@ -3,7 +3,7 @@ type: claim
 title: Students shame themselves, peers, and in one case a faculty member for using AI
 description: Students shame themselves, peers, and in one case a faculty member for using AI
 id: shaming-self-peers-faculty-ai-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

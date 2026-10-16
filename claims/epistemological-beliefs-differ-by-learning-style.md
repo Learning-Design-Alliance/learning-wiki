@@ -3,7 +3,7 @@ type: claim
 title: "Preservice teachers' epistemological beliefs differ significantly by learning style in all four dimensions"
 description: "Preservice teachers' epistemological beliefs differ significantly by learning style in all four dimensions"
 id: epistemological-beliefs-differ-by-learning-style
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

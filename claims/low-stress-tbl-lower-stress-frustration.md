@@ -3,7 +3,7 @@ type: claim
 title: "Dental students in a revised low-stress TBL format reported lower stress and frustration than medical students in the original format, in a non-randomised comparison of two cohorts"
 description: "Dental students in a revised low-stress TBL format reported lower stress and frustration than medical students in the original format, in a non-randomised comparison of two cohorts"
 id: low-stress-tbl-lower-stress-frustration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

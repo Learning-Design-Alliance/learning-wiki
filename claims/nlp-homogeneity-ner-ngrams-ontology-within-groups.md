@@ -3,7 +3,7 @@ type: claim
 title: Essays within each tool group showed consistent homogeneity across named entities, n-grams, and topic ontology
 description: Essays within each tool group showed consistent homogeneity across named entities, n-grams, and topic ontology
 id: nlp-homogeneity-ner-ngrams-ontology-within-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: research-method
 id: two-dimensional-rubric-coding-operational-process-category-and-depth-of-explicit-metacogni
 title: Two-dimensional rubric coding operational process category and depth of explicit metacognitive evidence
 description: The article introduces a shared coding rubric applied identically to interaction logs and think-aloud speech.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

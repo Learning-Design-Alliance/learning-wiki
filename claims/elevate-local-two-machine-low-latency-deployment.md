@@ -3,7 +3,7 @@ type: claim
 title: The ELEVATE server pipeline runs locally on two heterogeneous consumer machines, keeping LLM and TTS models fully resident in memory for low-latency inference
 description: The ELEVATE server pipeline runs locally on two heterogeneous consumer machines, keeping LLM and TTS models fully resident in memory for low-latency inference
 id: elevate-local-two-machine-low-latency-deployment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

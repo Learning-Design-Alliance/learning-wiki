@@ -3,7 +3,7 @@ type: claim
 title: Intervention cohort scored significantly higher on creativity thinking, design skills, and problem solving, but not on presentation or attendance
 description: Intervention cohort scored significantly higher on creativity thinking, design skills, and problem solving, but not on presentation or attendance
 id: rubric-dimension-gains-creativity-design-problem-solving
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

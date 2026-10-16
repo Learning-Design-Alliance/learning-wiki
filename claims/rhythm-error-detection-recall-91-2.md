@@ -3,7 +3,7 @@ type: claim
 title: "The system's error detection recall rate for complex rhythm errors was 91.2% ± 1.8%"
 description: "The system's error detection recall rate for complex rhythm errors was 91.2% ± 1.8%"
 id: rhythm-error-detection-recall-91-2
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

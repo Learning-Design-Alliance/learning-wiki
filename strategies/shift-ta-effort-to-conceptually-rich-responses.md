@@ -3,7 +3,7 @@ type: strategy
 id: shift-ta-effort-to-conceptually-rich-responses
 title: Structure AI-assisted grading to shift TA effort from routine low-judgment decisions toward conceptually rich responses
 description: The article recommends that AI-assisted grading be structured so that teaching assistants spend their time on the responses that are most conceptually rich or require careful interpretation, rather than on routine, lo...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

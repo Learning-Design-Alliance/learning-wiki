@@ -3,7 +3,7 @@ type: strategy
 id: participatory-questionnaire-card-sorting-focus-groups
 title: Engage students from the start via a screening questionnaire followed by card-sorting and mock-up focus groups
 description: "A concrete participatory design recipe: first run a screening questionnaire asking what information students want and what their main learning needs are; then convene small online focus groups in which students sort d..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

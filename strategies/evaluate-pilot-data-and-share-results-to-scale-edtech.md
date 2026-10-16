@@ -3,7 +3,7 @@ type: strategy
 id: evaluate-pilot-data-and-share-results-to-scale-edtech
 title: "Evaluate & Reflect then Sustain & Scale: analyze pilot data against targeted goals and share results with critical partners to plan expanded use"
 description: "Step 5 directs leaders to \"Analyze pilot data to determine whether the tool sufficiently addressed your targeted teaching and learning goals.\" Step 6 directs leaders to \"Share the pilot results with critical partners,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

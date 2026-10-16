@@ -3,7 +3,7 @@ type: claim
 title: Fifty-seven percent of principals were highly enthusiastic about the Framework-based evaluation process while 43 percent held mixed to negative attitudes
 description: Fifty-seven percent of principals were highly enthusiastic about the Framework-based evaluation process while 43 percent held mixed to negative attitudes
 id: principal-attitudes-toward-framework-evaluation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

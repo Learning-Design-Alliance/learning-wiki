@@ -3,7 +3,7 @@ type: strategy
 id: interrogate-parent-involvement-for-equity
 title: Interrogate parent involvement constructs through a genealogical lens to advance equity
 description: "The article's approach implies that educators and researchers should critically examine taken-for-granted ideas about parent involvement and the home/school relation before designing involvement policies or practices."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -47,4 +47,4 @@ The article's approach implies that educators and researchers should critically 
 -
 
 ## Key Sources
-- Kainz, K., & Aikens, N. L. (2007). Governing the Family Through Education: A Genealogy on the Home/School Relation. Equity & Excellence in Education, vol. 40, issue 4. https://eric.ed.gov/?q=Governing+the+Family+Through+Education
+- Kainz, K., & Aikens, N. L. (2007). Governing the Family Through Education: A Genealogy on the Home/School Relation. Equity & Excellence in Education, vol. 40, issue 4. https://eric.ed.gov/?q=Governing+the+Family+Through+Education. [doi:10.1080/10665680701610721](https://doi.org/10.1080/10665680701610721)

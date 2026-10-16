@@ -3,7 +3,7 @@ type: strategy
 id: active-comparison-parallel-application-prompts
 title: Use active comparison conditions with parallel application prompts when evaluating growth mindset interventions
 description: "Across the six studies meeting WWC standards, comparison groups were not passive: \"students in the comparison group were typically exposed to alternative, non-growth-mindset information and then asked to describe, in..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -64,7 +64,7 @@ Thinking time converts discussion from a race to respond into a structured seque
 - [Have learners bring their own thinking before using generative AI to enable productive struggle](own-thinking-before-generative-ai-productive-struggle.md)
 
 ## Examples
-- **Think-Pair-Share** (Kagan) — the most widely used cooperative structure; the silent "think" phase is the component most often dropped in practice, and most needed
+- **[Think-Pair-Share](../patterns/think-pair-share.md)** (Kagan) — the most widely used cooperative structure; the silent "think" phase is the component most often dropped in practice, and most needed
 - **Dialogic teaching** (Robin Alexander) — classroom talk routines that build in pauses and require justification, documented in UK primary classrooms
 - **University seminars** — instructors pose a discussion question on a slide, give two minutes of silent writing, then open small-group discussion; participation rates rise noticeably compared with immediate discussion
 

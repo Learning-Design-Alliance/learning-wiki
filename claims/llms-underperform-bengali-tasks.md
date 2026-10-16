@@ -3,7 +3,7 @@ type: claim
 title: General-purpose large language models perform substantially worse on Bengali downstream tasks than on equivalent English tasks, with gaps consistent with data-volume explanations
 description: General-purpose large language models perform substantially worse on Bengali downstream tasks than on equivalent English tasks, with gaps consistent with data-volume explanations
 id: llms-underperform-bengali-tasks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

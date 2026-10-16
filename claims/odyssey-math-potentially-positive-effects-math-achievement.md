@@ -3,7 +3,7 @@ type: claim
 title: "Odyssey® Math receives a WWC rating of potentially positive effects on primary students' mathematics achievement"
 description: "Odyssey® Math receives a WWC rating of potentially positive effects on primary students' mathematics achievement"
 id: odyssey-math-potentially-positive-effects-math-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

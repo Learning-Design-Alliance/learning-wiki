@@ -3,7 +3,7 @@ type: claim
 title: "Illinois' shift to selective, principal-specific preparation programs caused substantial but anticipated enrollment declines"
 description: "Illinois' shift to selective, principal-specific preparation programs caused substantial but anticipated enrollment declines"
 id: illinois-principal-preparation-enrollment-declines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

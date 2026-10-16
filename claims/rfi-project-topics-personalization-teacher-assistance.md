@@ -3,7 +3,7 @@ type: claim
 title: "Personalizing learning (22%) and teacher assistance (25%) dominated project topics, with only 27.5% of solutions on market"
 description: "Personalizing learning (22%) and teacher assistance (25%) dominated project topics, with only 27.5% of solutions on market"
 id: rfi-project-topics-personalization-teacher-assistance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

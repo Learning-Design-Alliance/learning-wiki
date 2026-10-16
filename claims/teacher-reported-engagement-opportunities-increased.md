@@ -3,7 +3,7 @@ type: claim
 title: Teachers reported providing deep-engagement opportunities at levels similar to or greater than student reports, and about 8 in 10 attributed instruction changes to the network
 description: Teachers reported providing deep-engagement opportunities at levels similar to or greater than student reports, and about 8 in 10 attributed instruction changes to the network
 id: teacher-reported-engagement-opportunities-increased
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

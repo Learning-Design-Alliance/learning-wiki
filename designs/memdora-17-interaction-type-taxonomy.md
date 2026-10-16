@@ -3,7 +3,7 @@ type: design
 id: memdora-17-interaction-type-taxonomy
 title: A taxonomy of 17 cognitively-grounded flashcard interaction types across three learning categories
 description: "Memdora's central design contribution is a taxonomy of 17 interaction types across three learning categories: Language (6 types), By Heart (1 type with 3 retrieval modes), and Exam (10 types)."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

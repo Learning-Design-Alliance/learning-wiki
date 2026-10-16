@@ -3,7 +3,7 @@ type: strategy
 id: researcher-partnership-pd-freedom-experiment
 title: Partner with a researcher to vet principles and deliver focused professional development, then give educators freedom to experiment with options of varying scope
 description: "Because teachers' greatest challenge was identifying which research principles had sufficient evidence, the report recommends partnering with a researcher to identify vetted learning sciences principles and to provide..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "The member check did not resolve the dissensus: the distrust item (C4) was the weakest-endorsed confirmatory item, with participants reframing what distrust meant"
 description: "The member check did not resolve the dissensus: the distrust item (C4) was the weakest-endorsed confirmatory item, with participants reframing what distrust meant"
 id: member-check-c4-weakest-endorsed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

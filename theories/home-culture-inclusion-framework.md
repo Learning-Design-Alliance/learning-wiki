@@ -2,7 +2,7 @@
 type: theory
 title: "Home culture as multifaceted cultural identity expressed in teaching through inclusion of home culture in the school's culture"
 description: "The paper's concluding framework defines home culture as \"cultural identity which consists of several identities including gender, race, sexual preference, ethnic backgrounds.\" Teachers express and maintain their own..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

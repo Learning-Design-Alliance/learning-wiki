@@ -3,7 +3,7 @@ type: claim
 title: "Hearing-impaired students learn library skills quickly via the \"showand do\" demonstration method and are often misjudged as unready"
 description: "Hearing-impaired students learn library skills quickly via the \"showand do\" demonstration method and are often misjudged as unready"
 id: show-and-do-method-hearing-impaired-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

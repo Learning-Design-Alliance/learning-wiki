@@ -3,7 +3,7 @@ type: claim
 title: In the Oztoc museum game-exhibit, learning occurs when visitors explain to each other, and a combination of physical blocks and screen-based representation is needed for deeper scientific and engineering practices
 description: In the Oztoc museum game-exhibit, learning occurs when visitors explain to each other, and a combination of physical blocks and screen-based representation is needed for deeper scientific and engineering practices
 id: oztoc-physical-blocks-plus-screen-representation-deeper-practices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

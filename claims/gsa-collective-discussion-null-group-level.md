@@ -3,7 +3,7 @@ type: claim
 title: Collective GSA-level immigration discussion frequency is not associated with group-level gains in any empowerment or critical consciousness outcome
 description: Collective GSA-level immigration discussion frequency is not associated with group-level gains in any empowerment or critical consciousness outcome
 id: gsa-collective-discussion-null-group-level
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

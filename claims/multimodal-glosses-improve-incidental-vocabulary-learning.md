@@ -3,7 +3,7 @@ type: claim
 title: Combining textual and pictorial glosses improves incidental vocabulary learning more than single-mode glosses
 description: Combining textual and pictorial glosses improves incidental vocabulary learning more than single-mode glosses
 id: multimodal-glosses-improve-incidental-vocabulary-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

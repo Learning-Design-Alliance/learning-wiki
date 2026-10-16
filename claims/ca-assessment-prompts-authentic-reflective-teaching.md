@@ -3,7 +3,7 @@ type: claim
 title: LO assessment supported by CA tools prompted faculty toward more authentic, participatory, and reflective teaching practices
 description: LO assessment supported by CA tools prompted faculty toward more authentic, participatory, and reflective teaching practices
 id: ca-assessment-prompts-authentic-reflective-teaching
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

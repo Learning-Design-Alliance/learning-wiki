@@ -3,7 +3,7 @@ type: claim
 title: District schools in the aggregate showed near-zero effects, significantly lower than charter schools in the same grades, but the district sample was small
 description: District schools in the aggregate showed near-zero effects, significantly lower than charter schools in the same grades, but the district sample was small
 id: pl-district-schools-near-zero-vs-charter
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

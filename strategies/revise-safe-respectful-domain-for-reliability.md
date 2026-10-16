@@ -3,7 +3,7 @@ type: strategy
 id: revise-safe-respectful-domain-for-reliability
 title: Revise the safe and respectful school climate domain of the elementary school student survey to improve its internal consistency reliability
 description: "The study team recommended revisions to the safe and respectful school climate domain of the elementary school student survey after reliability analysis showed it \"fell short of the established threshold for reliabili..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: mapping-accountability-logics-via-control-scores
 title: Map accountability logics across countries by computing school-level external control scores in key school functions
 description: "The article offers a systematic approach for mapping accountability logics: survey school principals on who holds significant responsibility for assessment policies, hiring teachers, choosing learning materials, and d..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

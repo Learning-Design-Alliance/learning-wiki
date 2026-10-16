@@ -3,7 +3,7 @@ type: claim
 title: Linguist review of draft items revealed communication problems with terminology and imprecisely reasoned attitude statements
 description: Linguist review of draft items revealed communication problems with terminology and imprecisely reasoned attitude statements
 id: linguist-review-revealed-item-communication-problems
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

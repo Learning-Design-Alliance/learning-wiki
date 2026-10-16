@@ -4,7 +4,7 @@ id: meta-analytic-corpus-of-97-reports-105-independent-samples-and-216-effect-si
 title: Meta-analytic corpus of 97 reports, 105 independent samples, and 216 effect sizes on L2 anxiety and achievement
 description: An open meta-analytic corpus assembled by Yasser Teimouri and colleagues from reports on second-language anxiety and achievement, with coded effect sizes and moderator information available through the IRIS database.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-15

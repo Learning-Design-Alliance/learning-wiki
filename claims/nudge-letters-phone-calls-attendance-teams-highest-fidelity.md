@@ -3,7 +3,7 @@ type: claim
 title: PPSD schools most frequently implemented nudge letters, phone calls, and attendance teams with moderate or high fidelity in 2018/19
 description: PPSD schools most frequently implemented nudge letters, phone calls, and attendance teams with moderate or high fidelity in 2018/19
 id: nudge-letters-phone-calls-attendance-teams-highest-fidelity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

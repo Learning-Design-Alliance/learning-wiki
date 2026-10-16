@@ -3,7 +3,7 @@ type: claim
 title: Students who began as English Learners graduated from high school at a slightly higher rate than never-classified EL students and enrolled in college at about the same rate, with more two-year enrollment
 description: Students who began as English Learners graduated from high school at a slightly higher rate than never-classified EL students and enrolled in college at about the same rate, with more two-year enrollment
 id: cps-english-learner-attainment-2020
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

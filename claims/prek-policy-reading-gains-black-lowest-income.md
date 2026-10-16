@@ -3,7 +3,7 @@ type: claim
 title: Pre-k policy changes were associated with higher second-grade reading test scores for Black students and students in the lowest-income group
 description: Pre-k policy changes were associated with higher second-grade reading test scores for Black students and students in the lowest-income group
 id: prek-policy-reading-gains-black-lowest-income
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

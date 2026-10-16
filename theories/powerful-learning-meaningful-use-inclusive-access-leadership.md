@@ -2,7 +2,7 @@
 type: theory
 title: Powerful learning with technology is the product of meaningful use, inclusive access, and school leadership
 description: "The report defines \"powerful learning\" as \"experiences that engage learners' hearts and minds,\" characterized by being personal and accessible, collaborative and connected, authentic and challenging, and inquisitive a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

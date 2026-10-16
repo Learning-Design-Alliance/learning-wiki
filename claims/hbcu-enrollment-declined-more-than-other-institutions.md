@@ -3,7 +3,7 @@ type: claim
 title: Enrollment at HBCUs decreased more than enrollment at other institutions after the PLUS credit-standard tightening
 description: Enrollment at HBCUs decreased more than enrollment at other institutions after the PLUS credit-standard tightening
 id: hbcu-enrollment-declined-more-than-other-institutions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

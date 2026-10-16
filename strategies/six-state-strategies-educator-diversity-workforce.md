@@ -3,7 +3,7 @@ type: strategy
 id: six-state-strategies-educator-diversity-workforce
 title: Six state strategies for increasing the racial diversity of the educator workforce, from data visibility through COVID-relief investment
 description: "The brief's policy scan organizes state action around six strategies: making educator diversity data visible and actionable, setting clear state and district goals, investing in educator preparation programs, targetin..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

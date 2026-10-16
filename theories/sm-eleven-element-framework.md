@@ -2,7 +2,7 @@
 type: theory
 title: "Self-management (SM) intervention framework: eleven self-directed elements spanning assessment, monitoring, and evaluation of behavioral performance"
 description: "The review defines SM as \"a set of strategies that students are trained in to assess, monitor, and/or evaluate their own behavioral performance\", drawing on behavioral psychology and cognitive-behavioral theories."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -56,6 +56,7 @@ The review defines SM as "a set of strategies that students are trained in to as
 - [Whole Class Self-Monitoring](../strategies/whole_class_self-monitoring.md)
 - [Self-Monitoring of Attention (SMA)](../strategies/self-monitoring-of-attention-sma.md)
 - [SOAP (Specific, Observable, Appropriate, Personal)](../strategies/soap-specific-observable-appropriate-personal.md)
+- [Implement school-based self-monitoring by selecting and defining a target behavior, then adding self-assessment and self-recording](../strategies/implement-self-monitoring-four-components-strategy.md)
 
 ## Key Sources
 - Smith, T. E., Thompson, A. M., & Maynard, B. R. (2022). Self‐management interventions for reducing challenging behaviors among school‐age students: A systematic review. Campbell Systematic Reviews, 18, e1223. https://doi.org/10.1002/cl2.1223

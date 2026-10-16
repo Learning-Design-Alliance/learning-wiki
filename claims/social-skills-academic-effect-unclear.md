@@ -3,7 +3,7 @@ type: claim
 title: The effect of social skills on academic performance is unclear; poor social skills are clearly associated with negative outcomes
 description: The effect of social skills on academic performance is unclear; poor social skills are clearly associated with negative outcomes
 id: social-skills-academic-effect-unclear
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

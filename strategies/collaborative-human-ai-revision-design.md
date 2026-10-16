@@ -3,7 +3,7 @@ type: strategy
 id: collaborative-human-ai-revision-design
 title: Collaborative Human-AI Revision Design embedding prompt engineering across drafting, feedback, and rewriting phases
 description: "The article proposes a \"Collaborative Human-AI Revision Design\" that systematically embeds prompt engineering into three writing phases."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -48,6 +48,7 @@ The article proposes a "Collaborative Human-AI Revision Design" that systematica
 - [Implement an AI-Peer-Teacher hybrid integrated feedback model staged across drafting, revision, and polishing phases](ai-peer-teacher-hybrid-feedback-model.md)
 - [Provide explicit instructional boundary cues, process-oriented assessment, and peer modeling of verification to frame responsible GenAI use](boundary-cues-and-peer-modeling-for-genai-use.md)
 - [Design AI writing support to reduce ownership loss: fade AI interactions over time, generate incomplete text requiring rewriting, and make the chatbox editable](fade-incomplete-editable-ai-writing-support.md)
+- [Provide timely automated feedback through an AI chatbot during EFL writing practice](ai-chatbot-feedback-writing-courses.md)
 
 ## Examples
 -

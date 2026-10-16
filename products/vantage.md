@@ -4,7 +4,7 @@ id: vantage
 title: Vantage
 description: Vantage is a virtual assessment platform developed by Globerson et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10
@@ -29,4 +29,4 @@ Vantage is a virtual assessment platform developed by Globerson et al. that has 
 -
 
 ## Key Sources
-- Globerson, A., Keeling, A., Choudhury, A., et al. (2026). Towards Scalable Measurement of Durable Skills. https://arxiv.org/abs/2609.15864
+- Globerson, A., Keeling, A., Choudhury, A., et al. (2026). Towards Scalable Measurement of Durable Skills. https://arxiv.org/abs/2609.15864. [doi:10.48550/arxiv.2609.15864](https://doi.org/10.48550/arxiv.2609.15864)

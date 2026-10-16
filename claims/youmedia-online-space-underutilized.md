@@ -3,7 +3,7 @@ type: claim
 title: The online space intended to motivate production and critique was not well utilized in Year 1
 description: The online space intended to motivate production and critique was not well utilized in Year 1
 id: youmedia-online-space-underutilized
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: More than 8,500 uncertified FTE teachers were in K–5 English language arts and math positions in 2024–25, and roughly 23,000 uncertified FTE were in foundational subjects that must be certified by 2027–28
 description: More than 8,500 uncertified FTE teachers were in K–5 English language arts and math positions in 2024–25, and roughly 23,000 uncertified FTE were in foundational subjects that must be certified by 2027–28
 id: uncertified-fte-foundational-subjects-hb2
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

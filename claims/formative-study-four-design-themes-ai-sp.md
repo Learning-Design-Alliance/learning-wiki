@@ -3,7 +3,7 @@ type: claim
 title: A formative study with 12 clinical-year medical students produced four design-oriented themes for AI-SP consultation practice
 description: A formative study with 12 clinical-year medical students produced four design-oriented themes for AI-SP consultation practice
 id: formative-study-four-design-themes-ai-sp
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: benefit-cost-analysis-essential-policy-toolkit
 title: Make economic evaluation (benefit-cost analysis) an essential component of the education policy toolkit
 description: "The report recommends expanding the use of benefit-cost analysis to monetize the impacts of education interventions: \"policy guidance would greatly benefit from making it an essential component of the toolkit used to..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Teacher education students in PBL identified valuing others' perspectives, interdependence, and learning about self as attitudes necessary for collaborative learning"
 description: "Teacher education students in PBL identified valuing others' perspectives, interdependence, and learning about self as attitudes necessary for collaborative learning"
 id: pbl-attitudes-valuing-interdependence-self
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

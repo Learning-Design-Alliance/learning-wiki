@@ -3,7 +3,7 @@ type: claim
 title: Low-fidelity prototype evaluation found initial UI options overwhelming and checkbox selections unintuitive
 description: Low-fidelity prototype evaluation found initial UI options overwhelming and checkbox selections unintuitive
 id: paper-prototype-overwhelming-options-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

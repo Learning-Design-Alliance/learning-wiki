@@ -3,7 +3,7 @@ type: strategy
 id: seven-policy-implications-external-support-probation
 title: Seven policy recommendations for strengthening externally supported school improvement
 description: "Based on their analysis, the authors suggest seven implications for policy, including: \"Constrain the market choice, both with respect to direction and in terms of quality\" by limiting partners to a handful of proven..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

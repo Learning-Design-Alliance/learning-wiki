@@ -3,7 +3,7 @@ type: claim
 title: Higher course grades predict larger ACT gains regardless of starting PLAN score; students with Ds or Fs lose ground
 description: Higher course grades predict larger ACT gains regardless of starting PLAN score; students with Ds or Fs lose ground
 id: good-grades-predict-act-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

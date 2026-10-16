@@ -4,7 +4,7 @@ id: bilingual-cultural-map-interface
 title: Bilingual Cultural Map Interface
 description: An open-source AI-assisted bilingual geospatial visualization prototype created by the DiscoverKunshan project for mapping culinary and cultural heritage sites through categorized markers, filters, and bilingual information panels.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

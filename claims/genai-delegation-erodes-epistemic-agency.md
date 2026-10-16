@@ -3,7 +3,7 @@ type: claim
 title: Delegating intellectual work to generative AI risks eroding epistemic agency through reduced critical effort and cognitive offloading
 description: Delegating intellectual work to generative AI risks eroding epistemic agency through reduced critical effort and cognitive offloading
 id: genai-delegation-erodes-epistemic-agency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

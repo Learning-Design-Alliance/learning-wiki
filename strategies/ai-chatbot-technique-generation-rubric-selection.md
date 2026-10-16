@@ -3,7 +3,7 @@ type: strategy
 id: ai-chatbot-technique-generation-rubric-selection
 title: Use AI chatbots as one-shot generators of candidate cooperative learning techniques, then select via a researcher-built rubric
 description: The article demonstrates a human-AI workflow in which the researcher prompts multiple AI chatbots once with course content and cooperative learning principles, then evaluates the generated proposals against predetermi...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

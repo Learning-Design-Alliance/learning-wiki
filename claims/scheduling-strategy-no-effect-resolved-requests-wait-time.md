@@ -3,7 +3,7 @@ type: claim
 title: "Choice of scheduling strategy does not significantly affect the number of resolved requests or students' overall wait time"
 description: "Choice of scheduling strategy does not significantly affect the number of resolved requests or students' overall wait time"
 id: scheduling-strategy-no-effect-resolved-requests-wait-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

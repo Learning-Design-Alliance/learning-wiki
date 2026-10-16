@@ -3,7 +3,7 @@ type: strategy
 id: communal-network-support-system-male-children
 title: Build a communal network of adults as an alternative developmental support system for male children
 description: The paper recommends that communities create a horizontal communal network in which adults assume responsibility for developing young males and their families, regardless of kinship or blood.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

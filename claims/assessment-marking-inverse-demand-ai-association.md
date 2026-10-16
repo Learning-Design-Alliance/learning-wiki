@@ -3,7 +3,7 @@ type: claim
 title: Assessment/marking shows an inverse demand–AI-use association in the primary system-average analysis, with predicted use falling 3.47 percentage points across a two-point relative-demand contrast
 description: Assessment/marking shows an inverse demand–AI-use association in the primary system-average analysis, with predicted use falling 3.47 percentage points across a two-point relative-demand contrast
 id: assessment-marking-inverse-demand-ai-association
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

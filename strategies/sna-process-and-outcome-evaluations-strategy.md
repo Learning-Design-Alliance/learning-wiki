@@ -3,7 +3,7 @@ type: strategy
 id: sna-process-and-outcome-evaluations-strategy
 title: Use SNA in both process and outcome evaluations of programs
 description: The brief recommends applying social network analysis in two evaluation types.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "The solving–pedagogy correlation is statistically fragile: leave-one-out Pearson correlations range from 0.251 to 0.887, rising to 0.887 when Qwen2.5-Math-7B-Instruct is removed"
 description: "The solving–pedagogy correlation is statistically fragile: leave-one-out Pearson correlations range from 0.251 to 0.887, rising to 0.887 when Qwen2.5-Math-7B-Instruct is removed"
 id: leave-one-out-fragility-solving-pedagogy-correlation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

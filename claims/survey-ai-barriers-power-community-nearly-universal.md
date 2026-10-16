@@ -3,7 +3,7 @@ type: claim
 title: Community survey of power-and-energy researchers and practitioners finds barriers to running AI models are nearly universal, affecting even experienced users
 description: Community survey of power-and-energy researchers and practitioners finds barriers to running AI models are nearly universal, affecting even experienced users
 id: survey-ai-barriers-power-community-nearly-universal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

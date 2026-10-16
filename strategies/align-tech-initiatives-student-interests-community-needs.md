@@ -3,7 +3,7 @@ type: strategy
 id: align-tech-initiatives-student-interests-community-needs
 title: Align educational technology initiatives with student interests and community needs
 description: "The paper's concluding recommendation is that schools launching technology initiatives should align them with student interests and community needs."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

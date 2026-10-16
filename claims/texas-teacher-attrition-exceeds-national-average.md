@@ -3,7 +3,7 @@ type: claim
 title: "Texas teacher attrition exceeds the national average by over 50%, with about 12% of teachers exiting districts before the 2023–24 school year"
 description: "Texas teacher attrition exceeds the national average by over 50%, with about 12% of teachers exiting districts before the 2023–24 school year"
 id: texas-teacher-attrition-exceeds-national-average
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

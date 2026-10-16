@@ -3,7 +3,7 @@ type: claim
 title: Research on value education in India reports that lecturing on values does not transact values effectively to children
 description: Research on value education in India reports that lecturing on values does not transact values effectively to children
 id: lecturing-on-values-does-not-transact-values-effectively
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

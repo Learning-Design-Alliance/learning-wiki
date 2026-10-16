@@ -3,7 +3,7 @@ type: strategy
 id: quarterly-ipp-indicator-data-reviews-cqi
 title: Use quarterly IPP indicator data and twice-yearly data reviews with LEAs for continuous quality improvement
 description: "Project Cal-Well partners \"provided quarterly Infrastructure Development, Prevention, and Mental Health Promotion (IPP) Indicator data to demonstrate progress toward annual goals.\" Twice a year, UCSF and the CDE met w..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

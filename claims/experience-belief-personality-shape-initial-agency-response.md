@@ -3,7 +3,7 @@ type: claim
 title: "A teacher's positive initial response to blended delivery was shaped by experience, TELL beliefs and personality"
 description: "A teacher's positive initial response to blended delivery was shaped by experience, TELL beliefs and personality"
 id: experience-belief-personality-shape-initial-agency-response
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

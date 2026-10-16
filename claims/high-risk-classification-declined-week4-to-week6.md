@@ -3,7 +3,7 @@ type: claim
 title: "The proportion of participating students classified as high-risk fell from 59% in week 4 to 39% by week 6 of the semester"
 description: "The proportion of participating students classified as high-risk fell from 59% in week 4 to 39% by week 6 of the semester"
 id: high-risk-classification-declined-week4-to-week6
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

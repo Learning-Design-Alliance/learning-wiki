@@ -3,7 +3,7 @@ type: strategy
 id: conflict-control-group-communication-task-principles
 title: Regulate conflict through group characteristics, communication processes, and task complexity that maintain exchange
 description: "The report derives conflict control principles from three levers: group characteristics, communication processes, and task demands."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

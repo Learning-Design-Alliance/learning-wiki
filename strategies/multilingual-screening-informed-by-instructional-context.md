@@ -3,7 +3,7 @@ type: strategy
 id: multilingual-screening-informed-by-instructional-context
 title: "Screen multilingual students in multiple languages where possible, choosing screener languages informed by students' instructional contexts and home language use"
 description: As the state prepares to approve screeners in languages other than English for 2026/27, the brief recommends reinforcing guidance to screen multilingual students in multiple languages where possible, particularly in t...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

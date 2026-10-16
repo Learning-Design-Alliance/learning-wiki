@@ -3,7 +3,7 @@ type: claim
 title: AI-TPACK positively predicts science teaching self-efficacy among Chinese pre-service science teachers
 description: AI-TPACK positively predicts science teaching self-efficacy among Chinese pre-service science teachers
 id: ai-tpack-predicts-science-teaching-self-efficacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

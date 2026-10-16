@@ -3,7 +3,7 @@ type: strategy
 id: listening-tour-classroom-observations
 title: Take a listening tour of classrooms when beginning work in a new school
 description: At the start of coaching work, the author visits classrooms to listen and observe literacy practices, connecting with teachers and children and immersing herself in instructional contexts.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

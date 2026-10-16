@@ -3,7 +3,7 @@ type: claim
 title: Postsecondary readiness indicators carry an average weight of 16 percent of high school summative accountability scores, ranging from 5 to 33 percent
 description: Postsecondary readiness indicators carry an average weight of 16 percent of high school summative accountability scores, ranging from 5 to 33 percent
 id: postsecondary-indicator-weight-averages-16-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

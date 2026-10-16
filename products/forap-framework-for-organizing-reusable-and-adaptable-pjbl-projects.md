@@ -4,7 +4,7 @@ id: forap-framework-for-organizing-reusable-and-adaptable-pjbl-projects
 title: FORAP (Framework for Organizing Reusable and Adaptable PjBL Projects)
 description: A framework developed by Suleiman et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10
@@ -30,4 +30,4 @@ A framework developed by Suleiman et al. for organizing reusable and adaptable c
 -
 
 ## Key Sources
-- Suleiman, A. D., DeWaters, J., Shepherd, D. C., Korkmaz, T., Hussain, F., Liu, Y., & Hou, D. (2026). Adoption-Ready Project-Based Learning for Computing Education: The FORAP Framework and a Multi-Scale Project Portfolio. https://arxiv.org/abs/2607.11129
+- Suleiman, A. D., DeWaters, J., Shepherd, D. C., Korkmaz, T., Hussain, F., Liu, Y., & Hou, D. (2026). Adoption-Ready Project-Based Learning for Computing Education: The FORAP Framework and a Multi-Scale Project Portfolio. https://arxiv.org/abs/2607.11129. [doi:10.48550/arxiv.2607.11129](https://doi.org/10.48550/arxiv.2607.11129)

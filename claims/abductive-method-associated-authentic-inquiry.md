@@ -3,7 +3,7 @@ type: claim
 title: The abductive method is the logical reasoning method most associated with features of authentic scientific inquiry in the curriculum
 description: The abductive method is the logical reasoning method most associated with features of authentic scientific inquiry in the curriculum
 id: abductive-method-associated-authentic-inquiry
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: World of Words produced a statistically significant medium effect on a comprehension composite measure (effect size 0.54) after 12 weeks
 description: World of Words produced a statistically significant medium effect on a comprehension composite measure (effect size 0.54) after 12 weeks
 id: world-of-words-comprehension-composite-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

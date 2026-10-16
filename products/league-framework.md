@@ -4,7 +4,7 @@ id: league-framework
 title: LEAGUE framework
 description: A six-pillar institutional review framework developed by S.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

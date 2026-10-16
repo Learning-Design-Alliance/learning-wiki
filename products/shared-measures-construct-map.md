@@ -4,7 +4,7 @@ id: shared-measures-construct-map
 title: Shared Measures Construct Map
 description: A one-page construct-map instrument in a practical measurement guide that defines six dimensions, sub-constructs, and relationships for monitoring ELA and math curriculum-shift implementation.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

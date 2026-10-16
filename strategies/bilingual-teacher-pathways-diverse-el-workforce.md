@@ -3,7 +3,7 @@ type: strategy
 id: bilingual-teacher-pathways-diverse-el-workforce
 title: Invest in recruiting and retaining a diverse, EL-qualified educator workforce through bilingual teaching pathways
 description: "The guide urges districts to use ARP and state funds for \"recruiting and retaining a well prepared, diverse workforce, including creating pathways for teaching and bilingual teaching that provide incentives and suppor..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

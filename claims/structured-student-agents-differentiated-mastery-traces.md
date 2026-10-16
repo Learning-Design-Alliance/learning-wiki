@@ -3,7 +3,7 @@ type: claim
 title: In a preliminary 2×3 controlled lesson study across five backbone LLMs, structured student agents produce more differentiated mastery and misconception traces than a baseline simulator
 description: In a preliminary 2×3 controlled lesson study across five backbone LLMs, structured student agents produce more differentiated mastery and misconception traces than a baseline simulator
 id: structured-student-agents-differentiated-mastery-traces
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

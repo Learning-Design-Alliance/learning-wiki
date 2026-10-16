@@ -3,7 +3,7 @@ type: claim
 title: Under the Leitner Queue Network model, raising the rate of new-item introduction beyond a threshold causes a phase transition in learning rate, which a Mechanical Turk vocabulary experiment reproduced.
 description: Under the Leitner Queue Network model, raising the rate of new-item introduction beyond a threshold causes a phase transition in learning rate, which a Mechanical Turk vocabulary experiment reproduced.
 id: leitner-queue-network-phase-transition-in-learning-rate
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

@@ -4,7 +4,7 @@ id: spanish-map-reading-fluency-foundational-skills
 title: Spanish MAP Reading Fluency Foundational Skills
 description: "NWEA's Spanish-language early-grades reading assessment measures foundational skills across kindergarten through grade 3 and provides achievement and growth norms for interpreting scores over time."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

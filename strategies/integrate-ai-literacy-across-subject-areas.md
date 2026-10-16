@@ -3,7 +3,7 @@ type: strategy
 id: integrate-ai-literacy-across-subject-areas
 title: Integrate AI literacy across grades and subject-area learning rather than confining it to electives
 description: "The report recommends that educators 'integrate AI literacy within the topics they already teach, such as math and ELA.' Because library media and computer science courses are typically electives not mandated for all..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -50,6 +50,7 @@ The report recommends that educators 'integrate AI literacy within the topics th
 - [Integrate computational thinking across K-12 subject areas rather than treating it as computer-science-only](integrate-computational-thinking-across-k12-subjects.md)
 - [Select familiar contextual topics and age-appropriate materials when integrating AI into subject courses](familiar-contexts-and-age-appropriate-materials-integrated-ai.md)
 - [Use a modular lesson structure to keep integrated AI curricula scalable under time constraints](modular-lesson-structure-scalable-integrated-ai-curriculum.md)
+- [Integrate AI literacy into disciplinary core subjects rather than adding a new AI subject](integrate-ai-literacy-into-core-subjects.md)
 
 ## Examples
 -

@@ -3,7 +3,7 @@ type: claim
 title: Students report games make the classroom atmosphere fun and increase participation
 description: Students report games make the classroom atmosphere fun and increase participation
 id: games-fun-atmosphere-participation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

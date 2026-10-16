@@ -3,7 +3,7 @@ type: claim
 title: Classroom environment has a small positive within-student relationship with course grades that is mediated by student noncognitive factors
 description: Classroom environment has a small positive within-student relationship with course grades that is mediated by student noncognitive factors
 id: classroom-environment-grades-mediated-by-noncognitive-factors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

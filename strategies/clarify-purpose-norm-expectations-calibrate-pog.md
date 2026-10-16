@@ -3,7 +3,7 @@ type: strategy
 id: clarify-purpose-norm-expectations-calibrate-pog
 title: Clarify assessment purpose, define skill expectations with rubrics and progressions, and calibrate on student work
 description: The report recommends that districts first be clear about what they want to learn from their assessment system, aligning it with their instructional vision before designing it.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

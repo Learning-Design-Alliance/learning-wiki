@@ -3,7 +3,7 @@ type: claim
 title: "A preschool teacher's professional growth in guiding children's mathematical learning was identified in three areas: recognizing demonstrated understanding, using mathematical language, and systematic assessment"
 description: "A preschool teacher's professional growth in guiding children's mathematical learning was identified in three areas: recognizing demonstrated understanding, using mathematical language, and systematic assessment"
 id: teacher-growth-three-areas-guiding-preschool-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

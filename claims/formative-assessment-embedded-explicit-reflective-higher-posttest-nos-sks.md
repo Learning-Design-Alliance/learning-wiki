@@ -3,7 +3,7 @@ type: claim
 title: In one nonequivalent-groups study of pre-school prospective teachers, the group taught with formative assessment embedded in explicit-reflective instruction scored higher on post-test NOS and SK than the group taught with explicit-reflective instruction alone
 description: In one nonequivalent-groups study of pre-school prospective teachers, the group taught with formative assessment embedded in explicit-reflective instruction scored higher on post-test NOS and SK than the group taught with explicit-reflective instruction alone
 id: formative-assessment-embedded-explicit-reflective-higher-posttest-nos-sks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

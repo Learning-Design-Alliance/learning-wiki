@@ -3,7 +3,7 @@ type: claim
 title: Higher task complexity is associated with lower written production of the target form among child learners receiving recasts
 description: Higher task complexity is associated with lower written production of the target form among child learners receiving recasts
 id: task-complexity-negatively-related-child-written-production
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -46,3 +46,4 @@ One-way ANOVA on written post-test scores of the three intact-class groups (N=30
 - [Child EFL learners receiving recasts in task-based lessons improve their production of third person singular -s from pretest to posttest, in a study with no no-recast comparison group](recasts-facilitate-child-efl-third-person-s-development.md) — related
 - [Task complexity shows no significant effect on child learners' oral production of the target form when receiving recasts](task-complexity-no-effect-child-oral-production.md) — related
 - Oral language development on a task follows at least three distinct patterns: fluency, complexity, or both — related
+- [Form-focused instruction combined with prompts is more effective than FFI combined with recasts or no feedback, especially on written tasks](ffi-with-prompts-beats-recasts-for-gender.md) — related

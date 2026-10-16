@@ -3,7 +3,7 @@ type: design
 id: etf-forecasting-pipeline-sentiment-dataset
 title: Student-built ETF forecasting pipeline with LLM-scored news sentiment dataset
 description: "The project's technical artifact is a two-stage predictive system: regression models estimate the magnitude of ETF price deltas and classification models predict direction, with predictions merged by multiplying magni..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

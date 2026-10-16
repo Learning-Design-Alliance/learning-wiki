@@ -3,7 +3,7 @@ type: claim
 title: The Kauffman School produced positive, statistically significant, and educationally meaningful impacts on student achievement growth in mathematics, English language arts, and science in each of its first five years, beyond the growth of students in other Kansas City public schools
 description: The Kauffman School produced positive, statistically significant, and educationally meaningful impacts on student achievement growth in mathematics, English language arts, and science in each of its first five years,...
 id: kauffman-school-positive-achievement-growth-impacts-five-years
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

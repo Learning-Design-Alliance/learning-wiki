@@ -3,7 +3,7 @@ type: strategy
 id: seven-perspective-conflict-heuristics-wpa
 title: Use a seven-perspective reflective heuristic (locus, process, politics, metaphor, history, existence, systems) to respond to professional conflict
 description: "The author offers a set of simple questioning perspectives as starting points for re-reading conflict and making space for responses other than somatic ones: locus (where the conflict resides), process (its narrative,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

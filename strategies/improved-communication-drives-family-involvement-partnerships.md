@@ -3,7 +3,7 @@ type: strategy
 id: improved-communication-drives-family-involvement-partnerships
 title: Use improved communication strategies to drive family involvement and partnerships with schools
 description: The report addresses how schools can increase family involvement through better communication.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

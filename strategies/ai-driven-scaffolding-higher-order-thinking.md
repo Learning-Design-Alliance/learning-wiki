@@ -3,7 +3,7 @@ type: strategy
 id: ai-driven-scaffolding-higher-order-thinking
 title: "Incorporate AI-driven scaffolding strategies to support students' higher-order thinking skills"
 description: "Among the article's implications for practice, \"Course designers may need to incorporate AI-driven scaffolding strategies to support students' higher-order thinking skills.\" This responds directly to the finding that..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

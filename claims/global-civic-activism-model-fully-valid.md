@@ -3,7 +3,7 @@ type: claim
 title: The global civic activism measurement model was fully valid with no items removed, appearing valid across contexts
 description: The global civic activism measurement model was fully valid with no items removed, appearing valid across contexts
 id: global-civic-activism-model-fully-valid
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

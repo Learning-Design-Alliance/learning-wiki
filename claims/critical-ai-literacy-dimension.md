@@ -3,7 +3,7 @@ type: claim
 title: "Critical AI literacy emerged as both a learning-design goal and a condition of teachers' professional mediation"
 description: "Critical AI literacy emerged as both a learning-design goal and a condition of teachers' professional mediation"
 id: critical-ai-literacy-dimension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

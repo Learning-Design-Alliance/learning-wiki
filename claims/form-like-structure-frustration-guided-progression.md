@@ -3,7 +3,7 @@ type: claim
 title: High-fidelity prototype evaluation found the form-like structure frustrating; a guided progressive-disclosure design replaced it
 description: High-fidelity prototype evaluation found the form-like structure frustrating; a guided progressive-disclosure design replaced it
 id: form-like-structure-frustration-guided-progression
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

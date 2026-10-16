@@ -3,7 +3,7 @@ type: claim
 title: In-person learning in Pennsylvania LEAs expanded as the 2020–2021 school year progressed
 description: In-person learning in Pennsylvania LEAs expanded as the 2020–2021 school year progressed
 id: pa-leas-in-person-learning-expanded-2020-21
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

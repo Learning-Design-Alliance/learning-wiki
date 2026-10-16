@@ -3,7 +3,7 @@ type: claim
 title: FBA-based interventions show potentially positive effects on school engagement for children identified with or at risk for an emotional disturbance
 description: FBA-based interventions show potentially positive effects on school engagement for children identified with or at risk for an emotional disturbance
 id: fba-potentially-positive-school-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

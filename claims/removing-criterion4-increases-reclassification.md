@@ -3,7 +3,7 @@ type: claim
 title: Removing Criterion 4 would likely increase reclassification rates for ready students, particularly those with disabilities or from lower socioeconomic backgrounds, without harming academic performance
 description: Removing Criterion 4 would likely increase reclassification rates for ready students, particularly those with disabilities or from lower socioeconomic backgrounds, without harming academic performance
 id: removing-criterion4-increases-reclassification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

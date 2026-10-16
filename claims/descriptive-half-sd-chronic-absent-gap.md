@@ -3,7 +3,7 @@ type: claim
 title: Descriptively, prior-year chronically absent students achieved over half a standard deviation below their peers at the start of the following year
 description: Descriptively, prior-year chronically absent students achieved over half a standard deviation below their peers at the start of the following year
 id: descriptive-half-sd-chronic-absent-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

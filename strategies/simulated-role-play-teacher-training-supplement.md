@@ -3,7 +3,7 @@ type: strategy
 id: simulated-role-play-teacher-training-supplement
 title: Use simulated student sections as a scalable supplement to teacher training and lesson preparation
 description: The authors recommend deploying simulated small-group sections as a supplement to traditional teacher training in large online courses such as Code in Place or Schoolhouse, where scaling live coaching is hard.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

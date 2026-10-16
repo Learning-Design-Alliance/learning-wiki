@@ -3,7 +3,7 @@ type: claim
 title: The influence of strategic planning on accuracy is unclear and depends on task type and planning conditions
 description: The influence of strategic planning on accuracy is unclear and depends on task type and planning conditions
 id: strategic-planning-accuracy-mixed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

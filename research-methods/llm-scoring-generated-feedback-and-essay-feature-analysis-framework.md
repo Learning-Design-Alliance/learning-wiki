@@ -3,7 +3,7 @@ type: research-method
 id: llm-scoring-generated-feedback-and-essay-feature-analysis-framework
 title: LLM scoring, generated-feedback, and essay-feature analysis framework
 description: "The article proposes an analysis framework in which \"Essays are first evaluated by LLMs to produce both predicted scores and textual feedback.\" Essay-level features (length, Flesch Reading Ease readability, and LanguageTool error counts) and feedback-derived signals (trait-specific praise and critic"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

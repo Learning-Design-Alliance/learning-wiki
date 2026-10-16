@@ -3,7 +3,7 @@ type: element
 id: personal-group-evaluation-forms-cooperative-learning
 title: Personal and group evaluation forms for cooperative learning participation
 description: "The handbook provides two ready-to-use evaluation instruments for cooperative learning activities: a Personal Evaluation Form and a Group Evaluation Form, each with Always/Occasionally/Never rating scales."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

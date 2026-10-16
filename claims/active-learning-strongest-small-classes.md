@@ -3,7 +3,7 @@ type: claim
 title: Active learning benefits students in all class sizes, with the greatest effects in classes of 50 or fewer students
 description: Active learning benefits students in all class sizes, with the greatest effects in classes of 50 or fewer students
 id: active-learning-strongest-small-classes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

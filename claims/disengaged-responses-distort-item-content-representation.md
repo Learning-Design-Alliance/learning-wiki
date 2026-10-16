@@ -3,7 +3,7 @@ type: claim
 title: Disengaged test-taking responses can distort the content representation of test items
 description: Disengaged test-taking responses can distort the content representation of test items
 id: disengaged-responses-distort-item-content-representation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

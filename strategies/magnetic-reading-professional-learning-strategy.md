@@ -3,7 +3,7 @@ type: strategy
 id: magnetic-reading-professional-learning-strategy
 title: "Use Curriculum Associates professional learning: introductory course, on-site development days, and free OEL digital courses"
 description: "Curriculum Associates' professional learning for Magnetic Reading is centered on developing educators' capacity, across ranges of experience, to implement key instructional moves."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

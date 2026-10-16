@@ -3,7 +3,7 @@ type: claim
 title: No significant differences between SCMC and FTF interaction on L2 development overall
 description: No significant differences between SCMC and FTF interaction on L2 development overall
 id: no-significant-scmc-ftf-differences-l2-development
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

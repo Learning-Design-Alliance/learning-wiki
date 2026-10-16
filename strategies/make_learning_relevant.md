@@ -63,6 +63,7 @@ Relevance works primarily through task value: when learners perceive that conten
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — relevance works by connecting new content to what learners already know and care about
 - [Authentic Learning](../principles/authentic-audiences-purposes.md) — the structural form of relevance: real tasks, audiences, and consequences
 - [Form Interest Groups and Strengths-Based Groups in Science](interest-based-grouping-in-science.md)
+- [Guide young students through investigating interests, making choices, and setting and attaining learning goals](guide-interests-choices-goal-setting-young-children.md)
 
 ## Examples
 - **[Anchored Instruction (Jasper Woodbury Project)](https://peabody.vanderbilt.edu/research/legacy_projects.php)** — Vanderbilt's Jasper Adventure series anchors mathematics problem solving in extended video narratives, giving abstract math a compelling story context.

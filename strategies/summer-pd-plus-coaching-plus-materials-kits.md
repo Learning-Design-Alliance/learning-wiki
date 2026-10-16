@@ -3,7 +3,7 @@ type: strategy
 id: summer-pd-plus-coaching-plus-materials-kits
 title: Combine summer professional development with school-year on-site coaching and provision of complete instructional materials
 description: "The article's implementation model pairs a 2-week summer training session with on-site coaching during the school year and provision of all necessary materials in rotating kits."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

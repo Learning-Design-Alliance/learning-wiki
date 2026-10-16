@@ -3,7 +3,7 @@ type: strategy
 id: educator-networks-knowledge-sharing-ai
 title: Facilitate educator networks and knowledge-sharing hubs for educational AI
 description: The review reports, citing Salas-Pilco (2020), a strategy of organising educator networks to overcome obstacles such as time constraints, workload, and lack of resources for teacher training in AI education.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

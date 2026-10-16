@@ -4,7 +4,7 @@ id: map-reading-fluency-foundational-skills-assessment
 title: MAP Reading Fluency Foundational Skills assessment
 description: An NWEA English early-literacy assessment for Grades K–3 measuring phonological awareness, phonics and word recognition, and language comprehension, with achievement and growth norms.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

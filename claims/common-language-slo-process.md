@@ -3,7 +3,7 @@ type: claim
 title: In every district, more educators agree than disagree that they share a common language for the SLO process
 description: In every district, more educators agree than disagree that they share a common language for the SLO process
 id: common-language-slo-process
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

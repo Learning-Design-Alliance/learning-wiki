@@ -3,7 +3,7 @@ type: claim
 title: The DARPA Digital Tutor, an ITS for U.S. Navy information systems technicians, produced the largest effects in the data set (average ES of 1.97 and 3.18 in two summative evaluations)
 description: The DARPA Digital Tutor, an ITS for U.S.
 id: darpa-digital-tutor-largest-its-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

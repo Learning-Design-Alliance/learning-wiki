@@ -3,7 +3,7 @@ type: claim
 title: Achievement effects accumulated over a third year in schools implementing personalized learning since 2012 or earlier, though not purely additively
 description: Achievement effects accumulated over a third year in schools implementing personalized learning since 2012 or earlier, though not purely additively
 id: pl-effects-accumulate-third-year
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

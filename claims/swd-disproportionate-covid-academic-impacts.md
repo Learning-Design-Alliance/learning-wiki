@@ -3,7 +3,7 @@ type: claim
 title: Students with disabilities may have experienced disproportionate academic impacts from COVID-19, according to NWEA research
 description: Students with disabilities may have experienced disproportionate academic impacts from COVID-19, according to NWEA research
 id: swd-disproportionate-covid-academic-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

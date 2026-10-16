@@ -3,7 +3,7 @@ type: claim
 title: "Research on professional community faces conceptual and methodological difficulties: no universal definition exists and operationalization varies across studies"
 description: "Research on professional community faces conceptual and methodological difficulties: no universal definition exists and operationalization varies across studies"
 id: professional-community-definition-operationalization-difficulties
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

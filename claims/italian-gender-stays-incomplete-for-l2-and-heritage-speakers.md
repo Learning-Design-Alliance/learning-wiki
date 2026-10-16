@@ -3,7 +3,7 @@ type: claim
 title: Italian grammatical gender stays incompletely mastered by L2 learners and heritage speakers alike, and a gendered first language helps only conditionally.
 id: italian-gender-stays-incomplete-for-l2-and-heritage-speakers
 description: Spanish–Italian and Swedish–Italian bilinguals, both L2 and heritage, showed incomplete gender knowledge in every configuration; typological proximity helped only for particular cognate and congruency combinations, and in production only.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-03

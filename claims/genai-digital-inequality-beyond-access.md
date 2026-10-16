@@ -3,7 +3,7 @@ type: claim
 title: GenAI-mediated digital inequality in higher education extends beyond access to tool capability, skills, and pedagogical support
 description: GenAI-mediated digital inequality in higher education extends beyond access to tool capability, skills, and pedagogical support
 id: genai-digital-inequality-beyond-access
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -52,3 +52,4 @@ The article argues from its literature synthesis, citing established digital-ine
 - [Capabilities and skills are explicitly addressed in only 3 of 36 reviewed GenAI studies, marking a gap in AI-literacy and educator-capability research](capabilities-skills-addressed-in-only-3-of-36-genai-studies.md) — related
 - [Equitable-access and digital-inclusion themes are minimally represented in HI/HIM AI policies](equitable-access-themes-limited-ai-policies.md) — related
 - [SAIL is designed to address second- and third-level digital divides through scaffolded skills and explicitly embedded equity competencies](sail-addresses-second-third-level-digital-divides.md) — a narrower finding that bears on this claim
+- [Little attention has been paid to the undesirable consequences of indiscriminate AI application, including automation-driven socio-economic inequality](k12-ai-literacy-neglects-undesirable-consequences.md) — related

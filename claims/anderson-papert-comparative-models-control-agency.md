@@ -3,7 +3,7 @@ type: claim
 title: "Anderson's structured cognitive tutoring systems and Papert's constructionist approach embody contrasting positions on control and learner agency"
 description: "Anderson's structured cognitive tutoring systems and Papert's constructionist approach embody contrasting positions on control and learner agency"
 id: anderson-papert-comparative-models-control-agency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

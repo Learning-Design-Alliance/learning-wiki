@@ -59,7 +59,7 @@ Learner analysis operationalizes the core finding that learning is a function of
 
 ## Related Methods
 - [Learner and Context Analysis](learner-and-context-analysis.md) — the broader Dick & Carey analysis that pairs audience data with environmental and task context
-- [Diagnostic Pre-Assessment](../strategies/diagnostic-pre-assessment.md) — the primary data-collection instrument for learner analysis
+- [Diagnostic Pre-Assessment](../strategies/diagnostic-assessment.md) — the primary data-collection instrument for learner analysis
 - [Differentiated Instruction](../strategies/differentiated-instruction.md) — the instructional response when analysis reveals heterogeneous readiness
 
 ## Examples

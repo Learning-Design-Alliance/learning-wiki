@@ -3,7 +3,7 @@ type: element
 id: rel-ma-remote-learning-exploratory-review
 title: Exploratory research review of promising practices and approaches to support remote learning (REL Mid-Atlantic, 2020)
 description: An exploratory research review published by Regional Educational Laboratory Mid-Atlantic in July 2020 addressing remote learning in K-12 settings.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

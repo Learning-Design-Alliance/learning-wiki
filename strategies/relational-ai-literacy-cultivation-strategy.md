@@ -3,7 +3,7 @@ type: strategy
 id: relational-ai-literacy-cultivation-strategy
 title: Cultivate AI literacy as relational rather than transactional work through reflective engagement with human-AI entanglement
 description: "The article recommends that educators cultivate AI literacy through a posthumanist prism as relational work: encouraging reflective, critical conversations about participation in an AI-mediated world and a critical se..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: design
 id: custom-ai-legal-knowledge-base-assistant
 title: Custom AI assistants with curated legal knowledge bases, queried in de-identified form
 description: "The method's operational key tool in both units was a custom AI built on free-tier platform functionality (Projects in ChatGPT and Claude, Gems in Gemini) loaded with the unit's applicable normative base."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

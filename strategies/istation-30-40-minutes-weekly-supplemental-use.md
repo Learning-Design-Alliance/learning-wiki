@@ -3,7 +3,7 @@ type: strategy
 id: istation-30-40-minutes-weekly-supplemental-use
 title: Implement Istation as a supplemental curriculum at the recommended 30–40 minutes of weekly use
 description: "The article specifies a dosage recommendation for the program: \"Istation recommends 30–40 minutes of supplemental curriculum use per week.\" In the evaluated studies, students generally averaged about 15–16 hours of to..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

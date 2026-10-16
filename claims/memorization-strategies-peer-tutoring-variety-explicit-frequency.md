@@ -3,7 +3,7 @@ type: claim
 title: For facilitation of memorization, strategy variety was highest in the peer tutoring group while frequency was highest in the explicit instruction group
 description: For facilitation of memorization, strategy variety was highest in the peer tutoring group while frequency was highest in the explicit instruction group
 id: memorization-strategies-peer-tutoring-variety-explicit-frequency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

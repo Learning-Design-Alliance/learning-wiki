@@ -3,7 +3,7 @@ type: claim
 title: Shrunken study-specific RD bias estimates stay below 0.07 standard deviations, indicating good external validity
 description: Shrunken study-specific RD bias estimates stay below 0.07 standard deviations, indicating good external validity
 id: rd-shrunken-bias-below-0-07-sd-external-validity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

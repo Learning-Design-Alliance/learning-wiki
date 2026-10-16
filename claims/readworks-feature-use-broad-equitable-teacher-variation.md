@@ -3,7 +3,7 @@ type: claim
 title: "Feature use was widespread across student groups (92% of students used at least one feature; 75% of assignments included feature use), with no differences by STAR score, special education status, or income, but substantial variation across teachers"
 description: "Feature use was widespread across student groups (92% of students used at least one feature; 75% of assignments included feature use), with no differences by STAR score, special education status, or income, but substa..."
 id: readworks-feature-use-broad-equitable-teacher-variation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
@@ -18,16 +18,16 @@ sources:
     kind: design
     rigour: 2
   - id: tare-2019-2
-    resource: "https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985"
-    title: "Tare, M. & Shell, A. R. (2019). Designing for learner variability: Examining the impact of research-based edtech in the classroom. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985"
+    resource: "https://doi.org/10.51388/20.500.12265/81"
+    title: "Tare, M. & Shell, A. R. (2019). Designing for learner variability: Examining the impact of research-based edtech in the classroom. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985. [doi:10.51388/20.500.12265/81](https://doi.org/10.51388/20.500.12265/81)"
     author: "Tare, M. & Shell, A. R."
     q: 2
     i: "?"
     kind: associational
     rigour: 2
   - id: tare-2019-3
-    resource: "https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985"
-    title: "Tare, M. & Shell, A. R. (2019). Designing for learner variability: Examining the impact of research-based edtech in the classroom. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985"
+    resource: "https://doi.org/10.51388/20.500.12265/81"
+    title: "Tare, M. & Shell, A. R. (2019). Designing for learner variability: Examining the impact of research-based edtech in the classroom. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985. [doi:10.51388/20.500.12265/81](https://doi.org/10.51388/20.500.12265/81)"
     author: "Tare, M. & Shell, A. R."
     q: 2
     i: "?"
@@ -38,7 +38,7 @@ sources:
 # Feature use was widespread across student groups (92% of students used at least one feature; 75% of assignments included feature use), with no differences by STAR score, special education status, or income, but substantial variation across teachers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (3 entries) · 1 associational `r2`, 1 design `r2` · `q2`
+> **Evidence** · 1 study (3 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` 92 percent of students used at least one LVP-supported feature and 75 percent of assignments were completed with feature use; audio was most used, followed by split screen. [→ Tare 2019](#tare-2019)
@@ -59,7 +59,7 @@ Feature-level log analysis in the district study (82 teachers made assignments; 
 
 ### Tare 2019 (2)
 
-Tare, M. & Shell, A. R. (2019). Designing for learner variability: Examining the impact of research-based edtech in the classroom. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985
+Tare, M. & Shell, A. R. (2019). Designing for learner variability: Examining the impact of research-based edtech in the classroom. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985. [doi:10.51388/20.500.12265/81](https://doi.org/10.51388/20.500.12265/81)
 
 `q2 · i?` · `associational · r2`
 
@@ -69,7 +69,7 @@ Null comparison of feature use across student characteristic groups in the distr
 
 ### Tare 2019 (3)
 
-Tare, M. & Shell, A. R. (2019). Designing for learner variability: Examining the impact of research-based edtech in the classroom. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985
+Tare, M. & Shell, A. R. (2019). Designing for learner variability: Examining the impact of research-based edtech in the classroom. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985. [doi:10.51388/20.500.12265/81](https://doi.org/10.51388/20.500.12265/81)
 
 `q2 · i?` · `associational · r2`
 

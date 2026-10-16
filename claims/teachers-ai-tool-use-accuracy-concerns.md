@@ -3,7 +3,7 @@ type: claim
 title: Teachers actively use AI tools but face challenges with content accuracy and usage guidelines
 description: Teachers actively use AI tools but face challenges with content accuracy and usage guidelines
 id: teachers-ai-tool-use-accuracy-concerns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: LecturaAgents scores higher than Instructional Agents, GenMentor, and Learn Your Way on lecture content, personalization, and assessment quality
 description: LecturaAgents scores higher than Instructional Agents, GenMentor, and Learn Your Way on lecture content, personalization, and assessment quality
 id: lecturaagents-outperforms-baselines-lcq-pq-aq
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

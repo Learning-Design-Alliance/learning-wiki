@@ -4,7 +4,7 @@ id: studentsimeval
 title: StudentSimEval
 description: StudentSimEval is a benchmark dataset, fixed per-student record schema, held-out evaluation split, and scoring code created by Ke Yang et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

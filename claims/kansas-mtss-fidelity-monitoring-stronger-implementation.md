@@ -3,7 +3,7 @@ type: claim
 title: Schools with formal fidelity-monitoring processes achieved stronger MTSS implementation, and full implementers share leadership, professional development, and integration characteristics
 description: Schools with formal fidelity-monitoring processes achieved stronger MTSS implementation, and full implementers share leadership, professional development, and integration characteristics
 id: kansas-mtss-fidelity-monitoring-stronger-implementation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: GenAI-assisted education produces significantly higher higher-order thinking abilities than non-GenAI approaches (g = 0.72)
 description: GenAI-assisted education produces significantly higher higher-order thinking abilities than non-GenAI approaches (g = 0.72)
 id: genai-higher-order-thinking-g072
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -52,3 +52,6 @@ Random-effects meta-analysis of the included comparison studies for higher-order
 - [Adult learners view AI as a collaborative learning agent for solving complex problems, sharing knowledge, and honing higher-order thinking](ai-as-collaborative-learning-agent.md) — related
 - [AI-PBL students achieve high normalized learning gains (g = 0.73) in computational thinking and academic achievement while control students record low gains (g ≤ 0.20)](ai-pbl-high-ngain-versus-control-low.md) — related
 - [Embodied GenAI agents in mixed reality raised engagement and lowered cognitive load for 26 post-secondary learners during collaborative problem-solving](embodied-mr-agents-engagement-cognitive-load-26-learners.md) — related
+- ChatGPT use shows a moderate positive pooled effect on students' higher-order thinking (g = 0.457) — related
+- [GAI-assisted DST creation produced significantly higher collaborative problem-solving skills than traditional methods among university students](gai-assisted-dst-improves-cps-skills.md) — a narrower finding that bears on this claim
+- [GCLA use enhances higher-order thinking skills—critical thinking, problem-solving, and creativity—compared with traditional ChatGPT use](gcla-improves-hots.md) — a narrower finding that bears on this claim

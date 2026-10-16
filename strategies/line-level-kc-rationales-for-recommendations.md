@@ -3,7 +3,7 @@ type: strategy
 id: line-level-kc-rationales-for-recommendations
 title: Provide line-level KC-based rationales to make recommendations auditable and pattern-focused
 description: Because similarity is computed over pattern-based KCs, the system decomposes the cosine score into per-KC contributions and traces high-contributing KCs back through the pipeline to high-attention subtree instances an...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

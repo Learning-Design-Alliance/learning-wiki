@@ -4,7 +4,7 @@ id: milpitas-early-learning-transitions-model
 title: Milpitas Early Learning Transitions Model
 description: A Milpitas Unified School District programme funded by the Heising-Simons Foundation to strengthen supports for preschool children and families preparing for elementary school.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: career-academy-employer-partnership-work-based-learning
 title: Employer partnerships providing work-based learning placements, mentors, and career-awareness activities
 description: Career Academies build relationships with local employers who support the program and provide work- and career-related activities.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

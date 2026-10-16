@@ -3,7 +3,7 @@ type: claim
 title: "Black TECTA participants were 30.8% less likely than white counterparts to obtain further credentials after their initial orientation"
 description: "Black TECTA participants were 30.8% less likely than white counterparts to obtain further credentials after their initial orientation"
 id: black-tecta-participants-less-likely-further-credentials
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

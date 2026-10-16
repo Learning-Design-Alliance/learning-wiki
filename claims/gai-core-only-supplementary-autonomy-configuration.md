@@ -3,7 +3,7 @@ type: claim
 title: GAI use appears as a core condition only in a supplementary autonomy–relatedness configuration with low unique coverage
 description: GAI use appears as a core condition only in a supplementary autonomy–relatedness configuration with low unique coverage
 id: gai-core-only-supplementary-autonomy-configuration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
@@ -47,3 +47,4 @@ fsQCA sufficiency analysis. C2 paired core autonomy need satisfaction with core 
 - [High GAI use is not a necessary condition for high learning engagement, and no single condition is strictly necessary](gai-use-not-necessary-high-engagement-fsqca.md) — related
 - [The direct association between GAI use and learning engagement is not statistically significant, while the indirect association through need satisfaction is significant but small](gai-engagement-direct-null-indirect-small.md) — related
 - [GAI use is weakly positively associated with basic psychological need satisfaction among medical undergraduates](gai-use-weakly-associated-need-satisfaction-medical-undergraduates.md) — related
+- [Well-designed games can promote persistence in practice and high-quality engagement, and when basic needs of autonomy, competence, and relatedness are met, learning becomes its own reward, reducing the temptation to outsource cognitive effort to LLMs.](well-designed-games-foster-practice-and-intrinsic-motivation.md) — related

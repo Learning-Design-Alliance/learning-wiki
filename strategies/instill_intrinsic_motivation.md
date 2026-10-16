@@ -64,7 +64,7 @@ Intrinsic motivation is a stronger predictor of persistence, depth of engagement
 
 ## Examples
 - A teacher opens a writing unit by letting students choose their topic and audience, then runs brief daily check-ins where students name one negative thought about writing, reframe it, and note how completing a draft step felt.
-- **Responsive Classroom** practices (e.g., academic choice and interactive modeling, https://www.responsivereadsponsiveclassroom.org) embed the thought–action–feeling cycle into K–8 routines.
+- **[Responsive Classroom](../products/responsive-classroom.md)** practices (e.g., academic choice and interactive modeling, https://www.responsivereadsponsiveclassroom.org) embed the thought–action–feeling cycle into K–8 routines.
 - A middle-school math teacher replaces "you must finish these problems" with a rationale ("this is the tool you'll need for the bridge-design project you chose") and process-level feedback, shifting students from compliance to engagement.
 
 ## Key Sources

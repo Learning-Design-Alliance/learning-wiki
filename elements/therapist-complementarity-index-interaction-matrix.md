@@ -3,7 +3,7 @@ type: element
 id: therapist-complementarity-index-interaction-matrix
 title: Therapist Complementarity Index (CI) derived from a weighted 4x4 Interaction Matrix
 description: "The article develops a quantification of therapist complementarity: a 4x4 Interaction Matrix in which \"All 16 cells were assigned weightings (3, 2, or 1)\" reflecting the relative complementarity of each elicitation-re..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
@@ -50,4 +50,4 @@ The article develops a quantification of therapist complementarity: a 4x4 Intera
 -
 
 ## Key Sources
-- Dietzel, C. S.; Abeles, Norman. (1974). Client-Therapist Complementarity and Therapeutic Outcome. https://eric.ed.gov/?id=ED091646
+- Dietzel, C. S.; Abeles, Norman. (1974). Client-Therapist Complementarity and Therapeutic Outcome. https://eric.ed.gov/?id=ED091646. [doi:10.1037/h0076731](https://doi.org/10.1037/h0076731)

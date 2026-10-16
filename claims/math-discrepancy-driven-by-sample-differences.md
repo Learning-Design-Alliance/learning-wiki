@@ -3,7 +3,7 @@ type: claim
 title: The math discrepancy between NWEA and ERS recovery estimates is largely driven by differences in their samples of districts
 description: The math discrepancy between NWEA and ERS recovery estimates is largely driven by differences in their samples of districts
 id: math-discrepancy-driven-by-sample-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

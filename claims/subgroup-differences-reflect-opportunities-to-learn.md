@@ -3,7 +3,7 @@ type: claim
 title: Subgroup score differences largely reflect differing opportunities to learn, not inherent group traits
 description: Subgroup score differences largely reflect differing opportunities to learn, not inherent group traits
 id: subgroup-differences-reflect-opportunities-to-learn
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

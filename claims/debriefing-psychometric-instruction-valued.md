@@ -3,7 +3,7 @@ type: claim
 title: Students perceive debriefing and guided psychometric-property exploration as the most beneficial components of a simulated clinical course
 description: Students perceive debriefing and guided psychometric-property exploration as the most beneficial components of a simulated clinical course
 id: debriefing-psychometric-instruction-valued
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

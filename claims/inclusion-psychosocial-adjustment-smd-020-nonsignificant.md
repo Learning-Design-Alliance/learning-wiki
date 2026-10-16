@@ -3,7 +3,7 @@ type: claim
 title: Inclusion shows a small, non-significant pooled advantage over segregated placement for overall psychosocial adjustment of children with SEN
 description: Inclusion shows a small, non-significant pooled advantage over segregated placement for overall psychosocial adjustment of children with SEN
 id: inclusion-psychosocial-adjustment-smd-020-nonsignificant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

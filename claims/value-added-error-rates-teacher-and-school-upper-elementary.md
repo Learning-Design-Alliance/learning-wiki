@@ -3,7 +3,7 @@ type: claim
 title: Value-added error rates apply to measuring both teacher and school performance in the upper elementary grades using student test score gain data
 description: Value-added error rates apply to measuring both teacher and school performance in the upper elementary grades using student test score gain data
 id: value-added-error-rates-teacher-and-school-upper-elementary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

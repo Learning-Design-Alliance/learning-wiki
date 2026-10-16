@@ -3,7 +3,7 @@ type: claim
 title: Only one of seven eligible studies of I CAN Learn® met WWC group design standards, and it met them only with reservations
 description: Only one of seven eligible studies of I CAN Learn® met WWC group design standards, and it met them only with reservations
 id: ican-learn-thin-evidence-base-one-qualifying-study
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

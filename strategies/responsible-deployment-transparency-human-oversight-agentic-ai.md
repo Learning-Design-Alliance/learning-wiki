@@ -3,7 +3,7 @@ type: strategy
 id: responsible-deployment-transparency-human-oversight-agentic-ai
 title: Deploy agentic AI in education with transparency about agentic decisions, human oversight and institutional responsibility
 description: The review recommends that deployment of agentic AI in education be governed by transparency, privacy and oversight mechanisms.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

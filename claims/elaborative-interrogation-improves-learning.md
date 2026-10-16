@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Elaborative Interrogation Improves Learning
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25
@@ -127,3 +127,4 @@ Open questions for future enrichment: effect sizes relative to other learning te
 - [Elaborative interrogation benefits increase as learners' prior knowledge increases](elaborative-interrogation-prior-knowledge-moderator.md) — a narrower finding that bears on this claim
 - [Practice testing and distributed practice receive high utility assessments because their benefits generalize widely across learners, tasks, and educational contexts](practice-testing-distributed-practice-high-utility.md) — related
 - [Self-explanation improves abstract transfer of logical rules relative to no self-explanation](self-explanation-improves-abstract-transfer.md) — related
+- [Self-explanation promotes transfer of general patterns but can reduce recall of details and cause overgeneralization](self-explanation-improves-transfer-reduces-detail-recall.md) — related

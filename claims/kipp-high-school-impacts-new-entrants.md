@@ -3,7 +3,7 @@ type: claim
 title: KIPP high schools have positive, statistically significant, and educationally meaningful achievement impacts for students new to the KIPP network
 description: KIPP high schools have positive, statistically significant, and educationally meaningful achievement impacts for students new to the KIPP network
 id: kipp-high-school-impacts-new-entrants
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

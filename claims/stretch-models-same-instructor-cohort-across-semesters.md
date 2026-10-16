@@ -3,7 +3,7 @@ type: claim
 title: Faculty report stretch models are widely seen as effective for developmental writing and function best when the same instructor and student cohort persist across semesters
 description: Faculty report stretch models are widely seen as effective for developmental writing and function best when the same instructor and student cohort persist across semesters
 id: stretch-models-same-instructor-cohort-across-semesters
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

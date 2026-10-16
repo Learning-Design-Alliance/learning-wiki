@@ -3,7 +3,7 @@ type: strategy
 id: scenario-guided-conversation-level-ai-tutor-evaluation
 title: Scenario-guided, conversation-level expert evaluation of AI tutors in three stages
 description: "The report describes a reusable evaluation strategy: curate a bank of 49 structured learning scenarios specifying subject, setting, learning goal, grounding material, learner persona, conversation plan, initial query,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

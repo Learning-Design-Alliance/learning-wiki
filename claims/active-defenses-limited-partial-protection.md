@@ -3,7 +3,7 @@ type: claim
 title: Active defenses (Privacy Sanitization, Adversarial Obfuscation) reduce but do not eliminate persona-skill leakage, leaving personality and background exposed
 description: Active defenses (Privacy Sanitization, Adversarial Obfuscation) reduce but do not eliminate persona-skill leakage, leaving personality and background exposed
 id: active-defenses-limited-partial-protection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

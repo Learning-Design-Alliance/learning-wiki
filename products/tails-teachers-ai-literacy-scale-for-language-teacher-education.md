@@ -4,7 +4,7 @@ id: tails-teachers-ai-literacy-scale-for-language-teacher-education
 title: "TAILS: Teachers' AI Literacy Scale for language teacher education"
 description: TAILS is a 27-item validated self-report scale developed by Salim Nabhan to assess AI literacy among preservice English language teachers.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

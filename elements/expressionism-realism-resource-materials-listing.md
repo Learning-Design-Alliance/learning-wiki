@@ -3,7 +3,7 @@ type: element
 id: expressionism-realism-resource-materials-listing
 title: 33-page annotated resource listing for students and teachers
 description: The guide includes an extensive compilation of resource materials supporting both students and teachers.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

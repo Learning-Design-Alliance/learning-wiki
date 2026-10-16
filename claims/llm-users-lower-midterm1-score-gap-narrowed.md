@@ -3,7 +3,7 @@ type: claim
 title: Students who used LLMs on assignments scored significantly lower than non-users on the first midterm (large effect size), but this gap narrowed and was non-significant on the later midterms
 description: Students who used LLMs on assignments scored significantly lower than non-users on the first midterm (large effect size), but this gap narrowed and was non-significant on the later midterms
 id: llm-users-lower-midterm1-score-gap-narrowed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

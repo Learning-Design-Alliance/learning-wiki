@@ -3,7 +3,7 @@ type: research-method
 id: intersectional-disaggregation-of-school-climate-survey-data
 title: Intersectional disaggregation of school-climate survey data
 description: "This report's organizing method is to disaggregate one large survey dataset along intersecting identity axes rather than analyzing LGBTQ students as a single group."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

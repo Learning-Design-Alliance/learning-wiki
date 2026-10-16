@@ -3,7 +3,7 @@ type: claim
 title: One adult educator's first-person reflection reports that facilitated class discussions left her feeling empowered as an individual contributor
 description: "One adult educator's first-person reflection reports that facilitated class discussions left her feeling empowered as an individual contributor"
 id: facilitated-self-directed-learning-empowers-adults
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

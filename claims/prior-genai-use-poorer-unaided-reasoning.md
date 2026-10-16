@@ -3,7 +3,7 @@ type: claim
 title: Prior genAI use shows some evidence of poorer subsequent unaided reasoning, confined to the no-incentive condition
 description: Prior genAI use shows some evidence of poorer subsequent unaided reasoning, confined to the no-incentive condition
 id: prior-genai-use-poorer-unaided-reasoning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

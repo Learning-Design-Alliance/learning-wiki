@@ -3,7 +3,7 @@ type: strategy
 id: four-step-anonymization-engagement-data
 title: Four-step anonymization balancing disclosure risk and data utility
 description: "The anonymization tip sheet defines anonymization as 'removing information that could be used to identify someone' and prescribes four steps: redact direct identifiers such as name, address, or telephone numbers; high..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

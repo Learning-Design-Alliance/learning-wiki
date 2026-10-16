@@ -63,7 +63,7 @@ Process praise is grounded in implicit-theory (mindset) research: feedback about
 
 ## Examples
 - **Classroom language (Mueller & Dweck paradigm):** After a successful math set, a teacher says "You must have tried good strategies" rather than "You must be smart at math" — the original studies showed this difference changed children's persistence and performance on subsequent failure trials.
-- **Writing conferences:** A teacher praises the specific revision move ("cutting your opening paragraph put the reader straight into the scene") rather than "you're a talented writer."
+- **[Writing conferences](writing-conferences.md):** A teacher praises the specific revision move ("cutting your opening paragraph put the reader straight into the scene") rather than "you're a talented writer."
 - **[Khan Academy](https://www.khanacademy.org)** — mastery-based progress messaging ("you've practiced this skill 3 days in a row") reinforces process and persistence rather than labeling ability.
 
 ## Key Sources

@@ -3,7 +3,7 @@ type: design
 id: genius-hour-elected-enrichment-blocks
 title: "Genius Hour: student-elected enrichment blocks in the extended day with showcase events"
 description: "Genius Hour is Los Padillas's extended-day enrichment structure in which \"Students select an extracurricular activity to focus on daily for 6 weeks,\" with options ranging \"from coding, robotics, and circuits to knitti..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

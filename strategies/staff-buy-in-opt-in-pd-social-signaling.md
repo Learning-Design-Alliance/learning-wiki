@@ -3,7 +3,7 @@ type: strategy
 id: staff-buy-in-opt-in-pd-social-signaling
 title: Build staff buy-in and mastery through opt-in professional development, social signaling, and preparation for fallback moments
 description: The report recommends developing staff mastery of restorative practices because programming often fails to shift school practices when staff hesitate to adopt them.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

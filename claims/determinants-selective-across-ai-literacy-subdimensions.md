@@ -3,7 +3,7 @@ type: claim
 title: "Predictors operate selectively across AI literacy subdimensions: digital competence fails to predict technical proficiency or communication proficiency, and perceived resources predict only communication proficiency and creative application"
 description: "Predictors operate selectively across AI literacy subdimensions: digital competence fails to predict technical proficiency or communication proficiency, and perceived resources predict only communication proficiency a..."
 id: determinants-selective-across-ai-literacy-subdimensions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: strategy
 id: use-boards-to-understand-learner-anxieties
 title: "Use online platform discussion boards as a window into learners' pandemic-related anxieties and needs"
 description: The article recommends that educators use Duolingo and other online platforms to understand the predicaments students face.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -43,4 +43,4 @@ The article recommends that educators use Duolingo and other online platforms to
 -
 
 ## Key Sources
-- Neuschafer, T. (2022). Understanding Duolingo discussion boards as social-emotional support during the COVID-19 pandemic. Journal of Educators Online. https://eric.ed.gov/?id=EJ1393729
+- Neuschafer, T. (2022). Understanding Duolingo discussion boards as social-emotional support during the COVID-19 pandemic. Journal of Educators Online. https://eric.ed.gov/?id=EJ1393729. [doi:10.9743/jeo.2023.20.2.8](https://doi.org/10.9743/jeo.2023.20.2.8)

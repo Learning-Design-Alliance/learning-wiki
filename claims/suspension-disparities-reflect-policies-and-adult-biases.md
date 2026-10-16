@@ -3,7 +3,7 @@ type: claim
 title: Racial differences in suspension rates reflect policies and adult biases, not differences in behavior
 description: Racial differences in suspension rates reflect policies and adult biases, not differences in behavior
 id: suspension-disparities-reflect-policies-and-adult-biases
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

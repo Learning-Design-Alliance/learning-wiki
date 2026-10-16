@@ -3,7 +3,7 @@ type: claim
 title: Cooperative learning has drawbacks including slow learners depending on fast achievers, so teachers should stress both cooperative and individual work
 description: Cooperative learning has drawbacks including slow learners depending on fast achievers, so teachers should stress both cooperative and individual work
 id: cooperative-learning-versus-individual-endeavors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

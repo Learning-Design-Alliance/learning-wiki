@@ -3,7 +3,7 @@ type: strategy
 id: collegial-support-professional-development-technology-integration
 title: Provide extensive collegial support and professional development for technology integration to avoid maintaining the digital divide
 description: "The report's new 2001 technology profiles assess support for technology integration and availability and use of technology in the classroom."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "EducaSim's LLM-based speaker oracle distinguishes it from prior simulation tools on multi-agent interaction"
 description: "EducaSim's LLM-based speaker oracle distinguishes it from prior simulation tools on multi-agent interaction"
 id: educasim-llm-oracle-multi-agent-speaker-selection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Detector flag rates on 2023–2025 original abstracts vary sharply by domain, with non-STEM rates far above STEM
 description: Detector flag rates on 2023–2025 original abstracts vary sharply by domain, with non-STEM rates far above STEM
 id: non-stem-abstracts-flagged-more-than-stem
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

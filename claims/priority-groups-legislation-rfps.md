@@ -3,7 +3,7 @@ type: claim
 title: States targeted summer learning access by naming priority groups in legislation or grant RFPs
 description: States targeted summer learning access by naming priority groups in legislation or grant RFPs
 id: priority-groups-legislation-rfps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

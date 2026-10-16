@@ -3,7 +3,7 @@ type: design
 id: memdora-collaborative-deck-layer
 title: Collaborative deck layer with live synchronization and independent per-follower scheduling
 description: "Memdora's collaborative layer lets users publish decks publicly, to friends, or privately; published decks appear in a Discover feed where users follow them."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

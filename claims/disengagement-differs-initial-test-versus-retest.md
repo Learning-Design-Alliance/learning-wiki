@@ -3,7 +3,7 @@ type: claim
 title: Test-taking disengagement frequently differs between a MAP Growth initial test and a same-day retest
 description: Test-taking disengagement frequently differs between a MAP Growth initial test and a same-day retest
 id: disengagement-differs-initial-test-versus-retest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

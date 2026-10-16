@@ -3,7 +3,7 @@ type: claim
 title: Commercial text-to-image models produce accurate images for broad nuclear concepts but fail on specialized engineering prompts
 description: Commercial text-to-image models produce accurate images for broad nuclear concepts but fail on specialized engineering prompts
 id: commercial-models-fail-specialized-nuclear-prompts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

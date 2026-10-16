@@ -3,7 +3,7 @@ type: claim
 title: College students scored significantly higher on CTAT than vocational school students
 description: College students scored significantly higher on CTAT than vocational school students
 id: college-students-outscore-vocational-on-ctat
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

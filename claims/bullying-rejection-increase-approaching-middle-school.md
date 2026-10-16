@@ -3,7 +3,7 @@ type: claim
 title: Teacher-rated bullying and peer rejection rose over four years of elementary school in both SWPBIS and comparison schools
 description: Teacher-rated bullying and peer rejection rose over four years of elementary school in both SWPBIS and comparison schools
 id: bullying-rejection-increase-approaching-middle-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

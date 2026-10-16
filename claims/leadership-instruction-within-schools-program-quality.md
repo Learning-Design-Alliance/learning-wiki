@@ -3,7 +3,7 @@ type: claim
 title: "Within schools, principal leadership relates to individual teachers' instruction through multiple pathways, with the strongest via program quality (professional development and coherence)"
 description: "Within schools, principal leadership relates to individual teachers' instruction through multiple pathways, with the strongest via program quality (professional development and coherence)"
 id: leadership-instruction-within-schools-program-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

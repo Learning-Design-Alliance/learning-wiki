@@ -3,7 +3,7 @@ type: claim
 title: "In a 16-rater usability survey after a session, CoLearn scores an overall mean of 4.0/5 with no dimension below ≈3.7, and 75% (12/16) would reuse it; Responsiveness is the lowest dimension"
 description: "In a 16-rater usability survey after a session, CoLearn scores an overall mean of 4.0/5 with no dimension below ≈3.7, and 75% (12/16) would reuse it; Responsiveness is the lowest dimension"
 id: collearn-usability-survey-4-of-5
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

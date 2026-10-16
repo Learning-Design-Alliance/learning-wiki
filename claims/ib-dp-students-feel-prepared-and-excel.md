@@ -3,7 +3,7 @@ type: claim
 title: IB DP students report feeling prepared to succeed and excel in college coursework, crediting the IB DP with teaching the specific skills and behaviors college demands
 description: IB DP students report feeling prepared to succeed and excel in college coursework, crediting the IB DP with teaching the specific skills and behaviors college demands
 id: ib-dp-students-feel-prepared-and-excel
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

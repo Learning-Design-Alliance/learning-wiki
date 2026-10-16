@@ -3,7 +3,7 @@ type: design
 id: se-activities-supporting-students-with-disabilities-and-els
 title: Seven activity types by which SE grantees equip subgrantees to serve students with disabilities and English learners
 description: "From open-ended survey responses, the report tallies seven activity types grantees used to ensure subgrantees can serve all students: technical assistance, partnering with the SEA, monitoring and audits, training, app..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: When exemplars are already interleaved, larger temporal spacing between same-category exemplars yields better inductive learning than smaller spacing
 description: When exemplars are already interleaved, larger temporal spacing between same-category exemplars yields better inductive learning than smaller spacing
 id: larger-spacing-better-interleaved-induction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
@@ -51,3 +51,4 @@ Experiment with 53 UCLA undergraduates studying 16 butterfly species, all interl
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — a broader claim this one bears on
 - [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — related
 - [Learners overwhelmingly judge blocking more effective than interleaving even when their test performance favors interleaving](metacognitive-illusion-blocking-interleaving.md) — related
+- The most effective intervention types provided counterstereotypical exemplar experience, evaluative conditioning, or strategies to override biases — related

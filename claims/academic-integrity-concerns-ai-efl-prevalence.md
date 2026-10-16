@@ -3,7 +3,7 @@ type: claim
 title: "Academic integrity concerns were the third most prevalent pedagogical limitation, reported in 20 of 54 studies (37%)"
 description: "Academic integrity concerns were the third most prevalent pedagogical limitation, reported in 20 of 54 studies (37%)"
 id: academic-integrity-concerns-ai-efl-prevalence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

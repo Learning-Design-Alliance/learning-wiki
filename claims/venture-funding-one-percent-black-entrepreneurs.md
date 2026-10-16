@@ -3,7 +3,7 @@ type: claim
 title: "An analysis of 10,000 tech entrepreneurs and 135 venture capital firms found only 1% of venture-funded tech projects went to Black individuals"
 description: "An analysis of 10,000 tech entrepreneurs and 135 venture capital firms found only 1% of venture-funded tech projects went to Black individuals"
 id: venture-funding-one-percent-black-entrepreneurs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

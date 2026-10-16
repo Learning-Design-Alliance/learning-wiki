@@ -3,7 +3,7 @@ type: claim
 title: High CT students used the AICA for code understanding and debugging while low CT students used it for direct answer retrieval
 description: High CT students used the AICA for code understanding and debugging while low CT students used it for direct answer retrieval
 id: ct-groups-differ-aica-behavioral-patterns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

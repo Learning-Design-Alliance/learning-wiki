@@ -4,7 +4,7 @@ id: digital-promise-ai-literacy-brief-series
 title: Digital Promise AI Literacy Brief Series
 description: A series of Digital Promise implementation briefs that provides audience-specific AI literacy recommendations, strategies, examples, and equity considerations for PK-12, postsecondary, workforce, and informal learning settings.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

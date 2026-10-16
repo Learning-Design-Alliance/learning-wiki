@@ -3,7 +3,7 @@ type: claim
 title: Stevens and Slavin (1995) found statistically significant positive effects of CIRC on CAT Reading Comprehension and Vocabulary subtests, while Jewell (1994) found no statistically significant effects
 description: Stevens and Slavin (1995) found statistically significant positive effects of CIRC on CAT Reading Comprehension and Vocabulary subtests, while Jewell (1994) found no statistically significant effects
 id: circ-comprehension-findings-mixed-across-two-quasi-experiments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: "Under FSM metrics, GPT-3.5-Turbo outperforms GPT-4o-Mini, reversing that model's higher rank on coding-oriented leaderboards"
 description: "Under FSM metrics, GPT-3.5-Turbo outperforms GPT-4o-Mini, reversing that model's higher rank on coding-oriented leaderboards"
 id: fsm-gpt35-outperforms-gpt4o-mini-reversal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

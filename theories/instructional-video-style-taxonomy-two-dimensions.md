@@ -2,7 +2,7 @@
 type: theory
 title: "Two-dimensional taxonomy of instructional video styles: human embodiment and instructional media"
 description: "The article proposes a taxonomy that classifies asynchronous instructional videos along two nominal dimensions: human embodiment (the gamut of human presence, from audience shots to pen-tip capture) and instructional..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

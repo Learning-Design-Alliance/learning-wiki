@@ -3,7 +3,7 @@ type: design
 id: human-in-the-loop-critical-collaboration-workflow
 title: Human-in-the-loop human–AI–human collaboration workflow for critical prompt engineering
 description: "A six-step structured workflow introduced in Week 3 to scaffold critical human–AI–human collaboration: cognitive activation before prompting, prompt formulation, AI output generation, critical evaluation with fact and..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

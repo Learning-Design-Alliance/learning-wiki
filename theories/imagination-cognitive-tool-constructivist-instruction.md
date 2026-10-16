@@ -2,7 +2,7 @@
 type: theory
 title: Imagination as a neglected cognitive tool essential to Constructivist instruction (Egan)
 description: The paper presents imagination, following Egan (1992), as a cognitive tool representing Constructivist instruction as higher-order learning.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

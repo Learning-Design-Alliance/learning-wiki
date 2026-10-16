@@ -3,7 +3,7 @@ type: claim
 title: "ASAP likely increases community college students' graduation and degree attainment rates"
 description: "ASAP likely increases community college students' graduation and degree attainment rates"
 id: asap-increases-degree-attainment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

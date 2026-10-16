@@ -3,7 +3,7 @@ type: claim
 title: DNUSD trained 184 mental health workforce members and 757 non-workforce individuals in mental health prevention and awareness strategies from fall 2020 through December 2023
 description: DNUSD trained 184 mental health workforce members and 757 non-workforce individuals in mental health prevention and awareness strategies from fall 2020 through December 2023
 id: cal-well-dnusd-mental-health-training-reach
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

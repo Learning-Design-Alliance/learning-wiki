@@ -3,7 +3,7 @@ type: claim
 title: Four years of TEP attendance produced English language arts gains equal to an additional 0.4 years of school relative to comparable NYC public school students
 description: Four years of TEP attendance produced English language arts gains equal to an additional 0.4 years of school relative to comparable NYC public school students
 id: tep-four-years-ela-gain-0-4-years
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

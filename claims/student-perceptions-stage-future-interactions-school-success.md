@@ -3,7 +3,7 @@ type: claim
 title: "Students' perceptions of interactions with their teacher lay the stage for future interactions and ultimately influence students' success in school"
 description: "Students' perceptions of interactions with their teacher lay the stage for future interactions and ultimately influence students' success in school"
 id: student-perceptions-stage-future-interactions-school-success
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

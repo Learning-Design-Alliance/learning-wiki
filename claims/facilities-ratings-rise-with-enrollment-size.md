@@ -3,7 +3,7 @@ type: claim
 title: Satisfaction with facilities and infrastructure rises with student enrollment size
 description: Satisfaction with facilities and infrastructure rises with student enrollment size
 id: facilities-ratings-rise-with-enrollment-size
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

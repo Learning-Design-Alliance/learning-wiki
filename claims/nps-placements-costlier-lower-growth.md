@@ -3,7 +3,7 @@ type: claim
 title: Nonpublic school placements cost 24 percent more and yielded 5 to 6 percentage points less academic growth than public placements
 description: Nonpublic school placements cost 24 percent more and yielded 5 to 6 percentage points less academic growth than public placements
 id: nps-placements-costlier-lower-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

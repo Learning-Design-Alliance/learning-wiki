@@ -3,7 +3,7 @@ type: claim
 title: "Connect with Kids shows no statistically significant effects on elementary school students' assessments of their own or classmates' behavior"
 description: "Connect with Kids shows no statistically significant effects on elementary school students' assessments of their own or classmates' behavior"
 id: cwk-elementary-null-behavior-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

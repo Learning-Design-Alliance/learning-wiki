@@ -3,7 +3,7 @@ type: element
 id: labor-management-strand-industrial-arts
 title: Labor-management relations strand repeated across all four communications units
 description: Each of the four units includes a common labor-management content strand.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

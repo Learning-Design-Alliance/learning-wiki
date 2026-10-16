@@ -3,7 +3,7 @@ type: claim
 title: "Response acceleration is heterogeneous by ability: lower ability estimates are associated with larger increases in acceleration"
 description: "Response acceleration is heterogeneous by ability: lower ability estimates are associated with larger increases in acceleration"
 id: acceleration-heterogeneous-by-estimated-ability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

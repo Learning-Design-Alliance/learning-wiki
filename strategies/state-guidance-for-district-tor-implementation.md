@@ -3,7 +3,7 @@ type: strategy
 id: state-guidance-for-district-tor-implementation
 title: Provide guidance to districts on implementing the statewide ToR definition
 description: The brief lists among its key findings that states should provide guidance to districts on how to implement the statewide teacher of record definition.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

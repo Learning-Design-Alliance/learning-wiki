@@ -3,7 +3,7 @@ type: element
 id: map-growth-assessment-product-element
 title: MAP Growth assessment product
 description: "MAP Growth is NWEA's assessment product, listed as the product behind multiple 2026 research publications."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Absences remained as strongly related to test scores and GPAs in post-pandemic years as pre-pandemic years
 description: Absences remained as strongly related to test scores and GPAs in post-pandemic years as pre-pandemic years
 id: absence-achievement-link-persists-post-pandemic
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Registered apprenticeship had positive, statistically significant impacts on ninth-quarter earnings, ranging from $3,230 to $4,693 depending on the comparison group
 description: Registered apprenticeship had positive, statistically significant impacts on ninth-quarter earnings, ranging from $3,230 to $4,693 depending on the comparison group
 id: registered-apprenticeship-ninth-quarter-earnings-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

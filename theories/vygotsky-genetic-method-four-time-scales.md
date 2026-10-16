@@ -2,7 +2,7 @@
 type: theory
 title: "Vygotsky's genetic method: studying higher psychological functions across four time scales"
 description: "The genetic (developmental) method is Vygotsky's historically based methodology for explaining adult higher psychological functions by tracing their formation backwards in time rather than studying the finished product."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

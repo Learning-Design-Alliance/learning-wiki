@@ -3,7 +3,7 @@ type: strategy
 id: exposicion-fotografica-transferencia-social-aps
 title: Exposición fotográfica y catálogo como vía de transferencia social de proyectos de ApS
 description: El catálogo documenta una exposición de 10 fotografías realizadas por Pedro Ruíz en el aulario del Campus de Melilla (junio 2021), como acción de transferencia del proyecto ApS.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

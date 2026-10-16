@@ -3,7 +3,7 @@ type: claim
 title: Very short response times (rapid guessing) indicate disengaged test taking in both high-stakes and low-stakes testing contexts
 description: Very short response times (rapid guessing) indicate disengaged test taking in both high-stakes and low-stakes testing contexts
 id: rapid-guessing-indicates-disengaged-test-taking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

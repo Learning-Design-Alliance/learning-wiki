@@ -3,7 +3,7 @@ type: strategy
 id: osp-differentiation-and-sdl-goals
 title: Differentiate by guiding higher-ability students to build models that validate their analysis, and support self-directed and collaborative learning goals
 description: "For higher ability students, teachers may guide the modeling construction to validate students' analysis, discuss the assumptions made in the investigation, and provide suggestions for refinements."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

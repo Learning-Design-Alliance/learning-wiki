@@ -3,7 +3,7 @@ type: claim
 title: Read Naturally® shows potentially positive effects on general reading achievement for beginning readers (average improvement index +10 percentile points)
 description: Read Naturally® shows potentially positive effects on general reading achievement for beginning readers (average improvement index +10 percentile points)
 id: read-naturally-potentially-positive-general-reading-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

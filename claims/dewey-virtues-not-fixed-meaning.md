@@ -3,7 +3,7 @@ type: claim
 title: Dewey holds that virtues cannot be given fixed meanings because they express interests in changing objects and institutions, so virtues should be taught in relation to specific situations
 description: Dewey holds that virtues cannot be given fixed meanings because they express interests in changing objects and institutions, so virtues should be taught in relation to specific situations
 id: dewey-virtues-not-fixed-meaning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

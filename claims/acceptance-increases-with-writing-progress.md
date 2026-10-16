@@ -3,7 +3,7 @@ type: claim
 title: Acceptance rates increase with writing progress, with the L2-over-L1 advantage widening in later stages
 description: Acceptance rates increase with writing progress, with the L2-over-L1 advantage widening in later stages
 id: acceptance-increases-with-writing-progress
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

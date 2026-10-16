@@ -3,7 +3,7 @@ type: strategy
 id: ai-specific-accountability-systems-playbook
 title: Establish AI-specific accountability systems with iterative playbooks, family guides, and continuous evaluation cycles
 description: "The report's fifth use case shows Indian Prairie SD's task force building 'mechanisms for continuous evaluation and refinement,' including an AI Playbook of best practices for elementary, middle, and high school stude..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

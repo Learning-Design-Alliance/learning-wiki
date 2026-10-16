@@ -3,7 +3,7 @@ type: claim
 title: Formative feedback dominates authentic assessment designs while sustainable feedback is rare
 description: Formative feedback dominates authentic assessment designs while sustainable feedback is rare
 id: aa-formative-feedback-dominates-sustainable-rare
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

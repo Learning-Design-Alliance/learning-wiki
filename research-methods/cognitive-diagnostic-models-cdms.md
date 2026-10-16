@@ -3,7 +3,7 @@ type: research-method
 id: cognitive-diagnostic-models-cdms
 title: Cognitive diagnostic models (CDMs)
 description: "The article frames CDMs against unidimensional item response models: unidimensional models \"postulate a single underlying proficiency,\" whereas CDMs \"posit multiple, discrete skills or attributes, thus allowing CDMs to provide a finer-grained assessment of examinees' test performance.\" The Q-matrix "
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-14

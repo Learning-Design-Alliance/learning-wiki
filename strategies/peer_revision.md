@@ -66,7 +66,7 @@ Peer revision works because evaluating someone else's work against criteria forc
 - [Collaborative Human-AI Revision Design embedding prompt engineering across drafting, feedback, and rewriting phases](collaborative-human-ai-revision-design.md)
 
 ## Examples
-- **Calibrated Peer Review (CPR)** (https://cpr.molsci.ucla.edu) — discipline-agnostic web system in which students calibrate against instructor-scored samples before reviewing peers; widely used in undergraduate science writing.
+- **[Calibrated Peer Review](calibrated_peer_review.md) (CPR)** (https://cpr.molsci.ucla.edu) — discipline-agnostic web system in which students calibrate against instructor-scored samples before reviewing peers; widely used in undergraduate science writing.
 - **SWoRD Peer Review** (Cho & Schunn) — scaffolded web-based reciprocal peer review for writing-intensive courses; assigns multiple blind reviewers and aggregates reliability-weighted feedback.
 - **ELI Review** (https://elireview.com) — a commercial peer feedback platform built on staged draft–review–revision cycles with instructor-designed rubrics.
 - **Writing-across-the-curriculum programs** (e.g., Michigan State's peer writing consultant model) embed trained peer review in disciplinary courses.

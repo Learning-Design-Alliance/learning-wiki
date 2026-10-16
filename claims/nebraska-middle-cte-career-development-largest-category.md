@@ -3,7 +3,7 @@ type: claim
 title: Career development courses were the single largest category of Nebraska middle school CTE enrollments in AY 2023/24, at about 23 percent of 192,661 total enrollments
 description: Career development courses were the single largest category of Nebraska middle school CTE enrollments in AY 2023/24, at about 23 percent of 192,661 total enrollments
 id: nebraska-middle-cte-career-development-largest-category
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: element
 id: argumentpeer-diagram-peer-review-system
 title: "ArgumentPeer project: argument diagramming with peer review and intelligent help"
 description: "The primer describes the ArgumentPeer project as a technology example in which \"students relate hypotheses and claims in an argument diagram and submit them online for review by their peers, each of whom is randomly a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

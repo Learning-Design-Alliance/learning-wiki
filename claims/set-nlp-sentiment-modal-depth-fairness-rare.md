@@ -3,7 +3,7 @@ type: claim
 title: "Sentiment analysis is the modal NLP task in SET research (300/421), while diagnostic/generative depth (D4–D5, 28.2%) and formal fairness metrics (1.9%) are rare"
 description: "Sentiment analysis is the modal NLP task in SET research (300/421), while diagnostic/generative depth (D4–D5, 28.2%) and formal fairness metrics (1.9%) are rare"
 id: set-nlp-sentiment-modal-depth-fairness-rare
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

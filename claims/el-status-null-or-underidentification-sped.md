@@ -3,7 +3,7 @@ type: claim
 title: EL status had either a null effect or led to slight under-identification in SPED placement
 description: EL status had either a null effect or led to slight under-identification in SPED placement
 id: el-status-null-or-underidentification-sped
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

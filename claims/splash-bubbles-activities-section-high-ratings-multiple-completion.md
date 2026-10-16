@@ -3,7 +3,7 @@ type: claim
 title: Most families used the Activities section and rated it highly helpful, with many completing two or more activities
 description: Most families used the Activities section and rated it highly helpful, with many completing two or more activities
 id: splash-bubbles-activities-section-high-ratings-multiple-completion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

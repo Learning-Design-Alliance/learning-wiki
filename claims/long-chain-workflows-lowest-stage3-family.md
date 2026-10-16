@@ -3,7 +3,7 @@ type: claim
 title: The six long-chain Stage 3 workflows average 0.321 versus 0.559 across all other Stage 3 tasks and are the lowest-scoring family for 15 of 17 models
 description: The six long-chain Stage 3 workflows average 0.321 versus 0.559 across all other Stage 3 tasks and are the lowest-scoring family for 15 of 17 models
 id: long-chain-workflows-lowest-stage3-family
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

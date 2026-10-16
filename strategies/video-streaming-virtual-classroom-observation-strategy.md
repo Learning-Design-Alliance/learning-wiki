@@ -3,7 +3,7 @@ type: strategy
 id: video-streaming-virtual-classroom-observation-strategy
 title: Use video streaming technology instead of in-person observers to assess pre-K classroom quality
 description: This strategy replaces in-person classroom observers with video streaming technology to assess classroom quality in pre-K settings.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: The full FFL showed good internal consistency for both principals and assistant principals in the 2012/13 pilot
 description: The full FFL showed good internal consistency for both principals and assistant principals in the 2012/13 pilot
 id: ffl-full-scale-good-internal-consistency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

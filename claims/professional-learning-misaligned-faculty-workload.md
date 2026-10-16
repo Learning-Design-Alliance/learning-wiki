@@ -3,7 +3,7 @@ type: claim
 title: Professional learning on emerging technologies is widely available but misaligned with faculty workload, time, and incentives
 description: Professional learning on emerging technologies is widely available but misaligned with faculty workload, time, and incentives
 id: professional-learning-misaligned-faculty-workload
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

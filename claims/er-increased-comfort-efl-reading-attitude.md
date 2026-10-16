@@ -3,7 +3,7 @@ type: claim
 title: "A 15-week extensive reading course increased Japanese EFL learners' feelings of comfort with foreign-language reading (r = .54)"
 description: "A 15-week extensive reading course increased Japanese EFL learners' feelings of comfort with foreign-language reading (r = .54)"
 id: er-increased-comfort-efl-reading-attitude
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

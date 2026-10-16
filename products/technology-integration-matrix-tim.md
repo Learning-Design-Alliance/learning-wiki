@@ -4,7 +4,7 @@ id: technology-integration-matrix-tim
 title: Technology Integration Matrix (TIM)
 description: The Technology Integration Matrix is a framework developed by the Florida Center for Instructional Technology at the University of South Florida for describing learning-environment characteristics and levels of classroom technology integration.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Between-class differences in structural accuracy were attributed, with some evidence, to differences in teachers' form-focused instruction"
 description: "Between-class differences in structural accuracy were attributed, with some evidence, to differences in teachers' form-focused instruction"
 id: form-focused-instruction-explains-class-accuracy-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
@@ -47,3 +47,4 @@ Analysis of a large corpus of classroom observation data from four intact classe
 - [Between-class accuracy differences were not correlated with performance on listening comprehension tests](accuracy-differences-uncorrelated-listening-comprehension.md) — related
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — a broader claim this one bears on
 - [Intensive ESL learners' oral English development was examined in four intact classes of approximately 100 French-speaking students aged 10–12 after a 5-month course](intensive-esl-quebec-corpus-study-design.md) — related
+- [Form-focused instruction on noun endings significantly increases French immersion students' ability to correctly assign grammatical gender, with gains maintained on delayed posttests](ffi-noun-endings-improves-gender-attribution.md) — related

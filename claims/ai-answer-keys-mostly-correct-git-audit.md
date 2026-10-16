@@ -3,7 +3,7 @@ type: claim
 title: "A git-history audit found 96.3% of AI-generated answer-key question blocks needed no post-release semantic repair"
 description: "A git-history audit found 96.3% of AI-generated answer-key question blocks needed no post-release semantic repair"
 id: ai-answer-keys-mostly-correct-git-audit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

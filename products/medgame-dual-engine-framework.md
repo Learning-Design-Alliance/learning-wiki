@@ -4,7 +4,7 @@ id: medgame-dual-engine-framework
 title: MedGame dual-engine framework
 description: A Qian Wu et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

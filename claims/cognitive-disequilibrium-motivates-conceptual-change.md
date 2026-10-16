@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

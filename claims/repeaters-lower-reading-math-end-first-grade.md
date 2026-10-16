@@ -3,7 +3,7 @@ type: claim
 title: At the end of first grade, children who repeated kindergarten had lower reading and math knowledge and skills than children who started on time
 description: At the end of first grade, children who repeated kindergarten had lower reading and math knowledge and skills than children who started on time
 id: repeaters-lower-reading-math-end-first-grade
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

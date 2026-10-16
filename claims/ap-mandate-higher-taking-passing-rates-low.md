@@ -3,7 +3,7 @@ type: claim
 title: Three of four DCPS high schools mandating AP enrollment had higher AP exam taking and passing rates after the mandate, but passing rates remained generally low
 description: Three of four DCPS high schools mandating AP enrollment had higher AP exam taking and passing rates after the mandate, but passing rates remained generally low
 id: ap-mandate-higher-taking-passing-rates-low
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Sample truncation based on at-risk status can induce collider bias that undermines internal as well as external validity
 description: Sample truncation based on at-risk status can induce collider bias that undermines internal as well as external validity
 id: collider-bias-sample-truncation-at-risk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -4,7 +4,7 @@ id: indiana-grant-and-scholarship-programs-21st-century-scholars-frank-obannon-m
 title: "Indiana grant and scholarship programs (21st Century Scholars, Frank O'Bannon, Mitch Daniels Early Graduation, Workforce Ready)"
 description: Indiana state financial-aid programmes that provide grants or scholarships to eligible students pursuing postsecondary education or workforce credentials.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

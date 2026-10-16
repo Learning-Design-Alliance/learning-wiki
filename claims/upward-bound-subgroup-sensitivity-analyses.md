@@ -3,7 +3,7 @@ type: claim
 title: Upward Bound impact estimates are accompanied by extensive subgroup and sensitivity analyses
 description: Upward Bound impact estimates are accompanied by extensive subgroup and sensitivity analyses
 id: upward-bound-subgroup-sensitivity-analyses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "CPS graduates' grades predicted college enrollment: graduates needed at least a 2.5 GPA for close to a 50 percent likelihood of enrolling in a four-year college"
 description: "CPS graduates' grades predicted college enrollment: graduates needed at least a 2.5 GPA for close to a 50 percent likelihood of enrolling in a four-year college"
 id: gpa-predicts-college-enrollment-cps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

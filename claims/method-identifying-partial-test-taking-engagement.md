@@ -3,7 +3,7 @@ type: claim
 title: The authors provide a method for identifying partial test-taking engagement, supported by validation evidence
 description: The authors provide a method for identifying partial test-taking engagement, supported by validation evidence
 id: method-identifying-partial-test-taking-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

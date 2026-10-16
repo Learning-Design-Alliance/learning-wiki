@@ -3,7 +3,7 @@ type: claim
 title: L2C outperformed both the Rule-based Fading and Minimally-invasive Assistance baselines on lap time and failure count
 description: L2C outperformed both the Rule-based Fading and Minimally-invasive Assistance baselines on lap time and failure count
 id: l2c-outperforms-rbf-mia-baselines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

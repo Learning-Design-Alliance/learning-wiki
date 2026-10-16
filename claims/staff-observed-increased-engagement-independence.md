@@ -3,7 +3,7 @@ type: claim
 title: Staff observed increased student engagement, independence, and communication skills during the AI-supported project
 description: Staff observed increased student engagement, independence, and communication skills during the AI-supported project
 id: staff-observed-increased-engagement-independence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

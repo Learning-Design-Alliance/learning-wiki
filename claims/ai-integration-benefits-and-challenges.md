@@ -3,7 +3,7 @@ type: claim
 title: Reported benefits of AI integration were efficiency, personalization, and engagement, while challenges were equity, ethics, and academic integrity
 description: Reported benefits of AI integration were efficiency, personalization, and engagement, while challenges were equity, ethics, and academic integrity
 id: ai-integration-benefits-and-challenges
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
