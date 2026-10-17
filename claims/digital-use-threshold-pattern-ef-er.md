@@ -45,3 +45,4 @@ Group comparisons stratifying the 368 adolescents into low, moderate, and high t
 ## Related Claims
 - [Digital use intensity attenuates the positive EF–reappraisal association, more pronouncedly on the EF→ER pathway than the reverse](digital-intensity-attenuates-ef-reappraisal-link.md) — related
 - [Exploratory analyses suggest the digital moderation of the EF–reappraisal link is concentrated in social media and short-form video, not gaming or educational use](category-specific-moderation-social-media-short-video.md) — related
+- [Reappraisal ability shows linear and quadratic relationships with age, while self-reported emotional reactivity shows no age differences](reappraisal-ability-linear-quadratic-age-development.md) — related

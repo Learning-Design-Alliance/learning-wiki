@@ -43,4 +43,4 @@ Case-control comparison of 12 DD and 12 matched control children (selected from 
 
 
 ## Related Claims
--
+- [Verbal STM/WM and several executive and sensorimotor measures show no robust relation with math in children with normal reading skill](no-relation-verbal-memory-executive-math.md) — related

@@ -45,7 +45,7 @@ A Carnegie Learning curriculum for secondary mathematics that combines textbooks
 - Cognitive Tutor®. (2016). WWC Intervention Report: Cognitive Tutor®, Secondary Mathematics. What Works Clearinghouse, U.S. Department of Education. https://www.carnegielearning.com
 <!-- merged 2026-10-10 from elements/cognitive-tutor-secondary-mathematics-curriculum ("Cognitive Tutor® secondary mathematics curriculum (Carnegie Learning)"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Kenneth R. Koedinger, Vincent Aleven. (2007). Exploring the Assistance Dilemma in Experiments with Cognitive Tutors. Educational Psychology Review. https://doi.org/10.1007/s10648-007-9049-0
-- Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A. (2007). Cognitive Tutor: Applied research in mathematics education. Psychonomic Bulletin & Review, 2007, 14 (2), 249-255. https://www.carnegielearning.com
+- Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A. (2007). Cognitive Tutor: Applied research in mathematics education. Psychonomic Bulletin & Review, 2007, 14 (2), 249-255. https://www.carnegielearning.com. [doi:10.3758/bf03194060](https://doi.org/10.3758/bf03194060)
 
 # Cognitive Tutor® secondary mathematics curriculum (Carnegie Learning)
 

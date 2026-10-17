@@ -1,0 +1,62 @@
+---
+type: claim
+title: Negative life events predict rank-order decreases in self-control in early adolescents over time, controlling for baseline self-control and demographics
+description: Negative life events predict rank-order decreases in self-control in early adolescents over time, controlling for baseline self-control and demographics
+id: negative-life-events-predict-self-control-decreases
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-17
+evidence_strength: moderate
+sources:
+  - id: duckworth-2013
+    resource: "https://doi.org/10.3389/fpsyg.2012.00608"
+    title: "Duckworth, A. L., Kim, B., and Tsukayama, E. (2013). Life stress impairs self-control in early adolescence. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2012.00608"
+    author: Duckworth, A. L., Kim, B., and Tsukayama, E.
+    q: 3
+    i: "?"
+  - id: duckworth-2013-2
+    resource: "https://doi.org/10.3389/fpsyg.2012.00608"
+    title: "Duckworth, A. L., Kim, B., and Tsukayama, E. (2013). Life stress impairs self-control in early adolescence. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2012.00608"
+    author: Duckworth, A. L., Kim, B., and Tsukayama, E.
+    q: 3
+    i: "?"
+---
+
+# Negative life events predict rank-order decreases in self-control in early adolescents over time, controlling for baseline self-control and demographics
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+
+## Subclaims
+`q3 i?` In Study 1 (NICHD-SECCYD, N=1,094), changes in negative life events predicted changes in self-control (β=−0.05, p=0.044). [→ Duckworth 2013](#duckworth-2013)
+`q3 i?` In Study 2 (N=527), changes in negative life events predicted changes in self-control (β=−0.10, p=0.0164), replicating Study 1 with child-reported events. [→ Duckworth 2013 (2)](#duckworth-2013-2)
+
+## Evidence
+
+### Duckworth 2013
+
+Duckworth, A. L., Kim, B., and Tsukayama, E. (2013). Life stress impairs self-control in early adolescence. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2012.00608
+
+`q3 · i?`
+
+Prospective longitudinal path model in the NICHD-SECCYD sample (N=1,094), with self-control rated by mothers, fathers, and teachers in grades 4 and 6. The article reports "changes in negative life events predicted changes in self-control, β=− 0.05, p= 0.044" controlling for baseline self-control, prior life events, and demographics.
+
+> "As predicted, changes in negative life events predicted changes in self-control, β=− 0.05, p= 0.044"
+
+### Duckworth 2013 (2)
+
+Duckworth, A. L., Kim, B., and Tsukayama, E. (2013). Life stress impairs self-control in early adolescence. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2012.00608
+
+`q3 · i?`
+
+One-year prospective study of 527 middle school students using child-reported Life Events Checklist and self-, parent-, and teacher-rated impulsivity. The article reports "changes in negative life events predicted changes in self-control, β=− 0.10, p= 0.0164" with FIML estimation.
+
+> "changes in negative life events predicted changes in self-control, β=− 0.10, p= 0.0164"
+
+## Discussion
+
+
+## Related Claims
+- [Self-control shows substantial rank-order stability in early adolescence, yet situational influences still matter](self-control-rank-order-stability-with-situational-change.md) — a broader claim this one bears on
+- [The authors hypothesize a possible vicious cycle in which stress-induced self-control losses generate further stressful life events](stress-self-control-vicious-cycle-hypothesis.md) — related

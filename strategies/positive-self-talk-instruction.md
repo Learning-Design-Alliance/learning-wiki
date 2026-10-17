@@ -61,9 +61,11 @@ Self-talk works as a form of metacognitive and self-regulatory scaffolding: verb
 6. **Reflect and revise.** Use brief [check-ins](../elements/check-in.md) or journals where learners evaluate which statements helped and rewrite ones that felt false or distracting.
 
 ## Related Strategies
+
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — the modeling method that makes expert self-talk audible and imitable
 - [Achievable Micro-Goals](../strategies/achievable_micro-goals.md) — self-statements are most effective when they cue the next concrete step rather than a distant outcome
 - [Action Planning](../strategies/action_planning.md) — pairs plan statements with the motivational talk that sustains them
+- [Attentional training interventions may improve public speaking performance for speech-anxious individuals](attentional-training-public-speaking.md)
 
 ## Examples
 - **Meichenbaum's self-instructional training** — the original protocol: an adult models a task (e.g., copying shapes) while verbalizing "Okay, what is it I have to do?… Careful, go slowly," followed by learner rehearsal and fading; widely used with impulsive children and in clinical settings.

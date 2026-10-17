@@ -45,3 +45,4 @@ Turn-level certainty ratings (validated against human coders, MAE .32) across St
 - [The agent behavior linked to the trial's worse career outcomes was repeated demands to decide: participants pressed most ended most doubtful](decision-demands-linked-to-career-doubt.md) — related
 - [Decisions participants volunteered were worded just as firmly as decisions the agent demanded, and revisions of earlier positions were rare](demanded-versus-spontaneous-decisions-no-firmness-difference.md) — related
 - [When participants declined to decide and the agent asked again, the resulting commitments were the weakest in the corpus](re-asked-decisions-yield-weakest-commitments.md) — related
+- [Public regard decreased linearly over time while reported discrimination dipped at Time 2 and rose again at Time 3](public-regard-decreases-discrimination-fluctuates.md) — related

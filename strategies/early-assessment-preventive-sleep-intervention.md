@@ -38,7 +38,8 @@ The article recommends that schools and services attend to children's sleep diff
 - healthy sleep habits
 
 ## Related Strategies
-- 
+
+- [Deliver sleep education at school to improve sleep, cognition and academic performance](school-based-sleep-education-strategy.md)
 
 ## Examples
 -

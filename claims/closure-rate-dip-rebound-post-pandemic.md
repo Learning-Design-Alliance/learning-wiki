@@ -45,3 +45,4 @@ Descriptive analysis of NCES Common Core of Data school-level records for brick-
 ## Related Claims
 - [Schools serving majority-Black students are overrepresented among closed schools pre- and post-pandemic](majority-black-schools-overrepresented-closures.md) — related
 - [Racial disparities in 2024-25 closure likelihood hold after accounting for enrollment declines and poverty](racial-closure-disparity-holds-controlling-enrollment.md) — related
+- [Public regard decreased linearly over time while reported discrimination dipped at Time 2 and rose again at Time 3](public-regard-decreases-discrimination-fluctuates.md) — related

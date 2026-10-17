@@ -62,4 +62,4 @@ Same regression analyses of parent survey data. The authors state they cannot kn
 
 
 ## Related Claims
--
+- [Among children with cochlear implants, later implantation correlates with more positive math self-views and longer use correlates negatively with math and scholastic self-views](implant-timing-correlates-academic-self-perceptions.md) — related

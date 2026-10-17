@@ -88,6 +88,21 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [The advantage of explicit instruction over unassisted discovery is largest in the verbal/social skills domain](../claims/domain-moderates-unassisted-discovery-deficit.md) [+M] — an instructional effect differs with it
 - [The effect of social skills on academic performance is unclear; poor social skills are clearly associated with negative outcomes](../claims/social-skills-academic-effect-unclear.md) [~M] — learners who differ on it differ in outcomes
 - [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](../claims/sel-programs-improve-behavior-and-achievement.md) [+M] — instruction changes it
+- [Adolescents with weaker communicative perspective-taking report worse peer relations](../claims/weaker-perspective-taking-worse-peer-relations.md) [+M] — learners who differ on it differ in outcomes
+- [Bilingual 8-year-olds are more accurate than monolingual 8-year-olds on a computerized spatial perspective-taking task](../claims/bilingual-advantage-spatial-perspective-taking.md) [+M] — instruction changes it
+- [Communicative perspective-taking mediates the relation between ADHD traits and social outcomes](../claims/perspective-taking-mediation-adhd-social-outcomes.md) [+M] — learners who differ on it differ in outcomes
+- [Elevated ADHD traits are associated with weaker communicative perspective-taking in adolescents](../claims/adhd-traits-weaker-communicative-perspective-taking.md) [+M] — instruction changes it
+- [Inhibitory control did not relate to adolescents' communicative perspective-taking](../claims/inhibitory-control-not-related-perspective-taking.md) [-M] — instruction changes it
+- [Language group predicts perspective-taking accuracy after controlling for receptive vocabulary and fluid intelligence](../claims/language-group-predicts-perspective-taking-accuracy-regression.md) [+M] — instruction changes it
+- [Monolingual and bilingual children show no differences in the types of errors committed on the perspective-taking task](../claims/no-language-group-differences-error-types-perspective-taking.md) [-M] — instruction changes it
+- [Peer problems at age 16 mediate the association between childhood ADHD symptoms and late-adolescent depressive symptoms](../claims/peer-problems-mediate-adhd-depression-link.md) [+M] — learners who differ on it differ in outcomes
+- [Peer problems at age 9.5 mediate the association between childhood ADHD and depressive symptoms at age 13](../claims/earlier-peer-problems-mediate-adhd-depression-earlier-ages.md) [+M] — learners who differ on it differ in outcomes
+- [Positive preschool interpersonal relationships predict gains in emotion knowledge over the prekindergarten year](../claims/preschool-relationships-predict-emotion-knowledge-gains.md) [+M] — learners who differ on it differ in outcomes
+- [Positive preschool interpersonal relationships predict kindergarten academic achievement controlling for initial achievement](../claims/preschool-relationships-predict-kindergarten-achievement.md) [+W] — learners who differ on it differ in outcomes
+- [The article argues spatial perspective-taking performance relates to academic problem solving and can indicate academic potential](../claims/perspective-taking-indicator-academic-success.md) [+M] — learners who differ on it differ in outcomes
+- [The bilingual advantage in perspective taking appears at the 180° and 270° observer positions but not at the 90° position](../claims/bilingual-advantage-difficult-observer-positions.md) [~M] — instruction changes it
+- [Working memory accounts for the relation between ADHD traits and communicative perspective-taking](../claims/working-memory-accounts-adhd-perspective-taking-relation.md) [+M] — instruction changes it
+- [Working memory is the strongest predictor of adolescents' communicative perspective-taking](../claims/working-memory-predicts-adolescent-communicative-perspective-taking.md) [+M] — instruction changes it
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).
@@ -111,6 +126,8 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Working Memory](working-memory.md): lower working memory is associated with more difficulty in peer relationships.
 
 ## Examples
+
+- [Target communicative perspective-taking and working memory in interventions for adolescent social difficulties](../strategies/interventions-targeting-perspective-taking-and-working-memory.md)
 
 ## Key Sources
 - Digital Promise. *Learner Variability Navigator*: Social Awareness & Relationship Skills (Adult Learner, Building Literacy 4-6, Building Literacy 7-12, Building Literacy PK-3, Building Math 3-6, Building Math 7-10, Building Math PK-2, Portrait of a Learner 4-8, Portrait of a Learner 9-12, Portrait of a Learner PK-3). [lvp.digitalpromiseglobal.org](https://lvp.digitalpromiseglobal.org/content-area/adult-learner/factors/social-awareness-relationship-skills-adult-learner/summary). Licensed CC BY-NC 4.0.

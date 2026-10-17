@@ -53,3 +53,4 @@ The review reports this quantitative descriptive study of 102 university physics
 - [Three multilingual international students critically evaluated AI feedback, recognized peer-AI agreement, and maintained their voices while revising](multilingual-students-critically-evaluate-ai-feedback-pairr.md) — related
 - [Students from higher-ranked universities and with stronger prior knowledge are more likely to adopt proactive and critical AI engagement](learner-profiles-predict-proactive-ai-engagement.md) — related
 - [Agentivism generates six empirically testable propositions linking delegation structure, verification, reconstruction, and reduced-support transfer to learning outcomes](agentivism-six-testable-propositions.md) — related
+- [Common health literacy measures largely detect individual differences in cognitive abilities](health-literacy-measures-detect-cognitive-ability-differences.md) — related

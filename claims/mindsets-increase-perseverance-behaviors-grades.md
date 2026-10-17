@@ -61,3 +61,4 @@ Review synthesis in Chapter 2 of psychological evidence on mindsets. The review 
 - [Problem-based learning connecting coursework and practice is associated with stronger candidate skill development and self-efficacy](problem-based-principal-preparation-self-efficacy.md) — related
 - [66% of Los Padillas students reported a sense of belonging in 2023–24, well above the 44% for students in the rest of the district](los-padillas-student-belonging-above-district.md) — a narrower finding that bears on this claim
 - [Pre-actional metacognitive, motivational, and positive-emotional components are positively associated with regulatory behavior in the actional phase, while anger and anxiety are negatively associated](pre-actional-components-predict-actional-regulation.md) — related
+- [Math mindsets and academic grit correlate substantially with primary math achievement](mindset-grit-math-achievement-correlations.md) — a narrower finding that bears on this claim

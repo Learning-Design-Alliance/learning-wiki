@@ -60,9 +60,11 @@ Test anxiety consumes working-memory resources during assessment, so its reducti
 7. Follow up with a [Check-In](../elements/check-in.md) after major assessments to monitor whether anxiety is decreasing and preparation is improving.
 
 ## Related Strategies
+
 - [Distributed Practice](distributed-practice.md) — spacing retrieval across sessions lowers per-event stakes while improving retention
 - [Retrieval Practice](retrieval-practice-activities.md) — frequent low-stakes testing desensitizes the testing situation itself
 - [Formative Feedback](formative-feedback.md) — feedback that separates performance from judgment reduces evaluative threat
+- [Reduce math anxiety by addressing the anxiety rather than training math alone](address-anxiety-not-only-math-training.md)
 
 ## Examples
 - **Expressive writing before exams** — Ramirez & Beilock's classroom study had students write about test worries for 10 minutes before the final exam; anxious students nearly closed the performance gap with non-anxious peers.

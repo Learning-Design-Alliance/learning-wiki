@@ -58,3 +58,4 @@ The brief states this as a finding from the research literature on stress and se
 - [Adverse childhood experiences create toxic stress that impairs attention, learning, and behavior, and school responses can magnify or buffer the harm](aces-toxic-stress-impair-learning.md) — possibly the same claim (merge candidate)
 - [Cognitive, emotional, and social skills should be taught alongside content because learning is integrated in the brain](integrated-skills-habits-mindsets-instruction.md) — related
 - [Anxiety and toxic stress from stereotypes, bullying, and exclusionary practices impede learning by preoccupying the brain with worry and fear](toxic-stress-impedes-learning.md) — a narrower finding that bears on this claim
+- [Prior research has linked moving during childhood with adverse educational and behavioral adjustment outcomes, with the disruptive nature of moving cited as the underlying factor](prior-mobility-research-adverse-child-outcomes.md) — related

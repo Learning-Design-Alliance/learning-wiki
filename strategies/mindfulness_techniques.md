@@ -66,6 +66,8 @@ Mindfulness practice functions as attention training: repeated practice in notic
 - [Achievable micro-goals](achievable_micro-goals.md) — attention training supports the persistence micro-goals require
 - [Active transitions](active-transitions.md) — mindful resets are a low-arousal alternative for transition routines
 - [Deliver scalable socio-emotional support in ITSs via LLM-based mindful chat, breathing exercises, and mindful hint language](llm-mindfulness-layer-in-its.md)
+- [Attentional training interventions may improve public speaking performance for speech-anxious individuals](attentional-training-public-speaking.md)
+- [Strategic interventions focused on attention to consistent context and self-monitoring of performance to offset age-related VSTM decline](context-and-self-monitoring-strategies-for-aging-vstm.md)
 
 ## Examples
 - **[MindUP](https://mindup.org)** — an evidence-informed SEL curriculum embedding daily "Core Practice" breathing sessions across K–8 classrooms.

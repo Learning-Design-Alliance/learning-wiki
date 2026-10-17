@@ -48,3 +48,4 @@ Cross-national correlational analysis of sex differences in all four PISA assess
 - [The mathematics sex difference favoring boys is more consistently found among higher-achieving nations, with considerable variability among lower-scoring countries](math-sex-difference-larger-in-higher-achieving-nations.md) — related
 - [The inverse relation between mathematics and reading sex differences also holds within nations across the performance continuum](within-nation-inverse-relation-performance-continuum.md) — related
 - [National gender-equality and human-development indicators show no consistent correlation with sex differences in mathematics or reading across the decade](no-consistent-correlation-gender-equality-sex-differences.md) — related
+- [The gender gap in reading is three times bigger than the gender gap in math](reading-gender-gap-three-times-math-gap.md) — related

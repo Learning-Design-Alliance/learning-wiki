@@ -61,6 +61,7 @@ The home learning environment is what families, caregivers and communities provi
 - [Stakeholders reported parents became less involved in schools after the 1988 reform act, despite the act's involvement goal](../claims/parent-involvement-declined-after-reform-act.md) [+W] — instruction changes it
 - [The article reviews evidence that aspects of the learning environment most closely associated with successful development of early academic competence differ by socioeconomic background](../claims/ses-differences-access-academically-auspicious-environments.md) [+W] — learners who differ on it differ in outcomes
 - [The parental involvement–achievement relationship is stronger for global achievement indicators (e.g., GPA) than for subject-specific indicators (e.g., math grade)](../claims/involvement-stronger-with-global-achievement-indicators.md) [~M] — an instructional effect differs with it
+- [Higher-quality home environments are associated with higher parent-reported curiosity at kindergarten](../claims/home-environment-quality-associated-kindergarten-curiosity.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Reading Pattern Survey** (Rodrigo et al., 2014): self-report of reading attitude, habits and print exposure, including books read and library visits.

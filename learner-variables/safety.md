@@ -89,6 +89,15 @@ Safety here means both being and feeling physically and psychologically secure i
 - [The school climate gap between beating-the-odds and chronically underperforming schools is more than twice as large as the gap between BTO and other schools](../claims/bto-cu-climate-gap-twice-as-large.md) [+M] — learners who differ on it differ in outcomes
 - [There is no evidence that arming school staff improves school safety, and one study found an armed guard present was associated with more deaths in school shootings](../claims/arming-staff-no-evidence-of-safety-benefit.md) [~W] — instruction changes it
 - [Work with peers in anti-bullying programs is associated with an increase in victimization](../claims/peer-work-associated-with-increased-victimization.md) [+M] — instruction changes it
+- [Bullied children with NSSI or suicidality show greater behavioral problems and poorer grades than bullied children without these behaviors](../claims/bullying-nssi-suicidality-compounded-outcomes.md) [+W] — learners who differ on it differ in outcomes
+- [Bullied girls show lower episodic memory and crystallized composite cognitive scores than non-bullied girls](../claims/bullied-girls-lower-episodic-memory-crystallized-scores.md) [+W] — learners who differ on it differ in outcomes
+- [Bullied preadolescent children have lower cognitive scores than non-bullied peers](../claims/bullying-associated-with-lower-cognitive-scores.md) [+W] — learners who differ on it differ in outcomes
+- [Bullied preadolescent children have poorer academic grades than non-bullied peers](../claims/bullying-associated-with-poorer-academic-grades.md) [+W] — learners who differ on it differ in outcomes
+- [Bullied preadolescent children show greater behavioral problems across CBCL domains than non-bullied peers](../claims/bullying-associated-with-greater-behavioral-problems.md) [+W] — learners who differ on it differ in outcomes
+- [Caregiver-reported bullying victimization is associated with higher odds of NSSI/passive suicidality and active suicidality in preadolescent children](../claims/bullying-associated-with-nssi-and-suicidality-preadolescents.md) [+W] — learners who differ on it differ in outcomes
+- [Living in a very safe neighborhood eliminates the curiosity gap between lower-resourced and higher-resourced children](../claims/very-safe-neighborhood-closes-curiosity-gap.md) [~W] — learners who differ on it differ in outcomes
+- [Living in a very safe neighborhood is associated with higher kindergarten curiosity, but only for lower- and middle-resourced children](../claims/very-safe-neighborhood-higher-curiosity-lower-middle-ses.md) [~W] — learners who differ on it differ in outcomes
+- [Peer-problem mediation of the ADHD–depression link is not driven entirely by victimisation](../claims/peer-mediation-not-solely-victimisation.md) [~W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Electronic Bullying Questionnaire** (Kowalski & Limber, 2007): self-report of how often a person has been cyberbullied or has cyberbullied others.

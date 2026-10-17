@@ -43,4 +43,4 @@ Repeated-measures experiment with 73 Grade 4 children completing the WMPT across
 
 
 ## Related Claims
--
+- [With increasing n-back task difficulty, reaction times increase and accuracy decreases](nback-difficulty-increases-rt-decreases-accuracy.md) — related

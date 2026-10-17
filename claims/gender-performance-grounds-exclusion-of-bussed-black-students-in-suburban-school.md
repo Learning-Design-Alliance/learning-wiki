@@ -91,3 +91,4 @@ The article's summary of Ispa-Landa's (2013) findings: "Boys are classified as i
 - Girls' experiences of injustice were neglected and girls were expected to accept unfair treatment — related
 - [Two gendered classroom cultures coexisted: rule-following vocal girls and disruptive boys receiving disproportionate time and space](two-gendered-classroom-cultures.md) — related
 - [Race prompts elicit culturally stereotyped feedback: Black, Hispanic, and Asian students are positioned through cultural or linguistic stereotypes while White students receive argument-structure feedback](race-prompts-cultural-stereotype-feedback.md) — related
+- [Black girls across developmental stages reported awareness of stereotypes specific to Black girls and connected them to negative school experiences](black-girls-stereotype-awareness-school-experiences.md) — related

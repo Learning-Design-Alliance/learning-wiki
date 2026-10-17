@@ -38,6 +38,8 @@ Stereotype threat is the situation in which a negative cultural stereotype about
 - [Anxiety and toxic stress from stereotypes, bullying, and exclusionary practices impede learning by preoccupying the brain with worry and fear](../claims/toxic-stress-impedes-learning.md) [+W] — learners who differ on it differ in outcomes
 - [Bias transfer is asymmetric: prompt condition affects agency in female-target essays but not male-target essays, suppressing female agency while male writing remains stable](../claims/asymmetric-female-agency-suppression-bias-transfer.md) [+M] — an instructional effect differs with it
 - [Stereotype threat in collaborative contexts can interfere with working memory and reduce meaningful contribution](../claims/stereotype-threat-undermines-collaborative-contribution.md) [+W] — learners who differ on it differ in outcomes
+- [Stereotype threat reverses the gender gap in third-grade reading: boys underperform girls under threat but outperform them under reduced threat](../claims/stereotype-threat-reverses-boys-reading-gender-gap.md) [+M] — learners who differ on it differ in outcomes
+- [The threat-by-gender pattern in reading occurred only among highly-identified students](../claims/stereotype-threat-reading-only-highly-identified.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Diagnostic versus non-diagnostic test comparisons**: compares learners vulnerable to the stereotype who are told a reading, writing or mathematics test is diagnostic of ability with those told it is not; lower scores under the diagnostic framing indicate threat.
@@ -59,6 +61,8 @@ Stereotype threat is the situation in which a negative cultural stereotype about
 - [English-Learner Status](english-learner-status.md): stereotypes about non-native accents can affect how adult learners are judged.
 
 ## Examples
+
+- [Frame reading assessment as a game to reduce stereotype threat for boys](../strategies/frame-reading-test-as-game-reduce-threat.md)
 
 ## Key Sources
 - Digital Promise. *Learner Variability Navigator*: Stereotype Threat (Adult Learner, Building Literacy 4-6, Building Literacy 7-12, Building Literacy PK-3, Building Math 3-6, Building Math 7-10, Building Math PK-2, Portrait of a Learner 4-8, Portrait of a Learner 9-12, Portrait of a Learner PK-3). [lvp.digitalpromiseglobal.org](https://lvp.digitalpromiseglobal.org/content-area/adult-learner/factors/stereotype-threat-adult-learner/summary). Licensed CC BY-NC 4.0.

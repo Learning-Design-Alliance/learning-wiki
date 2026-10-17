@@ -77,6 +77,20 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Reduction of cognitive load can sometimes impair learning rather than enhance it](../claims/load-reduction-can-impair-learning.md) [~W] — learners who differ on it differ in outcomes
 - [Students using ChatGPT 3.5 experience lower extraneous cognitive load than students using Google during a web research task](../claims/llm-search-lower-extraneous-cognitive-load.md) [+M] — instruction changes it
 - [Students using ChatGPT 3.5 experience lower intrinsic cognitive load than students using Google during a web research task](../claims/llm-search-lower-intrinsic-cognitive-load.md) [+M] — instruction changes it
+- [After controlling for age, WM correlates significantly only with the most demanding condition (priming task, noncanonical word order)](../claims/wm-partial-correlation-only-priming-noncanonical.md) [~M] — learners who differ on it differ in outcomes
+- [Age predicts decoding efficiency in children with dyslexia while working memory and perceptual organization covariate effects are non-significant](../claims/age-covariate-effects-decoding-dyslexia.md) [-W] — learners who differ on it differ in outcomes
+- [Most predictor effect sizes showed high heterogeneity; only morphological awareness, working memory, and language comprehension fell in the moderate I² range](../claims/high-heterogeneity-adult-predictor-effect-sizes.md) [~W] — learners who differ on it differ in outcomes
+- [Numerical working memory predicts decimal number line estimation accuracy](../claims/counting-recall-predicts-decimal-number-line.md) [+W] — learners who differ on it differ in outcomes
+- [The central executive coordinates WM subsystems and supports higher-level language-learning functions such as attention switching and strategy switching](../claims/central-executive-coordinates-language-learning-functions.md) [+M] — learners who differ on it differ in outcomes
+- [The episodic buffer integrates multimodal representations from WM components and long-term memory, which is important for learning](../claims/episodic-buffer-multimodal-integration-learning.md) [+M] — learners who differ on it differ in outcomes
+- [Verbal and spatial working memory, and verbal attention span, explain unique variance in Coding beyond motor speed, symptom severity, and IQ](../claims/working-memory-explains-coding-variance.md) [+M] — learners who differ on it differ in outcomes
+- [Verbal STM/WM and several executive and sensorimotor measures show no robust relation with math in children with normal reading skill](../claims/no-relation-verbal-memory-executive-math.md) [-M] — learners who differ on it differ in outcomes
+- [Verbal working memory directly and positively predicts math performance in grades 3 and 4](../claims/verbal-wm-predicts-math-grades-3-4.md) [+W] — learners who differ on it differ in outcomes
+- [Verbal working memory predicts oral reading fluency in children with and without ADHD](../claims/verbal-working-memory-predicts-reading-fluency.md) [+M] — learners who differ on it differ in outcomes
+- [Working memory accounts for the relation between ADHD traits and communicative perspective-taking](../claims/working-memory-accounts-adhd-perspective-taking-relation.md) [+M] — learners who differ on it differ in outcomes
+- [Working memory capacity is a robust indicator of success or failure in language learning](../claims/wm-capacity-predicts-language-learning-success.md) [+M] — learners who differ on it differ in outcomes
+- [Working memory is the strongest predictor of adolescents' communicative perspective-taking](../claims/working-memory-predicts-adolescent-communicative-perspective-taking.md) [+M] — learners who differ on it differ in outcomes
+- [Working-memory capacity correlates positively with accuracy on all four sentence-production conditions](../claims/wm-positively-correlated-all-production-conditions.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

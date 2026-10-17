@@ -60,3 +60,4 @@ This meta-analysis pooled true- and quasi-experimental studies of handwriting in
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — effortful, non-automatic handwriting consumes working memory that would otherwise support content generation
 - [The expertise reversal effect](../theories/expertise-reversal-effect.md) — highly scaffolded formation instruction may become redundant for learners who have already automatized letter forms
 - [Different types of handwriting interventions produce equivalent gains in handwriting legibility and fluency](handwriting-intervention-type-equivalence.md) — related
+- [About half of all children with DCD experience difficulty learning to write, making dysgraphia assessment essential because handwriting difficulties do not resolve without intervention](half-of-children-with-dcd-have-dysgraphia.md) — a narrower finding that bears on this claim

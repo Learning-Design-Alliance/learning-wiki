@@ -45,3 +45,4 @@ Item selection analysis of the collected versus selected samples (Tables 2.2 and
 ## Related Claims
 - [Adaptive testing explains why about one third of calibrated Spanish math items carry calibration status 10](adaptive-calibration-yields-status-10-third-of-items.md) — related
 - [Old (English-borrowed) and newly calibrated Spanish item RITs differ negligibly, with correlations of 0.98 and no statistically significant paired t-test differences](spanish-item-rit-calibration-negligible-differences.md) — related
+- [Students' surprise at measurement values was overwhelmingly expressed by identifying an outlier or extreme/unusual value](surprise-responses-identify-outliers.md) — related

@@ -43,4 +43,4 @@ The review's conclusion from multiple experimental sources: surprise memory test
 
 
 ## Related Claims
--
+- [Early (within ~100 ms) attentional modulation during encoding predicts subsequent working memory accuracy](early-encoding-modulation-predicts-wm-accuracy.md) — related

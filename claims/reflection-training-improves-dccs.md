@@ -81,4 +81,5 @@ The review reports, citing Chevalier and Blaye (2016), a study recording gaze po
 
 
 ## Related Claims
--
+- [Foster children who received the ABC intervention in infancy showed stronger cognitive flexibility at preschool age than foster children who received a control intervention](abc-intervention-improves-cognitive-flexibility-foster-preschoolers.md) — related
+- [Neural variability and flexibility may underlie cognitive flexibility, with an optimal level required across the lifespan](neural-flexibility-supports-cognitive-flexibility.md) — related

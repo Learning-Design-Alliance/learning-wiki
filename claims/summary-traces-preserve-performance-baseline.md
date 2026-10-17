@@ -49,3 +49,4 @@ In the preregistered between-subjects experiment, the pairwise test between Answ
 - [Full reasoning traces worsened calibration bias and Brier scores relative to both other conditions](full-traces-worsen-calibration-and-brier-scores.md) — related
 - [No trace format supported calibrated self-evaluation: perceived-achieved correlations were low and non-significant in all conditions](no-trace-format-supported-calibrated-self-evaluation.md) — related
 - [Hedonic appeal, not trust, carries the indirect path from trace exposure to performance overestimation, consistent with a processing-fluency account](hedonic-appeal-mediates-overestimation.md) — related
+- [Learning goals predict more positive subjective appraisals of memory performance after controlling for actual performance](learning-goals-predict-positive-subjective-performance.md) — related

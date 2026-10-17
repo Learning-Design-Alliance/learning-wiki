@@ -46,3 +46,4 @@ Within the same multiple-baseline observation study of 62 students, the subgroup
 - [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md) — the general claim this finding bears on, with the studies behind it
 - [Systematic implementation of Energizers improves on-task behavior during academic instruction in third- and fourth-grade students](energizers-improved-on-task-behavior.md) — a broader claim this one bears on
 - [A classroom-based physical activity program (Energizers) increases children's daily in-school physical activity compared with no program](energizers-increased-in-school-steps.md) — related
+- [Classroom energizers improved on-task behaviour, but PA during a classroom task showed no improvement](energizers-on-task-behaviour-effect.md) — related

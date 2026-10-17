@@ -47,3 +47,4 @@ The review's RQ2 synthesis states that "interpretable, well-specified AI mechani
 - Rejecting well-specified prompts cost control students performance but not workshop students — related
 - A two-hour AI literacy workshop made middle-school students less likely to accept underspecified suggested prompts — related
 - Workshop students' correctness judgments of LLM responses were more sensitive to prompt specification — related
+- [The WM model is criticised as underspecified in its component interactions, limiting its predictive power](wm-model-underspecified-components-criticism.md) — a narrower finding that bears on this claim

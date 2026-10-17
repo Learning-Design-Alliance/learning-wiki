@@ -62,4 +62,5 @@ Same matched longitudinal LMM analysis of NIH Toolbox scores. The article report
 
 
 ## Related Claims
--
+- [Bullied preadolescent children have lower cognitive scores than non-bullied peers](bullying-associated-with-lower-cognitive-scores.md) — a broader claim this one bears on
+- [Bullied preadolescent children have poorer academic grades than non-bullied peers](bullying-associated-with-poorer-academic-grades.md) — related

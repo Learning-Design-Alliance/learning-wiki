@@ -49,3 +49,4 @@ Narrative synthesis of working memory span studies. Sana et al. (2017) found the
 - [Interleaving Improves Discrimination](interleaving-improves-discrimination.md) — related
 - [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — related
 - [Studies disagree on whether low or high working memory learners benefit more from retrieval practice, and several find no relationship](relation-between-working-memory-and-retrieval-practice-benefit-is-inconsistent.md) — related
+- [Working memory capacity is a robust indicator of success or failure in language learning](wm-capacity-predicts-language-learning-success.md) — related

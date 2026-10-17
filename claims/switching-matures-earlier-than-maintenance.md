@@ -62,4 +62,4 @@ The review reports, citing Karbach and Kray (2007), a cued task-switching study 
 
 
 ## Related Claims
--
+- [Cognitive flexibility develops protractedly: sharp increase between 7 and 9 years, largely mature by age 10, peaking between 21 and 30](protracted-cognitive-flexibility-development.md) — related

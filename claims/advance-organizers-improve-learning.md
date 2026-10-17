@@ -152,3 +152,4 @@ Open questions: most of the evidence base predates modern multimedia learning re
 - [Advance organizers facilitate conceptual retention and far transfer of unfamiliar technical material for learners lacking relevant prior knowledge](advance-organizers-far-transfer-unfamiliar-technical-material.md) — related
 - [Well-organized texts following rhetorical schemata are better remembered than disorganized texts, and high-structure information is more likely to be recalled](organized-text-high-structure-recall-advantage.md) — related
 - [Structural signals show no consistent recall benefits but can aid deeper understanding measured by problem-solving tests](structural-signals-aid-problem-solving-not-recall.md) — related
+- [Lower health literacy and weaker cognitive abilities are associated with poorer performance on common healthcare tasks](lower-health-literacy-weaker-cognition-poorer-health-task-performance.md) — related

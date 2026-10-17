@@ -50,3 +50,4 @@ Interaction analyses added to the multilevel models of the randomized trial test
 - [Game design, not learner age or linguistic background, determines DGBL effectiveness; adventure games outperform non-adventure games](game-design-moderates-dgbl-effectiveness.md) — related
 - [Before intervention, treatment and control kindergartners did not differ on age, demographics, vocabulary, phoneme segmentation, letter knowledge, or reading](pretest-equivalence-phoneme-awareness-kindergarten-trial.md) — related
 - [Age, gender, class level and voluntary programme choice do not significantly predict job search anxiety in the adjusted model](demographics-null-predictors-job-search-anxiety.md) — related
+- [Exploratory moderation analyses found no significant moderators (age, gender, SES, baseline self-control, baseline life events) of the life events–self-control relation](no-moderators-life-events-self-control.md) — related

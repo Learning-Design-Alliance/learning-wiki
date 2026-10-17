@@ -106,6 +106,7 @@ Routines convert recurring logistical decisions into automatic behavior, reducin
 5. **Maintain and fade** — after fluency develops, reduce explicit reinforcement; revisit and re-teach after breaks or when a routine degrades.
 
 ## Related Strategies
+
 - [Clear Structure](../principles/clear-structure.md) — routines are the procedural expression of a structured learning environment
 - [Check-In](../elements/check-in.md) — a routine that doubles as a social-emotional touchpoint
 - [Attention](../elements/attention.md) — attention signals are among the most-used and most-researched classroom routines
@@ -117,6 +118,7 @@ Routines convert recurring logistical decisions into automatic behavior, reducin
 - [Exit tickets](exit-ticket.md) — a closure routine that doubles as formative assessment
 - [Establishing rules and expectations](../strategies/establishing_rules_and_expectations.md) — routines operationalize rules as concrete behaviors
 - [Timers and pacing](../strategies/timers_and_pacing.md) — tools that support transition routines
+- [Train teachers to organize, plan, and manage the classroom to support self-regulation in students with weak initial self-regulation](teacher-organizing-planning-supports-weak-self-regulation.md)
 
 ## Examples
 - **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveclassroom.org) — the "Interactive Modeling" routine teaches procedures through a seven-step model-practice-feedback cycle used across thousands of elementary schools.

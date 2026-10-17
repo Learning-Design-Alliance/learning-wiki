@@ -41,4 +41,4 @@ Bivariate comparisons (chi-square and Kruskal-Wallis tests) between the poor aca
 
 
 ## Related Claims
--
+- [Sleep education at school improves academic performance in children](sleep-education-improves-academic-performance.md) — related

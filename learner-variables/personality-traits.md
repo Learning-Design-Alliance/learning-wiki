@@ -48,6 +48,7 @@ Personality traits are relatively stable individual differences, most often meas
 - [On study habits, grit, and promotion to tenth grade, charter students performed similarly to or slightly below comparable non-charter students, with the promotion gap possibly reflecting charters' higher promotion requirements](../claims/cps-charter-similar-or-lower-behaviors-promotion.md) [-W] — instruction changes it
 - [Openness partially mediates effects of extraversion and novelty tolerance, and fully mediates general uncertainty tolerance, on well-being decline](../claims/openness-mediates-personality-wellbeing-pathways.md) [+M] — learners who differ on it differ in outcomes
 - [Openness protects against well-being decline only when emotional stability is average or high](../claims/openness-protects-only-with-emotional-stability.md) [~M] — learners who differ on it differ in outcomes
+- [Openness to experience predicts creativity but not fluid intelligence, and further reduces the residual intelligence–creativity correlation to a trend.](../claims/openness-predicts-creativity-not-gf.md) [~M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

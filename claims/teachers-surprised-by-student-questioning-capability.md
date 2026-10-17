@@ -45,3 +45,4 @@ Qualitative findings from teacher interviews. Teachers observed students could p
 
 - [75% of student-authored physics questions met combined high-quality criteria (clear, correct, plausible distractors, above recall, adequate explanation)](peerwise-student-questions-75-percent-high-quality.md) — the general claim this finding bears on, with the studies behind it
 - [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — related
+- [Students' surprise at measurement values was overwhelmingly expressed by identifying an outlier or extreme/unusual value](surprise-responses-identify-outliers.md) — related

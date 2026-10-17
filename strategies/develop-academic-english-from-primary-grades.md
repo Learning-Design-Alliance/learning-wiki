@@ -41,6 +41,7 @@ The guide's fourth recommendation, graded Low, directs schools to ensure that de
 
 - [Schedule about 90 minutes a week of structured peer-assisted learning in which pairs of students at different ability or proficiency levels work together on academic tasks](structured-peer-assisted-learning-pairs-90-minutes.md)
 - [Integrate bilingualism into all instructional settings through districtwide professional learning and in-service coaching](integrate-bilingualism-all-instructional-settings.md)
+- [Make academic vocabulary, verbal reasoning, and advanced mathematics part of the school curriculum in the upper primary grades](curriculum-attention-academic-vocabulary-verbal-reasoning-upper-grades.md)
 
 ## Examples
 -

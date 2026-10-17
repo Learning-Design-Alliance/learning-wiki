@@ -62,4 +62,4 @@ Multilevel analysis of morning working memory updating as a function of the prev
 
 
 ## Related Claims
--
+- [Sleep education at school improves cognitive functioning in children](sleep-education-improves-cognitive-functioning.md) — related

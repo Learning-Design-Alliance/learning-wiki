@@ -37,7 +37,8 @@ The article recommends three linked approaches for ELT trainer preparation. Firs
 - informed decision making, problem solving, and critical reflective thinking about teaching
 
 ## Related Strategies
-- 
+
+- [Use a triadic guiding-question checklist to design and reflect on adult learning activities across preparation, performance and reflection](triadic-guiding-questions-design-adult-programs.md)
 
 ## Examples
 -

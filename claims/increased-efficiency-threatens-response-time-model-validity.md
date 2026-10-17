@@ -47,3 +47,4 @@ Theoretical argument in the commentary: the increasing efficiency effect "appear
 - [The increased efficiency effect confounds attempts to exploit the speed-ability trade-off central to many response-time models](increased-efficiency-confounds-speed-ability-tradeoff.md) — possibly the same claim (merge candidate)
 - [Test takers tend to increase their time efficiency during MAP test events, an effect the author observed in data from 2 very different testing programs](increased-efficiency-effect-observed-two-testing-programs.md) — related
 - [How commonly the increased efficiency effect is present in test data is unclear](increased-efficiency-prevalence-unclear.md) — related
+- [Processing speed measured with response times is better represented as four distinct cognitive processes (planning, attention, simultaneous, successive) than as a unitary speed factor](processing-speed-distinct-abilities-not-unitary.md) — related

@@ -45,3 +45,4 @@ Prospective longitudinal study (N = 1094, ages 5.6 to 11.1) examining family fac
 ## Related Claims
 - The study design separately examined recent-year moves and cumulative moves across elementary school in relation to child functioning — a broader claim this one bears on
 - [A recent school move or a single move shows no evidence of relation to children's academic or social functioning](recent-single-school-move-no-functioning-link.md) — related
+- [Prior research has linked moving during childhood with adverse educational and behavioral adjustment outcomes, with the disruptive nature of moving cited as the underlying factor](prior-mobility-research-adverse-child-outcomes.md) — related

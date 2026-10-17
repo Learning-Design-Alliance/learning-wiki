@@ -49,3 +49,4 @@ Structural equation modeling with 242 kindergartners tested letter writing autom
 - [Phonological awareness and alphabet knowledge fluency are each uniquely related to both word reading and spelling in kindergartners](pa-and-ak-fluency-uniquely-related-word-reading-spelling.md) — related
 - [Vocabulary is uniquely and positively related to word reading and spelling in kindergartners after accounting for phonological awareness, alphabet knowledge fluency, and letter writing automaticity](vocabulary-uniquely-related-word-reading-spelling-kindergarten.md) — related
 - [Different types of handwriting interventions produce equivalent gains in handwriting legibility and fluency](handwriting-intervention-type-equivalence.md) — related
+- [Letter-writing fluency has a small unique concurrent relation to kindergarten compositional fluency but no significant relation to first-grade writing outcomes](letter-writing-fluency-concurrent-not-longitudinal.md) — related

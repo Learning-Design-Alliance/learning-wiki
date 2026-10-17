@@ -57,6 +57,7 @@ The article describes the response-to-intervention (RTI) model as a multitiered 
 - [Use early-session timing signals, interpreted relative to proficiency, to identify students needing adaptive support](../strategies/early-session-timing-signals-target-adaptive-support.md)
 - [Ohio’s Dyslexia Guidebook](../products/ohios-dyslexia-guidebook.md)
 - [Screen for and monitor children at risk of nonresponse to universal SWPBIS and target nonresponders for more intensive tiered interventions](../strategies/screen-and-target-swpbis-nonresponders.md)
+- [Assess accuracy and strategy use on one-half fraction items at the end of Grades 4 and 5 to identify students needing additional fraction support](../strategies/one-half-screening-grades-4-5.md)
 
 ## Key Sources
 - He, W., & Meyer, P. (2021). MAP Growth universal screening benchmarks: Establishing MAP Growth as an effective universal screener. NWEA. https://www.nwea.org

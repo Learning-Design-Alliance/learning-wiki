@@ -73,3 +73,4 @@ The review reports that meta-analyses find benefits concentrated among "economic
 - [The growth mindset intervention increased tenth-grade advanced mathematics course enrolment overall, with larger gains in the highest-achieving schools](growth-mindset-increases-advanced-math-enrolment.md) — related
 - [A short online growth mindset intervention improved ninth-grade core-course GPAs among lower-achieving students in a nationally representative US sample](growth-mindset-raises-lower-achiever-gpas-national-experiment.md) — related
 - [Mind-set interventions show weak overall effects on achievement, with some support that low-SES or academically at-risk students might benefit](mindset-intervention-effects-weak-subgroup-benefit.md) — related
+- [Growth math mindset positively predicts academic grit in primary students](growth-math-mindset-predicts-academic-grit.md) — related

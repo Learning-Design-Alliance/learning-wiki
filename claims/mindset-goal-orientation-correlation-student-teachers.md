@@ -47,3 +47,4 @@ Pearson Product Moment Correlation analysis of the 1409-student survey (Table 10
 - [Intelligence-perception scores differ by class year, with fourth-year students more incremental and second-year students more entity-oriented](class-level-mindset-differences.md) — related
 - [Turkish student teachers score higher on entity theory than incremental theory and on performance goal orientation than learning goal orientation](turkish-student-teachers-entity-performance-higher.md) — related
 - [Female student teachers score significantly higher on performance goal orientation than male students, with no gender differences on the other dimensions](gender-performance-goal-orientation-females-higher.md) — related
+- [Learning and performance goal orientations are highly positively correlated and not mutually exclusive in adults](learning-and-performance-goals-correlated-adults.md) — related

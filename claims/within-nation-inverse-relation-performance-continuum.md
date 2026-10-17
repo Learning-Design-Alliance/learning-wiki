@@ -65,3 +65,4 @@ Figure 3 caption describing the within-country curves for the 33 countries in al
 - [The mathematics sex difference is practically non-existent among low performers and largest among high performers, where boys outnumber girls up to 2.7:1 above the 99th percentile](math-sex-difference-concentrated-at-high-end.md) — related
 - [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](pisa-sex-differences-math-small-reading-three-times-larger.md) — related
 - [The reading sex difference favoring girls grew over the decade and was driven by very poor performance of boys at the low end](reading-gap-growing-driven-by-low-performing-boys.md) — related
+- [The gender gap in reading is three times bigger than the gender gap in math](reading-gender-gap-three-times-math-gap.md) — related

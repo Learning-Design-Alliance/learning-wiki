@@ -46,3 +46,4 @@ Pilot evaluation with 10 students from the same recruitment pool, run with the s
 - [The 16-item CT–PCK Survey shows internal consistency reliability around .71–.72 and person separation reliability of .69](ct-pck-reliability-internal-consistency.md) — related
 - [Questionnaire constructs showed acceptable to strong internal consistency (α = 0.740 to 0.945)](questionnaire-constructs-internal-consistency.md) — related
 - [A high Cronbach's alpha across items measuring distinct knowledge aspects indicates the test is not working as intended](high-alpha-indicates-domain-knowledge-test-failure.md) — related
+- [An abbreviated 12-item RPM subset predicts sentence recognition in CI users with comparable validity to the full 48-item test](abbreviated-12-item-rpm-predicts-ci-sentence-recognition.md) — related

@@ -92,6 +92,9 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [A belonging-enhancing intervention produced a smaller decline in sense of belonging over the first year than the control groups](../claims/belonging-intervention-smaller-decline.md) [+M] — instruction changes it
 - [Both sense of belonging and intentions to persist decline over the first academic year](../claims/belonging-and-persistence-intentions-decline-first-year.md) [+M] — instruction changes it
 - [First-year students' sense of belonging to their university predicts intentions to persist, controlling for background variables and other persistence predictors](../claims/sense-of-belonging-predicts-persistence-intentions.md) [+M] — learners who differ on it differ in outcomes
+- [Perceived school belonging predicts on-time high school completion more strongly for students with chronic medical conditions than for healthy peers](../claims/belonging-completion-moderated-by-health-status.md) [+M] — an instructional effect differs with it
+- [School belonging and centrality are associated with higher intrinsic motivation, but neither buffers the associations between stigma awareness and academic attitudes](../claims/school-belonging-centrality-compensation-no-buffering.md) [~M] — learners who differ on it differ in outcomes
+- [School belonging mediates the higher intrinsic motivation of Dominican children relative to European-American peers](../claims/school-belonging-mediation-dominican-intrinsic-motivation.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

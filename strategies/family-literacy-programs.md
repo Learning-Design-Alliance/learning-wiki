@@ -67,6 +67,7 @@ Family literacy programs work by changing the *distribution and quality* of lite
 - [Provide parent read-at-home plans and home reading strategies for struggling readers](parent-read-at-home-plans.md)
 - [Train parents as one-on-one reading coaches through weekly family workshops](parent-reading-coach-family-workshops.md)
 - [Provide accessible caregiver resources to reinforce phonics at home](family-support-hub-home-literacy-reinforcement.md)
+- [Shared book reading as a potential intervention for increasing lexical diversity in young children's learning environments](shared-book-reading-lexical-diversity-intervention.md)
 
 ## Examples
 - **[ParentChild+](https://parentchildplus.org)** — twice-weekly home visits over two years; a trained visitor models reading and play interactions, then the caregiver practices with feedback, with materials gifted to the family.

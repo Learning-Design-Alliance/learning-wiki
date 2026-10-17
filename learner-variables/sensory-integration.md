@@ -34,6 +34,11 @@ Sensory integration is the brain's capacity to receive, process and organise inf
 
 ## Claims
 <!-- Claims reporting findings about this variable, with evidence tags -->
+- [Group x condition interactions show condition-dependent activation differences in superior temporal, parietal, cingulate, medial frontal, and middle temporal regions](../claims/group-condition-interaction-speech-noise-regions.md) [~M] — learners who differ on it differ in outcomes
+- [In an auditory number-cue detection task, both blind and sighted adults detect targets faster on number-size/location congruent trials, with no group difference](../claims/auditory-number-congruency-detection-both-groups.md) [-M] — learners who differ on it differ in outcomes
+- [Number-size/location congruency modulates the cognitive P300 only in blind participants](../claims/p300-congruency-modulation-blind-only.md) [~M] — learners who differ on it differ in outcomes
+- [Number-size/location congruency modulates the early sensory N100 only in sighted participants](../claims/n100-congruency-modulation-sighted-only.md) [~M] — learners who differ on it differ in outcomes
+- [The authors interpret blind participants' number-space congruency processing as restricted to a controlled, working-memory-dependent cognitive level](../claims/blind-number-processing-working-memory-interpretation.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Sensory Profile 2 (SP2)** (Dunn, 2014): parent and teacher questionnaires on sensory processing, praxis and social participation from birth to about 15, in several languages.

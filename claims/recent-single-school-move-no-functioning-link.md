@@ -45,3 +45,5 @@ In the prospective longitudinal study (N = 1094), the authors tested whether a m
 ## Related Claims
 - [Changes in family income and household structure predict higher odds of two or more school moves in elementary school, while family factors are not linked to a recent or single move](family-income-household-changes-predict-cumulative-school-moves.md) — related
 - The study design separately examined recent-year moves and cumulative moves across elementary school in relation to child functioning — related
+- [Prior research has linked moving during childhood with adverse educational and behavioral adjustment outcomes, with the disruptive nature of moving cited as the underlying factor](prior-mobility-research-adverse-child-outcomes.md) — reports the opposite
+- [Experiencing a residential move during early or middle childhood is associated with greater teacher-reported cognitive and behavioral dysregulation in fifth grade among low-income children](residential-move-higher-teacher-reported-dysregulation.md) — reports the opposite

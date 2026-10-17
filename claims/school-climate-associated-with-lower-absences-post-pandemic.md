@@ -96,3 +96,4 @@ Same models; related measures are teacher-parent trust, parent involvement in sc
 - [Family engagement is connected to stronger social-emotional development, higher attendance, and better academic outcomes](family-engagement-linked-better-outcomes.md) — related
 - [Large majorities of Gateway students report feeling cared for, part of the school, safe, and connected](gateway-climate-survey-belonging.md) — related
 - Bronxdale's 2017–18 school climate survey positive-response rates exceeded city high school averages on all surveyed indicators — related
+- [Living in a very safe neighborhood eliminates the curiosity gap between lower-resourced and higher-resourced children](very-safe-neighborhood-closes-curiosity-gap.md) — related

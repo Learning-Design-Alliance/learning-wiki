@@ -1,0 +1,46 @@
+---
+type: claim
+title: All participating girls reported parents helping them navigate school-based conflict, with parents advising silence or non-engagement as a protective strategy
+description: All participating girls reported parents helping them navigate school-based conflict, with parents advising silence or non-engagement as a protective strategy
+id: parental-silence-advice-protective-school-conflict
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-17
+evidence_strength: moderate
+sources:
+  - id: burnett-marketa-2022
+    resource: "https://doi.org/10.3389/fpsyg.2022.933476"
+    title: "Burnett Marketa, McBride Margarett, Green McKenzie N., Cooper Shauna M. (2022). “When I Think of Black Girls, I Think of Opportunities”: Black Girls' Identity Development and the Protective Role of Parental Socialization in Educational Settings. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2022.933476"
+    author: Burnett Marketa, McBride Margarett, Green McKenzie N., Cooper Shauna M.
+    q: 2
+    i: "?"
+---
+
+# All participating girls reported parents helping them navigate school-based conflict, with parents advising silence or non-engagement as a protective strategy
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
+
+## Subclaims
+`q2 i?` All 12 participants reported seeking parental support after school conflict, and parents consistently advised ignoring or not engaging with teachers and classmates. [→ Burnett Marketa 2022](#burnett-marketa-2022)
+
+## Evidence
+
+### Burnett Marketa 2022
+
+Burnett Marketa, McBride Margarett, Green McKenzie N., Cooper Shauna M. (2022). “When I Think of Black Girls, I Think of Opportunities”: Black Girls' Identity Development and the Protective Role of Parental Socialization in Educational Settings. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2022.933476
+
+`q2 · i?`
+
+Thematic analysis of the 12 interviews found that "All 12 participants mentioned that their parents helped them to navigate classroom or school-based conflict," with conflicts commonly rooted in racism and/or sexism.
+
+> "Black parents consistently advised their daughters to ignore or not engage with teachers and classmates in these instances as a strategy to protect their daughters regardless of whether they were in middle school or high school."
+
+## Discussion
+
+
+## Related Claims
+- [Black girls' awareness of difficulties navigating educational settings is coupled with parental support that promotes positive gendered racial identities](parental-support-promotes-positive-gendered-racial-identities.md) — related
+- [Black girls across developmental stages reported awareness of stereotypes specific to Black girls and connected them to negative school experiences](black-girls-stereotype-awareness-school-experiences.md) — related
+- [Middle school girls framed Blackness as celebratory culture while high school girls emphasized individual efforts to overcome negative portrayals](developmental-shift-meaning-of-blackness.md) — related

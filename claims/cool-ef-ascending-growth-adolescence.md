@@ -41,4 +41,5 @@ Cross-sectional ANCOVA of 136 adolescents in six age groups (12–17), controlli
 
 
 ## Related Claims
--
+- [Backward digit span performance does not emerge until about age 5, whereas forward span is measurable from age 3](backward-span-onset-age-5.md) — related
+- [Verbal working memory shows non-linear growth from ages 3–19, with the most rapid growth during childhood and a brief accelerated period during early adolescence](wm-nonlinear-growth-childhood-acceleration-adolescence.md) — related

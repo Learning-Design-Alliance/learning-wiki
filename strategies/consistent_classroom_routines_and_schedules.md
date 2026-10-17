@@ -59,9 +59,11 @@ Predictable structure reduces the extraneous cognitive load of constantly re-ori
 6. **Fade teacher management** — shift responsibility to students (student-led transitions, self-monitoring checklists) as routines become automatic, consistent with [Fading](../elements/fading.md).
 
 ## Related Strategies
+
 - [Clear Structure](../principles/clear-structure.md) — the instructional-design counterpart: predictable structure in *content* parallels predictable structure in *classroom process*
 - [Check-ins](../principles/check-ins.md) — routine openings that double as formative social-emotional monitoring
 - [Accommodations](../elements/accommodations.md) — individualized schedule and transition supports for learners who need more than class-wide predictability
+- [Train teachers to organize, plan, and manage the classroom to support self-regulation in students with weak initial self-regulation](teacher-organizing-planning-supports-weak-self-regulation.md)
 
 ## Examples
 - **Responsive Classroom** (https://www.responsiveclassroom.org) — the Morning Meeting and interactive modeling routines operationalize consistent schedules in elementary schools; interactive modeling is essentially [Demonstration](../elements/demonstration.md) applied to routines.

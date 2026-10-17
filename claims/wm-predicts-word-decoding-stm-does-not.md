@@ -43,4 +43,4 @@ Structural equation modeling, modeled after Engle, Tuholski, et al. (1999), esti
 
 
 ## Related Claims
--
+- [Working memory is distinct from short-term memory in subsystem count and functional role in higher cognition](wm-distinct-from-stm-subsystems-function.md) — a broader claim this one bears on

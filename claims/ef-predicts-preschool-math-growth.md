@@ -65,3 +65,5 @@ Longitudinal study of a racially/ethnically and linguistically diverse sample of
 - [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [Growth in task orientation partially mediates the association between executive function and mathematics achievement in preschoolers](task-orientation-partially-mediates-ef-math.md) — related
 - [No statistically significant sex differences in the direct associations among EF, task orientation, and mathematics or in the mediating effect of task orientation](no-sex-differences-ef-task-orientation-math-pathways.md) — related
+- [Mathematical accuracy and fluency have overlapping yet different predictors, supporting attention to both aspects in mathematics teaching](accuracy-and-fluency-different-predictors.md) — related
+- [Preschool working memory–flexibility predicts later math achievement, especially in Grade 3](preschool-wm-flexibility-predicts-math-achievement.md) — related

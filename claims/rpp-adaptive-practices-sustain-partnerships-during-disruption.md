@@ -66,3 +66,4 @@ This is the weakest-evidence claim in this ingest batch: a qualitative synthesis
 - [Relational elements — trust, voice and agency, and equity — are preconditions for restorative practices to work](relational-elements-precede-technical-restorative-results.md) — related
 - [Interacting repeatedly across convenings built trust that enabled districts to give and receive critiques of one another's plans](repeated-convenings-trust-enables-critique.md) — related
 - [Eight enabling factors support relationship-centered school transformation in comprehensive high school settings](enabling-factors-relationship-centered-transformation.md) — related
+- [Building educator capacity to use performance assessments in practice is a repeated finding for implementing performance assessments in accountability systems](educator-capacity-needed-for-performance-assessment-use.md) — related

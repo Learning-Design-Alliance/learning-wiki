@@ -48,3 +48,4 @@ Simulation comparison across constraint conditions (Figure 3) showing an asymmet
 - [The risk-averse Minimize Worst Case Loss task-selection strategy produces far higher overpractice than other strategies in simulated mastery learning](risk-averse-task-selection-high-overpractice.md) — a narrower finding that bears on this claim
 - [A prefer-harder problem-selection constraint reduces overpractice for the risk-averse strategy in the equation-solving dataset](prefer-harder-constraint-reduces-overpractice.md) — a narrower finding that bears on this claim
 - [Weakness Targeting and Maximize Usual Case Improvement yield the lowest overpractice among unconstrained strategies in the equation-solving dataset](weakness-targeting-lowest-overpractice.md) — related
+- [Children who switched to the efficient method largely reverted to the inefficient method over subsequent trials](children-revert-to-first-learned-inefficient-method.md) — related

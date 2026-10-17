@@ -75,6 +75,8 @@ They are assessed through performance tasks rather than a single test: argumenta
 - [The Pathway to Academic Success Project has potentially positive effects on literacy achievement for English learners in grades 6-12](../claims/pathway-project-potentially-positive-literacy-achievement.md) [~W] — instruction changes it
 - [Universal screening data from a small sample of full-implementation schools show fall-to-spring benchmark gains in reading and most math grades, largest in kindergarten, but behavior data show losses and the data are inconclusive](../claims/kansas-mtss-screening-gains-small-sample-inconclusive.md) [~M] — instruction changes it
 - [Within the experimental group, AI-supported instruction produced statistically significant pre-to-post gains on media reading, media writing, and total media literacy](../claims/experimental-group-within-group-gains-all-subscales.md) [+M] — instruction changes it
+- [Lower health literacy and weaker cognitive abilities are associated with poorer performance on common healthcare tasks](../claims/lower-health-literacy-weaker-cognition-poorer-health-task-performance.md) [+M] — learners who differ on it differ in outcomes
+- [The association between health literacy and health task performance is substantially reduced after adjusting for cognitive abilities](../claims/health-literacy-task-association-reduced-after-cognitive-adjustment.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Test of Functional Health Literacy in Adults (TOFHLA)** (Parker et al., 1995): This test measures the reading comprehension and numeracy skill components of health literacy in adults using real-life health situations.

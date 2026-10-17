@@ -50,3 +50,4 @@ Background statement in the review's context section, attributed to Dolan et al.
 - [Greater parental financial investment associated with lower grades but higher graduation likelihood (review attribution)](parental-financial-investment-grades-graduation.md) — related
 - [Classroom behavior problems are linked to worse novice-teacher outcomes, while a welcoming staff and strong school leadership are linked to more positive outcomes](classroom-behavior-problems-school-climate-novice-outcomes.md) — related
 - Teachers report that disruptive behaviors of students in foster care are easily misinterpreted and that purely disciplinary responses can make things worse — related
+- [More teacher time using A2i software is associated with less classroom time in disruption and discipline events](a2i-use-fewer-disruptions.md) — related

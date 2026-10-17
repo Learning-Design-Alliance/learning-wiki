@@ -145,6 +145,7 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Chatbot-based instruction enhanced secondary students' learning experience by enabling self-paced study with less stress, time savings, and maintained motivation](../claims/chatbot-enhances-learning-experience-self-paced.md) [+M] — instruction changes it
 - [In continuous recognition memory, the lag function is inverted U-shaped after a short retention interval and monotonically increasing after a long retention interval](../claims/spacing-lag-function-shape-depends-on-cue-bias-and-retention-interval.md) [~M] — learners who differ on it differ in outcomes
 - [Low-guidance set-ups took longer than high-guidance set-ups in the CVS instruction sessions](../claims/low-guidance-longer-time-on-task.md) [+M] — instruction changes it
+- [ISI teachers demonstrate stronger classroom management than control teachers, with more instructional time and fewer disruptions](../claims/isi-teachers-stronger-classroom-management.md) [+M] — instruction changes it
 
 ## The evidence by question
 

@@ -60,3 +60,4 @@ This is a single-school qualitative discourse study without a comparison school 
 - [A teacher's appropriation of the engineering design process reframed restrictive STEM narratives in her teaching and personal life](teacher-appropriation-of-edp-reframes-restrictive-stem-narratives.md) — related
 - Reflexive practitioners are well positioned to map multiple interpretations and include views from the margins — related
 - [Reflective methods carry inherent dangers of overanalysis and of becoming ends rather than means, and can go wrong](reflective-methods-overanalysis-limits.md) — related
+- [Students' surprise at measurement values was overwhelmingly expressed by identifying an outlier or extreme/unusual value](surprise-responses-identify-outliers.md) — related

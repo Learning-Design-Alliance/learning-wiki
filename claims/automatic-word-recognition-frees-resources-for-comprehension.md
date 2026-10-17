@@ -115,3 +115,4 @@ either. Any design that rests on this claim is resting on a mechanism, and shoul
 - [Productive cognitive offloading to AI can shift into cognitive surrender, abdicating learner intellectual agency](cognitive-offloading-shifts-to-cognitive-surrender.md) — related
 - [Cognitive offloading to AI during early learning can stifle development of stable knowledge and skills](ai-offloading-stifles-early-development.md) — related
 - [AIxSpeed phoneme-level adaptive playback yields higher listenability ratings than constant-speed playback at matched average speed](aixspeed-adaptive-playback-higher-listenability.md) — related
+- [Disabled readers show working memory deficits at every age on the blocked listening span task](disabled-readers-lower-listening-span-all-ages.md) — a narrower finding that bears on this claim

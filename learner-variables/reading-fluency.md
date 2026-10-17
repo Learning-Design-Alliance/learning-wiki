@@ -70,6 +70,13 @@ It is part of the wiki's broader [reading and language](reading-and-language.md)
 - [Two years of multicomponent fluency intervention produced greater word-reading and fluency growth than one year or control, with no comprehension differences](../claims/two-year-fluency-intervention-greater-word-reading-growth.md) [+M] — instruction changes it
 - [Word recognition fluency significantly predicted reading comprehension in grades 1-3, with rate becoming the stronger predictor by third grade](../claims/word-recognition-fluency-predicts-comprehension-grades-1-3.md) [+M] — learners who differ on it differ in outcomes
 - [Young developing readers rely more heavily on semantic and syntactic information for word-level analysis than adult readers, per Schwantes' study](../claims/young-readers-rely-on-semantic-syntactic-context-for-word-analysis.md) [+M] — learners who differ on it differ in outcomes
+- [Better mid-year oral reading fluency predicts lower separation anxiety symptoms at end of first grade](../claims/fluency-predicts-lower-separation-anxiety.md) [+M] — learners who differ on it differ in outcomes
+- [Children with ADHD show lower oral contextual and non-contextual reading fluency than controls despite intact word reading](../claims/adhd-reduced-oral-reading-fluency.md) [+M] — instruction changes it
+- [Children with only fluency difficulties read more correct words per minute than children with both decoding and fluency problems](../claims/fluency-only-difficulties-faster-than-combined.md) [+M] — instruction changes it
+- [Mid-year harm avoidance symptoms positively predict end-of-year oral reading fluency for boys and girls](../claims/harm-avoidance-predicts-better-fluency.md) [+M] — instruction changes it
+- [Non-graphomotor processing speed (residualized Coding) predicts oral reading fluency similarly in children with and without ADHD](../claims/coding-r-predicts-oral-reading-fluency.md) [+M] — instruction changes it
+- [Pseudoword decoding, orthographic knowledge, and phonological awareness show moderate relationships with adult reading comprehension (rs .34–.42)](../claims/moderate-metalinguistic-pseudoword-adult-comprehension.md) [+M] — learners who differ on it differ in outcomes
+- [Verbal working memory predicts oral reading fluency in children with and without ADHD](../claims/verbal-working-memory-predicts-reading-fluency.md) [+M] — instruction changes it
 
 ## Measures
 - **Test of Word Reading Efficiency (TOWRE)** (Torgesen et al., 1999): number of printed words read correctly in 45 seconds.

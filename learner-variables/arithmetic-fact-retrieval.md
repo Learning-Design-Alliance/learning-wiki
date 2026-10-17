@@ -36,6 +36,17 @@ Facts are usually in place by the end of primary school, but the Learner Variabi
 
 ## Claims
 <!-- Claims reporting findings about this variable, with evidence tags -->
+- [ANS acuity is not related to algebra achievement once covariates are controlled, whereas retrieval errors remain predictive](../claims/ans-not-related-to-algebra-achievement-after-covariates.md) [+M] — learners who differ on it differ in outcomes
+- [Both numerical magnitude processing tasks correlate positively with arithmetic fact retrieval, more strongly for symbolic](../claims/nmp-correlates-fact-retrieval-symbolic-stronger.md) [+M] — instruction changes it
+- [Children with poor arithmetic fact abilities are significantly slower than matched controls only on the multiplication selection task](../claims/pooraf-slower-only-multiplication-task.md) [+M] — learners who differ on it differ in outcomes
+- [Cognitive inhibition is not significantly associated with arithmetic fact retrieval in typically developing third graders](../claims/no-association-inhibition-arithmetic-fact-retrieval.md) [-M] — instruction changes it
+- [Frequency of addition fact-retrieval errors predicts poor algebra equation memory but not coordinate plane or expression evaluation performance](../claims/retrieval-errors-predict-equation-memory-only.md) [~M] — learners who differ on it differ in outcomes
+- [Inhibition does not uniquely predict arithmetic fact retrieval above numerical magnitude processing](../claims/inhibition-no-unique-contribution-fact-retrieval.md) [-M] — instruction changes it
+- [Inhibition's role in arithmetic fact retrieval may be limited to atypically developing children](../claims/inhibition-fact-retrieval-scope-atypical-children.md) [~M] — instruction changes it
+- [PoorAF and control children do not differ in perceptual processing speed](../claims/pooraf-no-perceptual-speed-deficit.md) [-M] — learners who differ on it differ in outcomes
+- [PoorAF children do not differ from controls on tasks retrieving semantic information (words, objects, countries) or verbal routines (proverbs)](../claims/pooraf-no-deficit-semantic-verbal-tasks.md) [-M] — learners who differ on it differ in outcomes
+- [PoorAF children show a significant problem-size effect in multiplication RTs, with a marginally significant stronger problem-size influence than controls](../claims/pooraf-problem-size-effect-multiplication.md) [~M] — learners who differ on it differ in outcomes
+- [Symbolic numerical magnitude processing is a powerful unique predictor of arithmetic fact retrieval](../claims/symbolic-nmp-strong-predictor-fact-retrieval.md) [+M] — instruction changes it
 
 ## Measures
 - **Open-ended formats** (Kling & Bay-William, 2014): Using a range of measures including student interviews, observations, writing prompts, and short, untimed quizzes around solving simple arithmetic problems can help capture students' accuracy, flexibility, and efficiency which are core components of Arithmetic Fact Retrieval.

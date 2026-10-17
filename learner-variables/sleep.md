@@ -37,6 +37,10 @@ Sleep is the period in which consciousness is suspended and the body and brain r
 <!-- Claims reporting findings about this variable, with evidence tags -->
 - [Natural lighting and green window views benefit mood, sleep, cognition, and test performance](../claims/daylight-green-views-benefit-students.md) [+M] — instruction changes it
 - [Physical well-being — exercise, sleep, and nutrition — impacts learning](../claims/physical-wellbeing-impacts-learning.md) [+M] — learners who differ on it differ in outcomes
+- [Path analysis shows sleep disturbance relates to cognitive flexibility indirectly via inhibitory control and working memory, with a non-significant direct path](../claims/path-analysis-indirect-sleep-flexibility-via-ic-wm.md) [~M] — learners who differ on it differ in outcomes
+- [School-based sleep education improves children's sleep duration and quality](../claims/sleep-education-improves-childrens-sleep.md) [+M] — instruction changes it
+- [Self-reported habitual sleep disturbance is significantly negatively correlated with all three executive function components in 7–9-year-old children](../claims/sleep-disturbance-correlated-all-three-ef-components.md) [+M] — learners who differ on it differ in outcomes
+- [Sleep's association with inhibitory control and working memory remains significant after controlling for the other EF components, but cognitive flexibility's does not](../claims/sleep-ic-wm-direct-flexibility-nonsignificant-partial.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Sleep Timing Questionnaire** (Monk et al., 2003): self-report of sleep-wake patterns on weekdays and weekends.

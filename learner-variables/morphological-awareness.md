@@ -48,6 +48,9 @@ It sits within the wiki's broader [reading and language](reading-and-language.md
 - [Morphological noticing focuses mainly on verb forms, especially modals, and on preposition choice](../claims/morphological-noticing-verb-forms-modals-prepositions.md) [+W] — instruction changes it
 - [VIP shows no statistically significant or substantively important impacts on PPVT-R and Morphology outcomes for English language learners](../claims/vip-null-ppvt-morphology-impacts.md) [-M] — instruction changes it
 - [Within the explicit morphology instruction group, the pre-to-post gain ratio was above Blake's 1.2 minimum for morphological awareness (1.28) and below it for reading comprehension (1.06)](../claims/emi-effect-size-larger-for-awareness-than-comprehension.md) [+W] — instruction changes it
+- [Morphological awareness is a significantly stronger correlate of adult reading comprehension than phonological awareness and RAN](../claims/morphological-awareness-stronger-than-phonological-ran.md) [+M] — learners who differ on it differ in outcomes
+- [Most predictor effect sizes showed high heterogeneity; only morphological awareness, working memory, and language comprehension fell in the moderate I² range](../claims/high-heterogeneity-adult-predictor-effect-sizes.md) [~M] — learners who differ on it differ in outcomes
+- [Six component reading skills show strong average relationships with reading comprehension in struggling adult readers (rs ≥ .50)](../claims/six-strong-component-skills-adult-reading-comprehension.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **The Suffix Choice Test** (Nagy et al., 2003): recognising, understanding and using morphemes by choosing the right suffixed form.

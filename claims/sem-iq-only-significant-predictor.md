@@ -62,4 +62,5 @@ SEM models for the t4/t5 wave of the LOGIC sample, including academic precursors
 
 
 ## Related Claims
--
+- [Non-verbal intelligence measures (Raven, WISC Block Design) are non-significant math predictors when well-specified spatial and memory measures are in the model](nonverbal-iq-nonsignificant-math-predictor.md) — reports the opposite
+- [Visuospatial memory did not predict word reading achievement in any grade, providing a discriminative contrast with mathematics](visuospatial-memory-not-predict-word-reading.md) — related

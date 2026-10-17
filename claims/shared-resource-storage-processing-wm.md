@@ -62,4 +62,4 @@ The review identifies a challenge from dual-task studies showing the cost of mem
 
 
 ## Related Claims
--
+- [Working memory capacity is a robust indicator of success or failure in language learning](wm-capacity-predicts-language-learning-success.md) — related

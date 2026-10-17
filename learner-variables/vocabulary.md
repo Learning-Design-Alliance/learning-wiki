@@ -91,6 +91,10 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [World of Words produced a statistically significant medium effect on expressive vocabulary (Expressive One-Word Picture Vocabulary Test, 4th Edition; effect size 0.43) in a scaled-up 12-site study](../claims/world-of-words-expressive-vocabulary-significant.md) [+M] — instruction changes it
 - [World of Words produced a statistically significant medium-to-large effect on a researcher-developed vocabulary inductive reasoning test (effect size 0.66)](../claims/world-of-words-inductive-reasoning-significant.md) [+M] — instruction changes it
 - [World of Words showed no statistically significant effects on the Woodcock-Johnson Picture Vocabulary Subtest or the PPVT-IV](../claims/world-of-words-null-standardized-vocabulary-measures.md) [-W] — instruction changes it
+- [Academic vocabulary is directly related to fifth-grade geometric skills over and above arithmetic skills](../claims/academic-vocabulary-directly-related-geometric-skills.md) [+M] — learners who differ on it differ in outcomes
+- [Children's expressive vocabulary is not uniquely related to either dimension of written composition after accounting for other variables](../claims/vocabulary-not-uniquely-related-to-written-composition.md) [-M] — learners who differ on it differ in outcomes
+- [No significant total or direct effect of semantic knowledge on word or pseudoword decoding in children with dyslexia](../claims/no-direct-semantic-effect-decoding-dyslexia.md) [-M] — learners who differ on it differ in outcomes
+- [Vocabulary was largely unrelated to growth in phonological awareness, with significance only for blending](../claims/vocabulary-not-related-to-phonological-awareness-growth.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

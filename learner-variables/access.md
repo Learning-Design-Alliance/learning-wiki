@@ -95,6 +95,17 @@ Whether a learner can perceive and operate the material at all: device, bandwidt
 - [GPT-generated hints are moderately accessible by automated readability metrics (mean CAREC 0.128, mean CML2RI 3.95)](../claims/gpt-hints-moderately-accessible-readability.md) [+M] — instruction changes it
 - [Instant access to information and 24/7 availability are the most recognised benefits of LLMs for learning](../claims/instant-access-24-7-top-llm-benefits.md) [+M] — instruction changes it
 - [Physical access to AI-provided material does not automatically produce epistemological access; facilitation converts one into the other](../claims/facilitation-converts-physical-to-epistemological-access.md) [~W] — instruction changes it
+- [Adolescents with cochlear implants spell significantly less accurately than hearing peers, with a bimodal distribution of spelling ability](../claims/ci-adolescents-spelling-poorer-than-hearing-peers.md) [+M] — learners who differ on it differ in outcomes
+- [Among children with cochlear implants, later implantation correlates with more positive math self-views and longer use correlates negatively with math and scholastic self-views](../claims/implant-timing-correlates-academic-self-perceptions.md) [~M] — learners who differ on it differ in outcomes
+- [Child-parent concordance is no greater for hearing families than for families with deaf children](../claims/no-greater-concordance-hearing-families.md) [-M] — learners who differ on it differ in outcomes
+- [Cochlear implant use is not associated with greater perceived academic or social success, and children with implants are rated lowest in reading](../claims/cochlear-implants-not-associated-greater-perceived-success.md) [~M] — learners who differ on it differ in outcomes
+- [Current adolescent characteristics including digit span, sentence duration and sign enhancement predict high school language outcomes](../claims/late-predictors-ci-high-school-language.md) [+M] — learners who differ on it differ in outcomes
+- [Disabled readers produce more current nonfinal and extraneous intrusions, implicating access and restraint failures](../claims/disabled-readers-more-cnf-and-extraneous-intrusions.md) [+M] — learners who differ on it differ in outcomes
+- [Hearing children are rated as more capable in reading and more socially successful than deaf children by both children and parents](../claims/hearing-children-rated-more-capable-reading-social.md) [+M] — learners who differ on it differ in outcomes
+- [Parents rate their children as more socially successful than the children rate themselves, regardless of hearing status](../claims/parents-overestimate-childrens-social-success.md) [-M] — an instructional effect differs with it
+- [Poorer useful field of view performance in older adults predicts motor vehicle collision risk and difficulties in everyday visual tasks, even after adjustment for sensory and cognitive impairment](../claims/ufov-predicts-everyday-task-problems.md) [+M] — learners who differ on it differ in outcomes
+- [Shorter duration of deafness, higher performance IQ, and lack of sign enhancement predict higher literacy in adolescents with cochlear implants](../claims/duration-of-deafness-piq-sign-enhancement-predict-literacy.md) [+W] — learners who differ on it differ in outcomes
+- [Sign enhancement predicts high school language in opposite directions at elementary versus adolescent measurement](../claims/sign-enhancement-direction-reversal.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

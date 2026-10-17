@@ -41,4 +41,4 @@ Parallel multiple mediation analysis (PROCESS macro, 5,000 bootstrap samples) wi
 
 
 ## Related Claims
--
+- [Sleep education at school improves academic performance in children](sleep-education-improves-academic-performance.md) — related

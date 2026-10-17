@@ -43,4 +43,5 @@ Experiment 1 correlational analysis treating the RT difference between trial typ
 
 
 ## Related Claims
--
+- [Flanker task produces congruency effects in reaction time and accuracy in twelve-year-old children](flanker-congruency-effects-twelve-year-olds.md) — related
+- [Interference suppression, but not response inhibition, relates to academic achievement and schooling skills](interference-suppression-not-response-inhibition-predicts-school-competence.md) — related

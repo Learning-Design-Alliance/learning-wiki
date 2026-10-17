@@ -43,4 +43,4 @@ Narrative review of DCCS studies of preschoolers, citing Zelazo and Doebel and Z
 
 
 ## Related Claims
--
+- [Foster children who received a control intervention showed a specific post-switch (set-shifting) deficit on the card-sort task, with no group difference on the pre-switch trials](foster-control-children-post-switch-set-shifting-deficit.md) — a narrower finding that bears on this claim

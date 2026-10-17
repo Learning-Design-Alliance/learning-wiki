@@ -137,3 +137,4 @@ Small randomized experimental studies (Mueller and Dweck 1998) cited under Recom
 - [Teachers treat resilience under challenge as a teachable skill that current routines and dashboards do little to support](resilience-teachable-skill-unsupported.md) — related
 - [Extrinsic goals are more strongly associated with cheating than intrinsic enjoyment of learning](extrinsic-goals-associated-with-cheating.md) — related
 - [The relationship between effort and meaning follows an inverted U-shape: moderate friction enhances meaning and motivation while excessive friction overwhelms](effort-meaning-inverted-u-shape.md) — related
+- [Process praise to toddlers predicts fourth grade math and reading comprehension achievement via children's incremental motivational frameworks](process-praise-toddlers-predicts-achievement-via-incremental-frameworks.md) — a narrower finding that bears on this claim

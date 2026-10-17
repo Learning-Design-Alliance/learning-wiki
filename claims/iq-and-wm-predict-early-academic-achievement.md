@@ -43,4 +43,7 @@ Hierarchical regression analyses of the LOGIC longitudinal sample (assessments a
 
 
 ## Related Claims
--
+- [Academic vocabulary is directly related to fifth-grade geometric skills over and above arithmetic skills](academic-vocabulary-directly-related-geometric-skills.md) — related
+- [Non-verbal intelligence measures (Raven, WISC Block Design) are non-significant math predictors when well-specified spatial and memory measures are in the model](nonverbal-iq-nonsignificant-math-predictor.md) — reports the opposite
+- [Preschool working memory–flexibility predicts later math achievement, especially in Grade 3](preschool-wm-flexibility-predicts-math-achievement.md) — related
+- [Verbal working memory predicts oral reading fluency in children with and without ADHD](verbal-working-memory-predicts-reading-fluency.md) — a narrower finding that bears on this claim

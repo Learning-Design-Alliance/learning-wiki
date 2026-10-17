@@ -43,4 +43,4 @@ Exploratory correlational analysis linking English receptive vocabulary (PPVT II
 
 
 ## Related Claims
--
+- [Fall self-regulation (HTKS) scores predict spring literacy gains in first grade](fall-htks-predicts-literacy-gains.md) — related

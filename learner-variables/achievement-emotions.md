@@ -76,6 +76,7 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Teacher self-efficacy has its largest effect on perceived enjoyment of GenAI tools](../claims/self-efficacy-drives-perceived-enjoyment-genai.md) [+M] — instruction changes it
 - [Text-based emotional expression in student responses showed no statistically significant differences between Emotion ON and OFF conditions](../claims/no-textual-emotion-difference-emotion-on.md) [-M] — instruction changes it
 - [Using an LLM debugging assistant boosts a student's confidence and reduces frustration during debugging](../claims/llm-assistant-boosts-debugging-confidence.md) [+M] — instruction changes it
+- [Math anxiety correlates strongly and negatively with mathematics achievement among third graders](../claims/math-anxiety-negative-correlation-third-graders.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

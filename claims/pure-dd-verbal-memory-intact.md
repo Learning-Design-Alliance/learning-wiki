@@ -43,4 +43,4 @@ In the 12 DD vs 12 control comparison, verbal STM (Digit Recall, Word Recall) an
 
 
 ## Related Claims
--
+- [Verbal STM/WM and several executive and sensorimotor measures show no robust relation with math in children with normal reading skill](no-relation-verbal-memory-executive-math.md) — related
