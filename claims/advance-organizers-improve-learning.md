@@ -153,3 +153,4 @@ Open questions: most of the evidence base predates modern multimedia learning re
 - [Well-organized texts following rhetorical schemata are better remembered than disorganized texts, and high-structure information is more likely to be recalled](organized-text-high-structure-recall-advantage.md) — related
 - [Structural signals show no consistent recall benefits but can aid deeper understanding measured by problem-solving tests](structural-signals-aid-problem-solving-not-recall.md) — related
 - [Lower health literacy and weaker cognitive abilities are associated with poorer performance on common healthcare tasks](lower-health-literacy-weaker-cognition-poorer-health-task-performance.md) — related
+- [Prior knowledge moderates scaffolding effectiveness: reflection phases were more effective for higher education levels, examples for lower levels](prior-knowledge-moderates-scaffolding-effectiveness.md) — related

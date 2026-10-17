@@ -71,3 +71,4 @@ ANOVA on 1-7 Likert difficulty self-ratings after the lesson. The elaborative-in
 - Open-ended responses rank the review section and practice questions as the most-liked lesson features — related
 - [Mental effort and study time increase with a topic's element interactivity level, making them indicators of element interactivity](mental-effort-study-time-indicate-element-interactivity.md) — related
 - [AIDA-supported participants spent on average twice as long in the course platform as controls, but the difference in usage time was not statistically significant](aida-usage-time-doubled-not-significant.md) — related
+- [Questioning-with-training produced higher posttest scores than read-reread study (Experiment 2)](questioning-with-training-beats-rereading.md) — related

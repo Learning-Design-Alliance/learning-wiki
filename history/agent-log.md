@@ -5,6 +5,27 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-10-17 — three patterns for competency-based online programmes; newpat-1
+
+- **New patterns** (for a competency-based online university using cases, simulations and labs with mentors,
+  wanting AI tutoring and role-play): `ai-tutoring`, `practice-with-simulated-people` (grain size unit) and
+  `mentor-support-in-self-paced-online-learning`, all canonical and in the conditional-model format, each passing
+  `check_design_page.py`. Each stays general; the client's setting is a set of situation rows, not a pattern
+  (maintainer, 2026-09-30). The two AI pages draw on pedagogical agents, teachable agents and CSCL scripts
+  (maintainer: "be sure to reference pedagogical agents, teachable agents and the cscl literature"). Claims were
+  linked by two models (`all-links.ndjson` in the session scratchpad); 4 and 7 proposed links were dropped as
+  off-topic.
+- **Gaps the pages state** (in the wiki): no causal study of mentor support inside a competency-based programme;
+  no study of when to hand a learner from AI help to a person; no whole-course or delayed outcome for an LLM tutor;
+  no comparison of an LLM role-play partner with a human standardized patient on an outside-rated performance; no
+  claim for the main effect of collaboration scripts, the protégé effect or Betty's Brain. Eight named syntheses
+  for the last are queued (`eval/runs/queues/newpat-2.ndjson`, each checked on Crossref).
+- **newpat-1** (syntheses for the three pages plus newly synced Zotero PDFs): 23 of 30 ingested. Kononowicz 2019
+  arrived twice, once under its preprint DOI (`10.2196/preprints.14676`); five duplicate claims were folded and
+  the preprint entry kept in a `<!-- merged -->` comment. The load-bearing judge failed an Abdelghani 2026 entry
+  by reading the abstract's per-student finding as contradicting the cohort slope; the full text states both
+  slopes verbatim, so it was dismissed as judge-wrong. Two research-practice claims removed.
+
 ## 2026-10-16 (later) — the Learner Variability Navigator, Breit et al. 2025, fix pass, hq-wave-1
 
 - **Learner Variability Navigator** (Digital Promise, CC BY-NC 4.0): 368 factors in 10 models. 39 factors had no

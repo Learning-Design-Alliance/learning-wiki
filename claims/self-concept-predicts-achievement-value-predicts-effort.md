@@ -52,3 +52,4 @@ Latent SEM analysis (Models C1–C4) of 1,868 German ninth-graders using the sec
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
 - [Different value components differentially predict outcomes: low cost for achievement, attainment value for effort, and utility value uniquely predicting none](value-components-differential-prediction-outcomes.md) — a narrower finding that bears on this claim
 - [Self-concept and global value interact synergistically and positively in predicting achievement, effort, and teacher-rated engagement](synergistic-self-concept-global-value-interaction.md) — related
+- [Task value predicted cognitive and regulatory strategy use but not classroom grades, whereas self-efficacy predicted grades in all three subjects](task-value-predicts-strategy-use-not-grades.md) — related

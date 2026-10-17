@@ -63,3 +63,4 @@ End-to-end audio delay measurement in the lab evaluation, defined as the round t
 
 ## Related Claims
 - [VR sickness in the system is minimal overall (SSQ total 12.88), with nausea lowest and oculomotor symptoms most significant](photon-fusion-minimal-vr-sickness-ssq.md) — related
+- [The 3B VR classroom system achieves an average end-to-end latency of approximately 73 ms, below the 150 ms threshold required for real-time interactions](3b-end-to-end-latency-below-realtime-threshold.md) — related

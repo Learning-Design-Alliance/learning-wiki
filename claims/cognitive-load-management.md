@@ -97,3 +97,4 @@ Open questions include how to measure load reliably in real classrooms (subjecti
 - [Signaling (cueing) increases learning and reduces cognitive load in multimedia](signaling-improves-learning.md) — related
 - [The relative effectiveness of instructional methods reverses as levels of learner knowledge in a domain change (the expertise reversal effect)](expertise-reversal-effect-definition.md) — related
 - [Real-life complex tasks carry high intrinsic cognitive load, requiring new load-management methods](real-life-tasks-high-intrinsic-load-need-management.md) — related
+- [Prior knowledge moderates scaffolding effectiveness: reflection phases were more effective for higher education levels, examples for lower levels](prior-knowledge-moderates-scaffolding-effectiveness.md) — related

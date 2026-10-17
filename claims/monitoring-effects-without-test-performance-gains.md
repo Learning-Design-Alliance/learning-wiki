@@ -47,3 +47,4 @@ In Experiment 1, conditions did not differ in mean performance on any of the tes
 - [A self-explanation instruction during rereading improves monitoring accuracy for all readers above mere rereading (Experiment 2)](self-explanation-improves-metacomprehension-accuracy.md) — related
 - [Rereading significantly improves metacomprehension monitoring accuracy relative to reading once (Experiment 1)](rereading-improves-metacomprehension-accuracy.md) — related
 - [Working memory capacity predicts monitoring accuracy after a single reading but not after rereading, independently of comprehension ability (Experiment 2)](wmc-by-rereading-interaction.md) — related
+- [Questioning-with-training produced higher posttest scores than read-reread study (Experiment 2)](questioning-with-training-beats-rereading.md) — related

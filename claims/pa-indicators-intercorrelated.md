@@ -45,3 +45,4 @@ Correlation analysis among active play, time with family and peers, and sedentar
 ## Related Claims
 - [Active play is associated with time with family and peers in all age groups (r = 0.485)](active-play-family-peers-association.md) — a narrower finding that bears on this claim
 - [TCT-DP creativity scores increase with age group, and adolescents are the most sedentary](tct-dp-increases-with-age.md) — related
+- [Light and moderate physical activity and sedentary behavior show no significant relationship with any creativity component or overall creativity](light-moderate-sedentary-no-creativity-relationship.md) — related

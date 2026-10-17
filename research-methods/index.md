@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**350 entries** · 0 stable · 350 in review · 0 drafts
+**351 entries** · 0 stable · 351 in review · 0 drafts
 
 ---
 
@@ -87,6 +87,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Discrimination-index Q-matrix validation for cognitive diagnostic models](discrimination-index-q-matrix-validation-for-cognitive-diagnostic-models.md) - The article supplies the theoretical basis for using its discrimination index as the foundation of a Q-matrix validation method.
 * [DMO-GRU hybrid student performance prediction method](dmo-gru-hybrid-student-performance-prediction-method.md) - The DMO-GRU framework combines the Dwarf Mongoose Optimization algorithm with a Gated Recurrent Unit neural network.
 * [Dual-assessment framework for evaluating LLM human simulations via joint self-report and observer-rated persona measurement](dual-assessment-framework-for-evaluating-llm-human-simulations-via-joint-self-report-and-o.md) - A methodology adapted from clinical psychology that jointly measures self-reported characteristics and observer-rated behavioral expressions of an LLM persona.
+* [Durkin's eight-category scheme for classifying teachers' comprehension-related behavior](durkins-eight-category-scheme-for-classifying-teachers-comprehension-related-behavior.md) - The article develops a coding scheme distinguishing comprehension instruction—\"Teacher does/says something to help children understand or work out the meaning of more than a single, isolated word\"—from seven related categories: application, assignment, help with assignment, review of instruction, pr
 * [Dynamical-systems analysis of intelligent tutoring system process data](dynamical-systems-analysis-of-intelligent-tutoring-system-process-data.md) - The article proposes dynamical systems theory and associated analysis techniques as tools for examining behavioral patterns and variations within ITSs.
 
 #### E {: #letter-e }

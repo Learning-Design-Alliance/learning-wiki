@@ -68,6 +68,7 @@ Simulation works because it allows deliberate practice with immediate feedback â
 - [Deliver structured CT centring training and integrate automated positioning technology with retained professional expertise](structured-ct-centring-training-and-automated-positioning-integration.md)
 - [Use fidelity-aware simulated patients as a low-risk complement to supervision for deliberate psychotherapy practice](fidelity-aware-simulated-patients-deliberate-practice.md)
 - [Use risk-free high-fidelity VR simulation to complement physical training for hazardous clinical procedures](risk-free-vr-pretraining-for-hazardous-procedures.md)
+- [Use virtual patients to replace passive instruction and train clinical reasoning before bedside learning, without diminishing bedside teaching hours](vp-replace-passive-before-bedside-strategy.md)
 
 ## Examples
 - **[Center for Medical Simulation, Harvard](https://harvardmedsim.org)** â€” pioneer of the "debriefing with good judgment" method now widely adopted in simulation faculties.

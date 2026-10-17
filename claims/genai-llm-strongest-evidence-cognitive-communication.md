@@ -48,3 +48,4 @@ Narrative subgroup synthesis of the four prespecified AI modalities (GenAI/LLM n
 - genAI-supported work can improve while the constructive processing underlying durable expertise erodes (the performance–metacognition dilemma) — related
 - [Unguarded answer-giving AI harmed unaided exam performance while a guarded version of the same model erased the harm (Bastani et al., 2025, as reported)](gpt4-access-harms-learning-after-withdrawal.md) — related
 - [High-frequency LLM users show higher minimum course outcomes and reduced score variability, though interaction level is not a dominant outcome predictor](high-usage-lower-variance-higher-minimum.md) — related
+- [Simulation effects vary by complex skill: highest for technical performance, lowest for communication skills](simulation-effects-vary-by-complex-skill.md) — related

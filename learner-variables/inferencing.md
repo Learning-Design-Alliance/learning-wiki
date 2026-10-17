@@ -12,7 +12,7 @@ generated:
 # Inferencing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 16 claims (13 show a difference, 2 mixed, 1 no difference) · 8 studies (4 causal, 3 review, 1 associational), `q1`–`q2` · 0 of 8 report an effect size · 15 claims rest on one study
+> **Evidence** · 21 claims (17 show a difference, 3 mixed, 1 no difference) · 9 studies (4 causal, 3 review, 2 associational), `q1`–`q3` · 1 of 9 report an effect size · 20 claims rest on one study
 
 ## Description
 Inferencing is the work a reader does to supply meaning a text does not state outright: linking one sentence to another, connecting the text to what the reader already knows or has experienced, and adding what is learned to existing knowledge. It supports reading comprehension, and the Learner Variability Navigator notes that it develops with age, moving from inferences drawn from within the text towards deeper inferences that draw on the reader's own knowledge. It is usually assessed through comprehension questions that ask for information the text implies rather than states; LVN lists no dedicated measure for it.
@@ -51,6 +51,11 @@ It matters most in middle and high school, where subject-specific texts assume b
 - [The comprehension-skill difference in inference making persists after controlling for memory for the text and delayed retention of the knowledge base](../claims/inference-difference-not-explained-by-memory.md) [+M] — instruction changes it
 - [The frequency of associations produced during think-aloud reading predicts sentence reading times during silent reading](../claims/associations-predict-reading-times.md) [+W] — learners who differ on it differ in outcomes
 - [When explicitly required by direct questions, less skilled comprehenders' inference performance improves greatly while skilled comprehenders perform at ceiling](../claims/direct-questions-boost-poor-comprehenders-inferences.md) [+M] — instruction changes it
+- [Inference-making performance improves with age between 6 and 10 years, with children performing better on global than local coherence inference questions](../claims/developmental-improvements-local-global-coherence-inferences.md) [+M] — instruction changes it
+- [Prompting underspecified responses improves children's performance on both local and global coherence inference questions at all ages](../claims/prompting-improves-inference-performance.md) [+M] — instruction changes it
+- [Vocabulary fully mediates the effect of working memory on both local and global coherence inference making in 6- to 10-year-olds](../claims/vocabulary-mediation-working-memory-inference.md) [+M] — instruction changes it
+- [Vocabulary is the only unique predictor of global coherence inference making at all three ages, 6 through 10 years](../claims/vocabulary-only-unique-predictor-global-coherence-all-ages.md) [+M] — instruction changes it
+- [Vocabulary uniquely predicts local coherence inference making for 6- and 8-year-olds, but neither vocabulary nor working memory predicts it for 10-year-olds](../claims/vocabulary-unique-predictor-local-coherence-younger-children.md) [~M] — instruction changes it
 
 ## Measures
 <!-- The Learner Variability Navigator lists no measures for this factor. -->

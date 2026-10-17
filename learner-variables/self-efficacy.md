@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 107 claims (86 show a difference, 13 mixed, 8 no difference) · 90 studies (37 associational, 14 causal, 14 qualitative, 12 review, 8 design, 4 theoretical, 1 quant-synthesis), `q1`–`q3` · 12 of 90 report an effect size · 104 claims rest on one study
+> **Evidence** · 109 claims (87 show a difference, 14 mixed, 8 no difference) · 92 studies (39 associational, 14 causal, 14 qualitative, 12 review, 8 design, 4 theoretical, 1 quant-synthesis), `q1`–`q3` · 12 of 92 report an effect size · 106 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -137,6 +137,8 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Older adults restudy easy and medium items more than younger adults, and lower memory self-efficacy correlates with avoiding difficult items](../claims/older-adults-restudy-easy-items-self-efficacy.md) [+M] — learners who differ on it differ in outcomes
 - [Community-based mathematical investigations gave students confidence to use mathematics for social change](../claims/community-based-math-social-change.md) [+M] — instruction changes it
 - [Math circle participants reported positive mathematics attitudes, with most respondents indicating mathematics was important, interesting, liked, and that they felt confident solving problems](../claims/math-circle-positive-attitude-survey.md) [+M] — instruction changes it
+- [Self-efficacy moderates the mediating role of SRL between school belonging and mastery, with the strongest mediation for low-efficacy students](../claims/moderated-mediation-belonging-srl-efficacy.md) [~M] — an instructional effect differs with it
+- [Task value predicted cognitive and regulatory strategy use but not classroom grades, whereas self-efficacy predicted grades in all three subjects](../claims/task-value-predicts-strategy-use-not-grades.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

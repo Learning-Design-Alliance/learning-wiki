@@ -73,6 +73,7 @@ The strongest evidence favors programs that go beyond supplying books or asking 
 - [Provide accessible caregiver resources and QR-code video lessons to strengthen the school-home literacy connection](family-support-hub-caregiver-literacy-resources.md)
 - [Parents support elementary writing skills at home through everyday writing activities like writing stories, reviewing movies, and describing things around them](parent-home-writing-activities-tip-sheet.md)
 - [Summer reading programs should provide books matched to students' reading levels, encourage oral reading practice, and include scaffolding](scaffolded-summer-reading-programs.md)
+- [Support peer-to-peer reading interventions, whole-school collaborations, and parent-teacher involvement to address peer problems in reading](peer-to-peer-reading-interventions-social-skills.md)
 
 ## Examples
 - **Dialogic reading interventions** (Whitehurst et al., 1988) — parents of preschoolers trained in interactive questioning produced significant gains in expressive language compared with controls.

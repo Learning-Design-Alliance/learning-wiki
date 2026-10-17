@@ -12,7 +12,7 @@ generated:
 # Physical Well-Being
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 54 claims (36 show a difference, 13 mixed, 5 no difference) · 29 studies (12 causal, 8 associational, 5 review, 2 quant-synthesis, 1 qualitative, 1 design), `q2`–`q4` · 6 of 29 report an effect size · 50 claims rest on one study
+> **Evidence** · 60 claims (40 show a difference, 14 mixed, 6 no difference) · 31 studies (12 causal, 9 associational, 6 review, 2 quant-synthesis, 1 qualitative, 1 design), `q2`–`q4` · 7 of 31 report an effect size · 56 claims rest on one study
 
 ## Description
 Physical well-being covers a learner's overall physical health: nutrition, regular physical activity and fitness, and good sleep. The LVN's case for it is that the benefits reach beyond the body: learners in good health benefit in cognitive skills, focus and mood, which can support academic performance, and in the early years it frames the same idea as physical fitness, with regular exercise strengthening cognitive skills. Exercise is described as particularly helpful for learners with ADHD. Physical activity tends to fall during adolescence, and for adults, education can itself improve health as health literacy grows and learners become better able to advocate for their needs. Body mass index is the one measure the LVN lists. It overlaps with [sleep](sleep.md), which is one of its components, and with [attention](attention.md) and [executive function](executive-function.md), which are among the outcomes exercise is linked to.
@@ -90,6 +90,12 @@ Physical well-being covers a learner's overall physical health: nutrition, regul
 - [Self-chosen exercise intensity produced the greatest mood benefits in a small study, suggesting enjoyable workouts may best improve mood](../claims/self-chosen-exercise-greatest-mood-benefit.md) [~W] — an instructional effect differs with it
 - [Social disadvantage moderates the relationship between cardiovascular fitness and spelling](../claims/sdc-moderates-cardiovascular-fitness-spelling-link.md) [~M] — learners who differ on it differ in outcomes
 - [VO2max is the main linear-regression predictor of attention and concentration, with strength also predictive in boys](../claims/vo2max-main-predictor-attention-concentration.md) [+M] — learners who differ on it differ in outcomes
+- [Aerobic fitness and diet affect hippocampal volume and predict episodic memory differences, with effects possibly magnified in childhood](../claims/aerobic-fitness-diet-hippocampus-episodic-memory.md) [+M] — learners who differ on it differ in outcomes
+- [In a multiple regression model, vigorous physical activity significantly accounts for 4.5% of variance in overall creativity](../claims/vigorous-activity-regression-creativity-variance.md) [+M] — learners who differ on it differ in outcomes
+- [Light and moderate physical activity and sedentary behavior show no significant relationship with any creativity component or overall creativity](../claims/light-moderate-sedentary-no-creativity-relationship.md) [-M] — learners who differ on it differ in outcomes
+- [Moderate-to-vigorous physical activity correlates positively with fluency, originality, flexibility and overall creativity, though less significantly than vigorous activity alone](../claims/mvpa-correlates-creativity-dimensions.md) [+M] — learners who differ on it differ in outcomes
+- [Vigorous physical activity is positively and significantly correlated with fluency, originality, flexibility and overall creativity in 10–11-year-old children](../claims/vigorous-activity-correlates-divergent-thinking.md) [+M] — learners who differ on it differ in outcomes
+- [Vigorous physical activity significantly predicts originality, fluency and flexibility in regression models, but not elaboration](../claims/vigorous-activity-predicts-o-flu-fle-not-ela.md) [~W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Body Mass Index (BMI)**: a measure of body fat calculated from height and weight.

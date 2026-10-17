@@ -12,7 +12,7 @@ generated:
 # Sleep
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 13 claims (9 show a difference, 3 mixed, 1 no difference) · 6 studies (3 associational, 2 review, 1 causal), `q2`–`q3` · 3 of 6 report an effect size · 13 claims rest on one study
+> **Evidence** · 14 claims (10 show a difference, 3 mixed, 1 no difference) · 7 studies (3 review, 3 associational, 1 causal), `q2`–`q3` · 3 of 7 report an effect size · 14 claims rest on one study
 
 ## Description
 Sleep is the period in which consciousness is suspended and the body and brain rest and recuperate. During sleep the brain consolidates memories, the body heals and recovers energy, and waste products of brain activity may be cleared. Its quantity, regularity and quality matter for nearly every aspect of cognition, as well as for physical and emotional well-being. When learners do not get enough good sleep, mood and cognitive skills suffer and focus is lost more easily. Sleep is measured with self-report and parent-report questionnaires on sleep habits, timing, quality and daytime sleepiness. The LVN treats it as relevant from pre-kindergarten to adulthood, and suggests extra cognitive supports, such as redirecting attention when a learner's mind wanders, for students who are short of sleep. It overlaps with [physical well-being](physical-wellbeing.md), of which adequate sleep is a part, and with [long-term memory](long-term-memory.md) through consolidation.
@@ -48,6 +48,7 @@ Sleep is the period in which consciousness is suspended and the body and brain r
 - [P3 amplitudes and sleep duration show no significant associations with sleep deficits or sustained attention in toddlers](../claims/null-p3-amplitude-sleep-duration-associations-toddlers.md) [-M] — learners who differ on it differ in outcomes
 - [Short sleep duration (<9 hours) at follow-up is associated with impaired academic achievement, while baseline sleep duration did not significantly predict later school performance](../claims/short-sleep-duration-academic-achievement-longitudinal.md) [~W] — learners who differ on it differ in outcomes
 - [The association between sleep duration and school performance is nonlinear (p = 0.04) in generalized additive models](../claims/nonlinear-sleep-duration-school-performance-association.md) [+M] — learners who differ on it differ in outcomes
+- [Sleep and consolidation support semantic memory development, suggesting delayed school start times may benefit memory](../claims/sleep-consolidation-semantic-memory-school-start-times.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Sleep Timing Questionnaire** (Monk et al., 2003): self-report of sleep-wake patterns on weekdays and weekends.

@@ -43,4 +43,4 @@ Cross-sectional regression in 106 children with overweight/obesity (accelerometr
 
 
 ## Related Claims
--
+- [Light and moderate physical activity and sedentary behavior show no significant relationship with any creativity component or overall creativity](light-moderate-sedentary-no-creativity-relationship.md) — related

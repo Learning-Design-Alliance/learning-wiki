@@ -106,3 +106,4 @@ Uchihara et al. (2019) support the direction of this claim for second-language l
 - [The incidental learning advantage occurs from as little as two exposures to multimodal stimuli in complete beginners](incidental-learning-from-two-exposures.md) — related
 - [No significant overall linear trend of exposure number on the incidental learning effect, though two exposures yield a significantly smaller effect than eight in block 1](no-linear-trend-two-versus-eight-exposures.md) — reports the opposite
 - [Per-exposure learning gains decrease as the number of exposures increases: a small but significant negative linear trend in the normalized incidental learning effect](per-exposure-gains-decrease.md) — related
+- [The probability of learning an unknown word from a single natural-context exposure is roughly .05 to .11, supporting an extrapolated 750 to 5,500 words learned per year from reading](one-exposure-context-learning-probability-extrapolation.md) — related

@@ -12,7 +12,7 @@ generated:
 # Age and Developmental Stage
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 129 claims (84 show a difference, 30 mixed, 15 no difference) · 104 studies (45 associational, 20 causal, 15 review, 9 quant-synthesis, 9 theoretical, 5 design, 1 qualitative), `q1`–`q4` · 12 of 104 report an effect size · 127 claims rest on one study
+> **Evidence** · 131 claims (85 show a difference, 31 mixed, 15 no difference) · 105 studies (46 associational, 20 causal, 15 review, 9 quant-synthesis, 9 theoretical, 5 design, 1 qualitative), `q1`–`q4` · 13 of 105 report an effect size · 129 claims rest on one study
 
 ## Description
 Age and developmental stage cover a learner's chronological age, grade level, and the cognitive, language and social development that comes with them. Research uses them as a predictor (growth curves, when skills emerge), as a moderator (an approach that works for older students but not younger ones, or for adults but not children) and to define a population (early childhood, adolescents, adult learners). Age is often a stand-in for what actually matters, such as prior knowledge, reading skill or self-regulation, so a finding that differs by age is a reason to ask which of those it reflects.
@@ -160,6 +160,8 @@ Age and developmental stage cover a learner's chronological age, grade level, an
 - [Younger children (3–5-year-olds) answered story comprehension questions less accurately than all older age groups](../claims/preschoolers-lower-story-comprehension-accuracy.md) [+M] — learners who differ on it differ in outcomes
 - [Younger students mostly use concrete strategies (e.g., inserting numbers) while older students use abstract rule-based strategies, with the transition around age 14–15](../claims/concrete-to-rule-based-strategy-transition-age-14-15.md) [+M] — learners who differ on it differ in outcomes
 - [Younger students solve letter equations less accurately than number equations, but this difference disappears by age 16–17](../claims/number-letter-accuracy-gap-disappears-by-16-17.md) [~S] — an instructional effect differs with it
+- [Inference-making performance improves with age between 6 and 10 years, with children performing better on global than local coherence inference questions](../claims/developmental-improvements-local-global-coherence-inferences.md) [+M] — learners who differ on it differ in outcomes
+- [Vocabulary uniquely predicts local coherence inference making for 6- and 8-year-olds, but neither vocabulary nor working memory predicts it for 10-year-olds](../claims/vocabulary-unique-predictor-local-coherence-younger-children.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?* [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M]

@@ -66,3 +66,4 @@ In the same duration moderator analysis, the 1–7 day group showed a small, non
 - [Intervention duration significantly moderates Gen-AI's effect on HOT, with the strongest effects at 8–16 weeks (ES = 0.759) and weaker effects for shorter (0.494) and longer (0.372) interventions](genai-intervention-duration-moderator.md) — related
 - [Interventions longer than one month showed the largest effect size for robot-assisted STEM learning, though duration was not a significant moderator overall](duration-over-one-month-largest-robotics-effect.md) — related
 - [Scaffold effects peak at 2–4 weeks of treatment and decrease dramatically for treatments lasting 9–24 weeks](treatment-duration-moderates-scaffold-effects.md) — related
+- [Longer simulation duration is associated with higher effects, but evidence for simulations over one month is inconclusive](longer-simulation-duration-higher-effects.md) — related

@@ -94,3 +94,4 @@ Undergraduates read educational texts (textbook chapters or a Scientific America
 - [Offering a monetary incentive in both test and study conditions strengthens the case that testing has a true learning advantage over motivated restudy](monetary-incentive-rules-out-motivation-confound.md) — related
 - [Rereading significantly improves metacomprehension monitoring accuracy relative to reading once (Experiment 1)](rereading-improves-metacomprehension-accuracy.md) — reports the opposite
 - [A self-explanation instruction during rereading improves monitoring accuracy for all readers above mere rereading (Experiment 2)](self-explanation-improves-metacomprehension-accuracy.md) — related
+- [Questioning-with-training produced higher posttest scores than read-reread study (Experiment 2)](questioning-with-training-beats-rereading.md) — a narrower finding that bears on this claim

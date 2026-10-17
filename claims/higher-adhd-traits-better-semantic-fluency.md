@@ -62,4 +62,4 @@ Poisson regression on counts of immediate repetitions with ADHD score and perfor
 
 
 ## Related Claims
--
+- [Unmedicated children with ADHD aged 8-13 score higher than matched controls on TTCT-Figurative Fluency](adhd-children-higher-ttct-fluency.md) — related

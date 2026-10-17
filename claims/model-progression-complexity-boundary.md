@@ -83,3 +83,4 @@ The review reports Rieber and Parmley's Newtonian motion study; learners given g
 ## Related Claims
 - [Multiple-hypothesis strategies improve performance only when simulation complexity is low](multiple-hypothesis-strategy-low-complexity.md) — related
 - [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md) — related
+- [Simulation-based learning has a large positive overall effect on complex skills in higher education (g = 0.85)](simulation-based-learning-large-positive-effect-complex-skills.md) — related

@@ -52,3 +52,4 @@ Classroom-embedded experiment by B. L. Smith et al. (2010) described in the mono
 - [Elaborative-interrogation students are less confident in their incorrect recognition selections than reading controls, who express great confidence in erroneous answers](elaborative-interrogation-reduces-confidence-in-errors.md) — related
 - [The quality of elaborative-interrogation answers had little effect on retention; even failed or inadequate why-answers facilitated learning relative to reading](response-quality-little-effect-on-elaborative-interrogation-retention.md) — related
 - [Elaborative interrogation benefits increase as learners' prior knowledge increases](elaborative-interrogation-prior-knowledge-moderator.md) — related
+- [Questioning-with-training produced higher posttest scores than read-reread study (Experiment 2)](questioning-with-training-beats-rereading.md) — related

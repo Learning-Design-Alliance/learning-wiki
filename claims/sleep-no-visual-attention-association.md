@@ -50,3 +50,4 @@ Null result from linear regressions in 160 adolescents adjusted for ADHD, videog
 - [Older adolescents show high night-to-night variability in free-living sleep duration, which may obscure sleep-cognition associations](night-to-night-sleep-variability-adolescents.md) — related
 - [Experimental sleep restriction causally extends adolescent sleep-loss effects beyond sleepiness to attention and learning](sleep-restriction-effects-extend-beyond-sleepiness.md) — related
 - [Five nights of sleep restriction cause lower quiz performance in a simulated classroom among adolescents](sleep-restriction-lowers-simulated-classroom-quiz-scores.md) — related
+- [Sleep and consolidation support semantic memory development, suggesting delayed school start times may benefit memory](sleep-consolidation-semantic-memory-school-start-times.md) — related

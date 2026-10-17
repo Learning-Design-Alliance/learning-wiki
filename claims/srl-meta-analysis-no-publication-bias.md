@@ -54,3 +54,4 @@ Publication-bias assessment of the 15 included studies using a funnel plot and E
 - Funnel-plot and fail-safe N analyses indicate small publication bias, and one-study-removal analysis indicates stable pooled effects — related
 - Funnel-plot asymmetry was significant in both meta-analyses, indicating possible publication or selection bias — related
 - [SRL interventions are effective in improving both SRL activity and achievement in higher education](srl-interventions-improve-activity-achievement.md) — related
+- Funnel plot and trim-and-fill analyses do not indicate publication bias in the meta-analytic effects of CSCL scripts — related

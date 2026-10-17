@@ -164,3 +164,4 @@ A year-long study of 35 fourth-graders across two classrooms implementing Qualit
 - [Prompt specificity changes AI tutor pedagogy: a no-direct-answer guardrail alone produces uniform questioning, while a detailed guided protocol produces varied, impasse-sensitive responses](prompt-specificity-shapes-tutor-pedagogy.md) — related
 - [Direct CT instruction combined with modeling, coaching, and discussion yields more consistent CT improvement than implicit teaching strategies](direct-ct-instruction-outperforms-implicit-strategies.md) — related
 - [High prior knowledge students learned most conceptual understanding from questions plus arguments; answering questions alone was least effective](high-prior-knowledge-arguments-best-conceptual-understanding.md) — related
+- [The talking head contributes little to AutoTutor's learning gains; the content of the conversation matters](autotutor-content-matters-not-talking-head.md) — related

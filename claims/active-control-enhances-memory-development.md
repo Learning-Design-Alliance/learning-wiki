@@ -46,3 +46,4 @@ The article describes Study 1 from Ruggeri, Markant, et al. (2019), in which par
 - [Pretesting enhances learning](pretesting-enhances-learning.md) — related
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — related
 - [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — related
+- [Active control of learning enhances event memory and concept acquisition, with benefits present early in childhood](active-control-of-learning-enhances-memory.md) — related

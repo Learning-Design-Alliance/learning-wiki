@@ -47,3 +47,4 @@ Descriptive analysis of total inferences made across initial questions, prompts,
 
 ## Related Claims
 - [Less skilled comprehenders make fewer knowledge-based coherence and elaborative inferences than skilled comprehenders even when the relevant knowledge is equally available](poor-comprehenders-fewer-inferences-equal-knowledge.md) — related
+- [Prompting underspecified responses improves children's performance on both local and global coherence inference questions at all ages](prompting-improves-inference-performance.md) — related

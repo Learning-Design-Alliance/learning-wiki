@@ -46,3 +46,5 @@ Narrative review attribution: the review reports, citing Graesser et al. [88], t
 - [Intelligent tutoring systems are reported to improve learning outcomes, especially in structured knowledge domains](its-improve-outcomes-structured-domains.md) — a broader claim this one bears on
 - [Meta-analytic evidence indicates intelligent tutoring systems yield positive learning outcomes compared with non-ITS conditions](its-meta-analytic-positive-outcomes.md) — a broader claim this one bears on
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — related
+- [AutoTutor yields average learning gains of 0.3 to 0.8 sigma compared to reading text for an equivalent amount of time](autotutor-learning-gains-0-3-to-0-8-sigma-vs-reading.md) — related
+- [AutoTutor cannot handle most student questions, so student question frequency extinguishes quickly in tutoring sessions](autotutor-student-questions-extinguish.md) — related

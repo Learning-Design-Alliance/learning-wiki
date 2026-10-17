@@ -12,7 +12,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 185 claims (124 show a difference, 34 mixed, 27 no difference) · 135 studies (92 associational, 23 causal, 5 qualitative, 4 review, 4 design, 4 theoretical, 3 quant-synthesis), `q1`–`q4` · 21 of 135 report an effect size · 177 claims rest on one study
+> **Evidence** · 189 claims (125 show a difference, 36 mixed, 28 no difference) · 137 studies (93 associational, 24 causal, 5 qualitative, 4 review, 4 design, 4 theoretical, 3 quant-synthesis), `q1`–`q4` · 22 of 137 report an effect size · 181 claims rest on one study
 
 ## How to read this page
 
@@ -222,6 +222,10 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Low warmth trajectories predict lower achievement gains for boys but not for girls](../claims/warmth-trajectories-boys-not-girls.md) [+M] — an instructional effect differs by group
 - [The mediated EC-achievement model is not moderated by children's sex, age, or SES](../claims/no-moderation-sex-age-ses.md) [-M] — an instructional effect differs by group
 - [Trajectory patterns of teacher-student warmth and conflict differ between boys and girls, with a high-stable conflict class found only for boys](../claims/gender-differences-relationship-trajectories.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [In the early intervention sample, boys increased more in aggression than girls, but intervention effects did not differ by gender](../claims/gender-aggression-increase-no-treatment-difference.md) [-W] — an instructional effect differs by group
+- [Regulatory strategy use and classroom grades showed no subject-area differences, though females received higher grades than males](../claims/regulatory-strategy-use-and-grades-stable-across-subjects.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Task value was higher for mathematics than for English and social studies for both genders, with gender differences only in the English–social studies comparison](../claims/task-value-higher-mathematics-both-genders.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Test anxiety was highest in social studies and lowest in English, with the pattern differing by gender](../claims/test-anxiety-varies-by-subject-and-gender.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

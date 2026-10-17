@@ -46,3 +46,4 @@ Tukey-corrected post hoc contrasts following one-way ANOVAs on DANVA variables a
 - [Adults with ADHD-Inattentive type make significantly more fearful affect recognition errors than non-ADHD controls on the DANVA](adhd-inattentive-adults-more-fearful-affect-errors.md) — related
 - [Affect recognition deficits were not found unanimously across ADHD groups, suggesting a nuanced subtype-specific pattern](affect-deficits-not-unanimous-across-adhd-groups.md) — a broader claim this one bears on
 - [Inattentive symptoms are significantly positively correlated with fearful and vocal channel affect recognition errors](inattentive-symptoms-fearful-vocal-error-correlations.md) — reports the opposite
+- [ADHD children do not differ from controls on Elaboration, Abstractness of Titles or Resistance to Premature Closure](adhd-no-difference-elaboration-abstractness-closure.md) — related

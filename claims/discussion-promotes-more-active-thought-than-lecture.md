@@ -132,3 +132,4 @@ The core interpretive point is that "is lecture effective?" is the wrong questio
 - [Actively engaging learning environments show higher learning gains than one-way lecture environments, according to a National Academies consensus study cited in one article](active-learning-improves-exam-performance.md) — related
 - [Predominantly lecture-based courses are associated with less engagement, while class discussion and group work time are associated with more](lecture-decreases-discussion-groupwork-increase-engagement.md) — related
 - [After-school setting offered richer activity diversity, dialogue, and peer interaction than regular classrooms](after-school-richer-interaction-than-classroom.md) — related
+- [Virtual patients show larger advantages over passive traditional learning (lectures, reading) than over active learning](vp-passive-versus-active-comparison.md) — related

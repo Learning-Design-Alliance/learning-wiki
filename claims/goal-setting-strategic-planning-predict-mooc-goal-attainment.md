@@ -43,4 +43,4 @@ Logistic regression on survey and platform data from 4,831 learners across six M
 
 
 ## Related Claims
--
+- [Planning prompts increase payment for certificates in MOOCs by 40%](planning-prompts-increase-certificate-payment.md) — related

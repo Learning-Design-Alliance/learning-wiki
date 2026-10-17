@@ -12,7 +12,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 145 claims (89 show a difference, 22 mixed, 32 no difference, 2 unmarked) · 109 studies (30 causal, 26 associational, 21 review, 19 quant-synthesis, 7 theoretical, 4 design, 2 qualitative), `q1`–`q4` · 25 of 109 report an effect size · 136 claims rest on one study
+> **Evidence** · 148 claims (91 show a difference, 22 mixed, 33 no difference, 2 unmarked) · 112 studies (33 causal, 26 associational, 21 review, 19 quant-synthesis, 7 theoretical, 4 design, 2 qualitative), `q1`–`q4` · 25 of 112 report an effect size · 139 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -195,6 +195,9 @@ What a learner can read without effort, and whether the language of instruction 
 - [Simultaneous and sequential DLL learners show opposite vocabulary patterns in English versus the home language](../claims/simultaneous-sequential-vocabulary-differences.md) [~M] — learners who differ on it differ in outcomes
 - [Third-grade reading comprehension is predicted by third-grade word reading and listening comprehension, with no direct attention effect](../claims/grade3-comprehension-predicted-by-word-reading-and-listening.md) [+M] — learners who differ on it differ in outcomes
 - [Vocabulary adds significantly to predicting knower-level after age, but age does not add after vocabulary, suggesting age does not mediate the vocabulary–number-knowledge link.](../claims/vocabulary-predicts-knower-level-beyond-age-hierarchical-regression.md) [+M] — learners who differ on it differ in outcomes
+- [Second language instruction increases the rate of acquisition of English relativization by ESL learners](../claims/sl-instruction-effective-relativization-rate.md) [+M] — instruction changes it
+- [Self-questioning during study benefits low verbal ability high school students more than high verbal ability students (Experiment 1)](../claims/self-questioning-benefits-low-verbal-ability-more.md) [+M] — an instructional effect differs with it
+- [The context-learning effect did not significantly interact with reading comprehension ability, though the trend favored more able readers](../claims/context-learning-comprehension-interaction-marginal.md) [-M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

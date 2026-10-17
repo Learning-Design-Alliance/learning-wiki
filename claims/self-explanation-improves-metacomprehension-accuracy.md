@@ -68,3 +68,5 @@ In Experiment 2's stepwise regression, the rereading-vs-once dummy variable was 
 - [Rereading Is A Low Utility Study Strategy](rereading-is-a-low-utility-study-strategy.md) — related
 - [Working memory capacity predicts monitoring accuracy after a single reading but not after rereading, independently of comprehension ability (Experiment 2)](wmc-by-rereading-interaction.md) — related
 - [Readers with an entertainment goal make more evaluative comments than readers with a study goal, with no difference in affective responses](entertainment-goal-more-evaluations.md) — related
+- [The context-learning effect did not significantly interact with reading comprehension ability, though the trend favored more able readers](context-learning-comprehension-interaction-marginal.md) — related
+- [Self-questioning during study benefits low verbal ability high school students more than high verbal ability students (Experiment 1)](self-questioning-benefits-low-verbal-ability-more.md) — related

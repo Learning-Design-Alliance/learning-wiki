@@ -12,7 +12,7 @@ generated:
 # Long-Term Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 68 claims (47 show a difference, 14 mixed, 7 no difference) · 47 studies (17 causal, 11 quant-synthesis, 11 review, 4 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 19 of 47 report an effect size · 61 claims rest on one study
+> **Evidence** · 69 claims (48 show a difference, 14 mixed, 7 no difference) · 48 studies (17 causal, 12 review, 11 quant-synthesis, 4 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 19 of 48 report an effect size · 62 claims rest on one study
 
 ## Description
 Long-term memory holds information, such as words, facts, events, concepts and procedures, so that it can be retrieved and used later, over spans from hours to decades, and in principle indefinitely. Skills and knowledge get there through repeated practice and use, and stay accessible while they continue to be used. It matters for learning because what is stored there is the base for everything that follows: the [prior knowledge](prior-knowledge.md) and vocabulary that support reading and writing, and the arithmetic facts and procedures that free a learner to work on new mathematics problems. It develops through childhood and adolescence as the brain systems supporting it mature, and older learners lean more on memory-based strategies, for example in mathematics. It is measured with standardised memory batteries that ask learners to recall stories, lists or figures after a delay. It is distinct from [working memory](working-memory.md), which holds information briefly while it is being used; rehearsal and use move material from one to the other.
@@ -102,6 +102,7 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [Sequential presentation of memory items produces less time-based forgetting than simultaneous presentation (Experiment 1)](../claims/sequential-presentation-less-forgetting-than-simultaneous.md) [+M] — instruction changes it
 - [Short-duration anaerobic sprint exercise speeds vocabulary-type associative learning by 20% with increased serum BDNF that correlates with learning success](../claims/anaerobic-sprint-bdnf-associative-learning.md) [+M] — instruction changes it
 - [Time-based forgetting occurs across presentation methods, with rate determined by consolidation time](../claims/time-based-forgetting-occurs-regardless-of-presentation-method.md) [+M] — instruction changes it
+- [Sleep and consolidation support semantic memory development, suggesting delayed school start times may benefit memory](../claims/sleep-consolidation-semantic-memory-school-start-times.md) [+M] — instruction changes it
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

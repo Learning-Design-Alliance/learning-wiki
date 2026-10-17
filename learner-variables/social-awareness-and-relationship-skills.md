@@ -12,7 +12,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 68 claims (47 show a difference, 13 mixed, 8 no difference) · 52 studies (13 review, 10 quant-synthesis, 10 associational, 9 causal, 5 design, 4 qualitative, 1 theoretical), `q1`–`q4` · 17 of 52 report an effect size · 64 claims rest on one study
+> **Evidence** · 69 claims (48 show a difference, 13 mixed, 8 no difference) · 53 studies (13 review, 11 associational, 10 quant-synthesis, 9 causal, 5 design, 4 qualitative, 1 theoretical), `q1`–`q4` · 18 of 53 report an effect size · 65 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -108,6 +108,7 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Preschoolers' social skills are related to preliteracy, language, and mathematics development controlling for attention and aggression problems](../claims/social-skills-independently-predict-emergent-academics.md) [+M] — learners who differ on it differ in outcomes
 - [Social competence is positively and externalizing problems negatively prospectively related to academic achievement](../claims/social-competence-positive-externalizing-negative-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [Social functioning fully mediates the relation between early effortful control and later academic achievement](../claims/social-functioning-fully-mediate-ec-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Peer problems show a significant inverse correlation with reading comprehension (r = -.304)](../claims/peer-problems-inverse-correlation-reading-comprehension.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

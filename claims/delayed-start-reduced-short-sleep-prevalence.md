@@ -69,3 +69,4 @@ Authors' interpretation of the intervention trial outcome in the discussion: des
 - [Delaying school start time by 30 or 60 minutes increased children's sleep duration and reduced daytime sleepiness over two years](delayed-school-start-time-increases-sleep-duration.md) — a broader claim this one bears on
 - [Only 22.34% of Chinese school-aged children get sufficient sleep (≥10 hours), while 37.96% have short sleep duration (<9 hours)](insufficient-sleep-prevalence-chinese-children.md) — related
 - [Frequent daytime sleepiness is associated with impaired academic achievement, attention, and learning motivation in school-aged children](frequent-daytime-sleepiness-impaired-school-performance.md) — related
+- [Sleep and consolidation support semantic memory development, suggesting delayed school start times may benefit memory](sleep-consolidation-semantic-memory-school-start-times.md) — related

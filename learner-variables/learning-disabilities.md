@@ -12,7 +12,7 @@ generated:
 # Learning Disabilities and Developmental Differences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 92 claims (67 show a difference, 15 mixed, 10 no difference) · 52 studies (31 associational, 8 review, 6 causal, 3 quant-synthesis, 3 theoretical, 1 qualitative), `q1`–`q3` · 7 of 52 report an effect size · 90 claims rest on one study
+> **Evidence** · 96 claims (71 show a difference, 15 mixed, 10 no difference) · 53 studies (31 associational, 9 review, 6 causal, 3 quant-synthesis, 3 theoretical, 1 qualitative), `q1`–`q3` · 7 of 53 report an effect size · 94 claims rest on one study
 
 ## Description
 Identified differences in how a learner learns: specific learning disabilities such as dyslexia and dyscalculia, autism, intellectual disability, and the special educational needs (an IEP in the United States, an EHC plan in England) that formally record them. In the research it appears as a population a design targets, as a moderator (an approach that works differently for these learners), and as a predictor of outcomes. It is distinct from [access](access.md), which is about perceiving and operating the material (sensory and motor impairments, devices); a learner can need both. Attention-related differences such as ADHD sit on [attention](attention.md).
@@ -125,6 +125,10 @@ Identified differences in how a learner learns: specific learning disabilities s
 - [Reading deficits are uniquely associated with phoneme awareness and naming speed, whereas math deficits are uniquely associated with set shifting](../claims/disorder-specific-phoneme-naming-set-shifting.md) [+M] — learners who differ on it differ in outcomes
 - [The processing speed deficit in adults with ASD appears on each of the three standardized subtests: Trail Making A, Symbol Coding, and Category Fluency](../claims/asd-processing-speed-deficit-all-three-subtests.md) [+M] — learners who differ on it differ in outcomes
 - [Working memory, processing speed, and verbal comprehension weaknesses are shared across reading and math deficits](../claims/shared-wm-speed-verbal-comprehension-rd-md.md) [+M] — learners who differ on it differ in outcomes
+- [Autistic individuals show reduced multisensory integration, most consistently for speech-related stimuli](../claims/autism-reduced-mcgurk-fusion-meta-analysis.md) [+M] — learners who differ on it differ in outcomes
+- [Children with specific language impairment show reduced selective attention to and integration of audiovisual speech](../claims/sli-reduced-audiovisual-speech-attention-integration.md) [+M] — learners who differ on it differ in outcomes
+- [Individuals with dyslexia show impairments in audiovisual integration beyond phoneme-grapheme mapping](../claims/dyslexia-audiovisual-integration-impairments.md) [+M] — learners who differ on it differ in outcomes
+- [Multisensory temporal precision in autism is linked to speech integration, language abilities, and clinical symptomatology](../claims/autism-temporal-precision-links-language-symptoms.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with disabilities reach lower achievement, graduation and postsecondary outcomes than their peers, by how much, and does it differ by disability type?* [Students with disabilities attained postsecondary readiness and success outcomes at about one half to one third the rate of students without disabilities, the largest difference between any student group and its counterpart](../claims/disability-largest-postsecondary-outcome-gap.md) [+M]

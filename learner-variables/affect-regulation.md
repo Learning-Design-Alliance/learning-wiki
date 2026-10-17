@@ -12,7 +12,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 129 claims (92 show a difference, 25 mixed, 12 no difference) · 87 studies (32 associational, 18 causal, 14 review, 7 quant-synthesis, 7 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 25 of 87 report an effect size · 123 claims rest on one study
+> **Evidence** · 130 claims (93 show a difference, 25 mixed, 12 no difference) · 88 studies (33 associational, 18 causal, 14 review, 7 quant-synthesis, 7 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 25 of 88 report an effect size · 124 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -168,6 +168,7 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Observed anxiety expressions during challenging tasks predict lower teacher-rated work-related and self-regulation skills](../claims/observed-anxiety-predicts-lower-work-self-regulation.md) [+M] — learners who differ on it differ in outcomes
 - [The association between math anxiety and math performance is significant in Grade 3 after accounting for general anxiety](../claims/math-anxiety-performance-link-significant-grade-3.md) [+M] — learners who differ on it differ in outcomes
 - [The prevalent direction of the Grade 3 anxiety-performance link runs from math anxiety to performance, not the reverse](../claims/math-anxiety-to-performance-directionality.md) [+M] — learners who differ on it differ in outcomes
+- [Self-efficacy positively and test anxiety negatively predicted classroom grades, while test anxiety positively predicted cognitive strategy use but negatively predicted regulatory strategy use](../claims/self-efficacy-and-test-anxiety-predict-performance.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

@@ -70,3 +70,4 @@ R3STEP results (Table 5) show a scope limit: digital literacy failed to separate
 - [Profiles also differ in self-perceived employability, and elevated AI-related threat is not necessarily incompatible with career preparation](profiles-differ-in-perceived-employability-threat-not-incompatible.md) — related
 - [AI-attitude profiles differ significantly in career crafting, with High-Perception High-Vigilance and Positive Empowerment highest and Low-Perception Detached lowest](profiles-differ-in-career-crafting.md) — related
 - [Demographic predictors of engagement profile membership differed across language groups, with employment the only significant predictor for English-speaking parents](demographic-predictors-differ-by-language-group.md) — related
+- [Episodic prospection develops over an extended period and may support academic behaviors aimed at envisioned future selves](episodic-prospection-development-academic-behavior.md) — related

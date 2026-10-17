@@ -49,3 +49,4 @@ Null result from the same linear regression models in 160 adolescents; the autho
 - [Free-living sleep measures show no association with visual attention task performance in older adolescents](sleep-no-visual-attention-association.md) — related
 - [Five nights of sleep restriction cause lower quiz performance in a simulated classroom among adolescents](sleep-restriction-lowers-simulated-classroom-quiz-scores.md) — related
 - [Shorter time in bed the night before testing is associated with slower 3-back response times in older adolescents](acute-rest-time-slower-3back-response.md) — reports the opposite
+- [Sleep and consolidation support semantic memory development, suggesting delayed school start times may benefit memory](sleep-consolidation-semantic-memory-school-start-times.md) — related

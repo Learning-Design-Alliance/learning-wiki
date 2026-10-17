@@ -59,3 +59,4 @@ Paired comparison of the 8 groups' observation assignments after Workshop 1 (VS)
 - [Virtual simulation stimulated higher self-reported purposefulness (active reflection) than authentic video](vs-higher-purposefulness-reflection.md) — related
 - Workshop students achieved modestly higher final task-performance scores — related
 - [Video is more effective for teaching skills than for transmitting knowledge](video-more-effective-for-skills-than-knowledge.md) — related
+- [Simulation-based learning has a large positive overall effect on complex skills in higher education (g = 0.85)](simulation-based-learning-large-positive-effect-complex-skills.md) — related

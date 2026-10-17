@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 63 claims (44 show a difference, 14 mixed, 5 no difference) · 49 studies (16 causal, 9 associational, 7 qualitative, 7 theoretical, 5 review, 3 quant-synthesis, 2 design), `q1`–`q4` · 13 of 49 report an effect size · 62 claims rest on one study
+> **Evidence** · 64 claims (44 show a difference, 14 mixed, 6 no difference) · 50 studies (17 causal, 9 associational, 7 qualitative, 7 theoretical, 5 review, 3 quant-synthesis, 2 design), `q1`–`q4` · 13 of 50 report an effect size · 63 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).
@@ -104,6 +104,7 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [Communicating feelings of difficulty is significantly associated with six-year-olds' deployment of metacognition and self-regulation, with the exception of planning](../claims/fod-communication-associated-with-metacognition-except-planning.md) [~M] — learners who differ on it differ in outcomes
 - [Numerical metacognition, but not emotion metacognition, predicts children's standardized mathematics achievement](../claims/numerical-metacognition-predicts-math-achievement.md) [~M] — learners who differ on it differ in outcomes
 - [Success in PBL requires students to set goals, monitor, reflect, and sustain motivation across the whole project, yet many students do not do these processes naturally](../claims/pbl-success-requires-srl-processes-not-natural.md) [+W] — learners who differ on it differ in outcomes
+- [The context-learning effect did not significantly interact with reading comprehension ability, though the trend favored more able readers](../claims/context-learning-comprehension-interaction-marginal.md) [-M] — an instructional effect differs with it
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

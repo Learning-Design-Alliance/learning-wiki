@@ -54,3 +54,4 @@ Descriptive statistics from the unannounced 20-item vocabulary test administered
 - [Mastery of incidental vocabulary learning strategies positively predicts L2 incidental vocabulary acquisition through reading](strategy-mastery-predicts-incidental-vocabulary-acquisition.md) — related
 - [Reading a single authentic novel yields incidental vocabulary gains, with more gains for words occurring more than five times](single-novel-reading-incidental-vocabulary-gains.md) — related
 - [Meaning-focused exposure to spoken L2 input yields large vocabulary gains (g = 1.05) in incidental word learning](spoken-input-incidental-l2-word-learning-large-gains.md) — related
+- [Eighth-grade students acquire measurable partial knowledge of unfamiliar word meanings incidentally while reading natural text, with a small but statistically reliable context-learning effect](incidental-word-learning-from-natural-context.md) — related

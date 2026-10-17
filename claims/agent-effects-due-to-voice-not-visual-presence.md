@@ -62,3 +62,4 @@ The review reports that Moreno and colleagues found transfer, not recall, enhanc
 
 ## Related Claims
 - [Agent appearance (iconic vs realistic) shows no significant difference in retention, transfer, or interest](apa-appearance-null-effect.md) — related
+- [The talking head contributes little to AutoTutor's learning gains; the content of the conversation matters](autotutor-content-matters-not-talking-head.md) — possibly the same claim (merge candidate)

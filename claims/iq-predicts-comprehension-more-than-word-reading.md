@@ -47,3 +47,4 @@ Alternative SEM adding Full-scale IQ (WISC-R or WISC-III) as a predictor, with d
 - [Working memory and processing speed, but not inhibition or non-alphanumeric naming speed, uniquely predict both word reading and reading comprehension in children ages 8 to 16](wm-and-processing-speed-unique-predictors-reading.md) — related
 - [In latent-variable SEM models, intelligence — not working memory — is the significant direct predictor of academic outcomes in both childhood and early adulthood](sem-iq-only-significant-predictor.md) — reports the opposite
 - [IQ and working memory are reliable predictors of academic achievement at the beginning of school when domain knowledge is not controlled](iq-and-wm-predict-early-academic-achievement.md) — related
+- [Complexity of children's naturalistic memory reports predicts reading ability over and above IQ](memory-report-complexity-predicts-reading-ability.md) — related

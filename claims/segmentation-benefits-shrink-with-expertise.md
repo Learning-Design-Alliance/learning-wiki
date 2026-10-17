@@ -122,3 +122,4 @@ The review reports Spanjers et al.'s (2010) experiment on probability calculatio
 - [Cognitive load when studying depended on instructional method (highest in the worked-out examples condition), but no prior knowledge or test-phase effects emerged](cognitive-load-method-effect-studying.md) — related
 - [Instructional method and prior knowledge interact on conceptual understanding of statistics (expertise reversal effect)](expertise-reversal-conceptual-understanding-statistics.md) — a broader claim this one bears on
 - [Model progression benefits learning only in sufficiently complex simulations; in a simple domain it was less efficient than full complexity from the start](model-progression-complexity-boundary.md) — related
+- [Prior knowledge moderates scaffolding effectiveness: reflection phases were more effective for higher education levels, examples for lower levels](prior-knowledge-moderates-scaffolding-effectiveness.md) — related

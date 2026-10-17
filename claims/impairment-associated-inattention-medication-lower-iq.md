@@ -48,3 +48,4 @@ Secondary analysis linking neuropsychological impairment status (WM, STM, and/or
 - [Both ADHD subtypes show equally pronounced motivational deficits that impair visuospatial STM and WM performance](adhd-subtypes-equal-motivational-deficits.md) — related
 - [In the ADHD-I restrictive subtype, visuospatial WM impairments are more prevalent than in controls but STM impairments are not](adhd-i-wm-impaired-stm-not-more-common.md) — related
 - [Children with ADHD-C show impaired visuospatial STM and CE relative to typically developing controls, whereas children with ADHD-I show impaired CE but intact STM](adhd-subtype-stm-ce-dissociation.md) — related
+- [The inattentive ADHD subtype has the worst learning ability score among ADHD subtypes](inattentive-adhd-worst-learning-score.md) — related

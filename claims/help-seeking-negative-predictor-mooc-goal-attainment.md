@@ -43,4 +43,5 @@ Same logistic regression analysis of 4,831 learners across six MOOCs. "the same 
 
 
 ## Related Claims
--
+- [Planning prompts increase payment for certificates in MOOCs by 40%](planning-prompts-increase-certificate-payment.md) — related
+- [The content of MOOC students' plans forecasts completion, with time-focused plans predicting lower completion](time-focused-plans-forecast-lower-mooc-completion.md) — related

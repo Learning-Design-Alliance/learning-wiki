@@ -48,3 +48,4 @@ Analysis of a large corpus of classroom observation data from four intact classe
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — a broader claim this one bears on
 - [Intensive ESL learners' oral English development was examined in four intact classes of approximately 100 French-speaking students aged 10–12 after a 5-month course](intensive-esl-quebec-corpus-study-design.md) — related
 - [Form-focused instruction on noun endings significantly increases French immersion students' ability to correctly assign grammatical gender, with gains maintained on delayed posttests](ffi-noun-endings-improves-gender-attribution.md) — related
+- [Second language instruction increases the rate of acquisition of English relativization by ESL learners](sl-instruction-effective-relativization-rate.md) — related

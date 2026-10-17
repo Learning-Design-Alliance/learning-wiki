@@ -12,7 +12,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 23 claims (20 show a difference, 1 mixed, 2 unmarked) · 17 studies (5 review, 4 associational, 3 causal, 2 qualitative, 2 design, 1 theoretical), `q1`–`q3` · 3 of 17 report an effect size · 22 claims rest on one study
+> **Evidence** · 24 claims (21 show a difference, 1 mixed, 2 unmarked) · 18 studies (5 review, 5 associational, 3 causal, 2 qualitative, 2 design, 1 theoretical), `q1`–`q3` · 4 of 18 report an effect size · 23 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -57,6 +57,7 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [Math circle participants reported positive mathematics attitudes, with most respondents indicating mathematics was important, interesting, liked, and that they felt confident solving problems](../claims/math-circle-positive-attitude-survey.md) [+M] — instruction changes it
 - [Ninth grade marked a turning point where transitory motivation trajectories reversed direction, and these inconsistent trajectories were associated with lower AP enrollment and science performance](../claims/ninth-grade-turning-point-transitory-motivation.md) [+M] — learners who differ on it differ in outcomes
 - [Students in steadily or sharply declining motivation trajectories showed lower STEM career aspirations and lower science grades than stable-trajectory peers](../claims/declining-motivation-lower-science-outcomes.md) [+M] — learners who differ on it differ in outcomes
+- [Academic achievement is moderately correlated with academic self-concept in African American middle school youth](../claims/achievement-self-concept-correlation-african-american-youth.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

@@ -91,3 +91,4 @@ Correlational evidence cited in the overview (Simpkins and Davis-Kean 2005; Upde
 - Gender effects on self-regulated learning are mediated by culture, discipline, and age, with mixed direction across samples — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
 - [Math anxiety levels do not differ significantly by gender among third graders](math-anxiety-no-gender-difference-third-graders.md) — related
+- [Task value was higher for mathematics than for English and social studies for both genders, with gender differences only in the English–social studies comparison](task-value-higher-mathematics-both-genders.md) — related

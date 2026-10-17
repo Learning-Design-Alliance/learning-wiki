@@ -51,3 +51,4 @@ The review reports, citing Holmes et al. and Woolf, that ITS can improve learnin
 - [Intelligent tutoring systems can improve learning outcomes, particularly with immediate actionable feedback](its-improve-learning-outcomes-with-actionable-feedback.md) — a broader claim this one bears on
 - [Meta-analytic evidence indicates intelligent tutoring systems yield positive learning outcomes compared with non-ITS conditions](its-meta-analytic-positive-outcomes.md) — related
 - [AutoTutor achieved learning gains comparable to human tutors in physics and computer literacy](autotutor-learning-gains-comparable-human-tutors.md) — a narrower finding that bears on this claim
+- [AutoTutor cannot handle most student questions, so student question frequency extinguishes quickly in tutoring sessions](autotutor-student-questions-extinguish.md) — a narrower finding that bears on this claim

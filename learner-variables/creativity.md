@@ -12,7 +12,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 51 claims (35 show a difference, 12 mixed, 2 no difference, 2 unmarked) · 32 studies (12 causal, 9 associational, 5 review, 2 quant-synthesis, 2 design, 2 theoretical), `q1`–`q3` · 8 of 32 report an effect size · 49 claims rest on one study
+> **Evidence** · 61 claims (42 show a difference, 13 mixed, 4 no difference, 2 unmarked) · 34 studies (12 causal, 11 associational, 5 review, 2 quant-synthesis, 2 design, 2 theoretical), `q1`–`q3` · 10 of 34 report an effect size · 59 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.
@@ -85,6 +85,16 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [A 50-minute metacognitive strategy instruction produced positive effects on secondary students' fluency, flexibility and originality of ideas in both cohorts](../claims/strategy-instruction-improves-divergent-thinking.md) [+M] — instruction changes it
 - [Regression analysis showed creativity score was not dependent on active play](../claims/regression-null-active-play-creativity.md) [-M] — instruction changes it
 - [Students' geometrical creative thinking improved in all conditions, with no difference between MACE and regular geometry lessons](../claims/mace-no-gct-advantage.md) [+M] — instruction changes it
+- [21% of the ADHD sample scored at or above the 70th percentile on the overall creativity index](../claims/adhd-21-percent-highly-creative.md) [+M] — instruction changes it
+- [Anthropometric variables, body composition and hand grip strength show no correlation with creativity components in this sample](../claims/anthropometrics-no-correlation-creativity.md) [-M] — instruction changes it
+- [In a multiple regression model, vigorous physical activity significantly accounts for 4.5% of variance in overall creativity](../claims/vigorous-activity-regression-creativity-variance.md) [+M] — instruction changes it
+- [Light and moderate physical activity and sedentary behavior show no significant relationship with any creativity component or overall creativity](../claims/light-moderate-sedentary-no-creativity-relationship.md) [-M] — instruction changes it
+- [Moderate-to-vigorous physical activity correlates positively with fluency, originality, flexibility and overall creativity, though less significantly than vigorous activity alone](../claims/mvpa-correlates-creativity-dimensions.md) [+M] — instruction changes it
+- [Unmedicated children with ADHD obtain a higher overall TTCT Creativity Index than controls](../claims/adhd-children-higher-creativity-index.md) [+M] — instruction changes it
+- [Unmedicated children with ADHD score higher than controls on TTCT Creative Strengths](../claims/adhd-children-higher-creative-strengths.md) [+M] — instruction changes it
+- [Unmedicated children with ADHD score higher than controls on TTCT-Figurative Originality](../claims/adhd-children-higher-ttct-originality.md) [+M] — instruction changes it
+- [Vigorous physical activity is positively and significantly correlated with fluency, originality, flexibility and overall creativity in 10–11-year-old children](../claims/vigorous-activity-correlates-divergent-thinking.md) [+M] — instruction changes it
+- [Vigorous physical activity significantly predicts originality, fluency and flexibility in regression models, but not elaboration](../claims/vigorous-activity-predicts-o-flu-fle-not-ela.md) [~W] — instruction changes it
 
 ## Related Learner Variables
 

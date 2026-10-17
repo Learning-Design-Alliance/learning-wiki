@@ -53,3 +53,4 @@ Multilevel models of 177 children's word reading growth (WIAT-II Word Reading su
 - [In latent-variable SEM models, intelligence — not working memory — is the significant direct predictor of academic outcomes in both childhood and early adulthood](sem-iq-only-significant-predictor.md) — related
 - [Executive function measures predict early mathematics achievement over and above reading ability and IQ](executive-functions-predict-early-math-over-iq.md) — related
 - [Visual-spatial working memory predicts higher-order QNC (Level II/III) but not basic numerical skills, and affects Grade 3 math only indirectly](visuospatial-sketchpad-predicts-higher-qnc.md) — related
+- [Complexity of children's naturalistic memory reports predicts reading ability over and above IQ](memory-report-complexity-predicts-reading-ability.md) — related

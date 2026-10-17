@@ -74,10 +74,12 @@ Social awareness develops through the same mechanisms as other complex skills: o
 5. **Reflect and adjust.** Collect student reflections and observe interactions; use formative evidence to tailor support to individual students' profiles.
 
 ## Related Strategies
+
 - [Building Empathy](../principles/building-empathy.md) — the broader principle this strategy operationalizes through explicit diagnosis and aligned instruction
 - [Active Listening](active-listening.md) — the educator practice that both models social awareness and gathers diagnostic information
 - [Address Biases in the Use of Language and Symbols](../strategies/address_biases_in_the_use_of_language_and_symbols.md) — guards against the constraint that taught "norms" encode educator bias
 - [Check-Ins](../principles/check-ins.md) — the routine mechanism for identifying students' social-emotional states over time
+- [Support peer-to-peer reading interventions, whole-school collaborations, and parent-teacher involvement to address peer problems in reading](peer-to-peer-reading-interventions-social-skills.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — individualized support as students practice social skills in authentic interactions

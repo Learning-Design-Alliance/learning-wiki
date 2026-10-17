@@ -12,7 +12,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 23 claims (12 show a difference, 6 mixed, 3 no difference, 2 unmarked) · 16 studies (7 associational, 4 causal, 3 review, 2 theoretical), `q2`–`q3` · 6 of 16 report an effect size · 21 claims rest on one study
+> **Evidence** · 26 claims (13 show a difference, 7 mixed, 4 no difference, 2 unmarked) · 17 studies (8 associational, 4 causal, 3 review, 2 theoretical), `q2`–`q3` · 6 of 17 report an effect size · 24 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
@@ -57,6 +57,9 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [Kindergarteners with a mastery goal orientation show better executive functions than children with a performance orientation](../claims/mastery-orientation-better-executive-functions-kindergarten.md) [+M] — learners who differ on it differ in outcomes
 - [Malleable trait beliefs may be especially beneficial for classroom behavioral self-regulation among mastery-oriented children (marginal interaction)](../claims/trait-belief-goal-orientation-interaction-cbsr.md) [~M] — an instructional effect differs with it
 - [Mastery orientation relates to classroom behavioral self-regulation only indirectly via executive functions, while trait beliefs relate mainly directly](../claims/sem-differential-paths-mindsets-cbsr.md) [+M] — learners who differ on it differ in outcomes
+- [Self-efficacy did not significantly moderate the mediation of the value-to-mastery relation through SRL](../claims/no-efficacy-moderation-value-path.md) [-W] — instruction changes it
+- [Self-efficacy moderates the mediating role of SRL between school belonging and mastery, with the strongest mediation for low-efficacy students](../claims/moderated-mediation-belonging-srl-efficacy.md) [~W] — instruction changes it
+- [SRL partially mediates the positive relations of both academic value and school belonging to mastery orientation among African American and Latino adolescents](../claims/srl-partially-mediates-identity-mastery.md) [+W] — instruction changes it
 
 ## Related Learner Variables
 
