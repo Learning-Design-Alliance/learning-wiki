@@ -62,6 +62,9 @@ at the top, under this paragraph.
 - **lvn-wave-3**: 163 of 250 fetched, 140 ingested, no wrong documents; Moores et al. 2011's DOI added after a
   Crossref check. A second sort of the 1,614 unsorted claims (waves 2–3 and the Zotero batch) found 36 more
   research-practice claims, removed under the standing rule.
+- **lvn-wave-4** (the last 201 screened Navigator references): 130 fetched, 121 ingested, no wrong documents;
+  DOIs for Hall et al. 2012 and Howe & Zachariou added after a Crossref check. 4 research-practice claims removed.
+  Across the four waves the Navigator's references added 494 articles.
 
 ## 2026-10-16 — citation chase, no drafts, duplicate folds, twelve learner variables, study tables for 249 pages
 

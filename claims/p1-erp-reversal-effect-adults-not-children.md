@@ -43,4 +43,4 @@ ERP letter reversal task with 12 adults and 12 children; mean amplitudes from po
 ## Related Claims
 - [N170 peak latency is later in children than adults, and only adults show a latency difference between reversed and typical letters](n170-peak-latency-delayed-children.md) — related
 - [Adults, but not children, show a differential N170 response to typical versus reversed letters](n170-reversal-effect-adults-not-children.md) — related
-- [The N170 reversed-minus-typical amplitude difference correlates with the VWFA reversed-minus-typical activation difference across participants, but not within either group](n170-amplitude-correlates-vwfa-activation.md) — related
+- The N170 reversed-minus-typical amplitude difference correlates with the VWFA reversed-minus-typical activation difference across participants, but not within either group — related

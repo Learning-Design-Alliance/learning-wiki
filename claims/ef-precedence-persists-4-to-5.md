@@ -48,4 +48,4 @@ Same latent variable analysis of the 226-child three-wave sample; the 4-to-5-yea
 - [EF and ToM each show substantial longitudinal stability from 3 to 5 years](ef-tom-longitudinal-stability.md) — related
 - [Girls show early EF and ToM advantages, but the EF advantage diminishes with age while the ToM advantage persists](gender-advantage-ef-diminishes-tom-persists.md) — related
 - [Family income-to-needs at age 3 predicts both EF and ToM through age 5](income-to-needs-predicts-ef-and-tom.md) — related
-- [A combined EF/ToM one-factor model fits the data poorly, supporting construct dissociation](one-factor-ef-tom-model-poor-fit.md) — related
+- A combined EF/ToM one-factor model fits the data poorly, supporting construct dissociation — related

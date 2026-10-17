@@ -44,4 +44,4 @@ The abstract states the study's population and scope: it "examines the impact of
 - [Teachers rated students' capacity for self-determination differently by level of cognitive impairment, but rated opportunities for self-determination similarly across impairment levels](teacher-capacity-ratings-vary-cognitive-impairment-opportunities-do-not.md) — related
 - [Capacity, opportunity, and transition empowerment predicted students' self-reported self-determination, but degree of inclusion in general education did not](capacity-opportunity-empowerment-predict-self-determination-not-inclusion.md) — related
 - [The pattern of predictive relationships for self-determination differed significantly depending on which measure of self-determination was used](self-determination-predictor-patterns-vary-by-measure.md) — related
-- [Baseline data from a multistate longitudinal self-determination intervention project were analyzed with structural equation modeling](sem-baseline-analysis-multistate-self-determination-project.md) — related
+- Baseline data from a multistate longitudinal self-determination intervention project were analyzed with structural equation modeling — related

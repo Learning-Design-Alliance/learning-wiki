@@ -49,4 +49,4 @@ Latent variable model fit to data from 226 children tested at 3, 4, and 5 years 
 - [The developmental precedence of EF over ToM persists from 4 to 5 years of age](ef-precedence-persists-4-to-5.md) — related
 - [Earlier theory of mind does not uniquely predict later executive function at either transition](tom-does-not-predict-later-ef.md) — related
 - [Family income-to-needs at age 3 predicts both EF and ToM through age 5](income-to-needs-predicts-ef-and-tom.md) — related
-- [A combined EF/ToM one-factor model fits the data poorly, supporting construct dissociation](one-factor-ef-tom-model-poor-fit.md) — related
+- A combined EF/ToM one-factor model fits the data poorly, supporting construct dissociation — related

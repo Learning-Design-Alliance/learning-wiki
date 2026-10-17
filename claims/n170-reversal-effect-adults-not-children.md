@@ -41,7 +41,7 @@ ERP letter reversal task (12 adults, 12 children), N170 measured at occipito-tem
 
 
 ## Related Claims
-- [The N170 reversed-minus-typical amplitude difference correlates with the VWFA reversed-minus-typical activation difference across participants, but not within either group](n170-amplitude-correlates-vwfa-activation.md) — related
+- The N170 reversed-minus-typical amplitude difference correlates with the VWFA reversed-minus-typical activation difference across participants, but not within either group — related
 - [N170 peak latency is later in children than adults, and only adults show a latency difference between reversed and typical letters](n170-peak-latency-delayed-children.md) — related
 - [Adults, but not children, show a P1 ERP amplitude difference between reversed and typical letters during early visual processing](p1-erp-reversal-effect-adults-not-children.md) — related
 - [Adults show significantly greater whole-brain fMRI activation than children for reversed versus typical letters, including left ventral visual stream and bilateral parietal cortices](adults-greater-fmri-activation-reversed-letters-than-children.md) — related

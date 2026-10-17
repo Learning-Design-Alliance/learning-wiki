@@ -21,7 +21,7 @@ A persistent, LLM-maintained knowledge base for learning design. Read [CLAUDE.md
 
 ## The state of the evidence
 
-The wiki holds **5,334 distinct studies** behind 19,106 claims. What they add up to (the [evidence report](evidence.md) has the detail):
+The wiki holds **5,334 distinct studies** behind 19,102 claims. What they add up to (the [evidence report](evidence.md) has the detail):
 
 - **Few studies can show a cause.** 28% are experiments or systematic reviews (`q3` or `q4`); only 2% are pre-registered trials or well-powered meta-analyses (`q4`). 59% are quasi-experiments, observational studies or narrative reviews, and 13% are case studies, opinion or theory.
 - **Few print an effect size.** 1,125 of 5,334 studies (21%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
@@ -71,7 +71,7 @@ Explanatory frameworks that ground principles and claims.
 ### [Learner Variables](learner-variables/index.md) (74)
 Canonical learner characteristics claims report findings about — one page per variable, so the same concept does not fragment across differently-worded tags.
 
-### [Claims](claims/index.md) (19106)
+### [Claims](claims/index.md) (19102)
 Empirical claims with evidence ratings, sources, and competing views.
 
 ---

@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":19106,
+"claim":19102,
 "design":832,
 "element":1066,
 "learner-variable":74,
@@ -44876,15 +44876,6 @@
 "path":"claims/dll-metalinguistic-advantage.md",
 "status":"review",
 "title":"DLL preschoolers may show a metalinguistic advantage over monolingual peers in grammatical awareness as their language abilities develop",
-"type":"claim"
-},
-{
-"description":"The review identifies pervasive methodological problems in DLL research, including inconsistent DLL definitions and SES-bilingualism confounding",
-"evidence_strength":"weak",
-"id":"dll-research-methodological-concerns",
-"path":"claims/dll-research-methodological-concerns.md",
-"status":"review",
-"title":"The review identifies pervasive methodological problems in DLL research, including inconsistent DLL definitions and SES-bilingualism confounding",
 "type":"claim"
 },
 {
@@ -102216,15 +102207,6 @@
 "type":"claim"
 },
 {
-"description":"The N170 reversed-minus-typical amplitude difference correlates with the VWFA reversed-minus-typical activation difference across participants, but not within either group",
-"evidence_strength":"weak",
-"id":"n170-amplitude-correlates-vwfa-activation",
-"path":"claims/n170-amplitude-correlates-vwfa-activation.md",
-"status":"review",
-"title":"The N170 reversed-minus-typical amplitude difference correlates with the VWFA reversed-minus-typical activation difference across participants, but not within either group",
-"type":"claim"
-},
-{
 "description":"N170 peak latency is later in children than adults, and only adults show a latency difference between reversed and typical letters",
 "evidence_strength":"moderate",
 "id":"n170-peak-latency-delayed-children",
@@ -109636,15 +109618,6 @@
 "path":"claims/one-digit-math-association-decreases-with-grade.md",
 "status":"review",
 "title":"The association between one-digit comparison and mathematics achievement decreases across grades, while the two-digit association remains stable",
-"type":"claim"
-},
-{
-"description":"A combined EF/ToM one-factor model fits the data poorly, supporting construct dissociation",
-"evidence_strength":"weak",
-"id":"one-factor-ef-tom-model-poor-fit",
-"path":"claims/one-factor-ef-tom-model-poor-fit.md",
-"status":"review",
-"title":"A combined EF/ToM one-factor model fits the data poorly, supporting construct dissociation",
 "type":"claim"
 },
 {
@@ -139613,15 +139586,6 @@
 "path":"claims/selpa-configuration-no-academic-outcome-differences.md",
 "status":"review",
 "title":"No meaningful differences in academic outcomes (graduation, dropout, ELA/math/alternative assessment proficiency) exist between single- and multidistrict SELPAs or between SELPA compositions",
-"type":"claim"
-},
-{
-"description":"Baseline data from a multistate longitudinal self-determination intervention project were analyzed with structural equation modeling",
-"evidence_strength":"weak",
-"id":"sem-baseline-analysis-multistate-self-determination-project",
-"path":"claims/sem-baseline-analysis-multistate-self-determination-project.md",
-"status":"review",
-"title":"Baseline data from a multistate longitudinal self-determination intervention project were analyzed with structural equation modeling",
 "type":"claim"
 },
 {
@@ -272299,7 +272263,6 @@
 "dll-catch-up-over-time":"dll-catch-up-over-time",
 "dll-infant-speech-discrimination-trajectories":"dll-infant-speech-discrimination-trajectories",
 "dll-metalinguistic-advantage":"dll-metalinguistic-advantage",
-"dll-research-methodological-concerns":"dll-research-methodological-concerns",
 "dll-smaller-vocabulary-each-language":"dll-smaller-vocabulary-each-language",
 "dlls-two-separate-language-systems-early":"dlls-two-separate-language-systems-early",
 "dlp-coach-confidence-growth":"dlp-coach-confidence-growth",
@@ -278803,7 +278766,6 @@
 "mvpa-associated-executive-function-adhd-boys":"mvpa-associated-executive-function-adhd-boys",
 "mvpa-negatively-associated-off-task-carlson":"mvpa-negatively-associated-off-task-carlson",
 "n100-congruency-modulation-sighted-only":"n100-congruency-modulation-sighted-only",
-"n170-amplitude-correlates-vwfa-activation":"n170-amplitude-correlates-vwfa-activation",
 "n170-peak-latency-delayed-children":"n170-peak-latency-delayed-children",
 "n170-reversal-effect-adults-not-children":"n170-reversal-effect-adults-not-children",
 "n2-change-predicts-intelligence-gains-metacognitive-group":"n2-change-predicts-intelligence-gains-metacognitive-group",
@@ -279635,7 +279597,6 @@
 "on-track-relationship-holds-after-background-controls":"on-track-relationship-holds-after-background-controls",
 "one-caring-adult-protective-bond":"one-caring-adult-protective-bond",
 "one-digit-math-association-decreases-with-grade":"one-digit-math-association-decreases-with-grade",
-"one-factor-ef-tom-model-poor-fit":"one-factor-ef-tom-model-poor-fit",
 "one-in-six-elementary-teachers-linked-to-untaught-subject":"one-in-six-elementary-teachers-linked-to-untaught-subject",
 "one-in-six-grade-4-5-teachers-mislinked-unconfirmed-data":"one-in-six-grade-4-5-teachers-mislinked-unconfirmed-data",
 "one-of-ten-software-products-significant-positive-effects":"one-of-ten-software-products-significant-positive-effects",
@@ -283047,7 +283008,6 @@
 "self-talk-improves-learning-and-performance":"self-talk-improves-learning-and-performance",
 "self-taught-model-understanding-highest-scores":"self-taught-model-understanding-highest-scores",
 "selpa-configuration-no-academic-outcome-differences":"selpa-configuration-no-academic-outcome-differences",
-"sem-baseline-analysis-multistate-self-determination-project":"sem-baseline-analysis-multistate-self-determination-project",
 "sem-differential-paths-mindsets-cbsr":"sem-differential-paths-mindsets-cbsr",
 "sem-direct-paths-dual-supports-innovative-competence":"sem-direct-paths-dual-supports-innovative-competence",
 "sem-genai-dependence-positive-paths-creativity":"sem-genai-dependence-positive-paths-creativity",

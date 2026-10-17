@@ -8,10 +8,10 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 19,106 |
-| Evidence entries | 22,741 |
+| Claims | 19,102 |
+| Evidence entries | 22,736 |
 | Distinct studies | 5,334 |
-| Claims resting on one study | 18,598 (97%) |
+| Claims resting on one study | 18,594 (97%) |
 | Claims with no coded evidence | 0 |
 | Studies reporting an effect size | 1,125 of 5,334 (21%) |
 
@@ -33,7 +33,7 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 |---|---|---|---|
 | 687 (13%) | 3,162 (59%) | 1,364 (26%) | 121 (2%) |
 
-**Studies per claim:** 0: 0, 1: 18,598, 2: 426, 3: 66, 4 or more: 16.
+**Studies per claim:** 0: 0, 1: 18,594, 2: 426, 3: 66, 4 or more: 16.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 

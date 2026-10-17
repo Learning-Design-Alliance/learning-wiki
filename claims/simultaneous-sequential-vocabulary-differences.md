@@ -49,7 +49,7 @@ The review reports Hammer et al.'s (2008a) longitudinal Head Start comparison: "
 
 ## Related Claims
 - [DLL children can catch up to monolingual norms in English vocabulary, but need substantial time and exposure to do so](dll-catch-up-over-time.md) — related
-- [The review identifies pervasive methodological problems in DLL research, including inconsistent DLL definitions and SES-bilingualism confounding](dll-research-methodological-concerns.md) — related
+- The review identifies pervasive methodological problems in DLL research, including inconsistent DLL definitions and SES-bilingualism confounding — related
 - [DLLs have smaller vocabularies and slower growth in each language than monolinguals, but comparable conceptual vocabularies](dll-smaller-vocabulary-each-language.md) — related
 - [Bilingual children's English and Spanish receptive vocabulary and oral comprehension both increased across two years of Head Start, with group advantages in the language of prior exposure](receptive-language-growth-head-start-both-languages.md) — possibly the same claim (merge candidate)
 - [Timing of English exposure moderates vocabulary-growth reading effects: English vocabulary growth favored HEC children's English passage comprehension while Spanish vocabulary growth favored SEC children's English reading](timing-english-exposure-moderates-vocabulary-reading-effects.md) — related

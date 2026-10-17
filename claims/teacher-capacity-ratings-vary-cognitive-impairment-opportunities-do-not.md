@@ -43,4 +43,4 @@ Structural equation modeling of baseline data from a multistate longitudinal pro
 ## Related Claims
 - [Capacity, opportunity, and transition empowerment predicted students' self-reported self-determination, but degree of inclusion in general education did not](capacity-opportunity-empowerment-predict-self-determination-not-inclusion.md) — related
 - [The study targeted students with learning disabilities, mild and moderate mental retardation, and other health impairments](self-determination-study-population-disability-categories.md) — related
-- [Baseline data from a multistate longitudinal self-determination intervention project were analyzed with structural equation modeling](sem-baseline-analysis-multistate-self-determination-project.md) — a broader claim this one bears on
+- Baseline data from a multistate longitudinal self-determination intervention project were analyzed with structural equation modeling — a broader claim this one bears on
