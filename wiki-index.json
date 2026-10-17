@@ -8848,12 +8848,12 @@
 "type":"claim"
 },
 {
-"description":"Over-reliance on AI dialogue systems fosters complacency and dependency that impairs students' decision-making abilities",
+"description":"A systematic review reports that over-reliance on AI dialogue systems fosters complacency and dependency and may weaken students' decision-making",
 "evidence_strength":"weak",
 "id":"ai-overreliance-impairs-decision-making",
 "path":"claims/ai-overreliance-impairs-decision-making.md",
 "status":"review",
-"title":"Over-reliance on AI dialogue systems fosters complacency and dependency that impairs students' decision-making abilities",
+"title":"A systematic review reports that over-reliance on AI dialogue systems fosters complacency and dependency and may weaken students' decision-making",
 "type":"claim"
 },
 {
@@ -116930,12 +116930,12 @@
 "type":"claim"
 },
 {
-"description":"Personal instructor messages and reflective assignments showed the largest individual associations with online course satisfaction and motivation",
+"description":"Personal instructor messages and reflective assignments showed the largest individual associations with online course satisfaction, and personal messages with fewer motivation problems",
 "evidence_strength":"moderate",
 "id":"personal-messages-largest-satisfaction-effect",
 "path":"claims/personal-messages-largest-satisfaction-effect.md",
 "status":"review",
-"title":"Personal instructor messages and reflective assignments showed the largest individual associations with online course satisfaction and motivation",
+"title":"Personal instructor messages and reflective assignments showed the largest individual associations with online course satisfaction, and personal messages with fewer motivation problems",
 "type":"claim"
 },
 {
@@ -145364,12 +145364,12 @@
 "type":"claim"
 },
 {
-"description":"Pilot instructors reported the adaptive proctor differentiated students at multiple proficiency boundaries and decoupled conceptual mastery from computational speed",
+"description":"One pilot instructor reported the adaptive proctor differentiated students at multiple proficiency boundaries and decoupled conceptual mastery from computational speed",
 "evidence_strength":"weak",
 "id":"socratic-test-faculty-differentiation",
 "path":"claims/socratic-test-faculty-differentiation.md",
 "status":"review",
-"title":"Pilot instructors reported the adaptive proctor differentiated students at multiple proficiency boundaries and decoupled conceptual mastery from computational speed",
+"title":"One pilot instructor reported the adaptive proctor differentiated students at multiple proficiency boundaries and decoupled conceptual mastery from computational speed",
 "type":"claim"
 },
 {

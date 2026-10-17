@@ -25,6 +25,14 @@ at the top, under this paragraph.
   the preprint entry kept in a `<!-- merged -->` comment. The load-bearing judge failed an Abdelghani 2026 entry
   by reading the abstract's per-student finding as contradicting the cohort slope; the full text states both
   slopes verbatim, so it was dismissed as judge-wrong. Two research-practice claims removed.
+- **newpat-2** (eight named syntheses on CSCL scripts, pedagogical agents and teachable agents): four had an open
+  copy and were ingested (Vogel et al. 2016, Radkowitsch et al. 2020, Castro-Alonso et al. 2021, Biswas et al. 2016
+  on Betty's Brain); Chen 2018, Jeong 2019, Chase 2009 (the protégé effect) and Schroeder 2013 are paywalled and left
+  out. The script main effects (domain learning d = 0.20 / g = 0.24; collaboration skills d = 0.95 / g = 0.72), the
+  agent meta-analysis (g+ = 0.20) and the Betty's Brain classroom findings were added to `ai-tutoring` and
+  `practice-with-simulated-people`. The load-bearing check failed 17 entries the new pages cite: 13 pages fixed
+  (overstated titles retitled, `i` codes without a printed effect set to `i?`, review-vs-primary wording), 4
+  dismissed as judge-wrong after checking the full text.
 
 ## 2026-10-16 (later) — the Learner Variability Navigator, Breit et al. 2025, fix pass, hq-wave-1
 
