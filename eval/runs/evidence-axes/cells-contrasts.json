@@ -33298,5 +33298,125 @@
  "worked-examples\tworked examples provided early\tworked examples provided after the first two lessons": {
   "label": "early-provided vs later-provided worked examples",
   "treatment_is_a": true
+ },
+ "other\t$0.10 per million tokens in June 2025\t$0.10 per million tokens in April 2024": {
+  "label": "June 2025 pricing vs April 2024 pricing",
+  "treatment_is_a": true
+ },
+ "other\t$0.10 per million tokens in November 2024\t$0.10 per million tokens in June 2025": {
+  "label": "November 2024 pricing vs June 2025 pricing",
+  "treatment_is_a": false
+ },
+ "other\t0% normalized-score bin\t90% normalized-score bin": {
+  "label": "higher normalized-score bin vs lower normalized-score bin",
+  "treatment_is_a": false
+ },
+ "other\t10 PTA traits\t6 revised-Bloom taxonomy levels": {
+  "label": "10 PTA traits vs 6 revised-Bloom taxonomy levels",
+  "treatment_is_a": true
+ },
+ "other\t10 PTA traits\t8 broad dialogue-act counts": {
+  "label": "10 PTA traits vs 8 broad dialogue-act counts",
+  "treatment_is_a": true
+ },
+ "other\t10 rounds of generate-then-refine improvement\tinitial generation": {
+  "label": "iterative generate-then-refine improvement vs initial generation",
+  "treatment_is_a": true
+ },
+ "other\t10 source chunks per section\t1 source chunk per section": {
+  "label": "more source chunks per section vs fewer source chunks per section",
+  "treatment_is_a": true
+ },
+ "other\t100K-interaction EdNet sample\t10K-interaction EdNet sample": {
+  "label": "100K-interaction sample vs 10K-interaction sample",
+  "treatment_is_a": true
+ },
+ "other\t100K-interaction EdNet sample\t10K-interaction sample": {
+  "label": "100K-interaction sample vs 10K-interaction sample",
+  "treatment_is_a": true
+ },
+ "other\t100k pairwise examples\t20k pairwise examples": {
+  "label": "100K pairwise examples vs 20K pairwise examples",
+  "treatment_is_a": true
+ },
+ "other\t111 optimized aid-allocation strategies\tcurrent aid-allocation strategy": {
+  "label": "optimized aid-allocation strategies vs current aid-allocation strategy",
+  "treatment_is_a": true
+ },
+ "other\t12 raters selected using Rasch infit criteria\tall 80 raters": {
+  "label": "Rasch-selected raters vs all raters",
+  "treatment_is_a": true
+ },
+ "other\t12 selected Annenberg sample schools\tChicago Public Schools as a whole": {
+  "label": "selected sample schools vs district as a whole",
+  "treatment_is_a": true
+ },
+ "other\t12 years of teaching experience\tno prior teaching experience": {
+  "label": "more teaching experience vs no prior teaching experience",
+  "treatment_is_a": true
+ },
+ "other\t12-item ACO-derived abbreviated scale\tfull-length GenAI-SRL instrument": {
+  "label": "abbreviated GenAI-SRL scale vs full GenAI-SRL instrument",
+  "treatment_is_a": true
+ },
+ "other\t12-item abbreviated GenAI-SRL scale\tfull-length GenAI-SRL scale": {
+  "label": "abbreviated GenAI-SRL scale vs full GenAI-SRL scale",
+  "treatment_is_a": true
+ },
+ "other\t12-item abbreviated GenAI-SRL scale\tfull-length instrument": {
+  "label": "abbreviated GenAI-SRL scale vs full instrument",
+  "treatment_is_a": true
+ },
+ "other\t12-item short form\toriginal full survey": {
+  "label": "short-form survey vs original full survey",
+  "treatment_is_a": true
+ },
+ "other\t12-item survey at first administration\t12-item survey at retest administration": {
+  "label": "first survey administration vs retest administration",
+  "treatment_is_a": true
+ },
+ "other\t130-item academic integrity indicator tool\texisting lack of assessment and integrity information": {
+  "label": "academic integrity assessment tool vs no assessment or integrity information",
+  "treatment_is_a": true
+ },
+ "other\t14-LO MCD-v2 structure\tfour-broad-skill MCD-v1 structure": {
+  "label": "fine-grained 14-LO structure vs four-broad-skill structure",
+  "treatment_is_a": true
+ },
+ "other\t15-week extensive reading course\tpretest": {
+  "label": "15-week extensive reading course vs pretest",
+  "treatment_is_a": true
+ },
+ "other\t15-week extensive reading course\tpretest before the course": {
+  "label": "15-week extensive reading course vs pre-course pretest",
+  "treatment_is_a": true
+ },
+ "other\t15-week extensive-reading course\tpretest before extensive reading": {
+  "label": "15-week extensive reading course vs pre-course pretest",
+  "treatment_is_a": true
+ },
+ "other\t17 empirical quasi-experimental studies\tone analytical cross-sectional study": {
+  "label": "empirical quasi-experimental studies vs analytical cross-sectional study",
+  "treatment_is_a": true
+ },
+ "other\t17 interventions\tcomparison condition": {
+  "label": "intervention condition vs comparison condition",
+  "treatment_is_a": true
+ },
+ "other\t17 interventions\tcomparison conditions": {
+  "label": "intervention condition vs comparison condition",
+  "treatment_is_a": true
+ },
+ "other\t17 submitted interventions\tcomparison conditions": {
+  "label": "submitted intervention vs comparison condition",
+  "treatment_is_a": true
+ },
+ "other\t18 LLMs diagnosing cognitive skills\tteacher-provided ground-truth verdicts": {
+  "label": "LLM diagnosis vs teacher-provided ground truth",
+  "treatment_is_a": true
+ },
+ "other\t1980\t2002": {
+  "label": "1980 vs 2002",
+  "treatment_is_a": true
  }
 }
