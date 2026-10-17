@@ -41,4 +41,5 @@ Narrative review synthesis of international research on youth offenders, citing 
 
 
 ## Related Claims
--
+- [Most children with emotional and behavioral disorders have undiagnosed language impairment](ebd-undiagnosed-language-impairment.md) — related
+- [Suspension is associated with long-term harms including higher risk of grade retention, dropout, and juvenile justice involvement](suspension-long-term-harms-retention-dropout.md) — related

@@ -44,4 +44,4 @@ Theme 2 of the review's thematic synthesis, the most strongly supported theme (1
 
 
 ## Related Claims
--
+- [Digital access among adults on the margins is not a one-time event but an ongoing, contingent accomplishment requiring an assemblage of resources](digital-access-ongoing-accomplishment.md) — related

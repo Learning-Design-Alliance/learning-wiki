@@ -49,3 +49,4 @@ Pearson correlations between a composite WM-capacity index (average of digits-fo
 - [Working memory capacity is a robust indicator of success or failure in language learning](wm-capacity-predicts-language-learning-success.md) — related
 - [WM capacity is significantly and negatively correlated with age in Korean adults](wm-negatively-correlated-with-age.md) — related
 - [After controlling for age, WM correlates significantly only with the most demanding condition (priming task, noncanonical word order)](wm-partial-correlation-only-priming-noncanonical.md) — reports the opposite
+- [Adults with greater memory capacity, measured by WAIS Digits Backward, produced more complex utterances and used more right- and left-branching clauses](memory-capacity-linked-utterance-complexity.md) — related

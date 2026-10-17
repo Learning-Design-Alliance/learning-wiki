@@ -15,18 +15,22 @@ sources:
     author: Ottoboni Giovanni, Ceciliani Andrea, Tessari Alessia
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: ottoboni-giovanni-2021-2
     resource: "https://doi.org/10.3390/ijerph18147545"
     title: "Ottoboni Giovanni, Ceciliani Andrea, Tessari Alessia. (2021). The Effect of Structured Exercise on Short-Term Memory Subsystems: New Insight on Training Activities. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph18147545"
     author: Ottoboni Giovanni, Ceciliani Andrea, Tessari Alessia
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Short-term memory task profiles differ by age: 7–8-year-olds show no verbal–spatial difference, while 9–10-year-olds show a verbal > visuo-spatial > motor gradient.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The memory task × age interaction was significant; older children showed a gradient among verbal, visuo-spatial and motor spans, younger children did not differentiate verbal from spatial spans. [→ Ottoboni Giovanni 2021 (2)](#ottoboni-giovanni-2021-2)
@@ -37,7 +41,7 @@ sources:
 
 Ottoboni Giovanni, Ceciliani Andrea, Tessari Alessia. (2021). The Effect of Structured Exercise on Short-Term Memory Subsystems: New Insight on Training Activities. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph18147545
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Secondary analysis from the same ANOVA: the memory task × age interaction, "F(1.96,112) = 7.81, p = 0.001", with older children showing verbal > spatial > motor spans (printed means 5.69, 5.25, and the motor value as printed).
 
@@ -47,7 +51,7 @@ Secondary analysis from the same ANOVA: the memory task × age interaction, "F(1
 
 Ottoboni Giovanni, Ceciliani Andrea, Tessari Alessia. (2021). The Effect of Structured Exercise on Short-Term Memory Subsystems: New Insight on Training Activities. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph18147545
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 In the younger group, spatial and verbal spans did not differ, "t(60) = 0.884 p > 0.05", but both exceeded the motor span. The authors relate this to different developmental trajectories of WM components.
 
@@ -57,4 +61,10 @@ In the younger group, spatial and verbal spans did not differ, "t(60) = 0.884 p 
 
 
 ## Related Claims
--
+- [A sedentary control condition (Italian grammar lesson) produces no improvement in children's short-term memory performance at either age.](sedentary-control-no-stm-improvement.md) — related
+- [Verbal and spatial working memory, and verbal attention span, explain unique variance in Coding beyond motor speed, symptom severity, and IQ](working-memory-explains-coding-variance.md) — related
+- [Phonological decoding, verbal knowledge, visuo-spatial STM/WM, spatial orientation and trail-making performance are robust simultaneous predictors of math in 9-year-olds](executive-memory-predictors-of-math-9yo.md) — related
+- [Task-switching training improves untrained switching and other executive functions in school-aged children, though transfer findings are heterogeneous](task-switching-training-transfer-ef.md) — related
+- [Children with developmental dyscalculia show impaired visuo-spatial short-term and working memory relative to matched controls](dd-visuospatial-stm-wm-impairment.md) — related
+- [In pure developmental dyscalculia with normal reading and verbal IQ, verbal short-term and working memory are intact](pure-dd-verbal-memory-intact.md) — related
+- [The effect of a single exercise bout on children's short-term memory depends on an interaction of time, age, and exercise type.](time-age-exercise-interaction-stm.md) — related

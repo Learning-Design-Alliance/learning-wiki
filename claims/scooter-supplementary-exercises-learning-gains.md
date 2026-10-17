@@ -43,4 +43,4 @@ Secondary analysis of the Scooter in vivo experiment relating supplementary-exer
 
 
 ## Related Claims
--
+- [No supplemental intervention was significantly better than another, and gains were not tied to program type](no-significant-intervention-differences.md) — related

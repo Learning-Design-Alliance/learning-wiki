@@ -15,12 +15,14 @@ sources:
     author: A. Ginton, G. Urca, and R. E. Lubow
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The inattention manipulation was behaviorally verified: only one of 10 nonmonitored-ear subjects reported hearing the CS during preexposure versus eight of 10 monitored-ear subjects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Post-experiment reports showed the nonmonitored-ear group largely failed to detect the CS during preexposure, while the monitored-ear group largely detected it. [→ A. Ginton 1975](#a-ginton-1975)
@@ -31,7 +33,7 @@ sources:
 
 A. Ginton, G. Urca, and R. E. Lubow. (1975). The effects of preexposure to a nonattended stimulus on subsequent learning: Latent inhibition in adults. Bulletin of the Psychonomic Society, 1975, Vol. 5 (1), 5-8. https://doi.org/10.3758/bf03336682
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Post-experiment debriefing of the two CS-preexposure groups after they were told what the CS was. "Eight of the subjects in the PE/M group reported hearing the CS during the PE phase, whereas only one subject in the PE/NM group reported hearing the CS during preexposure."
 
@@ -41,4 +43,6 @@ Post-experiment debriefing of the two CS-preexposure groups after they were told
 
 
 ## Related Claims
--
+- [Latent inhibition in adults occurs even when the CS is preexposed under severe conditions of inattention](latent-inhibition-under-inattention-preexposure.md) — related
+- [Latent inhibition occurs irrespective of whether preexposure was to the monitored or the nonmonitored ear](latent-inhibition-irrespective-monitored-ear.md) — related
+- [Nonreinforced preexposure of a to-be-conditioned stimulus produces a strong latent inhibition effect in adult humans](latent-inhibition-adult-humans-instrumental-conditioning.md) — related

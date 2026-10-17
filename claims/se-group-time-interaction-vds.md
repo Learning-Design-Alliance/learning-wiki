@@ -13,12 +13,14 @@ sources:
     title: Zacharopoulos G 2014
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Mixed-design ANOVAs reveal significant group-by-time interactions on visual discrimination sensitivity in both tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The 3x2 mixed-design ANOVA on VDS changes showed a significant group (high, low, control) by time (pre, post) interaction in the orientation task, F(2,59) = 3.450, p = .038, and in the contrast task, F(2,53) = 3.307, p = .044. [→ Zacharopoulos G 2014](#zacharopoulos-g-2014)
@@ -29,7 +31,7 @@ sources:
 
 Zacharopoulos G, Binetti N, Walsh V, Kanai R (2014) The Effect of Self-Efficacy on Visual Discrimination Sensitivity. PLoS ONE 9(10): e109392. https://doi.org/10.1371/journal.pone.0109392
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Omnibus analysis of the 118-participant experiment: 3x2 mixed-design ANOVA with SE group as between-subject factor and phase as within-subject factor on VDS changes. The contrast task interaction was F(2,53) = 3.307, p = .044; only test statistics are printed, no effect size.
 
@@ -39,4 +41,6 @@ Omnibus analysis of the 118-participant experiment: 3x2 mixed-design ANOVA with 
 
 
 ## Related Claims
--
+- [Control groups show no significant pre-to-post change in visual discrimination thresholds, indicating the two blocks did not interact](control-groups-no-vds-change.md) — related
+- [Participants induced to hold high self-efficacy show greater improvement in visual discrimination sensitivity than participants induced to hold low self-efficacy](high-self-efficacy-improves-visual-discrimination-sensitivity.md) — related
+- [Changes in self-efficacy correlate with changes in visual discrimination sensitivity after regressing out objective ability and baseline self-efficacy](self-efficacy-change-correlates-vds-change.md) — related

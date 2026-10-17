@@ -39,4 +39,6 @@ Correlational analysis across all variables at both time points (Table 2). Kinde
 
 
 ## Related Claims
--
+- [Kindergarten visual processing uniquely predicts grade-one early mathematics after controlling for prior mathematics and general cognitive abilities](visual-processing-predicts-grade-one-mathematics.md) — related
+- [Kindergarten visual processing uniquely predicts grade-one Chinese character reading after controlling for prior reading and general cognitive abilities](visual-processing-predicts-grade-one-character-reading.md) — related
+- [Specific processing speed generalises beyond mathematics, significantly predicting Chinese and English achievement in both Grade 7 and Grade 9](specific-processing-speed-generalises-to-all-academic-achievements.md) — related

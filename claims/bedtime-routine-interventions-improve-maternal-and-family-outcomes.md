@@ -15,12 +15,14 @@ sources:
     author: Mindell Jodi A., Williamson Ariel A.
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Bedtime routine interventions improved maternal mood, maternal confidence, and, in one study, marital satisfaction, beyond child sleep outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the Adams and Rickert study of 36 toddlers and preschoolers with bedtime tantrums, families implementing a bedtime routine reported significant improvements in marital satisfaction, whereas comparison intervention and control families did not. [→ Mindell Jodi A. 2018](#mindell-jodi-a-2018)
@@ -31,7 +33,7 @@ sources:
 
 Mindell Jodi A., Williamson Ariel A. (2018). Benefits of a bedtime routine in young children: Sleep, development, and beyond. Sleep medicine reviews. https://doi.org/10.1016/j.smrv.2017.10.007
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 The review reports the randomized study of "36 toddlers and preschoolers who exhibited bedtime tantrums" assigned to positive bedtime routine, graduated extinction, or control. No effect size is printed.
 
@@ -41,4 +43,5 @@ The review reports the randomized study of "36 toddlers and preschoolers who exh
 
 
 ## Related Claims
--
+- [A consistent bedtime routine is associated with better sleep outcomes in young children, with a dose-dependent relationship between nights per week of routine adherence and sleep benefits](bedtime-routine-dose-dependent-sleep-benefits.md) — related
+- [Randomized assignment to a 3-step bedtime routine improved infant and toddler sleep outcomes relative to control](rct-three-step-bedtime-routine-improves-sleep.md) — related

@@ -43,4 +43,4 @@ Exploratory correlational analysis relating individual curiosity-based enhanceme
 
 
 ## Related Claims
--
+- [Curiosity enhances learning, including for incidental material encountered during high-curiosity states](curiosity-enhances-learning.md) — related

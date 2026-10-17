@@ -15,18 +15,22 @@ sources:
     author: "Gottfried, M. A. & Williams, D."
     q: 3
     i: 1
+    kind: associational
+    rigour: 3
   - id: gottfried-2013-2
     resource: "http://epaa.asu.edu/ojs/article/view/1361"
     title: "Gottfried, M. A. & Williams, D. (2013). STEM Club Participation and STEM Schooling Outcomes. Education Policy Analysis Archives, 21 (79). http://epaa.asu.edu/ojs/article/view/1361"
     author: "Gottfried, M. A. & Williams, D."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Math club participation is positively associated with high school math GPA, with a medium standardized relationship that persists after propensity score matching
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2`–`q3` · `i1` small
+> **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q2`–`q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Participation in math club has a positive, statistically significant relationship with cumulative high school math GPA after controlling for student, family, and school covariates, with a standardized regression coefficient of 0.27 in the full model. [→ Gottfried 2013](#gottfried-2013)
@@ -38,7 +42,7 @@ sources:
 
 Gottfried, M. A. & Williams, D. (2013). STEM Club Participation and STEM Schooling Outcomes. Education Policy Analysis Archives, 21 (79). http://epaa.asu.edu/ojs/article/view/1361
 
-`q3 · i1`
+`q3 · i1` · `associational · r3`
 
 Baseline OLS regressions on the Add Health regression sample predicting math GPA. The article reports standardized regression coefficient effect sizes "0.50 and 0.27 for models 1 and 2 in math", characterizing the relationship as medium-sized and tempered by the inclusion of covariates.
 
@@ -48,7 +52,7 @@ Baseline OLS regressions on the Add Health regression sample predicting math GPA
 
 Gottfried, M. A. & Williams, D. (2013). STEM Club Participation and STEM Schooling Outcomes. Education Policy Analysis Archives, 21 (79). http://epaa.asu.edu/ojs/article/view/1361
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Propensity score matching analysis contrasting matched math club participants and non-participants. Block matching (0.233, p<0.05) and kernel matching (0.426, p<0.001) were significant; nearest-neighbor matching (0.136) was not, so evidence is mixed across matching schemes. No standardized effect size is printed for the matching models.
 
@@ -58,4 +62,9 @@ Propensity score matching analysis contrasting matched math club participants an
 
 
 ## Related Claims
--
+- [The science club–science GPA relationship is not significant for Asian students, though the math club relationship is](asian-students-science-club-null-math-significant.md) — a narrower finding that bears on this claim
+- [Gender does not moderate the club participation–GPA relationship in math or science](gender-does-not-moderate-club-gpa-relationship.md) — related
+- [Science club participation is positively associated with high school science GPA, significant across all three propensity score matching methods](science-club-participation-higher-science-gpa.md) — related
+- [Math club participation is associated with higher odds of declaring a STEM major in college, remaining significant after propensity score matching](math-club-participation-stem-college-major.md) — related
+- [The math club–math GPA relationship holds for non-poverty students but not for poverty students, with a race-by-poverty interaction](poverty-moderates-math-club-gpa-relationship.md) — related
+- [STEM club participants differ descriptively from non-participants in GPA, course-taking, test scores, and college desire](stem-club-participants-descriptive-differences.md) — a broader claim this one bears on

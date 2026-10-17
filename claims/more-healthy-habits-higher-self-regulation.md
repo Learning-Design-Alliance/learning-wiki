@@ -43,4 +43,4 @@ Comparison of mean self-regulation by number of healthy lifestyle habits met (PA
 
 
 ## Related Claims
--
+- [The study's cross-sectional self-report design does not allow causal inference about lifestyle habits and academic achievement](cross-sectional-design-limits-causal-inference-lifestyle-achievement.md) — related

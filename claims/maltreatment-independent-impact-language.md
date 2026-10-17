@@ -15,12 +15,14 @@ sources:
     author: Pamela C. Snow
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Child maltreatment has a documented independent negative impact on children's language development
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Child maltreatment independently impacts children's language, literacy, and social skills development. [→ Pamela C. Snow 2021](#pamela-c-snow-2021)
@@ -31,7 +33,7 @@ sources:
 
 Pamela C. Snow. (2021). Psychosocial Adversity in Early Childhood and Language and Literacy Skills in Adolescence: The Role of Speech-Language Pathology in Prevention, Policy, and Practice. Perspectives of the ASHA Special Interest Groups. https://doi.org/10.1044/2020_PERSP-20-00120
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 Narrative review assertion citing Lum et al. (2018) and Snow (2009) that maltreatment has a "documented independent impact" on children's language, literacy, and social skills. The review reports this as established evidence without printing effect sizes.
 
@@ -41,4 +43,4 @@ Narrative review assertion citing Lum et al. (2018) and Snow (2009) that maltrea
 
 
 ## Related Claims
--
+- [Maltreated and neglected children show less accurate facial emotion identification, difficulty with positive emotions, and higher rumination](maltreated-children-emotion-identification-deficits.md) — related

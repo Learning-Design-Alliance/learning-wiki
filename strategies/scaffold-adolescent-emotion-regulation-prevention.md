@@ -38,7 +38,7 @@ The review proposes that adolescence, as a period of heightened neural plasticit
 - preventing onset of internalising and externalising psychopathology
 
 ### Affordances
-- [Extended Process Model Emotion Regulation Stages](../theories/extended-process-model-emotion-regulation-stages.md)
+- Extended Process Model Emotion Regulation Stages
 
 ## Related Strategies
 - 

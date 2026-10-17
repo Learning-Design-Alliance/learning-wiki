@@ -13,16 +13,20 @@ sources:
     title: Leonard JA 2015
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
   - id: leonard-ja-2015-2
     title: Leonard JA 2015 (2)
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Lower-SES adolescents have smaller hippocampal and DLPFC volumes but do not differ in caudate volumes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 2 studies · 2 associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` A repeated measures ANOVA on brain volumes showed a main effect of SES (η2 = 0.42) and an SES by region interaction (η2 = 0.12), indicating SES affected some regions more than others. [→ Leonard JA 2015](#leonard-ja-2015)
@@ -34,7 +38,7 @@ sources:
 
 Leonard JA, Mackey AP, Finn AS and Gabrieli JDE (2015) Differential effects of socioeconomic status on working and procedural memory systems. Front. Hum. Neurosci. 9:554. https://doi.org/10.3389/fnhum.2015.00554
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 Repeated measures ANOVA on Z-scored volumes of hippocampus, caudate, and DLPFC from 58 adolescents, controlling for sex. The "SES by region interaction" (F(1, 335) = 7.14, p < 0.001, η2 = 0.12) shows SES affected regions differentially.
 
@@ -44,7 +48,7 @@ Repeated measures ANOVA on Z-scored volumes of hippocampus, caudate, and DLPFC f
 
 Leonard JA, Mackey AP, Finn AS and Gabrieli JDE (2015) Differential effects of socioeconomic status on working and procedural memory systems. Front. Hum. Neurosci. 9:554. https://doi.org/10.3389/fnhum.2015.00554
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Post-hoc t-tests on each region by SES group found "Neither right nor left caudate volumes diﬀered signiﬁcantly between the SES groups" (right p = 0.77, left p = 0.57), while the article reports hippocampal and DLPFC volumes were significantly smaller in the lower-SES group (e.g., right DLPFC p < 0.001).
 
@@ -54,4 +58,6 @@ Post-hoc t-tests on each region by SES group found "Neither right nor left cauda
 
 
 ## Related Claims
--
+- [Exploratory ROI volume–behavior correlations within SES groups did not survive FDR correction](exploratory-roi-behavior-correlations-not-significant-after-fdr.md) — related
+- [Working memory capacity is significantly smaller in lower-SES than higher-SES adolescents](lower-ses-smaller-working-memory-capacity.md) — related
+- [Lower-SES and higher-SES adolescents did not significantly differ on probabilistic classification learning](no-ses-difference-probabilistic-classification.md) — related

@@ -15,18 +15,22 @@ sources:
     author: Occelli Valeria, Lacey Simon, Stephens Careese, Merabet Lotfi B., Sathian K.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: occelli-valeria-2017-2
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5436932/"
     title: "Occelli Valeria, Lacey Simon, Stephens Careese, Merabet Lotfi B., Sathian K. (2017). Enhanced Verbal Abilities in The Congenitally Blind. Experimental Brain Research. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5436932/"
     author: Occelli Valeria, Lacey Simon, Stephens Careese, Merabet Lotfi B., Sathian K.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Congenitally blind and sighted adults do not differ significantly on spatial memory or spatial imagery tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` ANCOVA showed no significant effect of visual status on spatial imagery performance between blind and sighted groups. [→ Occelli Valeria 2017](#occelli-valeria-2017)
@@ -38,7 +42,7 @@ sources:
 
 Occelli Valeria, Lacey Simon, Stephens Careese, Merabet Lotfi B., Sathian K. (2017). Enhanced Verbal Abilities in The Congenitally Blind. Experimental Brain Research. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5436932/
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 ANCOVA of spatial imagery (shape construction from four-digit strings in a 5 × 5 matrix) in 23 participants; one blind and one sighted participant were excluded for task difficulty. Blind "87.5 ± 3.6%" vs sighted "79.2 ± 3.2%", not significant.
 
@@ -48,7 +52,7 @@ ANCOVA of spatial imagery (shape construction from four-digit strings in a 5 × 
 
 Occelli Valeria, Lacey Simon, Stephens Careese, Merabet Lotfi B., Sathian K. (2017). Enhanced Verbal Abilities in The Congenitally Blind. Experimental Brain Research. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5436932/
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 ANCOVA of haptic spatial memory (Corsi-style 5 × 5 matrix with sandpapered cubes, tested behind a curtain) in the same 25 participants. Blind "70.6 ± 8.2%" vs sighted "68.3 ± 7.0%", not significant.
 
@@ -58,4 +62,4 @@ ANCOVA of haptic spatial memory (Corsi-style 5 × 5 matrix with sandpapered cube
 
 
 ## Related Claims
--
+- [Spatial memory correlates with spatial imagery in the congenitally blind but not the sighted](spatial-memory-imagery-correlation-blind-only.md) — related

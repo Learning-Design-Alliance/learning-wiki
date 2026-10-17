@@ -13,12 +13,14 @@ sources:
     title: Dry MJ 2012
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Baseline intercorrelations among the six tests were small, suggesting the battery covered relatively independent cognitive processes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Baseline correlations among the task measures were mostly non-significant, indicating the tasks measured different aspects of cognitive functioning. [→ Dry MJ 2012](#dry-mj-2012)
@@ -29,7 +31,7 @@ sources:
 
 Dry MJ, Burns NR, Nettelbeck T, Farquharson AL, White JM (2012) Dose-Related Effects of Alcohol on Cognitive Functioning. PLoS ONE 7(11): e50977. https://doi.org/10.1371/journal.pone.0050977
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Baseline correlational analysis of the eight dependent variables from the six tests in the 56-participant sample found only two weak correlations (SART measures r = .33; TSP with TMT-A r = .45), with the remainder statistically nonsignificant.
 
@@ -39,4 +41,6 @@ Baseline correlational analysis of the eight dependent variables from the six te
 
 
 ## Related Claims
--
+- [IAR and CDR factor scores intercorrelate too weakly to confirm the two instruments measure the same locus of control construct](iar-cdr-factor-scores-low-intercorrelations.md) — related
+- [Modes of interdependence are weakly or negligibly intercorrelated across brokerage offices](interdependence-modes-weakly-negatively-correlated.md) — related
+- [Teacher-rated inhibition (BRIEF) does not correlate with stroop-based cognitive inhibition measures](brief-uncorrelated-stroop-inhibition.md) — related

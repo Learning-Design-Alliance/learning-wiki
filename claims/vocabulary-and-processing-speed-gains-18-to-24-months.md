@@ -41,4 +41,9 @@ Descriptive longitudinal change analysis in the 27-dyad sample using parent-repo
 
 
 ## Related Claims
--
+- [Faster word recognition at 24 months is associated with larger vocabularies and greater vocabulary gains in Spanish-learning children](faster-word-recognition-linked-larger-vocabulary.md) — related
+- [Children of mothers who produced more word tokens at 18 months were faster to recognize familiar words at 24 months](maternal-input-predicts-faster-word-recognition.md) — related
+- [Substantial variability in maternal talk existed within this primarily low-SES sample, and maternal talk was uncorrelated with SES](maternal-talk-variability-within-low-ses-sample.md) — related
+- [Maternal talk influences on vocabulary and processing speed are largely overlapping, with each mediating the other's relation to input](overlapping-influences-input-vocabulary-processing.md) — related
+- [Children get faster at recognising familiar words in speech between 19 and 31 months of age](toddler-lexical-processing-speed-increases-19-31-months.md) — related
+- [Maternal talk quantity at 18 months predicts Spanish-learning children's vocabulary size and vocabulary gains at 24 months, controlling for earlier vocabulary](maternal-input-quantity-predicts-vocabulary-gains-spanish-learners.md) — related

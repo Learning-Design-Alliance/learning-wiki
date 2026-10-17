@@ -15,12 +15,14 @@ sources:
     author: Kelly Quinn
     q: 2
     i: 2
+    kind: causal
+    rigour: 1
 ---
 
 # Intervention participants' overall cognitive status (MMSE) increased over the study period, with the effect appearing after the workshop ended
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` MMSE scores rose significantly in the intervention group (d = .587), an increase the authors link to exposure to the workshop's learning environment. [→ Kelly Quinn 2018](#kelly-quinn-2018)
@@ -31,7 +33,7 @@ sources:
 
 Kelly Quinn. (2018). Cognitive Effects of Social Media Use: A Case of Older Adults. Social Media + Society. https://doi.org/10.1177/2056305118787203
 
-`q2 · i2`
+`q2 · i2` · `causal · r1`
 
 Within-group dependent t-test on MMSE scores for the 17 intervention participants in the wait-list controlled study. The article reports "d = .587" and interprets the increase as consistent with gains in executive-function measures and possibly reflecting "the effects of exposure to the learning environment of the workshop."
 
@@ -41,4 +43,4 @@ Within-group dependent t-test on MMSE scores for the 17 intervention participant
 
 
 ## Related Claims
--
+- [A 4-week social media training workshop improved inhibitory control within the intervention group of older adults, with a large effect over the full study period](social-media-training-improves-inhibitory-control-older-adults.md) — related

@@ -41,4 +41,10 @@ Cross-sectional group comparison of 86 children with ADHD-C, 27 with ADHD-I, and
 
 
 ## Related Claims
--
+- [Affect recognition deficits were not found unanimously across ADHD groups, suggesting a nuanced subtype-specific pattern](affect-deficits-not-unanimous-across-adhd-groups.md) — related
+- [Diagnostic validity analyses yield results similar to the prevalence findings for WM, STM, and motivational impairments](diagnostic-validity-similar-to-prevalence-results.md) — related
+- [The majority of children with ADHD-C is impaired on visuospatial working memory](majority-adhd-c-impaired-visuospatial-wm.md) — related
+- [Memory and motivation represent independent neuropsychological domains in children with ADHD](memory-motivation-independent-neuropsychological-domains.md) — related
+- [In the ADHD-I restrictive subtype, visuospatial WM impairments are more prevalent than in controls but STM impairments are not](adhd-i-wm-impaired-stm-not-more-common.md) — related
+- [Children with ADHD-C show impaired visuospatial STM and CE relative to typically developing controls, whereas children with ADHD-I show impaired CE but intact STM](adhd-subtype-stm-ce-dissociation.md) — related
+- [STM and WM performance is worse in ADHD-C than in ADHD-I, while CE-related performance does not differ between subtypes](adhd-c-worse-stm-wm-than-adhd-i.md) — related

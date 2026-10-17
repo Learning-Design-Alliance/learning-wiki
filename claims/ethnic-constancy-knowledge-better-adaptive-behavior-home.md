@@ -15,18 +15,22 @@ sources:
     author: "Serrano-Villar, M., & Calzada, E. J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: serrano-villar-2016-2
     resource: "https://doi.org/10.1016/j.appdev.2015.11.002"
     title: "Serrano-Villar, M., & Calzada, E. J. (2016). Ethnic identity: Evidence of protective effects for young, Latino children. Journal of Applied Developmental Psychology. https://doi.org/10.1016/j.appdev.2015.11.002"
     author: "Serrano-Villar, M., & Calzada, E. J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Ethnic constancy and knowledge are associated with better adaptive behavior at home, with no moderation by gender or ethnicity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q3`
 
 ## Subclaims
 `q3 i?` In regressions predicting parent-rated functioning, ethnic constancy and knowledge each showed a significant positive main effect on adaptive behavior at home. [→ Serrano-Villar 2016](#serrano-villar-2016)
@@ -38,7 +42,7 @@ sources:
 
 Serrano-Villar, M., & Calzada, E. J. (2016). Ethnic identity: Evidence of protective effects for young, Latino children. Journal of Applied Developmental Psychology. https://doi.org/10.1016/j.appdev.2015.11.002
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Linear regression models on 674 families predicting BASC-2 parent-rated adaptive behavior, controlling for poverty, mother's education, and single-parent home; Table 3 prints unstandardized B coefficients (e.g., constancy 3.04) with no effect sizes. "neither gender nor ethnicity moderated these effects."
 
@@ -48,7 +52,7 @@ Linear regression models on 674 families predicting BASC-2 parent-rated adaptive
 
 Serrano-Villar, M., & Calzada, E. J. (2016). Ethnic identity: Evidence of protective effects for young, Latino children. Journal of Applied Developmental Psychology. https://doi.org/10.1016/j.appdev.2015.11.002
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Null results from the same home-functioning regressions (Table 3): ethnic identity components showed no significant main or moderated associations with parent-rated externalizing or internalizing problems; no effect sizes are printed.
 
@@ -58,4 +62,6 @@ Null results from the same home-functioning regressions (Table 3): ethnic identi
 
 
 ## Related Claims
--
+- [At school, ethnic constancy and knowledge predict better adaptive behavior, and constancy predicts fewer externalizing and internalizing problems](ethnic-constancy-school-protective-adaptive-externalizing-internalizing.md) — related
+- [Ethnic identity associations with functioning are robust across child gender and ethnic group, and ethnic identity scores are uncorrelated with IQ](ethnic-identity-effects-robust-across-gender-ethnicity-uncorrelated-iq.md) — related
+- [Most young Latino children show emerging ethnic identity, with self-identification most prevalent (75%) and knowledge least prevalent (about 20%)](young-latino-children-emerging-ethnic-identity-prevalence.md) — related

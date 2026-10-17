@@ -41,4 +41,4 @@ Systematic review (PRISMA) of 53 studies with bilingual and monolingual groups a
 
 
 ## Related Claims
--
+- [Gender differences appear in academic achievement and several cognitive parameters but not in inhibition/interference or social skills](gender-differences-aa-cognitive-parameters.md) — related

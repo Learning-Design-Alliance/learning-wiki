@@ -15,12 +15,14 @@ sources:
     author: Blumenfeld Henrike K.; Marian Viorica
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Competitor activation relates to negative priming at different time windows in monolinguals and bilinguals
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Monolinguals showed a positive correlation between competitor activation and negative priming between 433 and 600 ms (r = .39, p < .05). [→ Blumenfeld Henrike K.; Marian Viorica 2011](#blumenfeld-henrike-k-marian-viorica-2011)
@@ -32,7 +34,7 @@ sources:
 
 Blumenfeld Henrike K.; Marian Viorica. (2011). Bilingualism influences inhibitory control in auditory comprehension. Cognition. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3582323/
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Correlation analysis linking eye-tracking competitor activation to negative-priming effects in the same study. "monolinguals (but not bilinguals) showed a positive relationship between competitor activation and negative priming (r = .39, p < .05)"; bilinguals showed a negative correlation (r = −.38, p < .05) in a later window.
 
@@ -42,4 +44,8 @@ Correlation analysis linking eye-tracking competitor activation to negative-prim
 
 
 ## Related Claims
--
+- [Bilinguals maintain target activation longer than monolinguals after the activation peak](bilinguals-maintain-target-activation-longer.md) — related
+- [Stroop inhibition correlates with linguistic competition resolution in bilinguals but not monolinguals](stroop-correlates-competitor-inhibition-bilinguals-not-monolinguals.md) — related
+- [Monolinguals but not bilinguals show residual inhibition of phonological competitors on negative-priming probes](monolinguals-not-bilinguals-residual-competitor-inhibition.md) — related
+- [Monolinguals and bilinguals show similar within-language competitor activation during auditory word recognition](similar-within-language-competitor-activation-monolinguals-bilinguals.md) — related
+- [Higher Spanish proficiency in bilinguals is associated with less residual competitor inhibition](spanish-proficiency-associated-less-residual-inhibition.md) — related

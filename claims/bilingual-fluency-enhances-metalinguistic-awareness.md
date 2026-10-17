@@ -74,3 +74,4 @@ This claim links a specific bilingual cognitive advantage to the broader constru
 - [Even bilingual children with limited heritage-language proficiency found creative ways to communicate different linguistic functions as needed](limited-proficiency-children-creative-communicative-workarounds.md) — related
 - Bilingual children acquire vocabulary and syntax in each language more slowly than monolingual children, yet show cognitive advantages and can match or surpass monolingual peers with support — related
 - [English learners can learn to read in English at the same rate as their monolingual peers in the primary grades](english-learners-read-same-rate-primary-grades.md) — related
+- [Design studies indicated metalinguistic information about how English spelling and pronunciation work helped adult learners remember and apply what they learned](metalinguistic-information-aids-adult-decoding-learning.md) — related

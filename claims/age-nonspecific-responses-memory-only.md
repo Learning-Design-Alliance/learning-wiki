@@ -46,3 +46,4 @@ Follow-up ANOVA for the memory experiment found older adults produced more non-s
 - [Older adults produced more external details than younger adults only in the memory experiment, not in problem solving](age-external-details-memory-only.md) — related
 - [Older adults produce fewer specific responses than younger adults in the generation task across both experiments](aging-fewer-specific-responses-generation.md) — related
 - [Older adults produce fewer internal details than younger adults during elaboration across both experiments](aging-fewer-internal-details-elaboration.md) — related
+- [Older adults manifest more than twice as many user difficulties as younger users in ICT contexts](older-adults-twice-user-difficulties-ict.md) — related

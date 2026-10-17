@@ -15,12 +15,14 @@ sources:
     author: Ana Rothes, Marina S. Lemos, and Teresa Gonçalves
     q: 2
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # Autonomous regulation correlates positively with self-efficacy, learning strategies, and behavioral engagement, while controlled regulation shows no significant linear relations with these outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i2` Autonomous regulation had significant positive correlations with all external variables except teacher-reported engagement, especially learning strategies (r = .48), behavioral engagement (r = .57), and self-efficacy (r = .45). [→ Ana Rothes 2017](#ana-rothes-2017)
@@ -31,7 +33,7 @@ sources:
 
 Ana Rothes, Marina S. Lemos, and Teresa Gonçalves. (2017). Motivational Profiles of Adult Learners. Adult Education Quarterly. https://doi.org/10.1177/0741713616669588
 
-`q2 · i3`
+`q2 · i3` · `associational · r1`
 
 Correlational analysis of all measured variables in the 188-participant sample (Table 1). Autonomous regulation correlated with learning strategies r = .48, behavioral engagement r = .57, and self-efficacy r = .45, all p < .01, as printed in the correlation table. Controlled regulation showed no significant correlations with these outcomes.
 
@@ -41,4 +43,9 @@ Correlational analysis of all measured variables in the 188-participant sample (
 
 
 ## Related Claims
--
+- [Adult learners score much higher in autonomous than controlled regulation, with autonomous regulation mean 3.44 versus controlled 2.42](adults-higher-autonomous-than-controlled-regulation.md) — related
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
+- [AI Prompting Literacy is indirectly and significantly associated with Deep Revision Engagement through Perceived Competence, Intrinsic Motivation, and Psychological Safety](apl-parallel-mediation-deep-revision.md) — related
+- [Pre-actional metacognitive, motivational, and positive-emotional components are positively associated with regulatory behavior in the actional phase, while anger and anxiety are negatively associated](pre-actional-components-predict-actional-regulation.md) — related
+- [Adult learners' motivation clusters into four profiles combining autonomous and controlled regulation, replicating the structure expected from SDT research with younger students](four-motivational-profiles-adult-learners.md) — related
+- [Motivational profile membership significantly predicts self-efficacy, learning strategies, and behavioral engagement, with high-autonomous groups scoring higher](profiles-predict-self-efficacy-strategies-engagement.md) — related

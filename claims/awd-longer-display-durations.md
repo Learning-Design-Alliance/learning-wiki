@@ -10,16 +10,19 @@ generated:
 evidence_strength: moderate
 sources:
   - id: moores-2011
-    title: Moores, E., Cassim, R. and Talcott, J.B. (2011). Adults with dyslexia exhibit large effects of crowding, increased dependence on cues, and detrimental effects of distractors in visual search tasks. Frontiers in Psychology.
+    resource: "https://doi.org/10.1016/j.neuropsychologia.2011.10.005"
+    title: "Moores, E., Cassim, R. and Talcott, J.B. (2011). Adults with dyslexia exhibit large effects of crowding, increased dependence on cues, and detrimental effects of distractors in visual search tasks. Frontiers in Psychology. [doi:10.1016/j.neuropsychologia.2011.10.005](https://doi.org/10.1016/j.neuropsychologia.2011.10.005)"
     author: Moores, E., Cassim, R. and Talcott, J.B.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # AwD required significantly longer calibrated display durations than controls despite attempts to equate overall accuracy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Average display durations differed significantly between the AwD and the control group, with AwD requiring longer durations (264ms vs. 246ms). [→ Moores 2011](#moores-2011)
@@ -30,7 +33,7 @@ sources:
 
 Moores, E., Cassim, R. and Talcott, J.B. (2011). Adults with dyslexia exhibit large effects of crowding, increased dependence on cues, and detrimental effects of distractors in visual search tasks. Frontiers in Psychology. [doi:10.1016/j.neuropsychologia.2011.10.005](https://doi.org/10.1016/j.neuropsychologia.2011.10.005)
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Calibration procedure footnote reporting a t-test on display durations titrated to achieve individual accuracy between 60% and 90%. AwD required significantly longer average display durations (264ms vs. 246ms, t(29)=4.62, p<.001) than controls.
 
@@ -40,4 +43,7 @@ Calibration procedure footnote reporting a t-test on display durations titrated 
 
 
 ## Related Claims
--
+- [Adults with dyslexia show disproportionately reduced discrimination accuracy in crowded displays compared to controls](awd-disproportionate-crowding-accuracy-deficit.md) — related
+- [The four-way interaction between cue, group, display type and difficulty was significant, with group differences largest for uncued crowded stimuli](four-way-cue-group-display-difficulty-interaction.md) — related
+- [Adults with dyslexia use pre-cues to enhance discrimination accuracy, with pre-cued performance exceeding both post-cued and uncued conditions](awd-pre-cue-signal-enhancement-benefit.md) — related
+- [AwD showed significant set size effects in uncued conditions alongside difficulty effects, unlike controls](awd-uncued-setsize-difficulty-effects.md) — related

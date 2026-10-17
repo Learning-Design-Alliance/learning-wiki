@@ -15,12 +15,14 @@ sources:
     author: Morales-Chicas Jessica, Graham Sandra
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Among Latino sixth graders, increases in same-ethnic representation from elementary to middle school are associated with higher school belonging and GPA, qualified by school ethnic diversity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` As representation of same-ethnic peers increased from elementary to middle school, Latino students reported more school belonging and earned higher GPAs. [→ Morales-Chicas Jessica 2017](#morales-chicas-jessica-2017)
@@ -31,7 +33,7 @@ sources:
 
 Morales-Chicas Jessica, Graham Sandra. (2017). Latinos’ Changing Ethnic Group Representation From Elementary to Middle School: Perceived Belonging and Academic Achievement. Journal of Research on Adolescence. https://doi.org/10.1111/jora.12292
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Hierarchical regression (Model 2, REML mixed-effects) of 1,552 students nested in 26 middle schools showed the main effect of ethnic representation change on belonging (b = 0.16, p < .05) and GPA (b = 0.37, p < .001); "students felt more like they belonged and achieved higher GPAs" as representation increased. Coefficients are unstandardized; no standardized effect size is printed.
 
@@ -41,4 +43,6 @@ Hierarchical regression (Model 2, REML mixed-effects) of 1,552 students nested i
 
 
 ## Related Claims
--
+- [School belonging and GPA were modestly positively correlated among Latino sixth graders (r = .20)](belonging-gpa-correlation-latino-sixth-graders.md) — related
+- [Latino girls reported higher belonging and achievement than boys, and Latino subgroup and parent-education differences emerged in the sixth grade](latino-gender-subgroup-covariate-differences.md) — related
+- [School ethnic diversity moderates the representation-change association: declining same-ethnic representation predicts lower belonging and GPA only in less diverse middle schools](school-ethnic-diversity-buffers-representation-decline.md) — a narrower finding that bears on this claim

@@ -15,12 +15,14 @@ sources:
     author: "Jirout, J. & Klahr, D."
     q: 2
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Preliminary cross-sectional data suggest curiosity may be unaffected by age or schooling in early childhood
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Preliminary cross-sectional analyses of preschool through first-grade children suggest curiosity may be unaffected by age or schooling. [→ Jirout 2011](#jirout-2011)
@@ -31,7 +33,7 @@ sources:
 
 Jirout, J. & Klahr, D. (2011). Children's scientific curiosity: In search of an operational definition of an elusive concept. Developmental Review (in press, draft). https://www.sciencedirect.com/journal/developmental-review
 
-`q2 · i?`
+`q2 · i?` · `associational · r?`
 
 The authors' preliminary cross-sectional data on curiosity in pre-school through first grade children, offered against the common belief that innate curiosity dissipates with age and schooling; the authors label the data preliminary.
 
@@ -41,4 +43,5 @@ The authors' preliminary cross-sectional data on curiosity in pre-school through
 
 
 ## Related Claims
--
+- [Higher-quality home environments are associated with higher parent-reported curiosity at kindergarten](home-environment-quality-associated-kindergarten-curiosity.md) — related
+- [No universally accepted operational definition of children's curiosity exists, and operational measures vary widely across studies](no-operational-definition-childrens-curiosity.md) — related

@@ -15,12 +15,14 @@ sources:
     author: Alberto Quilez-Robres, Alejandro González-Andrade, Zaira Ortega and Sandra Santiago-Ramajo
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Boys scored significantly higher than girls on IQ in the sample (p=.001)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` T-tests controlling for sex showed statistically significant differences in IQ (p=.001), with boys scoring 112.74 and girls 101.94. [→ Alberto Quilez-Robres 2020](#alberto-quilez-robres-2020)
@@ -31,7 +33,7 @@ sources:
 
 Alberto Quilez-Robres, Alejandro González-Andrade, Zaira Ortega and Sandra Santiago-Ramajo. (2020). Intelligence Quotient, short-term memory and study habits as academic achievement predictors of elementary school: a follow-up study. https://doi.org/10.1016/j.stueduc.2021.101020
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 T-tests on the baseline sample of 74 pupils (39 male/35 female) to control for sex. The article reports a significant IQ difference (p=.001) with boys at 112.74 and girls at 101.94; no effect size is printed.
 
@@ -41,4 +43,6 @@ T-tests on the baseline sample of 74 pupils (39 male/35 female) to control for s
 
 
 ## Related Claims
--
+- [Boys received more process praise and scored higher in 4th grade math than girls in this sample](gender-differences-process-praise-and-fourth-grade-math.md) — related
+- [Boys show greater fitness and physical activity than girls, but academic achievement does not differ by sex in this sample](sex-differences-fitness-activity-not-achievement.md) — related
+- [Girls scored lower than boys on fifth grade Numerical Operations, with the gap smaller in earlier grades, but no sex difference in fifth grade word reading](sex-difference-fifth-grade-numerical-operations.md) — related

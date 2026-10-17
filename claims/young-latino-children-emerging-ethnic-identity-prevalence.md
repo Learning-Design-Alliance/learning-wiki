@@ -41,4 +41,8 @@ Descriptive analysis of the Early Childhood Ethnic Identity Interview in a sampl
 
 
 ## Related Claims
--
+- [Ethnic identity components are more prevalent among kindergarten than pre-k children, consistent with developmental sequencing](ethnic-identity-components-emerge-kindergarten-over-prek.md) — related
+- [Ethnic constancy and preference are higher among Mexican American than Dominican American children](ma-children-higher-ethnic-constancy-preference-than-da.md) — related
+- [Ethnic identity associations with functioning are robust across child gender and ethnic group, and ethnic identity scores are uncorrelated with IQ](ethnic-identity-effects-robust-across-gender-ethnicity-uncorrelated-iq.md) — related
+- [Ethnic constancy and knowledge are associated with better adaptive behavior at home, with no moderation by gender or ethnicity](ethnic-constancy-knowledge-better-adaptive-behavior-home.md) — related
+- [At school, ethnic constancy and knowledge predict better adaptive behavior, and constancy predicts fewer externalizing and internalizing problems](ethnic-constancy-school-protective-adaptive-externalizing-internalizing.md) — related

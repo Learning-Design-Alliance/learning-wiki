@@ -40,7 +40,7 @@ The article recommends that future work move beyond cross-sectional correlationa
 - executive function
 
 ### Affordances
-- [Gut Microbiome Mechanism Sleep Cognitive Decline](../theories/gut-microbiome-mechanism-sleep-cognitive-decline.md)
+- Gut Microbiome Mechanism Sleep Cognitive Decline
 
 ## Related Strategies
 - 

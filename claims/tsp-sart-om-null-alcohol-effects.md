@@ -39,4 +39,7 @@ In the 56-participant experiment, the TSP main effect was non-significant (F = 2
 
 
 ## Related Claims
--
+- [Acute alcohol produces a significant main effect on performance on most cognitive tasks, with partial eta-squared effect sizes from 0.07 to 0.37, but not on TSP or SART-OM](alcohol-main-effect-nonuniform-cognitive-tasks.md) — possibly the same claim (merge candidate)
+- [The authors conclude Inspection Time has strong potential as a single marker test sensitive to the time course of alcohol intoxication](inspection-time-marker-potential.md) — related
+- [Only SOPT, IT and SART-CO showed significant impairment at the lowest blood alcohol concentration of 0.048%, with large effect sizes (d = 0.76, 0.65 and 1.06)](three-tasks-sensitive-bac-0048.md) — related
+- [SART-CO errors rose sharply at BAC 0.048% but changed little thereafter across the 0.048% to 0.10% range, with a suspected ceiling effect](sart-co-ceiling-low-dose.md) — related

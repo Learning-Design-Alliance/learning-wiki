@@ -15,12 +15,14 @@ sources:
     author: "Thevenot, C., Dewi, J., Bagnoud, J., Wolfer, P., Fayol, M., & Castel, C."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Problem type modulated solution times, with large problems slowest and +1 problems fastest in both age groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Solution times varied by problem type (ηp2 = .58): large problems (947 ms) were slower than +0 (835 ms), small (809 ms), tie (770 ms), and +1 problems (747 ms). [→ Thevenot 2018](#thevenot-2018)
@@ -31,7 +33,7 @@ sources:
 
 Thevenot, C., Dewi, J., Bagnoud, J., Wolfer, P., Fayol, M., & Castel, C. (2018). The use of automated procedures by older adults with high arithmetic skills during addition problem solving. https://eric.ed.gov/?id=ED
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 ANOVA on solution times across five problem categories in both age groups. "Large problems were solved slower (947 ms)" than +0 problems, which did not differ from small problems; ties (770 ms) and +1 problems (747 ms) were fastest.
 
@@ -41,4 +43,7 @@ ANOVA on solution times across five problem categories in both age groups. "Larg
 
 
 ## Related Claims
--
+- [Older adults were slower than young adults overall on solution times, with no age difference in accuracy](age-slowness-no-accuracy-difference.md) — related
+- [Older adults' slowdown relative to young adults is far smaller for problems interpreted as procedurally solved than for retrieval-solved problems](differential-aging-cost-procedure-vs-retrieval.md) — related
+- [Sign priming effects in addition occur for large, small, and +1 problems but not for tie or +0 problems in older adults](problem-type-priming-pattern-older.md) — related
+- [Presenting the '+' sign 150 ms before operands speeds up addition problem solving in expert older adults, replicating the effect found in young adults](sign-priming-addition-older-adults.md) — related

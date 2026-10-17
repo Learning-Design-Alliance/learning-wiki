@@ -49,3 +49,4 @@ Hierarchical regression (Model 2) predicting performance expectations in the sam
 - [The achievement goal model's pattern of results holds for both younger and older adult age groups](goal-model-holds-across-age-groups.md) — related
 - [High-performance feedback increases self-efficacy more than low-performance feedback, with comparable effects across younger and older adults](high-performance-feedback-increases-self-efficacy-across-age-groups.md) — related
 - [Problem solving accuracy showed age-related declines but no significant main effect of feedback; a marginal Age × Feedback interaction reflected age differences only within the high-PFB group](problem-solving-accuracy-age-declines-no-feedback-effect.md) — related
+- [Fake social-comparative feedback combined with fictional malleability information successfully induces large changes in self-efficacy beliefs](fake-feedback-induces-self-efficacy-changes.md) — related

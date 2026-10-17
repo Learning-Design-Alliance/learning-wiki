@@ -62,4 +62,5 @@ ANCOVA with Bonferroni pairwise post-hoc comparisons across combined PA and MD g
 
 
 ## Related Claims
--
+- [The study's cross-sectional self-report design does not allow causal inference about lifestyle habits and academic achievement](cross-sectional-design-limits-causal-inference-lifestyle-achievement.md) — related
+- [Higher Mediterranean diet adherence is associated with lower risk of cognitive impairment in older adults without dementia](mediterranean-diet-adherence-lower-cognitive-impairment-risk.md) — related

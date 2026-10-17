@@ -15,12 +15,14 @@ sources:
     author: Ana Rothes, Marina S. Lemos, and Teresa Gonçalves
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Adult learners below secondary education show higher controlled regulation and lower academic self-concept and learning strategies than those above it
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Participants below the secondary education level had significantly higher controlled regulation and scored lower in academic self-concept and learning strategies than participants with at least secondary education. [→ Ana Rothes 2017](#ana-rothes-2017)
@@ -31,7 +33,7 @@ sources:
 
 Ana Rothes, Marina S. Lemos, and Teresa Gonçalves. (2017). Motivational Profiles of Adult Learners. Adult Education Quarterly. https://doi.org/10.1177/0741713616669588
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Independent t tests comparing 99 participants below secondary education with 89 at or above it (Table 2): controlled regulation t = 6.14, p < .001; academic self-concept t = −3.09, p < .01; learning strategies t = −2.17, p < .05. The article prints these group means and test values.
 
@@ -41,4 +43,5 @@ Independent t tests comparing 99 participants below secondary education with 89 
 
 
 ## Related Claims
--
+- [Adult learners score much higher in autonomous than controlled regulation, with autonomous regulation mean 3.44 versus controlled 2.42](adults-higher-autonomous-than-controlled-regulation.md) — related
+- [Controlled motivation showed no negative effects on the desirable outcomes measured, and no profile differences emerged in academic self-concept or teacher-reported engagement](controlled-motivation-no-negative-effects-desirable-outcomes.md) — reports the opposite

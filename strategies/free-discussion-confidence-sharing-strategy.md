@@ -40,7 +40,7 @@ The article recommends that groups making perceptual or collective decisions per
 - improving perceptual discrimination and collaborative decision-making accuracy
 
 ### Affordances
-- [Explicit Metacognition Uniquely Human Collaboration](../theories/explicit-metacognition-uniquely-human-collaboration.md)
+- [Explicit Metacognition Uniquely Human Collaboration](../theories/metacognition.md)
 
 ## Related Strategies
 - 

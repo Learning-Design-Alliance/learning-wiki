@@ -13,12 +13,14 @@ sources:
     title: Skagerlund K 2019
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Math anxiety has a statistically significant indirect effect on arithmetic calculation through working memory (affective drop pathway)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` In a path model of arithmetic, MA exerted a statistically significant indirect effect on arithmetic calculation via working memory (standardized estimate = -.15, p = .001). [→ Skagerlund K 2019](#skagerlund-k-2019)
@@ -29,7 +31,7 @@ sources:
 
 Skagerlund K, Östergren R, Västfjäll D, Träff U (2019) How does mathematics anxiety impair mathematical abilities? Investigating the link between math anxiety, working memory, and number processing. PLoS ONE 14(1): e0211283. https://doi.org/10.1371/journal.pone.0211283
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Confirmatory SEM path analysis of arithmetic calculation in a sample of 170 Swedish adults, estimated in Mplus 7. The model showed reasonable fit (χ2 = 49.14 (31), p = .020, CFI = .96, RMSEA = 0.06) and "explained 56% of the variance of arithmetic". The indirect MA→WM→arithmetic path was "statistically significant" with standardized estimate = -.15.
 
@@ -39,4 +41,8 @@ Confirmatory SEM path analysis of arithmetic calculation in a sample of 170 Swed
 
 
 ## Related Claims
--
+- [Math anxiety has a direct effect on arithmetic calculation above and beyond the indirect pathways](ma-direct-effect-arithmetic.md) — related
+- [Math anxiety has a statistically significant indirect effect on arithmetic calculation through symbolic number processing](ma-indirect-effect-np-arithmetic.md) — related
+- [Math anxiety impairs numeracy primarily through working memory, with no significant indirect effect through number processing](ma-wm-pathway-numeracy.md) — related
+- [The relative strength of MA's pathways varies by mathematical task type: WM dominates for numeracy, both WM and number processing operate for arithmetic](ma-pathways-vary-by-task-type.md) — a broader claim this one bears on
+- [Working memory and symbolic number processing are both linked to adult arithmetic and numeracy, replicating prior research](wm-np-predict-adult-math.md) — related

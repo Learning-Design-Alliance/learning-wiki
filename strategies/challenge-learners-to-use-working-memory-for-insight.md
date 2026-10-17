@@ -39,7 +39,7 @@ For algebraic transitivity, the article notes that lining up equations verticall
 - application of principles beyond the original problem
 
 ### Affordances
-- [Working Memory Accessible State Definition](../theories/working-memory-accessible-state-definition.md)
+- [Working Memory Accessible State Definition](../theories/information-processing-theory.md)
 
 ## Related Strategies
 - 

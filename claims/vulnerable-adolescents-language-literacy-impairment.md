@@ -58,4 +58,4 @@ Observational study of adolescents in state care (Snow et al., 2020): 92% below 
 
 
 ## Related Claims
--
+- [Most children with emotional and behavioral disorders have undiagnosed language impairment](ebd-undiagnosed-language-impairment.md) — related

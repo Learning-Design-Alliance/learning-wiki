@@ -37,7 +37,7 @@ The article recommends that speech-language pathologists deliver "assessment, in
 - Oral language and literacy skills supporting academic achievement and participation in the social and economic mainstream
 
 ### Affordances
-- [Language House Framework Snow](../theories/language-house-framework-snow.md)
+- Language House Framework Snow
 
 ## Related Strategies
 - 

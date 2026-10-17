@@ -41,4 +41,8 @@ Cross-sectional logistic regression of unhealthy food and beverage intake (more 
 
 
 ## Related Claims
--
+- [The study's cross-sectional self-report design does not allow causal inference about lifestyle habits and academic achievement](cross-sectional-design-limits-causal-inference-lifestyle-achievement.md) — related
+- [High intake of fruit and berries is associated with increased odds of high academic achievement in girls and boys, and high vegetable intake in girls](fruit-berries-vegetable-intake-associated-academic-achievement.md) — related
+- [Regular breakfast consumption is associated with increased odds of high academic achievement in Norwegian adolescent girls and boys, most strongly in girls](regular-breakfast-associated-high-academic-achievement-norwegian-adolescents.md) — related
+- [Regular lunch consumption is associated with increased odds of high academic achievement in both girls and boys, and regular dinner and an all-meals pattern in boys](regular-lunch-dinner-meal-pattern-associated-achievement-boys.md) — related
+- [Smoking and snuffing are inversely associated with high academic achievement in both adolescent girls and boys](smoking-snuffing-inversely-associated-academic-achievement.md) — related

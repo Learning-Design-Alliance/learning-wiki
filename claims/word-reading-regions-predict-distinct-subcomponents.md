@@ -41,4 +41,7 @@ ROI regression analyses (n = 21) in the Results section, with cognitive measures
 
 
 ## Related Claims
--
+- [Word reading efficiency and sentence comprehension show distinct behavioral subcomponent profiles: word reading correlates with phonological subcomponents, comprehension with morphological awareness and orthography-semantic mapping](behavioral-subcomponent-dissociation-word-comprehension.md) — related
+- [For sentence comprehension regions, LPHP thickness is correlated with morphological awareness and RV1 thickness with orthography-semantic mapping](comprehension-regions-morphology-orthosemantic.md) — related
+- [The word-reading and comprehension cortical regions are specific to their respective reading level: cross-level correlations were nonsignificant after FDR correction](level-specific-ct-reading-regions.md) — related
+- [In Chinese children aged 10-12, oral word reading efficiency is positively correlated with cortical thickness in the LSTG, LITG, LSMG and RSTG](word-reading-ct-temporoparietal-occipitotemporal-chinese-children.md) — a broader claim this one bears on

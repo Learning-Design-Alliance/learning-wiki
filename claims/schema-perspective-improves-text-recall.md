@@ -45,3 +45,4 @@ The essay reports a free-recall experiment by Kardash, Royer, and Greene (1988) 
 
 ## Related Claims
 - [Subjects with a more developed schema for a body of knowledge show higher recall for materials related to that knowledge](developed-schema-higher-recall.md) — a broader claim this one bears on
+- [Free recall of expository text is higher under a study goal than under an entertainment goal](study-goal-better-free-recall.md) — related

@@ -54,3 +54,4 @@ The review's own moderator analysis plan (age, gender, screen size, dosage, SAMR
 - [GenAI used on mobile devices shows a larger motivational effect than GenAI used on computers (exploratory)](genai-motivation-effect-larger-mobile-devices.md) — related
 - Meta-analysis offers additional strengths of increased statistical power, moderator analyses, and model testing — related
 - [Most reviewed SEL studies did not test diversity characteristics as moderators, and those that did found inconsistent moderation effects](sel-moderation-tests-rare-inconsistent.md) — related
+- [The authors judge insufficient instructional intensity (dosage) as the primary factor behind the null result of learning strategies instruction in adult education](insufficient-dosage-primary-factor-null-strategy-outcome.md) — related

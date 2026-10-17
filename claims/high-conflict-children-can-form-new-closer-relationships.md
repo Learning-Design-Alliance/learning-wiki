@@ -15,12 +15,14 @@ sources:
     author: Portilla Ximena A., Ballard Parissa J., Adler Nancy E., Boyce W. Thomas, Obradović Jelena
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Kindergarten-spring conflict is positively associated with first-grade closeness, driven by high-conflict children, suggesting an opportunity for a fresh start
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Counterintuitively, kindergarten-spring conflict positively predicted first-grade closeness (β = .20, p < .001); pairwise correlations showed this held only for children with high kindergarten-spring conflict (r = .25, p < .05). [→ Portilla Ximena A. 2014](#portilla-ximena-a-2014)
@@ -31,7 +33,7 @@ sources:
 
 Portilla Ximena A., Ballard Parissa J., Adler Nancy E., Boyce W. Thomas, Obradović Jelena. (2014). An Integrative View of School Functioning: Transactions between Self-Regulation, School Engagement, and Teacher-Child Relationship Quality. Child development. https://doi.org/10.1111/cdev.12259
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Post-hoc partial pairwise correlations, controlling for first-grade conflict and splitting the sample at the mean, showed the positive conflict-to-closeness association "emerged for children who experienced high conflict at kindergarten spring (r = .25, p < .05)" only.
 
@@ -41,4 +43,6 @@ Post-hoc partial pairwise correlations, controlling for first-grade conflict and
 
 
 ## Related Claims
--
+- [Low self-regulation (inattention and impulsivity) at kindergarten entry predicts greater teacher-child conflict by kindergarten spring, and this effect persists into first grade](low-self-regulation-predicts-teacher-conflict-persisting.md) — related
+- [Teacher-child closeness shows concurrent benefits but no prospective spillover to other domains once conflict covariation is controlled](closeness-benefits-concurrent-not-prospective.md) — related
+- [Kindergarten teacher-child conflict and low self-regulation jointly predict decreases in school engagement, which in turn predicts first-grade academic competence](conflict-and-self-regulation-reduce-engagement-then-competence.md) — related

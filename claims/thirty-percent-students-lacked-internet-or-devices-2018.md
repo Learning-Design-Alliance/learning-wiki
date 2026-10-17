@@ -65,3 +65,4 @@ A spring 2020 national ParentsTogether survey of parents, reported in the Priori
 - Lack of home computer and broadband access hinders FAFSA completion policy implementation, particularly in rural and low-income areas — a narrower finding that bears on this claim
 - [AI in adult education risks reinforcing existing inequalities via the digital divide, particularly for rural, low-income, and marginalized learners](ai-digital-divide-reinforces-inequality.md) — related
 - [Digital infrastructure readiness determines the scalability and effectiveness of AI systems in higher education, with disparities between high-income and low-income regions](infrastructure-readiness-determines-ai-scalability.md) — related
+- [Most Digital Café participants had home Internet but no one to help with everyday computer learning needs](cafe-participants-home-internet-no-help.md) — related

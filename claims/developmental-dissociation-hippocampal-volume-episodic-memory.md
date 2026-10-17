@@ -15,12 +15,14 @@ sources:
     author: Ghetti Simona; Bunge Silvia A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Hippocampal volume relates to episodic memory differently across development: adults show head/body associations, children show tail associations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In adults, smaller hippocampal head and larger hippocampal body were associated with stronger episodic memory; in children, positive associations were found with the hippocampal tail instead. [→ Ghetti Simona; Bunge Silvia A 2012](#ghetti-simona-bunge-silvia-a-2012)
@@ -31,7 +33,7 @@ sources:
 
 Ghetti Simona; Bunge Silvia A. (2012). Neural Changes Underlying the Development of Episodic Memory During Middle Childhood. Developmental cognitive neuroscience. https://doi.org/10.1016/j.dcn.2012.05.002
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Recent study (DeMaster, Pathman, & Ghetti, 2012, as reviewed) reporting developmental differences in regional hippocampal volume–episodic memory associations; age-related decreases in head volume and increases in body volume were also found, consistent with Gogtay et al. (2006).
 
@@ -41,4 +43,7 @@ Recent study (DeMaster, Pathman, & Ghetti, 2012, as reviewed) reporting developm
 
 
 ## Related Claims
--
+- [Hippocampal microstructure continues maturing after early childhood: anterior hippocampus loses mass and posterior hippocampus gains mass from age 4 to 25](hippocampus-anterior-loss-posterior-gain-age-4-25.md) — related
+- [Exploratory ROI volume–behavior correlations within SES groups did not survive FDR correction](exploratory-roi-behavior-correlations-not-significant-after-fdr.md) — related
+- [Chronicity, developmental timing, and intensity of adversity exposure shape children's neurobiological stress responses](adversity-timing-intensity-shape-responses.md) — related
+- [Early life stress produces structural and functional alterations in prefrontal-hippocampal-amygdala circuits in animals and humans, with reduced hippocampal volume among the most reliable human findings](els-pfc-hippocampus-amygdala-alterations.md) — related

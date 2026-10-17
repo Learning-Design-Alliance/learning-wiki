@@ -39,4 +39,9 @@ Observed correlations in Table 1 for N = 3,146 trainees; TSC correlated 0.16 wit
 
 
 ## Related Claims
--
+- [Fluid reasoning, not trait self-control, predicts low-stakes standardized mathematics and physics test scores](fluid-reasoning-predicts-low-stakes-standardized-tests.md) — related
+- [Post hoc analysis: trait self-control relates to grades positively only for trainees above very low fluid reasoning levels](johnson-neyman-tsc-mgpa-fluid-reasoning-region.md) — related
+- [Trait self-control is significantly associated with major GPA beyond fluid reasoning and conscientiousness in vocational trainees](trait-self-control-incremental-mgpa-vocational-trainees.md) — related
+- [Trait self-control and conscientiousness overlap substantially, and conscientiousness slightly outperforms self-control for grades](tsc-conscientiousness-overlap-and-comparison.md) — related
+- [No significant trait self-control × fluid reasoning interaction effects on grades or standardized test scores](no-tsc-fluid-reasoning-interaction-achievement.md) — related
+- [Fluid reasoning and self-control jointly explain far more variance in standardized test scores than in grades](variance-explained-tests-versus-grades.md) — related

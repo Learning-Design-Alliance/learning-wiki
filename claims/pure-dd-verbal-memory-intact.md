@@ -44,3 +44,6 @@ In the 12 DD vs 12 control comparison, verbal STM (Digit Recall, Word Recall) an
 
 ## Related Claims
 - [Verbal STM/WM and several executive and sensorimotor measures show no robust relation with math in children with normal reading skill](no-relation-verbal-memory-executive-math.md) — related
+- [Adults with a history of developmental dyscalculia show impaired verbal short-term memory for serial order but preserved item recall](dyscalculia-adults-serial-order-deficit-item-preserved.md) — reports the opposite
+- [Serial order short-term memory deficits in dyscalculia persist into adulthood despite typical math achievement history](serial-order-deficit-persists-adulthood-dyscalculia.md) — related
+- [Short-term memory task profiles differ by age: 7–8-year-olds show no verbal–spatial difference, while 9–10-year-olds show a verbal > visuo-spatial > motor gradient.](stm-task-profiles-differ-by-age.md) — related

@@ -41,4 +41,6 @@ Partial correlations (controlling for age) between raw MCDI scores at time of te
 
 
 ## Related Claims
--
+- [Normal-hearing children demonstrate novel word learning on the IPLP task at approximately 18 months of age and older](nh-word-learning-emerges-18-months.md) — related
+- [Age is significantly and negatively correlated with passive-sentence production accuracy across all four task conditions in Korean adults](age-negatively-correlated-passive-sentence-production.md) — related
+- [After controlling for age, WM correlates significantly only with the most demanding condition (priming task, noncanonical word order)](wm-partial-correlation-only-priming-noncanonical.md) — related

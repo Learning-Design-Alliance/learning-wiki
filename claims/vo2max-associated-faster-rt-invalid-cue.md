@@ -39,4 +39,7 @@ Linear mixed model analysis of reaction times from 54 male high-school students 
 
 
 ## Related Claims
--
+- [Reaction times differ significantly across all three cue conditions, with fastest RT for valid cues and slowest for no-cue stimuli](rt-differs-across-cue-conditions.md) — related
+- [Higher cardiorespiratory fitness is associated with faster reaction times for stimuli following valid cues in healthy male high-school students](vo2max-associated-faster-rt-valid-cue.md) — related
+- [Cardiorespiratory fitness is not associated with reaction times for uncued stimuli in healthy male high-school students](vo2max-not-associated-rt-no-cue.md) — related
+- [Cardiorespiratory fitness (VO2max) is the physical fitness measure most strongly correlated with cognitive functioning in adolescents](vo2max-best-correlated-cognition.md) — a broader claim this one bears on

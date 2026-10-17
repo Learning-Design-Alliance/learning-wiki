@@ -15,12 +15,14 @@ sources:
     author: "Stefansdottir, R., Gundersen, H., Rognvaldsdottir, V., Lundervold, A. S., Gestsdottir, S., Gudmundsdottir, S. L., Chen, K. Y., Brychta, R. J. & Johannsson, E."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Shorter time in bed the night before testing is associated with slower 3-back response times in older adolescents
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Among 160 adolescents, rest duration the night before cognitive testing was negatively associated with 3-back response time (β = −0.22, p = 0.005), the only association surviving false-discovery-rate correction. [→ Stefansdottir 2020](#stefansdottir-2020)
@@ -31,7 +33,7 @@ sources:
 
 Stefansdottir, R., Gundersen, H., Rognvaldsdottir, V., Lundervold, A. S., Gestsdottir, S., Gudmundsdottir, S. L., Chen, K. Y., Brychta, R. J. & Johannsson, E. (2020). Association between free-living sleep and memory and attention in healthy adolescents. Scientific Reports 10:16877. https://doi.org/10.1038/s41598-020-73774-x
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Linear regression analysis in 160 adolescents adjusted for ADHD diagnosis, weekly videogame use, and 1-back response time; the printed standardized beta was β = −0.22 [−0.38, −0.07] (p = 0.005), described as an "inverse correlation between total rest times the night prior to the cognitive task and 3-back response times".
 
@@ -41,4 +43,7 @@ Linear regression analysis in 160 adolescents adjusted for ADHD diagnosis, weekl
 
 
 ## Related Claims
--
+- [Sleep the night before cognitive testing resembles weekly averages except for an earlier mid-sleep time](acute-sleep-matches-weekly-averages.md) — related
+- [Adolescents with 7 hours or less total rest time show longer 3-back response times, both acutely and averaged over the week](seven-hour-rest-threshold-3back-response.md) — related
+- [Free-living sleep measures show no association with visual attention task performance in older adolescents](sleep-no-visual-attention-association.md) — related
+- [Weekly average sleep measures show no association with working memory performance in older adolescents](weekly-sleep-no-working-memory-association.md) — reports the opposite

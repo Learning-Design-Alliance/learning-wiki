@@ -15,12 +15,14 @@ sources:
     author: Pandey A, Hale D, Das S, Goddings A-L, Blakemore S-J, Viner RM
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Heterogeneity in self-regulation outcomes was partly accounted for by assessment method, with restriction to task performance scores reducing I2 from 77% to 39.3%.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Restriction of analysis to studies measuring SR through performance testing reduced the I2 score from 77% to 39.3%, indicating assessment method partly accounted for heterogeneity. [→ Pandey A 2018](#pandey-a-2018)
@@ -31,7 +33,7 @@ sources:
 
 Pandey A, Hale D, Das S, Goddings A-L, Blakemore S-J, Viner RM. (2018). Effectiveness of Universal Self-regulation–Based Interventions in Children and Adolescents: A Systematic Review and Meta-analysis. JAMA Pediatrics. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6059379/
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Meta-analysis exploring sources of heterogeneity across 42 interventions with 13,405 participants. The review reports "We found that restriction of analysis to the studies that measured SR through performance testing requiring SR skills reduced the I2 score from 77% to 39.3% (Figure 3)."
 
@@ -41,4 +43,5 @@ Meta-analysis exploring sources of heterogeneity across 42 interventions with 13
 
 
 ## Related Claims
--
+- [Some interventions brought more improvements in self-regulation measures of those with lower baseline scores, offering promise for resource-constrained settings.](greater-sr-gains-for-lower-baseline-scores.md) — related
+- [Universal self-regulation interventions improve self-regulation in children and adolescents, with a pooled effect size of d = 0.42 (95% CI, 0.32-0.53) on task performance scores.](universal-sr-interventions-improve-sr-pooled-d-042.md) — related

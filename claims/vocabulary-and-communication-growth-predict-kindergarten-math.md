@@ -41,4 +41,7 @@ Multilevel models predicting Wave 3 Applied Problems scores for 164 Head Start c
 
 
 ## Related Claims
--
+- [Vocabulary showed accelerating linear growth and social communication skills showed decelerating linear growth from preschool to kindergarten, with substantial individual variation](differential-growth-trajectories-vocabulary-versus-social-communication.md) — related
+- [Initial levels of vocabulary and social communication skills each predict kindergarten reading achievement, but only rate of growth in social communication skills incrementally predicts reading](social-communication-growth-uniquely-predicts-kindergarten-reading.md) — related
+- [Social communication skills uniquely predict teacher-rated kindergarten learning behaviors after accounting for vocabulary](social-communication-uniquely-predicts-kindergarten-learning-behaviors.md) — related
+- [Positive preschool interpersonal relationships predict kindergarten academic achievement controlling for initial achievement](preschool-relationships-predict-kindergarten-achievement.md) — related

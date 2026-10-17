@@ -43,4 +43,5 @@ The review reports, citing Kloo and Perner (2003), a training study of 3- and 4-
 
 
 ## Related Claims
--
+- [Children's cognitive flexibility improved on average from preschool to first grade](cognitive-flexibility-increases-preschool-to-first-grade.md) — related
+- [Infants and adults automatically take account of others' false beliefs, as shown by looking time and reaction time](implicit-belief-representation-infants-adults.md) — related

@@ -15,18 +15,22 @@ sources:
     author: "Dweck, C. S., & Yeager, D. S."
     q: 3
     i: "?"
+    kind: review
+    rigour: 1
   - id: dweck-2019-2
     resource: "https://doi.org/10.1177/1745691618804166"
     title: "Dweck, C. S., & Yeager, D. S. (2019). Mindsets: A View From Two Eras. Perspectives on Psychological Science. https://doi.org/10.1177/1745691618804166"
     author: "Dweck, C. S., & Yeager, D. S."
     q: 3
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Fixed mindsets predict stronger stereotyping and trait inferences, with experimental evidence of a causal role
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · review `r1` · `q3`
 
 ## Subclaims
 `q3 i?` People endorsing a fixed mindset made stronger stereotypical judgments of ethnic and occupational groups and more extreme trait judgments of new groups, and manipulated mindsets suggested a causal role. [→ Dweck 2019](#dweck-2019)
@@ -38,7 +42,7 @@ sources:
 
 Dweck, C. S., & Yeager, D. S. (2019). Mindsets: A View From Two Eras. Perspectives on Psychological Science. https://doi.org/10.1177/1745691618804166
 
-`q3 · i?`
+`q3 · i?` · `review · r1`
 
 Five studies by Levy, Stroessner, and Dweck (1998) on domain-general mindsets and group stereotyping; the article reports fixed-mindset endorsers "made stronger stereotypical judgments of ethnic and occupational groups". No effect sizes are printed in the quoted text.
 
@@ -48,7 +52,7 @@ Five studies by Levy, Stroessner, and Dweck (1998) on domain-general mindsets an
 
 Dweck, C. S., & Yeager, D. S. (2019). Mindsets: A View From Two Eras. Perspectives on Psychological Science. https://doi.org/10.1177/1745691618804166
 
-`q3 · i?`
+`q3 · i?` · `review · r1`
 
 Four studies by Plaks, Stroessner, Dweck, and Sherman (2001) on attention to stereotype-consistent versus conflicting information; a fixed mindset, measured or manipulated, was "associated with heightened attention to information that was consistent with and supportive of existing stereotypes". No effect sizes are printed.
 
@@ -58,4 +62,6 @@ Four studies by Plaks, Stroessner, Dweck, and Sherman (2001) on attention to ste
 
 
 ## Related Claims
--
+- [The more girls endorse gender-interest stereotypes favoring boys, the lower their own interest in computer science and engineering, and interest stereotypes predict girls' interest more strongly than ability stereotypes](gender-interest-stereotypes-predict-girls-lower-interest.md) — related
+- [Biased LLM assistance increases students' gender-stereotypic occupational recommendations: 71.4% of biased-condition essays recommended a gender-stereotypic occupation versus 45.0% (control) and 39.0% (neutral)](biased-llm-assistance-raises-stereotype-congruence-career-choices.md) — related
+- [A neutrally configured LLM assistant produced the lowest rate of gender-stereotypic occupation suggestions, below even the no-AI control condition](neutral-llm-assistant-attenuates-baseline-stereotyping.md) — related

@@ -46,3 +46,4 @@ Theoretical argument in Section 3.3 of the position paper: the authors argue, wi
 - [Latent profile analysis of pre-service teachers' CT skills identifies three profiles (Novice, Developing, Proficient), revealing heterogeneous, non-linear skill acquisition](three-ct-profiles-preservice-teachers-lpa.md) — related
 - [Retention trajectories diverged by centre: Centre 1 retained gains at 30 days while Centre 2 showed significant post-to-delayed decay](podcast-retention-divergence-massed-vs-distributed.md) — related
 - [Topic-wise gains were heterogeneous, with some topics showing no meaningful change](podcast-topic-wise-gain-heterogeneity.md) — related
+- [Punishment for unfair play depends on perceived agency and responsibility, not only on monetary outcome](agency-responsibility-altruistic-punishment.md) — related

@@ -15,12 +15,14 @@ sources:
     author: "Miller, M., Hanford, R. B., Fassbender, C., Duke, M., & Schweitzer, J. B."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Inattentive symptoms are significantly positively correlated with fearful and vocal channel affect recognition errors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Inattentive symptoms significantly predicted fearful errors (β = .47, p = .033) and vocal channel errors (β = .46, p = .036) in regression analyses. [→ Miller 2011](#miller-2011)
@@ -31,7 +33,7 @@ sources:
 
 Miller, M., Hanford, R. B., Fassbender, C., Duke, M., & Schweitzer, J. B. (2011). Affect Recognition in Adults with Attention-Deficit/Hyperactivity Disorder. Journal of Attention Disorders. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3950374/
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Hierarchical regression analyses (Table 3) on the full sample of 51 adults, entering self-rated inattention at Step 1 for fearful and vocal channel DANVA error outcomes. "Fearful Errors Step 1: IA scores 0.22 0.05 0.125 0.47 2.20 0.033" shows inattentive symptoms significantly predicted fearful errors; vocal channel errors showed a similar significant association (β = .46, p = .036).
 
@@ -41,4 +43,7 @@ Hierarchical regression analyses (Table 3) on the full sample of 51 adults, ente
 
 
 ## Related Claims
--
+- [Adults with ADHD-Inattentive type make significantly more fearful affect recognition errors than non-ADHD controls on the DANVA](adhd-inattentive-adults-more-fearful-affect-errors.md) — related
+- [Inattentive symptoms are positively associated with sad affect recognition errors while hyperactive-impulsive symptoms are negatively associated](inattentive-symptoms-positive-hyperactive-negative-sad-errors.md) — related
+- [Affect recognition deficits were not found unanimously across ADHD groups, suggesting a nuanced subtype-specific pattern](affect-deficits-not-unanimous-across-adhd-groups.md) — related
+- [No significant differences in affect recognition errors emerged between the ADHD-Combined group and controls or between the ADHD-C and ADHD-I groups](no-adhd-combined-affect-recognition-differences.md) — reports the opposite

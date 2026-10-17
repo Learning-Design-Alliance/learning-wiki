@@ -116,3 +116,5 @@ either. Any design that rests on this claim is resting on a mechanism, and shoul
 - [Cognitive offloading to AI during early learning can stifle development of stable knowledge and skills](ai-offloading-stifles-early-development.md) — related
 - [AIxSpeed phoneme-level adaptive playback yields higher listenability ratings than constant-speed playback at matched average speed](aixspeed-adaptive-playback-higher-listenability.md) — related
 - [Disabled readers show working memory deficits at every age on the blocked listening span task](disabled-readers-lower-listening-span-all-ages.md) — a narrower finding that bears on this claim
+- [Adults who completed supplemental basic-skills tutoring showed significant pre-to-post gains across a battery of decoding, word recognition, fluency, and comprehension measures](adult-completers-significant-gains-basic-reading.md) — related
+- [Automaticity does not predict decoding or reading comprehension in middle-school students](automaticity-not-predict-decoding-comprehension.md) — related

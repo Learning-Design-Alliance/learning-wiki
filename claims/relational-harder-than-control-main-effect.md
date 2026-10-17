@@ -15,18 +15,22 @@ sources:
     author: Dumontheil Iroise, Wolf Laura K., Blakemore Sarah-Jayne
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
   - id: dumontheil-iroise-2016-2
     resource: "https://doi.org/10.1016/j.neuropsychologia.2016.05.001"
     title: "Dumontheil Iroise, Wolf Laura K., Blakemore Sarah-Jayne. (2016). Audience effects on the neural correlates of relational reasoning in adolescence. Neuropsychologia. https://doi.org/10.1016/j.neuropsychologia.2016.05.001"
     author: Dumontheil Iroise, Wolf Laura K., Blakemore Sarah-Jayne
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Relational integration is less accurate and slower than single-relation matching regardless of audience or age
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Participants were less accurate in the Relational (90.3%) than Control (96.3%) condition, F(1,31)=22.98, p<0.001, ηp2=.426. [→ Dumontheil Iroise 2016](#dumontheil-iroise-2016)
@@ -38,7 +42,7 @@ sources:
 
 Dumontheil Iroise, Wolf Laura K., Blakemore Sarah-Jayne. (2016). Audience effects on the neural correlates of relational reasoning in adolescence. Neuropsychologia. https://doi.org/10.1016/j.neuropsychologia.2016.05.001
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Mixed-design ANOVA on accuracy across the 33 participants showed a main effect of Task with Relational accuracy of 90.3% versus Control 96.3%; no main effect of Audience or Age group on accuracy.
 
@@ -48,7 +52,7 @@ Mixed-design ANOVA on accuracy across the 33 participants showed a main effect o
 
 Dumontheil Iroise, Wolf Laura K., Blakemore Sarah-Jayne. (2016). Audience effects on the neural correlates of relational reasoning in adolescence. Neuropsychologia. https://doi.org/10.1016/j.neuropsychologia.2016.05.001
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Mixed-design ANOVA on reaction time across the 33 participants showed a main effect of Task with Relational RT of 2016 ms versus Control 1473 ms; no other significant main effects or interactions for RT (all ps>0.2).
 
@@ -58,4 +62,7 @@ Mixed-design ANOVA on reaction time across the 33 participants showed a main eff
 
 
 ## Related Claims
--
+- [The dual-task condition is more difficult than the single-task condition, with a condition-by-modality interaction in reaction time](dual-task-difficulty-condition-modality-interaction.md) — related
+- [A peer audience decreases accuracy in the complex relational integration condition in both adolescents and adults](peer-audience-decreases-relational-integration-accuracy.md) — reports the opposite
+- [Incongruent dot comparison trials are less accurate and slower than congruent trials, consistent with an added inhibition step](incongruent-dot-trials-slower-less-accurate.md) — related
+- [Dot Task accuracy decreased from congruent to incongruent to mixed trials, with condition accuracies positively correlated](dot-task-accuracy-gradient-congruent-incongruent-mixed.md) — related

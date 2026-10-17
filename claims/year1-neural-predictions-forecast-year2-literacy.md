@@ -54,4 +54,6 @@ In the same 34-child longitudinal cohort, Year 1 neural model predictions also p
 
 
 ## Related Claims
--
+- [A consonants-in-noise model derived in 4-year-olds generalizes to predict rapid naming and sentence memory in preschoolers, though not sentence memory in 3-year-olds](consonants-in-noise-score-predicts-rapid-naming-and-sentence-memory.md) — related
+- [Neural coding of consonants in noise strongly predicts phonological processing in 4-year-old pre-readers over and above demographic factors](neural-coding-consonants-noise-predicts-phonological-processing-prereaders.md) — related
+- [The consonants-in-noise model predicts concurrent reading in school-aged children and reliably classifies externally diagnosed learning disability, being most effective at clearing children as unlikely to have an LD](consonants-in-noise-model-predicts-reading-and-diagnostic-category-older-children.md) — related

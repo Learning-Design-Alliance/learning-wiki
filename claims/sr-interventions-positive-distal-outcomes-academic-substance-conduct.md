@@ -15,12 +15,14 @@ sources:
     author: Pandey A, Hale D, Das S, Goddings A-L, Blakemore S-J, Viner RM
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Self-regulation interventions showed positive associations with distal outcomes: academic achievement in 11 of 13 studies (85%), substance abuse in 4 of 5 (80%), and conduct disorders, social skills, depression, behavioral problems, and school suspensions in all reporting studies.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Positive associations were reported in 11 of 13 studies (85%) on academic achievement, 4 of 5 studies on substance abuse (80%), and in all studies reporting on conduct disorders (n = 3), social skills (n = 2), depression (n = 2), behavioral problems (n = 2), and school suspensions (n = 1). [→ Pandey A 2018](#pandey-a-2018)
@@ -31,7 +33,7 @@ sources:
 
 Pandey A, Hale D, Das S, Goddings A-L, Blakemore S-J, Viner RM. (2018). Effectiveness of Universal Self-regulation–Based Interventions in Children and Adolescents: A Systematic Review and Meta-analysis. JAMA Pediatrics. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6059379/
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Narrative review of distal health and social outcomes from 24 of 49 studies (49%) reporting such data. The review reports "Positive associations were reported in 11 of 13 studies (85%) on academic achievement, 4 of 5 studies on substance abuse (80%), and in all studies reporting on conduct disorders (n = 3), studies on social skills (n = 2), studies on depression (n = 2), studies on behavioral problems (n = 2), and study on school suspensions (n = 1)."
 
@@ -41,4 +43,7 @@ Narrative review of distal health and social outcomes from 24 of 49 studies (49%
 
 
 ## Related Claims
--
+- [Self-management interventions targeted math calculation skills most often, with mean effect sizes of 2.66 for social studies, 2.28 for reading, 1.97 for math, and 1.13 for writing](self-management-ebd-academic-area-es.md) — related
+- [Effects on secondary behavioural outcomes (conduct problems, delinquency, substance use) are negligible or non-significant](secondary-behavioural-outcomes-negligible-nonsignificant.md) — related
+- [Academic self-management interventions for students with emotional and behavioral disorders show a large overall mean effect size of 1.80 across 22 studies](self-management-ebd-overall-es-1-80.md) — related
+- [One study found the intervention effect on conduct problems was stronger for youth at greater risk of developing conduct problems.](stronger-conduct-problem-prevention-for-higher-risk-youth.md) — related

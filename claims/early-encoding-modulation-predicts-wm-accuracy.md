@@ -48,3 +48,4 @@ EEG study (Rutman et al.) using a delayed-response task with overlapping face an
 - [Predictive cues aid transfer of perceptual representations into working memory via pre-encoding top-down modulation](predictive-cues-pre-encoding-modulation-wm-benefit.md) — related
 - [Perceptual attention is probably necessary but not sufficient for encoding stimuli into working memory](perceptual-attention-necessary-not-sufficient-wm-encoding.md) — related
 - [Retro-cues during maintenance dynamically modulate working memory representations and confer large performance benefits](retro-cues-dynamically-modulate-wm-maintenance.md) — related
+- [Post-hoc finding: P1 latency was increased for attended versus unattended unilateral stimuli, selectively over the ipsilateral ROI](p1-latency-increased-attended-ipsilateral.md) — related

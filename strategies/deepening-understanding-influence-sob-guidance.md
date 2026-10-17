@@ -39,7 +39,7 @@ sources:
 - deepening understanding in online learning
 
 ### Affordances
-- [Coif Influences Trusting Meaning Making Deepening Understanding](../theories/coif-influences-trusting-meaning-making-deepening-understanding.md)
+- Coif Influences Trusting Meaning Making Deepening Understanding
 
 ## Related Strategies
 - Tutors Nurture Online Sob Facilitation

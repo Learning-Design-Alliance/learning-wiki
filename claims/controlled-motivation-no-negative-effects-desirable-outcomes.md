@@ -15,18 +15,22 @@ sources:
     author: Ana Rothes, Marina S. Lemos, and Teresa Gonçalves
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: ana-rothes-2017-2
     resource: "https://doi.org/10.1177/0741713616669588"
     title: "Ana Rothes, Marina S. Lemos, and Teresa Gonçalves. (2017). Motivational Profiles of Adult Learners. Adult Education Quarterly. https://doi.org/10.1177/0741713616669588"
     author: Ana Rothes, Marina S. Lemos, and Teresa Gonçalves
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Controlled motivation showed no negative effects on the desirable outcomes measured, and no profile differences emerged in academic self-concept or teacher-reported engagement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Post hoc tests found no significant differences between any groups in academic self-concept, and univariate ANOVA found no significant effect of cluster membership on teacher-reported engagement. [→ Ana Rothes 2017](#ana-rothes-2017)
@@ -38,7 +42,7 @@ sources:
 
 Ana Rothes, Marina S. Lemos, and Teresa Gonçalves. (2017). Motivational Profiles of Adult Learners. Adult Education Quarterly. https://doi.org/10.1177/0741713616669588
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Follow-up analyses in the MANCOVA on 188 participants; teacher-reported engagement was collected only from 124 participants in short and long vocational courses because large higher-education classes prevented teacher ratings. No significant cluster effects on either variable.
 
@@ -48,7 +52,7 @@ Follow-up analyses in the MANCOVA on 188 participants; teacher-reported engageme
 
 Ana Rothes, Marina S. Lemos, and Teresa Gonçalves. (2017). Motivational Profiles of Adult Learners. Adult Education Quarterly. https://doi.org/10.1177/0741713616669588
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 The authors' interpretation of the pairwise comparisons: the good-quality group beat the high-quantity group only in self-efficacy, so controlled motivation combined with autonomous motivation was not harmful for the desirable outcomes measured. Equiv
 
@@ -58,4 +62,6 @@ The authors' interpretation of the pairwise comparisons: the good-quality group 
 
 
 ## Related Claims
--
+- [Motivational profile membership significantly predicts self-efficacy, learning strategies, and behavioral engagement, with high-autonomous groups scoring higher](profiles-predict-self-efficacy-strategies-engagement.md) — reports the opposite
+- [Adult learners below secondary education show higher controlled regulation and lower academic self-concept and learning strategies than those above it](educational-level-controlled-regulation-self-concept.md) — reports the opposite
+- [Adult learners' motivation clusters into four profiles combining autonomous and controlled regulation, replicating the structure expected from SDT research with younger students](four-motivational-profiles-adult-learners.md) — related

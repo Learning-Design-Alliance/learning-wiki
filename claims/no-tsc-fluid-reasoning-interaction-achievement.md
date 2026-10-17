@@ -13,12 +13,14 @@ sources:
     title: Schmidt FTC 2020
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # No significant trait self-control × fluid reasoning interaction effects on grades or standardized test scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` The hypothesized positive interaction between trait self-control and fluid reasoning was not statistically significant for mGPA (β = 0.03, p = 0.134), mathematics (p = 0.822), or physics (p = 0.460). [→ Schmidt FTC 2020](#schmidt-ftc-2020)
@@ -29,7 +31,7 @@ sources:
 
 Schmidt FTC, Lindner C, Etzel JM and Retelsdorf J (2020) Self-Control Outdoes Fluid Reasoning in Explaining Vocational and Academic Performance—But Does It? Front. Psychol. 11:757. https://doi.org/10.3389/fpsyg.2020.00757
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Regression analysis with interaction terms probed via Johnson–Neyman; Table 2 prints TSC × Fluid Rea. estimates of 0.03, 0.00, and 0.01 with p-values 0.134, 0.822, and 0.460 — "no signiﬁcant interaction eﬀects" for any outcome.
 
@@ -39,4 +41,8 @@ Regression analysis with interaction terms probed via Johnson–Neyman; Table 2 
 
 
 ## Related Claims
--
+- [Fluid reasoning, not trait self-control, predicts low-stakes standardized mathematics and physics test scores](fluid-reasoning-predicts-low-stakes-standardized-tests.md) — related
+- [Post hoc analysis: trait self-control relates to grades positively only for trainees above very low fluid reasoning levels](johnson-neyman-tsc-mgpa-fluid-reasoning-region.md) — related
+- [Post hoc findings question whether all students benefit equally from efforts to foster trait self-control](self-control-fostering-unequal-benefit-questioned.md) — related
+- [Trait self-control is significantly associated with major GPA beyond fluid reasoning and conscientiousness in vocational trainees](trait-self-control-incremental-mgpa-vocational-trainees.md) — related
+- [Trait self-control correlates with grades but not with standardized test scores at the bivariate level](tsc-correlates-grades-not-standardized-tests.md) — related

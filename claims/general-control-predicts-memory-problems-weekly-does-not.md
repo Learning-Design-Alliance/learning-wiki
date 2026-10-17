@@ -15,12 +15,14 @@ sources:
     author: Hahn Elizabeth A. Ph.D., Lachman Margie E. Ph.D.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Lower general perceived control predicts more everyday memory problems, but weekly within-person control fluctuations do not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Lower general (between-person) perceived control was a significant predictor of more everyday memory problems, while weekly fluctuations in perceived control were not related to memory problems. [→ Hahn Elizabeth A. Ph.D. 2014](#hahn-elizabeth-a-phd-2014)
@@ -31,7 +33,7 @@ sources:
 
 Hahn Elizabeth A. Ph.D., Lachman Margie E. Ph.D. (2014). Everyday Experiences of Memory Problems and Control: The Adaptive Role of Selective Optimization with Compensation in the Context of Memory Decline. Neuropsychology, development, and cognition. Section B, Aging, neuropsychology and cognition. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4156931/
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Adjusted multilevel model (n = 103) separating within-person and between-person control. General perceived control: Est. = -3.70, p < .001; weekly control slope: Est. = -0.06, p = .806. The article reports lower general control "was a significant predictor of a greater number of everyday memory problems."
 
@@ -41,4 +43,8 @@ Adjusted multilevel model (n = 103) separating within-person and between-person 
 
 
 ## Related Claims
--
+- [Lower weekly perceived control correlates with more everyday memory problems at the within-person level](weekly-control-correlates-with-memory-problems.md) — related
+- [Low weekly perceived control predicts more memory problems among adults with greater memory decline and low SOC strategy use (three-way interaction)](soc-buffers-low-control-effects-under-memory-decline.md) — related
+- [Higher education predicts more everyday memory problems, consistent with awareness and stress-exposure explanations](higher-education-predicts-more-memory-problems.md) — related
+- [Selection strategies predict fewer memory problems regardless of decline extent; optimization and compensation are adaptive mainly under greater decline](soc-subscale-sensitivity-selection-versus-optimization-compensation.md) — related
+- [Greater ten-year working memory decline predicts more everyday memory problems in adjusted multilevel analyses](working-memory-decline-predicts-everyday-memory-problems.md) — related

@@ -45,3 +45,4 @@ Within the PF condition (n = 55), correlations between solution attempt measures
 ## Related Claims
 - [PF students reported more awareness of knowledge gaps than example observers, but awareness of knowledge gaps did not correlate with conceptual knowledge acquisition](knowledge-gap-awareness-not-linked-to-learning.md) — related
 - [Prior knowledge moderated the VF-process advantage over PF: the benefit of observing the process grew with prior knowledge, while prior knowledge did not affect post-test performance in the PF condition](prior-knowledge-moderates-vf-process-vs-pf.md) — related
+- [Objective feedback is neither necessary nor sufficient for the group advantage; discussion is the critical factor](feedback-not-needed-for-group-advantage.md) — related

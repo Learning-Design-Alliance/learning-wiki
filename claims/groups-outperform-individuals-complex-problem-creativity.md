@@ -15,12 +15,14 @@ sources:
     author: Gardiner Paul
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Groups outperform individuals when devising creative solutions to real-world complex problems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Groups outperform individuals when asked to devise creative solutions to real-world complex problems, and diverse groups are more creative than homogeneous teams. [→ Gardiner Paul 2020](#gardiner-paul-2020)
@@ -31,7 +33,7 @@ sources:
 
 Gardiner Paul. (2020). Learning to think together: Creativity, interdisciplinary collaboration and epistemic control. Thinking Skills and Creativity. https://doi.org/10.1016/j.tsc.2020.100749
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The article reports, citing Sawyer (2012), that "groups outperform individuals" on creative solutions to real-world complex problems and that diverse groups are more creative than homogeneous teams. No effect size is printed; this is a second-hand citation in a conceptual synthesis.
 
@@ -41,4 +43,5 @@ The article reports, citing Sawyer (2012), that "groups outperform individuals" 
 
 
 ## Related Claims
--
+- [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](collaborative-situations-often-fail-productive.md) — related
+- [Homogeneous grouping for reading instruction and heterogeneous grouping for discussion groups each serve distinct purposes](mixed-homogeneous-heterogeneous-grouping.md) — related

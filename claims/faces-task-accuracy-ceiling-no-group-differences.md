@@ -15,12 +15,14 @@ sources:
     author: Bialystok Ellen, Viswanathan Mythili
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Faces-task accuracy was near ceiling with no language-group or gender differences, and gender was dropped from RT analyses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Mean accuracy ranged from 97% to 98% with no differences between language groups or gender, and RT data were collapsed across gender. [→ Bialystok Ellen 2009](#bialystok-ellen-2009)
@@ -31,7 +33,7 @@ sources:
 
 Bialystok Ellen, Viswanathan Mythili. (2009). Components of Executive Control with Advantages for Bilingual Children in Two Cultures. Cognition. https://doi.org/10.1016/j.cognition.2009.06.014
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Accuracy check preceding the RT analyses of the faces task in ninety 8-year-olds. The article reports that an initial RT analysis indicated no main effect or interactions for gender, so data were collapsed across gender.
 
@@ -41,4 +43,4 @@ Accuracy check preceding the RT analyses of the faces task in ninety 8-year-olds
 
 
 ## Related Claims
--
+- [Bilingual children showed a nonsignificant advantage on the hardest theory-of-mind comprehension question, and MAIN comprehension questions may be too easy for the age range](tom2-bilingual-advantage-nonsignificant-comprehension-ceiling.md) — related

@@ -51,3 +51,4 @@ Growth-model analysis of longitudinal SEL data from a large urban district (abou
 - [Self-management status and growth across middle school predict lower odds of having a GPA below a C and of being suspended in 9th grade, but not chronic absenteeism](self-management-status-growth-predict-off-track-9th-grade.md) — a broader claim this one bears on
 - [71 percent of CCSD 8th graders were on track for graduation at the end of 9th grade in 2015/16](ccsd-71-percent-on-track-end-of-9th-grade.md) — related
 - [8th grade growth mindset and academic behavior self-reports positively predicted 9th grade on-track status; performance avoidance did not](mindset-behavior-predict-on-track-performance-avoidance-does-not.md) — related
+- [Academic self-regulation in 8th grade robustly predicts both GPA and school adjustment in 9th grade](asr-predicts-gpa-and-school-adjustment.md) — related

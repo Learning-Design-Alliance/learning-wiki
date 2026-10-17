@@ -15,12 +15,14 @@ sources:
     author: "Miller, M., Hanford, R. B., Fassbender, C., Duke, M., & Schweitzer, J. B."
     q: 3
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # Inattentive symptoms are positively associated with sad affect recognition errors while hyperactive-impulsive symptoms are negatively associated
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` In hierarchical regression, inattentive symptoms predicted more sad affect errors (β = .54, p = .011) and hyperactive-impulsive symptoms predicted fewer errors (β = −.53, p = .014), with the overall model significant (R² = .10, p = .014). [→ Miller 2011](#miller-2011)
@@ -31,7 +33,7 @@ sources:
 
 Miller, M., Hanford, R. B., Fassbender, C., Duke, M., & Schweitzer, J. B. (2011). Affect Recognition in Adults with Attention-Deficit/Hyperactivity Disorder. Journal of Attention Disorders. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3950374/
 
-`q3 · i3`
+`q3 · i3` · `associational · r1`
 
 Hierarchical regression analysis on the full sample of 51 adults testing self-rated inattention (Step 1) and hyperactivity-impulsivity (Step 2) as predictors of DANVA sad affect errors. "the regression for Sad Affect Errors was statistically significant, R2 = .10, p = .014." Inattentive symptoms were associated with more errors (β = .54, p = .011); hyperactive-impulsive symptoms with fewer errors (β = −.53, p = .014).
 
@@ -41,4 +43,6 @@ Hierarchical regression analysis on the full sample of 51 adults testing self-ra
 
 
 ## Related Claims
--
+- [Inattentive symptoms are significantly positively correlated with fearful and vocal channel affect recognition errors](inattentive-symptoms-fearful-vocal-error-correlations.md) — related
+- [Affect recognition deficits were not found unanimously across ADHD groups, suggesting a nuanced subtype-specific pattern](affect-deficits-not-unanimous-across-adhd-groups.md) — related
+- [Adults with ADHD-Inattentive type make significantly more fearful affect recognition errors than non-ADHD controls on the DANVA](adhd-inattentive-adults-more-fearful-affect-errors.md) — related

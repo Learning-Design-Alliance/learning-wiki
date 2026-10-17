@@ -64,3 +64,5 @@ This meta-analysis pooled 29 controlled pre-post studies (N = 3,765, k = 89 effe
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — related
 - [Spatial Skills Improve Through Block Building](spatial-skills-improve-through-block-building.md) — related
 - [Training effects were larger on outcome measures aligned with the trained skill (blending, segmenting) than on less aligned measures](alignment-trained-skill-larger-effects-phonological-awareness.md) — a narrower finding that bears on this claim
+- [A spatial STEM curriculum yields far transfer to improved verbal deductive reasoning in high school students, including on nonspatial relation trials](spatial-curriculum-transfers-to-verbal-reasoning.md) — a narrower finding that bears on this claim
+- [Some aspects of spatial skills are more predictive of mathematical development than others, so the construct must be differentiated](spatial-skills-aspects-differ-in-math-predictivity.md) — related

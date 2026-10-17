@@ -15,18 +15,22 @@ sources:
     author: Boot Nathalie, Nevicka Barbara, Baas Matthijs
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: boot-nathalie-2017-2
     resource: "https://doi.org/10.1177/1087054717727352"
     title: "Boot Nathalie, Nevicka Barbara, Baas Matthijs. (2017). Creativity in ADHD: Goal-Directed Motivation and Domain Specificity. Journal of Attention Disorders. https://doi.org/10.1177/1087054717727352"
     author: Boot Nathalie, Nevicka Barbara, Baas Matthijs
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Intrinsic motivation during idea generation does not differ between adults with ADHD and controls
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In Study 1, motivation ratings did not differ between the medicated ADHD, nonmedicated ADHD, and control groups, F(2, 104) = .02, p = .977, ηp2 < .01. [→ Boot Nathalie 2017](#boot-nathalie-2017)
@@ -38,7 +42,7 @@ sources:
 
 Boot Nathalie, Nevicka Barbara, Baas Matthijs. (2017). Creativity in ADHD: Goal-Directed Motivation and Domain Specificity. Journal of Attention Disorders. https://doi.org/10.1177/1087054717727352
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Study 1 online study (N = 107) measured intrinsic motivation after each AUT trial with four items (α = .88). The article reports "motivation ratings did not differ between the three groups"; no effect size was printed for this null finding.
 
@@ -48,7 +52,7 @@ Study 1 online study (N = 107) measured intrinsic motivation after each AUT tria
 
 Boot Nathalie, Nevicka Barbara, Baas Matthijs. (2017). Creativity in ADHD: Goal-Directed Motivation and Domain Specificity. Journal of Attention Disorders. https://doi.org/10.1177/1087054717727352
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Study 2 manipulation-check ANOVA on motivation ratings during the AUT. The article reports no group differences and no group × competition interaction; no effect size was printed for these nulls.
 
@@ -58,4 +62,8 @@ Study 2 manipulation-check ANOVA on motivation ratings during the AUT. The artic
 
 
 ## Related Claims
--
+- [Adults with ADHD rate themselves as more creative in the performance and mechanical/scientific domains](adhd-domain-specific-self-perceived-creativity.md) — related
+- [Adults with ADHD generate more original ideas under competition for a bonus, but not without competition](adhd-originality-increases-under-competition.md) — related
+- [Medication use does not affect creativity measures in adults with ADHD](no-medication-effect-on-creativity-adhd.md) — related
+- [In adults with ADHD, dopamine D2/D3 receptor and DAT availability in the reward pathway correlate positively with trait motivation](da-reward-pathway-correlates-trait-motivation-adhd.md) — related
+- [Adults with ADHD score lower on the MPQ Achievement scale, a surrogate trait measure of motivation, than controls](adhd-lower-mpq-achievement-scale.md) — related

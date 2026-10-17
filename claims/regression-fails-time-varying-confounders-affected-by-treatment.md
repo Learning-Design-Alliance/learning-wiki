@@ -15,12 +15,14 @@ sources:
     author: Wodtke, Geoffrey T.; Harding, David J.; Elwert, Felix
     q: 1
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Conventional regression models cannot consistently estimate effects of time-varying treatments when time-varying confounders are affected by past treatment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · associational `r3` · `q1`
 
 ## Subclaims
 `q1 i?` A directed acyclic graph analysis shows regression adjustment for a time-varying confounder both removes indirect effects of past treatment (over-control) and induces collider-stratification bias. [→ Wodtke 2011](#wodtke-2011)
@@ -31,7 +33,7 @@ sources:
 
 Wodtke, Geoffrey T.; Harding, David J.; Elwert, Felix. (2011). Neighborhood Effects in Temporal Perspective. American Sociological Review. https://doi.org/10.1177/0003122411420816
 
-`q1 · i?`
+`q1 · i?` · `associational · r3`
 
 Analytical demonstration using a two-wave directed acyclic graph (Figure 1). Conditioning on L2 removes the indirect effect of past treatment and, because L2 is a "collider" variable, creates a new biasing path between unobserved factors and prior treatment.
 
@@ -41,4 +43,6 @@ Analytical demonstration using a two-wave directed acyclic graph (Figure 1). Con
 
 
 ## Related Claims
--
+- [IPT-weighted estimates of neighborhood effects on high school graduation are substantially larger than conventional regression-adjusted estimates](ipt-estimates-larger-than-regression-estimates.md) — related
+- [Confounding may explain the large retention effects reported for the Course Signals early warning system](course-signals-confounding-number-of-classes.md) — related
+- [Propensity score matching produced baseline-equivalent treatment and comparison groups on all measured variables](psm-baseline-equivalence-mtss-study.md) — related

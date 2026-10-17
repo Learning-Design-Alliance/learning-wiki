@@ -15,12 +15,14 @@ sources:
     author: Alberto Quilez-Robres, Alejandro González-Andrade, Zaira Ortega and Sandra Santiago-Ramajo
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # IQ, short-term memory and study habits each correlate positively and significantly with academic achievement in both 3rd and 4th grade
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` All three predictor variables show statistically significant positive Pearson correlations with achievement in both school years (p<.01), with IQ showing the strongest coefficients (r = .543 in 3rd grade; r = .656 in 4th grade). [→ Alberto Quilez-Robres 2020](#alberto-quilez-robres-2020)
@@ -31,7 +33,7 @@ sources:
 
 Alberto Quilez-Robres, Alejandro González-Andrade, Zaira Ortega and Sandra Santiago-Ramajo. (2020). Intelligence Quotient, short-term memory and study habits as academic achievement predictors of elementary school: a follow-up study. https://doi.org/10.1016/j.stueduc.2021.101020
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Pearson correlations (age included as a control variable) among IQ, memory, study habits and grades in both years. Table 3 prints r = .543 (IQ, 3rd grade), r = .656 (IQ, 4th grade), r = .282/.293 (memory) and r = .658/.491 (study habits), all at p<.01.
 
@@ -41,4 +43,8 @@ Pearson correlations (age included as a control variable) among IQ, memory, stud
 
 
 ## Related Claims
--
+- [In predicting the change in achievement from 3rd to 4th grade, IQ is positively and study habits negatively associated with change, together predicting 12%](iq-and-study-habits-opposite-effects-on-achievement-change.md) — reports the opposite
+- [IQ and study habits, but not short-term memory, significantly predict 56-59% of academic achievement variance in 3rd and 4th grade elementary pupils](iq-and-study-habits-predict-elementary-achievement-56-59-percent.md) — related
+- [Predictive weights of IQ, memory and study habits do not differ significantly between 3rd and 4th grade](predictor-weights-stable-across-two-grades.md) — related
+- [In latent-variable SEM models, intelligence — not working memory — is the significant direct predictor of academic outcomes in both childhood and early adulthood](sem-iq-only-significant-predictor.md) — related
+- [IQ and working memory are reliable predictors of academic achievement at the beginning of school when domain knowledge is not controlled](iq-and-wm-predict-early-academic-achievement.md) — related

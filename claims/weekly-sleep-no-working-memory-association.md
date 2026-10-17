@@ -41,4 +41,9 @@ Null result from the same linear regression models in 160 adolescents; the autho
 
 
 ## Related Claims
--
+- [Sleep the night before cognitive testing resembles weekly averages except for an earlier mid-sleep time](acute-sleep-matches-weekly-averages.md) — related
+- [Older adolescents show high night-to-night variability in free-living sleep duration, which may obscure sleep-cognition associations](night-to-night-sleep-variability-adolescents.md) — related
+- [Adolescents with 7 hours or less total rest time show longer 3-back response times, both acutely and averaged over the week](seven-hour-rest-threshold-3back-response.md) — reports the opposite
+- [Free-living sleep measures show no association with visual attention task performance in older adolescents](sleep-no-visual-attention-association.md) — related
+- [Five nights of sleep restriction cause lower quiz performance in a simulated classroom among adolescents](sleep-restriction-lowers-simulated-classroom-quiz-scores.md) — related
+- [Shorter time in bed the night before testing is associated with slower 3-back response times in older adolescents](acute-rest-time-slower-3back-response.md) — reports the opposite

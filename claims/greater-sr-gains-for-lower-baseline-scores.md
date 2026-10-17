@@ -15,12 +15,14 @@ sources:
     author: Pandey A, Hale D, Das S, Goddings A-L, Blakemore S-J, Viner RM
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Some interventions brought more improvements in self-regulation measures of those with lower baseline scores, offering promise for resource-constrained settings.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Some interventions brought more improvements in SR measures of those with lower baseline scores, which can be particularly useful when limited resources are available. [→ Pandey A 2018](#pandey-a-2018)
@@ -31,7 +33,7 @@ sources:
 
 Pandey A, Hale D, Das S, Goddings A-L, Blakemore S-J, Viner RM. (2018). Effectiveness of Universal Self-regulation–Based Interventions in Children and Adolescents: A Systematic Review and Meta-analysis. JAMA Pediatrics. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6059379/
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Narrative review discussion of differential intervention effects. The review states "Also, some interventions brought more improvements in SR measures of those with lower baseline scores.43,63 Such interventions can be particularly useful when limited resources are available, and there is need to design interventions for the most vulnerable children and adolescents."
 
@@ -41,4 +43,7 @@ Narrative review discussion of differential intervention effects. The review sta
 
 
 ## Related Claims
--
+- [Family-based interventions improved self-regulation in 5 of 9 studies (56%) and had longer follow-up durations than other intervention types.](family-based-interventions-improved-sr-5-of-9.md) — related
+- [Universal self-regulation interventions improve self-regulation in children and adolescents, with a pooled effect size of d = 0.42 (95% CI, 0.32-0.53) on task performance scores.](universal-sr-interventions-improve-sr-pooled-d-042.md) — a broader claim this one bears on
+- [Exercise-based interventions improved self-regulation in 4 of 6 interventions (67%), significant on conventional tests of statistical significance.](exercise-based-interventions-improved-sr-4-of-6.md) — related
+- [Heterogeneity in self-regulation outcomes was partly accounted for by assessment method, with restriction to task performance scores reducing I2 from 77% to 39.3%.](heterogeneity-partly-accounted-by-assessment-method-task-scores.md) — related

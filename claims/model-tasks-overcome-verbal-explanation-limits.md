@@ -47,3 +47,4 @@ In the discussion of the interview study, the author reports "almost half of the
 - [The majority (63%) of kindergartners hold naïve mental models of the day and night cycle, with the distance model the most common](kindergartners-majority-naive-day-night-models.md) — related
 - [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](minimal-guidance-less-effective-for-novices.md) — related
 - [Modeling training improved imaginative play in disadvantaged kindergartners, with gains in imaginativeness, verbal communication, spontaneity, and attention span persisting two months](modeling-training-improves-imaginative-play.md) — related
+- [Young children with limited vocabulary express metacognitive knowledge through behavioral and nonverbal expressions as well as verbalizations](nonverbal-behavioral-metacognitive-expressions.md) — related

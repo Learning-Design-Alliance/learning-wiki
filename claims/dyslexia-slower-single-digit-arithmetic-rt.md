@@ -43,4 +43,4 @@ Repeated-measures ANOVA (operation within-subject, group between-subject) on rea
 
 
 ## Related Claims
--
+- [Simple subtraction in adults relies heavily on strategy use, which disadvantages participants under limited working memory resources](adult-subtraction-strategy-reliance-working-memory-cost.md) — related

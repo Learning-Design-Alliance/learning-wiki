@@ -10,21 +10,27 @@ generated:
 evidence_strength: moderate
 sources:
   - id: moores-2011
-    title: Moores, E., Cassim, R. and Talcott, J.B. (2011). Adults with dyslexia exhibit large effects of crowding, increased dependence on cues, and detrimental effects of distractors in visual search tasks. Frontiers in Psychology.
+    resource: "https://doi.org/10.1016/j.neuropsychologia.2011.10.005"
+    title: "Moores, E., Cassim, R. and Talcott, J.B. (2011). Adults with dyslexia exhibit large effects of crowding, increased dependence on cues, and detrimental effects of distractors in visual search tasks. Frontiers in Psychology. [doi:10.1016/j.neuropsychologia.2011.10.005](https://doi.org/10.1016/j.neuropsychologia.2011.10.005)"
     author: Moores, E., Cassim, R. and Talcott, J.B.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
   - id: moores-2011-2
-    title: Moores, E., Cassim, R. and Talcott, J.B. (2011). Adults with dyslexia exhibit large effects of crowding, increased dependence on cues, and detrimental effects of distractors in visual search tasks. Frontiers in Psychology.
+    resource: "https://doi.org/10.1016/j.neuropsychologia.2011.10.005"
+    title: "Moores, E., Cassim, R. and Talcott, J.B. (2011). Adults with dyslexia exhibit large effects of crowding, increased dependence on cues, and detrimental effects of distractors in visual search tasks. Frontiers in Psychology. [doi:10.1016/j.neuropsychologia.2011.10.005](https://doi.org/10.1016/j.neuropsychologia.2011.10.005)"
     author: Moores, E., Cassim, R. and Talcott, J.B.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Crowding effects, pre-cue dependence and set size effects each correlate significantly with reading and spelling measures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Spelling and reading ability increased significantly as the influence of crowding decreased, with no significant crowding-IQ association. [→ Moores 2011](#moores-2011)
@@ -36,7 +42,7 @@ sources:
 
 Moores, E., Cassim, R. and Talcott, J.B. (2011). Adults with dyslexia exhibit large effects of crowding, increased dependence on cues, and detrimental effects of distractors in visual search tasks. Frontiers in Psychology. [doi:10.1016/j.neuropsychologia.2011.10.005](https://doi.org/10.1016/j.neuropsychologia.2011.10.005)
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Correlation analyses (n=31, approximate critical r=0.35) relating summary crowding measures to psychometric scores. Both literacy measures correlated significantly with crowding, while the crowding-IQ association was not statistically significant, suggesting a direct rather than IQ-mediated relationship.
 
@@ -46,7 +52,7 @@ Correlation analyses (n=31, approximate critical r=0.35) relating summary crowdi
 
 Moores, E., Cassim, R. and Talcott, J.B. (2011). Adults with dyslexia exhibit large effects of crowding, increased dependence on cues, and detrimental effects of distractors in visual search tasks. Frontiers in Psychology. [doi:10.1016/j.neuropsychologia.2011.10.005](https://doi.org/10.1016/j.neuropsychologia.2011.10.005)
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Correlation analyses of pre-cue, post-cue and set size summary measures with literacy and IQ scores. Pre-cue use and set size effects correlated significantly with spelling, reading and IQ; post-cue use showed no significant associations with any variable.
 
@@ -56,4 +62,8 @@ Correlation analyses of pre-cue, post-cue and set size summary measures with lit
 
 
 ## Related Claims
--
+- [Set size, crowding and pre-cue use jointly predict literacy, with set size uniquely predicting spelling and pre-cue use uniquely predicting reading](regression-unique-literacy-predictors.md) — related
+- [Adults with dyslexia use pre-cues to enhance discrimination accuracy, with pre-cued performance exceeding both post-cued and uncued conditions](awd-pre-cue-signal-enhancement-benefit.md) — related
+- [Adults with dyslexia show disproportionately reduced discrimination accuracy in crowded displays compared to controls](awd-disproportionate-crowding-accuracy-deficit.md) — related
+- [The four-way interaction between cue, group, display type and difficulty was significant, with group differences largest for uncued crowded stimuli](four-way-cue-group-display-difficulty-interaction.md) — related
+- [Pre-cues and post-cues eliminate set size effects for controls but not for adults with dyslexia](cues-eliminate-set-size-controls-not-awd.md) — related

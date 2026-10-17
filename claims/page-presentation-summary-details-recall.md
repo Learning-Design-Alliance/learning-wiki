@@ -62,4 +62,4 @@ Experiment 1 summarizing task, important-ideas grades: Page 2.61 vs. Scroll 1.83
 
 
 ## Related Claims
--
+- [Readers with an entertainment goal make more evaluative comments than readers with a study goal, with no difference in affective responses](entertainment-goal-more-evaluations.md) — related

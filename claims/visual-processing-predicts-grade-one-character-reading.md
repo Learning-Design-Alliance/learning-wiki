@@ -39,4 +39,5 @@ Hierarchical regression on the longitudinal sample (82 children followed 14 mont
 
 
 ## Related Claims
--
+- [Visual processing correlates concurrently with character reading and mathematics at both kindergarten and grade one](visual-processing-concurrent-correlations-reading-math.md) — related
+- [Kindergarten visual processing uniquely predicts grade-one early mathematics after controlling for prior mathematics and general cognitive abilities](visual-processing-predicts-grade-one-mathematics.md) — related

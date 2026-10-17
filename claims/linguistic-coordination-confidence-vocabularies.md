@@ -15,12 +15,14 @@ sources:
     author: Frith Chris D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Pairs rapidly develop shared verbal confidence scales, and faster development predicts greater group advantage
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Each pair in the odd-ball task developed a unique set of phrases for communicating confidence, and the more rapidly a pair developed such phrases, the greater their group advantage. [→ Frith Chris D 2012](#frith-chris-d-2012)
@@ -31,7 +33,7 @@ sources:
 
 Frith Chris D. (2012). The role of metacognition in human social interactions. Philosophical Transactions of the Royal Society B: Biological Sciences. https://doi.org/10.1098/rstb.2012.0123
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 A linguistic analysis of the discussions in the odd-ball experiments (Fusaroli et al., as reviewed here) found each pair developed a unique confidence vocabulary, e.g. "sure, almost sure, a little uncertain, not sure, very unsure, totally unsure". Faster development of a small phrase set predicted greater group advantage.
 
@@ -41,4 +43,6 @@ A linguistic analysis of the discussions in the odd-ball experiments (Fusaroli e
 
 
 ## Related Claims
--
+- [Two people discussing perceptual decisions can outperform the better individual, via weighted confidence sharing](group-advantage-joint-perceptual-decision-discussion.md) — a broader claim this one bears on
+- [The group advantage reverses when partners' abilities differ greatly, and depends on the mode of communication](group-advantage-depends-on-ability-similarity-and-communication.md) — related
+- [Sharing perceptual experiences through discussion improves individual performance beyond mere task practice](discussion-improves-individual-perception.md) — related

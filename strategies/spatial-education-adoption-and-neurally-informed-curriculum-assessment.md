@@ -39,7 +39,7 @@ The article recommends wider in-school adoption of spatial education, noting tha
 - spatial thinking
 
 ### Affordances
-- [Mental Model Theory Spatial Basis Verbal Reasoning](../theories/mental-model-theory-spatial-basis-verbal-reasoning.md)
+- Mental Model Theory Spatial Basis Verbal Reasoning
 
 ## Related Strategies
 - 

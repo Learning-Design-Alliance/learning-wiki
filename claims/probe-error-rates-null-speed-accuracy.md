@@ -47,3 +47,4 @@ Non-parametric ANOVAs on probe error rates found "no effect of the condition, χ
 - [The amplitude of the negative priming effect did not differ between adolescents and adults](negative-priming-amplitude-no-age-difference.md) — related
 - [Adolescents and educated adults require more time to compare common-denominator fractions after a common-numerator prime than after a control prime (negative priming effect)](negative-priming-fraction-comparison-inhibition.md) — related
 - [The negative priming effect on probe RTs was statistically significant in both adolescents (Cohen's d = 1.07) and adults (Cohen's d = 0.73)](negative-priming-effect-size-adolescents-adults.md) — related
+- [Design studies found that timing adults' oral reading led them to sacrifice accuracy for speed, motivating untimed repeated reading practice in the curriculum](timed-reading-adults-sacrifice-accuracy.md) — related

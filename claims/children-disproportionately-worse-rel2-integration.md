@@ -47,3 +47,4 @@ Behavioral accuracy analysis during fMRI scanning in 15 children (8-12) and 17 a
 - [Adults show sustained RLPFC activation for REL-2 problems, whereas children's early RLPFC differentiation of REL-2 from REL-1 is not sustained across the trial](rlpfc-sustained-integration-adults-not-children.md) — related
 - [Inferior parietal cortex (BA 39 and 40) shows greater overall activation in adults than children and a more pronounced effect of relational integration in adults](parietal-ipl-greater-activation-adults.md) — related
 - [Children show initially reduced DLPFC activation relative to adults for REL-1 and REL-2 trials, but sustained DLPFC activation for REL-1 problems in the later trial phase](dlpfc-immature-activation-children-rel1.md) — related
+- [Adults show greater left inferior lateral PFC activation than adolescents during relational integration](adults-greater-left-inferior-pfc-relational-activation.md) — related

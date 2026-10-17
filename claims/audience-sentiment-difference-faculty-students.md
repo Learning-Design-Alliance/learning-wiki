@@ -43,4 +43,4 @@ Sentiment analysis across target audiences of the 214 documents: administrators 
 
 
 ## Related Claims
--
+- [Writing scores differed significantly by audience, with younger-student letters rated highest and teacher-directed letters lowest](writing-scores-differ-by-audience.md) — related

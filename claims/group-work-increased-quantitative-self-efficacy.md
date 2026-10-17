@@ -15,12 +15,14 @@ sources:
     author: "Aikens, M. L., & Kulacki, A. R."
     q: 3
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # Students' self-efficacy for quantitative biology tasks significantly increased after completing collaborative group work assignments, with large effect sizes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Self-efficacy for solving HWE and population growth problems significantly increased from pre to post survey (r = 0.58 and r = 0.51). [→ Aikens 2023](#aikens-2023)
@@ -31,7 +33,7 @@ sources:
 
 Aikens, M. L., & Kulacki, A. R. (2023). Identifying Group Work Experiences That Increase Students' Self-Efficacy for Quantitative Biology Tasks. CBE—Life Sciences Education. https://doi.org/10.1187/cbe.22-04-0076
 
-`q3 · i3`
+`q3 · i3` · `associational · r1`
 
 Paired Wilcoxon signed-rank tests on pre and post task-specific self-efficacy ratings (n = 230 HWE; n = 234 PG) showed significant increases (p < 0.001 for both data sets), with "The effect size was large in both cases (r = 0.58 and r = 0.51, respectively)."
 
@@ -41,4 +43,8 @@ Paired Wilcoxon signed-rank tests on pre and post task-specific self-efficacy ra
 
 
 ## Related Claims
--
+- [Female students reported significantly lower initial self-efficacy for quantitative biology problems than male students, with small effect sizes](female-students-lower-initial-quantitative-self-efficacy.md) — related
+- [Gender/sex predicted reporting that getting help from peers increased self-efficacy when modeled alone, but this relationship was attenuated after accounting for initial self-efficacy](gender-predicts-peer-help-attenuated-by-initial-efficacy.md) — related
+- [Small-group learning improves undergraduate STEM achievement](small-group-learning-improves-stem-achievement.md) — related
+- [Higher initial self-efficacy increased the odds of students reporting that accomplishing the problems increased their self-efficacy](higher-initial-self-efficacy-predicts-accomplishing-it.md) — related
+- [Lower initial self-efficacy significantly increased the odds of students reporting that getting help from peers increased their self-efficacy](lower-initial-self-efficacy-predicts-peer-help.md) — related

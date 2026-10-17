@@ -15,12 +15,14 @@ sources:
     author: "Davis, E. L., Levine, L. J., Lench, H. C., & Quas, J. A."
     q: 3
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # In hypothetical scenarios, 5- and 6-year-olds most often suggest goal reinstatement and goal substitution, and their strategies do not differ for sadness versus anger
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Goal reinstatement and goal substitution were the most commonly reported strategies, and neither the strategies reported nor their proportions differed by emotion (sadness vs. anger). [→ Davis 2010](#davis-2010)
@@ -31,7 +33,7 @@ sources:
 
 Davis, E. L., Levine, L. J., Lench, H. C., & Quas, J. A. (2010). Metacognitive Emotion Regulation: Children’s Awareness that Changing Thoughts and Goals Can Alleviate Negative Emotions. Emotion, 10(4), 498–510. https://doi.org/10.1037/a0018428
 
-`q3 · i3`
+`q3 · i3` · `associational · r1`
 
 Mixed ANOVA on proportion scores from 66 children who attributed sadness and anger at least once. A significant main effect of strategy (η2p = .44) but no emotion effect and no interaction. Goal reinstatement (M = .28) and goal substitution (M = .34) were most common, each reported by over 90% of participants.
 
@@ -41,4 +43,8 @@ Mixed ANOVA on proportion scores from 66 children who attributed sadness and ang
 
 
 ## Related Claims
--
+- [Children's emotion-specific strategy use emerges for autobiographical events but not hypothetical stories, suggesting personal experience supports flexible regulation](autobiographical-recall-reveals-emotion-specific-regulation.md) — related
+- [Five- and six-year-olds describe changing thoughts more often than changing goals as a metacognitive strategy](children-change-thoughts-more-than-goals.md) — related
+- [A majority of 5- and 6-year-olds can describe metacognitive emotion regulation strategies when asked about familiar hypothetical situations with multiple prompts](five-six-year-olds-describe-metacognitive-emotion-regulation.md) — related
+- [When recalling their own experiences, 5- and 6-year-olds use metacognitive strategies more to alleviate sadness and fear than anger](metacognitive-strategies-more-for-sadness-fear-than-anger.md) — related
+- [Children tailor metacognitive strategy type to emotion: changing goals most for sadness, changing thoughts most for fear](children-tailor-metacognitive-strategy-type-to-emotion.md) — related

@@ -15,12 +15,14 @@ sources:
     author: Kleibeuker, S. W., Koolschijn, P. C. M. P., Jolles, D. D., De Dreu, C. K. W., and Crone, E. A.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Divergent thinking performance (AU-score) positively correlates with left IFG/MFG activation for AU relative to OC trials
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Whole-brain regression of AU-score on the AU > OC contrast found significant correlations in left lateral PFC (MFG and IFG pars triangularis) at an uncorrected threshold. [→ Kleibeuker 2013](#kleibeuker-2013)
@@ -31,7 +33,7 @@ sources:
 
 Kleibeuker, S. W., Koolschijn, P. C. M. P., Jolles, D. D., De Dreu, C. K. W., and Crone, E. A. (2013). The neural coding of creative idea generation across adolescence and early adulthood. Frontiers in Human Neuroscience 7:905. https://doi.org/10.3389/fnhum.2013.00905
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Whole-brain regression analysis with AU-score as covariate of interest on the AU > OC contrast. No regions survived FDR correction; at the lowered threshold p < 0.001 uncorrected, correlations appeared in left lateral PFC. The study notes this threshold was applied "to overcome the relatively low power inherent to analyses of individual differences."
 
@@ -41,4 +43,8 @@ Whole-brain regression analysis with AU-score as covariate of interest on the AU
 
 
 ## Related Claims
--
+- [Adults show larger left IFG/MFG condition effects (AU relative to baseline) than adolescents, indicating adolescents do not yet recruit left lateral PFC at an adult level for creative thinking](adolescents-immature-left-lateral-pfc-recruitment.md) — related
+- [AU and OC conditions show distinct correlation patterns with external creativity and fluency measures, supporting their differentiation as divergent thinking versus verbal ability conditions](au-oc-conditions-distinct-correlation-patterns.md) — related
+- [Generating multiple alternative uses (AU2+ > OC2+) additionally recruits left inferior frontal gyrus and middle frontal gyrus beyond the temporo-parietal network](multiple-solutions-additional-left-lateral-pfc-activation.md) — related
+- [Generating alternative uses relative to ordinary characteristics recruits mainly left temporo-parietal regions (left SMG, left AG, bilateral MTG) in both adolescents and adults](creative-idea-generation-left-temporo-parietal-recruitment.md) — related
+- [More solutions are generated in the OC condition than the AU condition, and adults generate more answers than adolescents in general, with no condition-specific age difference](condition-and-age-effects-solution-generation.md) — related

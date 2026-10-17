@@ -15,12 +15,14 @@ sources:
     author: Ramsook K. Ashana, Welsh Janet A., Bierman Karen L.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Vocabulary showed accelerating linear growth and social communication skills showed decelerating linear growth from preschool to kindergarten, with substantial individual variation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Vocabulary showed significant linear increases (b = 4.61, p < .001) with acceleration (b = 1.71, p < .01); social communication showed linear increases (b = .36, p < .001) with deceleration (b = −.22, p < .001). [→ Ramsook K. Ashana 2020](#ramsook-k-ashana-2020)
@@ -31,7 +33,7 @@ sources:
 
 Ramsook K. Ashana, Welsh Janet A., Bierman Karen L. (2020). What you say, and how you say it: Preschoolers' growth in vocabulary and communication skills differentially predict kindergarten academic achievement and self‐regulation. Social Development, 29(3), 783–800. https://doi.org/10.1111/sode.12425
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Growth multilevel models across three waves (N = 164) with time centered at Wave 1. The article reports "significant linear increases in social communication skills across waves (b = .36, SE = .06, p < .001) and deceleration of growth"; vocabulary showed linear increase and acceleration.
 
@@ -41,4 +43,5 @@ Growth multilevel models across three waves (N = 164) with time centered at Wave
 
 
 ## Related Claims
--
+- [Initial levels of vocabulary and social communication skills each predict kindergarten reading achievement, but only rate of growth in social communication skills incrementally predicts reading](social-communication-growth-uniquely-predicts-kindergarten-reading.md) — related
+- [Growth in both vocabulary and social communication skills predicts kindergarten math achievement](vocabulary-and-communication-growth-predict-kindergarten-math.md) — related

@@ -39,4 +39,8 @@ Authors' summary of the fitted SEM results (N = 170 adults): WM and symbolic num
 
 
 ## Related Claims
--
+- [Math anxiety impairs numeracy primarily through working memory, with no significant indirect effect through number processing](ma-wm-pathway-numeracy.md) — related
+- [The relative strength of MA's pathways varies by mathematical task type: WM dominates for numeracy, both WM and number processing operate for arithmetic](ma-pathways-vary-by-task-type.md) — related
+- [Math anxiety has a statistically significant indirect effect on arithmetic calculation through symbolic number processing](ma-indirect-effect-np-arithmetic.md) — related
+- [Math anxiety has a direct effect on arithmetic calculation above and beyond the indirect pathways](ma-direct-effect-arithmetic.md) — related
+- [Math anxiety has a statistically significant indirect effect on arithmetic calculation through working memory (affective drop pathway)](ma-indirect-effect-wm-arithmetic.md) — related

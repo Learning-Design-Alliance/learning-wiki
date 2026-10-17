@@ -37,7 +37,7 @@ The article recommends that preschool programs support language development in b
 - language growth in both languages that supports first-grade reading in either language
 
 ### Affordances
-- [Common Underlying Proficiency Cup Model](../theories/common-underlying-proficiency-cup-model.md)
+- [Common Underlying Proficiency Cup Model](../theories/developmental-interdependence-hypothesis.md)
 
 ## Related Strategies
 - 

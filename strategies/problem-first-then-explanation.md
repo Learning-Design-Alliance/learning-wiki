@@ -40,7 +40,7 @@ This strategy sequences instruction so learners encounter a problem they cannot 
 - motivating engagement with explanatory material
 
 ### Affordances
-- [Knowledge Deprivation Account](../theories/knowledge-deprivation-account.md)
+- Knowledge Deprivation Account
 
 ## Related Strategies
 - 

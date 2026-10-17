@@ -41,4 +41,6 @@ Correlational analyses across the entire participant group. Verbal memory at T3 
 
 
 ## Related Claims
--
+- [VSTM performance declines with advancing adult age in raw error, item capacity, precision, and misbinding, even after adjusting for sensorimotor performance](vstm-declines-with-age-all-measures.md) — related
+- [WM capacity is significantly and negatively correlated with age in Korean adults](wm-negatively-correlated-with-age.md) — related
+- [Greater ten-year working memory decline predicts more everyday memory problems in adjusted multilevel analyses](working-memory-decline-predicts-everyday-memory-problems.md) — related

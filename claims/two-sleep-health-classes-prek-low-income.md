@@ -41,4 +41,8 @@ Latent class analysis of parent-reported sleep health from 351 children in publi
 
 
 ## Related Claims
--
+- [The later, shorter, inconsistent sleep health class shows later bedtimes, shorter sleep duration, less consistent routines, and higher pre-bedtime caffeine consumption than the earlier, longer, consistent class](later-shorter-inconsistent-class-profile.md) — related
+- [A greater proportion of children whose maternal educational attainment is some college, technical, or two-year degree fell in the later, shorter, inconsistent sleep health class](maternal-education-some-college-later-class.md) — related
+- [Children in the earlier, longer, consistent sleep health class showed stronger approaches to learning (PLBS total and T-CRS task orientation) than peers in the later, shorter, inconsistent class](sleep-class-approaches-to-learning-advantage.md) — related
+- [Children in the earlier, longer, consistent sleep health class scored higher on expressive vocabulary than peers in the later, shorter, inconsistent class after covariate adjustment](sleep-class-expressive-vocabulary-advantage.md) — related
+- [Children in the earlier, longer, consistent sleep health class showed greater emotion regulation and assertiveness than peers in the later, shorter, inconsistent class after covariate adjustment](sleep-class-emotion-regulation-assertiveness.md) — related

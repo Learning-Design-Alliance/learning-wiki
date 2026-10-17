@@ -15,18 +15,22 @@ sources:
     author: "Tricia M. van Rhijn & Donna S. Lero"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: tricia-m-van-rhijn-donna-s-lero-2014-2
     resource: "http://dx.doi.org/10.1080/02601370.2014.884178"
     title: "Tricia M. van Rhijn & Donna S. Lero. (2014). The influence of self-efficacy beliefs for student parents attending university. International Journal of Lifelong Education. http://dx.doi.org/10.1080/02601370.2014.884178"
     author: "Tricia M. van Rhijn & Donna S. Lero"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Academic self-efficacy is positively associated with school satisfaction among student parents, both directly and indirectly through school-family balance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Academic self-efficacy has a significant positive direct effect on school satisfaction (b = .11, t = 2.79). [→ Tricia M. van Rhijn & Donna S. Lero 2014](#tricia-m-van-rhijn-donna-s-lero-2014)
@@ -38,7 +42,7 @@ sources:
 
 Tricia M. van Rhijn & Donna S. Lero. (2014). The influence of self-efficacy beliefs for student parents attending university. International Journal of Lifelong Education. http://dx.doi.org/10.1080/02601370.2014.884178
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Cross-sectional survey of 398 student parents analysed with latent variable SEM (MLR in Mplus). The structural model fit adequately (RMSEA = 0.04, CFI = 0.96) and "Student parents with higher self-efficacy beliefs regarding their academic skills and performance reported feeling more satisfied with school."
 
@@ -48,7 +52,7 @@ Cross-sectional survey of 398 student parents analysed with latent variable SEM 
 
 Tricia M. van Rhijn & Donna S. Lero. (2014). The influence of self-efficacy beliefs for student parents attending university. International Journal of Lifelong Education. http://dx.doi.org/10.1080/02601370.2014.884178
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Mediation testing used bias-corrected bootstrapped standard errors with 1000 draws. The academic self-efficacy total effect on school satisfaction (b = .18) split into a direct effect (b = .11, t = 2.79) and an indirect effect via school-family balance (b = .07, t = 2.78).
 
@@ -58,4 +62,8 @@ Mediation testing used bias-corrected bootstrapped standard errors with 1000 dra
 
 
 ## Related Claims
--
+- [Parental self-efficacy is positively associated with family satisfaction among student parents, both directly and indirectly through school-family balance](parental-self-efficacy-predicts-family-satisfaction-student-parents.md) — related
+- [School-family balance is predicted by both academic and parental self-efficacy and in turn predicts school and family satisfaction](school-family-balance-predicted-by-efficacy-predicts-satisfaction.md) — a broader claim this one bears on
+- [Age of youngest child is inversely associated with parental self-efficacy among student parents](age-youngest-child-inversely-associated-parental-self-efficacy.md) — related
+- [Family satisfaction fully mediates the relationship between school-family balance and life satisfaction among student parents](family-satisfaction-fully-mediates-balance-life-satisfaction.md) — related
+- [Partnered student parents report higher school and family satisfaction, and part-time enrolment is associated with higher family satisfaction](partner-status-enrolment-subgroup-satisfaction-differences.md) — related

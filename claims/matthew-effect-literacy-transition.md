@@ -15,12 +15,14 @@ sources:
     author: Pamela C. Snow
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Failure to transition to literacy early triggers a Matthew effect of widening reading and vocabulary gaps
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Children who do not make the transition to literacy in the first 3 years of school fall disproportionately further behind peers over time (Matthew effect). [→ Pamela C. Snow 2021](#pamela-c-snow-2021)
@@ -31,7 +33,7 @@ sources:
 
 Pamela C. Snow. (2021). Psychosocial Adversity in Early Childhood and Language and Literacy Skills in Adolescence: The Role of Speech-Language Pathology in Prevention, Policy, and Practice. Perspectives of the ASHA Special Interest Groups. https://doi.org/10.1044/2020_PERSP-20-00120
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review attributes the Matthew effect to Stanovich (2009) and notes it has also been described for mid-elementary reading ability and vocabulary growth (Duff et al., 2015). Children's own reading promotes Tier 2 and 3 vocabulary via text exposure.
 
@@ -41,4 +43,6 @@ The review attributes the Matthew effect to Stanovich (2009) and notes it has al
 
 
 ## Related Claims
--
+- [Early failure in phonetic recoding and decoding widens the acquisition gap between false beginners and successful learners over time](early-decoding-failure-widens-acquisition-gap.md) — related
+- [Steeper summer learning losses for students with disabilities contribute to widening disparities with peers](swd-summer-loss-widens-disparities.md) — related
+- [Low-income children's test scores drop relative to higher-income peers during the summer months](low-income-summer-test-score-drop.md) — related

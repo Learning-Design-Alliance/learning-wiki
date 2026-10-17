@@ -41,4 +41,6 @@ Focus-group thematic analysis; the article reports that "the etiology of that st
 
 
 ## Related Claims
--
+- [Providing free vision services on the school campus was perceived to remove financial and logistical barriers to obtaining corrective lenses](free-school-based-services-remove-access-barriers.md) — related
+- [Participants perceived that uncorrected visual deficits reduced students' classroom focus, perseverance, and class participation](uncorrected-poor-vision-reduces-focus-participation.md) — related
+- [Educators during the pandemic may experience secondary traumatic stress, compassion fatigue, and community trauma alongside their own individual trauma](educator-secondary-traumatic-stress-pandemic.md) — related

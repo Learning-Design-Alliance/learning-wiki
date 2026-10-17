@@ -15,12 +15,14 @@ sources:
     author: "Dweck, C. S., & Yeager, D. S."
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Brief online growth-mindset interventions produce modest academic gains concentrated among students at risk of underperformance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Online growth-mindset interventions raised lower-achieving students' GPA by around .10 grade points and improved on-track rates by 4 to 8 percentage points, with effects typically appearing for higher-risk students. [→ Dweck 2019](#dweck-2019)
@@ -31,7 +33,7 @@ sources:
 
 Dweck, C. S., & Yeager, D. S. (2019). Mindsets: A View From Two Eras. Perspectives on Psychological Science. https://doi.org/10.1177/1745691618804166
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 Synthesis of randomized trials with tens of thousands of students, including two preregistered replications (Paunesku et al., 2015; Yeager, Romero et al., 2016; Yeager, Hanselman et al., 2018); effects "of around .10 grade points" on GPA and 4 to 8 percentage points on on-track rates, typically for students with lower prior grades in medium-to-low-achieving schools. No standardized effect size is printed, so no magnitude is coded.
 
@@ -41,4 +43,11 @@ Synthesis of randomized trials with tens of thousands of students, including two
 
 
 ## Related Claims
--
+- [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](growth-mindset-improves-achievement.md) — possibly the same claim (merge candidate)
+- [The growth mindset intervention was estimated to prevent about 5.3% of US lower-achieving ninth-graders per year from being off track for graduation](growth-mindset-reduces-off-track-gpa-rates.md) — related
+- [A short online growth mindset intervention improved ninth-grade core-course GPAs among lower-achieving students in a nationally representative US sample](growth-mindset-raises-lower-achiever-gpas-national-experiment.md) — possibly the same claim (merge candidate)
+- [Growth mindset interventions improve math outcomes, particularly for disadvantaged and high-risk students, but effects depend on a supportive teacher-mindset context](growth-mindset-interventions-conditional-teacher-context.md) — related
+- [The growth mindset intervention increased tenth-grade advanced mathematics course enrolment overall, with larger gains in the highest-achieving schools](growth-mindset-increases-advanced-math-enrolment.md) — related
+- [GPA treatment effects among lower-achieving students were larger in schools whose peer norms supported challenge-seeking](peer-norms-sustain-mindset-gpa-effects.md) — related
+- [GPA treatment effects among lower-achieving students were smaller in higher-achieving schools (moderation by school achievement level)](mindset-gpa-effects-smaller-high-achieving-schools.md) — related
+- [Ninth-grade on-track status predicts graduation more strongly than prior achievement, with a 55 percentage point gap after controls](ontrack-predicts-graduation-beyond-prior-achievement.md) — related

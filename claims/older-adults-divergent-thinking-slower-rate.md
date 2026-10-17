@@ -15,12 +15,14 @@ sources:
     author: Margarida Romero, Pirkko Hyvönen, Elena Barberà
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Older adults can think as divergently as young adults but do so at a slower rate and require more time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Older adults can think as divergently as young adults, but they do so at a slower rate and require more time than younger people. [→ Margarida Romero 2012](#margarida-romero-2012)
@@ -31,7 +33,7 @@ sources:
 
 Margarida Romero, Pirkko Hyvönen, Elena Barberà. (2012). Creativity in Collaborative Learning across the Life Span. Creative Education. https://doi.org/10.4236/ce.2012.34066
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports, citing Foos and Boone (2008), that "older adults can think as divergently as young adults, but they do so at a slower rate and require more time than younger people". The review attributes this finding to the cited study; its design is not described in this article.
 
@@ -41,4 +43,5 @@ The review reports, citing Foos and Boone (2008), that "older adults can think a
 
 
 ## Related Claims
--
+- [Older adults were slower than young adults overall on solution times, with no age difference in accuracy](age-slowness-no-accuracy-difference.md) — related
+- [Learning ability does not decline with age in healthy older adults](learning-ability-does-not-decline-with-age.md) — related

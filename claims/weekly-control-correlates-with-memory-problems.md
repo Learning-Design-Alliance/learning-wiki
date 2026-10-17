@@ -41,4 +41,6 @@ Bivariate within-person correlation from Table 1 diary-level data (n = 103 parti
 
 
 ## Related Claims
--
+- [Lower general perceived control predicts more everyday memory problems, but weekly within-person control fluctuations do not](general-control-predicts-memory-problems-weekly-does-not.md) — related
+- [Low weekly perceived control predicts more memory problems among adults with greater memory decline and low SOC strategy use (three-way interaction)](soc-buffers-low-control-effects-under-memory-decline.md) — related
+- [Selection strategies predict fewer memory problems regardless of decline extent; optimization and compensation are adaptive mainly under greater decline](soc-subscale-sensitivity-selection-versus-optimization-compensation.md) — related

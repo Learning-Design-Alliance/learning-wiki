@@ -15,12 +15,14 @@ sources:
     author: "Christopher, M. E., Miyake, A., Keenan, J. M., Pennington, B., DeFries, J. C., Wadsworth, S. J., Willcutt, E., & Olson, R. K."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Reading comprehension measure choice moderates findings on the word reading–comprehension relation: short-passage tests show age effects, long-passage tests do not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` When the comprehension factor used only short-passage tests (WJ passage comprehension and PIAT), listening and reading comprehension could not be collapsed into one factor. [→ Christopher 2012](#christopher-2012)
@@ -32,7 +34,7 @@ sources:
 
 Christopher, M. E., Miyake, A., Keenan, J. M., Pennington, B., DeFries, J. C., Wadsworth, S. J., Willcutt, E., & Olson, R. K. (2012). Predicting Word Reading and Comprehension with Executive Function and Speed Measures Across Development: A Latent Variable Analysis. Journal of Experimental Psychology: General. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3360115/
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Two reruns of the reading CFA, one modeling comprehension with only the short-passage tests and one with only the long-passage tests. The article reports the collapse failed for short passages (Δχ2[17] = 344.92, p < .01) but succeeded for long passages (Δχ2[17] = 20.42, p = .25).
 
@@ -42,4 +44,5 @@ Two reruns of the reading CFA, one modeling comprehension with only the short-pa
 
 
 ## Related Claims
--
+- [The relation between word reading and reading comprehension is largely invariant across age groups 8 to 10 and 11 to 16](word-reading-comprehension-relation-age-invariant.md) — related
+- [Reading comprehension variance is fully shared with listening comprehension and word reading](reading-comprehension-variance-fully-shared.md) — related

@@ -15,12 +15,14 @@ sources:
     author: "Gottfried, M. A. & Williams, D."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Science club participation shows no statistically significant relationship with selecting a STEM college major
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The relationship between science club participation and STEM major selection is not statistically significant in baseline OLS or propensity matching models, unlike the math club result. [→ Gottfried 2013](#gottfried-2013)
@@ -31,7 +33,7 @@ sources:
 
 Gottfried, M. A. & Williams, D. (2013). STEM Club Participation and STEM Schooling Outcomes. Education Policy Analysis Archives, 21 (79). http://epaa.asu.edu/ojs/article/view/1361
 
-`q2 · i?`
+`q2 · i?` · `associational · r3`
 
 Logistic and propensity-matched models in Table 7 for science club: odds ratios of 1.606 and 1.410 (OLS) and 1.096, 1.033, and 1.112 (matching) were all non-significant. Equivalence was not tested; the study only did not detect an effect.
 
@@ -41,4 +43,8 @@ Logistic and propensity-matched models in Table 7 for science club: odds ratios 
 
 
 ## Related Claims
--
+- [Gender does not moderate the club participation–GPA relationship in math or science](gender-does-not-moderate-club-gpa-relationship.md) — related
+- [Math club participation is associated with higher odds of declaring a STEM major in college, remaining significant after propensity score matching](math-club-participation-stem-college-major.md) — related
+- [Science club participation is positively associated with high school science GPA, significant across all three propensity score matching methods](science-club-participation-higher-science-gpa.md) — related
+- [The science club–science GPA relationship is not significant for Asian students, though the math club relationship is](asian-students-science-club-null-math-significant.md) — related
+- [STEM club participants differ descriptively from non-participants in GPA, course-taking, test scores, and college desire](stem-club-participants-descriptive-differences.md) — related

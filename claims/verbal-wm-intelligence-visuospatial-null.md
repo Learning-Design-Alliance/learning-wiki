@@ -41,4 +41,7 @@ Correlational analysis in the N = 147 sample: verbal WM (Dwarf) and visuospatial
 
 
 ## Related Claims
--
+- [Inhibition accuracy in the Hearts and Flowers incongruent block is positively correlated with fluid intelligence in kindergarten children](inhibition-accuracy-correlates-fluid-intelligence-kindergarten.md) — related
+- [Inhibition accuracy is marginally correlated with verbal WM but not visuospatial WM in kindergarten children](inhibition-accuracy-verbal-wm-not-visuospatial.md) — related
+- [Exploratory WM-task measures correlate with EF indices: inhibition accuracy with correct colors, PES mixed with verbal span, congruency effect with correct locations](exploratory-wm-measures-ef-correlations.md) — related
+- [Mean RT in HF blocks is negatively correlated with visuospatial WM and mixed-block RT positively with intelligence](ef-rt-visuospatial-wm-correlations.md) — related

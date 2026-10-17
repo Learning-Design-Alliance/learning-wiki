@@ -44,3 +44,4 @@ Across five experiments (animal Stroop, numerical and physical size Stroop, non-
 
 ## Related Claims
 - [Non-symbolic magnitude processing shows mixed associations with inhibition measures](nonsymbolic-nmp-mixed-inhibition-association.md) — related
+- [Adults with DD show a reduced Number Stroop effect during physical comparison, suggesting weaker automatic activation of number magnitude](dd-adults-reduced-number-stroop-effect.md) — reports the opposite

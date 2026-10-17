@@ -39,7 +39,7 @@ Within the adapted CoIF, 'Trusting' is one of the three Influences — the overl
 - trusting relationships in online learning
 
 ### Affordances
-- [Coif Influences Trusting Meaning Making Deepening Understanding](../theories/coif-influences-trusting-meaning-making-deepening-understanding.md)
+- Coif Influences Trusting Meaning Making Deepening Understanding
 
 ## Related Strategies
 - Tutors Nurture Online Sob Facilitation

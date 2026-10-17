@@ -15,12 +15,14 @@ sources:
     author: "Smythe, S., & Breshears, S."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Canadian federal and provincial digital policies reflect a laissez-faire approach with near absence of consideration of affordability and digital skills for low-income adults
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Digital Canada 150 and Network BC emphasize broadband provision and e-government but give little attention to whether users can afford access or develop skills to use it. [→ Smythe 2017](#smythe-2017)
@@ -31,7 +33,7 @@ sources:
 
 Smythe, S., & Breshears, S. (2017). Complicating Access: Digital Inequality And Adult Learning In A Public-Access Computing Space. The Canadian Journal for the Study of Adult Education, 29(1), 67-81. https://eric.ed.gov/?id=EJ1139334
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Critical policy analysis of Digital Canada 150, Network BC, and Citizens @ the Centre documents. The authors report a "near absence of meaningful consideration" of affordability, and note Digital Canada 150 contains no mention of digital skills or adult education needed to meaningfully use the Internet.
 
@@ -41,4 +43,7 @@ Critical policy analysis of Digital Canada 150, Network BC, and Citizens @ the C
 
 
 ## Related Claims
--
+- [Internet connection rates in Canada differ sharply by income, with 97% of the highest income quartile connected versus 58% of the lowest](income-internet-connection-gap.md) — related
+- [AI in adult education risks reinforcing existing inequalities via the digital divide, particularly for rural, low-income, and marginalized learners](ai-digital-divide-reinforces-inequality.md) — related
+- [Low-income households make significant sacrifices to maintain Internet access, which can account for almost 8% of monthly household expenses](low-income-households-sacrifice-internet.md) — related
+- [Digital policies imagine a \"model user\" whose experience contrasts sharply with the actualities of adults on the margins of access](model-user-policy-imaginary.md) — related

@@ -58,4 +58,6 @@ ANOVA on the six conceptual-understanding items of the writing scale showed "sig
 
 
 ## Related Claims
--
+- [Non-traditional letter writing improved 9th graders' conceptual understanding of a chemistry mixture unit more than traditional writing, with a small effect](non-traditional-writing-beats-traditional-writing-mixture-understanding.md) — related
+- [Writing to younger students produced better mixture understanding than writing to the teacher, while younger-student and peer audiences did not differ](younger-audience-beats-teacher-audience-posttest.md) — related
+- [Sentiment differs significantly across target audiences, with faculty-targeted guidelines more positive than student-targeted ones](audience-sentiment-difference-faculty-students.md) — related

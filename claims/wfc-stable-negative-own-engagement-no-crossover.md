@@ -41,4 +41,6 @@ Conditional latent growth curve models with work-family conflict as a time-varyi
 
 
 ## Related Claims
--
+- [Child self-control at baseline is negatively associated with parents' work-family conflict at baseline and fathers' conflict at wave two](child-self-control-negatively-linked-parent-wfc.md) — related
+- [Parents' working hours and number of children do not add explanatory power for engagement beyond work-family conflict](working-hours-children-no-incremental-variance.md) — related
+- [Mothers' engagement in positive activities with children remains stable over early childhood while fathers' engagement shows significant linear growth](mothers-stable-fathers-growing-engagement-trajectories.md) — related

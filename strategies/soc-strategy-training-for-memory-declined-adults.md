@@ -37,7 +37,7 @@ The article recommends that "Research and interventions that target adaptive beh
 - Adapting to age-related working memory decline and reducing everyday memory problems
 
 ### Affordances
-- [Soc Life Management Framework Memory Decline](../theories/soc-life-management-framework-memory-decline.md)
+- Soc Life Management Framework Memory Decline
 
 ## Related Strategies
 - 

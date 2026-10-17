@@ -41,4 +41,4 @@ Confirmatory factor analysis of the three reading factors with two comprehension
 
 
 ## Related Claims
--
+- [Working memory and processing speed, but not inhibition or non-alphanumeric naming speed, uniquely predict both word reading and reading comprehension in children ages 8 to 16](wm-and-processing-speed-unique-predictors-reading.md) — related

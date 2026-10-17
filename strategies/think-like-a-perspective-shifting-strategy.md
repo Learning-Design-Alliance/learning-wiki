@@ -38,7 +38,7 @@ The article operationalises epistemic control through the phrase 'think like a .
 - avoiding perspective blindness and premature epistemic lock-in
 
 ### Affordances
-- [Epistemic Control Framework Four Stages](../theories/epistemic-control-framework-four-stages.md)
+- [Epistemic Control Framework Four Stages](../theories/metacognition.md)
 
 ## Related Strategies
 - 

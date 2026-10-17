@@ -15,12 +15,14 @@ sources:
     author: Cowan Nelson
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Children too young to use attentional refreshing are limited by retention interval duration, while older children and adults are limited by cognitive load
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Children about 4 years of age and younger do not seem to use attention to refresh items, so their performance depends on retention interval duration, whereas for older children and adults cognitive load determines performance. [→ Cowan Nelson 2014](#cowan-nelson-2014)
@@ -31,7 +33,7 @@ sources:
 
 Cowan Nelson. (2014). Working Memory Underpins Cognitive Development, Learning, and Education. Educational Psychology Review. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4207727/
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports evidence on attentional refreshing in development: "Children who are too young (about 4 years of age and younger) do not seem to use attention to refresh items," so retention interval duration limits them, while older children and adults are limited by cognitive load instead. The author calls this a phase change comparable to the advent of verbal rehearsal.
 
@@ -41,4 +43,4 @@ The review reports evidence on attentional refreshing in development: "Children 
 
 
 ## Related Claims
--
+- [Cognitive load in concurrent storage-processing tasks has a negative linear effect on memory span](cognitive-load-negative-linear-span-effect.md) — related

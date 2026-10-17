@@ -15,18 +15,22 @@ sources:
     author: Keenan Tiarnán D., Agrón Elvira, Mares Julie A., Clemons Traci E., van Asten Freekje, Swaroop Anand, Chew Emily Y.; AREDS and AREDS2 Research Groups
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
   - id: keenan-tiarnán-d-2020-2
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8328271/"
     title: "Keenan Tiarnán D., Agrón Elvira, Mares Julie A., Clemons Traci E., van Asten Freekje, Swaroop Anand, Chew Emily Y.; AREDS and AREDS2 Research Groups. (2020). Adherence to a Mediterranean diet and cognitive function in the Age-Related Eye Disease Studies 1 & 2. Alzheimer's & Dementia. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8328271/"
     author: Keenan Tiarnán D., Agrón Elvira, Mares Julie A., Clemons Traci E., van Asten Freekje, Swaroop Anand, Chew Emily Y.; AREDS and AREDS2 Research Groups
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Higher Mediterranean diet adherence is associated with higher cognitive test scores, with dose-response associations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q3`
 
 ## Subclaims
 `q3 i?` In AREDS, aMED tertile 3 participants scored higher on 3MS and composite measures than tertile 1 participants (regression estimates +1.3 and +1.0, P < .0001). [→ Keenan Tiarnán D. 2020](#keenan-tiarnan-d-2020)
@@ -38,7 +42,7 @@ sources:
 
 Keenan Tiarnán D., Agrón Elvira, Mares Julie A., Clemons Traci E., van Asten Freekje, Swaroop Anand, Chew Emily Y.; AREDS and AREDS2 Research Groups. (2020). Adherence to a Mediterranean diet and cognitive function in the Age-Related Eye Disease Studies 1 & 2. Alzheimer's & Dementia. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8328271/
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Cross-sectional general linear models in AREDS comparing absolute 3MS and composite scores across aMED tertiles. The article reports "the regression estimates, in aMED tertile 3 (vs 1), were +1.3 (P < .0001) and +1.0 (P < .0001)"; no standardized effect size is printed.
 
@@ -48,7 +52,7 @@ Cross-sectional general linear models in AREDS comparing absolute 3MS and compos
 
 Keenan Tiarnán D., Agrón Elvira, Mares Julie A., Clemons Traci E., van Asten Freekje, Swaroop Anand, Chew Emily Y.; AREDS and AREDS2 Research Groups. (2020). Adherence to a Mediterranean diet and cognitive function in the Age-Related Eye Disease Studies 1 & 2. Alzheimer's & Dementia. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8328271/
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Cross-sectional mixed-model regression in AREDS2 comparing TICS-M and composite scores across aMED tertiles. The article reports "equivalent linear regression estimates were +1.0 (P < .0001) and +1.5 (P < .0001)"; no standardized effect size is printed.
 
@@ -58,4 +62,8 @@ Cross-sectional mixed-model regression in AREDS2 comparing TICS-M and composite 
 
 
 ## Related Claims
--
+- [Individual aMED components: vegetable, nut, and moderate alcohol intakes show protective associations with cognitive function](amed-components-vegetables-nuts-alcohol-protective.md) — related
+- [APOE genotype does not modify the association between Mediterranean diet or fish intake and cognitive function](apoe-genotype-no-diet-cognition-interaction.md) — related
+- [Higher Mediterranean diet adherence is associated with lower risk of cognitive impairment in older adults without dementia](mediterranean-diet-adherence-lower-cognitive-impairment-risk.md) — related
+- [Higher Mediterranean diet adherence is not associated with slower cognitive decline over 5 to 10 years](mediterranean-diet-not-associated-slower-decline.md) — related
+- [The aMED–cognition associations persist after adjustment for education level](amed-cognition-robust-to-education-adjustment.md) — related

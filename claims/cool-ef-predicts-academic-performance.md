@@ -58,4 +58,4 @@ Same hierarchical regression analyses (Tables 13–14). The article reports that
 
 
 ## Related Claims
--
+- [Inhibition/interference, working memory and processing speed correlate with adolescent academic achievement, while cognitive flexibility and social skills do not](ef-domains-associated-adolescent-academic-achievement.md) — reports the opposite

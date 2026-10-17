@@ -50,3 +50,4 @@ Analytical argument in the article's section on inadequate selection criteria. F
 - [Questionnaire constructs showed acceptable to strong internal consistency (α = 0.740 to 0.945)](questionnaire-constructs-internal-consistency.md) — related
 - [TAILS dimensions show high internal consistency, with Cronbach's alpha values above 0.90](tails-high-internal-consistency.md) — related
 - [Reflective modeling of formative knowledge constructs risks misrepresenting domain knowledge as a general factor such as intelligence](reflective-model-misrepresents-domain-knowledge.md) — related
+- [The eight Barkley Current Behavior Scale items chosen for DESR show high internal consistency](desr-eight-item-scale-high-internal-consistency.md) — related

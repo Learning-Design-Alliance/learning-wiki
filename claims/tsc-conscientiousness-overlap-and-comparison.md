@@ -39,4 +39,5 @@ Correlational and regression results for N = 3,146 trainees; Table 1 prints a TS
 
 
 ## Related Claims
--
+- [Trait self-control is significantly associated with major GPA beyond fluid reasoning and conscientiousness in vocational trainees](trait-self-control-incremental-mgpa-vocational-trainees.md) — related
+- [Trait self-control correlates with grades but not with standardized test scores at the bivariate level](tsc-correlates-grades-not-standardized-tests.md) — related

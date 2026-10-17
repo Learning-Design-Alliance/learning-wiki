@@ -41,4 +41,7 @@ Third GLM modeling HIT, CR, MISS, FP separately, with one-sample t-tests in bila
 
 
 ## Related Claims
--
+- [Ventral striatum activation to correct responses is correlated with discrimination performance in youth](vs-activation-correlated-with-discrimination-performance.md) — related
+- [Ventral striatum activation to correct responses peaks in mid-adolescence at approximately age 16](vs-activation-peaks-mid-adolescence.md) — related
+- [In youth performing an n-back task without feedback, bilateral ventral striatum activates more strongly to correct than incorrect responses](vs-correct-greater-than-incorrect-nback-youth.md) — related
+- [Ventral striatum response to correct responses scales with working memory load in youth](vs-response-scales-with-working-memory-load.md) — related

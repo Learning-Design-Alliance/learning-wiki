@@ -51,3 +51,4 @@ Review's discussion of Caterino & Polak (1999), a school experiment with 177 chi
 - [Age moderates exercise effects in opposite directions: adolescents benefit more for inhibitory control, younger children more for working memory](age-moderates-exercise-effects-opposite-directions.md) — related
 - [Type of PA may moderate acute effects: coordinative exercises outperformed a normal PE lesson of the same intensity](coordinative-exercises-attention-advantage.md) — related
 - [Five of six laboratory studies found significant effects of acute PA on cognitive control of attention, mainly on accuracy not reaction time](laboratory-studies-acute-pa-attention-accuracy.md) — related
+- [A single bout of closed-skill exercise improves short-term memory performance only in older primary-school children (9–10 years), not in 7–8-year-olds.](closed-skill-exercise-improves-stm-older-children-only.md) — related

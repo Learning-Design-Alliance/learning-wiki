@@ -58,3 +58,5 @@ Study 2 thematic analysis of twelve student interviews produced Global Theme 1 f
 - [Students at Oakland International High School report a strong sense of community, close relationships, and happiness at school](oakland-international-students-report-sense-of-community.md) — related
 - [Social engagement in gateway math courses builds confidence and deepens understanding, dependent on faculty fostering a supportive learning environment](social-engagement-builds-confidence-gateway-math.md) — related
 - [GAI-assisted DST creation significantly enhanced all five CPS sub-dimensions compared to traditional methods](gai-assisted-dst-improves-cps-subdimensions.md) — related
+- [Participants reported improved communication skills and faculty modeling of positive interpersonal interaction](prison-college-communication-skills-modeling.md) — related
+- [Successful aging comprises six features and creative activity contributes to it](successful-aging-six-features-creative-activity.md) — related

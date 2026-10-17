@@ -15,12 +15,14 @@ sources:
     author: "Serrano-Villar, M., & Calzada, E. J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # At school, ethnic constancy and knowledge predict better adaptive behavior, and constancy predicts fewer externalizing and internalizing problems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Teacher-rated adaptive behavior was positively predicted by ethnic constancy and knowledge, and externalizing and internalizing problems were negatively predicted by ethnic constancy. [→ Serrano-Villar 2016](#serrano-villar-2016)
@@ -31,7 +33,7 @@ sources:
 
 Serrano-Villar, M., & Calzada, E. J. (2016). Ethnic identity: Evidence of protective effects for young, Latino children. Journal of Applied Developmental Psychology. https://doi.org/10.1016/j.appdev.2015.11.002
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Linear regressions predicting BASC-2 teacher-rated functioning (Table 4) in the 674-child sample, controlling for poverty, mother's education, and single-parent home; unstandardized B coefficients are printed (e.g., constancy on externalizing −2.11) with no effect sizes.
 
@@ -41,4 +43,6 @@ Linear regressions predicting BASC-2 teacher-rated functioning (Table 4) in the 
 
 
 ## Related Claims
--
+- [Ethnic constancy and knowledge are associated with better adaptive behavior at home, with no moderation by gender or ethnicity](ethnic-constancy-knowledge-better-adaptive-behavior-home.md) — related
+- [Having more same-racial/ethnic school peers predicts fewer externalizing behaviors and stronger interpersonal skills in kindergarten, independent of school diversity](same-ethnic-peers-predict-socioemotional-adjustment.md) — related
+- [Most young Latino children show emerging ethnic identity, with self-identification most prevalent (75%) and knowledge least prevalent (about 20%)](young-latino-children-emerging-ethnic-identity-prevalence.md) — related

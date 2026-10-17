@@ -13,12 +13,14 @@ sources:
     title: Christodoulou JA 2014
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Typical readers respond faster than dyslexic readers overall, and responses slow as presentation rates increase, without a group-by-rate interaction for reaction time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` The typical reader group was faster to respond than the dyslexic group, responses were slower as presentation rates increased, and the Group X Condition interaction was not significant for reaction time. [→ Christodoulou JA 2014](#christodoulou-ja-2014)
@@ -29,7 +31,7 @@ sources:
 
 Christodoulou JA, Del Tufo SN, Lymberis J, Saxler PK, Ghosh SS, et al. (2014) Brain Bases of Reading Fluency in Typical Reading and Impaired Fluency in Dyslexia. PLoS ONE 9(7): e100552. https://doi.org/10.1371/journal.pone.0100552
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 A 3x2 repeated measures ANOVA on in-scanner reaction time found significant main effects of Group and Condition, but the Group X Condition interaction was not significant (p = .15). Groups also did not differ on rates of response across conditions.
 
@@ -39,4 +41,6 @@ A 3x2 repeated measures ANOVA on in-scanner reaction time found significant main
 
 
 ## Related Claims
--
+- [Group differences in activation are more extensive when behavioral performance is equated across groups, indicating they are not a consequence of worse performance](performance-equated-activation-differences-persist.md) — related
+- [In-scanner sentence judgment accuracy declines with faster word presentation rates, and dyslexic readers' accuracy declines disproportionately across rates](presentation-rate-accuracy-decline-dyslexia-disproportionate.md) — related
+- [Typical readers show significantly greater rate-related activation gains than dyslexic readers in left prefrontal and left superior temporal regions](typical-readers-greater-rate-activation-gains-left-frontotemporal.md) — related

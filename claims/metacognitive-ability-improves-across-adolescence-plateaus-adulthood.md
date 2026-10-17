@@ -43,4 +43,7 @@ Cross-sectional behavioural study of 28 adolescents (11–17 years) and 28 adult
 
 
 ## Related Claims
--
+- [Adolescents showed significantly lower metacognitive ability compared to young adults](cms-adolescents-lower-metacognition.md) — related
+- [Metacognitive ability improves across adolescence, with a logarithmic age trajectory](cms-age-effect-metacognition.md) — a narrower finding that bears on this claim
+- [Combined with adolescent data, the lifespan profile of perceptual metacognitive efficiency is an inverted-U](inverted-u-lifespan-profile-of-metacognition.md) — related
+- [Perceptual metacognitive efficiency declines with age in healthy adults aged 18–84, even when task performance is controlled](perceptual-metacognitive-efficiency-declines-with-age.md) — related

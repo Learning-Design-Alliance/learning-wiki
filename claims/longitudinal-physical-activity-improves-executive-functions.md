@@ -43,4 +43,4 @@ Meta-analysis pooling 12 longitudinal physical activity program studies in child
 
 
 ## Related Claims
--
+- [Reported benefits of physical activity programs on executive functions depend on program duration and the executive domain analyzed](pa-program-duration-dependent-ef-benefits.md) — related

@@ -39,4 +39,9 @@ Same linear mixed model analysis of reaction times in the Posner cue task, with 
 
 
 ## Related Claims
--
+- [Reaction times differ significantly across all three cue conditions, with fastest RT for valid cues and slowest for no-cue stimuli](rt-differs-across-cue-conditions.md) — related
+- [Higher cardiorespiratory fitness is associated with faster reaction times for stimuli following invalid cues in healthy male high-school students](vo2max-associated-faster-rt-invalid-cue.md) — related
+- [Cardiorespiratory fitness is not associated with reaction times for uncued stimuli in healthy male high-school students](vo2max-not-associated-rt-no-cue.md) — related
+- [A significant main effect of stimuli category exists on reaction time in the Posner cue task](main-effect-stimuli-category-rt.md) — related
+- [Later time-point of cognitive testing is associated with faster reaction times, with significantly slower RT in the morning](testing-time-point-associated-rt.md) — related
+- [Cardiorespiratory fitness (VO2max) is the physical fitness measure most strongly correlated with cognitive functioning in adolescents](vo2max-best-correlated-cognition.md) — a broader claim this one bears on

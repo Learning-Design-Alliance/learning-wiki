@@ -41,4 +41,8 @@ Multiple regression analysis (Model 5) predicting PPVT at 42 months in 50 dyads.
 
 
 ## Related Claims
--
+- [Parent explanations at 42 months are marginally related to child PPVT at 54 months with controls](explanations-42-months-marginally-predict-vocabulary-54-months.md) — related
+- [Parent education relates to input quantity and quality but not to narrative utterances](parent-education-relates-to-input-quantity-quality-not-narratives.md) — related
+- [Parent rare word use at 30 months predicts child PPVT at 42 months with quantity, SES, and prior vocabulary controlled](rare-word-use-30-months-predicts-vocabulary-42-months.md) — possibly the same claim (merge candidate)
+- [Parental language input differs in quantity and quality across SES groups and relates to children's vocabulary, grammar, and processing development](ses-differences-quantity-quality-parental-input.md) — a broader claim this one bears on
+- [Proportions of rare words and decontextualized utterances in parent input increase linearly from 18 to 42 months](proportions-rare-decontextualized-increase-over-time.md) — related

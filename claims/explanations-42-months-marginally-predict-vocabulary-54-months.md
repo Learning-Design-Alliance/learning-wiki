@@ -15,12 +15,14 @@ sources:
     author: Rowe Meredith L.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Parent explanations at 42 months are marginally related to child PPVT at 54 months with controls
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Parent explanation utterances at 42 months marginally predict PPVT scores at 54 months after controlling for parent education, prior PPVT, and word tokens. [→ Rowe Meredith L 2012](#rowe-meredith-l-2012)
@@ -31,7 +33,7 @@ sources:
 
 Rowe Meredith L. (2012). A longitudinal investigation of the role of quantity and quality of child-directed speech in vocabulary development. Child development. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3440540/
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Regression analysis predicting PPVT at 54 months. "Parents’ use of explanations was also marginally related to later vocabulary skill (with narrative utterances and quantity of talk controlled)" in this diverse SES sample.
 
@@ -41,4 +43,9 @@ Regression analysis predicting PPVT at 54 months. "Parents’ use of explanation
 
 
 ## Related Claims
--
+- [Parent narrative utterances at 42 months predict child PPVT at 54 months with quantity, SES, and prior vocabulary controlled](narrative-utterances-42-months-predict-vocabulary-54-months.md) — related
+- [Parent rare word use at 30 months predicts child PPVT at 42 months with quantity, SES, and prior vocabulary controlled](rare-word-use-30-months-predicts-vocabulary-42-months.md) — related
+- [Parent vocabulary diversity at 30 months predicts child PPVT at 42 months with quantity, SES, and prior vocabulary controlled](vocabulary-diversity-30-months-predicts-vocabulary-42-months.md) — related
+- [Proportions of rare words and decontextualized utterances in parent input increase linearly from 18 to 42 months](proportions-rare-decontextualized-increase-over-time.md) — related
+- [Maternal talk quantity at 18 months predicts Spanish-learning children's vocabulary size and vocabulary gains at 24 months, controlling for earlier vocabulary](maternal-input-quantity-predicts-vocabulary-gains-spanish-learners.md) — related
+- [Parental language input differs in quantity and quality across SES groups and relates to children's vocabulary, grammar, and processing development](ses-differences-quantity-quality-parental-input.md) — a broader claim this one bears on

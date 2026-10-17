@@ -15,18 +15,22 @@ sources:
     author: Hertzog C, Dunlosky J.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: hertzog-c-2011-2
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3903298/"
     title: "Hertzog C, Dunlosky J. (2011). Metacognition in Later Adulthood: Spared Monitoring Can Benefit Older Adults' Self-regulation. Current Directions in Psychological Science. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3903298/"
     author: Hertzog C, Dunlosky J.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Aging does not materially reduce the relative accuracy (resolution) of judgments of learning during encoding, with cross-sectional evidence of no age declines and even age-related increases in aggregate JOL resolution across ages 18 to 81
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Younger and older adults show above-chance and equivalent JOL resolution for paired-associate items, and delayed JOLs have equivalently high resolution for both age groups. [→ Hertzog C 2011](#hertzog-c-2011)
@@ -38,7 +42,7 @@ sources:
 
 Hertzog C, Dunlosky J. (2011). Metacognition in Later Adulthood: Spared Monitoring Can Benefit Older Adults' Self-regulation. Current Directions in Psychological Science. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3903298/
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative review of experimental studies comparing older adults to college students using extreme age-group designs, reporting that "Younger and older adults have above-chance and equivalent resolution of immediate JOLs for paired-associate items"; delayed JOLs likewise show equivalently high resolution for both ages.
 
@@ -48,7 +52,7 @@ Narrative review of experimental studies comparing older adults to college stude
 
 Hertzog C, Dunlosky J. (2011). Metacognition in Later Adulthood: Spared Monitoring Can Benefit Older Adults' Self-regulation. Current Directions in Psychological Science. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3903298/
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Cross-sectional study of adults ages 18 to 81 who studied related and unrelated word pairs, made immediate JOLs, and completed paired-associate recall; regression of gamma correlations on age showed "No age declines in resolution arose across the adult life-span" and significant age-related increases in aggregate resolution.
 
@@ -58,4 +62,8 @@ Cross-sectional study of adults ages 18 to 81 who studied related and unrelated 
 
 
 ## Related Claims
--
+- [Age did not interact with associative relatedness or effective encoding-strategy use in predicting JOLs, indicating no age differences in the use of these two sources of information when making judgments of learning](no-age-difference-jol-information-sources.md) — related
+- [Older adults show lower JOL resolution only when recollection-based responses are contrasted with pooled familiarity and new responses, an outcome attributed to age-related decreases in strong recollective experiences at test](lower-jol-resolution-recollection-contrast.md) — related
+- [Older adults show no reliable deficit in assessing item difficulty (EOL accuracy)](no-age-deficit-eol-difficulty-assessment.md) — related
+- [Training metacognitive self-regulation (self-testing plus selective restudy) produced greater paired-associate learning improvements in older adults than traditional encoding-strategy training when study was self-paced](metacognitive-selfregulation-training-beats-strategy-training.md) — related
+- [Reflective judgment scores increased consistently with age and educational level](reflective-judgment-increases-age-education.md) — related

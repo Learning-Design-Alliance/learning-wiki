@@ -15,12 +15,14 @@ sources:
     author: Gardiner Paul
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Group diversity problems stem from coordination failures rather than categorisation differences
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Problems in diverse groups emerge from coordination failures — failure to manage different perspectives — rather than from categorisation issues such as demographic differences. [→ Gardiner Paul 2020](#gardiner-paul-2020)
@@ -31,7 +33,7 @@ sources:
 
 Gardiner Paul. (2020). Learning to think together: Creativity, interdisciplinary collaboration and epistemic control. Thinking Skills and Creativity. https://doi.org/10.1016/j.tsc.2020.100749
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The article reports, citing Srikanth et al. (2016), that "problems in groups emerged from coordination failures" rather than categorisation issues. Hawlina et al. (2017) similarly found unfavourable outcomes stem from failure to coordinate perspectives, not a priori intergroup biases.
 
@@ -41,4 +43,5 @@ The article reports, citing Srikanth et al. (2016), that "problems in groups eme
 
 
 ## Related Claims
--
+- [Groups of high-performing students often fail problem-solving tasks when they do not collaborate, showing why collaborative skills need assessment and feedback](high-performing-groups-fail-without-collaboration.md) — related
+- [Perspective taking increases the creativity of dyadic interactions](perspective-taking-increases-dyad-creativity.md) — related

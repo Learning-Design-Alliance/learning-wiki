@@ -15,12 +15,14 @@ sources:
     author: "Gottfried, M. A. & Williams, D."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # The science club–science GPA relationship is not significant for Asian students, though the math club relationship is
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r3` · `q2`
 
 ## Subclaims
 `q2 i?` For Asian students, math club participation relates to higher math GPAs, but science club participation shows no statistically significant relationship with science GPA. [→ Gottfried 2013](#gottfried-2013)
@@ -31,7 +33,7 @@ sources:
 
 Gottfried, M. A. & Williams, D. (2013). STEM Club Participation and STEM Schooling Outcomes. Education Policy Analysis Archives, 21 (79). http://epaa.asu.edu/ojs/article/view/1361
 
-`q2 · i?`
+`q2 · i?` · `associational · r3`
 
 Subgroup models in Tables 5 and 6: Asian students showed significant math club coefficients (e.g., 0.314** full OLS) but non-significant science club coefficients (e.g., 0.116 full OLS; 0.021 block matching). The authors attribute possible instability to small subgroup sample sizes.
 
@@ -41,4 +43,8 @@ Subgroup models in Tables 5 and 6: Asian students showed significant math club c
 
 
 ## Related Claims
--
+- [Math club participation is positively associated with high school math GPA, with a medium standardized relationship that persists after propensity score matching](math-club-participation-higher-math-gpa.md) — a broader claim this one bears on
+- [Science club participation is positively associated with high school science GPA, significant across all three propensity score matching methods](science-club-participation-higher-science-gpa.md) — related
+- [Gender does not moderate the club participation–GPA relationship in math or science](gender-does-not-moderate-club-gpa-relationship.md) — related
+- [Science club participation shows no statistically significant relationship with selecting a STEM college major](science-club-no-stem-major-association.md) — related
+- [STEM club participants differ descriptively from non-participants in GPA, course-taking, test scores, and college desire](stem-club-participants-descriptive-differences.md) — related

@@ -15,12 +15,14 @@ sources:
     author: "Peacock, S., & Cowan, J."
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # A sense of belonging is firmly linked with improved student attainment, increased learners' satisfaction and reduced attrition rates in campus-based learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Campus-based learning research links SoB with improved attainment, increased satisfaction and reduced attrition. [→ Peacock 2019](#peacock-2019)
@@ -31,7 +33,7 @@ sources:
 
 Peacock, S., & Cowan, J. (2019). Promoting a Sense of Belonging in Online Learning Communities of Inquiry. Online Learning, 23(2). https://doi.org/10.24059/olj.v23i2.1488
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The article's opening review statement reports that in campus-based learning, SoB is "firmly linked with improved student attainment, increased learners' satisfaction and reduced attrition rates". This is the authors' synthesis of prior belonging research, not a new empirical test.
 
@@ -41,4 +43,5 @@ The article's opening review statement reports that in campus-based learning, So
 
 
 ## Related Claims
--
+- [A sense of belonging can help promote and consolidate online learning](sob-promotes-consolidates-online-learning.md) — related
+- [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](stronger-belonging-linked-engagement-achievement.md) — possibly the same claim (merge candidate)

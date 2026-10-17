@@ -38,7 +38,7 @@ The authors recommend using ordinary school physical-education activities as cos
 - improving short-term memory (verbal, visuo-spatial, motor) as a foundation for academic performance
 
 ### Affordances
-- [Baddeley Wm Model Gestural Buffer Extension](../theories/baddeley-wm-model-gestural-buffer-extension.md)
+- [Baddeley Wm Model Gestural Buffer Extension](../theories/information-processing-theory.md)
 
 ## Related Strategies
 - 

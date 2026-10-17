@@ -62,3 +62,4 @@ Slice-specific regressions with Benjamini–Hochberg adjustment predicting learn
 - [RT propensity shows no reliable main effect on learning rate, while prior proficiency is positively associated with learning rate](no-main-effect-rt-propensity-learning-rate.md) — related
 - [Response-time propensities show moderate to strong within-student stability across practice session slices](rt-propensities-moderate-strong-stability.md) — related
 - [The association between RT propensity and learning rate is moderated by prior proficiency: slower propensities predict greater learning efficiency for higher-proficiency students but are weakly negative for lower-proficiency students](rt-propensity-proficiency-interaction-learning.md) — related
+- [Later time-point of cognitive testing is associated with faster reaction times, with significantly slower RT in the morning](testing-time-point-associated-rt.md) — related

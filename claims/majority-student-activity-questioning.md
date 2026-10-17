@@ -44,3 +44,4 @@ Categorization of student activities during the MAIC pilot courses (Figure 6). T
 
 ## Related Claims
 - [Several FRTF behavioral examples were not sorted better than chance, including actively listening to others (18.2%) and exploring implications of proposed solutions (9.4%)](frtf-behavioral-examples-below-chance.md) — related
+- [Children's exploratory behavior is related to their question asking](exploration-related-to-question-asking.md) — related

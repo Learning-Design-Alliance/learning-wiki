@@ -43,4 +43,5 @@ Null correlational analysis in the same 56-participant sample, using a 2-down 1-
 
 
 ## Related Claims
--
+- [Metacognitive ability improves across adolescence, with a logarithmic age trajectory](cms-age-effect-metacognition.md) — related
+- [Perceptual metacognitive efficiency declines with age in healthy adults aged 18–84, even when task performance is controlled](perceptual-metacognitive-efficiency-declines-with-age.md) — related

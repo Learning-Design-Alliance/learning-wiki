@@ -15,12 +15,14 @@ sources:
     author: Véronique Cornu, Caroline Hornung, Christine Schiltz, Romain Martin
     q: 3
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Kindergarten spatial orientation performance longitudinally predicts arithmetic performance four months later
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Children's performance in arithmetic was predicted by their performance on the spatial orientation task, controlling for other spatial, numerical and cognitive measures. [→ Véronique Cornu 2017](#veronique-cornu-2017)
@@ -31,7 +33,7 @@ sources:
 
 Véronique Cornu, Caroline Hornung, Christine Schiltz, Romain Martin. (2017). The predictive role of spatial skills for arithmetic and number line estimation in kindergarten children. https://doi.org/10.1016/j.cogdev.2017.09.002
 
-`q3 · i?`
+`q3 · i?` · `associational · r?`
 
 Longitudinal hierarchical regression analysis in a kindergarten sample (N = 125) testing whether Time 1 spatial and numerical abilities predicted arithmetic four months later. The article reports that "children’s performance in arithmetic was predicted by their performance on the spatial orientation and visuo-motor integration task". No standardized coefficient is printed in the supplied text.
 
@@ -41,4 +43,7 @@ Longitudinal hierarchical regression analysis in a kindergarten sample (N = 125)
 
 
 ## Related Claims
--
+- [The relation between kindergarten spatial orientation and arithmetic is partially mediated by number line estimation](number-line-estimation-partially-mediates-spatial-orientation-arithmetic.md) — related
+- [Kindergarten spatial orientation performance longitudinally predicts number line estimation performance four months later](spatial-orientation-predicts-number-line-estimation.md) — related
+- [Visuo-motor integration and Arabic-numeral knowledge also longitudinally predict kindergarten arithmetic](visuo-motor-integration-and-arabic-numerals-predict-arithmetic.md) — related
+- [Some aspects of spatial skills are more predictive of mathematical development than others, so the construct must be differentiated](spatial-skills-aspects-differ-in-math-predictivity.md) — a broader claim this one bears on

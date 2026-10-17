@@ -15,12 +15,14 @@ sources:
     author: Cowan Nelson
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Unintentional learning of word associations occurs when items co-occur in the focus of attention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Participants incidentally learned which words came from the same list better for short lists of 3 items (about 59%) than for lists of 6 or 9 items (about 53%), supporting binding in the focus of attention. [→ Cowan Nelson 2014](#cowan-nelson-2014)
@@ -31,7 +33,7 @@ sources:
 
 Cowan Nelson. (2014). Working Memory Underpins Cognitive Development, Learning, and Education. Educational Psychology Review. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4207727/
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports an incidental task experiment by Cowan, Donnell, and Saults in which participants judged whether word pairs came from the same list. "Performance was better for words from short lists of 3 items (about 59%) than for words from lists of 6 or 9 items (about 53%)", a small effect supporting unintentional association formation in the focus of attention.
 
@@ -41,4 +43,4 @@ The review reports an incidental task experiment by Cowan, Donnell, and Saults i
 
 
 ## Related Claims
--
+- [With incidental orienting tasks that eliminate structural encoding, distributed presentations produce better free recall than massed presentations](contextual-spacing-effect-survives-orienting-tasks.md) — related

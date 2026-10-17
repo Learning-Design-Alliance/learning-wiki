@@ -37,7 +37,7 @@ The review's forward-looking recommendation is that exercise be investigated as 
 - executive functioning, attention, and behavioral self-regulation
 
 ### Affordances
-- [Neurodevelopmental Compensation Account Adhd](../theories/neurodevelopmental-compensation-account-adhd.md)
+- [Neurodevelopmental Compensation Account Adhd](../theories/executive-function-development.md)
 
 ## Related Strategies
 - 

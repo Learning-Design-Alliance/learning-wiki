@@ -38,7 +38,7 @@ The article recommends, on the strength of its predictive findings, that evaluat
 - early identification of risk for reading and language learning problems
 
 ### Affordances
-- [Consonants In Noise Ffr Biomarker Framework](../theories/consonants-in-noise-ffr-biomarker-framework.md)
+- Consonants In Noise Ffr Biomarker Framework
 
 ## Related Strategies
 - 

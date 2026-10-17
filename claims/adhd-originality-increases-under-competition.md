@@ -15,12 +15,14 @@ sources:
     author: Boot Nathalie, Nevicka Barbara, Baas Matthijs
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Adults with ADHD generate more original ideas under competition for a bonus, but not without competition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` ADHD participants became more original under competition (Mcompetition = 1.92, Mno competition = 1.72), whereas control participants did not (Mcompetition = 1.79, Mno competition = 1.71). [→ Boot Nathalie 2017](#boot-nathalie-2017)
@@ -32,7 +34,7 @@ sources:
 
 Boot Nathalie, Nevicka Barbara, Baas Matthijs. (2017). Creativity in ADHD: Goal-Directed Motivation and Domain Specificity. Journal of Attention Disorders. https://doi.org/10.1177/1087054717727352
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Study 2, a lab experiment with 46 adults with ADHD and 44 controls, manipulated competition within subjects during the Alternate Uses Task with age as covariate. The repeated-measures ANOVA showed the ADHD group "became more original under competition" while controls did not; the omnibus interaction was significant (ηp2 = .05).
 
@@ -42,4 +44,7 @@ Study 2, a lab experiment with 46 adults with ADHD and 44 controls, manipulated 
 
 
 ## Related Claims
--
+- [Adults with ADHD select fewer useful problem reconstructions than controls, with equal originality](adhd-less-useful-problem-reconstruction.md) — related
+- [Competition raises idea originality for all participants but does not affect fluency or flexibility](competition-main-effect-originality-not-fluency.md) — a broader claim this one bears on
+- [Intrinsic motivation during idea generation does not differ between adults with ADHD and controls](no-intrinsic-motivation-difference-idea-generation.md) — related
+- [Medication use does not affect creativity measures in adults with ADHD](no-medication-effect-on-creativity-adhd.md) — related

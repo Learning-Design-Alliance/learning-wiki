@@ -57,3 +57,4 @@ Correlational analysis over two years of conceptual physics courses relating pre
 - [Higher episode completion (>50%) is independently associated with greater learning gain, and the centre effect on gain is mediated by engagement](podcast-dose-response-learning-gain.md) — related
 - The pretest-posttest correlation is a factor in determining a study's statistical power in education evaluations using state assessments. — related
 - Pre-test scores strongly predict post-test scores but not normalized learning gains — reports the opposite
+- [mPFC activity during schema-related encoding predicts normalized second-year course grades, with no such relation for MTL activity](mpfc-schema-encoding-predicts-grades.md) — related

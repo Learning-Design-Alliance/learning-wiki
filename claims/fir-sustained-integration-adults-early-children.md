@@ -48,3 +48,4 @@ Finite impulse response whole-brain analysis in children and adults. In adults, 
 - [Among children, right RLPFC activation for relational integration increases with age, with no relationship to estimated IQ](rlpfc-activation-increases-with-age-children.md) — related
 - [Inferior parietal cortex (BA 39 and 40) shows greater overall activation in adults than children and a more pronounced effect of relational integration in adults](parietal-ipl-greater-activation-adults.md) — related
 - [Meta-analyses identify a distributed frontoparietal network for flexible switching including vlPFC, dlPFC, ACC, right AI, parietal and subcortical regions](frontoparietal-network-flexible-switching.md) — related
+- [A graded left superior parietal retrieval-success effect emerges by age 12 but is absent in 8-year-olds](ppc-retrieval-success-effect-emerges-age-12.md) — related

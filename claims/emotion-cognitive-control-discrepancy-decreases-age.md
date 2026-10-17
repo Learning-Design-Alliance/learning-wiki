@@ -15,12 +15,14 @@ sources:
     author: Ahmed Saz P., Bittencourt-Hewitt Amanda, Sebastian Catherine L.
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Emotion regulation and cognitive control discrepancy on emotional go/no-go decreases with age
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In a large behavioural go/no-go study, both emotion regulation and cognitive control improved with age, and the discrepancy between performance on emotional versus neutral no-go trials decreased with increasing age. [→ Ahmed Saz P. 2015](#ahmed-saz-p-2015)
@@ -31,7 +33,7 @@ sources:
 
 Ahmed Saz P., Bittencourt-Hewitt Amanda, Sebastian Catherine L. (2015). Neurocognitive bases of emotion regulation development in adolescence. Developmental Cognitive Neuroscience. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6989808/
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 A behavioural study of 100 participants aged 5-28 using an emotional go/no-go task with fearful, sad, angry and happy faces. Emotion regulation was defined as false alarm rate on emotional no-go trials; the review reports both improved with age while the emotional-neutral discrepancy narrowed.
 
@@ -41,4 +43,7 @@ A behavioural study of 100 participants aged 5-28 using an emotional go/no-go ta
 
 
 ## Related Claims
--
+- [Adolescents show disproportionately greater false alarms on happy no-go trials with heightened ventral striatum activity](adolescent-happy-nogo-false-alarm-ventral-striatum.md) — related
+- [Instructed reappraisal success improves with age across ages 10-23, following linear and quadratic trends](instructed-reappraisal-success-improves-age-10-23.md) — related
+- [Task-irrelevant negative images disrupt no-go accuracy specifically in early-mid adolescence](task-irrelevant-negative-images-disrupt-early-adolescent-inhibition.md) — related
+- [Self-reported suppression use decreases between ages 9 and 15](suppression-use-decreases-ages-9-15.md) — related

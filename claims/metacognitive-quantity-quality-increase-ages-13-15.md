@@ -50,3 +50,4 @@ Cross-sectional MANOVA comparing 29 second-year and 30 third-year students on th
 - [Metacognitive components differ in developmental trajectory: planning and evaluation grow in quantity and quality, orientation quantity decreases, and elaboration grows in frequency but not quality](metacognitive-components-differential-development.md) — possibly the same claim (merge candidate)
 - [The mixed model holds for metacognitive quality in both age groups: metacognitive skillfulness contributes uniquely to math performance on top of intelligence](mixed-model-metacognitive-quality-unique-contribution.md) — related
 - [Metacognitive skillfulness develops alongside, but not fully dependent on, intellectual ability, in line with the monotonic development hypothesis](monotonic-development-metacognitive-skills.md) — related
+- [Metacognitive ability improves across adolescence, with a logarithmic age trajectory](cms-age-effect-metacognition.md) — a broader claim this one bears on

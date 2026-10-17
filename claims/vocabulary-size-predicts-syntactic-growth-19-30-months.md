@@ -41,4 +41,6 @@ Growth curve analysis of M3L between 19 and 30 months with Expressive Vocabulary
 
 
 ## Related Claims
--
+- [Processing speed at 19 months does not significantly influence linear vocabulary growth between 19 and 30 months](processing-speed-no-linear-vocabulary-growth-effect-19-30-months.md) — related
+- [Faster processing speed at 19 months predicts faster syntactic growth between 19 and 30 months, controlling for concurrent vocabulary](processing-speed-predicts-syntactic-growth-controlling-vocabulary.md) — related
+- [Processing speed at 19 months correlates with expressive vocabulary between 18 and 31 months, but processing speed at 25 and 31 months does not](processing-speed-vocabulary-correlation-only-at-19-months.md) — related

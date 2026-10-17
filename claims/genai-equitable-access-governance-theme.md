@@ -57,3 +57,4 @@ Grounded-coding finding from the Delphi panel: "Panelists voiced concern that wi
 - [Contrary to claims that AI will automatically engender a more democratic, equal, and sustainable world, the editorial argues these technologies tend to exacerbate existing inequalities, environmental degradation, and labour precarity](ai-exacerbates-inequalities-environmental-degradation.md) — related
 - [Equitable-access and digital-inclusion themes are minimally represented in HI/HIM AI policies](equitable-access-themes-limited-ai-policies.md) — related
 - [SAIL is designed to address second- and third-level digital divides through scaffolded skills and explicitly embedded equity competencies](sail-addresses-second-third-level-digital-divides.md) — related
+- [Do-it-yourself digital learning alone can exacerbate digital inequalities because learners hit a wall requiring direct guided instruction](diy-digital-learning-hits-wall.md) — related

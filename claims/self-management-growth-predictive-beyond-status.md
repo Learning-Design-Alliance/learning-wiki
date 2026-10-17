@@ -45,3 +45,4 @@ From the single-construct SEM results comparing SEL coefficient magnitudes with 
 ## Related Claims
 - [In a pooled multivariate model, the combined self-efficacy/self-management growth predicts about 80% lower odds of suspension, while the growth mindset intercept unexpectedly increases suspension odds](pooled-model-suspension-growth-mindset-paradox.md) — related
 - [Self-management status and growth across middle school predict lower odds of having a GPA below a C and of being suspended in 9th grade, but not chronic absenteeism](self-management-status-growth-predict-off-track-9th-grade.md) — a broader claim this one bears on
+- [Academic self-regulation in 8th grade robustly predicts both GPA and school adjustment in 9th grade](asr-predicts-gpa-and-school-adjustment.md) — related

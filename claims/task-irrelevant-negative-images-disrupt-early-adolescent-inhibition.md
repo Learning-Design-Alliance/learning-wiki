@@ -15,12 +15,14 @@ sources:
     author: Ahmed Saz P., Bittencourt-Hewitt Amanda, Sebastian Catherine L.
     q: 3
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Task-irrelevant negative images disrupt no-go accuracy specifically in early-mid adolescence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r3` · `q3`
 
 ## Subclaims
 `q3 i?` In a go/no-go task with task-irrelevant negative background images, lower accuracy on no-go trials in the presence of negative images was seen specifically in adolescents aged 13-14 years and in girls aged 15-16. [→ Ahmed Saz P. 2015](#ahmed-saz-p-2015)
@@ -31,7 +33,7 @@ sources:
 
 Ahmed Saz P., Bittencourt-Hewitt Amanda, Sebastian Catherine L. (2015). Neurocognitive bases of emotion regulation development in adolescence. Developmental Cognitive Neuroscience. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6989808/
 
-`q3 · i?`
+`q3 · i?` · `review · r3`
 
 A study of 100 participants aged 11-25 using a go/no-go task with letters over negative, positive, neutral or scrambled IAPS backgrounds. The review reports slower RTs for negative trials across all ages but no-go accuracy deficits specific to early-mid adolescents.
 
@@ -41,4 +43,7 @@ A study of 100 participants aged 11-25 using a go/no-go task with letters over n
 
 
 ## Related Claims
--
+- [Emotion regulation and cognitive control discrepancy on emotional go/no-go decreases with age](emotion-cognitive-control-discrepancy-decreases-age.md) — related
+- [During early and mid-adolescence, brain reward and emotion systems are more developed than cognitive control systems, leaving self-regulation developmentally out of balance](adolescent-brain-imbalance-reward-versus-control.md) — a broader claim this one bears on
+- [Adolescents show disproportionately greater false alarms on happy no-go trials with heightened ventral striatum activity](adolescent-happy-nogo-false-alarm-ventral-striatum.md) — related
+- [Task-relevant emotions affect response inhibition more strongly than task-irrelevant emotions, especially in young children](task-relevant-emotions-stronger-response-inhibition-effect.md) — related

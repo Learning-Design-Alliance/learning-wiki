@@ -15,12 +15,14 @@ sources:
     author: "Alamprese, J. A., MacArthur, C. A., Price, C., & Knight, D."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Learners in K-3 structured decoding curricula adapted for adults (comparison group) did not differ significantly from treatment or control groups on any reading measure
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` None of the reading gain differences between the comparison group and the treatment or control groups were statistically significant. [→ Alamprese 2011](#alamprese-2011)
@@ -31,7 +33,7 @@ sources:
 
 Alamprese, J. A., MacArthur, C. A., Price, C., & Knight, D. (2011). Effects of a Structured Decoding Curriculum on Adult Literacy Learners' Reading Development. Journal of Research on Educational Effectiveness. https://doi.org/10.1080/19345747.2011.555294
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Supplemental non-randomized comparison analysis of 7 ABE programs whose instructors used commercially produced K-3 structured decoding curricula adapted for adult learners (comparison n=88 in Table 5); differences were in standardized effect size units.
 
@@ -41,4 +43,6 @@ Supplemental non-randomized comparison analysis of 7 ABE programs whose instruct
 
 
 ## Related Claims
--
+- [The MSDS curriculum showed no statistically significant effects on word recognition, spelling, fluency, or comprehension outcomes](msds-no-effects-other-reading-measures.md) — related
+- [The MSDS structured decoding curriculum produced a small but significant effect on adult learners' pseudoword decoding (WJR Word Attack) relative to control instruction](msds-small-significant-word-attack-effect.md) — related
+- [Only one between-group difference emerged: the Control/Comparison, Decoding and Fluency, and DCEF groups showed stronger word attack outcomes than the Extensive Reading group](word-attack-group-differences-er-weakest.md) — related

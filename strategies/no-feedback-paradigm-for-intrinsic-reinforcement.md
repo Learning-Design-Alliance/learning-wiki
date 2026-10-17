@@ -40,7 +40,7 @@ The article recommends investigating intrinsic reinforcement using task paradigm
 - measuring intrinsic reinforcement and motivation during cognitive tasks
 
 ### Affordances
-- [Intrinsic Reinforcement Signals Vs Cognitive Tasks](../theories/intrinsic-reinforcement-signals-vs-cognitive-tasks.md)
+- Intrinsic Reinforcement Signals Vs Cognitive Tasks
 
 ## Related Strategies
 - 

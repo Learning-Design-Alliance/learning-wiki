@@ -15,12 +15,14 @@ sources:
     author: Schwab Jessica F., Lew-Williams Casey
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Household and community factors—parenting knowledge, stress, depression, and resource scarcity—may mediate or constrain SES-related differences in input and learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Culturally transmitted knowledge, parental warmth, household stress, and the cognitive burden of managing scarce resources are proposed mediators of the SES–input–learning relation. [→ Schwab Jessica F. 2016](#schwab-jessica-f-2016)
@@ -31,7 +33,7 @@ sources:
 
 Schwab Jessica F., Lew-Williams Casey. (2016). Language learning, socioeconomic status, and child-directed speech. Wiley interdisciplinary reviews. Cognitive science. https://doi.org/10.1002/wcs.1393
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review argues, citing prior work, that scarcity captures mental resources, that toxic stress response is "particularly detrimental to successful learning," and that maternal stress correlates with lower birth weight. These are interpretive claims about mediating mechanisms, not tested effects in this article.
 
@@ -41,4 +43,6 @@ The review argues, citing prior work, that scarcity captures mental resources, t
 
 
 ## Related Claims
--
+- [Parental language input differs in quantity and quality across SES groups and relates to children's vocabulary, grammar, and processing development](ses-differences-quantity-quality-parental-input.md) — related
+- [Maternal depression at 33 months was not a significant mediator of the financial difficulty–ADHD association](maternal-depression-null-mediator-ses-adhd.md) — reports the opposite
+- [Teachers who took part in funds of knowledge household research came to view their minority students as competent and raised their expectations of them.](funds-of-knowledge-research-raises-teacher-expectations.md) — related

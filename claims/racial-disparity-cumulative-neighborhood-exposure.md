@@ -15,12 +15,14 @@ sources:
     author: Wodtke, Geoffrey T.; Harding, David J.; Elwert, Felix
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The racial disparity in long-term exposure to the most disadvantaged neighborhoods is more pronounced than the disparity at any single age
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` About 65% of black children experienced childhood sequences of neighborhoods that were on average extremely disadvantaged, versus 8.74% of nonblack children. [→ Wodtke 2011](#wodtke-2011)
@@ -31,7 +33,7 @@ sources:
 
 Wodtke, Geoffrey T.; Harding, David J.; Elwert, Felix. (2011). Neighborhood Effects in Temporal Perspective. American Sociological Review. https://doi.org/10.1177/0003122411420816
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Descriptive analysis of duration-weighted exposure in the PSID cohort (Table 3). The article concludes "the racial disparity in long-term exposure to the most disadvantaged neighborhoods throughout childhood was more pronounced than the racial disparity in neighborhood environments at any single age."
 
@@ -41,4 +43,6 @@ Descriptive analysis of duration-weighted exposure in the PSID cohort (Table 3).
 
 
 ## Related Claims
--
+- [Neighborhood context is a transient ecological setting, with many families moving between neighborhood disadvantage quintiles during childhood](neighborhood-context-transient-frequent-mobility.md) — related
+- [Sustained exposure to the most disadvantaged neighborhoods from age 2 to 17 substantially reduces the probability of high school graduation for both black and nonblack children](sustained-neighborhood-disadvantage-reduces-high-school-graduation.md) — related
+- [ACE exposure is unevenly distributed: children below 400% FPL and Black and Hispanic children have higher prevalence of two or more ACEs](ace-prevalence-disparities-fpl-and-race.md) — related

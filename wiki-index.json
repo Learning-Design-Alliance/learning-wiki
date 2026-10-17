@@ -1,15 +1,15 @@
 {
 "counts":{
 "claim":18463,
-"design":797,
+"design":819,
 "element":1066,
 "learner-variable":74,
 "method":38,
 "pattern":65,
 "principle":213,
 "process":18,
-"product":1665,
-"research-method":340,
+"product":1691,
+"research-method":346,
 "strategy":5940,
 "theory":1361
 },
@@ -166613,6 +166613,14 @@
 "type":"design"
 },
 {
+"description":"The agents studied were \\\"animated characters represented in human form\\\" that converse with learners via an artificial intelligence engine matching student comments to agent responses.",
+"id":"ai-conversational-pedagogical-agent-system",
+"path":"designs/ai-conversational-pedagogical-agent-system.md",
+"status":"review",
+"title":"Conversational pedagogical agent with AI-driven dialogue, lip-synchronised audio and conversation memory",
+"type":"design"
+},
+{
 "description":"The framework uses the BPM lifecycle to structure explicit, phase-related decisions about AI adoption across identification, discovery, analysis, redesign, implementation, and monitoring.",
 "id":"ai-decision-checkpoints-framework",
 "path":"designs/ai-decision-checkpoints-framework.md",
@@ -167135,6 +167143,14 @@
 "type":"design"
 },
 {
+"description":"The BOLOS Time 2 battery included a 12-week diary study in which participants completed a weekly report of everyday experiences at the end of each week.",
+"id":"bolos-12-week-weekly-memory-diary",
+"path":"designs/bolos-12-week-weekly-memory-diary.md",
+"status":"review",
+"title":"12-week weekly paper-and-pencil diary protocol for everyday memory problems and perceived control",
+"type":"design"
+},
+{
 "description":"Boston Public Schools enlists early childhood programming in its achievement acceleration agenda by \\\"implementing uniform mathematics and literacy programs across early learning programs and including teacher training...",
 "id":"bps-early-learning-uniform-curricula-coaches-naeyc",
 "path":"designs/bps-early-learning-uniform-curricula-coaches-naeyc.md",
@@ -167412,6 +167428,14 @@
 "path":"designs/classroom-proof-assistant-design-criteria.md",
 "status":"review",
 "title":"Eight learner-centered design criteria for classroom proof assistants, organized under learning and usability goals",
+"type":"design"
+},
+{
+"description":"The study drew on a battery of measures administered across four 2.5-hour testing sessions to 483 twins ages 8 to 16.",
+"id":"cldrc-cognitive-reading-test-battery",
+"path":"designs/cldrc-cognitive-reading-test-battery.md",
+"status":"review",
+"title":"Cognitive and reading test battery from the Colorado Learning Disabilities Research Center twin study",
 "type":"design"
 },
 {
@@ -167999,6 +168023,22 @@
 "type":"design"
 },
 {
+"description":"An experimental apparatus and procedure for studying latent inhibition in adult humans.",
+"id":"dichotic-listening-latent-inhibition-paradigm",
+"path":"designs/dichotic-listening-latent-inhibition-paradigm.md",
+"status":"review",
+"title":"Dichotic listening preexposure paradigm with CS-scoreboard instrumental conditioning task",
+"type":"design"
+},
+{
+"description":"The Digital Café is a two-hour weekly drop-in program in a suburb of Vancouver, BC, offering free Internet, computers, and just-in-time volunteer tutor support for tasks such as email, job applications, online governm...",
+"id":"digital-cafe-public-access-space",
+"path":"designs/digital-cafe-public-access-space.md",
+"status":"review",
+"title":"The Digital Café: a drop-in public-access computing and learning space",
+"type":"design"
+},
+{
 "description":"The report enumerates the characteristics learning takes on once digital content is integrated into curriculum: problem and project centered, student-centered, collaborative, communicative, customized, productive, and...",
 "id":"digital-learning-environment-characteristics",
 "path":"designs/digital-learning-environment-characteristics.md",
@@ -168143,6 +168183,14 @@
 "type":"design"
 },
 {
+"description":"The study operationalizes reinforcement sensitivity by administering the same visuospatial WM and STM tasks under two conditions: a standard feedback-only condition and a high-reinforcement condition adding a monetary...",
+"id":"dual-condition-reinforcement-indexing-adhd",
+"path":"designs/dual-condition-reinforcement-indexing-adhd.md",
+"status":"review",
+"title":"Dual-condition reinforcement-sensitivity indexing of visuospatial WM and STM in ADHD subtypes",
+"type":"design"
+},
+{
 "description":"Research for this project suggests design features for capacity-building TA in school-based behavioral health.",
 "id":"dual-focus-cross-agency-behavioral-health-ta",
 "path":"designs/dual-focus-cross-agency-behavioral-health-ta.md",
@@ -168228,6 +168276,14 @@
 "path":"designs/early-steps-daily-tutoring-session-structure.md",
 "status":"review",
 "title":"Daily one-to-one tutoring session structure: re-reading, word study, sentence writing, new books",
+"type":"design"
+},
+{
+"description":"The article recommends an early instructional focus on variation and distribution through meaningful measurement activities.",
+"id":"early-variation-measurement-activities",
+"path":"designs/early-variation-measurement-activities.md",
+"status":"review",
+"title":"Build early statistical thinking on measurement activities that let students observe, represent and contrast variation in both hand-drawn and software formats",
 "type":"design"
 },
 {
@@ -168558,6 +168614,14 @@
 "path":"designs/explicit-instruction-in-historical-contextualization.md",
 "status":"review",
 "title":"Explicit Instruction in Historical Contextualization",
+"type":"design"
+},
+{
+"description":"The article frames adult literacy instruction as divided between two approaches.",
+"id":"explicit-vs-implicit-adult-reading-instruction",
+"path":"designs/explicit-vs-implicit-adult-reading-instruction.md",
+"status":"review",
+"title":"Explicit skills instruction versus implicit extensive reading as competing approaches to adult literacy instruction",
 "type":"design"
 },
 {
@@ -168906,6 +168970,14 @@
 "type":"design"
 },
 {
+"description":"The article describes a modified Strategic Instruction Model (SIM) instructional method adapted for adult-to-adult interaction in four phases: Phase 1 addresses learning readiness, goal setting and commitment; Phase 2...",
+"id":"four-phase-sim-explicit-instruction-model-adults",
+"path":"designs/four-phase-sim-explicit-instruction-model-adults.md",
+"status":"review",
+"title":"Four-phase modified SIM explicit instruction model for adult learners",
+"type":"design"
+},
+{
 "description":"The implementation was organised as a repeating weekly structure in which \\\"each week consisting of four phases\\\".",
 "id":"four-phase-weekly-ai-simulation-cycle",
 "path":"designs/four-phase-weekly-ai-simulation-cycle.md",
@@ -169226,6 +169298,14 @@
 "type":"design"
 },
 {
+"description":"The Geospatial Semester is a real-world high school course, first adopted by Virginia high schools in 2005 and now implemented over two semesters, in which students construct and evaluate spatial representations (maps...",
+"id":"geospatial-semester-gis-curriculum",
+"path":"designs/geospatial-semester-gis-curriculum.md",
+"status":"review",
+"title":"Geospatial Semester: a GIS-based in-school spatial curriculum for high school STEM",
+"type":"design"
+},
+{
 "description":"A prerequisite knowledge graph extracted by GPT-4 from 26 lesson PDFs of a graduate-level AI course, following a three-stage protocol of topic extraction, boundary consolidation, and edge extraction.",
 "id":"gpt4-curriculum-prerequisite-knowledge-graph",
 "path":"designs/gpt4-curriculum-prerequisite-knowledge-graph.md",
@@ -169351,6 +169431,14 @@
 "path":"designs/hcs-configurable-analytics-design.md",
 "status":"review",
 "title":"Highly Configurable System design for cross-domain learning analytics",
+"type":"design"
+},
+{
+"description":"The article describes a literacy assessment composed of nine health literacy questions (e.g., understanding Medicare, medication instructions, interpreting drug risk) and 23 financial literacy questions (numeracy, com...",
+"id":"health-financial-literacy-assessment-map",
+"path":"designs/health-financial-literacy-assessment-map.md",
+"status":"review",
+"title":"Combined health and financial literacy assessment yielding an averaged total literacy score",
 "type":"design"
 },
 {
@@ -169850,6 +169938,14 @@
 "path":"designs/l2c-rl-coaching-framework.md",
 "status":"review",
 "title":"Learning to Coach (L2C): an RL pipeline combining adaptive blending, a skill-change PFA, and a surrogate reward",
+"type":"design"
+},
+{
+"description":"The Language 0–5 Project is a large longitudinal cohort in the North West of England from which this study draws its data.",
+"id":"language-05-project-processing-speed-cohort",
+"path":"designs/language-05-project-processing-speed-cohort.md",
+"status":"review",
+"title":"Language 0–5 Project longitudinal cohort with looking-while-listening processing speed measurement",
 "type":"design"
 },
 {
@@ -170880,6 +170976,14 @@
 "type":"design"
 },
 {
+"description":"A battery of nine physical tests and five cognitive instruments used to assess adolescents' fitness and executive functions: \\\"resistance strength with the 30-second Chair Stand Test\\\", explosive strength (standing broa...",
+"id":"pf-ef-assessment-battery-adolescents",
+"path":"designs/pf-ef-assessment-battery-adolescents.md",
+"status":"review",
+"title":"Physical fitness and executive function assessment battery for adolescents",
+"type":"design"
+},
+{
 "description":"A reusable program-level design in which the clinical year is broken into 2-week increments that specify residents' coteaching roles, responsibilities, and strategies, plus focal Danielson Clusters that coursework rei...",
 "id":"phase-in-schedule-resident-responsibility",
 "path":"designs/phase-in-schedule-resident-responsibility.md",
@@ -170901,6 +171005,14 @@
 "path":"designs/phoenix-voice-llm-peer-agent-group-learning.md",
 "status":"review",
 "title":"Phoenix: a voice-based, non-embodied LLM conversational peer agent for group learning",
+"type":"design"
+},
+{
+"description":"A set of measures of phonological awareness, phonological memory, rapid naming and visual processing administered to 50 students of the 3rd grade of an Elementary Public School to assess their contribution to reading...",
+"id":"phonological-processing-assessment-battery-third-grade",
+"path":"designs/phonological-processing-assessment-battery-third-grade.md",
+"status":"review",
+"title":"Phonological processing assessment battery for third-grade literacy prediction",
 "type":"design"
 },
 {
@@ -170949,6 +171061,14 @@
 "path":"designs/point-person-role-ousd-dual-enrollment.md",
 "status":"review",
 "title":"The Point Person: an embedded OUSD staff member supporting each dual enrollment classroom",
+"type":"design"
+},
+{
+"description":"The study used a pc-based visual cognitive task based on the Posner cue paradigm to assess reaction time, accuracy and inhibition.",
+"id":"posner-cue-paradigm-task-three-stimuli-categories",
+"path":"designs/posner-cue-paradigm-task-three-stimuli-categories.md",
+"status":"review",
+"title":"Posner cue paradigm visual cognitive task with three stimuli categories for assessing selective attention and inhibitory control",
 "type":"design"
 },
 {
@@ -171568,6 +171688,14 @@
 "type":"design"
 },
 {
+"description":"A task battery contrasting short-term memory for serial order with short-term memory for item information, administered behaviorally and inside the fMRI scanner to adults with a history of developmental dyscalculia an...",
+"id":"serial-order-item-recall-fmri-task-battery",
+"path":"designs/serial-order-item-recall-fmri-task-battery.md",
+"status":"review",
+"title":"Serial order versus item recall short-term memory task battery with fMRI",
+"type":"design"
+},
+{
 "description":"Seven custom GPT chatbots (cGPTs) were co-created for six undergraduate units in a Bachelor of Pharmaceutical Science program: Polymer Knowledge, Polymer Socratic, Physiology 1, Physiology 2, Medicinal Chemistry 1, Ph...",
 "id":"seven-co-created-cgpt-chatbots-pharmaceutical-science",
 "path":"designs/seven-co-created-cgpt-chatbots-pharmaceutical-science.md",
@@ -171640,6 +171768,14 @@
 "type":"design"
 },
 {
+"description":"A laboratory analogue of a classroom used to measure learning, attention, and arousal objectively.",
+"id":"simulated-classroom-film-quiz-assessment",
+"path":"designs/simulated-classroom-film-quiz-assessment.md",
+"status":"review",
+"title":"Simulated classroom assessment with educational films, quizzes, and video/EEG monitoring",
+"type":"design"
+},
+{
 "description":"The site coordinator, a role common to US PREP residency transformation sites, fulfills the responsibilities of traditional university field supervisors—\\\"supervising, coaching, and conducting observations for resident...",
 "id":"site-coordinator-role-residency-element",
 "path":"designs/site-coordinator-role-residency-element.md",
@@ -171696,11 +171832,27 @@
 "type":"design"
 },
 {
+"description":"A battery of six widely used psychometric tests administered in a fixed order (UFOV, SOPT, IT, TSP, SART, TMT) at four time-points, chosen because each measures a process previously shown to be alcohol-sensitive, each...",
+"id":"six-test-repeated-measures-cognitive-battery",
+"path":"designs/six-test-repeated-measures-cognitive-battery.md",
+"status":"review",
+"title":"Six-test repeated-measures cognitive battery (UFOV, SOPT, IT, TSP, SART, TMT)",
+"type":"design"
+},
+{
 "description":"An intensive 6-week literacy unit embedded within two existing special education methods courses (mild interventions and intense interventions licensure programs) at a midsize Midwest university.",
 "id":"six-week-co-taught-literacy-unit",
 "path":"designs/six-week-co-taught-literacy-unit.md",
 "status":"review",
 "title":"Six-week co-taught literacy unit embedded in special education methods courses",
+"type":"design"
+},
+{
+"description":"The study designed and implemented sixteen activities based on the dimensions of mathematical measurement skills of length, area, weight, and volume, with four activities per dimension.",
+"id":"sixteen-measurement-activities-peer-interaction",
+"path":"designs/sixteen-measurement-activities-peer-interaction.md",
+"status":"review",
+"title":"Sixteen mathematical measurement activities across length, area, weight, and volume dimensions designed to elicit peer interaction",
 "type":"design"
 },
 {
@@ -172298,6 +172450,14 @@
 "type":"design"
 },
 {
+"description":"A measurement battery combining three language samples with cognitive tests.",
+"id":"three-sample-language-elicitation-battery",
+"path":"designs/three-sample-language-elicitation-battery.md",
+"status":"review",
+"title":"Three-sample language elicitation battery with WAIS vocabulary and digit-span tests",
+"type":"design"
+},
+{
 "description":"The article proposes a data-driven team-formation framework with three stages: \\\"student surveys to capture detailed and granular skill sets and project preferences; (2) LLM-driven extraction of essential project skill...",
 "id":"three-stage-llm-team-formation-methodology",
 "path":"designs/three-stage-llm-team-formation-methodology.md",
@@ -172643,6 +172803,14 @@
 "type":"design"
 },
 {
+"description":"The study assessed cardiorespiratory fitness with an incremental treadmill test to volitional exhaustion, using a metabolic system with a 4.2-L mixing chamber.",
+"id":"vo2max-treadmill-test-protocol",
+"path":"designs/vo2max-treadmill-test-protocol.md",
+"status":"review",
+"title":"Directly measured maximal oxygen uptake test protocol for assessing cardiorespiratory fitness in adolescents",
+"type":"design"
+},
+{
 "description":"A voluntary video game addressing basic computational concepts, deployed for early ages and grounded in intrinsic motivation.",
 "id":"voluntary-intrinsic-motivation-programming-game",
 "path":"designs/voluntary-intrinsic-motivation-programming-game.md",
@@ -172728,6 +172896,14 @@
 "path":"designs/worked-examples-for-game-based-puzzle-problem-solving.md",
 "status":"review",
 "title":"Before-the-problem complete worked examples for a game-based puzzle task",
+"type":"design"
+},
+{
+"description":"A modified director task measuring adaptation to addressees' world knowledge rather than visual perspective.",
+"id":"world-knowledge-ad-task-post-test-survey",
+"path":"designs/world-knowledge-ad-task-post-test-survey.md",
+"status":"review",
+"title":"Novel world knowledge-based audience design task with post-test knowledge attribution survey",
 "type":"design"
 },
 {
@@ -186190,6 +186366,14 @@
 "type":"product"
 },
 {
+"description":"The ASLAI is a computerized battery of video-presented multiple-choice receptive ASL language tasks developed by the research team for assessing deaf students' ASL abilities and informing IEP planning.",
+"id":"american-sign-language-assessment-instrument-aslai",
+"path":"products/american-sign-language-assessment-instrument-aslai.md",
+"status":"review",
+"title":"American Sign Language Assessment Instrument (ASLAI)",
+"type":"product"
+},
+{
 "description":"A proposed federal programme to recognize highly effective K–12 public school teachers and provide eligible teachers, especially those in high-poverty Title I schools, with recognition, salary supplements, and a portable credential.",
 "id":"americas-teacher-corps-atc",
 "path":"products/americas-teacher-corps-atc.md",
@@ -186723,6 +186907,14 @@
 "path":"products/booknook.md",
 "status":"review",
 "title":"BookNook",
+"type":"product"
+},
+{
+"description":"A degree-granting liberal arts higher-education programme run by Boston University in Massachusetts correctional facilities for incarcerated adults, funded through university scholarships and leading to a Bachelor of Liberal Arts degree.",
+"id":"boston-university-prison-education-program",
+"path":"products/boston-university-prison-education-program.md",
+"status":"review",
+"title":"Boston University Prison Education Program",
 "type":"product"
 },
 {
@@ -187288,6 +187480,14 @@
 "type":"product"
 },
 {
+"description":"A seven-item, six-point Likert self-report scale adapted from established stereotype-threat measures to assess secondary students' chronic stereotype-threat experiences in academic settings.",
+"id":"chronic-stereotype-threat-scale",
+"path":"products/chronic-stereotype-threat-scale.md",
+"status":"review",
+"title":"Chronic Stereotype Threat Scale",
+"type":"product"
+},
+{
 "description":"A place-based Promise Neighborhood community programme serving the Castle Park neighborhood of Chula Vista, California, across early childhood, education, college and career readiness, child development, and family support.",
 "id":"chula-vista-promise-neighborhood",
 "path":"products/chula-vista-promise-neighborhood.md",
@@ -187718,6 +187918,22 @@
 "path":"products/completion-by-design.md",
 "status":"review",
 "title":"Completion by Design",
+"type":"product"
+},
+{
+"description":"A battery of L1 and L2 linguistic knowledge, fluency, metacognitive knowledge, and writing-performance measures developed by Schoonen et al.",
+"id":"component-measures-battery-linguistic-knowledge-fluency-and-metacognitive-knowledge-tests",
+"path":"products/component-measures-battery-linguistic-knowledge-fluency-and-metacognitive-knowledge-tests.md",
+"status":"review",
+"title":"Component measures battery: linguistic knowledge, fluency, and metacognitive knowledge tests in L1 and L2",
+"type":"product"
+},
+{
+"description":"The CABC-WM is a computer-based, pirate-themed battery of 13 individually administered working-memory tasks for children, developed by Gray Shelley et al.",
+"id":"comprehensive-assessment-battery-for-children-working-memory-cabc-wm",
+"path":"products/comprehensive-assessment-battery-for-children-working-memory-cabc-wm.md",
+"status":"review",
+"title":"Comprehensive Assessment Battery for Children - Working Memory (CABC-WM)",
 "type":"product"
 },
 {
@@ -188385,6 +188601,14 @@
 "type":"product"
 },
 {
+"description":"A longitudinal dataset from 81 bilingual Puerto Rican-heritage Head Start children containing repeated English and Spanish language measures and reading outcomes, collected and analyzed by Davison et al.",
+"id":"davison-et-al-2011-longitudinal-bilingual-language-and-literacy-dataset",
+"path":"products/davison-et-al-2011-longitudinal-bilingual-language-and-literacy-dataset.md",
+"status":"review",
+"title":"Davison et al. (2011) longitudinal bilingual language and literacy dataset",
+"type":"product"
+},
+{
 "description":"A longitudinal dataset created by Falkenstein Kim et al.",
 "id":"day2day-environment-multimodal-longitudinal-dataset",
 "path":"products/day2day-environment-multimodal-longitudinal-dataset.md",
@@ -188478,6 +188702,14 @@
 "path":"products/developing-talkers.md",
 "status":"review",
 "title":"Developing Talkers",
+"type":"product"
+},
+{
+"description":"The DANVA is a standardized assessment developed by researchers to measure facial and vocal emotion-recognition accuracy through emotion-labeled photographs and audio recordings.",
+"id":"diagnostic-analysis-of-nonverbal-accuracy-danva",
+"path":"products/diagnostic-analysis-of-nonverbal-accuracy-danva.md",
+"status":"review",
+"title":"Diagnostic Analysis of Nonverbal Accuracy (DANVA)",
 "type":"product"
 },
 {
@@ -188744,6 +188976,14 @@
 "path":"products/e3sense.md",
 "status":"review",
 "title":"E3Sense",
+"type":"product"
+},
+{
+"description":"A bilingual open- and close-ended interview developed by Serrano-Villar et al.",
+"id":"early-childhood-ethnic-identity-interview-eceii",
+"path":"products/early-childhood-ethnic-identity-interview-eceii.md",
+"status":"review",
+"title":"Early Childhood Ethnic Identity Interview (ECEII)",
 "type":"product"
 },
 {
@@ -189608,6 +189848,14 @@
 "type":"product"
 },
 {
+"description":"A computerized behavioral task developed by Bialystok, Craik, and Ryan that measures response suppression, inhibitory control, and task switching through speeded responses to gaze and eye-color stimuli.",
+"id":"faces-task",
+"path":"products/faces-task.md",
+"status":"review",
+"title":"Faces task",
+"type":"product"
+},
+{
 "description":"A character-education curriculum developed and delivered by Facing History & Ourselves that uses historical events, especially the Holocaust, to help middle and high school students examine identity, moral reasoning, and civic responsibility.",
 "id":"facing-history-and-ourselves",
 "path":"products/facing-history-and-ourselves.md",
@@ -190138,6 +190386,14 @@
 "type":"product"
 },
 {
+"description":"A computerized 45-minute assessment adapted by Bedyńska et al.",
+"id":"functional-aspects-of-working-memory-test-fawmt",
+"path":"products/functional-aspects-of-working-memory-test-fawmt.md",
+"status":"review",
+"title":"Functional Aspects of Working Memory Test (FAWMT)",
+"type":"product"
+},
+{
 "description":"A structured organizational self-assessment tool developed by Meg Long and colleagues to help funders evaluate whether their strategic intent, culture, and capacity support place-based systems-change investing.",
 "id":"funder-reflection-and-action-tool",
 "path":"products/funder-reflection-and-action-tool.md",
@@ -190415,6 +190671,14 @@
 "path":"products/gold-and-ultra-gold-benchmark-subsets.md",
 "status":"review",
 "title":"Gold and ultra-gold benchmark subsets",
+"type":"product"
+},
+{
+"description":"A computerized assessment battery combining a fish/shark Go/No-Go inhibition task and the Nebraska Barnyard complex-span working-memory task for preschool children.",
+"id":"gono-go-and-nebraska-barnyard-inhibition-and-working-memory-tasks",
+"path":"products/gono-go-and-nebraska-barnyard-inhibition-and-working-memory-tasks.md",
+"status":"review",
+"title":"Go/No-Go and Nebraska Barnyard inhibition and working-memory tasks",
 "type":"product"
 },
 {
@@ -190759,6 +191023,14 @@
 "path":"products/i3p.md",
 "status":"review",
 "title":"I3P",
+"type":"product"
+},
+{
+"description":"A computer-based reading assessment developed to measure struggling students’ word-recognition knowledge and automaticity through tasks such as picture matching, rhyme selection, and auditory–visual verification.",
+"id":"iask-iowa-assessment-of-skills-and-knowledge-for-reading",
+"path":"products/iask-iowa-assessment-of-skills-and-knowledge-for-reading.md",
+"status":"review",
+"title":"iASK (Iowa Assessment of Skills and Knowledge for reading)",
 "type":"product"
 },
 {
@@ -192243,6 +192515,14 @@
 "type":"product"
 },
 {
+"description":"MSDS is a structured adult basic-education curriculum developed by Alamprese et al.",
+"id":"making-sense-of-decoding-and-spelling-msds",
+"path":"products/making-sense-of-decoding-and-spelling-msds.md",
+"status":"review",
+"title":"Making Sense of Decoding and Spelling (MSDS)",
+"type":"product"
+},
+{
 "description":"A GPT-4o-based modular chatbot architecture developed by Gabelmann et al.",
 "id":"mala-modular-artificial-learning-assistance",
 "path":"products/mala-modular-artificial-learning-assistance.md",
@@ -192901,6 +193181,14 @@
 "type":"product"
 },
 {
+"description":"A 17-item multiple-choice chemistry achievement test developed by Kingir (2013) to assess ninth-grade students' understanding of mixtures, including classification, solutions, solubility, and separation.",
+"id":"mixture-achievement-test-mat",
+"path":"products/mixture-achievement-test-mat.md",
+"status":"review",
+"title":"Mixture Achievement Test (MAT)",
+"type":"product"
+},
+{
 "description":"Mobl21 is a mobile learning platform that teachers use to create and manage multimedia study materials, while students use it for note-taking, self-paced review, tests, and quizzes.",
 "id":"mobl21",
 "path":"products/mobl21.md",
@@ -192930,6 +193218,14 @@
 "path":"products/modified-5e-lesson-design-planning-template.md",
 "status":"review",
 "title":"Modified 5E lesson design planning template",
+"type":"product"
+},
+{
+"description":"A researcher-modified preferential-looking assessment developed and used by Houston et al.",
+"id":"modified-intermodal-preferential-looking-paradigm-iplp-word-learning-task-with-novel-wordo",
+"path":"products/modified-intermodal-preferential-looking-paradigm-iplp-word-learning-task-with-novel-wordo.md",
+"status":"review",
+"title":"Modified Intermodal Preferential Looking Paradigm (IPLP) word-learning task with novel word/object pairings",
 "type":"product"
 },
 {
@@ -193002,6 +193298,14 @@
 "path":"products/motivational-framework-for-culturally-responsive-teaching-mfcrt.md",
 "status":"review",
 "title":"Motivational Framework for Culturally Responsive Teaching (MFCRT)",
+"type":"product"
+},
+{
+"description":"A standardized youth assessment subtest that measures adolescents’ ability to judge the effectiveness of alternative actions for achieving emotion-regulation goals, developed as part of the Mayer, Salovey, and Caruso Emotional Intelligence Test—Youth Version.",
+"id":"msceit-yv-emotion-regulation-ability-subtest",
+"path":"products/msceit-yv-emotion-regulation-ability-subtest.md",
+"status":"review",
+"title":"MSCEIT-YV Emotion Regulation Ability subtest",
 "type":"product"
 },
 {
@@ -193386,6 +193690,14 @@
 "path":"products/new-mexico-community-schools-act-grant-program.md",
 "status":"review",
 "title":"New Mexico Community Schools Act grant program",
+"type":"product"
+},
+{
+"description":"A behavioral assessment paradigm developed by Jirout et al.",
+"id":"new-paradigm-measuring-exploratory-curiosity-in-preschool-children-as-threshold-of-desired",
+"path":"products/new-paradigm-measuring-exploratory-curiosity-in-preschool-children-as-threshold-of-desired.md",
+"status":"review",
+"title":"New paradigm measuring exploratory curiosity in preschool children as threshold of desired uncertainty",
 "type":"product"
 },
 {
@@ -193997,6 +194309,14 @@
 "type":"product"
 },
 {
+"description":"A computerized adaptive psychophysical assessment in which children judge relative segment orientation to estimate visual-processing discrimination thresholds.",
+"id":"orientation-discrimination-task",
+"path":"products/orientation-discrimination-task.md",
+"status":"review",
+"title":"Orientation discrimination task",
+"type":"product"
+},
+{
 "description":"An OSF-hosted replication package from Zambrano et al.",
 "id":"osf-repository",
 "path":"products/osf-repository.md",
@@ -194050,6 +194370,14 @@
 "path":"products/parentcorps.md",
 "status":"review",
 "title":"ParentCorps",
+"type":"product"
+},
+{
+"description":"An eight-item parent-report subscale that measures the frequency of parents’ positive engagement activities with and knowledge of their preschool-aged children.",
+"id":"parenting-relationship-questionnairepreschool-form-prq-involvement-subscale",
+"path":"products/parenting-relationship-questionnairepreschool-form-prq-involvement-subscale.md",
+"status":"review",
+"title":"Parenting Relationship Questionnaire—Preschool Form (PRQ) involvement subscale",
 "type":"product"
 },
 {
@@ -194154,6 +194482,14 @@
 "path":"products/pcex-expert-bundled-python-dataset.md",
 "status":"review",
 "title":"PCEX expert-bundled Python dataset",
+"type":"product"
+},
+{
+"description":"A researcher-administered, norm-referenced picture-based assessment developed by Dunn and Dunn for measuring receptive vocabulary in children and other examinees.",
+"id":"peabody-picture-vocabulary-testthird-edition-ppvt-iii",
+"path":"products/peabody-picture-vocabulary-testthird-edition-ppvt-iii.md",
+"status":"review",
+"title":"Peabody Picture Vocabulary Test—Third Edition (PPVT-III)",
 "type":"product"
 },
 {
@@ -195903,6 +196239,14 @@
 "type":"product"
 },
 {
+"description":"A computerized preschool assessment developed for research use to measure cognitive flexibility and related executive-control components through color, shape, and switching conditions.",
+"id":"shape-school",
+"path":"products/shape-school.md",
+"status":"review",
+"title":"Shape School",
+"type":"product"
+},
+{
 "description":"A nonprofit regional revitalization programme that coordinates Appalachian individuals and organizations around shared values and goals, including technology, computer science education, and digital-economy workforce development.",
 "id":"shaping-our-appalachian-region-soar",
 "path":"products/shaping-our-appalachian-region-soar.md",
@@ -196068,6 +196412,14 @@
 "path":"products/six-ngss-aligned-middle-school-student-drawing-assessment-dataset.md",
 "status":"review",
 "title":"Six NGSS-aligned middle school student drawing assessment dataset",
+"type":"product"
+},
+{
+"description":"A six-question yes/no subjective cognitive-function assessment developed for the Structured Telephone Interview for Dementia Assessment (STIDA) and used with older adults in epidemiological research.",
+"id":"six-question-subjective-cognitive-function-scale-from-the-stida-telephone-dementia-screene",
+"path":"products/six-question-subjective-cognitive-function-scale-from-the-stida-telephone-dementia-screene.md",
+"status":"review",
+"title":"Six-question subjective cognitive function scale from the STIDA telephone dementia screener",
 "type":"product"
 },
 {
@@ -196548,6 +196900,14 @@
 "path":"products/state-digital-equity-and-opportunity-framework.md",
 "status":"review",
 "title":"State Digital Equity and Opportunity Framework",
+"type":"product"
+},
+{
+"description":"A researcher-developed multi-item, 5-point Likert self-report assessment by Henk G.",
+"id":"state-epistemic-curiosity-measure",
+"path":"products/state-epistemic-curiosity-measure.md",
+"status":"review",
+"title":"State epistemic curiosity measure",
 "type":"product"
 },
 {
@@ -197456,6 +197816,14 @@
 "type":"product"
 },
 {
+"description":"A paired child–parent questionnaire developed by dos Santos Kawata et al.",
+"id":"the-congruency-based-metacognition-scale-cms",
+"path":"products/the-congruency-based-metacognition-scale-cms.md",
+"status":"review",
+"title":"The Congruency-based Metacognition Scale (CMS)",
+"type":"product"
+},
+{
 "description":"Michael Eckersley's design-helper computer programs generate graphical concepts and patterns that students use to complete images related to specific design questions.",
 "id":"the-design-helper",
 "path":"products/the-design-helper.md",
@@ -198242,6 +198610,14 @@
 "type":"product"
 },
 {
+"description":"Vision to Learn is a nonprofit school-based vision programme that provides low-income students with screenings, comprehensive eye examinations, and free corrective glasses through mobile clinics and partner schools.",
+"id":"vision-to-learn-vtl",
+"path":"products/vision-to-learn-vtl.md",
+"status":"review",
+"title":"Vision to Learn (VTL)",
+"type":"product"
+},
+{
 "description":"A secured, low-cost JupyterHub sandbox and process-monitoring framework developed by Germán Arroyo et al.",
 "id":"vismatic",
 "path":"products/vismatic.md",
@@ -198415,6 +198791,14 @@
 "path":"products/what-works-clearinghouse-wwc-database-of-reviewed-studies.md",
 "status":"review",
 "title":"What Works Clearinghouse (WWC) database of reviewed studies",
+"type":"product"
+},
+{
+"description":"A large publicly released dataset of responses to the WhichEnglish online English grammar quiz, created by Hartshorne and colleagues to study syntactic knowledge across ages, language backgrounds, and English exposure.",
+"id":"whichenglish-internet-grammar-quiz-dataset-669498-speakers",
+"path":"products/whichenglish-internet-grammar-quiz-dataset-669498-speakers.md",
+"status":"review",
+"title":"WhichEnglish internet grammar quiz dataset (669,498 speakers)",
 "type":"product"
 },
 {
@@ -199431,6 +199815,14 @@
 "type":"research-method"
 },
 {
+"description":"The ELSD model represents syntax acquisition as \\\"a simple exponential learning process\\\" in which grammatical proficiency grows with experience, with an experience discount factor modeled separately for simultaneous bilinguals, immigrants, and non-immersion learners.",
+"id":"exponential-learning-with-sigmoidal-decay-elsd-model-of-syntax-acquisition",
+"path":"research-methods/exponential-learning-with-sigmoidal-decay-elsd-model-of-syntax-acquisition.md",
+"status":"review",
+"title":"Exponential Learning with Sigmoidal Decay (ELSD) model of syntax acquisition",
+"type":"research-method"
+},
+{
 "description":"The paper extends Strobel et al.'s (2024) taxonomy of GenAI applications — originally derived from 100 commercial and professional applications — into a classification lens for educational settings.",
 "id":"extended-strobel-taxonomy-of-five-studentgenai-entanglement-types",
 "path":"research-methods/extended-strobel-taxonomy-of-five-studentgenai-entanglement-types.md",
@@ -199776,6 +200168,14 @@
 "type":"research-method"
 },
 {
+"description":"This framework holds that evaluating remedial interventions solely by group-level improvement can obscure subgroup effects, so outcomes should be examined \\\"at both the group and individual (or ''person-oriented'') level\\\".",
+"id":"group-plus-individual-person-oriented-analysis-of-intervention-outcomes",
+"path":"research-methods/group-plus-individual-person-oriented-analysis-of-intervention-outcomes.md",
+"status":"review",
+"title":"Group-plus-individual (person-oriented) analysis of intervention outcomes",
+"type":"research-method"
+},
+{
 "description":"HARMOGEN-R (Hybrid Assessment Rubric Model Generation with Reasoning) is a two-stage rubric generation pipeline.",
 "id":"harmogen-r-a-two-stage-hybrid-framework-for-ai-rubric-generation-with-reasoning-enhanced-g",
 "path":"research-methods/harmogen-r-a-two-stage-hybrid-framework-for-ai-rubric-generation-with-reasoning-enhanced-g.md",
@@ -200008,6 +200408,14 @@
 "type":"research-method"
 },
 {
+"description":"The looking-while-listening procedure assesses efficiency of online spoken language comprehension in infants and toddlers.",
+"id":"looking-while-listening-procedure",
+"path":"research-methods/looking-while-listening-procedure.md",
+"status":"review",
+"title":"Looking-while-listening procedure",
+"type":"research-method"
+},
+{
 "description":"Education RCTs often use pretest-posttest designs because including pretests improves the precision of estimated treatment effects.",
 "id":"loss-function-decision-rule-for-late-pretest-use-in-education-rcts",
 "path":"research-methods/loss-function-decision-rule-for-late-pretest-use-in-education-rcts.md",
@@ -200045,6 +200453,14 @@
 "path":"research-methods/map-growth-item-calibration-workflow.md",
 "status":"review",
 "title":"MAP Growth item calibration workflow",
+"type":"research-method"
+},
+{
+"description":"The article adapts a counterfactual framework for time-varying treatments in which \\\"Inverse probability of treatment (IPT) weighting is an alternative approach specifically developed to adjust for confounding by time-varying covariates.\\\" A marginal structural model specifies the logit of graduation ",
+"id":"marginal-structural-models-with-inverse-probability-of-treatment-weighting",
+"path":"research-methods/marginal-structural-models-with-inverse-probability-of-treatment-weighting.md",
+"status":"review",
+"title":"Marginal structural models with inverse probability of treatment weighting",
 "type":"research-method"
 },
 {
@@ -200941,6 +201357,14 @@
 "type":"research-method"
 },
 {
+"description":"Observer reports were collected through teacher nominations in which teachers selected up to 5 students they considered at the high and low ends of emotion regulation ability from alphabetical lists of students they taught.",
+"id":"teacher-nomination-procedure-for-observer-reported-emotion-regulation",
+"path":"research-methods/teacher-nomination-procedure-for-observer-reported-emotion-regulation.md",
+"status":"review",
+"title":"Teacher nomination procedure for observer-reported emotion regulation",
+"type":"research-method"
+},
+{
 "description":"The TNRF builds on van Es and Sherin's expanded noticing framework of attending, interpreting, and shaping, and \\\"extends van Es and Sherin's (2021) framework by specifying the object of noticing more precisely as students' mathematical thinking\\\".",
 "id":"teacher-noticing-of-rationality-framework-tnrf",
 "path":"research-methods/teacher-noticing-of-rationality-framework-tnrf.md",
@@ -201227,6 +201651,14 @@
 "path":"research-methods/transition-network-analysis-tna.md",
 "status":"review",
 "title":"Transition Network Analysis (TNA)",
+"type":"research-method"
+},
+{
+"description":"A methodological framework combining three elements to examine writing processes of struggling adult writers: observation of collaborative writing tasks, analyses of written texts, and structured individual interviews with retrospective and prospective parts.",
+"id":"triangulated-multi-source-assessment-of-writing-processes-and-writing-knowledge",
+"path":"research-methods/triangulated-multi-source-assessment-of-writing-processes-and-writing-knowledge.md",
+"status":"review",
+"title":"Triangulated multi-source assessment of writing processes and writing knowledge",
 "type":"research-method"
 },
 {
@@ -279241,6 +279673,7 @@
 "ai-co-creators-project-ucl":"ai-co-creators-project-ucl",
 "ai-cognitive-partner-teacher-pd":"ai-cognitive-partner-teacher-pd",
 "ai-cognitive-partnership-action-research-project-eight-schools":"ai-cognitive-partnership-action-research-project-eight-schools",
+"ai-conversational-pedagogical-agent-system":"ai-conversational-pedagogical-agent-system",
 "ai-decision-checkpoints-framework":"ai-decision-checkpoints-framework",
 "ai-deterrence-qiskit-assignment-packages":"ai-deterrence-qiskit-assignment-packages",
 "ai-driven-talent-cultivation-reform-framework":"ai-driven-talent-cultivation-reform-framework",
@@ -279306,6 +279739,7 @@
 "bloom-classification-ui-selected-questions-verbs":"bloom-classification-ui-selected-questions-verbs",
 "bloom-mapped-exercise-difficulty-generation":"bloom-mapped-exercise-difficulty-generation",
 "body-scale-collaborative-construction":"body-scale-collaborative-construction",
+"bolos-12-week-weekly-memory-diary":"bolos-12-week-weekly-memory-diary",
 "bps-early-learning-uniform-curricula-coaches-naeyc":"bps-early-learning-uniform-curricula-coaches-naeyc",
 "bronxdale-whole-school-design-pattern":"bronxdale-whole-school-design-pattern",
 "brt-interdisciplinary-studio-schedule-2d-to-3d":"brt-interdisciplinary-studio-schedule-2d-to-3d",
@@ -279341,6 +279775,7 @@
 "child-friendly-chatbot-design-considerations":"child-friendly-chatbot-design-considerations",
 "clasp-dl-activity-cycle":"clasp-dl-activity-cycle",
 "classroom-proof-assistant-design-criteria":"classroom-proof-assistant-design-criteria",
+"cldrc-cognitive-reading-test-battery":"cldrc-cognitive-reading-test-battery",
 "clinical-empathy-module-pa-chatbot":"clinical-empathy-module-pa-chatbot",
 "closed-loop-adaptive-music-teaching-assistance-model":"closed-loop-adaptive-music-teaching-assistance-model",
 "closed-loop-referral-system-dnusd":"closed-loop-referral-system-dnusd",
@@ -279414,6 +279849,8 @@
 "deterministic-pedagogical-orchestration-architecture":"deterministic-pedagogical-orchestration-architecture",
 "developmental-critical-model-ai-ssh":"developmental-critical-model-ai-ssh",
 "diagnostic-review-mechanism-ai-formative-assessment":"diagnostic-review-mechanism-ai-formative-assessment",
+"dichotic-listening-latent-inhibition-paradigm":"dichotic-listening-latent-inhibition-paradigm",
+"digital-cafe-public-access-space":"digital-cafe-public-access-space",
 "digital-learning-environment-characteristics":"digital-learning-environment-characteristics",
 "digital-technologies-agile-project-framework":"digital-technologies-agile-project-framework",
 "direct-instruction-coordinated-adoption-pattern":"direct-instruction-coordinated-adoption-pattern",
@@ -279432,6 +279869,7 @@
 "dpt-hazards-framework-and-matched-questioning":"dpt-hazards-framework-and-matched-questioning",
 "driving-task-prompt-sequenced-literacy-journey":"driving-task-prompt-sequenced-literacy-journey",
 "drop-in-game-lab-flexible-play":"drop-in-game-lab-flexible-play",
+"dual-condition-reinforcement-indexing-adhd":"dual-condition-reinforcement-indexing-adhd",
 "dual-focus-cross-agency-behavioral-health-ta":"dual-focus-cross-agency-behavioral-health-ta",
 "dual-investment-pd-instructors-point-people":"dual-investment-pd-instructors-point-people",
 "dual-language-implementation-components-pattern":"dual-language-implementation-components-pattern",
@@ -279443,6 +279881,7 @@
 "dyad-pairing-maximize-peer-conflicts-poe":"dyad-pairing-maximize-peer-conflicts-poe",
 "early-alert-gateway-course-case-element":"early-alert-gateway-course-case-element",
 "early-steps-daily-tutoring-session-structure":"early-steps-daily-tutoring-session-structure",
+"early-variation-measurement-activities":"early-variation-measurement-activities",
 "eced-professional-development-model":"eced-professional-development-model",
 "eco-feedback-llm-interface-five-eco-modes":"eco-feedback-llm-interface-five-eco-modes",
 "edbl-six-stage-framework":"edbl-six-stage-framework",
@@ -279484,6 +279923,7 @@
 "experanto-computer-controlled-self-study-course":"experanto-computer-controlled-self-study-course",
 "expert-panel-ai-mcq-review-workflow":"expert-panel-ai-mcq-review-workflow",
 "explicit-instruction-in-historical-contextualization":"explicit-instruction-in-historical-contextualization",
+"explicit-vs-implicit-adult-reading-instruction":"explicit-vs-implicit-adult-reading-instruction",
 "exploratory-hands-on-career-exploration-pattern":"exploratory-hands-on-career-exploration-pattern",
 "expression-transformation-target-matching-pattern":"expression-transformation-target-matching-pattern",
 "fabric-prototype-four-educational-smart-contracts":"fabric-prototype-four-educational-smart-contracts",
@@ -279527,6 +279967,7 @@
 "four-facet-problem-solving-competency-model":"four-facet-problem-solving-competency-model",
 "four-pedagogical-principles-ai-companion-design":"four-pedagogical-principles-ai-companion-design",
 "four-phase-cgpt-co-creation-spar-pattern":"four-phase-cgpt-co-creation-spar-pattern",
+"four-phase-sim-explicit-instruction-model-adults":"four-phase-sim-explicit-instruction-model-adults",
 "four-phase-weekly-ai-simulation-cycle":"four-phase-weekly-ai-simulation-cycle",
 "four-sequence-guidance-cvs-intervention":"four-sequence-guidance-cvs-intervention",
 "four-showcased-ler-technologies":"four-showcased-ler-technologies",
@@ -279567,6 +280008,7 @@
 "generated-activity-types-collision-prevention":"generated-activity-types-collision-prevention",
 "genius-hour-elected-enrichment-blocks":"genius-hour-elected-enrichment-blocks",
 "georgia-doe-lead-certification-pilot":"georgia-doe-lead-certification-pilot",
+"geospatial-semester-gis-curriculum":"geospatial-semester-gis-curriculum",
 "gpt4-curriculum-prerequisite-knowledge-graph":"gpt4-curriculum-prerequisite-knowledge-graph",
 "graded-reader-extensive-reading-program-webb-chang":"graded-reader-extensive-reading-program-webb-chang",
 "graphrag-textbook-retrieval-math-tutor":"graphrag-textbook-retrieval-math-tutor",
@@ -279583,6 +280025,7 @@
 "half-zone-half-open-enrollment-magnet-attendance":"half-zone-half-open-enrollment-magnet-attendance",
 "hallucination-inducing-film-question-set":"hallucination-inducing-film-question-set",
 "hcs-configurable-analytics-design":"hcs-configurable-analytics-design",
+"health-financial-literacy-assessment-map":"health-financial-literacy-assessment-map",
 "hero-qa-audit-pipeline":"hero-qa-audit-pipeline",
 "heuristicedu-sft-grpo-pipeline":"heuristicedu-sft-grpo-pipeline",
 "hi-ai-collaborative-flipped-framework":"hi-ai-collaborative-flipped-framework",
@@ -279645,6 +280088,7 @@
 "kiss-pro-openhpi-mooc-ai-teacher-pd":"kiss-pro-openhpi-mooc-ai-teacher-pd",
 "kli-framework-guiding-multi-agent-instructional-design":"kli-framework-guiding-multi-agent-instructional-design",
 "l2c-rl-coaching-framework":"l2c-rl-coaching-framework",
+"language-05-project-processing-speed-cohort":"language-05-project-processing-speed-cohort",
 "large-school-conversion-into-small-charter-schools":"large-school-conversion-into-small-charter-schools",
 "latina-affinity-group-huntley-158":"latina-affinity-group-huntley-158",
 "lausd-csi-common-roles-processes":"lausd-csi-common-roles-processes",
@@ -279773,15 +280217,18 @@
 "persona-progression-model-ai-instruction":"persona-progression-model-ai-instruction",
 "peters-webb-tv-viewing-open-materials-iris":"peters-webb-tv-viewing-open-materials-iris",
 "petsp-ml-process-model":"petsp-ml-process-model",
+"pf-ef-assessment-battery-adolescents":"pf-ef-assessment-battery-adolescents",
 "phase-in-schedule-resident-responsibility":"phase-in-schedule-resident-responsibility",
 "phenomenon-driven-nine-lesson-literacy-science-sequence":"phenomenon-driven-nine-lesson-literacy-science-sequence",
 "phoenix-voice-llm-peer-agent-group-learning":"phoenix-voice-llm-peer-agent-group-learning",
+"phonological-processing-assessment-battery-third-grade":"phonological-processing-assessment-battery-third-grade",
 "photon-fusion-vr-immersive-learning-system":"photon-fusion-vr-immersive-learning-system",
 "physicsmate-multi-relational-knowledge-graph":"physicsmate-multi-relational-knowledge-graph",
 "plc-team-structures-equity-schools":"plc-team-structures-equity-schools",
 "plo-aligned-integrated-coursework":"plo-aligned-integrated-coursework",
 "plural-llm-assistance-arrangement-design-space":"plural-llm-assistance-arrangement-design-space",
 "point-person-role-ousd-dual-enrollment":"point-person-role-ousd-dual-enrollment",
+"posner-cue-paradigm-task-three-stimuli-categories":"posner-cue-paradigm-task-three-stimuli-categories",
 "post-progressive-pedagogy-narrative-accounts":"post-progressive-pedagogy-narrative-accounts",
 "post-reading-group-work-pooled-interpretation":"post-reading-group-work-pooled-interpretation",
 "powerful-learning-principles-studio":"powerful-learning-principles-studio",
@@ -279859,6 +280306,7 @@
 "self-determination-as-curriculum-access-strategies":"self-determination-as-curriculum-access-strategies",
 "selpa-survey-and-allocation-plan-review-2020":"selpa-survey-and-allocation-plan-review-2020",
 "semi-automated-tts-lesson-generation-pipeline":"semi-automated-tts-lesson-generation-pipeline",
+"serial-order-item-recall-fmri-task-battery":"serial-order-item-recall-fmri-task-battery",
 "seven-co-created-cgpt-chatbots-pharmaceutical-science":"seven-co-created-cgpt-chatbots-pharmaceutical-science",
 "seven-levers-course-design-framework":"seven-levers-course-design-framework",
 "seven-step-cloud-innovation-sequence":"seven-step-cloud-innovation-sequence",
@@ -279868,6 +280316,7 @@
 "shared-dialogue-foundation-methods":"shared-dialogue-foundation-methods",
 "shared-governance-epp-district-residency-partnerships":"shared-governance-epp-district-residency-partnerships",
 "shared-story-reading-definition-features":"shared-story-reading-definition-features",
+"simulated-classroom-film-quiz-assessment":"simulated-classroom-film-quiz-assessment",
 "site-coordinator-role-residency-element":"site-coordinator-role-residency-element",
 "six-component-engaged-math-lesson-structure":"six-component-engaged-math-lesson-structure",
 "six-key-practices-community-school-immigrant-communities":"six-key-practices-community-school-immigrant-communities",
@@ -279875,7 +280324,9 @@
 "six-sea-strategies-school-improvement-essa":"six-sea-strategies-school-improvement-essa",
 "six-step-admissions-portfolio-implementation":"six-step-admissions-portfolio-implementation",
 "six-step-ci-classroom-process":"six-step-ci-classroom-process",
+"six-test-repeated-measures-cognitive-battery":"six-test-repeated-measures-cognitive-battery",
 "six-week-co-taught-literacy-unit":"six-week-co-taught-literacy-unit",
+"sixteen-measurement-activities-peer-interaction":"sixteen-measurement-activities-peer-interaction",
 "skill-targeted-explanation-styles-pragmatic-contingent":"skill-targeted-explanation-styles-pragmatic-contingent",
 "skin-lesion-group-annotation-activity":"skin-lesion-group-annotation-activity",
 "skyline-college-ece-lab-school-program":"skyline-college-ece-lab-school-program",
@@ -279950,6 +280401,7 @@
 "three-practices-for-ontological-alignment-in-computational-modeling":"three-practices-for-ontological-alignment-in-computational-modeling",
 "three-principle-framework-genai-writing-assessment":"three-principle-framework-genai-writing-assessment",
 "three-progressive-problem-posing-inquiry-topics":"three-progressive-problem-posing-inquiry-topics",
+"three-sample-language-elicitation-battery":"three-sample-language-elicitation-battery",
 "three-stage-llm-team-formation-methodology":"three-stage-llm-team-formation-methodology",
 "three-stage-perceiving-comprehending-creating-pathway":"three-stage-perceiving-comprehending-creating-pathway",
 "three-step-multimodal-dialogue-protocol":"three-step-multimodal-dialogue-protocol",
@@ -279994,6 +280446,7 @@
 "values-based-equitable-materials-review-pattern":"values-based-equitable-materials-review-pattern",
 "vcu-university-college-first-year-model":"vcu-university-college-first-year-model",
 "verification-centered-johnstone-3p-genai-architecture":"verification-centered-johnstone-3p-genai-architecture",
+"vo2max-treadmill-test-protocol":"vo2max-treadmill-test-protocol",
 "voluntary-intrinsic-motivation-programming-game":"voluntary-intrinsic-motivation-programming-game",
 "vplc-augmented-assistments-intervention":"vplc-augmented-assistments-intervention",
 "water-balloon-physics-image-task":"water-balloon-physics-image-task",
@@ -280005,6 +280458,7 @@
 "why-what-how-pathway-design":"why-what-how-pathway-design",
 "word-stress-five-step-lesson-pattern":"word-stress-five-step-lesson-pattern",
 "worked-examples-for-game-based-puzzle-problem-solving":"worked-examples-for-game-based-puzzle-problem-solving",
+"world-knowledge-ad-task-post-test-survey":"world-knowledge-ad-task-post-test-survey",
 "writing-focused-genai-declaration-structure":"writing-focused-genai-declaration-structure",
 "writing-in-reading-four-aspects-pattern":"writing-in-reading-four-aspects-pattern",
 "wwc-compress-mainstream-developmental-education":"wwc-compress-mainstream-developmental-education",
@@ -281910,6 +282364,7 @@
 "alumni-survey-roadmap":"alumni-survey-roadmap",
 "american-board-for-certification-of-teacher-excellence-abcte-alternative-teacher-certifica":"american-board-for-certification-of-teacher-excellence-abcte-alternative-teacher-certifica",
 "american-industrial-arts-student-association-aiasa-student-industrial-arts-clubs":"american-industrial-arts-student-association-aiasa-student-industrial-arts-clubs",
+"american-sign-language-assessment-instrument-aslai":"american-sign-language-assessment-instrument-aslai",
 "americas-teacher-corps-atc":"americas-teacher-corps-atc",
 "ames-philosophical-belief-inventory":"ames-philosophical-belief-inventory",
 "amico-dual-mode-prototype-amicomio-and-amicotuo":"amico-dual-mode-prototype-amicomio-and-amicotuo",
@@ -281977,6 +282432,7 @@
 "bnl-bayesian-networks-with-logistic-regression-nodes":"bnl-bayesian-networks-with-logistic-regression-nodes",
 "book-cover-recognition-test":"book-cover-recognition-test",
 "booknook":"booknook",
+"boston-university-prison-education-program":"boston-university-prison-education-program",
 "bottom-line":"bottom-line",
 "bottom-line-college-advising-program":"bottom-line-college-advising-program",
 "bridges-educator-site":"bridges-educator-site",
@@ -282049,6 +282505,7 @@
 "chinese-version-of-the-sleep-self-report-ssr":"chinese-version-of-the-sleep-self-report-ssr",
 "chiu-et-al-2022-12-chapter-school-based-ai-curriculum":"chiu-et-al-2022-12-chapter-school-based-ai-curriculum",
 "chormmunity":"chormmunity",
+"chronic-stereotype-threat-scale":"chronic-stereotype-threat-scale",
 "chula-vista-promise-neighborhood":"chula-vista-promise-neighborhood",
 "ciena-solutions-challenge":"ciena-solutions-challenge",
 "cignition":"cignition",
@@ -282104,6 +282561,8 @@
 "companion-mathematica-publications":"companion-mathematica-publications",
 "compass-care":"compass-care",
 "completion-by-design":"completion-by-design",
+"component-measures-battery-linguistic-knowledge-fluency-and-metacognitive-knowledge-tests":"component-measures-battery-linguistic-knowledge-fluency-and-metacognitive-knowledge-tests",
+"comprehensive-assessment-battery-for-children-working-memory-cabc-wm":"comprehensive-assessment-battery-for-children-working-memory-cabc-wm",
 "comprehensive-cross-unit-ccu-assessments-joy-ruth-and-jackie-tests":"comprehensive-cross-unit-ccu-assessments-joy-ruth-and-jackie-tests",
 "comprehensive-literacy-making-the-connections":"comprehensive-literacy-making-the-connections",
 "computational-thinking-pathways":"computational-thinking-pathways",
@@ -282189,6 +282648,7 @@
 "dataset-of-484-de-identified-student-project-reports-with-instructor-reviews-collected-ove":"dataset-of-484-de-identified-student-project-reports-with-instructor-reviews-collected-ove",
 "dataset-of-approximately-18000-multiple-choice-questions-from-a-high-stakes-medical-exam":"dataset-of-approximately-18000-multiple-choice-questions-from-a-high-stakes-medical-exam",
 "datashop":"datashop",
+"davison-et-al-2011-longitudinal-bilingual-language-and-literacy-dataset":"davison-et-al-2011-longitudinal-bilingual-language-and-literacy-dataset",
 "day2day-environment-multimodal-longitudinal-dataset":"day2day-environment-multimodal-longitudinal-dataset",
 "dbagent":"dbagent",
 "dc-citywide-lottery-ranked-preference-dataset-from-over-20000-applicants-to-more-than-100":"dc-citywide-lottery-ranked-preference-dataset-from-over-20000-applicants-to-more-than-100",
@@ -282201,6 +282661,7 @@
 "design-research-plan-template":"design-research-plan-template",
 "desired-results-development-profile-preschool-drdp-ps":"desired-results-development-profile-preschool-drdp-ps",
 "developing-talkers":"developing-talkers",
+"diagnostic-analysis-of-nonverbal-accuracy-danva":"diagnostic-analysis-of-nonverbal-accuracy-danva",
 "dialang":"dialang",
 "differentiated-literacy-system-dls":"differentiated-literacy-system-dls",
 "digital-equity-competencies-for-k-12-school-systems":"digital-equity-competencies-for-k-12-school-systems",
@@ -282234,6 +282695,7 @@
 "dyslexlens":"dyslexlens",
 "e-class-survey-for-assessing-student-views-of-experiments-in-physics-lab-courses":"e-class-survey-for-assessing-student-views-of-experiments-in-physics-lab-courses",
 "e3sense":"e3sense",
+"early-childhood-ethnic-identity-interview-eceii":"early-childhood-ethnic-identity-interview-eceii",
 "early-childhood-longitudinal-study-kindergarten-class-of-1998-1999-ecls-k":"early-childhood-longitudinal-study-kindergarten-class-of-1998-1999-ecls-k",
 "early-college":"early-college",
 "early-education-essentials":"early-education-essentials",
@@ -282345,6 +282807,7 @@
 "expository-reading-and-writing-curriculum-erwc":"expository-reading-and-writing-course-erwc",
 "extended-36-trial-red-blue-test":"extended-36-trial-red-blue-test",
 "extended-labelled-dataset-of-345-oer-sentences-with-ethnic-bias-annotations-from-193-stude":"extended-labelled-dataset-of-345-oer-sentences-with-ethnic-bias-annotations-from-193-stude",
+"faces-task":"faces-task",
 "facing-history-and-ourselves":"facing-history-and-ourselves",
 "factria-aware-chatbot":"factria-aware-chatbot",
 "factria-framework-of-factors-in-the-analytical-process-and-the-data-context-for-responsibl":"factria-framework-of-factors-in-the-analytical-process-and-the-data-context-for-responsibl",
@@ -282413,6 +282876,7 @@
 "freshman-ontrack-indicator":"freshman-ontrack-indicator",
 "freshman-success":"freshman-success",
 "fueling-brains":"fueling-brains",
+"functional-aspects-of-working-memory-test-fawmt":"functional-aspects-of-working-memory-test-fawmt",
 "funder-reflection-and-action-tool":"funder-reflection-and-action-tool",
 "future-forward":"future-forward",
 "future-ready-talent-framework":"future-ready-talent-framework",
@@ -282448,6 +282912,7 @@
 "go-tutor-corps":"go-tutor-corps",
 "gocps":"gocps",
 "gold-and-ultra-gold-benchmark-subsets":"gold-and-ultra-gold-benchmark-subsets",
+"gono-go-and-nebraska-barnyard-inhibition-and-working-memory-tasks":"gono-go-and-nebraska-barnyard-inhibition-and-working-memory-tasks",
 "good-behavior-game":"good-behavior-game",
 "google-expeditions":"google-expeditions",
 "gpt-2-output-detector-demo":"gpt-2-output-detector-demo",
@@ -282491,6 +282956,7 @@
 "i-ready":"i-ready",
 "i-ready-personalized-instruction":"i-ready-personalized-instruction",
 "i3p":"i3p",
+"iask-iowa-assessment-of-skills-and-knowledge-for-reading":"iask-iowa-assessment-of-skills-and-knowledge-for-reading",
 "ib-dp":"ib-dp",
 "icnale":"icnale",
 "icnale-global-rating-archive-gra-dataset":"icnale-global-rating-archive-gra-dataset",
@@ -282678,6 +283144,7 @@
 "mai-ai-metacognitive-awareness-inventory-for-artificial-intelligence":"mai-ai-metacognitive-awareness-inventory-for-artificial-intelligence",
 "maic-platform":"maic-platform",
 "maker-learning-leadership-framework":"maker-learning-leadership-framework",
+"making-sense-of-decoding-and-spelling-msds":"making-sense-of-decoding-and-spelling-msds",
 "mala-modular-artificial-learning-assistance":"mala-modular-artificial-learning-assistance",
 "malalgolib":"malalgolib",
 "mandatory-random-student-drug-testing":"mandatory-random-student-drug-testing",
@@ -282761,10 +283228,12 @@
 "mise":"mise",
 "missouri-teacher-career-ladder-program":"missouri-teacher-career-ladder-program",
 "missouri-teacher-equity-plan":"missouri-teacher-equity-plan",
+"mixture-achievement-test-mat":"mixture-achievement-test-mat",
 "mobl21":"mobl21",
 "model-of-essential-supports-for-student-learning":"model-of-essential-supports-for-student-learning",
 "modern-classroom-project":"modern-classroom-project",
 "modified-5e-lesson-design-planning-template":"modified-5e-lesson-design-planning-template",
+"modified-intermodal-preferential-looking-paradigm-iplp-word-learning-task-with-novel-wordo":"modified-intermodal-preferential-looking-paradigm-iplp-word-learning-task-with-novel-wordo",
 "mofacts":"mofacts",
 "montevidisco":"montevidisco",
 "mooc-replication-framework":"mooc-replication-framework",
@@ -282774,6 +283243,7 @@
 "motivated-strategies-for-learning-questionnaire-mslq":"motivated-strategies-for-learning-questionnaire-mslq",
 "motivation-for-incidental-vocabulary-learning-scale-mivls-incidental-vocabulary-learning-a":"motivation-for-incidental-vocabulary-learning-scale-mivls-incidental-vocabulary-learning-a",
 "motivational-framework-for-culturally-responsive-teaching-mfcrt":"motivational-framework-for-culturally-responsive-teaching-mfcrt",
+"msceit-yv-emotion-regulation-ability-subtest":"msceit-yv-emotion-regulation-ability-subtest",
 "multi-payer-school-linked-fee-schedule":"multi-payer-school-linked-fee-schedule",
 "multi-scale-portfolio-of-14-adoption-ready-computing-pjbl-project-packages":"multi-scale-portfolio-of-14-adoption-ready-computing-pjbl-project-packages",
 "multi-season-math-and-reading-score-dataset-for-over-seven-million-k-8-students-2016-17":"multi-season-math-and-reading-score-dataset-for-over-seven-million-k-8-students-2016-17",
@@ -282822,6 +283292,7 @@
 "new-leaders":"new-leaders",
 "new-leaders-for-new-schools-nlns":"new-leaders-for-new-schools-nlns",
 "new-mexico-community-schools-act-grant-program":"new-mexico-community-schools-act-grant-program",
+"new-paradigm-measuring-exploratory-curiosity-in-preschool-children-as-threshold-of-desired":"new-paradigm-measuring-exploratory-curiosity-in-preschool-children-as-threshold-of-desired",
 "new-teacher-center":"new-teacher-center",
 "new-york-city-middle-school-student-safety-survey-panel-dataset":"new-york-city-middle-school-student-safety-survey-panel-dataset",
 "new-yorks-appr-teacher-and-principal-evaluation-system":"new-yorks-appr-teacher-and-principal-evaluation-system",
@@ -282899,6 +283370,7 @@
 "opiq-6th-grade-mathematics-interaction-dataset-from-estonia":"opiq-6th-grade-mathematics-interaction-dataset-from-estonia",
 "opportunity-culture":"opportunity-culture",
 "optel":"optel",
+"orientation-discrimination-task":"orientation-discrimination-task",
 "osf-repository":"osf-repository",
 "paired-self-report-and-objective-based-ai-literacy-assessment-instruments-for-k12-teachers":"paired-self-report-and-objective-based-ai-literacy-assessment-instruments-for-k12-teachers",
 "paired-synthetic-evaluation-datasets-a-2482-case-edge-case-benchmark-and-a-570-case-human":"paired-synthetic-evaluation-datasets-a-2482-case-edge-case-benchmark-and-a-570-case-human",
@@ -282906,6 +283378,7 @@
 "pare-m-persistent-agentic-research-environment-measurement-v01":"pare-m-persistent-agentic-research-environment-measurement-v01",
 "parent-teacher-home-visits-pthv":"parent-teacher-home-visits-pthv",
 "parentcorps":"parentcorps",
+"parenting-relationship-questionnairepreschool-form-prq-involvement-subscale":"parenting-relationship-questionnairepreschool-form-prq-involvement-subscale",
 "parentpowered-ready4k":"parentpowered-ready4k",
 "parents-evaluation-of-auraloral-performance-of-children-peach-questionnaire":"parents-evaluation-of-auraloral-performance-of-children-peach-questionnaire",
 "partners-for-algorithmic-literacy-pal":"partners-for-algorithmic-literacy-pal",
@@ -282919,6 +283392,7 @@
 "pause-framework":"pause-framework",
 "pax-good-behavior-game":"pax-good-behavior-game",
 "pcex-expert-bundled-python-dataset":"pcex-expert-bundled-python-dataset",
+"peabody-picture-vocabulary-testthird-edition-ppvt-iii":"peabody-picture-vocabulary-testthird-edition-ppvt-iii",
 "pecas-mediator":"pecas-mediator",
 "pedaco-a-dual-gatekeeping-human-ai-video-co-creation-system":"pedaco-a-dual-gatekeeping-human-ai-video-co-creation-system",
 "peer-assisted-learning-strategies-pals":"peer-assisted-learning-strategies-pals",
@@ -283140,6 +283614,7 @@
 "seven-co-designed-learning-transition-design-principles-for-ler-technologies":"seven-co-designed-learning-transition-design-principles-for-ler-technologies",
 "seven-item-parent-reported-aac-implementation-experience-score":"seven-item-parent-reported-aac-implementation-experience-score",
 "sfailq-32-item-six-facet-artificial-intelligence-literacy-questionnaire":"sfailq-32-item-six-facet-artificial-intelligence-literacy-questionnaire",
+"shape-school":"shape-school",
 "shaping-our-appalachian-region-soar":"shaping-our-appalachian-region-soar",
 "shared-dataset-combining-the-anthropic-economic-index-with-census-btos-employer-adoption-d":"shared-dataset-combining-the-anthropic-economic-index-with-census-btos-employer-adoption-d",
 "shared-measures-construct-map":"shared-measures-construct-map",
@@ -283161,6 +283636,7 @@
 "six-domain-ai-skills-and-competencies-framework-for-educators-and-educational-leaders":"six-domain-ai-skills-and-competencies-framework-for-educators-and-educational-leaders",
 "six-domain-ai-skills-and-competencies-framework-for-pk-12-learners":"six-domain-ai-skills-and-competencies-framework-for-pk-12-learners",
 "six-ngss-aligned-middle-school-student-drawing-assessment-dataset":"six-ngss-aligned-middle-school-student-drawing-assessment-dataset",
+"six-question-subjective-cognitive-function-scale-from-the-stida-telephone-dementia-screene":"six-question-subjective-cognitive-function-scale-from-the-stida-telephone-dementia-screene",
 "six-rd-practice-dimensions-framework":"six-rd-practice-dimensions-framework",
 "six-skill-tagged-response-datasets-from-assistments-and-mindspark-used-for-model-compariso":"six-skill-tagged-response-datasets-from-assistments-and-mindspark-used-for-model-compariso",
 "six-standard-framework-for-faculty-technology-integration-in-higher-education":"six-standard-framework-for-faculty-technology-integration-in-higher-education",
@@ -283221,6 +283697,7 @@
 "stari":"stari",
 "statbot":"statbot",
 "state-digital-equity-and-opportunity-framework":"state-digital-equity-and-opportunity-framework",
+"state-epistemic-curiosity-measure":"state-epistemic-curiosity-measure",
 "statewide-residency-technical-assistance-center-srtac":"statewide-residency-technical-assistance-center-srtac",
 "stella":"stella",
 "stem-smart":"stem-smart",
@@ -283335,6 +283812,7 @@
 "the-arcs-self-determination-scale":"the-arcs-self-determination-scale",
 "the-bullying-prevention-pack-bpp":"the-bullying-prevention-pack-bpp",
 "the-collaborative":"the-collaborative",
+"the-congruency-based-metacognition-scale-cms":"the-congruency-based-metacognition-scale-cms",
 "the-design-helper":"the-design-helper",
 "the-electric-company-summer-learning-program":"the-electric-company-summer-learning-program",
 "the-evaluation-toolkit":"the-evaluation-toolkit",
@@ -283438,6 +283916,7 @@
 "virginia-rethinks-health-sciences-education-initiative":"virginia-rethinks-health-sciences-education-initiative",
 "virtual-professional-learning-community-vplc":"virtual-professional-learning-community-vplc",
 "virtually-connecting":"virtually-connecting",
+"vision-to-learn-vtl":"vision-to-learn-vtl",
 "vismatic":"vismatic",
 "visual4math":"visual4math",
 "vital-visibly-improve-teaching-and-learning-professional-learning-service":"vital-visibly-improve-teaching-and-learning-professional-learning-service",
@@ -283460,6 +283939,7 @@
 "wested-center-on-school-turnaround-journeys-project":"wested-center-on-school-turnaround-journeys-project",
 "wested-mtss-coaching-model":"wested-mtss-coaching-model",
 "what-works-clearinghouse-wwc-database-of-reviewed-studies":"what-works-clearinghouse-wwc-database-of-reviewed-studies",
+"whichenglish-internet-grammar-quiz-dataset-669498-speakers":"whichenglish-internet-grammar-quiz-dataset-669498-speakers",
 "whole-child-approach":"whole-child-approach",
 "whole-person-education-guide":"whole-person-education-guide",
 "whole-school-safety-wss-framework":"whole-school-safety-wss-framework",
@@ -283593,6 +284073,7 @@
 "expert-panel-interpretation-of-compiled-educational-evidence":"expert-panel-interpretation-of-compiled-educational-evidence",
 "explainable-by-design-framework-coupling-dual-lens-hierarchical-attention-trust-gated-infe":"explainable-by-design-framework-coupling-dual-lens-hierarchical-attention-trust-gated-infe",
 "exploratory-digital-learning-platform-data-analysis-for-research-planning":"digital-learning-platform-process-data-analysis",
+"exponential-learning-with-sigmoidal-decay-elsd-model-of-syntax-acquisition":"exponential-learning-with-sigmoidal-decay-elsd-model-of-syntax-acquisition",
 "extended-strobel-taxonomy-of-five-studentgenai-entanglement-types":"extended-strobel-taxonomy-of-five-studentgenai-entanglement-types",
 "extended-taxonomy-design-process-etdp":"extended-taxonomy-design-process-etdp",
 "fate-framework":"fate-framework",
@@ -283639,6 +284120,7 @@
 "graph-theory-based-passage-equating-for-wcpm-scores":"graph-theory-based-passage-equating-for-wcpm-scores",
 "graphical-model-framework-for-junction-tree-estimation-of-multidimensional-irt-growth-mode":"graphical-model-framework-for-mml-estimation-of-multidimensional-irt-models",
 "graphical-model-framework-for-mml-estimation-of-multidimensional-irt-models":"graphical-model-framework-for-mml-estimation-of-multidimensional-irt-models",
+"group-plus-individual-person-oriented-analysis-of-intervention-outcomes":"group-plus-individual-person-oriented-analysis-of-intervention-outcomes",
 "harmogen-r-a-two-stage-hybrid-framework-for-ai-rubric-generation-with-reasoning-enhanced-g":"harmogen-r-a-two-stage-hybrid-framework-for-ai-rubric-generation-with-reasoning-enhanced-g",
 "hattie-and-timperleys-feedback-model":"hattie-and-timperleys-feedback-model",
 "history-conditioned-student-simulation-two-component-profile-generator-plus-simulator-fram":"history-conditioned-student-simulation-two-component-profile-generator-plus-simulator-fram",
@@ -283669,11 +284151,13 @@
 "latent-structural-readiness-space-for-digital-and-ai-transformation":"latent-structural-readiness-space-for-digital-and-ai-transformation",
 "llm-scoring-generated-feedback-and-essay-feature-analysis-framework":"llm-scoring-generated-feedback-and-essay-feature-analysis-framework",
 "longitudinal-achievement-growth-analysis":"longitudinal-achievement-growth-analysis",
+"looking-while-listening-procedure":"looking-while-listening-procedure",
 "loss-function-decision-rule-for-late-pretest-use-in-education-rcts":"loss-function-decision-rule-for-late-pretest-use-in-education-rcts",
 "lt-mkt-framework-joint-modeling-of-cognitive-load-and-knowledge-transfer-for-multi-domain":"lt-mkt-framework-joint-modeling-of-cognitive-load-and-knowledge-transfer-for-multi-domain",
 "machine-learning-prediction-of-accessible-assessment-item-quality":"machine-learning-prediction-of-accessible-assessment-item-quality",
 "many-facet-rasch-model":"many-facet-rasch-model",
 "map-growth-item-calibration-workflow":"map-growth-item-calibration-workflow",
+"marginal-structural-models-with-inverse-probability-of-treatment-weighting":"marginal-structural-models-with-inverse-probability-of-treatment-weighting",
 "mbp-kt":"mbp-kt",
 "me-checklist":"me-checklist",
 "model-based-multivariate-true-score-norming-procedure":"multivariate-true-score-model-for-achievement-and-growth-norming",
@@ -283794,6 +284278,7 @@
 "taxonomy-of-pedagogical-sycophancy":"taxonomy-of-pedagogical-sycophancy",
 "taxonomy-of-test-score-based-school-evaluation-estimators":"taxonomy-of-test-score-based-school-evaluation-estimators",
 "teachbench":"teachbench",
+"teacher-nomination-procedure-for-observer-reported-emotion-regulation":"teacher-nomination-procedure-for-observer-reported-emotion-regulation",
 "teacher-noticing-of-rationality-framework-tnrf":"teacher-noticing-of-rationality-framework-tnrf",
 "teacher-team-method-for-co-taught-value-added-estimation":"teacher-team-method-for-co-taught-value-added-estimation",
 "teacher-value-added-modeling-for-performance-classification":"teacher-value-added-modeling-for-performance-classification",
@@ -283830,6 +284315,7 @@
 "transformation-and-re-estimation-method-for-probing-scale-sensitivity-of-teacher-value-add":"transformation-and-re-estimation-method-for-probing-scale-sensitivity-of-teacher-value-add",
 "transformer-encoder-knowledge-tracing-framework-with-ieuiiu-input-vectors":"transformer-encoder-knowledge-tracing-framework-with-ieuiiu-input-vectors",
 "transition-network-analysis-tna":"transition-network-analysis-tna",
+"triangulated-multi-source-assessment-of-writing-processes-and-writing-knowledge":"triangulated-multi-source-assessment-of-writing-processes-and-writing-knowledge",
 "trifactor-model":"trifactor-model",
 "trio-ethnography":"trio-ethnography",
 "trustworthiness-lens-for-evaluating-llms-in-education":"trustworthiness-lens-for-evaluating-llms-in-education",

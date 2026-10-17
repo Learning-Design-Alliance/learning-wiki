@@ -15,12 +15,14 @@ sources:
     author: Sturm, A.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Struggling adult writers show limited planning and revision in their writing process, similar to younger writers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Planning and revision play a limited role in the writing process of struggling adult writers, as observed during collaborative writing tasks. [→ Sturm 2016](#sturm-2016)
@@ -31,7 +33,7 @@ sources:
 
 Sturm, A. (2016). Observing writing processes of struggling adult writers with collaborative writing. Journal of Writing Research, 8(2), 301-344. https://doi.org/10.17239/jowr-2016.08.02.05
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r?`
 
 Case study triangulating observation of collaborative writing, text analysis, and structured interviews with struggling adult writers. The article reports that "planning and revision play a limited role" for both adult and younger writers.
 
@@ -41,4 +43,8 @@ Case study triangulating observation of collaborative writing, text analysis, an
 
 
 ## Related Claims
--
+- [Struggling adult writers have relatively extensive knowledge about themselves as writers, distinguishing them from younger writers](struggling-adult-writers-extensive-self-knowledge.md) — related
+- [Combining collaborative-writing observation, text analysis, and retrospective-prospective interviews provides productive tools to assess writing processes and knowledge of struggling adult writers](triangulated-assessment-writing-processes-adults.md) — related
+- [Strategy Instruction Improves Writing Quality](strategy-instruction-improves-writing-quality.md) — related
+- [Skilled EFL writers apply procedural planning strategies of brainstorming, organizing, and outlining before writing, and revising strategies of pause-to-think, reviewing, and local plus global revision.](skilled-writers-planning-revising-strategies.md) — related
+- [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — related

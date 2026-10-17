@@ -15,12 +15,14 @@ sources:
     author: "Christopher, M. E., Keenan, J. M., Hulslander, J., DeFries, J. C., Miyake, A., Wadsworth, S. J., Willcutt, E., Pennington, B., & Olson, R. K."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Full-scale IQ is genetically related but not redundant with common cognitive variance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Full-scale IQ was highly phenotypically correlated with the shared cognitive ability latent variable, with genetic influences accounting for 92% of this correlation. [→ Christopher 2016](#christopher-2016)
@@ -31,7 +33,7 @@ sources:
 
 Christopher, M. E., Keenan, J. M., Hulslander, J., DeFries, J. C., Miyake, A., Wadsworth, S. J., Willcutt, E., Pennington, B., & Olson, R. K. (2016). The Genetic and Environmental Etiologies of the Relations between Cognitive Skills and Components of Reading Ability. Journal of Experimental Psychology: General, 145(4), 451-466. https://doi.org/10.1037/xge0000146
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 An additional analysis showed that full-scale IQ was "highly phenotypically correlated with the shared cognitive ability latent variable (rp = .74)".
 
@@ -41,4 +43,6 @@ An additional analysis showed that full-scale IQ was "highly phenotypically corr
 
 
 ## Related Claims
--
+- [Cognitive and reading skills share large amounts of genetic variance within domains](cognitive-reading-domains-share-genetic-variance.md) — related
+- [Genetic influences drive the phenotypic correlations between cognitive skills and reading components](genetic-influences-drive-cognitive-reading-correlations.md) — a broader claim this one bears on
+- [Common cognitive genetic variance is highly correlated with common reading genetic variance](common-cognitive-genetic-variance-correlates-with-reading-genetic-variance.md) — related

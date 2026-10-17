@@ -50,3 +50,4 @@ The review reports, citing Allington (1984a), a classroom observational finding 
 - [Elaborative Interrogation Improves Learning](elaborative-interrogation-improves-learning.md) — related
 - [Training seventh graders to elaborate produced better long-term recall than questions stimulating elaboration, and the training transferred to new passages](trained-elaboration-beats-question-stimulated-elaboration.md) — related
 - [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — related
+- [Below Basic adults read far fewer words per minute than higher-level readers, with 49% reading at 60 wcpm or slower](below-basic-adults-slow-oral-reading.md) — related

@@ -47,3 +47,4 @@ Theoretical argument in this commentary by Wulff and Kubsch, offered without new
 - [Multimodal, culturally grounded formative assessment supports engagement and agency](multimodal-culturally-grounded-assessment-supports-engagement-and-agency.md) — a narrower finding that bears on this claim
 - [Human teacher–GenAI collaboration in embodied mathematics learning calls for a complementary interaction model combining AI feedback with human metacognitive guidance](complementary-human-genai-interaction-model.md) — a narrower finding that bears on this claim
 - [Student participation in validating and iteratively refining AI-generated simulations promotes physics understanding and problem-solving skills](student-validation-of-ai-simulations-promotes-understanding.md) — reports the opposite
+- [Current evidence does not establish that embodied representations are necessary for semantic understanding](embodiment-necessity-not-established.md) — related

@@ -15,12 +15,14 @@ sources:
     author: Patrick D. Gajewski, Michael Falkenstein, Sven Th€ones, Edmund Wascher
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Executive-control tasks discriminate old performance groups while speed, attention and memory tests show less consistent or no differences
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Group differences among old performers were clear in Stroop interference and TMT-B but less consistent or absent in Stroop parts 1-2, TMT-A, d2, digit-symbol, digit span and VLMT. [→ Patrick D. Gajewski 2020](#patrick-d-gajewski-2020)
@@ -31,7 +33,7 @@ sources:
 
 Patrick D. Gajewski, Michael Falkenstein, Sven Th€ones, Edmund Wascher. (2020). Stroop task performance across the lifespan: High cognitive reserve in older age is associated with enhanced proactive and reactive interference control. NeuroImage 207 (2020) 116430. https://doi.org/10.1016/j.neuroimage.2019.116430
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Summary of the neuropsychological test battery administered one day before the EEG session across the five groups. The article reports "clear differences between the three performance groups were found in tasks requiring executive control", while speed, attention, memory and verbal-memory subtests showed "less consistent or no differences".
 
@@ -41,4 +43,9 @@ Summary of the neuropsychological test battery administered one day before the E
 
 
 ## Related Claims
--
+- [Old high performers reach a Stroop performance level comparable to middle-aged or even young adults](old-high-performers-comparable-middle-aged-young.md) — related
+- [Old high performers show larger target-locked P2/N2 amplitudes than old low performers, exceeding middle-aged or young adults in some conditions](old-high-performers-larger-p2n2-reactive-control.md) — related
+- [Old high performers show larger CNV amplitudes than old middle and low performers, comparable to middle-aged and young adults](old-high-performers-larger-cnv-proactive-control.md) — related
+- [High performance in old age is associated with higher education, foreign language use and IQ, but not physical activity or personality](high-performance-linked-education-language-iq.md) — related
+- [Interference control declines with increasing age and increasing Stroop task difficulty in speed, consistency and accuracy](interference-control-declines-age-task-difficulty.md) — related
+- [Low working memory span individuals are more affected by Stroop task lapses and report more task-related mind-wandering](low-span-staying-on-task-deficits.md) — related

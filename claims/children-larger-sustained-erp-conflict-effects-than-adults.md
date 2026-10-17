@@ -45,3 +45,4 @@ Narrative review of prior ERP developmental studies (Davis et al., 2003; Rueda e
 ## Related Claims
 - [ERP amplitude shows larger negativity for incongruent and No-Go trials at frontal midline sites](erp-amplitude-incongruent-nogo-frontal-negativity.md) — related
 - [Flanker task produces congruency effects in reaction time and accuracy in twelve-year-old children](flanker-congruency-effects-twelve-year-olds.md) — related
+- [Not all neurophysiological aspects of auditory distraction mechanisms are mature in late childhood](distraction-mechanisms-immature-late-childhood.md) — related

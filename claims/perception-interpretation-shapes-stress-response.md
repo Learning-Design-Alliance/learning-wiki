@@ -15,18 +15,22 @@ sources:
     author: Karen E. Smith and Seth D. Pollak
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: karen-e-smith-and-seth-d-pollak-2020-2
     resource: "https://doi.org/10.1186/s11689-020-09337-y"
     title: "Karen E. Smith and Seth D. Pollak. (2020). Early life stress and development: potential mechanisms for adverse outcomes. Journal of Neurodevelopmental Disorders. https://doi.org/10.1186/s11689-020-09337-y"
     author: Karen E. Smith and Seth D. Pollak
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Children's perception and interpretation of stressors, rather than event type alone, shapes neurobiological stress responses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` Individual variability in neurobiological responses to stress is informed by factors shaping perceptions and interpretations of stress, including perceived stress ratings, controllability and predictability of stressors, and perceptions of control. [→ Karen E. Smith and Seth D. Pollak 2020](#karen-e-smith-and-seth-d-pollak-2020)
@@ -38,7 +42,7 @@ sources:
 
 Karen E. Smith and Seth D. Pollak. (2020). Early life stress and development: potential mechanisms for adverse outcomes. Journal of Neurodevelopmental Disorders. https://doi.org/10.1186/s11689-020-09337-y
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative review synthesis of adult research on stress perception. The review reports "individual variability in cortisol responses to social speech stress is positively related to how individuals rate their perceived stress during the stressor," and that perceived controllability, predictability, and control alter physiological and neural responses. No effect sizes are printed.
 
@@ -48,7 +52,7 @@ Narrative review synthesis of adult research on stress perception. The review re
 
 Karen E. Smith and Seth D. Pollak. (2020). Early life stress and development: potential mechanisms for adverse outcomes. Journal of Neurodevelopmental Disorders. https://doi.org/10.1186/s11689-020-09337-y
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Narrative review synthesis of two child studies on perception versus event exposure. The review reports a machine learning study found "event exposures are not highly predictive of children ’s outcomes" and another found reported abuse/neglect exposure is more predictive of mental health outcomes than court-report-identified exposure. No effect sizes are printed.
 
@@ -58,4 +62,6 @@ Narrative review synthesis of two child studies on perception versus event expos
 
 
 ## Related Claims
--
+- [Chronicity, developmental timing, and intensity of adversity exposure shape children's neurobiological stress responses](adversity-timing-intensity-shape-responses.md) — related
+- [Cumulative stress predicts adult outcomes beyond specific stressor types in longitudinal studies](cumulative-adversity-predicts-adult-depression-cortisol.md) — related
+- [Parental presence and support buffer children's neurobiological stress responses, mitigating adversity effects when support is high](parental-presence-support-buffers-stress.md) — related

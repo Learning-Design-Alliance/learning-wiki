@@ -15,12 +15,14 @@ sources:
     author: Frith Chris D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Conscious awareness of action onset lags brain activity initiation by hundreds of milliseconds
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The felt urge to act occurs approximately 300 ms after brain-activity changes associated with voluntary action first appear. [→ Frith Chris D 2012](#frith-chris-d-2012)
@@ -31,7 +33,7 @@ sources:
 
 Frith Chris D. (2012). The role of metacognition in human social interactions. Philosophical Transactions of the Royal Society B: Biological Sciences. https://doi.org/10.1098/rstb.2012.0123
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports Libet et al.'s finding (as cited) that when participants lift a finger at will and clock the urge's time, the urge is dated roughly 300 ms after readiness-potential onset, consistent with studies showing awareness hundreds of milliseconds after response initiation.
 

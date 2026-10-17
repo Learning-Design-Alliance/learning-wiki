@@ -96,3 +96,4 @@ This claim is one of the most robust premises in educational psychology, but its
 - Reported prior knowledge of lesson content differed sharply between sessions (r=−.330) and was treated as a measure of content divergence, not a covariate — a narrower finding that bears on this claim
 - [Students who transferred prior-domain knowledge tended to offer correct explanations in the other domain](transfer-associated-with-correct-cross-domain-explanations.md) — a narrower finding that bears on this claim
 - [Advance organizers facilitate conceptual retention and far transfer of unfamiliar technical material for learners lacking relevant prior knowledge](advance-organizers-far-transfer-unfamiliar-technical-material.md) — related
+- [mPFC activity during schema-related encoding predicts normalized second-year course grades, with no such relation for MTL activity](mpfc-schema-encoding-predicts-grades.md) — related

@@ -15,18 +15,22 @@ sources:
     author: Taveras Elsie M. MD, MPH; Rifas-Shiman Sheryl L. MPH; Bub Kristen L. EdD; Gillman Matthew W. MD, SM; Oken Emily MD, MPH
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
   - id: taveras-elsie-m-md-2017-2
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5545152/"
     title: "Taveras Elsie M. MD, MPH; Rifas-Shiman Sheryl L. MPH; Bub Kristen L. EdD; Gillman Matthew W. MD, SM; Oken Emily MD, MPH. (2017). Prospective Study of Insufficient Sleep and Neurobehavioral Functioning among School-Age Children. Academic Pediatrics. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5545152/"
     author: Taveras Elsie M. MD, MPH; Rifas-Shiman Sheryl L. MPH; Bub Kristen L. EdD; Gillman Matthew W. MD, SM; Oken Emily MD, MPH
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Children who slept <10 hours/day at ages 3-4 years had worse maternal-reported executive function and behavioral difficulties at age 7 than children with age-appropriate sleep
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` In multivariable models, children sleeping <10 hours/day at 3-4 years scored 2.11 points higher (95% CI: 0.17, 4.05) on maternal-reported BRIEF global executive composite at age 7 than children sleeping ≥11 hours/day. [→ Taveras Elsie M. MD 2017](#taveras-elsie-m-md-2017)
@@ -38,7 +42,7 @@ sources:
 
 Taveras Elsie M. MD, MPH; Rifas-Shiman Sheryl L. MPH; Bub Kristen L. EdD; Gillman Matthew W. MD, SM; Oken Emily MD, MPH. (2017). Prospective Study of Insufficient Sleep and Neurobehavioral Functioning among School-Age Children. Academic Pediatrics. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5545152/
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Multivariable linear regression in the Project Viva pre-birth cohort (n=1046), adjusted for sociodemographics, HOME-SF, child race/ethnicity, TV viewing, and prior-period sleep. Children sleeping "<10 hours/day at 3ŌĆō4 years" had worse maternal-reported BRIEF (2.11 points; 95% CI: 0.17, 4.05) and SDQ (1.91 points; 95% CI: 0.78, 3.05) at age 7.
 
@@ -48,7 +52,7 @@ Multivariable linear regression in the Project Viva pre-birth cohort (n=1046), a
 
 Taveras Elsie M. MD, MPH; Rifas-Shiman Sheryl L. MPH; Bub Kristen L. EdD; Gillman Matthew W. MD, SM; Oken Emily MD, MPH. (2017). Prospective Study of Insufficient Sleep and Neurobehavioral Functioning among School-Age Children. Academic Pediatrics. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5545152/
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Same multivariable model as the BRIEF finding; the SDQ total difficulties estimate for children sleeping <10 hours/day at 3-4 years was 1.91 points (95% CI: 0.78, 3.05) versus children with age-appropriate sleep. Higher scores indicate greater difficulties.
 
@@ -58,4 +62,7 @@ Same multivariable model as the BRIEF finding; the SDQ total difficulties estima
 
 
 ## Related Claims
--
+- [Infants who slept 11 to <12 hours/day had worse teacher-reported but not mother-reported neurobehavioral outcomes at age 7](infant-sleep-11-12-hours-teacher-only-association.md) — related
+- [Infants who slept <11 hours/day showed no association with mother- or teacher-reported neurobehavioral outcomes at age 7 after full adjustment](infant-sleep-under-11-hours-no-association.md) — related
+- [Children who slept <9 hours/day at ages 5-7 years had worse maternal-reported executive function and behavioral difficulties at age 7 than children sleeping ≥10 hours/day](short-sleep-5-7-years-worse-maternal-neurobehavioral.md) — related
+- [Teacher-reported neurobehavioral outcomes at age 7 were consistent with maternal reports for insufficient sleep at ages 3-4 and 5-7 years](teacher-reports-consistent-with-maternal-reports-short-sleep.md) — related

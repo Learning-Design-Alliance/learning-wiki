@@ -15,12 +15,14 @@ sources:
     author: Cho Eunsoo, Roberts Garrett J., Capin Philip, Roberts Greg, Miciak Jeremy, Vaughn Sharon
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Adequate responders differ from typical readers on verbal knowledge, listening comprehension, working memory, and phonological awareness
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Even students who responded adequately to intervention scored significantly below typical readers on four of six cognitive attributes: verbal knowledge, listening comprehension, working memory, and phonological awareness. [→ Cho Eunsoo 2015](#cho-eunsoo-2015)
@@ -31,7 +33,7 @@ sources:
 
 Cho Eunsoo, Roberts Garrett J., Capin Philip, Roberts Greg, Miciak Jeremy, Vaughn Sharon. (2015). Cognitive Attributes, Attention, and Self-Efficacy of Adequate and Inadequate Responders in a Fourth Grade Reading Intervention. Learning Disabilities Research & Practice. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4793275/
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Planned pairwise contrast from the MANOVA profile analysis comparing adequate responders to typical readers. The contrast showed differences on "verbal knowledge, t (65) = 3.52, corrected p = .004, listening comprehension, t (65) = 3.09, corrected p = .015, working memory, t (65) = 3.40, corrected p = .01, and phonological awareness, t (65) = 3.43, corrected p = .008". Table 3 reports Hedges' g values of 1.19 for verbal knowledge and listening comprehension, .89 for working memory, and .84 for phonological awareness.
 
@@ -41,4 +43,6 @@ Planned pairwise contrast from the MANOVA profile analysis comparing adequate re
 
 
 ## Related Claims
--
+- [Inadequate responders to fourth-grade reading intervention show lower verbal knowledge and listening comprehension than adequate responders and typical readers](inadequate-responders-lower-oral-language-than-adequate.md) — related
+- [The multivariate omnibus test shows significant cognitive profile differences across the four reader groups](omnibus-cognitive-profile-differences-four-groups.md) — a broader claim this one bears on
+- [Phonological awareness and rapid naming differentiate inadequate responders with word reading deficits from those without](phonological-processing-separates-inadequate-responder-subgroups.md) — related

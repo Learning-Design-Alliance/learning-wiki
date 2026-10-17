@@ -64,3 +64,4 @@ One-year prospective study of 527 middle school students using child-reported Li
 ## Related Claims
 - [Self-control shows substantial rank-order stability in early adolescence, yet situational influences still matter](self-control-rank-order-stability-with-situational-change.md) — a broader claim this one bears on
 - [The authors hypothesize a possible vicious cycle in which stress-induced self-control losses generate further stressful life events](stress-self-control-vicious-cycle-hypothesis.md) — related
+- [Child self-control at baseline is negatively associated with parents' work-family conflict at baseline and fathers' conflict at wave two](child-self-control-negatively-linked-parent-wfc.md) — related

@@ -44,3 +44,4 @@ Background literature cited in the article's introduction to support the experie
 
 ## Related Claims
 - [The TSST-G stress induction increased negative affect and cortisol relative to control](tsst-g-manipulation-check-affect-cortisol.md) — related
+- [Poverty predicts children's cortisol and executive function, partially mediated by parental sensitive caregiving](poverty-cortisol-executive-function-mediation.md) — related

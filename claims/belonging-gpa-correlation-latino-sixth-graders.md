@@ -15,12 +15,14 @@ sources:
     author: Morales-Chicas Jessica, Graham Sandra
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # School belonging and GPA were modestly positively correlated among Latino sixth graders (r = .20)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` School belonging and GPA were correlated (r = .20), and most predictors and covariates were modestly correlated with the outcomes in the expected direction. [→ Morales-Chicas Jessica 2017](#morales-chicas-jessica-2017)
@@ -31,7 +33,7 @@ sources:
 
 Morales-Chicas Jessica, Graham Sandra. (2017). Latinos’ Changing Ethnic Group Representation From Elementary to Middle School: Perceived Belonging and Academic Achievement. Journal of Research on Adolescence. https://doi.org/10.1111/jora.12292
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 Descriptive correlation analysis (Table 1) across the analytic sample; the printed correlation between belonging and GPA is "r = .20", a modest positive association reported as descriptive, not as a tested causal link.
 
@@ -41,4 +43,5 @@ Descriptive correlation analysis (Table 1) across the analytic sample; the print
 
 
 ## Related Claims
--
+- [Among Latino sixth graders, increases in same-ethnic representation from elementary to middle school are associated with higher school belonging and GPA, qualified by school ethnic diversity](latino-representation-change-belonging-gpa-main-effect.md) — related
+- [Latino girls reported higher belonging and achievement than boys, and Latino subgroup and parent-education differences emerged in the sixth grade](latino-gender-subgroup-covariate-differences.md) — related

@@ -15,12 +15,14 @@ sources:
     author: S. Dovis, S. van der Oord, H.M. Huizenga, R.W. Wiers, P.J.M. Prins
     q: 3
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # In the ADHD-I restrictive subtype, visuospatial WM impairments are more prevalent than in controls but STM impairments are not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r?` · `q3`
 
 ## Subclaims
 `q3 i?` In ADHD-I, WM impairments were more prevalent than in controls, whereas STM impairments were not more common than in controls. [→ S. Dovis 2015](#s-dovis-2015)
@@ -31,7 +33,7 @@ sources:
 
 S. Dovis, S. van der Oord, H.M. Huizenga, R.W. Wiers, P.J.M. Prins. (2015). Prevalence and diagnostic validity of motivational impairments and deficits in visuospatial short-term memory and working memory in ADHD subtypes. European Child & Adolescent Psychiatry, 24(5), 575-590. https://doi.org/10.1007/s00787-014-0612-1
 
-`q3 · i?`
+`q3 · i?` · `associational · r?`
 
 Group comparison of 27 children with ADHD-I (restrictive subtype) against 62 typically developing controls on visuospatial WM and STM tasks. The abstract states "In ADHD-I, only WM impairments, not STM impairments, were more prevalent than in controls."
 
@@ -41,4 +43,7 @@ Group comparison of 27 children with ADHD-I (restrictive subtype) against 62 typ
 
 
 ## Related Claims
--
+- [Affect recognition deficits were not found unanimously across ADHD groups, suggesting a nuanced subtype-specific pattern](affect-deficits-not-unanimous-across-adhd-groups.md) — related
+- [Diagnostic validity analyses yield results similar to the prevalence findings for WM, STM, and motivational impairments](diagnostic-validity-similar-to-prevalence-results.md) — related
+- [Impairment on WM, STM, and/or motivation is associated with more inattention symptoms, medication use, and lower IQ scores](impairment-associated-inattention-medication-lower-iq.md) — related
+- [Visuospatial working memory and short-term memory impairments are most prevalent in children with ADHD-C relative to ADHD-I and typically developing controls](visuospatial-wm-stm-impairments-most-prevalent-adhd-c.md) — related

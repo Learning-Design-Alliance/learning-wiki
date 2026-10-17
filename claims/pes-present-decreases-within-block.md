@@ -15,18 +15,22 @@ sources:
     author: Ger Ebru, Roebers Claudia M.
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
   - id: ger-ebru-2023-2
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10143737/"
     title: "Ger Ebru, Roebers Claudia M. (2023). The Relationship between Executive Functions, Working Memory, and Intelligence in Kindergarten Children. Journal of Intelligence. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10143737/"
     author: Ger Ebru, Roebers Claudia M.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # PES is robustly present in kindergarten children and decreases over the course of a task block
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Post-error slowing was significantly above zero in both the incongruent (r = 0.77) and mixed (r = 0.52) HF blocks, and its magnitude decreased with each subsequent error within a block. [→ Ger Ebru 2023](#ger-ebru-2023)
@@ -38,7 +42,7 @@ sources:
 
 Ger Ebru, Roebers Claudia M. (2023). The Relationship between Executive Functions, Working Memory, and Intelligence in Kindergarten Children. Journal of Intelligence. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10143737/
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Preliminary one-sample Wilcoxon signed-rank tests in the N = 147 sample confirmed PES was significantly above zero in both HF blocks, with printed effect sizes "r = 0.77" (incongruent) and "r = 0.52" (mixed); the shift cost was not (p = 1).
 
@@ -48,7 +52,7 @@ Preliminary one-sample Wilcoxon signed-rank tests in the N = 147 sample confirme
 
 Ger Ebru, Roebers Claudia M. (2023). The Relationship between Executive Functions, Working Memory, and Intelligence in Kindergarten Children. Journal of Intelligence. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10143737/
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Exploratory mixed linear regression on trial-level RTs showed PES was smaller in the mixed than flowers block and declined across successive errors within a block, independent of children's intelligence. Authors interpret this as possible strategic down-regulation of slowing.
 
@@ -58,4 +62,4 @@ Exploratory mixed linear regression on trial-level RTs showed PES was smaller in
 
 
 ## Related Claims
--
+- [Accuracy in the mixed block decreases across trials while PES also decreases, independent of intelligence](accuracy-decreases-mixed-block-trials.md) — related

@@ -68,3 +68,4 @@ Correlational analysis in which precision and K estimates from a no-memory perce
 - [Metacognitive awareness of VSTM performance becomes less accurate with age but remains well above chance across the adult life span](metacognitive-accuracy-declines-slightly-with-age.md) — related
 - [At low memory loads, older adults report less uncertainty than younger adults despite making larger errors, suggesting an overconfidence bias](older-adults-overconfident-low-load-vstm.md) — related
 - [WM capacity is significantly and negatively correlated with age in Korean adults](wm-negatively-correlated-with-age.md) — related
+- [Verbal memory performance declines with age in the full sample, significantly at the one-week delay](verbal-memory-declines-with-age-t3.md) — related

@@ -41,4 +41,11 @@ Think-aloud ANOVAs for the evaluative and affective categories in the same exper
 
 
 ## Related Claims
--
+- [Readers with a study goal paraphrase and repeat text more often than readers with an entertainment goal](study-goal-more-paraphrase-repetition.md) — related
+- [Readers with a study goal generate more backward/explanatory inferences during reading than readers with an entertainment goal](study-goal-more-explanatory-inferences.md) — related
+- [Readers with a study goal generate more forward/predictive inferences during reading than readers with an entertainment goal](study-goal-more-predictive-inferences.md) — related
+- [Readers with an entertainment goal generate more associative inferences than readers with a study goal, though the participant-level test was marginal](entertainment-goal-more-associations.md) — related
+- [In a follow-up self-paced reading study, readers with a study goal read considerably more slowly than readers with an entertainment goal](study-goal-slower-reading-times.md) — related
+- [Free recall of expository text is higher under a study goal than under an entertainment goal](study-goal-better-free-recall.md) — related
+- [Page readers included more details in their summaries than Scroll readers, while recall of main ideas did not differ significantly](page-presentation-summary-details-recall.md) — related
+- [A self-explanation instruction during rereading improves monitoring accuracy for all readers above mere rereading (Experiment 2)](self-explanation-improves-metacomprehension-accuracy.md) — related

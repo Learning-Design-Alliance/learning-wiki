@@ -53,3 +53,4 @@ Narrative review statement attributed to Baddeley (1996) and Morris & Gruneberg 
 - [First-to-fifth grade gains in visuospatial memory span (d = 2.4) were larger than gains in central executive capacity (d = 1.6) and phonological memory span (d = 1.1)](visuospatial-memory-gains-exceed-other-working-memory-components.md) — related
 - [Working memory is distinct from short-term memory in subsystem count and functional role in higher cognition](wm-distinct-from-stm-subsystems-function.md) — related
 - [The WM model is criticised as underspecified in its component interactions, limiting its predictive power](wm-model-underspecified-components-criticism.md) — related
+- [Phonological short-term memory capacity selectively predicts new vocabulary learning](phonological-memory-predicts-vocabulary-learning.md) — a narrower finding that bears on this claim

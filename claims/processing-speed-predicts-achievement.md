@@ -47,3 +47,4 @@ Multilevel models including RAN RTs for 177 children. Faster fifth grade letter 
 
 ## Related Claims
 - [Visuospatial memory did not predict word reading achievement in any grade, providing a discriminative contrast with mathematics](visuospatial-memory-not-predict-word-reading.md) — related
+- [The unique link between naming speed and word reading partly depends on using alphanumeric stimuli; non-alphanumeric naming speed adds no unique prediction](naming-speed-word-reading-link-alphanumeric-dependent.md) — related

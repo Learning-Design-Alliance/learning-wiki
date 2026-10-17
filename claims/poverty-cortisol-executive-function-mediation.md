@@ -15,12 +15,14 @@ sources:
     author: "Blair, Clancy & Raver, C. Cybele"
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Poverty predicts children's cortisol and executive function, partially mediated by parental sensitive caregiving
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Higher poverty and material hardship predict lower executive function and altered salivary cortisol, with sensitive parenting partially mediating both effects. [→ Blair 2015](#blair-2015)
@@ -31,7 +33,7 @@ sources:
 
 Blair, Clancy & Raver, C. Cybele. (2015). School Readiness and Self-Regulation: A Developmental Psychobiological Approach. Annual Review of Psychology. https://doi.org/10.1146/annurev-psych-010814-015221
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Longitudinal observational analysis from the Family Life Project. The article reports that "parental caregiving partially mediates the effects of poverty on both cortisol and executive function," with lower sensitive parenting associated with higher basal cortisol and lower executive function at age 3 years. No effect size is printed.
 
@@ -41,4 +43,5 @@ Longitudinal observational analysis from the Family Life Project. The article re
 
 
 ## Related Claims
--
+- [Prior studies support the experiential canalization framework: preschoolers in poverty are almost five times as likely to show disrupted diurnal cortisol patterns, and increased economic hardship is associated with significantly lower cognitive self-regulation](poverty-stress-physiology-self-regulation-evidence.md) — related
+- [Parental presence and support buffer children's neurobiological stress responses, mitigating adversity effects when support is high](parental-presence-support-buffers-stress.md) — related

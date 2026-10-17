@@ -15,12 +15,14 @@ sources:
     author: "Aikens, M. L., & Kulacki, A. R."
     q: 3
     i: 1
+    kind: associational
+    rigour: 1
 ---
 
 # Female students reported significantly lower initial self-efficacy for quantitative biology problems than male students, with small effect sizes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · associational `r1` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Mean initial self-efficacy scores were significantly lower for female students than male students on both tasks (r = 0.14 and r = 0.19). [→ Aikens 2023](#aikens-2023)
@@ -31,7 +33,7 @@ sources:
 
 Aikens, M. L., & Kulacki, A. R. (2023). Identifying Group Work Experiences That Increase Students' Self-Efficacy for Quantitative Biology Tasks. CBE—Life Sciences Education. https://doi.org/10.1187/cbe.22-04-0076
 
-`q3 · i1`
+`q3 · i1` · `associational · r1`
 
 Mann-Whitney U-tests compared initial self-efficacy by gender/sex for each task; means were 3.27 (female) vs 3.59 (male) for HWE and 2.75 vs 3.21 for PG, with "effect sizes were small in both cases (r = 0.14 and r = 0.19, respectively)."
 
@@ -41,4 +43,8 @@ Mann-Whitney U-tests compared initial self-efficacy by gender/sex for each task;
 
 
 ## Related Claims
--
+- [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related
+- [Gender/sex predicted reporting that getting help from peers increased self-efficacy when modeled alone, but this relationship was attenuated after accounting for initial self-efficacy](gender-predicts-peer-help-attenuated-by-initial-efficacy.md) — related
+- [Lower initial self-efficacy significantly increased the odds of students reporting that getting help from peers increased their self-efficacy](lower-initial-self-efficacy-predicts-peer-help.md) — related
+- [Students' self-efficacy for quantitative biology tasks significantly increased after completing collaborative group work assignments, with large effect sizes](group-work-increased-quantitative-self-efficacy.md) — related
+- [Descriptive patterns link infrequently reported experiences to initial self-efficacy: teaching others and no impact were reported by higher self-efficacy students, consulting a teacher by lower](infrequent-experiences-descriptive-self-efficacy-patterns.md) — related

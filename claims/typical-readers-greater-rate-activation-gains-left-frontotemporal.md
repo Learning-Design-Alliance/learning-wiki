@@ -39,4 +39,6 @@ Whole-brain parametric modulation analysis (cluster-level FDR corrected, p<.01) 
 
 
 ## Related Claims
--
+- [Group differences in activation are more extensive when behavioral performance is equated across groups, indicating they are not a consequence of worse performance](performance-equated-activation-differences-persist.md) — related
+- [In-scanner sentence judgment accuracy declines with faster word presentation rates, and dyslexic readers' accuracy declines disproportionately across rates](presentation-rate-accuracy-decline-dyslexia-disproportionate.md) — related
+- [Typical readers respond faster than dyslexic readers overall, and responses slow as presentation rates increase, without a group-by-rate interaction for reaction time](reaction-time-group-and-rate-effects-no-interaction.md) — related

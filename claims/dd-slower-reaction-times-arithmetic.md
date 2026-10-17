@@ -49,3 +49,4 @@ Two-way ANOVA on reaction times in the same 16 DD and 20 TD children during addi
 
 ## Related Claims
 - [Children with developmental dyscalculia are disproportionately impaired on subtraction accuracy relative to addition, showing a significant group × operation interaction](dd-subtraction-accuracy-deficit-interaction.md) — related
+- [Arithmetic problem-solving performance improves over 1.2 years in children, with larger gains on standard addition than control problems](arithmetic-performance-improves-longitudinally.md) — related

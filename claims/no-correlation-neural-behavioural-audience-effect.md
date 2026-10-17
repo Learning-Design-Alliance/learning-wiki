@@ -15,12 +15,14 @@ sources:
     author: Dumontheil Iroise, Wolf Laura K., Blakemore Sarah-Jayne
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Neural audience effects do not correlate with behavioural audience effects or resistance-to-peer-influence scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` No significant clusters correlated the behavioural audience effect on accuracy, or participants' RPI scores, with neural audience effects. [→ Dumontheil Iroise 2016](#dumontheil-iroise-2016)
@@ -31,7 +33,7 @@ sources:
 
 Dumontheil Iroise, Wolf Laura K., Blakemore Sarah-Jayne. (2016). Audience effects on the neural correlates of relational reasoning in adolescence. Neuropsychologia. https://doi.org/10.1016/j.neuropsychologia.2016.05.001
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Correlation analyses across the whole fMRI sample tested whether individual differences in the neural Peer>Alone effect related to the accuracy audience effect or to resistance-to-peer-influence questionnaire scores; neither analysis found significant clusters, so the neural and behavioural audience effects were dissociated.
 
@@ -41,4 +43,5 @@ Correlation analyses across the whole fMRI sample tested whether individual diff
 
 
 ## Related Claims
--
+- [Individual differences in audience effects are not correlated with self-reported resistance to peer influence](audience-effects-not-correlated-with-rpi.md) — possibly the same claim (merge candidate)
+- [A peer audience differentially modulates fronto-parietal activation by age: increased in adolescents, decreased in adults](peer-audience-age-differential-frontoparietal-activation.md) — related

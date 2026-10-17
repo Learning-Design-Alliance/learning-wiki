@@ -51,3 +51,4 @@ The dissertation reports, citing Ericsson and Pool, a digit-recall experiment in
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](chunking-reduces-working-memory-load.md) — related
 - [Amount of accumulated deliberate practice distinguishes more from less accomplished musicians](deliberate-practice-hours-differentiate-musicians.md) — related
 - [Score-access barriers push musicians with BLV toward memorization and listening-based learning, and accessible notation tools miss performance-critical details](blv-score-access-memorization-default.md) — related
+- [Normal adults typically can keep in mind only about 3 or 4 items, a limit replicated across many methods](adult-working-memory-limit-3-4-chunks.md) — reports the opposite

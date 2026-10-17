@@ -57,3 +57,4 @@ Narrative synthesis in the "Environments Filled With Safety and Belonging" scien
 - Physically or emotionally unsafe environments activate the adolescent stress-response system, which can impede cognition — a broader claim this one bears on
 - Regulate-relate-reason sequence: students reason once regulated and feeling supported — related
 - [Anxiety in foreign language classroom learning experiences is linked with oral performance among Japanese EFL learners](flca-linked-with-oral-performance-japanese-efl.md) — related
+- [Chronic stereotype threat is negatively associated with mathematical achievement in secondary schoolgirls](chronic-stereotype-threat-lower-math-achievement.md) — a narrower finding that bears on this claim

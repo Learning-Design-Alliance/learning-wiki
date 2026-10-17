@@ -41,4 +41,6 @@ Discussion of the completers' pre-to-post gains reports effect sizes by skill: "
 
 
 ## Related Claims
--
+- [Adults who completed supplemental basic-skills tutoring showed significant pre-to-post gains across a battery of decoding, word recognition, fluency, and comprehension measures](adult-completers-significant-gains-basic-reading.md) — a broader claim this one bears on
+- [Program-specific gains appeared only in isolated t-tests: GRR on reading comprehension and RAVE-O on word-level efficiency measures](program-specific-ttest-gains.md) — related
+- [The MSDS structured decoding curriculum produced a small but significant effect on adult learners' pseudoword decoding (WJR Word Attack) relative to control instruction](msds-small-significant-word-attack-effect.md) — related

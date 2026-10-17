@@ -63,3 +63,4 @@ Narrative review citing Pavlik et al.; the survey reports they "empirically veri
 - [For Chinese tone learning, simpler models insensitive to memory decay fit as well as or better than memory-feature models](simpler-models-sufficient-for-tone-learning.md) — related
 - [The PPE memory model was the best-fitting model for the Andes physics dataset, with the recency feature also beneficial](ppe-best-fitting-andes-physics.md) — related
 - [Models able to weight performance by recency fit better on the Assistments and KDD datasets, without explicit memory-decay terms being necessary](recency-weighting-models-better-assistments-kdd.md) — related
+- [Four methods of identifying individual change each duplicated group-based effect sizes, with the reliable change index and growth curve approaches showing stronger consistency and predictive power (Frijters et al.)](four-change-metrics-reliable-change-and-growth-curve-stronger.md) — related

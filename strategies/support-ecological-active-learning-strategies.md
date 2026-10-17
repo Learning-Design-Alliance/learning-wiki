@@ -39,7 +39,7 @@ The article recommends supporting children's question asking and active learning
 - independent learning and critical-thinking skills
 
 ### Affordances
-- [Ecological Active Learning Framework](../theories/ecological-active-learning-framework.md)
+- Ecological Active Learning Framework
 
 ## Related Strategies
 - 

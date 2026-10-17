@@ -15,12 +15,14 @@ sources:
     author: Bialystok Ellen, Viswanathan Mythili
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Bilingual and monolingual 8-year-olds do not differ in response suppression costs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` The response suppression cost (red minus green eye RT) did not differ significantly across the three language groups. [→ Bialystok Ellen 2009](#bialystok-ellen-2009)
@@ -31,7 +33,7 @@ sources:
 
 Bialystok Ellen, Viswanathan Mythili. (2009). Components of Executive Control with Advantages for Bilingual Children in Two Cultures. Cognition. https://doi.org/10.1016/j.cognition.2009.06.014
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Null cost analysis from the faces task with ninety 8-year-olds in three groups. No effect size was printed, so the finding is a non-significant group difference, not a measured null effect; equivalence was not tested.
 
@@ -41,4 +43,6 @@ Null cost analysis from the faces task with ninety 8-year-olds in three groups. 
 
 
 ## Related Claims
--
+- [Bilingual 8-year-olds show smaller inhibitory-control costs than monolinguals on the faces task](bilingual-children-inhibitory-control-advantage-faces-task.md) — related
+- [Bilingual 8-year-olds show no switching cost between blocked and mixed trial blocks, unlike monolinguals](bilingual-children-no-switching-cost-faces-task.md) — related
+- [Bilingual children show no reaction time cost for their dual-task accuracy advantage](no-rt-cost-bilingual-dual-task-advantage.md) — related

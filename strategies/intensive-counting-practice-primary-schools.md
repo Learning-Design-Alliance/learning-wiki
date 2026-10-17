@@ -38,7 +38,7 @@ As an applied implication, the article recommends that "more intensive practice 
 - long-term preservation of arithmetic abilities
 
 ### Affordances
-- [Automated Counting Procedure Model Addition](../theories/automated-counting-procedure-model-addition.md)
+- Automated Counting Procedure Model Addition
 
 ## Related Strategies
 - 

@@ -43,7 +43,7 @@ The article recommends promoting a bedtime routine as a public health and clinic
 - literacy and school readiness
 
 ### Affordances
-- [Bedtime Routine Conceptual Model Early Childhood](../theories/bedtime-routine-conceptual-model-early-childhood.md)
+- Bedtime Routine Conceptual Model Early Childhood
 
 ## Related Strategies
 - 

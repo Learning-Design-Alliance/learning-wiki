@@ -48,3 +48,4 @@ GLMM interaction results for the ADHD subgroup (N=68 observations, hesitations o
 - [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md) — the general claim this finding bears on, with the studies behind it
 - [Segmentation reduces errors and hesitations for participants with and without ADHD, with larger point estimates for the ADHD group but no significant segmentation-by-ADHD interaction](segmentation-benefit-larger-for-adhd-group.md) — related
 - [Segmented videos reduce hesitations for participants with ADHD by approximately 79% compared to non-segmented videos](segmentation-reduces-hesitations-adhd-participants.md) — related
+- [Medication use does not affect creativity measures in adults with ADHD](no-medication-effect-on-creativity-adhd.md) — related

@@ -15,12 +15,14 @@ sources:
     author: Liane Kaufmann, Michael von Aster, Silke M. Göbel, Josef Marksteiner, and Elise Klein
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Adults with DD show deficient time/duration processing but preserved length processing, with mixed findings across studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Adults with DD exposed difficulties with numerical and temporal processing while length processing was preserved in one study, but another study found preserved temporal discrimination when non-numerical stimuli were processed, and length findings are inconclusive across studies. [→ Liane Kaufmann 2020](#liane-kaufmann-2020)
@@ -31,7 +33,7 @@ sources:
 
 Liane Kaufmann, Michael von Aster, Silke M. Göbel, Josef Marksteiner, and Elise Klein. (2020). Developmental Dyscalculia in Adults: Current Issues and Open Questions for Future Research. Lernen und Lernstörungen, 9(2), 126–137. https://doi.org/10.1024/2235-0977/a000294
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Review reports De Visscher et al. (2018) finding DD deficits in numerosity and duration but preserved length and face categorization, interpreted as a non-symbolic magnitude deficit excluding length. Cappelletti et al. (2011) found preserved temporal discrimination with non-numerical stimuli, supporting a partially shared quantity system.
 
@@ -41,4 +43,7 @@ Review reports De Visscher et al. (2018) finding DD deficits in numerosity and d
 
 
 ## Related Claims
--
+- [Adults with DD show deficient alerting and executive attention with preserved orienting, indicating domain-general deficits beyond number processing](dd-adults-alerting-executive-attention-deficits.md) — related
+- [Adults with DD show deficient conceptual size processing with preserved physical size processing, supporting shared magnitude substrates](dd-adults-conceptual-size-dissociation.md) — related
+- [Adults with DD rely on time-consuming back-up strategies like finger usage for single-digit arithmetic, with prolonged response latencies that appear number-specific](dd-adults-backup-strategies-prolonged-latencies.md) — related
+- [Non-symbolic magnitude processing shows mixed associations with inhibition measures](nonsymbolic-nmp-mixed-inhibition-association.md) — related

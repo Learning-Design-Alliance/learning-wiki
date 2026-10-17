@@ -15,18 +15,22 @@ sources:
     author: "Blair, C., Ursache, A., Greenberg, M., Vernon-Feagans, L., & The Family Life Project Investigators"
     q: 3
     i: 1
+    kind: associational
+    rigour: 3
   - id: blair-2015-2
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5264531/"
     title: "Blair, C., Ursache, A., Greenberg, M., Vernon-Feagans, L., & The Family Life Project Investigators. (2015). Multiple Aspects of Self-Regulation Uniquely Predict Mathematics but Not Letter–Word Knowledge in the Early Elementary Grades. Developmental Psychology. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5264531/"
     author: "Blair, C., Ursache, A., Greenberg, M., Vernon-Feagans, L., & The Family Life Project Investigators"
     q: 3
     i: 1
+    kind: associational
+    rigour: 3
 ---
 
 # Combined teacher and parent report of effortful control predicts both prekindergarten math level and growth, persisting through the most stringent model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · associational `r3` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Combined teacher and parent report of effortful control is positively associated with math intercept (ES = .18) and slope (ES = .08) in the demographic model. [→ Blair 2015](#blair-2015)
@@ -38,7 +42,7 @@ sources:
 
 Blair, C., Ursache, A., Greenberg, M., Vernon-Feagans, L., & The Family Life Project Investigators. (2015). Multiple Aspects of Self-Regulation Uniquely Predict Mathematics but Not Letter–Word Knowledge in the Early Elementary Grades. Developmental Psychology. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5264531/
 
-`q3 · i1`
+`q3 · i1` · `associational · r3`
 
 Model A growth model. Combined teacher and parent CBQ effortful control report predicted prekindergarten math level and growth: "B = 2.03, SE = 0.42, p < .001, ES = .18" for intercept and "B = 0.38, SE = 0.14, p < .01, ES = .08" for slope.
 
@@ -48,7 +52,7 @@ Model A growth model. Combined teacher and parent CBQ effortful control report p
 
 Blair, C., Ursache, A., Greenberg, M., Vernon-Feagans, L., & The Family Life Project Investigators. (2015). Multiple Aspects of Self-Regulation Uniquely Predict Mathematics but Not Letter–Word Knowledge in the Early Elementary Grades. Developmental Psychology. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5264531/
 
-`q3 · i1`
+`q3 · i1` · `associational · r3`
 
 Model B growth model with cognitive covariates added. The combined effortful control report effect on math growth "remained unchanged (B = 0.41, SE = 0.15, p < .01, ES = .08)", the only self-regulation measure to persist.
 
@@ -58,4 +62,6 @@ Model B growth model with cognitive covariates added. The combined effortful con
 
 
 ## Related Claims
--
+- [The interaction of cortisol and alpha amylase at 48 months is unrelated to math and reading ability at prekindergarten and to growth](cortisol-amylase-interaction-unrelated-academic.md) — related
+- [Directly assessed effortful control at 48 months predicts prekindergarten math but not reading, and not growth in either](direct-effortful-control-predicts-math-not-reading.md) — related
+- [Executive function at 48 months positively predicts mathematics ability at prekindergarten, with effects persisting after cognitive covariate controls](executive-function-predicts-math-persisting-covariates.md) — related

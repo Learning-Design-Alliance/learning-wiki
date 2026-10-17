@@ -41,4 +41,5 @@ Correlations between looking time differences and outcome measures at two and fo
 
 
 ## Related Claims
--
+- [Outcome measures are highly interrelated in children with cochlear implants](ci-outcome-measures-interrelated.md) — a broader claim this one bears on
+- [Pre-implant aided hearing levels significantly predict word-learning performance in children with cochlear implants](pre-ci-hearing-predicts-word-learning.md) — related

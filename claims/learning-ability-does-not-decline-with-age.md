@@ -64,3 +64,4 @@ The digest reports, citing Ostwald and Williams, studies on aging showing that "
 - [A practitioner digest asserts, without cited studies, that no research evidence suggests older adults cannot succeed in learning another language](no-evidence-older-adults-cannot-learn-language.md) — possibly the same claim (merge candidate)
 - No age is optimal or critical for second language learning, and older learners can benefit more from cognitive approaches — related
 - Aging does not substantially reduce informal learning participation, though preference shifts from courses to self-directed learning — related
+- [Older adults can think as divergently as young adults but do so at a slower rate and require more time](older-adults-divergent-thinking-slower-rate.md) — related

@@ -66,3 +66,4 @@ The consensus statement enumerates social, emotional, and academic capacities to
 - [Sense of mathematics belonging predicts algebra learning, even after controlling for prior knowledge and background factors](mathematics-belonging-predicts-algebra-learning.md) — a narrower finding that bears on this claim
 - [Problem-based learning connecting coursework and practice is associated with stronger candidate skill development and self-efficacy](problem-based-principal-preparation-self-efficacy.md) — related
 - [66% of Los Padillas students reported a sense of belonging in 2023–24, well above the 44% for students in the rest of the district](los-padillas-student-belonging-above-district.md) — a narrower finding that bears on this claim
+- [A sense of belonging can help promote and consolidate online learning](sob-promotes-consolidates-online-learning.md) — a narrower finding that bears on this claim

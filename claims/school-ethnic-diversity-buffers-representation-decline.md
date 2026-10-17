@@ -15,18 +15,22 @@ sources:
     author: Morales-Chicas Jessica, Graham Sandra
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: morales-chicas-jessica-2017-2
     resource: "https://doi.org/10.1111/jora.12292"
     title: "Morales-Chicas Jessica, Graham Sandra. (2017). Latinos’ Changing Ethnic Group Representation From Elementary to Middle School: Perceived Belonging and Academic Achievement. Journal of Research on Adolescence. https://doi.org/10.1111/jora.12292"
     author: Morales-Chicas Jessica, Graham Sandra
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # School ethnic diversity moderates the representation-change association: declining same-ethnic representation predicts lower belonging and GPA only in less diverse middle schools
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The association between ethnic representation change and both belonging and GPA was significantly moderated by school-level ethnic diversity (cross-level interaction). [→ Morales-Chicas Jessica 2017](#morales-chicas-jessica-2017)
@@ -38,7 +42,7 @@ sources:
 
 Morales-Chicas Jessica, Graham Sandra. (2017). Latinos’ Changing Ethnic Group Representation From Elementary to Middle School: Perceived Belonging and Academic Achievement. Journal of Research on Adolescence. https://doi.org/10.1111/jora.12292
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Model 2 of the multilevel regression added the cross-level interaction; model fit improved significantly for belonging (χ2 = 4.12, df = 1, p < .05) and achievement (χ2 = 6.73, df = 1, p < .01). The interaction coefficients are "significant cross-level interactions between ethnic representation change and school ethnic diversity" for both outcomes.
 
@@ -48,7 +52,7 @@ Model 2 of the multilevel regression added the cross-level interaction; model fi
 
 Morales-Chicas Jessica, Graham Sandra. (2017). Latinos’ Changing Ethnic Group Representation From Elementary to Middle School: Perceived Belonging and Academic Achievement. Journal of Research on Adolescence. https://doi.org/10.1111/jora.12292
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Simple slopes analyses (Preacher, Curran, & Bauer technique) at 1 SD below mean diversity showed the steepest slopes; at the mean, slopes were smaller (b = .16 belonging; b = .37 GPA), and "Feelings of belonging and GPA did not vary as a function of ethnic representation change in more diverse middle schools (1 SD above the mean)."
 
@@ -58,4 +62,7 @@ Simple slopes analyses (Preacher, Curran, & Bauer technique) at 1 SD below mean 
 
 
 ## Related Claims
--
+- [Latino girls reported higher belonging and achievement than boys, and Latino subgroup and parent-education differences emerged in the sixth grade](latino-gender-subgroup-covariate-differences.md) — related
+- [Among Latino sixth graders, increases in same-ethnic representation from elementary to middle school are associated with higher school belonging and GPA, qualified by school ethnic diversity](latino-representation-change-belonging-gpa-main-effect.md) — a broader claim this one bears on
+- [School ethnic composition moderates change in ERI affirmation during adolescence](school-ethnic-composition-moderates-eri-affirmation.md) — related
+- [School racial/ethnic diversity and same-racial/ethnic peer proportion jointly predict higher reading achievement in kindergarten, with matching benefits concentrated in more diverse schools](school-diversity-matching-jointly-predict-reading-achievement.md) — related

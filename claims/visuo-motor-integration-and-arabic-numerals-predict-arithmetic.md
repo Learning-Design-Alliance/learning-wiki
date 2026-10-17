@@ -41,4 +41,5 @@ Same hierarchical regression analysis in the kindergarten longitudinal sample (N
 
 
 ## Related Claims
--
+- [Kindergarten spatial orientation performance longitudinally predicts arithmetic performance four months later](spatial-orientation-predicts-arithmetic-kindergarten.md) — related
+- [Kindergarten spatial orientation performance longitudinally predicts number line estimation performance four months later](spatial-orientation-predicts-number-line-estimation.md) — related

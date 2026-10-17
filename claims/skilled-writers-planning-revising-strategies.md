@@ -50,3 +50,4 @@ Interview findings on revising strategies of the nine skilled EFL writers, who c
 - Skilled EFL writers are aware of their own writing strengths and weaknesses and exploit strengths while compensating for weaknesses such as limited vocabulary. — related
 - Skilled EFL writers possess declarative knowledge that topic familiarity influences how much and how well they can write about a topic. — related
 - Organization and task analysis were the most difficult problems in New York state writing competency testing — related
+- [Struggling adult writers show limited planning and revision in their writing process, similar to younger writers](struggling-adult-writers-limited-planning-revision.md) — related

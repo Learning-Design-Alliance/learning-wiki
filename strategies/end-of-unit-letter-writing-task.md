@@ -42,7 +42,7 @@ A concrete implementable activity: after completing a science unit, students sum
 - conceptual understanding of mixtures
 
 ### Affordances
-- [Prain Hand Five Element Writing Framework](../theories/prain-hand-five-element-writing-framework.md)
+- Prain Hand Five Element Writing Framework
 
 ## Related Strategies
 - 

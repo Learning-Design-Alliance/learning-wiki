@@ -15,12 +15,14 @@ sources:
     author: Margarida Romero, Pirkko Hyvönen, Elena Barberà
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Reflective judgment scores increased consistently with age and educational level
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Reflective judgment scores increased consistently with age and educational level, per King and Kitchener's research. [→ Margarida Romero 2012](#margarida-romero-2012)
@@ -31,7 +33,7 @@ sources:
 
 Margarida Romero, Pirkko Hyvönen, Elena Barberà. (2012). Creativity in Collaborative Learning across the Life Span. Creative Education. https://doi.org/10.4236/ce.2012.34066
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports, citing King and Kitchener's Reflective Judgment Model research, that "reflective judgment scores increased consistently with age and educational level". The model considers seven stages in cognitive developmental progression in reasoning.
 
@@ -41,4 +43,5 @@ The review reports, citing King and Kitchener's Reflective Judgment Model resear
 
 
 ## Related Claims
--
+- [Working memory performance increases from baseline to the first post-induction trial across all age groups and conditions, consistent with practice effects](nback-practice-effect-all-groups.md) — related
+- [Aging does not materially reduce the relative accuracy (resolution) of judgments of learning during encoding, with cross-sectional evidence of no age declines and even age-related increases in aggregate JOL resolution across ages 18 to 81](aging-spares-jol-resolution-encoding.md) — related

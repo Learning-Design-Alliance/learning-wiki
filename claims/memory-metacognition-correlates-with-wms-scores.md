@@ -15,12 +15,14 @@ sources:
     author: Palmer E.C., David A.S., Fleming S.M.
     q: 3
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # Memory metacognitive efficiency correlates with Wechsler Memory Scale scores, but perceptual metacognition does not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Memory metacognitive efficiency correlated significantly with WMS immediate (r = .37), delayed (r = .59) and recognition (r = .37) scores, whereas perceptual metacognition showed no such relationships. [→ Palmer E.C. 2014](#palmer-ec-2014)
@@ -31,7 +33,7 @@ sources:
 
 Palmer E.C., David A.S., Fleming S.M. (2014). Effects of age on metacognitive efficiency. Consciousness and Cognition. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4154452/
 
-`q3 · i3`
+`q3 · i3` · `associational · r1`
 
 Secondary correlational analyses linking metacognitive efficiency to Wechsler Memory Scale logical memory subtests. The article reports significant WMS–memory metacognition correlations (delayed r = .59, p = .01) and none for perceptual metacognition (all p ≥ .54).
 
@@ -41,4 +43,6 @@ Secondary correlational analyses linking metacognitive efficiency to Wechsler Me
 
 
 ## Related Claims
--
+- [Perceptual and memory metacognitive efficiencies are positively correlated across individuals, though weakened after outlier removal](cross-domain-metacognitive-efficiency-correlation.md) — related
+- [Memory metacognitive efficiency shows a non-significant negative relationship with age](memory-metacognitive-efficiency-nonsignificant-age-decline.md) — related
+- [Perceptual metacognitive efficiency declines with age in healthy adults aged 18–84, even when task performance is controlled](perceptual-metacognitive-efficiency-declines-with-age.md) — related

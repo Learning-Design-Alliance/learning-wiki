@@ -15,18 +15,22 @@ sources:
     author: Xia Zhichao, Zhang Linjun, Hoeft Fumiko, Gu Bin, Gong Gaolang, Shu Hua
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: xia-zhichao-2018-2
     resource: "https://doi.org/10.1177/0165025417727872"
     title: "Xia Zhichao, Zhang Linjun, Hoeft Fumiko, Gu Bin, Gong Gaolang, Shu Hua. (2018). Neural Correlates of Oral Word Reading, Silent Reading Comprehension, and Cognitive Subcomponents. International Journal of Behavioral Development. https://doi.org/10.1177/0165025417727872"
     author: Xia Zhichao, Zhang Linjun, Hoeft Fumiko, Gu Bin, Gong Gaolang, Shu Hua
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Word reading efficiency and sentence comprehension show distinct behavioral subcomponent profiles: word reading correlates with phonological subcomponents, comprehension with morphological awareness and orthography-semantic mapping
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Word reading efficiency correlated significantly with phonological representation (r = 0.643), phonological awareness (r = 0.516), orthography-phonology mapping (r = 0.662) and orthography-semantic mapping (r = 0.536), but not with morphological awareness (r = 0.165, p = 0.513) or orthographical processing (r = 0.149, p = 0.555). [→ Xia Zhichao 2018](#xia-zhichao-2018)
@@ -38,7 +42,7 @@ sources:
 
 Xia Zhichao, Zhang Linjun, Hoeft Fumiko, Gu Bin, Gong Gaolang, Shu Hua. (2018). Neural Correlates of Oral Word Reading, Silent Reading Comprehension, and Cognitive Subcomponents. International Journal of Behavioral Development. https://doi.org/10.1177/0165025417727872
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Pearson's correlations between behavioral measures (n = 21) controlling for age, gender and performance IQ, reported in the Results section. The correlations with morphological awareness and orthographical processing were not significant.
 
@@ -48,7 +52,7 @@ Pearson's correlations between behavioral measures (n = 21) controlling for age,
 
 Xia Zhichao, Zhang Linjun, Hoeft Fumiko, Gu Bin, Gong Gaolang, Shu Hua. (2018). Neural Correlates of Oral Word Reading, Silent Reading Comprehension, and Cognitive Subcomponents. International Journal of Behavioral Development. https://doi.org/10.1177/0165025417727872
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 The same behavioral correlation analysis in the Results section shows sentence comprehension correlated with morphological awareness (r = 0.502, p = 0.034) and orthographic processing (r = 0.505, p = 0.032), and with two of three phonological subcomponents.
 
@@ -58,4 +62,8 @@ The same behavioral correlation analysis in the Results section shows sentence c
 
 
 ## Related Claims
--
+- [Reading-defined regions uniquely predict distinct cognitive subcomponents: LSTG for phonetic representation, LSMG for phonological awareness, and LITG for orthography-phonology mapping](word-reading-regions-predict-distinct-subcomponents.md) — related
+- [For sentence comprehension regions, LPHP thickness is correlated with morphological awareness and RV1 thickness with orthography-semantic mapping](comprehension-regions-morphology-orthosemantic.md) — related
+- [The word-reading and comprehension cortical regions are specific to their respective reading level: cross-level correlations were nonsignificant after FDR correction](level-specific-ct-reading-regions.md) — related
+- [Morphological awareness is a significantly stronger correlate of adult reading comprehension than phonological awareness and RAN](morphological-awareness-stronger-than-phonological-ran.md) — related
+- [Semantic ability correlates with phonological awareness, rapid naming, and both decoding measures in children with dyslexia](semantics-correlates-pa-ran-decoding.md) — related

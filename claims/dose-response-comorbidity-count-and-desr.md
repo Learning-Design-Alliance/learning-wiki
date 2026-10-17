@@ -15,12 +15,14 @@ sources:
     author: Surman Craig B. H., Biederman Joseph, Spencer Thomas, Miller Carolyn A., McDermott Katie M., Faraone Stephen V.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # More current comorbid conditions are associated with higher DESR scores in adults with ADHD
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Among ADHD probands, individuals with higher numbers of current comorbid conditions tended to have higher DESR scores. [→ Surman Craig B. H. 2013](#surman-craig-b-h-2013)
@@ -31,7 +33,7 @@ sources:
 
 Surman Craig B. H., Biederman Joseph, Spencer Thomas, Miller Carolyn A., McDermott Katie M., Faraone Stephen V. (2013). Understanding deficient emotional self-regulation in adults with attention deficit hyperactivity disorder: a controlled study. Attention deficit and hyperactivity disorders. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4009378/
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Descriptive dose–response analysis in ADHD probands relating the number of current comorbid mental health conditions to mean DESR scores (Table 3 means rising from 5.9 at zero conditions to 18.7 at six). The study reports "individuals with higher numbers of current comorbid conditions tended to have higher DESR scores."
 
@@ -41,4 +43,8 @@ Descriptive dose–response analysis in ADHD probands relating the number of cur
 
 
 ## Related Claims
--
+- [DESR severity correlates strongly with current ADHD symptom severity in adults with ADHD](desr-correlates-with-adhd-symptom-severity.md) — related
+- [Adults with ADHD report deficient emotional self-regulation symptoms far more frequently than adults without ADHD](desr-more-frequent-in-adhd-adults-than-controls.md) — related
+- [The association between ADHD and DESR is not fully explained by comorbid psychiatric disorders](desr-not-fully-explained-by-comorbidity.md) — related
+- [DESR overlaps with ODD but is not identified by ODD diagnosis alone in adults with ADHD](desr-overlaps-odd-but-not-identified-by-odd.md) — related
+- [A majority of adults with ADHD show extreme DESR exceeding the 95th percentile of control subjects](extreme-desr-majority-of-adhd-adults.md) — related

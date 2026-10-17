@@ -41,4 +41,5 @@ A 2 (Native Language Status) × 5 (reading instruction group) MANCOVA with postt
 
 
 ## Related Claims
--
+- [Learners in K-3 structured decoding curricula adapted for adults (comparison group) did not differ significantly from treatment or control groups on any reading measure](k3-adapted-curricula-no-differential-gains.md) — related
+- [No significant instructional-group effects were detected at the six-month follow-up assessment](no-follow-up-group-effects.md) — reports the opposite

@@ -15,18 +15,22 @@ sources:
     author: Benner Aprile D.; Crosnoe Robert
     q: 2
     i: "?"
+    kind: associational
+    rigour: 3
   - id: benner-aprile-d-crosnoe-robert-2011-2
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4554342/"
     title: "Benner Aprile D.; Crosnoe Robert. (2011). The Racial/Ethnic Composition of Elementary Schools and Young Children's Academic and Socioemotional Functioning. American Educational Research Journal. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4554342/"
     author: Benner Aprile D.; Crosnoe Robert
     q: 2
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # School diversity and same-racial/ethnic peer proportion jointly predict higher math achievement in kindergarten, with matching benefits concentrated in more diverse schools
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In a single model, school diversity (ß = .04) and proportion same-racial/ethnic peers (ß = .06) each significantly predicted kindergarten math achievement, though diversity alone did not (ß = .01, ns). [→ Benner Aprile D.; Crosnoe Robert 2011](#benner-aprile-d-crosnoe-robert-2011)
@@ -38,7 +42,7 @@ sources:
 
 Benner Aprile D.; Crosnoe Robert. (2011). The Racial/Ethnic Composition of Elementary Schools and Young Children's Academic and Socioemotional Functioning. American Educational Research Journal. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4554342/
 
-`q2 · i?`
+`q2 · i?` · `associational · r3`
 
 Stepwise regression of ECLS-K kindergarten math scores (n = 21,260). "school diversity and same-racial/ethnic peers predicted mathematics test scores when both school composition effects were included in a single model simultaneously."
 
@@ -48,7 +52,7 @@ Stepwise regression of ECLS-K kindergarten math scores (n = 21,260). "school div
 
 Benner Aprile D.; Crosnoe Robert. (2011). The Racial/Ethnic Composition of Elementary Schools and Young Children's Academic and Socioemotional Functioning. American Educational Research Journal. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4554342/
 
-`q2 · i?`
+`q2 · i?` · `associational · r3`
 
 Interaction model for math achievement in the same ECLS-K sample. "higher levels of matching were associated with stronger math achievement for children in highly diverse elementary schools (see Figure 1b)."
 
@@ -58,4 +62,6 @@ Interaction model for math achievement in the same ECLS-K sample. "higher levels
 
 
 ## Related Claims
--
+- [Diversity and matching associations with kindergarten achievement vary by child race/ethnicity, with academic benefits concentrated among White students](composition-achievement-benefits-concentrated-white-students.md) — related
+- [School racial/ethnic composition effects on kindergarten outcomes are about half the size of parent education effects but non-negligible](composition-effects-half-parent-education-size.md) — related
+- [School racial/ethnic diversity and same-racial/ethnic peer proportion jointly predict higher reading achievement in kindergarten, with matching benefits concentrated in more diverse schools](school-diversity-matching-jointly-predict-reading-achievement.md) — related

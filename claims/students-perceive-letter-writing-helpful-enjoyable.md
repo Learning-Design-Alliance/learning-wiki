@@ -15,18 +15,22 @@ sources:
     author: Kingir, S.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: kingir-2013-2
     resource: "https://doi.org/10.12973/eurasia.2013.922a"
     title: "Kingir, S. (2013). Using Non-traditional Writing as a Tool in Learning Chemistry. Eurasia Journal of Mathematics, Science & Technology Education, 9(2), 101-114. https://doi.org/10.12973/eurasia.2013.922a"
     author: Kingir, S.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Students perceived non-traditional letter writing as helpful for learning, enjoyable, and superior to traditional writing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` All interviewed students asserted that writing a letter contributed to their learning, reporting that they recognized and closed knowledge gaps and changed conceptions through writing. [→ Kingir 2013](#kingir-2013)
@@ -38,7 +42,7 @@ sources:
 
 Kingir, S. (2013). Using Non-traditional Writing as a Tool in Learning Chemistry. Eurasia Journal of Mathematics, Science & Technology Education, 9(2), 101-114. https://doi.org/10.12973/eurasia.2013.922a
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Semi-structured interviews with 24 volunteers from the non-traditional writing groups (9 younger, 9 peers, 6 teacher), coded with Kappa 0.92; "All the students asserted that writing a letter contributed to their learning".
 
@@ -48,7 +52,7 @@ Semi-structured interviews with 24 volunteers from the non-traditional writing g
 
 Kingir, S. (2013). Using Non-traditional Writing as a Tool in Learning Chemistry. Eurasia Journal of Mathematics, Science & Technology Education, 9(2), 101-114. https://doi.org/10.12973/eurasia.2013.922a
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Interview data on attitudes toward the writing task: "Most (63%) claimed that writing a letter for different audiences was amusing, interesting, and enjoyable"; 33% found the activities stressful and boring, and 12% found letter format boring.
 
@@ -58,4 +62,6 @@ Interview data on attitudes toward the writing task: "Most (63%) claimed that wr
 
 
 ## Related Claims
--
+- [Writing to the teacher led students to treat writing as evaluation and reproduce transmitted content rather than construct their own knowledge](teacher-audience-promotes-evaluation-not-construction.md) — related
+- [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
+- [Proactive flow-aware highlighting helps fiction writers recognize latent knowledge gaps they would not search for on their own](proactive-highlighting-reveals-latent-knowledge-gaps.md) — related

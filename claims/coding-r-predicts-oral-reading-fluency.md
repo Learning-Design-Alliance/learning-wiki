@@ -49,3 +49,4 @@ Hierarchical regression in the same 62-child sample used a residualized Coding s
 ## Related Claims
 - [Children with ADHD show lower oral contextual and non-contextual reading fluency than controls despite intact word reading](adhd-reduced-oral-reading-fluency.md) — related
 - [Verbal working memory predicts oral reading fluency in children with and without ADHD](verbal-working-memory-predicts-reading-fluency.md) — related
+- [Skill-specific genetic variance in working memory and processing speed predicts reading components](skill-specific-genetic-variance-predicts-reading-components.md) — related

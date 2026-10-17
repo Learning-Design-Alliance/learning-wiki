@@ -15,12 +15,14 @@ sources:
     author: Bennett JS, Boyle PA, James BD, Bennett DA
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Financial literacy, but not health literacy, is associated with mental health indices in older adults without dementia
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Financial literacy was associated with both depressive symptoms and loneliness whereas health literacy was not; in fully adjusted models, total literacy's association with depressive symptoms failed to reach statistical significance. [→ Bennett JS 2012](#bennett-js-2012)
@@ -31,7 +33,7 @@ sources:
 
 Bennett JS, Boyle PA, James BD, Bennett DA. (2012). Correlates of health and financial literacy in older adults without dementia. BMC Geriatrics. https://doi.org/10.1186/1471-2318-12-30
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Cross-sectional regression of depressive symptoms (10-item CES-D form) and loneliness in 556 older adults. The article reports "Financial literacy was associated with both indices of mental health whereas health literacy was not", with total literacy's depression association non-significant after full adjustment.
 
@@ -41,4 +43,5 @@ Cross-sectional regression of depressive symptoms (10-item CES-D form) and lonel
 
 
 ## Related Claims
--
+- [Higher total literacy is associated with more frequent participation in cognitive, physical, and social activities in older adults without dementia](literacy-associated-health-promoting-behaviors-older-adults.md) — related
+- [Higher total literacy is associated with higher global cognition and all five specific cognitive abilities in older adults without dementia](literacy-associated-cognition-older-adults.md) — related

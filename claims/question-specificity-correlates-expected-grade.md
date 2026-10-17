@@ -45,3 +45,4 @@ Correlational analysis linking each student's question specificity (fraction of 
 ## Related Claims
 - [Survey scores show directional consistency with dialogue behavior: students with higher knowledge-based survey scores tended to have above-average question specificity and higher expected grades](survey-dialogue-directional-consistency-chatbot.md) — related
 - [Students' questions shift from broad to specific during Socratic AI tutoring, from about 10–15% specific in the first turn to all students asking specific questions by the final turn](question-specificity-rises-over-socratic-ai-dialogue.md) — related
+- [mPFC activity during schema-related encoding predicts normalized second-year course grades, with no such relation for MTL activity](mpfc-schema-encoding-predicts-grades.md) — related

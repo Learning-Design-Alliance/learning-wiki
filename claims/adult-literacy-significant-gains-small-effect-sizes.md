@@ -15,12 +15,14 @@ sources:
     author: Greenberg Daphne, Wise Justin, Morris Robin, Fredrick Laura, Nanda Alice O., Pae Hye-K.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Struggling adult readers made significant reading gains across all instructional groups, but all improvements were associated with small effect sizes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Adults reading at 3.0–5.9 grade equivalency made significant gains in word identification, word attack, passage comprehension, and reading fluency across pretest, midpoint, and posttest, independent of instruction group, with small effect sizes. [→ Greenberg Daphne 2011](#greenberg-daphne-2011)
@@ -31,7 +33,7 @@ sources:
 
 Greenberg Daphne, Wise Justin, Morris Robin, Fredrick Laura, Nanda Alice O., Pae Hye-K. (2011). A randomized control study of instructional approaches for struggling adult readers. Journal of Research on Educational Effectiveness. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3237050/
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Repeated measures ANCOVAs collapsed across instructional group with the four WJ subtests as dependent variables and age as covariate. All four showed significant main effects of time, with η2 ranging from .03 to .18, described by the authors as "small effect sizes (from .03 to .18)".
 
@@ -41,4 +43,7 @@ Repeated measures ANCOVAs collapsed across instructional group with the four WJ 
 
 
 ## Related Claims
--
+- [The MSDS structured decoding curriculum produced a small but significant effect on adult learners' pseudoword decoding (WJR Word Attack) relative to control instruction](msds-small-significant-word-attack-effect.md) — related
+- [Correlations among reading and reading-related measures were much lower than expected, indicating poor integration of skills in struggling adult readers](poor-integration-low-correlations-adult-readers.md) — related
+- [No significant instructional-group effects were detected at the six-month follow-up assessment](no-follow-up-group-effects.md) — related
+- [ESL participants showed significantly higher posttest word attack scores than native English speakers](esl-speakers-higher-word-attack-posttest.md) — related

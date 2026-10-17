@@ -66,3 +66,4 @@ Experiment 1 post-study recall; the printed test is "t (94) = 6.45, p < .001" ov
 - [Younger and older adults select study items in an easy-to-difficult order, consistent with the region of proximal learning model](rpl-easy-to-difficult-selection-both-ages.md) — related
 - [Older adults show no reliable deficit in assessing item difficulty (EOL accuracy)](no-age-deficit-eol-difficulty-assessment.md) — related
 - [Point values and point order altered item selection and recall: Easy First order produced higher recall, and points increased goal pursuit but appeared to hurt recall](point-values-order-alter-selection-recall.md) — related
+- [Training metacognitive self-regulation (self-testing plus selective restudy) produced greater paired-associate learning improvements in older adults than traditional encoding-strategy training when study was self-paced](metacognitive-selfregulation-training-beats-strategy-training.md) — related

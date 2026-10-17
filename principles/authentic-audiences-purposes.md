@@ -13,7 +13,7 @@ generated:
 # Authentic Audiences & Purposes
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (15 for, 3 mixed) · 28 studies (8 causal, 6 quant-synthesis, 4 qualitative, 4 theoretical, 3 review, 3 design), `q1`–`q4` · 4 of 28 report an effect size · 11 claims rest on one study
+> **Evidence** · 20 claims (16 for, 4 mixed) · 29 studies (8 causal, 6 quant-synthesis, 4 qualitative, 4 theoretical, 3 review, 3 design), `q1`–`q4` · 5 of 29 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 
@@ -80,6 +80,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+M] — not yet checked against its sources
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — not settled: the text available could not confirm the entries (abstract)
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — not settled: the text available could not confirm the entries (abstract)
+- [Writing to younger students produced better mixture understanding than writing to the teacher, while younger-student and peer audiences did not differ](../claims/younger-audience-beats-teacher-audience-posttest.md) [~W] — attached 2026-10-17 from Kingir (2013), which proposed "Use authentic, non-expert audiences in science writing tasks to promote conceptual understanding"; tests this page's relationship.
+- [Writing scores differed significantly by audience, with younger-student letters rated highest and teacher-directed letters lowest](../claims/writing-scores-differ-by-audience.md) [+M] — attached 2026-10-17 from Kingir (2013), which proposed "Use authentic, non-expert audiences in science writing tasks to promote conceptual understanding"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

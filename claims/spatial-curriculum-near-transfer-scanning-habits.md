@@ -15,24 +15,30 @@ sources:
     author: "Cortes, R. A., Peterson, E. G., Kraemer, D. J. M., Kolvoord, R. A., Uttal, D. H., Dinh, N., Weinberger, A. B., Daker, R. J., Lyons, I. M., Goldman, D., & Green, A. E."
     q: 3
     i: 1
+    kind: causal
+    rigour: 2
   - id: cortes-2022-2
     resource: "https://doi.org/10.1126/sciadv.abo3555"
     title: "Cortes, R. A., Peterson, E. G., Kraemer, D. J. M., Kolvoord, R. A., Uttal, D. H., Dinh, N., Weinberger, A. B., Daker, R. J., Lyons, I. M., Goldman, D., & Green, A. E. (2022). Transfer from spatial education to verbal reasoning and prediction of transfer from learning-related neural change. Science Advances. https://doi.org/10.1126/sciadv.abo3555"
     author: "Cortes, R. A., Peterson, E. G., Kraemer, D. J. M., Kolvoord, R. A., Uttal, D. H., Dinh, N., Weinberger, A. B., Daker, R. J., Lyons, I. M., Goldman, D., & Green, A. E."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
   - id: cortes-2022-3
     resource: "https://doi.org/10.1126/sciadv.abo3555"
     title: "Cortes, R. A., Peterson, E. G., Kraemer, D. J. M., Kolvoord, R. A., Uttal, D. H., Dinh, N., Weinberger, A. B., Daker, R. J., Lyons, I. M., Goldman, D., & Green, A. E. (2022). Transfer from spatial education to verbal reasoning and prediction of transfer from learning-related neural change. Science Advances. https://doi.org/10.1126/sciadv.abo3555"
     author: "Cortes, R. A., Peterson, E. G., Kraemer, D. J. M., Kolvoord, R. A., Uttal, D. H., Dinh, N., Weinberger, A. B., Daker, R. J., Lyons, I. M., Goldman, D., & Green, A. E."
     q: 3
     i: 0
+    kind: causal
+    rigour: 2
 ---
 
 # The spatial curriculum produced near transfer to improved spatial scanning and increased self-reported spatial habits of mind, but not to mental rotation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q3` peer-reviewed experiment · `i0`–`i2`
+> **Evidence** · 1 study (3 entries) · causal `r2` · `q3` · `i0`–`i2`
 
 ## Subclaims
 `q3 i1` Geospatial students improved more than controls on the embedded figure task measuring spatial scanning, a skill emphasized by but not practiced as such in the curriculum. [→ Cortes 2022](#cortes-2022)
@@ -45,7 +51,7 @@ sources:
 
 Cortes, R. A., Peterson, E. G., Kraemer, D. J. M., Kolvoord, R. A., Uttal, D. H., Dinh, N., Weinberger, A. B., Daker, R. J., Lyons, I. M., Goldman, D., & Green, A. E. (2022). Transfer from spatial education to verbal reasoning and prediction of transfer from learning-related neural change. Science Advances. https://doi.org/10.1126/sciadv.abo3555
 
-`q3 · i1`
+`q3 · i1` · `causal · r2`
 
 Group-by-Time ANOVA covarying PSAT, GPA, and gender in the main sample; the embedded figure task assessed two-dimensional spatial scanning, which students did not practice directly in the course, so the gain is characterized as near transfer. The printed effect size np2 = 0.033 corresponds to a small effect (impact 1).
 
@@ -55,7 +61,7 @@ Group-by-Time ANOVA covarying PSAT, GPA, and gender in the main sample; the embe
 
 Cortes, R. A., Peterson, E. G., Kraemer, D. J. M., Kolvoord, R. A., Uttal, D. H., Dinh, N., Weinberger, A. B., Daker, R. J., Lyons, I. M., Goldman, D., & Green, A. E. (2022). Transfer from spatial education to verbal reasoning and prediction of transfer from learning-related neural change. Science Advances. https://doi.org/10.1126/sciadv.abo3555
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Survey measure of spatial habits of mind administered before and after the school year in the same quasi-experimental sample; the curriculum "achieved two primary learning goals within the spatial domain" including this self-report outcome. The printed effect size np2 = 0.062 corresponds to a medium effect (impact 2).
 
@@ -65,7 +71,7 @@ Survey measure of spatial habits of mind administered before and after the schoo
 
 Cortes, R. A., Peterson, E. G., Kraemer, D. J. M., Kolvoord, R. A., Uttal, D. H., Dinh, N., Weinberger, A. B., Daker, R. J., Lyons, I. M., Goldman, D., & Green, A. E. (2022). Transfer from spatial education to verbal reasoning and prediction of transfer from learning-related neural change. Science Advances. https://doi.org/10.1126/sciadv.abo3555
 
-`q3 · i0`
+`q3 · i0` · `causal · r2`
 
 Mental rotation task (three-dimensional rotation, not strongly related to the two-dimensional curriculum content) showed no significant Group-by-Time interaction; equivalence was not tested, and Geospatial students improved only nominally more than controls.
 
@@ -75,4 +81,7 @@ Mental rotation task (three-dimensional rotation, not strongly related to the tw
 
 
 ## Related Claims
--
+- [Curriculum-related neural changes during spatial scanning predict and mediate transfer to verbal reasoning](eft-neural-change-predicts-mediates-transfer.md) — related
+- [Improvement in spatial scanning predicts and mediates the curriculum's transfer effect to verbal reasoning](spatial-gains-predict-mediate-verbal-transfer.md) — related
+- [A spatial STEM curriculum yields far transfer to improved verbal deductive reasoning in high school students, including on nonspatial relation trials](spatial-curriculum-transfers-to-verbal-reasoning.md) — related
+- [Five hours of Tetris play improved some mental rotation measures but not most spatial skill measures](tetris-play-selective-mental-rotation-gains.md) — related

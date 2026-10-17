@@ -15,12 +15,14 @@ sources:
     author: Kelly Quinn
     q: 2
     i: 3
+    kind: causal
+    rigour: 1
 ---
 
 # Social media use rose sharply during the workshop (d = .954) but significantly declined in the following three months (d = .553), though remaining above baseline at 4 months
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Intervention participants' social media use increased significantly by workshop end (d = .954), decreased significantly by the 4-month follow-up (d = .553), and remained marginally above baseline overall (d = .485, p = .064). [→ Kelly Quinn 2018](#kelly-quinn-2018)
@@ -31,7 +33,7 @@ sources:
 
 Kelly Quinn. (2018). Cognitive Effects of Social Media Use: A Case of Older Adults. Social Media + Society. https://doi.org/10.1177/2056305118787203
 
-`q2 · i3`
+`q2 · i3` · `causal · r1`
 
 Self-reported social media use among the 17 intervention participants across baseline, 4-week, and 4-month assessments. The article also reports the workshop-period increase, "(t = 3.933, p = .001, d = .954)," and an overall increase over the full period (t = 2.00, p = .064, d = .485).
 
@@ -41,4 +43,4 @@ Self-reported social media use among the 17 intervention participants across bas
 
 
 ## Related Claims
--
+- [A 4-week social media training workshop improved inhibitory control within the intervention group of older adults, with a large effect over the full study period](social-media-training-improves-inhibitory-control-older-adults.md) — related

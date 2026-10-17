@@ -15,12 +15,14 @@ sources:
     author: Reigal, R. E., Hernández-Mendo, A., Juárez-Ruiz de Mier, R., and Morales-Sánchez, V.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Adolescents with high weekly physical exercise hours (more than 4 h/week) show significantly better selective attention, concentration, and processing speed than lower-exercise groups, with no differences between low and moderate groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Only adolescents in the high-exercise group (more than 4 h/week) differed significantly from lower-exercise groups on cognitive measures; low and moderate groups did not differ. [→ Reigal 2020](#reigal-2020)
@@ -31,7 +33,7 @@ sources:
 
 Reigal, R. E., Hernández-Mendo, A., Juárez-Ruiz de Mier, R., and Morales-Sánchez, V. (2020). Physical Exercise and Fitness Level Are Related to Cognitive and Psychosocial Functioning in Adolescents. Front. Psychol. 11:1777. https://doi.org/10.3389/fpsyg.2020.01777
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Between-group ANOVA comparisons (with Bonferroni post hoc tests) among 208 adolescents divided into three weekly-exercise groups showed that "only those who engaged in a high number of hours of activity per week (Group 3) showed signiﬁcant diﬀerences" on D2-TOT, D2-CON, Symbol Search, Coding, and Processing Speed; no effect sizes were printed for these cognitive contrasts.
 
@@ -41,4 +43,7 @@ Between-group ANOVA comparisons (with Bonferroni post hoc tests) among 208 adole
 
 
 ## Related Claims
--
+- [Exercise-hour groups differ on fitness, cognitive, and several psychosocial variables, but not on social dysfunction or severe depression](anova-group-differences-cognitive-psychosocial.md) — a broader claim this one bears on
+- [GHQ social dysfunction and severe depression show no group differences by exercise hours but are significantly related to physical fitness in correlation and regression](ghq-null-groups-fitness-related.md) — related
+- [Physical activity, including brief aerobic exercise sessions, improves children's selective attention](physical-activity-improves-children-selective-attention.md) — a broader claim this one bears on
+- [Small pilot studies provide preliminary evidence that exercise interventions improve behavioral symptoms and neuropsychological functioning in children with ADHD](exercise-pilots-improve-adhd-symptoms-cognition.md) — related

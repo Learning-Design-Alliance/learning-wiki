@@ -41,4 +41,5 @@ SEM with the Baddeley and Hitch working memory structure and the four KABC-II su
 
 
 ## Related Claims
--
+- [Cowan's three-factor embedded processes model fit young children's working memory data slightly better than Baddeley and Hitch's three-factor model and decisively better than Baddeley's four-factor episodic buffer model](cowan-embedded-processes-model-best-fit-young-children.md) — related
+- [The focus of attention factor was the only significant predictor of both fluid reasoning and visual processing intelligence when all three working memory factors were entered](focus-of-attention-predicts-gf-gv-children.md) — related

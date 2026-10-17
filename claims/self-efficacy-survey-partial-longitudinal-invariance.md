@@ -44,3 +44,4 @@ Longitudinal measurement invariance testing (Appendix C, Table A5) following Wid
 
 ## Related Claims
 - Prior longitudinal studies of math and self-efficacy tend to fit models assuming the constructs lack unique developmental trajectories and do not examine within-person relations — related
+- [Establishing longitudinal factorial invariance is neither sufficient nor necessary for examining developmental change](factorial-invariance-not-sufficient-necessary-for-change.md) — related

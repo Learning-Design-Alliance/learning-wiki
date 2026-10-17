@@ -41,4 +41,7 @@ Pearson correlation analysis in junior high students (Table 2). Digit span forwa
 
 
 ## Related Claims
--
+- [Low digit span forward test score is associated with decreased intrinsic academic motivation in junior high school students](low-digit-span-associated-junior-high-motivation-decline.md) — related
+- [Low kana pick-out story comprehension score is associated with decreased intrinsic academic motivation in junior high school students](low-kana-comprehension-associated-junior-high-motivation-decline.md) — related
+- [Prevalence of decreased intrinsic academic motivation is approximately twice as high in junior high as in elementary students](motivation-decline-prevalence-doubles-junior-high.md) — related
+- [No cognitive test score is associated with decreased intrinsic academic motivation in elementary school students](no-cognitive-test-associated-elementary-motivation-decline.md) — related

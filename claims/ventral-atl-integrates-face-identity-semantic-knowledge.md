@@ -41,4 +41,6 @@ The review reports meta-analytic and empirical evidence (Von Der Heide, Skipper,
 
 
 ## Related Claims
--
+- [In-depth semantic knowledge penetrates early visual processing, reducing the P100 component and aiding recognition of blurred objects](semantic-knowledge-reduces-p100-early-visual-processing.md) — related
+- [Motivational relevance conferred by conceptual knowledge prioritizes visual processing, as shown by moderators of the other-race effect](motivational-relevance-prioritizes-visual-processing-ore.md) — related
+- [Social-cognitive regions show quadratic activation patterns with age, with adolescents showing lower reactivity-related but higher reappraisal-related activation](social-cognitive-regions-quadratic-adolescent-pattern.md) — related

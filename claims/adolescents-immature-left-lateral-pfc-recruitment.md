@@ -15,12 +15,14 @@ sources:
     author: Kleibeuker, S. W., Koolschijn, P. C. M. P., Jolles, D. D., De Dreu, C. K. W., and Crone, E. A.
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Adults show larger left IFG/MFG condition effects (AU relative to baseline) than adolescents, indicating adolescents do not yet recruit left lateral PFC at an adult level for creative thinking
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` ROI analysis revealed a significant age group × condition interaction on left IFG/MFG contrast estimates, with adults showing larger condition effects than adolescents (η2 = 0.15). [→ Kleibeuker 2013](#kleibeuker-2013)
@@ -31,7 +33,7 @@ sources:
 
 Kleibeuker, S. W., Koolschijn, P. C. M. P., Jolles, D. D., De Dreu, C. K. W., and Crone, E. A. (2013). The neural coding of creative idea generation across adolescence and early adulthood. Frontiers in Human Neuroscience 7:905. https://doi.org/10.3389/fnhum.2013.00905
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 ROI mixed ANOVA on contrast estimates for AU and OC conditions relative to baseline in the left IFG/MFG cluster. The study reports a "signiﬁcant age group× condition interaction effect" with η2 = 0.15, adults showing larger effects, consistent with the hypothesis that adolescents do not yet recruit left lateral PFC at a mature level.
 
@@ -41,4 +43,9 @@ ROI mixed ANOVA on contrast estimates for AU and OC conditions relative to basel
 
 
 ## Related Claims
--
+- [Divergent thinking performance (AU-score) positively correlates with left IFG/MFG activation for AU relative to OC trials](au-performance-correlates-left-ifg-mfg-activation.md) — related
+- [Generating multiple alternative uses (AU2+ > OC2+) additionally recruits left inferior frontal gyrus and middle frontal gyrus beyond the temporo-parietal network](multiple-solutions-additional-left-lateral-pfc-activation.md) — related
+- [Generating alternative uses relative to ordinary characteristics recruits mainly left temporo-parietal regions (left SMG, left AG, bilateral MTG) in both adolescents and adults](creative-idea-generation-left-temporo-parietal-recruitment.md) — related
+- [Adults show greater left inferior lateral PFC activation than adolescents during relational integration](adults-greater-left-inferior-pfc-relational-activation.md) — related
+- [More solutions are generated in the OC condition than the AU condition, and adults generate more answers than adolescents in general, with no condition-specific age difference](condition-and-age-effects-solution-generation.md) — related
+- [Adults outperform adolescents on fluency measures of divergent thinking (scanner AU-score, verbal fluency, and AUT-brick fluency), but not on originality or flexibility](adults-outperform-adolescents-fluency-not-originality.md) — related

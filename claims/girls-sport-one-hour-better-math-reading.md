@@ -43,4 +43,4 @@ The review attributes this finding to Carlson et al.: sport-participating girls 
 
 
 ## Related Claims
--
+- [High leisure time physical activity and active commuting to school are each associated with increased odds of high academic achievement in both girls and boys](physical-activity-active-commuting-associated-achievement-adolescents.md) — related

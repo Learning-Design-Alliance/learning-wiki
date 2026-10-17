@@ -46,3 +46,4 @@ The article states as a general pattern across cited studies that "reaction time
 - [Omission and commission errors in n-back tasks have different correlates and may represent different processes](nback-omission-commission-different-correlates.md) — related
 - [Grade 4 children can metacognitively monitor their working memory performance, tending to be over-confident as task difficulty increases](grade4-children-monitor-working-memory-overconfident.md) — related
 - [Reaction times and accuracy in n-back tasks have dissociable correlates and should not be interpreted interchangeably](nback-rt-accuracy-dissociable.md) — related
+- [Working memory load degrades discrimination accuracy and slows responses in youth](load-degrades-discrimination-and-slows-responses.md) — possibly the same claim (merge candidate)

@@ -15,12 +15,14 @@ sources:
     author: Attout, Lucie; Salmon, Eric; Majerus, Steve
     q: 3
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Adults with developmental dyscalculia show reduced left intraparietal activation during serial order processing relative to controls
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r?` · `q3`
 
 ## Subclaims
 `q3 i?` During serial order short-term memory tasks, adults with developmental dyscalculia show reduced activation in the left intraparietal sulcus compared with controls. [→ Attout 2015](#attout-2015)
@@ -31,7 +33,7 @@ sources:
 
 Attout, Lucie; Salmon, Eric; Majerus, Steve. (2015). Working memory for serial order is dysfunctional in adults with a history of developmental dyscalculia: Evidence from behavioral and neuroimaging data. Developmental Neuropsychology, 40. https://doi.org/10.1080/87565641.2015.1036993
 
-`q3 · i?`
+`q3 · i?` · `associational · r?`
 
 fMRI study comparing adults with developmental dyscalculia and controls while they maintained serial order information. The article's title states the dysfunction is evidenced "from behavioral and neuroimaging data".
 
@@ -41,4 +43,7 @@ fMRI study comparing adults with developmental dyscalculia and controls while th
 
 
 ## Related Claims
--
+- [Adults with a history of developmental dyscalculia show impaired verbal short-term memory for serial order but preserved item recall](dyscalculia-adults-serial-order-deficit-item-preserved.md) — related
+- [Serial order short-term memory deficits in dyscalculia persist into adulthood despite typical math achievement history](serial-order-deficit-persists-adulthood-dyscalculia.md) — related
+- [Children with DD show greater brain activation than TD children in parietal, occipito-temporal and prefrontal regions during both addition and subtraction](dd-hyperactivation-multiple-regions.md) — related
+- [Neuroimaging shows adults with DD exhibit stronger frontal activations during number semantics, reduced right parietal grey matter, and altered functional connectivity during non-symbolic magnitude comparison](dd-adults-neuroimaging-frontal-parietal-abnormalities.md) — related

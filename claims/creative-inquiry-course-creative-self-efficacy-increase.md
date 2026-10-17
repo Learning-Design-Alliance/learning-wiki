@@ -15,12 +15,14 @@ sources:
     author: Margarida Romero, Pirkko Hyvönen, Elena Barberà
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Creative Inquiry course produced a significant increase in participants' creative self-efficacy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A significant increase in participants' creative self-efficacy was revealed in the Creative Inquiry course, which aimed to develop students' creativity in a direct way. [→ Margarida Romero 2012](#margarida-romero-2012)
@@ -31,7 +33,7 @@ sources:
 
 Margarida Romero, Pirkko Hyvönen, Elena Barberà. (2012). Creativity in Collaborative Learning across the Life Span. Creative Education. https://doi.org/10.4236/ce.2012.34066
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports, citing Robbins and Kegley (2010), a study of 51 students in a Principles of Management course or a Creative Inquiry free elective course, with data collected using the Torrance Tests of Creative Thinking pre- and post-testing. "Results revealed a significant increase in the participants' creative self-efficacy" in the Creative Inquiry course.
 
@@ -41,4 +43,7 @@ The review reports, citing Robbins and Kegley (2010), a study of 51 students in 
 
 
 ## Related Claims
--
+- [The study's findings suggest AI-supported inquiry-based learning mainly supports creativity and affective development, with limited effect on problem-solving skills](ai-ibi-mainly-supports-creativity-and-affect.md) — related
+- [GAI-assisted DST creation produced significantly better team creativity performance than traditional methods, particularly in novelty and user experience](gai-assisted-dst-improves-team-creativity.md) — related
+- [Intervention cohort scored significantly higher on creativity thinking, design skills, and problem solving, but not on presentation or attendance](rubric-dimension-gains-creativity-design-problem-solving.md) — related
+- [Learning with a ChatGPT-based flipped learning guiding approach significantly improves students’ performance, self-efficacy, learning attitudes, intrinsic motivation and creative thinking in a courseware project](chatgpt-flga-improves-performance-and-perceptions.md) — related

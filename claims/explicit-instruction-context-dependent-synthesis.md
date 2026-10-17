@@ -50,3 +50,4 @@ This is the reviewer's own narrative synthesis of the four studies (Andrews 2007
 - [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](explicit-l2-grammar-instruction-superior-to-implicit.md) — a narrower finding that bears on this claim
 - [Implicit learners do not outperform other learners on complex second language rules](implicit-not-superior-complex-rules.md) — related
 - [No differential effect of explicit instruction depending on the variable complexity](no-differential-explicit-instruction-effect-complexity.md) — reports the opposite
+- [Peer instruction is less effective than explicit teacher creativity teaching for lower-level students](peer-instruction-less-effective-low-achievers-creativity.md) — a narrower finding that bears on this claim

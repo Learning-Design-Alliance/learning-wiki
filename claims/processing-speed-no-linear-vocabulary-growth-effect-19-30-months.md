@@ -15,12 +15,14 @@ sources:
     author: Michelle S. Peter, Samantha Durrant, Andrew Jessop, Amy Bidgood, Julian M. Pine, Caroline F. Rowland
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Processing speed at 19 months does not significantly influence linear vocabulary growth between 19 and 30 months
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In growth curve analysis of vocabulary from 19 to 30 months, Mean RT at 19 months improved model fit for the intercept and quadratic terms but not the linear term. [→ Michelle S. Peter 2019](#michelle-s-peter-2019)
@@ -31,7 +33,7 @@ sources:
 
 Michelle S. Peter, Samantha Durrant, Andrew Jessop, Amy Bidgood, Julian M. Pine, Caroline F. Rowland. (2019). Does speed of processing or vocabulary size predict later language growth in toddlers? Cognitive Psychology 115 (2019) 101238. https://doi.org/10.1016/j.cogpsych.2019.101238
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Growth curve analysis of expressive vocabulary between 19 and 30 months with Mean RT at 19 months as predictor, using second-order orthogonal polynomials. The authors conclude that "children's speed of processing at 19months did not significantly influence their growth in vocabulary between 19 and 30months".
 
@@ -41,4 +43,9 @@ Growth curve analysis of expressive vocabulary between 19 and 30 months with Mea
 
 
 ## Related Claims
--
+- [Individual differences in processing speed remain broadly stable between 19 and 31 months](processing-speed-individual-differences-stable-19-31-months.md) — related
+- [Faster processing speed predicts greater vocabulary growth only for children with smaller vocabularies at 19 months](processing-speed-predicts-vocabulary-growth-low-vocabulary-only.md) — related
+- [Faster processing speed at 19 months predicts faster syntactic growth between 19 and 30 months, controlling for concurrent vocabulary](processing-speed-predicts-syntactic-growth-controlling-vocabulary.md) — related
+- [Processing speed at 19 months correlates with expressive vocabulary between 18 and 31 months, but processing speed at 25 and 31 months does not](processing-speed-vocabulary-correlation-only-at-19-months.md) — related
+- [Vocabulary size at 19 months is a strong predictor of later syntactic growth between 19 and 30 months](vocabulary-size-predicts-syntactic-growth-19-30-months.md) — related
+- [Children get faster at recognising familiar words in speech between 19 and 31 months of age](toddler-lexical-processing-speed-increases-19-31-months.md) — related

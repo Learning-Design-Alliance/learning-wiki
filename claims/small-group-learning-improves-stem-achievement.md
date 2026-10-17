@@ -85,3 +85,4 @@ A meta-analysis of research on undergraduate science, mathematics, engineering, 
 - [Large group size (4-5 members) limited individual participation and may have inflated self-assessed confidence](large-group-size-limited-participation-confidence.md) — a narrower finding that bears on this claim
 - [Cooperative concept mapping produces better meaningful learning than individualistic concept mapping](cooperative-concept-mapping-better-than-individual.md) — a narrower finding that bears on this claim
 - [Perceived collaboration among peers positively predicts academic engagement, but competitive climates can undercut collaboration](peer-collaboration-predicts-engagement.md) — related
+- [Students' self-efficacy for quantitative biology tasks significantly increased after completing collaborative group work assignments, with large effect sizes](group-work-increased-quantitative-self-efficacy.md) — related

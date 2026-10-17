@@ -41,4 +41,10 @@ Meta-analysis of 19 studies reporting SR outcomes based on task performance scor
 
 
 ## Related Claims
--
+- [Exercise-based interventions improved self-regulation in 4 of 6 interventions (67%), significant on conventional tests of statistical significance.](exercise-based-interventions-improved-sr-4-of-6.md) — a narrower finding that bears on this claim
+- [Some interventions brought more improvements in self-regulation measures of those with lower baseline scores, offering promise for resource-constrained settings.](greater-sr-gains-for-lower-baseline-scores.md) — a narrower finding that bears on this claim
+- [Heterogeneity in self-regulation outcomes was partly accounted for by assessment method, with restriction to task performance scores reducing I2 from 77% to 39.3%.](heterogeneity-partly-accounted-by-assessment-method-task-scores.md) — related
+- [Social and personal skills interventions had a higher mean effect size (d = 0.64; 95% CI, 0.42-0.86) than the overall pooled estimate (d = 0.42; 95% CI, 0.32-0.53).](social-personal-skills-interventions-higher-effect-size-d-064.md) — related
+- [Interventions were effective across all child and adolescent age groups, with no particular age group in which interventions were most effective.](sr-interventions-effective-across-all-age-groups.md) — a narrower finding that bears on this claim
+- [Family-based interventions improved self-regulation in 5 of 9 studies (56%) and had longer follow-up durations than other intervention types.](family-based-interventions-improved-sr-5-of-9.md) — related
+- [Mindfulness and yoga interventions improved self-regulation in 4 of 8 interventions (50%), mostly applied within the adolescent age group.](mindfulness-yoga-interventions-improved-sr-4-of-8.md) — related

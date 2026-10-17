@@ -15,12 +15,14 @@ sources:
     author: "Alamprese, J. A., MacArthur, C. A., Price, C., & Knight, D."
     q: 1
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Design studies indicated metalinguistic information about how English spelling and pronunciation work helped adult learners remember and apply what they learned
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · causal `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Adults were interested in understanding how English spelling and pronunciation work, and such metalinguistic information seemed to help them remember and apply what they learned. [→ Alamprese 2011](#alamprese-2011)
@@ -31,7 +33,7 @@ sources:
 
 Alamprese, J. A., MacArthur, C. A., Price, C., & Knight, D. (2011). Effects of a Structured Decoding Curriculum on Adult Literacy Learners' Reading Development. Journal of Research on Educational Effectiveness. https://doi.org/10.1080/19345747.2011.555294
 
-`q1 · i?`
+`q1 · i?` · `causal · r2`
 
 Conclusion from design studies conducted in ABE classes that informed the curriculum's inclusion of explicit information about phonology, orthography, morphology, and etymology; the article reports this as a qualitative design-study conclusion, not a tested comparison.
 
@@ -41,4 +43,4 @@ Conclusion from design studies conducted in ABE classes that informed the curric
 
 
 ## Related Claims
--
+- [Fluent bilingualism is linked to metalinguistic awareness of how the two languages relate](bilingual-fluency-enhances-metalinguistic-awareness.md) — related

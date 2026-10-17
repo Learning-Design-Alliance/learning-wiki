@@ -15,12 +15,14 @@ sources:
     author: Gardiner Paul
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Metacognitive prompts during collaboration improve communication of knowledge and its underlying assumptions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Metacognitive prompts during collaboration improved participants' ability to communicate their knowledge and its underlying assumptions, helping overcome coordination problems. [→ Gardiner Paul 2020](#gardiner-paul-2020)
@@ -31,7 +33,7 @@ sources:
 
 Gardiner Paul. (2020). Learning to think together: Creativity, interdisciplinary collaboration and epistemic control. Thinking Skills and Creativity. https://doi.org/10.1016/j.tsc.2020.100749
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The article reports, citing Wiltshire, Rosch, Fiorella, and Fiore (2014), that "metacognitive prompts during collaboration improved the participants' ability to communicate their knowledge" and its underlying assumptions. No effect size is printed.
 
@@ -41,4 +43,5 @@ The article reports, citing Wiltshire, Rosch, Fiorella, and Fiore (2014), that "
 
 
 ## Related Claims
--
+- [Lack of confidence and inappropriate language use were observed obstacles to students' mathematical communication during the experiment](confidence-obstacles-math-communication.md) — related
+- [Teachers and caregivers called for additional guidance and support in their communication and collaboration](educators-insufficient-guidance-family-communication.md) — related

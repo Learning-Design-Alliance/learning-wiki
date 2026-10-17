@@ -13,16 +13,20 @@ sources:
     title: dos Santos Kawata KH 2021
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: dos-santos-kawata-kh-2021-2
     title: dos Santos Kawata KH 2021 (2)
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # CMS shows acceptable test-retest reliability and internal consistency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Test-retest reliability was acceptable for CMS metacognition (ICC = 0.70) and self-judgment accuracy (ICC = 0.81). [→ dos Santos Kawata KH 2021](#dos-santos-kawata-kh-2021)
@@ -34,7 +38,7 @@ sources:
 
 dos Santos Kawata KH, Ueno Y, Hashimoto R, Yoshino S, Ohta K, Nishida A, Ando S, Nakatani H, Kasai K and Koike S (2021) Development of Metacognition in Adolescence: The Congruency-Based Metacognition Scale. Front. Psychol. 11:565231. https://doi.org/10.3389/fpsyg.2020.565231
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Test-retest reliability was assessed with 36 child-parent pairs re-assessed after a mean interval of 58.7 days, using a two-way mixed-effect model with absolute agreement. ICCs were acceptable for both CMS scales.
 
@@ -44,7 +48,7 @@ Test-retest reliability was assessed with 36 child-parent pairs re-assessed afte
 
 dos Santos Kawata KH, Ueno Y, Hashimoto R, Yoshino S, Ohta K, Nishida A, Ando S, Nakatani H, Kasai K and Koike S (2021) Development of Metacognition in Adolescence: The Congruency-Based Metacognition Scale. Front. Psychol. 11:565231. https://doi.org/10.3389/fpsyg.2020.565231
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Internal consistency was examined using Cronbach's alpha. Values were acceptable for the whole 10 items and for the five CMS metacognition items; the CMS self-judgment accuracy alpha of 0.59 fell below the 0.6 threshold but the authors note it could be considered satisfactory under another interpretation.
 
@@ -54,4 +58,6 @@ Internal consistency was examined using Cronbach's alpha. Values were acceptable
 
 
 ## Related Claims
--
+- [The CMS has a one-factor structure with five items for both metacognition and self-judgment accuracy scales](cms-one-factor-five-items.md) — related
+- [The full survey's test-retest reliability coefficient is 0.79, considered acceptable bordering on good](test-retest-reliability-079-full-survey.md) — related
+- [A 12-item short form of the survey retains acceptable-to-good reliability (alpha = 0.85; test-retest = 0.75)](short-form-survey-acceptable-reliability.md) — related

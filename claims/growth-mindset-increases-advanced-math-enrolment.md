@@ -49,3 +49,4 @@ Within the highest-achieving 25% of schools the enrolment increase was 4 percent
 - [Yeager et al. (2016) and Fink et al. (2018) found indeterminate effects on enrollment, credit completion, and chemistry final exam scores](yeager-fink-indeterminate-effects.md) — related
 - [A short online growth mindset intervention improved ninth-grade core-course GPAs among lower-achieving students in a nationally representative US sample](growth-mindset-raises-lower-achiever-gpas-national-experiment.md) — related
 - [GPA treatment effects among lower-achieving students were smaller in higher-achieving schools (moderation by school achievement level)](mindset-gpa-effects-smaller-high-achieving-schools.md) — related
+- [Brief online growth-mindset interventions produce modest academic gains concentrated among students at risk of underperformance](online-growth-mindset-intervention-modest-effects.md) — related

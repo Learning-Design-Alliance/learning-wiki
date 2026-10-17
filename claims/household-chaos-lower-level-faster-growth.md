@@ -15,12 +15,14 @@ sources:
     author: "Blair, C., Ursache, A., Greenberg, M., Vernon-Feagans, L., & The Family Life Project Investigators"
     q: 3
     i: 1
+    kind: associational
+    rigour: 3
 ---
 
 # Household chaos predicts lower prekindergarten math and reading but faster growth in both
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · associational `r3` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Household chaos is negatively associated with prekindergarten math (ES = .14) and letter–word knowledge (ES = .21), but positively with growth in both. [→ Blair 2015](#blair-2015)
@@ -31,7 +33,7 @@ sources:
 
 Blair, C., Ursache, A., Greenberg, M., Vernon-Feagans, L., & The Family Life Project Investigators. (2015). Multiple Aspects of Self-Regulation Uniquely Predict Mathematics but Not Letter–Word Knowledge in the Early Elementary Grades. Developmental Psychology. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5264531/
 
-`q3 · i1`
+`q3 · i1` · `associational · r3`
 
 Model A growth model. Household chaos predicted lower prekindergarten math ("B = −4.33, SE = 1.05, p < .001, ES = .14") but faster growth ("B = 1.21, SE = 0.35, p < .001, ES = .09"). Similar pattern for reading (Model D: B = −8.41 intercept; B = 1.56 slope).
 
@@ -41,4 +43,4 @@ Model A growth model. Household chaos predicted lower prekindergarten math ("B =
 
 
 ## Related Claims
--
+- [African American children show lower prekindergarten math but faster math growth, and higher prekindergarten letter–word knowledge with slower growth after covariate adjustment](african-american-ethnicity-math-reading-growth-patterns.md) — related

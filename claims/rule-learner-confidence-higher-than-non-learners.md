@@ -13,16 +13,20 @@ sources:
     title: Feng X 2020
     q: 3
     i: 2
+    kind: associational
+    rigour: 1
   - id: feng-x-2020-2
     title: Feng X 2020 (2)
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Rule learners report higher confidence in their described rules than non-learners, but confidence does not differ within flexibility groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 2 studies · 2 associational `r1` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` The learner group's confidence score was significantly higher than the non-learner group's (Cohen's d = −0.626). [→ Feng X 2020](#feng-x-2020)
@@ -34,7 +38,7 @@ sources:
 
 Feng X, Perceval GJ, Feng W and Feng C (2020) High Cognitive Flexibility Learners Perform Better in Probabilistic Rule Learning. Front. Psychol. 11:415. https://doi.org/10.3389/fpsyg.2020.00415
 
-`q3 · i2`
+`q3 · i2` · `associational · r1`
 
 Post-task questionnaire confidence ratings in the coin-searching experiment. The learner group (M = 4.4, SD = 1.1) scored "signiﬁcantly higher than non-learner group" (M = 3.7, SD = 1.3), t(76) = −2.761, p < 0.05, Cohen's d = −0.626.
 
@@ -44,7 +48,7 @@ Post-task questionnaire confidence ratings in the coin-searching experiment. The
 
 Feng X, Perceval GJ, Feng W and Feng C (2020) High Cognitive Flexibility Learners Perform Better in Probabilistic Rule Learning. Front. Psychol. 11:415. https://doi.org/10.3389/fpsyg.2020.00415
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 One-way ANOVA comparing confidence across the four flexibility-by-learning groups (F(3,72) = 3.108, p < 0.05). Only high CF-learners (M = 4.6, SD = 1.2) exceeded low CF-non-learners (M = 3.6, SD = 1.4) on the LSD test; no effect size printed.
 
@@ -54,4 +58,7 @@ One-way ANOVA comparing confidence across the four flexibility-by-learning group
 
 
 ## Related Claims
--
+- [After rule learning, low flexibility learners show latency differences across probability conditions while high flexibility learners do not](low-cf-latency-varies-probability-pairs.md) — related
+- [High cognitive flexibility learners show significantly higher accuracy than low flexibility learners only after rule acquisition in probabilistic rule learning](high-cf-post-learning-accuracy-advantage.md) — related
+- [High and low flexibility learners reach rule acquisition at similar points, so flexibility does not speed rule acquisition in this task](no-faster-rule-acquisition-high-cf.md) — related
+- [High cognitive flexibility learners identify the correct probabilistic rule more often than low flexibility learners](high-cf-higher-rule-acquisition-rate-probabilistic.md) — related

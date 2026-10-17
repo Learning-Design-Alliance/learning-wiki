@@ -15,12 +15,14 @@ sources:
     author: Ana Rothes, Marina S. Lemos, and Teresa Gonçalves
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Men show significantly lower autonomous regulation than women among adult learners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Independent t tests showed men had significantly lower levels of autonomous regulation than women. [→ Ana Rothes 2017](#ana-rothes-2017)
@@ -31,7 +33,7 @@ sources:
 
 Ana Rothes, Marina S. Lemos, and Teresa Gonçalves. (2017). Motivational Profiles of Adult Learners. Adult Education Quarterly. https://doi.org/10.1177/0741713616669588
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Independent samples t tests on the 188-participant sample (Table 2): male M = 3.36 (SD = 0.41) versus female M = 3.51 (SD = 0.43) for autonomous regulation, t = −2.45, p < .05. No significant gender differences appeared in the other measured variables.
 
@@ -41,4 +43,4 @@ Independent samples t tests on the 188-participant sample (Table 2): male M = 3.
 
 
 ## Related Claims
--
+- [Learning strategies relate to test anxiety: persistence positively, environmental structuring negatively, time management not significantly, and women report higher test anxiety](learning-strategies-test-anxiety-effects.md) — related

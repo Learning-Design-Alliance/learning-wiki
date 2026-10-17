@@ -15,12 +15,14 @@ sources:
     author: Surman Craig B. H., Biederman Joseph, Spencer Thomas, Miller Carolyn A., McDermott Katie M., Faraone Stephen V.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Extreme DESR in adults with ADHD is linked to worse social adjustment on most SAS-SR domains
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` ADHD adults with extreme DESR had significantly higher mean T scores on individual SAS functional domains except work and parenting, and a higher total scale mean T score. [→ Surman Craig B. H. 2013](#surman-craig-b-h-2013)
@@ -31,7 +33,7 @@ sources:
 
 Surman Craig B. H., Biederman Joseph, Spencer Thomas, Miller Carolyn A., McDermott Katie M., Faraone Stephen V. (2013). Understanding deficient emotional self-regulation in adults with attention deficit hyperactivity disorder: a controlled study. Attention deficit and hyperactivity disorders. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4009378/
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Cross-sectional comparison of Social Adjustment Scale-Self-report T scores between ADHD adults with and without extreme DESR (Table 5; total scale 72.0 vs. 56.1, p<0.001). The study reports "significantly higher mean T scores on individual SAS functional domains except for work and parenting."
 
@@ -41,4 +43,5 @@ Cross-sectional comparison of Social Adjustment Scale-Self-report T scores betwe
 
 
 ## Related Claims
--
+- [Extreme DESR in adults with ADHD is linked to lower quality of life on nearly all QLES-Q-SF domains](extreme-desr-lower-quality-of-life-qlesq.md) — related
+- [Extreme DESR in adults with ADHD is associated with reduced marital status and higher risk of traffic accidents and arrests](extreme-desr-marital-accidents-arrests.md) — related

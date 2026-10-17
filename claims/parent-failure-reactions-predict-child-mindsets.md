@@ -15,12 +15,14 @@ sources:
     author: "Dweck, C. S., & Yeager, D. S."
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Parents' beliefs about failure and reactions to children's failures, not their own mindsets, predict children's mindsets
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Parents' beliefs about failure and their reactions to children's failures consistently predicted children's mindsets, while parents' and children's mindsets showed little correlation. [→ Dweck 2019](#dweck-2019)
@@ -31,7 +33,7 @@ sources:
 
 Dweck, C. S., & Yeager, D. S. (2019). Mindsets: A View From Two Eras. Perspectives on Psychological Science. https://doi.org/10.1177/1745691618804166
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 Haimovitz's studies found little if any correlation between parents' and children's mindsets; instead "parents' beliefs about failure and their reactions to children's failures" consistently predicted children's mindsets. No effect sizes are printed in the quoted text.
 
@@ -41,4 +43,5 @@ Haimovitz's studies found little if any correlation between parents' and childre
 
 
 ## Related Claims
--
+- [Praise for intelligence (person praise) induces a fixed mindset and helpless reactions compared with process praise](person-praise-induces-fixed-mindset.md) — related
+- [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related

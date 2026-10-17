@@ -15,24 +15,30 @@ sources:
     author: Ebru Aydın, Çağlayan Dinçer
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
   - id: ebru-aydın-2022-2
     resource: "https://doi.org/10.1016/j.tsc.2022.101104"
     title: "Ebru Aydın, Çağlayan Dinçer. (2022). “I did it wrong, but i know it”: Young children’s metacognitive knowledge expressions during peer interactions in math activities. Thinking Skills and Creativity 45 (2022) 101104. https://doi.org/10.1016/j.tsc.2022.101104"
     author: Ebru Aydın, Çağlayan Dinçer
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
   - id: ebru-aydın-2022-3
     resource: "https://doi.org/10.1016/j.tsc.2022.101104"
     title: "Ebru Aydın, Çağlayan Dinçer. (2022). “I did it wrong, but i know it”: Young children’s metacognitive knowledge expressions during peer interactions in math activities. Thinking Skills and Creativity 45 (2022) 101104. https://doi.org/10.1016/j.tsc.2022.101104"
     author: Ebru Aydın, Çağlayan Dinçer
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Children develop and demonstrate task-specific strategies through peer interaction, including instructing others and explaining why strategies work
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Dennis chose an appropriate cutting strategy for the linoleum task by weighing multiple task criteria and explaining his reasoning. [→ Ebru Aydın 2022](#ebru-aydn-2022)
@@ -45,7 +51,7 @@ sources:
 
 Ebru Aydın, Çağlayan Dinçer. (2022). “I did it wrong, but i know it”: Young children’s metacognitive knowledge expressions during peer interactions in math activities. Thinking Skills and Creativity 45 (2022) 101104. https://doi.org/10.1016/j.tsc.2022.101104
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Episode from the “How to cover it?” area activity (Table 11): a peer reminded Dennis the surface must be fully covered; Dennis noted hanging sides would not fit and kept cutting the overhang. Authors code this as task-appropriate strategy knowledge.
 
@@ -55,7 +61,7 @@ Episode from the “How to cover it?” area activity (Table 11): a peer reminde
 
 Ebru Aydın, Çağlayan Dinçer. (2022). “I did it wrong, but i know it”: Young children’s metacognitive knowledge expressions during peer interactions in math activities. Thinking Skills and Creativity 45 (2022) 101104. https://doi.org/10.1016/j.tsc.2022.101104
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Episode from the “Shapes on our desk” activity (Table 12): facing only triangular pieces for a square surface, Dennis joined two triangles saying "What happens when triangles come together? A square." Authors cite part-whole understanding as its basis.
 
@@ -65,7 +71,7 @@ Episode from the “Shapes on our desk” activity (Table 12): facing only trian
 
 Ebru Aydın, Çağlayan Dinçer. (2022). “I did it wrong, but i know it”: Young children’s metacognitive knowledge expressions during peer interactions in math activities. Thinking Skills and Creativity 45 (2022) 101104. https://doi.org/10.1016/j.tsc.2022.101104
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Episode from the “Measuring boxes” length activity (Table 14): after a peer showed placing a finger and turning the straw end to end, Dennis explained the two-straw length logic. Authors describe his experience as scaffolded by social interaction.
 
@@ -75,4 +81,6 @@ Episode from the “Measuring boxes” length activity (Table 14): after a peer 
 
 
 ## Related Claims
--
+- [Five-year-old children reveal metacognitive knowledge of self, others, universal properties of cognition, and task-specific strategies during peer interactions in mathematical measurement activities](metacognitive-knowledge-expressions-peer-interactions-measurement-activities.md) — a broader claim this one bears on
+- [Young children with limited vocabulary express metacognitive knowledge through behavioral and nonverbal expressions as well as verbalizations](nonverbal-behavioral-metacognitive-expressions.md) — related
+- [Children demonstrate knowledge of others' cognitive processes by assessing peers' comprehension and identifying others' cognitive inadequacies during group work](knowledge-of-others-expressions-peer-group-work.md) — related

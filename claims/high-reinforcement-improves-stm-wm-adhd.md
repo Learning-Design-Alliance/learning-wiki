@@ -47,3 +47,5 @@ This is the reinforcement-manipulation result of the experiment comparing a stan
 - [Both ADHD subtypes show equally pronounced motivational deficits that impair visuospatial STM and WM performance](adhd-subtypes-equal-motivational-deficits.md) — related
 - [Children with ADHD-C show impaired visuospatial STM and CE relative to typically developing controls, whereas children with ADHD-I show impaired CE but intact STM](adhd-subtype-stm-ce-dissociation.md) — related
 - [STM and WM performance is worse in ADHD-C than in ADHD-I, while CE-related performance does not differ between subtypes](adhd-c-worse-stm-wm-than-adhd-i.md) — related
+- [Diagnostic validity analyses yield results similar to the prevalence findings for WM, STM, and motivational impairments](diagnostic-validity-similar-to-prevalence-results.md) — related
+- [Memory and motivation represent independent neuropsychological domains in children with ADHD](memory-motivation-independent-neuropsychological-domains.md) — reports the opposite

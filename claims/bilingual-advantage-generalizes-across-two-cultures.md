@@ -15,12 +15,14 @@ sources:
     author: Bialystok Ellen, Viswanathan Mythili
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Bilingual children in Canada and India perform equivalently, supporting bilingualism rather than culture or immigration as the advantage's source
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` In all faces-task comparisons with group differences, the Canadian and Indian bilinguals were equivalent to each other and faster than Canadian monolinguals. [→ Bialystok Ellen 2009](#bialystok-ellen-2009)
@@ -31,7 +33,7 @@ sources:
 
 Bialystok Ellen, Viswanathan Mythili. (2009). Components of Executive Control with Advantages for Bilingual Children in Two Cultures. Cognition. https://doi.org/10.1016/j.cognition.2009.06.014
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Between-groups comparison of ninety 8-year-olds: Canadian monolinguals, Canadian bilinguals speaking diverse non-English languages, and Indian bilinguals speaking Tamil or Telugu. The authors argue social class, immigration, and cultural explanations fail to fit this pattern.
 
@@ -41,4 +43,6 @@ Between-groups comparison of ninety 8-year-olds: Canadian monolinguals, Canadian
 
 
 ## Related Claims
--
+- [Bilingual children show faster trail-making B performance, while Indian bilinguals are faster on Trails A and monolinguals score higher on receptive vocabulary](background-measures-vocabulary-and-trail-making-group-differences.md) — related
+- [Bilingual 8-year-olds show smaller inhibitory-control costs than monolinguals on the faces task](bilingual-children-inhibitory-control-advantage-faces-task.md) — related
+- [Bilingual 8-year-olds show no switching cost between blocked and mixed trial blocks, unlike monolinguals](bilingual-children-no-switching-cost-faces-task.md) — related

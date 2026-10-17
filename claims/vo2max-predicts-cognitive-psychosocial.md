@@ -41,4 +41,7 @@ Stepwise linear regression analyses (Table 6) on the 208-adolescent sample found
 
 
 ## Related Claims
--
+- [Exercise-hour groups differ on fitness, cognitive, and several psychosocial variables, but not on social dysfunction or severe depression](anova-group-differences-cognitive-psychosocial.md) — related
+- [The most active and fittest adolescent group achieved the best psychosocial indicator scores](fittest-group-best-psychosocial.md) — related
+- [GHQ social dysfunction and severe depression show no group differences by exercise hours but are significantly related to physical fitness in correlation and regression](ghq-null-groups-fitness-related.md) — related
+- [Cardiorespiratory fitness (VO2max) is the physical fitness measure most strongly correlated with cognitive functioning in adolescents](vo2max-best-correlated-cognition.md) — a narrower finding that bears on this claim

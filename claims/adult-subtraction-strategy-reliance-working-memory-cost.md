@@ -15,18 +15,22 @@ sources:
     author: Mark H. Ashcraft and Jeremy A. Krause
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
   - id: mark-h-ashcraft-and-jeremy-a-krause-2007-2
     resource: "https://doi.org/10.3758/bf03194059"
     title: "Mark H. Ashcraft and Jeremy A. Krause. (2007). Working memory, math performance, and math anxiety. Psychonomic Bulletin & Review, 14(2), 243-248. https://doi.org/10.3758/bf03194059"
     author: Mark H. Ashcraft and Jeremy A. Krause
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Simple subtraction in adults relies heavily on strategy use, which disadvantages participants under limited working memory resources
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Reported strategy use jumped from an average of 3% on small subtraction problems to 33% on large problems, matching RT and error profiles. [→ Mark H. Ashcraft and Jeremy A. Krause 2007](#mark-h-ashcraft-and-jeremy-a-krause-2007)
@@ -38,7 +42,7 @@ sources:
 
 Mark H. Ashcraft and Jeremy A. Krause. (2007). Working memory, math performance, and math anxiety. Psychonomic Bulletin & Review, 14(2), 243-248. https://doi.org/10.3758/bf03194059
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 College adults solved basic subtraction facts; after each trial they answered "How did you solve the problem?". Reported "strategy use was reported an average of 3% of the time on small subtraction problems, but on 33% of the trials with large problems", matching RT and error profiles.
 
@@ -48,7 +52,7 @@ College adults solved basic subtraction facts; after each trial they answered "H
 
 Mark H. Ashcraft and Jeremy A. Krause. (2007). Working memory, math performance, and math anxiety. Psychonomic Bulletin & Review, 14(2), 243-248. https://doi.org/10.3758/bf03194059
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 In the dual-task experiment, participants held two, four, or six random letters while performing subtraction, then reported the letters in serial order. "There was substantially more interference with letter recall for the low-working-memory-span participants (a 56% error rate in the most difficult condition)".
 
@@ -58,4 +62,5 @@ In the dual-task experiment, participants held two, four, or six random letters 
 
 
 ## Related Claims
--
+- [Adults with dyslexia are slower than controls on single-digit arithmetic, with a larger multiplication-minus-subtraction reaction-time difference, even after controlling digit identification speed](dyslexia-slower-single-digit-arithmetic-rt.md) — related
+- [Adults with developmental dyslexia use arithmetic fact retrieval less frequently than matched controls during single-digit multiplication and subtraction](dyslexia-reduced-arithmetic-fact-retrieval-frequency.md) — related

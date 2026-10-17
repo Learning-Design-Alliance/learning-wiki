@@ -15,12 +15,14 @@ sources:
     author: Mizuno K, Tanaka M, Fukuda S, Imai-Matsumura K, Watanabe Y.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Intrinsic academic motivation scores are lower in 7th- and 8th-grade junior high students than in 4th-grade elementary students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` One-way ANOVA revealed a main effect of grade on intrinsic academic motivation score, with 7th- and 8th-grade scores significantly lower than 4th-grade scores. [→ Mizuno K 2011](#mizuno-k-2011)
@@ -31,7 +33,7 @@ sources:
 
 Mizuno K, Tanaka M, Fukuda S, Imai-Matsumura K, Watanabe Y. (2011). Relationship between cognitive function and prevalence of decrease in intrinsic academic motivation in adolescents. Behavioral and Brain Functions 7:4. https://doi.org/10.1186/1744-9081-7-4
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Cross-sectional questionnaire study of 267 Japanese students in grades 4-9. The ANOVA across six grade groups showed a main effect of grade ("F = 3.70, p = .003"), and post-hoc tests showed 7th- and 8th-grade scores significantly lower than 4th-grade scores.
 
@@ -41,4 +43,7 @@ Cross-sectional questionnaire study of 267 Japanese students in grades 4-9. The 
 
 
 ## Related Claims
--
+- [Low digit span forward test score is associated with decreased intrinsic academic motivation in junior high school students](low-digit-span-associated-junior-high-motivation-decline.md) — related
+- [Low kana pick-out story comprehension score is associated with decreased intrinsic academic motivation in junior high school students](low-kana-comprehension-associated-junior-high-motivation-decline.md) — related
+- [Prevalence of decreased intrinsic academic motivation is approximately twice as high in junior high as in elementary students](motivation-decline-prevalence-doubles-junior-high.md) — related
+- [No cognitive test score is associated with decreased intrinsic academic motivation in elementary school students](no-cognitive-test-associated-elementary-motivation-decline.md) — related

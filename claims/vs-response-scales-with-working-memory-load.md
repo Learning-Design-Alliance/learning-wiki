@@ -41,4 +41,9 @@ Structurally-defined bilateral VS ROI mixed-model ANOVA in the same 304-subject 
 
 
 ## Related Claims
--
+- [Ventral striatum activation to correct responses peaks in mid-adolescence at approximately age 16](vs-activation-peaks-mid-adolescence.md) — related
+- [In youth performing an n-back task without feedback, bilateral ventral striatum activates more strongly to correct than incorrect responses](vs-correct-greater-than-incorrect-nback-youth.md) — related
+- [The VS correct-greater-than-incorrect response is present for both target and foil trials and is not a motor confound](vs-effect-present-targets-foils-not-motor.md) — related
+- [Ventral striatum activation to correct responses is correlated with discrimination performance in youth](vs-activation-correlated-with-discrimination-performance.md) — related
+- [Post-error slowing occurs in the 2-back condition despite absence of feedback](post-error-slowing-two-back-no-feedback.md) — related
+- [Working memory load degrades discrimination accuracy and slows responses in youth](load-degrades-discrimination-and-slows-responses.md) — related

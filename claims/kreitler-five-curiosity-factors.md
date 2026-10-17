@@ -15,12 +15,14 @@ sources:
     author: "Jirout, J. & Klahr, D."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Behavioral factor analysis of children's curiosity yields five distinct curiosity factors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Kreitler, Zigler, and Kreitler's factor analysis of first-graders' behavioral measures and teacher ratings identified five separate curiosity factors. [→ Jirout 2011](#jirout-2011)
@@ -31,7 +33,7 @@ sources:
 
 Jirout, J. & Klahr, D. (2011). Children's scientific curiosity: In search of an operational definition of an elusive concept. Developmental Review (in press, draft). https://www.sciencedirect.com/journal/developmental-review
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports, citing Kreitler, Zigler, and Kreitler (1975), a factor analysis combining behavioral measures and teacher ratings of first-grade students, yielding five factors: manipulatory, perceptual, conceptual, curiosity about the complex or ambiguous, and adjustive-reactive curiosity.
 
@@ -41,4 +43,5 @@ The review reports, citing Kreitler, Zigler, and Kreitler (1975), a factor analy
 
 
 ## Related Claims
--
+- [Factor-analytic studies identify distinct curiosity dimensions, including depth versus breadth and interest versus deprivation](curiosity-factor-analytic-dimensions.md) — related
+- [No universally accepted operational definition of children's curiosity exists, and operational measures vary widely across studies](no-operational-definition-childrens-curiosity.md) — related

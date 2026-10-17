@@ -15,30 +15,38 @@ sources:
     author: Berwid Olga G., Halperin Jeffrey M.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
   - id: berwid-olga-g-2012-2
     resource: "https://doi.org/10.1007/s11920-012-0297-4"
     title: "Berwid Olga G., Halperin Jeffrey M. (2012). Emerging Support for a Role of Exercise in Attention-Deficit/Hyperactivity Disorder Intervention Planning. Current Psychiatry Reports. https://doi.org/10.1007/s11920-012-0297-4"
     author: Berwid Olga G., Halperin Jeffrey M.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
   - id: berwid-olga-g-2012-3
     resource: "https://doi.org/10.1007/s11920-012-0297-4"
     title: "Berwid Olga G., Halperin Jeffrey M. (2012). Emerging Support for a Role of Exercise in Attention-Deficit/Hyperactivity Disorder Intervention Planning. Current Psychiatry Reports. https://doi.org/10.1007/s11920-012-0297-4"
     author: Berwid Olga G., Halperin Jeffrey M.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: berwid-olga-g-2012-4
     resource: "https://doi.org/10.1007/s11920-012-0297-4"
     title: "Berwid Olga G., Halperin Jeffrey M. (2012). Emerging Support for a Role of Exercise in Attention-Deficit/Hyperactivity Disorder Intervention Planning. Current Psychiatry Reports. https://doi.org/10.1007/s11920-012-0297-4"
     author: Berwid Olga G., Halperin Jeffrey M.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Small pilot studies provide preliminary evidence that exercise interventions improve behavioral symptoms and neuropsychological functioning in children with ADHD
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (4 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (4 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Acute 30-minute aerobic exercise in boys with ADHD immediately improved response speed, response speed variability, vigilance, and anticipatory responding relative to a stretching control. [→ Berwid Olga G. 2012](#berwid-olga-g-2012)
@@ -52,7 +60,7 @@ sources:
 
 Berwid Olga G., Halperin Jeffrey M. (2012). Emerging Support for a Role of Exercise in Attention-Deficit/Hyperactivity Disorder Intervention Planning. Current Psychiatry Reports. https://doi.org/10.1007/s11920-012-0297-4
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Acute experimental pilot by Medina et al. comparing aerobic treadmill exercise to a stretching control session on a go/no-go task in 25 boys with ADHD aged 7 to 15 years.
 
@@ -62,7 +70,7 @@ Acute experimental pilot by Medina et al. comparing aerobic treadmill exercise t
 
 Berwid Olga G., Halperin Jeffrey M. (2012). Emerging Support for a Role of Exercise in Attention-Deficit/Hyperactivity Disorder Intervention Planning. Current Psychiatry Reports. https://doi.org/10.1007/s11920-012-0297-4
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Acute experimental pilot by Chang et al. in 40 school-age children with ADHD comparing 30 minutes of moderate intensity aerobic exercise to viewing exercise videos, with pre/post Stroop Color-Word and Wisconsin Card Sort administration. Baseline WCST differences complicate interpretation.
 
@@ -72,7 +80,7 @@ Acute experimental pilot by Chang et al. in 40 school-age children with ADHD com
 
 Berwid Olga G., Halperin Jeffrey M. (2012). Emerging Support for a Role of Exercise in Attention-Deficit/Hyperactivity Disorder Intervention Planning. Current Psychiatry Reports. https://doi.org/10.1007/s11920-012-0297-4
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Pilot by Smith et al. of a before-school physical activity intervention in 17 children in Grades K-3 exhibiting at least four hyperactivity/impulsivity symptoms, completing approximately 26 minutes of continuous moderate-to-vigorous activity daily over eight school weeks with good adherence.
 
@@ -82,7 +90,7 @@ Pilot by Smith et al. of a before-school physical activity intervention in 17 ch
 
 Berwid Olga G., Halperin Jeffrey M. (2012). Emerging Support for a Role of Exercise in Attention-Deficit/Hyperactivity Disorder Intervention Planning. Current Psychiatry Reports. https://doi.org/10.1007/s11920-012-0297-4
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Between-subjects pilot by Verret et al. of a 10-week moderate- to high-intensity program (45 minutes, 3 times a week) in 21 children with ADHD aged 7–12; there was a trend toward improvement on teacher CBCL ratings in most areas.
 
@@ -92,4 +100,9 @@ Between-subjects pilot by Verret et al. of a 10-week moderate- to high-intensity
 
 
 ## Related Claims
--
+- [Aerobic exercise improves executive functioning, most notably inhibitory control, in typically developing children, though evidence is tentative and one week-long study found no main effect](aerobic-exercise-improves-executive-function-children.md) — related
+- [Acute cardio exercise improves executive functions, response time, and academic performance in children with ADHD](acute-cardio-exercise-improves-executive-function-adhd-children.md) — possibly the same claim (merge candidate)
+- [Physical activity, including brief aerobic exercise sessions, improves children's selective attention](physical-activity-improves-children-selective-attention.md) — a broader claim this one bears on
+- [Acute moderate aerobic exercise speeds children's reaction times without improving accuracy, with greater speed gains on choice than simple reaction time tasks](acute-exercise-speeds-reaction-time-not-accuracy.md) — related
+- [Chronic cardio exercise programs improve executive functions, attention, and behavior in children with ADHD](chronic-cardio-exercise-benefits-adhd-children.md) — related
+- [Adolescents with high weekly physical exercise hours (more than 4 h/week) show significantly better selective attention, concentration, and processing speed than lower-exercise groups, with no differences between low and moderate groups](high-exercise-hours-better-cognitive-adolescents.md) — related

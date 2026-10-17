@@ -15,24 +15,30 @@ sources:
     author: "Cortes, R. A., Peterson, E. G., Kraemer, D. J. M., Kolvoord, R. A., Uttal, D. H., Dinh, N., Weinberger, A. B., Daker, R. J., Lyons, I. M., Goldman, D., & Green, A. E."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: cortes-2022-2
     resource: "https://doi.org/10.1126/sciadv.abo3555"
     title: "Cortes, R. A., Peterson, E. G., Kraemer, D. J. M., Kolvoord, R. A., Uttal, D. H., Dinh, N., Weinberger, A. B., Daker, R. J., Lyons, I. M., Goldman, D., & Green, A. E. (2022). Transfer from spatial education to verbal reasoning and prediction of transfer from learning-related neural change. Science Advances. https://doi.org/10.1126/sciadv.abo3555"
     author: "Cortes, R. A., Peterson, E. G., Kraemer, D. J. M., Kolvoord, R. A., Uttal, D. H., Dinh, N., Weinberger, A. B., Daker, R. J., Lyons, I. M., Goldman, D., & Green, A. E."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: cortes-2022-3
     resource: "https://doi.org/10.1126/sciadv.abo3555"
     title: "Cortes, R. A., Peterson, E. G., Kraemer, D. J. M., Kolvoord, R. A., Uttal, D. H., Dinh, N., Weinberger, A. B., Daker, R. J., Lyons, I. M., Goldman, D., & Green, A. E. (2022). Transfer from spatial education to verbal reasoning and prediction of transfer from learning-related neural change. Science Advances. https://doi.org/10.1126/sciadv.abo3555"
     author: "Cortes, R. A., Peterson, E. G., Kraemer, D. J. M., Kolvoord, R. A., Uttal, D. H., Dinh, N., Weinberger, A. B., Daker, R. J., Lyons, I. M., Goldman, D., & Green, A. E."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Improvement in spatial scanning predicts and mediates the curriculum's transfer effect to verbal reasoning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (3 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Longitudinal change in spatial scanning (ΔEFT) positively predicted change in verbal reasoning, including for nonspatial trials. [→ Cortes 2022](#cortes-2022)
@@ -45,7 +51,7 @@ sources:
 
 Cortes, R. A., Peterson, E. G., Kraemer, D. J. M., Kolvoord, R. A., Uttal, D. H., Dinh, N., Weinberger, A. B., Daker, R. J., Lyons, I. M., Goldman, D., & Green, A. E. (2022). Transfer from spatial education to verbal reasoning and prediction of transfer from learning-related neural change. Science Advances. https://doi.org/10.1126/sciadv.abo3555
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Regression models controlling for PSAT, GPA, and gender in the main sample: "the more students' spatial scanning improved, the more their verbal reasoning improved." Only regression coefficients are printed, so no effect size is reported.
 
@@ -55,7 +61,7 @@ Regression models controlling for PSAT, GPA, and gender in the main sample: "the
 
 Cortes, R. A., Peterson, E. G., Kraemer, D. J. M., Kolvoord, R. A., Uttal, D. H., Dinh, N., Weinberger, A. B., Daker, R. J., Lyons, I. M., Goldman, D., & Green, A. E. (2022). Transfer from spatial education to verbal reasoning and prediction of transfer from learning-related neural change. Science Advances. https://doi.org/10.1126/sciadv.abo3555
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Mediation analysis in the main sample: the indirect effect of curriculum group on reasoning change through ΔEFT was significant (P = 0.028; 12% of variance; 10% for nonspatial trials). Percent variance mediated is not a standardized effect size, so impact is null.
 
@@ -65,7 +71,7 @@ Mediation analysis in the main sample: the indirect effect of curriculum group o
 
 Cortes, R. A., Peterson, E. G., Kraemer, D. J. M., Kolvoord, R. A., Uttal, D. H., Dinh, N., Weinberger, A. B., Daker, R. J., Lyons, I. M., Goldman, D., & Green, A. E. (2022). Transfer from spatial education to verbal reasoning and prediction of transfer from learning-related neural change. Science Advances. https://doi.org/10.1126/sciadv.abo3555
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Regression controlling for PSAT, GPA, and gender: mental rotation gains also predicted reasoning gains. ΔMRT was not tested as a mediator because it was not significantly associated with curriculum group; simultaneous regression showed ΔEFT and ΔMRT each independently predicted ΔReasoning.
 
@@ -75,4 +81,7 @@ Regression controlling for PSAT, GPA, and gender: mental rotation gains also pre
 
 
 ## Related Claims
--
+- [Curriculum-related neural changes during spatial scanning predict and mediate transfer to verbal reasoning](eft-neural-change-predicts-mediates-transfer.md) — related
+- [Neural change during spatial scanning predicts verbal reasoning transfer better than traditional performance-based assessments, and best prediction combines both](neural-change-outpredicts-traditional-assessments.md) — related
+- [The spatial curriculum produced near transfer to improved spatial scanning and increased self-reported spatial habits of mind, but not to mental rotation](spatial-curriculum-near-transfer-scanning-habits.md) — related
+- [A spatial STEM curriculum yields far transfer to improved verbal deductive reasoning in high school students, including on nonspatial relation trials](spatial-curriculum-transfers-to-verbal-reasoning.md) — related

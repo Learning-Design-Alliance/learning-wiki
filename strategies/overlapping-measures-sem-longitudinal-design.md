@@ -37,7 +37,7 @@ The review recommends a seven-step design sequence for longitudinal studies of c
 - valid measurement of developmental change in inhibitory control and similar self-regulation constructs
 
 ### Affordances
-- [Heterotypic Continuity Inhibitory Control](../theories/heterotypic-continuity-inhibitory-control.md)
+- [Heterotypic Continuity Inhibitory Control](../theories/executive-function-development.md)
 
 ## Related Strategies
 - 

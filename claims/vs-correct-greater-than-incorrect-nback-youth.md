@@ -41,4 +41,10 @@ Across-level voxelwise GLM in 304 youths aged 8-22 performing a fractal n-back t
 
 
 ## Related Claims
--
+- [Adolescents show disproportionately greater false alarms on happy no-go trials with heightened ventral striatum activity](adolescent-happy-nogo-false-alarm-ventral-striatum.md) — related
+- [Ventral striatum activation to correct responses is correlated with discrimination performance in youth](vs-activation-correlated-with-discrimination-performance.md) — related
+- [Ventral striatum activation to correct responses peaks in mid-adolescence at approximately age 16](vs-activation-peaks-mid-adolescence.md) — related
+- [Ventral striatum response to correct responses scales with working memory load in youth](vs-response-scales-with-working-memory-load.md) — related
+- [The VS correct-greater-than-incorrect response is present for both target and foil trials and is not a motor confound](vs-effect-present-targets-foils-not-motor.md) — related
+- [Post-error slowing occurs in the 2-back condition despite absence of feedback](post-error-slowing-two-back-no-feedback.md) — related
+- [Working memory load degrades discrimination accuracy and slows responses in youth](load-degrades-discrimination-and-slows-responses.md) — related

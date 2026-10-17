@@ -101,3 +101,6 @@ The shift from "word count" to "conversational turns" as the operative mechanism
 - [Curiosity-modulated tutoring produces roughly 2.4× more conversational turns than baseline under fixed time budgets](curiosity-modulation-increases-conversational-turns.md) — related
 - The quality rather than the quantity of interactional modifications predicts comprehensible input — related
 - [Conversational narration style produces a large effect on learning from multimedia instruction, likely via social partnership](conversational-narration-style-large-learning-effect.md) — related
+- [Substantial variability in maternal talk existed within this primarily low-SES sample, and maternal talk was uncorrelated with SES](maternal-talk-variability-within-low-ses-sample.md) — related
+- [Social contingency in parent–child interaction supports early language learning, and infants actively elicit higher-quality input through a social feedback loop](social-feedback-loop-contingency-language.md) — related
+- [Within low-SES samples, quality of mother–child communication predicts children's later expressive language more strongly than input quantity](within-ses-quality-over-quantity.md) — possibly the same claim (merge candidate)

@@ -62,3 +62,4 @@ Self-reported fixed mindset measured at the end of the second session in the nat
 
 - [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](growth-mindset-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 -
+- [A growth-mindset-of-personality workshop reduced retaliatory aggression and increased prosocial behavior among urban high school students](personality-mindset-workshop-reduced-aggression.md) — related

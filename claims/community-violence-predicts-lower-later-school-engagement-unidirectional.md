@@ -15,12 +15,14 @@ sources:
     author: Borofsky Larissa A., Kellerman Ilana, Baucom Brian, Oliver Pamella H., Margolin Gayla
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Earlier community violence exposure inversely predicts later school engagement, but earlier school engagement does not predict later community violence exposure
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Cross-lagged analysis over two time points showed a unidirectional influence from earlier community violence exposure to later school engagement, controlling for stability and covariates. [→ Borofsky Larissa A. 2013](#borofsky-larissa-a-2013)
@@ -31,7 +33,7 @@ sources:
 
 Borofsky Larissa A., Kellerman Ilana, Baucom Brian, Oliver Pamella H., Margolin Gayla. (2013). Community Violence Exposure and Adolescents' School Engagement and Academic Achievement Over Time. Psychology of Violence. https://doi.org/10.1037/a0034121
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Cross-lagged Structural Equation Model with 118 adolescents assessed twice roughly 2.5 years apart, controlling for income, gender, and parent-to-child aggression. Constraining the CV1-to-SE2 path produced a significant fit change (Δχ2(1, N = 118) = 6.53, p = .01), while the "SE1 to CV2 path was not significant".
 
@@ -41,4 +43,5 @@ Cross-lagged Structural Equation Model with 118 adolescents assessed twice rough
 
 
 ## Related Claims
--
+- [School engagement partially mediates the association between earlier community violence exposure and later cumulative GPA](school-engagement-partially-mediates-violence-gpa-link.md) — related
+- [Externalizing and internalizing symptoms, but not posttraumatic stress symptoms, mediate the association between community violence exposure and later school engagement](internalizing-externalizing-symptoms-mediate-violence-engagement.md) — related

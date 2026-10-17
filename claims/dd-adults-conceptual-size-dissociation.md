@@ -15,12 +15,14 @@ sources:
     author: Liane Kaufmann, Michael von Aster, Silke M. Göbel, Josef Marksteiner, and Elise Klein
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Adults with DD show deficient conceptual size processing with preserved physical size processing, supporting shared magnitude substrates
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Adults with DD showed no congruity effect when making physical judgments but a normal congruity effect when making conceptual judgments, indicating automatic activation of physical size but not conceptual size. [→ Liane Kaufmann 2020](#liane-kaufmann-2020)
@@ -31,7 +33,7 @@ sources:
 
 Liane Kaufmann, Michael von Aster, Silke M. Göbel, Josef Marksteiner, and Elise Klein. (2020). Developmental Dyscalculia in Adults: Current Issues and Open Questions for Future Research. Lernen und Lernstörungen, 9(2), 126–137. https://doi.org/10.1024/2235-0977/a000294
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Review reports Gliksman and Henik (2018) study comparing DD and dyslexia adults on conceptual versus physical size judgments with congruent and incongruent picture pairs. The dissociation led the authors to conclude DD adults may have a weaker magnitude representation for non-countable magnitudes, supporting ATOM.
 
@@ -41,4 +43,8 @@ Review reports Gliksman and Henik (2018) study comparing DD and dyslexia adults 
 
 
 ## Related Claims
--
+- [Adults with DD show deficient alerting and executive attention with preserved orienting, indicating domain-general deficits beyond number processing](dd-adults-alerting-executive-attention-deficits.md) — related
+- [Adults with DD show deficient time/duration processing but preserved length processing, with mixed findings across studies](dd-adults-time-duration-deficit-length-mixed.md) — related
+- [Adults with DD show a reduced Number Stroop effect during physical comparison, suggesting weaker automatic activation of number magnitude](dd-adults-reduced-number-stroop-effect.md) — related
+- [Neuroimaging shows adults with DD exhibit stronger frontal activations during number semantics, reduced right parietal grey matter, and altered functional connectivity during non-symbolic magnitude comparison](dd-adults-neuroimaging-frontal-parietal-abnormalities.md) — related
+- [Adults with DD rely on time-consuming back-up strategies like finger usage for single-digit arithmetic, with prolonged response latencies that appear number-specific](dd-adults-backup-strategies-prolonged-latencies.md) — related

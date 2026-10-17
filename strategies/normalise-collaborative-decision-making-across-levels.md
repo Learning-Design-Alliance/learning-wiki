@@ -40,7 +40,7 @@ The article concludes with a forward-looking recommendation: "Measures and proce
 - creative agency in addressing complex problems
 
 ### Affordances
-- [Epistemic Control Framework Four Stages](../theories/epistemic-control-framework-four-stages.md)
+- [Epistemic Control Framework Four Stages](../theories/metacognition.md)
 
 ## Related Strategies
 - 

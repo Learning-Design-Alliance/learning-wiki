@@ -43,4 +43,5 @@ Mixed-design ANOVA on accuracy data from 24 younger adolescents, 20 older adoles
 
 
 ## Related Claims
--
+- [No behavioural Audience × Age group interaction: the accuracy decrement was comparable in adolescents and adults](no-behavioural-audience-age-interaction.md) — reports the opposite
+- [A peer audience decreases accuracy in the complex relational integration condition in both adolescents and adults](peer-audience-decreases-relational-integration-accuracy.md) — reports the opposite

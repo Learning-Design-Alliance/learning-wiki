@@ -15,12 +15,14 @@ sources:
     author: Reigal, R. E., Hernández-Mendo, A., Juárez-Ruiz de Mier, R., and Morales-Sánchez, V.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Exercise-hour groups differ on fitness, cognitive, and several psychosocial variables, but not on social dysfunction or severe depression
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` ANOVA indicated significant differences between exercise groups on fitness measures, cognitive measures, general self-efficacy, somatic symptoms, anxiety and insomnia, and life satisfaction, but no differences on social dysfunction or severe depression. [→ Reigal 2020](#reigal-2020)
@@ -31,7 +33,7 @@ sources:
 
 Reigal, R. E., Hernández-Mendo, A., Juárez-Ruiz de Mier, R., and Morales-Sánchez, V. (2020). Physical Exercise and Fitness Level Are Related to Cognitive and Psychosocial Functioning in Adolescents. Front. Psychol. 11:1777. https://doi.org/10.3389/fpsyg.2020.01777
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Omnibus ANOVAs across the three exercise-hour groups (n = 208 total) were significant for the listed fitness, cognitive, and psychosocial variables (e.g., VO2max F[2,205] = 38.26, p < 0.001, η2 = 0.27), while "There were no diﬀerences between groups in social dysfunction, and severe depression (GHQ)."
 
@@ -41,4 +43,7 @@ Omnibus ANOVAs across the three exercise-hour groups (n = 208 total) were signif
 
 
 ## Related Claims
--
+- [GHQ social dysfunction and severe depression show no group differences by exercise hours but are significantly related to physical fitness in correlation and regression](ghq-null-groups-fitness-related.md) — possibly the same claim (merge candidate)
+- [The most active and fittest adolescent group achieved the best psychosocial indicator scores](fittest-group-best-psychosocial.md) — a narrower finding that bears on this claim
+- [Adolescents with high weekly physical exercise hours (more than 4 h/week) show significantly better selective attention, concentration, and processing speed than lower-exercise groups, with no differences between low and moderate groups](high-exercise-hours-better-cognitive-adolescents.md) — a narrower finding that bears on this claim
+- [Cardiorespiratory fitness predicts nearly all cognitive and psychosocial measures, with anxiety/insomnia predicted by horizontal jump and life satisfaction by fat mass](vo2max-predicts-cognitive-psychosocial.md) — related

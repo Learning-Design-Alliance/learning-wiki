@@ -15,12 +15,14 @@ sources:
     author: Berwid Olga G., Halperin Jeffrey M.
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Acute moderate aerobic exercise speeds children's reaction times without improving accuracy, with greater speed gains on choice than simple reaction time tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` After 30 minutes of moderately intense cycling, children responded significantly faster on both RT tasks without accuracy improvements, with greater enhancement for choice than simple RT. [→ Berwid Olga G. 2012](#berwid-olga-g-2012)
@@ -31,7 +33,7 @@ sources:
 
 Berwid Olga G., Halperin Jeffrey M. (2012). Emerging Support for a Role of Exercise in Attention-Deficit/Hyperactivity Disorder Intervention Planning. Current Psychiatry Reports. https://doi.org/10.1007/s11920-012-0297-4
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 Experimental study by Ellemberg and St. Louis Deschenes of typically developing 7- and 10-year-old boys (n = 36 per age group) comparing 30 minutes of moderately intense cycle ergometer exercise against sitting on the same ergometer watching television. There was no Age x Exercise interaction.
 
@@ -41,4 +43,4 @@ Experimental study by Ellemberg and St. Louis Deschenes of typically developing 
 
 
 ## Related Claims
--
+- [Small pilot studies provide preliminary evidence that exercise interventions improve behavioral symptoms and neuropsychological functioning in children with ADHD](exercise-pilots-improve-adhd-symptoms-cognition.md) — related

@@ -15,12 +15,14 @@ sources:
     author: Davison, Megan Dunn; Hammer, Carol; Lawrence, Frank R.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Growth in bilingual preschoolers' Spanish receptive vocabulary and oral comprehension during Head Start positively predicts first-grade Spanish letter-word identification and passage comprehension
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Growth in Spanish oral comprehension (PLS-3) positively predicted Spanish letter-word identification (t = 7.58) and passage comprehension (t = 5.36). [→ Davison 2011](#davison-2011)
@@ -32,7 +34,7 @@ sources:
 
 Davison, Megan Dunn; Hammer, Carol; Lawrence, Frank R. (2011). Associations between Preschool Language and First Grade Reading Outcomes in Bilingual Children. Journal of Communication Disorders. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3138808/
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Second-stage growth curve models predicting Spanish reading outcomes from Spanish language growth in the same 81-child longitudinal sample. The article reports that "growth of the children's Spanish receptive vocabulary as measured by the TVIP positively predicted children's Spanish first grade letter-word identification" and passage comprehension, and notes group differences were not observed for these effects.
 
@@ -42,4 +44,6 @@ Second-stage growth curve models predicting Spanish reading outcomes from Spanis
 
 
 ## Related Claims
--
+- [Growth in English receptive language during Head Start predicts first-grade Spanish letter-word identification and passage comprehension, supporting cross-language transfer](english-language-growth-predicts-spanish-reading-cross-language.md) — related
+- [Bilingual children's English and Spanish receptive vocabulary and oral comprehension both increased across two years of Head Start, with group advantages in the language of prior exposure](receptive-language-growth-head-start-both-languages.md) — related
+- [Growth in Spanish receptive language during Head Start predicts first-grade English letter-word identification and passage comprehension, with timing-of-exposure group differences for Spanish vocabulary](spanish-language-growth-predicts-english-reading-cross-language.md) — related

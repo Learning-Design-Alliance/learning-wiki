@@ -15,18 +15,22 @@ sources:
     author: Ivcevic Zorana; Eggers Catherine
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: ivcevic-zorana-eggers-catherine-2021-2
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8003666/"
     title: "Ivcevic Zorana; Eggers Catherine. (2021). Emotion Regulation Ability: Test Performance and Observer Reports in Predicting Relationship, Achievement and Well-Being Outcomes in Adolescents. International Journal of Environmental Research and Public Health. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8003666/"
     author: Ivcevic Zorana; Eggers Catherine
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Emotion regulation variables predict interpersonal outcomes (peer nominations of understanding others and leadership potential) beyond Big Five traits and gender
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Performance-tested ERA and teacher-observed emotion regulation each independently predict peer nominations of understanding others and leadership potential after controlling for Big Five traits and gender. [→ Ivcevic Zorana; Eggers Catherine 2021](#ivcevic-zorana-eggers-catherine-2021)
@@ -38,7 +42,7 @@ sources:
 
 Ivcevic Zorana; Eggers Catherine. (2021). Emotion Regulation Ability: Test Performance and Observer Reports in Predicting Relationship, Achievement and Well-Being Outcomes in Adolescents. International Journal of Environmental Research and Public Health. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8003666/
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Hierarchical regression in the same 220-student sample showed Step 2 emotion regulation variables significantly predicted "understanding others, ΔR2 = 0.063, p = 0.001, and leadership potential, ΔR2 = 0.076, p < 0.001" beyond Big Five traits and gender.
 
@@ -48,7 +52,7 @@ Hierarchical regression in the same 220-student sample showed Step 2 emotion reg
 
 Ivcevic Zorana; Eggers Catherine. (2021). Emotion Regulation Ability: Test Performance and Observer Reports in Predicting Relationship, Achievement and Well-Being Outcomes in Adolescents. International Journal of Environmental Research and Public Health. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8003666/
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Both measures were independent predictors: "Performance-tested ERA and teacher-observed emotion regulation were significant independent predictors for understanding others" with β = 0.16 and β = 0.21 respectively, and for leadership potential with β = 0.22 and β = 0.20.
 
@@ -58,4 +62,7 @@ Both measures were independent predictors: "Performance-tested ERA and teacher-o
 
 
 ## Related Claims
--
+- [Performance-tested ERA and teacher-observed emotion regulation are only modestly correlated (r = 0.22), suggesting they measure distinct constructs](era-and-observer-reports-low-correlation.md) — related
+- [Emotion regulation variables do not predict overall subjective happiness beyond Big Five traits and gender, and only performance-tested ERA predicts school satisfaction](era-limited-support-affective-wellbeing.md) — related
+- [Emotion regulation variables predict academic outcomes (GPA and academic honors) beyond Big Five personality traits and gender in high school students](era-predicts-academic-outcomes-beyond-big-five.md) — related
+- [Teacher-observed emotion regulation correlates with academic outcomes more strongly than performance-tested ERA does](teacher-observed-er-stronger-academic-correlations.md) — related

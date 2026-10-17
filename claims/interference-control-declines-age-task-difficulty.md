@@ -15,24 +15,30 @@ sources:
     author: Patrick D. Gajewski, Michael Falkenstein, Sven Th€ones, Edmund Wascher
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
   - id: patrick-d-gajewski-2020-2
     resource: "https://doi.org/10.1016/j.neuroimage.2019.116430"
     title: "Patrick D. Gajewski, Michael Falkenstein, Sven Th€ones, Edmund Wascher. (2020). Stroop task performance across the lifespan: High cognitive reserve in older age is associated with enhanced proactive and reactive interference control. NeuroImage 207 (2020) 116430. https://doi.org/10.1016/j.neuroimage.2019.116430"
     author: Patrick D. Gajewski, Michael Falkenstein, Sven Th€ones, Edmund Wascher
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
   - id: patrick-d-gajewski-2020-3
     resource: "https://doi.org/10.1016/j.neuroimage.2019.116430"
     title: "Patrick D. Gajewski, Michael Falkenstein, Sven Th€ones, Edmund Wascher. (2020). Stroop task performance across the lifespan: High cognitive reserve in older age is associated with enhanced proactive and reactive interference control. NeuroImage 207 (2020) 116430. https://doi.org/10.1016/j.neuroimage.2019.116430"
     author: Patrick D. Gajewski, Michael Falkenstein, Sven Th€ones, Edmund Wascher
     q: 3
     i: 3
+    kind: causal
+    rigour: 1
 ---
 
 # Interference control declines with increasing age and increasing Stroop task difficulty in speed, consistency and accuracy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (3 entries) · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Reaction times increase with age and block difficulty, with a significant three-way interaction of Block x Congruity x Group. [→ Patrick D. Gajewski 2020](#patrick-d-gajewski-2020)
@@ -45,7 +51,7 @@ sources:
 
 Patrick D. Gajewski, Michael Falkenstein, Sven Th€ones, Edmund Wascher. (2020). Stroop task performance across the lifespan: High cognitive reserve in older age is associated with enhanced proactive and reactive interference control. NeuroImage 207 (2020) 116430. https://doi.org/10.1016/j.neuroimage.2019.116430
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Mixed ANOVA on reaction times in the PC-based Stroop task with 246 participants across five groups. Main effects of Block (ηp2 = 0.841) and Congruity (ηp2 = 0.862) and a significant Block x Congruity x Group interaction (ηp2 = 0.324) show "considerably longer RTs in Block 3 than Block 2 or Block 1" and larger congruity effects in older low performers.
 
@@ -55,7 +61,7 @@ Mixed ANOVA on reaction times in the PC-based Stroop task with 246 participants 
 
 Patrick D. Gajewski, Michael Falkenstein, Sven Th€ones, Edmund Wascher. (2020). Stroop task performance across the lifespan: High cognitive reserve in older age is associated with enhanced proactive and reactive interference control. NeuroImage 207 (2020) 116430. https://doi.org/10.1016/j.neuroimage.2019.116430
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Error-rate ANOVA in the same Stroop task: errors rose from 2.2% in Block 1 to 14.1% in Block 3 (ηp2 = 0.563), and incongruent trials produced "more errors than congruent trials" (12.2% vs. 1.9%). The three-way interaction (ηp2 = 0.157) reflects "the strong increase of error rates in the OL in incongruent trials of Block 3".
 
@@ -65,7 +71,7 @@ Error-rate ANOVA in the same Stroop task: errors rose from 2.2% in Block 1 to 14
 
 Patrick D. Gajewski, Michael Falkenstein, Sven Th€ones, Edmund Wascher. (2020). Stroop task performance across the lifespan: High cognitive reserve in older age is associated with enhanced proactive and reactive interference control. NeuroImage 207 (2020) 116430. https://doi.org/10.1016/j.neuroimage.2019.116430
 
-`q3 · i3`
+`q3 · i3` · `causal · r1`
 
 Analysis of individual standard deviations of reaction times showed "higher variability in speed in Block 3 than in Block 2 and Block 1" (ηp2 = 0.595) and larger inconsistency with increasing age, with group means from 245 ms (YA) to 798 ms (OL).
 
@@ -75,4 +81,8 @@ Analysis of individual standard deviations of reaction times showed "higher vari
 
 
 ## Related Claims
--
+- [Bilinguals show a marginally smaller Stroop effect and higher overall Stroop accuracy than monolinguals](bilinguals-marginally-smaller-stroop-effect.md) — related
+- [Old high performers show larger target-locked P2/N2 amplitudes than old low performers, exceeding middle-aged or young adults in some conditions](old-high-performers-larger-p2n2-reactive-control.md) — related
+- [Executive-control tasks discriminate old performance groups while speed, attention and memory tests show less consistent or no differences](executive-control-tasks-discriminate-old-groups.md) — related
+- [Old high performers reach a Stroop performance level comparable to middle-aged or even young adults](old-high-performers-comparable-middle-aged-young.md) — a narrower finding that bears on this claim
+- [Low working memory span individuals are more affected by Stroop task lapses and report more task-related mind-wandering](low-span-staying-on-task-deficits.md) — related

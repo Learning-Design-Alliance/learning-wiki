@@ -15,18 +15,22 @@ sources:
     author: Quiñones-Camacho Laura E., Fishburn Frank A., Camacho M. Catalina, Wakschlag Lauren S., Perlman Susan B.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: quiñones-camacho-laura-e-2019-2
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6969345/"
     title: "Quiñones-Camacho Laura E., Fishburn Frank A., Camacho M. Catalina, Wakschlag Lauren S., Perlman Susan B. (2019). Cognitive flexibility-related prefrontal activation in preschoolers: A biological approach to temperamental effortful control. Developmental Cognitive Neuroscience. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6969345/"
     author: Quiñones-Camacho Laura E., Fishburn Frank A., Camacho M. Catalina, Wakschlag Lauren S., Perlman Susan B.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children are more accurate and faster on NonStroop than Stroop trials of the Pet Store Stroop task
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Children were more accurate on NonStroop compared to Stroop trials, t(107) = 5.021, p < .001. [→ Quiñones-Camacho Laura E. 2019](#quinones-camacho-laura-e-2019)
@@ -38,7 +42,7 @@ sources:
 
 Quiñones-Camacho Laura E., Fishburn Frank A., Camacho M. Catalina, Wakschlag Lauren S., Perlman Susan B. (2019). Cognitive flexibility-related prefrontal activation in preschoolers: A biological approach to temperamental effortful control. Developmental Cognitive Neuroscience. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6969345/
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Behavioral analysis of the Pet Store Stroop task found "Children were more accurate on 'NonStroop' compared to 'Stroop' trials, t(107) = 5.021, p < .001" (M = 76.49% vs. 66.26%).
 
@@ -48,7 +52,7 @@ Behavioral analysis of the Pet Store Stroop task found "Children were more accur
 
 Quiñones-Camacho Laura E., Fishburn Frank A., Camacho M. Catalina, Wakschlag Lauren S., Perlman Susan B. (2019). Cognitive flexibility-related prefrontal activation in preschoolers: A biological approach to temperamental effortful control. Developmental Cognitive Neuroscience. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6969345/
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Reaction time analysis found "Children were faster on the 'NonStroop' (M = 2740.30 ms; SD = 495.94 ms) compared to the 'Stroop' (M = 2985.35 ms; SD = 495.11 ms) condition" (t(106) = 6.283, p < .001).
 
@@ -58,4 +62,6 @@ Reaction time analysis found "Children were faster on the 'NonStroop' (M = 2740.
 
 
 ## Related Claims
--
+- [Low working memory span individuals are more affected by Stroop task lapses and report more task-related mind-wandering](low-span-staying-on-task-deficits.md) — related
+- [Greater parent-reported temperamental effortful control predicts less DLPFC activation during cognitive flexibility in preschoolers](effortful-control-predicts-less-dlpfc-activation.md) — related
+- [The Stroop condition elicits significantly more left DLPFC activation than the NonStroop condition in preschoolers](stroop-condition-elicits-more-left-dlpfc-activation.md) — related

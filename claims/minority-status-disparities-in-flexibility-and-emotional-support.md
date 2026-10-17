@@ -15,12 +15,14 @@ sources:
     author: "Zeytinoglu, S., Calkins, S. D., & Leerkes, E. M."
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Non-Hispanic White children showed better cognitive flexibility and received more emotionally supportive caregiving than children from minority backgrounds
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Child minority status correlated with lower cognitive flexibility (r = −.22 to −.38) and lower observed emotional support across time points. [→ Zeytinoglu 2019](#zeytinoglu-2019)
@@ -31,7 +33,7 @@ sources:
 
 Zeytinoglu, S., Calkins, S. D., & Leerkes, E. M. (2019). Maternal emotional support but not cognitive support during problem-solving predicts increases in cognitive flexibility in early childhood. International Journal of Behavioral Development, 43(1), 12-23. https://doi.org/10.1177/0165025418757706
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 Bivariate correlational analyses (Table 3) of minority status with DCCS flexibility and observed maternal behaviors in the longitudinal sample; correlations ranged from "r = −.22– −.38, p<.01" for flexibility. Minority status was retained as a covariate in the primary models; the correlations are medium-sized effects.
 
@@ -41,4 +43,7 @@ Bivariate correlational analyses (Table 3) of minority status with DCCS flexibil
 
 
 ## Related Claims
--
+- [Children's cognitive flexibility did not predict later maternal emotional or cognitive support](child-flexibility-did-not-predict-maternal-behaviors.md) — related
+- [Maternal cognitive support was only modestly associated with emotional support and largely independent of intrusiveness and negativity](cognitive-support-largely-independent-of-emotional-support.md) — related
+- [Greater maternal emotional support during problem-solving predicts greater child cognitive flexibility one year later, in both the preschool-to-kindergarten and kindergarten-to-first-grade intervals](maternal-emotional-support-predicts-cognitive-flexibility-gains.md) — related
+- [Better emotional scaffolding is associated with higher ECERS-R Interaction scores](emotional-scaffolding-associated-with-ecers-interactions.md) — related

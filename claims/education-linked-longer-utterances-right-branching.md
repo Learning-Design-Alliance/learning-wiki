@@ -15,12 +15,14 @@ sources:
     author: "Kemper, S., Kynette, D., Rash, S., O'Brien, K., & Sprott, R."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Better-educated adults scored higher on WAIS vocabulary, produced longer utterances, and used more right-branching clauses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Education correlated with WAIS vocabulary scores, utterance length, and right-branching clause use across the language samples. [→ Kemper 1989](#kemper-1989)
@@ -31,7 +33,7 @@ sources:
 
 Kemper, S., Kynette, D., Rash, S., O'Brien, K., & Sprott, R. (1989). Life-span changes to adults' language: Effects of memory and genre. Applied Psycholinguistics, 10, 49-66. https://doi.org/10.1017/S0142716400008419
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Correlational analysis relating education to language-sample measures and WAIS scores in the young and elderly adult samples. The article reports that "better-educated adults scored higher on the WAIS vocabulary test, produced longer utterances, and used more right-branching clauses."
 
@@ -41,4 +43,5 @@ Correlational analysis relating education to language-sample measures and WAIS s
 
 
 ## Related Claims
--
+- [Elderly adults show an overall decrement in the complexity of oral and written statements attributable to an age-related loss of left-branching clauses across all three language samples](aging-reduces-syntactic-complexity-left-branching-loss.md) — related
+- [Adults with greater memory capacity, measured by WAIS Digits Backward, produced more complex utterances and used more right- and left-branching clauses](memory-capacity-linked-utterance-complexity.md) — related

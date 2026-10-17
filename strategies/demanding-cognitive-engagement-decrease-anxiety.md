@@ -39,7 +39,7 @@ Drawing on the finding that high cognitive load abolished both the accuracy impa
 - reducing state anxiety during cognitively demanding learning tasks
 
 ### Affordances
-- [Limited Resources Threat Cognition Account](../theories/limited-resources-threat-cognition-account.md)
+- [Limited Resources Threat Cognition Account](../theories/cognitive-load-theory.md)
 
 ## Related Strategies
 - 

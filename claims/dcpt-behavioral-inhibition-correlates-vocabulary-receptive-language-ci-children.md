@@ -43,4 +43,4 @@ Retrospective analysis of clinical data from 47 prelingually deaf children with 
 
 
 ## Related Claims
--
+- [Outcome measures are highly interrelated in children with cochlear implants](ci-outcome-measures-interrelated.md) — related

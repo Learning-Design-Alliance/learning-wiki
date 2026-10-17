@@ -41,4 +41,4 @@ Narrative review of the mathematical cognition literature, citing LeFevre et al.
 
 
 ## Related Claims
--
+- [Adults with DD rely on time-consuming back-up strategies like finger usage for single-digit arithmetic, with prolonged response latencies that appear number-specific](dd-adults-backup-strategies-prolonged-latencies.md) — related

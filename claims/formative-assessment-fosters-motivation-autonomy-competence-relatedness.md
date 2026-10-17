@@ -50,3 +50,4 @@ The primer reports this as a theoretical account attributed to Leenknecht et al.
 - [Strengthening the student-educator relationship can contribute positively to marginalised students' self-efficacy and sense of belonging in higher education](student-educator-relationship-builds-self-efficacy-and-belonging.md) — related
 - Both SDT and IE hold that people's actions are based on their perceptions of their contexts — related
 - [Autonomy-supportive training programs are overall effective, with a weighted effect size of 0.63 across 19 studies](autonomy-support-training-effective-d63.md) — related
+- [Successful aging comprises six features and creative activity contributes to it](successful-aging-six-features-creative-activity.md) — related

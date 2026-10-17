@@ -15,12 +15,14 @@ sources:
     author: Qin Shaozheng, Cho Soohyun, Chen Tianwen, Rosenberg-Lee Miriam, Geary David C., Menon Vinod
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Inter-problem multivoxel pattern stability in the hippocampus increases from childhood through adolescence into adulthood, reaching adult-like levels by adolescence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Hippocampal inter-problem multivoxel pattern stability was higher in adolescents and adults than in children, though children at Time-1 and Time-2 did not differ. [→ Qin Shaozheng 2014](#qin-shaozheng-2014)
@@ -31,7 +33,7 @@ sources:
 
 Qin Shaozheng, Cho Soohyun, Chen Tianwen, Rosenberg-Lee Miriam, Geary David C., Menon Vinod. (2014). Hippocampal-neocortical functional reorganization underlies children's cognitive development. Nature Neuroscience. https://doi.org/10.1038/nn.3788
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Event-related fMRI multivoxel pattern stability analysis in a subgroup of 20 children plus 20 adolescents and 20 adults; follow-ups showed "higher inter-problem stability in the left and right hippocampus in adolescents and adults compared to children (Scheffe's Ps<0.05)". No effect size is printed.
 
@@ -41,4 +43,6 @@ Event-related fMRI multivoxel pattern stability analysis in a subgroup of 20 chi
 
 
 ## Related Claims
--
+- [The anterior hippocampus becomes functionally specialized for episodic memory around the transition to adolescence](anterior-hippocampus-functional-specialization-adolescence.md) — related
+- [Hippocampal engagement during problem solving rises in middle childhood and then decreases to adult-like levels by adolescence](hippocampal-engagement-inverted-u-development.md) — related
+- [Memory-based strategy use continues to increase from childhood through adolescence into adulthood](retrieval-development-through-adolescence-adulthood.md) — related

@@ -15,12 +15,14 @@ sources:
     author: Qin Shaozheng, Cho Soohyun, Chen Tianwen, Rosenberg-Lee Miriam, Geary David C., Menon Vinod
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Arithmetic problem-solving performance improves over 1.2 years in children, with larger gains on standard addition than control problems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the event-related fMRI task, children showed significant Task-by-Time interactions for accuracy and reaction times, with larger improvements on Addition than Control problems. [→ Qin Shaozheng 2014](#qin-shaozheng-2014)
@@ -31,7 +33,7 @@ sources:
 
 Qin Shaozheng, Cho Soohyun, Chen Tianwen, Rosenberg-Lee Miriam, Geary David C., Menon Vinod. (2014). Hippocampal-neocortical functional reorganization underlies children's cognitive development. Nature Neuroscience. https://doi.org/10.1038/nn.3788
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Longitudinal event-related fMRI task performance in 20 children scanned twice; repeated-measures ANOVA revealed "Task-by-Time interactions for both accuracy and RTs (F(1,19)>4.97, Ps<0.04)", with larger Addition than Control improvements. No effect size is printed.
 
@@ -41,4 +43,8 @@ Longitudinal event-related fMRI task performance in 20 children scanned twice; r
 
 
 ## Related Claims
--
+- [Children with DD show slower reaction times than TD children during arithmetic problem solving, with no operation-specific RT effect](dd-slower-reaction-times-arithmetic.md) — related
+- [Children with developmental dyscalculia are disproportionately impaired on subtraction accuracy relative to addition, showing a significant group × operation interaction](dd-subtraction-accuracy-deficit-interaction.md) — related
+- [DD children show operation-specific hyperactivation: greater IPS, superior parietal lobule and fusiform activity during subtraction but not addition](dd-subtraction-specific-parietal-hyperactivation.md) — related
+- [Engaging symbolic number representations does not by itself prime subsequent symbolic arithmetic: second test-set performance declined in both training groups](symbolic-activation-insufficient-to-prime-arithmetic.md) — reports the opposite
+- [Children shift from counting to memory-based retrieval strategies in single-digit addition over a 1.2-year interval in middle childhood](counting-to-retrieval-shift-longitudinal-childhood.md) — related

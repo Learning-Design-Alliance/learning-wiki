@@ -52,3 +52,5 @@ The review reports, citing Butkowsky and Willows (1980), an experimental study m
 - [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
+- [Frustration at not understanding a concept is perceived to motivate exploration and persistence, while frustration attributed to teachers or curriculum impairs motivation](frustration-epistemic-motivates-external-impairs.md) — related
+- [Praise for intelligence (person praise) induces a fixed mindset and helpless reactions compared with process praise](person-praise-induces-fixed-mindset.md) — related

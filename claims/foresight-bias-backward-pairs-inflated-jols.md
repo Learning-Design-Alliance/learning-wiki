@@ -62,4 +62,4 @@ First block of Experiment 2's test group (16 Hebrew-speaking undergraduates) wit
 
 
 ## Related Claims
--
+- [Age did not interact with associative relatedness or effective encoding-strategy use in predicting JOLs, indicating no age differences in the use of these two sources of information when making judgments of learning](no-age-difference-jol-information-sources.md) — related

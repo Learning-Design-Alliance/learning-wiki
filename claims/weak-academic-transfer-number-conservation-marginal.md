@@ -58,4 +58,4 @@ Post-hoc independent-samples t-tests on post-test scores, justified by equivalen
 
 
 ## Related Claims
--
+- [Processing speed showed no significant group × time interaction, with only a marginal intervention advantage at 4 weeks](processing-speed-no-significant-social-media-effect.md) — related

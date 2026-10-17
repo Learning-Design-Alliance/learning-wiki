@@ -41,4 +41,5 @@ In the same 50-student correlational study, the article states "there was no cor
 
 
 ## Related Claims
--
+- [Phonological awareness and phonological memory are the skills that contributed most to initial reading and writing performance in third-grade students](phonological-awareness-memory-most-contribute-reading-writing.md) — related
+- [Only letter naming among rapid-naming measures showed significant correlation with reading and writing](letters-rapid-naming-significant-correlation-reading-writing.md) — related

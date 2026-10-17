@@ -89,3 +89,5 @@ Same national student survey (n = 1,008, weighted sample 23% Hispanic, 15% Black
 - [Global inclusion gaps persist despite large EdTech investment](inclusion-gap-persists-despite-edtech-investment.md) — related
 - [San Diego regional data show STEM access and pay remain inequitable by race, socioeconomic status, and gender](san-diego-stem-access-inequities.md) — related
 - [Children with poorer parents suffer more, and children of high school educated parents experience the largest welfare losses](ses-heterogeneity-welfare-losses-closures.md) — related
+- [Internet connection rates in Canada differ sharply by income, with 97% of the highest income quartile connected versus 58% of the lowest](income-internet-connection-gap.md) — related
+- [Low-income households make significant sacrifices to maintain Internet access, which can account for almost 8% of monthly household expenses](low-income-households-sacrifice-internet.md) — related

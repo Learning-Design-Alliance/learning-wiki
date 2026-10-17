@@ -50,3 +50,5 @@ CFA (Proc TCALIS, maximum likelihood) on goal scores from MAP Reading and Mathem
 - [Chi-square difference tests show significant loading invariance constraints for Kansas Reading but all constraints significant for Michigan Mathematics](mgcfa-chi-square-difference-patterns-kansas-michigan.md) — related
 - [Quadratic latent growth fits MAP longitudinal achievement data better than linear growth across ten states](quadratic-growth-fits-map-better-than-linear.md) — related
 - [Item parceling at the testlet level substantially improves model fit, allowing partial (Rasch, 2PL) or full (bifactor) recovery of CAT constructs](parceling-testlet-level-recovers-cat-construct.md) — related
+- [State epistemic curiosity and situational interest items load on a single latent factor in confirmatory factor analysis](curiosity-interest-one-factor-cfa.md) — related
+- [Establishing longitudinal factorial invariance is neither sufficient nor necessary for examining developmental change](factorial-invariance-not-sufficient-necessary-for-change.md) — related

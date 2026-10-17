@@ -15,12 +15,14 @@ sources:
     author: "Alamprese, J. A., MacArthur, C. A., Price, C., & Knight, D."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Treatment effects on word recognition differed by native status: the curriculum was more effective for native than non-native adults, though subgroup impacts were not individually significant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Significant treatment-by-native-status interactions were found for the WJR Letter-Word Identification and WRAT3 Word Reading tests, with a positive but non-significant impact for native learners (0.24) and a negative but non-significant impact for non-native learners (-0.21) on Word Reading. [→ Alamprese 2011](#alamprese-2011)
@@ -31,7 +33,7 @@ sources:
 
 Alamprese, J. A., MacArthur, C. A., Price, C., & Knight, D. (2011). Effects of a Structured Decoding Curriculum on Adult Literacy Learners' Reading Development. Journal of Research on Educational Effectiveness. https://doi.org/10.1080/19345747.2011.555294
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Interaction tests across all 11 outcome measures in the randomized trial; Table 4 shows native-group Word Reading impact 0.24 (p = .068) and non-native impact -0.21 (p = .244), neither significantly different from zero.
 
@@ -41,4 +43,6 @@ Interaction tests across all 11 outcome measures in the randomized trial; Table 
 
 
 ## Related Claims
--
+- [The MSDS structured decoding curriculum produced a small but significant effect on adult learners' pseudoword decoding (WJR Word Attack) relative to control instruction](msds-small-significant-word-attack-effect.md) — related
+- [Non-native English learners made significantly greater reading gains than native learners on 7 of 11 measures, while native learners gained more on vocabulary](non-native-learners-larger-reading-gains.md) — reports the opposite
+- [The MSDS curriculum showed no statistically significant effects on word recognition, spelling, fluency, or comprehension outcomes](msds-no-effects-other-reading-measures.md) — related

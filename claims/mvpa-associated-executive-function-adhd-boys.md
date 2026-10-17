@@ -15,12 +15,14 @@ sources:
     author: Berwid Olga G., Halperin Jeffrey M.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Daily moderate-to-vigorous physical activity is associated with better executive functioning in boys with ADHD
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` MVPA significantly predicted Tower of London Total Move Score and Total Execution Time, with higher MVPA associated with better performance; other executive correlations were nonsignificant but in the hypothesized direction. [→ Berwid Olga G. 2012](#berwid-olga-g-2012)
@@ -31,7 +33,7 @@ sources:
 
 Berwid Olga G., Halperin Jeffrey M. (2012). Emerging Support for a Role of Exercise in Attention-Deficit/Hyperactivity Disorder Intervention Planning. Current Psychiatry Reports. https://doi.org/10.1007/s11920-012-0297-4
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Cross-sectional correlational study by Gapin and Etnier of 18 school-age boys with ADHD who wore accelerometers for seven consecutive days. Correlations for five of six other executive measures with MVPA were nonsignificant but in the hypothesized direction (r's = .20–.45).
 
@@ -41,4 +43,6 @@ Cross-sectional correlational study by Gapin and Etnier of 18 school-age boys wi
 
 
 ## Related Claims
--
+- [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md) — related
+- [Total percentage of time spent sedentary or in moderate-to-vigorous physical activity during the day is unrelated to long-term memory retention in young adults](total-daily-activity-unrelated-to-long-term-memory.md) — related
+- [Chronic cardio exercise programs improve executive functions, attention, and behavior in children with ADHD](chronic-cardio-exercise-benefits-adhd-children.md) — related

@@ -75,3 +75,4 @@ The presentation's grand-challenge slide states that "collaborative situations o
 - Past peer-collaboration school improvement initiatives repeatedly failed, and Joyce attributes failures to poor documentation, exclusive focus on student learning, and unclear leadership — related
 - [Collaborative tasks should be complex enough that joint effort is worthwhile, engaging the collective working memory effect](collective-working-memory-effect-task-complexity.md) — related
 - [Productive failure students significantly outperformed lecture-practice and facilitated complex problem solving students on well-structured and higher-order application post-test problems](pf-outperformed-lp-fcps-post-test-problems.md) — related
+- [Groups outperform individuals when devising creative solutions to real-world complex problems](groups-outperform-individuals-complex-problem-creativity.md) — related

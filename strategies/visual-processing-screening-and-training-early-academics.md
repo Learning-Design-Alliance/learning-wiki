@@ -38,7 +38,7 @@ The article recommends that educators, psychologists, and parents attend to how 
 - early mathematics knowledge
 
 ### Affordances
-- [Visual Processing Domain General Precursor](../theories/visual-processing-domain-general-precursor.md)
+- Visual Processing Domain General Precursor
 
 ## Related Strategies
 - 

@@ -15,12 +15,14 @@ sources:
     author: Hertzog C, Dunlosky J.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # FOK resolution for general-knowledge information is similar for younger and older adults, whereas the literature argues for a deficit in FOK resolution for episodic memory tasks in older adults
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` FOK resolution made for general-knowledge information is similar for younger and older adults, but recent work argues for a deficit in FOK resolution for episodic memory tasks. [→ Hertzog C 2011](#hertzog-c-2011)
@@ -31,7 +33,7 @@ sources:
 
 Hertzog C, Dunlosky J. (2011). Metacognition in Later Adulthood: Spared Monitoring Can Benefit Older Adults' Self-regulation. Current Directions in Psychological Science. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3903298/
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative review statement citing prior studies: "FOK resolution made for general-knowledge information is similar for younger and older adults," while work by Souchay and colleagues argues for an episodic-task deficit. The review attributes these findings to the cited studies.
 
@@ -41,4 +43,6 @@ Narrative review statement citing prior studies: "FOK resolution made for genera
 
 
 ## Related Claims
--
+- [Feeling-of-knowing resolution for episodic memory depends on underlying memory quality: repeated presentations raised FOK resolution for both age groups, with a larger benefit for older adults, and FOK resolution was at least as good for older adults tested with a 48-hour delay as for younger adults](fok-resolution-depends-memory-quality.md) — related
+- [Older adults show no reliable deficit in assessing item difficulty (EOL accuracy)](no-age-deficit-eol-difficulty-assessment.md) — related
+- [The literature is mixed on age differences in the accuracy of retrospective confidence judgments during recognition memory tests, with older adults sometimes producing more high-confidence false alarms and poorer resolution with deceptive lures](mixed-age-differences-confidence-judgment-resolution.md) — related

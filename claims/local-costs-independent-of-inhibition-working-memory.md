@@ -15,12 +15,14 @@ sources:
     author: Chevalier N., Sheffield T. D., Nelson J. M., Clark C. A. C., Wiebe S. A., Espy K. A.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Local costs (switch implementation) are unrelated to inhibition and working-memory performance across the preschool ages tested
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` At all three ages, neither Go/No-Go nor Nebraska Barnyard performance interacted with trial type in local-cost models. [→ Chevalier N. 2012](#chevalier-n-2012)
@@ -31,7 +33,7 @@ sources:
 
 Chevalier N., Sheffield T. D., Nelson J. M., Clark C. A. C., Wiebe S. A., Espy K. A. (2012). Underpinnings of the Costs of Flexibility in Preschool Children: The Roles of Inhibition and Working Memory. Developmental Neuropsychology. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3308575/
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Multilevel local-cost models at ages 3;9, 4;6, and 5;3 found no GNG × trial type or NB × trial type interaction (p = .566 and p = .449 reported for the pattern), so "local costs did not depend on inhibition and working memory in this preschool age range."
 
@@ -41,4 +43,8 @@ Multilevel local-cost models at ages 3;9, 4;6, and 5;3 found no GNG × trial typ
 
 
 ## Related Claims
--
+- [Higher inhibition and working-memory scores predict better overall Shape School accuracy at some ages, independent of trial type](gng-nb-main-effects-overall-accuracy.md) — related
+- [Inhibition and working-memory performance are associated with mixing costs (goal representation) at ages 4;6 and 5;3 but not at age 3;9](inhibition-working-memory-mixing-costs-late-preschool.md) — related
+- [Task-demand clusters differ in useful age ranges, with perceptual inhibition developing earliest and motivational inhibition latest](inhibitory-control-task-demands-developmental-ordering.md) — related
+- [Significant mixing and local costs are present at each preschool age, with both decreasing in magnitude from age 3;9 to 5;3](mixing-local-costs-present-decrease-with-age.md) — related
+- [Perseverators do not differ from non-perseverators in inhibition or working-memory performance at any age](perseverators-similar-inhibition-working-memory.md) — related

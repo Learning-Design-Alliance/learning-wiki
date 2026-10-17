@@ -15,12 +15,14 @@ sources:
     author: Tiago Ferreira, Joana Cadima, Marisa Matias, Joana Marina Vieira, and Teresa Leal; Karine Verschueren; Paula Mena Matos
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Fathers' initial engagement levels are lower than mothers' but their growth rate is higher, narrowing the gap over time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Fathers started with significantly lower initial engagement than mothers but showed significantly higher growth in engagement over time. [→ Tiago Ferreira 2018](#tiago-ferreira-2018)
@@ -31,7 +33,7 @@ sources:
 
 Tiago Ferreira, Joana Cadima, Marisa Matias, Joana Marina Vieira, and Teresa Leal; Karine Verschueren; Paula Mena Matos. (2018). Trajectories of Parental Engagement in Early Childhood Among Dual-Earner Families: Effects on Child Self-Control. Developmental Psychology, 54(4), 731–743. https://doi.org/10.1037/dev0000458
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Wald tests comparing latent growth curve intercepts and slopes between mothers and fathers in the same 156-family sample. The article reports "mother’s initial levels (intercept) of engagement to be significantly higher than father’s initial levels of engagement" and "fathers showed significantly higher growth (slope) in parental engagement."
 
@@ -41,4 +43,6 @@ Wald tests comparing latent growth curve intercepts and slopes between mothers a
 
 
 ## Related Claims
--
+- [Mothers' engagement in positive activities with children remains stable over early childhood while fathers' engagement shows significant linear growth](mothers-stable-fathers-growing-engagement-trajectories.md) — related
+- [Both fathers' initial engagement level and positive growth in engagement positively predict children's behavioral self-control](fathers-initial-and-growth-predict-self-control.md) — related
+- [Parents' working hours and number of children do not add explanatory power for engagement beyond work-family conflict](working-hours-children-no-incremental-variance.md) — related

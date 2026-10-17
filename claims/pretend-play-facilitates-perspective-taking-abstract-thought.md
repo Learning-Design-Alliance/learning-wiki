@@ -75,3 +75,4 @@ The review reports, citing Jenkins and Astington, a longitudinal study in which 
 - Pretense play training improves gender constancy on the first posttest but not the second — a narrower finding that bears on this claim
 - Play's most important role, per Piaget, is developing representational language and thought through ludic symbolism — related
 - [Thought and language become increasingly interdependent in the first few years, with private speech evolving into inner speech as self-regulation](vygotsky-private-speech-inner-speech.md) — related
+- [Infants and adults automatically take account of others' false beliefs, as shown by looking time and reaction time](implicit-belief-representation-infants-adults.md) — related

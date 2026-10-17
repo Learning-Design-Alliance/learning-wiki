@@ -13,12 +13,14 @@ sources:
     title: Christodoulou JA 2014
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # In-scanner sentence judgment accuracy declines with faster word presentation rates, and dyslexic readers' accuracy declines disproportionately across rates
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Accuracy declined with greater rates of presentation, and the dyslexic group performed significantly worse than typical readers on the Fast and Medium conditions but not on the Slow condition. [→ Christodoulou JA 2014](#christodoulou-ja-2014)
@@ -29,7 +31,7 @@ sources:
 
 Christodoulou JA, Del Tufo SN, Lymberis J, Saxler PK, Ghosh SS, et al. (2014) Brain Bases of Reading Fluency in Typical Reading and Impaired Fluency in Dyslexia. PLoS ONE 9(7): e100552. https://doi.org/10.1371/journal.pone.0100552
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 A 3x2 repeated measures ANOVA on in-scanner accuracy for 12 typical readers and 12 readers with dyslexia found a significant main effect of Condition and a significant "Group X Condition interaction". The dyslexic group was significantly worse on Fast and Medium but not Slow conditions.
 
@@ -39,4 +41,7 @@ A 3x2 repeated measures ANOVA on in-scanner accuracy for 12 typical readers and 
 
 
 ## Related Claims
--
+- [In-scanner sentence judgment accuracy correlates significantly with standardized reading fluency and phonological awareness scores across both groups](inscanner-performance-correlates-fluency-phonological.md) — related
+- [Group differences in activation are more extensive when behavioral performance is equated across groups, indicating they are not a consequence of worse performance](performance-equated-activation-differences-persist.md) — related
+- [Typical readers respond faster than dyslexic readers overall, and responses slow as presentation rates increase, without a group-by-rate interaction for reaction time](reaction-time-group-and-rate-effects-no-interaction.md) — related
+- [Typical readers show significantly greater rate-related activation gains than dyslexic readers in left prefrontal and left superior temporal regions](typical-readers-greater-rate-activation-gains-left-frontotemporal.md) — related

@@ -15,12 +15,14 @@ sources:
     author: "Collins, Jessica A., & Olson, Ingrid R."
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Current evidence does not establish that embodied representations are necessary for semantic understanding
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Neuropsychological dissociations and lesion evidence argue against a strong embodied account: apraxic patients retain conceptual knowledge of object use, and left-hemisphere sensorimotor lesion site does not predict motor-verb conceptual processing. [→ Collins 2014](#collins-2014)
@@ -31,7 +33,7 @@ sources:
 
 Collins, Jessica A., & Olson, Ingrid R. (2014). Knowledge is Power: How Conceptual Knowledge Transforms Visual Cognition. Psychonomic bulletin & review. https://doi.org/10.3758/s13423-013-0564-3
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review's synthesis of neuropsychological evidence: patients with "focal lesions causing apraxia... retain conceptual knowledge of object names and how objects should be used," and a large cohort study found no relationship between sensorimotor lesion site and conceptual processing of motor verbs. Narrative review synthesis; no effect size.
 
@@ -41,4 +43,5 @@ The review's synthesis of neuropsychological evidence: patients with "focal lesi
 
 
 ## Related Claims
--
+- [Many current GenAI applications in STEM education conflate learning with performance and feedback, neglecting active, reflective, and embodied learning processes](genai-conflates-learning-with-performance-feedback.md) — related
+- [Multimodal, culturally grounded formative assessment supports engagement and agency](multimodal-culturally-grounded-assessment-supports-engagement-and-agency.md) — related

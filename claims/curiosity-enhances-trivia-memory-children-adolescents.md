@@ -43,4 +43,4 @@ ANOVA on proportion correctly recalled trivia answers in N = 60 participants (ch
 
 
 ## Related Claims
--
+- [Curiosity about trivia answers is a U-shaped function of confidence, supporting information-gap theory](curiosity-u-shaped-function-of-confidence.md) — related

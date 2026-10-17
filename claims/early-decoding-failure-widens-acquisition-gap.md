@@ -52,3 +52,4 @@ Authors' concluding interpretation (type e): even though the two young adult gro
 - False beginners and true beginners show no significant differences on any STEP 3 written test item — related
 - In word vocalization, false beginners read irregular words quickly with more unrepaired errors and the highest rate of regularization — related
 - False beginners read passages aloud significantly better than true beginners despite equal written-test scores — related
+- [Failure to transition to literacy early triggers a Matthew effect of widening reading and vocabulary gaps](matthew-effect-literacy-transition.md) — related

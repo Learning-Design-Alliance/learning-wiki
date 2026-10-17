@@ -15,12 +15,14 @@ sources:
     author: Kleibeuker, S. W., Koolschijn, P. C. M. P., Jolles, D. D., De Dreu, C. K. W., and Crone, E. A.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Adults outperform adolescents on fluency measures of divergent thinking (scanner AU-score, verbal fluency, and AUT-brick fluency), but not on originality or flexibility
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` No age group effects were observed for AUT-brick originality, and flexibility differences were only marginally significant. [→ Kleibeuker 2013](#kleibeuker-2013)
@@ -31,7 +33,7 @@ sources:
 
 Kleibeuker, S. W., Koolschijn, P. C. M. P., Jolles, D. D., De Dreu, C. K. W., and Crone, E. A. (2013). The neural coding of creative idea generation across adolescence and early adulthood. Frontiers in Human Neuroscience 7:905. https://doi.org/10.3389/fnhum.2013.00905
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 MANOVA on AUT-brick measures showed a significant age group effect driven by fluency (t(37) = 2.66, p = 0.01). "No age group effects were observed for AUT-brick originality" and flexibility was only marginally significant, indicating the developmental advantage is specific to fluency.
 
@@ -41,4 +43,5 @@ MANOVA on AUT-brick measures showed a significant age group effect driven by flu
 
 
 ## Related Claims
--
+- [More solutions are generated in the OC condition than the AU condition, and adults generate more answers than adolescents in general, with no condition-specific age difference](condition-and-age-effects-solution-generation.md) — related
+- [Adults show larger left IFG/MFG condition effects (AU relative to baseline) than adolescents, indicating adolescents do not yet recruit left lateral PFC at an adult level for creative thinking](adolescents-immature-left-lateral-pfc-recruitment.md) — related

@@ -15,12 +15,14 @@ sources:
     author: "Blair, Clancy & Raver, C. Cybele"
     q: 1
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Effortful regulation is maximized at moderate levels of emotional and physiological reactivity and declines at very low or very high levels
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · review `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Attention and effortful regulation follow an inverted U-shaped relation to emotional and physiological arousal, with executive function maximized at moderate neurochemical levels. [→ Blair 2015](#blair-2015)
@@ -31,7 +33,7 @@ sources:
 
 Blair, Clancy & Raver, C. Cybele. (2015). School Readiness and Self-Regulation: A Developmental Psychobiological Approach. Annual Review of Psychology. https://doi.org/10.1146/annurev-psych-010814-015221
 
-`q1 · i?`
+`q1 · i?` · `review · r3`
 
 Theoretical neurobiological argument in the review: rising catecholamines and cortisol stimulate prefrontal activity up to a moderate level, beyond which prefrontal activity is reduced. The article maps this onto the inverted U-shaped Yerkes-Dodson curve relating anxiety to performance. No effect size is printed.
 
@@ -41,4 +43,6 @@ Theoretical neurobiological argument in the review: rising catecholamines and co
 
 
 ## Related Claims
--
+- [Meditation expertise follows an inverted-U: moderate practice hours show greater attention-network activation than novices, while very high hours show reduced activation](meditation-expertise-inverted-u-neural-efficiency.md) — related
+- [Prolonged or overwhelming stress disrupts self-regulation development by physically changing brain wiring toward emotional reactivity](toxic-stress-disrupts-self-regulation-development.md) — related
+- [The relationship between effort and meaning follows an inverted U-shape: moderate friction enhances meaning and motivation while excessive friction overwhelms](effort-meaning-inverted-u-shape.md) — related

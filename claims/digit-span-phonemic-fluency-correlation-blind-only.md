@@ -15,12 +15,14 @@ sources:
     author: Occelli Valeria, Lacey Simon, Stephens Careese, Merabet Lotfi B., Sathian K.
     q: 2
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Digit span correlates with phonemic fluency in the congenitally blind but not the sighted
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` A positive correlation between digit span and phonemic fluency was present in the congenitally blind group but absent in the sighted group. [→ Occelli Valeria 2017](#occelli-valeria-2017)
@@ -31,7 +33,7 @@ sources:
 
 Occelli Valeria, Lacey Simon, Stephens Careese, Merabet Lotfi B., Sathian K. (2017). Enhanced Verbal Abilities in The Congenitally Blind. Experimental Brain Research. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5436932/
 
-`q2 · i3`
+`q2 · i3` · `associational · r2`
 
 Group-specific correlational analyses (Table 2A/2B). The congenitally blind showed a digit span–phonemic fluency correlation of "r = .58, p = .048"; the sighted group showed no such correlation.
 
@@ -41,4 +43,6 @@ Group-specific correlational analyses (Table 2A/2B). The congenitally blind show
 
 
 ## Related Claims
--
+- [Congenitally blind adults show higher verbal backwards digit span than sighted controls](congenitally-blind-higher-backwards-digit-span.md) — related
+- [Congenitally blind adults produce more items on phonemic and semantic verbal fluency tasks than sighted controls](congenitally-blind-superior-verbal-fluency.md) — related
+- [Congenitally blind adults outperform sighted controls on verbal memory recall across timepoints](congenitally-blind-superior-verbal-memory-recall.md) — related

@@ -15,12 +15,14 @@ sources:
     author: Keenan Tiarnán D., Agrón Elvira, Mares Julie A., Clemons Traci E., van Asten Freekje, Swaroop Anand, Chew Emily Y.; AREDS and AREDS2 Research Groups
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Higher fish intake is associated with slower cognitive decline over 5 to 10 years in AREDS2
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` In AREDS2, the rate of decline in TICS-M scores over time differed by fish intake quartile (P-interaction = 0.019), with numerically less steep decline in the highest intake quartile. [→ Keenan Tiarnán D. 2020](#keenan-tiarnan-d-2020)
@@ -31,7 +33,7 @@ sources:
 
 Keenan Tiarnán D., Agrón Elvira, Mares Julie A., Clemons Traci E., van Asten Freekje, Swaroop Anand, Chew Emily Y.; AREDS and AREDS2 Research Groups. (2020). Adherence to a Mediterranean diet and cognitive function in the Age-Related Eye Disease Studies 1 & 2. Alzheimer's & Dementia. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8328271/
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Longitudinal mixed-model analysis in AREDS2 with repeated cognitive assessments at baseline, 2, 4, and 10 years, testing fish intake quartile by study year interaction. The article reports "the decline in TICS-M scores over time was numerically less steep for participants in fish intake quartile 4"; no standardized effect size is printed.
 
@@ -41,4 +43,8 @@ Longitudinal mixed-model analysis in AREDS2 with repeated cognitive assessments 
 
 
 ## Related Claims
--
+- [APOE genotype does not modify the association between Mediterranean diet or fish intake and cognitive function](apoe-genotype-no-diet-cognition-interaction.md) — related
+- [Higher fish intake is associated with lower risk of cognitive impairment in older adults](fish-intake-lower-cognitive-impairment-risk.md) — related
+- [Higher Mediterranean diet adherence is not associated with slower cognitive decline over 5 to 10 years](mediterranean-diet-not-associated-slower-decline.md) — related
+- [Individual aMED components: vegetable, nut, and moderate alcohol intakes show protective associations with cognitive function](amed-components-vegetables-nuts-alcohol-protective.md) — related
+- [Higher Mediterranean diet adherence is associated with lower risk of cognitive impairment in older adults without dementia](mediterranean-diet-adherence-lower-cognitive-impairment-risk.md) — related

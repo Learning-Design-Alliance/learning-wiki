@@ -15,18 +15,22 @@ sources:
     author: Ivcevic Zorana; Eggers Catherine
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: ivcevic-zorana-eggers-catherine-2021-2
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8003666/"
     title: "Ivcevic Zorana; Eggers Catherine. (2021). Emotion Regulation Ability: Test Performance and Observer Reports in Predicting Relationship, Achievement and Well-Being Outcomes in Adolescents. International Journal of Environmental Research and Public Health. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8003666/"
     author: Ivcevic Zorana; Eggers Catherine
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Emotion regulation variables predict academic outcomes (GPA and academic honors) beyond Big Five personality traits and gender in high school students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Performance-tested ERA and teacher-observed emotion regulation each independently predict year-end GPA and academic honors after controlling for Big Five traits and gender. [→ Ivcevic Zorana; Eggers Catherine 2021](#ivcevic-zorana-eggers-catherine-2021)
@@ -38,7 +42,7 @@ sources:
 
 Ivcevic Zorana; Eggers Catherine. (2021). Emotion Regulation Ability: Test Performance and Observer Reports in Predicting Relationship, Achievement and Well-Being Outcomes in Adolescents. International Journal of Environmental Research and Public Health. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8003666/
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Hierarchical multiple regression in a sample of 220 high school students showed that adding emotion regulation variables in Step 2 significantly increased explained variance for "academic success variables, supporting Hypothesis 1" with ΔR2 = 0.084 for GPA and ΔR2 = 0.105 for academic honors.
 
@@ -48,7 +52,7 @@ Hierarchical multiple regression in a sample of 220 high school students showed 
 
 Ivcevic Zorana; Eggers Catherine. (2021). Emotion Regulation Ability: Test Performance and Observer Reports in Predicting Relationship, Achievement and Well-Being Outcomes in Adolescents. International Journal of Environmental Research and Public Health. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8003666/
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 The same regression analyses showed both measures were independent predictors: "performance-tested ERA (GPA: β = 0.18, p = 0.02; academic honors: β = 0.17, p = 0.018)" and teacher-reports with β = 0.26 for GPA and β = 0.30 for academic honors.
 
@@ -58,4 +62,10 @@ The same regression analyses showed both measures were independent predictors: "
 
 
 ## Related Claims
--
+- [Performance-tested ERA and teacher-observed emotion regulation are only modestly correlated (r = 0.22), suggesting they measure distinct constructs](era-and-observer-reports-low-correlation.md) — related
+- [Emotion regulation variables do not predict overall subjective happiness beyond Big Five traits and gender, and only performance-tested ERA predicts school satisfaction](era-limited-support-affective-wellbeing.md) — related
+- [Emotion regulation variables predict interpersonal outcomes (peer nominations of understanding others and leadership potential) beyond Big Five traits and gender](era-predicts-interpersonal-outcomes-beyond-big-five.md) — related
+- [Teacher-observed emotion regulation correlates with academic outcomes more strongly than performance-tested ERA does](teacher-observed-er-stronger-academic-correlations.md) — related
+- [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) — related
+- [Of the Big Five personality traits, only conscientiousness (r = .22) and openness (r = .13) correlate appreciably with mathematics achievement](big-five-traits-correlate-weakly-with-math-achievement.md) — related
+- [Trait self-control is significantly associated with major GPA beyond fluid reasoning and conscientiousness in vocational trainees](trait-self-control-incremental-mgpa-vocational-trainees.md) — related

@@ -46,3 +46,4 @@ Bootstrap resampling with 5,000 samples estimated indirect effects and 95% confi
 ## Related Claims
 - [Academic procrastination and learned helplessness positively predict cheating tendency, while academic self-efficacy negatively predicts it among university students](psychological-antecedents-predict-cheating-tendency.md) — a narrower finding that bears on this claim
 - [Cheating tendency significantly predicts AI-assisted academic dishonesty, and the association is stronger at higher levels of AI use](cheating-tendency-predicts-ai-dishonesty-moderated-by-ai-use.md) — a narrower finding that bears on this claim
+- [Sequential mediation through both intellectual helplessness and working memory is not significant](no-sequential-mediation-helplessness-working-memory.md) — related

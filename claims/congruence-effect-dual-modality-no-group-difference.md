@@ -15,18 +15,22 @@ sources:
     author: Bialystok Ellen
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
   - id: bialystok-ellen-2011-2
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3139691/"
     title: "Bialystok Ellen. (2011). Coordination of Executive Functions in Monolingual and Bilingual Children. Journal of Experimental Child Psychology. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3139691/"
     author: Bialystok Ellen
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Match trials are more accurate and faster than mismatch trials in the dual-modality task, with no language group difference
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Match trials were more accurate than mismatch trials (d = 0.99), with no difference between language groups. [→ Bialystok Ellen 2011](#bialystok-ellen-2011)
@@ -38,7 +42,7 @@ sources:
 
 Bialystok Ellen. (2011). Coordination of Executive Functions in Monolingual and Bilingual Children. Journal of Experimental Child Psychology. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3139691/
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 3-way ANOVA for congruence, modality, and language group on accuracy in the dual-modality condition. "match trials were more accurate than mismatch trials, F (1, 61) = 78.65, p < .0001, d = 0.99", with no language group difference or interactions.
 
@@ -48,7 +52,7 @@ Bialystok Ellen. (2011). Coordination of Executive Functions in Monolingual and 
 
 Bialystok Ellen. (2011). Coordination of Executive Functions in Monolingual and Bilingual Children. Journal of Experimental Child Psychology. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3139691/
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 3-way ANOVA on dual-task reaction times categorized by congruence. "match trials were faster than mismatch trials, F (1, 60) = 35.30, p < .0001", with no language group effect and no interactions.
 
@@ -58,4 +62,6 @@ Bialystok Ellen. (2011). Coordination of Executive Functions in Monolingual and 
 
 
 ## Related Claims
--
+- [The dual-task condition is more difficult than the single-task condition, with a condition-by-modality interaction in reaction time](dual-task-difficulty-condition-modality-interaction.md) — related
+- [Bilingual children maintain higher accuracy than monolingual children in a dual-modality classification task, with the advantage limited to the visual task](bilingual-advantage-dual-modality-accuracy-visual-task.md) — reports the opposite
+- [Monolingual and bilingual children perform comparably on single-modality classification tasks in accuracy and speed](no-group-difference-single-modality-classification.md) — related

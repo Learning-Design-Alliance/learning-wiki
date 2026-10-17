@@ -93,3 +93,7 @@ Participants were randomly assigned to one of three groups, and all of them lear
 - [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) — related
 - [Whether timing, intensity, and duration of class size reduction moderate its effect remains an open question in the literature the review synthesises](timing-intensity-duration-moderators-open-question.md) — related
 - [Physical well-being — exercise, sleep, and nutrition — impacts learning](physical-wellbeing-impacts-learning.md) — a broader claim this one bears on
+- [A combined model of demographics, aerobic fitness, and the two critical activity windows accounts for over 30% of variance in long-term memory retention](combined-model-memory-retention-variance.md) — related
+- [A single bout of open-skill exercise improves short-term memory performance in primary-school children of both age groups (7–8 and 9–10 years).](open-skill-exercise-improves-stm-both-ages.md) — related
+- [Spending more time sedentary 1 to 2 hours after encoding is associated with better long-term memory retention, implying physical activity in that window is detrimental](post-encoding-activity-detrimental-to-memory.md) — related
+- [Physical activity in the hour before memory retrieval is associated with superior memory retention, while sedentary time in that window is negatively associated](pre-retrieval-activity-benefits-memory.md) — a narrower finding that bears on this claim

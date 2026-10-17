@@ -54,3 +54,4 @@ Hierarchical linear regression predicting Time 2 self-efficacy from feedback, ag
 - [Older adults set lower self-determined learning goals than younger adults](older-adults-lower-learning-goals.md) — related
 - [Dispositional performance goals negatively predict memory self-efficacy in younger and older adults](performance-goals-predict-lower-memory-self-efficacy.md) — related
 - [Random assignment to feedback conditions produced groups comparable in cognitive ability and control beliefs within each age group](random-assignment-produced-comparable-feedback-groups.md) — related
+- [Fake social-comparative feedback combined with fictional malleability information successfully induces large changes in self-efficacy beliefs](fake-feedback-induces-self-efficacy-changes.md) — possibly the same claim (merge candidate)

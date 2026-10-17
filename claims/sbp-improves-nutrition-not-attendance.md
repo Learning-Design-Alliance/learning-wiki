@@ -15,18 +15,22 @@ sources:
     author: Frisvold David E.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: frisvold-david-e-2015-2
     resource: "https://doi.org/10.1016/j.jpubeco.2014.12.003"
     title: "Frisvold David E. (2015). Nutrition and Cognitive Achievement: An Evaluation of the School Breakfast Program. Journal of Public Economics. https://doi.org/10.1016/j.jpubeco.2014.12.003"
     author: Frisvold David E.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # A binding SBP mandate increases milk and fruit consumption and decreases soda consumption, but its effects on attendance are imprecise, suggesting the achievement effect operates through improved nutrition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A binding state mandate increases milk consumption by 2.7 servings per week (26 percent of the mean), fruit consumption by 1.2 servings per week (16 percent of the mean), and decreases soda consumption by 0.8 servings per week (13 percent of the mean). [→ Frisvold David E 2015](#frisvold-david-e-2015)
@@ -38,7 +42,7 @@ sources:
 
 Frisvold David E. (2015). Nutrition and Cognitive Achievement: An Evaluation of the School Breakfast Program. Journal of Public Economics. https://doi.org/10.1016/j.jpubeco.2014.12.003
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 ECLS-K mechanism analysis using student-reported 7-day food consumption (panels B and C of Table 8). The study notes the nutrition data are self-reported and do not measure nutrients, but concludes "the results suggest that the availability of the SBP improves nutrition".
 
@@ -48,7 +52,7 @@ ECLS-K mechanism analysis using student-reported 7-day food consumption (panels 
 
 Frisvold David E. (2015). Nutrition and Cognitive Achievement: An Evaluation of the School Breakfast Program. Journal of Public Economics. https://doi.org/10.1016/j.jpubeco.2014.12.003
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 ECLS-K mechanism analysis of administrative attendance records distinguishing excused and unexcused absences and tardies (panel D of Table 8). The study reports the estimates "are not estimated precisely" and that excused absences and tardiness show similarly large relative magnitudes in the opposite direction, so an attendance mechanism is difficult to conclude.
 
@@ -58,4 +62,9 @@ ECLS-K mechanism analysis of administrative attendance records distinguishing ex
 
 
 ## Related Claims
--
+- [A binding state mandate makes schools 33 percentage points more likely to offer the SBP, and SBP availability increases math, reading, and science achievement in ECLS-K data](sbp-availability-increases-ecls-k-achievement.md) — related
+- [Falsification tests show a binding SBP mandate is unrelated to achievement upon school entry, Title I funding, principal experience, and vigorous exercise frequency](sbp-mandate-falsification-tests-null.md) — related
+- [Robust RCTs of school breakfast programs failed to find behavioral benefits, with low and variable attendance and a shift from at-home to at-school consumption limiting impact](sbp-rcts-null-behavior-attendance-limits.md) — related
+- [The effect of a binding SBP mandate is larger for low-income students, males, and students from larger families, and does not vary with threshold levels from 10 to 40 percent](sbp-mandate-heterogeneity-low-income-males.md) — related
+- [A binding state SBP mandate increases 4th-grade math achievement by 2.2 points (7.7% of a standard deviation) and reading by 2.0 points (5.4% of a standard deviation) in NAEP difference-in-differences estimates](sbp-mandate-increases-naep-achievement-dd.md) — related
+- [Each year of attending a school with a binding SBP mandate increases math achievement by 0.572 points (2.7% of a standard deviation), reading by 0.470 points (2.0%), and science by 0.130 points (0.9%)](sbp-years-of-exposure-achievement.md) — related

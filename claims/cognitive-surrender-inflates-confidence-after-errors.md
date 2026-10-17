@@ -53,3 +53,4 @@ The paper reports, citing Shaw and Nave's experimental work, that 'AI assistance
 - [Practitioners who adopt AI assistance show reduced independent performance compared to their baseline](ai-adoption-reduced-independent-practitioner-performance.md) — related
 - [Warning labels alone did not improve performance or reduce reliance on GenAI advice, and students sometimes adopted incorrect AI answers](genai-warning-labels-insufficient-reliance.md) — a narrower finding that bears on this claim
 - [Reflection produced selective rather than blanket rejection of AI: alignment with correct advice stayed high while alignment with incorrect advice dropped](reflection-selective-not-blanket-ai-rejection.md) — a narrower finding that bears on this claim
+- [Post-error behavioural adjustments can occur automatically, dissociated from explicit error detection](implicit-post-error-adjustment-typists.md) — related

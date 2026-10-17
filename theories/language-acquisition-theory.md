@@ -12,7 +12,7 @@ generated:
 # Language Acquisition Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (2 associational, 1 causal, 1 review), `q2`–`q3` · 0 of 4 report an effect size · 1 claim rests on one study
+> **Evidence** · 8 claims (7 for, 1 mixed) · 6 studies (3 associational, 2 review, 1 causal), `q2`–`q3` · 0 of 6 report an effect size · 7 claims rest on one study
 
 ## Description
 How children acquire language so quickly and reliably, without formal instruction, is a long-running theoretical debate with three main competing accounts.
@@ -42,6 +42,12 @@ The current consensus among researchers is that no single account is sufficient 
 
 - [Back-and-forth conversational turns with adults are more critical to children's language development and brain physiology than sheer quantity of words heard](../claims/conversational-turns-predict-language-development.md) [+W]
 - [Producing modified output involving developmentally advanced question forms in response to negative feedback is the only significant predictor of ESL question development](../claims/modified-output-advanced-forms-predicts-question-development.md) [+W] — attached 2026-10-15 from Kim McDonough (2005), which proposed "Pienemann and Johnston's developmental sequence for ESL question formation as an operationalization of L2 development"; tests this page's relationship.
+- [Maternal talk influences on vocabulary and processing speed are largely overlapping, with each mediating the other's relation to input](../claims/overlapping-influences-input-vocabulary-processing.md) [+W] — attached 2026-10-17 from Hurtado Nereyda et al. (2008), which proposed "Vocabulary knowledge and speech processing efficiency are interdependent within a synergistic, bidirectional language-learning system shaped by caregiver input"; tests this page's relationship.
+- [Maternal talk quantity at 18 months predicts Spanish-learning children's vocabulary size and vocabulary gains at 24 months, controlling for earlier vocabulary](../claims/maternal-input-quantity-predicts-vocabulary-gains-spanish-learners.md) [+W] — attached 2026-10-17 from Hurtado Nereyda et al. (2008), which proposed "Vocabulary knowledge and speech processing efficiency are interdependent within a synergistic, bidirectional language-learning system shaped by caregiver input".
+- [Children of mothers who produced more word tokens at 18 months were faster to recognize familiar words at 24 months](../claims/maternal-input-predicts-faster-word-recognition.md) [+W] — attached 2026-10-17 from Hurtado Nereyda et al. (2008), which proposed "Vocabulary knowledge and speech processing efficiency are interdependent within a synergistic, bidirectional language-learning system shaped by caregiver input".
+- [Prosodic and sound-level features of child-directed speech support infants' phoneme discrimination, word segmentation, and word learning](../claims/cds-prosody-supports-phoneme-segmentation.md) [+W] — attached 2026-10-17 from Schwab Jessica F. (2016), which proposed "Child-directed speech as a multi-feature input register whose prosodic, structural, and social characteristics differentially drive early language learning"; tests this page's relationship.
+- [Social contingency in parent–child interaction supports early language learning, and infants actively elicit higher-quality input through a social feedback loop](../claims/social-feedback-loop-contingency-language.md) [+W] — attached 2026-10-17 from Schwab Jessica F. (2016), which proposed "Child-directed speech as a multi-feature input register whose prosodic, structural, and social characteristics differentially drive early language learning"; tests this page's relationship.
+- [Infants' preference for and learning benefit from child-directed speech change over development, with CDS advantages diminishing by the third year](../claims/cds-benefits-vary-developmental-window.md) [~W] — attached 2026-10-17 from Schwab Jessica F. (2016), which proposed "Child-directed speech as a multi-feature input register whose prosodic, structural, and social characteristics differentially drive early language learning".
 
 ## Related Theories
 

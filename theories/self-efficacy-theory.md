@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 28 claims (22 for, 5 mixed, 1 against) · 25 studies (13 associational, 7 review, 3 causal, 1 design, 1 theoretical), `q1`–`q3` · 2 of 25 report an effect size · 27 claims rest on one study
+> **Evidence** · 30 claims (24 for, 5 mixed, 1 against) · 26 studies (13 associational, 7 review, 4 causal, 1 design, 1 theoretical), `q1`–`q3` · 3 of 26 report an effect size · 29 claims rest on one study
 
 ## Description
 Self-efficacy is "people's beliefs in their ability to perform a course of action required to achieve a specific task" (Bandura, 1977). The theory's central claim is specificity: self-efficacy is not a general trait like self-confidence or self-concept, and it is not the same as documented ability. A learner's self-efficacy for "correctly subtracting fractions" is a distinct belief from their self-efficacy for "writing a persuasive essay," even though both might contribute to a broader (and much less predictive) sense of being "good at school" (Seifert & Sutton, 2018). Because self-efficacy beliefs are self-constructed rather than measured, they can diverge from true capability in either direction; the most functional level is at or slightly above actual capacity (Bandura, 1997).
@@ -75,6 +75,8 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Technological self-efficacy significantly but modestly predicts faculty AI well-being](../claims/technological-self-efficacy-modest-predictor-ai-well-being.md) [+W]
 - [Agriculture teachers' self-efficacy is positively related to career persistence indicators such as career commitment and job satisfaction](../claims/self-efficacy-positive-career-persistence-agriculture-teachers.md) [+W]
 - Los estudiantes que mejoraron sus niveles de autoeficacia presentaron avances significativos y menor carga cognitiva extrínseca. [+W] — attached 2026-10-15 from Ramírez Ruiz (2018), which proposed "Teoría social cognitiva de la autoeficacia y la agencia humana (Bandura) como marco del andamiaje motivacional"; tests this page's relationship.
+- [Participants induced to hold high self-efficacy show greater improvement in visual discrimination sensitivity than participants induced to hold low self-efficacy](../claims/high-self-efficacy-improves-visual-discrimination-sensitivity.md) [+M] — attached 2026-10-17 from Zacharopoulos G et al. (2014), which proposed "Self-efficacy theory as a social-cognitive account of behavioural change"; tests this page's relationship.
+- [Fake social-comparative feedback combined with fictional malleability information successfully induces large changes in self-efficacy beliefs](../claims/fake-feedback-induces-self-efficacy-changes.md) [+M] — attached 2026-10-17 from Zacharopoulos G et al. (2014), which proposed "Self-efficacy theory as a social-cognitive account of behavioural change".
 
 ## The evidence by question
 

@@ -49,3 +49,4 @@ SCR comparison across the three conditions of the 123-participant experiment; co
 - [Students assisted by a gender-biased LLM produce career-plan essays with a significantly larger male-female agentic gap than students in neutral-LLM and no-AI control conditions](biased-llm-assistance-increases-agentic-gap-student-essays.md) — related
 - [A gender-biased system prompt induces large gender-differentiated language in LLM-generated career essays, while a neutral prompt does not](biased-prompt-induces-gender-differentiated-llm-essays.md) — related
 - [Bias transfer is asymmetric: prompt condition affects agency in female-target essays but not male-target essays, suppressing female agency while male writing remains stable](asymmetric-female-agency-suppression-bias-transfer.md) — related
+- [Fixed mindsets predict stronger stereotyping and trait inferences, with experimental evidence of a causal role](fixed-mindset-predicts-stereotyping.md) — related

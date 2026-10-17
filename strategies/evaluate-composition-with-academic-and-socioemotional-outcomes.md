@@ -39,7 +39,7 @@ The article recommends broadening evaluation of school composition beyond test s
 - Academic achievement
 
 ### Affordances
-- [Diversity Belongingness Integrative Model](../theories/diversity-belongingness-integrative-model.md)
+- Diversity Belongingness Integrative Model
 
 ## Related Strategies
 - 

@@ -152,3 +152,4 @@ Meta-analysis of 41 studies on parental involvement and academic achievement in 
 - Redwood City family engagement participation linked to larger math gains, better attendance, and stronger sense of care — related
 - [The parental involvement–achievement relationship is stronger for global achievement indicators (e.g., GPA) than for subject-specific indicators (e.g., math grade)](involvement-stronger-with-global-achievement-indicators.md) — a narrower finding that bears on this claim
 - [Parental involvement has a small to moderate, practically meaningful relationship with students' academic achievement](parental-involvement-small-to-moderate-achievement-relationship.md) — a broader claim this one bears on
+- [Parental factors: autonomous motivation relates to adolescent creativity more strongly with high maternal involvement](maternal-involvement-moderates-autonomous-motivation-creativity.md) — related

@@ -15,12 +15,14 @@ sources:
     author: Reigal, R. E., Hernández-Mendo, A., Juárez-Ruiz de Mier, R., and Morales-Sánchez, V.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # The most active and fittest adolescent group achieved the best psychosocial indicator scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Group differences by exercise amount showed the most active and fittest group scored best on psychosocial indicators such as self-efficacy, self-rated health, and life satisfaction. [→ Reigal 2020](#reigal-2020)
@@ -31,7 +33,7 @@ sources:
 
 Reigal, R. E., Hernández-Mendo, A., Juárez-Ruiz de Mier, R., and Morales-Sánchez, V. (2020). Physical Exercise and Fitness Level Are Related to Cognitive and Psychosocial Functioning in Adolescents. Front. Psychol. 11:1777. https://doi.org/10.3389/fpsyg.2020.01777
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Between-group comparisons in the discussion of the 208-adolescent study state that "the most active and ﬁttest group achieved the best scores for psychosocial indicators," consistent with the ANOVA results for general self-efficacy, somatic symptoms, anxiety and insomnia, and life satisfaction.
 
@@ -41,4 +43,6 @@ Between-group comparisons in the discussion of the 208-adolescent study state th
 
 
 ## Related Claims
--
+- [Exercise-hour groups differ on fitness, cognitive, and several psychosocial variables, but not on social dysfunction or severe depression](anova-group-differences-cognitive-psychosocial.md) — a broader claim this one bears on
+- [Cardiorespiratory fitness predicts nearly all cognitive and psychosocial measures, with anxiety/insomnia predicted by horizontal jump and life satisfaction by fat mass](vo2max-predicts-cognitive-psychosocial.md) — related
+- [Cardiorespiratory fitness (VO2max) is the physical fitness measure most strongly correlated with cognitive functioning in adolescents](vo2max-best-correlated-cognition.md) — related

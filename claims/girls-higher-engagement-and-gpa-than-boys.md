@@ -15,12 +15,14 @@ sources:
     author: Borofsky Larissa A., Kellerman Ilana, Baucom Brian, Oliver Pamella H., Margolin Gayla
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Girls report higher school engagement at time 1 and higher cumulative GPA than boys
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` T-tests showed girls reported more time 1 school engagement and had higher cumulative GPAs than boys. [→ Borofsky Larissa A. 2013](#borofsky-larissa-a-2013)
@@ -31,7 +33,7 @@ sources:
 
 Borofsky Larissa A., Kellerman Ilana, Baucom Brian, Oliver Pamella H., Margolin Gayla. (2013). Community Violence Exposure and Adolescents' School Engagement and Academic Achievement Over Time. Psychology of Violence. https://doi.org/10.1037/a0034121
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Descriptive t-test comparisons in the full sample of 118 (59 girls, 59 boys); GPA means were 3.13 for girls versus 2.71 for boys (n = 48 each). Gender was also a significant GPA covariate in the mediation models.
 
@@ -41,4 +43,7 @@ Descriptive t-test comparisons in the full sample of 118 (59 girls, 59 boys); GP
 
 
 ## Related Claims
--
+- [Latino girls reported higher belonging and achievement than boys, and Latino subgroup and parent-education differences emerged in the sixth grade](latino-gender-subgroup-covariate-differences.md) — related
+- [Ninth-grade GPAs varied substantially by gender, race/ethnicity, neighborhood SES, incoming test scores, course level, and school](ninth-grade-gpa-demographic-variation.md) — related
+- [Background characteristics independently predict 9th-grade off-track indicators: boys are 1.7 times as likely to be suspended and 3.5 times as likely to have a GPA below a C than girls](background-covariates-predict-off-track.md) — related
+- [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — related

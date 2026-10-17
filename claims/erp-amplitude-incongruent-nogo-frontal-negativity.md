@@ -46,3 +46,4 @@ ERP ANOVAs in 27 children with usable EEG data from the combined Flanker-Go/No-G
 - [Children show larger and more sustained frontal ERP conflict effects than adults, indicating less efficient executive attention](children-larger-sustained-erp-conflict-effects-than-adults.md) — related
 - [Number-size/location congruency modulates the early sensory N100 only in sighted participants](n100-congruency-modulation-sighted-only.md) — related
 - [Number-size/location congruency modulates the cognitive P300 only in blind participants](p300-congruency-modulation-blind-only.md) — related
+- [Metacognitive scaffolding plus executive attention training yields significant increases in the N2 ERP component associated with conflict processing in preschoolers](metacognitive-scaffolding-n2-erp-increase-children.md) — related

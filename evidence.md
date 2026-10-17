@@ -19,14 +19,13 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 67 | 559 | 212 | 332 | 1,170 |
-| quant-synthesis | 60 | 114 | 38 | 118 | 330 |
-| review | 81 | 325 | 90 | 123 | 619 |
-| associational | 44 | 686 | 291 | 252 | 1,273 |
-| qualitative | 103 | 260 | 64 | 82 | 509 |
+| causal | 67 | 582 | 218 | 333 | 1,200 |
+| quant-synthesis | 61 | 115 | 38 | 118 | 332 |
+| review | 86 | 342 | 91 | 123 | 642 |
+| associational | 52 | 746 | 303 | 256 | 1,357 |
+| qualitative | 106 | 262 | 64 | 83 | 515 |
 | design | 49 | 504 | 130 | 30 | 713 |
-| theoretical | 84 | 258 | 49 | 53 | 444 |
-| not yet coded | | | | | 147 |
+| theoretical | 84 | 260 | 49 | 53 | 446 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
@@ -142,9 +141,9 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [methods](methods/index.md) | 38 | 21 | 1 | 0 |
 | [theories](theories/index.md) | 1,361 | 889 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 74 | 74 | 33 | 0 |
-| [designs](designs/index.md) | 797 | 467 | 1 | 0 |
-| [products](products/index.md) | 1,665 | 1,120 | 1 | 0 |
-| [research-methods](research-methods/index.md) | 340 | 339 | 1 | 0 |
+| [designs](designs/index.md) | 819 | 481 | 1 | 0 |
+| [products](products/index.md) | 1,691 | 1,132 | 1 | 0 |
+| [research-methods](research-methods/index.md) | 346 | 344 | 1 | 0 |
 
 ## Toward pooled estimates
 

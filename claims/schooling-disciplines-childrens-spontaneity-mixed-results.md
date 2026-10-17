@@ -15,12 +15,14 @@ sources:
     author: Preiss David D.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Schooling disciplines and constrains children's spontaneity in idea generation with mixed results
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` As children are schooled, their creativity is disciplined and constrained by teacher expectations, probably through a Vygotskian process of internalization, with mixed results for spontaneity in idea generation. [→ Preiss David D 2022](#preiss-david-d-2022)
@@ -31,7 +33,7 @@ sources:
 
 Preiss David D. (2022). Metacognition, Mind Wandering, and Cognitive Flexibility: Understanding Creativity. Journal of Intelligence. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9500634/
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in the review about the developmental role of schooling: children learn domain rules through schooling, which educates and regulates spontaneity in idea generation with mixed results. The author cites Vygotsky's internalization process as the probable mechanism.
 
@@ -41,4 +43,5 @@ Theoretical argument in the review about the developmental role of schooling: ch
 
 
 ## Related Claims
--
+- [Metacognition may limit creativity during the generative stage but facilitate it during the exploratory stage](metacognition-dual-impact-generative-exploratory-stages.md) — related
+- [The creativity-related component of flexibility is spontaneous flexibility, the ability to generate diverse responses driven by internal stimuli](spontaneous-flexibility-creativity-children.md) — related

@@ -43,4 +43,5 @@ Strategy-frequency ANOVA (2 operations × 2 groups) in a matched-groups study of
 
 
 ## Related Claims
--
+- [Simple subtraction in adults relies heavily on strategy use, which disadvantages participants under limited working memory resources](adult-subtraction-strategy-reliance-working-memory-cost.md) — related
+- [Adults with DD rely on time-consuming back-up strategies like finger usage for single-digit arithmetic, with prolonged response latencies that appear number-specific](dd-adults-backup-strategies-prolonged-latencies.md) — related

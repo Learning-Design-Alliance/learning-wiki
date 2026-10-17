@@ -46,3 +46,5 @@ Supplementary model test at age 5.25 comparing two-factor EC structures against 
 - [By age 5.25, executive tasks load significantly and consistently on a distinct EC latent factor](ec-distinct-factor-by-age-5-25.md) — related
 - [Latent EC at age 3 does not predict mathematics achievement, but EC at ages 3.75, 4.5, and 5.25 shows independent prospective links with mathematics](ec-predicts-math-from-3-75-onward.md) — related
 - [EC factor loadings on executive tasks strengthen and stabilize across the preschool period](ec-loadings-strengthen-stabilize-preschool.md) — related
+- [Working memory capacity increases with age independently of knowledge, encoding speed, and articulation](developmental-capacity-gain-primary.md) — related
+- [The four effortful control subscales load onto a single latent factor in preschoolers](ec-subscales-load-onto-latent-factor.md) — related

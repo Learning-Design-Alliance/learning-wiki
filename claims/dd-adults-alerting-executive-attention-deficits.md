@@ -15,12 +15,14 @@ sources:
     author: Liane Kaufmann, Michael von Aster, Silke M. Göbel, Josef Marksteiner, and Elise Klein
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Adults with DD show deficient alerting and executive attention with preserved orienting, indicating domain-general deficits beyond number processing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Using the attention network task, adults with DD without comorbid attention disorders showed deficient alerting and executive attention while orienting attention was preserved. [→ Liane Kaufmann 2020](#liane-kaufmann-2020)
@@ -31,7 +33,7 @@ sources:
 
 Liane Kaufmann, Michael von Aster, Silke M. Göbel, Josef Marksteiner, and Elise Klein. (2020). Developmental Dyscalculia in Adults: Current Issues and Open Questions for Future Research. Lernen und Lernstörungen, 9(2), 126–137. https://doi.org/10.1024/2235-0977/a000294
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 Review reports Ashkenazi and Henik (2010) ANT-I study in adults with DD: "deficient alerting and executive attention" with preserved orienting. The authors attributed alerting difficulties to abnormal IPS functioning and executive deficits to possible prefrontal dysfunction.
 
@@ -41,4 +43,6 @@ Review reports Ashkenazi and Henik (2010) ANT-I study in adults with DD: "defici
 
 
 ## Related Claims
--
+- [Adults with DD show deficient time/duration processing but preserved length processing, with mixed findings across studies](dd-adults-time-duration-deficit-length-mixed.md) — related
+- [Adults with DD show deficient conceptual size processing with preserved physical size processing, supporting shared magnitude substrates](dd-adults-conceptual-size-dissociation.md) — related
+- [Adults with DD show a smaller subitizing range and impaired enumeration of random sets across visual and tactile modalities](dd-adults-subitizing-enumeration-deficits.md) — related

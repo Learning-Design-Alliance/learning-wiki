@@ -15,12 +15,14 @@ sources:
     author: Véronique Cornu, Caroline Hornung, Christine Schiltz, Romain Martin
     q: 3
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # The relation between kindergarten spatial orientation and arithmetic is partially mediated by number line estimation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r?` · `q3`
 
 ## Subclaims
 `q3 i?` The relation between spatial orientation and arithmetic was partially mediated by the number line estimation task. [→ Véronique Cornu 2017](#veronique-cornu-2017)
@@ -31,7 +33,7 @@ sources:
 
 Véronique Cornu, Caroline Hornung, Christine Schiltz, Romain Martin. (2017). The predictive role of spatial skills for arithmetic and number line estimation in kindergarten children. https://doi.org/10.1016/j.cogdev.2017.09.002
 
-`q3 · i?`
+`q3 · i?` · `associational · r?`
 
 Mediation analysis reported in the longitudinal study of kindergarten children (N = 125), testing whether number line estimation accounted for the spatial orientation–arithmetic relation. The article reports that "The relation between spatial orientation and arithmetic was partially mediated by the number line estimation task"; mediation was partial, not full.
 
@@ -41,4 +43,6 @@ Mediation analysis reported in the longitudinal study of kindergarten children (
 
 
 ## Related Claims
--
+- [Kindergarten spatial orientation performance longitudinally predicts number line estimation performance four months later](spatial-orientation-predicts-number-line-estimation.md) — related
+- [Kindergarten spatial orientation performance longitudinally predicts arithmetic performance four months later](spatial-orientation-predicts-arithmetic-kindergarten.md) — related
+- [Some aspects of spatial skills are more predictive of mathematical development than others, so the construct must be differentiated](spatial-skills-aspects-differ-in-math-predictivity.md) — related

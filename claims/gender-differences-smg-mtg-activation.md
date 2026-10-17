@@ -15,12 +15,14 @@ sources:
     author: Kleibeuker, S. W., Koolschijn, P. C. M. P., Jolles, D. D., De Dreu, C. K. W., and Crone, E. A.
     q: 3
     i: 2
+    kind: causal
+    rigour: 1
 ---
 
 # Males show larger AU > OC activation discrepancies than females in left SMG and left MTG, with no age-related differences in these gender effects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r1` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` ROI analyses revealed significant gender × condition interaction effects for left SMG (η2 = 0.10) and left MTG (η2 = 0.14), with larger discrepancies for males relative to females. [→ Kleibeuker 2013](#kleibeuker-2013)
@@ -31,7 +33,7 @@ sources:
 
 Kleibeuker, S. W., Koolschijn, P. C. M. P., Jolles, D. D., De Dreu, C. K. W., and Crone, E. A. (2013). The neural coding of creative idea generation across adolescence and early adulthood. Frontiers in Human Neuroscience 7:905. https://doi.org/10.3389/fnhum.2013.00905
 
-`q3 · i2`
+`q3 · i2` · `causal · r1`
 
 Explorative whole-brain analyses showed no significant gender effects; ROI mixed ANOVAs on contrast estimates for four functional ROIs revealed "signiﬁcant interaction effects" for gender × condition in left SMG (η2 = 0.10) and left MTG (η2 = 0.14), with larger discrepancies for males. No effects for lAG and lIFG/MFG.
 
@@ -41,4 +43,5 @@ Explorative whole-brain analyses showed no significant gender effects; ROI mixed
 
 
 ## Related Claims
--
+- [AU and OC conditions show distinct correlation patterns with external creativity and fluency measures, supporting their differentiation as divergent thinking versus verbal ability conditions](au-oc-conditions-distinct-correlation-patterns.md) — related
+- [Generating alternative uses relative to ordinary characteristics recruits mainly left temporo-parietal regions (left SMG, left AG, bilateral MTG) in both adolescents and adults](creative-idea-generation-left-temporo-parietal-recruitment.md) — related

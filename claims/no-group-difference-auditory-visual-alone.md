@@ -15,12 +15,14 @@ sources:
     author: Lorin Lachs, David B. Pisoni, and Karen Iler Kirk
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # No significant group-level difference between auditory-alone and visual-alone sentence recognition, with substantial individual modality preferences
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` There was no significant difference between auditory-alone and visual-alone performance, t(19) = −0.72, n.s.; individually, eight children had higher visual-alone scores, nine higher auditory-alone, and three equal. [→ Lorin Lachs 2001](#lorin-lachs-2001)
@@ -31,7 +33,7 @@ sources:
 
 Lorin Lachs, David B. Pisoni, and Karen Iler Kirk. (2001). Use of Audiovisual Information in Speech Perception by Prelingually Deaf Children with Cochlear Implants. Ear Hear. 2001 June ; 22(3): 236–251. https://www.ncbi.nlm.nih.gov/pmc/
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Paired comparison of unimodal Common Phrases Test scores for the 20 children tested in both conditions. The article reports "no significant difference between performance in the two “unimodal” presentation conditions"; equivalence was not tested beyond this nonsignificant test. No effect size was printed.
 
@@ -41,4 +43,6 @@ Paired comparison of unimodal Common Phrases Test scores for the 20 children tes
 
 
 ## Related Claims
--
+- [Audiovisual presentation yields significantly higher sentence recognition than auditory-alone presentation for most children with cochlear implants](av-sentence-recognition-exceeds-auditory-alone-ci-children.md) — related
+- [Audiovisual sentence performance approximates the simple sum of unimodal scores, with no super-additive integration for familiar sentences](no-super-additive-av-integration-familiar-sentences.md) — related
+- [Children with higher auditory-alone spoken word recognition scores show higher audiovisual gain, for easy-word measures but not the hardest tests](auditory-word-recognition-predicts-av-gain-ci-children.md) — related

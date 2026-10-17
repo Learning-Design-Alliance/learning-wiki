@@ -15,12 +15,14 @@ sources:
     author: Wodtke, Geoffrey T.; Harding, David J.; Elwert, Felix
     q: 2
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Neighborhood effects on graduation appear to operate in part through neighborhood effects on parents (time-varying family characteristics)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The authors interpret their findings as indicating that neighborhood effects on children are mediated by time-varying family characteristics such as parental employment and marital status. [→ Wodtke 2011](#wodtke-2011)
@@ -31,7 +33,7 @@ sources:
 
 Wodtke, Geoffrey T.; Harding, David J.; Elwert, Felix. (2011). Neighborhood Effects in Temporal Perspective. American Sociological Review. https://doi.org/10.1177/0003122411420816
 
-`q2 · i?`
+`q2 · i?` · `associational · r3`
 
 Authors' interpretation of the IPT-weighted PSID results: because IPT weighting retains indirect pathways through time-varying covariates, the larger estimates are read as evidence that "neighborhood effects on children operate in part through neighborhood effects on parents."
 
@@ -41,4 +43,7 @@ Authors' interpretation of the IPT-weighted PSID results: because IPT weighting 
 
 
 ## Related Claims
--
+- [Educational processes fully mediate the effects of structural family characteristics and parental beliefs and interests on children's social–emotional competence](educational-processes-fully-mediate-home-environment-effects-on-social-emotional-competence.md) — related
+- [Housing tenure, marital status, maternal age and financial difficulties are each significantly associated with ADHD at age 7 in unadjusted analysis](unadjusted-ses-predictors-adhd-housing-marital-age.md) — related
+- [Intergenerational ties in the community contribute positively to student learning, per research cited in the report](intergenerational-ties-contribute-student-learning.md) — related
+- [Sustained exposure to the most disadvantaged neighborhoods from age 2 to 17 substantially reduces the probability of high school graduation for both black and nonblack children](sustained-neighborhood-disadvantage-reduces-high-school-graduation.md) — related

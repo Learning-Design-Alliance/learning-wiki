@@ -52,3 +52,4 @@ Same adjusted main-effects regression on the weighted ECLS-B sample (N = 4,750);
 - [More positive parenting is associated with higher parent-reported curiosity at kindergarten in a nationally representative US sample](positive-parenting-associated-higher-kindergarten-curiosity.md) — related
 - [Meta-analyses find parental involvement associated with better student outcomes, effect sizes 0.2 to 0.75 standard deviations](parental-involvement-meta-analyses-effect-sizes.md) — a broader claim this one bears on
 - [Living in a very safe neighborhood is associated with higher kindergarten curiosity, but only for lower- and middle-resourced children](very-safe-neighborhood-higher-curiosity-lower-middle-ses.md) — related
+- [Preliminary cross-sectional data suggest curiosity may be unaffected by age or schooling in early childhood](curiosity-may-be-unaffected-by-age-or-schooling.md) — related

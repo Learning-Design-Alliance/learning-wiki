@@ -15,18 +15,22 @@ sources:
     author: "Thevenot, C., Dewi, J., Bagnoud, J., Wolfer, P., Fayol, M., & Castel, C."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
   - id: thevenot-2018-2
     resource: "https://eric.ed.gov/?id=ED"
     title: "Thevenot, C., Dewi, J., Bagnoud, J., Wolfer, P., Fayol, M., & Castel, C. (2018). The use of automated procedures by older adults with high arithmetic skills during addition problem solving. https://eric.ed.gov/?id=ED"
     author: "Thevenot, C., Dewi, J., Bagnoud, J., Wolfer, P., Fayol, M., & Castel, C."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Older adults were slower than young adults overall on solution times, with no age difference in accuracy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Older adults' solution times (872 ms) were slower than younger adults' (771 ms), while accuracy did not differ between age groups. [→ Thevenot 2018](#thevenot-2018)
@@ -38,7 +42,7 @@ sources:
 
 Thevenot, C., Dewi, J., Bagnoud, J., Wolfer, P., Fayol, M., & Castel, C. (2018). The use of automated procedures by older adults with high arithmetic skills during addition problem solving. https://eric.ed.gov/?id=ED
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 ANOVA on solution times in the sign priming experiment with matched high-skill samples (18 older, 26 young). "older adults were slower (872 ms) than younger ones (771 ms)", ηp2 = .18, with no Operation × Age interaction.
 
@@ -48,7 +52,7 @@ ANOVA on solution times in the sign priming experiment with matched high-skill s
 
 Thevenot, C., Dewi, J., Bagnoud, J., Wolfer, P., Fayol, M., & Castel, C. (2018). The use of automated procedures by older adults with high arithmetic skills during addition problem solving. https://eric.ed.gov/?id=ED
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Accuracy ANOVA (mean .97 correct) in the same experiment: the Age effect on correct-response rates was not significant and did not interact with any variable; no effect size was printed.
 
@@ -58,4 +62,7 @@ Accuracy ANOVA (mean .97 correct) in the same experiment: the Age effect on corr
 
 
 ## Related Claims
--
+- [Older adults' slowdown relative to young adults is far smaller for problems interpreted as procedurally solved than for retrieval-solved problems](differential-aging-cost-procedure-vs-retrieval.md) — related
+- [Problem type modulated solution times, with large problems slowest and +1 problems fastest in both age groups](problem-type-solution-time-structure.md) — related
+- [Presenting the '+' sign 150 ms before operands speeds up addition problem solving in expert older adults, replicating the effect found in young adults](sign-priming-addition-older-adults.md) — related
+- [Older adults can think as divergently as young adults but do so at a slower rate and require more time](older-adults-divergent-thinking-slower-rate.md) — related

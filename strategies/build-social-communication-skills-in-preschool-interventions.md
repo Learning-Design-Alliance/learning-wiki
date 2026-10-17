@@ -40,7 +40,7 @@ The authors recommend that "strategies to build social communication skills be i
 - kindergarten readiness
 
 ### Affordances
-- [Structural Versus Social Communication Language Dimensions](../theories/structural-versus-social-communication-language-dimensions.md)
+- Structural Versus Social Communication Language Dimensions
 
 ## Related Strategies
 - 

@@ -41,4 +41,4 @@ The review reports Lupyan and Thompson-Schill's behavioral finding that "perform
 
 
 ## Related Claims
--
+- [Learning in-depth semantic associations with novel objects facilitates recognition and attenuates viewpoint dependency](semantic-associations-attenuate-viewpoint-dependency.md) — related

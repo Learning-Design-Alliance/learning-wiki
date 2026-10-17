@@ -15,18 +15,22 @@ sources:
     author: Ottoboni Giovanni, Ceciliani Andrea, Tessari Alessia
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: ottoboni-giovanni-2021-2
     resource: "https://doi.org/10.3390/ijerph18147545"
     title: "Ottoboni Giovanni, Ceciliani Andrea, Tessari Alessia. (2021). The Effect of Structured Exercise on Short-Term Memory Subsystems: New Insight on Training Activities. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph18147545"
     author: Ottoboni Giovanni, Ceciliani Andrea, Tessari Alessia
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # A single bout of closed-skill exercise improves short-term memory performance only in older primary-school children (9–10 years), not in 7–8-year-olds.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Closed-skill (agility circuit) exercise improved STM at post-test in children aged 9–10 (p = 0.046) but showed no effect in children aged 7–8. [→ Ottoboni Giovanni 2021 (2)](#ottoboni-giovanni-2021-2)
@@ -37,7 +41,7 @@ sources:
 
 Ottoboni Giovanni, Ceciliani Andrea, Tessari Alessia. (2021). The Effect of Structured Exercise on Short-Term Memory Subsystems: New Insight on Training Activities. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph18147545
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 In the 125-child three-group school experiment, the closed-skill agility circuit condition showed no improvement in the younger group, "no effect of both closed-skill and control activities (p > 0.05)".
 
@@ -47,7 +51,7 @@ In the 125-child three-group school experiment, the closed-skill agility circuit
 
 Ottoboni Giovanni, Ceciliani Andrea, Tessari Alessia. (2021). The Effect of Structured Exercise on Short-Term Memory Subsystems: New Insight on Training Activities. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph18147545
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 In the older group of the same experiment, the closed-skill circuit produced a positive effect at post-exercise retest, "t(21) = 1.76, p = 0.046". The authors note this is the first demonstration that closed-skill activity may benefit STM abilities.
 
@@ -57,4 +61,7 @@ In the older group of the same experiment, the closed-skill circuit produced a p
 
 
 ## Related Claims
--
+- [A single bout of open-skill exercise improves short-term memory performance in primary-school children of both age groups (7–8 and 9–10 years).](open-skill-exercise-improves-stm-both-ages.md) — related
+- [The effect of a single exercise bout on children's short-term memory depends on an interaction of time, age, and exercise type.](time-age-exercise-interaction-stm.md) — a broader claim this one bears on
+- [A sedentary control condition (Italian grammar lesson) produces no improvement in children's short-term memory performance at either age.](sedentary-control-no-stm-improvement.md) — related
+- [Age may moderate acute PA effects on attention: effects appeared for 9–10 year olds but not 7–8 year olds](age-moderates-pa-attention-effect.md) — related

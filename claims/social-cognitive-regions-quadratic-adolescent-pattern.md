@@ -48,3 +48,6 @@ fMRI findings across age groups in social-cognitive regions. The authors "observ
 ## Related Claims
 - [Left ventrolateral prefrontal cortex activation shows linear age-related increases during reappraisal](left-vlpfc-linear-age-increase-reappraisal.md) — related
 - [Reappraisal ability shows linear and quadratic relationships with age, while self-reported emotional reactivity shows no age differences](reappraisal-ability-linear-quadratic-age-development.md) — related
+- [Instructed reappraisal success improves with age across ages 10-23, following linear and quadratic trends](instructed-reappraisal-success-improves-age-10-23.md) — related
+- [Mid-adolescents show attenuated right vlPFC response to rejection-themed words relative to adults](mid-adolescent-attenuated-vlpfc-rejection-stroop.md) — related
+- [The ventral anterior temporal lobe integrates facial identity with social and conceptual knowledge](ventral-atl-integrates-face-identity-semantic-knowledge.md) — related

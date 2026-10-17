@@ -15,12 +15,14 @@ sources:
     author: Xia Zhichao, Zhang Linjun, Hoeft Fumiko, Gu Bin, Gong Gaolang, Shu Hua
     q: 1
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The authors hypothesize that brain-reading cortical thickness correlations are positive in early reading acquisition and negative at later, consolidated stages
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · associational `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The authors propose that because skill acquisition thickens specific cortical regions while consolidation is associated with cortical thinning, positive CT-reading correlations should appear at young ages and negative ones at later stages. [→ Xia Zhichao 2018](#xia-zhichao-2018)
@@ -31,7 +33,7 @@ sources:
 
 Xia Zhichao, Zhang Linjun, Hoeft Fumiko, Gu Bin, Gong Gaolang, Shu Hua. (2018). Neural Correlates of Oral Word Reading, Silent Reading Comprehension, and Cognitive Subcomponents. International Journal of Behavioral Development. https://doi.org/10.1177/0165025417727872
 
-`q1 · i?`
+`q1 · i?` · `associational · r2`
 
 An authors' interpretation in the Discussion, described by them as based on "weak and indirect" evidence from prior skill-learning and reading studies (e.g., cortical thickening during learning, thinning during consolidation). No new data test this hypothesis in the present study.
 
@@ -41,4 +43,5 @@ An authors' interpretation in the Discussion, described by them as based on "wea
 
 
 ## Related Claims
--
+- [In Chinese children aged 10-12, oral word reading efficiency is positively correlated with cortical thickness in the LSTG, LITG, LSMG and RSTG](word-reading-ct-temporoparietal-occipitotemporal-chinese-children.md) — related
+- [In Chinese children aged 10-12, silent sentence reading comprehension is positively correlated with cortical thickness in the left parahippocampus and right calcarine fissure](sentence-comprehension-ct-parahippocampus-calcarine.md) — related

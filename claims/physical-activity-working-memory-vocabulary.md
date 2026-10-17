@@ -62,4 +62,4 @@ The review attributes to two intervention studies that combining "integrated phy
 
 
 ## Related Claims
--
+- [High performance in old age is associated with higher education, foreign language use and IQ, but not physical activity or personality](high-performance-linked-education-language-iq.md) — related

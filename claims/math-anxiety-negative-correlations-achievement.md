@@ -15,18 +15,22 @@ sources:
     author: Mark H. Ashcraft and Jeremy A. Krause
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
   - id: mark-h-ashcraft-and-jeremy-a-krause-2007-2
     resource: "https://doi.org/10.3758/bf03194059"
     title: "Mark H. Ashcraft and Jeremy A. Krause. (2007). Working memory, math performance, and math anxiety. Psychonomic Bulletin & Review, 14(2), 243-248. https://doi.org/10.3758/bf03194059"
     author: Mark H. Ashcraft and Jeremy A. Krause
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Math anxiety correlates negatively with math achievement, grades, enjoyment, motivation, and amount of math taken
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The overall correlation between math anxiety and standardized math achievement is -.31, with correlations of -.30 with high school grades and -.75 with enjoyment of math. [→ Mark H. Ashcraft and Jeremy A. Krause 2007](#mark-h-ashcraft-and-jeremy-a-krause-2007)
@@ -38,7 +42,7 @@ sources:
 
 Mark H. Ashcraft and Jeremy A. Krause. (2007). Working memory, math performance, and math anxiety. Psychonomic Bulletin & Review, 14(2), 243-248. https://doi.org/10.3758/bf03194059
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 The review reports correlations from the Hembree (1990) meta-analysis: "a math anxiety correlation of -.30 with high school grades, -.75 with enjoyment of math", and an overall correlation with standardized test achievement of -.31.
 
@@ -48,7 +52,7 @@ The review reports correlations from the Hembree (1990) meta-analysis: "a math a
 
 Mark H. Ashcraft and Jeremy A. Krause. (2007). Working memory, math performance, and math anxiety. Psychonomic Bulletin & Review, 14(2), 243-248. https://doi.org/10.3758/bf03194059
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 The authors' own study of "some 80 undergraduates" measured math anxiety and WRAT performance; "The correlation between math anxiety and the composite WRAT score was -.35", close to the Hembree meta-analytic value.
 
@@ -58,4 +62,8 @@ The authors' own study of "some 80 undergraduates" measured math anxiety and WRA
 
 
 ## Related Claims
--
+- [Math anxiety's negative impact on math achievement is limited to more difficult math, emerging around late elementary school content](math-anxiety-impact-limited-to-difficult-math.md) — a narrower finding that bears on this claim
+- [Enjoyment correlates positively (r = .31), and boredom, mathematics anxiety and test anxiety negatively (r = −.23 to −.28), with mathematics achievement](achievement-emotions-and-anxiety-correlate-with-math-achievement.md) — related
+- [Math anxiety correlates strongly and negatively with mathematics achievement among third graders](math-anxiety-negative-correlation-third-graders.md) — a narrower finding that bears on this claim
+- [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](math-anxiety-degrades-performance.md) — possibly the same claim (merge candidate)
+- [Intrinsic math motivation is positively correlated with arithmetic skills and negatively correlated with explicitly measured math anxiety in sixth graders](intrinsic-math-motivation-correlates-skills-anxiety.md) — related

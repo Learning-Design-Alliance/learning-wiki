@@ -47,3 +47,7 @@ This is the direct subtype comparison from the experiment with 27 children with 
 - [Children with ADHD-C show impaired visuospatial STM and CE relative to typically developing controls, whereas children with ADHD-I show impaired CE but intact STM](adhd-subtype-stm-ce-dissociation.md) — related
 - [Both ADHD subtypes show equally pronounced motivational deficits that impair visuospatial STM and WM performance](adhd-subtypes-equal-motivational-deficits.md) — reports the opposite
 - [High reinforcement improves STM and WM performance in both ADHD subtypes but not in controls](high-reinforcement-improves-stm-wm-adhd.md) — related
+- [Affect recognition deficits were not found unanimously across ADHD groups, suggesting a nuanced subtype-specific pattern](affect-deficits-not-unanimous-across-adhd-groups.md) — related
+- [The majority of children with ADHD-C is impaired on visuospatial working memory](majority-adhd-c-impaired-visuospatial-wm.md) — related
+- [Memory and motivation represent independent neuropsychological domains in children with ADHD](memory-motivation-independent-neuropsychological-domains.md) — related
+- [Visuospatial working memory and short-term memory impairments are most prevalent in children with ADHD-C relative to ADHD-I and typically developing controls](visuospatial-wm-stm-impairments-most-prevalent-adhd-c.md) — related

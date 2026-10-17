@@ -13,16 +13,20 @@ sources:
     title: White-Schwoch T 2015
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
   - id: white-schwoch-t-2015-2
     title: White-Schwoch T 2015 (2)
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The consonants-in-noise model predicts concurrent reading in school-aged children and reliably classifies externally diagnosed learning disability, being most effective at clearing children as unlikely to have an LD
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 2 studies · 2 associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` In 55 school-aged children (ages 8–14), the model score predicted concurrent reading competence (r[53] = 0.430) and a range of literacy tests including phonological processing (r[53] = 0.474). [→ White-Schwoch T 2015](#white-schwoch-t-2015)
@@ -34,7 +38,7 @@ sources:
 
 White-Schwoch T, Woodruff Carr K, Thompson EC, Anderson S, Nicol T, Bradlow AR, et al. (2015) Auditory Processing in Noise: A Preschool Biomarker for Literacy. PLoS Biol 13(7): e1002196. https://doi.org/10.1371/journal.pbio.1002196
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Experiment 4 applied the preschool-derived regression model to 55 school-aged children (ages 8–14, M = 10.82). Printed effect sizes include r = 0.474 (reported as r[53] = 0.474, p < .001) for phonological processing and r = 0.430 (r[53] = 0.430, p = .001) for reading competence; sight word reading (r[53] = 0.408), non-word reading (r[53] = 0.329), spelling, and oral reading efficiency were also predicted.
 
@@ -44,7 +48,7 @@ Experiment 4 applied the preschool-derived regression model to 55 school-aged ch
 
 White-Schwoch T, Woodruff Carr K, Thompson EC, Anderson S, Nicol T, Bradlow AR, et al. (2015) Auditory Processing in Noise: A Preschool Biomarker for Literacy. PLoS Biol 13(7): e1002196. https://doi.org/10.1371/journal.pbio.1002196
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 In Experiment 4, 26 children had an external LD diagnosis; groups differed on predicted scores (F[1,53] = 14.541, p < .001). Discriminant analysis classified 69.1% of cases correctly; ROC analysis (AUC = 0.756, 95% CI 0.627–0.885) showed the model excels at identifying children NOT in the reading-impaired group; no standardized effect size is printed for the group difference.
 
@@ -54,4 +58,6 @@ In Experiment 4, 26 children had an external LD diagnosis; groups differed on pr
 
 
 ## Related Claims
--
+- [A consonants-in-noise model derived in 4-year-olds generalizes to predict rapid naming and sentence memory in preschoolers, though not sentence memory in 3-year-olds](consonants-in-noise-score-predicts-rapid-naming-and-sentence-memory.md) — related
+- [Neural coding of consonants in noise strongly predicts phonological processing in 4-year-old pre-readers over and above demographic factors](neural-coding-consonants-noise-predicts-phonological-processing-prereaders.md) — related
+- [Preschool neurophysiological assessment predicts performance on phonological processing, rapid naming, sentence memory, sight word reading, spelling, and composite reading one year later](year1-neural-predictions-forecast-year2-literacy.md) — related

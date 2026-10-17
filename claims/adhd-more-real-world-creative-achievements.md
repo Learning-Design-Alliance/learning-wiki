@@ -15,12 +15,14 @@ sources:
     author: Boot Nathalie, Nevicka Barbara, Baas Matthijs
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Adults with ADHD report more real-world creative achievements than healthy controls
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Adults with ADHD (both medicated and nonmedicated) reported more publically recognized real-world creative achievements than matched healthy controls, with no difference between the two ADHD groups. [→ Boot Nathalie 2017](#boot-nathalie-2017)
@@ -31,7 +33,7 @@ sources:
 
 Boot Nathalie, Nevicka Barbara, Baas Matthijs. (2017). Creativity in ADHD: Goal-Directed Motivation and Domain Specificity. Journal of Attention Disorders. https://doi.org/10.1177/1087054717727352
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 Online Study 1 with 71 adults diagnosed with ADHD (42 medicated, 29 nonmedicated) and 36 matched controls completed the Creative Achievement Questionnaire. The contrast showed "more real-world creative achievements than healthy controls" with d = 0.71; the two ADHD groups did not differ (d = 0.25).
 
@@ -41,4 +43,8 @@ Online Study 1 with 71 adults diagnosed with ADHD (42 medicated, 29 nonmedicated
 
 
 ## Related Claims
--
+- [Adults with ADHD rate themselves as more creative in the performance and mechanical/scientific domains](adhd-domain-specific-self-perceived-creativity.md) — related
+- [Adults with ADHD select fewer useful problem reconstructions than controls, with equal originality](adhd-less-useful-problem-reconstruction.md) — related
+- [Medication use does not affect creativity measures in adults with ADHD](no-medication-effect-on-creativity-adhd.md) — related
+- [Adults with ADHD score lower on the MPQ Achievement scale, a surrogate trait measure of motivation, than controls](adhd-lower-mpq-achievement-scale.md) — reports the opposite
+- [Adolescents with ADHD exhibit selective cognitive advantages and disadvantages on creativity measures relative to healthy controls](adhd-selective-creativity-advantages-disadvantages.md) — related

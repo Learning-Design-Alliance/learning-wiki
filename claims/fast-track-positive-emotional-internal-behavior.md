@@ -47,3 +47,4 @@ Findings from the Conduct Problems Prevention Research Group (1999a) randomized 
 
 ## Related Claims
 - [Fast Track showed positive, statistically significant effects on some external behavior measures after one year, with no significant differences on eight other measures](fast-track-external-behavior-mixed-measures.md) — related
+- [One study found the intervention effect on conduct problems was stronger for youth at greater risk of developing conduct problems.](stronger-conduct-problem-prevention-for-higher-risk-youth.md) — related

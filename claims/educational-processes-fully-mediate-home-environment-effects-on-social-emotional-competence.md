@@ -13,12 +13,14 @@ sources:
     title: Li S 2023
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Educational processes fully mediate the effects of structural family characteristics and parental beliefs and interests on children's social–emotional competence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The direct paths from structural family characteristics and parental beliefs and interests to social–emotional competence became insignificant once educational processes entered the model, indicating full mediation. [→ Li S 2023](#li-s-2023)
@@ -30,7 +32,7 @@ sources:
 
 Li S, Tang Y and Zheng Y (2023) How the home learning environment contributes to children's social–emotional competence: A moderated mediation model. Front. Psychol. 14:1065978. https://doi.org/10.3389/fpsyg.2023.1065978
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Structural model in AMOS with educational processes as mediator, controlling age and number of children. Educational processes significantly predicted social–emotional competence (β = 0.88, p < 0.001); the authors report "mediated exclusively by the educational processes" and Bias-Corrected Bootstrap (5,000 samples) 95% CIs excluding zero for both indirect effects.
 
@@ -40,4 +42,7 @@ Structural model in AMOS with educational processes as mediator, controlling age
 
 
 ## Related Claims
--
+- [Structural family characteristics and parental beliefs and interests each significantly positively predict preschool children's social–emotional competence](structural-family-characteristics-and-parental-beliefs-predict-preschoolers-social-emotional-competence.md) — related
+- [Family support and home learning activities are negatively correlated with number of children in the family, and social–emotional competence correlates positively with home environment dimensions](family-size-correlates-negatively-with-home-learning-support.md) — related
+- [Gender moderates the direct effect of parental beliefs and interests on children's social–emotional competence but not the direct effect of structural family characteristics](gender-moderates-direct-effect-of-parental-beliefs-not-structural-characteristics.md) — related
+- [Neighborhood effects on graduation appear to operate in part through neighborhood effects on parents (time-varying family characteristics)](neighborhood-effects-mediated-through-parents.md) — related

@@ -15,12 +15,14 @@ sources:
     author: Preiss David D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Mind wandering episodes during incubation are correlated with individuals' ability to solve creative problems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Episodes of mind wandering during incubation are correlated with the individuals' ability to solve creative problems. [→ Preiss David D 2022](#preiss-david-d-2022)
@@ -31,7 +33,7 @@ sources:
 
 Preiss David D. (2022). Metacognition, Mind Wandering, and Cognitive Flexibility: Understanding Creativity. Journal of Intelligence. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9500634/
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports, citing Baird et al. (2012), that "Episodes of mind wandering during incubation are correlated with the individuals' ability to solve creative problems". This is a second-hand citation of an empirical finding, reported without effect sizes in the review.
 
@@ -41,4 +43,7 @@ The review reports, citing Baird et al. (2012), that "Episodes of mind wandering
 
 
 ## Related Claims
--
+- [Professional creators develop the capacity to mindfully mind-wander, identifying and capitalizing on mind wandering during long-term creative enterprises](mindful-mind-wandering-professional-creators.md) — related
+- [Trait mind wandering predicts verbal creativity over fluid intelligence, reading difficulties, and declarative knowledge of metacognitive strategies in tertiary-level students](trait-mind-wandering-predicts-verbal-creativity-tertiary-students.md) — related
+- [High school students capitalize on the creative potential of mind wandering at the highest levels of attentional capacity and metacognition](high-school-students-mind-wandering-attentional-capacity-metacognition.md) — related
+- [Metacognition may limit creativity during the generative stage but facilitate it during the exploratory stage](metacognition-dual-impact-generative-exploratory-stages.md) — related

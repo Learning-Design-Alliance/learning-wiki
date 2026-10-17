@@ -15,12 +15,14 @@ sources:
     author: Quiñones-Camacho Laura E., Fishburn Frank A., Camacho M. Catalina, Wakschlag Lauren S., Perlman Susan B.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The Stroop condition elicits significantly more left DLPFC activation than the NonStroop condition in preschoolers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` There was a significant increase in oxy-hemoglobin concentrations between Stroop and NonStroop conditions in three channels of the left DLPFC (p < .05, FDR corrected). [→ Quiñones-Camacho Laura E. 2019](#quinones-camacho-laura-e-2019)
@@ -31,7 +33,7 @@ sources:
 
 Quiñones-Camacho Laura E., Fishburn Frank A., Camacho M. Catalina, Wakschlag Lauren S., Perlman Susan B. (2019). Cognitive flexibility-related prefrontal activation in preschoolers: A biological approach to temperamental effortful control. Developmental Cognitive Neuroscience. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6969345/
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 fNIRS group-level t-contrast of Stroop vs. NonStroop found "a significant increase in oxy-hemoglobin concentrations between Stroop and NonStroop conditions in three channels of the left DLPFC" (p < .05, FDR corrected).
 
@@ -41,4 +43,5 @@ fNIRS group-level t-contrast of Stroop vs. NonStroop found "a significant increa
 
 
 ## Related Claims
--
+- [Children are more accurate and faster on NonStroop than Stroop trials of the Pet Store Stroop task](nonstroop-more-accurate-faster-than-stroop.md) — related
+- [Greater parent-reported temperamental effortful control predicts less DLPFC activation during cognitive flexibility in preschoolers](effortful-control-predicts-less-dlpfc-activation.md) — related

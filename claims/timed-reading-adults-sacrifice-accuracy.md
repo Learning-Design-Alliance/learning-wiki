@@ -41,4 +41,7 @@ Qualitative conclusion from the curriculum design studies conducted in ABE class
 
 
 ## Related Claims
--
+- [High math-anxious participants sacrifice accuracy for speed as problems become more difficult, interpreted as an avoidance-like effort to finish quickly](high-math-anxious-sacrifice-accuracy-for-speed.md) — related
+- [An AI-supported reading progress tool produced large effect sizes for speed and accuracy but not significant prosody gains for third-grade EFL learners](ai-reading-progress-speed-accuracy-large-effects-prosody-null.md) — related
+- [Common language teaching methods such as oral drills, memorization, and fast-paced competitive activities disadvantage older learners](rote-drills-disadvantage-older-learners.md) — related
+- [No significant differences in probe error rates between test and control trials were found, suggesting the negative priming RT effect is not due to speed-accuracy trade-offs](probe-error-rates-null-speed-accuracy.md) — related

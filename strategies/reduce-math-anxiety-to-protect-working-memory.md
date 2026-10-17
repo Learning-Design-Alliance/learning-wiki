@@ -40,7 +40,7 @@ Because "working memory resources are compromised whenever the anxiety is arouse
 - preventing avoidance of elective math coursework
 
 ### Affordances
-- [Math Anxiety As Secondary Task Theory](../theories/math-anxiety-as-secondary-task-theory.md)
+- [Math Anxiety As Secondary Task Theory](../theories/cognitive-load-theory.md)
 
 ## Related Strategies
 - 

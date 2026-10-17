@@ -15,12 +15,14 @@ sources:
     author: "Davis, E. L., Levine, L. J., Lench, H. C., & Quas, J. A."
     q: 3
     i: 2
+    kind: associational
+    rigour: 1
 ---
 
 # Five- and six-year-olds describe changing thoughts more often than changing goals as a metacognitive strategy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r1` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` In Study 1, children described changing thoughts (M = .58) more often than changing goals (M = .42), a marginal effect. [→ Davis 2010](#davis-2010)
@@ -31,7 +33,7 @@ sources:
 
 Davis, E. L., Levine, L. J., Lench, H. C., & Quas, J. A. (2010). Metacognitive Emotion Regulation: Children’s Awareness that Changing Thoughts and Goals Can Alleviate Negative Emotions. Emotion, 10(4), 498–510. https://doi.org/10.1037/a0018428
 
-`q3 · i2`
+`q3 · i2` · `associational · r1`
 
 Mixed ANOVA on metacognitive strategy proportions among the 66 children attributing sadness and anger. Changing thoughts (M = .58) exceeded changing goals (M = .42), F(1, 65) = 3.97, p = .05, η2p = .06 — a small-to-medium effect at the significance threshold.
 
@@ -41,4 +43,6 @@ Mixed ANOVA on metacognitive strategy proportions among the 66 children attribut
 
 
 ## Related Claims
--
+- [In hypothetical scenarios, 5- and 6-year-olds most often suggest goal reinstatement and goal substitution, and their strategies do not differ for sadness versus anger](study1-goal-strategies-most-common-no-emotion-difference.md) — related
+- [Children tailor metacognitive strategy type to emotion: changing goals most for sadness, changing thoughts most for fear](children-tailor-metacognitive-strategy-type-to-emotion.md) — related
+- [A majority of 5- and 6-year-olds can describe metacognitive emotion regulation strategies when asked about familiar hypothetical situations with multiple prompts](five-six-year-olds-describe-metacognitive-emotion-regulation.md) — related

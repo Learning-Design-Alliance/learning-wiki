@@ -43,4 +43,5 @@ Cross-sectional regression (Model 2) in 106 children with overweight/obesity. Re
 
 
 ## Related Claims
--
+- [A 9-month afterschool physical activity program improved cardiorespiratory fitness and the cognitive control of working memory, with ERP evidence of more effective cognitive control](kamijo-afterschool-fitness-working-memory.md) — related
+- [In adolescents, physical fitness components except balance are positively associated with academic achievement, with aerobic endurance the strongest (r=0.49)](pf-components-associated-adolescent-academic-achievement.md) — reports the opposite

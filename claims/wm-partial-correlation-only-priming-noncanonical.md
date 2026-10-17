@@ -49,3 +49,4 @@ Partial correlation analysis controlling for age, in the same cross-sectional st
 - [Working memory capacity is a robust indicator of success or failure in language learning](wm-capacity-predicts-language-learning-success.md) — related
 - [WM capacity is significantly and negatively correlated with age in Korean adults](wm-negatively-correlated-with-age.md) — related
 - [Working-memory capacity correlates positively with accuracy on all four sentence-production conditions](wm-positively-correlated-all-production-conditions.md) — reports the opposite
+- [Word-learning performance correlates with vocabulary production in normal-hearing children but not with sentence length](word-learning-correlates-nh-vocabulary.md) — related

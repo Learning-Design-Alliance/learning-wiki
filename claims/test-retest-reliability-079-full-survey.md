@@ -46,3 +46,4 @@ The test-retest study re-administered the survey to a stratified subsample 1 to 
 - [The full 32-item computing career intentions survey shows very good internal consistency (alpha = 0.94) in a large-scale field test](full-survey-internal-consistency-alpha-094.md) — related
 - [A 12-item short form of the survey retains acceptable-to-good reliability (alpha = 0.85; test-retest = 0.75)](short-form-survey-acceptable-reliability.md) — related
 - [Self-efficacy measures show high reliability and domain-specific validity](self-efficacy-measures-reliable-domain-specific.md) — a broader claim this one bears on
+- [CMS shows acceptable test-retest reliability and internal consistency](cms-reliability-icc-alpha.md) — related

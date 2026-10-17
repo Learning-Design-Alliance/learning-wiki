@@ -15,12 +15,14 @@ sources:
     author: Karen E. Smith and Seth D. Pollak
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Chronicity, developmental timing, and intensity of adversity exposure shape children's neurobiological stress responses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Children with high Life Stress Interview scores have smaller amygdala and hippocampal volumes, and retrospectively reported severity of early stress is associated with increased dorsal medial PFC responses to a social stressor and altered ventrolateral PFC connectivity. [→ Karen E. Smith and Seth D. Pollak 2020](#karen-e-smith-and-seth-d-pollak-2020)
@@ -31,7 +33,7 @@ sources:
 
 Karen E. Smith and Seth D. Pollak. (2020). Early life stress and development: potential mechanisms for adverse outcomes. Journal of Neurodevelopmental Disorders. https://doi.org/10.1186/s11689-020-09337-y
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative review synthesis of studies on adversity intensity. The review reports "Children with high scores on the Life Stress Interview (LSI), which quantifies the intensity of children’s stress exposure, have smaller amygdala and hippocampal volumes than children exposed to less intense levels of early life stress." No effect sizes are printed.
 
@@ -41,4 +43,10 @@ Narrative review synthesis of studies on adversity intensity. The review reports
 
 
 ## Related Claims
--
+- [Early life stress produces structural and functional alterations in prefrontal-hippocampal-amygdala circuits in animals and humans, with reduced hippocampal volume among the most reliable human findings](els-pfc-hippocampus-amygdala-alterations.md) — related
+- [Children's perception and interpretation of stressors, rather than event type alone, shapes neurobiological stress responses](perception-interpretation-shapes-stress-response.md) — related
+- [Threat and deprivation show overlapping effects on PFC-amygdala connectivity and hippocampal volume](threat-deprivation-shared-neural-effects.md) — related
+- [Chronic HPA axis activation via CRH and glucocorticoids is proposed to partially mediate the neural effects of early life stress](hpa-crh-glucocorticoid-partial-mediation.md) — related
+- [Hippocampal volume relates to episodic memory differently across development: adults show head/body associations, children show tail associations](developmental-dissociation-hippocampal-volume-episodic-memory.md) — related
+- [Early life stress disrupts dopaminergic reward circuitry in animals and humans, with altered reward learning and links to depressive and anxiety symptoms](els-dopaminergic-reward-disruption.md) — related
+- [Unpredictability and lack of contingent caregiver responding in childhood is associated with increased adolescent externalizing behaviors and altered prefrontal-hippocampal-amygdala circuits](environmental-unpredictability-externalizing-circuits.md) — related

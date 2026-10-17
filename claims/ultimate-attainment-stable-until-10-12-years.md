@@ -58,4 +58,8 @@ Same MARS analysis applied to 29,708 non-immersion learners with at least 30 yea
 
 
 ## Related Claims
--
+- [Grammar-learning ability is preserved until about age 17.4 and then declines steadily, per the best-fitting ELSD model](grammar-learning-rate-declines-after-17-4-years.md) — related
+- [Ultimate attainment and optimal-period length do not reliably differ across major native-language groups, with slightly more evidence for differences in learning curves](native-language-group-differences-small-unreliable.md) — related
+- [Permutation tests show early-starting immersion and non-immersion learners are indistinguishable from the earliest learners, while later starters learn significantly more slowly](permutation-early-starters-indistinguishable-later-slower.md) — related
+- [Native and non-native learners require around 30 years to reach asymptotic performance](thirty-years-to-asymptotic-performance.md) — related
+- [Blocked-format span declines after age 20 but mixed-format span does not, implicating proactive interference in aging declines](blocked-decline-mixed-no-decline-aging-span.md) — related

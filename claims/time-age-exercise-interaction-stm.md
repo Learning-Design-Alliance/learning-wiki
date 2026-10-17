@@ -15,12 +15,14 @@ sources:
     author: Ottoboni Giovanni, Ceciliani Andrea, Tessari Alessia
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The effect of a single exercise bout on children's short-term memory depends on an interaction of time, age, and exercise type.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The three-way time × age × exercise interaction was significant, indicating that the pre-to-post change in STM spans differed across exercise types and age groups. [→ Ottoboni Giovanni 2021](#ottoboni-giovanni-2021)
@@ -31,7 +33,7 @@ sources:
 
 Ottoboni Giovanni, Ceciliani Andrea, Tessari Alessia. (2021). The Effect of Structured Exercise on Short-Term Memory Subsystems: New Insight on Training Activities. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph18147545
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Omnibus multivariate ANOVA on 125 children's spans with factors exercise, age, gender, memory task and time. The three-way interaction was significant, "F(2, 112) = 3.79, p = 0.026", followed by age-specific corrected t-tests.
 
@@ -41,4 +43,7 @@ Omnibus multivariate ANOVA on 125 children's spans with factors exercise, age, g
 
 
 ## Related Claims
--
+- [A single bout of closed-skill exercise improves short-term memory performance only in older primary-school children (9–10 years), not in 7–8-year-olds.](closed-skill-exercise-improves-stm-older-children-only.md) — a narrower finding that bears on this claim
+- [A single bout of open-skill exercise improves short-term memory performance in primary-school children of both age groups (7–8 and 9–10 years).](open-skill-exercise-improves-stm-both-ages.md) — a narrower finding that bears on this claim
+- [A sedentary control condition (Italian grammar lesson) produces no improvement in children's short-term memory performance at either age.](sedentary-control-no-stm-improvement.md) — a narrower finding that bears on this claim
+- [Short-term memory task profiles differ by age: 7–8-year-olds show no verbal–spatial difference, while 9–10-year-olds show a verbal > visuo-spatial > motor gradient.](stm-task-profiles-differ-by-age.md) — related

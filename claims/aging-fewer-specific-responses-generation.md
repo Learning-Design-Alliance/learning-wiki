@@ -47,3 +47,4 @@ Mixed-design ANOVA on generation responses in the memory experiment showed young
 - [Older adults produce fewer internal details than younger adults during elaboration across both experiments](aging-fewer-internal-details-elaboration.md) — related
 - [Generation and elaboration specificity correlate for autobiographical memory but not for problem solving in both age groups](generation-elaboration-correlation-memory-only.md) — related
 - [Specificity measures correlate more strongly across tasks for older adults than younger adults, suggesting semantic strategy reliance](specificity-correlations-stronger-older-adults.md) — related
+- [Older adults manifest more than twice as many user difficulties as younger users in ICT contexts](older-adults-twice-user-difficulties-ict.md) — related

@@ -47,3 +47,7 @@ Hierarchical regression analyses of the LOGIC longitudinal sample (assessments a
 - [Non-verbal intelligence measures (Raven, WISC Block Design) are non-significant math predictors when well-specified spatial and memory measures are in the model](nonverbal-iq-nonsignificant-math-predictor.md) — reports the opposite
 - [Preschool working memory–flexibility predicts later math achievement, especially in Grade 3](preschool-wm-flexibility-predicts-math-achievement.md) — related
 - [Verbal working memory predicts oral reading fluency in children with and without ADHD](verbal-working-memory-predicts-reading-fluency.md) — a narrower finding that bears on this claim
+- [Executive function measures predict early mathematics achievement over and above reading ability and IQ](executive-functions-predict-early-math-over-iq.md) — related
+- [IQ, short-term memory and study habits each correlate positively and significantly with academic achievement in both 3rd and 4th grade](iq-memory-study-habits-positive-correlations-achievement.md) — related
+- [Full-scale IQ predicts reading comprehension more strongly than word reading, and working memory and processing speed remain significant predictors after IQ is controlled](iq-predicts-comprehension-more-than-word-reading.md) — related
+- [Kindergarten visual processing uniquely predicts grade-one early mathematics after controlling for prior mathematics and general cognitive abilities](visual-processing-predicts-grade-one-mathematics.md) — related

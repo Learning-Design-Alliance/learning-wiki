@@ -65,3 +65,5 @@ The review reports, citing Crandell and Smaldino, that "A stronger noise effect 
 ## Related Claims
 - [Children's speech perception in noise is more impaired than adults', requiring higher signal-to-noise ratios for comparable performance](children-speech-perception-noise-more-impaired-than-adults.md) — related
 - [Noise impairs children's performance in complex listening tasks beyond simple identification, with children affected more than adults](noise-impairs-children-listening-comprehension.md) — related
+- [Children are more susceptible than adults to the effects of environmental noise on cognitive performance](children-more-susceptible-to-noise-than-adults.md) — possibly the same claim (merge candidate)
+- [Most children with emotional and behavioral disorders have undiagnosed language impairment](ebd-undiagnosed-language-impairment.md) — related

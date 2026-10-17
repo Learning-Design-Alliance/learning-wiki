@@ -15,12 +15,14 @@ sources:
     author: Rowe Anna D.; Fitness Julie
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Fear is perceived to impair cognition broadly yet increase conscientiousness and attention to detail, promoting quality outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Fear was associated with increased conscientiousness and careful attention to detail despite its perceived detrimental impact on attention broadly. [→ Rowe Anna D.; Fitness Julie 2018](#rowe-anna-d-fitness-julie-2018)
@@ -31,7 +33,7 @@ sources:
 
 Rowe Anna D.; Fitness Julie. (2018). Understanding the Role of Negative Emotions in Adult Learning and Achievement: A Social Functional Perspective. Behavioral Sciences. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5836010/
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Participant-reported function of fear in the interview study. A faculty participant described fear as ensuring detail coverage: "makes sure you cross your Ts and dot your Is," linking fear to conscientiousness and quality outcomes.
 
@@ -41,4 +43,5 @@ Participant-reported function of fear in the interview study. A faculty particip
 
 
 ## Related Claims
--
+- [Negative emotions are perceived to have either positive or negative impacts on learning, with faculty more likely than students to recognize their functional benefits](negative-emotions-dual-impact-faculty-see-benefits.md) — related
+- [Faculty identify emotion intensity, personality, demographics and task nature as mediating factors determining whether negative emotions promote or inhibit learning](mediating-factors-emotion-impact-learning.md) — related

@@ -13,12 +13,14 @@ sources:
     title: Li S 2023
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Structural family characteristics and parental beliefs and interests each significantly positively predict preschool children's social–emotional competence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Structural family characteristics had a significant positive predictive effect on children's social–emotional competence (β = 0.64, p < 0.001). [→ Li S 2023](#li-s-2023)
@@ -30,7 +32,7 @@ sources:
 
 Li S, Tang Y and Zheng Y (2023) How the home learning environment contributes to children's social–emotional competence: A moderated mediation model. Front. Psychol. 14:1065978. https://doi.org/10.3389/fpsyg.2023.1065978
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Latent variable SEM of parent-reported Home Learning Environment Questionnaire and teacher-reported CICESC data from 443 children in 14 kindergartens in western China. The direct-effects model showed "a significant positive predictive effect on children's social–emotional competence" for both predictors, with good model fit (RMSEA = 0.055, CFI = 0.911).
 
@@ -40,4 +42,6 @@ Latent variable SEM of parent-reported Home Learning Environment Questionnaire a
 
 
 ## Related Claims
--
+- [Educational processes fully mediate the effects of structural family characteristics and parental beliefs and interests on children's social–emotional competence](educational-processes-fully-mediate-home-environment-effects-on-social-emotional-competence.md) — related
+- [Family support and home learning activities are negatively correlated with number of children in the family, and social–emotional competence correlates positively with home environment dimensions](family-size-correlates-negatively-with-home-learning-support.md) — related
+- [Gender moderates the direct effect of parental beliefs and interests on children's social–emotional competence but not the direct effect of structural family characteristics](gender-moderates-direct-effect-of-parental-beliefs-not-structural-characteristics.md) — related

@@ -41,4 +41,6 @@ Small cross-sectional DTI study (N=22) of 9- to 15-year-olds (Mabbott et al., 20
 
 
 ## Related Claims
--
+- [Episodic memory improves during middle childhood while familiarity-based recognition reaches adult levels by age 8](episodic-memory-improves-middle-childhood-familiarity-age-invariant.md) — related
+- [Memory-based strategy use continues to increase from childhood through adolescence into adulthood](retrieval-development-through-adolescence-adulthood.md) — related
+- [Screen time is not significantly associated with white matter microstructure (FA, MD) in 10-year-olds, while sports participation is positively associated with FA](screen-time-null-white-matter-children.md) — related

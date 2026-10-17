@@ -53,3 +53,4 @@ Random effects models across the same 16-study meta-analysis produced moderate a
 - [Lower-level phonological processing efficiency contributes significantly to individual differences in adult ESL reading measures](phonological-orthographic-efficiency-predicts-esl-reading.md) — related
 - [Morphological awareness is a significantly stronger correlate of adult reading comprehension than phonological awareness and RAN](morphological-awareness-stronger-than-phonological-ran.md) — related
 - [Six component reading skills show strong average relationships with reading comprehension in struggling adult readers (rs ≥ .50)](six-strong-component-skills-adult-reading-comprehension.md) — a broader claim this one bears on
+- [In-scanner sentence judgment accuracy correlates significantly with standardized reading fluency and phonological awareness scores across both groups](inscanner-performance-correlates-fluency-phonological.md) — related

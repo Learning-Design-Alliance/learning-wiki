@@ -15,18 +15,22 @@ sources:
     author: Karen E. Smith and Seth D. Pollak
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: karen-e-smith-and-seth-d-pollak-2020-2
     resource: "https://doi.org/10.1186/s11689-020-09337-y"
     title: "Karen E. Smith and Seth D. Pollak. (2020). Early life stress and development: potential mechanisms for adverse outcomes. Journal of Neurodevelopmental Disorders. https://doi.org/10.1186/s11689-020-09337-y"
     author: Karen E. Smith and Seth D. Pollak
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Unpredictability and lack of contingent caregiver responding in childhood is associated with increased adolescent externalizing behaviors and altered prefrontal-hippocampal-amygdala circuits
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Longitudinal research finds unpredictability of the childhood environment, quantified via changes in maternal employment, residence, and cohabitation, is associated with increased externalizing behaviors in adolescence while SES was not related. [→ Karen E. Smith and Seth D. Pollak 2020](#karen-e-smith-and-seth-d-pollak-2020)
@@ -38,7 +42,7 @@ sources:
 
 Karen E. Smith and Seth D. Pollak. (2020). Early life stress and development: potential mechanisms for adverse outcomes. Journal of Neurodevelopmental Disorders. https://doi.org/10.1186/s11689-020-09337-y
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative review synthesis of longitudinal human research on environmental unpredictability. The review reports unpredictability quantified via changes in maternal employment, residence, and cohabitation "is associated with increased externalizing behaviors in adolescence while SES was not related." No effect sizes are printed.
 
@@ -48,7 +52,7 @@ Narrative review synthesis of longitudinal human research on environmental unpre
 
 Karen E. Smith and Seth D. Pollak. (2020). Early life stress and development: potential mechanisms for adverse outcomes. Journal of Neurodevelopmental Disorders. https://doi.org/10.1186/s11689-020-09337-y
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative review synthesis of rodent research on unpredictable maternal inputs. The review reports "unpredictable maternal inputs are associated with altered connectivity between the medial prefrontal cortex (PFC) and amygdala" and decreased hippocampal dendritic arborization beyond type-of-input effects, linked to PTSD and depressive-like behaviors and learning deficits. No effect sizes are printed.
 
@@ -58,4 +62,6 @@ Narrative review synthesis of rodent research on unpredictable maternal inputs. 
 
 
 ## Related Claims
--
+- [Early life stress produces structural and functional alterations in prefrontal-hippocampal-amygdala circuits in animals and humans, with reduced hippocampal volume among the most reliable human findings](els-pfc-hippocampus-amygdala-alterations.md) — related
+- [Threat and deprivation show overlapping effects on PFC-amygdala connectivity and hippocampal volume](threat-deprivation-shared-neural-effects.md) — related
+- [Chronicity, developmental timing, and intensity of adversity exposure shape children's neurobiological stress responses](adversity-timing-intensity-shape-responses.md) — related

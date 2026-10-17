@@ -62,4 +62,4 @@ The review reports Domagk's (2008) finding that "likeable agents lead to a highe
 
 
 ## Related Claims
--
+- [The mere presence of another person with different knowledge slows egocentric judgements, unaffected by cognitive load](implicit-representation-of-others-knowledge-perspective.md) — related

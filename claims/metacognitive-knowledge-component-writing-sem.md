@@ -15,12 +15,14 @@ sources:
     author: R. Schoonen, A. van Gelderen, K. de Glopper, J. Hulstijn, A. Simis, P. Snellings, M. Stevenson
     q: 3
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Metacognitive knowledge was examined as a component of writing proficiency alongside linguistic knowledge and fluency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r?` · `q3`
 
 ## Subclaims
 `q2 i?` The study included metacognitive knowledge as one of three components whose relative importance in L1 and L2 writing was modeled and compared. [→ R. Schoonen 2003](#r-schoonen-2003)
@@ -31,7 +33,7 @@ sources:
 
 R. Schoonen, A. van Gelderen, K. de Glopper, J. Hulstijn, A. Simis, P. Snellings, M. Stevenson. (2003). First language and second language writing: the role of linguistic knowledge, speed of processing, and metacognitive knowledge. Language Learning, 53(1), 165-202. https://doi.org/10.1111/1467-9922.00213
 
-`q3 · i?`
+`q3 · i?` · `associational · r?`
 
 The study's stated design modeled three components — linguistic knowledge, metacognitive knowledge, and fluency — in both L1 and L2 writing using structural equation modeling with 281 grade 8 students. The abstract states the "relative importance of the three components was studied and compared across L1 and L2 writing."
 
@@ -41,4 +43,6 @@ The study's stated design modeled three components — linguistic knowledge, met
 
 
 ## Related Claims
--
+- [Writing proficiency components were studied and compared across L1 and L2 using the same modeling framework](cross-language-comparison-writing-components-sem.md) — related
+- [Fluency measures correlated with overall writing performance in both L1 and L2, but added no predictive value beyond linguistic knowledge](fluency-no-additional-value-beyond-linguistic-knowledge-writing.md) — related
+- [L2 writing proficiency was more highly correlated with L1 writing proficiency than with L2 linguistic knowledge or its accessibility](l2-writing-correlates-more-with-l1-writing-than-l2-knowledge.md) — related

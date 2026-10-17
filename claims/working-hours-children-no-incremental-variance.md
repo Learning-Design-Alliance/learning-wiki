@@ -41,4 +41,5 @@ Hierarchical regression analyses testing whether working hours and number of chi
 
 
 ## Related Claims
--
+- [Parents' work-family conflict is stably negatively associated with their own engagement over time, with no crossover partner effects](wfc-stable-negative-own-engagement-no-crossover.md) — related
+- [Fathers' initial engagement levels are lower than mothers' but their growth rate is higher, narrowing the gap over time](fathers-lower-start-higher-growth-engagement.md) — related

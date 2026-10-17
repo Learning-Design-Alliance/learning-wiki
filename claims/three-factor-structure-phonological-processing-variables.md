@@ -15,12 +15,14 @@ sources:
     author: "Mendes, G. G., & Barrera, S. D."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Exploratory factor analysis grouped literacy-predictor variables into three factors: phonological memory with phonological awareness, rapid naming, and visual processing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Exploratory factor analysis suggested a three-factor grouping: phonological memory and phonological awareness together, rapid naming alone, and visual processing alone. [→ Mendes 2017](#mendes-2017)
@@ -31,7 +33,7 @@ sources:
 
 Mendes, G. G., & Barrera, S. D. (2017). Phonological Processing and Reading and Writing Skills in Literacy. Paidéia (Ribeirão Preto), 27(68), 298-305. https://doi.org/10.1590/1982-43272768201707
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 An exploratory factor analysis of the study variables "suggested the grouping of variables in three factors", separating phonological memory and phonological awareness from rapid naming and visual processing; no factor loadings are printed in the available text.
 
@@ -41,4 +43,4 @@ An exploratory factor analysis of the study variables "suggested the grouping of
 
 
 ## Related Claims
--
+- [Phonological awareness and phonological memory are the skills that contributed most to initial reading and writing performance in third-grade students](phonological-awareness-memory-most-contribute-reading-writing.md) — related
